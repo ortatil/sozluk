@@ -1,0 +1,99 @@
+{
+    "id": "i95865",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "kubrick",
+    "en_definition": "United States filmmaker (born in 1928)",
+    "tr_word": "Kubrick",
+    "tr_definition": "Amerika Birleşik Devletleri doğumlu (1928), dünyaca ünlü film yönetmeni.",
+    "ru_word": "Кубрик",
+    "ru_definition": "Американский кинорежиссёр (родился в 1928 году).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Stanley Kubrick"
+                ],
+                "Azerbaijani": [
+                    "Stenli Kubrik"
+                ],
+                "Turkmen": [
+                    "Stenli Kubrik"
+                ],
+                "Uzbek": [
+                    "Stenli Kubrik"
+                ],
+                "Uyghur": [
+                    "ستېنلى كۇبرىك"
+                ],
+                "Kazakh": [
+                    "Стэнли Кубрик"
+                ],
+                "Kyrgyz": [
+                    "Стэнли Кубрик"
+                ],
+                "Karakalpak": [
+                    "Stenli Kubrik"
+                ],
+                "Tatar": [
+                    "Стэнли Кубрик"
+                ],
+                "Bashkir": [
+                    "Стэнли Кубрик"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كۇبرىك"
+                ],
+                "Kazakh": [
+                    "Кубрик"
+                ],
+                "Kyrgyz": [
+                    "Кубрик"
+                ],
+                "Karakalpak": [
+                    "Kubrik"
+                ],
+                "Tatar": [
+                    "Кубрик"
+                ],
+                "Bashkir": [
+                    "Кубрик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yönetmen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "film yapımcısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rejissyor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kinorejissyor"
+                ]
+            }
+        }
+    ]
+}

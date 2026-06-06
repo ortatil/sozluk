@@ -1,0 +1,203 @@
+# Reconsider
+| Field | Detail |
+|---|---|
+| **ID** | i24999 |
+| **English** | reconsider |
+| **Type** | verb |
+| **Definition** | consider again; give new consideration to; usually with a view to changing |
+| **Source** | common |
+| **Ortatil** | tüzätumaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tüzätumaq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| төзәтү | tözätü |
+| **Bashkir** | |
+| төҙәтеү | tözäteü |
+| үҙгәртеү | üzgärteü |
+
+```json
+{
+    "id": "i24999",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "reconsider",
+    "en_definition": "consider again; give new consideration to; usually with a view to changing",
+    "tr_word": "yeniden değerlendirmek",
+    "tr_definition": "bir konuyu veya kararı, genellikle değiştirmek amacıyla tekrar gözden geçirmek",
+    "ru_word": "пересматривать",
+    "ru_definition": "рассматривать что-либо снова, обычно с целью изменения решения или мнения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan seretmek"
+                ],
+                "Uzbek": [
+                    "qayta o'ylamoq"
+                ],
+                "Uyghur": [
+                    "قايتا ئويلىنىش",
+                    "قايتا قاراپ چىقماق",
+                    "قايتا مۇلاھىزە قىلماق",
+                    "قايتا پىكىر يۈرگۈزمەك"
+                ],
+                "Kazakh": [
+                    "қайта қарау",
+                    "қайта ойлану",
+                    "қайта толғану",
+                    "қайта саралау"
+                ],
+                "Kyrgyz": [
+                    "кайра карап чыгуу",
+                    "кайра ойлонуу",
+                    "кайра ойлоп көрүү",
+                    "кайра талкуулоо"
+                ],
+                "Karakalpak": [
+                    "qayta qarau",
+                    "qayta oylanu"
+                ],
+                "Tatar": [
+                    "кайта карау"
+                ],
+                "Bashkir": [
+                    "ҡайтанан ҡарау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden düşünmek"
+                ],
+                "Azerbaijani": [
+                    "yenidən baxmaq"
+                ],
+                "Tatar": [
+                    "яңадан карау"
+                ],
+                "Bashkir": [
+                    "яңынан уйлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "täzeden garamak"
+                ],
+                "Karakalpak": [
+                    "túzetu"
+                ],
+                "Tatar": [
+                    "төзәтү"
+                ],
+                "Bashkir": [
+                    "төҙәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "oýlanmak"
+                ],
+                "Uzbek": [
+                    "o'ylab ko'rmoq"
+                ],
+                "Karakalpak": [
+                    "oylanıp kóru"
+                ],
+                "Tatar": [
+                    "уйлап табу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekrar değerlendirmek"
+                ],
+                "Azerbaijani": [
+                    "təkrar düşünmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gözden geçirmek"
+                ],
+                "Azerbaijani": [
+                    "gözdən keçirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mülahizə etmək"
+                ],
+                "Uzbek": [
+                    "mulohaza qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mütalaa etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pikirini üýtgetmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qayta ko'rib chiqmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үҙгәртеү"
+                ]
+            }
+        }
+    ]
+}
+```
+

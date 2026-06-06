@@ -1,0 +1,224 @@
+# Status quo
+| Field | Detail |
+|---|---|
+| **ID** | i110191 |
+| **English** | status quo |
+| **Type** | noun |
+| **Definition** | the existing state of affairs |
+| **Source** | common |
+| **Ortatil** | wäziyät |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| абал | abal |
+| **Tatar** | |
+| үзгәрешсезлек | üzgäreşsezlek |
+| элеккечәлек | elekkeçälek |
+
+```json
+{
+    "id": "i110191",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "status quo",
+    "en_definition": "the existing state of affairs",
+    "tr_word": "statüko",
+    "tr_definition": "mevcut durumun korunması hali veya süregelen durum",
+    "ru_word": "статус-кво",
+    "ru_definition": "существующее или сложившееся положение дел",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hazırkı durum"
+                ],
+                "Turkmen": [
+                    "häzirki ýagdaý"
+                ],
+                "Uzbek": [
+                    "hozirgi ahvol"
+                ],
+                "Uyghur": [
+                    "ھازىرقى ھالەت"
+                ],
+                "Kazakh": [
+                    "қазіргі ахуал"
+                ],
+                "Kyrgyz": [
+                    "азыркы жагдай"
+                ],
+                "Karakalpak": [
+                    "házirgi jaǵday"
+                ],
+                "Tatar": [
+                    "хәзерге хәл",
+                    "хәзерге торыш"
+                ],
+                "Bashkir": [
+                    "хәҙерге хәл",
+                    "хәҙерге торош"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mevcut durum"
+                ],
+                "Azerbaijani": [
+                    "mövcud vəziyyət"
+                ],
+                "Uzbek": [
+                    "mavjud holat"
+                ],
+                "Uyghur": [
+                    "مەۋجۇت ئەھۋال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hali hazır"
+                ],
+                "Azerbaijani": [
+                    "cari hal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қалыптасқан жағдай"
+                ],
+                "Kyrgyz": [
+                    "калыптанган тартип"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өзгеріссіз күй"
+                ],
+                "Tatar": [
+                    "үзгәрешсезлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "абал"
+                ],
+                "Karakalpak": [
+                    "ahual"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "элеккечәлек"
+                ],
+                "Bashkir": [
+                    "элекке хәл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "statüko"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yürürlükteki durum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bar bolan ýagdaý"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ozalky ýagdaý"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vaziyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tartib"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەسلىدىكى ھالەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұрынғы қалпы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "учурдагы абал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jaǵday"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "turmıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "әүәлге хәл"
+                ]
+            }
+        }
+    ]
+}
+```
+

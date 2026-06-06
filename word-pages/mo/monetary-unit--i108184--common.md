@@ -1,0 +1,148 @@
+# Monetary unit
+| Field | Detail |
+|---|---|
+| **ID** | i108184 |
+| **English** | monetary unit |
+| **Type** | noun |
+| **Definition** | a unit of money |
+| **Source** | common |
+| **Ortatil** | walyuta |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **walyuta** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.83** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| валюта | valyuta |
+| **Kyrgyz** | |
+| валюта | valyuta |
+| **Tatar** | |
+| валюта | valyuta |
+| **Bashkir** | |
+| валюта | valyuta |
+
+```json
+{
+    "id": "i108184",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "monetary unit",
+    "en_definition": "a unit of money",
+    "tr_word": "para birimi",
+    "tr_definition": "Bir ülkede kullanılan resmi para ölçüsü",
+    "ru_word": "денежная единица",
+    "ru_definition": "официальная единица валюты страны",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "valyuta"
+                ],
+                "Uzbek": [
+                    "valyuta"
+                ],
+                "Kazakh": [
+                    "валюта"
+                ],
+                "Kyrgyz": [
+                    "валюта"
+                ],
+                "Karakalpak": [
+                    "walyuta"
+                ],
+                "Tatar": [
+                    "валюта"
+                ],
+                "Bashkir": [
+                    "валюта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pul vahidi"
+                ],
+                "Turkmen": [
+                    "pul birligi",
+                    "pul"
+                ],
+                "Uzbek": [
+                    "pul birligi"
+                ],
+                "Uyghur": [
+                    "پۇل بىرلىكى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئاقچا بىرلىكى"
+                ],
+                "Kazakh": [
+                    "ақша бірлігі"
+                ],
+                "Kyrgyz": [
+                    "акча бирдиги"
+                ],
+                "Karakalpak": [
+                    "aqsha birligi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "para birimi"
+                ],
+                "Tatar": [
+                    "акча берәмлеге"
+                ],
+                "Bashkir": [
+                    "аҡса берәмеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akçe",
+                    "sikke"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төлем бірлігі"
+                ]
+            }
+        }
+    ]
+}
+```
+

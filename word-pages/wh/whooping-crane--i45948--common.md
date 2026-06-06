@@ -1,0 +1,133 @@
+# Whooping crane
+| Field | Detail |
+|---|---|
+| **ID** | i45948 |
+| **English** | whooping crane |
+| **Type** | noun |
+| **Definition** | rare North American crane having black-and-white plumage and a trumpeting call |
+| **Source** | common |
+| **Ortatil** | durna |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i45948",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "whooping crane",
+    "en_definition": "rare North American crane having black-and-white plumage and a trumpeting call",
+    "tr_word": "haykıran turna",
+    "tr_definition": "Siyah-beyaz tüyleri ve trompet benzeri sesiyle bilinen, Kuzey Amerika'ya özgü nadir bir turna türü.",
+    "ru_word": "американский журавль",
+    "ru_definition": "Редкий вид североамериканских журавлей с черно-белым оперением и громким, трубным криком.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak turna"
+                ],
+                "Turkmen": [
+                    "ak durna"
+                ],
+                "Uzbek": [
+                    "oq turna"
+                ],
+                "Uyghur": [
+                    "ئاق تۇرنا"
+                ],
+                "Kazakh": [
+                    "ақ тырна"
+                ],
+                "Kyrgyz": [
+                    "ак тырна"
+                ],
+                "Karakalpak": [
+                    "aq tırna"
+                ],
+                "Tatar": [
+                    "ак торна"
+                ],
+                "Bashkir": [
+                    "аҡ торна"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "америка ак тырнасы"
+                ],
+                "Karakalpak": [
+                    "amerika aq tırnası"
+                ],
+                "Bashkir": [
+                    "америка торнаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haykıran turna"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fəryadçı durna",
+                    "bağıran durna"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səsli durna"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "durna"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shovqinchi turna"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چۇقانچى تۇرنا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айғайық тырна"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыргый торна"
+                ]
+            }
+        }
+    ]
+}
+```
+

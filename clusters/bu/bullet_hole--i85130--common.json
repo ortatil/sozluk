@@ -1,0 +1,97 @@
+{
+    "id": "i85130",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bullet hole",
+    "en_definition": "a hole made by a bullet passing through it",
+    "tr_word": "kurşun deliği",
+    "tr_definition": "bir merminin bir şeyin içinden geçmesiyle oluşan delik",
+    "ru_word": "пулевое отверстие",
+    "ru_definition": "отверстие, образовавшееся в результате прохождения пули",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ok deşigi"
+                ],
+                "Uzbek": [
+                    "o'q teshigi",
+                    "o'q izi",
+                    "o'q darchasi"
+                ],
+                "Uyghur": [
+                    "ئوق تۆشۈكى",
+                    "ئوق ئىزى"
+                ],
+                "Kazakh": [
+                    "оқ ізі",
+                    "оқ тесігі"
+                ],
+                "Kyrgyz": [
+                    "ок тешиги",
+                    "октун изи"
+                ],
+                "Karakalpak": [
+                    "oq tesigi",
+                    "oq izi"
+                ],
+                "Tatar": [
+                    "ук тишеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ok yzy"
+                ],
+                "Kazakh": [
+                    "оқ орны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пуля тишеге",
+                    "пуля эзе"
+                ],
+                "Bashkir": [
+                    "пуля тишеге",
+                    "пуля эҙе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kurşun deliği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mermi deliği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "güllə yeri",
+                    "güllə deşiyi",
+                    "güllə yarası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ок тийген жер"
+                ]
+            }
+        }
+    ]
+}

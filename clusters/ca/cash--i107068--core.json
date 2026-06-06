@@ -1,0 +1,127 @@
+{
+    "id": "i107068",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "cash",
+    "en_definition": "money in the form of bills or coins",
+    "tr_word": "nakit",
+    "tr_definition": "banknot veya madeni para şeklindeki para",
+    "ru_word": "наличные",
+    "ru_definition": "деньги в виде купюр или монет",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nakit"
+                ],
+                "Azerbaijani": [
+                    "nağd",
+                    "nəqd"
+                ],
+                "Turkmen": [
+                    "nagt"
+                ],
+                "Uzbek": [
+                    "naqd"
+                ],
+                "Uyghur": [
+                    "نەق"
+                ],
+                "Tatar": [
+                    "нәкъ"
+                ],
+                "Bashkir": [
+                    "нәҡтә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akçe"
+                ],
+                "Kazakh": [
+                    "ақша"
+                ],
+                "Tatar": [
+                    "акча"
+                ],
+                "Bashkir": [
+                    "аҡса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nagt pul"
+                ],
+                "Uzbek": [
+                    "naqd pul"
+                ],
+                "Uyghur": [
+                    "نەق پۇل"
+                ],
+                "Karakalpak": [
+                    "naq pul"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "нақты ақша"
+                ],
+                "Kyrgyz": [
+                    "нак акча",
+                    "накталай акча"
+                ],
+                "Tatar": [
+                    "накъ акча"
+                ],
+                "Bashkir": [
+                    "нәҡтә аҡса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "peşin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "накталай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "naqsha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қолма-қол ақша"
+                ]
+            }
+        }
+    ]
+}

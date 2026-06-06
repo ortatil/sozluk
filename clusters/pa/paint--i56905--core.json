@@ -1,0 +1,95 @@
+{
+    "id": "i56905",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "paint",
+    "en_definition": "a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating",
+    "tr_word": "boya",
+    "tr_definition": "Yüzeyleri korumak veya süslemek için kullanılan, kuruduğunda sert bir tabaka oluşturan renkli sıvı madde.",
+    "ru_word": "краска",
+    "ru_definition": "Вещество для придания цвета чему-либо или для защиты поверхности, образующее после высыхания твердое покрытие.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boya"
+                ],
+                "Azerbaijani": [
+                    "boya"
+                ],
+                "Turkmen": [
+                    "boýag"
+                ],
+                "Uzbek": [
+                    "bo'yoq"
+                ],
+                "Uyghur": [
+                    "بوياق"
+                ],
+                "Kazakh": [
+                    "бояу"
+                ],
+                "Kyrgyz": [
+                    "боёк"
+                ],
+                "Karakalpak": [
+                    "boyau"
+                ],
+                "Tatar": [
+                    "буяу"
+                ],
+                "Bashkir": [
+                    "буяу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "renk"
+                ],
+                "Azerbaijani": [
+                    "rəng"
+                ],
+                "Turkmen": [
+                    "reňk"
+                ],
+                "Uzbek": [
+                    "rang"
+                ],
+                "Uyghur": [
+                    "رەڭ"
+                ],
+                "Karakalpak": [
+                    "reń"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сыр"
+                ],
+                "Kyrgyz": [
+                    "сыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "буяу матдәһе"
+                ]
+            }
+        }
+    ]
+}

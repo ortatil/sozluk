@@ -1,0 +1,87 @@
+{
+    "id": "i61235",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wooden spoon",
+    "en_definition": "a spoon made of wood",
+    "tr_word": "tahta kaşık",
+    "tr_definition": "ahşaptan yapılmış kaşık",
+    "ru_word": "деревянная ложка",
+    "ru_definition": "ложка, изготовленная из дерева",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "agaç çemçe",
+                    "agaç galam"
+                ],
+                "Uzbek": [
+                    "yogʻoch qoshiq"
+                ],
+                "Uyghur": [
+                    "ياغاچ قوشۇق"
+                ],
+                "Kazakh": [
+                    "ағаш қасық"
+                ],
+                "Karakalpak": [
+                    "aǵash qasıq"
+                ],
+                "Tatar": [
+                    "агач кашык"
+                ],
+                "Bashkir": [
+                    "ағас ҡалаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çemçe"
+                ],
+                "Azerbaijani": [
+                    "çömçə"
+                ],
+                "Uzbek": [
+                    "choʻmich"
+                ],
+                "Uyghur": [
+                    "چۆمۈچ"
+                ],
+                "Kyrgyz": [
+                    "чөмүч"
+                ],
+                "Karakalpak": [
+                    "shómіsh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahta kaşık"
+                ],
+                "Azerbaijani": [
+                    "taxta qaşıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ожау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыгач кашык"
+                ]
+            }
+        }
+    ]
+}

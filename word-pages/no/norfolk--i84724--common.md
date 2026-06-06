@@ -1,0 +1,95 @@
+# Norfolk
+| Field | Detail |
+|---|---|
+| **ID** | i84724 |
+| **English** | norfolk |
+| **Type** | noun |
+| **Definition** | port city located in southeastern Virginia on the Elizabeth River at the mouth of Chesapeake Bay; headquarters of the Atlantic fleet of the United States Navy |
+| **Source** | common |
+| **Ortatil** | norfolk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **norfolk** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| نورفولك | norfolk |
+| **Kazakh** | |
+| Норфолк | norfolk |
+| **Kyrgyz** | |
+| Норфолк | norfolk |
+| **Tatar** | |
+| Норфолк | norfolk |
+| **Bashkir** | |
+| Норфолк | norfolk |
+
+```json
+{
+    "id": "i84724",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "norfolk",
+    "en_definition": "port city located in southeastern Virginia on the Elizabeth River at the mouth of Chesapeake Bay; headquarters of the Atlantic fleet of the United States Navy",
+    "tr_word": "Norfolk",
+    "tr_definition": "Virginia'nın güneydoğusunda, Elizabeth Nehri üzerinde, Chesapeake Körfezi'nin ağzında yer alan liman kenti; Amerika Birleşik Devletleri Donanması'nın Atlantik filosunun karargahı.",
+    "ru_word": "Норфолк",
+    "ru_definition": "Портовый город, расположенный на юго-востоке Вирджинии на реке Элизабет в устье Чесапикского залива; штаб-квартира Атлантического флота ВМС США.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Norfolk"
+                ],
+                "Azerbaijani": [
+                    "Norfolk"
+                ],
+                "Turkmen": [
+                    "Norfolk"
+                ],
+                "Uzbek": [
+                    "Norfolk"
+                ],
+                "Uyghur": [
+                    "نورفولك"
+                ],
+                "Kazakh": [
+                    "Норфолк"
+                ],
+                "Kyrgyz": [
+                    "Норфолк"
+                ],
+                "Karakalpak": [
+                    "Norfolk"
+                ],
+                "Tatar": [
+                    "Норфолк"
+                ],
+                "Bashkir": [
+                    "Норфолк"
+                ]
+            }
+        }
+    ]
+}
+```
+

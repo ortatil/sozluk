@@ -1,0 +1,70 @@
+{
+    "id": "i84661",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "south dakota",
+    "en_definition": "a state in north central United States",
+    "tr_word": "Güney Dakota",
+    "tr_definition": "Amerika Birleşik Devletleri'nin kuzey orta kesiminde yer alan bir eyalet.",
+    "ru_word": "Южная Дакота",
+    "ru_definition": "Штат на севере центральной части США.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Cənubi Dakota",
+                    "Cənubi Dakota ştatı"
+                ],
+                "Uzbek": [
+                    "Janubiy Dakota"
+                ],
+                "Uyghur": [
+                    "جەنۇبىي داكوتا",
+                    "جەنۇبىي داكوتا شتاتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Güney Dakota"
+                ],
+                "Turkmen": [
+                    "Günorta Dakota"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Көньяк Дакота"
+                ],
+                "Bashkir": [
+                    "Көньяҡ Дакота"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Оңтүстік Дакота"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Түштүк Дакота"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Qubla Dakota"
+                ]
+            }
+        }
+    ]
+}

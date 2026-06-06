@@ -1,0 +1,145 @@
+# Bobtail
+| Field | Detail |
+|---|---|
+| **ID** | i46813 |
+| **English** | bobtail |
+| **Type** | noun |
+| **Definition** | a short or shortened tail of certain animals |
+| **Source** | common |
+| **Ortatil** | şölçä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i46813",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bobtail",
+    "en_definition": "a short or shortened tail of certain animals",
+    "tr_word": "güdük kuyruk",
+    "tr_definition": "bazı hayvanların kısa veya kesilmiş kuyruğu",
+    "ru_word": "куцый хвост",
+    "ru_definition": "короткий или подрезанный хвост у некоторых животных",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kesik kuyruk",
+                    "kısa kuyruk"
+                ],
+                "Azerbaijani": [
+                    "kəsik quyruq"
+                ],
+                "Turkmen": [
+                    "kesik guýruk",
+                    "gysga guýruk"
+                ],
+                "Uzbek": [
+                    "kesik dum"
+                ],
+                "Uyghur": [
+                    "كېسىك قۇيرۇق"
+                ],
+                "Kazakh": [
+                    "кесік құйрық"
+                ],
+                "Kyrgyz": [
+                    "кесик куйрук"
+                ],
+                "Karakalpak": [
+                    "kesіk qұyrıq"
+                ],
+                "Tatar": [
+                    "кыска койрык",
+                    "кисек койрык"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡа ҡойроҡ",
+                    "киҫек ҡойроҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kelte guýruk"
+                ],
+                "Uyghur": [
+                    "كۆلكە قۇيرۇق",
+                    "كەلتە قۇيرۇق"
+                ],
+                "Kazakh": [
+                    "келте құйрық"
+                ],
+                "Kyrgyz": [
+                    "келте куйрук"
+                ],
+                "Karakalpak": [
+                    "qolta"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sholcha"
+                ],
+                "Kazakh": [
+                    "шолақ құйрық"
+                ],
+                "Kyrgyz": [
+                    "чолок куйрук"
+                ],
+                "Karakalpak": [
+                    "sholaq qұyrıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güdük kuyruk"
+                ],
+                "Azerbaijani": [
+                    "gödək quyruq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "quyruğu kəsik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dumaloq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шом койрык"
+                ]
+            }
+        }
+    ]
+}
+```
+

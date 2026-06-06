@@ -1,0 +1,142 @@
+# Tinderbox
+| Field | Detail |
+|---|---|
+| **ID** | i60290 |
+| **English** | tinderbox |
+| **Type** | noun |
+| **Definition** | a box for holding tinder |
+| **Source** | common |
+| **Ortatil** | çaqmaqdan |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **çaqmaqdan** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چاقماقدان | çaqmaqdan |
+| **Kazakh** | |
+| шақпақ | şaqpaq |
+| **Kyrgyz** | |
+| чахмак | çaxmak |
+| оттук | ottuk |
+| тутандыргыч | tutandırgıç |
+
+```json
+{
+    "id": "i60290",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tinderbox",
+    "en_definition": "a box for holding tinder",
+    "tr_word": "kav kutusu",
+    "tr_definition": "Kav ve çakmak taşı gibi ateş yakmaya yarayan gereçlerin saklandığı kutu.",
+    "ru_word": "трутница",
+    "ru_definition": "Коробочка для хранения трута, кремня и огнива.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çakmak kutusu"
+                ],
+                "Azerbaijani": [
+                    "çaxmaq qabı"
+                ],
+                "Turkmen": [
+                    "çakmakdaş gaby",
+                    "çakmak gaby"
+                ],
+                "Uzbek": [
+                    "chaqmoqdon"
+                ],
+                "Uyghur": [
+                    "چاقماقدان",
+                    "چاقماق قۇتىسى"
+                ],
+                "Kazakh": [
+                    "шақпақ",
+                    "шақпақ сауыт"
+                ],
+                "Kyrgyz": [
+                    "чахмак"
+                ],
+                "Karakalpak": [
+                    "shaqpaq",
+                    "shaqpaq saoıt",
+                    "shaqpaq qap"
+                ],
+                "Bashkir": [
+                    "саҡматаш һауыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kav kutusu",
+                    "kavlık"
+                ],
+                "Uzbek": [
+                    "qovdon"
+                ],
+                "Tatar": [
+                    "кавы савыты",
+                    "кавы савыт",
+                    "кавы саклагыч"
+                ],
+                "Bashkir": [
+                    "ҡау һауыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "otluk"
+                ],
+                "Kyrgyz": [
+                    "оттук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұтандырғыш сауыт"
+                ],
+                "Kyrgyz": [
+                    "тутандыргыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qov qabı"
+                ]
+            }
+        }
+    ]
+}
+```
+

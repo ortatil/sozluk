@@ -1,0 +1,70 @@
+{
+    "id": "i79616",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oil industry",
+    "en_definition": "an industry that produces and delivers oil and oil products",
+    "tr_word": "petrol endüstrisi",
+    "tr_definition": "petrol ve petrol ürünleri üreten ve dağıtan sanayi dalı",
+    "ru_word": "нефтяная промышленность",
+    "ru_definition": "отрасль промышленности, занимающаяся добычей и переработкой нефти и нефтепродуктов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "neft sənayesi",
+                    "neftçilik"
+                ],
+                "Turkmen": [
+                    "nebit senagaty",
+                    "nebitçilik"
+                ],
+                "Uzbek": [
+                    "neft sanoati",
+                    "neftchilik"
+                ],
+                "Uyghur": [
+                    "نېفىت سانائىتى",
+                    "نېفىتچىلىك"
+                ],
+                "Karakalpak": [
+                    "naft sanaatı",
+                    "naft óndirisi"
+                ],
+                "Tatar": [
+                    "нефть сәнәгате",
+                    "нефть тармагы",
+                    "нефтьчелек"
+                ],
+                "Bashkir": [
+                    "нефть сәнәғәте",
+                    "нефть тармағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұнай өнеркәсібі",
+                    "мұнай саласы",
+                    "мұнай кәсіпшілігі"
+                ],
+                "Kyrgyz": [
+                    "мунай өнөр жайы",
+                    "мунай тармагы",
+                    "мунайчылык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "petrol sanayisi",
+                    "petrol endüstrisi",
+                    "petrol sektörü"
+                ]
+            }
+        }
+    ]
+}

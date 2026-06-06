@@ -1,0 +1,72 @@
+{
+    "id": "i82624",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "scandinavian country",
+    "en_definition": "any one of the countries occupying Scandinavia",
+    "tr_word": "İskandinav ülkesi",
+    "tr_definition": "İskandinavya'yı oluşturan ülkelerden herhangi biri",
+    "ru_word": "скандинавская страна",
+    "ru_definition": "любая из стран, расположенных в Скандинавии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İskandinav ülkesi",
+                    "İskandinav devleti"
+                ],
+                "Azerbaijani": [
+                    "Skandinaviya ölkəsi"
+                ],
+                "Turkmen": [
+                    "Skandinawiýa ýurdy"
+                ],
+                "Uzbek": [
+                    "Skandinaviya davlati",
+                    "Skandinaviya mamlakati"
+                ],
+                "Uyghur": [
+                    "سكاندىناۋىيە دۆلىتى"
+                ],
+                "Kazakh": [
+                    "Скандинавия елі",
+                    "Скандинавия мемлекеті"
+                ],
+                "Kyrgyz": [
+                    "Скандинавия өлкөсү",
+                    "Скандинавия мамлекети"
+                ],
+                "Karakalpak": [
+                    "Skandinawiya eli",
+                    "Skandinawiya mámleketi"
+                ],
+                "Tatar": [
+                    "Скандинавия иле",
+                    "Скандинавия дәүләте"
+                ],
+                "Bashkir": [
+                    "Скандинавия иле",
+                    "Скандинавия дәүләте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimal ölkəsi"
+                ],
+                "Uyghur": [
+                    "شىمالىي ياۋروپا دۆلىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk Ýewropa döwleti"
+                ]
+            }
+        }
+    ]
+}

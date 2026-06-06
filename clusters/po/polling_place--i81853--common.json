@@ -1,0 +1,117 @@
+{
+    "id": "i81853",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "polling place",
+    "en_definition": "a place where voters go to cast their votes in an election",
+    "tr_word": "oy verme yeri",
+    "tr_definition": "seçmenlerin bir seçimde oylarını kullanmak için gittikleri yer",
+    "ru_word": "избирательный участок",
+    "ru_definition": "место, куда избиратели приходят для голосования на выборах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saýlaw uçastogy",
+                    "saýlaw merkezi"
+                ],
+                "Uzbek": [
+                    "saylov uchastkasi",
+                    "saylov binosi"
+                ],
+                "Uyghur": [
+                    "سايلام پونكىتى"
+                ],
+                "Kazakh": [
+                    "сайлау учаскесі"
+                ],
+                "Kyrgyz": [
+                    "шайлоо участогу",
+                    "шайлоо жайы"
+                ],
+                "Karakalpak": [
+                    "saylao ornı",
+                    "saylao uchastkası"
+                ],
+                "Tatar": [
+                    "сайлау участогы",
+                    "сайлау пункты"
+                ],
+                "Bashkir": [
+                    "һайлау участкаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovoz berish joyi"
+                ],
+                "Kazakh": [
+                    "дауыс беру орны",
+                    "дауыс беру пункті"
+                ],
+                "Karakalpak": [
+                    "daoıs berio ornı",
+                    "daoıs berio uchastkası"
+                ],
+                "Tatar": [
+                    "тавыш бирү урыны"
+                ],
+                "Bashkir": [
+                    "тауыш биреү урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seçim mahalli",
+                    "seçim yeri"
+                ],
+                "Azerbaijani": [
+                    "seçki məntəqəsi",
+                    "səsvermə məntəqəsi"
+                ],
+                "Turkmen": [
+                    "ses berilýän ýer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oy verme yeri"
+                ],
+                "Azerbaijani": [
+                    "səsvermə yeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sandık alanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېلەت تاشلاش ئورنى",
+                    "بېلەت تاشلاش مەيدانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "добуш берүүчү жай"
+                ]
+            }
+        }
+    ]
+}

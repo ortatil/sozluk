@@ -1,0 +1,136 @@
+{
+    "id": "i9037",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one-piece",
+    "en_definition": "(of clothing) consisting of or fashioned in a single whole piece",
+    "tr_word": "tek parça",
+    "tr_definition": "tek bir parçadan oluşan veya tek parça halinde dikilmiş giysi",
+    "ru_word": "цельный",
+    "ru_definition": "состоящий из одного целого куска или сшитый как единое целое (об одежде)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tutuş"
+                ],
+                "Uzbek": [
+                    "tutashtirilgan"
+                ],
+                "Uyghur": [
+                    "تۇتاش"
+                ],
+                "Kazakh": [
+                    "тұтас"
+                ],
+                "Kyrgyz": [
+                    "туташ"
+                ],
+                "Karakalpak": [
+                    "tutas"
+                ],
+                "Tatar": [
+                    "тоташ"
+                ],
+                "Bashkir": [
+                    "тоташ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bütün"
+                ],
+                "Azerbaijani": [
+                    "bütöv"
+                ],
+                "Turkmen": [
+                    "bitewi",
+                    "bütin"
+                ],
+                "Uzbek": [
+                    "butun"
+                ],
+                "Kyrgyz": [
+                    "бүтүн"
+                ],
+                "Tatar": [
+                    "бөтен"
+                ],
+                "Bashkir": [
+                    "бөтөн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "birikkan"
+                ],
+                "Uyghur": [
+                    "بىر پارچە",
+                    "بىر گەۋدە"
+                ],
+                "Kazakh": [
+                    "біркелкі",
+                    "біртұтас",
+                    "бірбөлікті"
+                ],
+                "Kyrgyz": [
+                    "бирдиктүү"
+                ],
+                "Karakalpak": [
+                    "bir pútin",
+                    "bir kesek"
+                ],
+                "Tatar": [
+                    "бербөтен",
+                    "бергәләшкән"
+                ],
+                "Bashkir": [
+                    "бер бөтөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tek parça",
+                    "yekpare"
+                ],
+                "Azerbaijani": [
+                    "yekparə",
+                    "təkparça"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýeke-täk"
+                ],
+                "Uzbek": [
+                    "yaxlit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jappay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "айырылмаҫ"
+                ]
+            }
+        }
+    ]
+}

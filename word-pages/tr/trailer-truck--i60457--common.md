@@ -1,0 +1,215 @@
+# Trailer truck
+| Field | Detail |
+|---|---|
+| **ID** | i60457 |
+| **English** | trailer truck |
+| **Type** | noun |
+| **Definition** | a truck consisting of a tractor and trailer together |
+| **Source** | common |
+| **Ortatil** | tirkämä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tirkämä** | **kerben** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ❌ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.33 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.60 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **2.37** | **1.43** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| тіркеме | tirkeme |
+| керуен | keruyen |
+| арба | arba |
+| **Kyrgyz** | |
+| кербен | kerben |
+
+```json
+{
+    "id": "i60457",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trailer truck",
+    "en_definition": "a truck consisting of a tractor and trailer together",
+    "tr_word": "tır",
+    "tr_definition": "Bir çekici ve bir veya daha fazla römorktan oluşan, ağır yük taşımaya yarayan uzun taşıt.",
+    "ru_word": "автопоезд",
+    "ru_definition": "Грузовой автомобиль с одним или несколькими прицепами, рассматриваемый как единое целое.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yük maşını"
+                ],
+                "Uzbek": [
+                    "yuk mashinasi"
+                ],
+                "Uyghur": [
+                    "يۈك ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "жүк көлігі"
+                ],
+                "Kyrgyz": [
+                    "жүк ташуучу унаа"
+                ],
+                "Karakalpak": [
+                    "júk kóligi"
+                ],
+                "Tatar": [
+                    "йөк машинасы"
+                ],
+                "Bashkir": [
+                    "йөк машинаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tır"
+                ],
+                "Azerbaijani": [
+                    "tır"
+                ],
+                "Turkmen": [
+                    "tirkegli ulag"
+                ],
+                "Uzbek": [
+                    "tirkama"
+                ],
+                "Kazakh": [
+                    "тіркеме"
+                ],
+                "Kyrgyz": [
+                    "тиркемелүү унаа"
+                ],
+                "Karakalpak": [
+                    "tirkemeli kólik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kamyon"
+                ],
+                "Kazakh": [
+                    "керуен"
+                ],
+                "Kyrgyz": [
+                    "кербен"
+                ],
+                "Karakalpak": [
+                    "kerben"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yük avtomobili"
+                ],
+                "Uyghur": [
+                    "يۈك ئاپتوموبىلى"
+                ],
+                "Bashkir": [
+                    "йөк автомобиле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "арба"
+                ],
+                "Tatar": [
+                    "арбалы машина"
+                ],
+                "Bashkir": [
+                    "арбалы йөк машинаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kerwen"
+                ],
+                "Uzbek": [
+                    "karvon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "katar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşqulu maşın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýük ulagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ulov"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ يۈك ماشىنىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәгәрмәчле йөкче"
+                ]
+            }
+        }
+    ]
+}
+```
+

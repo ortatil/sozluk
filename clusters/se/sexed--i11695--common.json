@@ -1,0 +1,72 @@
+{
+    "id": "i11695",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sexed",
+    "en_definition": "having sexual differentiation",
+    "tr_word": "eşeyli",
+    "tr_definition": "cinsiyet ayrımı olan, cinsiyetli",
+    "ru_word": "половой",
+    "ru_definition": "имеющий половую дифференциацию",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cinsiyetli"
+                ],
+                "Azerbaijani": [
+                    "cinsiyyətli",
+                    "cinsi"
+                ],
+                "Turkmen": [
+                    "jynsly"
+                ],
+                "Uzbek": [
+                    "jinsiy",
+                    "jinsli"
+                ],
+                "Uyghur": [
+                    "جىنسىي",
+                    "جىنسىيەتلىك"
+                ],
+                "Kazakh": [
+                    "жынысты",
+                    "жыныстық"
+                ],
+                "Kyrgyz": [
+                    "жыныстуу",
+                    "жыныстык"
+                ],
+                "Karakalpak": [
+                    "jınıslı"
+                ],
+                "Tatar": [
+                    "җенси",
+                    "җенесле"
+                ],
+                "Bashkir": [
+                    "енесле",
+                    "енес айырмалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "erkek-urkaçyly"
+                ],
+                "Karakalpak": [
+                    "erkek-uyalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşeyli"
+                ]
+            }
+        }
+    ]
+}

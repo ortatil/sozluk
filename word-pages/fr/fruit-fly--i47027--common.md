@@ -1,0 +1,118 @@
+# Fruit fly
+| Field | Detail |
+|---|---|
+| **ID** | i47027 |
+| **English** | fruit fly |
+| **Type** | noun |
+| **Definition** | any of numerous small insects whose larvae feed on fruits |
+| **Source** | common |
+| **Ortatil** | drozofülä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| дрозофила | drozofila |
+
+```json
+{
+    "id": "i47027",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fruit fly",
+    "en_definition": "any of numerous small insects whose larvae feed on fruits",
+    "tr_word": "meyve sineği",
+    "tr_definition": "larvaları meyvelerle beslenen çok sayıda küçük böcekten herhangi biri",
+    "ru_word": "плодовая мушка",
+    "ru_definition": "любое из многочисленных мелких насекомых, личинки которых питаются фруктами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyve sineği"
+                ],
+                "Azerbaijani": [
+                    "meyvə milçəyi"
+                ],
+                "Turkmen": [
+                    "miwe siňegi",
+                    "miwe çybyny"
+                ],
+                "Uzbek": [
+                    "meva pashshasi",
+                    "mevaxoʻr pashsha"
+                ],
+                "Uyghur": [
+                    "مېۋە چىبىنى",
+                    "مېۋە پاششىسى"
+                ],
+                "Karakalpak": [
+                    "miyue shıbını"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sirke sineği"
+                ],
+                "Azerbaijani": [
+                    "sirkə milçəyi"
+                ],
+                "Uzbek": [
+                    "sirka pashshasi"
+                ],
+                "Tatar": [
+                    "серкә чебене"
+                ],
+                "Bashkir": [
+                    "серкә себене"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жеміс шыбыны"
+                ],
+                "Kyrgyz": [
+                    "жемиш чымыны"
+                ],
+                "Karakalpak": [
+                    "jemis shıbını"
+                ],
+                "Tatar": [
+                    "җимеш чебене",
+                    "җимешлек чебене"
+                ],
+                "Bashkir": [
+                    "емеш себене",
+                    "емеш-еләк себене"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дрозофила"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мөмө чымыны"
+                ]
+            }
+        }
+    ]
+}
+```
+

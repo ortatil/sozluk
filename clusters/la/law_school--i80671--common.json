@@ -1,0 +1,107 @@
+{
+    "id": "i80671",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "law school",
+    "en_definition": "a graduate school offering study leading to a law degree",
+    "tr_word": "hukuk fakültesi",
+    "tr_definition": "hukuk derecesi veren bir lisansüstü veya lisans eğitim kurumu",
+    "ru_word": "юридический факультет",
+    "ru_definition": "высшее учебное заведение или подразделение университета, готовящее специалистов в области права",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hukuk fakültesi",
+                    "hukuk mektebi"
+                ],
+                "Azerbaijani": [
+                    "hüquq fakültəsi",
+                    "hüquq məktəbi"
+                ],
+                "Turkmen": [
+                    "hukuk fakulteti",
+                    "hukuk mekdebi"
+                ],
+                "Uzbek": [
+                    "huquqshunoslik fakulteti",
+                    "huquq fakulteti"
+                ],
+                "Uyghur": [
+                    "ھوقۇقشۇناسلىق ئىنستىتۇتى"
+                ],
+                "Kyrgyz": [
+                    "укук факультети",
+                    "укук мектеби"
+                ],
+                "Karakalpak": [
+                    "xuqıq fakulteti",
+                    "xuqıqtanıu fakulteti"
+                ],
+                "Tatar": [
+                    "хокук факультеты",
+                    "хокук мәктәбе"
+                ],
+                "Bashkir": [
+                    "хоҡуҡ факультеты",
+                    "хоҡуҡ мәктәбе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "yurisprudenciya fakulteti"
+                ],
+                "Tatar": [
+                    "юридик факультет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "adliya maktabi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قانۇن ئىنستىتۇتى",
+                    "قانۇن فاكۇلتېتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "заң мектебі",
+                    "заң факультеті"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құқық мектебі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мыйзам таануу факультети"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "шәриғәт мәктәбе"
+                ]
+            }
+        }
+    ]
+}

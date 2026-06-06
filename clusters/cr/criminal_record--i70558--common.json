@@ -1,0 +1,133 @@
+{
+    "id": "i70558",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "criminal record",
+    "en_definition": "a list of crimes for which an accused person has been previously convicted",
+    "tr_word": "adli sicil kaydı",
+    "tr_definition": "bir kişinin geçmişte işlediği ve mahkeme kararıyla kesinleşmiş suçların listesi",
+    "ru_word": "судимость",
+    "ru_definition": "официальный список преступлений, за которые лицо было ранее осуждено",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sudlylyk"
+                ],
+                "Uzbek": [
+                    "sudlanganlik",
+                    "sudlanganlik holati"
+                ],
+                "Kazakh": [
+                    "соттылық"
+                ],
+                "Kyrgyz": [
+                    "соттуулук"
+                ],
+                "Karakalpak": [
+                    "sotlılıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sabıka kaydı",
+                    "sabıka"
+                ],
+                "Azerbaijani": [
+                    "sabıqa"
+                ],
+                "Uyghur": [
+                    "سابىقە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cinayət keçmişi"
+                ],
+                "Uzbek": [
+                    "jinoyat daftari"
+                ],
+                "Uyghur": [
+                    "جىنايەت خاتىرىسى",
+                    "جىنايى ئىشلار خاتىرىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "айыптылық"
+                ],
+                "Kyrgyz": [
+                    "айыптуулук"
+                ],
+                "Karakalpak": [
+                    "ayıpkerlik tariyxı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "günä ýazgysy"
+                ],
+                "Karakalpak": [
+                    "gúnákarlıq dizimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қылмыстық өткені"
+                ],
+                "Kyrgyz": [
+                    "кылмыш тарыхы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хөкем ителгәнлек",
+                    "хөкемлелек",
+                    "хөкем тарихы"
+                ],
+                "Bashkir": [
+                    "хөкөм ителгәнлек",
+                    "хөкөмө булыу",
+                    "хөкөм яҙмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "adli sicil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məhkumluq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jenaýat ýazgysy"
+                ]
+            }
+        }
+    ]
+}

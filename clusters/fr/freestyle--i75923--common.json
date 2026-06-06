@@ -1,0 +1,81 @@
+{
+    "id": "i75923",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "freestyle",
+    "en_definition": "a race (as in swimming) in which each contestant has a free choice of the style to use",
+    "tr_word": "serbest stil",
+    "tr_definition": "Yüzme gibi yarışlarda, her yarışmacının kullanacağı stili seçmekte özgür olduğu yarış türü.",
+    "ru_word": "вольный стиль",
+    "ru_definition": "Дисциплина в спортивных соревнованиях (например, в плавании), в которой участнику разрешается использовать любой стиль по своему выбору.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "erkin usul",
+                    "erkin görnüş",
+                    "erkin ýüzüş"
+                ],
+                "Uzbek": [
+                    "erkin usul",
+                    "erkin suzish"
+                ],
+                "Uyghur": [
+                    "ئەركىن ئۇسلۇب",
+                    "ئەركىن ئۈزۈش",
+                    "ئەركىن تۈر"
+                ],
+                "Kazakh": [
+                    "еркін стиль",
+                    "еркін әдіс",
+                    "еркін жүзу"
+                ],
+                "Kyrgyz": [
+                    "эркин стиль",
+                    "эркин сүзүү",
+                    "эркин ыкма"
+                ],
+                "Karakalpak": [
+                    "erkin usıl",
+                    "erkin stil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "serbest stil",
+                    "serbest yüzme",
+                    "serbest teknik"
+                ],
+                "Azerbaijani": [
+                    "sərbəst üsul",
+                    "sərbəst üzmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtiyari üsul"
+                ],
+                "Uzbek": [
+                    "ixtiyoriy usul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирекле стиль",
+                    "ирекле йөзү"
+                ],
+                "Bashkir": [
+                    "ирекле стиль",
+                    "ирекле ысул"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+# Resettle
+| Field | Detail |
+|---|---|
+| **ID** | i23802 |
+| **English** | resettle |
+| **Type** | verb |
+| **Definition** | settle in a new place |
+| **Source** | common |
+| **Ortatil** | järläştirmäk, ḳöçürdürmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **järläştirmäk** | **ḳöçürdürmäk** | **qonustanmaq** |
+|---|---|---|---|
+| Turkish | ✅ | ❌ | ✅ |
+| Azerbaijani | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ❌ | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ | ✅ |
+| Tatar | ❌ | ✅ | ❌ |
+| Bashkir | ❌ | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.67 | 0.33 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 1 | 0.60 |
+| *In All* | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ |
+| **O'TQ** | **3.40** | **3.17** | **1.43** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| يەرلەشتۈرمەك | yärläştürmäk |
+| ماكانلاشتۇرماق | makanlaşturmaq |
+| **Kazakh** | |
+| көшу | köşu |
+| қоныстану | qonıstanu |
+| орналасу | ornalasu |
+| **Kyrgyz** | |
+| көчүрүү | köçürüü |
+| жайгаштыруу | jaygaştıruu |
+| конуштандыруу | konuştandıruu |
+| отурукташтыруу | oturuktaştıruu |
+| **Tatar** | |
+| күченү | küçenü |
+| **Bashkir** | |
+| күсереү | küsereü |
+
+```json
+{
+    "id": "i23802",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "resettle",
+    "en_definition": "settle in a new place",
+    "tr_word": "yeniden yerleşmek",
+    "tr_definition": "yeni bir yere yerleşmek veya birini yeni bir yere yerleştirmek",
+    "ru_word": "переселяться",
+    "ru_definition": "поселиться на новом месте или переместить кого-либо на новое место жительства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "köçürmək",
+                    "köç etmək"
+                ],
+                "Turkmen": [
+                    "göçürmek",
+                    "göçmek"
+                ],
+                "Uzbek": [
+                    "koʻchirmoq"
+                ],
+                "Uyghur": [
+                    "كۆچۈرۈپ ئورۇنلاشتۇرماق"
+                ],
+                "Kazakh": [
+                    "көшу"
+                ],
+                "Kyrgyz": [
+                    "көчүрүү"
+                ],
+                "Karakalpak": [
+                    "kóship qonıslanıo",
+                    "kóshirio"
+                ],
+                "Tatar": [
+                    "күчеп утыру",
+                    "күченү",
+                    "күчереп утырту"
+                ],
+                "Bashkir": [
+                    "күсереү",
+                    "күсеп ултырыу",
+                    "күсеп килеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yerleşmek",
+                    "yerleştirmek"
+                ],
+                "Azerbaijani": [
+                    "yerləşdirmək"
+                ],
+                "Turkmen": [
+                    "ýerleşdirmek"
+                ],
+                "Uzbek": [
+                    "joylashtirmoq"
+                ],
+                "Uyghur": [
+                    "يەرلەشتۈرمەك"
+                ],
+                "Kyrgyz": [
+                    "жайгаштыруу"
+                ],
+                "Karakalpak": [
+                    "jaylastırıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konmak"
+                ],
+                "Kazakh": [
+                    "қоныстану",
+                    "қоныс аудару"
+                ],
+                "Kyrgyz": [
+                    "конуштандыруу"
+                ],
+                "Karakalpak": [
+                    "qonıslandırıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iskan etmek"
+                ],
+                "Uzbek": [
+                    "maskan tutmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məskunlaşdırmaq"
+                ],
+                "Turkmen": [
+                    "mesgen tutmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻrnashmoq"
+                ],
+                "Kazakh": [
+                    "орналасу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яңадан урнашу"
+                ],
+                "Bashkir": [
+                    "яңынан урынлашыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yurt edinmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vatan qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قايتا ئورۇنلاشتۇرماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماكانلاشتۇرماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ірге тебу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "отурукташтыруу"
+                ]
+            }
+        }
+    ]
+}
+```
+

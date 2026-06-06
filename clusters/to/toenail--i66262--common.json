@@ -1,0 +1,82 @@
+{
+    "id": "i66262",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "toenail",
+    "en_definition": "the nail at the end of a toe",
+    "tr_word": "ayak tırnağı",
+    "tr_definition": "ayak parmağının ucundaki tırnak",
+    "ru_word": "ноготь на пальце ноги",
+    "ru_definition": "роговая пластинка на конце пальца ноги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayak tırnağı"
+                ],
+                "Azerbaijani": [
+                    "ayaq dırnağı"
+                ],
+                "Turkmen": [
+                    "ayak dyrnagy"
+                ],
+                "Uzbek": [
+                    "oyoq tirnog'i"
+                ],
+                "Kazakh": [
+                    "аяқ тырнағы"
+                ],
+                "Karakalpak": [
+                    "ayaq tırnaǵı"
+                ],
+                "Tatar": [
+                    "аяк тырнагы"
+                ],
+                "Bashkir": [
+                    "аяҡ тырнағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dyrnak"
+                ],
+                "Uzbek": [
+                    "tirnoq"
+                ],
+                "Uyghur": [
+                    "تىرناق"
+                ],
+                "Kyrgyz": [
+                    "тырмак"
+                ],
+                "Karakalpak": [
+                    "tırnaq"
+                ],
+                "Bashkir": [
+                    "тырнаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت تىرنىقى"
+                ],
+                "Kyrgyz": [
+                    "бут тырмагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бақай тырнағы"
+                ]
+            }
+        }
+    ]
+}

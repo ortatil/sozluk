@@ -1,0 +1,163 @@
+{
+    "id": "i32982",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "log in",
+    "en_definition": "enter a computer",
+    "tr_word": "oturum açmak",
+    "tr_definition": "bir bilgisayar sistemine veya hesaba erişim sağlamak",
+    "ru_word": "войти в систему",
+    "ru_definition": "получить доступ к компьютерной системе или учетной записи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "giriş yapmak"
+                ],
+                "Azerbaijani": [
+                    "giriş etmək"
+                ],
+                "Turkmen": [
+                    "girmek"
+                ],
+                "Uzbek": [
+                    "kirish"
+                ],
+                "Uyghur": [
+                    "كىرىش",
+                    "كىرمەك"
+                ],
+                "Kazakh": [
+                    "кіру"
+                ],
+                "Kyrgyz": [
+                    "кирүү"
+                ],
+                "Karakalpak": [
+                    "kirio"
+                ],
+                "Tatar": [
+                    "керергә"
+                ],
+                "Bashkir": [
+                    "кереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tizimga kirmoq"
+                ],
+                "Uyghur": [
+                    "تىزىمغا كىرىش"
+                ],
+                "Karakalpak": [
+                    "dizimge kirio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тіркелу"
+                ],
+                "Tatar": [
+                    "теркәлергә"
+                ],
+                "Bashkir": [
+                    "теркәлеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oturumu açmak"
+                ],
+                "Azerbaijani": [
+                    "oturum açmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dahil olmak"
+                ],
+                "Azerbaijani": [
+                    "daxil olmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ену"
+                ],
+                "Bashkir": [
+                    "инеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağlanmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hasaba girmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ulgama girmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ulanish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "катталуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кошулуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ishke kirio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "танылырга"
+                ]
+            }
+        }
+    ]
+}

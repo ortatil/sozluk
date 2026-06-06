@@ -1,0 +1,131 @@
+{
+    "id": "i1139",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "grass-covered",
+    "en_definition": "covered with grass",
+    "tr_word": "çimenle kaplı",
+    "tr_definition": "üzeri çimlerle örtülmüş olan",
+    "ru_word": "покрытый травой",
+    "ru_definition": "заросший или устланный травой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gök",
+                    "gök öwsüp oturan"
+                ],
+                "Uzbek": [
+                    "koʻkalam"
+                ],
+                "Uyghur": [
+                    "كۆكەملىك"
+                ],
+                "Kazakh": [
+                    "көгалды"
+                ],
+                "Kyrgyz": [
+                    "көктүү",
+                    "көктөгөн"
+                ],
+                "Karakalpak": [
+                    "kók maysalı",
+                    "kóklem"
+                ],
+                "Bashkir": [
+                    "күкһел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otlu"
+                ],
+                "Azerbaijani": [
+                    "otlu",
+                    "otlaq"
+                ],
+                "Turkmen": [
+                    "otly"
+                ],
+                "Uzbek": [
+                    "oʻtloq",
+                    "oʻtli"
+                ],
+                "Uyghur": [
+                    "ئوتلاقباش",
+                    "ئوتلۇق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چۆپلۈك"
+                ],
+                "Kazakh": [
+                    "шөпті",
+                    "шөп басқан"
+                ],
+                "Kyrgyz": [
+                    "чөптүү"
+                ],
+                "Karakalpak": [
+                    "shóp basqan",
+                    "shópzar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çimenli",
+                    "yeşillik"
+                ],
+                "Tatar": [
+                    "яшеллекле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çimlik"
+                ],
+                "Azerbaijani": [
+                    "çəmənlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үләнле",
+                    "үлән баскан"
+                ],
+                "Bashkir": [
+                    "үләнле",
+                    "үлән баҫҡан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yaşıllıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maysazor"
+                ]
+            }
+        }
+    ]
+}

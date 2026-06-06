@@ -1,0 +1,145 @@
+{
+    "id": "i39512",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "robbery",
+    "en_definition": "larceny by threat of violence",
+    "tr_word": "soygun",
+    "tr_definition": "şiddet tehdidiyle yapılan hırsızlık",
+    "ru_word": "ограбление",
+    "ru_definition": "кража с применением насилия или угрозой его применения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qarət"
+                ],
+                "Turkmen": [
+                    "garakçylyk",
+                    "garak"
+                ],
+                "Uzbek": [
+                    "qaroqchilik"
+                ],
+                "Uyghur": [
+                    "قاراقچىلىق"
+                ],
+                "Kazakh": [
+                    "қарақшылық"
+                ],
+                "Kyrgyz": [
+                    "каракчылык"
+                ],
+                "Karakalpak": [
+                    "qaraqshılıq"
+                ],
+                "Tatar": [
+                    "караклык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "talaňçylyk",
+                    "talaň"
+                ],
+                "Uzbek": [
+                    "talonchilik",
+                    "talon"
+                ],
+                "Kyrgyz": [
+                    "талоончулук"
+                ],
+                "Karakalpak": [
+                    "talan-taraj"
+                ],
+                "Tatar": [
+                    "талау"
+                ],
+                "Bashkir": [
+                    "талау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "барымта"
+                ],
+                "Karakalpak": [
+                    "barımta"
+                ],
+                "Bashkir": [
+                    "барымта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yağma"
+                ],
+                "Azerbaijani": [
+                    "yağma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soygun"
+                ],
+                "Azerbaijani": [
+                    "soyğun",
+                    "soyğunçuluq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bosqinchilik"
+                ],
+                "Tatar": [
+                    "басып алу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тонау"
+                ],
+                "Kyrgyz": [
+                    "тоноочулук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gasp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۇلاڭچىلىق",
+                    "بۇلاڭ-تالاڭ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "юлбаҫарлыҡ"
+                ]
+            }
+        }
+    ]
+}

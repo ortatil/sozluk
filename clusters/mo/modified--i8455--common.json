@@ -1,0 +1,156 @@
+{
+    "id": "i8455",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "modified",
+    "en_definition": "changed in form or character",
+    "tr_word": "değiştirilmiş",
+    "tr_definition": "biçimi veya karakteri değiştirilmiş olan",
+    "ru_word": "изменённый",
+    "ru_definition": "изменивший свою форму или характер",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "üýtgedilen",
+                    "özgerdilen"
+                ],
+                "Uzbek": [
+                    "oʻzgargan",
+                    "oʻzgartirilgan"
+                ],
+                "Uyghur": [
+                    "ئۆزگەرتىلگەن"
+                ],
+                "Kazakh": [
+                    "өзгертілген"
+                ],
+                "Kyrgyz": [
+                    "өзгөртүлгөн"
+                ],
+                "Karakalpak": [
+                    "ózgertilgen"
+                ],
+                "Tatar": [
+                    "үзгәртелгән"
+                ],
+                "Bashkir": [
+                    "үҙгәртелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "düzedilen"
+                ],
+                "Uyghur": [
+                    "تۈزىتىلگەن"
+                ],
+                "Kazakh": [
+                    "түзетілген"
+                ],
+                "Kyrgyz": [
+                    "түзөтүлгөн"
+                ],
+                "Karakalpak": [
+                    "túzetіlgen"
+                ],
+                "Tatar": [
+                    "төзәтелгән"
+                ],
+                "Bashkir": [
+                    "төҙәтелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жаңартылған"
+                ],
+                "Kyrgyz": [
+                    "жаңыртылган"
+                ],
+                "Tatar": [
+                    "яңартылган"
+                ],
+                "Bashkir": [
+                    "яңыртылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "islah olunmuş"
+                ],
+                "Uzbek": [
+                    "isloh qilingan"
+                ],
+                "Uyghur": [
+                    "ئىسلاھ قىلىنغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "değiştirilmiş"
+                ],
+                "Azerbaijani": [
+                    "dəyişdirilmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "başkalaşmış",
+                    "farklılaşmış"
+                ],
+                "Bashkir": [
+                    "башҡасаланған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təkmilləşdirilmiş"
+                ],
+                "Uzbek": [
+                    "tahrirlangan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түрлендірілген"
+                ],
+                "Karakalpak": [
+                    "túrlendirilgen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tadil edilmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mütəhavvil"
+                ]
+            }
+        }
+    ]
+}

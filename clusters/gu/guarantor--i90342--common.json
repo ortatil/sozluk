@@ -1,0 +1,121 @@
+{
+    "id": "i90342",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "guarantor",
+    "en_definition": "one who provides a warrant or guarantee to another",
+    "tr_word": "garantör",
+    "tr_definition": "bir borcun ödenmemesi durumunda sorumluluğu üstlenen, güvence veren kimse",
+    "ru_word": "поручитель",
+    "ru_definition": "лицо, принимающее на себя обязательство отвечать за исполнение обязательств другим лицом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kefil"
+                ],
+                "Azerbaijani": [
+                    "kəfil"
+                ],
+                "Turkmen": [
+                    "kepil",
+                    "kepilçi"
+                ],
+                "Uzbek": [
+                    "kafil",
+                    "kafolatchi"
+                ],
+                "Uyghur": [
+                    "كاپىل",
+                    "كاپالەتچى"
+                ],
+                "Kazakh": [
+                    "кепілгер",
+                    "кепіл болушы",
+                    "кепілдік беруші"
+                ],
+                "Kyrgyz": [
+                    "кепил",
+                    "кепилдик берүүчү",
+                    "кепилчи"
+                ],
+                "Karakalpak": [
+                    "kepil",
+                    "kepillik berioshi"
+                ],
+                "Tatar": [
+                    "кәфил"
+                ],
+                "Bashkir": [
+                    "кәфил"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "zamin"
+                ],
+                "Turkmen": [
+                    "zamin"
+                ],
+                "Uzbek": [
+                    "zomin"
+                ],
+                "Uyghur": [
+                    "زامىن"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "jaoapker"
+                ],
+                "Tatar": [
+                    "җаваплы"
+                ],
+                "Bashkir": [
+                    "яуаплы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "teminatçı"
+                ],
+                "Azerbaijani": [
+                    "təminatçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ышанычлы"
+                ],
+                "Bashkir": [
+                    "ышаныслы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güvenceci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "garantör"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "id": "i67668",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "triple",
+    "en_definition": "a quantity that is three times as great as another",
+    "tr_word": "üç katı",
+    "tr_definition": "başka bir miktarın üç misli olan miktar",
+    "ru_word": "тройное количество",
+    "ru_definition": "величина, в три раза превышающая другую",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üç kat",
+                    "üçlü"
+                ],
+                "Azerbaijani": [
+                    "üçqat",
+                    "üç misli",
+                    "üç bərabəri"
+                ],
+                "Turkmen": [
+                    "üç esse",
+                    "üç gat",
+                    "üçleme"
+                ],
+                "Uzbek": [
+                    "uch hissa",
+                    "uch qatlam",
+                    "uchlamchi"
+                ],
+                "Uyghur": [
+                    "ئۈچ ھەسسە",
+                    "ئۈچ قاتلام",
+                    "ئۈچ قات"
+                ],
+                "Kazakh": [
+                    "үш есе",
+                    "үш еселік"
+                ],
+                "Kyrgyz": [
+                    "үч эсе",
+                    "үч эселенген",
+                    "үч кат",
+                    "үчтүк"
+                ],
+                "Karakalpak": [
+                    "úsh ese",
+                    "úsh qabat"
+                ],
+                "Tatar": [
+                    "өчләтә",
+                    "өч катлы",
+                    "өч өлешле"
+                ],
+                "Bashkir": [
+                    "өс ҡат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үштік"
+                ],
+                "Karakalpak": [
+                    "úshleme"
+                ],
+                "Bashkir": [
+                    "өсәү",
+                    "өс тапҡыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müselles"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uch barobar"
+                ]
+            }
+        }
+    ]
+}

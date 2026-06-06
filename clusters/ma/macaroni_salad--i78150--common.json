@@ -1,0 +1,84 @@
+{
+    "id": "i78150",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "macaroni salad",
+    "en_definition": "having macaroni as the base",
+    "tr_word": "makarna salatası",
+    "tr_definition": "temel malzemesi makarna olan bir salata türü",
+    "ru_word": "макаронный салат",
+    "ru_definition": "салат, основным ингредиентом которого являются макароны",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "makaron salatı"
+                ],
+                "Turkmen": [
+                    "makaron salaty"
+                ],
+                "Uzbek": [
+                    "makaronli salat",
+                    "makaron salati"
+                ],
+                "Uyghur": [
+                    "ماكارون سالاتى"
+                ],
+                "Kazakh": [
+                    "макарон салаты"
+                ],
+                "Kyrgyz": [
+                    "макарон салаты"
+                ],
+                "Karakalpak": [
+                    "makaron salatı"
+                ],
+                "Tatar": [
+                    "макарон салаты"
+                ],
+                "Bashkir": [
+                    "макарон салаты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xəmir xörəyi salatı"
+                ],
+                "Turkmen": [
+                    "hamyr aşy salaty"
+                ],
+                "Uyghur": [
+                    "خېمىر تائام سالاتى"
+                ],
+                "Karakalpak": [
+                    "qamır taǵam salatı"
+                ],
+                "Tatar": [
+                    "камыр салаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кеспе салат"
+                ],
+                "Kyrgyz": [
+                    "кесме салаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "makarna salatası",
+                    "yoğurtlu makarna"
+                ]
+            }
+        }
+    ]
+}

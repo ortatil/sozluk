@@ -1,0 +1,133 @@
+{
+    "id": "i77200",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ground beef",
+    "en_definition": "beef that has been ground",
+    "tr_word": "dana kıyma",
+    "tr_definition": "Makinede çekilerek veya bıçakla kıyılarak küçük parçalara ayrılmış sığır eti.",
+    "ru_word": "говяжий фарш",
+    "ru_definition": "Говяжье мясо, измельченное в мясорубке или вручную.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıyma"
+                ],
+                "Azerbaijani": [
+                    "qiymə"
+                ],
+                "Turkmen": [
+                    "gyýma"
+                ],
+                "Uzbek": [
+                    "qiymat",
+                    "qiyma",
+                    "qiyma go'sht"
+                ],
+                "Uyghur": [
+                    "قىيما كالا گۆشى"
+                ],
+                "Kyrgyz": [
+                    "кыйма"
+                ],
+                "Karakalpak": [
+                    "qıyma"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تارتىلغان كالا گۆشى"
+                ],
+                "Kazakh": [
+                    "тартылған ет"
+                ],
+                "Kyrgyz": [
+                    "тартылган эт"
+                ],
+                "Karakalpak": [
+                    "tartılǵan et"
+                ],
+                "Tatar": [
+                    "тарттырылган ит",
+                    "тарткан ит"
+                ],
+                "Bashkir": [
+                    "тартылған ит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çekilmiş et"
+                ],
+                "Azerbaijani": [
+                    "çəkilmiş ət"
+                ],
+                "Turkmen": [
+                    "çekilen et"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "döyülmüş ət"
+                ],
+                "Uzbek": [
+                    "tuyilgan go'sht"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "üwelen et"
+                ],
+                "Kazakh": [
+                    "үгітілген ет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ет фаршы"
+                ],
+                "Tatar": [
+                    "ит фаршы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "фарш"
+                ],
+                "Bashkir": [
+                    "фарш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dana kıyma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үткәрелгән ит"
+                ]
+            }
+        }
+    ]
+}

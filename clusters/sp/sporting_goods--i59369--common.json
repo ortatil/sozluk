@@ -1,0 +1,80 @@
+{
+    "id": "i59369",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sporting goods",
+    "en_definition": "sports equipment sold as a commodity",
+    "tr_word": "spor malzemeleri",
+    "tr_definition": "ticari bir mal olarak satılan spor ekipmanları",
+    "ru_word": "спортивные товары",
+    "ru_definition": "спортивный инвентарь, продаваемый как товар",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "spor malzemeleri",
+                    "spor gereçleri",
+                    "spor donanımı",
+                    "spor eşyası"
+                ],
+                "Turkmen": [
+                    "sport enjamlary",
+                    "sport harytlary",
+                    "sport esbaplary"
+                ],
+                "Uzbek": [
+                    "sport anjomlari",
+                    "sport ashyolari",
+                    "sport qurollari",
+                    "sport buyumlari"
+                ],
+                "Kazakh": [
+                    "спорттық жабдықтар",
+                    "спорттық құрал-саймандар",
+                    "спорттық бұйымдар",
+                    "спорттық керек-жарақтар"
+                ],
+                "Kyrgyz": [
+                    "спорттук жабдыктар",
+                    "спорттук буюмдар",
+                    "спорттук шаймандар"
+                ],
+                "Karakalpak": [
+                    "sport buyımları",
+                    "sport ásbapları",
+                    "sport towarları"
+                ],
+                "Tatar": [
+                    "спорт кирәк-яраклары",
+                    "спорт җиһазлары",
+                    "спорт әсбаплары"
+                ],
+                "Bashkir": [
+                    "спорт кәрәк-яраҡтары",
+                    "спорт кәрәк-ярағы",
+                    "спорт тауарҙары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "idman ləvazimatı",
+                    "idman malları",
+                    "idman avadanlığı",
+                    "idman əşyaları"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەنھەرىكەت بۇيۇملىرى",
+                    "تەنھەرىكەت جابدۇقلىرى",
+                    "تەنھەرىكەت ئەسۋابلىرى"
+                ]
+            }
+        }
+    ]
+}

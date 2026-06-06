@@ -1,0 +1,105 @@
+{
+    "id": "i9970",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "policy-making",
+    "en_definition": "concerned with policy, not administration",
+    "tr_word": "politika belirleyici",
+    "tr_definition": "yönetimden ziyade politika oluşturma ve strateji belirleme ile ilgili olan",
+    "ru_word": "директивный",
+    "ru_definition": "относящийся к выработке политики или стратегии, а не к административному исполнению",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "siyasal",
+                    "siyasi"
+                ],
+                "Azerbaijani": [
+                    "siyasi"
+                ],
+                "Turkmen": [
+                    "syýasy"
+                ],
+                "Uzbek": [
+                    "siyosiy",
+                    "siyosatga oid",
+                    "siyosatshunoslikka doir"
+                ],
+                "Uyghur": [
+                    "سىياسەت بەلگىلەيدىغان",
+                    "سىياسەت تۈزۈش خاراكتېرلىك",
+                    "سىياسىي"
+                ],
+                "Kazakh": [
+                    "саяси",
+                    "саясаттық"
+                ],
+                "Kyrgyz": [
+                    "саясий",
+                    "саясат таануучулук"
+                ],
+                "Karakalpak": [
+                    "siyasattı belgileoshi",
+                    "siyasattı qáliplestirioshi",
+                    "siyasattı islep shıǵıoshı"
+                ],
+                "Tatar": [
+                    "сәясәтче",
+                    "сәяси"
+                ],
+                "Bashkir": [
+                    "сәйәси",
+                    "сәйәсәткә ҡағылышлы",
+                    "сәйәсәт билдәләүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "strateji"
+                ],
+                "Turkmen": [
+                    "strategik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "politika belirleyici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karar verici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məsləki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "багыттоочу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәдбирле"
+                ]
+            }
+        }
+    ]
+}

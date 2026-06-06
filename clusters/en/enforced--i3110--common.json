@@ -1,0 +1,156 @@
+{
+    "id": "i3110",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "enforced",
+    "en_definition": "forced or compelled or put in force",
+    "tr_word": "zorunlu",
+    "tr_definition": "zorla yaptırılan veya yürürlüğe konulmuş olan",
+    "ru_word": "принудительный",
+    "ru_definition": "осуществляемый по принуждению или введенный в действие силой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mecburi",
+                    "cebri"
+                ],
+                "Azerbaijani": [
+                    "məcburi",
+                    "icbari"
+                ],
+                "Turkmen": [
+                    "mejbury"
+                ],
+                "Uzbek": [
+                    "majburiy"
+                ],
+                "Uyghur": [
+                    "مەجبۇرىي",
+                    "مەجبۇرلانغان"
+                ],
+                "Kazakh": [
+                    "мәжбүрлі"
+                ],
+                "Kyrgyz": [
+                    "мажбурланган"
+                ],
+                "Karakalpak": [
+                    "májbúriy"
+                ],
+                "Tatar": [
+                    "мәҗбүри",
+                    "мәҗбүр"
+                ],
+                "Bashkir": [
+                    "мәжбүри"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zorunlu"
+                ],
+                "Azerbaijani": [
+                    "zorunlu"
+                ],
+                "Turkmen": [
+                    "zorlukly"
+                ],
+                "Uzbek": [
+                    "zo'raki"
+                ],
+                "Uyghur": [
+                    "زورلانغان"
+                ],
+                "Kazakh": [
+                    "зорлықпен"
+                ],
+                "Kyrgyz": [
+                    "зордукталган"
+                ],
+                "Karakalpak": [
+                    "zúrúrli",
+                    "zorlıqlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "icbar edilmiş"
+                ],
+                "Uzbek": [
+                    "ijroiy"
+                ],
+                "Uyghur": [
+                    "ئىجرا قىلىنغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еріксіз"
+                ],
+                "Kyrgyz": [
+                    "эрксиз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "міндетті"
+                ],
+                "Kyrgyz": [
+                    "милдеттүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көчләп",
+                    "көчләнгән"
+                ],
+                "Bashkir": [
+                    "көсләп",
+                    "көсләнгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dayatılmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hökman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muqarrar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ихтыярһыҙ"
+                ]
+            }
+        }
+    ]
+}

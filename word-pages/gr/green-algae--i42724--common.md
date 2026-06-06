@@ -1,0 +1,118 @@
+# Green algae
+| Field | Detail |
+|---|---|
+| **ID** | i42724 |
+| **English** | green algae |
+| **Type** | noun |
+| **Definition** | algae that are clear green in color; often growing on wet ricks or damp wood or the surface of stagnant water |
+| **Source** | common |
+| **Ortatil** | suwöt |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| يۈسۈن | yüsün |
+| **Kyrgyz** | |
+| балыр | balır |
+| **Bashkir** | |
+| ылымыҡ | ılımıq |
+
+```json
+{
+    "id": "i42724",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "green algae",
+    "en_definition": "algae that are clear green in color; often growing on wet ricks or damp wood or the surface of stagnant water",
+    "tr_word": "yeşil algler",
+    "tr_definition": "Genellikle ıslak kayalar, nemli odunlar veya durgun su yüzeylerinde yetişen, belirgin yeşil renkteki su yosunları.",
+    "ru_word": "зелёные водоросли",
+    "ru_definition": "Водоросли ярко-зеленого цвета, часто растущие на влажных камнях, сырой древесине или поверхности стоячей воды.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeşil yosun"
+                ],
+                "Azerbaijani": [
+                    "yaşıl yosunlar",
+                    "yaşıl yosun"
+                ],
+                "Turkmen": [
+                    "ýaşyl suwotulary",
+                    "ýaşyl suwoty"
+                ],
+                "Uzbek": [
+                    "yashil suvo't",
+                    "yashil suvo'tlar"
+                ],
+                "Uyghur": [
+                    "يېشىل يۈسۈن"
+                ],
+                "Kazakh": [
+                    "жасыл балдыр",
+                    "жасыл балдырлар"
+                ],
+                "Kyrgyz": [
+                    "жашыл балыр"
+                ],
+                "Karakalpak": [
+                    "jasıl balır"
+                ],
+                "Tatar": [
+                    "яшел суүсемнәр",
+                    "яшел суүсем"
+                ],
+                "Bashkir": [
+                    "йәшел ылымыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "балыр"
+                ],
+                "Karakalpak": [
+                    "balır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "su yosunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suvo't"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۈسۈن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ылымыҡ"
+                ]
+            }
+        }
+    ]
+}
+```
+

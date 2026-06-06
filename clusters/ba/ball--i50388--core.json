@@ -1,0 +1,98 @@
+{
+    "id": "i50388",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "ball",
+    "en_definition": "round object that is hit or thrown or kicked in games",
+    "tr_word": "top",
+    "tr_definition": "Oyunlarda vurulan, fırlatılan veya tekmelenen yuvarlak nesne.",
+    "ru_word": "мяч",
+    "ru_definition": "Круглый предмет, по которому бьют, бросают или пинают в играх.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "top"
+                ],
+                "Azerbaijani": [
+                    "top"
+                ],
+                "Turkmen": [
+                    "top"
+                ],
+                "Uzbek": [
+                    "toʻp"
+                ],
+                "Uyghur": [
+                    "توپ"
+                ],
+                "Kazakh": [
+                    "доп"
+                ],
+                "Kyrgyz": [
+                    "топ"
+                ],
+                "Karakalpak": [
+                    "top"
+                ],
+                "Tatar": [
+                    "туп"
+                ],
+                "Bashkir": [
+                    "туп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şar"
+                ],
+                "Uzbek": [
+                    "sharda"
+                ],
+                "Uyghur": [
+                    "شار"
+                ],
+                "Kazakh": [
+                    "шар"
+                ],
+                "Kyrgyz": [
+                    "шар"
+                ],
+                "Karakalpak": [
+                    "shar"
+                ],
+                "Bashkir": [
+                    "шар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "küre"
+                ],
+                "Azerbaijani": [
+                    "kürə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koptok"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көрткә"
+                ]
+            }
+        }
+    ]
+}

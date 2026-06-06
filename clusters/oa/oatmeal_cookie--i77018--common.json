@@ -1,0 +1,75 @@
+{
+    "id": "i77018",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oatmeal cookie",
+    "en_definition": "cookies containing rolled oats",
+    "tr_word": "yulaflı kurabiye",
+    "tr_definition": "içinde yulaf ezmesi bulunan kurabiye",
+    "ru_word": "овсяное печенье",
+    "ru_definition": "печенье, приготовленное из овсяных хлопьев",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sülemeli köke",
+                    "süleme kökesi"
+                ],
+                "Uzbek": [
+                    "suli pechenyesi",
+                    "suli kulchasi"
+                ],
+                "Kazakh": [
+                    "сұлы печеньесі",
+                    "сұлыдан жасалған печенье"
+                ],
+                "Kyrgyz": [
+                    "сулу печеньеси",
+                    "сулу күлчөсү"
+                ],
+                "Karakalpak": [
+                    "sұlı pechenesi",
+                    "sұlı kúlshesi"
+                ],
+                "Tatar": [
+                    "солы печеньесы",
+                    "солы күмәче"
+                ],
+                "Bashkir": [
+                    "һоло күмәсе",
+                    "һоло ҡурсағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yulaflı kurabiye",
+                    "yulaflı çörek",
+                    "yulaflı bisküvi"
+                ],
+                "Azerbaijani": [
+                    "yulaf peçenyesi",
+                    "yulaf külçəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۇلغۇن پېچىنە",
+                    "يۇلغۇنلۇق پېچىنە",
+                    "يۇلغۇنلۇق توقاچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "оло һоло печеньеһы"
+                ]
+            }
+        }
+    ]
+}

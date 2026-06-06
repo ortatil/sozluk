@@ -1,0 +1,126 @@
+{
+    "id": "i90037",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "foreign correspondent",
+    "en_definition": "a journalist who sends news reports and commentary from a foreign country for publication or broadcast",
+    "tr_word": "dış haberler muhabiri",
+    "tr_definition": "Yabancı bir ülkeden haber raporları ve yorumlar gönderen gazeteci.",
+    "ru_word": "иностранный корреспондент",
+    "ru_definition": "Журналист, передающий новости и репортажи из другой страны для публикации или вещания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chet el muxbiri"
+                ],
+                "Uyghur": [
+                    "چەت ئەلدە تۇرۇشلۇق مۇخبىر"
+                ],
+                "Kazakh": [
+                    "шетелдік тілші"
+                ],
+                "Kyrgyz": [
+                    "чет элдик кабарчы",
+                    "чет өлкөлүк кабарчы"
+                ],
+                "Karakalpak": [
+                    "shet el xabarshısı"
+                ],
+                "Tatar": [
+                    "чит ил хәбәрчесе",
+                    "чит ил мөхбире"
+                ],
+                "Bashkir": [
+                    "сит ил хәбәрсеһе",
+                    "сит ил хәбәр биреүсеһе",
+                    "сит ил хәбәрҙәре хәбәрсеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dış muhabir"
+                ],
+                "Turkmen": [
+                    "daşary ýurt habarçysy",
+                    "daşary ýurt habar berijisi",
+                    "daşary ýurtly habarçy"
+                ],
+                "Uzbek": [
+                    "tashqi muxbir"
+                ],
+                "Kyrgyz": [
+                    "тышкы кабарчы"
+                ],
+                "Tatar": [
+                    "тышкы хәбәрче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سىرتقى مۇخبىر"
+                ],
+                "Kazakh": [
+                    "сыртқы тілші"
+                ],
+                "Karakalpak": [
+                    "sırtqı xabarshı",
+                    "sırtqı kabarshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xarici müxbir",
+                    "xaricdəki müxbir"
+                ],
+                "Uzbek": [
+                    "xorijiy muxbir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yabancı muhabir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yurt dışı muhabiri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "beynəlxalq müxbir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەلقئارا مۇخبىر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арнаулы тілші"
+                ]
+            }
+        }
+    ]
+}

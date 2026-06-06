@@ -1,0 +1,102 @@
+{
+    "id": "i70884",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "building permit",
+    "en_definition": "a document authorizing the holder to construct a building of a particular kind on a particular lot",
+    "tr_word": "yapı ruhsatı",
+    "tr_definition": "Bir arsa üzerinde belirli bir yapının inşa edilmesine izin veren resmi belge.",
+    "ru_word": "разрешение на строительство",
+    "ru_definition": "Документ, подтверждающий соответствие проектной документации требованиям градостроительного плана и дающий право на возведение объекта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gurluşyk rugsady",
+                    "gurluşyk rugsatnamasy",
+                    "gurluşyk ygtyýarnamasy"
+                ],
+                "Uzbek": [
+                    "qurilish ruxsatnomasi",
+                    "qurilish ijozati",
+                    "qurilishga ruxsat"
+                ],
+                "Uyghur": [
+                    "قۇرۇلۇش رۇخسەتنامىسى",
+                    "قۇرۇلۇش ئىجازىتى"
+                ],
+                "Kazakh": [
+                    "құрылысқа рұқсат",
+                    "құрылыс рұқсаты",
+                    "құрылысқа рұқсат қағазы"
+                ],
+                "Kyrgyz": [
+                    "курулуш уруксаты",
+                    "курулушка уруксат",
+                    "курулуш ижазаты"
+                ],
+                "Karakalpak": [
+                    "qurılısqa ruxsat",
+                    "qurılıs ruxsatnaması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "inşaat izni",
+                    "inşaat ruhsatı"
+                ],
+                "Karakalpak": [
+                    "imarat salıoǵa ruxsat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төзелеш рөхсәте",
+                    "төзергә рөхсәт",
+                    "төзелеш иҗазәте"
+                ],
+                "Bashkir": [
+                    "төҙөлөш рөхсәте",
+                    "төҙөү рөхсәтнамәһе",
+                    "төҙөү ижәзәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yapı ruhsatı",
+                    "yapı izni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tikinti icazəsi",
+                    "tikinti sənədi",
+                    "tikinti rüsxəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "imorat ruxsatnomasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىنا قىلىش ئىجازەتنامىسى"
+                ]
+            }
+        }
+    ]
+}

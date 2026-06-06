@@ -1,0 +1,211 @@
+# Riverside
+| Field | Detail |
+|---|---|
+| **ID** | i86079 |
+| **English** | riverside |
+| **Type** | noun |
+| **Definition** | the bank of a river |
+| **Source** | common |
+| **Ortatil** | cağa |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **cağa** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.43** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قىرغاق | qirğaq |
+| **Kazakh** | |
+| жағалау | jağalau |
+| жаға | jağa |
+| **Kyrgyz** | |
+| жээк | jeek |
+| кылаат | kılaat |
+
+```json
+{
+    "id": "i86079",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "riverside",
+    "en_definition": "the bank of a river",
+    "tr_word": "nehir kıyısı",
+    "tr_definition": "bir nehrin kenarı veya kıyı şeridi",
+    "ru_word": "берег реки",
+    "ru_definition": "земля вдоль края реки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "derýa kenary"
+                ],
+                "Uzbek": [
+                    "daryo bo'yi"
+                ],
+                "Uyghur": [
+                    "دەريا بويى",
+                    "دەريا قىرغىقى",
+                    "دەريا ياقىسى"
+                ],
+                "Kyrgyz": [
+                    "дарыя жээги"
+                ],
+                "Karakalpak": [
+                    "dárya jaǵası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çay kenarı"
+                ],
+                "Azerbaijani": [
+                    "çay kənarı",
+                    "çay sahili",
+                    "çay qırağı"
+                ],
+                "Kazakh": [
+                    "жағалау"
+                ],
+                "Karakalpak": [
+                    "jaǵalao"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýaka"
+                ],
+                "Kazakh": [
+                    "жаға"
+                ],
+                "Kyrgyz": [
+                    "жээк"
+                ],
+                "Karakalpak": [
+                    "jaǵa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sahil"
+                ],
+                "Uzbek": [
+                    "sohil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qirg'oq"
+                ],
+                "Uyghur": [
+                    "قىرغاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өзен жағасы",
+                    "өзен бойы"
+                ],
+                "Kyrgyz": [
+                    "өзөн жээги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "елга буе",
+                    "елга яры"
+                ],
+                "Bashkir": [
+                    "йылға буйы",
+                    "йылға яры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яр буе"
+                ],
+                "Bashkir": [
+                    "яр буйы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ırmak kenarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nehir kıyısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "su kıyısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kenar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кылаат"
+                ]
+            }
+        }
+    ]
+}
+```
+

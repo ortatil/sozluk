@@ -1,0 +1,122 @@
+{
+    "id": "i92763",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "schoolmate",
+    "en_definition": "an acquaintance that you go to school with",
+    "tr_word": "okul arkadaşı",
+    "tr_definition": "aynı okula gidilen veya gidilmiş olan tanıdık kişi",
+    "ru_word": "одноклассник",
+    "ru_definition": "человек, который учится или учился с кем-либо в одной школе или классе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mektep arkadaşı"
+                ],
+                "Azerbaijani": [
+                    "məktəb yoldaşı"
+                ],
+                "Turkmen": [
+                    "mekdepdeş"
+                ],
+                "Uzbek": [
+                    "maktabdosh"
+                ],
+                "Uyghur": [
+                    "مەكتەپداش"
+                ],
+                "Kazakh": [
+                    "мектептес"
+                ],
+                "Kyrgyz": [
+                    "мектептеш"
+                ],
+                "Karakalpak": [
+                    "mekteptes"
+                ],
+                "Tatar": [
+                    "мәктәптәш"
+                ],
+                "Bashkir": [
+                    "мәктәптәш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sapakdaş"
+                ],
+                "Uzbek": [
+                    "sabaqdosh"
+                ],
+                "Uyghur": [
+                    "ساۋاقداش"
+                ],
+                "Kazakh": [
+                    "сабақтас"
+                ],
+                "Karakalpak": [
+                    "sabaqlas"
+                ],
+                "Tatar": [
+                    "сабакташ"
+                ],
+                "Bashkir": [
+                    "сабаҡташ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınıf arkadaşı"
+                ],
+                "Azerbaijani": [
+                    "sinif yoldaşı"
+                ],
+                "Uzbek": [
+                    "sinfdosh"
+                ],
+                "Kazakh": [
+                    "сыныптас"
+                ],
+                "Tatar": [
+                    "сыйныфташ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "okul arkadaşı"
+                ],
+                "Turkmen": [
+                    "okuwdaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "классташ",
+                    "курсташ"
+                ],
+                "Bashkir": [
+                    "класташ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təhsil yoldaşı"
+                ]
+            }
+        }
+    ]
+}

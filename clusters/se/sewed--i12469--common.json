@@ -1,0 +1,67 @@
+{
+    "id": "i12469",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sewed",
+    "en_definition": "fastened with stitches",
+    "tr_word": "dikilmiş",
+    "tr_definition": "dikişle tutturulmuş veya birleştirilmiş",
+    "ru_word": "сшитый",
+    "ru_definition": "скрепленный стежками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dikili",
+                    "dikilmiş"
+                ],
+                "Azerbaijani": [
+                    "tikilmiş",
+                    "tikili",
+                    "dikişli"
+                ],
+                "Turkmen": [
+                    "tikilen",
+                    "tikinli"
+                ],
+                "Uzbek": [
+                    "tikilgan",
+                    "duzilgan"
+                ],
+                "Uyghur": [
+                    "تىكىلگەن",
+                    "تىكىك"
+                ],
+                "Kazakh": [
+                    "тігілген",
+                    "тігулі"
+                ],
+                "Kyrgyz": [
+                    "тигилген",
+                    "тигилме",
+                    "тигишүү"
+                ],
+                "Karakalpak": [
+                    "tigilgen",
+                    "tigisli"
+                ],
+                "Tatar": [
+                    "тегелгән",
+                    "тегелмеш"
+                ],
+                "Bashkir": [
+                    "тегелгән",
+                    "тегеүле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жамалған"
+                ]
+            }
+        }
+    ]
+}

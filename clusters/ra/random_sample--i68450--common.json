@@ -1,0 +1,110 @@
+{
+    "id": "i68450",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "random sample",
+    "en_definition": "a sample in which every element in the population has an equal chance of being selected",
+    "tr_word": "rastgele örneklem",
+    "tr_definition": "evrendeki her bir birimin seçilme şansının eşit olduğu örneklem türü",
+    "ru_word": "случайная выборка",
+    "ru_definition": "выборка, в которой каждый элемент популяции имеет равные шансы быть выбранным",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tesadüfi örneklem"
+                ],
+                "Azerbaijani": [
+                    "təsadüfi nümunə",
+                    "təsadüfi seçmə"
+                ],
+                "Uzbek": [
+                    "tasodifiy tanlanma",
+                    "tasodifiy namuna"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtiyari nümunə"
+                ],
+                "Uyghur": [
+                    "ئىختىيارىي ئەۋرىشكە"
+                ],
+                "Karakalpak": [
+                    "ıqtıyarlı tańlama"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кездейсоқ таңдама",
+                    "кездейсоқ іріктеме"
+                ],
+                "Kyrgyz": [
+                    "кездейсоң тандалма"
+                ],
+                "Karakalpak": [
+                    "kezdeysoq tańlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "erkin nusga"
+                ],
+                "Kyrgyz": [
+                    "эркин тандалма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "очраклы сайланма",
+                    "очраклы сайлап алу"
+                ],
+                "Bashkir": [
+                    "осраҡлы һайланма",
+                    "осраҡлы һайлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rastgele örneklem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tötänleýin nusga",
+                    "tötänleýin saýlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەختىتەبىر تاللانما",
+                    "تەقدىرىي تاللانما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "туш келди тандалма"
+                ]
+            }
+        }
+    ]
+}

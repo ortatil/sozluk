@@ -1,0 +1,121 @@
+{
+    "id": "i31072",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "push up",
+    "en_definition": "push upward",
+    "tr_word": "yukarı itmek",
+    "tr_definition": "bir şeyi yukarıya doğru hareket ettirmek veya basınç uygulamak",
+    "ru_word": "выталкивать",
+    "ru_definition": "толкать что-либо вверх или перемещать в более высокое положение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yukarı itmek",
+                    "yükseltmek"
+                ],
+                "Azerbaijani": [
+                    "yuxarı itələmək",
+                    "yüksəltmək"
+                ],
+                "Turkmen": [
+                    "ýokary itermek",
+                    "ýokary galdyrmak"
+                ],
+                "Uzbek": [
+                    "yuqoriga surmoq"
+                ],
+                "Uyghur": [
+                    "يۇقىرىغا ئىتتىرمەك"
+                ],
+                "Kazakh": [
+                    "жоғары итеру",
+                    "жоғарылату"
+                ],
+                "Kyrgyz": [
+                    "жогору түртүү"
+                ],
+                "Karakalpak": [
+                    "joqarı iterio"
+                ],
+                "Tatar": [
+                    "югары этү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻtarmoq",
+                    "itarmoq"
+                ],
+                "Uyghur": [
+                    "كۆتۈرمەك"
+                ],
+                "Kazakh": [
+                    "көтеру"
+                ],
+                "Kyrgyz": [
+                    "көтөрүү"
+                ],
+                "Karakalpak": [
+                    "kóterio"
+                ],
+                "Tatar": [
+                    "күтәрү"
+                ],
+                "Bashkir": [
+                    "күтәреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئۈستىگە ئىتتىرمەك"
+                ],
+                "Karakalpak": [
+                    "órge iterio"
+                ],
+                "Tatar": [
+                    "өскә этү"
+                ],
+                "Bashkir": [
+                    "өҫкә этәреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaldırmak"
+                ],
+                "Azerbaijani": [
+                    "qaldırmaq"
+                ],
+                "Turkmen": [
+                    "galdyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өйдө түртүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "этәреү"
+                ]
+            }
+        }
+    ]
+}

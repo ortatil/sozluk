@@ -1,0 +1,77 @@
+{
+    "id": "i116715",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eastern time",
+    "en_definition": "standard time in the 5th time zone west of Greenwich, reckoned at the 75th meridian; used in the eastern United States",
+    "tr_word": "Doğu Zaman Dilimi",
+    "tr_definition": "Greenwich'in batısındaki 5. saat diliminde, 75. meridyene göre hesaplanan ve Amerika Birleşik Devletleri'nin doğusunda kullanılan standart zaman.",
+    "ru_word": "Восточное время",
+    "ru_definition": "Стандартное время в 5-м часовом поясе к западу от Гринвича, рассчитываемое по 75-му меридиану; используется в восточной части США.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şərq vaxtı",
+                    "şərq saatı"
+                ],
+                "Uzbek": [
+                    "sharqiy vaqt",
+                    "sharqiy mintaqa vaqti"
+                ],
+                "Uyghur": [
+                    "شەرق ۋاقتى",
+                    "شەرق رايونى ۋاقتى"
+                ],
+                "Tatar": [
+                    "шәрекъ вакыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шығыс уақыты",
+                    "шығыс белдеу уақыты"
+                ],
+                "Kyrgyz": [
+                    "чыгыш убактысы",
+                    "чыгыш алкактык убактысы"
+                ],
+                "Karakalpak": [
+                    "shıǵıs uaqtı",
+                    "shıǵıs oaqtı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көнчыгыш вакыты"
+                ],
+                "Bashkir": [
+                    "көнсығыш ваҡыты",
+                    "көнсығыш сәғәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğu saati",
+                    "doğu bölgesi saati",
+                    "doğu standart zamanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gündogar wagty"
+                ]
+            }
+        }
+    ]
+}

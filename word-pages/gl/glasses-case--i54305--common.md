@@ -1,0 +1,117 @@
+# Glasses case
+| Field | Detail |
+|---|---|
+| **ID** | i54305 |
+| **English** | glasses case |
+| **Type** | noun |
+| **Definition** | a case for carrying spectacles |
+| **Source** | common |
+| **Ortatil** | közöynekdän |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **közöynekdän** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.10** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| көзілдірікқап | közildirikqap |
+| **Tatar** | |
+| күзлеклек | küzleklek |
+
+```json
+{
+    "id": "i54305",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "glasses case",
+    "en_definition": "a case for carrying spectacles",
+    "tr_word": "gözlük kılıfı",
+    "tr_definition": "Gözlükleri taşımak ve korumak için kullanılan kap.",
+    "ru_word": "футляр для очков",
+    "ru_definition": "Твердый или мягкий чехол, предназначенный для хранения и защиты очков.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gözlük kılıfı",
+                    "gözlük kabı",
+                    "gözlük kutusu"
+                ],
+                "Uzbek": [
+                    "ko'zoynakdon",
+                    "ko'zoynak qutisi",
+                    "ko'zoynak g'ilofi"
+                ],
+                "Uyghur": [
+                    "كۆزەينەك قېپى",
+                    "كۆزەينەك قۇتۇسى"
+                ],
+                "Kazakh": [
+                    "көзілдірікқап",
+                    "көзілдірік сауыты",
+                    "көзілдірік қабы"
+                ],
+                "Kyrgyz": [
+                    "көз айнек кап",
+                    "көз айнек кутусу",
+                    "көз айнек кабы"
+                ],
+                "Karakalpak": [
+                    "kózáynekqap",
+                    "kózáynek sauıtı",
+                    "kózáynek qabı"
+                ],
+                "Tatar": [
+                    "күзлек савыты",
+                    "күзлек кабы",
+                    "күзлеклек"
+                ],
+                "Bashkir": [
+                    "күҙлек ҡабы",
+                    "күҙлек һауыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "eyynək qabı",
+                    "eyynək qutusu",
+                    "eyynək qılıfı"
+                ],
+                "Turkmen": [
+                    "äýnekgap",
+                    "äýnek gaby"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gap"
+                ]
+            }
+        }
+    ]
+}
+```
+

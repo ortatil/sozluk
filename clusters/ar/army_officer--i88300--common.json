@@ -1,0 +1,144 @@
+{
+    "id": "i88300",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "army officer",
+    "en_definition": "an officer in the armed forces",
+    "tr_word": "subay",
+    "tr_definition": "Silahlı kuvvetlerde teğmenlikten mareşalliğe kadar rütbesi olan asker.",
+    "ru_word": "офицер",
+    "ru_definition": "Лицо командного и начальствующего состава в вооружённых силах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zabit"
+                ],
+                "Azerbaijani": [
+                    "zabit"
+                ],
+                "Uzbek": [
+                    "zobit",
+                    "sipohdor"
+                ],
+                "Tatar": [
+                    "забит"
+                ],
+                "Bashkir": [
+                    "забит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbçi"
+                ],
+                "Uzbek": [
+                    "harbiy boshliq"
+                ],
+                "Uyghur": [
+                    "ھەربىي ئەمەلدار"
+                ],
+                "Tatar": [
+                    "хәрби түрә"
+                ],
+                "Bashkir": [
+                    "хәрби түрә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ofiser"
+                ],
+                "Uyghur": [
+                    "ئوفىتسېر"
+                ],
+                "Kazakh": [
+                    "офицер"
+                ],
+                "Kyrgyz": [
+                    "офицер"
+                ],
+                "Karakalpak": [
+                    "oficer"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "serkerde"
+                ],
+                "Kazakh": [
+                    "сардар"
+                ],
+                "Karakalpak": [
+                    "sárdar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "başlyk"
+                ],
+                "Tatar": [
+                    "башлык"
+                ],
+                "Bashkir": [
+                    "башлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوشۇن باشلىقى"
+                ],
+                "Kyrgyz": [
+                    "кошуун башчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аскер башчы",
+                    "аскер кызматкери"
+                ],
+                "Karakalpak": [
+                    "áskerbası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "subay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ordu zabiti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қолбасшы"
+                ]
+            }
+        }
+    ]
+}

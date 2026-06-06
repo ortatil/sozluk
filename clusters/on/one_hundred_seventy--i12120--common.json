@@ -1,0 +1,56 @@
+{
+    "id": "i12120",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one hundred seventy",
+    "en_definition": "being ten more than one hundred sixty",
+    "tr_word": "yüz yetmiş",
+    "tr_definition": "yüz altmıştan on fazla olan sayı",
+    "ru_word": "сто семьдесят",
+    "ru_definition": "число, на десять большее, чем сто шестьдесят",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz yetmiş"
+                ],
+                "Azerbaijani": [
+                    "yüz yetmiş"
+                ],
+                "Turkmen": [
+                    "ýüz ýetmiş"
+                ],
+                "Uzbek": [
+                    "yuz yetmish"
+                ],
+                "Uyghur": [
+                    "يۈز يەتتمىش"
+                ],
+                "Kazakh": [
+                    "жүз жетпіс"
+                ],
+                "Kyrgyz": [
+                    "жүз жетимиш"
+                ],
+                "Karakalpak": [
+                    "júz jetpis"
+                ],
+                "Tatar": [
+                    "йөз җитмеш",
+                    "йөз җитмешле"
+                ],
+                "Bashkir": [
+                    "йөҙ етмеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bir yuz yetmish"
+                ]
+            }
+        }
+    ]
+}

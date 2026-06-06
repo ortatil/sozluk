@@ -1,0 +1,98 @@
+{
+    "id": "i56720",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oil slick",
+    "en_definition": "a thin film of oil floating on top of water (especially crude oil spilled from a ship)",
+    "tr_word": "petrol tabakası",
+    "tr_definition": "Su yüzeyinde yüzen, genellikle gemilerden sızan ham petrolün oluşturduğu ince film tabakası.",
+    "ru_word": "нефтяное пятно",
+    "ru_definition": "Тонкая пленка нефти, плавающая на поверхности воды (особенно в результате разлива из судна).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "moy qatlami",
+                    "moy pardasi"
+                ],
+                "Uyghur": [
+                    "ماي قەۋىتى",
+                    "ماي داغلىرى"
+                ],
+                "Kazakh": [
+                    "мұнай дағы",
+                    "мұнай қабыршағы",
+                    "мұнай жайылымы"
+                ],
+                "Kyrgyz": [
+                    "мунай катмары",
+                    "мунай тагы",
+                    "май катмары"
+                ],
+                "Karakalpak": [
+                    "may daǵı",
+                    "may qabatı",
+                    "may jayılımı"
+                ],
+                "Tatar": [
+                    "май катламы",
+                    "май таплары",
+                    "май пәрдәсе"
+                ],
+                "Bashkir": [
+                    "май ҡатламы",
+                    "май ярыһы",
+                    "май таптары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "neft təbəqəsi",
+                    "neft ləkəsi"
+                ],
+                "Turkmen": [
+                    "nebit gatlagy",
+                    "nebit tegmili",
+                    "nebit perdesi"
+                ],
+                "Uzbek": [
+                    "neft dogʻi",
+                    "neft qatlami"
+                ],
+                "Tatar": [
+                    "нефть катламы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yağ tabakası",
+                    "yağ lekesi"
+                ],
+                "Azerbaijani": [
+                    "yağ təbəqəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "petrol tabakası",
+                    "petrol sızıntısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇ يۈزىدىكى ماي"
+                ]
+            }
+        }
+    ]
+}

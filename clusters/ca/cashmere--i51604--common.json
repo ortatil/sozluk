@@ -1,0 +1,120 @@
+{
+    "id": "i51604",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cashmere",
+    "en_definition": "a soft fabric made from the wool of the Cashmere goat",
+    "tr_word": "kaşmir",
+    "tr_definition": "Kaşmir keçisinin yününden yapılan yumuşak bir kumaş türü.",
+    "ru_word": "кашемир",
+    "ru_definition": "мягкая ткань из шерсти кашемировой козы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaşmir",
+                    "paşmina"
+                ],
+                "Azerbaijani": [
+                    "kaşmir",
+                    "paşmina"
+                ],
+                "Turkmen": [
+                    "kaşmir"
+                ],
+                "Uzbek": [
+                    "pashmina"
+                ],
+                "Uyghur": [
+                    "پاشمىنا"
+                ],
+                "Kazakh": [
+                    "пашмина"
+                ],
+                "Kyrgyz": [
+                    "пашми"
+                ],
+                "Karakalpak": [
+                    "pashshap",
+                    "pash"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tiftik"
+                ],
+                "Azerbaijani": [
+                    "tiftik"
+                ],
+                "Kazakh": [
+                    "түбіт"
+                ],
+                "Kyrgyz": [
+                    "тыйбит"
+                ],
+                "Karakalpak": [
+                    "túbit"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pamyk"
+                ],
+                "Kazakh": [
+                    "мамық"
+                ],
+                "Tatar": [
+                    "мамык тукыма"
+                ],
+                "Bashkir": [
+                    "мамыҡ",
+                    "мамыҡ туҡыма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tivit",
+                    "tivitli mato"
+                ],
+                "Uyghur": [
+                    "تىۋىت",
+                    "تىۋىت رەخت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кәшмир",
+                    "кәҗә мамыгы"
+                ],
+                "Bashkir": [
+                    "кәшмир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tüý"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жумшак жүн"
+                ]
+            }
+        }
+    ]
+}

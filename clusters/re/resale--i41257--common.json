@@ -1,0 +1,130 @@
+{
+    "id": "i41257",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "resale",
+    "en_definition": "the selling of something purchased",
+    "tr_word": "yeniden satış",
+    "tr_definition": "satın alınan bir malın tekrar satılması işlemi",
+    "ru_word": "перепродажа",
+    "ru_definition": "продажа товара, который был ранее куплен",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan söwda",
+                    "gaýtadan satyş"
+                ],
+                "Uzbek": [
+                    "qayta sotish"
+                ],
+                "Uyghur": [
+                    "قايتا سېتىش",
+                    "قايتا سودا قىلىش"
+                ],
+                "Kazakh": [
+                    "қайта сату",
+                    "қайта саудалау"
+                ],
+                "Kyrgyz": [
+                    "кайра сатуу",
+                    "кайра соодалоо"
+                ],
+                "Karakalpak": [
+                    "qayta satıo",
+                    "qayta satılıo"
+                ],
+                "Tatar": [
+                    "кабат сату"
+                ],
+                "Bashkir": [
+                    "ҡайтанан һатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ikinci el satış"
+                ],
+                "Turkmen": [
+                    "ikilenç söwda"
+                ],
+                "Uzbek": [
+                    "ikkinchi qo'l savdosi"
+                ],
+                "Uyghur": [
+                    "ئىككىنچى قول سودىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden satış"
+                ],
+                "Azerbaijani": [
+                    "yenidən satış"
+                ],
+                "Bashkir": [
+                    "яңынан һатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "alıp-satarlıq"
+                ],
+                "Tatar": [
+                    "алыпсатарлык"
+                ],
+                "Bashkir": [
+                    "алып һатыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekrar satış"
+                ],
+                "Azerbaijani": [
+                    "təkrar satış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bay'i soniy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үстеме сауда"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ортомчулук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сату-алу"
+                ]
+            }
+        }
+    ]
+}

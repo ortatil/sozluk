@@ -1,0 +1,87 @@
+{
+    "id": "i87248",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ticket holder",
+    "en_definition": "holder of a ticket (for admission or for passage)",
+    "tr_word": "bilet sahibi",
+    "tr_definition": "bir giriş veya geçiş biletine sahip olan kişi",
+    "ru_word": "билетодержатель",
+    "ru_definition": "лицо, имеющее билет (на вход или проезд)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilet sahibi",
+                    "biletli",
+                    "bilet hamili"
+                ],
+                "Azerbaijani": [
+                    "bilet sahibi",
+                    "biletli"
+                ],
+                "Turkmen": [
+                    "biletli",
+                    "bilet eýesi"
+                ],
+                "Uyghur": [
+                    "بېلەت ئىگىسى",
+                    "بېلەتلىك كىشى"
+                ],
+                "Kazakh": [
+                    "билет иесі",
+                    "билет ұстаушы"
+                ],
+                "Kyrgyz": [
+                    "билет ээси",
+                    "билеттүү киши",
+                    "билет кармоочу"
+                ],
+                "Karakalpak": [
+                    "bilet iyesi"
+                ],
+                "Tatar": [
+                    "билетлы",
+                    "билет иясе"
+                ],
+                "Bashkir": [
+                    "билетлы",
+                    "билет эйәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yoʻlovchi"
+                ],
+                "Kazakh": [
+                    "жолаушы"
+                ],
+                "Karakalpak": [
+                    "jolshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tomoshabin"
+                ],
+                "Karakalpak": [
+                    "tamashagóy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chiptachi",
+                    "chipta egasi"
+                ]
+            }
+        }
+    ]
+}

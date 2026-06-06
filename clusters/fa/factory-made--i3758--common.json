@@ -1,0 +1,165 @@
+{
+    "id": "i3758",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "factory-made",
+    "en_definition": "produced in quantity at a factory",
+    "tr_word": "fabrikasyon",
+    "tr_definition": "Fabrikada seri olarak üretilmiş, el yapımı olmayan",
+    "ru_word": "заводской",
+    "ru_definition": "Изготовленный промышленным способом на заводе или фабрике",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "zavod istehsalı"
+                ],
+                "Turkmen": [
+                    "zawodda öndürilen"
+                ],
+                "Uzbek": [
+                    "zavodda ishlangan"
+                ],
+                "Uyghur": [
+                    "زاۋۇتتا ئىشلەنگەن",
+                    "زاۋۇت مالى"
+                ],
+                "Kazakh": [
+                    "зауыттық"
+                ],
+                "Kyrgyz": [
+                    "заводдук"
+                ],
+                "Karakalpak": [
+                    "zawodlıq"
+                ],
+                "Tatar": [
+                    "заводныкы",
+                    "заводта ясалган"
+                ],
+                "Bashkir": [
+                    "заводтыҡы",
+                    "заводта эшләнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fabrikasyon"
+                ],
+                "Azerbaijani": [
+                    "fabrik istehsalı"
+                ],
+                "Turkmen": [
+                    "fabrika önümi"
+                ],
+                "Uzbek": [
+                    "fabrikada tayyorlangan"
+                ],
+                "Uyghur": [
+                    "فابرىكا مالى"
+                ],
+                "Tatar": [
+                    "фабриканыкы",
+                    "фабрикада ясалган"
+                ],
+                "Bashkir": [
+                    "фабриканыҡы",
+                    "фабрикала эшләнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýýar"
+                ],
+                "Uzbek": [
+                    "tayyor"
+                ],
+                "Uyghur": [
+                    "تەييار"
+                ],
+                "Kazakh": [
+                    "дайын"
+                ],
+                "Kyrgyz": [
+                    "даяр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өндірістік"
+                ],
+                "Kyrgyz": [
+                    "өндүрүштүк"
+                ],
+                "Karakalpak": [
+                    "óndіrіslik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hazır"
+                ],
+                "Azerbaijani": [
+                    "hazır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "senagat önümi"
+                ],
+                "Uzbek": [
+                    "sanoatlashgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yapım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mamul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "quraşdırma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәсіпорындық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kárxanalıq"
+                ]
+            }
+        }
+    ]
+}

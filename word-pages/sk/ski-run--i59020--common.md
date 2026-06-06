@@ -1,0 +1,114 @@
+# Ski run
+| Field | Detail |
+|---|---|
+| **ID** | i59020 |
+| **English** | ski run |
+| **Type** | noun |
+| **Definition** | trail or slope prepared for skiing |
+| **Source** | common |
+| **Ortatil** | bitläw |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| битләү | bitläü |
+
+```json
+{
+    "id": "i59020",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ski run",
+    "en_definition": "trail or slope prepared for skiing",
+    "tr_word": "kayak pisti",
+    "tr_definition": "kayak yapmak için hazırlanmış özel parkur veya eğimli alan",
+    "ru_word": "лыжная трасса",
+    "ru_definition": "подготовленный маршрут или склон для катания на лыжах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chang'i yo'li",
+                    "chang'i yo'lakchasi",
+                    "chang'i qiyaliklari"
+                ],
+                "Kazakh": [
+                    "шаңғы жолы",
+                    "шаңғы трассасы",
+                    "шаңғы беткейі"
+                ],
+                "Karakalpak": [
+                    "shańǵı jolı",
+                    "shańǵı trassası",
+                    "shańǵı soqpaǵı"
+                ],
+                "Tatar": [
+                    "чаңгы юлы",
+                    "чаңгы трассасы",
+                    "чаңгы тавы"
+                ],
+                "Bashkir": [
+                    "саңғы юлы",
+                    "саңғы трассаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lyža ýoly",
+                    "lyža trassasy",
+                    "lyža meýdançasy"
+                ],
+                "Kyrgyz": [
+                    "лыжа жолу",
+                    "лыжа трассасы",
+                    "лыжа баскан жол"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayak pisti",
+                    "kayak parkuru",
+                    "kayak yolu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xizək yolu",
+                    "xizək enişi",
+                    "xizək cığırı",
+                    "xizək trası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قار تېيىلىش يولى",
+                    "قار تېيىلىش مەيدانى",
+                    "قار يولى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "битләү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,112 @@
+{
+    "id": "i60282",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "timer",
+    "en_definition": "a timepiece that measures a time interval and signals its end",
+    "tr_word": "zamanlayıcı",
+    "tr_definition": "belirli bir süreyi ölçen ve süre dolduğunda sinyal veren cihaz",
+    "ru_word": "таймер",
+    "ru_definition": "прибор для отсчёта промежутков времени, подающий сигнал по их истечении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vakit ölçer"
+                ],
+                "Azerbaijani": [
+                    "vaxtölçən"
+                ],
+                "Turkmen": [
+                    "wagtölçer",
+                    "wagt ölçeýji"
+                ],
+                "Uzbek": [
+                    "vaqt oʻlchagich",
+                    "vaqt belgilaich"
+                ],
+                "Uyghur": [
+                    "ۋاقىت ئۆلچىگۈچ",
+                    "ۋاقىت بەلگىلىگۈچ",
+                    "ۋاقىت كۆرسەتكۈچ"
+                ],
+                "Kazakh": [
+                    "уақыт өлшегіш",
+                    "уақыт белгілегіш",
+                    "уақыт көрсеткіш"
+                ],
+                "Karakalpak": [
+                    "uaqıt ólshegish",
+                    "uaqıt belgilegish"
+                ],
+                "Tatar": [
+                    "вакыт үлчәгеч",
+                    "вакыт санагыч",
+                    "вакыт билгеләгеч"
+                ],
+                "Bashkir": [
+                    "ваҡыт үлсәүес",
+                    "ваҡыт иҫәпләгес",
+                    "ваҡыт билдәләгес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zamanlayıcı"
+                ],
+                "Azerbaijani": [
+                    "zamanölçən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sagat"
+                ],
+                "Uzbek": [
+                    "soat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "süreölçer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dakika ayarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "taymer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "убакыт өлчөгүч",
+                    "убакыт белгилегич"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мөөнөт өлчөгүч"
+                ]
+            }
+        }
+    ]
+}

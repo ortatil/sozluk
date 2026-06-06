@@ -1,0 +1,143 @@
+{
+    "id": "i57934",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "railway station",
+    "en_definition": "terminal where trains load or unload passengers or goods",
+    "tr_word": "tren istasyonu",
+    "tr_definition": "trenlerin yolcu veya yük alıp indirdiği terminal",
+    "ru_word": "железнодорожный вокзал",
+    "ru_definition": "терминал, где поезда принимают или высаживают пассажиров или грузы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "istasyon"
+                ],
+                "Azerbaijani": [
+                    "stansiya"
+                ],
+                "Uzbek": [
+                    "stansiya"
+                ],
+                "Kazakh": [
+                    "станса"
+                ],
+                "Kyrgyz": [
+                    "станция"
+                ],
+                "Karakalpak": [
+                    "stanciya"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dəmir yolu vağzalı"
+                ],
+                "Turkmen": [
+                    "demir ýol menzili"
+                ],
+                "Kyrgyz": [
+                    "темир жол бекети"
+                ],
+                "Karakalpak": [
+                    "temir jol wokzalı"
+                ],
+                "Tatar": [
+                    "тимер юл тукталышы",
+                    "тимер юл станциясе"
+                ],
+                "Bashkir": [
+                    "тимер юл вокзалы",
+                    "тимер юл станцияһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bekat"
+                ],
+                "Uyghur": [
+                    "بېكەت"
+                ],
+                "Kazakh": [
+                    "бекет"
+                ],
+                "Kyrgyz": [
+                    "бекет"
+                ],
+                "Karakalpak": [
+                    "beket"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "durak"
+                ],
+                "Azerbaijani": [
+                    "duracaq"
+                ],
+                "Turkmen": [
+                    "duralga"
+                ],
+                "Kazakh": [
+                    "тұрақ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vağzal"
+                ],
+                "Uyghur": [
+                    "ۋوگزال"
+                ],
+                "Tatar": [
+                    "вокзал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "to'xtash joyi"
+                ],
+                "Bashkir": [
+                    "туҡталыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "menzil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پويىز ئىستانسىسى"
+                ]
+            }
+        }
+    ]
+}

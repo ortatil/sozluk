@@ -1,0 +1,123 @@
+{
+    "id": "i57905",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "radio receiver",
+    "en_definition": "an electronic receiver that detects and demodulates and amplifies transmitted signals",
+    "tr_word": "radyo alıcısı",
+    "tr_definition": "iletilen sinyalleri algılayan, demodüle eden ve yükselten elektronik bir alıcı",
+    "ru_word": "радиоприёмник",
+    "ru_definition": "электронное устройство для приема, демодуляции и усиления передаваемых радиосигналов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "radyo"
+                ],
+                "Azerbaijani": [
+                    "radio",
+                    "radioqəbuledici"
+                ],
+                "Turkmen": [
+                    "radio"
+                ],
+                "Uzbek": [
+                    "radio",
+                    "radiopriyomnik"
+                ],
+                "Uyghur": [
+                    "رادىئو",
+                    "رادىئو قوبۇللىغۇچ"
+                ],
+                "Kazakh": [
+                    "радиоқабылдағыш",
+                    "радио"
+                ],
+                "Kyrgyz": [
+                    "радио кабылдагыч"
+                ],
+                "Karakalpak": [
+                    "radioqabıldaǵısh"
+                ],
+                "Tatar": [
+                    "радиоалгыч",
+                    "радио"
+                ],
+                "Bashkir": [
+                    "радиоалғыс",
+                    "радиоалғыс ҡоролмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alıcı"
+                ],
+                "Tatar": [
+                    "алгыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəbuledici"
+                ],
+                "Kazakh": [
+                    "қабылдағыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "telsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "diňleýiş enjamy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ses alyjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "eshittirgich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاڭلىغۇچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үн алгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "xabarlaǵısh"
+                ]
+            }
+        }
+    ]
+}

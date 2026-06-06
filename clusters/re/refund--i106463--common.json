@@ -1,0 +1,136 @@
+{
+    "id": "i106463",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "refund",
+    "en_definition": "money returned to a payer",
+    "tr_word": "iade",
+    "tr_definition": "bir ödemenin geri verilmesi",
+    "ru_word": "возврат",
+    "ru_definition": "возвращение денег плательщику",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qaytarılma"
+                ],
+                "Turkmen": [
+                    "gaýtargy"
+                ],
+                "Uzbek": [
+                    "qaytarma",
+                    "qaytarilgan mablag'"
+                ],
+                "Uyghur": [
+                    "قايتۇرۇلغان پۇل",
+                    "قايتۇرما"
+                ],
+                "Kazakh": [
+                    "қайтарым",
+                    "қайтару"
+                ],
+                "Kyrgyz": [
+                    "кайтарым",
+                    "кайтарып берүү"
+                ],
+                "Karakalpak": [
+                    "qaytarım",
+                    "qaytarılǵan aqsha"
+                ],
+                "Tatar": [
+                    "кайтарым"
+                ],
+                "Bashkir": [
+                    "ҡайтарыу",
+                    "ҡайтарым"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töleg gaýtaryş"
+                ],
+                "Uyghur": [
+                    "تۆلەم"
+                ],
+                "Kyrgyz": [
+                    "төлөмдү кайтаруу"
+                ],
+                "Karakalpak": [
+                    "tólemdі qaytaru"
+                ],
+                "Tatar": [
+                    "түләүне кайтару"
+                ],
+                "Bashkir": [
+                    "түләүҙе ҡайтарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iade"
+                ],
+                "Azerbaijani": [
+                    "iadə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geri ödeme"
+                ],
+                "Azerbaijani": [
+                    "geri ödəmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "red"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzyna gaýtaryş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tovon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "badal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өтем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кире кайтару"
+                ]
+            }
+        }
+    ]
+}

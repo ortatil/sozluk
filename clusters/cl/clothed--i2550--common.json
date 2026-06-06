@@ -1,0 +1,115 @@
+{
+    "id": "i2550",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "clothed",
+    "en_definition": "wearing or provided with clothing; sometimes used in combination",
+    "tr_word": "giyinik",
+    "tr_definition": "üzerinde giysi bulunan, çıplak olmayan",
+    "ru_word": "одетый",
+    "ru_definition": "имеющий на себе одежду; не голый",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "giyinik",
+                    "giysili"
+                ],
+                "Azerbaijani": [
+                    "geyinmiş",
+                    "geyinik",
+                    "geyimli"
+                ],
+                "Turkmen": [
+                    "geýimli",
+                    "geýnen"
+                ],
+                "Uzbek": [
+                    "kiyimli",
+                    "kiygan"
+                ],
+                "Uyghur": [
+                    "كىيىملىك",
+                    "كىيىنگەن",
+                    "كىيىملىك-كېچەكلىك"
+                ],
+                "Kyrgyz": [
+                    "кийимдүү",
+                    "кийинип алган",
+                    "кийинген"
+                ],
+                "Karakalpak": [
+                    "kiyingen",
+                    "kiyimli"
+                ],
+                "Tatar": [
+                    "киенгән",
+                    "киемле",
+                    "киендерелгән"
+                ],
+                "Bashkir": [
+                    "кейенгән",
+                    "кейемле",
+                    "кейем-һалымлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "libaslı"
+                ],
+                "Azerbaijani": [
+                    "libaslı"
+                ],
+                "Turkmen": [
+                    "lybasly"
+                ],
+                "Uzbek": [
+                    "libosli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ust-boshli"
+                ],
+                "Kazakh": [
+                    "үстінде киімі бар"
+                ],
+                "Karakalpak": [
+                    "ústi-bası pútin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "örtülü"
+                ],
+                "Azerbaijani": [
+                    "örtülü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "киінген",
+                    "киімді"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жабылган"
+                ]
+            }
+        }
+    ]
+}

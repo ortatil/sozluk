@@ -1,0 +1,69 @@
+{
+    "id": "i11118",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "left-handed",
+    "en_definition": "using or intended for the left hand",
+    "tr_word": "solak",
+    "tr_definition": "sol elini kullanan veya sol el için tasarlanmış olan",
+    "ru_word": "левша",
+    "ru_definition": "использующий левую руку или предназначенный для левой руки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "solak"
+                ],
+                "Azerbaijani": [
+                    "solaxay",
+                    "solçu"
+                ],
+                "Uyghur": [
+                    "سولخاي",
+                    "سولاقاي"
+                ],
+                "Kazakh": [
+                    "солақай",
+                    "солқай"
+                ],
+                "Kyrgyz": [
+                    "сол кол",
+                    "сологой"
+                ],
+                "Karakalpak": [
+                    "solaqay",
+                    "solqay"
+                ],
+                "Tatar": [
+                    "сулагай",
+                    "сул куллы"
+                ],
+                "Bashkir": [
+                    "һулаҡай",
+                    "һул ҡуллы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çepbekey",
+                    "çepakay",
+                    "çep"
+                ],
+                "Uzbek": [
+                    "chapaqay",
+                    "chapdast"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sol elini kullanan"
+                ]
+            }
+        }
+    ]
+}

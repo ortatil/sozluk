@@ -1,0 +1,80 @@
+{
+    "id": "i81491",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "military law",
+    "en_definition": "the body of laws and rules of conduct administered by military courts for the discipline, trial, and punishment of military personnel",
+    "tr_word": "askeri hukuk",
+    "tr_definition": "Askeri personelin disiplini, yargılanması ve cezalandırılması için askeri mahkemeler tarafından uygulanan yasalar ve kurallar bütünü.",
+    "ru_word": "военное право",
+    "ru_definition": "совокупность правовых норм, регулирующих отношения в сфере военного строительства, жизни, быта и деятельности вооруженных сил.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbi qanunvericilik",
+                    "hərbi hüquq",
+                    "hərbi nizamnamə"
+                ],
+                "Turkmen": [
+                    "harby kanunçylyk",
+                    "harby düzgünnama",
+                    "harby kanun"
+                ],
+                "Uzbek": [
+                    "harbiy qonun",
+                    "harbiy qonunchilik",
+                    "harbiy nizom"
+                ],
+                "Uyghur": [
+                    "ھەربىي قانۇن"
+                ],
+                "Tatar": [
+                    "хәрби канун",
+                    "хәрби хокук",
+                    "хәрби низам"
+                ],
+                "Bashkir": [
+                    "хәрби ҡанун",
+                    "хәрби хоҡуҡ",
+                    "хәрби низам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "askeri hukuk",
+                    "askeri mevzuat",
+                    "askeri ceza hukuku"
+                ],
+                "Uyghur": [
+                    "ئەسكىرىي نىزام"
+                ],
+                "Kazakh": [
+                    "әскери заң",
+                    "әскери құқық",
+                    "әскери жарғы"
+                ],
+                "Kyrgyz": [
+                    "аскердик мыйзам",
+                    "аскердик укук",
+                    "аскердик тартип"
+                ],
+                "Karakalpak": [
+                    "áskeri nızam",
+                    "áskeri qaǵıyda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوراللىق كۈچلەر قانۇنى"
+                ]
+            }
+        }
+    ]
+}

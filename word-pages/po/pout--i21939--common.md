@@ -1,0 +1,242 @@
+# Pout
+| Field | Detail |
+|---|---|
+| **ID** | i21939 |
+| **English** | pout |
+| **Type** | verb |
+| **Definition** | make a sad face and thrust out one's lower lip |
+| **Source** | common |
+| **Ortatil** | üpkälämäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **üpkälämäk** | **tompayımaq** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 0 |
+| *Qarluq Subtotal* | 0 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.80 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  |
+| **O'TQ** | **1.43** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| томпаю | tompayu |
+| түрпию | türpiyu |
+| бүрсеңдеу | bürseñdeu |
+| бұртию | burtiyu |
+| **Kyrgyz** | |
+| томсоруу | tomsoruu |
+| капалануу | kapalanuu |
+| **Tatar** | |
+| үпкәләү | üpkäläü |
+| **Bashkir** | |
+| томшайыу | tomşayıu |
+| үпкәләү | üpkäläü |
+
+```json
+{
+    "id": "i21939",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "pout",
+    "en_definition": "make a sad face and thrust out one's lower lip",
+    "tr_word": "dudak bükmek",
+    "tr_definition": "üzgün veya kırgın bir ifadeyle alt dudağını dışarı doğru uzatmak",
+    "ru_word": "дуться",
+    "ru_definition": "выпячивать губы, выражая обиду или недовольство",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تومشۇق چىقىرىش",
+                    "تومشۇق قىلىش"
+                ],
+                "Kazakh": [
+                    "томпаю"
+                ],
+                "Kyrgyz": [
+                    "томсоруу"
+                ],
+                "Karakalpak": [
+                    "tomsırayıo"
+                ],
+                "Tatar": [
+                    "томшык чыгару"
+                ],
+                "Bashkir": [
+                    "томшайыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öýkelemek"
+                ],
+                "Karakalpak": [
+                    "ókpeleo"
+                ],
+                "Tatar": [
+                    "үпкәләү"
+                ],
+                "Bashkir": [
+                    "үпкәләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dudak bükmek"
+                ],
+                "Azerbaijani": [
+                    "dodaq büzmək"
+                ],
+                "Turkmen": [
+                    "dodagyny sallamak"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "turshatmoq"
+                ],
+                "Kazakh": [
+                    "түрпию"
+                ],
+                "Kyrgyz": [
+                    "турумтайдай болуу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ерін шығару"
+                ],
+                "Kyrgyz": [
+                    "эрдин кесүү",
+                    "эрдин чүрчүйтүү"
+                ],
+                "Karakalpak": [
+                    "ernin shıǵarıo",
+                    "ernin búrtio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "surat asmak",
+                    "somurtmak"
+                ],
+                "Turkmen": [
+                    "somatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "küsmek"
+                ],
+                "Azerbaijani": [
+                    "küsüşmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاپاق تۈرۈش"
+                ],
+                "Kyrgyz": [
+                    "капалануу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирен асып тору",
+                    "ирен бүрттерү"
+                ],
+                "Bashkir": [
+                    "иренен бүлтәйтеү",
+                    "иренен һалыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çitəmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üz-gözünü turşutmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "püflemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lab burishtirmoq",
+                    "lab osiltirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "arazlamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاغزىنى پۈرۈشتۈرۈش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бүрсеңдеу",
+                    "бұртию"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,137 @@
+# White whale
+| Field | Detail |
+|---|---|
+| **ID** | i46297 |
+| **English** | white whale |
+| **Type** | noun |
+| **Definition** | small northern whale that is white when adult |
+| **Source** | common |
+| **Ortatil** | beluga |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **beluga** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بېلۇگا | beluga |
+| **Kazakh** | |
+| белуха | beluxa |
+| **Kyrgyz** | |
+| белуха | beluxa |
+| **Tatar** | |
+| белуга | beluga |
+| **Bashkir** | |
+| белуха | beluxa |
+
+```json
+{
+    "id": "i46297",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white whale",
+    "en_definition": "small northern whale that is white when adult",
+    "tr_word": "beluga",
+    "tr_definition": "yetişkinliğe ulaştığında tamamen beyaz olan, kuzey denizlerine özgü küçük bir balina türü",
+    "ru_word": "белуха",
+    "ru_definition": "небольшой северный кит, который во взрослом возрасте становится белым",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak balina"
+                ],
+                "Azerbaijani": [
+                    "ağ balina"
+                ],
+                "Turkmen": [
+                    "ak kit"
+                ],
+                "Uzbek": [
+                    "oq kit"
+                ],
+                "Uyghur": [
+                    "ئاق كىت"
+                ],
+                "Kazakh": [
+                    "ақ кит"
+                ],
+                "Kyrgyz": [
+                    "ак кит"
+                ],
+                "Karakalpak": [
+                    "aq kit"
+                ],
+                "Tatar": [
+                    "ак кит"
+                ],
+                "Bashkir": [
+                    "аҡ кит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beluga"
+                ],
+                "Azerbaijani": [
+                    "beluqa"
+                ],
+                "Turkmen": [
+                    "beluga"
+                ],
+                "Uzbek": [
+                    "beluga"
+                ],
+                "Uyghur": [
+                    "بېلۇگا"
+                ],
+                "Kazakh": [
+                    "белуха"
+                ],
+                "Kyrgyz": [
+                    "белуха"
+                ],
+                "Karakalpak": [
+                    "beluxa"
+                ],
+                "Tatar": [
+                    "белуга"
+                ],
+                "Bashkir": [
+                    "белуха"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz balina"
+                ]
+            }
+        }
+    ]
+}
+```
+

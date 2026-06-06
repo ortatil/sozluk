@@ -1,0 +1,95 @@
+{
+    "id": "i115140",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "toxic waste",
+    "en_definition": "poisonous waste materials; can cause injury (especially by chemical means)",
+    "tr_word": "toksik atık",
+    "tr_definition": "canlılara ve çevreye zarar veren, kimyasal olarak tehlikeli atık maddeler",
+    "ru_word": "токсичные отходы",
+    "ru_definition": "ядовитые отходы, способные нанести вред здоровью или окружающей среде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zehirli atık",
+                    "zararlı atık"
+                ],
+                "Azerbaijani": [
+                    "zəhərli tullantı",
+                    "zərərli qalıq",
+                    "zəhərli maddə"
+                ],
+                "Turkmen": [
+                    "zäherli galyndylar"
+                ],
+                "Uzbek": [
+                    "zaharli chiqindi",
+                    "zaharli qoldiq",
+                    "zararli chiqindilar"
+                ],
+                "Uyghur": [
+                    "زەھەرلىك تاشلاندۇق",
+                    "زەھەرلىك قالدۇق",
+                    "زەھەرلىك ئەخلەت"
+                ],
+                "Karakalpak": [
+                    "záhárli qaldıqlar"
+                ],
+                "Tatar": [
+                    "зарарлы калдыклар"
+                ],
+                "Bashkir": [
+                    "зарарлы ҡалдыҡтар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "awuly galyndylar"
+                ],
+                "Kazakh": [
+                    "улы қалдықтар",
+                    "улы қоқыстар"
+                ],
+                "Kyrgyz": [
+                    "уулуу калдыктар"
+                ],
+                "Karakalpak": [
+                    "ulı qaldıqlar"
+                ],
+                "Tatar": [
+                    "агулы калдыклар",
+                    "агулы чүп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зиянды қалдықтар"
+                ],
+                "Kyrgyz": [
+                    "зыяндуу калдыктар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toksik atık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ағыулы ҡалдыҡтар"
+                ]
+            }
+        }
+    ]
+}

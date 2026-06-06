@@ -1,0 +1,158 @@
+# Sandpaper
+| Field | Detail |
+|---|---|
+| **ID** | i115091 |
+| **English** | sandpaper |
+| **Type** | noun |
+| **Definition** | stiff paper coated with powdered emery or sand |
+| **Source** | common |
+| **Ortatil** | pärdä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| құмқағаз | qumqağaz |
+| егеуқұм | yegeuqum |
+| егеуқағаз | yegeuqağaz |
+
+```json
+{
+    "id": "i115091",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sandpaper",
+    "en_definition": "stiff paper coated with powdered emery or sand",
+    "tr_word": "zımpara kağıdı",
+    "tr_definition": "Yüzeyleri pürüzsüzleştirmek veya temizlemek için kullanılan, üzerine aşındırıcı toz yapıştırılmış sert kağıt.",
+    "ru_word": "наждачная бумага",
+    "ru_definition": "Гибкий абразивный материал, состоящий из бумажной или тканевой основы с нанесенным на нее слоем абразивного зерна.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qumloq qog'oz"
+                ],
+                "Uyghur": [
+                    "قۇم قەغەز"
+                ],
+                "Kazakh": [
+                    "құмқағаз"
+                ],
+                "Kyrgyz": [
+                    "кум кагаз"
+                ],
+                "Karakalpak": [
+                    "qұm qaǵaz"
+                ],
+                "Tatar": [
+                    "комлы кәгазь"
+                ],
+                "Bashkir": [
+                    "ҡомло ҡағыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ege kagyz"
+                ],
+                "Kazakh": [
+                    "егеуқұм",
+                    "егеуқағаз"
+                ],
+                "Kyrgyz": [
+                    "эгөө кагаз"
+                ],
+                "Karakalpak": [
+                    "egeu qaǵaz"
+                ],
+                "Tatar": [
+                    "иге кәгазе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zımpara",
+                    "zımpara kağıdı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sumbata",
+                    "sumbata kağızı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cilov kağızı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şkurka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "türkmençe ege"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "parda",
+                    "pardoq qog'oz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۈرگۈچ قەغەز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыргыч кагаз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кәгазь иге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ышҡыу ҡағыҙы"
+                ]
+            }
+        }
+    ]
+}
+```
+

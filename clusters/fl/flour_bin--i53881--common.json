@@ -1,0 +1,95 @@
+{
+    "id": "i53881",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flour bin",
+    "en_definition": "a bin for holding flour",
+    "tr_word": "un kabı",
+    "tr_definition": "un saklamak için kullanılan büyük kap veya bölme",
+    "ru_word": "ларь для муки",
+    "ru_definition": "большой ящик или контейнер для хранения муки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "un kabı",
+                    "un sandığı",
+                    "un ambarı"
+                ],
+                "Azerbaijani": [
+                    "un qabı",
+                    "un sandığı",
+                    "un anbarı"
+                ],
+                "Turkmen": [
+                    "un sandygy",
+                    "un gapy"
+                ],
+                "Uzbek": [
+                    "un sandig'i",
+                    "un idishi"
+                ],
+                "Uyghur": [
+                    "ئۇن ساندۇقى",
+                    "ئۇن قاچىسى",
+                    "ئۇن دانى"
+                ],
+                "Kazakh": [
+                    "ұн сандық",
+                    "ұн қорап"
+                ],
+                "Kyrgyz": [
+                    "ун сандык",
+                    "ун кампа"
+                ],
+                "Karakalpak": [
+                    "un sandıq",
+                    "un qap",
+                    "un idisi"
+                ],
+                "Tatar": [
+                    "он савыты",
+                    "он сандыгы"
+                ],
+                "Bashkir": [
+                    "он һандығы",
+                    "он һауыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "un teknesi"
+                ],
+                "Azerbaijani": [
+                    "un yeşiyi"
+                ],
+                "Turkmen": [
+                    "un küýzesi"
+                ],
+                "Uzbek": [
+                    "un qutisi"
+                ],
+                "Kazakh": [
+                    "ұн кеспек"
+                ],
+                "Kyrgyz": [
+                    "ун челек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "он чиләге"
+                ],
+                "Bashkir": [
+                    "он кәтүге"
+                ]
+            }
+        }
+    ]
+}

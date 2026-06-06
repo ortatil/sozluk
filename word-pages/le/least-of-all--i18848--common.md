@@ -1,0 +1,221 @@
+# Least of all
+| Field | Detail |
+|---|---|
+| **ID** | i18848 |
+| **English** | least of all |
+| **Type** | adverb |
+| **Definition** | especially not |
+| **Source** | common |
+| **Ortatil** | hususan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بولۇپمۇ | bolupmu |
+| **Kazakh** | |
+| әсіресе | äsirese |
+| тіпті | tipti |
+| **Kyrgyz** | |
+| өзгөчө | özgöçö |
+
+```json
+{
+    "id": "i18848",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "least of all",
+    "en_definition": "especially not",
+    "tr_word": "en azından",
+    "tr_definition": "özellikle de değil, hele hiç",
+    "ru_word": "меньше всего",
+    "ru_definition": "особенно не, в последнюю очередь",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "en başta",
+                    "en azından"
+                ],
+                "Azerbaijani": [
+                    "ən azı"
+                ],
+                "Turkmen": [
+                    "iň azyndan"
+                ],
+                "Uyghur": [
+                    "ئەڭ ئاز دېگەندە"
+                ],
+                "Kazakh": [
+                    "ең алдымен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бәрінен бұрын"
+                ],
+                "Kyrgyz": [
+                    "баарынан мурда",
+                    "баарынан аз"
+                ],
+                "Karakalpak": [
+                    "bárinen de burın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xüsusilə də yox"
+                ],
+                "Uzbek": [
+                    "xususan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iň bärkisi"
+                ],
+                "Bashkir": [
+                    "иң кәме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hiç"
+                ],
+                "Tatar": [
+                    "һич тә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hammasidan ham kam"
+                ],
+                "Uyghur": [
+                    "ھەممىدىن بەكرەك ئەمەس"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әсіресе"
+                ],
+                "Karakalpak": [
+                    "ásirese"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эң эле"
+                ],
+                "Tatar": [
+                    "иң элек түгел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бигрәк тә",
+                    "бигрәк тә түгел"
+                ],
+                "Bashkir": [
+                    "бигерәк тә түгел",
+                    "бигерәк тә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilhassa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hele",
+                    "hele hele"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hər şeydən əvvəl",
+                    "heç olmasa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "asla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ayniqsa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بولۇپمۇ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тіпті"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өзгөчө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tiykarınan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "айырыуса түгел"
+                ]
+            }
+        }
+    ]
+}
+```
+

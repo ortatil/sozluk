@@ -1,0 +1,118 @@
+{
+    "id": "i70479",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "questionnaire",
+    "en_definition": "a form containing a set of questions; submitted to people to gain statistical information",
+    "tr_word": "anket",
+    "tr_definition": "İstatistiksel bilgi toplamak amacıyla kişilere sunulan, bir dizi sorudan oluşan form.",
+    "ru_word": "анкета",
+    "ru_definition": "форма, содержащая набор вопросов, представляемая людям для получения статистической информации.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soru kağıdı"
+                ],
+                "Azerbaijani": [
+                    "sorğu",
+                    "sorğu vərəqəsi"
+                ],
+                "Turkmen": [
+                    "soragnama"
+                ],
+                "Uzbek": [
+                    "so'rovnoma"
+                ],
+                "Kazakh": [
+                    "сұрақнама"
+                ],
+                "Kyrgyz": [
+                    "суроо-жооп",
+                    "сурамжылоо",
+                    "суроолук"
+                ],
+                "Karakalpak": [
+                    "soraonama",
+                    "sorao-juoap"
+                ],
+                "Tatar": [
+                    "сораулык"
+                ],
+                "Bashkir": [
+                    "һораулыҡ",
+                    "һораунамә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "anket"
+                ],
+                "Azerbaijani": [
+                    "anket"
+                ],
+                "Turkmen": [
+                    "anketa"
+                ],
+                "Uzbek": [
+                    "anketa"
+                ],
+                "Karakalpak": [
+                    "anketa"
+                ],
+                "Tatar": [
+                    "анкета"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sowalnama"
+                ],
+                "Uzbek": [
+                    "savolnoma"
+                ],
+                "Uyghur": [
+                    "سوئالنامە"
+                ],
+                "Kazakh": [
+                    "сауалнама",
+                    "сауал"
+                ],
+                "Tatar": [
+                    "саванамә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istifhamname"
+                ],
+                "Uyghur": [
+                    "ئىستىتستىكا جەدۋىلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soru çizelgesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەكشۈرۈش جەدۋىلى"
+                ]
+            }
+        }
+    ]
+}

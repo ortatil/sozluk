@@ -1,0 +1,196 @@
+# Law enforcement
+| Field | Detail |
+|---|---|
+| **ID** | i41314 |
+| **English** | law enforcement |
+| **Type** | noun |
+| **Definition** | ensuring obedience to the laws |
+| **Source** | common |
+| **Ortatil** | huquq-mühäfizä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| тартип | tartip |
+| мыйзамдуулук | mıyzamduuluk |
+
+```json
+{
+    "id": "i41314",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "law enforcement",
+    "en_definition": "ensuring obedience to the laws",
+    "tr_word": "kolluk kuvvetleri",
+    "tr_definition": "yasaların uygulanmasını ve kamu düzenini sağlayan birimler",
+    "ru_word": "правоохранительные органы",
+    "ru_definition": "деятельность по обеспечению соблюдения законов и поддержанию правопорядка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tertibi goraýyş"
+                ],
+                "Uzbek": [
+                    "tartib-intizom"
+                ],
+                "Uyghur": [
+                    "تەرتىپ ساقلاش"
+                ],
+                "Kazakh": [
+                    "тәртіп сақтау"
+                ],
+                "Kyrgyz": [
+                    "тартип"
+                ],
+                "Karakalpak": [
+                    "tártip saqlao"
+                ],
+                "Tatar": [
+                    "тәртип саклау"
+                ],
+                "Bashkir": [
+                    "тәртип һаҡлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kanun uygulama"
+                ],
+                "Azerbaijani": [
+                    "qanun keşikçiliyi"
+                ],
+                "Turkmen": [
+                    "kanun goraýjylyk",
+                    "kanunçylyk"
+                ],
+                "Uzbek": [
+                    "qonun ustuvorligi",
+                    "qonun himoyasi"
+                ],
+                "Uyghur": [
+                    "قانۇن ئىجرا قىلىش"
+                ],
+                "Tatar": [
+                    "канун саклау"
+                ],
+                "Bashkir": [
+                    "ҡанун һаҡлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hüquq-mühafizə"
+                ],
+                "Uzbek": [
+                    "huquq-tartibot"
+                ],
+                "Tatar": [
+                    "хокук саклау"
+                ],
+                "Bashkir": [
+                    "хоҡуҡ һаҡлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asayiş"
+                ],
+                "Azerbaijani": [
+                    "asayişin qorunması"
+                ],
+                "Turkmen": [
+                    "asudaçylyk"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nizam-intizam"
+                ],
+                "Kyrgyz": [
+                    "мыйзам коргоо"
+                ],
+                "Karakalpak": [
+                    "nızam qorǵau",
+                    "nızam ústemligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "emniyet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kolluk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zabıta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئامانلىق ساقلاش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құқық қорғау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "заң орындау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мыйзамдуулук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "укук тартиби"
+                ]
+            }
+        }
+    ]
+}
+```
+

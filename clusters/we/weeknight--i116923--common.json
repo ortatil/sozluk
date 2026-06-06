@@ -1,0 +1,90 @@
+{
+    "id": "i116923",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "weeknight",
+    "en_definition": "any night of the week except Saturday or Sunday",
+    "tr_word": "hafta içi gecesi",
+    "tr_definition": "Cumartesi veya Pazar hariç haftanın herhangi bir gecesi",
+    "ru_word": "будний вечер",
+    "ru_definition": "любой вечер недели, кроме субботы или воскресенья",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "iş günü axşamı"
+                ],
+                "Turkmen": [
+                    "iş güni agşamy"
+                ],
+                "Uzbek": [
+                    "ish kuni oqshomi",
+                    "ish kuni kechasi"
+                ],
+                "Uyghur": [
+                    "ئىش كۈنى ئاخشىمى"
+                ],
+                "Kyrgyz": [
+                    "иш күнүнүн кечи",
+                    "иш күнкү кеч"
+                ],
+                "Tatar": [
+                    "эш көне киче"
+                ],
+                "Bashkir": [
+                    "эш көнө кисе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hafta içi gecesi",
+                    "hafta içi akşamı"
+                ],
+                "Azerbaijani": [
+                    "həftə içi axşamı"
+                ],
+                "Turkmen": [
+                    "hepde içi agşam"
+                ],
+                "Uzbek": [
+                    "hafta oqshomi"
+                ],
+                "Uyghur": [
+                    "ھەپتە ئىچىدىكى ئاخشام"
+                ],
+                "Karakalpak": [
+                    "hápte ishindegi kesh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "атна киче"
+                ],
+                "Bashkir": [
+                    "атна кисе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмыс күндерінің кеші",
+                    "апта ортасындағы кеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "isles kúnleriniń keshi"
+                ]
+            }
+        }
+    ]
+}

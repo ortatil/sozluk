@@ -1,0 +1,118 @@
+# Historical document
+| Field | Detail |
+|---|---|
+| **ID** | i70701 |
+| **English** | historical document |
+| **Type** | noun |
+| **Definition** | writing having historical value (as opposed to fiction or myth etc.) |
+| **Source** | common |
+| **Ortatil** | mänbä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қолжазба | qoljazba |
+
+```json
+{
+    "id": "i70701",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "historical document",
+    "en_definition": "writing having historical value (as opposed to fiction or myth etc.)",
+    "tr_word": "tarihi belge",
+    "tr_definition": "Tarihsel değeri olan, kurgu veya efsaneden farklı olarak geçmişe ışık tutan yazılı kaynak.",
+    "ru_word": "исторический документ",
+    "ru_definition": "Письменный источник, имеющий историческую ценность и служащий свидетельством прошлого (в отличие от художественной литературы или мифов).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarihi belge",
+                    "tarihi vesika",
+                    "tarihi evrak",
+                    "tarihi kayıt"
+                ],
+                "Azerbaijani": [
+                    "tarixi sənəd",
+                    "tarixi vəsiqə",
+                    "tarixi mənbə"
+                ],
+                "Turkmen": [
+                    "taryhy resminama",
+                    "taryhy sened",
+                    "taryhy ýazgy"
+                ],
+                "Uzbek": [
+                    "tarixiy hujjat",
+                    "tarixiy bitik",
+                    "tarixiy yodgorlik"
+                ],
+                "Uyghur": [
+                    "تارىخىي ۋەسىقە",
+                    "تارىخىي ھۆججەت",
+                    "تارىخىي يازما"
+                ],
+                "Kazakh": [
+                    "тарихи құжат",
+                    "тарихи жәдігер",
+                    "тарихи дерек"
+                ],
+                "Kyrgyz": [
+                    "тарыхый документ",
+                    "тарыхый жазма",
+                    "тарыхый эстелик",
+                    "тарыхый булак"
+                ],
+                "Karakalpak": [
+                    "tariyxıy hújjet",
+                    "tariyxıy derek"
+                ],
+                "Tatar": [
+                    "тарихи язма",
+                    "тарихи чыганак",
+                    "тарихи документ",
+                    "тарихи ядкәр"
+                ],
+                "Bashkir": [
+                    "тарихи документ",
+                    "тарихи яҙма",
+                    "тарихи ҡомартҡы",
+                    "тарихи хөжжәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yazılı abidə"
+                ],
+                "Karakalpak": [
+                    "jazba eskertkish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "manba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қолжазба"
+                ]
+            }
+        }
+    ]
+}
+```
+

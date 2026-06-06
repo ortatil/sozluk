@@ -1,0 +1,132 @@
+{
+    "id": "i80678",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "church school",
+    "en_definition": "a private religious school run by a church or parish",
+    "tr_word": "kilise okulu",
+    "tr_definition": "bir kilise veya dini topluluk tarafından işletilen özel dini okul",
+    "ru_word": "церковно-приходская школа",
+    "ru_definition": "частная религиозная школа, находящаяся в ведении церкви или прихода",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dini məktəb"
+                ],
+                "Turkmen": [
+                    "dini mekdep"
+                ],
+                "Uzbek": [
+                    "diniy maktab"
+                ],
+                "Uyghur": [
+                    "دىنىي مەكتەپ"
+                ],
+                "Kazakh": [
+                    "діни мектеп"
+                ],
+                "Kyrgyz": [
+                    "диний мектеп"
+                ],
+                "Karakalpak": [
+                    "diniy mektep"
+                ],
+                "Tatar": [
+                    "дини мәктәп"
+                ],
+                "Bashkir": [
+                    "дини мәктәп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mədrəsə"
+                ],
+                "Turkmen": [
+                    "medrese"
+                ],
+                "Uzbek": [
+                    "madrasa"
+                ],
+                "Uyghur": [
+                    "مەدرىسە"
+                ],
+                "Kazakh": [
+                    "медресе"
+                ],
+                "Kyrgyz": [
+                    "медресе"
+                ],
+                "Karakalpak": [
+                    "medrese"
+                ],
+                "Tatar": [
+                    "мәдрәсә"
+                ],
+                "Bashkir": [
+                    "мәҙрәсә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kilise okulu"
+                ],
+                "Azerbaijani": [
+                    "kilsə məktəbi"
+                ],
+                "Uzbek": [
+                    "kilsa maktabi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ruhban okulu"
+                ],
+                "Turkmen": [
+                    "ruhany mekdep"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چېركاۋ مەكتىپى"
+                ],
+                "Kazakh": [
+                    "шіркеу мектебі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "manastır okulu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ilahiyat mektebi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mektep"
+                ]
+            }
+        }
+    ]
+}

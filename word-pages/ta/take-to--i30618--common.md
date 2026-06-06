@@ -1,0 +1,312 @@
+# Take to
+| Field | Detail |
+|---|---|
+| **ID** | i30618 |
+| **English** | take to |
+| **Type** | verb |
+| **Definition** | have a fancy or particular liking or desire for |
+| **Source** | common |
+| **Ortatil** | jaqtırmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jaqtırmaq** | **unatmaq** | **yaratmaq** | **süysünmäk** |
+|---|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ | ❌ | ❌ |
+| Turkmen | ❌ | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ | ❌ |
+| Uyghur | ❌ | ❌ | ❌ | ❌ |
+| Kazakh | ❌ | ✅ | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ | ❌ | ❌ |
+| Tatar | ❌ | ✅ | ✅ | ❌ |
+| Bashkir | ❌ | ✅ | ✅ | ✅ |
+| *Oghuz Subtotal* | 0 | 0 | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.80 | 0.60 | 0.60 |
+| *In All* |  |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |
+| **O'TQ** | **0.90** | **0.80** | **0.60** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ұнату | unatu |
+| жанасу | janasu |
+| сүйсіну | süysinu |
+| **Kyrgyz** | |
+| жактыруу | jaktıruu |
+| ыктоо | ıktoo |
+| сүйүү | süyüü |
+| берилүү | berilüü |
+| **Tatar** | |
+| ошату | oşatu |
+| ярату | yaratu |
+| кызыгу | kızıgu |
+| **Bashkir** | |
+| оҡшатыу | oqşatıu |
+| яратыу | yaratıu |
+| һөйөү | höyöü |
+
+```json
+{
+    "id": "i30618",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "take to",
+    "en_definition": "have a fancy or particular liking or desire for",
+    "tr_word": "ısınmak",
+    "tr_definition": "birine veya bir şeye karşı sevgi, sempati veya ilgi duymaya başlamak",
+    "ru_word": "привязаться",
+    "ru_definition": "почувствовать симпатию, склонность или интерес к кому-либо или чему-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻngil qoʻymoq"
+                ],
+                "Uyghur": [
+                    "كۆڭلى چۈشمەك"
+                ],
+                "Kazakh": [
+                    "көңілі ауу"
+                ],
+                "Kyrgyz": [
+                    "көңүлү түшүү"
+                ],
+                "Karakalpak": [
+                    "kóńli túsiu"
+                ],
+                "Tatar": [
+                    "күңел төшү"
+                ],
+                "Bashkir": [
+                    "күңелгә ятыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyletmek"
+                ],
+                "Azerbaijani": [
+                    "meyl salmaq"
+                ],
+                "Turkmen": [
+                    "maýyl bolmak",
+                    "meýil etmek"
+                ],
+                "Uzbek": [
+                    "moyil boʻlmoq"
+                ],
+                "Karakalpak": [
+                    "meyil etiu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yoqtirmoq"
+                ],
+                "Uyghur": [
+                    "ياقتۇرۇپ قالماق"
+                ],
+                "Kyrgyz": [
+                    "жактыруу",
+                    "ыктоо"
+                ],
+                "Karakalpak": [
+                    "jaqtırıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ұнату"
+                ],
+                "Karakalpak": [
+                    "unatıu"
+                ],
+                "Tatar": [
+                    "ошату"
+                ],
+                "Bashkir": [
+                    "оҡшатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mehr qoʻymoq"
+                ],
+                "Uyghur": [
+                    "مېھرى چۈشمەك"
+                ],
+                "Tatar": [
+                    "мәхәббәт кую"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жанасу"
+                ],
+                "Tatar": [
+                    "ярату"
+                ],
+                "Bashkir": [
+                    "яратыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сүйсіну"
+                ],
+                "Kyrgyz": [
+                    "сүйүү"
+                ],
+                "Bashkir": [
+                    "һөйөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ısınmak"
+                ],
+                "Azerbaijani": [
+                    "isinmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sevmek"
+                ],
+                "Azerbaijani": [
+                    "sevmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hoşlanmak"
+                ],
+                "Azerbaijani": [
+                    "xoşlamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bəyənmək",
+                    "bağlanmaq"
+                ],
+                "Kazakh": [
+                    "бауыр басу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قىزىقىپ قالماق"
+                ],
+                "Tatar": [
+                    "кызыгу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kan kaynamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tutulmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gowy görmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "halatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "höweslenmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ishqiboz boʻlmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئامراق بولۇپ قالماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жақсы көру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "берилүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ıqlas qoyıu"
+                ]
+            }
+        }
+    ]
+}
+```
+

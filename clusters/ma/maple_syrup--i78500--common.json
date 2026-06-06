@@ -1,0 +1,72 @@
+{
+    "id": "i78500",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "maple syrup",
+    "en_definition": "made by concentrating sap from sugar maples",
+    "tr_word": "akçaağaç şurubu",
+    "tr_definition": "akçaağaç ağacının özsuyunun kaynatılmasıyla elde edilen tatlı şurup",
+    "ru_word": "кленовый сироп",
+    "ru_definition": "сладкий сироп из сока сахарного клёна",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akçaağaç şurubu",
+                    "akçaağaç pekmezi"
+                ],
+                "Azerbaijani": [
+                    "ağcaqayın şirəsi",
+                    "ağcaqayın şərbəti"
+                ],
+                "Turkmen": [
+                    "akgajyň şireti",
+                    "akgajyň şerbeti"
+                ],
+                "Kyrgyz": [
+                    "ак чечек ширеси",
+                    "ак чечек сиробу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үйеңкі шәрбаты",
+                    "үйеңкі шырыны"
+                ],
+                "Karakalpak": [
+                    "úyeńkі shárbatı",
+                    "úyeńkі sirobı"
+                ],
+                "Tatar": [
+                    "өяңке ширбәте",
+                    "өяңке сиробы",
+                    "өяңке балы"
+                ],
+                "Bashkir": [
+                    "өйәңке шәрбәте",
+                    "өйәңке сиробы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zarang sharbati",
+                    "zarang qiyomi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېلەن شەربىتى",
+                    "كېلەن قىيامى"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+# Fall of man
+| Field | Detail |
+|---|---|
+| **ID** | i76034 |
+| **English** | fall of man |
+| **Type** | noun |
+| **Definition** | the lapse of mankind into sinfulness because of the sin of Adam and Eve |
+| **Source** | common |
+| **Ortatil** | zelli |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| гонаһлылыҡ | gonahlılıq |
+
+```json
+{
+    "id": "i76034",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fall of man",
+    "en_definition": "the lapse of mankind into sinfulness because of the sin of Adam and Eve",
+    "tr_word": "insanın düşüşü",
+    "tr_definition": "Adem ve Havva'nın işlediği günah nedeniyle insanlığın günahkârlığa sürüklenmesi",
+    "ru_word": "грехопадение",
+    "ru_definition": "впадение человечества в греховность из-за греха Адама и Евы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Adamyň günäsi"
+                ],
+                "Uzbek": [
+                    "Odam alayhissalomning xatosi"
+                ],
+                "Uyghur": [
+                    "ئادەم ئەلەيھىسسالامنىڭ گۇناھى",
+                    "ئادەم ئاتىنىڭ خاتالىقى"
+                ],
+                "Kazakh": [
+                    "адамның азғындауы"
+                ],
+                "Kyrgyz": [
+                    "адамзаттын күнөөсү",
+                    "Адам атанын күнөөсү"
+                ],
+                "Karakalpak": [
+                    "adamzattıń kúnáǵa batıuı",
+                    "Adam atanıń jazıǵı"
+                ],
+                "Tatar": [
+                    "адәм гөнаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "günäli bolmak"
+                ],
+                "Kazakh": [
+                    "күнәға бату",
+                    "күнәға жығылу",
+                    "күнәһарлыққа түсу"
+                ],
+                "Kyrgyz": [
+                    "күнөөгө батуу",
+                    "күнөөгө жыгылуу"
+                ],
+                "Karakalpak": [
+                    "kúnáǵa jıǵılıu"
+                ],
+                "Tatar": [
+                    "гөнаһка бату"
+                ],
+                "Bashkir": [
+                    "гонаһҡа батыу",
+                    "гонаһлылыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "insanın düşüşü"
+                ],
+                "Azerbaijani": [
+                    "insanın süqutu"
+                ],
+                "Turkmen": [
+                    "ynsan peselmesi"
+                ],
+                "Uzbek": [
+                    "insoniyatning tanazzuli"
+                ],
+                "Uyghur": [
+                    "ئىنسانىيەتنىڭ گۇناھقا پېتىشى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilk günah"
+                ],
+                "Azerbaijani": [
+                    "ilk günah"
+                ],
+                "Uyghur": [
+                    "ئەسلى گۇناھ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cennetten kovulma"
+                ],
+                "Azerbaijani": [
+                    "cənnətdən qovulma"
+                ],
+                "Tatar": [
+                    "җәннәттән куылу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "asly günä"
+                ],
+                "Uzbek": [
+                    "asliy gunoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәүге гөнаһ"
+                ],
+                "Bashkir": [
+                    "тәүге гонаһ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zelle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hubut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həzrət Adəmin günahı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gunohga botish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "түбән тәгәрәү"
+                ]
+            }
+        }
+    ]
+}
+```
+

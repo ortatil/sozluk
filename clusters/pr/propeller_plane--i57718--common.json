@@ -1,0 +1,87 @@
+{
+    "id": "i57718",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "propeller plane",
+    "en_definition": "an airplane that is driven by a propeller",
+    "tr_word": "pervaneli uçak",
+    "tr_definition": "İtme gücünü bir veya daha fazla pervaneden alan uçak türü.",
+    "ru_word": "винтовой самолёт",
+    "ru_definition": "самолёт, приводимый в движение воздушным винтом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pervaneli uçak",
+                    "pervaneli tayyare"
+                ],
+                "Azerbaijani": [
+                    "pərli təyyarə",
+                    "pərvanəli təyyarə",
+                    "pərli uçaq"
+                ],
+                "Turkmen": [
+                    "perrendeli uçar",
+                    "perli uçar",
+                    "perli uçarym"
+                ],
+                "Uzbek": [
+                    "parrakli samolyot",
+                    "parrakli tayyora"
+                ],
+                "Uyghur": [
+                    "پىرقىرىغۇچلۇق ئايروپىلان",
+                    "پىرقىرىغۇچلۇق ئۇچارقۇ"
+                ],
+                "Kyrgyz": [
+                    "паррактуу учак"
+                ],
+                "Karakalpak": [
+                    "parralı ushaq",
+                    "parralı samolyot"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "vintli samolyot"
+                ],
+                "Kazakh": [
+                    "винтті ұшақ"
+                ],
+                "Kyrgyz": [
+                    "винттүү учак",
+                    "винттүү самолёт"
+                ],
+                "Karakalpak": [
+                    "wintowoy ushaq"
+                ],
+                "Tatar": [
+                    "винтлы очкыч",
+                    "винтлы һава көймәсе"
+                ],
+                "Bashkir": [
+                    "винтлы самолёт",
+                    "винтлы осош аппараты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қалақты ұшақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуе винтті ұшақ"
+                ]
+            }
+        }
+    ]
+}

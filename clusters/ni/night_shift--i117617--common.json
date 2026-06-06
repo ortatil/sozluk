@@ -1,0 +1,77 @@
+{
+    "id": "i117617",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "night shift",
+    "en_definition": "the work shift during the night (as midnight to 8 a.m.)",
+    "tr_word": "gece vardiyası",
+    "tr_definition": "Gece boyunca (genellikle gece yarısından sabah 8'e kadar) yapılan çalışma süresi.",
+    "ru_word": "ночная смена",
+    "ru_definition": "Рабочая смена в ночное время (обычно с полуночи до 8 утра).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tungi navbatchilik",
+                    "tungi smena",
+                    "tungi ish"
+                ],
+                "Uyghur": [
+                    "تۈن نۆۋىتى"
+                ],
+                "Kazakh": [
+                    "түнгі ауысым",
+                    "түнгі кезек"
+                ],
+                "Kyrgyz": [
+                    "түнкү нөөмөт",
+                    "түнкү кезек"
+                ],
+                "Karakalpak": [
+                    "túngі nóbet",
+                    "túngі smena",
+                    "túngі kezek"
+                ],
+                "Tatar": [
+                    "төнге смена",
+                    "төнге чират",
+                    "төнге эш"
+                ],
+                "Bashkir": [
+                    "төнге смена",
+                    "төнге дежурство",
+                    "төнге эш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gece vardiyası"
+                ],
+                "Turkmen": [
+                    "gije nobaty",
+                    "gijeki nobat"
+                ],
+                "Uyghur": [
+                    "كېچىلىك نۆۋەت",
+                    "كېچىلىك ئىسمېنا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gece nöbeti",
+                    "gece mesaisi"
+                ],
+                "Azerbaijani": [
+                    "gecə növbəsi",
+                    "gecə işi"
+                ]
+            }
+        }
+    ]
+}

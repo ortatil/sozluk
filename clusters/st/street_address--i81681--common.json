@@ -1,0 +1,178 @@
+{
+    "id": "i81681",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "street address",
+    "en_definition": "the address where a person or organization can be found",
+    "tr_word": "açık adres",
+    "tr_definition": "bir kişinin veya kuruluşun bulunduğu yerin tam ve ayrıntılı tarifi",
+    "ru_word": "уличный адрес",
+    "ru_definition": "адрес, по которому можно найти человека или организацию",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məkan"
+                ],
+                "Turkmen": [
+                    "mekan"
+                ],
+                "Uyghur": [
+                    "ماكان"
+                ],
+                "Kazakh": [
+                    "мекенжай",
+                    "мекен"
+                ],
+                "Tatar": [
+                    "мәкам"
+                ],
+                "Bashkir": [
+                    "мәҡам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "turar joy"
+                ],
+                "Uyghur": [
+                    "تۇرۇشلۇق ئورۇن"
+                ],
+                "Kazakh": [
+                    "тұрақжай"
+                ],
+                "Karakalpak": [
+                    "turar jayı"
+                ],
+                "Tatar": [
+                    "тора торган җир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "adres"
+                ],
+                "Uyghur": [
+                    "ئادرېس"
+                ],
+                "Tatar": [
+                    "адрес"
+                ],
+                "Bashkir": [
+                    "адрес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "menzil"
+                ],
+                "Uzbek": [
+                    "manzil"
+                ],
+                "Uyghur": [
+                    "مەنزىل"
+                ],
+                "Karakalpak": [
+                    "mánzil"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yerleşim yeri"
+                ],
+                "Uzbek": [
+                    "joylashgan yer"
+                ],
+                "Karakalpak": [
+                    "jaylasqan ornı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "орун"
+                ],
+                "Tatar": [
+                    "урын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "açık adres"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ikametgah adresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "konut adresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ünvan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "salgy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дарек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төбәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йәшәү урыны"
+                ]
+            }
+        }
+    ]
+}

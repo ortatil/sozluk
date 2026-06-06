@@ -1,0 +1,209 @@
+# Metaphorically
+| Field | Detail |
+|---|---|
+| **ID** | i19031 |
+| **English** | metaphorically |
+| **Type** | adverb |
+| **Definition** | in a metaphorical manner |
+| **Source** | common |
+| **Ortatil** | mäcazän |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **mäcazän** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مەجازەن | mäjazän |
+| **Kazakh** | |
+| астарлап | astarlap |
+| **Kyrgyz** | |
+| каймана | kaymana |
+| окшоштуруп | okşoşturup |
+| **Tatar** | |
+| мәҗазән | mäjazän |
+| **Bashkir** | |
+| мәжәзи | mäjäzi |
+| ишаралап | işaralap |
+
+```json
+{
+    "id": "i19031",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "metaphorically",
+    "en_definition": "in a metaphorical manner",
+    "tr_word": "mecazi olarak",
+    "tr_definition": "mecaz yoluyla, gerçek anlamının dışında bir anlam taşıyacak şekilde",
+    "ru_word": "метафорически",
+    "ru_definition": "в переносном смысле, с использованием метафор",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mecazen",
+                    "mecazi olarak"
+                ],
+                "Azerbaijani": [
+                    "məcazi olaraq",
+                    "məcazən"
+                ],
+                "Turkmen": [
+                    "mejazy",
+                    "mejazy görnüşde"
+                ],
+                "Uzbek": [
+                    "majoziy",
+                    "majozan"
+                ],
+                "Uyghur": [
+                    "مەجازەن",
+                    "مەجازىي يوسۇندا"
+                ],
+                "Karakalpak": [
+                    "máziy"
+                ],
+                "Tatar": [
+                    "мәҗази рәвештә",
+                    "мәҗазән"
+                ],
+                "Bashkir": [
+                    "мәжәзи"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "göçme manyda"
+                ],
+                "Uzbek": [
+                    "ko'chma ma'noda"
+                ],
+                "Karakalpak": [
+                    "kóshpeli mánide"
+                ],
+                "Tatar": [
+                    "күчмә мәгънәдә"
+                ],
+                "Bashkir": [
+                    "күсмә мәғәнәлә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "temsilen"
+                ],
+                "Uyghur": [
+                    "تەمسىلىي ھالدا"
+                ],
+                "Kazakh": [
+                    "тәмсіл ретінде"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kinayeli bir şekilde"
+                ],
+                "Azerbaijani": [
+                    "kinayə ilə"
+                ],
+                "Uzbek": [
+                    "kinoyaviy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئىستىئارە بىلەن"
+                ],
+                "Kazakh": [
+                    "астарлап"
+                ],
+                "Karakalpak": [
+                    "astarlı túrde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ауыспалы мағынада"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнелі түрде"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каймана",
+                    "каймана түрүндө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өтмө мааниде"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "окшоштуруп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mánilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ишаралап"
+                ]
+            }
+        }
+    ]
+}
+```
+

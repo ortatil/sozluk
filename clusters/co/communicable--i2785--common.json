@@ -1,0 +1,145 @@
+{
+    "id": "i2785",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "communicable",
+    "en_definition": "readily communicated",
+    "tr_word": "aktarılabilir",
+    "tr_definition": "kolayca iletilebilen veya başkalarına aktarılabilen",
+    "ru_word": "сообщаемый",
+    "ru_definition": "легко передаваемый или сообщаемый другим",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yoluxucu"
+                ],
+                "Turkmen": [
+                    "ýokuşly"
+                ],
+                "Uzbek": [
+                    "yuqumli",
+                    "yuquvchan"
+                ],
+                "Uyghur": [
+                    "يۇقۇملۇق",
+                    "يۇقىدىغان"
+                ],
+                "Kazakh": [
+                    "жұқпалы"
+                ],
+                "Kyrgyz": [
+                    "жугуштуу"
+                ],
+                "Karakalpak": [
+                    "juqpalı",
+                    "juǵısh"
+                ],
+                "Tatar": [
+                    "йогышлы"
+                ],
+                "Bashkir": [
+                    "йоғошло"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تارقىلىشچان"
+                ],
+                "Kazakh": [
+                    "таралатын"
+                ],
+                "Karakalpak": [
+                    "tarqalıoshı"
+                ],
+                "Bashkir": [
+                    "таралыусан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geçici"
+                ],
+                "Azerbaijani": [
+                    "keçici"
+                ],
+                "Turkmen": [
+                    "geçiji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sari"
+                ],
+                "Azerbaijani": [
+                    "sari",
+                    "sirayətedici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻtuvchi"
+                ],
+                "Kyrgyz": [
+                    "өткөрмө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күчмә"
+                ],
+                "Bashkir": [
+                    "күсмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bulaşıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýokaşýan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ауыспалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жайылма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аралашучан"
+                ]
+            }
+        }
+    ]
+}

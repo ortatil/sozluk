@@ -1,0 +1,88 @@
+{
+    "id": "i80213",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "peace corps",
+    "en_definition": "a civilian organization sponsored by the United States government; helps people in developing countries",
+    "tr_word": "Barış Gönüllüleri",
+    "tr_definition": "Amerika Birleşik Devletleri hükümeti tarafından desteklenen, gelişmekte olan ülkelerdeki insanlara yardım eden sivil bir organizasyon",
+    "ru_word": "Корпус мира",
+    "ru_definition": "гражданская организация, спонсируемая правительством США; помогает людям в развивающихся странах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tinchlik korpusi",
+                    "tinchlik hay'ati",
+                    "tinchlik uyushmasi"
+                ],
+                "Uyghur": [
+                    "تىنچلىق ئەترىتى",
+                    "تىنچلىق بىرلىكى",
+                    "تىنچلىق قوشۇنى"
+                ],
+                "Kyrgyz": [
+                    "Тынчтык корпусу",
+                    "Тынчтык кошууну"
+                ],
+                "Karakalpak": [
+                    "tınıshlıq korpusı"
+                ],
+                "Tatar": [
+                    "тынычлык корпусы",
+                    "тынычлык оешмасы",
+                    "тынычлык берлеге"
+                ],
+                "Bashkir": [
+                    "Тыныслыҡ корпусы",
+                    "Тыныслыҡ ойошмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Barış Gönüllüleri",
+                    "Barış Kolordusu"
+                ],
+                "Turkmen": [
+                    "Parahatçylyk korpusy",
+                    "Parahatçylyk birleşigi",
+                    "Parahatçylyk topary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Sülh Korpusu",
+                    "Sülh Dəstəsi",
+                    "Sülh Heyəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Бейбітшілік корпусы",
+                    "Бейбітшілік жасағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qayırqomlıq shólkemi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "járdem korpusı"
+                ]
+            }
+        }
+    ]
+}

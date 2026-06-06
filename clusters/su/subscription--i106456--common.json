@@ -1,0 +1,100 @@
+{
+    "id": "i106456",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "subscription",
+    "en_definition": "a payment for consecutive issues of a newspaper or magazine for a given period of time",
+    "tr_word": "abonelik",
+    "tr_definition": "bir gazete veya derginin belirli bir süre boyunca düzenli olarak gönderilmesi için önceden ödenen ücret",
+    "ru_word": "подписка",
+    "ru_definition": "предварительная оплата за получение периодических изданий в течение определенного срока",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yazılma"
+                ],
+                "Turkmen": [
+                    "ýazylyşyk"
+                ],
+                "Uzbek": [
+                    "yozilish"
+                ],
+                "Uyghur": [
+                    "يازغۇزۇش"
+                ],
+                "Kazakh": [
+                    "жазылу",
+                    "жазылым"
+                ],
+                "Kyrgyz": [
+                    "жазылуу"
+                ],
+                "Karakalpak": [
+                    "jazılıo"
+                ],
+                "Tatar": [
+                    "язылу"
+                ],
+                "Bashkir": [
+                    "яҙылыу",
+                    "яҙылыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "abonelik",
+                    "abone"
+                ],
+                "Azerbaijani": [
+                    "abunə",
+                    "abunəlik"
+                ],
+                "Uzbek": [
+                    "obuna"
+                ],
+                "Karakalpak": [
+                    "abonement"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "agzalyk"
+                ],
+                "Uyghur": [
+                    "ئەزالىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇشتەرى بولۇش"
+                ],
+                "Kazakh": [
+                    "мүшелік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "катталуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иштирак"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "id": "i111787",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "colon cancer",
+    "en_definition": "a malignant tumor of the colon; early symptom is bloody stools",
+    "tr_word": "kolon kanseri",
+    "tr_definition": "kolonun kötü huylu tümörü; erken belirtisi dışkıda kandır",
+    "ru_word": "рак толстой кишки",
+    "ru_definition": "злокачественная опухоль толстой кишки; ранним симптомом является наличие крови в кале",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yoğun bağırsaq xərçəngi",
+                    "yoğun bağırsaq şişi"
+                ],
+                "Turkmen": [
+                    "ýogyn içege ragy",
+                    "ýogyn içege seretany"
+                ],
+                "Uzbek": [
+                    "yo'g'on ichak saratoni",
+                    "yo'g'on ichak rak kasalligi"
+                ],
+                "Uyghur": [
+                    "يۇغۇن ئۈچەي راكى"
+                ],
+                "Tatar": [
+                    "юан эчәк рагы",
+                    "юан эчәк яман шеше"
+                ],
+                "Bashkir": [
+                    "йыуан эсәк яман шеше",
+                    "йыуан эсәк саратоны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kalın bağırsak kanseri",
+                    "kolon kanseri",
+                    "kolon tümörü"
+                ],
+                "Azerbaijani": [
+                    "kolon xərçəngi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağırsak kanseri"
+                ],
+                "Azerbaijani": [
+                    "bağırsaq xərçəngi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ichak saratoni"
+                ],
+                "Kyrgyz": [
+                    "ичеги рагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тоқ ішек қатерлі ісігі",
+                    "тоқ ішек рагы",
+                    "тоқ ішек обыры"
+                ],
+                "Karakalpak": [
+                    "toq ishek ragı",
+                    "toq ishek qaterli isigi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تومۇر ئۈچەي راكى",
+                    "توم ئۈچەي راكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жоон ичеги рагы",
+                    "жоон ичеги шишиги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "эсәк яман шеше"
+                ]
+            }
+        }
+    ]
+}

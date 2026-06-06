@@ -1,0 +1,114 @@
+{
+    "id": "i106997",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "food stamp",
+    "en_definition": "a government-issued stamp that can be used in exchange for food",
+    "tr_word": "gıda karnesi",
+    "tr_definition": "hükümet tarafından verilen ve yiyecek karşılığında kullanılabilen bir kupon veya belge",
+    "ru_word": "продуктовый талон",
+    "ru_definition": "выдаваемый государством купон, который можно обменять на продукты питания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oziq-ovqat taloni",
+                    "oziq-ovqat kartochkasi",
+                    "oziq-ovqat chiptasi"
+                ],
+                "Uyghur": [
+                    "ئاشلىق بېلىتى",
+                    "ئاشلىق تالونى"
+                ],
+                "Kazakh": [
+                    "азық-түлік талоны",
+                    "азық-түлік купоны"
+                ],
+                "Kyrgyz": [
+                    "азык-түлүк талону",
+                    "азык-түлүк карточкасы"
+                ],
+                "Karakalpak": [
+                    "azıq-aoqat talonı",
+                    "azıq-aoqat kartochkası"
+                ],
+                "Tatar": [
+                    "азык-төлек талоны",
+                    "азык-төлек карточкасы"
+                ],
+                "Bashkir": [
+                    "аҙыҡ-түлек талоны",
+                    "аҙыҡ-түлек карточкаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "erzak kuponu",
+                    "erzak çeki"
+                ],
+                "Azerbaijani": [
+                    "ərzaq talonu",
+                    "ərzaq kartı"
+                ],
+                "Turkmen": [
+                    "azyk talony"
+                ],
+                "Tatar": [
+                    "азык талоны"
+                ],
+                "Bashkir": [
+                    "аҙыҡ талоны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yemek fişi"
+                ],
+                "Azerbaijani": [
+                    "yemək talonu"
+                ],
+                "Uyghur": [
+                    "يېمەكلىك بېلىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тамақ талоны"
+                ],
+                "Kyrgyz": [
+                    "тамак-аш талону"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gıda karnesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iýmit talony"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kartoçka"
+                ]
+            }
+        }
+    ]
+}

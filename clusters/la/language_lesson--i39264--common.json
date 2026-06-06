@@ -1,0 +1,82 @@
+{
+    "id": "i39264",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "language lesson",
+    "en_definition": "a period of instruction learning a language",
+    "tr_word": "dil dersi",
+    "tr_definition": "bir dili öğrenmek için yapılan öğretim süresi",
+    "ru_word": "урок языка",
+    "ru_definition": "период обучения, посвященный изучению языка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dil dersi"
+                ],
+                "Azerbaijani": [
+                    "dil dərsi",
+                    "dil məşğələsi"
+                ],
+                "Turkmen": [
+                    "dil dersi"
+                ],
+                "Uzbek": [
+                    "til darsi",
+                    "til sabog'i",
+                    "til ta'limi"
+                ],
+                "Uyghur": [
+                    "تىل دەرسى",
+                    "تىل تەلىمى",
+                    "تىل ساۋىقى"
+                ],
+                "Kazakh": [
+                    "тіл сабағы",
+                    "тіл дәрісі"
+                ],
+                "Kyrgyz": [
+                    "тил сабагы",
+                    "тил дарсы"
+                ],
+                "Karakalpak": [
+                    "til sabaǵı",
+                    "til dárisi"
+                ],
+                "Tatar": [
+                    "тел дәресе",
+                    "тел сабагы"
+                ],
+                "Bashkir": [
+                    "тел дәресе",
+                    "тел сабағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dil təlimi"
+                ],
+                "Kyrgyz": [
+                    "тил үйрөнүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lisan dersi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dil sapagy"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "i71305",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "letter of intent",
+    "en_definition": "any letter expressing an intention to take (or forgo) some action",
+    "tr_word": "niyet mektubu",
+    "tr_definition": "belirli bir işlemi yapma veya yapmama niyetini bildiren resmi yazı",
+    "ru_word": "письмо о намерениях",
+    "ru_definition": "документ, в котором стороны выражают намерение совершить определенные действия в будущем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "niyet mektubu",
+                    "niyet beyanı",
+                    "niyet belgesi"
+                ],
+                "Azerbaijani": [
+                    "niyyət məktubu",
+                    "niyyət sənədi"
+                ],
+                "Turkmen": [
+                    "niýet haty",
+                    "niýetnama"
+                ],
+                "Uzbek": [
+                    "niyat xati",
+                    "niyatnomasi"
+                ],
+                "Uyghur": [
+                    "نىيەتنامە",
+                    "نىيەت خېتى"
+                ],
+                "Kazakh": [
+                    "ниет хаты",
+                    "ниет білдіру хаты"
+                ],
+                "Kyrgyz": [
+                    "ниет каты",
+                    "ниет билдирүү"
+                ],
+                "Karakalpak": [
+                    "niet xatı"
+                ],
+                "Tatar": [
+                    "ниятнамә",
+                    "ният хаты",
+                    "ният белдерү"
+                ],
+                "Bashkir": [
+                    "ниәт хаты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "maqsad xati"
+                ],
+                "Uyghur": [
+                    "مەقسەتنامە"
+                ],
+                "Kyrgyz": [
+                    "максат каты"
+                ],
+                "Karakalpak": [
+                    "maqsetnama"
+                ],
+                "Bashkir": [
+                    "маҡсат хаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məramnamə"
+                ],
+                "Turkmen": [
+                    "meýilnama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ықылас хаты"
+                ],
+                "Karakalpak": [
+                    "ıqrar xatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ихтыяр хаты"
+                ]
+            }
+        }
+    ]
+}

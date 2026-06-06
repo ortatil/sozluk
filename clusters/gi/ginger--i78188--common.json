@@ -1,0 +1,72 @@
+{
+    "id": "i78188",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ginger",
+    "en_definition": "pungent rhizome of the common ginger plant; used fresh as a seasoning especially in Asian cookery",
+    "tr_word": "zencefil",
+    "tr_definition": "Zencefilgillerden, sıcak bölgelerde yetişen, kök gövdesi baharat olarak kullanılan bir bitki.",
+    "ru_word": "имбирь",
+    "ru_definition": "Пряный корень тропического растения, используемый в кулинарии и медицине.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zencefil"
+                ],
+                "Azerbaijani": [
+                    "zəncəfil"
+                ],
+                "Turkmen": [
+                    "zencebil",
+                    "zencefil"
+                ],
+                "Uzbek": [
+                    "zanjabil",
+                    "zanjafur"
+                ],
+                "Uyghur": [
+                    "زەنجىۋىل",
+                    "زەنجىبىل"
+                ],
+                "Kazakh": [
+                    "заңжабіл"
+                ],
+                "Kyrgyz": [
+                    "занжабил"
+                ],
+                "Karakalpak": [
+                    "zanjabil"
+                ],
+                "Tatar": [
+                    "занҗабил"
+                ],
+                "Bashkir": [
+                    "зәнҗәбил"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "зімбір"
+                ],
+                "Kyrgyz": [
+                    "имбирь"
+                ],
+                "Karakalpak": [
+                    "imbir"
+                ],
+                "Tatar": [
+                    "имбир"
+                ],
+                "Bashkir": [
+                    "имбир",
+                    "имбирь тамыры"
+                ]
+            }
+        }
+    ]
+}

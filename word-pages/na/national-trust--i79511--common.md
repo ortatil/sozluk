@@ -1,0 +1,166 @@
+# National trust
+| Field | Detail |
+|---|---|
+| **ID** | i79511 |
+| **English** | national trust |
+| **Type** | noun |
+| **Definition** | an organization concerned to preserve historic monuments and buildings and places of historical interest or natural beauty; founded in 1895 and supported by endowment and private subscription |
+| **Source** | common |
+| **Ortatil** | waqf |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i79511",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "national trust",
+    "en_definition": "an organization concerned to preserve historic monuments and buildings and places of historical interest or natural beauty; founded in 1895 and supported by endowment and private subscription",
+    "tr_word": "Milli Vakıf",
+    "tr_definition": "Tarihi anıtları, binaları ve doğal güzellikleri korumak amacıyla 1895'te kurulan, bağışlar ve özel aboneliklerle desteklenen kuruluş.",
+    "ru_word": "Национальный фонд",
+    "ru_definition": "Организация, занимающаяся сохранением исторических памятников, зданий и мест, представляющих исторический интерес или природную красоту; основана в 1895 году.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milli vakıf",
+                    "milli emanet"
+                ],
+                "Azerbaijani": [
+                    "milli miras fondu",
+                    "milli qoruq fondu",
+                    "milli irs vəqfi"
+                ],
+                "Turkmen": [
+                    "milli miras gaznasy",
+                    "milli miras guramasy"
+                ],
+                "Uzbek": [
+                    "milliy meros jamgʻarmasi"
+                ],
+                "Uyghur": [
+                    "مىللىي يادىكارلىقلارنى قوغداش جەمئىيىتى",
+                    "مىللىي ۋەقپە"
+                ],
+                "Karakalpak": [
+                    "milliy miyras fondı"
+                ],
+                "Tatar": [
+                    "милли мирас фонды",
+                    "милли вакыф"
+                ],
+                "Bashkir": [
+                    "милли мираҫты һаҡлау фонды",
+                    "милли мираҫты һаҡлау ойошмаһы",
+                    "милли мираҫ фонды"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarihi eserleri koruma kurumu"
+                ],
+                "Azerbaijani": [
+                    "tarixi abidələri qoruma cəmiyyəti"
+                ],
+                "Turkmen": [
+                    "taryhy ýadygärlikleri goramak jemgyýeti"
+                ],
+                "Uzbek": [
+                    "tarixiy yodgorliklarni saqlash jamiyati"
+                ],
+                "Kazakh": [
+                    "тарихи ескерткіштерді қорғау қоғамы"
+                ],
+                "Kyrgyz": [
+                    "тарыхый эстеликтерди коргоо коому"
+                ],
+                "Tatar": [
+                    "тарихи ядкярләрне саклау оешмасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "miras gaznasy"
+                ],
+                "Uyghur": [
+                    "مىراس قوغداش جەمئىيىتى"
+                ],
+                "Kazakh": [
+                    "мұраны сақтау қоры"
+                ],
+                "Kyrgyz": [
+                    "мурас сактоо мекемеси"
+                ],
+                "Karakalpak": [
+                    "miyrastı qorǵau jámiyeti"
+                ],
+                "Tatar": [
+                    "мирас саклау җәмгыяте"
+                ],
+                "Bashkir": [
+                    "мираҫты һаҡлау фонды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұлттық мұра қоры",
+                    "ұлттық жәдігерлерді қорғау ұйымы"
+                ],
+                "Kyrgyz": [
+                    "улуттук мурас фонду",
+                    "улуттук камкордук фонду"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kültür varlıklarını koruma vakfı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğa ve tarih vakfı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "madaniy merosni muhofaza qilish tashkiloti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vaqf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tábiyat hám esteliklerdi saqlau fondı"
+                ]
+            }
+        }
+    ]
+}
+```
+

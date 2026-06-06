@@ -1,0 +1,89 @@
+{
+    "id": "i60996",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "watercolor",
+    "en_definition": "a water-base paint (with water-soluble pigments); used by artists",
+    "tr_word": "suluboya",
+    "tr_definition": "Su ile karıştırılarak kullanılan, suda çözünen pigmentlerden oluşan boya türü.",
+    "ru_word": "акварель",
+    "ru_definition": "Краски, разводимые водой, а также живопись такими красками.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sulu boya"
+                ],
+                "Azerbaijani": [
+                    "sulu boya"
+                ],
+                "Turkmen": [
+                    "suwly boýag"
+                ],
+                "Uzbek": [
+                    "suvbo'yoq"
+                ],
+                "Uyghur": [
+                    "سۇ بوياق",
+                    "سۇ رەڭ"
+                ],
+                "Kazakh": [
+                    "сулы бояу"
+                ],
+                "Kyrgyz": [
+                    "суу боёк"
+                ],
+                "Karakalpak": [
+                    "suolı boyao"
+                ],
+                "Tatar": [
+                    "сулы буяу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "akvarel"
+                ],
+                "Turkmen": [
+                    "akwarel"
+                ],
+                "Uzbek": [
+                    "akvarel"
+                ],
+                "Kazakh": [
+                    "акварель"
+                ],
+                "Kyrgyz": [
+                    "акварель"
+                ],
+                "Karakalpak": [
+                    "akwarel"
+                ],
+                "Tatar": [
+                    "акварель"
+                ],
+                "Bashkir": [
+                    "акварель"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ab-ı renk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыулы буяу"
+                ]
+            }
+        }
+    ]
+}

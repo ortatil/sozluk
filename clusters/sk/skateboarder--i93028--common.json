@@ -1,0 +1,71 @@
+{
+    "id": "i93028",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "skateboarder",
+    "en_definition": "someone who skates on a skateboard",
+    "tr_word": "kaykaycı",
+    "tr_definition": "kaykay üzerinde kayan kimse",
+    "ru_word": "скейтбордист",
+    "ru_definition": "человек, который катается на скейтборде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "skeytbordçu",
+                    "skeytçi"
+                ],
+                "Turkmen": [
+                    "skeýtbordçy"
+                ],
+                "Uzbek": [
+                    "skeytbordchi",
+                    "skeytbord uchuvchi"
+                ],
+                "Uyghur": [
+                    "سكەيتبوردچى"
+                ],
+                "Kazakh": [
+                    "скейтбордшы",
+                    "скейтші"
+                ],
+                "Kyrgyz": [
+                    "скейтбордчу",
+                    "скейтборд тебүүчү"
+                ],
+                "Karakalpak": [
+                    "skeytbordshı",
+                    "skeytbord aydaushı"
+                ],
+                "Tatar": [
+                    "скейтбордчы",
+                    "скейтчы"
+                ],
+                "Bashkir": [
+                    "скейтбордсы",
+                    "скейтбордта шыуыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tigirli tagtada typýan"
+                ],
+                "Uyghur": [
+                    "تېيىلىش تاختىسى ھەۋەسكارى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaykaycı",
+                    "kaykay binen",
+                    "kaykay kullanan"
+                ]
+            }
+        }
+    ]
+}

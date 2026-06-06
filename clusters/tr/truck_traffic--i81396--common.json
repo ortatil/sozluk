@@ -1,0 +1,111 @@
+{
+    "id": "i81396",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "truck traffic",
+    "en_definition": "trucks coming and going",
+    "tr_word": "kamyon trafiği",
+    "tr_definition": "gelip giden kamyonların oluşturduğu yoğunluk",
+    "ru_word": "движение грузового транспорта",
+    "ru_definition": "поток или перемещение грузовых автомобилей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yük maşını hərəkəti",
+                    "yük avtomobili gediş-gəlişi"
+                ],
+                "Turkmen": [
+                    "ýük maşynlarynyň hereketi"
+                ],
+                "Uzbek": [
+                    "yuk mashinalari qatnovi",
+                    "yuk vositalari harakati"
+                ],
+                "Uyghur": [
+                    "يۈك ئاپتوموبىل قاتنىشى",
+                    "يۈك ماشىنا قاتنىشى",
+                    "يۈك ماشىنىلىرىنىڭ بېرىش-كېلىشى"
+                ],
+                "Karakalpak": [
+                    "júk kólikleriniń qatnawı",
+                    "júk mashinalarınıń qatnawı"
+                ],
+                "Tatar": [
+                    "йөк машиналары хәрәкәте"
+                ],
+                "Bashkir": [
+                    "йөк машиналары хәрәкәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yük nəqliyyatı hərəkəti"
+                ],
+                "Uzbek": [
+                    "yuk transporti harakati"
+                ],
+                "Tatar": [
+                    "йөк транспорты хәрәкәте"
+                ],
+                "Bashkir": [
+                    "йөк транспорты хәрәкәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýük ulaglarynyň gatnawy",
+                    "ýük ulaglarynyň akymy"
+                ],
+                "Kazakh": [
+                    "жүк көлігі қатынасы"
+                ],
+                "Kyrgyz": [
+                    "жүк унаа кыймылы",
+                    "жүк ташуучу унаалардын каттамы",
+                    "жүк унаалардын агымы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жүк көлігі қозғалысы",
+                    "жүк көліктерінің жүрісі"
+                ],
+                "Karakalpak": [
+                    "júk kólikleriniń háreketi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kamyon trafiği",
+                    "kamyon akışı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nakliye trafiği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağır vasıta trafiği"
+                ]
+            }
+        }
+    ]
+}

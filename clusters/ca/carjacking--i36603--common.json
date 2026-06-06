@@ -1,0 +1,133 @@
+{
+    "id": "i36603",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "carjacking",
+    "en_definition": "the violent theft of an occupied car",
+    "tr_word": "araç gaspı",
+    "tr_definition": "içinde sürücüsü bulunan bir aracın şiddet veya tehdit yoluyla çalınması",
+    "ru_word": "угон автомобиля с применением насилия",
+    "ru_definition": "насильственный захват транспортного средства вместе с водителем или пассажирами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "maşın qaçırma"
+                ],
+                "Uzbek": [
+                    "mashina o'g'irligi"
+                ],
+                "Uyghur": [
+                    "ماشىنا بۇلاش",
+                    "ماشىنا قاراقچىلىقى",
+                    "ماشىنا تارتىۋېلىش"
+                ],
+                "Karakalpak": [
+                    "mashinanı zorlıq penen tartıp alıo"
+                ],
+                "Tatar": [
+                    "машина талау"
+                ],
+                "Bashkir": [
+                    "машина талау",
+                    "көс ҡулланып машина тартып алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtomobil qaçırma",
+                    "avtomobil soyğunçuluğu"
+                ],
+                "Turkmen": [
+                    "awtoulag garakçylygy",
+                    "awtoulag ogurlygy"
+                ],
+                "Uzbek": [
+                    "avtomobil bosqinchiligi"
+                ],
+                "Tatar": [
+                    "автотранспортны басып алу"
+                ],
+                "Bashkir": [
+                    "автотранспортты баҫып алыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлікті тартып алу",
+                    "көлікті қарақшылықпен иемдену",
+                    "көлік тонау",
+                    "көлікті күшпен тартып алу"
+                ],
+                "Karakalpak": [
+                    "kólik talao",
+                    "kólikti qaraqshılıq penen iyeleo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araç gaspı",
+                    "araba gaspı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oto gaspı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəqliyyat vasitəsinin qaçırılması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ulag talaňçylygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "transport vositasini bosqinchi yo'li bilan egallash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа карактоо",
+                    "унаа каракчылыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унааны күч менен тартып алуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көчләп машина тартып алу"
+                ]
+            }
+        }
+    ]
+}

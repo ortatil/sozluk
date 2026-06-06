@@ -1,0 +1,127 @@
+{
+    "id": "i72481",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hyphen",
+    "en_definition": "a punctuation mark (-) used between parts of a compound word or between the syllables of a word when the word is divided at the end of a line of text",
+    "tr_word": "tire",
+    "tr_definition": "Kelimelerin arasına veya satır sonuna sığmayan kelimelerin hecelerini bölmek için kullanılan kısa çizgi.",
+    "ru_word": "дефис",
+    "ru_definition": "Короткая черточка, используемая для соединения частей сложного слова или для переноса слова по слогам.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çyzyk"
+                ],
+                "Uzbek": [
+                    "chiziqcha"
+                ],
+                "Uyghur": [
+                    "سىزىقچە"
+                ],
+                "Kazakh": [
+                    "сызықша"
+                ],
+                "Kyrgyz": [
+                    "сызыкча"
+                ],
+                "Karakalpak": [
+                    "sızıqsha"
+                ],
+                "Tatar": [
+                    "сызыкча"
+                ],
+                "Bashkir": [
+                    "һызыҡса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "defis"
+                ],
+                "Kazakh": [
+                    "дефис"
+                ],
+                "Kyrgyz": [
+                    "дефис"
+                ],
+                "Karakalpak": [
+                    "defis"
+                ],
+                "Bashkir": [
+                    "дефис"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısa çizgi"
+                ],
+                "Kazakh": [
+                    "қысқа сызықша"
+                ],
+                "Kyrgyz": [
+                    "кыска сызыкча"
+                ],
+                "Tatar": [
+                    "кыска сызык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tire"
+                ],
+                "Azerbaijani": [
+                    "tire"
+                ],
+                "Turkmen": [
+                    "tire"
+                ],
+                "Uzbek": [
+                    "tire"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "baglaýjy çyzyk"
+                ],
+                "Bashkir": [
+                    "бәйләүес һызыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "birləşdirmə işarəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇتاشتۇرۇش بەلگىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bólіp kórsetu belgіsі"
+                ]
+            }
+        }
+    ]
+}

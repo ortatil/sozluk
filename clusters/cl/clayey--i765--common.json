@@ -1,0 +1,110 @@
+{
+    "id": "i765",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "clayey",
+    "en_definition": "resembling or containing clay",
+    "tr_word": "killi",
+    "tr_definition": "kil içeren veya kile benzeyen",
+    "ru_word": "глинистый",
+    "ru_definition": "содержащий глину или похожий на неё",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balçıklı"
+                ],
+                "Azerbaijani": [
+                    "palçıqlı"
+                ],
+                "Turkmen": [
+                    "palçykly"
+                ],
+                "Kazakh": [
+                    "балшықты"
+                ],
+                "Karakalpak": [
+                    "balshıqlı"
+                ],
+                "Tatar": [
+                    "балчыклы",
+                    "балчыксыман"
+                ],
+                "Bashkir": [
+                    "балсыҡлы",
+                    "балсыҡ һымаҡ",
+                    "балсыҡлылы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "loyqa",
+                    "loyli"
+                ],
+                "Uyghur": [
+                    "لايلىق",
+                    "لايلاشقان"
+                ],
+                "Kyrgyz": [
+                    "ылайлуу"
+                ],
+                "Karakalpak": [
+                    "ılaylı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "killi"
+                ],
+                "Azerbaijani": [
+                    "gilli"
+                ],
+                "Uzbek": [
+                    "gilmoya",
+                    "gil"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سېغىزلىق"
+                ],
+                "Kazakh": [
+                    "сазды",
+                    "сазды-балшықты"
+                ],
+                "Karakalpak": [
+                    "sazlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tınlı"
+                ],
+                "Turkmen": [
+                    "toýunly",
+                    "toýunsow"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чополуу",
+                    "чопо сыяктуу"
+                ]
+            }
+        }
+    ]
+}

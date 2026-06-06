@@ -1,0 +1,81 @@
+{
+    "id": "i42281",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "marine animal",
+    "en_definition": "any of numerous animals inhabiting the sea including e.g. fishes and molluscs and many mammals",
+    "tr_word": "deniz hayvanı",
+    "tr_definition": "balıklar, yumuşakçalar ve birçok memeli dahil olmak üzere denizde yaşayan çok sayıdaki hayvandan herhangi biri",
+    "ru_word": "морское животное",
+    "ru_definition": "любое из многочисленных животных, обитающих в море, включая, например, рыб, моллюсков и многих млекопитающих",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz hayvanı",
+                    "deniz canlısı",
+                    "deniz mahluku"
+                ],
+                "Azerbaijani": [
+                    "dəniz heyvanı",
+                    "dəniz canlısı",
+                    "dəniz məxluqu"
+                ],
+                "Turkmen": [
+                    "deňiz jandary",
+                    "deňiz haýwany"
+                ],
+                "Uzbek": [
+                    "dengiz hayvoni",
+                    "dengiz jonzoti"
+                ],
+                "Uyghur": [
+                    "دېڭىز ھايۋىنى",
+                    "دېڭىز مەخلۇقى"
+                ],
+                "Kazakh": [
+                    "теңіз жануары",
+                    "теңіз мақұлығы",
+                    "теңіз хайуаны"
+                ],
+                "Kyrgyz": [
+                    "деңиз жаныбары",
+                    "деңиз макулугу"
+                ],
+                "Karakalpak": [
+                    "teńiz janıoarı",
+                    "teńiz maqluǵı",
+                    "teńiz hayoanı"
+                ],
+                "Tatar": [
+                    "диңгез хайваны",
+                    "диңгез җанвары",
+                    "диңгез мәхлугы"
+                ],
+                "Bashkir": [
+                    "диңгеҙ хайуаны",
+                    "диңгеҙ йәнлеге",
+                    "диңгеҙ маҡлуғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suw jandary"
+                ],
+                "Uzbek": [
+                    "suv hayvoni"
+                ],
+                "Uyghur": [
+                    "سۇ ھايۋىنى"
+                ],
+                "Kyrgyz": [
+                    "суу жаныбары"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "id": "i64570",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "body hair",
+    "en_definition": "short hair growing over a person's body",
+    "tr_word": "vücut kılı",
+    "tr_definition": "bir kişinin vücudunun üzerinde büyüyen kısa tüyler",
+    "ru_word": "волосяной покров",
+    "ru_definition": "короткие волосы, растущие на теле человека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tüy"
+                ],
+                "Azerbaijani": [
+                    "tük",
+                    "tük-püs"
+                ],
+                "Turkmen": [
+                    "tüý",
+                    "tüýler"
+                ],
+                "Uzbek": [
+                    "tuk"
+                ],
+                "Uyghur": [
+                    "تۈك"
+                ],
+                "Kazakh": [
+                    "түк"
+                ],
+                "Kyrgyz": [
+                    "түк"
+                ],
+                "Karakalpak": [
+                    "túk"
+                ],
+                "Tatar": [
+                    "төк"
+                ],
+                "Bashkir": [
+                    "төк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "jun"
+                ],
+                "Kazakh": [
+                    "жүн"
+                ],
+                "Kyrgyz": [
+                    "жүн"
+                ],
+                "Karakalpak": [
+                    "jún"
+                ],
+                "Tatar": [
+                    "йон"
+                ],
+                "Bashkir": [
+                    "йөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beden kılı"
+                ],
+                "Uyghur": [
+                    "بەدەن تۈكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vücut kılı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "murt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "موي"
+                ]
+            }
+        }
+    ]
+}

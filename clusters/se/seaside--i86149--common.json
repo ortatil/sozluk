@@ -1,0 +1,117 @@
+{
+    "id": "i86149",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "seaside",
+    "en_definition": "the shore of a sea or ocean regarded as a resort",
+    "tr_word": "deniz kıyısı",
+    "tr_definition": "deniz veya okyanus kıyısında bulunan, genellikle tatil ve dinlenme amacıyla gidilen yer",
+    "ru_word": "побережье",
+    "ru_definition": "берег моря или океана, рассматриваемый как место отдыха или курорт",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz kıyısı",
+                    "deniz kenarı"
+                ],
+                "Azerbaijani": [
+                    "dəniz kənarı",
+                    "dəniz qırağı"
+                ],
+                "Turkmen": [
+                    "deňiz kenary"
+                ],
+                "Uzbek": [
+                    "dengiz bo'yi"
+                ],
+                "Uyghur": [
+                    "دېڭىز بويى",
+                    "دېڭىز قىرغىقى",
+                    "دېڭىز ساھىلى"
+                ],
+                "Kazakh": [
+                    "теңіз жағасы",
+                    "теңіз жағалауы"
+                ],
+                "Kyrgyz": [
+                    "деңиз жээги"
+                ],
+                "Karakalpak": [
+                    "teńiz jaǵası",
+                    "teńiz boyı"
+                ],
+                "Tatar": [
+                    "диңгез буе",
+                    "диңгез яры",
+                    "диңгез кырые"
+                ],
+                "Bashkir": [
+                    "диңгеҙ буйы",
+                    "диңгеҙ яры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahil"
+                ],
+                "Azerbaijani": [
+                    "sahil"
+                ],
+                "Uzbek": [
+                    "sohil"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жағажай"
+                ],
+                "Kyrgyz": [
+                    "жээк"
+                ],
+                "Karakalpak": [
+                    "jaǵalau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yalı"
+                ],
+                "Kyrgyz": [
+                    "кылаат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kumsal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kenar",
+                    "kenarýaka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qirg'oq"
+                ]
+            }
+        }
+    ]
+}

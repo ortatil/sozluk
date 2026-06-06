@@ -1,0 +1,79 @@
+{
+    "id": "i78718",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white wine",
+    "en_definition": "pale yellowish wine made from white grapes or red grapes with skins removed before fermentation",
+    "tr_word": "beyaz şarap",
+    "tr_definition": "beyaz üzümlerden veya kabukları fermantasyondan önce ayrılmış kırmızı üzümlerden yapılan açık sarımsı şarap",
+    "ru_word": "белое вино",
+    "ru_definition": "светло-желтое вино, изготовленное из белого винограда или из красного винограда, кожица которого была удалена перед ферментацией",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak şarap"
+                ],
+                "Azerbaijani": [
+                    "ağ şərab",
+                    "ağ çaxır"
+                ],
+                "Turkmen": [
+                    "ak şerap"
+                ],
+                "Uzbek": [
+                    "oq sharob"
+                ],
+                "Uyghur": [
+                    "ئاق شاراپ"
+                ],
+                "Kazakh": [
+                    "ақ шарап"
+                ],
+                "Kyrgyz": [
+                    "ак шарап"
+                ],
+                "Karakalpak": [
+                    "aq sharap",
+                    "aq máy"
+                ],
+                "Tatar": [
+                    "ак шәраб",
+                    "ак май"
+                ],
+                "Bashkir": [
+                    "аҡ шарап",
+                    "аҡ мәй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ak meý"
+                ],
+                "Uzbek": [
+                    "oq may"
+                ],
+                "Uyghur": [
+                    "ئاق مەي"
+                ],
+                "Kazakh": [
+                    "ақ мүсәлләс"
+                ],
+                "Kyrgyz": [
+                    "ак мөлтүр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz şarap"
+                ]
+            }
+        }
+    ]
+}

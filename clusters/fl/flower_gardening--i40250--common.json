@@ -1,0 +1,114 @@
+{
+    "id": "i40250",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flower gardening",
+    "en_definition": "the cultivation of flowering plants",
+    "tr_word": "çiçek bahçıvanlığı",
+    "tr_definition": "çiçekli bitkilerin yetiştirilmesi ve bakımı",
+    "ru_word": "цветоводство",
+    "ru_definition": "выращивание декоративных цветочных растений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gülçülük"
+                ],
+                "Turkmen": [
+                    "gülçülik"
+                ],
+                "Uzbek": [
+                    "gulchilik"
+                ],
+                "Uyghur": [
+                    "گۈلچىلىك"
+                ],
+                "Kazakh": [
+                    "гүлшілік"
+                ],
+                "Kyrgyz": [
+                    "гүлчүлүк"
+                ],
+                "Karakalpak": [
+                    "gúlpazlıq",
+                    "gúlshilik"
+                ],
+                "Tatar": [
+                    "гөлчелек"
+                ],
+                "Bashkir": [
+                    "гөлсөлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gül bəsləmə"
+                ],
+                "Turkmen": [
+                    "gül ösdürip ýetişdirme"
+                ],
+                "Uzbek": [
+                    "gul parvarishi"
+                ],
+                "Uyghur": [
+                    "گۈل پەرۋىش قىلىش",
+                    "گۈل ئۆستۈرۈش"
+                ],
+                "Kazakh": [
+                    "гүл өсіру",
+                    "гүл баптау"
+                ],
+                "Kyrgyz": [
+                    "гүл өстүрүүчүлүк",
+                    "гүл багуу"
+                ],
+                "Karakalpak": [
+                    "gúl ósirio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çiçekçilik",
+                    "çiçek yetiştiriciliği"
+                ],
+                "Azerbaijani": [
+                    "çiçəkçilik",
+                    "çiçək bəsləmə"
+                ],
+                "Tatar": [
+                    "чәчәкчелек",
+                    "чәчәк үстерү"
+                ],
+                "Bashkir": [
+                    "сәскәселек",
+                    "сәскә үҫтереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bahçıvanlık"
+                ],
+                "Turkmen": [
+                    "bagbançylyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gulparvarlik",
+                    "gul yetishtirish"
+                ]
+            }
+        }
+    ]
+}

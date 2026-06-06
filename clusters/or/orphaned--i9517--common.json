@@ -1,0 +1,148 @@
+{
+    "id": "i9517",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "orphaned",
+    "en_definition": "deprived of parents by death or desertion",
+    "tr_word": "yetim kalmış",
+    "tr_definition": "anne ve babasını ölüm veya terk edilme nedeniyle kaybetmiş olan",
+    "ru_word": "осиротевший",
+    "ru_definition": "лишившийся родителей вследствие их смерти или оставления",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yetim"
+                ],
+                "Azerbaijani": [
+                    "yetim"
+                ],
+                "Turkmen": [
+                    "ýetim"
+                ],
+                "Uzbek": [
+                    "yetim"
+                ],
+                "Uyghur": [
+                    "يېتىم",
+                    "يېتىم-يېسىر"
+                ],
+                "Kazakh": [
+                    "жетім"
+                ],
+                "Kyrgyz": [
+                    "жетим"
+                ],
+                "Karakalpak": [
+                    "jetіm"
+                ],
+                "Tatar": [
+                    "ятим",
+                    "ятим калган"
+                ],
+                "Bashkir": [
+                    "етем",
+                    "етем-һәрәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "atası-anasız"
+                ],
+                "Turkmen": [
+                    "atasyz-enesiz"
+                ],
+                "Kyrgyz": [
+                    "ата-энесиз"
+                ],
+                "Tatar": [
+                    "ата-анасыз"
+                ],
+                "Bashkir": [
+                    "ата-әсәһеҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kimsesiz"
+                ],
+                "Azerbaijani": [
+                    "kimsəsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "valideynsiz"
+                ],
+                "Uzbek": [
+                    "volidalsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұлдыр",
+                    "тұл"
+                ],
+                "Karakalpak": [
+                    "tұl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башпаасыз"
+                ],
+                "Karakalpak": [
+                    "bes-pana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öksüz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sahipsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hossarsyz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "beva-bechora",
+                    "beota-beona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىقوۋۇل"
+                ]
+            }
+        }
+    ]
+}

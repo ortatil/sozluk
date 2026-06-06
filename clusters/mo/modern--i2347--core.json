@@ -1,0 +1,147 @@
+{
+    "id": "i2347",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "modern",
+    "en_definition": "characteristic of present-day art and music and literature and architecture",
+    "tr_word": "modern",
+    "tr_definition": "günümüzün sanat, müzik, edebiyat ve mimari özelliklerini taşıyan, çağdaş",
+    "ru_word": "современный",
+    "ru_definition": "характерный для современного искусства, музыки, литературы и архитектуры",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeni"
+                ],
+                "Azerbaijani": [
+                    "yeni"
+                ],
+                "Uzbek": [
+                    "yangi"
+                ],
+                "Uyghur": [
+                    "يېڭىچە"
+                ],
+                "Kazakh": [
+                    "жаңа",
+                    "жаңашыл"
+                ],
+                "Kyrgyz": [
+                    "жаңы",
+                    "жаңыча"
+                ],
+                "Karakalpak": [
+                    "jańasha"
+                ],
+                "Tatar": [
+                    "яңача"
+                ],
+                "Bashkir": [
+                    "яңыса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "häzirki zaman"
+                ],
+                "Uzbek": [
+                    "hozirgi"
+                ],
+                "Uyghur": [
+                    "ھازىرقى زامان"
+                ],
+                "Kazakh": [
+                    "қазіргі"
+                ],
+                "Kyrgyz": [
+                    "азыркы"
+                ],
+                "Karakalpak": [
+                    "xázirgi"
+                ],
+                "Tatar": [
+                    "хәзерге"
+                ],
+                "Bashkir": [
+                    "хәҙерге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "zamonaviy"
+                ],
+                "Uyghur": [
+                    "زامانىۋى"
+                ],
+                "Kazakh": [
+                    "заманауи"
+                ],
+                "Kyrgyz": [
+                    "заманбап"
+                ],
+                "Karakalpak": [
+                    "zamanagóy"
+                ],
+                "Tatar": [
+                    "заманча"
+                ],
+                "Bashkir": [
+                    "заманса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çağdaş"
+                ],
+                "Azerbaijani": [
+                    "çağdaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "asri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müasir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güncel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täze"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "döwrebap"
+                ]
+            }
+        }
+    ]
+}

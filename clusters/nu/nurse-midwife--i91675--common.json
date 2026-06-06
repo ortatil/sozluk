@@ -1,0 +1,161 @@
+{
+    "id": "i91675",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nurse-midwife",
+    "en_definition": "a registered nurse who has received special training as a midwife",
+    "tr_word": "hemşire-ebe",
+    "tr_definition": "ebe olarak özel eğitim almış kayıtlı hemşire",
+    "ru_word": "медсестра-акушерка",
+    "ru_definition": "дипломированная медсестра, прошедшая специальную подготовку по акушерству",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "akuşerka"
+                ],
+                "Uzbek": [
+                    "akusherka"
+                ],
+                "Kazakh": [
+                    "акушер"
+                ],
+                "Kyrgyz": [
+                    "акушер"
+                ],
+                "Karakalpak": [
+                    "akusher"
+                ],
+                "Tatar": [
+                    "аккушерка"
+                ],
+                "Bashkir": [
+                    "акушерка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кіндік шеше"
+                ],
+                "Kyrgyz": [
+                    "киндик эне"
+                ],
+                "Karakalpak": [
+                    "kindikeshe"
+                ],
+                "Bashkir": [
+                    "кендек әбейе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "баябике"
+                ],
+                "Kyrgyz": [
+                    "баябике"
+                ],
+                "Bashkir": [
+                    "бала ҡабул итеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hemşire ebe"
+                ],
+                "Uzbek": [
+                    "hamshira-doya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğum hemşiresi"
+                ],
+                "Uyghur": [
+                    "تۇغۇت ئانىسى",
+                    "تۇغۇتچى",
+                    "تۇغۇت سېستىراسى",
+                    "تۇغۇتچى ئايال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mama-tibb bacısı",
+                    "mamaça"
+                ],
+                "Uzbek": [
+                    "momalik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eneke"
+                ],
+                "Tatar": [
+                    "аналык белгече"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "doya"
+                ],
+                "Karakalpak": [
+                    "doya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ebe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabilə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "göbek ene",
+                    "göbek enesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кичинекей эне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыз бала табучы",
+                    "бала тудыручы"
+                ]
+            }
+        }
+    ]
+}

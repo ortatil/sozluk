@@ -1,0 +1,93 @@
+{
+    "id": "i85597",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "island",
+    "en_definition": "a land mass (smaller than a continent) that is surrounded by water",
+    "tr_word": "ada",
+    "tr_definition": "su ile çevrili, kıtadan küçük kara parçası",
+    "ru_word": "остров",
+    "ru_definition": "участок суши, со всех сторон окружённый водой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cezire"
+                ],
+                "Azerbaijani": [
+                    "cəzirə"
+                ],
+                "Turkmen": [
+                    "jezir"
+                ],
+                "Uzbek": [
+                    "jazira"
+                ],
+                "Uyghur": [
+                    "جەزىرە"
+                ],
+                "Kazakh": [
+                    "жазира"
+                ],
+                "Kyrgyz": [
+                    "жазира"
+                ],
+                "Tatar": [
+                    "җәзирә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "orol"
+                ],
+                "Uyghur": [
+                    "ئارال"
+                ],
+                "Kazakh": [
+                    "арал"
+                ],
+                "Kyrgyz": [
+                    "арал"
+                ],
+                "Karakalpak": [
+                    "aral"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ada"
+                ],
+                "Azerbaijani": [
+                    "ada"
+                ],
+                "Turkmen": [
+                    "ada"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "утрау"
+                ],
+                "Bashkir": [
+                    "утрау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "адмира"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "id": "i55102",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ingot",
+    "en_definition": "metal that is cast in the shape of a block for convenient handling",
+    "tr_word": "külçe",
+    "tr_definition": "Dökülerek blok hâline getirilmiş, işlenmeye hazır metal parçası.",
+    "ru_word": "слиток",
+    "ru_definition": "Кусок металла, отлитый в определённую форму для удобства хранения или дальнейшей переработки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "guýma"
+                ],
+                "Uzbek": [
+                    "quyma"
+                ],
+                "Uyghur": [
+                    "قۇيما",
+                    "قۇيما مېتال"
+                ],
+                "Kazakh": [
+                    "құйма"
+                ],
+                "Kyrgyz": [
+                    "куйма"
+                ],
+                "Karakalpak": [
+                    "qұyma",
+                    "qұyma metall"
+                ],
+                "Tatar": [
+                    "койма"
+                ],
+                "Bashkir": [
+                    "ҡойолма",
+                    "ҡойоҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كۆتەك"
+                ],
+                "Kazakh": [
+                    "кесек"
+                ],
+                "Kyrgyz": [
+                    "кыш",
+                    "кесек"
+                ],
+                "Karakalpak": [
+                    "kesek"
+                ],
+                "Tatar": [
+                    "кисәк"
+                ],
+                "Bashkir": [
+                    "киҫәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "külçe"
+                ],
+                "Azerbaijani": [
+                    "külçə"
+                ],
+                "Turkmen": [
+                    "külçe"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qəlib"
+                ],
+                "Turkmen": [
+                    "galyndy"
+                ],
+                "Tatar": [
+                    "кылып"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "blok"
+                ],
+                "Uzbek": [
+                    "bo'lak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dökme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shulxa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сом"
+                ]
+            }
+        }
+    ]
+}

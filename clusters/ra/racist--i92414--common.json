@@ -1,0 +1,125 @@
+{
+    "id": "i92414",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "racist",
+    "en_definition": "a person with a prejudiced belief that one race is superior to others",
+    "tr_word": "ırkçı",
+    "tr_definition": "bir ırkın diğerlerinden üstün olduğuna inanan ve buna göre ayrımcılık yapan kimse",
+    "ru_word": "расист",
+    "ru_definition": "человек, убежденный в превосходстве одной расы над другими",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ırkçı",
+                    "ayrımcı"
+                ],
+                "Azerbaijani": [
+                    "irqçi"
+                ],
+                "Turkmen": [
+                    "irkiçi"
+                ],
+                "Uzbek": [
+                    "irqchi"
+                ],
+                "Uyghur": [
+                    "ئىرقچى",
+                    "ئىرقپەرەس"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəjadpərəst"
+                ],
+                "Kyrgyz": [
+                    "насилчил"
+                ],
+                "Karakalpak": [
+                    "násilparas"
+                ],
+                "Tatar": [
+                    "нәселче"
+                ],
+                "Bashkir": [
+                    "нәҫелсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "milletçi"
+                ],
+                "Uzbek": [
+                    "millatchi"
+                ],
+                "Tatar": [
+                    "милләтче"
+                ],
+                "Bashkir": [
+                    "милләтсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "unsurchi"
+                ],
+                "Kyrgyz": [
+                    "улутчул"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нәсілшіл",
+                    "нәсілші"
+                ],
+                "Karakalpak": [
+                    "násilshi",
+                    "násil ayırmashı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "расист"
+                ],
+                "Bashkir": [
+                    "расист"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kavmiyetçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jynsparaz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иркыйчы"
+                ]
+            }
+        }
+    ]
+}

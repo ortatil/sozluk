@@ -1,0 +1,104 @@
+{
+    "id": "i15421",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "hemispherical",
+    "en_definition": "of or relating to or being a hemisphere",
+    "tr_word": "yarımküresel",
+    "tr_definition": "bir yarımküre ile ilgili olan veya yarımküre şeklinde olan",
+    "ru_word": "полусферический",
+    "ru_definition": "относящийся к полушарию или имеющий форму полушария",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarımküresel",
+                    "yarım küre şeklinde"
+                ],
+                "Azerbaijani": [
+                    "yarımkürəvi",
+                    "yarımkürəşəkilli",
+                    "yarımkürə"
+                ],
+                "Turkmen": [
+                    "ýarymşar"
+                ],
+                "Uzbek": [
+                    "yarimsharsimon"
+                ],
+                "Uyghur": [
+                    "يېرىم شارسىمان",
+                    "يېرىم شار شەكىللىك"
+                ],
+                "Kazakh": [
+                    "жарты шар тәрізді",
+                    "жарты шар пішінді"
+                ],
+                "Kyrgyz": [
+                    "жарым шар формасындагы",
+                    "жарым шар сымал",
+                    "жарым тегерек"
+                ],
+                "Karakalpak": [
+                    "jartı shar tárizli",
+                    "jartı shar formasındaǵı",
+                    "jartı sharlı"
+                ],
+                "Tatar": [
+                    "ярымшарсыман",
+                    "ярымшарлы",
+                    "ярымтүгәрәк"
+                ],
+                "Bashkir": [
+                    "ярымшарлы",
+                    "ярымтүңәрәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kubbevi"
+                ],
+                "Kazakh": [
+                    "күмбезді",
+                    "күмбез тәріздес"
+                ],
+                "Bashkir": [
+                    "көмбәҙле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müdevver"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gümmezli",
+                    "gümmezşekilli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nimkurra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gumbazsimon"
+                ]
+            }
+        }
+    ]
+}

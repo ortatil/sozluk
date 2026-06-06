@@ -1,0 +1,102 @@
+{
+    "id": "i13583",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "poisonous",
+    "en_definition": "having the qualities or effects of a poison",
+    "tr_word": "zehirli",
+    "tr_definition": "zehir içeren veya zehir etkisi yapan",
+    "ru_word": "ядовитый",
+    "ru_definition": "содержащий яд или обладающий свойствами яда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zehirli"
+                ],
+                "Azerbaijani": [
+                    "zəhərli"
+                ],
+                "Turkmen": [
+                    "zäherli"
+                ],
+                "Uzbek": [
+                    "zaharli",
+                    "zahar-zaqqum"
+                ],
+                "Uyghur": [
+                    "زەھەرلىك"
+                ],
+                "Kazakh": [
+                    "зәрлі"
+                ],
+                "Karakalpak": [
+                    "záhárli"
+                ],
+                "Tatar": [
+                    "зәһәрле"
+                ],
+                "Bashkir": [
+                    "зәһәрле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağılı"
+                ],
+                "Azerbaijani": [
+                    "ağılı"
+                ],
+                "Turkmen": [
+                    "agu"
+                ],
+                "Uzbek": [
+                    "og'uli"
+                ],
+                "Uyghur": [
+                    "ئاغۇلۇق"
+                ],
+                "Tatar": [
+                    "агулы"
+                ],
+                "Bashkir": [
+                    "ағыулы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "улы",
+                    "улылы"
+                ],
+                "Kyrgyz": [
+                    "уулуу",
+                    "ууланган"
+                ],
+                "Karakalpak": [
+                    "ulı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "semmî"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "заардуу"
+                ]
+            }
+        }
+    ]
+}

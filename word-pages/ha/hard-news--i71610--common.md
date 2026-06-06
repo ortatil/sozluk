@@ -1,0 +1,229 @@
+# Hard news
+| Field | Detail |
+|---|---|
+| **ID** | i71610 |
+| **English** | hard news |
+| **Type** | noun |
+| **Definition** | news that deals with serious topics or events |
+| **Source** | common |
+| **Ortatil** | täzelik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| яңалыклар | yañalıklar |
+
+```json
+{
+    "id": "i71610",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hard news",
+    "en_definition": "news that deals with serious topics or events",
+    "tr_word": "ciddi haberler",
+    "tr_definition": "Ciddi konuları veya olayları ele alan haberler.",
+    "ru_word": "актуальные новости",
+    "ru_definition": "Новости, посвященные серьезным темам или событиям.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıcak haberler"
+                ],
+                "Turkmen": [
+                    "syýasy habarlar"
+                ],
+                "Kazakh": [
+                    "саяси жаңалық"
+                ],
+                "Kyrgyz": [
+                    "саясий кабар"
+                ],
+                "Karakalpak": [
+                    "siyasiy xabarlar"
+                ],
+                "Tatar": [
+                    "сәяси хәбәрләр"
+                ],
+                "Bashkir": [
+                    "сәйәси яңылыҡтар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ciddi haberler"
+                ],
+                "Azerbaijani": [
+                    "ciddi xəbərlər"
+                ],
+                "Uzbek": [
+                    "jiddiy yangiliklar"
+                ],
+                "Uyghur": [
+                    "جىددىي خەۋەر"
+                ],
+                "Tatar": [
+                    "җитди хәбәрләр"
+                ],
+                "Bashkir": [
+                    "жидди хәбәрҙәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mühüm xəbərlər"
+                ],
+                "Turkmen": [
+                    "möhüm habarlar"
+                ],
+                "Uzbek": [
+                    "muhim xabarlar"
+                ],
+                "Uyghur": [
+                    "مۇھىم خەۋەر"
+                ],
+                "Tatar": [
+                    "мөһим хәбәрләр"
+                ],
+                "Bashkir": [
+                    "мөһим хәбәрҙәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "rəsmi xəbərlər"
+                ],
+                "Uzbek": [
+                    "rasmiy xabarlar"
+                ],
+                "Kazakh": [
+                    "ресми хабар"
+                ],
+                "Kyrgyz": [
+                    "расмий маалымат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əsas xəbərlər"
+                ],
+                "Turkmen": [
+                    "esasy habarlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "маңызды хабар"
+                ],
+                "Kyrgyz": [
+                    "маанилүү жаңылык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güncel haberler"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "önemli haberler"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzelikler"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dolzarb xabarlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېغىر خەۋەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈپ خەۋەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өзекті жаңалық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "олуттуу кабар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tiykarǵı jańalıqlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "áhmiyetli xabarlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яңалыклар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төп яңылыҡтар"
+                ]
+            }
+        }
+    ]
+}
+```
+

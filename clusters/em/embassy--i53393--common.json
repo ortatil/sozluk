@@ -1,0 +1,104 @@
+{
+    "id": "i53393",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "embassy",
+    "en_definition": "a diplomatic building where ambassadors live or work",
+    "tr_word": "elçilik",
+    "tr_definition": "bir büyükelçinin ve diplomatik personelin görev yaptığı ve ikamet ettiği bina",
+    "ru_word": "посольство",
+    "ru_definition": "дипломатическое здание, в котором живут или работают послы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elçilik"
+                ],
+                "Azerbaijani": [
+                    "elçilik"
+                ],
+                "Turkmen": [
+                    "ilçihana"
+                ],
+                "Uzbek": [
+                    "elchixona"
+                ],
+                "Uyghur": [
+                    "ئەلچىخانا"
+                ],
+                "Kyrgyz": [
+                    "элчилик",
+                    "элчикана"
+                ],
+                "Tatar": [
+                    "илчелек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sefarethane",
+                    "sefarethâne"
+                ],
+                "Azerbaijani": [
+                    "səfirlik"
+                ],
+                "Uzbek": [
+                    "saforat",
+                    "saforatxona"
+                ],
+                "Uyghur": [
+                    "سەفاخانە"
+                ],
+                "Tatar": [
+                    "сәфәрханә"
+                ],
+                "Bashkir": [
+                    "сәфәрхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "елшілік"
+                ],
+                "Karakalpak": [
+                    "elshixana",
+                    "elshilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyükelçilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "wekilhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өкілдік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "илселек"
+                ]
+            }
+        }
+    ]
+}

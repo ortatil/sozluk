@@ -1,0 +1,197 @@
+# Cross street
+| Field | Detail |
+|---|---|
+| **ID** | i52544 |
+| **English** | cross street |
+| **Type** | noun |
+| **Definition** | a street intersecting a main street (usually at right angles) and continuing on both sides of it |
+| **Source** | common |
+| **Ortatil** | çärrähä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қиылыс | qiılıs |
+| **Kyrgyz** | |
+| кесилиш | kesiliş |
+| айрылыш | ayrılış |
+
+```json
+{
+    "id": "i52544",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cross street",
+    "en_definition": "a street intersecting a main street (usually at right angles) and continuing on both sides of it",
+    "tr_word": "enine sokak",
+    "tr_definition": "Ana bir caddeyi genellikle dik açıyla kesen ve her iki tarafına doğru devam eden sokak.",
+    "ru_word": "поперечная улица",
+    "ru_definition": "Улица, пересекающая главную улицу (обычно под прямым углом) и продолжающаяся по обе её стороны.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kesişen sokak"
+                ],
+                "Azerbaijani": [
+                    "kəsişən küçə"
+                ],
+                "Turkmen": [
+                    "kesişýän köçe"
+                ],
+                "Uzbek": [
+                    "kesishgan koʻcha"
+                ],
+                "Uyghur": [
+                    "كېسىشكەن يول"
+                ],
+                "Kyrgyz": [
+                    "кесилиш"
+                ],
+                "Tatar": [
+                    "кисешкән урам"
+                ],
+                "Bashkir": [
+                    "киҫешкән урам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ara sokak"
+                ],
+                "Azerbaijani": [
+                    "çarpaz küçə"
+                ],
+                "Uzbek": [
+                    "chorraha"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çapraz sokak"
+                ],
+                "Turkmen": [
+                    "çatryk"
+                ],
+                "Tatar": [
+                    "чатыр урам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "айқас көше"
+                ],
+                "Kyrgyz": [
+                    "айрылыш"
+                ],
+                "Karakalpak": [
+                    "ayrıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻndalang koʻcha"
+                ],
+                "Kazakh": [
+                    "көлденең көше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қиылыс"
+                ],
+                "Karakalpak": [
+                    "qiyılıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аркылы урам"
+                ],
+                "Bashkir": [
+                    "арҡыры урам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yan yol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yan küçə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "atanaklaýyn köçe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توقۇنۇش يول"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆت كوچا",
+                    "تۆت يول ئېغىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түйіскен көше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыйышма көчө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kóse"
+                ]
+            }
+        }
+    ]
+}
+```
+

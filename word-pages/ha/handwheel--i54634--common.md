@@ -1,0 +1,202 @@
+# Handwheel
+| Field | Detail |
+|---|---|
+| **ID** | i54634 |
+| **English** | handwheel |
+| **Type** | noun |
+| **Definition** | a wheel worked by hand |
+| **Source** | common |
+| **Ortatil** | tigirçek |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| тұтқа | tutqa |
+| айналдырғыш | aynaldırğış |
+| **Kyrgyz** | |
+| дөңгөлөк | döñgölök |
+| **Bashkir** | |
+| тәгәрмәс | tägärmäs |
+
+```json
+{
+    "id": "i54634",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "handwheel",
+    "en_definition": "a wheel worked by hand",
+    "tr_word": "el çarkı",
+    "tr_definition": "Elle döndürülerek bir mekanizmayı kontrol eden tekerlek.",
+    "ru_word": "маховик",
+    "ru_definition": "Колесо, приводимое в движение рукой для управления механизмом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "el çarkı"
+                ],
+                "Azerbaijani": [
+                    "əl çarxı"
+                ],
+                "Turkmen": [
+                    "el çarhy"
+                ],
+                "Uyghur": [
+                    "قول چاقپەلەك"
+                ],
+                "Tatar": [
+                    "кул чархы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қол дөңгелегі"
+                ],
+                "Kyrgyz": [
+                    "кол дөңгөлөк"
+                ],
+                "Karakalpak": [
+                    "qol dóńgelegi"
+                ],
+                "Tatar": [
+                    "кул тәгәрмәче",
+                    "кул куласасы"
+                ],
+                "Bashkir": [
+                    "ҡул тәгәрмәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "volan"
+                ],
+                "Uyghur": [
+                    "قول چاقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çarh"
+                ],
+                "Uzbek": [
+                    "charx"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tigirçek"
+                ],
+                "Bashkir": [
+                    "тәгәрмәс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastak"
+                ],
+                "Uyghur": [
+                    "دەستە چاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұтқа"
+                ],
+                "Karakalpak": [
+                    "tutqısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çevirme kolu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dümen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sükan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dönmə çarxı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'ildirak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айналдырғыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дөңгөлөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башкаруу дөңгөлөгү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shturwal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡул сығыры"
+                ]
+            }
+        }
+    ]
+}
+```
+

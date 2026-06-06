@@ -1,0 +1,113 @@
+{
+    "id": "i52237",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "computer",
+    "en_definition": "a machine for performing calculations automatically",
+    "tr_word": "bilgisayar",
+    "tr_definition": "verileri işleyen, hesaplamaları otomatik olarak yapan elektronik cihaz",
+    "ru_word": "компьютер",
+    "ru_definition": "электронное устройство для автоматического выполнения вычислений и обработки данных",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesaplayıcı"
+                ],
+                "Azerbaijani": [
+                    "hesablayıcı"
+                ],
+                "Turkmen": [
+                    "hasaplaýyş maşyny"
+                ],
+                "Uzbek": [
+                    "hisoblagich",
+                    "hisoblash mashinasi"
+                ],
+                "Uyghur": [
+                    "ھېسابلىغۇچ"
+                ],
+                "Kazakh": [
+                    "есептеуіш",
+                    "есептегіш",
+                    "есептеуіш машина"
+                ],
+                "Kyrgyz": [
+                    "эсептегич",
+                    "эсептөөчү машина"
+                ],
+                "Karakalpak": [
+                    "esaplaǵısh",
+                    "esaplao mashinası"
+                ],
+                "Tatar": [
+                    "хисаплагыч"
+                ],
+                "Bashkir": [
+                    "хисаплағыс",
+                    "хисаплау машинаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilgisayar"
+                ],
+                "Azerbaijani": [
+                    "bilgisayar"
+                ],
+                "Kyrgyz": [
+                    "билимсаяр"
+                ],
+                "Bashkir": [
+                    "белемшәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "elektron hesablayıcı maşın"
+                ],
+                "Turkmen": [
+                    "elektron hasaplaýyş maşyny"
+                ],
+                "Uyghur": [
+                    "ئېلېكترونلۇق ھېسابلاش ماشىنىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kompýuter"
+                ],
+                "Uzbek": [
+                    "kompyuter"
+                ],
+                "Uyghur": [
+                    "كومپيۇتېر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "санак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sayışman"
+                ]
+            }
+        }
+    ]
+}

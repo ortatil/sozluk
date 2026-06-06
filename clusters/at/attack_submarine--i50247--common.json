@@ -1,0 +1,100 @@
+{
+    "id": "i50247",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "attack submarine",
+    "en_definition": "a military submarine designed and armed to attack enemy shipping",
+    "tr_word": "atak denizaltısı",
+    "tr_definition": "Düşman gemilerine ve denizaltılarına saldırmak için tasarlanmış ve silahlandırılmış askeri denizaltı.",
+    "ru_word": "ударная подводная лодка",
+    "ru_definition": "военная подводная лодка, предназначенная и вооруженная для нападения на суда противника.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hücum denizaltısı"
+                ],
+                "Azerbaijani": [
+                    "hücum sualtı qayığı",
+                    "hücum sualtısı"
+                ],
+                "Turkmen": [
+                    "hujumçy suwaasty gämi",
+                    "hujum suwaasty gämisi"
+                ],
+                "Uzbek": [
+                    "hujumkor suvosti kemasi",
+                    "hujumchi suvosti kemasi"
+                ],
+                "Uyghur": [
+                    "ھۇجۇمچى سۇ ئاستى پاراخوتى"
+                ],
+                "Karakalpak": [
+                    "hújimshi suw astı kemesi",
+                    "hújimshi suw astı qayıǵı"
+                ],
+                "Tatar": [
+                    "һөҗүм су асты көймәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jangovar suvosti kemasi"
+                ],
+                "Uyghur": [
+                    "جەڭگىۋار سۇ ئاستى كېمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шабуылшы сүңгуір қайық",
+                    "соққы беруші сүңгуір кеме"
+                ],
+                "Kyrgyz": [
+                    "чабуулчу суу астындагы кеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "saldırı denizaltısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "döyüş sualtı qayığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "согуштук суу астындагы кеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәрби су асты көймәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һөжүм итеүсе һыу аҫты кәмәһе",
+                    "һөжүм итеүсе һыу аҫты карабы"
+                ]
+            }
+        }
+    ]
+}

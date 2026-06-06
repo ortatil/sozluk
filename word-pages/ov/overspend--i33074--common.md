@@ -1,0 +1,203 @@
+# Overspend
+| Field | Detail |
+|---|---|
+| **ID** | i33074 |
+| **English** | overspend |
+| **Type** | verb |
+| **Definition** | spend more than available of (a budget) |
+| **Source** | common |
+| **Ortatil** | sawırmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| шашпау | şaşpau |
+
+```json
+{
+    "id": "i33074",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "overspend",
+    "en_definition": "spend more than available of (a budget)",
+    "tr_word": "fazla harcamak",
+    "tr_definition": "bütçeyi aşacak şekilde harcama yapmak",
+    "ru_word": "перерасходовать",
+    "ru_definition": "тратить больше имеющихся средств или выделенного бюджета",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşırı harcamak",
+                    "israf etmek"
+                ],
+                "Azerbaijani": [
+                    "israf etmək",
+                    "israfçılıq etmək"
+                ],
+                "Turkmen": [
+                    "isrip etmek",
+                    "isripçilik etmek"
+                ],
+                "Uzbek": [
+                    "isrof qilmoq",
+                    "isrofga yo'l qo'ymoq"
+                ],
+                "Uyghur": [
+                    "ئىسراپ قىلماق"
+                ],
+                "Kazakh": [
+                    "ысырап ету",
+                    "ысырап қылу"
+                ],
+                "Kyrgyz": [
+                    "ысырап кылуу",
+                    "ашыра жумшоо",
+                    "ысырапчылык кылуу"
+                ],
+                "Karakalpak": [
+                    "ısırap qılıo",
+                    "ısırap etio"
+                ],
+                "Tatar": [
+                    "исраф итү"
+                ],
+                "Bashkir": [
+                    "исраф итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ortiqcha sarflamoq"
+                ],
+                "Uyghur": [
+                    "ئارتۇق چىقىم قىلماق"
+                ],
+                "Kazakh": [
+                    "артық жұмсау"
+                ],
+                "Karakalpak": [
+                    "artıqsha jumsao"
+                ],
+                "Tatar": [
+                    "артык сарыф итү"
+                ],
+                "Bashkir": [
+                    "артыҡ сарыф итеү",
+                    "артыҡ сығым яһау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həddi aşmaq"
+                ],
+                "Uyghur": [
+                    "ھەددىدىن زىيادە خەجلىمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sochib yubormoq"
+                ],
+                "Kazakh": [
+                    "шашпау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чамадан тыш тоту"
+                ],
+                "Bashkir": [
+                    "самаһыҙ сығымлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "savurmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bütçeyi aşmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fazla harcamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çox xərcləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çykdajyny artdyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çenden aşa harçlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мөлшерден асыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ашыкча сарптоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bekerge shashıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күп чыгымлау"
+                ]
+            }
+        }
+    ]
+}
+```
+

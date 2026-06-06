@@ -1,0 +1,75 @@
+# Four-wheel
+| Field | Detail |
+|---|---|
+| **ID** | i15366 |
+| **English** | four-wheel |
+| **Type** | adjective |
+| **Definition** | of or relating to vehicles with four wheels |
+| **Source** | common |
+| **Ortatil** | dördtäkärli |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i15366",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "four-wheel",
+    "en_definition": "of or relating to vehicles with four wheels",
+    "tr_word": "dört tekerlekli",
+    "tr_definition": "dört tekerleği olan veya dört tekerlekle ilgili olan araçlar için kullanılır",
+    "ru_word": "четырехколесный",
+    "ru_definition": "имеющий четыре колеса или относящийся к транспортным средствам с четырьмя колесами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dört tekerlekli",
+                    "dört tekerli"
+                ],
+                "Azerbaijani": [
+                    "dördtəkərli",
+                    "dördçarxlı"
+                ],
+                "Turkmen": [
+                    "dört tigirli",
+                    "dört çarhly"
+                ],
+                "Uzbek": [
+                    "to'rt g'ildirakli",
+                    "to'rt charxli"
+                ],
+                "Uyghur": [
+                    "تۆت چاقلىق",
+                    "تۆت چاقلىق ماشىنا"
+                ],
+                "Kazakh": [
+                    "төрт дөңгелекті",
+                    "төрт аяқты"
+                ],
+                "Kyrgyz": [
+                    "төрт дөңгөлөктүү",
+                    "төрт чархтуу"
+                ],
+                "Karakalpak": [
+                    "tórt dóńgelekli",
+                    "tórt ayaqlı"
+                ],
+                "Tatar": [
+                    "дүрт тәгәрмәчле",
+                    "дүрт аяклы"
+                ],
+                "Bashkir": [
+                    "дүрт тәгәрмәсле",
+                    "дүрт аяҡлы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,79 @@
+{
+    "id": "i64395",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "male body",
+    "en_definition": "the body of a male human being",
+    "tr_word": "erkek vücudu",
+    "tr_definition": "bir erkek insanın bedeni",
+    "ru_word": "мужское тело",
+    "ru_definition": "тело человека мужского пола",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "erkek vücudu",
+                    "erkek bedeni",
+                    "erkek teni"
+                ],
+                "Azerbaijani": [
+                    "ər bədəni"
+                ],
+                "Turkmen": [
+                    "erkek bedeni",
+                    "erkek göwresi",
+                    "erkek teni",
+                    "erkek jany"
+                ],
+                "Uzbek": [
+                    "erkak tanasi",
+                    "erkak vujudi",
+                    "erkak jussasi"
+                ],
+                "Uyghur": [
+                    "ئەر كىشىنىڭ بەدىنى",
+                    "ئەر تېنى",
+                    "ئەر جەسىتى"
+                ],
+                "Kazakh": [
+                    "ер адамның денесі",
+                    "еркек тәні",
+                    "ер тұлғасы"
+                ],
+                "Kyrgyz": [
+                    "эркектин денеси",
+                    "эркек тулкусу",
+                    "эркек бою"
+                ],
+                "Karakalpak": [
+                    "er adam denesi",
+                    "erkek denesi",
+                    "erkek tán"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ир гәүдәсе",
+                    "ир тәне",
+                    "ир заты"
+                ],
+                "Bashkir": [
+                    "ир кәүҙәһе",
+                    "ир тәне",
+                    "ир заты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kişi bədəni",
+                    "kişi vücudu"
+                ]
+            }
+        }
+    ]
+}

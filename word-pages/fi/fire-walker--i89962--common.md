@@ -1,0 +1,133 @@
+# Fire walker
+| Field | Detail |
+|---|---|
+| **ID** | i89962 |
+| **English** | fire walker |
+| **Type** | noun |
+| **Definition** | someone who walks barefoot on burning coals |
+| **Source** | common |
+| **Ortatil** | atäşbaz |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i89962",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fire walker",
+    "en_definition": "someone who walks barefoot on burning coals",
+    "tr_word": "ateş yürüyüşçüsü",
+    "tr_definition": "közlerin üzerinde çıplak ayakla yürüyen kimse",
+    "ru_word": "огнеходец",
+    "ru_definition": "человек, который ходит босиком по раскаленным углям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "od üstündə gəzən",
+                    "odpərəst"
+                ],
+                "Turkmen": [
+                    "ot üstünde ýöreýän"
+                ],
+                "Uzbek": [
+                    "o'tda yuruvchi"
+                ],
+                "Uyghur": [
+                    "ئوت ئۈستىدە ماڭغۇچى",
+                    "ئوتتا ماڭغۇچى"
+                ],
+                "Kazakh": [
+                    "от үстімен жүруші",
+                    "от кешуші"
+                ],
+                "Kyrgyz": [
+                    "от кечүүчү"
+                ],
+                "Karakalpak": [
+                    "ot ústinde júrioshi"
+                ],
+                "Tatar": [
+                    "утлы күмердән йөрүче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ateş yürüyüşçüsü",
+                    "ateşbaz"
+                ],
+                "Azerbaijani": [
+                    "atəşpərəst"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "cho'g'da yuruvchi"
+                ],
+                "Kyrgyz": [
+                    "чокту басуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шоқ басушы"
+                ],
+                "Karakalpak": [
+                    "shoq ústinde júrioshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ут өстеннән йөрүче"
+                ],
+                "Bashkir": [
+                    "уттан йөрөүсе",
+                    "ут өҫтөнән атлаусы",
+                    "ут аша үтеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köz yürüyüşçüsü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "köz üstünde ýöreýän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "olovda yuruvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ут аша атлаучы"
+                ]
+            }
+        }
+    ]
+}
+```
+

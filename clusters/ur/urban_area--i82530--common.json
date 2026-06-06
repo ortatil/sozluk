@@ -1,0 +1,135 @@
+{
+    "id": "i82530",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "urban area",
+    "en_definition": "a geographical area constituting a city or town",
+    "tr_word": "kentsel alan",
+    "tr_definition": "bir şehir veya kasabayı oluşturan coğrafi bölge",
+    "ru_word": "городская местность",
+    "ru_definition": "географическая область, представляющая собой город или поселок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehir"
+                ],
+                "Azerbaijani": [
+                    "şəhər",
+                    "şəhər sahəsi",
+                    "şəhər ərazisi"
+                ],
+                "Turkmen": [
+                    "şäher"
+                ],
+                "Uzbek": [
+                    "shahar",
+                    "shahar joyi"
+                ],
+                "Uyghur": [
+                    "شەھەر رايونى",
+                    "شەھەرلىك",
+                    "شەھەر"
+                ],
+                "Kazakh": [
+                    "шаһар"
+                ],
+                "Karakalpak": [
+                    "shaxar"
+                ],
+                "Tatar": [
+                    "шәһәр",
+                    "шәһәрлек",
+                    "шәһәр җире"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meskun mahal"
+                ],
+                "Azerbaijani": [
+                    "məskunlaşmış yer"
+                ],
+                "Turkmen": [
+                    "mesgen"
+                ],
+                "Kazakh": [
+                    "мекен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қала",
+                    "қалалық жер"
+                ],
+                "Kyrgyz": [
+                    "калаа"
+                ],
+                "Karakalpak": [
+                    "qala",
+                    "qalalıq jer"
+                ],
+                "Bashkir": [
+                    "ҡала",
+                    "ҡала биләмәһе",
+                    "ҡала ере",
+                    "ҡала мөхите"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kent"
+                ],
+                "Turkmen": [
+                    "kent"
+                ],
+                "Uzbek": [
+                    "kent"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "abatlyk"
+                ],
+                "Uzbek": [
+                    "obodlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yerleşim yeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаар",
+                    "шаардык аймак",
+                    "шаарча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәдинә"
+                ]
+            }
+        }
+    ]
+}

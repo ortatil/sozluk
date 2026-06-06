@@ -1,0 +1,129 @@
+{
+    "id": "i71608",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "television news",
+    "en_definition": "a television broadcast of news",
+    "tr_word": "televizyon haberleri",
+    "tr_definition": "haberlerin televizyon aracılığıyla yayınlanması",
+    "ru_word": "телевизионные новости",
+    "ru_definition": "выпуск новостей, транслируемый по телевидению",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haber programı"
+                ],
+                "Azerbaijani": [
+                    "xəbərlər",
+                    "xəbər verilişi"
+                ],
+                "Turkmen": [
+                    "habarlar"
+                ],
+                "Uzbek": [
+                    "xabarlar"
+                ],
+                "Kazakh": [
+                    "хабарлар"
+                ],
+                "Kyrgyz": [
+                    "кабарлар"
+                ],
+                "Karakalpak": [
+                    "xabarlar"
+                ],
+                "Tatar": [
+                    "хәбәрләр"
+                ],
+                "Bashkir": [
+                    "хәбәрҙәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ana haber"
+                ],
+                "Kazakh": [
+                    "жаңалықтар"
+                ],
+                "Kyrgyz": [
+                    "жаңылыктар"
+                ],
+                "Karakalpak": [
+                    "jańalıqlar"
+                ],
+                "Tatar": [
+                    "яңалыклар"
+                ],
+                "Bashkir": [
+                    "яңылыҡтар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məlumat proqramı"
+                ],
+                "Kyrgyz": [
+                    "маалымат берүү"
+                ],
+                "Tatar": [
+                    "мәгълүмат тапшыруы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "täzelikler"
+                ],
+                "Uzbek": [
+                    "yangiliklar"
+                ],
+                "Uyghur": [
+                    "يېڭىلىقلار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "axborot"
+                ],
+                "Kazakh": [
+                    "ақпараттық бағдарлама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haber bülteni",
+                    "televizyon haberleri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېلېۋىزىيە خەۋەرلىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەۋەر پروگراممىسى"
+                ]
+            }
+        }
+    ]
+}

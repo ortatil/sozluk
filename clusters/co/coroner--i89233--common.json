@@ -1,0 +1,170 @@
+{
+    "id": "i89233",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coroner",
+    "en_definition": "a public official who investigates by inquest any death not due to natural causes",
+    "tr_word": "adli tabip",
+    "tr_definition": "doğal olmayan nedenlerle meydana gelen ölümleri araştıran ve otopsi süreçlerini yöneten kamu görevlisi",
+    "ru_word": "коронер",
+    "ru_definition": "должностное лицо, расследующее случаи насильственной или внезапной смерти",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "derňewçi"
+                ],
+                "Uzbek": [
+                    "tergovchi-shifokor"
+                ],
+                "Kazakh": [
+                    "тергеуші"
+                ],
+                "Kyrgyz": [
+                    "тергөөчү"
+                ],
+                "Karakalpak": [
+                    "tergeushі",
+                    "tártіp saqshısı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sud-lukman eksperti"
+                ],
+                "Uzbek": [
+                    "sud-tibbiy eksperti"
+                ],
+                "Kazakh": [
+                    "сот сарапшысы"
+                ],
+                "Kyrgyz": [
+                    "соттук-медициналык эксперт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tebipler başy"
+                ],
+                "Uyghur": [
+                    "تەپتىش"
+                ],
+                "Bashkir": [
+                    "тәфтишсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'lim sababini aniqlovchi"
+                ],
+                "Uyghur": [
+                    "ئۆلۈم تەكشۈرگۈچى"
+                ],
+                "Kyrgyz": [
+                    "өлүккана дарыгери"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "adli tabip",
+                    "adli tıp uzmanı"
+                ],
+                "Uyghur": [
+                    "ئەدلىيە تەكشۈرگۈچىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мәйітханашы"
+                ],
+                "Karakalpak": [
+                    "máyіtker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тикшерүче"
+                ],
+                "Bashkir": [
+                    "тикшереүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хөкемдар"
+                ],
+                "Bashkir": [
+                    "хөкөмсө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otopsi uzmanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "morg savcısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məhkəmə həkimi",
+                    "məhkəmə-tibbi eksperti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müstəntiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sud eksperti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "анықтаушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөфәттиш"
+                ]
+            }
+        }
+    ]
+}

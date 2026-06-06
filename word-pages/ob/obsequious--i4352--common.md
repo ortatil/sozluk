@@ -1,0 +1,297 @@
+# Obsequious
+| Field | Detail |
+|---|---|
+| **ID** | i4352 |
+| **English** | obsequious |
+| **Type** | adjective |
+| **Definition** | attentive in an ingratiating or servile manner |
+| **Source** | common |
+| **Ortatil** | yalağay |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **yalağay** | **caramsaq** | **huşamatgoy** | **cağımpaz** |
+|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ | ❌ |
+| Turkmen | ❌ | ✅ | ❌ | ❌ |
+| Uzbek | ❌ | ❌ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ | ❌ |
+| Kazakh | ❌ | ✅ | ❌ | ✅ |
+| Kyrgyz | ❌ | ❌ | ✅ | ✅ |
+| Karakalpak | ❌ | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.33 | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 | 1 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.80 | 0.40 | 0.60 |
+| *In All* | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |  |
+| **O'TQ** | **2.57** | **1.63** | **1.40** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| يالغانچى | yalğançi |
+| خوشامەتگوي | xoşamätgoy |
+| تەخسىكەش | täxsikäş |
+| قۇيرۇقچى | quyruqçi |
+| **Kazakh** | |
+| жарамсақ | jaramsaq |
+| жағымпаз | jağımpaz |
+| құлдық | quldıq |
+| мүләйім | müläyim |
+| ілтипатшыл | iltipatşıl |
+| **Kyrgyz** | |
+| кошоматчы | koşomatçı |
+| жагынуучу | jagınuuçu |
+| илбериңки | ilberiñki |
+| **Tatar** | |
+| ялагай | yalagay |
+| яланучан | yalanuçan |
+| ярамсак | yaramsak |
+| түбәнчелекле | tübänçelekle |
+| кошбикә | koşbikä |
+| **Bashkir** | |
+| ярамһаҡ | yaramhaq |
+| ялағай | yalağay |
+| ярамһаҡланыусан | yaramhaqlanıusan |
+| ҡоллоҡло | qolloqlo |
+| түбәнселекле | tübänselekle |
+
+```json
+{
+    "id": "i4352",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "obsequious",
+    "en_definition": "attentive in an ingratiating or servile manner",
+    "tr_word": "yaltakçı",
+    "tr_definition": "Birine yaranmak için aşırı saygı ve hizmet gösteren, dalkavukça davranan.",
+    "ru_word": "подобострастный",
+    "ru_definition": "Выражающий покорность, угодливость, льстивое почтение.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaltakçı"
+                ],
+                "Azerbaijani": [
+                    "yaltaq"
+                ],
+                "Uyghur": [
+                    "يالغانچى"
+                ],
+                "Tatar": [
+                    "ялагай",
+                    "яланучан"
+                ],
+                "Bashkir": [
+                    "ярамһаҡ",
+                    "ялағай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýaranjaň"
+                ],
+                "Kazakh": [
+                    "жарамсақ"
+                ],
+                "Karakalpak": [
+                    "jaramsaq"
+                ],
+                "Tatar": [
+                    "ярамсак"
+                ],
+                "Bashkir": [
+                    "ярамһаҡланыусан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xushomadgo'y"
+                ],
+                "Uyghur": [
+                    "خوشامەتگوي"
+                ],
+                "Kyrgyz": [
+                    "кошоматчы"
+                ],
+                "Karakalpak": [
+                    "qoshametshіl"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жағымпаз"
+                ],
+                "Kyrgyz": [
+                    "жагынуучу"
+                ],
+                "Karakalpak": [
+                    "jaǵımpaz"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "құлдық"
+                ],
+                "Kyrgyz": [
+                    "кул мүнөз"
+                ],
+                "Bashkir": [
+                    "ҡоллоҡло"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dalkavuk"
+                ],
+                "Uzbek": [
+                    "tilyog'lama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müticəsincə"
+                ],
+                "Uzbek": [
+                    "muti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təzimkar"
+                ],
+                "Uyghur": [
+                    "تەخسىكەش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "itaətkar"
+                ],
+                "Uzbek": [
+                    "itoatkor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mollum"
+                ],
+                "Kazakh": [
+                    "мүләйім"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ілтипатшыл"
+                ],
+                "Karakalpak": [
+                    "iltipatlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "түбәнчелекле"
+                ],
+                "Bashkir": [
+                    "түбәнселекле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "riyakar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tabasbusçu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "başəyən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hizmetkär"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pespäl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "laganbardor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇيرۇقچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илбериңки"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кошбикә"
+                ]
+            }
+        }
+    ]
+}
+```
+

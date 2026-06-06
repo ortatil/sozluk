@@ -1,0 +1,77 @@
+{
+    "id": "i11109",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "handed",
+    "en_definition": "having or involving the use of hands",
+    "tr_word": "elli",
+    "tr_definition": "Elleri olan veya ellerin kullanımını içeren",
+    "ru_word": "рукий",
+    "ru_definition": "Имеющий руки или предполагающий использование рук",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qo'lli"
+                ],
+                "Uyghur": [
+                    "قوللۇق",
+                    "قولى بار"
+                ],
+                "Kazakh": [
+                    "қолды",
+                    "қолмен істелетін",
+                    "қолданылатын"
+                ],
+                "Kyrgyz": [
+                    "колдуу",
+                    "колу бар"
+                ],
+                "Karakalpak": [
+                    "qolı bar",
+                    "qollı"
+                ],
+                "Tatar": [
+                    "куллы",
+                    "кул"
+                ],
+                "Bashkir": [
+                    "ҡуллы",
+                    "ҡулланылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elli",
+                    "elli olan",
+                    "el kullanan"
+                ],
+                "Azerbaijani": [
+                    "əlli"
+                ],
+                "Turkmen": [
+                    "elli",
+                    "el bilen edilýän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yədli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastli"
+                ]
+            }
+        }
+    ]
+}

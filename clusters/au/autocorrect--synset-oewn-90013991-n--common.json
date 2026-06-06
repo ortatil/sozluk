@@ -1,0 +1,134 @@
+{
+    "id": "synset-oewn-90013991-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "autocorrect",
+    "en_definition": "a system for automatically correcting text",
+    "tr_word": "otomatik düzeltme",
+    "tr_definition": "metindeki hataları otomatik olarak düzelten bir sistem",
+    "ru_word": "автозамена",
+    "ru_definition": "система автоматического исправления текста",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "özü-özünə düzəltmə"
+                ],
+                "Turkmen": [
+                    "öz-özünden düzediş"
+                ],
+                "Uzbek": [
+                    "oʻz-oʻzidan tuzatish"
+                ],
+                "Uyghur": [
+                    "ئۆزلۈكىدىن تۈزەتكۈچ",
+                    "ئۆزلۈكىدىن تۈزىتىش سىستېمىسى"
+                ],
+                "Kazakh": [
+                    "өздүк түзету"
+                ],
+                "Kyrgyz": [
+                    "өзүн-өзү оңдоо"
+                ],
+                "Karakalpak": [
+                    "ózdіgіnen túzetіu"
+                ],
+                "Tatar": [
+                    "үзтөзәтү"
+                ],
+                "Bashkir": [
+                    "үҙтөҙәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avto-düzəliş"
+                ],
+                "Turkmen": [
+                    "awtodüzediş"
+                ],
+                "Uzbek": [
+                    "avtotuzatish"
+                ],
+                "Kazakh": [
+                    "автотүзету"
+                ],
+                "Kyrgyz": [
+                    "автотүзөтүү"
+                ],
+                "Karakalpak": [
+                    "awtotúzetіu"
+                ],
+                "Tatar": [
+                    "автотөзәтү"
+                ],
+                "Bashkir": [
+                    "автотөҙәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otomatik düzeltme",
+                    "otomatik imla düzeltme"
+                ],
+                "Azerbaijani": [
+                    "avtomatik düzəliş"
+                ],
+                "Turkmen": [
+                    "awtomatik düzediş"
+                ],
+                "Uyghur": [
+                    "ئاپتوماتىك تۈزەتكۈچ"
+                ],
+                "Tatar": [
+                    "автоматик төзәтү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ката оңдоочу"
+                ],
+                "Karakalpak": [
+                    "qatelerdі awtomattı túzetіu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazım düzeltici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "imlo tuzatuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мәтінді автоматты түзету"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хата төҙәтеүсе"
+                ]
+            }
+        }
+    ]
+}

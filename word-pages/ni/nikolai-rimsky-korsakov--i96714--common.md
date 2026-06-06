@@ -1,0 +1,78 @@
+# Nikolai rimsky-korsakov
+| Field | Detail |
+|---|---|
+| **ID** | i96714 |
+| **English** | nikolai rimsky-korsakov |
+| **Type** | noun |
+| **Definition** | Russian composer of operas and orchestral works; often used themes from folk music (1844-1908) |
+| **Source** | common |
+| **Ortatil** | rimiskiy-korsäکof |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| رىمىسكىي-كورساکوف | rimiskiy-korsaکof |
+
+```json
+{
+    "id": "i96714",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nikolai rimsky-korsakov",
+    "en_definition": "Russian composer of operas and orchestral works; often used themes from folk music (1844-1908)",
+    "tr_word": "Nikolay Rimski-Korsakov",
+    "tr_definition": "Operaları ve orkestra eserleriyle tanınan, sıkça halk müziği temalarını kullanan Rus besteci (1844-1908).",
+    "ru_word": "Николай Римский-Корсаков",
+    "ru_definition": "Русский композитор, автор опер и оркестровых произведений; часто использовал темы народной музыки (1844-1908).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Nikolay Rimski-Korsakov"
+                ],
+                "Azerbaijani": [
+                    "Nikolay Rimski-Korsakov"
+                ],
+                "Turkmen": [
+                    "Nikolaý Rimskiý-Korsakow"
+                ],
+                "Uzbek": [
+                    "Nikolay Rimskiy-Korsakov"
+                ],
+                "Uyghur": [
+                    "نىكولاي رىمىسكىي-كورساکوف"
+                ],
+                "Kazakh": [
+                    "Николай Римский-Корсаков"
+                ],
+                "Kyrgyz": [
+                    "Николай Римский-Корсаков"
+                ],
+                "Karakalpak": [
+                    "Nikolay Rimskiy-Korsakow"
+                ],
+                "Tatar": [
+                    "Николай Римский-Корсаков"
+                ],
+                "Bashkir": [
+                    "Николай Римский-Корсаков"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رىمىسكىي-كورساکوف"
+                ]
+            }
+        }
+    ]
+}
+```
+

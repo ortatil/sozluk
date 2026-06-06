@@ -1,0 +1,90 @@
+{
+    "id": "i79011",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ice tea",
+    "en_definition": "strong tea served over ice",
+    "tr_word": "buzlu çay",
+    "tr_definition": "Buzla soğutulmuş ve genellikle limon veya meyve aromasıyla servis edilen çay.",
+    "ru_word": "чай со льдом",
+    "ru_definition": "Крепкий чай, подаваемый охлажденным с добавлением кубиков льда.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buzlu çay"
+                ],
+                "Azerbaijani": [
+                    "buzlu çay"
+                ],
+                "Turkmen": [
+                    "buzly çaý"
+                ],
+                "Uzbek": [
+                    "muzli choy"
+                ],
+                "Uyghur": [
+                    "مۇز چاي"
+                ],
+                "Kyrgyz": [
+                    "муздак чай",
+                    "муздатылган чай"
+                ],
+                "Karakalpak": [
+                    "mұzlı shay"
+                ],
+                "Tatar": [
+                    "бозлы чәй"
+                ],
+                "Bashkir": [
+                    "боҙло сәй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soğuk çay"
+                ],
+                "Azerbaijani": [
+                    "soyuq çay"
+                ],
+                "Turkmen": [
+                    "sowuk çaý"
+                ],
+                "Uzbek": [
+                    "sovuq choy"
+                ],
+                "Uyghur": [
+                    "سوغۇق چاي"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "салқын шай"
+                ],
+                "Karakalpak": [
+                    "salqın shay"
+                ],
+                "Tatar": [
+                    "салкын чәй"
+                ],
+                "Bashkir": [
+                    "һалҡын сәй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұздай шай"
+                ]
+            }
+        }
+    ]
+}

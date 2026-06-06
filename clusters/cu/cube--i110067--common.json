@@ -1,0 +1,111 @@
+{
+    "id": "i110067",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cube",
+    "en_definition": "a three-dimensional shape with six square or rectangular sides",
+    "tr_word": "küp",
+    "tr_definition": "altı karesel yüzü olan üç boyutlu geometrik şekil",
+    "ru_word": "куб",
+    "ru_definition": "правильный многогранник, каждая грань которого представляет собой квадрат",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küp"
+                ],
+                "Azerbaijani": [
+                    "kub"
+                ],
+                "Turkmen": [
+                    "kub",
+                    "kubik"
+                ],
+                "Uzbek": [
+                    "kub"
+                ],
+                "Uyghur": [
+                    "كۇب",
+                    "كۇب شەكىل"
+                ],
+                "Kazakh": [
+                    "куб"
+                ],
+                "Kyrgyz": [
+                    "куб",
+                    "кубик"
+                ],
+                "Karakalpak": [
+                    "kub"
+                ],
+                "Tatar": [
+                    "куб"
+                ],
+                "Bashkir": [
+                    "куб"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "altytarap"
+                ],
+                "Uzbek": [
+                    "oltiyoqlik"
+                ],
+                "Kyrgyz": [
+                    "алты кырдуу"
+                ],
+                "Karakalpak": [
+                    "altıjaq"
+                ],
+                "Tatar": [
+                    "алтыяк"
+                ],
+                "Bashkir": [
+                    "алтыяҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mükebbe"
+                ],
+                "Azerbaijani": [
+                    "mükəbbəb"
+                ],
+                "Uzbek": [
+                    "mukaab"
+                ],
+                "Uyghur": [
+                    "مۇكەئەپ"
+                ],
+                "Tatar": [
+                    "мөкәггаб"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "текше"
+                ],
+                "Karakalpak": [
+                    "tekshe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zar"
+                ]
+            }
+        }
+    ]
+}

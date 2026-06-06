@@ -1,0 +1,136 @@
+{
+    "id": "i29196",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "put to sleep",
+    "en_definition": "help someone go to bed",
+    "tr_word": "yatırmak",
+    "tr_definition": "birini uyuması için yatağa götürmek veya hazırlamak",
+    "ru_word": "укладывать спать",
+    "ru_definition": "помочь кому-либо лечь в постель и подготовиться ко сну",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yatırmak"
+                ],
+                "Azerbaijani": [
+                    "yatırtmaq"
+                ],
+                "Turkmen": [
+                    "ýatyrmak"
+                ],
+                "Uzbek": [
+                    "yotqizmoq"
+                ],
+                "Uyghur": [
+                    "ياتقۇزماق"
+                ],
+                "Kazakh": [
+                    "жатқызу"
+                ],
+                "Kyrgyz": [
+                    "жаткыруу"
+                ],
+                "Karakalpak": [
+                    "jatkızıu"
+                ],
+                "Tatar": [
+                    "яткырырга"
+                ],
+                "Bashkir": [
+                    "ятҡырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uyutmak",
+                    "uykuya daldırmak"
+                ],
+                "Turkmen": [
+                    "ukuda goýmak"
+                ],
+                "Uzbek": [
+                    "uyquga yubormoq"
+                ],
+                "Kazakh": [
+                    "ұйықтату"
+                ],
+                "Karakalpak": [
+                    "uyıklatıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uklatmak"
+                ],
+                "Uzbek": [
+                    "uxlatmoq"
+                ],
+                "Uyghur": [
+                    "ئۇخلاتماق"
+                ],
+                "Kyrgyz": [
+                    "уктатуу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yuxuya vermək",
+                    "yuxuya getirmək"
+                ],
+                "Tatar": [
+                    "йоклатырга",
+                    "йокыга талдырырга"
+                ],
+                "Bashkir": [
+                    "йоҡлатыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бесікке салу"
+                ],
+                "Kyrgyz": [
+                    "бешикке салуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tınshıtıu"
+                ],
+                "Bashkir": [
+                    "тынысландырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئارامغا سالماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тербету"
+                ]
+            }
+        }
+    ]
+}

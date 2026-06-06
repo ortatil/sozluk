@@ -1,0 +1,124 @@
+{
+    "id": "i18286",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "either",
+    "en_definition": "after a negative statement used as an intensive meaning something like `likewise' or `also'",
+    "tr_word": "de",
+    "tr_definition": "Olumsuz bir cümleden sonra gelen ve 'ayrıca' veya 'dahi' anlamını pekiştiren bağlaç.",
+    "ru_word": "тоже",
+    "ru_definition": "Используется в отрицательных предложениях для усиления значения 'также' или 'равным образом'.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "de",
+                    "da"
+                ],
+                "Azerbaijani": [
+                    "da",
+                    "də"
+                ],
+                "Turkmen": [
+                    "da",
+                    "de"
+                ],
+                "Kazakh": [
+                    "да",
+                    "де",
+                    "та",
+                    "те"
+                ],
+                "Kyrgyz": [
+                    "да"
+                ],
+                "Karakalpak": [
+                    "da",
+                    "de"
+                ],
+                "Tatar": [
+                    "да",
+                    "дә",
+                    "та",
+                    "тә"
+                ],
+                "Bashkir": [
+                    "да",
+                    "дә",
+                    "та",
+                    "тә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hem"
+                ],
+                "Uzbek": [
+                    "ham"
+                ],
+                "Uyghur": [
+                    "ھەم"
+                ],
+                "Karakalpak": [
+                    "hám"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shuningdek"
+                ],
+                "Karakalpak": [
+                    "sonday-aq"
+                ],
+                "Bashkir": [
+                    "шулай уҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dahi"
+                ],
+                "Kyrgyz": [
+                    "дагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "деле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bile"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həmçinin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇ"
+                ]
+            }
+        }
+    ]
+}

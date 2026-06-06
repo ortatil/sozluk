@@ -1,0 +1,155 @@
+{
+    "id": "i8363",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "movable",
+    "en_definition": "capable of being moved or conveyed from one place to another",
+    "tr_word": "taşınabilir",
+    "tr_definition": "bir yerden başka bir yere götürülebilen veya hareket ettirilebilen",
+    "ru_word": "передвижной",
+    "ru_definition": "способный перемещаться или быть перемещенным с одного места на другое",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "göçme",
+                    "göçürilýän"
+                ],
+                "Uzbek": [
+                    "koʻchar",
+                    "qoʻzgʻaluvchan"
+                ],
+                "Uyghur": [
+                    "كۆچمە"
+                ],
+                "Kazakh": [
+                    "көшпелі"
+                ],
+                "Kyrgyz": [
+                    "көчмө",
+                    "көчүрүлүүчү"
+                ],
+                "Karakalpak": [
+                    "kóshpeli"
+                ],
+                "Tatar": [
+                    "күчмә",
+                    "күчерелә торган",
+                    "күчерешле"
+                ],
+                "Bashkir": [
+                    "күсмә",
+                    "күсерелә торған",
+                    "күсеп йөрөүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hareketli"
+                ],
+                "Azerbaijani": [
+                    "hərəkətli"
+                ],
+                "Turkmen": [
+                    "hereketli"
+                ],
+                "Uzbek": [
+                    "harakatlanuvchi"
+                ],
+                "Uyghur": [
+                    "ھەرىكەتچان"
+                ],
+                "Tatar": [
+                    "хәрәкәтле"
+                ],
+                "Bashkir": [
+                    "хәрәкәтле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жылжымалы"
+                ],
+                "Kyrgyz": [
+                    "жылдырылма"
+                ],
+                "Karakalpak": [
+                    "jıljımalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taşınabilir"
+                ],
+                "Azerbaijani": [
+                    "daşınan",
+                    "daşına bilən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müteharrik"
+                ],
+                "Azerbaijani": [
+                    "mütəhərrik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қозғалмалы"
+                ],
+                "Karakalpak": [
+                    "qozǵalmalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seyyar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "janly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "naql"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۆتكىلىشچان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыймылдуу"
+                ]
+            }
+        }
+    ]
+}

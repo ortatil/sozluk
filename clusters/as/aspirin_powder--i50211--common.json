@@ -1,0 +1,78 @@
+{
+    "id": "i50211",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "aspirin powder",
+    "en_definition": "a powdered form of aspirin",
+    "tr_word": "toz aspirin",
+    "tr_definition": "aspirinin toz haline getirilmiş formu",
+    "ru_word": "порошок аспирина",
+    "ru_definition": "порошкообразная форма аспирина",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aspirin tozu"
+                ],
+                "Azerbaijani": [
+                    "aspirin tozu"
+                ],
+                "Turkmen": [
+                    "aspirin tozy",
+                    "aspirin talgy"
+                ],
+                "Uzbek": [
+                    "aspirin kukuni",
+                    "aspirin talqoni"
+                ],
+                "Uyghur": [
+                    "ئاسپىرىن تالقىنى"
+                ],
+                "Kazakh": [
+                    "аспирин ұнтағы"
+                ],
+                "Kyrgyz": [
+                    "аспирин күкүмү"
+                ],
+                "Karakalpak": [
+                    "aspirin upası",
+                    "aspirin talqanı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "toz aspirin"
+                ],
+                "Azerbaijani": [
+                    "toz aspirin"
+                ],
+                "Uyghur": [
+                    "ئاسپىرىن پاراشوكى"
+                ],
+                "Kyrgyz": [
+                    "аспирин порошогу"
+                ],
+                "Tatar": [
+                    "аспирин порошогы",
+                    "аспирин оны",
+                    "аспирин тузаны"
+                ],
+                "Bashkir": [
+                    "аспирин оно",
+                    "аспирин порошогы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәрі ұнтағы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "id": "i68016",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "foreground",
+    "en_definition": "the part of a scene that is near the viewer",
+    "tr_word": "ön plan",
+    "tr_definition": "bir manzaranın veya resmin izleyiciye en yakın olan bölümü",
+    "ru_word": "передний план",
+    "ru_definition": "часть изображения или сцены, расположенная ближе всего к зрителю",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "old",
+                    "oldin",
+                    "oldingi reja"
+                ],
+                "Uyghur": [
+                    "ئالدى كۆرۈنۈش",
+                    "ئالدى تەرەپ",
+                    "ئالدىنقى پىلان"
+                ],
+                "Kazakh": [
+                    "алдыңғы көрініс",
+                    "алдыңғы жақ",
+                    "алдыңғы қатар",
+                    "алдыңғы план"
+                ],
+                "Kyrgyz": [
+                    "алдыңкы план",
+                    "алдыңкы көрүнүш",
+                    "алдыңкы тарап"
+                ],
+                "Karakalpak": [
+                    "aldıńǵı plan",
+                    "aldıńǵı kórinis",
+                    "aldı"
+                ],
+                "Tatar": [
+                    "алгы план",
+                    "алгы як",
+                    "ал"
+                ],
+                "Bashkir": [
+                    "алғы план",
+                    "алғы яҡ",
+                    "ал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ön plan",
+                    "ön taraf",
+                    "ön görünüm"
+                ],
+                "Azerbaijani": [
+                    "ön plan",
+                    "ön tərəf"
+                ],
+                "Turkmen": [
+                    "öň tarap",
+                    "öňki meýdan",
+                    "öňki plan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabaq tərəf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öň"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "peshgoh"
+                ]
+            }
+        }
+    ]
+}

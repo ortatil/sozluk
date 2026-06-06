@@ -1,0 +1,65 @@
+{
+    "id": "i16949",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "viennese",
+    "en_definition": "of or relating to or characteristic of Vienna or its inhabitants",
+    "tr_word": "Viyanalı",
+    "tr_definition": "Viyana şehriyle veya sakinleriyle ilgili olan veya onlara özgü olan",
+    "ru_word": "венский",
+    "ru_definition": "относящийся к Вене, её жителям или характерный для них",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Viyanalı",
+                    "Viyana'ya özgü",
+                    "Viyana usulü"
+                ],
+                "Azerbaijani": [
+                    "Vyana",
+                    "Vyanalı",
+                    "Vyana aid"
+                ],
+                "Uzbek": [
+                    "Vena",
+                    "Venaga oid",
+                    "Venalik"
+                ],
+                "Uyghur": [
+                    "ۋېناغا ئائىت",
+                    "ۋېنالىق"
+                ],
+                "Kazakh": [
+                    "Веналық",
+                    "Венаға тән"
+                ],
+                "Kyrgyz": [
+                    "Веналык",
+                    "Венага таандык"
+                ],
+                "Karakalpak": [
+                    "Wenalıq",
+                    "Wenaǵa tán"
+                ],
+                "Tatar": [
+                    "Вена",
+                    "Венаныкы"
+                ],
+                "Bashkir": [
+                    "Вена",
+                    "Венаныҡы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Wena",
+                    "Wena degişli"
+                ]
+            }
+        }
+    ]
+}

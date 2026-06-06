@@ -1,0 +1,106 @@
+{
+    "id": "i80941",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "traffic court",
+    "en_definition": "a court that has power to prosecute for traffic offenses",
+    "tr_word": "trafik mahkemesi",
+    "tr_definition": "trafik suçlarını kovuşturma yetkisine sahip mahkeme",
+    "ru_word": "суд по дорожным правонарушениям",
+    "ru_definition": "суд, обладающий полномочиями преследовать за нарушения правил дорожного движения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yol məhkəməsi",
+                    "yol hərəkəti işləri üzrə məhkəmə"
+                ],
+                "Turkmen": [
+                    "ýol kazyýeti",
+                    "ýol hereketiniň kazyýeti"
+                ],
+                "Uzbek": [
+                    "yo'l harakati sudi",
+                    "yo'l sudi"
+                ],
+                "Kazakh": [
+                    "жол соты"
+                ],
+                "Kyrgyz": [
+                    "жол соту"
+                ],
+                "Karakalpak": [
+                    "jol hareketi sudı"
+                ],
+                "Tatar": [
+                    "юл суды"
+                ],
+                "Bashkir": [
+                    "юл суды"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýol düzgünlerini bozmalary seljerýän kazyýet"
+                ],
+                "Kazakh": [
+                    "жол ережесін бұзу соты"
+                ],
+                "Kyrgyz": [
+                    "жол эрежесин бузуу соту"
+                ],
+                "Karakalpak": [
+                    "jol qaǵıydaların buzıo isleri boyınsha sud"
+                ],
+                "Tatar": [
+                    "юл кагыйдәләрен бозу суды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәрәкәт суды"
+                ],
+                "Bashkir": [
+                    "хәрәкәт суды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "trafik mahkemesi",
+                    "trafik ceza mahkemesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəqliyyat məhkəməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاتناش سوت مەھكىمىسى",
+                    "قاتناش مەھكىمىسى",
+                    "قاتناش سوتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қозғалыс соты"
+                ]
+            }
+        }
+    ]
+}

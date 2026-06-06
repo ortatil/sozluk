@@ -1,0 +1,110 @@
+{
+    "id": "i82440",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ski resort",
+    "en_definition": "a resort with lodging and facilities for skiing",
+    "tr_word": "kayak merkezi",
+    "tr_definition": "konaklama imkanları ve kayak tesisleri bulunan tatil yeri",
+    "ru_word": "горнолыжный курорт",
+    "ru_definition": "курорт с жильем и удобствами для катания на лыжах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "changʻi kurorti",
+                    "changʻi maskani",
+                    "changʻi oromgohi"
+                ],
+                "Kazakh": [
+                    "шаңғы базасы",
+                    "шаңғы курорты"
+                ],
+                "Karakalpak": [
+                    "shańǵı kurortı",
+                    "shańǵı dem alıs ornı"
+                ],
+                "Tatar": [
+                    "чаңгы базасы",
+                    "чаңгы үзәге",
+                    "чаңгы ял йорты"
+                ],
+                "Bashkir": [
+                    "саңғы базаһы",
+                    "саңғы үҙәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тау шаңғысы кешені"
+                ],
+                "Karakalpak": [
+                    "tau-shańǵı bazası"
+                ],
+                "Bashkir": [
+                    "тау-саңғы комплексы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dağ-xizək kurortu"
+                ],
+                "Turkmen": [
+                    "dag-lyža merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lyža kurorty"
+                ],
+                "Kyrgyz": [
+                    "лыжа базасы",
+                    "лыжа борбору",
+                    "лыжа курорту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayak merkezi",
+                    "kayak tesisi",
+                    "kayak alanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xizək mərkəzi",
+                    "xizək kurortu",
+                    "xizəkçilik mərkəzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lyža merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قار تېيىلىش مەيدانى",
+                    "قار تېيىلىش ئارامگاھى",
+                    "قار تېيىلىش بازىسى"
+                ]
+            }
+        }
+    ]
+}

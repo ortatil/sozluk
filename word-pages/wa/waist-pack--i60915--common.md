@@ -1,0 +1,107 @@
+# Waist pack
+| Field | Detail |
+|---|---|
+| **ID** | i60915 |
+| **English** | waist pack |
+| **Type** | noun |
+| **Definition** | a small pouch (usually with a zipper) that attaches to a belt and is worn around the waist |
+| **Source** | common |
+| **Ortatil** | beldorbä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| белдорба | beldorba |
+| белқап | belqap |
+| белсөмке | belsömke |
+
+```json
+{
+    "id": "i60915",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "waist pack",
+    "en_definition": "a small pouch (usually with a zipper) that attaches to a belt and is worn around the waist",
+    "tr_word": "bel çantası",
+    "tr_definition": "bele takılan bir kemerle taşınan, genellikle fermuarlı küçük çanta",
+    "ru_word": "поясная сумка",
+    "ru_definition": "небольшая сумка (обычно на молнии), которая крепится к ремню и носится на талии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bel çantası"
+                ],
+                "Azerbaijani": [
+                    "bel çantası",
+                    "bel kisəsi"
+                ],
+                "Turkmen": [
+                    "bil haltajygy",
+                    "bil torbajygy"
+                ],
+                "Uzbek": [
+                    "bel xalta",
+                    "bel hamyon",
+                    "bel xaltacha"
+                ],
+                "Uyghur": [
+                    "بەل خالتىسى"
+                ],
+                "Kazakh": [
+                    "белдорба",
+                    "белқап",
+                    "белсөмке"
+                ],
+                "Kyrgyz": [
+                    "бел баштык",
+                    "бел кап",
+                    "бел куржун"
+                ],
+                "Karakalpak": [
+                    "belbau qalta",
+                    "bel qalta",
+                    "bel kise"
+                ],
+                "Tatar": [
+                    "бил капчыгы",
+                    "бил сумкасы"
+                ],
+                "Bashkir": [
+                    "бил сумкаһы",
+                    "бил янсығы",
+                    "бил ҡапсығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kemer çantası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "guşak haltasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بەل سومكىسى"
+                ]
+            }
+        }
+    ]
+}
+```
+

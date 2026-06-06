@@ -1,0 +1,82 @@
+{
+    "id": "i51814",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cheese cutter",
+    "en_definition": "a kitchen utensil (board or handle) with a wire for cutting cheese",
+    "tr_word": "peynir kesici",
+    "tr_definition": "Peyniri kesmek için tel kullanan, tahta veya saptan oluşan mutfak gereci.",
+    "ru_word": "сырорезка",
+    "ru_definition": "Кухонная принадлежность (доска или ручка) с проволокой для нарезки сыра.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "peynir kesici",
+                    "peynir teli",
+                    "peynir bıçağı"
+                ],
+                "Azerbaijani": [
+                    "pendir kəsən",
+                    "pendir doğrayan",
+                    "pendir bıçağı"
+                ],
+                "Turkmen": [
+                    "peýnir kesiji",
+                    "peýnir dograýjy"
+                ],
+                "Uyghur": [
+                    "پېننىر كەسكۈچ",
+                    "پېننىر كېسىش ئەسۋابى",
+                    "پېننىر تىلىش ئەسۋابى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "sır keskish",
+                    "sır turaǵısh"
+                ],
+                "Tatar": [
+                    "сыр кискеч"
+                ],
+                "Bashkir": [
+                    "сыр киҫкес",
+                    "сыр бысағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pishloq kesgich",
+                    "pishloq torgichi",
+                    "pishloq kesadigan asbob"
+                ],
+                "Kyrgyz": [
+                    "быштак кескич",
+                    "быштак кесүүчү курал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ірімшік кескіш",
+                    "ірімшік кесетін пышақ",
+                    "ірімшік кесетін сым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сыр пычагы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+# Oil change
+| Field | Detail |
+|---|---|
+| **ID** | i36805 |
+| **English** | oil change |
+| **Type** | noun |
+| **Definition** | replacing dirty oil with clean |
+| **Source** | common |
+| **Ortatil** | yağdayişma |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i36805",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oil change",
+    "en_definition": "replacing dirty oil with clean",
+    "tr_word": "yağ değişimi",
+    "tr_definition": "kirli yağın temiz yağ ile değiştirilmesi",
+    "ru_word": "замена масла",
+    "ru_definition": "замена грязного масла на чистое",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "moy almashtirish"
+                ],
+                "Kazakh": [
+                    "май ауыстыру",
+                    "май алмастыру",
+                    "май жаңарту"
+                ],
+                "Kyrgyz": [
+                    "май алмаштыруу",
+                    "майын алмаштыруу",
+                    "май жаңыртуу"
+                ],
+                "Karakalpak": [
+                    "may almastırıo",
+                    "mayın aoıstırıo"
+                ],
+                "Tatar": [
+                    "май алмаштыру"
+                ],
+                "Bashkir": [
+                    "май алмаштырыу",
+                    "май яңыртыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağ değişimi",
+                    "yağ değiştirme"
+                ],
+                "Azerbaijani": [
+                    "yağdəyişmə",
+                    "yağın dəyişdirilməsi",
+                    "yağ dəyişimi"
+                ],
+                "Turkmen": [
+                    "ýag çalşygy",
+                    "ýag çalşyrma",
+                    "ýagyny çalyşmak"
+                ],
+                "Uzbek": [
+                    "yog' almashtirish"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "moy yangilash"
+                ],
+                "Uyghur": [
+                    "ماي يېڭىلاش"
+                ],
+                "Karakalpak": [
+                    "mayın jańalao"
+                ],
+                "Tatar": [
+                    "май яңарту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماي ئالماشتۇرۇش"
+                ]
+            }
+        }
+    ]
+}
+```
+

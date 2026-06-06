@@ -1,0 +1,80 @@
+{
+    "id": "i64218",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "freedom to bear arms",
+    "en_definition": "a right guaranteed by the 2nd amendment to the US Constitution",
+    "tr_word": "silah taşıma özgürlüğü",
+    "tr_definition": "ABD Anayasası'nın 2. maddesi tarafından güvence altına alınan, bireylerin silah bulundurma ve taşıma hakkı.",
+    "ru_word": "право на ношение оружия",
+    "ru_definition": "право, гарантированное 2-й поправкой к Конституции США.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qurol koʻtarish huquqi",
+                    "qurol saqlash huquqi",
+                    "qurolga egalik qilish huquqi"
+                ],
+                "Uyghur": [
+                    "قوراللىنىش ھوقۇقى",
+                    "قورال ساقلاش ھوقۇقى",
+                    "قورال كۆتۈرۈش ئەركىنلىكى"
+                ],
+                "Kyrgyz": [
+                    "курал алып жүрүү укугу",
+                    "курал-жаракка болгон укук",
+                    "курал сактоо жана алып жүрүү эркиндиги"
+                ],
+                "Karakalpak": [
+                    "qural-jaraq alıp júrio huqıqı",
+                    "qural iyelenio erkinligi",
+                    "qural tutıo huqıqı"
+                ],
+                "Tatar": [
+                    "корал йөртү хокукы",
+                    "корал саклау хокукы",
+                    "корал иреге"
+                ],
+                "Bashkir": [
+                    "ҡорал йөрөтөү хоҡуғы",
+                    "ҡорал тотоу ирке",
+                    "ҡорал йөрөтөү ирке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "silah taşıma hakkı",
+                    "silahlanma hakkı",
+                    "silah bulundurma hakkı"
+                ],
+                "Azerbaijani": [
+                    "silah gəzdirmə hüququ",
+                    "silahlanma hüququ",
+                    "silah sahibi olmaq hüququ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýarag götermek hukugy",
+                    "ýarag saklamak hukugy",
+                    "ýaraglanmak hukugy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қару асыну құқығы",
+                    "қару ұстау еркіндігі",
+                    "қару иелену құқығы"
+                ]
+            }
+        }
+    ]
+}

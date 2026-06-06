@@ -1,0 +1,134 @@
+{
+    "id": "i89049",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coauthor",
+    "en_definition": "a writer who collaborates with others in writing something",
+    "tr_word": "ortak yazar",
+    "tr_definition": "Bir eseri başkalarıyla birlikte kaleme alan yazar.",
+    "ru_word": "соавтор",
+    "ru_definition": "Лицо, которое пишет какое-либо произведение совместно с кем-либо другим.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "awtorlaş"
+                ],
+                "Kazakh": [
+                    "авторлас"
+                ],
+                "Kyrgyz": [
+                    "авторлош"
+                ],
+                "Karakalpak": [
+                    "awtorlas"
+                ],
+                "Tatar": [
+                    "автордаш",
+                    "автордаш язучы"
+                ],
+                "Bashkir": [
+                    "авторҙаш",
+                    "авторлыҡташ",
+                    "авторлыҡтағы иптәш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həmmüəllif"
+                ],
+                "Turkmen": [
+                    "hem-awtor"
+                ],
+                "Uzbek": [
+                    "hammuallif",
+                    "hamqalam"
+                ],
+                "Uyghur": [
+                    "ھەممۇئەللىپ",
+                    "ھەمكارلاشقۇچى يازغۇچى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бірлескен автор"
+                ],
+                "Kyrgyz": [
+                    "биргелешкен автор"
+                ],
+                "Karakalpak": [
+                    "birgelesken awtor"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қаламдас"
+                ],
+                "Kyrgyz": [
+                    "калемдеш"
+                ],
+                "Karakalpak": [
+                    "qalamlas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ortak yazar"
+                ],
+                "Azerbaijani": [
+                    "ortaq müəllif"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sherik muallif"
+                ],
+                "Uyghur": [
+                    "شېرىك ئاپتور"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yardımcı yazar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müellif ortağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "işdeş awtor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хезмәттәш"
+                ]
+            }
+        }
+    ]
+}

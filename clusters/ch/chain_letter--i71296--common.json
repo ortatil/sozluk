@@ -1,0 +1,113 @@
+{
+    "id": "i71296",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chain letter",
+    "en_definition": "a letter that is sent successively to several people",
+    "tr_word": "zincirleme mektup",
+    "tr_definition": "Birbirini takip eden birçok kişiye gönderilen ve her alıcının da başkalarına göndermesi beklenen mektup.",
+    "ru_word": "письмо счастья",
+    "ru_definition": "Письмо, которое последовательно рассылается нескольким людям, часто с просьбой переслать его дальше.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zincirleme mektup",
+                    "zincir mektup"
+                ],
+                "Azerbaijani": [
+                    "zəncirvari məktub",
+                    "zəncir məktubu"
+                ],
+                "Turkmen": [
+                    "zynjyrly hat"
+                ],
+                "Uzbek": [
+                    "zanjir xat"
+                ],
+                "Uyghur": [
+                    "زەنجىرسىمان خەت"
+                ],
+                "Kyrgyz": [
+                    "чынжыр кат"
+                ],
+                "Bashkir": [
+                    "сынйырлы хат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "silsila xat"
+                ],
+                "Karakalpak": [
+                    "silsila xat"
+                ],
+                "Tatar": [
+                    "сәлам хаты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тізбекті хат",
+                    "тізбек хат"
+                ],
+                "Kyrgyz": [
+                    "тизмек кат"
+                ],
+                "Karakalpak": [
+                    "tіzbektі xat",
+                    "tіzbek xat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dowamly hat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئارقا-ئارقىدىن ئەۋەتىلىدىغان خەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалғаспалы хат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "улама кат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чылбырлы хат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "эҙмә-эҙлекле хат"
+                ]
+            }
+        }
+    ]
+}

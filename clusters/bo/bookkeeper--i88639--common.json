@@ -1,0 +1,114 @@
+{
+    "id": "i88639",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bookkeeper",
+    "en_definition": "someone who records the transactions of a business",
+    "tr_word": "muhasebeci",
+    "tr_definition": "bir işletmenin ticari işlemlerini kaydeden kişi",
+    "ru_word": "бухгалтер",
+    "ru_definition": "человек, который ведет учет финансовых операций предприятия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesap memuru"
+                ],
+                "Azerbaijani": [
+                    "hesabdar"
+                ],
+                "Turkmen": [
+                    "hasapçy",
+                    "hasapdar",
+                    "hasap ýörediji"
+                ],
+                "Uzbek": [
+                    "hisobchi"
+                ],
+                "Uyghur": [
+                    "ھېساباتچى",
+                    "ھېسابچى"
+                ],
+                "Karakalpak": [
+                    "esapdar"
+                ],
+                "Tatar": [
+                    "хисапчы",
+                    "хисап алып баручы"
+                ],
+                "Bashkir": [
+                    "хисапсы",
+                    "хисап башҡарыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhasebeci"
+                ],
+                "Azerbaijani": [
+                    "mühasib"
+                ],
+                "Uzbek": [
+                    "muhosib"
+                ],
+                "Uyghur": [
+                    "مۇھاسىب"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "defterdar"
+                ],
+                "Uzbek": [
+                    "daftardor"
+                ],
+                "Tatar": [
+                    "дәфтәрдар"
+                ],
+                "Bashkir": [
+                    "дәфтәр йөрөтөүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "есепші",
+                    "есеп жүргізуші"
+                ],
+                "Kyrgyz": [
+                    "эсепчи",
+                    "эсеп жүргүзүүчү"
+                ],
+                "Karakalpak": [
+                    "esapshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хатшы"
+                ],
+                "Karakalpak": [
+                    "xatker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "катчы"
+                ]
+            }
+        }
+    ]
+}

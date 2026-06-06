@@ -1,0 +1,75 @@
+{
+    "id": "i11151",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "horny",
+    "en_definition": "having horns or hornlike projections",
+    "tr_word": "boynuzlu",
+    "tr_definition": "boynuzları olan veya boynuz benzeri çıkıntılara sahip olan",
+    "ru_word": "рогатый",
+    "ru_definition": "имеющий рога или роговидные выступы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "مۈڭگۈزلۈك",
+                    "مۈڭگۈزسىمان"
+                ],
+                "Kyrgyz": [
+                    "мүйүздүү",
+                    "мүйүз сымал",
+                    "мүйүзчөлүү"
+                ],
+                "Bashkir": [
+                    "мөгөҙлө",
+                    "мөгөҙбикә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мүйізді",
+                    "мүйізшелі",
+                    "мүйіз тектес"
+                ],
+                "Karakalpak": [
+                    "múyizli",
+                    "múyizdar"
+                ],
+                "Tatar": [
+                    "мөгезле",
+                    "мөгезле-сөякле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boynuzlu",
+                    "boynuzsu",
+                    "boynuzumsu"
+                ],
+                "Azerbaijani": [
+                    "buynuzlu",
+                    "buynuzvari",
+                    "buynuzşəkilli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şahly",
+                    "şahlyja"
+                ],
+                "Uzbek": [
+                    "shoxli",
+                    "shoxdor"
+                ]
+            }
+        }
+    ]
+}

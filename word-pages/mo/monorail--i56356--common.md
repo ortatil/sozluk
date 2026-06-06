@@ -1,0 +1,117 @@
+# Monorail
+| Field | Detail |
+|---|---|
+| **ID** | i56356 |
+| **English** | monorail |
+| **Type** | noun |
+| **Definition** | a railway having a single track |
+| **Source** | common |
+| **Ortatil** | mänärels |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i56356",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "monorail",
+    "en_definition": "a railway having a single track",
+    "tr_word": "monoray",
+    "tr_definition": "tek bir raydan oluşan demiryolu sistemi",
+    "ru_word": "монорельс",
+    "ru_definition": "железная дорога с одним рельсом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "birrelsli ýol"
+                ],
+                "Uzbek": [
+                    "bir relsli yoʻl"
+                ],
+                "Uyghur": [
+                    "بىر رېلىسلىق تۆمۈر يول"
+                ],
+                "Kazakh": [
+                    "біррельсті жол",
+                    "біррельсті теміржол"
+                ],
+                "Kyrgyz": [
+                    "бир рельстүү жол"
+                ],
+                "Karakalpak": [
+                    "bir relsli jol"
+                ],
+                "Tatar": [
+                    "беррельслы юл",
+                    "бер юллы тимер юл"
+                ],
+                "Bashkir": [
+                    "бер рельслы юл",
+                    "бер юллы тимер юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tek raylı demiryolu"
+                ],
+                "Azerbaijani": [
+                    "təkrelsli yol"
+                ],
+                "Uyghur": [
+                    "تاق رېلىسلىق پويىز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "monorels"
+                ],
+                "Uzbek": [
+                    "monorels"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жалгыз рельстүү жол"
+                ],
+                "Karakalpak": [
+                    "jalǵız relsli jol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havaray"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýeke-relsli demir ýol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дара жол"
+                ]
+            }
+        }
+    ]
+}
+```
+

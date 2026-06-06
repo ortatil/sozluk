@@ -1,0 +1,70 @@
+{
+    "id": "i82648",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "albania",
+    "en_definition": "a republic in southeastern Europe on the Adriatic coast of the Balkan Peninsula",
+    "tr_word": "Arnavutluk",
+    "tr_definition": "Balkan Yarımadası'nın Adriyatik kıyısında, Güneydoğu Avrupa'da yer alan bir cumhuriyet",
+    "ru_word": "Албания",
+    "ru_definition": "республика в Юго-Восточной Европе на Адриатическом побережье Балканского полуострова",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Albaniya",
+                    "Albaniya Respublikası"
+                ],
+                "Turkmen": [
+                    "Albaniýa"
+                ],
+                "Uzbek": [
+                    "Albaniya"
+                ],
+                "Uyghur": [
+                    "ئالبانىيە",
+                    "ئالبانىيە جۇمھۇرىيىتى"
+                ],
+                "Kazakh": [
+                    "Албания",
+                    "Албан елі",
+                    "Албан Республикасы"
+                ],
+                "Kyrgyz": [
+                    "Албания",
+                    "Албан өлкөсү"
+                ],
+                "Karakalpak": [
+                    "Albaniya",
+                    "Albaniya Respublikası"
+                ],
+                "Tatar": [
+                    "Албания"
+                ],
+                "Bashkir": [
+                    "Албания",
+                    "Албания Республикаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Arnavutluk",
+                    "Arnavutluk Cumhuriyeti"
+                ],
+                "Turkmen": [
+                    "Arnowutlyk"
+                ],
+                "Uzbek": [
+                    "Arnavutlik"
+                ],
+                "Tatar": [
+                    "Арнавытлык"
+                ]
+            }
+        }
+    ]
+}

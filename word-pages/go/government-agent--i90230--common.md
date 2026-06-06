@@ -1,0 +1,228 @@
+# Government agent
+| Field | Detail |
+|---|---|
+| **ID** | i90230 |
+| **English** | government agent |
+| **Type** | noun |
+| **Definition** | a representative or official of a government or administrative department of a government |
+| **Source** | common |
+| **Ortatil** | mämur |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **uakil** | **kızmatker** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ❌ | ❌ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ❌ | ✅ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0 | 0 |
+| *Qarluq Subtotal* | 0 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.60 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **0.60** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مەمۇر | mämur |
+| **Kazakh** | |
+| уәкіл | uäkil |
+| шенеунік | şeneunik |
+| **Kyrgyz** | |
+| өкүл | ökül |
+| кызматкер | kızmatker |
+| аткаминер | atkaminer |
+| **Tatar** | |
+| хезмәткәр | xezmätkär |
+| мәгълүматчы | mäglümatçı |
+| **Bashkir** | |
+| вәкил | väkil |
+| агент | agent |
+
+```json
+{
+    "id": "i90230",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "government agent",
+    "en_definition": "a representative or official of a government or administrative department of a government",
+    "tr_word": "hükümet ajanı",
+    "tr_definition": "bir hükümetin veya bir hükümetin idari departmanının temsilcisi veya yetkilisi",
+    "ru_word": "правительственный агент",
+    "ru_definition": "представитель или должностное лицо правительства или административного ведомства правительства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hükümet görevlisi"
+                ],
+                "Azerbaijani": [
+                    "hökumət nümayəndəsi",
+                    "hökumət rəsmisi"
+                ],
+                "Turkmen": [
+                    "hökümet wekili",
+                    "hökümet işgäri"
+                ],
+                "Uzbek": [
+                    "hukumat vakili"
+                ],
+                "Uyghur": [
+                    "ھۆكۈمەت خادىمى",
+                    "ھۆكۈمەت ۋەكىلى"
+                ],
+                "Kazakh": [
+                    "үкімет өкілі"
+                ],
+                "Karakalpak": [
+                    "húkimet oákili"
+                ],
+                "Tatar": [
+                    "хөкүмәт вәкиле"
+                ],
+                "Bashkir": [
+                    "хөкүмәт вәкиле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "devlet memuru",
+                    "devlet temsilcisi"
+                ],
+                "Azerbaijani": [
+                    "dövlət məmuru",
+                    "dövlət nümayəndəsi"
+                ],
+                "Turkmen": [
+                    "döwlet wekili",
+                    "döwlet gullukçysy"
+                ],
+                "Uzbek": [
+                    "davlat vakili",
+                    "davlat xizmatchisi"
+                ],
+                "Uyghur": [
+                    "دۆلەت خادىمى"
+                ],
+                "Tatar": [
+                    "дәүләт вәкиле"
+                ],
+                "Bashkir": [
+                    "дәүләт хеҙмәткәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ma'mur"
+                ],
+                "Uyghur": [
+                    "مەمۇر"
+                ],
+                "Kazakh": [
+                    "мемлекеттік қызметкер"
+                ],
+                "Kyrgyz": [
+                    "мамлекеттик кызматкер"
+                ],
+                "Karakalpak": [
+                    "mámleketlik xızmetker",
+                    "mámleketlik oákil"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "уәкіл"
+                ],
+                "Kyrgyz": [
+                    "өкүл"
+                ],
+                "Bashkir": [
+                    "вәкил"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "кызматкер"
+                ],
+                "Karakalpak": [
+                    "xızmetker"
+                ],
+                "Tatar": [
+                    "хезмәткәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kamu görevlisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "resmi görevli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шенеунік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аткаминер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өкмөт өкүлү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәгълүматчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "агент"
+                ]
+            }
+        }
+    ]
+}
+```
+

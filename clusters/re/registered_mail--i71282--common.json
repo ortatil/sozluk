@@ -1,0 +1,135 @@
+{
+    "id": "i71282",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "registered mail",
+    "en_definition": "mail that is registered by the post office when sent in order to assure safe delivery",
+    "tr_word": "taahhütlü mektup",
+    "tr_definition": "Gönderilmesi ve alıcısına ulaştırılması posta idaresinin güvencesi altında olan, kaybolması durumunda tazminat ödenen posta gönderisi.",
+    "ru_word": "заказное письмо",
+    "ru_definition": "Почтовое отправление, принимаемое с выдачей отправителю квитанции и вручаемое адресату под расписку для обеспечения сохранности.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kayıtlı posta"
+                ],
+                "Azerbaijani": [
+                    "qeydiyyatlı poçt"
+                ],
+                "Uzbek": [
+                    "qayd etilgan xat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "buýurma hat"
+                ],
+                "Uzbek": [
+                    "buyurtma xat"
+                ],
+                "Kyrgyz": [
+                    "буйрутма кат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тіркелген хат"
+                ],
+                "Tatar": [
+                    "теркәлгән хат"
+                ],
+                "Bashkir": [
+                    "теркәлгән хат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тапсырыс хат",
+                    "тапсырысты хат"
+                ],
+                "Kyrgyz": [
+                    "тапшырылма кат"
+                ],
+                "Karakalpak": [
+                    "tapsırıs xat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تىزىملاتقان خەت",
+                    "تىزىملانغان خەت"
+                ],
+                "Karakalpak": [
+                    "dizimge alınǵan xat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "заказлы хат"
+                ],
+                "Bashkir": [
+                    "заказлы хат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taahhütlü posta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sifarişli məktub",
+                    "sifarişli poçt göndərişi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hasaba alnan hat",
+                    "hasaba alnan poçta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "roʻyxatga olingan xat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئامانەت خەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "катталган кат"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "id": "i8967",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "off-street",
+    "en_definition": "not on the streets",
+    "tr_word": "cadde dışı",
+    "tr_definition": "sokak veya cadde üzerinde olmayan, genellikle özel bir mülk veya otopark alanında bulunan",
+    "ru_word": "внеуличный",
+    "ru_definition": "расположенный не на проезжей части улицы, обычно на специально отведенной территории или парковке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "küçədənkənar"
+                ],
+                "Turkmen": [
+                    "köçeden daşary",
+                    "köçe däl"
+                ],
+                "Uzbek": [
+                    "koʻchadan tashqari",
+                    "koʻchadan chetda"
+                ],
+                "Uyghur": [
+                    "كوچىدىن سىرت",
+                    "كوچىدا بولمىغان"
+                ],
+                "Kazakh": [
+                    "көшеден тыс",
+                    "көшеден тысқары"
+                ],
+                "Kyrgyz": [
+                    "көчөдөн тышкары"
+                ],
+                "Karakalpak": [
+                    "kósheden tıs",
+                    "kósheden sırt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həyətdaxili"
+                ],
+                "Uzbek": [
+                    "hovli ichidagi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аула ішіндегі"
+                ],
+                "Karakalpak": [
+                    "aula іshіndegі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "урамнан тыш",
+                    "урамнан читтәге"
+                ],
+                "Bashkir": [
+                    "урамдан тыш",
+                    "урамда булмаған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sokak dışı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cadde dışı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yol dışı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qapalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howlydaky"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "içerki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يول سىرتىدىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "короо ичиндеги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тышкы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ишегалдындагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ихата эсендәге",
+                    "ихата эсендә"
+                ]
+            }
+        }
+    ]
+}

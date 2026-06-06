@@ -1,0 +1,80 @@
+{
+    "id": "i80257",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "women's army corps",
+    "en_definition": "an army corps that was organized in World War II but is no longer a separate branch of the United States Army",
+    "tr_word": "Kadın Ordu Kolordusu",
+    "tr_definition": "İkinci Dünya Savaşı'nda kurulan ancak artık Amerika Birleşik Devletleri Ordusu'nun ayrı bir kolu olmayan kadın askeri birliği.",
+    "ru_word": "Женский армейский корпус",
+    "ru_definition": "Женское подразделение в составе армии США, сформированное во время Второй мировой войны и позже упраздненное как отдельная структура.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aýallar goşun bölümi"
+                ],
+                "Uzbek": [
+                    "ayollar harbiy korpusi",
+                    "ayollar lashkari",
+                    "ayollar qoʻshini"
+                ],
+                "Uyghur": [
+                    "ئاياللار قوشۇنى",
+                    "ئاياللار ھەربىي قىسمى",
+                    "ئاياللار ئەسكەرلەر بىرلىكى"
+                ],
+                "Kazakh": [
+                    "әйелдер әскери корпусы",
+                    "әйелдер әскері",
+                    "әйелдер қосыны"
+                ],
+                "Kyrgyz": [
+                    "аялдардын аскердик корпусу",
+                    "аялдардын аскердик бөлүгү",
+                    "аялдардын кошууну"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kadın ordu birliği",
+                    "kadın askerler kolu",
+                    "kadın yardımcı ordu birliği"
+                ],
+                "Azerbaijani": [
+                    "qadın ordu korpusu",
+                    "qadın hərbi korpusu",
+                    "qadın qoşun birləşməsi"
+                ],
+                "Bashkir": [
+                    "ҡатын-ҡыҙҙар хәрби корпусы",
+                    "ҡатын-ҡыҙҙар ғәскәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "hayal-qızlar áskeriy korpusı",
+                    "hayal-qızlar áskeriy bólimi"
+                ],
+                "Tatar": [
+                    "хатын-кызлар хәрби корпусы",
+                    "хатын-кызлар хәрби берәмлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zenanlar goşun korpusy",
+                    "zenan harby birleşmesi"
+                ]
+            }
+        }
+    ]
+}

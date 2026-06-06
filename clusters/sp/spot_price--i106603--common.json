@@ -1,0 +1,146 @@
+{
+    "id": "i106603",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spot price",
+    "en_definition": "the current delivery price of a commodity traded in the spot market",
+    "tr_word": "spot fiyat",
+    "tr_definition": "Bir malın piyasada o anki teslimatı için geçerli olan nakit fiyatı.",
+    "ru_word": "спотовая цена",
+    "ru_definition": "Текущая рыночная цена товара для немедленной оплаты и поставки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nağd qiymət"
+                ],
+                "Turkmen": [
+                    "nagt bahasy"
+                ],
+                "Uzbek": [
+                    "naqd narx"
+                ],
+                "Uyghur": [
+                    "نەق باھا",
+                    "نەق مال باھاسى"
+                ],
+                "Kazakh": [
+                    "нақты баға"
+                ],
+                "Kyrgyz": [
+                    "накта баа"
+                ],
+                "Karakalpak": [
+                    "naq baha",
+                    "náq baha"
+                ],
+                "Tatar": [
+                    "нәкъ бәя",
+                    "нәкъ акча",
+                    "нәкъләт бәясе"
+                ],
+                "Bashkir": [
+                    "нәҡтә хаҡ",
+                    "нәҡтә хаҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazır fiyat"
+                ],
+                "Turkmen": [
+                    "häzirki bahasy"
+                ],
+                "Uyghur": [
+                    "ھازىرقى باھا"
+                ],
+                "Tatar": [
+                    "хәзерге бәя"
+                ],
+                "Bashkir": [
+                    "хәҙерге хаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dərhal ödəniş qiyməti"
+                ],
+                "Turkmen": [
+                    "derrewki bahasy"
+                ],
+                "Uzbek": [
+                    "darhol toʻlov narxi"
+                ],
+                "Kyrgyz": [
+                    "дароо төлөнүүчү баа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cari fiyat"
+                ],
+                "Azerbaijani": [
+                    "cari qiymət"
+                ],
+                "Uzbek": [
+                    "joriy narx"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ағымдағы баға"
+                ],
+                "Karakalpak": [
+                    "aǵımdaǵı baha"
+                ],
+                "Bashkir": [
+                    "ағымдағы хаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қолма-қол баға"
+                ],
+                "Karakalpak": [
+                    "dálme-dál baha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "peşin fiyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "spot fiyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "учурдагы баа"
+                ]
+            }
+        }
+    ]
+}

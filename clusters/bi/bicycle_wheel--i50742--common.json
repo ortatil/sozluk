@@ -1,0 +1,103 @@
+{
+    "id": "i50742",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bicycle wheel",
+    "en_definition": "the wheel of a bicycle",
+    "tr_word": "bisiklet tekerleği",
+    "tr_definition": "bir bisikletin dönen tekerlek aksamı",
+    "ru_word": "велосипедное колесо",
+    "ru_definition": "колесо, предназначенное для использования в велосипеде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "velosiped çarxı",
+                    "velosiped təkəri"
+                ],
+                "Turkmen": [
+                    "welosiped tigiri"
+                ],
+                "Uzbek": [
+                    "velosiped g'ildiragi"
+                ],
+                "Uyghur": [
+                    "ۋېلىسپىت چاقى",
+                    "ۋېلىسپىت پاقىلى"
+                ],
+                "Kazakh": [
+                    "велосипед дөңгелегі"
+                ],
+                "Kyrgyz": [
+                    "велосипед дөңгөлөгү"
+                ],
+                "Karakalpak": [
+                    "welosiped dóńgelegi"
+                ],
+                "Tatar": [
+                    "велосипед тәгәрмәче"
+                ],
+                "Bashkir": [
+                    "велосипед тәгәрмәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çarh"
+                ],
+                "Uzbek": [
+                    "charx"
+                ],
+                "Kazakh": [
+                    "шарх"
+                ],
+                "Kyrgyz": [
+                    "чарх"
+                ],
+                "Karakalpak": [
+                    "sharx"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tigir"
+                ],
+                "Tatar": [
+                    "тәгәрмәч"
+                ],
+                "Bashkir": [
+                    "тәгәрмәс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дөңгелек"
+                ],
+                "Kyrgyz": [
+                    "дөңгөлөк"
+                ],
+                "Karakalpak": [
+                    "dóńgelek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bisiklet tekerleği",
+                    "bisiklet tekeri"
+                ]
+            }
+        }
+    ]
+}

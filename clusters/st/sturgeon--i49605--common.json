@@ -1,0 +1,97 @@
+{
+    "id": "i49605",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sturgeon",
+    "en_definition": "large primitive fishes valued for their flesh and roe; widely distributed in the North Temperate Zone",
+    "tr_word": "mersin balığı",
+    "tr_definition": "Eti ve havyarı için değerli olan, Kuzey Ilıman Kuşağı'nda yaygın olarak bulunan büyük ve ilkel bir balık türü.",
+    "ru_word": "осётр",
+    "ru_definition": "Крупная промысловая рыба с костными жучками на теле, ценящаяся за мясо и икру.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bekre",
+                    "bekre balygy"
+                ],
+                "Uyghur": [
+                    "بېكىر بېلىقى"
+                ],
+                "Kazakh": [
+                    "бекіре",
+                    "бекіре балық"
+                ],
+                "Kyrgyz": [
+                    "бекире",
+                    "бекире балык"
+                ],
+                "Karakalpak": [
+                    "bekire",
+                    "bekire balıǵı"
+                ],
+                "Tatar": [
+                    "бикре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nərə balığı"
+                ],
+                "Uzbek": [
+                    "bakra baliq"
+                ],
+                "Tatar": [
+                    "бикре балыгы"
+                ],
+                "Bashkir": [
+                    "бикре",
+                    "бикре балығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nərə"
+                ],
+                "Uyghur": [
+                    "نەرە بېلىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mersin balığı",
+                    "mersin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qızıl balıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oshyotr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toshbaliq"
+                ]
+            }
+        }
+    ]
+}

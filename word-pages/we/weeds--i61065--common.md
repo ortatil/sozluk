@@ -1,0 +1,140 @@
+# Weeds
+| Field | Detail |
+|---|---|
+| **ID** | i61065 |
+| **English** | weeds |
+| **Type** | noun |
+| **Definition** | a black garment (dress) worn by a widow as a sign of mourning |
+| **Source** | common |
+| **Ortatil** | kara |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| кара | kara |
+
+```json
+{
+    "id": "i61065",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "weeds",
+    "en_definition": "a black garment (dress) worn by a widow as a sign of mourning",
+    "tr_word": "yas giysisi",
+    "tr_definition": "bir dul kadının yas tuttuğunun işareti olarak giydiği siyah elbise",
+    "ru_word": "траурное платье",
+    "ru_definition": "черное платье, которое носит вдова в знак траура",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qara paltar"
+                ],
+                "Turkmen": [
+                    "gara geýim"
+                ],
+                "Uzbek": [
+                    "qora kiyim"
+                ],
+                "Uyghur": [
+                    "قارا كىيىم"
+                ],
+                "Kazakh": [
+                    "қара жамылғы",
+                    "қаралы киім"
+                ],
+                "Kyrgyz": [
+                    "кара кийим",
+                    "кара"
+                ],
+                "Karakalpak": [
+                    "qara kiyim"
+                ],
+                "Tatar": [
+                    "кара кием"
+                ],
+                "Bashkir": [
+                    "ҡара кейем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "matem giysisi"
+                ],
+                "Azerbaijani": [
+                    "matəm libası"
+                ],
+                "Turkmen": [
+                    "matam lybasy"
+                ],
+                "Uzbek": [
+                    "motam libosi"
+                ],
+                "Uyghur": [
+                    "ماتەم كىيىمى"
+                ],
+                "Karakalpak": [
+                    "matám kiyimi"
+                ],
+                "Tatar": [
+                    "матәм киеме",
+                    "матәм күлмәге"
+                ],
+                "Bashkir": [
+                    "матәм кейеме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yas elbisesi"
+                ],
+                "Turkmen": [
+                    "yas lybasy"
+                ],
+                "Uzbek": [
+                    "aza kiyimi"
+                ],
+                "Kazakh": [
+                    "аза киімі"
+                ],
+                "Kyrgyz": [
+                    "аза кийими"
+                ],
+                "Karakalpak": [
+                    "aza kiyimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yas kıyafeti"
+                ],
+                "Azerbaijani": [
+                    "yas paltarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئازادارلىق كىيىمى"
+                ]
+            }
+        }
+    ]
+}
+```
+

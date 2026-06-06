@@ -1,0 +1,105 @@
+# Oil well
+| Field | Detail |
+|---|---|
+| **ID** | i56723 |
+| **English** | oil well |
+| **Type** | noun |
+| **Definition** | a well that yields or has yielded oil |
+| **Source** | common |
+| **Ortatil** | quyu |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i56723",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oil well",
+    "en_definition": "a well that yields or has yielded oil",
+    "tr_word": "petrol kuyusu",
+    "tr_definition": "Petrol çıkarmak amacıyla açılan kuyu.",
+    "ru_word": "нефтяная скважина",
+    "ru_definition": "Горная выработка, предназначенная для добычи нефти.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağ kuyusu"
+                ],
+                "Uzbek": [
+                    "moy qudug'i"
+                ],
+                "Uyghur": [
+                    "ماي قۇدۇقى"
+                ],
+                "Kazakh": [
+                    "мұнай құдығы"
+                ],
+                "Kyrgyz": [
+                    "мунай кудугу",
+                    "мунай скважинасы",
+                    "мунай кени"
+                ],
+                "Karakalpak": [
+                    "mұnay qudıǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "neft quyusu"
+                ],
+                "Turkmen": [
+                    "nebit guýusy",
+                    "nebit çeşmesi"
+                ],
+                "Uzbek": [
+                    "neft qudug'i"
+                ],
+                "Uyghur": [
+                    "نېفىت قۇدۇقى"
+                ],
+                "Tatar": [
+                    "нефть коесы",
+                    "нефть скважинасы"
+                ],
+                "Bashkir": [
+                    "нефть ҡоҙоғо",
+                    "нефть скважинаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұнай ұңғымасы"
+                ],
+                "Karakalpak": [
+                    "mұnay shıńırauı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "petrol kuyusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "quyu"
+                ]
+            }
+        }
+    ]
+}
+```
+

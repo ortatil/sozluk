@@ -1,0 +1,172 @@
+# Dissolved
+| Field | Detail |
+|---|---|
+| **ID** | i8269 |
+| **English** | dissolved |
+| **Type** | adjective |
+| **Definition** | (of solid matter) reduced to a liquid form |
+| **Source** | common |
+| **Ortatil** | erigän |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **erigän** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئېرىگەن | erigän |
+| ئېرىتىلگەن | eritilgän |
+| **Kazakh** | |
+| ерітілген | yeritilgen |
+| еріген | yerigen |
+| ерінді | yerindi |
+| **Kyrgyz** | |
+| эриген | erigen |
+| эритилген | eritilgen |
+| аралашкан | aralaşkan |
+| **Tatar** | |
+| эрегән | eregän |
+| эретелгән | eretelgän |
+| **Bashkir** | |
+| ирегән | iregän |
+| иретелгән | iretelgän |
+| тарҡалған | tarqalğan |
+
+```json
+{
+    "id": "i8269",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "dissolved",
+    "en_definition": "(of solid matter) reduced to a liquid form",
+    "tr_word": "çözünmüş",
+    "tr_definition": "bir sıvı içerisinde eriyerek karışmış olan (katı madde)",
+    "ru_word": "растворенный",
+    "ru_definition": "находящийся в состоянии раствора, смешанный с жидкостью до однородности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "erimiş"
+                ],
+                "Azerbaijani": [
+                    "ərimiş"
+                ],
+                "Turkmen": [
+                    "erän",
+                    "eridilen"
+                ],
+                "Uzbek": [
+                    "erigan",
+                    "eritilgan"
+                ],
+                "Uyghur": [
+                    "ئېرىگەن",
+                    "ئېرىتىلگەن"
+                ],
+                "Kazakh": [
+                    "ерітілген"
+                ],
+                "Kyrgyz": [
+                    "эриген",
+                    "эритилген",
+                    "аралашкан"
+                ],
+                "Karakalpak": [
+                    "erigen",
+                    "eritilgen",
+                    "erіgen"
+                ],
+                "Tatar": [
+                    "эрегән",
+                    "эретелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həll olunmuş"
+                ],
+                "Uzbek": [
+                    "hal bo'lgan"
+                ],
+                "Uyghur": [
+                    "ھەل بولغان"
+                ],
+                "Tatar": [
+                    "хәл ителгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çözünmüş"
+                ],
+                "Turkmen": [
+                    "çözülen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mahlul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarışmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еріген",
+                    "ерінді"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ирегән",
+                    "иретелгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тарҡалған"
+                ]
+            }
+        }
+    ]
+}
+```
+

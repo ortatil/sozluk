@@ -1,0 +1,165 @@
+# Candied fruit
+| Field | Detail |
+|---|---|
+| **ID** | i76741 |
+| **English** | candied fruit |
+| **Type** | noun |
+| **Definition** | fruit cooked in sugar syrup and encrusted with a sugar crystals |
+| **Source** | common |
+| **Ortatil** | qant |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i76741",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "candied fruit",
+    "en_definition": "fruit cooked in sugar syrup and encrusted with a sugar crystals",
+    "tr_word": "meyve şekerlemesi",
+    "tr_definition": "Şeker şurubunda pişirilmiş ve şeker kristalleriyle kaplanmış meyve",
+    "ru_word": "цукаты",
+    "ru_definition": "плоды или ягоды, сваренные в сахарном сиропе и подсушенные",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şekerlenmiş meyve"
+                ],
+                "Azerbaijani": [
+                    "şəkərlənmiş meyvə"
+                ],
+                "Turkmen": [
+                    "şekerlenen miwe"
+                ],
+                "Uyghur": [
+                    "شېكەرلەنگەن مېۋە"
+                ],
+                "Tatar": [
+                    "шикәрләнгән җимеш"
+                ],
+                "Bashkir": [
+                    "шәкәрләнгән емеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyve şekerlemesi",
+                    "meyve tatlısı"
+                ],
+                "Azerbaijani": [
+                    "meyvə şirniyyatı",
+                    "meyvə qaxı"
+                ],
+                "Turkmen": [
+                    "miwe kaky"
+                ],
+                "Uyghur": [
+                    "مېۋە مۇرابباسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shirin meva"
+                ],
+                "Kazakh": [
+                    "шырынды жеміс"
+                ],
+                "Kyrgyz": [
+                    "ширелүү жемиш"
+                ],
+                "Karakalpak": [
+                    "shirinlik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qandlangan meva",
+                    "qand-meva"
+                ],
+                "Kazakh": [
+                    "қантталған жеміс"
+                ],
+                "Kyrgyz": [
+                    "кантталган жемиш"
+                ],
+                "Karakalpak": [
+                    "qantlanǵan miyue"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тәтті жеміс"
+                ],
+                "Kyrgyz": [
+                    "таттуу жемиш"
+                ],
+                "Tatar": [
+                    "татлы җимеш"
+                ],
+                "Bashkir": [
+                    "татлы емеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nabatlanan miwe"
+                ],
+                "Karakalpak": [
+                    "nabatlanǵan miyue"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кайнатма җимеш"
+                ],
+                "Bashkir": [
+                    "ҡаҡланған емеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sukat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "murabbo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇرۇق مۇراببا"
+                ]
+            }
+        }
+    ]
+}
+```
+

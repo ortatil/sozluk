@@ -1,0 +1,110 @@
+{
+    "id": "i19908",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "monthly",
+    "en_definition": "occurring once a month",
+    "tr_word": "ayda bir",
+    "tr_definition": "ayda bir kez gerçekleşen",
+    "ru_word": "ежемесячно",
+    "ru_definition": "один раз в месяц",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aylık"
+                ],
+                "Azerbaijani": [
+                    "aylıq"
+                ],
+                "Uyghur": [
+                    "ئايلىق"
+                ],
+                "Kazakh": [
+                    "айлық"
+                ],
+                "Kyrgyz": [
+                    "айлык"
+                ],
+                "Karakalpak": [
+                    "aylıq"
+                ],
+                "Tatar": [
+                    "айлык"
+                ],
+                "Bashkir": [
+                    "айлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "her ay"
+                ],
+                "Azerbaijani": [
+                    "hər ay"
+                ],
+                "Turkmen": [
+                    "her aý"
+                ],
+                "Uzbek": [
+                    "har oy"
+                ],
+                "Uyghur": [
+                    "ھەر ئاي"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ай сайын"
+                ],
+                "Kyrgyz": [
+                    "ай сайын"
+                ],
+                "Karakalpak": [
+                    "ay sayın"
+                ],
+                "Tatar": [
+                    "ай саен"
+                ],
+                "Bashkir": [
+                    "ай һайын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayda bir"
+                ],
+                "Uzbek": [
+                    "oyda bir"
+                ],
+                "Uyghur": [
+                    "ئايدا بىر"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aybaay"
+                ],
+                "Turkmen": [
+                    "aýba-aý"
+                ],
+                "Uzbek": [
+                    "oyma-oy"
+                ]
+            }
+        }
+    ]
+}

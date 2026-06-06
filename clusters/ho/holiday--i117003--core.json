@@ -1,0 +1,142 @@
+{
+    "id": "i117003",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "holiday",
+    "en_definition": "a day on which work is suspended by law or custom",
+    "tr_word": "tatil",
+    "tr_definition": "çalışmaya ara verilen, dinlenmek için ayrılan gün",
+    "ru_word": "праздник",
+    "ru_definition": "день торжества, установленный в честь или в память о ком-либо, чём-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bayram"
+                ],
+                "Azerbaijani": [
+                    "bayram"
+                ],
+                "Turkmen": [
+                    "baýram",
+                    "baýramçylyk"
+                ],
+                "Uzbek": [
+                    "bayram"
+                ],
+                "Uyghur": [
+                    "بايرام"
+                ],
+                "Kazakh": [
+                    "мейрам"
+                ],
+                "Kyrgyz": [
+                    "майрам"
+                ],
+                "Karakalpak": [
+                    "bayram",
+                    "meyram"
+                ],
+                "Tatar": [
+                    "бәйрәм"
+                ],
+                "Bashkir": [
+                    "байрам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tatil"
+                ],
+                "Azerbaijani": [
+                    "tətil"
+                ],
+                "Uzbek": [
+                    "ta'til"
+                ],
+                "Uyghur": [
+                    "تەتىل"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "دەماللىق"
+                ],
+                "Kazakh": [
+                    "демалыс"
+                ],
+                "Karakalpak": [
+                    "dem alıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istirahət günü"
+                ],
+                "Uzbek": [
+                    "istirohat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ял"
+                ],
+                "Bashkir": [
+                    "ял"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәнәфес"
+                ],
+                "Bashkir": [
+                    "тәнәфес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھېيت"
+                ],
+                "Kyrgyz": [
+                    "айт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dinlenme günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dynç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мереке"
+                ]
+            }
+        }
+    ]
+}

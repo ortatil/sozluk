@@ -1,0 +1,125 @@
+{
+    "id": "i70125",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "diary",
+    "en_definition": "a daily written record of (usually personal) experiences and observations",
+    "tr_word": "günlük",
+    "tr_definition": "kişinin yaşadıklarını, duygu ve düşüncelerini günü gününe yazdığı yazı türü",
+    "ru_word": "дневник",
+    "ru_definition": "ежедневные записи о событиях, наблюдениях и личных переживаниях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "günlük",
+                    "günce"
+                ],
+                "Azerbaijani": [
+                    "gündəlik"
+                ],
+                "Turkmen": [
+                    "gündelik"
+                ],
+                "Uzbek": [
+                    "kundalik"
+                ],
+                "Uyghur": [
+                    "كۈندىلىك خاتىرە",
+                    "كۈندىلىك"
+                ],
+                "Kazakh": [
+                    "күнделік"
+                ],
+                "Kyrgyz": [
+                    "күндөлүк",
+                    "күн тартиби"
+                ],
+                "Karakalpak": [
+                    "kúndelik"
+                ],
+                "Tatar": [
+                    "көндәлек"
+                ],
+                "Bashkir": [
+                    "көндәлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dəftər"
+                ],
+                "Turkmen": [
+                    "depderçe"
+                ],
+                "Kazakh": [
+                    "дәптер"
+                ],
+                "Karakalpak": [
+                    "dápter"
+                ],
+                "Bashkir": [
+                    "дәфтәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hatıra defteri"
+                ],
+                "Azerbaijani": [
+                    "xatirə"
+                ],
+                "Uyghur": [
+                    "خاتىرە دەپتەر"
+                ],
+                "Tatar": [
+                    "хатирә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rüzname"
+                ],
+                "Uzbek": [
+                    "roʻznoma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bayoz"
+                ],
+                "Kyrgyz": [
+                    "баяндама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жазба"
+                ],
+                "Bashkir": [
+                    "яҙма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýatlama"
+                ]
+            }
+        }
+    ]
+}

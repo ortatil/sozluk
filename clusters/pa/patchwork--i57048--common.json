@@ -1,0 +1,99 @@
+{
+    "id": "i57048",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "patchwork",
+    "en_definition": "a quilt made by sewing patches of different materials together",
+    "tr_word": "yama işi",
+    "tr_definition": "farklı kumaş parçalarının birbirine dikilmesiyle oluşturulan örtü veya çalışma",
+    "ru_word": "пэчворк",
+    "ru_definition": "изделие, выполненное в технике лоскутного шитья из различных кусочков ткани",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qurama"
+                ],
+                "Turkmen": [
+                    "gurama",
+                    "guramaçylyk"
+                ],
+                "Uzbek": [
+                    "quroq",
+                    "quroqchilik"
+                ],
+                "Uyghur": [
+                    "قۇراق",
+                    "قۇراقچىلىق",
+                    "قۇراق كۆرپە"
+                ],
+                "Kazakh": [
+                    "құрақ",
+                    "құрақ көрпе",
+                    "құрама"
+                ],
+                "Karakalpak": [
+                    "qұraq",
+                    "qұraq kórpe",
+                    "qұraq jamılǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kırkyama"
+                ],
+                "Kyrgyz": [
+                    "курак",
+                    "курак төшөк",
+                    "курама"
+                ],
+                "Tatar": [
+                    "корама",
+                    "корамачылык",
+                    "корама юрган"
+                ],
+                "Bashkir": [
+                    "ҡорама",
+                    "ҡорама юрған",
+                    "ҡорамалау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "parçalı"
+                ],
+                "Azerbaijani": [
+                    "parça-tikə"
+                ],
+                "Turkmen": [
+                    "parça"
+                ],
+                "Uzbek": [
+                    "parcha"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yama",
+                    "yamalı"
+                ],
+                "Azerbaijani": [
+                    "yamama"
+                ],
+                "Uzbek": [
+                    "yamov"
+                ]
+            }
+        }
+    ]
+}

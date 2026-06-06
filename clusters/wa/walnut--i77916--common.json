@@ -1,0 +1,101 @@
+{
+    "id": "i77916",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "walnut",
+    "en_definition": "nut of any of various walnut trees having a wrinkled two-lobed seed with a hard shell",
+    "tr_word": "ceviz",
+    "tr_definition": "Sert kabuklu, içi iki loblu ve buruşuk olan, ceviz ağacının meyvesi.",
+    "ru_word": "грецкий орех",
+    "ru_definition": "Плод орехового дерева с твердой скорлупой и морщинистым двухлопастным ядром.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "grek hozy"
+                ],
+                "Kazakh": [
+                    "грек жаңғағы"
+                ],
+                "Kyrgyz": [
+                    "грек жаңгагы"
+                ],
+                "Tatar": [
+                    "грек чикләвеге"
+                ],
+                "Bashkir": [
+                    "грек сәтләүеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yong'oq"
+                ],
+                "Uyghur": [
+                    "ياڭاق"
+                ],
+                "Kazakh": [
+                    "жаңғақ"
+                ],
+                "Kyrgyz": [
+                    "жаңгак"
+                ],
+                "Karakalpak": [
+                    "jańǵaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ceviz"
+                ],
+                "Azerbaijani": [
+                    "cövüz"
+                ],
+                "Uyghur": [
+                    "جەوز"
+                ],
+                "Tatar": [
+                    "җәүез"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koz"
+                ],
+                "Azerbaijani": [
+                    "qoz"
+                ],
+                "Turkmen": [
+                    "hozy"
+                ],
+                "Karakalpak": [
+                    "ǵoza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mag'iz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәтләүек"
+                ]
+            }
+        }
+    ]
+}

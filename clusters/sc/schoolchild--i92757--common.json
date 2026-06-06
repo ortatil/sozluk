@@ -1,0 +1,118 @@
+{
+    "id": "i92757",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "schoolchild",
+    "en_definition": "a young person attending school (up through senior high school)",
+    "tr_word": "okul çocuğu",
+    "tr_definition": "Okula giden, öğrenim çağındaki çocuk.",
+    "ru_word": "школьник",
+    "ru_definition": "Ребёнок, который учится в школе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şagird"
+                ],
+                "Turkmen": [
+                    "şägirt"
+                ],
+                "Uzbek": [
+                    "shogird"
+                ],
+                "Kazakh": [
+                    "шәкірт"
+                ],
+                "Kyrgyz": [
+                    "шакирт"
+                ],
+                "Karakalpak": [
+                    "shákirt"
+                ],
+                "Tatar": [
+                    "шәкерт"
+                ],
+                "Bashkir": [
+                    "шәкерт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okuwçy"
+                ],
+                "Uzbek": [
+                    "o'quvchi"
+                ],
+                "Uyghur": [
+                    "ئوقۇغۇچى"
+                ],
+                "Kazakh": [
+                    "оқушы"
+                ],
+                "Kyrgyz": [
+                    "окуучу"
+                ],
+                "Karakalpak": [
+                    "oqıushı"
+                ],
+                "Tatar": [
+                    "укучы"
+                ],
+                "Bashkir": [
+                    "уҡыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "talebe"
+                ],
+                "Turkmen": [
+                    "talyp"
+                ],
+                "Uzbek": [
+                    "talaba"
+                ],
+                "Uyghur": [
+                    "تەلىبە"
+                ],
+                "Kazakh": [
+                    "талапкер"
+                ],
+                "Karakalpak": [
+                    "talapker"
+                ],
+                "Tatar": [
+                    "тәлиб"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mektepli"
+                ],
+                "Azerbaijani": [
+                    "məktəbli"
+                ],
+                "Uyghur": [
+                    "مەكتەپداش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğrenci"
+                ]
+            }
+        }
+    ]
+}

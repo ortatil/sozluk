@@ -1,0 +1,96 @@
+{
+    "id": "i53477",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "espresso shop",
+    "en_definition": "a cafe where espresso is served",
+    "tr_word": "espresso barı",
+    "tr_definition": "espresso servis edilen küçük kafe veya kahve dükkanı",
+    "ru_word": "эспрессо-бар",
+    "ru_definition": "кафе, специализирующееся на подаче эспрессо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kahvehane",
+                    "kahve evi",
+                    "kafe"
+                ],
+                "Azerbaijani": [
+                    "qəhvəxana",
+                    "kafe",
+                    "qəhvə evi"
+                ],
+                "Turkmen": [
+                    "kafe"
+                ],
+                "Uzbek": [
+                    "qahvaxona",
+                    "qahvaxon",
+                    "qahvaxona-kafe"
+                ],
+                "Uyghur": [
+                    "قەھۋەخانا",
+                    "قەھۋە جايى"
+                ],
+                "Karakalpak": [
+                    "qáhuexana"
+                ],
+                "Tatar": [
+                    "каһвәханә"
+                ],
+                "Bashkir": [
+                    "ҡәһүәхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aşhana"
+                ],
+                "Kazakh": [
+                    "шайхана",
+                    "асхана"
+                ],
+                "Kyrgyz": [
+                    "чайкана",
+                    "ашкана"
+                ],
+                "Karakalpak": [
+                    "shayxana"
+                ],
+                "Bashkir": [
+                    "сәйхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kofehan",
+                    "kofehana"
+                ],
+                "Tatar": [
+                    "кофеханә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәмхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каана"
+                ]
+            }
+        }
+    ]
+}

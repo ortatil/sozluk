@@ -1,0 +1,83 @@
+{
+    "id": "i107926",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rooting",
+    "en_definition": "the process of putting forth roots and beginning to grow",
+    "tr_word": "kökleşme",
+    "tr_definition": "kök salma ve büyüme süreci",
+    "ru_word": "укоренение",
+    "ru_definition": "процесс пускания корней и начала роста",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tomir yoyish"
+                ],
+                "Kazakh": [
+                    "тамырлану",
+                    "тамыр жаю",
+                    "тамыр тарту",
+                    "тамырлану үдерісі"
+                ],
+                "Kyrgyz": [
+                    "тамырлануу",
+                    "тамыр жаюу",
+                    "тамыр байлоо"
+                ],
+                "Karakalpak": [
+                    "tamır jayıu",
+                    "tamırlanıu",
+                    "tamır atıu"
+                ],
+                "Tatar": [
+                    "тамырлану",
+                    "тамыр җәю",
+                    "тамыр җибәрү"
+                ],
+                "Bashkir": [
+                    "тамырланыу",
+                    "тамыр йәйеү",
+                    "тамыр ебәреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "köklenme",
+                    "kök salma",
+                    "kökleşme"
+                ],
+                "Azerbaijani": [
+                    "köksalma",
+                    "köklənmə",
+                    "kökatma"
+                ],
+                "Turkmen": [
+                    "kökleme",
+                    "kök urmaklyk",
+                    "kök salmaklyk"
+                ],
+                "Uzbek": [
+                    "ko'karish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ildiz otish",
+                    "ildizlanish"
+                ],
+                "Uyghur": [
+                    "يىلتىز تارتىش",
+                    "يىلتىزلىنىش",
+                    "يىلتىز سېلىش"
+                ]
+            }
+        }
+    ]
+}

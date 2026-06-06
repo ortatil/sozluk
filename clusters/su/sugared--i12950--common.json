@@ -1,0 +1,120 @@
+{
+    "id": "i12950",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sugared",
+    "en_definition": "with sweetening added",
+    "tr_word": "şekerli",
+    "tr_definition": "içine şeker katılmış olan",
+    "ru_word": "подслащенный",
+    "ru_definition": "с добавлением сахара или другого подсластителя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şekerli",
+                    "şekerlenmiş"
+                ],
+                "Azerbaijani": [
+                    "şəkərli"
+                ],
+                "Turkmen": [
+                    "şekerli"
+                ],
+                "Uzbek": [
+                    "shakarli",
+                    "shakarlangan"
+                ],
+                "Uyghur": [
+                    "شېكەرلىك",
+                    "شېكەر قوشۇلغان"
+                ],
+                "Karakalpak": [
+                    "shekerli"
+                ],
+                "Tatar": [
+                    "шикәрле"
+                ],
+                "Bashkir": [
+                    "шәкәрле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tatlı"
+                ],
+                "Uyghur": [
+                    "تاتلىق"
+                ],
+                "Kazakh": [
+                    "тәттіленген",
+                    "тәтті"
+                ],
+                "Kyrgyz": [
+                    "таттууланган"
+                ],
+                "Karakalpak": [
+                    "tátli"
+                ],
+                "Tatar": [
+                    "татлы"
+                ],
+                "Bashkir": [
+                    "татлы",
+                    "татлыландырылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gantly"
+                ],
+                "Kazakh": [
+                    "қантталған",
+                    "қантты"
+                ],
+                "Kyrgyz": [
+                    "кантталган"
+                ],
+                "Karakalpak": [
+                    "qantlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şirin",
+                    "şirinləşdirilmiş"
+                ],
+                "Uzbek": [
+                    "shirin"
+                ],
+                "Kyrgyz": [
+                    "ширин"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýjedilen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "баллы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+# Bull shark
+| Field | Detail |
+|---|---|
+| **ID** | i43130 |
+| **English** | bull shark |
+| **Type** | noun |
+| **Definition** | a most common shark in temperate and tropical coastal waters worldwide; heavy-bodied and dangerous |
+| **Source** | common |
+| **Ortatil** | ögüz-bälik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i43130",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bull shark",
+    "en_definition": "a most common shark in temperate and tropical coastal waters worldwide; heavy-bodied and dangerous",
+    "tr_word": "boğa köpek balığı",
+    "tr_definition": "dünya çapında ılıman ve tropikal kıyı sularında en yaygın bulunan, iri gövdeli ve tehlikeli bir köpek balığı türü",
+    "ru_word": "тупорылая акула",
+    "ru_definition": "одна из самых распространенных акул в умеренных и тропических прибрежных водах по всему миру; массивная и опасная",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "öküz köpəkbalığı"
+                ],
+                "Turkmen": [
+                    "öküz akulasy",
+                    "öküz köpekbalygy"
+                ],
+                "Kazakh": [
+                    "өгіз акула"
+                ],
+                "Karakalpak": [
+                    "ógiz akula",
+                    "ógiz-balıq"
+                ],
+                "Tatar": [
+                    "үгез акуласы"
+                ],
+                "Bashkir": [
+                    "үгеҙ акула"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boğa köpek balığı",
+                    "boğa balığı"
+                ],
+                "Azerbaijani": [
+                    "boğa köpəkbalığı"
+                ],
+                "Uzbek": [
+                    "buqa akula"
+                ],
+                "Uyghur": [
+                    "بۇقا لەھەڭ",
+                    "بۇقا بېلىق"
+                ],
+                "Kyrgyz": [
+                    "бука акула",
+                    "бука сымал акула"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тұпауыз акула"
+                ],
+                "Tatar": [
+                    "тупак борынлы акула"
+                ],
+                "Bashkir": [
+                    "тупаҡ акула"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "to‘mtoq burunli akula"
+                ]
+            }
+        }
+    ]
+}
+```
+

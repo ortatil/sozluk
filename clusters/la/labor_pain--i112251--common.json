@@ -1,0 +1,98 @@
+{
+    "id": "i112251",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "labor pain",
+    "en_definition": "pain and discomfort associated with contractions of the uterus during labor",
+    "tr_word": "doğum sancısı",
+    "tr_definition": "doğum sırasında rahmin kasılmasıyla ortaya çıkan ağrı ve rahatsızlık",
+    "ru_word": "родовые схватки",
+    "ru_definition": "боль и дискомфорт, связанные с сокращениями матки во время родов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tül"
+                ],
+                "Turkmen": [
+                    "tolgak"
+                ],
+                "Uzbek": [
+                    "to'lg'oq"
+                ],
+                "Uyghur": [
+                    "تولغاق",
+                    "تولغاق ئاغرىقى"
+                ],
+                "Kazakh": [
+                    "толғақ",
+                    "толғату",
+                    "толғақ азабы"
+                ],
+                "Kyrgyz": [
+                    "толгоо",
+                    "толгоо тартуу"
+                ],
+                "Karakalpak": [
+                    "tolǵaq",
+                    "tolǵaq azabı",
+                    "tolǵaq dárti"
+                ],
+                "Tatar": [
+                    "тулгак",
+                    "тулгак авыртуы",
+                    "тулгак тоту"
+                ],
+                "Bashkir": [
+                    "тулғаҡ",
+                    "тулғаҡ ауыртыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doğum sancısı",
+                    "doğum ağrısı",
+                    "doğum zahmeti"
+                ],
+                "Azerbaijani": [
+                    "doğuş sancısı",
+                    "doğum ağrısı"
+                ],
+                "Turkmen": [
+                    "dogum agrysy",
+                    "dogum azaby"
+                ],
+                "Uzbek": [
+                    "tug'ruq dardi"
+                ],
+                "Uyghur": [
+                    "تۇغۇت ئاغرىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sancı"
+                ],
+                "Azerbaijani": [
+                    "sancı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dard"
+                ],
+                "Kyrgyz": [
+                    "төрөт толгоосу"
+                ]
+            }
+        }
+    ]
+}

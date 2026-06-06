@@ -1,0 +1,106 @@
+{
+    "id": "i88802",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cannibal",
+    "en_definition": "a person who eats human flesh",
+    "tr_word": "yamyam",
+    "tr_definition": "insan eti yiyen kimse",
+    "ru_word": "каннибал",
+    "ru_definition": "человек, поедающий человеческое мясо; людоед",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ademhor"
+                ],
+                "Azerbaijani": [
+                    "adam yeyən"
+                ],
+                "Turkmen": [
+                    "adam iýýän",
+                    "adamhor"
+                ],
+                "Uzbek": [
+                    "odamxoʻr",
+                    "odamxoʻr maxluq"
+                ],
+                "Uyghur": [
+                    "ئادەمخور",
+                    "ئادەم يېگۈچى"
+                ],
+                "Kazakh": [
+                    "адам жегіш"
+                ],
+                "Kyrgyz": [
+                    "адам жегич"
+                ],
+                "Karakalpak": [
+                    "adam jegish",
+                    "adamxur"
+                ],
+                "Tatar": [
+                    "адәм ашаучы"
+                ],
+                "Bashkir": [
+                    "адәмхүр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "киши жегич"
+                ],
+                "Tatar": [
+                    "кеше ашаучы"
+                ],
+                "Bashkir": [
+                    "кеше ашаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yamyam"
+                ],
+                "Azerbaijani": [
+                    "yamyam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "insan yiyen"
+                ],
+                "Azerbaijani": [
+                    "insan yeyən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "антропофаг"
+                ],
+                "Kyrgyz": [
+                    "антропофаг"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қан ішер"
+                ],
+                "Tatar": [
+                    "каннибал"
+                ]
+            }
+        }
+    ]
+}

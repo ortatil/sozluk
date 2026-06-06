@@ -1,0 +1,161 @@
+# Tire iron
+| Field | Detail |
+|---|---|
+| **ID** | i60301 |
+| **English** | tire iron |
+| **Type** | noun |
+| **Definition** | hand tool consisting of a lever that is used to force the casing of a pneumatic tire onto a steel wheel |
+| **Source** | common |
+| **Ortatil** | mäntäckä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| кілт | kilt |
+| иінтірек | iintirek |
+| **Bashkir** | |
+| монтажка | montajka |
+
+```json
+{
+    "id": "i60301",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tire iron",
+    "en_definition": "hand tool consisting of a lever that is used to force the casing of a pneumatic tire onto a steel wheel",
+    "tr_word": "levye",
+    "tr_definition": "Bir lastiği janttan ayırmak veya janta takmak için kullanılan, kaldıraç görevi gören metal el aleti.",
+    "ru_word": "монтировка",
+    "ru_definition": "Ручной инструмент в виде рычага, используемый для снятия или установки шины на обод колеса.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "montaj dəmirı"
+                ],
+                "Turkmen": [
+                    "montaj demri"
+                ],
+                "Uzbek": [
+                    "montajka"
+                ],
+                "Kyrgyz": [
+                    "монтаждоочу темир"
+                ],
+                "Karakalpak": [
+                    "montajlau qұralı"
+                ],
+                "Tatar": [
+                    "монтаж ачкычы"
+                ],
+                "Bashkir": [
+                    "монтажлау ҡалағы",
+                    "монтажка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "demir levye"
+                ],
+                "Turkmen": [
+                    "teker guraly",
+                    "teker demri"
+                ],
+                "Karakalpak": [
+                    "temіr iіntіrek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təkər açarı"
+                ],
+                "Tatar": [
+                    "тәгәрмәч ачкычы",
+                    "тәгәрмәч рычагы"
+                ],
+                "Bashkir": [
+                    "тәгәрмәс асҡысы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дөңгелек кілті"
+                ],
+                "Kyrgyz": [
+                    "дөңгөлөк ачкыч",
+                    "дөңгөлөк темир"
+                ],
+                "Karakalpak": [
+                    "dóńgelek kіltі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "balon kaliti"
+                ],
+                "Uyghur": [
+                    "بالون ئاچقۇچ",
+                    "بالون دەستىسى",
+                    "بالون چۈشۈرگۈچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'ildirak kaliti"
+                ],
+                "Kazakh": [
+                    "кілт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "levye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lastik levyesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çarx açarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "иінтірек"
+                ]
+            }
+        }
+    ]
+}
+```
+

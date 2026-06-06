@@ -1,0 +1,128 @@
+{
+    "id": "i79615",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "munitions industry",
+    "en_definition": "an industry that manufacturers weapons of war",
+    "tr_word": "mühimmat endüstrisi",
+    "tr_definition": "savaş silahları üreten sanayi dalı",
+    "ru_word": "военная промышленность",
+    "ru_definition": "отрасль промышленности, производящая оружие и военную технику",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harp sanayii"
+                ],
+                "Azerbaijani": [
+                    "hərbi sənaye"
+                ],
+                "Turkmen": [
+                    "harby senagat"
+                ],
+                "Uzbek": [
+                    "harbiy sanoat"
+                ],
+                "Uyghur": [
+                    "ھەربىي سانائەت"
+                ],
+                "Tatar": [
+                    "хәрби сәнгать"
+                ],
+                "Bashkir": [
+                    "хәрби сәнәғәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qurol-yarogʻ sanoati"
+                ],
+                "Uyghur": [
+                    "قورال-ياراق سانائىتى",
+                    "قورال-ياراق ئىشلەپچىقىرىش"
+                ],
+                "Kazakh": [
+                    "қорғаныс өнеркәсібі"
+                ],
+                "Kyrgyz": [
+                    "курал-жарак өнөр жайы",
+                    "курал өндүрүшү"
+                ],
+                "Karakalpak": [
+                    "qural-jaraq sanaatı"
+                ],
+                "Tatar": [
+                    "корал сәнгате",
+                    "корал җитештерү"
+                ],
+                "Bashkir": [
+                    "ҡорал эшләү сәнәғәте",
+                    "ҡорал етештереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mühimmat sanayii"
+                ],
+                "Azerbaijani": [
+                    "müdafiə sənayesi"
+                ],
+                "Uzbek": [
+                    "mudofaa sanoati"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "әскери өнеркәсіп"
+                ],
+                "Kyrgyz": [
+                    "аскердик өнөр жай"
+                ],
+                "Karakalpak": [
+                    "áskeriy sanaat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "silah sanayii"
+                ],
+                "Azerbaijani": [
+                    "silah sənayesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "savunma sanayii"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýarag senagaty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қару-жарақ өнеркәсібі"
+                ]
+            }
+        }
+    ]
+}

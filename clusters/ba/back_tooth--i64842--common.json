@@ -1,0 +1,86 @@
+{
+    "id": "i64842",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "back tooth",
+    "en_definition": "a tooth situated at the back of the mouth",
+    "tr_word": "arka diş",
+    "tr_definition": "ağzın arka kısmında bulunan diş",
+    "ru_word": "коренной зуб",
+    "ru_definition": "зуб, расположенный в задней части рта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "azı dişi"
+                ],
+                "Azerbaijani": [
+                    "azı dişi"
+                ],
+                "Turkmen": [
+                    "azy diş",
+                    "azy"
+                ],
+                "Uzbek": [
+                    "oziq tish"
+                ],
+                "Uyghur": [
+                    "ئازغۇ چىش",
+                    "ئازغۇ"
+                ],
+                "Kazakh": [
+                    "азу",
+                    "азу тіс"
+                ],
+                "Kyrgyz": [
+                    "азуу",
+                    "азуу тиш"
+                ],
+                "Karakalpak": [
+                    "azu",
+                    "azu tis"
+                ],
+                "Tatar": [
+                    "азу теш",
+                    "азу"
+                ],
+                "Bashkir": [
+                    "аҙау теш",
+                    "аҙау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arka diş"
+                ],
+                "Azerbaijani": [
+                    "arxa diş"
+                ],
+                "Kazakh": [
+                    "артқы тіс"
+                ],
+                "Tatar": [
+                    "арткы теш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jag' tish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چايناش چىشى"
+                ]
+            }
+        }
+    ]
+}

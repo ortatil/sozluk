@@ -1,0 +1,100 @@
+{
+    "id": "i38020",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "board game",
+    "en_definition": "a game played on a specially designed board",
+    "tr_word": "masa oyunu",
+    "tr_definition": "Özel olarak tasarlanmış bir tahta veya zemin üzerinde oynanan oyun.",
+    "ru_word": "настольная игра",
+    "ru_definition": "Игра, в которую играют на специально разработанной доске или поверхности.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tahta oyunu",
+                    "tablalı oyun"
+                ],
+                "Turkmen": [
+                    "tagta oýny"
+                ],
+                "Uzbek": [
+                    "taxta o'yini"
+                ],
+                "Uyghur": [
+                    "تاختا ئويۇنى"
+                ],
+                "Kazakh": [
+                    "тақта ойыны"
+                ],
+                "Kyrgyz": [
+                    "такта оюну"
+                ],
+                "Karakalpak": [
+                    "taqta oyını"
+                ],
+                "Tatar": [
+                    "такта уены"
+                ],
+                "Bashkir": [
+                    "таҡта уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үстел ойыны"
+                ],
+                "Kyrgyz": [
+                    "үстөл оюну"
+                ],
+                "Karakalpak": [
+                    "ústel oyını"
+                ],
+                "Tatar": [
+                    "өстәл уены"
+                ],
+                "Bashkir": [
+                    "өҫтәл уйыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "masa oyunu"
+                ],
+                "Azerbaijani": [
+                    "masaüstü oyun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "stol o'yini"
+                ],
+                "Uyghur": [
+                    "شاتىرانج ئويۇنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lövhə oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "stoluň üstünde oýnalýan oýun"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "id": "i70269",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "almanac",
+    "en_definition": "an annual publication including weather forecasts and other miscellaneous information arranged according to the calendar of a given year",
+    "tr_word": "almanak",
+    "tr_definition": "Hava durumu tahminleri ve takvime göre düzenlenmiş çeşitli bilgileri içeren yıllık yayın.",
+    "ru_word": "альманах",
+    "ru_definition": "Ежегодное издание, содержащее прогнозы погоды и другие сведения, упорядоченные по календарю.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "salname"
+                ],
+                "Azerbaijani": [
+                    "salnamə"
+                ],
+                "Turkmen": [
+                    "ýylnama"
+                ],
+                "Uzbek": [
+                    "solnoma"
+                ],
+                "Uyghur": [
+                    "يىلنامە"
+                ],
+                "Kazakh": [
+                    "жылнама"
+                ],
+                "Kyrgyz": [
+                    "жылнаама"
+                ],
+                "Karakalpak": [
+                    "jılnama"
+                ],
+                "Tatar": [
+                    "елъязма"
+                ],
+                "Bashkir": [
+                    "йылъяҙма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "takvim"
+                ],
+                "Azerbaijani": [
+                    "təqvim"
+                ],
+                "Turkmen": [
+                    "takwym"
+                ],
+                "Uzbek": [
+                    "taqvim"
+                ],
+                "Uyghur": [
+                    "تەقۋىم"
+                ],
+                "Kyrgyz": [
+                    "таквим"
+                ],
+                "Karakalpak": [
+                    "táqoiym"
+                ],
+                "Bashkir": [
+                    "тәҡүим"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kalendar"
+                ],
+                "Kyrgyz": [
+                    "календарь"
+                ],
+                "Tatar": [
+                    "календарь"
+                ],
+                "Bashkir": [
+                    "календарь"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yıllık"
+                ],
+                "Azerbaijani": [
+                    "illik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "almanak"
+                ],
+                "Tatar": [
+                    "салма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məcmuə"
+                ],
+                "Tatar": [
+                    "мәҗмуга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "roʻznoma"
+                ],
+                "Uyghur": [
+                    "روزمە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күнтізбе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тәуірнама"
+                ]
+            }
+        }
+    ]
+}

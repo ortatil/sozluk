@@ -1,0 +1,111 @@
+{
+    "id": "i58522",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "school crossing",
+    "en_definition": "a pedestrian crossing where school children cross a street on the way to school",
+    "tr_word": "okul geçidi",
+    "tr_definition": "okul çocuklarının okula giderken caddeyi geçtikleri yaya geçidi",
+    "ru_word": "школьный переход",
+    "ru_definition": "пешеходный переход, предназначенный для перехода детей через дорогу по пути в школу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məktəbli keçidi",
+                    "məktəb keçidi"
+                ],
+                "Turkmen": [
+                    "mekdep geçelgesi",
+                    "mekdep ýoly"
+                ],
+                "Uzbek": [
+                    "maktab oʻtish joyi"
+                ],
+                "Uyghur": [
+                    "مەكتەپ ئۆتۈشمە يولى",
+                    "مەكتەپ ئالدىدىكى پىيادىلەر يولى"
+                ],
+                "Kazakh": [
+                    "мектеп өткелі"
+                ],
+                "Kyrgyz": [
+                    "мектеп өткөөлү",
+                    "мектеп жолу"
+                ],
+                "Karakalpak": [
+                    "mektep ótkeli"
+                ],
+                "Tatar": [
+                    "мәктәп кичүе",
+                    "мәктәп янындагы җәяүлеләр кичүе"
+                ],
+                "Bashkir": [
+                    "мәктәп үткәүеле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bolalar oʻtish joyi"
+                ],
+                "Kazakh": [
+                    "балалар өткелі"
+                ],
+                "Kyrgyz": [
+                    "балдар өткөөлү"
+                ],
+                "Tatar": [
+                    "балалар кичүе"
+                ],
+                "Bashkir": [
+                    "балалар үткәүеле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "piyada keçidi"
+                ],
+                "Turkmen": [
+                    "pyýada geçelgesi"
+                ],
+                "Uzbek": [
+                    "piyodalar oʻtish joyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "okul geçidi"
+                ],
+                "Uyghur": [
+                    "ئوقۇغۇچىلار ئۆتۈش ئېغىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаяу жүргіншілер өткелі"
+                ],
+                "Karakalpak": [
+                    "jayaolar ótkeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğrenci geçidi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "id": "i23783",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "privatize",
+    "en_definition": "change from governmental to private control or ownership",
+    "tr_word": "özelleştirmek",
+    "tr_definition": "devlet mülkiyetindeki bir kuruluşu veya varlığı özel sektöre devretmek",
+    "ru_word": "приватизировать",
+    "ru_definition": "передавать государственную или муниципальную собственность в частную собственность",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hususileştirmek"
+                ],
+                "Azerbaijani": [
+                    "xüsusiləşdirmək"
+                ],
+                "Turkmen": [
+                    "hususylaşdyrmak"
+                ],
+                "Uzbek": [
+                    "xususiylashtirmoq"
+                ],
+                "Uyghur": [
+                    "خۇسۇسىيلاشتۇرماق"
+                ],
+                "Tatar": [
+                    "хосусыйлаштыру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mülkiyetini devretmek"
+                ],
+                "Azerbaijani": [
+                    "mülkiyyətləşdirmək"
+                ],
+                "Karakalpak": [
+                    "múlkdarlıqqa berio"
+                ],
+                "Tatar": [
+                    "мөлкәтләндерү"
+                ],
+                "Bashkir": [
+                    "мөлкәтләндереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şahsyýetlendirmek"
+                ],
+                "Uzbek": [
+                    "shaxsiy mulkka aylantirmoq"
+                ],
+                "Uyghur": [
+                    "شەخسىيلەشتۈرمەك"
+                ],
+                "Tatar": [
+                    "шәхсиләштерү"
+                ],
+                "Bashkir": [
+                    "шәхсиләштереү",
+                    "шәхси милеккә тапшырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жекешелендіру",
+                    "жекеге өткізу"
+                ],
+                "Kyrgyz": [
+                    "жекеге өткөрүү"
+                ],
+                "Karakalpak": [
+                    "jekeshelendirio",
+                    "jeke menshikke ótkerio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özelleştirmek"
+                ],
+                "Azerbaijani": [
+                    "özəlləşdirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "меншіктеу"
+                ],
+                "Kyrgyz": [
+                    "менчиктештирүү",
+                    "менчикке берүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eýeçilige geçirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "davlat tasarrufidan chiqarmoq"
+                ]
+            }
+        }
+    ]
+}

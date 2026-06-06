@@ -1,0 +1,183 @@
+# Bounce out
+| Field | Detail |
+|---|---|
+| **ID** | i28748 |
+| **English** | bounce out |
+| **Type** | verb |
+| **Definition** | bounce a ball so that it becomes an out |
+| **Source** | common |
+| **Ortatil** | atılınmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i28748",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "bounce out",
+    "en_definition": "bounce a ball so that it becomes an out",
+    "tr_word": "yerden seken topla oyun dışı kalmak",
+    "tr_definition": "beyzbolda, topun yere çarpıp sektikten sonra yakalanmasıyla vurucunun oyun dışı kalması",
+    "ru_word": "выбыть из игры после отскока мяча",
+    "ru_definition": "в бейсболе: ситуация, когда отбитый мяч ударяется о землю, после чего защитник ловит его и выводит бьющего из игры",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ыршып шығу"
+                ],
+                "Kyrgyz": [
+                    "ыргытып чыгаруу"
+                ],
+                "Karakalpak": [
+                    "ırshıp shıǵıu"
+                ],
+                "Tatar": [
+                    "ыргытып чыгару"
+                ],
+                "Bashkir": [
+                    "ырғытып сығарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sektirerek oyun dışı bırakmak",
+                    "sektirip çıkarmak"
+                ],
+                "Uzbek": [
+                    "sakratib chiqarmoq"
+                ],
+                "Kyrgyz": [
+                    "секиртип чыгаруу"
+                ],
+                "Karakalpak": [
+                    "sekirip shıǵıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "кагып чыгаруу"
+                ],
+                "Tatar": [
+                    "кагып чыгару"
+                ],
+                "Bashkir": [
+                    "ҡағып сығарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "atılmaq"
+                ],
+                "Turkmen": [
+                    "atylmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kənarlaşmaq"
+                ],
+                "Uyghur": [
+                    "قاڭقىپ چىقماق",
+                    "قاڭقىپ چىقىرىۋەتمەك",
+                    "قاڭقىتىپ چىقارماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çıxmaq"
+                ],
+                "Turkmen": [
+                    "çykmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тебіліп шығу"
+                ],
+                "Karakalpak": [
+                    "tebilip shıǵıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәреп чыгару"
+                ],
+                "Bashkir": [
+                    "бәреп сығарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "topu sektirerek elemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sıçramaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bökmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zyňylmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "urib chiqarmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qaytarib chiqarmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "серпіліп шығу"
+                ]
+            }
+        }
+    ]
+}
+```
+

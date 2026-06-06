@@ -1,0 +1,134 @@
+{
+    "id": "i19320",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "overboard",
+    "en_definition": "from on board a vessel into the water",
+    "tr_word": "denize",
+    "tr_definition": "gemiden veya tekneden suyun içine doğru",
+    "ru_word": "за борт",
+    "ru_definition": "с судна или лодки в воду",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gemiden dışarı"
+                ],
+                "Azerbaijani": [
+                    "gəmidən suya",
+                    "gəmi kənarına"
+                ],
+                "Turkmen": [
+                    "gämiden"
+                ],
+                "Uzbek": [
+                    "kemadan"
+                ],
+                "Uyghur": [
+                    "كېمىدىن سۇغا",
+                    "كېمە سىرتىغا"
+                ],
+                "Kazakh": [
+                    "кемеден тыс"
+                ],
+                "Kyrgyz": [
+                    "кемеден сыртка",
+                    "кемеден"
+                ],
+                "Karakalpak": [
+                    "kemeden suoǵa"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwa"
+                ],
+                "Uzbek": [
+                    "suvga"
+                ],
+                "Uyghur": [
+                    "سۇغا"
+                ],
+                "Kazakh": [
+                    "суға"
+                ],
+                "Kyrgyz": [
+                    "сууга"
+                ],
+                "Tatar": [
+                    "суга"
+                ],
+                "Bashkir": [
+                    "һыуға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bordadan dışarı"
+                ],
+                "Azerbaijani": [
+                    "borddan kənar"
+                ],
+                "Bashkir": [
+                    "бортынан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "daşary"
+                ],
+                "Uzbek": [
+                    "tashqariga"
+                ],
+                "Tatar": [
+                    "тышка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "denize"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сыртқа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "palubadan tısqarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "корабтан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көймә тышына"
+                ]
+            }
+        }
+    ]
+}

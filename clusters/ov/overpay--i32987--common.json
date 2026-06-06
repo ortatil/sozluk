@@ -1,0 +1,145 @@
+{
+    "id": "i32987",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "overpay",
+    "en_definition": "pay too much",
+    "tr_word": "fazla ödeme yapmak",
+    "tr_definition": "bir şey için gereğinden veya değerinden daha fazla para ödemek",
+    "ru_word": "переплачивать",
+    "ru_definition": "платить больше, чем следует или чем что-либо стоит",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "artıq ödəmək"
+                ],
+                "Turkmen": [
+                    "artyk tölemek"
+                ],
+                "Uzbek": [
+                    "ortiqcha to'lamoq"
+                ],
+                "Uyghur": [
+                    "ئارتۇق تۆلىمەك"
+                ],
+                "Kazakh": [
+                    "артық төлеу"
+                ],
+                "Karakalpak": [
+                    "artıq tóleu"
+                ],
+                "Tatar": [
+                    "артык түләү"
+                ],
+                "Bashkir": [
+                    "артыҡ түләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köp tölemek"
+                ],
+                "Uzbek": [
+                    "ko'p to'lamoq"
+                ],
+                "Uyghur": [
+                    "كۆپ تۆلىمەك"
+                ],
+                "Kazakh": [
+                    "көп төлеу"
+                ],
+                "Karakalpak": [
+                    "kóp tóleu"
+                ],
+                "Tatar": [
+                    "күп түләү"
+                ],
+                "Bashkir": [
+                    "күп түләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "асыра төлеу"
+                ],
+                "Kyrgyz": [
+                    "ашыкча төлөө",
+                    "ашыра төлөө"
+                ],
+                "Karakalpak": [
+                    "asıra tóleu"
+                ],
+                "Tatar": [
+                    "асыра түләү"
+                ],
+                "Bashkir": [
+                    "ашыра түләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ziyadə ödəmək"
+                ],
+                "Uzbek": [
+                    "ziyoda to'lamoq"
+                ],
+                "Uyghur": [
+                    "زىيادىسى بىلەن تۆلىمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fazla ödemek",
+                    "fahiş fiyat ödemek"
+                ],
+                "Azerbaijani": [
+                    "bahalı almaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gymmat tölemek"
+                ],
+                "Kyrgyz": [
+                    "кымбат алуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pahalıya almak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "değerinden fazla ödemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çox ödəmək"
+                ]
+            }
+        }
+    ]
+}

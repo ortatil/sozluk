@@ -1,0 +1,199 @@
+# Landlubber
+| Field | Detail |
+|---|---|
+| **ID** | i90918 |
+| **English** | landlubber |
+| **Type** | noun |
+| **Definition** | an inexperienced sailor; a sailor on the first voyage |
+| **Source** | common |
+| **Ortatil** | üyrenşik |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **üyrenşik** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| үйренуші | üyrenuşi |
+| бастаушы | bastauşı |
+| **Bashkir** | |
+| өйрәнсек | öyränsek |
+
+```json
+{
+    "id": "i90918",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "landlubber",
+    "en_definition": "an inexperienced sailor; a sailor on the first voyage",
+    "tr_word": "kara adamı",
+    "tr_definition": "denizcilikten anlamayan, deniz tutan veya ilk kez denize açılan deneyimsiz kimse",
+    "ru_word": "сухопутная крыса",
+    "ru_definition": "неопытный моряк или человек, не привыкший к морю и предпочитающий сушу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təcrübəsiz dənizçi",
+                    "təzə dənizçi"
+                ],
+                "Turkmen": [
+                    "täzeçi",
+                    "tejribesiz"
+                ],
+                "Uzbek": [
+                    "tajribasiz dengizchi"
+                ],
+                "Uyghur": [
+                    "تەجرىبىسىز دېڭىزچى"
+                ],
+                "Kazakh": [
+                    "тәжірибесіз теңізші"
+                ],
+                "Kyrgyz": [
+                    "тажрыйбасыз деңизчи"
+                ],
+                "Karakalpak": [
+                    "tájriybesiz teńizshi"
+                ],
+                "Tatar": [
+                    "тәҗрибәсез матрос"
+                ],
+                "Bashkir": [
+                    "тәжрибәһеҙ матрос"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yangi dengizchi"
+                ],
+                "Uyghur": [
+                    "يېڭى دېڭىزچى"
+                ],
+                "Karakalpak": [
+                    "jańa teńizshi"
+                ],
+                "Tatar": [
+                    "яңа матрос"
+                ],
+                "Bashkir": [
+                    "яңы матрос"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үйренуші"
+                ],
+                "Kyrgyz": [
+                    "үйрөнчүк матрос"
+                ],
+                "Karakalpak": [
+                    "úyrenshik"
+                ],
+                "Bashkir": [
+                    "өйрәнсек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz acemisi"
+                ],
+                "Uzbek": [
+                    "dengizga o'rganmagan kishi"
+                ],
+                "Tatar": [
+                    "диңгезче түгел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "naşı dənizçi"
+                ],
+                "Kyrgyz": [
+                    "жаңы деңизчи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "acemi denizci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kara adamı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çömez"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çig"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇرۇقلۇق ئادىمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жас матрос"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бастаушы"
+                ]
+            }
+        }
+    ]
+}
+```
+

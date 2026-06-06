@@ -1,0 +1,67 @@
+{
+    "id": "i16773",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "afro-asian",
+    "en_definition": "of or relating to the nations of Africa and Asia or their peoples",
+    "tr_word": "Afro-Asyatik",
+    "tr_definition": "Afrika ve Asya ulusları veya halkları ile ilgili olan",
+    "ru_word": "афро-азиатский",
+    "ru_definition": "относящийся к народам или странам Африки и Азии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Afro-Asyatik",
+                    "Afrika-Asya",
+                    "Afro-Asya"
+                ],
+                "Azerbaijani": [
+                    "afro-asiyalı",
+                    "afrika-asiya"
+                ],
+                "Turkmen": [
+                    "afro-aziýa",
+                    "afrika-aziýa"
+                ],
+                "Uzbek": [
+                    "afro-osiyocha"
+                ],
+                "Uyghur": [
+                    "ئافرىقا-ئاسىيا"
+                ],
+                "Kazakh": [
+                    "афро-азиялық",
+                    "африка-азиялық"
+                ],
+                "Kyrgyz": [
+                    "афро-азиялык",
+                    "африка-азиялык"
+                ],
+                "Karakalpak": [
+                    "afro-aziyalıq",
+                    "afrika-aziyalıq"
+                ],
+                "Tatar": [
+                    "афро-азия",
+                    "африка-азия"
+                ],
+                "Bashkir": [
+                    "афро-азия",
+                    "африка-азия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "osiyo-afrika"
+                ],
+                "Uyghur": [
+                    "ئاسىيا-ئافرىقا"
+                ]
+            }
+        }
+    ]
+}

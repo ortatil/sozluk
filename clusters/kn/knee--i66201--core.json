@@ -1,0 +1,67 @@
+{
+    "id": "i66201",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "knee",
+    "en_definition": "hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella",
+    "tr_word": "diz",
+    "tr_definition": "Bacağın ortasında, uyluk kemiği ile kaval kemiğinin birleştiği yerdeki eklem.",
+    "ru_word": "колено",
+    "ru_definition": "Сустав, соединяющий бедро и голень.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diz"
+                ],
+                "Azerbaijani": [
+                    "diz"
+                ],
+                "Turkmen": [
+                    "dyz"
+                ],
+                "Uzbek": [
+                    "tiz",
+                    "tizza"
+                ],
+                "Uyghur": [
+                    "تیز"
+                ],
+                "Kazakh": [
+                    "тізе"
+                ],
+                "Kyrgyz": [
+                    "тизе"
+                ],
+                "Karakalpak": [
+                    "tize"
+                ],
+                "Tatar": [
+                    "тез"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تیز بوغۇمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тез буыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тубыҡ"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "id": "i1545",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "shaded",
+    "en_definition": "protected from heat and light with shade or shadow",
+    "tr_word": "gölgeli",
+    "tr_definition": "gölge veya gölgelikle ısı ve ışıktan korunmuş",
+    "ru_word": "затененный",
+    "ru_definition": "защищенный от тепла и света тенью или навесом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gölgeli",
+                    "gölgelik"
+                ],
+                "Azerbaijani": [
+                    "kölgəli",
+                    "kölgəlik"
+                ],
+                "Turkmen": [
+                    "kölegeli"
+                ],
+                "Kazakh": [
+                    "көлеңкелі",
+                    "көлеңкеленген",
+                    "көлегей"
+                ],
+                "Kyrgyz": [
+                    "көлөкөлүү",
+                    "көлөкөдөгү",
+                    "көлөкө"
+                ],
+                "Karakalpak": [
+                    "kóleńkeli",
+                    "kóleńkelengen"
+                ],
+                "Tatar": [
+                    "күләгәле",
+                    "күләгәдәге"
+                ],
+                "Bashkir": [
+                    "күләгәле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sayeli"
+                ],
+                "Azerbaijani": [
+                    "sayalı"
+                ],
+                "Turkmen": [
+                    "saýaly"
+                ],
+                "Uzbek": [
+                    "soyali",
+                    "soyador"
+                ],
+                "Uyghur": [
+                    "سايە",
+                    "سايىلىق",
+                    "سايە تاشلىغان"
+                ],
+                "Kazakh": [
+                    "саялы"
+                ],
+                "Karakalpak": [
+                    "sayalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ышык",
+                    "ышыкланган"
+                ],
+                "Bashkir": [
+                    "ышыҡ",
+                    "ышыҡланған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuytu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "panoh",
+                    "panohli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دالدا"
+                ]
+            }
+        }
+    ]
+}

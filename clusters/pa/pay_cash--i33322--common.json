@@ -1,0 +1,99 @@
+{
+    "id": "i33322",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "pay cash",
+    "en_definition": "pay (for something) with cash",
+    "tr_word": "nakit ödemek",
+    "tr_definition": "bir şeyin bedelini nakit para kullanarak karşılamak",
+    "ru_word": "платить наличными",
+    "ru_definition": "оплачивать покупку или услугу с помощью бумажных денег или монет",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nakit ödemek"
+                ],
+                "Azerbaijani": [
+                    "nağd ödəmək",
+                    "nağd vermək",
+                    "nağd şəkildə ödəmək"
+                ],
+                "Turkmen": [
+                    "nagt tölemek",
+                    "nagyt tölemek",
+                    "nagt bermek"
+                ],
+                "Uzbek": [
+                    "naqd to'lamoq",
+                    "naqd bermoq",
+                    "naqd pul bilan to'lamoq"
+                ],
+                "Uyghur": [
+                    "نەق پۇل بىلەن تۆلەش",
+                    "نەق تۆلەش",
+                    "نەق بېرىش"
+                ],
+                "Kazakh": [
+                    "нақты ақшамен төлеу",
+                    "нақтай төлеу"
+                ],
+                "Kyrgyz": [
+                    "накталай төлөө",
+                    "накта акча берүү"
+                ],
+                "Karakalpak": [
+                    "naq tóleu",
+                    "naqlay tóleu",
+                    "naq aqsha menen tóleu"
+                ],
+                "Tatar": [
+                    "нәкъ акча белән түләү"
+                ],
+                "Bashkir": [
+                    "нәҡтә аҡса менән түләү",
+                    "нәҡтәләтә түләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қолма-қол төлеу"
+                ],
+                "Kyrgyz": [
+                    "колмо-кол төлөө"
+                ],
+                "Tatar": [
+                    "кулдан түләү"
+                ],
+                "Bashkir": [
+                    "ҡулса түләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "peşin ödemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elden ödemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "акчалата түләү"
+                ]
+            }
+        }
+    ]
+}

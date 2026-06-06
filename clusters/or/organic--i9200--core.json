@@ -1,0 +1,157 @@
+{
+    "id": "i9200",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "organic",
+    "en_definition": "being or relating to or derived from or having properties characteristic of living organisms",
+    "tr_word": "organik",
+    "tr_definition": "canlı organizmalarla ilgili olan veya onlardan türetilen",
+    "ru_word": "органический",
+    "ru_definition": "относящийся к живым организмам или полученный из них",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təbii"
+                ],
+                "Turkmen": [
+                    "tebigy"
+                ],
+                "Uzbek": [
+                    "tabiiy"
+                ],
+                "Uyghur": [
+                    "تەبىئىي"
+                ],
+                "Kazakh": [
+                    "табиғи"
+                ],
+                "Kyrgyz": [
+                    "табигый"
+                ],
+                "Karakalpak": [
+                    "tabiyǵıy"
+                ],
+                "Tatar": [
+                    "табигый"
+                ],
+                "Bashkir": [
+                    "тәбиғи"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "organik"
+                ],
+                "Turkmen": [
+                    "organiki"
+                ],
+                "Uyghur": [
+                    "ئورگانىك",
+                    "ئورگانلىق"
+                ],
+                "Kazakh": [
+                    "органикалық"
+                ],
+                "Kyrgyz": [
+                    "органикалык"
+                ],
+                "Tatar": [
+                    "органик"
+                ],
+                "Bashkir": [
+                    "органик"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "canlı"
+                ],
+                "Azerbaijani": [
+                    "canlı"
+                ],
+                "Turkmen": [
+                    "janly"
+                ],
+                "Uyghur": [
+                    "جانلىق"
+                ],
+                "Kyrgyz": [
+                    "жандуу"
+                ],
+                "Karakalpak": [
+                    "janlı"
+                ],
+                "Tatar": [
+                    "җанлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzvi"
+                ],
+                "Azerbaijani": [
+                    "üzvi"
+                ],
+                "Uzbek": [
+                    "uzviy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тірі"
+                ],
+                "Tatar": [
+                    "тере"
+                ],
+                "Bashkir": [
+                    "тере"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hayati"
+                ],
+                "Uzbek": [
+                    "hayotiy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tirshilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаратылыстық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aǵzalı"
+                ]
+            }
+        }
+    ]
+}

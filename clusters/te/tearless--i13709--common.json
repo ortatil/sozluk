@@ -1,0 +1,105 @@
+{
+    "id": "i13709",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "tearless",
+    "en_definition": "free from tears",
+    "tr_word": "gözü yaşsız",
+    "tr_definition": "gözyaşı dökmeyen veya gözlerinde yaş olmayan",
+    "ru_word": "без слез",
+    "ru_definition": "не проливающий слез или не имеющий слез",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gözyaşsız"
+                ],
+                "Azerbaijani": [
+                    "göz yaşsız"
+                ],
+                "Turkmen": [
+                    "gözýaşsyz"
+                ],
+                "Uzbek": [
+                    "ko'zyoshsiz"
+                ],
+                "Uyghur": [
+                    "كۆز ياشسىز"
+                ],
+                "Kazakh": [
+                    "көз жассыз"
+                ],
+                "Kyrgyz": [
+                    "көз жашсыз"
+                ],
+                "Karakalpak": [
+                    "kóz jassız"
+                ],
+                "Bashkir": [
+                    "күҙ йәшһеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaşsız"
+                ],
+                "Azerbaijani": [
+                    "yaşsız"
+                ],
+                "Uzbek": [
+                    "yoshsiz"
+                ],
+                "Uyghur": [
+                    "ياشسىز"
+                ],
+                "Kazakh": [
+                    "жассыз"
+                ],
+                "Kyrgyz": [
+                    "жашсыз"
+                ],
+                "Karakalpak": [
+                    "jassız"
+                ],
+                "Tatar": [
+                    "яшьсез"
+                ],
+                "Bashkir": [
+                    "йәшһеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurugöz"
+                ],
+                "Azerbaijani": [
+                    "quru"
+                ],
+                "Tatar": [
+                    "коры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "aglamadyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "namlanmagan"
+                ]
+            }
+        }
+    ]
+}

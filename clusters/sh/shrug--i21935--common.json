@@ -1,0 +1,84 @@
+{
+    "id": "i21935",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "shrug",
+    "en_definition": "raise one's shoulders to indicate indifference or resignation",
+    "tr_word": "omuz silkmek",
+    "tr_definition": "kayıtsızlık veya kabullenme belirtmek için omuzları yukarı kaldırmak",
+    "ru_word": "пожимать плечами",
+    "ru_definition": "поднимать плечи, выражая безразличие или смирение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çiyin çəkmək",
+                    "çiyinlərini qaldırmaq",
+                    "çiyin silkələmək"
+                ],
+                "Turkmen": [
+                    "egin gysmak",
+                    "egin silkme",
+                    "egin galdyrmak"
+                ],
+                "Kyrgyz": [
+                    "ийин куушуруу",
+                    "ийин куушур",
+                    "ийин күүшө"
+                ],
+                "Karakalpak": [
+                    "iyin qısıo",
+                    "iyin kóterio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yelka qisib qo'ymoq",
+                    "yelka qismoq"
+                ],
+                "Tatar": [
+                    "җилкә кагу",
+                    "җилкә селкү",
+                    "җилкә күтәрү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "omuz silkmek",
+                    "omuz bükmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۈرە قىسماق",
+                    "مۈرىسىنى قىسماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "иық қозғау",
+                    "иық көтеру",
+                    "иық қиқаңдату",
+                    "иық шушаңдату"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яурын һикертеү",
+                    "яурын ҡыҫыу"
+                ]
+            }
+        }
+    ]
+}

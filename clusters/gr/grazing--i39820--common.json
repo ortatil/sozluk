@@ -1,0 +1,118 @@
+{
+    "id": "i39820",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "grazing",
+    "en_definition": "the act of grazing",
+    "tr_word": "otlatma",
+    "tr_definition": "Hayvanların otlakta ot yeme eylemi",
+    "ru_word": "выпас",
+    "ru_definition": "процесс поедания травы животными на пастбище",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otlama",
+                    "otlatma"
+                ],
+                "Azerbaijani": [
+                    "otlama",
+                    "otladılma",
+                    "otlaq"
+                ],
+                "Turkmen": [
+                    "otlama",
+                    "otlatma"
+                ],
+                "Uzbek": [
+                    "o'tlatish",
+                    "o'tlatuv"
+                ],
+                "Uyghur": [
+                    "ئوتلاق",
+                    "ئوتلىتىش"
+                ],
+                "Kazakh": [
+                    "оттау"
+                ],
+                "Kyrgyz": [
+                    "оттоо"
+                ],
+                "Tatar": [
+                    "утлау"
+                ],
+                "Bashkir": [
+                    "өтөлөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yayılma"
+                ],
+                "Turkmen": [
+                    "bakylma"
+                ],
+                "Kazakh": [
+                    "жайылым",
+                    "жайылу"
+                ],
+                "Kyrgyz": [
+                    "жайылуу",
+                    "жайыт"
+                ],
+                "Karakalpak": [
+                    "jayılım",
+                    "jayılıs",
+                    "jayılıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boqish"
+                ],
+                "Uyghur": [
+                    "بېقىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көтү",
+                    "көтүлек"
+                ],
+                "Bashkir": [
+                    "өтөү",
+                    "көтөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yayratish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چارۋىچىلىق"
+                ]
+            }
+        }
+    ]
+}

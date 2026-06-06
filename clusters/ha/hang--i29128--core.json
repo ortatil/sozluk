@@ -1,0 +1,124 @@
+{
+    "id": "i29128",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "hang",
+    "en_definition": "be suspended or hanging",
+    "tr_word": "asmak",
+    "tr_definition": "bir şeyi bir yere iliştirip aşağı doğru sarkıtmak",
+    "ru_word": "висеть",
+    "ru_definition": "находиться в подвешенном состоянии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asmak",
+                    "asılmak"
+                ],
+                "Azerbaijani": [
+                    "asılmaq",
+                    "asılı qalmaq"
+                ],
+                "Turkmen": [
+                    "asmak",
+                    "asylmak",
+                    "aslyp goýmak"
+                ],
+                "Uzbek": [
+                    "osmoq",
+                    "osilib turmoq"
+                ],
+                "Uyghur": [
+                    "ئېسىلماق",
+                    "ئېسىپ قويۇلماق"
+                ],
+                "Kazakh": [
+                    "асу",
+                    "асылу"
+                ],
+                "Kyrgyz": [
+                    "асылуу",
+                    "асылып туруу"
+                ],
+                "Karakalpak": [
+                    "asılıp turıo",
+                    "asılıo"
+                ],
+                "Tatar": [
+                    "асылынып тору",
+                    "асылырга"
+                ],
+                "Bashkir": [
+                    "аҫылынып тороу",
+                    "аҫылыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ілу",
+                    "іліну"
+                ],
+                "Kyrgyz": [
+                    "илинип туруу"
+                ],
+                "Karakalpak": [
+                    "ildirio",
+                    "ilu"
+                ],
+                "Tatar": [
+                    "эленергә",
+                    "эленеп тору"
+                ],
+                "Bashkir": [
+                    "эленеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muallakta kalmak"
+                ],
+                "Uzbek": [
+                    "muallaq turmoq"
+                ],
+                "Uyghur": [
+                    "مۇئەللەقتە تۇرماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sallanmaq"
+                ],
+                "Kazakh": [
+                    "салбырау"
+                ],
+                "Kyrgyz": [
+                    "салынуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sarkmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ساڭگىلىماق"
+                ]
+            }
+        }
+    ]
+}

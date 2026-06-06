@@ -1,0 +1,90 @@
+{
+    "id": "i49857",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "after-shave",
+    "en_definition": "a fragrant lotion for a man's face after shaving",
+    "tr_word": "tıraş kolonyası",
+    "tr_definition": "tıraştan sonra yüze sürülen hoş kokulu losyon",
+    "ru_word": "лосьон после бритья",
+    "ru_definition": "ароматическое средство, наносимое на лицо мужчины после бритья",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қырынудан кейінгі иіссу",
+                    "қырынудан кейінгі лосьон"
+                ],
+                "Kyrgyz": [
+                    "кырынуудан кийинки атыр",
+                    "кырынуудан кийинки суюктук",
+                    "кырынуудан кийинки лосьон"
+                ],
+                "Karakalpak": [
+                    "qırınıp bolǵannan keyіngі iіs su",
+                    "qırınıp bolǵannan keyіngі loson"
+                ],
+                "Tatar": [
+                    "кырынудан соңгы су",
+                    "кырынудан соңгы хушбуй"
+                ],
+                "Bashkir": [
+                    "ҡырынғандан һуң һөртөлә торған хушбуй",
+                    "ҡырынғандан һуң һөртөлә торған май",
+                    "ҡырынғандан һуңғы хушбуй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tıraş kolonyası",
+                    "tıraş losyonu",
+                    "tıraş sonrası losyonu"
+                ],
+                "Azerbaijani": [
+                    "təraşdan sonra losyon",
+                    "təraşdan sonra ətir",
+                    "təraşdan sonra maye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "soqol olingandan keyingi losyon",
+                    "soqol olingandan keyingi malham",
+                    "soqol olingandan keyingi atir"
+                ],
+                "Uyghur": [
+                    "ساقال يېغى",
+                    "ساقالدىن كېيىنكى سۇيۇقلۇق",
+                    "ساقالدىن كېيىنكى ئەتىر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sakgal losýony",
+                    "sakgal suwy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýüz losýony"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бетке арналған иіссу"
+                ]
+            }
+        }
+    ]
+}

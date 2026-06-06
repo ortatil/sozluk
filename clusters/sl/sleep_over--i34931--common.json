@@ -1,0 +1,121 @@
+{
+    "id": "i34931",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "sleep over",
+    "en_definition": "stay overnight",
+    "tr_word": "yatıya kalmak",
+    "tr_definition": "Birinin evinde geceyi geçirmek, konaklamak.",
+    "ru_word": "переночевать",
+    "ru_definition": "Провести ночь в гостях или в каком-либо месте вне своего дома.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konaklamak"
+                ],
+                "Azerbaijani": [
+                    "qonaq qalmaq"
+                ],
+                "Turkmen": [
+                    "gonmak"
+                ],
+                "Uyghur": [
+                    "قونماق",
+                    "قونۇپ قالماق"
+                ],
+                "Kazakh": [
+                    "қону",
+                    "қона жату"
+                ],
+                "Kyrgyz": [
+                    "конуу"
+                ],
+                "Karakalpak": [
+                    "qonu"
+                ],
+                "Tatar": [
+                    "куну"
+                ],
+                "Bashkir": [
+                    "ҡуныу",
+                    "ҡунып ҡалыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tünemek"
+                ],
+                "Uzbek": [
+                    "tunab qolmoq",
+                    "tunamoq"
+                ],
+                "Uyghur": [
+                    "تۈنىمەك"
+                ],
+                "Kazakh": [
+                    "түнеу"
+                ],
+                "Kyrgyz": [
+                    "түнөө",
+                    "түнөп калуу"
+                ],
+                "Karakalpak": [
+                    "túneu",
+                    "túnep qalıo"
+                ],
+                "Tatar": [
+                    "төн куну",
+                    "төнлә калу"
+                ],
+                "Bashkir": [
+                    "төнәү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gecelemek"
+                ],
+                "Azerbaijani": [
+                    "gecələmək",
+                    "gecəni keçirmək"
+                ],
+                "Turkmen": [
+                    "gelemek",
+                    "gecelemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yatıya kalmak"
+                ],
+                "Uzbek": [
+                    "yotib qolmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kalmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mehmon bo'lib qolmoq"
+                ]
+            }
+        }
+    ]
+}

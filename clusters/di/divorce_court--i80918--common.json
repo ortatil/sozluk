@@ -1,0 +1,121 @@
+{
+    "id": "i80918",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "divorce court",
+    "en_definition": "a court having jurisdiction over the termination of marriage contracts",
+    "tr_word": "boşanma mahkemesi",
+    "tr_definition": "evlilik sözleşmelerinin feshi konusunda yetkili olan mahkeme",
+    "ru_word": "суд по бракоразводным делам",
+    "ru_definition": "суд, обладающий юрисдикцией в отношении расторжения брачных контрактов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nikah bozulyan kazyýet"
+                ],
+                "Uzbek": [
+                    "nikohni bekor qilish sudi"
+                ],
+                "Uyghur": [
+                    "نىكاھ مەھكىمىسى"
+                ],
+                "Kazakh": [
+                    "неке бұзу соты",
+                    "неке бұзу істері жөніндегі сот"
+                ],
+                "Kyrgyz": [
+                    "нике соту"
+                ],
+                "Karakalpak": [
+                    "nekeni biykarlao sudı",
+                    "nekeni buzıo sudı"
+                ],
+                "Tatar": [
+                    "никахны өзү суды"
+                ],
+                "Bashkir": [
+                    "никах тарҡатыу суды"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aile mahkemesi"
+                ],
+                "Azerbaijani": [
+                    "ailə məhkəməsi"
+                ],
+                "Uzbek": [
+                    "oila sudi"
+                ],
+                "Uyghur": [
+                    "ئائىلە سوتى"
+                ],
+                "Tatar": [
+                    "гаилә суды"
+                ],
+                "Bashkir": [
+                    "ғаилә эштәре мәхкәмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shariat mahkamasi"
+                ],
+                "Uyghur": [
+                    "شەرئىي مەھكىمە"
+                ],
+                "Karakalpak": [
+                    "shariyat sudı"
+                ],
+                "Tatar": [
+                    "шәргый мәхкәмә"
+                ],
+                "Bashkir": [
+                    "шәрғи мәхкәмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boşanma mahkemesi"
+                ],
+                "Azerbaijani": [
+                    "boşanma məhkəməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ажырасу соты"
+                ],
+                "Kyrgyz": [
+                    "ажырашуу соту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maşgala kazyýeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үй-бүлө соту"
+                ]
+            }
+        }
+    ]
+}

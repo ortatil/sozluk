@@ -1,0 +1,74 @@
+{
+    "id": "i81497",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tax law",
+    "en_definition": "the body of laws governing taxation",
+    "tr_word": "vergi hukuku",
+    "tr_definition": "vergilendirmeyi düzenleyen yasalar bütünü",
+    "ru_word": "налоговое право",
+    "ru_definition": "совокупность правовых норм, регулирующих общественные отношения в сфере налогообложения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salgyt kanunçylygy",
+                    "salgyt hukugy"
+                ],
+                "Uzbek": [
+                    "soliq qonunchiligi",
+                    "soliq qonunlari",
+                    "soliq huquqi"
+                ],
+                "Kazakh": [
+                    "салық заңнамасы",
+                    "салық заңы",
+                    "салық құқығы"
+                ],
+                "Kyrgyz": [
+                    "салык мыйзамы",
+                    "салык укугу"
+                ],
+                "Karakalpak": [
+                    "salıq nızamı",
+                    "salıq nızamshılıǵı",
+                    "salıq qaǵıydaları"
+                ],
+                "Tatar": [
+                    "салым кануны",
+                    "салым хокукы",
+                    "салым кануннары"
+                ],
+                "Bashkir": [
+                    "һалым ҡануниәте",
+                    "һалым хоҡуғы",
+                    "һалым ҡанундары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vergi hukuku",
+                    "vergi mevzuatı",
+                    "vergi kanunları"
+                ],
+                "Azerbaijani": [
+                    "vergi hüququ",
+                    "vergi qanunvericiliyi",
+                    "vergi qanunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باج قانۇنى",
+                    "باج نىزامى",
+                    "باج تۈزۈمى"
+                ]
+            }
+        }
+    ]
+}

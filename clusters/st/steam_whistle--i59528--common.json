@@ -1,0 +1,86 @@
+{
+    "id": "i59528",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "steam whistle",
+    "en_definition": "a whistle in which the sound is produced by steam; usually attached to a steam boiler",
+    "tr_word": "buhar düdüğü",
+    "tr_definition": "Sesi buharla üreten ve genellikle bir buhar kazanına bağlı olan düdük.",
+    "ru_word": "паровой свисток",
+    "ru_definition": "свисток, в котором звук производится паром; обычно устанавливается на паровых котлах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buhar düdüğü"
+                ],
+                "Azerbaijani": [
+                    "buxar fiti",
+                    "buxar düdüyü"
+                ],
+                "Turkmen": [
+                    "bug süzgüji",
+                    "bug düýdük",
+                    "bug sykylygy"
+                ],
+                "Uzbek": [
+                    "bug' hushtagi",
+                    "bug' sarnayi",
+                    "bug' faryodi"
+                ],
+                "Kazakh": [
+                    "бу ысқырығы",
+                    "бу кернейі"
+                ],
+                "Kyrgyz": [
+                    "буу ышкырыгы",
+                    "буу сурнайы"
+                ],
+                "Karakalpak": [
+                    "buu sıbızǵısı",
+                    "buu kerneyi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پار سىبىزغۇسى"
+                ],
+                "Tatar": [
+                    "пар сыбызгысы",
+                    "пар быргысы"
+                ],
+                "Bashkir": [
+                    "пар һыҙғыртҡысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پار پۇشتىكى"
+                ],
+                "Bashkir": [
+                    "пар гудогы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vapur düdüğü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lokomotif düdüğü"
+                ]
+            }
+        }
+    ]
+}

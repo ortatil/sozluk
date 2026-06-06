@@ -1,0 +1,132 @@
+{
+    "id": "i93384",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "student teacher",
+    "en_definition": "a college student who is teaching under the supervision of a certified teacher in order to qualify for a degree in education",
+    "tr_word": "stajyer öğretmen",
+    "tr_definition": "eğitim derecesi almak amacıyla sertifikalı bir öğretmenin gözetiminde ders veren üniversite öğrencisi",
+    "ru_word": "практикант",
+    "ru_definition": "студент педагогического учебного заведения, проходящий практику в школе под руководством опытного преподавателя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təcrübəçi müəllim"
+                ],
+                "Turkmen": [
+                    "tejribeçi talyp"
+                ],
+                "Uyghur": [
+                    "تەجرىبە ئۆتەۋاتقان ئوقۇغۇچى"
+                ],
+                "Kazakh": [
+                    "тәжірибеші",
+                    "тәжірибе жинақтаушы"
+                ],
+                "Kyrgyz": [
+                    "тажрыйба топтоочу"
+                ],
+                "Karakalpak": [
+                    "tájiriybe úyrenioshi",
+                    "tájiriybeshi"
+                ],
+                "Tatar": [
+                    "тәҗрибә туплаучы"
+                ],
+                "Bashkir": [
+                    "тәжрибәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "praktikant"
+                ],
+                "Uyghur": [
+                    "پىراكتىكانت ئوقۇغۇچى"
+                ],
+                "Kyrgyz": [
+                    "практикант"
+                ],
+                "Karakalpak": [
+                    "praktikant"
+                ],
+                "Tatar": [
+                    "практикант"
+                ],
+                "Bashkir": [
+                    "практикант"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öğretmen adayı"
+                ],
+                "Kazakh": [
+                    "үйренуші мұғалім"
+                ],
+                "Kyrgyz": [
+                    "үйрөнчүк мугалим"
+                ],
+                "Tatar": [
+                    "өйрәнчек укытучы"
+                ],
+                "Bashkir": [
+                    "өйрәнсек уҡытыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "stajyer öğretmen"
+                ],
+                "Azerbaijani": [
+                    "stajçı müəllim"
+                ],
+                "Uzbek": [
+                    "stajyor-oʻqituvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "amaliyotchi"
+                ],
+                "Uyghur": [
+                    "ئەمەلىيەتچى ئوقۇغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aday öğretmen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mugallymçylyk tejribeçisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shogird-muallim"
+                ]
+            }
+        }
+    ]
+}

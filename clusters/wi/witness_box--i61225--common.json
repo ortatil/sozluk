@@ -1,0 +1,87 @@
+{
+    "id": "i61225",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "witness box",
+    "en_definition": "a box enclosure for a witness when testifying",
+    "tr_word": "tanık kürsüsü",
+    "tr_definition": "mahkemede tanığın ifade verirken durduğu yer",
+    "ru_word": "место для свидетеля",
+    "ru_definition": "огороженное место в зале суда, где свидетель дает показания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şahit kürsüsü",
+                    "şahit yeri"
+                ],
+                "Azerbaijani": [
+                    "şahid kürsüsü",
+                    "şahid yeri"
+                ],
+                "Turkmen": [
+                    "şaýat kürsisi",
+                    "şaýat ýeri"
+                ],
+                "Tatar": [
+                    "шаһит урыны",
+                    "шаһитлар урыны"
+                ],
+                "Bashkir": [
+                    "шаһиттар урыны",
+                    "шаһиттар кәртәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "guvohlik kursisi",
+                    "guvohlik joyi",
+                    "guvohlar oʻrni"
+                ],
+                "Uyghur": [
+                    "گۇۋاھچىلار ئورنى",
+                    "گۇۋاھچىلار مۇنبىرى",
+                    "گۇۋاھلىق بېرىش ئورنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tanık kürsüsü",
+                    "tanık yeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "куәгерлер орны",
+                    "куәгерлер мінбері",
+                    "куәгерлер сөресі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күбө орду",
+                    "күбө трибунасы",
+                    "күбө жайы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "gúoa ornı",
+                    "gúoalar ornı",
+                    "gúoalıq berio ornı"
+                ]
+            }
+        }
+    ]
+}

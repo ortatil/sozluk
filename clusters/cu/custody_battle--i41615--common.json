@@ -1,0 +1,95 @@
+{
+    "id": "i41615",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "custody battle",
+    "en_definition": "litigation to settle custody of the children of a divorced couple",
+    "tr_word": "velayet davası",
+    "tr_definition": "Boşanmış bir çiftin çocuklarının velayetini belirlemek için açılan dava.",
+    "ru_word": "спор об опеке",
+    "ru_definition": "Судебный процесс по определению того, с кем из разведенных родителей останутся дети.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "velayet davası",
+                    "velayet mücadelesi",
+                    "velayet çekişmesi"
+                ],
+                "Azerbaijani": [
+                    "vəlayət davası",
+                    "vəlayət mübahisəsi"
+                ],
+                "Uyghur": [
+                    "بالا بېقىش ھوقۇقى تالىشىش",
+                    "بالا بېقىش ھوقۇقى ماجىراسى"
+                ],
+                "Kazakh": [
+                    "балаға қамқорлық үшін талас",
+                    "баланы тәрбиелеу құқығы үшін дау",
+                    "бала тағдыры үшін соттасу"
+                ],
+                "Kyrgyz": [
+                    "баланы талашуу",
+                    "бала талашуу",
+                    "баланын тагдырын чечүү",
+                    "баланын камкордугу үчүн күрөш"
+                ],
+                "Karakalpak": [
+                    "bala talası",
+                    "balanı baǵıp-qaǵu huqıǵı ushın gúres",
+                    "bala tárbiyası boyınsha dao"
+                ],
+                "Tatar": [
+                    "бала хокукы өчен көрәш",
+                    "бала тәрбиясе өчен низаг",
+                    "бала язмышы өчен дәгъва"
+                ],
+                "Bashkir": [
+                    "бала өсөн талаш",
+                    "баланы ҡалдырыу тураһындағы бәхәс",
+                    "бала тәрбиәләү хоҡуғы өсөн көрәш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "himayə davası"
+                ],
+                "Uyghur": [
+                    "ھامىيلىق تالىشىش دەۋاسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "övladın himayəsi uğrunda mübarizə"
+                ],
+                "Uzbek": [
+                    "farzand tarbiyasi huquqi uchun nizo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaga hakyndaky dawa",
+                    "çaganyň hossarlygy ugrundaky dawa",
+                    "hossarlyk dawasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vasiylik talashuvi",
+                    "vasiylik uchun kurash",
+                    "vasiylik nizosi"
+                ]
+            }
+        }
+    ]
+}

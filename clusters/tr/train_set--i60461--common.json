@@ -1,0 +1,82 @@
+{
+    "id": "i60461",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "train set",
+    "en_definition": "a toy consisting of small models of railroad trains and the track for them to run on",
+    "tr_word": "oyuncak tren seti",
+    "tr_definition": "küçük model trenler ve üzerinde hareket ettikleri raylardan oluşan oyuncak",
+    "ru_word": "игрушечная железная дорога",
+    "ru_definition": "игрушка, состоящая из моделей поездов и путей, по которым они ездят",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyuncak tren seti",
+                    "oyuncak şimendifer"
+                ],
+                "Azerbaijani": [
+                    "oyuncaq qatar dəsti",
+                    "oyuncaq qatar"
+                ],
+                "Turkmen": [
+                    "oýunjak otly",
+                    "oýunjak otly toplumy"
+                ],
+                "Uzbek": [
+                    "o'yinchoq poyezd"
+                ],
+                "Uyghur": [
+                    "ئويۇنچۇق پويىز",
+                    "ئويۇنچۇق پويىز گۇرۇپپىسى",
+                    "ئويۇنچۇق پويىز يۈرۈشلۈكى"
+                ],
+                "Kazakh": [
+                    "ойыншық пойыз",
+                    "ойыншық темір жол"
+                ],
+                "Kyrgyz": [
+                    "оюнчук поезд"
+                ],
+                "Karakalpak": [
+                    "oyınshıq poezd",
+                    "oyınshıq temir jol"
+                ],
+                "Tatar": [
+                    "уенчык поезд"
+                ],
+                "Bashkir": [
+                    "уйынсыҡ тимер юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dəmiryolu dəsti"
+                ],
+                "Uzbek": [
+                    "temir yo'l o'yinchog'i"
+                ],
+                "Kyrgyz": [
+                    "темир жол оюнчугу"
+                ],
+                "Tatar": [
+                    "тимер юл уены"
+                ],
+                "Bashkir": [
+                    "тимер юл уйынсығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tren takımı"
+                ]
+            }
+        }
+    ]
+}

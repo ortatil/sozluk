@@ -1,0 +1,89 @@
+{
+    "id": "i88307",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "art dealer",
+    "en_definition": "a dealer in works of art requiring esthetic evaluation",
+    "tr_word": "sanat galericisi",
+    "tr_definition": "estetik değerlendirme gerektiren sanat eserlerinin ticaretini yapan kimse",
+    "ru_word": "арт-дилер",
+    "ru_definition": "лицо или компания, занимающиеся куплей-продажей произведений искусства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanat taciri",
+                    "sanat galericisi",
+                    "sanat simsarı",
+                    "sanat tüccarı"
+                ],
+                "Azerbaijani": [
+                    "sənət taciri",
+                    "sənət əsərləri satıcısı",
+                    "sənət dəllalı"
+                ],
+                "Turkmen": [
+                    "sungat söwdagäri",
+                    "sungat dellaly",
+                    "sungat täjiri"
+                ],
+                "Uzbek": [
+                    "san'at savdogari",
+                    "san'at asarlari sotuvchisi",
+                    "san'at dilleri"
+                ],
+                "Uyghur": [
+                    "سەنئەت ئەسەرلىرى سودىگىرى",
+                    "سەنئەت سودىگىرى",
+                    "سەنئەت ئەسەرلىرى ئېلىم-سېتىمچىسى"
+                ],
+                "Karakalpak": [
+                    "súrát saudagerі"
+                ],
+                "Tatar": [
+                    "сәнгать сатучысы",
+                    "сәнгать әсәрләре белән сәүдә итүче",
+                    "сәнгать деллялы"
+                ],
+                "Bashkir": [
+                    "сәнғәт һатыусыһы",
+                    "сәнғәт әҫәрҙәре менән һәүҙә итеүсе",
+                    "сәнғәт сауҙагәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өнер саудагері",
+                    "өнер делдалы",
+                    "өнер туындыларын сатушы"
+                ],
+                "Kyrgyz": [
+                    "өнөр соодагери",
+                    "өнөр сатуучусу"
+                ],
+                "Karakalpak": [
+                    "óner saudagerі",
+                    "óner deldalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "incəsənət taciri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "искусство соодагери"
+                ]
+            }
+        }
+    ]
+}

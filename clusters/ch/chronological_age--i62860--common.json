@@ -1,0 +1,120 @@
+{
+    "id": "i62860",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chronological age",
+    "en_definition": "age measured by the time (years and months) that something or someone has existed",
+    "tr_word": "kronolojik yaş",
+    "tr_definition": "bir kişinin doğumundan itibaren geçen sürenin yıl, ay ve gün cinsinden ifadesi",
+    "ru_word": "хронологический возраст",
+    "ru_definition": "период времени от рождения до настоящего момента, измеряемый в годах, месяцах и днях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaş"
+                ],
+                "Azerbaijani": [
+                    "yaş"
+                ],
+                "Turkmen": [
+                    "ýaş"
+                ],
+                "Uzbek": [
+                    "yosh"
+                ],
+                "Uyghur": [
+                    "ياش"
+                ],
+                "Kazakh": [
+                    "жас",
+                    "жас мөлшері"
+                ],
+                "Kyrgyz": [
+                    "жаш"
+                ],
+                "Karakalpak": [
+                    "jas"
+                ],
+                "Tatar": [
+                    "яшь"
+                ],
+                "Bashkir": [
+                    "йәш",
+                    "йәш дәүере"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ömür"
+                ],
+                "Azerbaijani": [
+                    "ömür"
+                ],
+                "Turkmen": [
+                    "ömür"
+                ],
+                "Uzbek": [
+                    "umr"
+                ],
+                "Uyghur": [
+                    "ئۆمۈر"
+                ],
+                "Kazakh": [
+                    "ғұмыр"
+                ],
+                "Kyrgyz": [
+                    "өмүр жашы"
+                ],
+                "Karakalpak": [
+                    "ómir jası"
+                ],
+                "Bashkir": [
+                    "ғүмер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sin"
+                ],
+                "Uyghur": [
+                    "سەنە"
+                ],
+                "Tatar": [
+                    "син"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takvim yaşı"
+                ],
+                "Azerbaijani": [
+                    "təqvim yaşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "курак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гомер"
+                ]
+            }
+        }
+    ]
+}

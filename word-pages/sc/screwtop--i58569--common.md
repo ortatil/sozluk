@@ -1,0 +1,112 @@
+# Screwtop
+| Field | Detail |
+|---|---|
+| **ID** | i58569 |
+| **English** | screwtop |
+| **Type** | noun |
+| **Definition** | the top of a container that must be screwed off and on |
+| **Source** | common |
+| **Ortatil** | gapak |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i58569",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "screwtop",
+    "en_definition": "the top of a container that must be screwed off and on",
+    "tr_word": "vidalı kapak",
+    "tr_definition": "bir kabın çevrilerek açılıp kapanan kapağı",
+    "ru_word": "винтовая крышка",
+    "ru_definition": "крышка контейнера, которую необходимо откручивать и закручивать",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "burgulu kapak"
+                ],
+                "Azerbaijani": [
+                    "burulan qapaq"
+                ],
+                "Turkmen": [
+                    "burmaly gapak"
+                ],
+                "Uzbek": [
+                    "burama qopqoq"
+                ],
+                "Uyghur": [
+                    "بۇرما قاپاق",
+                    "بۇرما ئېغىز",
+                    "بۇرما پۈۋەك"
+                ],
+                "Kazakh": [
+                    "бұрама қақпақ",
+                    "бұралатын қақпақ"
+                ],
+                "Kyrgyz": [
+                    "бурама капкак",
+                    "буралуучу капкак"
+                ],
+                "Karakalpak": [
+                    "burama qaqpaq",
+                    "buralmalı qaqpaq"
+                ],
+                "Tatar": [
+                    "борып ябыла торган капкач",
+                    "бормалы капкач",
+                    "боргычлы капкач"
+                ],
+                "Bashkir": [
+                    "бормалы ҡапҡас",
+                    "бурама ҡапҡас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vidalı kapak"
+                ],
+                "Uzbek": [
+                    "vintli qopqoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çevirmeli kapak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vintli qapaq",
+                    "vintli başlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gapak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "towlanýan gapak"
+                ]
+            }
+        }
+    ]
+}
+```
+

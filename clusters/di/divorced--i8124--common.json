@@ -1,0 +1,131 @@
+{
+    "id": "i8124",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "divorced",
+    "en_definition": "of someone whose marriage has been legally dissolved",
+    "tr_word": "boşanmış",
+    "tr_definition": "evliliği yasal olarak sona ermiş olan kimse",
+    "ru_word": "разведенный",
+    "ru_definition": "человек, чей брак был официально расторгнут",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "talakly"
+                ],
+                "Uzbek": [
+                    "taloq qilingan"
+                ],
+                "Uyghur": [
+                    "تەلاق قىلىنغان"
+                ],
+                "Kyrgyz": [
+                    "талактуу"
+                ],
+                "Karakalpak": [
+                    "talaq"
+                ],
+                "Tatar": [
+                    "талак ителгән"
+                ],
+                "Bashkir": [
+                    "талаҡ ителгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayrılmış"
+                ],
+                "Azerbaijani": [
+                    "ayrılmış"
+                ],
+                "Turkmen": [
+                    "aýrylyşan"
+                ],
+                "Tatar": [
+                    "аерылган",
+                    "аерылышкан"
+                ],
+                "Bashkir": [
+                    "айырылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ajrashgan"
+                ],
+                "Uyghur": [
+                    "ئاجراشقان"
+                ],
+                "Kazakh": [
+                    "ажырасқан"
+                ],
+                "Kyrgyz": [
+                    "ажырашкан"
+                ],
+                "Karakalpak": [
+                    "ajırasqan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boşanmış"
+                ],
+                "Azerbaijani": [
+                    "boşanmış"
+                ],
+                "Turkmen": [
+                    "boşanan"
+                ],
+                "Uyghur": [
+                    "بوشىغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dul"
+                ],
+                "Azerbaijani": [
+                    "dul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "басы бос"
+                ],
+                "Kyrgyz": [
+                    "башталган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "beva"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "некесі бұзылған"
+                ]
+            }
+        }
+    ]
+}

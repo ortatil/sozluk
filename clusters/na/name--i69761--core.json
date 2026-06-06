@@ -1,0 +1,123 @@
+{
+    "id": "i69761",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "name",
+    "en_definition": "a language unit by which a person or thing is known",
+    "tr_word": "isim",
+    "tr_definition": "bir kimseyi veya bir şeyi anlatmaya, tanımlamaya yarayan sözcük",
+    "ru_word": "имя",
+    "ru_definition": "слово, служащее названием для человека или предмета",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ad"
+                ],
+                "Azerbaijani": [
+                    "ad"
+                ],
+                "Turkmen": [
+                    "at",
+                    "ady"
+                ],
+                "Uyghur": [
+                    "ئات"
+                ],
+                "Kazakh": [
+                    "ат"
+                ],
+                "Kyrgyz": [
+                    "ат"
+                ],
+                "Karakalpak": [
+                    "at"
+                ],
+                "Tatar": [
+                    "ат"
+                ],
+                "Bashkir": [
+                    "ат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "isim"
+                ],
+                "Azerbaijani": [
+                    "isim"
+                ],
+                "Uzbek": [
+                    "ism"
+                ],
+                "Uyghur": [
+                    "ئىسىم"
+                ],
+                "Kazakh": [
+                    "есім"
+                ],
+                "Kyrgyz": [
+                    "ысым"
+                ],
+                "Karakalpak": [
+                    "esim"
+                ],
+                "Tatar": [
+                    "исем"
+                ],
+                "Bashkir": [
+                    "исем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nam"
+                ],
+                "Uzbek": [
+                    "nom"
+                ],
+                "Uyghur": [
+                    "نام"
+                ],
+                "Kyrgyz": [
+                    "наам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ləqəb"
+                ],
+                "Turkmen": [
+                    "lakam"
+                ],
+                "Uzbek": [
+                    "laqab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ныспы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "atama"
+                ]
+            }
+        }
+    ]
+}

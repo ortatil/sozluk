@@ -1,0 +1,162 @@
+# Opera
+| Field | Detail |
+|---|---|
+| **ID** | i73576 |
+| **English** | opera |
+| **Type** | noun |
+| **Definition** | a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes |
+| **Source** | core |
+| **Ortatil** | opera |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **opera** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئوپېرا | opera |
+| **Kazakh** | |
+| опера | opera |
+| жыр-ойын | jır-oyın |
+| **Kyrgyz** | |
+| опера | opera |
+| ыр-оюн | ır-oyun |
+| **Tatar** | |
+| опера | opera |
+| **Bashkir** | |
+| опера | opera |
+
+```json
+{
+    "id": "i73576",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "opera",
+    "en_definition": "a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes",
+    "tr_word": "opera",
+    "tr_definition": "Müzik eşliğinde sergilenen, şarkılı, orkestra eşliğindeki dramatik sahne eseri.",
+    "ru_word": "опера",
+    "ru_definition": "Музыкально-драматическое произведение, в котором действующие лица поют в сопровождении оркестра.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "opera"
+                ],
+                "Azerbaijani": [
+                    "opera"
+                ],
+                "Turkmen": [
+                    "opera"
+                ],
+                "Uzbek": [
+                    "opera"
+                ],
+                "Uyghur": [
+                    "ئوپېرا"
+                ],
+                "Kazakh": [
+                    "опера"
+                ],
+                "Kyrgyz": [
+                    "опера"
+                ],
+                "Tatar": [
+                    "опера"
+                ],
+                "Bashkir": [
+                    "опера"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müzikli oyun"
+                ],
+                "Uzbek": [
+                    "musiqiy drama"
+                ],
+                "Uyghur": [
+                    "مۇزىكىلىق تىياتىر"
+                ],
+                "Kyrgyz": [
+                    "музыкалык драма"
+                ],
+                "Tatar": [
+                    "музыкаль драма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жыр-ойын"
+                ],
+                "Kyrgyz": [
+                    "ыр-оюн"
+                ],
+                "Bashkir": [
+                    "йырлы тамаша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sazly drama"
+                ],
+                "Karakalpak": [
+                    "sazlı drama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəğməli tamaşa"
+                ],
+                "Karakalpak": [
+                    "namalı tamasha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "besteli dram"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күйлі драма"
+                ]
+            }
+        }
+    ]
+}
+```
+

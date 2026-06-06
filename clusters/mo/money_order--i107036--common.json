@@ -1,0 +1,112 @@
+{
+    "id": "i107036",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "money order",
+    "en_definition": "a written order for the payment of a sum to a named individual; obtainable and payable at a post office",
+    "tr_word": "posta havalesi",
+    "tr_definition": "Bir tutarın belirli bir kişiye ödenmesi için postaneden alınan ve ödenen yazılı emir.",
+    "ru_word": "почтовый перевод",
+    "ru_definition": "письменное распоряжение о выплате суммы указанному лицу, которое можно получить и оплатить в почтовом отделении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ақша аударымы",
+                    "ақшалай аударым"
+                ],
+                "Kyrgyz": [
+                    "акча которуу",
+                    "акча жөнөтмөсү",
+                    "акчалай которуу"
+                ],
+                "Karakalpak": [
+                    "aqsha audarması",
+                    "aqsha jollaması"
+                ],
+                "Tatar": [
+                    "акча күчермәсе",
+                    "акча җибәрмәсе"
+                ],
+                "Bashkir": [
+                    "аҡса күсереүе",
+                    "аҡса ебәреүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pul köçürməsi",
+                    "pul havaləsi"
+                ],
+                "Turkmen": [
+                    "pul hawalasy"
+                ],
+                "Uzbek": [
+                    "pul oʻtkazmasi",
+                    "pul joʻnatmasi"
+                ],
+                "Uyghur": [
+                    "پۇل ئەۋەتمىسى",
+                    "پۇل يۆتكىمىسى",
+                    "پۇل ھاۋالىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "posta havalesi"
+                ],
+                "Azerbaijani": [
+                    "poçt havaləsi"
+                ],
+                "Kazakh": [
+                    "пошта аударымы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "xabarlama"
+                ],
+                "Tatar": [
+                    "хат аша акча"
+                ],
+                "Bashkir": [
+                    "хат аша аҡса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havale"
+                ],
+                "Uzbek": [
+                    "havola"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "para havalesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pul geçirmesi"
+                ]
+            }
+        }
+    ]
+}

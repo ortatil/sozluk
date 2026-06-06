@@ -1,0 +1,83 @@
+{
+    "id": "i77575",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "beetroot",
+    "en_definition": "round red root vegetable",
+    "tr_word": "pancar",
+    "tr_definition": "yuvarlak, kırmızı köklü bir sebze",
+    "ru_word": "свёкла",
+    "ru_definition": "круглый красный корнеплод",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyzyl şugundyr"
+                ],
+                "Uzbek": [
+                    "qizilcha"
+                ],
+                "Uyghur": [
+                    "قىزىل چوقۇندۇر"
+                ],
+                "Kazakh": [
+                    "қызылша"
+                ],
+                "Kyrgyz": [
+                    "кызылча"
+                ],
+                "Karakalpak": [
+                    "qızılsha"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл сөгөлдөр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çuğundur"
+                ],
+                "Turkmen": [
+                    "şugundyr"
+                ],
+                "Uyghur": [
+                    "چوقۇندۇر"
+                ],
+                "Tatar": [
+                    "чөгендер"
+                ],
+                "Bashkir": [
+                    "сөгөлдөр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pancar"
+                ],
+                "Azerbaijani": [
+                    "pəncər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırmızı pancar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lavlagi"
+                ]
+            }
+        }
+    ]
+}

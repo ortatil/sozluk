@@ -1,0 +1,133 @@
+{
+    "id": "i90951",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lay witness",
+    "en_definition": "any witness who does not testify as an expert witness",
+    "tr_word": "sıradan tanık",
+    "tr_definition": "uzmanlık gerektirmeyen konularda, sadece gördüklerini veya duyduklarını anlatan, bilirkişi olmayan tanık",
+    "ru_word": "неспециалист-свидетель",
+    "ru_definition": "свидетель, дающий показания на основе личного восприятия, а не на основе специальных экспертных знаний",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "görgü tanığı"
+                ],
+                "Azerbaijani": [
+                    "görən şahid"
+                ],
+                "Turkmen": [
+                    "gören",
+                    "gören şaýat"
+                ],
+                "Kyrgyz": [
+                    "көрүүчү"
+                ],
+                "Tatar": [
+                    "күрүче"
+                ],
+                "Bashkir": [
+                    "күрәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şahit"
+                ],
+                "Turkmen": [
+                    "şat",
+                    "şaýat"
+                ],
+                "Uzbek": [
+                    "shohid"
+                ],
+                "Karakalpak": [
+                    "shayat"
+                ],
+                "Tatar": [
+                    "шаһит"
+                ],
+                "Bashkir": [
+                    "шаһит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "adi şahid"
+                ],
+                "Uzbek": [
+                    "oddiy guvoh"
+                ],
+                "Uyghur": [
+                    "ئادەتتىكى گۇۋاھچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıradan tanık"
+                ],
+                "Azerbaijani": [
+                    "sıravi şahid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күбө",
+                    "күбө-көрүүчү"
+                ],
+                "Karakalpak": [
+                    "gúbá",
+                    "gúbáshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "غەيرىي مۇتەخەسسىس گۇۋاھچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "куә",
+                    "куәгер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көзімен көрген куә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гади шаһит"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "таныҡ"
+                ]
+            }
+        }
+    ]
+}

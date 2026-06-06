@@ -1,0 +1,149 @@
+{
+    "id": "i29074",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "kidnap",
+    "en_definition": "take away to an undisclosed location against their will and usually in order to extract a ransom",
+    "tr_word": "kaçırmak",
+    "tr_definition": "Bir kimseyi zor kullanarak veya hile ile bir yere götürmek, alıkoymak.",
+    "ru_word": "похищать",
+    "ru_definition": "Тайный или открытый захват человека против его воли, часто с целью выкупа.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alıkoymak"
+                ],
+                "Turkmen": [
+                    "alyp gaçmak"
+                ],
+                "Uzbek": [
+                    "olib qochmoq"
+                ],
+                "Kazakh": [
+                    "алып қашу"
+                ],
+                "Kyrgyz": [
+                    "ала качуу"
+                ],
+                "Karakalpak": [
+                    "alıp qashıo"
+                ],
+                "Tatar": [
+                    "алып качу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "oğurlamaq"
+                ],
+                "Turkmen": [
+                    "ogurlamak"
+                ],
+                "Uzbek": [
+                    "o'g'irlamoq"
+                ],
+                "Karakalpak": [
+                    "urlap ketio",
+                    "urlao"
+                ],
+                "Tatar": [
+                    "урлау"
+                ],
+                "Bashkir": [
+                    "урлау",
+                    "урлап алып китеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "girov götürmək"
+                ],
+                "Turkmen": [
+                    "girewe almak"
+                ],
+                "Tatar": [
+                    "кырлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "asir olmoq"
+                ],
+                "Kazakh": [
+                    "жасыру"
+                ],
+                "Tatar": [
+                    "әсир итү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaçırmak"
+                ],
+                "Azerbaijani": [
+                    "qaçırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "adam kaçırmak"
+                ],
+                "Uyghur": [
+                    "ئادەم قاچۇرۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇتۇپ كېتىش"
+                ],
+                "Kazakh": [
+                    "тұтқындау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۆرە تۇتۇش"
+                ],
+                "Kyrgyz": [
+                    "барымтага алуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұрлау"
+                ],
+                "Kyrgyz": [
+                    "уурдоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көсләп алып китеү"
+                ]
+            }
+        }
+    ]
+}

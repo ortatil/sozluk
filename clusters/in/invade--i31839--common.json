@@ -1,0 +1,202 @@
+{
+    "id": "i31839",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "invade",
+    "en_definition": "to intrude upon, infringe, encroach on, violate",
+    "tr_word": "ihlal etmek",
+    "tr_definition": "birinin haklarına veya özel alanına müdahale etmek, çiğnemek veya tecavüz etmek",
+    "ru_word": "вторгаться",
+    "ru_definition": "нарушать чьи-либо права, границы или личное пространство без разрешения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "basqın etmək"
+                ],
+                "Turkmen": [
+                    "basyp almak"
+                ],
+                "Uzbek": [
+                    "bosib olmoq",
+                    "bostirib kirmoq"
+                ],
+                "Uyghur": [
+                    "بېسىپ كىرمەك",
+                    "بېسىۋالماق"
+                ],
+                "Kazakh": [
+                    "басып кіру"
+                ],
+                "Kyrgyz": [
+                    "басып кирүү",
+                    "басып алуу"
+                ],
+                "Karakalpak": [
+                    "basıp kirio",
+                    "basıp alıo",
+                    "buzıp kirio"
+                ],
+                "Tatar": [
+                    "басып керү",
+                    "бәреп керү"
+                ],
+                "Bashkir": [
+                    "баҫып инеү",
+                    "баҫып алыу",
+                    "бәреп инеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hücum etmək"
+                ],
+                "Turkmen": [
+                    "hüjüm etmek"
+                ],
+                "Uzbek": [
+                    "hujum qilmoq"
+                ],
+                "Karakalpak": [
+                    "hújim etio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "istila etmek",
+                    "ihlal etmek"
+                ],
+                "Azerbaijani": [
+                    "istila etmək"
+                ],
+                "Uzbek": [
+                    "istilo qilmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tecavüz etmek"
+                ],
+                "Uzbek": [
+                    "tajovuz qilmoq"
+                ],
+                "Uyghur": [
+                    "تاجاۋۇز قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pozmaq"
+                ],
+                "Turkmen": [
+                    "çozmak"
+                ],
+                "Tatar": [
+                    "бозу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "girmek"
+                ],
+                "Turkmen": [
+                    "girmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zapt etmek"
+                ],
+                "Kazakh": [
+                    "шабуыл жасау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "soxulmaq"
+                ],
+                "Kazakh": [
+                    "сұғыну"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қол сұғу"
+                ],
+                "Kyrgyz": [
+                    "кол салуу",
+                    "кол сунуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұзу"
+                ],
+                "Kyrgyz": [
+                    "бузуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кысылу"
+                ],
+                "Bashkir": [
+                    "ҡыҫылыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çozuş etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دەخلى-تەرۇز قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аяк басу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ябырылыу"
+                ]
+            }
+        }
+    ]
+}

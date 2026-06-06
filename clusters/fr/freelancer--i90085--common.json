@@ -1,0 +1,136 @@
+{
+    "id": "i90085",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "freelancer",
+    "en_definition": "a writer or artist who sells services to different employers without a long-term contract with any of them",
+    "tr_word": "serbest çalışan",
+    "tr_definition": "herhangi bir kuruma bağlı olmadan, projeler üzerinden farklı işverenlere hizmet veren bağımsız çalışan kişi",
+    "ru_word": "фрилансер",
+    "ru_definition": "человек, работающий на себя и выполняющий заказы для разных клиентов без долгосрочного контракта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "erkin hünärmen",
+                    "erkin işleýän"
+                ],
+                "Uzbek": [
+                    "erkin ijodkor",
+                    "erkin ishchi"
+                ],
+                "Uyghur": [
+                    "ئەركىن كەسپىي خادىم",
+                    "ئەركىن ئىشلىگۈچى"
+                ],
+                "Kazakh": [
+                    "еркін қызметкер",
+                    "еркін маман"
+                ],
+                "Kyrgyz": [
+                    "эркин кызматкер",
+                    "эркин адис"
+                ],
+                "Karakalpak": [
+                    "erkin qánige",
+                    "erkin xızmetker",
+                    "erkin jazıoshı",
+                    "erkin ónerment"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "müstəqil mütəxəssis"
+                ],
+                "Uzbek": [
+                    "mustaqil xizmatchi"
+                ],
+                "Uyghur": [
+                    "مۇستەقىل ئىجادكار"
+                ],
+                "Tatar": [
+                    "мөстәкыйль белгеч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "özbaşdak hünärmen"
+                ],
+                "Kazakh": [
+                    "өзін-өзі жұмыспен қамтушы"
+                ],
+                "Kyrgyz": [
+                    "өз алдынча иштеген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "serbest çalışan",
+                    "serbest meslek sahibi"
+                ],
+                "Azerbaijani": [
+                    "sərbəst çalışan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалдамалы қызметкер"
+                ],
+                "Kyrgyz": [
+                    "жалданма кызматкер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирекле хезмәткәр",
+                    "ирекле һөнәр иясе"
+                ],
+                "Bashkir": [
+                    "ирекле хеҙмәткәр",
+                    "ирекле ижадсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağımsız çalışan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "azad işçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яңғыҙ эшләүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәйһеҙ белгес"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "i3850",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "shallow",
+    "en_definition": "lacking physical depth; having little spatial extension downward or inward from an outer surface or backward or outward from a center",
+    "tr_word": "sığ",
+    "tr_definition": "derinliği az olan, derin olmayan",
+    "ru_word": "мелкий",
+    "ru_definition": "имеющий небольшую глубину",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "derin olmayan"
+                ],
+                "Kazakh": [
+                    "терең емес"
+                ],
+                "Kyrgyz": [
+                    "терең эмес"
+                ],
+                "Karakalpak": [
+                    "tereń emes"
+                ],
+                "Tatar": [
+                    "тирән түгел"
+                ],
+                "Bashkir": [
+                    "тәрән түгел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sığ"
+                ],
+                "Azerbaijani": [
+                    "sığ"
+                ],
+                "Uzbek": [
+                    "sayoz"
+                ],
+                "Tatar": [
+                    "сай"
+                ],
+                "Bashkir": [
+                    "һай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dayaz"
+                ],
+                "Uyghur": [
+                    "تېيىز"
+                ],
+                "Kazakh": [
+                    "таяз"
+                ],
+                "Kyrgyz": [
+                    "тайыз"
+                ],
+                "Karakalpak": [
+                    "tayız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yüzeysel"
+                ],
+                "Uzbek": [
+                    "yuzaki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çuň däl"
+                ],
+                "Uyghur": [
+                    "چوڭقۇر ئەمەس"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çala",
+                    "ýalpak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chuqurmas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "беткі"
+                ]
+            }
+        }
+    ]
+}

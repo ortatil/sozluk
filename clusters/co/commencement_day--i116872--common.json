@@ -1,0 +1,148 @@
+{
+    "id": "i116872",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "commencement day",
+    "en_definition": "the day on which university degrees are conferred",
+    "tr_word": "mezuniyet günü",
+    "tr_definition": "üniversite diplomalarının verildiği gün",
+    "ru_word": "день выпуска",
+    "ru_definition": "день, когда вручаются университетские дипломы и степени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diploma töreni"
+                ],
+                "Turkmen": [
+                    "diplom gowşurylyş güni"
+                ],
+                "Uzbek": [
+                    "diplom topshirish kuni"
+                ],
+                "Kazakh": [
+                    "диплом тапсыру күні"
+                ],
+                "Kyrgyz": [
+                    "диплом тапшыруу аземи"
+                ],
+                "Karakalpak": [
+                    "diplom tapsırıo kúni"
+                ],
+                "Tatar": [
+                    "диплом тапшыру көне"
+                ],
+                "Bashkir": [
+                    "диплом тапшырыу көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bitiruv kuni"
+                ],
+                "Kazakh": [
+                    "бітіру күні"
+                ],
+                "Kyrgyz": [
+                    "бүтүрүү кечеси",
+                    "бүтүрүү күнү"
+                ],
+                "Karakalpak": [
+                    "bútiriú kúni"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tamamlanyş güni"
+                ],
+                "Tatar": [
+                    "тәмамлау көне"
+                ],
+                "Bashkir": [
+                    "төмамлау көнө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mezuniyet günü",
+                    "mezuniyet töreni"
+                ],
+                "Azerbaijani": [
+                    "məzuniyyət günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təntənəli mərasim günü"
+                ],
+                "Uzbek": [
+                    "tantanali bitiruv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوقۇش پۈتتۈرۈش مۇراسىمى",
+                    "ئوقۇش پۈتتۈرۈش كۈنى"
+                ],
+                "Karakalpak": [
+                    "oqıodı tamamlao kúni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "buraxılış günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uçurym güni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شەھادەتنامە تارقىتىش مۇراسىمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түлектер күні"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чыгарылыш көне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "байрам көнө"
+                ]
+            }
+        }
+    ]
+}

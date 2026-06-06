@@ -1,0 +1,82 @@
+{
+    "id": "i86181",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shortener",
+    "en_definition": "any agent that shortens",
+    "tr_word": "kısaltıcı",
+    "tr_definition": "herhangi bir şeyi kısaltan veya boyunu azaltan madde veya araç",
+    "ru_word": "укорачиватель",
+    "ru_definition": "любое средство или приспособление, которое укорачивает что-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısaltıcı",
+                    "kısaltma aracı",
+                    "eksiltici"
+                ],
+                "Azerbaijani": [
+                    "qısaldıcı"
+                ],
+                "Turkmen": [
+                    "gysgaldyjy",
+                    "gysgaldyjy gural",
+                    "gysgaldyjy serişde"
+                ],
+                "Uzbek": [
+                    "qisqartirgich",
+                    "qisqartiruvchi"
+                ],
+                "Uyghur": [
+                    "قىسقارتىش ۋاسىتىسى",
+                    "قىسقارتىش قورالى",
+                    "قىسقارتىش ئامىلى"
+                ],
+                "Kazakh": [
+                    "қысқартқыш"
+                ],
+                "Kyrgyz": [
+                    "кыскартуучу",
+                    "кыскарткыч"
+                ],
+                "Karakalpak": [
+                    "qısqartıoshı"
+                ],
+                "Tatar": [
+                    "кыскартучы",
+                    "кыскарткыч"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡартыусы",
+                    "ҡыҫҡартыу ҡоралы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "келттеуіш"
+                ],
+                "Karakalpak": [
+                    "kelteytioshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtisarçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kamaytiruvchi"
+                ]
+            }
+        }
+    ]
+}

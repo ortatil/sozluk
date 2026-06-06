@@ -1,0 +1,86 @@
+{
+    "id": "i70892",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "marriage license",
+    "en_definition": "a license authorizing two people to marry",
+    "tr_word": "evlenme cüzdanı",
+    "tr_definition": "iki kişinin evlenmesine izin veren ve evliliği resmileştiren belge",
+    "ru_word": "разрешение на брак",
+    "ru_definition": "документ, выдаваемый государственным органом, разрешающий двум людям вступить в брак",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nikah belgesi"
+                ],
+                "Azerbaijani": [
+                    "nikah şəhadətnaməsi"
+                ],
+                "Turkmen": [
+                    "nikah şahadatnamasy",
+                    "nikah haty"
+                ],
+                "Uzbek": [
+                    "nikoh guvohnomasi",
+                    "nikoh hujjati",
+                    "nikoh qog'ozi"
+                ],
+                "Uyghur": [
+                    "نىكاھ خېتى",
+                    "نىكاھ گۇۋاھنامىسى"
+                ],
+                "Kazakh": [
+                    "неке куәлігі",
+                    "неке қию туралы куәлік",
+                    "неке қағазы"
+                ],
+                "Karakalpak": [
+                    "neke kuálіgі",
+                    "neke qaǵazı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aile cüzdanı"
+                ],
+                "Kyrgyz": [
+                    "нике күбөлүгү",
+                    "нике кагазы",
+                    "нике баракчасы"
+                ],
+                "Tatar": [
+                    "никах кәгазе",
+                    "никах таныклыгы"
+                ],
+                "Bashkir": [
+                    "никах таныҡлығы",
+                    "никах кәртәһе",
+                    "никах ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "evlenme cüzdanı",
+                    "evlilik belgesi"
+                ],
+                "Azerbaijani": [
+                    "evlilik vəsiqəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kəbin kağızı"
+                ]
+            }
+        }
+    ]
+}

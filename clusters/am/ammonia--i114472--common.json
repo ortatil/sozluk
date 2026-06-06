@@ -1,0 +1,89 @@
+{
+    "id": "i114472",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ammonia",
+    "en_definition": "a pungent gas compounded of nitrogen and hydrogen (NH3)",
+    "tr_word": "amonyak",
+    "tr_definition": "azot ve hidrojenden oluşan, keskin kokulu bir gaz (NH3)",
+    "ru_word": "аммиак",
+    "ru_definition": "резко пахнущий газ, соединение азота с водородом (NH3)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nişadır ruhu"
+                ],
+                "Azerbaijani": [
+                    "nişadır",
+                    "nişadır spirti"
+                ],
+                "Turkmen": [
+                    "naşatyr"
+                ],
+                "Uzbek": [
+                    "nashatir",
+                    "nashatir spirti"
+                ],
+                "Uyghur": [
+                    "نوشادىر گازى",
+                    "نوشادىر"
+                ],
+                "Kyrgyz": [
+                    "нашатыр"
+                ],
+                "Karakalpak": [
+                    "nashatır"
+                ],
+                "Tatar": [
+                    "нишатыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "amonyak"
+                ],
+                "Azerbaijani": [
+                    "amonyak"
+                ],
+                "Turkmen": [
+                    "ammiak"
+                ],
+                "Kazakh": [
+                    "аммиак"
+                ],
+                "Karakalpak": [
+                    "ammiak"
+                ],
+                "Tatar": [
+                    "аммиак"
+                ],
+                "Bashkir": [
+                    "аммиак",
+                    "аммиак газы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мүсәтір"
+                ],
+                "Kyrgyz": [
+                    "мүсөтүр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үткер еҫле газ"
+                ]
+            }
+        }
+    ]
+}

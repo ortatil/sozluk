@@ -1,0 +1,114 @@
+# Pet shop
+| Field | Detail |
+|---|---|
+| **ID** | i57184 |
+| **English** | pet shop |
+| **Type** | noun |
+| **Definition** | a shop where pet animals can be purchased |
+| **Source** | common |
+| **Ortatil** | zomağaza |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i57184",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pet shop",
+    "en_definition": "a shop where pet animals can be purchased",
+    "tr_word": "evcil hayvan mağazası",
+    "tr_definition": "evcil hayvanların ve onlarla ilgili malzemelerin satıldığı dükkân",
+    "ru_word": "зоомагазин",
+    "ru_definition": "магазин, в котором продаются домашние животные и товары для них",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "janly-jandarlar dükany"
+                ],
+                "Uzbek": [
+                    "jonivorlar do'koni"
+                ],
+                "Uyghur": [
+                    "جانلىقلار دۇكىنى"
+                ],
+                "Kazakh": [
+                    "жануарлар дүкені"
+                ],
+                "Kyrgyz": [
+                    "жандыктар дүкөнү",
+                    "жаныбарлар дүкөнү"
+                ],
+                "Karakalpak": [
+                    "janlı-janoarlar dúkáni"
+                ],
+                "Tatar": [
+                    "җанварлар кибете"
+                ],
+                "Bashkir": [
+                    "йәнлектәр магазины"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "heyvan mağazası"
+                ],
+                "Turkmen": [
+                    "haýwanat dükany"
+                ],
+                "Uzbek": [
+                    "hayvonlar do'koni"
+                ],
+                "Kazakh": [
+                    "хайуанаттар дүкені"
+                ],
+                "Karakalpak": [
+                    "xayoanatlar dúkáni"
+                ],
+                "Tatar": [
+                    "хайваннар кибете"
+                ],
+                "Bashkir": [
+                    "хайуандар магазины"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "evcil hayvan mağazası"
+                ],
+                "Azerbaijani": [
+                    "ev heyvanları mağazası",
+                    "zoomağaza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akvaryumcu"
+                ],
+                "Kyrgyz": [
+                    "айбанаттар дүкөнү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆي ھايۋانلىرى دۇكىنى"
+                ]
+            }
+        }
+    ]
+}
+```
+

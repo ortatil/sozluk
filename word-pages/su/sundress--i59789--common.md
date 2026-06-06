@@ -1,0 +1,180 @@
+# Sundress
+| Field | Detail |
+|---|---|
+| **ID** | i59789 |
+| **English** | sundress |
+| **Type** | noun |
+| **Definition** | a light loose sleeveless summer dress with a wide neckline and thin shoulder straps that expose the arms and shoulders |
+| **Source** | common |
+| **Ortatil** | sarafan |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sarafan** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.83** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| сарафан | sarafan |
+| **Kyrgyz** | |
+| сарафан | sarafan |
+| **Tatar** | |
+| сарафан | sarafan |
+| **Bashkir** | |
+| сарафан | sarafan |
+
+```json
+{
+    "id": "i59789",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sundress",
+    "en_definition": "a light loose sleeveless summer dress with a wide neckline and thin shoulder straps that expose the arms and shoulders",
+    "tr_word": "güneşlik elbise",
+    "tr_definition": "Kolların ve omuzların açıkta kalmasını sağlayan, ince askılı ve hafif yazlık elbise.",
+    "ru_word": "сарафан",
+    "ru_definition": "Лёгкое летнее платье без рукавов, обычно на бретельках, которое носят в жаркую погоду.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýeňsiz köýnek"
+                ],
+                "Uzbek": [
+                    "yengsiz ko'ylak"
+                ],
+                "Uyghur": [
+                    "يەڭسىز كۆينەك",
+                    "يېنىك كۆينەك"
+                ],
+                "Kazakh": [
+                    "жеңіл көйлек"
+                ],
+                "Kyrgyz": [
+                    "жеңил көйнөк"
+                ],
+                "Karakalpak": [
+                    "jeńsiz kóylek"
+                ],
+                "Tatar": [
+                    "җиңсез күлмәк"
+                ],
+                "Bashkir": [
+                    "еңһеҙ күлдәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazlık elbise"
+                ],
+                "Uzbek": [
+                    "yozgi ko'ylak"
+                ],
+                "Uyghur": [
+                    "يازلىق كۆينەك"
+                ],
+                "Kazakh": [
+                    "жазғы көйлек"
+                ],
+                "Kyrgyz": [
+                    "жайкы көйнөк"
+                ],
+                "Karakalpak": [
+                    "jazǵı kóylek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sarafan"
+                ],
+                "Kazakh": [
+                    "сарафан"
+                ],
+                "Kyrgyz": [
+                    "сарафан"
+                ],
+                "Karakalpak": [
+                    "sarafan"
+                ],
+                "Tatar": [
+                    "сарафан"
+                ],
+                "Bashkir": [
+                    "сарафан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yay donu",
+                    "yay paltarı"
+                ],
+                "Tatar": [
+                    "җәйге күлмәк"
+                ],
+                "Bashkir": [
+                    "йәйге күлдәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "açyk köýnek"
+                ],
+                "Uzbek": [
+                    "ochiq ko'ylak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "askılı elbise"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fistan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tomus köýnegi"
+                ]
+            }
+        }
+    ]
+}
+```
+

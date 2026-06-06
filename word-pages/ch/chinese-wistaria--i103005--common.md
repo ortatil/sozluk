@@ -1,0 +1,131 @@
+# Chinese wistaria
+| Field | Detail |
+|---|---|
+| **ID** | i103005 |
+| **English** | chinese wistaria |
+| **Type** | noun |
+| **Definition** | having deep purple flowers |
+| **Source** | common |
+| **Ortatil** | gulsafsar |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| көкбұршақ | kökburşaq |
+| **Bashkir** | |
+| глициния | glitsiniya |
+
+```json
+{
+    "id": "i103005",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chinese wistaria",
+    "en_definition": "having deep purple flowers",
+    "tr_word": "Çin mor salkımı",
+    "tr_definition": "Derin mor çiçekleri olan bir tırmanıcı bitki türü",
+    "ru_word": "глициния китайская",
+    "ru_definition": "древовидное вьющееся растение с густыми кистями темно-фиолетовых цветков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hytaý wistariýasy"
+                ],
+                "Kazakh": [
+                    "қытай глициниясы"
+                ],
+                "Kyrgyz": [
+                    "кытай глициниясы",
+                    "кытай вистериясы"
+                ],
+                "Karakalpak": [
+                    "qıtay gliciniyası"
+                ],
+                "Tatar": [
+                    "кытай глициниясе",
+                    "кытай вистериясе"
+                ],
+                "Bashkir": [
+                    "ҡытай глицинияһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mor salkım"
+                ],
+                "Turkmen": [
+                    "mor salkym"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bənövşəyi salkım"
+                ],
+                "Uyghur": [
+                    "بىنەپشە گۈللۈك سۆگەت",
+                    "بىنەپشە گۈللۈك لىئانا",
+                    "بىنەپشە گۈللۈك پېچەكگۈل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "gliciniya"
+                ],
+                "Bashkir": [
+                    "глициния"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çin mor salkımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çin visteriyası",
+                    "çin qlisiniyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gulsafsar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vistariya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көкбұршақ"
+                ]
+            }
+        }
+    ]
+}
+```
+

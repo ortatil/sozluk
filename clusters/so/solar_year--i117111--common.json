@@ -1,0 +1,96 @@
+{
+    "id": "i117111",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "solar year",
+    "en_definition": "the time for the earth to make one revolution around the sun, measured between two vernal equinoxes",
+    "tr_word": "güneş yılı",
+    "tr_definition": "Dünya'nın Güneş etrafındaki bir tam dönüşünü tamamlaması için geçen, iki ilkbahar ekinoksu arasında ölçülen süre",
+    "ru_word": "солнечный год",
+    "ru_definition": "промежуток времени, за который Земля совершает один полный оборот вокруг Солнца, измеряемый между двумя весенними равноденствиями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şemsi yıl"
+                ],
+                "Azerbaijani": [
+                    "şəmsi il"
+                ],
+                "Turkmen": [
+                    "şemsi ýyly"
+                ],
+                "Uzbek": [
+                    "shamsiy yil"
+                ],
+                "Uyghur": [
+                    "شەمشى يىل"
+                ],
+                "Kazakh": [
+                    "шәмси жыл"
+                ],
+                "Kyrgyz": [
+                    "шамсий жыл"
+                ],
+                "Karakalpak": [
+                    "shámsiy jıl"
+                ],
+                "Tatar": [
+                    "шәмси ел"
+                ],
+                "Bashkir": [
+                    "шәмси йыл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güneş yılı"
+                ],
+                "Azerbaijani": [
+                    "günəş ili"
+                ],
+                "Turkmen": [
+                    "gün ýyly"
+                ],
+                "Kazakh": [
+                    "күн жылы"
+                ],
+                "Kyrgyz": [
+                    "күн жылы",
+                    "күн календары"
+                ],
+                "Karakalpak": [
+                    "kún jılı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quyosh yili"
+                ],
+                "Uyghur": [
+                    "قۇياش يىلى"
+                ],
+                "Tatar": [
+                    "кояш елы"
+                ],
+                "Bashkir": [
+                    "ҡояш йылы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takvim yılı"
+                ]
+            }
+        }
+    ]
+}

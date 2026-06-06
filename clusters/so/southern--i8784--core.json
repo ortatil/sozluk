@@ -1,0 +1,105 @@
+{
+    "id": "i8784",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "southern",
+    "en_definition": "situated in or coming from regions of the south",
+    "tr_word": "güney",
+    "tr_definition": "Güneyde bulunan veya güneyden gelen",
+    "ru_word": "южный",
+    "ru_definition": "находящийся на юге или происходящий с юга",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cenubi"
+                ],
+                "Azerbaijani": [
+                    "cənub",
+                    "cənubi"
+                ],
+                "Turkmen": [
+                    "jenuby"
+                ],
+                "Uzbek": [
+                    "janubiy"
+                ],
+                "Uyghur": [
+                    "جەنۇبىي",
+                    "جەنۇبتىكى"
+                ],
+                "Kazakh": [
+                    "жәнүби"
+                ],
+                "Tatar": [
+                    "җәнүби"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güney",
+                    "güneyli"
+                ],
+                "Azerbaijani": [
+                    "güney"
+                ],
+                "Kazakh": [
+                    "күнгей"
+                ],
+                "Tatar": [
+                    "көньяк"
+                ],
+                "Bashkir": [
+                    "көньяҡ",
+                    "көньяҡтағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түштүк",
+                    "түштүктөгү",
+                    "түштүк тараптагы"
+                ],
+                "Karakalpak": [
+                    "tústіk",
+                    "tústіktegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оңтүстік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qubla",
+                    "qublalıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "günorta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qush"
+                ]
+            }
+        }
+    ]
+}

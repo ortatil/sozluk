@@ -1,0 +1,104 @@
+{
+    "id": "i51807",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "checkerboard",
+    "en_definition": "a board having 64 squares of two alternating colors",
+    "tr_word": "dama tahtası",
+    "tr_definition": "iki alternatif renkte 64 kareden oluşan bir oyun tahtası",
+    "ru_word": "шахматная доска",
+    "ru_definition": "игровая доска с 64 квадратами двух чередующихся цветов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satranç tahtası"
+                ],
+                "Turkmen": [
+                    "şahmat tagtasy"
+                ],
+                "Uyghur": [
+                    "شاخمات تاختىسى"
+                ],
+                "Kazakh": [
+                    "шахмат тақтасы"
+                ],
+                "Kyrgyz": [
+                    "шахмат тактасы"
+                ],
+                "Karakalpak": [
+                    "shaxmat taxtası"
+                ],
+                "Tatar": [
+                    "шахмат тактасы",
+                    "шакмаклы такта"
+                ],
+                "Bashkir": [
+                    "шахмат таҡтаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dama tahtası"
+                ],
+                "Azerbaijani": [
+                    "dama lövhəsi"
+                ],
+                "Uzbek": [
+                    "dama taxtasi"
+                ],
+                "Karakalpak": [
+                    "dama taxtası"
+                ],
+                "Bashkir": [
+                    "дама таҡтаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şahmat lövhəsi"
+                ],
+                "Uzbek": [
+                    "shaxmat taxtasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дойбы тақтасы"
+                ],
+                "Kyrgyz": [
+                    "тоок такта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "küşt tagtasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كاتەكچە تاختا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чарчы такта"
+                ]
+            }
+        }
+    ]
+}

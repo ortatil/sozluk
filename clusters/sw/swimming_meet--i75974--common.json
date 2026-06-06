@@ -1,0 +1,87 @@
+{
+    "id": "i75974",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "swimming meet",
+    "en_definition": "a swimming competition between two or more teams",
+    "tr_word": "yüzme yarışı",
+    "tr_definition": "iki veya daha fazla takım arasında yapılan yüzme müsabakası",
+    "ru_word": "соревнования по плаванию",
+    "ru_definition": "состязание по плаванию между двумя или более командами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüzme yarışı",
+                    "yüzme müsabakası",
+                    "yüzme şampiyonası"
+                ],
+                "Turkmen": [
+                    "ýüzüş ýaryşy",
+                    "ýüzüş bäsleşigi"
+                ],
+                "Kazakh": [
+                    "жүзу жарысы",
+                    "жүзуден сайыс",
+                    "жүзу бәсекесі"
+                ],
+                "Karakalpak": [
+                    "júzio jarısı",
+                    "júzio boyınsha bellesio"
+                ],
+                "Tatar": [
+                    "йөзү ярышы",
+                    "йөзү бәйгесе",
+                    "йөзү буенча ярыш"
+                ],
+                "Bashkir": [
+                    "йөҙөү ярышы",
+                    "йөҙөү буйынса ярыш",
+                    "йөҙөү бәйгеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwda ýüzmek boýunça ýaryş"
+                ],
+                "Uzbek": [
+                    "suzish musobaqasi",
+                    "suzish bellashuvi",
+                    "suzish bo'yicha musobaqa"
+                ],
+                "Kyrgyz": [
+                    "сүзүү мелдеши",
+                    "сүзүү жарышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzgüçülük yarışı",
+                    "üzgüçülük müsabiqəsi",
+                    "üzgüçülük turniri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇ ئۈزۈش مۇسابىقىسى",
+                    "سۇ ئۈزۈش بېلىشىشى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сүзүү боюнча мелдеш"
+                ]
+            }
+        }
+    ]
+}

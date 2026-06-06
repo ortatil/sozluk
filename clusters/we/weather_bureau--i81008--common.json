@@ -1,0 +1,120 @@
+{
+    "id": "i81008",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "weather bureau",
+    "en_definition": "an administrative unit responsible for gathering and interpreting meteorological data for weather study and forecasts",
+    "tr_word": "meteoroloji müdürlüğü",
+    "tr_definition": "hava durumunu incelemek ve tahminlerde bulunmak amacıyla meteorolojik verileri toplamak ve yorumlamaktan sorumlu idari birim",
+    "ru_word": "метеорологическое бюро",
+    "ru_definition": "административное подразделение, ответственное за сбор и интерпретацию метеорологических данных для изучения погоды и составления прогнозов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meteoroloji dairesi",
+                    "meteoroloji kurumu"
+                ],
+                "Azerbaijani": [
+                    "meteorologiya idarəsi"
+                ],
+                "Uzbek": [
+                    "meteorologiya xizmati"
+                ],
+                "Uyghur": [
+                    "مېتېئورولوگىيە ئىستانسىسى"
+                ],
+                "Kazakh": [
+                    "метеорологиялық қызмет"
+                ],
+                "Kyrgyz": [
+                    "метеорология кызматы"
+                ],
+                "Karakalpak": [
+                    "meteorologiya xızmeti"
+                ],
+                "Bashkir": [
+                    "метеорология хеҙмәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hava tahmin merkezi",
+                    "hava durumu merkezi"
+                ],
+                "Azerbaijani": [
+                    "hava xidməti"
+                ],
+                "Turkmen": [
+                    "howa maglumat merkezi"
+                ],
+                "Uyghur": [
+                    "ھاۋا رايى ئىستانسىسى"
+                ],
+                "Karakalpak": [
+                    "aoa rayı xızmeti",
+                    "aoa rayı stanciyası"
+                ],
+                "Tatar": [
+                    "һава торышы идарәсе",
+                    "һава торышы хезмәте",
+                    "һава торышы үзәге"
+                ],
+                "Bashkir": [
+                    "һауа торошо бюроһы",
+                    "һауа торошо хеҙмәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hava proqnozu mərkəzi"
+                ],
+                "Uzbek": [
+                    "ob-havo markazi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ob-havo idorasi"
+                ],
+                "Kyrgyz": [
+                    "аба ырайы кызматы",
+                    "аба ырайын болжолдоо борбору"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھاۋا رايى ئىدارىسى"
+                ],
+                "Kazakh": [
+                    "ауа райы орталығы",
+                    "ауа райы бюросы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howa gullugy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howa merkezi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": "i46595",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pussycat",
+    "en_definition": "informal terms referring to a domestic cat",
+    "tr_word": "pisi pisi",
+    "tr_definition": "evcil bir kediye atıfta bulunan resmi olmayan veya çocuksu bir terim",
+    "ru_word": "кошечка",
+    "ru_definition": "ласковое или неформальное название домашней кошки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pisi",
+                    "pisicik"
+                ],
+                "Azerbaijani": [
+                    "pişik",
+                    "pisi"
+                ],
+                "Turkmen": [
+                    "pişik",
+                    "pişijek",
+                    "pisi-pisi"
+                ],
+                "Uzbek": [
+                    "pishak"
+                ],
+                "Uyghur": [
+                    "پىشەك"
+                ],
+                "Kazakh": [
+                    "пысық"
+                ],
+                "Karakalpak": [
+                    "pıshıq"
+                ],
+                "Tatar": [
+                    "песи",
+                    "песәй"
+                ],
+                "Bashkir": [
+                    "бесәй",
+                    "бесәйкәй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məstan"
+                ],
+                "Kazakh": [
+                    "мысық"
+                ],
+                "Kyrgyz": [
+                    "мышык",
+                    "мастан"
+                ],
+                "Karakalpak": [
+                    "másh"
+                ],
+                "Tatar": [
+                    "мәче"
+                ],
+                "Bashkir": [
+                    "мәсет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mushuk",
+                    "mushukcha"
+                ],
+                "Uyghur": [
+                    "مۈشۈك",
+                    "مۈشۈكچاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мадыл"
+                ],
+                "Karakalpak": [
+                    "mátti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kedi",
+                    "kedicik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "марғау"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "i51527",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cargo door",
+    "en_definition": "door used to load or unload cargo",
+    "tr_word": "kargo kapısı",
+    "tr_definition": "yük yüklemek veya boşaltmak için kullanılan kapı",
+    "ru_word": "грузовой люк",
+    "ru_definition": "дверь, используемая для погрузки или выгрузки грузов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yük kapısı"
+                ],
+                "Azerbaijani": [
+                    "yük qapısı"
+                ],
+                "Turkmen": [
+                    "ýük gapysy"
+                ],
+                "Uzbek": [
+                    "yuk eshigi"
+                ],
+                "Uyghur": [
+                    "يۈك ئىشىكى",
+                    "يۈك تاشۇش ئىشىكى"
+                ],
+                "Kazakh": [
+                    "жүк есігі",
+                    "жүк қақпасы"
+                ],
+                "Kyrgyz": [
+                    "жүк эшиги",
+                    "жүк капкагы"
+                ],
+                "Karakalpak": [
+                    "júk esigi",
+                    "júk qaqpası"
+                ],
+                "Tatar": [
+                    "йөк ишеге",
+                    "йөк капкасы"
+                ],
+                "Bashkir": [
+                    "йөк ишеге",
+                    "йөк ҡапҡаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ambar kapısı"
+                ],
+                "Azerbaijani": [
+                    "anbar qapısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýük derwezesi"
+                ],
+                "Uzbek": [
+                    "yuk darvozasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kargo kapısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۈك بۆلمىسى ئىشىكى"
+                ]
+            }
+        }
+    ]
+}

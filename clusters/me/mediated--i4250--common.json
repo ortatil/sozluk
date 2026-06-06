@@ -1,0 +1,131 @@
+{
+    "id": "i4250",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "mediated",
+    "en_definition": "acting or brought about through an intervening agency",
+    "tr_word": "dolaylı",
+    "tr_definition": "bir aracı vasıtasıyla gerçekleşen veya aktarılan",
+    "ru_word": "опосредованный",
+    "ru_definition": "осуществляемый через посредство чего-либо или кого-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aracılı"
+                ],
+                "Turkmen": [
+                    "aralyk",
+                    "araçylykly"
+                ],
+                "Uzbek": [
+                    "oraliq"
+                ],
+                "Uyghur": [
+                    "ئارىچىلىق قىلىنغان"
+                ],
+                "Kazakh": [
+                    "аралық",
+                    "ара ағайындық"
+                ],
+                "Kyrgyz": [
+                    "арачылык"
+                ],
+                "Karakalpak": [
+                    "aralıq"
+                ],
+                "Tatar": [
+                    "арадаш",
+                    "арадашчылыклы"
+                ],
+                "Bashkir": [
+                    "аралаш",
+                    "аралашлы",
+                    "аралашыулы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vasıtalı"
+                ],
+                "Azerbaijani": [
+                    "vasitəli",
+                    "vasitəçiliklə"
+                ],
+                "Turkmen": [
+                    "wasytaly"
+                ],
+                "Uzbek": [
+                    "vositali"
+                ],
+                "Uyghur": [
+                    "ۋاسىتىلىك",
+                    "ۋاسىتە ئارقىلىق بولغان"
+                ],
+                "Tatar": [
+                    "васиталы"
+                ],
+                "Bashkir": [
+                    "васиталы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dolaylı"
+                ],
+                "Azerbaijani": [
+                    "dolayısı"
+                ],
+                "Karakalpak": [
+                    "dáldaldıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ортомчулук",
+                    "ортодогу"
+                ],
+                "Karakalpak": [
+                    "ortadaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bilvosita"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жанама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәнекерлік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыйыр"
+                ]
+            }
+        }
+    ]
+}

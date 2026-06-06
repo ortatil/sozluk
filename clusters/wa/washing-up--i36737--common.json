@@ -1,0 +1,96 @@
+{
+    "id": "i36737",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "washing-up",
+    "en_definition": "the washing of dishes etc after a meal",
+    "tr_word": "bulaşık yıkama",
+    "tr_definition": "yemekten sonra tabak, çatal ve benzeri mutfak eşyalarını temizleme işi",
+    "ru_word": "мытьё посуды",
+    "ru_definition": "процесс очистки тарелок и других кухонных принадлежностей после еды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "idish-tovoq yuvish",
+                    "idish yuvish"
+                ],
+                "Kazakh": [
+                    "ыдыс жуу",
+                    "ыдыс-аяқ жуу"
+                ],
+                "Kyrgyz": [
+                    "идиш жуу",
+                    "идиш-аяк жуу"
+                ],
+                "Karakalpak": [
+                    "ıdıs-ayaq juıu",
+                    "ıdıs juıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabyuma",
+                    "qab-qaşıq yuma",
+                    "qabların yuyulması"
+                ],
+                "Turkmen": [
+                    "gap-gaç ýuwmak",
+                    "gap-gaç ýuwuş",
+                    "gap-çanak ýuwmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "савыт-саба юу"
+                ],
+                "Bashkir": [
+                    "һауыт-һаба йыуыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bulaşık",
+                    "bulaşık yıkama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاچا-قۇچا يۇيۇش",
+                    "قاچا يۇيۇش",
+                    "قاچا-قۇچا يۇيۇش-تاراش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "юыну"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пакьләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йыуыу-сәйеү"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "id": "i27486",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "peck",
+    "en_definition": "eat by pecking at, like a bird",
+    "tr_word": "gagalamak",
+    "tr_definition": "bir kuş gibi gagasıyla vurarak yemek",
+    "ru_word": "клевать",
+    "ru_definition": "есть, ударяя клювом, подобно птице",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çokalamak",
+                    "çokmak",
+                    "çokuldamak"
+                ],
+                "Uzbek": [
+                    "cho'qimoq",
+                    "cho'qilamoq"
+                ],
+                "Uyghur": [
+                    "چوقۇماق",
+                    "چوقۇپ يېمەك"
+                ],
+                "Kazakh": [
+                    "шоқу",
+                    "шоқып жеу"
+                ],
+                "Kyrgyz": [
+                    "чокуу",
+                    "чокулоо",
+                    "чокуп жеш"
+                ],
+                "Karakalpak": [
+                    "shoqu",
+                    "shoqılap jeu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dənləmək"
+                ],
+                "Uzbek": [
+                    "donlamoq"
+                ],
+                "Uyghur": [
+                    "دانلىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "didiklemek"
+                ],
+                "Azerbaijani": [
+                    "dimdikləmək",
+                    "dimdik vurmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұмсықтау"
+                ],
+                "Tatar": [
+                    "томшыклау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gagalamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tıklatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чүпләү",
+                    "чүпләп ашау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "суҡырға",
+                    "суҡып ашарға",
+                    "суҡып алырға"
+                ]
+            }
+        }
+    ]
+}

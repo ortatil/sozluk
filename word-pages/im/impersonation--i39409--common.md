@@ -1,0 +1,265 @@
+# Impersonation
+| Field | Detail |
+|---|---|
+| **ID** | i39409 |
+| **English** | impersonation |
+| **Type** | noun |
+| **Definition** | pretending to be another person |
+| **Source** | common |
+| **Ortatil** | ohşatuw |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ohşatuw** | **taklit** | **bänzämä** |
+|---|---|---|---|
+| Turkish | ❌ | ✅ | ✅ |
+| Azerbaijani | ❌ | ✅ | ✅ |
+| Turkmen | ❌ | ✅ | ✅ |
+| Uzbek | ❌ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ |
+| Kyrgyz | ✅ | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ | ❌ |
+| Tatar | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0 | 1 | 1 |
+| *Qarluq Subtotal* | 0.50 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 1 | 0 | 0 |
+| *In All* |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **1.50** | **1.50** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئوخشىتىش | oxşitiş |
+| ساختىپەزلىك | saxtipäzlik |
+| **Kazakh** | |
+| ұқсату | uqsatu |
+| кейіптеу | keyipteu |
+| еліктеу | yelikteu |
+| бейнелеу | beyneleu |
+| **Kyrgyz** | |
+| окшоштуруу | okşoşturuu |
+| кейиптенүү | keyiptenüü |
+| тууроо | tuuroo |
+| жасалмалоо | jasalmaloo |
+| **Tatar** | |
+| охшату | oxşatu |
+| битлекләнү | bitleklänü |
+| төсләнү | töslänü |
+| **Bashkir** | |
+| оҡшатыу | oqşatıu |
+| төҫләнеү | tösläneü |
+
+```json
+{
+    "id": "i39409",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "impersonation",
+    "en_definition": "pretending to be another person",
+    "tr_word": "taklit",
+    "tr_definition": "başka bir kişi gibi davranma veya birini taklit etme eylemi",
+    "ru_word": "персонификация",
+    "ru_definition": "выдача себя за другое лицо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئوخشىتىش"
+                ],
+                "Kazakh": [
+                    "ұқсату"
+                ],
+                "Kyrgyz": [
+                    "окшоштуруу"
+                ],
+                "Karakalpak": [
+                    "uqsatıo"
+                ],
+                "Tatar": [
+                    "охшату"
+                ],
+                "Bashkir": [
+                    "оҡшатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taklit"
+                ],
+                "Azerbaijani": [
+                    "təqlid"
+                ],
+                "Turkmen": [
+                    "taklyt"
+                ],
+                "Uzbek": [
+                    "taqlid"
+                ],
+                "Uyghur": [
+                    "تەقلىد قىلىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qiyofasiga kirish"
+                ],
+                "Kazakh": [
+                    "кейіптеу",
+                    "кейіпке ену"
+                ],
+                "Kyrgyz": [
+                    "кейиптенүү"
+                ],
+                "Karakalpak": [
+                    "keyipke enio"
+                ],
+                "Tatar": [
+                    "кыяфәткә керү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "benzetme"
+                ],
+                "Azerbaijani": [
+                    "bənzətmə"
+                ],
+                "Turkmen": [
+                    "meňzetme"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "özünü oxşatma"
+                ],
+                "Uzbek": [
+                    "oʻzini boshqa qilib koʻrsatish"
+                ],
+                "Karakalpak": [
+                    "ózin basqasha kórsetio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "betperde kiyio"
+                ],
+                "Tatar": [
+                    "битлекләнү"
+                ],
+                "Bashkir": [
+                    "битлеккә инеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kişiliğe bürünme"
+                ],
+                "Turkmen": [
+                    "keşbe girme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "soxtalik"
+                ],
+                "Uyghur": [
+                    "ساختىپەزلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باشقىلارنىڭ نامىدا بولۇۋېلىش"
+                ],
+                "Bashkir": [
+                    "башҡа булып күренеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төсләнү"
+                ],
+                "Bashkir": [
+                    "төҫләнеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temsil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "surətinə girmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öýkünme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еліктеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнелеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тууроо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жасалмалоо"
+                ]
+            }
+        }
+    ]
+}
+```
+

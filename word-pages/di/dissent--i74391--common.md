@@ -1,0 +1,249 @@
+# Dissent
+| Field | Detail |
+|---|---|
+| **ID** | i74391 |
+| **English** | dissent |
+| **Type** | noun |
+| **Definition** | a difference of opinion |
+| **Source** | common |
+| **Ortatil** | ihtiläf, qarşılıq, narazılıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ihtiläf** | **qarşılıq** | **narazılıq** | **kelişpeişilik** | **ayırılıq** | **mühalefat** |
+|---|---|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Azerbaijani | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ |
+| Turkmen | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ |
+| Uyghur | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| Kazakh | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Kyrgyz | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Karakalpak | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Tatar | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.33 | 0.67 | 0 | 0.33 | 0.67 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0.50 | 0.50 | 0 | 0.50 |
+| *Qipchaq Subtotal* | 0.80 | 1 | 0.20 | 1 | 0.40 | 0 |
+| *In All* | ✅ | ✅ | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  | ✅ |  |
+| **O'TQ** | **3.80** | **2.83** | **2.37** | **1.50** | **1.23** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئىختىلاپ | ixtilap |
+| نارازىلىق | naraziliq |
+| **Kazakh** | |
+| қарсылық | qarsılıq |
+| келіспеушілік | kelispeuşilik |
+| алауыздық | alauızdıq |
+| **Kyrgyz** | |
+| ыктылап | ıktılap |
+| каршылык | karşılık |
+| келишпестик | kelişpestik |
+| нааразылык | naarazılık |
+| **Tatar** | |
+| ихтилаф | ixtilaf |
+| каршылык | karşılık |
+| килешмәүчелек | kileşmäüçelek |
+| **Bashkir** | |
+| ихтиلاف | ixtiلاف |
+| ҡаршылыҡ | qarşılıq |
+| килешмәүсәнлек | kileşmäüsänlek |
+| айырымлыҡ | ayırımlıq |
+
+```json
+{
+    "id": "i74391",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dissent",
+    "en_definition": "a difference of opinion",
+    "tr_word": "muhalefet",
+    "tr_definition": "bir görüşe veya karara karşı olma durumu, görüş ayrılığı",
+    "ru_word": "разногласие",
+    "ru_definition": "отсутствие согласия из-за несходства во мнениях или взглядах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ihtilaf"
+                ],
+                "Azerbaijani": [
+                    "ixtilaf"
+                ],
+                "Turkmen": [
+                    "ihtilap"
+                ],
+                "Uzbek": [
+                    "ixtilof"
+                ],
+                "Uyghur": [
+                    "ئىختىلاپ"
+                ],
+                "Kyrgyz": [
+                    "ыктылап"
+                ],
+                "Karakalpak": [
+                    "itiraz"
+                ],
+                "Tatar": [
+                    "ихтилаф"
+                ],
+                "Bashkir": [
+                    "ихтиلاف"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "garşylyk"
+                ],
+                "Uzbek": [
+                    "qarshilik"
+                ],
+                "Uyghur": [
+                    "قارشى پىكىر"
+                ],
+                "Kazakh": [
+                    "қарсылық"
+                ],
+                "Kyrgyz": [
+                    "каршылык"
+                ],
+                "Karakalpak": [
+                    "qarsılıq"
+                ],
+                "Tatar": [
+                    "каршылык"
+                ],
+                "Bashkir": [
+                    "ҡаршылыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fikir ayrılığı"
+                ],
+                "Turkmen": [
+                    "pikir aýrylygy"
+                ],
+                "Uyghur": [
+                    "پىكىر ئوخشىماسلىقى"
+                ],
+                "Kazakh": [
+                    "пікір қайшылығы"
+                ],
+                "Kyrgyz": [
+                    "пикир келишпестиги"
+                ],
+                "Tatar": [
+                    "фикер аермалыгы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kelishmovchilik"
+                ],
+                "Kazakh": [
+                    "келіспеушілік"
+                ],
+                "Kyrgyz": [
+                    "келишпестик"
+                ],
+                "Karakalpak": [
+                    "kelispeoshilik"
+                ],
+                "Tatar": [
+                    "килешмәүчелек"
+                ],
+                "Bashkir": [
+                    "килешмәүсәнлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "narazılıq"
+                ],
+                "Turkmen": [
+                    "narazylyk"
+                ],
+                "Uyghur": [
+                    "نارازىلىق"
+                ],
+                "Kyrgyz": [
+                    "нааразылык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhalefet"
+                ],
+                "Azerbaijani": [
+                    "müxalifət"
+                ],
+                "Uzbek": [
+                    "muxolifat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayrılık",
+                    "aykırılık"
+                ],
+                "Karakalpak": [
+                    "ayırmashılıq"
+                ],
+                "Bashkir": [
+                    "айырымлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uyuşmazlık"
+                ],
+                "Azerbaijani": [
+                    "uyğunsuzluq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nizo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ала ауыздық",
+                    "алауыздық"
+                ]
+            }
+        }
+    ]
+}
+```
+

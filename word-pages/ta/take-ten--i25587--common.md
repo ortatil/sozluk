@@ -1,0 +1,210 @@
+# Take ten
+| Field | Detail |
+|---|---|
+| **ID** | i25587 |
+| **English** | take ten |
+| **Type** | verb |
+| **Definition** | take a ten minute break |
+| **Source** | common |
+| **Ortatil** | ḍinıqmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍinıqmaq** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تىنىقلىماق | tiniqlimaq |
+| **Kazakh** | |
+| тынығу | tınığu |
+| демалу | demalu |
+
+```json
+{
+    "id": "i25587",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "take ten",
+    "en_definition": "take a ten minute break",
+    "tr_word": "on dakika ara vermek",
+    "tr_definition": "on dakikalık kısa bir mola vermek",
+    "ru_word": "сделать десятиминутный перерыв",
+    "ru_definition": "сделать короткий перерыв на десять минут",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dinlenmek"
+                ],
+                "Azerbaijani": [
+                    "dincəlmək"
+                ],
+                "Turkmen": [
+                    "dynç almak",
+                    "dynçlanmak"
+                ],
+                "Uzbek": [
+                    "tanaffus qilmoq",
+                    "tin olmoq"
+                ],
+                "Uyghur": [
+                    "تىنىقلىماق",
+                    "تەنتەربىيە قىلماق"
+                ],
+                "Kazakh": [
+                    "тынығу"
+                ],
+                "Kyrgyz": [
+                    "тыныгуу жасоо"
+                ],
+                "Karakalpak": [
+                    "tınıǵıo",
+                    "teneppis etio"
+                ],
+                "Tatar": [
+                    "тынып алу",
+                    "тәнәфес ясау"
+                ],
+                "Bashkir": [
+                    "тын алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dem-dynç almak"
+                ],
+                "Uzbek": [
+                    "dam olmoq"
+                ],
+                "Uyghur": [
+                    "دەەم ئالماق"
+                ],
+                "Kazakh": [
+                    "демалу"
+                ],
+                "Kyrgyz": [
+                    "дем алуу"
+                ],
+                "Karakalpak": [
+                    "dem alıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mola vermek",
+                    "ara vermek"
+                ],
+                "Azerbaijani": [
+                    "ara vermək"
+                ],
+                "Turkmen": [
+                    "ara bermek"
+                ],
+                "Uyghur": [
+                    "ئارام ئالماق"
+                ],
+                "Karakalpak": [
+                    "ara berio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istirahət etmək"
+                ],
+                "Kyrgyz": [
+                    "эс алуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ял итеп алу",
+                    "ял итү"
+                ],
+                "Bashkir": [
+                    "ял итеү",
+                    "ял биреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soluklanmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəfəs dərmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fasilə vermək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hordiq chiqarmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үзіліс жасау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бой жазу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "туҡтап алыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

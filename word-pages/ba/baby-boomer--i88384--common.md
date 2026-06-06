@@ -1,0 +1,204 @@
+# Baby boomer
+| Field | Detail |
+|---|---|
+| **ID** | i88384 |
+| **English** | baby boomer |
+| **Type** | noun |
+| **Definition** | a member of the baby boom generation in the 1950s |
+| **Source** | common |
+| **Ortatil** | näsil |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **näsil** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.37** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| буын | buın |
+| **Bashkir** | |
+| быуын | bıuın |
+
+```json
+{
+    "id": "i88384",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "baby boomer",
+    "en_definition": "a member of the baby boom generation in the 1950s",
+    "tr_word": "baby boomer",
+    "tr_definition": "İkinci Dünya Savaşı'ndan sonraki nüfus patlaması döneminde (1946-1964) doğan neslin üyesi.",
+    "ru_word": "беби-бумер",
+    "ru_definition": "человек, родившийся в период резкого увеличения рождаемости после Второй мировой войны (обычно с 1946 по 1964 год).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəsil",
+                    "nəsil nümayəndəsi"
+                ],
+                "Turkmen": [
+                    "nesil"
+                ],
+                "Karakalpak": [
+                    "násil"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "urushdan keyingi avlod"
+                ],
+                "Kazakh": [
+                    "соғыстан кейінгі ұрпақ"
+                ],
+                "Kyrgyz": [
+                    "согуштан кийинки муун"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bebek patlaması kuşağı"
+                ],
+                "Kazakh": [
+                    "бэби-бумерлер буыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elli kuşağı"
+                ],
+                "Uzbek": [
+                    "ellikinchi yillar avlodi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "köpçülikleýin dogluş nesli"
+                ],
+                "Uzbek": [
+                    "koʻpayish davri avlodi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "демографиялық өрлеу кезеңінің ұрпағы"
+                ],
+                "Kyrgyz": [
+                    "демографиялык өсүш мууну"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "буын"
+                ],
+                "Bashkir": [
+                    "быуын",
+                    "быуын вәкиле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "patlama kuşağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "artım dövrünün övladı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly nesil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نوپۇس كۆپەيگەن دەۋر ئەۋلادى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇغۇلۇش دولقۇنى ئەۋلادى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "urpaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "áolad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "буын вәкиле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сугыштан соңгы буын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "илленсе йылғылар"
+                ]
+            }
+        }
+    ]
+}
+```
+

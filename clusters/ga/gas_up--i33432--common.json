@@ -1,0 +1,112 @@
+{
+    "id": "i33432",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "gas up",
+    "en_definition": "fill with gasoline",
+    "tr_word": "depoyu doldurmak",
+    "tr_definition": "bir aracın yakıt deposunu benzin veya yakıtla tamamen doldurmak",
+    "ru_word": "заправлять",
+    "ru_definition": "наполнять топливный бак автомобиля бензином или другим горючим",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yakıt almak"
+                ],
+                "Turkmen": [
+                    "ýangyç guýmak"
+                ],
+                "Uzbek": [
+                    "yoqilgʻi quymoq"
+                ],
+                "Tatar": [
+                    "ягулык салу",
+                    "ягулык тутыру"
+                ],
+                "Bashkir": [
+                    "яғыулыҡ ҡойоу",
+                    "яғыулыҡ менән тултырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ماي قاچىلاش",
+                    "ماي تولدۇرۇش",
+                    "ماي سالماق"
+                ],
+                "Kyrgyz": [
+                    "май куюу",
+                    "майлоо"
+                ],
+                "Karakalpak": [
+                    "maylap alıu"
+                ],
+                "Tatar": [
+                    "май салу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yanacaq doldurmaq",
+                    "çəni doldurmaq"
+                ],
+                "Kazakh": [
+                    "жанармай құю"
+                ],
+                "Karakalpak": [
+                    "janar-jaǵarmay quyıu",
+                    "janar may quyıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "doldurmak"
+                ],
+                "Uzbek": [
+                    "toʻldirmoq"
+                ],
+                "Kazakh": [
+                    "толтыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "benzin doldurmak"
+                ],
+                "Azerbaijani": [
+                    "benzin tökmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отын құю"
+                ],
+                "Kyrgyz": [
+                    "отун куюу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ikmal yapmak"
+                ]
+            }
+        }
+    ]
+}

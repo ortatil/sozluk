@@ -1,0 +1,107 @@
+{
+    "id": "i789",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "clawed",
+    "en_definition": "(of predatory animals) armed with claws or talons",
+    "tr_word": "pençeli",
+    "tr_definition": "Pençesi olan veya pençelerle donatılmış (yırtıcı hayvanlar için)",
+    "ru_word": "когтистый",
+    "ru_definition": "Имеющий когти или снабженный когтями (о хищных животных)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tırnaklı"
+                ],
+                "Azerbaijani": [
+                    "dırnaqlı"
+                ],
+                "Turkmen": [
+                    "dyrnakly"
+                ],
+                "Uzbek": [
+                    "tirnoqli"
+                ],
+                "Uyghur": [
+                    "تىرناقلىق"
+                ],
+                "Kazakh": [
+                    "тырнақты"
+                ],
+                "Kyrgyz": [
+                    "тырмактуу"
+                ],
+                "Karakalpak": [
+                    "tırnaqlı"
+                ],
+                "Tatar": [
+                    "тырнакланган",
+                    "тырнаклы"
+                ],
+                "Bashkir": [
+                    "тырнаҡлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pençeli"
+                ],
+                "Azerbaijani": [
+                    "pəncəli"
+                ],
+                "Turkmen": [
+                    "penjeli"
+                ],
+                "Uzbek": [
+                    "panjali"
+                ],
+                "Uyghur": [
+                    "پەنچىلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шеңгелді"
+                ],
+                "Karakalpak": [
+                    "sheńgelli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "азулы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "курч тырмактуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илмектүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үткер тырнаҡлы"
+                ]
+            }
+        }
+    ]
+}

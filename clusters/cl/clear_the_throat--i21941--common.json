@@ -1,0 +1,115 @@
+{
+    "id": "i21941",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "clear the throat",
+    "en_definition": "clear mucus or food from one's throat",
+    "tr_word": "boğazını temizlemek",
+    "tr_definition": "boğazdaki balgamı veya yiyecek kalıntılarını hafifçe öksürerek gidermek",
+    "ru_word": "откашливаться",
+    "ru_definition": "удалять слизь или остатки пищи из горла легким кашлем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yo'talmoq"
+                ],
+                "Uyghur": [
+                    "يۆتەلگەن بولماق",
+                    "يۆتەلگەن بولۇپ قويماق"
+                ],
+                "Kazakh": [
+                    "жөтелу"
+                ],
+                "Kyrgyz": [
+                    "жөткүрүү"
+                ],
+                "Karakalpak": [
+                    "jótelgensiu"
+                ],
+                "Tatar": [
+                    "юткергәләп алу"
+                ],
+                "Bashkir": [
+                    "йүткергеләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tamoq qirmoq",
+                    "tamoqni tozalamoq"
+                ],
+                "Uyghur": [
+                    "تاماقتىكى بەلغەمنى تازىلىماق"
+                ],
+                "Kazakh": [
+                    "тамақ кенеу"
+                ],
+                "Kyrgyz": [
+                    "тамагын кыруу"
+                ],
+                "Karakalpak": [
+                    "tamaq qıru",
+                    "tamaq tazalao"
+                ],
+                "Tatar": [
+                    "тамак кыру",
+                    "тамак чистарту"
+                ],
+                "Bashkir": [
+                    "тамаҡ ҡырыу",
+                    "тамаҡ таҙартыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boğazını temizlemek"
+                ],
+                "Azerbaijani": [
+                    "boğazını təmizləmək",
+                    "boğazını arıtlamaq"
+                ],
+                "Turkmen": [
+                    "bokurdak arassalamak",
+                    "bokurdak kakyşdyrmak",
+                    "bokurdak gyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öksürmek",
+                    "öksürerek temizlemek"
+                ],
+                "Azerbaijani": [
+                    "öskürmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geniz temizlemek"
+                ],
+                "Kazakh": [
+                    "кенелу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көкүрөгүн тазалоо"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,307 @@
+# Provocative
+| Field | Detail |
+|---|---|
+| **ID** | i10399 |
+| **English** | provocative |
+| **Type** | adjective |
+| **Definition** | serving or tending to provoke, excite, or stimulate; stimulating discussion or exciting controversy |
+| **Source** | common |
+| **Ortatil** | qozğatuwçu |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qozğatuwçu** | **qızıqtırğıç** | **fitñäci** | **tährikedici** |
+|---|---|---|---|---|
+| Turkish | ❌ | ✅ | ✅ | ❌ |
+| Azerbaijani | ❌ | ✅ | ✅ | ✅ |
+| Turkmen | ✅ | ✅ | ✅ | ✅ |
+| Uzbek | ✅ | ❌ | ✅ | ✅ |
+| Uyghur | ✅ | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ | ❌ |
+| Kyrgyz | ✅ | ❌ | ❌ | ❌ |
+| Karakalpak | ✅ | ✅ | ❌ | ❌ |
+| Tatar | ✅ | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 1 | 1 | 0.67 |
+| *Qarluq Subtotal* | 1 | 0 | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 0.60 | 0 | 0 |
+| *In All* | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |  |
+| **O'TQ** | **3.33** | **2.10** | **1.50** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قوزغاتقۇچى | qozğatquçi |
+| غىدىقلىغۇچى | ğidiqliğuçi |
+| پروۋوكاتسىيەلىك | provokatsiyälik |
+| **Kazakh** | |
+| қоздырушы | qozdıruşı |
+| арандатушы | arandatuşı |
+| түрткі | türtki |
+| желіктіргіш | jeliktirgiş |
+| еліктіргіш | yeliktirgiş |
+| **Kyrgyz** | |
+| козутуучу | kozutuuçu |
+| кытыгылоочу | kıtıgılooçu |
+| дүүлүктүрүүчү | düülüktürüüçü |
+| чагымчыл | çagımçıl |
+| **Tatar** | |
+| кузгатучы | kuzgatuçı |
+| кызыктыргыч | kızıktırgıç |
+| котыртучы | kotırtuçı |
+| ярсыткыч | yarsıtkıç |
+| **Bashkir** | |
+| ҡуҙғытҡыс | quzğıtqıs |
+| ҡыҙыҡтырғыс | qızıqtırğıs |
+| ҡотортоусы | qotortousı |
+| ярһытҡыс | yarhıtqıs |
+| дәртләндереүсе | därtländereüse |
+
+```json
+{
+    "id": "i10399",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "provocative",
+    "en_definition": "serving or tending to provoke, excite, or stimulate; stimulating discussion or exciting controversy",
+    "tr_word": "provokatif",
+    "tr_definition": "Kışkırtıcı, tartışma yaratan veya ilgi uyandıran; bir tepkiyi veya duyguyu tetikleme amacı taşıyan.",
+    "ru_word": "провокационный",
+    "ru_definition": "Служащий для провокации, вызывающий раздражение, возбуждение или бурные дискуссии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gozgalaňly"
+                ],
+                "Uzbek": [
+                    "qo‘zg‘atuvchi"
+                ],
+                "Uyghur": [
+                    "قوزغاتقۇچى",
+                    "قوزغىتىش خاراكتېرلىك"
+                ],
+                "Kazakh": [
+                    "қоздырушы"
+                ],
+                "Kyrgyz": [
+                    "козутуучу"
+                ],
+                "Karakalpak": [
+                    "qozdırıoshı"
+                ],
+                "Tatar": [
+                    "кузгатучы"
+                ],
+                "Bashkir": [
+                    "ҡуҙғытҡыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kışkırtıcı"
+                ],
+                "Azerbaijani": [
+                    "qızışdırıcı"
+                ],
+                "Turkmen": [
+                    "gyjyndyryjy"
+                ],
+                "Karakalpak": [
+                    "qızıqtırıoshı"
+                ],
+                "Tatar": [
+                    "кызыктыргыч"
+                ],
+                "Bashkir": [
+                    "ҡыҙыҡтырғыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tahrik edici"
+                ],
+                "Azerbaijani": [
+                    "təhrikedici",
+                    "təhrikkar"
+                ],
+                "Turkmen": [
+                    "tahryk"
+                ],
+                "Uzbek": [
+                    "tahrikchi",
+                    "tahrikli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fitneci"
+                ],
+                "Azerbaijani": [
+                    "fitnəkar"
+                ],
+                "Turkmen": [
+                    "pitneçi"
+                ],
+                "Uzbek": [
+                    "fitna-angiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "oyandırıcı"
+                ],
+                "Kazakh": [
+                    "арандатушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "غىدىقلىغۇچى"
+                ],
+                "Kyrgyz": [
+                    "кытыгылоочу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түрткі"
+                ],
+                "Karakalpak": [
+                    "túrtkileoshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "котыртучы"
+                ],
+                "Bashkir": [
+                    "ҡотортоусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ярсыткыч"
+                ],
+                "Bashkir": [
+                    "ярһытҡыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müheyyiç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öjükdiriji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g‘alayonli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hayajonlantiruvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پروۋوكاتسىيەلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جەڭ ئېلان قىلىدىغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "желіктіргіш",
+                    "еліктіргіш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дүүлүктүрүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чагымчыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dáoirtpeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "talaslı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "фикер кузгатучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дәртләндереүсе"
+                ]
+            }
+        }
+    ]
+}
+```
+

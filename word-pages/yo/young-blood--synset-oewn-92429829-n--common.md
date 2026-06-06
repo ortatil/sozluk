@@ -1,0 +1,129 @@
+# Young blood
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-92429829-n |
+| **English** | young blood |
+| **Type** | noun |
+| **Definition** | a younger member or members of a group considered as a revitalizing force, as in an organization. |
+| **Source** | common |
+| **Ortatil** | yaş |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| яшьлек | yaşlek |
+
+```json
+{
+    "id": "synset-oewn-92429829-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "young blood",
+    "en_definition": "a younger member or members of a group considered as a revitalizing force, as in an organization.",
+    "tr_word": "taze kan",
+    "tr_definition": "Bir kuruluşa veya gruba yeni bir canlılık ve enerji getiren genç ve yetenekli kişi veya kişiler.",
+    "ru_word": "молодая кровь",
+    "ru_definition": "Новые, молодые члены организации или группы, приносящие свежие идеи и энергию.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýaş nesil",
+                    "ýaş güýçler",
+                    "ýaşlar"
+                ],
+                "Uzbek": [
+                    "yosh kuch",
+                    "yosh avlod"
+                ],
+                "Uyghur": [
+                    "ياش كۈچ",
+                    "ياش ئەۋلاد"
+                ],
+                "Kazakh": [
+                    "жас буын",
+                    "жас күш",
+                    "жас толқын",
+                    "жас қан"
+                ],
+                "Kyrgyz": [
+                    "жаш күч",
+                    "жаш муун",
+                    "жаш катар"
+                ],
+                "Karakalpak": [
+                    "jas kúsh",
+                    "jas áulad",
+                    "jas buın",
+                    "jas qan"
+                ],
+                "Tatar": [
+                    "яшь көч",
+                    "яшь буын",
+                    "яшьлек"
+                ],
+                "Bashkir": [
+                    "йәш быуын",
+                    "йәш көс",
+                    "йәш ҡан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeni nesil"
+                ],
+                "Azerbaijani": [
+                    "yeni qüvvə"
+                ],
+                "Uzbek": [
+                    "yangi avlod",
+                    "yangi qon"
+                ],
+                "Uyghur": [
+                    "يېڭى كۈچ",
+                    "يېڭى قان"
+                ],
+                "Kyrgyz": [
+                    "жаңы муун"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taze kan"
+                ],
+                "Azerbaijani": [
+                    "təzə qan"
+                ],
+                "Turkmen": [
+                    "täze nesil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "genç kuşak",
+                    "gençlik"
+                ],
+                "Azerbaijani": [
+                    "gənc nəsil",
+                    "gənclik"
+                ]
+            }
+        }
+    ]
+}
+```
+

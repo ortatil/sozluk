@@ -1,0 +1,159 @@
+# Jump rope
+| Field | Detail |
+|---|---|
+| **ID** | i37939 |
+| **English** | jump rope |
+| **Type** | noun |
+| **Definition** | a child's game or a cardiopulmonary exercise in which the player jumps over a swinging rope |
+| **Source** | common |
+| **Ortatil** | atgıçmasan |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sekirtpe** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| секіртпе | sekirtpe |
+| аттама | attama |
+| **Kyrgyz** | |
+| секирме | sekirme |
+| секиргич | sekirgiç |
+| **Tatar** | |
+| сикергеч | sikergeç |
+| сикертмә | sikertmä |
+| **Bashkir** | |
+| һикергес | hikerges |
+| бау | bau |
+
+```json
+{
+    "id": "i37939",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "jump rope",
+    "en_definition": "a child's game or a cardiopulmonary exercise in which the player jumps over a swinging rope",
+    "tr_word": "atlama ipi",
+    "tr_definition": "çocukların oyun oynamak veya yetişkinlerin egzersiz yapmak amacıyla üzerinden atladıkları ip",
+    "ru_word": "скакалка",
+    "ru_definition": "спортивный снаряд для физических упражнений взрослых и детей, представляющий собой шнур с ручками на концах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sakrash arqoni"
+                ],
+                "Kazakh": [
+                    "секіртпе"
+                ],
+                "Kyrgyz": [
+                    "секирме",
+                    "секиргич"
+                ],
+                "Karakalpak": [
+                    "sekіrtpe"
+                ],
+                "Tatar": [
+                    "сикергеч",
+                    "сикертмә"
+                ],
+                "Bashkir": [
+                    "һикергес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "atlama ipi"
+                ],
+                "Azerbaijani": [
+                    "atlama ipi"
+                ],
+                "Turkmen": [
+                    "atgyç"
+                ],
+                "Kazakh": [
+                    "аттама"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "arqon",
+                    "arqon-sakrash"
+                ],
+                "Uyghur": [
+                    "ئارغامچا سەكرەش",
+                    "ئارغامچا ئويناش"
+                ],
+                "Karakalpak": [
+                    "arqan sekіrtpe",
+                    "arqan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ip"
+                ],
+                "Azerbaijani": [
+                    "ip"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kəndir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tanap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýüp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бау"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,215 @@
+# Paper tiger
+| Field | Detail |
+|---|---|
+| **ID** | i64331 |
+| **English** | paper tiger |
+| **Type** | noun |
+| **Definition** | the nature of a person or organization that appears powerful but is actually powerless and ineffectual |
+| **Source** | common |
+| **Ortatil** | pöpüsä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| дәрменсіз | därmensiz |
+| қауқарсыз | qauqarsız |
+| **Bashkir** | |
+| ҡурсаҡ | qursaq |
+
+```json
+{
+    "id": "i64331",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paper tiger",
+    "en_definition": "the nature of a person or organization that appears powerful but is actually powerless and ineffectual",
+    "tr_word": "kağıttan kaplan",
+    "tr_definition": "güçlü görünen ancak gerçekte güçsüz ve etkisiz olan kişi veya kuruluş",
+    "ru_word": "бумажный тигр",
+    "ru_definition": "человек или организация, которые кажутся грозными и могущественными, но на самом деле слабы и не представляют реальной угрозы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kağıttan kaplan"
+                ],
+                "Azerbaijani": [
+                    "kağız pələng"
+                ],
+                "Turkmen": [
+                    "kagyz gaplaň"
+                ],
+                "Uzbek": [
+                    "qog'oz yo'lbars"
+                ],
+                "Uyghur": [
+                    "قەغەز يولۋاس"
+                ],
+                "Kazakh": [
+                    "қағаз жолбарыс"
+                ],
+                "Kyrgyz": [
+                    "кагаз жолборс"
+                ],
+                "Bashkir": [
+                    "ҡағыҙ юлбарыҫ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gury haýbat"
+                ],
+                "Uyghur": [
+                    "قۇرۇق ھەيۋە"
+                ],
+                "Karakalpak": [
+                    "qurı gúrsil"
+                ],
+                "Tatar": [
+                    "күренештәге көч"
+                ],
+                "Bashkir": [
+                    "ҡурсаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "boş qorxu"
+                ],
+                "Turkmen": [
+                    "boş haýbat"
+                ],
+                "Tatar": [
+                    "буш шәүлә"
+                ],
+                "Bashkir": [
+                    "буш ҡыуыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سىرتى يالتىراق ئىچى قالتىراق"
+                ],
+                "Kazakh": [
+                    "сырты бүтін, іші түтін"
+                ],
+                "Kyrgyz": [
+                    "сырты жалтырак, ичи калтырак"
+                ],
+                "Karakalpak": [
+                    "sırtı jıltıraq, ishi qaltıraq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дәрменсіз"
+                ],
+                "Kyrgyz": [
+                    "дарбыздын кабыгы"
+                ],
+                "Karakalpak": [
+                    "dármensiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "içi boş"
+                ],
+                "Karakalpak": [
+                    "ázzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gösterişli ama güçsüz"
+                ],
+                "Azerbaijani": [
+                    "görünüşü olan gücsüz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko'rinishi daxshatli, o'zi kuchsiz"
+                ],
+                "Kyrgyz": [
+                    "күркүрөгөн менен жаабаган булут"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kof"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zəif rəqib"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "po'pisa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "haybatli, ammo quvvatsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қауқарсыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көчсез курчак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "алдавыч куәт"
+                ]
+            }
+        }
+    ]
+}
+```
+

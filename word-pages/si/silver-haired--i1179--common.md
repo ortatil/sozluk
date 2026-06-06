@@ -1,0 +1,171 @@
+# Silver-haired
+| Field | Detail |
+|---|---|
+| **ID** | i1179 |
+| **English** | silver-haired |
+| **Type** | adjective |
+| **Definition** | having hair the color of silver |
+| **Source** | common |
+| **Ortatil** | aqsaç |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **aqsaç** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.73** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاقارغان | aqarğan |
+| **Kazakh** | |
+| ақбас | aqbas |
+| бурыл | burıl |
+| **Bashkir** | |
+| сал | sal |
+
+```json
+{
+    "id": "i1179",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "silver-haired",
+    "en_definition": "having hair the color of silver",
+    "tr_word": "gümüş saçlı",
+    "tr_definition": "gümüş renginde saçları olan",
+    "ru_word": "сереброволосый",
+    "ru_definition": "имеющий волосы серебристого цвета",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak saçlı"
+                ],
+                "Azerbaijani": [
+                    "ağsaçlı"
+                ],
+                "Turkmen": [
+                    "ak saçly"
+                ],
+                "Uzbek": [
+                    "oqsoch",
+                    "oqargan"
+                ],
+                "Uyghur": [
+                    "ئاق چاچلىق",
+                    "ئاقارغان"
+                ],
+                "Kazakh": [
+                    "ақ шашты",
+                    "ақбас"
+                ],
+                "Kyrgyz": [
+                    "ак чач",
+                    "ак башты"
+                ],
+                "Karakalpak": [
+                    "aqbas",
+                    "aqshash"
+                ],
+                "Tatar": [
+                    "ак чәчле"
+                ],
+                "Bashkir": [
+                    "аҡ сәсле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gümüş saçlı"
+                ],
+                "Azerbaijani": [
+                    "gümüşüsaç",
+                    "gümüşüsaçlı"
+                ],
+                "Uyghur": [
+                    "كۈمۈش چاچلىق"
+                ],
+                "Kyrgyz": [
+                    "күмүш чач"
+                ],
+                "Tatar": [
+                    "көмеш чәчле"
+                ],
+                "Bashkir": [
+                    "көмөш сәсле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çal",
+                    "çalaran"
+                ],
+                "Tatar": [
+                    "чал чәчле"
+                ],
+                "Bashkir": [
+                    "сал сәсле",
+                    "сал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kumushsoch"
+                ],
+                "Kazakh": [
+                    "күміс шашты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бурыл"
+                ],
+                "Karakalpak": [
+                    "burıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kır saçlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dənsaçlı"
+                ]
+            }
+        }
+    ]
+}
+```
+

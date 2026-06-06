@@ -1,0 +1,83 @@
+{
+    "id": "i84472",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "twin cities",
+    "en_definition": "nickname for Saint Paul and Minneapolis",
+    "tr_word": "ikiz şehirler",
+    "tr_definition": "Saint Paul ve Minneapolis şehirlerine verilen takma ad",
+    "ru_word": "города-близнецы",
+    "ru_definition": "прозвище городов Сент-Пол и Миннеаполис",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşa şəhərlər"
+                ],
+                "Turkmen": [
+                    "goşa şäherler"
+                ],
+                "Uzbek": [
+                    "qoʻshaloq shaharlar"
+                ],
+                "Uyghur": [
+                    "قوش شەھەر",
+                    "قوشما شەھەر"
+                ],
+                "Kazakh": [
+                    "қос қала"
+                ],
+                "Kyrgyz": [
+                    "кош шаар"
+                ],
+                "Karakalpak": [
+                    "qos qala"
+                ],
+                "Tatar": [
+                    "куш шәһәрләр"
+                ],
+                "Bashkir": [
+                    "ҡуш ҡалалар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ikiz şehirler",
+                    "ikiz kentler"
+                ],
+                "Azerbaijani": [
+                    "əkiz şəhərlər"
+                ],
+                "Turkmen": [
+                    "ekiz şäherler"
+                ],
+                "Uzbek": [
+                    "egizak shaharlar"
+                ],
+                "Kyrgyz": [
+                    "эгиз шаарлар"
+                ],
+                "Tatar": [
+                    "игезәк шәһәрләр"
+                ],
+                "Bashkir": [
+                    "игеҙәк ҡалалар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "егіз қалалар"
+                ],
+                "Karakalpak": [
+                    "egiz qalalar"
+                ]
+            }
+        }
+    ]
+}

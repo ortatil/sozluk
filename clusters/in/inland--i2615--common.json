@@ -1,0 +1,132 @@
+{
+    "id": "i2615",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "inland",
+    "en_definition": "situated away from an area's coast or border",
+    "tr_word": "iç kesimlerdeki",
+    "tr_definition": "bir bölgenin kıyısından veya sınırından uzakta, iç kısımlarda bulunan",
+    "ru_word": "внутренний",
+    "ru_definition": "расположенный вдали от побережья или границы страны, внутри территории",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iç",
+                    "içerlek"
+                ],
+                "Turkmen": [
+                    "içerki",
+                    "içeri"
+                ],
+                "Uzbek": [
+                    "ichki",
+                    "ichkaridagi"
+                ],
+                "Uyghur": [
+                    "ئىچكى",
+                    "ئىچكىرى"
+                ],
+                "Kazakh": [
+                    "ішкі",
+                    "ішкері"
+                ],
+                "Kyrgyz": [
+                    "ички"
+                ],
+                "Karakalpak": [
+                    "ishki",
+                    "ishkerki",
+                    "ishker"
+                ],
+                "Tatar": [
+                    "эчке",
+                    "эчкерәк"
+                ],
+                "Bashkir": [
+                    "эске"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قۇرۇقلۇق"
+                ],
+                "Kazakh": [
+                    "құрлықтық"
+                ],
+                "Bashkir": [
+                    "ҡоро ерҙәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sahilden uzak"
+                ],
+                "Azerbaijani": [
+                    "sahildən uzaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mərkəzi"
+                ],
+                "Uzbek": [
+                    "markaziy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түпкү"
+                ],
+                "Bashkir": [
+                    "төпкөл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kara içi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "daxili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kenardan uzak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ортолук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзәк"
+                ]
+            }
+        }
+    ]
+}

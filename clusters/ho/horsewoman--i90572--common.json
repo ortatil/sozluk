@@ -1,0 +1,108 @@
+{
+    "id": "i90572",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "horsewoman",
+    "en_definition": "a woman horseman",
+    "tr_word": "binici kadın",
+    "tr_definition": "Ata binen kadın, kadın süvari.",
+    "ru_word": "наездница",
+    "ru_definition": "Женщина, занимающаяся верховой ездой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "atlı kadın"
+                ],
+                "Azerbaijani": [
+                    "atlı qadın"
+                ],
+                "Turkmen": [
+                    "atly aýal"
+                ],
+                "Uzbek": [
+                    "otliq ayol"
+                ],
+                "Uyghur": [
+                    "ئاتلىق ئايال",
+                    "ئات مىنگۈچى ئايال"
+                ],
+                "Kazakh": [
+                    "атқа мінген әйел",
+                    "атты әйел"
+                ],
+                "Kyrgyz": [
+                    "атчан аял",
+                    "ат үстүндөгү аял"
+                ],
+                "Karakalpak": [
+                    "atlı hayal",
+                    "atqa mingen hayal"
+                ],
+                "Tatar": [
+                    "атлы хатын",
+                    "атлы хатын-кыз"
+                ],
+                "Bashkir": [
+                    "атлы ҡатын",
+                    "атлы ҡатын-ҡыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çapar qadın"
+                ],
+                "Turkmen": [
+                    "çapyksuwar aýal"
+                ],
+                "Kazakh": [
+                    "шабандоз әйел"
+                ],
+                "Kyrgyz": [
+                    "чабандес кыз"
+                ],
+                "Karakalpak": [
+                    "shabandoz hayal"
+                ],
+                "Bashkir": [
+                    "һыбайлы ҡатын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chavandoz ayol"
+                ],
+                "Uyghur": [
+                    "چاۋانداز ئايال"
+                ],
+                "Tatar": [
+                    "җайдак хатын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "süvari kadın"
+                ],
+                "Azerbaijani": [
+                    "süvari qadın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "binici kadın"
+                ]
+            }
+        }
+    ]
+}

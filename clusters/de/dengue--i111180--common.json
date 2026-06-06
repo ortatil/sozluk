@@ -1,0 +1,103 @@
+{
+    "id": "i111180",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dengue",
+    "en_definition": "an infectious disease of the tropics transmitted by mosquitoes and characterized by rash and aching head and joints",
+    "tr_word": "denk ateşi",
+    "tr_definition": "Sivrisinekler aracılığıyla bulaşan, döküntü, şiddetli eklem ve baş ağrısı ile karakterize tropikal bir enfeksiyon hastalığı.",
+    "ru_word": "лихорадка денге",
+    "ru_definition": "Острое трансмиссивное вирусное заболевание, переносимое комарами, характеризующееся сыпью и сильными болями в суставах и голове.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deng ateşi"
+                ],
+                "Azerbaijani": [
+                    "denge qızdırması"
+                ],
+                "Turkmen": [
+                    "denge gyzdyrmasy",
+                    "denge taby"
+                ],
+                "Uzbek": [
+                    "dengue isitmasi"
+                ],
+                "Uyghur": [
+                    "دېنگې قىزىتمىسى"
+                ],
+                "Kazakh": [
+                    "денге безгегі",
+                    "денге қызбасы"
+                ],
+                "Kyrgyz": [
+                    "денге безгеги"
+                ],
+                "Karakalpak": [
+                    "denge bezgegi",
+                    "denge qızbası"
+                ],
+                "Tatar": [
+                    "дәңге бизгәге"
+                ],
+                "Bashkir": [
+                    "денге биҙгәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سۆڭەك سۇندۇرۇش قىزىتمىسى"
+                ],
+                "Kazakh": [
+                    "сүйек сырқырауық безгегі"
+                ],
+                "Kyrgyz": [
+                    "сөөк сыздатмасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "буын бизгәге"
+                ],
+                "Bashkir": [
+                    "быуын биҙгәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eklem humması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırık kemik humması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sümükqıran qızdırma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boʻgʻim ogʻrigʻi isitmasi"
+                ]
+            }
+        }
+    ]
+}

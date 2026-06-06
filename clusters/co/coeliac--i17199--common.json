@@ -1,0 +1,110 @@
+{
+    "id": "i17199",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "coeliac",
+    "en_definition": "of or in or belonging to the cavity of the abdomen",
+    "tr_word": "çölyak",
+    "tr_definition": "karın boşluğu ile ilgili veya karın boşluğuna ait olan",
+    "ru_word": "чревный",
+    "ru_definition": "относящийся к брюшной полости или находящийся в ней",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karınla ilgili",
+                    "karın"
+                ],
+                "Azerbaijani": [
+                    "qarın",
+                    "qarın boşluğu"
+                ],
+                "Turkmen": [
+                    "garyn",
+                    "garyn boşlugy"
+                ],
+                "Uzbek": [
+                    "qorin"
+                ],
+                "Kyrgyz": [
+                    "карын"
+                ],
+                "Karakalpak": [
+                    "qarın"
+                ],
+                "Tatar": [
+                    "карын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قورساققا ئائىت",
+                    "قورساق بوشلۇقىدىكى",
+                    "قورساق"
+                ],
+                "Kazakh": [
+                    "құрсақ"
+                ],
+                "Kyrgyz": [
+                    "курсак"
+                ],
+                "Tatar": [
+                    "корсак"
+                ],
+                "Bashkir": [
+                    "ҡорһаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ішкі",
+                    "іш"
+                ],
+                "Kyrgyz": [
+                    "ич"
+                ],
+                "Karakalpak": [
+                    "іshkі",
+                    "іsh"
+                ],
+                "Tatar": [
+                    "эч"
+                ],
+                "Bashkir": [
+                    "эскәйел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "batni"
+                ],
+                "Azerbaijani": [
+                    "batni"
+                ],
+                "Turkmen": [
+                    "batyn"
+                ],
+                "Uzbek": [
+                    "batniy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "javfiy"
+                ]
+            }
+        }
+    ]
+}

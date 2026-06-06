@@ -1,0 +1,126 @@
+{
+    "id": "i77614",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "green pea",
+    "en_definition": "fresh pea",
+    "tr_word": "bezelye",
+    "tr_definition": "Taze, yeşil taneli bir baklagil türü.",
+    "ru_word": "зелёный горошек",
+    "ru_definition": "Свежие, незрелые семена гороха, употребляемые в пищу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yaşıl noxud"
+                ],
+                "Uzbek": [
+                    "yashil no'xat"
+                ],
+                "Kazakh": [
+                    "жасыл бұршақ"
+                ],
+                "Kyrgyz": [
+                    "жашыл буурчак"
+                ],
+                "Karakalpak": [
+                    "jasıl burshaq"
+                ],
+                "Tatar": [
+                    "яшел борчак"
+                ],
+                "Bashkir": [
+                    "йәшел борсаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бұршақ"
+                ],
+                "Kyrgyz": [
+                    "буурчак"
+                ],
+                "Tatar": [
+                    "борчак"
+                ],
+                "Bashkir": [
+                    "борсаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "no'xat"
+                ],
+                "Uyghur": [
+                    "نوقۇت"
+                ],
+                "Karakalpak": [
+                    "noqat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taze bezelye"
+                ],
+                "Azerbaijani": [
+                    "təzə noxud"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆك پۇرچاق"
+                ],
+                "Kazakh": [
+                    "көк бұршақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bezelye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araşit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nohut",
+                    "gök nohut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şatyr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "moshno'xat"
+                ]
+            }
+        }
+    ]
+}

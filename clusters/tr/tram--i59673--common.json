@@ -1,0 +1,104 @@
+{
+    "id": "i59673",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tramcar",
+    "en_definition": "a wheeled vehicle that runs on rails and is propelled by electricity",
+    "tr_word": "tramvay",
+    "tr_definition": "Şehir içi yollarda döşenmiş raylar üzerinde hareket eden, elektrik gücüyle çalışan yolcu taşıtı.",
+    "ru_word": "трамвай",
+    "ru_definition": "Наземный общественный рельсовый транспорт, приводимый в движение электрическим током.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tramvay"
+                ],
+                "Azerbaijani": [
+                    "tramvay"
+                ],
+                "Turkmen": [
+                    "tramwaý"
+                ],
+                "Uyghur": [
+                    "ترامۋاي"
+                ],
+                "Kazakh": [
+                    "трамвай"
+                ],
+                "Karakalpak": [
+                    "tramway"
+                ],
+                "Tatar": [
+                    "трамвай"
+                ],
+                "Bashkir": [
+                    "трамвай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "demirýol arabasy"
+                ],
+                "Uzbek": [
+                    "temiryoʻl aravasi"
+                ],
+                "Kyrgyz": [
+                    "темир жол арабасы"
+                ],
+                "Karakalpak": [
+                    "temir jol arba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رېلىسلىق ھارۋا"
+                ],
+                "Kazakh": [
+                    "рельсті арба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "raylı taşıt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻcha poyezdi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېز پويىز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "электр араба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "арба"
+                ]
+            }
+        }
+    ]
+}

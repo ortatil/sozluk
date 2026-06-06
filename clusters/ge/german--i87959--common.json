@@ -1,0 +1,68 @@
+{
+    "id": "i87959",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "german",
+    "en_definition": "a person of German nationality",
+    "tr_word": "Alman",
+    "tr_definition": "Almanya halkından veya bu halkın soyundan olan kimse",
+    "ru_word": "немец",
+    "ru_definition": "человек немецкой национальности, житель Германии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nemes"
+                ],
+                "Uzbek": [
+                    "nemis"
+                ],
+                "Kazakh": [
+                    "неміс"
+                ],
+                "Kyrgyz": [
+                    "немис"
+                ],
+                "Karakalpak": [
+                    "nemis"
+                ],
+                "Bashkir": [
+                    "немец"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Alman"
+                ],
+                "Azerbaijani": [
+                    "alman"
+                ],
+                "Uzbek": [
+                    "olmon"
+                ],
+                "Tatar": [
+                    "алман",
+                    "алман кешесе"
+                ],
+                "Bashkir": [
+                    "алман"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Germen"
+                ],
+                "Uyghur": [
+                    "گېرمان",
+                    "گېرمانىيەلىك"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": "i72479",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "comma",
+    "en_definition": "a punctuation mark (,) used to indicate the separation of elements within the grammatical structure of a sentence",
+    "tr_word": "virgül",
+    "tr_definition": "Cümle içindeki eş görevli kelimeleri, sıralı cümleleri veya ara sözleri ayırmak için kullanılan noktalama işareti (,).",
+    "ru_word": "запятая",
+    "ru_definition": "Знак препинания (,), употребляемый для разделения или выделения слов, групп слов и частей сложного предложения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "otur"
+                ],
+                "Uyghur": [
+                    "ئۈتۈر"
+                ],
+                "Kazakh": [
+                    "үтір"
+                ],
+                "Kyrgyz": [
+                    "үтүр"
+                ],
+                "Karakalpak": [
+                    "útir"
+                ],
+                "Tatar": [
+                    "өтер"
+                ],
+                "Bashkir": [
+                    "өтөр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "virgül"
+                ],
+                "Azerbaijani": [
+                    "vergül"
+                ],
+                "Uzbek": [
+                    "vergul",
+                    "vergül"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pille"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پەش"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "id": "i11555",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sensory",
+    "en_definition": "involving or derived from the senses",
+    "tr_word": "duyusal",
+    "tr_definition": "duyularla ilgili olan veya duyulardan türetilen",
+    "ru_word": "сенсорный",
+    "ru_definition": "относящийся к чувствам или происходящий от органов чувств",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sezgi"
+                ],
+                "Uyghur": [
+                    "سېزىمچان",
+                    "سېزىمغا ئائىت"
+                ],
+                "Kazakh": [
+                    "сезімдік",
+                    "сезімтал"
+                ],
+                "Kyrgyz": [
+                    "сезүү",
+                    "сезүүчү",
+                    "сезимдик"
+                ],
+                "Karakalpak": [
+                    "sezgi",
+                    "sezgirlik",
+                    "sezimlik"
+                ],
+                "Tatar": [
+                    "сизү"
+                ],
+                "Bashkir": [
+                    "һиҙеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "duyusal",
+                    "duyuşsal"
+                ],
+                "Azerbaijani": [
+                    "duyğu",
+                    "duyğusal"
+                ],
+                "Turkmen": [
+                    "duýgy",
+                    "duýgurlyk",
+                    "duýuş"
+                ],
+                "Kazakh": [
+                    "түйсіктік"
+                ],
+                "Kyrgyz": [
+                    "туюмдук"
+                ],
+                "Tatar": [
+                    "тойгы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hissi"
+                ],
+                "Azerbaijani": [
+                    "hissi"
+                ],
+                "Uzbek": [
+                    "hissiy"
+                ],
+                "Uyghur": [
+                    "ھېسسىي"
+                ],
+                "Tatar": [
+                    "хисси"
+                ],
+                "Bashkir": [
+                    "хис",
+                    "хиси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "idrok"
+                ]
+            }
+        }
+    ]
+}

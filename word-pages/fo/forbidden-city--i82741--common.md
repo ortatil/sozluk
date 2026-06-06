@@ -1,0 +1,140 @@
+# Forbidden city
+| Field | Detail |
+|---|---|
+| **ID** | i82741 |
+| **English** | forbidden city |
+| **Type** | noun |
+| **Definition** | a walled section of Beijing that encloses the palace that was formerly the residence of the emperor of China |
+| **Source** | common |
+| **Ortatil** | guguñ |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| گۇگۇڭ | guguñ |
+
+```json
+{
+    "id": "i82741",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "forbidden city",
+    "en_definition": "a walled section of Beijing that encloses the palace that was formerly the residence of the emperor of China",
+    "tr_word": "Yasak Şehir",
+    "tr_definition": "Pekin'de bulunan ve eskiden Çin imparatorunun ikametgahı olan sarayı çevreleyen duvarlarla çevrili bölüm",
+    "ru_word": "Запретный город",
+    "ru_definition": "обнесенная стеной часть Пекина, в которой находится дворец, служивший резиденцией китайских императоров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Yasak Şehir",
+                    "Yasak Kent"
+                ],
+                "Azerbaijani": [
+                    "Yasaq şəhər"
+                ],
+                "Kazakh": [
+                    "Жабық қала"
+                ],
+                "Kyrgyz": [
+                    "Жабык шаар"
+                ],
+                "Karakalpak": [
+                    "Jabıq qala"
+                ],
+                "Bashkir": [
+                    "Ябыҡ ҡала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "Тыйым салынған қала"
+                ],
+                "Kyrgyz": [
+                    "Тыюу салынган шаар"
+                ],
+                "Karakalpak": [
+                    "Tıyım salınǵan qala"
+                ],
+                "Tatar": [
+                    "Тыелган шәһәр"
+                ],
+                "Bashkir": [
+                    "Тыйылған ҡала"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Qadağan olunmuş şəhər"
+                ],
+                "Turkmen": [
+                    "gadagan şäher",
+                    "gadagan edilen şäher",
+                    "gadagan bolan şäher"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "Man etilgan shahar"
+                ],
+                "Uyghur": [
+                    "مەنئى قىلىنغان شەھەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Падыша шаары"
+                ],
+                "Karakalpak": [
+                    "Patsha sarayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "Taqiqlangan shahar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چەكلەنگەن شەھەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۇگۇڭ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Хәрәм шәһәр"
+                ]
+            }
+        }
+    ]
+}
+```
+

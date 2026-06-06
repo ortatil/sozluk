@@ -1,0 +1,210 @@
+# Dirty joke
+| Field | Detail |
+|---|---|
+| **ID** | i72111 |
+| **English** | dirty joke |
+| **Type** | noun |
+| **Definition** | an indelicate joke |
+| **Source** | common |
+| **Ortatil** | behäyälik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i72111",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dirty joke",
+    "en_definition": "an indelicate joke",
+    "tr_word": "belden aşağı fıkra",
+    "tr_definition": "Genellikle cinsellik içeren, edebe aykırı veya müstehcen şaka.",
+    "ru_word": "пошлый анекдот",
+    "ru_definition": "Шутка или анекдот непристойного, грубого или вульгарного содержания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "edepsiz fıkra"
+                ],
+                "Azerbaijani": [
+                    "ədəbsiz lətifə"
+                ],
+                "Turkmen": [
+                    "edepsiz degişme"
+                ],
+                "Uyghur": [
+                    "ئەدەپسىز چاقچاق"
+                ],
+                "Kyrgyz": [
+                    "адепсиз тамаша"
+                ],
+                "Tatar": [
+                    "әдәпсез мәзәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "uyatsiz latifa"
+                ],
+                "Kazakh": [
+                    "ұятсыз әзіл"
+                ],
+                "Kyrgyz": [
+                    "уят сөз"
+                ],
+                "Karakalpak": [
+                    "uyatsız latipa"
+                ],
+                "Tatar": [
+                    "оятсыз мәзәк"
+                ],
+                "Bashkir": [
+                    "оятһыҙ мәҙәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açık saçık fıkra"
+                ],
+                "Azerbaijani": [
+                    "açıq-saçıq lətifə"
+                ],
+                "Turkmen": [
+                    "açyk degişme"
+                ],
+                "Kazakh": [
+                    "ашық әзіл"
+                ],
+                "Karakalpak": [
+                    "ashıq latipa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bel altı fıkra"
+                ],
+                "Karakalpak": [
+                    "behaya latipa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərbiyəsiz lətifə"
+                ],
+                "Kazakh": [
+                    "тұрпайы әзіл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "behayolik"
+                ],
+                "Uyghur": [
+                    "بىھايا چاقچاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "лас әзіл"
+                ],
+                "Kyrgyz": [
+                    "ыплас тамаша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пычрак мәзәк"
+                ],
+                "Bashkir": [
+                    "бысраҡ мәҙәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müstehcen fıkra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şit lətifə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hapa degişme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shaloq latifa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "beadab latifa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شۇم چاقچاق",
+                    "پەس چاقچاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бузук тамаша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәрбиәһеҙ мәҙәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "әҙәпһеҙ мәҙәк"
+                ]
+            }
+        }
+    ]
+}
+```
+

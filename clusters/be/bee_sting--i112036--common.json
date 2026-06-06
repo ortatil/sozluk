@@ -1,0 +1,78 @@
+{
+    "id": "i112036",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bee sting",
+    "en_definition": "a sting inflicted by a bee",
+    "tr_word": "arı sokması",
+    "tr_definition": "bir arı tarafından vücuda iğne batırılması ve zehir enjekte edilmesi durumu",
+    "ru_word": "укус пчелы",
+    "ru_definition": "укол жалом, наносимый пчелой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arı sokması",
+                    "arı iğnesi",
+                    "arı sokuşu"
+                ],
+                "Azerbaijani": [
+                    "arı sancması",
+                    "arı çalması",
+                    "arı vuruşu"
+                ],
+                "Turkmen": [
+                    "ary çakmasy",
+                    "ary sanjymy"
+                ],
+                "Uzbek": [
+                    "ari chaqishi",
+                    "ari nishi"
+                ],
+                "Kazakh": [
+                    "ара шағуы",
+                    "араның шағуы",
+                    "араның инесі"
+                ],
+                "Kyrgyz": [
+                    "аары чагуу",
+                    "аарынын чагуусу"
+                ],
+                "Karakalpak": [
+                    "ara shaǵuı",
+                    "aranıń shaǵuı",
+                    "aranıń iynesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бал корты чагуы"
+                ],
+                "Bashkir": [
+                    "бал ҡорто сағыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "корт чагуы"
+                ],
+                "Bashkir": [
+                    "ҡорт сағыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەرە چېقىشى",
+                    "ھەرە سانجىشى"
+                ]
+            }
+        }
+    ]
+}

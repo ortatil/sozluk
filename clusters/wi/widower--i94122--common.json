@@ -1,0 +1,107 @@
+{
+    "id": "i94122",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "widower",
+    "en_definition": "a man whose wife is dead especially one who has not remarried",
+    "tr_word": "dul adam",
+    "tr_definition": "karısı ölmüş ve yeniden evlenmemiş erkek",
+    "ru_word": "вдовец",
+    "ru_definition": "мужчина, у которого умерла жена и который не вступил в новый брак",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dul",
+                    "dul erkek"
+                ],
+                "Azerbaijani": [
+                    "dul"
+                ],
+                "Turkmen": [
+                    "dul",
+                    "dul erkek"
+                ],
+                "Uzbek": [
+                    "tul"
+                ],
+                "Uyghur": [
+                    "تۇل",
+                    "تۇل ئەر"
+                ],
+                "Kazakh": [
+                    "тұл ер",
+                    "тұл"
+                ],
+                "Kyrgyz": [
+                    "тул"
+                ],
+                "Karakalpak": [
+                    "tul",
+                    "tul er adam"
+                ],
+                "Tatar": [
+                    "тол ир"
+                ],
+                "Bashkir": [
+                    "тол ир",
+                    "тол"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بويتاق"
+                ],
+                "Kazakh": [
+                    "бойдақ"
+                ],
+                "Kyrgyz": [
+                    "бойдок"
+                ],
+                "Tatar": [
+                    "буйдак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "subay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "arvadı ölmüş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "beva",
+                    "beva erkak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аялы өлгөн киши"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qatını ólgen"
+                ]
+            }
+        }
+    ]
+}

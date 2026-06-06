@@ -1,0 +1,109 @@
+{
+    "id": "i117388",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wedding anniversary",
+    "en_definition": "the anniversary of the day on which you were married (or the celebration of it)",
+    "tr_word": "evlilik yıldönümü",
+    "tr_definition": "evlenilen günün her yıl dönen tarihi veya bu tarihte yapılan kutlama",
+    "ru_word": "годовщина свадьбы",
+    "ru_definition": "ежегодная дата дня бракосочетания или празднование этого события",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nikah yıldönümü"
+                ],
+                "Azerbaijani": [
+                    "nikah ildönümü"
+                ],
+                "Turkmen": [
+                    "nikah ýyldönümi"
+                ],
+                "Uzbek": [
+                    "nikoh to'yi yilligi",
+                    "nikoh yilligi"
+                ],
+                "Kazakh": [
+                    "неке мерейтойы"
+                ],
+                "Kyrgyz": [
+                    "нике мааракеси"
+                ],
+                "Karakalpak": [
+                    "neke jıldıǵı"
+                ],
+                "Tatar": [
+                    "никах көне"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "toy ildönümü"
+                ],
+                "Turkmen": [
+                    "toý ýyldönümi"
+                ],
+                "Uzbek": [
+                    "to'y yilligi"
+                ],
+                "Uyghur": [
+                    "توي يىللىقى"
+                ],
+                "Karakalpak": [
+                    "toy jıldıǵı"
+                ],
+                "Tatar": [
+                    "туй көне",
+                    "туй бәйрәме"
+                ],
+                "Bashkir": [
+                    "туй көнө",
+                    "туй йыллығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "evlilik yıldönümü"
+                ],
+                "Azerbaijani": [
+                    "evlilik ildönümü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توي خاتىرىسى"
+                ],
+                "Kyrgyz": [
+                    "той мааракеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үйлену тойының мерейтойы",
+                    "үйленген күн"
+                ],
+                "Kyrgyz": [
+                    "үйлөнүү той мааракеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توي كۈنى خاتىرىسى"
+                ]
+            }
+        }
+    ]
+}

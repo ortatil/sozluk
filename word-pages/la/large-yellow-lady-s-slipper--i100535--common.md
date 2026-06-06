@@ -1,0 +1,141 @@
+# Large yellow lady's slipper
+| Field | Detail |
+|---|---|
+| **ID** | i100535 |
+| **English** | large yellow lady's slipper |
+| **Type** | noun |
+| **Definition** | plant of eastern and central North America having slightly fragrant purple-marked greenish-yellow flowers |
+| **Source** | common |
+| **Ortatil** | käwişgıl |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| кебісгүл | kebisgül |
+| шолпанкебіс | şolpankebis |
+
+```json
+{
+    "id": "i100535",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "large yellow lady's slipper",
+    "en_definition": "plant of eastern and central North America having slightly fragrant purple-marked greenish-yellow flowers",
+    "tr_word": "büyük sarı hanımterliği",
+    "tr_definition": "Kuzey Amerika'nın doğu ve orta kesimlerine özgü, hafif kokulu, mor lekeli yeşilimsi sarı çiçekleri olan bir bitki.",
+    "ru_word": "башмачок настоящий крупноцветковый",
+    "ru_definition": "Растение восточной и центральной Северной Америки со слегка ароматными зеленовато-желтыми цветками с пурпурными пятнами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarı hanımterliği",
+                    "sarı orkide"
+                ],
+                "Azerbaijani": [
+                    "sarı xanım tumanı"
+                ],
+                "Turkmen": [
+                    "çarykgül",
+                    "sary çarykgül",
+                    "çarykly gül"
+                ],
+                "Uzbek": [
+                    "sariq kovushgul"
+                ],
+                "Uyghur": [
+                    "سېرىق كەشگۈل",
+                    "سېرىق گۈللۈك كەشگۈل",
+                    "سېرىق چوقىقىل"
+                ],
+                "Kazakh": [
+                    "сары шолпанкебіс"
+                ],
+                "Kyrgyz": [
+                    "сары чолпон-кепич",
+                    "сары кепич-гүл",
+                    "сары венера-кепичи"
+                ],
+                "Karakalpak": [
+                    "sarı kepishgúl"
+                ],
+                "Tatar": [
+                    "сары чәчәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "venüs çarığı"
+                ],
+                "Tatar": [
+                    "венера башмагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кебісгүл"
+                ],
+                "Karakalpak": [
+                    "kepishgúl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sarı xanım başmağı",
+                    "sarı səhləb"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kovushgul",
+                    "kiyiko'ti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шолпанкебіс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йомырка чәчәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "күк кәкүк итеге",
+                    "кәкүк итеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәсән үләне"
+                ]
+            }
+        }
+    ]
+}
+```
+

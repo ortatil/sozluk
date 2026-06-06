@@ -1,0 +1,119 @@
+{
+    "id": "i39836",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sip",
+    "en_definition": "a small drink",
+    "tr_word": "yudum",
+    "tr_definition": "bir içecekten bir defada alınan az miktar",
+    "ru_word": "глоток",
+    "ru_definition": "небольшое количество жидкости, выпиваемое за один раз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yudum"
+                ],
+                "Azerbaijani": [
+                    "udum"
+                ],
+                "Turkmen": [
+                    "yudum"
+                ],
+                "Uzbek": [
+                    "yutum"
+                ],
+                "Uyghur": [
+                    "يۇتۇم"
+                ],
+                "Kazakh": [
+                    "жұтым"
+                ],
+                "Kyrgyz": [
+                    "жутум"
+                ],
+                "Karakalpak": [
+                    "jutım"
+                ],
+                "Tatar": [
+                    "йотым"
+                ],
+                "Bashkir": [
+                    "йотом"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qurtum"
+                ],
+                "Uzbek": [
+                    "qultum"
+                ],
+                "Uyghur": [
+                    "قۇرتۇم"
+                ],
+                "Kazakh": [
+                    "ұрттам",
+                    "ұрт"
+                ],
+                "Kyrgyz": [
+                    "ууртам"
+                ],
+                "Karakalpak": [
+                    "urtlam",
+                    "urt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çimdik"
+                ],
+                "Bashkir": [
+                    "һемгерем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fırt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "owurt",
+                    "gumurt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ho'plam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чөмерү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тамчы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "i78023",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cod",
+    "en_definition": "lean white flesh of important North Atlantic food fish; usually baked or poached",
+    "tr_word": "morina balığı eti",
+    "tr_definition": "Kuzey Atlantik'te yaşayan önemli bir gıda balığının genellikle fırınlanmış veya haşlanmış olarak tüketilen yağsız beyaz eti.",
+    "ru_word": "треска",
+    "ru_definition": "нежирное белое мясо важной промысловой рыбы Северной Атлантики; обычно запекается или варится.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "treska"
+                ],
+                "Turkmen": [
+                    "treska balygy"
+                ],
+                "Uzbek": [
+                    "treska"
+                ],
+                "Uyghur": [
+                    "ترېسكا بېلىقى"
+                ],
+                "Kyrgyz": [
+                    "треска"
+                ],
+                "Karakalpak": [
+                    "treska"
+                ],
+                "Tatar": [
+                    "тәрәч",
+                    "тәрәч балыгы"
+                ],
+                "Bashkir": [
+                    "тәрәс",
+                    "тәрәс балығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oq baliq"
+                ],
+                "Kyrgyz": [
+                    "ак балык"
+                ],
+                "Karakalpak": [
+                    "aq balıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "morina",
+                    "morina balığı"
+                ],
+                "Azerbaijani": [
+                    "morj balığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كود بېلىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нәлім",
+                    "нәлім балығы"
+                ]
+            }
+        }
+    ]
+}

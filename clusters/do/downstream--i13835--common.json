@@ -1,0 +1,123 @@
+{
+    "id": "i13835",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "downstream",
+    "en_definition": "in the direction of a stream's current",
+    "tr_word": "akıntı yönünde",
+    "tr_definition": "akarsuyun akış yönünde olan",
+    "ru_word": "вниз по течению",
+    "ru_definition": "находящийся или движущийся в направлении течения реки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşağı akış",
+                    "akış aşağı"
+                ],
+                "Azerbaijani": [
+                    "axın boyu",
+                    "axın istiqamətində"
+                ],
+                "Turkmen": [
+                    "akym ugruna",
+                    "aşak akym",
+                    "akym boýunça"
+                ],
+                "Uzbek": [
+                    "oqim bo'ylab"
+                ],
+                "Uyghur": [
+                    "ئېقىن بويىچە"
+                ],
+                "Kazakh": [
+                    "ағыспен",
+                    "ағыс бойымен"
+                ],
+                "Kyrgyz": [
+                    "агым боюнча"
+                ],
+                "Karakalpak": [
+                    "aǵıs boyımen"
+                ],
+                "Tatar": [
+                    "агым уңаена",
+                    "агым буенча"
+                ],
+                "Bashkir": [
+                    "ағым ыңғайына",
+                    "ағым буйлап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەن ئېقىن",
+                    "تۆۋەن"
+                ],
+                "Kazakh": [
+                    "төмен",
+                    "төменгі ағыс"
+                ],
+                "Kyrgyz": [
+                    "төмөн"
+                ],
+                "Karakalpak": [
+                    "tómen",
+                    "tómengі aǵıs"
+                ],
+                "Tatar": [
+                    "түбән"
+                ],
+                "Bashkir": [
+                    "түбәнге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akıntı yönünde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mecra aşağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "aşağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quyiga"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pastga"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ылдый"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "id": "i2222",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "black",
+    "en_definition": "being of the achromatic color of maximum darkness; having little or no hue owing to absorption of almost all incident light",
+    "tr_word": "siyah",
+    "tr_definition": "En koyu renk olan, ışığı hiç yansıtmayan, kara.",
+    "ru_word": "чёрный",
+    "ru_definition": "Самый темный из цветов, воспринимаемый при отсутствии светового потока от предмета.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara"
+                ],
+                "Azerbaijani": [
+                    "qara"
+                ],
+                "Turkmen": [
+                    "gara"
+                ],
+                "Uzbek": [
+                    "qora"
+                ],
+                "Uyghur": [
+                    "قارا"
+                ],
+                "Kazakh": [
+                    "қара"
+                ],
+                "Kyrgyz": [
+                    "кара"
+                ],
+                "Karakalpak": [
+                    "qara"
+                ],
+                "Tatar": [
+                    "кара"
+                ],
+                "Bashkir": [
+                    "ҡара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qop-qora"
+                ],
+                "Kazakh": [
+                    "қап-қара"
+                ],
+                "Kyrgyz": [
+                    "кап-кара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "qarańǵı"
+                ],
+                "Tatar": [
+                    "караңгы"
+                ],
+                "Bashkir": [
+                    "ҡараңғы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siyah"
+                ],
+                "Azerbaijani": [
+                    "siyah"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goýy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tär"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuyg'un"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көмірдей"
+                ]
+            }
+        }
+    ]
+}

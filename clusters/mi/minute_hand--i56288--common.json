@@ -1,0 +1,77 @@
+{
+    "id": "i56288",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "minute hand",
+    "en_definition": "points to the minutes",
+    "tr_word": "yelkovan",
+    "tr_definition": "saat kadranı üzerinde dakikaları gösteren uzun ve hızlı hareket eden ibre",
+    "ru_word": "минутная стрелка",
+    "ru_definition": "длинная стрелка на циферблате часов, указывающая минуты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "minut dili",
+                    "minut görkezijisi"
+                ],
+                "Uzbek": [
+                    "minut mili"
+                ],
+                "Uyghur": [
+                    "مىنۇت ئىسترېلكىسى",
+                    "مىنۇت كۆرسەتكۈچى"
+                ],
+                "Kazakh": [
+                    "минуттық тіл",
+                    "минут тілі"
+                ],
+                "Kyrgyz": [
+                    "мүнөттүк жебе",
+                    "мүнөт жебеси"
+                ],
+                "Karakalpak": [
+                    "minut tili",
+                    "minutlıq til"
+                ],
+                "Tatar": [
+                    "минут теле",
+                    "минут күрсәткече"
+                ],
+                "Bashkir": [
+                    "минут теле",
+                    "минут күрһәткесе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dakika kolu"
+                ],
+                "Azerbaijani": [
+                    "dəqiqə əqrəbi"
+                ],
+                "Uzbek": [
+                    "daqiqa mili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yelkovan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əqrəb"
+                ]
+            }
+        }
+    ]
+}

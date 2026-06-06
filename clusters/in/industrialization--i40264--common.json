@@ -1,0 +1,103 @@
+{
+    "id": "i40264",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "industrialization",
+    "en_definition": "the development of industry on an extensive scale",
+    "tr_word": "sanayileşme",
+    "tr_definition": "Bir ülkede veya bölgede sanayinin geniş çapta gelişmesi ve yaygınlaşması süreci.",
+    "ru_word": "индустриализация",
+    "ru_definition": "Процесс создания крупного машинного производства во всех отраслях народного хозяйства.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanayileşme",
+                    "sınayileşme"
+                ],
+                "Azerbaijani": [
+                    "sənayeləşmə",
+                    "sənayeləşdirmə"
+                ],
+                "Turkmen": [
+                    "senagatlaşma",
+                    "senagatlaşdyrma"
+                ],
+                "Uzbek": [
+                    "sanoatlashtirish",
+                    "sanoatlashuv"
+                ],
+                "Uyghur": [
+                    "سانائەتلىشىش",
+                    "سانائەتلەشتۈرۈش"
+                ],
+                "Karakalpak": [
+                    "sanaatlastırıo",
+                    "sanaattı raoajlandırıo"
+                ],
+                "Tatar": [
+                    "сәнәгатьләштерү",
+                    "сәнәгатьләшү"
+                ],
+                "Bashkir": [
+                    "сәнәғәтләштереү",
+                    "сәнәғәт үҫеше",
+                    "сәнәғәт ҡоролошо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "endüstrileşme"
+                ],
+                "Uzbek": [
+                    "industrializatsiya"
+                ],
+                "Kazakh": [
+                    "индустрияландыру"
+                ],
+                "Kyrgyz": [
+                    "индустриялаштыруу"
+                ],
+                "Tatar": [
+                    "индустрияләштерү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өнеркәсіптендіру"
+                ],
+                "Karakalpak": [
+                    "kásip-ónerlendirio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təsnatlaşma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәсіптендіру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өнөр жайлашуу",
+                    "өнөр жайдын өнүгүүсү"
+                ]
+            }
+        }
+    ]
+}

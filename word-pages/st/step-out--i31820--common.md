@@ -1,0 +1,157 @@
+# Step out
+| Field | Detail |
+|---|---|
+| **ID** | i31820 |
+| **English** | step out |
+| **Type** | verb |
+| **Definition** | go outside a room or building for a short period of time |
+| **Source** | common |
+| **Ortatil** | ayrılmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| чыгуу | çıguu |
+
+```json
+{
+    "id": "i31820",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "step out",
+    "en_definition": "go outside a room or building for a short period of time",
+    "tr_word": "dışarı çıkmak",
+    "tr_definition": "kısa bir süreliğine bir odadan veya binadan dışarıya gitmek",
+    "ru_word": "выйти",
+    "ru_definition": "выйти из комнаты или здания на короткий период времени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dışarı çıkmak"
+                ],
+                "Turkmen": [
+                    "daşary çykmak",
+                    "daşaryk çykmak"
+                ],
+                "Uzbek": [
+                    "tashqariga chiqmoq"
+                ],
+                "Uyghur": [
+                    "تاشقىرىغا چىقماق"
+                ],
+                "Kazakh": [
+                    "тысқа шығу"
+                ],
+                "Kyrgyz": [
+                    "тышка чыгуу"
+                ],
+                "Tatar": [
+                    "тышка чыгу"
+                ],
+                "Bashkir": [
+                    "тышҡа сығыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çykyp gelmek"
+                ],
+                "Uzbek": [
+                    "chiqib kelmoq",
+                    "chiqib turmoq"
+                ],
+                "Uyghur": [
+                    "چىقىپ كەلمەك"
+                ],
+                "Kyrgyz": [
+                    "чыгуу"
+                ],
+                "Karakalpak": [
+                    "shıǵıp ketio"
+                ],
+                "Tatar": [
+                    "чыгып китү",
+                    "чыгып тору"
+                ],
+                "Bashkir": [
+                    "сығып китеү",
+                    "сығып тороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سىرتقا چىقماق"
+                ],
+                "Kazakh": [
+                    "сыртқа шығу"
+                ],
+                "Kyrgyz": [
+                    "сыртка чыгуу"
+                ],
+                "Karakalpak": [
+                    "sırtqa shıǵıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "далаға шығу"
+                ],
+                "Karakalpak": [
+                    "dalaǵa shıǵıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayrılmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uzaklaşmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çölə çıxmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bayıra çıxmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "eşiyə çıxmaq"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,70 @@
+{
+    "id": "i52122",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coffee can",
+    "en_definition": "a can for storing ground coffee",
+    "tr_word": "kahve kutusu",
+    "tr_definition": "öğütülmüş kahveyi saklamak için kullanılan metal kutu",
+    "ru_word": "жестяная банка для кофе",
+    "ru_definition": "жестяная емкость для хранения молотого кофе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kahve kutusu",
+                    "kahve kavanozu",
+                    "kahve kabı"
+                ],
+                "Azerbaijani": [
+                    "qəhvə qabı",
+                    "qəhvə qutusu",
+                    "qəhvə bankası"
+                ],
+                "Uzbek": [
+                    "qahva qutisi",
+                    "qahvaxon",
+                    "qahva idishi"
+                ],
+                "Uyghur": [
+                    "قەھۋە قۇتىسى",
+                    "قەھۋە قاچىسى"
+                ],
+                "Tatar": [
+                    "каһвә савыты",
+                    "каһвә котысы"
+                ],
+                "Bashkir": [
+                    "ҡәһүә һауыты",
+                    "ҡәһүә ҡалайы",
+                    "ҡәһүә ҡап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kofe gapy",
+                    "kofe gutusy",
+                    "kofe gapyjygy"
+                ],
+                "Kazakh": [
+                    "кофе құтысы",
+                    "кофе сауыты",
+                    "кофе банкасы"
+                ],
+                "Kyrgyz": [
+                    "кофе идиши",
+                    "кофе кутусу",
+                    "кофе салгыч"
+                ],
+                "Karakalpak": [
+                    "kofe idisi",
+                    "kofe kutısı"
+                ]
+            }
+        }
+    ]
+}

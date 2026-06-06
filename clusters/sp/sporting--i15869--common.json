@@ -1,0 +1,113 @@
+{
+    "id": "i15869",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sporting",
+    "en_definition": "relating to or used in sports",
+    "tr_word": "sportif",
+    "tr_definition": "sporla ilgili veya sporda kullanılan",
+    "ru_word": "спортивный",
+    "ru_definition": "относящийся к спорту или используемый в спорте",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sportif",
+                    "sporla ilgili",
+                    "spor"
+                ],
+                "Turkmen": [
+                    "sport"
+                ],
+                "Uzbek": [
+                    "sportga oid",
+                    "sportiv",
+                    "sportga tegishli",
+                    "sport"
+                ],
+                "Kazakh": [
+                    "спорттық"
+                ],
+                "Kyrgyz": [
+                    "спорттук"
+                ],
+                "Karakalpak": [
+                    "sportlıq"
+                ],
+                "Tatar": [
+                    "спорт"
+                ],
+                "Bashkir": [
+                    "спорт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ойын"
+                ],
+                "Kyrgyz": [
+                    "оюндук"
+                ],
+                "Karakalpak": [
+                    "oyınlıq"
+                ],
+                "Tatar": [
+                    "уен"
+                ],
+                "Bashkir": [
+                    "уйын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تەنتەربىيەگە ئائىت",
+                    "تەنتەربىيە",
+                    "تەنتەربىيىۋى"
+                ],
+                "Kazakh": [
+                    "дене шынықтыру"
+                ],
+                "Karakalpak": [
+                    "dene tárbiyalıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "idman",
+                    "idmana aid",
+                    "idmanla bağlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bedenterbiýe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pälwanlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мелдештик"
+                ]
+            }
+        }
+    ]
+}

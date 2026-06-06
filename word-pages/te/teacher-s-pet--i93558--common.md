@@ -1,0 +1,171 @@
+# Teacher's pet
+| Field | Detail |
+|---|---|
+| **ID** | i93558 |
+| **English** | teacher's pet |
+| **Type** | noun |
+| **Definition** | the teacher's favorite student |
+| **Source** | common |
+| **Ortatil** | erkätäq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i93558",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "teacher's pet",
+    "en_definition": "the teacher's favorite student",
+    "tr_word": "öğretmenin gözdesi",
+    "tr_definition": "Öğretmen tarafından en çok sevilen ve kayırılan öğrenci.",
+    "ru_word": "любимчик учителя",
+    "ru_definition": "Ученик, пользующийся особым расположением и покровительством учителя.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "erkana okuwçy"
+                ],
+                "Uzbek": [
+                    "erkatoq"
+                ],
+                "Uyghur": [
+                    "ئەركە ئوقۇغۇچى"
+                ],
+                "Kazakh": [
+                    "ерке шәкірт"
+                ],
+                "Kyrgyz": [
+                    "эрке окуучу"
+                ],
+                "Karakalpak": [
+                    "erke shákirt"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söýgüli okuwçy"
+                ],
+                "Uzbek": [
+                    "suyukli shogird"
+                ],
+                "Kazakh": [
+                    "сүйікті шәкірт"
+                ],
+                "Kyrgyz": [
+                    "сүймөнчүк окуучу"
+                ],
+                "Bashkir": [
+                    "һөйөклө шәкерт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sevimli şagird"
+                ],
+                "Uzbek": [
+                    "sevimli oʻquvchi"
+                ],
+                "Karakalpak": [
+                    "súykimli oqıoshı"
+                ],
+                "Tatar": [
+                    "сөекле шәкерт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жағымпаз оқушы"
+                ],
+                "Kyrgyz": [
+                    "жагымдуу окуучу"
+                ],
+                "Karakalpak": [
+                    "jaǵımpaz oqıoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el bebek gül bebek"
+                ],
+                "Azerbaijani": [
+                    "əziz şagird"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müəllim sevimlisi"
+                ],
+                "Uyghur": [
+                    "مۇئەللىمنىڭ ئەركىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яраткан укучы",
+                    "яраткан шәкерт"
+                ],
+                "Bashkir": [
+                    "яратҡан уҡыусы",
+                    "яратҡан шәкерт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğretmen kuzusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gözde öğrenci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "has talebe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mugallymyň söýgüli okuwçysy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياقتۇرىدىغان ئوقۇغۇچى"
+                ]
+            }
+        }
+    ]
+}
+```
+

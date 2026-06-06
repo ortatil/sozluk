@@ -1,0 +1,114 @@
+{
+    "id": "i113298",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "noise pollution",
+    "en_definition": "annoying and potentially harmful environmental noise",
+    "tr_word": "gürültü kirliliği",
+    "tr_definition": "insan sağlığına ve huzuruna zarar veren, rahatsız edici çevresel ses yoğunluğu",
+    "ru_word": "шумовое загрязнение",
+    "ru_definition": "раздражающий и потенциально вредный шум в окружающей среде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shovqin ifloslanishi",
+                    "shovqin-suron ifloslanishi"
+                ],
+                "Uyghur": [
+                    "شاۋقۇن بۇلغىنىشى",
+                    "شاۋقۇن-سۈرەن بۇلغىنىشى"
+                ],
+                "Karakalpak": [
+                    "shaoqımnıń pataslanıoı",
+                    "shaoqımlı pataslanıo"
+                ],
+                "Tatar": [
+                    "шау-шу пычрануы"
+                ],
+                "Bashkir": [
+                    "шау-шыулы бысраныу",
+                    "шау-шыу бысраныуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tovush ifloslanishi"
+                ],
+                "Uyghur": [
+                    "ئاۋاز بۇلغىنىشى"
+                ],
+                "Karakalpak": [
+                    "daoıs pataslanıoı"
+                ],
+                "Tatar": [
+                    "тавыш пычрануы",
+                    "тавыш зыяны"
+                ],
+                "Bashkir": [
+                    "тауыш бысраныуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ses kirliliği"
+                ],
+                "Azerbaijani": [
+                    "səs-küy çirklənməsi",
+                    "səs çirkliliyi",
+                    "səs kirliliyi"
+                ],
+                "Turkmen": [
+                    "ses hapalygy",
+                    "ses kirliligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gürültü kirliliği",
+                    "gürültü kirlenmesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "galmagal hapalygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шуылдың ластануы",
+                    "шуылмен ластану"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дыбыстық ластану"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ызы-чуунун булганышы",
+                    "ызы-чуу булганышы",
+                    "ызы-чуунун зыяны"
+                ]
+            }
+        }
+    ]
+}

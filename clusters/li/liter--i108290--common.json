@@ -1,0 +1,69 @@
+{
+    "id": "i108290",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "liter",
+    "en_definition": "a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints)",
+    "tr_word": "litre",
+    "tr_definition": "Hacmi 1.000 santimetreküp olan, sıvıları ölçmede kullanılan temel ölçü birimi.",
+    "ru_word": "литр",
+    "ru_definition": "Единица измерения объёма, равная 1000 кубических сантиметров.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "litre"
+                ],
+                "Azerbaijani": [
+                    "litr"
+                ],
+                "Turkmen": [
+                    "litr"
+                ],
+                "Uzbek": [
+                    "litr"
+                ],
+                "Uyghur": [
+                    "لىتىر"
+                ],
+                "Kazakh": [
+                    "литр"
+                ],
+                "Kyrgyz": [
+                    "литр"
+                ],
+                "Karakalpak": [
+                    "litr"
+                ],
+                "Tatar": [
+                    "литр"
+                ],
+                "Bashkir": [
+                    "литр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ölçeg"
+                ],
+                "Tatar": [
+                    "үлчәү"
+                ],
+                "Bashkir": [
+                    "үлсәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "paymona"
+                ]
+            }
+        }
+    ]
+}

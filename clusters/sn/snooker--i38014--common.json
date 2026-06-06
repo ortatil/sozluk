@@ -1,0 +1,94 @@
+{
+    "id": "i38014",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snooker",
+    "en_definition": "a form of pool played with 15 red balls and six balls of other colors and a cue ball",
+    "tr_word": "snooker",
+    "tr_definition": "15 kırmızı, 6 farklı renkli top ve bir beyaz vuruş topu ile oynanan bir bilardo türü",
+    "ru_word": "снукер",
+    "ru_definition": "разновидность бильярдной игры, в которой используются 15 красных шаров, 6 цветных шаров и один белый шар-биток",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilardo"
+                ],
+                "Azerbaijani": [
+                    "bilyard"
+                ],
+                "Turkmen": [
+                    "bilýard"
+                ],
+                "Uzbek": [
+                    "bilyard"
+                ],
+                "Uyghur": [
+                    "بىلليارد"
+                ],
+                "Kazakh": [
+                    "бильярд"
+                ],
+                "Kyrgyz": [
+                    "бильярд"
+                ],
+                "Karakalpak": [
+                    "bilyard"
+                ],
+                "Tatar": [
+                    "бильярд"
+                ],
+                "Bashkir": [
+                    "бильярд",
+                    "бильярд уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шар ойыны"
+                ],
+                "Kyrgyz": [
+                    "шар оюну"
+                ],
+                "Karakalpak": [
+                    "shar oyını"
+                ],
+                "Tatar": [
+                    "шарлы уен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "snuker"
+                ],
+                "Turkmen": [
+                    "snuker"
+                ],
+                "Uyghur": [
+                    "سۆنۇكېر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "top oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shatranj"
+                ]
+            }
+        }
+    ]
+}

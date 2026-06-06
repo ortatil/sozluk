@@ -1,0 +1,131 @@
+{
+    "id": "i78434",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cottage cheese",
+    "en_definition": "mild white cheese made from curds of soured skim milk",
+    "tr_word": "çökelek",
+    "tr_definition": "yağı alınmış sütün pıhtılaştırılmasıyla elde edilen yumuşak ve beyaz bir peynir türü",
+    "ru_word": "творог",
+    "ru_definition": "кисломолочный продукт, приготовленный из сквашенного молока путём удаления сыворотки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "süzme"
+                ],
+                "Uzbek": [
+                    "suzma"
+                ],
+                "Uyghur": [
+                    "سۈزمە"
+                ],
+                "Kazakh": [
+                    "сүзбе"
+                ],
+                "Kyrgyz": [
+                    "сүзмө"
+                ],
+                "Karakalpak": [
+                    "súzbe"
+                ],
+                "Tatar": [
+                    "сөзмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئېرىمچىك"
+                ],
+                "Kazakh": [
+                    "ірімшік"
+                ],
+                "Kyrgyz": [
+                    "иримчик"
+                ],
+                "Karakalpak": [
+                    "іrіmshіk"
+                ],
+                "Tatar": [
+                    "эремчек"
+                ],
+                "Bashkir": [
+                    "эремсек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lor"
+                ],
+                "Azerbaijani": [
+                    "şor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kesmik"
+                ],
+                "Azerbaijani": [
+                    "kəsmik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çökelek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dorog"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "peýnir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tvorog"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chakki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "быштак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡатыҡ"
+                ]
+            }
+        }
+    ]
+}

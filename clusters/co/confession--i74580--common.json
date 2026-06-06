@@ -1,0 +1,127 @@
+{
+    "id": "i74580",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "confession",
+    "en_definition": "an admission of misdeeds or faults",
+    "tr_word": "itiraf",
+    "tr_definition": "bir hatayı, suçu veya gizli kalmış bir durumu açıklama eylemi",
+    "ru_word": "признание",
+    "ru_definition": "открытое объявление о своих проступках, ошибках или секретах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "iqrar"
+                ],
+                "Turkmen": [
+                    "ykrar"
+                ],
+                "Uzbek": [
+                    "iqror"
+                ],
+                "Uyghur": [
+                    "ئىقرار"
+                ],
+                "Kazakh": [
+                    "иқрар"
+                ],
+                "Karakalpak": [
+                    "iqrar"
+                ],
+                "Bashkir": [
+                    "иҡрар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töbe"
+                ],
+                "Uzbek": [
+                    "tavba"
+                ],
+                "Uyghur": [
+                    "تۆۋە"
+                ],
+                "Kazakh": [
+                    "тәубе"
+                ],
+                "Karakalpak": [
+                    "táobe"
+                ],
+                "Tatar": [
+                    "тәүбә"
+                ],
+                "Bashkir": [
+                    "тәүбә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "itiraf",
+                    "ikrar"
+                ],
+                "Azerbaijani": [
+                    "etiraf"
+                ],
+                "Uzbek": [
+                    "e'tirof"
+                ],
+                "Uyghur": [
+                    "ئېتىراپ"
+                ],
+                "Kyrgyz": [
+                    "икрар"
+                ],
+                "Tatar": [
+                    "икърар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мойындау"
+                ],
+                "Kyrgyz": [
+                    "мойнуна алуу"
+                ],
+                "Karakalpak": [
+                    "moyınlao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "танылу"
+                ],
+                "Bashkir": [
+                    "таныу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "boýun almak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тообо"
+                ]
+            }
+        }
+    ]
+}

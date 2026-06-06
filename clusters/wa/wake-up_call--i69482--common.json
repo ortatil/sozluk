@@ -1,0 +1,75 @@
+{
+    "id": "i69482",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wake-up call",
+    "en_definition": "a telephone call that you request be made a specific time in order to wake you up at that time (especially in hotels)",
+    "tr_word": "uyandırma servisi",
+    "tr_definition": "Otellerde müşterilerin belirli bir saatte uyandırılmak için talep ettikleri telefon hizmeti.",
+    "ru_word": "звонок-будильник",
+    "ru_definition": "Телефонный звонок, заказываемый гостем отеля на определенное время, чтобы проснуться.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uyandırma servisi",
+                    "uyandırma çağrısı"
+                ],
+                "Azerbaijani": [
+                    "oyandırma zəngi"
+                ],
+                "Turkmen": [
+                    "oýandyryş jaňy",
+                    "oýandyrmak hyzmaty"
+                ],
+                "Uzbek": [
+                    "uyg'otish qo'ng'irog'i",
+                    "uyg'otish xizmati"
+                ],
+                "Uyghur": [
+                    "ئويغىتىش تېلېفونى",
+                    "ئويغىتىش قوڭغۇرىقى"
+                ],
+                "Kazakh": [
+                    "ояту қоңырауы"
+                ],
+                "Kyrgyz": [
+                    "ойготуу",
+                    "ойготуу чакырыгы",
+                    "ойготуу коңгуроосу"
+                ],
+                "Karakalpak": [
+                    "oyatıo qońıraoı",
+                    "oyatıo xızmeti"
+                ],
+                "Tatar": [
+                    "уяту",
+                    "уяту чакыруы",
+                    "уяту хезмәте"
+                ],
+                "Bashkir": [
+                    "уятыу ҡыңғырауы",
+                    "уятыу саҡырыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "oyatma zəngi"
+                ],
+                "Kazakh": [
+                    "ояту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хабарлау"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "id": "i79353",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "steel company",
+    "en_definition": "a company that makes and sells steel",
+    "tr_word": "çelik şirketi",
+    "tr_definition": "çelik üreten ve satan şirket",
+    "ru_word": "сталелитейная компания",
+    "ru_definition": "компания, которая производит и продает сталь",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "polad şirkəti",
+                    "polad müəssisəsi",
+                    "polad istehsalçısı"
+                ],
+                "Turkmen": [
+                    "polat kärhanasy",
+                    "polat öndürýän kärhana",
+                    "polat zawody"
+                ],
+                "Uzbek": [
+                    "po'lat korxonasi",
+                    "po'lat shirkati"
+                ],
+                "Uyghur": [
+                    "پولات شىركىتى",
+                    "پولات-تۆمۈر شىركىتى",
+                    "پولات كارخانىسى"
+                ],
+                "Kazakh": [
+                    "болат компаниясы",
+                    "болат өндіруші кәсіпорын",
+                    "болат зауыты"
+                ],
+                "Kyrgyz": [
+                    "болот ишканасы",
+                    "болот өндүрүүчү ишкана",
+                    "болот компаниясы"
+                ],
+                "Karakalpak": [
+                    "bolat kárxanası",
+                    "bolat zawodı",
+                    "bolat óndirisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "корыч ширкәте",
+                    "корыч җитештерү оешмасы",
+                    "корыч заводы"
+                ],
+                "Bashkir": [
+                    "ҡорос ҡойоу компанияһы",
+                    "ҡорос етештереү предприятиеһы",
+                    "ҡорос ҡойоу ойошмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çelik şirketi",
+                    "çelik fabrikası",
+                    "çelik kuruluşu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "demir-çelik işletmesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "metallurgiya korxonasi"
+                ]
+            }
+        }
+    ]
+}

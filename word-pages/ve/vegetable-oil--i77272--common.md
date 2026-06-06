@@ -1,0 +1,144 @@
+# Vegetable oil
+| Field | Detail |
+|---|---|
+| **ID** | i77272 |
+| **English** | vegetable oil |
+| **Type** | noun |
+| **Definition** | any of a group of liquid edible fats that are obtained from plants |
+| **Source** | common |
+| **Ortatil** | mäy |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i77272",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vegetable oil",
+    "en_definition": "any of a group of liquid edible fats that are obtained from plants",
+    "tr_word": "bitkisel yağ",
+    "tr_definition": "bitkilerden elde edilen sıvı ve yenilebilir yağların genel adı",
+    "ru_word": "растительное масло",
+    "ru_definition": "любой из группы жидких пищевых жиров, получаемых из растений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ösümlik ýagy"
+                ],
+                "Uzbek": [
+                    "o'simlik yog'i"
+                ],
+                "Uyghur": [
+                    "ئۆسۈملۈك مېيى"
+                ],
+                "Kazakh": [
+                    "өсімдік майы"
+                ],
+                "Kyrgyz": [
+                    "өсүмдүк майы"
+                ],
+                "Karakalpak": [
+                    "ósimlik mayı"
+                ],
+                "Tatar": [
+                    "үсемлек мае"
+                ],
+                "Bashkir": [
+                    "үҫемлек майы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıvı yağ"
+                ],
+                "Kazakh": [
+                    "сұйық май"
+                ],
+                "Kyrgyz": [
+                    "суюк май"
+                ],
+                "Karakalpak": [
+                    "suyıq may"
+                ],
+                "Tatar": [
+                    "сыек май"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bitkisel yağ"
+                ],
+                "Azerbaijani": [
+                    "bitki yağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nebatî yağ"
+                ],
+                "Uzbek": [
+                    "nabotot yog'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "suwuk ýag"
+                ],
+                "Uyghur": [
+                    "سۇيۇق ماي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "duru yağ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "moy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زەيتۇن مېيى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәскә майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көнбағыш майы"
+                ]
+            }
+        }
+    ]
+}
+```
+

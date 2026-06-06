@@ -1,0 +1,150 @@
+{
+    "id": "i9500",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "existing",
+    "en_definition": "presently existing",
+    "tr_word": "mevcut",
+    "tr_definition": "hâlihazırda var olan, bulunan",
+    "ru_word": "существующий",
+    "ru_definition": "имеющийся в наличии в настоящее время",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "var"
+                ],
+                "Azerbaijani": [
+                    "var"
+                ],
+                "Turkmen": [
+                    "bar"
+                ],
+                "Uzbek": [
+                    "bor",
+                    "barhayot"
+                ],
+                "Uyghur": [
+                    "بار"
+                ],
+                "Kazakh": [
+                    "бар",
+                    "барша"
+                ],
+                "Kyrgyz": [
+                    "бар",
+                    "бар болгон"
+                ],
+                "Karakalpak": [
+                    "bar",
+                    "barlıq"
+                ],
+                "Tatar": [
+                    "бар"
+                ],
+                "Bashkir": [
+                    "бар",
+                    "бар булған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mevcut"
+                ],
+                "Azerbaijani": [
+                    "mövcud"
+                ],
+                "Turkmen": [
+                    "mowjut"
+                ],
+                "Uzbek": [
+                    "mavjud"
+                ],
+                "Uyghur": [
+                    "مەۋجۇت"
+                ],
+                "Kyrgyz": [
+                    "мавжут"
+                ],
+                "Karakalpak": [
+                    "máojit"
+                ],
+                "Tatar": [
+                    "мәүҗүд"
+                ],
+                "Bashkir": [
+                    "мәүжүт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazır"
+                ],
+                "Azerbaijani": [
+                    "hazırkı"
+                ],
+                "Turkmen": [
+                    "häzirki"
+                ],
+                "Uyghur": [
+                    "ھازىرقى"
+                ],
+                "Bashkir": [
+                    "хәҙерге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tirik"
+                ],
+                "Kazakh": [
+                    "тірі"
+                ],
+                "Kyrgyz": [
+                    "тирүү"
+                ],
+                "Karakalpak": [
+                    "tirshiliktegi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bulunan"
+                ],
+                "Kyrgyz": [
+                    "болгон"
+                ],
+                "Tatar": [
+                    "булган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аман"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қолдағы"
+                ]
+            }
+        }
+    ]
+}

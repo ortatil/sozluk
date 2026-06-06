@@ -1,0 +1,157 @@
+# Tip-off
+| Field | Detail |
+|---|---|
+| **ID** | i37917 |
+| **English** | tip-off |
+| **Type** | noun |
+| **Definition** | the act of starting a basketball game with a jump ball |
+| **Source** | common |
+| **Ortatil** | ırğıtıwsan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| ырғытыу | ırğıtıu |
+
+```json
+{
+    "id": "i37917",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tip-off",
+    "en_definition": "the act of starting a basketball game with a jump ball",
+    "tr_word": "hava atışı",
+    "tr_definition": "basketbol maçını başlatan zıplama topu eylemi",
+    "ru_word": "спорный мяч",
+    "ru_definition": "вбрасывание мяча в начале баскетбольного матча",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "oyuna başlama"
+                ],
+                "Turkmen": [
+                    "oýun başy"
+                ],
+                "Uzbek": [
+                    "oʻyin boshlanishi"
+                ],
+                "Karakalpak": [
+                    "oyınnıń baslanıoı"
+                ],
+                "Tatar": [
+                    "уен башлау"
+                ],
+                "Bashkir": [
+                    "уйын башлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "topuň oýna girizilmegi"
+                ],
+                "Uzbek": [
+                    "toʻpni oʻyinga kiritish"
+                ],
+                "Uyghur": [
+                    "توپ تاشلاش"
+                ],
+                "Kazakh": [
+                    "допты лақтыру"
+                ],
+                "Tatar": [
+                    "туп ташлау"
+                ],
+                "Bashkir": [
+                    "туп ташлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başlangıç atışı"
+                ],
+                "Azerbaijani": [
+                    "başlanğıc atışı"
+                ],
+                "Uyghur": [
+                    "باشلىنىش توپى"
+                ],
+                "Kazakh": [
+                    "бастапқы лақтыру"
+                ],
+                "Kyrgyz": [
+                    "баштапкы ыргытуу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sakrash orqali toʻpni talashish"
+                ],
+                "Kyrgyz": [
+                    "секирип топ талашуу"
+                ],
+                "Karakalpak": [
+                    "sekirip toptı talasıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "допты ойынға қосу"
+                ],
+                "Kyrgyz": [
+                    "топту оюнга кошуу"
+                ],
+                "Karakalpak": [
+                    "toptı oyınǵa qosıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hava atışı"
+                ],
+                "Azerbaijani": [
+                    "hava atışı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "böküşli başlangyç"
+                ],
+                "Tatar": [
+                    "бәхәсле туп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ырғытыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

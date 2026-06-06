@@ -1,0 +1,82 @@
+{
+    "id": "i101533",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oak",
+    "en_definition": "a deciduous tree of the genus Quercus; has acorns and lobed leaves",
+    "tr_word": "meşe",
+    "tr_definition": "Quercus cinsinden, palamut veren, sert odunlu bir orman ağacı",
+    "ru_word": "дуб",
+    "ru_definition": "крупное лиственное дерево семейства буковых с крепкой древесиной и плодами — желудями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eman"
+                ],
+                "Kazakh": [
+                    "емен",
+                    "емен ағашы"
+                ],
+                "Kyrgyz": [
+                    "эмен"
+                ],
+                "Karakalpak": [
+                    "emen",
+                    "emen teregi"
+                ],
+                "Tatar": [
+                    "имән"
+                ],
+                "Bashkir": [
+                    "имән",
+                    "имән ағасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "palamut ağacı"
+                ],
+                "Azerbaijani": [
+                    "palıd",
+                    "palıd ağacı"
+                ],
+                "Turkmen": [
+                    "palyt"
+                ],
+                "Uzbek": [
+                    "bolut"
+                ],
+                "Uyghur": [
+                    "پالۇت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dub"
+                ],
+                "Uyghur": [
+                    "دۇب دەرىخى",
+                    "دۇب"
+                ],
+                "Kyrgyz": [
+                    "дуб"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meşe"
+                ]
+            }
+        }
+    ]
+}

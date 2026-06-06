@@ -1,0 +1,115 @@
+# Alpha centauri
+| Field | Detail |
+|---|---|
+| **ID** | i84952 |
+| **English** | alpha centauri |
+| **Type** | noun |
+| **Definition** | brightest star in Centaurus; second nearest star to the sun |
+| **Source** | common |
+| **Ortatil** | toliman |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| Толиман | toliman |
+
+```json
+{
+    "id": "i84952",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "alpha centauri",
+    "en_definition": "brightest star in Centaurus; second nearest star to the sun",
+    "tr_word": "Alfa Erboğa",
+    "tr_definition": "Erboğa takımyıldızının en parlak yıldızı; Güneş'e en yakın ikinci yıldız sistemi",
+    "ru_word": "Альфа Центавра",
+    "ru_definition": "ярчайшая звезда в созвездии Центавра; вторая по близости к Солнцу звездная система",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Alfa Erboğa",
+                    "Alfa Kentavr"
+                ],
+                "Azerbaijani": [
+                    "Alfa Sentavr"
+                ],
+                "Turkmen": [
+                    "Alfa Sentawr"
+                ],
+                "Uzbek": [
+                    "Alfa Sentavr"
+                ],
+                "Uyghur": [
+                    "ئالفا سېنتائۇرى"
+                ],
+                "Kazakh": [
+                    "Альфа Кентавр"
+                ],
+                "Kyrgyz": [
+                    "Альфа Центавр"
+                ],
+                "Karakalpak": [
+                    "Alfa Kentawr"
+                ],
+                "Tatar": [
+                    "Әлфә Кентавр"
+                ],
+                "Bashkir": [
+                    "Әлфә Кентавр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Racil Qantur"
+                ],
+                "Turkmen": [
+                    "Rijil Kentawr"
+                ],
+                "Uzbek": [
+                    "Rijil Qanturus"
+                ],
+                "Uyghur": [
+                    "رەجىل قەنتۇرىس",
+                    "رەجىل ئەلقەنتۇرىس"
+                ],
+                "Kazakh": [
+                    "Ригель Кентавр"
+                ],
+                "Kyrgyz": [
+                    "Ригил Кентавр"
+                ],
+                "Karakalpak": [
+                    "Rigil Kentawr"
+                ],
+                "Tatar": [
+                    "Риҗел Кентавр"
+                ],
+                "Bashkir": [
+                    "Ригил Кентавр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Toliman"
+                ],
+                "Kazakh": [
+                    "Толиман"
+                ]
+            }
+        }
+    ]
+}
+```
+

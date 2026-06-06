@@ -1,0 +1,69 @@
+{
+    "id": "i58948",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "silver mine",
+    "en_definition": "a mine where silver ore is dug",
+    "tr_word": "gümüş madeni",
+    "tr_definition": "gümüş cevherinin çıkarıldığı yer",
+    "ru_word": "серебряный рудник",
+    "ru_definition": "место, где добывают серебряную руду",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gümüş madeni",
+                    "gümüş ocağı"
+                ],
+                "Azerbaijani": [
+                    "gümüş mədəni",
+                    "gümüş yatağı",
+                    "gümüş kanı"
+                ],
+                "Turkmen": [
+                    "kümüş kän",
+                    "kümüş känleri",
+                    "kümüş magdany"
+                ],
+                "Uzbek": [
+                    "kumush koni"
+                ],
+                "Uyghur": [
+                    "كۈمۈش كان",
+                    "كۈمۈش كېنى"
+                ],
+                "Kazakh": [
+                    "күміс кеніші",
+                    "күміс кені",
+                    "күміс шахтасы"
+                ],
+                "Kyrgyz": [
+                    "күмүш кени",
+                    "күмүш кенчи"
+                ],
+                "Karakalpak": [
+                    "gúmis káni",
+                    "gúmis shaxtası"
+                ],
+                "Tatar": [
+                    "көмеш казу урыны",
+                    "көмеш мәгъдәне",
+                    "көмеш шахтасы"
+                ],
+                "Bashkir": [
+                    "көмөш руднигы",
+                    "көмөш шахтаһы",
+                    "көмөш ятҡылығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sim koni"
+                ]
+            }
+        }
+    ]
+}

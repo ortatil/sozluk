@@ -1,0 +1,94 @@
+{
+    "id": "i91952",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "perfumer",
+    "en_definition": "a person who makes (and sells) perfumes",
+    "tr_word": "parfümcü",
+    "tr_definition": "parfüm yapan ve satan kimse",
+    "ru_word": "парфюмер",
+    "ru_definition": "человек, который занимается созданием и продажей парфюмерных изделий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ıtriyatçı",
+                    "attar"
+                ],
+                "Azerbaijani": [
+                    "ətriyyatçı",
+                    "əttar"
+                ],
+                "Turkmen": [
+                    "atyrçy",
+                    "atyr satyjy",
+                    "atyr ýasaýjy"
+                ],
+                "Uzbek": [
+                    "attor",
+                    "atrfurush",
+                    "atrpaz"
+                ],
+                "Uyghur": [
+                    "ئەتتار"
+                ],
+                "Kazakh": [
+                    "әтірші",
+                    "аттаршы"
+                ],
+                "Kyrgyz": [
+                    "атырчы"
+                ],
+                "Karakalpak": [
+                    "itirshi",
+                    "attar"
+                ],
+                "Tatar": [
+                    "аттар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "خۇشبۇيچى"
+                ],
+                "Kazakh": [
+                    "хош иіс жасаушы"
+                ],
+                "Tatar": [
+                    "хушбуйчы"
+                ],
+                "Bashkir": [
+                    "хушбуйсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гатырчы"
+                ],
+                "Bashkir": [
+                    "ғәтирсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "parfümcü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыпарчы"
+                ]
+            }
+        }
+    ]
+}

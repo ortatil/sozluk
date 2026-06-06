@@ -1,0 +1,83 @@
+{
+    "id": "synset-oewn-92446192-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "family movie",
+    "en_definition": "a film genre that contains appropriate content for younger viewers but aims to appeal not only to children, but to a wide range of ages.",
+    "tr_word": "aile filmi",
+    "tr_definition": "Küçük izleyiciler için uygun içerik barındıran ancak sadece çocuklara değil, her yaştan izleyiciye hitap etmeyi amaçlayan film türü.",
+    "ru_word": "семейный фильм",
+    "ru_definition": "Жанр кино, который содержит подходящий контент для юных зрителей, но стремится привлечь не только детей, но и широкую возрастную аудиторию.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aile filmi",
+                    "aile sineması"
+                ],
+                "Azerbaijani": [
+                    "ailə filmi",
+                    "ailəvi film",
+                    "ailəvi kino"
+                ],
+                "Uzbek": [
+                    "oila filmi",
+                    "oilaviy film",
+                    "oilaviy kino"
+                ],
+                "Uyghur": [
+                    "ئائىلە فىلىمى",
+                    "ئائىلە كىنو فىلىمى"
+                ],
+                "Tatar": [
+                    "гаилә фильмы",
+                    "гаилә киносы"
+                ],
+                "Bashkir": [
+                    "ғаилә фильмы",
+                    "ғаилә киноһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maşgala filmi",
+                    "maşgala kinosy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отбасылық фильм",
+                    "отбасылық кино"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жанұялық фильм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үй-бүлөлүк тасма",
+                    "үй-бүлөлүк кино"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shańaraqlıq film",
+                    "shańaraqlıq kino"
+                ]
+            }
+        }
+    ]
+}

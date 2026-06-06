@@ -1,0 +1,171 @@
+# Tiptoe
+| Field | Detail |
+|---|---|
+| **ID** | i10529 |
+| **English** | tiptoe |
+| **Type** | unknown |
+| **Definition** | walking on the tips of ones's toes so as to make no noise |
+| **Source** | common |
+| **Ortatil** | paypalamaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i10529",
+    "type": "unknown",
+    "batch": "common",
+    "en_word": "tiptoe",
+    "en_definition": "walking on the tips of ones's toes so as to make no noise",
+    "tr_word": "parmak ucunda yürümek",
+    "tr_definition": "Gürültü yapmamak için ayak parmaklarının uçlarına basarak yürümek",
+    "ru_word": "ходить на цыпочках",
+    "ru_definition": "Передвигаться, опираясь только на кончики пальцев ног, чтобы не производить шума",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayak ucu"
+                ],
+                "Azerbaijani": [
+                    "ayaq ucu"
+                ],
+                "Uzbek": [
+                    "oyoq uchida yurmoq"
+                ],
+                "Uyghur": [
+                    "ئاستا مېڭىش"
+                ],
+                "Kazakh": [
+                    "аяқтың ұшымен жүру",
+                    "аяқ ұшымен"
+                ],
+                "Kyrgyz": [
+                    "аяктын учу менен басуу"
+                ],
+                "Karakalpak": [
+                    "ayaqtıń ұshımen júru"
+                ],
+                "Tatar": [
+                    "аяк очларында",
+                    "аяк очында",
+                    "аяк очлап",
+                    "аяк очлары белән"
+                ],
+                "Bashkir": [
+                    "аяҡ осонда йөрөү",
+                    "аяҡ башында йөрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "parmak ucu"
+                ],
+                "Azerbaijani": [
+                    "barmaq ucu"
+                ],
+                "Turkmen": [
+                    "barmak uçlarynda ýöremek"
+                ],
+                "Bashkir": [
+                    "бармаҡ осонда йөрөү",
+                    "бармаҡ башында йөрөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sessizce"
+                ],
+                "Turkmen": [
+                    "sessiz ýöremek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pillep-pillep basmak"
+                ],
+                "Uzbek": [
+                    "bildirmay yurmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сыбырлап басу"
+                ],
+                "Karakalpak": [
+                    "sıbırlap basu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұрланып басу"
+                ],
+                "Kyrgyz": [
+                    "уурданып басуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "акырын басуу"
+                ],
+                "Karakalpak": [
+                    "aqırın basu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gizlice"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pəncə ucu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poypalamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sharpasiz yurmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت ئۇچىدا مېڭىش",
+                    "پۇت ئۇچىدا دەسسەش"
+                ]
+            }
+        }
+    ]
+}
+```
+

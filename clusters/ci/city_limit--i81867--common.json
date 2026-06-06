@@ -1,0 +1,94 @@
+{
+    "id": "i81867",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "city limit",
+    "en_definition": "the limits of the area occupied by a city or town",
+    "tr_word": "şehir sınırı",
+    "tr_definition": "Bir şehrin veya kasabanın kapladığı alanın sınırları.",
+    "ru_word": "граница города",
+    "ru_definition": "Пределы территории, занимаемой городом или поселком.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehir sınırı"
+                ],
+                "Azerbaijani": [
+                    "şəhər hüdudu",
+                    "şəhər kənarı",
+                    "şəhər sərhədi"
+                ],
+                "Turkmen": [
+                    "şäher çägi",
+                    "şäher serhedi",
+                    "şäher araçägi"
+                ],
+                "Uzbek": [
+                    "shahar chegarasi",
+                    "shahar hudu",
+                    "shahar chekkasi"
+                ],
+                "Uyghur": [
+                    "شەھەر چېگرىسى",
+                    "شەھەر ھەددى"
+                ],
+                "Tatar": [
+                    "шәһәр чиге",
+                    "шәһәр кырые",
+                    "шәһәр чикләре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қала шегі",
+                    "қала шекарасы",
+                    "қала аумағы"
+                ],
+                "Karakalpak": [
+                    "qala shegarası",
+                    "qala shetі"
+                ],
+                "Bashkir": [
+                    "ҡала сиге",
+                    "ҡала сиктәре",
+                    "ҡала сите"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kent sınırı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "belediye sınırı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mücavir alan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаар чеги",
+                    "шаар чети",
+                    "шаар аймагы"
+                ]
+            }
+        }
+    ]
+}

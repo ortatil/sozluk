@@ -1,0 +1,191 @@
+# Snow-white
+| Field | Detail |
+|---|---|
+| **ID** | i2215 |
+| **English** | snow-white |
+| **Type** | adjective |
+| **Definition** | of the white color of snow |
+| **Source** | common |
+| **Ortatil** | appaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **appaq** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاپئاق | apaq |
+| **Kazakh** | |
+| аппақ | appaq |
+| ақша | aqşa |
+| **Kyrgyz** | |
+| аппак | appak |
+| **Tatar** | |
+| ап-ак | ap-ak |
+| **Bashkir** | |
+| ап-аҡ | ap-aq |
+
+```json
+{
+    "id": "i2215",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "snow-white",
+    "en_definition": "of the white color of snow",
+    "tr_word": "kar beyazı",
+    "tr_definition": "karın beyaz renginde olan, bembeyaz",
+    "ru_word": "белоснежный",
+    "ru_definition": "белый как снег, ослепительно белый",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar gibi",
+                    "kar beyazı"
+                ],
+                "Azerbaijani": [
+                    "qar kimi"
+                ],
+                "Turkmen": [
+                    "gar ýaly ak"
+                ],
+                "Uzbek": [
+                    "qordek oq",
+                    "qorday oq"
+                ],
+                "Uyghur": [
+                    "قارداك ئاق"
+                ],
+                "Kazakh": [
+                    "қардай ақ"
+                ],
+                "Kyrgyz": [
+                    "кардай аппак"
+                ],
+                "Karakalpak": [
+                    "qarday appaq"
+                ],
+                "Tatar": [
+                    "кардай ак",
+                    "кар кебек ак"
+                ],
+                "Bashkir": [
+                    "ҡарҙай аҡ",
+                    "ҡар кеүек аҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak"
+                ],
+                "Azerbaijani": [
+                    "appaq"
+                ],
+                "Turkmen": [
+                    "ap-ak"
+                ],
+                "Uzbek": [
+                    "oppoq"
+                ],
+                "Uyghur": [
+                    "ئاپئاق"
+                ],
+                "Kazakh": [
+                    "аппақ",
+                    "ақша"
+                ],
+                "Kyrgyz": [
+                    "аппак"
+                ],
+                "Karakalpak": [
+                    "appaq"
+                ],
+                "Tatar": [
+                    "ап-ак"
+                ],
+                "Bashkir": [
+                    "ап-аҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سۈتتەك ئاق"
+                ],
+                "Kazakh": [
+                    "сүттей ақ"
+                ],
+                "Kyrgyz": [
+                    "сүттөй ак"
+                ],
+                "Karakalpak": [
+                    "súttey aq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bembeyaz"
+                ],
+                "Azerbaijani": [
+                    "bəmbəyaz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərtəmiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "päkize ak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "beg'ubor oq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "таптаза ак"
+                ]
+            }
+        }
+    ]
+}
+```
+

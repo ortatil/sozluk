@@ -1,0 +1,71 @@
+{
+    "id": "i39219",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paper route",
+    "en_definition": "the job of delivering newspapers regularly",
+    "tr_word": "gazete dağıtım işi",
+    "tr_definition": "gazetelerin düzenli olarak belirli bir güzergahtaki evlere veya iş yerlerine teslim edilmesi işi",
+    "ru_word": "маршрут доставки газет",
+    "ru_definition": "работа по регулярной доставке газет по определенному маршруту",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gazete dağıtımı",
+                    "gazete dağıtıcılığı",
+                    "gazete servisi"
+                ],
+                "Azerbaijani": [
+                    "qəzet paylama",
+                    "qəzet çatdırma",
+                    "qəzet paylama işi"
+                ],
+                "Turkmen": [
+                    "gazet paýlamak",
+                    "gazet ýetirmek",
+                    "gazet paýlaýyş"
+                ],
+                "Uzbek": [
+                    "gazeta tarqatish",
+                    "gazeta yetkazish",
+                    "gazeta tashish"
+                ],
+                "Uyghur": [
+                    "گېزىت تارقىتىش خىزمىتى",
+                    "گېزىت يەتكۈزۈش خىزمىتى",
+                    "گېزىت تارقىتىش"
+                ],
+                "Kazakh": [
+                    "газет тарату",
+                    "газет жеткізу"
+                ],
+                "Kyrgyz": [
+                    "гезит ташуу",
+                    "гезит жеткирүү",
+                    "гезит таратуу"
+                ],
+                "Karakalpak": [
+                    "gazeta tarkatıo",
+                    "gazeta jetkerio"
+                ],
+                "Tatar": [
+                    "гәҗит тарату"
+                ],
+                "Bashkir": [
+                    "гәзит таратыу",
+                    "гәзит ташыу",
+                    "гәзит еткереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "матбугат тарату"
+                ]
+            }
+        }
+    ]
+}

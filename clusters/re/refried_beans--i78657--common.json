@@ -1,0 +1,127 @@
+{
+    "id": "i78657",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "refried beans",
+    "en_definition": "dried beans cooked and mashed and then fried in lard with various seasonings",
+    "tr_word": "yeniden kızartılmış fasulye",
+    "tr_definition": "Haşlanıp ezildikten sonra içyağı ve çeşitli baharatlarla tekrar kızartılan kuru fasulye yemeği.",
+    "ru_word": "пережаренные бобы",
+    "ru_definition": "Блюдо из отварных и размятых бобов, которые затем обжариваются в жире с добавлением специй.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gowurlan noýba"
+                ],
+                "Uzbek": [
+                    "qovurilgan loviya"
+                ],
+                "Kazakh": [
+                    "қуырылған бұршақ"
+                ],
+                "Kyrgyz": [
+                    "куурулган буурчак",
+                    "куурулган маш"
+                ],
+                "Karakalpak": [
+                    "quuırılǵan lobıya",
+                    "quuırılǵan mash"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ezilen noýba"
+                ],
+                "Uzbek": [
+                    "ezilgan loviya"
+                ],
+                "Kyrgyz": [
+                    "эзилген буурчак"
+                ],
+                "Karakalpak": [
+                    "ezilgen quuırılǵan lobıya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qovrulmuş lobya əzməsi",
+                    "əzilmiş qovurma lobya"
+                ],
+                "Uyghur": [
+                    "قورۇلغان پۇرچاق ئېزىمىسى",
+                    "قورۇلغان پۇرچاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қуырылған бұршақ езбесі"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырылған иҙелгән борсаҡ",
+                    "ҡыҙҙырылған фасоль иҙмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fasulye ezmesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kavrulmuş fasulye ezmesi",
+                    "ezilmiş fasulye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lobya pürəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "püre edilen noýba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "loviya pyuresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұршақ ботқасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыздырылган изелгән чөген",
+                    "кыздырылган изелгән фасоль",
+                    "кыздырылган изелгән бочак"
+                ]
+            }
+        }
+    ]
+}

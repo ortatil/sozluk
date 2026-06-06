@@ -1,0 +1,227 @@
+# Decal
+| Field | Detail |
+|---|---|
+| **ID** | i52741 |
+| **English** | decal |
+| **Type** | noun |
+| **Definition** | either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface |
+| **Source** | common |
+| **Ortatil** | japıştırmamasan, naqış |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **japıştırmamasan** | **naqış** | **surät** | **belgä** |
+|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ | ❌ |
+| Turkmen | ❌ | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ | ✅ |
+| Kazakh | ✅ | ❌ | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ❌ | ✅ | ❌ |
+| Bashkir | ✅ | ❌ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.67 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 0.20 | 0.60 | 0.60 |
+| *In All* | ✅ | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |
+| **O'TQ** | **3.67** | **2.87** | **1.10** | **1.10** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چاپلىما | çaplima |
+| نەقىش | näqiş |
+| بەلگە | bälgä |
+| **Kazakh** | |
+| жапсырма | japsırma |
+| белгі | belgi |
+| таңба | tañba |
+| **Kyrgyz** | |
+| жабыштырма | jabıştırma |
+| сүрөт | süröt |
+| белги | belgi |
+| **Tatar** | |
+| ябыштырма | yabıştırma |
+| сурәт | surät |
+| бизәк | bizäk |
+| үрнәк | ürnäk |
+| **Bashkir** | |
+| йәбештермә | yäbeştermä |
+| һүрәт | hürät |
+| биҙәк | bizäk |
+
+```json
+{
+    "id": "i52741",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "decal",
+    "en_definition": "either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface",
+    "tr_word": "çıkartma",
+    "tr_definition": "bir yüzeye yapıştırılmak üzere hazırlanmış, üzerinde desen veya resim bulunan kâğıt",
+    "ru_word": "декаль",
+    "ru_definition": "переводная картинка, предназначенная для переноса изображения на какую-либо поверхность",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yapıştırma"
+                ],
+                "Azerbaijani": [
+                    "yapışqan"
+                ],
+                "Uzbek": [
+                    "yopishtirma"
+                ],
+                "Uyghur": [
+                    "چاپلىما"
+                ],
+                "Kazakh": [
+                    "жапсырма"
+                ],
+                "Kyrgyz": [
+                    "жабыштырма"
+                ],
+                "Karakalpak": [
+                    "japsırma"
+                ],
+                "Tatar": [
+                    "ябыштырма"
+                ],
+                "Bashkir": [
+                    "йәбештермә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "naxış"
+                ],
+                "Turkmen": [
+                    "nakyş"
+                ],
+                "Uzbek": [
+                    "naqsh"
+                ],
+                "Uyghur": [
+                    "نەقىش"
+                ],
+                "Karakalpak": [
+                    "naǵıs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "surat"
+                ],
+                "Kyrgyz": [
+                    "сүрөт"
+                ],
+                "Tatar": [
+                    "сурәт"
+                ],
+                "Bashkir": [
+                    "һүрәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بەلگە"
+                ],
+                "Kazakh": [
+                    "белгі"
+                ],
+                "Kyrgyz": [
+                    "белги"
+                ],
+                "Karakalpak": [
+                    "belgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "etiket"
+                ],
+                "Azerbaijani": [
+                    "etiket"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бизәк"
+                ],
+                "Bashkir": [
+                    "биҙәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıkartma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "möhür"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýelme",
+                    "ýelmenýän surat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nyşan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tamgʻa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үрнәк"
+                ]
+            }
+        }
+    ]
+}
+```
+

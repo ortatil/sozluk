@@ -1,0 +1,83 @@
+{
+    "id": "i85467",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "great salt lake",
+    "en_definition": "a shallow body of salt water in northwestern Utah",
+    "tr_word": "Büyük Tuz Gölü",
+    "tr_definition": "Utah'ın kuzeybatısında bulunan sığ bir tuzlu su kütlesi",
+    "ru_word": "Большое Солёное озеро",
+    "ru_definition": "мелководный соленый водоем на северо-западе штата Юта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Uly duzly köl"
+                ],
+                "Uzbek": [
+                    "Ulkan tuzli ko'l"
+                ],
+                "Kazakh": [
+                    "Үлкен Тұзды көл",
+                    "Үлкен Шор көл"
+                ],
+                "Kyrgyz": [
+                    "Улуу Туздуу көл"
+                ],
+                "Karakalpak": [
+                    "Úlken tuzlı kól",
+                    "Úlken shor kól"
+                ],
+                "Tatar": [
+                    "Олы Тозлы күл"
+                ],
+                "Bashkir": [
+                    "Оло Тоҙло күл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Büyük Tuz Gölü"
+                ],
+                "Azerbaijani": [
+                    "Böyük Şor gölü",
+                    "Böyük Duz gölü"
+                ],
+                "Turkmen": [
+                    "Beýik duzly köl"
+                ],
+                "Uyghur": [
+                    "بۈيۈك تۇزلۇق كۆل"
+                ],
+                "Bashkir": [
+                    "Бөйөк Тоҙло күл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ تۇزلۇق كۆل"
+                ],
+                "Kyrgyz": [
+                    "Чоң Туздуу көл"
+                ],
+                "Tatar": [
+                    "Зур Тозлы күл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "Katta sho'r ko'l"
+                ]
+            }
+        }
+    ]
+}

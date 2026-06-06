@@ -1,0 +1,127 @@
+{
+    "id": "i70158",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "manuscript",
+    "en_definition": "handwritten book or document",
+    "tr_word": "elyazması",
+    "tr_definition": "Elle yazılmış kitap veya belge",
+    "ru_word": "рукопись",
+    "ru_definition": "Написанный от руки текст, книга или документ",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nüsha"
+                ],
+                "Azerbaijani": [
+                    "nüsxə"
+                ],
+                "Turkmen": [
+                    "nusga"
+                ],
+                "Uzbek": [
+                    "nusxa"
+                ],
+                "Uyghur": [
+                    "نۇسخا"
+                ],
+                "Kazakh": [
+                    "нұсқа"
+                ],
+                "Kyrgyz": [
+                    "нуска"
+                ],
+                "Karakalpak": [
+                    "nұsqa"
+                ],
+                "Tatar": [
+                    "нөсхә"
+                ],
+                "Bashkir": [
+                    "нөсхә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "el yazması"
+                ],
+                "Turkmen": [
+                    "golýazma"
+                ],
+                "Uzbek": [
+                    "qo'lyozma"
+                ],
+                "Uyghur": [
+                    "قوليازما"
+                ],
+                "Kazakh": [
+                    "қолжазба",
+                    "қолжазба кітап"
+                ],
+                "Kyrgyz": [
+                    "кол жазма",
+                    "кол жазма китеп"
+                ],
+                "Karakalpak": [
+                    "qoljazba",
+                    "qoljazba nұsqa"
+                ],
+                "Tatar": [
+                    "кулъязма"
+                ],
+                "Bashkir": [
+                    "ҡулъяҙма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hatt-ı dest"
+                ],
+                "Turkmen": [
+                    "hat"
+                ],
+                "Uyghur": [
+                    "خەتلىك ئەسەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazma"
+                ],
+                "Azerbaijani": [
+                    "əlyazma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mətn"
+                ],
+                "Tatar": [
+                    "мәктүб"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastnavis"
+                ],
+                "Bashkir": [
+                    "дәфтәр"
+                ]
+            }
+        }
+    ]
+}

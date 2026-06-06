@@ -1,0 +1,103 @@
+{
+    "id": "i89875",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "faller",
+    "en_definition": "a person who falls",
+    "tr_word": "düşen",
+    "tr_definition": "düşen veya yere kapaklanan kimse",
+    "ru_word": "падающий",
+    "ru_definition": "человек, который падает или упал",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yıkılan"
+                ],
+                "Azerbaijani": [
+                    "yıxılan"
+                ],
+                "Turkmen": [
+                    "ýykylan",
+                    "ýykylýan"
+                ],
+                "Uzbek": [
+                    "yiqiluvchi",
+                    "yiqilgan"
+                ],
+                "Uyghur": [
+                    "يىقىلغۇچى"
+                ],
+                "Kazakh": [
+                    "жығылушы"
+                ],
+                "Kyrgyz": [
+                    "жыгылуучу",
+                    "жыгылган киши"
+                ],
+                "Karakalpak": [
+                    "jıǵılıushı"
+                ],
+                "Tatar": [
+                    "егылучы"
+                ],
+                "Bashkir": [
+                    "йығылыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düşen",
+                    "düşen kimse"
+                ],
+                "Azerbaijani": [
+                    "düşən"
+                ],
+                "Turkmen": [
+                    "düşýän"
+                ],
+                "Uzbek": [
+                    "tushuvchi"
+                ],
+                "Tatar": [
+                    "төшүче"
+                ],
+                "Bashkir": [
+                    "төшөүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "құлаушы"
+                ],
+                "Kyrgyz": [
+                    "кулоочу"
+                ],
+                "Karakalpak": [
+                    "quldaushı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چۈشكۈچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "súrіnushі"
+                ]
+            }
+        }
+    ]
+}

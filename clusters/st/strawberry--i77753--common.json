@@ -1,0 +1,101 @@
+{
+    "id": "i77753",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "strawberry",
+    "en_definition": "sweet fleshy red fruit",
+    "tr_word": "çilek",
+    "tr_definition": "tatlı, etli ve kırmızı bir meyve",
+    "ru_word": "клубника",
+    "ru_definition": "сладкий мясистый красный плод",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýertudana"
+                ],
+                "Uzbek": [
+                    "yerreza"
+                ],
+                "Uyghur": [
+                    "يەر بۆلجۈرگىنى"
+                ],
+                "Kyrgyz": [
+                    "жер жемиш"
+                ],
+                "Tatar": [
+                    "җир җиләге"
+                ],
+                "Bashkir": [
+                    "ер еләге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "klubnika"
+                ],
+                "Uzbek": [
+                    "qulupnay"
+                ],
+                "Kazakh": [
+                    "құлпынай"
+                ],
+                "Kyrgyz": [
+                    "кулпунай"
+                ],
+                "Karakalpak": [
+                    "qұlpınay"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بۆلجۈرگەن"
+                ],
+                "Kazakh": [
+                    "бүлдірген"
+                ],
+                "Karakalpak": [
+                    "búldіrgen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çilek"
+                ],
+                "Azerbaijani": [
+                    "çiyələk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çöl çiyələyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бакча җиләге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡайын еләге"
+                ]
+            }
+        }
+    ]
+}

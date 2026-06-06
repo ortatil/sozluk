@@ -1,0 +1,130 @@
+# Day of the week
+| Field | Detail |
+|---|---|
+| **ID** | i116896 |
+| **English** | day of the week |
+| **Type** | noun |
+| **Definition** | any one of the seven days in a week |
+| **Source** | common |
+| **Ortatil** | ḳün |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḳün** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كۈن | kün |
+| **Kazakh** | |
+| күн | kün |
+| **Tatar** | |
+| көн | kön |
+
+```json
+{
+    "id": "i116896",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "day of the week",
+    "en_definition": "any one of the seven days in a week",
+    "tr_word": "haftanın günü",
+    "tr_definition": "bir haftayı oluşturan yedi günden her biri",
+    "ru_word": "день недели",
+    "ru_definition": "любой из семи дней, составляющих неделю",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haftanın günü"
+                ],
+                "Azerbaijani": [
+                    "həftə günü"
+                ],
+                "Turkmen": [
+                    "hepde güni"
+                ],
+                "Uzbek": [
+                    "hafta kuni"
+                ],
+                "Uyghur": [
+                    "ھەپتە كۈنى"
+                ],
+                "Karakalpak": [
+                    "hápte kúni"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gün"
+                ],
+                "Azerbaijani": [
+                    "gün"
+                ],
+                "Turkmen": [
+                    "gün"
+                ],
+                "Uyghur": [
+                    "كۈن"
+                ],
+                "Kazakh": [
+                    "күн"
+                ],
+                "Tatar": [
+                    "көн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "апта күні"
+                ],
+                "Kyrgyz": [
+                    "апта күнү"
+                ],
+                "Karakalpak": [
+                    "apta kúni"
+                ],
+                "Tatar": [
+                    "атна көне"
+                ],
+                "Bashkir": [
+                    "аҙна көнө",
+                    "атна көнө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жума күнү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,90 @@
+{
+    "id": "i114246",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "animal product",
+    "en_definition": "a product made from animal material",
+    "tr_word": "hayvansal ürün",
+    "tr_definition": "hayvan materyalinden yapılmış bir ürün",
+    "ru_word": "продукт животного происхождения",
+    "ru_definition": "продукт, изготовленный из материалов животного происхождения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayvansal ürün",
+                    "hayvan ürünü",
+                    "hayvani mahsul"
+                ],
+                "Azerbaijani": [
+                    "heyvandarlıq məhsulu",
+                    "heyvan mənşəli məhsul"
+                ],
+                "Turkmen": [
+                    "haýwan önümi"
+                ],
+                "Uzbek": [
+                    "hayvonot mahsuloti"
+                ],
+                "Uyghur": [
+                    "ھايۋانات مەھسۇلاتلىرى"
+                ],
+                "Kyrgyz": [
+                    "айбанат азыгы"
+                ],
+                "Karakalpak": [
+                    "xayoanat ónimi"
+                ],
+                "Tatar": [
+                    "хайван продукциясе",
+                    "хайваннардан алынган продукт",
+                    "хайваннардан алынган товар"
+                ],
+                "Bashkir": [
+                    "хайуан продукцияһы",
+                    "хайуандан алынған продукт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "maldarçylyk önümi"
+                ],
+                "Kazakh": [
+                    "мал өнімі"
+                ],
+                "Kyrgyz": [
+                    "мал чарба продукциясы",
+                    "мал азыгы"
+                ],
+                "Karakalpak": [
+                    "mal ónimi"
+                ],
+                "Bashkir": [
+                    "мал продукцияһы",
+                    "малдан алынған продукт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chorvachilik mahsuloti"
+                ],
+                "Uyghur": [
+                    "چارۋا مەھسۇلاتلىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жануар өнімі"
+                ]
+            }
+        }
+    ]
+}

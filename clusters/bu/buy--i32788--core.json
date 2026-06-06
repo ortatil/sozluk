@@ -1,0 +1,115 @@
+{
+    "id": "i32788",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "buy",
+    "en_definition": "obtain by purchase; acquire by means of a financial transaction",
+    "tr_word": "satın almak",
+    "tr_definition": "Bir şeyin mülkiyetini para karşılığında devralmak.",
+    "ru_word": "покупать",
+    "ru_definition": "Приобретать что-либо за деньги или в обмен на что-либо.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satın almak"
+                ],
+                "Azerbaijani": [
+                    "satın almaq"
+                ],
+                "Turkmen": [
+                    "satyn almak"
+                ],
+                "Uzbek": [
+                    "sotib olmoq"
+                ],
+                "Uyghur": [
+                    "سېتىۋالماق"
+                ],
+                "Kazakh": [
+                    "сатып алу"
+                ],
+                "Kyrgyz": [
+                    "сатып алуу"
+                ],
+                "Karakalpak": [
+                    "satıp alıo"
+                ],
+                "Tatar": [
+                    "сатып алу"
+                ],
+                "Bashkir": [
+                    "һатып алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "almak"
+                ],
+                "Azerbaijani": [
+                    "almaq"
+                ],
+                "Turkmen": [
+                    "almak"
+                ],
+                "Uyghur": [
+                    "ئالماق"
+                ],
+                "Kazakh": [
+                    "алу"
+                ],
+                "Kyrgyz": [
+                    "алуу"
+                ],
+                "Karakalpak": [
+                    "alıo"
+                ],
+                "Tatar": [
+                    "алу"
+                ],
+                "Bashkir": [
+                    "алыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mubayaa etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tədarük etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xarid qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەجلىمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "иемдену"
+                ]
+            }
+        }
+    ]
+}

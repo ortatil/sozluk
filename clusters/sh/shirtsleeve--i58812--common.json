@@ -1,0 +1,84 @@
+{
+    "id": "i58812",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shirtsleeve",
+    "en_definition": "the sleeve of a shirt",
+    "tr_word": "gömlek kolu",
+    "tr_definition": "Bir gömleğin kol kısmı",
+    "ru_word": "рукав рубашки",
+    "ru_definition": "часть рубашки, покрывающая руку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gömlek kolu"
+                ],
+                "Azerbaijani": [
+                    "köynək qolu"
+                ],
+                "Turkmen": [
+                    "köýnek ýeňi"
+                ],
+                "Uzbek": [
+                    "ko'ylak yengi"
+                ],
+                "Uyghur": [
+                    "كۆڭلەك يەڭگى"
+                ],
+                "Kazakh": [
+                    "көйлек жеңі"
+                ],
+                "Kyrgyz": [
+                    "көйнөктүн жеңи"
+                ],
+                "Karakalpak": [
+                    "kóylek jeńi"
+                ],
+                "Tatar": [
+                    "күлмәк җиңе"
+                ],
+                "Bashkir": [
+                    "күлдәк еңе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýeň"
+                ],
+                "Uzbek": [
+                    "yeng"
+                ],
+                "Uyghur": [
+                    "يەڭ"
+                ],
+                "Kazakh": [
+                    "жең"
+                ],
+                "Kyrgyz": [
+                    "жең"
+                ],
+                "Karakalpak": [
+                    "jeń"
+                ],
+                "Tatar": [
+                    "җиң"
+                ],
+                "Bashkir": [
+                    "ең"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qol"
+                ]
+            }
+        }
+    ]
+}

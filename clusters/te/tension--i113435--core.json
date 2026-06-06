@@ -1,0 +1,140 @@
+{
+    "id": "i113435",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "tension",
+    "en_definition": "the physical condition of being stretched or strained",
+    "tr_word": "gerilim",
+    "tr_definition": "bir nesnenin gerilmesi veya gergin olması durumu",
+    "ru_word": "натяжение",
+    "ru_definition": "состояние по значению глагола натягивать, натянутость",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dartılma"
+                ],
+                "Turkmen": [
+                    "dartgynlyk",
+                    "dartyş",
+                    "dartylma"
+                ],
+                "Uzbek": [
+                    "tortilish"
+                ],
+                "Uyghur": [
+                    "تارتىلىش"
+                ],
+                "Kazakh": [
+                    "тартылу"
+                ],
+                "Kyrgyz": [
+                    "тартылуу"
+                ],
+                "Karakalpak": [
+                    "tartılıs"
+                ],
+                "Tatar": [
+                    "тартылу"
+                ],
+                "Bashkir": [
+                    "тартылыш",
+                    "тартылыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gerilim",
+                    "gerginlik"
+                ],
+                "Azerbaijani": [
+                    "gərginlik",
+                    "gərilmə"
+                ],
+                "Turkmen": [
+                    "gerim"
+                ],
+                "Kazakh": [
+                    "керілу",
+                    "кернеу"
+                ],
+                "Kyrgyz": [
+                    "керүү"
+                ],
+                "Karakalpak": [
+                    "kerneu",
+                    "kerіlіs"
+                ],
+                "Tatar": [
+                    "киеренкелек",
+                    "киерелү"
+                ],
+                "Bashkir": [
+                    "киеренкелек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tazyik"
+                ],
+                "Azerbaijani": [
+                    "təzyiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taranglik"
+                ],
+                "Uyghur": [
+                    "تارەڭلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şiddet"
+                ],
+                "Uyghur": [
+                    "جىددىيلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kuchlanish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көсөргәнеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "созылу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чыңалуу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "i55868",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lumbermill",
+    "en_definition": "a mill for dressing logs and lumber",
+    "tr_word": "kereste fabrikası",
+    "tr_definition": "tomrukların ve kerestelerin işlendiği fabrika",
+    "ru_word": "лесопилка",
+    "ru_definition": "предприятие по распиловке бревен на пиломатериалы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "biçki yurdu"
+                ],
+                "Azerbaijani": [
+                    "bıçqıxana"
+                ],
+                "Tatar": [
+                    "пычкы заводы"
+                ],
+                "Bashkir": [
+                    "бысҡыхана",
+                    "бысҡы заводы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "taxtaxana"
+                ],
+                "Uzbek": [
+                    "taxtaxona"
+                ],
+                "Kyrgyz": [
+                    "тактайкана"
+                ],
+                "Tatar": [
+                    "такта яру заводы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ағаш тілу орны",
+                    "ағаш өңдеу орны"
+                ],
+                "Karakalpak": [
+                    "aǵash tilio ornı",
+                    "aǵashxana"
+                ],
+                "Tatar": [
+                    "агач яру урыны"
+                ],
+                "Bashkir": [
+                    "ағас бысыу заводы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "agaç işläp bejerýän kärhana"
+                ],
+                "Uyghur": [
+                    "ياغاچ تىلىش زاۋۇتى",
+                    "ياغاچ زاۋۇتى"
+                ],
+                "Kyrgyz": [
+                    "жыгачкана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hızarhane"
+                ],
+                "Azerbaijani": [
+                    "mişarxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pilişhana",
+                    "piliş zawody"
+                ],
+                "Karakalpak": [
+                    "tilgish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yogʻochxona"
+                ],
+                "Uyghur": [
+                    "ياغاچچىلىق زاۋۇتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тілмехана"
+                ],
+                "Kyrgyz": [
+                    "тилмекана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "keresteci",
+                    "kereste fabrikası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "arraxona"
+                ]
+            }
+        }
+    ]
+}

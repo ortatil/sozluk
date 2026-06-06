@@ -1,0 +1,98 @@
+{
+    "id": "i78957",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lemonade",
+    "en_definition": "sweetened beverage of diluted lemon juice",
+    "tr_word": "limonata",
+    "tr_definition": "Limon suyu, şeker ve su ile yapılan serinletici içecek.",
+    "ru_word": "лимонад",
+    "ru_definition": "Сладкий безалкогольный напиток, приготовленный из лимонного сока и воды.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "limonata",
+                    "limon şerbeti"
+                ],
+                "Azerbaijani": [
+                    "limonad",
+                    "limon şərbəti"
+                ],
+                "Turkmen": [
+                    "limon şerbeti",
+                    "limon suwy"
+                ],
+                "Uzbek": [
+                    "limonli sharbat",
+                    "limonli ichimlik",
+                    "limonob"
+                ],
+                "Uyghur": [
+                    "لىمون سۈيى",
+                    "لىمون شەربىتى"
+                ],
+                "Kazakh": [
+                    "лимонад"
+                ],
+                "Kyrgyz": [
+                    "лимонад"
+                ],
+                "Karakalpak": [
+                    "limonad"
+                ],
+                "Tatar": [
+                    "лимонад"
+                ],
+                "Bashkir": [
+                    "лимонад"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шәрбат"
+                ],
+                "Kyrgyz": [
+                    "шербет"
+                ],
+                "Karakalpak": [
+                    "shárbát"
+                ],
+                "Tatar": [
+                    "шәрбәт"
+                ],
+                "Bashkir": [
+                    "шәрбәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "таттуу суусундук"
+                ],
+                "Tatar": [
+                    "татлы су"
+                ],
+                "Bashkir": [
+                    "татлы һыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сусын"
+                ],
+                "Karakalpak": [
+                    "susın"
+                ]
+            }
+        }
+    ]
+}

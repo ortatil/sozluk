@@ -1,0 +1,119 @@
+{
+    "id": "i51505",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "car bomb",
+    "en_definition": "a bomb placed in a car and wired to explode when the ignition is started or by remote control or by a timing device",
+    "tr_word": "bombalı araç",
+    "tr_definition": "Bir aracın içine yerleştirilen ve motor çalıştırıldığında, uzaktan kumandayla veya bir zamanlayıcıyla patlayacak şekilde ayarlanan bomba.",
+    "ru_word": "заминированный автомобиль",
+    "ru_definition": "Бомба, заложенная в автомобиль и настроенная на взрыв при зажигании, с помощью дистанционного управления или таймера.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "maşyn bombasy"
+                ],
+                "Uyghur": [
+                    "ماشىنا بومبىسى",
+                    "ماشىنىغا ئورۇنلاشتۇرۇلغان بومبا"
+                ],
+                "Kyrgyz": [
+                    "машина бомбасы"
+                ],
+                "Karakalpak": [
+                    "mashina bombası"
+                ],
+                "Tatar": [
+                    "машина бомбасы"
+                ],
+                "Bashkir": [
+                    "машинаға ҡуйылған бомба"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "minalanmış maşın",
+                    "minalanmış avtomobil"
+                ],
+                "Uzbek": [
+                    "minalashtirilgan avtomobil",
+                    "minalangan ulov"
+                ],
+                "Kazakh": [
+                    "миналанған көлік"
+                ],
+                "Tatar": [
+                    "миналанган машина"
+                ],
+                "Bashkir": [
+                    "миналанған машина"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "awtoulag bombasy"
+                ],
+                "Karakalpak": [
+                    "awtomobil jarılǵıshı"
+                ],
+                "Tatar": [
+                    "автомобиль бомбасы"
+                ],
+                "Bashkir": [
+                    "автомобиль бомбаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bombalı araç",
+                    "bombalı otomobil"
+                ],
+                "Azerbaijani": [
+                    "bombalı maşın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araç bombası"
+                ],
+                "Kyrgyz": [
+                    "унаа бомбасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "portlovchi o'rnatilgan mashina"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік бомбасы",
+                    "көлікке қойылған жарылғыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаага орнотулган жардыргыч"
+                ]
+            }
+        }
+    ]
+}

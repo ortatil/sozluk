@@ -1,0 +1,162 @@
+{
+    "id": "i51329",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "taxi",
+    "en_definition": "a car driven by a person whose job is to take passengers where they want to go in exchange for money",
+    "tr_word": "taksi",
+    "tr_definition": "belirli bir ücret karşılığında yolcu taşıyan, genellikle sarı renkli ticari binek otomobil",
+    "ru_word": "такси",
+    "ru_definition": "автомобиль для перевозки пассажиров и багажа с оплатой по тарифу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taksi"
+                ],
+                "Azerbaijani": [
+                    "taksi"
+                ],
+                "Turkmen": [
+                    "taksi"
+                ],
+                "Uyghur": [
+                    "تاكسى"
+                ],
+                "Karakalpak": [
+                    "taksi"
+                ],
+                "Tatar": [
+                    "такси"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kireýkeş"
+                ],
+                "Uzbek": [
+                    "kirakash"
+                ],
+                "Kyrgyz": [
+                    "киречи"
+                ],
+                "Karakalpak": [
+                    "kireshi",
+                    "kirekesh"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kirayə"
+                ],
+                "Kazakh": [
+                    "кіре"
+                ],
+                "Kyrgyz": [
+                    "кире"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كىرە ئاپتوموبىل"
+                ],
+                "Tatar": [
+                    "кира автомобиле"
+                ],
+                "Bashkir": [
+                    "кира автомобиле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كىرە ماشىنا"
+                ],
+                "Tatar": [
+                    "кира машинасы"
+                ],
+                "Bashkir": [
+                    "кира машина"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арба"
+                ],
+                "Kyrgyz": [
+                    "араба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ulov"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ticari araç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fayton"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "markab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kiralık araba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kiraýa ulagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "кира йөрөтөүсе"
+                ]
+            }
+        }
+    ]
+}

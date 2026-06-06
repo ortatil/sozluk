@@ -1,0 +1,93 @@
+{
+    "id": "i8758",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "north-central",
+    "en_definition": "situated in the northern part of a centrally located area in some geographical region",
+    "tr_word": "kuzey-orta",
+    "tr_definition": "Bir coğrafi bölgenin merkezi kısmının kuzeyinde yer alan",
+    "ru_word": "северо-центральный",
+    "ru_definition": "расположенный в северной части центрального района какой-либо географической области",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "түндүк-борбордук",
+                    "түндүк-ортолук"
+                ],
+                "Karakalpak": [
+                    "túndіk-ortalıq"
+                ],
+                "Tatar": [
+                    "төньяк-үзәк",
+                    "төньяк үзәктәге"
+                ],
+                "Bashkir": [
+                    "төньяҡ-үҙәк",
+                    "төньяҡ-урта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şimal-mərkəzi",
+                    "şimali-mərkəzi"
+                ],
+                "Uzbek": [
+                    "shimoliy-markaziy",
+                    "markaziy shimol"
+                ],
+                "Uyghur": [
+                    "شمالىي مەركىزىي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuzey orta",
+                    "orta kuzey"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demirgazyk-merkezi",
+                    "orta demirgazyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرا شىمال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстік-орталық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "орталық-солтүстік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "arqa-ortalıq"
+                ]
+            }
+        }
+    ]
+}

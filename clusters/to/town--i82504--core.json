@@ -1,0 +1,145 @@
+{
+    "id": "i82504",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "town",
+    "en_definition": "an urban area with a fixed boundary that is smaller than a city",
+    "tr_word": "kasaba",
+    "tr_definition": "şehirden küçük, köyden büyük, sınırları belirli olan yerleşim alanı",
+    "ru_word": "городок",
+    "ru_definition": "небольшой населённый пункт, по размеру меньше города",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kent"
+                ],
+                "Azerbaijani": [
+                    "kənd"
+                ],
+                "Turkmen": [
+                    "kent"
+                ],
+                "Uzbek": [
+                    "kent"
+                ],
+                "Kazakh": [
+                    "кент"
+                ],
+                "Kyrgyz": [
+                    "кент"
+                ],
+                "Karakalpak": [
+                    "kent"
+                ],
+                "Tatar": [
+                    "кент"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəhərcik"
+                ],
+                "Turkmen": [
+                    "şäherçe"
+                ],
+                "Uzbek": [
+                    "shahar",
+                    "shaharcha"
+                ],
+                "Uyghur": [
+                    "شەھەرچە"
+                ],
+                "Kyrgyz": [
+                    "шаарча"
+                ],
+                "Tatar": [
+                    "шәһәрчек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kasaba"
+                ],
+                "Azerbaijani": [
+                    "qəsəbə"
+                ],
+                "Uzbek": [
+                    "qasaba"
+                ],
+                "Uyghur": [
+                    "قەسەبە"
+                ],
+                "Bashkir": [
+                    "кәсәбә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қала",
+                    "қалашық"
+                ],
+                "Karakalpak": [
+                    "qala",
+                    "qalasha"
+                ],
+                "Bashkir": [
+                    "ҡала",
+                    "ҡаласыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "belde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ilçe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "oba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بازار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыштак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бистә"
+                ]
+            }
+        }
+    ]
+}

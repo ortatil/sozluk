@@ -1,0 +1,93 @@
+{
+    "id": "i57998",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rearview mirror",
+    "en_definition": "car mirror that reflects the view out of the rear window",
+    "tr_word": "dikiz aynası",
+    "tr_definition": "Aracın iç kısmında bulunan ve arka camdan yolu görmeyi sağlayan ayna",
+    "ru_word": "зеркало заднего вида",
+    "ru_definition": "зеркало в салоне автомобиля, позволяющее водителю видеть дорогу позади через заднее стекло",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arka görüş aynası"
+                ],
+                "Azerbaijani": [
+                    "arxa görüntü güzgüsü",
+                    "arxa güzgü"
+                ],
+                "Turkmen": [
+                    "arka aýnasy"
+                ],
+                "Uzbek": [
+                    "orqa koʻzgu",
+                    "orqa koʻrinish oynasi"
+                ],
+                "Uyghur": [
+                    "ئارقىنى كۆرۈش ئەينىكى"
+                ],
+                "Kazakh": [
+                    "артқы көрініс айнасы",
+                    "артқы айна"
+                ],
+                "Kyrgyz": [
+                    "арткы күзгү",
+                    "артты көрүүчү күзгү"
+                ],
+                "Karakalpak": [
+                    "artqı kórіnіs aynası",
+                    "arttı kóretіn ayna"
+                ],
+                "Tatar": [
+                    "арткы күренеш көзгесе",
+                    "арткы көзге"
+                ],
+                "Bashkir": [
+                    "артҡы күренеш көҙгөһө",
+                    "артҡы көҙгө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dikiz aynası"
+                ],
+                "Uyghur": [
+                    "ئارقا كۆرۈنۈش ئەينىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iç dikiz aynası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzy görkezýän aýna"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "serediş aýnasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ortni koʻrsatuvchi koʻzgu"
+                ]
+            }
+        }
+    ]
+}

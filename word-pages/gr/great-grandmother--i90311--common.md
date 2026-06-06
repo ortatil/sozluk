@@ -1,0 +1,177 @@
+# Great grandmother
+| Field | Detail |
+|---|---|
+| **ID** | i90311 |
+| **English** | great grandmother |
+| **Type** | noun |
+| **Definition** | a mother of your grandparent |
+| **Source** | common |
+| **Ortatil** | mämä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| баба | baba |
+| **Tatar** | |
+| баба | baba |
+
+```json
+{
+    "id": "i90311",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "great grandmother",
+    "en_definition": "a mother of your grandparent",
+    "tr_word": "büyük büyükanne",
+    "tr_definition": "büyükbabanın veya büyükannenin annesi",
+    "ru_word": "прабабушка",
+    "ru_definition": "мать дедушки или бабушки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ulu nine"
+                ],
+                "Azerbaijani": [
+                    "ulu nənə"
+                ],
+                "Turkmen": [
+                    "uly ene"
+                ],
+                "Uyghur": [
+                    "ئۇلۇغ موما"
+                ],
+                "Kazakh": [
+                    "үлкен әже"
+                ],
+                "Karakalpak": [
+                    "ulken áje"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "baba ene"
+                ],
+                "Kazakh": [
+                    "баба"
+                ],
+                "Kyrgyz": [
+                    "баба эне"
+                ],
+                "Karakalpak": [
+                    "baba áje"
+                ],
+                "Tatar": [
+                    "баба"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "garry ene"
+                ],
+                "Kazakh": [
+                    "арғы әже"
+                ],
+                "Karakalpak": [
+                    "qart áje"
+                ],
+                "Tatar": [
+                    "карт әби"
+                ],
+                "Bashkir": [
+                    "ҡарт өләсәй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyük büyükanne",
+                    "büyük nene"
+                ],
+                "Azerbaijani": [
+                    "böyük nənə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta momo",
+                    "katta ena"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "momo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ena"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ موما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чоң эне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түп эне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зур әби"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "олатайҙың әсәһе",
+                    "өләсәйҙең әсәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҙур өләсәй"
+                ]
+            }
+        }
+    ]
+}
+```
+

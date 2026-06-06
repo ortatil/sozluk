@@ -1,0 +1,220 @@
+# Congressman
+| Field | Detail |
+|---|---|
+| **ID** | i89170 |
+| **English** | congressman |
+| **Type** | unknown |
+| **Definition** | a member of the United States House of Representatives |
+| **Source** | common |
+| **Ortatil** | wäkil |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **wäkil** | **deputat** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 0.67 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 1 | 1 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **3.33** | **2.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ۋەكىل | väkil |
+| **Kazakh** | |
+| мәжілісмен | mäjilismen |
+| өкіл | ökil |
+| депутат | deputat |
+| **Kyrgyz** | |
+| өкүл | ökül |
+| депутат | deputat |
+| мүчө | müçö |
+| **Tatar** | |
+| вәкил | väkil |
+| депутат | deputat |
+| **Bashkir** | |
+| вәкил | väkil |
+| депутат | deputat |
+
+```json
+{
+    "id": "i89170",
+    "type": "unknown",
+    "batch": "common",
+    "en_word": "congressman",
+    "en_definition": "a member of the United States House of Representatives",
+    "tr_word": "kongre üyesi",
+    "tr_definition": "Amerika Birleşik Devletleri Temsilciler Meclisi'nin bir üyesi",
+    "ru_word": "конгрессмен",
+    "ru_definition": "член Палаты представителей США",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meclis üyesi"
+                ],
+                "Azerbaijani": [
+                    "məclis üzvü"
+                ],
+                "Turkmen": [
+                    "mejlis agzasy"
+                ],
+                "Uzbek": [
+                    "majlis a'zosi"
+                ],
+                "Uyghur": [
+                    "مەجلىس ئەزاسى"
+                ],
+                "Kazakh": [
+                    "мәжілісмен",
+                    "мәжіліс мүшесі"
+                ],
+                "Karakalpak": [
+                    "májilis aǵzası"
+                ],
+                "Tatar": [
+                    "мәҗлес әгъзасы"
+                ],
+                "Bashkir": [
+                    "мәжлес ағзаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "wekili"
+                ],
+                "Uzbek": [
+                    "vakil"
+                ],
+                "Uyghur": [
+                    "ۋەكىل"
+                ],
+                "Kazakh": [
+                    "өкіл"
+                ],
+                "Kyrgyz": [
+                    "өкүл"
+                ],
+                "Karakalpak": [
+                    "oákil"
+                ],
+                "Tatar": [
+                    "вәкил"
+                ],
+                "Bashkir": [
+                    "вәкил"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "deputat"
+                ],
+                "Turkmen": [
+                    "deputat"
+                ],
+                "Kazakh": [
+                    "депутат"
+                ],
+                "Kyrgyz": [
+                    "депутат"
+                ],
+                "Karakalpak": [
+                    "deputat"
+                ],
+                "Tatar": [
+                    "депутат"
+                ],
+                "Bashkir": [
+                    "депутат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "milletvekili"
+                ],
+                "Azerbaijani": [
+                    "millət vəkili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "saylav"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temsilci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nümayəndə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "noib"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پارلامېنت ئەزاسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەلق ۋەكىلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эл өкүлү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мүчө"
+                ]
+            }
+        }
+    ]
+}
+```
+

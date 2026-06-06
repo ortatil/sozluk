@@ -1,0 +1,135 @@
+# Breathe
+| Field | Detail |
+|---|---|
+| **ID** | i21778 |
+| **English** | breathe |
+| **Type** | verb |
+| **Definition** | draw air into, and expel out of, the lungs |
+| **Source** | core |
+| **Ortatil** | sulamaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| суларга | sularga |
+
+```json
+{
+    "id": "i21778",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "breathe",
+    "en_definition": "draw air into, and expel out of, the lungs",
+    "tr_word": "nefes almak",
+    "tr_definition": "havayı akciğerlere çekmek ve dışarı vermek",
+    "ru_word": "дышать",
+    "ru_definition": "вбирать и выпускать воздух из легких",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nefes almak"
+                ],
+                "Azerbaijani": [
+                    "nəfəs almaq",
+                    "nəfəs çəkmək"
+                ],
+                "Uzbek": [
+                    "nafas olmoq"
+                ],
+                "Uyghur": [
+                    "نەپەس ئالماق",
+                    "نەپەس چىقارماق"
+                ],
+                "Karakalpak": [
+                    "nápás alıo"
+                ],
+                "Tatar": [
+                    "нәфес алырга"
+                ],
+                "Bashkir": [
+                    "нәфес алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tin olmoq"
+                ],
+                "Uyghur": [
+                    "تىنىق ئالماق"
+                ],
+                "Kazakh": [
+                    "тыныс алу"
+                ],
+                "Karakalpak": [
+                    "tın alıo"
+                ],
+                "Tatar": [
+                    "тын алырга"
+                ],
+                "Bashkir": [
+                    "тын алыу",
+                    "тын сығарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dem almak",
+                    "dem çekmek"
+                ],
+                "Uzbek": [
+                    "dam olmoq"
+                ],
+                "Kazakh": [
+                    "дем алу"
+                ],
+                "Kyrgyz": [
+                    "дем алуу",
+                    "дем тартуу",
+                    "дем чыгаруу"
+                ],
+                "Karakalpak": [
+                    "dem alıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teneffüs etmek"
+                ],
+                "Azerbaijani": [
+                    "tənəffüs etmək"
+                ],
+                "Turkmen": [
+                    "tenepes almak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "solumak"
+                ],
+                "Tatar": [
+                    "суларга"
+                ]
+            }
+        }
+    ]
+}
+```
+

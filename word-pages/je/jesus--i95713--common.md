@@ -1,0 +1,134 @@
+# Jesus
+| Field | Detail |
+|---|---|
+| **ID** | i95713 |
+| **English** | jesus |
+| **Type** | noun |
+| **Definition** | a teacher and prophet born in Bethlehem and active in Nazareth; his life and sermons form the basis for Christianity (circa 4 BC - AD 29) |
+| **Source** | common |
+| **Ortatil** | isä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **isä** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئەيسا | äysa |
+| **Kazakh** | |
+| Иса | isa |
+| **Kyrgyz** | |
+| Иса | isa |
+| **Tatar** | |
+| Гайсә | gaysä |
+| **Bashkir** | |
+| Ғайса | ğaysa |
+
+```json
+{
+    "id": "i95713",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "jesus",
+    "en_definition": "a teacher and prophet born in Bethlehem and active in Nazareth; his life and sermons form the basis for Christianity (circa 4 BC - AD 29)",
+    "tr_word": "İsa",
+    "tr_definition": "Hristiyanlığın kurucusu ve temel figürü olan, Beytüllahim'de doğmuş öğretmen ve peygamber.",
+    "ru_word": "Иисус",
+    "ru_definition": "Центральная фигура в христианстве, проповедник и пророк, родившийся в Вифлееме.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İsa",
+                    "İsa Mesih"
+                ],
+                "Azerbaijani": [
+                    "İsa",
+                    "İsa Məsih"
+                ],
+                "Turkmen": [
+                    "Isa",
+                    "Isa pygamber"
+                ],
+                "Uzbek": [
+                    "Iso",
+                    "Iso Masih"
+                ],
+                "Uyghur": [
+                    "ئەيسا",
+                    "ئەيسا مەسىھ"
+                ],
+                "Kazakh": [
+                    "Иса",
+                    "Иса пайғамбар",
+                    "Иса Мәсіх"
+                ],
+                "Kyrgyz": [
+                    "Иса",
+                    "Иса пайгамбар",
+                    "Иса Машаяк"
+                ],
+                "Karakalpak": [
+                    "Iysa",
+                    "Iysa payǵambar",
+                    "Iysa Másix"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Hazreti İsa"
+                ],
+                "Azerbaijani": [
+                    "Həzrəti İsa"
+                ],
+                "Turkmen": [
+                    "Hezreti Isa"
+                ],
+                "Uzbek": [
+                    "Hazrati Iso"
+                ],
+                "Uyghur": [
+                    "ھەزرىتى ئەيسا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Гайсә",
+                    "Гайсә пәйгамбәр",
+                    "Гайсә Мәсих"
+                ],
+                "Bashkir": [
+                    "Ғайса",
+                    "Ғайса пәйғәмбәр",
+                    "Ғайса Мәсих"
+                ]
+            }
+        }
+    ]
+}
+```
+

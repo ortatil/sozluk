@@ -1,0 +1,118 @@
+{
+    "id": "i80197",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coastguard",
+    "en_definition": "a military service responsible for the safety of maritime traffic in coastal waters",
+    "tr_word": "sahil güvenlik",
+    "tr_definition": "kıyı sularında deniz trafiğinin güvenliğinden sorumlu askeri hizmet",
+    "ru_word": "береговая охрана",
+    "ru_definition": "военная служба, отвечающая за безопасность морского судоходства в прибрежных водах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz muhafaza"
+                ],
+                "Azerbaijani": [
+                    "dəniz sərhəd mühafizəsi"
+                ],
+                "Turkmen": [
+                    "deňiz serhet goragy"
+                ],
+                "Uzbek": [
+                    "dengiz chegarachilari"
+                ],
+                "Uyghur": [
+                    "دېڭىز قىرغىقى مۇداپىئە ئەترىتى",
+                    "دېڭىز قىرغىقى مۇھاپىزەتچىلىرى"
+                ],
+                "Kazakh": [
+                    "теңіз күзеті"
+                ],
+                "Karakalpak": [
+                    "teńіz kúzetі"
+                ],
+                "Tatar": [
+                    "диңгез сакчылары"
+                ],
+                "Bashkir": [
+                    "диңгеҙ һаҡсылары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahil güvenlik"
+                ],
+                "Azerbaijani": [
+                    "sahil mühafizəsi",
+                    "sahil qoruyucusu"
+                ],
+                "Uzbek": [
+                    "sohil qoʻriqchilari",
+                    "sohil xavfsizligi"
+                ],
+                "Uyghur": [
+                    "ساھىل مۇداپىئە قوشۇنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жағалау күзеті"
+                ],
+                "Karakalpak": [
+                    "jaǵalau kúzetі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яр буе сакчылары",
+                    "яр буе сагы"
+                ],
+                "Bashkir": [
+                    "яр буйы һаҡсылары",
+                    "яр буйы һаҡ хеҙмәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kıyı emniyeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kenar goragy",
+                    "kenar sakçylary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шекара күзеті"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жээк кошууну",
+                    "жээк күзөтү",
+                    "жээк кызматы"
+                ]
+            }
+        }
+    ]
+}

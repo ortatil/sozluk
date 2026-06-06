@@ -1,0 +1,117 @@
+# Anchor chain
+| Field | Detail |
+|---|---|
+| **ID** | i50004 |
+| **English** | anchor chain |
+| **Type** | noun |
+| **Definition** | the chain or rope that attaches an anchor to a vessel |
+| **Source** | common |
+| **Ortatil** | zäncir |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i50004",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "anchor chain",
+    "en_definition": "the chain or rope that attaches an anchor to a vessel",
+    "tr_word": "demir zinciri",
+    "tr_definition": "Bir demiri gemiye bağlayan ağır metal zincir.",
+    "ru_word": "якорная цепь",
+    "ru_definition": "Цепь, соединяющая якорь с судном.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lenger zinciri"
+                ],
+                "Uzbek": [
+                    "langar zanjiri",
+                    "langar arqoni"
+                ],
+                "Uyghur": [
+                    "لەڭگەر زەنجىرى",
+                    "لەڭگەر تانىسى"
+                ],
+                "Kyrgyz": [
+                    "лакыр чынжыр",
+                    "лакыр арканы"
+                ],
+                "Karakalpak": [
+                    "lakır zánjiri"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "demir zinciri"
+                ],
+                "Azerbaijani": [
+                    "dəmir zənciri"
+                ],
+                "Turkmen": [
+                    "demir zynjyr"
+                ],
+                "Kazakh": [
+                    "зәкір шынжыры",
+                    "зәкір арқаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lövbər zənciri"
+                ],
+                "Turkmen": [
+                    "labyr zynjyry"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кеме чынжыры"
+                ],
+                "Karakalpak": [
+                    "keme zánjiri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "якорь чылбыры",
+                    "якорь бавы"
+                ],
+                "Bashkir": [
+                    "якорь сылбыры",
+                    "якорь бауы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çapa zinciri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "zánjir"
+                ]
+            }
+        }
+    ]
+}
+```
+

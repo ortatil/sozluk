@@ -1,0 +1,155 @@
+{
+    "id": "i69427",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snail mail",
+    "en_definition": "any mail that is physically delivered by the postal service",
+    "tr_word": "normal posta",
+    "tr_definition": "E-posta yerine fiziksel olarak posta servisi aracılığıyla gönderilen mektup veya paketler.",
+    "ru_word": "обычная почта",
+    "ru_definition": "Физическая почтовая служба, доставляющая бумажные письма и посылки, в отличие от электронной почты.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "posta"
+                ],
+                "Azerbaijani": [
+                    "poçt"
+                ],
+                "Turkmen": [
+                    "poçta"
+                ],
+                "Uzbek": [
+                    "pochta"
+                ],
+                "Kazakh": [
+                    "пошта"
+                ],
+                "Kyrgyz": [
+                    "почта"
+                ],
+                "Karakalpak": [
+                    "pochta"
+                ],
+                "Tatar": [
+                    "почта"
+                ],
+                "Bashkir": [
+                    "почта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kağız poçt"
+                ],
+                "Turkmen": [
+                    "kagyz poçtasy"
+                ],
+                "Uyghur": [
+                    "قەغەز پوچتا"
+                ],
+                "Kazakh": [
+                    "қағаз хат"
+                ],
+                "Kyrgyz": [
+                    "кагаз кат"
+                ],
+                "Karakalpak": [
+                    "qaǵaz pochta"
+                ],
+                "Tatar": [
+                    "кәгазь почта"
+                ],
+                "Bashkir": [
+                    "ҡағыҙ хат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hat"
+                ],
+                "Uzbek": [
+                    "xat-xabar"
+                ],
+                "Kazakh": [
+                    "хат-хабар"
+                ],
+                "Karakalpak": [
+                    "xat-xabar"
+                ],
+                "Tatar": [
+                    "хат",
+                    "хат-хәбәр"
+                ],
+                "Bashkir": [
+                    "хат",
+                    "хат-хәбәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mektup"
+                ],
+                "Uzbek": [
+                    "maktub"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ənənəvi poçt"
+                ],
+                "Uyghur": [
+                    "ئەنئەنىۋى پوچتا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazılı posta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fiziksel posta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئادەتتىكى پوچتا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәстүрлі пошта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кат",
+                    "кат-кабар"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "id": "i105738",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chenin blanc",
+    "en_definition": "white grape grown especially in California and the lower Loire valley of France",
+    "tr_word": "chenin blanc",
+    "tr_definition": "Özellikle Kaliforniya ve Fransa'nın Loire Vadisi'nde yetiştirilen beyaz bir üzüm çeşidi.",
+    "ru_word": "шенен блан",
+    "ru_definition": "сорт белого винограда, выращиваемый в основном в Калифорнии и долине Луары во Франции.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ağ üzüm növü"
+                ],
+                "Turkmen": [
+                    "ak üzüm",
+                    "ak üzüm görnüşi"
+                ],
+                "Uzbek": [
+                    "oq uzum navi",
+                    "oq uzum"
+                ],
+                "Uyghur": [
+                    "ئاق ئۈزۈم سورتى"
+                ],
+                "Kazakh": [
+                    "ақ жүзім"
+                ],
+                "Kyrgyz": [
+                    "ак жүзүм"
+                ],
+                "Karakalpak": [
+                    "aq júzіm"
+                ],
+                "Tatar": [
+                    "ак йөзем",
+                    "ак йөзем сорты"
+                ],
+                "Bashkir": [
+                    "аҡ йөҙөм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жүзім сорты"
+                ],
+                "Kyrgyz": [
+                    "жүзүм сорту"
+                ],
+                "Karakalpak": [
+                    "júzіm sortı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şaraplık beyaz üzüm"
+                ],
+                "Azerbaijani": [
+                    "şərablıq üzüm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz üzüm çeşidi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شېنىن بىلەن ئۈزۈمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "француз аҡ йөҙөмө"
+                ]
+            }
+        }
+    ]
+}

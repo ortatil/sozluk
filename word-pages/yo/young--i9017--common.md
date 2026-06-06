@@ -1,0 +1,176 @@
+# Young
+| Field | Detail |
+|---|---|
+| **ID** | i9017 |
+| **English** | young |
+| **Type** | adjective |
+| **Definition** | (used of living things especially persons) in an early period of life or development or growth |
+| **Source** | common |
+| **Ortatil** | kiçi, jaş |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kiçi** | **jaş** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 0.33 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 1 | 1 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **3.33** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كىچىك | kiçik |
+| ياشراق | yaşraq |
+| تۆۋەن | tövän |
+| **Kazakh** | |
+| кіші | kişi |
+| кішілеу | kişileu |
+| жас | jas |
+| **Kyrgyz** | |
+| кичүү | kiçüü |
+| жаш | jaş |
+| жашыраак | jaşıraak |
+| **Tatar** | |
+| кечерәк | keçeräk |
+| кече | keçe |
+| яшьрәк | yaşräk |
+| **Bashkir** | |
+| кесе | kese |
+| кесеү | keseü |
+| йәш | yäş |
+
+```json
+{
+    "id": "i9017",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "young",
+    "en_definition": "(used of living things especially persons) in an early period of life or development or growth",
+    "tr_word": "genç",
+    "tr_definition": "Gelişmesini tamamlamamış olan, hayatının ilk evrelerinde bulunan (canlılar için).",
+    "ru_word": "молодой",
+    "ru_definition": "Находящийся в возрасте, переходном от отрочества к зрелости, или в начальном периоде жизни.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük"
+                ],
+                "Azerbaijani": [
+                    "kiçik"
+                ],
+                "Turkmen": [
+                    "kiçi",
+                    "kiçiräk"
+                ],
+                "Uzbek": [
+                    "kichik",
+                    "kichikroq"
+                ],
+                "Uyghur": [
+                    "كىچىك"
+                ],
+                "Kazakh": [
+                    "кіші",
+                    "кішілеу"
+                ],
+                "Kyrgyz": [
+                    "кичүү"
+                ],
+                "Karakalpak": [
+                    "kishi",
+                    "kishileu"
+                ],
+                "Tatar": [
+                    "кечерәк",
+                    "кече"
+                ],
+                "Bashkir": [
+                    "кесе",
+                    "кесеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaşça küçük"
+                ],
+                "Turkmen": [
+                    "ýaş"
+                ],
+                "Uzbek": [
+                    "yoshroq",
+                    "yosh"
+                ],
+                "Uyghur": [
+                    "ياشراق"
+                ],
+                "Kazakh": [
+                    "жас"
+                ],
+                "Kyrgyz": [
+                    "жаш",
+                    "жашыраак"
+                ],
+                "Karakalpak": [
+                    "jas"
+                ],
+                "Tatar": [
+                    "яшьрәк"
+                ],
+                "Bashkir": [
+                    "йәш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "genç"
+                ],
+                "Azerbaijani": [
+                    "gənc"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taze"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cavan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەن"
+                ]
+            }
+        }
+    ]
+}
+```
+

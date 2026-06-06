@@ -1,0 +1,143 @@
+{
+    "id": "i39442",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "crime",
+    "en_definition": "(criminal law) an act punishable by law; usually considered an evil act",
+    "tr_word": "suç",
+    "tr_definition": "Yasalarca cezalandırılan, genellikle kötü bir eylem olarak kabul edilen davranış.",
+    "ru_word": "преступление",
+    "ru_definition": "Общественно опасное деяние, запрещенное законом под угрозой наказания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "günah"
+                ],
+                "Turkmen": [
+                    "günä"
+                ],
+                "Uzbek": [
+                    "gunoh"
+                ],
+                "Uyghur": [
+                    "گۇناھ"
+                ],
+                "Kazakh": [
+                    "күнә"
+                ],
+                "Kyrgyz": [
+                    "күнөө"
+                ],
+                "Karakalpak": [
+                    "gúna"
+                ],
+                "Tatar": [
+                    "гөнаһ"
+                ],
+                "Bashkir": [
+                    "гөнаһ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cinayət"
+                ],
+                "Turkmen": [
+                    "jenaýat"
+                ],
+                "Uzbek": [
+                    "jinoyat"
+                ],
+                "Uyghur": [
+                    "جىنايەت"
+                ],
+                "Karakalpak": [
+                    "jınayat"
+                ],
+                "Tatar": [
+                    "җинаять"
+                ],
+                "Bashkir": [
+                    "енәйәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қылмыс"
+                ],
+                "Kyrgyz": [
+                    "кылмыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жазық"
+                ],
+                "Kyrgyz": [
+                    "жазык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yomonlik"
+                ],
+                "Bashkir": [
+                    "яманлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "suç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cürüm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kabahat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təqsir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ayıp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "явызлык"
+                ]
+            }
+        }
+    ]
+}

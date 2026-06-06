@@ -1,0 +1,184 @@
+# Millstone
+| Field | Detail |
+|---|---|
+| **ID** | i56253 |
+| **English** | millstone |
+| **Type** | noun |
+| **Definition** | one of a pair of heavy flat disk-shaped stones that are rotated against one another to grind the grain |
+| **Source** | common |
+| **Ortatil** | ḍaş |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍaş** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.03** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تۈگمەن | tügmän |
+| **Kyrgyz** | |
+| жармаш | jarmaş |
+| жаргылчак | jargılçak |
+| **Tatar** | |
+| таш | taş |
+
+```json
+{
+    "id": "i56253",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "millstone",
+    "en_definition": "one of a pair of heavy flat disk-shaped stones that are rotated against one another to grind the grain",
+    "tr_word": "değirmen taşı",
+    "tr_definition": "Tahıl öğütmek için üst üste konulan ve döndürülen ağır, yassı, disk şeklindeki iki taştan her biri.",
+    "ru_word": "жёрнов",
+    "ru_definition": "Один из пары тяжелых плоских дискообразных камней, которые вращаются друг относительно друга для измельчения зерна.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "değirmen taşı"
+                ],
+                "Azerbaijani": [
+                    "dəyirman daşı"
+                ],
+                "Turkmen": [
+                    "degirmen daşy"
+                ],
+                "Uzbek": [
+                    "tegirmon toshi"
+                ],
+                "Kazakh": [
+                    "диірмен тасы"
+                ],
+                "Kyrgyz": [
+                    "тегирмен таш"
+                ],
+                "Karakalpak": [
+                    "digirmen tası",
+                    "digirmen"
+                ],
+                "Tatar": [
+                    "тегермән ташы"
+                ],
+                "Bashkir": [
+                    "тирмән ташы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "daş"
+                ],
+                "Uzbek": [
+                    "tosh"
+                ],
+                "Uyghur": [
+                    "تاش تۈگمەن"
+                ],
+                "Kazakh": [
+                    "тас диірмен"
+                ],
+                "Karakalpak": [
+                    "tas digirmen"
+                ],
+                "Tatar": [
+                    "таш"
+                ],
+                "Bashkir": [
+                    "таш тирмән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қол диірмен"
+                ],
+                "Tatar": [
+                    "кул тегермәне"
+                ],
+                "Bashkir": [
+                    "ҡул тирмәне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el değirmeni"
+                ],
+                "Turkmen": [
+                    "el degirmeni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yorgu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kirkirə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əl daşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oshpoya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈگمەن تېشى",
+                    "تۈگمەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жармаш",
+                    "жаргылчак"
+                ]
+            }
+        }
+    ]
+}
+```
+

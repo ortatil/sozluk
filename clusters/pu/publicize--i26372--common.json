@@ -1,0 +1,211 @@
+{
+    "id": "i26372",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "publicize",
+    "en_definition": "make public",
+    "tr_word": "duyurmak",
+    "tr_definition": "Bir şeyi halka bildirmek, ilan etmek veya tanıtımını yapmak.",
+    "ru_word": "оглашать",
+    "ru_definition": "Сделать что-либо известным широкой публике, распространить информацию.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaymak"
+                ],
+                "Azerbaijani": [
+                    "yaymaq"
+                ],
+                "Turkmen": [
+                    "ýaýratmak"
+                ],
+                "Uzbek": [
+                    "yoymoq"
+                ],
+                "Uyghur": [
+                    "يايماق"
+                ],
+                "Kyrgyz": [
+                    "жайылтуу"
+                ],
+                "Tatar": [
+                    "җәю"
+                ],
+                "Bashkir": [
+                    "йәйелдереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açıklamak"
+                ],
+                "Azerbaijani": [
+                    "aşkar etmək"
+                ],
+                "Turkmen": [
+                    "äşgär etmek"
+                ],
+                "Uzbek": [
+                    "oshkor qilmoq"
+                ],
+                "Uyghur": [
+                    "ئاشكارىلىماق"
+                ],
+                "Kyrgyz": [
+                    "ашкерелөө"
+                ],
+                "Karakalpak": [
+                    "ashkaralao"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilan etmek"
+                ],
+                "Azerbaijani": [
+                    "elan etmək"
+                ],
+                "Uzbek": [
+                    "e'lon qilmoq"
+                ],
+                "Uyghur": [
+                    "ئېلان قىلماق"
+                ],
+                "Tatar": [
+                    "игълан итү"
+                ],
+                "Bashkir": [
+                    "иғлан итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bildirmək"
+                ],
+                "Turkmen": [
+                    "bildirmek"
+                ],
+                "Kyrgyz": [
+                    "билдирүү"
+                ],
+                "Karakalpak": [
+                    "bildirio"
+                ],
+                "Tatar": [
+                    "белдерү"
+                ],
+                "Bashkir": [
+                    "белдереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mälim etmek"
+                ],
+                "Uzbek": [
+                    "ma'lum qilmoq"
+                ],
+                "Kazakh": [
+                    "мәлімдеу"
+                ],
+                "Kyrgyz": [
+                    "маалымдоо"
+                ],
+                "Karakalpak": [
+                    "málimleo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tarqatmoq"
+                ],
+                "Kazakh": [
+                    "тарату"
+                ],
+                "Karakalpak": [
+                    "tarqatıo"
+                ],
+                "Tatar": [
+                    "тарату"
+                ],
+                "Bashkir": [
+                    "таратыу",
+                    "танытыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jar etmek"
+                ],
+                "Kazakh": [
+                    "жариялау",
+                    "жарнамалау"
+                ],
+                "Kyrgyz": [
+                    "жарыялоо"
+                ],
+                "Karakalpak": [
+                    "járiyalao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "паш ету"
+                ],
+                "Tatar": [
+                    "фаш итү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duyurmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "neşretmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şayiə etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەشۋىق قىلماق"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+# Area code
+| Field | Detail |
+|---|---|
+| **ID** | i69875 |
+| **English** | area code |
+| **Type** | noun |
+| **Definition** | a number usually of 3 digits assigned to a telephone area as in the United States and Canada |
+| **Source** | common |
+| **Ortatil** | prefiks |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i69875",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "area code",
+    "en_definition": "a number usually of 3 digits assigned to a telephone area as in the United States and Canada",
+    "tr_word": "alan kodu",
+    "tr_definition": "Belirli bir coğrafi bölgeye veya şehre atanan telefon numarası ön eki.",
+    "ru_word": "код города",
+    "ru_definition": "Префикс телефонного номера, назначаемый определенному географическому региону или городу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehir kodu"
+                ],
+                "Azerbaijani": [
+                    "şəhər kodu"
+                ],
+                "Turkmen": [
+                    "şäher kody"
+                ],
+                "Uzbek": [
+                    "shahar kodi"
+                ],
+                "Uyghur": [
+                    "شەھەر نومۇرى"
+                ],
+                "Kyrgyz": [
+                    "шаар коду"
+                ],
+                "Tatar": [
+                    "шәһәр коды"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "telefon kody"
+                ],
+                "Uyghur": [
+                    "تېلېفون رايون نومۇرى"
+                ],
+                "Tatar": [
+                    "телефон коды"
+                ],
+                "Bashkir": [
+                    "телефон коды"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alan kodu"
+                ],
+                "Turkmen": [
+                    "araçäk kody"
+                ],
+                "Uzbek": [
+                    "aloqa kodi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "аймақ коды"
+                ],
+                "Kyrgyz": [
+                    "аймак коду"
+                ],
+                "Karakalpak": [
+                    "aymaq kodı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қала коды"
+                ],
+                "Karakalpak": [
+                    "qala kodı"
+                ],
+                "Bashkir": [
+                    "ҡала коды"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "байланыс коды"
+                ],
+                "Kyrgyz": [
+                    "байланыш коду"
+                ],
+                "Karakalpak": [
+                    "baylanıs kodı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төбәк коды"
+                ],
+                "Bashkir": [
+                    "төбәк коды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "numara ön eki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ərazi kodu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "prefiks"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hudud kodi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رايون نومۇرى"
+                ]
+            }
+        }
+    ]
+}
+```
+

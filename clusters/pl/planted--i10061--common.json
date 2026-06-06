@@ -1,0 +1,116 @@
+{
+    "id": "i10061",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "planted",
+    "en_definition": "set in the soil for growth",
+    "tr_word": "dikili",
+    "tr_definition": "Büyümesi için toprağa yerleştirilmiş olan",
+    "ru_word": "посаженный",
+    "ru_definition": "Помещенный в почву для дальнейшего роста",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dikili",
+                    "ekili",
+                    "dikilmiş",
+                    "ekilmiş"
+                ],
+                "Azerbaijani": [
+                    "əkilmiş",
+                    "əkilən"
+                ],
+                "Turkmen": [
+                    "ekilen",
+                    "dikilen"
+                ],
+                "Uzbek": [
+                    "ekilgan",
+                    "dikilgan"
+                ],
+                "Uyghur": [
+                    "ئېكىلگەن"
+                ],
+                "Kyrgyz": [
+                    "эгилген"
+                ],
+                "Tatar": [
+                    "игелгән"
+                ],
+                "Bashkir": [
+                    "игелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "oturdylan"
+                ],
+                "Uzbek": [
+                    "o'tqazilgan"
+                ],
+                "Kazakh": [
+                    "отырғызылған"
+                ],
+                "Kyrgyz": [
+                    "отургузулган"
+                ],
+                "Karakalpak": [
+                    "otırǵızılǵan"
+                ],
+                "Tatar": [
+                    "утыртылган"
+                ],
+                "Bashkir": [
+                    "ултыртылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "егілген"
+                ],
+                "Kyrgyz": [
+                    "тигилген"
+                ],
+                "Karakalpak": [
+                    "egilgen"
+                ],
+                "Tatar": [
+                    "чәчелгән"
+                ],
+                "Bashkir": [
+                    "сәселгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "basdırılmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېرىلغان",
+                    "تېرىقچىلىق قىلىنغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قادالغان"
+                ]
+            }
+        }
+    ]
+}

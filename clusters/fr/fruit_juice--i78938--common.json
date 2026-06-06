@@ -1,0 +1,96 @@
+{
+    "id": "i78938",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fruit juice",
+    "en_definition": "drink produced by squeezing or crushing fruit",
+    "tr_word": "meyve suyu",
+    "tr_definition": "meyvelerin sıkılması veya ezilmesiyle elde edilen içecek",
+    "ru_word": "фруктовый сок",
+    "ru_definition": "напиток, полученный путем выжимания или измельчения фруктов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şerbet"
+                ],
+                "Azerbaijani": [
+                    "şirə"
+                ],
+                "Turkmen": [
+                    "şire"
+                ],
+                "Uzbek": [
+                    "sharbat"
+                ],
+                "Uyghur": [
+                    "شەربەت"
+                ],
+                "Kazakh": [
+                    "шырын"
+                ],
+                "Kyrgyz": [
+                    "шире"
+                ],
+                "Karakalpak": [
+                    "shire"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyve suyu",
+                    "meyve özü"
+                ],
+                "Azerbaijani": [
+                    "meyvə şirəsi",
+                    "meyvə suyu"
+                ],
+                "Turkmen": [
+                    "miwe şiresi"
+                ],
+                "Uzbek": [
+                    "meva sharbati"
+                ],
+                "Uyghur": [
+                    "مېۋە شەربىتى",
+                    "مېۋە سۈيى"
+                ],
+                "Karakalpak": [
+                    "miyue shiresi"
+                ],
+                "Tatar": [
+                    "мивә суы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жеміс шырыны"
+                ],
+                "Kyrgyz": [
+                    "жемиш ширеси"
+                ],
+                "Tatar": [
+                    "җимеш суы"
+                ],
+                "Bashkir": [
+                    "емеш һуты",
+                    "емеш-еләк һуты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мөмө ширеси"
+                ]
+            }
+        }
+    ]
+}

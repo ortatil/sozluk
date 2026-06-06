@@ -1,0 +1,100 @@
+{
+    "id": "i56483",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nailfile",
+    "en_definition": "a small flat file for shaping the nails",
+    "tr_word": "tırnak törpüsü",
+    "tr_definition": "tırnakları şekillendirmek için kullanılan küçük, düz törpü",
+    "ru_word": "пилочка для ногтей",
+    "ru_definition": "небольшой плоский напильник для придания формы ногтям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tırnak törpüsü"
+                ],
+                "Azerbaijani": [
+                    "dırnaq törpüsü"
+                ],
+                "Turkmen": [
+                    "dyrnak egesi",
+                    "dyrnak törpüsi"
+                ],
+                "Uzbek": [
+                    "tirnoq egovi"
+                ],
+                "Uyghur": [
+                    "تىرناق ئەگىسى",
+                    "تىرناق چاقىسى",
+                    "تىرناق سۈركىگۈچ"
+                ],
+                "Kazakh": [
+                    "тырнақ егеуіш"
+                ],
+                "Kyrgyz": [
+                    "тырмак өгөө",
+                    "тырмак өгөөсү"
+                ],
+                "Karakalpak": [
+                    "tırnaq egeu"
+                ],
+                "Tatar": [
+                    "тырнау игәүе",
+                    "тырнау чарлавычы"
+                ],
+                "Bashkir": [
+                    "тырнаҡ игеүе",
+                    "тырнаҡ игеүесе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "egovcha"
+                ],
+                "Kazakh": [
+                    "егеу",
+                    "егеуіш"
+                ],
+                "Karakalpak": [
+                    "egeu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "törpü"
+                ],
+                "Azerbaijani": [
+                    "törpü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өгөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "egeuіsh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "игеү"
+                ]
+            }
+        }
+    ]
+}

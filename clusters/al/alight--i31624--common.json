@@ -1,0 +1,139 @@
+{
+    "id": "i31624",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "alight",
+    "en_definition": "come down",
+    "tr_word": "inmek",
+    "tr_definition": "bir taşıttan veya yüksek bir yerden aşağı gelmek",
+    "ru_word": "сходить",
+    "ru_definition": "спускаться или выходить из транспортного средства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konmak"
+                ],
+                "Turkmen": [
+                    "gonmak"
+                ],
+                "Uzbek": [
+                    "qo'nmoq"
+                ],
+                "Uyghur": [
+                    "قونماق"
+                ],
+                "Kazakh": [
+                    "қону"
+                ],
+                "Kyrgyz": [
+                    "конуу"
+                ],
+                "Karakalpak": [
+                    "qonıo"
+                ],
+                "Tatar": [
+                    "куну"
+                ],
+                "Bashkir": [
+                    "ҡуныу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "düşmək"
+                ],
+                "Turkmen": [
+                    "düşmek"
+                ],
+                "Uzbek": [
+                    "tushmoq",
+                    "tushib kelmoq"
+                ],
+                "Uyghur": [
+                    "چۈشمەك"
+                ],
+                "Kazakh": [
+                    "түсу"
+                ],
+                "Kyrgyz": [
+                    "түшүү"
+                ],
+                "Karakalpak": [
+                    "túsio",
+                    "túsip qalıo"
+                ],
+                "Tatar": [
+                    "төшү",
+                    "төшеп утыру"
+                ],
+                "Bashkir": [
+                    "төшөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "inmek"
+                ],
+                "Azerbaijani": [
+                    "enmək"
+                ],
+                "Turkmen": [
+                    "inmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەنلىمەك"
+                ],
+                "Kazakh": [
+                    "төмендеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alçalmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nazil olmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pastga tushmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ылдыйлоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ултырыу"
+                ]
+            }
+        }
+    ]
+}

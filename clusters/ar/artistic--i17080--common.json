@@ -1,0 +1,162 @@
+{
+    "id": "i17080",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "artistic",
+    "en_definition": "relating to or characteristic of art or artists",
+    "tr_word": "sanatsal",
+    "tr_definition": "sanatla veya sanatçılarla ilgili olan veya onlara özgü nitelikler taşıyan",
+    "ru_word": "художественный",
+    "ru_definition": "относящийся к искусству или художникам, характерный для них",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanatsal",
+                    "sanatlı"
+                ],
+                "Azerbaijani": [
+                    "sənətkarlıq"
+                ],
+                "Turkmen": [
+                    "sungat"
+                ],
+                "Uzbek": [
+                    "san'atkorona"
+                ],
+                "Uyghur": [
+                    "سەنئەتكارلىق",
+                    "سەنئەتكە ئائىت"
+                ],
+                "Tatar": [
+                    "сәнгатьле",
+                    "сәнгатьчә"
+                ],
+                "Bashkir": [
+                    "сәнғәт",
+                    "сәнғәтле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bedii"
+                ],
+                "Azerbaijani": [
+                    "bədii"
+                ],
+                "Uzbek": [
+                    "badiiy"
+                ],
+                "Uyghur": [
+                    "بەدىئىي"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "estetik"
+                ],
+                "Kazakh": [
+                    "өнерлі"
+                ],
+                "Kyrgyz": [
+                    "өнөрлүү"
+                ],
+                "Karakalpak": [
+                    "ónerli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çeper",
+                    "çeperçilik"
+                ],
+                "Kazakh": [
+                    "шебер"
+                ],
+                "Kyrgyz": [
+                    "чебер"
+                ],
+                "Karakalpak": [
+                    "sheber"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ustozona"
+                ],
+                "Kyrgyz": [
+                    "уста"
+                ],
+                "Tatar": [
+                    "оста"
+                ],
+                "Bashkir": [
+                    "оҫта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "nafis"
+                ],
+                "Tatar": [
+                    "нәфис"
+                ],
+                "Bashkir": [
+                    "нәфис"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көркем"
+                ],
+                "Kyrgyz": [
+                    "көркөм"
+                ],
+                "Karakalpak": [
+                    "kórkem",
+                    "kórkemlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "incəsənət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zövqlü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шығармашылық"
+                ]
+            }
+        }
+    ]
+}

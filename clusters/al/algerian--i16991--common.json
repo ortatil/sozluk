@@ -1,0 +1,63 @@
+{
+    "id": "i16991",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "algerian",
+    "en_definition": "of or relating to or characteristic of Algeria or its inhabitants",
+    "tr_word": "Cezayirli",
+    "tr_definition": "Cezayir'e veya sakinlerine özgü olan veya bunlarla ilgili olan",
+    "ru_word": "алжирский",
+    "ru_definition": "относящийся к Алжиру или его жителям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əlcəzairli",
+                    "əlcəzair"
+                ],
+                "Turkmen": [
+                    "alžirli",
+                    "alžir"
+                ],
+                "Uyghur": [
+                    "ئالجىرىيەلىك",
+                    "ئالجىرىيەگە ئائىت"
+                ],
+                "Kazakh": [
+                    "алжирлік",
+                    "алжир"
+                ],
+                "Kyrgyz": [
+                    "алжирдик",
+                    "алжир"
+                ],
+                "Karakalpak": [
+                    "aljirli",
+                    "aljirlik"
+                ],
+                "Tatar": [
+                    "алжирлы",
+                    "алжир"
+                ],
+                "Bashkir": [
+                    "Алжир",
+                    "Алжирҙыҡы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Cezayirli",
+                    "Cezayir"
+                ],
+                "Uzbek": [
+                    "jazoircha",
+                    "jazoiriy",
+                    "jazoirli"
+                ]
+            }
+        }
+    ]
+}

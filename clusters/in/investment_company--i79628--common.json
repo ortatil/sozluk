@@ -1,0 +1,121 @@
+{
+    "id": "i79628",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "investment company",
+    "en_definition": "a financial institution that sells shares to individuals and invests in securities issued by other companies",
+    "tr_word": "yatırım şirketi",
+    "tr_definition": "bireylere hisse senedi satan ve diğer şirketler tarafından ihraç edilen menkul kıymetlere yatırım yapan finansal kuruluş",
+    "ru_word": "инвестиционная компания",
+    "ru_definition": "финансовая организация, которая продает акции частным лицам и инвестирует в ценные бумаги, выпущенные другими компаниями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "investisiya şirkəti",
+                    "investisiya təşkilatı"
+                ],
+                "Uzbek": [
+                    "investitsiya shirkati"
+                ],
+                "Kazakh": [
+                    "инвестициялық компания",
+                    "инвестициялық ұйым",
+                    "инвестициялық қоғам"
+                ],
+                "Kyrgyz": [
+                    "инвестициялык коом",
+                    "инвестициялык ишкана",
+                    "инвестициялык мекеме"
+                ],
+                "Karakalpak": [
+                    "inwesticiyalıq kompaniya",
+                    "inwesticiyalıq járdemlesioshi"
+                ],
+                "Tatar": [
+                    "инвестиция ширкәте",
+                    "инвестиция җәмгыяте",
+                    "инвестиция оешмасы"
+                ],
+                "Bashkir": [
+                    "инвестиция компанияһы",
+                    "инвестиция ойошмаһы",
+                    "инвестиция йәмғиәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sərmayə şirkəti",
+                    "sərmayə müəssisəsi"
+                ],
+                "Uzbek": [
+                    "sarmoya shirkati",
+                    "sarmoya jamiyati"
+                ],
+                "Uyghur": [
+                    "سەرمایە سېلىش شىركىتى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қаржылық серіктестік"
+                ],
+                "Kyrgyz": [
+                    "каржылык коом"
+                ],
+                "Karakalpak": [
+                    "qarjılıq mekeme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mablagʻdorlik uyushmasi"
+                ],
+                "Uyghur": [
+                    "مەبلەغ سېلىش شىركىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yatırım ortaklığı",
+                    "yatırım şirketi",
+                    "yatırım kuruluşu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "finansman şirketi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maýa goýum kärhanasy",
+                    "maýa goýum kompaniýasy",
+                    "maýa goýum edarasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "акча салу ширкәте"
+                ]
+            }
+        }
+    ]
+}

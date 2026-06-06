@@ -1,0 +1,104 @@
+{
+    "id": "i1021",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sleepy",
+    "en_definition": "ready to fall asleep",
+    "tr_word": "uykulu",
+    "tr_definition": "uyumaya hazır olan, uykusu gelmiş",
+    "ru_word": "сонный",
+    "ru_definition": "готовый уснуть, испытывающий потребность в сне",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uykulu",
+                    "uykusu gelmiş"
+                ],
+                "Turkmen": [
+                    "ukuly",
+                    "ukusy gelen",
+                    "ukusyrap duran"
+                ],
+                "Uzbek": [
+                    "uyqusiragan",
+                    "uyqusi kelgan"
+                ],
+                "Uyghur": [
+                    "ئۇيقۇسى كەلگەن",
+                    "ئۇيقۇچان"
+                ],
+                "Kazakh": [
+                    "ұйқылы",
+                    "ұйқысыраған"
+                ],
+                "Kyrgyz": [
+                    "уйкусураган",
+                    "уйкулуу",
+                    "уйкусу келген"
+                ],
+                "Karakalpak": [
+                    "uyqılı",
+                    "uyqısıraǵan",
+                    "uyqısı kelgen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yuxulu",
+                    "yuxusu gələn"
+                ],
+                "Tatar": [
+                    "йокылы",
+                    "йокысы килгән"
+                ],
+                "Bashkir": [
+                    "йоҡоһо килгән",
+                    "йоҡоло"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mürgülü"
+                ],
+                "Uyghur": [
+                    "مۈگدەك"
+                ],
+                "Kazakh": [
+                    "мүлгіген"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mudroq"
+                ],
+                "Tatar": [
+                    "мөдрәүле"
+                ],
+                "Bashkir": [
+                    "мөҙрәүле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mahmur"
+                ],
+                "Kazakh": [
+                    "маужыраған"
+                ]
+            }
+        }
+    ]
+}

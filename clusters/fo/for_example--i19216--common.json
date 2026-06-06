@@ -1,0 +1,100 @@
+{
+    "id": "i19216",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "for example",
+    "en_definition": "as an example",
+    "tr_word": "örneğin",
+    "tr_definition": "bir durumu veya konuyu açıklamak için örnek verildiğinde kullanılan söz",
+    "ru_word": "например",
+    "ru_definition": "вводное слово, употребляемое при пояснении, приведении примера",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mesela",
+                    "misal"
+                ],
+                "Azerbaijani": [
+                    "məsələn",
+                    "misal üçün"
+                ],
+                "Turkmen": [
+                    "meselem",
+                    "mysal üçin",
+                    "mesel"
+                ],
+                "Uzbek": [
+                    "masalan",
+                    "misol",
+                    "misol uchun"
+                ],
+                "Uyghur": [
+                    "مەسىلەن",
+                    "مىسال ئۈچۈن",
+                    "مەسىلە ئېيتقاندا"
+                ],
+                "Kazakh": [
+                    "мәселен",
+                    "мысалы"
+                ],
+                "Kyrgyz": [
+                    "мисалы",
+                    "маселен"
+                ],
+                "Karakalpak": [
+                    "máselen",
+                    "másálán",
+                    "misal ushın"
+                ],
+                "Tatar": [
+                    "мәсәлән",
+                    "мисал өчен"
+                ],
+                "Bashkir": [
+                    "мәҫәлән",
+                    "миҫал өсөн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "айталық"
+                ],
+                "Kyrgyz": [
+                    "айталы"
+                ],
+                "Tatar": [
+                    "әйтик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nümunə üçün"
+                ],
+                "Uzbek": [
+                    "namuna tariqasida"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "örneğin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sözgelimi"
+                ]
+            }
+        }
+    ]
+}

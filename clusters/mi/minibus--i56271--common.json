@@ -1,0 +1,107 @@
+{
+    "id": "i56271",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "minibus",
+    "en_definition": "a light bus (4 to 10 passengers)",
+    "tr_word": "minibüs",
+    "tr_definition": "Genellikle 10-15 yolcu taşıyan, küçük otobüs boyutundaki motorlu taşıt.",
+    "ru_word": "микроавтобус",
+    "ru_definition": "Автобус малого класса, предназначенный для перевозки небольшого количества пассажиров.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük otobüs"
+                ],
+                "Azerbaijani": [
+                    "kiçik avtobus"
+                ],
+                "Turkmen": [
+                    "kiçi awtobus"
+                ],
+                "Uzbek": [
+                    "kichik avtobus"
+                ],
+                "Uyghur": [
+                    "كىچىك ئاپتوبۇس"
+                ],
+                "Kazakh": [
+                    "кіші автобус"
+                ],
+                "Kyrgyz": [
+                    "кичиавтобус",
+                    "кичибус"
+                ],
+                "Karakalpak": [
+                    "kishi awtobus"
+                ],
+                "Tatar": [
+                    "кече автобус"
+                ],
+                "Bashkir": [
+                    "кесе автобус"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mikroavtobus"
+                ],
+                "Turkmen": [
+                    "mikroawtobus"
+                ],
+                "Uzbek": [
+                    "mikroavtobus"
+                ],
+                "Uyghur": [
+                    "مىكرو ئاپتوبۇس"
+                ],
+                "Karakalpak": [
+                    "mikroawtobus"
+                ],
+                "Tatar": [
+                    "микроавтобус"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dolmuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "marşrutka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yoʻlovchi tashuvchi ulov"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шағын автобус"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәй автобус"
+                ]
+            }
+        }
+    ]
+}

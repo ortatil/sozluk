@@ -1,0 +1,169 @@
+{
+    "id": "i50901",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bodega",
+    "en_definition": "a small Hispanic shop selling wine and groceries",
+    "tr_word": "bodega",
+    "tr_definition": "İspanyolca konuşulan topluluklarda şarap ve bakkaliye ürünleri satan küçük dükkan",
+    "ru_word": "бодега",
+    "ru_definition": "небольшой магазин в испаноязычных районах, торгующий вином и бакалейными товарами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bakkal"
+                ],
+                "Azerbaijani": [
+                    "baqqal"
+                ],
+                "Turkmen": [
+                    "bakgal",
+                    "bakgalhana"
+                ],
+                "Uzbek": [
+                    "baqqollik"
+                ],
+                "Uyghur": [
+                    "باققاللىق دۇكىنى"
+                ],
+                "Kazakh": [
+                    "бақал",
+                    "бақалшы"
+                ],
+                "Kyrgyz": [
+                    "бакал"
+                ],
+                "Karakalpak": [
+                    "baqalxana"
+                ],
+                "Tatar": [
+                    "бакалея"
+                ],
+                "Bashkir": [
+                    "бакалея"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekeli"
+                ],
+                "Kazakh": [
+                    "дүкен"
+                ],
+                "Kyrgyz": [
+                    "дүкөн"
+                ],
+                "Karakalpak": [
+                    "dúkán"
+                ],
+                "Tatar": [
+                    "түкән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dükan"
+                ],
+                "Turkmen": [
+                    "dükan"
+                ],
+                "Uzbek": [
+                    "do'kon"
+                ],
+                "Uyghur": [
+                    "دۇكان"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mağaza"
+                ],
+                "Uzbek": [
+                    "mayxona"
+                ],
+                "Uyghur": [
+                    "ماگازىن"
+                ],
+                "Karakalpak": [
+                    "mayxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şarküteri"
+                ],
+                "Kyrgyz": [
+                    "шарапкана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кибет"
+                ],
+                "Bashkir": [
+                    "кибет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "лавка"
+                ],
+                "Bashkir": [
+                    "лавка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büfe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "söwda öýi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rastra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шағын дүкен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кампа"
+                ]
+            }
+        }
+    ]
+}

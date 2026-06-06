@@ -1,0 +1,111 @@
+{
+    "id": "i75330",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "wave",
+    "en_definition": "one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)",
+    "tr_word": "dalga",
+    "tr_definition": "Bir sıvının, özellikle deniz veya göl yüzeyinde rüzgar veya sarsıntı ile oluşan kıvrımlı hareket.",
+    "ru_word": "волна",
+    "ru_definition": "водяной вал, образуемый колебанием водной поверхности.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tolkun"
+                ],
+                "Uzbek": [
+                    "to'lqin"
+                ],
+                "Uyghur": [
+                    "دولقۇن",
+                    "تولقۇن"
+                ],
+                "Kazakh": [
+                    "толқын",
+                    "толқынды"
+                ],
+                "Kyrgyz": [
+                    "толкун"
+                ],
+                "Karakalpak": [
+                    "tolqın",
+                    "tolıqsın"
+                ],
+                "Tatar": [
+                    "дулкын"
+                ],
+                "Bashkir": [
+                    "тулҡын",
+                    "дулҡын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mevc"
+                ],
+                "Turkmen": [
+                    "mowç"
+                ],
+                "Uzbek": [
+                    "mavj"
+                ],
+                "Uyghur": [
+                    "مەۋج"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dalga"
+                ],
+                "Azerbaijani": [
+                    "dalğa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чайпалуу"
+                ],
+                "Tatar": [
+                    "чайпалу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hareket"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ləpə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "лебіз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыймыл"
+                ]
+            }
+        }
+    ]
+}

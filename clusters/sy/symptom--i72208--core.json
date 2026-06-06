@@ -1,0 +1,150 @@
+{
+    "id": "i72208",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "symptom",
+    "en_definition": "anything that accompanies X and is regarded as an indication of X's existence",
+    "tr_word": "belirti",
+    "tr_definition": "bir durumun, bir olgunun veya bir hastalığın varlığını gösteren işaret",
+    "ru_word": "симптом",
+    "ru_definition": "внешний признак какого-либо явления или болезни",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alamet"
+                ],
+                "Azerbaijani": [
+                    "əlamət"
+                ],
+                "Turkmen": [
+                    "alamat"
+                ],
+                "Uzbek": [
+                    "alomat"
+                ],
+                "Uyghur": [
+                    "ئالامەت"
+                ],
+                "Kazakh": [
+                    "алам"
+                ],
+                "Kyrgyz": [
+                    "алаамат"
+                ],
+                "Karakalpak": [
+                    "alamat"
+                ],
+                "Tatar": [
+                    "галәмәт"
+                ],
+                "Bashkir": [
+                    "ғәләмәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nişane"
+                ],
+                "Azerbaijani": [
+                    "nişanə"
+                ],
+                "Turkmen": [
+                    "nyşan"
+                ],
+                "Uzbek": [
+                    "nishona"
+                ],
+                "Uyghur": [
+                    "نىشانە"
+                ],
+                "Kazakh": [
+                    "нышан"
+                ],
+                "Kyrgyz": [
+                    "нышан"
+                ],
+                "Karakalpak": [
+                    "nıshan"
+                ],
+                "Tatar": [
+                    "нышан"
+                ],
+                "Bashkir": [
+                    "нышан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "belgi"
+                ],
+                "Uzbek": [
+                    "belgi"
+                ],
+                "Uyghur": [
+                    "بەلگە"
+                ],
+                "Kazakh": [
+                    "белгі"
+                ],
+                "Kyrgyz": [
+                    "белги"
+                ],
+                "Karakalpak": [
+                    "belgi"
+                ],
+                "Tatar": [
+                    "билге"
+                ],
+                "Bashkir": [
+                    "билдә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "belirti"
+                ],
+                "Azerbaijani": [
+                    "belirti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bulgu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asorat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сипат"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "id": "i107451",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "data processing",
+    "en_definition": "(computer science) a series of operations on data by a computer in order to retrieve or transform or classify information",
+    "tr_word": "veri işleme",
+    "tr_definition": "bilgiyi geri almak, dönüştürmek veya sınıflandırmak amacıyla bir bilgisayar tarafından veriler üzerinde gerçekleştirilen işlemler dizisi",
+    "ru_word": "обработка данных",
+    "ru_definition": "последовательность операций над данными, выполняемых компьютером для поиска, преобразования или классификации информации",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məlumatın işlənməsi",
+                    "məlumat emalı"
+                ],
+                "Turkmen": [
+                    "maglumatlary işlemek",
+                    "maglumat işlenişi",
+                    "maglumatlary gaýtadan işlemek"
+                ],
+                "Uzbek": [
+                    "ma'lumotlarni qayta ishlash",
+                    "ma'lumotlar tahlili"
+                ],
+                "Kyrgyz": [
+                    "маалыматты иштетүү",
+                    "маалымат иштетүү",
+                    "маалыматтарды иштеп чыгуу"
+                ],
+                "Tatar": [
+                    "мәгълүмат эшкәртү"
+                ],
+                "Bashkir": [
+                    "мәғлүмәт эшкәртеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "veri işleme",
+                    "bilgi işleme"
+                ],
+                "Azerbaijani": [
+                    "verilənlərin işlənməsi",
+                    "verilənlərin emalı"
+                ],
+                "Tatar": [
+                    "бирелмәләрне эшкәртү"
+                ],
+                "Bashkir": [
+                    "бирелмәләрҙе эшкәртеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "деректерді өңдеу"
+                ],
+                "Karakalpak": [
+                    "dereklerdi qayta isleu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "axborotni qayta ishlash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سانلىق مەلۇمات بىر تەرەپ قىلىش",
+                    "ئۇچۇر بىر تەرەپ قىلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мәліметтерді өңдеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақпаратты өңдеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "maǵlıumatlardı qayta isleu",
+                    "maǵlıumatlardı islep shıǵıu"
+                ]
+            }
+        }
+    ]
+}

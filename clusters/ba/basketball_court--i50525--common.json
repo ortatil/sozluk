@@ -1,0 +1,70 @@
+{
+    "id": "i50525",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "basketball court",
+    "en_definition": "the court on which basketball is played",
+    "tr_word": "basketbol sahası",
+    "tr_definition": "basketbol oyununun oynandığı, sınırları belirlenmiş alan",
+    "ru_word": "баскетбольная площадка",
+    "ru_definition": "площадка для игры в баскетбол",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basketbol sahası",
+                    "basketbol alanı"
+                ],
+                "Azerbaijani": [
+                    "basketbol meydançası",
+                    "basketbol sahəsi"
+                ],
+                "Turkmen": [
+                    "basketbol meýdançasy",
+                    "basketbol meýdany"
+                ],
+                "Uzbek": [
+                    "basketbol maydoni",
+                    "basketbol maydonchasi"
+                ],
+                "Uyghur": [
+                    "باستېتبول مەيدانى"
+                ],
+                "Kazakh": [
+                    "баскетбол алаңы",
+                    "баскетбол алаңқайы"
+                ],
+                "Kyrgyz": [
+                    "баскетбол аянтчасы",
+                    "баскетбол талаасы"
+                ],
+                "Karakalpak": [
+                    "basketbol maydanshası",
+                    "basketbol maydanı"
+                ],
+                "Tatar": [
+                    "баскетбол мәйданы",
+                    "баскетбол мәйданчыгы"
+                ],
+                "Bashkir": [
+                    "баскетбол майҙансығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توپ مەيدانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "уйын майҙаны"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "i65590",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blood cell",
+    "en_definition": "either of two types of cells (erythrocytes and leukocytes) and sometimes including platelets",
+    "tr_word": "kan hücresi",
+    "tr_definition": "Kanda bulunan alyuvar, akyuvar ve bazen trombositleri de kapsayan hücrelerin genel adı.",
+    "ru_word": "клетка крови",
+    "ru_definition": "Любой из типов клеток (эритроциты и лейкоциты), а иногда и тромбоциты, находящиеся в крови.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kan hücresi",
+                    "kan yuvarı",
+                    "kan taneciği"
+                ],
+                "Azerbaijani": [
+                    "qan hüceyrəsi",
+                    "qan kürəciyi"
+                ],
+                "Turkmen": [
+                    "gan öýjügi",
+                    "gan dänijigi"
+                ],
+                "Uzbek": [
+                    "qon hujayrasi",
+                    "qon tanchasi"
+                ],
+                "Uyghur": [
+                    "قان ھۈجەيرىسى",
+                    "قان دانىچىسى"
+                ],
+                "Kazakh": [
+                    "қан жасушасы",
+                    "қан түйіршігі"
+                ],
+                "Kyrgyz": [
+                    "кан клеткасы",
+                    "кан бүртүкчөсү",
+                    "кан денечеси"
+                ],
+                "Karakalpak": [
+                    "qan túyіrshіgі",
+                    "qan deneshesi"
+                ],
+                "Tatar": [
+                    "кан күзәнәге",
+                    "кан тәнчеге"
+                ],
+                "Bashkir": [
+                    "ҡан күҙәнәге",
+                    "ҡан тәнсеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қан клеткасы"
+                ],
+                "Karakalpak": [
+                    "qan kletkası"
+                ]
+            }
+        }
+    ]
+}

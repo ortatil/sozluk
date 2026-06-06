@@ -1,0 +1,199 @@
+# Social work
+| Field | Detail |
+|---|---|
+| **ID** | i41719 |
+| **English** | social work |
+| **Type** | noun |
+| **Definition** | any of various services designed to aid the poor and aged and to increase the welfare of children |
+| **Source** | common |
+| **Ortatil** | qayırımdılıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qayırımdılıq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қайырымдылық | qayırımdılıq |
+| жәрдем | järdem |
+| **Kyrgyz** | |
+| кайрымдуулук | kayrımduuluk |
+
+```json
+{
+    "id": "i41719",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "social work",
+    "en_definition": "any of various services designed to aid the poor and aged and to increase the welfare of children",
+    "tr_word": "sosyal hizmet",
+    "tr_definition": "yoksullara, yaşlılara yardım etmek ve çocukların refahını artırmak için tasarlanmış çeşitli hizmetlerin bütünü",
+    "ru_word": "социальная работа",
+    "ru_definition": "различные виды услуг, направленные на помощь малоимущим и пожилым людям, а также на повышение благосостояния детей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "içtimai hizmet"
+                ],
+                "Azerbaijani": [
+                    "ictimai yardım"
+                ],
+                "Uzbek": [
+                    "ijtimoiy xizmat",
+                    "ijtimoiy yordam",
+                    "ijtimoiy faoliyat"
+                ],
+                "Uyghur": [
+                    "ئىجتىمائىي خىزمەت",
+                    "ئىجتىمائىي پاراۋانلىق خىزمىتى"
+                ],
+                "Tatar": [
+                    "иҗтимагый хезмәт",
+                    "иҗтимагый ярдәм"
+                ],
+                "Bashkir": [
+                    "ижтимағи ярҙам",
+                    "ижтимағи хеҙмәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sosyal hizmet",
+                    "sosyal yardım"
+                ],
+                "Azerbaijani": [
+                    "sosial iş",
+                    "sosial xidmət"
+                ],
+                "Turkmen": [
+                    "sosial hyzmat"
+                ],
+                "Kyrgyz": [
+                    "социалдык иш"
+                ],
+                "Karakalpak": [
+                    "sociallıq xızmet"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xeyriyyəçilik"
+                ],
+                "Turkmen": [
+                    "haýyr-sahawat işi"
+                ],
+                "Uzbek": [
+                    "xayriya ishi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "خەلق پاراۋانلىقى"
+                ],
+                "Tatar": [
+                    "халыкка ярдәм күрсәтү"
+                ],
+                "Bashkir": [
+                    "халыҡҡа ярҙам күрһәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қайырымдылық"
+                ],
+                "Kyrgyz": [
+                    "кайрымдуулук"
+                ],
+                "Karakalpak": [
+                    "qayırqomlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jemgyýetçilik hyzmaty",
+                    "jemgyýetçilik kömegi"
+                ],
+                "Karakalpak": [
+                    "jámiyetlik xızmet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әлеуметтік жұмыс"
+                ],
+                "Kyrgyz": [
+                    "элдик кызмат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жәрдем"
+                ],
+                "Karakalpak": [
+                    "járdem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kamu hizmeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоғамдық қызмет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коомдук иш"
+                ]
+            }
+        }
+    ]
+}
+```
+

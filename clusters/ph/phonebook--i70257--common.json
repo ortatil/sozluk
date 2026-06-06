@@ -1,0 +1,109 @@
+{
+    "id": "i70257",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "phonebook",
+    "en_definition": "a directory containing an alphabetical list of telephone subscribers and their telephone numbers",
+    "tr_word": "telefon rehberi",
+    "tr_definition": "telefon abonelerinin ve telefon numaralarının alfabetik listesini içeren dizin",
+    "ru_word": "телефонная книга",
+    "ru_definition": "справочник, содержащий алфавитный список телефонных абонентов и их номеров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telefon rehberi"
+                ],
+                "Azerbaijani": [
+                    "telefon kitabçası",
+                    "telefon dəftəri",
+                    "telefon siyahısı"
+                ],
+                "Turkmen": [
+                    "telefon depderçesi",
+                    "telefon sanawy",
+                    "telefon kitaby"
+                ],
+                "Uzbek": [
+                    "telefon kitobi",
+                    "telefon daftari",
+                    "telefon koʻrsatkichi"
+                ],
+                "Uyghur": [
+                    "تېلېفون دەپتىرى",
+                    "تېلېفون نومۇرلار جەدۋىلى",
+                    "تېلېفون تىزىملىكى"
+                ],
+                "Kyrgyz": [
+                    "телефон китепчеси",
+                    "телефон тизмеси"
+                ],
+                "Karakalpak": [
+                    "telefon kitapshası",
+                    "telefon dizimi",
+                    "telefon maǵlıumatnaması"
+                ],
+                "Tatar": [
+                    "телефон белешмәлеге",
+                    "телефон китабы"
+                ],
+                "Bashkir": [
+                    "телефон китабы",
+                    "телефон белешмәлеге",
+                    "телефон исемлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fihrist"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "numara defteri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "raqamlar roʻyxati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тізімдік",
+                    "тізімдеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "анықтамалық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "байланыш китеби"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "белешмәлек"
+                ]
+            }
+        }
+    ]
+}

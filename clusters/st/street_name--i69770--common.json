@@ -1,0 +1,73 @@
+{
+    "id": "i69770",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "street name",
+    "en_definition": "the name of a street",
+    "tr_word": "sokak adı",
+    "tr_definition": "bir sokağa veya caddeye verilen isim",
+    "ru_word": "название улицы",
+    "ru_definition": "официальное наименование, присвоенное улице",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "küçə adı",
+                    "küçənin adı"
+                ],
+                "Turkmen": [
+                    "köçe ady",
+                    "köçäniň ady"
+                ],
+                "Uzbek": [
+                    "ko'cha nomi",
+                    "ko'cha oti"
+                ],
+                "Uyghur": [
+                    "كوچا ئىسمى",
+                    "كوچا نامى"
+                ],
+                "Kazakh": [
+                    "көше атауы",
+                    "көше есімі"
+                ],
+                "Kyrgyz": [
+                    "көчө аты",
+                    "көчөнүн аты"
+                ],
+                "Karakalpak": [
+                    "kóshe atı",
+                    "kóshe ataması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "урам исеме",
+                    "урам атамасы"
+                ],
+                "Bashkir": [
+                    "урам исеме",
+                    "урам атамаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sokak adı",
+                    "sokak ismi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cadde ismi"
+                ]
+            }
+        }
+    ]
+}

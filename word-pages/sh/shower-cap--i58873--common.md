@@ -1,0 +1,167 @@
+# Shower cap
+| Field | Detail |
+|---|---|
+| **ID** | i58873 |
+| **English** | shower cap |
+| **Type** | noun |
+| **Definition** | a tight cap worn to keep hair dry while showering |
+| **Source** | common |
+| **Ortatil** | başlıq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| башлыҡ | başlıq |
+
+```json
+{
+    "id": "i58873",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shower cap",
+    "en_definition": "a tight cap worn to keep hair dry while showering",
+    "tr_word": "duş bonesi",
+    "tr_definition": "Duş alırken saçların ıslanmasını önlemek için başa takılan plastik başlık.",
+    "ru_word": "шапочка для душа",
+    "ru_definition": "Плотно прилегающая шапочка, которую надевают во время принятия душа, чтобы волосы оставались сухими.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "duş bonesi",
+                    "duş başlığı"
+                ],
+                "Azerbaijani": [
+                    "duş papağı"
+                ],
+                "Turkmen": [
+                    "duş telpegi"
+                ],
+                "Kyrgyz": [
+                    "душ калпагы"
+                ],
+                "Karakalpak": [
+                    "dus qalpaǵı"
+                ],
+                "Tatar": [
+                    "душ калфагы"
+                ],
+                "Bashkir": [
+                    "душ кәпәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwa düşülýän telpek",
+                    "suw geçirmeýän telpek"
+                ],
+                "Uzbek": [
+                    "suv o'tkazmaydigan qalpoq"
+                ],
+                "Uyghur": [
+                    "سۇ ئۆتمەس دوپپا"
+                ],
+                "Kazakh": [
+                    "су өткізбейтін қалпақ"
+                ],
+                "Kyrgyz": [
+                    "суу өткөрбөс калпак"
+                ],
+                "Karakalpak": [
+                    "suo ótkermeytuǵın qalpaq"
+                ],
+                "Tatar": [
+                    "су үткәрми торган калфак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бас киім"
+                ],
+                "Karakalpak": [
+                    "bas kiyim"
+                ],
+                "Tatar": [
+                    "баш киеме"
+                ],
+                "Bashkir": [
+                    "башлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жуыну қалпағы"
+                ],
+                "Kyrgyz": [
+                    "жуунуучу калпак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "banyo bonesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çimmək papağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hamam papağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "cho'milish qalpoqchasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dush qalpoqchasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۇيۇنۇش دوپپىسى",
+                    "يۇيۇنۇش قالپىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу үткәрмәй торған кәпәс"
+                ]
+            }
+        }
+    ]
+}
+```
+

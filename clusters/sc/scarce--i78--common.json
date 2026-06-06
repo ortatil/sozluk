@@ -1,0 +1,191 @@
+{
+    "id": "i78",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "scarce",
+    "en_definition": "deficient in quantity or number compared with the demand",
+    "tr_word": "kıt",
+    "tr_definition": "ihtiyaca yetmeyecek kadar az olan, eksik",
+    "ru_word": "дефицитный",
+    "ru_definition": "находящийся в недостаточном количестве по сравнению со спросом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "az"
+                ],
+                "Azerbaijani": [
+                    "az"
+                ],
+                "Turkmen": [
+                    "az"
+                ],
+                "Uzbek": [
+                    "oz"
+                ],
+                "Kazakh": [
+                    "аз"
+                ],
+                "Kyrgyz": [
+                    "аз"
+                ],
+                "Karakalpak": [
+                    "az"
+                ],
+                "Tatar": [
+                    "аз"
+                ],
+                "Bashkir": [
+                    "аҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıt"
+                ],
+                "Azerbaijani": [
+                    "qıt"
+                ],
+                "Turkmen": [
+                    "gyt"
+                ],
+                "Uzbek": [
+                    "qahat"
+                ],
+                "Uyghur": [
+                    "قەھەت"
+                ],
+                "Tatar": [
+                    "кыт"
+                ],
+                "Bashkir": [
+                    "ҡыт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kəm"
+                ],
+                "Turkmen": [
+                    "kem",
+                    "kemçil"
+                ],
+                "Uzbek": [
+                    "kam"
+                ],
+                "Uyghur": [
+                    "كەمچىل",
+                    "كەم"
+                ],
+                "Kyrgyz": [
+                    "кем"
+                ],
+                "Karakalpak": [
+                    "kem"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сирек"
+                ],
+                "Kyrgyz": [
+                    "сейрек"
+                ],
+                "Karakalpak": [
+                    "sirek"
+                ],
+                "Tatar": [
+                    "сирәк"
+                ],
+                "Bashkir": [
+                    "һирәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nadir"
+                ],
+                "Azerbaijani": [
+                    "nadir"
+                ],
+                "Turkmen": [
+                    "nedir"
+                ],
+                "Uzbek": [
+                    "nodir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taqchil"
+                ],
+                "Uyghur": [
+                    "تاپچىل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тапшы"
+                ],
+                "Karakalpak": [
+                    "tapshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тартыш"
+                ],
+                "Bashkir": [
+                    "тәнҡис"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eksik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жеткіліксіз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұқтаж"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәнәкыйль"
+                ]
+            }
+        }
+    ]
+}

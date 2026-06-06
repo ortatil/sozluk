@@ -1,0 +1,112 @@
+{
+    "id": "i90568",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "horse doctor",
+    "en_definition": "a veterinarian who treats horses",
+    "tr_word": "baytar",
+    "tr_definition": "Atları ve diğer hayvanları tedavi eden veteriner hekim.",
+    "ru_word": "коновал",
+    "ru_definition": "Ветеринар, специализирующийся на лечении лошадей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "at həkimi"
+                ],
+                "Turkmen": [
+                    "at lukmany",
+                    "at tebibi"
+                ],
+                "Uyghur": [
+                    "ئات دوختۇرى"
+                ],
+                "Kazakh": [
+                    "ат дәрігері"
+                ],
+                "Kyrgyz": [
+                    "ат дарыгери"
+                ],
+                "Karakalpak": [
+                    "at emshisi"
+                ],
+                "Tatar": [
+                    "ат табибы",
+                    "ат ветеринары",
+                    "ат дәвалаучы"
+                ],
+                "Bashkir": [
+                    "ат табибы",
+                    "ат дауалаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baytar"
+                ],
+                "Azerbaijani": [
+                    "baytar"
+                ],
+                "Turkmen": [
+                    "baytal"
+                ],
+                "Uzbek": [
+                    "baytalchi",
+                    "baytor"
+                ],
+                "Uyghur": [
+                    "بايتار"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mol do'xtiri"
+                ],
+                "Kazakh": [
+                    "мал дәрігері"
+                ],
+                "Kyrgyz": [
+                    "мал доктур"
+                ],
+                "Karakalpak": [
+                    "mal dárigeri",
+                    "mal shipakeri"
+                ],
+                "Bashkir": [
+                    "мал табибы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "veteriner"
+                ],
+                "Kazakh": [
+                    "ветеринар"
+                ],
+                "Kyrgyz": [
+                    "ветеринар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hayvan hekimi"
+                ],
+                "Uyghur": [
+                    "ھايۋانات دوختۇرى"
+                ]
+            }
+        }
+    ]
+}

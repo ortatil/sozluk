@@ -1,0 +1,108 @@
+{
+    "id": "i99308",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ginseng",
+    "en_definition": "aromatic root of ginseng plants",
+    "tr_word": "ginseng",
+    "tr_definition": "ginseng bitkisinin tıbbi amaçlarla kullanılan aromatik kökü",
+    "ru_word": "женьшень",
+    "ru_definition": "ароматный корень травянистых растений семейства аралиевых, используемый в медицине",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ginseng"
+                ],
+                "Azerbaijani": [
+                    "insan kökü"
+                ],
+                "Turkmen": [
+                    "žensen"
+                ],
+                "Uyghur": [
+                    "جىنسېڭ"
+                ],
+                "Kazakh": [
+                    "женьшень"
+                ],
+                "Kyrgyz": [
+                    "женьшень"
+                ],
+                "Karakalpak": [
+                    "jenshen"
+                ],
+                "Tatar": [
+                    "женьшень"
+                ],
+                "Bashkir": [
+                    "женьшень"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adam otu"
+                ],
+                "Azerbaijani": [
+                    "adamotu"
+                ],
+                "Turkmen": [
+                    "adam köki"
+                ],
+                "Uzbek": [
+                    "odamsiyoh"
+                ],
+                "Uyghur": [
+                    "ئادەمگىياھ"
+                ],
+                "Kazakh": [
+                    "адамтамыр"
+                ],
+                "Kyrgyz": [
+                    "адам-тамыр"
+                ],
+                "Karakalpak": [
+                    "adamtamır"
+                ],
+                "Tatar": [
+                    "адәм тамыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həyat kökü"
+                ],
+                "Uzbek": [
+                    "hayot ildizi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кеше тамыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тамыр-дарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тереклек тамыры"
+                ]
+            }
+        }
+    ]
+}

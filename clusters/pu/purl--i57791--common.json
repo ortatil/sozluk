@@ -1,0 +1,76 @@
+{
+    "id": "i57791",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "purl",
+    "en_definition": "a basic knitting stitch",
+    "tr_word": "ters örgü",
+    "tr_definition": "Örgüde ilmeğin kendinize doğru olan taraftan alınmasıyla oluşan temel dikiş türü.",
+    "ru_word": "изнаночная петля",
+    "ru_definition": "Основной вид петли в вязании, при котором нить располагается перед спицей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ters ilmek",
+                    "ters örgü"
+                ],
+                "Azerbaijani": [
+                    "tərs ilmə",
+                    "tərs toxunuş"
+                ],
+                "Turkmen": [
+                    "ters ilme",
+                    "ters örüm"
+                ],
+                "Uzbek": [
+                    "ters chok"
+                ],
+                "Uyghur": [
+                    "تەتۈر چىش"
+                ],
+                "Kazakh": [
+                    "теріс ілмек",
+                    "теріс тоқу"
+                ],
+                "Kyrgyz": [
+                    "терс согуу",
+                    "терс чырмак",
+                    "терс илмек"
+                ],
+                "Karakalpak": [
+                    "ters toqıs",
+                    "ters ilmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тискәре бәйләм",
+                    "тискәре җөй",
+                    "тискәре элмәк"
+                ],
+                "Bashkir": [
+                    "тиҫкәре бәйләнеш",
+                    "тиҫкәре петля"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chap chok"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەتۈر توقۇلما"
+                ]
+            }
+        }
+    ]
+}

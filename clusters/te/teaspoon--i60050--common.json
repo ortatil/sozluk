@@ -1,0 +1,88 @@
+{
+    "id": "i60050",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "teaspoon",
+    "en_definition": "a small spoon used for stirring tea or coffee; holds about one fluid dram",
+    "tr_word": "çay kaşığı",
+    "tr_definition": "Çay veya kahve karıştırmak için kullanılan, yaklaşık 5 mililitre hacmindeki küçük kaşık.",
+    "ru_word": "чайная ложка",
+    "ru_definition": "Маленькая ложка, используемая для помешивания чая или кофе, вмещающая около 5 миллилитров жидкости.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çay kaşığı"
+                ],
+                "Azerbaijani": [
+                    "çay qaşığı"
+                ],
+                "Uzbek": [
+                    "choy qoshiq"
+                ],
+                "Uyghur": [
+                    "چاي قوشۇقى"
+                ],
+                "Kazakh": [
+                    "шай қасық"
+                ],
+                "Kyrgyz": [
+                    "чай кашык"
+                ],
+                "Karakalpak": [
+                    "shay qasıq"
+                ],
+                "Tatar": [
+                    "чәй кашыгы"
+                ],
+                "Bashkir": [
+                    "сәй ҡалағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük kaşık"
+                ],
+                "Turkmen": [
+                    "kiçi çemçe"
+                ],
+                "Uzbek": [
+                    "kichik qoshiq"
+                ],
+                "Uyghur": [
+                    "كىچىك قوشۇق"
+                ],
+                "Kazakh": [
+                    "кішкене қасық"
+                ],
+                "Kyrgyz": [
+                    "кичи кашык"
+                ],
+                "Karakalpak": [
+                    "kіshkene qasıq"
+                ],
+                "Tatar": [
+                    "кече кашык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaý çemçesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәй ҡалаҡ"
+                ]
+            }
+        }
+    ]
+}

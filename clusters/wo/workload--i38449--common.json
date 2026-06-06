@@ -1,0 +1,151 @@
+{
+    "id": "i38449",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "workload",
+    "en_definition": "work that a person is expected to do in a specified time",
+    "tr_word": "iş yükü",
+    "tr_definition": "bir kişinin belirli bir süre içinde yapması beklenen iş miktarı",
+    "ru_word": "рабочая нагрузка",
+    "ru_definition": "объем работы, который человек должен выполнить за определенное время",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iş yükü",
+                    "iş yoğunluğu"
+                ],
+                "Azerbaijani": [
+                    "iş yükü",
+                    "iş həcmi"
+                ],
+                "Turkmen": [
+                    "iş ýüki"
+                ],
+                "Uzbek": [
+                    "ish hajmi",
+                    "ish yuki"
+                ],
+                "Kyrgyz": [
+                    "иш көлөмү"
+                ],
+                "Bashkir": [
+                    "эш йөкләмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "iş möçberi",
+                    "iş agramy"
+                ],
+                "Uyghur": [
+                    "ئىش مىقدارى"
+                ],
+                "Karakalpak": [
+                    "is kólemi"
+                ],
+                "Tatar": [
+                    "эш күләме"
+                ],
+                "Bashkir": [
+                    "эш күләме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vəzifə öhdəliyi"
+                ],
+                "Uzbek": [
+                    "vazifa koʻlami"
+                ],
+                "Uyghur": [
+                    "ۋەزىپە مىقدارى"
+                ],
+                "Tatar": [
+                    "вазифа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "жүк"
+                ],
+                "Karakalpak": [
+                    "júkleme"
+                ],
+                "Tatar": [
+                    "йөкләмә"
+                ],
+                "Bashkir": [
+                    "йөкләмә",
+                    "йөк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mesai"
+                ],
+                "Azerbaijani": [
+                    "məşğuliyyət"
+                ],
+                "Tatar": [
+                    "мәшгульлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмыс көлемі",
+                    "жұмыс жүктемесі"
+                ],
+                "Kyrgyz": [
+                    "жумуш көлөмү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "милдет"
+                ],
+                "Karakalpak": [
+                    "minet kólemi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "külfet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىزمەت يۈكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еңбек мөлшері"
+                ]
+            }
+        }
+    ]
+}

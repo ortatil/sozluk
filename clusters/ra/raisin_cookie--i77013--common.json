@@ -1,0 +1,82 @@
+{
+    "id": "i77013",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "raisin cookie",
+    "en_definition": "cookie containing raisins",
+    "tr_word": "üzümlü kurabiye",
+    "tr_definition": "içinde kuru üzüm bulunan kurabiye",
+    "ru_word": "печенье с изюмом",
+    "ru_definition": "печенье, содержащее изюм",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üzümlü kurabiye"
+                ],
+                "Turkmen": [
+                    "üzümli köke"
+                ],
+                "Uyghur": [
+                    "ئۈزۈملۈك پېچىنە",
+                    "ئۈزۈملۈك توقاچ"
+                ],
+                "Tatar": [
+                    "йөземле печенье",
+                    "йөземле күмәч",
+                    "йөземле камыр ашы"
+                ],
+                "Bashkir": [
+                    "йөҙөмлө печенье",
+                    "йөҙөмлө күмәс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mayizli pechenye",
+                    "mayizli kulcha"
+                ],
+                "Kazakh": [
+                    "мейізді печенье",
+                    "мейізді тоқаш"
+                ],
+                "Kyrgyz": [
+                    "мейиздүү токоч",
+                    "мейиздүү күлчө",
+                    "мейиздүү печенье"
+                ],
+                "Karakalpak": [
+                    "meyizli pechene",
+                    "meyizli biskwit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuru üzümlü kurabiye"
+                ],
+                "Uyghur": [
+                    "قۇرۇق ئۈزۈملۈك پېچىنە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kişmişli peçenye",
+                    "kişmişli qurabiyə",
+                    "kişmişli külçə"
+                ],
+                "Turkmen": [
+                    "kişmişli köke",
+                    "kişmişli pişme"
+                ]
+            }
+        }
+    ]
+}

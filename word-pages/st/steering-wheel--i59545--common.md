@@ -1,0 +1,185 @@
+# Steering wheel
+| Field | Detail |
+|---|---|
+| **ID** | i59545 |
+| **English** | steering wheel |
+| **Type** | noun |
+| **Definition** | a handwheel that is used for steering |
+| **Source** | common |
+| **Ortatil** | rul |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **rul** | **sükän** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 0.67 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.20 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **3.33** | **1.37** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| رول | rol |
+| **Kazakh** | |
+| рөл | röl |
+| тізгін | tizgin |
+| **Kyrgyz** | |
+| руль | rul |
+| башкаргыч | başkargıç |
+| **Tatar** | |
+| руль | rul |
+| тәгәрмәч | tägärmäç |
+| **Bashkir** | |
+| руль | rul |
+| сөкә | sökä |
+| тәгәрмәс | tägärmäs |
+
+```json
+{
+    "id": "i59545",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "steering wheel",
+    "en_definition": "a handwheel that is used for steering",
+    "tr_word": "direksiyon",
+    "tr_definition": "Bir taşıta yön vermeye yarayan tekerlek biçimindeki parça.",
+    "ru_word": "руль",
+    "ru_definition": "Устройство в виде колеса для управления направлением движения транспортного средства.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "rul"
+                ],
+                "Uzbek": [
+                    "rul"
+                ],
+                "Uyghur": [
+                    "رول",
+                    "رول چاقى"
+                ],
+                "Kazakh": [
+                    "рөл"
+                ],
+                "Kyrgyz": [
+                    "руль"
+                ],
+                "Karakalpak": [
+                    "rul"
+                ],
+                "Tatar": [
+                    "руль"
+                ],
+                "Bashkir": [
+                    "руль"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sükan",
+                    "sükan çarxı"
+                ],
+                "Turkmen": [
+                    "süýergi"
+                ],
+                "Bashkir": [
+                    "сөкә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "басқару дөңгелегі"
+                ],
+                "Kyrgyz": [
+                    "башкаргыч",
+                    "башкаруу дөңгөлөгү"
+                ],
+                "Karakalpak": [
+                    "basqarıo dóńgelegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәгәрмәч"
+                ],
+                "Bashkir": [
+                    "тәгәрмәс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "direksiyon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dümen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çarh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chambar",
+                    "chambarak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тізгін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shturwal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "идарә тәгәрмәче"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,115 @@
+{
+    "id": "i37598",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chokehold",
+    "en_definition": "a restraining hold; someone loops the arm around the neck of another person in a tight grip, usually from behind",
+    "tr_word": "boğma tutuşu",
+    "tr_definition": "Bir kişinin kolunu diğerinin boynuna dolayarak uyguladığı, nefes almayı veya kan akışını engelleyen kısıtlayıcı tutuş.",
+    "ru_word": "удушающий прием",
+    "ru_definition": "Захват шеи противника рукой или ногой с целью вызвать удушье или потерю сознания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boğazlama",
+                    "boğma"
+                ],
+                "Azerbaijani": [
+                    "boğma",
+                    "boğazlama",
+                    "boğucu fənd"
+                ],
+                "Turkmen": [
+                    "bogma",
+                    "bogujy tilsim",
+                    "boýun gysma"
+                ],
+                "Uzbek": [
+                    "boʻgʻish",
+                    "boʻgʻma",
+                    "boʻgʻuvchi usul"
+                ],
+                "Uyghur": [
+                    "بوغۇش",
+                    "بوغۇپ تۇتۇش",
+                    "بوغۇمداق"
+                ],
+                "Tatar": [
+                    "бугу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kilit"
+                ],
+                "Kazakh": [
+                    "қылқындыру",
+                    "қылқындырма"
+                ],
+                "Karakalpak": [
+                    "qılqındıru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boyunduruk"
+                ],
+                "Karakalpak": [
+                    "buındıru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алқымдау"
+                ],
+                "Karakalpak": [
+                    "alqımnan alu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "буып алу",
+                    "буу алымы"
+                ],
+                "Bashkir": [
+                    "быуып алыу",
+                    "быуыу алымы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұншықтыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "муунтуу",
+                    "муунтма",
+                    "муунтма ыкма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "быуыу"
+                ]
+            }
+        }
+    ]
+}

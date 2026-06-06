@@ -1,0 +1,248 @@
+# Run low
+| Field | Detail |
+|---|---|
+| **ID** | i27584 |
+| **English** | run low |
+| **Type** | verb |
+| **Definition** | to be spent or finished |
+| **Source** | common |
+| **Ortatil** | tükänmäk, azaymaq, kemäymämäk, bitmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tükänmäk** | **azaymaq** | **kemäymämäk** | **bitmäk** |
+|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ✅ | ✅ |
+| Azerbaijani | ✅ | ✅ | ❌ | ✅ |
+| Turkmen | ✅ | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ❌ | ✅ | ✅ |
+| Uyghur | ✅ | ✅ | ✅ | ❌ |
+| Kazakh | ❌ | ✅ | ❌ | ✅ |
+| Kyrgyz | ✅ | ✅ | ✅ | ❌ |
+| Karakalpak | ❌ | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ❌ | ✅ |
+| Bashkir | ✅ | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 1 | 0.67 | 0.67 |
+| *Qarluq Subtotal* | 1 | 0.50 | 1 | 0.50 |
+| *Qipchaq Subtotal* | 0.60 | 1 | 0.20 | 0.60 |
+| *In All* | ✅ | ✅ | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |  |  |
+| **O'TQ** | **3.60** | **3.50** | **2.87** | **2.77** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئازايماق | azaymaq |
+| تۈگىمەك | tügimäk |
+| كېمەيمەك | kemäymäk |
+| **Kazakh** | |
+| азаю | azayu |
+| біту | bitu |
+| таусылу | tausılu |
+| сарқылу | sarqılu |
+| **Kyrgyz** | |
+| азаюу | azayuu |
+| түгөнүү | tügönüü |
+| кемиш | kemiş |
+| бүтүү | bütüü |
+| **Tatar** | |
+| азаю | azayu |
+| төкәнү | tökänü |
+| бетү | betü |
+| кыскару | kıskaru |
+| **Bashkir** | |
+| аҙайыу | azayıu |
+| төкәнеү | tökäneü |
+| бөтөү | bötöü |
+| тамамланыу | tamamlanıu |
+
+```json
+{
+    "id": "i27584",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "run low",
+    "en_definition": "to be spent or finished",
+    "tr_word": "tükenmek",
+    "tr_definition": "bitmek üzere olmak veya azalmak",
+    "ru_word": "заканчиваться",
+    "ru_definition": "быть почти израсходованным или подходить к концу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "azalmak",
+                    "eksilmek"
+                ],
+                "Azerbaijani": [
+                    "azalmaq"
+                ],
+                "Turkmen": [
+                    "azalmak"
+                ],
+                "Uyghur": [
+                    "ئازايماق"
+                ],
+                "Kazakh": [
+                    "азаю"
+                ],
+                "Kyrgyz": [
+                    "азаюу"
+                ],
+                "Karakalpak": [
+                    "azayıo"
+                ],
+                "Tatar": [
+                    "азаю"
+                ],
+                "Bashkir": [
+                    "аҙайыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tükenmek"
+                ],
+                "Azerbaijani": [
+                    "tükənmək"
+                ],
+                "Turkmen": [
+                    "tükenmek"
+                ],
+                "Uzbek": [
+                    "tugamoq"
+                ],
+                "Uyghur": [
+                    "تۈگىمەك",
+                    "تۈگىيەي دەپ قالماق"
+                ],
+                "Kyrgyz": [
+                    "түгөнүү"
+                ],
+                "Tatar": [
+                    "төкәнү"
+                ],
+                "Bashkir": [
+                    "төкәнеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bitmek"
+                ],
+                "Azerbaijani": [
+                    "bitmək"
+                ],
+                "Uzbek": [
+                    "bitmoq"
+                ],
+                "Kazakh": [
+                    "біту"
+                ],
+                "Karakalpak": [
+                    "bitio"
+                ],
+                "Tatar": [
+                    "бетү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kalmamak"
+                ],
+                "Turkmen": [
+                    "kemelmek"
+                ],
+                "Uzbek": [
+                    "kamaymoq"
+                ],
+                "Uyghur": [
+                    "كېمەيمەك"
+                ],
+                "Kyrgyz": [
+                    "кемиш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qurtarmaq"
+                ],
+                "Turkmen": [
+                    "gutarmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sarflanmoq"
+                ],
+                "Karakalpak": [
+                    "sarp bolıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таусылу"
+                ],
+                "Karakalpak": [
+                    "taosılıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бүтүү"
+                ],
+                "Bashkir": [
+                    "бөтөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ado boʻlmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сарқылу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыскару"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тамамланыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

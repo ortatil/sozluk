@@ -1,0 +1,85 @@
+{
+    "id": "i56276",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "miniskirt",
+    "en_definition": "a very short skirt",
+    "tr_word": "mini etek",
+    "tr_definition": "dizlerin oldukça üzerinde biten, çok kısa etek",
+    "ru_word": "мини-юбка",
+    "ru_definition": "очень короткая юбка, подол которой находится значительно выше колен",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısa etek"
+                ],
+                "Azerbaijani": [
+                    "qısa ətək",
+                    "qısa tuman"
+                ],
+                "Turkmen": [
+                    "gysga ýubka"
+                ],
+                "Uzbek": [
+                    "qisqa yubka"
+                ],
+                "Uyghur": [
+                    "قىسقا يوپكا"
+                ],
+                "Kazakh": [
+                    "қысқа белдемше",
+                    "қысқа етек"
+                ],
+                "Kyrgyz": [
+                    "кыска юбка",
+                    "кыска этек"
+                ],
+                "Karakalpak": [
+                    "qısqa beldemshe",
+                    "qısqa yubka"
+                ],
+                "Tatar": [
+                    "кыска итәк",
+                    "кыска итәкчек"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡа итәк",
+                    "ҡыҫҡа итәклек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kelte ýubka"
+                ],
+                "Uzbek": [
+                    "kalta yubka"
+                ],
+                "Kazakh": [
+                    "келте белдемше"
+                ],
+                "Karakalpak": [
+                    "kelte beldemshe"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mini etek"
+                ],
+                "Azerbaijani": [
+                    "mini ətək"
+                ],
+                "Uyghur": [
+                    "مىنى يوپكا"
+                ]
+            }
+        }
+    ]
+}

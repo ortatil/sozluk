@@ -1,0 +1,195 @@
+# Health care
+| Field | Detail |
+|---|---|
+| **ID** | i40964 |
+| **English** | health care |
+| **Type** | noun |
+| **Definition** | the preservation of mental and physical health by preventing or treating illness through services offered by the health profession |
+| **Source** | common |
+| **Ortatil** | sähiyyä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **şipaägerlik** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سەھىيە | sähiyä |
+| **Kazakh** | |
+| емдеу-сауықтыру | yemdeu-sauıqtıru |
+| **Kyrgyz** | |
+| шыпаагерлик | şıpaagerlik |
+| **Tatar** | |
+| шифа | şifa |
+| дәвалау | dävalau |
+
+```json
+{
+    "id": "i40964",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "health care",
+    "en_definition": "the preservation of mental and physical health by preventing or treating illness through services offered by the health profession",
+    "tr_word": "sağlık hizmetleri",
+    "tr_definition": "sağlık mesleği tarafından sunulan hizmetler aracılığıyla hastalıkları önleyerek veya tedavi ederek zihinsel ve fiziksel sağlığın korunması",
+    "ru_word": "здравоохранение",
+    "ru_definition": "сохранение психического и физического здоровья путем предотвращения или лечения заболеваний с помощью услуг, предлагаемых медицинскими работниками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağlık hizmeti",
+                    "sağlık bakımı"
+                ],
+                "Azerbaijani": [
+                    "sağlamlığın qorunması"
+                ],
+                "Turkmen": [
+                    "saglygy goraýyş",
+                    "saglyk hyzmaty"
+                ],
+                "Uzbek": [
+                    "sogʻliqni saqlash"
+                ],
+                "Uyghur": [
+                    "ساقلىقنى ساقلاش"
+                ],
+                "Bashkir": [
+                    "һаулыҡ һаҡлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tıbbi bakım"
+                ],
+                "Azerbaijani": [
+                    "tibbi xidmət"
+                ],
+                "Uzbek": [
+                    "tibbiy xizmat",
+                    "tibbiyot"
+                ],
+                "Uyghur": [
+                    "تېببىي مۇلازىمەت"
+                ],
+                "Karakalpak": [
+                    "tábiplik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shifo ishi"
+                ],
+                "Kyrgyz": [
+                    "шыпаагерлик"
+                ],
+                "Karakalpak": [
+                    "shipakerlik"
+                ],
+                "Tatar": [
+                    "шифа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "саламаттык сактоо"
+                ],
+                "Karakalpak": [
+                    "salamatlıqtı saqlao"
+                ],
+                "Tatar": [
+                    "сәламәтлек саклау"
+                ],
+                "Bashkir": [
+                    "сәләмәтлек һаҡлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıhhi hizmet"
+                ],
+                "Azerbaijani": [
+                    "səhiyyə"
+                ],
+                "Uyghur": [
+                    "سەھىيە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "денсаулық сақтау"
+                ],
+                "Kyrgyz": [
+                    "ден соолукту сактоо"
+                ],
+                "Karakalpak": [
+                    "densaolıqtı saqlao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lukmançylyk hyzmaty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "емдеу-сауықтыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "медициналық көмек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дәвалау"
+                ]
+            }
+        }
+    ]
+}
+```
+

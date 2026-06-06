@@ -1,0 +1,124 @@
+{
+    "id": "i90737",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "interviewer",
+    "en_definition": "a person who conducts an interview",
+    "tr_word": "mülakatçı",
+    "tr_definition": "görüşme veya mülakat yapan kimse",
+    "ru_word": "интервьюер",
+    "ru_definition": "лицо, которое проводит интервью или опрос",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sorğuçu"
+                ],
+                "Turkmen": [
+                    "sorag-jogap alyp baryjy"
+                ],
+                "Kyrgyz": [
+                    "суроо-жооп жүргүзүүчү"
+                ],
+                "Karakalpak": [
+                    "sorastırıoshı"
+                ],
+                "Tatar": [
+                    "сораштыручы"
+                ],
+                "Bashkir": [
+                    "һорау алыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söhbetdeş",
+                    "söhbetdeşlik geçiriji"
+                ],
+                "Uzbek": [
+                    "suhbatdosh"
+                ],
+                "Uyghur": [
+                    "سۆھبەت ئالغۇچى"
+                ],
+                "Kazakh": [
+                    "сұхбат алушы",
+                    "сұхбат жүргізуші"
+                ],
+                "Karakalpak": [
+                    "sáubetshi",
+                    "sáubetlesioshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "savol-javob qiluvchi"
+                ],
+                "Uyghur": [
+                    "زىيارەت قىلغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "әңгәмәче"
+                ],
+                "Bashkir": [
+                    "әңгәмәсе",
+                    "әңгәмә ҡороусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müsahibəçi",
+                    "müsahibə aparan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muloqotchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇخبىر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тілдесуші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "маектешүүчү",
+                    "маектеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сөйләшүче"
+                ]
+            }
+        }
+    ]
+}

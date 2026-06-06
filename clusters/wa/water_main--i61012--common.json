@@ -1,0 +1,145 @@
+{
+    "id": "i61012",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water main",
+    "en_definition": "main (a pipe or conduit) for conveying water",
+    "tr_word": "ana su borusu",
+    "tr_definition": "Suyu kaynaktan veya depodan şehre dağıtan ana boru hattı.",
+    "ru_word": "магистральный водопровод",
+    "ru_definition": "Главная труба или канал в системе водоснабжения для подачи воды.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "su kəməri"
+                ],
+                "Turkmen": [
+                    "suw geçirijisi",
+                    "suw magistraly"
+                ],
+                "Uzbek": [
+                    "suv quvuri",
+                    "suv tarmog‘i"
+                ],
+                "Uyghur": [
+                    "سۇ غول تۇرۇبىسى"
+                ],
+                "Kazakh": [
+                    "су құбыры",
+                    "су желісі",
+                    "су арнасы"
+                ],
+                "Kyrgyz": [
+                    "суу түтүгү",
+                    "суу өткөргүч"
+                ],
+                "Karakalpak": [
+                    "suo tarmaǵı",
+                    "suo qubırı"
+                ],
+                "Tatar": [
+                    "су үткәргеч",
+                    "су юлы",
+                    "су торбасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ana boru",
+                    "ana su hattı"
+                ],
+                "Azerbaijani": [
+                    "ana su xətti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "isale hattı"
+                ],
+                "Uyghur": [
+                    "ئاساسىي سۇ تۇرۇبىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "suw turbasy",
+                    "suw akymy"
+                ],
+                "Uzbek": [
+                    "suv yo‘li"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şebeke borusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əsas su borusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "magistral quvur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باش سۇ تۇرۇبىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "негизги түтүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bas qubır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу үткәргес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу юлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төп һыу торбаһы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "i72264",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "arabic numeral",
+    "en_definition": "one of the symbols 1,2,3,4,5,6,7,8,9,0",
+    "tr_word": "Arap rakamı",
+    "tr_definition": "1, 2, 3, 4, 5, 6, 7, 8, 9 ve 0 sembollerinden her biri",
+    "ru_word": "арабская цифра",
+    "ru_definition": "любой из десяти знаков: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Arap rakamları"
+                ],
+                "Azerbaijani": [
+                    "ərəb rəqəmləri"
+                ],
+                "Turkmen": [
+                    "arap sanlary",
+                    "arap rakamlary"
+                ],
+                "Uzbek": [
+                    "arab raqami"
+                ],
+                "Uyghur": [
+                    "ئەرەب رەقىمى"
+                ],
+                "Kazakh": [
+                    "араб цифрлары",
+                    "араб сандары"
+                ],
+                "Kyrgyz": [
+                    "араб цифрасы",
+                    "араб сандары"
+                ],
+                "Karakalpak": [
+                    "arab cifrları"
+                ],
+                "Tatar": [
+                    "гарәп цифрлары",
+                    "гарәп саннары"
+                ],
+                "Bashkir": [
+                    "ғәрәп цифрҙары",
+                    "ғәрәп һандары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rakam"
+                ],
+                "Turkmen": [
+                    "rakamlar"
+                ],
+                "Uzbek": [
+                    "raqam"
+                ],
+                "Uyghur": [
+                    "رەقەم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hind-ərəb rəqəmləri"
+                ],
+                "Kyrgyz": [
+                    "инди-араб цифралары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "цифрлар"
+                ],
+                "Karakalpak": [
+                    "cifrlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sanlar"
+                ]
+            }
+        }
+    ]
+}

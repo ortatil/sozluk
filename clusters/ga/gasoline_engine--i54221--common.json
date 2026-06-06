@@ -1,0 +1,89 @@
+{
+    "id": "i54221",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gasoline engine",
+    "en_definition": "an internal-combustion engine that burns gasoline; most automobiles are driven by gasoline engines",
+    "tr_word": "benzinli motor",
+    "tr_definition": "yakıt olarak benzin kullanan içten yanmalı motor türü",
+    "ru_word": "бензиновый двигатель",
+    "ru_definition": "двигатель внутреннего сгорания, работающий на бензине",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "benzinli motor",
+                    "benzinli makine"
+                ],
+                "Azerbaijani": [
+                    "benzin mühərriki",
+                    "benzinli mühərrik"
+                ],
+                "Turkmen": [
+                    "benzinli dwigatel",
+                    "benzinli motor"
+                ],
+                "Uzbek": [
+                    "benzinli dvigatel",
+                    "benzinli motor"
+                ],
+                "Uyghur": [
+                    "بېنزىن موتورى",
+                    "بېنزىن ماتورى",
+                    "بېنزىن قوزغاتقۇچى"
+                ],
+                "Kazakh": [
+                    "бензин қозғалтқышы",
+                    "бензин моторы"
+                ],
+                "Kyrgyz": [
+                    "бензин кыймылдаткычы",
+                    "бензин мотору"
+                ],
+                "Karakalpak": [
+                    "benzin qozǵaltqıshı",
+                    "benzin motorı"
+                ],
+                "Tatar": [
+                    "бензин моторы",
+                    "бензин двигателе"
+                ],
+                "Bashkir": [
+                    "бензин двигателе",
+                    "бензин моторы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "içten yanmalı motor"
+                ],
+                "Uzbek": [
+                    "ichki yonuv dvigateli"
+                ],
+                "Kyrgyz": [
+                    "ичтен күймө кыймылдаткыч"
+                ],
+                "Karakalpak": [
+                    "ishki janıo qozǵaltqıshı"
+                ],
+                "Tatar": [
+                    "эчке янулы мотор"
+                ],
+                "Bashkir": [
+                    "эске яныулы двигатель"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іштен жану қозғалтқышы"
+                ]
+            }
+        }
+    ]
+}

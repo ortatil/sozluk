@@ -1,0 +1,106 @@
+{
+    "id": "i56985",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paperweight",
+    "en_definition": "a weight used to hold down a stack of papers",
+    "tr_word": "kağıt ağırlığı",
+    "tr_definition": "kağıtların uçmasını veya dağılmasını önlemek için üzerlerine konulan ağırlık",
+    "ru_word": "пресс-папье",
+    "ru_definition": "тяжелый предмет, который кладут на бумаги, чтобы они не разлетались",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kağıt ağırlığı",
+                    "kağıt tutacağı"
+                ],
+                "Azerbaijani": [
+                    "kağızbasan",
+                    "kağız ağırlığı"
+                ],
+                "Turkmen": [
+                    "kagyz basgyjy",
+                    "kagyz basyjy"
+                ],
+                "Uzbek": [
+                    "qog'ozbosar",
+                    "qog'oz bosgich"
+                ],
+                "Uyghur": [
+                    "قەغەز باسقۇچ",
+                    "قەغەز باسقۇ",
+                    "قەغەز بېسىمى"
+                ],
+                "Kazakh": [
+                    "қағазбастырма",
+                    "қағазбасқыш"
+                ],
+                "Kyrgyz": [
+                    "кагаз баскыч"
+                ],
+                "Karakalpak": [
+                    "qaǵaz basqısh",
+                    "qaǵaz basqı"
+                ],
+                "Tatar": [
+                    "кәгазь баскыч",
+                    "кәгазь бастыргыч"
+                ],
+                "Bashkir": [
+                    "ҡағыҙбаҫҡыс",
+                    "ҡағыҙбаҫар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "agyrlyk"
+                ],
+                "Tatar": [
+                    "авырлык"
+                ],
+                "Bashkir": [
+                    "ауырлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "prespapye"
+                ],
+                "Azerbaijani": [
+                    "pres-papiye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бастырма"
+                ],
+                "Kyrgyz": [
+                    "баскыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "og'irlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оордук"
+                ]
+            }
+        }
+    ]
+}

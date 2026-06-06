@@ -1,0 +1,172 @@
+# Blowfly
+| Field | Detail |
+|---|---|
+| **ID** | i46998 |
+| **English** | blowfly |
+| **Type** | noun |
+| **Definition** | large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds |
+| **Source** | common |
+| **Ortatil** | kökşubun |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| көкшыбын | kökşıbın |
+
+```json
+{
+    "id": "i46998",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blowfly",
+    "en_definition": "large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds",
+    "tr_word": "leş sineği",
+    "tr_definition": "Genellikle metalik mavi veya yeşil renkli, yumurtalarını leşlere, dışkılara veya yaralara bırakan büyük ve tüylü bir sinek türü.",
+    "ru_word": "падальная муха",
+    "ru_definition": "Крупная, обычно волосатая муха с металлическим синим или зеленым блеском, откладывающая яйца в падаль, навоз или раны.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gök sinek"
+                ],
+                "Azerbaijani": [
+                    "göy milçək"
+                ],
+                "Turkmen": [
+                    "gök siňek"
+                ],
+                "Uzbek": [
+                    "koʻk pashsha"
+                ],
+                "Uyghur": [
+                    "كۆك چىۋىن",
+                    "گۆش چىۋىنى"
+                ],
+                "Kazakh": [
+                    "көкшыбын"
+                ],
+                "Kyrgyz": [
+                    "көк чымын"
+                ],
+                "Karakalpak": [
+                    "kók shıbın"
+                ],
+                "Tatar": [
+                    "күк чебен"
+                ],
+                "Bashkir": [
+                    "күк себен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeşil sinek"
+                ],
+                "Azerbaijani": [
+                    "yaşıl milçək"
+                ],
+                "Uyghur": [
+                    "يېشىل چىۋىن"
+                ],
+                "Tatar": [
+                    "яшел чебен"
+                ],
+                "Bashkir": [
+                    "йәшел себен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uly siňek"
+                ],
+                "Kazakh": [
+                    "өлексе шыбыны"
+                ],
+                "Karakalpak": [
+                    "ólekse shıbını"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ет шыбыны"
+                ],
+                "Tatar": [
+                    "ит чебене"
+                ],
+                "Bashkir": [
+                    "ит себене"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "leş sineği"
+                ],
+                "Azerbaijani": [
+                    "leş milçəyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mavi sinek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maslyk siňegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "goʻsht pashshasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zira pashsha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тарп чымын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чоң чымын"
+                ]
+            }
+        }
+    ]
+}
+```
+

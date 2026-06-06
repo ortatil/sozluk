@@ -1,0 +1,85 @@
+{
+    "id": "i59894",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "swivel chair",
+    "en_definition": "a chair that swivels on its base",
+    "tr_word": "döner koltuk",
+    "tr_definition": "Kendi ekseni etrafında dönebilen bir tabana sahip koltuk.",
+    "ru_word": "вращающееся кресло",
+    "ru_definition": "Стул или кресло, сиденье которого может вращаться вокруг своей оси.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aylanma kursi",
+                    "aylanadigan kursi",
+                    "aylanma o'rindiq"
+                ],
+                "Uyghur": [
+                    "ئايلانما ئورۇندۇق",
+                    "ئايلىنىدىغان ئورۇندۇق"
+                ],
+                "Kazakh": [
+                    "айналмалы орындық"
+                ],
+                "Karakalpak": [
+                    "aylanbalı orındıq"
+                ],
+                "Tatar": [
+                    "әйләнмәле урындык",
+                    "әйләнә торган урындык"
+                ],
+                "Bashkir": [
+                    "әйләнмәле ултырғыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fırlanan kürsü",
+                    "fırlanan oturacaq"
+                ],
+                "Turkmen": [
+                    "aylanýan oturgyç",
+                    "aylanýan kürsi"
+                ],
+                "Kyrgyz": [
+                    "айланма отургуч",
+                    "айланма орундук"
+                ],
+                "Karakalpak": [
+                    "aylanatın orındıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "döner koltuk",
+                    "döner sandalye"
+                ],
+                "Azerbaijani": [
+                    "dönən kürsü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұрылмалы орындық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өйөрөлмә ултырғыс"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "id": "i18828",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "there",
+    "en_definition": "in or at that place",
+    "tr_word": "orada",
+    "tr_definition": "o yerde, belirtilen yerde",
+    "ru_word": "там",
+    "ru_definition": "в том месте, не здесь",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "onda"
+                ],
+                "Kazakh": [
+                    "онда"
+                ],
+                "Kyrgyz": [
+                    "анда"
+                ],
+                "Karakalpak": [
+                    "onda"
+                ],
+                "Tatar": [
+                    "анда"
+                ],
+                "Bashkir": [
+                    "унда"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şol ýerde"
+                ],
+                "Kazakh": [
+                    "сол жерде"
+                ],
+                "Karakalpak": [
+                    "sol jerde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "orada"
+                ],
+                "Azerbaijani": [
+                    "orada",
+                    "ora"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ol ýerde"
+                ],
+                "Uzbek": [
+                    "ul yerda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "u yerda"
+                ],
+                "Uyghur": [
+                    "ئۇ يەردە",
+                    "ئۇ يەرگە",
+                    "ئۇ يەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ана жерде"
+                ],
+                "Karakalpak": [
+                    "ana jerde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тигинде"
+                ],
+                "Bashkir": [
+                    "тегендә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şurada"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ошол жерде"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тигил жерде"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шунда"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "u yoqda"
+                ]
+            }
+        }
+    ]
+}

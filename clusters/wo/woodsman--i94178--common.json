@@ -1,0 +1,101 @@
+{
+    "id": "i94178",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "woodsman",
+    "en_definition": "someone who lives in the woods",
+    "tr_word": "ormancı",
+    "tr_definition": "ormanda yaşayan veya orman işleriyle uğraşan kimse",
+    "ru_word": "лесник",
+    "ru_definition": "человек, живущий в лесу или работающий в лесном хозяйстве",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ormancı",
+                    "orman adamı"
+                ],
+                "Uzbek": [
+                    "oʻrmonchi",
+                    "oʻrmon odami",
+                    "oʻrmon ahli"
+                ],
+                "Uyghur": [
+                    "ئورمانچى"
+                ],
+                "Kazakh": [
+                    "орманшы",
+                    "орман адамы"
+                ],
+                "Karakalpak": [
+                    "ormanshı"
+                ],
+                "Tatar": [
+                    "урманчы",
+                    "урман кешесе",
+                    "урман сакчысы"
+                ],
+                "Bashkir": [
+                    "урмансы",
+                    "урман кешеһе",
+                    "урман аҙамы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tokaýçy",
+                    "tokaý adamy"
+                ],
+                "Kazakh": [
+                    "тоғайшы"
+                ],
+                "Kyrgyz": [
+                    "токойчу",
+                    "токой адамы",
+                    "токой кезип жүрүүчү"
+                ],
+                "Karakalpak": [
+                    "toǵayshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dağlı"
+                ],
+                "Uyghur": [
+                    "تاغلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "meşəçi",
+                    "meşəbəyi",
+                    "meşə sakini",
+                    "meşə adamı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jeňňelçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياغاچچى"
+                ]
+            }
+        }
+    ]
+}

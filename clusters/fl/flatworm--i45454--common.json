@@ -1,0 +1,69 @@
+{
+    "id": "i45454",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flatworm",
+    "en_definition": "parasitic or free-living worms having a flattened body",
+    "tr_word": "yassı solucan",
+    "tr_definition": "Vücutları yassı, parazit veya serbest yaşayan solucan türü.",
+    "ru_word": "плоский червь",
+    "ru_definition": "Паразитические или свободноживущие черви с уплощенным телом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yassı solucan",
+                    "yassı kurt"
+                ],
+                "Azerbaijani": [
+                    "yastı qurd",
+                    "yastı qurdlar"
+                ],
+                "Turkmen": [
+                    "ýasy gurçuk",
+                    "ýasy gurçuklar"
+                ],
+                "Uzbek": [
+                    "yassi qurt",
+                    "yassi chuvalchang"
+                ],
+                "Tatar": [
+                    "яссы суалчан",
+                    "яссы корт"
+                ],
+                "Bashkir": [
+                    "яҫы селәүсен",
+                    "яҫы ҡорт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "يالپاق قۇرت"
+                ],
+                "Kazakh": [
+                    "жалпақ құрт",
+                    "жалпақ құрттар"
+                ],
+                "Kyrgyz": [
+                    "жалпак курт",
+                    "жалпак курттар"
+                ],
+                "Karakalpak": [
+                    "jalpaq qurt",
+                    "jalpaq qurtlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پەچەت قۇرت"
+                ]
+            }
+        }
+    ]
+}

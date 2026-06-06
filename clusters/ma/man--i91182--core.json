@@ -1,0 +1,129 @@
+{
+    "id": "i91182",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "man",
+    "en_definition": "an adult person who is male (as opposed to a woman)",
+    "tr_word": "adam",
+    "tr_definition": "Yetişkin erkek kişi.",
+    "ru_word": "мужчина",
+    "ru_definition": "Взрослый человек мужского пола.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ər"
+                ],
+                "Uyghur": [
+                    "ئەر"
+                ],
+                "Kazakh": [
+                    "ер"
+                ],
+                "Kyrgyz": [
+                    "эр"
+                ],
+                "Karakalpak": [
+                    "er"
+                ],
+                "Tatar": [
+                    "ир"
+                ],
+                "Bashkir": [
+                    "ир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "erkek"
+                ],
+                "Turkmen": [
+                    "erkek"
+                ],
+                "Uzbek": [
+                    "erkak"
+                ],
+                "Kazakh": [
+                    "еркек"
+                ],
+                "Kyrgyz": [
+                    "эркек"
+                ],
+                "Karakalpak": [
+                    "erkek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adam"
+                ],
+                "Azerbaijani": [
+                    "adam"
+                ],
+                "Turkmen": [
+                    "adam"
+                ],
+                "Uzbek": [
+                    "odam"
+                ],
+                "Kyrgyz": [
+                    "адам"
+                ],
+                "Tatar": [
+                    "адәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kişi"
+                ],
+                "Azerbaijani": [
+                    "kişi"
+                ],
+                "Uzbek": [
+                    "kishi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ер адам"
+                ],
+                "Karakalpak": [
+                    "er adam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ир-ат"
+                ],
+                "Bashkir": [
+                    "ир-ат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەر كىشى"
+                ],
+                "Bashkir": [
+                    "ир кеше"
+                ]
+            }
+        }
+    ]
+}

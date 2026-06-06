@@ -1,0 +1,81 @@
+{
+    "id": "i75918",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dog racing",
+    "en_definition": "a race between dogs; usually an occasion for betting on the outcome",
+    "tr_word": "tazı yarışı",
+    "tr_definition": "Genellikle üzerine bahis oynanan, köpekler arasında yapılan yarış.",
+    "ru_word": "собачьи бега",
+    "ru_definition": "соревнования в беге между собаками, обычно сопровождающиеся ставками на результат.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "it yarışı",
+                    "it qaçışı"
+                ],
+                "Turkmen": [
+                    "it ýaryşy",
+                    "it çapdyryşy"
+                ],
+                "Uzbek": [
+                    "it poygasi",
+                    "it chopishtirish"
+                ],
+                "Uyghur": [
+                    "ئىت يۈگۈرتۈش",
+                    "ئىت بەيگىسى",
+                    "ئىت چاپتۇرۇش"
+                ],
+                "Kazakh": [
+                    "ит жарысы",
+                    "ит жүгірту"
+                ],
+                "Kyrgyz": [
+                    "ит жарыш",
+                    "ит чабыш"
+                ],
+                "Karakalpak": [
+                    "iyt jarıs"
+                ],
+                "Tatar": [
+                    "эт чабышы",
+                    "этләр ярышы"
+                ],
+                "Bashkir": [
+                    "эт сабышы",
+                    "эт ярышы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tazı yarışı"
+                ],
+                "Azerbaijani": [
+                    "tazı yarışı"
+                ],
+                "Uzbek": [
+                    "tazi poygasi"
+                ],
+                "Kazakh": [
+                    "тазы жарысы"
+                ],
+                "Karakalpak": [
+                    "tazı jarıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köpek yarışı"
+                ]
+            }
+        }
+    ]
+}

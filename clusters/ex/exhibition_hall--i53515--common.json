@@ -1,0 +1,97 @@
+{
+    "id": "i53515",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "exhibition hall",
+    "en_definition": "a large hall for holding exhibitions",
+    "tr_word": "sergi salonu",
+    "tr_definition": "sergilerin düzenlendiği geniş salon",
+    "ru_word": "выставочный зал",
+    "ru_definition": "большой зал для проведения выставок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻrgazmahona",
+                    "koʻrgazma zali"
+                ],
+                "Uyghur": [
+                    "كۆرگەزمە زالى",
+                    "كۆرگەزمىخانا",
+                    "كۆرگەزمە مەيدانى"
+                ],
+                "Kazakh": [
+                    "көрме залы",
+                    "көрме сарайы",
+                    "көрме орталығы"
+                ],
+                "Kyrgyz": [
+                    "көргөзмө залы",
+                    "көргөзмөкана",
+                    "көргөзмө жайы"
+                ],
+                "Karakalpak": [
+                    "kórme zalı",
+                    "kórmexana"
+                ],
+                "Tatar": [
+                    "күргәзмә залы",
+                    "күргәзмәханә"
+                ],
+                "Bashkir": [
+                    "күргәҙмә залы",
+                    "күргәҙмәхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sergi salonu"
+                ],
+                "Azerbaijani": [
+                    "sərgi salonu",
+                    "sərgigah"
+                ],
+                "Turkmen": [
+                    "sergi zaly",
+                    "sergi binasy",
+                    "sergi meýdançasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nümayiş zalı"
+                ],
+                "Uzbek": [
+                    "namoyishgoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meşher"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "galeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәйдан"
+                ]
+            }
+        }
+    ]
+}

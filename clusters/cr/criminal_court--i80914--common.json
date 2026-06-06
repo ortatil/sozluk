@@ -1,0 +1,112 @@
+{
+    "id": "i80914",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "criminal court",
+    "en_definition": "a court having jurisdiction over criminal cases",
+    "tr_word": "ceza mahkemesi",
+    "tr_definition": "ceza davalarına bakmakla görevli ve yetkili olan mahkeme",
+    "ru_word": "уголовный суд",
+    "ru_definition": "суд, в компетенцию которого входит рассмотрение уголовных дел",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cinayət məhkəməsi"
+                ],
+                "Uzbek": [
+                    "jinoyat ishlari bo'yicha sud",
+                    "jinoyat sudi"
+                ],
+                "Uyghur": [
+                    "جىنايى ئىشلار مەھكىمىسى",
+                    "جىنايى ئىشلار سوت مەھكىمىسى"
+                ],
+                "Karakalpak": [
+                    "jınayat isleri boyınsha sud",
+                    "jınayat sudı"
+                ],
+                "Tatar": [
+                    "җинаять суды"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ceza mahkemesi"
+                ],
+                "Azerbaijani": [
+                    "cəza məhkəməsi"
+                ],
+                "Kazakh": [
+                    "жазалау соты"
+                ],
+                "Kyrgyz": [
+                    "жазык соту"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mahkama"
+                ],
+                "Tatar": [
+                    "мәхкәмә"
+                ],
+                "Bashkir": [
+                    "мәхкәмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağır ceza mahkemesi"
+                ],
+                "Azerbaijani": [
+                    "ağır cinayətlər məhkəməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jenaýat kazyýeti",
+                    "jenaýat işleri boýunça kazyýet"
+                ],
+                "Bashkir": [
+                    "енәйәт суды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қылмыстық сот"
+                ],
+                "Kyrgyz": [
+                    "кылмыш соту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "asliye ceza mahkemesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "шәрғиәт суды"
+                ]
+            }
+        }
+    ]
+}

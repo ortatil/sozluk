@@ -1,0 +1,209 @@
+# Paving
+| Field | Detail |
+|---|---|
+| **ID** | i39201 |
+| **English** | paving |
+| **Type** | noun |
+| **Definition** | the act of applying paving materials to an area |
+| **Source** | common |
+| **Ortatil** | ḍöşäw, qaplamuw |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍöşäw** | **qaplamuw** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ❌ | ✅ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 0.67 |
+| *Qarluq Subtotal* | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 1 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **3.50** | **3.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| دۆشەش | döşäş |
+| **Kazakh** | |
+| төсеу | töseu |
+| қалау | qalau |
+| жабу | jabu |
+| **Kyrgyz** | |
+| төшөө | töşöö |
+| төшөм | töşöm |
+| каптоо | kaptoo |
+| **Tatar** | |
+| түшәү | tüşäü |
+| каплау | kaplau |
+| җәю | jäyu |
+| **Bashkir** | |
+| түшәү | tüşäü |
+| ҡаплау | qaplau |
+
+```json
+{
+    "id": "i39201",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paving",
+    "en_definition": "the act of applying paving materials to an area",
+    "tr_word": "döşeme",
+    "tr_definition": "bir alanı kaplama malzemeleriyle kaplama işi",
+    "ru_word": "мощение",
+    "ru_definition": "процесс покрытия поверхности дорожным материалом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "döşeme"
+                ],
+                "Azerbaijani": [
+                    "döşəmə"
+                ],
+                "Turkmen": [
+                    "döşeme"
+                ],
+                "Uyghur": [
+                    "دۆشەش"
+                ],
+                "Kazakh": [
+                    "төсеу"
+                ],
+                "Kyrgyz": [
+                    "төшөө",
+                    "төшөм"
+                ],
+                "Karakalpak": [
+                    "tóseu",
+                    "tósem"
+                ],
+                "Tatar": [
+                    "түшәү"
+                ],
+                "Bashkir": [
+                    "түшәү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaplama"
+                ],
+                "Turkmen": [
+                    "gatlak"
+                ],
+                "Uzbek": [
+                    "qoplama"
+                ],
+                "Kazakh": [
+                    "қалау"
+                ],
+                "Kyrgyz": [
+                    "каптоо"
+                ],
+                "Karakalpak": [
+                    "qaplau"
+                ],
+                "Tatar": [
+                    "каплау"
+                ],
+                "Bashkir": [
+                    "ҡаплау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taş döşeme"
+                ],
+                "Azerbaijani": [
+                    "daşdöşəmə"
+                ],
+                "Turkmen": [
+                    "daş döşeme"
+                ],
+                "Uzbek": [
+                    "tosh yotqizish"
+                ],
+                "Uyghur": [
+                    "تاش ياتقۇزۇش"
+                ],
+                "Kazakh": [
+                    "тас төсеу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yol yapımı"
+                ],
+                "Uzbek": [
+                    "yoʻl yotqizish"
+                ],
+                "Uyghur": [
+                    "يول ياتقۇزۇش",
+                    "يول سېلىش"
+                ],
+                "Bashkir": [
+                    "юл һалыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жабу"
+                ],
+                "Tatar": [
+                    "җәю"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səkiçəkmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "örtükçəkmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýol çekme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poydevor"
+                ]
+            }
+        }
+    ]
+}
+```
+

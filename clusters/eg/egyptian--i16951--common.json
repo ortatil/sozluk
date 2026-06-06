@@ -1,0 +1,65 @@
+{
+    "id": "i16951",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "egyptian",
+    "en_definition": "of or relating to or characteristic of Egypt or its people or their language",
+    "tr_word": "Mısırlı",
+    "tr_definition": "Mısır'a, Mısır halkına veya dillerine özgü olan veya bunlarla ilgili olan",
+    "ru_word": "египетский",
+    "ru_definition": "относящийся к Египту, его народу или их языку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Mısırlı",
+                    "Mısır"
+                ],
+                "Azerbaijani": [
+                    "misirli",
+                    "misrli"
+                ],
+                "Turkmen": [
+                    "müsürli",
+                    "müsür"
+                ],
+                "Uzbek": [
+                    "misrlik",
+                    "misrga oid",
+                    "misriy"
+                ],
+                "Uyghur": [
+                    "مىسىرلىق",
+                    "مىسىرغا ئائىت"
+                ],
+                "Kazakh": [
+                    "мысырлық",
+                    "мысыр"
+                ],
+                "Kyrgyz": [
+                    "мисирлик"
+                ],
+                "Karakalpak": [
+                    "mısırlı",
+                    "mısır"
+                ],
+                "Tatar": [
+                    "мисыр",
+                    "мисырлы"
+                ],
+                "Bashkir": [
+                    "Мысыр",
+                    "Мысырҙыҡы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "египеттик"
+                ]
+            }
+        }
+    ]
+}

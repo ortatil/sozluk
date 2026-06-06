@@ -1,0 +1,125 @@
+# Traveler's check
+| Field | Detail |
+|---|---|
+| **ID** | i107033 |
+| **English** | traveler's check |
+| **Type** | noun |
+| **Definition** | a letter of credit issued by a bank or express company that is payable on presentation to any correspondent of the issuer |
+| **Source** | common |
+| **Ortatil** | akkreditiw |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i107033",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "traveler's check",
+    "en_definition": "a letter of credit issued by a bank or express company that is payable on presentation to any correspondent of the issuer",
+    "tr_word": "seyahat çeki",
+    "tr_definition": "Bir banka veya finans kuruluşu tarafından düzenlenen, hamilinin dünyanın her yerinde nakde çevirebileceği veya ödeme yapabileceği ödeme aracı.",
+    "ru_word": "дорожный чек",
+    "ru_definition": "Платежный документ, представляющий собой денежное обязательство эмитента выплатить указанную в чеке сумму владельцу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yolcu çeki"
+                ],
+                "Azerbaijani": [
+                    "yol çeki"
+                ],
+                "Turkmen": [
+                    "ýol çekleri"
+                ],
+                "Uzbek": [
+                    "yoʻl cheki"
+                ],
+                "Uyghur": [
+                    "يول چىكى"
+                ],
+                "Kazakh": [
+                    "жол чегі"
+                ],
+                "Kyrgyz": [
+                    "жол чеги"
+                ],
+                "Karakalpak": [
+                    "jol chegi"
+                ],
+                "Tatar": [
+                    "юл чегы",
+                    "юл кәгазе"
+                ],
+                "Bashkir": [
+                    "юл чегы",
+                    "юл аҡсаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seyahat çeki"
+                ],
+                "Azerbaijani": [
+                    "səyahət çeki"
+                ],
+                "Turkmen": [
+                    "syýahat çekleri"
+                ],
+                "Uyghur": [
+                    "ساياھەت چىكى",
+                    "ساياھەت پۇل بېلىتى"
+                ],
+                "Kazakh": [
+                    "саяхат чегі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "акча каты"
+                ],
+                "Karakalpak": [
+                    "akkreditiw"
+                ],
+                "Tatar": [
+                    "акча кәгазе"
+                ],
+                "Bashkir": [
+                    "аҡса ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "safar cheki"
+                ],
+                "Kyrgyz": [
+                    "сапар чеги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bank cheki"
+                ],
+                "Kazakh": [
+                    "банк чегі"
+                ]
+            }
+        }
+    ]
+}
+```
+

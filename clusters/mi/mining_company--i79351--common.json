@@ -1,0 +1,115 @@
+{
+    "id": "i79351",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mining company",
+    "en_definition": "a company that owns and manages mines",
+    "tr_word": "madencilik şirketi",
+    "tr_definition": "maden ocaklarına sahip olan ve bunları işleten şirket",
+    "ru_word": "горнодобывающая компания",
+    "ru_definition": "компания, которая владеет шахтами и управляет ими",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "maden şirketi",
+                    "madencilik şirketi",
+                    "maden işletmesi",
+                    "maden kuruluşu"
+                ],
+                "Azerbaijani": [
+                    "mədən şirkəti",
+                    "mədənçilik müəssisəsi"
+                ],
+                "Turkmen": [
+                    "magdan kärhanasy",
+                    "magdançylyk kärhanasy",
+                    "magdançylyk edarasy"
+                ],
+                "Uzbek": [
+                    "ma'dan korxonasi"
+                ],
+                "Uyghur": [
+                    "مەدەنچىلىك شىركىتى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "konchilik korxonasi",
+                    "konchilik shirkati",
+                    "kon sanoati korxonasi"
+                ],
+                "Uyghur": [
+                    "كانچىلىق شىركىتى",
+                    "كان شىركىتى"
+                ],
+                "Kazakh": [
+                    "кен өндіруші кәсіпорын",
+                    "кен компаниясы",
+                    "кен өндірісі",
+                    "кен орны мекемесі"
+                ],
+                "Kyrgyz": [
+                    "кен иштетүүчү ишкана",
+                    "кен казуучу ишкана"
+                ],
+                "Karakalpak": [
+                    "kán kárxanası",
+                    "kánshilik kárxanası",
+                    "kán basqarması"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dağ-mədən müəssisəsi"
+                ],
+                "Tatar": [
+                    "тау сәнәгате оешмасы"
+                ],
+                "Bashkir": [
+                    "тау-мәғдән компанияһы",
+                    "тау эше ойошмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тау ширкәте"
+                ],
+                "Bashkir": [
+                    "тау-байыҡтырыу предприятиеһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоо-кен ишканасы",
+                    "тоо-кен компаниясы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тау оешмасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тау казу ширкәте"
+                ]
+            }
+        }
+    ]
+}

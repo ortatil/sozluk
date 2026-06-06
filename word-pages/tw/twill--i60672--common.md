@@ -1,0 +1,187 @@
+# Twill
+| Field | Detail |
+|---|---|
+| **ID** | i60672 |
+| **English** | twill |
+| **Type** | noun |
+| **Definition** | a cloth with parallel diagonal lines or ribs |
+| **Source** | common |
+| **Ortatil** | diagonal |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **diagonal** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەرەققىي | täräqqiy |
+| **Kazakh** | |
+| сарж | sarj |
+| **Kyrgyz** | |
+| диагональ | diagonal |
+
+```json
+{
+    "id": "i60672",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "twill",
+    "en_definition": "a cloth with parallel diagonal lines or ribs",
+    "tr_word": "dimi",
+    "tr_definition": "paralel çapraz çizgileri veya fitilleri olan bir tür dokuma kumaş",
+    "ru_word": "твил",
+    "ru_definition": "ткань с диагональным переплетением нитей, образующим на поверхности характерные рубчики",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diyagonal"
+                ],
+                "Azerbaijani": [
+                    "diaqonal"
+                ],
+                "Turkmen": [
+                    "diagon"
+                ],
+                "Uzbek": [
+                    "diagonal"
+                ],
+                "Kyrgyz": [
+                    "диагональ"
+                ],
+                "Karakalpak": [
+                    "diagonal"
+                ],
+                "Tatar": [
+                    "диагональ тукыма"
+                ],
+                "Bashkir": [
+                    "диагональ туҡыма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýma"
+                ],
+                "Uzbek": [
+                    "qiyma",
+                    "qiya toʻqima"
+                ],
+                "Uyghur": [
+                    "قىيپاش توقۇلما"
+                ],
+                "Kazakh": [
+                    "қиғаш тоқыма",
+                    "қиғаш мата"
+                ],
+                "Kyrgyz": [
+                    "кыйгач токуу"
+                ],
+                "Karakalpak": [
+                    "qıya toqılǵan mata"
+                ],
+                "Tatar": [
+                    "кыек тукыма"
+                ],
+                "Bashkir": [
+                    "ҡыя туҡыма",
+                    "ҡыя һыҙатлы туҡыма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çyzmykly mata"
+                ],
+                "Karakalpak": [
+                    "sızıqlı mata"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыйгач токулган кездеме"
+                ],
+                "Tatar": [
+                    "кыек үрелешле тукыма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nervür"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fitilli kumaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tvil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çəpərli parça"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەرەققىي",
+                    "تەرەققىي رەخت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сарж"
+                ]
+            }
+        }
+    ]
+}
+```
+

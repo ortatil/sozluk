@@ -1,0 +1,107 @@
+{
+    "id": "i37722",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "swimming",
+    "en_definition": "the act of swimming",
+    "tr_word": "yüzme",
+    "tr_definition": "Suda ilerleme eylemi veya sporu.",
+    "ru_word": "плавание",
+    "ru_definition": "Действие по значению глагола плавать; вид спорта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüzme",
+                    "yüzüş"
+                ],
+                "Azerbaijani": [
+                    "üzmə",
+                    "üzmək"
+                ],
+                "Turkmen": [
+                    "ýüzmek",
+                    "ýüzüş"
+                ],
+                "Uyghur": [
+                    "ئۈزۈش"
+                ],
+                "Kazakh": [
+                    "жүзу"
+                ],
+                "Karakalpak": [
+                    "júzio"
+                ],
+                "Tatar": [
+                    "йөзү",
+                    "йөзүчелек"
+                ],
+                "Bashkir": [
+                    "йөҙөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "suzish",
+                    "suzuvchilik"
+                ],
+                "Uyghur": [
+                    "سۇ ئۈزۈش",
+                    "سۇ ئۈزۈش ماھارىتى"
+                ],
+                "Kyrgyz": [
+                    "сүзүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "cho'milish"
+                ],
+                "Kazakh": [
+                    "шомылу"
+                ],
+                "Karakalpak": [
+                    "shómlio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzgüçülük"
+                ],
+                "Kyrgyz": [
+                    "сүзүүчүлүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sebahat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сууда сүзүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу инеү"
+                ]
+            }
+        }
+    ]
+}

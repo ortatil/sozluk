@@ -1,0 +1,296 @@
+# Clamp down
+| Field | Detail |
+|---|---|
+| **ID** | i23818 |
+| **English** | clamp down |
+| **Type** | verb |
+| **Definition** | repress or suppress (something regarded as undesirable) |
+| **Source** | common |
+| **Ortatil** | basmaq, çeklämäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **basmaq** | **çeklämäk** | **gısmaq** | **sıkıştırmaq** | **tohtattırmaq** | **tıymaq** | **aızdıqtamaq** |
+|---|---|---|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| Turkmen | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Kyrgyz | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ |
+| Bashkir | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.33 | 0.67 | 0.67 | 0 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 0 | 0 | 0.50 | 0 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.60 | 0.60 | 0.20 | 0.40 | 0.60 | 0.60 |
+| *In All* | ✅ | ✅ |  |  |  |  |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ | ✅ |  |  |  |
+| **O'TQ** | **3.33** | **2.93** | **1.77** | **1.37** | **0.90** | **0.60** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بېسىقتۇرماق | besiqturmaq |
+| چەكلىمەك | çäklimäk |
+| توسماق | tosmaq |
+| **Kazakh** | |
+| басу | basu |
+| шектеу | şekteu |
+| ауыздықтау | auızdıqtau |
+| тұншықтыру | tunşıqtıru |
+| **Kyrgyz** | |
+| басуу | basuu |
+| чектөө | çektöö |
+| кысуу | kısuu |
+| тыйуу | tıyuu |
+| токтотуу | toktotuu |
+| **Tatar** | |
+| бастыру | bastıru |
+| чикләү | çikläü |
+| кысу | kısu |
+| тыю | tıyu |
+| авызлыклау | avızlıklau |
+| **Bashkir** | |
+| баҫтырыу | bastırıu |
+| ҡыҫыу | qısıu |
+| тыйыу | tıyıu |
+| сикләү | sikläü |
+
+```json
+{
+    "id": "i23818",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "clamp down",
+    "en_definition": "repress or suppress (something regarded as undesirable)",
+    "tr_word": "sıkı önlemler almak",
+    "tr_definition": "istenmeyen bir durumu bastırmak veya kontrol altına almak için sert tedbirler uygulamak",
+    "ru_word": "подавлять",
+    "ru_definition": "принимать строгие меры для пресечения или ограничения чего-либо нежелательного",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baskılamak"
+                ],
+                "Turkmen": [
+                    "basyp ýatyrmak"
+                ],
+                "Uzbek": [
+                    "bosmoq"
+                ],
+                "Uyghur": [
+                    "بېسىم قىلماق",
+                    "بېسىقتۇرماق"
+                ],
+                "Kazakh": [
+                    "басу"
+                ],
+                "Kyrgyz": [
+                    "басуу"
+                ],
+                "Karakalpak": [
+                    "bastırıo"
+                ],
+                "Tatar": [
+                    "бастыру"
+                ],
+                "Bashkir": [
+                    "баҫтырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çäklendirmek"
+                ],
+                "Uzbek": [
+                    "cheklamoq"
+                ],
+                "Uyghur": [
+                    "چەكلىمەك"
+                ],
+                "Kazakh": [
+                    "шектеу"
+                ],
+                "Kyrgyz": [
+                    "чектөө"
+                ],
+                "Tatar": [
+                    "чикләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısıtlamak"
+                ],
+                "Turkmen": [
+                    "gysmak"
+                ],
+                "Kyrgyz": [
+                    "кысуу"
+                ],
+                "Tatar": [
+                    "кысу"
+                ],
+                "Bashkir": [
+                    "ҡыҫыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тыйым салу"
+                ],
+                "Kyrgyz": [
+                    "тыйуу"
+                ],
+                "Karakalpak": [
+                    "tıyım salıo"
+                ],
+                "Tatar": [
+                    "тыю"
+                ],
+                "Bashkir": [
+                    "тыйыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıkıştırmak"
+                ],
+                "Azerbaijani": [
+                    "sıxışdırmaq"
+                ],
+                "Karakalpak": [
+                    "shek qoyıo"
+                ],
+                "Bashkir": [
+                    "сикләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "toʻxtatmoq"
+                ],
+                "Kyrgyz": [
+                    "токтотуу"
+                ],
+                "Karakalpak": [
+                    "toqtatıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ауыздықтау"
+                ],
+                "Karakalpak": [
+                    "aoızlıqlao"
+                ],
+                "Tatar": [
+                    "авызлыклау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dizginlemek"
+                ],
+                "Azerbaijani": [
+                    "təzyiq etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "boğmaq"
+                ],
+                "Uyghur": [
+                    "توسماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarşısını almaq"
+                ],
+                "Uyghur": [
+                    "قورشاۋغا ئالماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "önlemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məhdudlaşdırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "böwet basmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gadagan etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jilovlamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bartaraf etmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұншықтыру"
+                ]
+            }
+        }
+    ]
+}
+```
+

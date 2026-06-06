@@ -1,0 +1,94 @@
+{
+    "id": "i59475",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "standing room",
+    "en_definition": "room for passengers or spectators to stand",
+    "tr_word": "ayakta durma yeri",
+    "tr_definition": "yolcuların veya seyircilerin ayakta durabileceği alan",
+    "ru_word": "стоячие места",
+    "ru_definition": "место для пассажиров или зрителей, где можно только стоять",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "duracak yer"
+                ],
+                "Azerbaijani": [
+                    "duracaq yeri"
+                ],
+                "Turkmen": [
+                    "durmaga ýer"
+                ],
+                "Uyghur": [
+                    "تۇرۇش ئورنى",
+                    "تۇرۇش جايى",
+                    "تۇرۇش بوشلۇقى"
+                ],
+                "Kazakh": [
+                    "тұратын орын",
+                    "тұру орны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dik durulýan ýer",
+                    "dik durulýan meýdan"
+                ],
+                "Uzbek": [
+                    "tik turish joyi",
+                    "tik turadigan joy",
+                    "tik joy"
+                ],
+                "Kyrgyz": [
+                    "тик туруучу орун",
+                    "тик туруучу жай"
+                ],
+                "Karakalpak": [
+                    "tik turıo ornı",
+                    "tik turıo jayı",
+                    "tik turıo maydanı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayakta durma yeri",
+                    "ayakta yer"
+                ],
+                "Azerbaijani": [
+                    "ayaqüstü yer",
+                    "ayaq yeri"
+                ],
+                "Tatar": [
+                    "аяк өсте тору урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "басып тору урыны",
+                    "басып тору мәйданы"
+                ],
+                "Bashkir": [
+                    "баҫып тороу урыны",
+                    "баҫып торорлоҡ урын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "орундуксуз жай"
+                ]
+            }
+        }
+    ]
+}

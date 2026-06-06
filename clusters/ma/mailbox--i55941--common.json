@@ -1,0 +1,89 @@
+{
+    "id": "i55941",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mailbox",
+    "en_definition": "a private box for delivery of mail",
+    "tr_word": "posta kutusu",
+    "tr_definition": "mektupların teslim edilmesi için kullanılan özel kutu",
+    "ru_word": "почтовый ящик",
+    "ru_definition": "ящик, предназначенный для сбора или доставки почтовой корреспонденции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "posta kutusu"
+                ],
+                "Azerbaijani": [
+                    "poçt qutusu"
+                ],
+                "Turkmen": [
+                    "poçta gutusy"
+                ],
+                "Uzbek": [
+                    "pochta qutisi"
+                ],
+                "Uyghur": [
+                    "پوچتا ساندۇقى"
+                ],
+                "Kazakh": [
+                    "пошта жәшігі"
+                ],
+                "Karakalpak": [
+                    "poshta jáshigi"
+                ],
+                "Tatar": [
+                    "почта тартмасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hat gutusy"
+                ],
+                "Uzbek": [
+                    "xat qutisi"
+                ],
+                "Uyghur": [
+                    "خەت ساندۇقى"
+                ],
+                "Kazakh": [
+                    "хат жәшігі"
+                ],
+                "Kyrgyz": [
+                    "кат куржун",
+                    "кат салгыч",
+                    "кат кутусу"
+                ],
+                "Karakalpak": [
+                    "xat jáshigi"
+                ],
+                "Tatar": [
+                    "хат савыты",
+                    "хат тартмасы"
+                ],
+                "Bashkir": [
+                    "хат йәшниге",
+                    "хат һауыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mektup kutusu"
+                ],
+                "Azerbaijani": [
+                    "məktub qutusu"
+                ],
+                "Uzbek": [
+                    "maktub qutisi"
+                ]
+            }
+        }
+    ]
+}

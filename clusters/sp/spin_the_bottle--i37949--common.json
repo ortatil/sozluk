@@ -1,0 +1,84 @@
+{
+    "id": "i37949",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spin the bottle",
+    "en_definition": "a game in which a player spins a bottle and kisses the person that it points to when it stops spinning",
+    "tr_word": "şişe çevirmece",
+    "tr_definition": "bir oyuncunun şişeyi döndürdüğü ve şişe durduğunda işaret ettiği kişiyi öptüğü bir oyun",
+    "ru_word": "бутылочка",
+    "ru_definition": "игра, в которой игрок вращает бутылку и целует того, на кого она укажет после остановки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "butulka fırlatma"
+                ],
+                "Uyghur": [
+                    "بوتۇلكا ئايلاندۇرۇش ئويۇنى",
+                    "بوتۇلكا چۆرگىلىتىش"
+                ],
+                "Kazakh": [
+                    "бөтелке айналдыру",
+                    "бөтелке ойыны"
+                ],
+                "Kyrgyz": [
+                    "бөтөлкө айлантуу",
+                    "бөтөлкө оюну"
+                ],
+                "Karakalpak": [
+                    "bótelke soqpaq",
+                    "bótelke aylandırıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şişe çevirmece"
+                ],
+                "Uzbek": [
+                    "shisha aylantirish"
+                ],
+                "Tatar": [
+                    "шешә әйләндерү",
+                    "шешә уены"
+                ],
+                "Bashkir": [
+                    "шешә әйләндереү",
+                    "шешә уйыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şüşə fırlatma"
+                ],
+                "Turkmen": [
+                    "çüýşe aýlama",
+                    "çüýşe öwrüm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şüşə oyunu"
+                ],
+                "Uzbek": [
+                    "shisha o'yini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğruluk mu cesaret mi"
+                ]
+            }
+        }
+    ]
+}

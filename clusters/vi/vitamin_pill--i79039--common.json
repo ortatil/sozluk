@@ -1,0 +1,97 @@
+{
+    "id": "i79039",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vitamin pill",
+    "en_definition": "a pill containing one or more vitamins; taken as a dietary supplement",
+    "tr_word": "vitamin hapı",
+    "tr_definition": "Besin takviyesi olarak alınan, bir veya daha fazla vitamin içeren hap.",
+    "ru_word": "витаминная таблетка",
+    "ru_definition": "Таблетка, содержащая один или несколько витаминов; принимается в качестве диетической добавки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vitamin hapı",
+                    "vitamin tableti"
+                ],
+                "Azerbaijani": [
+                    "vitamin həbi",
+                    "vitamin dərmanı"
+                ],
+                "Turkmen": [
+                    "witamin gerdejigi",
+                    "witamin derman"
+                ],
+                "Uyghur": [
+                    "ۋىتامىن تابلېتكىسى",
+                    "ۋىتامىن دورىسى"
+                ],
+                "Tatar": [
+                    "витамин төймәсе",
+                    "витамин даруы"
+                ],
+                "Bashkir": [
+                    "витамин төймәһе",
+                    "витамин дарыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "darmondori"
+                ],
+                "Kazakh": [
+                    "дәрумен",
+                    "дәрумен түйіршігі",
+                    "дәрумен дәрісі"
+                ],
+                "Kyrgyz": [
+                    "дәри"
+                ],
+                "Karakalpak": [
+                    "dári",
+                    "dári-dárman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quvvatdori"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shifobaxsh hapdori"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кубаттандыруучу дәри"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "пайдалуу дәри"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "túymeshik"
+                ]
+            }
+        }
+    ]
+}

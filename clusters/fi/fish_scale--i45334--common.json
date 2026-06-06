@@ -1,0 +1,94 @@
+{
+    "id": "i45334",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fish scale",
+    "en_definition": "scale of the kind that covers the bodies of fish",
+    "tr_word": "balık pulu",
+    "tr_definition": "balıkların vücudunu kaplayan sert ve koruyucu tabakalardan her biri",
+    "ru_word": "рыбья чешуя",
+    "ru_definition": "жесткие пластинки, покрывающие кожу рыб",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balık pulu"
+                ],
+                "Azerbaijani": [
+                    "balıq pulu"
+                ],
+                "Turkmen": [
+                    "balyk teňňesi"
+                ],
+                "Uzbek": [
+                    "baliq tangasi"
+                ],
+                "Uyghur": [
+                    "بېلىق قاسراقچىسى"
+                ],
+                "Kazakh": [
+                    "балық қабыршағы"
+                ],
+                "Kyrgyz": [
+                    "балыктын кабырчыгы"
+                ],
+                "Karakalpak": [
+                    "balıq qabırshaǵı"
+                ],
+                "Tatar": [
+                    "балык тәңкәсе"
+                ],
+                "Bashkir": [
+                    "балыҡ тәңкәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "teňňe"
+                ],
+                "Uzbek": [
+                    "tanga",
+                    "tangacha"
+                ],
+                "Tatar": [
+                    "тәңкә"
+                ],
+                "Bashkir": [
+                    "тәңкә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قاسراق",
+                    "قاسراقچا"
+                ],
+                "Kazakh": [
+                    "қабыршақ"
+                ],
+                "Kyrgyz": [
+                    "кабырчык"
+                ],
+                "Karakalpak": [
+                    "qabırshaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pul"
+                ],
+                "Azerbaijani": [
+                    "pul"
+                ]
+            }
+        }
+    ]
+}

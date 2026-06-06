@@ -1,0 +1,94 @@
+{
+    "id": "i92014",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "piano teacher",
+    "en_definition": "someone who teaches students to play the piano",
+    "tr_word": "piyano öğretmeni",
+    "tr_definition": "öğrencilere piyano çalmayı öğreten kişi",
+    "ru_word": "учитель фортепиано",
+    "ru_definition": "человек, который учит студентов играть на пианино",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fortepiano müəllimi"
+                ],
+                "Turkmen": [
+                    "fortepiano mugallymy",
+                    "fortepiano halypasy",
+                    "fortepiano öwredijisi"
+                ],
+                "Uzbek": [
+                    "fortepiano muallimi",
+                    "fortepiano ustozi",
+                    "fortepiano oʻqituvchisi"
+                ],
+                "Kyrgyz": [
+                    "фортепиано мугалими",
+                    "фортепиано окутуучусу"
+                ],
+                "Karakalpak": [
+                    "fortepiano muǵallimi",
+                    "fortepiano ustazı"
+                ],
+                "Tatar": [
+                    "фортепиано мөгаллиме",
+                    "фортепиано укытучысы"
+                ],
+                "Bashkir": [
+                    "фортепиано уҡытыусыһы",
+                    "фортепиано мөғәллиме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "piyano öğretmeni",
+                    "piyano hocası",
+                    "piyano müderrisi"
+                ],
+                "Azerbaijani": [
+                    "piano müəllimi"
+                ],
+                "Uyghur": [
+                    "پىيانىنو ئوقۇتقۇچىسى",
+                    "پىيانىنو مۇئەللىمى",
+                    "پىيانىنو ئۇستازى"
+                ],
+                "Kyrgyz": [
+                    "пианино мугалими"
+                ],
+                "Karakalpak": [
+                    "pianino muǵallimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күйсандық мұғалімі",
+                    "күйсандық ұстазы",
+                    "күйсандық үйретушісі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "рояль мөгаллиме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "рояль укытучысы"
+                ]
+            }
+        }
+    ]
+}

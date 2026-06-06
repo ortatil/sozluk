@@ -1,0 +1,85 @@
+{
+    "id": "i83178",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "montenegro",
+    "en_definition": "a former country bordering on the Adriatic Sea; now part of the Union of Serbia and Montenegro",
+    "tr_word": "Karadağ",
+    "tr_definition": "Adriyatik Denizi kıyısında bulunan, Balkanlar'da yer alan bir ülke.",
+    "ru_word": "Черногория",
+    "ru_definition": "Государство в Юго-Восточной Европе, на западе Балканского полуострова, омываемое Адриатическим морем.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Karadağ"
+                ],
+                "Azerbaijani": [
+                    "Qaradağ"
+                ],
+                "Turkmen": [
+                    "Gara dag"
+                ],
+                "Uzbek": [
+                    "Qoratog'"
+                ],
+                "Uyghur": [
+                    "قارا تاغ"
+                ],
+                "Kazakh": [
+                    "Қаратау"
+                ],
+                "Kyrgyz": [
+                    "Кара-Тоо"
+                ],
+                "Karakalpak": [
+                    "Qaratau"
+                ],
+                "Tatar": [
+                    "Каратау"
+                ],
+                "Bashkir": [
+                    "Ҡаратау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "Chernogoriya"
+                ],
+                "Kazakh": [
+                    "Черногория"
+                ],
+                "Kyrgyz": [
+                    "Черногория"
+                ],
+                "Karakalpak": [
+                    "Chernogoriya"
+                ],
+                "Tatar": [
+                    "Черногория"
+                ],
+                "Bashkir": [
+                    "Черногория"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Monteneqro"
+                ],
+                "Turkmen": [
+                    "Montenegro"
+                ],
+                "Uyghur": [
+                    "مونتېنېگرو"
+                ]
+            }
+        }
+    ]
+}

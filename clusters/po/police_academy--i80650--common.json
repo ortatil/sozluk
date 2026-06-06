@@ -1,0 +1,95 @@
+{
+    "id": "i80650",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "police academy",
+    "en_definition": "an academy for training police officers",
+    "tr_word": "polis akademisi",
+    "tr_definition": "polis memurlarının eğitimi için kurulmuş olan eğitim kurumu",
+    "ru_word": "полицейская академия",
+    "ru_definition": "учебное заведение для подготовки сотрудников полиции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "polis akademisi",
+                    "polis okulu",
+                    "polis eğitim merkezi"
+                ],
+                "Azerbaijani": [
+                    "polis akademiyası",
+                    "polis məktəbi"
+                ],
+                "Turkmen": [
+                    "polisiýa akademiýasy",
+                    "polisiýa okuw mekdebi",
+                    "polisiýa instituty"
+                ],
+                "Uzbek": [
+                    "politsiya akademiyasi"
+                ],
+                "Kazakh": [
+                    "полиция академиясы"
+                ],
+                "Karakalpak": [
+                    "policiya akademiyası",
+                    "policiya mektebi",
+                    "policiya bilimlendirio ornı"
+                ],
+                "Tatar": [
+                    "полиция академиясе",
+                    "полиция укуханәсе",
+                    "полиция мәктәбе"
+                ],
+                "Bashkir": [
+                    "полиция академияһы",
+                    "полиция училищеһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тәртіп сақшыларының академиясы"
+                ],
+                "Kyrgyz": [
+                    "тартип сакчылар окуу жайы"
+                ],
+                "Bashkir": [
+                    "тәртип һаҡлаусылар мәктәбе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ichki ishlar akademiyasi"
+                ],
+                "Kyrgyz": [
+                    "ички иштер академиясы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ساقچى مەكتىپى",
+                    "ساقچى ئاكادېمىيىسى",
+                    "ساقچى تەربىيىلەش مەكتىپى"
+                ],
+                "Kazakh": [
+                    "сақшылар мектебі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "милиция академиясы"
+                ]
+            }
+        }
+    ]
+}

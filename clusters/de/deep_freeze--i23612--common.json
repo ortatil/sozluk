@@ -1,0 +1,120 @@
+{
+    "id": "i23612",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "deep freeze",
+    "en_definition": "store in a deep-freeze, as for conservation",
+    "tr_word": "şoklamak",
+    "tr_definition": "Gıdaları uzun süre saklamak amacıyla çok düşük sıcaklıklarda dondurmak.",
+    "ru_word": "замораживать",
+    "ru_definition": "Подвергать действию низкой температуры для длительного хранения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dondurmak"
+                ],
+                "Azerbaijani": [
+                    "dondurmaq"
+                ],
+                "Turkmen": [
+                    "doňdurmak",
+                    "doňduryp saklamak"
+                ],
+                "Uyghur": [
+                    "توڭلاتماق",
+                    "توڭلىتىپ ساقلىماق"
+                ],
+                "Kyrgyz": [
+                    "тоңдуруу"
+                ],
+                "Karakalpak": [
+                    "tońdırıo"
+                ],
+                "Tatar": [
+                    "туңдыру"
+                ],
+                "Bashkir": [
+                    "туңдырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buzlamak"
+                ],
+                "Azerbaijani": [
+                    "buzlatmaq"
+                ],
+                "Uzbek": [
+                    "muzlatmoq",
+                    "muzlatib saqlamoq",
+                    "muzlatib qoʻymoq"
+                ],
+                "Uyghur": [
+                    "مۇزلاتماق"
+                ],
+                "Kazakh": [
+                    "мұздату"
+                ],
+                "Kyrgyz": [
+                    "муздатуу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қатыру"
+                ],
+                "Kyrgyz": [
+                    "катыруу"
+                ],
+                "Karakalpak": [
+                    "qatırıo"
+                ],
+                "Tatar": [
+                    "каттыру"
+                ],
+                "Bashkir": [
+                    "ҡатырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "soyuq saxlamaq"
+                ],
+                "Karakalpak": [
+                    "suoıtıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muhafaza etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тоңазыту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һаҡлау"
+                ]
+            }
+        }
+    ]
+}

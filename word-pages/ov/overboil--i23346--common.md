@@ -1,0 +1,189 @@
+# Overboil
+| Field | Detail |
+|---|---|
+| **ID** | i23346 |
+| **English** | overboil |
+| **Type** | verb |
+| **Definition** | boil excessively |
+| **Source** | common |
+| **Ortatil** | daşmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i23346",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "overboil",
+    "en_definition": "boil excessively",
+    "tr_word": "fazla kaynatmak",
+    "tr_definition": "gereğinden fazla veya aşırı derecede kaynatmak",
+    "ru_word": "переварить",
+    "ru_definition": "варить слишком долго или слишком сильно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşırı kaynatmak"
+                ],
+                "Turkmen": [
+                    "aşyry gaýnatmak"
+                ],
+                "Uzbek": [
+                    "ezilib pishmoq"
+                ],
+                "Kazakh": [
+                    "асып кету"
+                ],
+                "Kyrgyz": [
+                    "ашыра кайнатуу",
+                    "ашыкча кайнатуу"
+                ],
+                "Karakalpak": [
+                    "asıp ketu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köp gaýnatmak"
+                ],
+                "Uzbek": [
+                    "koʻp qaynatmoq"
+                ],
+                "Kazakh": [
+                    "көп қайнату"
+                ],
+                "Karakalpak": [
+                    "kóp qaynau"
+                ],
+                "Tatar": [
+                    "күп кайнау"
+                ],
+                "Bashkir": [
+                    "күп ҡайнатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həddindən artıq qaynatmaq"
+                ],
+                "Uyghur": [
+                    "ئارتۇقچە قايناتماق"
+                ],
+                "Tatar": [
+                    "артык кайнау"
+                ],
+                "Bashkir": [
+                    "артыҡ ҡайнатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çok kaynatmak"
+                ],
+                "Azerbaijani": [
+                    "çox qaynatmaq"
+                ],
+                "Uyghur": [
+                    "ھەددىدىن زىيادە قايناتماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "daşmaq"
+                ],
+                "Kazakh": [
+                    "тасып кету"
+                ],
+                "Tatar": [
+                    "ташып чыгу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ötürmek"
+                ],
+                "Kyrgyz": [
+                    "өтө кайнатуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "езіліп кету"
+                ],
+                "Karakalpak": [
+                    "ezіlіp pіsu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кайнап бетү"
+                ],
+                "Bashkir": [
+                    "ҡайнап бөтөү",
+                    "ҡайнап сығыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fazla kaynatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haşlanıp dağılmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bişib tökülmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "meʼyoridan ortiq qaynatmoq",
+                    "qaynab ketmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بەك قاينىتىۋەتمەك"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,116 @@
+{
+    "id": "i23611",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "boil over",
+    "en_definition": "overflow or cause to overflow while boiling",
+    "tr_word": "taşmak",
+    "tr_definition": "kaynarken kabından dışarı akmak",
+    "ru_word": "убегать",
+    "ru_definition": "переливаться через край при кипении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşmak"
+                ],
+                "Azerbaijani": [
+                    "daşmaq",
+                    "aşmaq"
+                ],
+                "Turkmen": [
+                    "daşmak",
+                    "joşmak"
+                ],
+                "Uzbek": [
+                    "toshmoq"
+                ],
+                "Uyghur": [
+                    "تاشماق"
+                ],
+                "Kazakh": [
+                    "тасу"
+                ],
+                "Kyrgyz": [
+                    "ташуу"
+                ],
+                "Karakalpak": [
+                    "tasıp ketu",
+                    "tasu"
+                ],
+                "Tatar": [
+                    "ташу",
+                    "ташып чыгу"
+                ],
+                "Bashkir": [
+                    "ташыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaynayıp taşmak"
+                ],
+                "Azerbaijani": [
+                    "qaynayıb daşmaq"
+                ],
+                "Turkmen": [
+                    "gaýnap daşmak"
+                ],
+                "Uzbek": [
+                    "qaynab toshmoq"
+                ],
+                "Uyghur": [
+                    "قايناپ تاشماق"
+                ],
+                "Bashkir": [
+                    "ҡайнап ташыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻpirib toshmoq"
+                ],
+                "Kazakh": [
+                    "көпіру"
+                ],
+                "Karakalpak": [
+                    "kóbіrіp tasu"
+                ],
+                "Tatar": [
+                    "күбеп чыгу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "асу"
+                ],
+                "Kyrgyz": [
+                    "ашуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kabarmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "төгүлүү"
+                ]
+            }
+        }
+    ]
+}

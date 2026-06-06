@@ -1,0 +1,158 @@
+# Breast cancer
+| Field | Detail |
+|---|---|
+| **ID** | i111785 |
+| **English** | breast cancer |
+| **Type** | noun |
+| **Definition** | cancer of the breast; one of the most common malignancies in women in the US |
+| **Source** | common |
+| **Ortatil** | särtän-ämçäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سەرتان-ئەمچەك | särtan-ämçäk |
+
+```json
+{
+    "id": "i111785",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "breast cancer",
+    "en_definition": "cancer of the breast; one of the most common malignancies in women in the US",
+    "tr_word": "meme kanseri",
+    "tr_definition": "Meme dokusundaki hücrelerin kontrolsüz çoğalmasıyla ortaya çıkan bir kanser türü.",
+    "ru_word": "рак молочной железы",
+    "ru_definition": "Злокачественная опухоль железистой ткани молочной железы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göğüs kanseri"
+                ],
+                "Turkmen": [
+                    "göwüs ragy",
+                    "göwüs seretany"
+                ],
+                "Uzbek": [
+                    "koʻkrak saratoni"
+                ],
+                "Uyghur": [
+                    "كۆكرەك راكى"
+                ],
+                "Karakalpak": [
+                    "kókirek ragı"
+                ],
+                "Tatar": [
+                    "күкрәк рагы",
+                    "күкрәк бизе рагы"
+                ],
+                "Bashkir": [
+                    "күкрәк рагы",
+                    "күкрәк яман шеше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "emjek ragy"
+                ],
+                "Uyghur": [
+                    "ئەمچەك راكى"
+                ],
+                "Kyrgyz": [
+                    "эмчек рагы",
+                    "эмчек шишиги"
+                ],
+                "Tatar": [
+                    "имчәк рагы"
+                ],
+                "Bashkir": [
+                    "имсәк рагы",
+                    "имсәк яман шеше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sut bezi saratoni"
+                ],
+                "Kazakh": [
+                    "сүт безінің қатерлі ісігі"
+                ],
+                "Karakalpak": [
+                    "sút bezi ragı",
+                    "sút bezi qáterli isigi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meme kanseri",
+                    "meme seratanı"
+                ],
+                "Azerbaijani": [
+                    "məmə xərçəngi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "döş xərçəngi"
+                ],
+                "Kyrgyz": [
+                    "төш рагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sinə xərçəngi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻkrak rak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سەرتان-ئەمچەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "омырау ісігі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кеуде рагы"
+                ]
+            }
+        }
+    ]
+}
+```
+

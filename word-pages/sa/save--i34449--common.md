@@ -1,0 +1,241 @@
+# Save
+| Field | Detail |
+|---|---|
+| **ID** | i34449 |
+| **English** | save |
+| **Type** | verb |
+| **Definition** | save from ruin, destruction, or harm |
+| **Source** | common |
+| **Ortatil** | qutqarmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qutqarmaq** | **saqtamaq** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 0 |
+| *Qarluq Subtotal* | 0 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.60 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  |
+| **O'TQ** | **2.50** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قۇتقۇزۇش | qutquzuş |
+| **Kazakh** | |
+| құтқару | qutqaru |
+| қорғау | qorğau |
+| сақтау | saqtau |
+| арашалау | araşalau |
+| **Kyrgyz** | |
+| куткаруу | kutkaruu |
+| коргоо | korgoo |
+| сактоо | saktoo |
+| **Tatar** | |
+| коткару | kotkaru |
+| **Bashkir** | |
+| ҡотҡарыу | qotqarıu |
+| һаҡлау | haqlau |
+| тергеҙеү | tergezeü |
+
+```json
+{
+    "id": "i34449",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "save",
+    "en_definition": "save from ruin, destruction, or harm",
+    "tr_word": "kurtarmak",
+    "tr_definition": "Birini veya bir şeyi yıkımdan, yok olmaktan veya zarardan korumak veya özgür kılmak.",
+    "ru_word": "спасать",
+    "ru_definition": "Избавлять от гибели, разрушения или опасности.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurtarmak",
+                    "korumak"
+                ],
+                "Azerbaijani": [
+                    "qurtarmaq",
+                    "qorumaq"
+                ],
+                "Turkmen": [
+                    "gutarmak",
+                    "goramak"
+                ],
+                "Kazakh": [
+                    "құтқару",
+                    "қорғау"
+                ],
+                "Kyrgyz": [
+                    "куткаруу",
+                    "коргоо"
+                ],
+                "Karakalpak": [
+                    "qutqarıo"
+                ],
+                "Tatar": [
+                    "коткару"
+                ],
+                "Bashkir": [
+                    "ҡотҡарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saklap galmak"
+                ],
+                "Uyghur": [
+                    "ساقلاپ قېلىش"
+                ],
+                "Kazakh": [
+                    "сақтау"
+                ],
+                "Kyrgyz": [
+                    "сактоо"
+                ],
+                "Karakalpak": [
+                    "saqlap qalıo"
+                ],
+                "Tatar": [
+                    "саклап калу"
+                ],
+                "Bashkir": [
+                    "һаҡлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "halas etmek"
+                ],
+                "Azerbaijani": [
+                    "xilas etmək"
+                ],
+                "Turkmen": [
+                    "halas etmek"
+                ],
+                "Uzbek": [
+                    "halokatdan asramoq"
+                ],
+                "Tatar": [
+                    "хәлакъ булудан коткару"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "omon saqlamoq"
+                ],
+                "Kazakh": [
+                    "аман сақтау"
+                ],
+                "Kyrgyz": [
+                    "аман алып калуу"
+                ],
+                "Karakalpak": [
+                    "aman alıp qalıo"
+                ],
+                "Bashkir": [
+                    "иҫән алып ҡалыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qutqarmoq"
+                ],
+                "Uyghur": [
+                    "قۇتقۇزۇش",
+                    "قۇتقۇزۇپ قېلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muhafaza etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hifz etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asramoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "saqlab qolmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نىجاتلىققا ئېرىشتۈرۈش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арашалау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tikleo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "исән калдыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тергеҙеү"
+                ]
+            }
+        }
+    ]
+}
+```
+

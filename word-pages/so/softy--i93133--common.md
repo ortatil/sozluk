@@ -1,0 +1,277 @@
+# Softy
+| Field | Detail |
+|---|---|
+| **ID** | i93133 |
+| **English** | softy |
+| **Type** | noun |
+| **Definition** | a person who is weak and excessively sentimental |
+| **Source** | common |
+| **Ortatil** | jumaşaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jumaşaq** | **nazik** | **boşäñ** | **köñülşek** |
+|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ | ❌ |
+| Uzbek | ❌ | ✅ | ✅ | ❌ |
+| Uyghur | ❌ | ✅ | ✅ | ❌ |
+| Kazakh | ❌ | ✅ | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 0 | 0 | 0 |
+| *Qarluq Subtotal* | 0 | 1 | 1 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 1 | 0.60 | 0.60 |
+| *In All* |  |  |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  |  |  |
+| **O'TQ** | **2.30** | **2** | **1.60** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| نازۇك | nazuk |
+| بوشاڭ | boşañ |
+| ئاجىز | ajiz |
+| **Kazakh** | |
+| нашар | naşar |
+| босбелбеу | bosbelbeu |
+| көңілшек | köñilşek |
+| жасық | jasıq |
+| жігерсіз | jigersiz |
+| **Kyrgyz** | |
+| жумшак | jumşak |
+| назик | nazik |
+| бошоң | boşoñ |
+| көңүлчөөк | köñülçöök |
+| **Tatar** | |
+| йомшак | yomşak |
+| нәзек | näzek |
+| хәлсез | xälsez |
+| **Bashkir** | |
+| йомшаҡ | yomşaq |
+| наҙлы | nazlı |
+| иҙрәүек | izräüyek |
+
+```json
+{
+    "id": "i93133",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "softy",
+    "en_definition": "a person who is weak and excessively sentimental",
+    "tr_word": "yufka yürekli",
+    "tr_definition": "kolayca üzülen, aşırı duygusal ve bazen iradesi zayıf olan kimse",
+    "ru_word": "размазня",
+    "ru_definition": "слабохарактерный, излишне сентиментальный или нерешительный человек",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yumuşak"
+                ],
+                "Azerbaijani": [
+                    "yumşaq"
+                ],
+                "Turkmen": [
+                    "ýumşak"
+                ],
+                "Uyghur": [
+                    "يۇمشاق كۆڭۈل"
+                ],
+                "Kyrgyz": [
+                    "жумшак"
+                ],
+                "Karakalpak": [
+                    "jumsaq"
+                ],
+                "Tatar": [
+                    "йомшак",
+                    "йомшак күңелле"
+                ],
+                "Bashkir": [
+                    "йомшаҡ күңелле",
+                    "йомшаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "noziktaʼb"
+                ],
+                "Uyghur": [
+                    "نازۇك"
+                ],
+                "Kazakh": [
+                    "нашар"
+                ],
+                "Kyrgyz": [
+                    "назик"
+                ],
+                "Karakalpak": [
+                    "nəzik"
+                ],
+                "Tatar": [
+                    "нәзек",
+                    "нәзек күңелле"
+                ],
+                "Bashkir": [
+                    "наҙлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "boʻshang"
+                ],
+                "Uyghur": [
+                    "بوشاڭ"
+                ],
+                "Kazakh": [
+                    "босбелбеу"
+                ],
+                "Kyrgyz": [
+                    "бошоң"
+                ],
+                "Karakalpak": [
+                    "bos"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻngli boʻsh"
+                ],
+                "Kazakh": [
+                    "көңілшек"
+                ],
+                "Kyrgyz": [
+                    "көңүлчөөк"
+                ],
+                "Karakalpak": [
+                    "kóńilshek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yufka yürekli"
+                ],
+                "Azerbaijani": [
+                    "yufqaürəkli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duygusal"
+                ],
+                "Turkmen": [
+                    "duýguly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hassas"
+                ],
+                "Azerbaijani": [
+                    "həssas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kövrək"
+                ],
+                "Turkmen": [
+                    "gowşak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rəhmdil"
+                ],
+                "Turkmen": [
+                    "rehimdar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ejiz"
+                ],
+                "Uyghur": [
+                    "ئاجىز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "merhametli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yuvosh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muloyim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жасық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жігерсіз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәлсез"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "иҙрәүек"
+                ]
+            }
+        }
+    ]
+}
+```
+

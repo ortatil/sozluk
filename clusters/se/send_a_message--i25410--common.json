@@ -1,0 +1,164 @@
+{
+    "id": "i25410",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "send a message",
+    "en_definition": "give or constitute a signal, not necessarily verbally",
+    "tr_word": "mesaj vermek",
+    "tr_definition": "sözlü olması gerekmeyen bir sinyal vermek veya oluşturmak",
+    "ru_word": "подавать сигнал",
+    "ru_definition": "подавать или создавать сигнал, не обязательно в устной форме",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haber salmak",
+                    "haber göndermek"
+                ],
+                "Azerbaijani": [
+                    "xəbər göndərmək"
+                ],
+                "Turkmen": [
+                    "habar bermek",
+                    "habar ýollamak",
+                    "habar ibermek"
+                ],
+                "Uzbek": [
+                    "xabar bermoq"
+                ],
+                "Uyghur": [
+                    "خەۋەر قىلماق"
+                ],
+                "Kazakh": [
+                    "хабарлау",
+                    "хабар беру"
+                ],
+                "Kyrgyz": [
+                    "кабар берүү",
+                    "кабарлоо"
+                ],
+                "Karakalpak": [
+                    "xabar berio"
+                ],
+                "Tatar": [
+                    "хәбәр итү",
+                    "хәбәр бирү"
+                ],
+                "Bashkir": [
+                    "хәбәр итеү",
+                    "хәбәр биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işaret etmek"
+                ],
+                "Azerbaijani": [
+                    "işarə etmək"
+                ],
+                "Turkmen": [
+                    "işarat etmek"
+                ],
+                "Uzbek": [
+                    "ishora qilmoq"
+                ],
+                "Uyghur": [
+                    "بېشارەت بەرمەك",
+                    "ئىشارەت قىلماق"
+                ],
+                "Kazakh": [
+                    "ишарат ету"
+                ],
+                "Kyrgyz": [
+                    "ишарат кылуу"
+                ],
+                "Karakalpak": [
+                    "isharat etio"
+                ],
+                "Tatar": [
+                    "ишарә итү"
+                ],
+                "Bashkir": [
+                    "ишара яһау",
+                    "ишаралау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bildirmek"
+                ],
+                "Azerbaijani": [
+                    "bildiriş vermək"
+                ],
+                "Turkmen": [
+                    "bildirmek"
+                ],
+                "Uzbek": [
+                    "bildirmoq",
+                    "belgi bermoq"
+                ],
+                "Kazakh": [
+                    "белгі беру"
+                ],
+                "Kyrgyz": [
+                    "билдирүү",
+                    "белги берүү"
+                ],
+                "Karakalpak": [
+                    "belgi berio"
+                ],
+                "Tatar": [
+                    "белдерү"
+                ],
+                "Bashkir": [
+                    "белдереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ma'lum qilmoq"
+                ],
+                "Kazakh": [
+                    "мәлімдеу"
+                ],
+                "Karakalpak": [
+                    "málimleme berio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mesaj iletmek"
+                ],
+                "Azerbaijani": [
+                    "mesaj vermək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ismarış yollamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇچۇر يوللىماق"
+                ]
+            }
+        }
+    ]
+}

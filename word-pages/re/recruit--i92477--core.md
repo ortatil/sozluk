@@ -1,0 +1,271 @@
+# Recruit
+| Field | Detail |
+|---|---|
+| **ID** | i92477 |
+| **English** | recruit |
+| **Type** | noun |
+| **Definition** | any new member or supporter (as in the armed forces) |
+| **Source** | core |
+| **Ortatil** | askergi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| ярдәмче | yardämçe |
+
+```json
+{
+    "id": "i92477",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "recruit",
+    "en_definition": "any new member or supporter (as in the armed forces)",
+    "tr_word": "acemi",
+    "tr_definition": "silahlı kuvvetlere veya bir kuruluşa yeni katılan kimse",
+    "ru_word": "новобранец",
+    "ru_definition": "лицо, недавно зачисленное на военную службу или в какую-либо организацию",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yeni əsgər"
+                ],
+                "Uzbek": [
+                    "yangi askar"
+                ],
+                "Uyghur": [
+                    "يېڭى ئەسكەر"
+                ],
+                "Kyrgyz": [
+                    "жаңы аскер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yeni üzv"
+                ],
+                "Uzbek": [
+                    "yangi a'zo"
+                ],
+                "Uyghur": [
+                    "يېڭى ئەزا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "jańa xızmetker"
+                ],
+                "Tatar": [
+                    "яңа хезмәткәр"
+                ],
+                "Bashkir": [
+                    "яңы хеҙмәткәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "asker"
+                ],
+                "Turkmen": [
+                    "esger"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаңа мүше"
+                ],
+                "Kyrgyz": [
+                    "жаңы мүчө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jańa aǵza"
+                ],
+                "Bashkir": [
+                    "яңы ағза"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təzə gələn"
+                ],
+                "Turkmen": [
+                    "täze gelen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яңа кеше"
+                ],
+                "Bashkir": [
+                    "яңы кеше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yeni üye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаңадан келген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жаңы келген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаңа сарбаз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жас жауынгер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яңы яугир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jas ásker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jańadan alınǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хезмәткә алынучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аскерге чакырылуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çağırışçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېڭى كىرگۈچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "agza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "er"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nefer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "acemi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "navkash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shogird"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ярдәмче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşunçy"
+                ]
+            }
+        }
+    ]
+}
+```
+

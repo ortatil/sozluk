@@ -1,0 +1,84 @@
+{
+    "id": "i15683",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "peaty",
+    "en_definition": "of or pertaining to or of the nature of peat",
+    "tr_word": "turf gibi",
+    "tr_definition": "turba (yer kömürü) ile ilgili veya turba niteliğinde olan",
+    "ru_word": "торфяной",
+    "ru_definition": "относящийся к торфу, состоящий из торфа или напоминающий его",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "turbalı",
+                    "turba gibi",
+                    "turba içerikli"
+                ],
+                "Azerbaijani": [
+                    "torflu",
+                    "torfvari",
+                    "torfşəkilli"
+                ],
+                "Turkmen": [
+                    "torfly",
+                    "torf meňzeş",
+                    "torf şekilli"
+                ],
+                "Uzbek": [
+                    "torfli",
+                    "torfsimon",
+                    "torfga boy"
+                ],
+                "Uyghur": [
+                    "تورپاقلىق",
+                    "تورپاقسىمان"
+                ],
+                "Karakalpak": [
+                    "torflı",
+                    "torf sıyaqlı",
+                    "torflı jer"
+                ],
+                "Tatar": [
+                    "торфлы",
+                    "торф сыман",
+                    "торфлы-сазлыклы"
+                ],
+                "Bashkir": [
+                    "торфлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шымтезекті",
+                    "шымтезек тәрізді",
+                    "шымтезектен тұратын"
+                ],
+                "Kyrgyz": [
+                    "чым көңдүү",
+                    "чым көң сыяктуу",
+                    "чым көң аралаш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پاتقاقلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һаҙлы",
+                    "һаҙлыҡлы"
+                ]
+            }
+        }
+    ]
+}

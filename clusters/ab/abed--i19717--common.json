@@ -1,0 +1,111 @@
+{
+    "id": "i19717",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "abed",
+    "en_definition": "in bed",
+    "tr_word": "yatakta",
+    "tr_definition": "yatak içerisinde olma durumu",
+    "ru_word": "в постели",
+    "ru_definition": "находясь в кровати или в постели",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "döşekte"
+                ],
+                "Turkmen": [
+                    "düşekde"
+                ],
+                "Uzbek": [
+                    "to'shakda"
+                ],
+                "Uyghur": [
+                    "تۆشەكتە"
+                ],
+                "Kazakh": [
+                    "төсекте"
+                ],
+                "Kyrgyz": [
+                    "төшөктө"
+                ],
+                "Karakalpak": [
+                    "tósekte"
+                ],
+                "Tatar": [
+                    "түшәктә"
+                ],
+                "Bashkir": [
+                    "түшәктә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yatakta",
+                    "yatmakta"
+                ],
+                "Azerbaijani": [
+                    "yataqda"
+                ],
+                "Turkmen": [
+                    "ýatyrka",
+                    "ýatan ýerinde"
+                ],
+                "Uzbek": [
+                    "yotoqda"
+                ],
+                "Uyghur": [
+                    "ياتاقتا"
+                ],
+                "Kazakh": [
+                    "жатыс",
+                    "жатулы"
+                ],
+                "Karakalpak": [
+                    "jatıs"
+                ],
+                "Tatar": [
+                    "ятып"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'rinda"
+                ],
+                "Uyghur": [
+                    "ئورۇندا"
+                ],
+                "Kyrgyz": [
+                    "орунда"
+                ],
+                "Tatar": [
+                    "урында"
+                ],
+                "Bashkir": [
+                    "урында"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yerdə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uzanmış"
+                ]
+            }
+        }
+    ]
+}

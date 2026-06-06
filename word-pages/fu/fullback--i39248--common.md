@@ -1,0 +1,134 @@
+# Fullback
+| Field | Detail |
+|---|---|
+| **ID** | i39248 |
+| **English** | fullback |
+| **Type** | noun |
+| **Definition** | (American football) the position of a back on a football team |
+| **Source** | common |
+| **Ortatil** | himäyäçi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қорғаушы | qorğauşı |
+| **Tatar** | |
+| сакчы | sakçı |
+| **Bashkir** | |
+| һаҡсы | haqsı |
+
+```json
+{
+    "id": "i39248",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fullback",
+    "en_definition": "(American football) the position of a back on a football team",
+    "tr_word": "fulbek",
+    "tr_definition": "Amerikan futbolunda, genellikle oyun kurucunun arkasında konumlanan ve hem blok yapma hem de koşu görevlerini üstlenen oyuncu pozisyonu.",
+    "ru_word": "фулбэк",
+    "ru_definition": "Позиция игрока в американском футболе, располагающегося в задней линии нападения, основной задачей которого является блокирование соперников для раннинбека или квотербека.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arka saha oyuncusu"
+                ],
+                "Azerbaijani": [
+                    "arxa oyunçu"
+                ],
+                "Turkmen": [
+                    "arka goragçy"
+                ],
+                "Uzbek": [
+                    "orqa chiziq o'yinchisi"
+                ],
+                "Uyghur": [
+                    "ئارقا ھۇجۇمچى",
+                    "ئارقا سەپ ماھىرى"
+                ],
+                "Kyrgyz": [
+                    "арткы коргоочу",
+                    "арткы оюнчу"
+                ],
+                "Tatar": [
+                    "арткы уенчы"
+                ],
+                "Bashkir": [
+                    "артҡы һаҡсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "savunma arkası"
+                ],
+                "Tatar": [
+                    "сакчы"
+                ],
+                "Bashkir": [
+                    "һаҡсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "артқы шеп ойыншысы",
+                    "артқы шептегі ойыншы"
+                ],
+                "Karakalpak": [
+                    "artqı shep oyınshısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қорғаушы"
+                ],
+                "Karakalpak": [
+                    "qorǵaushı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gerideki oyuncu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müdafiəçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzdaky goragçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "himoyachi"
+                ]
+            }
+        }
+    ]
+}
+```
+

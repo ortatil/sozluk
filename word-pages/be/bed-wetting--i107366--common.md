@@ -1,0 +1,194 @@
+# Bed-wetting
+| Field | Detail |
+|---|---|
+| **ID** | i107366 |
+| **English** | bed-wetting |
+| **Type** | noun |
+| **Definition** | enuresis during sleep; especially common in children (who usually outgrow it) |
+| **Source** | common |
+| **Ortatil** | enurez |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **enurez** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.03** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| шыжың | şıjıñ |
+| **Tatar** | |
+| энурез | enurez |
+
+```json
+{
+    "id": "i107366",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bed-wetting",
+    "en_definition": "enuresis during sleep; especially common in children (who usually outgrow it)",
+    "tr_word": "altını ıslatma",
+    "tr_definition": "Genellikle çocuklarda görülen, uyku sırasında istemsizce idrar kaçırma durumu; enürezis.",
+    "ru_word": "энурез",
+    "ru_definition": "Непроизвольное мочеиспускание во время сна, чаще всего встречающееся у детей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "түнгі сигектік"
+                ],
+                "Kyrgyz": [
+                    "түнкү заара кармай албоо"
+                ],
+                "Tatar": [
+                    "төнлә сию"
+                ],
+                "Bashkir": [
+                    "төнгө сидек тотмау",
+                    "төнгө сидек китеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yatak ıslatma"
+                ],
+                "Azerbaijani": [
+                    "yatağını islatma"
+                ],
+                "Bashkir": [
+                    "сидек тотмаусанлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "enurez"
+                ],
+                "Uzbek": [
+                    "enurez"
+                ],
+                "Tatar": [
+                    "энурез"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "siydik tutolmaslik"
+                ],
+                "Uyghur": [
+                    "سۈيدۈك تۇتالماسلىق"
+                ],
+                "Tatar": [
+                    "сидек тотмау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "төсекке жіберу",
+                    "төсекке сию"
+                ],
+                "Kyrgyz": [
+                    "төшөккө заара кылуу",
+                    "төшөккө сийүү"
+                ],
+                "Karakalpak": [
+                    "tósekke siyu",
+                    "tósekke jіberu",
+                    "tósek bılǵau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "altını ıslatma"
+                ],
+                "Azerbaijani": [
+                    "altını islatma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gecə enurezi"
+                ],
+                "Uyghur": [
+                    "كېچىلىك سىيىپ قويۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "idrar kaçırma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "aşagyňa goýbermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "peşew saklap bilmezlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tagiga siyish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئورنىغا سىيىپ قويۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шыжың"
+                ]
+            }
+        }
+    ]
+}
+```
+

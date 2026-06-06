@@ -1,0 +1,130 @@
+{
+    "id": "i50252",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "auction block",
+    "en_definition": "a platform from which an auctioneer sells",
+    "tr_word": "müzayede kürsüsü",
+    "tr_definition": "müzayedecinin satış yaptığı platform",
+    "ru_word": "аукционный помост",
+    "ru_definition": "платформа, с которой аукционист ведет торги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satış kürsüsü"
+                ],
+                "Turkmen": [
+                    "satuw meýdançasy",
+                    "satuw kürsisi"
+                ],
+                "Kazakh": [
+                    "сауда сөресі"
+                ],
+                "Kyrgyz": [
+                    "соода секичеси",
+                    "сатуу секичеси"
+                ],
+                "Karakalpak": [
+                    "saoda ornı",
+                    "saoda minberi"
+                ],
+                "Tatar": [
+                    "сату урыны",
+                    "сату мөнбәре"
+                ],
+                "Bashkir": [
+                    "һатыу урыны",
+                    "сауҙа майҙансығы",
+                    "сауҙа урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "auksion meýdançasy"
+                ],
+                "Kazakh": [
+                    "аукцион тұғыры"
+                ],
+                "Kyrgyz": [
+                    "аукциондук секиче"
+                ],
+                "Tatar": [
+                    "аукцион мәйданы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müzayede kürsüsü",
+                    "mezat kürsüsü"
+                ],
+                "Uyghur": [
+                    "مۇزاكىرە سۇپىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hərrac kürsüsü",
+                    "hərrac masası",
+                    "hərrac yeri"
+                ],
+                "Uyghur": [
+                    "ھەراج سۇپىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бәсеке сауда тұғыры"
+                ],
+                "Karakalpak": [
+                    "báslásio ornı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pey kürsüsü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "savdo supasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oshkora savdo joyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muloqot supasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كىرەي سۇپىسى"
+                ]
+            }
+        }
+    ]
+}

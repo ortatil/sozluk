@@ -1,0 +1,146 @@
+# Electric drill
+| Field | Detail |
+|---|---|
+| **ID** | i53160 |
+| **English** | electric drill |
+| **Type** | noun |
+| **Definition** | a rotating power drill powered by an electric motor |
+| **Source** | common |
+| **Ortatil** | burğu |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **burğu** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| бұрғы | burğı |
+| **Kyrgyz** | |
+| бургу | burgu |
+
+```json
+{
+    "id": "i53160",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "electric drill",
+    "en_definition": "a rotating power drill powered by an electric motor",
+    "tr_word": "elektrikli matkap",
+    "tr_definition": "elektrik motoruyla çalışan, dönen bir güç matkabı",
+    "ru_word": "электрическая дрель",
+    "ru_definition": "вращающийся сверлильный инструмент, приводимый в действие электродвигателем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrikli matkap"
+                ],
+                "Azerbaijani": [
+                    "elektrikli qazma",
+                    "elektrikli dəlgə",
+                    "elektrikli matqab"
+                ],
+                "Turkmen": [
+                    "elektrikli buraw",
+                    "elektrikli delgiç"
+                ],
+                "Uzbek": [
+                    "elektrparma"
+                ],
+                "Uyghur": [
+                    "ئېلېكتر بۇرغىسى",
+                    "ئېلېكتر بۇرغىلاش ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "электр бұрғысы"
+                ],
+                "Kyrgyz": [
+                    "электр бургусу",
+                    "электр бургу"
+                ],
+                "Karakalpak": [
+                    "elektr burǵısı",
+                    "elektr parması"
+                ],
+                "Tatar": [
+                    "электр боравы",
+                    "электр бораулагычы"
+                ],
+                "Bashkir": [
+                    "электр бырауы",
+                    "электр быраулауысы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "burawlaýjy"
+                ],
+                "Uzbek": [
+                    "burg'u"
+                ],
+                "Uyghur": [
+                    "بۇرغىلاش ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "бұрғы",
+                    "бұрғылау құралы"
+                ],
+                "Kyrgyz": [
+                    "бургу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "matkap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "delgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şarjlı matkap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "parma"
+                ]
+            }
+        }
+    ]
+}
+```
+

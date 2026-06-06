@@ -1,0 +1,74 @@
+{
+    "id": "i101105",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "okra",
+    "en_definition": "long green edible beaked pods of the okra plant",
+    "tr_word": "bamya",
+    "tr_definition": "Ebegümecigillerden, sıcak bölgelerde yetişen, çiçekleri sarı, meyvesi uzunca, koni biçiminde, yeşil ve tüylü bir bitki",
+    "ru_word": "бамия",
+    "ru_definition": "Травянистое растение семейства мальвовых, овощная культура с длинными зелеными стручками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bamya"
+                ],
+                "Azerbaijani": [
+                    "bamiyə",
+                    "bamya"
+                ],
+                "Turkmen": [
+                    "bamya",
+                    "bamye"
+                ],
+                "Uzbek": [
+                    "bamya",
+                    "bamiyo"
+                ],
+                "Uyghur": [
+                    "بامىيە",
+                    "بامىيا"
+                ],
+                "Kazakh": [
+                    "бамия"
+                ],
+                "Kyrgyz": [
+                    "бамия"
+                ],
+                "Karakalpak": [
+                    "bamiya"
+                ],
+                "Tatar": [
+                    "бамья",
+                    "бәмия"
+                ],
+                "Bashkir": [
+                    "бамья"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "окра"
+                ],
+                "Karakalpak": [
+                    "okpa"
+                ],
+                "Bashkir": [
+                    "окpа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қынагүл"
+                ]
+            }
+        }
+    ]
+}

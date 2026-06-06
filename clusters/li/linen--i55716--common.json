@@ -1,0 +1,95 @@
+{
+    "id": "i55716",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "linen",
+    "en_definition": "a fabric woven with fibers from the flax plant",
+    "tr_word": "keten",
+    "tr_definition": "keten bitkisinin liflerinden dokunmuş kumaş",
+    "ru_word": "лён",
+    "ru_definition": "ткань, вырабатываемая из волокон льна",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "keten",
+                    "keten bezi",
+                    "keten kumaş"
+                ],
+                "Azerbaijani": [
+                    "kətan",
+                    "kətan parça"
+                ],
+                "Turkmen": [
+                    "keten"
+                ],
+                "Uyghur": [
+                    "كەندىر رەخت",
+                    "كەندىر"
+                ],
+                "Tatar": [
+                    "киндер"
+                ],
+                "Bashkir": [
+                    "кенеп",
+                    "киндер",
+                    "киндер туҡыма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "zygyr matasy",
+                    "zygyr"
+                ],
+                "Uzbek": [
+                    "zigʻir mato"
+                ],
+                "Uyghur": [
+                    "زەغىر رەخت"
+                ],
+                "Kazakh": [
+                    "зығыр",
+                    "зығыр мата"
+                ],
+                "Kyrgyz": [
+                    "зыгыр буласы",
+                    "зыгыр кездеме",
+                    "зыгыр"
+                ],
+                "Karakalpak": [
+                    "zıǵır mata",
+                    "zıǵır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boʻz"
+                ],
+                "Kazakh": [
+                    "бөз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kanop"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җитен",
+                    "җитен тукыма"
+                ]
+            }
+        }
+    ]
+}

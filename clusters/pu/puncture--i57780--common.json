@@ -1,0 +1,132 @@
+{
+    "id": "i57780",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "puncture",
+    "en_definition": "a small hole made by a sharp object",
+    "tr_word": "delik",
+    "tr_definition": "keskin bir nesne tarafından açılan küçük delik",
+    "ru_word": "прокол",
+    "ru_definition": "небольшое отверстие, сделанное острым предметом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "delik",
+                    "gedik"
+                ],
+                "Azerbaijani": [
+                    "deşik",
+                    "dəlik"
+                ],
+                "Turkmen": [
+                    "deşik"
+                ],
+                "Uzbek": [
+                    "teshik",
+                    "teshilish"
+                ],
+                "Uyghur": [
+                    "تۆشۈك",
+                    "تېشىلگەن جاي"
+                ],
+                "Kazakh": [
+                    "тесік"
+                ],
+                "Kyrgyz": [
+                    "тешик",
+                    "тешикче"
+                ],
+                "Karakalpak": [
+                    "tesik"
+                ],
+                "Tatar": [
+                    "тишек",
+                    "тишем",
+                    "тишкән урын"
+                ],
+                "Bashkir": [
+                    "тишек",
+                    "тишем",
+                    "тишкән урын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yırtık"
+                ],
+                "Azerbaijani": [
+                    "yarıq"
+                ],
+                "Uzbek": [
+                    "yoriq"
+                ],
+                "Uyghur": [
+                    "يېرىق"
+                ],
+                "Kazakh": [
+                    "жарық",
+                    "жырым"
+                ],
+                "Kyrgyz": [
+                    "жарака"
+                ],
+                "Karakalpak": [
+                    "jarıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nokat"
+                ],
+                "Uzbek": [
+                    "nuqta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саңылау"
+                ],
+                "Karakalpak": [
+                    "sańılau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "delinme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məsamə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "deşilen ýer"
+                ]
+            }
+        }
+    ]
+}

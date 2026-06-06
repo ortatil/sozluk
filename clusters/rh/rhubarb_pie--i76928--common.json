@@ -1,0 +1,75 @@
+{
+    "id": "i76928",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rhubarb pie",
+    "en_definition": "pie containing diced rhubarb and much sugar",
+    "tr_word": "raventli turta",
+    "tr_definition": "doğranmış ravent ve bol şeker içeren turta",
+    "ru_word": "пирог с ревенем",
+    "ru_definition": "пирог, содержащий нарезанный кубиками ревень и большое количество сахара",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "reventli turta",
+                    "reventli çörek"
+                ],
+                "Azerbaijani": [
+                    "rəvənd piroqu"
+                ],
+                "Turkmen": [
+                    "rewenli gutap",
+                    "rewenli börek",
+                    "rewenli çörek"
+                ],
+                "Uzbek": [
+                    "ravochli pirog",
+                    "ravochli pishiriq"
+                ],
+                "Uyghur": [
+                    "راۋاچ پىروگى",
+                    "راۋاچ سامسىسى"
+                ],
+                "Kazakh": [
+                    "рауаш бәліші",
+                    "рауаш пирогы"
+                ],
+                "Kyrgyz": [
+                    "ревен пирогу"
+                ],
+                "Karakalpak": [
+                    "rauash bálish",
+                    "rauash pirogı"
+                ],
+                "Tatar": [
+                    "равач бәлеше",
+                    "равач пирогы"
+                ],
+                "Bashkir": [
+                    "реваж бәлеше",
+                    "рауаж бәлеше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ışgınlı turta",
+                    "ışgınlı çörek"
+                ],
+                "Azerbaijani": [
+                    "işgın piroqu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "марал кулак пирогу"
+                ]
+            }
+        }
+    ]
+}

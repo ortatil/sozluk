@@ -1,0 +1,80 @@
+{
+    "id": "i18766",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "late",
+    "en_definition": "later than usual or than expected",
+    "tr_word": "geç",
+    "tr_definition": "Alışılmış olandan veya beklenen zamandan sonra",
+    "ru_word": "поздно",
+    "ru_definition": "Позже обычного или ожидаемого времени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geç",
+                    "gecikmeli"
+                ],
+                "Azerbaijani": [
+                    "gec",
+                    "gecikmiş"
+                ],
+                "Turkmen": [
+                    "giç",
+                    "gijigip"
+                ],
+                "Uzbek": [
+                    "kech",
+                    "kechikib"
+                ],
+                "Uyghur": [
+                    "كېچىكىپ",
+                    "كېچىچە"
+                ],
+                "Kazakh": [
+                    "кеш",
+                    "кешігіп"
+                ],
+                "Kyrgyz": [
+                    "кеч",
+                    "кечигип"
+                ],
+                "Karakalpak": [
+                    "kesh",
+                    "keshigip"
+                ],
+                "Tatar": [
+                    "кичегеп"
+                ],
+                "Bashkir": [
+                    "кис"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "соң"
+                ],
+                "Bashkir": [
+                    "һуң"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېيىن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "вакытсыз"
+                ]
+            }
+        }
+    ]
+}

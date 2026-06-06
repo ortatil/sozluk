@@ -1,0 +1,156 @@
+# Brown snail
+| Field | Detail |
+|---|---|
+| **ID** | i45557 |
+| **English** | brown snail |
+| **Type** | noun |
+| **Definition** | serious garden pest having a brown shell with paler zigzag markings; nearly cosmopolitan in distribution |
+| **Source** | common |
+| **Ortatil** | şilliqqırt |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| үлүл | ülül |
+| **Bashkir** | |
+| ҡусҡар | qusqar |
+
+```json
+{
+    "id": "i45557",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brown snail",
+    "en_definition": "serious garden pest having a brown shell with paler zigzag markings; nearly cosmopolitan in distribution",
+    "tr_word": "kahverengi bahçe salyangozu",
+    "tr_definition": "Soluk zikzak desenli kahverengi kabuğu olan ve dünya genelinde yaygın görülen ciddi bir bahçe zararlısı.",
+    "ru_word": "коричневая садовая улитка",
+    "ru_definition": "Серьезный садовый вредитель с коричневой раковиной с бледными зигзагообразными отметинами; распространен почти повсеместно.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bahçe salyangozu"
+                ],
+                "Azerbaijani": [
+                    "bağ ilbizi"
+                ],
+                "Turkmen": [
+                    "bag şitili"
+                ],
+                "Kazakh": [
+                    "бақша ұлуы"
+                ],
+                "Kyrgyz": [
+                    "бакча үлүлү"
+                ],
+                "Karakalpak": [
+                    "baqsha ұluı"
+                ],
+                "Tatar": [
+                    "бакча үрмәкүче"
+                ],
+                "Bashkir": [
+                    "баҡса ҡусҡары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qonur ilbiz"
+                ],
+                "Turkmen": [
+                    "goňur uly balykgulak"
+                ],
+                "Uyghur": [
+                    "قوڭۇر لىلىچەك",
+                    "قوڭۇر قۇلۇلە",
+                    "قوڭۇر پاشپاق"
+                ],
+                "Kazakh": [
+                    "қоңыр ұлу"
+                ],
+                "Karakalpak": [
+                    "qońır ұlu"
+                ],
+                "Tatar": [
+                    "коңгырт үлән үрмәкүче",
+                    "коңгырт кабырчыклы үрмәкүч"
+                ],
+                "Bashkir": [
+                    "ҡуңыр ҡусҡар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kahverengi salyangoz"
+                ],
+                "Azerbaijani": [
+                    "qəhvəyi ilbiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kara sümüklüböceği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "balykgulak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shilliqqurt",
+                    "shilliq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chigʻanoqli shilliq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күрөң үлүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үлүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡусҡар"
+                ]
+            }
+        }
+    ]
+}
+```
+

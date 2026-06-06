@@ -1,0 +1,101 @@
+{
+    "id": "i76676",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lobster stew",
+    "en_definition": "diced lobster meat in milk or cream",
+    "tr_word": "ıstakoz yahnisi",
+    "tr_definition": "süt veya krema içinde doğranmış ıstakoz eti",
+    "ru_word": "рагу из лобстера",
+    "ru_definition": "нарезанное мясо лобстера в молоке или сливках",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "omar şorbası",
+                    "omar pörtləməsi",
+                    "omar xörəyi"
+                ],
+                "Kazakh": [
+                    "омар сорпасы",
+                    "омар бұқтырмасы"
+                ],
+                "Kyrgyz": [
+                    "омар шорпосу",
+                    "омар кайнатмасы"
+                ],
+                "Karakalpak": [
+                    "omar sorpası",
+                    "omar shorpası"
+                ],
+                "Tatar": [
+                    "омар шулпасы"
+                ],
+                "Bashkir": [
+                    "омар ашы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ıstakoz yahnisi"
+                ],
+                "Uyghur": [
+                    "دېڭىز قۇستىقورۇتى قورۇمىسى"
+                ],
+                "Bashkir": [
+                    "диңгеҙ ҡыҫалаһы ашы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sütlü ıstakoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kremalı ıstakoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lobster çorbasy",
+                    "lobsterli süýtli nahar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "omarli dimlama",
+                    "omarli sho'rva",
+                    "omarli qayla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇستىقورۇت شورپىسى",
+                    "قۇستىقورۇت سۈت شورپىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "диңгез кысласы шулпасы"
+                ]
+            }
+        }
+    ]
+}

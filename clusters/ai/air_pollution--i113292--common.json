@@ -1,0 +1,97 @@
+{
+    "id": "i113292",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "air pollution",
+    "en_definition": "pollution of the atmosphere",
+    "tr_word": "hava kirliliği",
+    "tr_definition": "atmosferin zararlı maddelerle kirlenmesi",
+    "ru_word": "загрязнение воздуха",
+    "ru_definition": "наличие в атмосфере вредных веществ, наносящих ущерб здоровью человека и окружающей среде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hava kirliliği",
+                    "hava kirlenmesi"
+                ],
+                "Azerbaijani": [
+                    "hava çirkliliyi",
+                    "havanın çirklənməsi"
+                ],
+                "Uzbek": [
+                    "havo ifloslanishi",
+                    "havoning bulg'anishi"
+                ],
+                "Uyghur": [
+                    "ھاۋا بۇلغىنىشى",
+                    "ھاۋانىڭ بۇلغىنىشى"
+                ],
+                "Karakalpak": [
+                    "haoanıń paslanıoı",
+                    "haoanıń kirlenioi"
+                ],
+                "Tatar": [
+                    "һава пычрануы",
+                    "һаваның пычрануы"
+                ],
+                "Bashkir": [
+                    "һауа бысраныуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "atmosfer çirkliliyi"
+                ],
+                "Uzbek": [
+                    "atmosfera ifloslanishi"
+                ],
+                "Uyghur": [
+                    "ئاتموسفېرا بۇلغىنىشى"
+                ],
+                "Kazakh": [
+                    "атмосфераның ластануы"
+                ],
+                "Tatar": [
+                    "атмосфера пычрануы"
+                ],
+                "Bashkir": [
+                    "атмосфера бысраныуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ауаның ластануы",
+                    "ауаның былғануы"
+                ],
+                "Kyrgyz": [
+                    "абанын булганышы",
+                    "абанын кирдеши",
+                    "абанын булгануусу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howanyň hapalanmagy",
+                    "howa hapalygy",
+                    "howanyň hapalanmasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һауа бысратылыуы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "i45591",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sea slug",
+    "en_definition": "any of various marine gastropods of the suborder Nudibranchia having a shell-less and often beautifully colored body",
+    "tr_word": "deniz tavşanı",
+    "tr_definition": "Nudibranchia alt takımına ait, kabuksuz ve genellikle parlak renkli vücutları olan deniz yumuşakçalarının genel adı.",
+    "ru_word": "морской слизень",
+    "ru_definition": "общее название морских брюхоногих моллюсков из подотряда Nudibranchia, лишенных раковины и часто имеющих яркую окраску.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz tavşanı",
+                    "deniz sümüklüböceği"
+                ],
+                "Azerbaijani": [
+                    "dəniz ilbizsiz ilbizi",
+                    "dəniz çılpaq ilbizi",
+                    "dəniz lümçəsi"
+                ],
+                "Turkmen": [
+                    "deňiz sülükçesi"
+                ],
+                "Uzbek": [
+                    "dengiz shilliqurti",
+                    "dengiz shilliqi"
+                ],
+                "Uyghur": [
+                    "دېڭىز يالىڭاچ يىلانبېلىقى",
+                    "دېڭىز يالىڭاچ لىمىچى"
+                ],
+                "Kazakh": [
+                    "теңіз ұлуы"
+                ],
+                "Kyrgyz": [
+                    "деңиз үлүлү"
+                ],
+                "Karakalpak": [
+                    "teńiz shırıldauıǵı",
+                    "teńiz úlúshi"
+                ],
+                "Tatar": [
+                    "диңгез лайлалы үтәсе",
+                    "диңгез лайлачыгы"
+                ],
+                "Bashkir": [
+                    "диңгеҙ ҡусҡары",
+                    "диңгеҙ ҡабырсаҡһыҙы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалаңашжелбезекті ұлу"
+                ],
+                "Kyrgyz": [
+                    "жылаңач үлүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıplak solungaçlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "balykgulaksyz mollýusk"
+                ]
+            }
+        }
+    ]
+}

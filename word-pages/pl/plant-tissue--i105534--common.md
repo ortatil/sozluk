@@ -1,0 +1,104 @@
+# Plant tissue
+| Field | Detail |
+|---|---|
+| **ID** | i105534 |
+| **English** | plant tissue |
+| **Type** | noun |
+| **Definition** | the tissue of a plant |
+| **Source** | common |
+| **Ortatil** | näseç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| нәҫеж | näsej |
+
+```json
+{
+    "id": "i105534",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "plant tissue",
+    "en_definition": "the tissue of a plant",
+    "tr_word": "bitki dokusu",
+    "tr_definition": "Bitkilerin yapısını oluşturan ve belirli görevleri yerine getiren hücre topluluğu.",
+    "ru_word": "растительная ткань",
+    "ru_definition": "совокупность клеток растения, имеющих общее происхождение и выполняющих определённые функции.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ösümlik dokumasy",
+                    "ösümlik dokumalary"
+                ],
+                "Uzbek": [
+                    "oʻsimlik toʻqimasi"
+                ],
+                "Uyghur": [
+                    "ئۆسۈملۈك توقۇلمىسى",
+                    "ئۆسۈملۈك توقۇلمىلىرى"
+                ],
+                "Kazakh": [
+                    "өсімдік ұлпасы",
+                    "өсімдік тіні"
+                ],
+                "Kyrgyz": [
+                    "өсүмдүк тканы",
+                    "өсүмдүк токуму"
+                ],
+                "Karakalpak": [
+                    "ósimlik tini",
+                    "ósimlik toqıması"
+                ],
+                "Tatar": [
+                    "үсемлек тукымасы"
+                ],
+                "Bashkir": [
+                    "үҫемлек туҡымаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nebat dokusu"
+                ],
+                "Azerbaijani": [
+                    "nəbati toxuma"
+                ],
+                "Uzbek": [
+                    "nabotot toʻqimasi"
+                ],
+                "Tatar": [
+                    "нәбат тукымасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bitki dokusu"
+                ],
+                "Azerbaijani": [
+                    "bitki toxuması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "нәҫеж"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,118 @@
+{
+    "id": "i37304",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shearing",
+    "en_definition": "removing by cutting off or clipping",
+    "tr_word": "kırkma",
+    "tr_definition": "keserek veya kırparak çıkarma işlemi",
+    "ru_word": "стрижка",
+    "ru_definition": "удаление путем срезания или состригания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kırkma",
+                    "kırkım"
+                ],
+                "Azerbaijani": [
+                    "qırxım",
+                    "qırxma",
+                    "qırxılma"
+                ],
+                "Turkmen": [
+                    "gyrkyş",
+                    "gyrkym"
+                ],
+                "Uzbek": [
+                    "qirqish",
+                    "qirqim"
+                ],
+                "Uyghur": [
+                    "قىرقىش"
+                ],
+                "Kazakh": [
+                    "қырқу"
+                ],
+                "Kyrgyz": [
+                    "кыркын",
+                    "кыркуу",
+                    "кыркым"
+                ],
+                "Karakalpak": [
+                    "qırqım",
+                    "qırqıu"
+                ],
+                "Tatar": [
+                    "кырку",
+                    "кыркып алу"
+                ],
+                "Bashkir": [
+                    "ҡырҡыу",
+                    "ҡырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kesme"
+                ],
+                "Azerbaijani": [
+                    "kəsim"
+                ],
+                "Turkmen": [
+                    "kesiş"
+                ],
+                "Uzbek": [
+                    "kesish"
+                ],
+                "Uyghur": [
+                    "كېسىش"
+                ],
+                "Kazakh": [
+                    "кесу"
+                ],
+                "Karakalpak": [
+                    "kesiu"
+                ],
+                "Tatar": [
+                    "кисү"
+                ],
+                "Bashkir": [
+                    "киҫеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "biçme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yulish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چاپاش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күзеу"
+                ]
+            }
+        }
+    ]
+}

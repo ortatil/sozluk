@@ -1,0 +1,156 @@
+{
+    "id": "i25629",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "cell phone",
+    "en_definition": "call up by using a cellular phone",
+    "tr_word": "cep telefonuyla aramak",
+    "tr_definition": "birini cep telefonu kullanarak aramak veya iletişim kurmak",
+    "ru_word": "звонить по мобильному телефону",
+    "ru_definition": "позвонить кому-либо, используя сотовый телефон",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telefon etmek",
+                    "telefon açmak"
+                ],
+                "Azerbaijani": [
+                    "telefon açmaq"
+                ],
+                "Turkmen": [
+                    "telefon etmek"
+                ],
+                "Uzbek": [
+                    "tel qilmoq"
+                ],
+                "Uyghur": [
+                    "تېلېفون قىلىش",
+                    "تېلېفون بېرىش",
+                    "تېلېفون سوقۇش"
+                ],
+                "Kazakh": [
+                    "телефон соғу"
+                ],
+                "Karakalpak": [
+                    "telefon etiu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "habarlaşmak"
+                ],
+                "Kazakh": [
+                    "хабарласу"
+                ],
+                "Karakalpak": [
+                    "xabarlasıu"
+                ],
+                "Tatar": [
+                    "хәбәрләшү"
+                ],
+                "Bashkir": [
+                    "хәбәр итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻngʻiroq qilmoq"
+                ],
+                "Kazakh": [
+                    "қоңырау шалу"
+                ],
+                "Kyrgyz": [
+                    "коңгуроо кылуу"
+                ],
+                "Karakalpak": [
+                    "qońırau shalıu"
+                ],
+                "Bashkir": [
+                    "ҡыңғыраулау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "чалуу"
+                ],
+                "Tatar": [
+                    "шалтырату"
+                ],
+                "Bashkir": [
+                    "шылтыратыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əlaqə saxlamaq"
+                ],
+                "Uzbek": [
+                    "aloqaga chiqmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cepten aramak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aramak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zəng etmək",
+                    "zəng vurmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jaň etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sim qoqmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "байланышуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "элемтәгә чыгу"
+                ]
+            }
+        }
+    ]
+}

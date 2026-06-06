@@ -1,0 +1,154 @@
+{
+    "id": "i36525",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "handover",
+    "en_definition": "act of relinquishing property or authority etc",
+    "tr_word": "devir",
+    "tr_definition": "Bir mülkün veya yetkinin başkasına aktarılması eylemi.",
+    "ru_word": "передача",
+    "ru_definition": "Акт передачи собственности, полномочий или ответственности другому лицу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tabşyrma"
+                ],
+                "Uzbek": [
+                    "topshirish"
+                ],
+                "Uyghur": [
+                    "تاپشۇرۇش",
+                    "تاپشۇرۇپ بېرىش"
+                ],
+                "Kazakh": [
+                    "тапсыру"
+                ],
+                "Kyrgyz": [
+                    "тапшыруу"
+                ],
+                "Karakalpak": [
+                    "tapsırıo"
+                ],
+                "Tatar": [
+                    "тапшыру",
+                    "тапшырылу"
+                ],
+                "Bashkir": [
+                    "тапшырыу",
+                    "тапшырылыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "feragat",
+                    "terk"
+                ],
+                "Azerbaijani": [
+                    "verilmə"
+                ],
+                "Kazakh": [
+                    "беру"
+                ],
+                "Karakalpak": [
+                    "berio"
+                ],
+                "Tatar": [
+                    "бирелү"
+                ],
+                "Bashkir": [
+                    "биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ötürmə"
+                ],
+                "Uzbek": [
+                    "o'tkazish"
+                ],
+                "Uyghur": [
+                    "ئۆتكۈزۈپ بېرىش",
+                    "ئۆتكۈزۈش"
+                ],
+                "Kazakh": [
+                    "өткізу"
+                ],
+                "Kyrgyz": [
+                    "өткөрүп берүү",
+                    "өткөрүү"
+                ],
+                "Karakalpak": [
+                    "ótkerio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teslim"
+                ],
+                "Azerbaijani": [
+                    "təslim"
+                ],
+                "Uzbek": [
+                    "taslim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "amanat"
+                ],
+                "Kazakh": [
+                    "аманаттау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "devir",
+                    "devretme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təhvil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "geçirme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gowşurma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "havola"
+                ]
+            }
+        }
+    ]
+}

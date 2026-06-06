@@ -1,0 +1,86 @@
+{
+    "id": "i59168",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "soap flakes",
+    "en_definition": "soap that has been cut into flakes to make suds faster",
+    "tr_word": "sabun pulları",
+    "tr_definition": "Daha hızlı köpürmesi için ince pullar veya talaşlar hâlinde kesilmiş sabun.",
+    "ru_word": "мыльные хлопья",
+    "ru_definition": "Мыло, нарезанное тонкими хлопьями для более быстрого образования пены.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sabun rendesi"
+                ],
+                "Azerbaijani": [
+                    "sabun qırıntısı",
+                    "sabun yonqarı",
+                    "sabun tozu"
+                ],
+                "Turkmen": [
+                    "sabyn bölejikleri",
+                    "sabyn garyndysy"
+                ],
+                "Uzbek": [
+                    "sovun qirindisi",
+                    "sovun parchalari",
+                    "sovun kukuni"
+                ],
+                "Uyghur": [
+                    "سوپۇن ئۇۋاقلىرى",
+                    "سوپۇن پارچىلىرى",
+                    "سوپۇن تالقانلىرى"
+                ],
+                "Kazakh": [
+                    "сабын үгіндісі",
+                    "сабын қиыршығы",
+                    "сабын жаңқасы"
+                ],
+                "Kyrgyz": [
+                    "самын күкүмү",
+                    "самын таарындысы",
+                    "самын кабырчыгы"
+                ],
+                "Karakalpak": [
+                    "sabın úlpegi",
+                    "sabın qiındısı",
+                    "sabın úgindisi"
+                ],
+                "Tatar": [
+                    "сабын кырынтысы",
+                    "сабын кабырчыгы",
+                    "сабын вагы"
+                ],
+                "Bashkir": [
+                    "һабын юнысҡаһы",
+                    "һабын ҡыртышы",
+                    "һабын вағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "granül sabun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toz sabun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "owradylan sabyn"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+# Minivan
+| Field | Detail |
+|---|---|
+| **ID** | i56278 |
+| **English** | minivan |
+| **Type** | noun |
+| **Definition** | a small box-shaped passenger van; usually has removable seats; used as a family car |
+| **Source** | common |
+| **Ortatil** | mikroawtobus |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **mikroawtobus** | **miniwen** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ❌ | ✅ |
+| Kazakh | ❌ | ❌ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.67 |
+| *Qarluq Subtotal* | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 0.60 | 0 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **2.77** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مىنىۋېن | miniven |
+| **Kazakh** | |
+| көлік | kölik |
+| арба | arba |
+| **Kyrgyz** | |
+| кичиавтобус | kiçiavtobus |
+| кичибус | kiçibus |
+| унаа | unaa |
+| **Tatar** | |
+| микроавтобус | mikroavtobus |
+| **Bashkir** | |
+| микроавтобус | mikroavtobus |
+
+```json
+{
+    "id": "i56278",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "minivan",
+    "en_definition": "a small box-shaped passenger van; usually has removable seats; used as a family car",
+    "tr_word": "minivan",
+    "tr_definition": "Genellikle aile arabası olarak kullanılan, çıkarılabilir koltuklara sahip, küçük kutu şeklinde yolcu minibüsü.",
+    "ru_word": "минивэн",
+    "ru_definition": "небольшой пассажирский фургон коробчатой формы, обычно со съемными сиденьями, используемый как семейный автомобиль.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük otobüs"
+                ],
+                "Turkmen": [
+                    "kiçi awtobus"
+                ],
+                "Uzbek": [
+                    "kichik avtobus"
+                ],
+                "Uyghur": [
+                    "كىچىك تىپتىكى ئاپتوموبىل"
+                ],
+                "Kyrgyz": [
+                    "кичиавтобус",
+                    "кичибус"
+                ],
+                "Karakalpak": [
+                    "kishi awtobus"
+                ],
+                "Tatar": [
+                    "кече автобус"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aile arabası"
+                ],
+                "Azerbaijani": [
+                    "ailə maşını"
+                ],
+                "Uzbek": [
+                    "oilaviy mashina"
+                ],
+                "Uyghur": [
+                    "ئائىلە ئاپتوموبىلى"
+                ],
+                "Tatar": [
+                    "гаилә машинасы"
+                ],
+                "Bashkir": [
+                    "ғаилә автомобиле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mikroavtobus"
+                ],
+                "Turkmen": [
+                    "mikroawtobus"
+                ],
+                "Uzbek": [
+                    "mikroavtobus"
+                ],
+                "Karakalpak": [
+                    "mikroawtobus"
+                ],
+                "Tatar": [
+                    "микроавтобус"
+                ],
+                "Bashkir": [
+                    "микроавтобус"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "minibüs"
+                ],
+                "Azerbaijani": [
+                    "miniven"
+                ],
+                "Uyghur": [
+                    "مىنىۋېن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çok amaçlı araç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maşgala ulagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шағын автобус"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kóp orınlı mashina"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәй автобус"
+                ]
+            }
+        }
+    ]
+}
+```
+

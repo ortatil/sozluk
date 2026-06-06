@@ -1,0 +1,81 @@
+{
+    "id": "i44805",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "quail",
+    "en_definition": "small gallinaceous game birds",
+    "tr_word": "bıldırcın",
+    "tr_definition": "Sülüngiller familyasından, küçük gövdeli, kısa kuyruklu, göçücü bir av kuşu.",
+    "ru_word": "перепел",
+    "ru_definition": "Небольшая птица семейства фазановых, являющаяся объектом охоты.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vərtənə"
+                ],
+                "Turkmen": [
+                    "bedene",
+                    "büdene"
+                ],
+                "Uzbek": [
+                    "bedana",
+                    "bechala"
+                ],
+                "Uyghur": [
+                    "بۆدۈنە",
+                    "بۆدۈنە قۇشى"
+                ],
+                "Kazakh": [
+                    "бөдене"
+                ],
+                "Kyrgyz": [
+                    "бөдөнө",
+                    "бөдөнө куш"
+                ],
+                "Karakalpak": [
+                    "bódene"
+                ],
+                "Tatar": [
+                    "бүдәнә"
+                ],
+                "Bashkir": [
+                    "бөҙәнә",
+                    "бөҙәнә ҡошо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бытпылдық"
+                ],
+                "Karakalpak": [
+                    "bıtbıldık"
+                ],
+                "Tatar": [
+                    "бытбылдык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bıldırcın"
+                ],
+                "Azerbaijani": [
+                    "bildirçin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "selva"
+                ]
+            }
+        }
+    ]
+}

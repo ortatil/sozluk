@@ -1,0 +1,206 @@
+# Protest march
+| Field | Detail |
+|---|---|
+| **ID** | i41580 |
+| **English** | protest march |
+| **Type** | noun |
+| **Definition** | occasion when you can express opposition by marching (usually on some government institution) without a license |
+| **Source** | common |
+| **Ortatil** | jürüş |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jürüş** | **nümayiş** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ❌ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.67 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 0.80 | 0 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **3.80** | **1.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| يۈرۈش | yürüş |
+| نامايىش | namayiş |
+| **Kazakh** | |
+| шеру | şeru |
+| көтеріліс | köterilis |
+| **Kyrgyz** | |
+| жүрүш | jürüş |
+| тизилүү | tizilüü |
+| **Tatar** | |
+| йөреш | yöreş |
+| җыен | jıyen |
+| **Bashkir** | |
+| йөрөш | yöröş |
+| шәүиш | şäüiş |
+
+```json
+{
+    "id": "i41580",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "protest march",
+    "en_definition": "occasion when you can express opposition by marching (usually on some government institution) without a license",
+    "tr_word": "protesto yürüyüşü",
+    "tr_definition": "Genellikle bir hükümet kurumuna karşı muhalefeti ifade etmek amacıyla düzenlenen toplu yürüyüş.",
+    "ru_word": "марш протеста",
+    "ru_definition": "Массовое шествие с целью выражения несогласия или протеста против чего-либо, часто направленное на государственные институты.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yürüyüş"
+                ],
+                "Azerbaijani": [
+                    "yürüş"
+                ],
+                "Turkmen": [
+                    "ýöriş"
+                ],
+                "Uzbek": [
+                    "yurish"
+                ],
+                "Uyghur": [
+                    "يۈرۈش"
+                ],
+                "Kyrgyz": [
+                    "жүрүш"
+                ],
+                "Karakalpak": [
+                    "júrіs"
+                ],
+                "Tatar": [
+                    "йөреш"
+                ],
+                "Bashkir": [
+                    "йөрөш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "garşylyk ýörişi"
+                ],
+                "Kazakh": [
+                    "наразылық шеруі",
+                    "қарсылық шеруі"
+                ],
+                "Kyrgyz": [
+                    "каршылык жүрүшү",
+                    "нааразылык жүрүшү"
+                ],
+                "Karakalpak": [
+                    "narazılıq sheruі"
+                ],
+                "Tatar": [
+                    "каршылык йөреше",
+                    "каршылык чарасы"
+                ],
+                "Bashkir": [
+                    "ҡаршылыҡ йөрөшө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nümayiş"
+                ],
+                "Azerbaijani": [
+                    "nümayiş"
+                ],
+                "Uzbek": [
+                    "namoyish",
+                    "namoyishkorona yurish"
+                ],
+                "Uyghur": [
+                    "نامايىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "etiraz yürüşü"
+                ],
+                "Uzbek": [
+                    "e'tiroz yurishi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "narazylyk ýörişi"
+                ],
+                "Uyghur": [
+                    "نارازىلىق نامايىشى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шеру"
+                ],
+                "Karakalpak": [
+                    "sheru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "protesto yürüyüşü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көтеріліс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тизилүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җыен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "шәүиш"
+                ]
+            }
+        }
+    ]
+}
+```
+

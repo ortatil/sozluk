@@ -1,0 +1,96 @@
+{
+    "id": "i68892",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "economics",
+    "en_definition": "the branch of social science that deals with the production and distribution and consumption of goods and services and their management",
+    "tr_word": "ekonomi",
+    "tr_definition": "Mal ve hizmetlerin üretimi, dağıtımı ve tüketimi ile bunların yönetimini inceleyen sosyal bilim dalı.",
+    "ru_word": "экономика",
+    "ru_definition": "Отрасль общественных наук, изучающая производство, распределение и потребление товаров и услуг, а также управление ими.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iktisat"
+                ],
+                "Azerbaijani": [
+                    "iqtisadiyyat",
+                    "iqtisad"
+                ],
+                "Turkmen": [
+                    "ykdysadyýet",
+                    "ykdysat"
+                ],
+                "Uzbek": [
+                    "iqtisod",
+                    "iqtisodiyot"
+                ],
+                "Uyghur": [
+                    "ئىقتىساد",
+                    "ئىقتىسادشۇناسلىق"
+                ],
+                "Karakalpak": [
+                    "iqtisad"
+                ],
+                "Tatar": [
+                    "икътисад"
+                ],
+                "Bashkir": [
+                    "иҡтисад",
+                    "иҡтисад ғилеме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekonomi"
+                ],
+                "Kazakh": [
+                    "экономика"
+                ],
+                "Kyrgyz": [
+                    "экономика"
+                ],
+                "Karakalpak": [
+                    "ekonomika"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xo'jalik"
+                ],
+                "Karakalpak": [
+                    "xojalıq"
+                ],
+                "Tatar": [
+                    "хуҗалык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шаруашылық"
+                ],
+                "Kyrgyz": [
+                    "чарба",
+                    "чарбачылык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үнем"
+                ]
+            }
+        }
+    ]
+}

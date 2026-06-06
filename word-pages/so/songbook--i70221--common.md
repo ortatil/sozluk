@@ -1,0 +1,187 @@
+# Songbook
+| Field | Detail |
+|---|---|
+| **ID** | i70221 |
+| **English** | songbook |
+| **Type** | noun |
+| **Definition** | a book containing a collection of songs |
+| **Source** | common |
+| **Ortatil** | bäyäz |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **bäyäz** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| әнжинақ | änjinaq |
+| **Kyrgyz** | |
+| баяж | bayaj |
+| **Tatar** | |
+| бәетнамә | bäyetnamä |
+| **Bashkir** | |
+| йырнамә | yırnamä |
+
+```json
+{
+    "id": "i70221",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "songbook",
+    "en_definition": "a book containing a collection of songs",
+    "tr_word": "şarkı kitabı",
+    "tr_definition": "içinde şarkı sözleri veya notaları bulunan derleme kitap",
+    "ru_word": "песенник",
+    "ru_definition": "книга, содержащая собрание текстов или нот песен",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bəyaz"
+                ],
+                "Uzbek": [
+                    "bayoz"
+                ],
+                "Kyrgyz": [
+                    "баяж"
+                ],
+                "Tatar": [
+                    "бәетнамә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəğmə kitabı"
+                ],
+                "Turkmen": [
+                    "nagmatnama"
+                ],
+                "Uyghur": [
+                    "ناخشا توپلىمى",
+                    "ناخشا دەپتىرى",
+                    "ناخشا كىتابى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "ыр китеп"
+                ],
+                "Tatar": [
+                    "җыр китабы"
+                ],
+                "Bashkir": [
+                    "йыр китабы",
+                    "йырнамә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "ырлар жыйнагы"
+                ],
+                "Tatar": [
+                    "җырлар җыентыгы"
+                ],
+                "Bashkir": [
+                    "йырҙар йыйынтығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mecmua"
+                ],
+                "Uzbek": [
+                    "majmua"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qo'shiqlar to'plami"
+                ],
+                "Karakalpak": [
+                    "qosıqlar jıynaǵı",
+                    "qosıq kitabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şarkı kitabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güfte kitabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mahnı kitabı",
+                    "mahnı məcmüəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "aýdymlar kitaby",
+                    "aýdymlar ýygyndysy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әнжинақ",
+                    "ән кітабы",
+                    "ән-күй жинағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "namalar jıynaǵı"
+                ]
+            }
+        }
+    ]
+}
+```
+

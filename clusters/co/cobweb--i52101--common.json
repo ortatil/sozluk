@@ -1,0 +1,110 @@
+{
+    "id": "i52101",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cobweb",
+    "en_definition": "filaments from a web that was spun by a spider",
+    "tr_word": "örümcek ağı",
+    "tr_definition": "bir örümcek tarafından örülmüş ağın iplikçikleri",
+    "ru_word": "паутина",
+    "ru_definition": "нити из сети, сплетенной пауком",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "örümcek ağı",
+                    "örümcek teli"
+                ],
+                "Azerbaijani": [
+                    "hörümçək toru"
+                ],
+                "Uzbek": [
+                    "o'rgimchak to'ri"
+                ],
+                "Kazakh": [
+                    "өрмек",
+                    "өрмекшінің торы"
+                ],
+                "Karakalpak": [
+                    "órmek",
+                    "órmekshі torı"
+                ],
+                "Tatar": [
+                    "үрмәкүч җебе",
+                    "үрмәкүч оясы",
+                    "үрмәкүч авы"
+                ],
+                "Bashkir": [
+                    "үрмәксе ауы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tor"
+                ],
+                "Uzbek": [
+                    "to'r"
+                ],
+                "Uyghur": [
+                    "تور"
+                ],
+                "Kazakh": [
+                    "тор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kerep"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mör-möjek tory"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "möý tory"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆمۈچۈك تورى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жөргөмүш желеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "желе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ау"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "id": "i44857",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "carrier pigeon",
+    "en_definition": "a homing pigeon used to carry messages",
+    "tr_word": "posta güvercini",
+    "tr_definition": "Mesaj taşımak için eğitilmiş, yön bulma yeteneği gelişmiş güvercin.",
+    "ru_word": "почтовый голубь",
+    "ru_definition": "Домашний голубь, используемый для доставки текстовых сообщений благодаря своей способности находить дорогу домой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "posta güvercini"
+                ],
+                "Azerbaijani": [
+                    "poçt göyərçini"
+                ],
+                "Turkmen": [
+                    "poçta kepderisi"
+                ],
+                "Uzbek": [
+                    "pochta kabutari"
+                ],
+                "Kazakh": [
+                    "пошта кептері"
+                ],
+                "Kyrgyz": [
+                    "почта көгүчкөнү"
+                ],
+                "Karakalpak": [
+                    "poshta kepteri"
+                ],
+                "Tatar": [
+                    "почта күгәрчене"
+                ],
+                "Bashkir": [
+                    "почта күгәрсене"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haberci güvercin"
+                ],
+                "Azerbaijani": [
+                    "xəbərçi göyərçin"
+                ],
+                "Turkmen": [
+                    "habarçy kepderi"
+                ],
+                "Kazakh": [
+                    "хабаршы кептер"
+                ],
+                "Kyrgyz": [
+                    "кабарчы көгүчкөн"
+                ],
+                "Karakalpak": [
+                    "xabarshı kepter"
+                ],
+                "Tatar": [
+                    "хәбәрче күгәрчен"
+                ],
+                "Bashkir": [
+                    "хәбәрсе күгәрсен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xat tashuvchi kabutar"
+                ],
+                "Uyghur": [
+                    "خەت-چەك كەپتىرى",
+                    "خەت كەپتىرى"
+                ],
+                "Kazakh": [
+                    "хатшы кептер"
+                ],
+                "Karakalpak": [
+                    "xat tasıoshı kepter"
+                ],
+                "Tatar": [
+                    "хат ташучы күгәрчен"
+                ],
+                "Bashkir": [
+                    "хат ташыусы күгәрсен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "namaber kepderi"
+                ],
+                "Uzbek": [
+                    "nomabardor kabutar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məktub göyərçini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئالاقە كەپتىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "катчы көгүчкөн"
+                ]
+            }
+        }
+    ]
+}

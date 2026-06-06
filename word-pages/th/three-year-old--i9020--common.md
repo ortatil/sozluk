@@ -1,0 +1,76 @@
+# Three-year-old
+| Field | Detail |
+|---|---|
+| **ID** | i9020 |
+| **English** | three-year-old |
+| **Type** | adjective |
+| **Definition** | three years of age |
+| **Source** | common |
+| **Ortatil** | üçyäşli |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i9020",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "three-year-old",
+    "en_definition": "three years of age",
+    "tr_word": "üç yaşında",
+    "tr_definition": "üç yıl yaşamış olan, üç yaşında olan",
+    "ru_word": "трёхлетний",
+    "ru_definition": "имеющий возраст три года",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üç yaşında",
+                    "üç yaşındaki"
+                ],
+                "Azerbaijani": [
+                    "üçyaşlı",
+                    "üç yaşında"
+                ],
+                "Turkmen": [
+                    "üç ýaşar",
+                    "üç ýaşly"
+                ],
+                "Uzbek": [
+                    "uch yoshli",
+                    "uch yashar"
+                ],
+                "Uyghur": [
+                    "ئۈچ ياشلىق",
+                    "ئۈچ ياشار"
+                ],
+                "Kazakh": [
+                    "үш жасар",
+                    "үш жастағы"
+                ],
+                "Kyrgyz": [
+                    "үч жашар",
+                    "үч жаштагы"
+                ],
+                "Karakalpak": [
+                    "úsh jasar",
+                    "úsh jastaǵı"
+                ],
+                "Tatar": [
+                    "өч яшьлек",
+                    "өч яшәр"
+                ],
+                "Bashkir": [
+                    "өс йәшлек",
+                    "өс йәшәр",
+                    "өс йәшендәге"
+                ]
+            }
+        }
+    ]
+}
+```
+

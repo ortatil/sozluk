@@ -1,0 +1,166 @@
+{
+    "id": "i69902",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "written word",
+    "en_definition": "the written form of a word",
+    "tr_word": "yazılı kelime",
+    "tr_definition": "bir kelimenin yazılı formu",
+    "ru_word": "письменное слово",
+    "ru_definition": "письменная форма слова",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazı"
+                ],
+                "Azerbaijani": [
+                    "yazı"
+                ],
+                "Turkmen": [
+                    "ýazuw"
+                ],
+                "Uzbek": [
+                    "yozuv"
+                ],
+                "Uyghur": [
+                    "يېزىق"
+                ],
+                "Kazakh": [
+                    "жазу"
+                ],
+                "Kyrgyz": [
+                    "жазуу"
+                ],
+                "Karakalpak": [
+                    "jazılǵan sóz",
+                    "jazıo"
+                ],
+                "Tatar": [
+                    "язу"
+                ],
+                "Bashkir": [
+                    "яҙыу",
+                    "яҙма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kelime"
+                ],
+                "Azerbaijani": [
+                    "kəlmə"
+                ],
+                "Turkmen": [
+                    "kelime"
+                ],
+                "Uzbek": [
+                    "kalom"
+                ],
+                "Uyghur": [
+                    "كەلىمە"
+                ],
+                "Tatar": [
+                    "кәлимә"
+                ],
+                "Bashkir": [
+                    "кәлимә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sözcük"
+                ],
+                "Azerbaijani": [
+                    "söz"
+                ],
+                "Turkmen": [
+                    "söz"
+                ],
+                "Uyghur": [
+                    "سۆز"
+                ],
+                "Kazakh": [
+                    "сөз"
+                ],
+                "Kyrgyz": [
+                    "сөз"
+                ],
+                "Tatar": [
+                    "сүз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hat"
+                ],
+                "Uyghur": [
+                    "خەت"
+                ],
+                "Kazakh": [
+                    "хат"
+                ],
+                "Kyrgyz": [
+                    "кат"
+                ],
+                "Karakalpak": [
+                    "xat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lafız"
+                ],
+                "Uzbek": [
+                    "lafz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ibare"
+                ],
+                "Azerbaijani": [
+                    "ibarə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәреф"
+                ],
+                "Bashkir": [
+                    "хәреф"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bitik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңба"
+                ]
+            }
+        }
+    ]
+}

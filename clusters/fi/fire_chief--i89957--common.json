@@ -1,0 +1,93 @@
+{
+    "id": "i89957",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fire chief",
+    "en_definition": "the head of a fire department",
+    "tr_word": "itfaiye amiri",
+    "tr_definition": "bir itfaiye teşkilatının başındaki sorumlu kişi",
+    "ru_word": "начальник пожарной охраны",
+    "ru_definition": "руководитель пожарной службы или подразделения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yanğınsöndürmə rəisi",
+                    "yanğın idarəsinin rəisi",
+                    "yanğın rəisi"
+                ],
+                "Turkmen": [
+                    "ýangyn söndüriş gullugynyň başlygy",
+                    "ýangyn bölüminiň başlygy",
+                    "ýangyn söndürijileriň serdary"
+                ],
+                "Uzbek": [
+                    "yongʻin xavfsizligi boshligʻi"
+                ],
+                "Tatar": [
+                    "янгын сүндерү башлыгы",
+                    "янгын сүндерүчеләр башлыгы",
+                    "янгын хезмәте җитәкчесе"
+                ],
+                "Bashkir": [
+                    "янғын һүндереүселәр башлығы",
+                    "янғын һүндереү хеҙмәте етәксеһе",
+                    "янғын һүндереү командаһы башлығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻt oʻchiruvchilar boshligʻi"
+                ],
+                "Uyghur": [
+                    "ئوت ئۆچۈرۈش ئىدارىسى باشلىقى"
+                ],
+                "Kazakh": [
+                    "өрт сөндіру қызметінің бастығы",
+                    "өрт сөндіру бөлімінің басшысы",
+                    "өрт сөндірушілердің жетекшісі"
+                ],
+                "Kyrgyz": [
+                    "өрт өчүрүү кызматынын башчысы",
+                    "өрткө каршы кызматтын жетекчиси",
+                    "өрт өчүрүүчүлөрдүн башчысы"
+                ],
+                "Karakalpak": [
+                    "órt óshіru bólіmіnіń bastıǵı",
+                    "órt sóndіru qızmetіnіń basshısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻt oʻchirish xizmati rahbari"
+                ],
+                "Uyghur": [
+                    "ئوت ئۆچۈرۈش قوماندانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "itfaiye amiri",
+                    "itfaiye müdürü",
+                    "itfaiye şefi",
+                    "itfaiye reisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆچۈرۈش باشلىقى"
+                ]
+            }
+        }
+    ]
+}

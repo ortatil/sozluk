@@ -1,0 +1,137 @@
+{
+    "id": "i40373",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "film editing",
+    "en_definition": "the activity of selecting the scenes to be shown and putting them together to create a film",
+    "tr_word": "film kurgusu",
+    "tr_definition": "bir filmi oluşturmak için gösterilecek sahnelerin seçilmesi ve bir araya getirilmesi faaliyeti",
+    "ru_word": "монтаж фильма",
+    "ru_definition": "процесс отбора и соединения отдельных отснятых кадров и сцен в единое целое для создания фильма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "montaj"
+                ],
+                "Azerbaijani": [
+                    "montaj"
+                ],
+                "Turkmen": [
+                    "montaž"
+                ],
+                "Uzbek": [
+                    "montaj"
+                ],
+                "Uyghur": [
+                    "مونتاژ"
+                ],
+                "Kazakh": [
+                    "монтаждау"
+                ],
+                "Kyrgyz": [
+                    "монтаждоо"
+                ],
+                "Karakalpak": [
+                    "montajlau"
+                ],
+                "Tatar": [
+                    "монтажлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurgu"
+                ],
+                "Azerbaijani": [
+                    "quraşdırma"
+                ],
+                "Turkmen": [
+                    "gurnama"
+                ],
+                "Kazakh": [
+                    "құрастыру"
+                ],
+                "Kyrgyz": [
+                    "куроо"
+                ],
+                "Tatar": [
+                    "кораштыру"
+                ],
+                "Bashkir": [
+                    "ҡороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "düzediş"
+                ],
+                "Kyrgyz": [
+                    "түзөтүү"
+                ],
+                "Karakalpak": [
+                    "túzetu"
+                ],
+                "Tatar": [
+                    "төзәтү"
+                ],
+                "Bashkir": [
+                    "төҙөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kesme"
+                ],
+                "Azerbaijani": [
+                    "kəsim"
+                ],
+                "Kazakh": [
+                    "қиыстыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tahrir",
+                    "tartiblash"
+                ],
+                "Uyghur": [
+                    "تەھرىرلەش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "فىلىم تەھرىرلەش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "retleu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йыйыу"
+                ]
+            }
+        }
+    ]
+}

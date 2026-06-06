@@ -1,0 +1,93 @@
+{
+    "id": "i73452",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bar chart",
+    "en_definition": "a chart with bars whose lengths are proportional to quantities",
+    "tr_word": "sütun grafiği",
+    "tr_definition": "uzunlukları miktarlarla orantılı olan çubuklarla oluşturulmuş grafik",
+    "ru_word": "столбчатая диаграмма",
+    "ru_definition": "диаграмма, в которой значения представлены в виде прямоугольных столбиков, длина которых пропорциональна значениям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sütun grafiği"
+                ],
+                "Azerbaijani": [
+                    "sütunlu diaqram",
+                    "sütunlu qrafik"
+                ],
+                "Turkmen": [
+                    "sütünli diagramma",
+                    "sütünli çyzgy"
+                ],
+                "Uzbek": [
+                    "ustunli diagramma",
+                    "ustunli shakl"
+                ],
+                "Uyghur": [
+                    "ستونلۇق جەدۋەل"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бағанды диаграмма",
+                    "бағаналы сызба",
+                    "бағанды кескін"
+                ],
+                "Kyrgyz": [
+                    "баганалуу диаграмма"
+                ],
+                "Karakalpak": [
+                    "baǵanalı diagramma",
+                    "baǵanalı sızba"
+                ],
+                "Tatar": [
+                    "баганалы диаграмма",
+                    "баганалы сызым"
+                ],
+                "Bashkir": [
+                    "бағаналы диаграмма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çubuk grafiği"
+                ],
+                "Azerbaijani": [
+                    "çubuqlu diaqram"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈۋرۈكلۈك جەدۋەل",
+                    "تۈۋرۈكلۈك دىئاگرامما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тилкелүү диаграмма",
+                    "тилкелүү сызма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һынлы диаграмма"
+                ]
+            }
+        }
+    ]
+}

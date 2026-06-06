@@ -1,0 +1,177 @@
+# Moth
+| Field | Detail |
+|---|---|
+| **ID** | i47535 |
+| **English** | moth |
+| **Type** | noun |
+| **Definition** | typically crepuscular or nocturnal insect having a stout body and feathery or hairlike antennae |
+| **Source** | common |
+| **Ortatil** | ḳüyä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḳüyä** | **pärwanä** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ❌ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 1 |
+| *Qarluq Subtotal* | 0.50 | 1 |
+| *Qipchaq Subtotal* | 0.80 | 0 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **3.30** | **2** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كۈيە | küyä |
+| پەرۋانە | pärvanä |
+| **Kazakh** | |
+| күйе | küye |
+| күйелек | küyelek |
+| **Kyrgyz** | |
+| көпөлөк | köpölök |
+| күбө | kübö |
+| **Tatar** | |
+| көя | köya |
+| **Bashkir** | |
+| көйә | köyä |
+
+```json
+{
+    "id": "i47535",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "moth",
+    "en_definition": "typically crepuscular or nocturnal insect having a stout body and feathery or hairlike antennae",
+    "tr_word": "güve",
+    "tr_definition": "Genellikle gece uçan, kalın gövdeli ve tüylü duyargalı bir böcek türü.",
+    "ru_word": "мотылёк",
+    "ru_definition": "Обычно сумеречное или ночное насекомое с толстым телом и перистыми или нитевидными усиками.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güve"
+                ],
+                "Azerbaijani": [
+                    "güvə"
+                ],
+                "Turkmen": [
+                    "güje"
+                ],
+                "Uyghur": [
+                    "كۈيە"
+                ],
+                "Kazakh": [
+                    "күйе",
+                    "күйелек"
+                ],
+                "Karakalpak": [
+                    "kúye"
+                ],
+                "Tatar": [
+                    "көя"
+                ],
+                "Bashkir": [
+                    "көйә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tunlam"
+                ],
+                "Uyghur": [
+                    "تۈن تىنىچى"
+                ],
+                "Kazakh": [
+                    "түнгі көбелек"
+                ],
+                "Kyrgyz": [
+                    "түнкү көпөлөк"
+                ],
+                "Karakalpak": [
+                    "tún góbelegi"
+                ],
+                "Tatar": [
+                    "төн күбәләге"
+                ],
+                "Bashkir": [
+                    "төнгө күбәләк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pervane"
+                ],
+                "Azerbaijani": [
+                    "pərvanə"
+                ],
+                "Turkmen": [
+                    "perwana"
+                ],
+                "Uzbek": [
+                    "parvona"
+                ],
+                "Uyghur": [
+                    "پەرۋانە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gece kelebeği"
+                ],
+                "Azerbaijani": [
+                    "gecə kəpənəyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kapalak"
+                ],
+                "Kyrgyz": [
+                    "көпөлөк",
+                    "күбө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kúye góbelek"
+                ],
+                "Tatar": [
+                    "көя күбәләге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "puluç"
+                ]
+            }
+        }
+    ]
+}
+```
+

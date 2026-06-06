@@ -1,0 +1,89 @@
+{
+    "id": "i27026",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "boat-race",
+    "en_definition": "participate in a boat race",
+    "tr_word": "tekne yarışına katılmak",
+    "tr_definition": "bir tekne veya sandal yarışında yer almak, yarışmak",
+    "ru_word": "участвовать в лодочных гонках",
+    "ru_definition": "принимать участие в соревновании на лодках",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kayık yarıştırmak",
+                    "kürek yarışı yapmak"
+                ],
+                "Azerbaijani": [
+                    "qayıq yarışı aparmaq",
+                    "qayıqla yarışmaq"
+                ],
+                "Turkmen": [
+                    "gaýyk ýaryşyna gatnaşmak",
+                    "gaýyk ýaryşmak"
+                ],
+                "Uzbek": [
+                    "qayiqda poygalashmoq",
+                    "qayiq poygasida qatnashmoq",
+                    "qayiq chopishmoq"
+                ],
+                "Kazakh": [
+                    "қайықпен жарысу",
+                    "қайық жарысына қатысу"
+                ],
+                "Kyrgyz": [
+                    "кайык чабышуу",
+                    "кайык жарышуу"
+                ],
+                "Karakalpak": [
+                    "qayıq jarıstırıo",
+                    "qayıq jarısına qatnasıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېمە مۇسابىقىسىگە چۈشمەك",
+                    "كېمە بەيگىسىگە قاتناشماق",
+                    "كېمە قوغلاشماق"
+                ],
+                "Bashkir": [
+                    "кәмәлә ярышыу",
+                    "кәмәлә уҙышыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekne yarıştırmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yelken yarışı yapmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "avarçəkmə yarışında iştirak etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көймәдә ярышу",
+                    "көймә чабышында катнашу"
+                ]
+            }
+        }
+    ]
+}

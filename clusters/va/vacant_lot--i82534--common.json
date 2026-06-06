@@ -1,0 +1,139 @@
+{
+    "id": "i82534",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vacant lot",
+    "en_definition": "a lot on which there are no permanent buildings",
+    "tr_word": "boş arazi",
+    "tr_definition": "üzerinde kalıcı bina bulunmayan arsa veya arazi parçası",
+    "ru_word": "пустырь",
+    "ru_definition": "незастроенный участок земли, часто заросший травой или сорняками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boş arsa",
+                    "boş arazi",
+                    "boşluk"
+                ],
+                "Azerbaijani": [
+                    "boş sahə",
+                    "boş yer",
+                    "boşluq"
+                ],
+                "Turkmen": [
+                    "boş ýer",
+                    "boşluk"
+                ],
+                "Uzbek": [
+                    "boʻsh yer",
+                    "boʻsh maydon",
+                    "boʻshliq"
+                ],
+                "Uyghur": [
+                    "بوش يەر"
+                ],
+                "Kazakh": [
+                    "бос жер",
+                    "бос алаң"
+                ],
+                "Kyrgyz": [
+                    "бош жер",
+                    "бош аянт"
+                ],
+                "Karakalpak": [
+                    "bos jer",
+                    "bos maydan"
+                ],
+                "Tatar": [
+                    "буш урын",
+                    "буш җир"
+                ],
+                "Bashkir": [
+                    "буш урын",
+                    "буш ер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açık alan"
+                ],
+                "Azerbaijani": [
+                    "açıqlıq"
+                ],
+                "Turkmen": [
+                    "açyk meýdan"
+                ],
+                "Karakalpak": [
+                    "ashıq maydan"
+                ],
+                "Bashkir": [
+                    "асыҡлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quruq yer"
+                ],
+                "Uyghur": [
+                    "قۇرۇق يەر"
+                ],
+                "Kyrgyz": [
+                    "куру жер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "иен жер"
+                ],
+                "Kyrgyz": [
+                    "ээн жер"
+                ],
+                "Karakalpak": [
+                    "iyesiz jer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "meýdança"
+                ],
+                "Tatar": [
+                    "мәйданчык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خالى يەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айдала"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ялан"
+                ]
+            }
+        }
+    ]
+}

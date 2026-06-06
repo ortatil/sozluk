@@ -1,0 +1,95 @@
+{
+    "id": "i78741",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dessert wine",
+    "en_definition": "still sweet wine often served with dessert or after a meal",
+    "tr_word": "tatlı şarap",
+    "tr_definition": "genellikle tatlıyla veya yemekten sonra servis edilen, şeker oranı yüksek şarap",
+    "ru_word": "десертное вино",
+    "ru_definition": "сладкое вино, которое обычно подают к десерту или после еды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tatlı şarap"
+                ],
+                "Uyghur": [
+                    "تاتلىق شاراب",
+                    "تاتلىق مەي",
+                    "تاتلىق ھاراق"
+                ],
+                "Kazakh": [
+                    "тәтті шарап"
+                ],
+                "Kyrgyz": [
+                    "таттуу шарап"
+                ],
+                "Karakalpak": [
+                    "táttі sharap"
+                ],
+                "Tatar": [
+                    "татлы шәраб"
+                ],
+                "Bashkir": [
+                    "татлы шарап",
+                    "тәмле шарап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şirin şərab"
+                ],
+                "Turkmen": [
+                    "şirin şerap"
+                ],
+                "Uzbek": [
+                    "shirin may",
+                    "shirin sharob",
+                    "shirin musallas"
+                ],
+                "Kazakh": [
+                    "шәрбат шарап"
+                ],
+                "Kyrgyz": [
+                    "ширелүү шарап"
+                ],
+                "Karakalpak": [
+                    "shirin sharap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "likör şarabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "desert şərabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýji şerap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәмле шәраб"
+                ]
+            }
+        }
+    ]
+}

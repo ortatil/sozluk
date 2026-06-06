@@ -1,0 +1,72 @@
+{
+    "id": "i43795",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bald eagle",
+    "en_definition": "a large eagle of North America that has a white head and dark wings and body",
+    "tr_word": "kel kartal",
+    "tr_definition": "Kuzey Amerika'ya özgü, beyaz başlı ve koyu gövdeli büyük bir kartal türü",
+    "ru_word": "белоголовый орлан",
+    "ru_definition": "крупная североамериканская хищная птица семейства ястребиных с белым оперением головы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak başlı kartal"
+                ],
+                "Azerbaijani": [
+                    "ağbaş qartal"
+                ],
+                "Turkmen": [
+                    "akbaş bürgüt"
+                ],
+                "Uzbek": [
+                    "oq boshli burgut",
+                    "oq boshli qiron"
+                ],
+                "Uyghur": [
+                    "ئاق باش بۈركۈت",
+                    "ئاق باشلىق بۈركۈت"
+                ],
+                "Kazakh": [
+                    "ақбас бүркіт",
+                    "ақбас субүркіт"
+                ],
+                "Kyrgyz": [
+                    "ак баш бүркүт",
+                    "ак баштуу бүркүт"
+                ],
+                "Karakalpak": [
+                    "aqbas búrkit",
+                    "aqbas subúrrkit"
+                ],
+                "Tatar": [
+                    "акбаш бөркөт",
+                    "акбашлы бөркөт"
+                ],
+                "Bashkir": [
+                    "аҡ башлы бөркөт",
+                    "аҡ башлы ҡарағош"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kel kartal"
+                ],
+                "Azerbaijani": [
+                    "keçəl qartal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ak kelleli bürgüt"
+                ]
+            }
+        }
+    ]
+}

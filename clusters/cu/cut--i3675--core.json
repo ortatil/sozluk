@@ -1,0 +1,152 @@
+{
+    "id": "i3675",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "cut",
+    "en_definition": "separated into parts or laid open or penetrated with a sharp edge or instrument",
+    "tr_word": "kesik",
+    "tr_definition": "keskin bir aletle parçalara ayrılmış veya üzerinde yarık açılmış olan",
+    "ru_word": "порезанный",
+    "ru_definition": "разделенный на части или вскрытый острым краем или инструментом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kesik",
+                    "kesilmiş"
+                ],
+                "Azerbaijani": [
+                    "kəsik",
+                    "kəsilmiş"
+                ],
+                "Turkmen": [
+                    "kesilen"
+                ],
+                "Uzbek": [
+                    "kesilgan"
+                ],
+                "Uyghur": [
+                    "كېسىلگەن",
+                    "كېسىك"
+                ],
+                "Kazakh": [
+                    "кесілген"
+                ],
+                "Kyrgyz": [
+                    "кесилген"
+                ],
+                "Karakalpak": [
+                    "kesilgen"
+                ],
+                "Tatar": [
+                    "киселгән",
+                    "кисек"
+                ],
+                "Bashkir": [
+                    "киҫелгән",
+                    "киҫек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarık"
+                ],
+                "Turkmen": [
+                    "ýarylan"
+                ],
+                "Uzbek": [
+                    "yorilgan"
+                ],
+                "Uyghur": [
+                    "يېرىلغان"
+                ],
+                "Kyrgyz": [
+                    "жарылган"
+                ],
+                "Karakalpak": [
+                    "jarılǵan"
+                ],
+                "Tatar": [
+                    "ярылган"
+                ],
+                "Bashkir": [
+                    "ярылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dilinen"
+                ],
+                "Uzbek": [
+                    "tilgan"
+                ],
+                "Uyghur": [
+                    "تىلىنغان"
+                ],
+                "Kazakh": [
+                    "тілінген"
+                ],
+                "Kyrgyz": [
+                    "тилинген"
+                ],
+                "Karakalpak": [
+                    "tilingen"
+                ],
+                "Tatar": [
+                    "телгәләнгән"
+                ],
+                "Bashkir": [
+                    "телгәләнгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "parçalanmış"
+                ],
+                "Azerbaijani": [
+                    "parçalanmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyýlan"
+                ],
+                "Kazakh": [
+                    "қиылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "doğranmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "орылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chopilgan"
+                ]
+            }
+        }
+    ]
+}

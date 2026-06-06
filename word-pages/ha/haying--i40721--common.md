@@ -1,0 +1,131 @@
+# Haying
+| Field | Detail |
+|---|---|
+| **ID** | i40721 |
+| **English** | haying |
+| **Type** | noun |
+| **Definition** | the harvesting of hay |
+| **Source** | common |
+| **Ortatil** | örüm |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| бесән | besän |
+
+```json
+{
+    "id": "i40721",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "haying",
+    "en_definition": "the harvesting of hay",
+    "tr_word": "ot biçme",
+    "tr_definition": "hayvan yemi olarak kullanılmak üzere otların hasat edilmesi işlemi",
+    "ru_word": "сенокос",
+    "ru_definition": "процесс скашивания и уборки травы для заготовки сена",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "pichan o'rimi",
+                    "pichan yig'imi"
+                ],
+                "Uyghur": [
+                    "پىچان ئورۇش",
+                    "پىچان يىغىش"
+                ],
+                "Kazakh": [
+                    "пішен шабу",
+                    "пішен жинау"
+                ],
+                "Tatar": [
+                    "печән өсте",
+                    "печән чабу",
+                    "печән җыю"
+                ],
+                "Bashkir": [
+                    "бесән",
+                    "бесән сабыу",
+                    "бесән өҫтө",
+                    "бесән әҙерләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ot biçme",
+                    "ot toplama"
+                ],
+                "Azerbaijani": [
+                    "ot biçini",
+                    "ot yığımı",
+                    "otbiçin"
+                ],
+                "Turkmen": [
+                    "ot orumy",
+                    "ot ýygymy",
+                    "ot ormak"
+                ],
+                "Uyghur": [
+                    "ئوت-چۆپ يىغىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шөп шабу"
+                ],
+                "Kyrgyz": [
+                    "чөп чабык",
+                    "чөп жыйноо",
+                    "чөп чабуу"
+                ],
+                "Karakalpak": [
+                    "shóp shabıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ot hasadı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'rim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шөп жинау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shóp oraq",
+                    "shóp jıyım-terimi"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,102 @@
+{
+    "id": "i69690",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "noun",
+    "en_definition": "a content word that can be used to refer to a person, place, thing, quality, or action",
+    "tr_word": "isim",
+    "tr_definition": "Bir kimseyi, bir yeri, bir nesneyi, bir niteliği veya bir eylemi belirtmek için kullanılan sözcük türü.",
+    "ru_word": "существительное",
+    "ru_definition": "Часть речи, обозначающая предмет, лицо, место, качество или действие.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "isim"
+                ],
+                "Azerbaijani": [
+                    "isim"
+                ],
+                "Turkmen": [
+                    "isim"
+                ],
+                "Uzbek": [
+                    "ism"
+                ],
+                "Uyghur": [
+                    "ئىسىم"
+                ],
+                "Kazakh": [
+                    "есім"
+                ],
+                "Kyrgyz": [
+                    "ысым"
+                ],
+                "Karakalpak": [
+                    "ism"
+                ],
+                "Tatar": [
+                    "исем"
+                ],
+                "Bashkir": [
+                    "исем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ad"
+                ],
+                "Azerbaijani": [
+                    "ad"
+                ],
+                "Turkmen": [
+                    "at"
+                ],
+                "Uzbek": [
+                    "ot"
+                ],
+                "Kyrgyz": [
+                    "ат"
+                ],
+                "Tatar": [
+                    "ат"
+                ],
+                "Bashkir": [
+                    "ат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зат есім"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "зат атооч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "atlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نام"
+                ]
+            }
+        }
+    ]
+}

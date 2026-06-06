@@ -1,0 +1,103 @@
+{
+    "id": "i66149",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "foot",
+    "en_definition": "the part of the leg of a human being below the ankle joint",
+    "tr_word": "ayak",
+    "tr_definition": "vücudun bacak uçlarında bulunan ve yere basan bölümü",
+    "ru_word": "стопа",
+    "ru_definition": "нижняя часть ноги человека, расположенная ниже голеностопного сустава",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayak"
+                ],
+                "Azerbaijani": [
+                    "ayaq"
+                ],
+                "Turkmen": [
+                    "ayak"
+                ],
+                "Uzbek": [
+                    "oyoq"
+                ],
+                "Kazakh": [
+                    "аяқ"
+                ],
+                "Karakalpak": [
+                    "ayaq"
+                ],
+                "Tatar": [
+                    "аяк"
+                ],
+                "Bashkir": [
+                    "аяҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "табан"
+                ],
+                "Kyrgyz": [
+                    "таман"
+                ],
+                "Karakalpak": [
+                    "taban"
+                ],
+                "Tatar": [
+                    "табан"
+                ],
+                "Bashkir": [
+                    "табан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kadem"
+                ],
+                "Azerbaijani": [
+                    "qədəm"
+                ],
+                "Uzbek": [
+                    "qadam"
+                ],
+                "Uyghur": [
+                    "قەدەم"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pəncə"
+                ],
+                "Turkmen": [
+                    "pany"
+                ],
+                "Uzbek": [
+                    "panja"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت"
+                ],
+                "Kyrgyz": [
+                    "бут"
+                ]
+            }
+        }
+    ]
+}

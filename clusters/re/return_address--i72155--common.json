@@ -1,0 +1,145 @@
+{
+    "id": "i72155",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "return address",
+    "en_definition": "the address of the sender of a letter or parcel indicating where it should be returned if it cannot be delivered",
+    "tr_word": "gönderici adresi",
+    "tr_definition": "bir mektup veya paketin teslim edilememesi durumunda nereye iade edilmesi gerektiğini belirten gönderen kişinin adresi",
+    "ru_word": "обратный адрес",
+    "ru_definition": "адрес отправителя на письме или посылке, указывающий, куда следует вернуть отправление в случае невозможности его доставки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qayıdış ünvanı"
+                ],
+                "Uzbek": [
+                    "qaytish manzili"
+                ],
+                "Uyghur": [
+                    "قايتۇرۇش ئادرېسى"
+                ],
+                "Kazakh": [
+                    "қайтару мекенжайы"
+                ],
+                "Kyrgyz": [
+                    "кайтаруу дареги"
+                ],
+                "Karakalpak": [
+                    "qaytarıo mánzili"
+                ],
+                "Tatar": [
+                    "кайтару адресы"
+                ],
+                "Bashkir": [
+                    "ҡайтарыу адресы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "iberijiniň salgysy"
+                ],
+                "Kazakh": [
+                    "жіберушінің мекенжайы"
+                ],
+                "Karakalpak": [
+                    "jiberioshiniń mánzili"
+                ],
+                "Tatar": [
+                    "җибәрүче адресы"
+                ],
+                "Bashkir": [
+                    "ебәреүсе адресы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кері мекенжай"
+                ],
+                "Tatar": [
+                    "кире кайтару адресы"
+                ],
+                "Bashkir": [
+                    "кире ҡайтарыу адресы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gönderici adresi"
+                ],
+                "Azerbaijani": [
+                    "göndərən şəxsin ünvanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "joʻnatuvchi manzili"
+                ],
+                "Kyrgyz": [
+                    "жөнөтүүчүнүн дареги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iade adresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dönüş adresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mənbə ünvanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzyna gaýtaryş salgysy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yuboruvchi manzili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يوللىغۇچى ئادرېسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەۋەتكۈچى ئادرېسى"
+                ]
+            }
+        }
+    ]
+}

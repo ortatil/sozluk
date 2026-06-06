@@ -1,0 +1,169 @@
+# Paige
+| Field | Detail |
+|---|---|
+| **ID** | i96489 |
+| **English** | paige |
+| **Type** | noun |
+| **Definition** | United States baseball player; a black pitcher noted for his longevity (1906-1982) |
+| **Source** | common |
+| **Ortatil** | beysbolçı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **beysbolçı** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پېيج | peyj |
+| **Kazakh** | |
+| бейсболшы | beysbolşı |
+| ойыншы | oyınşı |
+| **Kyrgyz** | |
+| бейсболчу | beysbolçu |
+| спортчу | sportçu |
+| **Tatar** | |
+| Пейдж | peyc |
+
+```json
+{
+    "id": "i96489",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paige",
+    "en_definition": "United States baseball player; a black pitcher noted for his longevity (1906-1982)",
+    "tr_word": "Paige",
+    "tr_definition": "Amerika Birleşik Devletleri'nden, uzun kariyeriyle tanınan siyahi beyzbol atıcısı (1906-1982)",
+    "ru_word": "Пейдж",
+    "ru_definition": "Американский бейсболист; темнокожий питчер, известный своим долголетием в спорте (1906-1982)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beyzbolcu"
+                ],
+                "Azerbaijani": [
+                    "Peyc"
+                ],
+                "Turkmen": [
+                    "beýsbolçy"
+                ],
+                "Uzbek": [
+                    "beysbolchi"
+                ],
+                "Uyghur": [
+                    "پېيج"
+                ],
+                "Kazakh": [
+                    "бейсболшы"
+                ],
+                "Kyrgyz": [
+                    "бейсболчу"
+                ],
+                "Karakalpak": [
+                    "beysbolshı"
+                ],
+                "Tatar": [
+                    "Пейдж"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Satchel Paige"
+                ],
+                "Azerbaijani": [
+                    "Satçel Peyc"
+                ],
+                "Uyghur": [
+                    "ساتچېل پېيج"
+                ],
+                "Kazakh": [
+                    "Сатчел Пейдж"
+                ],
+                "Kyrgyz": [
+                    "Сатчел Пейдж"
+                ],
+                "Karakalpak": [
+                    "Setchel Peydj"
+                ],
+                "Tatar": [
+                    "Сатчел Пейдж"
+                ],
+                "Bashkir": [
+                    "Сэтчел Пейдж"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "oýunçy"
+                ],
+                "Kazakh": [
+                    "ойыншы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sportchi"
+                ],
+                "Kyrgyz": [
+                    "спортчу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "atıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "topçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko'zach"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "picher"
+                ]
+            }
+        }
+    ]
+}
+```
+

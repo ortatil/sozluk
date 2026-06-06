@@ -1,0 +1,125 @@
+# Cleft lip
+| Field | Detail |
+|---|---|
+| **ID** | i111596 |
+| **English** | cleft lip |
+| **Type** | noun |
+| **Definition** | a congenital cleft in the middle of the upper lip |
+| **Source** | common |
+| **Ortatil** | ḍowşandodaqlıq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қоянжырық | qoyanjırıq |
+
+```json
+{
+    "id": "i111596",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cleft lip",
+    "en_definition": "a congenital cleft in the middle of the upper lip",
+    "tr_word": "tavşan dudağı",
+    "tr_definition": "üst dudağın ortasında doğuştan gelen bir yarık",
+    "ru_word": "заячья губа",
+    "ru_definition": "врожденная расщелина верхней губы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarık dudak"
+                ],
+                "Azerbaijani": [
+                    "yarıq dodaq"
+                ],
+                "Turkmen": [
+                    "ýaryk dodak"
+                ],
+                "Uzbek": [
+                    "yoriq lab"
+                ],
+                "Uyghur": [
+                    "يېرىق كالپۇك"
+                ],
+                "Kazakh": [
+                    "жырық ерін"
+                ],
+                "Kyrgyz": [
+                    "жырык эрин"
+                ],
+                "Karakalpak": [
+                    "jırıq erіn"
+                ],
+                "Tatar": [
+                    "ярык ирен"
+                ],
+                "Bashkir": [
+                    "ярыҡ ирен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavşan dudağı"
+                ],
+                "Azerbaijani": [
+                    "dovşandodaqlıq"
+                ],
+                "Turkmen": [
+                    "towşan dodak"
+                ],
+                "Uzbek": [
+                    "tovushonlab"
+                ],
+                "Uyghur": [
+                    "توشقان كالپۇكلۇق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қоянжырық"
+                ],
+                "Kyrgyz": [
+                    "коён эрин"
+                ],
+                "Karakalpak": [
+                    "qoyanjırıq"
+                ],
+                "Tatar": [
+                    "куян ирене"
+                ],
+                "Bashkir": [
+                    "ҡуян ирен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lab yorigʻi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توشقان كالپۇك"
+                ]
+            }
+        }
+    ]
+}
+```
+

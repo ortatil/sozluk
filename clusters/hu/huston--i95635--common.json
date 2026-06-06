@@ -1,0 +1,120 @@
+{
+    "id": "i95635",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "huston",
+    "en_definition": "United States film maker born in the United States but an Irish citizen after 1964 (1906-1987)",
+    "tr_word": "Huston",
+    "tr_definition": "1906-1987 yılları arasında yaşamış, 1964'ten sonra İrlanda vatandaşı olan Amerikalı film yönetmeni.",
+    "ru_word": "Хьюстон",
+    "ru_definition": "Американский кинорежиссер (1906-1987), родившийся в США, но ставший гражданином Ирландии после 1964 года.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "rejissyor"
+                ],
+                "Kazakh": [
+                    "режиссер"
+                ],
+                "Kyrgyz": [
+                    "режиссёр"
+                ],
+                "Karakalpak": [
+                    "rejissyor"
+                ],
+                "Tatar": [
+                    "режиссер"
+                ],
+                "Bashkir": [
+                    "режиссёр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kinochi",
+                    "kinorejissyor"
+                ],
+                "Kazakh": [
+                    "киногер",
+                    "кинорежиссер"
+                ],
+                "Kyrgyz": [
+                    "кинорежиссёр",
+                    "кино ишмери"
+                ],
+                "Karakalpak": [
+                    "kinorejissyor"
+                ],
+                "Tatar": [
+                    "кинорежиссер"
+                ],
+                "Bashkir": [
+                    "кинорежиссёр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Hyuston"
+                ],
+                "Turkmen": [
+                    "Hýuston"
+                ],
+                "Uyghur": [
+                    "خيۇستون"
+                ],
+                "Karakalpak": [
+                    "Xyuston"
+                ],
+                "Bashkir": [
+                    "Хьюстон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "John Huston"
+                ],
+                "Uyghur": [
+                    "جون خيۇستون"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Amerikalı yönetmen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "film yapımcısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Con Hyuston"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сценарист"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "id": "i7519",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "aerial",
+    "en_definition": "existing or living or growing or operating in the air",
+    "tr_word": "hava",
+    "tr_definition": "havada var olan, yaşayan, büyüyen veya faaliyet gösteren",
+    "ru_word": "воздушный",
+    "ru_definition": "существующий, живущий, растущий или действующий в воздухе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hava",
+                    "havai",
+                    "havasal"
+                ],
+                "Azerbaijani": [
+                    "hava",
+                    "havayi"
+                ],
+                "Turkmen": [
+                    "howadaky",
+                    "howa"
+                ],
+                "Uzbek": [
+                    "havodagi",
+                    "havoviy"
+                ],
+                "Uyghur": [
+                    "ھاۋادىكى",
+                    "ھاۋاغا ئائىت"
+                ],
+                "Karakalpak": [
+                    "haoadaǵı",
+                    "haoa"
+                ],
+                "Tatar": [
+                    "һава",
+                    "һавадагы"
+                ],
+                "Bashkir": [
+                    "һауа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "səmavi"
+                ],
+                "Uzbek": [
+                    "osmoniy"
+                ],
+                "Uyghur": [
+                    "ئاسماندىكى"
+                ],
+                "Kazakh": [
+                    "аспан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күк"
+                ],
+                "Bashkir": [
+                    "күк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуе",
+                    "ауа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "абадагы",
+                    "аба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һауалағы"
+                ]
+            }
+        }
+    ]
+}

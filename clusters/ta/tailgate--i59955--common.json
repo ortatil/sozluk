@@ -1,0 +1,109 @@
+{
+    "id": "i59955",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tailgate",
+    "en_definition": "a gate at the rear of a vehicle; can be lowered for loading",
+    "tr_word": "arka kapak",
+    "tr_definition": "bir aracın arkasında bulunan ve yükleme için indirilebilen kapak",
+    "ru_word": "задний борт",
+    "ru_definition": "дверь или борт в задней части автомобиля, которые можно опустить для погрузки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arka kapak",
+                    "kasa kapağı"
+                ],
+                "Azerbaijani": [
+                    "arxa qapı"
+                ],
+                "Turkmen": [
+                    "arka gapy"
+                ],
+                "Uzbek": [
+                    "orqa qopqoq",
+                    "orqa eshik"
+                ],
+                "Uyghur": [
+                    "ئارقا ئىشىك",
+                    "ئارقا قاپقاق"
+                ],
+                "Kazakh": [
+                    "артқы қақпақ",
+                    "артқы есік"
+                ],
+                "Kyrgyz": [
+                    "арткы капкак",
+                    "арткы эшик"
+                ],
+                "Karakalpak": [
+                    "artqı qaqpaq",
+                    "artqı esik"
+                ],
+                "Tatar": [
+                    "арткы капка",
+                    "арткы ишек",
+                    "арткы капкач"
+                ],
+                "Bashkir": [
+                    "артҡы ҡапҡа",
+                    "артҡы ишек",
+                    "артҡы япҡыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yük qapısı"
+                ],
+                "Turkmen": [
+                    "ýük gapysy"
+                ],
+                "Uzbek": [
+                    "yukxona qopqog'i"
+                ],
+                "Uyghur": [
+                    "يۈك ساندۇقىنىڭ ئارقا قاپقىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bagaj kapağı"
+                ],
+                "Azerbaijani": [
+                    "baqaj qapısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қақпақ"
+                ],
+                "Karakalpak": [
+                    "qaqpaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzdaky gapy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "капкак"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "id": "i90287",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "grandfather",
+    "en_definition": "the father of your father or mother",
+    "tr_word": "dede",
+    "tr_definition": "babanın veya annenin babası",
+    "ru_word": "дедушка",
+    "ru_definition": "отец отца или матери",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ata"
+                ],
+                "Azerbaijani": [
+                    "baba",
+                    "ata"
+                ],
+                "Turkmen": [
+                    "baba",
+                    "ata"
+                ],
+                "Uzbek": [
+                    "bobo",
+                    "ota"
+                ],
+                "Kazakh": [
+                    "ата",
+                    "баба"
+                ],
+                "Kyrgyz": [
+                    "баба"
+                ],
+                "Karakalpak": [
+                    "ata",
+                    "baba"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қарт"
+                ],
+                "Tatar": [
+                    "карт әти"
+                ],
+                "Bashkir": [
+                    "ҡартатай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dede"
+                ],
+                "Tatar": [
+                    "дәү әти"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyükbaba"
+                ],
+                "Uyghur": [
+                    "بوۋا",
+                    "بوۋاي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ دادا"
+                ],
+                "Kyrgyz": [
+                    "чоң ата"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бабай"
+                ],
+                "Bashkir": [
+                    "бабай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta ota"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "таята"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "олатай"
+                ]
+            }
+        }
+    ]
+}

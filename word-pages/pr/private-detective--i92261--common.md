@@ -1,0 +1,144 @@
+# Private detective
+| Field | Detail |
+|---|---|
+| **ID** | i92261 |
+| **English** | private detective |
+| **Type** | noun |
+| **Definition** | someone who can be employed as a detective to collect information |
+| **Source** | common |
+| **Ortatil** | häfiyyä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i92261",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "private detective",
+    "en_definition": "someone who can be employed as a detective to collect information",
+    "tr_word": "özel dedektif",
+    "tr_definition": "bilgi toplamak amacıyla tutulabilen, resmi olmayan dedektif",
+    "ru_word": "частный детектив",
+    "ru_definition": "лицо, занимающееся частной сыскной деятельностью по найму",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xüsusi xəfiyyə"
+                ],
+                "Turkmen": [
+                    "hususy derňewçi",
+                    "hususy içaly"
+                ],
+                "Uzbek": [
+                    "xususiy izquvar",
+                    "xususiy detektiv"
+                ],
+                "Uyghur": [
+                    "خۇسۇسىي رازۋېدچىك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gizli araştırmacı"
+                ],
+                "Azerbaijani": [
+                    "gizli müstəntiq"
+                ],
+                "Turkmen": [
+                    "gizlin derňewçi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "شەخسىي رازۋېدچىك",
+                    "شەخسىي تەكشۈرگۈچى"
+                ],
+                "Tatar": [
+                    "шәхси эзләүче",
+                    "шәхси тикшерүче",
+                    "шәхси детектив"
+                ],
+                "Bashkir": [
+                    "шәхси эҙәрмән",
+                    "шәхси тикшереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жеке тыңшы",
+                    "жеке ізкесуші"
+                ],
+                "Kyrgyz": [
+                    "жеке тыңчы"
+                ],
+                "Karakalpak": [
+                    "jeke izlestirioshi",
+                    "jeke tıńshı",
+                    "jeke tergeoshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құпия тыңшы"
+                ],
+                "Kyrgyz": [
+                    "купуя тыңчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özel dedektif",
+                    "özel hafiyye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xəfiyyə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maxfiy ayg'oqchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жеке из кубар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йәшерен эҙәрмән"
+                ]
+            }
+        }
+    ]
+}
+```
+

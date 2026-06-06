@@ -1,0 +1,86 @@
+{
+    "id": "i108878",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north korean won",
+    "en_definition": "the basic unit of money in North Korea",
+    "tr_word": "Kuzey Kore wonu",
+    "tr_definition": "Kuzey Kore'nin temel para birimi",
+    "ru_word": "северокорейская вона",
+    "ru_definition": "основная денежная единица Северной Кореи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "Түндүк Корея вону",
+                    "Түндүк Корея акчасы"
+                ],
+                "Karakalpak": [
+                    "Túndúk Koreya wonı",
+                    "Túndúk Koreya wonası"
+                ],
+                "Tatar": [
+                    "Төньяк Корея воны"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Корея вонаһы",
+                    "Төньяҡ Корея воны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Kore vonu",
+                    "Kuzey Kore para birimi"
+                ],
+                "Uyghur": [
+                    "شىمالىي كورېيە ۋونى"
+                ],
+                "Tatar": [
+                    "Корея воны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimali Koreya vonu",
+                    "Koreya Xalq Demokratik Respublikası vonu"
+                ],
+                "Uzbek": [
+                    "Shimoliy Koreya voni",
+                    "Shimoliy Koreya pul birligi"
+                ],
+                "Uyghur": [
+                    "شىمالىي چوسون ۋونى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk Koreýa wony",
+                    "Demirgazyk Koreýanyň pul birligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Солтүстік Корея вонасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "КХДР вонасы"
+                ]
+            }
+        }
+    ]
+}

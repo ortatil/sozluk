@@ -1,0 +1,106 @@
+{
+    "id": "i90314",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "great grandson",
+    "en_definition": "a son of your grandson or granddaughter",
+    "tr_word": "erkek torun çocuğu",
+    "tr_definition": "bir kimsenin torununun oğlu",
+    "ru_word": "правнук",
+    "ru_definition": "сын внука или внучки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chevara"
+                ],
+                "Uyghur": [
+                    "چەۋرە",
+                    "نەۋرە ئوغۇل"
+                ],
+                "Bashkir": [
+                    "ейәнсәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шөбере",
+                    "шөбере ұл"
+                ],
+                "Kyrgyz": [
+                    "чөбөрө"
+                ],
+                "Karakalpak": [
+                    "shóbere",
+                    "shóbere ұl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəticə"
+                ],
+                "Uzbek": [
+                    "nabiraning o'g'li"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "oğul nəticəsi"
+                ],
+                "Turkmen": [
+                    "ogul çowluk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "torun çocuğu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "erkek torun torunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çowluk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "оныкчык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыяматлык онык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәй ейән"
+                ]
+            }
+        }
+    ]
+}

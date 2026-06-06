@@ -1,0 +1,125 @@
+{
+    "id": "i113370",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "food allergy",
+    "en_definition": "allergic reaction to a substance ingested in food",
+    "tr_word": "gıda alerjisi",
+    "tr_definition": "gıdalarda bulunan bir maddeye karşı vücudun gösterdiği alerjik reaksiyon",
+    "ru_word": "пищевая аллергия",
+    "ru_definition": "аллергическая реакция на определенные вещества, содержащиеся в пище",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "taom allergiyasi"
+                ],
+                "Uyghur": [
+                    "تائام سەزگۈرلۈكى"
+                ],
+                "Kazakh": [
+                    "тағамдық аллергия",
+                    "тамаққа сезімталдық"
+                ],
+                "Kyrgyz": [
+                    "тамак-аш аллергиясы",
+                    "тамакка сезгичтик",
+                    "тамакка болгон аллергия"
+                ],
+                "Karakalpak": [
+                    "taǵam jaqpaushılıǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovqat allergiyasi"
+                ],
+                "Kazakh": [
+                    "асқа сезімталдық"
+                ],
+                "Karakalpak": [
+                    "azıq-túlik jaqpaushılıǵı",
+                    "azıq-túlikke sezimtallıq"
+                ],
+                "Bashkir": [
+                    "аҙыҡҡа һиҙгерлек",
+                    "аҙыҡ-түлеккә һиҙгерлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yemek alerjisi"
+                ],
+                "Azerbaijani": [
+                    "yemək allergiyası"
+                ],
+                "Uyghur": [
+                    "يېمەكلىك سەزگۈرلۈكى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oziq-ovqat allergiyasi"
+                ],
+                "Tatar": [
+                    "ашамлыкка аллергия"
+                ],
+                "Bashkir": [
+                    "аш-һыуға һиҙгерлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gıda alerjisi"
+                ],
+                "Azerbaijani": [
+                    "qida allergiyası",
+                    "qida həssaslığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "besin alerjisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iýmit allergiyasy",
+                    "iýmit duýgurlygy",
+                    "iýmit ýakmazlygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ашамлыкка сизгерлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ризыкка сизгерлек",
+                    "ризыкка аллергия"
+                ]
+            }
+        }
+    ]
+}

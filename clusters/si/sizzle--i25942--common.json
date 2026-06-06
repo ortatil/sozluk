@@ -1,0 +1,100 @@
+{
+    "id": "i25942",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "sizzle",
+    "en_definition": "make a sound like frying fat",
+    "tr_word": "cızırdamak",
+    "tr_definition": "kızgın yağın çıkardığına benzer bir ses çıkarmak",
+    "ru_word": "шипеть",
+    "ru_definition": "издавать звук, подобный звуку жарящегося жира",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cızırdamak",
+                    "cızırdayış",
+                    "cızlamak"
+                ],
+                "Azerbaijani": [
+                    "cıızırdamaq",
+                    "cızyanmaq"
+                ],
+                "Turkmen": [
+                    "jyzyrdamak",
+                    "jyzyrdy çykarmak",
+                    "jyzyrdap bişmek"
+                ],
+                "Uzbek": [
+                    "jizillamoq"
+                ],
+                "Uyghur": [
+                    "جىژژىدە قىلماق",
+                    "جىژىلدىماق"
+                ],
+                "Kazakh": [
+                    "шыжылдау"
+                ],
+                "Kyrgyz": [
+                    "чыжылда-",
+                    "чыжырда-",
+                    "чыж эт-"
+                ],
+                "Karakalpak": [
+                    "shıjıldau"
+                ],
+                "Tatar": [
+                    "чыжылдарга",
+                    "чыжларга",
+                    "чыж-чыж килергә"
+                ],
+                "Bashkir": [
+                    "шыжлау",
+                    "сыжлау",
+                    "шыжылдау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шыжғыру",
+                    "шыж-быж ету"
+                ],
+                "Karakalpak": [
+                    "shıjǵıru",
+                    "shıj-shıj etiu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fışıldamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chirillamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shovullamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جىژ-جىژ قىلماق"
+                ]
+            }
+        }
+    ]
+}

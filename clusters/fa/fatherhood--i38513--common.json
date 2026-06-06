@@ -1,0 +1,90 @@
+{
+    "id": "i38513",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fatherhood",
+    "en_definition": "the status of a father",
+    "tr_word": "babalık",
+    "tr_definition": "baba olma durumu veya sıfatı",
+    "ru_word": "отцовство",
+    "ru_definition": "состояние или статус отца",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "babalık"
+                ],
+                "Azerbaijani": [
+                    "atalıq"
+                ],
+                "Turkmen": [
+                    "atalyk",
+                    "atadar"
+                ],
+                "Uzbek": [
+                    "otalik"
+                ],
+                "Uyghur": [
+                    "ئاتىلىق"
+                ],
+                "Kazakh": [
+                    "аталық"
+                ],
+                "Kyrgyz": [
+                    "аталык",
+                    "ата болуу"
+                ],
+                "Karakalpak": [
+                    "atalıq"
+                ],
+                "Tatar": [
+                    "аталык",
+                    "ата булу"
+                ],
+                "Bashkir": [
+                    "аталыҡ",
+                    "ата булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pederlik"
+                ],
+                "Uzbek": [
+                    "padarlik"
+                ],
+                "Uyghur": [
+                    "پەدەردارلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әкелік"
+                ],
+                "Karakalpak": [
+                    "ákelik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ebuvvet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "valideynlik"
+                ]
+            }
+        }
+    ]
+}

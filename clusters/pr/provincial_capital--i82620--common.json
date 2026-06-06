@@ -1,0 +1,146 @@
+{
+    "id": "i82620",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "provincial capital",
+    "en_definition": "the capital city of a province",
+    "tr_word": "il merkezi",
+    "tr_definition": "bir ilin yönetim merkezi olan şehir",
+    "ru_word": "административный центр провинции",
+    "ru_definition": "главный город провинции, в котором сосредоточены органы власти",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vilayet merkezi"
+                ],
+                "Azerbaijani": [
+                    "vilayət mərkəzi"
+                ],
+                "Turkmen": [
+                    "welaýat merkezi"
+                ],
+                "Uzbek": [
+                    "viloyat markazi"
+                ],
+                "Kazakh": [
+                    "уәлаят орталығы"
+                ],
+                "Karakalpak": [
+                    "uálayat ortalıǵı"
+                ],
+                "Tatar": [
+                    "вилаять мәркәзе"
+                ],
+                "Bashkir": [
+                    "вилайәт үҙәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "merkez"
+                ],
+                "Uzbek": [
+                    "markaz"
+                ],
+                "Uyghur": [
+                    "مەركەز"
+                ],
+                "Tatar": [
+                    "мәркәз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eyalet başkenti"
+                ],
+                "Azerbaijani": [
+                    "əyalət mərkəzi",
+                    "əyalət paytaxtı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆلكە مەركىزى"
+                ],
+                "Bashkir": [
+                    "үҙәк ҡала"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "облыс орталығы"
+                ],
+                "Kyrgyz": [
+                    "облус борбору"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аймақ орталығы"
+                ],
+                "Kyrgyz": [
+                    "аймак борбору"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bas qala"
+                ],
+                "Bashkir": [
+                    "төп ҡала"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "il merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پايتەخت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борбор",
+                    "борбор шаар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ortalıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп шәһәр"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "id": "i39588",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "written assignment",
+    "en_definition": "an assignment to write something",
+    "tr_word": "yazılı ödev",
+    "tr_definition": "bir şeyi yazmak üzere verilen görev veya çalışma",
+    "ru_word": "письменное задание",
+    "ru_definition": "задание, которое необходимо выполнить в письменной форме",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazılı ödev"
+                ],
+                "Azerbaijani": [
+                    "yazı işi",
+                    "yazılı tapşırıq"
+                ],
+                "Turkmen": [
+                    "ýazuw işi",
+                    "ýazuw tabşyrygy",
+                    "ýazmaça iş"
+                ],
+                "Uzbek": [
+                    "yozma ish",
+                    "yozma vazifa"
+                ],
+                "Uyghur": [
+                    "يازما تاپشۇرۇق",
+                    "يازما ۋەزىپە"
+                ],
+                "Kazakh": [
+                    "жазба жұмысы",
+                    "жазбаша тапсырма"
+                ],
+                "Kyrgyz": [
+                    "жазуу иши",
+                    "жазуу тапшырмасы"
+                ],
+                "Karakalpak": [
+                    "jazba jumıs"
+                ],
+                "Tatar": [
+                    "язма эш",
+                    "язма бирем"
+                ],
+                "Bashkir": [
+                    "яҙма эш",
+                    "яҙма йомош",
+                    "яҙма йөкләмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "inşa"
+                ],
+                "Karakalpak": [
+                    "insha"
+                ],
+                "Tatar": [
+                    "инша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahrir"
+                ],
+                "Uzbek": [
+                    "tahririy topshiriq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тапшырма"
+                ],
+                "Karakalpak": [
+                    "tapsırma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kompozisyon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "makale ödevi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məşq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хат"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "id": "i406",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "floating",
+    "en_definition": "borne up by or suspended in a liquid",
+    "tr_word": "yüzen",
+    "tr_definition": "bir sıvının yüzeyinde duran veya sıvı tarafından yukarıda tutulan",
+    "ru_word": "плавающий",
+    "ru_definition": "удерживаемый на поверхности или в толще жидкости",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüzen",
+                    "yüzücü"
+                ],
+                "Azerbaijani": [
+                    "üzən",
+                    "üzücü"
+                ],
+                "Turkmen": [
+                    "ýüzýän"
+                ],
+                "Kazakh": [
+                    "жүзген"
+                ],
+                "Karakalpak": [
+                    "júzgen"
+                ],
+                "Tatar": [
+                    "йөзүче",
+                    "йөзмә"
+                ],
+                "Bashkir": [
+                    "йөҙөүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "galkýan"
+                ],
+                "Uzbek": [
+                    "qalqib turuvchi"
+                ],
+                "Kazakh": [
+                    "қалқымалы",
+                    "қалқыған"
+                ],
+                "Kyrgyz": [
+                    "калкыган",
+                    "калкып жүргөн"
+                ],
+                "Karakalpak": [
+                    "qalqıǵan",
+                    "qalqıp júrgen"
+                ],
+                "Tatar": [
+                    "калкып торучы"
+                ],
+                "Bashkir": [
+                    "ҡалҡып тороусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muallak"
+                ],
+                "Azerbaijani": [
+                    "müəlləq"
+                ],
+                "Uzbek": [
+                    "muallaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "batmaz"
+                ],
+                "Azerbaijani": [
+                    "batmayan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suzib yuruvchi"
+                ],
+                "Kyrgyz": [
+                    "сүзүп жүргөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۈزۈپ يۈرگەن"
+                ],
+                "Bashkir": [
+                    "йөҙөп йөрөүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "asylgy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "لەيلىمە",
+                    "لەيلىگەن"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "i50344",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "backseat",
+    "en_definition": "a seat at the back of a vehicle (especially the seat at the back of an automobile)",
+    "tr_word": "arka koltuk",
+    "tr_definition": "Bir taşıtın, özellikle bir otomobilin arka kısmında bulunan koltuk.",
+    "ru_word": "заднее сиденье",
+    "ru_definition": "Сиденье в задней части транспортного средства (особенно в автомобиле).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arka koltuk",
+                    "arka sıra"
+                ],
+                "Azerbaijani": [
+                    "arxa oturacaq"
+                ],
+                "Turkmen": [
+                    "arka oturgyç",
+                    "yzky oturgyç"
+                ],
+                "Uzbek": [
+                    "orqa oʻrindiq",
+                    "orqa oʻrin"
+                ],
+                "Uyghur": [
+                    "ئارقا ئورۇندۇق"
+                ],
+                "Kazakh": [
+                    "артқы орындық",
+                    "артқы орын"
+                ],
+                "Kyrgyz": [
+                    "арткы орундук",
+                    "арткы орун"
+                ],
+                "Karakalpak": [
+                    "artqı orındıq"
+                ],
+                "Tatar": [
+                    "арткы урындык",
+                    "арткы урын"
+                ],
+                "Bashkir": [
+                    "артҡы ултырғыс",
+                    "артҡы орун"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كەينى ئورۇندۇق"
+                ],
+                "Karakalpak": [
+                    "keyіngі orındıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dal oturacaq"
+                ]
+            }
+        }
+    ]
+}

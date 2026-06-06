@@ -1,0 +1,157 @@
+{
+    "id": "i26357",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "mispronounce",
+    "en_definition": "pronounce a word incorrectly",
+    "tr_word": "yanlış telaffuz etmek",
+    "tr_definition": "bir kelimeyi sesletim kurallarına aykırı veya hatalı bir şekilde söylemek",
+    "ru_word": "неправильно произносить",
+    "ru_definition": "произносить слово с ошибкой в звуках или ударении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanlış telaffuz etmek",
+                    "yanlış sesletmek"
+                ],
+                "Azerbaijani": [
+                    "yanlış tələffüz etmək"
+                ],
+                "Turkmen": [
+                    "ýalňyş aýtmak"
+                ],
+                "Kyrgyz": [
+                    "жаңылыш айтуу"
+                ],
+                "Tatar": [
+                    "яңгырашны бозу"
+                ],
+                "Bashkir": [
+                    "яңылыш әйтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bozuk aýtmak"
+                ],
+                "Uzbek": [
+                    "buzib aytmoq"
+                ],
+                "Kazakh": [
+                    "бұрыс айту",
+                    "бұрмалап айту"
+                ],
+                "Kyrgyz": [
+                    "бузуп айтуу"
+                ],
+                "Karakalpak": [
+                    "buzıp aytıo"
+                ],
+                "Bashkir": [
+                    "боҙоп әйтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hatalı söylemek"
+                ],
+                "Uzbek": [
+                    "xato talaffuz qilmoq"
+                ],
+                "Uyghur": [
+                    "خاتا تەلەپپۇز قىلماق"
+                ],
+                "Tatar": [
+                    "хаталы әйтү"
+                ],
+                "Bashkir": [
+                    "хата әйтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dili sürçmek"
+                ],
+                "Azerbaijani": [
+                    "tələffüzünü pozmaq",
+                    "tələffüzündə xəta etmək"
+                ],
+                "Uyghur": [
+                    "تەلەپپۇزىنى بۇزماق"
+                ],
+                "Kazakh": [
+                    "тілі келмеу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қате дыбыстау"
+                ],
+                "Kyrgyz": [
+                    "ката айтуу"
+                ],
+                "Karakalpak": [
+                    "qate aytıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "galat aýtmak"
+                ],
+                "Uyghur": [
+                    "غەلەت تەلەپپۇز قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "notoʻgʻri talaffuz qilmoq"
+                ],
+                "Karakalpak": [
+                    "nadurıs aytıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "туура эмес айтуу"
+                ],
+                "Tatar": [
+                    "дөрес әйтмәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səhv tələffüz etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "телне бозу"
+                ]
+            }
+        }
+    ]
+}

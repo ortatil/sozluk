@@ -1,0 +1,162 @@
+{
+    "id": "i67342",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "reservation",
+    "en_definition": "something reserved in advance (as a hotel accommodation or a seat on a plane etc.)",
+    "tr_word": "rezervasyon",
+    "tr_definition": "Bir otel odası, uçak koltuğu vb. yerlerin önceden ayırtılması işlemi.",
+    "ru_word": "бронирование",
+    "ru_definition": "Предварительное закрепление за кем-либо места в гостинице, билета на транспорт и т. д.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bron"
+                ],
+                "Kazakh": [
+                    "бронь"
+                ],
+                "Kyrgyz": [
+                    "брондоо"
+                ],
+                "Karakalpak": [
+                    "bron"
+                ],
+                "Tatar": [
+                    "бронь"
+                ],
+                "Bashkir": [
+                    "бронь"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئالدىن زاكاز قىلىش",
+                    "ئالدىن ئورۇن ئېلىش"
+                ],
+                "Kazakh": [
+                    "алдын ала тапсырыс"
+                ],
+                "Kyrgyz": [
+                    "алдын ала ээлөө"
+                ],
+                "Karakalpak": [
+                    "aldın ala buyırtpa"
+                ],
+                "Tatar": [
+                    "алдан заказ",
+                    "алдан алу"
+                ],
+                "Bashkir": [
+                    "алдан заказ биреү",
+                    "алдан алыу",
+                    "алдан һаҡлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "zakaz"
+                ],
+                "Uyghur": [
+                    "زاكاز"
+                ],
+                "Kazakh": [
+                    "сақтау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rezervasyon"
+                ],
+                "Azerbaijani": [
+                    "rezerv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayırtma"
+                ],
+                "Kyrgyz": [
+                    "ээлөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yer ayırtma"
+                ],
+                "Azerbaijani": [
+                    "yer ayırma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sifariş"
+                ],
+                "Uzbek": [
+                    "zaxira"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "belgi"
+                ],
+                "Karakalpak": [
+                    "belgilep qoyıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ätiýaçlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "buyurtma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "band"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тапсырыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "орун ээлөө"
+                ]
+            }
+        }
+    ]
+}

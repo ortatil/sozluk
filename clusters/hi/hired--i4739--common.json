@@ -1,0 +1,140 @@
+{
+    "id": "i4739",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "hired",
+    "en_definition": "having services engaged for a fee",
+    "tr_word": "kiralık",
+    "tr_definition": "bir ücret karşılığında hizmeti tutulmuş olan",
+    "ru_word": "нанятый",
+    "ru_definition": "привлеченный к работе за определенную плату",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yollangan",
+                    "yollanma"
+                ],
+                "Uyghur": [
+                    "ياللانغان"
+                ],
+                "Kazakh": [
+                    "жалдамалы",
+                    "жалданған",
+                    "жалдама"
+                ],
+                "Kyrgyz": [
+                    "жалданган",
+                    "жалдама"
+                ],
+                "Karakalpak": [
+                    "jallanǵan",
+                    "jallama"
+                ],
+                "Tatar": [
+                    "ялланып",
+                    "ялланучы",
+                    "ялланып эшләүче",
+                    "ялланылган"
+                ],
+                "Bashkir": [
+                    "яллаған",
+                    "ялланыусы",
+                    "ялланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kiralık"
+                ],
+                "Azerbaijani": [
+                    "kiralanmış"
+                ],
+                "Turkmen": [
+                    "kireline"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tutulmuş"
+                ],
+                "Azerbaijani": [
+                    "tutulmuş"
+                ],
+                "Turkmen": [
+                    "tutulan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "işe alnan"
+                ],
+                "Uyghur": [
+                    "ئىجارە ئېلىنغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кызматка алынган"
+                ],
+                "Karakalpak": [
+                    "xızmetke alınǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ücretli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istihdam edilmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "muzlu",
+                    "pullu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hakly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ijaraga olingan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەكلىپ قىلىنغان"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "id": "i6345",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "harmless",
+    "en_definition": "not causing or capable of causing harm",
+    "tr_word": "zararsız",
+    "tr_definition": "zarar vermeyen veya zarar verme kapasitesi olmayan",
+    "ru_word": "безвредный",
+    "ru_definition": "не причиняющий и не способный причинить вред",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zararsız",
+                    "ziyansız"
+                ],
+                "Azerbaijani": [
+                    "zərərsiz",
+                    "ziyansız"
+                ],
+                "Turkmen": [
+                    "zyýansyz"
+                ],
+                "Uzbek": [
+                    "zararsiz",
+                    "ziyonsiz"
+                ],
+                "Uyghur": [
+                    "زىيانسىز"
+                ],
+                "Kazakh": [
+                    "зиянсыз",
+                    "залалсыз"
+                ],
+                "Kyrgyz": [
+                    "зыянсыз"
+                ],
+                "Karakalpak": [
+                    "zıyansız"
+                ],
+                "Tatar": [
+                    "зыянсыз",
+                    "зарарсыз"
+                ],
+                "Bashkir": [
+                    "зыянһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bexatar",
+                    "begunoh"
+                ],
+                "Uyghur": [
+                    "بىخەتەر"
+                ],
+                "Kazakh": [
+                    "бейкүнә"
+                ],
+                "Kyrgyz": [
+                    "бейкүнөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tehlikesiz"
+                ],
+                "Azerbaijani": [
+                    "təhlükəsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "biçarə"
+                ],
+                "Karakalpak": [
+                    "bizar",
+                    "bizıyan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қауіпсіз"
+                ],
+                "Karakalpak": [
+                    "qáuipsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коркунучсуз"
+                ],
+                "Tatar": [
+                    "куркынычсыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гөнаһсыз"
+                ],
+                "Bashkir": [
+                    "гонаһһыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "masum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "binesip",
+                    "günäsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howpsuz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زەخمىسىز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "зарарһыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәүефһеҙ"
+                ]
+            }
+        }
+    ]
+}

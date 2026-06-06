@@ -1,0 +1,108 @@
+{
+    "id": "i60899",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "voting machine",
+    "en_definition": "a mechanical device for recording and counting votes mechanically",
+    "tr_word": "oy verme makinesi",
+    "tr_definition": "oyları mekanik olarak kaydetmek ve saymak için kullanılan mekanik bir cihaz",
+    "ru_word": "машина для голосования",
+    "ru_definition": "механическое устройство для регистрации и подсчета голосов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovoz berish uskunasi",
+                    "ovoz berish qurilmasi",
+                    "ovoz berish mashinasi"
+                ],
+                "Uyghur": [
+                    "ئاۋاز بېرىش ئۈسكۈنىسى"
+                ],
+                "Kazakh": [
+                    "дауыс беру құрылғысы",
+                    "дауыс санау құралы"
+                ],
+                "Karakalpak": [
+                    "dauıs berio úskenesi",
+                    "dauıs berio qurılması"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ses hasaplaýyş enjamy"
+                ],
+                "Tatar": [
+                    "тавыш бирү җайланмасы",
+                    "тавыш бирү аппараты",
+                    "тавыш санау машинасы"
+                ],
+                "Bashkir": [
+                    "тауыш биреү аппараты",
+                    "тауыш биреү ҡоролмаһы",
+                    "тауыш иҫәпләү ҡоролмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дауыс беру аппараты"
+                ],
+                "Kyrgyz": [
+                    "добуш берүүчү аппарат",
+                    "добуш берүүчү курал",
+                    "добуш эсептөөчү жабдык"
+                ],
+                "Karakalpak": [
+                    "dauıs berio apparatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oy verme makinesi"
+                ],
+                "Azerbaijani": [
+                    "səsvermə maşını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elektronik seçim sandığı"
+                ],
+                "Uyghur": [
+                    "بېلەت تاشلاش ئۈسكۈنىسى",
+                    "بېلەت تاشلاش ماشىنىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səsvermə cihazı",
+                    "səsvermə aparatı"
+                ],
+                "Turkmen": [
+                    "ses beriş enjamy",
+                    "ses beriş guraly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oy sayım cihazı"
+                ]
+            }
+        }
+    ]
+}

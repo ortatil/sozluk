@@ -1,0 +1,130 @@
+{
+    "id": "i32153",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "leave behind",
+    "en_definition": "depart and not take along",
+    "tr_word": "geride bırakmak",
+    "tr_definition": "ayrılırken yanına almamak veya bir yerde unutmak",
+    "ru_word": "оставлять",
+    "ru_definition": "уходить, не взяв что-либо с собой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "galdyrmak"
+                ],
+                "Uzbek": [
+                    "qoldirmoq"
+                ],
+                "Uyghur": [
+                    "قالدرماق"
+                ],
+                "Kazakh": [
+                    "қалдыру"
+                ],
+                "Kyrgyz": [
+                    "калтыруу",
+                    "калтырып кетүү"
+                ],
+                "Karakalpak": [
+                    "qaldırıo"
+                ],
+                "Tatar": [
+                    "калдыру"
+                ],
+                "Bashkir": [
+                    "ҡалдырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taşlamak"
+                ],
+                "Uzbek": [
+                    "tashlab ketmoq"
+                ],
+                "Uyghur": [
+                    "تاشلاپ قويماق",
+                    "تاشلىماق"
+                ],
+                "Kazakh": [
+                    "тастап кету"
+                ],
+                "Kyrgyz": [
+                    "таштоо"
+                ],
+                "Karakalpak": [
+                    "taslap ketio"
+                ],
+                "Tatar": [
+                    "ташлап китү"
+                ],
+                "Bashkir": [
+                    "ташлап китеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bırakmak"
+                ],
+                "Azerbaijani": [
+                    "buraxmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "terk etmek"
+                ],
+                "Azerbaijani": [
+                    "tərk etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geride bırakmak"
+                ],
+                "Azerbaijani": [
+                    "geridə qoymaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qoymaq"
+                ],
+                "Turkmen": [
+                    "goýmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұмыту"
+                ],
+                "Karakalpak": [
+                    "umıtıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "unutmoq"
+                ]
+            }
+        }
+    ]
+}

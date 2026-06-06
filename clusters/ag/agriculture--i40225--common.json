@@ -1,0 +1,160 @@
+{
+    "id": "i40225",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "agriculture",
+    "en_definition": "the practice of cultivating the land or raising stock",
+    "tr_word": "tarım",
+    "tr_definition": "Toprağı işleme, ekme ve hayvan yetiştirme faaliyetlerinin bütünü.",
+    "ru_word": "сельское хозяйство",
+    "ru_definition": "Отрасль экономики, направленная на обеспечение населения продовольствием и получение сырья для промышленности путём выращивания растений и разведения животных.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "daýhançylyk"
+                ],
+                "Uzbek": [
+                    "dehqonchilik"
+                ],
+                "Uyghur": [
+                    "دېھقانچىلىق"
+                ],
+                "Kazakh": [
+                    "диқаншылық"
+                ],
+                "Kyrgyz": [
+                    "дыйканчылык"
+                ],
+                "Karakalpak": [
+                    "diyqanshılıq"
+                ],
+                "Bashkir": [
+                    "диханлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ziraat"
+                ],
+                "Azerbaijani": [
+                    "ziraət"
+                ],
+                "Turkmen": [
+                    "ziraat"
+                ],
+                "Uzbek": [
+                    "ziraat"
+                ],
+                "Uyghur": [
+                    "زېراەتچىلىك"
+                ],
+                "Tatar": [
+                    "зәрагать"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekincilik"
+                ],
+                "Azerbaijani": [
+                    "əkinçilik"
+                ],
+                "Turkmen": [
+                    "ekerançylyk"
+                ],
+                "Kyrgyz": [
+                    "эгинчилик"
+                ],
+                "Tatar": [
+                    "игенчелек"
+                ],
+                "Bashkir": [
+                    "игенселек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ауыл шаруашылығы"
+                ],
+                "Kyrgyz": [
+                    "айыл чарбасы"
+                ],
+                "Karakalpak": [
+                    "aoıl xojalıǵı"
+                ],
+                "Tatar": [
+                    "авыл хуҗалыгы"
+                ],
+                "Bashkir": [
+                    "ауыл хужалығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tarım"
+                ],
+                "Uyghur": [
+                    "تېرىقچىلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "егіншілік"
+                ],
+                "Karakalpak": [
+                    "eginshilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kənd təsərrüfatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "oba hojalygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qishloq xoʻjaligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шаруашылық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кырчылык"
+                ]
+            }
+        }
+    ]
+}

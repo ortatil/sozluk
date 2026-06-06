@@ -1,0 +1,58 @@
+{
+    "id": "i48302",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "black sheep",
+    "en_definition": "sheep with a black coat",
+    "tr_word": "kara koyun",
+    "tr_definition": "siyah renkli yapağısı olan koyun",
+    "ru_word": "черная овца",
+    "ru_definition": "овца с черным окрасом шерсти",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara koyun"
+                ],
+                "Azerbaijani": [
+                    "qara qoyun"
+                ],
+                "Turkmen": [
+                    "gara goýun"
+                ],
+                "Uzbek": [
+                    "qora qo'y",
+                    "qora qo'zi"
+                ],
+                "Uyghur": [
+                    "قارا قوي"
+                ],
+                "Kazakh": [
+                    "қара қой",
+                    "қара мал"
+                ],
+                "Kyrgyz": [
+                    "кара кой",
+                    "кара мал"
+                ],
+                "Karakalpak": [
+                    "qara qoy"
+                ],
+                "Tatar": [
+                    "кара сарык"
+                ],
+                "Bashkir": [
+                    "ҡара һарыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siyah koyun"
+                ]
+            }
+        }
+    ]
+}

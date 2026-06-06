@@ -1,0 +1,89 @@
+{
+    "id": "i800",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "scaled",
+    "en_definition": "having the body covered or partially covered with thin horny plates, as some fish and reptiles",
+    "tr_word": "pullu",
+    "tr_definition": "vücudu balık ve sürüngenlerde olduğu gibi ince boynuzsu plakalarla kaplı olan",
+    "ru_word": "чешуйчатый",
+    "ru_definition": "имеющий тело, покрытое или частично покрытое тонкими роговыми пластинками, как у некоторых рыб и рептилий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kabuklu"
+                ],
+                "Azerbaijani": [
+                    "qabıqlı"
+                ],
+                "Turkmen": [
+                    "gabykly"
+                ],
+                "Uzbek": [
+                    "qipiqli"
+                ],
+                "Uyghur": [
+                    "قاپساقلىق"
+                ],
+                "Kazakh": [
+                    "қабыршақты",
+                    "қабыршақталған",
+                    "қабыршақ жапқан"
+                ],
+                "Kyrgyz": [
+                    "кабырчыктуу",
+                    "кабырчык каптаган"
+                ],
+                "Karakalpak": [
+                    "qabırshaqlı",
+                    "qabırshaqlı deneli"
+                ],
+                "Bashkir": [
+                    "ҡабырсаҡлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "teňňeli"
+                ],
+                "Uzbek": [
+                    "tangachali"
+                ],
+                "Uyghur": [
+                    "تەڭگىچىلىك",
+                    "تەڭگىلىك"
+                ],
+                "Tatar": [
+                    "тәңкәле",
+                    "тәңкәбизәк"
+                ],
+                "Bashkir": [
+                    "тәңкәле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pullu",
+                    "pulu olan"
+                ],
+                "Azerbaijani": [
+                    "pullu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "po'stloqli"
+                ]
+            }
+        }
+    ]
+}

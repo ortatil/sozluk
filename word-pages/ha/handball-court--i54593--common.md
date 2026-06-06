@@ -1,0 +1,126 @@
+# Handball court
+| Field | Detail |
+|---|---|
+| **ID** | i54593 |
+| **English** | handball court |
+| **Type** | noun |
+| **Definition** | the court on which handball is played |
+| **Source** | common |
+| **Ortatil** | öyüñäh |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i54593",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "handball court",
+    "en_definition": "the court on which handball is played",
+    "tr_word": "hentbol sahası",
+    "tr_definition": "hentbol oyununun oynandığı, sınırları belirlenmiş alan",
+    "ru_word": "гандбольная площадка",
+    "ru_definition": "площадка, на которой играют в гандбол",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hentbol sahası",
+                    "hentbol alanı"
+                ],
+                "Azerbaijani": [
+                    "həndbol meydançası",
+                    "həndbol sahəsi"
+                ],
+                "Turkmen": [
+                    "hendbol meýdançasy"
+                ],
+                "Uzbek": [
+                    "gandbol maydoni"
+                ],
+                "Kazakh": [
+                    "гандбол алаңы"
+                ],
+                "Kyrgyz": [
+                    "гандбол аянтчасы"
+                ],
+                "Tatar": [
+                    "гандбол мәйданчыгы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "top oyunu meydanı"
+                ],
+                "Uyghur": [
+                    "قول توپ مەيدانى",
+                    "قول توپ ئويناش مەيدانى"
+                ],
+                "Kyrgyz": [
+                    "кол тобу аянтчасы"
+                ],
+                "Karakalpak": [
+                    "qol dobı maydanı"
+                ],
+                "Tatar": [
+                    "кул тубы мәйданчыгы"
+                ],
+                "Bashkir": [
+                    "ҡул тубы майҙансығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "el topy meýdançasy"
+                ],
+                "Uzbek": [
+                    "qo'l to'pi maydoni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'yingoh"
+                ],
+                "Bashkir": [
+                    "уйын майҙаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қол добы алаңы"
+                ],
+                "Karakalpak": [
+                    "qol dobı maydanshası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оюн аянтчасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "спорт майҙансығы"
+                ]
+            }
+        }
+    ]
+}
+```
+

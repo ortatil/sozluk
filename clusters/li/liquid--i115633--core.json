@@ -1,0 +1,83 @@
+{
+    "id": "i115633",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "liquid",
+    "en_definition": "fluid matter having no fixed shape but a fixed volume",
+    "tr_word": "sıvı",
+    "tr_definition": "belirli bir şekli olmayan ancak belirli bir hacmi olan akışkan madde",
+    "ru_word": "жидкость",
+    "ru_definition": "текучее вещество, не имеющее собственной формы, но имеющее фиксированный объем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıvı"
+                ],
+                "Turkmen": [
+                    "suwuklyk"
+                ],
+                "Uzbek": [
+                    "suyuqlik",
+                    "suvlik"
+                ],
+                "Uyghur": [
+                    "سۇيۇقلۇق",
+                    "سۇيۇق ماددا"
+                ],
+                "Kazakh": [
+                    "сұйықтық",
+                    "сұйық"
+                ],
+                "Kyrgyz": [
+                    "суюктук",
+                    "суюк"
+                ],
+                "Karakalpak": [
+                    "suyıqlıq",
+                    "suyıq"
+                ],
+                "Tatar": [
+                    "сыеклык",
+                    "сыекча"
+                ],
+                "Bashkir": [
+                    "һыйыҡлыҡ",
+                    "һыйыҡ матдә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mayi"
+                ],
+                "Azerbaijani": [
+                    "maye"
+                ],
+                "Turkmen": [
+                    "maýy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akışkan"
+                ],
+                "Azerbaijani": [
+                    "axıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нәр"
+                ]
+            }
+        }
+    ]
+}

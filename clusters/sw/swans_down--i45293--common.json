@@ -1,0 +1,79 @@
+{
+    "id": "i45293",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "swan's down",
+    "en_definition": "down of the swan",
+    "tr_word": "kuğu tüyü",
+    "tr_definition": "kuğunun yumuşak ve ince tüyü",
+    "ru_word": "лебяжий пух",
+    "ru_definition": "мягкое и тонкое оперение лебедя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuğu tüyü",
+                    "kuğu havı"
+                ],
+                "Azerbaijani": [
+                    "qu tükü",
+                    "qu lələyi",
+                    "qu pambığı"
+                ],
+                "Turkmen": [
+                    "guw ýeleği",
+                    "guw tüýi"
+                ],
+                "Uyghur": [
+                    "قۇ پېيى",
+                    "قۇ يۇڭى",
+                    "قۇ تۈكى"
+                ],
+                "Kyrgyz": [
+                    "куу мамык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oqqush pati",
+                    "oqqush momig'i",
+                    "oqqush par"
+                ],
+                "Kazakh": [
+                    "аққу мамығы",
+                    "аққу жүні"
+                ],
+                "Karakalpak": [
+                    "aqqu mamıǵı",
+                    "aqqu júnі"
+                ],
+                "Tatar": [
+                    "аккош мамыгы",
+                    "аккош мамык"
+                ],
+                "Bashkir": [
+                    "аҡҡош мамығы",
+                    "аҡҡош йөнө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мамық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "куунун мамыгы"
+                ]
+            }
+        }
+    ]
+}

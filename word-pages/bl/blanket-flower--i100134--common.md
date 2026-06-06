@@ -1,0 +1,151 @@
+# Blanket flower
+| Field | Detail |
+|---|---|
+| **ID** | i100134 |
+| **English** | blanket flower |
+| **Type** | noun |
+| **Definition** | annual of central United States having showy long-stalked yellow flower heads marked with scarlet or purple in the center |
+| **Source** | common |
+| **Ortatil** | ğaylardiya |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ğaylardiya** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| گايلاردىيە | gaylardiyä |
+| **Kazakh** | |
+| ғайлардия | ğaylardiya |
+| **Kyrgyz** | |
+| гайлардия | gaylardiya |
+| **Tatar** | |
+| гайлардия | gaylardiya |
+| көнбагышкай | könbagışkay |
+| **Bashkir** | |
+| гайлардия | gaylardiya |
+
+```json
+{
+    "id": "i100134",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blanket flower",
+    "en_definition": "annual of central United States having showy long-stalked yellow flower heads marked with scarlet or purple in the center",
+    "tr_word": "gaylardiya",
+    "tr_definition": "Merkezi Amerika kökenli, genellikle sarı ve kırmızı renkli, gösterişli çiçekleri olan bir süs bitkisi.",
+    "ru_word": "гайлардия",
+    "ru_definition": "Род растений семейства Астровые, характеризующийся яркими соцветиями с желтыми и красными оттенками.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gaylardiya"
+                ],
+                "Azerbaijani": [
+                    "qaylardiya"
+                ],
+                "Turkmen": [
+                    "gaýlardia"
+                ],
+                "Uzbek": [
+                    "gaylardiya"
+                ],
+                "Uyghur": [
+                    "گايلاردىيە گۈلى",
+                    "گايلاردىيە"
+                ],
+                "Kazakh": [
+                    "ғайлардия"
+                ],
+                "Kyrgyz": [
+                    "гайлардия"
+                ],
+                "Karakalpak": [
+                    "gaylardiya"
+                ],
+                "Tatar": [
+                    "гайлардия"
+                ],
+                "Bashkir": [
+                    "гайлардия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "günəş gülü"
+                ],
+                "Turkmen": [
+                    "günebakarjyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quyoshgul"
+                ],
+                "Bashkir": [
+                    "күбәләк сәскә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көрпе гүл"
+                ],
+                "Karakalpak": [
+                    "kórpe gúl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күн гүлү"
+                ],
+                "Tatar": [
+                    "көнбагышкай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nakışlı çiçek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "battaniye çiçeği"
+                ]
+            }
+        }
+    ]
+}
+```
+

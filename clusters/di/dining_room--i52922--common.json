@@ -1,0 +1,119 @@
+{
+    "id": "i52922",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dining room",
+    "en_definition": "a room used for dining",
+    "tr_word": "yemek odası",
+    "tr_definition": "Yemek yemek için ayrılmış oda.",
+    "ru_word": "столовая",
+    "ru_definition": "Комната, предназначенная для приема пищи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aşxana"
+                ],
+                "Turkmen": [
+                    "aşhana"
+                ],
+                "Uzbek": [
+                    "oshxona"
+                ],
+                "Uyghur": [
+                    "ئاشخانا"
+                ],
+                "Kazakh": [
+                    "асхана"
+                ],
+                "Kyrgyz": [
+                    "ашкана"
+                ],
+                "Karakalpak": [
+                    "asxana"
+                ],
+                "Tatar": [
+                    "ашханә",
+                    "аш бүлмәсе"
+                ],
+                "Bashkir": [
+                    "ашхана",
+                    "аш бүлмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taam odası"
+                ],
+                "Uzbek": [
+                    "taomxona"
+                ],
+                "Uyghur": [
+                    "تاماقخانا"
+                ],
+                "Kazakh": [
+                    "тамақтану бөлмесі"
+                ],
+                "Kyrgyz": [
+                    "тамактанчу бөлмө",
+                    "тамак ичүүчү жай"
+                ],
+                "Karakalpak": [
+                    "tamaqxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemek odası"
+                ],
+                "Azerbaijani": [
+                    "yemək otağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mehmonxona"
+                ],
+                "Uyghur": [
+                    "مېھمانخانا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "süfrə otağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "naharhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ovqatlanish xonasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ас ішетін бөлме"
+                ]
+            }
+        }
+    ]
+}

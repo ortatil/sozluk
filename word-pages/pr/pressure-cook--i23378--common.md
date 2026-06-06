@@ -1,0 +1,146 @@
+# Pressure-cook
+| Field | Detail |
+|---|---|
+| **ID** | i23378 |
+| **English** | pressure-cook |
+| **Type** | verb |
+| **Definition** | cook in a pressure cooker |
+| **Source** | common |
+| **Ortatil** | dimlämäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| быҡтырыу | bıqtırıu |
+
+```json
+{
+    "id": "i23378",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "pressure-cook",
+    "en_definition": "cook in a pressure cooker",
+    "tr_word": "düdüklü tencerede pişirmek",
+    "tr_definition": "Yiyecekleri buhar basıncıyla çalışan özel bir tencerede pişirmek.",
+    "ru_word": "готовить в скороварке",
+    "ru_definition": "Готовить пищу в специальной кастрюле под высоким давлением пара.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basınçlı pişirmek"
+                ],
+                "Turkmen": [
+                    "basyşda bişirmek"
+                ],
+                "Uzbek": [
+                    "bosimda pishirmoq"
+                ],
+                "Uyghur": [
+                    "بېسىملىق قازاندا پىشۇرماق",
+                    "بېسىم بىلەن پىشۇرماق"
+                ],
+                "Tatar": [
+                    "басым астында пешерү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "buxarda bişirmək"
+                ],
+                "Turkmen": [
+                    "bugda bişirmek"
+                ],
+                "Uzbek": [
+                    "bugʻda pishirmoq"
+                ],
+                "Kazakh": [
+                    "бұқтырып пісіру"
+                ],
+                "Kyrgyz": [
+                    "бууга бышыруу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "dimlamoq"
+                ],
+                "Kyrgyz": [
+                    "демдеп бышыруу"
+                ],
+                "Karakalpak": [
+                    "demlep pіsіrіo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қысыммен пісіру"
+                ],
+                "Kyrgyz": [
+                    "кысым менен бышыруу"
+                ],
+                "Karakalpak": [
+                    "qısımda pіsіrіo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бумен пісіру"
+                ],
+                "Karakalpak": [
+                    "bulap pіsіrіo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "düdüklüde pişirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təzyiqlə bişirmək",
+                    "təzyiq altında bişirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "парда пешерү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "быҡтырыу",
+                    "быҡтырып бешереү",
+                    "быуҙа бешереү"
+                ]
+            }
+        }
+    ]
+}
+```
+

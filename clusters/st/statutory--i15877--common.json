@@ -1,0 +1,147 @@
+{
+    "id": "i15877",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "statutory",
+    "en_definition": "relating to or created by statutes",
+    "tr_word": "kanuni",
+    "tr_definition": "yasalarla ilgili olan veya yasalar tarafından belirlenmiş",
+    "ru_word": "установленный законом",
+    "ru_definition": "относящийся к закону или созданный на основании законодательных актов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kanuni"
+                ],
+                "Azerbaijani": [
+                    "qanuni"
+                ],
+                "Turkmen": [
+                    "kanuny",
+                    "kanunlaşdyrylan"
+                ],
+                "Uzbek": [
+                    "qonuniy"
+                ],
+                "Uyghur": [
+                    "قانۇنىي",
+                    "قانۇنلۇق",
+                    "قانۇن بويىچە",
+                    "قانۇن بەلگىلىگەن"
+                ],
+                "Tatar": [
+                    "кануни"
+                ],
+                "Bashkir": [
+                    "ҡануни"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hükmi"
+                ],
+                "Azerbaijani": [
+                    "hüquqi"
+                ],
+                "Turkmen": [
+                    "hukukly"
+                ],
+                "Uzbek": [
+                    "huquqiy"
+                ],
+                "Tatar": [
+                    "хокукый"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nizamnaməli"
+                ],
+                "Uzbek": [
+                    "nizomiy"
+                ],
+                "Karakalpak": [
+                    "nızamlı",
+                    "nızam tiykarındaǵı",
+                    "nızamshılıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shar'iy"
+                ],
+                "Tatar": [
+                    "шәргый"
+                ],
+                "Bashkir": [
+                    "шәрғи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mevzuatla ilgili"
+                ],
+                "Kyrgyz": [
+                    "мыйзамдуу",
+                    "мыйзамдык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yasal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "заңды",
+                    "заңдық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құқықтық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жарғылық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "укуктук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "законлы"
+                ]
+            }
+        }
+    ]
+}

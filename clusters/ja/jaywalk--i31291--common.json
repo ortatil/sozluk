@@ -1,0 +1,130 @@
+{
+    "id": "i31291",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "jaywalk",
+    "en_definition": "cross the road at a red light",
+    "tr_word": "kuralsız karşıya geçmek",
+    "tr_definition": "trafik kurallarına uymadan veya yaya geçidi olmayan yerden yolun karşısına geçmek",
+    "ru_word": "переходить улицу в неположенном месте",
+    "ru_definition": "пересекать проезжую часть вне пешеходного перехода или на запрещающий сигнал светофора",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yolu qadağan olunmuş yerdən keçmək"
+                ],
+                "Turkmen": [
+                    "ýoly bikanun kesip geçmek",
+                    "ýol düzgünini bozup geçmek"
+                ],
+                "Uzbek": [
+                    "yoʻlni notoʻgʻri kesib oʻtmoq"
+                ],
+                "Kazakh": [
+                    "жолдан дұрыс өтпеу"
+                ],
+                "Kyrgyz": [
+                    "жолду туура эмес жерден кесип өтүү"
+                ],
+                "Karakalpak": [
+                    "joldı kesip ótio",
+                    "joldan ótio",
+                    "jol qaǵıydasın buzıo"
+                ],
+                "Tatar": [
+                    "юлны дөрес булмаган җирдән кисү",
+                    "юл кагыйдәсен бозып үтү"
+                ],
+                "Bashkir": [
+                    "юлды дөрөҫ түгел ерҙән үтеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qaydaları pozaraq keçmək"
+                ],
+                "Uyghur": [
+                    "قائىدىگە خىلاپ يول كېسىش",
+                    "يولنى قالايمىقان كېسىپ ئۆتۈش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qırmızı işıqda keçmək"
+                ],
+                "Kyrgyz": [
+                    "эрежесиз өтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gadagan ýerden geçmek"
+                ],
+                "Kazakh": [
+                    "ережені бұзып өту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qizil chiroqda oʻtmoq",
+                    "belgilanmagan joydan oʻtmoq"
+                ],
+                "Kyrgyz": [
+                    "кызыл жарыктан өтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قىزىل چىراغدا ئۆتۈش"
+                ],
+                "Tatar": [
+                    "кызыл утка чыгу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тыйым салынған жерден өту"
+                ],
+                "Bashkir": [
+                    "тыйылған ерҙән үтеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırmızıda geçmek",
+                    "kuralsız geçmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yasak yerden geçmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡағиҙәне боҙоп үтеү"
+                ]
+            }
+        }
+    ]
+}

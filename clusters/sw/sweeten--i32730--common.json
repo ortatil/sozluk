@@ -1,0 +1,121 @@
+{
+    "id": "i32730",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "sweeten",
+    "en_definition": "make sweeter in taste",
+    "tr_word": "tatlandırmak",
+    "tr_definition": "tadını daha tatlı bir hale getirmek",
+    "ru_word": "подслащивать",
+    "ru_definition": "делать более сладким на вкус",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tatlandırmak"
+                ],
+                "Azerbaijani": [
+                    "dadlandırmaq"
+                ],
+                "Uyghur": [
+                    "تاتلىق قىلماق",
+                    "تاتلىقلاشتۇرماق"
+                ],
+                "Kazakh": [
+                    "тәттілеу",
+                    "тәтті қылу",
+                    "тәттілендіру"
+                ],
+                "Kyrgyz": [
+                    "таттуулатуу",
+                    "таттуу кылуу"
+                ],
+                "Karakalpak": [
+                    "tatlılandırıo",
+                    "tatlı etio"
+                ],
+                "Tatar": [
+                    "татлыландыру"
+                ],
+                "Bashkir": [
+                    "татлыландырыу",
+                    "татлы итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şekerlemek",
+                    "şeker katmak"
+                ],
+                "Turkmen": [
+                    "şirelemek",
+                    "şekere bulamak"
+                ],
+                "Uzbek": [
+                    "shakar solmoq"
+                ],
+                "Uyghur": [
+                    "شېكەرلىمەك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şirinləşdirmək",
+                    "şirin etmək"
+                ],
+                "Uzbek": [
+                    "shirin qilmoq",
+                    "shirinlashtirmoq"
+                ],
+                "Kazakh": [
+                    "шырындыру"
+                ],
+                "Kyrgyz": [
+                    "ширин кылуу",
+                    "шириндетүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәмләндерү"
+                ],
+                "Bashkir": [
+                    "тәмләтеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "балландыру"
+                ],
+                "Bashkir": [
+                    "балландырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýjetmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shárbátleo"
+                ]
+            }
+        }
+    ]
+}

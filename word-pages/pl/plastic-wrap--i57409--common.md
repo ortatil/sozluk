@@ -1,0 +1,190 @@
+# Plastic wrap
+| Field | Detail |
+|---|---|
+| **ID** | i57409 |
+| **English** | plastic wrap |
+| **Type** | noun |
+| **Definition** | wrapping consisting of a very thin transparent sheet of plastic |
+| **Source** | common |
+| **Ortatil** | törgäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| орооч | orooç |
+| **Tatar** | |
+| төргәк | törgäk |
+| **Bashkir** | |
+| ҡап | qap |
+| төргәк | törgäk |
+
+```json
+{
+    "id": "i57409",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "plastic wrap",
+    "en_definition": "wrapping consisting of a very thin transparent sheet of plastic",
+    "tr_word": "streç film",
+    "tr_definition": "yiyecekleri taze tutmak için kullanılan çok ince ve şeffaf plastik sargı",
+    "ru_word": "пищевая плёнка",
+    "ru_definition": "очень тонкий прозрачный пластиковый лист, используемый для упаковки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yupqa qobiq",
+                    "yupqa parda"
+                ],
+                "Kazakh": [
+                    "жұқа қабық"
+                ],
+                "Kyrgyz": [
+                    "жука кабык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'rovchi parda"
+                ],
+                "Kazakh": [
+                    "орама қабық",
+                    "орауыш үлдір"
+                ],
+                "Karakalpak": [
+                    "orama qabıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "streç film"
+                ],
+                "Azerbaijani": [
+                    "streç örtük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şeffaf folyo"
+                ],
+                "Azerbaijani": [
+                    "şəffaf örtük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sarma filmi"
+                ],
+                "Karakalpak": [
+                    "orama plenka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gaplaýjy plýonka",
+                    "gaplaýyş plýonkasy"
+                ],
+                "Bashkir": [
+                    "ҡап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jұqa qabıqsha"
+                ],
+                "Tatar": [
+                    "юка катлам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төргәк",
+                    "төрү пленкасы"
+                ],
+                "Bashkir": [
+                    "төргәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mutfak folyosu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "streç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qida örtüyü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iýmit plýonkasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېمەكلىك پىليۇنكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇلياۋ يوپۇق",
+                    "سۇلياۋ پىليۇنكا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "орооч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тунук орооч"
+                ]
+            }
+        }
+    ]
+}
+```
+

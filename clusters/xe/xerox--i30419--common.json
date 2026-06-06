@@ -1,0 +1,126 @@
+{
+    "id": "i30419",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "xerox",
+    "en_definition": "reproduce by xerography",
+    "tr_word": "fotokopi çekmek",
+    "tr_definition": "bir belgenin kopyasını elektrostatik yöntemle çoğaltmak",
+    "ru_word": "ксерокопировать",
+    "ru_definition": "делать копию документа с помощью ксерокса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nüshasını çıkarmak"
+                ],
+                "Turkmen": [
+                    "nusgalatmak",
+                    "nusgasyny çykarmak"
+                ],
+                "Uzbek": [
+                    "nusxa ko'chirmoq",
+                    "nusxalamoq"
+                ],
+                "Uyghur": [
+                    "نۇسخىلىماق",
+                    "نۇسخا ئالماق"
+                ],
+                "Karakalpak": [
+                    "nusqasın alıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көшіру",
+                    "көшірмесін жасау"
+                ],
+                "Kyrgyz": [
+                    "көчүрүү",
+                    "көчүрмөлөө"
+                ],
+                "Karakalpak": [
+                    "kóshirip alıu",
+                    "kóshiriu"
+                ],
+                "Tatar": [
+                    "күчермә ясау",
+                    "күчерү"
+                ],
+                "Bashkir": [
+                    "күсереү",
+                    "күсермәһен алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köpeltmek"
+                ],
+                "Uzbek": [
+                    "ko'paytirmoq"
+                ],
+                "Uyghur": [
+                    "كۆپەيتمەك"
+                ],
+                "Kazakh": [
+                    "көбейту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çoğaltmak"
+                ],
+                "Azerbaijani": [
+                    "çoxaltmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үрнәк алу"
+                ],
+                "Bashkir": [
+                    "үрсетеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fotokopi çekmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "surətini çıxarmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzünü köçürmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "басып чыгаруу"
+                ]
+            }
+        }
+    ]
+}

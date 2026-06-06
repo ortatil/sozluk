@@ -1,0 +1,90 @@
+{
+    "id": "i80677",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "religious school",
+    "en_definition": "a school run by a religious body",
+    "tr_word": "dinî okul",
+    "tr_definition": "bir dini kurum veya topluluk tarafından yönetilen eğitim kurumu",
+    "ru_word": "религиозная школа",
+    "ru_definition": "школа, находящаяся под управлением религиозной организации",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "medrese",
+                    "mektep"
+                ],
+                "Azerbaijani": [
+                    "mədrəsə"
+                ],
+                "Turkmen": [
+                    "medrese",
+                    "mekdep"
+                ],
+                "Uzbek": [
+                    "madrasa",
+                    "maktab"
+                ],
+                "Uyghur": [
+                    "مەدرەسە"
+                ],
+                "Kazakh": [
+                    "медресе"
+                ],
+                "Kyrgyz": [
+                    "медресе",
+                    "мектеп"
+                ],
+                "Karakalpak": [
+                    "medrese",
+                    "mektep"
+                ],
+                "Tatar": [
+                    "мәдрәсә"
+                ],
+                "Bashkir": [
+                    "мәҙрәсә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "din okulu"
+                ],
+                "Azerbaijani": [
+                    "dini məktəb"
+                ],
+                "Uzbek": [
+                    "diniy maktab"
+                ],
+                "Uyghur": [
+                    "دىنىي مەكتەپ"
+                ],
+                "Kazakh": [
+                    "діни мектеп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәктәп"
+                ],
+                "Bashkir": [
+                    "мәктәп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "imam hatip okulu"
+                ]
+            }
+        }
+    ]
+}

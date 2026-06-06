@@ -1,0 +1,102 @@
+{
+    "id": "i91037",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "linguist",
+    "en_definition": "a person who speaks more than one language",
+    "tr_word": "dilbilimci",
+    "tr_definition": "birden fazla dil konuşan veya dilleri bilimsel olarak inceleyen kişi",
+    "ru_word": "лингвист",
+    "ru_definition": "человек, владеющий несколькими языками или изучающий языки как науку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dilci",
+                    "dilşinas"
+                ],
+                "Azerbaijani": [
+                    "dilçi",
+                    "dilşünas"
+                ],
+                "Turkmen": [
+                    "dilçi",
+                    "dilşynas"
+                ],
+                "Uzbek": [
+                    "tilshunos",
+                    "tilchi"
+                ],
+                "Uyghur": [
+                    "تىلشۇناس",
+                    "تىلچى"
+                ],
+                "Kazakh": [
+                    "тілші",
+                    "тіл маманы",
+                    "тіл білгіші"
+                ],
+                "Kyrgyz": [
+                    "тилчи",
+                    "тил таануучу",
+                    "тил адиси"
+                ],
+                "Karakalpak": [
+                    "tilshi",
+                    "tiltanıs",
+                    "til mamanı"
+                ],
+                "Tatar": [
+                    "тел белгече",
+                    "телче"
+                ],
+                "Bashkir": [
+                    "тел белгесе",
+                    "телсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köpdilli"
+                ],
+                "Uzbek": [
+                    "koʻptilli"
+                ],
+                "Uyghur": [
+                    "كۆپ تىللىق كىشى"
+                ],
+                "Kazakh": [
+                    "көп тіл білетін адам"
+                ],
+                "Tatar": [
+                    "күптелле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lisancı"
+                ],
+                "Azerbaijani": [
+                    "lisaniyyatçı"
+                ],
+                "Uzbek": [
+                    "lisonshunos"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "лингвист"
+                ]
+            }
+        }
+    ]
+}

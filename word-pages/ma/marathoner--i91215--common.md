@@ -1,0 +1,202 @@
+# Marathoner
+| Field | Detail |
+|---|---|
+| **ID** | i91215 |
+| **English** | marathoner |
+| **Type** | noun |
+| **Definition** | someone who participates in long-distance races (especially in marathons) |
+| **Source** | common |
+| **Ortatil** | marafonçu |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **marafonçu** | **çapqır** | **cügürüwçü** |
+|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ |
+| Uzbek | ❌ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ✅ |
+| Kyrgyz | ❌ | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ | ✅ |
+| Tatar | ❌ | ✅ | ✅ |
+| Bashkir | ❌ | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.60 | 1 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **2.70** | **1.10** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مارافونچى | marafonçi |
+| **Kazakh** | |
+| марафоншы | marafonşı |
+| жүйрік | jüyrik |
+| **Kyrgyz** | |
+| жүгүрүүчү | jügürüüçü |
+| чуркоочу | çurkooçu |
+| **Tatar** | |
+| йөгерүче | yögerüçe |
+| чабышкы | çabışkı |
+| узышчы | uzışçı |
+| **Bashkir** | |
+| йүгереүсе | yügereüse |
+| сабышсы | sabışsı |
+
+```json
+{
+    "id": "i91215",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "marathoner",
+    "en_definition": "someone who participates in long-distance races (especially in marathons)",
+    "tr_word": "maratoncu",
+    "tr_definition": "Maraton koşularına katılan sporcu.",
+    "ru_word": "марафонец",
+    "ru_definition": "Спортсмен, бегающий на марафонские дистанции.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "maratoncu"
+                ],
+                "Azerbaijani": [
+                    "marafonçu"
+                ],
+                "Turkmen": [
+                    "marafonçy"
+                ],
+                "Uyghur": [
+                    "مارافونچى"
+                ],
+                "Kazakh": [
+                    "марафоншы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzun mesafeci"
+                ],
+                "Azerbaijani": [
+                    "uzunməsafəli qaçışçı"
+                ],
+                "Uyghur": [
+                    "ئۇزۇن يولغا يۈگۈرگۈچى",
+                    "ئۇزۇن ئارىلىققا يۈگۈرگۈچى"
+                ],
+                "Kyrgyz": [
+                    "узак аралыкка чуркоочу"
+                ],
+                "Karakalpak": [
+                    "uzaq aralıqqa júgirioshi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жүйрік"
+                ],
+                "Kyrgyz": [
+                    "жүгүрүүчү"
+                ],
+                "Karakalpak": [
+                    "júgirioshi"
+                ],
+                "Tatar": [
+                    "йөгерүче"
+                ],
+                "Bashkir": [
+                    "йүгереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ylgaýjy"
+                ],
+                "Kazakh": [
+                    "алысқа жүгіруші"
+                ],
+                "Kyrgyz": [
+                    "алыс аралыкка чуркоочу"
+                ],
+                "Bashkir": [
+                    "алыҫҡа йүгереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chopqir"
+                ],
+                "Karakalpak": [
+                    "shapqısh"
+                ],
+                "Tatar": [
+                    "чабышкы"
+                ],
+                "Bashkir": [
+                    "сабышсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uzak aralyga ylgaýjy"
+                ],
+                "Uzbek": [
+                    "uzoq masofaga yuguruvchi"
+                ],
+                "Tatar": [
+                    "узышчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koşucu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qaçışçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poygachi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чуркоочу"
+                ]
+            }
+        }
+    ]
+}
+```
+

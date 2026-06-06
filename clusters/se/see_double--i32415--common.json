@@ -1,0 +1,116 @@
+{
+    "id": "i32415",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "see double",
+    "en_definition": "see things as if they were there twice",
+    "tr_word": "çift görmek",
+    "tr_definition": "nesneleri sanki iki taneymiş gibi algılamak",
+    "ru_word": "двоиться в глазах",
+    "ru_definition": "видеть предметы раздвоенными",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşa görmək"
+                ],
+                "Turkmen": [
+                    "goşa görmek"
+                ],
+                "Uzbek": [
+                    "koʻzi tinmoq"
+                ],
+                "Uyghur": [
+                    "قوش كۆرۈش"
+                ],
+                "Kazakh": [
+                    "қосарланып көріну"
+                ],
+                "Kyrgyz": [
+                    "кош көрүнүү"
+                ],
+                "Karakalpak": [
+                    "qos kórіnu",
+                    "kózіne ekeu bolıp kórіnu"
+                ],
+                "Tatar": [
+                    "күз икеләнү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "iki görmək"
+                ],
+                "Turkmen": [
+                    "iki görmek"
+                ],
+                "Uyghur": [
+                    "ئىككى كۆرۈش"
+                ],
+                "Kyrgyz": [
+                    "эки көрүнүү"
+                ],
+                "Tatar": [
+                    "ике булып күренү",
+                    "икеләнеп күренү"
+                ],
+                "Bashkir": [
+                    "ике булып күренеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻzi ikkita koʻrmoq",
+                    "koʻziga ikkita boʻlib koʻrinmoq"
+                ],
+                "Kazakh": [
+                    "көзі бұлдырау"
+                ],
+                "Bashkir": [
+                    "күҙгә икәү булып күренеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift görmek"
+                ],
+                "Azerbaijani": [
+                    "çüt görmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "екі болып көріну"
+                ],
+                "Karakalpak": [
+                    "ekі bolıp kórіnu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mükerrer görmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جۈپ كۆرۈش"
+                ]
+            }
+        }
+    ]
+}

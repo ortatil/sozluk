@@ -1,0 +1,99 @@
+{
+    "id": "i39211",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "plastering",
+    "en_definition": "the application of plaster",
+    "tr_word": "sıva yapma",
+    "tr_definition": "sıva uygulama işi veya süreci",
+    "ru_word": "оштукатуривание",
+    "ru_definition": "процесс нанесения штукатурки на поверхность",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıva",
+                    "sıvama",
+                    "sıvacılık"
+                ],
+                "Azerbaijani": [
+                    "suvaq",
+                    "suvama",
+                    "suvaqçılıq"
+                ],
+                "Turkmen": [
+                    "suwag",
+                    "suwama",
+                    "suwamaklyk"
+                ],
+                "Uzbek": [
+                    "suvoq",
+                    "suvash"
+                ],
+                "Uyghur": [
+                    "سۇۋاقچىلىق",
+                    "سۇۋاش",
+                    "سۇۋاق"
+                ],
+                "Kazakh": [
+                    "сылақ"
+                ],
+                "Kyrgyz": [
+                    "сувоо"
+                ],
+                "Karakalpak": [
+                    "sıbaq",
+                    "sulaq"
+                ],
+                "Tatar": [
+                    "сулау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сылау",
+                    "сылап-сипау"
+                ],
+                "Karakalpak": [
+                    "sıbau"
+                ],
+                "Tatar": [
+                    "сылау"
+                ],
+                "Bashkir": [
+                    "һылау",
+                    "һылау эше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төшәү"
+                ],
+                "Bashkir": [
+                    "төҙәтеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pardoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шыбак",
+                    "шыбоо"
+                ]
+            }
+        }
+    ]
+}

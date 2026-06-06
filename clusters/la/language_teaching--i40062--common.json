@@ -1,0 +1,84 @@
+{
+    "id": "i40062",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "language teaching",
+    "en_definition": "teaching people to speak and understand a foreign language",
+    "tr_word": "dil öğretimi",
+    "tr_definition": "insanlara yabancı bir dili konuşmayı ve anlamayı öğretme süreci",
+    "ru_word": "преподавание языков",
+    "ru_definition": "обучение людей умению говорить и понимать иностранный язык",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dil öğretimi",
+                    "dil eğitimi"
+                ],
+                "Azerbaijani": [
+                    "dil tədrisi",
+                    "dil öyrətimi",
+                    "dil təlimi"
+                ],
+                "Turkmen": [
+                    "dil öwretmek",
+                    "dil tälimi",
+                    "dil dersi"
+                ],
+                "Uzbek": [
+                    "til oʻrgatish",
+                    "til taʼlimi"
+                ],
+                "Uyghur": [
+                    "تىل ئوقۇتۇش",
+                    "تىل تەلىمى",
+                    "تىل ئۆگىتىش"
+                ],
+                "Kazakh": [
+                    "тіл үйрету",
+                    "тіл оқыту",
+                    "тілдік білім беру"
+                ],
+                "Kyrgyz": [
+                    "тил үйрөтүү",
+                    "тил окутуу",
+                    "тил таануу"
+                ],
+                "Karakalpak": [
+                    "til úyretio",
+                    "til oqıtıo",
+                    "til tálimi"
+                ],
+                "Tatar": [
+                    "тел укыту",
+                    "тел өйрәтү",
+                    "тел дәресе"
+                ],
+                "Bashkir": [
+                    "тел уҡытыу",
+                    "тел өйрәтеү",
+                    "тел дәресе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lisan öğretimi",
+                    "lisan eğitimi"
+                ],
+                "Uzbek": [
+                    "lisoniy taʼlim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тел белеме бирү"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+# Cold comfort
+| Field | Detail |
+|---|---|
+| **ID** | i76118 |
+| **English** | cold comfort |
+| **Type** | noun |
+| **Definition** | very limited consolation or empathy |
+| **Source** | common |
+| **Ortatil** | yupanç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i76118",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cold comfort",
+    "en_definition": "very limited consolation or empathy",
+    "tr_word": "zayıf teselli",
+    "tr_definition": "çok sınırlı veya yetersiz olan, pek bir fayda sağlamayan teselli",
+    "ru_word": "слабое утешение",
+    "ru_definition": "незначительное или недостаточное утешение, которое не приносит реального облегчения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "faydasız avuntu"
+                ],
+                "Azerbaijani": [
+                    "faydasız təsəlli"
+                ],
+                "Turkmen": [
+                    "peýdasyz teselli"
+                ],
+                "Uzbek": [
+                    "foydasiz dalda"
+                ],
+                "Kazakh": [
+                    "пайдасыз жұбаныш"
+                ],
+                "Kyrgyz": [
+                    "пайдасыз көңүл айтуу"
+                ],
+                "Karakalpak": [
+                    "paydasız járdem"
+                ],
+                "Tatar": [
+                    "файдасыз юаныч"
+                ],
+                "Bashkir": [
+                    "файҙаһыҙ йылы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuru teselli"
+                ],
+                "Uyghur": [
+                    "قۇرۇق تەسەللى"
+                ],
+                "Kazakh": [
+                    "құрғақ жұбаныш"
+                ],
+                "Kyrgyz": [
+                    "кургак жубатуу"
+                ],
+                "Karakalpak": [
+                    "qurǵaq sóz"
+                ],
+                "Tatar": [
+                    "коры юаныч"
+                ],
+                "Bashkir": [
+                    "ҡоро йылы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boş teselli"
+                ],
+                "Azerbaijani": [
+                    "boş təsəlli"
+                ],
+                "Turkmen": [
+                    "boş teselli"
+                ],
+                "Tatar": [
+                    "буш юаныч"
+                ],
+                "Bashkir": [
+                    "буш йылытыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ozgina tasalli"
+                ],
+                "Uyghur": [
+                    "ئاز تەسەللى"
+                ],
+                "Bashkir": [
+                    "аҙ йылы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yupanch"
+                ],
+                "Kazakh": [
+                    "жұбаныш емес"
+                ],
+                "Karakalpak": [
+                    "jubanısh emes"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zayıf teselli"
+                ],
+                "Azerbaijani": [
+                    "zəif təsəlli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kichik taskin"
+                ],
+                "Kazakh": [
+                    "көңілге медеу болмас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təsəlli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gowşak teselli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sojuk teselli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىھۇدە تەسەللى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аз сооротуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tiyip-qashpa jubanısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аз юаныч"
+                ]
+            }
+        }
+    ]
+}
+```
+

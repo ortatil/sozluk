@@ -1,0 +1,166 @@
+{
+    "id": "i93099",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sneak thief",
+    "en_definition": "a thief who steals without using violence",
+    "tr_word": "aşırmacı",
+    "tr_definition": "Şiddet kullanmadan, gizlice ve çabucak çalan hırsız.",
+    "ru_word": "воришка",
+    "ru_definition": "Вор, который крадет незаметно, не прибегая к насилию или взлому.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "oğru",
+                    "oğru-əyri"
+                ],
+                "Turkmen": [
+                    "ogry"
+                ],
+                "Uzbek": [
+                    "oʻgʻri"
+                ],
+                "Uyghur": [
+                    "ئوغرى"
+                ],
+                "Kazakh": [
+                    "ұры"
+                ],
+                "Kyrgyz": [
+                    "ууру"
+                ],
+                "Karakalpak": [
+                    "urı"
+                ],
+                "Tatar": [
+                    "угры"
+                ],
+                "Bashkir": [
+                    "уғры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kissavur"
+                ],
+                "Uyghur": [
+                    "كەسكۈچى"
+                ],
+                "Tatar": [
+                    "кесәче"
+                ],
+                "Bashkir": [
+                    "кеҫә ҡарағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yankesici",
+                    "yancı"
+                ],
+                "Azerbaijani": [
+                    "yandesdi"
+                ],
+                "Uyghur": [
+                    "يانچۇقچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hırsız"
+                ],
+                "Tatar": [
+                    "хәрәмзәдә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cibgir"
+                ],
+                "Turkmen": [
+                    "jebis",
+                    "jebisçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kallob"
+                ],
+                "Kazakh": [
+                    "қалташы",
+                    "келсін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сұғанақ"
+                ],
+                "Karakalpak": [
+                    "suıq qol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "каравылчы"
+                ],
+                "Bashkir": [
+                    "ҡараҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aşırmacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hümmetçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "choʻntakkesar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ууру-кески",
+                    "ууру-кескич"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qımqırıushı"
+                ]
+            }
+        }
+    ]
+}

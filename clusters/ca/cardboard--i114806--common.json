@@ -1,0 +1,94 @@
+{
+    "id": "i114806",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cardboard",
+    "en_definition": "a stiff moderately thick paper",
+    "tr_word": "karton",
+    "tr_definition": "sert ve oldukça kalın kağıt",
+    "ru_word": "картон",
+    "ru_definition": "жесткая умеренно толстая бумага",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qalın kağız"
+                ],
+                "Turkmen": [
+                    "galyň kagyz"
+                ],
+                "Uzbek": [
+                    "qog'oz",
+                    "qalin qog'oz"
+                ],
+                "Uyghur": [
+                    "قېلىن قەغەز"
+                ],
+                "Kyrgyz": [
+                    "калың кагаз"
+                ],
+                "Tatar": [
+                    "каты кәгазь"
+                ],
+                "Bashkir": [
+                    "ҡаты ҡағыҙ",
+                    "ҡалын ҡағыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karton"
+                ],
+                "Azerbaijani": [
+                    "karton"
+                ],
+                "Turkmen": [
+                    "karton"
+                ],
+                "Uyghur": [
+                    "كارتا"
+                ],
+                "Tatar": [
+                    "картон"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mukavva"
+                ],
+                "Azerbaijani": [
+                    "mukavva"
+                ],
+                "Uzbek": [
+                    "muqova"
+                ],
+                "Uyghur": [
+                    "مۇقاۋا قەغىزى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қатырма",
+                    "қатырма қағаз"
+                ],
+                "Kyrgyz": [
+                    "катуу кагаз"
+                ],
+                "Karakalpak": [
+                    "qatırma",
+                    "qatırma qaǵaz"
+                ]
+            }
+        }
+    ]
+}

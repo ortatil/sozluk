@@ -1,0 +1,89 @@
+{
+    "id": "i45909",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spoonbill",
+    "en_definition": "wading birds having a long flat bill with a tip like a spoon",
+    "tr_word": "kaşıkçı kuşu",
+    "tr_definition": "leyleksiler takımından, gagası yassı ve ucu kaşık şeklinde genişlemiş olan bir kuş türü",
+    "ru_word": "колпица",
+    "ru_definition": "крупная болотная птица семейства ибисовых с длинным плоским клювом, расширенным на конце в виде лопатки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaşıkçı",
+                    "kaşıkçı kuşu"
+                ],
+                "Azerbaijani": [
+                    "qaşıqdimdik"
+                ],
+                "Uzbek": [
+                    "qoshiqburun",
+                    "qoshiqtumshuq"
+                ],
+                "Kazakh": [
+                    "қасықтұмсық"
+                ],
+                "Kyrgyz": [
+                    "кашык тумшук"
+                ],
+                "Karakalpak": [
+                    "qasıqmұrın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жалбағай"
+                ],
+                "Kyrgyz": [
+                    "жалпак тумшук"
+                ],
+                "Karakalpak": [
+                    "jalpaqmұrın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kürəkdimdik"
+                ],
+                "Tatar": [
+                    "көрешборын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "калакборын"
+                ],
+                "Bashkir": [
+                    "ҡалаҡморон",
+                    "ҡалаҡморонло селән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çemçeçüňk",
+                    "çemçeburun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوشقوش",
+                    "قوشتۇمشۇق"
+                ]
+            }
+        }
+    ]
+}

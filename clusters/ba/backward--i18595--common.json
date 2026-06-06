@@ -1,0 +1,135 @@
+{
+    "id": "i18595",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "backward",
+    "en_definition": "in a manner or order or direction the reverse of normal",
+    "tr_word": "geriye doğru",
+    "tr_definition": "normalin tersi olan bir yönde veya sırada",
+    "ru_word": "назад",
+    "ru_definition": "в направлении или порядке, обратном обычному",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arkaya"
+                ],
+                "Azerbaijani": [
+                    "arxaya"
+                ],
+                "Uzbek": [
+                    "orqaga",
+                    "ortga"
+                ],
+                "Uyghur": [
+                    "ئارقىغا"
+                ],
+                "Kyrgyz": [
+                    "артка"
+                ],
+                "Tatar": [
+                    "артка"
+                ],
+                "Bashkir": [
+                    "артҡа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geriye",
+                    "gerisin geri"
+                ],
+                "Azerbaijani": [
+                    "geriyə"
+                ],
+                "Kazakh": [
+                    "кері"
+                ],
+                "Karakalpak": [
+                    "kerі"
+                ],
+                "Tatar": [
+                    "кирегә"
+                ],
+                "Bashkir": [
+                    "кире",
+                    "киреһенсә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tersine"
+                ],
+                "Azerbaijani": [
+                    "tərsinə"
+                ],
+                "Turkmen": [
+                    "tersine"
+                ],
+                "Uzbek": [
+                    "teskari"
+                ],
+                "Kazakh": [
+                    "теріс"
+                ],
+                "Karakalpak": [
+                    "ters"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كەينىگە"
+                ],
+                "Kazakh": [
+                    "кейін"
+                ],
+                "Kyrgyz": [
+                    "кейин",
+                    "кайра"
+                ],
+                "Karakalpak": [
+                    "keyіn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dala"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzlygyna",
+                    "yza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەتۈر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тискәре"
+                ]
+            }
+        }
+    ]
+}

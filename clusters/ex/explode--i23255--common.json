@@ -1,0 +1,120 @@
+{
+    "id": "i23255",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "explode",
+    "en_definition": "burst outward, usually with noise",
+    "tr_word": "patlamak",
+    "tr_definition": "Büyük bir gürültüyle ve çevreye parçalar saçarak aniden parçalanmak.",
+    "ru_word": "взрываться",
+    "ru_definition": "Разрушаться с грохотом от внезапного высвобождения энергии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yarılmaq"
+                ],
+                "Turkmen": [
+                    "ýarylmak",
+                    "atylmak"
+                ],
+                "Uzbek": [
+                    "yorilmoq",
+                    "otilmoq"
+                ],
+                "Uyghur": [
+                    "يېرىلماق"
+                ],
+                "Kazakh": [
+                    "жарылу"
+                ],
+                "Kyrgyz": [
+                    "жарылуу"
+                ],
+                "Karakalpak": [
+                    "jarılıu"
+                ],
+                "Tatar": [
+                    "ярылу"
+                ],
+                "Bashkir": [
+                    "ярылыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "patlamak",
+                    "parçalanmak"
+                ],
+                "Azerbaijani": [
+                    "partlamaq"
+                ],
+                "Turkmen": [
+                    "partlamak"
+                ],
+                "Uzbek": [
+                    "portlamoq"
+                ],
+                "Uyghur": [
+                    "پارتلىماق"
+                ],
+                "Karakalpak": [
+                    "parshalanıu"
+                ],
+                "Tatar": [
+                    "шартлау"
+                ],
+                "Bashkir": [
+                    "шартлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئېتىلماق"
+                ],
+                "Kazakh": [
+                    "атылу"
+                ],
+                "Kyrgyz": [
+                    "атылуу"
+                ],
+                "Karakalpak": [
+                    "atılıu"
+                ],
+                "Tatar": [
+                    "атылу"
+                ],
+                "Bashkir": [
+                    "атлыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "infilak etmek"
+                ],
+                "Azerbaijani": [
+                    "inficar etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тарсылдау"
+                ],
+                "Kyrgyz": [
+                    "тарсылдоо"
+                ]
+            }
+        }
+    ]
+}

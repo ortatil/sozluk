@@ -1,0 +1,346 @@
+# Fantastic
+| Field | Detail |
+|---|---|
+| **ID** | i9186 |
+| **English** | fantastic |
+| **Type** | adjective |
+| **Definition** | extraordinarily good or great ; used especially as intensifiers |
+| **Source** | common |
+| **Ortatil** | acayıp |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **acayıp** | **fäwkäladä** | **ğalamat** | **keremet** |
+|---|---|---|---|---|
+| Turkish | ❌ | ✅ | ❌ | ❌ |
+| Azerbaijani | ❌ | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ | ❌ |
+| Kazakh | ✅ | ❌ | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ✅ | ✅ |
+| Tatar | ❌ | ❌ | ❌ | ❌ |
+| Bashkir | ❌ | ❌ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.67 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0 | 0.60 | 0.60 |
+| *In All* | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |
+| **O'TQ** | **2.93** | **1.17** | **1.10** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاجايىپ | ajayip |
+| قالتىس | qaltis |
+| ئەلا | äla |
+| **Kazakh** | |
+| ғажап | ğajap |
+| ғаламат | ğalamat |
+| керемет | keremet |
+| тамаша | tamaşa |
+| сұмдық | sumdıq |
+| ерекше | yerekşe |
+| **Kyrgyz** | |
+| ажайып | ajayıp |
+| керемет | keremet |
+| сонун | sonun |
+| укмуш | ukmuş |
+| **Tatar** | |
+| гайрәтле | gayrätle |
+| искиткеч | iskitkeç |
+| мәһабәт | mähabät |
+| асыл | asıl |
+| **Bashkir** | |
+| ғаламат | ğalamat |
+| иҫәпһеҙ | isäphez |
+| ғәжәп | ğäjäp |
+
+```json
+{
+    "id": "i9186",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "fantastic",
+    "en_definition": "extraordinarily good or great ; used especially as intensifiers",
+    "tr_word": "şahane",
+    "tr_definition": "olağanüstü derecede iyi veya harika; özellikle pekiştirici olarak kullanılır",
+    "ru_word": "фантастический",
+    "ru_definition": "чрезвычайно хороший или великий; используется в основном как усилитель",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ajaýyp",
+                    "ajap"
+                ],
+                "Uzbek": [
+                    "ajoyib"
+                ],
+                "Uyghur": [
+                    "ئاجايىپ"
+                ],
+                "Kazakh": [
+                    "ғажап"
+                ],
+                "Kyrgyz": [
+                    "ажайып"
+                ],
+                "Karakalpak": [
+                    "ajayıp"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "behad"
+                ],
+                "Uyghur": [
+                    "بەك ياخشى"
+                ],
+                "Tatar": [
+                    "бик яхшы"
+                ],
+                "Bashkir": [
+                    "бик шәп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قالتىس"
+                ],
+                "Kazakh": [
+                    "ғаламат"
+                ],
+                "Karakalpak": [
+                    "ǵalamat"
+                ],
+                "Bashkir": [
+                    "ғаламат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fevkalade"
+                ],
+                "Azerbaijani": [
+                    "fövqəladə"
+                ],
+                "Uzbek": [
+                    "favqulodda"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "керемет"
+                ],
+                "Kyrgyz": [
+                    "керемет"
+                ],
+                "Karakalpak": [
+                    "keremet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müthiş"
+                ],
+                "Azerbaijani": [
+                    "möhtəşəm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şahane"
+                ],
+                "Azerbaijani": [
+                    "şahanə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əla"
+                ],
+                "Uyghur": [
+                    "ئەلا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "heyranedici"
+                ],
+                "Turkmen": [
+                    "haýran galdyryjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "örän gowy"
+                ],
+                "Karakalpak": [
+                    "orasan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'oyat"
+                ],
+                "Tatar": [
+                    "гайрәтле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тамаша"
+                ],
+                "Bashkir": [
+                    "таң ҡалырлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "искиткеч"
+                ],
+                "Bashkir": [
+                    "иҫәпһеҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "harika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muazzam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täsin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dahshatli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ulkan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ناھايىتى ياخشى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сұмдық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ерекше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сонун"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "укмуш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эң сонун"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tań qalarlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәһабәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "асыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ғәжәп"
+                ]
+            }
+        }
+    ]
+}
+```
+

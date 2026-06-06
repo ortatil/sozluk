@@ -1,0 +1,95 @@
+{
+    "id": "i64240",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "voting right",
+    "en_definition": "the right to vote; especially the right of a common shareholder to vote in person or by proxy on the affairs of a company",
+    "tr_word": "oy hakkı",
+    "tr_definition": "oy kullanma hakkı; özellikle bir hissedarın bir şirketin işleri üzerinde şahsen veya vekaleten oy kullanma yetkisi",
+    "ru_word": "право голоса",
+    "ru_definition": "право участвовать в голосовании; в частности, право акционера голосовать лично или через представителя по делам компании",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saýlaw hukugy"
+                ],
+                "Uzbek": [
+                    "saylov huquqi"
+                ],
+                "Uyghur": [
+                    "سايلام ھوقۇقى"
+                ],
+                "Kazakh": [
+                    "сайлау құқығы"
+                ],
+                "Kyrgyz": [
+                    "шайлоо укугу"
+                ],
+                "Karakalpak": [
+                    "saylao huqıqı"
+                ],
+                "Tatar": [
+                    "сайлау хокукы"
+                ],
+                "Bashkir": [
+                    "һайлау хоҡуғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovoz berish huquqi"
+                ],
+                "Uyghur": [
+                    "ئاۋاز بېرىش ھوقۇقى"
+                ],
+                "Kazakh": [
+                    "дауыс беру құқығы"
+                ],
+                "Karakalpak": [
+                    "dauıs berio huqıqı"
+                ],
+                "Tatar": [
+                    "тавыш бирү хокукы"
+                ],
+                "Bashkir": [
+                    "тауыш биреү хоҡуғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seçme hakkı"
+                ],
+                "Azerbaijani": [
+                    "səsvermə hüququ",
+                    "seçki hüququ"
+                ],
+                "Turkmen": [
+                    "ses bermek hukugy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oy hakkı",
+                    "rey hakkı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "добуш берүү укугу"
+                ]
+            }
+        }
+    ]
+}

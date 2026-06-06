@@ -1,0 +1,144 @@
+# Mineral oil
+| Field | Detail |
+|---|---|
+| **ID** | i115710 |
+| **English** | mineral oil |
+| **Type** | noun |
+| **Definition** | a distillate of petroleum (especially one used medicinally as a laxative or stool softener) |
+| **Source** | common |
+| **Ortatil** | täşmäy |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i115710",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mineral oil",
+    "en_definition": "a distillate of petroleum (especially one used medicinally as a laxative or stool softener)",
+    "tr_word": "mineral yağ",
+    "tr_definition": "petrolden elde edilen, özellikle tıpta müshil veya dışkı yumuşatıcı olarak kullanılan bir distilat",
+    "ru_word": "минеральное масло",
+    "ru_definition": "дистиллят нефти, особенно используемый в медицине в качестве слабительного средства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mineral yağ"
+                ],
+                "Azerbaijani": [
+                    "mineral yağ"
+                ],
+                "Turkmen": [
+                    "mineral ýagy"
+                ],
+                "Uzbek": [
+                    "mineral moy"
+                ],
+                "Uyghur": [
+                    "مىنېرال ماي"
+                ],
+                "Kazakh": [
+                    "минералды май"
+                ],
+                "Tatar": [
+                    "минераль май"
+                ],
+                "Bashkir": [
+                    "минераль май"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "neft yağı"
+                ],
+                "Turkmen": [
+                    "nebit ýagy"
+                ],
+                "Uyghur": [
+                    "نېفىت مېيى"
+                ],
+                "Karakalpak": [
+                    "naft mayı"
+                ],
+                "Tatar": [
+                    "нефть мае"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vazelin yağı"
+                ],
+                "Uzbek": [
+                    "vazelin moyi"
+                ],
+                "Kyrgyz": [
+                    "парафин майы"
+                ],
+                "Karakalpak": [
+                    "wazelin mayı"
+                ],
+                "Bashkir": [
+                    "вазелин майы",
+                    "парафин майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toshmoy"
+                ],
+                "Kyrgyz": [
+                    "ак май"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇيۇق پارافىن"
+                ],
+                "Kazakh": [
+                    "сұйық парафин"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұнай майы"
+                ],
+                "Kyrgyz": [
+                    "мунай майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "madeni yağ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "likit parafin"
+                ]
+            }
+        }
+    ]
+}
+```
+

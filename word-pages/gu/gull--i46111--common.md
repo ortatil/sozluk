@@ -1,0 +1,151 @@
+# Gull
+| Field | Detail |
+|---|---|
+| **ID** | i46111 |
+| **English** | gull |
+| **Type** | noun |
+| **Definition** | mostly white aquatic bird having long pointed wings and short legs |
+| **Source** | common |
+| **Ortatil** | şağala |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **şağala** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چايكا | çayka |
+| **Kazakh** | |
+| шағала | şağala |
+| **Kyrgyz** | |
+| чардак | çardak |
+| **Tatar** | |
+| акчарлак | akçarlak |
+| **Bashkir** | |
+| аҡсарлаҡ | aqsarlaq |
+
+```json
+{
+    "id": "i46111",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gull",
+    "en_definition": "mostly white aquatic bird having long pointed wings and short legs",
+    "tr_word": "martı",
+    "tr_definition": "Genellikle beyaz renkli, uzun kanatlı ve kısa bacaklı bir deniz kuşu.",
+    "ru_word": "чайка",
+    "ru_definition": "Преимущественно белая водная птица с длинными заостренными крыльями и короткими ногами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz kuşu"
+                ],
+                "Azerbaijani": [
+                    "dəniz quşu"
+                ],
+                "Uzbek": [
+                    "dengiz qushi"
+                ],
+                "Uyghur": [
+                    "دېڭىز كەپتىرى"
+                ],
+                "Kazakh": [
+                    "теңіз шағаласы"
+                ],
+                "Karakalpak": [
+                    "teńiz shaǵalası"
+                ],
+                "Tatar": [
+                    "диңгез акчарлагы"
+                ],
+                "Bashkir": [
+                    "диңгеҙ ҡошо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qağayı"
+                ],
+                "Kazakh": [
+                    "шағала"
+                ],
+                "Karakalpak": [
+                    "shaǵala"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "ак чардак"
+                ],
+                "Tatar": [
+                    "акчарлак"
+                ],
+                "Bashkir": [
+                    "аҡсарлаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çarlak"
+                ],
+                "Kyrgyz": [
+                    "чардак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chayka"
+                ],
+                "Uyghur": [
+                    "چايكا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "martı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "balykçy"
+                ]
+            }
+        }
+    ]
+}
+```
+

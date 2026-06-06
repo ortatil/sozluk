@@ -1,0 +1,109 @@
+{
+    "id": "i24933",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "recalculate",
+    "en_definition": "calculate anew",
+    "tr_word": "yeniden hesaplamak",
+    "tr_definition": "bir şeyi tekrar veya yeni verilere dayanarak hesap etmek",
+    "ru_word": "пересчитывать",
+    "ru_definition": "производить расчет заново или повторно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden hesaplamak"
+                ],
+                "Azerbaijani": [
+                    "yenidən hesablamaq"
+                ],
+                "Turkmen": [
+                    "täzeden hasaplamak"
+                ],
+                "Uyghur": [
+                    "يېڭىدىن ھېسابلىماق"
+                ],
+                "Kyrgyz": [
+                    "жаңыдан эсептөө"
+                ],
+                "Tatar": [
+                    "яңадан санау",
+                    "яңабаштан исәпләү"
+                ],
+                "Bashkir": [
+                    "яңынан иҫәпләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan hasaplamak"
+                ],
+                "Uzbek": [
+                    "qayta hisoblamoq",
+                    "qayta hisob-kitob qilmoq",
+                    "qayta sanamoq"
+                ],
+                "Uyghur": [
+                    "قايتا ھېسابلىماق"
+                ],
+                "Kazakh": [
+                    "қайта есептеу",
+                    "қайта санау",
+                    "қайта есептеу жүргізу"
+                ],
+                "Kyrgyz": [
+                    "кайра эсептөө",
+                    "кайра саноо"
+                ],
+                "Karakalpak": [
+                    "qayta esaplau",
+                    "qayta sanau"
+                ],
+                "Bashkir": [
+                    "ҡайтанан хисаплау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekrar hesaplamak"
+                ],
+                "Azerbaijani": [
+                    "təkrar hesablamaq"
+                ],
+                "Uyghur": [
+                    "تەكرار ھېسابلىماق"
+                ],
+                "Karakalpak": [
+                    "tákirar esaplau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hesabını tazelemek"
+                ],
+                "Turkmen": [
+                    "hasabyny täzelemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат исәпләү"
+                ],
+                "Bashkir": [
+                    "ҡабат иҫәпләү"
+                ]
+            }
+        }
+    ]
+}

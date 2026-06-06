@@ -1,0 +1,127 @@
+{
+    "id": "i94063",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "weatherman",
+    "en_definition": "predicts the weather",
+    "tr_word": "hava durumu sunucusu",
+    "tr_definition": "Hava tahminlerini televizyon veya radyoda sunan kişi.",
+    "ru_word": "метеоролог",
+    "ru_definition": "Специалист, занимающийся предсказанием погоды.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hava tahmincisi",
+                    "hava durumu sunucusu"
+                ],
+                "Azerbaijani": [
+                    "hava proqnozçusu"
+                ],
+                "Uyghur": [
+                    "ھاۋا رايى مەلۇماتچىسى",
+                    "ھاۋا رايى مۇتەخەسسىسى"
+                ],
+                "Kazakh": [
+                    "ауа райын болжаушы"
+                ],
+                "Karakalpak": [
+                    "haoa rayın boljaoshı",
+                    "haoa rayın aytıoshı"
+                ],
+                "Tatar": [
+                    "һава торышын фаразлаучы"
+                ],
+                "Bashkir": [
+                    "һауа торошо белгесе",
+                    "һауа торошон юраусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meteorolog"
+                ],
+                "Azerbaijani": [
+                    "meteoroloq"
+                ],
+                "Uzbek": [
+                    "meteorolog"
+                ],
+                "Uyghur": [
+                    "مېتېئورولوگ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ob-havoshunos"
+                ],
+                "Kyrgyz": [
+                    "аба ырайын айтуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "болжаушы"
+                ],
+                "Karakalpak": [
+                    "boljaoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "синоптик"
+                ],
+                "Bashkir": [
+                    "синоптик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howaçy",
+                    "howa synçysy",
+                    "howa maglumatçysy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күн райын болжаушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аба ырайын болжолдоочу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көзү ачык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "һава торышы белгече"
+                ]
+            }
+        }
+    ]
+}

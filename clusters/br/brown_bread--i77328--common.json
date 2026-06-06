@@ -1,0 +1,119 @@
+{
+    "id": "i77328",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brown bread",
+    "en_definition": "bread made with whole wheat flour",
+    "tr_word": "tam buğday ekmeği",
+    "tr_definition": "tam buğday unundan yapılan ekmek",
+    "ru_word": "чёрный хлеб",
+    "ru_definition": "хлеб, приготовленный из цельнозерновой или ржаной муки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qara çörək"
+                ],
+                "Turkmen": [
+                    "gara çörek"
+                ],
+                "Uzbek": [
+                    "qora non"
+                ],
+                "Uyghur": [
+                    "قارا نان"
+                ],
+                "Kazakh": [
+                    "қара нан"
+                ],
+                "Kyrgyz": [
+                    "кара нан"
+                ],
+                "Karakalpak": [
+                    "qara nan"
+                ],
+                "Tatar": [
+                    "кара икмәк"
+                ],
+                "Bashkir": [
+                    "ҡара икмәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "buğda çörəyi"
+                ],
+                "Turkmen": [
+                    "bugdaý çöregi"
+                ],
+                "Uyghur": [
+                    "بۇغداي نېنى"
+                ],
+                "Kazakh": [
+                    "бидай нан"
+                ],
+                "Kyrgyz": [
+                    "буудай нан"
+                ],
+                "Karakalpak": [
+                    "biday nan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kepekli ekmek"
+                ],
+                "Azerbaijani": [
+                    "kəpəkli çörək"
+                ],
+                "Turkmen": [
+                    "kepekli çörek"
+                ],
+                "Uzbek": [
+                    "kepakli non"
+                ],
+                "Kazakh": [
+                    "кебек нан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "арыш икмәге"
+                ],
+                "Bashkir": [
+                    "арыш икмәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "esmer ekmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tam buğday ekmeği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "javdar non"
+                ]
+            }
+        }
+    ]
+}

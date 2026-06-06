@@ -1,0 +1,77 @@
+{
+    "id": "i77592",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "onion",
+    "en_definition": "an aromatic flavorful vegetable",
+    "tr_word": "soğan",
+    "tr_definition": "Yemeklere tat vermek için kullanılan, kat kat kabukları olan, keskin kokulu bir sebze.",
+    "ru_word": "лук",
+    "ru_definition": "Овощ с резким вкусом и запахом, состоящий из множества слоев, используемый в кулинарии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soğan"
+                ],
+                "Azerbaijani": [
+                    "soğan"
+                ],
+                "Turkmen": [
+                    "sogan"
+                ],
+                "Uyghur": [
+                    "سوغان"
+                ],
+                "Tatar": [
+                    "суган"
+                ],
+                "Bashkir": [
+                    "һуған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baş soğan"
+                ],
+                "Kazakh": [
+                    "бас пияз"
+                ],
+                "Karakalpak": [
+                    "bas piyaz"
+                ],
+                "Tatar": [
+                    "башлы суган"
+                ],
+                "Bashkir": [
+                    "башлы һуған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "piyoz",
+                    "oshpiyoz"
+                ],
+                "Uyghur": [
+                    "پىياز"
+                ],
+                "Kazakh": [
+                    "пияз"
+                ],
+                "Kyrgyz": [
+                    "пияз"
+                ],
+                "Karakalpak": [
+                    "piyaz"
+                ]
+            }
+        }
+    ]
+}

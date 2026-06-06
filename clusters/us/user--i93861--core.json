@@ -1,0 +1,130 @@
+{
+    "id": "i93861",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "user",
+    "en_definition": "a person who makes use of a thing; someone who uses or employs something",
+    "tr_word": "kullanıcı",
+    "tr_definition": "bir şeyi kullanan veya ondan yararlanan kimse",
+    "ru_word": "пользователь",
+    "ru_definition": "человек, который использует что-либо или пользуется чем-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kullanıcı"
+                ],
+                "Uyghur": [
+                    "قوللانغۇچى"
+                ],
+                "Kazakh": [
+                    "қолданушы"
+                ],
+                "Kyrgyz": [
+                    "колдонуучу"
+                ],
+                "Karakalpak": [
+                    "qoldanıoshı"
+                ],
+                "Tatar": [
+                    "кулланучы"
+                ],
+                "Bashkir": [
+                    "ҡулланыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "peýdalanyjy"
+                ],
+                "Uzbek": [
+                    "foydalanuvchi"
+                ],
+                "Kazakh": [
+                    "пайдаланушы"
+                ],
+                "Kyrgyz": [
+                    "пайдалануучу"
+                ],
+                "Karakalpak": [
+                    "paydalanıoshı"
+                ],
+                "Tatar": [
+                    "файдаланучы"
+                ],
+                "Bashkir": [
+                    "файҙаланыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "işlədən"
+                ],
+                "Uzbek": [
+                    "ishlatuvchi"
+                ],
+                "Uyghur": [
+                    "ئىشلەتكۈچى"
+                ],
+                "Karakalpak": [
+                    "isletioshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istifadeci"
+                ],
+                "Azerbaijani": [
+                    "istifadəçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müstamel"
+                ],
+                "Uyghur": [
+                    "مۇستەئمىل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ulanyjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müstəfıd"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "iste'molchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұтынушы"
+                ]
+            }
+        }
+    ]
+}

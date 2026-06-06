@@ -1,0 +1,139 @@
+{
+    "id": "i7600",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "smallish",
+    "en_definition": "rather small",
+    "tr_word": "küçücek",
+    "tr_definition": "oldukça küçük, küçüğe yakın",
+    "ru_word": "небольшой",
+    "ru_definition": "довольно маленький, средний между маленьким и средним",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçücek",
+                    "küçürek"
+                ],
+                "Turkmen": [
+                    "kiçijik",
+                    "kiçiräk"
+                ],
+                "Uzbek": [
+                    "kichikroq",
+                    "kichkinagina",
+                    "kichikgina"
+                ],
+                "Uyghur": [
+                    "كىچىكرەك",
+                    "كىچىككىنە"
+                ],
+                "Kazakh": [
+                    "кішілеу",
+                    "кішігірім",
+                    "кішкене"
+                ],
+                "Kyrgyz": [
+                    "кичирээк",
+                    "кичинекей"
+                ],
+                "Karakalpak": [
+                    "kishileu",
+                    "kishkeneleu",
+                    "kishirek",
+                    "kishkene"
+                ],
+                "Tatar": [
+                    "кечерәк",
+                    "кечкенә генә",
+                    "кечкенәдәй",
+                    "кечкенәрәк"
+                ],
+                "Bashkir": [
+                    "кескәй",
+                    "кескенә",
+                    "кесерәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "azca"
+                ],
+                "Azerbaijani": [
+                    "azca"
+                ],
+                "Uyghur": [
+                    "ئازراق كىچىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "minicik"
+                ],
+                "Uzbek": [
+                    "mittigina"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "balaca"
+                ],
+                "Bashkir": [
+                    "бәләкәс кенә",
+                    "бәләкәйерәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ufacık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kiçik",
+                    "kicikcə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xırda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ujypsyz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шағын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "майдараак"
+                ]
+            }
+        }
+    ]
+}

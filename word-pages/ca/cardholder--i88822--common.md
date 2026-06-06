@@ -1,0 +1,78 @@
+# Cardholder
+| Field | Detail |
+|---|---|
+| **ID** | i88822 |
+| **English** | cardholder |
+| **Type** | noun |
+| **Definition** | a person who holds a credit card or debit card |
+| **Source** | common |
+| **Ortatil** | kartahan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i88822",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cardholder",
+    "en_definition": "a person who holds a credit card or debit card",
+    "tr_word": "kart hamili",
+    "tr_definition": "bir kredi kartı veya banka kartına sahip olan kişi",
+    "ru_word": "держатель карты",
+    "ru_definition": "лицо, на имя которого выпущена банковская карта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kart sahibi",
+                    "kart hamili",
+                    "kart kullanıcısı"
+                ],
+                "Azerbaijani": [
+                    "kart sahibi",
+                    "kart daşıyıcısı"
+                ],
+                "Turkmen": [
+                    "kart eýesi",
+                    "kart saklaýjy"
+                ],
+                "Uzbek": [
+                    "kartaxon",
+                    "karta egasi",
+                    "karta sohibi"
+                ],
+                "Uyghur": [
+                    "كارت ئىگىسى",
+                    "كارت تۇتقۇچى",
+                    "كارت ساھىبى"
+                ],
+                "Kazakh": [
+                    "карта иесі",
+                    "карта ұстаушы"
+                ],
+                "Kyrgyz": [
+                    "карта ээси",
+                    "карта кармоочу"
+                ],
+                "Karakalpak": [
+                    "karta iyesi",
+                    "karta tutınıoshısı"
+                ],
+                "Tatar": [
+                    "карта тотучы",
+                    "карта иясе"
+                ],
+                "Bashkir": [
+                    "карта тотоусы",
+                    "карта эйәһе"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,77 @@
+{
+    "id": "i78717",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "red wine",
+    "en_definition": "wine having a red color derived from skins of dark-colored grapes",
+    "tr_word": "kırmızı şarap",
+    "tr_definition": "koyu renkli üzümlerin kabuklarından gelen kırmızı renge sahip şarap",
+    "ru_word": "красное вино",
+    "ru_definition": "вино, имеющее красный цвет, полученный из кожицы темных сортов винограда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyzyl şerap",
+                    "gyzyl mey"
+                ],
+                "Uzbek": [
+                    "qizil may",
+                    "qizil sharob",
+                    "qizil bodiya"
+                ],
+                "Uyghur": [
+                    "قىزىل شاراب",
+                    "قىزىل مەي"
+                ],
+                "Kazakh": [
+                    "қызыл шарап",
+                    "қызыл мәй"
+                ],
+                "Kyrgyz": [
+                    "кызыл шарап",
+                    "кызыл мөй"
+                ],
+                "Karakalpak": [
+                    "qızıl sharap",
+                    "qızıl máy"
+                ],
+                "Tatar": [
+                    "кызыл шәраб",
+                    "кызыл мәй"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл шарап",
+                    "ҡыҙыл мәй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırmızı şarap"
+                ],
+                "Azerbaijani": [
+                    "qırmızı şərab",
+                    "qırmızı meyxoş",
+                    "qırmızı badə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mey"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bade"
+                ]
+            }
+        }
+    ]
+}

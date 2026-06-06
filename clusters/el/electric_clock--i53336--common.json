@@ -1,0 +1,71 @@
+{
+    "id": "i53336",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "electric clock",
+    "en_definition": "a clock using a small electric motor",
+    "tr_word": "elektrikli saat",
+    "tr_definition": "küçük bir elektrik motoruyla çalışan saat",
+    "ru_word": "электрические часы",
+    "ru_definition": "часы, работающие от небольшого электродвигателя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrikli saat"
+                ],
+                "Azerbaijani": [
+                    "elektrikli saat",
+                    "elektrik saatı"
+                ],
+                "Turkmen": [
+                    "elektrik sagady"
+                ],
+                "Uzbek": [
+                    "elektr soat"
+                ],
+                "Uyghur": [
+                    "ئېلېكترونلۇق سائەت"
+                ],
+                "Kazakh": [
+                    "электр сағаты",
+                    "электрлі сағат"
+                ],
+                "Kyrgyz": [
+                    "электр сааты",
+                    "электрдик саат"
+                ],
+                "Karakalpak": [
+                    "elektr saat",
+                    "elektrli saat"
+                ],
+                "Tatar": [
+                    "электр сәгате",
+                    "электрик сәгать"
+                ],
+                "Bashkir": [
+                    "электр сәғәте",
+                    "электрле сәғәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tokly sagat"
+                ],
+                "Uyghur": [
+                    "توقلۇق سائەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pilli saat"
+                ]
+            }
+        }
+    ]
+}

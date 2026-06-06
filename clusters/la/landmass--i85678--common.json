@@ -1,0 +1,168 @@
+{
+    "id": "i85678",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "landmass",
+    "en_definition": "a large continuous extent of land",
+    "tr_word": "kara kütlesi",
+    "tr_definition": "geniş ve kesintisiz kara parçası",
+    "ru_word": "массив суши",
+    "ru_definition": "обширный непрерывный участок земной поверхности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "quru"
+                ],
+                "Turkmen": [
+                    "gury ýer"
+                ],
+                "Uzbek": [
+                    "quruqlik"
+                ],
+                "Uyghur": [
+                    "قۇرۇقلۇق"
+                ],
+                "Kazakh": [
+                    "құрлық"
+                ],
+                "Kyrgyz": [
+                    "кургактык"
+                ],
+                "Karakalpak": [
+                    "qurlıq"
+                ],
+                "Tatar": [
+                    "коры җир"
+                ],
+                "Bashkir": [
+                    "ҡоро ер",
+                    "ҡоро ер киңлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "materik"
+                ],
+                "Turkmen": [
+                    "materik"
+                ],
+                "Uzbek": [
+                    "materik"
+                ],
+                "Kazakh": [
+                    "материк"
+                ],
+                "Kyrgyz": [
+                    "материк"
+                ],
+                "Karakalpak": [
+                    "materik"
+                ],
+                "Tatar": [
+                    "материк"
+                ],
+                "Bashkir": [
+                    "материк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeryüzü"
+                ],
+                "Uzbek": [
+                    "yer"
+                ],
+                "Kazakh": [
+                    "жер"
+                ],
+                "Kyrgyz": [
+                    "жер"
+                ],
+                "Karakalpak": [
+                    "jer"
+                ],
+                "Tatar": [
+                    "җирлек"
+                ],
+                "Bashkir": [
+                    "ер майҙаны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara parçası",
+                    "kıta"
+                ],
+                "Uzbek": [
+                    "qit'a"
+                ],
+                "Tatar": [
+                    "кыйтга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "torpaq sahəsi"
+                ],
+                "Turkmen": [
+                    "toprak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anakara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "quru sahəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kontinent"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ قۇرۇقلۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زېمىن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аймақ"
+                ]
+            }
+        }
+    ]
+}

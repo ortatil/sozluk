@@ -1,0 +1,145 @@
+# Water development
+| Field | Detail |
+|---|---|
+| **ID** | i40391 |
+| **English** | water development |
+| **Type** | noun |
+| **Definition** | making an area of water more useful |
+| **Source** | common |
+| **Ortatil** | suolandırıo |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| суландыру | sulandıru |
+
+```json
+{
+    "id": "i40391",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water development",
+    "en_definition": "making an area of water more useful",
+    "tr_word": "su kaynaklarının geliştirilmesi",
+    "tr_definition": "bir su alanının veya kaynağının daha yararlı hale getirilmesi süreci",
+    "ru_word": "водное строительство",
+    "ru_definition": "процесс повышения полезности водных ресурсов или территорий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su ıslahı",
+                    "su geliştirme",
+                    "su kaynaklarını değerlendirme",
+                    "su tanzimi"
+                ],
+                "Azerbaijani": [
+                    "su təsərrüfatı",
+                    "su ehtiyatlarının inkişafı",
+                    "su obyektlərinin abadlaşdırılması",
+                    "su idarəçiliyi"
+                ],
+                "Turkmen": [
+                    "suw hojalygy",
+                    "suw desgalarynyň gurluşygy",
+                    "suw serişdelerini özleşdirmek"
+                ],
+                "Uzbek": [
+                    "suv xo'jaligi",
+                    "suv inshootlari qurilishi",
+                    "suv resurslarini rivojlantirish"
+                ],
+                "Uyghur": [
+                    "سۇ ئىنشائاتى",
+                    "سۇ مەنبەلىرىنى ئېچىش"
+                ],
+                "Kazakh": [
+                    "су шаруашылығы"
+                ],
+                "Kyrgyz": [
+                    "суу чарбасы"
+                ],
+                "Karakalpak": [
+                    "suo xojalıǵın raoajlandırıo",
+                    "suo resursların iyeleo"
+                ],
+                "Tatar": [
+                    "су хуҗалыгы",
+                    "су ресурсларын файдалану"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwaryş ulgamy"
+                ],
+                "Uzbek": [
+                    "suvni o'zlashtirish"
+                ],
+                "Karakalpak": [
+                    "suolandırıo",
+                    "suodan paydalanıo"
+                ],
+                "Tatar": [
+                    "суларны үзләштерү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇچىلىق قۇرۇلۇشى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "суландыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "суды игеру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "суды пайдалану"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сууну өздөштүрүү",
+                    "сууну пайдалануу",
+                    "сууну иштетүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу хужалығы",
+                    "һыуҙы үҙләштереү",
+                    "һыу объекттарын төҙөкләндереү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,113 @@
+{
+    "id": "i44576",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "roadkill",
+    "en_definition": "the dead body of an animal that has been killed on a road by a vehicle",
+    "tr_word": "ezilmiş hayvan leşi",
+    "tr_definition": "yolda bir taşıt tarafından çarpılarak öldürülmüş hayvan ölüsü",
+    "ru_word": "сбитое животное",
+    "ru_definition": "животное, погибшее на дороге в результате столкновения с транспортным средством",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yol leşi"
+                ],
+                "Azerbaijani": [
+                    "yol leşi",
+                    "yol qurbanı"
+                ],
+                "Turkmen": [
+                    "ýol maslygy"
+                ],
+                "Uzbek": [
+                    "yoʻl oʻljasi",
+                    "yoʻlda oʻlgan hayvon"
+                ],
+                "Uyghur": [
+                    "يولدا ئۆلگەن ھايۋان",
+                    "يولدىكى ھايۋان جەسىتى"
+                ],
+                "Kazakh": [
+                    "жол өлексесі",
+                    "жолда өлген аң"
+                ],
+                "Kyrgyz": [
+                    "жолдо өлгөн айбан",
+                    "жолдо калган өлүк"
+                ],
+                "Karakalpak": [
+                    "jolda ólgen hayuan",
+                    "jol óligi"
+                ],
+                "Tatar": [
+                    "юл үләксе",
+                    "юлда тапталган хайван",
+                    "юл корбаны"
+                ],
+                "Bashkir": [
+                    "юлда һәләк булған хайуан",
+                    "юлда үлгән хайуан",
+                    "юл үләксеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bosib ketilgan hayvon"
+                ],
+                "Kyrgyz": [
+                    "бастырылган айбан"
+                ],
+                "Karakalpak": [
+                    "basıp ketken hayuan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ezilmiş hayvan"
+                ],
+                "Azerbaijani": [
+                    "əzilmiş heyvan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýolda ölen haýwan"
+                ],
+                "Uyghur": [
+                    "ماشىنا سوقۇۋەتكەن ھايۋان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hayvan ölüsü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ulag uran haýwan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік соққан хайуан"
+                ]
+            }
+        }
+    ]
+}

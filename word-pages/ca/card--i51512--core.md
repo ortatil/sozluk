@@ -1,0 +1,160 @@
+# Card
+| Field | Detail |
+|---|---|
+| **ID** | i51512 |
+| **English** | card |
+| **Type** | noun |
+| **Definition** | one of a set of small pieces of stiff paper marked in various ways and used for playing games or for telling fortunes |
+| **Source** | core |
+| **Ortatil** | kart |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kart** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قارتا | qarta |
+| كوزير | kozyr |
+| **Kazakh** | |
+| карта | karta |
+| **Kyrgyz** | |
+| карта | karta |
+| **Tatar** | |
+| кәрт | kärt |
+| **Bashkir** | |
+| кәрт | kärt |
+
+```json
+{
+    "id": "i51512",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "card",
+    "en_definition": "one of a set of small pieces of stiff paper marked in various ways and used for playing games or for telling fortunes",
+    "tr_word": "iskambil kağıdı",
+    "tr_definition": "oyun oynamak veya fal bakmak için kullanılan, üzerinde çeşitli işaretler bulunan sert kâğıt parçalarından her biri",
+    "ru_word": "карта",
+    "ru_definition": "один из листов набора плотной бумаги с определенными изображениями, используемый для игр или гадания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kart"
+                ],
+                "Azerbaijani": [
+                    "kart"
+                ],
+                "Turkmen": [
+                    "kart"
+                ],
+                "Uzbek": [
+                    "qarta"
+                ],
+                "Uyghur": [
+                    "قارتا"
+                ],
+                "Kazakh": [
+                    "карта"
+                ],
+                "Kyrgyz": [
+                    "карта"
+                ],
+                "Karakalpak": [
+                    "karta"
+                ],
+                "Tatar": [
+                    "кәрт"
+                ],
+                "Bashkir": [
+                    "кәрт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "oyun kartı"
+                ],
+                "Turkmen": [
+                    "oýun kartasy"
+                ],
+                "Uzbek": [
+                    "oʻyin qartasi"
+                ],
+                "Kazakh": [
+                    "ойын картасы"
+                ],
+                "Kyrgyz": [
+                    "оюн картасы"
+                ],
+                "Karakalpak": [
+                    "oyın kartası"
+                ],
+                "Tatar": [
+                    "уен кәртләре"
+                ],
+                "Bashkir": [
+                    "уйын кәрттәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iskambil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kağıt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vərəq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kartoçka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كوزير"
+                ]
+            }
+        }
+    ]
+}
+```
+

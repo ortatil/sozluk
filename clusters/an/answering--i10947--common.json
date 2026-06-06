@@ -1,0 +1,101 @@
+{
+    "id": "i10947",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "answering",
+    "en_definition": "replying",
+    "tr_word": "cevap veren",
+    "tr_definition": "bir soruya veya duruma yanıt niteliğinde olan",
+    "ru_word": "отвечающий",
+    "ru_definition": "содержащий ответ или являющийся реакцией на что-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cevaplayan"
+                ],
+                "Azerbaijani": [
+                    "cavabverən",
+                    "cavablayıcı"
+                ],
+                "Turkmen": [
+                    "jogaplaýjy"
+                ],
+                "Uzbek": [
+                    "javob beruvchi",
+                    "javobiy"
+                ],
+                "Uyghur": [
+                    "جاۋاب بېرىدىغان",
+                    "جاۋاب قايتۇرىدىغان"
+                ],
+                "Kazakh": [
+                    "жауапты",
+                    "жауап беруші"
+                ],
+                "Tatar": [
+                    "җавап бирүче",
+                    "җаваплы"
+                ],
+                "Bashkir": [
+                    "яуап биреүсе",
+                    "яуаплы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jogap beriji"
+                ],
+                "Kyrgyz": [
+                    "жооп берүүчү"
+                ],
+                "Karakalpak": [
+                    "juoap berioshi",
+                    "juoap qaytarıoshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қайтарма"
+                ],
+                "Kyrgyz": [
+                    "кайтаруучу"
+                ],
+                "Tatar": [
+                    "кайтарма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karşılık veren"
+                ],
+                "Azerbaijani": [
+                    "qarşılıqverən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yanıtlayan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жооптуу"
+                ]
+            }
+        }
+    ]
+}

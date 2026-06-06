@@ -1,0 +1,102 @@
+{
+    "id": "i79833",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "art department",
+    "en_definition": "the academic department responsible for teaching art and art appreciation",
+    "tr_word": "sanat bölümü",
+    "tr_definition": "sanat ve sanat takdiri öğretiminden sorumlu akademik bölüm",
+    "ru_word": "художественный факультет",
+    "ru_definition": "академическое подразделение, отвечающее за преподавание искусства и искусствоведения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanat bölümü",
+                    "sanat kürsüsü"
+                ],
+                "Turkmen": [
+                    "sungat bölümi",
+                    "sungat kafedrasy"
+                ],
+                "Uzbek": [
+                    "san'at bo'limi",
+                    "san'at kafedrasi",
+                    "san'atshunoslik bo'limi"
+                ],
+                "Uyghur": [
+                    "سەنئەت فاكۇلتېتى",
+                    "سەنئەت بۆلۈمى"
+                ],
+                "Tatar": [
+                    "сәнгать бүлеге",
+                    "сәнгать кафедрасы",
+                    "сәнгать факультеты"
+                ],
+                "Bashkir": [
+                    "сәнғәт бүлеге",
+                    "сәнғәт кафедраһы",
+                    "сәнғәт факультеты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güzel sanatlar bölümü"
+                ],
+                "Uyghur": [
+                    "گۈزەل سەنئەت فاكۇلتېتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өнер кафедрасы",
+                    "өнер бөлімі",
+                    "өнер факультеті"
+                ],
+                "Karakalpak": [
+                    "sáulet hám óner bólimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көркөм өнөр бөлүмү",
+                    "көркөм өнөр кафедрасы"
+                ],
+                "Karakalpak": [
+                    "kórkemóner bólimi",
+                    "kórkemóner kafedrası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "incəsənət şöbəsi",
+                    "incəsənət kafedrası",
+                    "incəsənət bölməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tasviriy san'at bo'limi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "искусство бөлүмү"
+                ]
+            }
+        }
+    ]
+}

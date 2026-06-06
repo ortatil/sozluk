@@ -1,0 +1,188 @@
+# Thundershower
+| Field | Detail |
+|---|---|
+| **ID** | i98038 |
+| **English** | thundershower |
+| **Type** | noun |
+| **Definition** | a short rainstorm accompanied by thunder and lightning |
+| **Source** | common |
+| **Ortatil** | mamaqaldiraq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| нөсер | nöser |
+| **Tatar** | |
+| яшен | yaşen |
+
+```json
+{
+    "id": "i98038",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "thundershower",
+    "en_definition": "a short rainstorm accompanied by thunder and lightning",
+    "tr_word": "gök gürültülü sağanak",
+    "tr_definition": "gök gürültüsü ve şimşek eşliğinde gerçekleşen kısa süreli şiddetli yağmur",
+    "ru_word": "грозовой ливень",
+    "ru_definition": "кратковременный сильный дождь, сопровождающийся громом и молнией",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chaqmoqli yomg'ir"
+                ],
+                "Uyghur": [
+                    "چاقماقلىق يامغۇر"
+                ],
+                "Kyrgyz": [
+                    "чагылгандуу жаан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "күн күркүрөгөн жаан",
+                    "күн күркүрөгөн нөшөр"
+                ],
+                "Tatar": [
+                    "күк күкрәүле яңгыр",
+                    "күк күкрәү"
+                ],
+                "Bashkir": [
+                    "күк күкрәүле ямғыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gök gürültülü sağanak",
+                    "sağanak yağış"
+                ],
+                "Turkmen": [
+                    "gök gürleýişli ýagyş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ildırımlı yağış"
+                ],
+                "Turkmen": [
+                    "ýyldyrymly ýagyş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "найзағайлы жаңбыр"
+                ],
+                "Karakalpak": [
+                    "nayzaǵaylı jauın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күркіреген жауын"
+                ],
+                "Karakalpak": [
+                    "kúrkіregen jauın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нөсер"
+                ],
+                "Karakalpak": [
+                    "nóser"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яшенле яңгыр",
+                    "яшен"
+                ],
+                "Bashkir": [
+                    "йәшенле ямғыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fırtına"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şimşəkli yağış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "leysan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gök gürlemesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "momaqaldiroqli yomg'ir",
+                    "momaqaldiroq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jalasimon yomg'ir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۈلدۈرمامىلىق يامغۇر",
+                    "تېز يامغۇر"
+                ]
+            }
+        }
+    ]
+}
+```
+

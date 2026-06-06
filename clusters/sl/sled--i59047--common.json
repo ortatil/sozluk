@@ -1,0 +1,90 @@
+{
+    "id": "i59047",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sled",
+    "en_definition": "a vehicle mounted on runners and pulled by horses or dogs; for transportation over snow",
+    "tr_word": "kızak",
+    "tr_definition": "Kar veya buz üzerinde kayarak yol alan, at veya köpekler tarafından çekilen tekerleksiz taşıt.",
+    "ru_word": "сани",
+    "ru_definition": "Повозка на полозьях, обычно запрягаемая лошадьми или собаками, для передвижения по снегу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çana",
+                    "çanak"
+                ],
+                "Uzbek": [
+                    "chana"
+                ],
+                "Uyghur": [
+                    "چانىغا",
+                    "چانا"
+                ],
+                "Kazakh": [
+                    "шана"
+                ],
+                "Kyrgyz": [
+                    "чана",
+                    "чанагы"
+                ],
+                "Karakalpak": [
+                    "shana",
+                    "shanaq"
+                ],
+                "Tatar": [
+                    "чана"
+                ],
+                "Bashkir": [
+                    "сана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "арба"
+                ],
+                "Tatar": [
+                    "арба"
+                ],
+                "Bashkir": [
+                    "арба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kızak",
+                    "kayak",
+                    "kızak arabası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kirşə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xizək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toyloq"
+                ]
+            }
+        }
+    ]
+}

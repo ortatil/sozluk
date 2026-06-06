@@ -1,0 +1,95 @@
+{
+    "id": "i66221",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sole",
+    "en_definition": "the underside of the foot",
+    "tr_word": "taban",
+    "tr_definition": "ayağın alt kısmı",
+    "ru_word": "подошва",
+    "ru_definition": "нижняя часть стопы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taban"
+                ],
+                "Azerbaijani": [
+                    "daban"
+                ],
+                "Turkmen": [
+                    "dabany",
+                    "daban"
+                ],
+                "Uzbek": [
+                    "tovon"
+                ],
+                "Uyghur": [
+                    "تاپان"
+                ],
+                "Kazakh": [
+                    "табан",
+                    "табан асты"
+                ],
+                "Kyrgyz": [
+                    "таман"
+                ],
+                "Karakalpak": [
+                    "taban",
+                    "taban astı"
+                ],
+                "Tatar": [
+                    "табан"
+                ],
+                "Bashkir": [
+                    "табан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayak tabanı"
+                ],
+                "Azerbaijani": [
+                    "ayaqaltı"
+                ],
+                "Uzbek": [
+                    "oyoq kafti"
+                ],
+                "Tatar": [
+                    "аяк табаны"
+                ],
+                "Bashkir": [
+                    "аяҡ табаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت تاپىنى"
+                ],
+                "Kyrgyz": [
+                    "буттун таманы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pəncə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kaft"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "i61730",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bloodstain",
+    "en_definition": "a discoloration caused by blood",
+    "tr_word": "kan lekesi",
+    "tr_definition": "kanın neden olduğu renk bozulması veya iz",
+    "ru_word": "кровавое пятно",
+    "ru_definition": "пятно, оставленное кровью на какой-либо поверхности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kan lekesi"
+                ],
+                "Azerbaijani": [
+                    "qan ləkəsi",
+                    "qan izi"
+                ],
+                "Turkmen": [
+                    "gan tegmili",
+                    "gan yzy",
+                    "gan dagi"
+                ],
+                "Uzbek": [
+                    "qon dog'i",
+                    "qon izi",
+                    "qonli dog'"
+                ],
+                "Uyghur": [
+                    "قان داغ",
+                    "قان ئىزى",
+                    "قان داغلىرى"
+                ],
+                "Kazakh": [
+                    "қан дағы",
+                    "қан ізі",
+                    "қан жұғыны"
+                ],
+                "Kyrgyz": [
+                    "кандын тагы",
+                    "кан тагы",
+                    "кандын изи"
+                ],
+                "Karakalpak": [
+                    "qan daǵı",
+                    "qan іzі"
+                ],
+                "Tatar": [
+                    "кан табы",
+                    "кан эзе",
+                    "канлы тап"
+                ],
+                "Bashkir": [
+                    "ҡан табы",
+                    "ҡан эҙе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kan izi"
+                ]
+            }
+        }
+    ]
+}

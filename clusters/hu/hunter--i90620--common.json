@@ -1,0 +1,114 @@
+{
+    "id": "i90620",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hunter",
+    "en_definition": "someone who hunts game",
+    "tr_word": "avcı",
+    "tr_definition": "avlanan kimse, av işini yapan kişi",
+    "ru_word": "охотник",
+    "ru_definition": "человек, который занимается охотой на диких животных",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "avcı"
+                ],
+                "Azerbaijani": [
+                    "ovçu"
+                ],
+                "Turkmen": [
+                    "awçy"
+                ],
+                "Uzbek": [
+                    "ovchi"
+                ],
+                "Uyghur": [
+                    "ئوۋچى"
+                ],
+                "Kyrgyz": [
+                    "аңчы"
+                ],
+                "Tatar": [
+                    "аучы"
+                ],
+                "Bashkir": [
+                    "аусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sayyad"
+                ],
+                "Azerbaijani": [
+                    "sayyad"
+                ],
+                "Turkmen": [
+                    "sayat"
+                ],
+                "Uzbek": [
+                    "sayyod"
+                ],
+                "Uyghur": [
+                    "سەييات"
+                ],
+                "Kazakh": [
+                    "саятшы"
+                ],
+                "Karakalpak": [
+                    "sayatshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mergen"
+                ],
+                "Uyghur": [
+                    "مەرگەن"
+                ],
+                "Kazakh": [
+                    "мерген"
+                ],
+                "Kyrgyz": [
+                    "мерген",
+                    "мергенчи"
+                ],
+                "Karakalpak": [
+                    "mergen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аңшы"
+                ],
+                "Karakalpak": [
+                    "ańshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аучылык итүче",
+                    "аучы-сәйяд"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һунарсы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "id": "i64216",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "freedom of the press",
+    "en_definition": "a right guaranteed by the First Amendment to the US Constitution",
+    "tr_word": "basın özgürlüğü",
+    "tr_definition": "Haber, fikir ve düşünceleri, çoğaltıcı araçlarla serbestçe açıklayabilme hakkı.",
+    "ru_word": "свобода печати",
+    "ru_definition": "Право беспрепятственно издавать и распространять печатные материалы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mətbuat azadlığı",
+                    "mətbuat hürriyyəti"
+                ],
+                "Turkmen": [
+                    "metbugat azatlygy",
+                    "metbugat erkinligi"
+                ],
+                "Uzbek": [
+                    "matbuot erkinligi",
+                    "matbuot hurligi"
+                ],
+                "Uyghur": [
+                    "مەتپۇئات ئەركىنلىكى",
+                    "مەتپۇئات ھۆرلۈكى"
+                ],
+                "Kyrgyz": [
+                    "матбуат эркиндиги"
+                ],
+                "Karakalpak": [
+                    "matbuat erkinligi"
+                ],
+                "Tatar": [
+                    "матбугат иреге",
+                    "матбугат хөррияте",
+                    "матбугат иреклеге"
+                ],
+                "Bashkir": [
+                    "матбуғат иреге",
+                    "матбуғат азатлығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basın hürriyeti",
+                    "basın özgürlüğü"
+                ],
+                "Kazakh": [
+                    "баспасөз бостандығы",
+                    "баспасөз еркіндігі"
+                ],
+                "Kyrgyz": [
+                    "басма сөз эркиндиги"
+                ],
+                "Karakalpak": [
+                    "baspa sóz erkinligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەشرىيات ئەركىنلىكى"
+                ]
+            }
+        }
+    ]
+}

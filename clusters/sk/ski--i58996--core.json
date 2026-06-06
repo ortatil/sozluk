@@ -1,0 +1,73 @@
+{
+    "id": "i58996",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "ski",
+    "en_definition": "narrow wood or metal or plastic runners used in pairs for gliding over snow",
+    "tr_word": "kayak",
+    "tr_definition": "Kar üzerinde kaymak için kullanılan, tahta, metal veya plastikten yapılmış uzun ve dar araç.",
+    "ru_word": "лыжа",
+    "ru_definition": "Длинные плоские деревянные или пластиковые планки для передвижения по снегу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "changʻi"
+                ],
+                "Kazakh": [
+                    "шаңғы"
+                ],
+                "Karakalpak": [
+                    "shańǵı"
+                ],
+                "Tatar": [
+                    "чаңгы"
+                ],
+                "Bashkir": [
+                    "саңғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qar xizəyi"
+                ],
+                "Uyghur": [
+                    "قار چانىسى",
+                    "قار تېيىلىش تاختىسى"
+                ],
+                "Kyrgyz": [
+                    "кар таягы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lyža",
+                    "lyžalar"
+                ],
+                "Kyrgyz": [
+                    "лыжа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xizək"
+                ]
+            }
+        }
+    ]
+}

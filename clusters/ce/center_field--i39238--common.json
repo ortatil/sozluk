@@ -1,0 +1,93 @@
+{
+    "id": "i39238",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "center field",
+    "en_definition": "the fielding position of the player on a baseball team who is expected to field balls in the central third of the outfield",
+    "tr_word": "orta dış alan",
+    "tr_definition": "Beyzbol takımında, dış alanın orta üçte birlik kısmına gelen topları karşılamakla görevli oyuncunun mevkisi.",
+    "ru_word": "центр-филд",
+    "ru_definition": "Позиция игрока в бейсболе, ответственного за оборону в центральной части внешнего поля (аутфилда).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orta alan",
+                    "orta dış saha"
+                ],
+                "Azerbaijani": [
+                    "orta meydan"
+                ],
+                "Turkmen": [
+                    "orta meýdan"
+                ],
+                "Uzbek": [
+                    "oʻrta maydon"
+                ],
+                "Kazakh": [
+                    "орталық алаң",
+                    "орталық шеп"
+                ],
+                "Kyrgyz": [
+                    "ортоңку талаа"
+                ],
+                "Karakalpak": [
+                    "ortalıq alań",
+                    "ortalıq shep"
+                ],
+                "Tatar": [
+                    "урта кыр"
+                ],
+                "Bashkir": [
+                    "урта майҙан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "merkez saha"
+                ],
+                "Azerbaijani": [
+                    "mərkəz sahə",
+                    "mərkəzi mövqe"
+                ],
+                "Turkmen": [
+                    "merkez meýdançasy"
+                ],
+                "Uzbek": [
+                    "markaziy maydon"
+                ],
+                "Uyghur": [
+                    "مەركىزىي مەيدان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзәк кыр"
+                ],
+                "Bashkir": [
+                    "үҙәк майҙан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرا مەيدان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борбордук аянт"
+                ]
+            }
+        }
+    ]
+}

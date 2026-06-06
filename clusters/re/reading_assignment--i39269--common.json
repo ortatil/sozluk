@@ -1,0 +1,91 @@
+{
+    "id": "i39269",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "reading assignment",
+    "en_definition": "the reading of a passage assigned by the teacher",
+    "tr_word": "okuma ödevi",
+    "tr_definition": "öğretmen tarafından verilen bir metni okuma görevi",
+    "ru_word": "задание по чтению",
+    "ru_definition": "чтение отрывка текста, назначенное учителем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "okuma ödevi",
+                    "okuma parçası",
+                    "okuma metni"
+                ],
+                "Azerbaijani": [
+                    "oxu tapşırığı",
+                    "oxu dərsi"
+                ],
+                "Turkmen": [
+                    "okaýyş ýumşy",
+                    "okamak tabşyrygy",
+                    "okaýyş wezipesi"
+                ],
+                "Uyghur": [
+                    "ئوقۇش ۋەزىپىسى",
+                    "ئوقۇش تاپشۇرۇقى"
+                ],
+                "Kazakh": [
+                    "оқу тапсырмасы",
+                    "оқуға берілген тапсырма"
+                ],
+                "Kyrgyz": [
+                    "окуу тапшырмасы",
+                    "окуу сабагы",
+                    "окуу иши"
+                ],
+                "Karakalpak": [
+                    "oqıo tapsırması",
+                    "oqıo oazıypası"
+                ],
+                "Tatar": [
+                    "уку биреме",
+                    "уку йөкләмәсе",
+                    "уку дәресе"
+                ],
+                "Bashkir": [
+                    "уҡыу бурысы",
+                    "уҡыу йөкләмәһе",
+                    "уҡыу бурыснамәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mütaliə tapşırığı"
+                ],
+                "Uzbek": [
+                    "mutolaa topshirigʻi"
+                ],
+                "Uyghur": [
+                    "مۇتالىئە ۋەزىپىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мәтінді оқу тапсырмасы"
+                ],
+                "Karakalpak": [
+                    "oqıoǵa berilgen tapsırma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻqish vazifasi",
+                    "oʻqish topshirigʻi"
+                ]
+            }
+        }
+    ]
+}

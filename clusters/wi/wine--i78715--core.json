@@ -1,0 +1,114 @@
+{
+    "id": "i78715",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "wine",
+    "en_definition": "fermented juice (of grapes especially)",
+    "tr_word": "şarap",
+    "tr_definition": "Genellikle üzüm suyunun fermente edilmesiyle elde edilen alkollü içecek.",
+    "ru_word": "вино",
+    "ru_definition": "Алкогольный напиток, получаемый путем ферментации виноградного сока.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şarap"
+                ],
+                "Azerbaijani": [
+                    "şərab"
+                ],
+                "Turkmen": [
+                    "şerap"
+                ],
+                "Uzbek": [
+                    "sharob"
+                ],
+                "Uyghur": [
+                    "شاراپ"
+                ],
+                "Kazakh": [
+                    "шарап"
+                ],
+                "Kyrgyz": [
+                    "шарап"
+                ],
+                "Karakalpak": [
+                    "sháráp"
+                ],
+                "Tatar": [
+                    "шәраб"
+                ],
+                "Bashkir": [
+                    "шәрәп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mey"
+                ],
+                "Azerbaijani": [
+                    "mey"
+                ],
+                "Turkmen": [
+                    "mey"
+                ],
+                "Uzbek": [
+                    "may"
+                ],
+                "Uyghur": [
+                    "مەي"
+                ],
+                "Kazakh": [
+                    "мәй"
+                ],
+                "Kyrgyz": [
+                    "мөй"
+                ],
+                "Karakalpak": [
+                    "máy"
+                ],
+                "Tatar": [
+                    "мәй"
+                ],
+                "Bashkir": [
+                    "мәй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bade"
+                ],
+                "Azerbaijani": [
+                    "bədə"
+                ],
+                "Uzbek": [
+                    "boda"
+                ],
+                "Uyghur": [
+                    "بادە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "musallas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәмер"
+                ]
+            }
+        }
+    ]
+}

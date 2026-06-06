@@ -1,0 +1,101 @@
+{
+    "id": "i87509",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "protestant",
+    "en_definition": "an adherent of Protestantism",
+    "tr_word": "protestan",
+    "tr_definition": "Protestanlık mezhebine bağlı olan kimse",
+    "ru_word": "протестант",
+    "ru_definition": "последователь протестантизма, одного из направлений христианства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Protestan"
+                ],
+                "Azerbaijani": [
+                    "protestant"
+                ],
+                "Turkmen": [
+                    "protestant",
+                    "protestantçy"
+                ],
+                "Uzbek": [
+                    "protestant",
+                    "protestantlik tarafdori"
+                ],
+                "Uyghur": [
+                    "پروتېستانت",
+                    "پروتېستانت مۇرىتى"
+                ],
+                "Kazakh": [
+                    "протестант",
+                    "протестантшы"
+                ],
+                "Kyrgyz": [
+                    "протестант",
+                    "протестантчы"
+                ],
+                "Karakalpak": [
+                    "protestant"
+                ],
+                "Tatar": [
+                    "протестант"
+                ],
+                "Bashkir": [
+                    "протестант"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İncilci"
+                ],
+                "Azerbaijani": [
+                    "incilçi"
+                ],
+                "Tatar": [
+                    "инҗилче"
+                ],
+                "Bashkir": [
+                    "инжилсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "islahatçı"
+                ],
+                "Uzbek": [
+                    "islohotchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Reformcu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "másixiy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "xristian"
+                ]
+            }
+        }
+    ]
+}

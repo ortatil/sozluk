@@ -1,0 +1,142 @@
+{
+    "id": "i109095",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "singleton",
+    "en_definition": "a single object (as distinguished from a pair)",
+    "tr_word": "tekil",
+    "tr_definition": "bir çift veya gruptan ayrı olarak tek başına bulunan nesne",
+    "ru_word": "синглтон",
+    "ru_definition": "единственный объект в своём роде (в отличие от пары или группы)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýalňyz"
+                ],
+                "Uzbek": [
+                    "yolg'iz"
+                ],
+                "Uyghur": [
+                    "يالغۇز"
+                ],
+                "Kazakh": [
+                    "жалқы",
+                    "жалғыз"
+                ],
+                "Kyrgyz": [
+                    "жалгыз",
+                    "жалкы"
+                ],
+                "Karakalpak": [
+                    "jalǵız",
+                    "jalqı"
+                ],
+                "Tatar": [
+                    "ялгыз"
+                ],
+                "Bashkir": [
+                    "яңғыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yegane"
+                ],
+                "Azerbaijani": [
+                    "yeganə"
+                ],
+                "Turkmen": [
+                    "ýeke",
+                    "ýekelik"
+                ],
+                "Uzbek": [
+                    "yagona",
+                    "yakka"
+                ],
+                "Uyghur": [
+                    "يەككە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bitewi"
+                ],
+                "Kyrgyz": [
+                    "бирөө"
+                ],
+                "Karakalpak": [
+                    "birlik"
+                ],
+                "Tatar": [
+                    "берәмлек",
+                    "бердәнбер"
+                ],
+                "Bashkir": [
+                    "берәү",
+                    "бер берәмек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekil",
+                    "tek"
+                ],
+                "Azerbaijani": [
+                    "tək"
+                ],
+                "Uyghur": [
+                    "تەك"
+                ],
+                "Kyrgyz": [
+                    "так"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "münferit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vahid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tanho"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сыңар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dara"
+                ]
+            }
+        }
+    ]
+}

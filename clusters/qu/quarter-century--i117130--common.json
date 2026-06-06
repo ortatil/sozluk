@@ -1,0 +1,80 @@
+{
+    "id": "i117130",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "quarter-century",
+    "en_definition": "a period of 25 years",
+    "tr_word": "çeyrek asır",
+    "tr_definition": "yirmi beş yıllık bir zaman dilimi",
+    "ru_word": "четверть века",
+    "ru_definition": "период времени продолжительностью в двадцать пять лет",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çeyrek asır",
+                    "çeyrek yüzyıl"
+                ],
+                "Turkmen": [
+                    "çärýek asyr",
+                    "ýigrimi bäş ýyl"
+                ],
+                "Uzbek": [
+                    "chorak asr",
+                    "yigirma besh yillik"
+                ],
+                "Uyghur": [
+                    "چارەك ئەسىر",
+                    "يىگىرمە بەش يىل"
+                ],
+                "Kyrgyz": [
+                    "чейрек кылым",
+                    "жыйырма беш жылдык"
+                ],
+                "Karakalpak": [
+                    "jigirma bes jıllıq"
+                ],
+                "Tatar": [
+                    "чирек гасыр",
+                    "егерме биш еллык"
+                ],
+                "Bashkir": [
+                    "сирек быуат",
+                    "егерме биш йыллыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yirmi beş yıl"
+                ],
+                "Azerbaijani": [
+                    "iyirmi beş illik"
+                ],
+                "Kazakh": [
+                    "жиырма бес жылдық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ширек ғасыр"
+                ],
+                "Karakalpak": [
+                    "shirek ásir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rüb əsr"
+                ]
+            }
+        }
+    ]
+}

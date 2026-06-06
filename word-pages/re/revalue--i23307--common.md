@@ -1,0 +1,141 @@
+# Revalue
+| Field | Detail |
+|---|---|
+| **ID** | i23307 |
+| **English** | revalue |
+| **Type** | verb |
+| **Definition** | value anew |
+| **Source** | common |
+| **Ortatil** | däyärländirmäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i23307",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "revalue",
+    "en_definition": "value anew",
+    "tr_word": "yeniden değer biçmek",
+    "tr_definition": "bir şeyin değerini yeni bir bakış açısıyla veya güncel koşullara göre tekrar belirlemek",
+    "ru_word": "переоценивать",
+    "ru_definition": "производить переоценку, определять стоимость заново",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qiymətini artırmaq"
+                ],
+                "Turkmen": [
+                    "gymmatyny täzeden kesgitlemek"
+                ],
+                "Uyghur": [
+                    "قايتا قىممەت بېكىتىش"
+                ],
+                "Kazakh": [
+                    "қайта бағалау",
+                    "қайта құндау",
+                    "қайта баға пішу"
+                ],
+                "Kyrgyz": [
+                    "кайра баалоо"
+                ],
+                "Karakalpak": [
+                    "qayta bahalao",
+                    "qayta qádirleo",
+                    "qayta nırxlao"
+                ],
+                "Tatar": [
+                    "кайта бәяләү"
+                ],
+                "Bashkir": [
+                    "ҡайтанан баһалау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden değerlemek",
+                    "değerini güncellemek",
+                    "yeniden kıymet biçmek"
+                ],
+                "Azerbaijani": [
+                    "yenidən qiymətləndirmək"
+                ],
+                "Turkmen": [
+                    "täzeden baha bermek"
+                ],
+                "Uyghur": [
+                    "يېڭىدىن باھالاش"
+                ],
+                "Tatar": [
+                    "яңадан бәяләү"
+                ],
+                "Bashkir": [
+                    "яңынан баһалау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan baha bermek"
+                ],
+                "Uzbek": [
+                    "qayta baholamoq",
+                    "qayta narxlamoq"
+                ],
+                "Uyghur": [
+                    "قايتا باھالاش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "баасын кайра карап чыгуу"
+                ],
+                "Tatar": [
+                    "бәясен яңарту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəyərləndirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qadrini yangilamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "наркын кайра белгилөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "баһаһын яңыртыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

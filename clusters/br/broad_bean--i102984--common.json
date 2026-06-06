@@ -1,0 +1,102 @@
+{
+    "id": "i102984",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "broad bean",
+    "en_definition": "seed of the broad-bean plant",
+    "tr_word": "bakla",
+    "tr_definition": "Baklagillerden, taze ve kuru olarak yenen, yeşil kabuklu bir bitki ve bu bitkinin taneleri.",
+    "ru_word": "боб",
+    "ru_definition": "Семена зернобобовых культур, употребляемые в пищу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bakla",
+                    "bakla tanesi"
+                ],
+                "Azerbaijani": [
+                    "paxla",
+                    "bağ paxlası"
+                ],
+                "Turkmen": [
+                    "bakla",
+                    "päkli",
+                    "päkli noýba"
+                ],
+                "Uzbek": [
+                    "baqla"
+                ],
+                "Uyghur": [
+                    "باقلا",
+                    "باقلا پۇرچاق"
+                ],
+                "Kazakh": [
+                    "бақша бұршағы"
+                ],
+                "Kyrgyz": [
+                    "бакча буурчагы"
+                ],
+                "Karakalpak": [
+                    "baqla"
+                ],
+                "Tatar": [
+                    "бакча кузагы",
+                    "бакылла"
+                ],
+                "Bashkir": [
+                    "баҡса босағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "атбұршақ"
+                ],
+                "Kyrgyz": [
+                    "ат буурчак"
+                ],
+                "Tatar": [
+                    "ат кузагы"
+                ],
+                "Bashkir": [
+                    "ат босағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бұршақ"
+                ],
+                "Kyrgyz": [
+                    "буурчак"
+                ],
+                "Karakalpak": [
+                    "bórek"
+                ],
+                "Bashkir": [
+                    "босаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mosh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "loviya"
+                ]
+            }
+        }
+    ]
+}

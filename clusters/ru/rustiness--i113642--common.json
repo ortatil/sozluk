@@ -1,0 +1,81 @@
+{
+    "id": "i113642",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rustiness",
+    "en_definition": "the condition of being coated or clogged with rust",
+    "tr_word": "paslılık",
+    "tr_definition": "pasla kaplı veya paslanmış olma durumu",
+    "ru_word": "ржавость",
+    "ru_definition": "состояние покрытия или засорения ржавчиной",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "داتلىشىش",
+                    "داتلاشقانلىق",
+                    "دات"
+                ],
+                "Kazakh": [
+                    "таттану",
+                    "тат басу",
+                    "тат"
+                ],
+                "Kyrgyz": [
+                    "дат",
+                    "дат баскандык",
+                    "даттануу"
+                ],
+                "Karakalpak": [
+                    "tat",
+                    "tat basıoshılıq",
+                    "tatlanıo"
+                ],
+                "Bashkir": [
+                    "татлылыҡ",
+                    "тат баҫыусанлыҡ",
+                    "татланыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "paslılık",
+                    "paslanmışlık",
+                    "pas"
+                ],
+                "Azerbaijani": [
+                    "paslılıq",
+                    "paslanma",
+                    "pas"
+                ],
+                "Turkmen": [
+                    "pos",
+                    "poslama",
+                    "poslylyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zanglaganlik",
+                    "zang",
+                    "zangdorlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тутлану",
+                    "тутлылык",
+                    "тут басу"
+                ]
+            }
+        }
+    ]
+}

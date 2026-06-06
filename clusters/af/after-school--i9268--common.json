@@ -1,0 +1,103 @@
+{
+    "id": "i9268",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "after-school",
+    "en_definition": "outside regular school hours",
+    "tr_word": "okul sonrası",
+    "tr_definition": "normal okul saatlerinin dışında gerçekleşen",
+    "ru_word": "внешкольный",
+    "ru_definition": "происходящий вне обычных школьных часов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məktəbdənkənar"
+                ],
+                "Turkmen": [
+                    "mekdepden soňky"
+                ],
+                "Uzbek": [
+                    "maktabdan tashqari"
+                ],
+                "Uyghur": [
+                    "مەكتەپ سىرتىدىكى"
+                ],
+                "Kazakh": [
+                    "мектептен тыс"
+                ],
+                "Kyrgyz": [
+                    "мектептен тышкары"
+                ],
+                "Karakalpak": [
+                    "mektepten tıs"
+                ],
+                "Tatar": [
+                    "мәктәптән тыш"
+                ],
+                "Bashkir": [
+                    "мәктәптән тыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ders dışı"
+                ],
+                "Azerbaijani": [
+                    "dərsdənkənar",
+                    "dərsdən sonra"
+                ],
+                "Uzbek": [
+                    "darsdan keyingi"
+                ],
+                "Uyghur": [
+                    "دەرس سىرتىدىكى"
+                ],
+                "Tatar": [
+                    "дәрестән тыш"
+                ],
+                "Bashkir": [
+                    "дәрестән тыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сабақтан тыс"
+                ],
+                "Kyrgyz": [
+                    "сабактан тышкары",
+                    "сабактан кийинки"
+                ],
+                "Karakalpak": [
+                    "sabaqtan tıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "okul sonrası",
+                    "okul harici"
+                ],
+                "Turkmen": [
+                    "okuwdan daşary",
+                    "okuwdan soňky"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mashg'ulotdan tashqari"
+                ]
+            }
+        }
+    ]
+}

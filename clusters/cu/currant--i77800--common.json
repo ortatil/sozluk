@@ -1,0 +1,135 @@
+{
+    "id": "i77800",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "currant",
+    "en_definition": "small dried seedless raisin grown in the Mediterranean region and California; used in cooking",
+    "tr_word": "kuş üzümü",
+    "tr_definition": "Akdeniz bölgesi ve Kaliforniya'da yetişen, yemeklerde ve tatlılarda kullanılan küçük, çekirdeksiz kuru üzüm.",
+    "ru_word": "коринка",
+    "ru_definition": "мелкий сушеный изюм без косточек, используемый в кулинарии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qara kişmiş"
+                ],
+                "Turkmen": [
+                    "gara kişmiş"
+                ],
+                "Uzbek": [
+                    "qora mayiz"
+                ],
+                "Uyghur": [
+                    "قارا كىشمىش"
+                ],
+                "Kazakh": [
+                    "қара мейіз"
+                ],
+                "Kyrgyz": [
+                    "кара мейиз"
+                ],
+                "Karakalpak": [
+                    "qara meyiz"
+                ],
+                "Tatar": [
+                    "кара йөзем"
+                ],
+                "Bashkir": [
+                    "ҡара йөҙөм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kişmiş"
+                ],
+                "Turkmen": [
+                    "kişmiş"
+                ],
+                "Uzbek": [
+                    "kishmish"
+                ],
+                "Uyghur": [
+                    "كىشمىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mayiz"
+                ],
+                "Kazakh": [
+                    "мейіз"
+                ],
+                "Kyrgyz": [
+                    "мейиз"
+                ],
+                "Karakalpak": [
+                    "meyiz"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuş üzümü",
+                    "kuru üzüm"
+                ],
+                "Azerbaijani": [
+                    "quşüzümü"
+                ],
+                "Uyghur": [
+                    "قۇرۇق ئۈزۈم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "üzüm"
+                ],
+                "Tatar": [
+                    "йөзем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кептірілген жүзім"
+                ],
+                "Bashkir": [
+                    "кипкән йөҙөм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "майда мейиз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "коры йөзем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәй йөҙөм"
+                ]
+            }
+        }
+    ]
+}

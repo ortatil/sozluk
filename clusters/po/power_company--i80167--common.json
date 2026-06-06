@@ -1,0 +1,111 @@
+{
+    "id": "i80167",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "power company",
+    "en_definition": "a public utility that provides electricity",
+    "tr_word": "elektrik şirketi",
+    "tr_definition": "elektrik enerjisi sağlayan kamu hizmeti kuruluşu",
+    "ru_word": "энергетическая компания",
+    "ru_definition": "предприятие коммунального обслуживания, обеспечивающее подачу электроэнергии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrik idaresi",
+                    "elektrik kurumu",
+                    "elektrik şirketi"
+                ],
+                "Azerbaijani": [
+                    "elektrik şəbəkəsi"
+                ],
+                "Turkmen": [
+                    "elektrik kärhanasy",
+                    "energiýa edarasy",
+                    "elektrik ulgamy"
+                ],
+                "Uzbek": [
+                    "elektr tarmogʻi",
+                    "elektr korxonasi"
+                ],
+                "Uyghur": [
+                    "ئېلېكتر شىركىتى"
+                ],
+                "Kazakh": [
+                    "электр желілері"
+                ],
+                "Kyrgyz": [
+                    "электр тармагы",
+                    "электр ишканасы"
+                ],
+                "Karakalpak": [
+                    "elektr tarmaqları",
+                    "elektr támiyinleoshi"
+                ],
+                "Tatar": [
+                    "электр челтәре",
+                    "электр ширкәте"
+                ],
+                "Bashkir": [
+                    "электр селтәре",
+                    "электр идаралығы",
+                    "электр ойошмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "enerji müəssisəsi"
+                ],
+                "Kazakh": [
+                    "энергия компаниясы"
+                ],
+                "Kyrgyz": [
+                    "энергетикалык ишкана"
+                ],
+                "Tatar": [
+                    "энергия оешмасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "işıq idarəsi"
+                ],
+                "Kazakh": [
+                    "жарық мекемесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quvvat idorasi",
+                    "quvvat taʼminoti"
+                ],
+                "Karakalpak": [
+                    "quat kárxanası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توك شىركىتى",
+                    "توك ئىدارىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қуат мекемесі"
+                ]
+            }
+        }
+    ]
+}

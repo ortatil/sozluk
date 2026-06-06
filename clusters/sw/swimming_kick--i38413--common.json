@@ -1,0 +1,67 @@
+{
+    "id": "i38413",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "swimming kick",
+    "en_definition": "a movement of the legs in swimming",
+    "tr_word": "ayak vuruşu",
+    "tr_definition": "yüzmede bacakların yaptığı itme hareketi",
+    "ru_word": "удар ногами",
+    "ru_definition": "движение ног при плавании",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayak vuruşu",
+                    "ayak darbesi",
+                    "ayak hareketi"
+                ],
+                "Azerbaijani": [
+                    "ayaq zərbəsi",
+                    "ayaq hərəkəti"
+                ],
+                "Turkmen": [
+                    "aýak urşy",
+                    "aýak hereketi"
+                ],
+                "Uzbek": [
+                    "oyoq zarbasi",
+                    "oyoq harakati"
+                ],
+                "Kazakh": [
+                    "аяқ серпу",
+                    "аяқ қимылы",
+                    "аяқ қағу"
+                ],
+                "Karakalpak": [
+                    "ayaq qaǵıs",
+                    "ayaq sermeu",
+                    "ayaq qozǵalısı"
+                ],
+                "Tatar": [
+                    "аяк тибү",
+                    "аяк хәрәкәте"
+                ],
+                "Bashkir": [
+                    "аяҡ тибеү",
+                    "аяҡ хәрәкәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت سىلكىش",
+                    "پۇت تېپىش",
+                    "پۇت ھەرىكىتى"
+                ],
+                "Kyrgyz": [
+                    "бут шилтөө",
+                    "бут кагуу",
+                    "бут кыймылы"
+                ]
+            }
+        }
+    ]
+}

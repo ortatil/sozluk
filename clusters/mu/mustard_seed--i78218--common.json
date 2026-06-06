@@ -1,0 +1,85 @@
+{
+    "id": "i78218",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mustard seed",
+    "en_definition": "black or white seeds ground to make mustard pastes or powders",
+    "tr_word": "hardal tohumu",
+    "tr_definition": "hardal macunu veya tozu yapmak için öğütülen siyah veya beyaz tohumlar",
+    "ru_word": "горчичное зерно",
+    "ru_definition": "черные или белые семена, измельченные для приготовления горчичной пасты или порошка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hardal tohumu",
+                    "hardal tanesi"
+                ],
+                "Azerbaijani": [
+                    "xardal toxumu",
+                    "xardal dənəsi"
+                ],
+                "Turkmen": [
+                    "hardal tohumy"
+                ],
+                "Uzbek": [
+                    "xardal urug'i"
+                ],
+                "Uyghur": [
+                    "خردال ئۇرۇقى"
+                ],
+                "Tatar": [
+                    "хәрдал орлыгы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gorçisa tohumy",
+                    "gorçisa dänesi"
+                ],
+                "Uzbek": [
+                    "gorchitsa urug'i"
+                ],
+                "Uyghur": [
+                    "قورىچاق ئۇرۇقى",
+                    "قورىچاق"
+                ],
+                "Bashkir": [
+                    "горчица орлоғо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қыша дәні",
+                    "қыша тұқымы"
+                ],
+                "Kyrgyz": [
+                    "кычы даны",
+                    "кычы уругу"
+                ],
+                "Karakalpak": [
+                    "qısha dánі",
+                    "qısha tuqımı"
+                ],
+                "Tatar": [
+                    "кычыткан орлыгы",
+                    "кычы орлыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡыуаҡ орлоғо"
+                ]
+            }
+        }
+    ]
+}

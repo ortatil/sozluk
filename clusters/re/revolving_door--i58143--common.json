@@ -1,0 +1,80 @@
+{
+    "id": "i58143",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "revolving door",
+    "en_definition": "a door consisting of four orthogonal partitions that rotate about a central pivot; a door designed to equalize the air pressure in tall buildings",
+    "tr_word": "döner kapı",
+    "tr_definition": "Merkezi bir mil etrafında dönen dört kanattan oluşan ve binalardaki hava basıncını dengelemek için tasarlanan kapı türü.",
+    "ru_word": "вращающаяся дверь",
+    "ru_definition": "Дверь, состоящая из нескольких лопастей, закреплённых на центральном валу и вращающихся вокруг него.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aylanma eshik",
+                    "aylanuvchi eshik"
+                ],
+                "Uyghur": [
+                    "ئايلانما ئىشىك",
+                    "ئايلانما دەرۋازا"
+                ],
+                "Kazakh": [
+                    "айналмалы есік",
+                    "айналма есік"
+                ],
+                "Kyrgyz": [
+                    "айланма эшик",
+                    "айлануучу эшик"
+                ],
+                "Karakalpak": [
+                    "aylanbalı esik",
+                    "aylanba esik"
+                ],
+                "Tatar": [
+                    "әйләнмәле ишек",
+                    "әйләнүче ишек"
+                ],
+                "Bashkir": [
+                    "әйләнмәле ишек",
+                    "әйләнә торған ишек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "döner kapı"
+                ],
+                "Azerbaijani": [
+                    "dönər qapı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fırlanan qapı"
+                ],
+                "Turkmen": [
+                    "aylanýan gapy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "devvar kapı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "perre gapy"
+                ]
+            }
+        }
+    ]
+}

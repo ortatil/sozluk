@@ -1,0 +1,126 @@
+{
+    "id": "i37014",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "journey",
+    "en_definition": "the act of traveling from one place to another",
+    "tr_word": "yolculuk",
+    "tr_definition": "bir yerden başka bir yere gitme eylemi, seyahat",
+    "ru_word": "путешествие",
+    "ru_definition": "процесс передвижения из одного места в другое",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sefer"
+                ],
+                "Azerbaijani": [
+                    "səfər"
+                ],
+                "Turkmen": [
+                    "sapar"
+                ],
+                "Uzbek": [
+                    "safar"
+                ],
+                "Uyghur": [
+                    "سەپەر"
+                ],
+                "Kazakh": [
+                    "сапар"
+                ],
+                "Kyrgyz": [
+                    "сапар"
+                ],
+                "Karakalpak": [
+                    "sapar"
+                ],
+                "Tatar": [
+                    "сәфәр"
+                ],
+                "Bashkir": [
+                    "сәфәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seyahat"
+                ],
+                "Azerbaijani": [
+                    "səyahət"
+                ],
+                "Turkmen": [
+                    "syýahat"
+                ],
+                "Uzbek": [
+                    "sayohat"
+                ],
+                "Uyghur": [
+                    "ساياھەت"
+                ],
+                "Kazakh": [
+                    "саяхат"
+                ],
+                "Kyrgyz": [
+                    "саякат"
+                ],
+                "Tatar": [
+                    "сәяхәт"
+                ],
+                "Bashkir": [
+                    "сәйәхәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýol"
+                ],
+                "Uzbek": [
+                    "yo'l"
+                ],
+                "Uyghur": [
+                    "يول"
+                ],
+                "Kazakh": [
+                    "жол"
+                ],
+                "Kyrgyz": [
+                    "жол"
+                ],
+                "Karakalpak": [
+                    "jol"
+                ],
+                "Tatar": [
+                    "юл"
+                ],
+                "Bashkir": [
+                    "юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yolculuk"
+                ],
+                "Azerbaijani": [
+                    "yolçuluq"
+                ],
+                "Turkmen": [
+                    "ýolçulyk"
+                ],
+                "Karakalpak": [
+                    "jolaoshılıq"
+                ]
+            }
+        }
+    ]
+}

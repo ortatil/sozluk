@@ -1,0 +1,148 @@
+{
+    "id": "i11350",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "otherwise",
+    "en_definition": "other than as supposed or expected",
+    "tr_word": "başka türlü",
+    "tr_definition": "varsayılandan veya beklenenden farklı olan",
+    "ru_word": "иной",
+    "ru_definition": "отличный от предполагаемого или ожидаемого",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başka"
+                ],
+                "Azerbaijani": [
+                    "başqa"
+                ],
+                "Turkmen": [
+                    "başgaça"
+                ],
+                "Uzbek": [
+                    "boshqacha"
+                ],
+                "Uyghur": [
+                    "باشقىچە"
+                ],
+                "Kazakh": [
+                    "басқаша"
+                ],
+                "Kyrgyz": [
+                    "башкача"
+                ],
+                "Karakalpak": [
+                    "basqasha"
+                ],
+                "Tatar": [
+                    "башкача"
+                ],
+                "Bashkir": [
+                    "башҡаса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "özgə"
+                ],
+                "Turkmen": [
+                    "özgeçe"
+                ],
+                "Uzbek": [
+                    "o'zgacha"
+                ],
+                "Uyghur": [
+                    "ئۆزگىچە"
+                ],
+                "Kazakh": [
+                    "өзгеше"
+                ],
+                "Kyrgyz": [
+                    "өзгөчө"
+                ],
+                "Karakalpak": [
+                    "ózgeshe"
+                ],
+                "Tatar": [
+                    "үзгә"
+                ],
+                "Bashkir": [
+                    "үҙгә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бөлекше"
+                ],
+                "Kyrgyz": [
+                    "бөлөкчө"
+                ],
+                "Karakalpak": [
+                    "bólekshe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "farklı"
+                ],
+                "Azerbaijani": [
+                    "fərqli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gayrı"
+                ],
+                "Uyghur": [
+                    "غەيرىي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayrı"
+                ],
+                "Azerbaijani": [
+                    "ayrı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бөтенләй башка"
+                ],
+                "Bashkir": [
+                    "бөтөнләй башҡа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tersine"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aksicha"
+                ]
+            }
+        }
+    ]
+}

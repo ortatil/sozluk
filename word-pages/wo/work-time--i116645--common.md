@@ -1,0 +1,140 @@
+# Work time
+| Field | Detail |
+|---|---|
+| **ID** | i116645 |
+| **English** | work time |
+| **Type** | noun |
+| **Definition** | a time period when you are required to work |
+| **Source** | common |
+| **Ortatil** | mäsai |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i116645",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "work time",
+    "en_definition": "a time period when you are required to work",
+    "tr_word": "çalışma süresi",
+    "tr_definition": "çalışmakla yükümlü olunan zaman dilimi",
+    "ru_word": "рабочее время",
+    "ru_definition": "период времени, в течение которого работник должен исполнять свои трудовые обязанности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iş vakti"
+                ],
+                "Azerbaijani": [
+                    "iş vaxtı",
+                    "iş saatı"
+                ],
+                "Turkmen": [
+                    "iş wagty",
+                    "iş sagady",
+                    "iş döwri"
+                ],
+                "Uzbek": [
+                    "ish vaqti",
+                    "ish soati"
+                ],
+                "Uyghur": [
+                    "ئىش ۋاقتى"
+                ],
+                "Kyrgyz": [
+                    "иш убактысы",
+                    "иш мөөнөтү"
+                ],
+                "Karakalpak": [
+                    "isleo oaqtı"
+                ],
+                "Tatar": [
+                    "эш вакыты",
+                    "эш сәгате"
+                ],
+                "Bashkir": [
+                    "эш ваҡыты",
+                    "эш сәғәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "خىزمەت ۋاقتى"
+                ],
+                "Kazakh": [
+                    "қызмет уақыты"
+                ],
+                "Karakalpak": [
+                    "xızmet oaqtı"
+                ],
+                "Tatar": [
+                    "хезмәт вакыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жұмыс уақыты",
+                    "жұмыс кезі"
+                ],
+                "Kyrgyz": [
+                    "жумуш убактысы"
+                ],
+                "Karakalpak": [
+                    "jumıs oaqtı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mesai",
+                    "mesai saati"
+                ],
+                "Azerbaijani": [
+                    "məsai"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalışma süresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mehnat vaqti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еңбек уақыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "эш осоро"
+                ]
+            }
+        }
+    ]
+}
+```
+

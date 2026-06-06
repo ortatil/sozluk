@@ -1,0 +1,269 @@
+# Spoof
+| Field | Detail |
+|---|---|
+| **ID** | i25887 |
+| **English** | spoof |
+| **Type** | verb |
+| **Definition** | make a parody of |
+| **Source** | common |
+| **Ortatil** | masgaralamaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **masgaralamaq** | **kelekeleımaq** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0 |
+| *Qarluq Subtotal* | 0 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.60 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  |
+| **O'TQ** | **1.83** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| мазақтау | mazaqtau |
+| келемеждеу | kelemejdeu |
+| келекелеу | kelekeleu |
+| әжуалау | äjualau |
+| **Kyrgyz** | |
+| мазактоо | mazaktoo |
+| келекелөө | kelekelöö |
+| тууроо | tuuroo |
+| шылдыңдоо | şıldıñdoo |
+| **Tatar** | |
+| мәсхәрәләү | mäsxäräläü |
+| охшату | oxşatu |
+| **Bashkir** | |
+| мәсхәрәләү | mäsxäräläü |
+| пародиялау | parodiyalau |
+| көлөү | kölöü |
+
+```json
+{
+    "id": "i25887",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "spoof",
+    "en_definition": "make a parody of",
+    "tr_word": "parodisini yapmak",
+    "tr_definition": "bir şeyin gülünç veya alaycı bir taklidini oluşturmak",
+    "ru_word": "пародировать",
+    "ru_definition": "создавать комическое или сатирическое подражание чему-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məsxərəyə qoymaq"
+                ],
+                "Turkmen": [
+                    "masgaralamak"
+                ],
+                "Uzbek": [
+                    "mashara qilmoq"
+                ],
+                "Uyghur": [
+                    "مەسخىرە قىلماق"
+                ],
+                "Kazakh": [
+                    "мазақтау"
+                ],
+                "Kyrgyz": [
+                    "мазактоо"
+                ],
+                "Karakalpak": [
+                    "mazaqlao"
+                ],
+                "Tatar": [
+                    "мәсхәрәләү"
+                ],
+                "Bashkir": [
+                    "мәсхәрәләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taklit etmek"
+                ],
+                "Azerbaijani": [
+                    "təqlid etmək"
+                ],
+                "Uzbek": [
+                    "taqlid qilmoq"
+                ],
+                "Uyghur": [
+                    "تەقلىد قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hicvetmek"
+                ],
+                "Uzbek": [
+                    "hajv qilmoq"
+                ],
+                "Uyghur": [
+                    "ھەجۋىي قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "parodiya etmək"
+                ],
+                "Uzbek": [
+                    "parodiya qilmoq"
+                ],
+                "Bashkir": [
+                    "пародиялау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "келемеждеу",
+                    "келекелеу",
+                    "келеке ету"
+                ],
+                "Kyrgyz": [
+                    "келекелөө"
+                ],
+                "Karakalpak": [
+                    "kelemejleo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көлкегә калдыру"
+                ],
+                "Bashkir": [
+                    "көлкөгә ҡалдырыу",
+                    "көлөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alay etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eğlenmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karikatürize etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lağa qoymaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öýkünmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "degşip ýazmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýaňsylamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әжуалау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тууроо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шылдыңдоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "quolıqlao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tuoralao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үрнәк алу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "охшату"
+                ]
+            }
+        }
+    ]
+}
+```
+

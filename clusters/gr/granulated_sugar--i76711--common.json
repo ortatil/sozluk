@@ -1,0 +1,110 @@
+{
+    "id": "i76711",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "granulated sugar",
+    "en_definition": "sugar in the form of small grains",
+    "tr_word": "toz şeker",
+    "tr_definition": "küçük tanecikler hâlinde olan şeker türü",
+    "ru_word": "сахарный песок",
+    "ru_definition": "сахар в виде мелких кристаллов или зерен",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "toz şeker"
+                ],
+                "Turkmen": [
+                    "şeker",
+                    "toz şeker"
+                ],
+                "Uyghur": [
+                    "شېكەر"
+                ],
+                "Kazakh": [
+                    "шекер"
+                ],
+                "Kyrgyz": [
+                    "шекер"
+                ],
+                "Karakalpak": [
+                    "sheker"
+                ],
+                "Tatar": [
+                    "шикәр комы"
+                ],
+                "Bashkir": [
+                    "шәкәр ҡомо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qənd"
+                ],
+                "Uyghur": [
+                    "قەنت"
+                ],
+                "Kazakh": [
+                    "қант"
+                ],
+                "Karakalpak": [
+                    "qant"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oq shakar",
+                    "qum shakar"
+                ],
+                "Kazakh": [
+                    "құмшекер"
+                ],
+                "Kyrgyz": [
+                    "кумшекер"
+                ],
+                "Bashkir": [
+                    "ҡом шәкәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şəkər tozu"
+                ],
+                "Uzbek": [
+                    "shakar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kristal şeker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاق قەنت",
+                    "ئاق شېكەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "коры шикәр"
+                ]
+            }
+        }
+    ]
+}

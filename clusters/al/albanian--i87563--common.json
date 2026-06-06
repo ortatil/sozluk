@@ -1,0 +1,70 @@
+{
+    "id": "i87563",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "albanian",
+    "en_definition": "a native or inhabitant of Albania",
+    "tr_word": "Arnavut",
+    "tr_definition": "Arnavutluk vatandaşı olan veya bu soydan gelen kimse",
+    "ru_word": "албанец",
+    "ru_definition": "уроженец или житель Албании",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "alban"
+                ],
+                "Turkmen": [
+                    "alban"
+                ],
+                "Uzbek": [
+                    "alban"
+                ],
+                "Uyghur": [
+                    "ئالبان",
+                    "ئالبانىيەلىك"
+                ],
+                "Kazakh": [
+                    "албан",
+                    "албандық"
+                ],
+                "Kyrgyz": [
+                    "албан",
+                    "албандык"
+                ],
+                "Karakalpak": [
+                    "alban",
+                    "albanlı"
+                ],
+                "Tatar": [
+                    "албан"
+                ],
+                "Bashkir": [
+                    "албан",
+                    "албандар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Arnavut"
+                ],
+                "Azerbaijani": [
+                    "arnaut"
+                ],
+                "Turkmen": [
+                    "arnawut"
+                ],
+                "Uzbek": [
+                    "arnovut"
+                ],
+                "Tatar": [
+                    "арнавыт"
+                ]
+            }
+        }
+    ]
+}

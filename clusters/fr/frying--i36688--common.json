@@ -1,0 +1,102 @@
+{
+    "id": "i36688",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "frying",
+    "en_definition": "cooking in fat or oil in a pan or griddle",
+    "tr_word": "kızartma",
+    "tr_definition": "Yiyeceklerin tavada veya ızgarada, yağ içinde pişirilmesi işlemi.",
+    "ru_word": "жарка",
+    "ru_definition": "Процесс приготовления пищи в жире или масле на сковороде или противне.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızartma",
+                    "kavurma"
+                ],
+                "Azerbaijani": [
+                    "qızartma"
+                ],
+                "Turkmen": [
+                    "gyzdyrma"
+                ],
+                "Uzbek": [
+                    "qovurish",
+                    "qovurma"
+                ],
+                "Tatar": [
+                    "кыздыру"
+                ],
+                "Bashkir": [
+                    "ҡыҙырыу",
+                    "ҡыҙҙырыу",
+                    "ҡыҙҙырылыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qovurma",
+                    "qovurulma"
+                ],
+                "Turkmen": [
+                    "gowurma"
+                ],
+                "Kyrgyz": [
+                    "кууруу",
+                    "куурулуш"
+                ],
+                "Karakalpak": [
+                    "quırıu",
+                    "quırıs"
+                ],
+                "Tatar": [
+                    "куыру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağlama"
+                ],
+                "Turkmen": [
+                    "daglama"
+                ],
+                "Uyghur": [
+                    "داغلاش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قورۇش"
+                ],
+                "Kazakh": [
+                    "қуыру",
+                    "қуырылу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pishirish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىريان قىلىش"
+                ]
+            }
+        }
+    ]
+}

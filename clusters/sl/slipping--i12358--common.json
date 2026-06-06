@@ -1,0 +1,108 @@
+{
+    "id": "i12358",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "slipping",
+    "en_definition": "moving as on a slippery surface",
+    "tr_word": "kayan",
+    "tr_definition": "kaygan bir yüzey üzerinde hareket eden",
+    "ru_word": "скользящий",
+    "ru_definition": "движущийся как по скользкой поверхности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaygan",
+                    "kayan",
+                    "kayıcı"
+                ],
+                "Turkmen": [
+                    "taýýan"
+                ],
+                "Kazakh": [
+                    "тайғанақ"
+                ],
+                "Kyrgyz": [
+                    "тайгак",
+                    "тайгалак"
+                ],
+                "Karakalpak": [
+                    "tayǵaq",
+                    "tayǵanaq"
+                ],
+                "Tatar": [
+                    "тайгак",
+                    "тайгын"
+                ],
+                "Bashkir": [
+                    "тайғаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýgak"
+                ],
+                "Uzbek": [
+                    "toyg'oq"
+                ],
+                "Uyghur": [
+                    "تېيىلغاق",
+                    "تېيىلىپ كېتىدىغان",
+                    "تېيىلغۇچ"
+                ],
+                "Kazakh": [
+                    "тайғақ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sirpanchiq",
+                    "sirpanuvchan"
+                ],
+                "Kazakh": [
+                    "сырғанақ"
+                ],
+                "Karakalpak": [
+                    "sırǵanaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sürüşkən",
+                    "sürüşən",
+                    "sürüşücü"
+                ],
+                "Turkmen": [
+                    "sürüşýän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сыйгак"
+                ],
+                "Bashkir": [
+                    "шыуғалаҡ",
+                    "шыуғыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шуышма"
+                ]
+            }
+        }
+    ]
+}

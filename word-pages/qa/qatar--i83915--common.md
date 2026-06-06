@@ -1,0 +1,111 @@
+# Qatar
+| Field | Detail |
+|---|---|
+| **ID** | i83915 |
+| **English** | qatar |
+| **Type** | noun |
+| **Definition** | an Arab country on the peninsula of Qatar; achieved independence from the United Kingdom in 1971; the economy is dominated by oil |
+| **Source** | common |
+| **Ortatil** | katar |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **katar** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قاتار | qatar |
+| **Kazakh** | |
+| Катар | katar |
+| **Kyrgyz** | |
+| Катар | katar |
+| **Tatar** | |
+| Катар | katar |
+| **Bashkir** | |
+| Ҡатар | qatar |
+
+```json
+{
+    "id": "i83915",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "qatar",
+    "en_definition": "an Arab country on the peninsula of Qatar; achieved independence from the United Kingdom in 1971; the economy is dominated by oil",
+    "tr_word": "Katar",
+    "tr_definition": "Katar yarımadasında bulunan, 1971'de Birleşik Krallık'tan bağımsızlığını kazanan ve ekonomisi petrole dayalı olan bir Arap ülkesi.",
+    "ru_word": "Катар",
+    "ru_definition": "Арабское государство на полуострове Катар; получило независимость от Великобритании в 1971 году; экономика основана на добыче нефти.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Katar"
+                ],
+                "Azerbaijani": [
+                    "Qətər",
+                    "Qətər Dövləti"
+                ],
+                "Turkmen": [
+                    "Katar",
+                    "Katar Döwleti"
+                ],
+                "Uzbek": [
+                    "Qatar",
+                    "Qatar Davlati"
+                ],
+                "Uyghur": [
+                    "قاتار",
+                    "قاتار دۆلىتى"
+                ],
+                "Kazakh": [
+                    "Катар",
+                    "Катар Мемлекеті"
+                ],
+                "Kyrgyz": [
+                    "Катар",
+                    "Катар Мамлекети"
+                ],
+                "Karakalpak": [
+                    "Katar",
+                    "Katar mámleketi"
+                ],
+                "Tatar": [
+                    "Катар",
+                    "Катар Дәүләте"
+                ],
+                "Bashkir": [
+                    "Ҡатар",
+                    "Ҡатар Дәүләте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Katar Devleti"
+                ]
+            }
+        }
+    ]
+}
+```
+

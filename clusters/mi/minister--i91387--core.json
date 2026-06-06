@@ -1,0 +1,110 @@
+{
+    "id": "i91387",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "minister",
+    "en_definition": "a person appointed to a high office in the government",
+    "tr_word": "bakan",
+    "tr_definition": "Hükümetin yönetimindeki bölümlerden birinin başında bulunan üst düzey devlet görevlisi.",
+    "ru_word": "министр",
+    "ru_definition": "Высшее должностное лицо, возглавляющее министерство в системе органов государственного управления.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vəzir"
+                ],
+                "Turkmen": [
+                    "wezir"
+                ],
+                "Uzbek": [
+                    "vazir"
+                ],
+                "Uyghur": [
+                    "ۋەزىر"
+                ],
+                "Kazakh": [
+                    "уәзір"
+                ],
+                "Kyrgyz": [
+                    "вазир"
+                ],
+                "Karakalpak": [
+                    "uázir"
+                ],
+                "Tatar": [
+                    "вәзир"
+                ],
+                "Bashkir": [
+                    "вәзир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ministr"
+                ],
+                "Uyghur": [
+                    "مىنىستىر"
+                ],
+                "Kazakh": [
+                    "министр"
+                ],
+                "Kyrgyz": [
+                    "министр"
+                ],
+                "Karakalpak": [
+                    "ministr"
+                ],
+                "Tatar": [
+                    "министр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nazır"
+                ],
+                "Azerbaijani": [
+                    "nazir"
+                ],
+                "Bashkir": [
+                    "назир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bakan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vekil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "noib"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башчы"
+                ]
+            }
+        }
+    ]
+}

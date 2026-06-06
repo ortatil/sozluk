@@ -1,0 +1,97 @@
+{
+    "id": "i66264",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hangnail",
+    "en_definition": "a loose narrow strip of skin near the base of a fingernail; tearing it produces a painful sore that is easily infected",
+    "tr_word": "şeytan tırnağı",
+    "tr_definition": "tırnak dibindeki derinin kalkmasıyla oluşan, koparıldığında acı veren ve iltihaplanmaya müsait küçük deri parçası",
+    "ru_word": "заусеница",
+    "ru_definition": "оторвавшийся у основания ногтя кусочек кожицы, вызывающий болезненные ощущения и риск воспаления",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tırnak eti",
+                    "tırnak kenarı"
+                ],
+                "Azerbaijani": [
+                    "dırnaq əti",
+                    "dırnaq qırağı"
+                ],
+                "Turkmen": [
+                    "dyrnak etjigi",
+                    "dyrnak etjagazy",
+                    "dyrnak gyrasy"
+                ],
+                "Uzbek": [
+                    "tirnoq eti",
+                    "tirnoq cheti"
+                ],
+                "Uyghur": [
+                    "تىرناق ئەتراپىدىكى تېرە تىتىقى",
+                    "تىرناق تىتىقى",
+                    "تىرناق قاقىچى"
+                ],
+                "Kyrgyz": [
+                    "тырмак кыртышы"
+                ],
+                "Karakalpak": [
+                    "tırnaq etі",
+                    "tırnaq aynalası"
+                ],
+                "Tatar": [
+                    "тырнак ите",
+                    "тырнак кырые",
+                    "тырнак чите"
+                ],
+                "Bashkir": [
+                    "тырнаҡ эргәһе",
+                    "тырнаҡ сите",
+                    "тырнаҡ ҡырыйы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şeytan tırnağı"
+                ],
+                "Azerbaijani": [
+                    "şeytan dırnağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shilinma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өлі ет",
+                    "өлі тері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тікенек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эт кыртышы",
+                    "эт кабыгы"
+                ]
+            }
+        }
+    ]
+}

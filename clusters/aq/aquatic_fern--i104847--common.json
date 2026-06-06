@@ -1,0 +1,74 @@
+{
+    "id": "i104847",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "aquatic fern",
+    "en_definition": "ferns that grow in water",
+    "tr_word": "su eğreltisi",
+    "tr_definition": "suda yetişen eğrelti otu türleri",
+    "ru_word": "водный папоротник",
+    "ru_definition": "папоротники, произрастающие в воде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su eğreltisi",
+                    "su eğrelti otu"
+                ],
+                "Azerbaijani": [
+                    "su qıjısı",
+                    "su qıjıları"
+                ],
+                "Turkmen": [
+                    "suv parany"
+                ],
+                "Uzbek": [
+                    "suv qirqqulog'i",
+                    "suv parandasi"
+                ],
+                "Uyghur": [
+                    "سۇ قىياق ئوتى",
+                    "سۇ قىياقلىرى",
+                    "سۇ پاپوروتنىكى"
+                ],
+                "Kazakh": [
+                    "су қырыққұлағы",
+                    "су папоротнигі"
+                ],
+                "Kyrgyz": [
+                    "суу папоротниги"
+                ],
+                "Karakalpak": [
+                    "suo paporotnigi",
+                    "suo qırıqbuoını"
+                ],
+                "Tatar": [
+                    "су папоротнигы",
+                    "су кыяклысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "suvda ösýän parany"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу папоротнигы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу ҡырыҡбыуыны"
+                ]
+            }
+        }
+    ]
+}

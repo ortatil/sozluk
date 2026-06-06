@@ -1,0 +1,81 @@
+{
+    "id": "i74836",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white line",
+    "en_definition": "a white stripe in the middle of a road to mark traffic lanes",
+    "tr_word": "beyaz çizgi",
+    "tr_definition": "trafik şeritlerini belirlemek için yolun ortasına çizilen beyaz şerit",
+    "ru_word": "белая линия",
+    "ru_definition": "белая полоса посреди дороги для разметки полос движения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ağ xətt",
+                    "ağ zolaq"
+                ],
+                "Turkmen": [
+                    "ak çyzyk",
+                    "ak hat"
+                ],
+                "Uzbek": [
+                    "oq chiziq"
+                ],
+                "Uyghur": [
+                    "ئاق سىزىق",
+                    "ئاق يول"
+                ],
+                "Kazakh": [
+                    "ақ жолақ",
+                    "ақ сызық"
+                ],
+                "Kyrgyz": [
+                    "ак сызык",
+                    "ак тилке"
+                ],
+                "Karakalpak": [
+                    "aq sızıq",
+                    "aq jolaq"
+                ],
+                "Tatar": [
+                    "ак сызык",
+                    "ак юл"
+                ],
+                "Bashkir": [
+                    "аҡ һыҙат",
+                    "аҡ һыҙыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yol çizgisi"
+                ],
+                "Azerbaijani": [
+                    "yol xətti"
+                ],
+                "Uzbek": [
+                    "yoʻl chizigʻi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz çizgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şerit çizgisi"
+                ]
+            }
+        }
+    ]
+}

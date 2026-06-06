@@ -1,0 +1,98 @@
+{
+    "id": "i88696",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bride",
+    "en_definition": "a woman who has recently been married",
+    "tr_word": "gelin",
+    "tr_definition": "yeni evlenmiş veya evlenmek üzere olan kadın",
+    "ru_word": "невеста",
+    "ru_definition": "женщина, вступающая в брак или только что вышедшая замуж",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gelin"
+                ],
+                "Azerbaijani": [
+                    "gəlin"
+                ],
+                "Turkmen": [
+                    "gelin"
+                ],
+                "Uzbek": [
+                    "kelin",
+                    "kelinchak"
+                ],
+                "Uyghur": [
+                    "كېلىن"
+                ],
+                "Kazakh": [
+                    "келін",
+                    "қалыңдық"
+                ],
+                "Kyrgyz": [
+                    "келин"
+                ],
+                "Karakalpak": [
+                    "kelin",
+                    "kelinshek"
+                ],
+                "Tatar": [
+                    "кәләш",
+                    "килен"
+                ],
+                "Bashkir": [
+                    "кәләш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeni gelin"
+                ],
+                "Uyghur": [
+                    "يېڭى كېلىن"
+                ],
+                "Kyrgyz": [
+                    "жаңы келин"
+                ],
+                "Bashkir": [
+                    "яңы кәләш",
+                    "яңы төшкән килен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taze gelin"
+                ],
+                "Azerbaijani": [
+                    "təzə gəlin"
+                ],
+                "Turkmen": [
+                    "täze gelin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەرۇس"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жас келін"
+                ]
+            }
+        }
+    ]
+}

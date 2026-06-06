@@ -1,0 +1,256 @@
+# Whip through
+| Field | Detail |
+|---|---|
+| **ID** | i33628 |
+| **English** | whip through |
+| **Type** | verb |
+| **Definition** | go through very fast |
+| **Source** | common |
+| **Ortatil** | çapmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жүйтку | jüytku |
+| зулау | zulau |
+| зымырау | zımırau |
+| **Tatar** | |
+| җилдерү | jilderü |
+| чабу | çabu |
+| сызу | sızu |
+| очу | oçu |
+| **Bashkir** | |
+| елдереү | yeldereü |
+| һыҙғырыу | hızğırıu |
+| осоу | osou |
+
+```json
+{
+    "id": "i33628",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "whip through",
+    "en_definition": "go through very fast",
+    "tr_word": "hızlıca bitirmek",
+    "tr_definition": "bir işi veya süreci çok çabuk ve süratle tamamlamak",
+    "ru_word": "промелькнуть",
+    "ru_definition": "очень быстро пройти через что-либо или быстро справиться с делом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yıldırım gibi geçmek"
+                ],
+                "Azerbaijani": [
+                    "yıldırım kimi keçmək"
+                ],
+                "Turkmen": [
+                    "ýyldyrym ýaly geçmek"
+                ],
+                "Kazakh": [
+                    "желдей есу"
+                ],
+                "Tatar": [
+                    "җилдерү"
+                ],
+                "Bashkir": [
+                    "елдереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çabucak bitirmek",
+                    "şipşak yapmak"
+                ],
+                "Azerbaijani": [
+                    "çapmaq"
+                ],
+                "Uzbek": [
+                    "chopib oʻtmoq"
+                ],
+                "Uyghur": [
+                    "چاپسان ئۆتمەك"
+                ],
+                "Tatar": [
+                    "чабу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yugurib oʻtmoq"
+                ],
+                "Uyghur": [
+                    "يۈگۈرۈپ ئۆتمەك"
+                ],
+                "Kazakh": [
+                    "жүйтку"
+                ],
+                "Karakalpak": [
+                    "júytkip ótio"
+                ],
+                "Bashkir": [
+                    "йүгереп үтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "syzgyrylyp geçmek"
+                ],
+                "Kyrgyz": [
+                    "сызып өтүү"
+                ],
+                "Tatar": [
+                    "сызу"
+                ],
+                "Bashkir": [
+                    "һыҙғырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okdurylyp geçmek"
+                ],
+                "Kyrgyz": [
+                    "октой өтүү"
+                ],
+                "Karakalpak": [
+                    "oqtay ushıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tez oʻtmoq"
+                ],
+                "Uyghur": [
+                    "تېز ئۆتمەك"
+                ],
+                "Karakalpak": [
+                    "tez ótio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "зулау"
+                ],
+                "Kyrgyz": [
+                    "зуулдап өтүү"
+                ],
+                "Karakalpak": [
+                    "zuolap ótio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "süratle tamamlamak"
+                ],
+                "Azerbaijani": [
+                    "sürətlə keçmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зымырау"
+                ],
+                "Kyrgyz": [
+                    "зырылдап өтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "очу"
+                ],
+                "Bashkir": [
+                    "осоу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hızla geçmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yeyin getmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şütümək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çalt geçmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shiddat bilan oʻtmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tezda koʻrib chiqmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شۇڭغۇپ ئۆتمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ағып өту"
+                ]
+            }
+        }
+    ]
+}
+```
+

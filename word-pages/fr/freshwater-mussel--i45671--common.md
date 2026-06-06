@@ -1,0 +1,195 @@
+# Freshwater mussel
+| Field | Detail |
+|---|---|
+| **ID** | i45671 |
+| **English** | freshwater mussel |
+| **Type** | noun |
+| **Definition** | bivalve mollusk abundant in rivers of central United States |
+| **Source** | common |
+| **Ortatil** | çiğänäq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| айқұлақ | ayqulaq |
+| **Bashkir** | |
+| моллюск | mollyusk |
+| ҡабырсаҡ | qabırsaq |
+
+```json
+{
+    "id": "i45671",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "freshwater mussel",
+    "en_definition": "bivalve mollusk abundant in rivers of central United States",
+    "tr_word": "tatlı su midyesi",
+    "tr_definition": "Genellikle nehirlerde ve göllerde yaşayan, iki kabuklu yumuşakça türü.",
+    "ru_word": "беззубка",
+    "ru_definition": "Пресноводный двустворчатый моллюск, обитающий в реках и озерах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dere midyesi"
+                ],
+                "Uzbek": [
+                    "daryo chigʻanogʻi"
+                ],
+                "Uyghur": [
+                    "دەريا سىدەپچىسى"
+                ],
+                "Kyrgyz": [
+                    "дарыя үлүшү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قوش قاپلىق قۇلۇلە"
+                ],
+                "Kazakh": [
+                    "қосжақтаулы ұлу"
+                ],
+                "Kyrgyz": [
+                    "кош капкалуу моллюска"
+                ],
+                "Karakalpak": [
+                    "qos jappalı mollyuska"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tatlı su midyesi"
+                ],
+                "Uyghur": [
+                    "تاتلىق سۇ سىدەپچىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çay ilbizi"
+                ],
+                "Uzbek": [
+                    "chigʻanoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ikki pallali mollyuska"
+                ],
+                "Bashkir": [
+                    "моллюск"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өзен ұлуы"
+                ],
+                "Karakalpak": [
+                    "ózen úlúshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "суу үлүшү"
+                ],
+                "Tatar": [
+                    "су кабырчыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ırmak midyesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çay sədəfçəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şirin su mollyusku"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "derýa balykgulagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýji suw balykgulagy",
+                    "balykgulak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айқұлақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "baqalshaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "елга кабырчыгы",
+                    "кабырчыклы балык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡабырсаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йылға ҡабырсағы"
+                ]
+            }
+        }
+    ]
+}
+```
+

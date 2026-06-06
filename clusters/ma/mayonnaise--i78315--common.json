@@ -1,0 +1,65 @@
+{
+    "id": "i78315",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mayonnaise",
+    "en_definition": "egg yolks and oil and vinegar",
+    "tr_word": "mayonez",
+    "tr_definition": "Yumurta sarısı, zeytinyağı ve limon veya sirke ile yapılan koyu kıvamlı bir sos.",
+    "ru_word": "майонез",
+    "ru_definition": "Соус, приготовленный из растительного масла, яичного желтка, уксуса или лимонного сока.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mayonez"
+                ],
+                "Azerbaijani": [
+                    "mayonez"
+                ],
+                "Turkmen": [
+                    "mayonez"
+                ],
+                "Uzbek": [
+                    "moyli qayla"
+                ],
+                "Uyghur": [
+                    "مايونېز"
+                ],
+                "Kazakh": [
+                    "майонез"
+                ],
+                "Kyrgyz": [
+                    "майонез"
+                ],
+                "Karakalpak": [
+                    "mayonez"
+                ],
+                "Tatar": [
+                    "майонез"
+                ],
+                "Bashkir": [
+                    "майонез"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuxumli qayla"
+                ],
+                "Uyghur": [
+                    "تۇخۇم مېيى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýumurtga-ýag goýaltmasy"
+                ]
+            }
+        }
+    ]
+}

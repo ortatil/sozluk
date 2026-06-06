@@ -1,0 +1,82 @@
+# Jehovah's witnesses
+| Field | Detail |
+|---|---|
+| **ID** | i79729 |
+| **English** | jehovah's witnesses |
+| **Type** | noun |
+| **Definition** | Protestant denomination founded in the United States by Charles Taze Russell in 1884 |
+| **Source** | common |
+| **Ortatil** | yähäwäçilär |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i79729",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "jehovah's witnesses",
+    "en_definition": "Protestant denomination founded in the United States by Charles Taze Russell in 1884",
+    "tr_word": "Yehova Şahitleri",
+    "tr_definition": "1884 yılında Charles Taze Russell tarafından Amerika Birleşik Devletleri'nde kurulan Protestan kökenli dini bir topluluk.",
+    "ru_word": "Свидетели Иеговы",
+    "ru_definition": "Протестантская деноминация, основанная в США Чарльзом Тейзом Расселом в 1884 году.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Yehova Şahitleri"
+                ],
+                "Azerbaijani": [
+                    "Yehova şahidləri"
+                ],
+                "Turkmen": [
+                    "Ýehowanyň şaýatlary"
+                ],
+                "Uzbek": [
+                    "Yahova shohidlari",
+                    "Yahovachilar"
+                ],
+                "Uyghur": [
+                    "يەھۋا گۇۋاھچىلىرى",
+                    "يەھۋا شاھىتلىرى"
+                ],
+                "Tatar": [
+                    "Йәһвә шаһитлары",
+                    "Йәһвә шаһитләре"
+                ],
+                "Bashkir": [
+                    "Йәһүә шаһиттары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "Иегова куәгерлері",
+                    "Иегова куәлары"
+                ],
+                "Kyrgyz": [
+                    "Иегова күбөлөрү"
+                ],
+                "Karakalpak": [
+                    "Iegowa gúwoları",
+                    "Iegowa shayatları"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Жахабанын күбөлөрү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,152 @@
+# Varicose vein
+| Field | Detail |
+|---|---|
+| **ID** | i65439 |
+| **English** | varicose vein |
+| **Type** | noun |
+| **Definition** | a vein that is permanently dilated; most common in the legs |
+| **Source** | common |
+| **Ortatil** | warikoz |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **warikoz** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ۋارىكوز | varikoz |
+| **Kazakh** | |
+| варикоз | varikoz |
+| **Kyrgyz** | |
+| варикоз | varikoz |
+| **Tatar** | |
+| варикоз | varikoz |
+
+```json
+{
+    "id": "i65439",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "varicose vein",
+    "en_definition": "a vein that is permanently dilated; most common in the legs",
+    "tr_word": "varis",
+    "tr_definition": "Genellikle bacaklarda görülen, toplardamarların kalıcı olarak genişlemesi ve kıvrımlı bir hal alması durumu.",
+    "ru_word": "варикозное расширение вен",
+    "ru_definition": "Стойкое и необратимое расширение и удлинение вен, чаще всего на ногах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "varis"
+                ],
+                "Azerbaijani": [
+                    "varikoz"
+                ],
+                "Turkmen": [
+                    "warikos"
+                ],
+                "Uzbek": [
+                    "varikoz"
+                ],
+                "Uyghur": [
+                    "ۋارىكوز"
+                ],
+                "Kazakh": [
+                    "варикоз"
+                ],
+                "Kyrgyz": [
+                    "варикоз"
+                ],
+                "Karakalpak": [
+                    "warikoz"
+                ],
+                "Tatar": [
+                    "варикоз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "damar genişlemesi"
+                ],
+                "Azerbaijani": [
+                    "damar genişlənməsi",
+                    "damar şişkinliyi"
+                ],
+                "Turkmen": [
+                    "damar giňelmesi",
+                    "damar çişmesi"
+                ],
+                "Uzbek": [
+                    "tomar kengayishi",
+                    "tomar bo'rtishi"
+                ],
+                "Uyghur": [
+                    "تومۇر كېڭىيىش",
+                    "تومۇر كۆپۈش"
+                ],
+                "Karakalpak": [
+                    "tamır keńeyioi",
+                    "tamırdıń sozılıoı"
+                ],
+                "Tatar": [
+                    "тамыр киңәюе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кеңейген тамыр"
+                ],
+                "Kyrgyz": [
+                    "кеңейген тамыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көк тамырдың кеңеюі"
+                ],
+                "Kyrgyz": [
+                    "көк тамырдын кеңейиши"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "вена киңәюе"
+                ],
+                "Bashkir": [
+                    "веналарҙың киңәйеүе",
+                    "веналарҙың варикозлы киңәйеүе"
+                ]
+            }
+        }
+    ]
+}
+```
+

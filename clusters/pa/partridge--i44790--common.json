@@ -1,0 +1,111 @@
+{
+    "id": "i44790",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "partridge",
+    "en_definition": "a popular North American game bird; named for its call",
+    "tr_word": "keklik",
+    "tr_definition": "Sülüngillerden, eti için avlanan, boz renkli, orta büyüklükte bir kuş.",
+    "ru_word": "куропатка",
+    "ru_definition": "Полевая дикая птица семейства фазановых, являющаяся объектом охоты.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "keklik"
+                ],
+                "Azerbaijani": [
+                    "kəklik"
+                ],
+                "Turkmen": [
+                    "keklik"
+                ],
+                "Uzbek": [
+                    "kaklik"
+                ],
+                "Uyghur": [
+                    "كەكلىك",
+                    "كەكلىك قۇشى"
+                ],
+                "Kazakh": [
+                    "кекілік"
+                ],
+                "Kyrgyz": [
+                    "кекилик"
+                ],
+                "Karakalpak": [
+                    "kekilik"
+                ],
+                "Tatar": [
+                    "кәкли"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çil"
+                ],
+                "Kazakh": [
+                    "шіл"
+                ],
+                "Kyrgyz": [
+                    "чил"
+                ],
+                "Karakalpak": [
+                    "shil"
+                ],
+                "Tatar": [
+                    "чер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "durrac"
+                ],
+                "Azerbaijani": [
+                    "durac"
+                ],
+                "Turkmen": [
+                    "dürre"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыр тавыгы"
+                ],
+                "Bashkir": [
+                    "ҡыр тауығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chitir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аҡҡор"
+                ]
+            }
+        }
+    ]
+}

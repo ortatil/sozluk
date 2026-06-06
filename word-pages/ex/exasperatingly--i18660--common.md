@@ -1,0 +1,274 @@
+# Exasperatingly
+| Field | Detail |
+|---|---|
+| **ID** | i18660 |
+| **English** | exasperatingly |
+| **Type** | adverb |
+| **Definition** | in an exasperating manner |
+| **Source** | common |
+| **Ortatil** | ğazablanarlı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ğazablanarlı** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| زېرىكتۈرۈپ | zeriktürüp |
+| تېرىكتۈرۈپ | teriktürüp |
+| **Kazakh** | |
+| ашындыра | aşındıra |
+| қажыта | qajıta |
+| ызаландыра | ızalandıra |
+| күйіндіре | küyindire |
+| **Kyrgyz** | |
+| тажаткыдай | tajatkıday |
+| **Bashkir** | |
+| ҡыҙыуландырып | qızıulandırıp |
+
+```json
+{
+    "id": "i18660",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "exasperatingly",
+    "en_definition": "in an exasperating manner",
+    "tr_word": "çileden çıkarırcasına",
+    "tr_definition": "birini çok sinirlendirecek veya sabrını taşıracak şekilde",
+    "ru_word": "раздражающе",
+    "ru_definition": "в манере, вызывающей сильное раздражение или нетерпение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "usandırıcı bir şekilde"
+                ],
+                "Kazakh": [
+                    "ашындыра"
+                ],
+                "Kyrgyz": [
+                    "ыза кылып"
+                ],
+                "Karakalpak": [
+                    "ızalandırıp",
+                    "ıza keltirip"
+                ],
+                "Bashkir": [
+                    "асыу килтереп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "can boğaza yığaraq"
+                ],
+                "Turkmen": [
+                    "janyňa degip"
+                ],
+                "Uzbek": [
+                    "joniga_tegadigan"
+                ],
+                "Tatar": [
+                    "җанга тиеп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "g'azablanarli"
+                ],
+                "Kazakh": [
+                    "қажыта"
+                ],
+                "Kyrgyz": [
+                    "кыжырды келтирип"
+                ],
+                "Bashkir": [
+                    "ҡыҙыуландырып"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "achchiqlantirib"
+                ],
+                "Uyghur": [
+                    "ئاچچىقنى كەلتۈرۈپ"
+                ],
+                "Kyrgyz": [
+                    "ачууну келтирип"
+                ],
+                "Tatar": [
+                    "ачуны китереп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əsəbiləşdirici tərzdə"
+                ],
+                "Uzbek": [
+                    "asabga_tegib"
+                ],
+                "Kazakh": [
+                    "ызаландыра"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bıktırırcasına",
+                    "bezdirerek"
+                ],
+                "Azerbaijani": [
+                    "bezdirici şəkildə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gaharyňy getirip"
+                ],
+                "Karakalpak": [
+                    "qaxarlandırıp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "azar berip"
+                ],
+                "Karakalpak": [
+                    "ashıulandırıp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toshkandek"
+                ],
+                "Kyrgyz": [
+                    "тажаткыдай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çileden çıkarırcasına"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hövsələdən çıxaracaq dərəcədə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təngə gətirərək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ynjydyp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خاپا قىلىپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زېرىكتۈرۈپ",
+                    "تېرىكتۈرۈپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төзімді тауыса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күйіндіре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәмам туйдырып"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сабырлыкны сынап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәҡәтте ҡоротоп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йәнде көйҙөрөп"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,85 @@
+# Garlic press
+| Field | Detail |
+|---|---|
+| **ID** | i54189 |
+| **English** | garlic press |
+| **Type** | noun |
+| **Definition** | a press for extracting juice from garlic |
+| **Source** | common |
+| **Ortatil** | sarımsaqazan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i54189",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "garlic press",
+    "en_definition": "a press for extracting juice from garlic",
+    "tr_word": "sarımsak ezeceği",
+    "tr_definition": "sarımsak dişlerini ezerek püre haline getirmeye yarayan mutfak aleti",
+    "ru_word": "чеснокодавилка",
+    "ru_definition": "кухонный инструмент для измельчения зубчиков чеснока путём их продавливания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarımsak ezeceği",
+                    "sarımsak presi",
+                    "sarımsak ezici"
+                ],
+                "Azerbaijani": [
+                    "sarımsaqəzən",
+                    "sarımsaqsıxan"
+                ],
+                "Turkmen": [
+                    "sarymsak gysgyç",
+                    "sarymsak eziş",
+                    "sarymsak gysyjy"
+                ],
+                "Uzbek": [
+                    "sarimsoq ezgich",
+                    "sarimsoq maydalagich",
+                    "sarimsoq siquvchi"
+                ],
+                "Uyghur": [
+                    "سامساق ئەزگۈچ"
+                ],
+                "Kazakh": [
+                    "сарымсақ езгіш",
+                    "сарымсақ сыққыш",
+                    "сарымсақ езуіш"
+                ],
+                "Kyrgyz": [
+                    "сарымсак эзгич",
+                    "сарымсак майдалагыч"
+                ],
+                "Karakalpak": [
+                    "sarımsaq ezgish",
+                    "sarımsaq basqısh"
+                ],
+                "Tatar": [
+                    "сарымсак сыккыч",
+                    "сарымсак изгеч"
+                ],
+                "Bashkir": [
+                    "һарымһаҡ иҙгес",
+                    "һарымһаҡ һыҡҡыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سامساق باسقۇچ"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,162 @@
+# Stanton
+| Field | Detail |
+|---|---|
+| **ID** | i96992 |
+| **English** | stanton |
+| **Type** | noun |
+| **Definition** | United States suffragist and feminist; called for reform of the practices that perpetuated sexual inequality (1815-1902) |
+| **Source** | common |
+| **Ortatil** | feminist |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **feminist** | **stentän** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ❌ | ✅ |
+| Turkmen | ❌ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ❌ | ❌ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ❌ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.67 |
+| *Qarluq Subtotal* | 1 | 0.50 |
+| *Qipchaq Subtotal* | 0 | 0 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **1.33** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| فېمىنىست | feminist |
+
+```json
+{
+    "id": "i96992",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stanton",
+    "en_definition": "United States suffragist and feminist; called for reform of the practices that perpetuated sexual inequality (1815-1902)",
+    "tr_word": "Stanton",
+    "tr_definition": "Amerika Birleşik Devletleri'nde cinsel eşitsizliği sürdüren uygulamaların reformu için çağrıda bulunan süfrajet ve feminist (1815-1902).",
+    "ru_word": "Стэнтон",
+    "ru_definition": "Американская суфражистка и феминистка; призывала к реформированию практик, закрепляющих половое неравенство (1815-1902).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Elizabeth Cady Stanton"
+                ],
+                "Azerbaijani": [
+                    "Elizabet Kedi Stenton"
+                ],
+                "Turkmen": [
+                    "Elizabeth Kedi Stenton"
+                ],
+                "Uyghur": [
+                    "ئېلىزابېت كادى ستانتون"
+                ],
+                "Kyrgyz": [
+                    "Элизабет Кэди Стэнтон"
+                ],
+                "Karakalpak": [
+                    "Elizabet Keydi Stenton"
+                ],
+                "Bashkir": [
+                    "Элизабет Кэди Стэнтон"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "feminist"
+                ],
+                "Uzbek": [
+                    "feminist"
+                ],
+                "Uyghur": [
+                    "فېمىنىست"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Stenton"
+                ],
+                "Turkmen": [
+                    "Stenton"
+                ],
+                "Uzbek": [
+                    "Stenton"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ayollar huquqlari himoyachisi"
+                ],
+                "Uyghur": [
+                    "ئاياللار ھوقۇقى پائالىيەتچىسى"
+                ],
+                "Kazakh": [
+                    "әйелдер құқығын қорғаушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kadın hakları savunucusu"
+                ],
+                "Tatar": [
+                    "хатын-кыз хокуклары өчен көрәшүче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "süfrajet"
+                ],
+                "Uzbek": [
+                    "suffrajist"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құқық қорғаушы",
+                    "қоғам қайраткері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хокук яклаучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иҗтимагый эшлекле"
+                ]
+            }
+        }
+    ]
+}
+```
+

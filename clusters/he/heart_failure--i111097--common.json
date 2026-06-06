@@ -1,0 +1,68 @@
+{
+    "id": "i111097",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "heart failure",
+    "en_definition": "inability of the heart to pump enough blood to sustain normal bodily functions",
+    "tr_word": "kalp yetmezliği",
+    "tr_definition": "kalbin vücudun normal işlevlerini sürdürmesi için yeterli kanı pompalayamaması durumu",
+    "ru_word": "сердечная недостаточность",
+    "ru_definition": "неспособность сердца перекачивать достаточное количество крови для поддержания нормальных функций организма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ürək çatışmazlığı",
+                    "ürək zəifliyi",
+                    "ürək çatışmazlığı xəstəliyi"
+                ],
+                "Turkmen": [
+                    "ýürek ýetmezçiligi",
+                    "ýürek gowşaklygy"
+                ],
+                "Uzbek": [
+                    "yurak yetishmovchiligi",
+                    "yurak zaifligi",
+                    "yurak quvvatsizligi"
+                ],
+                "Uyghur": [
+                    "يۈرەك زەئىپلىكى",
+                    "يۈرەك ئاجىزلىقى",
+                    "يۈرەك ئىقتىدارىنىڭ زەئىپلىشىشى"
+                ],
+                "Kazakh": [
+                    "жүрек жетіспеушілігі",
+                    "жүрек әлсіздігі",
+                    "жүрек қауқарсыздығы"
+                ],
+                "Kyrgyz": [
+                    "жүрөк жетишсиздиги",
+                    "жүрөк алсыздыгы",
+                    "жүрөк кубатынын кемиши"
+                ],
+                "Karakalpak": [
+                    "júrek jetispeoshiligi",
+                    "júrek zayıplıǵı"
+                ],
+                "Tatar": [
+                    "йөрәк җитешмәүчәнлеге",
+                    "йөрәк зәгыйфьлеге",
+                    "йөрәк куәтесезлеге"
+                ],
+                "Bashkir": [
+                    "йөрәк хәлһеҙлеге",
+                    "йөрәк етешмәүсәнлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kalp yetmezliği",
+                    "kalp yetersizliği"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "i112037",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flea bite",
+    "en_definition": "sting inflicted by a flea",
+    "tr_word": "pire ısırığı",
+    "tr_definition": "bir pire tarafından yapılan ısırma veya sokma eylemi",
+    "ru_word": "укус блохи",
+    "ru_definition": "укус, нанесенный блохой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pire ısırığı",
+                    "pire sokması"
+                ],
+                "Azerbaijani": [
+                    "birə dişləməsi",
+                    "birə sancması"
+                ],
+                "Turkmen": [
+                    "büre çakmasy",
+                    "büre dişlemesi"
+                ],
+                "Uyghur": [
+                    "بۈرە چاققان جاي"
+                ],
+                "Kazakh": [
+                    "бүрге шағуы",
+                    "бүрге шаққан жер"
+                ],
+                "Kyrgyz": [
+                    "бүркө чагуусу",
+                    "бүркө чаккан жер"
+                ],
+                "Karakalpak": [
+                    "búrge shaǵuı",
+                    "búrge talauı"
+                ],
+                "Tatar": [
+                    "бөрчә чагу",
+                    "бөрчә тешләве"
+                ],
+                "Bashkir": [
+                    "бөрсә тешләүе",
+                    "бөрсә сағыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "burgun chaqishi",
+                    "burgun tishlashi"
+                ],
+                "Uyghur": [
+                    "بۈرە چىشلىۋېلىشى",
+                    "بۈرە چىشلىگەن جاي"
+                ]
+            }
+        }
+    ]
+}

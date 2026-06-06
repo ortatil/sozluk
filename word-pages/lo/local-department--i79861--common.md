@@ -1,0 +1,142 @@
+# Local department
+| Field | Detail |
+|---|---|
+| **ID** | i79861 |
+| **English** | local department |
+| **Type** | noun |
+| **Definition** | a permanent department created to perform the work of a local government |
+| **Source** | common |
+| **Ortatil** | idarähänä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| идарәханә | idaräxanä |
+| **Bashkir** | |
+| идаралыҡ | idaralıq |
+
+```json
+{
+    "id": "i79861",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "local department",
+    "en_definition": "a permanent department created to perform the work of a local government",
+    "tr_word": "yerel birim",
+    "tr_definition": "yerel yönetimin işlerini yürütmek üzere oluşturulmuş kalıcı departman",
+    "ru_word": "местный отдел",
+    "ru_definition": "постоянный отдел, созданный для выполнения работы местного самоуправления",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yerel birim",
+                    "yerel şube"
+                ],
+                "Azerbaijani": [
+                    "yerli şöbə",
+                    "yerli idarə",
+                    "yerli bölmə"
+                ],
+                "Turkmen": [
+                    "ýerli bölüm",
+                    "ýerli edara",
+                    "ýerli şube"
+                ],
+                "Uyghur": [
+                    "يەرلىك تارماق",
+                    "يەرلىك ئىدارە"
+                ],
+                "Kazakh": [
+                    "жергілікті бөлім",
+                    "жергілікті басқарма",
+                    "жергілікті бөлімше"
+                ],
+                "Kyrgyz": [
+                    "жергиликтүү бөлүм",
+                    "жергиликтүү башкармалык",
+                    "жергиликтүү мекеме"
+                ],
+                "Karakalpak": [
+                    "jergilikli bólim",
+                    "jergilikli basqarma"
+                ],
+                "Tatar": [
+                    "җирле идарә",
+                    "җирле бүлек"
+                ],
+                "Bashkir": [
+                    "ерле бүлексә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mahalli idare",
+                    "mahalli şube"
+                ],
+                "Azerbaijani": [
+                    "məhəlli şöbə"
+                ],
+                "Uzbek": [
+                    "mahalliy bo'lim",
+                    "mahalliy idora",
+                    "mahalliy boshqarma",
+                    "mahalliy shuba"
+                ],
+                "Uyghur": [
+                    "مەھەللىي ئورگان"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "аймақтық мекеме"
+                ],
+                "Kyrgyz": [
+                    "аймактык бөлүм"
+                ],
+                "Karakalpak": [
+                    "aymaqlıq bólim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "идарәханә"
+                ],
+                "Bashkir": [
+                    "идаралыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "belediye dairesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "урындағы бүлек",
+                    "урындағы идара"
+                ]
+            }
+        }
+    ]
+}
+```
+

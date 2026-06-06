@@ -1,0 +1,213 @@
+# Commercialize
+| Field | Detail |
+|---|---|
+| **ID** | i24068 |
+| **English** | commercialize |
+| **Type** | verb |
+| **Definition** | make commercial |
+| **Source** | common |
+| **Ortatil** | bazarlaştırmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **bazarlaştırmaq** | **sodulaştırmaq** | **ticariläştirmäk** |
+|---|---|---|---|
+| Turkish | ✅ | ❌ | ✅ |
+| Azerbaijani | ❌ | ❌ | ✅ |
+| Turkmen | ❌ | ❌ | ✅ |
+| Uzbek | ✅ | ✅ | ✅ |
+| Uyghur | ❌ | ✅ | ❌ |
+| Kazakh | ❌ | ✅ | ❌ |
+| Kyrgyz | ❌ | ✅ | ❌ |
+| Karakalpak | ❌ | ✅ | ❌ |
+| Tatar | ❌ | ✅ | ❌ |
+| Bashkir | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0 | 1 |
+| *Qarluq Subtotal* | 0.50 | 1 | 0.50 |
+| *Qipchaq Subtotal* | 0.20 | 0.80 | 0 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **2.03** | **1.80** | **1.50** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سودىلاشتۇرماق | sodilaşturmaq |
+| **Kazakh** | |
+| саудалау | saudalau |
+| **Kyrgyz** | |
+| соодалаштыруу | soodalaştıruu |
+| **Tatar** | |
+| сәүдәләштерү | säüdäläşterü |
+| **Bashkir** | |
+| сауҙалаштырыу | sauzalaştırıu |
+
+```json
+{
+    "id": "i24068",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "commercialize",
+    "en_definition": "make commercial",
+    "tr_word": "ticarileştirmek",
+    "tr_definition": "bir şeyi ticari bir kazanç kaynağı haline getirmek",
+    "ru_word": "коммерциализировать",
+    "ru_definition": "сделать что-либо объектом торговли или извлечения прибыли",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "satışa çıxarmaq"
+                ],
+                "Uzbek": [
+                    "savdolashtirmoq"
+                ],
+                "Uyghur": [
+                    "سودىلاشتۇرماق"
+                ],
+                "Kazakh": [
+                    "саудалау"
+                ],
+                "Kyrgyz": [
+                    "соодалаштыруу"
+                ],
+                "Karakalpak": [
+                    "saodalastırıo",
+                    "saodaǵa aylandırıo"
+                ],
+                "Tatar": [
+                    "сәүдәләштерү",
+                    "сәүдәгә юнәлтү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ticarileştirmek",
+                    "ticarete dökmek"
+                ],
+                "Azerbaijani": [
+                    "ticarətləşdirmək",
+                    "ticarətə çevirmək"
+                ],
+                "Turkmen": [
+                    "täjirleşdirmek"
+                ],
+                "Uzbek": [
+                    "tijoriylashtirmoq"
+                ],
+                "Uyghur": [
+                    "تىجارەتكە ئايلاندۇرماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pazarlamak"
+                ],
+                "Uzbek": [
+                    "bozorlashtirmoq"
+                ],
+                "Bashkir": [
+                    "сауҙалаштырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "саудаға айналдыру",
+                    "пайдаға бағыттау"
+                ],
+                "Kyrgyz": [
+                    "пайдага айландыруу"
+                ],
+                "Karakalpak": [
+                    "paydakeshlikke baǵdarlao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kazanç kapısı yapmak"
+                ],
+                "Azerbaijani": [
+                    "qazanc mənbəyinə çevirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тауарға айналдыру"
+                ],
+                "Bashkir": [
+                    "сауҙаға сығарыу",
+                    "тауарға әйләндереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сатыкка чыгаруу"
+                ],
+                "Tatar": [
+                    "сатуга чыгару"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "söwdalaşdyrmak",
+                    "söwdany ösdürmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "daromadli qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سودا خاراكتېرىگە ئىگە قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кирешелүү кылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "табышлы итү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "килем сығанағына әйләндереү"
+                ]
+            }
+        }
+    ]
+}
+```
+

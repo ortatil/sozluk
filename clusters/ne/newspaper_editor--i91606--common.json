@@ -1,0 +1,123 @@
+{
+    "id": "i91606",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "newspaper editor",
+    "en_definition": "the editor of a newspaper",
+    "tr_word": "gazete editörü",
+    "tr_definition": "Bir gazetenin içeriğini düzenleyen ve yayımlanmasından sorumlu olan kişi.",
+    "ru_word": "редактор газеты",
+    "ru_definition": "Лицо, ответственное за подготовку и выпуск газетного издания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gazete editörü",
+                    "gazete muharriri"
+                ],
+                "Azerbaijani": [
+                    "qəzet redaktoru"
+                ],
+                "Turkmen": [
+                    "gazet redaktory"
+                ],
+                "Uzbek": [
+                    "gazeta muharriri"
+                ],
+                "Uyghur": [
+                    "گېزىت مۇھەررىرى"
+                ],
+                "Kyrgyz": [
+                    "гезит редактору"
+                ],
+                "Tatar": [
+                    "гәзит мөхәррире"
+                ],
+                "Bashkir": [
+                    "гәзит мөхәррире"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başmuharrir"
+                ],
+                "Azerbaijani": [
+                    "baş redaktor"
+                ],
+                "Turkmen": [
+                    "baş redaktor"
+                ],
+                "Uzbek": [
+                    "bosh muharrir"
+                ],
+                "Kazakh": [
+                    "бас редактор"
+                ],
+                "Kyrgyz": [
+                    "башкы редактор"
+                ],
+                "Tatar": [
+                    "баш мөхәррир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mühərrir"
+                ],
+                "Turkmen": [
+                    "muharrir"
+                ],
+                "Uzbek": [
+                    "muharrir"
+                ],
+                "Uyghur": [
+                    "مۇھەررىر"
+                ],
+                "Karakalpak": [
+                    "múhárrir"
+                ],
+                "Tatar": [
+                    "мөхәррир"
+                ],
+                "Bashkir": [
+                    "мөхәррир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "редактор"
+                ],
+                "Kyrgyz": [
+                    "редактор"
+                ],
+                "Karakalpak": [
+                    "redaktor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazı işleri müdürü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шығарушы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "id": "i78247",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mint sauce",
+    "en_definition": "sweetened diluted vinegar with chopped mint leaves",
+    "tr_word": "nane sosu",
+    "tr_definition": "doğranmış nane yaprakları ile hazırlanan şekerli ve seyreltilmiş sirke sosu",
+    "ru_word": "мятный соус",
+    "ru_definition": "подслащенный разбавленный уксус с измельченными листьями мяты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "naneli sos",
+                    "nane sosu"
+                ],
+                "Azerbaijani": [
+                    "nanəli sous",
+                    "nanəli şirə",
+                    "nanəli tərə",
+                    "nanəli qatışıq"
+                ],
+                "Uyghur": [
+                    "نەئنە قىيامى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "narpyzly sous",
+                    "narpyzly goşundy",
+                    "narpyzly derman"
+                ],
+                "Kyrgyz": [
+                    "жалбыз соусу",
+                    "жалбыз татымалы",
+                    "жалбыз чыгы"
+                ],
+                "Karakalpak": [
+                    "jalbızlı sous",
+                    "jalbızlı tuzlıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yalpizli qayla",
+                    "yalpizli sous",
+                    "yalpizli ziravor"
+                ],
+                "Uyghur": [
+                    "يالپۇز قىيامى",
+                    "يالپۇز سۇيۇقلۇقى"
+                ],
+                "Kazakh": [
+                    "жалбыз тұздығы",
+                    "жалбызды тұздық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бөтнек соусы",
+                    "бөтнек подливасы",
+                    "бөтнекле соус"
+                ],
+                "Bashkir": [
+                    "бөтнөклө соус",
+                    "бөтнөклө тәмләткес"
+                ]
+            }
+        }
+    ]
+}

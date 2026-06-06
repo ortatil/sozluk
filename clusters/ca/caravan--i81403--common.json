@@ -1,0 +1,118 @@
+{
+    "id": "i81403",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "caravan",
+    "en_definition": "a procession (of wagons or mules or camels) traveling together in single file",
+    "tr_word": "kervan",
+    "tr_definition": "Uzak yerlere yolcu ve ticaret eşyası taşıyan yük hayvanları katarı.",
+    "ru_word": "караван",
+    "ru_definition": "Группа людей, путешествующих вместе с вьючными животными или транспортными средствами, обычно через пустыню или опасную местность.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kervan"
+                ],
+                "Azerbaijani": [
+                    "karvan"
+                ],
+                "Turkmen": [
+                    "kerwen",
+                    "kerwen-köç"
+                ],
+                "Uzbek": [
+                    "karvon"
+                ],
+                "Uyghur": [
+                    "كارۋان"
+                ],
+                "Kazakh": [
+                    "керуен"
+                ],
+                "Kyrgyz": [
+                    "кербен"
+                ],
+                "Karakalpak": [
+                    "keruen"
+                ],
+                "Tatar": [
+                    "кәрван"
+                ],
+                "Bashkir": [
+                    "ҡарван",
+                    "кәрүән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "katar"
+                ],
+                "Azerbaijani": [
+                    "qatır"
+                ],
+                "Kyrgyz": [
+                    "сапар"
+                ],
+                "Karakalpak": [
+                    "qatar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dəstə"
+                ],
+                "Uzbek": [
+                    "tizim"
+                ],
+                "Kazakh": [
+                    "тізбек"
+                ],
+                "Kyrgyz": [
+                    "тизмек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "saf"
+                ],
+                "Uyghur": [
+                    "سەپەرداشلار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көш"
+                ],
+                "Tatar": [
+                    "күч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kafile"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төркем"
+                ]
+            }
+        }
+    ]
+}

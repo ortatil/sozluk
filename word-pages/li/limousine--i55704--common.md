@@ -1,0 +1,211 @@
+# Limousine
+| Field | Detail |
+|---|---|
+| **ID** | i55704 |
+| **English** | limousine |
+| **Type** | noun |
+| **Definition** | large luxurious car; usually driven by a chauffeur |
+| **Source** | common |
+| **Ortatil** | kölük |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| көлік | kölik |
+| арба | arba |
+| күйме | küyme |
+
+```json
+{
+    "id": "i55704",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "limousine",
+    "en_definition": "large luxurious car; usually driven by a chauffeur",
+    "tr_word": "limuzin",
+    "tr_definition": "Genellikle bir şoför tarafından sürülen, lüks ve uzun binek otomobil.",
+    "ru_word": "лимузин",
+    "ru_definition": "Закрытый кузов легкового автомобиля высшего класса с перегородкой между отделением водителя и пассажирским салоном.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "uzın mashina"
+                ],
+                "Tatar": [
+                    "озын машина"
+                ],
+                "Bashkir": [
+                    "оҙон машина"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lüks otomobil"
+                ],
+                "Azerbaijani": [
+                    "lüks avtomobil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyük binek"
+                ],
+                "Azerbaijani": [
+                    "böyük minik maşını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hashamatli ulov"
+                ],
+                "Uyghur": [
+                    "ھەشەمەتلىك ئاپتوموبىل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ ماشىنا"
+                ],
+                "Kyrgyz": [
+                    "чоң унаа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік"
+                ],
+                "Karakalpak": [
+                    "kólik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "салтанаттуу унаа"
+                ],
+                "Karakalpak": [
+                    "saltanatlı mashina"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "makam aracı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təmtəraqlı maşın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly ýeňil maşyn",
+                    "uly barly maşyn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kaşaň awtoulag"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shohona arava"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta binoiy mashina"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېسىل ماشىنا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күйме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кымбат унаа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "затлы машина"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хөрмәтле машина"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "инсафлы машина"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "түрә машинаһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

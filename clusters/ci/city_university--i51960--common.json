@@ -1,0 +1,75 @@
+{
+    "id": "i51960",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "city university",
+    "en_definition": "an urban university in a large city",
+    "tr_word": "şehir üniversitesi",
+    "tr_definition": "Büyük bir şehrin merkezinde yer alan kentsel üniversite.",
+    "ru_word": "городской университет",
+    "ru_definition": "Городской университет, расположенный в крупном мегаполисе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehir üniversitesi"
+                ],
+                "Azerbaijani": [
+                    "şəhər universiteti",
+                    "şəhər ali məktəbi"
+                ],
+                "Turkmen": [
+                    "şäher uniwersiteti",
+                    "şäher darülfununy"
+                ],
+                "Uzbek": [
+                    "shahar universiteti",
+                    "shahar dorilfununi"
+                ],
+                "Uyghur": [
+                    "شەھەر ئۇنىۋېرسىتېتى",
+                    "شەھەر دارىلفۇنۇنى"
+                ],
+                "Kazakh": [
+                    "шаһарлық университет"
+                ],
+                "Tatar": [
+                    "шәһәр университеты",
+                    "шәһәр гыйлем йорты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қалалық университет"
+                ],
+                "Karakalpak": [
+                    "qalalıq uniwersitet",
+                    "qala uniwersiteti"
+                ],
+                "Bashkir": [
+                    "ҡала университеты",
+                    "ҡала юғары уҡыу йорто"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kent üniversitesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаардык университет",
+                    "шаардык окуу жайы"
+                ]
+            }
+        }
+    ]
+}

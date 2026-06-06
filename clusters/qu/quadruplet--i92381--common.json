@@ -1,0 +1,63 @@
+{
+    "id": "i92381",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "quadruplet",
+    "en_definition": "one of four children born at the same time from the same pregnancy",
+    "tr_word": "dördüz",
+    "tr_definition": "aynı gebelikten aynı anda doğan dört çocuktan biri",
+    "ru_word": "четверняшка",
+    "ru_definition": "один из четырех детей, родившихся одновременно от одной беременности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dördüz",
+                    "dördüz yavru"
+                ],
+                "Azerbaijani": [
+                    "dördəm",
+                    "dördüz"
+                ],
+                "Turkmen": [
+                    "dördüz",
+                    "dördüz çaga"
+                ],
+                "Uzbek": [
+                    "toʻrtiz",
+                    "toʻrt egizak",
+                    "toʻrtala"
+                ],
+                "Kazakh": [
+                    "төртем",
+                    "төрт егіз"
+                ],
+                "Kyrgyz": [
+                    "төрт эм",
+                    "төртөө"
+                ],
+                "Karakalpak": [
+                    "tórt egiz",
+                    "tórtlem"
+                ],
+                "Tatar": [
+                    "дүртәм",
+                    "дүрт игезәк"
+                ],
+                "Bashkir": [
+                    "дүртем",
+                    "дүрт игеҙәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆت كېزەك",
+                    "تۆتەم"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+# Tunnel
+| Field | Detail |
+|---|---|
+| **ID** | i60637 |
+| **English** | tunnel |
+| **Type** | noun |
+| **Definition** | a passageway through or under something, usually underground (especially one for trains or cars) |
+| **Source** | common |
+| **Ortatil** | tunel, laqım |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tunel** | **laqım** | **geçitki** | **jol** | **ütkäüyel** |
+|---|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ | ❌ | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Tatar | ✅ | ❌ | ❌ | ✅ | ✅ |
+| Bashkir | ✅ | ❌ | ❌ | ❌ | ✅ |
+| *Oghuz Subtotal* | 1 | 0.67 | 1 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.20 | 0 | 0.40 | 0.80 |
+| *In All* | ✅ | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |  |
+| **O'TQ** | **4** | **2.37** | **1** | **0.90** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تونېل | tonel |
+| غار | ğar |
+| **Kazakh** | |
+| туннель | tunnel |
+| өтпе | ötpe |
+| үңгіржол | üñgirjol |
+| лапас | lapas |
+| **Kyrgyz** | |
+| туннель | tunnel |
+| өткөөл | ötkööl |
+| жол | jol |
+| үңкүр | üñkür |
+| **Tatar** | |
+| туннель | tunnel |
+| үткәүел | ütkäüyel |
+| юл | yul |
+| лапас | lapas |
+| **Bashkir** | |
+| туннель | tunnel |
+| үткәүел | ütkäüyel |
+
+```json
+{
+    "id": "i60637",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tunnel",
+    "en_definition": "a passageway through or under something, usually underground (especially one for trains or cars)",
+    "tr_word": "tünel",
+    "tr_definition": "Genellikle yer altında, bir şeyin içinden veya altından geçen, özellikle trenler veya arabalar için yapılmış geçit.",
+    "ru_word": "тоннель",
+    "ru_definition": "Подземное сооружение для проезда транспорта или прохода пешеходов, проложенное сквозь гору или под землей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tünel"
+                ],
+                "Azerbaijani": [
+                    "tunel"
+                ],
+                "Turkmen": [
+                    "tunel"
+                ],
+                "Uzbek": [
+                    "tunnell"
+                ],
+                "Uyghur": [
+                    "تونېل"
+                ],
+                "Kazakh": [
+                    "туннель"
+                ],
+                "Kyrgyz": [
+                    "туннель"
+                ],
+                "Karakalpak": [
+                    "tunnel"
+                ],
+                "Tatar": [
+                    "туннель"
+                ],
+                "Bashkir": [
+                    "туннель"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yeraltı yol"
+                ],
+                "Turkmen": [
+                    "ýerasty ýol"
+                ],
+                "Uyghur": [
+                    "يەر ئاستى يولى"
+                ],
+                "Karakalpak": [
+                    "jer astı jolı"
+                ],
+                "Bashkir": [
+                    "ер аҫты юлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lağım"
+                ],
+                "Azerbaijani": [
+                    "lağım"
+                ],
+                "Uzbek": [
+                    "laqim"
+                ],
+                "Karakalpak": [
+                    "laqım"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өтпе"
+                ],
+                "Kyrgyz": [
+                    "өткөөл"
+                ],
+                "Tatar": [
+                    "үткәүел"
+                ],
+                "Bashkir": [
+                    "үткәүел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geçit"
+                ],
+                "Azerbaijani": [
+                    "keçid"
+                ],
+                "Turkmen": [
+                    "geçelge"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yoʻlak"
+                ],
+                "Kyrgyz": [
+                    "жол"
+                ],
+                "Tatar": [
+                    "юл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gʻor"
+                ],
+                "Uyghur": [
+                    "غار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үңгіржол"
+                ],
+                "Kyrgyz": [
+                    "үңкүр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "лапас"
+                ],
+                "Tatar": [
+                    "лапас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dehliz"
+                ]
+            }
+        }
+    ]
+}
+```
+

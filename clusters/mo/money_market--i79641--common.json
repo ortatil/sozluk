@@ -1,0 +1,119 @@
+{
+    "id": "i79641",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "money market",
+    "en_definition": "a market for short-term debt instruments",
+    "tr_word": "para piyasası",
+    "tr_definition": "kısa vadeli borçlanma araçlarının alınıp satıldığı finansal piyasa",
+    "ru_word": "денежный рынок",
+    "ru_definition": "рынок краткосрочных долговых инструментов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pul bazarı"
+                ],
+                "Turkmen": [
+                    "pul bazary",
+                    "pul meýdançasy"
+                ],
+                "Uzbek": [
+                    "pul bozori"
+                ],
+                "Uyghur": [
+                    "پۇل بازىرى"
+                ],
+                "Tatar": [
+                    "мал базары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ақша нарығы",
+                    "ақша базары"
+                ],
+                "Kyrgyz": [
+                    "акча рыногу",
+                    "акча базары"
+                ],
+                "Karakalpak": [
+                    "aqsha bazarı"
+                ],
+                "Tatar": [
+                    "акча базары"
+                ],
+                "Bashkir": [
+                    "аҡса баҙары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nakit piyasası"
+                ],
+                "Azerbaijani": [
+                    "nəqd bazarı"
+                ],
+                "Uyghur": [
+                    "نەق پۇل بازىرى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sərmayə bazarı"
+                ],
+                "Uzbek": [
+                    "sarmoya bozori"
+                ],
+                "Uyghur": [
+                    "سەرمایە بازىرى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "maliýe bazary"
+                ],
+                "Uzbek": [
+                    "moliya bozori"
+                ],
+                "Bashkir": [
+                    "малиә баҙары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қаржы нарығы"
+                ],
+                "Kyrgyz": [
+                    "каржы базары"
+                ],
+                "Karakalpak": [
+                    "qarjı bazarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "para piyasası"
+                ]
+            }
+        }
+    ]
+}

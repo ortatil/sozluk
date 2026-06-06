@@ -1,0 +1,168 @@
+{
+    "id": "i28679",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "wipe",
+    "en_definition": "rub with a circular motion",
+    "tr_word": "silmek",
+    "tr_definition": "bir yüzeyi bez veya el yardımıyla ovarak temizlemek veya kurulamak",
+    "ru_word": "протирать",
+    "ru_definition": "очищать или сушить поверхность, проводя по ней чем-либо с нажимом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sürtmək"
+                ],
+                "Uzbek": [
+                    "surtmoq"
+                ],
+                "Uyghur": [
+                    "سۈرتمەك"
+                ],
+                "Kazakh": [
+                    "сүрт"
+                ],
+                "Kyrgyz": [
+                    "сүртүү"
+                ],
+                "Karakalpak": [
+                    "súrtio"
+                ],
+                "Tatar": [
+                    "сөртү"
+                ],
+                "Bashkir": [
+                    "һөрөтөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tozalamoq"
+                ],
+                "Kazakh": [
+                    "тазала"
+                ],
+                "Kyrgyz": [
+                    "тазалоо"
+                ],
+                "Karakalpak": [
+                    "tazalao"
+                ],
+                "Bashkir": [
+                    "таҙартыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "artmak"
+                ],
+                "Uzbek": [
+                    "artmoq"
+                ],
+                "Uyghur": [
+                    "ئارچىماق"
+                ],
+                "Kyrgyz": [
+                    "арчуу"
+                ],
+                "Bashkir": [
+                    "арсыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ishqalamoq"
+                ],
+                "Kazakh": [
+                    "ыс",
+                    "ысқыла"
+                ],
+                "Karakalpak": [
+                    "ısqılao"
+                ],
+                "Tatar": [
+                    "ышку"
+                ],
+                "Bashkir": [
+                    "ышҡыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "silmek"
+                ],
+                "Azerbaijani": [
+                    "silmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temizlemek"
+                ],
+                "Azerbaijani": [
+                    "təmizləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ovmak"
+                ],
+                "Azerbaijani": [
+                    "ovmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kurulamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süpürmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "päklemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پاقىراتماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чистарту"
+                ]
+            }
+        }
+    ]
+}

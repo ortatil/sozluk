@@ -1,0 +1,72 @@
+{
+    "id": "i83775",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lappland",
+    "en_definition": "a region in northmost Europe inhabited by Lapps",
+    "tr_word": "Laponya",
+    "tr_definition": "Kuzey Avrupa'da, Laponların yaşadığı en kuzey bölge.",
+    "ru_word": "Лапландия",
+    "ru_definition": "Регион в самой северной части Европы, населенный саамами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Laponya",
+                    "Lapon Bölgesi"
+                ],
+                "Azerbaijani": [
+                    "Laplandiya",
+                    "Laponya"
+                ],
+                "Turkmen": [
+                    "Laplandiýa",
+                    "Lapp ýurdy"
+                ],
+                "Uzbek": [
+                    "Laplandiya",
+                    "Lapplar oʻlkasi"
+                ],
+                "Uyghur": [
+                    "لاپلاند",
+                    "لاپلاندىيە"
+                ],
+                "Kazakh": [
+                    "Лапландия",
+                    "Лапланд өлкесі"
+                ],
+                "Kyrgyz": [
+                    "Лапландия"
+                ],
+                "Karakalpak": [
+                    "Laplandiya",
+                    "Lapland"
+                ],
+                "Tatar": [
+                    "Лапландия"
+                ],
+                "Bashkir": [
+                    "Лапландия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "Саам елі"
+                ],
+                "Kyrgyz": [
+                    "Саам жери"
+                ],
+                "Tatar": [
+                    "Саам җире"
+                ],
+                "Bashkir": [
+                    "Саам иле"
+                ]
+            }
+        }
+    ]
+}

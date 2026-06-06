@@ -1,0 +1,81 @@
+{
+    "id": "i98076",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snowflake",
+    "en_definition": "a crystal of snow",
+    "tr_word": "kar tanesi",
+    "tr_definition": "havadan düşen buz kristallerinden her biri",
+    "ru_word": "снежинка",
+    "ru_definition": "отдельная частица снега в виде ледяного кристалла",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar tanesi",
+                    "kar kristali"
+                ],
+                "Azerbaijani": [
+                    "qar dənəsi",
+                    "qar dənəciyi"
+                ],
+                "Turkmen": [
+                    "gar bölejigi",
+                    "gar dänijigi",
+                    "gar uçguny"
+                ],
+                "Uzbek": [
+                    "qor parchasi",
+                    "qor uchquni"
+                ],
+                "Uyghur": [
+                    "قار دانچىسى",
+                    "قار ئۇچقۇنى",
+                    "قار چېچىكى"
+                ],
+                "Kyrgyz": [
+                    "кар бүртүгү",
+                    "кар учкуну"
+                ],
+                "Karakalpak": [
+                    "qar búrshіgі",
+                    "qar ұlpası"
+                ],
+                "Tatar": [
+                    "кар бөртеге",
+                    "кар чәчәге"
+                ],
+                "Bashkir": [
+                    "ҡар бөртөгө",
+                    "ҡар сәскәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұлпа",
+                    "ұлпа қар"
+                ],
+                "Karakalpak": [
+                    "ұlpa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qar lopağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қашаған"
+                ]
+            }
+        }
+    ]
+}

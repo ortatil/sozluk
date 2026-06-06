@@ -1,0 +1,127 @@
+{
+    "id": "i80904",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "harbor patrol",
+    "en_definition": "patrol of officers who police a harbor area",
+    "tr_word": "liman devriyesi",
+    "tr_definition": "Bir liman bölgesinde asayişi ve güvenliği sağlayan polis veya güvenlik birimi.",
+    "ru_word": "портовый патруль",
+    "ru_definition": "Подразделение полиции или охраны, осуществляющее патрулирование территории и акватории порта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "port gözegçiligi"
+                ],
+                "Uyghur": [
+                    "پورت چارلاش ئەترىتى",
+                    "پورت مۇھاپىزەتچىلىرى"
+                ],
+                "Kazakh": [
+                    "порт күзеті"
+                ],
+                "Kyrgyz": [
+                    "порт күзөтү",
+                    "порт кайтаруу кызматы"
+                ],
+                "Karakalpak": [
+                    "port kúzetі",
+                    "port qaraoılı"
+                ],
+                "Tatar": [
+                    "порт сакчылыгы",
+                    "порт күзәтчелеге"
+                ],
+                "Bashkir": [
+                    "порт һағы",
+                    "порт күзәтеүе",
+                    "порт патруле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "liman devriyesi"
+                ],
+                "Azerbaijani": [
+                    "liman keşiyi",
+                    "liman mühafizəsi",
+                    "liman patrulu",
+                    "liman asayişi"
+                ],
+                "Turkmen": [
+                    "liman goragy",
+                    "liman gözegçiligi"
+                ],
+                "Uzbek": [
+                    "liman qoʻriqchilari"
+                ],
+                "Tatar": [
+                    "лиман сакчылыгы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bandargoh qoʻriqchilari",
+                    "bandargoh nazorati"
+                ],
+                "Uyghur": [
+                    "بەندەر چارلاش ئەترىتى"
+                ],
+                "Karakalpak": [
+                    "bándergi kúzetі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "liman muhafaza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deniz polisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sahil güvenlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suv yoʻli posbonlari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айлақ күзеті",
+                    "айлақ патрулі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кеме токтоочу жайдын күзөтү"
+                ]
+            }
+        }
+    ]
+}

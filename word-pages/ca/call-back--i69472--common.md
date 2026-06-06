@@ -1,0 +1,117 @@
+# Call-back
+| Field | Detail |
+|---|---|
+| **ID** | i69472 |
+| **English** | call-back |
+| **Type** | noun |
+| **Definition** | a return call |
+| **Source** | common |
+| **Ortatil** | iädeiziyäret |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i69472",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "call-back",
+    "en_definition": "a return call",
+    "tr_word": "geri arama",
+    "tr_definition": "bir telefon çağrısına karşılık olarak yapılan geri dönüş araması",
+    "ru_word": "обратный звонок",
+    "ru_definition": "ответный телефонный вызов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtargy jaň"
+                ],
+                "Uzbek": [
+                    "qayta qo'ng'iroq"
+                ],
+                "Uyghur": [
+                    "قايتا تېلېفون قىلىش",
+                    "قايتۇرما تېلېفون"
+                ],
+                "Kazakh": [
+                    "қайта қоңырау шалу"
+                ],
+                "Kyrgyz": [
+                    "кайра чалуу"
+                ],
+                "Karakalpak": [
+                    "qayta qońırau",
+                    "qayta shaqırıs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geri arama",
+                    "karşı arama"
+                ],
+                "Azerbaijani": [
+                    "geri zəng"
+                ],
+                "Kazakh": [
+                    "кері қоңырау"
+                ],
+                "Tatar": [
+                    "кире шалтырату"
+                ],
+                "Bashkir": [
+                    "кире шылтыратыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cavab zəngi"
+                ],
+                "Uzbek": [
+                    "javob qo'ng'irog'i"
+                ],
+                "Kazakh": [
+                    "жауапты қоңырау"
+                ],
+                "Tatar": [
+                    "җавап шалтыратуы"
+                ],
+                "Bashkir": [
+                    "яуап шылтыратыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iadeiziyaret"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzyna jaň"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жооп иретинде чалуу"
+                ]
+            }
+        }
+    ]
+}
+```
+

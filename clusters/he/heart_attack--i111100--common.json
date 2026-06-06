@@ -1,0 +1,79 @@
+{
+    "id": "i111100",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "heart attack",
+    "en_definition": "a sudden severe instance of abnormal heart function",
+    "tr_word": "kalp krizi",
+    "tr_definition": "kalp fonksiyonlarının aniden ve ciddi şekilde bozulması durumu",
+    "ru_word": "сердечный приступ",
+    "ru_definition": "внезапное серьезное нарушение нормальной работы сердца",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ürək tutması",
+                    "ürək dayanması"
+                ],
+                "Turkmen": [
+                    "ýürek agyrysy",
+                    "ýürek tutmasy",
+                    "ýürek keseli"
+                ],
+                "Uzbek": [
+                    "yurak xuruji",
+                    "yurak toʻxtashi",
+                    "yurak xastaligi"
+                ],
+                "Uyghur": [
+                    "يۈرەك تۇتۇش",
+                    "يۈرەك كېسىلى قوزغىلىش",
+                    "يۈرەك سىقىلىش"
+                ],
+                "Kazakh": [
+                    "жүрек талмасы",
+                    "жүрек ұстамасы",
+                    "жүрек тоқтауы"
+                ],
+                "Kyrgyz": [
+                    "жүрөк кармоо",
+                    "жүрөк токтоо",
+                    "жүрөк оорусу"
+                ],
+                "Karakalpak": [
+                    "júrek talması",
+                    "júrek toqtauı"
+                ],
+                "Tatar": [
+                    "йөрәк өянәге",
+                    "йөрәк туктавы",
+                    "йөрәк какшавы"
+                ],
+                "Bashkir": [
+                    "йөрәк өйәнәге",
+                    "йөрәк туҡтауы",
+                    "йөрәк ҡабыныуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "enfarktüs"
+                ],
+                "Azerbaijani": [
+                    "infarkt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kalp krizi",
+                    "kalp sektesi"
+                ]
+            }
+        }
+    ]
+}

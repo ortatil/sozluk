@@ -1,0 +1,86 @@
+{
+    "id": "i52289",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "consulate",
+    "en_definition": "diplomatic building that serves as the residence or workplace of a consul",
+    "tr_word": "konsolosluk",
+    "tr_definition": "Bir konsolosun makamı ve bu makamın bulunduğu bina.",
+    "ru_word": "консульство",
+    "ru_definition": "Дипломатическое представительство, возглавляемое консулом, а также здание, в котором оно располагается.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konsolosluk"
+                ],
+                "Azerbaijani": [
+                    "konsulluq",
+                    "konsulxana"
+                ],
+                "Turkmen": [
+                    "konsulhana"
+                ],
+                "Uzbek": [
+                    "konsulxona",
+                    "konsullik"
+                ],
+                "Uyghur": [
+                    "كونسۇلخانا",
+                    "كونسۇل مەھكىمىسى"
+                ],
+                "Kazakh": [
+                    "консулдық"
+                ],
+                "Kyrgyz": [
+                    "консулдук"
+                ],
+                "Karakalpak": [
+                    "konsulxana",
+                    "konsullıq"
+                ],
+                "Tatar": [
+                    "консуллык"
+                ],
+                "Bashkir": [
+                    "консуллыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "wekiliýethana"
+                ],
+                "Bashkir": [
+                    "вәкиллек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өкілдік"
+                ],
+                "Kyrgyz": [
+                    "өкүлчүлүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şehbenderlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "илчелек"
+                ]
+            }
+        }
+    ]
+}

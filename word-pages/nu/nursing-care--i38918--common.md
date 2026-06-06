@@ -1,0 +1,231 @@
+# Nursing care
+| Field | Detail |
+|---|---|
+| **ID** | i38918 |
+| **English** | nursing care |
+| **Type** | noun |
+| **Definition** | care by a skilled nurse |
+| **Source** | common |
+| **Ortatil** | kütüm |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kütüm** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.10** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كۈتۈنۈش | kütünüş |
+| پەرۋىش | pärviş |
+| **Kazakh** | |
+| күтім | kütim |
+| күту | kütu |
+| ем-дом | yem-dom |
+| **Kyrgyz** | |
+| күтүм | kütüm |
+| багуу | baguu |
+| **Bashkir** | |
+| тәрбиәләү | tärbiäläü |
+| ҡарау | qarau |
+
+```json
+{
+    "id": "i38918",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nursing care",
+    "en_definition": "care by a skilled nurse",
+    "tr_word": "hemşirelik bakımı",
+    "tr_definition": "uzman bir hemşire tarafından sağlanan tıbbi bakım",
+    "ru_word": "сестринский уход",
+    "ru_definition": "уход, осуществляемый квалифицированной медицинской сестрой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كۈتۈنۈش"
+                ],
+                "Kazakh": [
+                    "күтім",
+                    "күту"
+                ],
+                "Kyrgyz": [
+                    "күтүм"
+                ],
+                "Karakalpak": [
+                    "kútim"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tıbbi bakım"
+                ],
+                "Azerbaijani": [
+                    "tibb bacısı qulluğu",
+                    "tibb bacısı xidməti",
+                    "tibb bacısı nəzarəti"
+                ],
+                "Uzbek": [
+                    "tibbiy parvarish"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şepagatçylyk hyzmaty",
+                    "şepagatçylyk idegi"
+                ],
+                "Tatar": [
+                    "шәфкать туташы тәрбиясе",
+                    "шәфкать туташы каравы"
+                ],
+                "Bashkir": [
+                    "шәфҡәт туташы тәрбиәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "medicinalıq kútim"
+                ],
+                "Tatar": [
+                    "медицина тәрбиясе"
+                ],
+                "Bashkir": [
+                    "медицина тәрбиәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hemşirelik bakımı"
+                ],
+                "Uzbek": [
+                    "hamshiralik parvarishi",
+                    "hamshiralik xizmati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hasta bakımı"
+                ],
+                "Azerbaijani": [
+                    "xəstə baxımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "saglyk idegi"
+                ],
+                "Uyghur": [
+                    "ساقلىقنى ساقلاش پەرۋىشى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мейірбикелік күтім"
+                ],
+                "Karakalpak": [
+                    "naqas kútimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پەرۋىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېسەل پەرۋىشى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ем-дом"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "багуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кам көрүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дарыгердик күтүм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "авыруны карау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәрбиәләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡарау"
+                ]
+            }
+        }
+    ]
+}
+```
+

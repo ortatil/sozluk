@@ -1,0 +1,89 @@
+{
+    "id": "i78501",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "corn syrup",
+    "en_definition": "syrup prepared from corn",
+    "tr_word": "mısır şurubu",
+    "tr_definition": "Mısır nişastasından elde edilen, gıda sanayisinde yaygın olarak kullanılan tatlı bir şurup.",
+    "ru_word": "кукурузный сироп",
+    "ru_definition": "Сироп, изготовленный из кукурузного крахмала, используемый в пищевой промышленности в качестве подсластителя.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mekgejöwen şiresi",
+                    "mekgejöwen şerbeti"
+                ],
+                "Uzbek": [
+                    "makkajoʻxori qiyomi",
+                    "makkajoʻxori sharbati",
+                    "makkajoʻxori patokasi"
+                ],
+                "Tatar": [
+                    "мәккәй ширбәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жүгері шәрбаты",
+                    "жүгері шырыны"
+                ],
+                "Kyrgyz": [
+                    "жүгөрү ширеси",
+                    "жүгөрү сиробу",
+                    "жүгөрү патокасы"
+                ],
+                "Karakalpak": [
+                    "júgeri shárbáti",
+                    "júgeri qıyamı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mısır şurubu",
+                    "mısır nişastası şurubu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarğıdalı şərbəti",
+                    "qarğıdalı şirəsi",
+                    "qarğıdalı bəhməzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوناق شەربىتى",
+                    "قوناق قىيامى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күмәй ширбәте",
+                    "күмәй сиробы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "кукуруз шәрбәте",
+                    "кукуруз сиробы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "i37945",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "musical chairs",
+    "en_definition": "a child's game in which players march to music around a group of chairs that contains one chair less than the number of players; when the music abruptly stops the players scramble to sit and the player who does not find a chair is eliminated; then a chair is removed and the march resumes until only the winner is seated",
+    "tr_word": "sandalye kapmaca",
+    "tr_definition": "Oyuncuların müzik eşliğinde dizili sandalyelerin etrafında döndüğü, müzik durduğunda boşta kalanın elendiği bir çocuk oyunu.",
+    "ru_word": "музыкальные стулья",
+    "ru_definition": "Детская игра, в которой участники ходят вокруг стульев под музыку, а когда она смолкает, должны успеть сесть; не успевший — выбывает.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئورۇندۇق تالىشىش ئويۇنى",
+                    "ئورۇندۇق تالىشىش"
+                ],
+                "Kazakh": [
+                    "орындық ойыны",
+                    "орындық алу"
+                ],
+                "Kyrgyz": [
+                    "орун талашуу"
+                ],
+                "Karakalpak": [
+                    "orındıq oyını"
+                ],
+                "Tatar": [
+                    "урындык уены",
+                    "урындыклы уен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "stul oyunu",
+                    "stul qaçdı"
+                ],
+                "Turkmen": [
+                    "stul oýny",
+                    "stul gapma-gap"
+                ],
+                "Uzbek": [
+                    "stul bilan oʻyin",
+                    "stul atrofida oʻyin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "musiqili stullar"
+                ],
+                "Uzbek": [
+                    "musiqali stullar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бос орын"
+                ],
+                "Karakalpak": [
+                    "bos orın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sandalye kapmaca",
+                    "sandalye kapma oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "отургуч оюну"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ултырғыш алыш",
+                    "ултырғыш уйыны"
+                ]
+            }
+        }
+    ]
+}

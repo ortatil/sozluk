@@ -1,0 +1,172 @@
+{
+    "id": "i81525",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "data",
+    "en_definition": "a collection of facts from which conclusions may be drawn",
+    "tr_word": "veri",
+    "tr_definition": "sonuç çıkarılabilecek gerçeklerin bir koleksiyonu",
+    "ru_word": "данные",
+    "ru_definition": "совокупность фактов, на основе которых можно сделать выводы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "malumat"
+                ],
+                "Azerbaijani": [
+                    "məlumat"
+                ],
+                "Turkmen": [
+                    "maglumat"
+                ],
+                "Uzbek": [
+                    "ma'lumot"
+                ],
+                "Uyghur": [
+                    "مەلۇمات"
+                ],
+                "Kazakh": [
+                    "мәлімет"
+                ],
+                "Kyrgyz": [
+                    "маалымат"
+                ],
+                "Karakalpak": [
+                    "maǵlıumat"
+                ],
+                "Tatar": [
+                    "мәгълүмат"
+                ],
+                "Bashkir": [
+                    "мәғлүмәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дерек"
+                ],
+                "Kyrgyz": [
+                    "дерек"
+                ],
+                "Karakalpak": [
+                    "derek"
+                ],
+                "Bashkir": [
+                    "дерек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilgi"
+                ],
+                "Azerbaijani": [
+                    "bilgi"
+                ],
+                "Karakalpak": [
+                    "bilgi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "faktlar"
+                ],
+                "Turkmen": [
+                    "fakt"
+                ],
+                "Uyghur": [
+                    "پاكىت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "delil"
+                ],
+                "Uzbek": [
+                    "dalil"
+                ],
+                "Uyghur": [
+                    "دەلىل"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "кабар"
+                ],
+                "Tatar": [
+                    "хәбәр"
+                ],
+                "Bashkir": [
+                    "хәбәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "veri"
+                ],
+                "Azerbaijani": [
+                    "verilənlər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "axborot"
+                ],
+                "Kazakh": [
+                    "ақпарат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "белешмә"
+                ],
+                "Bashkir": [
+                    "белешмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doneler"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "баяндама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سان-سىپىر"
+                ]
+            }
+        }
+    ]
+}

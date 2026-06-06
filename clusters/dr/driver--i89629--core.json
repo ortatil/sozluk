@@ -1,0 +1,132 @@
+{
+    "id": "i89629",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "driver",
+    "en_definition": "the operator of a motor vehicle",
+    "tr_word": "sürücü",
+    "tr_definition": "motorlu bir taşıtı kullanan kimse",
+    "ru_word": "водитель",
+    "ru_definition": "человек, управляющий транспортным средством",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürücü"
+                ],
+                "Azerbaijani": [
+                    "sürücü"
+                ],
+                "Turkmen": [
+                    "sürüji"
+                ],
+                "Tatar": [
+                    "сөрүче"
+                ],
+                "Bashkir": [
+                    "сөртөүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жүргізуші"
+                ],
+                "Karakalpak": [
+                    "júrgіzushі"
+                ],
+                "Tatar": [
+                    "йөртүче"
+                ],
+                "Bashkir": [
+                    "йөрөтөүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "haydovchi"
+                ],
+                "Uyghur": [
+                    "ھەيدىگۈچى"
+                ],
+                "Kyrgyz": [
+                    "айдоочу"
+                ],
+                "Karakalpak": [
+                    "aydaushı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şoför"
+                ],
+                "Uyghur": [
+                    "شوپۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "randa"
+                ],
+                "Uyghur": [
+                    "رانەندە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ulagçy"
+                ],
+                "Uzbek": [
+                    "sohibi ulov"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sükançı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлікші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұлпаршы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башкаруучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "arobakash"
+                ]
+            }
+        }
+    ]
+}

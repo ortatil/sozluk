@@ -1,0 +1,108 @@
+{
+    "id": "i26295",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "spell out",
+    "en_definition": "orally recite the letters of or give the spelling of",
+    "tr_word": "harf harf söylemek",
+    "tr_definition": "bir kelimeyi oluşturan harfleri sırasıyla ve tek tek telaffuz etmek",
+    "ru_word": "произносить по буквам",
+    "ru_definition": "называть буквы слова по порядку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harf harf söylemek"
+                ],
+                "Azerbaijani": [
+                    "hərfləmək",
+                    "hərf-hərf demək"
+                ],
+                "Turkmen": [
+                    "harplamak",
+                    "harpma-harp aýtmak"
+                ],
+                "Uzbek": [
+                    "harflab aytmoq",
+                    "harfma-harf aytmoq"
+                ],
+                "Uyghur": [
+                    "ھەرپلەپ ئوقۇماق",
+                    "ھەرپلەپ ئېيتماق",
+                    "ھەرپلەپ يازماق"
+                ],
+                "Karakalpak": [
+                    "háriplep aytıo",
+                    "háriplep oqıo",
+                    "háriplep berio"
+                ],
+                "Tatar": [
+                    "хәрефләп әйтү",
+                    "хәрефләп уку"
+                ],
+                "Bashkir": [
+                    "хәрефләп әйтеү",
+                    "хәрефләп уҡыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hecelemek"
+                ],
+                "Azerbaijani": [
+                    "hecalamaq"
+                ],
+                "Uzbek": [
+                    "hijjalab aytmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңбалап айту"
+                ],
+                "Kyrgyz": [
+                    "тамгалап айтуу",
+                    "тамгалап окуу",
+                    "тамгалоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "имлясын әйтү"
+                ],
+                "Bashkir": [
+                    "имләләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kodlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әріптеп айту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дыбыстап айту"
+                ]
+            }
+        }
+    ]
+}

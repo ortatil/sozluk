@@ -1,0 +1,84 @@
+{
+    "id": "i48131",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "three-year-old horse",
+    "en_definition": "a racehorse that is three years old",
+    "tr_word": "üç yaşlı at",
+    "tr_definition": "Üç yaşında olan yarış atı",
+    "ru_word": "трёхлетка",
+    "ru_definition": "Скаковая лошадь в возрасте трёх лет",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "guwan"
+                ],
+                "Uzbek": [
+                    "g'unan"
+                ],
+                "Uyghur": [
+                    "قۇنان",
+                    "قۇنان ئات"
+                ],
+                "Kazakh": [
+                    "құнан",
+                    "құнан ат"
+                ],
+                "Kyrgyz": [
+                    "кунан",
+                    "кунан байтал"
+                ],
+                "Tatar": [
+                    "конан",
+                    "конан-ат"
+                ],
+                "Bashkir": [
+                    "ҡонан",
+                    "ҡонан ат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üç yaşlı",
+                    "üç yaşında at"
+                ],
+                "Azerbaijani": [
+                    "üçyaşar",
+                    "üçyaşar at"
+                ],
+                "Turkmen": [
+                    "üçýaşar"
+                ],
+                "Uzbek": [
+                    "uch yashar ot"
+                ],
+                "Tatar": [
+                    "өч яшьлек ат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tay"
+                ],
+                "Azerbaijani": [
+                    "dayça"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dónen",
+                    "dónen at"
+                ]
+            }
+        }
+    ]
+}

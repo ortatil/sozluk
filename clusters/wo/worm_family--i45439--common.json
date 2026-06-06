@@ -1,0 +1,74 @@
+{
+    "id": "i45439",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "worm family",
+    "en_definition": "a family of worms",
+    "tr_word": "solucan familyası",
+    "tr_definition": "solucanlardan oluşan bir familya",
+    "ru_word": "семейство червей",
+    "ru_definition": "семейство, состоящее из червей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qurdlar fəsiləsi"
+                ],
+                "Turkmen": [
+                    "gurtlar",
+                    "gurçuklar"
+                ],
+                "Uzbek": [
+                    "qurtlar oilasi"
+                ],
+                "Uyghur": [
+                    "قۇرتلار ئائىلىسى",
+                    "قۇرتلار تۈركۈمى"
+                ],
+                "Kazakh": [
+                    "құрттар тұқымдасы",
+                    "құрттар әулеті"
+                ],
+                "Kyrgyz": [
+                    "курттар",
+                    "курт-кумурскалар"
+                ],
+                "Karakalpak": [
+                    "qurtlar",
+                    "qurt-qumırsqalar"
+                ],
+                "Tatar": [
+                    "кортлар"
+                ],
+                "Bashkir": [
+                    "ҡорттар ғаиләһе",
+                    "ҡорттар нәҫеле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "solucanlar",
+                    "solucan ailesi",
+                    "solucan takımı"
+                ],
+                "Azerbaijani": [
+                    "soxulcanlar fəsiləsi"
+                ],
+                "Tatar": [
+                    "суалчаннар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chuvalchanglar oilasi"
+                ]
+            }
+        }
+    ]
+}

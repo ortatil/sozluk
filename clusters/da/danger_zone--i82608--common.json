@@ -1,0 +1,122 @@
+{
+    "id": "i82608",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "danger zone",
+    "en_definition": "a dangerous area",
+    "tr_word": "tehlike bölgesi",
+    "tr_definition": "tehlikeli bir alan veya durum",
+    "ru_word": "опасная зона",
+    "ru_definition": "территория или область, представляющая угрозу безопасности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xatarli joy"
+                ],
+                "Uyghur": [
+                    "خەتەرلىك رايون",
+                    "خەتەرلىك جاي"
+                ],
+                "Kazakh": [
+                    "қатерлі аймақ",
+                    "қатерлі орын"
+                ],
+                "Karakalpak": [
+                    "qáterli maydan"
+                ],
+                "Tatar": [
+                    "хәтәр урын"
+                ],
+                "Bashkir": [
+                    "хәтәр урын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qorxulu yer"
+                ],
+                "Kyrgyz": [
+                    "коркунучтуу аймак",
+                    "коркунучтуу жер"
+                ],
+                "Tatar": [
+                    "куркыныч зона",
+                    "куркыныч өлкә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xavf maydoni"
+                ],
+                "Uyghur": [
+                    "خەۋپلىك رايون"
+                ],
+                "Bashkir": [
+                    "хәүефле урын",
+                    "хәүефле төбәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tehlike bölgesi",
+                    "tehlikeli alan",
+                    "tehlike mahalli"
+                ],
+                "Azerbaijani": [
+                    "təhlükəli zona",
+                    "təhlükəli ərazi",
+                    "təhlükəli məkan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howply zolak",
+                    "howply meýdan",
+                    "howply ýer"
+                ],
+                "Uzbek": [
+                    "xavfli hudud"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қауіпті аймақ",
+                    "қауіпті өңір"
+                ],
+                "Karakalpak": [
+                    "qáuipli aymaq",
+                    "qáuipli orın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "riskli bölge"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кооптуу аймак",
+                    "кооптуу жер"
+                ]
+            }
+        }
+    ]
+}

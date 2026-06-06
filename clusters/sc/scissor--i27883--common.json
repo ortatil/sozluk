@@ -1,0 +1,107 @@
+{
+    "id": "i27883",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "scissor",
+    "en_definition": "cut with or as if with scissors",
+    "tr_word": "makaslamak",
+    "tr_definition": "makasla veya makas benzeri bir aletle kesmek",
+    "ru_word": "разрезать ножницами",
+    "ru_definition": "резать или вырезать что-либо с помощью ножниц",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qayçılaq",
+                    "qayçı ilə kəsmək"
+                ],
+                "Turkmen": [
+                    "gaýçylamak"
+                ],
+                "Uzbek": [
+                    "qaychilamoq"
+                ],
+                "Uyghur": [
+                    "قايچىلىماق",
+                    "قايچا بىلەن كەسمەك"
+                ],
+                "Kazakh": [
+                    "қию"
+                ],
+                "Kyrgyz": [
+                    "кайчылоо"
+                ],
+                "Karakalpak": [
+                    "qayshılao",
+                    "qiyıo"
+                ],
+                "Tatar": [
+                    "кайчылау"
+                ],
+                "Bashkir": [
+                    "ҡайсылау",
+                    "ҡайсы менән киҫеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kırpmak",
+                    "kesmek"
+                ],
+                "Turkmen": [
+                    "kesmek"
+                ],
+                "Uzbek": [
+                    "kesmoq"
+                ],
+                "Kazakh": [
+                    "кесу"
+                ],
+                "Kyrgyz": [
+                    "кесүү"
+                ],
+                "Karakalpak": [
+                    "kesio"
+                ],
+                "Tatar": [
+                    "кисү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyrkmak"
+                ],
+                "Uzbek": [
+                    "qirqmoq"
+                ],
+                "Kazakh": [
+                    "қырқу"
+                ],
+                "Kyrgyz": [
+                    "кыркуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "makaslamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "doğramaq"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "id": "i52320",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "conveyer belt",
+    "en_definition": "a moving belt that transports objects (as in a factory)",
+    "tr_word": "konveyör bandı",
+    "tr_definition": "Fabrika veya havaalanı gibi yerlerde nesneleri bir yerden başka bir yere taşımak için kullanılan hareketli bant.",
+    "ru_word": "конвейерная лента",
+    "ru_definition": "Движущаяся гибкая лента, предназначенная для перемещения грузов или изделий.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşıyıcı"
+                ],
+                "Azerbaijani": [
+                    "daşıyıcı"
+                ],
+                "Turkmen": [
+                    "daşaýjy"
+                ],
+                "Uzbek": [
+                    "tashuvchi"
+                ],
+                "Kazakh": [
+                    "тасымалдауыш",
+                    "тасығыш"
+                ],
+                "Kyrgyz": [
+                    "ташыгыч"
+                ],
+                "Karakalpak": [
+                    "tasıǵısh"
+                ],
+                "Tatar": [
+                    "тасма"
+                ],
+                "Bashkir": [
+                    "ташығыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konveyör"
+                ],
+                "Azerbaijani": [
+                    "konveyer"
+                ],
+                "Turkmen": [
+                    "konweýer"
+                ],
+                "Uzbek": [
+                    "konveyer"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yürüyen bant"
+                ],
+                "Tatar": [
+                    "йөрткеч"
+                ],
+                "Bashkir": [
+                    "йөрөткөс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жылжымалы таспа"
+                ],
+                "Kyrgyz": [
+                    "жылдыргыч"
+                ],
+                "Karakalpak": [
+                    "jıljımalı belbeu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ötürücü"
+                ],
+                "Kyrgyz": [
+                    "өткөргүч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۆتكەش تاسمىسى"
+                ],
+                "Karakalpak": [
+                    "jetkergish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күчергеч"
+                ],
+                "Bashkir": [
+                    "күсергес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bant"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nakil kuşağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "geçiriji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uzatgich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توشۇش تاسمىسى",
+                    "توشۇغۇچى بەلباغ"
+                ]
+            }
+        }
+    ]
+}

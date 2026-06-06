@@ -1,0 +1,134 @@
+{
+    "id": "i19070",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "offshore",
+    "en_definition": "away from shore; away from land",
+    "tr_word": "açıkta",
+    "tr_definition": "kıyıdan uzakta, denizin açıklarında",
+    "ru_word": "в открытом море",
+    "ru_definition": "вдали от берега; по направлению от суши в море",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açıkta"
+                ],
+                "Azerbaijani": [
+                    "açıq dənizdə"
+                ],
+                "Turkmen": [
+                    "açyk deňizde"
+                ],
+                "Uzbek": [
+                    "ochiq dengizda"
+                ],
+                "Karakalpak": [
+                    "ashıq teńizde"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz açıklarında"
+                ],
+                "Uyghur": [
+                    "دېڭىز تەرەپتە"
+                ],
+                "Kazakh": [
+                    "теңіз жақта"
+                ],
+                "Tatar": [
+                    "диңгез эчендә"
+                ],
+                "Bashkir": [
+                    "диңгеҙгә табан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahilden uzakta"
+                ],
+                "Azerbaijani": [
+                    "sahildən uzaq",
+                    "sahildən kənarda"
+                ],
+                "Uzbek": [
+                    "sohildan uzoqda"
+                ],
+                "Uyghur": [
+                    "ساھىلدىن يىراق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жағадан алыс"
+                ],
+                "Kyrgyz": [
+                    "жээктен алыс",
+                    "жээктен узак",
+                    "жээктен сырткары"
+                ],
+                "Karakalpak": [
+                    "jaǵadan alıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qirg'oqdan uzoqda"
+                ],
+                "Uyghur": [
+                    "قىرغاقتىن يىراق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "су бетінде"
+                ],
+                "Karakalpak": [
+                    "su ortasında"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ярдан ерак",
+                    "ярдан читтә"
+                ],
+                "Bashkir": [
+                    "ярҙан алыҫ",
+                    "ярҙан ситтә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kıyıdan uzakta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kenardan uzakda",
+                    "kenardan daşda"
+                ]
+            }
+        }
+    ]
+}

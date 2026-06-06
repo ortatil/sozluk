@@ -1,0 +1,125 @@
+{
+    "id": "i76552",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fresh food",
+    "en_definition": "food that is not preserved by canning or dehydration or freezing or smoking",
+    "tr_word": "taze gıda",
+    "tr_definition": "konserve, kurutma, dondurma veya tütsüleme gibi yöntemlerle korunmamış yiyecek",
+    "ru_word": "свежие продукты",
+    "ru_definition": "пища, которая не была законсервирована, высушена, заморожена или копчена",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taze gıda",
+                    "taze yiyecek",
+                    "taze besin"
+                ],
+                "Azerbaijani": [
+                    "təzə qida",
+                    "təzə xörək",
+                    "təzə yemək"
+                ],
+                "Turkmen": [
+                    "täze iýmit",
+                    "täze nahar"
+                ],
+                "Uyghur": [
+                    "تېز يېمەكلىك"
+                ],
+                "Kyrgyz": [
+                    "таза азык"
+                ],
+                "Karakalpak": [
+                    "taza azıq-aoqat",
+                    "taza taǵam"
+                ],
+                "Tatar": [
+                    "таза ашамлык"
+                ],
+                "Bashkir": [
+                    "таҙа аҙыҡ",
+                    "таҙа ризыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yangi taom",
+                    "yangi ovqat",
+                    "yangi pishirilgan ovqat"
+                ],
+                "Uyghur": [
+                    "يېڭى تائام"
+                ],
+                "Kazakh": [
+                    "жаңа піскен ас"
+                ],
+                "Kyrgyz": [
+                    "жаңы тамак",
+                    "жаңы азык"
+                ],
+                "Tatar": [
+                    "яңа ризык",
+                    "яңа ашамлык"
+                ],
+                "Bashkir": [
+                    "яңы аҙыҡ",
+                    "яңы ризыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жас тағам"
+                ],
+                "Karakalpak": [
+                    "jas azıq-aoqat",
+                    "jas taǵam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ter iýmit",
+                    "ter önümler"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sarxil taom"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېڭى يېمەكلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "балғын ас",
+                    "балғын тамақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "саф ризык"
+                ]
+            }
+        }
+    ]
+}

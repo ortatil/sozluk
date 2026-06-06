@@ -1,0 +1,122 @@
+{
+    "id": "i11195",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "roundish",
+    "en_definition": "somewhat round in appearance or form",
+    "tr_word": "yuvarlağımsı",
+    "tr_definition": "görünüş veya biçim olarak tam yuvarlak olmayan ama yuvarlağa yakın olan",
+    "ru_word": "округлый",
+    "ru_definition": "имеющий не совсем круглую, но близкую к ней форму",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yuvarlakça",
+                    "toparlak",
+                    "yuvarlağımsı"
+                ],
+                "Azerbaijani": [
+                    "yumruca",
+                    "yumrumtıl"
+                ],
+                "Uzbek": [
+                    "dumaloqroq",
+                    "yumaloqroq"
+                ],
+                "Uyghur": [
+                    "يۇمىلاقراق",
+                    "يۇمىلاقسىمان"
+                ],
+                "Kazakh": [
+                    "жұмыр",
+                    "домалақтау"
+                ],
+                "Kyrgyz": [
+                    "жумуру"
+                ],
+                "Karakalpak": [
+                    "jumırsha"
+                ],
+                "Tatar": [
+                    "йомрыча",
+                    "йомрыланган"
+                ],
+                "Bashkir": [
+                    "йоморо",
+                    "йомороса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tegelekräk",
+                    "togalak",
+                    "togalakrak",
+                    "togalakja"
+                ],
+                "Kazakh": [
+                    "дөңгелектеу",
+                    "доғал"
+                ],
+                "Kyrgyz": [
+                    "тогологураак",
+                    "тоголок сымал"
+                ],
+                "Karakalpak": [
+                    "dóńgelekshe"
+                ],
+                "Tatar": [
+                    "түгәрәкчә",
+                    "түгәрәкләнгән"
+                ],
+                "Bashkir": [
+                    "түңәрәк",
+                    "түңәрәкһеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "değirmi"
+                ],
+                "Azerbaijani": [
+                    "dəyirmi",
+                    "dəyirmicə"
+                ],
+                "Uyghur": [
+                    "تەگىرمەنرەك"
+                ],
+                "Kyrgyz": [
+                    "тегерегирээк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "doirasimon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "halqasimon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tomarsha"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "id": "i16369",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "menstrual",
+    "en_definition": "of or relating to menstruation or the menses",
+    "tr_word": "menstrüel",
+    "tr_definition": "Adet görme veya menstrüasyon ile ilgili olan",
+    "ru_word": "менструальный",
+    "ru_definition": "Относящийся к менструации или связанный с ней",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayız"
+                ],
+                "Azerbaijani": [
+                    "heyiz"
+                ],
+                "Turkmen": [
+                    "haýyz"
+                ],
+                "Uzbek": [
+                    "hayzga oid",
+                    "hayziy"
+                ],
+                "Uyghur": [
+                    "ھەيزگە ئائىت"
+                ],
+                "Kazakh": [
+                    "хайыз"
+                ],
+                "Karakalpak": [
+                    "hayız"
+                ],
+                "Tatar": [
+                    "хәез"
+                ],
+                "Bashkir": [
+                    "хәйез"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aybaşı"
+                ],
+                "Azerbaijani": [
+                    "aybaşı",
+                    "aylıq"
+                ],
+                "Turkmen": [
+                    "aýbaşy"
+                ],
+                "Uzbek": [
+                    "oy ko'rishga oid"
+                ],
+                "Kazakh": [
+                    "айлық"
+                ],
+                "Kyrgyz": [
+                    "айыздык"
+                ],
+                "Karakalpak": [
+                    "aylıq"
+                ],
+                "Bashkir": [
+                    "айлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئادەتكە مۇناسىۋەتلىك"
+                ],
+                "Kyrgyz": [
+                    "этек кирдик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قائىدەلىك"
+                ],
+                "Tatar": [
+                    "гадәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күрем"
+                ],
+                "Bashkir": [
+                    "күрем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "regl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "menstrüel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "етеккір"
+                ]
+            }
+        }
+    ]
+}

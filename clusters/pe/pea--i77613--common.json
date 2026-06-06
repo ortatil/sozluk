@@ -1,0 +1,123 @@
+{
+    "id": "i77613",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pea",
+    "en_definition": "seed of a pea plant used for food",
+    "tr_word": "bezelye",
+    "tr_definition": "Baklagillerden, tırmanıcı bir bitki ve bu bitkinin besin olarak kullanılan yuvarlak tanesi.",
+    "ru_word": "горох",
+    "ru_definition": "Травянистое растение семейства бобовых, а также его круглые семена, употребляемые в пищу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "noxud"
+                ],
+                "Turkmen": [
+                    "nohut",
+                    "noýba"
+                ],
+                "Uzbek": [
+                    "no'xat"
+                ],
+                "Uyghur": [
+                    "نوقۇت"
+                ],
+                "Karakalpak": [
+                    "noqat"
+                ],
+                "Bashkir": [
+                    "ноҡот"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بۇغدايىق"
+                ],
+                "Kazakh": [
+                    "бұршақ"
+                ],
+                "Kyrgyz": [
+                    "буурчак"
+                ],
+                "Bashkir": [
+                    "борсаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көк буурчак"
+                ],
+                "Tatar": [
+                    "күк борчак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "búrshaq"
+                ],
+                "Tatar": [
+                    "борчак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bezelye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bakla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "küşne"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yaşıl noxud"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mərci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mosh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "асбұршақ"
+                ]
+            }
+        }
+    ]
+}

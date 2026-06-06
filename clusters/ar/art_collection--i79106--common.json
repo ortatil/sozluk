@@ -1,0 +1,116 @@
+{
+    "id": "i79106",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "art collection",
+    "en_definition": "a collection of art works",
+    "tr_word": "sanat koleksiyonu",
+    "tr_definition": "bir araya getirilmiş sanat eserleri topluluğu",
+    "ru_word": "коллекция произведений искусства",
+    "ru_definition": "собрание произведений искусства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanat koleksiyonu",
+                    "sanat derlemi"
+                ],
+                "Azerbaijani": [
+                    "sənət kolleksiyası",
+                    "sənət məcmusu"
+                ],
+                "Turkmen": [
+                    "sungat ýygyndysy",
+                    "sungat kolleksiýasy"
+                ],
+                "Uzbek": [
+                    "san'at to'plami",
+                    "san'at majmuasi",
+                    "san'at xazinasi"
+                ],
+                "Uyghur": [
+                    "سەنئەت توپلىمى",
+                    "سەنئەت ئەسەرلىرى توپلىمى",
+                    "سەنئەت خەزىنىسى"
+                ],
+                "Tatar": [
+                    "сәнгать җыелмасы",
+                    "сәнгать коллекциясе",
+                    "сәнгать хәзинәсе"
+                ],
+                "Bashkir": [
+                    "сәнғәт йыйылмаһы",
+                    "сәнғәт коллекцияһы",
+                    "сәнғәт хазинаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eser koleksiyonu"
+                ],
+                "Turkmen": [
+                    "eserler toplumy"
+                ],
+                "Kazakh": [
+                    "өнер топтамасы"
+                ],
+                "Karakalpak": [
+                    "óner kollekciyası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көркемөнер жиынтығы"
+                ],
+                "Kyrgyz": [
+                    "көркөм жыйнак",
+                    "көркөм коллекция"
+                ],
+                "Karakalpak": [
+                    "kórkem óner jıynaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өнер жинағы"
+                ],
+                "Kyrgyz": [
+                    "өнөр жыйнагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сүрөт жыйнагы"
+                ],
+                "Karakalpak": [
+                    "súrátler jıynaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "incəsənət kolleksiyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "badiiy to'plam"
+                ]
+            }
+        }
+    ]
+}

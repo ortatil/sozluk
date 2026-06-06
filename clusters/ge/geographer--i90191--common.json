@@ -1,0 +1,94 @@
+{
+    "id": "i90191",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "geographer",
+    "en_definition": "an expert on geography",
+    "tr_word": "coğrafyacı",
+    "tr_definition": "coğrafya alanında uzman olan kimse",
+    "ru_word": "географ",
+    "ru_definition": "специалист по географии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "geografiýaçy"
+                ],
+                "Uzbek": [
+                    "geograf"
+                ],
+                "Kazakh": [
+                    "географ"
+                ],
+                "Kyrgyz": [
+                    "географ"
+                ],
+                "Karakalpak": [
+                    "geograf"
+                ],
+                "Bashkir": [
+                    "географ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "coğrafyacı",
+                    "coğrafya bilgini",
+                    "coğrafya uzmanı"
+                ],
+                "Azerbaijani": [
+                    "coğrafiyaşünas",
+                    "coğrafiyaçı"
+                ],
+                "Turkmen": [
+                    "jografýaçy"
+                ],
+                "Uzbek": [
+                    "jug'rofiyashunos"
+                ],
+                "Uyghur": [
+                    "جۇغراپىيىشۇناس",
+                    "جۇغراپىيە مۇتەخەسسىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жертанушы"
+                ],
+                "Kyrgyz": [
+                    "жер таануучу"
+                ],
+                "Karakalpak": [
+                    "jertanıoshı"
+                ],
+                "Bashkir": [
+                    "ер белгесе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "olimi jug'rofiya"
+                ],
+                "Tatar": [
+                    "җәгърафия белгече"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җәгърафияче"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "id": "i32253",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "sit up",
+    "en_definition": "change to an upright sitting position",
+    "tr_word": "doğrulmak",
+    "tr_definition": "yatar durumdan dik oturur duruma geçmek",
+    "ru_word": "приподняться",
+    "ru_definition": "принять сидячее положение из лежачего",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dikleşmek",
+                    "dik oturmak"
+                ],
+                "Azerbaijani": [
+                    "dikəlmək"
+                ],
+                "Turkmen": [
+                    "dik oturmak",
+                    "diklenmek"
+                ],
+                "Uzbek": [
+                    "tiklanmoq",
+                    "tik o'tirmoq"
+                ],
+                "Uyghur": [
+                    "تىك ئولتۇرۇش"
+                ],
+                "Kazakh": [
+                    "тік отыру"
+                ],
+                "Karakalpak": [
+                    "tiklenip otırıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "түзелу"
+                ],
+                "Kyrgyz": [
+                    "түзөлүү",
+                    "түз олтуруу"
+                ],
+                "Karakalpak": [
+                    "túzlenip otırıo"
+                ],
+                "Bashkir": [
+                    "төҙөлөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بويىنى تىكلەپ ئولتۇرۇش"
+                ],
+                "Kazakh": [
+                    "бойын тіктеу"
+                ],
+                "Karakalpak": [
+                    "boyın tik tutıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğrulmak"
+                ],
+                "Azerbaijani": [
+                    "doğrulmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qalxıb oturmaq"
+                ],
+                "Tatar": [
+                    "калку"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qad ko'tarmoq",
+                    "qadni rostlamoq"
+                ],
+                "Uyghur": [
+                    "قەد كۆتۈرۈپ ئولتۇرۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отыру"
+                ],
+                "Bashkir": [
+                    "ултырыу",
+                    "ултырып ҡалыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "göni oturmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өйдө болуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "туры утыру",
+                    "турыланып утыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күтәрелеп утыру"
+                ]
+            }
+        }
+    ]
+}

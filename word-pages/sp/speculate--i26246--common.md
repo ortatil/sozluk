@@ -1,0 +1,289 @@
+# Speculate
+| Field | Detail |
+|---|---|
+| **ID** | i26246 |
+| **English** | speculate |
+| **Type** | verb |
+| **Definition** | talk over conjecturally, or review in an idle or casual way and with an element of doubt or without sufficient reason to reach a conclusion |
+| **Source** | common |
+| **Ortatil** | farazlamaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **farazlamaq** | **coramaldamaq** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ❌ | ❌ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0 |
+| *Qarluq Subtotal* | 0 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.80 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  |
+| **O'TQ** | **1.23** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئويلانماق | oylanmaq |
+| **Kazakh** | |
+| жорамалдау | joramaldau |
+| қиялдау | qiyaldau |
+| болжау | boljau |
+| пайымдау | payımdau |
+| **Kyrgyz** | |
+| жоромолдоо | joromoldoo |
+| божомолдоо | bojomoldoo |
+| чамалоо | çamaloo |
+| **Tatar** | |
+| фаразлау | farazlau |
+| юрамалау | yuramalau |
+| **Bashkir** | |
+| фаразлау | farazlau |
+| икеләнеү | ikeläneü |
+| шөбһәләнеү | şöbhäläneü |
+
+```json
+{
+    "id": "i26246",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "speculate",
+    "en_definition": "talk over conjecturally, or review in an idle or casual way and with an element of doubt or without sufficient reason to reach a conclusion",
+    "tr_word": "spekülasyon yapmak",
+    "tr_definition": "kesin bir kanıta dayanmadan fikir yürütmek veya varsayımlarda bulunmak",
+    "ru_word": "спекулировать",
+    "ru_definition": "строить предположения, размышлять о чем-либо, не имея достаточных оснований для окончательных выводов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'ylamoq"
+                ],
+                "Uyghur": [
+                    "ئويلانماق"
+                ],
+                "Kazakh": [
+                    "ой жүгірту"
+                ],
+                "Kyrgyz": [
+                    "ой жоруу"
+                ],
+                "Karakalpak": [
+                    "oy júgіrtu"
+                ],
+                "Tatar": [
+                    "уйлап чыгару"
+                ],
+                "Bashkir": [
+                    "уйлап сығарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "varsaymak",
+                    "farz etmek"
+                ],
+                "Azerbaijani": [
+                    "fərz etmək"
+                ],
+                "Uzbek": [
+                    "faraz qilmoq"
+                ],
+                "Uyghur": [
+                    "پەرەز قىلماق"
+                ],
+                "Tatar": [
+                    "фаразлау"
+                ],
+                "Bashkir": [
+                    "фаразлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mütalaa etmek"
+                ],
+                "Azerbaijani": [
+                    "mülahizə yürütmək"
+                ],
+                "Turkmen": [
+                    "mülahaza ýöretmek"
+                ],
+                "Uzbek": [
+                    "muloqaza yuritmoq"
+                ],
+                "Karakalpak": [
+                    "mólsherleu"
+                ],
+                "Tatar": [
+                    "мөлахәзә итү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tahmin yürütmek"
+                ],
+                "Azerbaijani": [
+                    "təxmin etmək"
+                ],
+                "Uzbek": [
+                    "taxmin qilmoq"
+                ],
+                "Uyghur": [
+                    "تەخمىن قىلماق"
+                ],
+                "Tatar": [
+                    "тәхмин итү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жорамалдау"
+                ],
+                "Kyrgyz": [
+                    "жоромолдоо"
+                ],
+                "Karakalpak": [
+                    "joramaldau"
+                ],
+                "Tatar": [
+                    "юрамалау"
+                ],
+                "Bashkir": [
+                    "юрамаллар ҡороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "güman etmek"
+                ],
+                "Uzbek": [
+                    "gumon qilmoq"
+                ],
+                "Kyrgyz": [
+                    "күмөн саноо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akıl yürütmek"
+                ],
+                "Turkmen": [
+                    "çaklamak",
+                    "çak etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىيال سۈرمەك"
+                ],
+                "Kazakh": [
+                    "қиялдау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "болжау"
+                ],
+                "Karakalpak": [
+                    "boljau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ehtimal etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zənn etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pikir ýöretmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "пайымдау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "божомолдоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чамалоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "pásáuatlao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "икеләнеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "шөбһәләнеү"
+                ]
+            }
+        }
+    ]
+}
+```
+

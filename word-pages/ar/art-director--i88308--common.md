@@ -1,0 +1,139 @@
+# Art director
+| Field | Detail |
+|---|---|
+| **ID** | i88308 |
+| **English** | art director |
+| **Type** | noun |
+| **Definition** | the director in charge of the artistic features of a theatrical production (costumes and scenery and lighting) |
+| **Source** | common |
+| **Ortatil** | dekorätör |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| сүрөтчү-коюучу | sürötçü-koyuuçu |
+
+```json
+{
+    "id": "i88308",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "art director",
+    "en_definition": "the director in charge of the artistic features of a theatrical production (costumes and scenery and lighting)",
+    "tr_word": "sanat yönetmeni",
+    "tr_definition": "Bir tiyatro oyununun, filmin veya yayının kostüm, dekor ve ışık gibi sanatsal özelliklerinden sorumlu olan kişi.",
+    "ru_word": "арт-директор",
+    "ru_definition": "Руководитель, отвечающий за художественные аспекты театральной постановки, включая костюмы, декорации и освещение.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanat yönetmeni",
+                    "sahne tasarımcısı"
+                ],
+                "Azerbaijani": [
+                    "sənət rejissoru"
+                ],
+                "Turkmen": [
+                    "sahna bezegçisi"
+                ],
+                "Uzbek": [
+                    "sahnalashtiruvchi rassom"
+                ],
+                "Uyghur": [
+                    "سەنئەت رەھبىرى"
+                ],
+                "Karakalpak": [
+                    "saxnalastırıoshı súoretshi"
+                ],
+                "Tatar": [
+                    "сәнгать җитәкчесе",
+                    "сәнгать мөдире",
+                    "сәнгать башлыгы"
+                ],
+                "Bashkir": [
+                    "сәнғәт етәксеһе",
+                    "сәнғәт мөдире",
+                    "сәнғәт башлығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bədii rəhbər"
+                ],
+                "Uzbek": [
+                    "badiiy rahbar",
+                    "badiiy mudir"
+                ],
+                "Uyghur": [
+                    "بەدىئىي رەھبەر",
+                    "بەدىئىي يېتەكچى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көркемдік жетекші",
+                    "көркемдік басқарушы"
+                ],
+                "Kyrgyz": [
+                    "көркөм жетекчи",
+                    "көркөм башчы"
+                ],
+                "Karakalpak": [
+                    "kórkemlik basqarıoshı",
+                    "kórkemlik jetekshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dekoratör"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərtibatçı rəssam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çeper ýolbaşçy",
+                    "çeper müdir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өнер жетекшісі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сүрөтчү-коюучу"
+                ]
+            }
+        }
+    ]
+}
+```
+

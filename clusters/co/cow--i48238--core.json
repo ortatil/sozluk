@@ -1,0 +1,125 @@
+{
+    "id": "i48238",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "cow",
+    "en_definition": "female of domestic cattle",
+    "tr_word": "inek",
+    "tr_definition": "Evcil sığırın dişisi",
+    "ru_word": "корова",
+    "ru_definition": "самка домашнего быка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sygyr"
+                ],
+                "Uzbek": [
+                    "sigir"
+                ],
+                "Uyghur": [
+                    "سىيىر"
+                ],
+                "Kazakh": [
+                    "сиыр"
+                ],
+                "Karakalpak": [
+                    "sıyır"
+                ],
+                "Tatar": [
+                    "сыер"
+                ],
+                "Bashkir": [
+                    "һыйыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "inek"
+                ],
+                "Azerbaijani": [
+                    "inək"
+                ],
+                "Uyghur": [
+                    "ئىنەك"
+                ],
+                "Kyrgyz": [
+                    "инек"
+                ],
+                "Karakalpak": [
+                    "iynek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mally"
+                ],
+                "Uzbek": [
+                    "mol"
+                ],
+                "Bashkir": [
+                    "мәл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sağmal"
+                ],
+                "Azerbaijani": [
+                    "sağmal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сауын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "madyan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "düve"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ірі қара"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөгезле эре терлек"
+                ]
+            }
+        }
+    ]
+}

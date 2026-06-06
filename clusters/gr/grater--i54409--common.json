@@ -1,0 +1,88 @@
+{
+    "id": "i54409",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "grater",
+    "en_definition": "utensil with sharp perforations for shredding foods (as vegetables or cheese)",
+    "tr_word": "rende",
+    "tr_definition": "Yiyecekleri (sebze veya peynir gibi) küçük parçalara ayırmak için kullanılan, üzerinde keskin delikler bulunan mutfak aleti.",
+    "ru_word": "тёрка",
+    "ru_definition": "Кухонная принадлежность с острыми отверстиями для измельчения продуктов (овощей, сыра и т. д.).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qirgʻich"
+                ],
+                "Uyghur": [
+                    "قىرغۇچ"
+                ],
+                "Kyrgyz": [
+                    "кыргыч"
+                ],
+                "Karakalpak": [
+                    "kırgısh"
+                ],
+                "Tatar": [
+                    "кыргыч",
+                    "кыргы"
+                ],
+                "Bashkir": [
+                    "ҡырғыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rende",
+                    "rendeleme aleti"
+                ],
+                "Azerbaijani": [
+                    "rəndə"
+                ],
+                "Turkmen": [
+                    "rendeleýji",
+                    "rende"
+                ],
+                "Uzbek": [
+                    "randa"
+                ],
+                "Uyghur": [
+                    "رەندە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sürtgəç"
+                ],
+                "Kyrgyz": [
+                    "сүргүч"
+                ],
+                "Karakalpak": [
+                    "súrgúsh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үккіш",
+                    "үккі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ышҡы"
+                ]
+            }
+        }
+    ]
+}

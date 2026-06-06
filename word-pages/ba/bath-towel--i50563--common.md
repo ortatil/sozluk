@@ -1,0 +1,198 @@
+# Bath towel
+| Field | Detail |
+|---|---|
+| **ID** | i50563 |
+| **English** | bath towel |
+| **Type** | noun |
+| **Definition** | a large towel; to dry yourself after a bath |
+| **Source** | common |
+| **Ortatil** | fıtä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| орамал | oramal |
+| **Kyrgyz** | |
+| сүлгү | sülgü |
+
+```json
+{
+    "id": "i50563",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bath towel",
+    "en_definition": "a large towel; to dry yourself after a bath",
+    "tr_word": "banyo havlusu",
+    "tr_definition": "Banyodan sonra kurulanmak için kullanılan büyük havlu.",
+    "ru_word": "банное полотенце",
+    "ru_definition": "Большое полотенце, предназначенное для вытирания тела после принятия ванны или душа.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "монша сүлгісі"
+                ],
+                "Kyrgyz": [
+                    "мончо сүлгү"
+                ],
+                "Karakalpak": [
+                    "monsha súlgі"
+                ],
+                "Tatar": [
+                    "мунча сөлгесе"
+                ],
+                "Bashkir": [
+                    "мунса таҫтамалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hamam dəsmalı"
+                ],
+                "Turkmen": [
+                    "hammam polotensasy"
+                ],
+                "Uzbek": [
+                    "hammom sochiq"
+                ],
+                "Uyghur": [
+                    "ھاممام لۆڭگىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havlu"
+                ],
+                "Azerbaijani": [
+                    "havlu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "peştemal"
+                ],
+                "Turkmen": [
+                    "desterhan",
+                    "peştemal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fıtə"
+                ],
+                "Uzbek": [
+                    "futa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly süpürgiç"
+                ],
+                "Tatar": [
+                    "зур сөлге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta sochiq"
+                ],
+                "Bashkir": [
+                    "кәүҙә таҫтамалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastro'mol"
+                ],
+                "Tatar": [
+                    "тән сөлгесе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "орамал"
+                ],
+                "Karakalpak": [
+                    "oramal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сүлгү"
+                ],
+                "Karakalpak": [
+                    "súlgі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "banyo havlusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ لۆڭگە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۇيۇنۇش لۆڭگىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түкті сүлгі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "майда сүлгү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҙур таҫтамал"
+                ]
+            }
+        }
+    ]
+}
+```
+

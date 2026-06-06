@@ -1,0 +1,133 @@
+# Sweet pea
+| Field | Detail |
+|---|---|
+| **ID** | i102816 |
+| **English** | sweet pea |
+| **Type** | noun |
+| **Definition** | climbing garden plant having fragrant pastel-colored flowers |
+| **Source** | common |
+| **Ortatil** | nöhätgılsan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i102816",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sweet pea",
+    "en_definition": "climbing garden plant having fragrant pastel-colored flowers",
+    "tr_word": "itüzümü",
+    "tr_definition": "güzel kokulu, pastel renkli çiçekleri olan tırmanıcı bir bahçe bitkisi",
+    "ru_word": "душистый горошек",
+    "ru_definition": "вьющееся садовое растение с ароматными цветками пастельных тонов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xoşətir lərgə"
+                ],
+                "Uzbek": [
+                    "xushbo'y no'xat"
+                ],
+                "Uyghur": [
+                    "خۇشبۇي پۇرچاق",
+                    "خۇشبۇي پۇرچاق گۈلى"
+                ],
+                "Kazakh": [
+                    "хош иісті бұршақ"
+                ],
+                "Karakalpak": [
+                    "xosh iyisli burshaq"
+                ],
+                "Tatar": [
+                    "хуш исле борчак",
+                    "хуш исле чәчәкле борчак"
+                ],
+                "Bashkir": [
+                    "хуш еҫле борсаҡ",
+                    "хуш еҫле кәзә мөгөҙө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ətirli lərgə"
+                ],
+                "Turkmen": [
+                    "itburçak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gül lərgəsi"
+                ],
+                "Karakalpak": [
+                    "gúlli burshaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shirin no'xat"
+                ],
+                "Kazakh": [
+                    "шырмауық бұршақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "itriyat",
+                    "ıtrişahi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kokulu bezelye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýji nohut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ysly nohut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "no'xatgul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыпар жыттуу буурчак",
+                    "жыпар буурчак"
+                ]
+            }
+        }
+    ]
+}
+```
+

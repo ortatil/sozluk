@@ -1,0 +1,73 @@
+{
+    "id": "i76001",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "arms race",
+    "en_definition": "a competition between nations to have the most powerful armaments",
+    "tr_word": "silahlanma yarışı",
+    "tr_definition": "milletlerin en güçlü silahlara sahip olmak için birbirleriyle girdiği rekabet",
+    "ru_word": "гонка вооружений",
+    "ru_definition": "соперничество между государствами в области наращивания военной мощи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qurollanish poygasi",
+                    "qurollanish musobaqasi"
+                ],
+                "Uyghur": [
+                    "قوراللىنىش بەيگىسى",
+                    "قورال-ياراغ مۇسابىقىسى"
+                ],
+                "Kazakh": [
+                    "қарулану жарысы"
+                ],
+                "Kyrgyz": [
+                    "куралдануу жарышы",
+                    "курал-жарак жарышы"
+                ],
+                "Karakalpak": [
+                    "qurallanıu jarısı",
+                    "qural-jaraq jarısı"
+                ],
+                "Tatar": [
+                    "кораллану ярышы",
+                    "корал ярышы"
+                ],
+                "Bashkir": [
+                    "ҡораллы ярыш",
+                    "ҡоралланыу ярышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "silahlanma yarışı",
+                    "silahlanma rekabeti"
+                ],
+                "Azerbaijani": [
+                    "silahlanma yarışı",
+                    "silahlanma rəqabəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýaranyşyk ýaryşy",
+                    "ýaraglanyşyk bäsleşigi",
+                    "ýaraglanyşyk ýaryşy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қару-жарақ бәсекесі"
+                ]
+            }
+        }
+    ]
+}

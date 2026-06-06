@@ -1,0 +1,316 @@
+# Conflict
+| Field | Detail |
+|---|---|
+| **ID** | i74396 |
+| **English** | conflict |
+| **Type** | noun |
+| **Definition** | a disagreement or argument about something important |
+| **Source** | core |
+| **Ortatil** | niza |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **niza** | **ihtiläf** | **münakäçä** | **dawa** | **bähäs** | **tartış** |
+|---|---|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Azerbaijani | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Uyghur | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ |
+| Kyrgyz | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Bashkir | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0.67 | 0.67 | 0.67 | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 1 | 1 | 0 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0 | 0 | 0.40 | 0.60 | 1 |
+| *In All* | ✅ |  |  |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  | ✅ |  |  |
+| **O'TQ** | **2.77** | **1.67** | **1.67** | **1.57** | **1.10** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئىختىلاپ | ixtilap |
+| مۇنازىرە | munazirä |
+| ماجىرا | majira |
+| تالاش-تارتىش | talaş-tartiş |
+| دەۋا-دەستۇر | däva-dästur |
+| **Kazakh** | |
+| тартыс | tartıs |
+| дау | dau |
+| жанжал | janjal |
+| келіспеушілік | kelispeuşilik |
+| айтыс | aytıs |
+| **Kyrgyz** | |
+| тартыш | tartış |
+| жаңжал | jañjal |
+| талашып-тартышуу | talaşıp-tartışuu |
+| маселе | masele |
+| талаш | talaş |
+| **Tatar** | |
+| низаг | nizag |
+| тартыш | tartış |
+| бәхәс | bäxäs |
+| каршылык | karşılık |
+| **Bashkir** | |
+| низағ | nizağ |
+| тартыш | tartış |
+| бәхәс | bäxäs |
+| ғауға | ğauğa |
+
+```json
+{
+    "id": "i74396",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "conflict",
+    "en_definition": "a disagreement or argument about something important",
+    "tr_word": "çatışma",
+    "tr_definition": "önemli bir konu üzerindeki anlaşmazlık veya tartışma",
+    "ru_word": "конфликт",
+    "ru_definition": "разногласие или спор по какому-либо важному вопросу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "niza"
+                ],
+                "Turkmen": [
+                    "niza"
+                ],
+                "Uzbek": [
+                    "nizo"
+                ],
+                "Karakalpak": [
+                    "niza"
+                ],
+                "Tatar": [
+                    "низаг"
+                ],
+                "Bashkir": [
+                    "низағ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тартыс"
+                ],
+                "Kyrgyz": [
+                    "тартыш"
+                ],
+                "Karakalpak": [
+                    "tartıs"
+                ],
+                "Tatar": [
+                    "тартыш"
+                ],
+                "Bashkir": [
+                    "тартыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ihtilaf"
+                ],
+                "Azerbaijani": [
+                    "ixtilaf"
+                ],
+                "Uzbek": [
+                    "ixtilof"
+                ],
+                "Uyghur": [
+                    "ئىختىلاپ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "münakaşa"
+                ],
+                "Azerbaijani": [
+                    "münaqişə"
+                ],
+                "Uzbek": [
+                    "munozara"
+                ],
+                "Uyghur": [
+                    "مۇنازىرە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dava"
+                ],
+                "Turkmen": [
+                    "daw"
+                ],
+                "Kazakh": [
+                    "дау"
+                ],
+                "Karakalpak": [
+                    "dau"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bahs"
+                ],
+                "Karakalpak": [
+                    "bás"
+                ],
+                "Tatar": [
+                    "бәхәс"
+                ],
+                "Bashkir": [
+                    "бәхәс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekişme"
+                ],
+                "Azerbaijani": [
+                    "çəkişmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жанжал"
+                ],
+                "Kyrgyz": [
+                    "жаңжал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mojaro"
+                ],
+                "Uyghur": [
+                    "ماجىرا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "келіспеушілік"
+                ],
+                "Karakalpak": [
+                    "kelispeushilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تالاش-تارتىش"
+                ],
+                "Kyrgyz": [
+                    "талашып-тартышуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gapma-garşylyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "каршылык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anlaşmazlık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mübahisə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jedel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "huşumat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айтыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "маселе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ғауға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دەۋا-دەستۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "талаш"
+                ]
+            }
+        }
+    ]
+}
+```
+

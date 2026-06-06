@@ -1,0 +1,64 @@
+{
+    "id": "i17870",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "saudi",
+    "en_definition": "of or relating to Saudi Arabia or its people",
+    "tr_word": "Suudi",
+    "tr_definition": "Suudi Arabistan veya halkıyla ilgili olan",
+    "ru_word": "саудовский",
+    "ru_definition": "относящийся к Саудовской Аравии или её народу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Suudi",
+                    "Suudi Arabistanlı"
+                ],
+                "Azerbaijani": [
+                    "səudiyyəli",
+                    "səudi"
+                ],
+                "Turkmen": [
+                    "saud",
+                    "saudiýaly"
+                ],
+                "Uzbek": [
+                    "saudiyalik",
+                    "saudiy"
+                ],
+                "Uyghur": [
+                    "سەئۇدىي",
+                    "سەئۇدىيەلىك"
+                ],
+                "Kazakh": [
+                    "саудтық",
+                    "саудиялық"
+                ],
+                "Kyrgyz": [
+                    "сауддук",
+                    "саудиялык"
+                ],
+                "Karakalpak": [
+                    "saudiyalı",
+                    "saud"
+                ],
+                "Tatar": [
+                    "сәгуд",
+                    "сәгуди"
+                ],
+                "Bashkir": [
+                    "Сәғүди"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "Сәғүд"
+                ]
+            }
+        }
+    ]
+}

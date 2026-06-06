@@ -1,0 +1,175 @@
+{
+    "id": "i90034",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "forefather",
+    "en_definition": "person from an earlier time who contributed to the tradition shared by some group",
+    "tr_word": "ata",
+    "tr_definition": "Bir topluluğun veya ailenin geçmişte yaşamış olan büyüklerinden her biri.",
+    "ru_word": "предок",
+    "ru_definition": "Лицо, жившее за много поколений до настоящего времени и являющееся родоначальником или предшественником.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ata",
+                    "ced"
+                ],
+                "Azerbaijani": [
+                    "ata-baba",
+                    "cədd"
+                ],
+                "Turkmen": [
+                    "ata-baba",
+                    "ata"
+                ],
+                "Uzbek": [
+                    "ota-bobo"
+                ],
+                "Uyghur": [
+                    "ئاتا-بوۋىلار"
+                ],
+                "Kazakh": [
+                    "ата-баба"
+                ],
+                "Kyrgyz": [
+                    "ата-баба",
+                    "ата-тек"
+                ],
+                "Karakalpak": [
+                    "ata-baba"
+                ],
+                "Tatar": [
+                    "ата-баба"
+                ],
+                "Bashkir": [
+                    "ата-баба",
+                    "ата-олатай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ecdad"
+                ],
+                "Azerbaijani": [
+                    "əcdad"
+                ],
+                "Turkmen": [
+                    "ajdat"
+                ],
+                "Uzbek": [
+                    "ajdod"
+                ],
+                "Uyghur": [
+                    "ئەجداد"
+                ],
+                "Karakalpak": [
+                    "ajdod"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bobo"
+                ],
+                "Kazakh": [
+                    "баба"
+                ],
+                "Kyrgyz": [
+                    "баба"
+                ],
+                "Karakalpak": [
+                    "baba"
+                ],
+                "Tatar": [
+                    "баба"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nesilbaşy"
+                ],
+                "Tatar": [
+                    "нәсел башы"
+                ],
+                "Bashkir": [
+                    "нәҫел башы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyükbaba"
+                ],
+                "Uyghur": [
+                    "بوۋا-كاللىلار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түпкү ата"
+                ],
+                "Karakalpak": [
+                    "túp-baba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "әүвәлгеләр"
+                ],
+                "Bashkir": [
+                    "әүәлгеләр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sələf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pirdosh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆتكەنلەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арғы ата"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тек"
+                ]
+            }
+        }
+    ]
+}

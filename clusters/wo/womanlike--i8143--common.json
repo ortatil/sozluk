@@ -1,0 +1,133 @@
+{
+    "id": "i8143",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "womanlike",
+    "en_definition": "resembling a woman",
+    "tr_word": "kadınsı",
+    "tr_definition": "bir kadını andıran veya bir kadına özgü olan",
+    "ru_word": "женственный",
+    "ru_definition": "напоминающий женщину или обладающий качествами, характерными для женщины",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nisai"
+                ],
+                "Uyghur": [
+                    "نازىنىن"
+                ],
+                "Kazakh": [
+                    "нәзік"
+                ],
+                "Karakalpak": [
+                    "názik"
+                ],
+                "Bashkir": [
+                    "нәзәкәтле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aýalsyfat"
+                ],
+                "Uzbek": [
+                    "ayolsifat",
+                    "ayolnamo"
+                ],
+                "Uyghur": [
+                    "ئايالچە",
+                    "ئايالسىمان"
+                ],
+                "Kazakh": [
+                    "әйелше",
+                    "әйелге тән",
+                    "әйел тәрізді"
+                ],
+                "Kyrgyz": [
+                    "аялдай",
+                    "аял сыяктуу",
+                    "аял мүнөздүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kadınsı",
+                    "kadınvari"
+                ],
+                "Azerbaijani": [
+                    "qadınsayağı",
+                    "qadınvari",
+                    "qadınasay"
+                ],
+                "Tatar": [
+                    "хатын-кызча",
+                    "хатын-кызсыман"
+                ],
+                "Bashkir": [
+                    "ҡатын-ҡыҙҙарса",
+                    "ҡатын-ҡыҙҙарға хас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hatyn"
+                ],
+                "Uzbek": [
+                    "xotincha"
+                ],
+                "Uyghur": [
+                    "خوتۇنچە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zenan",
+                    "zenansyfat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ayolchasiga"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "hayallarsha",
+                    "hayallarday",
+                    "hayalsıman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "нәфис"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөлаем"
+                ]
+            }
+        }
+    ]
+}

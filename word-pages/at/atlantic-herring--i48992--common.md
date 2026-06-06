@@ -1,0 +1,130 @@
+# Atlantic herring
+| Field | Detail |
+|---|---|
+| **ID** | i48992 |
+| **English** | atlantic herring |
+| **Type** | noun |
+| **Definition** | important food fish; found in enormous shoals in the northern Atlantic |
+| **Source** | common |
+| **Ortatil** | selt |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| майшабақ | mayşabaq |
+| **Tatar** | |
+| сильдь | sild |
+| **Bashkir** | |
+| сельдь | seld |
+
+```json
+{
+    "id": "i48992",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "atlantic herring",
+    "en_definition": "important food fish; found in enormous shoals in the northern Atlantic",
+    "tr_word": "atlantik ringası",
+    "tr_definition": "Kuzey Atlantik'te devasa sürüler halinde bulunan, gıda açısından önemli bir balık türü",
+    "ru_word": "атлантическая сельдь",
+    "ru_definition": "важная промысловая рыба, обитающая огромными косяками в северной части Атлантического океана",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "seld balygy"
+                ],
+                "Uzbek": [
+                    "seld balig'i"
+                ],
+                "Uyghur": [
+                    "سېلىد بېلىقى"
+                ],
+                "Kyrgyz": [
+                    "сельд балыгы"
+                ],
+                "Tatar": [
+                    "сильдь"
+                ],
+                "Bashkir": [
+                    "сельдь"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "майшабақ"
+                ],
+                "Kyrgyz": [
+                    "май балык"
+                ],
+                "Karakalpak": [
+                    "mayshabaq"
+                ],
+                "Tatar": [
+                    "май балыгы"
+                ],
+                "Bashkir": [
+                    "май балығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "atlantik seldi"
+                ],
+                "Uyghur": [
+                    "ئاتلانتىك سېلىد بېلىقى"
+                ],
+                "Kazakh": [
+                    "атлант майшабағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "seld"
+                ],
+                "Karakalpak": [
+                    "seld"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ringa balığı",
+                    "ringa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "atlantik siyənəyi",
+                    "siyənək balığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "siyənək"
+                ]
+            }
+        }
+    ]
+}
+```
+

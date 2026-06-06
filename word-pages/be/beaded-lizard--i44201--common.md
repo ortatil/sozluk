@@ -1,0 +1,114 @@
+# Beaded lizard
+| Field | Detail |
+|---|---|
+| **ID** | i44201 |
+| **English** | beaded lizard |
+| **Type** | noun |
+| **Definition** | lizard with black and yellowish beadlike scales; of western Mexico |
+| **Source** | common |
+| **Ortatil** | eskärpiän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i44201",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "beaded lizard",
+    "en_definition": "lizard with black and yellowish beadlike scales; of western Mexico",
+    "tr_word": "boncuklu kertenkele",
+    "tr_definition": "Meksika'nın batısında yaşayan, siyah ve sarımsı boncuk benzeri pulları olan zehirli bir kertenkele türü.",
+    "ru_word": "эскорпион",
+    "ru_definition": "ядовитая ящерица из семейства ядозубов с черной и желтоватой чешуей, напоминающей бисер; обитает в западной Мексике.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "muncuqlu kərtənkələ",
+                    "muncuqdərili kərtənkələ"
+                ],
+                "Turkmen": [
+                    "monjukly kelpeze"
+                ],
+                "Uzbek": [
+                    "munchoqli kaltakesak"
+                ],
+                "Uyghur": [
+                    "مونچاقلىق كېسەن",
+                    "مونچاقلىق تاشپاقا"
+                ],
+                "Kazakh": [
+                    "моншақты кесіртке"
+                ],
+                "Kyrgyz": [
+                    "мончоктуу кескелдирик",
+                    "мончоктуу кабырчыктуу кескелдирик"
+                ],
+                "Karakalpak": [
+                    "monshaqlı kesel",
+                    "monshaqlı kesіrtke"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәрҗәнле кәлтә",
+                    "мәрҗәнле кәлтә елан"
+                ],
+                "Bashkir": [
+                    "мәрйенле кеҫерткә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boncuklu kertenkele",
+                    "meksika boncuklu kertenkelesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "halyly kelpeze"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zaharli kaltakesak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "eskorpion"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "улы кесіртке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "биҙәкле кеҫерткә"
+                ]
+            }
+        }
+    ]
+}
+```
+

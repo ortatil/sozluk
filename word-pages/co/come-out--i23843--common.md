@@ -1,0 +1,252 @@
+# Come out
+| Field | Detail |
+|---|---|
+| **ID** | i23843 |
+| **English** | come out |
+| **Type** | verb |
+| **Definition** | appear or become visible; make a showing |
+| **Source** | common |
+| **Ortatil** | çıqmaq, ḳörünülmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **çıqmaq** | **ḳörünülmäk** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 1 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 1 | 1 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چىقماق | çiqmaq |
+| كۆرۈنماق | körünmaq |
+| ئاشكارىلانماق | aşkarilanmaq |
+| **Kazakh** | |
+| шығу | şığu |
+| көріну | körinu |
+| байқалу | bayqalu |
+| **Kyrgyz** | |
+| чыгуу | çıguu |
+| көрүнүү | körünüü |
+| байкалуу | baykaluu |
+| **Tatar** | |
+| чыгу | çıgu |
+| күренү | kürenü |
+| ачыклану | açıklanu |
+| **Bashkir** | |
+| сығыу | sığıu |
+| күренеү | küreneü |
+| беленеү | beleneü |
+
+```json
+{
+    "id": "i23843",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "come out",
+    "en_definition": "appear or become visible; make a showing",
+    "tr_word": "ortaya çıkmak",
+    "tr_definition": "görünür hale gelmek veya kendini göstermek",
+    "ru_word": "появляться",
+    "ru_definition": "становиться видимым или показываться",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıkmak"
+                ],
+                "Azerbaijani": [
+                    "çıxmaq"
+                ],
+                "Turkmen": [
+                    "çykmak"
+                ],
+                "Uzbek": [
+                    "chiqmoq"
+                ],
+                "Uyghur": [
+                    "چىقماق"
+                ],
+                "Kazakh": [
+                    "шығу"
+                ],
+                "Kyrgyz": [
+                    "чыгуу"
+                ],
+                "Karakalpak": [
+                    "shıǵıu"
+                ],
+                "Tatar": [
+                    "чыгу"
+                ],
+                "Bashkir": [
+                    "сығыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "görünmek"
+                ],
+                "Azerbaijani": [
+                    "görünmək"
+                ],
+                "Turkmen": [
+                    "görünmek"
+                ],
+                "Uzbek": [
+                    "koʻrinmoq"
+                ],
+                "Uyghur": [
+                    "كۆرۈنماق"
+                ],
+                "Kazakh": [
+                    "көріну"
+                ],
+                "Kyrgyz": [
+                    "көрүнүү"
+                ],
+                "Karakalpak": [
+                    "kóriniu"
+                ],
+                "Tatar": [
+                    "күренү"
+                ],
+                "Bashkir": [
+                    "күренеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meydana çıkmak"
+                ],
+                "Azerbaijani": [
+                    "meydana çıxmaq"
+                ],
+                "Turkmen": [
+                    "peýda bolmak"
+                ],
+                "Uzbek": [
+                    "paydo boʻlmoq"
+                ],
+                "Uyghur": [
+                    "پەيدا بولماق"
+                ],
+                "Kazakh": [
+                    "пайда болу"
+                ],
+                "Kyrgyz": [
+                    "байкалуу",
+                    "пайда болуу"
+                ],
+                "Karakalpak": [
+                    "páyda bolıu"
+                ],
+                "Tatar": [
+                    "пәйда булу"
+                ],
+                "Bashkir": [
+                    "пәйҙә булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zuhur etmek"
+                ],
+                "Azerbaijani": [
+                    "zühur etmək"
+                ],
+                "Uzbek": [
+                    "zohir boʻlmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "belirmek"
+                ],
+                "Bashkir": [
+                    "беленеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "aşgär bolmak"
+                ],
+                "Uyghur": [
+                    "ئاشكارىلانماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzə çıxmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "namoyon boʻlmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "байқалу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аян болу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "járiyalanıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ачыклану"
+                ]
+            }
+        }
+    ]
+}
+```
+

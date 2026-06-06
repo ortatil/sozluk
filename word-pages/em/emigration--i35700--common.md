@@ -1,0 +1,213 @@
+# Emigration
+| Field | Detail |
+|---|---|
+| **ID** | i35700 |
+| **English** | emigration |
+| **Type** | noun |
+| **Definition** | migration from a place (especially migration from your native country in order to settle in another) |
+| **Source** | common |
+| **Ortatil** | ḳöçüş, hicrät, mühacirlik |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḳöçüş** | **hicrät** | **mühacirlik** |
+|---|---|---|---|
+| Turkish | ✅ | ✅ | ✅ |
+| Azerbaijani | ✅ | ✅ | ✅ |
+| Turkmen | ✅ | ✅ | ✅ |
+| Uzbek | ✅ | ✅ | ✅ |
+| Uyghur | ✅ | ✅ | ✅ |
+| Kazakh | ✅ | ✅ | ❌ |
+| Kyrgyz | ✅ | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ✅ | ✅ |
+| Bashkir | ✅ | ❌ | ✅ |
+| *Oghuz Subtotal* | 1 | 1 | 1 |
+| *Qarluq Subtotal* | 1 | 1 | 1 |
+| *Qipchaq Subtotal* | 1 | 0.80 | 0.80 |
+| *In All* | ✅ | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **4** | **3.80** | **3.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كۆچۈش | köçüş |
+| ھىجرەت | hijrät |
+| مۇھاجىرەت | muhajirät |
+| **Kazakh** | |
+| көшу | köşu |
+| хижрет | xijret |
+| **Kyrgyz** | |
+| көч | köç |
+| хижрат | xijrat |
+| мухажирлик | muxajirlik |
+| **Tatar** | |
+| күченү | küçenü |
+| һиҗрәт | hijrät |
+| мөһаҗирлек | möhajirlek |
+| **Bashkir** | |
+| күсенеү | küseneü |
+| күс | küs |
+| мөһажирлек | möhajirlek |
+
+```json
+{
+    "id": "i35700",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "emigration",
+    "en_definition": "migration from a place (especially migration from your native country in order to settle in another)",
+    "tr_word": "göç",
+    "tr_definition": "Bir ülkeden başka bir ülkeye yerleşmek amacıyla ayrılma eylemi.",
+    "ru_word": "эмиграция",
+    "ru_definition": "Выезд из своей страны в другую на постоянное или длительное жительство.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göç",
+                    "dış göç"
+                ],
+                "Azerbaijani": [
+                    "köç"
+                ],
+                "Turkmen": [
+                    "göç",
+                    "göçüş"
+                ],
+                "Uzbek": [
+                    "koʻchish"
+                ],
+                "Uyghur": [
+                    "كۆچۈش"
+                ],
+                "Kazakh": [
+                    "көшу"
+                ],
+                "Kyrgyz": [
+                    "көч"
+                ],
+                "Karakalpak": [
+                    "kóship ketio",
+                    "kóshio"
+                ],
+                "Tatar": [
+                    "күченү"
+                ],
+                "Bashkir": [
+                    "күсенеү",
+                    "күс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hicret"
+                ],
+                "Azerbaijani": [
+                    "hicrət"
+                ],
+                "Turkmen": [
+                    "hijret"
+                ],
+                "Uzbek": [
+                    "hijrat"
+                ],
+                "Uyghur": [
+                    "ھىجرەت"
+                ],
+                "Kazakh": [
+                    "хижрет"
+                ],
+                "Kyrgyz": [
+                    "хижрат"
+                ],
+                "Karakalpak": [
+                    "hijrat"
+                ],
+                "Tatar": [
+                    "һиҗрәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhaceret"
+                ],
+                "Azerbaijani": [
+                    "mühacirət"
+                ],
+                "Turkmen": [
+                    "muhajyrlyk"
+                ],
+                "Uzbek": [
+                    "muhojirlik"
+                ],
+                "Uyghur": [
+                    "مۇھاجىرەت"
+                ],
+                "Kyrgyz": [
+                    "мухажирлик"
+                ],
+                "Karakalpak": [
+                    "muhájirlik"
+                ],
+                "Tatar": [
+                    "мөһаҗирлек"
+                ],
+                "Bashkir": [
+                    "мөһажирлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərki-vətən"
+                ],
+                "Uzbek": [
+                    "tark etish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жер аудару"
+                ],
+                "Kyrgyz": [
+                    "жер которуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ۋەتەندىن ئايرىلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоныс аудару"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "күсеп китеү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,125 @@
+{
+    "id": "i112929",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hangover",
+    "en_definition": "disagreeable aftereffects from the use of drugs (especially alcohol)",
+    "tr_word": "akşamdan kalmalık",
+    "tr_definition": "Aşırı alkol tüketiminden sonraki gün hissedilen baş ağrısı ve mide bulantısı gibi rahatsızlıklar.",
+    "ru_word": "похмелье",
+    "ru_definition": "Неприятное состояние, возникающее через несколько часов после употребления алкоголя.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hummar"
+                ],
+                "Azerbaijani": [
+                    "xumar",
+                    "xumarlıq"
+                ],
+                "Turkmen": [
+                    "humarlyk",
+                    "humar"
+                ],
+                "Uzbek": [
+                    "xumor",
+                    "xumorlik"
+                ],
+                "Uyghur": [
+                    "خۇمار يېشىش",
+                    "خۇمار تۇتۇش"
+                ],
+                "Karakalpak": [
+                    "xumar",
+                    "xumarlıq"
+                ],
+                "Tatar": [
+                    "хөмар"
+                ],
+                "Bashkir": [
+                    "хөмар",
+                    "хөмарлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "baş ağrısı"
+                ],
+                "Turkmen": [
+                    "başagyry"
+                ],
+                "Kazakh": [
+                    "бас жазу",
+                    "бас ауруы"
+                ],
+                "Kyrgyz": [
+                    "баш оору"
+                ],
+                "Karakalpak": [
+                    "bas aoırıo"
+                ],
+                "Tatar": [
+                    "баш төзәтү",
+                    "баш авырту"
+                ],
+                "Bashkir": [
+                    "баш төҙәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məstlik"
+                ],
+                "Uyghur": [
+                    "مەستلىك ئاسارىتى"
+                ],
+                "Kazakh": [
+                    "мастық зардабы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akşamdan kalmalık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sersemlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "badmastlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыйналуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "азап"
+                ]
+            }
+        }
+    ]
+}

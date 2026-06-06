@@ -1,0 +1,94 @@
+{
+    "id": "i77517",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "french fries",
+    "en_definition": "strips of potato fried in deep fat",
+    "tr_word": "patates kızartması",
+    "tr_definition": "bol yağda kızartılmış şerit halindeki patatesler",
+    "ru_word": "картофель фри",
+    "ru_definition": "нарезанный соломкой картофель, обжаренный во фритюре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızarmış patates"
+                ],
+                "Azerbaijani": [
+                    "qızardılmış kartof"
+                ],
+                "Kyrgyz": [
+                    "куурулган картөшкө",
+                    "куурулган картошка"
+                ],
+                "Karakalpak": [
+                    "quuırılǵan kartoshka",
+                    "quuırılǵan patates"
+                ],
+                "Tatar": [
+                    "кыздырылган бәрәңге"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырылған картуф",
+                    "ҡыҙҙырылған бәрәңге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kartof qızartması"
+                ],
+                "Turkmen": [
+                    "garylan ýer almasy",
+                    "kartofel gowurmasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gowurlan ýer almasy"
+                ],
+                "Uzbek": [
+                    "qovurilgan kartoshka",
+                    "qovurma kartoshka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قورۇلغان ياڭيۇ",
+                    "قورۇلغان پەرەڭ ياڭيۇسى",
+                    "ياڭيۇ قورۇمىسى"
+                ],
+                "Kazakh": [
+                    "қуырылған картоп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "patates kızartması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қуырма картоп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыздырма бәрәңге"
+                ]
+            }
+        }
+    ]
+}

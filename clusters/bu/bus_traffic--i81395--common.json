@@ -1,0 +1,70 @@
+{
+    "id": "i81395",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bus traffic",
+    "en_definition": "buses coming and going",
+    "tr_word": "otobüs trafiği",
+    "tr_definition": "gelip giden otobüslerin yoğunluğu",
+    "ru_word": "движение автобусов",
+    "ru_definition": "интенсивность перемещения автобусов по маршрутам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtobus hərəkəti",
+                    "avtobus gediş-gəlişi",
+                    "avtobus nəqliyyatı"
+                ],
+                "Turkmen": [
+                    "awtobus gatnawy",
+                    "awtobus hereketi"
+                ],
+                "Uzbek": [
+                    "avtobus qatnovi",
+                    "avtobus harakati",
+                    "avtobuslar qatnovi"
+                ],
+                "Uyghur": [
+                    "ئاپتوبۇس قاتنىشى",
+                    "ئاپتوبۇس ئېقىمى",
+                    "ئاپتوبۇس بېرىش-كېلىشى"
+                ],
+                "Kazakh": [
+                    "автобус қозғалысы",
+                    "автобус қатынасы",
+                    "автобус жүрісі"
+                ],
+                "Kyrgyz": [
+                    "автобус каттамы",
+                    "автобус кыймылы",
+                    "автобус жүрүшү"
+                ],
+                "Karakalpak": [
+                    "awtobus qatnası",
+                    "awtobus háreketi"
+                ],
+                "Tatar": [
+                    "автобус хәрәкәте",
+                    "автобус йөреше"
+                ],
+                "Bashkir": [
+                    "автобус хәрәкәте",
+                    "автобус йөрөшө",
+                    "автобус бәйләнеше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otobüs trafiği",
+                    "otobüs seferleri",
+                    "otobüs akışı",
+                    "otobüs gidiş gelişi"
+                ]
+            }
+        }
+    ]
+}

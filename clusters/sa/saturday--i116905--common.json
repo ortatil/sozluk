@@ -1,0 +1,70 @@
+{
+    "id": "i116905",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "saturday",
+    "en_definition": "the seventh and last day of the week; observed as the Sabbath by Jews and some Christians",
+    "tr_word": "cumartesi",
+    "tr_definition": "haftanın altıncı günü; cuma ile pazar arasındaki gün",
+    "ru_word": "суббота",
+    "ru_definition": "шестой день недели, между пятницей и воскресеньем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şənbə",
+                    "şənbə günü"
+                ],
+                "Turkmen": [
+                    "şenbe"
+                ],
+                "Uzbek": [
+                    "shanba"
+                ],
+                "Uyghur": [
+                    "شەنبە",
+                    "شەنبە كۈنى"
+                ],
+                "Kazakh": [
+                    "сенбі",
+                    "шәмбі"
+                ],
+                "Kyrgyz": [
+                    "шемби"
+                ],
+                "Karakalpak": [
+                    "shembi",
+                    "shembi kúni"
+                ],
+                "Tatar": [
+                    "шимбә"
+                ],
+                "Bashkir": [
+                    "шәмбе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cumartesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yevm-i sebt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ишемби"
+                ]
+            }
+        }
+    ]
+}

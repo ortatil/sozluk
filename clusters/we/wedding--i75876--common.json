@@ -1,0 +1,133 @@
+{
+    "id": "i75876",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wedding",
+    "en_definition": "the social event at which the ceremony of marriage is performed",
+    "tr_word": "düğün",
+    "tr_definition": "evlenme töreni ve bu tören dolayısıyla yapılan eğlence",
+    "ru_word": "свадьба",
+    "ru_definition": "торжественная церемония, посвященная заключению брака",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düğün",
+                    "toy"
+                ],
+                "Azerbaijani": [
+                    "toy",
+                    "düyün"
+                ],
+                "Turkmen": [
+                    "toý"
+                ],
+                "Uzbek": [
+                    "toʻy"
+                ],
+                "Uyghur": [
+                    "توي",
+                    "توي مۇراسىمى"
+                ],
+                "Kazakh": [
+                    "той"
+                ],
+                "Kyrgyz": [
+                    "той"
+                ],
+                "Karakalpak": [
+                    "toy"
+                ],
+                "Tatar": [
+                    "туй"
+                ],
+                "Bashkir": [
+                    "туй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nikah"
+                ],
+                "Turkmen": [
+                    "nikah"
+                ],
+                "Uzbek": [
+                    "nikoh"
+                ],
+                "Uyghur": [
+                    "نىكاھ تويى"
+                ],
+                "Kazakh": [
+                    "неке қию"
+                ],
+                "Kyrgyz": [
+                    "нике"
+                ],
+                "Karakalpak": [
+                    "neke"
+                ],
+                "Tatar": [
+                    "никах"
+                ],
+                "Bashkir": [
+                    "никах"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үйлену тойы",
+                    "үйлену рәсімі"
+                ],
+                "Kyrgyz": [
+                    "үйлөнүү тою"
+                ],
+                "Karakalpak": [
+                    "úyleniú toyı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cemiyet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şadlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "durmuş toýy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "visol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәҗлес"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+# White mustard
+| Field | Detail |
+|---|---|
+| **ID** | i99767 |
+| **English** | white mustard |
+| **Type** | noun |
+| **Definition** | Eurasian mustard cultivated for its pungent seeds; a source of table mustard and mustard oil |
+| **Source** | common |
+| **Ortatil** | qışa |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qışa** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қыша | qışa |
+| **Kyrgyz** | |
+| кычы | kıçı |
+
+```json
+{
+    "id": "i99767",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white mustard",
+    "en_definition": "Eurasian mustard cultivated for its pungent seeds; a source of table mustard and mustard oil",
+    "tr_word": "ak hardal",
+    "tr_definition": "Tohumları hardal yapımında kullanılan, sarı çiçekli ve otsu bir bitki türü.",
+    "ru_word": "белая горчица",
+    "ru_definition": "Вид однолетних травянистых растений рода Горчица, семена которого используются для приготовления приправы и масла.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak hardal"
+                ],
+                "Azerbaijani": [
+                    "ağ xardal",
+                    "ağ hardal"
+                ],
+                "Turkmen": [
+                    "ak gorçisa",
+                    "ak hardal"
+                ],
+                "Uzbek": [
+                    "oq xantal",
+                    "oq gorchitsa"
+                ],
+                "Kyrgyz": [
+                    "ак горчица"
+                ],
+                "Tatar": [
+                    "ак гәрчич",
+                    "ак горчица",
+                    "ак гәрчичә"
+                ],
+                "Bashkir": [
+                    "аҡ гәрсис",
+                    "аҡ горчица"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئاق قىچا",
+                    "ئاق قىچا ئۇرۇقى"
+                ],
+                "Kazakh": [
+                    "ақ қыша"
+                ],
+                "Kyrgyz": [
+                    "ак кычы"
+                ],
+                "Karakalpak": [
+                    "aq qısha"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қыша"
+                ],
+                "Kyrgyz": [
+                    "кычы"
+                ],
+                "Karakalpak": [
+                    "qısha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz hardal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xantal"
+                ]
+            }
+        }
+    ]
+}
+```
+

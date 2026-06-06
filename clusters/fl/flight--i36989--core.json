@@ -1,0 +1,113 @@
+{
+    "id": "i36989",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "flight",
+    "en_definition": "an instance of traveling by air",
+    "tr_word": "uçuş",
+    "tr_definition": "havada yol alma eylemi",
+    "ru_word": "полёт",
+    "ru_definition": "передвижение по воздуху",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uçuş"
+                ],
+                "Azerbaijani": [
+                    "uçuş"
+                ],
+                "Turkmen": [
+                    "uçuş"
+                ],
+                "Uzbek": [
+                    "uchish"
+                ],
+                "Uyghur": [
+                    "ئۇچۇش"
+                ],
+                "Kazakh": [
+                    "ұшу"
+                ],
+                "Kyrgyz": [
+                    "учуу",
+                    "учуш"
+                ],
+                "Karakalpak": [
+                    "ushıo",
+                    "ushıs"
+                ],
+                "Tatar": [
+                    "очу",
+                    "очыш"
+                ],
+                "Bashkir": [
+                    "осош",
+                    "осоу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pervaz"
+                ],
+                "Azerbaijani": [
+                    "pərvaz"
+                ],
+                "Turkmen": [
+                    "perwaz"
+                ],
+                "Uzbek": [
+                    "parvoz"
+                ],
+                "Uyghur": [
+                    "پەرۋاز"
+                ],
+                "Karakalpak": [
+                    "pároaz"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sefer"
+                ],
+                "Azerbaijani": [
+                    "səfər"
+                ],
+                "Kyrgyz": [
+                    "сапар"
+                ],
+                "Tatar": [
+                    "сәфәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұшақ сапары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуе сапары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "рейс"
+                ]
+            }
+        }
+    ]
+}

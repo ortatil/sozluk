@@ -1,0 +1,102 @@
+# Honey crisp
+| Field | Detail |
+|---|---|
+| **ID** | i76779 |
+| **English** | honey crisp |
+| **Type** | noun |
+| **Definition** | a crisp candy made with honey |
+| **Source** | common |
+| **Ortatil** | bal-qampit |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| бал-кәмпит | bal-kämpit |
+| бал-шытырлақ | bal-şıtırlaq |
+| бал-қоспа | bal-qospa |
+
+```json
+{
+    "id": "i76779",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "honey crisp",
+    "en_definition": "a crisp candy made with honey",
+    "tr_word": "ballı krokan",
+    "tr_definition": "bal ile yapılan gevrek bir şekerleme",
+    "ru_word": "медовый грильяж",
+    "ru_definition": "хрустящая конфета, приготовленная с медом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ballı krokan",
+                    "ballı gevrek",
+                    "ballı şekerleme"
+                ],
+                "Azerbaijani": [
+                    "ballı qoz",
+                    "ballı şirniyyat",
+                    "ballı xırtıldayan"
+                ],
+                "Turkmen": [
+                    "bally süýji",
+                    "bally hrust",
+                    "bally kakyş"
+                ],
+                "Uzbek": [
+                    "bolli qand"
+                ],
+                "Kazakh": [
+                    "бал-кәмпит",
+                    "бал-шытырлақ",
+                    "бал-қоспа"
+                ],
+                "Kyrgyz": [
+                    "бал шириндик",
+                    "бал таттуу",
+                    "бал момпосуй"
+                ],
+                "Karakalpak": [
+                    "ballı qatpa",
+                    "ballı sheker"
+                ],
+                "Tatar": [
+                    "баллы какы",
+                    "баллы кәтләмә",
+                    "баллы катырма"
+                ],
+                "Bashkir": [
+                    "баллы ҡатыҡай",
+                    "баллы кәнфит",
+                    "баллы татлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asalli qand",
+                    "asalli shirinlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەسەل پېچىنە",
+                    "ھەسەل تاتلىق-تۈرۈمى",
+                    "ھەسەل كەمپۈت"
+                ]
+            }
+        }
+    ]
+}
+```
+

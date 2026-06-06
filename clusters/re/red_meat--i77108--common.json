@@ -1,0 +1,93 @@
+{
+    "id": "i77108",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "red meat",
+    "en_definition": "meat that is dark in color before cooking (as beef, venison, lamb, mutton)",
+    "tr_word": "kırmızı et",
+    "tr_definition": "Pişirilmeden önce rengi koyu olan et (sığır, geyik, kuzu veya koyun eti gibi).",
+    "ru_word": "красное мясо",
+    "ru_definition": "Мясо, имеющее темный цвет в сыром виде (например, говядина, оленина, баранина).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kırmızı et",
+                    "kara et"
+                ],
+                "Azerbaijani": [
+                    "qırmızı ət",
+                    "qara ət"
+                ],
+                "Uyghur": [
+                    "قارا گۆش"
+                ],
+                "Kazakh": [
+                    "қызыл ет",
+                    "қара ет"
+                ],
+                "Kyrgyz": [
+                    "кызыл эт",
+                    "кара эт"
+                ],
+                "Karakalpak": [
+                    "qızıl gósh",
+                    "qızıl et"
+                ],
+                "Tatar": [
+                    "кызыл ит",
+                    "кызыл итләр"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл ит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyzyl et"
+                ],
+                "Uzbek": [
+                    "qizil go'sht"
+                ],
+                "Uyghur": [
+                    "قىزىل گۆش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goýun eti"
+                ],
+                "Uzbek": [
+                    "qo'y go'shti"
+                ],
+                "Bashkir": [
+                    "ҡуй ите"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sygyr eti"
+                ],
+                "Bashkir": [
+                    "һыйыр ите"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mol go'shti"
+                ]
+            }
+        }
+    ]
+}

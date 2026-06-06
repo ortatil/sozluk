@@ -1,0 +1,109 @@
+# Cargo liner
+| Field | Detail |
+|---|---|
+| **ID** | i51530 |
+| **English** | cargo liner |
+| **Type** | noun |
+| **Definition** | a liner that carries cargo |
+| **Source** | common |
+| **Ortatil** | şiläp |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| кеме | keme |
+
+```json
+{
+    "id": "i51530",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cargo liner",
+    "en_definition": "a liner that carries cargo",
+    "tr_word": "yük gemisi",
+    "tr_definition": "belirli bir rota üzerinde düzenli seferler yaparak yük taşıyan gemi",
+    "ru_word": "грузовой лайнер",
+    "ru_definition": "судно, совершающее регулярные рейсы по расписанию для перевозки грузов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yük gemisi"
+                ],
+                "Azerbaijani": [
+                    "yük gəmisi",
+                    "yük layneri"
+                ],
+                "Turkmen": [
+                    "ýük gämisi",
+                    "ýükdaşaýjy gämi"
+                ],
+                "Uzbek": [
+                    "yuk kemasi",
+                    "yuk tashuvchi kema"
+                ],
+                "Uyghur": [
+                    "يۈك پاراخوتى",
+                    "يۈك كېمىسى"
+                ],
+                "Kazakh": [
+                    "жүк кемесі",
+                    "жүк тасығыш кеме"
+                ],
+                "Kyrgyz": [
+                    "жүк кемеси",
+                    "жүк ташуучу кеме"
+                ],
+                "Karakalpak": [
+                    "júk kemesi",
+                    "júk tasıytuǵın keme"
+                ],
+                "Tatar": [
+                    "йөк көймәсе",
+                    "йөк корабы",
+                    "йөк судносы"
+                ],
+                "Bashkir": [
+                    "йөк карабы",
+                    "йөк судноһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şilep"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yük vapuru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ticaret gemisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кеме"
+                ]
+            }
+        }
+    ]
+}
+```
+

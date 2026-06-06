@@ -1,0 +1,169 @@
+{
+    "id": "i1008",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "out of stock",
+    "en_definition": "not available for sale or use",
+    "tr_word": "stokta yok",
+    "tr_definition": "satışta veya kullanımda mevcut olmayan",
+    "ru_word": "нет в наличии",
+    "ru_definition": "отсутствует в продаже или использовании",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yoxdur"
+                ],
+                "Turkmen": [
+                    "ýok"
+                ],
+                "Uzbek": [
+                    "yoʻq"
+                ],
+                "Uyghur": [
+                    "يوق"
+                ],
+                "Kazakh": [
+                    "жоқ"
+                ],
+                "Kyrgyz": [
+                    "жок"
+                ],
+                "Karakalpak": [
+                    "joq"
+                ],
+                "Tatar": [
+                    "юк"
+                ],
+                "Bashkir": [
+                    "юҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tükendi"
+                ],
+                "Azerbaijani": [
+                    "tükənmiş"
+                ],
+                "Turkmen": [
+                    "tükenen"
+                ],
+                "Uzbek": [
+                    "tugagan"
+                ],
+                "Uyghur": [
+                    "تۈگىگەن"
+                ],
+                "Kyrgyz": [
+                    "түгөнгөн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kalmadı"
+                ],
+                "Turkmen": [
+                    "galmadyk"
+                ],
+                "Uzbek": [
+                    "qolmagan"
+                ],
+                "Uyghur": [
+                    "قالمىغان"
+                ],
+                "Kyrgyz": [
+                    "калган эмес"
+                ],
+                "Bashkir": [
+                    "ҡалмаған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bitmiş"
+                ],
+                "Kazakh": [
+                    "біткен"
+                ],
+                "Kyrgyz": [
+                    "бүткөн"
+                ],
+                "Karakalpak": [
+                    "bіtken"
+                ],
+                "Tatar": [
+                    "беткән"
+                ],
+                "Bashkir": [
+                    "бөткән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mevcut değil"
+                ],
+                "Azerbaijani": [
+                    "mövcud deyil"
+                ],
+                "Uzbek": [
+                    "mavjud emas"
+                ],
+                "Uyghur": [
+                    "مەۋجۇت ئەمەس"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "таусылған"
+                ],
+                "Karakalpak": [
+                    "tausılǵan"
+                ],
+                "Tatar": [
+                    "тамамланган"
+                ],
+                "Bashkir": [
+                    "тамамланған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "stokta yok"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gutaran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сатылып беткән"
+                ]
+            }
+        }
+    ]
+}

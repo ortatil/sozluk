@@ -1,0 +1,224 @@
+# Rafter
+| Field | Detail |
+|---|---|
+| **ID** | i57914 |
+| **English** | rafter |
+| **Type** | noun |
+| **Definition** | one of several parallel sloping beams that support a roof |
+| **Source** | common |
+| **Ortatil** | tirek |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tirek** | **kiriş** | **baqan** | **mertkä** |
+|---|---|---|---|---|
+| Turkish | ❌ | ✅ | ❌ | ✅ |
+| Azerbaijani | ✅ | ❌ | ❌ | ✅ |
+| Turkmen | ✅ | ❌ | ❌ | ✅ |
+| Uzbek | ✅ | ❌ | ✅ | ❌ |
+| Uyghur | ❌ | ❌ | ❌ | ❌ |
+| Kazakh | ❌ | ✅ | ✅ | ❌ |
+| Kyrgyz | ❌ | ✅ | ✅ | ❌ |
+| Karakalpak | ✅ | ✅ | ✅ | ❌ |
+| Tatar | ❌ | ❌ | ❌ | ❌ |
+| Bashkir | ❌ | ❌ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.33 | 0 | 1 |
+| *Qarluq Subtotal* | 0.50 | 0 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.60 | 0.80 | 0 |
+| *In All* | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |  |
+| **O'TQ** | **2.37** | **1.43** | **1.30** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ۋاسسا | vassa |
+| تۈڭلۈك | tüñlük |
+| باغىچ | bağiç |
+| **Kazakh** | |
+| бақан | baqan |
+| кереге | kerege |
+| арқалық | arqalıq |
+| уық | uıq |
+| **Kyrgyz** | |
+| балка | balka |
+| кыр | kır |
+| уук | uuk |
+| кабырга | kabırga |
+| **Bashkir** | |
+| балка | balka |
+| артма | artma |
+| өйрәк | öyräk |
+| һағау | hağau |
+
+```json
+{
+    "id": "i57914",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rafter",
+    "en_definition": "one of several parallel sloping beams that support a roof",
+    "tr_word": "mertek",
+    "tr_definition": "Çatıyı taşımak için kullanılan, eğimli ve birbirine paralel yerleştirilmiş kalın ağaç veya metal kirişlerden her biri.",
+    "ru_word": "стропило",
+    "ru_definition": "Одна из нескольких параллельных наклонных балок, поддерживающих скат крыши.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bolor"
+                ],
+                "Kazakh": [
+                    "бақан"
+                ],
+                "Kyrgyz": [
+                    "балка"
+                ],
+                "Karakalpak": [
+                    "baqan"
+                ],
+                "Bashkir": [
+                    "балка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kiriş"
+                ],
+                "Kazakh": [
+                    "кереге"
+                ],
+                "Kyrgyz": [
+                    "кыр"
+                ],
+                "Karakalpak": [
+                    "kergіsh"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tir"
+                ],
+                "Turkmen": [
+                    "tirsek",
+                    "direg"
+                ],
+                "Uzbek": [
+                    "tirgak"
+                ],
+                "Karakalpak": [
+                    "tirek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mertek"
+                ],
+                "Azerbaijani": [
+                    "mertek"
+                ],
+                "Turkmen": [
+                    "mertek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vassa"
+                ],
+                "Uyghur": [
+                    "ۋاسسا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арқалық"
+                ],
+                "Bashkir": [
+                    "артма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "уық"
+                ],
+                "Kyrgyz": [
+                    "уук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çatı kirişi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dayaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "to'sin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈڭلۈك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باغىچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кабырга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өйрәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һағау"
+                ]
+            }
+        }
+    ]
+}
+```
+

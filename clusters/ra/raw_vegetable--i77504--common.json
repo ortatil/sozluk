@@ -1,0 +1,99 @@
+{
+    "id": "i77504",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "raw vegetable",
+    "en_definition": "an uncooked vegetable",
+    "tr_word": "çiğ sebze",
+    "tr_definition": "pişirilmemiş sebze",
+    "ru_word": "сырой овощ",
+    "ru_definition": "овощ, не подвергшийся термической обработке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çiğ sebze"
+                ],
+                "Azerbaijani": [
+                    "çiy tərəvəz"
+                ],
+                "Turkmen": [
+                    "çig gök önüm",
+                    "çig gök"
+                ],
+                "Kazakh": [
+                    "шикі көкөніс"
+                ],
+                "Kyrgyz": [
+                    "чийки жашылча"
+                ],
+                "Tatar": [
+                    "чи яшелчә"
+                ],
+                "Bashkir": [
+                    "сей йәшелсә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bişməmiş tərəvəz"
+                ],
+                "Uzbek": [
+                    "pishmagan sabzavot"
+                ],
+                "Uyghur": [
+                    "پىشمىغان كۆكتات"
+                ],
+                "Kazakh": [
+                    "піспеген көкөніс"
+                ],
+                "Kyrgyz": [
+                    "бышпаган жашылча"
+                ],
+                "Tatar": [
+                    "пешмәгән яшелчә"
+                ],
+                "Bashkir": [
+                    "бешмәгән йәшелсә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xom sabzavot"
+                ],
+                "Uyghur": [
+                    "خام كۆكتات"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taze sebze"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жас көкөніс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shiyki palle",
+                    "shiyki palız",
+                    "shiyki ónim"
+                ]
+            }
+        }
+    ]
+}

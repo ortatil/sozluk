@@ -1,0 +1,240 @@
+# Beware
+| Field | Detail |
+|---|---|
+| **ID** | i25323 |
+| **English** | beware |
+| **Type** | verb |
+| **Definition** | be on one's guard; be cautious or wary about; be alert to |
+| **Source** | common |
+| **Ortatil** | saqlanmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **saqlanmaq** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ساقلانماق | saqlanmaq |
+| **Kazakh** | |
+| сақтану | saqtanu |
+| абайлау | abaylau |
+| байқау | bayqau |
+| **Kyrgyz** | |
+| сактануу | saktanuu |
+| абайлоо | abayloo |
+| байкоо | baykoo |
+| **Tatar** | |
+| саклану | saklanu |
+| хәвефләнү | xäveflänü |
+| **Bashkir** | |
+| һаҡланыу | haqlanıu |
+
+```json
+{
+    "id": "i25323",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "beware",
+    "en_definition": "be on one's guard; be cautious or wary about; be alert to",
+    "tr_word": "sakınmak",
+    "tr_definition": "dikkatli olmak, tetikte olmak veya bir tehlikeden kaçınmak",
+    "ru_word": "остерегаться",
+    "ru_definition": "быть осторожным, проявлять бдительность по отношению к кому-либо или чему-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sakınmak",
+                    "çekinmek"
+                ],
+                "Azerbaijani": [
+                    "çəkinmək",
+                    "sakınmaq"
+                ],
+                "Turkmen": [
+                    "saklanmak",
+                    "çekinmek"
+                ],
+                "Uzbek": [
+                    "saqlanmoq"
+                ],
+                "Uyghur": [
+                    "ساقلانماق"
+                ],
+                "Kazakh": [
+                    "сақтану"
+                ],
+                "Kyrgyz": [
+                    "сактануу"
+                ],
+                "Karakalpak": [
+                    "saqlanıu",
+                    "saq bolıu"
+                ],
+                "Tatar": [
+                    "саклану",
+                    "сак булу"
+                ],
+                "Bashkir": [
+                    "һаҡланыу",
+                    "һаҡ булыу",
+                    "һаҡланып йөрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ehtiyatlı olmaq"
+                ],
+                "Turkmen": [
+                    "ätiýaç etmek"
+                ],
+                "Uzbek": [
+                    "ehtiyot bo'lmoq"
+                ],
+                "Uyghur": [
+                    "ئېھتىيات قىلماق"
+                ],
+                "Kyrgyz": [
+                    "этият болуу"
+                ],
+                "Karakalpak": [
+                    "itiyatlı bolıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazretmek"
+                ],
+                "Azerbaijani": [
+                    "həzər etmək"
+                ],
+                "Turkmen": [
+                    "hüşýar bolmak"
+                ],
+                "Uzbek": [
+                    "hushyor bo'lmoq"
+                ],
+                "Uyghur": [
+                    "ھوشيار بولماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ogoh bo'lmoq"
+                ],
+                "Tatar": [
+                    "игътибарлы булу"
+                ],
+                "Bashkir": [
+                    "иғтибарлы булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "абайлау"
+                ],
+                "Kyrgyz": [
+                    "абайлоо"
+                ],
+                "Karakalpak": [
+                    "abaylı bolıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dikkat etmek"
+                ],
+                "Uyghur": [
+                    "دىققەت قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "байқау"
+                ],
+                "Kyrgyz": [
+                    "байкоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uyanık olmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qorunmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "seresap bolmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қаперде ұстау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сақ болу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәвефләнү"
+                ]
+            }
+        }
+    ]
+}
+```
+

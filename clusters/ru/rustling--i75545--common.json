@@ -1,0 +1,117 @@
+{
+    "id": "i75545",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rustling",
+    "en_definition": "a light noise, like the noise of silk clothing or leaves blowing in the wind",
+    "tr_word": "hışırtı",
+    "tr_definition": "İpekli giysilerin veya rüzgarda savrulan yaprakların çıkardığı hafif ses.",
+    "ru_word": "шорох",
+    "ru_definition": "легкий шум, подобный звуку шелковой одежды или листьев, развевающихся на ветру.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hışırtı",
+                    "hışırtı sesi",
+                    "hış hış"
+                ],
+                "Azerbaijani": [
+                    "xışıltı",
+                    "xış-xış"
+                ],
+                "Turkmen": [
+                    "şyşyrdy",
+                    "hyrşyldy"
+                ],
+                "Uyghur": [
+                    "خىشىرلاش"
+                ],
+                "Bashkir": [
+                    "хышылдау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сыбдыр",
+                    "сытыр",
+                    "сыбдыс"
+                ],
+                "Kyrgyz": [
+                    "шыбырт",
+                    "шытыр",
+                    "шыбыр"
+                ],
+                "Karakalpak": [
+                    "sıbdır",
+                    "sıtır",
+                    "sıtır-sıtır",
+                    "sıbdır-sıbdır"
+                ],
+                "Bashkir": [
+                    "шыбырлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shitirlash",
+                    "shitir-shitir"
+                ],
+                "Uyghur": [
+                    "شىلدىراش",
+                    "شىلدىر-شىلدىر",
+                    "شىلدىرلىغان ئاۋاز"
+                ],
+                "Kyrgyz": [
+                    "шытыраш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şygyrdy"
+                ],
+                "Uzbek": [
+                    "shovur",
+                    "shovullash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыштырдау",
+                    "кыштыр-кыштыр",
+                    "кыштырлау",
+                    "кыштырды"
+                ],
+                "Bashkir": [
+                    "кыштырлау",
+                    "кыштыр-кыштыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pıçıltı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шуыл"
+                ]
+            }
+        }
+    ]
+}

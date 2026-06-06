@@ -1,0 +1,154 @@
+{
+    "id": "i8842",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "subjective",
+    "en_definition": "taking place within the mind and modified by individual bias",
+    "tr_word": "öznel",
+    "tr_definition": "Bireyin kendi düşünce ve duygularına dayanan, kişiden kişiye değişen.",
+    "ru_word": "субъективный",
+    "ru_definition": "Основанный на личном мнении, чувствах или интересах, а не на внешних фактах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öznel"
+                ],
+                "Azerbaijani": [
+                    "özünəməxsus"
+                ],
+                "Turkmen": [
+                    "özbaşdak"
+                ],
+                "Uyghur": [
+                    "ئۆزگىچە"
+                ],
+                "Kazakh": [
+                    "өзіндік"
+                ],
+                "Kyrgyz": [
+                    "өзүмдүк"
+                ],
+                "Karakalpak": [
+                    "ózinshe"
+                ],
+                "Tatar": [
+                    "үзлекле"
+                ],
+                "Bashkir": [
+                    "үҙенсәлекле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "subjektif"
+                ],
+                "Azerbaijani": [
+                    "subyektiv"
+                ],
+                "Turkmen": [
+                    "subýektiw"
+                ],
+                "Uzbek": [
+                    "subyektiv"
+                ],
+                "Uyghur": [
+                    "سۇبيېكتىپ"
+                ],
+                "Kazakh": [
+                    "субъективті"
+                ],
+                "Kyrgyz": [
+                    "субъективдүү"
+                ],
+                "Karakalpak": [
+                    "subektiwlik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "içki"
+                ],
+                "Uzbek": [
+                    "ichki"
+                ],
+                "Uyghur": [
+                    "ئىچكى"
+                ],
+                "Kazakh": [
+                    "жеке",
+                    "ішкі"
+                ],
+                "Kyrgyz": [
+                    "жекече",
+                    "ички"
+                ],
+                "Karakalpak": [
+                    "jekeshe",
+                    "ishki"
+                ],
+                "Tatar": [
+                    "эчке"
+                ],
+                "Bashkir": [
+                    "эске"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şahsi",
+                    "zati"
+                ],
+                "Azerbaijani": [
+                    "şəxsi"
+                ],
+                "Turkmen": [
+                    "şahsy"
+                ],
+                "Uzbek": [
+                    "shaxsiy"
+                ],
+                "Uyghur": [
+                    "شەخسىي"
+                ],
+                "Tatar": [
+                    "шәхси"
+                ],
+                "Bashkir": [
+                    "шәхси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "enfüsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fərdi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zotiy"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "id": "i32016",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "draw close",
+    "en_definition": "move towards",
+    "tr_word": "yaklaşmak",
+    "tr_definition": "bir şeye veya birine doğru hareket etmek, aradaki mesafeyi azaltmak",
+    "ru_word": "приближаться",
+    "ru_definition": "двигаться по направлению к кому-либо или чему-либо, сокращая расстояние",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaklaşmak",
+                    "yanaşmak",
+                    "yakınlaşmak"
+                ],
+                "Azerbaijani": [
+                    "yaxınlaşmaq",
+                    "yanaşmaq",
+                    "yaxın gəlmək"
+                ],
+                "Turkmen": [
+                    "ýakynlaşmak",
+                    "ýanap gelmek"
+                ],
+                "Uzbek": [
+                    "yaqinlashmoq",
+                    "yaqin kelmoq",
+                    "yaqin bormoq",
+                    "yondashmoq"
+                ],
+                "Uyghur": [
+                    "يېقىنلاشماق",
+                    "يېقىن كەلمەك",
+                    "يېقىن بارماق",
+                    "يېقىنلاش"
+                ],
+                "Kazakh": [
+                    "жақындау"
+                ],
+                "Kyrgyz": [
+                    "жакында-"
+                ],
+                "Karakalpak": [
+                    "jaqınlasıu"
+                ],
+                "Tatar": [
+                    "якынлашу",
+                    "якын килү"
+                ],
+                "Bashkir": [
+                    "яҡынлашыу",
+                    "яҡын килеү",
+                    "яҡын барыу",
+                    "яҡынайыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жуықтау"
+                ],
+                "Kyrgyz": [
+                    "жуукта-"
+                ],
+                "Karakalpak": [
+                    "juuıqlasıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "келу"
+                ],
+                "Kyrgyz": [
+                    "кел-"
+                ],
+                "Karakalpak": [
+                    "keliu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таяу"
+                ],
+                "Karakalpak": [
+                    "tayau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "golaýlaşmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бет ал-"
+                ]
+            }
+        }
+    ]
+}

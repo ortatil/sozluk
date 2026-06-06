@@ -1,0 +1,156 @@
+{
+    "id": "i5095",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "due",
+    "en_definition": "scheduled to arrive",
+    "tr_word": "beklenen",
+    "tr_definition": "belirli bir zamanda gelmesi veya gerçekleşmesi planlanan",
+    "ru_word": "ожидаемый",
+    "ru_definition": "запланированный к прибытию или совершению в определенное время",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "belgilenen"
+                ],
+                "Uzbek": [
+                    "belgilangan"
+                ],
+                "Uyghur": [
+                    "بەلگىلەنگەن"
+                ],
+                "Kazakh": [
+                    "белгіленген"
+                ],
+                "Kyrgyz": [
+                    "белгиленген"
+                ],
+                "Karakalpak": [
+                    "belgilengen"
+                ],
+                "Tatar": [
+                    "билгеләнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kutilayotgan"
+                ],
+                "Kazakh": [
+                    "күтілген"
+                ],
+                "Kyrgyz": [
+                    "күтүлгөн"
+                ],
+                "Karakalpak": [
+                    "kútilip atırǵan"
+                ],
+                "Tatar": [
+                    "көтелгән"
+                ],
+                "Bashkir": [
+                    "көтөлгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gelmeli"
+                ],
+                "Uyghur": [
+                    "كېلىدىغان"
+                ],
+                "Kyrgyz": [
+                    "келе турган"
+                ],
+                "Karakalpak": [
+                    "keletuǵın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muayyen"
+                ],
+                "Azerbaijani": [
+                    "müəyyən olunmuş"
+                ],
+                "Uzbek": [
+                    "muayyan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тиісті"
+                ],
+                "Tatar": [
+                    "тиешле"
+                ],
+                "Bashkir": [
+                    "тейешле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beklenen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vakti gelmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vaxtı çatmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gözlənilən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "garaşylýan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۆلچەرلەنگەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "билдәләнгән"
+                ]
+            }
+        }
+    ]
+}

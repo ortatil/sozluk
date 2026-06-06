@@ -1,0 +1,78 @@
+{
+    "id": "i105485",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "plant organ",
+    "en_definition": "a functional and structural unit of a plant or fungus",
+    "tr_word": "bitki organı",
+    "tr_definition": "bir bitki veya mantarın işlevsel ve yapısal birimi",
+    "ru_word": "орган растения",
+    "ru_definition": "функциональная и структурная единица растения или гриба",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ösumlik organy",
+                    "ösumlik agzasy"
+                ],
+                "Uzbek": [
+                    "oʻsimlik aʼzosi",
+                    "oʻsimlik organi"
+                ],
+                "Uyghur": [
+                    "ئۆسۈملۈك ئەزاسى"
+                ],
+                "Kazakh": [
+                    "өсімдік мүшесі",
+                    "өсімдік ағзасы"
+                ],
+                "Kyrgyz": [
+                    "өсүмдүк мүчөсү",
+                    "өсүмдүк органы"
+                ],
+                "Tatar": [
+                    "үсемлек әгъзасы",
+                    "үсемлек органы"
+                ],
+                "Bashkir": [
+                    "үҫемлек ағзаһы",
+                    "үҫемлек органы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bitki organı",
+                    "bitki uzvu"
+                ],
+                "Azerbaijani": [
+                    "bitki üzvü",
+                    "bitki orqanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئورگان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "múshe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aǵza"
+                ]
+            }
+        }
+    ]
+}

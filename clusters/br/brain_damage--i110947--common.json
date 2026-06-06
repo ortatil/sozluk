@@ -1,0 +1,88 @@
+{
+    "id": "i110947",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brain damage",
+    "en_definition": "injury to the brain that impairs its functions (especially permanently); can be caused by trauma to the head, infection, hemorrhage, inadequate oxygen, genetic abnormality, etc.",
+    "tr_word": "beyin hasarı",
+    "tr_definition": "Kafa travması, enfeksiyon, kanama, yetersiz oksijen veya genetik anormallik gibi nedenlerle beyinde meydana gelen ve işlevlerini (özellikle kalıcı olarak) bozan yaralanma.",
+    "ru_word": "повреждение головного мозга",
+    "ru_definition": "Травма головного мозга, нарушающая его функции (особенно на постоянной основе); может быть вызвана травмой головы, инфекцией, кровоизлиянием, недостатком кислорода, генетическими аномалиями и т. д.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "miya shikastlanishi"
+                ],
+                "Uyghur": [
+                    "مېڭە زەخمىلىنىشى",
+                    "مېڭە زەخمىسى",
+                    "مېڭە زىيىنى"
+                ],
+                "Kyrgyz": [
+                    "мээнин жабыркашы",
+                    "мээнин закымдалышы",
+                    "мээнин бузулушу"
+                ],
+                "Bashkir": [
+                    "мейе йәрәхәте",
+                    "мейе зыяны",
+                    "мейе имгәнеүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "miya jarohati",
+                    "miya nuqsoni"
+                ],
+                "Kazakh": [
+                    "ми зақымы",
+                    "ми жарақаты"
+                ],
+                "Karakalpak": [
+                    "miy zaqımlanıoı",
+                    "miy jaraqatı",
+                    "miy keselligi"
+                ],
+                "Tatar": [
+                    "ми зарарлануы",
+                    "ми җәрәхәте",
+                    "ми имгәнүе",
+                    "ми зыяны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beyin hasarı",
+                    "beyin zedelenmesi",
+                    "beyin tahribatı"
+                ],
+                "Azerbaijani": [
+                    "beyin zədələnməsi",
+                    "beyin xəsarəti",
+                    "beyin zədəsi",
+                    "beyin travması"
+                ],
+                "Turkmen": [
+                    "beýni şikesi",
+                    "beýni zeperlenmesi",
+                    "beýni şikeslenmesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мидың зақымдануы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "i92012",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pianist",
+    "en_definition": "a person who plays the piano",
+    "tr_word": "piyanist",
+    "tr_definition": "piyano çalan kimse",
+    "ru_word": "пианист",
+    "ru_definition": "человек, играющий на пианино",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "piyanist",
+                    "piyano çalan",
+                    "piyano sanatçısı"
+                ],
+                "Azerbaijani": [
+                    "pianoçu",
+                    "pianist"
+                ],
+                "Turkmen": [
+                    "pianinoçy"
+                ],
+                "Uzbek": [
+                    "pianinochi"
+                ],
+                "Uyghur": [
+                    "پىيانىنوچى",
+                    "پىيانىنو چالغۇچى"
+                ],
+                "Kyrgyz": [
+                    "пианиночу"
+                ],
+                "Karakalpak": [
+                    "pianinoshı"
+                ],
+                "Tatar": [
+                    "пианочы"
+                ],
+                "Bashkir": [
+                    "пианосы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "fortepianoçy"
+                ],
+                "Uzbek": [
+                    "fortepianochi"
+                ],
+                "Tatar": [
+                    "фортепианочы"
+                ],
+                "Bashkir": [
+                    "фортепианосы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күйсандықшы",
+                    "күйсандықта ойнаушы"
+                ],
+                "Karakalpak": [
+                    "kúyshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күүчү"
+                ]
+            }
+        }
+    ]
+}

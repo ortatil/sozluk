@@ -1,0 +1,112 @@
+{
+    "id": "i109085",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "digit",
+    "en_definition": "one of the elements that collectively form a system of numeration",
+    "tr_word": "rakam",
+    "tr_definition": "sayıları yazmak için kullanılan on işaretten her biri",
+    "ru_word": "цифра",
+    "ru_definition": "знак, обозначающий число",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sayı"
+                ],
+                "Azerbaijani": [
+                    "say"
+                ],
+                "Turkmen": [
+                    "san"
+                ],
+                "Uzbek": [
+                    "son"
+                ],
+                "Uyghur": [
+                    "سان"
+                ],
+                "Kazakh": [
+                    "сан"
+                ],
+                "Kyrgyz": [
+                    "сандар"
+                ],
+                "Karakalpak": [
+                    "san"
+                ],
+                "Tatar": [
+                    "сан"
+                ],
+                "Bashkir": [
+                    "һан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sifr"
+                ],
+                "Kazakh": [
+                    "цифр"
+                ],
+                "Kyrgyz": [
+                    "цифра"
+                ],
+                "Karakalpak": [
+                    "cifr"
+                ],
+                "Tatar": [
+                    "цифр"
+                ],
+                "Bashkir": [
+                    "цифр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rakam"
+                ],
+                "Azerbaijani": [
+                    "rəqəm"
+                ],
+                "Uzbek": [
+                    "raqam"
+                ],
+                "Uyghur": [
+                    "رەقەم"
+                ],
+                "Tatar": [
+                    "рәкам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "basamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "белги"
+                ]
+            }
+        }
+    ]
+}

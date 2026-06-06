@@ -1,0 +1,59 @@
+{
+    "id": "i83794",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "skopje",
+    "en_definition": "capital of modern Macedonia",
+    "tr_word": "Üsküp",
+    "tr_definition": "Makedonya'nın başkenti",
+    "ru_word": "Скопье",
+    "ru_definition": "столица современной Македонии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Skopye"
+                ],
+                "Turkmen": [
+                    "Skopýe"
+                ],
+                "Uzbek": [
+                    "Skopye"
+                ],
+                "Uyghur": [
+                    "ئىسكۇپىيە شەھىرى"
+                ],
+                "Kazakh": [
+                    "Скопье"
+                ],
+                "Kyrgyz": [
+                    "Скопье"
+                ],
+                "Karakalpak": [
+                    "Skope"
+                ],
+                "Tatar": [
+                    "Скопье"
+                ],
+                "Bashkir": [
+                    "Скопье"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Üsküp"
+                ],
+                "Azerbaijani": [
+                    "Üsküb"
+                ],
+                "Uyghur": [
+                    "ئىسكۇپىيە"
+                ]
+            }
+        }
+    ]
+}

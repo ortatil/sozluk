@@ -1,0 +1,74 @@
+{
+    "id": "i42204",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "american civil war",
+    "en_definition": "civil war in the United States between the North and the South; 1861-1865",
+    "tr_word": "Amerikan İç Savaşı",
+    "tr_definition": "1861-1865 yılları arasında Amerika Birleşik Devletleri'nde Kuzey ve Güney eyaletleri arasında gerçekleşen iç savaş.",
+    "ru_word": "Гражданская война в США",
+    "ru_definition": "Гражданская война в Соединённых Штатах между Севером и Югом, проходившая в 1861–1865 годах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Amerikan İç Savaşı",
+                    "Amerika İç Harbi"
+                ],
+                "Azerbaijani": [
+                    "Amerika vətəndaş müharibəsi",
+                    "Amerika daxili müharibəsi"
+                ],
+                "Turkmen": [
+                    "Amerikanyň raýat urşy",
+                    "Amerikanyň içki urşy"
+                ],
+                "Uzbek": [
+                    "Amerika fuqarolar urushi",
+                    "Amerika ichki urushi"
+                ],
+                "Uyghur": [
+                    "ئامېرىكا ئىچكى ئۇرۇشى",
+                    "ئامېرىكا پۇقرالار ئۇرۇشى"
+                ],
+                "Kazakh": [
+                    "Америкадағы азамат соғысы"
+                ],
+                "Kyrgyz": [
+                    "Америкадагы жарандык согуш",
+                    "Америка Кошмо Штаттарындагы ички согуш"
+                ],
+                "Karakalpak": [
+                    "Amerika puqaralıq urısı",
+                    "Amerikadaǵı puqaralar urısı"
+                ],
+                "Tatar": [
+                    "Америка ватандашлар сугышы",
+                    "Америка гражданнар сугышы"
+                ],
+                "Bashkir": [
+                    "Америка Граждандар һуғышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "АҚШ-тағы азамат соғысы",
+                    "Солтүстік пен Оңтүстік арасындағы соғыс"
+                ],
+                "Bashkir": [
+                    "АҠШ-тағы Граждандар һуғышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "AQSh puqaralıq urısı"
+                ]
+            }
+        }
+    ]
+}

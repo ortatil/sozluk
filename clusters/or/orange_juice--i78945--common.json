@@ -1,0 +1,63 @@
+{
+    "id": "i78945",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "orange juice",
+    "en_definition": "bottled or freshly squeezed juice of oranges",
+    "tr_word": "portakal suyu",
+    "tr_definition": "taze sıkılmış veya şişelenmiş portakal meyvesinin suyu",
+    "ru_word": "апельсиновый сок",
+    "ru_definition": "бутилированный или свежевыжатый сок из апельсинов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "apelsin sharbati",
+                    "apelsin suvi"
+                ],
+                "Uyghur": [
+                    "ئاپېلسىن شەربىتى",
+                    "ئاپېلسىن سۈيى"
+                ],
+                "Kazakh": [
+                    "апельсин шырыны",
+                    "апельсин сусыны"
+                ],
+                "Kyrgyz": [
+                    "апельсин ширеси",
+                    "апельсин суусу"
+                ],
+                "Karakalpak": [
+                    "apelsin shiresi",
+                    "apelsin suwı"
+                ],
+                "Tatar": [
+                    "әфлисун суы",
+                    "әфлисун шәрбәте"
+                ],
+                "Bashkir": [
+                    "апельсин һуты",
+                    "апельсин шәрбәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "portakal suyu",
+                    "portakal şerbeti"
+                ],
+                "Azerbaijani": [
+                    "portağal şirəsi",
+                    "portağal suyu"
+                ],
+                "Turkmen": [
+                    "pyrtykal şiresi",
+                    "pyrtykal suwy"
+                ]
+            }
+        }
+    ]
+}

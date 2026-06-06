@@ -1,0 +1,129 @@
+{
+    "id": "i71077",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spyware",
+    "en_definition": "computer software that obtains information from a user's computer without the user's knowledge or consent",
+    "tr_word": "casus yazılım",
+    "tr_definition": "kullanıcının bilgisi veya izni olmadan bilgisayarından bilgi toplayan yazılım",
+    "ru_word": "шпионское ПО",
+    "ru_definition": "программное обеспечение, предназначенное для скрытого сбора информации о действиях пользователя компьютера",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "casus yazılım"
+                ],
+                "Azerbaijani": [
+                    "casus proqramı",
+                    "casus yazılımı"
+                ],
+                "Uzbek": [
+                    "josusiy dastur"
+                ],
+                "Uyghur": [
+                    "جاسۇسلۇق يۇمشاق دېتالى",
+                    "جاسۇس يۇمشاق دېتالى"
+                ],
+                "Kyrgyz": [
+                    "жашыруун программа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ogry programma"
+                ],
+                "Tatar": [
+                    "тыңлау программасы",
+                    "тыңлаучы программа"
+                ],
+                "Bashkir": [
+                    "тыңлау программаһы",
+                    "тыңлаусы программа",
+                    "тыңлаусы яҙма",
+                    "тыңлау ҡоралы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тыңшылық бағдарлама",
+                    "тыңшы бағдарлама",
+                    "тыңшылық жабдық"
+                ],
+                "Kyrgyz": [
+                    "тыңчы программа",
+                    "тыңчылык программасы"
+                ],
+                "Karakalpak": [
+                    "tıńshı baǵdarlama",
+                    "tıńshılıq baǵdarlama",
+                    "tıńshılıq programma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "izleme yazılımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takip yazılımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gizli izləmə proqramı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "içaly programma",
+                    "içalylyk programmasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ayg'oqchi dastur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خۇپىيە يۇمشاق دېتال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күзәтү программасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яшерен программа"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "i69538",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "simple sentence",
+    "en_definition": "a sentence having no coordinate clauses or subordinate clauses",
+    "tr_word": "basit cümle",
+    "tr_definition": "tek bir yargı bildiren, içinde yan cümle bulunmayan cümle",
+    "ru_word": "простое предложение",
+    "ru_definition": "предложение, имеющее в своём составе только одну грамматическую основу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yalın cümle"
+                ],
+                "Kazakh": [
+                    "жалаң сөйлем"
+                ],
+                "Karakalpak": [
+                    "jalań gáp"
+                ],
+                "Bashkir": [
+                    "ябай һөйләм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müfret cümle"
+                ],
+                "Turkmen": [
+                    "mufrat sözlem"
+                ],
+                "Uzbek": [
+                    "mufrad jumla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sadə cümlə"
+                ],
+                "Uzbek": [
+                    "sodda gap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýönekeý sözlem"
+                ],
+                "Kyrgyz": [
+                    "жөнөкөй сүйлөм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жай сөйлем"
+                ],
+                "Tatar": [
+                    "җыйнак җөмлә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "basit cümle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاددىي جۈملە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jay gáp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гади җөмлә"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "id": "i116877",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "leap day",
+    "en_definition": "the name of the day that is added during a leap year",
+    "tr_word": "artık gün",
+    "tr_definition": "artık yıllarda takvime eklenen fazladan gün",
+    "ru_word": "високосный день",
+    "ru_definition": "лишний день, добавляемый в календарь в високосном году",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "artık gün"
+                ],
+                "Azerbaijani": [
+                    "artıq gün"
+                ],
+                "Turkmen": [
+                    "artykmaç gün"
+                ],
+                "Uzbek": [
+                    "ortiqcha kun"
+                ],
+                "Uyghur": [
+                    "ئارتۇق كۈن"
+                ],
+                "Kazakh": [
+                    "артық күн"
+                ],
+                "Karakalpak": [
+                    "artıqsha kún"
+                ],
+                "Tatar": [
+                    "артык көн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kəbisə günü"
+                ],
+                "Turkmen": [
+                    "kabisa güni"
+                ],
+                "Uzbek": [
+                    "kabisa kuni"
+                ],
+                "Uyghur": [
+                    "كەبىسە كۈنى"
+                ],
+                "Kazakh": [
+                    "кібісе күн"
+                ],
+                "Karakalpak": [
+                    "kábisá kúni"
+                ],
+                "Tatar": [
+                    "кәбисә көне"
+                ],
+                "Bashkir": [
+                    "кәбисә көнө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşmaça gün"
+                ],
+                "Kyrgyz": [
+                    "кошумча күн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fazla gün"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əlavə gün"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "толук күн",
+                    "толуктоочу күн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өҫтәмә көн"
+                ]
+            }
+        }
+    ]
+}

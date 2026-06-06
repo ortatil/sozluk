@@ -1,0 +1,90 @@
+{
+    "id": "i54161",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gaming table",
+    "en_definition": "a table used for gambling; may be equipped with a gameboard and slots for chips",
+    "tr_word": "kumar masası",
+    "tr_definition": "Kumar oynamak için kullanılan, genellikle üzerinde oyun alanı ve fiş bölmeleri bulunan masa.",
+    "ru_word": "игорный стол",
+    "ru_definition": "Стол, предназначенный для азартных игр, часто оборудованный разметкой и местами для фишек.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyun masası"
+                ],
+                "Azerbaijani": [
+                    "oyun masası"
+                ],
+                "Turkmen": [
+                    "oýun meýdançasy",
+                    "oýun stoly"
+                ],
+                "Uzbek": [
+                    "oʻyin stoli"
+                ],
+                "Uyghur": [
+                    "ئويۇن شىتەنىسى"
+                ],
+                "Kazakh": [
+                    "ойын үстелі"
+                ],
+                "Kyrgyz": [
+                    "оюн столу"
+                ],
+                "Karakalpak": [
+                    "oyın ústeli"
+                ],
+                "Tatar": [
+                    "уен өстәле"
+                ],
+                "Bashkir": [
+                    "уйын өҫтәле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kumar masası"
+                ],
+                "Azerbaijani": [
+                    "qumar masası"
+                ],
+                "Turkmen": [
+                    "kumar stoly"
+                ],
+                "Uzbek": [
+                    "qimor stoli"
+                ],
+                "Uyghur": [
+                    "قۇمار شىتەنىسى",
+                    "قۇمار ئۈستىلى"
+                ],
+                "Kazakh": [
+                    "құмар үстелі"
+                ],
+                "Kyrgyz": [
+                    "кумар столу"
+                ],
+                "Tatar": [
+                    "комар өстәле"
+                ],
+                "Bashkir": [
+                    "ҡомарлы уйын өҫтәле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qarjılı oyın ústeli",
+                    "qarjılı oyın maydanı"
+                ]
+            }
+        }
+    ]
+}

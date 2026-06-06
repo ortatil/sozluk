@@ -1,0 +1,152 @@
+{
+    "id": "i106309",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "disposable income",
+    "en_definition": "income (after taxes) that is available to you for saving or spending",
+    "tr_word": "harcanabilir gelir",
+    "tr_definition": "Vergiler ve diğer zorunlu kesintiler yapıldıktan sonra kişinin tasarruf etmek veya harcamak için elinde kalan gelir.",
+    "ru_word": "располагаемый доход",
+    "ru_definition": "Доход (после уплаты налогов), который доступен для сбережения или расходования.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "erkin girdeji"
+                ],
+                "Uzbek": [
+                    "erkin daromad"
+                ],
+                "Kazakh": [
+                    "еркін табыс"
+                ],
+                "Kyrgyz": [
+                    "эркин каражат"
+                ],
+                "Karakalpak": [
+                    "erkin dárimet"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қалдық табыс"
+                ],
+                "Kyrgyz": [
+                    "колдогу киреше"
+                ],
+                "Karakalpak": [
+                    "qaldıq dárimet"
+                ],
+                "Tatar": [
+                    "калдык керем"
+                ],
+                "Bashkir": [
+                    "ҡалдыҡ килем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xalis gəlir",
+                    "qalıq gəlir"
+                ],
+                "Turkmen": [
+                    "galan girdeji"
+                ],
+                "Uyghur": [
+                    "خالاپ ئىشلىتىدىغان كىرىم"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sof daromad"
+                ],
+                "Uyghur": [
+                    "ساپ كىرىم"
+                ],
+                "Tatar": [
+                    "саф керем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "таза табыс"
+                ],
+                "Kyrgyz": [
+                    "таза киреше"
+                ],
+                "Bashkir": [
+                    "таҙа килем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ixtiyoriy daromad"
+                ],
+                "Uyghur": [
+                    "ئىختىيارىي كىرىم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирекле керем"
+                ],
+                "Bashkir": [
+                    "ирекле килем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "harcanabilir gelir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "net gelir",
+                    "kullanılabilir gelir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sərbəst gəlir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arassa girdeji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "taza dárimet"
+                ]
+            }
+        }
+    ]
+}

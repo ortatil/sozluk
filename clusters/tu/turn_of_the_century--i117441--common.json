@@ -1,0 +1,95 @@
+{
+    "id": "i117441",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "turn of the century",
+    "en_definition": "the period from about ten years before to ten years after a new century",
+    "tr_word": "yüzyıl dönümü",
+    "tr_definition": "bir yüzyılın bitip diğerinin başladığı, genellikle yeni yüzyıldan önceki ve sonraki on yıllık süreci kapsayan dönem",
+    "ru_word": "рубеж веков",
+    "ru_definition": "период времени, охватывающий последние годы уходящего века и первые годы нового века",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asır dönümü",
+                    "asır başı"
+                ],
+                "Azerbaijani": [
+                    "əsr dönümü",
+                    "əsrlərin qovşağı"
+                ],
+                "Turkmen": [
+                    "asyr çalşygy",
+                    "asyr sepgidi",
+                    "asyr başy"
+                ],
+                "Uzbek": [
+                    "asr almashinuvi",
+                    "asr boʻsagʻasi",
+                    "asrlar tutashuvi"
+                ],
+                "Karakalpak": [
+                    "ásir almasıuı",
+                    "ásirler toǵısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yüzyıl dönümü",
+                    "yüzyıl başı"
+                ],
+                "Azerbaijani": [
+                    "yüzilliyin qovşağı",
+                    "yüzilliyin dönəmi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yangi asr ostonasi"
+                ],
+                "Karakalpak": [
+                    "jańa ásir bosaǵası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ғасыр тоғысы",
+                    "ғасырлар тоғысы",
+                    "ғасыр ауысуы",
+                    "ғасыр алмасуы"
+                ],
+                "Tatar": [
+                    "гасырлар чиге",
+                    "гасырлар алмашы",
+                    "гасырлар тоташкан чор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кылым тогошуу",
+                    "кылым алмашуу",
+                    "кылымдардын тогошуусу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "быуаттар сиге",
+                    "быуат алмашы",
+                    "быуаттар тоташҡан осор"
+                ]
+            }
+        }
+    ]
+}

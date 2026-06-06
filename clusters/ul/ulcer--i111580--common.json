@@ -1,0 +1,139 @@
+{
+    "id": "i111580",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ulcer",
+    "en_definition": "a circumscribed inflammatory and often suppurating lesion on the skin or an internal mucous surface resulting in necrosis of tissue",
+    "tr_word": "ülser",
+    "tr_definition": "Deri veya mukoza üzerinde doku kaybıyla birlikte görülen, iyileşmesi güç yara.",
+    "ru_word": "язва",
+    "ru_definition": "Дефект кожи или слизистой оболочки, возникающий в результате омертвения тканей и характеризующийся медленным заживлением.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yara",
+                    "karha"
+                ],
+                "Azerbaijani": [
+                    "xora",
+                    "yara"
+                ],
+                "Turkmen": [
+                    "ýara"
+                ],
+                "Uzbek": [
+                    "yara"
+                ],
+                "Uyghur": [
+                    "يارا",
+                    "جاراھەت"
+                ],
+                "Kazakh": [
+                    "жара"
+                ],
+                "Kyrgyz": [
+                    "жара",
+                    "жаракат"
+                ],
+                "Karakalpak": [
+                    "jara",
+                    "jaraqat"
+                ],
+                "Tatar": [
+                    "яра",
+                    "җәрәхәт"
+                ],
+                "Bashkir": [
+                    "яра",
+                    "йәрәхәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "owurt"
+                ],
+                "Kazakh": [
+                    "ойық",
+                    "ойық жара"
+                ],
+                "Karakalpak": [
+                    "oyıq jara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıban"
+                ],
+                "Tatar": [
+                    "чуан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "illat"
+                ],
+                "Kyrgyz": [
+                    "илдет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ülser"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qara yara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "baş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قورۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іріңді жара"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өрө"
+                ]
+            }
+        }
+    ]
+}

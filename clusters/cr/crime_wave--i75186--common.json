@@ -1,0 +1,80 @@
+{
+    "id": "i75186",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "crime wave",
+    "en_definition": "a sudden rise in the crime rate",
+    "tr_word": "suç dalgası",
+    "tr_definition": "suç oranlarında görülen ani ve büyük artış",
+    "ru_word": "всплеск преступности",
+    "ru_definition": "внезапный и резкий рост уровня преступности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cinayət artımı",
+                    "cinayətkarlıq dalğası",
+                    "cinayət çoxluğu"
+                ],
+                "Uzbek": [
+                    "jinoyatchilikning avj olishi",
+                    "jinoyatchilik to'lqini",
+                    "jinoyatchilikning ko'payishi"
+                ],
+                "Uyghur": [
+                    "جىنايەت دولقۇنى",
+                    "جىنايەتنىڭ كۆپىيىشى",
+                    "جىنايەتنىڭ ئەۋج ئېلىشى"
+                ],
+                "Karakalpak": [
+                    "jınayatshılıqtıń órshioi",
+                    "jınayattıń kóbeyioi",
+                    "jınayat tolqını"
+                ],
+                "Tatar": [
+                    "җинаятьчелек артуы",
+                    "җинаятьчелек дулкыны",
+                    "җинаятьләр күбәюе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jenaýatçylygyň artmagy",
+                    "jenaýatçylygyň köpelmegi",
+                    "jenaýatçylyk tolkuny"
+                ],
+                "Bashkir": [
+                    "енәйәтселек артыуы",
+                    "енәйәтселек күтәрелеүе",
+                    "енәйәтселек тулҡыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қылмыстың өршуі",
+                    "қылмыстың көбеюі",
+                    "қылмыс толқыны"
+                ],
+                "Kyrgyz": [
+                    "кылмыштуулуктун өсүшү",
+                    "кылмыштуулуктун көбөйүшү",
+                    "кылмыштуулуктун толкуну"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "suç dalgası",
+                    "suç patlaması",
+                    "suç artışı"
+                ]
+            }
+        }
+    ]
+}

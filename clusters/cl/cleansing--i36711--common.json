@@ -1,0 +1,164 @@
+{
+    "id": "i36711",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cleanup",
+    "en_definition": "the act of making something clean",
+    "tr_word": "temizlik",
+    "tr_definition": "bir şeyi temiz hale getirme eylemi",
+    "ru_word": "уборка",
+    "ru_definition": "процесс приведения чего-либо в чистоту",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "temizlik"
+                ],
+                "Azerbaijani": [
+                    "təmizləmə",
+                    "təmizlik"
+                ],
+                "Turkmen": [
+                    "tämizleme"
+                ],
+                "Uzbek": [
+                    "tozalash",
+                    "tazkiya"
+                ],
+                "Uyghur": [
+                    "تازىلاش"
+                ],
+                "Kazakh": [
+                    "тазалау"
+                ],
+                "Kyrgyz": [
+                    "тазалоо"
+                ],
+                "Karakalpak": [
+                    "tazalao"
+                ],
+                "Bashkir": [
+                    "таҙартыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "paklama"
+                ],
+                "Azerbaijani": [
+                    "paklama"
+                ],
+                "Turkmen": [
+                    "päklenme",
+                    "saplama"
+                ],
+                "Uzbek": [
+                    "poklash"
+                ],
+                "Uyghur": [
+                    "پاكىزلاش"
+                ],
+                "Kyrgyz": [
+                    "пактоо"
+                ],
+                "Karakalpak": [
+                    "páklenúú"
+                ],
+                "Tatar": [
+                    "пакьләү"
+                ],
+                "Bashkir": [
+                    "паҡлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arıtma"
+                ],
+                "Azerbaijani": [
+                    "arıtma"
+                ],
+                "Turkmen": [
+                    "arassalama"
+                ],
+                "Kazakh": [
+                    "арылту"
+                ],
+                "Kyrgyz": [
+                    "арылтуу"
+                ],
+                "Karakalpak": [
+                    "arıltıo"
+                ],
+                "Tatar": [
+                    "арындыру"
+                ],
+                "Bashkir": [
+                    "арыныу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tasfiye"
+                ],
+                "Kazakh": [
+                    "тазарту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەھرىرلەش"
+                ],
+                "Tatar": [
+                    "тәһарәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "arsh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۈزۈش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жууп-тазалоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чистарту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йыуыу"
+                ]
+            }
+        }
+    ]
+}

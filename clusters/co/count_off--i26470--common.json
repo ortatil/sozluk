@@ -1,0 +1,126 @@
+{
+    "id": "i26470",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "count off",
+    "en_definition": "call in turn from right to left or from back to front numbers that determine some position or function",
+    "tr_word": "numara saymak",
+    "tr_definition": "sağdan sola veya önden arkaya doğru sırayla numara söyleyerek yerini veya görevini belirlemek",
+    "ru_word": "рассчитаться",
+    "ru_definition": "называть по порядку номера в строю для определения своего места или функции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saymak"
+                ],
+                "Azerbaijani": [
+                    "saymaq"
+                ],
+                "Turkmen": [
+                    "sanamak",
+                    "sanatmak"
+                ],
+                "Uzbek": [
+                    "sanamoq"
+                ],
+                "Uyghur": [
+                    "سانىماق"
+                ],
+                "Kazakh": [
+                    "санау",
+                    "санақ жүргізу"
+                ],
+                "Kyrgyz": [
+                    "саноо"
+                ],
+                "Karakalpak": [
+                    "sanau",
+                    "sanap shıǵıu"
+                ],
+                "Tatar": [
+                    "санап чыгу",
+                    "санау"
+                ],
+                "Bashkir": [
+                    "һанап сығыу",
+                    "һанаттырыу",
+                    "һанаттырып сығыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hasaplamak"
+                ],
+                "Uzbek": [
+                    "hisoblamoq"
+                ],
+                "Karakalpak": [
+                    "esaplau"
+                ],
+                "Tatar": [
+                    "хисаплау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "numara saymak"
+                ],
+                "Azerbaijani": [
+                    "nömrələmək"
+                ],
+                "Uyghur": [
+                    "نومۇر سانىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sırayla saymak"
+                ],
+                "Azerbaijani": [
+                    "sıra ilə saymaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tartib bilan sanamoq"
+                ],
+                "Uyghur": [
+                    "تەرتىپ بويىچە سانىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тізбектеп санау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эсептөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каттоо"
+                ]
+            }
+        }
+    ]
+}

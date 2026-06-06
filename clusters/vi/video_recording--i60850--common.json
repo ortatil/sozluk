@@ -1,0 +1,119 @@
+{
+    "id": "i60850",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "video",
+    "en_definition": "a recording of both the visual and audible components (especially one containing a recording of a movie or television program)",
+    "tr_word": "video",
+    "tr_definition": "Hem görsel hem de işitsel bileşenlerin kaydı (özellikle bir film veya televizyon programı kaydı içeren).",
+    "ru_word": "видео",
+    "ru_definition": "Запись как визуальных, так и звуковых компонентов (особенно содержащая запись фильма или телепрограммы).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "görüntü kaydı"
+                ],
+                "Azerbaijani": [
+                    "görüntü"
+                ],
+                "Turkmen": [
+                    "görüntili ýazgy"
+                ],
+                "Kyrgyz": [
+                    "көрүнүш"
+                ],
+                "Tatar": [
+                    "күренеш язмасы"
+                ],
+                "Bashkir": [
+                    "күренеш яҙмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "video kaydı"
+                ],
+                "Azerbaijani": [
+                    "videoçəkiliş"
+                ],
+                "Turkmen": [
+                    "wideoýazgy"
+                ],
+                "Uzbek": [
+                    "videotasvir"
+                ],
+                "Tatar": [
+                    "видеоязма"
+                ],
+                "Bashkir": [
+                    "видеояҙма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бейнежазба",
+                    "бейнежазу",
+                    "бейнекөрініс"
+                ],
+                "Kyrgyz": [
+                    "бейнежазуу"
+                ],
+                "Karakalpak": [
+                    "beynejazba",
+                    "beynekórіnіs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yazı"
+                ],
+                "Uzbek": [
+                    "yozuv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tasvir"
+                ],
+                "Kyrgyz": [
+                    "тасма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayıt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lavha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سىنئالغۇ",
+                    "سىن خاتىرىسى",
+                    "سىن"
+                ]
+            }
+        }
+    ]
+}

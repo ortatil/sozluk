@@ -1,0 +1,114 @@
+{
+    "id": "i59711",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "student center",
+    "en_definition": "a center for student activities at a college or university",
+    "tr_word": "öğrenci merkezi",
+    "tr_definition": "bir kolej veya üniversitedeki öğrenci etkinlikleri için ayrılmış merkez",
+    "ru_word": "студенческий центр",
+    "ru_definition": "центр студенческой активности в колледже или университете",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "студенттер орталығы",
+                    "студенттер үйі"
+                ],
+                "Kyrgyz": [
+                    "студенттер борбору",
+                    "студенттер үйү"
+                ],
+                "Karakalpak": [
+                    "studentler orayı"
+                ],
+                "Tatar": [
+                    "студентлар үзәге"
+                ],
+                "Bashkir": [
+                    "студенттар үҙәге",
+                    "студенттар йорто"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жастар орталығы"
+                ],
+                "Kyrgyz": [
+                    "жаштар борбору"
+                ],
+                "Karakalpak": [
+                    "jaslar orayı"
+                ],
+                "Bashkir": [
+                    "йәштәр үҙәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tələbə mərkəzi",
+                    "tələbə evi",
+                    "tələbə birliyi"
+                ],
+                "Turkmen": [
+                    "talyplar merkezi",
+                    "talyplar öýi"
+                ],
+                "Uzbek": [
+                    "talabalar markazi",
+                    "talabalar uyi",
+                    "talabalar maskani"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "okuwçylar merkezi"
+                ],
+                "Uyghur": [
+                    "ئوقۇغۇچىلار مەركىزى",
+                    "ئوقۇغۇچىلار پائالىيەت مەركىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğrenci merkezi",
+                    "öğrenci sosyal tesisi",
+                    "öğrenci lokali",
+                    "öğrenci evi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bilimlendirio orayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шәкертләр йорты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гыйлем йорты"
+                ]
+            }
+        }
+    ]
+}

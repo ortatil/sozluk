@@ -1,0 +1,138 @@
+# Teacher-student relation
+| Field | Detail |
+|---|---|
+| **ID** | i109653 |
+| **English** | teacher-student relation |
+| **Type** | noun |
+| **Definition** | the academic relation between teachers and their students |
+| **Source** | common |
+| **Ortatil** | ustazlıq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i109653",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "teacher-student relation",
+    "en_definition": "the academic relation between teachers and their students",
+    "tr_word": "öğretmen-öğrenci ilişkisi",
+    "tr_definition": "öğretmenler ve öğrencileri arasındaki akademik ilişki",
+    "ru_word": "отношения между учителем и учеником",
+    "ru_definition": "академические отношения между учителями и их учениками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muallim-şakirt ilişkisi"
+                ],
+                "Azerbaijani": [
+                    "müəllim-şagird münasibəti",
+                    "müəllim-tələbə əlaqəsi"
+                ],
+                "Turkmen": [
+                    "mugallym-okuwçy gatnaşygy"
+                ],
+                "Uzbek": [
+                    "muallim-talaba aloqasi"
+                ],
+                "Uyghur": [
+                    "مۇئەللىم-ئوقۇغۇچى مۇناسىۋىتى"
+                ],
+                "Kazakh": [
+                    "мұғалім-оқушы қатынасы"
+                ],
+                "Kyrgyz": [
+                    "мугалим-окуучу мамилеси"
+                ],
+                "Tatar": [
+                    "мөгаллим-укучы мөнәсәбәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ustad-şagird münasibəti"
+                ],
+                "Uzbek": [
+                    "ustoz-shogirdlik",
+                    "ustoz-shogird munosabati"
+                ],
+                "Uyghur": [
+                    "ئۇستاز-شاگىرتلىق مۇناسىۋىتى"
+                ],
+                "Kazakh": [
+                    "ұстаз-шәкірт байланысы",
+                    "ұстаз бен шәкірт қарым-қатынасы"
+                ],
+                "Kyrgyz": [
+                    "устат-шакирттик мамиле"
+                ],
+                "Karakalpak": [
+                    "ustaz-shákirtlik",
+                    "ustaz-shákirt baylanısı",
+                    "ustaz-shákirt qatnasıǵı"
+                ],
+                "Tatar": [
+                    "остаз-шәкерт мөнәсәбәте"
+                ],
+                "Bashkir": [
+                    "оҫта-шәкерт мөнәсәбәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "укытучы-укучы мөнәсәбәте"
+                ],
+                "Bashkir": [
+                    "уҡытыусы-уҡыусы мөнәсәбәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hoca-talebe ilişkisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğretmen-öğrenci münasebeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tədris münasibəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mugallym-talyp gatnaşygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "halypa-şägirtlik gatnaşygy"
+                ]
+            }
+        }
+    ]
+}
+```
+

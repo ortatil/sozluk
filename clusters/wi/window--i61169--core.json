@@ -1,0 +1,114 @@
+{
+    "id": "i61169",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "window",
+    "en_definition": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air",
+    "tr_word": "pencere",
+    "tr_definition": "Işık ve hava girmesini sağlamak amacıyla duvarlara veya çatılara yapılan, genellikle camlı çerçeve.",
+    "ru_word": "окно",
+    "ru_definition": "Проем в стене здания для света и воздуха, а также рама со стеклом, закрывающая этот проем.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "deraza"
+                ],
+                "Uyghur": [
+                    "دېرىزە"
+                ],
+                "Kazakh": [
+                    "терезе"
+                ],
+                "Kyrgyz": [
+                    "терезе"
+                ],
+                "Karakalpak": [
+                    "tárze",
+                    "tereze"
+                ],
+                "Tatar": [
+                    "тәрәзә",
+                    "тәрәз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pencere"
+                ],
+                "Azerbaijani": [
+                    "pəncərə"
+                ],
+                "Turkmen": [
+                    "penjire"
+                ],
+                "Uyghur": [
+                    "پەنجىرە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göz"
+                ],
+                "Kazakh": [
+                    "көз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rövzən"
+                ],
+                "Uzbek": [
+                    "ravzana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oyna"
+                ],
+                "Kyrgyz": [
+                    "айнек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәҙрә",
+                    "тәҙерә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "açıklık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şəbəkə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "äpişge"
+                ]
+            }
+        }
+    ]
+}

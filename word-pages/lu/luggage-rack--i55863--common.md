@@ -1,0 +1,107 @@
+# Luggage rack
+| Field | Detail |
+|---|---|
+| **ID** | i55863 |
+| **English** | luggage rack |
+| **Type** | noun |
+| **Definition** | carrier for holding luggage above the seats of a train or on top of a car |
+| **Source** | common |
+| **Ortatil** | yukdaşıyän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i55863",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "luggage rack",
+    "en_definition": "carrier for holding luggage above the seats of a train or on top of a car",
+    "tr_word": "bagaj rafı",
+    "tr_definition": "tren koltuklarının üzerinde veya bir arabanın tepesinde bagaj taşımak için kullanılan bölme",
+    "ru_word": "багажная полка",
+    "ru_definition": "полка для хранения багажа над сиденьями в поезде или на крыше автомобиля",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yük yeri"
+                ],
+                "Azerbaijani": [
+                    "yük yeri",
+                    "yük rəfi",
+                    "yükdaşıyan"
+                ],
+                "Turkmen": [
+                    "ýük goýulýan ýer",
+                    "ýük tekjesi",
+                    "ýük saklaýjy"
+                ],
+                "Uzbek": [
+                    "yukxona",
+                    "yukdon",
+                    "yuk joyi"
+                ],
+                "Uyghur": [
+                    "يۈك جازىسى",
+                    "يۈك ئورنى",
+                    "يۈك قويۇش جازىسى"
+                ],
+                "Kazakh": [
+                    "жүк салғыш",
+                    "жүк қойғыш",
+                    "жүк сөресі"
+                ],
+                "Kyrgyz": [
+                    "жүк салгыч",
+                    "жүк текчеси",
+                    "жүк орду"
+                ],
+                "Karakalpak": [
+                    "júk salǵısh",
+                    "júk ornı",
+                    "júk tekshesi"
+                ],
+                "Tatar": [
+                    "йөк киштәсе",
+                    "йөк урыны",
+                    "йөк савыты"
+                ],
+                "Bashkir": [
+                    "йөк кәштәһе",
+                    "йөк урыны",
+                    "йөк һалғыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bagajlık"
+                ],
+                "Azerbaijani": [
+                    "baqaj yeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "portbagaj"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşya rafı"
+                ]
+            }
+        }
+    ]
+}
+```
+

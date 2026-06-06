@@ -1,0 +1,85 @@
+{
+    "id": "i37731",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "belly flop",
+    "en_definition": "a dive in which the abdomen bears the main force of impact with the water",
+    "tr_word": "karın üstü atlayış",
+    "tr_definition": "suya atlarken vücudun ön kısmının, özellikle karnın suya sertçe çarpmasıyla sonuçlanan atlayış türü",
+    "ru_word": "прыжок плашмя",
+    "ru_definition": "неудачный прыжок в воду, при котором человек ударяется о поверхность воды животом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karın üstü atlayış",
+                    "karın üstü çakılma"
+                ],
+                "Azerbaijani": [
+                    "qarınüstü tullanış",
+                    "qarınüstü düşmə",
+                    "qarınüstü suyaatılma"
+                ],
+                "Turkmen": [
+                    "garyn üstüne bökmek",
+                    "garyn üstüne düşmek"
+                ],
+                "Uzbek": [
+                    "qorin bilan tushish",
+                    "qorin bilan sakrash",
+                    "qorin bilan urilish"
+                ],
+                "Karakalpak": [
+                    "qarınmen sekіrіu",
+                    "qarınmen túsіu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قورساقچىلاپ چۈشۈش",
+                    "قورساق بىلەن سەكرەش",
+                    "قورساقچىلاپ سۇغا ئۆزىنى ئېتىش"
+                ],
+                "Kyrgyz": [
+                    "курсак менен секирүү",
+                    "курсак менен түшүү"
+                ],
+                "Tatar": [
+                    "корсак белән сикерү",
+                    "корсакка егылу"
+                ],
+                "Bashkir": [
+                    "ҡорһаҡ менән йығылыу",
+                    "ҡорһаҡ менән һыуға һуғылыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göbek üstü düşüş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ішпен құлау",
+                    "ішпен түсу",
+                    "ішпен секіру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жалпайып түшүү"
+                ]
+            }
+        }
+    ]
+}

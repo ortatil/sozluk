@@ -1,0 +1,96 @@
+{
+    "id": "i53542",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eyeliner",
+    "en_definition": "makeup applied to emphasize the shape of the eyes",
+    "tr_word": "göz kalemi",
+    "tr_definition": "gözlerin şeklini belirginleştirmek için uygulanan makyaj malzemesi",
+    "ru_word": "подводка для глаз",
+    "ru_definition": "косметическое средство для подчеркивания контура глаз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürme"
+                ],
+                "Azerbaijani": [
+                    "sürmə"
+                ],
+                "Turkmen": [
+                    "sürme"
+                ],
+                "Uzbek": [
+                    "surma"
+                ],
+                "Uyghur": [
+                    "سۈرمە"
+                ],
+                "Kazakh": [
+                    "сүрме"
+                ],
+                "Kyrgyz": [
+                    "сүрмө"
+                ],
+                "Karakalpak": [
+                    "súrme"
+                ],
+                "Tatar": [
+                    "сөрмә"
+                ],
+                "Bashkir": [
+                    "һөрмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz sürmesi"
+                ],
+                "Azerbaijani": [
+                    "göz qələmi",
+                    "göz sürməsi"
+                ],
+                "Turkmen": [
+                    "göz sürmesi"
+                ],
+                "Uyghur": [
+                    "كۆز سۈرمىسى"
+                ],
+                "Kazakh": [
+                    "көз сүрмесі",
+                    "көз бояуы"
+                ],
+                "Kyrgyz": [
+                    "көз боёк"
+                ],
+                "Karakalpak": [
+                    "kóz súrmesi"
+                ],
+                "Tatar": [
+                    "күз сөрмәсе"
+                ],
+                "Bashkir": [
+                    "көҙгө һөрмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kohl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qalam"
+                ]
+            }
+        }
+    ]
+}

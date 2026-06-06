@@ -1,0 +1,96 @@
+# Equal sign
+| Field | Detail |
+|---|---|
+| **ID** | i72289 |
+| **English** | equal sign |
+| **Type** | noun |
+| **Definition** | a sign indicating that the quantities on either side are equal |
+| **Source** | common |
+| **Ortatil** | eşit |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| тигезлек | tigezlek |
+
+```json
+{
+    "id": "i72289",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "equal sign",
+    "en_definition": "a sign indicating that the quantities on either side are equal",
+    "tr_word": "eşittir işareti",
+    "tr_definition": "iki tarafındaki niceliklerin birbirine eşit olduğunu gösteren işaret",
+    "ru_word": "знак равенства",
+    "ru_definition": "символ, указывающий на то, что выражения по обе стороны от него имеют одинаковое значение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "deňlik alamaty",
+                    "deňlik belgisi"
+                ],
+                "Uzbek": [
+                    "tenglik belgisi",
+                    "tenglik ishorasi"
+                ],
+                "Uyghur": [
+                    "تەڭلىك بەلگىسى",
+                    "تەڭلىك ئالامىتى"
+                ],
+                "Kazakh": [
+                    "теңдік белгісі",
+                    "теңдік нышаны"
+                ],
+                "Kyrgyz": [
+                    "теңдик белгиси"
+                ],
+                "Karakalpak": [
+                    "teńlik belgisi",
+                    "teńlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bərabərlik işarəsi",
+                    "bərabərdir işarəsi"
+                ],
+                "Kyrgyz": [
+                    "барабардык белгиси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тигезлек билгесе",
+                    "тигезлек"
+                ],
+                "Bashkir": [
+                    "тигеҙлек билдәһе",
+                    "тигеҙлек тамғаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşittir işareti",
+                    "eşitlik işareti",
+                    "eşittir"
+                ]
+            }
+        }
+    ]
+}
+```
+

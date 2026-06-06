@@ -1,0 +1,69 @@
+{
+    "id": "i117036",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "father's day",
+    "en_definition": "US: third Sunday in June",
+    "tr_word": "babalar günü",
+    "tr_definition": "Haziran ayının üçüncü pazar günü kutlanan, babaların onurlandırıldığı özel gün",
+    "ru_word": "день отца",
+    "ru_definition": "ежегодный праздник в честь отцов, отмечаемый в третье воскресенье июня",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Atalar günü"
+                ],
+                "Turkmen": [
+                    "atalar güni"
+                ],
+                "Uzbek": [
+                    "otalar kuni",
+                    "ota kuni"
+                ],
+                "Uyghur": [
+                    "ئاتىلار بايرىمى",
+                    "دادىلار بايرىمى"
+                ],
+                "Kyrgyz": [
+                    "Ата күнү"
+                ],
+                "Tatar": [
+                    "Әтиләр көне"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "babalar günü"
+                ],
+                "Turkmen": [
+                    "kakalar güni"
+                ],
+                "Kyrgyz": [
+                    "Аталар күнү"
+                ],
+                "Tatar": [
+                    "Аталар көне"
+                ],
+                "Bashkir": [
+                    "Атайҙар көнө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Әкелер күні",
+                    "Әке мерекесі"
+                ],
+                "Karakalpak": [
+                    "Ákeler kúni"
+                ]
+            }
+        }
+    ]
+}

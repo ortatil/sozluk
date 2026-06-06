@@ -1,0 +1,94 @@
+{
+    "id": "i88701",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bridge player",
+    "en_definition": "a card player in a game of bridge",
+    "tr_word": "briç oyuncusu",
+    "tr_definition": "briç oyununda yer alan kart oyuncusu",
+    "ru_word": "бриджист",
+    "ru_definition": "человек, играющий в карточную игру бридж",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "briççi",
+                    "briç oyuncusu"
+                ],
+                "Azerbaijani": [
+                    "bric oyunçusu",
+                    "bricçi"
+                ],
+                "Turkmen": [
+                    "bridž oýunçysy",
+                    "bridžçy"
+                ],
+                "Uzbek": [
+                    "brij o'yinchisi"
+                ],
+                "Uyghur": [
+                    "بىرىج ئوينىغۇچى",
+                    "بىرىجچى",
+                    "بىرىج ئويۇنچىسى"
+                ],
+                "Kazakh": [
+                    "бридж ойыншысы"
+                ],
+                "Kyrgyz": [
+                    "бриж оюнчусу"
+                ],
+                "Karakalpak": [
+                    "bridj oyınshısı"
+                ],
+                "Tatar": [
+                    "бридж уенчысы"
+                ],
+                "Bashkir": [
+                    "бридж уйнаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "karta o'yinchisi"
+                ],
+                "Kazakh": [
+                    "карта ойыншысы"
+                ],
+                "Kyrgyz": [
+                    "карта оюнчусу"
+                ],
+                "Karakalpak": [
+                    "kartapaz"
+                ],
+                "Tatar": [
+                    "кәртче"
+                ],
+                "Bashkir": [
+                    "кәрт уйнаусы",
+                    "кәртсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "oyınshı"
+                ],
+                "Tatar": [
+                    "уенчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qimorboz"
+                ]
+            }
+        }
+    ]
+}

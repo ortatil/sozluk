@@ -1,0 +1,119 @@
+{
+    "id": "i23342",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "nuke",
+    "en_definition": "cook or heat in a microwave oven",
+    "tr_word": "mikrodalgada ısıtmak",
+    "tr_definition": "yiyecek veya içeceği mikrodalga fırın kullanarak pişirmek veya ısıtmak",
+    "ru_word": "разогревать в микроволновке",
+    "ru_definition": "готовить или нагревать пищу в микроволновой печи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pişirmek"
+                ],
+                "Azerbaijani": [
+                    "bişirmək"
+                ],
+                "Turkmen": [
+                    "bişirmek"
+                ],
+                "Uzbek": [
+                    "pishirmoq"
+                ],
+                "Kazakh": [
+                    "пісіру"
+                ],
+                "Kyrgyz": [
+                    "бышыруу"
+                ],
+                "Karakalpak": [
+                    "pіsіrіu"
+                ],
+                "Tatar": [
+                    "пешерү"
+                ],
+                "Bashkir": [
+                    "бешереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qızdırmaq"
+                ],
+                "Turkmen": [
+                    "gyzdyrmak"
+                ],
+                "Uzbek": [
+                    "qizdirmoq"
+                ],
+                "Kazakh": [
+                    "қыздыру"
+                ],
+                "Karakalpak": [
+                    "qızdırıu"
+                ],
+                "Tatar": [
+                    "кыздыру"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ısıtmak"
+                ],
+                "Azerbaijani": [
+                    "isitmək"
+                ],
+                "Uzbek": [
+                    "isitmoq"
+                ],
+                "Kyrgyz": [
+                    "ысытуу"
+                ],
+                "Karakalpak": [
+                    "ısıtıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýylatmak"
+                ],
+                "Kazakh": [
+                    "жылыту"
+                ],
+                "Kyrgyz": [
+                    "жылытуу"
+                ],
+                "Tatar": [
+                    "җылыту"
+                ],
+                "Bashkir": [
+                    "йылытыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مىكرو دولقۇنلۇق ئوچاقتا قىزىتماق",
+                    "مىكرو دولقۇنلۇق ئوچاقتا پىشۇرماق"
+                ]
+            }
+        }
+    ]
+}

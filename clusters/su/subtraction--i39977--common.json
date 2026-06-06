@@ -1,0 +1,127 @@
+{
+    "id": "i39977",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "subtraction",
+    "en_definition": "an arithmetic operation in which the difference between two numbers is calculated",
+    "tr_word": "çıkarma",
+    "tr_definition": "iki sayının farkının hesaplandığı aritmetik işlem",
+    "ru_word": "вычитание",
+    "ru_definition": "арифметическое действие, при котором вычисляется разность между двумя числами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarh"
+                ],
+                "Azerbaijani": [
+                    "tərh"
+                ],
+                "Turkmen": [
+                    "tarh"
+                ],
+                "Uzbek": [
+                    "tarh"
+                ],
+                "Uyghur": [
+                    "تېرىق"
+                ],
+                "Kyrgyz": [
+                    "тарх"
+                ],
+                "Karakalpak": [
+                    "tartıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئېلىش"
+                ],
+                "Karakalpak": [
+                    "alıo"
+                ],
+                "Tatar": [
+                    "алу"
+                ],
+                "Bashkir": [
+                    "алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıkarma"
+                ],
+                "Azerbaijani": [
+                    "çıxma"
+                ],
+                "Kazakh": [
+                    "шегеру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كېمەيتىش"
+                ],
+                "Kyrgyz": [
+                    "кемитүү"
+                ],
+                "Karakalpak": [
+                    "kemeytpe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "азайту",
+                    "азайту амалы"
+                ],
+                "Kyrgyz": [
+                    "азайтуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәфрикъ"
+                ],
+                "Bashkir": [
+                    "тәфрит"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eksiltme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ayyrma",
+                    "ayyrmaklyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ayirish"
+                ]
+            }
+        }
+    ]
+}

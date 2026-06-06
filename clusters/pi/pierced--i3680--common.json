@@ -1,0 +1,105 @@
+{
+    "id": "i3680",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "pierced",
+    "en_definition": "having a hole cut through",
+    "tr_word": "delinmiş",
+    "tr_definition": "üzerinde bir delik açılmış olan",
+    "ru_word": "проколотый",
+    "ru_definition": "имеющий сквозное отверстие",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "delik",
+                    "delinmiş",
+                    "delikli"
+                ],
+                "Azerbaijani": [
+                    "deşilmiş",
+                    "dəlik",
+                    "deşik"
+                ],
+                "Turkmen": [
+                    "deşilen",
+                    "deşik",
+                    "delinen"
+                ],
+                "Uzbek": [
+                    "teshilgan",
+                    "teshik"
+                ],
+                "Uyghur": [
+                    "تېشىلگەن",
+                    "تېشۈك"
+                ],
+                "Kazakh": [
+                    "тесілген",
+                    "тесік"
+                ],
+                "Kyrgyz": [
+                    "тешилген"
+                ],
+                "Karakalpak": [
+                    "tesilgen",
+                    "tesik"
+                ],
+                "Tatar": [
+                    "тишелгән",
+                    "тишек"
+                ],
+                "Bashkir": [
+                    "тишелгән",
+                    "тишек",
+                    "тишкән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyuk"
+                ],
+                "Azerbaijani": [
+                    "oyulmuş"
+                ],
+                "Uzbek": [
+                    "o'yilgan"
+                ],
+                "Kazakh": [
+                    "ойық"
+                ],
+                "Kyrgyz": [
+                    "оюлган"
+                ],
+                "Tatar": [
+                    "уелган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆتۈشۈپ كەتكەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жарық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көзөлгөн"
+                ]
+            }
+        }
+    ]
+}

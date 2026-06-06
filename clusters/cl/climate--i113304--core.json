@@ -1,0 +1,121 @@
+{
+    "id": "i113304",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "climate",
+    "en_definition": "the weather in some location averaged over some long period of time",
+    "tr_word": "iklim",
+    "tr_definition": "bir yerin uzun bir süre boyunca gözlemlenen hava koşullarının ortalaması",
+    "ru_word": "климат",
+    "ru_definition": "многолетний режим погоды, характерный для данной местности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iklim"
+                ],
+                "Azerbaijani": [
+                    "iqlim"
+                ],
+                "Turkmen": [
+                    "yklym"
+                ],
+                "Uzbek": [
+                    "iqlim"
+                ],
+                "Uyghur": [
+                    "ئىقلىم"
+                ],
+                "Kazakh": [
+                    "ықылым"
+                ],
+                "Karakalpak": [
+                    "ıqlım"
+                ],
+                "Tatar": [
+                    "иклим"
+                ],
+                "Bashkir": [
+                    "иҡлим"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hava"
+                ],
+                "Azerbaijani": [
+                    "hava"
+                ],
+                "Turkmen": [
+                    "howa"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ауа райы"
+                ],
+                "Kyrgyz": [
+                    "аба ырайы"
+                ],
+                "Karakalpak": [
+                    "aba-rayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "климат"
+                ],
+                "Kyrgyz": [
+                    "климат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "һава торышы"
+                ],
+                "Bashkir": [
+                    "һауа торошо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muhit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ырай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ob-havo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھاۋا كىلىماتى"
+                ]
+            }
+        }
+    ]
+}

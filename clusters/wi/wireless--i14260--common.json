@@ -1,0 +1,111 @@
+{
+    "id": "i14260",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "wireless",
+    "en_definition": "having no wires",
+    "tr_word": "kablosuz",
+    "tr_definition": "hiçbir kablosu olmayan",
+    "ru_word": "беспроводной",
+    "ru_definition": "не имеющий проводов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "simsiz"
+                ],
+                "Turkmen": [
+                    "simsiz"
+                ],
+                "Uzbek": [
+                    "simsiz"
+                ],
+                "Uyghur": [
+                    "سىمسىز"
+                ],
+                "Kazakh": [
+                    "сымсыз"
+                ],
+                "Kyrgyz": [
+                    "зымсыз"
+                ],
+                "Karakalpak": [
+                    "sımsız"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bağlantısız"
+                ],
+                "Kazakh": [
+                    "байланыссыз"
+                ],
+                "Kyrgyz": [
+                    "байланышсыз"
+                ],
+                "Karakalpak": [
+                    "baylanıssız"
+                ],
+                "Tatar": [
+                    "бәйләнешсез"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telsiz"
+                ],
+                "Turkmen": [
+                    "telsiz"
+                ],
+                "Uzbek": [
+                    "telsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чыбыксыз"
+                ],
+                "Bashkir": [
+                    "сыбыҡһыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kablosuz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məftilsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىسىم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үткәргесһеҙ"
+                ]
+            }
+        }
+    ]
+}

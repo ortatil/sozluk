@@ -1,0 +1,115 @@
+# Ampersand
+| Field | Detail |
+|---|---|
+| **ID** | i72473 |
+| **English** | ampersand |
+| **Type** | noun |
+| **Definition** | a punctuation mark (&) used to represent conjunction (and) |
+| **Source** | common |
+| **Ortatil** | ampersant |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| амперсанд | ampersand |
+
+```json
+{
+    "id": "i72473",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ampersand",
+    "en_definition": "a punctuation mark (&) used to represent conjunction (and)",
+    "tr_word": "ampersand",
+    "tr_definition": "ve anlamına gelen '&' işareti",
+    "ru_word": "амперсанд",
+    "ru_definition": "типографский символ (&), обозначающий союз «и»",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ve işareti",
+                    "ve damgası"
+                ],
+                "Azerbaijani": [
+                    "və işarəsi",
+                    "və simvolu"
+                ],
+                "Turkmen": [
+                    "we belgisi",
+                    "we nyşany"
+                ],
+                "Uzbek": [
+                    "va belgisi"
+                ],
+                "Uyghur": [
+                    "ۋە بەلگىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bogʻlovchi belgi"
+                ],
+                "Uyghur": [
+                    "باغلىغۇچ بەلگىسى"
+                ],
+                "Bashkir": [
+                    "бәйләүес тамғаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "және таңбасы"
+                ],
+                "Kyrgyz": [
+                    "жана белгиси",
+                    "жана таңбасы"
+                ],
+                "Karakalpak": [
+                    "jáne belgisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "амперсанд"
+                ],
+                "Karakalpak": [
+                    "ám belgisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "һәм билгесе"
+                ],
+                "Bashkir": [
+                    "һәм тамғаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "һәм тамгасы"
+                ]
+            }
+        }
+    ]
+}
+```
+

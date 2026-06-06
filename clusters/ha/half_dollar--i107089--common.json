@@ -1,0 +1,87 @@
+{
+    "id": "i107089",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "half dollar",
+    "en_definition": "a United States coin worth half of a dollar",
+    "tr_word": "elli sent",
+    "tr_definition": "Amerika Birleşik Devletleri'nde yarım dolar değerindeki madeni para",
+    "ru_word": "полдоллара",
+    "ru_definition": "монета США достоинством в пятьдесят центов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarım dolar"
+                ],
+                "Azerbaijani": [
+                    "yarım dollar"
+                ],
+                "Turkmen": [
+                    "ýarym dollar"
+                ],
+                "Uzbek": [
+                    "yarim dollar"
+                ],
+                "Uyghur": [
+                    "يېرىم دوللار"
+                ],
+                "Kazakh": [
+                    "жарты доллар"
+                ],
+                "Kyrgyz": [
+                    "жарым доллар"
+                ],
+                "Karakalpak": [
+                    "jartı dollar"
+                ],
+                "Tatar": [
+                    "ярты доллар"
+                ],
+                "Bashkir": [
+                    "ярты доллар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elli sent"
+                ],
+                "Azerbaijani": [
+                    "əlli sent"
+                ],
+                "Turkmen": [
+                    "ellik sent"
+                ],
+                "Uzbek": [
+                    "ellik sent"
+                ],
+                "Uyghur": [
+                    "ئەللىك سېنت"
+                ],
+                "Kazakh": [
+                    "елу цент"
+                ],
+                "Kyrgyz": [
+                    "элүү цент"
+                ],
+                "Karakalpak": [
+                    "elli cent"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "илле цент"
+                ],
+                "Bashkir": [
+                    "илле цент"
+                ]
+            }
+        }
+    ]
+}

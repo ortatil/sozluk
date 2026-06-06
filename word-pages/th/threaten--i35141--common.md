@@ -1,0 +1,166 @@
+# Threaten
+| Field | Detail |
+|---|---|
+| **ID** | i35141 |
+| **English** | threaten |
+| **Type** | verb |
+| **Definition** | pose a threat to; present a danger to |
+| **Source** | common |
+| **Ortatil** | hätärländeritmäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| хәтәрләндерү | xätärländerü |
+
+```json
+{
+    "id": "i35141",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "threaten",
+    "en_definition": "pose a threat to; present a danger to",
+    "tr_word": "tehdit etmek",
+    "tr_definition": "birine veya bir şeye karşı tehlike oluşturmak, korkutmak",
+    "ru_word": "угрожать",
+    "ru_definition": "представлять собой опасность или выражать намерение причинить вред",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tehlikeye atmak",
+                    "tehdit etmek",
+                    "tehlikeye düşürmek"
+                ],
+                "Azerbaijani": [
+                    "təhlükəyə atmaq",
+                    "təhlükəyə salmaq",
+                    "təhdid etmək"
+                ],
+                "Turkmen": [
+                    "tehlika goýmak"
+                ],
+                "Uzbek": [
+                    "tahdid solmoq"
+                ],
+                "Uyghur": [
+                    "تەھدىت سالماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qorxu altına qoymaq"
+                ],
+                "Kyrgyz": [
+                    "коркунуч келтирүү",
+                    "коркунучка салуу"
+                ],
+                "Tatar": [
+                    "куркыныч астына кую",
+                    "куркыныч тудыру"
+                ],
+                "Bashkir": [
+                    "ҡурҡыныс аҫтына ҡуйыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xatarga qo'ymoq"
+                ],
+                "Uyghur": [
+                    "خەتەرگە قويماق"
+                ],
+                "Kazakh": [
+                    "қатерге тігу"
+                ],
+                "Tatar": [
+                    "хәтәр астына кую",
+                    "хәтәрләндерү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "howp salmak",
+                    "howp astyna goýmak",
+                    "howply ýagdaýa salmak"
+                ],
+                "Uzbek": [
+                    "xavf solmoq",
+                    "xavf ostida qoldirmoq"
+                ],
+                "Karakalpak": [
+                    "qáuіp-qaterge salıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "خەۋپكە سالماق"
+                ],
+                "Kazakh": [
+                    "қауіпке қалдыру"
+                ],
+                "Bashkir": [
+                    "хәүеф аҫтына ҡуйыу",
+                    "хәүефкә һалыу",
+                    "хәүеф тыуҙырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қауіп төндіру"
+                ],
+                "Karakalpak": [
+                    "qáuіp tudırıu",
+                    "qáuіpke qoyıu",
+                    "qáuіp astına alıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зиян келтіру"
+                ],
+                "Kyrgyz": [
+                    "зыян келтирүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "riske atmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кооп туудуруу"
+                ]
+            }
+        }
+    ]
+}
+```
+

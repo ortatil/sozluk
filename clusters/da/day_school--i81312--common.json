@@ -1,0 +1,62 @@
+{
+    "id": "i81312",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "day school",
+    "en_definition": "a school giving instruction during the daytime",
+    "tr_word": "gündüz okulu",
+    "tr_definition": "Öğrencilerin yatılı kalmadığı, sadece gündüz saatlerinde eğitim veren okul.",
+    "ru_word": "дневная школа",
+    "ru_definition": "Школа, в которой обучение проводится только в дневное время и отсутствует интернат.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gündüz okulu",
+                    "gündüzlü okul"
+                ],
+                "Azerbaijani": [
+                    "gündüz məktəbi",
+                    "günlük məktəb"
+                ],
+                "Turkmen": [
+                    "gündizki mekdep",
+                    "gündizki okuw jaýy"
+                ],
+                "Uyghur": [
+                    "كۈندۈزلۈك مەكتەپ",
+                    "كۈندۈزلۈك ئوقۇش"
+                ],
+                "Kazakh": [
+                    "күндізгі мектеп",
+                    "күндізгі оқу орны"
+                ],
+                "Kyrgyz": [
+                    "күндүзгү мектеп",
+                    "күндүзгү окуу жайы"
+                ],
+                "Karakalpak": [
+                    "kúndizgi mektep",
+                    "kúndizgi oqıo ornı"
+                ],
+                "Tatar": [
+                    "көндезге мәктәп",
+                    "көндезге уку йорты"
+                ],
+                "Bashkir": [
+                    "көндөҙгө мәктәп",
+                    "көндөҙгө уҡыу йорто"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kunduzgi maktab",
+                    "kunlik maktab"
+                ]
+            }
+        }
+    ]
+}

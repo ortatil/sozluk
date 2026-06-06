@@ -1,0 +1,204 @@
+# Reality check
+| Field | Detail |
+|---|---|
+| **ID** | i75698 |
+| **English** | reality check |
+| **Type** | noun |
+| **Definition** | an occasion on which one is reminded of the nature of things in the real world |
+| **Source** | common |
+| **Ortatil** | ayılma |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ayılma** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.37** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| аеклану | ayeklanu |
+
+```json
+{
+    "id": "i75698",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "reality check",
+    "en_definition": "an occasion on which one is reminded of the nature of things in the real world",
+    "tr_word": "gerçeklerle yüzleşme",
+    "tr_definition": "bir kişinin gerçek dünyadaki olayların doğasını veya ciddiyetini hatırladığı an",
+    "ru_word": "проверка реальностью",
+    "ru_definition": "случай, когда человеку напоминают о реальном положении дел в мире",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hakikatle karşılaşma"
+                ],
+                "Azerbaijani": [
+                    "həqiqətlə üzləşmə",
+                    "həqiqət anı"
+                ],
+                "Turkmen": [
+                    "hakykat bilen ýüzbe-ýüz bolmak",
+                    "hakykaty görmek",
+                    "hakyky ýagdaýa göz ýetirmek"
+                ],
+                "Uzbek": [
+                    "haqiqatga qaytish",
+                    "haqiqatni anglash"
+                ],
+                "Uyghur": [
+                    "ھەقىقەتنى تونۇش",
+                    "ھەقىقەت بىلەن يۈزلىشىش"
+                ],
+                "Kazakh": [
+                    "ақиқатты тану"
+                ],
+                "Karakalpak": [
+                    "haqıyqatqa kóz jetkizio",
+                    "haqıyqat penen betpe-bet kelio"
+                ],
+                "Tatar": [
+                    "хакыйкатькә кайту"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayılma"
+                ],
+                "Azerbaijani": [
+                    "ayılma"
+                ],
+                "Kyrgyz": [
+                    "акыйкатты таануу"
+                ],
+                "Tatar": [
+                    "аеклану"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻz ochilishi"
+                ],
+                "Kyrgyz": [
+                    "көз ачуу"
+                ],
+                "Tatar": [
+                    "күз ачылу"
+                ],
+                "Bashkir": [
+                    "күҙ асылыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шындыққа көз жеткізу",
+                    "шындықпен бетпе-бет келу"
+                ],
+                "Kyrgyz": [
+                    "чындыкка кайтуу",
+                    "чындыктын жүзү"
+                ],
+                "Karakalpak": [
+                    "shınlıqtı ańlao"
+                ],
+                "Tatar": [
+                    "чынбарлыкны тану"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gerçeklerle yüzleşme",
+                    "gerçeklik testi"
+                ],
+                "Azerbaijani": [
+                    "gerçəkliklə qarşılaşma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "asyl ýagdaýy aňlamak"
+                ],
+                "Uyghur": [
+                    "ئەسلىگە كېلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendine gelme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "voqelikka nazar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رېئاللىققا يۈزلىنىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақиқатқа оралу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәлде аңлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ысынбарлыҡты таныу",
+                    "асыҡлыҡ индереү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,130 @@
+{
+    "id": "i69385",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "full page",
+    "en_definition": "something that covers an entire page",
+    "tr_word": "tam sayfa",
+    "tr_definition": "bir sayfanın tamamını kaplayan şey",
+    "ru_word": "полная страница",
+    "ru_definition": "что-то, занимающее всю страницу целиком",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bütün sayfa"
+                ],
+                "Azerbaijani": [
+                    "bütöv səhifə"
+                ],
+                "Turkmen": [
+                    "bitin sahypa"
+                ],
+                "Uzbek": [
+                    "butun bet"
+                ],
+                "Uyghur": [
+                    "پۈتۈن بەت"
+                ],
+                "Kyrgyz": [
+                    "бүтүн бет"
+                ],
+                "Karakalpak": [
+                    "pútún bet"
+                ],
+                "Tatar": [
+                    "бөтен бит"
+                ],
+                "Bashkir": [
+                    "бөтөн бит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dolu səhifə"
+                ],
+                "Turkmen": [
+                    "doly sahypa"
+                ],
+                "Uzbek": [
+                    "to'la sahifa",
+                    "to'liq sahifa"
+                ],
+                "Uyghur": [
+                    "تولۇق بەت",
+                    "تولۇق سەھىپە"
+                ],
+                "Kazakh": [
+                    "толық бет"
+                ],
+                "Kyrgyz": [
+                    "толук бет"
+                ],
+                "Karakalpak": [
+                    "tolıq bet"
+                ],
+                "Tatar": [
+                    "тулы бит"
+                ],
+                "Bashkir": [
+                    "тулы бит"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tam sayfa"
+                ],
+                "Azerbaijani": [
+                    "tam səhifə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tutuş sahypa"
+                ],
+                "Kazakh": [
+                    "тұтас бет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "беттей"
+                ],
+                "Tatar": [
+                    "бит тутыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "барак бою"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jazıq bet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төгәл бит"
+                ]
+            }
+        }
+    ]
+}

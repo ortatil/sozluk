@@ -1,0 +1,252 @@
+# Encroaching
+| Field | Detail |
+|---|---|
+| **ID** | i7364 |
+| **English** | encroaching |
+| **Type** | adjective |
+| **Definition** | gradually intrusive without right or permission |
+| **Source** | common |
+| **Ortatil** | täcawuzkär |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **täcawuzkär** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بېسىۋالغۇچى | besivalğuçi |
+| تاجاۋۇزكار | tajavuzkar |
+| **Kazakh** | |
+| сұғынба | suğınba |
+| сұғынушы | suğınuşı |
+| **Tatar** | |
+| кагылучы | kagıluçı |
+| кысылучы | kısıluçı |
+| **Bashkir** | |
+| ҡыҫылыусы | qısılıusı |
+
+```json
+{
+    "id": "i7364",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "encroaching",
+    "en_definition": "gradually intrusive without right or permission",
+    "tr_word": "tecavüzkâr",
+    "tr_definition": "hak veya izin olmaksızın başkasının alanına yavaş yavaş ve izinsiz giren",
+    "ru_word": "посягающий",
+    "ru_definition": "постепенно вторгающийся без права или разрешения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "basyp alýan"
+                ],
+                "Uzbek": [
+                    "bosqinchi"
+                ],
+                "Uyghur": [
+                    "بېسىۋالغۇچى"
+                ],
+                "Kazakh": [
+                    "басып кіруші"
+                ],
+                "Kyrgyz": [
+                    "басып алуучу"
+                ],
+                "Karakalpak": [
+                    "basıp alıushı"
+                ],
+                "Tatar": [
+                    "бәреп керүче",
+                    "басып алучы"
+                ],
+                "Bashkir": [
+                    "баҫып алыусы",
+                    "баҫып инеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tecavüzkâr"
+                ],
+                "Azerbaijani": [
+                    "təcavüzkar"
+                ],
+                "Uzbek": [
+                    "tajovuzkor",
+                    "tajovuzli"
+                ],
+                "Uyghur": [
+                    "تاجاۋۇزكار"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yolsuz"
+                ],
+                "Kazakh": [
+                    "қол сұғушы"
+                ],
+                "Kyrgyz": [
+                    "кол салуучу"
+                ],
+                "Karakalpak": [
+                    "qol sұǵıushı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "süýşüp gelýän"
+                ],
+                "Uyghur": [
+                    "سۇقۇنۇپ كىرگۈچى"
+                ],
+                "Kazakh": [
+                    "сұғынба",
+                    "сұғынушы"
+                ],
+                "Karakalpak": [
+                    "sұǵılma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müdahaleci"
+                ],
+                "Azerbaijani": [
+                    "müdaxiləçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yayılmacı"
+                ],
+                "Tatar": [
+                    "кагылучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haksız giren"
+                ],
+                "Azerbaijani": [
+                    "haqsız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "aralaşýan"
+                ],
+                "Karakalpak": [
+                    "aralasıushı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кысылучы"
+                ],
+                "Bashkir": [
+                    "ҡыҫылыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sarkıntılık eden"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çozuşly",
+                    "çozýan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "istilochi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suqiluvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دەخلى-تەرۇز قىلغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кирип келүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чектен ашуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үтеп инеүсе"
+                ]
+            }
+        }
+    ]
+}
+```
+

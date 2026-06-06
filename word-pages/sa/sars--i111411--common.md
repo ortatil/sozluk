@@ -1,0 +1,174 @@
+# Sars
+| Field | Detail |
+|---|---|
+| **ID** | i111411 |
+| **English** | sars |
+| **Type** | noun |
+| **Definition** | a respiratory disease of unknown etiology that apparently originated in mainland China in 2003; characterized by fever and coughing or difficulty breathing or hypoxia; can be fatal |
+| **Source** | common |
+| **Ortatil** | sars |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سارس | sars |
+
+```json
+{
+    "id": "i111411",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sars",
+    "en_definition": "a respiratory disease of unknown etiology that apparently originated in mainland China in 2003; characterized by fever and coughing or difficulty breathing or hypoxia; can be fatal",
+    "tr_word": "SARS",
+    "tr_definition": "2003 yılında Çin'de ortaya çıkan, ateş, öksürük ve nefes darlığı ile karakterize, ölümcül olabilen bulaşıcı bir solunum yolu hastalığı.",
+    "ru_word": "атипичная пневмония",
+    "ru_definition": "тяжелое респираторное заболевание вирусного происхождения, впервые зафиксированное в 2003 году в Китае, характеризующееся лихорадкой и затрудненным дыханием.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akut solunum yetmezliği",
+                    "şiddetli akut solunum yolu sendromu",
+                    "ağır akut solunum yolu yetersizliği"
+                ],
+                "Azerbaijani": [
+                    "ağır tənəffüs sindromu"
+                ],
+                "Uzbek": [
+                    "ogʻir oʻpka yalligʻlanishi"
+                ],
+                "Uyghur": [
+                    "ئېغىر تىپتىكى جىددىي خاراكتېرلىك نەپەس يولى ئۇنىۋېرسال كېسەللىكى"
+                ],
+                "Kazakh": [
+                    "ауыр тыныс алу жетіспеушілігі"
+                ],
+                "Karakalpak": [
+                    "auır respiratorlıq sindrom"
+                ],
+                "Tatar": [
+                    "авыр респиратор синдромы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "demgysma keseli"
+                ],
+                "Kyrgyz": [
+                    "дем алуу органдарынын курч кармаган оорусу",
+                    "дем алуу жолдорунун сезгениши",
+                    "дем алуунун кыйындашы"
+                ],
+                "Karakalpak": [
+                    "dem jetіspeushіlіgі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýiti respirator sindromy"
+                ],
+                "Kazakh": [
+                    "жіті респираторлық синдром"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻtkir respirator sindrom"
+                ],
+                "Bashkir": [
+                    "киҫкен респиратор синдромы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өкпе қабынуы"
+                ],
+                "Karakalpak": [
+                    "ókpe qabınuı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kəskin tənəffüs çatışmazlığı",
+                    "yoluxucu tənəffüs xəstəliyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öýken sowuklamasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nafas yoʻllari xastaligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سارس"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "غەيرىي تىپتىكى ئۆپكە ياللۇغى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кискен сулыш җитешмәү синдромы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сулыш юллары авыруы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тын алыу ауырыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үпкә шешеүе"
+                ]
+            }
+        }
+    ]
+}
+```
+

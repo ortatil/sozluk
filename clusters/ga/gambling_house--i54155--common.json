@@ -1,0 +1,74 @@
+{
+    "id": "i54155",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gambling house",
+    "en_definition": "a public building in which a variety of games of chance can be played (operated as a business)",
+    "tr_word": "kumarhane",
+    "tr_definition": "Çeşitli şans oyunlarının oynatıldığı, işletme niteliğindeki halka açık yer.",
+    "ru_word": "игорный дом",
+    "ru_definition": "Общественное здание или заведение, предназначенное для проведения азартных игр.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kumarhane",
+                    "kumar yurdu"
+                ],
+                "Azerbaijani": [
+                    "qumarxana",
+                    "qumar evi"
+                ],
+                "Turkmen": [
+                    "humarhona",
+                    "kumarhana",
+                    "humaryat"
+                ],
+                "Uzbek": [
+                    "qimorxona",
+                    "qimorbaxshxona"
+                ],
+                "Uyghur": [
+                    "قۇمارخانا",
+                    "قۇمارۋازلىق ئورنى"
+                ],
+                "Kazakh": [
+                    "құмархана"
+                ],
+                "Kyrgyz": [
+                    "кумаркана"
+                ],
+                "Karakalpak": [
+                    "qumarxana"
+                ],
+                "Tatar": [
+                    "комарханә"
+                ],
+                "Bashkir": [
+                    "ҡамархана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ойынхана"
+                ],
+                "Kyrgyz": [
+                    "оюнкана"
+                ],
+                "Karakalpak": [
+                    "oyınxana"
+                ],
+                "Tatar": [
+                    "уенханә"
+                ],
+                "Bashkir": [
+                    "уйын йорто"
+                ]
+            }
+        }
+    ]
+}

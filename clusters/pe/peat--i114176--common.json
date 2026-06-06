@@ -1,0 +1,111 @@
+{
+    "id": "i114176",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "peat",
+    "en_definition": "partially carbonized vegetable matter saturated with water; can be used as a fuel when dried",
+    "tr_word": "turba",
+    "tr_definition": "suyla doymuş, kısmen karbonlaşmış bitkisel madde; kurutulduğunda yakıt olarak kullanılabilir",
+    "ru_word": "торф",
+    "ru_definition": "частично обугленное растительное вещество, насыщенное водой; в высушенном виде может использоваться как топливо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "turba",
+                    "turf"
+                ],
+                "Azerbaijani": [
+                    "torf"
+                ],
+                "Turkmen": [
+                    "torf"
+                ],
+                "Uzbek": [
+                    "torf"
+                ],
+                "Uyghur": [
+                    "تۇرپان",
+                    "تۇرپان توپا"
+                ],
+                "Karakalpak": [
+                    "torf"
+                ],
+                "Tatar": [
+                    "торф"
+                ],
+                "Bashkir": [
+                    "торф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bataqlıq kömürü"
+                ],
+                "Uyghur": [
+                    "پاتقاق كۆمۈر"
+                ],
+                "Bashkir": [
+                    "батҡаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шымтезек",
+                    "шым"
+                ],
+                "Kyrgyz": [
+                    "шым",
+                    "шымтезек"
+                ],
+                "Karakalpak": [
+                    "shımtezek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yer kömürü"
+                ],
+                "Uzbek": [
+                    "chirindi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çürüntü"
+                ],
+                "Turkmen": [
+                    "çüýrüntgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "саз күмере"
+                ],
+                "Bashkir": [
+                    "һаҙлыҡ күмере"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тезек"
+                ]
+            }
+        }
+    ]
+}

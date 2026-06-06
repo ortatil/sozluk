@@ -1,0 +1,140 @@
+{
+    "id": "i79637",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bear market",
+    "en_definition": "a market characterized by falling prices for securities",
+    "tr_word": "ayı piyasası",
+    "tr_definition": "fiyatların düşüş eğiliminde olduğu ve yatırımcıların kötümser olduğu piyasa durumu",
+    "ru_word": "медвежий рынок",
+    "ru_definition": "рынок, характеризующийся устойчивой тенденцией к снижению цен на ценные бумаги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düşüş piyasası"
+                ],
+                "Azerbaijani": [
+                    "düşən bazar"
+                ],
+                "Uzbek": [
+                    "tushuvchi bozor"
+                ],
+                "Tatar": [
+                    "төшүче базар",
+                    "төшүче бәяләр базары"
+                ],
+                "Bashkir": [
+                    "төшөүсе баҙар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "arzanlaýyş bazary",
+                    "aşaklaýyş bazary"
+                ],
+                "Kazakh": [
+                    "арзандау нарығы"
+                ],
+                "Kyrgyz": [
+                    "арзандаган базар"
+                ],
+                "Karakalpak": [
+                    "arzanlasıu bazarı"
+                ],
+                "Bashkir": [
+                    "арзанайыу баҙары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەنلەش بازىرى",
+                    "تۆۋەنلەۋاتقان بازار"
+                ],
+                "Kazakh": [
+                    "төмендеу нарығы"
+                ],
+                "Kyrgyz": [
+                    "төмөндөө базары",
+                    "төмөндөөчү базар"
+                ],
+                "Karakalpak": [
+                    "tómenleu bazarı",
+                    "tómenleushi bazar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayı piyasası"
+                ],
+                "Azerbaijani": [
+                    "ayı bazarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "peselýän bazar"
+                ],
+                "Uzbek": [
+                    "pasayuvchi bozor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sust bozor"
+                ],
+                "Uyghur": [
+                    "سۇس بازار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "durgun piyasa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "enən bazar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құлдырау нарығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үлчәүле базар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "түбәнәйеүсе баҙар"
+                ]
+            }
+        }
+    ]
+}

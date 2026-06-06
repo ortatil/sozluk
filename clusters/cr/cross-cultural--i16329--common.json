@@ -1,0 +1,89 @@
+{
+    "id": "i16329",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "cross-cultural",
+    "en_definition": "dealing with or comparing two or more cultures",
+    "tr_word": "kültürlerarası",
+    "tr_definition": "iki veya daha fazla kültürü ele alan veya karşılaştıran",
+    "ru_word": "межкультурный",
+    "ru_definition": "относящийся к взаимодействию или сравнению двух или более культур",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mədəniyyətlərarası",
+                    "mədəniyyətlərüstü"
+                ],
+                "Turkmen": [
+                    "medeniýetara",
+                    "medeniýetlerara"
+                ],
+                "Uzbek": [
+                    "madaniyatlararo",
+                    "madaniyatlar osha",
+                    "madaniyatlarni qiyoslovchi"
+                ],
+                "Uyghur": [
+                    "مەدەنىيەتلەر ئارا",
+                    "مەدەنىيەت ھالقىغان",
+                    "مەدەنىيەتلەر ئوتتۇرىسىدىكى"
+                ],
+                "Kazakh": [
+                    "мәдениетаралық",
+                    "мәдениеттер арасындағы",
+                    "мәдениеттер тоғысындағы"
+                ],
+                "Kyrgyz": [
+                    "маданияттар аралык",
+                    "маданияттар арасындагы"
+                ],
+                "Karakalpak": [
+                    "mádeniyatlararalıq",
+                    "mádeniyatlar aralıq"
+                ],
+                "Tatar": [
+                    "мәдәният ара",
+                    "мәдәниятара"
+                ],
+                "Bashkir": [
+                    "мәҙәниәт-ара",
+                    "мәҙәниәттәр-ара"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "araçäkli medeniýet"
+                ],
+                "Tatar": [
+                    "арадаш мәдәни"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kültürlerarası",
+                    "kültürler arası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beynelmilel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "milletlerarası"
+                ]
+            }
+        }
+    ]
+}

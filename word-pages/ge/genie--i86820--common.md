@@ -1,0 +1,200 @@
+# Genie
+| Field | Detail |
+|---|---|
+| **ID** | i86820 |
+| **English** | genie |
+| **Type** | noun |
+| **Definition** | (Islam) an invisible spirit mentioned in the Koran and believed by Muslims to inhabit the earth and influence mankind by appearing in the form of humans or animals |
+| **Source** | common |
+| **Ortatil** | cin, päriy |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **cin** | **päriy** | **dio** | **alwastı** |
+|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ | ✅ |
+| Kazakh | ✅ | ✅ | ❌ | ✅ |
+| Kyrgyz | ✅ | ✅ | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ | ✅ | ❌ |
+| Tatar | ✅ | ✅ | ✅ | ❌ |
+| Bashkir | ✅ | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 1 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 1 | 0.60 | 0.40 |
+| *In All* | ✅ | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |
+| **O'TQ** | **4** | **4** | **1.10** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| جىن | jin |
+| پەرى | päri |
+| ئالۋاستى | alvasti |
+| **Kazakh** | |
+| жын | jın |
+| пері | peri |
+| албасты | albastı |
+| **Kyrgyz** | |
+| жин | jin |
+| периште | perişte |
+| албарсты | albarstı |
+| макулук | makuluk |
+| **Tatar** | |
+| җен | jen |
+| пәри | päri |
+| дию | diyu |
+| **Bashkir** | |
+| жин | jin |
+| пәрей | pärey |
+| диү | diü |
+
+```json
+{
+    "id": "i86820",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "genie",
+    "en_definition": "(Islam) an invisible spirit mentioned in the Koran and believed by Muslims to inhabit the earth and influence mankind by appearing in the form of humans or animals",
+    "tr_word": "cin",
+    "tr_definition": "İslam inancına göre, gözle görülmeyen, insanlar gibi irade sahibi olan ve çeşitli şekillere girebilen ruhani varlık.",
+    "ru_word": "джинн",
+    "ru_definition": "В исламе — невидимый дух, созданный из чистого бездымного пламени, способный принимать облик людей или животных и влиять на жизнь человека.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cin"
+                ],
+                "Azerbaijani": [
+                    "cin"
+                ],
+                "Turkmen": [
+                    "jin"
+                ],
+                "Uzbek": [
+                    "jin"
+                ],
+                "Uyghur": [
+                    "جىن"
+                ],
+                "Kazakh": [
+                    "жын"
+                ],
+                "Kyrgyz": [
+                    "жин"
+                ],
+                "Karakalpak": [
+                    "jin"
+                ],
+                "Tatar": [
+                    "җен"
+                ],
+                "Bashkir": [
+                    "жин"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "peri"
+                ],
+                "Azerbaijani": [
+                    "pəri"
+                ],
+                "Turkmen": [
+                    "peri"
+                ],
+                "Uzbek": [
+                    "pari"
+                ],
+                "Uyghur": [
+                    "پەرى"
+                ],
+                "Kazakh": [
+                    "пері"
+                ],
+                "Kyrgyz": [
+                    "периште"
+                ],
+                "Karakalpak": [
+                    "páriy"
+                ],
+                "Tatar": [
+                    "пәри"
+                ],
+                "Bashkir": [
+                    "пәрей"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "dev"
+                ],
+                "Karakalpak": [
+                    "dio"
+                ],
+                "Tatar": [
+                    "дию"
+                ],
+                "Bashkir": [
+                    "диү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئالۋاستى"
+                ],
+                "Kazakh": [
+                    "албасты"
+                ],
+                "Kyrgyz": [
+                    "албарсты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ifrit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ruh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arwah"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "макулук"
+                ]
+            }
+        }
+    ]
+}
+```
+

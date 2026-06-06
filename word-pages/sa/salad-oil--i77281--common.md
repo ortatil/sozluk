@@ -1,0 +1,171 @@
+# Salad oil
+| Field | Detail |
+|---|---|
+| **ID** | i77281 |
+| **English** | salad oil |
+| **Type** | noun |
+| **Definition** | any of several edible vegetable oils that can be used in salad dressings |
+| **Source** | common |
+| **Ortatil** | mäy |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i77281",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "salad oil",
+    "en_definition": "any of several edible vegetable oils that can be used in salad dressings",
+    "tr_word": null,
+    "tr_definition": null,
+    "ru_word": null,
+    "ru_definition": null,
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ösümlik ýagy"
+                ],
+                "Uzbek": [
+                    "o'simlik yog'i"
+                ],
+                "Uyghur": [
+                    "ئۆسۈملۈك مېيى"
+                ],
+                "Kazakh": [
+                    "өсімдік майы",
+                    "ас майы"
+                ],
+                "Kyrgyz": [
+                    "өсүмдүк майы"
+                ],
+                "Karakalpak": [
+                    "ósimlik mayı",
+                    "as mayı"
+                ],
+                "Tatar": [
+                    "үсемлек мае"
+                ],
+                "Bashkir": [
+                    "үҫемлек майы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıvı yağ"
+                ],
+                "Kazakh": [
+                    "сұйық май"
+                ],
+                "Kyrgyz": [
+                    "суюк май"
+                ],
+                "Karakalpak": [
+                    "suyıq may"
+                ],
+                "Tatar": [
+                    "сыек май"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "аш майы"
+                ],
+                "Tatar": [
+                    "аш мае"
+                ],
+                "Bashkir": [
+                    "аш майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemeklik yağ"
+                ],
+                "Azerbaijani": [
+                    "yemək yağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bitkisel yağ"
+                ],
+                "Azerbaijani": [
+                    "bitki yağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zeytinyağı"
+                ],
+                "Azerbaijani": [
+                    "zeytun yağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "suwuk ýag"
+                ],
+                "Uyghur": [
+                    "سۇيۇق ماي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "duru yağ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nahar ýagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "moy",
+                    "yog'"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاماق مېيى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәскәй майы"
+                ]
+            }
+        }
+    ]
+}
+```
+

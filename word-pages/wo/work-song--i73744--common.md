@@ -1,0 +1,166 @@
+# Work song
+| Field | Detail |
+|---|---|
+| **ID** | i73744 |
+| **English** | work song |
+| **Type** | noun |
+| **Definition** | a usually rhythmical song to accompany repetitious work |
+| **Source** | common |
+| **Ortatil** | mäwrigi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i73744",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "work song",
+    "en_definition": "a usually rhythmical song to accompany repetitious work",
+    "tr_word": "iş şarkısı",
+    "tr_definition": "Genellikle tekrarlayan işlere eşlik etmek için söylenen ritmik şarkı.",
+    "ru_word": "трудовая песня",
+    "ru_definition": "Ритмичная песня, исполняемая во время коллективной физической работы для координации движений.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iş türküsü",
+                    "iş şarkısı"
+                ],
+                "Azerbaijani": [
+                    "iş mahnısı"
+                ],
+                "Turkmen": [
+                    "iş aýdymy"
+                ],
+                "Kyrgyz": [
+                    "иш ыры"
+                ],
+                "Tatar": [
+                    "эш җыры"
+                ],
+                "Bashkir": [
+                    "эш йыры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "imece türküsü"
+                ],
+                "Azerbaijani": [
+                    "əmək mahnısı"
+                ],
+                "Uyghur": [
+                    "ئەمگەك ناخشىسى"
+                ],
+                "Kyrgyz": [
+                    "эмгек ыры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mehnat qoʻshigʻi"
+                ],
+                "Uyghur": [
+                    "مېھنەت ناخشىسى"
+                ],
+                "Karakalpak": [
+                    "minet qosıǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zähmet aýdymy"
+                ],
+                "Bashkir": [
+                    "хеҙмәт йыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalışma türküsü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "holavar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sayaçı sözləri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ish qoʻshigʻi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mavrigi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еңбек жыры",
+                    "еңбек әні"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төрт түлік жыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кошоктошкон ыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jumıs qosıǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хезмәт җыры"
+                ]
+            }
+        }
+    ]
+}
+```
+

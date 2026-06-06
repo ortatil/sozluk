@@ -1,0 +1,111 @@
+{
+    "id": "i57658",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pressure cooker",
+    "en_definition": "autoclave for cooking at temperatures above the boiling point of water",
+    "tr_word": "düdüklü tencere",
+    "tr_definition": "suyun kaynama noktasının üzerindeki sıcaklıklarda pişirme yapan basınçlı tencere",
+    "ru_word": "скороварка",
+    "ru_definition": "кастрюля с плотно закрывающейся крышкой, позволяющая готовить пищу при повышенном давлении и температуре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buharlı tencere"
+                ],
+                "Azerbaijani": [
+                    "buxar qazanı"
+                ],
+                "Turkmen": [
+                    "bug gazany",
+                    "bugly gazan"
+                ],
+                "Uzbek": [
+                    "bugʻqozon"
+                ],
+                "Kazakh": [
+                    "бу қазаны"
+                ],
+                "Kyrgyz": [
+                    "буу казан"
+                ],
+                "Karakalpak": [
+                    "buu qazan"
+                ],
+                "Bashkir": [
+                    "быуҡаҙан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təzyiqli qazan"
+                ],
+                "Uzbek": [
+                    "tezpishar"
+                ],
+                "Uyghur": [
+                    "تېز پىشۇرۇش قازىنى"
+                ],
+                "Kyrgyz": [
+                    "тез бышыргыч",
+                    "тез кайнаткыч"
+                ],
+                "Karakalpak": [
+                    "tezpiser"
+                ],
+                "Tatar": [
+                    "тизпешергеч"
+                ],
+                "Bashkir": [
+                    "тиҙбешергес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "düdüklü tencere"
+                ],
+                "Azerbaijani": [
+                    "düdüklü qazan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "basyşly gazan"
+                ],
+                "Uyghur": [
+                    "بېسىملىق قازان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жылдам пісіргіш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қысымды қазан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "парказан"
+                ]
+            }
+        }
+    ]
+}

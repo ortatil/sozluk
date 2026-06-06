@@ -1,0 +1,82 @@
+{
+    "id": "i114932",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "glass wool",
+    "en_definition": "glass fibers spun and massed into bundles resembling wool",
+    "tr_word": "cam yünü",
+    "tr_definition": "yalıtım amacıyla kullanılan, erimiş camın lif haline getirilmesiyle elde edilen yün benzeri malzeme",
+    "ru_word": "стекловата",
+    "ru_definition": "минеральное волокно, изготовленное из расплавленного стекла, используемое для тепло- и звукоизоляции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şüşə pambığı",
+                    "şüşə yunu"
+                ],
+                "Turkmen": [
+                    "çüýşe pagtasy",
+                    "çüýşe ýüňi"
+                ],
+                "Uzbek": [
+                    "shisha momiq",
+                    "shisha paxta"
+                ],
+                "Uyghur": [
+                    "شىشە يۇڭى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئەينەك يۇڭى"
+                ],
+                "Kazakh": [
+                    "әйнек мақта"
+                ],
+                "Kyrgyz": [
+                    "айнек була",
+                    "айнек кебез",
+                    "айнек жүн"
+                ],
+                "Karakalpak": [
+                    "áynek maqta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шыны мақта"
+                ],
+                "Karakalpak": [
+                    "shını maqta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пыяла мамыгы",
+                    "пыяла йон"
+                ],
+                "Bashkir": [
+                    "быяла мамыҡ",
+                    "быяла йөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cam yünü",
+                    "cam pamuğu"
+                ]
+            }
+        }
+    ]
+}

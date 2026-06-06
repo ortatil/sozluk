@@ -1,0 +1,105 @@
+{
+    "id": "i82233",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "no-parking zone",
+    "en_definition": "a space where automobiles are not allowed to park",
+    "tr_word": "park yasağı bölgesi",
+    "tr_definition": "otomobillerin park etmesine izin verilmeyen alan",
+    "ru_word": "зона запрета парковки",
+    "ru_definition": "место, где запрещена парковка автомобилей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'xtash taqiqlangan joy",
+                    "to'xtash man etilgan hudud",
+                    "to'xtash taqiqlangan hudud"
+                ],
+                "Uyghur": [
+                    "توختىتىش مەنئى قىلىنغان رايون"
+                ],
+                "Kyrgyz": [
+                    "токтоого тыюу салынган жер",
+                    "токтоого болбой турган жер",
+                    "токтоого тыюу салынган аймак"
+                ],
+                "Karakalpak": [
+                    "toqtauǵa tıyım salınǵan jer"
+                ],
+                "Tatar": [
+                    "туктау тыелган урын",
+                    "туктау тыелган зона"
+                ],
+                "Bashkir": [
+                    "туҡталыу тыйылған урын",
+                    "туҡтау тыйылған зона"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "durmak gadagan edilen ýer",
+                    "awtoulag goýmak gadagan edilen ýer",
+                    "durmak gadagan"
+                ],
+                "Kazakh": [
+                    "тұраққа тыйым салынған аймақ",
+                    "тұрақ жасауға тыйым салынған жер"
+                ],
+                "Karakalpak": [
+                    "tұraqqa tıyım salınǵan aymaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ماشىنا توختىتىش مەنئى قىلىنغان رايون",
+                    "ماشىنا توختىتىش چەكلەنگەن جاي"
+                ],
+                "Tatar": [
+                    "машина кую тыелган урын"
+                ],
+                "Bashkir": [
+                    "машина ҡуйыу тыйылған урын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "park yasağı",
+                    "park edilmez bölgesi",
+                    "park yasak bölge"
+                ],
+                "Azerbaijani": [
+                    "parketmə qadağası",
+                    "park qadağası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік қоюға болмайтын орын"
+                ],
+                "Karakalpak": [
+                    "kólіk qoyuǵa bolmaytın orın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dayanmaq qadağandır",
+                    "dayanma-durma qadağası"
+                ]
+            }
+        }
+    ]
+}

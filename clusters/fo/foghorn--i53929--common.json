@@ -1,0 +1,109 @@
+{
+    "id": "i53929",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "foghorn",
+    "en_definition": "a warning device consisting of a horn that generates a loud low tone",
+    "tr_word": "sis düdüğü",
+    "tr_definition": "Gemilere veya diğer araçlara sisli havalarda yol göstermek veya uyarıda bulunmak için kullanılan, yüksek sesli ve pes tonlu korna.",
+    "ru_word": "туманный горн",
+    "ru_definition": "Устройство для подачи громких звуковых сигналов судам в условиях тумана для предупреждения об опасности.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "duman siqnalı",
+                    "duman fiti",
+                    "duman buynuzu"
+                ],
+                "Turkmen": [
+                    "duman sypygy",
+                    "duman hornasy",
+                    "duman duýduryşy"
+                ],
+                "Uzbek": [
+                    "tuman burgʻusi",
+                    "tuman karnayi",
+                    "tuman signali"
+                ],
+                "Uyghur": [
+                    "تۇمان سىگنالى",
+                    "تۇمان كانىيى",
+                    "تۇمان بۇرغىسى"
+                ],
+                "Kazakh": [
+                    "тұман дабылы",
+                    "тұман сырнайы"
+                ],
+                "Kyrgyz": [
+                    "туман сурнайы",
+                    "туман кернейи"
+                ],
+                "Karakalpak": [
+                    "tuman signalı",
+                    "tuman sıbızǵısı",
+                    "tuman kerneyi"
+                ],
+                "Tatar": [
+                    "томан сигналы",
+                    "томан быргысы"
+                ],
+                "Bashkir": [
+                    "томан быҙғыһы",
+                    "томан сигналы",
+                    "томан мөгөҙө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sis düdüğü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sis borusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sis sireni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дабыл белгісі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коңгуроо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "белги берүүчү керней"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сигнал быргысы"
+                ]
+            }
+        }
+    ]
+}

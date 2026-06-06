@@ -1,0 +1,116 @@
+{
+    "id": "i5202",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "outer",
+    "en_definition": "being on the outside or further from a center",
+    "tr_word": "dış",
+    "tr_definition": "Dışarıda bulunan veya merkeze daha uzak olan",
+    "ru_word": "внешний",
+    "ru_definition": "Находящийся снаружи или дальше от центра",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dış",
+                    "taşra"
+                ],
+                "Azerbaijani": [
+                    "dış"
+                ],
+                "Turkmen": [
+                    "daşky",
+                    "daşary",
+                    "daş"
+                ],
+                "Uzbek": [
+                    "tashqi",
+                    "tashqaridagi"
+                ],
+                "Uyghur": [
+                    "تاشقى",
+                    "تاشقىرى"
+                ],
+                "Kazakh": [
+                    "тысқары"
+                ],
+                "Kyrgyz": [
+                    "тышкы"
+                ],
+                "Karakalpak": [
+                    "tısqı"
+                ],
+                "Tatar": [
+                    "тышкы",
+                    "тыштагы"
+                ],
+                "Bashkir": [
+                    "тышҡы",
+                    "тыштағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шеткі"
+                ],
+                "Kyrgyz": [
+                    "четки"
+                ],
+                "Karakalpak": [
+                    "shetkі"
+                ],
+                "Tatar": [
+                    "читкe"
+                ],
+                "Bashkir": [
+                    "ситтәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سىرتى"
+                ],
+                "Kazakh": [
+                    "сыртқы"
+                ],
+                "Kyrgyz": [
+                    "сырткы"
+                ],
+                "Karakalpak": [
+                    "sırtqı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "harici"
+                ],
+                "Azerbaijani": [
+                    "xarici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kənar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "beruniy"
+                ]
+            }
+        }
+    ]
+}

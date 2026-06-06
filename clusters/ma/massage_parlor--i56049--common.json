@@ -1,0 +1,105 @@
+{
+    "id": "i56049",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "massage parlor",
+    "en_definition": "a business establishment that offers therapeutic massage",
+    "tr_word": "masaj salonu",
+    "tr_definition": "terapötik masaj hizmeti sunan ticari işletme",
+    "ru_word": "массажный салон",
+    "ru_definition": "коммерческое заведение, предлагающее услуги лечебного или расслабляющего массажа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "masaj salonu",
+                    "masaj evi"
+                ],
+                "Azerbaijani": [
+                    "masaj salonu",
+                    "masaj mərkəzi",
+                    "masajxana"
+                ],
+                "Turkmen": [
+                    "massažhanasy"
+                ],
+                "Uzbek": [
+                    "massajxona"
+                ],
+                "Kazakh": [
+                    "массаж орталығы"
+                ],
+                "Kyrgyz": [
+                    "массаж борбору"
+                ],
+                "Karakalpak": [
+                    "massajxana"
+                ],
+                "Tatar": [
+                    "массажханә"
+                ],
+                "Bashkir": [
+                    "массаж бүлмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "uqalashxonaxon"
+                ],
+                "Kazakh": [
+                    "уқалау орны",
+                    "уқалаухана"
+                ],
+                "Kyrgyz": [
+                    "укалоо борбору",
+                    "укалоокана"
+                ],
+                "Karakalpak": [
+                    "uqalaoxana",
+                    "uqalao ornı"
+                ],
+                "Tatar": [
+                    "укалауханә",
+                    "укалау бүлмәсе"
+                ],
+                "Bashkir": [
+                    "уҡалау бүлмәһе",
+                    "уҡалау үҙәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şifahane"
+                ],
+                "Uzbek": [
+                    "shifobaxsh uqalash maskani"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "owkalama merkezi"
+                ],
+                "Uyghur": [
+                    "ئۇۋۇلاشخانە",
+                    "ئۇۋۇلاش ئورنى",
+                    "ئۇۋۇلاش مەركىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "saglyk merkezi"
+                ]
+            }
+        }
+    ]
+}

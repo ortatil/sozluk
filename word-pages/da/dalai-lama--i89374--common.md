@@ -1,0 +1,169 @@
+# Dalai lama
+| Field | Detail |
+|---|---|
+| **ID** | i89374 |
+| **English** | dalai lama |
+| **Type** | noun |
+| **Definition** | chief lama and once ruler of Tibet |
+| **Source** | common |
+| **Ortatil** | dalay-lama |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **dalay-lama** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.83** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| Далай-лама | dalay-lama |
+| **Kyrgyz** | |
+| Далай-лама | dalay-lama |
+| **Tatar** | |
+| Далай-лама | dalay-lama |
+| **Bashkir** | |
+| Далай-лама | dalay-lama |
+
+```json
+{
+    "id": "i89374",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dalai lama",
+    "en_definition": "chief lama and once ruler of Tibet",
+    "tr_word": "Dalay Lama",
+    "tr_definition": "Tibet'in ruhani lideri ve eski hükümdarı olan en yüksek lama",
+    "ru_word": "Далай-лама",
+    "ru_definition": "духовный лидер тибетского буддизма и бывший правитель Тибета",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Dalay Lama"
+                ],
+                "Azerbaijani": [
+                    "dalay lama"
+                ],
+                "Turkmen": [
+                    "Dalai-lama"
+                ],
+                "Uzbek": [
+                    "Dalay-lama"
+                ],
+                "Uyghur": [
+                    "دالاي لاما"
+                ],
+                "Kazakh": [
+                    "Далай-лама"
+                ],
+                "Kyrgyz": [
+                    "Далай-лама"
+                ],
+                "Karakalpak": [
+                    "Dalay-lama"
+                ],
+                "Tatar": [
+                    "Далай-лама"
+                ],
+                "Bashkir": [
+                    "Далай-лама"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Tibet ruhani lideri"
+                ],
+                "Azerbaijani": [
+                    "tibet rəhbəri"
+                ],
+                "Turkmen": [
+                    "Tibet ruhanybaşysy"
+                ],
+                "Uzbek": [
+                    "Tibet peshvosi"
+                ],
+                "Uyghur": [
+                    "تىبەت دىنىي داھىيسى"
+                ],
+                "Kazakh": [
+                    "Тибет рухани жетекшісі"
+                ],
+                "Kyrgyz": [
+                    "Тибеттин диний башчысы"
+                ],
+                "Karakalpak": [
+                    "Tibet diniy basshısı"
+                ],
+                "Tatar": [
+                    "Тибет башлыгы"
+                ],
+                "Bashkir": [
+                    "Тибет рухи башлығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ali lama"
+                ],
+                "Uzbek": [
+                    "oliy ruhoniy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Жоғарғы лама"
+                ],
+                "Karakalpak": [
+                    "joqarı lama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "beýik lama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Улуу лама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "баш лама"
+                ]
+            }
+        }
+    ]
+}
+```
+

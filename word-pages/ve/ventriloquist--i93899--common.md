@@ -1,0 +1,144 @@
+# Ventriloquist
+| Field | Detail |
+|---|---|
+| **ID** | i93899 |
+| **English** | ventriloquist |
+| **Type** | noun |
+| **Definition** | a performer who projects the voice into a wooden dummy |
+| **Source** | common |
+| **Ortatil** | wantrilok |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قورچاقۋاز | qorçaqvaz |
+
+```json
+{
+    "id": "i93899",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ventriloquist",
+    "en_definition": "a performer who projects the voice into a wooden dummy",
+    "tr_word": "vantrilok",
+    "tr_definition": "sesini karnından çıkarıyormuş gibi yaparak kukla konuşturan sanatçı",
+    "ru_word": "чревовещатель",
+    "ru_definition": "артист, обладающий искусством говорить не шевеля губами, создавая иллюзию, что голос исходит от куклы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karından konuşan"
+                ],
+                "Azerbaijani": [
+                    "qarnıdan danışan"
+                ],
+                "Turkmen": [
+                    "garyn sesli",
+                    "garyndan gepleýji"
+                ],
+                "Uzbek": [
+                    "qorin bilan gapiruvchi"
+                ],
+                "Karakalpak": [
+                    "qarnınan sóyleoshi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قورچاق سۆزلەتكۈچى",
+                    "قورچاق ئوينىغۇچى",
+                    "قورچاقۋاز"
+                ],
+                "Kazakh": [
+                    "құрсақтан сөйлеуші"
+                ],
+                "Kyrgyz": [
+                    "курчак ойнотуучу"
+                ],
+                "Tatar": [
+                    "корсактан сөйләүче",
+                    "корсак сөйләштерүче"
+                ],
+                "Bashkir": [
+                    "ҡорһаҡ менән һөйләүсе",
+                    "ҡорһаҡ һөйләүсеһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vantrilok"
+                ],
+                "Azerbaijani": [
+                    "vəntrilokist"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səsini gizlədən"
+                ],
+                "Turkmen": [
+                    "ses öwürýän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuklacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "soxta ovozli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ovoz o'zgartiruvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іштен сөйлеуші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үн кубултуучу",
+                    "үн кубултмачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "quoırshaq sóyletioshi"
+                ]
+            }
+        }
+    ]
+}
+```
+

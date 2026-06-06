@@ -1,0 +1,65 @@
+{
+    "id": "i53220",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dryer",
+    "en_definition": "an appliance that removes moisture",
+    "tr_word": "kurutucu",
+    "tr_definition": "nemi gideren bir cihaz",
+    "ru_word": "сушилка",
+    "ru_definition": "прибор, удаляющий влагу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurutucu",
+                    "kurutma makinesi"
+                ],
+                "Azerbaijani": [
+                    "quruducu",
+                    "qurudan"
+                ],
+                "Turkmen": [
+                    "guradyjy",
+                    "guradyjy enjam"
+                ],
+                "Uzbek": [
+                    "quritgich",
+                    "qurituvchi"
+                ],
+                "Uyghur": [
+                    "قۇرۇتقۇچ",
+                    "قۇرۇتۇش ئۈسكۈنىسى",
+                    "قۇرۇتقۇچى"
+                ],
+                "Kyrgyz": [
+                    "кургаткыч",
+                    "кургатуучу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кептіргіш",
+                    "кептіргіш аспап",
+                    "кептіргіш құрал"
+                ],
+                "Karakalpak": [
+                    "keptirgish",
+                    "keptirioshi"
+                ],
+                "Tatar": [
+                    "киптергеч",
+                    "киптерүче"
+                ],
+                "Bashkir": [
+                    "киптергес",
+                    "киптереүсе"
+                ]
+            }
+        }
+    ]
+}

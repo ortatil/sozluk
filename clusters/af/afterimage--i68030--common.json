@@ -1,0 +1,124 @@
+{
+    "id": "i68030",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "afterimage",
+    "en_definition": "an image (usually a negative image) that persists after stimulation has ceased",
+    "tr_word": "ardıl görüntü",
+    "tr_definition": "Gözün ağ tabakası üzerindeki uyarım sona erdikten sonra görme duyusunun kısa bir süre daha devam etmesiyle oluşan görüntü.",
+    "ru_word": "послеобраз",
+    "ru_definition": "Зрительное ощущение, сохраняющееся в течение некоторого времени после прекращения действия светового раздражителя.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qalıq təsvir"
+                ],
+                "Turkmen": [
+                    "galyndy şekil"
+                ],
+                "Uzbek": [
+                    "qoldiq tasvir"
+                ],
+                "Uyghur": [
+                    "قالدۇق سىما",
+                    "قالدۇق تەسۋىر"
+                ],
+                "Kazakh": [
+                    "қалдық бейне"
+                ],
+                "Kyrgyz": [
+                    "калдык элес"
+                ],
+                "Karakalpak": [
+                    "qaldıq keskіn"
+                ],
+                "Tatar": [
+                    "калдык сурәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gözdäki yz"
+                ],
+                "Uzbek": [
+                    "koʻz oldidagi tasvir",
+                    "koʻzda qolgan surat"
+                ],
+                "Kyrgyz": [
+                    "көз алдындагы элес",
+                    "көз алдындагы сүрөт"
+                ],
+                "Karakalpak": [
+                    "kóz aldındaǵı eles",
+                    "kóz aldındaǵı beyne"
+                ],
+                "Tatar": [
+                    "күз алдындагы сурәт",
+                    "күз алдында калган күренеш"
+                ],
+                "Bashkir": [
+                    "күҙ алдындағы һүрәт",
+                    "күҙ алдындағы шәүлә",
+                    "күҙ алдындағы сағылыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ardıl görüntü"
+                ],
+                "Azerbaijani": [
+                    "ardıcıl xəyal"
+                ],
+                "Uyghur": [
+                    "ئارقا سىما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iz"
+                ],
+                "Turkmen": [
+                    "yzky şekil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hayal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sonrakı xəyal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнелес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кейінгі бейне"
+                ]
+            }
+        }
+    ]
+}

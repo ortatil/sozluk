@@ -1,0 +1,163 @@
+# Old testament
+| Field | Detail |
+|---|---|
+| **ID** | i70372 |
+| **English** | old testament |
+| **Type** | noun |
+| **Definition** | the collection of books comprising the sacred scripture of the Hebrews and recording their history as the chosen people; the first half of the Christian Bible |
+| **Source** | common |
+| **Ortatil** | täwrat |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **täwrat** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەۋرات | tävrat |
+| **Kazakh** | |
+| Тәурат | täurat |
+| **Kyrgyz** | |
+| Тоорат | toorat |
+| **Tatar** | |
+| Тәүрат | täürat |
+| **Bashkir** | |
+| Тәүрат | täürat |
+
+```json
+{
+    "id": "i70372",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "old testament",
+    "en_definition": "the collection of books comprising the sacred scripture of the Hebrews and recording their history as the chosen people; the first half of the Christian Bible",
+    "tr_word": "Eski Ahit",
+    "tr_definition": "İbranilerin kutsal yazılarını içeren ve Hristiyan Kitab-ı Mukaddes'inin ilk bölümünü oluşturan kitaplar topluluğu.",
+    "ru_word": "Ветхий Завет",
+    "ru_definition": "Собрание священных книг, составляющее первую, древнейшую часть христианской Библии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Tevrat"
+                ],
+                "Azerbaijani": [
+                    "Tövrat"
+                ],
+                "Turkmen": [
+                    "Töwrat"
+                ],
+                "Uzbek": [
+                    "Tavrot"
+                ],
+                "Uyghur": [
+                    "تەۋرات",
+                    "تەۋرات كىتابى"
+                ],
+                "Kazakh": [
+                    "Тәурат"
+                ],
+                "Kyrgyz": [
+                    "Тоорат"
+                ],
+                "Karakalpak": [
+                    "Táorat"
+                ],
+                "Tatar": [
+                    "Тәүрат"
+                ],
+                "Bashkir": [
+                    "Тәүрат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Eski Ahit"
+                ],
+                "Uzbek": [
+                    "Eski Ahd"
+                ],
+                "Kazakh": [
+                    "Ескі өсиет"
+                ],
+                "Kyrgyz": [
+                    "Эски Келишим"
+                ],
+                "Karakalpak": [
+                    "Eski Áht"
+                ],
+                "Tatar": [
+                    "Иске Гаһед"
+                ],
+                "Bashkir": [
+                    "Иҫке Ғәһед"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Köne Äht"
+                ],
+                "Uyghur": [
+                    "كونا ئەھدە"
+                ],
+                "Kazakh": [
+                    "Көне келісім"
+                ],
+                "Kyrgyz": [
+                    "Көөнө Келишим"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Ahd-i Atik"
+                ],
+                "Azerbaijani": [
+                    "Əhdi-Ətiq"
+                ],
+                "Uzbek": [
+                    "Ahdi Atiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Qədim Əhd"
+                ],
+                "Turkmen": [
+                    "Gadymy Äht"
+                ]
+            }
+        }
+    ]
+}
+```
+

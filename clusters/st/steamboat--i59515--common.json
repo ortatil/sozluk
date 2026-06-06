@@ -1,0 +1,119 @@
+{
+    "id": "i59515",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "steamboat",
+    "en_definition": "a boat propelled by a steam engine",
+    "tr_word": "vapur",
+    "tr_definition": "Buhar gücüyle çalışan gemi.",
+    "ru_word": "пароход",
+    "ru_definition": "Судно, приводимое в движение паровым двигателем.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "paroxod"
+                ],
+                "Turkmen": [
+                    "parohod"
+                ],
+                "Uzbek": [
+                    "paroxod"
+                ],
+                "Uyghur": [
+                    "پاروخوت"
+                ],
+                "Kazakh": [
+                    "пароход"
+                ],
+                "Karakalpak": [
+                    "paroxod"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gəmi"
+                ],
+                "Turkmen": [
+                    "gämi"
+                ],
+                "Uzbek": [
+                    "kemai bug‘iy"
+                ],
+                "Kazakh": [
+                    "кеме"
+                ],
+                "Kyrgyz": [
+                    "кеме"
+                ],
+                "Karakalpak": [
+                    "keme"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buğulu gemi"
+                ],
+                "Azerbaijani": [
+                    "buxar gəmisi"
+                ],
+                "Uzbek": [
+                    "bug‘ kemasi"
+                ],
+                "Uyghur": [
+                    "بۇغ كېمىسى"
+                ],
+                "Kyrgyz": [
+                    "буу кемеси"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vapur"
+                ],
+                "Tatar": [
+                    "пархут",
+                    "пароход"
+                ],
+                "Bashkir": [
+                    "пар карабы",
+                    "пароход"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "откеме"
+                ],
+                "Kyrgyz": [
+                    "от кеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istimbot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "су көймәсе"
+                ]
+            }
+        }
+    ]
+}

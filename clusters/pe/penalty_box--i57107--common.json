@@ -1,0 +1,94 @@
+{
+    "id": "i57107",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "penalty box",
+    "en_definition": "(ice hockey) an enclosed bench to the side of an ice-hockey rink for players who are serving time penalties",
+    "tr_word": "ceza kürsüsü",
+    "tr_definition": "buz hokeyinde ceza alan oyuncuların belirli bir süre bekletildiği alan",
+    "ru_word": "скамья штрафников",
+    "ru_definition": "в хоккее с шайбой место, где оштрафованные игроки отбывают время своего наказания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ceza alanı",
+                    "ceza kutusu",
+                    "ceza sırası",
+                    "ceza bölgesi"
+                ],
+                "Azerbaijani": [
+                    "cəza meydançası",
+                    "cəza skamyası",
+                    "cəzalılar yeri"
+                ],
+                "Uyghur": [
+                    "جازا ئورنى",
+                    "جازا رايونى"
+                ],
+                "Karakalpak": [
+                    "jaza orındıǵı"
+                ],
+                "Tatar": [
+                    "җәза эскәмиясе",
+                    "җәза урыны"
+                ],
+                "Bashkir": [
+                    "яза урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "айып орындығы",
+                    "айыптылар орны",
+                    "айып алаңы"
+                ],
+                "Kyrgyz": [
+                    "айып аянты",
+                    "айыпталгандардын орду",
+                    "айыпталгандардын отургучу"
+                ],
+                "Karakalpak": [
+                    "ayıp orındıǵı",
+                    "ayıp maydanshası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jerime meýdançasy",
+                    "jerime oturgyjy",
+                    "jerime ýeri"
+                ],
+                "Uzbek": [
+                    "jarima maydonchasi",
+                    "jarima o'rindig'i",
+                    "jarimalar joyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "штраф эскәмиясе"
+                ],
+                "Bashkir": [
+                    "штраф урыны",
+                    "штраф эскәмйәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ۋاقىتلىق جازا ئورنى"
+                ]
+            }
+        }
+    ]
+}

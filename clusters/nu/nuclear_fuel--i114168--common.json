@@ -1,0 +1,102 @@
+{
+    "id": "i114168",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nuclear fuel",
+    "en_definition": "fuel (such as uranium) that can be used in nuclear reactors as a source of electricity",
+    "tr_word": "nükleer yakıt",
+    "tr_definition": "Nükleer reaktörlerde elektrik enerjisi üretmek için kullanılan uranyum gibi maddeler.",
+    "ru_word": "ядерное топливо",
+    "ru_definition": "Вещество (например, уран), используемое в ядерных реакторах для получения энергии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "atom yakıtı"
+                ],
+                "Azerbaijani": [
+                    "atom yanacağı"
+                ],
+                "Turkmen": [
+                    "atom ýangyjy"
+                ],
+                "Uzbek": [
+                    "atom yoqilg'isi"
+                ],
+                "Uyghur": [
+                    "ئاتوم يېقىلغۇسى"
+                ],
+                "Tatar": [
+                    "атом ягулыгы"
+                ],
+                "Bashkir": [
+                    "атом яғыулығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýadro ýangyjy"
+                ],
+                "Uzbek": [
+                    "yadro yoqilg'isi"
+                ],
+                "Uyghur": [
+                    "يادرو يېقىلغۇسى"
+                ],
+                "Kazakh": [
+                    "ядролық отын",
+                    "ядролық жанармай"
+                ],
+                "Kyrgyz": [
+                    "ядролук отун"
+                ],
+                "Karakalpak": [
+                    "yadrolıq janılǵı",
+                    "yadrolıq otın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nükleer yakıt"
+                ],
+                "Azerbaijani": [
+                    "nüvə yanacağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekirdek yakıtı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өзөктүк отун"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төш ягулыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яҙра яғыулығы"
+                ]
+            }
+        }
+    ]
+}

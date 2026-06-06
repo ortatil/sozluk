@@ -1,0 +1,100 @@
+{
+    "id": "i13788",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "raining",
+    "en_definition": "falling in drops or as if falling like rain",
+    "tr_word": "yağmurlu",
+    "tr_definition": "yağmur damlaları halinde veya yağmur gibi yağan",
+    "ru_word": "дождливый",
+    "ru_definition": "падающий каплями или подобно дождю",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağışlı",
+                    "yağmurlu"
+                ],
+                "Azerbaijani": [
+                    "yağışlı",
+                    "yağmurlu",
+                    "yağan"
+                ],
+                "Turkmen": [
+                    "ýagyşly"
+                ],
+                "Uzbek": [
+                    "yogʻayotgan",
+                    "yogʻinli",
+                    "yomgʻirli"
+                ],
+                "Uyghur": [
+                    "ياغماقتا",
+                    "يامغۇرلۇق",
+                    "ياغىنچىلىق"
+                ],
+                "Kazakh": [
+                    "жауынды"
+                ],
+                "Karakalpak": [
+                    "jaoınlı"
+                ],
+                "Tatar": [
+                    "явымлы",
+                    "явым-төшемле"
+                ],
+                "Bashkir": [
+                    "яуынлы",
+                    "ямғырлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жаңбырлы"
+                ],
+                "Kyrgyz": [
+                    "жаанчыл",
+                    "жаан-чачындуу"
+                ],
+                "Karakalpak": [
+                    "jańbırlı"
+                ],
+                "Tatar": [
+                    "яңгырлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "baranlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ygally"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нөсерлі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жамгырлуу"
+                ]
+            }
+        }
+    ]
+}

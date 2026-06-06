@@ -1,0 +1,97 @@
+{
+    "id": "i81016",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "news agency",
+    "en_definition": "an agency to collects news reports for newspapers and distributes it electronically",
+    "tr_word": "haber ajansı",
+    "tr_definition": "Gazeteler ve diğer medya kuruluşları için haber toplayan ve bunları elektronik ortamda dağıtan kuruluş.",
+    "ru_word": "информационное агентство",
+    "ru_definition": "Организация, занимающаяся сбором новостей и их распространением среди газет, журналов и других СМИ.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haber ajansı",
+                    "haber kurumu",
+                    "haber merkezi"
+                ],
+                "Azerbaijani": [
+                    "xəbər agentliyi"
+                ],
+                "Turkmen": [
+                    "habarlar gullugy",
+                    "habarlar agentligi"
+                ],
+                "Uzbek": [
+                    "xabar agentligi"
+                ],
+                "Uyghur": [
+                    "خەۋەر ئاگېنتلىقى"
+                ],
+                "Kazakh": [
+                    "хабар агенттігі"
+                ],
+                "Kyrgyz": [
+                    "кабар агенттиги",
+                    "кабар борбору"
+                ],
+                "Karakalpak": [
+                    "xabar agentligi"
+                ],
+                "Tatar": [
+                    "хәбәрләр агентлыгы"
+                ],
+                "Bashkir": [
+                    "хәбәрҙәр агентлығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məlumat agentliyi"
+                ],
+                "Turkmen": [
+                    "maglumat gullugy"
+                ],
+                "Kyrgyz": [
+                    "маалымат агенттиги"
+                ],
+                "Karakalpak": [
+                    "málimleme agentligi"
+                ],
+                "Tatar": [
+                    "мәгълүмат агентлыгы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "axborot agentligi"
+                ],
+                "Uyghur": [
+                    "ئاخبارات ئاگېنتلىقى"
+                ],
+                "Kazakh": [
+                    "ақпарат агенттігі",
+                    "ақпарат мекемесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "informasiya agentliyi"
+                ],
+                "Bashkir": [
+                    "мәғлүмәт агентлығы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "i51995",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cleaver",
+    "en_definition": "a butcher's knife having a large square blade",
+    "tr_word": "satır",
+    "tr_definition": "Et kesmeye, kemik kırmaya yarayan, geniş ve ağır bir bıçak türü.",
+    "ru_word": "тесак",
+    "ru_definition": "Большой нож с широким лезвием, используемый мясниками для рубки мяса и костей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satır"
+                ],
+                "Azerbaijani": [
+                    "satıl"
+                ],
+                "Turkmen": [
+                    "satyl",
+                    "satyr"
+                ],
+                "Uzbek": [
+                    "sotir"
+                ],
+                "Uyghur": [
+                    "ساطور"
+                ],
+                "Kyrgyz": [
+                    "сатыр"
+                ],
+                "Karakalpak": [
+                    "satır"
+                ],
+                "Bashkir": [
+                    "сапҡы",
+                    "сапҡыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çapygy"
+                ],
+                "Uzbek": [
+                    "chopqi"
+                ],
+                "Uyghur": [
+                    "چاپقۇچ"
+                ],
+                "Kazakh": [
+                    "шапқы",
+                    "шаппа"
+                ],
+                "Kyrgyz": [
+                    "чапкы"
+                ],
+                "Karakalpak": [
+                    "shapqı"
+                ],
+                "Tatar": [
+                    "чапкы",
+                    "чапкыч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "balta"
+                ],
+                "Turkmen": [
+                    "paltajyk"
+                ],
+                "Uzbek": [
+                    "bolta"
+                ],
+                "Kazakh": [
+                    "балта"
+                ],
+                "Kyrgyz": [
+                    "балтача"
+                ],
+                "Bashkir": [
+                    "балта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "et bıçağı"
+                ],
+                "Tatar": [
+                    "ит пычагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nacak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəhəng bıçaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зур пычак"
+                ]
+            }
+        }
+    ]
+}

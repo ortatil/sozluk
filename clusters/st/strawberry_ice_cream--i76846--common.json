@@ -1,0 +1,81 @@
+{
+    "id": "i76846",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "strawberry ice cream",
+    "en_definition": "ice cream flavored with fresh strawberries",
+    "tr_word": "çilekli dondurma",
+    "tr_definition": "taze çileklerle tatlandırılmış dondurma",
+    "ru_word": "клубничное мороженое",
+    "ru_definition": "мороженое со вкусом свежей клубники",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qulupnayli muzqaymoq",
+                    "qulupnayli dondurma"
+                ],
+                "Uyghur": [
+                    "قۇلۇلەيلىك ماروژنى",
+                    "قۇلۇلەي تەملىك ماروژنى"
+                ],
+                "Kazakh": [
+                    "құлпынай балмұздағы"
+                ],
+                "Kyrgyz": [
+                    "кулпунай балмуздагы",
+                    "кулпунай даамдуу балмуздак"
+                ],
+                "Karakalpak": [
+                    "qұlpınaylı balqaymaq",
+                    "qұlpınaylı tońazıtpa"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çilekli dondurma"
+                ],
+                "Azerbaijani": [
+                    "çiyələkli dondurma",
+                    "çiyələk dondurması"
+                ],
+                "Tatar": [
+                    "җиләк туңдырмасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýertudana doňdurmasy",
+                    "ýertudanaly doňdurma"
+                ],
+                "Tatar": [
+                    "җир җиләге туңдырмасы"
+                ],
+                "Bashkir": [
+                    "ер еләге туңдырмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бүлдірген балмұздағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡайын еләге туңдырмаһы"
+                ]
+            }
+        }
+    ]
+}

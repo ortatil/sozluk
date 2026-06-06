@@ -1,0 +1,128 @@
+{
+    "id": "i70594",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sick list",
+    "en_definition": "a list of those who are ill (e.g. on a warship or in a regiment etc)",
+    "tr_word": "hasta listesi",
+    "tr_definition": "Bir askeri birlikte, gemide veya kurumda hasta olan kişilerin isimlerini içeren liste.",
+    "ru_word": "список больных",
+    "ru_definition": "список лиц, освобожденных от службы или работы по болезни (например, на корабле или в полку).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hasta listesi",
+                    "hasta cetveli",
+                    "hasta defteri",
+                    "hasta kaydı"
+                ],
+                "Azerbaijani": [
+                    "xəstə siyahısı",
+                    "xəstələr siyahısı"
+                ],
+                "Turkmen": [
+                    "hassalar sanawy"
+                ],
+                "Uzbek": [
+                    "xastalar roʻyxati"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "syrkawlar sanawy"
+                ],
+                "Kazakh": [
+                    "сырқаттар тізімі"
+                ],
+                "Bashkir": [
+                    "сирлеләр исемлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "науқастар тізімі"
+                ],
+                "Kyrgyz": [
+                    "наакастар тизмеси"
+                ],
+                "Karakalpak": [
+                    "naoqaslar dizimi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "аурулар тізімі"
+                ],
+                "Kyrgyz": [
+                    "оорулуулар тизмеси",
+                    "ооругандардын тизмеси"
+                ],
+                "Tatar": [
+                    "авырулар исемлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mərəzlilər siyahısı"
+                ],
+                "Uzbek": [
+                    "marizlar roʻyxati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bemorlar roʻyxati"
+                ],
+                "Uyghur": [
+                    "بىمارلار تىزىملىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېسەللەر تىزىملىكى"
+                ],
+                "Karakalpak": [
+                    "keseller dizimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "näsaglar sanawy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чирлеләр исемлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ауырыуҙар исемлеге"
+                ]
+            }
+        }
+    ]
+}

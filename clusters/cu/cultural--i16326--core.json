@@ -1,0 +1,114 @@
+{
+    "id": "i16326",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "cultural",
+    "en_definition": "of or relating to the shared knowledge and values of a society",
+    "tr_word": "kültürel",
+    "tr_definition": "bir toplumun paylaşılan bilgi ve değerleri ile ilgili olan",
+    "ru_word": "культурный",
+    "ru_definition": "относящийся к общим знаниям и ценностям общества",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mədəni"
+                ],
+                "Turkmen": [
+                    "medeni"
+                ],
+                "Uzbek": [
+                    "madaniy"
+                ],
+                "Uyghur": [
+                    "مەدەنىي"
+                ],
+                "Kazakh": [
+                    "мәдени"
+                ],
+                "Kyrgyz": [
+                    "маданий"
+                ],
+                "Karakalpak": [
+                    "mádeniy"
+                ],
+                "Tatar": [
+                    "мәдәни"
+                ],
+                "Bashkir": [
+                    "мәҙәни"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "medeniýete degişli"
+                ],
+                "Uyghur": [
+                    "مەدەنىيەتكە ئائىت",
+                    "مەدەنىيەتلىк"
+                ],
+                "Kyrgyz": [
+                    "маданияттык"
+                ],
+                "Karakalpak": [
+                    "mádeniyatlı"
+                ],
+                "Tatar": [
+                    "мәдәнияткә караган"
+                ],
+                "Bashkir": [
+                    "мәҙәниәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kültürel"
+                ],
+                "Azerbaijani": [
+                    "kültürəl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ekinli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "irfani"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "harsî"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ma'rifiy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "рухани"
+                ]
+            }
+        }
+    ]
+}

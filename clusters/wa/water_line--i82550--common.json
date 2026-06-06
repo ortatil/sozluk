@@ -1,0 +1,84 @@
+{
+    "id": "i82550",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water line",
+    "en_definition": "a line marking the level reached by a body of water",
+    "tr_word": "su hattı",
+    "tr_definition": "bir su kütlesinin ulaştığı seviyeyi belirleyen çizgi",
+    "ru_word": "ватерлиния",
+    "ru_definition": "линия, отмечающая уровень, до которого доходит вода",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su seviyesi",
+                    "su çizgisi",
+                    "su hattı"
+                ],
+                "Azerbaijani": [
+                    "su xətti",
+                    "su səviyyəsi",
+                    "su nişanı"
+                ],
+                "Turkmen": [
+                    "suw çyzygy",
+                    "suw derejesi",
+                    "suw ýakasy"
+                ],
+                "Uzbek": [
+                    "suv sathi",
+                    "suv chizig'i",
+                    "suv yuzasi"
+                ],
+                "Uyghur": [
+                    "سۇ سىزىقى",
+                    "سۇ يۈزى سىزىقى",
+                    "سۇ تەكشىلىك سىزىقى"
+                ],
+                "Kazakh": [
+                    "су деңгейі",
+                    "су сызығы",
+                    "су жиегі"
+                ],
+                "Kyrgyz": [
+                    "суу сызыгы"
+                ],
+                "Karakalpak": [
+                    "suo sızıǵı",
+                    "suo dárejesi",
+                    "suo shegi"
+                ],
+                "Tatar": [
+                    "су сызыгы",
+                    "су чиге",
+                    "су дәрәҗәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "суунун деңгээли",
+                    "суунун чеги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу һыҙығы",
+                    "һыу сиге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу кимәле"
+                ]
+            }
+        }
+    ]
+}

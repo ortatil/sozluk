@@ -1,0 +1,111 @@
+{
+    "id": "i106673",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gasoline tax",
+    "en_definition": "a tax on every gallon of gasoline sold",
+    "tr_word": "benzin vergisi",
+    "tr_definition": "Satılan her galon veya litre benzin üzerinden alınan vergi.",
+    "ru_word": "налог на бензин",
+    "ru_definition": "Налог, взимаемый с каждого проданного галлона или литра бензина.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "benzin vergisi"
+                ],
+                "Azerbaijani": [
+                    "benzin vergisi"
+                ],
+                "Turkmen": [
+                    "benzin salgydy"
+                ],
+                "Uzbek": [
+                    "benzin solig'i"
+                ],
+                "Uyghur": [
+                    "بېنزىن بېجى"
+                ],
+                "Kazakh": [
+                    "бензин салығы"
+                ],
+                "Kyrgyz": [
+                    "бензин салыгы"
+                ],
+                "Tatar": [
+                    "бензин салымы"
+                ],
+                "Bashkir": [
+                    "бензин һалымы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yakıt vergisi"
+                ],
+                "Uzbek": [
+                    "yoqilg'i solig'i",
+                    "yoqilg'i uchun boj"
+                ],
+                "Uyghur": [
+                    "يېقىلغۇ بېجى"
+                ],
+                "Tatar": [
+                    "ягулык салымы",
+                    "ягулык акцизы"
+                ],
+                "Bashkir": [
+                    "яғыулыҡ һалымы",
+                    "яғыулыҡтан алынған һалым"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yanacaq vergisi"
+                ],
+                "Turkmen": [
+                    "ýangyç salgydy",
+                    "ýangyç rüsumy"
+                ],
+                "Kazakh": [
+                    "жанармай салығы"
+                ],
+                "Karakalpak": [
+                    "janar-jaǵarmay salıǵı",
+                    "janar may salıǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отын салығы"
+                ],
+                "Kyrgyz": [
+                    "отун салыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akaryakıt vergisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күйүүчү май салыгы"
+                ]
+            }
+        }
+    ]
+}

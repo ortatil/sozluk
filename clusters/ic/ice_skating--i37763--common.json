@@ -1,0 +1,88 @@
+{
+    "id": "i37763",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ice skating",
+    "en_definition": "skating on ice",
+    "tr_word": "buz pateni",
+    "tr_definition": "Buz üzerinde patenle kayma sporu veya etkinliği.",
+    "ru_word": "катание на коньках",
+    "ru_definition": "Передвижение по льду на специальных ботинках с лезвиями.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buz pateni",
+                    "buzda kayma"
+                ],
+                "Azerbaijani": [
+                    "buzda sürüşmə"
+                ],
+                "Turkmen": [
+                    "buzda typmak",
+                    "buz typanyşy",
+                    "buzda typmaklyk"
+                ],
+                "Uzbek": [
+                    "muzda uchish"
+                ],
+                "Kazakh": [
+                    "мұзда сырғанау"
+                ],
+                "Kyrgyz": [
+                    "музда тебүү"
+                ],
+                "Karakalpak": [
+                    "mұzda sırǵanau"
+                ],
+                "Tatar": [
+                    "бозда шуу"
+                ],
+                "Bashkir": [
+                    "боҙҙа шыуыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "konkida uchish"
+                ],
+                "Kazakh": [
+                    "коньки тебу"
+                ],
+                "Karakalpak": [
+                    "konki tebu"
+                ],
+                "Bashkir": [
+                    "конкила шыуыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "buz üstündə sürüşmə",
+                    "buz konkisürməsi"
+                ],
+                "Uyghur": [
+                    "مۇز تېيىلىش",
+                    "مۇز ئۈستىدە تېيىلىش"
+                ],
+                "Kyrgyz": [
+                    "муз тебүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тимераякта шуу"
+                ]
+            }
+        }
+    ]
+}

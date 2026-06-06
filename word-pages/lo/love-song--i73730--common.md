@@ -1,0 +1,165 @@
+# Love song
+| Field | Detail |
+|---|---|
+| **ID** | i73730 |
+| **English** | love song |
+| **Type** | noun |
+| **Definition** | a song about love or expressing love for another person |
+| **Source** | common |
+| **Ortatil** | ğäzäl |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| غەزەل | ğäzäl |
+
+```json
+{
+    "id": "i73730",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "love song",
+    "en_definition": "a song about love or expressing love for another person",
+    "tr_word": "aşk şarkısı",
+    "tr_definition": "Aşk hakkında olan veya birine duyulan sevgiyi ifade eden şarkı.",
+    "ru_word": "песня о любви",
+    "ru_definition": "Песня, темой которой является любовь или выражение чувств к другому человеку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məhəbbət mahnısı"
+                ],
+                "Uzbek": [
+                    "muhabbat qo'shig'i"
+                ],
+                "Uyghur": [
+                    "مۇھەببەت ناخشىسى"
+                ],
+                "Kazakh": [
+                    "махаббат жыры",
+                    "махаббат әні"
+                ],
+                "Kyrgyz": [
+                    "махабат ыры"
+                ],
+                "Karakalpak": [
+                    "muhabbat qosıǵı"
+                ],
+                "Tatar": [
+                    "мәхәббәт җыры"
+                ],
+                "Bashkir": [
+                    "мөхәббәт йыры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşk şarkısı"
+                ],
+                "Azerbaijani": [
+                    "eşq mahnısı"
+                ],
+                "Turkmen": [
+                    "yşky aýdym"
+                ],
+                "Uzbek": [
+                    "ishqiy qo'shiq"
+                ],
+                "Uyghur": [
+                    "ئىشق ناخشىسى"
+                ],
+                "Kyrgyz": [
+                    "ашыктык ыры"
+                ],
+                "Karakalpak": [
+                    "ishq qosıǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gazal"
+                ],
+                "Uyghur": [
+                    "غەزەل"
+                ],
+                "Kazakh": [
+                    "ғашықтық жыры"
+                ],
+                "Bashkir": [
+                    "ғашиҡтар йыры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sevda türküsü"
+                ],
+                "Azerbaijani": [
+                    "sevgi mahnısı"
+                ],
+                "Turkmen": [
+                    "söýgi aýdymy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "сүйүү ыры"
+                ],
+                "Karakalpak": [
+                    "súyispenshilik qosıǵı"
+                ],
+                "Tatar": [
+                    "сөю җыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güzelleme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yalla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ashula"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гыйшык җыры"
+                ]
+            }
+        }
+    ]
+}
+```
+

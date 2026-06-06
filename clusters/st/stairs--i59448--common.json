@@ -1,0 +1,117 @@
+{
+    "id": "i59448",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stairs",
+    "en_definition": "a flight of stairs or a flight of steps",
+    "tr_word": "merdiven",
+    "tr_definition": "Bir yere çıkmak veya bir yerden inmek için yapılan basamaklar dizisi.",
+    "ru_word": "лестница",
+    "ru_definition": "Ряд ступеней для подъёма и спуска.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basamak"
+                ],
+                "Turkmen": [
+                    "basgançak"
+                ],
+                "Kazakh": [
+                    "баспалдақ"
+                ],
+                "Karakalpak": [
+                    "baspaldaq"
+                ],
+                "Tatar": [
+                    "баскыч"
+                ],
+                "Bashkir": [
+                    "баҫҡыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "merdiven"
+                ],
+                "Azerbaijani": [
+                    "nərdivan"
+                ],
+                "Turkmen": [
+                    "merdiwan"
+                ],
+                "Uzbek": [
+                    "marduva"
+                ],
+                "Tatar": [
+                    "мәртәбә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pilləkən",
+                    "pillə"
+                ],
+                "Uzbek": [
+                    "poya"
+                ],
+                "Uyghur": [
+                    "پەلەمپەي"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "شوتا"
+                ],
+                "Kazakh": [
+                    "саты"
+                ],
+                "Kyrgyz": [
+                    "шаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тепкич"
+                ],
+                "Karakalpak": [
+                    "tepkishek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zina",
+                    "zinapoya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەرۋان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төшлөк"
+                ]
+            }
+        }
+    ]
+}

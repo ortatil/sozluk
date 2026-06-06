@@ -1,0 +1,118 @@
+{
+    "id": "i50149",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "armband",
+    "en_definition": "a band worn around the upper arm",
+    "tr_word": "pazubent",
+    "tr_definition": "üst kolun etrafına takılan bant veya şerit",
+    "ru_word": "нарукавная повязка",
+    "ru_definition": "полоска ткани, которую носят на верхней части руки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bilezik"
+                ],
+                "Uzbek": [
+                    "bilakbogʻ"
+                ],
+                "Uyghur": [
+                    "بىلەزۈك",
+                    "بىلەكباغ"
+                ],
+                "Kazakh": [
+                    "білеуіш",
+                    "білезік"
+                ],
+                "Kyrgyz": [
+                    "билектик",
+                    "билегич"
+                ],
+                "Karakalpak": [
+                    "bіlezіk"
+                ],
+                "Tatar": [
+                    "беләзек"
+                ],
+                "Bashkir": [
+                    "беләҙек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kol bandı",
+                    "kolçak"
+                ],
+                "Azerbaijani": [
+                    "qolçaq",
+                    "qol bağı"
+                ],
+                "Uzbek": [
+                    "qoʻlbogʻ"
+                ],
+                "Uyghur": [
+                    "قولباغ"
+                ],
+                "Karakalpak": [
+                    "qolbant"
+                ],
+                "Tatar": [
+                    "кулбаш бәйләме"
+                ],
+                "Bashkir": [
+                    "ҡулбау",
+                    "ҡулса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pazubent"
+                ],
+                "Azerbaijani": [
+                    "bazubənd"
+                ],
+                "Turkmen": [
+                    "bazbent"
+                ],
+                "Kyrgyz": [
+                    "базбант"
+                ],
+                "Karakalpak": [
+                    "bazbant"
+                ],
+                "Tatar": [
+                    "базук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşarbag"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bogʻich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жеңқап"
+                ]
+            }
+        }
+    ]
+}

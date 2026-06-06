@@ -1,0 +1,165 @@
+{
+    "id": "i74486",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "quiz",
+    "en_definition": "an examination consisting of a few short questions",
+    "tr_word": "bilgi yarışması",
+    "tr_definition": "Birkaç kısa sorudan oluşan küçük sınav veya test.",
+    "ru_word": "викторина",
+    "ru_definition": "небольшой экзамен или тест, состоящий из нескольких коротких вопросов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınav"
+                ],
+                "Azerbaijani": [
+                    "sınaq"
+                ],
+                "Turkmen": [
+                    "synag"
+                ],
+                "Uzbek": [
+                    "sinov"
+                ],
+                "Uyghur": [
+                    "سىناق"
+                ],
+                "Kazakh": [
+                    "сынақ"
+                ],
+                "Kyrgyz": [
+                    "сынак",
+                    "сынамык"
+                ],
+                "Karakalpak": [
+                    "sınaq"
+                ],
+                "Tatar": [
+                    "сынау"
+                ],
+                "Bashkir": [
+                    "һынау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "imtihan"
+                ],
+                "Azerbaijani": [
+                    "imtahan"
+                ],
+                "Turkmen": [
+                    "imtahan"
+                ],
+                "Uzbek": [
+                    "imtihon"
+                ],
+                "Uyghur": [
+                    "ئىمتىھان"
+                ],
+                "Kazakh": [
+                    "емтихан"
+                ],
+                "Karakalpak": [
+                    "imtixan"
+                ],
+                "Tatar": [
+                    "имтихан"
+                ],
+                "Bashkir": [
+                    "имтихан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sorğu"
+                ],
+                "Turkmen": [
+                    "soragnama"
+                ],
+                "Uzbek": [
+                    "soʻrov"
+                ],
+                "Kazakh": [
+                    "сұрақ-жауап"
+                ],
+                "Kyrgyz": [
+                    "суроо-жооп"
+                ],
+                "Karakalpak": [
+                    "sorao-juoap"
+                ],
+                "Tatar": [
+                    "сораштыру"
+                ],
+                "Bashkir": [
+                    "һораулыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تەكشۈرۈش"
+                ],
+                "Kyrgyz": [
+                    "текшерүү"
+                ],
+                "Bashkir": [
+                    "тикшереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yoklama"
+                ],
+                "Azerbaijani": [
+                    "yoxlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "barlag"
+                ],
+                "Kazakh": [
+                    "бақылау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "test"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazılı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "savol-javob"
+                ]
+            }
+        }
+    ]
+}

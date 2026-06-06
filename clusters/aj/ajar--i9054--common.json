@@ -1,0 +1,140 @@
+{
+    "id": "i9054",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "ajar",
+    "en_definition": "slightly open",
+    "tr_word": "aralık",
+    "tr_definition": "hafifçe açılmış, tam kapanmamış",
+    "ru_word": "приоткрытый",
+    "ru_definition": "немного, не полностью открытый",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "açygrak"
+                ],
+                "Uzbek": [
+                    "ochiq"
+                ],
+                "Uyghur": [
+                    "ئېچىق"
+                ],
+                "Kazakh": [
+                    "ашық"
+                ],
+                "Kyrgyz": [
+                    "ачык"
+                ],
+                "Karakalpak": [
+                    "ashıq"
+                ],
+                "Tatar": [
+                    "ачык"
+                ],
+                "Bashkir": [
+                    "асыҡ",
+                    "асыҡ-тишек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yarıaçıq"
+                ],
+                "Turkmen": [
+                    "ýarym-açyk"
+                ],
+                "Kazakh": [
+                    "жартылай ашық"
+                ],
+                "Kyrgyz": [
+                    "жартылай ачык"
+                ],
+                "Tatar": [
+                    "ярым-ачык"
+                ],
+                "Bashkir": [
+                    "ярым-асыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qiya"
+                ],
+                "Uyghur": [
+                    "قىيىق",
+                    "قىيپاش"
+                ],
+                "Kyrgyz": [
+                    "кыя",
+                    "кыя ачык"
+                ],
+                "Karakalpak": [
+                    "qıya",
+                    "qıya ashıq"
+                ],
+                "Tatar": [
+                    "кыек",
+                    "кыекланган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aralık",
+                    "yarı açık",
+                    "aralanmış"
+                ],
+                "Azerbaijani": [
+                    "aralı"
+                ],
+                "Turkmen": [
+                    "aralyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nimdaş"
+                ],
+                "Uzbek": [
+                    "nimochiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "salkym"
+                ],
+                "Karakalpak": [
+                    "sál ashıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بوش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саңылау"
+                ]
+            }
+        }
+    ]
+}

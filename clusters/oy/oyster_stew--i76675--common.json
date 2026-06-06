@@ -1,0 +1,82 @@
+{
+    "id": "i76675",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oyster stew",
+    "en_definition": "oysters in cream",
+    "tr_word": "istiridye çorbası",
+    "tr_definition": "Krema veya süt içinde pişirilmiş istiridye yemeği.",
+    "ru_word": "суп из устриц",
+    "ru_definition": "Блюдо из устриц, приготовленных в сливках или молоке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "istiridye çorbası",
+                    "kremalı istiridye"
+                ],
+                "Azerbaijani": [
+                    "istridiyə şorbası",
+                    "qaymaqlı istridiyə"
+                ],
+                "Turkmen": [
+                    "istridiýa çorbasy",
+                    "istridiýaly gaýmakly nahar"
+                ],
+                "Kyrgyz": [
+                    "устрица шорпосу",
+                    "устрица кайнатмасы"
+                ],
+                "Karakalpak": [
+                    "ustrica sorpası",
+                    "ustricalı sút sorpa",
+                    "ustricalı taǵam"
+                ],
+                "Tatar": [
+                    "устрица шулпасы",
+                    "устрица ашы"
+                ],
+                "Bashkir": [
+                    "устрица ашы",
+                    "устрица шулпаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sütlü istiridye"
+                ],
+                "Uyghur": [
+                    "سۈتلۈك سىدەپ شورپىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uystra sho'rvasi",
+                    "uystrali qaymoqli taom",
+                    "uystrali sutli sho'rva"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قايماقلىق سىدەپ تائامى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұлу сорпасы",
+                    "ұлудан жасалған сорпа",
+                    "ұлу асы"
+                ]
+            }
+        }
+    ]
+}

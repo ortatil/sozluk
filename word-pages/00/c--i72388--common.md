@@ -1,0 +1,124 @@
+# C
+| Field | Detail |
+|---|---|
+| **ID** | i72388 |
+| **English** | c |
+| **Type** | noun |
+| **Definition** | the 3rd letter of the Roman alphabet |
+| **Source** | common |
+| **Ortatil** | tse |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| це | tse |
+| **Tatar** | |
+| хәреф | xäref |
+| билге | bilge |
+
+```json
+{
+    "id": "i72388",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "c",
+    "en_definition": "the 3rd letter of the Roman alphabet",
+    "tr_word": "c",
+    "tr_definition": "Latin alfabesinin üçüncü harfi",
+    "ru_word": "c",
+    "ru_definition": "третья буква латинского алфавита",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "üçüncü hərf"
+                ],
+                "Turkmen": [
+                    "üçünji harp"
+                ],
+                "Uzbek": [
+                    "uchinchi harf"
+                ],
+                "Kazakh": [
+                    "үшінші әріп"
+                ],
+                "Kyrgyz": [
+                    "үчүнчү тамга"
+                ],
+                "Karakalpak": [
+                    "úshinshi hárip"
+                ],
+                "Bashkir": [
+                    "өсөнсө хәреф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ce",
+                    "c harfi"
+                ],
+                "Azerbaijani": [
+                    "se hərfi"
+                ],
+                "Turkmen": [
+                    "se harpy"
+                ],
+                "Uzbek": [
+                    "se harfi"
+                ],
+                "Uyghur": [
+                    "سې ھەرپى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ц әрпі"
+                ],
+                "Kyrgyz": [
+                    "це"
+                ],
+                "Karakalpak": [
+                    "ce"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "لاتىن ئەلىفبەسىنىڭ ئۈچىنچى ھەرپى"
+                ],
+                "Bashkir": [
+                    "латин хәрефе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәреф"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "билге"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,250 @@
+# Lumber
+| Field | Detail |
+|---|---|
+| **ID** | i31344 |
+| **English** | lumber |
+| **Type** | verb |
+| **Definition** | move heavily or clumsily |
+| **Source** | common |
+| **Ortatil** | möltüllämäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| малтау | maltau |
+| тарбаңдау | tarbañdau |
+| қорбаңдау | qorbañdau |
+| **Kyrgyz** | |
+| балпаңдоо | balpañdoo |
+| солпоңдоо | solpoñdoo |
+| маңгыроо | mañgıroo |
+| **Bashkir** | |
+| төртөлөү | törtölöü |
+| һөйрәлеү | höyräleü |
+| тайшаныу | tayşanıu |
+
+```json
+{
+    "id": "i31344",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "lumber",
+    "en_definition": "move heavily or clumsily",
+    "tr_word": "hantalca ilerlemek",
+    "tr_definition": "Ağır ve hantal bir şekilde hareket etmek",
+    "ru_word": "двигаться тяжело",
+    "ru_definition": "Двигаться тяжело, неуклюже или шумно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağır aksak ilerlemek"
+                ],
+                "Azerbaijani": [
+                    "ağır-ağır yerimək"
+                ],
+                "Turkmen": [
+                    "agyr ädimlemek"
+                ],
+                "Uzbek": [
+                    "ogʻir qadam tashlamoq"
+                ],
+                "Uyghur": [
+                    "ئېغىر قەدەم تاشلىماق"
+                ],
+                "Kazakh": [
+                    "ауыр қозғалу"
+                ],
+                "Karakalpak": [
+                    "aoır qozǵalıo"
+                ],
+                "Tatar": [
+                    "авыр атлау",
+                    "авыр кузгалу"
+                ],
+                "Bashkir": [
+                    "ауыр атлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sallana sallana yürümek"
+                ],
+                "Uyghur": [
+                    "سالماق ماڭماق"
+                ],
+                "Karakalpak": [
+                    "salaqlap júrio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hantalca yürümek"
+                ],
+                "Turkmen": [
+                    "haýal ýöremek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lakgyldamak",
+                    "lakgyldap ýöremek"
+                ],
+                "Uyghur": [
+                    "لاغايلاپ ماڭماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "moʻltillamoq"
+                ],
+                "Kazakh": [
+                    "малтау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lapanglamoq"
+                ],
+                "Karakalpak": [
+                    "lapańlap júrio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "балпаңдоо"
+                ],
+                "Karakalpak": [
+                    "talpańlap basıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yavaşça ilerlemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ləngər vurmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yırğalanmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sürünmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gursillab yurmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەمتىرەپ ماڭماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тарбаңдау",
+                    "қорбаңдау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оор басуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "солпоңдоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "маңгыроо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төгәлсез атлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "лач-лоч атлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төртөлөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һөйрәлеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тайшаныу"
+                ]
+            }
+        }
+    ]
+}
+```
+

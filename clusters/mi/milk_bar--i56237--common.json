@@ -1,0 +1,115 @@
+{
+    "id": "i56237",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "milk bar",
+    "en_definition": "snack bar that sells milk drinks and light refreshments (such as ice cream)",
+    "tr_word": "süt barı",
+    "tr_definition": "Sütlü içecekler, dondurma ve hafif atıştırmalıklar satan büfe veya küçük kafe.",
+    "ru_word": "молочный бар",
+    "ru_definition": "Закусочная, специализирующаяся на молочных напитках и легких десертах, таких как мороженое.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sütçü"
+                ],
+                "Azerbaijani": [
+                    "süd barı",
+                    "süd kafesi",
+                    "süd evi"
+                ],
+                "Uzbek": [
+                    "sutxona"
+                ],
+                "Uyghur": [
+                    "سۈتخانا",
+                    "سۈت چايخانىسى"
+                ],
+                "Kazakh": [
+                    "сүтхана",
+                    "сүт дәмханасы",
+                    "сүт бар"
+                ],
+                "Kyrgyz": [
+                    "сүткана",
+                    "сүт ашканасы",
+                    "сүт ичүүчү жай"
+                ],
+                "Karakalpak": [
+                    "sútxana",
+                    "sút dúkanı"
+                ],
+                "Tatar": [
+                    "сөтханә",
+                    "сөт ашханәсе",
+                    "сөт кафесы"
+                ],
+                "Bashkir": [
+                    "һөтхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muzqaymoqxona"
+                ],
+                "Uyghur": [
+                    "مۇزقايماقخانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pastane"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muhallebici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büfe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýtli aşhana",
+                    "süýtli naharhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "doňdurmahanasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ашхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡымыҙхана"
+                ]
+            }
+        }
+    ]
+}

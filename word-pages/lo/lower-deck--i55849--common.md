@@ -1,0 +1,116 @@
+# Lower deck
+| Field | Detail |
+|---|---|
+| **ID** | i55849 |
+| **English** | lower deck |
+| **Type** | noun |
+| **Definition** | the deck below the main deck |
+| **Source** | common |
+| **Ortatil** | tawlon |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i55849",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lower deck",
+    "en_definition": "the deck below the main deck",
+    "tr_word": "alt güverte",
+    "tr_definition": "bir gemide ana güvertenin altında bulunan güverte",
+    "ru_word": "нижняя палуба",
+    "ru_definition": "палуба, расположенная ниже главной палубы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aşağı göyərtə"
+                ],
+                "Turkmen": [
+                    "aşaky paluba",
+                    "aşaky gat"
+                ],
+                "Uzbek": [
+                    "ostki paluba"
+                ],
+                "Uyghur": [
+                    "ئاستىنقى پالوبا"
+                ],
+                "Kazakh": [
+                    "астыңғы қабат"
+                ],
+                "Karakalpak": [
+                    "astıńǵı qabat"
+                ],
+                "Tatar": [
+                    "аскы кат"
+                ],
+                "Bashkir": [
+                    "аҫҡы палуба"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەنكى پالوبا"
+                ],
+                "Kazakh": [
+                    "төменгі палуба"
+                ],
+                "Kyrgyz": [
+                    "төмөнкү палуба",
+                    "төмөнкү кабат"
+                ],
+                "Karakalpak": [
+                    "tómengi paluba"
+                ],
+                "Tatar": [
+                    "түбәнге палуба",
+                    "түбәнге кат"
+                ],
+                "Bashkir": [
+                    "түбәнге палуба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alt güverte"
+                ],
+                "Azerbaijani": [
+                    "alt göyərtə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ambar güvertesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tavlon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pastki paluba"
+                ]
+            }
+        }
+    ]
+}
+```
+

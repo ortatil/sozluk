@@ -1,0 +1,145 @@
+# Native cat
+| Field | Detail |
+|---|---|
+| **ID** | i45217 |
+| **English** | native cat |
+| **Type** | noun |
+| **Definition** | carnivorous arboreal cat-like marsupials of Australia and Tasmania |
+| **Source** | common |
+| **Ortatil** | kuoll |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i45217",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "native cat",
+    "en_definition": "carnivorous arboreal cat-like marsupials of Australia and Tasmania",
+    "tr_word": "keseli kedi",
+    "tr_definition": "Avustralya ve Tazmanya'da yaşayan, ağaçlarda dolaşan, etçil ve kediye benzeyen keseli bir memeli (kuoll).",
+    "ru_word": "пятнистая сумчатая куница",
+    "ru_definition": "Хищное древесное сумчатое млекопитающее Австралии и Тасмании, внешне напоминающее кошку (кволл).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xallı kisəli pişik"
+                ],
+                "Turkmen": [
+                    "haltaly pişik"
+                ],
+                "Uzbek": [
+                    "xaltali mushuk"
+                ],
+                "Karakalpak": [
+                    "qaltalı susar",
+                    "qaltalı mısıq"
+                ],
+                "Bashkir": [
+                    "ҡалталы бесәй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "keseli kedi",
+                    "benekli keseli kedi"
+                ],
+                "Azerbaijani": [
+                    "kisəli pişik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "avstraliya pişiği"
+                ],
+                "Tatar": [
+                    "австралия мәчесе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dog'li xaltali mushuk"
+                ],
+                "Kazakh": [
+                    "дақты қапшықты сусар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuoll"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kwordoll"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دەرەخ مۈشۈكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توقاي مۈشۈكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қапшықты сусар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "баштыктуу мышык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көңдөй мышык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "суксарсыман мәче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "марсупиаль бесәй"
+                ]
+            }
+        }
+    ]
+}
+```
+

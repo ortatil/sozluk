@@ -1,0 +1,155 @@
+# Acacia
+| Field | Detail |
+|---|---|
+| **ID** | i99099 |
+| **English** | acacia |
+| **Type** | noun |
+| **Definition** | any of various spiny trees or shrubs of the genus Acacia |
+| **Source** | common |
+| **Ortatil** | akatsiya |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **akatsiya** | **qarağan** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 0.33 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.40 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **3.60** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاقسىمىت | aqsimit |
+| **Kazakh** | |
+| акация | akatsiya |
+| қараған | qarağan |
+| **Bashkir** | |
+| акация | akatsiya |
+| ҡараған | qarağan |
+
+```json
+{
+    "id": "i99099",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "acacia",
+    "en_definition": "any of various spiny trees or shrubs of the genus Acacia",
+    "tr_word": "akasya",
+    "tr_definition": "Baklagiller familyasından, salkım çiçekli, dikenli bir ağaç veya çalı cinsi.",
+    "ru_word": "акация",
+    "ru_definition": "Род деревьев и кустарников семейства Бобовые с колючками и обычно ароматными цветками.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akasya"
+                ],
+                "Azerbaijani": [
+                    "akasiya"
+                ],
+                "Turkmen": [
+                    "akasiýa"
+                ],
+                "Uzbek": [
+                    "oq akatsiya",
+                    "akatsiya"
+                ],
+                "Uyghur": [
+                    "ئاقسىمىت",
+                    "ئاقسىمىت دەرىخى"
+                ],
+                "Kazakh": [
+                    "акация"
+                ],
+                "Kyrgyz": [
+                    "ак акация"
+                ],
+                "Karakalpak": [
+                    "akaciya"
+                ],
+                "Tatar": [
+                    "ак акация",
+                    "ак сәрви"
+                ],
+                "Bashkir": [
+                    "акация"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qarağac"
+                ],
+                "Kazakh": [
+                    "қараған"
+                ],
+                "Bashkir": [
+                    "ҡараған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tikenli agaç"
+                ],
+                "Uzbek": [
+                    "tikanli daraxt"
+                ],
+                "Kyrgyz": [
+                    "тикендүү дарак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gum akasiýasy"
+                ],
+                "Tatar": [
+                    "ак чәчәкле акация"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "salkım ağacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سەمغى ئەرەبى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sarı akaciya"
+                ]
+            }
+        }
+    ]
+}
+```
+

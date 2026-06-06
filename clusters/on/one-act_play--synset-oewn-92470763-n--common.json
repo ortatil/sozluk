@@ -1,0 +1,88 @@
+{
+    "id": "synset-oewn-92470763-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "one-act play",
+    "en_definition": "a short play consisting of one act.",
+    "tr_word": "tek perdelik oyun",
+    "tr_definition": "tek bir perdeden oluşan kısa tiyatro eseri.",
+    "ru_word": "одноактная пьеса",
+    "ru_definition": "короткая пьеса, состоящая из одного акта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tek perdelik oyun",
+                    "tek perdeli oyun"
+                ],
+                "Turkmen": [
+                    "bir perdeli oýun",
+                    "bir perdeli drama"
+                ],
+                "Uyghur": [
+                    "بىر پەردىلىك دراما",
+                    "بىر پەردىلىك تىياتىر"
+                ],
+                "Kazakh": [
+                    "бір перделі пьеса"
+                ],
+                "Karakalpak": [
+                    "bir párdesi bar pesa",
+                    "bir párdeli spektakl"
+                ],
+                "Tatar": [
+                    "бер пәрдәле пьеса",
+                    "бер пәрдәле драма",
+                    "бер пәрдәле әсәр"
+                ],
+                "Bashkir": [
+                    "бер пәрҙәле пьеса",
+                    "бер шаршаулы пьеса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "birpərdəli pyes",
+                    "birpərdəli tamaşa",
+                    "birpərdəli əsər"
+                ],
+                "Uzbek": [
+                    "bir pardali pyesa",
+                    "bir pardali asar"
+                ],
+                "Kazakh": [
+                    "бір актілі пьеса",
+                    "бір бөлімді драма"
+                ],
+                "Kyrgyz": [
+                    "бир көшөгөлүү пьеса",
+                    "бир актылуу драма"
+                ],
+                "Karakalpak": [
+                    "bir aktlı pesa"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısa oyun"
+                ],
+                "Turkmen": [
+                    "gysga oýun"
+                ],
+                "Uzbek": [
+                    "kichik sahna asari"
+                ],
+                "Kyrgyz": [
+                    "кыска пьеса"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "i10570",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "racial",
+    "en_definition": "of or characteristic of race or races or arising from differences among groups",
+    "tr_word": "ırksal",
+    "tr_definition": "Irkla ilgili olan veya ırklar arasındaki farklılıklardan kaynaklanan",
+    "ru_word": "расовый",
+    "ru_definition": "относящийся к расе или расам, или возникающий из-за различий между группами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəsli"
+                ],
+                "Uzbek": [
+                    "nasliy"
+                ],
+                "Uyghur": [
+                    "نەسلىي"
+                ],
+                "Kazakh": [
+                    "нәсілдік",
+                    "нәсілшілдік"
+                ],
+                "Kyrgyz": [
+                    "насилдик"
+                ],
+                "Karakalpak": [
+                    "násillik",
+                    "násilge tiyisli",
+                    "násiller aralıq"
+                ],
+                "Tatar": [
+                    "нәсели",
+                    "нәсел-нәсәп",
+                    "нәселгә караган"
+                ],
+                "Bashkir": [
+                    "нәҫел",
+                    "нәҫел-нәсәп",
+                    "нәҫелдән килгән",
+                    "нәҫел-ырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ırksal",
+                    "ırki"
+                ],
+                "Azerbaijani": [
+                    "irqi"
+                ],
+                "Uzbek": [
+                    "irqiy"
+                ],
+                "Uyghur": [
+                    "ئىرققا ئائىت",
+                    "ئىرقىي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soysal"
+                ],
+                "Azerbaijani": [
+                    "soysal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тектік"
+                ],
+                "Kyrgyz": [
+                    "тектик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jynsy",
+                    "jyns"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "расалык"
+                ]
+            }
+        }
+    ]
+}

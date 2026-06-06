@@ -1,0 +1,94 @@
+{
+    "id": "i59520",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "steam heat",
+    "en_definition": "a heating system in which steam is generated in boilers and piped to radiators",
+    "tr_word": "buharlı ısıtma",
+    "tr_definition": "Buharın kazanlarda üretilip borularla radyatörlere iletildiği bir ısıtma sistemi.",
+    "ru_word": "паровое отопление",
+    "ru_definition": "система отопления, в которой пар вырабатывается в котлах и подается по трубам к радиаторам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buharlı ısıtma",
+                    "buharlı kalorifer",
+                    "buhar ısısı"
+                ],
+                "Azerbaijani": [
+                    "buxar isitməsi",
+                    "buxar istilik sistemi"
+                ],
+                "Turkmen": [
+                    "bug ýyladyşy"
+                ],
+                "Uzbek": [
+                    "bugʻli isitish",
+                    "bugʻ isitmasi",
+                    "bugʻli isitish tizimi"
+                ],
+                "Uyghur": [
+                    "بۇغ بىلەن ئىسسىتىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bugly ýyladyş",
+                    "bugly ýyladyş ulgamy"
+                ],
+                "Kazakh": [
+                    "бу жылуы"
+                ],
+                "Kyrgyz": [
+                    "буу менен жылытуу",
+                    "буу жылуулугу"
+                ],
+                "Karakalpak": [
+                    "buo jılıtıo sisteması",
+                    "buo menen jılıtıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пар белән җылыту"
+                ],
+                "Bashkir": [
+                    "пар менән йылытыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пар җылылыгы",
+                    "пар җылыткычы"
+                ],
+                "Bashkir": [
+                    "пар йылыһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پار بىلەن ئىسسىتىش",
+                    "پار ئىسسىقلىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бумен жылыту"
+                ]
+            }
+        }
+    ]
+}

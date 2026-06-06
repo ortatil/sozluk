@@ -1,0 +1,110 @@
+{
+    "id": "i70969",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "operating system",
+    "en_definition": "(computer science) software that controls the execution of computer programs and may provide various services",
+    "tr_word": "işletim sistemi",
+    "tr_definition": "bilgisayar programlarının yürütülmesini kontrol eden ve çeşitli hizmetler sağlayan yazılım",
+    "ru_word": "операционная система",
+    "ru_definition": "программное обеспечение, управляющее выполнением компьютерных программ и предоставляющее различные услуги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işletim sistemi",
+                    "işletim düzeni"
+                ],
+                "Turkmen": [
+                    "işlediş ulgamy"
+                ],
+                "Uzbek": [
+                    "ishchi tizim"
+                ],
+                "Kyrgyz": [
+                    "иштетүү тутуму",
+                    "иштетүү системасы"
+                ],
+                "Tatar": [
+                    "эшкәртү системасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "boshqaruv tizimi"
+                ],
+                "Uyghur": [
+                    "باشقۇرۇش سىستېمىسى"
+                ],
+                "Kazakh": [
+                    "басқару жүйесі"
+                ],
+                "Kyrgyz": [
+                    "башкаруу тутуму"
+                ],
+                "Karakalpak": [
+                    "basqarıo sisteması"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əməliyyat sistemi"
+                ],
+                "Turkmen": [
+                    "amaly ulgam"
+                ],
+                "Uzbek": [
+                    "amaliy tizim"
+                ],
+                "Tatar": [
+                    "гамәли система"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "idarəetmə sistemi"
+                ],
+                "Tatar": [
+                    "идарә системасы"
+                ],
+                "Bashkir": [
+                    "идара итеү системаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "operaciyalıq sistema"
+                ],
+                "Bashkir": [
+                    "операцион система"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مەشغۇلات سىستېمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жүйелік бағдарлама"
+                ]
+            }
+        }
+    ]
+}

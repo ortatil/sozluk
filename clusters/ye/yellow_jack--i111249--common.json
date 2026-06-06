@@ -1,0 +1,65 @@
+{
+    "id": "i111249",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "yellow jack",
+    "en_definition": "caused by a flavivirus transmitted by a mosquito",
+    "tr_word": "sarı humma",
+    "tr_definition": "Sivrisinekler aracılığıyla bulaşan, flavivirüs kaynaklı bulaşıcı bir hastalık.",
+    "ru_word": "жёлтая лихорадка",
+    "ru_definition": "Острое вирусное заболевание, передаваемое комарами и вызываемое флавивирусом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarı humma",
+                    "sarı ateş"
+                ],
+                "Azerbaijani": [
+                    "sarı azara"
+                ],
+                "Turkmen": [
+                    "sary gyzdyrma",
+                    "sary kesel"
+                ],
+                "Uzbek": [
+                    "sariq isitma",
+                    "sariq xastalik"
+                ],
+                "Uyghur": [
+                    "سېرىق قىزغىنلىق",
+                    "سېرىق تومار"
+                ],
+                "Kazakh": [
+                    "сары безгек",
+                    "сары ауру"
+                ],
+                "Kyrgyz": [
+                    "сары безгек",
+                    "сары оору"
+                ],
+                "Karakalpak": [
+                    "sarı kesel",
+                    "sarı aoırıo"
+                ],
+                "Tatar": [
+                    "сары бизгәк",
+                    "сары чир",
+                    "сары авыруы"
+                ],
+                "Bashkir": [
+                    "һары биҙгәк",
+                    "һары ауырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sarı qızdırma"
+                ]
+            }
+        }
+    ]
+}

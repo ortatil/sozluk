@@ -1,0 +1,157 @@
+{
+    "id": "i7121",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "advised",
+    "en_definition": "having received information",
+    "tr_word": "bilgilendirilmiş",
+    "tr_definition": "bilgi almış olan, haberdar edilmiş",
+    "ru_word": "осведомленный",
+    "ru_definition": "получивший информацию, извещенный",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haberdar"
+                ],
+                "Azerbaijani": [
+                    "xəbərdar"
+                ],
+                "Turkmen": [
+                    "habardar"
+                ],
+                "Uzbek": [
+                    "xabardor"
+                ],
+                "Uyghur": [
+                    "خەۋەردار"
+                ],
+                "Kazakh": [
+                    "хабардар"
+                ],
+                "Kyrgyz": [
+                    "кабардар",
+                    "кабарланган"
+                ],
+                "Karakalpak": [
+                    "xabardar"
+                ],
+                "Tatar": [
+                    "хәбәрдар"
+                ],
+                "Bashkir": [
+                    "хәбәрҙар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "malumatlı"
+                ],
+                "Azerbaijani": [
+                    "məlumatlı"
+                ],
+                "Turkmen": [
+                    "maglumatly"
+                ],
+                "Uyghur": [
+                    "مەلۇماتلىق"
+                ],
+                "Kazakh": [
+                    "мәлімметті"
+                ],
+                "Kyrgyz": [
+                    "маалымдар"
+                ],
+                "Karakalpak": [
+                    "málimdar",
+                    "málim"
+                ],
+                "Tatar": [
+                    "мәгълүматлы"
+                ],
+                "Bashkir": [
+                    "мәғлүмәтле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilgili",
+                    "bilgilendirilmiş"
+                ],
+                "Azerbaijani": [
+                    "bilgili"
+                ],
+                "Turkmen": [
+                    "bilen"
+                ],
+                "Uyghur": [
+                    "بىلگۈچى"
+                ],
+                "Kazakh": [
+                    "білген"
+                ],
+                "Kyrgyz": [
+                    "билдирилген"
+                ],
+                "Tatar": [
+                    "белдерелгән"
+                ],
+                "Bashkir": [
+                    "белдерелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "agah"
+                ],
+                "Uzbek": [
+                    "ogoh"
+                ],
+                "Karakalpak": [
+                    "agah"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "voqif"
+                ],
+                "Uyghur": [
+                    "ۋاقىپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "duýduryşly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құлағдар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "таныштырылган"
+                ]
+            }
+        }
+    ]
+}

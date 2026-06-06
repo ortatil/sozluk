@@ -1,0 +1,72 @@
+{
+    "id": "i88450",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bank manager",
+    "en_definition": "manager of a branch office of a bank",
+    "tr_word": "banka müdürü",
+    "tr_definition": "bir banka şubesinin yönetiminden sorumlu olan kişi",
+    "ru_word": "управляющий банком",
+    "ru_definition": "руководитель филиала или отделения банка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "banka müdürü"
+                ],
+                "Azerbaijani": [
+                    "bank müdiri",
+                    "bank rəhbəri",
+                    "bank başçısı"
+                ],
+                "Turkmen": [
+                    "bank müdiri",
+                    "bank ýolbaşçysy",
+                    "bank dolandyryjysy"
+                ],
+                "Uzbek": [
+                    "bank mudiri",
+                    "bank boshqaruvchisi",
+                    "bank raisi"
+                ],
+                "Uyghur": [
+                    "بانكا باشلىقى",
+                    "بانكا مۇدىرى"
+                ],
+                "Kazakh": [
+                    "банк меңгерушісі",
+                    "банк басқарушысы",
+                    "банк директоры"
+                ],
+                "Kyrgyz": [
+                    "банк башчысы",
+                    "банк жетекчиси",
+                    "банк мүдүрү"
+                ],
+                "Karakalpak": [
+                    "bank basqarıoshısı",
+                    "bank direktorı",
+                    "bank baslıǵı"
+                ],
+                "Tatar": [
+                    "банк мөдире",
+                    "банк идарәчесе",
+                    "банк җитәкчесе"
+                ],
+                "Bashkir": [
+                    "банк идарасыһы",
+                    "банк мөдире",
+                    "банк етәксеһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şube müdürü"
+                ]
+            }
+        }
+    ]
+}

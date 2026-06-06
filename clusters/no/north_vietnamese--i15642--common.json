@@ -1,0 +1,83 @@
+{
+    "id": "i15642",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "north vietnamese",
+    "en_definition": "of or relating to North Vietnam or its people or culture",
+    "tr_word": "Kuzey Vietnamlı",
+    "tr_definition": "Kuzey Vietnam'a, halkına veya kültürüne özgü veya bunlarla ilgili olan",
+    "ru_word": "северовьетнамский",
+    "ru_definition": "относящийся к Северному Вьетнаму, его народу или культуре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şimali vyetnamlı",
+                    "şimali vyetnam"
+                ],
+                "Uzbek": [
+                    "shimoliy vyetnamlik",
+                    "shimoliy vyetnamga oid"
+                ],
+                "Uyghur": [
+                    "شىمالىي ۋىيېتناملىق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "түндүк вьетнам"
+                ],
+                "Tatar": [
+                    "төньяк вьетнам",
+                    "төньяк вьетнамлы"
+                ],
+                "Bashkir": [
+                    "төньяҡ Вьетнам",
+                    "төньяҡ Вьетнамдыҡы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Vietnamlı",
+                    "Kuzey Vietnam"
+                ],
+                "Uyghur": [
+                    "شىمالىي ۋىيېتنامغا ئائىت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demirgazyk wýetnamly",
+                    "demirgazyk wýetnam"
+                ],
+                "Kyrgyz": [
+                    "түндүк вьетнамдык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстік вьетнамдық",
+                    "солтүстік вьетнам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "arqa wetnamlı",
+                    "arqa wetnamlıq"
+                ]
+            }
+        }
+    ]
+}

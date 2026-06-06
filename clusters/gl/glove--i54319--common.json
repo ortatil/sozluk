@@ -1,0 +1,105 @@
+{
+    "id": "i54319",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "glove",
+    "en_definition": "handwear: covers the hand and wrist",
+    "tr_word": "eldiven",
+    "tr_definition": "Eli ve bileği örten, parmakları ayrı ayrı veya topluca içine alan giyecek.",
+    "ru_word": "перчатка",
+    "ru_definition": "Изделие из ткани, кожи или других материалов, надеваемое на кисть руки и имеющее отделения для каждого пальца.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "golçap"
+                ],
+                "Uzbek": [
+                    "qo'lqop"
+                ],
+                "Uyghur": [
+                    "قولقاپ"
+                ],
+                "Kazakh": [
+                    "қолғап"
+                ],
+                "Kyrgyz": [
+                    "кол кап"
+                ],
+                "Karakalpak": [
+                    "qolǵap"
+                ],
+                "Tatar": [
+                    "куллык"
+                ],
+                "Bashkir": [
+                    "ҡулсап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "биялай"
+                ],
+                "Karakalpak": [
+                    "biyalay"
+                ],
+                "Tatar": [
+                    "бияләй"
+                ],
+                "Bashkir": [
+                    "бейәләй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eldiven",
+                    "ellik"
+                ],
+                "Azerbaijani": [
+                    "əlcək"
+                ],
+                "Turkmen": [
+                    "ellik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dastana"
+                ],
+                "Uzbek": [
+                    "dastpo'nak"
+                ],
+                "Uyghur": [
+                    "دەستقاپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "перчатка"
+                ],
+                "Bashkir": [
+                    "перчатка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мээлей"
+                ]
+            }
+        }
+    ]
+}

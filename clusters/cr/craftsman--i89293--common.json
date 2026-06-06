@@ -1,0 +1,162 @@
+{
+    "id": "i89293",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "craftsman",
+    "en_definition": "a skilled worker who practices some trade or handicraft",
+    "tr_word": "zanaatkar",
+    "tr_definition": "el emeği ve ustalık gerektiren bir işi veya sanatı icra eden kişi",
+    "ru_word": "ремесленник",
+    "ru_definition": "лицо, обладающее определённым мастерством в ручном труде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "usta"
+                ],
+                "Azerbaijani": [
+                    "usta"
+                ],
+                "Turkmen": [
+                    "usta"
+                ],
+                "Uzbek": [
+                    "usta"
+                ],
+                "Uyghur": [
+                    "ئۇستا"
+                ],
+                "Kazakh": [
+                    "ұста"
+                ],
+                "Kyrgyz": [
+                    "уста"
+                ],
+                "Karakalpak": [
+                    "usta"
+                ],
+                "Tatar": [
+                    "оста"
+                ],
+                "Bashkir": [
+                    "оҫта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zanaatkar",
+                    "sanatkar"
+                ],
+                "Azerbaijani": [
+                    "sənətkar"
+                ],
+                "Turkmen": [
+                    "senetçi",
+                    "senetkär"
+                ],
+                "Uzbek": [
+                    "san'atkor"
+                ],
+                "Uyghur": [
+                    "سەنئەتكار"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hünärmen"
+                ],
+                "Uzbek": [
+                    "hunarmand"
+                ],
+                "Uyghur": [
+                    "ھۈنەرۋەن"
+                ],
+                "Tatar": [
+                    "һөнәрче"
+                ],
+                "Bashkir": [
+                    "һөнәрсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kasbdosh"
+                ],
+                "Uyghur": [
+                    "كەسپىي"
+                ],
+                "Karakalpak": [
+                    "kásipker"
+                ],
+                "Tatar": [
+                    "кәсепче"
+                ],
+                "Bashkir": [
+                    "кәсепсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ehil"
+                ],
+                "Azerbaijani": [
+                    "əhl-i hünər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шебер",
+                    "зергер"
+                ],
+                "Kyrgyz": [
+                    "чебер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өнөрпоз"
+                ],
+                "Karakalpak": [
+                    "ónerment"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşəkar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қолөнерші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жасоочу"
+                ]
+            }
+        }
+    ]
+}

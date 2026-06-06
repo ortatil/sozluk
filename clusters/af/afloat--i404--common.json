@@ -1,0 +1,140 @@
+{
+    "id": "i404",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "afloat",
+    "en_definition": "borne on the water; floating",
+    "tr_word": "su üstünde",
+    "tr_definition": "su yüzeyinde duran veya yüzen durumda olan",
+    "ru_word": "на плаву",
+    "ru_definition": "находящийся на поверхности воды; не тонущий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su üstünde"
+                ],
+                "Azerbaijani": [
+                    "su üstündə"
+                ],
+                "Uzbek": [
+                    "suv ustidagi"
+                ],
+                "Uyghur": [
+                    "سۇ ئۈستىدىكى"
+                ],
+                "Kyrgyz": [
+                    "суу үстүндөгү"
+                ],
+                "Karakalpak": [
+                    "su betіndegі"
+                ],
+                "Tatar": [
+                    "су өстендәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüzer",
+                    "yüzmekte",
+                    "yüzücü"
+                ],
+                "Turkmen": [
+                    "ýüzüp ýören"
+                ],
+                "Kazakh": [
+                    "жүзген"
+                ],
+                "Tatar": [
+                    "йөзүче",
+                    "йөзеп йөрүче"
+                ],
+                "Bashkir": [
+                    "йөҙөүсе",
+                    "йөҙөп йөрөүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qalqib turgan"
+                ],
+                "Kazakh": [
+                    "қалқыған",
+                    "қалқымалы"
+                ],
+                "Kyrgyz": [
+                    "калкыган",
+                    "калкып жүргөн"
+                ],
+                "Karakalpak": [
+                    "qalqıǵan",
+                    "qalqıp júrgen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "batmayan"
+                ],
+                "Kazakh": [
+                    "бетіндегі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "suwda"
+                ],
+                "Uzbek": [
+                    "suzuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzən",
+                    "üzər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gark bolmadyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muallaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "لەيلىمە",
+                    "لەيلىگەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу өҫтөндәге"
+                ]
+            }
+        }
+    ]
+}

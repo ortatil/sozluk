@@ -1,0 +1,90 @@
+{
+    "id": "i93943",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "violinist",
+    "en_definition": "a musician who plays the violin",
+    "tr_word": "kemancı",
+    "tr_definition": "keman çalan müzisyen",
+    "ru_word": "скрипач",
+    "ru_definition": "музыкант, играющий на скрипке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "skripkaçı"
+                ],
+                "Turkmen": [
+                    "skripkaçy"
+                ],
+                "Uzbek": [
+                    "skripkachi"
+                ],
+                "Kazakh": [
+                    "скрипкашы",
+                    "скрипкашышы"
+                ],
+                "Kyrgyz": [
+                    "скрипкачы"
+                ],
+                "Karakalpak": [
+                    "skripkashı",
+                    "skripkashıshı"
+                ],
+                "Tatar": [
+                    "скрипкачы",
+                    "скрипкада уйнаучы"
+                ],
+                "Bashkir": [
+                    "скрипкасы",
+                    "скрипка уйнаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kemancı",
+                    "keman sanatçısı",
+                    "kemanzen"
+                ],
+                "Azerbaijani": [
+                    "kamançaçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gʻijjakchi"
+                ],
+                "Uyghur": [
+                    "غىجەكچى",
+                    "غىجەك نواز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sozanda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ۋىيولىنچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыякчы"
+                ]
+            }
+        }
+    ]
+}

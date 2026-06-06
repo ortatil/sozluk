@@ -1,0 +1,119 @@
+# Squash bug
+| Field | Detail |
+|---|---|
+| **ID** | i47279 |
+| **English** | squash bug |
+| **Type** | noun |
+| **Definition** | large black American bug that sucks sap of vines of the gourd family |
+| **Source** | common |
+| **Ortatil** | atgılak |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i47279",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "squash bug",
+    "en_definition": "large black American bug that sucks sap of vines of the gourd family",
+    "tr_word": "kabak böceği",
+    "tr_definition": "Kabakgiller familyasından bitkilerin özsuyunu emen, Amerika kökenli büyük ve siyah bir böcek türü.",
+    "ru_word": "краевик окаймлённый",
+    "ru_definition": "Крупное американское насекомое семейства краевиков, питающееся соком растений семейства тыквенных.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kabak böceği",
+                    "kabak tahtakurusu",
+                    "kabak zararlısı"
+                ],
+                "Uzbek": [
+                    "qovoq qandalasi",
+                    "qovoq biti"
+                ],
+                "Uyghur": [
+                    "قاپاق قۇرتى",
+                    "قاپاق بېغى قۇرتى",
+                    "قاپاق شىرىسى"
+                ],
+                "Kyrgyz": [
+                    "кабак канталасы"
+                ],
+                "Tatar": [
+                    "кабак кандаласы"
+                ],
+                "Bashkir": [
+                    "ҡабаҡ ҡандалаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бақша қандаласы"
+                ],
+                "Karakalpak": [
+                    "pal qandalası"
+                ],
+                "Tatar": [
+                    "бакча кандаласы"
+                ],
+                "Bashkir": [
+                    "баҡса ҡандалаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "balqabaq taxtabitisi",
+                    "balqabaq böcəyi"
+                ],
+                "Kazakh": [
+                    "асқабақ қандаласы"
+                ],
+                "Karakalpak": [
+                    "asqabaq qandalası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "atgulak",
+                    "atgulak mör-möjegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gök önüm mör-möjegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zararkunanda qandala"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өсүмдүк канталасы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,86 @@
+{
+    "id": "i70877",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tax return",
+    "en_definition": "document giving the tax collector information about the taxpayer's tax liability",
+    "tr_word": "vergi beyannamesi",
+    "tr_definition": "mükellefin vergi borcu hakkında vergi dairesine bilgi veren belge",
+    "ru_word": "налоговая декларация",
+    "ru_definition": "документ, содержащий сведения о налоговых обязательствах налогоплательщика",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salgyt beýannamasy",
+                    "salgyt deklarasiýasy"
+                ],
+                "Uzbek": [
+                    "soliq deklaratsiyasi"
+                ],
+                "Kazakh": [
+                    "салық декларациясы",
+                    "салық есептілігі",
+                    "салық мәлімдемесі"
+                ],
+                "Kyrgyz": [
+                    "салык декларациясы",
+                    "салык маалыматнамасы",
+                    "салык билдирмеси"
+                ],
+                "Karakalpak": [
+                    "salıq deklaraciyası",
+                    "salıq esabı",
+                    "salıq maǵlıumatnaması"
+                ],
+                "Tatar": [
+                    "салым декларациясе",
+                    "салым хисабы",
+                    "салым белдерүе"
+                ],
+                "Bashkir": [
+                    "һалым декларацияһы",
+                    "һалым белдереүе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vergi beyannamesi",
+                    "vergi bildirimi"
+                ],
+                "Azerbaijani": [
+                    "vergi bəyannaməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyanname"
+                ],
+                "Azerbaijani": [
+                    "bəyannamə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "daromad bayonnomasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باج مەلۇماتى",
+                    "باج مەلۇمات جەدۋىلى",
+                    "باج مەلۇماتنامىسى"
+                ]
+            }
+        }
+    ]
+}

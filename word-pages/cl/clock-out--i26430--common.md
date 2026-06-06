@@ -1,0 +1,146 @@
+# Clock out
+| Field | Detail |
+|---|---|
+| **ID** | i26430 |
+| **English** | clock out |
+| **Type** | verb |
+| **Definition** | register one's departure from work |
+| **Source** | common |
+| **Ortatil** | ayrılmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i26430",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "clock out",
+    "en_definition": "register one's departure from work",
+    "tr_word": "mesaiyi bitirmek",
+    "tr_definition": "işten ayrılış saatini kaydederek iş yerinden ayrılmak",
+    "ru_word": "отмечать уход с работы",
+    "ru_definition": "регистрировать время своего ухода с рабочего места",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "işdən çıxmaq",
+                    "işi bitirmək"
+                ],
+                "Turkmen": [
+                    "işden gaýtmak",
+                    "işi tamamlamak",
+                    "işden çykmak"
+                ],
+                "Uzbek": [
+                    "ishni tugatmoq",
+                    "ishdan chiqmoq",
+                    "ishni yakunlamoq"
+                ],
+                "Uyghur": [
+                    "ئىشتىن چۈشمەك",
+                    "ئىشتىن قايتماق",
+                    "ئىشتىن ئايرىلماق"
+                ],
+                "Kyrgyz": [
+                    "ишти бүтүрүү"
+                ],
+                "Tatar": [
+                    "эштән китү",
+                    "эшне тәмамлау",
+                    "эшне тапшыру"
+                ],
+                "Bashkir": [
+                    "эштән ҡайтыу",
+                    "эште тамамлау",
+                    "эш ваҡытын билдәләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kart basmak"
+                ],
+                "Uzbek": [
+                    "qayd etmoq"
+                ],
+                "Karakalpak": [
+                    "qaytu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жұмыстан шығу",
+                    "жұмысты аяқтау"
+                ],
+                "Kyrgyz": [
+                    "жумуштан чыгуу"
+                ],
+                "Karakalpak": [
+                    "jұmıstan shıǵu",
+                    "jұmıstı ayaqlau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıkış yapmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mesaiyi bitirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paydos etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ayrılmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qeydiyyatdan keçmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қызметтен қайту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каттоодон өтүү"
+                ]
+            }
+        }
+    ]
+}
+```
+

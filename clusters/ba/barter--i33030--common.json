@@ -1,0 +1,133 @@
+{
+    "id": "i33030",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "barter",
+    "en_definition": "exchange goods without involving money",
+    "tr_word": "takas yapmak",
+    "tr_definition": "para kullanmadan mal veya hizmet değiş tokuşu yapmak",
+    "ru_word": "менять",
+    "ru_definition": "обменивать товары или услуги без использования денег",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "alyş-çalyş etmek"
+                ],
+                "Uzbek": [
+                    "almashmoq"
+                ],
+                "Uyghur": [
+                    "ئالماشتۇرماق"
+                ],
+                "Kazakh": [
+                    "алмастыру"
+                ],
+                "Kyrgyz": [
+                    "алмашуу",
+                    "алмаштыруу"
+                ],
+                "Karakalpak": [
+                    "almasıo",
+                    "almastırıo"
+                ],
+                "Tatar": [
+                    "алыштыру",
+                    "алмаштыру",
+                    "алыш-биреш итү"
+                ],
+                "Bashkir": [
+                    "алыштырыу",
+                    "алмаштырыу",
+                    "алыш-биреш итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ayirboshlamoq"
+                ],
+                "Kazakh": [
+                    "айырбастау"
+                ],
+                "Kyrgyz": [
+                    "айырбаштоо"
+                ],
+                "Karakalpak": [
+                    "ayırbaslao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takas etmek"
+                ],
+                "Uyghur": [
+                    "تېگىشمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "değiş tokuş etmek"
+                ],
+                "Azerbaijani": [
+                    "dəyişmək",
+                    "dəyiş-düyüş etmək",
+                    "dəyişdirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mübadele etmek"
+                ],
+                "Azerbaijani": [
+                    "mübadilə etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çalyşmak",
+                    "çalşyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "baraka qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مالنى مالغا تېگىشمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саудаласу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tóleo"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+# Water lily
+| Field | Detail |
+|---|---|
+| **ID** | i98901 |
+| **English** | water lily |
+| **Type** | noun |
+| **Definition** | an aquatic plant of the family Nymphaeaceae |
+| **Source** | common |
+| **Ortatil** | nilufär |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **nilufär** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.20** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| نىلۇپەر | nilupär |
+| **Kazakh** | |
+| сугүл | sugül |
+| тұңғиық | tuñğiıq |
+| **Kyrgyz** | |
+| туңгуюк | tuñguyuk |
+| **Tatar** | |
+| кувшинка | kuvşinka |
+
+```json
+{
+    "id": "i98901",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water lily",
+    "en_definition": "an aquatic plant of the family Nymphaeaceae",
+    "tr_word": "nilüfer",
+    "tr_definition": "Nymphaeaceae familyasından, durgun sularda yetişen, geniş yapraklı ve güzel çiçekli bir su bitkisi.",
+    "ru_word": "кувшинка",
+    "ru_definition": "водное растение семейства кувшинковых с крупными плавающими листьями и цветками.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su zambağı"
+                ],
+                "Azerbaijani": [
+                    "su zanbağı"
+                ],
+                "Turkmen": [
+                    "suw liliýasy",
+                    "suw gülü"
+                ],
+                "Uzbek": [
+                    "suvnilufari",
+                    "suv guli"
+                ],
+                "Uyghur": [
+                    "سۇ نېلۇپىرى"
+                ],
+                "Kazakh": [
+                    "су лалагүлі",
+                    "сугүл"
+                ],
+                "Kyrgyz": [
+                    "суу лилиясы",
+                    "суу гүлү"
+                ],
+                "Karakalpak": [
+                    "suo liliyası",
+                    "suo gúli"
+                ],
+                "Tatar": [
+                    "су лилиясе",
+                    "су чәчәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nilüfer"
+                ],
+                "Azerbaijani": [
+                    "nilufər"
+                ],
+                "Turkmen": [
+                    "niluwer"
+                ],
+                "Uzbek": [
+                    "nilufar"
+                ],
+                "Uyghur": [
+                    "نىلۇپەر"
+                ],
+                "Karakalpak": [
+                    "nilupár"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұңғиық"
+                ],
+                "Kyrgyz": [
+                    "туңгуюк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lotus"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кувшинка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу ләләһе",
+                    "һыу сәсәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аҡ томбойоҡ"
+                ]
+            }
+        }
+    ]
+}
+```
+

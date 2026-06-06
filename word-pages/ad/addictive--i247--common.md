@@ -1,0 +1,259 @@
+# Addictive
+| Field | Detail |
+|---|---|
+| **ID** | i247 |
+| **English** | addictive |
+| **Type** | adjective |
+| **Definition** | causing or characterized by addiction |
+| **Source** | common |
+| **Ortatil** | ädätläntiruwçi |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ädätläntiruwçi** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.40** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئادەتلەندۈرگۈچى | adätländürgüçi |
+| **Kazakh** | |
+| баурайтын | bauraytın |
+| еліктіргіш | yeliktirgiş |
+| **Kyrgyz** | |
+| берилме | berilme |
+| көнүмүш | könümüş |
+| азгырма | azgırma |
+| **Tatar** | |
+| гадәтләндерүче | gadätländerüçe |
+| **Bashkir** | |
+| күнектереүсе | künektereüse |
+| ғәҙәтләндереүсе | ğäzätländereüse |
+
+```json
+{
+    "id": "i247",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "addictive",
+    "en_definition": "causing or characterized by addiction",
+    "tr_word": "bağımlılık yapıcı",
+    "tr_definition": "bağımlılığa neden olan veya bağımlılıkla karakterize edilen",
+    "ru_word": "вызывающий зависимость",
+    "ru_definition": "вызывающий или характеризующийся привыканием",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağımlılık yapan"
+                ],
+                "Azerbaijani": [
+                    "bağlılıq yaradan"
+                ],
+                "Turkmen": [
+                    "bagly ediji"
+                ],
+                "Uzbek": [
+                    "bogʻlab qoʻyuvchi"
+                ],
+                "Kazakh": [
+                    "баурайтын"
+                ],
+                "Kyrgyz": [
+                    "байлап алуучу"
+                ],
+                "Tatar": [
+                    "бәйлелек тудыручы"
+                ],
+                "Bashkir": [
+                    "бәйлелек тыуҙырыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vərdiş edən"
+                ],
+                "Uyghur": [
+                    "بېرىلىپ قالىدىغان"
+                ],
+                "Kyrgyz": [
+                    "берилме"
+                ],
+                "Karakalpak": [
+                    "berilgish"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "odatlantiruvchi"
+                ],
+                "Uyghur": [
+                    "ئادەتلەندۈرگۈچى"
+                ],
+                "Karakalpak": [
+                    "ádetlendirioshi"
+                ],
+                "Tatar": [
+                    "гадәтләндерүче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müptela eden"
+                ],
+                "Azerbaijani": [
+                    "mübtəla edən"
+                ],
+                "Uzbek": [
+                    "mubtalo qiluvchi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "خۇمار قىلغۇچى"
+                ],
+                "Kazakh": [
+                    "құмар қылатын"
+                ],
+                "Karakalpak": [
+                    "qumar qılıoshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "көнүмүш"
+                ],
+                "Tatar": [
+                    "күнегү ясаучы"
+                ],
+                "Bashkir": [
+                    "күнектереүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "asılılıq yaradan"
+                ],
+                "Kyrgyz": [
+                    "азгырма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öwrenişdiriji"
+                ],
+                "Kazakh": [
+                    "үйір қылатын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alışkanlık yapan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tiryaki eden"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "endik ediji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mugtaman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻrgatuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тәуелділік тудыратын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еліктіргіш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "boyın úyretioshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үҙенә бәйләүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ғәҙәтләндереүсе"
+                ]
+            }
+        }
+    ]
+}
+```
+

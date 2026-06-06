@@ -1,0 +1,156 @@
+{
+    "id": "i62624",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "infidelity",
+    "en_definition": "the quality of being unfaithful",
+    "tr_word": "sadakatsizlik",
+    "tr_definition": "eşine veya partnerine bağlı kalmama durumu, vefasızlık",
+    "ru_word": "неверность",
+    "ru_definition": "нарушение верности в браке или в отношениях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ihanet",
+                    "hıyanet"
+                ],
+                "Azerbaijani": [
+                    "xəyanət"
+                ],
+                "Turkmen": [
+                    "hyýanat",
+                    "haýynlyk"
+                ],
+                "Uzbek": [
+                    "xiyonat"
+                ],
+                "Kazakh": [
+                    "қиянат"
+                ],
+                "Kyrgyz": [
+                    "кыянаттык"
+                ],
+                "Karakalpak": [
+                    "xıyanat",
+                    "xıyanatshılıq"
+                ],
+                "Tatar": [
+                    "хыянәт"
+                ],
+                "Bashkir": [
+                    "хыянат",
+                    "хыянатсылыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sadakatsizlik"
+                ],
+                "Azerbaijani": [
+                    "sədaqətsizlik"
+                ],
+                "Uzbek": [
+                    "sadoqatsizlik"
+                ],
+                "Uyghur": [
+                    "ساداقەتسىزلىك"
+                ],
+                "Kazakh": [
+                    "сатқындық"
+                ],
+                "Karakalpak": [
+                    "sadıqsızlıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vefasızlık"
+                ],
+                "Azerbaijani": [
+                    "vəfasızlıq",
+                    "bi-vəfalıq"
+                ],
+                "Uzbek": [
+                    "bevafolik",
+                    "vafosizlik"
+                ],
+                "Uyghur": [
+                    "ۋاپاسىزلىق"
+                ],
+                "Tatar": [
+                    "вафасызлык"
+                ],
+                "Bashkir": [
+                    "вафаһыҙлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "opatlyk"
+                ],
+                "Kazakh": [
+                    "опасыздық"
+                ],
+                "Kyrgyz": [
+                    "опасыздык"
+                ],
+                "Karakalpak": [
+                    "opasızlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "biwepalyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خائىنلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұрақсыздық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ишенимсиздик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чыккынчылык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "вәгъдәсезлек"
+                ]
+            }
+        }
+    ]
+}

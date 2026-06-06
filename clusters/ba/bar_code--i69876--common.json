@@ -1,0 +1,135 @@
+{
+    "id": "i69876",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bar code",
+    "en_definition": "code consisting of a series of vertical bars of variable width that are scanned by a laser; printed on consumer product packages to identify the item for a computer that provides the price and registers inventory information",
+    "tr_word": "barkod",
+    "tr_definition": "Tüketici ürün paketlerinin üzerine basılan, ürünün fiyatını ve envanter bilgilerini bilgisayara aktarmak için lazerle taranan, farklı genişlikteki dikey çizgilerden oluşan kod.",
+    "ru_word": "штрихкод",
+    "ru_definition": "Код, состоящий из серии вертикальных полос различной ширины, которые сканируются лазером; печатается на упаковках потребительских товаров для идентификации товара компьютером, предоставляющим цену и информацию об инвентаризации.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çizgi kod"
+                ],
+                "Azerbaijani": [
+                    "cizgi kodu"
+                ],
+                "Turkmen": [
+                    "çyzykly kod",
+                    "çyzyk-kod"
+                ],
+                "Uzbek": [
+                    "chiziqli kod"
+                ],
+                "Uyghur": [
+                    "سىزىقلىق كود"
+                ],
+                "Kazakh": [
+                    "сызықша код"
+                ],
+                "Kyrgyz": [
+                    "сызыктуу код"
+                ],
+                "Karakalpak": [
+                    "sızıqshalı kod"
+                ],
+                "Tatar": [
+                    "сызыклы код",
+                    "сызык-код"
+                ],
+                "Bashkir": [
+                    "һыҙыҡлы код",
+                    "һыҙыҡ-код"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ştrik-kod"
+                ],
+                "Turkmen": [
+                    "ştrih-kod"
+                ],
+                "Uzbek": [
+                    "shtrix-kod"
+                ],
+                "Kyrgyz": [
+                    "штрих-код"
+                ],
+                "Karakalpak": [
+                    "shtrix-kod"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "barkod"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çubuk kod"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zolaqlı kod"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "belgi-kod"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاياقچە كود",
+                    "تاياقچە سىفىر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жолақ код"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңба код"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тилкелүү код"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тамга"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+# Long island
+| Field | Detail |
+|---|---|
+| **ID** | i84578 |
+| **English** | long island |
+| **Type** | noun |
+| **Definition** | an island in southeastern New York; Brooklyn and Queens are on its western end |
+| **Source** | common |
+| **Ortatil** | lonq-aylent |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i84578",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "long island",
+    "en_definition": "an island in southeastern New York; Brooklyn and Queens are on its western end",
+    "tr_word": "Long Island",
+    "tr_definition": "New York'un güneydoğusunda yer alan bir ada; Brooklyn ve Queens batı ucunda bulunur.",
+    "ru_word": "Лонг-Айленд",
+    "ru_definition": "остров на юго-востоке штата Нью-Йорк; в его западной части расположены Бруклин и Квинс.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Uzun Ada"
+                ],
+                "Turkmen": [
+                    "uzyn ada"
+                ],
+                "Uzbek": [
+                    "uzun orol"
+                ],
+                "Uyghur": [
+                    "ئۇزۇن ئارال"
+                ],
+                "Kazakh": [
+                    "ұзын арал"
+                ],
+                "Kyrgyz": [
+                    "узун арал"
+                ],
+                "Tatar": [
+                    "Озын утрау"
+                ],
+                "Bashkir": [
+                    "Оҙон утрау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Lonq-Aylend"
+                ],
+                "Karakalpak": [
+                    "Long-Aylend"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,212 @@
+# Port of call
+| Field | Detail |
+|---|---|
+| **ID** | i82359 |
+| **English** | port of call |
+| **Type** | noun |
+| **Definition** | any port where a ship stops except its home port |
+| **Source** | common |
+| **Ortatil** | ḍuqtalış |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍuqtalış** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| айлақ | aylaq |
+| аялдама | ayaldama |
+| **Tatar** | |
+| тукталыш | tuktalış |
+| порт | port |
+| гавань | gavan |
+| **Bashkir** | |
+| туҡталыш | tuqtalış |
+| бәйләүес | bäyläüyes |
+
+```json
+{
+    "id": "i82359",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "port of call",
+    "en_definition": "any port where a ship stops except its home port",
+    "tr_word": "uğrak limanı",
+    "tr_definition": "Bir geminin ana limanı dışında, yolcu veya yük almak, yakıt ikmali yapmak veya kısa süreli duraklamak için uğradığı liman.",
+    "ru_word": "порт захода",
+    "ru_definition": "Любой порт, в который судно заходит во время рейса, за исключением порта его приписки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'xtash bandargohi",
+                    "to'xtash joyi"
+                ],
+                "Uyghur": [
+                    "توختام پورتى",
+                    "توختىغۇ پورت"
+                ],
+                "Kazakh": [
+                    "тоқтау орны"
+                ],
+                "Kyrgyz": [
+                    "токтоочу жай",
+                    "токтоочу порт"
+                ],
+                "Karakalpak": [
+                    "toqtap ótetuǵın port"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "duralga"
+                ],
+                "Tatar": [
+                    "тукталыш",
+                    "тукталу урыны"
+                ],
+                "Bashkir": [
+                    "туҡталыш",
+                    "туҡталыш порты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gämileriň duralgasy"
+                ],
+                "Kazakh": [
+                    "кеме тұрағы"
+                ],
+                "Karakalpak": [
+                    "keme toqtaytuǵın jer"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "айлақ"
+                ],
+                "Karakalpak": [
+                    "aralıq port"
+                ],
+                "Bashkir": [
+                    "аралыҡ порт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dayanacaq",
+                    "dayanacaq yeri"
+                ],
+                "Kazakh": [
+                    "аялдама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "menzil"
+                ],
+                "Uzbek": [
+                    "manzilgoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "port"
+                ],
+                "Tatar": [
+                    "порт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bandargoh"
+                ],
+                "Bashkir": [
+                    "бәйләүес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uğrak limanı",
+                    "ara liman",
+                    "uğrak yeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "liman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məskən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېكەت پورتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "байлануучу жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гавань"
+                ]
+            }
+        }
+    ]
+}
+```
+

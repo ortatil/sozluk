@@ -1,0 +1,164 @@
+# Boat deck
+| Field | Detail |
+|---|---|
+| **ID** | i50886 |
+| **English** | boat deck |
+| **Type** | noun |
+| **Definition** | the upper deck on which lifeboats are stored |
+| **Source** | common |
+| **Ortatil** | paluba |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **paluba** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.73** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پالۇبا | paluba |
+| **Bashkir** | |
+| палуба | paluba |
+
+```json
+{
+    "id": "i50886",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "boat deck",
+    "en_definition": "the upper deck on which lifeboats are stored",
+    "tr_word": "filika güvertesi",
+    "tr_definition": "gemilerde can kurtarma filikalarının bulunduğu en üst güverte",
+    "ru_word": "шлюпочная палуба",
+    "ru_definition": "самая верхняя открытая палуба судна, на которой размещены спасательные шлюпки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gäminiň üsti",
+                    "gäminiň gaty"
+                ],
+                "Uzbek": [
+                    "kema sathi",
+                    "kema maydoni"
+                ],
+                "Uyghur": [
+                    "كېمە سۇپىسى",
+                    "كېمە ئۈستى"
+                ],
+                "Kazakh": [
+                    "кеме палубасы",
+                    "кеме үсті"
+                ],
+                "Kyrgyz": [
+                    "кеме палубасы",
+                    "кеме кабаты",
+                    "кеме үстү"
+                ],
+                "Karakalpak": [
+                    "keme ústi"
+                ],
+                "Tatar": [
+                    "көймә каты"
+                ],
+                "Bashkir": [
+                    "көймә өҫтө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "paluba"
+                ],
+                "Uzbek": [
+                    "paluba"
+                ],
+                "Uyghur": [
+                    "پالۇبا"
+                ],
+                "Karakalpak": [
+                    "paluba"
+                ],
+                "Bashkir": [
+                    "палуба"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üst güverte"
+                ],
+                "Azerbaijani": [
+                    "üst göyərtə"
+                ],
+                "Tatar": [
+                    "өске кат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güverte"
+                ],
+                "Azerbaijani": [
+                    "göyərtə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qayıq göyərtəsi"
+                ],
+                "Kazakh": [
+                    "қайық палубасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "filika güvertesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көймә палубасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "карап өҫтө"
+                ]
+            }
+        }
+    ]
+}
+```
+

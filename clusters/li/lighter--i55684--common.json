@@ -1,0 +1,122 @@
+{
+    "id": "i55684",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "igniter",
+    "en_definition": "a device for lighting or igniting fuel or charges or fires",
+    "tr_word": "ateşleyici",
+    "tr_definition": "yakıtı, patlayıcıları veya ateşi tutuşturmak için kullanılan cihaz",
+    "ru_word": "воспламенитель",
+    "ru_definition": "устройство для зажигания или воспламенения топлива, зарядов или огня",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "odvuran"
+                ],
+                "Turkmen": [
+                    "otluk"
+                ],
+                "Uzbek": [
+                    "oʻtlagich"
+                ],
+                "Uyghur": [
+                    "ئوت چاقماق"
+                ],
+                "Kazakh": [
+                    "оттық"
+                ],
+                "Kyrgyz": [
+                    "оттук"
+                ],
+                "Karakalpak": [
+                    "ottıq"
+                ],
+                "Tatar": [
+                    "ут кабызгыч",
+                    "ут алдыргыч"
+                ],
+                "Bashkir": [
+                    "ут алдырғыс",
+                    "ут ҡабыҙғыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çakmak",
+                    "yakıcı"
+                ],
+                "Azerbaijani": [
+                    "çaxmaq"
+                ],
+                "Turkmen": [
+                    "çakmak"
+                ],
+                "Uzbek": [
+                    "chaqmoq"
+                ],
+                "Uyghur": [
+                    "چاقماق"
+                ],
+                "Kazakh": [
+                    "шақпақ"
+                ],
+                "Karakalpak": [
+                    "shaqpaq"
+                ],
+                "Bashkir": [
+                    "саҡма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ateşleyici"
+                ],
+                "Uyghur": [
+                    "ئوت ئالغۇچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "alışqan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yondirgich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұтандырғыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "зажигалка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чара"
+                ]
+            }
+        }
+    ]
+}

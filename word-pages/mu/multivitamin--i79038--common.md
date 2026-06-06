@@ -1,0 +1,137 @@
+# Multivitamin
+| Field | Detail |
+|---|---|
+| **ID** | i79038 |
+| **English** | multivitamin |
+| **Type** | noun |
+| **Definition** | a pill or tablet containing several vitamins |
+| **Source** | common |
+| **Ortatil** | polüwütamin |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| көпдәрумен | köpdärumen |
+
+```json
+{
+    "id": "i79038",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "multivitamin",
+    "en_definition": "a pill or tablet containing several vitamins",
+    "tr_word": "multivitamin",
+    "tr_definition": "birkaç farklı vitamini bir arada içeren hap veya tablet",
+    "ru_word": "мультивитамин",
+    "ru_definition": "таблетка или капсула, содержащая несколько различных витаминов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çoklu vitamin",
+                    "vitamin hapı"
+                ],
+                "Azerbaijani": [
+                    "vitamin kompleksi",
+                    "qarışıq vitamin"
+                ],
+                "Turkmen": [
+                    "witaminler toplumy",
+                    "witaminler toplumy derman"
+                ],
+                "Uzbek": [
+                    "vitaminlar majmuasi",
+                    "vitaminlar toʻplami"
+                ],
+                "Kyrgyz": [
+                    "витаминдер топтому",
+                    "витаминдер жыйындысы"
+                ],
+                "Karakalpak": [
+                    "witaminler toplamı",
+                    "witaminler kompleksi"
+                ],
+                "Tatar": [
+                    "витаминнар җыелмасы"
+                ],
+                "Bashkir": [
+                    "витаминдар йыйылмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vitamin karışımı"
+                ],
+                "Uyghur": [
+                    "كۆپ خىل ۋىتامىن"
+                ],
+                "Kyrgyz": [
+                    "көп витаминдүү"
+                ],
+                "Karakalpak": [
+                    "kóp dári-dármanlı witamin"
+                ],
+                "Tatar": [
+                    "күпвитаминлы дару"
+                ],
+                "Bashkir": [
+                    "күп витаминлы дарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köp witaminli"
+                ],
+                "Uzbek": [
+                    "koʻp vitaminli dori"
+                ],
+                "Kazakh": [
+                    "көпдәрумен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "polivitamin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇرەككەپ ۋىتامىن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәрумендер кешені",
+                    "дәрумен жиынтығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "катнаш витаминнар"
+                ]
+            }
+        }
+    ]
+}
+```
+

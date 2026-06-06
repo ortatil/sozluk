@@ -1,0 +1,119 @@
+{
+    "id": "i89238",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "correspondent",
+    "en_definition": "a journalist employed to provide news stories for newspapers or broadcast media",
+    "tr_word": "muhabir",
+    "tr_definition": "gazete veya televizyon gibi yayın organları için haber toplayan ve bildiren gazeteci",
+    "ru_word": "корреспондент",
+    "ru_definition": "журналист, представляющий средства массовой информации и передающий сообщения с мест событий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haberci"
+                ],
+                "Azerbaijani": [
+                    "xəbərçi"
+                ],
+                "Turkmen": [
+                    "habarçy"
+                ],
+                "Uzbek": [
+                    "xabarchi"
+                ],
+                "Uyghur": [
+                    "خەۋەرچى"
+                ],
+                "Kazakh": [
+                    "хабаршы"
+                ],
+                "Kyrgyz": [
+                    "кабарчы"
+                ],
+                "Karakalpak": [
+                    "xabarshı"
+                ],
+                "Tatar": [
+                    "хәбәрче"
+                ],
+                "Bashkir": [
+                    "хәбәрсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhabir"
+                ],
+                "Azerbaijani": [
+                    "müxbir",
+                    "müxbir-jurnalist"
+                ],
+                "Turkmen": [
+                    "muhabir"
+                ],
+                "Uzbek": [
+                    "muxbir"
+                ],
+                "Uyghur": [
+                    "مۇخبىر"
+                ],
+                "Tatar": [
+                    "мөхбир"
+                ],
+                "Bashkir": [
+                    "мөхбир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazman"
+                ],
+                "Turkmen": [
+                    "ýazyjysy"
+                ],
+                "Kazakh": [
+                    "жазушы"
+                ],
+                "Kyrgyz": [
+                    "жазуучу"
+                ],
+                "Tatar": [
+                    "язаучы"
+                ],
+                "Bashkir": [
+                    "яҙыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тілші"
+                ],
+                "Kyrgyz": [
+                    "тилчи"
+                ],
+                "Karakalpak": [
+                    "tіlshі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vaxshiy"
+                ]
+            }
+        }
+    ]
+}

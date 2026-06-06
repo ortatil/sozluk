@@ -1,0 +1,164 @@
+# Marathon
+| Field | Detail |
+|---|---|
+| **ID** | i75922 |
+| **English** | marathon |
+| **Type** | noun |
+| **Definition** | a footrace of 26 miles 385 yards |
+| **Source** | common |
+| **Ortatil** | marafon |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **marafon** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.30** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| марафон | marafon |
+| **Tatar** | |
+| марафон | marafon |
+| йөгереш | yögereş |
+| **Bashkir** | |
+| марафон | marafon |
+
+```json
+{
+    "id": "i75922",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "marathon",
+    "en_definition": "a footrace of 26 miles 385 yards",
+    "tr_word": "maraton",
+    "tr_definition": "42.195 metrelik, çok uzun mesafeli bir koşu yarışı",
+    "ru_word": "марафон",
+    "ru_definition": "забег на дистанцию 42 километра 195 метров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "maraton"
+                ],
+                "Azerbaijani": [
+                    "marafon",
+                    "marafon qaçışı"
+                ],
+                "Turkmen": [
+                    "marafon"
+                ],
+                "Uzbek": [
+                    "marafon"
+                ],
+                "Uyghur": [
+                    "مارافونچە يۈگۈرۈش"
+                ],
+                "Kazakh": [
+                    "марафон"
+                ],
+                "Kyrgyz": [
+                    "марафондук жарыш"
+                ],
+                "Karakalpak": [
+                    "marafon"
+                ],
+                "Tatar": [
+                    "марафон"
+                ],
+                "Bashkir": [
+                    "марафон"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzun mesafe koşusu"
+                ],
+                "Azerbaijani": [
+                    "uzun məsafəli qaçış"
+                ],
+                "Turkmen": [
+                    "uzak menzil"
+                ],
+                "Uzbek": [
+                    "uzoq masofaga yugurish"
+                ],
+                "Uyghur": [
+                    "ئۇزۇن مۇساپىلىك يۈگۈرۈش"
+                ],
+                "Kazakh": [
+                    "ұзақ қашықтыққа жүгіру"
+                ],
+                "Kyrgyz": [
+                    "узак аралыкка чуркоо"
+                ],
+                "Karakalpak": [
+                    "uzaq aralıqqa jugırıo",
+                    "uzaq jolǵa jugırıo"
+                ],
+                "Tatar": [
+                    "озын йөгерү"
+                ],
+                "Bashkir": [
+                    "оҙон араға йүгереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "алысқа жүгіру"
+                ],
+                "Kyrgyz": [
+                    "алыс аралыкка чуркоо"
+                ],
+                "Bashkir": [
+                    "алыҫҡа йүгереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uzak aralyga ylgaw"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poyga"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йөгереш"
+                ]
+            }
+        }
+    ]
+}
+```
+

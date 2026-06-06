@@ -1,0 +1,69 @@
+{
+    "id": "i92164",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "postal clerk",
+    "en_definition": "a clerk in a post office",
+    "tr_word": "posta memuru",
+    "tr_definition": "Postanede çalışan, posta işlemlerini yürüten görevli.",
+    "ru_word": "почтовый служащий",
+    "ru_definition": "Сотрудник почтового отделения, занимающийся приемом и выдачей отправлений.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "posta memuru",
+                    "postacı"
+                ],
+                "Azerbaijani": [
+                    "poçt işçisi",
+                    "poçt məmuru",
+                    "poçt qulluqçusu"
+                ],
+                "Turkmen": [
+                    "poçta gullukçysy",
+                    "poçta işgäri",
+                    "poçtaçy"
+                ],
+                "Uzbek": [
+                    "pochta xodimi",
+                    "pochta xizmatchisi",
+                    "pochta amaldori"
+                ],
+                "Uyghur": [
+                    "پوچتا خادىمى",
+                    "پوچتىخانا خادىمى",
+                    "پوچتا ئىشچىسى"
+                ],
+                "Kazakh": [
+                    "пошта қызметкері",
+                    "пошташы"
+                ],
+                "Kyrgyz": [
+                    "почта кызматкери",
+                    "почтачы"
+                ],
+                "Karakalpak": [
+                    "poshta xızmetkeri",
+                    "poshtashı"
+                ],
+                "Tatar": [
+                    "почта хезмәткәре",
+                    "почтачы"
+                ],
+                "Bashkir": [
+                    "почта хеҙмәткәре",
+                    "почтасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gişe memuru"
+                ]
+            }
+        }
+    ]
+}

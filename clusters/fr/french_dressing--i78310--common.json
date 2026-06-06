@@ -1,0 +1,112 @@
+{
+    "id": "i78310",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "french dressing",
+    "en_definition": "oil and vinegar with mustard and garlic",
+    "tr_word": "Fransız sosu",
+    "tr_definition": "Hardal ve sarımsak ile tatlandırılmış yağ ve sirke karışımı.",
+    "ru_word": "французская заправка",
+    "ru_definition": "соус из растительного масла и уксуса с добавлением горчицы и чеснока",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağlı sirkeli sos"
+                ],
+                "Uzbek": [
+                    "sirka-moyli qayla",
+                    "sirka va yog'li sous",
+                    "ziravorli qayla"
+                ],
+                "Uyghur": [
+                    "سېركە-ماي قىيامى",
+                    "سېركە-ياغ قىيامى"
+                ],
+                "Kazakh": [
+                    "сірке-май тұздығы"
+                ],
+                "Karakalpak": [
+                    "sirkeli tuzlıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "майлы-сірке тұздық"
+                ],
+                "Kyrgyz": [
+                    "май-сирке соусу",
+                    "май-сирке татымалы"
+                ],
+                "Karakalpak": [
+                    "may-sirke tuzlıǵı",
+                    "maylı tuzlıq"
+                ],
+                "Tatar": [
+                    "майлы-серкәле соус",
+                    "майлы-серкәле тәмләткеч"
+                ],
+                "Bashkir": [
+                    "май-һеркә соусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "salata sosu"
+                ],
+                "Azerbaijani": [
+                    "salat sousu"
+                ],
+                "Turkmen": [
+                    "salat sousy"
+                ],
+                "Bashkir": [
+                    "салат соусы",
+                    "салат тәмләткесе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "فرانسىيەچە قىيام"
+                ],
+                "Kazakh": [
+                    "француз тұздығы"
+                ],
+                "Kyrgyz": [
+                    "француз татымалы"
+                ],
+                "Tatar": [
+                    "француз соусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sirkə-yağ sousu",
+                    "sirkəli sous"
+                ],
+                "Turkmen": [
+                    "sirke-ýag sousy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hardallı sos"
+                ]
+            }
+        }
+    ]
+}

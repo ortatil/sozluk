@@ -1,0 +1,135 @@
+{
+    "id": "i86003",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pond",
+    "en_definition": "a small lake",
+    "tr_word": "gölet",
+    "tr_definition": "küçük bir göl",
+    "ru_word": "пруд",
+    "ru_definition": "небольшой искусственный или естественный водоем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gölet",
+                    "gölcük"
+                ],
+                "Azerbaijani": [
+                    "gölməçə",
+                    "gölcük"
+                ],
+                "Turkmen": [
+                    "kölçe"
+                ],
+                "Uzbek": [
+                    "koʻlmak"
+                ],
+                "Uyghur": [
+                    "كۆلچەك",
+                    "كۆل"
+                ],
+                "Kazakh": [
+                    "көлшік"
+                ],
+                "Kyrgyz": [
+                    "көлмө",
+                    "көлчүк"
+                ],
+                "Karakalpak": [
+                    "kólshіk"
+                ],
+                "Tatar": [
+                    "күл",
+                    "күлче"
+                ],
+                "Bashkir": [
+                    "күл",
+                    "күлсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "havuz"
+                ],
+                "Azerbaijani": [
+                    "hovuz"
+                ],
+                "Turkmen": [
+                    "howuz"
+                ],
+                "Uzbek": [
+                    "hovuz"
+                ],
+                "Uyghur": [
+                    "ھاۋۇز"
+                ],
+                "Kazakh": [
+                    "хауыз"
+                ],
+                "Karakalpak": [
+                    "xauız"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тоған"
+                ],
+                "Kyrgyz": [
+                    "тооган"
+                ],
+                "Karakalpak": [
+                    "toǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bent"
+                ],
+                "Kazakh": [
+                    "бөгет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "буа"
+                ],
+                "Bashkir": [
+                    "быуа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "su birikintisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nohur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suvloq"
+                ]
+            }
+        }
+    ]
+}

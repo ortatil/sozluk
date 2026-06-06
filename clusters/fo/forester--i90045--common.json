@@ -1,0 +1,79 @@
+{
+    "id": "i90045",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "forester",
+    "en_definition": "someone trained in forestry",
+    "tr_word": "ormancı",
+    "tr_definition": "ormanların korunması, yetiştirilmesi ve yönetimi konusunda eğitim almış uzman kişi",
+    "ru_word": "лесничий",
+    "ru_definition": "специалист по лесному хозяйству, занимающийся охраной и защитой леса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ormancı",
+                    "orman memuru",
+                    "orman koruma memuru"
+                ],
+                "Uzbek": [
+                    "oʻrmonchi",
+                    "oʻrmonbon",
+                    "oʻrmon qorovuli"
+                ],
+                "Uyghur": [
+                    "ئورمانچى",
+                    "ئورمان باشقۇرغۇچى",
+                    "ئورمان مۇھاپىزەتچىسى"
+                ],
+                "Kazakh": [
+                    "орманшы",
+                    "орман күзетшісі",
+                    "орман маманы"
+                ],
+                "Karakalpak": [
+                    "ormanshı"
+                ],
+                "Tatar": [
+                    "урманчы",
+                    "урман сакчысы",
+                    "урман каравылчысы"
+                ],
+                "Bashkir": [
+                    "урмансы",
+                    "урман һаҡсыһы",
+                    "урман белгесе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tokaýçy",
+                    "tokaý hojalykçysy",
+                    "tokaý hünärmeni"
+                ],
+                "Kyrgyz": [
+                    "токойчу",
+                    "токой кызматкери",
+                    "токой сакчысы"
+                ],
+                "Karakalpak": [
+                    "toǵayshı",
+                    "toǵay qorǵaushı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "meşəçi",
+                    "meşəbəyi",
+                    "meşə qoruyucusu"
+                ]
+            }
+        }
+    ]
+}

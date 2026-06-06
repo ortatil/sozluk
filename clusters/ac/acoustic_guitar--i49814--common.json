@@ -1,0 +1,102 @@
+{
+    "id": "i49814",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "acoustic guitar",
+    "en_definition": "sound is not amplified by electrical means",
+    "tr_word": "akustik gitar",
+    "tr_definition": "sesin elektriksel yollarla yükseltilmediği gitar türü",
+    "ru_word": "акустическая гитара",
+    "ru_definition": "гитара, звук которой не усиливается электрическими средствами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akustik gitar"
+                ],
+                "Azerbaijani": [
+                    "akustik gitar"
+                ],
+                "Turkmen": [
+                    "akustik gitara"
+                ],
+                "Uzbek": [
+                    "akustik gitara"
+                ],
+                "Uyghur": [
+                    "ئاكۇستىكىلىق گىتار"
+                ],
+                "Kazakh": [
+                    "акустикалық гитара"
+                ],
+                "Kyrgyz": [
+                    "акустикалык гитара"
+                ],
+                "Karakalpak": [
+                    "akustikalıq gitara"
+                ],
+                "Tatar": [
+                    "акустик гитара"
+                ],
+                "Bashkir": [
+                    "акустик гитара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "klasik gitar"
+                ],
+                "Azerbaijani": [
+                    "klassik gitar"
+                ],
+                "Kazakh": [
+                    "классикалық гитара"
+                ],
+                "Kyrgyz": [
+                    "классикалык гитара"
+                ],
+                "Karakalpak": [
+                    "klassikalıq gitara"
+                ],
+                "Bashkir": [
+                    "классик гитара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "adaty gitara"
+                ],
+                "Uzbek": [
+                    "oddiy gitara"
+                ],
+                "Tatar": [
+                    "гади гитара"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "telli gitar"
+                ],
+                "Uyghur": [
+                    "تەبئىي ئاۋازلىق گىتار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياغاچ گىتار"
+                ]
+            }
+        }
+    ]
+}

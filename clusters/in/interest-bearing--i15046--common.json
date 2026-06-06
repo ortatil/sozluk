@@ -1,0 +1,144 @@
+{
+    "id": "i15046",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "interest-bearing",
+    "en_definition": "of financial obligations on which interest is paid",
+    "tr_word": "faiz getiren",
+    "tr_definition": "üzerinden faiz ödemesi yapılan finansal yükümlülükler için kullanılan terim",
+    "ru_word": "процентный",
+    "ru_definition": "относящийся к финансовым обязательствам, по которым выплачиваются проценты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "faizli"
+                ],
+                "Azerbaijani": [
+                    "faizli"
+                ],
+                "Uzbek": [
+                    "foizli"
+                ],
+                "Uyghur": [
+                    "پايدىلىق"
+                ],
+                "Karakalpak": [
+                    "paydalı"
+                ],
+                "Tatar": [
+                    "фаизлы"
+                ],
+                "Bashkir": [
+                    "файҙалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئۆسۈملۈك"
+                ],
+                "Kazakh": [
+                    "өсімді"
+                ],
+                "Kyrgyz": [
+                    "үстөктүү"
+                ],
+                "Karakalpak": [
+                    "ósimli"
+                ],
+                "Tatar": [
+                    "өстәмәле",
+                    "өстәмә хаклы"
+                ],
+                "Bashkir": [
+                    "өҫтәмәле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "riboli"
+                ],
+                "Uyghur": [
+                    "رىباخورلۇق"
+                ],
+                "Karakalpak": [
+                    "ribalı"
+                ],
+                "Tatar": [
+                    "рибалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "peýdaly"
+                ],
+                "Kazakh": [
+                    "пайыздық",
+                    "пайыз әкелетін"
+                ],
+                "Kyrgyz": [
+                    "пайыздык",
+                    "пайыз төлөнүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "getirili"
+                ],
+                "Turkmen": [
+                    "göterimli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýthor"
+                ],
+                "Uzbek": [
+                    "sudxo'rlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nemalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sələmli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mənfəətli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "процентлы"
+                ]
+            }
+        }
+    ]
+}

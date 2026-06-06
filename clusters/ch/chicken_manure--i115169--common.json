@@ -1,0 +1,75 @@
+{
+    "id": "i115169",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chicken manure",
+    "en_definition": "chicken excreta used as fertilizer",
+    "tr_word": "tavuk gübresi",
+    "tr_definition": "Gübre olarak kullanılan tavuk dışkısı",
+    "ru_word": "куриный помёт",
+    "ru_definition": "Куриные экскременты, используемые в качестве удобрения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavuk gübresi",
+                    "tavuk fışkısı"
+                ],
+                "Azerbaijani": [
+                    "toyuq peyini",
+                    "toyuq gübrəsi",
+                    "toyuq zılı"
+                ],
+                "Turkmen": [
+                    "towuk dersi",
+                    "towuk döküni"
+                ],
+                "Uzbek": [
+                    "tovuq go'ngi",
+                    "tovuq fuzalasi",
+                    "tovuq po'ki"
+                ],
+                "Uyghur": [
+                    "توخۇ پوقى",
+                    "توخۇ ئوغۇتى"
+                ],
+                "Kazakh": [
+                    "тауық саңғырығы",
+                    "тауық қиы",
+                    "тауық тыңайтқышы"
+                ],
+                "Karakalpak": [
+                    "taoıq qıyı",
+                    "taoıq tezegi"
+                ],
+                "Tatar": [
+                    "тавык тиресе",
+                    "тавык чүбе",
+                    "тавык ашламасы"
+                ],
+                "Bashkir": [
+                    "тауыҡ тиреҫе",
+                    "тауыҡ тиҙәге",
+                    "тауыҡ пометы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "guş dersi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоок кыгы",
+                    "тоок кык",
+                    "тооктун кыгы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "i75462",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bleat",
+    "en_definition": "the sound of sheep or goats (or any sound resembling this)",
+    "tr_word": "meleme",
+    "tr_definition": "koyun veya keçinin çıkardığı ses",
+    "ru_word": "блеяние",
+    "ru_definition": "характерный звук, издаваемый овцой или козой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meleme",
+                    "meleyiş",
+                    "me"
+                ],
+                "Azerbaijani": [
+                    "mələşmə",
+                    "mələnti",
+                    "mələyiş"
+                ],
+                "Turkmen": [
+                    "mäleme",
+                    "mä"
+                ],
+                "Uzbek": [
+                    "ma'rash",
+                    "ma'illash"
+                ],
+                "Uyghur": [
+                    "مەرەش",
+                    "مەرە"
+                ],
+                "Tatar": [
+                    "мәрәлдәү"
+                ],
+                "Bashkir": [
+                    "мәлдеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "маңырау",
+                    "маңыраған дауыс",
+                    "маңыраған үн"
+                ],
+                "Karakalpak": [
+                    "mańırau",
+                    "mańıraǵan dauıs",
+                    "mańıraǵan ses"
+                ],
+                "Tatar": [
+                    "маңрау"
+                ],
+                "Bashkir": [
+                    "маңырау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ba'rash"
+                ],
+                "Bashkir": [
+                    "бәрәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مەرەيدىغان ئاۋاز"
+                ],
+                "Kyrgyz": [
+                    "маараган үн",
+                    "маараш",
+                    "маараган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәхердәү"
+                ]
+            }
+        }
+    ]
+}

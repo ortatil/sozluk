@@ -1,0 +1,65 @@
+{
+    "id": "i90530",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hockey player",
+    "en_definition": "an athlete who plays hockey",
+    "tr_word": "hokey oyuncusu",
+    "tr_definition": "hokey oynayan sporcu",
+    "ru_word": "хоккеист",
+    "ru_definition": "спортсмен, играющий в хоккей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hokeyci",
+                    "hokey oyuncusu",
+                    "hokey sporcusu"
+                ],
+                "Azerbaijani": [
+                    "hokkeyçi",
+                    "hokkey oyunçusu"
+                ],
+                "Turkmen": [
+                    "hokkeýçi",
+                    "hokkeý oýunçysy"
+                ],
+                "Uzbek": [
+                    "xokkeychi",
+                    "xokkey o'yinchisi"
+                ],
+                "Uyghur": [
+                    "خوككېي ماھىرى",
+                    "خوككېيچى",
+                    "خوككېي ئوينىغۇچى"
+                ],
+                "Kazakh": [
+                    "хоккейші"
+                ],
+                "Kyrgyz": [
+                    "хоккейчи",
+                    "хоккей оюнчусу"
+                ],
+                "Karakalpak": [
+                    "xokkeyshi"
+                ],
+                "Tatar": [
+                    "хоккейчы",
+                    "хоккей уенчысы"
+                ],
+                "Bashkir": [
+                    "хоккейсы",
+                    "хоккей уйынсыһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шайбалы хоккей ойыншысы"
+                ]
+            }
+        }
+    ]
+}

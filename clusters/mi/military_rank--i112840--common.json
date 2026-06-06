@@ -1,0 +1,134 @@
+{
+    "id": "i112840",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "military rank",
+    "en_definition": "rank in a military organization",
+    "tr_word": "askeri rütbe",
+    "tr_definition": "Askeri bir hiyerarşi içindeki derece veya makam",
+    "ru_word": "воинское звание",
+    "ru_definition": "Положение военнослужащего в системе военной иерархии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbi rütbə"
+                ],
+                "Turkmen": [
+                    "harby dereje"
+                ],
+                "Uzbek": [
+                    "harbiy unvon"
+                ],
+                "Uyghur": [
+                    "ھەربىي ئۇنۋان"
+                ],
+                "Tatar": [
+                    "хәрби дәрәҗә",
+                    "хәрби урын"
+                ],
+                "Bashkir": [
+                    "хәрби дәрәжә",
+                    "хәрби чин"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dərəcə"
+                ],
+                "Uzbek": [
+                    "daraja"
+                ],
+                "Uyghur": [
+                    "دەرىجە"
+                ],
+                "Kazakh": [
+                    "дәреже"
+                ],
+                "Kyrgyz": [
+                    "даража"
+                ],
+                "Karakalpak": [
+                    "dáreje"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mansıp"
+                ],
+                "Azerbaijani": [
+                    "mənsəb"
+                ],
+                "Uzbek": [
+                    "mansab"
+                ],
+                "Uyghur": [
+                    "مەنسەپ"
+                ],
+                "Tatar": [
+                    "мансап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "askeri rütbe"
+                ],
+                "Kazakh": [
+                    "әскери шен"
+                ],
+                "Kyrgyz": [
+                    "аскердик наам",
+                    "аскердик даража"
+                ],
+                "Karakalpak": [
+                    "áskeriy shen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rütbe"
+                ],
+                "Azerbaijani": [
+                    "rütbə"
+                ],
+                "Turkmen": [
+                    "rütbe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "лауазым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "наам"
+                ]
+            }
+        }
+    ]
+}

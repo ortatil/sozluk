@@ -1,0 +1,68 @@
+{
+    "id": "i90992",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "librarian",
+    "en_definition": "a professional person trained in library science and engaged in library services",
+    "tr_word": "kütüphaneci",
+    "tr_definition": "Kütüphane biliminde eğitim almış ve kütüphane hizmetlerinde görev yapan profesyonel kişi.",
+    "ru_word": "библиотекарь",
+    "ru_definition": "Профессионал, обученный библиотечному делу и занимающийся библиотечным обслуживанием.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kütüphaneci"
+                ],
+                "Azerbaijani": [
+                    "kitabxanaçı",
+                    "kitabdar"
+                ],
+                "Turkmen": [
+                    "kitaphanaçy"
+                ],
+                "Uzbek": [
+                    "kutubxonachi",
+                    "kitobdor"
+                ],
+                "Uyghur": [
+                    "كۇتۇپخانىچى",
+                    "كىتابخانىچى"
+                ],
+                "Kazakh": [
+                    "кітапханашы",
+                    "кітапхана қызметкері"
+                ],
+                "Kyrgyz": [
+                    "китепканачы",
+                    "китепкана кызматкери"
+                ],
+                "Karakalpak": [
+                    "kitapxanashı"
+                ],
+                "Tatar": [
+                    "китапханәче",
+                    "китапдар"
+                ],
+                "Bashkir": [
+                    "китапханасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hafız-ı kütüb"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kitaplık görevlisi"
+                ]
+            }
+        }
+    ]
+}

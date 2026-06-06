@@ -1,0 +1,87 @@
+{
+    "id": "i75160",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "live birth",
+    "en_definition": "the birth of a living fetus (regardless of the length of gestation)",
+    "tr_word": "canlı doğum",
+    "tr_definition": "Gebelik süresine bakılmaksızın, fetüsün yaşam belirtileri göstererek dünyaya gelmesi.",
+    "ru_word": "живорождение",
+    "ru_definition": "Рождение живого плода (независимо от срока беременности).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "diri doğuş"
+                ],
+                "Turkmen": [
+                    "diri dogluş",
+                    "diri dogulma"
+                ],
+                "Uzbek": [
+                    "tirik tugʻilish"
+                ],
+                "Uyghur": [
+                    "تىرىك تۇغۇلۇش",
+                    "تىرىك تۇغۇت"
+                ],
+                "Kazakh": [
+                    "тірі туу",
+                    "тірі туылу",
+                    "тірідей туылу"
+                ],
+                "Kyrgyz": [
+                    "тирүү төрөлүү",
+                    "тирүү төрөт"
+                ],
+                "Karakalpak": [
+                    "tirúú tuoılıo",
+                    "tirúú tuoılıs",
+                    "tirúú tuoıo"
+                ],
+                "Tatar": [
+                    "тере туу",
+                    "тере тудыру",
+                    "тере бала табу"
+                ],
+                "Bashkir": [
+                    "тере тыуыу",
+                    "тере бала табыу",
+                    "тереләй тыуыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "canlı doğum"
+                ],
+                "Azerbaijani": [
+                    "canlı doğuş"
+                ],
+                "Turkmen": [
+                    "janly dogluş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sağ doğum"
+                ],
+                "Azerbaijani": [
+                    "sağ doğulma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hayotiy tugʻilish"
+                ]
+            }
+        }
+    ]
+}

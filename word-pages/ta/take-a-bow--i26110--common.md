@@ -1,0 +1,169 @@
+# Take a bow
+| Field | Detail |
+|---|---|
+| **ID** | i26110 |
+| **English** | take a bow |
+| **Type** | verb |
+| **Definition** | acknowledge applause by inclining the head, as of an artist after a performance |
+| **Source** | common |
+| **Ortatil** | egilmäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئېگىلمەك | egilmäk |
+| **Kazakh** | |
+| иілу | iilu |
+
+```json
+{
+    "id": "i26110",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "take a bow",
+    "en_definition": "acknowledge applause by inclining the head, as of an artist after a performance",
+    "tr_word": "selam vermek",
+    "tr_definition": "bir sanatçının performans sonrası alkışları başını eğerek karşılaması",
+    "ru_word": "кланяться",
+    "ru_definition": "наклонять голову или туловище в знак благодарности за аплодисменты после выступления",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təzim etmək"
+                ],
+                "Turkmen": [
+                    "tagzym etmek"
+                ],
+                "Uzbek": [
+                    "ta'zim qilmoq"
+                ],
+                "Uyghur": [
+                    "تەزىم قىلماق"
+                ],
+                "Kazakh": [
+                    "тағзым ету"
+                ],
+                "Kyrgyz": [
+                    "таазим кылуу",
+                    "таазим этүү"
+                ],
+                "Karakalpak": [
+                    "tázim etiu",
+                    "tázim qılıu"
+                ],
+                "Tatar": [
+                    "тәгъзим итү"
+                ],
+                "Bashkir": [
+                    "тәғзим итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baş eğmek"
+                ],
+                "Azerbaijani": [
+                    "baş əymək"
+                ],
+                "Turkmen": [
+                    "baş egmek"
+                ],
+                "Uzbek": [
+                    "bosh egmoq"
+                ],
+                "Uyghur": [
+                    "باش ئەگمەك"
+                ],
+                "Kazakh": [
+                    "бас ию"
+                ],
+                "Karakalpak": [
+                    "bas iyu"
+                ],
+                "Bashkir": [
+                    "баш эйеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "selam vermek"
+                ],
+                "Azerbaijani": [
+                    "salam vermək"
+                ],
+                "Kazakh": [
+                    "сәлем беру"
+                ],
+                "Tatar": [
+                    "сәлам бирү"
+                ],
+                "Bashkir": [
+                    "сәләм биреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېگىلمەك"
+                ],
+                "Kazakh": [
+                    "иілу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "баш ийүү"
+                ],
+                "Tatar": [
+                    "баш ию"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temenna etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "halkı selamlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hormat bildirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ehtirom ko'rsatmoq"
+                ]
+            }
+        }
+    ]
+}
+```
+

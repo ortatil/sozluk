@@ -1,0 +1,82 @@
+{
+    "id": "i57152",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "percolator",
+    "en_definition": "a coffeepot in which boiling water ascends through a central tube and filters back down through a basket of ground coffee beans",
+    "tr_word": "perkolatör",
+    "tr_definition": "Kaynayan suyun merkezi bir borudan yükselerek öğütülmüş kahve dolu bir sepetten süzüldüğü kahve makinesi.",
+    "ru_word": "перколятор",
+    "ru_definition": "Кофеварка, в которой кипящая вода под давлением поднимается по трубке и проходит через фильтр с молотым кофе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kahve makinesi",
+                    "kahve süzgeci",
+                    "kahve ibriği"
+                ],
+                "Azerbaijani": [
+                    "qəhvədan",
+                    "qəhvəbişirən"
+                ],
+                "Uzbek": [
+                    "qahvachoynak",
+                    "qahva qaynatgich",
+                    "qahvadon"
+                ],
+                "Uyghur": [
+                    "قەھۋەدان",
+                    "قەھۋە قايناتقۇچ"
+                ],
+                "Tatar": [
+                    "каһвә савыты",
+                    "каһвә кайнаткыч",
+                    "каһвә чәйнеге"
+                ],
+                "Bashkir": [
+                    "ҡәһүә һауыты",
+                    "ҡәһүә бешергес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kofe demligi",
+                    "kofegaby",
+                    "kofe gaýnadyjy"
+                ],
+                "Kazakh": [
+                    "кофе қайнатқыш",
+                    "кофе пісіргіш",
+                    "кофе ыдысы"
+                ],
+                "Kyrgyz": [
+                    "кофе кайнаткыч",
+                    "кофе идиши"
+                ],
+                "Karakalpak": [
+                    "kofe qaynatqısh",
+                    "kofe idisi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "süzgeçli kahvedan"
+                ],
+                "Azerbaijani": [
+                    "süzgəcli qəhvədan"
+                ],
+                "Uyghur": [
+                    "سۈزگۈچلۈك قەھۋەدان"
+                ]
+            }
+        }
+    ]
+}

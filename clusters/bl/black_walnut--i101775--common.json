@@ -1,0 +1,79 @@
+{
+    "id": "i101775",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "black walnut",
+    "en_definition": "North American walnut tree with hard dark wood and edible nut",
+    "tr_word": "kara ceviz",
+    "tr_definition": "Sert koyu renkli odunu ve yenilebilir meyvesi olan Kuzey Amerika'ya özgü bir ceviz ağacı türü",
+    "ru_word": "чёрный орех",
+    "ru_definition": "Североамериканское дерево семейства Ореховые с твердой темной древесиной и съедобными плодами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara ceviz"
+                ],
+                "Azerbaijani": [
+                    "qara qoz"
+                ],
+                "Turkmen": [
+                    "gara hoz"
+                ],
+                "Uzbek": [
+                    "qora yong'oq"
+                ],
+                "Uyghur": [
+                    "قارا ياڭاق"
+                ],
+                "Kazakh": [
+                    "қара жаңғақ",
+                    "қара грек жаңғағы"
+                ],
+                "Kyrgyz": [
+                    "кара жаңгак"
+                ],
+                "Karakalpak": [
+                    "qara jańǵaq"
+                ],
+                "Tatar": [
+                    "кара чикләвек",
+                    "кара грек чикләвеге"
+                ],
+                "Bashkir": [
+                    "ҡара грек сәтләүеге",
+                    "ҡара сәтләүек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Amerika qozu"
+                ],
+                "Turkmen": [
+                    "amerikan hozy"
+                ],
+                "Uzbek": [
+                    "amerika yong'og'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siyah ceviz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياۋا ياڭاق"
+                ]
+            }
+        }
+    ]
+}

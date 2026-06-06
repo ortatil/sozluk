@@ -1,0 +1,128 @@
+{
+    "id": "i5925",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "ice-free",
+    "en_definition": "free of ice and open to travel",
+    "tr_word": "buzsuz",
+    "tr_definition": "buz içermeyen ve ulaşıma açık olan",
+    "ru_word": "незамерзающий",
+    "ru_definition": "свободный ото льда и открытый для навигации или передвижения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buzsuz"
+                ],
+                "Azerbaijani": [
+                    "buzsuz"
+                ],
+                "Turkmen": [
+                    "buzsuz"
+                ],
+                "Uzbek": [
+                    "muzsiz"
+                ],
+                "Uyghur": [
+                    "مۇزسىز"
+                ],
+                "Kazakh": [
+                    "мұзсыз"
+                ],
+                "Kyrgyz": [
+                    "музсуз"
+                ],
+                "Karakalpak": [
+                    "muzsız"
+                ],
+                "Tatar": [
+                    "бозсыз"
+                ],
+                "Bashkir": [
+                    "боҙһоҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açık"
+                ],
+                "Azerbaijani": [
+                    "açıq"
+                ],
+                "Turkmen": [
+                    "açyk"
+                ],
+                "Uzbek": [
+                    "ochiq"
+                ],
+                "Kazakh": [
+                    "ашық"
+                ],
+                "Kyrgyz": [
+                    "ачык"
+                ],
+                "Karakalpak": [
+                    "ashıq"
+                ],
+                "Tatar": [
+                    "ачык"
+                ],
+                "Bashkir": [
+                    "асыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "donmamış"
+                ],
+                "Azerbaijani": [
+                    "donmayan"
+                ],
+                "Turkmen": [
+                    "doňmadyk"
+                ],
+                "Kyrgyz": [
+                    "тоңбогон"
+                ],
+                "Bashkir": [
+                    "туңмаған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muzlamagan"
+                ],
+                "Uyghur": [
+                    "مۇز تۇتمىغان",
+                    "مۇز باغلىمىغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қатпаған"
+                ],
+                "Tatar": [
+                    "катмаган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "erkin"
+                ]
+            }
+        }
+    ]
+}

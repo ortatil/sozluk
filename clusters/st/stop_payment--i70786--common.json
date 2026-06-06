@@ -1,0 +1,92 @@
+{
+    "id": "i70786",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stop payment",
+    "en_definition": "a depositor's order to a bank to refuse payment on a check",
+    "tr_word": "ödeme durdurma talimatı",
+    "tr_definition": "Bir hesap sahibinin bankaya bir çekin ödenmesini reddetmesi için verdiği emir",
+    "ru_word": "приостановка платежа",
+    "ru_definition": "распоряжение вкладчика банку об отказе в оплате чека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tölegi saklamak",
+                    "tölegi bes etmek",
+                    "tölegi duruzmak"
+                ],
+                "Uzbek": [
+                    "toʻlovni toʻxtatish",
+                    "toʻlovni bekor qilish",
+                    "toʻlovni qaytarish",
+                    "toʻlovni man etish"
+                ],
+                "Uyghur": [
+                    "تۆلەشنى توختىتىش",
+                    "تۆلەشنى چەكلەش"
+                ],
+                "Kazakh": [
+                    "төлемді тоқтату",
+                    "төлемді бөгеу",
+                    "төлемді тежеу"
+                ],
+                "Kyrgyz": [
+                    "төлөмдү токтотуу",
+                    "төлөмдү тыюу",
+                    "төлөмдү кармоо"
+                ],
+                "Karakalpak": [
+                    "tólemdi toqtatıo",
+                    "tólemdi toqtatıo buyrıǵı",
+                    "tólemdi toqtatıo haqqındaǵı buyrıq"
+                ],
+                "Tatar": [
+                    "түләүне туктату",
+                    "түләүне тыю"
+                ],
+                "Bashkir": [
+                    "түләүҙе туҡтатыу",
+                    "түләүҙе тыйыу",
+                    "түләүҙе тотҡарлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ödeme talimatı iptali",
+                    "ödeme durdurma",
+                    "ödemeden men"
+                ],
+                "Azerbaijani": [
+                    "ödənişin dayandırılması",
+                    "ödənişin qadağan edilməsi",
+                    "ödənişin dondurulması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çek iptali"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇل تۆلەشنى توختىتىش بۇيرۇقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хисапны туктату"
+                ]
+            }
+        }
+    ]
+}

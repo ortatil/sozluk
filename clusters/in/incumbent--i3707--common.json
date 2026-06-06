@@ -1,0 +1,164 @@
+{
+    "id": "i3707",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "incumbent",
+    "en_definition": "currently holding an office",
+    "tr_word": "görevdeki",
+    "tr_definition": "hâlihazırda bir makamı veya mevkii elinde bulunduran",
+    "ru_word": "действующий",
+    "ru_definition": "занимающий какую-либо должность в настоящее время",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vazifeli"
+                ],
+                "Azerbaijani": [
+                    "vəzifədə olan",
+                    "vəzifəli"
+                ],
+                "Turkmen": [
+                    "wezipedäki",
+                    "wezipesini ýerine ýetirýän"
+                ],
+                "Uzbek": [
+                    "vazifadagi"
+                ],
+                "Uyghur": [
+                    "ۋەزىپىدىكى"
+                ],
+                "Tatar": [
+                    "вазифадагы"
+                ],
+                "Bashkir": [
+                    "вазифалы",
+                    "вазифа башҡарыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hazırkı"
+                ],
+                "Turkmen": [
+                    "häzirki"
+                ],
+                "Uyghur": [
+                    "ھازىرقى"
+                ],
+                "Kazakh": [
+                    "қазіргі"
+                ],
+                "Karakalpak": [
+                    "xızmettegi"
+                ],
+                "Tatar": [
+                    "хәзерге"
+                ],
+                "Bashkir": [
+                    "хәҙерге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "amaldagi"
+                ],
+                "Uyghur": [
+                    "ئەمەلدىكى"
+                ],
+                "Karakalpak": [
+                    "amaldaǵı"
+                ],
+                "Tatar": [
+                    "гамәлдәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muvazzaf"
+                ],
+                "Azerbaijani": [
+                    "mövcud"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қызметтегі"
+                ],
+                "Kyrgyz": [
+                    "кызматтагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "лауазымды"
+                ],
+                "Karakalpak": [
+                    "laoazımdaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "görevli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mevcut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "joriy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "биліктегі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "иштеги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "учурдагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "эш башҡарыусы"
+                ]
+            }
+        }
+    ]
+}

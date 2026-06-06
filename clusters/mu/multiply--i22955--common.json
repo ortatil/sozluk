@@ -1,0 +1,139 @@
+{
+    "id": "i22955",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "multiply",
+    "en_definition": "combine or increase by multiplication",
+    "tr_word": "çarpmak",
+    "tr_definition": "sayıları birbiriyle çarparak çoğaltmak",
+    "ru_word": "умножать",
+    "ru_definition": "производить действие умножения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "artırmak"
+                ],
+                "Azerbaijani": [
+                    "artırmaq"
+                ],
+                "Turkmen": [
+                    "artdyrmak"
+                ],
+                "Uzbek": [
+                    "orttirmoq"
+                ],
+                "Kazakh": [
+                    "арттыру"
+                ],
+                "Kyrgyz": [
+                    "арттыруу"
+                ],
+                "Karakalpak": [
+                    "arttıru"
+                ],
+                "Tatar": [
+                    "арттыру"
+                ],
+                "Bashkir": [
+                    "арттырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köpeltmek"
+                ],
+                "Uzbek": [
+                    "koʻpaytirmoq"
+                ],
+                "Uyghur": [
+                    "كۆپەيتمەك"
+                ],
+                "Kazakh": [
+                    "көбейту"
+                ],
+                "Kyrgyz": [
+                    "көбөйтүү"
+                ],
+                "Karakalpak": [
+                    "kóbeytu"
+                ],
+                "Tatar": [
+                    "күбәйтү"
+                ],
+                "Bashkir": [
+                    "күбәйтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çarpmak"
+                ],
+                "Turkmen": [
+                    "zarplamak"
+                ],
+                "Uzbek": [
+                    "zarb qilmoq"
+                ],
+                "Uyghur": [
+                    "زەربلىمەك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ھەسسىلىمەك"
+                ],
+                "Kazakh": [
+                    "еселеу"
+                ],
+                "Kyrgyz": [
+                    "эселетүү"
+                ],
+                "Karakalpak": [
+                    "eseleu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çoğaltmak"
+                ],
+                "Azerbaijani": [
+                    "çoxaltmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vurmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тапкырлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡабатлау"
+                ]
+            }
+        }
+    ]
+}

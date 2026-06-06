@@ -1,0 +1,75 @@
+{
+    "id": "i40106",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fire drill",
+    "en_definition": "an exercise intended to train people in duties and escape procedures to be followed in case of fire",
+    "tr_word": "yangın tatbikatı",
+    "tr_definition": "yangın durumunda yapılması gerekenleri ve tahliye prosedürlerini öğretmek amacıyla yapılan eğitim çalışması",
+    "ru_word": "пожарная тревога",
+    "ru_definition": "тренировочное упражнение для отработки навыков эвакуации и действий при возникновении пожара",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yangın tatbikatı",
+                    "yangın eğitimi"
+                ],
+                "Azerbaijani": [
+                    "yanğın təlimi",
+                    "yanğın məşqi"
+                ],
+                "Turkmen": [
+                    "ýangyn türgenleşigi",
+                    "ýangyn okuwy",
+                    "ýangyn meşgi"
+                ],
+                "Uzbek": [
+                    "yong'in mashqi",
+                    "yong'in mashg'uloti",
+                    "yong'in xavfsizligi mashqi"
+                ],
+                "Tatar": [
+                    "янгын өйрәнүе",
+                    "янгын күнегүе",
+                    "янгынга каршы өйрәнү"
+                ],
+                "Bashkir": [
+                    "янғын күнекмәһе",
+                    "янғынға ҡаршы өйрәнеү",
+                    "янғын хәүефһеҙлеге күнекмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өртке қарсы жаттығу",
+                    "өрт дабылы жаттығуы",
+                    "өрт кезіндегі іс-қимыл жаттығуы"
+                ],
+                "Kyrgyz": [
+                    "өрт машыгуусу",
+                    "өрткө каршы машыгуу",
+                    "өрт коопсуздугу боюнча машыгуу"
+                ],
+                "Karakalpak": [
+                    "órtke qarsı jattıǵıu",
+                    "órtke qarsı shınıǵıu",
+                    "órt qáoipsizligi jattıǵıoı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوت ئۆچۈرۈش مانېۋىرى",
+                    "ئوتتىن مۇداپىئەلىنىش مانېۋىرى",
+                    "ئوت ئاپىتى مەشىقى"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "i12547",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "answerable",
+    "en_definition": "capable of being answered",
+    "tr_word": "cevaplanabilir",
+    "tr_definition": "cevap verilmesi mümkün olan",
+    "ru_word": "разрешимый",
+    "ru_definition": "такой, на который можно дать ответ",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cevaplanabilir"
+                ],
+                "Azerbaijani": [
+                    "cavablandırıla",
+                    "cavablandırıla bilən",
+                    "cavab verilə bilən"
+                ],
+                "Turkmen": [
+                    "jogaplandyryp bolýan"
+                ],
+                "Uzbek": [
+                    "javob beriladigan",
+                    "javob berish mumkin bo'lgan"
+                ],
+                "Uyghur": [
+                    "جاۋاب بېرىشكە بولىدىغان",
+                    "جاۋاب بېرىلىدىغان",
+                    "جاۋابى بار"
+                ],
+                "Kazakh": [
+                    "жауапты",
+                    "жауап берілетін"
+                ],
+                "Tatar": [
+                    "җаваплы",
+                    "җавап бирерлек"
+                ],
+                "Bashkir": [
+                    "яуаплы",
+                    "яуап бирерлек",
+                    "яуап бирелерлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yechiladigan"
+                ],
+                "Kazakh": [
+                    "шешілетін"
+                ],
+                "Kyrgyz": [
+                    "чечилме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jogap berip bolýan"
+                ],
+                "Karakalpak": [
+                    "juoap beriletuǵın",
+                    "juoaplandırılatuǵın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yanıtlanabilir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жооптуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жооп берүүгө боло турган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чишелерлек"
+                ]
+            }
+        }
+    ]
+}

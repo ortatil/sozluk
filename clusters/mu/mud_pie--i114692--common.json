@@ -1,0 +1,105 @@
+{
+    "id": "i114692",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mud pie",
+    "en_definition": "a mass of mud that a child has molded into the shape of pie",
+    "tr_word": "çamurdan pasta",
+    "tr_definition": "bir çocuğun pasta şekli verdiği çamur kütlesi",
+    "ru_word": "куличик",
+    "ru_definition": "комок грязи или песка, которому ребенок придал форму пирога",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "loy non"
+                ],
+                "Uyghur": [
+                    "لاي نان"
+                ],
+                "Kazakh": [
+                    "лай нан"
+                ],
+                "Karakalpak": [
+                    "lay nan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "palçıq kömbəsi",
+                    "palçıq kütləsi",
+                    "palçıq çörəyi"
+                ],
+                "Turkmen": [
+                    "palçykdan çörek",
+                    "palçykdan külçe"
+                ],
+                "Kazakh": [
+                    "балшық нан",
+                    "балшық күлше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "loy kulcha"
+                ],
+                "Kyrgyz": [
+                    "ылай нан",
+                    "ылай токоч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "loy patir"
+                ],
+                "Uyghur": [
+                    "لاي پىرەنىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "lay gúlshe"
+                ],
+                "Bashkir": [
+                    "ләм күмәс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пычрак күмәче",
+                    "пычрак бәлеше"
+                ],
+                "Bashkir": [
+                    "батҡаҡ күмәс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çamur pastası",
+                    "çamur köftesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ләм бәлеш"
+                ]
+            }
+        }
+    ]
+}

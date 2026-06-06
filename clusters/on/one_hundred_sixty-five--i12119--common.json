@@ -1,0 +1,53 @@
+{
+    "id": "i12119",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one hundred sixty-five",
+    "en_definition": "being five more than one hundred sixty",
+    "tr_word": "yüz altmış beş",
+    "tr_definition": "yüz altmıştan beş fazla olan sayı",
+    "ru_word": "сто шестьдесят пять",
+    "ru_definition": "число, на пять большее, чем сто шестьдесят",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz altmış beş"
+                ],
+                "Azerbaijani": [
+                    "yüz altmış beş"
+                ],
+                "Turkmen": [
+                    "ýüz altmyş bäş"
+                ],
+                "Kazakh": [
+                    "жүз алпыс бес"
+                ],
+                "Kyrgyz": [
+                    "жүз алтымыш беш"
+                ],
+                "Karakalpak": [
+                    "júz alpıs bes"
+                ],
+                "Tatar": [
+                    "йөз алтмыш биш",
+                    "йөз алтмыш бишле"
+                ],
+                "Bashkir": [
+                    "йөҙ алтмыш биш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bir yuz oltmish besh"
+                ],
+                "Uyghur": [
+                    "بىر يۈز ئاتمىش بەش"
+                ]
+            }
+        }
+    ]
+}

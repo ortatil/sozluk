@@ -1,0 +1,150 @@
+{
+    "id": "i23345",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "blanch",
+    "en_definition": "cook (vegetables) briefly",
+    "tr_word": "şoklamak",
+    "tr_definition": "Sebzeleri kısa bir süre kaynar suya batırıp ardından hemen soğuk suya alarak pişirmek.",
+    "ru_word": "бланшировать",
+    "ru_definition": "Кратковременная обработка продукта кипятком или паром.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qaynar suya salmaq"
+                ],
+                "Uzbek": [
+                    "qaynatib olmoq",
+                    "qaynoq suvga solib olmoq"
+                ],
+                "Uyghur": [
+                    "قايناتماق"
+                ],
+                "Kazakh": [
+                    "қайнаған суға батыру"
+                ],
+                "Karakalpak": [
+                    "qaynatıp alu"
+                ],
+                "Bashkir": [
+                    "ҡайнар һыуға һалыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çalaja gaýnatmak"
+                ],
+                "Uzbek": [
+                    "chala pishirmoq"
+                ],
+                "Kazakh": [
+                    "шала пісіру"
+                ],
+                "Kyrgyz": [
+                    "чала бышыруу"
+                ],
+                "Karakalpak": [
+                    "shala pіsіru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haşlamak"
+                ],
+                "Turkmen": [
+                    "haşlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şoklamak"
+                ],
+                "Uyghur": [
+                    "سۇغا بېسىپ ئالماق",
+                    "سۇغا بېسىش",
+                    "سۇغا بېسىپ چىقارماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шарпу"
+                ],
+                "Tatar": [
+                    "парлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұқтыру"
+                ],
+                "Kyrgyz": [
+                    "бууга кармоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ысык сууга салуу"
+                ],
+                "Karakalpak": [
+                    "ıstıq suǵa batıru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пешекләү",
+                    "пешереп алу"
+                ],
+                "Bashkir": [
+                    "бешереп алыу",
+                    "бешереп сығарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yarı pişirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pörtlətmək",
+                    "pörtmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "suwa basyp almak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "демдөө"
+                ]
+            }
+        }
+    ]
+}

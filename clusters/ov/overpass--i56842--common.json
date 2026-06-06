@@ -1,0 +1,132 @@
+{
+    "id": "i56842",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "overpass",
+    "en_definition": "bridge formed by the upper level of a crossing of two highways at different levels",
+    "tr_word": "üst geçit",
+    "tr_definition": "İki yolun farklı seviyelerde kesiştiği noktalarda, trafiğin üstten akmasını sağlayan köprü.",
+    "ru_word": "путепровод",
+    "ru_definition": "Мост, по которому одна дорога проходит над другой в разных уровнях.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "köprü"
+                ],
+                "Azerbaijani": [
+                    "körpü"
+                ],
+                "Turkmen": [
+                    "köpri"
+                ],
+                "Uzbek": [
+                    "ko'prik"
+                ],
+                "Uyghur": [
+                    "كۆۋرۈك"
+                ],
+                "Kazakh": [
+                    "көпір"
+                ],
+                "Kyrgyz": [
+                    "көпүрө"
+                ],
+                "Karakalpak": [
+                    "kópіr"
+                ],
+                "Tatar": [
+                    "күпер"
+                ],
+                "Bashkir": [
+                    "күпер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "estakada"
+                ],
+                "Turkmen": [
+                    "estakada"
+                ],
+                "Uzbek": [
+                    "estakada"
+                ],
+                "Uyghur": [
+                    "ئاسما كۆۋرۈك"
+                ],
+                "Kyrgyz": [
+                    "асма жол"
+                ],
+                "Tatar": [
+                    "асма юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üst geçit"
+                ],
+                "Azerbaijani": [
+                    "üstkeçid"
+                ],
+                "Uyghur": [
+                    "ئۈستى كۆۋرۈك"
+                ],
+                "Bashkir": [
+                    "өҫкө юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yo'lo'tkazgich"
+                ],
+                "Karakalpak": [
+                    "jol ótpesі"
+                ],
+                "Tatar": [
+                    "юлүткәргеч"
+                ],
+                "Bashkir": [
+                    "юл үткәргес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аспалы жол"
+                ],
+                "Karakalpak": [
+                    "aspalı jol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өткел"
+                ],
+                "Kyrgyz": [
+                    "өтмөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "geçelge"
+                ]
+            }
+        }
+    ]
+}

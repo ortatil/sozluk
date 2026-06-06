@@ -1,0 +1,123 @@
+{
+    "id": "i64567",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ingrown hair",
+    "en_definition": "a hair that does not emerge from the follicle but remains embedded in the skin (usually causing inflammation)",
+    "tr_word": "kıl dönmesi",
+    "tr_definition": "Kılın deri dışına çıkamayıp deri altında uzayarak iltihaplanmaya yol açması durumu.",
+    "ru_word": "вросший волос",
+    "ru_definition": "Волос, который не прорастает наружу, а остается под кожей, часто вызывая воспаление.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıl batması"
+                ],
+                "Azerbaijani": [
+                    "tük batması"
+                ],
+                "Turkmen": [
+                    "tüý batmagy",
+                    "tüý gaýrylmasy"
+                ],
+                "Uyghur": [
+                    "تۈك قاپسىلىپ قېلىش",
+                    "تۈك ياللۇغى"
+                ],
+                "Kazakh": [
+                    "түктің ішке өсуі"
+                ],
+                "Kyrgyz": [
+                    "түк эттин ичине өсүшү"
+                ],
+                "Karakalpak": [
+                    "túk qadalıoı",
+                    "túk kirioi",
+                    "túktiń ishke ósioi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ichga oʻsgan tuk"
+                ],
+                "Kazakh": [
+                    "ішке өскен түк"
+                ],
+                "Kyrgyz": [
+                    "ичкери өскөн түк"
+                ],
+                "Tatar": [
+                    "эчкә үскән чәч",
+                    "эчкә үскән төк"
+                ],
+                "Bashkir": [
+                    "эскә үҫкән төк",
+                    "эскә үҫкән сәс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тері астына өскен қыл"
+                ],
+                "Kyrgyz": [
+                    "териге баткан кыл"
+                ],
+                "Tatar": [
+                    "тире астына үскән чәч"
+                ],
+                "Bashkir": [
+                    "тире аҫтындағы төк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tüýüň içe ösmegi"
+                ],
+                "Uzbek": [
+                    "tuk kirishi"
+                ],
+                "Uyghur": [
+                    "تۈك ئىچىگە ئۆسۈش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kıl dönmesi"
+                ],
+                "Azerbaijani": [
+                    "tük dönməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "batık"
+                ],
+                "Azerbaijani": [
+                    "batıq tük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuk qayrilishi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "i41233",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "selling",
+    "en_definition": "the exchange of goods for an agreed sum of money",
+    "tr_word": "satış",
+    "tr_definition": "malların kararlaştırılan bir miktar para karşılığında el değiştirmesi",
+    "ru_word": "продажа",
+    "ru_definition": "обмен товаров на оговоренную сумму денег",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satış",
+                    "satım"
+                ],
+                "Azerbaijani": [
+                    "satış",
+                    "satqı"
+                ],
+                "Turkmen": [
+                    "satyş",
+                    "satyjylyk"
+                ],
+                "Uzbek": [
+                    "sotuv",
+                    "sotish"
+                ],
+                "Uyghur": [
+                    "سېتىش",
+                    "سېتىق"
+                ],
+                "Kazakh": [
+                    "сату"
+                ],
+                "Kyrgyz": [
+                    "сатуу",
+                    "сатык"
+                ],
+                "Karakalpak": [
+                    "satıo",
+                    "satıs"
+                ],
+                "Tatar": [
+                    "сату",
+                    "сату-алу"
+                ],
+                "Bashkir": [
+                    "һатыу",
+                    "һатыу-алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söwda"
+                ],
+                "Uzbek": [
+                    "savdo"
+                ],
+                "Uyghur": [
+                    "سودا"
+                ],
+                "Kazakh": [
+                    "сауда",
+                    "сауда-саттық"
+                ],
+                "Kyrgyz": [
+                    "соода"
+                ],
+                "Karakalpak": [
+                    "saoda"
+                ],
+                "Tatar": [
+                    "сәүдә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bey"
+                ],
+                "Uzbek": [
+                    "bay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ticarət"
+                ],
+                "Bashkir": [
+                    "тижәрәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pazarlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "alış-veriş"
+                ]
+            }
+        }
+    ]
+}

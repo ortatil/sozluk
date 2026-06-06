@@ -1,0 +1,123 @@
+{
+    "id": "i86211",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snowdrift",
+    "en_definition": "a mass of snow heaped up by the wind",
+    "tr_word": "kar yığını",
+    "tr_definition": "rüzgarın etkisiyle birikmiş büyük kar kütlesi",
+    "ru_word": "сугроб",
+    "ru_definition": "наметённая ветром большая куча снега",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar yığını",
+                    "kar yığıntısı"
+                ],
+                "Azerbaijani": [
+                    "qar yığını",
+                    "qar təpəsi",
+                    "qar kütləsi"
+                ],
+                "Turkmen": [
+                    "gar süýremi",
+                    "gar üýşmegi",
+                    "gar sülmügi",
+                    "gar sülmürdigi"
+                ],
+                "Uzbek": [
+                    "qor uyumi",
+                    "qor to'plami",
+                    "qor uyulmasi"
+                ],
+                "Uyghur": [
+                    "قار دۆۋىسى",
+                    "قار ئۇۋۇندىسى",
+                    "قار دۆۋە"
+                ],
+                "Karakalpak": [
+                    "qar kúrttigi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күртік"
+                ],
+                "Kyrgyz": [
+                    "күрткү",
+                    "күрткү кар"
+                ],
+                "Karakalpak": [
+                    "kúrttik"
+                ],
+                "Tatar": [
+                    "көрт",
+                    "көртлек",
+                    "көртмә"
+                ],
+                "Bashkir": [
+                    "көрт",
+                    "көртөк",
+                    "көртмә",
+                    "көртмәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ықпа"
+                ],
+                "Kyrgyz": [
+                    "ыктасын"
+                ],
+                "Karakalpak": [
+                    "ıqtasın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kar kümesi"
+                ],
+                "Azerbaijani": [
+                    "qar uçqunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uyum"
+                ],
+                "Kazakh": [
+                    "үйінді"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сырғыма"
+                ],
+                "Tatar": [
+                    "сырынты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kar savuruntusu"
+                ]
+            }
+        }
+    ]
+}

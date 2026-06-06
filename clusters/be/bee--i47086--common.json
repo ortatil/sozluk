@@ -1,0 +1,92 @@
+{
+    "id": "i47086",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bee",
+    "en_definition": "any of numerous hairy-bodied insects including social and solitary species",
+    "tr_word": "arı",
+    "tr_definition": "Zar kanatlılardan, bal ve balmumu yapan, iğnesiyle sokan böcek.",
+    "ru_word": "пчела",
+    "ru_definition": "Жалящее летающее насекомое, которое собирает нектар и пыльцу, производящее мёд.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bal arısı"
+                ],
+                "Azerbaijani": [
+                    "bal arısı"
+                ],
+                "Turkmen": [
+                    "balary"
+                ],
+                "Uzbek": [
+                    "bolari"
+                ],
+                "Kazakh": [
+                    "балара"
+                ],
+                "Kyrgyz": [
+                    "балкамыш"
+                ],
+                "Karakalpak": [
+                    "balara"
+                ],
+                "Tatar": [
+                    "бал корты"
+                ],
+                "Bashkir": [
+                    "бал ҡорто"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arı"
+                ],
+                "Azerbaijani": [
+                    "arı"
+                ],
+                "Turkmen": [
+                    "ary"
+                ],
+                "Uzbek": [
+                    "ari"
+                ],
+                "Kazakh": [
+                    "ара"
+                ],
+                "Kyrgyz": [
+                    "аары"
+                ],
+                "Karakalpak": [
+                    "ara"
+                ],
+                "Tatar": [
+                    "ары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "корт"
+                ],
+                "Bashkir": [
+                    "ҡорт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەرە",
+                    "ھەسەل ھەرىسى"
+                ]
+            }
+        }
+    ]
+}

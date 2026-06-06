@@ -1,0 +1,179 @@
+# Airsick
+| Field | Detail |
+|---|---|
+| **ID** | i14104 |
+| **English** | airsick |
+| **Type** | adjective |
+| **Definition** | experiencing motion sickness |
+| **Source** | common |
+| **Ortatil** | behäläwät |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| теңселу | teñselu |
+
+```json
+{
+    "id": "i14104",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "airsick",
+    "en_definition": "experiencing motion sickness",
+    "tr_word": "uçak tutmuş",
+    "tr_definition": "uçak yolculuğu sırasında oluşan sarsıntı nedeniyle mide bulantısı ve rahatsızlık hisseden",
+    "ru_word": "страдающий воздушной болезнью",
+    "ru_definition": "испытывающий тошноту и недомогание из-за укачивания во время полета на самолете",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baş dönmesi olan"
+                ],
+                "Turkmen": [
+                    "başy aýlanan"
+                ],
+                "Kazakh": [
+                    "басы айналу"
+                ],
+                "Kyrgyz": [
+                    "башы айланган"
+                ],
+                "Karakalpak": [
+                    "bası aylanǵan"
+                ],
+                "Tatar": [
+                    "баш әйләнү"
+                ],
+                "Bashkir": [
+                    "баш әйләнеү",
+                    "баш әйләнеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻngli aynigan",
+                    "koʻngli ozgan"
+                ],
+                "Uyghur": [
+                    "كۆڭلى ئېلىشىش"
+                ],
+                "Kyrgyz": [
+                    "көңүлү айланган"
+                ],
+                "Karakalpak": [
+                    "kóńili aynıǵan"
+                ],
+                "Tatar": [
+                    "күңел болгану",
+                    "күңел болганган"
+                ],
+                "Bashkir": [
+                    "күңел болғаныу",
+                    "күңел болғаныусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ürəkbulantısı"
+                ],
+                "Turkmen": [
+                    "ýüregi bulanan"
+                ],
+                "Kazakh": [
+                    "жүрегі айну"
+                ],
+                "Karakalpak": [
+                    "júregi aynıǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uçak tutmuş"
+                ],
+                "Kazakh": [
+                    "ұшақ айну"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "halsız"
+                ],
+                "Turkmen": [
+                    "halys bolan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кускусу келген"
+                ],
+                "Tatar": [
+                    "косасы килү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "midesi bulanmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "narahat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "behalovat",
+                    "behol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئايروپىلان تۇتۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھاۋا تۇتۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "теңселу"
+                ]
+            }
+        }
+    ]
+}
+```
+

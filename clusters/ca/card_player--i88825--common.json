@@ -1,0 +1,98 @@
+{
+    "id": "i88825",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "card player",
+    "en_definition": "someone who plays (or knows how to play) card games",
+    "tr_word": "kağıt oyuncusu",
+    "tr_definition": "iskambil oyunları oynayan veya oynamayı bilen kimse",
+    "ru_word": "карточный игрок",
+    "ru_definition": "человек, который играет (или умеет играть) в карточные игры",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qumarbaz"
+                ],
+                "Uyghur": [
+                    "قارتىباز",
+                    "قارتىچى"
+                ],
+                "Kazakh": [
+                    "қарташы"
+                ],
+                "Kyrgyz": [
+                    "картачы"
+                ],
+                "Karakalpak": [
+                    "qartapaz",
+                    "qartashı"
+                ],
+                "Tatar": [
+                    "кәртче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyuncu"
+                ],
+                "Azerbaijani": [
+                    "oyunçu"
+                ],
+                "Turkmen": [
+                    "oýunçy"
+                ],
+                "Uzbek": [
+                    "o'yinchi"
+                ],
+                "Kazakh": [
+                    "ойыншы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kağıt oyuncusu"
+                ],
+                "Kyrgyz": [
+                    "карта оюнчусу"
+                ],
+                "Tatar": [
+                    "кәрт уйнаучы"
+                ],
+                "Bashkir": [
+                    "кәртсе",
+                    "кәрт уйнаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kartbaz"
+                ],
+                "Turkmen": [
+                    "kartaçy"
+                ],
+                "Uzbek": [
+                    "qartaboz",
+                    "qartachi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iskambilci"
+                ]
+            }
+        }
+    ]
+}

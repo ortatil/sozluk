@@ -1,0 +1,96 @@
+{
+    "id": "i23944",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "melt",
+    "en_definition": "reduce or cause to be reduced from a solid to a liquid state, usually by heating",
+    "tr_word": "erimek",
+    "tr_definition": "Isı etkisiyle katı halden sıvı hale geçmek.",
+    "ru_word": "плавиться",
+    "ru_definition": "Переходить из твердого состояния в жидкое под воздействием тепла.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "erimek",
+                    "eritmek"
+                ],
+                "Azerbaijani": [
+                    "ərimək",
+                    "əritmək"
+                ],
+                "Turkmen": [
+                    "eremek",
+                    "eritmek"
+                ],
+                "Uzbek": [
+                    "erimoq",
+                    "eritmoq"
+                ],
+                "Uyghur": [
+                    "ئېرىمەك",
+                    "ئېرىتمەك"
+                ],
+                "Kazakh": [
+                    "еріту"
+                ],
+                "Kyrgyz": [
+                    "эрүү",
+                    "эриткич",
+                    "эри"
+                ],
+                "Tatar": [
+                    "эрергә",
+                    "эретү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yumşalmaq"
+                ],
+                "Tatar": [
+                    "йошарга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еру"
+                ],
+                "Karakalpak": [
+                    "erio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "балқу",
+                    "балқыту"
+                ],
+                "Karakalpak": [
+                    "balqıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "иреү",
+                    "иретеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡойоу"
+                ]
+            }
+        }
+    ]
+}

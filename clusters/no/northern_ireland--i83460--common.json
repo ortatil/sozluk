@@ -1,0 +1,73 @@
+{
+    "id": "i83460",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "northern ireland",
+    "en_definition": "a division of the United Kingdom located on the northern part of the island of Ireland",
+    "tr_word": "Kuzey İrlanda",
+    "tr_definition": "Birleşik Krallık'ın İrlanda adasının kuzey kesiminde yer alan bir bölümü",
+    "ru_word": "Северная Ирландия",
+    "ru_definition": "часть Соединенного Королевства, расположенная в северной части острова Ирландия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "Түндүк Ирландия"
+                ],
+                "Karakalpak": [
+                    "Túndúk Irlandiya"
+                ],
+                "Tatar": [
+                    "Төньяк Ирландия"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Ирландия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimali İrlandiya"
+                ],
+                "Uzbek": [
+                    "Shimoliy Irlandiya"
+                ],
+                "Uyghur": [
+                    "شىمالىي ئىرېلاندىيە",
+                    "شىمالىي ئىرېلاندىيە رايونى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kuzey İrlanda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk Irlandiýa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Солтүстік Ирландия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Arqa Irlandiya"
+                ]
+            }
+        }
+    ]
+}

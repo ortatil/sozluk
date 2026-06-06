@@ -1,0 +1,113 @@
+{
+    "id": "i112232",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chest pain",
+    "en_definition": "pain in the chest",
+    "tr_word": "göğüs ağrısı",
+    "tr_definition": "göğüs bölgesinde hissedilen ağrı",
+    "ru_word": "боль в груди",
+    "ru_definition": "болевые ощущения в области грудной клетки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göğüs ağrısı",
+                    "göğüs sızısı"
+                ],
+                "Azerbaijani": [
+                    "köks ağrısı"
+                ],
+                "Turkmen": [
+                    "göwüs agyrysy"
+                ],
+                "Kyrgyz": [
+                    "көкүрөк оорусу"
+                ],
+                "Tatar": [
+                    "күкрәк авыртуы",
+                    "күкрәк сызлавы"
+                ],
+                "Bashkir": [
+                    "күкрәк ауыртыуы",
+                    "күкрәк һыҙлауы",
+                    "күкрәк сәнсеүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ko'krak og'rig'i",
+                    "ko'krak qafasidagi og'riq"
+                ],
+                "Uyghur": [
+                    "كۆكرەك ئاغرىقى",
+                    "كۆكرەك سانجىقى"
+                ],
+                "Kazakh": [
+                    "көкірек ауруы"
+                ],
+                "Karakalpak": [
+                    "kókirek aoırıoı",
+                    "kókirek sırqatı",
+                    "kókirek shanshıoı"
+                ],
+                "Tatar": [
+                    "күкрәк чәнчүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "döş ağrısı"
+                ],
+                "Turkmen": [
+                    "döş agyrysy"
+                ],
+                "Kyrgyz": [
+                    "төш оорусу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sine ağrısı"
+                ],
+                "Azerbaijani": [
+                    "sinə ağrısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bag'ir og'rig'i"
+                ],
+                "Uyghur": [
+                    "باغىر ئاغرىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýürek agyrysy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кеуде ауруы",
+                    "кеуде тұсының ауырсынуы"
+                ]
+            }
+        }
+    ]
+}

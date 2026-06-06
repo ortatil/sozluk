@@ -1,0 +1,158 @@
+{
+    "id": "i33072",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "spend",
+    "en_definition": "pay out",
+    "tr_word": "harcamak",
+    "tr_definition": "Bir mal, hizmet veya ihtiyaç karşılığında para vermek",
+    "ru_word": "тратить",
+    "ru_definition": "расходовать деньги на покупку чего-либо или оплату услуг",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarf etmek"
+                ],
+                "Azerbaijani": [
+                    "sərf etmək"
+                ],
+                "Turkmen": [
+                    "sarp etmek"
+                ],
+                "Uzbek": [
+                    "sarflamoq"
+                ],
+                "Uyghur": [
+                    "سەرپ قىلماق"
+                ],
+                "Kazakh": [
+                    "сарп ету"
+                ],
+                "Kyrgyz": [
+                    "сарптоо"
+                ],
+                "Karakalpak": [
+                    "sarp etiu"
+                ],
+                "Tatar": [
+                    "сарыф итү"
+                ],
+                "Bashkir": [
+                    "сарыф итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harcamak"
+                ],
+                "Azerbaijani": [
+                    "xərcləmək",
+                    "xərc çəkmək"
+                ],
+                "Turkmen": [
+                    "harçlamak"
+                ],
+                "Uzbek": [
+                    "xarjlamoq"
+                ],
+                "Uyghur": [
+                    "خەجلىمەك"
+                ],
+                "Tatar": [
+                    "харҗлау"
+                ],
+                "Bashkir": [
+                    "харслау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çykdajy etmek"
+                ],
+                "Kazakh": [
+                    "шығындау"
+                ],
+                "Kyrgyz": [
+                    "чыгаша кылуу"
+                ],
+                "Karakalpak": [
+                    "shıǵın etiu"
+                ],
+                "Tatar": [
+                    "чыгару"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жұмсау"
+                ],
+                "Kyrgyz": [
+                    "жұмсау"
+                ],
+                "Karakalpak": [
+                    "jұmsau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆلىمەك"
+                ],
+                "Kazakh": [
+                    "төлеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тоту"
+                ],
+                "Bashkir": [
+                    "тотоноу",
+                    "тотоу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tüketmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ödəmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ishlatmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коротуу"
+                ]
+            }
+        }
+    ]
+}

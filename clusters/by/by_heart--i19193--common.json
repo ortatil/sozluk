@@ -1,0 +1,127 @@
+{
+    "id": "i19193",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "by heart",
+    "en_definition": "by committing to memory",
+    "tr_word": "ezbere",
+    "tr_definition": "bir şeyi hafızaya alarak, kitaba veya notlara bakmadan",
+    "ru_word": "наизусть",
+    "ru_definition": "не глядя в текст, по памяти",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yadigar",
+                    "yaddaşla"
+                ],
+                "Turkmen": [
+                    "ýatdan"
+                ],
+                "Uzbek": [
+                    "yoddan",
+                    "yod"
+                ],
+                "Uyghur": [
+                    "يادقا",
+                    "يادلىۋېلىپ"
+                ],
+                "Kazakh": [
+                    "жатқа"
+                ],
+                "Kyrgyz": [
+                    "жат",
+                    "жаттан",
+                    "жаттап",
+                    "жат билүү"
+                ],
+                "Karakalpak": [
+                    "jatqa",
+                    "jadında"
+                ],
+                "Tatar": [
+                    "яттан"
+                ],
+                "Bashkir": [
+                    "яттан",
+                    "ятлап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ezbere",
+                    "ezberden"
+                ],
+                "Azerbaijani": [
+                    "əzbər",
+                    "əzbərdən"
+                ],
+                "Turkmen": [
+                    "ezberden"
+                ],
+                "Uzbek": [
+                    "ezgu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xotiradan"
+                ],
+                "Tatar": [
+                    "хәтердән"
+                ],
+                "Bashkir": [
+                    "хәтерҙән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېسىدە تۇتۇپ"
+                ],
+                "Kazakh": [
+                    "есте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көкіректе"
+                ],
+                "Karakalpak": [
+                    "kókіregіnde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zihinden"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hafızadan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күңелдән"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "id": "i7885",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "abbreviated",
+    "en_definition": "cut short in duration",
+    "tr_word": "kısaltılmış",
+    "tr_definition": "süresi veya uzunluğu azaltılmış, kısa kesilmiş",
+    "ru_word": "сокращённый",
+    "ru_definition": "уменьшенный по продолжительности или объему",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısa",
+                    "kısaltılmış"
+                ],
+                "Azerbaijani": [
+                    "qısa",
+                    "qısaldılmış"
+                ],
+                "Turkmen": [
+                    "gysgaldylan",
+                    "gysga"
+                ],
+                "Uzbek": [
+                    "qisqartirilgan",
+                    "qisqa"
+                ],
+                "Uyghur": [
+                    "قىسقارتىلغان",
+                    "قىسقا"
+                ],
+                "Kazakh": [
+                    "қысқартылған",
+                    "қысқа",
+                    "кесілген"
+                ],
+                "Kyrgyz": [
+                    "кыскартылган",
+                    "кыска",
+                    "кыскача"
+                ],
+                "Karakalpak": [
+                    "qısqartılǵan",
+                    "qısqa"
+                ],
+                "Tatar": [
+                    "кыскартылган",
+                    "кыска"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡартылған",
+                    "ҡыҫҡа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhtasar"
+                ],
+                "Azerbaijani": [
+                    "müxtəsər"
+                ],
+                "Turkmen": [
+                    "muhtasar"
+                ],
+                "Uzbek": [
+                    "muxtasar"
+                ],
+                "Uyghur": [
+                    "مۇختەسەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөҗәз"
+                ],
+                "Bashkir": [
+                    "мөжәз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtisar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lo'nda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұйықталған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ıqshamlanǵan"
+                ]
+            }
+        }
+    ]
+}

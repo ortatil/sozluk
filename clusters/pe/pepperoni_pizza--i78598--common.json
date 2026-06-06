@@ -1,0 +1,94 @@
+{
+    "id": "i78598",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pepperoni pizza",
+    "en_definition": "tomato and cheese pizza with pepperoni",
+    "tr_word": "pepperonili pizza",
+    "tr_definition": "üzerinde pepperoni dilimleri bulunan domatesli ve peynirli pizza",
+    "ru_word": "пицца пепперони",
+    "ru_definition": "пицца с томатным соусом, сыром и ломтиками острой колбасы пепперони",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kolbasalı pitsa"
+                ],
+                "Uyghur": [
+                    "پېپپېرونى پىتساسى"
+                ],
+                "Kazakh": [
+                    "пепперони пиццасы"
+                ],
+                "Kyrgyz": [
+                    "пепперони пиццасы"
+                ],
+                "Karakalpak": [
+                    "pepperoni piccası"
+                ],
+                "Tatar": [
+                    "пепперони пиццасы",
+                    "ачы колбасалы пицца"
+                ],
+                "Bashkir": [
+                    "пепперони пиццаһы",
+                    "асы тәмле колбасалы пицца"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "peperonili pitsa"
+                ],
+                "Kazakh": [
+                    "ащы шұжықты пицца"
+                ],
+                "Kyrgyz": [
+                    "ачуу колбасалуу пицца"
+                ],
+                "Karakalpak": [
+                    "ashchı shұjıqlı picca"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sucuklu pizza",
+                    "baharatlı sucuklu pizza"
+                ],
+                "Azerbaijani": [
+                    "sucuklu pitsa"
+                ],
+                "Kazakh": [
+                    "шұжықты пицца"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ajy kolbasaly pitsa"
+                ],
+                "Uzbek": [
+                    "achchiq kolbasali pitsa"
+                ],
+                "Uyghur": [
+                    "ئاچچىق كالباسلىق پىتسا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qalampirli pitsa"
+                ]
+            }
+        }
+    ]
+}

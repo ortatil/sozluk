@@ -1,0 +1,97 @@
+{
+    "id": "i77824",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cherry",
+    "en_definition": "a red fruit with a single hard stone",
+    "tr_word": "kiraz",
+    "tr_definition": "tek bir sert çekirdeği olan kırmızı meyve",
+    "ru_word": "вишня",
+    "ru_definition": "красный плод с одной твердой косточкой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "albalı"
+                ],
+                "Turkmen": [
+                    "alça"
+                ],
+                "Uyghur": [
+                    "ئالبالى"
+                ],
+                "Kazakh": [
+                    "алша"
+                ],
+                "Kyrgyz": [
+                    "алча"
+                ],
+                "Tatar": [
+                    "ал чия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kiraz"
+                ],
+                "Azerbaijani": [
+                    "gilas"
+                ],
+                "Uzbek": [
+                    "gilos"
+                ],
+                "Uyghur": [
+                    "گىلاس"
+                ],
+                "Karakalpak": [
+                    "gilas"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шие"
+                ],
+                "Kyrgyz": [
+                    "чийе"
+                ],
+                "Karakalpak": [
+                    "shie"
+                ],
+                "Tatar": [
+                    "чия"
+                ],
+                "Bashkir": [
+                    "сейә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vişne"
+                ],
+                "Turkmen": [
+                    "wişne"
+                ],
+                "Bashkir": [
+                    "вишнә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "olcha"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "id": "i74487",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "test paper",
+    "en_definition": "a written examination",
+    "tr_word": "sınav kağıdı",
+    "tr_definition": "yazılı bir sınav",
+    "ru_word": "экзаменационная работа",
+    "ru_definition": "письменный экзамен",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınav kağıdı"
+                ],
+                "Turkmen": [
+                    "synag"
+                ],
+                "Uzbek": [
+                    "sinov varog'i"
+                ],
+                "Uyghur": [
+                    "سىناق قەغىزى"
+                ],
+                "Kazakh": [
+                    "сынақ парағы"
+                ],
+                "Kyrgyz": [
+                    "сынак"
+                ],
+                "Karakalpak": [
+                    "sınaq jұmısı"
+                ],
+                "Tatar": [
+                    "сынау кәгазе",
+                    "сынау билеты"
+                ],
+                "Bashkir": [
+                    "һынау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "imtihan kağıdı"
+                ],
+                "Azerbaijani": [
+                    "imtahan kağızı"
+                ],
+                "Turkmen": [
+                    "imtahan"
+                ],
+                "Uzbek": [
+                    "imtihon varog'i"
+                ],
+                "Uyghur": [
+                    "ئىمتىھان قەغىزى"
+                ],
+                "Kazakh": [
+                    "емтихан парағы"
+                ],
+                "Karakalpak": [
+                    "imtixan qaǵazı"
+                ],
+                "Tatar": [
+                    "имтихан кәгазе"
+                ],
+                "Bashkir": [
+                    "имтихан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soru kağıdı"
+                ],
+                "Azerbaijani": [
+                    "sorğu vərəqi"
+                ],
+                "Turkmen": [
+                    "soragnama"
+                ],
+                "Kyrgyz": [
+                    "суроо-жооп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бақылау жұмысы"
+                ],
+                "Karakalpak": [
+                    "baqılau jұmısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "текшерүү"
+                ],
+                "Bashkir": [
+                    "тикшереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "test vərəqi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "savolnoma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سوئال قەغىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тапшырма"
+                ]
+            }
+        }
+    ]
+}

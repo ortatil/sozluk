@@ -1,0 +1,75 @@
+{
+    "id": "i16126",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "umbilical",
+    "en_definition": "relating to or resembling the umbilicus",
+    "tr_word": "göbekle ilgili",
+    "tr_definition": "göbek kordonu veya göbek ile ilgili olan",
+    "ru_word": "пупочный",
+    "ru_definition": "относящийся к пупку или пуповине",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kindik",
+                    "kindikka oid",
+                    "kindiksimon"
+                ],
+                "Uyghur": [
+                    "كىندىككە ئائىت",
+                    "كىندىك"
+                ],
+                "Kazakh": [
+                    "кіндік",
+                    "кіндікке қатысты"
+                ],
+                "Kyrgyz": [
+                    "киндик",
+                    "киндикке тиешелүү"
+                ],
+                "Karakalpak": [
+                    "kіndіk",
+                    "kіndіkke baylanıslı"
+                ],
+                "Tatar": [
+                    "кендек",
+                    "кендеккә караган"
+                ],
+                "Bashkir": [
+                    "кендек",
+                    "кендеккә бәйле",
+                    "кендек һымаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göbekle ilgili",
+                    "göbeksel"
+                ],
+                "Azerbaijani": [
+                    "göbək",
+                    "göbəyə aid"
+                ],
+                "Turkmen": [
+                    "göbek",
+                    "göbege degişli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "surrevi"
+                ],
+                "Azerbaijani": [
+                    "surrə"
+                ]
+            }
+        }
+    ]
+}

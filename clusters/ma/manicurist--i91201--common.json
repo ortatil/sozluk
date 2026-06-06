@@ -1,0 +1,82 @@
+{
+    "id": "i91201",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "manicurist",
+    "en_definition": "a beautician who cleans and trims and polishes the fingernails",
+    "tr_word": "manikürcü",
+    "tr_definition": "el tırnaklarını temizleyen, düzelten ve cilalayan güzellik uzmanı",
+    "ru_word": "маникюрша",
+    "ru_definition": "специалист по уходу за ногтями на руках, их очистке, подстриганию и полировке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tırnak bakımcısı"
+                ],
+                "Azerbaijani": [
+                    "dırnaq ustası"
+                ],
+                "Turkmen": [
+                    "dyrnakçy",
+                    "dyrnak ussasy"
+                ],
+                "Uzbek": [
+                    "tirnoq ustasi",
+                    "tirnoq pardozchisi",
+                    "tirnoq bo'yovchi"
+                ],
+                "Uyghur": [
+                    "تىرناقچى",
+                    "تىرناق گۈزەللەشتۈرگۈچى",
+                    "تىرناق تۈزەتكۈچى"
+                ],
+                "Kazakh": [
+                    "тырнақшы",
+                    "тырнақ шебері"
+                ],
+                "Kyrgyz": [
+                    "тырмакчы",
+                    "тырмак адиси"
+                ],
+                "Karakalpak": [
+                    "tırnaqshı",
+                    "tırnaq baptaushı"
+                ],
+                "Tatar": [
+                    "тырнаҡ белгесе",
+                    "тырнаҡ остаһы"
+                ],
+                "Bashkir": [
+                    "тырнаҡ оҫтаһы",
+                    "тырнаҡ ҡараусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "manikürcü"
+                ],
+                "Azerbaijani": [
+                    "manikürçü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güzellik uzmanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сәнгер"
+                ]
+            }
+        }
+    ]
+}

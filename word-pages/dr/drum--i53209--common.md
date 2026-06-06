@@ -1,0 +1,225 @@
+# Drum
+| Field | Detail |
+|---|---|
+| **ID** | i53209 |
+| **English** | drum |
+| **Type** | noun |
+| **Definition** | a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end |
+| **Source** | common |
+| **Ortatil** | nağara, dawıl, täfki |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **nağara** | **dawıl** | **täfki** | **baraban** |
+|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ❌ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ | ❌ |
+| Kazakh | ❌ | ✅ | ❌ | ✅ |
+| Kyrgyz | ✅ | ✅ | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ | ❌ | ✅ |
+| Tatar | ❌ | ✅ | ❌ | ✅ |
+| Bashkir | ✅ | ✅ | ❌ | ✅ |
+| *Oghuz Subtotal* | 1 | 0.33 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 1 | 0.20 | 1 |
+| *In All* | ✅ | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |
+| **O'TQ** | **3.60** | **2.83** | **2.70** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ناغرا | nağra |
+| داپ | dap |
+| دۇمباق | dumbaq |
+| **Kazakh** | |
+| дабыл | dabıl |
+| дауылпаз | dauılpaz |
+| барабан | baraban |
+| кебіршік | kebirşik |
+| **Kyrgyz** | |
+| нагыра | nagıra |
+| добулбас | dobulbas |
+| дап | dap |
+| барабан | baraban |
+| **Tatar** | |
+| дабыл | dabıl |
+| барабан | baraban |
+| төбәк | töbäk |
+| дөңгер | döñger |
+| **Bashkir** | |
+| нағар | nağar |
+| дабыл | dabıl |
+| бәрәбән | bäräbän |
+
+```json
+{
+    "id": "i53209",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "drum",
+    "en_definition": "a musical percussion instrument; usually consists of a hollow cylinder with a membrane stretched across each end",
+    "tr_word": "davul",
+    "tr_definition": "Genellikle silindir şeklinde bir gövdenin bir veya iki ucuna gerilmiş deri veya sentetik malzemeden oluşan, elle veya sopayla vurularak çalınan vurmalı çalgı.",
+    "ru_word": "барабан",
+    "ru_definition": "Ударный музыкальный инструмент, состоящий из полого цилиндрического корпуса, на который с одной или двух сторон натянута кожа или мембрана.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nakkare"
+                ],
+                "Azerbaijani": [
+                    "nağara"
+                ],
+                "Turkmen": [
+                    "nagara"
+                ],
+                "Uzbek": [
+                    "nogʻora"
+                ],
+                "Uyghur": [
+                    "ناغرا"
+                ],
+                "Kyrgyz": [
+                    "нагыра"
+                ],
+                "Karakalpak": [
+                    "naǵıra"
+                ],
+                "Bashkir": [
+                    "нағар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "davul"
+                ],
+                "Uzbek": [
+                    "dovul",
+                    "doyra"
+                ],
+                "Kazakh": [
+                    "дабыл",
+                    "дауылпаз"
+                ],
+                "Kyrgyz": [
+                    "добулбас"
+                ],
+                "Karakalpak": [
+                    "dabıl"
+                ],
+                "Tatar": [
+                    "дабыл"
+                ],
+                "Bashkir": [
+                    "дабыл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tef"
+                ],
+                "Azerbaijani": [
+                    "təbil",
+                    "dəf"
+                ],
+                "Turkmen": [
+                    "dep",
+                    "dap",
+                    "deprek"
+                ],
+                "Uyghur": [
+                    "داپ"
+                ],
+                "Kyrgyz": [
+                    "дап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "барабан"
+                ],
+                "Kyrgyz": [
+                    "барабан"
+                ],
+                "Karakalpak": [
+                    "baraban"
+                ],
+                "Tatar": [
+                    "барабан"
+                ],
+                "Bashkir": [
+                    "бәрәбән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dümbelek"
+                ],
+                "Uyghur": [
+                    "دۇمباق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kös"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qumrov"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "childirma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кебіршік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төбәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дөңгер"
+                ]
+            }
+        }
+    ]
+}
+```
+

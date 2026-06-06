@@ -1,0 +1,84 @@
+{
+    "id": "i77100",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "meat",
+    "en_definition": "the flesh of animals (including fishes and birds and snails) used as food",
+    "tr_word": "et",
+    "tr_definition": "Hayvanlardan elde edilen ve gıda olarak tüketilen kas dokusu.",
+    "ru_word": "мясо",
+    "ru_definition": "Туша или часть туши убитого животного, употребляемая в пищу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "et"
+                ],
+                "Azerbaijani": [
+                    "ət"
+                ],
+                "Turkmen": [
+                    "et"
+                ],
+                "Kazakh": [
+                    "ет"
+                ],
+                "Kyrgyz": [
+                    "эт"
+                ],
+                "Karakalpak": [
+                    "et"
+                ],
+                "Tatar": [
+                    "ит"
+                ],
+                "Bashkir": [
+                    "ит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşt"
+                ],
+                "Uzbek": [
+                    "go'sht"
+                ],
+                "Uyghur": [
+                    "گۆش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lahim"
+                ],
+                "Azerbaijani": [
+                    "lahm"
+                ],
+                "Uzbek": [
+                    "lahm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ten"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ит-ярма"
+                ]
+            }
+        }
+    ]
+}

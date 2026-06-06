@@ -1,0 +1,149 @@
+# Fatal accident
+| Field | Detail |
+|---|---|
+| **ID** | i75378 |
+| **English** | fatal accident |
+| **Type** | noun |
+| **Definition** | an accident that causes someone to die |
+| **Source** | common |
+| **Ortatil** | apat |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i75378",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fatal accident",
+    "en_definition": "an accident that causes someone to die",
+    "tr_word": "ölümlü kaza",
+    "tr_definition": "birinin ölümüyle sonuçlanan kaza",
+    "ru_word": "несчастный случай со смертельным исходом",
+    "ru_definition": "происшествие, приведшее к гибели человека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ölümlü kaza",
+                    "ölümcül kaza"
+                ],
+                "Azerbaijani": [
+                    "ölümlü qəza",
+                    "ölümlü hadisə"
+                ],
+                "Turkmen": [
+                    "ölümli heläkçilik",
+                    "ölümli waka"
+                ],
+                "Uzbek": [
+                    "o'limli hodisa",
+                    "o'lim bilan tugagan falokat"
+                ],
+                "Uyghur": [
+                    "ئۆلۈم خاراكتېرلىك ۋەقە",
+                    "ئۆلۈم كېلىپ چىققان ۋەقە",
+                    "ئۆلۈملۈك ۋەقە"
+                ],
+                "Kazakh": [
+                    "өлімшіл оқиға"
+                ],
+                "Kyrgyz": [
+                    "өлүмгө алып келген кырсык",
+                    "өлүм менен аяктаган кырсык"
+                ],
+                "Karakalpak": [
+                    "ólimli hádiyse"
+                ],
+                "Tatar": [
+                    "үлемле каза",
+                    "үлемле һәлакәт"
+                ],
+                "Bashkir": [
+                    "үлемле фажиғә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "feci kaza"
+                ],
+                "Azerbaijani": [
+                    "faciəvi qəza"
+                ],
+                "Turkmen": [
+                    "pajygaly hadysa"
+                ],
+                "Uzbek": [
+                    "fajiali hodisa"
+                ],
+                "Tatar": [
+                    "фаҗигале хәл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "апатты жағдай"
+                ],
+                "Karakalpak": [
+                    "apat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аянычлы каза"
+                ],
+                "Bashkir": [
+                    "аяныслы хәл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "halokatli voqea"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ажалды оқиға",
+                    "қазалы оқиға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ажалдуу кырсык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qaza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәтәр ҡаза"
+                ]
+            }
+        }
+    ]
+}
+```
+

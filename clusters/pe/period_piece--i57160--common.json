@@ -1,0 +1,124 @@
+{
+    "id": "i57160",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "period piece",
+    "en_definition": "any work of art whose special value lies in its evocation of a historical period",
+    "tr_word": "dönem eseri",
+    "tr_definition": "Özel değeri tarihsel bir dönemi canlandırmasından kaynaklanan sanat eseri.",
+    "ru_word": "историческое произведение",
+    "ru_definition": "Любое произведение искусства, особая ценность которого заключается в воссоздании определенной исторической эпохи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarihî eser"
+                ],
+                "Azerbaijani": [
+                    "tarixi əsər",
+                    "tarixi dram"
+                ],
+                "Turkmen": [
+                    "taryhy eser",
+                    "taryhy ýadygärlik"
+                ],
+                "Uzbek": [
+                    "tarixiy asar",
+                    "tarixiy mavzudagi asar"
+                ],
+                "Uyghur": [
+                    "تارىخىي ئەسەر",
+                    "تارىخىي تېمىدىكى ئەسەر",
+                    "تارىخىي يادىكارلىق"
+                ],
+                "Kazakh": [
+                    "тарихи туынды",
+                    "тарихи шығарма"
+                ],
+                "Kyrgyz": [
+                    "тарыхый чыгарма",
+                    "тарыхый баян"
+                ],
+                "Karakalpak": [
+                    "tarıxıy shıǵarma",
+                    "tarıxıy miynet"
+                ],
+                "Tatar": [
+                    "тарихи әсәр",
+                    "тарихи ядкәр"
+                ],
+                "Bashkir": [
+                    "тарихи әҫәр",
+                    "тарихи яҙма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "devir eseri"
+                ],
+                "Karakalpak": [
+                    "dáoirlik shıǵarma"
+                ],
+                "Bashkir": [
+                    "дәүер әҫәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dönem eseri"
+                ],
+                "Azerbaijani": [
+                    "dövr əsəri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gadymyýet eseri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'tmish tasviri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәуірлік туынды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көне заман туындысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өткөн заман чыгармасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "заман әсәре"
+                ]
+            }
+        }
+    ]
+}

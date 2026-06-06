@@ -1,0 +1,119 @@
+{
+    "id": "i77066",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "broiler",
+    "en_definition": "flesh of a small young chicken not over 2 1/2 lb suitable for broiling",
+    "tr_word": "piliç",
+    "tr_definition": "Izgara yapılmaya uygun, yaklaşık 1-1.2 kg ağırlığında genç ve taze tavuk eti.",
+    "ru_word": "бройлер",
+    "ru_definition": "Мясо молодого цыпленка весом до 1,1 кг, специально выращенного для быстрого приготовления, в частности для жарки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cücə"
+                ],
+                "Turkmen": [
+                    "jüýje",
+                    "jüýje eti"
+                ],
+                "Uzbek": [
+                    "jo'ja",
+                    "jo'ja go'shti"
+                ],
+                "Uyghur": [
+                    "چۆجە گۆشى",
+                    "جۈجە گۆشى"
+                ],
+                "Kazakh": [
+                    "шөже"
+                ],
+                "Kyrgyz": [
+                    "жөжө",
+                    "жөжө эти"
+                ],
+                "Karakalpak": [
+                    "jójó"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "piliç"
+                ],
+                "Kazakh": [
+                    "балапан",
+                    "балапан еті"
+                ],
+                "Kyrgyz": [
+                    "балапан"
+                ],
+                "Karakalpak": [
+                    "balapan",
+                    "balapan góshi"
+                ],
+                "Tatar": [
+                    "бала тавык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ferik"
+                ],
+                "Azerbaijani": [
+                    "fərə",
+                    "beçə"
+                ],
+                "Turkmen": [
+                    "beççe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чебеш",
+                    "чебеш ите"
+                ],
+                "Bashkir": [
+                    "себеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taze tavuk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "parranda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياش توخۇ گۆشى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тауыҡ ите"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,291 @@
+# All-time
+| Field | Detail |
+|---|---|
+| **ID** | i2843 |
+| **English** | all-time |
+| **Type** | adjective |
+| **Definition** | unsurpassed in some respect up to the present |
+| **Source** | common |
+| **Ortatil** | teñdessiz |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **teñdessiz** | **mäñgeläk** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ❌ | ❌ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 0 | 0 |
+| *Qarluq Subtotal* | 0 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.60 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **1** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تارىختىكى | tarixtiki |
+| مۇتلەق | mutläq |
+| تەڭداشسىز | täñdaşsiz |
+| **Kazakh** | |
+| теңдессіз | teñdessiz |
+| мәңгілік | mäñgilik |
+| айнымас | aynımas |
+| **Kyrgyz** | |
+| теңдешсиз | teñdeşsiz |
+| **Tatar** | |
+| тиңдәшсез | tiñdäşsez |
+| мәңгелек | mäñgelek |
+| **Bashkir** | |
+| тиңһеҙ | tiñhez |
+| мәңгелек | mäñgelek |
+| быуаттарҙағы | bıuattarzağı |
+
+```json
+{
+    "id": "i2843",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "all-time",
+    "en_definition": "unsurpassed in some respect up to the present",
+    "tr_word": "tüm zamanların",
+    "tr_definition": "şimdiye kadar olanların en iyisi veya en büyüğü; rekor kıran",
+    "ru_word": "всех времён",
+    "ru_definition": "превосходящий всё, что было до настоящего момента; непревзойденный",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "her devrin"
+                ],
+                "Kazakh": [
+                    "теңдессіз"
+                ],
+                "Kyrgyz": [
+                    "теңдешсиз"
+                ],
+                "Karakalpak": [
+                    "teńdessiz"
+                ],
+                "Tatar": [
+                    "тиңдәшсез"
+                ],
+                "Bashkir": [
+                    "тиңһеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "en büyük"
+                ],
+                "Turkmen": [
+                    "iň beýik"
+                ],
+                "Kyrgyz": [
+                    "эң мыкты",
+                    "эң жогорку"
+                ],
+                "Karakalpak": [
+                    "eń jaqsı"
+                ],
+                "Tatar": [
+                    "иң бөек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həmişəlik"
+                ],
+                "Turkmen": [
+                    "hemmisindäki"
+                ],
+                "Uzbek": [
+                    "hamma vaqtdagi"
+                ],
+                "Uyghur": [
+                    "ھەممە ۋاقىتتىكى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bütün zamanların"
+                ],
+                "Kazakh": [
+                    "бүкіл заманғы"
+                ],
+                "Tatar": [
+                    "бөтен заманнардагы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "barcha zamonlardagi"
+                ],
+                "Kyrgyz": [
+                    "баардык мезгилдеги"
+                ],
+                "Karakalpak": [
+                    "bárshe dáoirdegi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мәңгілік"
+                ],
+                "Tatar": [
+                    "мәңгелек"
+                ],
+                "Bashkir": [
+                    "мәңгелек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tarixiy"
+                ],
+                "Uyghur": [
+                    "تارىختىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mislsiz"
+                ],
+                "Karakalpak": [
+                    "mislisiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bevaqt"
+                ],
+                "Bashkir": [
+                    "быуаттарҙағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tüm zamanların"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gelmiş geçmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "daimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əbədi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ähli döwürdäki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hiç wagtky"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iň uly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇتلەق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەڭداشسىز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "барлық уақыттағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айнымас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ашып түшкөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бөтә заман"
+                ]
+            }
+        }
+    ]
+}
+```
+

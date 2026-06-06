@@ -1,0 +1,192 @@
+{
+    "id": "i20480",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "literally",
+    "en_definition": "in a literal sense",
+    "tr_word": "kelimenin tam anlamıyla",
+    "tr_definition": "mecaz içermeyen, sözcüklerin gerçek anlamını ifade eden bir biçimde",
+    "ru_word": "буквально",
+    "ru_definition": "в прямом смысле слова, без преувеличений или переносного значения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sözbəsöz"
+                ],
+                "Turkmen": [
+                    "sözme-söz"
+                ],
+                "Uzbek": [
+                    "so'zma-so'z"
+                ],
+                "Uyghur": [
+                    "سۆزمۇسۆز"
+                ],
+                "Kazakh": [
+                    "сөзбе-сөз"
+                ],
+                "Kyrgyz": [
+                    "сөзмө-сөз"
+                ],
+                "Karakalpak": [
+                    "sózbe-sóz"
+                ],
+                "Tatar": [
+                    "сүзгә-сүз"
+                ],
+                "Bashkir": [
+                    "һүҙмә-һүҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çynlakaý"
+                ],
+                "Kyrgyz": [
+                    "чындап"
+                ],
+                "Karakalpak": [
+                    "shın"
+                ],
+                "Tatar": [
+                    "чынлап"
+                ],
+                "Bashkir": [
+                    "ысынлап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harfiyen"
+                ],
+                "Azerbaijani": [
+                    "hərfi"
+                ],
+                "Turkmen": [
+                    "harma-harp"
+                ],
+                "Tatar": [
+                    "хәрефмә-хәреф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aynen"
+                ],
+                "Azerbaijani": [
+                    "eynilə"
+                ],
+                "Uzbek": [
+                    "aynan"
+                ],
+                "Uyghur": [
+                    "ئەينەن"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həqiqətən"
+                ],
+                "Turkmen": [
+                    "hakykatdan"
+                ],
+                "Uzbek": [
+                    "haqiqatan"
+                ],
+                "Uyghur": [
+                    "ھەقىقەتەن"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тура"
+                ],
+                "Karakalpak": [
+                    "tura"
+                ],
+                "Tatar": [
+                    "туры мәгънәдә"
+                ],
+                "Bashkir": [
+                    "тура мәғәнәлә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "анык"
+                ],
+                "Karakalpak": [
+                    "anıq"
+                ],
+                "Bashkir": [
+                    "аныҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aslida"
+                ],
+                "Uyghur": [
+                    "ئەسلى مەنىسىدە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түз маанисинде"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нақты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kelimesi kelimesine"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tam anlamıyla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айнытпай"
+                ]
+            }
+        }
+    ]
+}

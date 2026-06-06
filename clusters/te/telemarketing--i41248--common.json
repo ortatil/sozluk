@@ -1,0 +1,84 @@
+{
+    "id": "i41248",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "telemarketing",
+    "en_definition": "the use of the telephone as an interactive medium for promotion and sales",
+    "tr_word": "telepazarlama",
+    "tr_definition": "ürün ve hizmetlerin tanıtımı ve satışı için telefonun etkileşimli bir araç olarak kullanılması",
+    "ru_word": "телемаркетинг",
+    "ru_definition": "использование телефона в качестве интерактивного средства для продвижения и продажи товаров или услуг",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telefonla pazarlama",
+                    "telefonla satış"
+                ],
+                "Azerbaijani": [
+                    "telefonla satış",
+                    "telefon vasitəsilə satış",
+                    "telefon marketinqi"
+                ],
+                "Turkmen": [
+                    "telefon arkaly söwda",
+                    "telefon arkaly mahabat",
+                    "telefon söwdasy"
+                ],
+                "Uzbek": [
+                    "telefon orqali savdo",
+                    "telefon orqali xizmat ko'rsatish"
+                ],
+                "Uyghur": [
+                    "تېلېفوندا سېتىش",
+                    "تېلېفون ئارقىلىق بازار ئېچىش",
+                    "تېلېفوندا سودا قىلىش"
+                ],
+                "Kazakh": [
+                    "телефон арқылы сауда",
+                    "телефон арқылы сату",
+                    "телефондық сауда",
+                    "телефондық маркетинг"
+                ],
+                "Kyrgyz": [
+                    "телефон аркылуу соода",
+                    "телефондук сатуу",
+                    "телефондук маркетинг"
+                ],
+                "Karakalpak": [
+                    "telefon arqalı satıo",
+                    "telefon saodası",
+                    "telefon arqalı xızmet kórsetio"
+                ],
+                "Tatar": [
+                    "телефон аша сату",
+                    "телефон аша тәкъдим итү",
+                    "телефон сатулары"
+                ],
+                "Bashkir": [
+                    "телефон аша һатыу",
+                    "телефон аша сауҙа",
+                    "телефон аша тәҡдим итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uzaktan pazarlama"
+                ],
+                "Azerbaijani": [
+                    "uzaqdan satış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "masofaviy savdo"
+                ]
+            }
+        }
+    ]
+}

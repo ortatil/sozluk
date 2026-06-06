@@ -1,0 +1,152 @@
+{
+    "id": "i71336",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "how-do-you-do",
+    "en_definition": "an expression of greeting",
+    "tr_word": "merhaba",
+    "tr_definition": "bir selamlama ifadesi",
+    "ru_word": "здравствуйте",
+    "ru_definition": "выражение приветствия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "selam",
+                    "selamlaşma"
+                ],
+                "Azerbaijani": [
+                    "salam",
+                    "salaməleyküm"
+                ],
+                "Turkmen": [
+                    "salam",
+                    "salamlaşyk"
+                ],
+                "Uzbek": [
+                    "salom",
+                    "salomlashish"
+                ],
+                "Uyghur": [
+                    "سالام"
+                ],
+                "Kazakh": [
+                    "сәлем",
+                    "сәлемдесу"
+                ],
+                "Kyrgyz": [
+                    "салам",
+                    "саламдашуу"
+                ],
+                "Karakalpak": [
+                    "sálem",
+                    "sálemlesio"
+                ],
+                "Tatar": [
+                    "сәлам"
+                ],
+                "Bashkir": [
+                    "сәләм",
+                    "сәләмләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "esenlik"
+                ],
+                "Turkmen": [
+                    "essalamualekum"
+                ],
+                "Uzbek": [
+                    "assalomu alaykum"
+                ],
+                "Uyghur": [
+                    "ئەسسالامۇئەلەيكۇم"
+                ],
+                "Kazakh": [
+                    "ассалаумағалейкум"
+                ],
+                "Kyrgyz": [
+                    "ассалому алейкум"
+                ],
+                "Karakalpak": [
+                    "assalaoma-áleykum"
+                ],
+                "Tatar": [
+                    "исәнмесез",
+                    "әссәламу галәйкүм"
+                ],
+                "Bashkir": [
+                    "иҫәнләшеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "амандық",
+                    "аман-саулық"
+                ],
+                "Kyrgyz": [
+                    "аманчылык"
+                ],
+                "Karakalpak": [
+                    "amanlıq-saolıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "merhaba"
+                ],
+                "Turkmen": [
+                    "merhaba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xoş gəlmisiniz"
+                ],
+                "Uzbek": [
+                    "xush kelibsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xoş gördük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياخشىمۇسىز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "саумысыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәйерле көн"
+                ]
+            }
+        }
+    ]
+}

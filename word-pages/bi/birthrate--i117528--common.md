@@ -1,0 +1,139 @@
+# Birthrate
+| Field | Detail |
+|---|---|
+| **ID** | i117528 |
+| **English** | birthrate |
+| **Type** | noun |
+| **Definition** | the ratio of live births in an area to the population of that area; expressed per 1000 population per year |
+| **Source** | common |
+| **Ortatil** | ḍuğuluşsan |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍuğuluşsan** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| төрөлүү | törölüü |
+| **Tatar** | |
+| туучылык | tuuçılık |
+| **Bashkir** | |
+| тыуым | tıuım |
+
+```json
+{
+    "id": "i117528",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "birthrate",
+    "en_definition": "the ratio of live births in an area to the population of that area; expressed per 1000 population per year",
+    "tr_word": "doğum oranı",
+    "tr_definition": "belirli bir nüfusta, belirli bir süre içinde meydana gelen canlı doğum sayısının toplam nüfusa oranı.",
+    "ru_word": "рождаемость",
+    "ru_definition": "отношение количества рождений за определённый период к общей численности населения, обычно рассчитываемое на 1000 человек в год.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doğum oranı",
+                    "doğum hızı"
+                ],
+                "Azerbaijani": [
+                    "doğum",
+                    "doğum dərəcəsi",
+                    "doğum səviyyəsi"
+                ],
+                "Turkmen": [
+                    "doguluş",
+                    "dogum",
+                    "dogluş derejesi"
+                ],
+                "Uzbek": [
+                    "tugʻilish",
+                    "tugʻilish darajasi",
+                    "tugʻilish koʻrsatkichi"
+                ],
+                "Uyghur": [
+                    "تۇغۇلۇش نىسبىتى",
+                    "تۇغۇلۇش نىسبەت كۆرسەتكۈچى",
+                    "تۇغۇلۇش مىقدارى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "туу көрсеткіші",
+                    "туу мөлшері"
+                ],
+                "Karakalpak": [
+                    "tuuılıo",
+                    "tuuılıo dárejesi",
+                    "tuuılıo kórsetkishi"
+                ],
+                "Tatar": [
+                    "туучылык",
+                    "туу саны",
+                    "туу дәрәҗәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təvəllüd"
+                ],
+                "Bashkir": [
+                    "тыуым",
+                    "тыуым кимәле",
+                    "тыуым күрһәткесе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tenasül nispeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бала туу деңгейі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "төрөлүү",
+                    "төрөлүү деңгээли",
+                    "төрөлүү көрсөткүчү"
+                ]
+            }
+        }
+    ]
+}
+```
+

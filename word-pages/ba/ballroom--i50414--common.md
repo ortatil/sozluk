@@ -1,0 +1,200 @@
+# Ballroom
+| Field | Detail |
+|---|---|
+| **ID** | i50414 |
+| **English** | ballroom |
+| **Type** | noun |
+| **Definition** | large room used mainly for dancing |
+| **Source** | common |
+| **Ortatil** | mäşräphäna |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **biykana** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مەشرەپخانا | mäşräpxana |
+| سەھنەخانا | sähnäxana |
+| سەھنە | sähnä |
+| ئويۇنخانا | oyunxana |
+| **Kazakh** | |
+| бихана | bixana |
+| **Kyrgyz** | |
+| бийкана | biykana |
+
+```json
+{
+    "id": "i50414",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ballroom",
+    "en_definition": "large room used mainly for dancing",
+    "tr_word": "balo salonu",
+    "tr_definition": "Genellikle dans etmek için kullanılan büyük salon.",
+    "ru_word": "бальный зал",
+    "ru_definition": "Большой зал, предназначенный в основном для проведения балов и танцев.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balo salonu"
+                ],
+                "Azerbaijani": [
+                    "bal zalı"
+                ],
+                "Kazakh": [
+                    "би залы"
+                ],
+                "Kyrgyz": [
+                    "бий залы"
+                ],
+                "Tatar": [
+                    "бию залы",
+                    "бию бүлмәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "مەشرەپخانا"
+                ],
+                "Karakalpak": [
+                    "márekexana"
+                ],
+                "Tatar": [
+                    "мәҗлес залы"
+                ],
+                "Bashkir": [
+                    "мәжлес залы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бихана"
+                ],
+                "Kyrgyz": [
+                    "бийкана",
+                    "бий бөлмөсү"
+                ],
+                "Karakalpak": [
+                    "biyxana"
+                ],
+                "Bashkir": [
+                    "бейеү залы",
+                    "бейеү бүлмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dans salonu"
+                ],
+                "Turkmen": [
+                    "tans meýdançasy",
+                    "tans zaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meydan"
+                ],
+                "Turkmen": [
+                    "meýlis zaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rəqs zalı"
+                ],
+                "Uzbek": [
+                    "raqsxona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "салтанат залы"
+                ],
+                "Karakalpak": [
+                    "saltanat zalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təntənə zalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bazmgoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taloq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سەھنەخانا",
+                    "سەھنە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئويۇنخانا"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,133 @@
+{
+    "id": "i107012",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cash card",
+    "en_definition": "a credit card that entitles the holder to receive cash",
+    "tr_word": "bankamatik kartı",
+    "tr_definition": "hamiline nakit para çekme yetkisi veren kredi veya banka kartı",
+    "ru_word": "банковская карта",
+    "ru_definition": "кредитная или дебетовая карта, дающая владельцу право на получение наличных денег",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "banka kartı",
+                    "bankamatik kartı"
+                ],
+                "Azerbaijani": [
+                    "bank kartı"
+                ],
+                "Turkmen": [
+                    "bank kartasy"
+                ],
+                "Uzbek": [
+                    "bank kartasi"
+                ],
+                "Uyghur": [
+                    "بانكا كارتىسى"
+                ],
+                "Kazakh": [
+                    "банк картасы"
+                ],
+                "Karakalpak": [
+                    "bank kartası"
+                ],
+                "Tatar": [
+                    "банк картасы"
+                ],
+                "Bashkir": [
+                    "банк картаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nakit kartı"
+                ],
+                "Azerbaijani": [
+                    "nağdlaşdırma kartı"
+                ],
+                "Turkmen": [
+                    "nagt kartasy"
+                ],
+                "Uzbek": [
+                    "naqd pul kartasi"
+                ],
+                "Uyghur": [
+                    "نەق پۇل كارتىسى"
+                ],
+                "Kyrgyz": [
+                    "накталай карта"
+                ],
+                "Karakalpak": [
+                    "naq aqsha kartası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töleg kartasy"
+                ],
+                "Uzbek": [
+                    "to'lov kartasi"
+                ],
+                "Kazakh": [
+                    "төлем картасы"
+                ],
+                "Kyrgyz": [
+                    "төлөм картасы"
+                ],
+                "Karakalpak": [
+                    "tólem kartası"
+                ],
+                "Tatar": [
+                    "түләү картасы"
+                ],
+                "Bashkir": [
+                    "түләү картаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "акча картасы"
+                ],
+                "Tatar": [
+                    "акча картасы"
+                ],
+                "Bashkir": [
+                    "аҡса картаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ödəniş kartı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇل ئېلىش كارتىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "несие картасы"
+                ]
+            }
+        }
+    ]
+}

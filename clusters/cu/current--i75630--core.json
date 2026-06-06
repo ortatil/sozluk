@@ -1,0 +1,86 @@
+{
+    "id": "i75630",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "current",
+    "en_definition": "a steady flow of a fluid (usually from natural causes)",
+    "tr_word": "akıntı",
+    "tr_definition": "bir sıvının veya gazın belirli bir yöne doğru sürekli akışı",
+    "ru_word": "течение",
+    "ru_definition": "непрерывное движение воды или воздуха в определенном направлении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akıntı",
+                    "akım"
+                ],
+                "Azerbaijani": [
+                    "axın",
+                    "axıntı"
+                ],
+                "Turkmen": [
+                    "akym",
+                    "akyn",
+                    "akys"
+                ],
+                "Uzbek": [
+                    "oqim",
+                    "oqish",
+                    "oqari"
+                ],
+                "Uyghur": [
+                    "ئېقىن",
+                    "ئېقىم"
+                ],
+                "Kazakh": [
+                    "ағыс",
+                    "ағын",
+                    "ағым"
+                ],
+                "Kyrgyz": [
+                    "агым",
+                    "агын"
+                ],
+                "Karakalpak": [
+                    "aǵıs",
+                    "aǵın"
+                ],
+                "Tatar": [
+                    "агым",
+                    "агыш"
+                ],
+                "Bashkir": [
+                    "ағым",
+                    "ағыш",
+                    "ағын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cereyan"
+                ],
+                "Azerbaijani": [
+                    "cərəyan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇ ئېقىمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "нук"
+                ]
+            }
+        }
+    ]
+}

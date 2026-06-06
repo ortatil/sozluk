@@ -1,0 +1,78 @@
+{
+    "id": "i5183",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "fingered",
+    "en_definition": "having or resembling a finger or fingers; often used in combination",
+    "tr_word": "parmaklı",
+    "tr_definition": "parmağı olan veya parmağa benzeyen; genellikle birleşik kelimelerde kullanılır",
+    "ru_word": "пальчатый",
+    "ru_definition": "имеющий пальцы или напоминающий их; часто используется в сложных словах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "parmaklı",
+                    "parmaklıklı",
+                    "parmak biçimli"
+                ],
+                "Azerbaijani": [
+                    "barmaqlı",
+                    "barmaqşəkilli",
+                    "barmağabənzər"
+                ],
+                "Turkmen": [
+                    "barmakly",
+                    "barmak-barmak"
+                ],
+                "Uzbek": [
+                    "barmoqli"
+                ],
+                "Uyghur": [
+                    "بارماقلىق",
+                    "بارماقسىمان"
+                ],
+                "Tatar": [
+                    "бармаклы",
+                    "бармаксыман"
+                ],
+                "Bashkir": [
+                    "бармаҡлы",
+                    "бармаҡ һымаҡ",
+                    "бармаҡ рәүешле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "panjali"
+                ],
+                "Kyrgyz": [
+                    "манжалуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саусақты",
+                    "саусақ тәрізді",
+                    "саусақ пішінді"
+                ],
+                "Karakalpak": [
+                    "sausaqlı",
+                    "sausaq tárizli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "салаалуу"
+                ]
+            }
+        }
+    ]
+}

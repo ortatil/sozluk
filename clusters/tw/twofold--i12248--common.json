@@ -1,0 +1,99 @@
+{
+    "id": "i12248",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "twofold",
+    "en_definition": "twice as great or many",
+    "tr_word": "iki kat",
+    "tr_definition": "iki misli, iki katı büyüklüğünde veya miktarında olan",
+    "ru_word": "двукратный",
+    "ru_definition": "в два раза больший по величине или количеству",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki kat",
+                    "iki misli"
+                ],
+                "Azerbaijani": [
+                    "ikiqat",
+                    "ikili"
+                ],
+                "Turkmen": [
+                    "iki esse",
+                    "iki gat"
+                ],
+                "Uzbek": [
+                    "ikki barobar",
+                    "ikki hissa",
+                    "ikki qatlamli",
+                    "ikki karra"
+                ],
+                "Uyghur": [
+                    "ئىككى ھەسسە",
+                    "ئىككى قاتلام"
+                ],
+                "Kazakh": [
+                    "екі есе",
+                    "екі еселенген",
+                    "екі қабат"
+                ],
+                "Kyrgyz": [
+                    "эки эсе",
+                    "эки эселенген",
+                    "эки кат"
+                ],
+                "Karakalpak": [
+                    "ekі ese",
+                    "ekі eselengen",
+                    "ekі qabat"
+                ],
+                "Tatar": [
+                    "икеләтә",
+                    "ике катлы",
+                    "ике тапкыр"
+                ],
+                "Bashkir": [
+                    "икеләтә",
+                    "ике ҡатлы",
+                    "ике тапҡыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşa"
+                ],
+                "Uyghur": [
+                    "قوش"
+                ],
+                "Kazakh": [
+                    "қос"
+                ],
+                "Kyrgyz": [
+                    "кош"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müsenna"
+                ],
+                "Azerbaijani": [
+                    "müzəəf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çifte"
+                ]
+            }
+        }
+    ]
+}

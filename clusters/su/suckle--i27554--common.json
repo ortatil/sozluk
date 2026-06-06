@@ -1,0 +1,85 @@
+{
+    "id": "i27554",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "suckle",
+    "en_definition": "suck milk from the mother's breasts",
+    "tr_word": "emmek",
+    "tr_definition": "anne memesinden süt çekmek",
+    "ru_word": "сосать грудь",
+    "ru_definition": "сосать молоко из материнской груди",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "emmek"
+                ],
+                "Azerbaijani": [
+                    "əmmək"
+                ],
+                "Turkmen": [
+                    "emmek"
+                ],
+                "Uzbek": [
+                    "emmoq"
+                ],
+                "Uyghur": [
+                    "ئېمىش"
+                ],
+                "Kazakh": [
+                    "ему"
+                ],
+                "Kyrgyz": [
+                    "эмүү",
+                    "эмчек эмүү"
+                ],
+                "Tatar": [
+                    "имү",
+                    "эмишү"
+                ],
+                "Bashkir": [
+                    "имеү",
+                    "имсәк имеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "süt emmek"
+                ],
+                "Azerbaijani": [
+                    "süd əmmək"
+                ],
+                "Turkmen": [
+                    "süýt emmek"
+                ],
+                "Uzbek": [
+                    "sut emmoq"
+                ],
+                "Uyghur": [
+                    "سۈت ئېمىش"
+                ],
+                "Kazakh": [
+                    "сүт ему"
+                ],
+                "Bashkir": [
+                    "һөт имеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "емшек ему"
+                ],
+                "Karakalpak": [
+                    "emizio",
+                    "emio"
+                ]
+            }
+        }
+    ]
+}

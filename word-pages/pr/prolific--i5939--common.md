@@ -1,0 +1,288 @@
+# Prolific
+| Field | Detail |
+|---|---|
+| **ID** | i5939 |
+| **English** | prolific |
+| **Type** | adjective |
+| **Definition** | bearing in abundance especially offspring |
+| **Source** | common |
+| **Ortatil** | ḅäräkätli |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḅäräkätli** | **ünümlü** | **hasıllı** | **ürçemli** | **serferzent** |
+|---|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Turkmen | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ | ❌ | ✅ |
+| Uyghur | ✅ | ❌ | ✅ | ❌ | ✅ |
+| Kazakh | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Kyrgyz | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Karakalpak | ✅ | ✅ | ❌ | ❌ | ✅ |
+| Tatar | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Bashkir | ✅ | ❌ | ❌ | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.33 | 0.33 | 0.33 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 1 | 0 | 1 |
+| *Qipchaq Subtotal* | 1 | 0.40 | 0 | 0.40 | 0.20 |
+| *In All* | ✅ | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  | ✅ |  |
+| **O'TQ** | **4** | **2.23** | **1.33** | **1.23** | **1.20** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بەرىكەتلىك | bärikätlik |
+| كۆپ | köp |
+| ھوسۇللۇق | hosulluq |
+| سەرخېل | särxel |
+| مېۋىلىك | mevilik |
+| **Kazakh** | |
+| берекелі | berekeli |
+| өсімтал | ösimtal |
+| өнгіш | öngiş |
+| құнарлы | qunarlı |
+| **Kyrgyz** | |
+| берекелүү | berekelüü |
+| өнгүч | öngüç |
+| жемиштүү | jemiştüü |
+| төлдүү | töldüü |
+| куттүү | kuttüü |
+| **Tatar** | |
+| бәрәкәтле | bäräkätle |
+| үрчемле | ürçemle |
+| уңдырышлы | uñdırışlı |
+| **Bashkir** | |
+| бәрәкәтле | bäräkätle |
+| үрсемле | ürsemle |
+| емешле | yemeşle |
+| уңдырышлы | uñdırışlı |
+
+```json
+{
+    "id": "i5939",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "prolific",
+    "en_definition": "bearing in abundance especially offspring",
+    "tr_word": "verimli",
+    "tr_definition": "özellikle yavru veya ürün bakımından bol miktarda üreten",
+    "ru_word": "плодовитый",
+    "ru_definition": "производящий в изобилии, особенно потомство",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "verimli",
+                    "bereketli"
+                ],
+                "Azerbaijani": [
+                    "bərəkətli",
+                    "verimli"
+                ],
+                "Turkmen": [
+                    "bereketli"
+                ],
+                "Uzbek": [
+                    "barakali"
+                ],
+                "Uyghur": [
+                    "بەرىكەتلىك"
+                ],
+                "Kazakh": [
+                    "берекелі"
+                ],
+                "Kyrgyz": [
+                    "берекелүү"
+                ],
+                "Karakalpak": [
+                    "bereketli"
+                ],
+                "Tatar": [
+                    "бәрәкәтле"
+                ],
+                "Bashkir": [
+                    "бәрәкәтле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "önümli"
+                ],
+                "Uzbek": [
+                    "unumli"
+                ],
+                "Kyrgyz": [
+                    "өнгүч"
+                ],
+                "Karakalpak": [
+                    "ónimli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كۆپ"
+                ],
+                "Kazakh": [
+                    "көп балалы"
+                ],
+                "Karakalpak": [
+                    "kóp"
+                ],
+                "Tatar": [
+                    "күп балалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üretken"
+                ],
+                "Tatar": [
+                    "үрчемле"
+                ],
+                "Bashkir": [
+                    "үрсемле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hasylly",
+                    "nesilli"
+                ],
+                "Uzbek": [
+                    "hosildor"
+                ],
+                "Uyghur": [
+                    "ھوسۇللۇق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "serpusht",
+                    "serfarzand"
+                ],
+                "Uyghur": [
+                    "سەرخېل"
+                ],
+                "Karakalpak": [
+                    "serperzent"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жемиштүү"
+                ],
+                "Bashkir": [
+                    "емешле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "уңдырышлы"
+                ],
+                "Bashkir": [
+                    "уңдырышлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğurgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "feyizli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məhsuldar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çoxdoğuran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مېۋىلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өсімтал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өнгіш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құнарлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "төлдүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "куттүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mol"
+                ]
+            }
+        }
+    ]
+}
+```
+

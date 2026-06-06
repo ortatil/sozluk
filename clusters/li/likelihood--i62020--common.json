@@ -1,0 +1,102 @@
+{
+    "id": "i62020",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "likelihood",
+    "en_definition": "the probability of a specified outcome",
+    "tr_word": "olasılık",
+    "tr_definition": "belirli bir sonucun gerçekleşme ihtimali",
+    "ru_word": "вероятность",
+    "ru_definition": "степень возможности наступления определенного события",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ihtimal"
+                ],
+                "Azerbaijani": [
+                    "ehtimal"
+                ],
+                "Turkmen": [
+                    "ähtimallyk",
+                    "ähtimal"
+                ],
+                "Uzbek": [
+                    "ehtimol",
+                    "ehtimollik"
+                ],
+                "Uyghur": [
+                    "ئېھتىماللىق",
+                    "ئېھتىمال"
+                ],
+                "Kazakh": [
+                    "ықтималдық",
+                    "ықтимал"
+                ],
+                "Kyrgyz": [
+                    "ыктымалдык",
+                    "ыктымал"
+                ],
+                "Karakalpak": [
+                    "ıqtimallıq",
+                    "itimal"
+                ],
+                "Tatar": [
+                    "ихтималлык",
+                    "ихтимал"
+                ],
+                "Bashkir": [
+                    "ихтималлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mümkünlük"
+                ],
+                "Turkmen": [
+                    "mümkinçilik"
+                ],
+                "Uyghur": [
+                    "مۇمكىنچىلىك"
+                ],
+                "Kazakh": [
+                    "мүмкіндік"
+                ],
+                "Kyrgyz": [
+                    "мүмкүндүк"
+                ],
+                "Karakalpak": [
+                    "múmkinlik"
+                ],
+                "Tatar": [
+                    "мөмкинлек"
+                ],
+                "Bashkir": [
+                    "мөмкинлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "imkan"
+                ],
+                "Uzbek": [
+                    "imkoniyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "olasılık",
+                    "olanak"
+                ]
+            }
+        }
+    ]
+}

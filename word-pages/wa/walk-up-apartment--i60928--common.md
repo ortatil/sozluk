@@ -1,0 +1,152 @@
+# Walk-up apartment
+| Field | Detail |
+|---|---|
+| **ID** | i60928 |
+| **English** | walk-up apartment |
+| **Type** | noun |
+| **Definition** | an apartment in a building without an elevator |
+| **Source** | common |
+| **Ortatil** | cay |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i60928",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "walk-up apartment",
+    "en_definition": "an apartment in a building without an elevator",
+    "tr_word": "asansörsüz daire",
+    "tr_definition": "Asansörü bulunmayan bir binada yer alan daire.",
+    "ru_word": "квартира в доме без лифта",
+    "ru_definition": "Квартира в многоэтажном здании, не оборудованном лифтом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "liftiz bina",
+                    "liftsiz ev"
+                ],
+                "Turkmen": [
+                    "liftiz jaý"
+                ],
+                "Uyghur": [
+                    "لىفتسىز پەلەمپەيلىك ئۆي",
+                    "لىفتسىز ئۆي"
+                ],
+                "Kazakh": [
+                    "лифтсіз үй"
+                ],
+                "Kyrgyz": [
+                    "лифтсиз үй",
+                    "лифтсиз батир"
+                ],
+                "Karakalpak": [
+                    "liftsiz úy"
+                ],
+                "Tatar": [
+                    "лифтсыз йорт",
+                    "лифтсыз фатир"
+                ],
+                "Bashkir": [
+                    "лифтһыҙ йорт",
+                    "лифтһыҙ фатир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "past qavatli bino"
+                ],
+                "Kazakh": [
+                    "баспалдақты үй"
+                ],
+                "Tatar": [
+                    "баскычлы йорт"
+                ],
+                "Bashkir": [
+                    "баҫҡыслы йорт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pilləkənli bina"
+                ],
+                "Uyghur": [
+                    "پەلەمپەيلىك بىنا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pes gatly jaý",
+                    "köp gatly jaý"
+                ],
+                "Karakalpak": [
+                    "kóp qabatlı úy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "asansörsüz daire",
+                    "asansörsüz konut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "merdivenli apartman dairesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poydevorsiz uy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zinali uy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аласа үй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тепкичтүү үй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jay"
+                ]
+            }
+        }
+    ]
+}
+```
+

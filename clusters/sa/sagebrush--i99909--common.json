@@ -1,0 +1,108 @@
+{
+    "id": "i99909",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sagebrush",
+    "en_definition": "any of several North American composite subshrubs of the genera Artemis or Seriphidium",
+    "tr_word": "yavşan otu",
+    "tr_definition": "Kuzey Amerika'ya özgü, Artemisia cinsinden olan ve genellikle kurak bölgelerde yetişen gümüşi yapraklı çalımsı bir bitki.",
+    "ru_word": "полынь",
+    "ru_definition": "Кустарниковое или полукустарниковое растение рода Artemisia, характерное для засушливых районов Северной Америки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yavşan",
+                    "yavşan otu"
+                ],
+                "Azerbaijani": [
+                    "yovşan",
+                    "yovşanlıq"
+                ],
+                "Turkmen": [
+                    "ýowşan"
+                ],
+                "Uzbek": [
+                    "yovshan"
+                ],
+                "Uyghur": [
+                    "يۆۆشان"
+                ],
+                "Kazakh": [
+                    "жусан"
+                ],
+                "Karakalpak": [
+                    "juosan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "erba"
+                ],
+                "Uyghur": [
+                    "ئەرمەن",
+                    "ئەرمەن ئوتى"
+                ],
+                "Kazakh": [
+                    "ермен"
+                ],
+                "Kyrgyz": [
+                    "эрмен"
+                ],
+                "Karakalpak": [
+                    "ermen"
+                ],
+                "Tatar": [
+                    "әрәмә",
+                    "әрлән"
+                ],
+                "Bashkir": [
+                    "әрәмә",
+                    "әртеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pelin otu"
+                ],
+                "Tatar": [
+                    "печән үләне"
+                ],
+                "Bashkir": [
+                    "ерән үлән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shuvoq"
+                ],
+                "Kyrgyz": [
+                    "шыбак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ак әрем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ерән"
+                ]
+            }
+        }
+    ]
+}

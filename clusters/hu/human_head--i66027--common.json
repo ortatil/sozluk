@@ -1,0 +1,105 @@
+{
+    "id": "i66027",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "human head",
+    "en_definition": "the head of a human being",
+    "tr_word": "insan başı",
+    "tr_definition": "bir insanın başı veya kafası",
+    "ru_word": "человеческая голова",
+    "ru_definition": "голова человека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baş"
+                ],
+                "Azerbaijani": [
+                    "baş"
+                ],
+                "Turkmen": [
+                    "baş"
+                ],
+                "Uzbek": [
+                    "bosh"
+                ],
+                "Uyghur": [
+                    "باش"
+                ],
+                "Kazakh": [
+                    "бас"
+                ],
+                "Kyrgyz": [
+                    "баш"
+                ],
+                "Karakalpak": [
+                    "bas"
+                ],
+                "Tatar": [
+                    "баш"
+                ],
+                "Bashkir": [
+                    "баш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kafa"
+                ],
+                "Kazakh": [
+                    "қала"
+                ],
+                "Kyrgyz": [
+                    "калле"
+                ],
+                "Karakalpak": [
+                    "kálle"
+                ],
+                "Tatar": [
+                    "кәллә"
+                ],
+                "Bashkir": [
+                    "кәллә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kəllə"
+                ],
+                "Turkmen": [
+                    "kelle"
+                ],
+                "Uzbek": [
+                    "kalla"
+                ],
+                "Uyghur": [
+                    "كەللە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ser"
+                ],
+                "Uzbek": [
+                    "sar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төбе"
+                ]
+            }
+        }
+    ]
+}

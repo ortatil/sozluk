@@ -1,0 +1,91 @@
+{
+    "id": "synset-oewn-92419243-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "contagiousness",
+    "en_definition": "The state or condition of being contagious, easily transmitted to others.",
+    "tr_word": "bulaşıcılık",
+    "tr_definition": "Bir hastalığın veya durumun başkalarına kolayca geçebilme özelliği.",
+    "ru_word": "заразность",
+    "ru_definition": "Свойство болезни или состояния легко передаваться другим людям.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yoluxuculuq"
+                ],
+                "Turkmen": [
+                    "ýokuşlylyk",
+                    "ýokançlylyk"
+                ],
+                "Uzbek": [
+                    "yuqumlilik",
+                    "yuquvchanlik"
+                ],
+                "Uyghur": [
+                    "يۇقۇملۇق",
+                    "يۇقۇملۇق دەرىجىسى",
+                    "يۇقۇشچانلىق"
+                ],
+                "Kazakh": [
+                    "жұқпалылық",
+                    "жұғымдылық",
+                    "жұққыштық"
+                ],
+                "Kyrgyz": [
+                    "жугуштуулук",
+                    "жугуштуу",
+                    "жугуш"
+                ],
+                "Karakalpak": [
+                    "juǵıshlıq",
+                    "juqpalılıq"
+                ],
+                "Tatar": [
+                    "йогышлылык",
+                    "йогыш"
+                ],
+                "Bashkir": [
+                    "йоғошлоҡ",
+                    "йоғоусанлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sari",
+                    "sirayet"
+                ],
+                "Azerbaijani": [
+                    "sari"
+                ],
+                "Uzbek": [
+                    "sariylik"
+                ],
+                "Tatar": [
+                    "сәрешлелек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "keçicilik"
+                ],
+                "Turkmen": [
+                    "geçijilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bulaşıcılık"
+                ]
+            }
+        }
+    ]
+}

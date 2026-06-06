@@ -1,0 +1,116 @@
+{
+    "id": "i38150",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "step dancing",
+    "en_definition": "dancing in which the steps are more important than gestures or postures",
+    "tr_word": "step dansı",
+    "tr_definition": "jest veya duruşlardan ziyade ayak adımlarının ve vuruşlarının ön planda olduğu bir dans türü",
+    "ru_word": "степ",
+    "ru_definition": "вид танца, в котором основной акцент делается на ритмическую работу ног, а не на жесты или позы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayak oyunu",
+                    "ayak dansı"
+                ],
+                "Azerbaijani": [
+                    "ayaq oyunu",
+                    "ayaq döymə"
+                ],
+                "Uzbek": [
+                    "oyoq o'yini"
+                ],
+                "Kazakh": [
+                    "аяқ биі"
+                ],
+                "Karakalpak": [
+                    "ayaq oyını"
+                ],
+                "Tatar": [
+                    "аяк биюе"
+                ],
+                "Bashkir": [
+                    "аяҡ уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tepme",
+                    "tepük"
+                ],
+                "Azerbaijani": [
+                    "təpiniş"
+                ],
+                "Turkmen": [
+                    "tapyrdy",
+                    "depme",
+                    "depginli tans"
+                ],
+                "Uyghur": [
+                    "تەپشى رەقس"
+                ],
+                "Karakalpak": [
+                    "tapıldatpa",
+                    "tapıldatıp biyleo"
+                ],
+                "Tatar": [
+                    "тыпырдау",
+                    "тыпырлап бию"
+                ],
+                "Bashkir": [
+                    "тыпырлау",
+                    "тыпырлап бейеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قەدەم رەقسى"
+                ],
+                "Kyrgyz": [
+                    "кадамдуу бий"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "би",
+                    "билеу"
+                ],
+                "Kyrgyz": [
+                    "бийлөө",
+                    "бийи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "raqs qadami"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "usul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت ئۇسسۇلى"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "id": "i19912",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "halfway",
+    "en_definition": "at half the distance; at the middle",
+    "tr_word": "yolun yarısında",
+    "tr_definition": "mesafenin tam ortasında, yarı yolda",
+    "ru_word": "на полпути",
+    "ru_definition": "на равном расстоянии от начала и конца; посередине",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarı yolda",
+                    "yarıda"
+                ],
+                "Azerbaijani": [
+                    "yarıyolda",
+                    "yarıda"
+                ],
+                "Turkmen": [
+                    "ýarym ýolda",
+                    "ara ýolda"
+                ],
+                "Uzbek": [
+                    "yarim yo'lda",
+                    "yarim-yorti"
+                ],
+                "Uyghur": [
+                    "يېرىم يولدا",
+                    "يېرىم ئارىلىقتا"
+                ],
+                "Kazakh": [
+                    "жартылай"
+                ],
+                "Kyrgyz": [
+                    "жарым жолдо"
+                ],
+                "Karakalpak": [
+                    "jartı jolda"
+                ],
+                "Tatar": [
+                    "ярты юлда"
+                ],
+                "Bashkir": [
+                    "ярты юлда"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ortada"
+                ],
+                "Azerbaijani": [
+                    "ortada"
+                ],
+                "Turkmen": [
+                    "ortada"
+                ],
+                "Uzbek": [
+                    "o'rtada"
+                ],
+                "Kazakh": [
+                    "орта жолда"
+                ],
+                "Kyrgyz": [
+                    "орто жолдо"
+                ],
+                "Karakalpak": [
+                    "orta jolda"
+                ],
+                "Tatar": [
+                    "уртада",
+                    "уртача"
+                ],
+                "Bashkir": [
+                    "уртала",
+                    "урта тирәһендә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бел ортада"
+                ],
+                "Kyrgyz": [
+                    "бел ортодо"
+                ],
+                "Karakalpak": [
+                    "bel ortada"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرىدا"
+                ]
+            }
+        }
+    ]
+}

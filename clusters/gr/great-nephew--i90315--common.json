@@ -1,0 +1,120 @@
+{
+    "id": "i90315",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "great-nephew",
+    "en_definition": "a son of your niece or nephew",
+    "tr_word": "erkek yeğen torunu",
+    "tr_definition": "yeğeninizin (erkek veya kız kardeşinizin çocuğunun) oğlu",
+    "ru_word": "внучатый племянник",
+    "ru_definition": "сын племянника или племянницы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeğen oğlu"
+                ],
+                "Turkmen": [
+                    "ýegen ogly"
+                ],
+                "Uyghur": [
+                    "جىيەن نەۋرە"
+                ],
+                "Kazakh": [
+                    "жиеншар"
+                ],
+                "Kyrgyz": [
+                    "жээн небере"
+                ],
+                "Karakalpak": [
+                    "jien shóbere"
+                ],
+                "Bashkir": [
+                    "ейән",
+                    "ейән-туған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəvə"
+                ],
+                "Uzbek": [
+                    "nabira"
+                ],
+                "Kyrgyz": [
+                    "небере"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەۋرە جىيەن"
+                ],
+                "Kazakh": [
+                    "немере жиен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "erkek torun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bacı nəvəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qardaş nəvəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çowluk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻgʻil nabira"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shóbere"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "онык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "туганнан туган онык"
+                ]
+            }
+        }
+    ]
+}

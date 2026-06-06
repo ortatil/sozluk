@@ -1,0 +1,138 @@
+# Towel rack
+| Field | Detail |
+|---|---|
+| **ID** | i60412 |
+| **English** | towel rack |
+| **Type** | noun |
+| **Definition** | a rack consisting of one or more bars on which towels can be hung |
+| **Source** | common |
+| **Ortatil** | saçiqdan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ілгіш | ilgiş |
+| **Tatar** | |
+| сөлгелек | sölgelek |
+
+```json
+{
+    "id": "i60412",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "towel rack",
+    "en_definition": "a rack consisting of one or more bars on which towels can be hung",
+    "tr_word": "havluluk",
+    "tr_definition": "havluların asılabileceği bir veya daha fazla çubuktan oluşan raf",
+    "ru_word": "полотенцедержатель",
+    "ru_definition": "вешалка, состоящая из одной или нескольких перекладин, на которые можно вешать полотенца",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "لۆڭگە ئاسقۇچ",
+                    "لۆڭگە جازىسى"
+                ],
+                "Kazakh": [
+                    "сүлгі ілгіш",
+                    "сүлгі қойғыш"
+                ],
+                "Kyrgyz": [
+                    "сүлгү илгич"
+                ],
+                "Tatar": [
+                    "сөлге элгеч",
+                    "сөлге асмасы",
+                    "сөлгелек"
+                ],
+                "Bashkir": [
+                    "һөлгө элгес",
+                    "һөлгө аҫҡыс",
+                    "һөлгө тотҡос"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۈرتكۈچ ئاسقۇچ"
+                ],
+                "Kyrgyz": [
+                    "сүлгү аскыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havluluk",
+                    "havlu askısı",
+                    "havlu rafı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəsmal asılqanı",
+                    "dəsmal asqısı",
+                    "dəsmal yeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "polotenise asgyç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "el süpürgiç asgyjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "asgyç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sochiq osgich",
+                    "sochiq ilgich",
+                    "sochiqdon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ілгіш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "súlgі іlgіsh",
+                    "súlgі іlgek",
+                    "súlgі tartqısh"
+                ]
+            }
+        }
+    ]
+}
+```
+

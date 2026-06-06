@@ -1,0 +1,124 @@
+{
+    "id": "i33521",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "rewire",
+    "en_definition": "provide with new wiring",
+    "tr_word": "yeniden kablo döşemek",
+    "tr_definition": "bir yerin veya cihazın elektrik tesisatını veya kablolarını yenilemek",
+    "ru_word": "перемонтировать",
+    "ru_definition": "заменить или проложить заново электропроводку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "simlerini täzelemek",
+                    "simlerini çalşyrmak"
+                ],
+                "Uzbek": [
+                    "simlarini yangilamoq"
+                ],
+                "Uyghur": [
+                    "سىمىنى يېڭىلىماق",
+                    "سىم يولىنى ئالماشتۇرماق"
+                ],
+                "Kazakh": [
+                    "сымдарын жаңарту"
+                ],
+                "Kyrgyz": [
+                    "зымдарын алмаштыруу"
+                ],
+                "Karakalpak": [
+                    "sımların jańalao"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden kablolamak"
+                ],
+                "Azerbaijani": [
+                    "yenidən çəkmək"
+                ],
+                "Kyrgyz": [
+                    "жаңыдан зым тартуу"
+                ],
+                "Tatar": [
+                    "яңадан үткәрү",
+                    "яңарту"
+                ],
+                "Bashkir": [
+                    "яңынан үткәреү",
+                    "яңынан һалыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qayta sim o'tkazmoq",
+                    "qayta ulamoq"
+                ],
+                "Uyghur": [
+                    "قايتا سىم تارتماق"
+                ],
+                "Kazakh": [
+                    "қайта сым жүргізу",
+                    "қайта жалғау"
+                ],
+                "Kyrgyz": [
+                    "кайра зымдоо"
+                ],
+                "Karakalpak": [
+                    "qayta sım tartıu",
+                    "qayta jalǵau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tesisatı yenilemek"
+                ],
+                "Azerbaijani": [
+                    "təzələmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "алмаштыру"
+                ],
+                "Bashkir": [
+                    "алмаштырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kabloları değiştirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəyişdirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "elektrik ulgamyny täzelemek"
+                ]
+            }
+        }
+    ]
+}

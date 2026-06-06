@@ -1,0 +1,122 @@
+{
+    "id": "i70449",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "resume",
+    "en_definition": "a summary of your academic and work history",
+    "tr_word": "özgeçmiş",
+    "tr_definition": "akademik ve iş geçmişinizin bir özeti",
+    "ru_word": "резюме",
+    "ru_definition": "краткое изложение вашей академической и трудовой биографии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tərcümeyi-hal"
+                ],
+                "Turkmen": [
+                    "terjimehal"
+                ],
+                "Uzbek": [
+                    "tarjimai hol"
+                ],
+                "Uyghur": [
+                    "تەرجىمىھال"
+                ],
+                "Kyrgyz": [
+                    "таржымал"
+                ],
+                "Karakalpak": [
+                    "tárjimeihal"
+                ],
+                "Tatar": [
+                    "тәрҗемәи хәл"
+                ],
+                "Bashkir": [
+                    "тәржемәи хәл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өмірбаян"
+                ],
+                "Kyrgyz": [
+                    "өмүр баян"
+                ],
+                "Karakalpak": [
+                    "ómirbayan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özgeçmiş"
+                ],
+                "Azerbaijani": [
+                    "özkeçmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maglumatnama"
+                ],
+                "Uzbek": [
+                    "maʼlumotnoma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قىسقىچە تەرجىمىھال"
+                ],
+                "Kyrgyz": [
+                    "кыскача баян"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tercümeihâl",
+                    "hâl tercümesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شەخسىي ئارخىپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түйіндеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "биография"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "баяннамә"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "id": "i79825",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ministry",
+    "en_definition": "a government department under the direction of a minister",
+    "tr_word": "bakanlık",
+    "tr_definition": "bir bakanın yönetimi altındaki devlet dairesi",
+    "ru_word": "министерство",
+    "ru_definition": "государственный орган исполнительной власти, возглавляемый министром",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ministrlik"
+                ],
+                "Uyghur": [
+                    "مىنىستىرلىق"
+                ],
+                "Kazakh": [
+                    "министрлік"
+                ],
+                "Kyrgyz": [
+                    "министрлик"
+                ],
+                "Karakalpak": [
+                    "ministrlik"
+                ],
+                "Tatar": [
+                    "министрлык"
+                ],
+                "Bashkir": [
+                    "министрлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nezaret"
+                ],
+                "Azerbaijani": [
+                    "nazirlik"
+                ],
+                "Turkmen": [
+                    "wezirlik"
+                ],
+                "Uzbek": [
+                    "vazirlik"
+                ],
+                "Kazakh": [
+                    "уәзірлік"
+                ],
+                "Karakalpak": [
+                    "uázirat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bakanlık",
+                    "vekalet"
+                ],
+                "Uyghur": [
+                    "ۋازارەت"
+                ],
+                "Kyrgyz": [
+                    "вазирлик"
+                ],
+                "Tatar": [
+                    "вәзарәт"
+                ],
+                "Bashkir": [
+                    "вәзәрәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mahkama"
+                ],
+                "Uyghur": [
+                    "مەھكىمە"
+                ],
+                "Kyrgyz": [
+                    "мекеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "diwan"
+                ],
+                "Uzbek": [
+                    "devon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vəzarət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "идара"
+                ]
+            }
+        }
+    ]
+}

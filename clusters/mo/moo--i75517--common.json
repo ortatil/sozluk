@@ -1,0 +1,80 @@
+{
+    "id": "i75517",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "moo",
+    "en_definition": "the sound made by a cow or bull",
+    "tr_word": "mö",
+    "tr_definition": "bir inek veya boğanın çıkardığı ses",
+    "ru_word": "мычание",
+    "ru_definition": "звук, издаваемый коровой или быком",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mo'rash"
+                ],
+                "Uyghur": [
+                    "مۆرىشى",
+                    "مۆرىگەن ئاۋاز"
+                ],
+                "Kazakh": [
+                    "мөңіреу",
+                    "мөңіріс"
+                ],
+                "Karakalpak": [
+                    "móńіreu",
+                    "móńіregen dauıs"
+                ],
+                "Bashkir": [
+                    "мөңрәү тауышы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mö",
+                    "möleme"
+                ],
+                "Azerbaijani": [
+                    "möltü",
+                    "mölüş",
+                    "möl"
+                ],
+                "Kyrgyz": [
+                    "мөөрөө",
+                    "мөөрөг"
+                ],
+                "Bashkir": [
+                    "мөңрәү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "böğürtü"
+                ],
+                "Turkmen": [
+                    "mögürdi",
+                    "mögüremeklik"
+                ],
+                "Tatar": [
+                    "мөгерәү",
+                    "мөгерәү тавышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bo'kirish"
+                ]
+            }
+        }
+    ]
+}

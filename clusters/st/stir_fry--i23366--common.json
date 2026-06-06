@@ -1,0 +1,155 @@
+{
+    "id": "i23366",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "stir fry",
+    "en_definition": "fry very quickly over high heat",
+    "tr_word": "hızlı ateşte karıştırarak kızartmak",
+    "tr_definition": "yüksek ateşte çok hızlı bir şekilde karıştırarak pişirmek",
+    "ru_word": "обжаривать в раскаленном масле",
+    "ru_definition": "быстро обжаривать на сильном огне, постоянно помешивая",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kavurmak"
+                ],
+                "Azerbaijani": [
+                    "qovurmaq"
+                ],
+                "Turkmen": [
+                    "gowurmak"
+                ],
+                "Uzbek": [
+                    "qovurmoq"
+                ],
+                "Uyghur": [
+                    "قورۇماق"
+                ],
+                "Kyrgyz": [
+                    "кууруу"
+                ],
+                "Tatar": [
+                    "кавыру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dağlamaq"
+                ],
+                "Turkmen": [
+                    "daglamak"
+                ],
+                "Uzbek": [
+                    "dogʻlamoq"
+                ],
+                "Uyghur": [
+                    "داغلىماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qızartmaq"
+                ],
+                "Tatar": [
+                    "кыздыру"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырыу",
+                    "ҡыҙҙырып алыу",
+                    "ҡыҙыу утта ҡыҙҙырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қуыру"
+                ],
+                "Karakalpak": [
+                    "quırıu"
+                ],
+                "Tatar": [
+                    "куыру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шапшаң қуыру"
+                ],
+                "Kyrgyz": [
+                    "чап кууруу"
+                ],
+                "Karakalpak": [
+                    "sharpıp quırıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çevirmek"
+                ],
+                "Azerbaijani": [
+                    "çevirib-qovurmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېز قورۇماق"
+                ],
+                "Karakalpak": [
+                    "tez quırıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sotelemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çalt gowurmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jizillatmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аударып-төңкеріп қуыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "быжыратуу"
+                ]
+            }
+        }
+    ]
+}

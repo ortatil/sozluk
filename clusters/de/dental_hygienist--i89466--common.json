@@ -1,0 +1,107 @@
+{
+    "id": "i89466",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dental hygienist",
+    "en_definition": "someone trained to provide preventive dental service (cleaning teeth or taking x-rays)",
+    "tr_word": "diş hijyenisti",
+    "tr_definition": "diş temizliği ve röntgen çekimi gibi koruyucu diş sağlığı hizmetlerini sunmak üzere eğitilmiş uzman",
+    "ru_word": "гигиенист стоматологический",
+    "ru_definition": "специалист, обученный проводить профилактические стоматологические процедуры, такие как чистка зубов или рентгенография",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diş hijyenisti"
+                ],
+                "Azerbaijani": [
+                    "diş gigiyenisti"
+                ],
+                "Turkmen": [
+                    "diş gigiýenisti"
+                ],
+                "Uzbek": [
+                    "tish gigiyenisti",
+                    "tish tozalovchi"
+                ],
+                "Uyghur": [
+                    "چىش تازىلىغۇچى",
+                    "چىش تازىلاش مۇتەخەسسىسى",
+                    "چىش ئاسراش خادىمى"
+                ],
+                "Kazakh": [
+                    "тіс гигиенисі"
+                ],
+                "Kyrgyz": [
+                    "тиш тазалоочу",
+                    "тиш дарыгеринин жардамчысы",
+                    "тиш гигиенисти"
+                ],
+                "Karakalpak": [
+                    "tis gigienisti"
+                ],
+                "Tatar": [
+                    "теш гигиенисты"
+                ],
+                "Bashkir": [
+                    "теш гигиенисы",
+                    "теш таҙартыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "diş təmizləmə mütəxəssisi"
+                ],
+                "Turkmen": [
+                    "diş arassalaýjy",
+                    "diş lukmanynyň kömekçisi"
+                ],
+                "Uzbek": [
+                    "tish hamshirasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тіс тазалаушы",
+                    "тіс күтімі маманы"
+                ],
+                "Karakalpak": [
+                    "tis tazalaoshı",
+                    "tis kútimi qánigesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "теш белгече",
+                    "теш табибы ярдәмчесе"
+                ],
+                "Bashkir": [
+                    "теш белгесе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "diş sağlığı teknikeri",
+                    "ağız ve diş sağlığı teknisyeni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "stomatoloji gigiyenist"
+                ]
+            }
+        }
+    ]
+}

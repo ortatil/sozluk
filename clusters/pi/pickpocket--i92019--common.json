@@ -1,0 +1,131 @@
+{
+    "id": "i92019",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pickpocket",
+    "en_definition": "a thief who steals from the pockets or purses of others in public places",
+    "tr_word": "yankesici",
+    "tr_definition": "Kalabalık yerlerde başkalarının ceplerinden veya çantalarından para ve değerli eşya çalan hırsız.",
+    "ru_word": "карманник",
+    "ru_definition": "Вор, крадущий из карманов или сумок в общественных местах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "oğru"
+                ],
+                "Turkmen": [
+                    "ogry"
+                ],
+                "Uyghur": [
+                    "ئوغرى"
+                ],
+                "Kazakh": [
+                    "ұры"
+                ],
+                "Kyrgyz": [
+                    "ууру"
+                ],
+                "Karakalpak": [
+                    "urı"
+                ],
+                "Tatar": [
+                    "угры"
+                ],
+                "Bashkir": [
+                    "уғры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kisəbur"
+                ],
+                "Uzbek": [
+                    "kissavur"
+                ],
+                "Uyghur": [
+                    "كېسەۋاز"
+                ],
+                "Tatar": [
+                    "кесә карагы",
+                    "кесәче"
+                ],
+                "Bashkir": [
+                    "кеҫә сысҡаны",
+                    "кеҫә уғрыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cepçi"
+                ],
+                "Azerbaijani": [
+                    "cibgir"
+                ],
+                "Turkmen": [
+                    "jebkes"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yankesici"
+                ],
+                "Uyghur": [
+                    "يانچۇقچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "cho'ntakchi"
+                ],
+                "Kyrgyz": [
+                    "чөнтөкчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қалташы",
+                    "қалта кесуші"
+                ],
+                "Karakalpak": [
+                    "qaltashı",
+                    "qaltakeser"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hırsız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jübi ogrusy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'g'ri"
+                ]
+            }
+        }
+    ]
+}

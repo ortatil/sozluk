@@ -1,0 +1,94 @@
+{
+    "id": "i762",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "arboreal",
+    "en_definition": "inhabiting or frequenting trees",
+    "tr_word": "ağaçsıl",
+    "tr_definition": "ağaçlarda yaşayan veya ağaçlarla ilgili olan",
+    "ru_word": "древесный",
+    "ru_definition": "обитающий на деревьях или относящийся к деревьям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağaççıl",
+                    "ağaçta yaşayan"
+                ],
+                "Azerbaijani": [
+                    "ağacda yaşayan",
+                    "ağaclıq"
+                ],
+                "Turkmen": [
+                    "agaçda ýaşaýan",
+                    "agaççyl"
+                ],
+                "Kazakh": [
+                    "ағашшыл",
+                    "ағаш мекендейтін"
+                ],
+                "Tatar": [
+                    "агачтагы",
+                    "агачлык",
+                    "агачлы"
+                ],
+                "Bashkir": [
+                    "ағаслы",
+                    "ағаслыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "daraxtda yashovchi",
+                    "daraxtdagi",
+                    "daraxtga oid"
+                ],
+                "Uyghur": [
+                    "دەرەختە ياشايدىغان",
+                    "دەرەخ بېشىدىكى",
+                    "دەرەخلىك"
+                ],
+                "Kyrgyz": [
+                    "дарактагы",
+                    "даракчыл"
+                ],
+                "Karakalpak": [
+                    "tereklik",
+                    "terektegi",
+                    "terekshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şeceri"
+                ],
+                "Azerbaijani": [
+                    "şəcəri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "орманшыл"
+                ],
+                "Bashkir": [
+                    "урманлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыгаччыл"
+                ]
+            }
+        }
+    ]
+}

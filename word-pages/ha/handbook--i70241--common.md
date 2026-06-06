@@ -1,0 +1,261 @@
+# Handbook
+| Field | Detail |
+|---|---|
+| **ID** | i70241 |
+| **English** | handbook |
+| **Type** | noun |
+| **Definition** | a concise reference book providing specific information about a subject or location |
+| **Source** | common |
+| **Ortatil** | qollänmä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qollänmä** | **qullanma** | **nusqauluğum** |
+|---|---|---|---|
+| Turkish | ❌ | ✅ | ❌ |
+| Azerbaijani | ❌ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ✅ |
+| Tatar | ❌ | ✅ | ❌ |
+| Bashkir | ❌ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.33 | 0 |
+| *Qarluq Subtotal* | 1 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.40 | 0.60 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |
+| **O'TQ** | **2.93** | **1.23** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قوللانما | qollanma |
+| دەستۇر | dästur |
+| يېتەكچى | yetäkçi |
+| **Kazakh** | |
+| қолжазба | qoljazba |
+| нұсқаулық | nusqaulıq |
+| анықтамалық | anıqtamalıq |
+| басшылық | basşılıq |
+| **Kyrgyz** | |
+| колдонмо | koldonmo |
+| нускама | nuskama |
+| көрсөтмө | körsötmö |
+| маалымдама | maalımdama |
+| **Tatar** | |
+| кулланма | kullanma |
+| дәреслек | däreslek |
+| белешмәлек | beleşmälek |
+| тәртипнамә | tärtipnamä |
+| **Bashkir** | |
+| ҡулланма | qullanma |
+| белешмә | beleşmä |
+| белешмәлек | beleşmälek |
+| нәсихәт | näsixät |
+
+```json
+{
+    "id": "i70241",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "handbook",
+    "en_definition": "a concise reference book providing specific information about a subject or location",
+    "tr_word": "el kitabı",
+    "tr_definition": "belirli bir konu veya yer hakkında özlü ve pratik bilgiler içeren başvuru kitabı",
+    "ru_word": "справочник",
+    "ru_definition": "краткое справочное издание, содержащее конкретную информацию по определенному предмету или месту",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gollanma"
+                ],
+                "Uzbek": [
+                    "qoʻllanma"
+                ],
+                "Uyghur": [
+                    "قوللانما"
+                ],
+                "Kazakh": [
+                    "қолжазба"
+                ],
+                "Kyrgyz": [
+                    "колдонмо"
+                ],
+                "Karakalpak": [
+                    "qollanba"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kılavuz"
+                ],
+                "Tatar": [
+                    "кулланма"
+                ],
+                "Bashkir": [
+                    "ҡулланма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "нұсқаулық"
+                ],
+                "Kyrgyz": [
+                    "нускама"
+                ],
+                "Karakalpak": [
+                    "nұsqaulıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rehber"
+                ],
+                "Azerbaijani": [
+                    "rəhbər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dərslik"
+                ],
+                "Tatar": [
+                    "дәреслек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "beýan"
+                ],
+                "Uzbek": [
+                    "bayon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastur"
+                ],
+                "Uyghur": [
+                    "دەستۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "белешмәлек"
+                ],
+                "Bashkir": [
+                    "белешмә",
+                    "белешмәлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el kitabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təlimat",
+                    "məlumat kitabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýolbelet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yoʻriqnoma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېتەكچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "анықтамалық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "басшылық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көрсөтмө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "маалымдама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "túsіndіrme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәртипнамә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "нәсихәт"
+                ]
+            }
+        }
+    ]
+}
+```
+

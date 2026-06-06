@@ -1,0 +1,106 @@
+{
+    "id": "i58278",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rose bed",
+    "en_definition": "a flower bed in which roses are growing",
+    "tr_word": "gül bahçesi",
+    "tr_definition": "güllerin yetiştirildiği çiçek tarhı veya bahçe alanı",
+    "ru_word": "розарий",
+    "ru_definition": "цветочная клумба или участок сада, на котором растут розы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gül bahçesi",
+                    "güllük"
+                ],
+                "Azerbaijani": [
+                    "güllük",
+                    "gülşən",
+                    "gülüstən",
+                    "gülzar"
+                ],
+                "Turkmen": [
+                    "gülzar",
+                    "gülzarlyk",
+                    "gülbag"
+                ],
+                "Uyghur": [
+                    "گۈلزار",
+                    "گۈللۈك",
+                    "گۈلباغ"
+                ],
+                "Kazakh": [
+                    "гүлзар",
+                    "гүлбақша"
+                ],
+                "Kyrgyz": [
+                    "гүлзар",
+                    "гүл бакча"
+                ],
+                "Karakalpak": [
+                    "gúlzar",
+                    "gúlstan",
+                    "gúl baǵı"
+                ],
+                "Tatar": [
+                    "гөлбакча",
+                    "гөлстан"
+                ],
+                "Bashkir": [
+                    "гөлбостан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gulzor"
+                ],
+                "Bashkir": [
+                    "гөл баҡсаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "раушанбақ"
+                ],
+                "Bashkir": [
+                    "рауза баҡсаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gülistan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "atirgulzor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "роза гүлзары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кызыл гөллек"
+                ]
+            }
+        }
+    ]
+}

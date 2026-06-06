@@ -1,0 +1,179 @@
+# Raw wood
+| Field | Detail |
+|---|---|
+| **ID** | i116554 |
+| **English** | raw wood |
+| **Type** | noun |
+| **Definition** | wood that is not finished or painted |
+| **Source** | common |
+| **Ortatil** | cıgaç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| жыгач | jıgaç |
+
+```json
+{
+    "id": "i116554",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "raw wood",
+    "en_definition": "wood that is not finished or painted",
+    "tr_word": "işlenmemiş ahşap",
+    "tr_definition": "üzerinde boya, cila veya herhangi bir koruyucu katman bulunmayan doğal tahta",
+    "ru_word": "необработанная древесина",
+    "ru_definition": "древесина, которая не была окрашена, покрыта лаком или подвергнута другой отделке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işlenmemiş tahta"
+                ],
+                "Azerbaijani": [
+                    "işlənməmiş taxta"
+                ],
+                "Turkmen": [
+                    "işlenmedik agaç"
+                ],
+                "Uzbek": [
+                    "ishlov berilmagan yog'och"
+                ],
+                "Uyghur": [
+                    "ئىشلەنمىگەن ياغاچ"
+                ],
+                "Tatar": [
+                    "эшкәртелмәгән агач"
+                ],
+                "Bashkir": [
+                    "эшкәртелмәгән ағас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çig agaç"
+                ],
+                "Kazakh": [
+                    "шикі ағаш"
+                ],
+                "Kyrgyz": [
+                    "чийки жыгач"
+                ],
+                "Karakalpak": [
+                    "shiki aǵash"
+                ],
+                "Tatar": [
+                    "чи агач"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təbii ağac"
+                ],
+                "Uzbek": [
+                    "tabiiy yog'och"
+                ],
+                "Uyghur": [
+                    "تەبىئىي ياغاچ"
+                ],
+                "Kazakh": [
+                    "табиғи ағаш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ham odun",
+                    "ham kereste"
+                ],
+                "Azerbaijani": [
+                    "xam odun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "taýýarlanmadyk agaç"
+                ],
+                "Bashkir": [
+                    "таҙартылмаған ағас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xom yog'och"
+                ],
+                "Uyghur": [
+                    "خام ياغاچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaba ağaç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өңделмеген ағаш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыгач"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кургатыла элек жыгач"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aǵash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kesilgen aǵash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "буялмаған ағас"
+                ]
+            }
+        }
+    ]
+}
+```
+

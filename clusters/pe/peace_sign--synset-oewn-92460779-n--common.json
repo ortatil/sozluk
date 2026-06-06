@@ -1,0 +1,88 @@
+{
+    "id": "synset-oewn-92460779-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "peace sign",
+    "en_definition": "a symbol that represents peace, in the form of three lines within a circle.",
+    "tr_word": "barış işareti",
+    "tr_definition": "Bir daire içindeki üç çizgiden oluşan ve barışı temsil eden sembol.",
+    "ru_word": "пацифик",
+    "ru_definition": "символ мира в виде трех линий внутри круга.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tinchlik belgisi",
+                    "tinchlik ramzi",
+                    "tinchlik nishoni"
+                ],
+                "Uyghur": [
+                    "تىنچلىق بەلگىسى",
+                    "تىنچلىق سىمۋولى"
+                ],
+                "Kazakh": [
+                    "тыныштық белгісі"
+                ],
+                "Kyrgyz": [
+                    "тынчтык белгиси",
+                    "тынчтыктын нышаны",
+                    "тынчтыктын символу"
+                ],
+                "Karakalpak": [
+                    "tınıshlıq belgisi",
+                    "tınıshlıq nıshanı"
+                ],
+                "Tatar": [
+                    "тынычлык билгесе",
+                    "тынычлык символы",
+                    "тынычлык тамгасы"
+                ],
+                "Bashkir": [
+                    "тыныслыҡ билдәһе",
+                    "тыныслыҡ тамғаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "barış işareti",
+                    "barış sembolü",
+                    "barış simgesi"
+                ],
+                "Turkmen": [
+                    "parahatçylyk nyşany",
+                    "parahatçylyk alamaty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ynanşyk nyşany"
+                ],
+                "Uyghur": [
+                    "ئامانلىق بەلگىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sülh rəmzi",
+                    "sülh nişanı",
+                    "sülh əlaməti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейбітшілік белгісі",
+                    "бейбітшілік нышаны"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+# French honeysuckle
+| Field | Detail |
+|---|---|
+| **ID** | i104816 |
+| **English** | french honeysuckle |
+| **Type** | noun |
+| **Definition** | European herb with small fragrant crimson or white spurred flowers |
+| **Source** | common |
+| **Ortatil** | şirinmiyä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئېسپارسېت | esparset |
+| **Kazakh** | |
+| тиыншөп | tiınşöp |
+
+```json
+{
+    "id": "i104816",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "french honeysuckle",
+    "en_definition": "European herb with small fragrant crimson or white spurred flowers",
+    "tr_word": "tatlı tırfıl",
+    "tr_definition": "Küçük kokulu koyu kırmızı veya beyaz çiçekleri olan, Avrupa'ya özgü bir bitki türü.",
+    "ru_word": "копеечник венечный",
+    "ru_definition": "Европейское травянистое растение с мелкими ароматными малиновыми или белыми цветками со шпорцами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qizil beda"
+                ],
+                "Uyghur": [
+                    "قىزىل بېدە"
+                ],
+                "Kyrgyz": [
+                    "кызыл таспа"
+                ],
+                "Karakalpak": [
+                    "qızıl taspa"
+                ],
+                "Tatar": [
+                    "кызыл татлы үлән",
+                    "кызыл тукранбаш"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл татлы үлән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tatlı tırfıl"
+                ],
+                "Uyghur": [
+                    "تاتلىق بېدە"
+                ],
+                "Kazakh": [
+                    "тәтті тамыр"
+                ],
+                "Bashkir": [
+                    "татлы үлән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balotu"
+                ],
+                "Kyrgyz": [
+                    "бал чөп"
+                ],
+                "Tatar": [
+                    "баллы үлән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şirin biyan"
+                ],
+                "Turkmen": [
+                    "şirin ot"
+                ],
+                "Uzbek": [
+                    "shirinmiya",
+                    "shirin o't"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ispanyol korungası"
+                ],
+                "Uyghur": [
+                    "ئېسپارسېت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "таспа чөп"
+                ],
+                "Karakalpak": [
+                    "taspashóp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qırmızı qarayonca"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yabanı yonca"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýji oty",
+                    "süýji kök"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тиыншөп"
+                ]
+            }
+        }
+    ]
+}
+```
+

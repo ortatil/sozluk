@@ -1,0 +1,137 @@
+{
+    "id": "i4071",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "burned",
+    "en_definition": "destroyed or badly damaged by fire",
+    "tr_word": "yanmış",
+    "tr_definition": "ateş tarafından yok edilmiş veya ağır hasar görmüş",
+    "ru_word": "сгоревший",
+    "ru_definition": "уничтоженный или сильно поврежденный огнем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanık",
+                    "yanmış"
+                ],
+                "Azerbaijani": [
+                    "yanıq",
+                    "yanmış"
+                ],
+                "Turkmen": [
+                    "ýanan"
+                ],
+                "Uzbek": [
+                    "yongʻin",
+                    "yongan"
+                ],
+                "Kazakh": [
+                    "жанған"
+                ],
+                "Karakalpak": [
+                    "janǵan"
+                ],
+                "Tatar": [
+                    "янган",
+                    "яндырылган"
+                ],
+                "Bashkir": [
+                    "янған",
+                    "яндырылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köýen"
+                ],
+                "Uzbek": [
+                    "kuygan"
+                ],
+                "Uyghur": [
+                    "كۆيگەن",
+                    "كۆيۈك",
+                    "كۆيۈپ كەتكەن"
+                ],
+                "Kazakh": [
+                    "күйген",
+                    "күйік"
+                ],
+                "Kyrgyz": [
+                    "күйгөн",
+                    "күйүк",
+                    "күйүп кеткен"
+                ],
+                "Karakalpak": [
+                    "kúygen",
+                    "kúyіk"
+                ],
+                "Tatar": [
+                    "көйгән"
+                ],
+                "Bashkir": [
+                    "көйгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "örtülen"
+                ],
+                "Kazakh": [
+                    "өртелген"
+                ],
+                "Kyrgyz": [
+                    "өрттөнгөн"
+                ],
+                "Karakalpak": [
+                    "órtelgen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kül olmuş"
+                ],
+                "Uzbek": [
+                    "kul boʻlgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kavrulmuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tutuşmuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "alışmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "otlanan"
+                ]
+            }
+        }
+    ]
+}

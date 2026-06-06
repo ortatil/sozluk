@@ -1,0 +1,83 @@
+{
+    "id": "i56763",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "orange grove",
+    "en_definition": "grove of orange trees",
+    "tr_word": "portakal bahçesi",
+    "tr_definition": "portakal ağaçlarından oluşan meyve bahçesi",
+    "ru_word": "апельсиновая роща",
+    "ru_definition": "участок земли, засаженный апельсиновыми деревьями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "apelsinzor",
+                    "apelsin bog'i"
+                ],
+                "Uyghur": [
+                    "ئاپېلسىنزارلىق",
+                    "ئاپېلسىن باغچىسى",
+                    "ئاپېلسىنلىق"
+                ],
+                "Kazakh": [
+                    "апельсин бағы",
+                    "апельсин тоғайы"
+                ],
+                "Kyrgyz": [
+                    "апельсин багы",
+                    "апельсинзар"
+                ],
+                "Karakalpak": [
+                    "apelsin baǵı",
+                    "apelsinzar"
+                ],
+                "Tatar": [
+                    "әфлисун бакчасы"
+                ],
+                "Bashkir": [
+                    "апельсин баҡсаһы",
+                    "апельсинлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "portakal bahçesi"
+                ],
+                "Azerbaijani": [
+                    "portağallıq",
+                    "portağal bağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "narenciye bahçesi"
+                ],
+                "Tatar": [
+                    "нәринг бакчасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "turunçgil bahçesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mämişeçilik",
+                    "mämişe bagy",
+                    "mämişelik"
+                ]
+            }
+        }
+    ]
+}

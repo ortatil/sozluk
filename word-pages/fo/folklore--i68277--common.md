@@ -1,0 +1,241 @@
+# Folklore
+| Field | Detail |
+|---|---|
+| **ID** | i68277 |
+| **English** | folklore |
+| **Type** | noun |
+| **Definition** | the unwritten lore (stories and proverbs and riddles and songs) of a culture |
+| **Source** | common |
+| **Ortatil** | folklor |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **folklor** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.47** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| فولكلور | folklor |
+| **Kazakh** | |
+| фольклор | folklor |
+| **Tatar** | |
+| фольклор | folklor |
+| телдән-телгә | teldän-telgä |
+| **Bashkir** | |
+| фольклор | folklor |
+| мираҫ | miras |
+
+```json
+{
+    "id": "i68277",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "folklore",
+    "en_definition": "the unwritten lore (stories and proverbs and riddles and songs) of a culture",
+    "tr_word": "folklor",
+    "tr_definition": "Bir toplumun geleneklerini, inançlarını, hikayelerini ve sözlü kültürünü inceleyen bilim dalı veya bu kültürün kendisi.",
+    "ru_word": "фольклор",
+    "ru_definition": "Народное творчество, чаще всего устное; художественная коллективная творческая деятельность народа.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "halk bilimi",
+                    "halkiyat"
+                ],
+                "Azerbaijani": [
+                    "xalq yaradıcılığı"
+                ],
+                "Turkmen": [
+                    "halk döredijiligi",
+                    "halk mirasy"
+                ],
+                "Uzbek": [
+                    "xalq og'zaki ijodi"
+                ],
+                "Uyghur": [
+                    "خەلق ئېغىز ئەدەبىياتى",
+                    "خەلق مىراسلىرى"
+                ],
+                "Kazakh": [
+                    "халық мұрасы",
+                    "халық шығармашылығы"
+                ],
+                "Karakalpak": [
+                    "xalıq aoız dóretpesi"
+                ],
+                "Tatar": [
+                    "халык иҗаты",
+                    "халык мирасы"
+                ],
+                "Bashkir": [
+                    "халыҡ ижады"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "folklor"
+                ],
+                "Turkmen": [
+                    "folklory"
+                ],
+                "Uzbek": [
+                    "folklorshunoslik"
+                ],
+                "Uyghur": [
+                    "فولكلور"
+                ],
+                "Kazakh": [
+                    "фольклор"
+                ],
+                "Karakalpak": [
+                    "folklor"
+                ],
+                "Tatar": [
+                    "фольклор"
+                ],
+                "Bashkir": [
+                    "фольклор"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "el sənəti"
+                ],
+                "Uzbek": [
+                    "el og'zidagi gaplar"
+                ],
+                "Kazakh": [
+                    "ел аузындағы сөз"
+                ],
+                "Kyrgyz": [
+                    "элдик мурас",
+                    "элдик казына"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "og'zaki ijod"
+                ],
+                "Kazakh": [
+                    "ауыз әдебиеті"
+                ],
+                "Tatar": [
+                    "авыз иҗаты"
+                ],
+                "Bashkir": [
+                    "ауыҙ-тел ижады"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dilden berilýän edebiýat"
+                ],
+                "Tatar": [
+                    "телдән-телгә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gelenek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anane"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şifahi xalq ədəbiyyatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rivoyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "afsona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەل رىۋايەتلىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ооз эки чыгармачылык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "элдик ооз эки чыгармачылык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aoız eki ádebiyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мираҫ"
+                ]
+            }
+        }
+    ]
+}
+```
+

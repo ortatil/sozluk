@@ -1,0 +1,94 @@
+# Nast
+| Field | Detail |
+|---|---|
+| **ID** | i96372 |
+| **English** | nast |
+| **Type** | noun |
+| **Definition** | United States political cartoonist (1840-1902) |
+| **Source** | common |
+| **Ortatil** | kärikätıräçi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| Наст | nast |
+| **Tatar** | |
+| Наст | nast |
+
+```json
+{
+    "id": "i96372",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nast",
+    "en_definition": "United States political cartoonist (1840-1902)",
+    "tr_word": "Nast",
+    "tr_definition": "Amerika Birleşik Devletleri'nde yaşamış, modern siyasi karikatürün babası olarak kabul edilen Alman asıllı karikatürist (1840-1902).",
+    "ru_word": "Наст",
+    "ru_definition": "Американский художник-карикатурист немецкого происхождения, считающийся основателем жанра американского политического рисунка (1840-1902).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Thomas Nast"
+                ],
+                "Azerbaijani": [
+                    "Tomas Nast"
+                ],
+                "Turkmen": [
+                    "Tomas Nast"
+                ],
+                "Uzbek": [
+                    "Tomas Nast"
+                ],
+                "Uyghur": [
+                    "توماس ناست"
+                ],
+                "Kazakh": [
+                    "Томас Наст"
+                ],
+                "Kyrgyz": [
+                    "Томас Наст"
+                ],
+                "Karakalpak": [
+                    "Tomas Nast"
+                ],
+                "Bashkir": [
+                    "Томас Наст"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Наст"
+                ],
+                "Tatar": [
+                    "Наст"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "karikaturachi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rassom"
+                ]
+            }
+        }
+    ]
+}
+```
+

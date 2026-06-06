@@ -1,0 +1,141 @@
+# Trolley line
+| Field | Detail |
+|---|---|
+| **ID** | i60577 |
+| **English** | trolley line |
+| **Type** | noun |
+| **Definition** | a transit line using streetcars or trolley buses |
+| **Source** | common |
+| **Ortatil** | kattam |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| каттам | kattam |
+| багыт | bagıt |
+
+```json
+{
+    "id": "i60577",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trolley line",
+    "en_definition": "a transit line using streetcars or trolley buses",
+    "tr_word": "tramvay hattı",
+    "tr_definition": "Tramvayların veya troleybüslerin ulaşım sağladığı yol veya güzergâh.",
+    "ru_word": "трамвайная линия",
+    "ru_definition": "Транспортная линия, по которой курсируют трамваи или троллейбусы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tramvay hattı",
+                    "tramvay yolu"
+                ],
+                "Azerbaijani": [
+                    "tramvay xətti",
+                    "tramvay yolu"
+                ],
+                "Turkmen": [
+                    "tramwaý ýoly"
+                ],
+                "Uzbek": [
+                    "tramvay yoʻli",
+                    "trolleybus yoʻli"
+                ],
+                "Uyghur": [
+                    "ترامۋاي يولى"
+                ],
+                "Kazakh": [
+                    "трамвай жолы",
+                    "трамвай желісі"
+                ],
+                "Kyrgyz": [
+                    "трамвай жолу"
+                ],
+                "Karakalpak": [
+                    "tramway jolı",
+                    "tramway liniyası"
+                ],
+                "Tatar": [
+                    "трамвай юлы",
+                    "транспорт юлы"
+                ],
+                "Bashkir": [
+                    "трамвай юлы",
+                    "транспорт юлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "trolleýbus ýoly"
+                ],
+                "Kyrgyz": [
+                    "троллейбус жолу"
+                ],
+                "Tatar": [
+                    "троллейбус юлы"
+                ],
+                "Bashkir": [
+                    "троллейбус юлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gatnaw ýoly"
+                ],
+                "Uzbek": [
+                    "qatnov yoʻli"
+                ],
+                "Uyghur": [
+                    "قاتناش لىنىيەسى"
+                ],
+                "Kyrgyz": [
+                    "каттам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "raylı hat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəqliyyat xətti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік жолы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "багыт"
+                ]
+            }
+        }
+    ]
+}
+```
+

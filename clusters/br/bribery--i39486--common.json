@@ -1,0 +1,116 @@
+{
+    "id": "i39486",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bribery",
+    "en_definition": "the practice of offering something (usually money) in order to gain an illicit advantage",
+    "tr_word": "rüşvet",
+    "tr_definition": "Yasadışı bir avantaj elde etmek amacıyla birine (genellikle para) bir şeyler sunma uygulaması.",
+    "ru_word": "взяточничество",
+    "ru_definition": "Практика предложения чего-либо (обычно денег) с целью получения незаконного преимущества.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rüşvet",
+                    "rüşvetçilik"
+                ],
+                "Azerbaijani": [
+                    "rüşvət",
+                    "rüşvətxorluq"
+                ],
+                "Turkmen": [
+                    "rüşwet"
+                ],
+                "Uzbek": [
+                    "rishvat"
+                ],
+                "Uyghur": [
+                    "رىشۋەتخورلۇق",
+                    "رىشۋەت"
+                ],
+                "Tatar": [
+                    "ришвәтчелек",
+                    "ришвәт"
+                ],
+                "Bashkir": [
+                    "риүәт",
+                    "ришүәт",
+                    "ришүәтселек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "para",
+                    "parahorluk"
+                ],
+                "Uzbek": [
+                    "pora",
+                    "poraxoʻrlik"
+                ],
+                "Uyghur": [
+                    "پارخورلۇق",
+                    "پارا"
+                ],
+                "Kazakh": [
+                    "пара",
+                    "парақорлық"
+                ],
+                "Kyrgyz": [
+                    "пара",
+                    "паракорлук"
+                ],
+                "Karakalpak": [
+                    "para",
+                    "paraxorlıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жемқорлық"
+                ],
+                "Kyrgyz": [
+                    "жемкорлук"
+                ],
+                "Karakalpak": [
+                    "jemqorlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "irtikap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fəsad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сатылу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "риүәтселек"
+                ]
+            }
+        }
+    ]
+}

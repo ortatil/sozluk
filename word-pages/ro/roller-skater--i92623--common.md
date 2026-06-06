@@ -1,0 +1,116 @@
+# Roller-skater
+| Field | Detail |
+|---|---|
+| **ID** | i92623 |
+| **English** | roller-skater |
+| **Type** | noun |
+| **Definition** | someone who engages in roller skating |
+| **Source** | common |
+| **Ortatil** | patenci |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| роликші | rolikşi |
+
+```json
+{
+    "id": "i92623",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "roller-skater",
+    "en_definition": "someone who engages in roller skating",
+    "tr_word": "patenci",
+    "tr_definition": "tekerlekli paten kullanarak kayan kimse",
+    "ru_word": "роллер",
+    "ru_definition": "человек, который катается на роликовых коньках",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "роликті коньки тебуші",
+                    "роликші"
+                ],
+                "Kyrgyz": [
+                    "ролик тебүүчү"
+                ],
+                "Karakalpak": [
+                    "rolikshi",
+                    "rolik tebioshi"
+                ],
+                "Tatar": [
+                    "роликлы тимераякта шуучы"
+                ],
+                "Bashkir": [
+                    "роликлы конькиҙа шыуыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekerlekli patenci"
+                ],
+                "Turkmen": [
+                    "tigirçekli konkiçi",
+                    "tigirçekli typyjy"
+                ],
+                "Tatar": [
+                    "тәгәрмәчле тимераякта шуучы"
+                ],
+                "Bashkir": [
+                    "тәгәрмәсле конькиҙа шыуыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "patenci"
+                ],
+                "Azerbaijani": [
+                    "patençi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çarxlı konki sürən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'ildirakli konkichilar",
+                    "g'ildirakli konki uchuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چاقلىق كانكىچى",
+                    "چاقلىق كانكا ئۇچقۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дөңгөлөктүү коньки тебүүчү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,88 @@
+{
+    "id": "i51608",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "casino",
+    "en_definition": "a public building for gambling and entertainment",
+    "tr_word": "kumarhane",
+    "tr_definition": "Kumar oynanan ve eğlence sunan halka açık bina",
+    "ru_word": "казино",
+    "ru_definition": "игорное заведение, в котором проводятся игры с использованием рулетки, карт или игровых автоматов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kumarhane"
+                ],
+                "Azerbaijani": [
+                    "qumarxana"
+                ],
+                "Turkmen": [
+                    "humarhana"
+                ],
+                "Uzbek": [
+                    "qimorxona"
+                ],
+                "Uyghur": [
+                    "قۇمارخانا"
+                ],
+                "Kazakh": [
+                    "құмархана"
+                ],
+                "Kyrgyz": [
+                    "кумаркана"
+                ],
+                "Karakalpak": [
+                    "qumarxana"
+                ],
+                "Tatar": [
+                    "комарханә"
+                ],
+                "Bashkir": [
+                    "ҡомарлы уйын йорто",
+                    "ҡомархана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "oyun evi"
+                ],
+                "Turkmen": [
+                    "oýunhana"
+                ],
+                "Uzbek": [
+                    "oʻyingoh"
+                ],
+                "Uyghur": [
+                    "ئويۇنخانا"
+                ],
+                "Kazakh": [
+                    "ойынхана"
+                ],
+                "Kyrgyz": [
+                    "оюнкана"
+                ],
+                "Karakalpak": [
+                    "oyınxana"
+                ],
+                "Tatar": [
+                    "уенханә"
+                ],
+                "Bashkir": [
+                    "уйын йорто"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gazino"
+                ]
+            }
+        }
+    ]
+}

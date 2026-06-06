@@ -1,0 +1,130 @@
+# Nehru
+| Field | Detail |
+|---|---|
+| **ID** | i96383 |
+| **English** | nehru |
+| **Type** | noun |
+| **Definition** | Indian statesman and leader with Gandhi in the struggle for home rule; was the first prime minister of the Republic of India from 1947 to 1964 (1889-1964) |
+| **Source** | common |
+| **Ortatil** | neru |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **neru** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| نېھرۇ | nehru |
+| **Kazakh** | |
+| Неру | neru |
+| **Kyrgyz** | |
+| Неру | neru |
+| **Tatar** | |
+| Неру | neru |
+| **Bashkir** | |
+| Неру | neru |
+
+```json
+{
+    "id": "i96383",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nehru",
+    "en_definition": "Indian statesman and leader with Gandhi in the struggle for home rule; was the first prime minister of the Republic of India from 1947 to 1964 (1889-1964)",
+    "tr_word": "Nehru",
+    "tr_definition": "Hindistan'ın bağımsızlık mücadelesinde Gandhi ile birlikte yer alan devlet adamı ve 1947-1964 yılları arasında Hindistan Cumhuriyeti'nin ilk başbakanı (1889-1964).",
+    "ru_word": "Неру",
+    "ru_definition": "Индийский государственный деятель, соратник Ганди в борьбе за независимость; первый премьер-министр Республики Индия с 1947 по 1964 год (1889-1964).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Jawaharlal Nehru"
+                ],
+                "Azerbaijani": [
+                    "Cəvahirləl Nehru"
+                ],
+                "Turkmen": [
+                    "Jawaharlal Neru"
+                ],
+                "Uzbek": [
+                    "Javoharlal Neru"
+                ],
+                "Uyghur": [
+                    "جاۋاھارلال نېھرۇ"
+                ],
+                "Kazakh": [
+                    "Джавахарлал Неру"
+                ],
+                "Kyrgyz": [
+                    "Жавахарлал Неру"
+                ],
+                "Karakalpak": [
+                    "Djawaxarlal Neru"
+                ],
+                "Tatar": [
+                    "Җаваһарлал Неру"
+                ],
+                "Bashkir": [
+                    "Джавахарлал Неру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Nehru"
+                ],
+                "Azerbaijani": [
+                    "Nehru"
+                ],
+                "Turkmen": [
+                    "Nerunyň"
+                ],
+                "Uzbek": [
+                    "Neru"
+                ],
+                "Uyghur": [
+                    "نېھرۇ"
+                ],
+                "Kazakh": [
+                    "Неру"
+                ],
+                "Kyrgyz": [
+                    "Неру"
+                ],
+                "Karakalpak": [
+                    "Neru"
+                ],
+                "Tatar": [
+                    "Неру"
+                ],
+                "Bashkir": [
+                    "Неру"
+                ]
+            }
+        }
+    ]
+}
+```
+

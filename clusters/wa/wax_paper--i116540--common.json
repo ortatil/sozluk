@@ -1,0 +1,86 @@
+{
+    "id": "i116540",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wax paper",
+    "en_definition": "paper that has been waterproofed by treatment with wax or paraffin",
+    "tr_word": "balmumu kağıdı",
+    "tr_definition": "balmumu veya parafin ile işlenerek su geçirmez hale getirilmiş kağıt",
+    "ru_word": "вощёная бумага",
+    "ru_definition": "бумага, пропитанная воском или парафином для придания ей водонепроницаемости",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mumlu kağıt"
+                ],
+                "Azerbaijani": [
+                    "mumlu kağız"
+                ],
+                "Turkmen": [
+                    "mumly kagyz"
+                ],
+                "Uzbek": [
+                    "mumli qog'oz"
+                ],
+                "Uyghur": [
+                    "موملانغان قەغەز",
+                    "موم قەغەز"
+                ],
+                "Kyrgyz": [
+                    "мом кагаз",
+                    "момдолгон кагаз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağlı kağıt"
+                ],
+                "Azerbaijani": [
+                    "yağlı kağız"
+                ],
+                "Kazakh": [
+                    "майлы қағаз"
+                ],
+                "Karakalpak": [
+                    "maylı qaǵaz"
+                ],
+                "Tatar": [
+                    "майлы кәгазь"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "балауыз қағаз"
+                ],
+                "Karakalpak": [
+                    "balauız qaǵaz"
+                ],
+                "Tatar": [
+                    "балавызлы кәгазь"
+                ],
+                "Bashkir": [
+                    "балауыҙлы ҡағыҙ",
+                    "балауыҙланған ҡағыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "parafinli kagyz"
+                ],
+                "Uzbek": [
+                    "parafinli qog'oz"
+                ]
+            }
+        }
+    ]
+}

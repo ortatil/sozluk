@@ -1,0 +1,202 @@
+{
+    "id": "i10220",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "public",
+    "en_definition": "not private; open to or concerning the people as a whole",
+    "tr_word": "kamu",
+    "tr_definition": "özel olmayan; halkın bütününe açık veya halkı ilgilendiren",
+    "ru_word": "общественный",
+    "ru_definition": "не частный; открытый для всех или касающийся всего населения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "açıq"
+                ],
+                "Turkmen": [
+                    "açyk"
+                ],
+                "Uzbek": [
+                    "ochiq"
+                ],
+                "Kazakh": [
+                    "ашық"
+                ],
+                "Kyrgyz": [
+                    "ачык"
+                ],
+                "Karakalpak": [
+                    "ashıq"
+                ],
+                "Tatar": [
+                    "ачык"
+                ],
+                "Bashkir": [
+                    "асыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "halk"
+                ],
+                "Uzbek": [
+                    "xalq"
+                ],
+                "Uyghur": [
+                    "خەلقچىل"
+                ],
+                "Kazakh": [
+                    "халықтық"
+                ],
+                "Karakalpak": [
+                    "xalıqlıq"
+                ],
+                "Tatar": [
+                    "халык"
+                ],
+                "Bashkir": [
+                    "халыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "umumi"
+                ],
+                "Azerbaijani": [
+                    "ümumi"
+                ],
+                "Turkmen": [
+                    "umumy"
+                ],
+                "Uzbek": [
+                    "umumiy",
+                    "ommaviy"
+                ],
+                "Uyghur": [
+                    "ئاممىۋى"
+                ],
+                "Tatar": [
+                    "гомуми"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ictimai"
+                ],
+                "Uzbek": [
+                    "ijtimoiy"
+                ],
+                "Tatar": [
+                    "иҗтимагый"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "جامائەت"
+                ],
+                "Karakalpak": [
+                    "jámiyetlik"
+                ],
+                "Bashkir": [
+                    "йәмәғەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "aşkar"
+                ],
+                "Uyghur": [
+                    "ئاشكارا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалпы"
+                ],
+                "Kyrgyz": [
+                    "жалпы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоғамдық"
+                ],
+                "Kyrgyz": [
+                    "коомдук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "köpçülikleýin"
+                ],
+                "Karakalpak": [
+                    "kópshilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kamu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toplum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aleni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "il-gün"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "элдик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дөйөм"
+                ]
+            }
+        }
+    ]
+}

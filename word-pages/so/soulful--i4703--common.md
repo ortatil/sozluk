@@ -1,0 +1,305 @@
+# Soulful
+| Field | Detail |
+|---|---|
+| **ID** | i4703 |
+| **English** | soulful |
+| **Type** | adjective |
+| **Definition** | full of or expressing deep emotion |
+| **Source** | common |
+| **Ortatil** | täsirli, hisli, sämimiy, canlı, ḍärin |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **täsirli** | **hisli** | **sämimiy** | **canlı** | **ḍärin** | **ruhlu** | **duyğlu** | **ıqılastı** |
+|---|---|---|---|---|---|---|---|---|
+| Turkish | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ |
+| Bashkir | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0.67 | 0.67 | 0.67 | 0.33 | 0.33 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 1 | 0.50 | 0.50 | 0 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0.40 | 0.20 | 0.60 | 0.60 | 0.40 | 0 | 0.60 |
+| *In All* | ✅ | ✅ | ✅ | ✅ | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |  | ✅ |  |  |
+| **O'TQ** | **3.47** | **3.07** | **2.87** | **2.77** | **2.43** | **1.23** | **1** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەسىرلىك | täsirlik |
+| ھېسسىياتلىق | hessiyatliq |
+| جانلىق | janliq |
+| سەمىمىي | sämimiy |
+| مۇڭلۇق | muñluq |
+| **Kazakh** | |
+| әсерлі | äserli |
+| жанды | jandı |
+| ықыласты | ıqılastı |
+| жүректі | jürekti |
+| тебіреністі | tebirenisti |
+| **Kyrgyz** | |
+| таасирдүү | taasirdüü |
+| жандуу | janduu |
+| сезимтал | sezimtal |
+| терең | tereñ |
+| ички | içki |
+| **Tatar** | |
+| тәэсирле | täesirle |
+| хисле | xisle |
+| тирән | tirän |
+| рухлы | ruxlı |
+| күңелле | küñelle |
+| **Bashkir** | |
+| хисле | xisle |
+| тәрән | tärän |
+| рухлы | ruxlı |
+| ихлас | ixlas |
+| күңелле | küñelle |
+
+```json
+{
+    "id": "i4703",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "soulful",
+    "en_definition": "full of or expressing deep emotion",
+    "tr_word": "duygu dolu",
+    "tr_definition": "derin duygu dolu veya derin duygu ifade eden",
+    "ru_word": "душевный",
+    "ru_definition": "полный глубоких чувств или выражающий их",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təsirli"
+                ],
+                "Turkmen": [
+                    "mähirli"
+                ],
+                "Uzbek": [
+                    "ta'sirchan"
+                ],
+                "Uyghur": [
+                    "تەسىرلىك"
+                ],
+                "Kazakh": [
+                    "әсерлі"
+                ],
+                "Kyrgyz": [
+                    "таасирдүү"
+                ],
+                "Karakalpak": [
+                    "tásirli"
+                ],
+                "Tatar": [
+                    "тәэсирле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hissiyatlı"
+                ],
+                "Azerbaijani": [
+                    "hissli"
+                ],
+                "Uzbek": [
+                    "hisli"
+                ],
+                "Uyghur": [
+                    "ھېسسىياتلىق"
+                ],
+                "Tatar": [
+                    "хисле"
+                ],
+                "Bashkir": [
+                    "хисле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "canlı"
+                ],
+                "Turkmen": [
+                    "çynlakaý"
+                ],
+                "Uyghur": [
+                    "جانلىق"
+                ],
+                "Kazakh": [
+                    "жанды"
+                ],
+                "Kyrgyz": [
+                    "жандуу"
+                ],
+                "Karakalpak": [
+                    "janlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "samimi"
+                ],
+                "Azerbaijani": [
+                    "səmimi"
+                ],
+                "Uzbek": [
+                    "samimiy"
+                ],
+                "Uyghur": [
+                    "سەمىمىي"
+                ],
+                "Kyrgyz": [
+                    "сезимтал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "derin"
+                ],
+                "Uzbek": [
+                    "dardli"
+                ],
+                "Kyrgyz": [
+                    "терең"
+                ],
+                "Tatar": [
+                    "тирән"
+                ],
+                "Bashkir": [
+                    "тәрән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "duygulu"
+                ],
+                "Azerbaijani": [
+                    "duyğulu"
+                ],
+                "Turkmen": [
+                    "duýgyly"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ruhlu"
+                ],
+                "Tatar": [
+                    "рухлы"
+                ],
+                "Bashkir": [
+                    "рухлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ықыласты"
+                ],
+                "Karakalpak": [
+                    "ıxlaslı"
+                ],
+                "Bashkir": [
+                    "ихлас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "içten"
+                ],
+                "Kyrgyz": [
+                    "ички"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇڭلۇق"
+                ],
+                "Karakalpak": [
+                    "muńlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жүректі"
+                ],
+                "Karakalpak": [
+                    "júrekten"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күңелле"
+                ],
+                "Bashkir": [
+                    "күңелле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kalply"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ynsanperwer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jo'shqin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тебіреністі"
+                ]
+            }
+        }
+    ]
+}
+```
+

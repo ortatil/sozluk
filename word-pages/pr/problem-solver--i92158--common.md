@@ -1,0 +1,252 @@
+# Problem solver
+| Field | Detail |
+|---|---|
+| **ID** | i92158 |
+| **English** | problem solver |
+| **Type** | noun |
+| **Definition** | a thinker who focuses on the problem as stated and tries to synthesize information and knowledge to achieve a solution |
+| **Source** | common |
+| **Ortatil** | müşkulkuça |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **aqılman** | **çeçüwçü** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ❌ | ❌ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ✅ |
+| Bashkir | ❌ | ✅ |
+| *Oghuz Subtotal* | 0 | 0 |
+| *Qarluq Subtotal* | 0 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.60 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **0.60** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەدبىرچى | tädbirçi |
+| **Kazakh** | |
+| ақылман | aqılman |
+| кеңесші | keñesşi |
+| **Kyrgyz** | |
+| чечмелөөчү | çeçmelööçü |
+| акылман | akılman |
+| чечүүчү | çeçüüçü |
+| кеңешчи | keñeşçi |
+| чебер | çeber |
+| **Tatar** | |
+| чишүче | çişüçe |
+| **Bashkir** | |
+| сисеүсе | siseüse |
+
+```json
+{
+    "id": "i92158",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "problem solver",
+    "en_definition": "a thinker who focuses on the problem as stated and tries to synthesize information and knowledge to achieve a solution",
+    "tr_word": "sorun çözücü",
+    "tr_definition": "belirtilen soruna odaklanan ve bir çözüme ulaşmak için bilgi ve birikimi sentezlemeye çalışan düşünür",
+    "ru_word": "решатель проблем",
+    "ru_definition": "мыслитель, который сосредотачивается на поставленной задаче и пытается синтезировать информацию и знания для достижения решения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "halledici"
+                ],
+                "Azerbaijani": [
+                    "həll yolu tapan"
+                ],
+                "Turkmen": [
+                    "hallediji"
+                ],
+                "Uzbek": [
+                    "hal qiluvchi"
+                ],
+                "Tatar": [
+                    "хәл итүче"
+                ],
+                "Bashkir": [
+                    "хәл итеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çäre tapyjy"
+                ],
+                "Uzbek": [
+                    "chora topuvchi"
+                ],
+                "Uyghur": [
+                    "چارە تاپقۇچى"
+                ],
+                "Tatar": [
+                    "чара табучы"
+                ],
+                "Bashkir": [
+                    "сара табыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məsələni həll edən"
+                ],
+                "Uyghur": [
+                    "مەسىلە ھەل قىلغۇچى"
+                ],
+                "Kazakh": [
+                    "мәселе шешуші"
+                ],
+                "Karakalpak": [
+                    "másele sheshіushі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yechim topuvchi"
+                ],
+                "Kazakh": [
+                    "шешім табушы"
+                ],
+                "Kyrgyz": [
+                    "чечмелөөчү"
+                ],
+                "Karakalpak": [
+                    "sheshіm tabushı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çözümleyici"
+                ],
+                "Azerbaijani": [
+                    "çözüm tapan"
+                ],
+                "Turkmen": [
+                    "çözüji"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ақылман"
+                ],
+                "Kyrgyz": [
+                    "акылман"
+                ],
+                "Karakalpak": [
+                    "aqılgóy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "чечүүчү"
+                ],
+                "Tatar": [
+                    "чишүче"
+                ],
+                "Bashkir": [
+                    "сисеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müşkilküşa"
+                ],
+                "Uzbek": [
+                    "mushkul-kushod"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەدبىرچى"
+                ],
+                "Karakalpak": [
+                    "tádbirker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түйін тарқатушы"
+                ],
+                "Bashkir": [
+                    "төйөндө сисеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кеңесші"
+                ],
+                "Kyrgyz": [
+                    "кеңешчи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sorun çözücü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müvəffəqiyyət qazanan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ugurtapyjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чебер"
+                ]
+            }
+        }
+    ]
+}
+```
+

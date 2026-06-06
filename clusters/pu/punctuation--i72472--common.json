@@ -1,0 +1,106 @@
+{
+    "id": "i72472",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "punctuation",
+    "en_definition": "the marks used to clarify meaning by indicating separation of words into sentences and clauses and phrases",
+    "tr_word": "noktalama",
+    "tr_definition": "Anlamı netleştirmek için kelimelerin cümlelere, yan cümlelere ve ifadelere ayrılmasını gösteren işaretlerin kullanımı.",
+    "ru_word": "пунктуация",
+    "ru_definition": "Система знаков препинания, используемая для разделения слов на предложения и фразы с целью уточнения смысла.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dyngy belgileri"
+                ],
+                "Uzbek": [
+                    "tinish belgilari"
+                ],
+                "Uyghur": [
+                    "تىنىش بەلگىلىرى",
+                    "تىنىش بەلگىسى"
+                ],
+                "Kazakh": [
+                    "тыныс белгілері"
+                ],
+                "Kyrgyz": [
+                    "тыныш белгилери"
+                ],
+                "Karakalpak": [
+                    "tınıs belgileri"
+                ],
+                "Tatar": [
+                    "тыныш билгеләре"
+                ],
+                "Bashkir": [
+                    "тыныш билдәләре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "punktuasiýa"
+                ],
+                "Uzbek": [
+                    "punktuatsiya"
+                ],
+                "Kazakh": [
+                    "пунктуация"
+                ],
+                "Kyrgyz": [
+                    "пунктуация"
+                ],
+                "Karakalpak": [
+                    "punktuaciya"
+                ],
+                "Tatar": [
+                    "пунктуация"
+                ],
+                "Bashkir": [
+                    "пунктуация"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "noktalama",
+                    "noktalama işaretleri"
+                ],
+                "Azerbaijani": [
+                    "nüqtələmə"
+                ],
+                "Kazakh": [
+                    "тоқтау белгілері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "imla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "durğu",
+                    "durğu işarələri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىشارەت"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "id": "i22009",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "wear",
+    "en_definition": "have on one's person",
+    "tr_word": "giymek",
+    "tr_definition": "bir giysiyi veya aksesuarı vücudunda bulundurmak",
+    "ru_word": "носить",
+    "ru_definition": "иметь на себе одежду, украшения или другие предметы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "giymek"
+                ],
+                "Azerbaijani": [
+                    "geyinmək"
+                ],
+                "Turkmen": [
+                    "geýmek"
+                ],
+                "Uzbek": [
+                    "kiymoq"
+                ],
+                "Uyghur": [
+                    "كىيمەك"
+                ],
+                "Kazakh": [
+                    "кию"
+                ],
+                "Kyrgyz": [
+                    "кийүү"
+                ],
+                "Karakalpak": [
+                    "kiyio"
+                ],
+                "Tatar": [
+                    "кию"
+                ],
+                "Bashkir": [
+                    "кейеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "takmak"
+                ],
+                "Azerbaijani": [
+                    "taxmaq"
+                ],
+                "Turkmen": [
+                    "dakynmak"
+                ],
+                "Uzbek": [
+                    "taqmoq"
+                ],
+                "Uyghur": [
+                    "تاقاش"
+                ],
+                "Kazakh": [
+                    "тағу"
+                ],
+                "Kyrgyz": [
+                    "тагынуу"
+                ],
+                "Karakalpak": [
+                    "taǵıo"
+                ],
+                "Tatar": [
+                    "тагу"
+                ],
+                "Bashkir": [
+                    "тағыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "geýnip ýörmek"
+                ],
+                "Uzbek": [
+                    "kiyib yurmoq"
+                ],
+                "Uyghur": [
+                    "كىيىپ يۈرمەك"
+                ],
+                "Kazakh": [
+                    "киіп жүру"
+                ],
+                "Tatar": [
+                    "киенеп йөрү"
+                ],
+                "Bashkir": [
+                    "кейеп йөрөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taşımak"
+                ],
+                "Azerbaijani": [
+                    "daşımaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жамынуу"
+                ],
+                "Karakalpak": [
+                    "jamılıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuşanmak"
+                ]
+            }
+        }
+    ]
+}

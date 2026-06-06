@@ -1,0 +1,63 @@
+{
+    "id": "i84810",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "arabian desert",
+    "en_definition": "a desert on the Arabian Peninsula in southwestern Asia",
+    "tr_word": "Arap Çölü",
+    "tr_definition": "Güneybatı Asya'daki Arap Yarımadası'nda bulunan bir çöl",
+    "ru_word": "Аравийская пустыня",
+    "ru_definition": "пустыня на Аравийском полуострове в Юго-Западной Азии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Arap Çölü",
+                    "Arabistan Çölü"
+                ],
+                "Azerbaijani": [
+                    "Ərəbistan səhrası",
+                    "Ərəb səhrası"
+                ],
+                "Turkmen": [
+                    "Arap çöli",
+                    "Arap sährasy"
+                ],
+                "Uzbek": [
+                    "Arabiston sahrosi",
+                    "Arabiston cho'li"
+                ],
+                "Uyghur": [
+                    "ئەرەب چۆللۈكى",
+                    "ئەرەبىستان چۆللۈكى",
+                    "ئەرەب باياۋانى"
+                ],
+                "Kazakh": [
+                    "Араб шөлі",
+                    "Арабия шөлі"
+                ],
+                "Kyrgyz": [
+                    "Араб чөлү",
+                    "Арабия чөлү"
+                ],
+                "Karakalpak": [
+                    "Arabstan shóli",
+                    "Arab shóli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Гарәп чүле",
+                    "Гарәпстан чүле"
+                ],
+                "Bashkir": [
+                    "Ғәрәп сүллеге",
+                    "Ғәрәбстан сүллеге"
+                ]
+            }
+        }
+    ]
+}

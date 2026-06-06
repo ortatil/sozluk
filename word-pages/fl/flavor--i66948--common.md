@@ -1,0 +1,184 @@
+# Flavor
+| Field | Detail |
+|---|---|
+| **ID** | i66948 |
+| **English** | flavor |
+| **Type** | noun |
+| **Definition** | the taste experience when a savoury condiment is taken into the mouth |
+| **Source** | common |
+| **Ortatil** | täm, läzzät |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **täm** | **läzzät** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 1 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 1 | 1 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەم | täm |
+| لەززەت | läzzät |
+| مەززە | mäzzä |
+| **Kazakh** | |
+| дәм | däm |
+| ләззат | läzzat |
+| нақыш | naqış |
+| **Kyrgyz** | |
+| даам | daam |
+| даам-туз | daam-tuz |
+| лаззат | lazzat |
+| **Tatar** | |
+| тәм | täm |
+| ләззәт | läzzät |
+| **Bashkir** | |
+| тәм | täm |
+| ләззәт | läzzät |
+
+```json
+{
+    "id": "i66948",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flavor",
+    "en_definition": "the taste experience when a savoury condiment is taken into the mouth",
+    "tr_word": "tat",
+    "tr_definition": "bir yiyecek veya içeceğin ağızda bıraktığı duyum",
+    "ru_word": "вкус",
+    "ru_definition": "ощущение, возникающее при воздействии каких-либо веществ на рецепторы языка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tat"
+                ],
+                "Azerbaijani": [
+                    "dad",
+                    "tam"
+                ],
+                "Turkmen": [
+                    "tam"
+                ],
+                "Uzbek": [
+                    "ta'm"
+                ],
+                "Uyghur": [
+                    "تەم"
+                ],
+                "Kazakh": [
+                    "дәм"
+                ],
+                "Kyrgyz": [
+                    "даам",
+                    "даам-туз"
+                ],
+                "Karakalpak": [
+                    "dám",
+                    "tat"
+                ],
+                "Tatar": [
+                    "тәм"
+                ],
+                "Bashkir": [
+                    "тәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lezzet"
+                ],
+                "Azerbaijani": [
+                    "ləzzət"
+                ],
+                "Turkmen": [
+                    "lezzet"
+                ],
+                "Uzbek": [
+                    "lazzat"
+                ],
+                "Uyghur": [
+                    "لەززەت",
+                    "مەززە"
+                ],
+                "Kazakh": [
+                    "ләззат"
+                ],
+                "Kyrgyz": [
+                    "лаззат"
+                ],
+                "Karakalpak": [
+                    "lázzát"
+                ],
+                "Tatar": [
+                    "ләззәт"
+                ],
+                "Bashkir": [
+                    "ләззәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çeşni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aroma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tagam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ys-täm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нақыш"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,112 @@
+{
+    "id": "i112578",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "agoraphobia",
+    "en_definition": "a morbid fear of open spaces (as fear of being caught alone in some public place)",
+    "tr_word": "agorafobi",
+    "tr_definition": "açık alanlardan veya kalabalık yerlerden duyulan aşırı ve kontrol edilemeyen korku",
+    "ru_word": "агорафобия",
+    "ru_definition": "боязнь открытого пространства, открытых дверей; расстройство психики, при котором страшно выходить из дома",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açık alan korkusu"
+                ],
+                "Azerbaijani": [
+                    "açıq yer qorxusu",
+                    "açıqlıq qorxusu"
+                ],
+                "Turkmen": [
+                    "açyklyk gorkusy"
+                ],
+                "Uzbek": [
+                    "ochiq joydan qo'rqish",
+                    "ochiqliqdan hayiqish"
+                ],
+                "Kazakh": [
+                    "ашық кеңістіктен қорқу",
+                    "ашық жерден сескену"
+                ],
+                "Kyrgyz": [
+                    "ачык мейкиндиктен коркуу",
+                    "ачык жерден коркуу"
+                ],
+                "Karakalpak": [
+                    "ashıqlıqtan qorqınısh",
+                    "ashıq maydannan qorqıo"
+                ],
+                "Tatar": [
+                    "ачыклыктан курку",
+                    "ачык урыннан курку"
+                ],
+                "Bashkir": [
+                    "асыҡлыҡтан ҡурҡыу",
+                    "асыҡ майҙандан ҡурҡыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meydan korkusu"
+                ],
+                "Azerbaijani": [
+                    "meydan qorxusu"
+                ],
+                "Turkmen": [
+                    "meýdan gorkusy"
+                ],
+                "Uzbek": [
+                    "maydon qo'rquvi"
+                ],
+                "Uyghur": [
+                    "مەيدان قورقۇنچى"
+                ],
+                "Kyrgyz": [
+                    "мейкиндик коркунучу"
+                ],
+                "Tatar": [
+                    "мәйдан куркуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "giňişlik gorkusy"
+                ],
+                "Uyghur": [
+                    "كەڭلىك ۋەھىمىسى"
+                ],
+                "Kazakh": [
+                    "кеңістік үрейі"
+                ],
+                "Karakalpak": [
+                    "keńlik qorqınıshı"
+                ],
+                "Bashkir": [
+                    "киңлектән ҡурҡыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alan korkusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوچۇقچىلىق قورقۇنچى"
+                ]
+            }
+        }
+    ]
+}

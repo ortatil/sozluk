@@ -1,0 +1,87 @@
+{
+    "id": "i66003",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gut",
+    "en_definition": "the part of the alimentary canal between the stomach and the anus",
+    "tr_word": "bağırsak",
+    "tr_definition": "midenin bitiminden anüse kadar olan sindirim kanalı bölümü",
+    "ru_word": "кишка",
+    "ru_definition": "часть пищеварительного тракта от желудка до заднего прохода",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "içege",
+                    "içer-daşar"
+                ],
+                "Uzbek": [
+                    "ichak",
+                    "ichaklar"
+                ],
+                "Kazakh": [
+                    "ішек"
+                ],
+                "Kyrgyz": [
+                    "ичеги",
+                    "ичеги-карын"
+                ],
+                "Karakalpak": [
+                    "іshek"
+                ],
+                "Tatar": [
+                    "эчәк",
+                    "эчәклек"
+                ],
+                "Bashkir": [
+                    "эсәк",
+                    "эсәк-ҡарын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağırsak",
+                    "barsak"
+                ],
+                "Azerbaijani": [
+                    "bağırsaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ішек-қарын"
+                ],
+                "Karakalpak": [
+                    "іshek-qarın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ema"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mə'da"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۈچەي",
+                    "ئۈچەيلەر"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "id": "i17035",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "presidential",
+    "en_definition": "relating to a president or presidency",
+    "tr_word": "başkanlık",
+    "tr_definition": "bir başkan veya başkanlık makamı ile ilgili olan",
+    "ru_word": "президентский",
+    "ru_definition": "относящийся к президенту или президентству",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "prezident",
+                    "prezidentlik"
+                ],
+                "Turkmen": [
+                    "prezidentlik"
+                ],
+                "Uzbek": [
+                    "prezidentlik",
+                    "prezidentga oid",
+                    "prezidentga tegishli"
+                ],
+                "Uyghur": [
+                    "پرېزىدېنتلىق"
+                ],
+                "Kazakh": [
+                    "президенттік"
+                ],
+                "Kyrgyz": [
+                    "президенттик"
+                ],
+                "Karakalpak": [
+                    "prezidentlik",
+                    "prezidentke tán"
+                ],
+                "Tatar": [
+                    "президентлык"
+                ],
+                "Bashkir": [
+                    "президентлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "басшылық"
+                ],
+                "Kyrgyz": [
+                    "башчылык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "riyasete dair"
+                ],
+                "Azerbaijani": [
+                    "riyasət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رەئىسلىك"
+                ],
+                "Tatar": [
+                    "رәислек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "başkanlık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "baştutanlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cumhurbaşkanlığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جۇمھۇر رەئىسلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "илбашы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "döwlet baştutanyna degişli"
+                ]
+            }
+        }
+    ]
+}

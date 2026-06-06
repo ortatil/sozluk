@@ -1,0 +1,127 @@
+# Sunbather
+| Field | Detail |
+|---|---|
+| **ID** | i93435 |
+| **English** | sunbather |
+| **Type** | noun |
+| **Definition** | someone who basks in the sunshine in order to get a suntan |
+| **Source** | common |
+| **Ortatil** | güneşlänän |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **güneşlänän** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| кызынучы | kızınuçı |
+
+```json
+{
+    "id": "i93435",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sunbather",
+    "en_definition": "someone who basks in the sunshine in order to get a suntan",
+    "tr_word": "güneşlenen kimse",
+    "tr_definition": "bronzlaşmak amacıyla güneş ışığı altında uzanan veya oturan kişi",
+    "ru_word": "загорающий",
+    "ru_definition": "человек, который принимает солнечные ванны, чтобы получить загар",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كۈنگە قاقلانغۇچى"
+                ],
+                "Kazakh": [
+                    "күнге қыздырынушы",
+                    "күнге күюші",
+                    "күнге беттеуші"
+                ],
+                "Kyrgyz": [
+                    "күнгө күйүүчү",
+                    "күнгө кактануучу"
+                ],
+                "Karakalpak": [
+                    "kúnge qızdırınıoshı",
+                    "kúnge jatıoshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güneşlenen",
+                    "güneş banyosu yapan"
+                ],
+                "Azerbaijani": [
+                    "günəşlənən",
+                    "günəşlənən şəxs",
+                    "günəş vannası qəbul edən"
+                ],
+                "Turkmen": [
+                    "günlenýän",
+                    "güne ýanan",
+                    "güneşleýän"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quyoshda toblanuvchi",
+                    "quyoshda qizinuvchi"
+                ],
+                "Tatar": [
+                    "кояш коенучы",
+                    "кояш алучы"
+                ],
+                "Bashkir": [
+                    "ҡояшта ҡыҙыныусы",
+                    "ҡояш алыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oftobda toblanuvchi"
+                ],
+                "Uyghur": [
+                    "ئاپتاپقا سالغۇچى",
+                    "ئاپتاپقا قاقلانغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кызынучы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,104 @@
+{
+    "id": "i86034",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rabbit burrow",
+    "en_definition": "a hole in the ground as a nest made by wild rabbits",
+    "tr_word": "tavşan yuvası",
+    "tr_definition": "yabani tavşanlar tarafından yuva olarak kullanılan toprak altındaki delik veya tünel",
+    "ru_word": "кроличья нора",
+    "ru_definition": "вырытое в земле углубление с ходами, служащее жильем для диких кроликов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quyon ini",
+                    "quyon uyasi",
+                    "quyon g'ori"
+                ],
+                "Kazakh": [
+                    "қоян іні"
+                ],
+                "Kyrgyz": [
+                    "коёндун ийини"
+                ],
+                "Karakalpak": [
+                    "qoyan іnі"
+                ],
+                "Tatar": [
+                    "куян оясы",
+                    "куян өне",
+                    "куян казылмасы"
+                ],
+                "Bashkir": [
+                    "ҡуян ояһы",
+                    "ҡуян өңө",
+                    "ҡуян ҡыуышы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavşan yuvası",
+                    "tavşan deliği",
+                    "tavşan ini"
+                ],
+                "Azerbaijani": [
+                    "dovşan yuvası",
+                    "dovşan oyuğu",
+                    "dovşan qazması"
+                ],
+                "Turkmen": [
+                    "towşan hin",
+                    "towşan öýi"
+                ],
+                "Uyghur": [
+                    "توشقان ئۇۋىسى",
+                    "توشقان ئىنى",
+                    "توشقان غارى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hin"
+                ],
+                "Kazakh": [
+                    "ін"
+                ],
+                "Karakalpak": [
+                    "іn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уя"
+                ],
+                "Karakalpak": [
+                    "uya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қазылған ін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ийин"
+                ]
+            }
+        }
+    ]
+}

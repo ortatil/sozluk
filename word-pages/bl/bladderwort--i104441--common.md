@@ -1,0 +1,127 @@
+# Bladderwort
+| Field | Detail |
+|---|---|
+| **ID** | i104441 |
+| **English** | bladderwort |
+| **Type** | noun |
+| **Definition** | any of numerous aquatic carnivorous plants of the genus Utricularia some of whose leaves are modified as small urn-shaped bladders that trap minute aquatic animals |
+| **Source** | common |
+| **Ortatil** | pufakça |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| көпіршікшөп | köpirşikşöp |
+| **Kyrgyz** | |
+| көбүкчө | köbükçö |
+
+```json
+{
+    "id": "i104441",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bladderwort",
+    "en_definition": "any of numerous aquatic carnivorous plants of the genus Utricularia some of whose leaves are modified as small urn-shaped bladders that trap minute aquatic animals",
+    "tr_word": "sucul keseli bitki",
+    "tr_definition": "Utricularia cinsinden, yaprakları küçük su canlılarını yakalamak için kese şeklinde evrimleşmiş, suda yaşayan etçil bir bitki.",
+    "ru_word": "пузырчатка",
+    "ru_definition": "род насекомоядных растений семейства Пузырчатковые, имеющих ловчие пузырьки для поимки мелких водных организмов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su kesesi otu"
+                ],
+                "Azerbaijani": [
+                    "su qovuğu"
+                ],
+                "Turkmen": [
+                    "suw düwünçegi",
+                    "suw haltajygy"
+                ],
+                "Uzbek": [
+                    "suv pufakchasi"
+                ],
+                "Karakalpak": [
+                    "su quıqshası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kabarcıklı ot"
+                ],
+                "Uyghur": [
+                    "قاپچۇق ئوت",
+                    "قاپچۇقسىمان ئۆسۈملۈك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qovuqlu bitki",
+                    "qovuqluca"
+                ],
+                "Bashkir": [
+                    "ҡыуыҡ үлән",
+                    "ҡыуыҡлы үлән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көпіршікшөп",
+                    "көпіршікті өсімдік"
+                ],
+                "Kyrgyz": [
+                    "көбүкчө",
+                    "көбүкчө чөп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "quıqshalı ósіmdik"
+                ],
+                "Tatar": [
+                    "куыклы үлән",
+                    "куыклы су үләне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "keseli ot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pufakcha",
+                    "pufakdor o't"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "баштыкча чөп"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,98 @@
+{
+    "id": "i51122",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brick",
+    "en_definition": "rectangular block of clay baked by the sun or in a kiln; used as a building or paving material",
+    "tr_word": "tuğla",
+    "tr_definition": "Binaların yapımında kullanılan, fırınlanmış veya güneşte kurutulmuş, dikdörtgen biçimindeki kil blok.",
+    "ru_word": "кирпич",
+    "ru_definition": "Прямоугольный блок из обожженной глины, используемый в качестве строительного или мощеного материала.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kerpiç"
+                ],
+                "Azerbaijani": [
+                    "kərpic"
+                ],
+                "Turkmen": [
+                    "kerpiç"
+                ],
+                "Kazakh": [
+                    "кірпіш"
+                ],
+                "Kyrgyz": [
+                    "керпич"
+                ],
+                "Karakalpak": [
+                    "kerpish"
+                ],
+                "Tatar": [
+                    "кирпеч",
+                    "кәрпич"
+                ],
+                "Bashkir": [
+                    "кирбес",
+                    "кәрпич"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kəsir"
+                ],
+                "Uzbek": [
+                    "g'isht"
+                ],
+                "Uyghur": [
+                    "كېسەك"
+                ],
+                "Kazakh": [
+                    "кесек"
+                ],
+                "Kyrgyz": [
+                    "кыш"
+                ],
+                "Karakalpak": [
+                    "qısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bişmiş kərpic"
+                ],
+                "Turkmen": [
+                    "bişen kerpiç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tuğla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "paxsa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىش"
+                ]
+            }
+        }
+    ]
+}

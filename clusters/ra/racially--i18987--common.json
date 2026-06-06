@@ -1,0 +1,99 @@
+{
+    "id": "i18987",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "racially",
+    "en_definition": "with respect to race",
+    "tr_word": "ırksal olarak",
+    "tr_definition": "ırk bakımından, ırk ile ilgili olarak",
+    "ru_word": "расово",
+    "ru_definition": "с точки зрения расы или в отношении расы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nesil taýdan"
+                ],
+                "Kazakh": [
+                    "нәсілдік тұрғыдан",
+                    "нәсіл жағынан",
+                    "нәсілдік негізде"
+                ],
+                "Kyrgyz": [
+                    "насилдик жактан"
+                ],
+                "Karakalpak": [
+                    "násil jaǵınan",
+                    "násil boyınsha",
+                    "násillik"
+                ],
+                "Tatar": [
+                    "нәсел буенча",
+                    "нәсел ягыннан",
+                    "нәсел-нәсәп ягыннан",
+                    "нәсел-зат ягыннан"
+                ],
+                "Bashkir": [
+                    "нәҫел-нәсәп буйынса",
+                    "нәҫел яғынан",
+                    "нәҫел-нәсәп йәһәтенән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ırksal olarak",
+                    "ırk bakımından",
+                    "ırkça",
+                    "ırki yönden"
+                ],
+                "Azerbaijani": [
+                    "irqi",
+                    "irq baxımından",
+                    "irq cəhətdən"
+                ],
+                "Uzbek": [
+                    "irqiy",
+                    "irqan",
+                    "irq jihatidan"
+                ],
+                "Uyghur": [
+                    "ئىرق جەھەتتىن",
+                    "ئىرق نۇقتىسىدىن",
+                    "ئىرق بويىچە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jyns taýdan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "asly boýunça"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "теги боюнча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "расалык жактан"
+                ]
+            }
+        }
+    ]
+}

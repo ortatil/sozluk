@@ -1,0 +1,115 @@
+{
+    "id": "i70960",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "software",
+    "en_definition": "(computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in read/write memory",
+    "tr_word": "yazılım",
+    "tr_definition": "Bir bilgisayarda donanıma hayat veren ve bilgi işlemde kullanılan programlar, yordamlar ve programlama dilleri bütünü.",
+    "ru_word": "программное обеспечение",
+    "ru_definition": "Совокупность программ системы обработки информации и программных документов, необходимых для эксплуатации этих программ.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "program"
+                ],
+                "Azerbaijani": [
+                    "proqram"
+                ],
+                "Turkmen": [
+                    "programmalar"
+                ],
+                "Uyghur": [
+                    "پروگرامما"
+                ],
+                "Bashkir": [
+                    "программалар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "proqram təminatı"
+                ],
+                "Turkmen": [
+                    "programma üpjünçiligi"
+                ],
+                "Kyrgyz": [
+                    "программалык камсыздоо",
+                    "программалык жабдык"
+                ],
+                "Tatar": [
+                    "программа тәэминаты",
+                    "программалар җыелмасы"
+                ],
+                "Bashkir": [
+                    "программа тәьминәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazılım"
+                ],
+                "Azerbaijani": [
+                    "yazılım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бағдарлама"
+                ],
+                "Karakalpak": [
+                    "baǵdarlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бағдарламалық жасақтама",
+                    "бағдарламалық қамтамасыз ету"
+                ],
+                "Karakalpak": [
+                    "baǵdarlamalıq támiynat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uygulama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۇمشاق دېتال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dasturiy ta'minot",
+                    "dasturlar majmuasi"
+                ]
+            }
+        }
+    ]
+}

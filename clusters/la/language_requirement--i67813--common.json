@@ -1,0 +1,84 @@
+{
+    "id": "i67813",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "language requirement",
+    "en_definition": "a requirement that a student know certain languages",
+    "tr_word": "dil şartı",
+    "tr_definition": "bir öğrencinin belirli dilleri bilmesi gerektiğine dair koşul",
+    "ru_word": "языковое требование",
+    "ru_definition": "требование к студенту о владении определенными языками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dil şartı"
+                ],
+                "Azerbaijani": [
+                    "dil tələbi",
+                    "dil şərti",
+                    "dil biliyi tələbi"
+                ],
+                "Turkmen": [
+                    "dil talaby",
+                    "dil şerti"
+                ],
+                "Uzbek": [
+                    "til talabi",
+                    "til bilish talabi"
+                ],
+                "Uyghur": [
+                    "تىل تەلىپى",
+                    "تىل شەرتى",
+                    "تىل ئۆتكىلى"
+                ],
+                "Kazakh": [
+                    "тілдік талап",
+                    "тіл білу талабы",
+                    "тілдік шарт"
+                ],
+                "Kyrgyz": [
+                    "тил талабы",
+                    "тилдик талап",
+                    "тил билүү талабы"
+                ],
+                "Karakalpak": [
+                    "til talabı",
+                    "til bilio talabı"
+                ],
+                "Tatar": [
+                    "тел таләбе",
+                    "тел белү шарты",
+                    "тел белү таләбе"
+                ],
+                "Bashkir": [
+                    "тел талабы",
+                    "тел белеү шарты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dil gerekliliği",
+                    "dil zorunluluğu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lisan şartı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sharti lisoniy"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "id": "i32561",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "refocus",
+    "en_definition": "focus once again; The physicist refocused the light beam\"",
+    "tr_word": "yeniden odaklanmak",
+    "tr_definition": "bir şeyi tekrar odak noktasına getirmek veya dikkati yeniden bir noktada toplamak",
+    "ru_word": "перефокусировать",
+    "ru_definition": "снова сфокусировать или изменить направление внимания или взгляда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan jemlemek",
+                    "gaýtadan gönükdirmek"
+                ],
+                "Uzbek": [
+                    "qayta yo'naltirmoq",
+                    "qayta qaratmoq",
+                    "qayta jamlamoq",
+                    "qayta to'plamoq"
+                ],
+                "Uyghur": [
+                    "قايتا مەركەزلەشتۈرمەك",
+                    "قايتا فوكۇسلىماق",
+                    "قايتا دىققەتنى يىغماق"
+                ],
+                "Kazakh": [
+                    "қайта бағыттау",
+                    "қайта шоғырландыру",
+                    "қайта түйістіру",
+                    "қайта жинақтау"
+                ],
+                "Kyrgyz": [
+                    "кайра багыттоо",
+                    "кайра топтоо",
+                    "кайра буруу",
+                    "кайра фокустоо"
+                ],
+                "Karakalpak": [
+                    "qayta baǵdarlao",
+                    "qayta toplao",
+                    "qayta qaratıo",
+                    "qayta túzetio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden odaklamak",
+                    "yeniden netlemek"
+                ],
+                "Azerbaijani": [
+                    "yenidən mərkəzləşdirmək",
+                    "yenidən fokuslamaq",
+                    "yenidən yönəltmək"
+                ],
+                "Tatar": [
+                    "яңадан юнәлтү",
+                    "яңадан туплау"
+                ],
+                "Bashkir": [
+                    "яңынан йүнәлтеү",
+                    "яңынан туплау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekrar odaklanmak"
+                ],
+                "Azerbaijani": [
+                    "təkrar mərkəzləşdirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат юнәлтү",
+                    "кабат туплау"
+                ],
+                "Bashkir": [
+                    "ҡабат йүнәлтеү",
+                    "ҡабат туплау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "odağını tazelemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzeden gönükdirmek",
+                    "täzeden üns bermek"
+                ]
+            }
+        }
+    ]
+}

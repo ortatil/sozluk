@@ -1,0 +1,93 @@
+{
+    "id": "i88513",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "beekeeper",
+    "en_definition": "a farmer who keeps bees for their honey",
+    "tr_word": "aricı",
+    "tr_definition": "Bal üretmek için arı yetiştiren ve onlara bakan kimse",
+    "ru_word": "пчеловод",
+    "ru_definition": "Человек, который занимается разведением пчёл для получения мёда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arıcı",
+                    "arı yetiştiricisi"
+                ],
+                "Azerbaijani": [
+                    "arıçı",
+                    "arı saxlayan"
+                ],
+                "Turkmen": [
+                    "aryçy"
+                ],
+                "Kazakh": [
+                    "арашы"
+                ],
+                "Kyrgyz": [
+                    "аарычы"
+                ],
+                "Karakalpak": [
+                    "arashı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "balçy"
+                ],
+                "Uzbek": [
+                    "bolari boquvchi"
+                ],
+                "Kazakh": [
+                    "балгер"
+                ],
+                "Kyrgyz": [
+                    "балчы"
+                ],
+                "Tatar": [
+                    "балчы"
+                ],
+                "Bashkir": [
+                    "бал ҡорто ҡараусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "омарташы"
+                ],
+                "Karakalpak": [
+                    "omartashı"
+                ],
+                "Tatar": [
+                    "умартачы"
+                ],
+                "Bashkir": [
+                    "умартасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asalarichi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەسەلچى",
+                    "ھەرىچى"
+                ]
+            }
+        }
+    ]
+}

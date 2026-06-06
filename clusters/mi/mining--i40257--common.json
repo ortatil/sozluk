@@ -1,0 +1,129 @@
+{
+    "id": "i40257",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mining",
+    "en_definition": "the act of extracting ores or coal etc from the earth",
+    "tr_word": "madencilik",
+    "tr_definition": "Yerin altındaki cevherleri veya kömür gibi maddeleri çıkarma işlemi.",
+    "ru_word": "добыча полезных ископаемых",
+    "ru_definition": "Процесс извлечения руд, угля и других ресурсов из недр земли.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "konchilik"
+                ],
+                "Uyghur": [
+                    "كانچىلىق",
+                    "كان ئېچىش",
+                    "كان قېزىش"
+                ],
+                "Kazakh": [
+                    "кен өндіру",
+                    "кеншілік",
+                    "кен ісі"
+                ],
+                "Kyrgyz": [
+                    "кен казуу",
+                    "кенчилик"
+                ],
+                "Karakalpak": [
+                    "kánshilik",
+                    "kán qazıo",
+                    "kán isleri"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "madencilik",
+                    "maden işletmeciliği"
+                ],
+                "Azerbaijani": [
+                    "mədənçilik",
+                    "mədən işi"
+                ],
+                "Turkmen": [
+                    "magdançylyk",
+                    "magdan çykaryş"
+                ],
+                "Uzbek": [
+                    "ma'dan qazish"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qazilma boyliklarni qazib olish"
+                ],
+                "Kazakh": [
+                    "қазу"
+                ],
+                "Tatar": [
+                    "казылмалар чыгару"
+                ],
+                "Bashkir": [
+                    "ҡаҙылма байлыҡтар сығарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istihraç"
+                ],
+                "Azerbaijani": [
+                    "istismar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çıxarma"
+                ],
+                "Tatar": [
+                    "чыгару"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тау эше"
+                ],
+                "Bashkir": [
+                    "тау эше",
+                    "тау кәсебе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dag-magdan işi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоо-кен иши"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "казу"
+                ]
+            }
+        }
+    ]
+}

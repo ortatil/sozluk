@@ -1,0 +1,203 @@
+# Glenn
+| Field | Detail |
+|---|---|
+| **ID** | i95274 |
+| **English** | glenn |
+| **Type** | noun |
+| **Definition** | made the first orbital rocket-powered flight by a United States astronaut in 1962; later in United States Senate (1921-) |
+| **Source** | common |
+| **Ortatil** | senator, kosmonawt |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **senator** | **kosmonawt** | **astronawt** | **glenn** |
+|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ✅ | ❌ |
+| Turkmen | ❌ | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ❌ |
+| Uyghur | ❌ | ❌ | ❌ | ✅ |
+| Kazakh | ✅ | ❌ | ✅ | ❌ |
+| Kyrgyz | ❌ | ✅ | ✅ | ❌ |
+| Karakalpak | ❌ | ❌ | ❌ | ❌ |
+| Tatar | ❌ | ❌ | ❌ | ✅ |
+| Bashkir | ❌ | ❌ | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0.67 | 0.67 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0.50 | 0 | 0.50 |
+| *Qipchaq Subtotal* | 0.20 | 0.20 | 0.40 | 0.40 |
+| *In All* | ✅ | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ |  |
+| **O'TQ** | **2.37** | **2.37** | **1.57** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| گلېن | glen |
+| **Kazakh** | |
+| сенатор | senator |
+| астронавт | astronavt |
+| ғарышкер | ğarışker |
+| **Kyrgyz** | |
+| астронавт | astronavt |
+| космонавт | kosmonavt |
+| учкуч | uçkuç |
+| **Tatar** | |
+| Гленн | glenn |
+| **Bashkir** | |
+| Гленн | glenn |
+
+```json
+{
+    "id": "i95274",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "glenn",
+    "en_definition": "made the first orbital rocket-powered flight by a United States astronaut in 1962; later in United States Senate (1921-)",
+    "tr_word": "Glenn",
+    "tr_definition": "1962'de yörüngeye çıkan ilk Amerikalı astronot olan ve daha sonra ABD Senatosu'nda görev yapan siyasetçi.",
+    "ru_word": "Гленн",
+    "ru_definition": "американский астронавт, совершивший первый орбитальный полет в 1962 году, а затем ставший сенатором США.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "John Glenn"
+                ],
+                "Azerbaijani": [
+                    "Con Qlenn"
+                ],
+                "Uyghur": [
+                    "جون گلېن"
+                ],
+                "Kazakh": [
+                    "Джон Гленн"
+                ],
+                "Kyrgyz": [
+                    "Жон Гленн"
+                ],
+                "Karakalpak": [
+                    "Djon Glenn"
+                ],
+                "Tatar": [
+                    "Джон Гленн"
+                ],
+                "Bashkir": [
+                    "Джон Гленн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "senatör"
+                ],
+                "Azerbaijani": [
+                    "senator"
+                ],
+                "Uzbek": [
+                    "senator"
+                ],
+                "Kazakh": [
+                    "сенатор"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "astronavt"
+                ],
+                "Turkmen": [
+                    "astronawt"
+                ],
+                "Kazakh": [
+                    "астронавт"
+                ],
+                "Kyrgyz": [
+                    "астронавт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kosmonavt"
+                ],
+                "Turkmen": [
+                    "kosmonawt"
+                ],
+                "Uzbek": [
+                    "kosmonavt"
+                ],
+                "Kyrgyz": [
+                    "космонавт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "گلېن"
+                ],
+                "Tatar": [
+                    "Гленн"
+                ],
+                "Bashkir": [
+                    "Гленн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "siyasətçi"
+                ],
+                "Uzbek": [
+                    "siyosatchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Amerikalı astronot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "älemçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "fazogir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ғарышкер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "учкуч"
+                ]
+            }
+        }
+    ]
+}
+```
+

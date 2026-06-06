@@ -1,0 +1,90 @@
+{
+    "id": "i56171",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "metal detector",
+    "en_definition": "detector that gives a signal when it detects the presence of metal; used to detect the presence of stray bits of metal in food products or to find buried metal",
+    "tr_word": "metal dedektörü",
+    "tr_definition": "Metal varlığını tespit ettiğinde sinyal veren; gıda ürünlerindeki metal parçalarını veya gömülü metalleri bulmak için kullanılan cihaz.",
+    "ru_word": "металлоискатель",
+    "ru_definition": "Прибор, подающий сигнал при обнаружении металла; используется для поиска посторонних металлических предметов в продуктах питания или скрытых в земле объектов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "metal dedektörü",
+                    "metal arama cihazı",
+                    "metal tespit cihazı"
+                ],
+                "Azerbaijani": [
+                    "metal axtaran",
+                    "metal detektoru",
+                    "metal müəyyənləşdirici"
+                ],
+                "Turkmen": [
+                    "metal gözleýji",
+                    "metal detektory",
+                    "metal tapyjy"
+                ],
+                "Uzbek": [
+                    "metall qidirgich",
+                    "metall aniqlagich",
+                    "ma'dan qidirgich"
+                ],
+                "Uyghur": [
+                    "مېتال تەكشۈرگۈچ",
+                    "مېتال بايقايدىغان ئۈسكۈنە"
+                ],
+                "Kazakh": [
+                    "металл іздегіш",
+                    "металл анықтағыш"
+                ],
+                "Kyrgyz": [
+                    "металл издегич",
+                    "металл тапкыч"
+                ],
+                "Karakalpak": [
+                    "metall izlegish",
+                    "metall sezgish",
+                    "metall anıqlaǵısh"
+                ],
+                "Tatar": [
+                    "металл эзләгеч",
+                    "металл детекторы"
+                ],
+                "Bashkir": [
+                    "металл эҙләүсе",
+                    "металл тапҡыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۆمۈر تەكشۈرگۈچ"
+                ],
+                "Kazakh": [
+                    "темір іздегіш"
+                ],
+                "Kyrgyz": [
+                    "темир издегич"
+                ],
+                "Tatar": [
+                    "тимер эзләгеч"
+                ],
+                "Bashkir": [
+                    "тимер эҙләүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "define arama cihazı"
+                ]
+            }
+        }
+    ]
+}

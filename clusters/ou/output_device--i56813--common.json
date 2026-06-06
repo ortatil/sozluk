@@ -1,0 +1,103 @@
+{
+    "id": "i56813",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "output device",
+    "en_definition": "electronic or electromechanical equipment connected to a computer and used to transfer data out of the computer in the form of text, images, sounds, or other media",
+    "tr_word": "çıkış birimi",
+    "tr_definition": "Bilgisayardan gelen verileri metin, görüntü, ses veya diğer medya biçimlerinde dışarı aktaran elektronik veya elektromekanik donanım.",
+    "ru_word": "устройство вывода",
+    "ru_definition": "Электронное или электромеханическое оборудование, подключенное к компьютеру и используемое для передачи данных из компьютера в виде текста, изображений, звуков или других носителей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıkış birimi",
+                    "çıkış aygıtı",
+                    "çıkış cihazı"
+                ],
+                "Azerbaijani": [
+                    "çıxış qurğusu"
+                ],
+                "Turkmen": [
+                    "çykyş enjamy",
+                    "çykaryş guraly"
+                ],
+                "Uzbek": [
+                    "chiqarish qurilmasi"
+                ],
+                "Uyghur": [
+                    "چىقىرىش ئۈسكۈنىسى"
+                ],
+                "Kazakh": [
+                    "шығару тетігі"
+                ],
+                "Kyrgyz": [
+                    "чыгаруучу түзүлүш",
+                    "чыгаруу жабдыгы"
+                ],
+                "Karakalpak": [
+                    "shıǵarıo qurılması",
+                    "shıǵarıo aspabı"
+                ],
+                "Tatar": [
+                    "чыгару җайланмасы",
+                    "чыгару корылмасы"
+                ],
+                "Bashkir": [
+                    "сығарыу ҡоролмаһы",
+                    "сығарыу сараһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "maglumat çykaryjy"
+                ],
+                "Uzbek": [
+                    "ma'lumot chiqarish vositasi"
+                ],
+                "Kyrgyz": [
+                    "маалымат чыгаруучу курал"
+                ],
+                "Tatar": [
+                    "мәгълүмат чыгару чарасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xaricetmə qurğusu"
+                ],
+                "Uzbek": [
+                    "tashqi qurilma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەتىجە چىقىرىش قورالى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шығару құрылғысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақпарат шығару құралы"
+                ]
+            }
+        }
+    ]
+}

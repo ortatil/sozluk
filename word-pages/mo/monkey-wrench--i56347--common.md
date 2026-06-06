@@ -1,0 +1,184 @@
+# Monkey-wrench
+| Field | Detail |
+|---|---|
+| **ID** | i56347 |
+| **English** | monkey-wrench |
+| **Type** | noun |
+| **Definition** | adjustable wrench that has one fixed and one adjustable jaw |
+| **Source** | common |
+| **Ortatil** | açarı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| ачкыч | açkıç |
+
+```json
+{
+    "id": "i56347",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "monkey-wrench",
+    "en_definition": "adjustable wrench that has one fixed and one adjustable jaw",
+    "tr_word": "ingiliz anahtarı",
+    "tr_definition": "Biri sabit, diğeri ayarlanabilir bir çeneye sahip olan ayarlı anahtar.",
+    "ru_word": "разводной ключ",
+    "ru_definition": "Гаечный ключ с регулируемым расстоянием между губками.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayarlı anahtar"
+                ],
+                "Azerbaijani": [
+                    "açarlı açar"
+                ],
+                "Turkmen": [
+                    "açary"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بۇرمىلىق ئاچقۇچ"
+                ],
+                "Kazakh": [
+                    "бұрама кілт"
+                ],
+                "Kyrgyz": [
+                    "бурама ачкыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ingiliz anahtarı"
+                ],
+                "Azerbaijani": [
+                    "ingilis açarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tənzimlənən açar"
+                ],
+                "Uyghur": [
+                    "تەڭشىگىلى بولىدىغان ئاچقۇچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ochiq kalit"
+                ],
+                "Kyrgyz": [
+                    "ачкыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көйләнмәле ачкыч",
+                    "көйләнә торган ачкыч"
+                ],
+                "Bashkir": [
+                    "көйләнмәле асҡыс",
+                    "көйләгес асҡыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kurbağacık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "atagzy",
+                    "atagzy açar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sozlanuvchi kalit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aylanma kalit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қозғалмалы кілт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айналмалы кілт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жөнгө салынуучу ачкыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "somın buraǵısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kіlt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "алмаш ачкыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йылжымалы асҡыс"
+                ]
+            }
+        }
+    ]
+}
+```
+

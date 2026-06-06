@@ -1,0 +1,64 @@
+{
+    "id": "i12491",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sleeved",
+    "en_definition": "made with sleeves or sleeves especially as specified; often used in combination",
+    "tr_word": "kollu",
+    "tr_definition": "Kolları olan veya belirli bir kol yapısına sahip olan (giysi vb.)",
+    "ru_word": "с рукавами",
+    "ru_definition": "Имеющий рукава или снабженный рукавами определенного типа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yenli"
+                ],
+                "Turkmen": [
+                    "ýeňli",
+                    "ýeňi bar"
+                ],
+                "Uzbek": [
+                    "yengli",
+                    "yengdor"
+                ],
+                "Uyghur": [
+                    "يەڭلىك",
+                    "يەڭلىك كىيىم"
+                ],
+                "Kazakh": [
+                    "жеңді",
+                    "жеңі бар"
+                ],
+                "Kyrgyz": [
+                    "жеңдүү",
+                    "жеңи бар"
+                ],
+                "Karakalpak": [
+                    "jeńli",
+                    "jeńi bar"
+                ],
+                "Tatar": [
+                    "җиңле",
+                    "җиңле-кунлы"
+                ],
+                "Bashkir": [
+                    "еңле",
+                    "еңле-башлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kollu"
+                ],
+                "Azerbaijani": [
+                    "qollu",
+                    "qolçaqlı"
+                ]
+            }
+        }
+    ]
+}

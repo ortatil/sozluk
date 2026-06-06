@@ -1,0 +1,118 @@
+{
+    "id": "i110341",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "unemployment",
+    "en_definition": "the state of being unemployed or not having a job",
+    "tr_word": "işsizlik",
+    "tr_definition": "bir kişinin çalışmak istemesine rağmen iş bulamaması durumu",
+    "ru_word": "безработица",
+    "ru_definition": "социально-экономическое явление, при котором часть трудоспособного населения не имеет работы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işsizlik"
+                ],
+                "Azerbaijani": [
+                    "işsizlik"
+                ],
+                "Turkmen": [
+                    "işsizlik"
+                ],
+                "Uzbek": [
+                    "ishsizlik"
+                ],
+                "Uyghur": [
+                    "ئىشسىزلىق"
+                ],
+                "Kyrgyz": [
+                    "ишсиздик"
+                ],
+                "Tatar": [
+                    "эшсезлек"
+                ],
+                "Bashkir": [
+                    "эшһеҙлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bikarlıq"
+                ],
+                "Uzbek": [
+                    "bekorchilik"
+                ],
+                "Uyghur": [
+                    "بىكارچىلىق"
+                ],
+                "Karakalpak": [
+                    "bikarlıq"
+                ],
+                "Bashkir": [
+                    "бикарлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жұмыссыздық"
+                ],
+                "Kyrgyz": [
+                    "жумушсуздук"
+                ],
+                "Karakalpak": [
+                    "jumıssızlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boşta kalma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "atalet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bişügüllik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәсіпсіздік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бесәркелік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "биэшлек"
+                ]
+            }
+        }
+    ]
+}

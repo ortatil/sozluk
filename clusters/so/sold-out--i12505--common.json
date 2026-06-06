@@ -1,0 +1,146 @@
+{
+    "id": "i12505",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sold-out",
+    "en_definition": "sold completely in advance",
+    "tr_word": "tükenmiş",
+    "tr_definition": "önceden tamamen satılmış olan",
+    "ru_word": "распроданный",
+    "ru_definition": "полностью проданный заранее",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satılmış"
+                ],
+                "Azerbaijani": [
+                    "satılmış"
+                ],
+                "Turkmen": [
+                    "satylan"
+                ],
+                "Uzbek": [
+                    "sotilgan"
+                ],
+                "Uyghur": [
+                    "سېتىلىپ تۈگىگەن"
+                ],
+                "Kazakh": [
+                    "сатылып кеткен"
+                ],
+                "Kyrgyz": [
+                    "сатылып бүткөн"
+                ],
+                "Karakalpak": [
+                    "satılıp ketken"
+                ],
+                "Tatar": [
+                    "сатылып беткән",
+                    "сатылып бетте"
+                ],
+                "Bashkir": [
+                    "һатылып бөткән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tükenmiş"
+                ],
+                "Azerbaijani": [
+                    "tükənmiş"
+                ],
+                "Turkmen": [
+                    "tükenen"
+                ],
+                "Uzbek": [
+                    "tugagan"
+                ],
+                "Uyghur": [
+                    "تۈگىگەن"
+                ],
+                "Kyrgyz": [
+                    "түгөнгөн"
+                ],
+                "Tatar": [
+                    "төкәнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kalmamış"
+                ],
+                "Turkmen": [
+                    "galmadyk"
+                ],
+                "Uzbek": [
+                    "qolmagan"
+                ],
+                "Uyghur": [
+                    "قالىمىغان"
+                ],
+                "Kyrgyz": [
+                    "калбаган"
+                ],
+                "Karakalpak": [
+                    "qalmaǵan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bitmiş"
+                ],
+                "Azerbaijani": [
+                    "bitmiş"
+                ],
+                "Kazakh": [
+                    "бітіп қалған"
+                ],
+                "Karakalpak": [
+                    "bitkeni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tamamlanǵan"
+                ],
+                "Bashkir": [
+                    "тамамланған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gutaran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таусылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бөткән"
+                ]
+            }
+        }
+    ]
+}

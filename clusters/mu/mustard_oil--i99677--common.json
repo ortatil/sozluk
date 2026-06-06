@@ -1,0 +1,75 @@
+{
+    "id": "i99677",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mustard oil",
+    "en_definition": "oil obtained from mustard seeds and used in making soap",
+    "tr_word": "hardal yağı",
+    "tr_definition": "hardal tohumlarından elde edilen ve sabun yapımında kullanılan yağ",
+    "ru_word": "горчичное масло",
+    "ru_definition": "масло, получаемое из семян горчицы и используемое в производстве мыла",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قېچىق مېيى",
+                    "قېچىق يېغى"
+                ],
+                "Kazakh": [
+                    "қыша майы",
+                    "қыша дәнінің майы"
+                ],
+                "Kyrgyz": [
+                    "кычы майы"
+                ],
+                "Karakalpak": [
+                    "qısha mayı",
+                    "qısha may"
+                ],
+                "Tatar": [
+                    "кычыткан мае"
+                ],
+                "Bashkir": [
+                    "ҡыуаҡ майы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gorçisa ýagy",
+                    "gorçisanyň ýagy"
+                ],
+                "Uzbek": [
+                    "gorchitsa yog'i"
+                ],
+                "Kyrgyz": [
+                    "горчица майы"
+                ],
+                "Tatar": [
+                    "гөрчичә мае"
+                ],
+                "Bashkir": [
+                    "горчица майы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hardal yağı",
+                    "hardal tohumu yağı"
+                ],
+                "Azerbaijani": [
+                    "xardal yağı"
+                ],
+                "Uzbek": [
+                    "xardal yog'i"
+                ]
+            }
+        }
+    ]
+}

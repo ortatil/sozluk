@@ -1,0 +1,134 @@
+{
+    "id": "i53989",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "forklift",
+    "en_definition": "a small industrial vehicle with a power operated forked platform in front that can be inserted under loads to lift and move them",
+    "tr_word": "forklift",
+    "tr_definition": "yükleri kaldırmak ve taşımak için önünde çatallı bir platformu bulunan küçük sanayi aracı",
+    "ru_word": "автопогрузчик",
+    "ru_definition": "небольшое промышленное транспортное средство с вилочным захватом для подъема и перемещения грузов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yükləyici"
+                ],
+                "Turkmen": [
+                    "ýükleýji"
+                ],
+                "Uzbek": [
+                    "yuklagich"
+                ],
+                "Uyghur": [
+                    "يۈك كۆتۈرۈش ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "жүк тиегіш"
+                ],
+                "Kyrgyz": [
+                    "жүк көтөргүч",
+                    "жүк ташуучу унаа"
+                ],
+                "Karakalpak": [
+                    "júk kótergish",
+                    "júk tiyegish"
+                ],
+                "Tatar": [
+                    "йөкләгеч"
+                ],
+                "Bashkir": [
+                    "йөк тейәгес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻtargich"
+                ],
+                "Uyghur": [
+                    "كۆتۈرۈش ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "көтергіш"
+                ],
+                "Tatar": [
+                    "күтәргеч"
+                ],
+                "Bashkir": [
+                    "күтәргес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çəngəlli yükləyici"
+                ],
+                "Tatar": [
+                    "сәнәк-күтәргеч"
+                ],
+                "Bashkir": [
+                    "сәнскеле тейәгес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çarşakly ýükleýji",
+                    "çarşakly göteriji"
+                ],
+                "Uyghur": [
+                    "ئارا كۆتۈرگۈچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ayri-yuklagich"
+                ],
+                "Kyrgyz": [
+                    "айрылуу жүк көтөргүч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айырлы тиегіш"
+                ],
+                "Karakalpak": [
+                    "ayırlı júk kótergish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çatallı yükleyici",
+                    "yüklerçatal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istif makinesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "avtoyükləyici"
+                ]
+            }
+        }
+    ]
+}

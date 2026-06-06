@@ -1,0 +1,108 @@
+# Icepick
+| Field | Detail |
+|---|---|
+| **ID** | i55035 |
+| **English** | icepick |
+| **Type** | noun |
+| **Definition** | pick consisting of a steel rod with a sharp point; used for breaking up blocks of ice |
+| **Source** | common |
+| **Ortatil** | buzquran |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| мұзжарғыш | muzjarğış |
+| мұзшапқыш | muzşapqış |
+| мұзтескіш | muzteskiş |
+
+```json
+{
+    "id": "i55035",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "icepick",
+    "en_definition": "pick consisting of a steel rod with a sharp point; used for breaking up blocks of ice",
+    "tr_word": "buz kıracağı",
+    "tr_definition": "Buz kalıplarını parçalamak için kullanılan, ucu sivri, metal çubuklu alet.",
+    "ru_word": "ледоруб",
+    "ru_definition": "Инструмент в виде стального стержня с острым концом, предназначенный для колки льда.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buz kıracağı",
+                    "buz şişi"
+                ],
+                "Azerbaijani": [
+                    "buzqıran",
+                    "buz külüngü",
+                    "buz biz"
+                ],
+                "Turkmen": [
+                    "buz döwüji",
+                    "buz biz"
+                ],
+                "Uzbek": [
+                    "muz chopgich",
+                    "muz teshgich",
+                    "muz sindirgich"
+                ],
+                "Uyghur": [
+                    "مۇز تەشكۈچ",
+                    "مۇز چاققۇچ",
+                    "مۇز مىخى"
+                ],
+                "Kyrgyz": [
+                    "муз жаргыч",
+                    "муз шиш",
+                    "муз керки"
+                ],
+                "Karakalpak": [
+                    "mұz jarǵısh",
+                    "mұz shapqısh",
+                    "mұz teskіsh"
+                ],
+                "Tatar": [
+                    "боз чапкы",
+                    "боз тишкеч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buz bürgüsü"
+                ],
+                "Turkmen": [
+                    "buz çapgy"
+                ],
+                "Tatar": [
+                    "боз чапкыч"
+                ],
+                "Bashkir": [
+                    "боҙ сапҡыс",
+                    "боҙ ҡырҡҡыс",
+                    "боҙ соҡоғош"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұзжарғыш",
+                    "мұзшапқыш",
+                    "мұзтескіш"
+                ]
+            }
+        }
+    ]
+}
+```
+

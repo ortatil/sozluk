@@ -1,0 +1,182 @@
+{
+    "id": "i1000",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "on hand",
+    "en_definition": "readily available",
+    "tr_word": "hazır",
+    "tr_definition": "kolayca erişilebilir, el altında bulunan",
+    "ru_word": "имеющийся в наличии",
+    "ru_definition": "легкодоступный, находящийся под рукой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazır"
+                ],
+                "Azerbaijani": [
+                    "hazır"
+                ],
+                "Turkmen": [
+                    "häzir"
+                ],
+                "Uzbek": [
+                    "hozir"
+                ],
+                "Uyghur": [
+                    "ھازىر"
+                ],
+                "Kazakh": [
+                    "әзір"
+                ],
+                "Tatar": [
+                    "әзер"
+                ],
+                "Bashkir": [
+                    "әҙер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýýar"
+                ],
+                "Uzbek": [
+                    "tayyor"
+                ],
+                "Uyghur": [
+                    "تەييار"
+                ],
+                "Kazakh": [
+                    "дайын"
+                ],
+                "Kyrgyz": [
+                    "даяр"
+                ],
+                "Karakalpak": [
+                    "dayar",
+                    "tayar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قولدا بار"
+                ],
+                "Kazakh": [
+                    "қолда",
+                    "қолжетімді"
+                ],
+                "Kyrgyz": [
+                    "колдо"
+                ],
+                "Tatar": [
+                    "кул астында"
+                ],
+                "Bashkir": [
+                    "ҡул аҫтындағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mevcut"
+                ],
+                "Azerbaijani": [
+                    "mövcud"
+                ],
+                "Uzbek": [
+                    "mavjud"
+                ],
+                "Uyghur": [
+                    "مەۋجۇت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nagyt"
+                ],
+                "Uzbek": [
+                    "naqd"
+                ],
+                "Kazakh": [
+                    "нақ"
+                ],
+                "Kyrgyz": [
+                    "накта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muhayyo"
+                ],
+                "Karakalpak": [
+                    "máhayya"
+                ],
+                "Tatar": [
+                    "мөһайя"
+                ],
+                "Bashkir": [
+                    "мөһәййә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elde",
+                    "el altında"
+                ],
+                "Azerbaijani": [
+                    "əldə",
+                    "amadə"
+                ],
+                "Turkmen": [
+                    "elýeterli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "бар"
+                ],
+                "Tatar": [
+                    "бар"
+                ],
+                "Bashkir": [
+                    "бар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "amade"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "nazerde"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "id": "i74051",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "consonant",
+    "en_definition": "a speech sound that is not a vowel",
+    "tr_word": "ünsüz",
+    "tr_definition": "ses yolunda bir engelle karşılaşarak çıkan ses, sessiz harf",
+    "ru_word": "согласный",
+    "ru_definition": "звук речи, при произнесении которого поток воздуха встречает препятствие",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ünsüz"
+                ],
+                "Uyghur": [
+                    "ئۈزۈك"
+                ],
+                "Kyrgyz": [
+                    "үнсүз",
+                    "үнсүз тыбыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "samit"
+                ],
+                "Turkmen": [
+                    "samyt"
+                ],
+                "Uzbek": [
+                    "somit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sessiz"
+                ],
+                "Azerbaijani": [
+                    "səssiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дауыссыз",
+                    "дауыссыз дыбыс"
+                ],
+                "Karakalpak": [
+                    "dauıssız",
+                    "dauıssız ses",
+                    "dauıssız hárip"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тартык",
+                    "тартык аваз"
+                ],
+                "Bashkir": [
+                    "тартынҡы",
+                    "тартынҡы өн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "harf-i samit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çekimsiz",
+                    "çekimsiz ses"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "undosh",
+                    "undosh tovush"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۈزۈك تاۋۇش"
+                ]
+            }
+        }
+    ]
+}

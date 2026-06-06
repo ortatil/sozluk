@@ -1,0 +1,180 @@
+# Price increase
+| Field | Detail |
+|---|---|
+| **ID** | i63849 |
+| **English** | price increase |
+| **Type** | noun |
+| **Definition** | increase in price |
+| **Source** | common |
+| **Ortatil** | qımmatlaşuw |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qımmatlaşuw** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قىممەتلىشىش | qimmätlişiş |
+| **Kazakh** | |
+| қымбаттау | qımbattau |
+| **Kyrgyz** | |
+| кымбаттоо | kımbattoo |
+| **Tatar** | |
+| кыйммәтләнү | kıymmätlänü |
+| **Bashkir** | |
+| ҡиммәтләнеү | qimmätläneü |
+
+```json
+{
+    "id": "i63849",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "price increase",
+    "en_definition": "increase in price",
+    "tr_word": "fiyat artışı",
+    "tr_definition": "Bir mal veya hizmetin fiyatındaki yükselme",
+    "ru_word": "повышение цен",
+    "ru_definition": "увеличение стоимости товаров или услуг",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qiymət artımı"
+                ],
+                "Uzbek": [
+                    "qimmatlashuv",
+                    "qimmatlashish"
+                ],
+                "Uyghur": [
+                    "قىممەتلىشىش"
+                ],
+                "Kazakh": [
+                    "қымбаттау"
+                ],
+                "Kyrgyz": [
+                    "кымбаттоо"
+                ],
+                "Karakalpak": [
+                    "qımbatlasıo"
+                ],
+                "Tatar": [
+                    "кыйммәтләнү"
+                ],
+                "Bashkir": [
+                    "ҡиммәтләнеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pahalılık"
+                ],
+                "Azerbaijani": [
+                    "bahalaşma",
+                    "bahalıq"
+                ],
+                "Turkmen": [
+                    "bahanyň artmagy",
+                    "bahanyň ýokarlanmagy"
+                ],
+                "Uyghur": [
+                    "باھا ئۆسۈش",
+                    "باھا ئۆرلىشى"
+                ],
+                "Kazakh": [
+                    "бағаның өсуі",
+                    "бағаның көтерілуі"
+                ],
+                "Kyrgyz": [
+                    "баанын өсүшү",
+                    "баанын көтөрүлүшү"
+                ],
+                "Karakalpak": [
+                    "bahanıń kóterilioi",
+                    "bahanıń ósioi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fiyat artışı"
+                ],
+                "Tatar": [
+                    "бәя арту",
+                    "бәя күтәрелү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "narx ko'tarilishi",
+                    "narx oshishi"
+                ],
+                "Kazakh": [
+                    "нарқтың артуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "terfi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gymmatlama",
+                    "gymmatlaşyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хаҡ артыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хаҡ күтәрелеүе"
+                ]
+            }
+        }
+    ]
+}
+```
+

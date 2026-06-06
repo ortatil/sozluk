@@ -1,0 +1,112 @@
+{
+    "id": "i12562",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "each",
+    "en_definition": "(used of count nouns) every one considered individually",
+    "tr_word": "her bir",
+    "tr_definition": "sayılabilen isimlerle kullanılan, bir gruptaki her bir ögeyi tek tek belirten sözcük",
+    "ru_word": "каждый",
+    "ru_definition": "употребляется при указании на всех представителей какого-либо ряда, рассматриваемых по отдельности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "her"
+                ],
+                "Azerbaijani": [
+                    "hər"
+                ],
+                "Turkmen": [
+                    "her"
+                ],
+                "Uzbek": [
+                    "har"
+                ],
+                "Uyghur": [
+                    "ھەر"
+                ],
+                "Kazakh": [
+                    "әр"
+                ],
+                "Kyrgyz": [
+                    "ар"
+                ],
+                "Karakalpak": [
+                    "hár"
+                ],
+                "Tatar": [
+                    "һәр"
+                ],
+                "Bashkir": [
+                    "һәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "her bir"
+                ],
+                "Azerbaijani": [
+                    "hər bir"
+                ],
+                "Turkmen": [
+                    "her bir"
+                ],
+                "Uzbek": [
+                    "har bir"
+                ],
+                "Uyghur": [
+                    "ھەر بىر",
+                    "ھەربىرى"
+                ],
+                "Kazakh": [
+                    "әрбір"
+                ],
+                "Kyrgyz": [
+                    "ар бир"
+                ],
+                "Karakalpak": [
+                    "hár bir"
+                ],
+                "Tatar": [
+                    "һәрбер"
+                ],
+                "Bashkir": [
+                    "һәрбер",
+                    "һәр бер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "har qaysi"
+                ],
+                "Kazakh": [
+                    "әрқайсысы"
+                ],
+                "Kyrgyz": [
+                    "ар кайсы"
+                ],
+                "Karakalpak": [
+                    "hár qaysı"
+                ],
+                "Tatar": [
+                    "һәркайсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beher"
+                ]
+            }
+        }
+    ]
+}

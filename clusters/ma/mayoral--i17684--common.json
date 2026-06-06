@@ -1,0 +1,110 @@
+{
+    "id": "i17684",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "mayoral",
+    "en_definition": "of or relating to a mayor or the office of mayor",
+    "tr_word": "belediye başkanlığına ait",
+    "tr_definition": "bir belediye başkanı veya belediye başkanlığı makamı ile ilgili olan",
+    "ru_word": "мэрский",
+    "ru_definition": "относящийся к мэру или к должности мэра",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "häkimlik",
+                    "häkime degişli",
+                    "häkim"
+                ],
+                "Uzbek": [
+                    "hokimlikka oid",
+                    "hokimlik"
+                ],
+                "Kazakh": [
+                    "әкімдік",
+                    "әкімге тән"
+                ],
+                "Kyrgyz": [
+                    "акимдик"
+                ],
+                "Karakalpak": [
+                    "hákimlik",
+                    "hákimge tiyisli"
+                ],
+                "Tatar": [
+                    "хәкимлеккә караган"
+                ],
+                "Bashkir": [
+                    "хакимлыҡ",
+                    "хакимға ҡағылышлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "باشلىقلىق"
+                ],
+                "Kazakh": [
+                    "басшылық"
+                ],
+                "Kyrgyz": [
+                    "башчылык"
+                ],
+                "Bashkir": [
+                    "башлыҡҡа ҡағылышлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəhər rəisliyinə aid"
+                ],
+                "Uyghur": [
+                    "شەھەر باشلىقىغا ئائىت"
+                ],
+                "Tatar": [
+                    "шәһәр башлыгына караган",
+                    "шәһәр башлыгыныкы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "belediye başkanlığına ait",
+                    "belediye başkanıyla ilgili"
+                ],
+                "Azerbaijani": [
+                    "bələdiyyə",
+                    "bələdiyyə başçısına aid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "riyasetle ilgili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھۆكۈمرانلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мэрдик"
+                ]
+            }
+        }
+    ]
+}

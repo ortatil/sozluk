@@ -1,0 +1,133 @@
+{
+    "id": "i5812",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "taped",
+    "en_definition": "secured or held in place by tape",
+    "tr_word": "bantlanmış",
+    "tr_definition": "bant yardımıyla sabitlenmiş veya bir arada tutulmuş",
+    "ru_word": "заклеенный",
+    "ru_definition": "закрепленный или удерживаемый на месте с помощью клейкой ленты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yapıştırılmış"
+                ],
+                "Azerbaijani": [
+                    "yapışdırılmış"
+                ],
+                "Uzbek": [
+                    "yopishtirilgan"
+                ],
+                "Uyghur": [
+                    "چاپلانغان",
+                    "چاپلاقلانغان"
+                ],
+                "Kazakh": [
+                    "жабыстырылған"
+                ],
+                "Kyrgyz": [
+                    "чапталган",
+                    "жабыштырылган"
+                ],
+                "Karakalpak": [
+                    "jabıstırılǵan"
+                ],
+                "Tatar": [
+                    "ябыштырылган"
+                ],
+                "Bashkir": [
+                    "йәбештерелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bantlanmış",
+                    "bantlı"
+                ],
+                "Azerbaijani": [
+                    "bağlanmış"
+                ],
+                "Uzbek": [
+                    "bogʻlangan"
+                ],
+                "Uyghur": [
+                    "باغلانغان"
+                ],
+                "Kyrgyz": [
+                    "байланган"
+                ],
+                "Tatar": [
+                    "бәйләнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bərkidilmiş"
+                ],
+                "Turkmen": [
+                    "berkidilen"
+                ],
+                "Kazakh": [
+                    "бекітілген"
+                ],
+                "Karakalpak": [
+                    "bekitilgen"
+                ],
+                "Tatar": [
+                    "беркетелгән"
+                ],
+                "Bashkir": [
+                    "беркетелгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýelmenen",
+                    "ýelmeşdirilen"
+                ],
+                "Kazakh": [
+                    "желімделген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daňylan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mahkamlangan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "oralǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "таҫмаланған"
+                ]
+            }
+        }
+    ]
+}

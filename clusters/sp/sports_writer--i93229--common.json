@@ -1,0 +1,76 @@
+{
+    "id": "i93229",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sports writer",
+    "en_definition": "a journalist who writes about sports",
+    "tr_word": "spor yazarı",
+    "tr_definition": "spor hakkında yazılar yazan gazeteci",
+    "ru_word": "спортивный обозреватель",
+    "ru_definition": "журналист, пишущий о спорте",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "spor yazarı",
+                    "spor muhabiri",
+                    "spor gazetecisi"
+                ],
+                "Turkmen": [
+                    "sport žurnalisti",
+                    "sport habarçysy",
+                    "sport ýazyjysy"
+                ],
+                "Uzbek": [
+                    "sport jurnalisti",
+                    "sport sharhlovchisi",
+                    "sport muxbiri"
+                ],
+                "Kazakh": [
+                    "спорт тілшісі",
+                    "спорт журналисі",
+                    "спорт шолушысы"
+                ],
+                "Kyrgyz": [
+                    "спорт кабарчысы",
+                    "спорт журналисти",
+                    "спорт жазуучусу"
+                ],
+                "Karakalpak": [
+                    "sport jurnalisti",
+                    "sport xabarshısı",
+                    "sport sholıoshısı"
+                ],
+                "Tatar": [
+                    "спорт хәбәрчесе",
+                    "спорт язучысы",
+                    "спорт журналисты"
+                ],
+                "Bashkir": [
+                    "спорт хәбәрсеһе",
+                    "спорт яҙыусыһы",
+                    "спорт журналисы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "idman yazarı",
+                    "idman jurnalisti",
+                    "idman müxbiri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەنھەرىكەت مۇخبىرى",
+                    "تەنھەرىكەت يازغۇچىسى",
+                    "تەنھەرىكەت ئوبزورچىسى"
+                ]
+            }
+        }
+    ]
+}

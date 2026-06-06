@@ -1,0 +1,131 @@
+{
+    "id": "i22190",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "operate on",
+    "en_definition": "perform surgery on",
+    "tr_word": "ameliyat etmek",
+    "tr_definition": "bir hastaya cerrahi müdahalede bulunmak",
+    "ru_word": "оперировать",
+    "ru_definition": "производить хирургическую операцию над кем-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kəsib-götürmək"
+                ],
+                "Turkmen": [
+                    "kesip bejermek"
+                ],
+                "Uzbek": [
+                    "kesmoq"
+                ],
+                "Uyghur": [
+                    "كەسمەك"
+                ],
+                "Kazakh": [
+                    "кесу"
+                ],
+                "Kyrgyz": [
+                    "кесүү"
+                ],
+                "Karakalpak": [
+                    "kesip emleu"
+                ],
+                "Tatar": [
+                    "кисү"
+                ],
+                "Bashkir": [
+                    "киҫеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "operasýa etmek"
+                ],
+                "Uzbek": [
+                    "operatsiya qilmoq"
+                ],
+                "Uyghur": [
+                    "ئوپېراتسىيە قىلماق"
+                ],
+                "Kyrgyz": [
+                    "операция кылуу"
+                ],
+                "Tatar": [
+                    "операция ясау"
+                ],
+                "Bashkir": [
+                    "операция яһау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cerrahi müdahale yapmak"
+                ],
+                "Azerbaijani": [
+                    "cərrahlıq etmək"
+                ],
+                "Uzbek": [
+                    "jarrohlik qilmoq"
+                ],
+                "Uyghur": [
+                    "يارماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ameliyat etmek"
+                ],
+                "Azerbaijani": [
+                    "əməliyyat etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ота жасау",
+                    "оталау"
+                ],
+                "Karakalpak": [
+                    "ota jasau",
+                    "otalau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жаруу"
+                ],
+                "Tatar": [
+                    "яру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "neşter vurmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hirurgiki usul bilen bejermek"
+                ]
+            }
+        }
+    ]
+}

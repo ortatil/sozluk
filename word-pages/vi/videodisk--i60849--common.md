@@ -1,0 +1,170 @@
+# Videodisk
+| Field | Detail |
+|---|---|
+| **ID** | i60849 |
+| **English** | videodisk |
+| **Type** | noun |
+| **Definition** | a digital recording (as of a movie) on an optical disk that can be played on a computer or a television set |
+| **Source** | common |
+| **Ortatil** | wideo-diski |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| бейнетаспа | beynetaspa |
+| бейнедиск | beynedisk |
+| күйтабақ | küytabaq |
+| **Kyrgyz** | |
+| көрмөтабак | körmötabak |
+| көрмөдиск | körmödisk |
+| **Bashkir** | |
+| видеодиск | videodisk |
+
+```json
+{
+    "id": "i60849",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "videodisk",
+    "en_definition": "a digital recording (as of a movie) on an optical disk that can be played on a computer or a television set",
+    "tr_word": "videodisk",
+    "tr_definition": "Bir bilgisayarda veya televizyonda oynatılabilen, optik bir disk üzerindeki dijital kayıt (film gibi).",
+    "ru_word": "видеодиск",
+    "ru_definition": "Цифровая запись (например, фильма) на оптическом диске, которую можно воспроизвести на компьютере или телевизоре.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "optik disk"
+                ],
+                "Turkmen": [
+                    "optiki disk"
+                ],
+                "Uzbek": [
+                    "optik disk"
+                ],
+                "Uyghur": [
+                    "ئوپتىكىلىق دېسكا"
+                ],
+                "Tatar": [
+                    "оптик диск"
+                ],
+                "Bashkir": [
+                    "оптик диск"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "görüntü diski"
+                ],
+                "Azerbaijani": [
+                    "görüntü diski"
+                ],
+                "Kyrgyz": [
+                    "көрмөтабак",
+                    "көрмөдиск"
+                ],
+                "Karakalpak": [
+                    "kórinis diski"
+                ],
+                "Tatar": [
+                    "күренмә диск"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "video disk"
+                ],
+                "Azerbaijani": [
+                    "video diski"
+                ],
+                "Turkmen": [
+                    "wideo-diski"
+                ],
+                "Uyghur": [
+                    "ۋىدېئو دېسكا"
+                ],
+                "Bashkir": [
+                    "видеодиск"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sayısal disk"
+                ],
+                "Turkmen": [
+                    "sanly disk"
+                ],
+                "Karakalpak": [
+                    "sanlı disk"
+                ],
+                "Tatar": [
+                    "санлы диск"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнетаспа",
+                    "бейнедиск"
+                ],
+                "Karakalpak": [
+                    "beynedisk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tasviriy disk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نۇر دېسكا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күйтабақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сүрөттүк табак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көҙгөлө диск"
+                ]
+            }
+        }
+    ]
+}
+```
+

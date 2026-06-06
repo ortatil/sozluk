@@ -1,0 +1,79 @@
+{
+    "id": "i53521",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "explosive",
+    "en_definition": "a chemical substance that undergoes a rapid chemical change (with the production of gas) on being heated or struck",
+    "tr_word": "patlayıcı",
+    "tr_definition": "Isı veya darbe etkisiyle çok hızlı kimyasal değişime uğrayarak gaz açığa çıkaran madde",
+    "ru_word": "взрывчатое вещество",
+    "ru_definition": "Химическое соединение или смесь, способная под влиянием внешнего воздействия к быстрому химическому превращению с выделением газов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "patlayıcı",
+                    "patlayıcı madde"
+                ],
+                "Azerbaijani": [
+                    "partlayıcı",
+                    "partlayıcı maddə"
+                ],
+                "Turkmen": [
+                    "partlaýjy",
+                    "partlaýjy madda"
+                ],
+                "Uzbek": [
+                    "portlovchi modda",
+                    "portlagich"
+                ],
+                "Uyghur": [
+                    "پارتلاتقۇچ دورا",
+                    "پارتلاتقۇچ ماددا",
+                    "پارتلاتقۇچ"
+                ],
+                "Tatar": [
+                    "шартлаткыч",
+                    "шартлаткыч матдә"
+                ],
+                "Bashkir": [
+                    "шартлатҡыс",
+                    "шартлаусы матдә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жарылғыш",
+                    "жарылғыш зат"
+                ],
+                "Kyrgyz": [
+                    "жарылгыч зат",
+                    "жарылуучу зат",
+                    "жарылгыч"
+                ],
+                "Karakalpak": [
+                    "jarılǵısh",
+                    "jarılǵısh zat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "infilak maddesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қопарғыш"
+                ]
+            }
+        }
+    ]
+}

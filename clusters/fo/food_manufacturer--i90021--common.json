@@ -1,0 +1,128 @@
+{
+    "id": "i90021",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "food manufacturer",
+    "en_definition": "a person who manufactures food products",
+    "tr_word": "gıda üreticisi",
+    "tr_definition": "gıda ürünleri imal eden kişi veya kuruluş",
+    "ru_word": "производитель продуктов питания",
+    "ru_definition": "лицо или компания, занимающаяся производством пищевых продуктов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ərzaq istehsalçısı"
+                ],
+                "Turkmen": [
+                    "azyk öndüriji"
+                ],
+                "Kazakh": [
+                    "азық-түлік өндіруші"
+                ],
+                "Kyrgyz": [
+                    "азык-түлүк өндүрүүчү",
+                    "азык өндүрүүчү"
+                ],
+                "Karakalpak": [
+                    "azıq-túlik óndirioshi",
+                    "azıq-túlik islep shıǵarıoshı"
+                ],
+                "Tatar": [
+                    "азык җитештерүче",
+                    "азык-төлек җитештерүче"
+                ],
+                "Bashkir": [
+                    "аҙыҡ-түлек етештереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "taom tayyorlovchi"
+                ],
+                "Kazakh": [
+                    "тағам өндіруші",
+                    "тамақ өндіруші"
+                ],
+                "Karakalpak": [
+                    "taǵam óndirioshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gıda üreticisi",
+                    "gıda imalatçısı"
+                ],
+                "Azerbaijani": [
+                    "qida istehsalçısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oziq-ovqat ishlab chiqaruvchi"
+                ],
+                "Uyghur": [
+                    "يېمەكلىك ئىشلەپچىقارغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "besin üreticisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iýmit öndüriji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mahsulot yetishtiruvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېمەكلىك كارخانىچىسى",
+                    "يېمەكلىك تەييارلىغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тамак-аш өндүрүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ризык җитештерүче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аш-һыу етештереүсе"
+                ]
+            }
+        }
+    ]
+}

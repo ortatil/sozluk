@@ -1,0 +1,251 @@
+# Cram
+| Field | Detail |
+|---|---|
+| **ID** | i29351 |
+| **English** | cram |
+| **Type** | verb |
+| **Definition** | crowd or pack to capacity |
+| **Source** | common |
+| **Ortatil** | ḍoldurmaq, tıqmaq, qısmaq, tığızlaumaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍoldurmaq** | **tıqmaq** | **qısmaq** | **tığızlaumaq** |
+|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ | ✅ |
+| Azerbaijani | ✅ | ✅ | ✅ | ✅ |
+| Turkmen | ❌ | ✅ | ❌ | ✅ |
+| Uzbek | ✅ | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ✅ | ✅ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ | ✅ |
+| Kyrgyz | ✅ | ✅ | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ✅ | ✅ |
+| Bashkir | ✅ | ❌ | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 1 | 0.33 | 1 |
+| *Qarluq Subtotal* | 1 | 1 | 1 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.40 | 0.60 | 0.80 |
+| *In All* | ✅ | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  | ✅ |
+| **O'TQ** | **3.67** | **3.40** | **2.93** | **2.30** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تولدۇرماق | toldurmaq |
+| تىقماق | tiqmaq |
+| قىستىماق | qistimaq |
+| **Kazakh** | |
+| толтыру | toltıru |
+| тығындау | tığındau |
+| нығыздау | nığızdau |
+| сығымдау | sığımdau |
+| жию | jiyu |
+| **Kyrgyz** | |
+| толтуруу | tolturuu |
+| тыгуу | tıguu |
+| кысуу | kısuu |
+| басуу | basuu |
+| **Tatar** | |
+| тутыру | tutıru |
+| тыгызлау | tıgızlau |
+| тыгу | tıgu |
+| кысу | kısu |
+| **Bashkir** | |
+| тултырыу | tultırıu |
+| тығыу | tığıu |
+| тығыҙлау | tığızlau |
+| ҡыҫыу | qısıu |
+
+```json
+{
+    "id": "i29351",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "cram",
+    "en_definition": "crowd or pack to capacity",
+    "tr_word": "tıkıştırmak",
+    "tr_definition": "bir şeyi dar bir yere zorla sığdırmak veya doldurmak",
+    "ru_word": "втискивать",
+    "ru_definition": "плотно заполнять пространство, впихивая что-либо до предела",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doldurmak"
+                ],
+                "Azerbaijani": [
+                    "doldurmaq"
+                ],
+                "Uzbek": [
+                    "toʻldirmoq"
+                ],
+                "Uyghur": [
+                    "تولدۇرماق"
+                ],
+                "Kazakh": [
+                    "толтыру"
+                ],
+                "Kyrgyz": [
+                    "толтуруу"
+                ],
+                "Karakalpak": [
+                    "toltırıu"
+                ],
+                "Tatar": [
+                    "тутыру"
+                ],
+                "Bashkir": [
+                    "тултырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tıkıştırmak",
+                    "sıkıştırmak"
+                ],
+                "Azerbaijani": [
+                    "sıxışdırmaq"
+                ],
+                "Turkmen": [
+                    "dykyşdyrmak"
+                ],
+                "Kazakh": [
+                    "тығындау",
+                    "нығыздау",
+                    "сығымдау"
+                ],
+                "Karakalpak": [
+                    "tıǵızlau",
+                    "tıǵıu"
+                ],
+                "Tatar": [
+                    "тыгызлау"
+                ],
+                "Bashkir": [
+                    "тығыу",
+                    "тығыҙлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tıkmak"
+                ],
+                "Azerbaijani": [
+                    "tıxmaq"
+                ],
+                "Turkmen": [
+                    "dykylmak",
+                    "dykmak"
+                ],
+                "Uzbek": [
+                    "tiqmoq"
+                ],
+                "Uyghur": [
+                    "تىقماق"
+                ],
+                "Kyrgyz": [
+                    "тыгуу"
+                ],
+                "Tatar": [
+                    "тыгу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "basmaq"
+                ],
+                "Uzbek": [
+                    "qismoq"
+                ],
+                "Uyghur": [
+                    "قىستىماق"
+                ],
+                "Kyrgyz": [
+                    "кысуу"
+                ],
+                "Tatar": [
+                    "кысу"
+                ],
+                "Bashkir": [
+                    "ҡыҫыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "لىق تولدۇرماق"
+                ],
+                "Kyrgyz": [
+                    "жык толтуруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "басуу"
+                ],
+                "Karakalpak": [
+                    "bastırıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istiflemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ləbaləb etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "püre-pürlemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gapgarmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zichlamoq",
+                    "joylamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жию"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,55 @@
+{
+    "id": "i78383",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "milk",
+    "en_definition": "a white nutritious liquid secreted by mammals and used as food by human beings",
+    "tr_word": "süt",
+    "tr_definition": "Memelilerin yavrularını beslemek için memelerinden gelen, besin değeri yüksek beyaz sıvı.",
+    "ru_word": "молоко",
+    "ru_definition": "Питательная белая жидкость, вырабатываемая молочными железами самок млекопитающих для кормления детенышей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "süt"
+                ],
+                "Azerbaijani": [
+                    "süd"
+                ],
+                "Turkmen": [
+                    "süýt"
+                ],
+                "Uzbek": [
+                    "sut"
+                ],
+                "Uyghur": [
+                    "سۈت"
+                ],
+                "Kazakh": [
+                    "сүт"
+                ],
+                "Kyrgyz": [
+                    "сүт"
+                ],
+                "Karakalpak": [
+                    "sút"
+                ],
+                "Tatar": [
+                    "сөт"
+                ],
+                "Bashkir": [
+                    "һөт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shir"
+                ]
+            }
+        }
+    ]
+}

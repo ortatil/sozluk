@@ -1,0 +1,100 @@
+{
+    "id": "i110629",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "insomnia",
+    "en_definition": "an inability to sleep; chronic sleeplessness",
+    "tr_word": "uykusuzluk",
+    "tr_definition": "uyuyamama durumu; kronik uykusuzluk hastalığı",
+    "ru_word": "бессонница",
+    "ru_definition": "расстройство сна, характеризующееся недостаточной продолжительностью или неудовлетворительным качеством сна",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uykusuzluk",
+                    "uyku bozukluğu"
+                ],
+                "Turkmen": [
+                    "ukusyzlyk"
+                ],
+                "Uzbek": [
+                    "uyqusizlik"
+                ],
+                "Uyghur": [
+                    "ئۇيقۇسىزلىق"
+                ],
+                "Kazakh": [
+                    "ұйқысыздық",
+                    "ұйқысыз"
+                ],
+                "Kyrgyz": [
+                    "уйкусуздук",
+                    "уйку качуу",
+                    "уйкунун жоктугу"
+                ],
+                "Karakalpak": [
+                    "uyqısızlıq"
+                ],
+                "Tatar": [
+                    "йокысызлык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bidarlyk"
+                ],
+                "Uzbek": [
+                    "bedorlik"
+                ],
+                "Uyghur": [
+                    "بىدارلىق"
+                ],
+                "Karakalpak": [
+                    "bedarlıq"
+                ],
+                "Tatar": [
+                    "бидарлык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yuxusuzluq"
+                ],
+                "Bashkir": [
+                    "йоҡоһоҙлоҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "biyuxuluq"
+                ],
+                "Kazakh": [
+                    "беймазалық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "insomni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "би йоҡо"
+                ]
+            }
+        }
+    ]
+}

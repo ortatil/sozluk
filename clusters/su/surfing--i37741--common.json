@@ -1,0 +1,95 @@
+{
+    "id": "i37741",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "surfing",
+    "en_definition": "the sport of riding a surfboard toward the shore on the crest of a wave",
+    "tr_word": "sörf",
+    "tr_definition": "Bir sörf tahtası üzerinde, dalgaların kıyıya doğru itici gücünden yararlanarak yapılan spor.",
+    "ru_word": "сёрфинг",
+    "ru_definition": "Водный вид спорта, заключающийся в катании на волне на специальных лёгких досках.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tolkun süýşmesi",
+                    "tolkunly ýüzüş"
+                ],
+                "Uzbek": [
+                    "to'lqin uchish",
+                    "to'lqin ustida uchish"
+                ],
+                "Uyghur": [
+                    "دولقۇن تېيىلىش",
+                    "دولقۇن ئۈستىدە تېيىلىش"
+                ],
+                "Kazakh": [
+                    "толқынмен сырғанау",
+                    "толқын үстіндегі серуен",
+                    "толқын спорты"
+                ],
+                "Kyrgyz": [
+                    "толкун тебүү",
+                    "толкун үстүндө сүзүү"
+                ],
+                "Karakalpak": [
+                    "tolqın ústinde sırǵanau",
+                    "tolqın tebio"
+                ],
+                "Tatar": [
+                    "дулкын шууы",
+                    "дулкыннарда шуу",
+                    "дулкын өстендә шуу"
+                ],
+                "Bashkir": [
+                    "тулҡын шыуыуы",
+                    "тулҡын өҫтөндә шыуыу",
+                    "тулҡын спорты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sörf"
+                ],
+                "Azerbaijani": [
+                    "sörfinq"
+                ],
+                "Turkmen": [
+                    "serfing"
+                ],
+                "Uzbek": [
+                    "syorfing"
+                ],
+                "Kyrgyz": [
+                    "серфинг"
+                ],
+                "Karakalpak": [
+                    "serfing"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dalga sörfü",
+                    "dalga biniciliği"
+                ],
+                "Azerbaijani": [
+                    "dalğa sürüşməsi",
+                    "dalğa idmanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇ ئۈستىدە تېيىلىش"
+                ]
+            }
+        }
+    ]
+}

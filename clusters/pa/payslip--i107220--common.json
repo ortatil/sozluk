@@ -1,0 +1,153 @@
+{
+    "id": "i107220",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "payslip",
+    "en_definition": "a slip of paper included with your pay that records how much money you have earned and how much tax or insurance etc. has been taken out",
+    "tr_word": "maaş bordrosu",
+    "tr_definition": "Bir çalışana ödenen toplam ücreti, yapılan vergi ve sigorta kesintilerini gösteren belge.",
+    "ru_word": "расчётный листок",
+    "ru_definition": "документ, выдаваемый работнику при выплате заработной платы, в котором указываются составные части оплаты и произведённые удержания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hesab vərəqi"
+                ],
+                "Turkmen": [
+                    "hasaplaşyk kagyzy"
+                ],
+                "Uzbek": [
+                    "hisob varaqasi"
+                ],
+                "Karakalpak": [
+                    "esap qaǵazı"
+                ],
+                "Bashkir": [
+                    "хисап ҡағыҙы",
+                    "хисаплау бите"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töleg kagyzy"
+                ],
+                "Kazakh": [
+                    "төлем парағы"
+                ],
+                "Karakalpak": [
+                    "tólem qaǵazı"
+                ],
+                "Bashkir": [
+                    "түләү ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "maaş bordrosu",
+                    "maaş pusulası"
+                ],
+                "Uzbek": [
+                    "maosh varaqasi"
+                ],
+                "Uyghur": [
+                    "مائاش جەدۋىلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maaş vərəqi"
+                ],
+                "Uyghur": [
+                    "مائاش تىزىملىكى",
+                    "مائاش تالونى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zähmet haky kagyzy"
+                ],
+                "Tatar": [
+                    "хезмәт хакы кәгазе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ish haqi varaqasi"
+                ],
+                "Tatar": [
+                    "исәп-хисап бите"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есеп айырысу парағы"
+                ],
+                "Kyrgyz": [
+                    "эсептешүү баракчасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айлык баракчасы",
+                    "эмгек акы баракчасы"
+                ],
+                "Karakalpak": [
+                    "aylıq qaǵazı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ücret pusulası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bordro"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ödəniş vərəqi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалақы парағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "исәп-хисап кәгазе"
+                ]
+            }
+        }
+    ]
+}

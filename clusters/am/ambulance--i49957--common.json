@@ -1,0 +1,122 @@
+{
+    "id": "i49957",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ambulance",
+    "en_definition": "a vehicle that takes people to and from hospitals",
+    "tr_word": "ambulans",
+    "tr_definition": "hastaları hastaneye götürüp getiren araç",
+    "ru_word": "скорая помощь",
+    "ru_definition": "автомобиль, предназначенный для перевозки больных и раненых в больницу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təcili yardım",
+                    "təcili tibbi yardım"
+                ],
+                "Turkmen": [
+                    "tiz kömek ulagy"
+                ],
+                "Uzbek": [
+                    "tez yordam"
+                ],
+                "Uyghur": [
+                    "تېز ياردەم ماشىنىسى"
+                ],
+                "Kyrgyz": [
+                    "тез жардам"
+                ],
+                "Karakalpak": [
+                    "tez járdem",
+                    "tez járdem mashinası"
+                ],
+                "Tatar": [
+                    "тиз ярдәм машинасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hasta arabası"
+                ],
+                "Azerbaijani": [
+                    "xəstədaşıyan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shifo mashinasi"
+                ],
+                "Tatar": [
+                    "шифаханә машинасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ашыгыч ярдәм машинасы"
+                ],
+                "Bashkir": [
+                    "ашығыс ярҙам машинаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cankurtaran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tiz kömek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇتقۇزۇش ئاپتوموبىلى",
+                    "قۇتقۇزۇش ماشىنىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жедел жәрдем",
+                    "жедел көмек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аурухана көлігі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оорулуу ташуучу унаа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дауахана машинаһы"
+                ]
+            }
+        }
+    ]
+}

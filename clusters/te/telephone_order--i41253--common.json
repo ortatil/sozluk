@@ -1,0 +1,77 @@
+{
+    "id": "i41253",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "telephone order",
+    "en_definition": "receiving orders via telephone",
+    "tr_word": "telefonla sipariş",
+    "tr_definition": "siparişlerin telefon aracılığıyla alınması",
+    "ru_word": "заказ по телефону",
+    "ru_definition": "прием заказов по телефону",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telefonla sipariş",
+                    "telefon siparişi"
+                ],
+                "Azerbaijani": [
+                    "telefonla sifariş"
+                ],
+                "Turkmen": [
+                    "telefon arkaly sargyt",
+                    "telefon sargydy"
+                ],
+                "Uzbek": [
+                    "telefon orqali buyurtma",
+                    "telefon orqali buyurtma berish"
+                ],
+                "Uyghur": [
+                    "تېلېفون ئارقىلىق زاكاز قىلىش",
+                    "تېلېفوندا زاكاز قىلىش",
+                    "تېلېفون زاكازى"
+                ],
+                "Kazakh": [
+                    "телефон арқылы тапсырыс",
+                    "телефонмен тапсырыс беру",
+                    "телефондық тапсырыс"
+                ],
+                "Kyrgyz": [
+                    "телефон аркылуу буйрутма",
+                    "телефондук буйрутма",
+                    "телефон аркылуу заказ"
+                ],
+                "Karakalpak": [
+                    "telefon arqalı buyırtpa",
+                    "telefonnan buyırtpa alıo",
+                    "telefon buyırtpası"
+                ],
+                "Tatar": [
+                    "телефон аша заказ",
+                    "телефон аша боерык",
+                    "телефоннан заказ алу"
+                ],
+                "Bashkir": [
+                    "телефон аша заказ",
+                    "телефон аша заказ биреү",
+                    "телефон аша заказ ҡабул итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zənglə sifariş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "og'zaki buyurtma"
+                ]
+            }
+        }
+    ]
+}

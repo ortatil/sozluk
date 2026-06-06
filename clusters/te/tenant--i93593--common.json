@@ -1,0 +1,113 @@
+{
+    "id": "i93593",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tenant",
+    "en_definition": "someone who pays rent to use land or a building or a car that is owned by someone else",
+    "tr_word": "kiracı",
+    "tr_definition": "başkasına ait bir mülkü, araziyi veya aracı belirli bir ücret karşılığında kullanan kimse",
+    "ru_word": "арендатор",
+    "ru_definition": "лицо, получающее во временное пользование за плату имущество, землю или транспортное средство",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "icarəçi"
+                ],
+                "Uzbek": [
+                    "ijarachi"
+                ],
+                "Uyghur": [
+                    "ئىجارىكەش",
+                    "ئىجارىگە ئالغۇچى"
+                ],
+                "Kyrgyz": [
+                    "ижарачы"
+                ],
+                "Karakalpak": [
+                    "ijarashı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жалгер",
+                    "жалдаушы"
+                ],
+                "Kyrgyz": [
+                    "жалдануучу",
+                    "жалдап алуучу"
+                ],
+                "Karakalpak": [
+                    "jalger"
+                ],
+                "Tatar": [
+                    "яллаучы"
+                ],
+                "Bashkir": [
+                    "яллаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kiracı"
+                ],
+                "Azerbaijani": [
+                    "kirayəçi"
+                ],
+                "Turkmen": [
+                    "kärendeçi",
+                    "kireýkeş",
+                    "kireýine alýan"
+                ],
+                "Uyghur": [
+                    "كىراچى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müstecir"
+                ],
+                "Azerbaijani": [
+                    "müstəcir"
+                ],
+                "Uzbek": [
+                    "mustajir"
+                ],
+                "Tatar": [
+                    "мөстәҗир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "пәтерші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "арендатор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡуртымсы"
+                ]
+            }
+        }
+    ]
+}

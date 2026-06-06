@@ -1,0 +1,163 @@
+{
+    "id": "i72360",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "type",
+    "en_definition": "printed characters",
+    "tr_word": "yazı",
+    "tr_definition": "basılmış karakterler veya harfler",
+    "ru_word": "шрифт",
+    "ru_definition": "печатные знаки или буквы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harf"
+                ],
+                "Azerbaijani": [
+                    "hərf"
+                ],
+                "Turkmen": [
+                    "harp"
+                ],
+                "Uzbek": [
+                    "harf"
+                ],
+                "Uyghur": [
+                    "ھەرپ"
+                ],
+                "Kazakh": [
+                    "қаріп"
+                ],
+                "Kyrgyz": [
+                    "арип"
+                ],
+                "Karakalpak": [
+                    "xarіp"
+                ],
+                "Tatar": [
+                    "хәреф"
+                ],
+                "Bashkir": [
+                    "хәреф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazı"
+                ],
+                "Azerbaijani": [
+                    "yazı"
+                ],
+                "Turkmen": [
+                    "ýazuw"
+                ],
+                "Uzbek": [
+                    "yozuv"
+                ],
+                "Karakalpak": [
+                    "jazıo"
+                ],
+                "Tatar": [
+                    "язу"
+                ],
+                "Bashkir": [
+                    "яҙыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xətt"
+                ],
+                "Turkmen": [
+                    "hat"
+                ],
+                "Uzbek": [
+                    "xat"
+                ],
+                "Uyghur": [
+                    "خەت"
+                ],
+                "Kazakh": [
+                    "хат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "таңба"
+                ],
+                "Kyrgyz": [
+                    "тамга"
+                ],
+                "Karakalpak": [
+                    "tańba"
+                ],
+                "Tatar": [
+                    "тамга"
+                ],
+                "Bashkir": [
+                    "тамға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "punto"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karakter"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mətbəə şrifti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şrift"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "matn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نۇسخا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "басма"
+                ]
+            }
+        }
+    ]
+}

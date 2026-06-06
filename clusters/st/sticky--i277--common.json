@@ -1,0 +1,111 @@
+{
+    "id": "i277",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sticky",
+    "en_definition": "having the sticky properties of an adhesive",
+    "tr_word": "yapışkan",
+    "tr_definition": "bir yüzeye tutunma veya yapışma özelliği olan",
+    "ru_word": "липкий",
+    "ru_definition": "обладающий свойством прилипать к поверхностям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yapışkan",
+                    "yapışıcı",
+                    "yapışkanlı"
+                ],
+                "Azerbaijani": [
+                    "yapışqan",
+                    "yapışqanlı",
+                    "yapışan",
+                    "yapışıcı"
+                ],
+                "Uzbek": [
+                    "yopishqoq",
+                    "yopishqoqrang",
+                    "yopishadigan"
+                ],
+                "Uyghur": [
+                    "يېپىشقاق",
+                    "چاپلاشقاق",
+                    "يېپىشقان"
+                ],
+                "Kazakh": [
+                    "жабысқақ",
+                    "жабысқау",
+                    "жабысқақты"
+                ],
+                "Kyrgyz": [
+                    "жабышкак",
+                    "жабышчак"
+                ],
+                "Karakalpak": [
+                    "jabısqaq",
+                    "jabısqaqlı"
+                ],
+                "Tatar": [
+                    "ябышкак",
+                    "ябышучан"
+                ],
+                "Bashkir": [
+                    "йәбешкәк",
+                    "йәбешмә",
+                    "йәбешеп торған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýelmeşek",
+                    "ýelmeşgen",
+                    "ýelmeşýän"
+                ],
+                "Kazakh": [
+                    "желімді"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илээшкек"
+                ],
+                "Karakalpak": [
+                    "ileeshkek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şireli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shilimshiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һөҙлөклө"
+                ]
+            }
+        }
+    ]
+}

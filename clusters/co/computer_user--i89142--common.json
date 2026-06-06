@@ -1,0 +1,105 @@
+{
+    "id": "i89142",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "computer user",
+    "en_definition": "a person who uses computers for work or entertainment or communication or business",
+    "tr_word": "bilgisayar kullanıcısı",
+    "tr_definition": "iş, eğlence, iletişim veya ticaret için bilgisayar kullanan kişi",
+    "ru_word": "пользователь компьютера",
+    "ru_definition": "человек, использующий компьютеры для работы, развлечений, общения или бизнеса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "foydalanuvchi"
+                ],
+                "Kazakh": [
+                    "пайдаланушы"
+                ],
+                "Kyrgyz": [
+                    "пайдалануучу"
+                ],
+                "Karakalpak": [
+                    "paydalanıoshı"
+                ],
+                "Bashkir": [
+                    "файҙаланыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kompýuter ulanýan"
+                ],
+                "Uyghur": [
+                    "كومپيۇتېر ئىشلەتكۈچى",
+                    "كومپيۇتېر قوللانغۇچى"
+                ],
+                "Karakalpak": [
+                    "kompyuter paydalanıoshısı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қолданушы"
+                ],
+                "Kyrgyz": [
+                    "колдонуучу"
+                ],
+                "Tatar": [
+                    "кулланучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kompüter istifadəçisi",
+                    "istifadəçi"
+                ],
+                "Uzbek": [
+                    "iste'molchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ulanyjy"
+                ],
+                "Bashkir": [
+                    "ҡулланыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilgisayar kullanıcısı",
+                    "bilişim kullanıcısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хисаплагыч кулланучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "санак кулланучы"
+                ]
+            }
+        }
+    ]
+}

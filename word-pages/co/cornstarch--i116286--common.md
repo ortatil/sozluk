@@ -1,0 +1,111 @@
+# Cornstarch
+| Field | Detail |
+|---|---|
+| **ID** | i116286 |
+| **English** | cornstarch |
+| **Type** | noun |
+| **Definition** | starch prepared from the grains of corn; used in cooking as a thickener |
+| **Source** | common |
+| **Ortatil** | nişästä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i116286",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cornstarch",
+    "en_definition": "starch prepared from the grains of corn; used in cooking as a thickener",
+    "tr_word": "mısır nişastası",
+    "tr_definition": "Mısır tanelerinden elde edilen ve yemeklerde kıvam artırıcı olarak kullanılan nişasta.",
+    "ru_word": "кукурузный крахмал",
+    "ru_definition": "Крахмал, полученный из зерен кукурузы; используется в кулинарии в качестве загустителя.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жүгері крахмалы",
+                    "жүгері маңызы"
+                ],
+                "Kyrgyz": [
+                    "жүгөрү крахмалы",
+                    "жүгөрү маңызы"
+                ],
+                "Karakalpak": [
+                    "júgerі kraxmalı",
+                    "júgerі nishastası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mısır nişastası"
+                ],
+                "Tatar": [
+                    "мисыр крахмалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nişasta"
+                ],
+                "Uzbek": [
+                    "nishasta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mekgejöwen krahmaly",
+                    "mekgejöwen nişastasy"
+                ],
+                "Uzbek": [
+                    "makkajoʻxori kraxmali",
+                    "makkajoʻxori nishastasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarğıdalı nişastası",
+                    "qarğıdalı unu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوناق كراخمالى",
+                    "قوناق نىشاستىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күбәркә крахмалы",
+                    "күбәркә оны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "кукуруз крахмалы",
+                    "кукуруз онтағы"
+                ]
+            }
+        }
+    ]
+}
+```
+

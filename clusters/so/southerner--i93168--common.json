@@ -1,0 +1,89 @@
+{
+    "id": "i93168",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "southerner",
+    "en_definition": "an American who lives in the South",
+    "tr_word": "güneyli",
+    "tr_definition": "Amerika Birleşik Devletleri'nin güney eyaletlerinde yaşayan kimse",
+    "ru_word": "южанин",
+    "ru_definition": "житель южных штатов США",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cenup sakini"
+                ],
+                "Azerbaijani": [
+                    "cənublu"
+                ],
+                "Uzbek": [
+                    "janublik",
+                    "janubiy"
+                ],
+                "Uyghur": [
+                    "جەنۇبلۇق",
+                    "جەنۇبىي ئامېرىكىلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güneyli"
+                ],
+                "Turkmen": [
+                    "günorta ýaşaýjysy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түштүктүк",
+                    "түштүк адамы",
+                    "түштүк тургуну"
+                ],
+                "Karakalpak": [
+                    "túslikshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көньяклы",
+                    "көньяк кешесе"
+                ],
+                "Bashkir": [
+                    "көньяҡлы",
+                    "көньяҡ кешеһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "günortaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оңтүстіктік",
+                    "оңтүстік адамы",
+                    "оңтүстік тұрғыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qublalıq"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "id": "i69389",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "title page",
+    "en_definition": "a page of a book displaying the title and author and publisher",
+    "tr_word": "başlık sayfası",
+    "tr_definition": "bir kitabın adını, yazarını ve yayıncısını gösteren sayfa",
+    "ru_word": "титульный лист",
+    "ru_definition": "страница книги, на которой указаны название, автор и издательство",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başlık sayfası"
+                ],
+                "Azerbaijani": [
+                    "başlıq vərəqi"
+                ],
+                "Turkmen": [
+                    "baş sahypa"
+                ],
+                "Kazakh": [
+                    "басқы бет"
+                ],
+                "Kyrgyz": [
+                    "башкы бет"
+                ],
+                "Karakalpak": [
+                    "bas bet"
+                ],
+                "Tatar": [
+                    "баш бит"
+                ],
+                "Bashkir": [
+                    "баш бит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "titul sahypasy"
+                ],
+                "Uzbek": [
+                    "titul varag'i"
+                ],
+                "Kazakh": [
+                    "титул беті"
+                ],
+                "Kyrgyz": [
+                    "титулдук барак"
+                ],
+                "Karakalpak": [
+                    "titul beti"
+                ],
+                "Tatar": [
+                    "титул бите"
+                ],
+                "Bashkir": [
+                    "титул бите"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ad vərəqi"
+                ],
+                "Turkmen": [
+                    "ady ýazylan sahypa"
+                ],
+                "Kazakh": [
+                    "атау беті"
+                ],
+                "Kyrgyz": [
+                    "аталыш барагы"
+                ],
+                "Karakalpak": [
+                    "atama beti"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ünvan səhifəsi"
+                ],
+                "Uzbek": [
+                    "unvon sahifasi"
+                ],
+                "Uyghur": [
+                    "ئۇنۋان بېتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sarlavha varag'i"
+                ],
+                "Uyghur": [
+                    "سەرلەۋھە بېتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نام بېتى"
+                ],
+                "Tatar": [
+                    "исем бите"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "künye sayfası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iç kapak"
+                ]
+            }
+        }
+    ]
+}

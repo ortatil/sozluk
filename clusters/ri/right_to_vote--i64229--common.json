@@ -1,0 +1,100 @@
+{
+    "id": "i64229",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "right to vote",
+    "en_definition": "a legal right guaranteed by the 15th amendment to the US Constitution; guaranteed to women by the 19th amendment",
+    "tr_word": "oy hakkı",
+    "tr_definition": "Vatandaşların seçimlerde oy kullanma konusundaki yasal yetkisi.",
+    "ru_word": "право голоса",
+    "ru_definition": "Гарантированное законом право граждан участвовать в выборах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saýlaw hukugy"
+                ],
+                "Uzbek": [
+                    "saylov huquqi"
+                ],
+                "Uyghur": [
+                    "سايلام ھوقۇقى"
+                ],
+                "Kazakh": [
+                    "сайлау құқығы"
+                ],
+                "Kyrgyz": [
+                    "шайлоо укугу"
+                ],
+                "Karakalpak": [
+                    "saylao huqıqı"
+                ],
+                "Tatar": [
+                    "сайлау хокукы"
+                ],
+                "Bashkir": [
+                    "һайлау хоҡуғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovoz berish huquqi"
+                ],
+                "Kazakh": [
+                    "дауыс беру құқығы"
+                ],
+                "Karakalpak": [
+                    "daoıs berio huqıqı"
+                ],
+                "Tatar": [
+                    "тавыш бирү хокукы"
+                ],
+                "Bashkir": [
+                    "тауыш биреү хоҡуғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seçme hakkı"
+                ],
+                "Azerbaijani": [
+                    "səsvermə hüququ",
+                    "seçki hüququ",
+                    "səs hüququ"
+                ],
+                "Turkmen": [
+                    "ses bermek hukugy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oy hakkı",
+                    "rey hakkı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېلەت تاشلاش ھوقۇقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "добуш берүү укугу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "id": "i64837",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "lip",
+    "en_definition": "either of two fleshy folds of tissue that surround the mouth and play a role in speaking",
+    "tr_word": "dudak",
+    "tr_definition": "Ağzın çevresini çevreleyen, konuşmada ve beslenmede rol oynayan iki etli kıvrımdan her biri.",
+    "ru_word": "губа",
+    "ru_definition": "каждая из двух кожно-мышечных складок, окружающих вход в полость рта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "leb"
+                ],
+                "Azerbaijani": [
+                    "ləb"
+                ],
+                "Turkmen": [
+                    "leý"
+                ],
+                "Uzbek": [
+                    "lab"
+                ],
+                "Uyghur": [
+                    "لەۋ"
+                ],
+                "Karakalpak": [
+                    "lap"
+                ],
+                "Tatar": [
+                    "лап"
+                ],
+                "Bashkir": [
+                    "лап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dudak"
+                ],
+                "Azerbaijani": [
+                    "dodaq"
+                ],
+                "Turkmen": [
+                    "dodak"
+                ],
+                "Uzbek": [
+                    "dudoq"
+                ],
+                "Uyghur": [
+                    "دۇداق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ерін",
+                    "еріндер"
+                ],
+                "Kyrgyz": [
+                    "эрин"
+                ],
+                "Karakalpak": [
+                    "erіn"
+                ],
+                "Tatar": [
+                    "ирен"
+                ],
+                "Bashkir": [
+                    "ирен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ооз"
+                ]
+            }
+        }
+    ]
+}

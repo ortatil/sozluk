@@ -1,0 +1,93 @@
+{
+    "id": "i40072",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dance lesson",
+    "en_definition": "a lesson in dancing",
+    "tr_word": "dans dersi",
+    "tr_definition": "dans etmeyi öğrenmek için alınan ders",
+    "ru_word": "урок танцев",
+    "ru_definition": "занятие, на котором обучают танцам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "raks dersi"
+                ],
+                "Azerbaijani": [
+                    "rəqs dərsi"
+                ],
+                "Uzbek": [
+                    "raqs darsi",
+                    "raqs sabog'i",
+                    "raqs ta'limi"
+                ],
+                "Uyghur": [
+                    "رەقس دەرسى"
+                ],
+                "Karakalpak": [
+                    "raqs sabaǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "би сабағы",
+                    "би үйрену",
+                    "би дәрісі"
+                ],
+                "Kyrgyz": [
+                    "бий сабагы",
+                    "бий үйрөнүү",
+                    "бий таалими"
+                ],
+                "Karakalpak": [
+                    "biy sabaǵı",
+                    "biy úyrenio"
+                ],
+                "Tatar": [
+                    "бию сабагы"
+                ],
+                "Bashkir": [
+                    "бейеү дәресе",
+                    "бейеү һабағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyun dersi"
+                ],
+                "Azerbaijani": [
+                    "oyun dərsi"
+                ],
+                "Tatar": [
+                    "бию дәресе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dans dersi"
+                ],
+                "Turkmen": [
+                    "tans sapagy",
+                    "tans dersi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇسسۇل دەرسى"
+                ]
+            }
+        }
+    ]
+}

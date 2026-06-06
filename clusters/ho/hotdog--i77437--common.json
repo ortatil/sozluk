@@ -1,0 +1,114 @@
+{
+    "id": "i77437",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hotdog",
+    "en_definition": "a frankfurter served hot on a bun",
+    "tr_word": "sosisli sandviç",
+    "tr_definition": "Sıcak sosisin uzun bir ekmek arasına konulmasıyla hazırlanan yiyecek.",
+    "ru_word": "хот-дог",
+    "ru_definition": "Горячая сосиска, вложенная в разрезанную вдоль булочку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sosisli sandviç",
+                    "sosisli"
+                ],
+                "Azerbaijani": [
+                    "sosisli çörək"
+                ],
+                "Turkmen": [
+                    "sosiska çörek"
+                ],
+                "Uzbek": [
+                    "sosiskali non"
+                ],
+                "Karakalpak": [
+                    "sosiskalı bólke"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "isti sosis"
+                ],
+                "Uzbek": [
+                    "issiq sosiska"
+                ],
+                "Kazakh": [
+                    "ыстық шұжық"
+                ],
+                "Kyrgyz": [
+                    "ысык нан"
+                ],
+                "Karakalpak": [
+                    "ıssı bólke"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyzgyn çörek"
+                ],
+                "Uyghur": [
+                    "قىزىق نان",
+                    "قىزىق نانلىق كولباسا"
+                ],
+                "Bashkir": [
+                    "ҡыҫтырылған сосиска"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كولباسىلىق نان"
+                ],
+                "Kyrgyz": [
+                    "колбасалуу нан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шұжық нан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эттүү нан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кайнар сосиска"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күмәчле сосиска"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "икмәк араһындағы сосиска"
+                ]
+            }
+        }
+    ]
+}

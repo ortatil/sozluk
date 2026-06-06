@@ -1,0 +1,109 @@
+{
+    "id": "i93135",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "solderer",
+    "en_definition": "a worker who joins or mends with solder",
+    "tr_word": "lehimci",
+    "tr_definition": "lehim kullanarak metal parçaları birleştiren veya onaran işçi",
+    "ru_word": "паяльщик",
+    "ru_definition": "рабочий, который занимается пайкой, соединяя или исправляя металлические изделия при помощи припоя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lehimci"
+                ],
+                "Azerbaijani": [
+                    "lehimçi"
+                ],
+                "Turkmen": [
+                    "lehimçi"
+                ],
+                "Uzbek": [
+                    "lehimchi"
+                ],
+                "Uyghur": [
+                    "لەھىمچى",
+                    "لەھىمگەر"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قەلەيچى"
+                ],
+                "Kazakh": [
+                    "қалайылаушы"
+                ],
+                "Kyrgyz": [
+                    "калайчы"
+                ],
+                "Bashkir": [
+                    "ҡалайсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaynakçı"
+                ],
+                "Azerbaijani": [
+                    "qaynaqçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәнекерлеуші"
+                ],
+                "Karakalpak": [
+                    "dánekerleushі",
+                    "dánekershі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kebşirleýji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "payvandchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ширеткич"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "акылаучы",
+                    "акылау остасы",
+                    "акылаучы эшче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йәбештереүсе"
+                ]
+            }
+        }
+    ]
+}

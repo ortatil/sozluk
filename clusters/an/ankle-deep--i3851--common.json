@@ -1,0 +1,93 @@
+{
+    "id": "i3851",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "ankle-deep",
+    "en_definition": "coming only to the ankle or knee",
+    "tr_word": "ayak bileği hizasında",
+    "tr_definition": "sadece ayak bileğine veya dizine kadar gelen",
+    "ru_word": "по щиколотку",
+    "ru_definition": "доходящий только до щиколотки или колена",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "topuk boyu",
+                    "topuk hizasında",
+                    "topuğa kadar"
+                ],
+                "Azerbaijani": [
+                    "topuqdan",
+                    "topuqacan",
+                    "topuqboyu"
+                ],
+                "Turkmen": [
+                    "topukdan",
+                    "topuk boýy",
+                    "topuk deňi"
+                ],
+                "Uzbek": [
+                    "to'piq baravar",
+                    "to'piq bo'yi",
+                    "to'piqdan"
+                ],
+                "Uyghur": [
+                    "توشۇققىچە",
+                    "توشۇق بويى",
+                    "توشۇق باراۋەر"
+                ],
+                "Kazakh": [
+                    "тобықтан",
+                    "тобық бойы",
+                    "тобықтай"
+                ],
+                "Karakalpak": [
+                    "tobıqtan",
+                    "tobıqtay"
+                ],
+                "Tatar": [
+                    "тубыктан",
+                    "тубык тикле",
+                    "тубык кадәр",
+                    "тубык буе"
+                ],
+                "Bashkir": [
+                    "тубыҡтан",
+                    "тубыҡ буйы",
+                    "тубыҡ тикле",
+                    "тубыҡ хәтле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sığ"
+                ],
+                "Uzbek": [
+                    "sayoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dayaz"
+                ],
+                "Karakalpak": [
+                    "tayız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кызыл ашыктан",
+                    "кызыл ашык бою",
+                    "кызыл ашыкка чейин"
+                ]
+            }
+        }
+    ]
+}

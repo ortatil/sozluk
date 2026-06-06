@@ -1,0 +1,101 @@
+{
+    "id": "i38047",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "game of chance",
+    "en_definition": "a game that involves gambling",
+    "tr_word": "şans oyunu",
+    "tr_definition": "Sonucu beceriden ziyade şansa veya tesadüfe dayalı olan, genellikle kumar içeren oyun.",
+    "ru_word": "азартная игра",
+    "ru_definition": "Игра, в которой выигрыш полностью или в значительной степени зависит не от навыка игрока, а от случая.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kumar"
+                ],
+                "Azerbaijani": [
+                    "qumar"
+                ],
+                "Turkmen": [
+                    "kumar",
+                    "kumar oýny"
+                ],
+                "Uzbek": [
+                    "qimor",
+                    "qimor o'yini"
+                ],
+                "Uyghur": [
+                    "قۇمار",
+                    "قۇمار ئويۇنى"
+                ],
+                "Kazakh": [
+                    "құмар ойын"
+                ],
+                "Kyrgyz": [
+                    "кумар оюну",
+                    "кумар"
+                ],
+                "Karakalpak": [
+                    "qumar oyın",
+                    "qumarpazlıq"
+                ],
+                "Tatar": [
+                    "комарлы уен"
+                ],
+                "Bashkir": [
+                    "ҡомарлы уйын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bəxt oyunu"
+                ],
+                "Kazakh": [
+                    "бәс ойын"
+                ],
+                "Tatar": [
+                    "бәхет уены"
+                ],
+                "Bashkir": [
+                    "бәхет уйыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "talih oyunu"
+                ],
+                "Azerbaijani": [
+                    "tale oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şans oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bäşdeş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tavakkal o'yini"
+                ]
+            }
+        }
+    ]
+}

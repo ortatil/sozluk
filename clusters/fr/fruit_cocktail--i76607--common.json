@@ -1,0 +1,97 @@
+{
+    "id": "i76607",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fruit cocktail",
+    "en_definition": "a mixture of sliced or diced fruits",
+    "tr_word": "meyve kokteyli",
+    "tr_definition": "dilimlenmiş veya küp doğranmış meyvelerin karışımı",
+    "ru_word": "фруктовый коктейль",
+    "ru_definition": "смесь нарезанных ломтиками или кубиками фруктов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyve kokteyli"
+                ],
+                "Azerbaijani": [
+                    "meyvə qarışığı",
+                    "meyvə salatı",
+                    "meyvə şirniyyatı"
+                ],
+                "Turkmen": [
+                    "miwe garyndysy",
+                    "miwe salaty",
+                    "miwe şiresi"
+                ],
+                "Uzbek": [
+                    "mevalar aralashmasi",
+                    "meva salati",
+                    "meva sharbati"
+                ],
+                "Uyghur": [
+                    "مېۋە سالات",
+                    "مېۋە ئارىلاشمىسى",
+                    "مېۋە-چېۋە ئارىلاشمىسى"
+                ],
+                "Karakalpak": [
+                    "miyueler aralaspası",
+                    "miyueler toplamı",
+                    "miyueler jıyıntıǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жеміс қоспасы",
+                    "жеміс жиынтығы",
+                    "жеміс-жидек қоспасы"
+                ],
+                "Kyrgyz": [
+                    "жемиш аралашмасы",
+                    "жемиш салаты"
+                ],
+                "Tatar": [
+                    "җимеш катнашмасы",
+                    "җимеш катнашы"
+                ],
+                "Bashkir": [
+                    "емеш-еләк ҡатнашмаһы",
+                    "емеш-еләк ассортиһы",
+                    "емеш-еләк йыйылмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meyve salatası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karışık meyve"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мөмө-жемиш аралашмасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төрле җимешләр"
+                ]
+            }
+        }
+    ]
+}

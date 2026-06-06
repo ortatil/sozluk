@@ -1,0 +1,98 @@
+# Cuticle
+| Field | Detail |
+|---|---|
+| **ID** | i66247 |
+| **English** | cuticle |
+| **Type** | noun |
+| **Definition** | the dead skin at the base of a fingernail or toenail |
+| **Source** | common |
+| **Ortatil** | dericik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i66247",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cuticle",
+    "en_definition": "the dead skin at the base of a fingernail or toenail",
+    "tr_word": "tırnak eti",
+    "tr_definition": "el veya ayak tırnağının dibindeki ölü deri tabakası",
+    "ru_word": "кутикула",
+    "ru_definition": "омертвевшая кожа у основания ногтя на пальце руки или ноги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tırnak eti",
+                    "dericik",
+                    "tırnak derisi"
+                ],
+                "Azerbaijani": [
+                    "dırnaq əti",
+                    "dırnaq dibi"
+                ],
+                "Turkmen": [
+                    "dyrnak eti",
+                    "dyrnak düýbi",
+                    "dyrnak ýakasy"
+                ],
+                "Uzbek": [
+                    "tirnoq atrofi terisi",
+                    "tirnoq terisi"
+                ],
+                "Uyghur": [
+                    "تىرناق تېگى تېرىسى",
+                    "تىرناق ئەتراپىدىكى ئۆلۈك تېرە",
+                    "تىرناق تېگىدىكى نېپىز تېرە"
+                ],
+                "Kazakh": [
+                    "тырнақ еті",
+                    "тырнақ жиегі"
+                ],
+                "Kyrgyz": [
+                    "тырмактын түбүндөгү тери",
+                    "тырмак териси",
+                    "тырмактын жээги"
+                ],
+                "Karakalpak": [
+                    "tırnaq túbіndegі terі",
+                    "tırnaq qabıǵı",
+                    "tırnaq aynalasındaǵı terі"
+                ],
+                "Tatar": [
+                    "тырнакасты тиресе",
+                    "тырнак тирәсе тиресе",
+                    "тырнак төбе тиресе"
+                ],
+                "Bashkir": [
+                    "тырнаҡ тиреһе",
+                    "тырнаҡ төбө тиреһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'lik teri"
+                ],
+                "Kazakh": [
+                    "өлі тері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kutikula"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,136 @@
+{
+    "id": "i75472",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "clink",
+    "en_definition": "a short light metallic sound",
+    "tr_word": "çınlama",
+    "tr_definition": "kısa ve hafif metalik bir ses",
+    "ru_word": "звон",
+    "ru_definition": "короткий легкий металлический звук",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tık",
+                    "tıkırtı"
+                ],
+                "Azerbaijani": [
+                    "tıkkıltı"
+                ],
+                "Turkmen": [
+                    "tykyrdy"
+                ],
+                "Uzbek": [
+                    "tiqillash"
+                ],
+                "Uyghur": [
+                    "تىككىلدەش",
+                    "تىككىلدىغان ئاۋاز"
+                ],
+                "Kazakh": [
+                    "тықыл"
+                ],
+                "Kyrgyz": [
+                    "тыкыр"
+                ],
+                "Tatar": [
+                    "тыкырдау",
+                    "тыкыр"
+                ],
+                "Bashkir": [
+                    "тыҡ",
+                    "тыҡылдау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çıqqıltı",
+                    "şaqqıltı"
+                ],
+                "Uzbek": [
+                    "chiqillash",
+                    "shiqillash"
+                ],
+                "Uyghur": [
+                    "چىكىلدەش",
+                    "چىكىلدىغان ئاۋاز"
+                ],
+                "Kyrgyz": [
+                    "чыкылдак",
+                    "чык"
+                ],
+                "Tatar": [
+                    "чыкылداу",
+                    "чык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шырт",
+                    "сырт",
+                    "сырт еткен дыбыс"
+                ],
+                "Karakalpak": [
+                    "sırt",
+                    "sırtıl"
+                ],
+                "Bashkir": [
+                    "сырт",
+                    "сыртылдау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıt",
+                    "çıtırtı"
+                ],
+                "Turkmen": [
+                    "şatyrdy",
+                    "çitirdy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тырс"
+                ],
+                "Karakalpak": [
+                    "tırs",
+                    "tırsıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şarkyldy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taraqlash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tovush"
+                ]
+            }
+        }
+    ]
+}

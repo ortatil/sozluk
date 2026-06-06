@@ -1,0 +1,118 @@
+{
+    "id": "i66879",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "clock-watching",
+    "en_definition": "paying excessive attention to the clock (in anticipation of stopping work)",
+    "tr_word": "mesai bitimini kollama",
+    "tr_definition": "İşin bitiş saatini sabırsızlıkla bekleyerek sürekli saate bakma durumu.",
+    "ru_word": "поглядывание на часы",
+    "ru_definition": "Чрезмерное внимание к часам в ожидании окончания рабочего времени.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vakit kollama",
+                    "vakit geçirme"
+                ],
+                "Azerbaijani": [
+                    "vaxt güdmə",
+                    "vaxt sayma"
+                ],
+                "Turkmen": [
+                    "wagt sanamak",
+                    "wagt garaşmak"
+                ],
+                "Uzbek": [
+                    "vaqt poylash",
+                    "vaqt o'tkazish"
+                ],
+                "Uyghur": [
+                    "ۋاقىت كۆزلىمەك",
+                    "ۋاقىت ساناش",
+                    "ۋاقىتقا قاراپ تۇرۇش"
+                ],
+                "Kazakh": [
+                    "уақыт санау",
+                    "уақыт бағу"
+                ],
+                "Karakalpak": [
+                    "uaqıt sanau",
+                    "uaqıt kútio"
+                ],
+                "Tatar": [
+                    "вакыт санау",
+                    "вакыт көтү"
+                ],
+                "Bashkir": [
+                    "ваҡыт көтөү",
+                    "ваҡыт һанау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saat sayma"
+                ],
+                "Azerbaijani": [
+                    "saat güdmə",
+                    "saata baxma"
+                ],
+                "Uzbek": [
+                    "soatga qarash"
+                ],
+                "Kazakh": [
+                    "сағатқа қарағыштау"
+                ],
+                "Kyrgyz": [
+                    "саат кароо"
+                ],
+                "Karakalpak": [
+                    "saatqa qarap otırıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sagada seretmek"
+                ],
+                "Tatar": [
+                    "сәгатькә карап тору"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mesai bitimi gözleme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ishdan qochish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "убакыт күтүү",
+                    "убакыт санап отуруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәғәткә ҡарап ултырыу"
+                ]
+            }
+        }
+    ]
+}

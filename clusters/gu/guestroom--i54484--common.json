@@ -1,0 +1,80 @@
+{
+    "id": "i54484",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "guestroom",
+    "en_definition": "a bedroom that is kept for the use of guests",
+    "tr_word": "misafir odası",
+    "tr_definition": "konukların kullanımı için ayrılmış yatak odası",
+    "ru_word": "гостевая комната",
+    "ru_definition": "спальня, предназначенная для использования гостями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konuk odası"
+                ],
+                "Azerbaijani": [
+                    "qonaq otağı"
+                ],
+                "Kazakh": [
+                    "қонақ бөлме",
+                    "қонақжай"
+                ],
+                "Kyrgyz": [
+                    "конок бөлмө"
+                ],
+                "Karakalpak": [
+                    "qonaq bólme"
+                ],
+                "Tatar": [
+                    "кунак бүлмәсе",
+                    "кунакханә"
+                ],
+                "Bashkir": [
+                    "ҡунаҡ бүлмәһе",
+                    "ҡунаҡ бүлмә",
+                    "ҡунаҡхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mehmanxana"
+                ],
+                "Turkmen": [
+                    "myhmanhana",
+                    "myhman otagy"
+                ],
+                "Uzbek": [
+                    "mehmonxona",
+                    "mehmonsaroy"
+                ],
+                "Uyghur": [
+                    "مېھمانخانا",
+                    "مېھمان ياتىقى"
+                ],
+                "Kazakh": [
+                    "мейманхана"
+                ],
+                "Kyrgyz": [
+                    "мейманкана",
+                    "мейман бөлмө"
+                ],
+                "Karakalpak": [
+                    "miymanxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "misafir odası"
+                ]
+            }
+        }
+    ]
+}

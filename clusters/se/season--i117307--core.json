@@ -1,0 +1,127 @@
+{
+    "id": "i117307",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "season",
+    "en_definition": "one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions",
+    "tr_word": "mevsim",
+    "tr_definition": "Yılın, gün dönümü ve gece gündüz eşitliği noktalarıyla belirlenen dört bölümünden her biri.",
+    "ru_word": "сезон",
+    "ru_definition": "Одно из четырех времен года, характеризующееся определенными климатическими условиями.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fasıl"
+                ],
+                "Azerbaijani": [
+                    "fəsil"
+                ],
+                "Turkmen": [
+                    "pasyl"
+                ],
+                "Uzbek": [
+                    "fasl"
+                ],
+                "Uyghur": [
+                    "پەسىل"
+                ],
+                "Karakalpak": [
+                    "pásil"
+                ],
+                "Tatar": [
+                    "фасыл"
+                ],
+                "Bashkir": [
+                    "фасыл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mevsim"
+                ],
+                "Azerbaijani": [
+                    "mövsüm"
+                ],
+                "Turkmen": [
+                    "möwsüm"
+                ],
+                "Uzbek": [
+                    "mavsum"
+                ],
+                "Uyghur": [
+                    "مەۋسۇم"
+                ],
+                "Kazakh": [
+                    "маусым"
+                ],
+                "Karakalpak": [
+                    "máosim"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мезгіл"
+                ],
+                "Kyrgyz": [
+                    "мезгил"
+                ],
+                "Bashkir": [
+                    "миҙгел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "уақыт"
+                ],
+                "Kyrgyz": [
+                    "убак"
+                ],
+                "Tatar": [
+                    "вакыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "маал"
+                ],
+                "Tatar": [
+                    "мәл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dönem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "pásent"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ел фасылы"
+                ]
+            }
+        }
+    ]
+}

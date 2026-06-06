@@ -1,0 +1,96 @@
+# Bridgeport
+| Field | Detail |
+|---|---|
+| **ID** | i84278 |
+| **English** | bridgeport |
+| **Type** | noun |
+| **Definition** | a port in southwestern Connecticut on Long Island Sound |
+| **Source** | common |
+| **Ortatil** | bricport |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **bricport** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بىرىجپورت | birijport |
+| **Kazakh** | |
+| Бриджпорт | bricport |
+| **Kyrgyz** | |
+| Бриджпорт | bricport |
+| **Tatar** | |
+| Бриджпорт | bricport |
+| **Bashkir** | |
+| Бриджпорт | bricport |
+
+```json
+{
+    "id": "i84278",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bridgeport",
+    "en_definition": "a port in southwestern Connecticut on Long Island Sound",
+    "tr_word": "Bridgeport",
+    "tr_definition": "Connecticut'ın güneybatısında, Long Island Boğazı kıyısında yer alan bir liman kenti.",
+    "ru_word": "Бриджпорт",
+    "ru_definition": "Портовый город на юго-западе штата Коннектикут, расположенный на берегу пролива Лонг-Айленд.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Bridgeport"
+                ],
+                "Azerbaijani": [
+                    "Bricport"
+                ],
+                "Turkmen": [
+                    "Bridžport"
+                ],
+                "Uzbek": [
+                    "Bridgeport",
+                    "Brijport"
+                ],
+                "Uyghur": [
+                    "بىرىجپورت"
+                ],
+                "Kazakh": [
+                    "Бриджпорт"
+                ],
+                "Kyrgyz": [
+                    "Бриджпорт"
+                ],
+                "Karakalpak": [
+                    "Bridjport"
+                ],
+                "Tatar": [
+                    "Бриджпорт"
+                ],
+                "Bashkir": [
+                    "Бриджпорт"
+                ]
+            }
+        }
+    ]
+}
+```
+

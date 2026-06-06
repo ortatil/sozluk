@@ -1,0 +1,70 @@
+{
+    "id": "i56715",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oil painting",
+    "en_definition": "a picture painted with oil paints",
+    "tr_word": "yağlı boya tablo",
+    "tr_definition": "yağlı boya kullanılarak yapılmış resim",
+    "ru_word": "картина маслом",
+    "ru_definition": "картина, написанная масляными красками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağlı boya tablo",
+                    "yağlı boya resim"
+                ],
+                "Azerbaijani": [
+                    "yağlı boya rəsmi",
+                    "yağlı boya tablosu",
+                    "yağlı boya işi"
+                ],
+                "Turkmen": [
+                    "ýagly boýag suraty",
+                    "ýagly reňk suraty"
+                ],
+                "Uyghur": [
+                    "ياغلىق بوياق رەسىم"
+                ],
+                "Kazakh": [
+                    "майлы бояумен салынған сурет",
+                    "майлы бояу кескіндемесі",
+                    "майлы бояулы сурет"
+                ],
+                "Karakalpak": [
+                    "maylı boyaulı súret",
+                    "maylı boyau keskіndemesі"
+                ],
+                "Tatar": [
+                    "майлы буяу рәсеме",
+                    "майлы буяу белән ясалган рәсем",
+                    "майлы буяу сурәте"
+                ],
+                "Bashkir": [
+                    "майлы буяу менән төшөрөлгән һүрәт",
+                    "майлы һүрәт",
+                    "майлы буяу менән яҙылған картина"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "moyboʻyoq tasviri",
+                    "moyboʻyoq asari",
+                    "moyboʻyoq rangtasviri"
+                ],
+                "Uyghur": [
+                    "ماي بوياق رەسىم"
+                ],
+                "Kyrgyz": [
+                    "май боёк сүрөтү",
+                    "май боёк менен тартылган сүрөт"
+                ]
+            }
+        }
+    ]
+}

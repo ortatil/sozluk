@@ -1,0 +1,85 @@
+{
+    "id": "i115198",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "filter paper",
+    "en_definition": "a porous unsized paper used for filtering",
+    "tr_word": "süzgeç kağıdı",
+    "tr_definition": "Sıvıları katı maddelerden ayırmak için kullanılan gözenekli kağıt.",
+    "ru_word": "фильтровальная бумага",
+    "ru_definition": "Пористая бумага, используемая для очистки жидкостей от взвешенных частиц.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "süzgeç kağıdı"
+                ],
+                "Azerbaijani": [
+                    "süzgəc kağızı"
+                ],
+                "Turkmen": [
+                    "süzgüç kagyzy",
+                    "süzüji kagyz"
+                ],
+                "Uzbek": [
+                    "suzgi qog'ozi"
+                ],
+                "Uyghur": [
+                    "سۈزگۈچ قەغەز",
+                    "سۈزۈش قەغىزى"
+                ],
+                "Kazakh": [
+                    "сүзгі қағаз",
+                    "сүзгіш қағаз"
+                ],
+                "Kyrgyz": [
+                    "сүзгүч кагаз"
+                ],
+                "Karakalpak": [
+                    "súzgish qaǵaz",
+                    "súzgi qaǵaz"
+                ],
+                "Tatar": [
+                    "сөзгә кәгазе",
+                    "сөзү кәгазе"
+                ],
+                "Bashkir": [
+                    "һөҙгөс ҡағыҙы",
+                    "һөҙөү ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "filtre kağıdı"
+                ],
+                "Azerbaijani": [
+                    "filtir kağızı"
+                ],
+                "Uzbek": [
+                    "filtrlash qog'ozi"
+                ],
+                "Tatar": [
+                    "фильтрлау кәгазе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tozalash qog'ozi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чыпка кагаз"
+                ]
+            }
+        }
+    ]
+}

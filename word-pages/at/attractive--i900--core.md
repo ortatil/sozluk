@@ -1,0 +1,373 @@
+# Attractive
+| Field | Detail |
+|---|---|
+| **ID** | i900 |
+| **English** | attractive |
+| **Type** | adjective |
+| **Definition** | pleasing to the eye or mind especially through beauty or charm |
+| **Source** | core |
+| **Ortatil** | gözäl |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **gözäl** | **körkäm** | **tartışlıqmaq** | **acarlı** | **süykümdü** |
+|---|---|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ✅ | ✅ | ✅ |
+| Kyrgyz | ❌ | ✅ | ✅ | ✅ | ❌ |
+| Karakalpak | ❌ | ✅ | ✅ | ✅ | ❌ |
+| Tatar | ✅ | ✅ | ❌ | ❌ | ✅ |
+| Bashkir | ❌ | ✅ | ❌ | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0 | 0 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 0.50 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.80 | 0.60 | 0.60 | 0.60 |
+| *In All* | ✅ |  |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |  |
+| **O'TQ** | **2.87** | **1.80** | **1.10** | **0.60** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كۆركەم | körkäm |
+| گۈزەل | güzäl |
+| جەلپكار | jälpkar |
+| تارتىشلىق | tartişliq |
+| چىرايلىق | çirayliq |
+| **Kazakh** | |
+| тартымды | tartımdı |
+| ажарлы | ajarlı |
+| сүйкімді | süykimdi |
+| көрікті | körikti |
+| келбетті | kelbetti |
+| **Kyrgyz** | |
+| көркөм | körköm |
+| тартуучу | tartuuçu |
+| ажарлуу | ajarluu |
+| жагымдуу | jagımduu |
+| сулуу | suluu |
+| келишимдүү | kelişimdüü |
+| **Tatar** | |
+| күркәм | kürkäm |
+| гүзәл | güzäl |
+| сөйкемле | söykemle |
+| матур | matur |
+| ягымлы | yagımlı |
+| **Bashkir** | |
+| күркәм | kürkäm |
+| һөйкөмлө | höykömlö |
+| матур | matur |
+| сибәр | sibär |
+| йөҙлө | yözlö |
+
+```json
+{
+    "id": "i900",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "attractive",
+    "en_definition": "pleasing to the eye or mind especially through beauty or charm",
+    "tr_word": "çekici",
+    "tr_definition": "güzelliği veya cazibesiyle göze veya zihne hoş gelen",
+    "ru_word": "привлекательный",
+    "ru_definition": "приятный для глаз или ума, особенно благодаря красоте или обаянию",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻrkam"
+                ],
+                "Uyghur": [
+                    "كۆركەم"
+                ],
+                "Kyrgyz": [
+                    "көркөм"
+                ],
+                "Karakalpak": [
+                    "kórkem"
+                ],
+                "Tatar": [
+                    "күркәм"
+                ],
+                "Bashkir": [
+                    "күркәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gözəl"
+                ],
+                "Turkmen": [
+                    "gözel"
+                ],
+                "Uzbek": [
+                    "goʻzal"
+                ],
+                "Uyghur": [
+                    "گۈزەل"
+                ],
+                "Tatar": [
+                    "гүзәл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cəlbedici"
+                ],
+                "Uyghur": [
+                    "جەلپكار"
+                ],
+                "Tatar": [
+                    "җәлеп итүче"
+                ],
+                "Bashkir": [
+                    "йәлеп иткес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تارتىشلىق"
+                ],
+                "Kazakh": [
+                    "тартымды"
+                ],
+                "Kyrgyz": [
+                    "тартуучу"
+                ],
+                "Karakalpak": [
+                    "tartımlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ажарлы"
+                ],
+                "Kyrgyz": [
+                    "ажарлуу"
+                ],
+                "Karakalpak": [
+                    "ajarlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сүйкімді"
+                ],
+                "Tatar": [
+                    "сөйкемле"
+                ],
+                "Bashkir": [
+                    "һөйкөмлө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekici"
+                ],
+                "Turkmen": [
+                    "çekiji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cazibeli"
+                ],
+                "Uzbek": [
+                    "jozibali"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dilrüba"
+                ],
+                "Uzbek": [
+                    "dilrabo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چىرايلىق"
+                ],
+                "Karakalpak": [
+                    "shıraylı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "матур"
+                ],
+                "Bashkir": [
+                    "матур"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жагымдуу"
+                ],
+                "Tatar": [
+                    "ягымлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сулуу"
+                ],
+                "Karakalpak": [
+                    "sulıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gelşikli"
+                ],
+                "Kyrgyz": [
+                    "келишимдүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məftunedici"
+                ],
+                "Uzbek": [
+                    "maftunkor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "görkli"
+                ],
+                "Kazakh": [
+                    "көрікті"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hoş"
+                ],
+                "Azerbaijani": [
+                    "xoşagələn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dilber"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göz alıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көз тартарлық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yaraşıqlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alımlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "owadan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mähirli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "latofatli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "келбетті"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сибәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йөҙлө"
+                ]
+            }
+        }
+    ]
+}
+```
+

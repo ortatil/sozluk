@@ -1,0 +1,79 @@
+{
+    "id": "i78118",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "buckwheat",
+    "en_definition": "grain ground into flour",
+    "tr_word": "karabuğday",
+    "tr_definition": "Un haline getirilen bir tahıl türü",
+    "ru_word": "гречиха",
+    "ru_definition": "зерно, перемалываемое в муку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karabuğday"
+                ],
+                "Azerbaijani": [
+                    "qarabaşaq"
+                ],
+                "Turkmen": [
+                    "garabugdaý"
+                ],
+                "Uzbek": [
+                    "qora bugʻdoy"
+                ],
+                "Uyghur": [
+                    "قارامۇق",
+                    "قارا بۇغداي"
+                ],
+                "Kazakh": [
+                    "қарақұмық",
+                    "қарақұмық жармасы"
+                ],
+                "Kyrgyz": [
+                    "кара күрүч"
+                ],
+                "Karakalpak": [
+                    "qarabas",
+                    "qarabas biday"
+                ],
+                "Tatar": [
+                    "карабодай"
+                ],
+                "Bashkir": [
+                    "ҡарабойҙай",
+                    "ҡара тары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "greçka"
+                ],
+                "Azerbaijani": [
+                    "greçka"
+                ],
+                "Turkmen": [
+                    "greçka"
+                ],
+                "Uzbek": [
+                    "grechka"
+                ],
+                "Tatar": [
+                    "гречка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күрмөк"
+                ]
+            }
+        }
+    ]
+}

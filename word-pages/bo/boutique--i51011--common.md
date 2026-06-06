@@ -1,0 +1,211 @@
+# Boutique
+| Field | Detail |
+|---|---|
+| **ID** | i51011 |
+| **English** | boutique |
+| **Type** | noun |
+| **Definition** | a shop that sells women's clothes and jewelry |
+| **Source** | common |
+| **Ortatil** | ḍögän, mağaza |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍögän** | **mağaza** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 1 |
+| *Qarluq Subtotal* | 1 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 0.20 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **2.70** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| دۇكان | dukan |
+| **Kazakh** | |
+| дүкен | düken |
+| **Kyrgyz** | |
+| дүкөн | dükön |
+| **Tatar** | |
+| түкән | tükän |
+| мәхзән | mäxzän |
+| кибет | kibet |
+| **Bashkir** | |
+| төкән | tökän |
+| сауҙахана | sauzaxana |
+| кибет | kibet |
+
+```json
+{
+    "id": "i51011",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "boutique",
+    "en_definition": "a shop that sells women's clothes and jewelry",
+    "tr_word": "butik",
+    "tr_definition": "Kadın giysileri ve takıları satan küçük dükkân.",
+    "ru_word": "бутик",
+    "ru_definition": "Небольшой магазин модной одежды и аксессуаров.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dükkan"
+                ],
+                "Azerbaijani": [
+                    "dükan"
+                ],
+                "Turkmen": [
+                    "dükan"
+                ],
+                "Uzbek": [
+                    "do'kon"
+                ],
+                "Uyghur": [
+                    "دۇكان"
+                ],
+                "Kazakh": [
+                    "дүкен"
+                ],
+                "Kyrgyz": [
+                    "дүкөн"
+                ],
+                "Karakalpak": [
+                    "dúkyan"
+                ],
+                "Tatar": [
+                    "түкән"
+                ],
+                "Bashkir": [
+                    "төкән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "geyim evi"
+                ],
+                "Uzbek": [
+                    "kiyim-kechak do'koni"
+                ],
+                "Uyghur": [
+                    "كىيىم-كېچەك دۇكىنى"
+                ],
+                "Kazakh": [
+                    "киім дүкені"
+                ],
+                "Kyrgyz": [
+                    "кийим дүкөнү"
+                ],
+                "Karakalpak": [
+                    "kiyim dúkyanı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mağaza"
+                ],
+                "Azerbaijani": [
+                    "mağaza"
+                ],
+                "Turkmen": [
+                    "magaza"
+                ],
+                "Uzbek": [
+                    "magaza"
+                ],
+                "Tatar": [
+                    "мәхзән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "соода үйү"
+                ],
+                "Karakalpak": [
+                    "saoda úyі"
+                ],
+                "Bashkir": [
+                    "сауҙахана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "butik"
+                ],
+                "Azerbaijani": [
+                    "butik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кибет"
+                ],
+                "Bashkir": [
+                    "кибет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sergi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rastа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۈزەللىك دۇكىنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەپىس بۇيۇملار دۇكىنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сән үйі"
+                ]
+            }
+        }
+    ]
+}
+```
+

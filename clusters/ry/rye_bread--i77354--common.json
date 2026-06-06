@@ -1,0 +1,85 @@
+{
+    "id": "i77354",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rye bread",
+    "en_definition": "any of various breads made entirely or partly with rye flour",
+    "tr_word": "çavdar ekmeği",
+    "tr_definition": "Tamamen veya kısmen çavdar unundan yapılan her türlü ekmek",
+    "ru_word": "ржаной хлеб",
+    "ru_definition": "Любой вид хлеба, приготовленный полностью или частично из ржаной муки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara ekmek"
+                ],
+                "Azerbaijani": [
+                    "qara çörək"
+                ],
+                "Turkmen": [
+                    "gara çörek"
+                ],
+                "Uzbek": [
+                    "qora non"
+                ],
+                "Uyghur": [
+                    "قارا بۇغداي نېنى"
+                ],
+                "Kazakh": [
+                    "қара нан",
+                    "қара бидай наны"
+                ],
+                "Kyrgyz": [
+                    "кара нан",
+                    "арпа нан"
+                ],
+                "Karakalpak": [
+                    "qara biday nanı",
+                    "qara nan"
+                ],
+                "Tatar": [
+                    "кара икмәк"
+                ],
+                "Bashkir": [
+                    "ҡара икмәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çavdar ekmeği"
+                ],
+                "Azerbaijani": [
+                    "çovdar çörəyi"
+                ],
+                "Turkmen": [
+                    "çowdary çöregi"
+                ],
+                "Uzbek": [
+                    "javdar noni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "арыш икмәге"
+                ],
+                "Bashkir": [
+                    "арыш икмәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "буудай-арпа наны"
+                ]
+            }
+        }
+    ]
+}

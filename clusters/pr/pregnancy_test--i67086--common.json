@@ -1,0 +1,109 @@
+{
+    "id": "i67086",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pregnancy test",
+    "en_definition": "a physiological test to determine whether a woman is pregnant",
+    "tr_word": "gebelik testi",
+    "tr_definition": "bir kadının hamile olup olmadığını belirlemek için yapılan fizyolojik test",
+    "ru_word": "тест на беременность",
+    "ru_definition": "физиологический тест для определения того, беременна ли женщина",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hamilelik testi"
+                ],
+                "Azerbaijani": [
+                    "hamiləlik testi"
+                ],
+                "Uzbek": [
+                    "homiladorlik testi",
+                    "homiladorlikni aniqlash testi"
+                ],
+                "Uyghur": [
+                    "ھامىلىدارلىق تەكشۈرۈش",
+                    "ھامىلىدارلىق سىنىقى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "boylu-boylu testi"
+                ],
+                "Kazakh": [
+                    "бойында бар-жоғын анықтау сынағы"
+                ],
+                "Kyrgyz": [
+                    "бойдо бардыгын текшерүү",
+                    "боюнда бар-жогун билүү"
+                ],
+                "Karakalpak": [
+                    "boyında barlıqtı anıqlao testi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жүктілік тесті"
+                ],
+                "Karakalpak": [
+                    "júktilik testi"
+                ],
+                "Tatar": [
+                    "йөклелек тесты"
+                ],
+                "Bashkir": [
+                    "йөклөлөктө тикшереү",
+                    "йөклөлөк һынауы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gebelik testi"
+                ],
+                "Turkmen": [
+                    "göwrelilik testi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "авырлылык тесты"
+                ],
+                "Bashkir": [
+                    "ауырлылыҡты тикшереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "göwrelilik barlagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "екіқабаттық сынамасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кош бойлуулукту аныктоо"
+                ]
+            }
+        }
+    ]
+}

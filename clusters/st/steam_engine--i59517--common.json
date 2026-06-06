@@ -1,0 +1,82 @@
+{
+    "id": "i59517",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "steam engine",
+    "en_definition": "external-combustion engine in which heat is used to raise steam which either turns a turbine or forces a piston to move up and down in a cylinder",
+    "tr_word": "buharlı makine",
+    "tr_definition": "Isı enerjisini kullanarak suyu buhara dönüştüren ve bu buharın basıncıyla bir pistonu veya türbini hareket ettiren dıştan yanmalı motor.",
+    "ru_word": "паровой двигатель",
+    "ru_definition": "Тепловой двигатель внешнего сгорания, преобразующий энергию водяного пара в механическую работу поршня или турбины.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buharlı makine",
+                    "buhar makinesi",
+                    "buharlı motor"
+                ],
+                "Azerbaijani": [
+                    "buxar mühərriki",
+                    "buxar maşını"
+                ],
+                "Turkmen": [
+                    "bug maşyny",
+                    "bug dwigateli"
+                ],
+                "Uzbek": [
+                    "bugʻ dvigateli",
+                    "bugʻ mashinasi"
+                ],
+                "Uyghur": [
+                    "بۇغ ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "бу машинасы"
+                ],
+                "Kyrgyz": [
+                    "буу машинасы"
+                ],
+                "Karakalpak": [
+                    "buo mashinası",
+                    "buo dwigateli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پار ماشىنىسى"
+                ],
+                "Tatar": [
+                    "пар машинасы"
+                ],
+                "Bashkir": [
+                    "пар машинаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бу қозғалтқышы"
+                ],
+                "Kyrgyz": [
+                    "буу кыймылдаткычы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пар двигателе"
+                ],
+                "Bashkir": [
+                    "пар двигателе"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "id": "i38212",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "waltz",
+    "en_definition": "a ballroom dance in triple time with a strong accent on the first beat",
+    "tr_word": "vals",
+    "tr_definition": "Üç zamanlı, ilk vuruşu güçlü olan bir salon dansı.",
+    "ru_word": "вальс",
+    "ru_definition": "Бальный танец в трехдольном размере с сильным акцентом на первую долю.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vals",
+                    "dans"
+                ],
+                "Azerbaijani": [
+                    "vals"
+                ],
+                "Turkmen": [
+                    "wals",
+                    "tans"
+                ],
+                "Uzbek": [
+                    "vals"
+                ],
+                "Uyghur": [
+                    "ۋالىس"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "би"
+                ],
+                "Kyrgyz": [
+                    "бий",
+                    "бийлөө"
+                ],
+                "Karakalpak": [
+                    "biyi"
+                ],
+                "Tatar": [
+                    "бию"
+                ],
+                "Bashkir": [
+                    "бейеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "rəqs"
+                ],
+                "Uzbek": [
+                    "raqs"
+                ],
+                "Kazakh": [
+                    "ырғақты би"
+                ],
+                "Bashkir": [
+                    "раҡыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ۋالىس ئۇسسۇلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aynalma biy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәҗлес биюе"
+                ]
+            }
+        }
+    ]
+}

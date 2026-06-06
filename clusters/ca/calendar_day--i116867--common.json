@@ -1,0 +1,111 @@
+{
+    "id": "i116867",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "calendar day",
+    "en_definition": "a day reckoned from midnight to midnight",
+    "tr_word": "takvim günü",
+    "tr_definition": "gece yarısından bir sonraki gece yarısına kadar geçen yirmi dört saatlik süre",
+    "ru_word": "календарный день",
+    "ru_definition": "период времени от одной полночи до следующей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gün"
+                ],
+                "Azerbaijani": [
+                    "gün"
+                ],
+                "Turkmen": [
+                    "gün"
+                ],
+                "Uyghur": [
+                    "كۈن"
+                ],
+                "Kazakh": [
+                    "күн"
+                ],
+                "Kyrgyz": [
+                    "күн",
+                    "күн-түн"
+                ],
+                "Karakalpak": [
+                    "kún"
+                ],
+                "Tatar": [
+                    "көн"
+                ],
+                "Bashkir": [
+                    "көн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sutka"
+                ],
+                "Uzbek": [
+                    "sutka"
+                ],
+                "Uyghur": [
+                    "سوتكا"
+                ],
+                "Kyrgyz": [
+                    "сутка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тәулік"
+                ],
+                "Karakalpak": [
+                    "táulik"
+                ],
+                "Tatar": [
+                    "тәүлек"
+                ],
+                "Bashkir": [
+                    "тәүлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gije-gündiz"
+                ],
+                "Uzbek": [
+                    "kecha-kunduz"
+                ],
+                "Uyghur": [
+                    "كېچە-كۈندۈز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takvim günü"
+                ],
+                "Azerbaijani": [
+                    "təqvim günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kun"
+                ]
+            }
+        }
+    ]
+}

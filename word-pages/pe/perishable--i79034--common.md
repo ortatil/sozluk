@@ -1,0 +1,134 @@
+# Perishable
+| Field | Detail |
+|---|---|
+| **ID** | i79034 |
+| **English** | perishable |
+| **Type** | noun |
+| **Definition** | food that will decay rapidly if not refrigerated |
+| **Source** | common |
+| **Ortatil** | buzüluwçan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i79034",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "perishable",
+    "en_definition": "food that will decay rapidly if not refrigerated",
+    "tr_word": "çabuk bozulan gıda",
+    "tr_definition": "soğutulmadığı takdirde hızla bozulan yiyecek maddesi",
+    "ru_word": "скоропортящийся продукт",
+    "ru_definition": "пищевой продукт, который быстро портится без охлаждения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taze ürün"
+                ],
+                "Azerbaijani": [
+                    "tez xarab olan",
+                    "tez xarab olan ərzaq"
+                ],
+                "Uzbek": [
+                    "tez buziluvchi"
+                ],
+                "Uyghur": [
+                    "تېز بۇزۇلىدىغان يېمەكلىك"
+                ],
+                "Kazakh": [
+                    "тез бұзылатын тағам",
+                    "тез бұзылатын өнім"
+                ],
+                "Kyrgyz": [
+                    "тез бузулуучу азык",
+                    "тез бузулуучу тамак-аш"
+                ],
+                "Karakalpak": [
+                    "tez buzılatuǵın azıq-aoqat",
+                    "tez buzılatuǵın ónim"
+                ],
+                "Tatar": [
+                    "тиз бозыла торган ризык",
+                    "тиз бозылучы ашамлык"
+                ],
+                "Bashkir": [
+                    "тиҙ боҙолоусан аҙыҡ",
+                    "тиҙ боҙолоусан тауар",
+                    "тиҙ боҙолоусан нәмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "buziluvchan"
+                ],
+                "Uyghur": [
+                    "بۇزۇلۇشچان يېمەكلىك"
+                ],
+                "Kazakh": [
+                    "бұзылғыш зат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çabuk bozulan gıda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dayanıksız mal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dözümsüz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çalt zaýalanýan iýmit",
+                    "çalt zaýalanýan önüm",
+                    "çalt zaýalanýan haryt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'tkinchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چىرىيدىغان نەرسە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "saqlaoǵa shıdamsız zat"
+                ]
+            }
+        }
+    ]
+}
+```
+

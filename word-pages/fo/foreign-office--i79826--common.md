@@ -1,0 +1,94 @@
+# Foreign office
+| Field | Detail |
+|---|---|
+| **ID** | i79826 |
+| **English** | foreign office |
+| **Type** | noun |
+| **Definition** | the government department in charge of foreign relations |
+| **Source** | common |
+| **Ortatil** | haricigä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i79826",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "foreign office",
+    "en_definition": "the government department in charge of foreign relations",
+    "tr_word": "dışişleri bakanlığı",
+    "tr_definition": "bir devletin dış ilişkilerini yürütmekle görevli olan hükümet birimi",
+    "ru_word": "министерство иностранных дел",
+    "ru_definition": "государственный орган, ведающий отношениями с иностранными государствами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Dışişleri Bakanlığı"
+                ],
+                "Turkmen": [
+                    "daşary işler ministrligi",
+                    "daşary syýasat edarasy"
+                ],
+                "Uzbek": [
+                    "tashqi ishlar vazirligi",
+                    "tashqi ishlar mahkamasi",
+                    "tashqi ishlar idorasi"
+                ],
+                "Uyghur": [
+                    "تاشقى ئىشلار مىنىستىرلىقى",
+                    "تاشقى ئىشلار مەھكىمىسى"
+                ],
+                "Kyrgyz": [
+                    "тышкы иштер министрлиги",
+                    "тышкы саясат мекемеси"
+                ],
+                "Tatar": [
+                    "тышкы эшләр министрлыгы",
+                    "тышкы эшләр идарәсе"
+                ],
+                "Bashkir": [
+                    "тышҡы эштәр министрлығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Hariciye Nezareti",
+                    "Hariciye"
+                ],
+                "Azerbaijani": [
+                    "Xarici İşlər Nazirliyi",
+                    "Xariciyyə Nəzarəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сыртқы істер министрлігі",
+                    "сыртқы істер мекемесі",
+                    "сыртқы саясат ведомствосы"
+                ],
+                "Karakalpak": [
+                    "sırtqı isler ministrligi",
+                    "sırtqı siyasat mekemesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сит ил эштәре министрлығы"
+                ]
+            }
+        }
+    ]
+}
+```
+

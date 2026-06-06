@@ -1,0 +1,108 @@
+{
+    "id": "i11286",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "secular",
+    "en_definition": "not concerned with or devoted to religion",
+    "tr_word": "seküler",
+    "tr_definition": "dinle ilgili olmayan veya dini temellere dayanmayan",
+    "ru_word": "светский",
+    "ru_definition": "не связанный с религией или церковью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dünyevi"
+                ],
+                "Azerbaijani": [
+                    "dünyəvi"
+                ],
+                "Turkmen": [
+                    "dünýewi"
+                ],
+                "Uzbek": [
+                    "dunyoviy"
+                ],
+                "Uyghur": [
+                    "دۇنيەۋى"
+                ],
+                "Kazakh": [
+                    "дүниеуи"
+                ],
+                "Kyrgyz": [
+                    "дүйнөвий"
+                ],
+                "Karakalpak": [
+                    "dúnyalıq",
+                    "dúnyaoiy"
+                ],
+                "Tatar": [
+                    "дөньяви"
+                ],
+                "Bashkir": [
+                    "донъяуи",
+                    "донъялыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "laik",
+                    "ladini"
+                ],
+                "Azerbaijani": [
+                    "ladini"
+                ],
+                "Uzbek": [
+                    "loyiq"
+                ],
+                "Uyghur": [
+                    "لايىك"
+                ],
+                "Kazakh": [
+                    "лаиық"
+                ],
+                "Kyrgyz": [
+                    "лайык"
+                ],
+                "Karakalpak": [
+                    "laik"
+                ],
+                "Tatar": [
+                    "лаик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "laýyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'ayridiniy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зайырлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дүйнөлүк"
+                ]
+            }
+        }
+    ]
+}

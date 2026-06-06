@@ -1,0 +1,153 @@
+{
+    "id": "i1982",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "symptomatic",
+    "en_definition": "characteristic or indicative of a disease",
+    "tr_word": "semptomatik",
+    "tr_definition": "bir hastalığın belirtisi olan veya bir hastalığı işaret eden",
+    "ru_word": "симптоматический",
+    "ru_definition": "характерный для заболевания или указывающий на его наличие",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "belirtili"
+                ],
+                "Turkmen": [
+                    "belgili"
+                ],
+                "Uzbek": [
+                    "belgili"
+                ],
+                "Uyghur": [
+                    "بەلگىلىك"
+                ],
+                "Kazakh": [
+                    "белгілі"
+                ],
+                "Kyrgyz": [
+                    "белгилүү",
+                    "белги берүүчү"
+                ],
+                "Karakalpak": [
+                    "belgili"
+                ],
+                "Tatar": [
+                    "билгеле"
+                ],
+                "Bashkir": [
+                    "билдәле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alametli"
+                ],
+                "Azerbaijani": [
+                    "əlamətdar"
+                ],
+                "Turkmen": [
+                    "alamatly"
+                ],
+                "Uzbek": [
+                    "alomatli"
+                ],
+                "Uyghur": [
+                    "ئالامەتلىك"
+                ],
+                "Karakalpak": [
+                    "alamátli"
+                ],
+                "Tatar": [
+                    "аламәтле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nişanəli"
+                ],
+                "Turkmen": [
+                    "nyşanly"
+                ],
+                "Uzbek": [
+                    "nishonali"
+                ],
+                "Kazakh": [
+                    "нышанды"
+                ],
+                "Karakalpak": [
+                    "nıshanlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göstergeli"
+                ],
+                "Azerbaijani": [
+                    "göstərici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىپادىلىك"
+                ],
+                "Bashkir": [
+                    "ишаралы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айғақты"
+                ],
+                "Kyrgyz": [
+                    "аян берүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күрсәткечле"
+                ],
+                "Bashkir": [
+                    "күрһәткес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xarakterik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мүнөздүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хас"
+                ]
+            }
+        }
+    ]
+}

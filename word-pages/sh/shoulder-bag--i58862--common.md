@@ -1,0 +1,161 @@
+# Shoulder bag
+| Field | Detail |
+|---|---|
+| **ID** | i58862 |
+| **English** | shoulder bag |
+| **Type** | noun |
+| **Definition** | a large handbag that can be carried by a strap looped over the shoulder |
+| **Source** | common |
+| **Ortatil** | çantacık |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| дорба | dorba |
+| **Kyrgyz** | |
+| куржун | kurjun |
+
+```json
+{
+    "id": "i58862",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shoulder bag",
+    "en_definition": "a large handbag that can be carried by a strap looped over the shoulder",
+    "tr_word": "omuz çantası",
+    "tr_definition": "omuz üzerinden geçirilen bir askı yardımıyla taşınan büyük el çantası",
+    "ru_word": "сумка через плечо",
+    "ru_definition": "большая сумка, которую носят на ремне, перекинутом через плечо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "omuz çantası",
+                    "askılı çanta"
+                ],
+                "Azerbaijani": [
+                    "asqılı çanta"
+                ],
+                "Tatar": [
+                    "асылмалы сумка"
+                ],
+                "Bashkir": [
+                    "аҫмаҡлы сумка",
+                    "аҫмаҡлы ҡапсыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çiyin çantası"
+                ],
+                "Turkmen": [
+                    "egin torbasy",
+                    "egin haltasy"
+                ],
+                "Kyrgyz": [
+                    "ийин баштык"
+                ],
+                "Karakalpak": [
+                    "iyin sumka",
+                    "iyin qalta",
+                    "iyin dorba"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yan çanta"
+                ],
+                "Turkmen": [
+                    "çantajyk"
+                ],
+                "Uzbek": [
+                    "yon xalta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yelka xalta",
+                    "yelka sumka"
+                ],
+                "Tatar": [
+                    "җилкә сумкасы",
+                    "җилкә капчыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "heybe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۈرە سومكىسى",
+                    "مۈرە خالتىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاسما سومكا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "иық сөмке",
+                    "иық қап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дорба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "асынып жүрүүчү баштык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "куржун"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "иңбаш сумкаһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

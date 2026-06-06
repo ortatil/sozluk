@@ -1,0 +1,82 @@
+# Thirteenth
+| Field | Detail |
+|---|---|
+| **ID** | i12152 |
+| **English** | thirteenth |
+| **Type** | adjective |
+| **Definition** | coming next after the twelfth in position |
+| **Source** | common |
+| **Ortatil** | unöççä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| унөченче | unöçençe |
+| **Bashkir** | |
+| унынсы | unınsı |
+
+```json
+{
+    "id": "i12152",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "thirteenth",
+    "en_definition": "coming next after the twelfth in position",
+    "tr_word": "on üçüncü",
+    "tr_definition": "on ikinciden hemen sonra gelen",
+    "ru_word": "тринадцатый",
+    "ru_definition": "следующий сразу после двенадцатого",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "on üçüncü"
+                ],
+                "Azerbaijani": [
+                    "on üçüncü"
+                ],
+                "Turkmen": [
+                    "on üçünji"
+                ],
+                "Uzbek": [
+                    "o'n uchinchi",
+                    "o'n uchlamchi"
+                ],
+                "Uyghur": [
+                    "ئون ئۈچىنچى"
+                ],
+                "Kazakh": [
+                    "он үшінші"
+                ],
+                "Kyrgyz": [
+                    "он үчүнчү"
+                ],
+                "Karakalpak": [
+                    "on úshinshi",
+                    "on úshinshisi"
+                ],
+                "Tatar": [
+                    "унөченче"
+                ],
+                "Bashkir": [
+                    "унынсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ун өсөнсө"
+                ]
+            }
+        }
+    ]
+}
+```
+

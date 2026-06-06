@@ -1,0 +1,141 @@
+# Standing army
+| Field | Detail |
+|---|---|
+| **ID** | i81213 |
+| **English** | standing army |
+| **Type** | noun |
+| **Definition** | a permanent army of paid soldiers |
+| **Source** | common |
+| **Ortatil** | qoşunsan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i81213",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "standing army",
+    "en_definition": "a permanent army of paid soldiers",
+    "tr_word": "muvazzaf ordu",
+    "tr_definition": "Barış zamanında da silah altında bulunan, her an savaşa hazır profesyonel askerlerden oluşan ordu.",
+    "ru_word": "регулярная армия",
+    "ru_definition": "Постоянная армия, имеющая штатную организацию, установленный порядок прохождения службы и обучения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "daimi ordu"
+                ],
+                "Azerbaijani": [
+                    "nizami ordu",
+                    "daimi ordu"
+                ],
+                "Uzbek": [
+                    "doimiy qoʻshin",
+                    "doimiy laskar"
+                ],
+                "Uyghur": [
+                    "دائىمىي قوشۇن",
+                    "دائىمىي ئارمىيە"
+                ],
+                "Tatar": [
+                    "даими гаскәр",
+                    "даими армия"
+                ],
+                "Bashkir": [
+                    "даими ғәскәр",
+                    "даими армия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۇرغۇن قوشۇن"
+                ],
+                "Kazakh": [
+                    "тұрақты әскер",
+                    "тұрақты қол",
+                    "тұрақты лашкер"
+                ],
+                "Kyrgyz": [
+                    "туруктуу аскер",
+                    "туруктуу кошуун"
+                ],
+                "Karakalpak": [
+                    "turaqtı armiya",
+                    "turaqtı ásker"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nizamî ordu"
+                ],
+                "Turkmen": [
+                    "nizamy goşun"
+                ],
+                "Tatar": [
+                    "низамлы гаскәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muvazzaf ordu"
+                ],
+                "Uzbek": [
+                    "muntazam armiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daýymy goşun"
+                ],
+                "Kyrgyz": [
+                    "дайымкы аскер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hemişelik goşun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tártipli ásker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төп ғәскәр"
+                ]
+            }
+        }
+    ]
+}
+```
+

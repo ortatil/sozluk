@@ -1,0 +1,115 @@
+{
+    "id": "i70687",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "loan application",
+    "en_definition": "an application to borrow money",
+    "tr_word": "kredi başvurusu",
+    "tr_definition": "borç para almak için yapılan resmi başvuru",
+    "ru_word": "заявка на кредит",
+    "ru_definition": "официальное обращение за получением денежного займа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "karz arzasy",
+                    "karz ýüzlenmesi",
+                    "karz soragnamasy"
+                ],
+                "Uzbek": [
+                    "qarz so'rovi",
+                    "qarz arizasi"
+                ],
+                "Uyghur": [
+                    "قەرز ئىلتىماسى",
+                    "قەرز بېرىش ئىلتىماسى"
+                ],
+                "Kazakh": [
+                    "қарыз өтініші",
+                    "қарыз сұранымы"
+                ],
+                "Kyrgyz": [
+                    "карыз сурамы"
+                ],
+                "Karakalpak": [
+                    "qarız arzası"
+                ],
+                "Tatar": [
+                    "карыз гаризасы"
+                ],
+                "Bashkir": [
+                    "ҡарыз ғаризаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "borç talebi"
+                ],
+                "Azerbaijani": [
+                    "borc müraciəti",
+                    "borc istəyi"
+                ],
+                "Tatar": [
+                    "бурыч соравы",
+                    "бурыч алу гаризасы"
+                ],
+                "Bashkir": [
+                    "бурыс һорамы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "несие өтініші",
+                    "несие сұранымы"
+                ],
+                "Kyrgyz": [
+                    "насыя сурамы",
+                    "насыя арызы"
+                ],
+                "Karakalpak": [
+                    "nesie soranısı",
+                    "nesie ótinishi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kredi başvurusu"
+                ],
+                "Azerbaijani": [
+                    "kredit müraciəti",
+                    "kredit ərizəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istikraz talebi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mablag' so'rovi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үтес һорамы"
+                ]
+            }
+        }
+    ]
+}

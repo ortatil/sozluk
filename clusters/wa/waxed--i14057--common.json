@@ -1,0 +1,75 @@
+{
+    "id": "i14057",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "waxed",
+    "en_definition": "treated with wax",
+    "tr_word": "cilalanmış",
+    "tr_definition": "balmumu veya cila ile kaplanmış veya işlenmiş",
+    "ru_word": "вощёный",
+    "ru_definition": "покрытый или обработанный воском",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mumlu",
+                    "mumlanmış"
+                ],
+                "Azerbaijani": [
+                    "mumlanmış",
+                    "mumlanmısh",
+                    "mumlu"
+                ],
+                "Turkmen": [
+                    "mumlanan",
+                    "mumly"
+                ],
+                "Uzbek": [
+                    "mum surtilgan",
+                    "mumlangan",
+                    "mumli"
+                ],
+                "Uyghur": [
+                    "موملانغان",
+                    "موم سۈرتۈلگەن"
+                ],
+                "Kyrgyz": [
+                    "момдолгон",
+                    "мом сүйкөлгөн",
+                    "мом менен иштетилген"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "балауыздалған",
+                    "балауыз жағылған",
+                    "балауызды"
+                ],
+                "Karakalpak": [
+                    "balauızlanǵan",
+                    "balauız jaǵılǵan",
+                    "balauızlı"
+                ],
+                "Tatar": [
+                    "балавызланган",
+                    "балавызлы"
+                ],
+                "Bashkir": [
+                    "балауыҙланған",
+                    "балауыҙлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cilalı"
+                ]
+            }
+        }
+    ]
+}

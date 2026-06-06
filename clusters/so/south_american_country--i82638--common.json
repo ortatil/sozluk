@@ -1,0 +1,82 @@
+{
+    "id": "i82638",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "south american country",
+    "en_definition": "any one of the countries occupying the South American continent",
+    "tr_word": "Güney Amerika ülkesi",
+    "tr_definition": "Güney Amerika kıtasında yer alan ülkelerden herhangi biri",
+    "ru_word": "южноамериканская страна",
+    "ru_definition": "любая из стран, расположенных на южноамериканском континенте",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Cənubi Amerika ölkəsi",
+                    "Cənubi Amerika dövləti"
+                ],
+                "Uzbek": [
+                    "Janubiy Amerika davlati",
+                    "Janubiy Amerika mamlakati"
+                ],
+                "Uyghur": [
+                    "جەنۇبىي ئامېرىكا دۆلىتى",
+                    "جەنۇبىي ئامېرىكىدىكى دۆلەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Güney Amerika ülkesi",
+                    "Güney Amerika devleti"
+                ],
+                "Turkmen": [
+                    "Günorta Amerika ýurdy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Günorta Amerika döwleti"
+                ],
+                "Kazakh": [
+                    "Оңтүстік Америка елі",
+                    "Оңтүстік Америка мемлекеті"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Түштүк Америка өлкөсү",
+                    "Түштүк Америка мамлекети"
+                ],
+                "Bashkir": [
+                    "Көньяҡ Америка дәүләте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Көньяк Америка иле",
+                    "Көньяк Америка дәүләте"
+                ],
+                "Bashkir": [
+                    "Көньяҡ Америка иле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Qubla Amerika mámleketi",
+                    "Qubla Amerika eli"
+                ]
+            }
+        }
+    ]
+}

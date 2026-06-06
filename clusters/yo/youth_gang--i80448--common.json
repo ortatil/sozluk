@@ -1,0 +1,112 @@
+{
+    "id": "i80448",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "youth gang",
+    "en_definition": "a gang whose members are teenagers",
+    "tr_word": "gençlik çetesi",
+    "tr_definition": "üyeleri gençlerden oluşan çete",
+    "ru_word": "молодежная банда",
+    "ru_definition": "банда, членами которой являются подростки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýaşlar topary",
+                    "ýaşlar dästesi"
+                ],
+                "Uzbek": [
+                    "yoshlar toʻdasi"
+                ],
+                "Uyghur": [
+                    "ياشلار شايكىسى",
+                    "ياشلار گۇرۇھى",
+                    "ياشلار شايكا-گۇرۇھى"
+                ],
+                "Kazakh": [
+                    "жастар тобы",
+                    "жасөспірімдер тобы"
+                ],
+                "Kyrgyz": [
+                    "жаштар тобу",
+                    "жаштар уюму"
+                ],
+                "Karakalpak": [
+                    "jaslar toparı",
+                    "jaslar birlespesi",
+                    "jaslar dástesi"
+                ],
+                "Tatar": [
+                    "яшьләр төркеме",
+                    "яшьләр берләшмәсе",
+                    "яшьләр оешмасы"
+                ],
+                "Bashkir": [
+                    "йәштәр төркөмө",
+                    "йәштәр бандаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gençlik çetesi",
+                    "genç çetesi"
+                ],
+                "Azerbaijani": [
+                    "gənclər dəstəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qoçu dəstəsi"
+                ],
+                "Kyrgyz": [
+                    "көчө тобу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻspirinlar toʻdasi",
+                    "oʻspirinlar guruhi"
+                ],
+                "Bashkir": [
+                    "үҫмерҙәр төркөмө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sokak çetesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yeniyetmə dəstəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "juwanlar topary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұзақылар тобы"
+                ]
+            }
+        }
+    ]
+}

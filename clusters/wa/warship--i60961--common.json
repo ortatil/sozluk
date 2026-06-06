@@ -1,0 +1,122 @@
+{
+    "id": "i60961",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "warship",
+    "en_definition": "a government ship that is available for waging war",
+    "tr_word": "savaş gemisi",
+    "tr_definition": "Savaşmak amacıyla inşa edilmiş ve donatılmış askeri gemi.",
+    "ru_word": "военный корабль",
+    "ru_definition": "Судно, предназначенное для ведения боевых действий и принадлежащее вооруженным силам государства.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harp gemisi"
+                ],
+                "Azerbaijani": [
+                    "hərb gəmisi"
+                ],
+                "Turkmen": [
+                    "harby gämi"
+                ],
+                "Uzbek": [
+                    "harbiy kema"
+                ],
+                "Uyghur": [
+                    "ھەربىي كېمە"
+                ],
+                "Karakalpak": [
+                    "hárbiy keme"
+                ],
+                "Tatar": [
+                    "хәрби көймә",
+                    "хәрби корабль"
+                ],
+                "Bashkir": [
+                    "хәрби карап",
+                    "хәрби кәмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "savaş gemisi"
+                ],
+                "Turkmen": [
+                    "söweş gämisi"
+                ],
+                "Kazakh": [
+                    "соғыс кемесі"
+                ],
+                "Kyrgyz": [
+                    "согуштук кеме"
+                ],
+                "Tatar": [
+                    "сугыш көймәсе"
+                ],
+                "Bashkir": [
+                    "һуғыш карабы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jangovar kema"
+                ],
+                "Uyghur": [
+                    "جەڭ كېمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әскери кеме"
+                ],
+                "Kyrgyz": [
+                    "аскердик кеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "donanma gemisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "döyüş gəmisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zirehli gəmi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жауынгерлік кеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "urıs kemesi"
+                ]
+            }
+        }
+    ]
+}

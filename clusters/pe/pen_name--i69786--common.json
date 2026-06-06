@@ -1,0 +1,128 @@
+{
+    "id": "i69786",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pen name",
+    "en_definition": "an author's pseudonym",
+    "tr_word": "takma ad",
+    "tr_definition": "Bir yazarın eserlerinde kendi gerçek adı yerine kullandığı uydurma isim.",
+    "ru_word": "псевдоним",
+    "ru_definition": "Вымышленное имя, используемое автором вместо своего настоящего имени.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "takma ad"
+                ],
+                "Azerbaijani": [
+                    "təxəllüs"
+                ],
+                "Turkmen": [
+                    "tahallus"
+                ],
+                "Uzbek": [
+                    "taxallus"
+                ],
+                "Uyghur": [
+                    "تەخەللۇس"
+                ],
+                "Karakalpak": [
+                    "táxállus"
+                ],
+                "Tatar": [
+                    "тәхәллүс"
+                ],
+                "Bashkir": [
+                    "тәхәллүс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ləqəb"
+                ],
+                "Turkmen": [
+                    "lakam"
+                ],
+                "Uzbek": [
+                    "laqab"
+                ],
+                "Kazakh": [
+                    "лақап ат"
+                ],
+                "Kyrgyz": [
+                    "лакап ат"
+                ],
+                "Karakalpak": [
+                    "laqap"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müstear ad"
+                ],
+                "Azerbaijani": [
+                    "müstəar ad"
+                ],
+                "Uyghur": [
+                    "مەستۇر نام"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "edebi lakam"
+                ],
+                "Uyghur": [
+                    "ئەدەبىي ئىسىم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жашырын ат"
+                ],
+                "Tatar": [
+                    "яшерен исем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mahlas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бүркеншік есім",
+                    "бүркеншік ат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каймана ат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яһалма исем"
+                ]
+            }
+        }
+    ]
+}

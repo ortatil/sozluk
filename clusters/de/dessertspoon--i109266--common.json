@@ -1,0 +1,103 @@
+{
+    "id": "i109266",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dessertspoon",
+    "en_definition": "as much as a dessert spoon will hold",
+    "tr_word": "tatlı kaşığı dolusu",
+    "tr_definition": "bir tatlı kaşığının alabileceği miktar",
+    "ru_word": "десертная ложка",
+    "ru_definition": "количество, которое может вместить одна десертная ложка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orta boy kaşık"
+                ],
+                "Azerbaijani": [
+                    "orta qaşıq"
+                ],
+                "Turkmen": [
+                    "orta çemçe"
+                ],
+                "Uzbek": [
+                    "o'rta qoshiq"
+                ],
+                "Kazakh": [
+                    "орта қасық"
+                ],
+                "Kyrgyz": [
+                    "орто кашык"
+                ],
+                "Karakalpak": [
+                    "ortasha qasıq"
+                ],
+                "Bashkir": [
+                    "урта ҡалаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "desert çemçesi"
+                ],
+                "Kazakh": [
+                    "десерт қасық"
+                ],
+                "Kyrgyz": [
+                    "десерт кашык"
+                ],
+                "Karakalpak": [
+                    "desert qasıq"
+                ],
+                "Tatar": [
+                    "десерт кашыгы"
+                ],
+                "Bashkir": [
+                    "десерт ҡалағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tatlı kaşığı"
+                ],
+                "Uyghur": [
+                    "تاتلىق تۈرۈم قوشۇقى"
+                ],
+                "Tatar": [
+                    "татлы кашыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şirniyyat qaşığı"
+                ],
+                "Uzbek": [
+                    "shirinlik qoshig'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كىچىك قوشۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәм-том ҡалағы"
+                ]
+            }
+        }
+    ]
+}

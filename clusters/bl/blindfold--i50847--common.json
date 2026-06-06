@@ -1,0 +1,86 @@
+{
+    "id": "i50847",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blindfold",
+    "en_definition": "a cloth used to cover the eyes",
+    "tr_word": "göz bağı",
+    "tr_definition": "gözleri kapatmak için kullanılan bez",
+    "ru_word": "повязка на глаза",
+    "ru_definition": "кусок ткани, используемый для закрытия глаз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz bağı"
+                ],
+                "Azerbaijani": [
+                    "gözbağı",
+                    "göz sarğısı"
+                ],
+                "Turkmen": [
+                    "gözdaňy",
+                    "gözbagy"
+                ],
+                "Uzbek": [
+                    "koʻzboylagʻich",
+                    "koʻzboylagʻ",
+                    "koʻz bogʻlagʻich"
+                ],
+                "Uyghur": [
+                    "كۆز باغلىغۇچ",
+                    "كۆز تېڭىقى",
+                    "كۆزباغلىغۇ"
+                ],
+                "Kazakh": [
+                    "көзбайлауыш",
+                    "көзтаңғыш"
+                ],
+                "Kyrgyz": [
+                    "көз таңгыч",
+                    "көз байлагыч"
+                ],
+                "Karakalpak": [
+                    "kóz baylaǵısh",
+                    "kóz tańǵısh"
+                ],
+                "Tatar": [
+                    "күз бәйләвече",
+                    "күз бәйләме"
+                ],
+                "Bashkir": [
+                    "күҙ бәйләме",
+                    "күҙ бәйләгес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daňy"
+                ],
+                "Kazakh": [
+                    "таңғыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәйләвеч"
+                ],
+                "Bashkir": [
+                    "бәйләмес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göz sargısı"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+# Auction house
+| Field | Detail |
+|---|---|
+| **ID** | i79665 |
+| **English** | auction house |
+| **Type** | noun |
+| **Definition** | a firm that conducts auctions |
+| **Source** | common |
+| **Ortatil** | müzadiyahana |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مۇزادىيەخانا | muzadiyäxana |
+| ھەراجخانا | härajxana |
+
+```json
+{
+    "id": "i79665",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "auction house",
+    "en_definition": "a firm that conducts auctions",
+    "tr_word": "müzayede evi",
+    "tr_definition": "açık artırma yoluyla satış yapan kuruluş",
+    "ru_word": "аукционный дом",
+    "ru_definition": "компания, занимающаяся организацией и проведением аукционов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "auksion öýi"
+                ],
+                "Uzbek": [
+                    "auksion uyi"
+                ],
+                "Kazakh": [
+                    "аукцион үйі"
+                ],
+                "Kyrgyz": [
+                    "аукцион үйү"
+                ],
+                "Karakalpak": [
+                    "aukcion úyi"
+                ],
+                "Tatar": [
+                    "аукцион йорты"
+                ],
+                "Bashkir": [
+                    "аукцион йорто",
+                    "аукцион үҙәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "satuw öýi"
+                ],
+                "Kyrgyz": [
+                    "сатык үйү"
+                ],
+                "Tatar": [
+                    "сату йорты"
+                ],
+                "Bashkir": [
+                    "һатыу йорто"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müzayede evi",
+                    "mezat salonu",
+                    "müzayede kuruluşu",
+                    "mezat yeri"
+                ],
+                "Azerbaijani": [
+                    "müzakirə evi"
+                ],
+                "Uyghur": [
+                    "مۇزادىيەخانا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bäsleşikli söwda edarasy"
+                ],
+                "Kazakh": [
+                    "бәсекелес сауда үйі",
+                    "сауда-саттық мекемесі"
+                ],
+                "Karakalpak": [
+                    "bás sauda úyi",
+                    "bás sauda mekemesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hərrac evi",
+                    "hərrac müəssisəsi"
+                ],
+                "Uyghur": [
+                    "ھەراجخانا",
+                    "ھەراج شىركىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "savdo uyi",
+                    "kimoshdi savdo uyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muloqot uyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоорук үйү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ачык сату йорты"
+                ]
+            }
+        }
+    ]
+}
+```
+

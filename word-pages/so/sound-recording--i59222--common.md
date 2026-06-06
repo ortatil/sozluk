@@ -1,0 +1,126 @@
+# Sound recording
+| Field | Detail |
+|---|---|
+| **ID** | i59222 |
+| **English** | sound recording |
+| **Type** | noun |
+| **Definition** | a recording of acoustic signals |
+| **Source** | common |
+| **Ortatil** | üncäzbä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| үнжазба | ünjazba |
+
+```json
+{
+    "id": "i59222",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sound recording",
+    "en_definition": "a recording of acoustic signals",
+    "tr_word": "ses kaydı",
+    "tr_definition": "akustik sinyallerin kaydedilmesi",
+    "ru_word": "звукозапись",
+    "ru_definition": "запись акустических сигналов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tovush yozuvi"
+                ],
+                "Kazakh": [
+                    "дыбыс жазбасы"
+                ],
+                "Karakalpak": [
+                    "daoıs jazıo"
+                ],
+                "Tatar": [
+                    "тавыш язмасы"
+                ],
+                "Bashkir": [
+                    "тауыш яҙмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئۈن خاتىرىسى"
+                ],
+                "Kazakh": [
+                    "үнжазба"
+                ],
+                "Kyrgyz": [
+                    "үн жазуу",
+                    "үн жазма"
+                ],
+                "Karakalpak": [
+                    "ún jazıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ses kaydı"
+                ],
+                "Azerbaijani": [
+                    "səs yazısı",
+                    "səs qeydi"
+                ],
+                "Turkmen": [
+                    "ses ýazgysy",
+                    "ses ýazgy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovoz yozuvi"
+                ],
+                "Uyghur": [
+                    "ئاۋاز خاتىرىسى",
+                    "ئاۋاز ئېلىش"
+                ],
+                "Tatar": [
+                    "аваз язмасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "savt kaydı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sado yozuvi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өндәр яҙмаһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

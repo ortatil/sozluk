@@ -1,0 +1,130 @@
+# Hiccup nut
+| Field | Detail |
+|---|---|
+| **ID** | i101797 |
+| **English** | hiccup nut |
+| **Type** | noun |
+| **Definition** | ornamental African shrub or climber with red flowers |
+| **Source** | common |
+| **Ortatil** | kombretum |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| комбретум | kombretum |
+
+```json
+{
+    "id": "i101797",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hiccup nut",
+    "en_definition": "ornamental African shrub or climber with red flowers",
+    "tr_word": "hıçkırık fındığı",
+    "tr_definition": "Kırmızı çiçekli, süs bitkisi olarak yetiştirilen Afrika kökenli bir çalı veya tırmanıcı bitki.",
+    "ru_word": "икотный орех",
+    "ru_definition": "Декоративный африканский кустарник или лиана с красными цветами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qizil gulli buta"
+                ],
+                "Uyghur": [
+                    "قىزىل گۈللۈك ياماشقۇچى چاتقال",
+                    "قىزىل گۈللۈك زىننەت چاتقىلى"
+                ],
+                "Kazakh": [
+                    "қызыл гүлді шырмауық",
+                    "қызыл гүлді бұта"
+                ],
+                "Kyrgyz": [
+                    "кызыл гүлдүү бадал"
+                ],
+                "Karakalpak": [
+                    "qızıl gúlli shırmauıq",
+                    "qızıl gúlli bұta"
+                ],
+                "Tatar": [
+                    "кызыл чәчәкле үрмәле куак"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл сәскәле ҡыуаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bezek ösümligi"
+                ],
+                "Uzbek": [
+                    "pechakgul"
+                ],
+                "Tatar": [
+                    "бизәк куагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hıçkırık sarmaşığı"
+                ],
+                "Azerbaijani": [
+                    "hıçqırıq fındığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırmızı çiçekli Afrika sarmaşığı"
+                ],
+                "Turkmen": [
+                    "gyrmyzy gül"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kombretum"
+                ],
+                "Bashkir": [
+                    "комбретум"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hikkulak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chirmashuvchi buta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кооз бадал"
+                ]
+            }
+        }
+    ]
+}
+```
+

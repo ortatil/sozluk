@@ -1,0 +1,229 @@
+# Mystify
+| Field | Detail |
+|---|---|
+| **ID** | i24309 |
+| **English** | mystify |
+| **Type** | verb |
+| **Definition** | make mysterious |
+| **Source** | common |
+| **Ortatil** | sirliqläştirmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sirliqläştirmäk** | **gacäpländirmäk** | **mücümallaştır** |
+|---|---|---|---|
+| Turkish | ❌ | ✅ | ✅ |
+| Azerbaijani | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ❌ | ✅ |
+| Uzbek | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ |
+| Kazakh | ❌ | ❌ | ❌ |
+| Kyrgyz | ❌ | ❌ | ❌ |
+| Karakalpak | ❌ | ❌ | ❌ |
+| Tatar | ✅ | ✅ | ❌ |
+| Bashkir | ❌ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.67 | 0.67 |
+| *Qarluq Subtotal* | 0.50 | 0 | 0.50 |
+| *Qipchaq Subtotal* | 0.20 | 0.20 | 0 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |
+| **O'TQ** | **2.03** | **1.37** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سىرلىقلاشتۇرماق | sirliqlaşturmaq |
+| مۇجىمەللەشتۈرمەك | mujimälläştürmäk |
+| **Kazakh** | |
+| құпияландыру | qupiyalandıru |
+| жұмбақтау | jumbaqtau |
+| **Tatar** | |
+| серләштерү | serläşterü |
+| гаҗәпләндерү | gajäpländerü |
+| **Bashkir** | |
+| йәшереү | yäşereü |
+| аңлайышһыҙландырыу | añlayışhızlandırıu |
+
+```json
+{
+    "id": "i24309",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "mystify",
+    "en_definition": "make mysterious",
+    "tr_word": "şaşırtmak",
+    "tr_definition": "birinin aklını karıştırmak, gizemli bir durum yaratarak hayretler içinde bırakmak",
+    "ru_word": "озадачивать",
+    "ru_definition": "приводить в недоумение, делать что-либо загадочным или непонятным",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sirli etmək"
+                ],
+                "Turkmen": [
+                    "syrlatmak"
+                ],
+                "Uzbek": [
+                    "sirli qilmoq"
+                ],
+                "Uyghur": [
+                    "سىرلىق قىلماق",
+                    "سىرلىقلاشتۇرماق"
+                ],
+                "Kazakh": [
+                    "сырлы қылу"
+                ],
+                "Karakalpak": [
+                    "sırlı qılıo"
+                ],
+                "Tatar": [
+                    "серләштерү",
+                    "серле итү"
+                ],
+                "Bashkir": [
+                    "серле итеү",
+                    "сергә төрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muammalaştırmak"
+                ],
+                "Azerbaijani": [
+                    "müəmmalı etmək"
+                ],
+                "Turkmen": [
+                    "müجمeletmek"
+                ],
+                "Uyghur": [
+                    "مۇجىمەللەشتۈرمەك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gizemlileştirmek"
+                ],
+                "Azerbaijani": [
+                    "gizlətmək"
+                ],
+                "Tatar": [
+                    "гаҗәпләндерү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "haýran galdyrmak"
+                ],
+                "Karakalpak": [
+                    "hayran qaldırıo"
+                ],
+                "Tatar": [
+                    "хәйран калдыру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yashirmoq"
+                ],
+                "Karakalpak": [
+                    "jasırın qılıo"
+                ],
+                "Bashkir": [
+                    "йәшереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anlaşılmaz kılmak"
+                ],
+                "Bashkir": [
+                    "аңлайышһыҙландырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məxfi saxlamaq"
+                ],
+                "Uyghur": [
+                    "مەخپىي تۇتماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "esrar katmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "geň galdyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mavhumlashtirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chigallashtirmok"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құпияландыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмбақтау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түсініксіз ету"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mánisin jasırıo"
+                ]
+            }
+        }
+    ]
+}
+```
+

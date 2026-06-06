@@ -1,0 +1,118 @@
+{
+    "id": "i27505",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "live out",
+    "en_definition": "work in a house where one does not live",
+    "tr_word": "dışarıdan gelip çalışmak",
+    "tr_definition": "çalıştığı evde ikamet etmeyip işe gidip gelmek",
+    "ru_word": "приходить на дом",
+    "ru_definition": "работать в доме, не проживая в нем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dışarıdan çalışmak"
+                ],
+                "Turkmen": [
+                    "daşardan işlemek"
+                ],
+                "Uzbek": [
+                    "tashqaridan kelib ishlamoq"
+                ],
+                "Bashkir": [
+                    "тыштан килеп эшләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gatnap işlemek"
+                ],
+                "Uzbek": [
+                    "qatnab ishlamoq"
+                ],
+                "Uyghur": [
+                    "قاتناپ ئىشلىمەك"
+                ],
+                "Kazakh": [
+                    "қатынап істеу",
+                    "қатынап жұмыс істеу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سىرتتا تۇرۇپ ئىشلىمەك"
+                ],
+                "Kazakh": [
+                    "сырттан келіп істеу"
+                ],
+                "Kyrgyz": [
+                    "сырттан иштөө"
+                ],
+                "Karakalpak": [
+                    "sırttan isleo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "келип иштөө"
+                ],
+                "Karakalpak": [
+                    "kelip-ketip isleo"
+                ],
+                "Tatar": [
+                    "килеп эшләү"
+                ],
+                "Bashkir": [
+                    "килеп эшләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gündelikçi gitmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yatısız çalışmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çöldə qalmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gedər-gəlməz işləmək",
+                    "evdən kənar işləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хезмәт итү"
+                ]
+            }
+        }
+    ]
+}

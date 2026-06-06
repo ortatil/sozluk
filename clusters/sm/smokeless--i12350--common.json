@@ -1,0 +1,95 @@
+{
+    "id": "i12350",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "smokeless",
+    "en_definition": "emitting or containing little or no smoke",
+    "tr_word": "dumansız",
+    "tr_definition": "hiç duman çıkarmayan veya içinde duman bulunmayan",
+    "ru_word": "бездымный",
+    "ru_definition": "не выделяющий или не содержащий дыма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tüstüsüz"
+                ],
+                "Turkmen": [
+                    "tüssesiz"
+                ],
+                "Uyghur": [
+                    "تۈتۈنسىز"
+                ],
+                "Kazakh": [
+                    "түтінсіз",
+                    "түтіні жоқ"
+                ],
+                "Kyrgyz": [
+                    "түтүнсүз"
+                ],
+                "Karakalpak": [
+                    "tútinsiz",
+                    "tútini joq"
+                ],
+                "Tatar": [
+                    "төтенсез",
+                    "төтен чыкмый торган"
+                ],
+                "Bashkir": [
+                    "төтөнһөҙ",
+                    "төтөн сығармаған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dumansız"
+                ],
+                "Azerbaijani": [
+                    "dumansız"
+                ],
+                "Turkmen": [
+                    "dumansyz"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "isiz"
+                ],
+                "Kazakh": [
+                    "ыссыз"
+                ],
+                "Kyrgyz": [
+                    "ышсыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tutunsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bemit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىتۈتۈن"
+                ]
+            }
+        }
+    ]
+}

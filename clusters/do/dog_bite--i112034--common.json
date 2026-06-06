@@ -1,0 +1,69 @@
+{
+    "id": "i112034",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dog bite",
+    "en_definition": "a bite inflicted by a dog",
+    "tr_word": "köpek ısırığı",
+    "tr_definition": "bir köpek tarafından ısırılma sonucu oluşan yara",
+    "ru_word": "укус собаки",
+    "ru_definition": "рана, нанесенная зубами собаки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "it dişləməsi",
+                    "it qapması"
+                ],
+                "Turkmen": [
+                    "it dişlemesi",
+                    "it gapmagy"
+                ],
+                "Uzbek": [
+                    "it qopishi",
+                    "it tishlashi",
+                    "it tishlami"
+                ],
+                "Uyghur": [
+                    "ئىت چىشلىشى",
+                    "ئىت قاپىشى"
+                ],
+                "Kazakh": [
+                    "ит қабуы",
+                    "ит тістеуі"
+                ],
+                "Kyrgyz": [
+                    "ит кабуу",
+                    "ит тиштөө"
+                ],
+                "Karakalpak": [
+                    "iyt qabıoı",
+                    "iyt tisleoi"
+                ],
+                "Tatar": [
+                    "эт тешләве"
+                ],
+                "Bashkir": [
+                    "эт тешләүе",
+                    "эт ҡабыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köpek ısırması",
+                    "köpek ısırığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эт кабуы"
+                ]
+            }
+        }
+    ]
+}

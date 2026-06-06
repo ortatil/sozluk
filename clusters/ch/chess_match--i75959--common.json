@@ -1,0 +1,81 @@
+{
+    "id": "i75959",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chess match",
+    "en_definition": "a match between chess players",
+    "tr_word": "satranç maçı",
+    "tr_definition": "satranç oyuncuları arasında yapılan karşılaşma",
+    "ru_word": "шахматный матч",
+    "ru_definition": "соревнование между шахматистами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şahmat yarışı",
+                    "şahmat oyunu",
+                    "şahmat qarşılaşması",
+                    "şahmat mübarizəsi"
+                ],
+                "Uzbek": [
+                    "shaxmat musobaqasi",
+                    "shaxmat oʻyini",
+                    "shaxmat bellashuvi",
+                    "shaxmat uchrashuvi"
+                ],
+                "Uyghur": [
+                    "شاھمات مۇسابىقىسى",
+                    "شاھمات ئويۇنى",
+                    "شاھمات مەيدانى"
+                ],
+                "Kazakh": [
+                    "шахмат ойыны",
+                    "шахмат бәсекесі",
+                    "шахмат сайысы",
+                    "шахмат кездесуі"
+                ],
+                "Kyrgyz": [
+                    "шахмат оюну",
+                    "шахмат мелдеши",
+                    "шахмат таймашы"
+                ],
+                "Karakalpak": [
+                    "shaxmat oyını",
+                    "shaxmat jarısı",
+                    "shaxmat bellesioi"
+                ],
+                "Tatar": [
+                    "шахмат уены",
+                    "шахмат бәйгесе",
+                    "шахмат ярышы"
+                ],
+                "Bashkir": [
+                    "шахмат уйыны",
+                    "шахмат бәйгеһе",
+                    "шахмат ярышы",
+                    "шахмат матчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "satranç maçı",
+                    "satranç karşılaşması",
+                    "satranç müsabakası",
+                    "satranç oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "küşt ýaryşy",
+                    "küşt duşuşygy",
+                    "küşt bäsleşigi"
+                ]
+            }
+        }
+    ]
+}

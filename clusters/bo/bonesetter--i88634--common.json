@@ -1,0 +1,98 @@
+{
+    "id": "i88634",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bonesetter",
+    "en_definition": "someone (not necessarily a licensed physician) who sets broken bones",
+    "tr_word": "çıkıkçı",
+    "tr_definition": "Kırık veya çıkık kemikleri geleneksel yöntemlerle yerine oturtan kimse.",
+    "ru_word": "костоправ",
+    "ru_definition": "Человек, занимающийся вправлением вывихов и лечением переломов (часто народными методами).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıkıkçı",
+                    "sınıkçı",
+                    "kırıkçı"
+                ],
+                "Azerbaijani": [
+                    "sınıqçı",
+                    "çıkıqçı"
+                ],
+                "Turkmen": [
+                    "synykçy"
+                ],
+                "Uzbek": [
+                    "siniqchi"
+                ],
+                "Uyghur": [
+                    "سۇنۇقچى"
+                ],
+                "Kazakh": [
+                    "сынықшы"
+                ],
+                "Kyrgyz": [
+                    "сынчы",
+                    "сыныкчы"
+                ],
+                "Karakalpak": [
+                    "sınıqshı"
+                ],
+                "Tatar": [
+                    "сынганчы",
+                    "сынган-чыкканнарны төзәтүче"
+                ],
+                "Bashkir": [
+                    "һынғансы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tebip"
+                ],
+                "Karakalpak": [
+                    "tábip"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shikastband"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇنۇق تۈزەتكۈچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оташы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сөякче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "быуынсы"
+                ]
+            }
+        }
+    ]
+}

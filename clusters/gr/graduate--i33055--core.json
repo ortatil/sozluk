@@ -1,0 +1,133 @@
+{
+    "id": "i33055",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "graduate",
+    "en_definition": "receive an academic degree upon completion of one's studies",
+    "tr_word": "mezun olmak",
+    "tr_definition": "öğrenimini tamamlayarak bir diploma veya akademik derece almak",
+    "ru_word": "окончить",
+    "ru_definition": "успешно завершить обучение в учебном заведении и получить диплом или ученую степень",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bitirmek"
+                ],
+                "Azerbaijani": [
+                    "bitirmək"
+                ],
+                "Turkmen": [
+                    "bitirmek"
+                ],
+                "Uzbek": [
+                    "bitirmoq"
+                ],
+                "Uyghur": [
+                    "پۈتتۈرمەك"
+                ],
+                "Kazakh": [
+                    "бітіру"
+                ],
+                "Kyrgyz": [
+                    "бүтүрүү",
+                    "бүтүү"
+                ],
+                "Karakalpak": [
+                    "pitiriu"
+                ],
+                "Tatar": [
+                    "бетерү"
+                ],
+                "Bashkir": [
+                    "бөтөрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tamamlamak"
+                ],
+                "Azerbaijani": [
+                    "tamamlamaq"
+                ],
+                "Turkmen": [
+                    "tamamlamak"
+                ],
+                "Uzbek": [
+                    "tamomlamoq"
+                ],
+                "Uyghur": [
+                    "تاماملىماق"
+                ],
+                "Kazakh": [
+                    "тәмәмдау"
+                ],
+                "Karakalpak": [
+                    "tamamlau",
+                    "támiyamlaw"
+                ],
+                "Tatar": [
+                    "тәмамлау"
+                ],
+                "Bashkir": [
+                    "тамамлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mezun olmak"
+                ],
+                "Azerbaijani": [
+                    "məzun olmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "diploma almak"
+                ],
+                "Tatar": [
+                    "диплом алу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аяқтау"
+                ],
+                "Kyrgyz": [
+                    "аяктоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gutarmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tugatmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوقۇش پۈتتۈرمەك"
+                ]
+            }
+        }
+    ]
+}

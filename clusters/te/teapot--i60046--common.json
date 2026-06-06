@@ -1,0 +1,85 @@
+{
+    "id": "i60046",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "teapot",
+    "en_definition": "pot for brewing tea; usually has a spout and handle",
+    "tr_word": "çaydanlık",
+    "tr_definition": "Çay demlemek için kullanılan, genellikle emzikli ve kulplu kap.",
+    "ru_word": "чайник",
+    "ru_definition": "Сосуд с носиком и ручкой для заваривания чая.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çaydanlık"
+                ],
+                "Azerbaijani": [
+                    "çaydan"
+                ],
+                "Turkmen": [
+                    "çäýnek"
+                ],
+                "Uyghur": [
+                    "چەينەك",
+                    "چاي قۇمغىنى"
+                ],
+                "Kazakh": [
+                    "шәйнек"
+                ],
+                "Kyrgyz": [
+                    "чайнек"
+                ],
+                "Karakalpak": [
+                    "sháynek"
+                ],
+                "Tatar": [
+                    "чәйнек",
+                    "чәй савыты"
+                ],
+                "Bashkir": [
+                    "сәйник"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "құман"
+                ],
+                "Kyrgyz": [
+                    "кумган"
+                ],
+                "Karakalpak": [
+                    "qumǵan"
+                ],
+                "Bashkir": [
+                    "ҡомған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "demlik"
+                ],
+                "Azerbaijani": [
+                    "dəmkeş"
+                ],
+                "Turkmen": [
+                    "demlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "choynak"
+                ]
+            }
+        }
+    ]
+}

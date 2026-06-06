@@ -1,0 +1,137 @@
+# Wild dog
+| Field | Detail |
+|---|---|
+| **ID** | i46556 |
+| **English** | wild dog |
+| **Type** | noun |
+| **Definition** | any of various undomesticated mammals of the family Canidae that are thought to resemble domestic dogs as distinguished from jackals or wolves |
+| **Source** | common |
+| **Ortatil** | kañgıl |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| каңгыл | kañgıl |
+
+```json
+{
+    "id": "i46556",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wild dog",
+    "en_definition": "any of various undomesticated mammals of the family Canidae that are thought to resemble domestic dogs as distinguished from jackals or wolves",
+    "tr_word": "yaban köpeği",
+    "tr_definition": "çakal veya kurttan farklı olarak evcil köpeklere benzeyen, köpekgiller familyasından evcilleştirilmemiş memeli hayvan",
+    "ru_word": "дикая собака",
+    "ru_definition": "любое из различных неодомашненных млекопитающих семейства псовых, которые, как считается, напоминают домашних собак в отличие от шакалов или волков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaban köpeği",
+                    "yabani köpek"
+                ],
+                "Azerbaijani": [
+                    "yabanı it"
+                ],
+                "Turkmen": [
+                    "ýabany it"
+                ],
+                "Uzbek": [
+                    "yovvoyi it"
+                ],
+                "Kazakh": [
+                    "жабайы ит"
+                ],
+                "Kyrgyz": [
+                    "жапайы ит"
+                ],
+                "Karakalpak": [
+                    "jabayı iyt"
+                ],
+                "Bashkir": [
+                    "яра эте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çöl iti"
+                ],
+                "Turkmen": [
+                    "çöl iti"
+                ],
+                "Uzbek": [
+                    "dala iti"
+                ],
+                "Uyghur": [
+                    "دالا ئىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vahşi köpek"
+                ],
+                "Azerbaijani": [
+                    "vəhşi it"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түз иті"
+                ],
+                "Karakalpak": [
+                    "túz iyti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қаңғыбас ит"
+                ],
+                "Tatar": [
+                    "каңгыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыргый эт"
+                ],
+                "Bashkir": [
+                    "ҡыр эте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياۋا ئىت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "талаа ити"
+                ]
+            }
+        }
+    ]
+}
+```
+

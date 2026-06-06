@@ -1,0 +1,88 @@
+{
+    "id": "i91797",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "left fielder",
+    "en_definition": "the person who plays left field",
+    "tr_word": "sol dış alan oyuncusu",
+    "tr_definition": "Beyzbolda sahanın sol dış kısmında (left field) oynayan savunma oyuncusu.",
+    "ru_word": "левый филдер",
+    "ru_definition": "Игрок в бейсболе, занимающий позицию в левой части внешнего поля.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سول تەرەپ قوغدىغۇچىسى",
+                    "سول تەرەپ ماھىرى"
+                ],
+                "Kazakh": [
+                    "сол қанат қорғаушысы"
+                ],
+                "Kyrgyz": [
+                    "сол тараптагы коргоочу",
+                    "сол канат коргоочусу"
+                ],
+                "Karakalpak": [
+                    "sol tárep qorǵaoshısı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сол жақ қорғаушы"
+                ],
+                "Karakalpak": [
+                    "sol qanat qorǵaoshısı"
+                ],
+                "Tatar": [
+                    "сул як сакчысы",
+                    "сул як уенчысы"
+                ],
+                "Bashkir": [
+                    "һул яҡ һаҡсыһы",
+                    "һул яҡ уйынсыһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sol dış alan oyuncusu",
+                    "sol dış saha oyuncusu",
+                    "sol dış oyuncu"
+                ],
+                "Azerbaijani": [
+                    "sol cinah oyunçusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çep meýdançy"
+                ],
+                "Uzbek": [
+                    "chap qanot himoyachisi",
+                    "chap taraf o'yinchisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sol cinah müdafiəçisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çep tarapky goragçy"
+                ]
+            }
+        }
+    ]
+}

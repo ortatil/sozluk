@@ -1,0 +1,100 @@
+{
+    "id": "i50792",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "birdcage",
+    "en_definition": "a cage in which a bird can be kept",
+    "tr_word": "kuş kafesi",
+    "tr_definition": "kuşların içinde tutulduğu kafes",
+    "ru_word": "птичья клетка",
+    "ru_definition": "клетка, в которой можно содержать птицу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kafes"
+                ],
+                "Azerbaijani": [
+                    "qəfəs"
+                ],
+                "Turkmen": [
+                    "kapas"
+                ],
+                "Uzbek": [
+                    "qafas"
+                ],
+                "Uyghur": [
+                    "قەپەس"
+                ],
+                "Kyrgyz": [
+                    "капас"
+                ],
+                "Karakalpak": [
+                    "qapas"
+                ],
+                "Bashkir": [
+                    "ҡафас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuş kafesi"
+                ],
+                "Azerbaijani": [
+                    "quş qəfəsi"
+                ],
+                "Uzbek": [
+                    "qushqafas"
+                ],
+                "Uyghur": [
+                    "قۇش قەپىسى"
+                ],
+                "Kazakh": [
+                    "құс тор"
+                ],
+                "Tatar": [
+                    "кош читлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "toraý"
+                ],
+                "Kazakh": [
+                    "тор",
+                    "торкөз"
+                ],
+                "Kyrgyz": [
+                    "тор"
+                ],
+                "Karakalpak": [
+                    "tor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "читлек"
+                ],
+                "Bashkir": [
+                    "ситлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чымчык капас"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id": "i79014",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "congo",
+    "en_definition": "black tea grown in China",
+    "tr_word": "kongo çayı",
+    "tr_definition": "Çin'de yetiştirilen bir tür siyah çay",
+    "ru_word": "конго",
+    "ru_definition": "сорт черного чая, выращиваемого в Китае",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qara çay"
+                ],
+                "Turkmen": [
+                    "gara çaý"
+                ],
+                "Uzbek": [
+                    "qora choy"
+                ],
+                "Uyghur": [
+                    "قارا چاي"
+                ],
+                "Kazakh": [
+                    "қара шай",
+                    "қытай шайы"
+                ],
+                "Kyrgyz": [
+                    "кара чай",
+                    "кытай чайы"
+                ],
+                "Karakalpak": [
+                    "qara shay",
+                    "qıtay shayı"
+                ],
+                "Tatar": [
+                    "кара чәй",
+                    "кытай чәе"
+                ],
+                "Bashkir": [
+                    "ҡара сәй",
+                    "ҡытай сәйе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Çin çayı"
+                ],
+                "Azerbaijani": [
+                    "çin çayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koyu çay"
+                ],
+                "Uyghur": [
+                    "كۇڭفۇ چاي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hytaý çaýy"
+                ],
+                "Uzbek": [
+                    "xitoy choyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siyah çay"
+                ]
+            }
+        }
+    ]
+}

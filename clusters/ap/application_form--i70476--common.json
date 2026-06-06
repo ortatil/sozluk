@@ -1,0 +1,134 @@
+{
+    "id": "i70476",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "application form",
+    "en_definition": "a form to use when making an application",
+    "tr_word": "başvuru formu",
+    "tr_definition": "bir yere başvuruda bulunurken doldurulan resmi belge",
+    "ru_word": "анкета",
+    "ru_definition": "документ с вопросами, заполняемый при подаче заявления на работу, визу или участие в чем-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ərizə forması"
+                ],
+                "Turkmen": [
+                    "arza"
+                ],
+                "Uzbek": [
+                    "ariza",
+                    "ariza shakli"
+                ],
+                "Kyrgyz": [
+                    "арыз",
+                    "арыз баракчасы"
+                ],
+                "Karakalpak": [
+                    "arza"
+                ],
+                "Tatar": [
+                    "гариза"
+                ],
+                "Bashkir": [
+                    "ғариза",
+                    "ғариза формаһы",
+                    "ғариза бланкы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "anket"
+                ],
+                "Turkmen": [
+                    "anketa"
+                ],
+                "Kyrgyz": [
+                    "анкета"
+                ],
+                "Karakalpak": [
+                    "anketa"
+                ],
+                "Tatar": [
+                    "анкета"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "soragnama"
+                ],
+                "Uzbek": [
+                    "soʻrovnoma"
+                ],
+                "Kyrgyz": [
+                    "сурамжылоо баракчасы"
+                ],
+                "Karakalpak": [
+                    "saoalnama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müracaat formu"
+                ],
+                "Azerbaijani": [
+                    "müraciət vərəqəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "başvuru formu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dilekçe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىلتىماس جەدۋىلى",
+                    "ئىلتىماسنامە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өтініш",
+                    "өтінішхат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сауалнама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "белдерү"
+                ]
+            }
+        }
+    ]
+}

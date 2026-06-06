@@ -1,0 +1,95 @@
+{
+    "id": "i19906",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "biweekly",
+    "en_definition": "every two weeks",
+    "tr_word": "iki haftada bir",
+    "tr_definition": "iki haftalık aralıklarla, her iki haftada bir kez",
+    "ru_word": "раз в две недели",
+    "ru_definition": "с интервалом в две недели, каждые две недели",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki haftada bir"
+                ],
+                "Azerbaijani": [
+                    "iki həftədən bir",
+                    "iki həftəlik"
+                ],
+                "Turkmen": [
+                    "iki hepdeden bir"
+                ],
+                "Uzbek": [
+                    "ikki haftada bir",
+                    "har ikki haftada"
+                ],
+                "Uyghur": [
+                    "ئىككى ھەپتىدە بىر قېتىم"
+                ],
+                "Kazakh": [
+                    "екі аптада бір"
+                ],
+                "Kyrgyz": [
+                    "эки жумада бир"
+                ],
+                "Karakalpak": [
+                    "eki háptede bir"
+                ],
+                "Tatar": [
+                    "ике атна саен",
+                    "ике атнага бер"
+                ],
+                "Bashkir": [
+                    "ике аҙна һайын",
+                    "ике аҙнаға бер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "her iki hepdede"
+                ],
+                "Uyghur": [
+                    "ھەر ئىككى ھەپتىدە بىر"
+                ],
+                "Karakalpak": [
+                    "hár eki háptede"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "on beş günde bir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "екі апта сайын",
+                    "әр екі аптада"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ар эки жумада"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "атна аралаш"
+                ]
+            }
+        }
+    ]
+}

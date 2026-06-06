@@ -1,0 +1,102 @@
+{
+    "id": "i78157",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coleslaw",
+    "en_definition": "basically shredded cabbage",
+    "tr_word": "lahana salatası",
+    "tr_definition": "Genellikle mayonez veya sirke ile hazırlanan, ince kıyılmış çiğ lahana ve havuçtan oluşan salata.",
+    "ru_word": "салат из капусты",
+    "ru_definition": "Салат, состоящий в основном из мелко нарезанной сырой капусты, обычно заправленный майонезом или уксусом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "doğranmış kələm"
+                ],
+                "Turkmen": [
+                    "dogralan kelem"
+                ],
+                "Karakalpak": [
+                    "turalǵan karam"
+                ],
+                "Tatar": [
+                    "туралган кәбестә"
+                ],
+                "Bashkir": [
+                    "туралған кәбестә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kələm salatı"
+                ],
+                "Turkmen": [
+                    "kelem salaty"
+                ],
+                "Uzbek": [
+                    "karam salat"
+                ],
+                "Karakalpak": [
+                    "karam salatı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كاپۇستا سالات",
+                    "كاپۇستا سالاتى"
+                ],
+                "Kyrgyz": [
+                    "капуста салаты"
+                ],
+                "Tatar": [
+                    "кәбестә салаты"
+                ],
+                "Bashkir": [
+                    "кәбестә салаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lahana salatası"
+                ],
+                "Kyrgyz": [
+                    "тууралган капуста"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qirqilgan karam"
+                ],
+                "Kazakh": [
+                    "қырыққабат салаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kıyılmış lahana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "орамжапырақ салаты"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "id": "i29580",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "reinstall",
+    "en_definition": "install again",
+    "tr_word": "yeniden kurmak",
+    "tr_definition": "bir yazılımı veya donanımı bilgisayara veya sisteme tekrar yüklemek",
+    "ru_word": "переустановить",
+    "ru_definition": "установить программное обеспечение или оборудование заново",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan gurmak"
+                ],
+                "Uzbek": [
+                    "qayta o'rnatmoq",
+                    "qayta qurmoq",
+                    "qayta joylamoq"
+                ],
+                "Uyghur": [
+                    "قايتا ئورنىتىش",
+                    "قايتا قۇرۇش"
+                ],
+                "Kazakh": [
+                    "қайта орнату",
+                    "қайта құру",
+                    "қайта бекіту",
+                    "қайта тұрғызу"
+                ],
+                "Kyrgyz": [
+                    "кайра орнотуу",
+                    "кайра куруу",
+                    "кайра жайгаштыруу"
+                ],
+                "Karakalpak": [
+                    "qayta ornatıo",
+                    "qayta qondırıo",
+                    "qayta tikleo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden kurmak",
+                    "yeniden yüklemek"
+                ],
+                "Azerbaijani": [
+                    "yenidən qurmaq",
+                    "yenidən yerləşdirmək"
+                ],
+                "Tatar": [
+                    "яңадан урнаштыру",
+                    "яңадан кору"
+                ],
+                "Bashkir": [
+                    "яңынан ҡуйыу",
+                    "яңынан урынлаштырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekrar kurmak"
+                ],
+                "Azerbaijani": [
+                    "təkrar quraşdırmaq"
+                ],
+                "Uyghur": [
+                    "تەكرار ئورنىتىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат урнаштыру"
+                ],
+                "Bashkir": [
+                    "ҡабаттан урынлаштырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzeden gurmak",
+                    "täzeden ýerleşdirmek"
+                ]
+            }
+        }
+    ]
+}

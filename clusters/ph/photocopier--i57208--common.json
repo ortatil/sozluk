@@ -1,0 +1,103 @@
+{
+    "id": "i57208",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "photocopier",
+    "en_definition": "a copier that uses photographic methods of making copies",
+    "tr_word": "fotokopi makinesi",
+    "tr_definition": "Belgeleri veya görüntüleri kağıt üzerine hızlı ve ucuz bir şekilde kopyalayan cihaz.",
+    "ru_word": "ксерокс",
+    "ru_definition": "Устройство для получения копий документов, фотографий, рисунков на бумаге.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كۆچۈرۈش ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "көшірмелеуіш",
+                    "көшірме жасағыш",
+                    "көшірме құрылғысы"
+                ],
+                "Kyrgyz": [
+                    "көчүрмө аппарат",
+                    "көчүрүүчү жабдык",
+                    "көчүрмө машина"
+                ],
+                "Karakalpak": [
+                    "kóshіrmeleushі",
+                    "kóshіrmeleu apparatı",
+                    "kóshіrmeleu qurılǵısı"
+                ],
+                "Tatar": [
+                    "күчермәләү җайланмасы",
+                    "күчермәләү машинасы",
+                    "күчергеч"
+                ],
+                "Bashkir": [
+                    "күсермә яһау ҡоролмаһы",
+                    "күсергес",
+                    "күсермә яһағыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nusga alýan enjam",
+                    "nusgalayjy"
+                ],
+                "Uzbek": [
+                    "nusxa koʻchirgich",
+                    "nusxa koʻchirish uskunasi",
+                    "nusxa koʻchirish mashinasi"
+                ],
+                "Uyghur": [
+                    "نۇسخىلىغۇچ",
+                    "نۇسخا كۆچۈرۈش ماشىنىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çoğaltıcı"
+                ],
+                "Azerbaijani": [
+                    "çoxaldan cihaz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fotokopi makinesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "basım cihazı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "surətçıxaran",
+                    "surətçıxaran maşın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "köpeldiji enjam"
+                ]
+            }
+        }
+    ]
+}

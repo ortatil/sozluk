@@ -1,0 +1,55 @@
+{
+    "id": "i64724",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "tooth",
+    "en_definition": "hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense",
+    "tr_word": "diş",
+    "tr_definition": "Çene kemiklerinin üzerine dizilmiş, ısırmaya ve çiğnemeye yarayan sert, beyaz yapılar.",
+    "ru_word": "зуб",
+    "ru_definition": "Костное образование в ротовой полости, служащее для захвата и измельчения пищи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diş"
+                ],
+                "Azerbaijani": [
+                    "diş"
+                ],
+                "Turkmen": [
+                    "diş"
+                ],
+                "Uzbek": [
+                    "tish"
+                ],
+                "Uyghur": [
+                    "چىش"
+                ],
+                "Kazakh": [
+                    "тіс"
+                ],
+                "Kyrgyz": [
+                    "тиш"
+                ],
+                "Karakalpak": [
+                    "tis"
+                ],
+                "Tatar": [
+                    "теш"
+                ],
+                "Bashkir": [
+                    "теш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tisler"
+                ]
+            }
+        }
+    ]
+}

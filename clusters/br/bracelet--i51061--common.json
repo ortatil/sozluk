@@ -1,0 +1,78 @@
+{
+    "id": "i51061",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bracelet",
+    "en_definition": "jewelry worn around the wrist for decoration",
+    "tr_word": "bilezik",
+    "tr_definition": "Süs amacıyla bileğe takılan halka biçimindeki takı.",
+    "ru_word": "браслет",
+    "ru_definition": "Ювелирное изделие, надеваемое на руку, обычно на запястье, для украшения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilezik",
+                    "bileklik"
+                ],
+                "Azerbaijani": [
+                    "bilərzik"
+                ],
+                "Turkmen": [
+                    "bilezik"
+                ],
+                "Uzbek": [
+                    "bilakuzuk"
+                ],
+                "Uyghur": [
+                    "بىلەيزۈك",
+                    "بىلەيكۈز"
+                ],
+                "Kazakh": [
+                    "білезік",
+                    "білекше"
+                ],
+                "Kyrgyz": [
+                    "билерик",
+                    "билектик"
+                ],
+                "Karakalpak": [
+                    "bіlezіk",
+                    "bіlezіkshe"
+                ],
+                "Tatar": [
+                    "беләзек",
+                    "беләзеклек"
+                ],
+                "Bashkir": [
+                    "беләҙек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qolbaq"
+                ],
+                "Bashkir": [
+                    "ҡулса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşarbag"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastvona"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "id": "i47173",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wood ant",
+    "en_definition": "reddish-brown European ant typically living in anthills in woodlands",
+    "tr_word": "orman karıncası",
+    "tr_definition": "Genellikle ormanlık alanlarda büyük yuvalar kuran, kırmızımsı kahverengi Avrupa karıncası.",
+    "ru_word": "рыжий лесной муравей",
+    "ru_definition": "Вид муравьёв красно-бурого цвета, обитающих в лесах и строящих крупные муравейники.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızıl orman karıncası"
+                ],
+                "Turkmen": [
+                    "gyzyl garynja"
+                ],
+                "Uzbek": [
+                    "qizil chumoli"
+                ],
+                "Uyghur": [
+                    "قىزىل چۆمۈلە"
+                ],
+                "Kazakh": [
+                    "қызыл құмырсқа"
+                ],
+                "Kyrgyz": [
+                    "кызыл кумурска"
+                ],
+                "Karakalpak": [
+                    "qızıl qұmırsqa"
+                ],
+                "Tatar": [
+                    "кызыл кырмыска"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orman karıncası"
+                ],
+                "Uzbek": [
+                    "oʻrmon chumolisi"
+                ],
+                "Uyghur": [
+                    "ئورمان چۆمۈلىسى"
+                ],
+                "Kazakh": [
+                    "орман құмырсқасы"
+                ],
+                "Karakalpak": [
+                    "orman qұmırsqası"
+                ],
+                "Tatar": [
+                    "урман кырмыскасы"
+                ],
+                "Bashkir": [
+                    "урман ҡырмыҫҡаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tokaý garynjasy"
+                ],
+                "Kyrgyz": [
+                    "токой кумурскасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "meşə qarışqası",
+                    "qırmızı meşə qarışqası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ерән ҡырмыҫҡа"
+                ]
+            }
+        }
+    ]
+}

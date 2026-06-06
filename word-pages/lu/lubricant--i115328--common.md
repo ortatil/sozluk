@@ -1,0 +1,148 @@
+# Lubricant
+| Field | Detail |
+|---|---|
+| **ID** | i115328 |
+| **English** | lubricant |
+| **Type** | noun |
+| **Definition** | a substance capable of reducing friction by making surfaces smooth or slippery |
+| **Source** | common |
+| **Ortatil** | may |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **may** | **jağ** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ❌ | ✅ |
+| Turkmen | ❌ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0 | 1 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.20 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **2** | **1.70** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ماي | may |
+| **Kazakh** | |
+| май | may |
+| майлағыш | maylağış |
+| жағармай | jağarmay |
+| **Kyrgyz** | |
+| май | may |
+| **Tatar** | |
+| май | may |
+| майлаучы | maylauçı |
+| **Bashkir** | |
+| май | may |
+| майлауыс | maylauıs |
+
+```json
+{
+    "id": "i115328",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lubricant",
+    "en_definition": "a substance capable of reducing friction by making surfaces smooth or slippery",
+    "tr_word": "yağlayıcı",
+    "tr_definition": "yüzeyleri pürüzsüz veya kaygan hale getirerek sürtünmeyi azaltabilen madde",
+    "ru_word": "смазка",
+    "ru_definition": "вещество, способное уменьшать трение, делая поверхности гладкими или скользкими",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "moy",
+                    "moylash vositasi"
+                ],
+                "Uyghur": [
+                    "ماي"
+                ],
+                "Kazakh": [
+                    "май",
+                    "майлағыш"
+                ],
+                "Kyrgyz": [
+                    "май",
+                    "майлоочу зат",
+                    "майлоочу каражат"
+                ],
+                "Karakalpak": [
+                    "may",
+                    "maylaǵısh",
+                    "maylaǵısh zat"
+                ],
+                "Tatar": [
+                    "май",
+                    "майлаучы",
+                    "майлау матдәсе"
+                ],
+                "Bashkir": [
+                    "май",
+                    "майлауыс",
+                    "майлау материалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağ",
+                    "yağlayıcı"
+                ],
+                "Azerbaijani": [
+                    "yağ"
+                ],
+                "Turkmen": [
+                    "ýag"
+                ],
+                "Kazakh": [
+                    "жағармай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sürtkü",
+                    "sürtkü yağı"
+                ],
+                "Uzbek": [
+                    "surtma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çalgy",
+                    "çalgy ýagy"
+                ],
+                "Uyghur": [
+                    "سىلىقلىغۇچى ماي",
+                    "سىلىقلىغۇچى ماددا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayganlaştırıcı"
+                ]
+            }
+        }
+    ]
+}
+```
+

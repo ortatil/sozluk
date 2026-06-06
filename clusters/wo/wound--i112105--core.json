@@ -1,0 +1,126 @@
+{
+    "id": "i112105",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "wound",
+    "en_definition": "an injury to living tissue (especially an injury involving a cut or break in the skin)",
+    "tr_word": "yara",
+    "tr_definition": "canlı dokuda, özellikle deri bütünlüğünün bozulması veya kesilmesi sonucu oluşan hasar",
+    "ru_word": "рана",
+    "ru_definition": "повреждение тканей организма (особенно связанное с разрезом или разрывом кожи)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yara"
+                ],
+                "Azerbaijani": [
+                    "yara"
+                ],
+                "Turkmen": [
+                    "ýara"
+                ],
+                "Uzbek": [
+                    "yara"
+                ],
+                "Uyghur": [
+                    "يارا"
+                ],
+                "Kazakh": [
+                    "жара"
+                ],
+                "Kyrgyz": [
+                    "жара"
+                ],
+                "Karakalpak": [
+                    "jara"
+                ],
+                "Tatar": [
+                    "яра"
+                ],
+                "Bashkir": [
+                    "яра"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cerahat"
+                ],
+                "Uzbek": [
+                    "jarohat"
+                ],
+                "Uyghur": [
+                    "جاراھەت"
+                ],
+                "Kazakh": [
+                    "жарақат"
+                ],
+                "Kyrgyz": [
+                    "жарат",
+                    "жаракат"
+                ],
+                "Karakalpak": [
+                    "jaraqat"
+                ],
+                "Tatar": [
+                    "җәрәхәт"
+                ],
+                "Bashkir": [
+                    "йәрәхәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şikes"
+                ],
+                "Uzbek": [
+                    "shikast"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zədə"
+                ],
+                "Turkmen": [
+                    "zede"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xəsarət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зақым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "зарар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bere"
+                ]
+            }
+        }
+    ]
+}

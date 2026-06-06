@@ -1,0 +1,121 @@
+{
+    "id": "i78622",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shepherd's pie",
+    "en_definition": "pie of hash covered with mashed potatoes and browned in the oven",
+    "tr_word": "çoban böreği",
+    "tr_definition": "üzeri patates püresi ile kaplanmış ve fırınlanmış kıymalı bir yemek",
+    "ru_word": "пастуший пирог",
+    "ru_definition": "запеканка из мясного фарша, покрытая слоем картофельного пюре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kartoflu ət qatlaması"
+                ],
+                "Turkmen": [
+                    "kartoşka pýureli etli börek",
+                    "kartoşkaly etli gatlama"
+                ],
+                "Kazakh": [
+                    "картопты ет бәліші",
+                    "ет пен картоп бәліші"
+                ],
+                "Kyrgyz": [
+                    "картошкалуу эт пирогу"
+                ],
+                "Karakalpak": [
+                    "kartoshkalı bálish"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "етті бәліш"
+                ],
+                "Kyrgyz": [
+                    "эттүү пирог"
+                ],
+                "Karakalpak": [
+                    "etli bálish",
+                    "etli pirog"
+                ],
+                "Bashkir": [
+                    "итле бәрәңге бәлеше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çoban böreği"
+                ],
+                "Azerbaijani": [
+                    "çoban piroqu"
+                ],
+                "Uzbek": [
+                    "cho'pon pirogi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıymalı patates püresi"
+                ],
+                "Azerbaijani": [
+                    "qiyməli kartof püresi"
+                ],
+                "Uzbek": [
+                    "qiymali pirog"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "patatesli kıyma oturtması"
+                ],
+                "Turkmen": [
+                    "etli we kartoşkaly gatlakly nahar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "go'shtli va kartoshkali pirog"
+                ],
+                "Uyghur": [
+                    "گۆشلۈك بەرەڭگە پىروگى",
+                    "بەرەڭگە ئېزىمىسىلىق گۆش پىروگى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәрәңге бәлеше",
+                    "итле-бәрәңгеле бәлеш",
+                    "бәрәңге запеканкасы"
+                ],
+                "Bashkir": [
+                    "бәрәңге запеканкаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "койчунун пирогу"
+                ]
+            }
+        }
+    ]
+}

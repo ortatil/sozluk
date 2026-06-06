@@ -1,0 +1,127 @@
+{
+    "id": "i89349",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "client",
+    "en_definition": "someone who pays for goods or services",
+    "tr_word": "müşteri",
+    "tr_definition": "mal veya hizmet satın alan kişi",
+    "ru_word": "клиент",
+    "ru_definition": "лицо, пользующееся услугами организации или частного лица",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müşteri"
+                ],
+                "Azerbaijani": [
+                    "müştəri"
+                ],
+                "Turkmen": [
+                    "müşderi"
+                ],
+                "Uyghur": [
+                    "مۇشتەرى"
+                ],
+                "Kyrgyz": [
+                    "муштары"
+                ],
+                "Tatar": [
+                    "мөштәри"
+                ],
+                "Bashkir": [
+                    "мөштәри"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alıcı"
+                ],
+                "Azerbaijani": [
+                    "alıcı"
+                ],
+                "Turkmen": [
+                    "alyjy"
+                ],
+                "Kazakh": [
+                    "алушы"
+                ],
+                "Kyrgyz": [
+                    "алуучу"
+                ],
+                "Karakalpak": [
+                    "alıoshı"
+                ],
+                "Bashkir": [
+                    "алыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xaridor"
+                ],
+                "Uyghur": [
+                    "خېرىدار"
+                ],
+                "Kyrgyz": [
+                    "кардар"
+                ],
+                "Karakalpak": [
+                    "qarıydar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "клиент"
+                ],
+                "Tatar": [
+                    "клиент"
+                ],
+                "Bashkir": [
+                    "клиент"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сатып алушы"
+                ],
+                "Tatar": [
+                    "сатып алучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mijoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұтынушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tóleoshi"
+                ]
+            }
+        }
+    ]
+}

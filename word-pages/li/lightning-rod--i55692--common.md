@@ -1,0 +1,126 @@
+# Lightning rod
+| Field | Detail |
+|---|---|
+| **ID** | i55692 |
+| **English** | lightning rod |
+| **Type** | noun |
+| **Definition** | a metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning |
+| **Source** | common |
+| **Ortatil** | yıldırımsawar |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **yıldırımsawar** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1** |
+
+```json
+{
+    "id": "i55692",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lightning rod",
+    "en_definition": "a metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning",
+    "tr_word": "paratoner",
+    "tr_definition": "Yıldırımın zararını önlemek amacıyla binaların en yüksek noktasına konulan ve bir iletkenle toprağa bağlanan metal çubuk.",
+    "ru_word": "молниеотвод",
+    "ru_definition": "Устройство, устанавливаемое на зданиях и сооружениях для защиты от удара молнии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yıldırımsavar",
+                    "yıldırımkıran",
+                    "yıldırım iletkeni"
+                ],
+                "Azerbaijani": [
+                    "ildırımqovan",
+                    "ildırımdan qoruyan"
+                ],
+                "Turkmen": [
+                    "ýyldyrym sowujy",
+                    "ýyldyrymgoraýjy",
+                    "ýyldyrymdaş"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yashinqaytarish",
+                    "yashinqaytargich",
+                    "yashin haydagich"
+                ],
+                "Tatar": [
+                    "яшен уздыргыч",
+                    "яшен кайтаргыч",
+                    "яшен таягы"
+                ],
+                "Bashkir": [
+                    "йәшен үткәргес",
+                    "йәшен ҡайтарғыс",
+                    "йәшен таяғы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چاقماق قايتۇرغۇچ",
+                    "چاقماق تۇتقۇچ",
+                    "چاقماقتىن ساقلىغۇچ"
+                ],
+                "Kyrgyz": [
+                    "чагылган тоскуч",
+                    "чагылган кайтаргыч",
+                    "чагылган өткөргүч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "найзағай қайтарғыш",
+                    "найзағай тартқыш",
+                    "найзағайдан қорғағыш"
+                ],
+                "Karakalpak": [
+                    "nayzaǵay qaytarǵısh",
+                    "nayzaǵay tartqısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paratoner"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ildırımötürən"
+                ]
+            }
+        }
+    ]
+}
+```
+

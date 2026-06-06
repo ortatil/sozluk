@@ -1,0 +1,78 @@
+{
+    "id": "i14211",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "wide-screen",
+    "en_definition": "(motion pictures) projected on a screen with much greater width than height",
+    "tr_word": "geniş ekran",
+    "tr_definition": "genişliği yüksekliğinden çok daha fazla olan bir ekrana yansıtılan (hareketli görüntüler)",
+    "ru_word": "широкоэкранный",
+    "ru_definition": "относящийся к кинофильмам, проецируемым на экран, ширина которого значительно превышает высоту",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geniş ekran"
+                ],
+                "Azerbaijani": [
+                    "genişekranlı",
+                    "genişformatlı"
+                ],
+                "Turkmen": [
+                    "giň ekranly",
+                    "giň formatly"
+                ],
+                "Uzbek": [
+                    "keng ekranli",
+                    "keng koʻlamli"
+                ],
+                "Uyghur": [
+                    "كەڭ ئېكرانلىق",
+                    "كەڭ ئېكران"
+                ],
+                "Kazakh": [
+                    "кең экранды"
+                ],
+                "Kyrgyz": [
+                    "кең экрандуу"
+                ],
+                "Karakalpak": [
+                    "keń ekranlı"
+                ],
+                "Tatar": [
+                    "киң экранлы",
+                    "киң форматлы"
+                ],
+                "Bashkir": [
+                    "киң экранлы",
+                    "киң форматлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалпақ экранды"
+                ],
+                "Karakalpak": [
+                    "jalpaq ekranlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaygın ekran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жазы экрандуу"
+                ]
+            }
+        }
+    ]
+}

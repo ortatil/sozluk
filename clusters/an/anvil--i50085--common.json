@@ -1,0 +1,87 @@
+{
+    "id": "i50085",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "anvil",
+    "en_definition": "a heavy block of iron or steel on which hot metals are shaped by hammering",
+    "tr_word": "örs",
+    "tr_definition": "üzerinde dövülerek metal eşyalara biçim verilen, ağır çelik veya demir blok",
+    "ru_word": "наковальня",
+    "ru_definition": "тяжелая железная или стальная опора, на которой куют горячий металл обрабатывается ковкой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sindan"
+                ],
+                "Azerbaijani": [
+                    "zindan"
+                ],
+                "Turkmen": [
+                    "sanda",
+                    "sandal"
+                ],
+                "Uzbek": [
+                    "sandon"
+                ],
+                "Uyghur": [
+                    "سەندان"
+                ],
+                "Tatar": [
+                    "сандал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'sh"
+                ],
+                "Kazakh": [
+                    "төс"
+                ],
+                "Kyrgyz": [
+                    "дөшү",
+                    "дөш"
+                ],
+                "Karakalpak": [
+                    "tós",
+                    "dúk"
+                ],
+                "Tatar": [
+                    "түш"
+                ],
+                "Bashkir": [
+                    "түш",
+                    "түшкәй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "örs"
+                ],
+                "Azerbaijani": [
+                    "örs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆمۈر سەندان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дөңбек"
+                ]
+            }
+        }
+    ]
+}

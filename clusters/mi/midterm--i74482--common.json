@@ -1,0 +1,94 @@
+{
+    "id": "i74482",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "midterm examination",
+    "en_definition": "an examination administered in the middle of an academic term",
+    "tr_word": "vize",
+    "tr_definition": "Akademik bir dönemin ortasında yapılan ara sınav.",
+    "ru_word": "промежуточный экзамен",
+    "ru_definition": "Экзамен, проводимый в середине учебного семестра.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ara sınav"
+                ],
+                "Azerbaijani": [
+                    "ara imtahan",
+                    "yarımil imtahanı"
+                ],
+                "Turkmen": [
+                    "ara synag",
+                    "ara barlag"
+                ],
+                "Uzbek": [
+                    "oraliq nazorat",
+                    "oraliq imtihon"
+                ],
+                "Kazakh": [
+                    "аралық бақылау",
+                    "аралық емтихан"
+                ],
+                "Kyrgyz": [
+                    "аралык сынак",
+                    "аралык текшерүү"
+                ],
+                "Karakalpak": [
+                    "aralıq baqılau",
+                    "aralıq sınaq"
+                ],
+                "Tatar": [
+                    "арадаш имтихан",
+                    "ара имтихан"
+                ],
+                "Bashkir": [
+                    "аралыҡ имтихан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "orta imtahan"
+                ],
+                "Turkmen": [
+                    "orta synag"
+                ],
+                "Kazakh": [
+                    "орта мерзімдік сынақ"
+                ],
+                "Kyrgyz": [
+                    "ортолук сынак"
+                ],
+                "Karakalpak": [
+                    "ortalıq emtixan"
+                ],
+                "Tatar": [
+                    "урта имтихан"
+                ],
+                "Bashkir": [
+                    "урта имтихан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vize"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرا مەزگىللىك ئىمتىھان",
+                    "مەزگىل ئوتتۇرىسىدىكى ئىمتىھان",
+                    "ئوتتۇرا مەزگىل ئىمتىھانى"
+                ]
+            }
+        }
+    ]
+}

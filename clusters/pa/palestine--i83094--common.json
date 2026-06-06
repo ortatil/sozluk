@@ -1,0 +1,74 @@
+{
+    "id": "i83094",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "palestine",
+    "en_definition": "an ancient country in southwestern Asia on the east coast of the Mediterranean Sea; a place of pilgrimage for Christianity and Islam and Judaism",
+    "tr_word": "Filistin",
+    "tr_definition": "Akdeniz'in doğu kıyısında, güneybatı Asya'da bulunan antik bir ülke; Hristiyanlık, İslam ve Yahudilik için bir hac yeri.",
+    "ru_word": "Палестина",
+    "ru_definition": "древняя страна в Юго-Западной Азии на восточном побережье Средиземного моря; место паломничества христиан, мусульман и иудеев.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Filistin"
+                ],
+                "Azerbaijani": [
+                    "Fələstin",
+                    "Fələstin torpağı"
+                ],
+                "Turkmen": [
+                    "Palestina",
+                    "Filistin"
+                ],
+                "Uzbek": [
+                    "Falastin",
+                    "Filastin"
+                ],
+                "Uyghur": [
+                    "پەلەستىن",
+                    "پەلەستىن زېمىنى"
+                ],
+                "Kazakh": [
+                    "Палестина",
+                    "Филистин"
+                ],
+                "Kyrgyz": [
+                    "Палестина",
+                    "Фаластин"
+                ],
+                "Karakalpak": [
+                    "Pálestin",
+                    "Falastın"
+                ],
+                "Tatar": [
+                    "Фәләстин",
+                    "Фәләстыйн"
+                ],
+                "Bashkir": [
+                    "Фәләстин",
+                    "Фәләстан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Arz-ı Filistin"
+                ],
+                "Azerbaijani": [
+                    "Ərz-i Fələstin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kenan Diyarı"
+                ]
+            }
+        }
+    ]
+}

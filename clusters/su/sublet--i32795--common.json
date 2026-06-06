@@ -1,0 +1,148 @@
+{
+    "id": "i32795",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "sublet",
+    "en_definition": "lease or rent all or part of (a leased or rented property) to another person",
+    "tr_word": "alt kiraya vermek",
+    "tr_definition": "kiralanmış bir mülkün tamamını veya bir kısmını başka birine kiralamak",
+    "ru_word": "сдавать в субаренду",
+    "ru_definition": "передавать арендованное имущество или его часть в пользование другому лицу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan kärendesine bermek",
+                    "gaýtadan kireýine bermek",
+                    "subkärende bermek"
+                ],
+                "Uzbek": [
+                    "qayta ijaraga bermoq"
+                ],
+                "Uyghur": [
+                    "قايتا ئىجارىگە بېرىش"
+                ],
+                "Kazakh": [
+                    "қайта жалға беру"
+                ],
+                "Kyrgyz": [
+                    "кайра ижарага берүү"
+                ],
+                "Karakalpak": [
+                    "qayta ijaraǵa berio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "icarəyə vermək"
+                ],
+                "Uzbek": [
+                    "ijaraga bermoq",
+                    "ijaraga topshirmoq"
+                ],
+                "Uyghur": [
+                    "ئىجارىدارغا ئىجارە بېرىش",
+                    "ئىجارىنى ئۆتكۈزۈپ بېرىش"
+                ],
+                "Kyrgyz": [
+                    "ижаралоо"
+                ],
+                "Karakalpak": [
+                    "ijaraǵa berio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alt kiraya vermek"
+                ],
+                "Azerbaijani": [
+                    "alt-icarəyə vermək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekrar kiralamak",
+                    "devren kiralamak"
+                ],
+                "Azerbaijani": [
+                    "təkrar icarəyə vermək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "икенчел арендага бирү"
+                ],
+                "Bashkir": [
+                    "икенсел ҡуртымға биреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kirayəyə vermək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қосалқы жалға беру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалға беру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өткөрүп берүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "арендага бирү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "урлашу",
+                    "урлашка бирү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "артҡы ҡуртымға биреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡуртымға тапшырыу"
+                ]
+            }
+        }
+    ]
+}

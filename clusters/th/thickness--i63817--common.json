@@ -1,0 +1,105 @@
+{
+    "id": "i63817",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "thickness",
+    "en_definition": "the dimension through an object as opposed to its length or width",
+    "tr_word": "kalınlık",
+    "tr_definition": "bir nesnenin boyu veya eni dışındaki üçüncü boyutu, et kalınlığı",
+    "ru_word": "толщина",
+    "ru_definition": "размер предмета в направлении, перпендикулярном его длине и ширине",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kalınlık"
+                ],
+                "Azerbaijani": [
+                    "qalınlıq"
+                ],
+                "Turkmen": [
+                    "galyňlyk"
+                ],
+                "Uzbek": [
+                    "qalinlik"
+                ],
+                "Uyghur": [
+                    "قېلىنلىق"
+                ],
+                "Kazakh": [
+                    "қалыңдық"
+                ],
+                "Kyrgyz": [
+                    "калыңдык"
+                ],
+                "Karakalpak": [
+                    "qalıńlıq"
+                ],
+                "Tatar": [
+                    "калынлык"
+                ],
+                "Bashkir": [
+                    "ҡалынлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yoğunluk"
+                ],
+                "Azerbaijani": [
+                    "yoğunluq"
+                ],
+                "Turkmen": [
+                    "ýogynlyk"
+                ],
+                "Uzbek": [
+                    "yoʻgʻonlik"
+                ],
+                "Karakalpak": [
+                    "juanlıq"
+                ],
+                "Tatar": [
+                    "юанлык"
+                ],
+                "Bashkir": [
+                    "йыуанлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жуандық"
+                ],
+                "Kyrgyz": [
+                    "жоондук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kesafet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "en"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توملۇق"
+                ]
+            }
+        }
+    ]
+}

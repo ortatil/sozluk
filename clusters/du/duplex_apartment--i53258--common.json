@@ -1,0 +1,84 @@
+{
+    "id": "i53258",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "duplex apartment",
+    "en_definition": "an apartment having rooms on two floors that are connected by a staircase",
+    "tr_word": "dubleks daire",
+    "tr_definition": "İçinden merdivenle birbirine bağlı iki katı olan konut.",
+    "ru_word": "двухуровневая квартира",
+    "ru_definition": "Квартира, расположенная на двух этажах, соединенных внутренней лестницей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki katlı daire",
+                    "iki katlı konut"
+                ],
+                "Azerbaijani": [
+                    "iki mərtəbəli mənzil",
+                    "ikiqatlı mənzil"
+                ],
+                "Turkmen": [
+                    "iki gatly jaý",
+                    "iki gatly öý"
+                ],
+                "Uzbek": [
+                    "ikki qavatli xonadon",
+                    "ikki qavatli uy"
+                ],
+                "Uyghur": [
+                    "ئىككى قەۋەتلىك پاتمان"
+                ],
+                "Kazakh": [
+                    "екі қабатты пәтер"
+                ],
+                "Kyrgyz": [
+                    "эки кабаттуу батир",
+                    "эки деңгээлдүү батир"
+                ],
+                "Karakalpak": [
+                    "ekі qabatlı páter",
+                    "ekі qabatlı jay"
+                ],
+                "Tatar": [
+                    "ике катлы фатир",
+                    "ике дәрәҗәле фатир"
+                ],
+                "Bashkir": [
+                    "ике ҡатлы фатир",
+                    "ике кимәлле фатир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dubleks daire"
+                ],
+                "Azerbaijani": [
+                    "dubleks mənzil"
+                ],
+                "Uyghur": [
+                    "دۇپلېكس ئۆي"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşa gatly jaý"
+                ],
+                "Uyghur": [
+                    "قوش قەۋەتلىك ئۆي"
+                ],
+                "Kazakh": [
+                    "қос қабатты пәтер"
+                ]
+            }
+        }
+    ]
+}

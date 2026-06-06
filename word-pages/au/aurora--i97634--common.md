@@ -1,0 +1,173 @@
+# Aurora
+| Field | Detail |
+|---|---|
+| **ID** | i97634 |
+| **English** | aurora |
+| **Type** | noun |
+| **Definition** | an atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth's magnetic lines of force |
+| **Source** | common |
+| **Ortatil** | şafaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **şafaq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| شەپەق | şäpäq |
+
+```json
+{
+    "id": "i97634",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "aurora",
+    "en_definition": "an atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth's magnetic lines of force",
+    "tr_word": "kutup ışıkları",
+    "tr_definition": "Güneş'ten gelen yüklü parçacıkların Dünya'nın manyetik alanı ile etkileşime girmesi sonucu gökyüzünde oluşan renkli ışık dalgaları.",
+    "ru_word": "полярное сияние",
+    "ru_definition": "Свечение верхних слоев атмосферы планет, возникающее вследствие взаимодействия их магнитосфер с заряженными частицами солнечного ветра.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kutup ışıkları",
+                    "kutup şafağı"
+                ],
+                "Azerbaijani": [
+                    "qütb parıltısı"
+                ],
+                "Uzbek": [
+                    "qutb yog'dusi"
+                ],
+                "Uyghur": [
+                    "قۇتۇپ نۇرى"
+                ],
+                "Kazakh": [
+                    "құттық шұғыла"
+                ],
+                "Karakalpak": [
+                    "qutb shұǵılası"
+                ],
+                "Tatar": [
+                    "котып балкышы"
+                ],
+                "Bashkir": [
+                    "ҡотоп балҡышы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəfəq"
+                ],
+                "Turkmen": [
+                    "şapak"
+                ],
+                "Uzbek": [
+                    "shafaq"
+                ],
+                "Uyghur": [
+                    "شەپەق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tan kızıllığı"
+                ],
+                "Tatar": [
+                    "төньяк балкышы",
+                    "төньяк нуры"
+                ],
+                "Bashkir": [
+                    "төньяҡ балҡышы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şimal işıqları"
+                ],
+                "Uzbek": [
+                    "shimoliy yog'du"
+                ],
+                "Kazakh": [
+                    "аспан шұғыласы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстік шұғыласы"
+                ],
+                "Karakalpak": [
+                    "soltústіk shұǵılası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daň şapagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demirgazyk şapagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уюлдук жаркыроо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түндүк жаркыроосу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "асман жаркыроосу"
+                ]
+            }
+        }
+    ]
+}
+```
+

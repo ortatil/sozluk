@@ -1,0 +1,127 @@
+{
+    "id": "i15686",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "monetary",
+    "en_definition": "relating to or involving money",
+    "tr_word": "parasal",
+    "tr_definition": "para ile ilgili olan veya paraya dayanan",
+    "ru_word": "денежный",
+    "ru_definition": "относящийся к деньгам или связанный с ними",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mali"
+                ],
+                "Azerbaijani": [
+                    "maliyyə"
+                ],
+                "Turkmen": [
+                    "maliýe"
+                ],
+                "Uzbek": [
+                    "moliya",
+                    "moliyaviy"
+                ],
+                "Uyghur": [
+                    "مالىيە"
+                ],
+                "Karakalpak": [
+                    "maliy"
+                ],
+                "Tatar": [
+                    "мали"
+                ],
+                "Bashkir": [
+                    "мали"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ақшалай",
+                    "ақша"
+                ],
+                "Kyrgyz": [
+                    "акчалай",
+                    "акча"
+                ],
+                "Karakalpak": [
+                    "aqshalay"
+                ],
+                "Tatar": [
+                    "акчалата",
+                    "акча"
+                ],
+                "Bashkir": [
+                    "аҡсалата",
+                    "аҡса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nakdi"
+                ],
+                "Azerbaijani": [
+                    "nəğdi"
+                ],
+                "Uzbek": [
+                    "naqd"
+                ],
+                "Uyghur": [
+                    "نەق پۇل"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pul"
+                ],
+                "Turkmen": [
+                    "pul",
+                    "pul-karz"
+                ],
+                "Uzbek": [
+                    "pulga oid"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қаржылық"
+                ],
+                "Kyrgyz": [
+                    "каржылык"
+                ],
+                "Karakalpak": [
+                    "qarjılıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "parasal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇلغا مۇناسىۋەتلىك"
+                ]
+            }
+        }
+    ]
+}

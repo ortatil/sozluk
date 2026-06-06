@@ -1,0 +1,118 @@
+{
+    "id": "i112245",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "migraine",
+    "en_definition": "a severe recurring vascular headache; occurs more frequently in women than men",
+    "tr_word": "migren",
+    "tr_definition": "Genellikle tek taraflı, şiddetli ve zonklayıcı bir şekilde ortaya çıkan, sıklıkla mide bulantısı ve ışığa duyarlılıkla seyreden bir baş ağrısı türü.",
+    "ru_word": "мигрень",
+    "ru_definition": "Неврологическое заболевание, наиболее частым и характерным симптомом которого являются эпизодические или регулярные сильные и мучительные приступы головной боли.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarım baş ağrısı"
+                ],
+                "Azerbaijani": [
+                    "yarımbaş ağrısı"
+                ],
+                "Turkmen": [
+                    "ýarymbaş"
+                ],
+                "Uzbek": [
+                    "yarim bosh ogʻrigʻi"
+                ],
+                "Uyghur": [
+                    "يېرىم باش ئاغرىقى"
+                ],
+                "Kazakh": [
+                    "жарты бас ауруы"
+                ],
+                "Kyrgyz": [
+                    "жарым баш оору"
+                ],
+                "Tatar": [
+                    "ярымбаш"
+                ],
+                "Bashkir": [
+                    "ярымбаш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şakika"
+                ],
+                "Azerbaijani": [
+                    "şəqiqə"
+                ],
+                "Uzbek": [
+                    "shaqiqa"
+                ],
+                "Uyghur": [
+                    "شەقىقە"
+                ],
+                "Kazakh": [
+                    "сақина"
+                ],
+                "Kyrgyz": [
+                    "шакый"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "başagyry"
+                ],
+                "Kazakh": [
+                    "бас сақинасы"
+                ],
+                "Kyrgyz": [
+                    "баш оору"
+                ],
+                "Karakalpak": [
+                    "bas aoırıo",
+                    "bas saqinası"
+                ],
+                "Tatar": [
+                    "баш авыртуы",
+                    "баш сызлавы"
+                ],
+                "Bashkir": [
+                    "баш һыҙлауы",
+                    "баш ауыртыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "migren"
+                ],
+                "Azerbaijani": [
+                    "miqren"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tutgaýly başagyry"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sozılmalı bas aoırıo"
+                ]
+            }
+        }
+    ]
+}

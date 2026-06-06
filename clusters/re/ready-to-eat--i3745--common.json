@@ -1,0 +1,136 @@
+{
+    "id": "i3745",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "ready-to-eat",
+    "en_definition": "food products that are prepared in advance and can be eaten as sold",
+    "tr_word": "hazır yemek",
+    "tr_definition": "önceden hazırlanmış ve satın alındığı gibi tüketilebilen gıda ürünleri",
+    "ru_word": "готовый к употреблению",
+    "ru_definition": "пищевые продукты, которые приготовлены заранее и могут быть съедены сразу после покупки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pişmiş"
+                ],
+                "Azerbaijani": [
+                    "bişmiş"
+                ],
+                "Turkmen": [
+                    "bişen"
+                ],
+                "Uzbek": [
+                    "pishgan"
+                ],
+                "Uyghur": [
+                    "پىشقان"
+                ],
+                "Kazakh": [
+                    "піскен"
+                ],
+                "Kyrgyz": [
+                    "бышкан"
+                ],
+                "Karakalpak": [
+                    "pisken"
+                ],
+                "Bashkir": [
+                    "бешкән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýýar"
+                ],
+                "Uzbek": [
+                    "tayyor"
+                ],
+                "Uyghur": [
+                    "تەييار",
+                    "تەييار-تۇزۇق",
+                    "تەييار تاماق"
+                ],
+                "Kazakh": [
+                    "дайын",
+                    "даяр"
+                ],
+                "Kyrgyz": [
+                    "даяр",
+                    "даярдалган"
+                ],
+                "Karakalpak": [
+                    "tayın",
+                    "dayar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "әзір"
+                ],
+                "Tatar": [
+                    "әзер",
+                    "әзерләнгән"
+                ],
+                "Bashkir": [
+                    "әҙер",
+                    "әҙерләнгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hazır",
+                    "hazır yemek"
+                ],
+                "Azerbaijani": [
+                    "hazır",
+                    "hazırlanmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tüketime hazır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iýmäge taýýar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "iste'molga tayyor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muhayyo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ашарга әзер"
+                ]
+            }
+        }
+    ]
+}

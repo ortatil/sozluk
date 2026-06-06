@@ -1,0 +1,102 @@
+{
+    "id": "i11827",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "bearded",
+    "en_definition": "having hair on the cheeks and chin",
+    "tr_word": "sakallı",
+    "tr_definition": "yanaklarında ve çenesinde kıl olan",
+    "ru_word": "бородатый",
+    "ru_definition": "имеющий волосы на щеках и подбородке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sakallı"
+                ],
+                "Azerbaijani": [
+                    "saqqallı",
+                    "saqqallı-bığlı"
+                ],
+                "Turkmen": [
+                    "sakally"
+                ],
+                "Uzbek": [
+                    "soqolli",
+                    "soqoldor"
+                ],
+                "Uyghur": [
+                    "ساقاللىق",
+                    "ساقال-بۇرۇتلۇق"
+                ],
+                "Kazakh": [
+                    "сақалды",
+                    "сақал-мұртты"
+                ],
+                "Kyrgyz": [
+                    "сакалдуу",
+                    "сакалчан"
+                ],
+                "Karakalpak": [
+                    "saqallı"
+                ],
+                "Tatar": [
+                    "сакаллы"
+                ],
+                "Bashkir": [
+                    "һаҡаллы",
+                    "һаҡал-моронло"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "köse olmayan"
+                ],
+                "Kazakh": [
+                    "көсе емес"
+                ],
+                "Karakalpak": [
+                    "kóse emes"
+                ],
+                "Tatar": [
+                    "күсәле"
+                ],
+                "Bashkir": [
+                    "көсөктө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tüylü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "köşə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lebi-sakally"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sersoqol"
+                ]
+            }
+        }
+    ]
+}

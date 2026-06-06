@@ -1,0 +1,233 @@
+# Riptide
+| Field | Detail |
+|---|---|
+| **ID** | i75617 |
+| **English** | riptide |
+| **Type** | noun |
+| **Definition** | a stretch of turbulent water in a river or the sea caused by one current flowing into or across another current |
+| **Source** | common |
+| **Ortatil** | girdäpim |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **girdäpim** | **burulğan** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ❌ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.67 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.20 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **2.77** | **1.37** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قاينام | qaynam |
+| قاينام-تاشقىن | qaynam-taşqin |
+| **Kazakh** | |
+| иірім | iirim |
+| **Kyrgyz** | |
+| ирим | irim |
+| бурулма | burulma |
+| **Tatar** | |
+| өермә | öyermä |
+| **Bashkir** | |
+| өйөрмә | öyörmä |
+
+```json
+{
+    "id": "i75617",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "riptide",
+    "en_definition": "a stretch of turbulent water in a river or the sea caused by one current flowing into or across another current",
+    "tr_word": "anafor",
+    "tr_definition": "birbirine zıt akan akıntıların veya rüzgarın etkisiyle oluşan su burgacı veya çalkantılı su alanı",
+    "ru_word": "сулой",
+    "ru_definition": "волнение на поверхности моря, возникающее при встрече двух противоположных течений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "girdap"
+                ],
+                "Turkmen": [
+                    "girdap"
+                ],
+                "Uzbek": [
+                    "girdob"
+                ],
+                "Kazakh": [
+                    "иірім"
+                ],
+                "Kyrgyz": [
+                    "ирим"
+                ],
+                "Karakalpak": [
+                    "irim"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýnam"
+                ],
+                "Uzbek": [
+                    "qaytar oqim"
+                ],
+                "Uyghur": [
+                    "قاينام",
+                    "قاينام-تاشقىن"
+                ],
+                "Kazakh": [
+                    "қайтпа толқын"
+                ],
+                "Karakalpak": [
+                    "qaytar aǵıs"
+                ],
+                "Tatar": [
+                    "кайнар агым"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ters akıntı"
+                ],
+                "Azerbaijani": [
+                    "tərs axın"
+                ],
+                "Turkmen": [
+                    "ters akym"
+                ],
+                "Kazakh": [
+                    "кері ағыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qarşı axın"
+                ],
+                "Kyrgyz": [
+                    "кайрылма агым",
+                    "каршы агым"
+                ],
+                "Tatar": [
+                    "каршы агым"
+                ],
+                "Bashkir": [
+                    "ҡаршы ағым",
+                    "ҡаршы тулҡын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "burulğan",
+                    "burulğanlı su"
+                ],
+                "Turkmen": [
+                    "burum"
+                ],
+                "Kyrgyz": [
+                    "бурулма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "toʻlqinlar toʻqnashuvi"
+                ],
+                "Kazakh": [
+                    "толқын соқпасы"
+                ],
+                "Karakalpak": [
+                    "tolqın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өермә"
+                ],
+                "Bashkir": [
+                    "өйөрмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anafor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalkantı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dalga çatışması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shovva"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەتۈر ئېقىن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тискәре агым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ағымдар бәрелеше"
+                ]
+            }
+        }
+    ]
+}
+```
+

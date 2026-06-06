@@ -1,0 +1,91 @@
+{
+    "id": "i94053",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "watercolorist",
+    "en_definition": "a painter who paints with watercolors",
+    "tr_word": "sulu boya ressamı",
+    "tr_definition": "Sulu boya kullanarak resim yapan sanatçı.",
+    "ru_word": "акварелист",
+    "ru_definition": "Художник, пишущий акварелью.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "akvarelçi"
+                ],
+                "Turkmen": [
+                    "akwarelçy",
+                    "akwarel ussady"
+                ],
+                "Uzbek": [
+                    "akvarelchi"
+                ],
+                "Kazakh": [
+                    "акварельші"
+                ],
+                "Kyrgyz": [
+                    "акварельчи",
+                    "акварель сүрөтчүсү"
+                ],
+                "Karakalpak": [
+                    "akwarelshi",
+                    "akwarel sheberi"
+                ],
+                "Tatar": [
+                    "акварельче",
+                    "акварель рәссамы"
+                ],
+                "Bashkir": [
+                    "акварельсе",
+                    "акварель менән һүрәт төшөрөүсе",
+                    "акварель рәссамы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "suluboyacı",
+                    "suluboya ressamı"
+                ],
+                "Azerbaijani": [
+                    "sulu boya rəssamı"
+                ],
+                "Turkmen": [
+                    "suwly boýagçy"
+                ],
+                "Uyghur": [
+                    "سۇ بوياقچى",
+                    "سۇ بوياق رەسسامى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "суретші"
+                ],
+                "Karakalpak": [
+                    "súoretshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "musavvir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rangtasvirchi"
+                ]
+            }
+        }
+    ]
+}

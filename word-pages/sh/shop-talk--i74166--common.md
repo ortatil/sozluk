@@ -1,0 +1,163 @@
+# Shop talk
+| Field | Detail |
+|---|---|
+| **ID** | i74166 |
+| **English** | shop talk |
+| **Type** | noun |
+| **Definition** | talk about your business that only others in the same business can understand |
+| **Source** | common |
+| **Ortatil** | istilähät |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i74166",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shop talk",
+    "en_definition": "talk about your business that only others in the same business can understand",
+    "tr_word": "mesleki konuşma",
+    "tr_definition": "sadece aynı meslekten olan kişilerin anlayabileceği, iş ve meslek üzerine yapılan konuşma",
+    "ru_word": "разговор на профессиональные темы",
+    "ru_definition": "разговоры о делах или работе, понятные только людям той же профессии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "käriň gürrüňi"
+                ],
+                "Kazakh": [
+                    "кәсіби әңгіме"
+                ],
+                "Kyrgyz": [
+                    "кесиптик сөз",
+                    "кесиптик тил"
+                ],
+                "Karakalpak": [
+                    "kásibiy sóylesio",
+                    "kásipdarlıq sáobet",
+                    "kásip tili"
+                ],
+                "Bashkir": [
+                    "кәсеп һүҙе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iş konuşması",
+                    "iş muhabbeti"
+                ],
+                "Azerbaijani": [
+                    "iş söhbəti"
+                ],
+                "Kyrgyz": [
+                    "иш тууралуу сүйлөшүү"
+                ],
+                "Tatar": [
+                    "эш сөйләшүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hünär gürrüňi"
+                ],
+                "Uzbek": [
+                    "hunar siri"
+                ],
+                "Tatar": [
+                    "һөнәри сөйләшү",
+                    "һөнәри тел"
+                ],
+                "Bashkir": [
+                    "һөнәр һөйләшеүе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtisas söhbəti"
+                ],
+                "Uzbek": [
+                    "istilohot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kasbiy suhbat"
+                ],
+                "Uyghur": [
+                    "كەسپىي پاراڭ",
+                    "كەسپىي سۆھبەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "soha tili"
+                ],
+                "Uyghur": [
+                    "ساھە پارىڭى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meslek muhabbeti",
+                    "mesleki sohbet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşə söhbəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iş gürrüňi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іс жайындағы сөз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мамандық тілі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "эш һүҙе"
+                ]
+            }
+        }
+    ]
+}
+```
+

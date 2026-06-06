@@ -1,0 +1,92 @@
+{
+    "id": "i60998",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water cooler",
+    "en_definition": "a device for cooling and dispensing drinking water",
+    "tr_word": "su sebili",
+    "tr_definition": "içme suyunu soğutan ve dağıtan bir cihaz",
+    "ru_word": "кулер для воды",
+    "ru_definition": "устройство для охлаждения и дозирования питьевой воды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su sebili",
+                    "su makinesi"
+                ],
+                "Azerbaijani": [
+                    "su soyuducusu",
+                    "su paylayıcısı",
+                    "su aparatı"
+                ],
+                "Turkmen": [
+                    "su sowadyjy",
+                    "suw sowadyjy",
+                    "suw paýlaýjy"
+                ],
+                "Uzbek": [
+                    "suv sovutgich",
+                    "suv tarqatgich",
+                    "suv idishi"
+                ],
+                "Uyghur": [
+                    "سۇ سوۋۇتقۇچ",
+                    "سۇ سوۋۇتۇش ئۈسكۈنىسى"
+                ],
+                "Kazakh": [
+                    "су салқындатқыш",
+                    "су суытқыш",
+                    "су таратқыш"
+                ],
+                "Kyrgyz": [
+                    "суу муздаткыч",
+                    "суу идиш",
+                    "суу бергич"
+                ],
+                "Karakalpak": [
+                    "suo suoıtqısh",
+                    "suo salqındatqısh"
+                ],
+                "Tatar": [
+                    "су суыткыч",
+                    "су савыты",
+                    "су өләшүче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soğuk su pınarı"
+                ],
+                "Karakalpak": [
+                    "suo dispenseri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىچىملىك سۇ سوۋۇتقۇچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу һыуытҡыс",
+                    "һыу һыуытыу ҡоролмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу өләшкәс"
+                ]
+            }
+        }
+    ]
+}

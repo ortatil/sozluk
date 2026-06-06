@@ -1,0 +1,188 @@
+# Halve
+| Field | Detail |
+|---|---|
+| **ID** | i24947 |
+| **English** | halve |
+| **Type** | verb |
+| **Definition** | divide by two; divide into halves |
+| **Source** | common |
+| **Ortatil** | jarmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jarmaq** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.83** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жару | jaru |
+| **Kyrgyz** | |
+| жарымдоо | jarımdoo |
+| **Tatar** | |
+| яру | yaru |
+| **Bashkir** | |
+| яртылау | yartılau |
+
+```json
+{
+    "id": "i24947",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "halve",
+    "en_definition": "divide by two; divide into halves",
+    "tr_word": "ikiye bölmek",
+    "tr_definition": "bir şeyi iki eşit parçaya ayırmak",
+    "ru_word": "делить пополам",
+    "ru_definition": "разделять что-либо на две равные части",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ikiye bölmek",
+                    "ikiye ayırmak"
+                ],
+                "Azerbaijani": [
+                    "iki yerə bölmək"
+                ],
+                "Turkmen": [
+                    "ikä bölmek"
+                ],
+                "Uzbek": [
+                    "ikkiga bo'lmoq"
+                ],
+                "Uyghur": [
+                    "ئىككىگە بۆلمەك"
+                ],
+                "Kazakh": [
+                    "екіге бөлу"
+                ],
+                "Kyrgyz": [
+                    "экиге бөлүү"
+                ],
+                "Karakalpak": [
+                    "ekіge bólu"
+                ],
+                "Tatar": [
+                    "икегә бүлү"
+                ],
+                "Bashkir": [
+                    "икегә бүлеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarılamak",
+                    "yarıya bölmek"
+                ],
+                "Azerbaijani": [
+                    "yarıya bölmək",
+                    "yarı bölmək"
+                ],
+                "Turkmen": [
+                    "ýarym etmek"
+                ],
+                "Uzbek": [
+                    "yarimlamoq"
+                ],
+                "Uyghur": [
+                    "يېرىم قىلماق"
+                ],
+                "Kazakh": [
+                    "жару"
+                ],
+                "Kyrgyz": [
+                    "жарымдоо"
+                ],
+                "Karakalpak": [
+                    "jaru"
+                ],
+                "Tatar": [
+                    "яру"
+                ],
+                "Bashkir": [
+                    "яртылау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ortadan bölmek"
+                ],
+                "Kazakh": [
+                    "ортасынан бөлу"
+                ],
+                "Kyrgyz": [
+                    "ортодон бөлүү"
+                ],
+                "Karakalpak": [
+                    "ortasınan bólu"
+                ],
+                "Tatar": [
+                    "урталай бүлү"
+                ],
+                "Bashkir": [
+                    "урталай бүлеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tən bölmək"
+                ],
+                "Uyghur": [
+                    "تەڭ بۆلمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қақ бөлу"
+                ],
+                "Karakalpak": [
+                    "qaq bólu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "paýlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nimta qilmoq"
+                ]
+            }
+        }
+    ]
+}
+```
+

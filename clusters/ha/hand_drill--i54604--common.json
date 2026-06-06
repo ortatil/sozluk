@@ -1,0 +1,114 @@
+{
+    "id": "i54604",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hand drill",
+    "en_definition": "a small portable drill held and operated by hand",
+    "tr_word": "el matkabı",
+    "tr_definition": "elle tutulan ve manuel olarak çalıştırılan küçük, taşınabilir bir matkap",
+    "ru_word": "ручная дрель",
+    "ru_definition": "небольшой портативный инструмент для сверления отверстий, приводимый в движение вручную",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻl parmasi"
+                ],
+                "Uyghur": [
+                    "قول بۇرغىسى",
+                    "قول بۇرغۇ"
+                ],
+                "Kazakh": [
+                    "қол бұрғы",
+                    "қол бұрғысы"
+                ],
+                "Kyrgyz": [
+                    "кол бургу"
+                ],
+                "Karakalpak": [
+                    "qol burau",
+                    "qol parma"
+                ],
+                "Tatar": [
+                    "кул боравы"
+                ],
+                "Bashkir": [
+                    "ҡул бырауы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бұрғы"
+                ],
+                "Kyrgyz": [
+                    "бургу"
+                ],
+                "Karakalpak": [
+                    "bұrǵı"
+                ],
+                "Tatar": [
+                    "борау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "el bürgüsü",
+                    "el delgisi"
+                ],
+                "Azerbaijani": [
+                    "əl dreli",
+                    "əl burğusu"
+                ],
+                "Turkmen": [
+                    "el burghysy",
+                    "el bürgüsi",
+                    "el drel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el matkabı"
+                ],
+                "Azerbaijani": [
+                    "əl matqabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastparma"
+                ],
+                "Uyghur": [
+                    "دەستە بۇرغۇ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "parma"
+                ],
+                "Bashkir": [
+                    "бырау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кол шиш"
+                ]
+            }
+        }
+    ]
+}

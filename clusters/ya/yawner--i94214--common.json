@@ -1,0 +1,90 @@
+{
+    "id": "i94214",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "yawner",
+    "en_definition": "a person who yawns",
+    "tr_word": "esneyen kişi",
+    "tr_definition": "esneme eylemini gerçekleştiren kimse",
+    "ru_word": "зевающий",
+    "ru_definition": "человек, который зевает",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "esneyen",
+                    "esneyici"
+                ],
+                "Azerbaijani": [
+                    "əsnəyən",
+                    "əsnəyən kəs",
+                    "əsnəyən adam"
+                ],
+                "Uzbek": [
+                    "eshnaydigan",
+                    "eshnayotgan kishi"
+                ],
+                "Kazakh": [
+                    "есінеуші"
+                ],
+                "Kyrgyz": [
+                    "эстеген киши"
+                ],
+                "Karakalpak": [
+                    "esineoshi"
+                ],
+                "Tatar": [
+                    "иснәүче",
+                    "иснәүче кеше"
+                ],
+                "Bashkir": [
+                    "иҫнәүсе",
+                    "иҫнәүсән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "og'iz ochuvchi"
+                ],
+                "Uyghur": [
+                    "ئېغىز ئاچقۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есінеген адам"
+                ],
+                "Karakalpak": [
+                    "esinegen adam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "asgyryjy",
+                    "asgyrýan adam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھاسا ئۇرغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эстөөчү"
+                ]
+            }
+        }
+    ]
+}

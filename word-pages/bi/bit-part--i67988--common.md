@@ -1,0 +1,164 @@
+# Bit part
+| Field | Detail |
+|---|---|
+| **ID** | i67988 |
+| **English** | bit part |
+| **Type** | noun |
+| **Definition** | a small role |
+| **Source** | common |
+| **Ortatil** | figiränlik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i67988",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bit part",
+    "en_definition": "a small role",
+    "tr_word": "küçük rol",
+    "tr_definition": "bir tiyatro oyununda veya filmde çok az diyaloğu olan veya hiç olmayan önemsiz rol",
+    "ru_word": "эпизодическая роль",
+    "ru_definition": "незначительная роль в кино или спектакле, часто без слов или с минимальным количеством реплик",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük rol"
+                ],
+                "Azerbaijani": [
+                    "kiçik rol"
+                ],
+                "Turkmen": [
+                    "kiçi rol"
+                ],
+                "Uzbek": [
+                    "kichik rol"
+                ],
+                "Uyghur": [
+                    "كىچىك رول"
+                ],
+                "Kazakh": [
+                    "кіші рөл"
+                ],
+                "Kyrgyz": [
+                    "кичине роль"
+                ],
+                "Karakalpak": [
+                    "kishi rol"
+                ],
+                "Tatar": [
+                    "кечкенә роль",
+                    "кыска роль"
+                ],
+                "Bashkir": [
+                    "кесе роль"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "epizodik rol"
+                ],
+                "Turkmen": [
+                    "epizodik rol"
+                ],
+                "Uzbek": [
+                    "epizodik rol"
+                ],
+                "Uyghur": [
+                    "ئېپىزوتىك رول"
+                ],
+                "Kazakh": [
+                    "епізодтық рөл"
+                ],
+                "Kyrgyz": [
+                    "эпизоддук роль"
+                ],
+                "Karakalpak": [
+                    "epizodlıq rol"
+                ],
+                "Bashkir": [
+                    "эпизодик роль"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ikinci dərəcəli rol"
+                ],
+                "Uzbek": [
+                    "ikkinchi darajali rol"
+                ],
+                "Tatar": [
+                    "икенчел роль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوشۇمچە رول"
+                ],
+                "Kazakh": [
+                    "қосалқы рөл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "járdemshi rol"
+                ],
+                "Tatar": [
+                    "ярдәмче роль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "figüranlık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yan rol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шағын рөл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "майда роль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәй роль"
+                ]
+            }
+        }
+    ]
+}
+```
+

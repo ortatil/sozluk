@@ -1,0 +1,181 @@
+# Bridesmaid
+| Field | Detail |
+|---|---|
+| **ID** | i88698 |
+| **English** | bridesmaid |
+| **Type** | noun |
+| **Definition** | an unmarried woman who attends the bride at a wedding |
+| **Source** | common |
+| **Ortatil** | jeñge |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jeñge** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.47** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| يەڭگە | yäñgä |
+| **Kazakh** | |
+| жеңге | jeñge |
+| құрбы | qurbı |
+| **Kyrgyz** | |
+| жеңе | jeñe |
+| курбу | kurbu |
+| **Tatar** | |
+| яңгышар | yañgışar |
+
+```json
+{
+    "id": "i88698",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bridesmaid",
+    "en_definition": "an unmarried woman who attends the bride at a wedding",
+    "tr_word": "nedime",
+    "tr_definition": "Düğünde geline eşlik eden ve ona yardımcı olan genç kadın.",
+    "ru_word": "подружка невесты",
+    "ru_definition": "Незамужняя женщина, сопровождающая невесту на свадьбе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yengə"
+                ],
+                "Turkmen": [
+                    "ýeňňe"
+                ],
+                "Uzbek": [
+                    "yangatushar"
+                ],
+                "Uyghur": [
+                    "يەڭگە"
+                ],
+                "Kazakh": [
+                    "жеңге"
+                ],
+                "Kyrgyz": [
+                    "жеңе"
+                ],
+                "Karakalpak": [
+                    "jeńge"
+                ],
+                "Tatar": [
+                    "яңгышар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қыз жолдас"
+                ],
+                "Kyrgyz": [
+                    "кыз жолдош"
+                ],
+                "Karakalpak": [
+                    "qız joldas",
+                    "qız nóker"
+                ],
+                "Tatar": [
+                    "кыз юлдашы",
+                    "кыз иптәше"
+                ],
+                "Bashkir": [
+                    "ҡыҙ юлдашы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gelin ardıcı",
+                    "gelin yoldaşı"
+                ],
+                "Azerbaijani": [
+                    "gəlin yoldaşı"
+                ],
+                "Turkmen": [
+                    "gelinaljy",
+                    "gelin ýoldaşy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sağdıç"
+                ],
+                "Azerbaijani": [
+                    "sağdış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hamroh"
+                ],
+                "Uyghur": [
+                    "ھەمراھ قىز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوش قىز"
+                ],
+                "Bashkir": [
+                    "йәш ҡыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құрбы"
+                ],
+                "Kyrgyz": [
+                    "курбу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dugona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йәш килен"
+                ]
+            }
+        }
+    ]
+}
+```
+

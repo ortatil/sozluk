@@ -1,0 +1,182 @@
+# Mailing list
+| Field | Detail |
+|---|---|
+| **ID** | i70576 |
+| **English** | mailing list |
+| **Type** | noun |
+| **Definition** | a list of names and addresses to which advertising material is mailed |
+| **Source** | common |
+| **Ortatil** | tizimdeme |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| тізімдеме | tizimdeme |
+| тізім | tizim |
+
+```json
+{
+    "id": "i70576",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mailing list",
+    "en_definition": "a list of names and addresses to which advertising material is mailed",
+    "tr_word": "posta listesi",
+    "tr_definition": "reklam materyallerinin postalandığı isim ve adreslerin listesi",
+    "ru_word": "список рассылки",
+    "ru_definition": "список имен и адресов, по которым рассылаются рекламные материалы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hat sanawy"
+                ],
+                "Uyghur": [
+                    "خەت-چەك تىزىملىكى"
+                ],
+                "Kazakh": [
+                    "хат-хабар тізімі"
+                ],
+                "Karakalpak": [
+                    "xat-xabar dizimi",
+                    "xat jollao dizimi"
+                ],
+                "Tatar": [
+                    "хатлашу исемлеге"
+                ],
+                "Bashkir": [
+                    "хатлашыу исемлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "posta listesi"
+                ],
+                "Azerbaijani": [
+                    "poçt siyahısı"
+                ],
+                "Turkmen": [
+                    "poçta sanawy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adres listesi"
+                ],
+                "Uyghur": [
+                    "ئادرېس تىزىملىكى",
+                    "ئالاقە تىزىملىكى"
+                ],
+                "Tatar": [
+                    "адреслар исемлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haberleşme listesi"
+                ],
+                "Tatar": [
+                    "хәбәрләшү исемлеге"
+                ],
+                "Bashkir": [
+                    "хәбәрләшеү исемлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məktublaşma siyahısı"
+                ],
+                "Uzbek": [
+                    "maktublar roʻyxati"
+                ],
+                "Kazakh": [
+                    "мекенжайлар тізімі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "manzillar roʻyxati"
+                ],
+                "Karakalpak": [
+                    "mánziller dizimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "даректер тизмеси"
+                ],
+                "Bashkir": [
+                    "таратыу исемлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ünvan siyahısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yazışma siyahısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "salgy sanawy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nomalar roʻyxati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тізімдеме",
+                    "тізім"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кат-кабар тизмеси",
+                    "кат тизмеси"
+                ]
+            }
+        }
+    ]
+}
+```
+

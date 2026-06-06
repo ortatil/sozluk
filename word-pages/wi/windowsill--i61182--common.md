@@ -1,0 +1,95 @@
+# Windowsill
+| Field | Detail |
+|---|---|
+| **ID** | i61182 |
+| **English** | windowsill |
+| **Type** | noun |
+| **Definition** | the sill of a window; the horizontal member at the bottom of the window frame |
+| **Source** | common |
+| **Ortatil** | täkçä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i61182",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "windowsill",
+    "en_definition": "the sill of a window; the horizontal member at the bottom of the window frame",
+    "tr_word": "pencere eşiği",
+    "tr_definition": "pencere çerçevesinin alt kısmında bulunan yatay bölme",
+    "ru_word": "подоконник",
+    "ru_definition": "горизонтальная деталь нижней части оконного проема",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "denizlik"
+                ],
+                "Uzbek": [
+                    "deraza tokchasi"
+                ],
+                "Uyghur": [
+                    "دېرىزە تەكچىسى",
+                    "دېرىزە پەلەمپىيى",
+                    "دېرىزە ئالدى"
+                ],
+                "Kazakh": [
+                    "терезе алды",
+                    "терезе ернеуі",
+                    "терезе табалдырығы"
+                ],
+                "Kyrgyz": [
+                    "терезе текчеси",
+                    "терезе алды"
+                ],
+                "Karakalpak": [
+                    "tereze aldı",
+                    "tereze ernegi"
+                ],
+                "Tatar": [
+                    "тәрәзә төбе",
+                    "тәрәзә бусагасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pencere eşiği",
+                    "pencere önü"
+                ],
+                "Azerbaijani": [
+                    "pəncərəaltı",
+                    "pəncərə rəfi"
+                ],
+                "Turkmen": [
+                    "penjire öňi",
+                    "penjire tekjesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tokcha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәҙрә төбө",
+                    "тәҙрә алды"
+                ]
+            }
+        }
+    ]
+}
+```
+

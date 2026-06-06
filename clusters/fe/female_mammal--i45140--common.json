@@ -1,0 +1,102 @@
+{
+    "id": "i45140",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "female mammal",
+    "en_definition": "animals that nourish their young with milk",
+    "tr_word": "dişi memeli",
+    "tr_definition": "yavrularını sütle besleyen dişi hayvan",
+    "ru_word": "самка млекопитающего",
+    "ru_definition": "животное женского пола, вскармливающее детенышей молоком",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ana",
+                    "anne"
+                ],
+                "Azerbaijani": [
+                    "ana heyvan"
+                ],
+                "Turkmen": [
+                    "ene"
+                ],
+                "Kazakh": [
+                    "аналық"
+                ],
+                "Karakalpak": [
+                    "analıq"
+                ],
+                "Tatar": [
+                    "ана",
+                    "аналык",
+                    "ана хайван"
+                ],
+                "Bashkir": [
+                    "инә",
+                    "инәлек",
+                    "инә мал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "urgʻochi"
+                ],
+                "Kazakh": [
+                    "ұрғашы"
+                ],
+                "Kyrgyz": [
+                    "ургаачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dişi"
+                ],
+                "Uyghur": [
+                    "چىشى سۈت ئەمگۈچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dişi məməli"
+                ],
+                "Uyghur": [
+                    "چىشى ھايۋان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mady"
+                ],
+                "Uzbek": [
+                    "mosh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сүт эмүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "uya"
+                ]
+            }
+        }
+    ]
+}

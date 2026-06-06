@@ -1,0 +1,142 @@
+# Syria
+| Field | Detail |
+|---|---|
+| **ID** | i84129 |
+| **English** | syria |
+| **Type** | noun |
+| **Definition** | an Asian republic in the Middle East at the east end of the Mediterranean; site of some of the world's most ancient centers of civilization |
+| **Source** | common |
+| **Ortatil** | suriya, şam |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **suriya** | **şam** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 1 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 1 | 1 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سۇرىيە | suriyä |
+| شام | şam |
+| **Kazakh** | |
+| Сирия | siriya |
+| Шам | şam |
+| **Kyrgyz** | |
+| Сирия | siriya |
+| Шам | şam |
+| **Tatar** | |
+| Сүрия | süriya |
+| Шам | şam |
+| **Bashkir** | |
+| Сүриә | süriä |
+| Шам | şam |
+
+```json
+{
+    "id": "i84129",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "syria",
+    "en_definition": "an Asian republic in the Middle East at the east end of the Mediterranean; site of some of the world's most ancient centers of civilization",
+    "tr_word": "Suriye",
+    "tr_definition": "Orta Doğu'da, Akdeniz'in doğu kıyısında yer alan ve dünyanın en eski medeniyet merkezlerinden bazılarına ev sahipliği yapan bir Asya cumhuriyeti.",
+    "ru_word": "Сирия",
+    "ru_definition": "Азиатская республика на Ближнем Востоке, расположенная в восточной части Средиземноморья; местонахождение некоторых из древнейших мировых центров цивилизации.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Suriye"
+                ],
+                "Azerbaijani": [
+                    "Suriya"
+                ],
+                "Turkmen": [
+                    "Siriýa"
+                ],
+                "Uzbek": [
+                    "Suriya"
+                ],
+                "Uyghur": [
+                    "سۇرىيە"
+                ],
+                "Kazakh": [
+                    "Сирия"
+                ],
+                "Kyrgyz": [
+                    "Сирия"
+                ],
+                "Karakalpak": [
+                    "Siriya"
+                ],
+                "Tatar": [
+                    "Сүрия"
+                ],
+                "Bashkir": [
+                    "Сүриә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Şam"
+                ],
+                "Azerbaijani": [
+                    "Şam"
+                ],
+                "Turkmen": [
+                    "Şam"
+                ],
+                "Uzbek": [
+                    "Shom"
+                ],
+                "Uyghur": [
+                    "شام"
+                ],
+                "Kazakh": [
+                    "Шам"
+                ],
+                "Kyrgyz": [
+                    "Шам"
+                ],
+                "Karakalpak": [
+                    "Sham"
+                ],
+                "Tatar": [
+                    "Шам"
+                ],
+                "Bashkir": [
+                    "Шам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Bilad-ı Şam"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,112 @@
+{
+    "id": "i24211",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "urbanize",
+    "en_definition": "make more industrial or city-like",
+    "tr_word": "kentleşmek",
+    "tr_definition": "Bir yerin sanayileşerek veya nüfus artışıyla şehir özelliklerini kazanmasını sağlamak.",
+    "ru_word": "урбанизировать",
+    "ru_definition": "Придавать чему-либо городской характер, делать более промышленным или похожим на город.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehirleşmek"
+                ],
+                "Azerbaijani": [
+                    "şəhərləşdirmək"
+                ],
+                "Turkmen": [
+                    "şäherleşdirmek",
+                    "şäherleşmek"
+                ],
+                "Uzbek": [
+                    "shaharshunoslik",
+                    "shaharlashtirmoq",
+                    "shahar holiga keltirmoq"
+                ],
+                "Uyghur": [
+                    "شەھەرلەشتۈرمەك",
+                    "شەھەرگە ئايلاندۇرماق",
+                    "شەھەر قۇرماق"
+                ],
+                "Tatar": [
+                    "шәһәрләштерү",
+                    "шәһәр итү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "abadlaşdırmaq"
+                ],
+                "Turkmen": [
+                    "abatlaşdyrmak"
+                ],
+                "Uzbek": [
+                    "obod qilmoq"
+                ],
+                "Karakalpak": [
+                    "abatlandırıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қалаландыру",
+                    "қалаға айналдыру"
+                ],
+                "Karakalpak": [
+                    "qalalastırıo",
+                    "qalaǵa aylandırıo"
+                ],
+                "Bashkir": [
+                    "ҡалалаштырыу",
+                    "ҡалаға әйләндереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kentleşmek"
+                ],
+                "Kazakh": [
+                    "кенттендіру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "medenileşmek"
+                ],
+                "Tatar": [
+                    "мәдәниләштерү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məskunlaşdırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаарлаштыруу",
+                    "шаар кылуу",
+                    "шаардык кылуу"
+                ]
+            }
+        }
+    ]
+}

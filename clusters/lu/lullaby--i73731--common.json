@@ -1,0 +1,112 @@
+{
+    "id": "i73731",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lullaby",
+    "en_definition": "a quiet song intended to lull a child to sleep",
+    "tr_word": "ninni",
+    "tr_definition": "bebekleri uyutmak için söylenen yavaş tempolu ve huzurlu şarkı",
+    "ru_word": "колыбельная",
+    "ru_definition": "тихая песня, предназначенная для убаюкивания ребенка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "alla",
+                    "allov"
+                ],
+                "Uyghur": [
+                    "ئەللەي"
+                ],
+                "Kazakh": [
+                    "әлди"
+                ],
+                "Kyrgyz": [
+                    "алдей"
+                ],
+                "Karakalpak": [
+                    "áldi",
+                    "áldi jırı"
+                ],
+                "Tatar": [
+                    "алла-бәллү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бесік жыры"
+                ],
+                "Kyrgyz": [
+                    "бешик ыры"
+                ],
+                "Karakalpak": [
+                    "bóbek jırı"
+                ],
+                "Tatar": [
+                    "бишек җыры"
+                ],
+                "Bashkir": [
+                    "бишек йыры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "laylay"
+                ],
+                "Azerbaijani": [
+                    "layla",
+                    "laylay"
+                ],
+                "Turkmen": [
+                    "alla",
+                    "läle"
+                ],
+                "Uyghur": [
+                    "ئەللە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ninni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hüwdi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەللەي ناخشىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәллү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "әүәй"
+                ]
+            }
+        }
+    ]
+}

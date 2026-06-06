@@ -1,0 +1,111 @@
+{
+    "id": "i1121",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "bedded",
+    "en_definition": "having a bed or beds as specified",
+    "tr_word": "yataklı",
+    "tr_definition": "belirli bir yatak sayısına veya türüne sahip olan",
+    "ru_word": "кроватный",
+    "ru_definition": "имеющий определенное количество или тип кроватей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "döşekli"
+                ],
+                "Azerbaijani": [
+                    "döşəkli"
+                ],
+                "Uyghur": [
+                    "تۆشەكلىك"
+                ],
+                "Kazakh": [
+                    "төсекті"
+                ],
+                "Kyrgyz": [
+                    "төшөктүү"
+                ],
+                "Karakalpak": [
+                    "tósekli"
+                ],
+                "Tatar": [
+                    "түшәкле"
+                ],
+                "Bashkir": [
+                    "түшәкле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "orunly"
+                ],
+                "Uzbek": [
+                    "oʻrinli"
+                ],
+                "Uyghur": [
+                    "ئورۇنلۇق"
+                ],
+                "Kazakh": [
+                    "орынды"
+                ],
+                "Kyrgyz": [
+                    "орундуу"
+                ],
+                "Karakalpak": [
+                    "orınlı"
+                ],
+                "Tatar": [
+                    "урынлы"
+                ],
+                "Bashkir": [
+                    "урынлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yataklı"
+                ],
+                "Azerbaijani": [
+                    "yataqlı"
+                ],
+                "Turkmen": [
+                    "ýatakly"
+                ],
+                "Uzbek": [
+                    "yotoqli"
+                ],
+                "Kazakh": [
+                    "жайлы"
+                ],
+                "Tatar": [
+                    "ятаклы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "joyli"
+                ],
+                "Kyrgyz": [
+                    "жайлуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كارىۋاتلىق"
+                ]
+            }
+        }
+    ]
+}

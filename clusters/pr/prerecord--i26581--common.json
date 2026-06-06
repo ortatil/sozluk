@@ -1,0 +1,108 @@
+{
+    "id": "i26581",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "prerecord",
+    "en_definition": "record before presentation, as of a broadcast",
+    "tr_word": "önceden kaydetmek",
+    "tr_definition": "Bir yayını veya sunumu gerçekleşmeden önce kayıt altına almak.",
+    "ru_word": "предварительно записывать",
+    "ru_definition": "Записывать что-либо заранее, до момента трансляции или представления.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oldindan yozib olmoq"
+                ],
+                "Uyghur": [
+                    "ئالدىن خاتىرىلىمەك",
+                    "ئالدىن ئېلىۋالماق",
+                    "ئالدىن ئۈنگە ئالماق"
+                ],
+                "Kazakh": [
+                    "алдын ала жазу",
+                    "алдын ала таспалау"
+                ],
+                "Kyrgyz": [
+                    "алдын ала жаздыруу",
+                    "алдын ала жазуу"
+                ],
+                "Karakalpak": [
+                    "aldın ala jazıp alıu",
+                    "aldın ala jazıu"
+                ],
+                "Tatar": [
+                    "алдан яздыру",
+                    "алдан язу"
+                ],
+                "Bashkir": [
+                    "алдан яҙҙырыу",
+                    "алдан яҙып алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "önceden kaydetmek",
+                    "ön kayıt yapmak"
+                ],
+                "Azerbaijani": [
+                    "öncədən yazmaq"
+                ],
+                "Turkmen": [
+                    "öňünden ýazgy etmek",
+                    "öňünden ýazyp almak",
+                    "öňünden ýazmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əvvəlcədən yazmaq"
+                ],
+                "Uzbek": [
+                    "avvaldan yozmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tespit etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabaqcadan yazmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muqaddam yozib olmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мурда жазуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "әзерләп кую"
+                ]
+            }
+        }
+    ]
+}

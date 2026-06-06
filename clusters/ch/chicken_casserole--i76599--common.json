@@ -1,0 +1,85 @@
+{
+    "id": "i76599",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chicken casserole",
+    "en_definition": "chicken cooked and served in a casserole",
+    "tr_word": "tavuk güveç",
+    "tr_definition": "Güveçte pişirilip servis edilen tavuk yemeği.",
+    "ru_word": "куриная запеканка",
+    "ru_definition": "Курица, приготовленная и подаваемая в форме для запекания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavuk güveç",
+                    "tavuklu güveç",
+                    "tavuk sote",
+                    "tavuk yahnisi"
+                ],
+                "Azerbaijani": [
+                    "toyuq quyusu",
+                    "toyuq buğlaması",
+                    "toyuq sacaşı",
+                    "toyuq güvəci"
+                ],
+                "Turkmen": [
+                    "towukly buglama",
+                    "towukly gowurma",
+                    "towukly gazan nahary"
+                ],
+                "Uzbek": [
+                    "tovuq dimlama",
+                    "tovuqli dimlama",
+                    "tovuq xurushi"
+                ],
+                "Uyghur": [
+                    "تۇخۇ گۆشى دۈملىمىسى",
+                    "تۇخۇ دۈملىمىسى",
+                    "تۇخۇ قورۇمىسى"
+                ],
+                "Kazakh": [
+                    "тауық сорпасы"
+                ],
+                "Karakalpak": [
+                    "tauıq buqtırması",
+                    "tauıq qazanı",
+                    "tauıq quırdaǵı"
+                ],
+                "Tatar": [
+                    "тавык бәлеше",
+                    "тавык куырмасы",
+                    "тавык рагуы"
+                ],
+                "Bashkir": [
+                    "тауыҡ быҡтырмаһы",
+                    "тауыҡ ҡурҙағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тауық бұқтырмасы",
+                    "тауық етінен жасалған бұқтырма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоок куурдак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоок демдемеси",
+                    "тоок этинен жасалган тамак"
+                ]
+            }
+        }
+    ]
+}

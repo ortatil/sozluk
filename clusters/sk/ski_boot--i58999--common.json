@@ -1,0 +1,75 @@
+{
+    "id": "i58999",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ski boot",
+    "en_definition": "a stiff boot that is fastened to a ski with a ski binding",
+    "tr_word": "kayak botu",
+    "tr_definition": "kayak bağlaması ile kayağa sabitlenen sert bir bot",
+    "ru_word": "лыжный ботинок",
+    "ru_definition": "жесткий ботинок, который крепится к лыже с помощью лыжного крепления",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "changʻi etik",
+                    "changʻi poyabzali"
+                ],
+                "Kazakh": [
+                    "шаңғы бәтеңкесі",
+                    "шаңғы етігі"
+                ],
+                "Karakalpak": [
+                    "shańǵı ótigi",
+                    "shańǵı báteńkesi"
+                ],
+                "Tatar": [
+                    "чаңгы итеге",
+                    "чаңгы аяк киеме"
+                ],
+                "Bashkir": [
+                    "саңғы итеге",
+                    "саңғы аяҡ кейеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lyža ädigi",
+                    "lyža köwşi"
+                ],
+                "Kyrgyz": [
+                    "лыжа өтүгү",
+                    "лыжа бут кийими"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayak botu",
+                    "kayak çizmesi",
+                    "kayak ayakkabısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xizək çəkməsi",
+                    "xizək ayaqqabısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قار چانىسى ئۆتۈكى",
+                    "قار تېيىلىش ئۆتۈكى"
+                ]
+            }
+        }
+    ]
+}

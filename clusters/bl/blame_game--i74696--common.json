@@ -1,0 +1,188 @@
+{
+    "id": "i74696",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blame game",
+    "en_definition": "accusations exchanged among people who refuse to accept sole responsibility for some undesirable event",
+    "tr_word": "suçlama oyunu",
+    "tr_definition": "istenmeyen bir olayda sorumluluk almak yerine kişilerin birbirini karşılıklı olarak suçlaması durumu",
+    "ru_word": "поиск виноватых",
+    "ru_definition": "ситуация, в которой стороны обвиняют друг друга в неудаче, отказываясь брать на себя ответственность",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "özara aýyplama"
+                ],
+                "Uzbek": [
+                    "o'zaro ayblash"
+                ],
+                "Uyghur": [
+                    "ئۆزئارا ئەيىبلەش"
+                ],
+                "Kazakh": [
+                    "өзара айыптау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aybdor qidirish",
+                    "aybni birovga to'nkash"
+                ],
+                "Uyghur": [
+                    "ئەيىبنى باشقىلارغا ئارتىش"
+                ],
+                "Kyrgyz": [
+                    "айыптоо",
+                    "айып тагуу"
+                ],
+                "Karakalpak": [
+                    "ayıptı aodarıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "бири-бирин күнөөлөө"
+                ],
+                "Karakalpak": [
+                    "bir-birin ayıplao"
+                ],
+                "Tatar": [
+                    "бер-береңне гаепләү"
+                ],
+                "Bashkir": [
+                    "бер-береңде ғәйепләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töhmet"
+                ],
+                "Uyghur": [
+                    "تۆھمەت چاپلاش"
+                ],
+                "Karakalpak": [
+                    "tóhmetlesio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karşılıklı suçlama"
+                ],
+                "Azerbaijani": [
+                    "qarşılıqlı ittiham"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "günahlandırma yarışı",
+                    "günahı bir-birinin üstünə atma"
+                ],
+                "Turkmen": [
+                    "günäkärleme",
+                    "günäni başga atmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məsuliyyətdən qaçma"
+                ],
+                "Uyghur": [
+                    "مەسئۇلىيەتنى بىر-بىرىگە ئىتتىرىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айыптау"
+                ],
+                "Karakalpak": [
+                    "ayıplasıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жауапкершіліктен қашу"
+                ],
+                "Bashkir": [
+                    "яуаплылыҡтан ҡасыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гаепләшү",
+                    "гаепне бер-береңә аудару"
+                ],
+                "Bashkir": [
+                    "ғәйеп ташлашыу",
+                    "ғәйепләшеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "suçlama yarışı",
+                    "suçu birbirine atma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sorumluluktan kaçma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "malomat qilish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кінәлау",
+                    "кінә арту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күнөөлөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "доомат"
+                ]
+            }
+        }
+    ]
+}

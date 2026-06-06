@@ -1,0 +1,90 @@
+{
+    "id": "i90254",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "golf pro",
+    "en_definition": "someone who earns a living by playing or teaching golf",
+    "tr_word": "golf profesyoneli",
+    "tr_definition": "golf oynayarak veya öğreterek geçimini sağlayan kimse",
+    "ru_word": "профессиональный гольфист",
+    "ru_definition": "человек, который зарабатывает на жизнь игрой в гольф или его преподаванием",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "golf uzmanı",
+                    "golf hocası",
+                    "golf eğitmeni"
+                ],
+                "Azerbaijani": [
+                    "qolf mütəxəssisi",
+                    "qolf ustası",
+                    "qolf müəllimi"
+                ],
+                "Turkmen": [
+                    "golf hünärmeni",
+                    "golf ussady",
+                    "golf tälimçisi"
+                ],
+                "Uzbek": [
+                    "golf ustasi",
+                    "golf murabbiyi",
+                    "golf mutaxassisi"
+                ],
+                "Uyghur": [
+                    "گولف توپ ئۇستازى",
+                    "گولف توپ مەشقاۋۇلى",
+                    "گولف توپ مۇتەخەسسىسى"
+                ],
+                "Kazakh": [
+                    "гольф маманы",
+                    "гольф шебері",
+                    "гольф нұсқаушысы",
+                    "гольф бапкері"
+                ],
+                "Kyrgyz": [
+                    "гольф устаты",
+                    "гольф мугалими",
+                    "гольф адиси"
+                ],
+                "Karakalpak": [
+                    "golf ustası",
+                    "golf muǵallimi",
+                    "golf úyretioshisi"
+                ],
+                "Tatar": [
+                    "гольф остасы",
+                    "гольф белгече",
+                    "гольф мөгаллиме"
+                ],
+                "Bashkir": [
+                    "гольф остаһы",
+                    "гольф белгесе",
+                    "гольф өйрәтеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "profesyonel golfçü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşəkar qolfçu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kásipli golfshı"
+                ]
+            }
+        }
+    ]
+}

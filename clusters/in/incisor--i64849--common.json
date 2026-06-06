@@ -1,0 +1,92 @@
+{
+    "id": "i64849",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "incisor",
+    "en_definition": "a tooth for cutting or gnawing; located in the front of the mouth in both jaws",
+    "tr_word": "kesici diş",
+    "tr_definition": "Ağzın ön kısmında bulunan, yiyecekleri kesmeye veya koparmaya yarayan diş.",
+    "ru_word": "резец",
+    "ru_definition": "Передний зуб, предназначенный для разрезания и откусывания пищи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kesici diş"
+                ],
+                "Azerbaijani": [
+                    "kəsici diş"
+                ],
+                "Turkmen": [
+                    "kesiji diş"
+                ],
+                "Uzbek": [
+                    "kesuvchi tish"
+                ],
+                "Uyghur": [
+                    "كېسەر چىش"
+                ],
+                "Kyrgyz": [
+                    "кескич тиш"
+                ],
+                "Karakalpak": [
+                    "keskish tis"
+                ],
+                "Tatar": [
+                    "кискеч теш"
+                ],
+                "Bashkir": [
+                    "киҫкес теш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "old tish"
+                ],
+                "Uyghur": [
+                    "ئالدى چىش"
+                ],
+                "Kazakh": [
+                    "алдыңғы тіс"
+                ],
+                "Kyrgyz": [
+                    "алдыңкы тиш"
+                ],
+                "Karakalpak": [
+                    "aldıńǵı tis"
+                ],
+                "Tatar": [
+                    "алгы теш"
+                ],
+                "Bashkir": [
+                    "алғы теш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ön diş"
+                ],
+                "Azerbaijani": [
+                    "ön diş"
+                ],
+                "Turkmen": [
+                    "öň diş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күрек тіс"
+                ]
+            }
+        }
+    ]
+}

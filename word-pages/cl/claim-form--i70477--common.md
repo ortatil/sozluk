@@ -1,0 +1,187 @@
+# Claim form
+| Field | Detail |
+|---|---|
+| **ID** | i70477 |
+| **English** | claim form |
+| **Type** | noun |
+| **Definition** | a form to use when filing a claim |
+| **Source** | common |
+| **Ortatil** | täläpnamä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **täläpnamä** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.07** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەلەپنامە | täläpnamä |
+| ئەرزنامە | ärznamä |
+| **Tatar** | |
+| таләпнамә | taläpnamä |
+| **Bashkir** | |
+| талапнамә | talapnamä |
+| дәғүәнәмә | däğüänämä |
+
+```json
+{
+    "id": "i70477",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "claim form",
+    "en_definition": "a form to use when filing a claim",
+    "tr_word": "talep formu",
+    "tr_definition": "bir hak talebinde bulunurken kullanılan form",
+    "ru_word": "бланк заявления",
+    "ru_definition": "форма, используемая при подаче претензии или иска",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "talep formu"
+                ],
+                "Azerbaijani": [
+                    "tələbnamə"
+                ],
+                "Turkmen": [
+                    "talapnamasy",
+                    "talap haty"
+                ],
+                "Uzbek": [
+                    "talabnoma"
+                ],
+                "Uyghur": [
+                    "تەلەپنامە"
+                ],
+                "Kazakh": [
+                    "талап арыз"
+                ],
+                "Kyrgyz": [
+                    "талап арызы"
+                ],
+                "Karakalpak": [
+                    "talap qaǵazı"
+                ],
+                "Tatar": [
+                    "таләпнамә"
+                ],
+                "Bashkir": [
+                    "талапнамә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ariza blanky",
+                    "ariza kagyzy"
+                ],
+                "Uzbek": [
+                    "ariza shakli",
+                    "ariza namunasi"
+                ],
+                "Uyghur": [
+                    "ئەرزنامە"
+                ],
+                "Kazakh": [
+                    "арыз үлгісі"
+                ],
+                "Kyrgyz": [
+                    "арыз баракчасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "da'vo varaqasi"
+                ],
+                "Uyghur": [
+                    "دەۋا ئىلتىماس جەدۋىلى"
+                ],
+                "Karakalpak": [
+                    "daoa arızası"
+                ],
+                "Tatar": [
+                    "дәгъва кәгазе"
+                ],
+                "Bashkir": [
+                    "дәғүә ғаризаһы",
+                    "дәғүәнәмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hak arama formu"
+                ],
+                "Karakalpak": [
+                    "arıza forması"
+                ],
+                "Tatar": [
+                    "гариза формасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "başvuru belgesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyanname"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iddia ərizəsi",
+                    "iddia forması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шағым үлгісі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "доо арызы"
+                ]
+            }
+        }
+    ]
+}
+```
+

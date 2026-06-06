@@ -1,0 +1,73 @@
+{
+    "id": "i16910",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "chinese",
+    "en_definition": "of or pertaining to China or its peoples or cultures",
+    "tr_word": "Çinli",
+    "tr_definition": "Çin'e, Çin halkına veya kültürüne özgü olan",
+    "ru_word": "китайский",
+    "ru_definition": "относящийся к Китаю, его народу или культуре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Hıtay"
+                ],
+                "Turkmen": [
+                    "hytaý",
+                    "hytaýly"
+                ],
+                "Uzbek": [
+                    "xitoycha",
+                    "xitoy"
+                ],
+                "Uyghur": [
+                    "خىتايچە"
+                ],
+                "Kazakh": [
+                    "қытай",
+                    "қытайлық"
+                ],
+                "Kyrgyz": [
+                    "кытай",
+                    "кытайлык"
+                ],
+                "Karakalpak": [
+                    "qıtay",
+                    "qıtaysha"
+                ],
+                "Tatar": [
+                    "кытай",
+                    "кытайча"
+                ],
+                "Bashkir": [
+                    "ҡытай",
+                    "ҡытайса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Çinli",
+                    "Çin"
+                ],
+                "Azerbaijani": [
+                    "çinli",
+                    "çin",
+                    "çincə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جۇڭگوچە",
+                    "جۇڭگوغا ئائىت"
+                ]
+            }
+        }
+    ]
+}

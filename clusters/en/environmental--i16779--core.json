@@ -1,0 +1,129 @@
+{
+    "id": "i16779",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "environmental",
+    "en_definition": "of or relating to the external conditions or surroundings",
+    "tr_word": "çevresel",
+    "tr_definition": "dış koşullar veya çevre ile ilgili olan",
+    "ru_word": "экологический",
+    "ru_definition": "относящийся к внешним условиям или окружающей среде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tebigy"
+                ],
+                "Uzbek": [
+                    "tabiiy"
+                ],
+                "Kazakh": [
+                    "табиғи"
+                ],
+                "Kyrgyz": [
+                    "табигый"
+                ],
+                "Karakalpak": [
+                    "tábiyatlıq"
+                ],
+                "Bashkir": [
+                    "тәбиғәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhiti"
+                ],
+                "Azerbaijani": [
+                    "ətraf mühitlə bağlı"
+                ],
+                "Uzbek": [
+                    "atrof-muhitga oid",
+                    "muhitga doir"
+                ],
+                "Uyghur": [
+                    "مۇھىتقا ئائىت",
+                    "مۇھىتلىق"
+                ],
+                "Tatar": [
+                    "мөхит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "etraf"
+                ],
+                "Azerbaijani": [
+                    "ətraf mühitlə bağlı"
+                ],
+                "Uzbek": [
+                    "atrof-muhitga oid"
+                ],
+                "Uyghur": [
+                    "ئەتراپتىكى"
+                ],
+                "Karakalpak": [
+                    "tóńerek-átiraplıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çevresel"
+                ],
+                "Azerbaijani": [
+                    "çevrəsəl"
+                ],
+                "Kyrgyz": [
+                    "айлана-чөйрөлүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ekoloji"
+                ],
+                "Turkmen": [
+                    "ekologik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тирә-юньдәге",
+                    "тирә-як"
+                ],
+                "Bashkir": [
+                    "тирә-яҡ",
+                    "тирә-йүн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоршаған орта",
+                    "орталық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "atqaralaǵan"
+                ]
+            }
+        }
+    ]
+}

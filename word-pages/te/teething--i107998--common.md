@@ -1,0 +1,105 @@
+# Teething
+| Field | Detail |
+|---|---|
+| **ID** | i107998 |
+| **English** | teething |
+| **Type** | noun |
+| **Definition** | the eruption through the gums of baby teeth |
+| **Source** | common |
+| **Ortatil** | dişmä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **dişmä** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1** |
+
+```json
+{
+    "id": "i107998",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "teething",
+    "en_definition": "the eruption through the gums of baby teeth",
+    "tr_word": "diş çıkarma",
+    "tr_definition": "bebek dişlerinin diş etlerinden çıkması süreci",
+    "ru_word": "прорезывание зубов",
+    "ru_definition": "процесс появления первых молочных зубов у младенцев",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diş çıkarma",
+                    "dişleme"
+                ],
+                "Azerbaijani": [
+                    "dişçıxarma",
+                    "diş çıxarma",
+                    "diş gəlməsi"
+                ],
+                "Turkmen": [
+                    "diş çykarmak",
+                    "dişleme",
+                    "diş çykaryş"
+                ],
+                "Uzbek": [
+                    "tish chiqishi",
+                    "tish yorishi",
+                    "tish chiqarish"
+                ],
+                "Uyghur": [
+                    "چىش چىقىرىش"
+                ],
+                "Kazakh": [
+                    "тіс шығу",
+                    "тіс жару"
+                ],
+                "Kyrgyz": [
+                    "тиш жаруу",
+                    "тиш чыгуу"
+                ],
+                "Karakalpak": [
+                    "tis shıǵıu",
+                    "tis jarıu"
+                ],
+                "Tatar": [
+                    "теш чыгу",
+                    "теш яру",
+                    "теш калку"
+                ],
+                "Bashkir": [
+                    "теш сығыу",
+                    "теш ярыу",
+                    "теш сығарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "diş sürmesi"
+                ],
+                "Uyghur": [
+                    "چىش يېرىش"
+                ]
+            }
+        }
+    ]
+}
+```
+

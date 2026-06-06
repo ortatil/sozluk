@@ -1,0 +1,116 @@
+{
+    "id": "i117226",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "school day",
+    "en_definition": "any day on which school is in session",
+    "tr_word": "okul günü",
+    "tr_definition": "okulun açık olduğu ve derslerin yapıldığı herhangi bir gün",
+    "ru_word": "учебный день",
+    "ru_definition": "любой день, когда в школе проводятся занятия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "okul günü"
+                ],
+                "Turkmen": [
+                    "okuw güni"
+                ],
+                "Uzbek": [
+                    "oʻqish kuni"
+                ],
+                "Kazakh": [
+                    "оқу күні"
+                ],
+                "Kyrgyz": [
+                    "окуу күнү"
+                ],
+                "Karakalpak": [
+                    "oqıu kúni"
+                ],
+                "Tatar": [
+                    "уку көне"
+                ],
+                "Bashkir": [
+                    "уҡыу көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ders günü"
+                ],
+                "Azerbaijani": [
+                    "dərs günü"
+                ],
+                "Uzbek": [
+                    "dars kuni"
+                ],
+                "Uyghur": [
+                    "دەرس كۈنى"
+                ],
+                "Tatar": [
+                    "дәрес көне"
+                ],
+                "Bashkir": [
+                    "дәрес көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məktəb günü"
+                ],
+                "Uzbek": [
+                    "maktab kuni"
+                ],
+                "Uyghur": [
+                    "مەكتەپ كۈنى"
+                ],
+                "Tatar": [
+                    "мәктәп көне"
+                ],
+                "Bashkir": [
+                    "мәктәп көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sapak güni"
+                ],
+                "Kazakh": [
+                    "сабақ күні"
+                ],
+                "Kyrgyz": [
+                    "сабак күнү"
+                ],
+                "Karakalpak": [
+                    "sabaq kúni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eğitim günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təhsil günü"
+                ]
+            }
+        }
+    ]
+}

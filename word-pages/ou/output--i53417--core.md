@@ -1,0 +1,250 @@
+# Output
+| Field | Detail |
+|---|---|
+| **ID** | i53417 |
+| **English** | output |
+| **Type** | noun |
+| **Definition** | final product; the things produced |
+| **Source** | core |
+| **Ortatil** | näticä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **näticä** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.77** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| نەتىجە | nätijä |
+| **Kazakh** | |
+| нәтиже | nätije |
+| **Kyrgyz** | |
+| жыйынтык | jıyıntık |
+| **Tatar** | |
+| нәтиҗә | nätijä |
+| хәсил | xäsil |
+| чыгарылма | çıgarılma |
+| **Bashkir** | |
+| һөҙөмтә | hözömtä |
+| мәхсүл | mäxsül |
+
+```json
+{
+    "id": "i53417",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "output",
+    "en_definition": "final product; the things produced",
+    "tr_word": "çıktı",
+    "tr_definition": "üretilen nihai ürün; üretim sonucu elde edilen şey",
+    "ru_word": "выпуск",
+    "ru_definition": "конечный продукт; то, что было произведено",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəticə"
+                ],
+                "Turkmen": [
+                    "netije"
+                ],
+                "Uyghur": [
+                    "نەتىجە"
+                ],
+                "Kazakh": [
+                    "нәтиже"
+                ],
+                "Karakalpak": [
+                    "nátiyje"
+                ],
+                "Tatar": [
+                    "нәтиҗә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "soʻnggi natija"
+                ],
+                "Kazakh": [
+                    "соңғы өнім"
+                ],
+                "Tatar": [
+                    "соңгы эшләнмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ahyryky netije"
+                ],
+                "Uyghur": [
+                    "ئاخىرقى مەھسۇلات"
+                ],
+                "Kyrgyz": [
+                    "акыркы натыйжа",
+                    "акыркы продукт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تەييار مەھسۇلات"
+                ],
+                "Kazakh": [
+                    "дайын өнім"
+                ],
+                "Kyrgyz": [
+                    "даяр өнүм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hasyl"
+                ],
+                "Tatar": [
+                    "хәсил"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "önüm"
+                ],
+                "Karakalpak": [
+                    "ónim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "son ürün"
+                ],
+                "Azerbaijani": [
+                    "son məhsul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yekun məhsul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nihai ürün"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mamul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıktı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыйынтык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shıǵıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чыгарылма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һөҙөмтә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мәхсүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тамамланған эш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төп емеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yakuniy mahsulot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hosila"
+                ]
+            }
+        }
+    ]
+}
+```
+

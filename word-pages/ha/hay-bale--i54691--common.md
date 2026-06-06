@@ -1,0 +1,164 @@
+# Hay bale
+| Field | Detail |
+|---|---|
+| **ID** | i54691 |
+| **English** | hay bale |
+| **Type** | noun |
+| **Definition** | a bale of hay |
+| **Source** | common |
+| **Ortatil** | bogduk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| бума | buma |
+| тай | tay |
+| **Kyrgyz** | |
+| түк | tük |
+
+```json
+{
+    "id": "i54691",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hay bale",
+    "en_definition": "a bale of hay",
+    "tr_word": "saman balyası",
+    "tr_definition": "Sıkıştırılmış ve bağlanmış saman kütlesi.",
+    "ru_word": "тюк сена",
+    "ru_definition": "Плотно спрессованная и перевязанная порция сена.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ot balyası"
+                ],
+                "Azerbaijani": [
+                    "ot tayası",
+                    "ot bağlaması"
+                ],
+                "Turkmen": [
+                    "ot bogdagy",
+                    "ot boguny"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "pichan bog'lami",
+                    "pichan dastas",
+                    "pichan g'arami"
+                ],
+                "Tatar": [
+                    "печән төяге",
+                    "печән бавы",
+                    "печән рулоны"
+                ],
+                "Bashkir": [
+                    "бесән кибәне",
+                    "бесән төйөнө",
+                    "бесән бауы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шөп бумасы"
+                ],
+                "Kyrgyz": [
+                    "чөп боо"
+                ],
+                "Karakalpak": [
+                    "shóp buoımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bogdak",
+                    "bogun"
+                ],
+                "Karakalpak": [
+                    "buoım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "saman balyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ot bəndi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۆلەك ئوت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باغلام ئوت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېڭىق ئوت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бума"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түк",
+                    "түк чөп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shóp presi"
+                ]
+            }
+        }
+    ]
+}
+```
+

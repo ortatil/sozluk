@@ -1,0 +1,200 @@
+# Miscalculate
+| Field | Detail |
+|---|---|
+| **ID** | i24932 |
+| **English** | miscalculate |
+| **Type** | verb |
+| **Definition** | calculate incorrectly |
+| **Source** | common |
+| **Ortatil** | jañılışmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jañılışmaq** | **hatalanışmaq** | **adaşmaq** |
+|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ❌ | ✅ |
+| Uyghur | ✅ | ✅ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ |
+| Kyrgyz | ✅ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 0.40 | 0.40 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **4** | **0.90** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ياڭلىشماق | yañlişmaq |
+| خاتالاشماق | xatalaşmaq |
+| **Kazakh** | |
+| жаңылысу | jañılısu |
+| қателесу | qatelesu |
+| **Kyrgyz** | |
+| жаңылуу | jañıluu |
+| адашуу | adaşuu |
+| **Tatar** | |
+| яңалышу | yañalışu |
+| хаталану | xatalanu |
+| ялгышу | yalgışu |
+| **Bashkir** | |
+| яңылышыу | yañılışıu |
+| хаталаныу | xatalanıu |
+
+```json
+{
+    "id": "i24932",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "miscalculate",
+    "en_definition": "calculate incorrectly",
+    "tr_word": "yanlış hesaplamak",
+    "tr_definition": "bir şeyi hatalı veya eksik bir şekilde hesaplamak veya tahmin etmek",
+    "ru_word": "общитаться",
+    "ru_definition": "неправильно рассчитать или ошибиться в расчетах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanlış hesaplamak",
+                    "hesapta yanılmak",
+                    "yanılmak"
+                ],
+                "Azerbaijani": [
+                    "yanlış hesablamaq",
+                    "yanılmaq"
+                ],
+                "Turkmen": [
+                    "ýalňyşmak"
+                ],
+                "Uzbek": [
+                    "yanglishmoq"
+                ],
+                "Uyghur": [
+                    "ياڭلىشماق"
+                ],
+                "Kazakh": [
+                    "жаңылысу"
+                ],
+                "Kyrgyz": [
+                    "жаңылыш эсептөө",
+                    "жаңылуу"
+                ],
+                "Karakalpak": [
+                    "jańılısıu"
+                ],
+                "Tatar": [
+                    "яңалышу"
+                ],
+                "Bashkir": [
+                    "яңылыш иҫәпләү",
+                    "яңылышыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hatalı hesaplamak"
+                ],
+                "Azerbaijani": [
+                    "xəta etmək"
+                ],
+                "Uzbek": [
+                    "xato qilmoq"
+                ],
+                "Uyghur": [
+                    "خاتا ھېسابلىماق",
+                    "خاتالاشماق"
+                ],
+                "Kyrgyz": [
+                    "ката эсептөө"
+                ],
+                "Tatar": [
+                    "хаталану"
+                ],
+                "Bashkir": [
+                    "хаталаныу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "adashmoq"
+                ],
+                "Kyrgyz": [
+                    "адашуу"
+                ],
+                "Karakalpak": [
+                    "adasıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қателесу"
+                ],
+                "Karakalpak": [
+                    "qátelesiu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səhv hesablamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýalňyş hasaplamak",
+                    "hasapda ýalňyşmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "noto'g'ri hisoblamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мүлт кету"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қисық есептеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ялгышу"
+                ]
+            }
+        }
+    ]
+}
+```
+

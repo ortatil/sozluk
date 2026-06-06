@@ -1,0 +1,271 @@
+# Qualify
+| Field | Detail |
+|---|---|
+| **ID** | i35055 |
+| **English** | qualify |
+| **Type** | verb |
+| **Definition** | prove capable or fit; meet requirements |
+| **Source** | core |
+| **Ortatil** | toluqlümäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تولۇقلىماق | toluqlimaq |
+| **Tatar** | |
+| яраклашу | yaraklaşu |
+| **Bashkir** | |
+| үтәү | ütäü |
+
+```json
+{
+    "id": "i35055",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "qualify",
+    "en_definition": "prove capable or fit; meet requirements",
+    "tr_word": "hak kazanmak",
+    "tr_definition": "belirli bir işi yapmak veya bir haktan yararlanmak için gerekli şartları yerine getirmek",
+    "ru_word": "квалифицироваться",
+    "ru_definition": "соответствовать требованиям или обладать необходимыми навыками для выполнения какой-либо деятельности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "layiq olmaq"
+                ],
+                "Turkmen": [
+                    "laýyk bolmak"
+                ],
+                "Uzbek": [
+                    "loyiq bo'lmoq"
+                ],
+                "Uyghur": [
+                    "لاياقەتلىك بولماق",
+                    "لاياقەت قازانماق"
+                ],
+                "Kazakh": [
+                    "лайықты болу"
+                ],
+                "Kyrgyz": [
+                    "ылайык келүү"
+                ],
+                "Karakalpak": [
+                    "layıq bolıu"
+                ],
+                "Tatar": [
+                    "лаек булу"
+                ],
+                "Bashkir": [
+                    "лайыҡ булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "javob bermoq"
+                ],
+                "Kyrgyz": [
+                    "жооп берүү"
+                ],
+                "Karakalpak": [
+                    "juuap beriu"
+                ],
+                "Bashkir": [
+                    "яуап биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'g'ri kelmoq"
+                ],
+                "Kyrgyz": [
+                    "туура келүү"
+                ],
+                "Tatar": [
+                    "туры килү"
+                ],
+                "Bashkir": [
+                    "тура килеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жарамды болу"
+                ],
+                "Kyrgyz": [
+                    "жарактуу болуу"
+                ],
+                "Tatar": [
+                    "яраклашу"
+                ],
+                "Bashkir": [
+                    "яраҡлы булыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hak kazanmak"
+                ],
+                "Azerbaijani": [
+                    "haqq qazanmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uygun bulunmak"
+                ],
+                "Azerbaijani": [
+                    "uyğun gəlmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vasıf kazanmak"
+                ],
+                "Azerbaijani": [
+                    "vəsf olunmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mynasyp bolmak"
+                ],
+                "Uzbek": [
+                    "munosib bo'lmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сәйкес келу"
+                ],
+                "Karakalpak": [
+                    "sáykes keliu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şərtləri ödəmək"
+                ],
+                "Turkmen": [
+                    "şertleri berjaý etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qábiletli bolıu"
+                ],
+                "Tatar": [
+                    "кабул ителү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yeterlik kazanmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ehliyet kazanmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "malaka oshirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "біліктілігін дәлелдеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سالاھىيەتكە ئىگە بولماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تولۇقلىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "татыктуу болуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "талапқа сай болу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hünärini tassyklamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ugur tapmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үтәү"
+                ]
+            }
+        }
+    ]
+}
+```
+

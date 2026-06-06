@@ -1,0 +1,162 @@
+# Redwood
+| Field | Detail |
+|---|---|
+| **ID** | i98542 |
+| **English** | redwood |
+| **Type** | noun |
+| **Definition** | either of two huge coniferous California trees that reach a height of 300 feet; sometimes placed in the Taxodiaceae |
+| **Source** | common |
+| **Ortatil** | sekwoya |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sekwoya** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سېكۋوئيا | sekvoya |
+| **Kazakh** | |
+| секвойя | sekvoyya |
+| **Kyrgyz** | |
+| секвойя | sekvoyya |
+| **Tatar** | |
+| секвойя | sekvoyya |
+| **Bashkir** | |
+| секвойя | sekvoyya |
+
+```json
+{
+    "id": "i98542",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "redwood",
+    "en_definition": "either of two huge coniferous California trees that reach a height of 300 feet; sometimes placed in the Taxodiaceae",
+    "tr_word": "sekoya",
+    "tr_definition": "Kaliforniya'ya özgü, 100 metreye kadar boylanabilen, devasa iğne yapraklı bir ağaç türü.",
+    "ru_word": "секвойя",
+    "ru_definition": "огромное хвойное дерево из Калифорнии, достигающее высоты более 90 метров.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sekoya"
+                ],
+                "Azerbaijani": [
+                    "sekvoya"
+                ],
+                "Turkmen": [
+                    "sekwoýa"
+                ],
+                "Uzbek": [
+                    "sekvoya"
+                ],
+                "Uyghur": [
+                    "سېكۋوئيا"
+                ],
+                "Kazakh": [
+                    "секвойя"
+                ],
+                "Kyrgyz": [
+                    "секвойя"
+                ],
+                "Karakalpak": [
+                    "sekwoyya"
+                ],
+                "Tatar": [
+                    "секвойя"
+                ],
+                "Bashkir": [
+                    "секвойя"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mamut ağacı"
+                ],
+                "Azerbaijani": [
+                    "mamont ağacı"
+                ],
+                "Turkmen": [
+                    "mamont agajy"
+                ],
+                "Uzbek": [
+                    "mamont daraxti"
+                ],
+                "Kazakh": [
+                    "мамонт ағашы"
+                ],
+                "Karakalpak": [
+                    "mamont teregi"
+                ],
+                "Tatar": [
+                    "мамонт агачы"
+                ],
+                "Bashkir": [
+                    "мамонт ағасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قىزىل دەرەخ"
+                ],
+                "Kyrgyz": [
+                    "кызыл жыгач"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dev ağaç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bahaybat daraxt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گىگانت قارىغاي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "алп дарак"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,245 @@
+# Cheat
+| Field | Detail |
+|---|---|
+| **ID** | i34560 |
+| **English** | cheat |
+| **Type** | verb |
+| **Definition** | engage in deceitful behavior; practice trickery or fraud |
+| **Source** | common |
+| **Ortatil** | aldamaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **aldamaq** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئالدىماق | aldimaq |
+| **Kazakh** | |
+| алдау | aldau |
+| арбау | arbau |
+| **Kyrgyz** | |
+| алдоо | aldoo |
+| **Tatar** | |
+| алдарга | aldarga |
+| хәйләләргә | xäylälärgä |
+| **Bashkir** | |
+| алдау | aldau |
+| алдашыу | aldaşıu |
+| алдаҡлашыу | aldaqlaşıu |
+| хәйләләү | xäyläläü |
+
+```json
+{
+    "id": "i34560",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "cheat",
+    "en_definition": "engage in deceitful behavior; practice trickery or fraud",
+    "tr_word": "aldatmak",
+    "tr_definition": "hileli davranışta bulunmak; hile veya dolandırıcılık yapmak",
+    "ru_word": "обманывать",
+    "ru_definition": "заниматься обманным поведением; практиковать хитрость или мошенничество",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aldatmak"
+                ],
+                "Azerbaijani": [
+                    "aldatmaq"
+                ],
+                "Turkmen": [
+                    "aldamak"
+                ],
+                "Uzbek": [
+                    "aldamoq"
+                ],
+                "Uyghur": [
+                    "ئالدىماق"
+                ],
+                "Kazakh": [
+                    "алдау",
+                    "айла асыру"
+                ],
+                "Kyrgyz": [
+                    "алдоо",
+                    "алдамчылык кылуу"
+                ],
+                "Karakalpak": [
+                    "aldau",
+                    "aldap-arbau"
+                ],
+                "Tatar": [
+                    "алдарга",
+                    "алдалап йөрергә"
+                ],
+                "Bashkir": [
+                    "алдау",
+                    "алдашыу",
+                    "алдаҡлашыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hile yapmak"
+                ],
+                "Azerbaijani": [
+                    "hiylə işlətmək"
+                ],
+                "Turkmen": [
+                    "hile etmek"
+                ],
+                "Uzbek": [
+                    "hiyla qilmoq"
+                ],
+                "Uyghur": [
+                    "ھىيلە قىلماق",
+                    "خىيانەت قىلماق"
+                ],
+                "Karakalpak": [
+                    "xıyla etiu"
+                ],
+                "Tatar": [
+                    "хәйләләргә"
+                ],
+                "Bashkir": [
+                    "хәйләләү",
+                    "хәйлә ҡороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kələk gəlmək"
+                ],
+                "Kazakh": [
+                    "қулық жасау"
+                ],
+                "Karakalpak": [
+                    "qulıq isleu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fırıldaq gəlmək",
+                    "fırıldaqçılıq etmək"
+                ],
+                "Uzbek": [
+                    "firib bermoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gözboýaçylyk etmek"
+                ],
+                "Uyghur": [
+                    "كۆز بويىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арбау"
+                ],
+                "Kyrgyz": [
+                    "арамдык кылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kandırmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dolandırmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kezzaplyk etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'irromlik qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ساختىپەزلىك قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алаяқтық жасау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "куулук кылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыянаттык кылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мошенниклык итәргә"
+                ]
+            }
+        }
+    ]
+}
+```
+

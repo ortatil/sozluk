@@ -1,0 +1,153 @@
+# Silk vine
+| Field | Detail |
+|---|---|
+| **ID** | i106206 |
+| **English** | silk vine |
+| **Type** | noun |
+| **Definition** | deciduous climber for arches and fences having ill-scented but interesting flowers and poisonous yellow fruits; cultivated for its dark shining foliage; southeastern Europe to Asia Minor |
+| **Source** | common |
+| **Ortatil** | şırmaıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **şırmaıq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.43** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پېچەكگۈل | peçäkgül |
+| **Kazakh** | |
+| шырмауық | şırmauıq |
+| **Kyrgyz** | |
+| чырмалгыч | çırmalgıç |
+
+```json
+{
+    "id": "i106206",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "silk vine",
+    "en_definition": "deciduous climber for arches and fences having ill-scented but interesting flowers and poisonous yellow fruits; cultivated for its dark shining foliage; southeastern Europe to Asia Minor",
+    "tr_word": "ipek asması",
+    "tr_definition": "Güneydoğu Avrupa ve Anadolu'ya özgü, kötü kokulu çiçekleri ve zehirli sarı meyveleri olan, parlak yaprakları için yetiştirilen tırmanıcı bir bitki.",
+    "ru_word": "обвойник греческий",
+    "ru_definition": "Листопадная лиана с неприятно пахнущими цветками и ядовитыми желтыми плодами, культивируемая ради темной блестящей листвы; произрастает от Юго-Восточной Европы до Малой Азии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ipek sarmaşığı",
+                    "ipek otu"
+                ],
+                "Azerbaijani": [
+                    "ipək sarmaşığı"
+                ],
+                "Kazakh": [
+                    "жібек шырмауық"
+                ],
+                "Kyrgyz": [
+                    "жибек чырмалгыч"
+                ],
+                "Karakalpak": [
+                    "jibek gúl"
+                ],
+                "Tatar": [
+                    "ефәк үләне",
+                    "ефәк лианасы"
+                ],
+                "Bashkir": [
+                    "ебәк үләне",
+                    "ебәк үрмәлеше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çyrmaşyk"
+                ],
+                "Uzbek": [
+                    "chirmashuvchi o'simlik"
+                ],
+                "Kazakh": [
+                    "шырмауық"
+                ],
+                "Kyrgyz": [
+                    "чырмалгыч",
+                    "чырмалгыч өсүмдүк"
+                ],
+                "Karakalpak": [
+                    "shırmauıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pechak",
+                    "pechakgul"
+                ],
+                "Uyghur": [
+                    "پېچەكگۈل",
+                    "پېچەكگۈل ئائىلىسىدىكى ئۆسۈملۈك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yabani ipek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yunan sarmaşığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pəri sarmaşığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýüpekli çyrmaşyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұйра шырмауық"
+                ]
+            }
+        }
+    ]
+}
+```
+

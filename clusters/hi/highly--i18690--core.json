@@ -1,0 +1,310 @@
+{
+    "id": "i18690",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "highly",
+    "en_definition": "to a high degree or extent; favorably or with much respect",
+    "tr_word": "son derece",
+    "tr_definition": "yüksek derecede veya ölçüde; büyük bir saygıyla veya olumlu bir şekilde",
+    "ru_word": "весьма",
+    "ru_definition": "в высокой степени или в значительной мере; с большим одобрением или уважением",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yuqori"
+                ],
+                "Uyghur": [
+                    "يۇقىرى دەرىجىدە"
+                ],
+                "Kazakh": [
+                    "жоғары"
+                ],
+                "Kyrgyz": [
+                    "жогору"
+                ],
+                "Tatar": [
+                    "югары"
+                ],
+                "Bashkir": [
+                    "юғары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pek"
+                ],
+                "Uyghur": [
+                    "بەك"
+                ],
+                "Karakalpak": [
+                    "bek"
+                ],
+                "Tatar": [
+                    "бик"
+                ],
+                "Bashkir": [
+                    "бик",
+                    "бик ныҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gayet"
+                ],
+                "Uzbek": [
+                    "g'oyat"
+                ],
+                "Bashkir": [
+                    "ғәйәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өте"
+                ],
+                "Kyrgyz": [
+                    "өтө",
+                    "өтө эле"
+                ],
+                "Bashkir": [
+                    "үтә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çok"
+                ],
+                "Azerbaijani": [
+                    "çox"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oldukça"
+                ],
+                "Azerbaijani": [
+                    "olduqca"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ziyadesiyle"
+                ],
+                "Azerbaijani": [
+                    "ziyadə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yüksək"
+                ],
+                "Uzbek": [
+                    "yuksak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "juda"
+                ],
+                "Karakalpak": [
+                    "júdá"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nihoyatda"
+                ],
+                "Uyghur": [
+                    "ناھايىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "artıqlamasıyla"
+                ],
+                "Tatar": [
+                    "артык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fazlasıyla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dərindən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "örän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "has"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gaty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çendenaşa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "belent"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "behad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىنتايىن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زور"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ерекше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мейлінше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "абдан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аябай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "oǵada"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "orasan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ayrıqsha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көчле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "искиткеч"
+                ]
+            }
+        }
+    ]
+}

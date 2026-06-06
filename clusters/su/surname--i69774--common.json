@@ -1,0 +1,142 @@
+{
+    "id": "i69774",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "surname",
+    "en_definition": "the name used to identify the members of a family (as distinguished from each member's given name)",
+    "tr_word": "soyadı",
+    "tr_definition": "Bir kimsenin ailesinden gelen ve adından sonra kullanılan adı.",
+    "ru_word": "фамилия",
+    "ru_definition": "Наследственное имя семьи, прибавляемое к личному имени.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "familiya"
+                ],
+                "Turkmen": [
+                    "familiýa"
+                ],
+                "Uzbek": [
+                    "familiya"
+                ],
+                "Uyghur": [
+                    "فامىلىسى"
+                ],
+                "Kazakh": [
+                    "фамилиясы"
+                ],
+                "Kyrgyz": [
+                    "фамилиясы"
+                ],
+                "Karakalpak": [
+                    "familiya"
+                ],
+                "Tatar": [
+                    "фамилия"
+                ],
+                "Bashkir": [
+                    "фамилия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lakap"
+                ],
+                "Azerbaijani": [
+                    "ləqəb"
+                ],
+                "Turkmen": [
+                    "lakam"
+                ],
+                "Uzbek": [
+                    "laqab"
+                ],
+                "Tatar": [
+                    "лакап"
+                ],
+                "Bashkir": [
+                    "лаҡап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tegelek"
+                ],
+                "Uyghur": [
+                    "تەخەللۇس"
+                ],
+                "Kazakh": [
+                    "тегі"
+                ],
+                "Kyrgyz": [
+                    "теги"
+                ],
+                "Karakalpak": [
+                    "tegi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "nasab"
+                ],
+                "Uyghur": [
+                    "نەسەب"
+                ],
+                "Kazakh": [
+                    "ныспысы"
+                ],
+                "Tatar": [
+                    "нәсел исеме"
+                ],
+                "Bashkir": [
+                    "нәҫел исеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soyadı"
+                ],
+                "Azerbaijani": [
+                    "soyad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тукум аты"
+                ],
+                "Karakalpak": [
+                    "tuqım atı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aile adı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ата-тегі"
+                ]
+            }
+        }
+    ]
+}

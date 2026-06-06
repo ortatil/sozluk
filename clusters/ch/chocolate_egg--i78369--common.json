@@ -1,0 +1,77 @@
+{
+    "id": "i78369",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chocolate egg",
+    "en_definition": "egg-shaped chocolate candy",
+    "tr_word": "çikolata yumurta",
+    "tr_definition": "yumurta şeklinde yapılmış çikolata şekerlemesi",
+    "ru_word": "шоколадное яйцо",
+    "ru_definition": "кондитерское изделие из шоколада в форме яйца",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çikolata yumurta",
+                    "çikolatalı yumurta"
+                ],
+                "Azerbaijani": [
+                    "şokolad yumurta",
+                    "yumurta şokolad"
+                ],
+                "Turkmen": [
+                    "şokolad ýumurtgasy"
+                ],
+                "Uzbek": [
+                    "shokoladli tuxum"
+                ],
+                "Uyghur": [
+                    "شوكولات تۇخۇمى"
+                ],
+                "Kazakh": [
+                    "шоколад жұмыртқа"
+                ],
+                "Kyrgyz": [
+                    "шоколад жумуртка"
+                ],
+                "Karakalpak": [
+                    "shokolad jumırtqa",
+                    "shokoladlı jumırtqa"
+                ],
+                "Tatar": [
+                    "шоколад йомырка",
+                    "шоколадлы йомырка"
+                ],
+                "Bashkir": [
+                    "шоколад йомортҡа",
+                    "шоколадлы йомортҡа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýumurtga şekilli şokolad"
+                ],
+                "Kazakh": [
+                    "жұмыртқа пішінді шоколад"
+                ],
+                "Kyrgyz": [
+                    "жумуртка сымал шоколад"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuxumsimon shokolad"
+                ],
+                "Uyghur": [
+                    "تۇخۇم شەكىللىك شوكولات"
+                ]
+            }
+        }
+    ]
+}

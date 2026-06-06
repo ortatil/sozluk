@@ -1,0 +1,77 @@
+{
+    "id": "i78151",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fruit salad",
+    "en_definition": "salad composed of fruits",
+    "tr_word": "meyve salatası",
+    "tr_definition": "çeşitli meyvelerin küçük parçalar halinde doğranıp karıştırılmasıyla hazırlanan yiyecek",
+    "ru_word": "фруктовый салат",
+    "ru_definition": "блюдо, приготовленное из смеси различных нарезанных свежих или консервированных фруктов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyve salatası"
+                ],
+                "Azerbaijani": [
+                    "meyvə salatı",
+                    "meyvə qarışığı"
+                ],
+                "Turkmen": [
+                    "miwe salaty"
+                ],
+                "Uzbek": [
+                    "meva salati",
+                    "mevali salat"
+                ],
+                "Uyghur": [
+                    "مېۋە سالات",
+                    "مېۋە-چېۋە سالات"
+                ],
+                "Karakalpak": [
+                    "miyue salatı",
+                    "miyueler salatı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "iýmiş salaty"
+                ],
+                "Kazakh": [
+                    "жеміс салаты",
+                    "жеміс-жидек салаты"
+                ],
+                "Kyrgyz": [
+                    "жемиш салаты"
+                ],
+                "Tatar": [
+                    "җимеш салаты",
+                    "җимеш катнашмасы"
+                ],
+                "Bashkir": [
+                    "емеш-еләк салаты",
+                    "емеш салаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karışık meyve"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мөмө-жемиш салаты"
+                ]
+            }
+        }
+    ]
+}

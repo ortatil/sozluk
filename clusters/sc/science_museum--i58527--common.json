@@ -1,0 +1,91 @@
+{
+    "id": "i58527",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "science museum",
+    "en_definition": "a museum that collects and displays objects having scientific interest",
+    "tr_word": "bilim müzesi",
+    "tr_definition": "bilimsel ilgi uyandıran nesnelerin toplandığı ve sergilendiği müze",
+    "ru_word": "научный музей",
+    "ru_definition": "музей, в котором собираются и экспонируются объекты, представляющие научный интерес",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fen müzesi"
+                ],
+                "Uzbek": [
+                    "fan muzeyi"
+                ],
+                "Uyghur": [
+                    "پەن-تېخنىكا سارىيى"
+                ],
+                "Tatar": [
+                    "фән музее"
+                ],
+                "Bashkir": [
+                    "фән музейы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilim müzesi"
+                ],
+                "Uyghur": [
+                    "ئىلىم-پەن مۇزېيى",
+                    "ئىلىم-پەن كۆرگەزمىخانىسى"
+                ],
+                "Kyrgyz": [
+                    "илим музейи",
+                    "илимий музей"
+                ],
+                "Karakalpak": [
+                    "ilim muzeyi",
+                    "ilimiy muzey"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "elm muzeyi",
+                    "elm və texnika muzeyi"
+                ],
+                "Turkmen": [
+                    "ylmy muzeý",
+                    "ylmy-tehniki muzeý"
+                ],
+                "Uzbek": [
+                    "ilm-fan muzeyi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ғылым мұражайы",
+                    "ғылым үйі"
+                ],
+                "Tatar": [
+                    "гыйлем музее"
+                ],
+                "Bashkir": [
+                    "ғилем музейы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "texnika muzeyi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": "i54733",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hearing aid",
+    "en_definition": "an electronic device that amplifies sound and is worn to compensate for poor hearing",
+    "tr_word": "işitme cihazı",
+    "tr_definition": "sesi yükselten ve işitme kaybını telafi etmek için kulağa takılan elektronik cihaz",
+    "ru_word": "слуховой аппарат",
+    "ru_definition": "электронное устройство, усиливающее звук и носимое для компенсации плохого слуха",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işitme cihazı",
+                    "işitme aleti"
+                ],
+                "Azerbaijani": [
+                    "eşitmə cihazı",
+                    "eşitmə aparatı"
+                ],
+                "Turkmen": [
+                    "eşidiş enjamy",
+                    "eşidiş guraly",
+                    "eşidiş apparaty"
+                ],
+                "Uzbek": [
+                    "eshitish moslamasi",
+                    "eshitish asbobi"
+                ],
+                "Kazakh": [
+                    "есту аппараты",
+                    "есту құралы",
+                    "есту аспабы"
+                ],
+                "Karakalpak": [
+                    "esitio apparatı"
+                ],
+                "Tatar": [
+                    "ишетү аппараты",
+                    "ишетү җайланмасы"
+                ],
+                "Bashkir": [
+                    "ишетеү аппараты",
+                    "ишетеү ҡоролмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاڭلاش ئۈسكۈنىسى",
+                    "ئاڭلاش ياردەمچى ئەسۋابى"
+                ],
+                "Karakalpak": [
+                    "qulaq apparatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duyma cihazı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇلاق ئاپپاراتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "угуу аппараты",
+                    "угуу куралы",
+                    "угуу түзмөгү"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+# Cows' milk
+| Field | Detail |
+|---|---|
+| **ID** | i78389 |
+| **English** | cows' milk |
+| **Type** | noun |
+| **Definition** | milk obtained from dairy cows |
+| **Source** | common |
+| **Ortatil** | süt |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i78389",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cows' milk",
+    "en_definition": "milk obtained from dairy cows",
+    "tr_word": "inek sütü",
+    "tr_definition": "süt sığırlarından elde edilen süt",
+    "ru_word": "коровье молоко",
+    "ru_definition": "молоко, полученное от молочных коров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sığır sütü"
+                ],
+                "Azerbaijani": [
+                    "sığır südü"
+                ],
+                "Turkmen": [
+                    "sygyr süýdi",
+                    "sygyr süýt"
+                ],
+                "Uzbek": [
+                    "sigir suti"
+                ],
+                "Uyghur": [
+                    "سىيىر سۈتى"
+                ],
+                "Kazakh": [
+                    "сиыр сүті"
+                ],
+                "Karakalpak": [
+                    "sıyır súti"
+                ],
+                "Tatar": [
+                    "сыер сөте"
+                ],
+                "Bashkir": [
+                    "һыйыр һөтө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "inek sütü"
+                ],
+                "Azerbaijani": [
+                    "inək südü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mol suti"
+                ],
+                "Uyghur": [
+                    "كالا سۈتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уйдун сүтү",
+                    "уй сүтү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sút"
+                ]
+            }
+        }
+    ]
+}
+```
+

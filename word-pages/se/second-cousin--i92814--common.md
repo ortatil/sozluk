@@ -1,0 +1,162 @@
+# Second cousin
+| Field | Detail |
+|---|---|
+| **ID** | i92814 |
+| **English** | second cousin |
+| **Type** | noun |
+| **Definition** | a child of a first cousin |
+| **Source** | common |
+| **Ortatil** | torun |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| бөлө | bölö |
+
+```json
+{
+    "id": "i92814",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "second cousin",
+    "en_definition": "a child of a first cousin",
+    "tr_word": "ikinci dereceden kuzen",
+    "tr_definition": "birinci dereceden kuzenin çocuğu",
+    "ru_word": "троюродный брат/сестра",
+    "ru_definition": "ребенок двоюродного брата или двоюродной сестры",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ikinci derece kuzen"
+                ],
+                "Tatar": [
+                    "ике туганнан туган"
+                ],
+                "Bashkir": [
+                    "ике туған балаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "doganoglan çagasy"
+                ],
+                "Tatar": [
+                    "туганнан туган",
+                    "туганнан туган кардәш"
+                ],
+                "Bashkir": [
+                    "туған тейешле ҡәрҙәш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "نەۋرە جىيەن",
+                    "نەۋرە تۇغقان"
+                ],
+                "Kazakh": [
+                    "немере бауыр",
+                    "немере қарындас",
+                    "немере іні",
+                    "немере апа"
+                ],
+                "Karakalpak": [
+                    "nemere aǵa",
+                    "nemere qarındas",
+                    "nemere іnі",
+                    "nemere apa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "böläniň çagasy"
+                ],
+                "Kyrgyz": [
+                    "бөлө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nabira amaki",
+                    "nabira amma",
+                    "nabira toga",
+                    "nabira xola"
+                ],
+                "Kyrgyz": [
+                    "небере бир тууган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "алыскы тууган"
+                ],
+                "Bashkir": [
+                    "алыҫ туған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yeğen çocuğu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "torun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəvə",
+                    "nəticə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uzaq qohum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çowluk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يىراق نەۋرە"
+                ]
+            }
+        }
+    ]
+}
+```
+

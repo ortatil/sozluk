@@ -1,0 +1,120 @@
+# Volcanic eruption
+| Field | Detail |
+|---|---|
+| **ID** | i75794 |
+| **English** | volcanic eruption |
+| **Type** | noun |
+| **Definition** | the sudden occurrence of a violent discharge of steam and volcanic material |
+| **Source** | common |
+| **Ortatil** | atqın |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاتقۇن | atqun |
+
+```json
+{
+    "id": "i75794",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "volcanic eruption",
+    "en_definition": "the sudden occurrence of a violent discharge of steam and volcanic material",
+    "tr_word": "volkanik patlama",
+    "tr_definition": "buhar ve volkanik materyalin şiddetli bir şekilde aniden dışarı püskürmesi",
+    "ru_word": "извержение вулкана",
+    "ru_definition": "внезапный выброс пара и вулканического материала из недр вулкана",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "volkanik patlama",
+                    "volkan püskürmesi"
+                ],
+                "Azerbaijani": [
+                    "vulkan püskürməsi",
+                    "vulkan partlayışı"
+                ],
+                "Turkmen": [
+                    "wulkan atylmasy",
+                    "wulkan püskürmesi",
+                    "wulkan partlamasy"
+                ],
+                "Uzbek": [
+                    "vulqon otilishi",
+                    "vulqon portlashi",
+                    "vulqon jo'shishi"
+                ],
+                "Kyrgyz": [
+                    "вулкандын атылышы"
+                ],
+                "Karakalpak": [
+                    "wulkannıń atılıoı",
+                    "wulkannıń jarılıoı"
+                ],
+                "Tatar": [
+                    "вулкан атылу",
+                    "вулкан ату"
+                ],
+                "Bashkir": [
+                    "вулкан атылыуы",
+                    "вулкан урғылыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanardağ püskürmesi",
+                    "yanardağ patlaması"
+                ],
+                "Uyghur": [
+                    "يانار تاغ پارتلىشى",
+                    "يانار تاغ ئېتىلىشى"
+                ],
+                "Kazakh": [
+                    "жанартау атқылауы",
+                    "жанартаудың оянуы",
+                    "жанартаудың бүркуі"
+                ],
+                "Kyrgyz": [
+                    "жанар тоонун атылышы",
+                    "жанар тоо атылуусу"
+                ],
+                "Karakalpak": [
+                    "janartao atılıoı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "püskürmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاتقۇن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "утлы тау атылу"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,278 @@
+# Nook
+| Field | Detail |
+|---|---|
+| **ID** | i82382 |
+| **English** | nook |
+| **Type** | noun |
+| **Definition** | a sheltered and secluded place |
+| **Source** | common |
+| **Ortatil** | bucak, qoşä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **bucak** | **qoşä** | **kuş** | **tüpkür** | **burış** |
+|---|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Uyghur | ❌ | ❌ | ❌ | ✅ | ❌ |
+| Kazakh | ❌ | ✅ | ❌ | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Karakalpak | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Tatar | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Bashkir | ❌ | ❌ | ❌ | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 0.67 | 0.33 | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0.50 | 0 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.20 | 0.40 | 0.40 | 0.60 |
+| *In All* | ✅ | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ |  |  |
+| **O'TQ** | **2.90** | **2.37** | **1.23** | **0.90** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تۈپكۈر | tüpkür |
+| بۇلۇڭ | buluñ |
+| پاسىل | pasil |
+| **Kazakh** | |
+| қуыс | quıs |
+| түкпір | tükpir |
+| бұрыш | burış |
+| **Kyrgyz** | |
+| бурч | burç |
+| кууш | kuuş |
+| ыктоо | ıktoo |
+| ыктооч | ıktooç |
+| колот | kolot |
+| **Tatar** | |
+| почмак | poçmak |
+| куыш | kuış |
+| ышык | ışık |
+| төяк | töyak |
+| **Bashkir** | |
+| төпкөл | töpköl |
+| урын | urın |
+| мөйөш | möyöş |
+| ышыҡ | ışıq |
+
+```json
+{
+    "id": "i82382",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nook",
+    "en_definition": "a sheltered and secluded place",
+    "tr_word": "kuytu",
+    "tr_definition": "gözden uzak, tenha ve korunaklı yer",
+    "ru_word": "укромный уголок",
+    "ru_definition": "тихое, уединенное и защищенное место",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bucak"
+                ],
+                "Azerbaijani": [
+                    "bucaq"
+                ],
+                "Turkmen": [
+                    "buçak"
+                ],
+                "Uzbek": [
+                    "burchak"
+                ],
+                "Kyrgyz": [
+                    "бурч"
+                ],
+                "Tatar": [
+                    "почмак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "köşe"
+                ],
+                "Azerbaijani": [
+                    "guşə"
+                ],
+                "Uzbek": [
+                    "go'sha"
+                ],
+                "Kazakh": [
+                    "қуыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuytu"
+                ],
+                "Kyrgyz": [
+                    "кууш"
+                ],
+                "Tatar": [
+                    "куыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xəlvət"
+                ],
+                "Uzbek": [
+                    "xilvat"
+                ],
+                "Uyghur": [
+                    "خىلۋەت جاي"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۈپكۈر"
+                ],
+                "Kazakh": [
+                    "түкпір"
+                ],
+                "Bashkir": [
+                    "төпкөл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бұрыш"
+                ],
+                "Karakalpak": [
+                    "burısh"
+                ],
+                "Bashkir": [
+                    "урын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "künc"
+                ],
+                "Turkmen": [
+                    "künjek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "panoh",
+                    "pinhon"
+                ],
+                "Karakalpak": [
+                    "pana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ыктоо",
+                    "ыктооч"
+                ],
+                "Karakalpak": [
+                    "ıqtasın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "múyіs"
+                ],
+                "Bashkir": [
+                    "мөйөш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ышык"
+                ],
+                "Bashkir": [
+                    "ышыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zaviye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çüňk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۇلۇڭ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پاسىل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оңаша жер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "колот"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төяк"
+                ]
+            }
+        }
+    ]
+}
+```
+

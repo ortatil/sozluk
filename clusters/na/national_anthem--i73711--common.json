@@ -1,0 +1,123 @@
+{
+    "id": "i73711",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "national anthem",
+    "en_definition": "a song formally adopted as the anthem for a nation",
+    "tr_word": "millî marş",
+    "tr_definition": "bir ulusu temsil etmek üzere resmen kabul edilmiş olan marş",
+    "ru_word": "государственный гимн",
+    "ru_definition": "торжественная песня, принятая как символ государственного единства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milli marş"
+                ],
+                "Azerbaijani": [
+                    "milli marş"
+                ],
+                "Turkmen": [
+                    "milli gimn"
+                ],
+                "Uzbek": [
+                    "milliy madhiya"
+                ],
+                "Uyghur": [
+                    "مىللىي مارش"
+                ],
+                "Tatar": [
+                    "милли гимн"
+                ],
+                "Bashkir": [
+                    "милли гимн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "himn"
+                ],
+                "Kazakh": [
+                    "гимн"
+                ],
+                "Kyrgyz": [
+                    "гимн"
+                ],
+                "Karakalpak": [
+                    "gimn"
+                ],
+                "Tatar": [
+                    "гимн"
+                ],
+                "Bashkir": [
+                    "гимн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "döwlet gimni"
+                ],
+                "Uzbek": [
+                    "davlat madhiyasi"
+                ],
+                "Uyghur": [
+                    "دۆلەت مارشى"
+                ],
+                "Tatar": [
+                    "дәүләт гимны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ulusal marş"
+                ],
+                "Kyrgyz": [
+                    "улуттук гимн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istiklal marşı"
+                ],
+                "Azerbaijani": [
+                    "istiqlal marşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мамлекеттик гимн"
+                ],
+                "Karakalpak": [
+                    "mámleketlik gimn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "madhiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әнұран"
+                ]
+            }
+        }
+    ]
+}

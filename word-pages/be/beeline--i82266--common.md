@@ -1,0 +1,164 @@
+# Beeline
+| Field | Detail |
+|---|---|
+| **ID** | i82266 |
+| **English** | beeline |
+| **Type** | noun |
+| **Definition** | the most direct route |
+| **Source** | common |
+| **Ortatil** | istikämet |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i82266",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "beeline",
+    "en_definition": "the most direct route",
+    "tr_word": "kuş uçuşu en kısa yol",
+    "tr_definition": "iki nokta arasındaki en kestirme ve doğrudan rota",
+    "ru_word": "кратчайший путь",
+    "ru_definition": "самый прямой и быстрый маршрут между двумя точками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "en kestirme yol",
+                    "en kısa yol"
+                ],
+                "Azerbaijani": [
+                    "ən qısa yol"
+                ],
+                "Turkmen": [
+                    "iň gysga ýol"
+                ],
+                "Uzbek": [
+                    "eng qisqa yo'l"
+                ],
+                "Uyghur": [
+                    "ئەڭ قىسقا يول"
+                ],
+                "Kazakh": [
+                    "ең қысқа жол"
+                ],
+                "Karakalpak": [
+                    "eń qısqa jol"
+                ],
+                "Bashkir": [
+                    "иң ҡыҫҡа юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doğru hat"
+                ],
+                "Azerbaijani": [
+                    "doğru yol"
+                ],
+                "Turkmen": [
+                    "dogry ýol"
+                ],
+                "Uzbek": [
+                    "to'g'ri yo'l"
+                ],
+                "Uyghur": [
+                    "توسا يول"
+                ],
+                "Kazakh": [
+                    "тура жол"
+                ],
+                "Tatar": [
+                    "туры юл"
+                ],
+                "Bashkir": [
+                    "тура юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "düz yol"
+                ],
+                "Uyghur": [
+                    "تۈز يول"
+                ],
+                "Kyrgyz": [
+                    "түз жол"
+                ],
+                "Karakalpak": [
+                    "túz jol"
+                ],
+                "Tatar": [
+                    "төз юл"
+                ],
+                "Bashkir": [
+                    "төҙ юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kəsmə yol"
+                ],
+                "Kyrgyz": [
+                    "кыска жол"
+                ],
+                "Tatar": [
+                    "кыска юл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төте жол"
+                ],
+                "Karakalpak": [
+                    "tóte jol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istikamet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gönümel ýol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tik yo'l"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түз багыт"
+                ]
+            }
+        }
+    ]
+}
+```
+

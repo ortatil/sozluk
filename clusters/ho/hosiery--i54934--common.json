@@ -1,0 +1,106 @@
+{
+    "id": "i54934",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hosiery",
+    "en_definition": "socks and stockings and tights collectively (the British include underwear)",
+    "tr_word": "çorap ve iç çamaşırı",
+    "tr_definition": "Çoraplar, külotlu çoraplar ve bazen iç çamaşırlarını kapsayan giyim eşyalarının genel adı.",
+    "ru_word": "чулочно-носочные изделия",
+    "ru_definition": "Собирательное название для носков, чулок и колготок (в британском английском также включает нижнее белье).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "paypoqlar",
+                    "paypoq-paytava",
+                    "paypoq mahsulotlari"
+                ],
+                "Uyghur": [
+                    "پايپاق",
+                    "پايپاق-سايپاق"
+                ],
+                "Kyrgyz": [
+                    "байпак",
+                    "байпак-чулгак",
+                    "байпактар"
+                ],
+                "Karakalpak": [
+                    "baypaq"
+                ],
+                "Bashkir": [
+                    "байпаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çorap",
+                    "çorapçılık"
+                ],
+                "Azerbaijani": [
+                    "corab",
+                    "corab-tuman"
+                ],
+                "Turkmen": [
+                    "jorap",
+                    "joraplar"
+                ],
+                "Uyghur": [
+                    "جوراپ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "triko"
+                ],
+                "Azerbaijani": [
+                    "trikotaj"
+                ],
+                "Turkmen": [
+                    "triko"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ұйықтар"
+                ],
+                "Tatar": [
+                    "оек-бәйләм",
+                    "оек-портык"
+                ],
+                "Bashkir": [
+                    "ойоҡ-байпаҡ",
+                    "ойоҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шұлық-ұйық",
+                    "шұлықтар"
+                ],
+                "Karakalpak": [
+                    "shұlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "оек"
+                ]
+            }
+        }
+    ]
+}

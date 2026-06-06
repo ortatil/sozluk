@@ -1,0 +1,294 @@
+# Calm
+| Field | Detail |
+|---|---|
+| **ID** | i2969 |
+| **English** | calm |
+| **Type** | adjective |
+| **Definition** | not agitated; without losing self-possession |
+| **Source** | common |
+| **Ortatil** | ḍeniç, sakin |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍeniç** | **sakin** | **asudä** | **sabırlı** | **baysaldı** | **caylı** |
+|---|---|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Turkmen | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Uzbek | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| Karakalpak | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 1 | 1 | 0 | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0.50 | 1 | 0.50 | 0 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.20 | 0 | 0.80 | 0.60 | 0.60 |
+| *In All* | ✅ | ✅ |  |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |  |  |
+| **O'TQ** | **3.17** | **2.70** | **2** | **1.30** | **0.60** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تېنىچ | teniç |
+| ئاسايىش | asayiş |
+| ساپ | sap |
+| خاتىرجەم | xatirjäm |
+| مۇلايىم | mulayim |
+| **Kazakh** | |
+| тыныш | tınış |
+| сабырлы | sabırlı |
+| байсалды | baysaldı |
+| бейбіт | beybit |
+| жайлы | jaylı |
+| **Kyrgyz** | |
+| тынч | tınç |
+| сабырдуу | sabırduu |
+| бейпил | beypil |
+| бейкут | beykut |
+| жайдары | jaydarı |
+| **Tatar** | |
+| тыныч | tınıç |
+| сабыр | sabır |
+| сәламәт | sälamät |
+| хәвефсез | xävefsez |
+| аек | ayek |
+| **Bashkir** | |
+| тыныс | tınıs |
+| сабыр | sabır |
+| хәүефһеҙ | xäüyefhez |
+| аяз | ayaz |
+
+```json
+{
+    "id": "i2969",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "calm",
+    "en_definition": "not agitated; without losing self-possession",
+    "tr_word": "sakin",
+    "tr_definition": "heyecanlı veya telaşlı olmayan; soğukkanlılığını koruyan",
+    "ru_word": "спокойный",
+    "ru_definition": "не проявляющий волнения или беспокойства; сохраняющий самообладание",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dingin"
+                ],
+                "Azerbaijani": [
+                    "dinclik"
+                ],
+                "Uyghur": [
+                    "تېنىچ"
+                ],
+                "Kazakh": [
+                    "тыныш"
+                ],
+                "Kyrgyz": [
+                    "тынч"
+                ],
+                "Karakalpak": [
+                    "tınısh"
+                ],
+                "Tatar": [
+                    "тыныч"
+                ],
+                "Bashkir": [
+                    "тыныс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sakin"
+                ],
+                "Azerbaijani": [
+                    "sakit"
+                ],
+                "Turkmen": [
+                    "sakin"
+                ],
+                "Uzbek": [
+                    "sokin"
+                ],
+                "Bashkir": [
+                    "сабыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asude"
+                ],
+                "Azerbaijani": [
+                    "asudə"
+                ],
+                "Turkmen": [
+                    "asuda"
+                ],
+                "Uzbek": [
+                    "osuda",
+                    "osoyishta"
+                ],
+                "Uyghur": [
+                    "ئاسايىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ساپ"
+                ],
+                "Kazakh": [
+                    "сабырлы"
+                ],
+                "Kyrgyz": [
+                    "сабырдуу"
+                ],
+                "Karakalpak": [
+                    "sabırlı"
+                ],
+                "Tatar": [
+                    "сабыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "байсалды",
+                    "бейбіт"
+                ],
+                "Kyrgyz": [
+                    "бейпил",
+                    "бейкут"
+                ],
+                "Karakalpak": [
+                    "biymazasız"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жайлы"
+                ],
+                "Kyrgyz": [
+                    "жайдары"
+                ],
+                "Karakalpak": [
+                    "jaylı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "huzurlu"
+                ],
+                "Azerbaijani": [
+                    "hüzurlu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təmkinli"
+                ],
+                "Uzbek": [
+                    "vazmin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xotirjam"
+                ],
+                "Uyghur": [
+                    "خاتىرجەم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "salmaqlı"
+                ],
+                "Tatar": [
+                    "сәламәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәвефсез"
+                ],
+                "Bashkir": [
+                    "хәүефһеҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аек"
+                ],
+                "Bashkir": [
+                    "аяз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müsterih"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arkaýyn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "parahat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ynjalykly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇلايىم"
+                ]
+            }
+        }
+    ]
+}
+```
+

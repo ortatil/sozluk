@@ -1,0 +1,84 @@
+{
+    "id": "i7625",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "waterproof",
+    "en_definition": "not permitting the passage of water",
+    "tr_word": "su geçirmez",
+    "tr_definition": "suyun geçmesine izin vermeyen",
+    "ru_word": "водонепроницаемый",
+    "ru_definition": "не пропускающий воду",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su geçirmez",
+                    "su almaz",
+                    "su sızdırmaz"
+                ],
+                "Azerbaijani": [
+                    "su keçirməyən",
+                    "su keçirməz"
+                ],
+                "Turkmen": [
+                    "suw geçirmeýän",
+                    "suw geçmez",
+                    "suwa çydamly"
+                ],
+                "Uzbek": [
+                    "suv o'tkazmaydigan",
+                    "suv o'tmas",
+                    "suvga chidamli"
+                ],
+                "Uyghur": [
+                    "سۇ ئۆتمەس",
+                    "سۇ ئۆتكۈزمەس"
+                ],
+                "Kazakh": [
+                    "су өткізбейтін",
+                    "су өтпес",
+                    "суға төзімді"
+                ],
+                "Kyrgyz": [
+                    "суу өткөрбөгөн",
+                    "суу өтпөс",
+                    "суу тийбес"
+                ],
+                "Karakalpak": [
+                    "suo ótpeytuǵın",
+                    "suo ótpes",
+                    "suoǵa tózimli"
+                ],
+                "Tatar": [
+                    "су үткәрми торган",
+                    "су үткәрмәс",
+                    "суга чыдам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "suya davamlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇدىن مۇداپىئەلىنىدىغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу үткәрмәүсе",
+                    "һыу үтмәҫлек",
+                    "һыу үтмәй торған"
+                ]
+            }
+        }
+    ]
+}

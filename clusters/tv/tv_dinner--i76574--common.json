@@ -1,0 +1,151 @@
+{
+    "id": "i76574",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tv dinner",
+    "en_definition": "a meal that is prepared in advance and frozen; can be heated and served",
+    "tr_word": "hazır dondurulmuş yemek",
+    "tr_definition": "Önceden hazırlanmış, dondurulmuş ve sadece ısıtılarak tüketilmeye hazır hale getirilen paketlenmiş öğün.",
+    "ru_word": "замороженный готовый обед",
+    "ru_definition": "Заранее приготовленное и замороженное блюдо в упаковке, которое нужно только разогреть перед употреблением.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dondurulmuş yemek"
+                ],
+                "Azerbaijani": [
+                    "dondurulmuş yemək"
+                ],
+                "Turkmen": [
+                    "doňdurylan nahar"
+                ],
+                "Kyrgyz": [
+                    "тоңдурулган тамак"
+                ],
+                "Tatar": [
+                    "туңдырылган ризык"
+                ],
+                "Bashkir": [
+                    "туңдырылған аш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazır yemek"
+                ],
+                "Azerbaijani": [
+                    "hazır yemək"
+                ],
+                "Kyrgyz": [
+                    "даяр тамак"
+                ],
+                "Karakalpak": [
+                    "dayar taǵam"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýýar nahar"
+                ],
+                "Uzbek": [
+                    "tayyor taom"
+                ],
+                "Uyghur": [
+                    "تەييار تاماق",
+                    "تەييارلانغان تاماق"
+                ],
+                "Kazakh": [
+                    "дайын ас",
+                    "дайын тамақ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muzlatilgan ovqat"
+                ],
+                "Uyghur": [
+                    "تۇڭلىتىلغان تاماق"
+                ],
+                "Kazakh": [
+                    "мұздатылған ас"
+                ],
+                "Karakalpak": [
+                    "mұzdatılǵan taǵam"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çalt taýýarlanýan nahar"
+                ],
+                "Kyrgyz": [
+                    "тез даярдалуучу тамак"
+                ],
+                "Karakalpak": [
+                    "tez tayarlanatuǵın taǵam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "әзер аш"
+                ],
+                "Bashkir": [
+                    "әҙер аш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тиз әзерләнүче аш"
+                ],
+                "Bashkir": [
+                    "тиҙ әҙерләнеүсе аш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paket yemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ayaqüstü yemək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yarim tayyor taom"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тез дайындалатын тамақ"
+                ]
+            }
+        }
+    ]
+}

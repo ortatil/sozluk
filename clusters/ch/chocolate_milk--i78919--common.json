@@ -1,0 +1,59 @@
+{
+    "id": "i78919",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chocolate milk",
+    "en_definition": "milk flavored with chocolate syrup",
+    "tr_word": "çikolatalı süt",
+    "tr_definition": "çikolata şurubu veya tozu ile tatlandırılmış süt",
+    "ru_word": "шоколадное молоко",
+    "ru_definition": "молоко, приправленное шоколадным сиропом или порошком",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çikolatalı süt"
+                ],
+                "Azerbaijani": [
+                    "şokoladlı süd"
+                ],
+                "Turkmen": [
+                    "şokoladly süýt"
+                ],
+                "Uzbek": [
+                    "shokoladli sut"
+                ],
+                "Uyghur": [
+                    "شوكولاتىلىق سۈت",
+                    "شوكولاتە سۈتى"
+                ],
+                "Kazakh": [
+                    "шоколадты сүт",
+                    "шоколад қосылған сүт"
+                ],
+                "Kyrgyz": [
+                    "шоколадтуу сүт",
+                    "шоколад кошулган сүт"
+                ],
+                "Karakalpak": [
+                    "shokoladlı sút",
+                    "shokolad qosılǵan sút"
+                ],
+                "Tatar": [
+                    "шоколадлы сөт"
+                ],
+                "Bashkir": [
+                    "шоколадлы һөт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kakaolu süt"
+                ]
+            }
+        }
+    ]
+}

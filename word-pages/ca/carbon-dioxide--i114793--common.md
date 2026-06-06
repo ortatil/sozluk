@@ -1,0 +1,87 @@
+# Carbon dioxide
+| Field | Detail |
+|---|---|
+| **ID** | i114793 |
+| **English** | carbon dioxide |
+| **Type** | noun |
+| **Definition** | a heavy odorless colorless gas formed during respiration and by the decomposition of organic substances; absorbed from the air by plants in photosynthesis |
+| **Source** | common |
+| **Ortatil** | karbondüoksüt |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i114793",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "carbon dioxide",
+    "en_definition": "a heavy odorless colorless gas formed during respiration and by the decomposition of organic substances; absorbed from the air by plants in photosynthesis",
+    "tr_word": "karbondioksit",
+    "tr_definition": "Solunum sırasında ve organik maddelerin ayrışmasıyla oluşan, bitkiler tarafından fotosentezde havadan emilen, ağır, kokusuz ve renksiz bir gaz.",
+    "ru_word": "углекислый газ",
+    "ru_definition": "Тяжелый бесцветный газ без запаха, образующийся при дыхании и разложении органических веществ; поглощается растениями из воздуха в процессе фотосинтеза.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kömürturşy gazy"
+                ],
+                "Uzbek": [
+                    "ko'mir kislota gazi"
+                ],
+                "Kazakh": [
+                    "көмірқышқыл газы",
+                    "көміртек диоксиді",
+                    "көміртек қос тотығы"
+                ],
+                "Kyrgyz": [
+                    "көмүр кычкыл газы",
+                    "көмүр кычкылы"
+                ],
+                "Karakalpak": [
+                    "kómir qıshqıl gazı",
+                    "kómirtek dioksidi"
+                ],
+                "Tatar": [
+                    "күмер пумаласы",
+                    "күмер тутыгы",
+                    "күмер тутыгы газы"
+                ],
+                "Bashkir": [
+                    "күмер кислотаһы газы",
+                    "күмер тутығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karbondioksit",
+                    "karbon gazı"
+                ],
+                "Azerbaijani": [
+                    "karbon qazı",
+                    "karbon dioksid"
+                ],
+                "Turkmen": [
+                    "karbon dioksidi"
+                ],
+                "Uzbek": [
+                    "karbonat angidrid",
+                    "karbonat gazi"
+                ],
+                "Uyghur": [
+                    "كاربون تۆت ئوكسىد",
+                    "كاربون غازى"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,137 @@
+{
+    "id": "i74305",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "offering",
+    "en_definition": "something offered (as a proposal or bid)",
+    "tr_word": "teklif",
+    "tr_definition": "bir öneri veya ihale olarak sunulan şey",
+    "ru_word": "предложение",
+    "ru_definition": "что-то предложенное (например, в качестве предложения или заявки)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teklif"
+                ],
+                "Azerbaijani": [
+                    "təklif",
+                    "təqdim"
+                ],
+                "Turkmen": [
+                    "teklip"
+                ],
+                "Uzbek": [
+                    "taklif",
+                    "tavsiya"
+                ],
+                "Uyghur": [
+                    "تەكلىپ",
+                    "تەقدىم"
+                ],
+                "Karakalpak": [
+                    "táklip"
+                ],
+                "Tatar": [
+                    "тәкъдим"
+                ],
+                "Bashkir": [
+                    "тәҡдим",
+                    "тәҡдимнамә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sunum"
+                ],
+                "Uyghur": [
+                    "سۇنۇق"
+                ],
+                "Kyrgyz": [
+                    "сунуш",
+                    "сунуштоо"
+                ],
+                "Tatar": [
+                    "суну"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "peşgeş"
+                ],
+                "Uzbek": [
+                    "peshkash"
+                ],
+                "Kazakh": [
+                    "базарлық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arz"
+                ],
+                "Azerbaijani": [
+                    "ərz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұсыныс"
+                ],
+                "Karakalpak": [
+                    "usınıs",
+                    "usınıs-pikir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тарту"
+                ],
+                "Kyrgyz": [
+                    "тартуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öneri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hödür"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сый"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "биреш"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+# Airline
+| Field | Detail |
+|---|---|
+| **ID** | i49894 |
+| **English** | airline |
+| **Type** | noun |
+| **Definition** | a commercial enterprise that provides scheduled flights for passengers |
+| **Source** | core |
+| **Ortatil** | awiakompaniya |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **awiakompaniya** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.63** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| авиакомпания | aviakompaniya |
+| **Tatar** | |
+| авиакомпания | aviakompaniya |
+| авиаширкат | aviaşirkat |
+| **Bashkir** | |
+| авиакомпания | aviakompaniya |
+
+```json
+{
+    "id": "i49894",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "airline",
+    "en_definition": "a commercial enterprise that provides scheduled flights for passengers",
+    "tr_word": "hava yolu şirketi",
+    "tr_definition": "yolcular için tarifeli uçuşlar sağlayan ticari bir işletme",
+    "ru_word": "авиакомпания",
+    "ru_definition": "коммерческое предприятие, обеспечивающее регулярные рейсы для пассажиров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hava yolu"
+                ],
+                "Azerbaijani": [
+                    "hava yolu",
+                    "hava yolları"
+                ],
+                "Turkmen": [
+                    "howa ýoly"
+                ],
+                "Uzbek": [
+                    "havo yo'llari"
+                ],
+                "Kazakh": [
+                    "әуе жолы"
+                ],
+                "Kyrgyz": [
+                    "аба жолу"
+                ],
+                "Karakalpak": [
+                    "haoa jolları"
+                ],
+                "Tatar": [
+                    "һава юллары"
+                ],
+                "Bashkir": [
+                    "һауа юлдары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "awiakompaniýa"
+                ],
+                "Kyrgyz": [
+                    "авиакомпания"
+                ],
+                "Karakalpak": [
+                    "awiakompaniya"
+                ],
+                "Tatar": [
+                    "авиакомпания"
+                ],
+                "Bashkir": [
+                    "авиакомпания"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aviasiya şirkəti"
+                ],
+                "Uyghur": [
+                    "ئاۋىئاتسىيە شىركىتى"
+                ],
+                "Tatar": [
+                    "авиаширкат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hava yolu şirketi"
+                ],
+                "Uyghur": [
+                    "ھاۋا يوللىرى شىركىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуе компаниясы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tayyare bölüğü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tayyoragoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "parvoz shirkati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howa kärhanasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аба каттамы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "осош ойошмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұшақ мекемесі"
+                ]
+            }
+        }
+    ]
+}
+```
+

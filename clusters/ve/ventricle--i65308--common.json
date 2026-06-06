@@ -1,0 +1,95 @@
+{
+    "id": "i65308",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ventricle",
+    "en_definition": "a chamber of the heart that receives blood from an atrium and pumps it to the arteries",
+    "tr_word": "karıncık",
+    "tr_definition": "kalbin alt kısmında bulunan ve kanı vücuda veya akciğerlere pompalayan boşluk",
+    "ru_word": "желудочек",
+    "ru_definition": "отдел сердца, получающий кровь из предсердия и нагнетающий её в артерии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karıncık"
+                ],
+                "Turkmen": [
+                    "garynjyk"
+                ],
+                "Uzbek": [
+                    "qorincha"
+                ],
+                "Uyghur": [
+                    "قېرىنچە"
+                ],
+                "Kazakh": [
+                    "қарынша"
+                ],
+                "Kyrgyz": [
+                    "карынча"
+                ],
+                "Karakalpak": [
+                    "qarınsha"
+                ],
+                "Tatar": [
+                    "карынчык"
+                ],
+                "Bashkir": [
+                    "ҡарынсыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýürek garynjygy"
+                ],
+                "Uzbek": [
+                    "yurak qorinchasi"
+                ],
+                "Uyghur": [
+                    "يۈرەك قېرىنچىسى"
+                ],
+                "Kazakh": [
+                    "жүрек қарыншасы"
+                ],
+                "Kyrgyz": [
+                    "жүрөк карынчасы"
+                ],
+                "Karakalpak": [
+                    "júrek qarınshası"
+                ],
+                "Tatar": [
+                    "йөрәк карынчыгы"
+                ],
+                "Bashkir": [
+                    "йөрәк ҡарынсығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "batın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mədəcik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəlb mədəciyi"
+                ]
+            }
+        }
+    ]
+}

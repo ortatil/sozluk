@@ -1,0 +1,158 @@
+{
+    "id": "i36692",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "roasting",
+    "en_definition": "cooking (meat) by dry heat in an oven (usually with fat added)",
+    "tr_word": "fırınlama",
+    "tr_definition": "Etin fırında, genellikle yağ eklenerek kuru ısıda pişirilmesi işlemi.",
+    "ru_word": "запекание",
+    "ru_definition": "Приготовление (мяса) сухим жаром в духовке (обычно с добавлением жира).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bişirmə"
+                ],
+                "Turkmen": [
+                    "bişirme"
+                ],
+                "Uzbek": [
+                    "pishirish"
+                ],
+                "Kazakh": [
+                    "пісіру"
+                ],
+                "Kyrgyz": [
+                    "бышыруу"
+                ],
+                "Tatar": [
+                    "пешерү"
+                ],
+                "Bashkir": [
+                    "бешереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızartma"
+                ],
+                "Azerbaijani": [
+                    "qızartma"
+                ],
+                "Uzbek": [
+                    "qovurish"
+                ],
+                "Kazakh": [
+                    "қақтау"
+                ],
+                "Tatar": [
+                    "кыздыру"
+                ],
+                "Bashkir": [
+                    "ҡыҙырыу",
+                    "ҡыҙҙырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kebap"
+                ],
+                "Azerbaijani": [
+                    "kabab"
+                ],
+                "Uzbek": [
+                    "kabob qilish"
+                ],
+                "Uyghur": [
+                    "كاۋاپ قىلىش"
+                ],
+                "Karakalpak": [
+                    "káoap"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qovurma"
+                ],
+                "Turkmen": [
+                    "gowurma"
+                ],
+                "Kyrgyz": [
+                    "кууруу"
+                ],
+                "Karakalpak": [
+                    "quırılıu"
+                ],
+                "Tatar": [
+                    "куыру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قورۇش"
+                ],
+                "Kazakh": [
+                    "қуыру"
+                ],
+                "Karakalpak": [
+                    "quırıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fırınlama"
+                ],
+                "Uzbek": [
+                    "biryon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daglama"
+                ],
+                "Uyghur": [
+                    "داغلاش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büryan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "асу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кактап бышыруу"
+                ]
+            }
+        }
+    ]
+}

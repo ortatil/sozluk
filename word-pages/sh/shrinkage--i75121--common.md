@@ -1,0 +1,250 @@
+# Shrinkage
+| Field | Detail |
+|---|---|
+| **ID** | i75121 |
+| **English** | shrinkage |
+| **Type** | noun |
+| **Definition** | process or result of becoming less or smaller |
+| **Source** | common |
+| **Ortatil** | kiçireyüw |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kiçireyüw** | **aziyüw** | **tarılış** | **kämeyiş** | **azalma** |
+|---|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Azerbaijani | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Turkmen | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Uzbek | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Uyghur | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Kyrgyz | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Karakalpak | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Tatar | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Bashkir | ✅ | ✅ | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0 | 0 | 0 | 1 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0.50 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 1 | 1 | 0.80 | 0.60 | 0 |
+| *In All* | ✅ |  |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |  |
+| **O'TQ** | **4** | **1.50** | **1.30** | **1.10** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كىچىكلەش | kiçikläş |
+| قىسقىراش | qisqiraş |
+| ئازىيىش | aziyiş |
+| تارىيىش | tariyiş |
+| تارقىلىش | tarqiliş |
+| **Kazakh** | |
+| кішірею | kişireyu |
+| азаю | azayu |
+| тарылу | tarılu |
+| қысқару | qısqaru |
+| сему | semu |
+| **Kyrgyz** | |
+| кыскаруу | kıskaruu |
+| азаюу | azayuu |
+| тарылуу | tarıluu |
+| чөгүү | çögüü |
+| **Tatar** | |
+| кыскару | kıskaru |
+| кечерәю | keçeräyu |
+| азаю | azayu |
+| кимү | kimü |
+| **Bashkir** | |
+| ҡыҫҡарыу | qısqarıu |
+| аҙайыу | azayıu |
+| тарыйыу | tarıyıu |
+| кәмеү | kämeü |
+| бәләкәйләнеү | bäläkäyläneü |
+
+```json
+{
+    "id": "i75121",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shrinkage",
+    "en_definition": "process or result of becoming less or smaller",
+    "tr_word": "küçülme",
+    "tr_definition": "bir şeyin boyutunun veya miktarının azalması süreci veya sonucu",
+    "ru_word": "усадка",
+    "ru_definition": "процесс или результат уменьшения в размере или объеме",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçülme"
+                ],
+                "Azerbaijani": [
+                    "kiçilmə"
+                ],
+                "Turkmen": [
+                    "kiçelme",
+                    "çekilme"
+                ],
+                "Uzbek": [
+                    "kichrayish"
+                ],
+                "Uyghur": [
+                    "كىچىكلەش",
+                    "قىسقىراش"
+                ],
+                "Kazakh": [
+                    "кішірею"
+                ],
+                "Kyrgyz": [
+                    "кыскаруу"
+                ],
+                "Karakalpak": [
+                    "kishireyio"
+                ],
+                "Tatar": [
+                    "кыскару",
+                    "кечерәю"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئازىيىش"
+                ],
+                "Kazakh": [
+                    "азаю"
+                ],
+                "Kyrgyz": [
+                    "азаюу"
+                ],
+                "Karakalpak": [
+                    "azayıo"
+                ],
+                "Tatar": [
+                    "азаю"
+                ],
+                "Bashkir": [
+                    "аҙайыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تارىيىش",
+                    "تارقىلىش"
+                ],
+                "Kazakh": [
+                    "тарылу"
+                ],
+                "Kyrgyz": [
+                    "тарылуу"
+                ],
+                "Karakalpak": [
+                    "tartılıo"
+                ],
+                "Bashkir": [
+                    "тарыйыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kamayish",
+                    "torayish"
+                ],
+                "Karakalpak": [
+                    "kemeyio"
+                ],
+                "Tatar": [
+                    "кимү"
+                ],
+                "Bashkir": [
+                    "кәмеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "daralma",
+                    "azalma"
+                ],
+                "Azerbaijani": [
+                    "azalma",
+                    "əskilmə"
+                ],
+                "Turkmen": [
+                    "azalma",
+                    "daralma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekme"
+                ],
+                "Azerbaijani": [
+                    "çəkilmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qisqarish"
+                ],
+                "Kazakh": [
+                    "қысқару"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eksiltme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yığılma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сему"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чөгүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәйләнеү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,103 @@
+{
+    "id": "i66265",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wrist",
+    "en_definition": "a joint between the distal end of the radius and the proximal row of carpal bones",
+    "tr_word": "bilek",
+    "tr_definition": "elin kolla birleştiği bölüm",
+    "ru_word": "запястье",
+    "ru_definition": "часть верхней конечности между предплечьем и пястью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilek"
+                ],
+                "Azerbaijani": [
+                    "bilək"
+                ],
+                "Turkmen": [
+                    "bilek"
+                ],
+                "Uzbek": [
+                    "bilak"
+                ],
+                "Uyghur": [
+                    "بىلەك بوغۇمى"
+                ],
+                "Kazakh": [
+                    "білек",
+                    "білезік"
+                ],
+                "Kyrgyz": [
+                    "билек"
+                ],
+                "Karakalpak": [
+                    "bіlek",
+                    "bіlek buını"
+                ],
+                "Tatar": [
+                    "беләзек",
+                    "беләзек буыны"
+                ],
+                "Bashkir": [
+                    "беләҙек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قول بوغۇمى"
+                ],
+                "Tatar": [
+                    "кул буыны"
+                ],
+                "Bashkir": [
+                    "ҡулбаш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bənd"
+                ],
+                "Uzbek": [
+                    "panja boʻgʻimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el bileği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boʻgʻim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "муун"
+                ]
+            }
+        }
+    ]
+}

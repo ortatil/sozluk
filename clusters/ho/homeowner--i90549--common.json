@@ -1,0 +1,129 @@
+{
+    "id": "i90549",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "homeowner",
+    "en_definition": "someone who owns a home",
+    "tr_word": "ev sahibi",
+    "tr_definition": "bir evin mülkiyetine sahip olan kimse",
+    "ru_word": "домовладелец",
+    "ru_definition": "лицо, владеющее жилым домом на правах собственности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mülk sahibi"
+                ],
+                "Azerbaijani": [
+                    "mülk sahibi",
+                    "mülkiyyətçi"
+                ],
+                "Turkmen": [
+                    "mülkdär"
+                ],
+                "Uzbek": [
+                    "mulkdor"
+                ],
+                "Uyghur": [
+                    "مۈلۈكدار"
+                ],
+                "Kazakh": [
+                    "мүлік иесі"
+                ],
+                "Karakalpak": [
+                    "múlkdar"
+                ],
+                "Tatar": [
+                    "мөлкәт иясе"
+                ],
+                "Bashkir": [
+                    "мөлкәт хужаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öý eýesi"
+                ],
+                "Uzbek": [
+                    "uy egasi"
+                ],
+                "Uyghur": [
+                    "ئۆي ئىگىسى",
+                    "ئۆي خوجايىنى"
+                ],
+                "Kazakh": [
+                    "үй иесі",
+                    "үйжай иесі"
+                ],
+                "Kyrgyz": [
+                    "үй ээси"
+                ],
+                "Karakalpak": [
+                    "úy iyesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ev sahibi"
+                ],
+                "Azerbaijani": [
+                    "ev sahibi"
+                ],
+                "Karakalpak": [
+                    "jay iyesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hane sahibi"
+                ],
+                "Uzbek": [
+                    "hovli egasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йорт хуҗасы"
+                ],
+                "Bashkir": [
+                    "йорт хужаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өй хуҗасы"
+                ],
+                "Bashkir": [
+                    "өй хужаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howly eýesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кожоюн"
+                ]
+            }
+        }
+    ]
+}

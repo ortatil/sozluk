@@ -1,0 +1,125 @@
+# Paintball
+| Field | Detail |
+|---|---|
+| **ID** | i37867 |
+| **English** | paintball |
+| **Type** | noun |
+| **Definition** | a game that simulates military combat; players on one team try to eliminate players on the opposing team by shooting capsules of paint at them |
+| **Source** | common |
+| **Ortatil** | ortatil_error |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پەينتبول | päyntbol |
+
+```json
+{
+    "id": "i37867",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paintball",
+    "en_definition": "a game that simulates military combat; players on one team try to eliminate players on the opposing team by shooting capsules of paint at them",
+    "tr_word": "paintball",
+    "tr_definition": "Oyuncuların birbirlerini içi boya dolu küçük plastik toplar atan silahlarla elemeye çalıştığı, askeri simülasyon temalı bir açık hava sporu.",
+    "ru_word": "пейнтбол",
+    "ru_definition": "Командная игра с использованием маркеров, стреляющих шариками с краской, имитирующая скоротечные огневые контакты на ограниченном пространстве.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boya topu",
+                    "boya savaşı"
+                ],
+                "Azerbaijani": [
+                    "boya topu oyunu",
+                    "boya savaşı"
+                ],
+                "Turkmen": [
+                    "boýagly söweş oýny"
+                ],
+                "Uzbek": [
+                    "bo'yoqli o'yin",
+                    "bo'yoq otish o'yini"
+                ],
+                "Uyghur": [
+                    "بويوق ئوق ئويۇنى"
+                ],
+                "Kazakh": [
+                    "бояулы атыс",
+                    "бояулы ойын",
+                    "бояумен атысу"
+                ],
+                "Kyrgyz": [
+                    "боёк атышуу",
+                    "боёк оюну"
+                ],
+                "Karakalpak": [
+                    "boyaulı atıs oyını"
+                ],
+                "Tatar": [
+                    "буяулы уен",
+                    "буяулы сугыш",
+                    "буяулы атыш"
+                ],
+                "Bashkir": [
+                    "буяулы уйын",
+                    "буяу менән атыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "rəngli güllə oyunu"
+                ],
+                "Turkmen": [
+                    "reňkli okly oýun"
+                ],
+                "Uyghur": [
+                    "رەڭلىك ئوق ئويۇنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پەينتبول"
+                ],
+                "Karakalpak": [
+                    "peyntbol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jangovar o'yin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "согуш оюну"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәрби уйын"
+                ]
+            }
+        }
+    ]
+}
+```
+

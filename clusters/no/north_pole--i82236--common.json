@@ -1,0 +1,83 @@
+{
+    "id": "i82236",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north pole",
+    "en_definition": "the northernmost point of the Earth's axis",
+    "tr_word": "kuzey kutbu",
+    "tr_definition": "Dünya ekseninin en kuzeydeki noktası",
+    "ru_word": "северный полюс",
+    "ru_definition": "самая северная точка земной оси",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şimal kutbu"
+                ],
+                "Azerbaijani": [
+                    "şimal qütbü",
+                    "şimal nöqtəsi"
+                ],
+                "Uzbek": [
+                    "shimoliy qutb",
+                    "shimol qutbi"
+                ],
+                "Uyghur": [
+                    "شىمالىي قۇتۇپ",
+                    "شىمال قۇتۇبى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "түндүк уюл",
+                    "түндүк тарап"
+                ],
+                "Karakalpak": [
+                    "túndіk polyus"
+                ],
+                "Tatar": [
+                    "төньяк котып",
+                    "төньяк нокта"
+                ],
+                "Bashkir": [
+                    "төньяҡ ҡотоп",
+                    "төньяҡ полюс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuzey kutbu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demirgazyk polýusy",
+                    "demirgazyk kutuby"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстік полюс",
+                    "солтүстік қиыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "arqa polyus"
+                ]
+            }
+        }
+    ]
+}

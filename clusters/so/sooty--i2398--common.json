@@ -1,0 +1,127 @@
+{
+    "id": "i2398",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sooty",
+    "en_definition": "covered with or as if with soot",
+    "tr_word": "isli",
+    "tr_definition": "is ile kaplanmış veya islenmiş olan",
+    "ru_word": "закопчённый",
+    "ru_definition": "покрытый слоем копоти или сажи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karalı",
+                    "kurumlu"
+                ],
+                "Azerbaijani": [
+                    "qurumlu",
+                    "qara"
+                ],
+                "Turkmen": [
+                    "gurumlu",
+                    "garalan"
+                ],
+                "Uzbek": [
+                    "qora",
+                    "qurumlu",
+                    "qurumlangan"
+                ],
+                "Uyghur": [
+                    "قۇراملىق",
+                    "قۇرام باسقان",
+                    "قۇراملىق باسقان",
+                    "قارا"
+                ],
+                "Kazakh": [
+                    "қара"
+                ],
+                "Karakalpak": [
+                    "qara"
+                ],
+                "Tatar": [
+                    "корымлы",
+                    "кара"
+                ],
+                "Bashkir": [
+                    "ҡоромло",
+                    "ҡором баҫҡан",
+                    "ҡоромланған",
+                    "ҡара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "isli"
+                ],
+                "Azerbaijani": [
+                    "isli"
+                ],
+                "Turkmen": [
+                    "isli"
+                ],
+                "Uzbek": [
+                    "isli"
+                ],
+                "Kazakh": [
+                    "ысты"
+                ],
+                "Karakalpak": [
+                    "ıslı"
+                ],
+                "Tatar": [
+                    "ыслы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dumanlı"
+                ],
+                "Azerbaijani": [
+                    "dumanlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күйелі",
+                    "күйе басқан"
+                ],
+                "Karakalpak": [
+                    "kúyelі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ышталган",
+                    "ыштуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көөлүү",
+                    "көө баскан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "корым баскан"
+                ]
+            }
+        }
+    ]
+}

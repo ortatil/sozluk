@@ -1,0 +1,111 @@
+{
+    "id": "i37060",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sailing",
+    "en_definition": "riding in a sailboat",
+    "tr_word": "yelkencilik",
+    "tr_definition": "yelkenli bir tekne ile yapılan yolculuk veya spor",
+    "ru_word": "парусный спорт",
+    "ru_definition": "плавание на парусном судне в качестве спорта или отдыха",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yelkencilik"
+                ],
+                "Azerbaijani": [
+                    "yelkənçilik"
+                ],
+                "Turkmen": [
+                    "ýelkenli ýüzüş",
+                    "ýelkenli syýahat"
+                ],
+                "Uzbek": [
+                    "yelkanli suzish"
+                ],
+                "Uyghur": [
+                    "يەلكەنلىك كېمە ھەيدەش",
+                    "يەلكەنلىك كېمە ساياھىتى"
+                ],
+                "Kazakh": [
+                    "желкенді жүзу",
+                    "желкенді спорт"
+                ],
+                "Kyrgyz": [
+                    "желкендүү кемеде жүрүү"
+                ],
+                "Karakalpak": [
+                    "jelkenli kemede júzio",
+                    "jelkenli qayıqta júzio",
+                    "jelkenshilik"
+                ],
+                "Tatar": [
+                    "җилкәнле йөрү",
+                    "җилкәнчелек"
+                ],
+                "Bashkir": [
+                    "елкәнле йөҙөү",
+                    "елкәнле кәмәлә йөрөү",
+                    "елкәнле кәмәселек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gämide ýüzmek"
+                ],
+                "Uzbek": [
+                    "kemachilik"
+                ],
+                "Uyghur": [
+                    "كېمىچىلىك"
+                ],
+                "Kazakh": [
+                    "кемемен жүзу"
+                ],
+                "Kyrgyz": [
+                    "кемеде сүзүү",
+                    "кемечилик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "denizcilik"
+                ],
+                "Azerbaijani": [
+                    "dənizçilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzmə"
+                ],
+                "Tatar": [
+                    "йөзү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seyir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "daryochilik"
+                ]
+            }
+        }
+    ]
+}

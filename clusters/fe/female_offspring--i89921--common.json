@@ -1,0 +1,99 @@
+{
+    "id": "i89921",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "female offspring",
+    "en_definition": "a child who is female",
+    "tr_word": "kız evlat",
+    "tr_definition": "Kız cinsiyetinde olan çocuk",
+    "ru_word": "дочь",
+    "ru_definition": "Лицо женского пола по отношению к своим родителям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kız",
+                    "kız evlat"
+                ],
+                "Azerbaijani": [
+                    "qız"
+                ],
+                "Turkmen": [
+                    "gyz",
+                    "gyz perzent"
+                ],
+                "Uzbek": [
+                    "qiz",
+                    "qiz farzand"
+                ],
+                "Uyghur": [
+                    "قىز",
+                    "قىز پەرزەنت",
+                    "قىز بالا"
+                ],
+                "Kazakh": [
+                    "қыз"
+                ],
+                "Kyrgyz": [
+                    "кыз",
+                    "кыз бала"
+                ],
+                "Karakalpak": [
+                    "qız"
+                ],
+                "Tatar": [
+                    "кыз",
+                    "кыз бала"
+                ],
+                "Bashkir": [
+                    "ҡыҙ",
+                    "ҡыҙ бала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fərzənd"
+                ],
+                "Kazakh": [
+                    "перзент",
+                    "перзент-қыз"
+                ],
+                "Kyrgyz": [
+                    "перзент"
+                ],
+                "Karakalpak": [
+                    "perzent",
+                    "perzent-qız"
+                ],
+                "Tatar": [
+                    "перзент"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kerime"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "övlad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "duxtar"
+                ]
+            }
+        }
+    ]
+}

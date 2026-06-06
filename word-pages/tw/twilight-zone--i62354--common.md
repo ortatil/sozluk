@@ -1,0 +1,263 @@
+# Twilight zone
+| Field | Detail |
+|---|---|
+| **ID** | i62354 |
+| **English** | twilight zone |
+| **Type** | noun |
+| **Definition** | the ambiguous region between two categories or states or conditions (usually containing some features of both) |
+| **Source** | common |
+| **Ortatil** | aralıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **aralıq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| аралык | aralık |
+| бусага | busaga |
+| **Bashkir** | |
+| аралыҡ | aralıq |
+| билдәһеҙлек | bildähezlek |
+| сиктәшлек | siktäşlek |
+
+```json
+{
+    "id": "i62354",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "twilight zone",
+    "en_definition": "the ambiguous region between two categories or states or conditions (usually containing some features of both)",
+    "tr_word": "alacakaranlık kuşağı",
+    "tr_definition": "iki kategori, durum veya koşul arasındaki belirsiz bölge; her iki durumun da özelliklerini taşıyan geçiş alanı",
+    "ru_word": "сумеречная зона",
+    "ru_definition": "неопределенная область между двумя категориями, состояниями или условиями, обычно сочетающая черты обоих",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ara bölge"
+                ],
+                "Azerbaijani": [
+                    "ara sahə"
+                ],
+                "Turkmen": [
+                    "araçäk",
+                    "ara"
+                ],
+                "Uzbek": [
+                    "aro",
+                    "oraliq"
+                ],
+                "Uyghur": [
+                    "ئارىلىق رايون"
+                ],
+                "Kazakh": [
+                    "аралық аймақ"
+                ],
+                "Kyrgyz": [
+                    "аралык аймак"
+                ],
+                "Karakalpak": [
+                    "aralıq aymaq"
+                ],
+                "Tatar": [
+                    "аралык"
+                ],
+                "Bashkir": [
+                    "аралыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "belirsizlik bölgesi"
+                ],
+                "Turkmen": [
+                    "belgisizlik"
+                ],
+                "Karakalpak": [
+                    "belgisizlik zonası"
+                ],
+                "Tatar": [
+                    "билгесезлек өлкәсе"
+                ],
+                "Bashkir": [
+                    "билдәһеҙлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ikitaraplylyk"
+                ],
+                "Kazakh": [
+                    "екіұдай күй"
+                ],
+                "Kyrgyz": [
+                    "эки орто"
+                ],
+                "Tatar": [
+                    "ике ара"
+                ],
+                "Bashkir": [
+                    "ике ара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өтпелі кезең"
+                ],
+                "Kyrgyz": [
+                    "өтмө аймак"
+                ],
+                "Karakalpak": [
+                    "ótpeli shegara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chegara"
+                ],
+                "Uyghur": [
+                    "چېگرا رايون"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alacakaranlık kuşağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muğlaklık alanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "alatoran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "keçid dövrü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qeyri-müəyyənlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sərhəd zonası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "noaniqlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mavhumlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇتۇق رايون"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۈجمەل ھالەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұлдыр аймақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бүдөмүк чек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бусага"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сиктәшлек"
+                ]
+            }
+        }
+    ]
+}
+```
+

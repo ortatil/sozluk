@@ -1,0 +1,89 @@
+# African walnut
+| Field | Detail |
+|---|---|
+| **ID** | i103595 |
+| **English** | african walnut |
+| **Type** | noun |
+| **Definition** | tropical African timber tree with wood that resembles mahogany |
+| **Source** | common |
+| **Ortatil** | lowoa |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i103595",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "african walnut",
+    "en_definition": "tropical African timber tree with wood that resembles mahogany",
+    "tr_word": "Afrika cevizi",
+    "tr_definition": "Maun ağacına benzeyen odunu olan, tropikal Afrika'ya özgü bir kereste ağacı.",
+    "ru_word": "африканский орех",
+    "ru_definition": "Тропическое африканское дерево, древесина которого напоминает красное дерево (махагони).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Afrika cevizi",
+                    "Afrika maunu"
+                ],
+                "Azerbaijani": [
+                    "Afrika qozu",
+                    "Afrika qoz ağacı"
+                ],
+                "Turkmen": [
+                    "Afrika hozy"
+                ],
+                "Uzbek": [
+                    "Afrika yong'og'i"
+                ],
+                "Uyghur": [
+                    "ئافرىقا ياڭاق دەرىخى",
+                    "ئافرىقا ياڭىقى"
+                ],
+                "Kazakh": [
+                    "африка жаңғағы",
+                    "африкалық жаңғақ ағашы"
+                ],
+                "Kyrgyz": [
+                    "Африка жаңгагы",
+                    "Африка жаңгак дарагы"
+                ],
+                "Karakalpak": [
+                    "Afrika jańǵaǵı"
+                ],
+                "Tatar": [
+                    "Африка чикләвеге",
+                    "Африка чикләвек агачы"
+                ],
+                "Bashkir": [
+                    "Африка сәтләүеге",
+                    "Африка грек сәтләүеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Lovoa"
+                ],
+                "Uzbek": [
+                    "Lovoa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gara agaç"
+                ]
+            }
+        }
+    ]
+}
+```
+

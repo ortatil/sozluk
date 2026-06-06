@@ -1,0 +1,81 @@
+{
+    "id": "i56397",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "motorcycle",
+    "en_definition": "a motor vehicle with two wheels and a strong frame",
+    "tr_word": "motosiklet",
+    "tr_definition": "iki tekerlekli, içten yanmalı motorla çalışan bir taşıt",
+    "ru_word": "мотоцикл",
+    "ru_definition": "двухколесное транспортное средство с двигателем внутреннего сгорания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "motosiklet",
+                    "motor"
+                ],
+                "Azerbaijani": [
+                    "motosikl",
+                    "motosiklet"
+                ],
+                "Turkmen": [
+                    "motosikl",
+                    "motoulag"
+                ],
+                "Uzbek": [
+                    "motosikl"
+                ],
+                "Uyghur": [
+                    "موتوسىكلىت",
+                    "موتور"
+                ],
+                "Kazakh": [
+                    "мотоцикл",
+                    "мотоарба"
+                ],
+                "Kyrgyz": [
+                    "мотоцикл",
+                    "моторлуу унаа"
+                ],
+                "Karakalpak": [
+                    "motocikl",
+                    "moto"
+                ],
+                "Tatar": [
+                    "мотоцикл",
+                    "моторлы арба"
+                ],
+                "Bashkir": [
+                    "мотоцикл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қосдөңгелек"
+                ],
+                "Kyrgyz": [
+                    "кош дөңгөлөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mototsikl",
+                    "motoulov"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ике тәгәрмәсле арба"
+                ]
+            }
+        }
+    ]
+}

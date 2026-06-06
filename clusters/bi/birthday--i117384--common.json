@@ -1,0 +1,107 @@
+{
+    "id": "i117384",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "birthday",
+    "en_definition": "an anniversary of the day on which a person was born (or the celebration of it)",
+    "tr_word": "doğum günü",
+    "tr_definition": "bir kişinin doğduğu günün yıl dönümü veya bu vesileyle yapılan kutlama",
+    "ru_word": "день рождения",
+    "ru_definition": "годовщина дня, в который родился человек, а также празднование этого события",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doğum günü"
+                ],
+                "Azerbaijani": [
+                    "doğum günü"
+                ],
+                "Turkmen": [
+                    "doglan gün"
+                ],
+                "Uzbek": [
+                    "tugʻilgan kun"
+                ],
+                "Uyghur": [
+                    "تۇغۇلغان كۈن"
+                ],
+                "Kazakh": [
+                    "туған күн",
+                    "туған мезгіл"
+                ],
+                "Kyrgyz": [
+                    "туулган күн",
+                    "тууган күн"
+                ],
+                "Karakalpak": [
+                    "tuoılǵan kún"
+                ],
+                "Tatar": [
+                    "туган көн"
+                ],
+                "Bashkir": [
+                    "тыуған көн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mevlid"
+                ],
+                "Azerbaijani": [
+                    "mövlud"
+                ],
+                "Turkmen": [
+                    "mülüt"
+                ],
+                "Uzbek": [
+                    "milod"
+                ],
+                "Uyghur": [
+                    "مەۋلۇت"
+                ],
+                "Karakalpak": [
+                    "máolit"
+                ],
+                "Tatar": [
+                    "мәүлид"
+                ],
+                "Bashkir": [
+                    "мәүлит"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "viladet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ad günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мүшел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "туулуш"
+                ]
+            }
+        }
+    ]
+}

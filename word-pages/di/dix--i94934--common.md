@@ -1,0 +1,128 @@
+# Dix
+| Field | Detail |
+|---|---|
+| **ID** | i94934 |
+| **English** | dix |
+| **Type** | noun |
+| **Definition** | United States social reformer who pioneered in the reform of prisons and in the treatment of the mentally ill; superintended women army nurses during the American Civil War (1802-1887) |
+| **Source** | common |
+| **Ortatil** | reformaçı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| реформатор | reformator |
+| камкорчу | kamkorçu |
+
+```json
+{
+    "id": "i94934",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dix",
+    "en_definition": "United States social reformer who pioneered in the reform of prisons and in the treatment of the mentally ill; superintended women army nurses during the American Civil War (1802-1887)",
+    "tr_word": "Dix",
+    "tr_definition": "Hapishane reformu ve akıl hastalarının tedavisi konusunda öncülük eden, Amerikan İç Savaşı sırasında kadın ordu hemşirelerini yöneten Amerikalı sosyal reformcu (1802-1887).",
+    "ru_word": "Дикс",
+    "ru_definition": "Американская социальная реформаторша, пионер в области реформы тюрем и лечения психически больных; руководила армейскими медсестрами во время Гражданской войны в США (1802-1887).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Dorothea Dix"
+                ],
+                "Azerbaijani": [
+                    "Doroteya Diks"
+                ],
+                "Uzbek": [
+                    "Doroteya Diks"
+                ],
+                "Uyghur": [
+                    "دوروتیئا دیکس"
+                ],
+                "Kazakh": [
+                    "Доротея Дикс"
+                ],
+                "Karakalpak": [
+                    "Doroteya Diks"
+                ],
+                "Tatar": [
+                    "Доротея Дикс"
+                ],
+                "Bashkir": [
+                    "Доротея Дикс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hayırsever"
+                ],
+                "Turkmen": [
+                    "haýyr-sahawatçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "reformaçy"
+                ],
+                "Kyrgyz": [
+                    "реформатор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sosyal reformcu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "islahatçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىجتىمائىي ئىسلاھاتچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кайрымдуулук кылуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коомдук ишмер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "камкорчу"
+                ]
+            }
+        }
+    ]
+}
+```
+

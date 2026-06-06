@@ -1,0 +1,155 @@
+{
+    "id": "i57960",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rapid transit",
+    "en_definition": "an urban public transit system using underground or elevated trains",
+    "tr_word": "hızlı taşıma",
+    "tr_definition": "yer altı veya yükseltilmiş tren hatlarını kullanan kentsel toplu taşıma sistemi",
+    "ru_word": "скоростной транспорт",
+    "ru_definition": "городская система общественного транспорта, использующая подземные или надземные поезда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "metro"
+                ],
+                "Azerbaijani": [
+                    "metro"
+                ],
+                "Turkmen": [
+                    "metro"
+                ],
+                "Uzbek": [
+                    "metro",
+                    "metropoliten"
+                ],
+                "Uyghur": [
+                    "مېترو"
+                ],
+                "Kazakh": [
+                    "метро",
+                    "метрополитен"
+                ],
+                "Karakalpak": [
+                    "metropoliten",
+                    "metro"
+                ],
+                "Tatar": [
+                    "метрополитен",
+                    "метро"
+                ],
+                "Bashkir": [
+                    "метрополитен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tezkor transport"
+                ],
+                "Uyghur": [
+                    "تېز سۈرئەتلىك شەھەر قاتنىشى"
+                ],
+                "Kyrgyz": [
+                    "тез жүрүүчү транспорт"
+                ],
+                "Karakalpak": [
+                    "tez júretuǵın qalalıq transport"
+                ],
+                "Tatar": [
+                    "тиз йөрешле транспорт"
+                ],
+                "Bashkir": [
+                    "тиҙ йөрөшлө транспорт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yeraltı qatar"
+                ],
+                "Turkmen": [
+                    "ýerasty ýol"
+                ],
+                "Uzbek": [
+                    "yerosti yoʻli"
+                ],
+                "Uyghur": [
+                    "يەر ئاستى پويىزى"
+                ],
+                "Bashkir": [
+                    "ер аҫты тимер юлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hızlı raylı sistem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "raylı taşıma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şehir içi raylı sistem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sürətli qatar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çalt gatnawly demir ýol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жедел көлік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жүйрік пойыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ылдам транспорт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаардык темир жол"
+                ]
+            }
+        }
+    ]
+}

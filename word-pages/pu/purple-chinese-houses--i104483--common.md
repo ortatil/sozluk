@@ -1,0 +1,170 @@
+# Purple chinese houses
+| Field | Detail |
+|---|---|
+| **ID** | i104483 |
+| **English** | purple chinese houses |
+| **Type** | noun |
+| **Definition** | white and lavender to pale-blue flowers grow in perfect rings of widely spaced bands around the stems forming a kind of pagoda; California |
+| **Source** | common |
+| **Ortatil** | kollinsiya |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kollinsiya** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| коллинсия | kollinsiya |
+| **Tatar** | |
+| коллинсия | kollinsiya |
+| **Bashkir** | |
+| коллинсия | kollinsiya |
+
+```json
+{
+    "id": "i104483",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "purple chinese houses",
+    "en_definition": "white and lavender to pale-blue flowers grow in perfect rings of widely spaced bands around the stems forming a kind of pagoda; California",
+    "tr_word": "mor Çin evleri çiçeği",
+    "tr_definition": "Kaliforniya'ya özgü, gövde etrafında pagoda benzeri halkalar oluşturan beyaz ve lavanta renkli çiçekleri olan bir bitki türü (Collinsia heterophylla).",
+    "ru_word": "коллинсия разнолистная",
+    "ru_definition": "Калифорнийское растение с бело-лавандовыми цветками, расположенными на стебле ярусами, напоминающими пагоду.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күлгін гүлді коллинсия",
+                    "күлгін коллинсия"
+                ],
+                "Kyrgyz": [
+                    "коллинсия"
+                ],
+                "Karakalpak": [
+                    "kúlgіn gúl",
+                    "kúlgіn tústі gúl",
+                    "kúlgіn qońırausha"
+                ],
+                "Tatar": [
+                    "коллинсия"
+                ],
+                "Bashkir": [
+                    "коллинсия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bənövşəyi çin evi"
+                ],
+                "Turkmen": [
+                    "benewşe gül"
+                ],
+                "Uyghur": [
+                    "بىنەپشە رەڭلىك كوللىنسىيە گۈلى",
+                    "بىنەپشە رەڭلىك مۇنار گۈل"
+                ],
+                "Bashkir": [
+                    "бина сәскә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lavanta kulesi"
+                ],
+                "Uzbek": [
+                    "lavanda rangli gul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pagoda güli"
+                ],
+                "Uzbek": [
+                    "pagoda guli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коңгуроо гүл"
+                ],
+                "Bashkir": [
+                    "ҡыңғырау сәскә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mor çin evleri çiçeği",
+                    "pagoda çiçeği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pilləli bənövşəyi çiçək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kaliforniýa güli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "halqasimon gul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кызгылт-көк гүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кытай йортлары чәчәге"
+                ]
+            }
+        }
+    ]
+}
+```
+

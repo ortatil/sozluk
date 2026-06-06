@@ -1,0 +1,73 @@
+{
+    "id": "i27997",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "wax",
+    "en_definition": "cover with wax",
+    "tr_word": "cilalamak",
+    "tr_definition": "bir yüzeyi balmumu veya benzeri bir madde ile kaplamak",
+    "ru_word": "вощить",
+    "ru_definition": "покрывать или натирать поверхность воском",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mumlamak"
+                ],
+                "Azerbaijani": [
+                    "mum çəkmək",
+                    "mumlamaq",
+                    "mumla örtmək"
+                ],
+                "Turkmen": [
+                    "mumlamak",
+                    "mum çalmak",
+                    "mum sürtmek"
+                ],
+                "Uzbek": [
+                    "mumlamoq",
+                    "mum surtmoq",
+                    "mum bilan qoplamoq"
+                ],
+                "Uyghur": [
+                    "موملىماق",
+                    "موم سۈرتمەك"
+                ],
+                "Kyrgyz": [
+                    "момдоо",
+                    "мом сүйкөө",
+                    "мом менен каптоо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "балауыздау",
+                    "балауыз жағу"
+                ],
+                "Karakalpak": [
+                    "balauızlau",
+                    "balauız jaǵıu"
+                ],
+                "Tatar": [
+                    "балавызлау",
+                    "балавыз сөртү"
+                ],
+                "Bashkir": [
+                    "балауыҙлау",
+                    "балауыҙ һөртөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cilalamak"
+                ]
+            }
+        }
+    ]
+}

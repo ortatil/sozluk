@@ -1,0 +1,172 @@
+# Production line
+| Field | Detail |
+|---|---|
+| **ID** | i57700 |
+| **English** | production line |
+| **Type** | noun |
+| **Definition** | mechanical system in a factory whereby an article is conveyed through sites at which successive operations are performed on it |
+| **Source** | common |
+| **Ortatil** | konweyer |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i57700",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "production line",
+    "en_definition": "mechanical system in a factory whereby an article is conveyed through sites at which successive operations are performed on it",
+    "tr_word": "üretim hattı",
+    "tr_definition": "Bir fabrikada, bir ürünün ardışık işlemlerden geçirilerek tamamlandığı mekanik sistem.",
+    "ru_word": "производственная линия",
+    "ru_definition": "механизированная система на заводе, по которой изделие перемещается через участки для последовательного выполнения операций.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "konveyer xətti"
+                ],
+                "Turkmen": [
+                    "konweýer"
+                ],
+                "Kyrgyz": [
+                    "конвейердик тизмек"
+                ],
+                "Karakalpak": [
+                    "konweyer jelіsі"
+                ],
+                "Tatar": [
+                    "конвейер сызыгы"
+                ],
+                "Bashkir": [
+                    "конвейер һыҙығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "önümçilik ulgamy",
+                    "önümçilik hatary"
+                ],
+                "Kazakh": [
+                    "өндіріс желісі",
+                    "өндірістік тізбек"
+                ],
+                "Kyrgyz": [
+                    "өндүрүш тизмеги",
+                    "өндүрүш линиясы"
+                ],
+                "Karakalpak": [
+                    "óndіrіs jelіsі",
+                    "óndіrіs aǵımı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "quraşdırma xətti"
+                ],
+                "Uyghur": [
+                    "قۇراشتۇرۇش لىنىيەسى"
+                ],
+                "Kazakh": [
+                    "құрастыру желісі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istehsal xətti"
+                ],
+                "Kyrgyz": [
+                    "иштетүү тизмеги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iş akymy"
+                ],
+                "Uyghur": [
+                    "ئىشلەپچىقىرىش سېپى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ishlab chiqarish tarmog'i",
+                    "ishlab chiqarish tizimi"
+                ],
+                "Uyghur": [
+                    "ئىشلەپچىقىرىش لىنىيەسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җитештерү сызыгы",
+                    "җитештерү чылбыры"
+                ],
+                "Bashkir": [
+                    "етештереү һыҙығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "üretim hattı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "montaj hattı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "imalat hattı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uzluksiz tarmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oqim tarmog'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йыйыу һыҙығы"
+                ]
+            }
+        }
+    ]
+}
+```
+

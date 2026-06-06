@@ -1,0 +1,140 @@
+{
+    "id": "i71088",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "edition",
+    "en_definition": "the form in which a text (especially a printed book) is published",
+    "tr_word": "basım",
+    "tr_definition": "bir kitabın, bir gazetenin veya bir derginin basılmış olan kopyalarının tamamı; edisyon",
+    "ru_word": "издание",
+    "ru_definition": "форма, в которой публикуется текст (особенно печатная книга); тираж",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "neşir"
+                ],
+                "Azerbaijani": [
+                    "nəşr"
+                ],
+                "Turkmen": [
+                    "neşir"
+                ],
+                "Uzbek": [
+                    "nashr"
+                ],
+                "Uyghur": [
+                    "نەشرى"
+                ],
+                "Karakalpak": [
+                    "náshir"
+                ],
+                "Tatar": [
+                    "нәшер"
+                ],
+                "Bashkir": [
+                    "нәшер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baskı"
+                ],
+                "Uyghur": [
+                    "بېسىلىشى"
+                ],
+                "Kazakh": [
+                    "басылым",
+                    "баспа"
+                ],
+                "Kyrgyz": [
+                    "басылыш",
+                    "басылма"
+                ],
+                "Karakalpak": [
+                    "baspa",
+                    "basılım"
+                ],
+                "Tatar": [
+                    "басма"
+                ],
+                "Bashkir": [
+                    "баҫма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çap"
+                ],
+                "Turkmen": [
+                    "çap"
+                ],
+                "Uzbek": [
+                    "chop"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tab"
+                ],
+                "Azerbaijani": [
+                    "təb"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нұсқа"
+                ],
+                "Bashkir": [
+                    "нөсхә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yayın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goýberiliş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tahrir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чыгарылыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەشر نۇسخىسى"
+                ]
+            }
+        }
+    ]
+}

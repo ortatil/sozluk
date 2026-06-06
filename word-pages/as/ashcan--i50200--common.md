@@ -1,0 +1,127 @@
+# Ashcan
+| Field | Detail |
+|---|---|
+| **ID** | i50200 |
+| **English** | ashcan |
+| **Type** | noun |
+| **Definition** | a bin that holds rubbish until it is collected |
+| **Source** | common |
+| **Ortatil** | ahlatdan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئەخلەتخانا | äxlätxana |
+| **Tatar** | |
+| чүплек | çüplek |
+| **Bashkir** | |
+| сүплек | süplek |
+
+```json
+{
+    "id": "i50200",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ashcan",
+    "en_definition": "a bin that holds rubbish until it is collected",
+    "tr_word": "çöp kutusu",
+    "tr_definition": "çöplerin toplanana kadar içinde tutulduğu kap",
+    "ru_word": "мусорный бак",
+    "ru_definition": "емкость для хранения мусора до его вывоза",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çöp kutusu",
+                    "çöp kabı",
+                    "çöp tenekesi",
+                    "çöp sepeti"
+                ],
+                "Tatar": [
+                    "чүп савыты",
+                    "чүп чиләге",
+                    "чүплек"
+                ],
+                "Bashkir": [
+                    "сүп-сар һауыты",
+                    "сүп һауыты",
+                    "сүп йәшниге",
+                    "сүплек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tullantı qabı"
+                ],
+                "Kyrgyz": [
+                    "таштанды челек",
+                    "таштанды идиш",
+                    "таштанды салгыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "axlat qutisi",
+                    "axlatdon"
+                ],
+                "Uyghur": [
+                    "ئەخلەتخانا",
+                    "ئەخلەت ساندۇقى",
+                    "ئەخلەت چېلىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "idish"
+                ],
+                "Karakalpak": [
+                    "ıdıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоқыс жәшігі",
+                    "қоқыс сауыты",
+                    "қоқыс шелегі"
+                ],
+                "Karakalpak": [
+                    "qoqıs jáshіgі",
+                    "qoqıs sauıtı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zibil qabı",
+                    "zibil qutusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hapa gaby",
+                    "hapa gutusy",
+                    "hapa bedresi"
+                ]
+            }
+        }
+    ]
+}
+```
+

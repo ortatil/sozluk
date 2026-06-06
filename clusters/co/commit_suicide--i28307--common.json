@@ -1,0 +1,105 @@
+{
+    "id": "i28307",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "commit suicide",
+    "en_definition": "kill oneself",
+    "tr_word": "intihar etmek",
+    "tr_definition": "Kendi canına kıymak, kendini öldürmek.",
+    "ru_word": "покончить с собой",
+    "ru_definition": "Лишить себя жизни, совершить самоубийство.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "özünü öldürmək"
+                ],
+                "Turkmen": [
+                    "özüni öldürmek",
+                    "öz janyna kast etmek",
+                    "özüni heläk etmek"
+                ],
+                "Uzbek": [
+                    "o'zini o'ldirmoq",
+                    "o'z joniga qasd qilmoq",
+                    "o'zini halok qilmoq"
+                ],
+                "Uyghur": [
+                    "ئۆزىنى ئۆلتۈرۈۋالماق",
+                    "ئۆزىنى قەستلىمەك",
+                    "ئۆز جېنىغا قەست قىلماق",
+                    "ئۆزىنى ھالاك قىلماق"
+                ],
+                "Kazakh": [
+                    "өзін-өзі өлтіру",
+                    "өзіне қол жұмсау"
+                ],
+                "Kyrgyz": [
+                    "өзүн-өзү өлтүрүү",
+                    "өз жанын кыюу",
+                    "өзүнө кол салуу"
+                ],
+                "Karakalpak": [
+                    "ózin-ózi óltirio",
+                    "ózin-ózi mert etio"
+                ],
+                "Tatar": [
+                    "үзен-үзе үтерү"
+                ],
+                "Bashkir": [
+                    "үҙ-үҙен үлтереү",
+                    "үҙенә ҡул һалырға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "canına kıymak"
+                ],
+                "Kazakh": [
+                    "жанын қию"
+                ],
+                "Karakalpak": [
+                    "janına qaslıq qılıo"
+                ],
+                "Tatar": [
+                    "җан кыю"
+                ],
+                "Bashkir": [
+                    "йәнен ҡыйырға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "intihar etmek"
+                ],
+                "Azerbaijani": [
+                    "intihar etmək"
+                ],
+                "Tatar": [
+                    "интихар итү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendini öldürmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəsd etmək"
+                ]
+            }
+        }
+    ]
+}

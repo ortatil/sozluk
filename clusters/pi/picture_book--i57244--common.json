@@ -1,0 +1,110 @@
+{
+    "id": "i57244",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "picture book",
+    "en_definition": "a book consisting chiefly of pictures",
+    "tr_word": "resimli kitap",
+    "tr_definition": "esas olarak resimlerden oluşan kitap",
+    "ru_word": "книжка-картинка",
+    "ru_definition": "книга, состоящая преимущественно из иллюстраций",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "resimli kitap"
+                ],
+                "Turkmen": [
+                    "şekilli kitap"
+                ],
+                "Uyghur": [
+                    "رەسىملىك كىتاب"
+                ],
+                "Tatar": [
+                    "рәсемле китап"
+                ],
+                "Bashkir": [
+                    "рәсемле китап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suratly kitap"
+                ],
+                "Uyghur": [
+                    "سۈرەتلىك كىتاب"
+                ],
+                "Kazakh": [
+                    "суретті кітап"
+                ],
+                "Kyrgyz": [
+                    "сүрөттүү китеп",
+                    "сүрөт китеби"
+                ],
+                "Karakalpak": [
+                    "súoretli kitap",
+                    "súoretler toplamı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəkilli kitab"
+                ],
+                "Tatar": [
+                    "сурәтле китап"
+                ],
+                "Bashkir": [
+                    "һүрәтле китап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təsvirli kitab"
+                ],
+                "Uzbek": [
+                    "tasvirli kitob"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müsəvvər kitab"
+                ],
+                "Uzbek": [
+                    "musavvar kitob"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "görsel kitap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rasmli kitob"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнелі кітап"
+                ]
+            }
+        }
+    ]
+}

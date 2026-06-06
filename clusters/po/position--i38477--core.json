@@ -1,0 +1,178 @@
+{
+    "id": "i38477",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "position",
+    "en_definition": "a job in an organization",
+    "tr_word": "makam",
+    "tr_definition": "bir kuruluştaki iş veya görev",
+    "ru_word": "должность",
+    "ru_definition": "служебное место в учреждении или организации",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "orun"
+                ],
+                "Uzbek": [
+                    "oʻrin"
+                ],
+                "Uyghur": [
+                    "ئورۇن"
+                ],
+                "Kazakh": [
+                    "орын"
+                ],
+                "Kyrgyz": [
+                    "орун"
+                ],
+                "Karakalpak": [
+                    "orın"
+                ],
+                "Tatar": [
+                    "урын"
+                ],
+                "Bashkir": [
+                    "урын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vəzifə"
+                ],
+                "Turkmen": [
+                    "wezipe"
+                ],
+                "Uzbek": [
+                    "vazifa"
+                ],
+                "Uyghur": [
+                    "ۋەزىپە"
+                ],
+                "Tatar": [
+                    "вазыйфа"
+                ],
+                "Bashkir": [
+                    "вазифа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қызмет"
+                ],
+                "Kyrgyz": [
+                    "кызмат"
+                ],
+                "Karakalpak": [
+                    "xızmet"
+                ],
+                "Tatar": [
+                    "хезмәт"
+                ],
+                "Bashkir": [
+                    "хеҙмәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "lavozim"
+                ],
+                "Kazakh": [
+                    "лауазым"
+                ],
+                "Karakalpak": [
+                    "laoazım"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mansab"
+                ],
+                "Uyghur": [
+                    "مەنسەپ"
+                ],
+                "Kyrgyz": [
+                    "мансап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "makam"
+                ],
+                "Azerbaijani": [
+                    "məqam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mevki"
+                ],
+                "Azerbaijani": [
+                    "mövqe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iş"
+                ],
+                "Turkmen": [
+                    "iş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jumıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "görev"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kadro"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "memuriyet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىزمەت ئورنى"
+                ]
+            }
+        }
+    ]
+}

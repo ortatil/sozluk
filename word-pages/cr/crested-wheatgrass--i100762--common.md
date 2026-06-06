@@ -1,0 +1,168 @@
+# Crested wheatgrass
+| Field | Detail |
+|---|---|
+| **ID** | i100762 |
+| **English** | crested wheatgrass |
+| **Type** | noun |
+| **Definition** | Eurasian grass grown in United States great plains area for forage and erosion control |
+| **Source** | common |
+| **Ortatil** | buğdayıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **buğdayıq** | **yerkekşöp** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ❌ | ✅ |
+| Bashkir | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.80 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **2.23** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| еркекшөп | yerkekşöp |
+| бидайық | bidayıq |
+| **Kyrgyz** | |
+| буудайык | buudayık |
+| кыяк | kıyak |
+| **Tatar** | |
+| ертыш | yertış |
+| кыяк | kıyak |
+| **Bashkir** | |
+| еркәк | yerkäk |
+
+```json
+{
+    "id": "i100762",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "crested wheatgrass",
+    "en_definition": "Eurasian grass grown in United States great plains area for forage and erosion control",
+    "tr_word": "otlak ayrığı",
+    "tr_definition": "Avrasya kökenli, ABD'nin büyük ovalarında yem ve erozyon kontrolü için yetiştirilen bir buğdaygiller türü",
+    "ru_word": "житняк гребневидный",
+    "ru_definition": "Евразийский злак, выращиваемый на Великих равнинах США в качестве корма и для борьбы с эрозией",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "еркекшөп",
+                    "еркек бидайық"
+                ],
+                "Kyrgyz": [
+                    "эркек чөп"
+                ],
+                "Karakalpak": [
+                    "erkekshóp",
+                    "erkek bidayıq"
+                ],
+                "Tatar": [
+                    "ертыш",
+                    "ертыш үләне"
+                ],
+                "Bashkir": [
+                    "еркәк",
+                    "еркәк үлән",
+                    "еркәк ҡыяҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bugdaýygy"
+                ],
+                "Uzbek": [
+                    "bugʻdoyiq"
+                ],
+                "Kazakh": [
+                    "бидайық"
+                ],
+                "Kyrgyz": [
+                    "буудайык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otlak ayrığı",
+                    "tarak ayrığı"
+                ],
+                "Azerbaijani": [
+                    "otlaq otu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qaraot"
+                ],
+                "Turkmen": [
+                    "gyrtyç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "darısayaq qaraot"
+                ],
+                "Uyghur": [
+                    "تارغاقباش سېغىزغۇچ",
+                    "تارغاقباش ئوت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыяк"
+                ],
+                "Tatar": [
+                    "кыяк",
+                    "кыяк үлән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayrık otu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qiltiq",
+                    "qiltiqli bugʻdoyiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سېغىزغۇچ ئوت"
+                ]
+            }
+        }
+    ]
+}
+```
+

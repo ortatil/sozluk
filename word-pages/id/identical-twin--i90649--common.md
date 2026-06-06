@@ -1,0 +1,168 @@
+# Identical twin
+| Field | Detail |
+|---|---|
+| **ID** | i90649 |
+| **English** | identical twin |
+| **Type** | noun |
+| **Definition** | either of two twins developed from the same fertilized ovum (having the same genetic material) |
+| **Source** | common |
+| **Ortatil** | ekiz |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ekiz** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.37** |
+
+```json
+{
+    "id": "i90649",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "identical twin",
+    "en_definition": "either of two twins developed from the same fertilized ovum (having the same genetic material)",
+    "tr_word": "tek yumurta ikizi",
+    "tr_definition": "Aynı döllenmiş yumurtadan gelişen ve aynı genetik yapıya sahip olan iki ikizden her biri.",
+    "ru_word": "однояйцевый близнец",
+    "ru_definition": "Один из двух близнецов, развившихся из одной оплодотворенной яйцеклетки и обладающих одинаковым генетическим набором.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "oxşar əkiz"
+                ],
+                "Uzbek": [
+                    "oʻxshash egizak"
+                ],
+                "Uyghur": [
+                    "ئوخشاش قوشكېزەك"
+                ],
+                "Kazakh": [
+                    "ұқсас егіз"
+                ],
+                "Kyrgyz": [
+                    "окшош эгиз"
+                ],
+                "Karakalpak": [
+                    "uqsas egiz"
+                ],
+                "Tatar": [
+                    "охшаш игезәк"
+                ],
+                "Bashkir": [
+                    "оҡшаш игеҙәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bir tuxumli egizak"
+                ],
+                "Uyghur": [
+                    "بىر تۇخۇملۇق قوشكېزەك"
+                ],
+                "Kazakh": [
+                    "бір жұмыртқалы егіз"
+                ],
+                "Kyrgyz": [
+                    "бир жумурткалуу эгиз"
+                ],
+                "Karakalpak": [
+                    "bir jumırtqalı egizler"
+                ],
+                "Tatar": [
+                    "бер йомыркалы игезәк"
+                ],
+                "Bashkir": [
+                    "бер йомортҡалы игеҙәк",
+                    "бер төрлө игеҙәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tek yumurta ikizi"
+                ],
+                "Azerbaijani": [
+                    "tək yumurta əkizi"
+                ],
+                "Turkmen": [
+                    "bir ýumurtgaly ekiz"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eşiz"
+                ],
+                "Turkmen": [
+                    "ekiz"
+                ],
+                "Karakalpak": [
+                    "egiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "eyniyumurta əkizi"
+                ],
+                "Kazakh": [
+                    "айнымас егіз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öz ikiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "meňzeş ekiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yakka tuxumli egizak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бер үк игезәк"
+                ]
+            }
+        }
+    ]
+}
+```
+

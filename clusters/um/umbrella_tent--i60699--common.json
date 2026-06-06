@@ -1,0 +1,138 @@
+{
+    "id": "i60699",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "umbrella tent",
+    "en_definition": "a small tent with a single supporting pole and radiating metal ribs",
+    "tr_word": "şemsiye çadır",
+    "tr_definition": "tek bir destek direği ve yayılan metal çubukları olan küçük bir çadır türü",
+    "ru_word": "зонтичная палатка",
+    "ru_definition": "небольшая палатка с одной опорной стойкой и расходящимися металлическими ребрами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çətir çadır",
+                    "çətirvari çadır"
+                ],
+                "Turkmen": [
+                    "çadyr"
+                ],
+                "Kyrgyz": [
+                    "чатыр"
+                ],
+                "Karakalpak": [
+                    "shatır"
+                ],
+                "Tatar": [
+                    "чатыр"
+                ],
+                "Bashkir": [
+                    "сатыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қолшатыр шатыр",
+                    "көлеңке шатыр"
+                ],
+                "Kyrgyz": [
+                    "көлөкө чатыр",
+                    "кол чатыр"
+                ],
+                "Karakalpak": [
+                    "kóleńkelik"
+                ],
+                "Tatar": [
+                    "күләгәлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "günlük"
+                ],
+                "Uyghur": [
+                    "كۈنلۈك چېدىر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "saýawan çadyr",
+                    "saýawan"
+                ],
+                "Uzbek": [
+                    "soyabon chodir",
+                    "soyabonli chodir",
+                    "soyabon-chodir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۈنلۈكسىمان چېدىر"
+                ],
+                "Kazakh": [
+                    "күнқағар шатыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şemsiye çadır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kurmalı çadır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otomatik çadır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۇمىلاق چېدىر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qalqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "япма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көмбәҙле сатыр"
+                ]
+            }
+        }
+    ]
+}

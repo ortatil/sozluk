@@ -1,0 +1,97 @@
+{
+    "id": "i115051",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "compressed air",
+    "en_definition": "air at a pressure greater than that of the atmosphere",
+    "tr_word": "basınçlı hava",
+    "tr_definition": "atmosfer basıncından daha yüksek bir basınca sahip olan hava",
+    "ru_word": "сжатый воздух",
+    "ru_definition": "воздух, находящийся под давлением, превышающим атмосферное",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıkıştırılmış hava"
+                ],
+                "Azerbaijani": [
+                    "sıxılmış hava"
+                ],
+                "Uzbek": [
+                    "siqilgan havo"
+                ],
+                "Kazakh": [
+                    "сығылған ауа"
+                ],
+                "Kyrgyz": [
+                    "кысылган аба",
+                    "кысылган жел"
+                ],
+                "Karakalpak": [
+                    "sıǵılǵan haoa"
+                ],
+                "Tatar": [
+                    "кысылган һава"
+                ],
+                "Bashkir": [
+                    "ҡыҫылған һауа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gysylan howa"
+                ],
+                "Uyghur": [
+                    "قىسىلغان ھاۋا"
+                ],
+                "Kazakh": [
+                    "қысылған ауа"
+                ],
+                "Karakalpak": [
+                    "qısılǵan haoa"
+                ],
+                "Tatar": [
+                    "кысык һава"
+                ],
+                "Bashkir": [
+                    "ҡыҫыҡ һауа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "basınçlı hava"
+                ],
+                "Uyghur": [
+                    "بېسىملىق ھاۋا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təzyiqli hava"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dykyzlandyrylan howa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zichlangan havo"
+                ]
+            }
+        }
+    ]
+}

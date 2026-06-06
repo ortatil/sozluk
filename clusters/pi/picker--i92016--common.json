@@ -1,0 +1,122 @@
+{
+    "id": "i92016",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "picker",
+    "en_definition": "someone who gathers crops or fruits etc.",
+    "tr_word": "toplayıcı",
+    "tr_definition": "mahsul veya meyve gibi ürünleri toplayan kimse",
+    "ru_word": "сборщик",
+    "ru_definition": "человек, который занимается сбором урожая, фруктов и т. д.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yığan",
+                    "yığıcı"
+                ],
+                "Turkmen": [
+                    "ýygymçy",
+                    "ýygýan"
+                ],
+                "Uzbek": [
+                    "yigʻimchi"
+                ],
+                "Uyghur": [
+                    "يىغقۇچى"
+                ],
+                "Kazakh": [
+                    "жинаушы"
+                ],
+                "Kyrgyz": [
+                    "жыйноочу"
+                ],
+                "Karakalpak": [
+                    "jıynaoshı",
+                    "jıyımshı"
+                ],
+                "Tatar": [
+                    "җыючы",
+                    "җыйнаучы"
+                ],
+                "Bashkir": [
+                    "йыйыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dərən"
+                ],
+                "Uzbek": [
+                    "terimchi",
+                    "teruvchi"
+                ],
+                "Uyghur": [
+                    "تەرگۈچى"
+                ],
+                "Kazakh": [
+                    "теруші"
+                ],
+                "Kyrgyz": [
+                    "теримчи",
+                    "терүүчү"
+                ],
+                "Karakalpak": [
+                    "terimshi"
+                ],
+                "Bashkir": [
+                    "терәүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hasatçı"
+                ],
+                "Turkmen": [
+                    "hasylçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toplayıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "devşirici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۈزگۈچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бағбан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чүпләүче"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "id": "i41577",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "peace march",
+    "en_definition": "a protest march against (a particular) war and in favor of peace",
+    "tr_word": "barış yürüyüşü",
+    "tr_definition": "belirli bir savaşa karşı çıkan ve barışı destekleyen protesto yürüyüşü",
+    "ru_word": "марш мира",
+    "ru_definition": "акция протеста против войны и в поддержку мира",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tinchlik yurishi",
+                    "tinchlik namoyishi"
+                ],
+                "Uyghur": [
+                    "تېنچلىق يۈرۈشى",
+                    "تېنچلىق نامايىشى"
+                ],
+                "Kyrgyz": [
+                    "тынчтык жүрүшү",
+                    "тынчтык маршы"
+                ],
+                "Karakalpak": [
+                    "tınıshlıq sherui",
+                    "tınıshlıq júrisi"
+                ],
+                "Tatar": [
+                    "тынычлык маршы",
+                    "тынычлык йөреше"
+                ],
+                "Bashkir": [
+                    "тыныслыҡ маршы",
+                    "тыныслыҡ йөрөшө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "barış yürüyüşü",
+                    "barış gösterisi",
+                    "barış nümayişi"
+                ],
+                "Turkmen": [
+                    "parahatçylyk ýörişi",
+                    "parahatçylyk ýöriş-çäresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sülh yürüşü",
+                    "sülh nümayişi",
+                    "sülh aksiyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейбітшілік шеруі",
+                    "бейбітшілік жорығы",
+                    "бейбітшілік маршы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "i61178",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "windowpane",
+    "en_definition": "a pane of glass in a window",
+    "tr_word": "pencere camı",
+    "tr_definition": "bir pencere çerçevesi içindeki cam bölme",
+    "ru_word": "оконное стекло",
+    "ru_definition": "лист стекла, вставленный в оконную раму",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "deraza oynasi"
+                ],
+                "Uyghur": [
+                    "دېرىزە ئەينىكى"
+                ],
+                "Kazakh": [
+                    "терезе шынысы"
+                ],
+                "Kyrgyz": [
+                    "терезе айнеги"
+                ],
+                "Karakalpak": [
+                    "tereze áynegi"
+                ],
+                "Tatar": [
+                    "тәрәзә пыяласы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oyna"
+                ],
+                "Uyghur": [
+                    "ئەينەك"
+                ],
+                "Kazakh": [
+                    "әйнек"
+                ],
+                "Kyrgyz": [
+                    "айнек"
+                ],
+                "Karakalpak": [
+                    "áynek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pencere camı"
+                ],
+                "Azerbaijani": [
+                    "pəncərə şüşəsi"
+                ],
+                "Turkmen": [
+                    "penjire şüşesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cam"
+                ],
+                "Azerbaijani": [
+                    "cam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пыяла"
+                ],
+                "Bashkir": [
+                    "быяла"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şüşe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәҙрә быялаһы"
+                ]
+            }
+        }
+    ]
+}

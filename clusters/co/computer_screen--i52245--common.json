@@ -1,0 +1,104 @@
+{
+    "id": "i52245",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "computer screen",
+    "en_definition": "a screen used to display the output of a computer to the user",
+    "tr_word": "bilgisayar ekranı",
+    "tr_definition": "bir bilgisayarın çıktısını kullanıcıya göstermek için kullanılan ekran",
+    "ru_word": "компьютерный экран",
+    "ru_definition": "экран, используемый для отображения вывода компьютера пользователю",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekran"
+                ],
+                "Azerbaijani": [
+                    "ekran"
+                ],
+                "Turkmen": [
+                    "ekran"
+                ],
+                "Uzbek": [
+                    "ekran"
+                ],
+                "Uyghur": [
+                    "ئېكران"
+                ],
+                "Kazakh": [
+                    "экран"
+                ],
+                "Kyrgyz": [
+                    "экран"
+                ],
+                "Karakalpak": [
+                    "ekran"
+                ],
+                "Tatar": [
+                    "экран"
+                ],
+                "Bashkir": [
+                    "экран"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "görüntüleyici"
+                ],
+                "Azerbaijani": [
+                    "görüntü paneli"
+                ],
+                "Turkmen": [
+                    "görkeziji"
+                ],
+                "Uzbek": [
+                    "koʻrsatkich"
+                ],
+                "Uyghur": [
+                    "كۆرسەتكۈچ"
+                ],
+                "Kazakh": [
+                    "көрсеткіш"
+                ],
+                "Kyrgyz": [
+                    "көрсөткүч"
+                ],
+                "Karakalpak": [
+                    "kórinis beti"
+                ],
+                "Tatar": [
+                    "күрүлек"
+                ],
+                "Bashkir": [
+                    "күрһәткес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "monitör"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oyna"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнебет"
+                ]
+            }
+        }
+    ]
+}

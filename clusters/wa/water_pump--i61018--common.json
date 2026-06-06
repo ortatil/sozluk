@@ -1,0 +1,77 @@
+{
+    "id": "i61018",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water pump",
+    "en_definition": "the pump in the cooling system of an automobile that cause the water to circulate",
+    "tr_word": "su pompası",
+    "tr_definition": "bir otomobilin soğutma sisteminde suyun devridaim yapmasını sağlayan pompa",
+    "ru_word": "водяной насос",
+    "ru_definition": "насос в системе охлаждения автомобиля, обеспечивающий циркуляцию воды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su pompası",
+                    "su tulumbası"
+                ],
+                "Azerbaijani": [
+                    "su pompası",
+                    "su tuluqu",
+                    "su vuran"
+                ],
+                "Turkmen": [
+                    "su sorujy",
+                    "su nasosy",
+                    "su pürkgüji"
+                ],
+                "Uzbek": [
+                    "suv nasosi",
+                    "suv haydagich",
+                    "suv parraki"
+                ],
+                "Uyghur": [
+                    "سۇ پومپىسى",
+                    "سۇ تارتىش ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "су сорғы",
+                    "су сорғыш",
+                    "су айдағыш"
+                ],
+                "Kyrgyz": [
+                    "суу соргуч",
+                    "суу насосу",
+                    "суу айдагыч"
+                ],
+                "Karakalpak": [
+                    "suo sorǵısh",
+                    "suo nasosı",
+                    "suo aydaǵısh"
+                ],
+                "Tatar": [
+                    "су суыргычы",
+                    "су насосы",
+                    "су помпасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "devirdaim pompası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу һурғысы",
+                    "һыу һурҙырғысы",
+                    "һыу өрҙөргөс"
+                ]
+            }
+        }
+    ]
+}

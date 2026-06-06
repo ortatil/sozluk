@@ -1,0 +1,145 @@
+# Ribbon tree
+| Field | Detail |
+|---|---|
+| **ID** | i101166 |
+| **English** | ribbon tree |
+| **Type** | noun |
+| **Definition** | deciduous New Zealand tree whose inner bark yields a strong fiber that resembles flax and is called New Zealand cotton |
+| **Source** | common |
+| **Ortatil** | tal |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i101166",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ribbon tree",
+    "en_definition": "deciduous New Zealand tree whose inner bark yields a strong fiber that resembles flax and is called New Zealand cotton",
+    "tr_word": "şerit ağacı",
+    "tr_definition": "İç kabuğundan ketene benzeyen ve Yeni Zelanda pamuğu olarak adlandırılan güçlü bir lif elde edilen, Yeni Zelanda'ya özgü yaprak döken bir ağaç.",
+    "ru_word": "ленточное дерево",
+    "ru_definition": "Листопадное дерево из Новой Зеландии, из внутренней коры которого получают прочное волокно, напоминающее лен и называемое новозеландским хлопком.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "lent ağacı"
+                ],
+                "Turkmen": [
+                    "lentagörnüşli agaç"
+                ],
+                "Uyghur": [
+                    "لېنتا دەرىخى"
+                ],
+                "Kyrgyz": [
+                    "лен дарагы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tolali daraxt"
+                ],
+                "Uyghur": [
+                    "تالا دەرىخى"
+                ],
+                "Kazakh": [
+                    "талшықты ағаш"
+                ],
+                "Karakalpak": [
+                    "tal",
+                    "talshıqlı terek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қабықты ағаш"
+                ],
+                "Karakalpak": [
+                    "qabıqlı terek"
+                ],
+                "Bashkir": [
+                    "ҡабыҡлы ағас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lifli ağaç"
+                ],
+                "Azerbaijani": [
+                    "lifli ağac"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şerit ağacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kurdele ağacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýümli agaç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poʻstloqli daraxt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "булалуу дарак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тасма агачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җепсел агачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сүс ағасы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,188 @@
+{
+    "id": "i71417",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "good authority",
+    "en_definition": "testimony by someone who should know",
+    "tr_word": "güvenilir kaynak",
+    "tr_definition": "konuyu bilmesi beklenen birinden gelen tanıklık veya bilgi",
+    "ru_word": "достоверный источник",
+    "ru_definition": "свидетельство или информация от лица, которое должно быть осведомлено",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ishonchli manba",
+                    "ishonchli dalil"
+                ],
+                "Uyghur": [
+                    "ئىشەنچلىك مەنبە",
+                    "ئىشەنچلىك دەلىل",
+                    "ئىشەنچلىك گۇۋاھلىق"
+                ],
+                "Kyrgyz": [
+                    "ишенимдүү булак",
+                    "ишенимдүү маалымат"
+                ],
+                "Karakalpak": [
+                    "isenimli derek",
+                    "isenimli xabar"
+                ],
+                "Tatar": [
+                    "ышанычлы чыганак"
+                ],
+                "Bashkir": [
+                    "ышаныслы сығанаҡ",
+                    "ышаныслы мәғлүмәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muteber kaynak"
+                ],
+                "Azerbaijani": [
+                    "mötəbər mənbə"
+                ],
+                "Uzbek": [
+                    "moʻtabar manba"
+                ],
+                "Uyghur": [
+                    "مۆتەبەر مەنبە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ynamdar çeşme",
+                    "anyk maglumat"
+                ],
+                "Kazakh": [
+                    "анық мәлімет"
+                ],
+                "Kyrgyz": [
+                    "анык булак"
+                ],
+                "Karakalpak": [
+                    "anıq maǵlıumat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "etibarlı mənbə"
+                ],
+                "Turkmen": [
+                    "ygtybarly çeşme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "абруйлы чыганак"
+                ],
+                "Bashkir": [
+                    "абруйлы сығанаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güvenilir kaynak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sağlam kaynak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yetkili ağız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səlahiyyətli mənbə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asliyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hujjatli dalil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сенімді дереккөз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нақты дерек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "уәжді дерек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "так маалымат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәгълүматлы чыганак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "белгеч сүзе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төгәл сығанаҡ"
+                ]
+            }
+        }
+    ]
+}

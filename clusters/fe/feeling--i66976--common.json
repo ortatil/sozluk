@@ -1,0 +1,122 @@
+{
+    "id": "i66976",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "feeling",
+    "en_definition": "a physical sensation that you experience",
+    "tr_word": "his",
+    "tr_definition": "vücut yoluyla algılanan fiziksel bir duyum veya algı",
+    "ru_word": "ощущение",
+    "ru_definition": "физическое чувство, испытываемое через органы чувств",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "duygu",
+                    "duyu"
+                ],
+                "Azerbaijani": [
+                    "duyğu"
+                ],
+                "Turkmen": [
+                    "duýgy",
+                    "duýuş"
+                ],
+                "Uzbek": [
+                    "tuyg'u"
+                ],
+                "Uyghur": [
+                    "تۇيغۇ"
+                ],
+                "Kazakh": [
+                    "түйсік"
+                ],
+                "Kyrgyz": [
+                    "туюм"
+                ],
+                "Karakalpak": [
+                    "túysik"
+                ],
+                "Tatar": [
+                    "тойгы"
+                ],
+                "Bashkir": [
+                    "тойғо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "his"
+                ],
+                "Azerbaijani": [
+                    "hiss"
+                ],
+                "Turkmen": [
+                    "his"
+                ],
+                "Uzbek": [
+                    "hissiyot"
+                ],
+                "Uyghur": [
+                    "ھېس"
+                ],
+                "Tatar": [
+                    "хис"
+                ],
+                "Bashkir": [
+                    "хис"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sezgi"
+                ],
+                "Uyghur": [
+                    "سېزىم"
+                ],
+                "Kazakh": [
+                    "сезім"
+                ],
+                "Kyrgyz": [
+                    "сезим",
+                    "сезим-туюм"
+                ],
+                "Karakalpak": [
+                    "sezim",
+                    "sezinio"
+                ],
+                "Tatar": [
+                    "сизем",
+                    "сизелү"
+                ],
+                "Bashkir": [
+                    "һиҙем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təsir"
+                ],
+                "Kazakh": [
+                    "әсер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "idrok"
+                ]
+            }
+        }
+    ]
+}

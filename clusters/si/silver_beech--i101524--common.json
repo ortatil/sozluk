@@ -1,0 +1,84 @@
+{
+    "id": "i101524",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "silver beech",
+    "en_definition": "New Zealand beech with usually pale silvery bark",
+    "tr_word": "gümüş kayın",
+    "tr_definition": "Genellikle soluk gümüşi kabuklu bir Yeni Zelanda kayın ağacı türü",
+    "ru_word": "серебристый нотофагус",
+    "ru_definition": "Новозеландский бук с обычно бледной серебристой корой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gümüş kayın"
+                ],
+                "Azerbaijani": [
+                    "gümüşü fıstıq",
+                    "gümüşü fıstıq ağacı"
+                ],
+                "Turkmen": [
+                    "kümüşsöw buk"
+                ],
+                "Uyghur": [
+                    "كۈمۈش رەڭلىك قارىياغاچ",
+                    "كۈمۈش رەڭلىك بۇك دەرىخى"
+                ],
+                "Kazakh": [
+                    "күміс шамшат"
+                ],
+                "Kyrgyz": [
+                    "күмүш бук"
+                ],
+                "Karakalpak": [
+                    "kúmús qayıń"
+                ],
+                "Tatar": [
+                    "көмеш бук",
+                    "көмеш төсле бук"
+                ],
+                "Bashkir": [
+                    "көмөш бук",
+                    "көмөш төҫлө бук"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak kayın"
+                ],
+                "Turkmen": [
+                    "ak buk"
+                ],
+                "Uzbek": [
+                    "oq buk"
+                ],
+                "Kyrgyz": [
+                    "ак бук"
+                ],
+                "Karakalpak": [
+                    "aq qayıń"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kumushrang buk",
+                    "kumushrang qayin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақ шамшат"
+                ]
+            }
+        }
+    ]
+}

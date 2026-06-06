@@ -1,0 +1,123 @@
+# Alveolar
+| Field | Detail |
+|---|---|
+| **ID** | i74053 |
+| **English** | alveolar |
+| **Type** | noun |
+| **Definition** | a consonant articulated with the tip of the tongue near the gum ridge |
+| **Source** | common |
+| **Ortatil** | alweolyar |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i74053",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "alveolar",
+    "en_definition": "a consonant articulated with the tip of the tongue near the gum ridge",
+    "tr_word": "dişeti ünsüzü",
+    "tr_definition": "Dil ucunun üst diş etine değmesi veya yaklaşmasıyla oluşan ünsüz harf.",
+    "ru_word": "альвеолярный согласный",
+    "ru_definition": "Согласный звук, образуемый прикосновением кончика языка к альвеолам.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "alveol samiti"
+                ],
+                "Turkmen": [
+                    "alweolýar"
+                ],
+                "Uzbek": [
+                    "alveolyar tovush"
+                ],
+                "Uyghur": [
+                    "ئالۋېئولا تاۋۇشى"
+                ],
+                "Kazakh": [
+                    "альвеола дыбысы"
+                ],
+                "Kyrgyz": [
+                    "альвеола тыбышы"
+                ],
+                "Karakalpak": [
+                    "alweola dauıssızları"
+                ],
+                "Tatar": [
+                    "альвеоляр аваз"
+                ],
+                "Bashkir": [
+                    "альвеоляр өн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dişeti ünsüzü",
+                    "dişeti sessizi",
+                    "diş-damak ünsüzü"
+                ],
+                "Azerbaijani": [
+                    "diş yuvası samiti",
+                    "diş əti samiti"
+                ],
+                "Turkmen": [
+                    "diş-kent",
+                    "diş etiniň çekinmesi"
+                ],
+                "Uzbek": [
+                    "tish-miltiq tovushi"
+                ],
+                "Kyrgyz": [
+                    "тиш түбү тыбышы"
+                ],
+                "Karakalpak": [
+                    "tis artı dauıssızları"
+                ],
+                "Tatar": [
+                    "теш өсте авазы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қызыл иек дыбысы"
+                ],
+                "Bashkir": [
+                    "кыҙыллыҡ өнө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "damaksıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "miltiq tovushi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چىش تۈۋى تاۋۇشى"
+                ]
+            }
+        }
+    ]
+}
+```
+

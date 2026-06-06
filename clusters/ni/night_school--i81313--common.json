@@ -1,0 +1,82 @@
+{
+    "id": "i81313",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "night school",
+    "en_definition": "a school that holds classes in the evenings for students who cannot attend during the day",
+    "tr_word": "gece okulu",
+    "tr_definition": "Gündüz okula gidemeyen öğrenciler için akşamları ders veren okul.",
+    "ru_word": "вечерняя школа",
+    "ru_definition": "школа, в которой занятия проводятся по вечерам для людей, работающих или занятых в дневное время.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gece okulu"
+                ],
+                "Azerbaijani": [
+                    "gecə məktəbi"
+                ],
+                "Uzbek": [
+                    "kechki maktab"
+                ],
+                "Uyghur": [
+                    "كەچلىك مەكتەپ",
+                    "كەچلىك كۇرس"
+                ],
+                "Kazakh": [
+                    "кешкі мектеп",
+                    "кешкі оқу орны"
+                ],
+                "Kyrgyz": [
+                    "кечки мектеп"
+                ],
+                "Karakalpak": [
+                    "keshki mektep"
+                ],
+                "Tatar": [
+                    "кичке мәктәп",
+                    "кичке укуханә"
+                ],
+                "Bashkir": [
+                    "киске мәктәп",
+                    "киске уҡыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akşam okulu",
+                    "akşam lisesi"
+                ],
+                "Azerbaijani": [
+                    "axşam məktəbi"
+                ],
+                "Turkmen": [
+                    "agşamky mekdep",
+                    "agşamky okuw"
+                ],
+                "Karakalpak": [
+                    "axshamǵı mektep"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shomgi maktab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түнкү мектеп"
+                ]
+            }
+        }
+    ]
+}

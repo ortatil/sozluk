@@ -1,0 +1,127 @@
+{
+    "id": "i24550",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "shorten",
+    "en_definition": "make short or shorter",
+    "tr_word": "kısaltmak",
+    "tr_definition": "bir şeyi daha kısa duruma getirmek",
+    "ru_word": "укорачивать",
+    "ru_definition": "делать коротким или короче",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısaltmak",
+                    "eksiltmek"
+                ],
+                "Azerbaijani": [
+                    "qısaltmaq",
+                    "kəsmək",
+                    "əskiltmək"
+                ],
+                "Turkmen": [
+                    "gysgaltmak"
+                ],
+                "Uzbek": [
+                    "qisqartirmoq",
+                    "kesmoq"
+                ],
+                "Uyghur": [
+                    "قىسقارتماق",
+                    "كەسمەك"
+                ],
+                "Kazakh": [
+                    "қысқарту"
+                ],
+                "Kyrgyz": [
+                    "кыскартуу",
+                    "кыска кылуу"
+                ],
+                "Karakalpak": [
+                    "qısqartıu"
+                ],
+                "Tatar": [
+                    "кыскарту"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡартыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kesmek"
+                ],
+                "Turkmen": [
+                    "kemeltmek"
+                ],
+                "Kazakh": [
+                    "келтелеу"
+                ],
+                "Kyrgyz": [
+                    "кемитүү"
+                ],
+                "Karakalpak": [
+                    "kelteytiu"
+                ],
+                "Tatar": [
+                    "киметү"
+                ],
+                "Bashkir": [
+                    "кәметеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "azaltmak"
+                ],
+                "Uzbek": [
+                    "ozaytirmoq"
+                ],
+                "Uyghur": [
+                    "ئازايتماق"
+                ],
+                "Kazakh": [
+                    "азайту"
+                ],
+                "Karakalpak": [
+                    "azaytıu"
+                ],
+                "Tatar": [
+                    "азайту"
+                ],
+                "Bashkir": [
+                    "аҙайтыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtisar etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kamaytirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түйіндеу"
+                ]
+            }
+        }
+    ]
+}

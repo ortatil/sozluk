@@ -1,0 +1,92 @@
+{
+    "id": "i59624",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stonework",
+    "en_definition": "masonry done with stone",
+    "tr_word": "taş işçiliği",
+    "tr_definition": "taş kullanılarak yapılan yapı veya süsleme işleri",
+    "ru_word": "каменная кладка",
+    "ru_definition": "сооружение или изделия, выполненные из камня",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşçılık",
+                    "taş işçiliği",
+                    "taş işleme",
+                    "taş yapı"
+                ],
+                "Azerbaijani": [
+                    "daş işi",
+                    "daşçılıq",
+                    "daş hörgüsü"
+                ],
+                "Turkmen": [
+                    "daşçylyk",
+                    "daş işi",
+                    "daş örümi"
+                ],
+                "Uzbek": [
+                    "toshkori",
+                    "toshterish",
+                    "tosh ishi"
+                ],
+                "Uyghur": [
+                    "تاشچىلىق",
+                    "تاش قۇرۇلۇشى",
+                    "تاشچىلىق ھۈنىرى"
+                ],
+                "Kazakh": [
+                    "тас қалау",
+                    "тас жұмысы",
+                    "тас өңдеу"
+                ],
+                "Kyrgyz": [
+                    "таш калоо",
+                    "таш кыш",
+                    "таш устачылык",
+                    "таш иши"
+                ],
+                "Karakalpak": [
+                    "tas qalau",
+                    "tasshılıq",
+                    "tas jumısı"
+                ],
+                "Tatar": [
+                    "таш эше",
+                    "таш кору",
+                    "таш төзү",
+                    "таш калау"
+                ],
+                "Bashkir": [
+                    "таш эше",
+                    "таш ҡоролма",
+                    "таш һалыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duvarcılık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hörgü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sangkorlik"
+                ]
+            }
+        }
+    ]
+}

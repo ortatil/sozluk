@@ -1,0 +1,104 @@
+{
+    "id": "i45745",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rock crab",
+    "en_definition": "crab of eastern coast of North America",
+    "tr_word": "kaya yengeci",
+    "tr_definition": "Kuzey Amerika'nın doğu kıyılarında yaşayan bir yengeç türü.",
+    "ru_word": "краб-каменщик",
+    "ru_definition": "краб, обитающий у восточного побережья Северной Америки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "daş xərçəngi"
+                ],
+                "Uzbek": [
+                    "tosh qisqichbaqasi"
+                ],
+                "Uyghur": [
+                    "تاش قىسقۇچپاقىسى"
+                ],
+                "Kazakh": [
+                    "тас краб"
+                ],
+                "Kyrgyz": [
+                    "таш крабы",
+                    "таш чаяны"
+                ],
+                "Karakalpak": [
+                    "tas shayanı"
+                ],
+                "Bashkir": [
+                    "таш ҡыҫалаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gysgyçly"
+                ],
+                "Uzbek": [
+                    "qisqichbaqa"
+                ],
+                "Uyghur": [
+                    "قىسقۇچپاقا"
+                ],
+                "Tatar": [
+                    "кысла"
+                ],
+                "Bashkir": [
+                    "ҡыҫала"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaya yengeci"
+                ],
+                "Azerbaijani": [
+                    "qaya xərçəngi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yengeç"
+                ],
+                "Turkmen": [
+                    "leňňeç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "диңгез кысласы"
+                ],
+                "Bashkir": [
+                    "диңгеҙ ҡыҫалаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тас шаян"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shayan"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "id": "i23589",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "refrigerate",
+    "en_definition": "cool or chill in or as if in a refrigerator",
+    "tr_word": "soğutmak",
+    "tr_definition": "bir şeyi buzdolabında veya benzeri bir yerde soğuk tutmak veya dondurmak",
+    "ru_word": "охлаждать",
+    "ru_definition": "помещать в холодильник или другое холодное место для сохранения свежести",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soğutmak"
+                ],
+                "Azerbaijani": [
+                    "soyutmaq"
+                ],
+                "Turkmen": [
+                    "sowatmak"
+                ],
+                "Uzbek": [
+                    "sovutmoq"
+                ],
+                "Uyghur": [
+                    "سوۋۇتماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dondurmak"
+                ],
+                "Azerbaijani": [
+                    "dondurmaq"
+                ],
+                "Turkmen": [
+                    "doňdurmak"
+                ],
+                "Kyrgyz": [
+                    "тоңдуруу"
+                ],
+                "Bashkir": [
+                    "туңдырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "buzlatmak"
+                ],
+                "Uzbek": [
+                    "muzlatmoq"
+                ],
+                "Uyghur": [
+                    "مۇزلاتماق"
+                ],
+                "Kyrgyz": [
+                    "муздатуу"
+                ],
+                "Karakalpak": [
+                    "mұzdatıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "суыту"
+                ],
+                "Kyrgyz": [
+                    "суутуу"
+                ],
+                "Karakalpak": [
+                    "suıtıu"
+                ],
+                "Tatar": [
+                    "суыту",
+                    "суытып тору",
+                    "суыкка кую"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "serinletmek"
+                ],
+                "Azerbaijani": [
+                    "sərinlətmək"
+                ],
+                "Uzbek": [
+                    "salqinlatmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "салқындату"
+                ],
+                "Karakalpak": [
+                    "salqındatıu"
+                ],
+                "Bashkir": [
+                    "һалҡынайтыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇزلىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тоңазыту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыуытыу"
+                ]
+            }
+        }
+    ]
+}

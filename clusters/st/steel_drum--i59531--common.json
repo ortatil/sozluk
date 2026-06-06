@@ -1,0 +1,98 @@
+{
+    "id": "i59531",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "steel drum",
+    "en_definition": "a concave percussion instrument made from the metal top of an oil drum; has an array of flattened areas that produce different tones when struck (of Caribbean origin)",
+    "tr_word": "çelik davul",
+    "tr_definition": "Karayip kökenli, bir petrol varilinin metal kapağından yapılan ve üzerine vurulduğunda farklı tonlar üreten çukur bir vurmalı çalgı.",
+    "ru_word": "стальной барабан",
+    "ru_definition": "вогнутый ударный инструмент, изготовленный из металлической крышки нефтяной бочки; имеет ряд плоских участков, которые при ударе издают различные звуки (карибского происхождения).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "polad təbil",
+                    "polad baraban"
+                ],
+                "Turkmen": [
+                    "polat deprek",
+                    "polat baraban"
+                ],
+                "Uzbek": [
+                    "po'lat nog'ora",
+                    "po'lat baraban"
+                ],
+                "Uyghur": [
+                    "پولات دۇمباق",
+                    "پولات بارابان"
+                ],
+                "Kazakh": [
+                    "болат дабыл"
+                ],
+                "Kyrgyz": [
+                    "болот добулбас",
+                    "болот барабан"
+                ],
+                "Karakalpak": [
+                    "bolat dabıl"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "demir deprek"
+                ],
+                "Uzbek": [
+                    "temir nog'ora"
+                ],
+                "Kazakh": [
+                    "темір барабан"
+                ],
+                "Kyrgyz": [
+                    "темир барабан"
+                ],
+                "Karakalpak": [
+                    "temir dabıl"
+                ],
+                "Tatar": [
+                    "тимер барабан"
+                ],
+                "Bashkir": [
+                    "тимер барабан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "metal davul"
+                ],
+                "Azerbaijani": [
+                    "metal təbil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "корыч барабан"
+                ],
+                "Bashkir": [
+                    "ҡорос барабан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çelik davul",
+                    "çelik pan"
+                ]
+            }
+        }
+    ]
+}

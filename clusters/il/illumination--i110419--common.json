@@ -1,0 +1,170 @@
+{
+    "id": "i110419",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "illumination",
+    "en_definition": "the degree of visibility of your environment",
+    "tr_word": "aydınlatma",
+    "tr_definition": "çevrenin görünürlük derecesi",
+    "ru_word": "освещенность",
+    "ru_definition": "степень видимости окружающей среды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nur"
+                ],
+                "Turkmen": [
+                    "nury"
+                ],
+                "Uzbek": [
+                    "nur"
+                ],
+                "Uyghur": [
+                    "نۇر"
+                ],
+                "Kazakh": [
+                    "нұр"
+                ],
+                "Kyrgyz": [
+                    "нур"
+                ],
+                "Karakalpak": [
+                    "nur"
+                ],
+                "Tatar": [
+                    "нур"
+                ],
+                "Bashkir": [
+                    "нур"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yorug'lik"
+                ],
+                "Uyghur": [
+                    "يورۇقلۇق",
+                    "يورۇتۇش"
+                ],
+                "Kazakh": [
+                    "жарық",
+                    "жарықтандыру"
+                ],
+                "Kyrgyz": [
+                    "жарык",
+                    "жарыктык",
+                    "жарыктандыруу"
+                ],
+                "Karakalpak": [
+                    "jarıqlıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aydınlık",
+                    "aydınlatma"
+                ],
+                "Azerbaijani": [
+                    "aydınlatma"
+                ],
+                "Turkmen": [
+                    "ýagtylyk"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ziya"
+                ],
+                "Uzbek": [
+                    "ziyo"
+                ],
+                "Tatar": [
+                    "зият"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şöhle"
+                ],
+                "Kazakh": [
+                    "сәуле"
+                ],
+                "Karakalpak": [
+                    "sáule"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "rowaçlyk"
+                ],
+                "Uyghur": [
+                    "روشەنلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яктылык",
+                    "яктырту"
+                ],
+                "Bashkir": [
+                    "яҡтылыҡ",
+                    "яҡтыртыу",
+                    "яҡты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ışık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tenvirat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "işıqlandırma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ravshanlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jarıq"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": "i15141",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "colonial",
+    "en_definition": "of or relating to or characteristic of or inhabiting a colony",
+    "tr_word": "sömürge",
+    "tr_definition": "Bir sömürge ile ilgili olan veya sömürgeye özgü olan",
+    "ru_word": "колониальный",
+    "ru_definition": "относящийся к колонии или характерный для неё",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müstemleke"
+                ],
+                "Azerbaijani": [
+                    "müstəmləkə",
+                    "müstəmləkəçi",
+                    "müstəmləkəvi"
+                ],
+                "Turkmen": [
+                    "müstemleke",
+                    "müstemlekeçilik"
+                ],
+                "Uzbek": [
+                    "mustamlakachilik",
+                    "mustamlaka"
+                ],
+                "Uyghur": [
+                    "مۇستەملىكىچىلىك",
+                    "مۇستەملىكىگە ئائىت",
+                    "مۇستەملىكىۋى"
+                ],
+                "Kyrgyz": [
+                    "мустамлакачыл"
+                ],
+                "Karakalpak": [
+                    "mústámlekelik"
+                ],
+                "Tatar": [
+                    "мөстәмликяви",
+                    "мөстәмликә"
+                ],
+                "Bashkir": [
+                    "мөстәмликә",
+                    "мөстәмликәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "отаршыл",
+                    "отарлық",
+                    "отаршылдық"
+                ],
+                "Kyrgyz": [
+                    "оторчул",
+                    "отордук"
+                ],
+                "Karakalpak": [
+                    "otarshıl",
+                    "otarlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koloni"
+                ],
+                "Bashkir": [
+                    "колониаль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sömürge"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bakna"
+                ]
+            }
+        }
+    ]
+}

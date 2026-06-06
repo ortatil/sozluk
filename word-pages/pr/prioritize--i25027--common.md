@@ -1,0 +1,222 @@
+# Prioritize
+| Field | Detail |
+|---|---|
+| **ID** | i25027 |
+| **English** | prioritize |
+| **Type** | verb |
+| **Definition** | assign a priority to |
+| **Source** | common |
+| **Ortatil** | tanlamaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i25027",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "prioritize",
+    "en_definition": "assign a priority to",
+    "tr_word": "önceliklendirmek",
+    "tr_definition": "bir şeye veya bir işe diğerlerinden daha önce yapılması için öncelik tanımak",
+    "ru_word": "приоритизировать",
+    "ru_definition": "располагать по степени важности или определять очередность выполнения задач",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ileri tutmak"
+                ],
+                "Uyghur": [
+                    "ئالدىن كۆرمەك",
+                    "ئالدىن بىر تەرەپ قىلماق"
+                ],
+                "Kazakh": [
+                    "алдыңғы орынға қою"
+                ],
+                "Kyrgyz": [
+                    "алдыга коюу"
+                ],
+                "Karakalpak": [
+                    "aldınǵı orınǵa shıǵarıo"
+                ],
+                "Bashkir": [
+                    "алға сығарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "üstünlük vermək"
+                ],
+                "Uzbek": [
+                    "ustun qo'ymoq"
+                ],
+                "Tatar": [
+                    "өстенлек бирү"
+                ],
+                "Bashkir": [
+                    "өҫтөнлөк биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vacib saymaq"
+                ],
+                "Turkmen": [
+                    "baş orna goýmak"
+                ],
+                "Kazakh": [
+                    "басымдық беру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "artykmaçlyk bermek"
+                ],
+                "Kazakh": [
+                    "артықшылық беру"
+                ],
+                "Kyrgyz": [
+                    "артыкчылык берүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ähmiýet bermek"
+                ],
+                "Uyghur": [
+                    "ئەھمىيەت بەرمەك"
+                ],
+                "Karakalpak": [
+                    "áhmiyet berio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öncelik tanımak",
+                    "öncelik vermek",
+                    "öne almak"
+                ],
+                "Azerbaijani": [
+                    "önəm vermək",
+                    "ön plana çəkmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "afzal ko'rmoq"
+                ],
+                "Karakalpak": [
+                    "abzal kório"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "birinchi o'ringa qo'ymoq"
+                ],
+                "Kyrgyz": [
+                    "биринчи орунга коюу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "маңыздылық беру"
+                ],
+                "Kyrgyz": [
+                    "маанилүүлүгүн аныктоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөһимрәк дип табу"
+                ],
+                "Bashkir": [
+                    "мөһим тип табыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tercih etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "imtiyoz bermoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tanlamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئالدىنقى ئورۇنغا قويماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tiykarǵı orınǵa qoyıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "алга кую"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "беренче чиратка кую"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәүге сиратҡа ҡуйыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

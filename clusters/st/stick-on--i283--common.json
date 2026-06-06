@@ -1,0 +1,99 @@
+{
+    "id": "i283",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "stick-on",
+    "en_definition": "of something (a paper label or postage stamp) gummed in advance",
+    "tr_word": "kendinden yapışkanlı",
+    "tr_definition": "arkası önceden yapıştırıcı sürülmüş ve koruyucu bir kağıtla kaplanmış olan",
+    "ru_word": "самоклеящийся",
+    "ru_definition": "имеющий на одной стороне слой клея, позволяющий прикреплять предмет к поверхности без использования дополнительных средств",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yapışkanlı",
+                    "yapışkan"
+                ],
+                "Azerbaijani": [
+                    "yapışqanlı",
+                    "yapışdırılan"
+                ],
+                "Uzbek": [
+                    "yopishqoq",
+                    "yopishadigan"
+                ],
+                "Uyghur": [
+                    "چاپلىما",
+                    "چاپلىنىدىغان"
+                ],
+                "Kazakh": [
+                    "жабысқақ",
+                    "жабыстырмалы"
+                ],
+                "Kyrgyz": [
+                    "жабышкак",
+                    "жабышма",
+                    "жабыштырылма"
+                ],
+                "Karakalpak": [
+                    "jabısqaq",
+                    "jabıstırmalı"
+                ],
+                "Tatar": [
+                    "ябыштырылмалы",
+                    "ябышкак",
+                    "ябыштырыла торган"
+                ],
+                "Bashkir": [
+                    "йәбештерелмә",
+                    "йәбешкәк",
+                    "йәбештерелеүсән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýelmeşýän",
+                    "ýelmenýän"
+                ],
+                "Uyghur": [
+                    "يەلىملەنگەن"
+                ],
+                "Kazakh": [
+                    "желімді"
+                ],
+                "Karakalpak": [
+                    "jelіmdelgen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "özü-özünə yapışan"
+                ],
+                "Turkmen": [
+                    "öz-özünden ýelmeşýän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendinden yapışkanlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "elimli"
+                ]
+            }
+        }
+    ]
+}

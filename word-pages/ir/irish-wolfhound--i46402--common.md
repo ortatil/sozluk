@@ -1,0 +1,116 @@
+# Irish wolfhound
+| Field | Detail |
+|---|---|
+| **ID** | i46402 |
+| **English** | irish wolfhound |
+| **Type** | noun |
+| **Definition** | large breed of hound with a rough thick coat |
+| **Source** | common |
+| **Ortatil** | döböt |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| дөбөт | döböt |
+| тайган | taygan |
+
+```json
+{
+    "id": "i46402",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "irish wolfhound",
+    "en_definition": "large breed of hound with a rough thick coat",
+    "tr_word": "İrlanda kurt köpeği",
+    "tr_definition": "Sert ve kalın tüylü, çok büyük bir tazı cinsi.",
+    "ru_word": "ирландский волкодав",
+    "ru_definition": "крупная порода борзых с жесткой густой шерстью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İrlanda kurt köpeği",
+                    "İrlanda tazısı"
+                ],
+                "Azerbaijani": [
+                    "İrlandiya canavar iti",
+                    "İrlandiya qurdboğanı"
+                ],
+                "Turkmen": [
+                    "Irland tazy",
+                    "Irland möjek tazy"
+                ],
+                "Uzbek": [
+                    "irlandiya bo'ribosari",
+                    "irlandiya bo'ritutari"
+                ],
+                "Uyghur": [
+                    "ئىرېلاندىيە تېزى",
+                    "ئىرېلاندىيە ئوۋ ئىتى"
+                ],
+                "Kazakh": [
+                    "ирланд қасқыр иті",
+                    "ирланд тазысы"
+                ],
+                "Tatar": [
+                    "Ирландия бүре эте",
+                    "Ирландия вольфхаунды"
+                ],
+                "Bashkir": [
+                    "Ирландия бүре баҫыусыһы",
+                    "Ирландия вольфхаунды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дөбөт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тайган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "алп ит"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "iyttiń bir túri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bóribasar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tazı"
+                ]
+            }
+        }
+    ]
+}
+```
+

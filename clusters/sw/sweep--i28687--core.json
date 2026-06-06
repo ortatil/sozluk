@@ -1,0 +1,118 @@
+{
+    "id": "i28687",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "swept",
+    "en_definition": "clean by sweeping",
+    "tr_word": "süpürülmüş",
+    "tr_definition": "süpürge ile temizlenmiş",
+    "ru_word": "подметенный",
+    "ru_definition": "очищенный с помощью метлы или щетки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "süpürmek"
+                ],
+                "Azerbaijani": [
+                    "süpürmək"
+                ],
+                "Turkmen": [
+                    "süpürmek"
+                ],
+                "Uzbek": [
+                    "supurmoq"
+                ],
+                "Uyghur": [
+                    "سۈپۈرمەك"
+                ],
+                "Kazakh": [
+                    "сыпыру"
+                ],
+                "Kyrgyz": [
+                    "шыпыруу"
+                ],
+                "Karakalpak": [
+                    "sıpırıo"
+                ],
+                "Tatar": [
+                    "себерү"
+                ],
+                "Bashkir": [
+                    "һепереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tozalamoq"
+                ],
+                "Uyghur": [
+                    "تازىلىماق"
+                ],
+                "Kazakh": [
+                    "тазалау"
+                ],
+                "Kyrgyz": [
+                    "тазалоо"
+                ],
+                "Karakalpak": [
+                    "tazalao"
+                ],
+                "Tatar": [
+                    "тазарту"
+                ],
+                "Bashkir": [
+                    "таҙартыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temizlemek"
+                ],
+                "Azerbaijani": [
+                    "təmizləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arındırmak"
+                ],
+                "Azerbaijani": [
+                    "arılamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poklamoq"
+                ],
+                "Uyghur": [
+                    "پاقىزلانماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süpirip-sydyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җыештыру"
+                ]
+            }
+        }
+    ]
+}

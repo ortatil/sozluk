@@ -1,0 +1,85 @@
+{
+    "id": "i49800",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ace of diamonds",
+    "en_definition": "the ace in the diamond suit",
+    "tr_word": "karo ası",
+    "tr_definition": "karo serisindeki as kartı",
+    "ru_word": "бубновый туз",
+    "ru_definition": "туз в масти бубен",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "g'isht tuzi",
+                    "g'ishtli tuz",
+                    "g'ishtin tuz"
+                ],
+                "Uyghur": [
+                    "غىش بوزى",
+                    "غىش تۇز",
+                    "غىش بىرلىك"
+                ],
+                "Kazakh": [
+                    "қиық тұзы"
+                ],
+                "Kyrgyz": [
+                    "кыш тузу",
+                    "кыш асы"
+                ],
+                "Karakalpak": [
+                    "qısh tuz",
+                    "qısh tuzı"
+                ],
+                "Bashkir": [
+                    "ҡыҙыллы туҙ",
+                    "ҡыҙыллы асы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karo ası",
+                    "karo as"
+                ],
+                "Azerbaijani": [
+                    "kərpic ası",
+                    "kərpic tuzu",
+                    "kərpic birli"
+                ],
+                "Turkmen": [
+                    "kerpiç as"
+                ],
+                "Tatar": [
+                    "кырлы туз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daýançy as"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұз қиық",
+                    "тұз шытыра"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "буби тузы"
+                ]
+            }
+        }
+    ]
+}

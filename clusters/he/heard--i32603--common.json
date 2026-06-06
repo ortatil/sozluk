@@ -1,0 +1,127 @@
+{
+    "id": "i32603",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "heard",
+    "en_definition": "perceive (sound) via the auditory sense",
+    "tr_word": "duymak",
+    "tr_definition": "sesleri işitme organı yoluyla algılamak",
+    "ru_word": "слышать",
+    "ru_definition": "воспринимать звуки с помощью органов слуха",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işitmek"
+                ],
+                "Azerbaijani": [
+                    "eşitmək"
+                ],
+                "Turkmen": [
+                    "eşidilen"
+                ],
+                "Uzbek": [
+                    "eshitmoq"
+                ],
+                "Uyghur": [
+                    "ئېشىتمەك"
+                ],
+                "Kazakh": [
+                    "есту"
+                ],
+                "Karakalpak": [
+                    "esitti"
+                ],
+                "Tatar": [
+                    "ишетелгән",
+                    "ишеткән"
+                ],
+                "Bashkir": [
+                    "ишетелгән",
+                    "ишетеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "diňlenen"
+                ],
+                "Uzbek": [
+                    "tinglamoq"
+                ],
+                "Kazakh": [
+                    "тыңдау"
+                ],
+                "Karakalpak": [
+                    "tıńladı"
+                ],
+                "Tatar": [
+                    "тыңланган"
+                ],
+                "Bashkir": [
+                    "тыңланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quloq solmoq"
+                ],
+                "Kazakh": [
+                    "құлақ түру"
+                ],
+                "Kyrgyz": [
+                    "кулагы чалды"
+                ],
+                "Karakalpak": [
+                    "qulaq saldı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "duymak"
+                ],
+                "Azerbaijani": [
+                    "duymaq"
+                ],
+                "Turkmen": [
+                    "duýlan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хабардар болу"
+                ],
+                "Kyrgyz": [
+                    "кабардар болду"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاڭلىماق",
+                    "ئاڭلانماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "укту",
+                    "угулду"
+                ]
+            }
+        }
+    ]
+}

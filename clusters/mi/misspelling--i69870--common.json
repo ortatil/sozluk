@@ -1,0 +1,124 @@
+{
+    "id": "i69870",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "misspelling",
+    "en_definition": "a spelling that is incorrect",
+    "tr_word": "yazım yanlışı",
+    "tr_definition": "bir kelimenin imla kurallarına uygun olmayan şekilde yazılması",
+    "ru_word": "опечатка",
+    "ru_definition": "ошибка в написании слова или неправильное написание",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "imla hatası"
+                ],
+                "Azerbaijani": [
+                    "imla xətası"
+                ],
+                "Turkmen": [
+                    "imlada ýalňyşlyk"
+                ],
+                "Uzbek": [
+                    "imlo xatosi"
+                ],
+                "Uyghur": [
+                    "ئىملا خاتالىقى"
+                ],
+                "Kazakh": [
+                    "емле қатесі"
+                ],
+                "Karakalpak": [
+                    "imla qátesi"
+                ],
+                "Tatar": [
+                    "имля хатасы"
+                ],
+                "Bashkir": [
+                    "имлә хатаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazım yanlışı",
+                    "yazım hatası"
+                ],
+                "Azerbaijani": [
+                    "yazı yanlışı",
+                    "yazı xətası"
+                ],
+                "Uzbek": [
+                    "yozuv xatosi"
+                ],
+                "Kazakh": [
+                    "жазу қатесі"
+                ],
+                "Kyrgyz": [
+                    "жазуу катасы"
+                ],
+                "Karakalpak": [
+                    "jazıo qátesi"
+                ],
+                "Tatar": [
+                    "язу хатасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hatalyk"
+                ],
+                "Uzbek": [
+                    "xato"
+                ],
+                "Uyghur": [
+                    "خاتا يېزىق"
+                ],
+                "Kyrgyz": [
+                    "ката"
+                ],
+                "Tatar": [
+                    "хата"
+                ],
+                "Bashkir": [
+                    "хата"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yanlış imla"
+                ],
+                "Turkmen": [
+                    "ýalňyşlyk"
+                ],
+                "Bashkir": [
+                    "яңылыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қате жазу"
+                ],
+                "Kyrgyz": [
+                    "ката жазуу"
+                ],
+                "Karakalpak": [
+                    "qáte"
+                ]
+            }
+        }
+    ]
+}

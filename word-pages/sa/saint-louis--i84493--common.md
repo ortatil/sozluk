@@ -1,0 +1,104 @@
+# Saint louis
+| Field | Detail |
+|---|---|
+| **ID** | i84493 |
+| **English** | saint louis |
+| **Type** | noun |
+| **Definition** | the largest city in Missouri; a busy river port on the Mississippi River near its confluence with the Missouri River; was an important staging area for wagon trains westward in the 19th century |
+| **Source** | common |
+| **Ortatil** | sent-luis |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sent-luis** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سېنت-لۇئىس | sent-luis |
+| **Kazakh** | |
+| Сент-Луис | sent-luis |
+| **Kyrgyz** | |
+| Сент-Луис | sent-luis |
+| **Tatar** | |
+| Сент-Луис | sent-luis |
+| **Bashkir** | |
+| Сент-Луис | sent-luis |
+
+```json
+{
+    "id": "i84493",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "saint louis",
+    "en_definition": "the largest city in Missouri; a busy river port on the Mississippi River near its confluence with the Missouri River; was an important staging area for wagon trains westward in the 19th century",
+    "tr_word": "Saint Louis",
+    "tr_definition": "Missouri eyaletinin en büyük şehri; Mississippi Nehri üzerinde, Missouri Nehri ile birleştiği yerin yakınında bulunan işlek bir nehir limanı; 19. yüzyılda batıya giden at arabası konvoyları için önemli bir hazırlık alanıydı.",
+    "ru_word": "Сент-Луис",
+    "ru_definition": "крупнейший город штата Миссури; оживленный речной порт на реке Миссисипи недалеко от ее слияния с рекой Миссури; в XIX веке был важным перевалочным пунктом для караванов фургонов, направлявшихся на запад.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Saint Louis"
+                ],
+                "Azerbaijani": [
+                    "Sent-Luis"
+                ],
+                "Turkmen": [
+                    "Sent-Luis",
+                    "Sent-Luis şäheri"
+                ],
+                "Uzbek": [
+                    "Sent-Luis"
+                ],
+                "Uyghur": [
+                    "سېنت-لۇئىس",
+                    "سېنت-لۇئىس شەھىرى"
+                ],
+                "Kazakh": [
+                    "Сент-Луис"
+                ],
+                "Kyrgyz": [
+                    "Сент-Луис"
+                ],
+                "Karakalpak": [
+                    "Sent-Luis"
+                ],
+                "Tatar": [
+                    "Сент-Луис"
+                ],
+                "Bashkir": [
+                    "Сент-Луис"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "St. Louis"
+                ]
+            }
+        }
+    ]
+}
+```
+

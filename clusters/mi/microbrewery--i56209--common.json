@@ -1,0 +1,104 @@
+{
+    "id": "i56209",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "microbrewery",
+    "en_definition": "a small brewery; consumption of the product is mainly elsewhere",
+    "tr_word": "mikro bira fabrikası",
+    "tr_definition": "genellikle butik üretim yapan, sınırlı kapasiteye sahip küçük ölçekli bira üretim tesisi",
+    "ru_word": "микропивоварня",
+    "ru_definition": "небольшое пивоваренное предприятие, выпускающее ограниченные партии пива, часто крафтового",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük birahane"
+                ],
+                "Azerbaijani": [
+                    "kiçik pivə zavodu",
+                    "kiçik pivəxana"
+                ],
+                "Turkmen": [
+                    "kiçi piwo zawody"
+                ],
+                "Uzbek": [
+                    "kichik pivo zavodi",
+                    "kichik pivo korxonasi"
+                ],
+                "Uyghur": [
+                    "كىچىك پىۋا زاۋۇتى",
+                    "كىچىك تىپتىكى پىۋا زاۋۇتى"
+                ],
+                "Kazakh": [
+                    "кіші сыра қайнату орны"
+                ],
+                "Kyrgyz": [
+                    "кичи сыракана"
+                ],
+                "Karakalpak": [
+                    "kishi sıra zawodı",
+                    "kishi sıraxana"
+                ],
+                "Tatar": [
+                    "кече сыраханә",
+                    "кече сыра кайнату урыны",
+                    "кече сыра заводы"
+                ],
+                "Bashkir": [
+                    "кесе һыра заводы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pivə emalatxanası"
+                ],
+                "Uzbek": [
+                    "pivo sexi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шағын сырахана",
+                    "шағын сыра зауыты"
+                ],
+                "Kyrgyz": [
+                    "чакан сыракана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "butik birahane"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yerel birahane"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hususy piwohanasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәй һыра ҡайнатыу урыны",
+                    "бәләкәй һырахана"
+                ]
+            }
+        }
+    ]
+}

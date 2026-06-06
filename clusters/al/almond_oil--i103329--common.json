@@ -1,0 +1,76 @@
+{
+    "id": "i103329",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "almond oil",
+    "en_definition": "pale yellow fatty oil expressed from sweet or bitter almonds",
+    "tr_word": "badem yağı",
+    "tr_definition": "tatlı veya acı bademlerden elde edilen, açık sarı renkli yağlı bir madde",
+    "ru_word": "миндальное масло",
+    "ru_definition": "бледно-желтое жирное масло, выжатое из сладкого или горького миндаля",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "badem yağı"
+                ],
+                "Azerbaijani": [
+                    "badam yağı"
+                ],
+                "Turkmen": [
+                    "badam ýagy"
+                ],
+                "Uzbek": [
+                    "bodom yog'i"
+                ],
+                "Uyghur": [
+                    "بادام مېيى"
+                ],
+                "Kazakh": [
+                    "бадам майы"
+                ],
+                "Kyrgyz": [
+                    "бадам майы"
+                ],
+                "Karakalpak": [
+                    "badam mayı"
+                ],
+                "Tatar": [
+                    "бәдәм мае"
+                ],
+                "Bashkir": [
+                    "баҙам майы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "миндаль майы"
+                ],
+                "Tatar": [
+                    "миндаль мае"
+                ],
+                "Bashkir": [
+                    "миндаль майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "acı badem yağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tatlı badem yağı"
+                ]
+            }
+        }
+    ]
+}

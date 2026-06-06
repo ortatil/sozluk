@@ -1,0 +1,151 @@
+{
+    "id": "i72004",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white lie",
+    "en_definition": "an unimportant lie (especially one told to be tactful or polite)",
+    "tr_word": "beyaz yalan",
+    "tr_definition": "karşısındakini kırmamak veya nezaket amacıyla söylenen, zararsız ve önemsiz yalan",
+    "ru_word": "ложь во спасение",
+    "ru_definition": "безобидная или тактичная ложь, сказанная из вежливости или чтобы не обидеть человека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ak ýalan"
+                ],
+                "Uyghur": [
+                    "ئاق يالغان"
+                ],
+                "Kyrgyz": [
+                    "ак калп",
+                    "жакшылыктуу калп"
+                ],
+                "Tatar": [
+                    "ак ялган"
+                ],
+                "Bashkir": [
+                    "яҡшылыҡ өсөн ялған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "зиянсыз өтірік"
+                ],
+                "Kyrgyz": [
+                    "зыянсыз калп"
+                ],
+                "Karakalpak": [
+                    "zıyansız ótirik"
+                ],
+                "Bashkir": [
+                    "зыянһыҙ ялған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "masum yalan"
+                ],
+                "Azerbaijani": [
+                    "məsum yalan"
+                ],
+                "Uyghur": [
+                    "مەسلىھەتلىك يالغان"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ياخشى نىيەتلىك يالغان"
+                ],
+                "Kazakh": [
+                    "жақсылық үшін айтылған өтірік"
+                ],
+                "Karakalpak": [
+                    "jaqsı nietli ótirik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zararsız yalan"
+                ],
+                "Uzbek": [
+                    "shirin yolg'on",
+                    "zararsiz yolg'on"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kiçik yalan"
+                ],
+                "Tatar": [
+                    "кечкенә ялган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "peýdaly ýalan"
+                ],
+                "Uzbek": [
+                    "begunoh yolg'on"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақ өтірік"
+                ],
+                "Karakalpak": [
+                    "aq ótirik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "изге ялган"
+                ],
+                "Bashkir": [
+                    "изге ялған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pembe yalan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xeyirxah yalan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "günäsiz ýalan"
+                ]
+            }
+        }
+    ]
+}

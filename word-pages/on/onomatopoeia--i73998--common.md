@@ -1,0 +1,172 @@
+# Onomatopoeia
+| Field | Detail |
+|---|---|
+| **ID** | i73998 |
+| **English** | onomatopoeia |
+| **Type** | noun |
+| **Definition** | using words that imitate the sound they denote |
+| **Source** | common |
+| **Ortatil** | yanma |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| еліктеуіш | yelikteuiş |
+| **Kyrgyz** | |
+| окшоштуруу | okşoşturuu |
+
+```json
+{
+    "id": "i73998",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "onomatopoeia",
+    "en_definition": "using words that imitate the sound they denote",
+    "tr_word": "yansıma",
+    "tr_definition": "Doğadaki seslerin taklit edilmesiyle oluşturulan kelime veya kelime grubu",
+    "ru_word": "звукоподражание",
+    "ru_definition": "Слово, являющееся воспроизведением звуков, возникающих при каком-либо действии или явлении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taklit"
+                ],
+                "Azerbaijani": [
+                    "təqlidi söz"
+                ],
+                "Uzbek": [
+                    "taqlidiy so'z"
+                ],
+                "Uyghur": [
+                    "تەقلىدىي سۆز",
+                    "تەقلىد سۆز"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tovushga taqlid"
+                ],
+                "Karakalpak": [
+                    "daoısqa elіkleoshi sóz"
+                ],
+                "Tatar": [
+                    "тавыш ияртеме"
+                ],
+                "Bashkir": [
+                    "тауышҡа оҡшатыу",
+                    "тауыш оҡшашлығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yansıma"
+                ],
+                "Azerbaijani": [
+                    "yansıma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ses yansıması"
+                ],
+                "Turkmen": [
+                    "sesmeňzeş söz",
+                    "sesli söz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ses taklidi"
+                ],
+                "Azerbaijani": [
+                    "səs təqlidi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاۋاز تەقلىد سۆزى"
+                ],
+                "Tatar": [
+                    "аваз ияртеме",
+                    "ияртем сүз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еліктеуіш сөз",
+                    "еліктеуіш"
+                ],
+                "Karakalpak": [
+                    "elіkleme sóz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "окшоштуруу"
+                ],
+                "Bashkir": [
+                    "оҡшатыу һүҙе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "meňzetme söz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "onoma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дыбыстық еліктеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тууранды сөз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "добуш тууроочу сөз"
+                ]
+            }
+        }
+    ]
+}
+```
+

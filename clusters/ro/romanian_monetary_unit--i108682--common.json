@@ -1,0 +1,65 @@
+{
+    "id": "i108682",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "romanian monetary unit",
+    "en_definition": "monetary unit in Romania",
+    "tr_word": "Rumen para birimi",
+    "tr_definition": "Romanya'da kullanılan resmi para birimi (Lö)",
+    "ru_word": "румынская денежная единица",
+    "ru_definition": "официальная валюта Румынии (лей)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ley"
+                ],
+                "Azerbaijani": [
+                    "ley"
+                ],
+                "Turkmen": [
+                    "leý"
+                ],
+                "Uzbek": [
+                    "ley"
+                ],
+                "Uyghur": [
+                    "لېي"
+                ],
+                "Kazakh": [
+                    "лей"
+                ],
+                "Kyrgyz": [
+                    "лей"
+                ],
+                "Karakalpak": [
+                    "ley"
+                ],
+                "Tatar": [
+                    "лей"
+                ],
+                "Bashkir": [
+                    "лей"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Rumen leyi"
+                ],
+                "Azerbaijani": [
+                    "Rumıniya leyi"
+                ],
+                "Uyghur": [
+                    "رۇمىنىيە لېيسى"
+                ],
+                "Kazakh": [
+                    "румын лейі"
+                ]
+            }
+        }
+    ]
+}

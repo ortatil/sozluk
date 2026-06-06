@@ -1,0 +1,310 @@
+# Stonewalling
+| Field | Detail |
+|---|---|
+| **ID** | i41051 |
+| **English** | stonewalling |
+| **Type** | noun |
+| **Definition** | stalling or delaying especially by refusing to answer questions or cooperate |
+| **Source** | common |
+| **Ortatil** | ḳeçektirüw |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḳeçektirüw** | **tosqaiıl** | **bögew** | **qarşı** | **sozbalañ** |
+|---|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Uzbek | ❌ | ✅ | ❌ | ❌ | ❌ |
+| Uyghur | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Kazakh | ❌ | ✅ | ✅ | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0 | 0.33 | 0 | 0 |
+| *Qarluq Subtotal* | 0 | 0.50 | 0 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.80 | 0.40 | 0.60 | 0.60 |
+| *In All* |  |  |  |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  | ✅ |  |  |
+| **O'TQ** | **1.77** | **1.30** | **1.23** | **0.60** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ھەمكارلاشماسلىق | hämkarlaşmasliq |
+| **Kazakh** | |
+| бөгеу | bögeu |
+| тосқауыл | tosqauıl |
+| созбалаң | sozbalañ |
+| кедергі | kedergi |
+| жалтару | jaltaru |
+| **Kyrgyz** | |
+| кечиктирүү | keçiktirüü |
+| создуктуруу | sozdukturuu |
+| **Tatar** | |
+|  тоткарлау | totkarlau |
+| кичектерү | kiçekterü |
+| каршылык | karşılık |
+| җавапсызлык | javapsızlık |
+| **Bashkir** | |
+| тотҡарлау | totqarlau |
+| кисектереү | kisektereü |
+| кәртәләү | kärtäläü |
+| ҡаршылашыу | qarşılaşıu |
+| бүлеү | büleü |
+
+```json
+{
+    "id": "i41051",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stonewalling",
+    "en_definition": "stalling or delaying especially by refusing to answer questions or cooperate",
+    "tr_word": "oyalama",
+    "tr_definition": "soruları cevaplamayı veya iş birliği yapmayı reddederek süreci geciktirme veya engelleme eylemi",
+    "ru_word": "обструкция",
+    "ru_definition": "намеренное затягивание процесса или уклонение от ответов путем отказа от сотрудничества",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "boyun qaçırma"
+                ],
+                "Turkmen": [
+                    "böwetleme",
+                    "boýun gaçyrma"
+                ],
+                "Uzbek": [
+                    "bo‘yin tovlash"
+                ],
+                "Kazakh": [
+                    "бөгеу"
+                ],
+                "Kyrgyz": [
+                    "бөгөт коюу"
+                ],
+                "Karakalpak": [
+                    "bógeu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to‘sqinlik"
+                ],
+                "Uyghur": [
+                    "توسالغۇ بولۇش"
+                ],
+                "Kazakh": [
+                    "тосқауыл"
+                ],
+                "Karakalpak": [
+                    "tosqauıl"
+                ],
+                "Tatar": [
+                    " тоткарлау"
+                ],
+                "Bashkir": [
+                    "тотҡарлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geçiştirme"
+                ],
+                "Turkmen": [
+                    "gaçalaklama"
+                ],
+                "Kyrgyz": [
+                    "кечиктирүү"
+                ],
+                "Tatar": [
+                    "кичектерү"
+                ],
+                "Bashkir": [
+                    "кисектереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "каршылык көрсөтүү"
+                ],
+                "Karakalpak": [
+                    "qarsılıq"
+                ],
+                "Tatar": [
+                    "каршылык"
+                ],
+                "Bashkir": [
+                    "кәртәләү",
+                    "ҡаршылашыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yayındırma"
+                ],
+                "Uyghur": [
+                    "جاۋابسىز قالدۇرۇش"
+                ],
+                "Tatar": [
+                    "җавапсызлык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "созбалаң"
+                ],
+                "Kyrgyz": [
+                    "создуктуруу"
+                ],
+                "Karakalpak": [
+                    "sozbalańshılıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oyalama"
+                ],
+                "Turkmen": [
+                    "egleme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayak sürümek"
+                ],
+                "Tatar": [
+                    "аяк чалу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "päsgelçilik"
+                ],
+                "Uzbek": [
+                    "paysallash",
+                    "paysalga solish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кедергі"
+                ],
+                "Karakalpak": [
+                    "kedergі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "savuşturma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "engelleme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ləngitmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yubatma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maneəçilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "javobsiz qoldirish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇتلىكاشاڭ قىلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۆرەلمىلىك قىلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەمكارلاشماسلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалтару"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "баш тартуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бүлеү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,95 @@
+{
+    "id": "i40073",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "music lesson",
+    "en_definition": "a lesson in performing music",
+    "tr_word": "müzik dersi",
+    "tr_definition": "müzik icra etme veya teorisi üzerine verilen ders",
+    "ru_word": "урок музыки",
+    "ru_definition": "занятие по обучению игре на музыкальном инструменте или пению",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müzik dersi",
+                    "musiki dersi"
+                ],
+                "Azerbaijani": [
+                    "musiqi dərsi",
+                    "musiqi təlimi"
+                ],
+                "Uzbek": [
+                    "musiqa darsi",
+                    "musiqa sabog'i",
+                    "musiqa ta'limi"
+                ],
+                "Uyghur": [
+                    "مۇزىكا دەرسى"
+                ],
+                "Kazakh": [
+                    "музыка сабағы"
+                ],
+                "Kyrgyz": [
+                    "музыка сабагы"
+                ],
+                "Karakalpak": [
+                    "muzıka sabaǵı"
+                ],
+                "Tatar": [
+                    "музыка дәресе"
+                ],
+                "Bashkir": [
+                    "музыка дәресе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күй сабағы"
+                ],
+                "Kyrgyz": [
+                    "күү сабагы"
+                ],
+                "Tatar": [
+                    "көй дәресе"
+                ],
+                "Bashkir": [
+                    "көй дәресе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saz sapagy",
+                    "saz dersi"
+                ],
+                "Kazakh": [
+                    "саз сабағы"
+                ],
+                "Karakalpak": [
+                    "naz sabaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەغمە دەرسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ыр-күү сабагы"
+                ]
+            }
+        }
+    ]
+}

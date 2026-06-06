@@ -1,0 +1,202 @@
+# Change of course
+| Field | Detail |
+|---|---|
+| **ID** | i37250 |
+| **English** | change of course |
+| **Type** | noun |
+| **Definition** | a change in the direction that you are moving |
+| **Source** | common |
+| **Ortatil** | buruluş |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **buruluş** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.33** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بۇرۇلۇش | buruluş |
+| **Kazakh** | |
+| бұрылыс | burılıs |
+| бетбұрыс | betburıs |
+| **Kyrgyz** | |
+| бурулуш | buruluş |
+| **Tatar** | |
+| борылыш | borılış |
+| борылу | borılu |
+| кәкреш | käkreş |
+| **Bashkir** | |
+| боролош | boroloş |
+| үҙгәреш | üzgäreş |
+
+```json
+{
+    "id": "i37250",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "change of course",
+    "en_definition": "a change in the direction that you are moving",
+    "tr_word": "rota değişikliği",
+    "tr_definition": "hareket edilen yönde yapılan değişiklik",
+    "ru_word": "смена курса",
+    "ru_definition": "изменение направления движения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "burulyş"
+                ],
+                "Uzbek": [
+                    "burilish"
+                ],
+                "Uyghur": [
+                    "بۇرۇلۇش"
+                ],
+                "Kazakh": [
+                    "бұрылыс"
+                ],
+                "Kyrgyz": [
+                    "бурулуш"
+                ],
+                "Karakalpak": [
+                    "burılıs"
+                ],
+                "Tatar": [
+                    "борылыш",
+                    "борылу"
+                ],
+                "Bashkir": [
+                    "боролош"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yön değişimi",
+                    "istikamet değişikliği",
+                    "yön değiştirme"
+                ],
+                "Azerbaijani": [
+                    "yön dəyişməsi"
+                ],
+                "Uzbek": [
+                    "yo'nalish o'zgarishi"
+                ],
+                "Uyghur": [
+                    "يۆنىلىش ئۆزگىرىشى",
+                    "يۆنىلىش ئۆزگەرتىش"
+                ],
+                "Tatar": [
+                    "юнәлеш үзгәрү"
+                ],
+                "Bashkir": [
+                    "йүнәлеш үҙгәреүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бағыттың өзгеруі",
+                    "бағдардың ауысуы"
+                ],
+                "Kyrgyz": [
+                    "багыттын өзгөрүшү",
+                    "багыт алмаштыруу"
+                ],
+                "Karakalpak": [
+                    "baǵdardıń ózgerui",
+                    "baǵıttıń ózgerui"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rota değişikliği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istiqamət dəyişikliyi",
+                    "məcra dəyişikliyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səmt dəyişikliyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ugur üýtgetme",
+                    "ugur üýtgeşmesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýol üýtgetme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "og'ish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бетбұрыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кәкреш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үҙгәреш"
+                ]
+            }
+        }
+    ]
+}
+```
+

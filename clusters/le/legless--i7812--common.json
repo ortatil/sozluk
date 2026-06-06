@@ -1,0 +1,102 @@
+{
+    "id": "i7812",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "legless",
+    "en_definition": "not having legs",
+    "tr_word": "bacaksız",
+    "tr_definition": "bacakları olmayan",
+    "ru_word": "безногий",
+    "ru_definition": "не имеющий ног",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayaksız",
+                    "bacaksız"
+                ],
+                "Azerbaijani": [
+                    "ayaqsız"
+                ],
+                "Turkmen": [
+                    "aýaksyz"
+                ],
+                "Uzbek": [
+                    "oyoqsiz"
+                ],
+                "Kazakh": [
+                    "аяқсыз"
+                ],
+                "Kyrgyz": [
+                    "аяксыз"
+                ],
+                "Karakalpak": [
+                    "ayaqsız"
+                ],
+                "Tatar": [
+                    "аяксыз"
+                ],
+                "Bashkir": [
+                    "аяҡһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "biayaq"
+                ],
+                "Turkmen": [
+                    "beşaýak"
+                ],
+                "Uzbek": [
+                    "beoyoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇتسىز",
+                    "پۇتى يوق"
+                ],
+                "Kyrgyz": [
+                    "бутсуз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мүгедек"
+                ],
+                "Karakalpak": [
+                    "múgedek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кемтар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гарип"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "имгәк"
+                ]
+            }
+        }
+    ]
+}

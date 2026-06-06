@@ -1,0 +1,134 @@
+# Red-bellied terrapin
+| Field | Detail |
+|---|---|
+| **ID** | i44068 |
+| **English** | red-bellied terrapin |
+| **Type** | noun |
+| **Definition** | freshwater turtle of Chesapeake Bay tributaries having red markings on the lower shell |
+| **Source** | common |
+| **Ortatil** | taşbaqa |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| ташбаҡа | taşbaqa |
+
+```json
+{
+    "id": "i44068",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "red-bellied terrapin",
+    "en_definition": "freshwater turtle of Chesapeake Bay tributaries having red markings on the lower shell",
+    "tr_word": "kırmızı karınlı kaplumbağa",
+    "tr_definition": "Chesapeake Körfezi kollarında yaşayan ve alt kabuğunda kırmızı işaretler bulunan bir tatlı su kaplumbağası",
+    "ru_word": "краснобрюхая черепаха",
+    "ru_definition": "пресноводная черепаха из притоков Чесапикского залива, имеющая красные отметины на нижней части панциря",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qizil qorinli toshbaqa"
+                ],
+                "Uyghur": [
+                    "قىزىل قورساق تاشپاقا",
+                    "قىزىل قورساق سۇ تاشپاقىسى"
+                ],
+                "Kazakh": [
+                    "қызылбауыр тасбақа"
+                ],
+                "Karakalpak": [
+                    "qızıl bauırlı tasbaqa"
+                ],
+                "Tatar": [
+                    "кызыл корсаклы ташбака"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл ҡорһаҡлы ташбаҡа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suw pyşbagasy"
+                ],
+                "Uzbek": [
+                    "suv toshbaqasi"
+                ],
+                "Kyrgyz": [
+                    "суу таш бакасы"
+                ],
+                "Karakalpak": [
+                    "su tasbaqası"
+                ],
+                "Tatar": [
+                    "су ташбакасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırmızı karınlı kaplumbağa"
+                ],
+                "Azerbaijani": [
+                    "qırmızıqarın tısbağa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tatlı su kaplumbağası"
+                ],
+                "Kazakh": [
+                    "тұщы су тасбақасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çay tısbağası"
+                ],
+                "Bashkir": [
+                    "һыу ташбаҡаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "таш бака"
+                ],
+                "Bashkir": [
+                    "ташбаҡа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şirin su tısbağası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýji suw pyşbagasy"
+                ]
+            }
+        }
+    ]
+}
+```
+

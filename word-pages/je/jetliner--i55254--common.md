@@ -1,0 +1,202 @@
+# Jetliner
+| Field | Detail |
+|---|---|
+| **ID** | i55254 |
+| **English** | jetliner |
+| **Type** | noun |
+| **Definition** | a large jet plane that carries passengers |
+| **Source** | common |
+| **Ortatil** | täyyarä, uçaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **täyyarä** | **uçaq** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ❌ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ❌ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.33 |
+| *Qarluq Subtotal* | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 0.60 | 0.80 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **2.77** | **2.63** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ұшақ | uşaq |
+| **Kyrgyz** | |
+| тайяра | tayyara |
+| учак | uçak |
+| **Tatar** | |
+| тәйярә | täyyarä |
+| очкыч | oçkıç |
+| **Bashkir** | |
+| осоусы | osousı |
+| самолёт | samolyot |
+
+```json
+{
+    "id": "i55254",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "jetliner",
+    "en_definition": "a large jet plane that carries passengers",
+    "tr_word": "jet yolcu uçağı",
+    "tr_definition": "Yolcu taşımak için tasarlanmış, jet motorlu büyük uçak.",
+    "ru_word": "реактивный пассажирский самолёт",
+    "ru_definition": "Крупный реактивный самолет, предназначенный для перевозки пассажиров.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hava taşıtı"
+                ],
+                "Uzbek": [
+                    "havo kemasi"
+                ],
+                "Uyghur": [
+                    "ھاۋا كېمىسى"
+                ],
+                "Kyrgyz": [
+                    "аба кемеси"
+                ],
+                "Karakalpak": [
+                    "haoa kemesi"
+                ],
+                "Tatar": [
+                    "һава көймәсе"
+                ],
+                "Bashkir": [
+                    "һауа карабы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tayyare"
+                ],
+                "Azerbaijani": [
+                    "təyyarə"
+                ],
+                "Uzbek": [
+                    "tayyora"
+                ],
+                "Kyrgyz": [
+                    "тайяра"
+                ],
+                "Karakalpak": [
+                    "táyyara"
+                ],
+                "Tatar": [
+                    "тәйярә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uçar"
+                ],
+                "Uzbek": [
+                    "uchoq"
+                ],
+                "Kazakh": [
+                    "ұшақ"
+                ],
+                "Kyrgyz": [
+                    "учак"
+                ],
+                "Karakalpak": [
+                    "ushaq"
+                ],
+                "Tatar": [
+                    "очкыч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yolcu uçağı"
+                ],
+                "Turkmen": [
+                    "ýolagçy uçary"
+                ],
+                "Uyghur": [
+                    "يولۇچىلار ئايروپىلانى"
+                ],
+                "Kazakh": [
+                    "жолаушылар ұшағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hava gəmisi"
+                ],
+                "Turkmen": [
+                    "howa gämisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "jet uçağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sərnişin təyyarəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ تىپتىكى ئايروپىلان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуе кемесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "осоусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "самолёт"
+                ]
+            }
+        }
+    ]
+}
+```
+

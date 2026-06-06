@@ -1,0 +1,164 @@
+# Headliner
+| Field | Detail |
+|---|---|
+| **ID** | i90435 |
+| **English** | headliner |
+| **Type** | noun |
+| **Definition** | a performer who receives prominent billing |
+| **Source** | common |
+| **Ortatil** | başrol |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i90435",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "headliner",
+    "en_definition": "a performer who receives prominent billing",
+    "tr_word": "baş sanatçı",
+    "tr_definition": "bir etkinlikte veya konserde adı en üstte yer alan, en önemli icracı",
+    "ru_word": "хедлайнер",
+    "ru_definition": "главный участник мероприятия, чье имя стоит первым в афише",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başrol",
+                    "başsanatçı"
+                ],
+                "Azerbaijani": [
+                    "baş ifaçı",
+                    "baş ulduz"
+                ],
+                "Turkmen": [
+                    "baş ýerine ýetiriji",
+                    "baş gahryman"
+                ],
+                "Uzbek": [
+                    "bosh yulduz",
+                    "peshqadam",
+                    "bosh san'atkor"
+                ],
+                "Uyghur": [
+                    "باش ئورۇنلىغۇچى",
+                    "باش رولچى"
+                ],
+                "Kazakh": [
+                    "бас орындаушы",
+                    "басты әртіс"
+                ],
+                "Kyrgyz": [
+                    "башкы аткаруучу",
+                    "башкы катышуучу"
+                ],
+                "Karakalpak": [
+                    "bas orınlaoshı"
+                ],
+                "Tatar": [
+                    "баш башкаручы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əsas sənətkar"
+                ],
+                "Turkmen": [
+                    "esasy artist"
+                ],
+                "Uzbek": [
+                    "asosiy ijrochi"
+                ],
+                "Uyghur": [
+                    "ئاساسلىق ئارتىس"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "негізгі қатысушы"
+                ],
+                "Kyrgyz": [
+                    "негизги аткаруучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп артист"
+                ],
+                "Bashkir": [
+                    "төп башҡарыусы",
+                    "төп артист"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yıldız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ana sanatçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "meşhur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tiykarǵı juldız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bas qatınasıoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп башкаручы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "танылган артист"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төп йондоҙ"
+                ]
+            }
+        }
+    ]
+}
+```
+

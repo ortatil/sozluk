@@ -1,0 +1,96 @@
+{
+    "id": "i57109",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pencil",
+    "en_definition": "a thin cylindrical pointed writing implement; a rod of marking substance encased in wood",
+    "tr_word": "kurşun kalem",
+    "tr_definition": "yazma veya çizme işlerinde kullanılan, ortasında grafit bulunan tahta çubuk",
+    "ru_word": "карандаш",
+    "ru_definition": "письменная принадлежность в виде стержня из пишущего вещества, обычно оправленного в дерево",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kalem"
+                ],
+                "Azerbaijani": [
+                    "qələm"
+                ],
+                "Turkmen": [
+                    "galam"
+                ],
+                "Uzbek": [
+                    "qalam"
+                ],
+                "Uyghur": [
+                    "قەلەم"
+                ],
+                "Kazakh": [
+                    "қалам"
+                ],
+                "Kyrgyz": [
+                    "калем",
+                    "калемсап"
+                ],
+                "Karakalpak": [
+                    "qalam"
+                ],
+                "Tatar": [
+                    "каләм"
+                ],
+                "Bashkir": [
+                    "ҡәләм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "karandaş"
+                ],
+                "Turkmen": [
+                    "garagalam"
+                ],
+                "Kazakh": [
+                    "қарындаш"
+                ],
+                "Kyrgyz": [
+                    "карандаш"
+                ],
+                "Karakalpak": [
+                    "qarındash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kurşun kalem"
+                ],
+                "Uyghur": [
+                    "قوغۇشۇن قەلەم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazgaç"
+                ],
+                "Bashkir": [
+                    "яҙғыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "коры каләм"
+                ]
+            }
+        }
+    ]
+}

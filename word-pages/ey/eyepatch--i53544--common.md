@@ -1,0 +1,101 @@
+# Eyepatch
+| Field | Detail |
+|---|---|
+| **ID** | i53544 |
+| **English** | eyepatch |
+| **Type** | noun |
+| **Definition** | a protective cloth covering for an injured eye |
+| **Source** | common |
+| **Ortatil** | közqäp |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| көзқап | közqap |
+
+```json
+{
+    "id": "i53544",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eyepatch",
+    "en_definition": "a protective cloth covering for an injured eye",
+    "tr_word": "göz bandı",
+    "tr_definition": "yaralı bir gözü korumak için kullanılan kumaş kaplama",
+    "ru_word": "глазная повязка",
+    "ru_definition": "защитная тканевая повязка на поврежденный глаз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz bandı",
+                    "göz kapatıcı"
+                ],
+                "Azerbaijani": [
+                    "göz sarğısı",
+                    "göz bağı",
+                    "göz qapağı"
+                ],
+                "Turkmen": [
+                    "göz daňysy",
+                    "göz ýapgyjy"
+                ],
+                "Uzbek": [
+                    "koʻz bogʻichi",
+                    "koʻz yopqichi",
+                    "koʻz pardasi"
+                ],
+                "Uyghur": [
+                    "كۆز تېڭىقى",
+                    "كۆز ياپقۇچ",
+                    "كۆز پەردىسى"
+                ],
+                "Kazakh": [
+                    "көз таңғыш",
+                    "көз байлағыш",
+                    "көзқап"
+                ],
+                "Kyrgyz": [
+                    "көз таңгыч",
+                    "көз жапкыч",
+                    "көз байлагыч"
+                ],
+                "Karakalpak": [
+                    "kóz tańǵıshı",
+                    "kóz japqısh"
+                ],
+                "Tatar": [
+                    "күз бәйләвече",
+                    "күз япмасы",
+                    "күз бәйләме"
+                ],
+                "Bashkir": [
+                    "күҙ бәйләме",
+                    "күҙ япмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göz sargısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "göz perdeler"
+                ]
+            }
+        }
+    ]
+}
+```
+

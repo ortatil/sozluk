@@ -1,0 +1,130 @@
+{
+    "id": "i116910",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mealtime",
+    "en_definition": "the hour at which a meal is habitually or customarily eaten",
+    "tr_word": "yemek vakti",
+    "tr_definition": "alışılmış veya geleneksel olarak yemek yenen saat",
+    "ru_word": "время приема пищи",
+    "ru_definition": "час, в который обычно или по традиции принимают пищу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aş vaxtı"
+                ],
+                "Turkmen": [
+                    "aş wagty"
+                ],
+                "Uzbek": [
+                    "osh vaqti"
+                ],
+                "Kazakh": [
+                    "ас уақыты"
+                ],
+                "Kyrgyz": [
+                    "аш маалы"
+                ],
+                "Karakalpak": [
+                    "as oaqtı"
+                ],
+                "Tatar": [
+                    "аш вакыты",
+                    "ашау вакыты"
+                ],
+                "Bashkir": [
+                    "аш ваҡыты",
+                    "ашау ваҡыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tagam wagty"
+                ],
+                "Uzbek": [
+                    "taom vaqti"
+                ],
+                "Uyghur": [
+                    "تاماق ۋاقتى"
+                ],
+                "Kazakh": [
+                    "тамақтану уақыты",
+                    "тамақ мезгілі"
+                ],
+                "Kyrgyz": [
+                    "тамактануу убактысы",
+                    "тамак убактысы",
+                    "тамак маалы"
+                ],
+                "Karakalpak": [
+                    "tamaq oaqtı"
+                ],
+                "Bashkir": [
+                    "тамаҡ ваҡыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yemek vakti",
+                    "yemek saati"
+                ],
+                "Azerbaijani": [
+                    "yemək vaxtı",
+                    "yemək zamanı"
+                ],
+                "Tatar": [
+                    "тамак вакыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sofra vakti"
+                ],
+                "Azerbaijani": [
+                    "süfrə vaxtı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ovqat vaqti"
+                ],
+                "Karakalpak": [
+                    "aoqat oaqtı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nahar wagty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "غىزا ۋاقتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ас мезгілі"
+                ]
+            }
+        }
+    ]
+}

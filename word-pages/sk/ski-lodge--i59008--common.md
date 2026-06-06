@@ -1,0 +1,182 @@
+# Ski lodge
+| Field | Detail |
+|---|---|
+| **ID** | i59008 |
+| **English** | ski lodge |
+| **Type** | noun |
+| **Definition** | a hotel at a ski resort |
+| **Source** | common |
+| **Ortatil** | qunaqhana |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| кунакханә | kunakxanä |
+| **Bashkir** | |
+| ҡунаҡхана | qunaqxana |
+
+```json
+{
+    "id": "i59008",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ski lodge",
+    "en_definition": "a hotel at a ski resort",
+    "tr_word": "kayak merkezi oteli",
+    "tr_definition": "bir kayak merkezinde bulunan konaklama tesisi veya dağ evi",
+    "ru_word": "лыжная база",
+    "ru_definition": "гостиница или база отдыха на горнолыжном курорте",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağ evi",
+                    "dağ oteli"
+                ],
+                "Azerbaijani": [
+                    "dağ oteli",
+                    "dağ evi"
+                ],
+                "Turkmen": [
+                    "dag düşelgesi"
+                ],
+                "Kazakh": [
+                    "тау қонақүйі",
+                    "тау үйі"
+                ],
+                "Karakalpak": [
+                    "tao miymanxanası"
+                ],
+                "Tatar": [
+                    "тау кунакханәсе"
+                ],
+                "Bashkir": [
+                    "тау саңғыһы базаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chang'i maskani",
+                    "chang'i oromgohi",
+                    "chang'ichilar uyi"
+                ],
+                "Kazakh": [
+                    "шаңғы базасы"
+                ],
+                "Tatar": [
+                    "чаңгычылар йорты"
+                ],
+                "Bashkir": [
+                    "саңғысылар йорто"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "конок үйү"
+                ],
+                "Karakalpak": [
+                    "qonaq jay"
+                ],
+                "Tatar": [
+                    "кунакханә"
+                ],
+                "Bashkir": [
+                    "ҡунаҡхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "жайлоо үйү"
+                ],
+                "Tatar": [
+                    "ял йорты"
+                ],
+                "Bashkir": [
+                    "ял йорто"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dag myhmanhanasy"
+                ],
+                "Uzbek": [
+                    "tog' mehmonxonasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "демалыс үйі"
+                ],
+                "Karakalpak": [
+                    "dem alıs úyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayak evi",
+                    "kayak oteli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xizək mərkəzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istirahət mərkəzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dynç alyş öýi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قار تېيىلىش مېھمانخانىسى",
+                    "قار تېيىلىش ئارامگاھى",
+                    "قارلىق تاغ مېھمانخانىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоо мейманканасы"
+                ]
+            }
+        }
+    ]
+}
+```
+

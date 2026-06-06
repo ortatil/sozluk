@@ -1,0 +1,79 @@
+{
+    "id": "i58751",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shaving cream",
+    "en_definition": "toiletry consisting of a preparation of soap and fatty acids that forms a rich lather for softening the beard before shaving",
+    "tr_word": "tıraş köpüğü",
+    "tr_definition": "Tıraş öncesinde sakalları yumuşatmak için kullanılan, sabun ve yağ asitlerinden oluşan köpüklü kozmetik ürün.",
+    "ru_word": "крем для бритья",
+    "ru_definition": "Косметическое средство, состоящее из мыла и жирных кислот, образующее густую пену для смягчения бороды перед бритьем.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sakgal köpürjigi",
+                    "sakgal sabyny"
+                ],
+                "Uzbek": [
+                    "soqol ko'pigi",
+                    "soqol sovuni"
+                ],
+                "Uyghur": [
+                    "ساقال كۆپۈكى",
+                    "ساقال ئېلىش كۆپۈكى",
+                    "ساقال ئېلىش مەلھىمى"
+                ],
+                "Kyrgyz": [
+                    "сакал алуучу көбүк",
+                    "сакал алуучу май"
+                ],
+                "Karakalpak": [
+                    "saqal alıo kóbigi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қырынуға арналған көбік",
+                    "қырыну көбігі",
+                    "қырыну сабыны"
+                ],
+                "Karakalpak": [
+                    "qırınıo kóbigi"
+                ],
+                "Tatar": [
+                    "кырыну күбеге",
+                    "кырыну сабыны"
+                ],
+                "Bashkir": [
+                    "ҡырыныу күбеге",
+                    "ҡырыныу һабыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tıraş kremi",
+                    "tıraş sabunu",
+                    "tıraş köpüğü"
+                ],
+                "Azerbaijani": [
+                    "taraş kremi",
+                    "taraş köpüyü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzqırxma kremi"
+                ]
+            }
+        }
+    ]
+}

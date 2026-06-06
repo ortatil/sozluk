@@ -1,0 +1,130 @@
+# L-plate
+| Field | Detail |
+|---|---|
+| **ID** | i55854 |
+| **English** | l-plate |
+| **Type** | noun |
+| **Definition** | a square plate bearing the letter L that is attached to both ends of a car to indicate that the driver is a learner |
+| **Source** | common |
+| **Ortatil** | üyrenioşü |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i55854",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "l-plate",
+    "en_definition": "a square plate bearing the letter L that is attached to both ends of a car to indicate that the driver is a learner",
+    "tr_word": "öğrenci sürücü levhası",
+    "tr_definition": "Bir sürücünün acemi olduğunu belirtmek için aracın önüne ve arkasına takılan, üzerinde L harfi bulunan kare levha.",
+    "ru_word": "знак «Ученик»",
+    "ru_definition": "Квадратная табличка с буквой «У» (в англоязычных странах — L), прикрепляемая к передней и задней частям автомобиля для обозначения того, что за рулем находится ученик.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öğrenci sürücü işareti"
+                ],
+                "Azerbaijani": [
+                    "öyrənən sürücü nişanı"
+                ],
+                "Turkmen": [
+                    "öwreniji belgisi"
+                ],
+                "Kazakh": [
+                    "үйренуші белгісі"
+                ],
+                "Kyrgyz": [
+                    "үйрөнчүк белгиси"
+                ],
+                "Karakalpak": [
+                    "úyrenioshi belgisi",
+                    "úyrenioshi"
+                ],
+                "Tatar": [
+                    "өйрәнү билгесе"
+                ],
+                "Bashkir": [
+                    "өйрәнеү билдәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okuw belgisi"
+                ],
+                "Uzbek": [
+                    "oʻquv belgisi"
+                ],
+                "Kazakh": [
+                    "оқу белгісі"
+                ],
+                "Kyrgyz": [
+                    "окуу белгиси"
+                ],
+                "Tatar": [
+                    "уку билгесе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sürücü adayı levhası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eğitim aracı levhası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təlim nişanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻrganuvchi haydovchi belgisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆگەنگۈچى بەلگىسى",
+                    "ئۆگىنىش بەلگىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مەشقتىكى شوپۇر بەلگىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "таныу билдәһе"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,128 @@
+{
+    "id": "i100679",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "yam",
+    "en_definition": "edible tuber of any of several yams",
+    "tr_word": "yer elması",
+    "tr_definition": "bazı sarmaşık türlerinin yenebilen nişastalı yumru kökü",
+    "ru_word": "ямс",
+    "ru_definition": "съедобный клубень любого из нескольких видов растений рода Диоскорея",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tatlı patates"
+                ],
+                "Uyghur": [
+                    "تاتلىق يېڭىچە",
+                    "تاتلىق بەرەڭگە"
+                ],
+                "Kazakh": [
+                    "тәтті картоп"
+                ],
+                "Kyrgyz": [
+                    "таттуу картошка"
+                ],
+                "Tatar": [
+                    "татлы бәрәңге"
+                ],
+                "Bashkir": [
+                    "татлы картуф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yams"
+                ],
+                "Turkmen": [
+                    "ýams"
+                ],
+                "Kazakh": [
+                    "ямс"
+                ],
+                "Kyrgyz": [
+                    "жам"
+                ],
+                "Tatar": [
+                    "ямс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tugunak"
+                ],
+                "Kazakh": [
+                    "түйнек"
+                ],
+                "Karakalpak": [
+                    "túynek",
+                    "túynek-jemis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yer elması",
+                    "hint yer elması"
+                ],
+                "Azerbaijani": [
+                    "yer alması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şirin kartof"
+                ],
+                "Uzbek": [
+                    "shirin kartoshka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýji kartoşka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "batat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شېكەر بەرەڭگە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәрәңге үләне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ер емеше"
+                ]
+            }
+        }
+    ]
+}

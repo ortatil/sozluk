@@ -1,0 +1,194 @@
+# Black-eyed pea
+| Field | Detail |
+|---|---|
+| **ID** | i102995 |
+| **English** | black-eyed pea |
+| **Type** | noun |
+| **Definition** | fruit or seed of the cowpea plant |
+| **Source** | common |
+| **Ortatil** | lobiya |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **lobiya** | **börülçä** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.67 |
+| *Qarluq Subtotal* | 0 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.20 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* | ✅ | ✅ |
+| **O'TQ** | **1.77** | **1.37** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| лобия | lobiya |
+| **Kyrgyz** | |
+| лобия | lobiya |
+| буурчак | buurçak |
+| **Tatar** | |
+| ногыт | nogıt |
+
+```json
+{
+    "id": "i102995",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "black-eyed pea",
+    "en_definition": "fruit or seed of the cowpea plant",
+    "tr_word": "börülce",
+    "tr_definition": "Baklagillerden, taze fasulyeye benzeyen, tohumunun ortası siyah lekeli bir bitki ve bunun sebze olarak kullanılan meyvesi.",
+    "ru_word": "черноглазый горох",
+    "ru_definition": "Разновидность коровьего гороха, семена которого имеют характерное черное пятно.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karnıkara"
+                ],
+                "Azerbaijani": [
+                    "qara gözlü lobya"
+                ],
+                "Kazakh": [
+                    "қара көз бұршақ"
+                ],
+                "Kyrgyz": [
+                    "кара көз буурчак"
+                ],
+                "Tatar": [
+                    "кара күзле ногыт"
+                ],
+                "Bashkir": [
+                    "ҡара күҙле борсаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "lobya"
+                ],
+                "Turkmen": [
+                    "noýba"
+                ],
+                "Kazakh": [
+                    "лобия"
+                ],
+                "Kyrgyz": [
+                    "лобия"
+                ],
+                "Karakalpak": [
+                    "lobıya"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "börülce"
+                ],
+                "Azerbaijani": [
+                    "börülcə"
+                ],
+                "Kyrgyz": [
+                    "буурчак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gözli noýba"
+                ],
+                "Uyghur": [
+                    "كۆز پۇرچاق"
+                ],
+                "Bashkir": [
+                    "күҙле борсаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mosh"
+                ],
+                "Karakalpak": [
+                    "másh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "acebek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ak noýba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oq mosh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lobiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئالا پۇرچاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сиыр бұршақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ногыт борчагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ногыт"
+                ]
+            }
+        }
+    ]
+}
+```
+

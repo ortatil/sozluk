@@ -1,0 +1,124 @@
+{
+    "id": "i31303",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "scuff",
+    "en_definition": "walk without lifting the feet",
+    "tr_word": "ayaklarını sürümek",
+    "tr_definition": "ayakları yerden tam kaldırmadan yürümek",
+    "ru_word": "шаркать",
+    "ru_definition": "идти, не поднимая ног и задевая подошвами пол или землю",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürümek",
+                    "sürünmek"
+                ],
+                "Azerbaijani": [
+                    "sürünmək",
+                    "sürümək",
+                    "sürünə-sürünə yerimək"
+                ],
+                "Turkmen": [
+                    "sürtenmek",
+                    "süýrenmek"
+                ],
+                "Uyghur": [
+                    "سۆرەلمەك"
+                ],
+                "Kazakh": [
+                    "сүйретілу"
+                ],
+                "Kyrgyz": [
+                    "сүйрөнүү"
+                ],
+                "Tatar": [
+                    "сөйрәлү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sudramoq",
+                    "sudralib yurmoq"
+                ],
+                "Kazakh": [
+                    "сүйретіп басу",
+                    "сүйретіп жүру"
+                ],
+                "Kyrgyz": [
+                    "сүйрөп басуу"
+                ],
+                "Karakalpak": [
+                    "súyretіlіp basıu",
+                    "súyretіlіp júrіo",
+                    "súyretіp basıu"
+                ],
+                "Tatar": [
+                    "сөйрәлеп атлау"
+                ],
+                "Bashkir": [
+                    "һөйрәлеп атлау",
+                    "һөйрәлеп йөрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şyrtyldatmak"
+                ],
+                "Uzbek": [
+                    "shirillatmoq",
+                    "shirillatib yurmoq"
+                ],
+                "Kyrgyz": [
+                    "шаркаттоо"
+                ],
+                "Bashkir": [
+                    "шарҡылдатып атлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayak sürümek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۆرەپ ماڭماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇتنى سۆرەپ ماڭماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шалжиңдау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыштырдау"
+                ]
+            }
+        }
+    ]
+}

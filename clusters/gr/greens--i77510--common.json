@@ -1,0 +1,118 @@
+{
+    "id": "i77510",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "greens",
+    "en_definition": "any of various leafy plants or their leaves and stems eaten as vegetables",
+    "tr_word": "yeşillik",
+    "tr_definition": "sebze olarak yenen çeşitli yapraklı bitkiler veya bunların yaprak ve sapları",
+    "ru_word": "зелень",
+    "ru_definition": "различные листовые растения или их листья и стебли, употребляемые в пищу как овощи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "göyərti",
+                    "göy"
+                ],
+                "Turkmen": [
+                    "gök otlar",
+                    "gök-sök",
+                    "gök"
+                ],
+                "Uzbek": [
+                    "ko'kat"
+                ],
+                "Uyghur": [
+                    "كۆكتات",
+                    "كۆك-سوك",
+                    "كۆك"
+                ],
+                "Kazakh": [
+                    "көк",
+                    "көкөніс",
+                    "көк-сөк"
+                ],
+                "Kyrgyz": [
+                    "көк",
+                    "көк-сөк",
+                    "көк чөп"
+                ],
+                "Karakalpak": [
+                    "kók",
+                    "kók-sók",
+                    "kók shóp",
+                    "kókat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeşillik"
+                ],
+                "Kyrgyz": [
+                    "жашылча"
+                ],
+                "Tatar": [
+                    "яшелчә",
+                    "яшел үлән"
+                ],
+                "Bashkir": [
+                    "йәшелсә",
+                    "йәшел үлән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sebze"
+                ],
+                "Uzbek": [
+                    "sabzavot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үлән"
+                ],
+                "Bashkir": [
+                    "үлән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərəvəz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "barg"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шөп-шалам"
+                ]
+            }
+        }
+    ]
+}

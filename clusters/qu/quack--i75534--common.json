@@ -1,0 +1,93 @@
+{
+    "id": "i75534",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "quack",
+    "en_definition": "the harsh sound of a duck",
+    "tr_word": "vakvak",
+    "tr_definition": "ördeğin çıkardığı ses",
+    "ru_word": "кряканье",
+    "ru_definition": "характерный звук, издаваемый уткой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vak",
+                    "vaklama",
+                    "vak vak"
+                ],
+                "Azerbaijani": [
+                    "vaqqıltı",
+                    "vaq-vaq"
+                ],
+                "Turkmen": [
+                    "wak-wak",
+                    "wakyrdy"
+                ],
+                "Uzbek": [
+                    "vaq-vaq"
+                ],
+                "Kazakh": [
+                    "бақыл",
+                    "бақылдау"
+                ],
+                "Kyrgyz": [
+                    "бакылдоо"
+                ],
+                "Karakalpak": [
+                    "paq-paq",
+                    "paqıldas"
+                ],
+                "Tatar": [
+                    "бакыру"
+                ],
+                "Bashkir": [
+                    "баҡылдау",
+                    "баҡылдаған тауыш",
+                    "баҡ-баҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'aq-g'aq"
+                ],
+                "Uyghur": [
+                    "غاق-غاق",
+                    "غاقىلدىغان ئاۋاز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қаңқыл",
+                    "қаңқылдау"
+                ],
+                "Kyrgyz": [
+                    "каңкыл",
+                    "каңкылдоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dauıs"
+                ],
+                "Tatar": [
+                    "тавыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бажылдау"
+                ]
+            }
+        }
+    ]
+}

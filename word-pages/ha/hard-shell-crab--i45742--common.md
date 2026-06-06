@@ -1,0 +1,201 @@
+# Hard-shell crab
+| Field | Detail |
+|---|---|
+| **ID** | i45742 |
+| **English** | hard-shell crab |
+| **Type** | noun |
+| **Definition** | edible crab that has not recently molted and so has a hard shell |
+| **Source** | common |
+| **Ortatil** | qısla |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qısla** | **şayan** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ❌ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.60 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **0.90** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| шаян | şayan |
+| **Kyrgyz** | |
+| шаян | şayan |
+| кыргыяк | kırgıyak |
+| **Tatar** | |
+| кысла | kısla |
+| **Bashkir** | |
+| ҡыҫала | qısala |
+
+```json
+{
+    "id": "i45742",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hard-shell crab",
+    "en_definition": "edible crab that has not recently molted and so has a hard shell",
+    "tr_word": "sert kabuklu yengeç",
+    "tr_definition": "Yakın zamanda kabuk değiştirmemiş ve bu nedenle kabuğu sert olan yenilebilir yengeç.",
+    "ru_word": "краб с твердым панцирем",
+    "ru_definition": "Съедобный краб, который недавно не линял и поэтому имеет твердый панцирь.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz yengeci"
+                ],
+                "Uzbek": [
+                    "dengiz qisqichbaqasi"
+                ],
+                "Uyghur": [
+                    "دېڭىز راكى"
+                ],
+                "Kazakh": [
+                    "теңіз шаяны"
+                ],
+                "Tatar": [
+                    "диңгез кысласы"
+                ],
+                "Bashkir": [
+                    "диңгеҙ ҡыҫалаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qattiq po'choqli qisqichbaqa"
+                ],
+                "Uyghur": [
+                    "قاتتىق شاكاللىق راك"
+                ],
+                "Karakalpak": [
+                    "qattı qabırshaqlı shayan"
+                ],
+                "Tatar": [
+                    "каты кабырчыклы кысла"
+                ],
+                "Bashkir": [
+                    "ҡаты ҡабырсаҡлы ҡыҫала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kabuklu yengeç"
+                ],
+                "Azerbaijani": [
+                    "qabıqlı xərçəng"
+                ],
+                "Uyghur": [
+                    "قاپلىق راك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qisqichbaqa"
+                ],
+                "Tatar": [
+                    "кысла"
+                ],
+                "Bashkir": [
+                    "ҡыҫала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шаян"
+                ],
+                "Kyrgyz": [
+                    "шаян"
+                ],
+                "Karakalpak": [
+                    "shayan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тасбақа шаян"
+                ],
+                "Kyrgyz": [
+                    "таш бака сымал шаян"
+                ],
+                "Karakalpak": [
+                    "tas shayan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sert kabuklu yengeç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bərkqabıqlı xərçəng"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "adi xərçəng"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "leňňeç",
+                    "gaty gabykly leňňeç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "rak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыргыяк"
+                ]
+            }
+        }
+    ]
+}
+```
+

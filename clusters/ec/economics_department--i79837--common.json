@@ -1,0 +1,82 @@
+{
+    "id": "i79837",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "economics department",
+    "en_definition": "the academic department responsible for teaching and research in economics",
+    "tr_word": "iktisat bölümü",
+    "tr_definition": "ekonomi alanında eğitim ve araştırma yapmaktan sorumlu akademik birim",
+    "ru_word": "факультет экономики",
+    "ru_definition": "академическое подразделение, отвечающее за преподавание и исследования в области экономики",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iktisat bölümü",
+                    "ekonomi bölümü"
+                ],
+                "Turkmen": [
+                    "ykdysadyýet bölümi",
+                    "ykdysadyýet kafedrasy",
+                    "ykdysadyýet fakulteti"
+                ],
+                "Uzbek": [
+                    "iqtisodiyot kafedrasi",
+                    "iqtisodiyot bo'limi",
+                    "iqtisodiyot fakulteti"
+                ],
+                "Uyghur": [
+                    "ئىقتىساد فاكۇلتېتى",
+                    "ئىقتىساد بۆلۈمى",
+                    "ئىقتىسادشۇناسلىق فاكۇلتېتى"
+                ],
+                "Tatar": [
+                    "икътисад факультеты",
+                    "икътисад бүлеге",
+                    "икътисад кафедрасы"
+                ],
+                "Bashkir": [
+                    "иҡтисад факультеты",
+                    "иҡтисад кафедрасы",
+                    "иҡтисад бүлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "экономика кафедрасы",
+                    "экономика факультеті",
+                    "экономика бөлімі"
+                ],
+                "Kyrgyz": [
+                    "экономика факультети",
+                    "экономика бөлүмү"
+                ],
+                "Karakalpak": [
+                    "ekonomika fakulteti",
+                    "ekonomika kafedrası",
+                    "ekonomika bólimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iqtisadiyyat kafedrası",
+                    "iqtisadiyyat fakültəsi",
+                    "iqtisadiyyat şöbəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чарба таануу бөлүмү"
+                ]
+            }
+        }
+    ]
+}

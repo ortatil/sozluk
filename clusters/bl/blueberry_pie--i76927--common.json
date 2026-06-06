@@ -1,0 +1,82 @@
+{
+    "id": "i76927",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blueberry pie",
+    "en_definition": "pie containing blueberries and sugar",
+    "tr_word": "yaban mersinli turta",
+    "tr_definition": "yaban mersini ve şeker içeren turta",
+    "ru_word": "черничный пирог",
+    "ru_definition": "пирог с начинкой из черники и сахара",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gökertme pýrogy",
+                    "gökertmeli pýrog"
+                ],
+                "Uzbek": [
+                    "ko'k mevali pirog"
+                ],
+                "Uyghur": [
+                    "كۆك بۆلجۈرگەن پىروگى",
+                    "كۆك بۆلجۈرگەن سامسىسى"
+                ],
+                "Kazakh": [
+                    "көкжидек бәліші",
+                    "көкжидек пирогы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qaragilə piroqu"
+                ],
+                "Karakalpak": [
+                    "qara jidek bálish",
+                    "qara jidek pirogı"
+                ],
+                "Bashkir": [
+                    "ҡарағат бәлеше",
+                    "ҡарағат пирогы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chernika pirogi"
+                ],
+                "Kyrgyz": [
+                    "черника пирогу",
+                    "черника наны"
+                ],
+                "Tatar": [
+                    "черника бәлеше",
+                    "черника пирогы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaban mersinli turta",
+                    "yaban mersinli çörek",
+                    "yaban mersinli pay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mirtilli piroqu",
+                    "mirtilli xəmir işi"
+                ]
+            }
+        }
+    ]
+}

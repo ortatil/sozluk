@@ -1,0 +1,116 @@
+{
+    "id": "i3755",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "home-brewed",
+    "en_definition": "brewed at home",
+    "tr_word": "ev yapımı",
+    "tr_definition": "Evde demlenmiş veya mayalanmış olan",
+    "ru_word": "домашнего приготовления",
+    "ru_definition": "Приготовленный или сваренный в домашних условиях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öýde ýasalan",
+                    "öýde edilen"
+                ],
+                "Uzbek": [
+                    "uyda tayyorlangan",
+                    "uyda pishirilgan"
+                ],
+                "Uyghur": [
+                    "ئۆيدە ئېچىتىلغان",
+                    "ئۆي ياسىمىسى",
+                    "ئۆيدە تەييارلانغان"
+                ],
+                "Kazakh": [
+                    "үйден жасалған",
+                    "үйдікі"
+                ],
+                "Kyrgyz": [
+                    "үйдө жасалган",
+                    "үйдө ачытылган"
+                ],
+                "Karakalpak": [
+                    "úyde jasalǵan",
+                    "úyde ashıtılǵan"
+                ],
+                "Tatar": [
+                    "өйдә ясалган",
+                    "өйнеке"
+                ],
+                "Bashkir": [
+                    "өйҙә эшләнгән",
+                    "өйҙәгесә",
+                    "өйҙә әҙерләнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻlbola"
+                ],
+                "Kazakh": [
+                    "қолдан жасалған",
+                    "қолдың"
+                ],
+                "Kyrgyz": [
+                    "колдо жасалган",
+                    "колдо ачытылган"
+                ],
+                "Karakalpak": [
+                    "qoldan jasalǵan"
+                ],
+                "Tatar": [
+                    "кулдан ясалган"
+                ],
+                "Bashkir": [
+                    "ҡулдан эшләнгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ev yapımı",
+                    "el yapımı"
+                ],
+                "Azerbaijani": [
+                    "evdə hazırlanmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ev işi"
+                ],
+                "Azerbaijani": [
+                    "evdə çəkilmiş",
+                    "ev üsulu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əl işi"
+                ],
+                "Turkmen": [
+                    "el işi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xonaki"
+                ]
+            }
+        }
+    ]
+}

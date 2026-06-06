@@ -1,0 +1,190 @@
+# Telephone
+| Field | Detail |
+|---|---|
+| **ID** | i69469 |
+| **English** | telephone |
+| **Type** | noun |
+| **Definition** | transmitting speech at a distance |
+| **Source** | core |
+| **Ortatil** | telefon |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **telefon** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.40** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تېلېفون | telefon |
+| **Kazakh** | |
+| үнқаты | ünqatı |
+| тілқаты | tilqatı |
+| дауысбергіш | dauısbergiş |
+| **Tatar** | |
+| элемтә | elemtä |
+| **Bashkir** | |
+| телефон | telefon |
+| элемтә | elemtä |
+
+```json
+{
+    "id": "i69469",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "telephone",
+    "en_definition": "transmitting speech at a distance",
+    "tr_word": "telefon",
+    "tr_definition": "konuşmaları uzak mesafelere ileten cihaz",
+    "ru_word": "телефон",
+    "ru_definition": "аппарат для передачи звуков на расстояние",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telefon"
+                ],
+                "Azerbaijani": [
+                    "telefon"
+                ],
+                "Turkmen": [
+                    "telefon"
+                ],
+                "Uzbek": [
+                    "telefon"
+                ],
+                "Uyghur": [
+                    "تېلېفون"
+                ],
+                "Karakalpak": [
+                    "telefon"
+                ],
+                "Bashkir": [
+                    "телефон"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "soʻzlashgich"
+                ],
+                "Uyghur": [
+                    "سۆزلىشىش ئەسۋابى"
+                ],
+                "Karakalpak": [
+                    "sóylesu aspabı"
+                ],
+                "Tatar": [
+                    "сөйләшү җайланмасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үнқаты"
+                ],
+                "Kyrgyz": [
+                    "үн алгы",
+                    "үн алгыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "элемтә"
+                ],
+                "Bashkir": [
+                    "элемтә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "байланыш куралы"
+                ],
+                "Karakalpak": [
+                    "baylanıs qұralı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "aragatnaşyk guraly"
+                ],
+                "Tatar": [
+                    "аралашу коралы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aloqa vositasi"
+                ],
+                "Uyghur": [
+                    "ئالاقە ئۈسكۈنىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "konuşma aygıtı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seslerge"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uzaqdan danışan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тілқаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дауысбергіш"
+                ]
+            }
+        }
+    ]
+}
+```
+

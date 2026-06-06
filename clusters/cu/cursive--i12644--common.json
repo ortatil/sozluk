@@ -1,0 +1,154 @@
+{
+    "id": "i12644",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "cursive",
+    "en_definition": "having successive letter joined together",
+    "tr_word": "bitişik",
+    "tr_definition": "harflerin birbirine bağlanarak yazıldığı yazı stili",
+    "ru_word": "курсивный",
+    "ru_definition": "написанный связным почерком, в котором буквы соединены между собой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bitişik"
+                ],
+                "Azerbaijani": [
+                    "bitişik"
+                ],
+                "Turkmen": [
+                    "bitişik"
+                ],
+                "Karakalpak": [
+                    "birikken"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "el yazısı"
+                ],
+                "Azerbaijani": [
+                    "əlyazma"
+                ],
+                "Turkmen": [
+                    "elýazma"
+                ],
+                "Bashkir": [
+                    "ҡулъяҙма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жазбаша"
+                ],
+                "Kyrgyz": [
+                    "жазма"
+                ],
+                "Karakalpak": [
+                    "jazba",
+                    "jazbasha"
+                ],
+                "Tatar": [
+                    "язма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kurzif"
+                ],
+                "Azerbaijani": [
+                    "kursiv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaltýazma"
+                ],
+                "Tatar": [
+                    "кулъязма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bogʻlangan"
+                ],
+                "Tatar": [
+                    "бәйләнешле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shikasta"
+                ],
+                "Uyghur": [
+                    "شىكەستە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېز يېزىق"
+                ],
+                "Bashkir": [
+                    "ташлыҡ",
+                    "ташлыҡлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇتاش يېزىق"
+                ],
+                "Kyrgyz": [
+                    "туташ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yotiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлбеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үзіліссіз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кошмо"
+                ]
+            }
+        }
+    ]
+}

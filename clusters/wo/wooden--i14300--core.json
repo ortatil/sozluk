@@ -1,0 +1,127 @@
+{
+    "id": "i14300",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "wooden",
+    "en_definition": "made or consisting of (entirely or in part) or employing wood",
+    "tr_word": "ahşap",
+    "tr_definition": "tamamen veya kısmen odundan yapılmış veya odun içeren",
+    "ru_word": "деревянный",
+    "ru_definition": "сделанный или состоящий (полностью или частично) из дерева",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "agaç"
+                ],
+                "Uyghur": [
+                    "ياغاچ"
+                ],
+                "Kazakh": [
+                    "ағаш"
+                ],
+                "Kyrgyz": [
+                    "жыгач"
+                ],
+                "Karakalpak": [
+                    "aǵash"
+                ],
+                "Tatar": [
+                    "агач"
+                ],
+                "Bashkir": [
+                    "ағас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "agaçdan ýasalan"
+                ],
+                "Uzbek": [
+                    "yogʻochdan yasalgan"
+                ],
+                "Uyghur": [
+                    "ياغاچتىن ياسالغان"
+                ],
+                "Kazakh": [
+                    "ағаштан жасалған"
+                ],
+                "Kyrgyz": [
+                    "жыгачтан жасалган"
+                ],
+                "Tatar": [
+                    "агачтан ясалган"
+                ],
+                "Bashkir": [
+                    "ағастан яһалған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahta"
+                ],
+                "Azerbaijani": [
+                    "taxta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "agaçly"
+                ],
+                "Uzbek": [
+                    "yogʻochli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ahşap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "odun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çubuq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياغاچلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "choʻpli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aǵashtan islengen"
+                ]
+            }
+        }
+    ]
+}

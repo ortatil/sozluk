@@ -1,0 +1,91 @@
+{
+    "id": "i66827",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "language barrier",
+    "en_definition": "barrier to communication resulting from speaking different languages",
+    "tr_word": "dil engeli",
+    "tr_definition": "farklı dillerin konuşulmasından kaynaklanan iletişim engeli",
+    "ru_word": "языковой барьер",
+    "ru_definition": "препятствие в общении, возникающее из-за использования разных языков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dil engeli",
+                    "dil bariyeri",
+                    "dil güçlüğü"
+                ],
+                "Azerbaijani": [
+                    "dil səddi",
+                    "dil maneəsi"
+                ],
+                "Turkmen": [
+                    "dil bökdençi",
+                    "dil böwedi"
+                ],
+                "Uzbek": [
+                    "til to'sig'i",
+                    "til g'ovi",
+                    "til moneligi"
+                ],
+                "Uyghur": [
+                    "تىل توسالغۇسى",
+                    "تىل بوشلۇقى"
+                ],
+                "Kazakh": [
+                    "тілдік кедергі",
+                    "тілдік бөгет",
+                    "тілдік тосқауыл"
+                ],
+                "Kyrgyz": [
+                    "тилдик тоскоолдук",
+                    "тил билбестик"
+                ],
+                "Karakalpak": [
+                    "til tosqını",
+                    "til bógetleri",
+                    "til kedergisi"
+                ],
+                "Tatar": [
+                    "тел киртәсе",
+                    "тел тоткарлыгы",
+                    "тел барьеры"
+                ],
+                "Bashkir": [
+                    "тел кәртәһе",
+                    "тел тотҡары",
+                    "тел барьеры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dil çətinliyi"
+                ],
+                "Uyghur": [
+                    "تىل قىيىنچىلىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dil päsgelçiligi"
+                ],
+                "Kyrgyz": [
+                    "тил тоскоолдугу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lisan engeli"
+                ]
+            }
+        }
+    ]
+}

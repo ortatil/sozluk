@@ -1,0 +1,198 @@
+{
+    "id": "i82512",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "township",
+    "en_definition": "an administrative division of a county",
+    "tr_word": "ilçe",
+    "tr_definition": "bir ilin yönetim bakımından ayrılmış olduğu bölümlerden her biri",
+    "ru_word": "тауншип",
+    "ru_definition": "административно-территориальная единица в некоторых странах, входящая в состав округа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nahiye"
+                ],
+                "Azerbaijani": [
+                    "nahiya"
+                ],
+                "Turkmen": [
+                    "nahiye"
+                ],
+                "Uzbek": [
+                    "nohiya"
+                ],
+                "Uyghur": [
+                    "ناھىيە"
+                ],
+                "Karakalpak": [
+                    "nohiya"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okrug"
+                ],
+                "Karakalpak": [
+                    "okrug"
+                ],
+                "Tatar": [
+                    "округ"
+                ],
+                "Bashkir": [
+                    "округ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "يېزا"
+                ],
+                "Kazakh": [
+                    "аймақ"
+                ],
+                "Kyrgyz": [
+                    "айыл аймагы",
+                    "айылдык округ"
+                ],
+                "Karakalpak": [
+                    "aymaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tuman"
+                ],
+                "Tatar": [
+                    "төбәк"
+                ],
+                "Bashkir": [
+                    "төбәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "болыс"
+                ],
+                "Kyrgyz": [
+                    "болуш"
+                ],
+                "Karakalpak": [
+                    "bólim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ilçe"
+                ],
+                "Kazakh": [
+                    "өлке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaza"
+                ],
+                "Azerbaijani": [
+                    "qəsəbə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mahal"
+                ],
+                "Tatar": [
+                    "мәхәллә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kent"
+                ],
+                "Uyghur": [
+                    "كەنت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аудан"
+                ],
+                "Kyrgyz": [
+                    "оодан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bucak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "inzibati vahid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "etrap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mavze"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җирлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "вулыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "район"
+                ]
+            }
+        }
+    ]
+}

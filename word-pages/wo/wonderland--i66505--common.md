@@ -1,0 +1,219 @@
+# Wonderland
+| Field | Detail |
+|---|---|
+| **ID** | i66505 |
+| **English** | wonderland |
+| **Type** | noun |
+| **Definition** | an imaginary realm of marvels or wonders |
+| **Source** | common |
+| **Ortatil** | äcäyıpstan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| гаҗәепстан | gajäyepstan |
+
+```json
+{
+    "id": "i66505",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wonderland",
+    "en_definition": "an imaginary realm of marvels or wonders",
+    "tr_word": "harikalar diyarı",
+    "tr_definition": "mucizelerin veya harikaların bulunduğu hayali bir yer",
+    "ru_word": "страна чудес",
+    "ru_definition": "воображаемое место, полное чудес и необычайных явлений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "acayip yer"
+                ],
+                "Turkmen": [
+                    "ajaýyp dünýä"
+                ],
+                "Uzbek": [
+                    "ajoyibotlar olami"
+                ],
+                "Uyghur": [
+                    "ئاجايىباتلار دۇنياسى"
+                ],
+                "Kazakh": [
+                    "ғажайыптар елі",
+                    "ғажайып мекен"
+                ],
+                "Kyrgyz": [
+                    "ажайып өлкө"
+                ],
+                "Karakalpak": [
+                    "ǵajayıplar eli",
+                    "ájayıpstan"
+                ],
+                "Tatar": [
+                    "гаҗәепстан"
+                ],
+                "Bashkir": [
+                    "ғажайыптар донъяһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "möcüzələr diyarı",
+                    "möcüzələr ölkəsi"
+                ],
+                "Uzbek": [
+                    "moʻjizalar diyori"
+                ],
+                "Uyghur": [
+                    "مۆجىزاتلار دۇنياسى"
+                ],
+                "Bashkir": [
+                    "мөғжизәләр донъяһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sehrli aləm"
+                ],
+                "Uzbek": [
+                    "sehrli oʻlka"
+                ],
+                "Uyghur": [
+                    "سېھرىي ماكان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tılsımlı ülke"
+                ],
+                "Tatar": [
+                    "тылсымлы дөнья"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əfsanəvi aləm"
+                ],
+                "Uzbek": [
+                    "afsonaviy makon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ertekiler dünýäsi"
+                ],
+                "Kazakh": [
+                    "ертегілер әлемі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "әкияти ил"
+                ],
+                "Bashkir": [
+                    "әкиәт донъяһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "harikalar diyarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "masal dünyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täsinlikler dünýäsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jadyly dünýä"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۈزەل ماكان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қиял әлемі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кереметтер дүйнөсү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жомок дүйнөсү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сыйкырдуу дүйнө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tańlanarlı dúnya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хикмәтле дөнья"
+                ]
+            }
+        }
+    ]
+}
+```
+

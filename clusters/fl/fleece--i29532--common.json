@@ -1,0 +1,115 @@
+{
+    "id": "i29532",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "fleece",
+    "en_definition": "shear the wool from",
+    "tr_word": "kırkmak",
+    "tr_definition": "Bir hayvanın tüylerini veya yününü kesmek",
+    "ru_word": "стричь",
+    "ru_definition": "срезать шерсть с животного",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kırkmak",
+                    "kırpmak"
+                ],
+                "Azerbaijani": [
+                    "qırxmaq"
+                ],
+                "Turkmen": [
+                    "gyrkmak"
+                ],
+                "Uzbek": [
+                    "qirqmoq"
+                ],
+                "Uyghur": [
+                    "قىرقىماق"
+                ],
+                "Kazakh": [
+                    "қырқу"
+                ],
+                "Kyrgyz": [
+                    "кырк",
+                    "кыркып ал"
+                ],
+                "Karakalpak": [
+                    "qırqıu"
+                ],
+                "Tatar": [
+                    "кыркырга",
+                    "кырырга"
+                ],
+                "Bashkir": [
+                    "ҡырҡыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yününü kesmek"
+                ],
+                "Azerbaijani": [
+                    "yununu qırxmaq"
+                ],
+                "Turkmen": [
+                    "ýüňüni gyrkmak"
+                ],
+                "Uzbek": [
+                    "yungini qirqmoq",
+                    "junini olmoq"
+                ],
+                "Uyghur": [
+                    "يۇڭىنى قىرقىماق",
+                    "يۇڭىنى ئالماق"
+                ],
+                "Kazakh": [
+                    "жүндеу"
+                ],
+                "Kyrgyz": [
+                    "жүнүн ал"
+                ],
+                "Karakalpak": [
+                    "júnleu"
+                ],
+                "Tatar": [
+                    "йонын алырга"
+                ],
+                "Bashkir": [
+                    "йөн ҡырҡыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tüklərini kəsmək"
+                ],
+                "Turkmen": [
+                    "tüýüni gyrkmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күзеу"
+                ],
+                "Karakalpak": [
+                    "túleu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "алыу"
+                ]
+            }
+        }
+    ]
+}

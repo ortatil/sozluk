@@ -1,0 +1,179 @@
+# Supermodel
+| Field | Detail |
+|---|---|
+| **ID** | i93445 |
+| **English** | supermodel |
+| **Type** | noun |
+| **Definition** | a fashion model who has attained the status of a celebrity |
+| **Source** | common |
+| **Ortatil** | başmanken |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| йолдыз-модель | yoldız-model |
+
+```json
+{
+    "id": "i93445",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "supermodel",
+    "en_definition": "a fashion model who has attained the status of a celebrity",
+    "tr_word": "süpermodel",
+    "tr_definition": "ünlü statüsüne ulaşmış, dünya çapında tanınan moda mankeni",
+    "ru_word": "супермодель",
+    "ru_definition": "манекенщица или фотомодель, достигшая высшего профессионального уровня и мировой известности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tanınmış model"
+                ],
+                "Turkmen": [
+                    "tanymal model"
+                ],
+                "Uzbek": [
+                    "taniqli model"
+                ],
+                "Uyghur": [
+                    "داڭلىق مودېل"
+                ],
+                "Kazakh": [
+                    "танымал сәнбике"
+                ],
+                "Karakalpak": [
+                    "tanımal model"
+                ],
+                "Tatar": [
+                    "танылган модель"
+                ],
+                "Bashkir": [
+                    "танылған модел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məşhur model"
+                ],
+                "Turkmen": [
+                    "meşhur model"
+                ],
+                "Uzbek": [
+                    "mashhur model"
+                ],
+                "Uyghur": [
+                    "مەشھۇر مودېل"
+                ],
+                "Karakalpak": [
+                    "máshһúr model"
+                ],
+                "Tatar": [
+                    "мәшһүр модель"
+                ],
+                "Bashkir": [
+                    "мәшһүр модел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "belent mertebeli model"
+                ],
+                "Kyrgyz": [
+                    "белгилүү модель"
+                ],
+                "Karakalpak": [
+                    "belgіlі model"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yıldız manken"
+                ],
+                "Tatar": [
+                    "йолдыз-модель"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "başmanken",
+                    "başmodel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ünlü manken"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ulduz model"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "namunali go'zal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئالدىنقى قاتاردىكى مودېل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әйгілі сәнбике"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сән жұлдызы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "атактуу модель"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жогорку даражалуу модель"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,103 @@
+# Trillionth
+| Field | Detail |
+|---|---|
+| **ID** | i12227 |
+| **English** | trillionth |
+| **Type** | adjective |
+| **Definition** | the ordinal number of one trillion in counting order |
+| **Source** | common |
+| **Ortatil** | trillion |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **trillion** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تىرىليونىنچى | tirilyoninçi |
+| **Kazakh** | |
+| триллионыншы | trillionınşı |
+| **Kyrgyz** | |
+| триллионунчу | trillionunçu |
+| **Tatar** | |
+| триллионынчы | trillionınçı |
+| **Bashkir** | |
+| триллионынсы | trillionınsı |
+
+```json
+{
+    "id": "i12227",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "trillionth",
+    "en_definition": "the ordinal number of one trillion in counting order",
+    "tr_word": "trilyonuncu",
+    "tr_definition": "Sıralamada trilyon sayısına karşılık gelen",
+    "ru_word": "триллионный",
+    "ru_definition": "Порядковое числительное, соответствующее числу триллион",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "trilyonuncu"
+                ],
+                "Azerbaijani": [
+                    "trilyonuncu"
+                ],
+                "Turkmen": [
+                    "trillionynjy"
+                ],
+                "Uzbek": [
+                    "trillioninchi",
+                    "trillionlamchi"
+                ],
+                "Uyghur": [
+                    "تىرىليونىنچى"
+                ],
+                "Kazakh": [
+                    "триллионыншы"
+                ],
+                "Kyrgyz": [
+                    "триллионунчу"
+                ],
+                "Karakalpak": [
+                    "trillionınshı"
+                ],
+                "Tatar": [
+                    "триллионынчы"
+                ],
+                "Bashkir": [
+                    "триллионынсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىر تىرىليونىنچى"
+                ]
+            }
+        }
+    ]
+}
+```
+

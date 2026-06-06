@@ -1,0 +1,277 @@
+# Modification
+| Field | Detail |
+|---|---|
+| **ID** | i36457 |
+| **English** | modification |
+| **Type** | noun |
+| **Definition** | the act of making something different (as e.g. the size of a garment) |
+| **Source** | core |
+| **Ortatil** | ḍüzätiş |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍüzätiş** | **özgärt** | **uyğunlaştırma** |
+|---|---|---|---|
+| Turkish | ✅ | ❌ | ✅ |
+| Azerbaijani | ✅ | ❌ | ✅ |
+| Turkmen | ✅ | ✅ | ✅ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ |
+| Kyrgyz | ✅ | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ | ❌ |
+| Tatar | ✅ | ✅ | ❌ |
+| Bashkir | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.33 | 1 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.20 | 0 |
+| *In All* | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **4** | **2.03** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تۈزىتىش | tüzitiş |
+| ئۆزگەرتىش | özgärtiş |
+| ماسلاشتۇرۇش | maslaşturuş |
+| تەڭشەش | täñşäş |
+| **Kazakh** | |
+| түзету | tüzetu |
+| реттеу | retteu |
+| бейімдеу | beyimdeu |
+| ыңғайлау | ıñğaylau |
+| **Kyrgyz** | |
+| түзөтүү | tüzötüü |
+| оңдоо | oñdoo |
+| ылайыктоо | ılayıktoo |
+| **Tatar** | |
+| төзәтү | tözätü |
+| үзгәртү | üzgärtü |
+| көйләү | köyläü |
+| яраклаштыру | yaraklaştıru |
+| **Bashkir** | |
+| төҙәтеү | tözäteü |
+| көйләү | köyläü |
+| туралау | turalau |
+| яраҡлаштырыу | yaraqlaştırıu |
+
+```json
+{
+    "id": "i36457",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "modification",
+    "en_definition": "the act of making something different (as e.g. the size of a garment)",
+    "tr_word": "değişiklik",
+    "tr_definition": "bir şeyin biçiminde veya yapısında yapılan farklılık, tadilat",
+    "ru_word": "модификация",
+    "ru_definition": "акт внесения изменений в форму или структуру чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düzenleme"
+                ],
+                "Azerbaijani": [
+                    "düzəliş"
+                ],
+                "Turkmen": [
+                    "düzetme"
+                ],
+                "Uzbek": [
+                    "tuzatish"
+                ],
+                "Uyghur": [
+                    "تۈزىتىش"
+                ],
+                "Kazakh": [
+                    "түзету"
+                ],
+                "Kyrgyz": [
+                    "түзөтүү"
+                ],
+                "Karakalpak": [
+                    "túzetu"
+                ],
+                "Tatar": [
+                    "төзәтү"
+                ],
+                "Bashkir": [
+                    "төҙәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uyarlama"
+                ],
+                "Azerbaijani": [
+                    "uyğunlaşdırma"
+                ],
+                "Turkmen": [
+                    "uýgunlaşdyrma"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "üýtgetme"
+                ],
+                "Uyghur": [
+                    "ئۆزگەرتىش"
+                ],
+                "Tatar": [
+                    "үзгәртү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tanzim"
+                ],
+                "Azerbaijani": [
+                    "tənzimləmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sazlama"
+                ],
+                "Turkmen": [
+                    "sazlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "moslash",
+                    "moslashtirish"
+                ],
+                "Uyghur": [
+                    "ماسلاشتۇرۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "реттеу"
+                ],
+                "Karakalpak": [
+                    "retleu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейімдеу"
+                ],
+                "Karakalpak": [
+                    "beyimleu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оңдоо"
+                ],
+                "Karakalpak": [
+                    "ońlao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көйләү"
+                ],
+                "Bashkir": [
+                    "көйләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "to'g'rilash"
+                ],
+                "Bashkir": [
+                    "туралау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яраклаштыру"
+                ],
+                "Bashkir": [
+                    "яраҡлаштырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayarlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tadilat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muvofiqlashtirish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەڭشەش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ыңғайлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ылайыктоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жөнгө салуу"
+                ]
+            }
+        }
+    ]
+}
+```
+

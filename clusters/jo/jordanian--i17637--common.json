@@ -1,0 +1,66 @@
+{
+    "id": "i17637",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "jordanian",
+    "en_definition": "of or relating to or characteristic of Jordan or its people",
+    "tr_word": "Ürdünlü",
+    "tr_definition": "Ürdün ile ilgili veya Ürdün halkına özgü olan",
+    "ru_word": "иорданский",
+    "ru_definition": "относящийся к Иордании или её народу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Ürdünlü",
+                    "Ürdün"
+                ],
+                "Turkmen": [
+                    "iordan"
+                ],
+                "Uzbek": [
+                    "iordaniyalik",
+                    "iordan"
+                ],
+                "Kazakh": [
+                    "иорданиялық",
+                    "иордандық"
+                ],
+                "Kyrgyz": [
+                    "иорданиялык",
+                    "иордандык"
+                ],
+                "Karakalpak": [
+                    "iordaniyalı",
+                    "iordaniyalıq"
+                ],
+                "Tatar": [
+                    "Иордания",
+                    "Иорданияле"
+                ],
+                "Bashkir": [
+                    "Иордания",
+                    "Иорданияныҡы",
+                    "Иорданиялы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "İordaniyalı",
+                    "İordaniya"
+                ],
+                "Turkmen": [
+                    "iordaniýaly"
+                ],
+                "Uyghur": [
+                    "ئىيوردانىيەلىك",
+                    "ئىيوردانىيەگە ئائىت"
+                ]
+            }
+        }
+    ]
+}

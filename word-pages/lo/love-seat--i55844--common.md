@@ -1,0 +1,146 @@
+# Love seat
+| Field | Detail |
+|---|---|
+| **ID** | i55844 |
+| **English** | love seat |
+| **Type** | noun |
+| **Definition** | small sofa that seats two people |
+| **Source** | common |
+| **Ortatil** | nimdiwän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| диванчык | divançık |
+
+```json
+{
+    "id": "i55844",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "love seat",
+    "en_definition": "small sofa that seats two people",
+    "tr_word": "ikili koltuk",
+    "tr_definition": "iki kişinin oturabileceği büyüklükte küçük kanepe",
+    "ru_word": "двухместный диван",
+    "ru_definition": "небольшой диван, рассчитанный на двух человек",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ikinefərlik divan"
+                ],
+                "Turkmen": [
+                    "iki adamlyk diwan"
+                ],
+                "Uzbek": [
+                    "ikki kishilik oʻrindiq"
+                ],
+                "Uyghur": [
+                    "ئىككى كىشىلىك دىۋان"
+                ],
+                "Kyrgyz": [
+                    "эки кишилик диван"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kiçik divan"
+                ],
+                "Turkmen": [
+                    "kiçi diwan"
+                ],
+                "Uzbek": [
+                    "kichik divan"
+                ],
+                "Uyghur": [
+                    "كىچىك دىۋان"
+                ],
+                "Kyrgyz": [
+                    "кичи диван"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ikili koltuk",
+                    "ikili kanepe"
+                ],
+                "Kazakh": [
+                    "екі кісілік диван"
+                ],
+                "Tatar": [
+                    "ике кешелек диван"
+                ],
+                "Bashkir": [
+                    "ике кешелек диван"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "diwan"
+                ],
+                "Tatar": [
+                    "диванчык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nimdivan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қос орындық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шағын диван"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "orındıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sóre"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәй диван"
+                ]
+            }
+        }
+    ]
+}
+```
+

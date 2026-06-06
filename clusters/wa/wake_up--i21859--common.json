@@ -1,0 +1,124 @@
+{
+    "id": "i21859",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "awaken",
+    "en_definition": "stop sleeping",
+    "tr_word": "uyanmak",
+    "tr_definition": "uykudan çıkmak, uyku halinden kurtulmak",
+    "ru_word": "просыпаться",
+    "ru_definition": "переставать спать, выходить из состояния сна",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uyanmak",
+                    "ayılmak"
+                ],
+                "Azerbaijani": [
+                    "oyanmaq",
+                    "ayılmaq"
+                ],
+                "Turkmen": [
+                    "oýanmak"
+                ],
+                "Uzbek": [
+                    "uyg'onmoq"
+                ],
+                "Uyghur": [
+                    "ئويغانماق"
+                ],
+                "Kazakh": [
+                    "ояну"
+                ],
+                "Kyrgyz": [
+                    "ойгонуу"
+                ],
+                "Karakalpak": [
+                    "oyanıo",
+                    "uyqıdan turıo"
+                ],
+                "Tatar": [
+                    "уяну",
+                    "уянып китү"
+                ],
+                "Bashkir": [
+                    "уяныу",
+                    "уянып китеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "turmak"
+                ],
+                "Uzbek": [
+                    "turmoq"
+                ],
+                "Uyghur": [
+                    "تۇتماق"
+                ],
+                "Kazakh": [
+                    "тұру"
+                ],
+                "Kyrgyz": [
+                    "туруу"
+                ],
+                "Karakalpak": [
+                    "turmaq"
+                ],
+                "Bashkir": [
+                    "торғоҙолоу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قوزغالماق"
+                ],
+                "Kazakh": [
+                    "көз ашу"
+                ],
+                "Tatar": [
+                    "күз ачу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yuxudan durmaq"
+                ],
+                "Turkmen": [
+                    "ukudan galmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kalkmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bedor bo'lmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ойгоо болуу"
+                ]
+            }
+        }
+    ]
+}

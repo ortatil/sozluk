@@ -1,0 +1,216 @@
+# Buddy system
+| Field | Detail |
+|---|---|
+| **ID** | i37455 |
+| **English** | buddy system |
+| **Type** | noun |
+| **Definition** | a cooperative practice of pairing two or more people together for mutual assistance or safety (especially in recreational swimming) |
+| **Source** | common |
+| **Ortatil** | qoşalaşma |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| жупташуу | juptaşuu |
+| коштоо | koştoo |
+| шериктештик | şerikteştik |
+
+```json
+{
+    "id": "i37455",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "buddy system",
+    "en_definition": "a cooperative practice of pairing two or more people together for mutual assistance or safety (especially in recreational swimming)",
+    "tr_word": "eşleşme sistemi",
+    "tr_definition": "Karşılıklı yardım veya güvenlik için iki veya daha fazla kişinin eşleştirildiği işbirliği uygulaması.",
+    "ru_word": "система напарников",
+    "ru_definition": "Практика объединения двух или более человек в пары для взаимной помощи или безопасности.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jübütlik düzgüni"
+                ],
+                "Uzbek": [
+                    "juftlik usuli"
+                ],
+                "Uyghur": [
+                    "جۈپلىشىپ ياردەم بېرىش"
+                ],
+                "Kazakh": [
+                    "жұптасу жүйесі"
+                ],
+                "Kyrgyz": [
+                    "жупташуу"
+                ],
+                "Karakalpak": [
+                    "júp bolıp islesio",
+                    "júp bolıp háreket etio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "özara kömekleşmek"
+                ],
+                "Kazakh": [
+                    "өзара көмек жұбы"
+                ],
+                "Karakalpak": [
+                    "ózara járdemlesio"
+                ],
+                "Tatar": [
+                    "үзара ярдәмләшү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yardımlaşma usulü"
+                ],
+                "Uzbek": [
+                    "oʻzaro yordam uslubi"
+                ],
+                "Bashkir": [
+                    "үҙ-ара ярҙамлашыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşalaşma"
+                ],
+                "Kazakh": [
+                    "қос-қостан бөліну"
+                ],
+                "Kyrgyz": [
+                    "коштоо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sheriklik tizimi"
+                ],
+                "Kazakh": [
+                    "серіктестік әдісі"
+                ],
+                "Kyrgyz": [
+                    "шериктештик",
+                    "шерик болуу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بىر-بىرىگە ھەمراھ بولۇش"
+                ],
+                "Karakalpak": [
+                    "bir-birine kóz-qulaq bolıo"
+                ],
+                "Tatar": [
+                    "парлы контроль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ikili sistem"
+                ],
+                "Turkmen": [
+                    "arkalaşyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yoldaşlıq sistemi"
+                ],
+                "Turkmen": [
+                    "ýoldaşlyk ulgamy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hamkorlik tartibi"
+                ],
+                "Uyghur": [
+                    "ھەمراھلىق تۈزۈمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иптәшлек системасы"
+                ],
+                "Bashkir": [
+                    "иптәшлек системаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "парлап йөрү"
+                ],
+                "Bashkir": [
+                    "парлап йөрөү",
+                    "парлы эш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşleşme sistemi",
+                    "eşli çalışma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "can yoldaşlığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarşılıqlı yardım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cütlük sistemi"
+                ]
+            }
+        }
+    ]
+}
+```
+

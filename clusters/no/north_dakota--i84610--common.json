@@ -1,0 +1,75 @@
+{
+    "id": "i84610",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north dakota",
+    "en_definition": "a state of north central United States bordering on Canada",
+    "tr_word": "Kuzey Dakota",
+    "tr_definition": "Amerika Birleşik Devletleri'nin kuzey orta kesiminde, Kanada sınırında yer alan bir eyalet.",
+    "ru_word": "Северная Дакота",
+    "ru_definition": "штат на севере центральной части США, граничащий с Канадой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "Түндүк Дакота"
+                ],
+                "Karakalpak": [
+                    "Túndіk Dakota"
+                ],
+                "Tatar": [
+                    "Төньяк Дакота"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Дакота"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimali Dakota"
+                ],
+                "Uzbek": [
+                    "Shimoliy Dakota"
+                ],
+                "Uyghur": [
+                    "شىمالىي داكوتا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Dakota"
+                ],
+                "Uyghur": [
+                    "شىمالىي داكوتا شتاتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk Dakota"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Солтүстік Дакота"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Arqa Dakota"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+# Garden rake
+| Field | Detail |
+|---|---|
+| **ID** | i54181 |
+| **English** | garden rake |
+| **Type** | noun |
+| **Definition** | a rake used by gardeners |
+| **Source** | common |
+| **Ortatil** | ḍırmıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍırmıq** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.50** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| توسما | tosma |
+| **Kazakh** | |
+| тырма | tırma |
+| **Kyrgyz** | |
+| тырмоок | tırmook |
+| тырмоо | tırmoo |
+| **Tatar** | |
+| тырма | tırma |
+| **Bashkir** | |
+| тырма | tırma |
+
+```json
+{
+    "id": "i54181",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "garden rake",
+    "en_definition": "a rake used by gardeners",
+    "tr_word": "bahçe tırmığı",
+    "tr_definition": "Bahçıvanlar tarafından toprağı düzeltmek veya yaprakları toplamak için kullanılan bir tırmık.",
+    "ru_word": "садовые грабли",
+    "ru_definition": "Грабли, используемые садоводами для обработки почвы или сбора мусора.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tırmık"
+                ],
+                "Azerbaijani": [
+                    "dırmıq"
+                ],
+                "Turkmen": [
+                    "dyrmyk"
+                ],
+                "Uzbek": [
+                    "tirniq",
+                    "tirnama"
+                ],
+                "Kazakh": [
+                    "тырма"
+                ],
+                "Kyrgyz": [
+                    "тырмоок",
+                    "тырмоо"
+                ],
+                "Karakalpak": [
+                    "tırnauısh",
+                    "tırma"
+                ],
+                "Tatar": [
+                    "тырма"
+                ],
+                "Bashkir": [
+                    "тырма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bag dyrmygy"
+                ],
+                "Kazakh": [
+                    "бақша тырмасы"
+                ],
+                "Tatar": [
+                    "бакча тырмасы"
+                ],
+                "Bashkir": [
+                    "баҡса тырмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çatal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el tırmığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çəngəl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "panjara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توسما",
+                    "توسما ئاسپۇ"
+                ]
+            }
+        }
+    ]
+}
+```
+

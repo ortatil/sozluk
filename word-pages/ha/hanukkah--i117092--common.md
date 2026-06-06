@@ -1,0 +1,151 @@
+# Hanukkah
+| Field | Detail |
+|---|---|
+| **ID** | i117092 |
+| **English** | hanukkah |
+| **Type** | noun |
+| **Definition** | (Judaism) an eight-day Jewish holiday commemorating the rededication of the Temple of Jerusalem in 165 BC |
+| **Source** | common |
+| **Ortatil** | hanuka |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **hanuka** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| خانۇكاھ | xanukah |
+| **Kazakh** | |
+| Ханука | xanuka |
+| **Kyrgyz** | |
+| Ханука | xanuka |
+| **Tatar** | |
+| Ханука | xanuka |
+| **Bashkir** | |
+| Ханука | xanuka |
+
+```json
+{
+    "id": "i117092",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hanukkah",
+    "en_definition": "(Judaism) an eight-day Jewish holiday commemorating the rededication of the Temple of Jerusalem in 165 BC",
+    "tr_word": "Hanuka",
+    "tr_definition": "Yahudilerin, Kudüs'teki Tapınağın MÖ 165 yılında yeniden adanmasını kutladıkları sekiz günlük bayram; Işıklar Bayramı.",
+    "ru_word": "Ханука",
+    "ru_definition": "Еврейский праздник, продолжающийся восемь дней в память об освящении Иерусалимского храма в 165 году до н. э.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Hanuka"
+                ],
+                "Azerbaijani": [
+                    "Hanuka"
+                ],
+                "Turkmen": [
+                    "Hanuka"
+                ],
+                "Uzbek": [
+                    "Xanuka"
+                ],
+                "Uyghur": [
+                    "خانۇكاھ"
+                ],
+                "Kazakh": [
+                    "Ханука"
+                ],
+                "Kyrgyz": [
+                    "Ханука"
+                ],
+                "Karakalpak": [
+                    "Xanuka"
+                ],
+                "Tatar": [
+                    "Ханука"
+                ],
+                "Bashkir": [
+                    "Ханука"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "Chiroqlar bayrami"
+                ],
+                "Uyghur": [
+                    "چىراغلار بايرىمى"
+                ],
+                "Kazakh": [
+                    "Шырақтар мерекесі"
+                ],
+                "Kyrgyz": [
+                    "Чырактар майрамы"
+                ],
+                "Karakalpak": [
+                    "Shıraqlar bayramı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Işıklar Bayramı"
+                ],
+                "Azerbaijani": [
+                    "İşıqlar bayramı",
+                    "Yenidən həsr etmə bayramı"
+                ],
+                "Turkmen": [
+                    "Yşyklar baýramy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Yeniden Adanma Bayramı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Яктылык бәйрәме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "Шәмдәлдәр байрамы"
+                ]
+            }
+        }
+    ]
+}
+```
+

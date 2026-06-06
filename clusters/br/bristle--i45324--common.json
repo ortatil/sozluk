@@ -1,0 +1,127 @@
+{
+    "id": "i45324",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bristle",
+    "en_definition": "a stiff hair",
+    "tr_word": "kıl",
+    "tr_definition": "sert ve dik tüy",
+    "ru_word": "щетина",
+    "ru_definition": "жесткий, упругий волос",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıl"
+                ],
+                "Azerbaijani": [
+                    "qıl"
+                ],
+                "Turkmen": [
+                    "gyl"
+                ],
+                "Uzbek": [
+                    "qiltiq"
+                ],
+                "Uyghur": [
+                    "قىل"
+                ],
+                "Kazakh": [
+                    "қыл",
+                    "қылшық"
+                ],
+                "Kyrgyz": [
+                    "кыл"
+                ],
+                "Karakalpak": [
+                    "qıl",
+                    "qılshıq"
+                ],
+                "Tatar": [
+                    "кылкаяк",
+                    "кылка"
+                ],
+                "Bashkir": [
+                    "ҡыл",
+                    "ҡылсыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diken"
+                ],
+                "Azerbaijani": [
+                    "tikan"
+                ],
+                "Turkmen": [
+                    "tiken"
+                ],
+                "Uzbek": [
+                    "tikanak"
+                ],
+                "Kazakh": [
+                    "тікен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tük"
+                ],
+                "Turkmen": [
+                    "tüý"
+                ],
+                "Uyghur": [
+                    "تۈك"
+                ],
+                "Kyrgyz": [
+                    "түк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاتتىق تۈك"
+                ],
+                "Tatar": [
+                    "каты чәч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sert kıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dag'al tuk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыяк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәс"
+                ]
+            }
+        }
+    ]
+}

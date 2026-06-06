@@ -1,0 +1,128 @@
+{
+    "id": "i12526",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "evaporated",
+    "en_definition": "drawn off in the form of vapor",
+    "tr_word": "buharlaşmış",
+    "tr_definition": "buhar haline gelerek uçmuş veya yoğunluğu artırılmış",
+    "ru_word": "испаренный",
+    "ru_definition": "превращенный в пар или сгущенный путем испарения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buharlaşmış"
+                ],
+                "Azerbaijani": [
+                    "buxarlanmış"
+                ],
+                "Turkmen": [
+                    "bugaran",
+                    "bugaryp giden",
+                    "buglaşan"
+                ],
+                "Uzbek": [
+                    "bugʻlangan",
+                    "bugʻga aylangan"
+                ],
+                "Uyghur": [
+                    "بۇغلانغان"
+                ],
+                "Kazakh": [
+                    "буланған"
+                ],
+                "Kyrgyz": [
+                    "бууланган",
+                    "бууга айланган"
+                ],
+                "Karakalpak": [
+                    "bulanǵan"
+                ],
+                "Tatar": [
+                    "буланган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uçmuş"
+                ],
+                "Azerbaijani": [
+                    "uçucu",
+                    "uçmuş"
+                ],
+                "Turkmen": [
+                    "uçan"
+                ],
+                "Uzbek": [
+                    "uchgan"
+                ],
+                "Uyghur": [
+                    "ئۇچقان"
+                ],
+                "Kazakh": [
+                    "ұшқан"
+                ],
+                "Karakalpak": [
+                    "ushqan"
+                ],
+                "Tatar": [
+                    "очкан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پارلانغان"
+                ],
+                "Tatar": [
+                    "парланган"
+                ],
+                "Bashkir": [
+                    "парланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "учуп кеткен"
+                ],
+                "Tatar": [
+                    "очып беткән"
+                ],
+                "Bashkir": [
+                    "осоп бөткән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tebahhur etmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кепкен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡороған"
+                ]
+            }
+        }
+    ]
+}

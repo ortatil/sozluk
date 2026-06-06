@@ -1,0 +1,169 @@
+# Second balcony
+| Field | Detail |
+|---|---|
+| **ID** | i58619 |
+| **English** | second balcony |
+| **Type** | noun |
+| **Definition** | rearmost or uppermost area in the balcony containing the least expensive seats |
+| **Source** | common |
+| **Ortatil** | qalereya |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qalereya** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| галёрка | galyorka |
+
+```json
+{
+    "id": "i58619",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "second balcony",
+    "en_definition": "rearmost or uppermost area in the balcony containing the least expensive seats",
+    "tr_word": "ikinci balkon",
+    "tr_definition": "tiyatro veya sinemada en üstte veya en arkada bulunan, genellikle en ucuz koltukların yer aldığı bölüm",
+    "ru_word": "второй ярус",
+    "ru_definition": "самая верхняя или задняя часть балкона в театре, где расположены самые дешевые места",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýokarky galkyn"
+                ],
+                "Uzbek": [
+                    "yuqori yarus",
+                    "yuqori ayvon"
+                ],
+                "Uyghur": [
+                    "يۇقىرىقى بالكون"
+                ],
+                "Kazakh": [
+                    "жоғарғы қатар",
+                    "жоғарғы балкон"
+                ],
+                "Kyrgyz": [
+                    "жогорку катар"
+                ],
+                "Karakalpak": [
+                    "joqarǵı yarus"
+                ],
+                "Tatar": [
+                    "югары ярус"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üst balkon"
+                ],
+                "Azerbaijani": [
+                    "üst balkon"
+                ],
+                "Uyghur": [
+                    "ئۈستۈنكى بالكون"
+                ],
+                "Kyrgyz": [
+                    "үстүнкү катар"
+                ],
+                "Tatar": [
+                    "өске ярус"
+                ],
+                "Bashkir": [
+                    "өҫкө ярус",
+                    "өҫкө балкон"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "galeri"
+                ],
+                "Azerbaijani": [
+                    "qalereya"
+                ],
+                "Turkmen": [
+                    "galereýa"
+                ],
+                "Karakalpak": [
+                    "galereya"
+                ],
+                "Tatar": [
+                    "галёрка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ikinci balkon"
+                ],
+                "Azerbaijani": [
+                    "ikinci balkon"
+                ],
+                "Kyrgyz": [
+                    "акыркы катар"
+                ],
+                "Bashkir": [
+                    "икенсе ярус"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iň ýokarky gat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bolxonaning yuqori qismi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەڭ ئۈستۈنكى قەۋەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төргі балкон"
+                ]
+            }
+        }
+    ]
+}
+```
+

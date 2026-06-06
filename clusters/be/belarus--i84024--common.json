@@ -1,0 +1,75 @@
+{
+    "id": "i84024",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "belarus",
+    "en_definition": "a landlocked republic in eastern Europe; formerly a European soviet",
+    "tr_word": "Belarus",
+    "tr_definition": "Doğu Avrupa'da denize kıyısı olmayan bir cumhuriyet; eski bir Sovyet cumhuriyeti",
+    "ru_word": "Беларусь",
+    "ru_definition": "не имеющая выхода к морю республика в Восточной Европе; бывшая советская республика",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Beyaz Rusya",
+                    "Belarus"
+                ],
+                "Azerbaijani": [
+                    "Belarus"
+                ],
+                "Turkmen": [
+                    "Belarus"
+                ],
+                "Uzbek": [
+                    "Belarus"
+                ],
+                "Uyghur": [
+                    "بېلارۇسىيە"
+                ],
+                "Kazakh": [
+                    "Беларусь",
+                    "Беларус"
+                ],
+                "Kyrgyz": [
+                    "Беларус",
+                    "Беларусь"
+                ],
+                "Karakalpak": [
+                    "Belarus",
+                    "Belorussiya"
+                ],
+                "Tatar": [
+                    "Беларусь",
+                    "Белоруссия"
+                ],
+                "Bashkir": [
+                    "Беларусь",
+                    "Белоруссия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Ağ Rusiya"
+                ],
+                "Turkmen": [
+                    "Ak Orsýet"
+                ],
+                "Uyghur": [
+                    "ئاق رۇسىيە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "Oq Oʻrda"
+                ]
+            }
+        }
+    ]
+}

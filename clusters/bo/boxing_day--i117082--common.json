@@ -1,0 +1,108 @@
+{
+    "id": "i117082",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "boxing day",
+    "en_definition": "first weekday after Christmas",
+    "tr_word": "Noel ertesi günü",
+    "tr_definition": "Noel'den sonraki ilk iş günü; geleneksel olarak hediyeleşme ve tatil günü.",
+    "ru_word": "День подарков",
+    "ru_definition": "Праздник, отмечаемый в Великобритании и ряде стран Содружества на следующий день после Рождества.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "baýramçylykdan soňky gün"
+                ],
+                "Uzbek": [
+                    "bayramning ikkinchi kuni"
+                ],
+                "Kyrgyz": [
+                    "майрамдан кийинки күн"
+                ],
+                "Karakalpak": [
+                    "bayramnan keyingi kún"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "روژدېستۋودىن كېيىنكى بىرىنچى كۈن"
+                ],
+                "Kazakh": [
+                    "Рождестводан кейінгі күн"
+                ],
+                "Karakalpak": [
+                    "Rojdestwodan keyingi birinshi jumıs kúni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Hediyeleşme günü"
+                ],
+                "Azerbaijani": [
+                    "hədiyyə günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Milad ertəsi"
+                ],
+                "Uzbek": [
+                    "miloddan keyingi kun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sowgat berilýän gün"
+                ],
+                "Uyghur": [
+                    "سوۋغات بېرىش كۈنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Раштуадан соңгы беренче эш көне",
+                    "Раштуадан соңгы көн"
+                ],
+                "Bashkir": [
+                    "Раштыуанан һуңғы беренсе эш көнө",
+                    "Раштыуанан һуңғы көн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Noel ertesi",
+                    "Noel sonrası günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сыйлықтар күні"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "белек берүү күнү"
+                ]
+            }
+        }
+    ]
+}

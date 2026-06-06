@@ -1,0 +1,134 @@
+{
+    "id": "i31727",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "back up",
+    "en_definition": "move backwards from a certain position",
+    "tr_word": "geri gitmek",
+    "tr_definition": "belirli bir konumdan geriye doğru hareket etmek",
+    "ru_word": "отступать",
+    "ru_definition": "двигаться назад от определенной позиции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chekinmoq"
+                ],
+                "Uyghur": [
+                    "چېكىنمەك"
+                ],
+                "Kazakh": [
+                    "шегіну"
+                ],
+                "Kyrgyz": [
+                    "чегинүү"
+                ],
+                "Karakalpak": [
+                    "sheginiu"
+                ],
+                "Tatar": [
+                    "чигенү"
+                ],
+                "Bashkir": [
+                    "сигенергә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ortga tislanmoq",
+                    "ortga qaytmoq"
+                ],
+                "Kyrgyz": [
+                    "артка кетүү",
+                    "артка кайтуу",
+                    "артка жылдыруу"
+                ],
+                "Karakalpak": [
+                    "artqa sheginiu"
+                ],
+                "Tatar": [
+                    "артка чигү",
+                    "артка бару",
+                    "артка кайту"
+                ],
+                "Bashkir": [
+                    "артҡа сигенергә",
+                    "артҡа барырға",
+                    "артҡа күсергә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geri gitmek",
+                    "gerilemek",
+                    "geri çekilmek",
+                    "geri adım atmak"
+                ],
+                "Azerbaijani": [
+                    "geri çəkilmək",
+                    "geriləmək",
+                    "geri getmək"
+                ],
+                "Kazakh": [
+                    "кері шегіну",
+                    "кері жүру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كەينىگە يانماق",
+                    "كەينىگە قايتماق"
+                ],
+                "Kazakh": [
+                    "кейін шегіну",
+                    "кейін жылжу"
+                ],
+                "Karakalpak": [
+                    "keyinleu",
+                    "keyinge qaytıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dala çəkilmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzyna çekilmek",
+                    "yza çekilmek",
+                    "yza süýşmek",
+                    "yza gaýtmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tislanmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئارقىغا يانماق"
+                ]
+            }
+        }
+    ]
+}

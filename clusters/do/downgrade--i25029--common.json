@@ -1,0 +1,205 @@
+{
+    "id": "i25029",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "downgrade",
+    "en_definition": "rate lower; lower in value or esteem",
+    "tr_word": "indirgemek",
+    "tr_definition": "birinin veya bir şeyin değerini, derecesini veya önemini düşürmek",
+    "ru_word": "понижать",
+    "ru_definition": "переводить на более низкую должность или уменьшать ценность, статус или рейтинг",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "değerini düşürmek"
+                ],
+                "Turkmen": [
+                    "derejesini düşürmek"
+                ],
+                "Uzbek": [
+                    "darajasini tushirmoq"
+                ],
+                "Uyghur": [
+                    "دەرىجىسىنى چۈشۈرۈش"
+                ],
+                "Kazakh": [
+                    "дәрежесін түсіру"
+                ],
+                "Kyrgyz": [
+                    "даражасын төмөндөтүү"
+                ],
+                "Karakalpak": [
+                    "dárejesin túsiriu"
+                ],
+                "Tatar": [
+                    "дәрәҗәсен төшерү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kamsitmoq"
+                ],
+                "Uyghur": [
+                    "كېمەيتىش"
+                ],
+                "Kazakh": [
+                    "кеміту"
+                ],
+                "Kyrgyz": [
+                    "кемсинтүү"
+                ],
+                "Karakalpak": [
+                    "kemsitiu"
+                ],
+                "Tatar": [
+                    "кимсетү"
+                ],
+                "Bashkir": [
+                    "кәметеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düşürmek"
+                ],
+                "Uzbek": [
+                    "tushirmoq"
+                ],
+                "Tatar": [
+                    "төшерү"
+                ],
+                "Bashkir": [
+                    "төшөрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tenzil etmek"
+                ],
+                "Azerbaijani": [
+                    "tənzil etmək"
+                ],
+                "Uyghur": [
+                    "تۆۋەنلىتىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "peseltmek"
+                ],
+                "Uzbek": [
+                    "pasaytirmoq",
+                    "pastlatmoq"
+                ],
+                "Kyrgyz": [
+                    "баасын түшүрүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "төмендету"
+                ],
+                "Kyrgyz": [
+                    "төмөндөтүү",
+                    "төмөн түшүрүү"
+                ],
+                "Karakalpak": [
+                    "tómendetu",
+                    "tómen sanau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "indirmek"
+                ],
+                "Azerbaijani": [
+                    "endirilmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "küçültmek"
+                ],
+                "Turkmen": [
+                    "kiçeltmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "alçaltmaq"
+                ],
+                "Turkmen": [
+                    "aşaklatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "түбәнәйтү"
+                ],
+                "Bashkir": [
+                    "түбәнәйтеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qiymətdən salmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "aşağı salmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قەدرىنى چۈشۈرۈش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құлдырату"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хурлау"
+                ]
+            }
+        }
+    ]
+}

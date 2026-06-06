@@ -1,0 +1,94 @@
+# Two-thirds
+| Field | Detail |
+|---|---|
+| **ID** | i109058 |
+| **English** | two-thirds |
+| **Type** | noun |
+| **Definition** | two of three equal parts of a divisible whole |
+| **Source** | common |
+| **Ortatil** | sülüsân |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i109058",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "two-thirds",
+    "en_definition": "two of three equal parts of a divisible whole",
+    "tr_word": "üçte iki",
+    "tr_definition": "Bölünebilir bir bütünün üç eşit parçasından ikisi",
+    "ru_word": "две трети",
+    "ru_definition": "две из трех равных частей делимого целого",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üçte iki"
+                ],
+                "Azerbaijani": [
+                    "üçdə iki"
+                ],
+                "Turkmen": [
+                    "üçden iki",
+                    "üçden iki bölegi"
+                ],
+                "Uzbek": [
+                    "uchdan ikki",
+                    "uchdan ikki qism",
+                    "uchdan ikki bo'lak"
+                ],
+                "Uyghur": [
+                    "ئۈچتىن ئىككى",
+                    "ئۈچتىن ئىككى ھەسسە"
+                ],
+                "Kazakh": [
+                    "үштен екі",
+                    "үштен екі бөлігі"
+                ],
+                "Kyrgyz": [
+                    "үчтөн эки",
+                    "үчтөн эки бөлүгү"
+                ],
+                "Karakalpak": [
+                    "úshten eki",
+                    "úshten eki bólegi"
+                ],
+                "Tatar": [
+                    "өчтән ике",
+                    "өчтән ике өлеш"
+                ],
+                "Bashkir": [
+                    "өстән ике"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sülüsân"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iki sülüs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өс өлөштөң икеһе"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,262 @@
+# Paraphrase
+| Field | Detail |
+|---|---|
+| **ID** | i26405 |
+| **English** | paraphrase |
+| **Type** | verb |
+| **Definition** | express the same message in different words |
+| **Source** | common |
+| **Ortatil** | ḍüsündürmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **täbirlimäk** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەبىرلىمەك | täbirlimäk |
+| شەھەرلىمەك | şähärlimäk |
+| **Kazakh** | |
+| түсіндіру | tüsindiru |
+| баяндау | bayandau |
+| **Kyrgyz** | |
+| чечмелөө | çeçmelöö |
+| **Tatar** | |
+| тәфсилләү | täfsilläü |
+| **Bashkir** | |
+| тәфсирләү | täfsirläü |
+
+```json
+{
+    "id": "i26405",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "paraphrase",
+    "en_definition": "express the same message in different words",
+    "tr_word": "başka sözcüklerle anlatmak",
+    "tr_definition": "aynı mesajı farklı kelimeler kullanarak ifade etmek",
+    "ru_word": "перефразировать",
+    "ru_definition": "выразить то же самое сообщение другими словами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başka kelimelerle anlatmak"
+                ],
+                "Azerbaijani": [
+                    "başqa sözlə demək"
+                ],
+                "Turkmen": [
+                    "başgaça aýtmak"
+                ],
+                "Uzbek": [
+                    "boshqacha ifodalamoq"
+                ],
+                "Uyghur": [
+                    "باشقىچە بايان قىلماق"
+                ],
+                "Kazakh": [
+                    "басқаша айту"
+                ],
+                "Kyrgyz": [
+                    "башкача айтуу",
+                    "башка сөз менен түшүндүрүү"
+                ],
+                "Karakalpak": [
+                    "basqasha aytıo",
+                    "basqa sózler menen jetkerio"
+                ],
+                "Tatar": [
+                    "башкача әйтү"
+                ],
+                "Bashkir": [
+                    "башҡаса әйтеү",
+                    "башҡа һүҙҙәр менән биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tabir etmek"
+                ],
+                "Uzbek": [
+                    "ta'bir qilmoq"
+                ],
+                "Uyghur": [
+                    "تەبىرلىمەك"
+                ],
+                "Tatar": [
+                    "тәфсилләү"
+                ],
+                "Bashkir": [
+                    "тәфсирләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şərh etmək"
+                ],
+                "Turkmen": [
+                    "şerh etmek"
+                ],
+                "Uzbek": [
+                    "sharhlamoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "düşündirmek"
+                ],
+                "Kazakh": [
+                    "түсіндіру"
+                ],
+                "Karakalpak": [
+                    "túsindirip berio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "izah etmek"
+                ],
+                "Azerbaijani": [
+                    "izah etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "beýan etmek"
+                ],
+                "Kazakh": [
+                    "баяндау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мағынасын ашу"
+                ],
+                "Kyrgyz": [
+                    "маанисин ачуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "açıklamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yorumlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yenidən ifadə etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qayta bayon qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شەھەرلىمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆز سۆزى بىلەن ئېيتماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өңдеп айту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чечмелөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mánisin ashıp berio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзгәртеп әйтү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аңлатып бирү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үҙ һүҙҙәрең менән аңлатыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,114 @@
+{
+    "id": "i41306",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "winemaking",
+    "en_definition": "the craft and science of growing grapes and making wine",
+    "tr_word": "şarapçılık",
+    "tr_definition": "üzüm yetiştirme ve şarap yapma sanatı ve bilimi",
+    "ru_word": "виноделие",
+    "ru_definition": "ремесло и наука о выращивании винограда и производстве вина",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şarapçılık"
+                ],
+                "Azerbaijani": [
+                    "şərabçılıq"
+                ],
+                "Turkmen": [
+                    "şerappazlyk",
+                    "şerapçylyk"
+                ],
+                "Uzbek": [
+                    "sharobsozlik"
+                ],
+                "Uyghur": [
+                    "شارابچىلىق",
+                    "شاراب ياساش"
+                ],
+                "Kazakh": [
+                    "шарап жасау",
+                    "шарапшылық"
+                ],
+                "Kyrgyz": [
+                    "шарапчылык",
+                    "шарап жасоо"
+                ],
+                "Karakalpak": [
+                    "shárapshılıq"
+                ],
+                "Tatar": [
+                    "шәрабчылык",
+                    "шәраб ясау"
+                ],
+                "Bashkir": [
+                    "шәрәпселек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyhanecilik"
+                ],
+                "Azerbaijani": [
+                    "meyxanaçılıq"
+                ],
+                "Turkmen": [
+                    "meýçilik"
+                ],
+                "Uzbek": [
+                    "mayxo'rlik",
+                    "maysozlik"
+                ],
+                "Uyghur": [
+                    "مەيچىلىك"
+                ],
+                "Karakalpak": [
+                    "meyxanashılıq"
+                ],
+                "Tatar": [
+                    "мәйчелек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "uzumchilik"
+                ],
+                "Kazakh": [
+                    "жүзім шаруашылығы"
+                ],
+                "Kyrgyz": [
+                    "жүзүмчүлүк"
+                ],
+                "Bashkir": [
+                    "йөҙөмсөлөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağcılık"
+                ],
+                "Azerbaijani": [
+                    "bağbanlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "вино яһау"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+# Brush fire
+| Field | Detail |
+|---|---|
+| **ID** | i75068 |
+| **English** | brush fire |
+| **Type** | noun |
+| **Definition** | an uncontrolled fire that consumes brush and shrubs and bushes |
+| **Source** | common |
+| **Ortatil** | ört |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| өрт | ört |
+
+```json
+{
+    "id": "i75068",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brush fire",
+    "en_definition": "an uncontrolled fire that consumes brush and shrubs and bushes",
+    "tr_word": "çalı yangını",
+    "tr_definition": "çalıları, fundalıkları ve küçük bitki örtüsünü hızla tüketen kontrolsüz yangın",
+    "ru_word": "кустарниковый пожар",
+    "ru_definition": "неконтролируемый огонь, охватывающий кустарники, мелкую поросль и низкорослую растительность",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "دالا ئوت ئاپىتى",
+                    "ياۋا ئوت"
+                ],
+                "Kazakh": [
+                    "дала өрті"
+                ],
+                "Kyrgyz": [
+                    "талаа өртү"
+                ],
+                "Karakalpak": [
+                    "dala órti"
+                ],
+                "Tatar": [
+                    "дала янгыны"
+                ],
+                "Bashkir": [
+                    "дала ятҡыны",
+                    "дала янғыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çalı yangını"
+                ],
+                "Azerbaijani": [
+                    "çöl yanğını"
+                ],
+                "Turkmen": [
+                    "çöl ýangyny"
+                ],
+                "Uzbek": [
+                    "oʻt yongʻini"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyrymsy agaç ýangyny"
+                ],
+                "Kyrgyz": [
+                    "кыр өртү"
+                ],
+                "Tatar": [
+                    "кыр янгыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "butazor yongʻini"
+                ],
+                "Kazakh": [
+                    "бұта өрті"
+                ],
+                "Karakalpak": [
+                    "bұta órti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "örtü yangını"
+                ],
+                "Kazakh": [
+                    "өрт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چاتقاللىق ئوت ئاپىتى"
+                ],
+                "Kyrgyz": [
+                    "бадал өртү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "куаклык янгыны"
+                ],
+                "Bashkir": [
+                    "ҡыуаҡлыҡ ятҡыны",
+                    "ҡыуаҡлыҡ янғыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "maki yangını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bozkır yangını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "koluq yanğını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ot yanğını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ot-çöp ýangyny"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dasht yongʻini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "toǵay órti"
+                ]
+            }
+        }
+    ]
+}
+```
+

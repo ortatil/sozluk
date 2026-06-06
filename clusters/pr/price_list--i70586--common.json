@@ -1,0 +1,110 @@
+{
+    "id": "i70586",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "price list",
+    "en_definition": "a listing of prices for different goods or services",
+    "tr_word": "fiyat listesi",
+    "tr_definition": "farklı mal veya hizmetlerin fiyatlarını gösteren liste",
+    "ru_word": "прейскурант",
+    "ru_definition": "систематический перечень цен на товары или услуги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nırxnamə"
+                ],
+                "Turkmen": [
+                    "nyrhnama"
+                ],
+                "Uzbek": [
+                    "narxnoma",
+                    "narxlar roʻyxati"
+                ],
+                "Kazakh": [
+                    "нарқнама"
+                ],
+                "Kyrgyz": [
+                    "нарк тизмеси"
+                ],
+                "Karakalpak": [
+                    "narxnama"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bahanamasy"
+                ],
+                "Uzbek": [
+                    "bahonoma"
+                ],
+                "Uyghur": [
+                    "باھا تىزىملىكى",
+                    "باھا جەدۋىلى",
+                    "باھانامە"
+                ],
+                "Kazakh": [
+                    "бағатізбе",
+                    "бағанама"
+                ],
+                "Kyrgyz": [
+                    "баа тизмеси",
+                    "баалар тизмеги"
+                ],
+                "Karakalpak": [
+                    "bahalar dizimi",
+                    "bahalar kestesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fiyat listesi",
+                    "fiyat cetveli"
+                ],
+                "Azerbaijani": [
+                    "qiymət siyahısı"
+                ],
+                "Tatar": [
+                    "бәяләр исемлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tarife"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qiymət cədvəli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәянамә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хаҡнамә",
+                    "хаҡтар исемлеге",
+                    "хаҡтар теҙмәһе"
+                ]
+            }
+        }
+    ]
+}

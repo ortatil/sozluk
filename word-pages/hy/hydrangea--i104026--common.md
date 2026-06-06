@@ -1,0 +1,160 @@
+# Hydrangea
+| Field | Detail |
+|---|---|
+| **ID** | i104026 |
+| **English** | hydrangea |
+| **Type** | noun |
+| **Definition** | any of various deciduous or evergreen shrubs of the genus Hydrangea |
+| **Source** | common |
+| **Ortatil** | gärtänziya |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **gärtänziya** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.83** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| گۈلتاخسە | gültaxsä |
+| **Kazakh** | |
+| гидрангея | gidrangeya |
+| көбелекгүл | köbelekgül |
+| **Kyrgyz** | |
+| гидрангея | gidrangeya |
+| **Tatar** | |
+| гиртензия | girtenziya |
+| **Bashkir** | |
+| гиртензия | girtenziya |
+
+```json
+{
+    "id": "i104026",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hydrangea",
+    "en_definition": "any of various deciduous or evergreen shrubs of the genus Hydrangea",
+    "tr_word": "ortanca",
+    "tr_definition": "Hydrangea cinsinden, büyük ve gösterişli çiçek kurulları olan, çalı formundaki süs bitkisi.",
+    "ru_word": "гортензия",
+    "ru_definition": "род цветковых растений семейства Гортензиевые, представляющий собой кустарники или небольшие деревья с крупными соцветиями.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gidranžiýa"
+                ],
+                "Uzbek": [
+                    "gortenziya"
+                ],
+                "Kazakh": [
+                    "гидрангея"
+                ],
+                "Kyrgyz": [
+                    "гидрангея"
+                ],
+                "Karakalpak": [
+                    "gidrangeya"
+                ],
+                "Tatar": [
+                    "гиртензия"
+                ],
+                "Bashkir": [
+                    "гиртензия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suw gülü"
+                ],
+                "Uyghur": [
+                    "سۇ گۈلى"
+                ],
+                "Karakalpak": [
+                    "suo gúli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ortanca",
+                    "ortanca çiçeği"
+                ],
+                "Azerbaijani": [
+                    "hortenziya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "suçiçəyi"
+                ],
+                "Tatar": [
+                    "су чәчәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "soyagul"
+                ],
+                "Bashkir": [
+                    "һыу сәскәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۈلتاخسە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خۇشپۇراق گۈلتاخسە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көбелекгүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көгүш гүл"
+                ]
+            }
+        }
+    ]
+}
+```
+

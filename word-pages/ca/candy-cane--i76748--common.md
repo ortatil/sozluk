@@ -1,0 +1,173 @@
+# Candy cane
+| Field | Detail |
+|---|---|
+| **ID** | i76748 |
+| **English** | candy cane |
+| **Type** | noun |
+| **Definition** | a hard candy in the shape of a rod (usually with stripes) |
+| **Source** | common |
+| **Ortatil** | tayak-kanfit |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| таяк-кәнфит | tayak-känfit |
+
+```json
+{
+    "id": "i76748",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "candy cane",
+    "en_definition": "a hard candy in the shape of a rod (usually with stripes)",
+    "tr_word": "baston şeker",
+    "tr_definition": "genellikle çizgili, baston şeklinde sert bir şekerleme",
+    "ru_word": "леденец-трость",
+    "ru_definition": "твердая карамель в форме трости, обычно с полосками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýak süýji"
+                ],
+                "Uyghur": [
+                    "تەياق كەمپۈت"
+                ],
+                "Kyrgyz": [
+                    "таяк момпосуй"
+                ],
+                "Karakalpak": [
+                    "tayaqsha kámpit"
+                ],
+                "Tatar": [
+                    "таяк-кәнфит",
+                    "таякчык кәнфит"
+                ],
+                "Bashkir": [
+                    "таяҡ кәнфит",
+                    "таяҡса кәнфит"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akide şekeri"
+                ],
+                "Karakalpak": [
+                    "iyilgen kámpit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çubuk şeker"
+                ],
+                "Azerbaijani": [
+                    "çubuq konfet",
+                    "çubuq şirniyyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hassa süýjüsi",
+                    "hassa şekeri"
+                ],
+                "Uyghur": [
+                    "ھاسا شەكىللىك كەمپۈت",
+                    "ھاسا كەمپۈت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qand tayoqcha"
+                ],
+                "Tatar": [
+                    "кәнфит таягы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "novvot tayoqcha"
+                ],
+                "Karakalpak": [
+                    "nabat tayaqsha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тәтті таяқша"
+                ],
+                "Kyrgyz": [
+                    "таттуу таякча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "baston şeker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əsa konfeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shirinlik tayoqchasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәмпит таяқша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұзкәмпит таяқша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "момпосуй таякча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "боҙ кәнфит"
+                ]
+            }
+        }
+    ]
+}
+```
+

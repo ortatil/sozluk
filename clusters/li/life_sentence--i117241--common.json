@@ -1,0 +1,96 @@
+{
+    "id": "i117241",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "life sentence",
+    "en_definition": "a prison term lasting as long as the prisoner lives",
+    "tr_word": "müebbet hapis",
+    "tr_definition": "hükümlünün hayatı boyunca hapiste kalmasını öngören ceza türü",
+    "ru_word": "пожизненное заключение",
+    "ru_definition": "вид уголовного наказания, заключающийся в лишении свободы на срок от момента вступления приговора суда в законную силу и до биологической смерти заключённого",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ömürlük həbs",
+                    "ömürlük cəza"
+                ],
+                "Turkmen": [
+                    "ömürlik türme tussaglygy",
+                    "ömürlik azatlykdan mahrum edilme",
+                    "ömürlik türme jezasy"
+                ],
+                "Uyghur": [
+                    "ئۆمۈرلۈك قاماق"
+                ],
+                "Kazakh": [
+                    "өмірлік бас бостандығынан айыру",
+                    "өмірлік түрме жазасы",
+                    "өмірлік кесім"
+                ],
+                "Kyrgyz": [
+                    "өмүр бою эркинен ажыратуу",
+                    "өмүрлүк абак"
+                ],
+                "Karakalpak": [
+                    "ómirlik erkinen ayırıo",
+                    "ómirlik qamaq"
+                ],
+                "Bashkir": [
+                    "ғүмерлек төрмә",
+                    "ғүмерлеккә иркенән мәхрүм итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müebbet hapis",
+                    "ömür boyu hapis"
+                ],
+                "Kyrgyz": [
+                    "өмүр бою камоо"
+                ],
+                "Bashkir": [
+                    "ғүмерлек яза"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ömürlük azadlıqdan məhrumetmə"
+                ],
+                "Uzbek": [
+                    "umrbod ozodlikdan mahrum qilish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "umrbod qamoq jazosi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇددەتسىز قاماق جازاسى",
+                    "مۇددەتسىز كېسىم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гомерлек төрмә",
+                    "гомерлек иректән мәхрүм итү",
+                    "гомерлек җәза"
+                ]
+            }
+        }
+    ]
+}

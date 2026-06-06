@@ -1,0 +1,137 @@
+# Mud dauber
+| Field | Detail |
+|---|---|
+| **ID** | i47144 |
+| **English** | mud dauber |
+| **Type** | noun |
+| **Definition** | wasp that constructs mud cells on a solid base in which females place eggs laid in paralyzed insect larvae |
+| **Source** | common |
+| **Ortatil** | layhörak |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i47144",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mud dauber",
+    "en_definition": "wasp that constructs mud cells on a solid base in which females place eggs laid in paralyzed insect larvae",
+    "tr_word": "çamur eşek arısı",
+    "tr_definition": "Yumurtalarını felçli böcek larvalarıyla birlikte çamurdan yaptığı hücrelere bırakan bir yaban arısı türü.",
+    "ru_word": "песочная оса",
+    "ru_definition": "Оса, строящая гнезда из грязи, в которые она откладывает яйца вместе с парализованными личинками насекомых для питания потомства.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "palçıq arısı"
+                ],
+                "Turkmen": [
+                    "palçykçy ary",
+                    "layçy ary"
+                ],
+                "Kazakh": [
+                    "балшықшы ара"
+                ],
+                "Tatar": [
+                    "балчык корты",
+                    "балчык шәмәлләсе",
+                    "балчыкчы шәмәллә"
+                ],
+                "Bashkir": [
+                    "балсыҡ себене",
+                    "балсыҡ ҡорто",
+                    "балсыҡ һағыҙағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "loyxo'rak",
+                    "loyko'chirar",
+                    "loy ari"
+                ],
+                "Uyghur": [
+                    "لاي ھەرىسى",
+                    "لايچى ھەرە"
+                ],
+                "Kyrgyz": [
+                    "ылайчы аары",
+                    "ылай аарысы"
+                ],
+                "Karakalpak": [
+                    "ılayshı ara",
+                    "ılayshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سېغىز ھەرە"
+                ],
+                "Kazakh": [
+                    "сазшы ара"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çamur eşek arısı",
+                    "çamur yaban arısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çömlekçi arı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hörümçək arısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "suvaqçı arı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hüjreli ary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құмырашы ара"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эрмен аары"
+                ]
+            }
+        }
+    ]
+}
+```
+

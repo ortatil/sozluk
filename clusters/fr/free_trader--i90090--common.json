@@ -1,0 +1,90 @@
+{
+    "id": "i90090",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "free trader",
+    "en_definition": "an advocate of unrestricted international trade",
+    "tr_word": "serbest ticaret taraftarı",
+    "tr_definition": "uluslararası ticaretin kısıtlanmamasını ve gümrük vergilerinin kaldırılmasını savunan kimse",
+    "ru_word": "сторонник свободной торговли",
+    "ru_definition": "лицо, выступающее за отсутствие ограничений и пошлин в международной торговле",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "erkin söwdager",
+                    "erkin söwda tarapdary"
+                ],
+                "Uzbek": [
+                    "erkin savdo tarafdori",
+                    "erkin tijorat tarafdori",
+                    "erkin savdo homiysi"
+                ],
+                "Uyghur": [
+                    "ئەركىن سودا تەرەپدارى",
+                    "ئەركىن سودىچى",
+                    "ئەركىن تىجارەت تەرەپدارى"
+                ],
+                "Kazakh": [
+                    "еркін саудагер",
+                    "еркін сауда жақтаушысы",
+                    "еркін сауданы қолдаушы"
+                ],
+                "Kyrgyz": [
+                    "эркин соодагер",
+                    "эркин соода жактоочусу"
+                ],
+                "Karakalpak": [
+                    "erkin saodager",
+                    "erkin saoda jaqlaoshısı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "serbest ticaret taraftarı",
+                    "serbest ticaretçi"
+                ],
+                "Azerbaijani": [
+                    "sərbəst ticarət tərəfdarı"
+                ],
+                "Turkmen": [
+                    "azat söwda tarapdary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "azad ticarətçi"
+                ],
+                "Bashkir": [
+                    "асыҡ сауҙа яҡлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирекле сәүдә яклы",
+                    "ирекле сәүдә тарафдары",
+                    "ирекле сәүдәче"
+                ],
+                "Bashkir": [
+                    "ирекле сауҙа яҡлы",
+                    "ирекле сауҙа тарафдары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "liberal ekonomist"
+                ]
+            }
+        }
+    ]
+}

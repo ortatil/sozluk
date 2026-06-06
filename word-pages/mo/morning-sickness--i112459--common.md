@@ -1,0 +1,167 @@
+# Morning sickness
+| Field | Detail |
+|---|---|
+| **ID** | i112459 |
+| **English** | morning sickness |
+| **Type** | noun |
+| **Definition** | nausea early in the day; a characteristic symptom in the early months of pregnancy |
+| **Source** | common |
+| **Ortatil** | täksikäz |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| توقلۇق | toqluq |
+| **Kazakh** | |
+| жеріктік | jeriktik |
+| **Kyrgyz** | |
+| талгак | talgak |
+
+```json
+{
+    "id": "i112459",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "morning sickness",
+    "en_definition": "nausea early in the day; a characteristic symptom in the early months of pregnancy",
+    "tr_word": "sabah bulantısı",
+    "tr_definition": "hamileliğin ilk aylarında genellikle sabahları görülen mide bulantısı",
+    "ru_word": "утреннее недомогание",
+    "ru_definition": "тошнота и рвота по утрам, характерный симптом ранних сроков беременности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hamilelik bulantısı"
+                ],
+                "Azerbaijani": [
+                    "hamiləlik ürəkbulanması",
+                    "hamiləlik qaytarması"
+                ],
+                "Uzbek": [
+                    "homiladorlik koʻngil aynishi"
+                ],
+                "Uyghur": [
+                    "ھامىلىدارلىق كۆڭلى ئېلىشىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жеріктік",
+                    "жерік болу",
+                    "жүрек айну"
+                ],
+                "Karakalpak": [
+                    "jerіklіk",
+                    "jerіk bolıu",
+                    "júrek aynıu"
+                ],
+                "Bashkir": [
+                    "йөрәк болғаныу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sabah bulantısı"
+                ],
+                "Turkmen": [
+                    "göwrelilik ýürek bulanmasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻngil aynishi"
+                ],
+                "Bashkir": [
+                    "күңел болғаныу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toksikoz"
+                ],
+                "Kyrgyz": [
+                    "талгак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йөклелек косуы",
+                    "йөклелек токсикозы",
+                    "йөклелек күңел болгануы"
+                ],
+                "Bashkir": [
+                    "йөклөлек токсикозы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gebelik bulantısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səhər ürəkbulanması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ertirki ýürek bulanma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "aşgazan bulanmasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەتىگەنلىك كۆڭلى ئېلىشىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توقلۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "талгак болуу"
+                ]
+            }
+        }
+    ]
+}
+```
+

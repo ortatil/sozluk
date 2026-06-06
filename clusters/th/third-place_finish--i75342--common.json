@@ -1,0 +1,90 @@
+{
+    "id": "i75342",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "third-place finish",
+    "en_definition": "a finish in third place (as in a race)",
+    "tr_word": "üçüncülük",
+    "tr_definition": "Bir yarışmada veya sıralamada elde edilen üçüncü sıra sonucu.",
+    "ru_word": "третье место",
+    "ru_definition": "Завершение соревнования или гонки на третьей позиции.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üçüncülük",
+                    "üçüncü sıra",
+                    "üçüncü derece"
+                ],
+                "Azerbaijani": [
+                    "üçüncülük",
+                    "üçüncü yer"
+                ],
+                "Turkmen": [
+                    "üçünji orun",
+                    "üçünjilik"
+                ],
+                "Uzbek": [
+                    "uchinchi o'rin",
+                    "uchinchilik"
+                ],
+                "Uyghur": [
+                    "ئۈچىنچىلىك",
+                    "ئۈچىنچى ئورۇن",
+                    "ئۈچىنچى دەرىجە"
+                ],
+                "Kazakh": [
+                    "үшінші орын"
+                ],
+                "Kyrgyz": [
+                    "үчүнчү орун",
+                    "үчүнчүлүк"
+                ],
+                "Karakalpak": [
+                    "úshinshi orın",
+                    "úshinshilik"
+                ],
+                "Tatar": [
+                    "өченче урын",
+                    "өченчелек"
+                ],
+                "Bashkir": [
+                    "өсөнсө урын",
+                    "өсөнсөлөк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bürünc medal"
+                ],
+                "Turkmen": [
+                    "bürünç medal"
+                ],
+                "Tatar": [
+                    "бронза урын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қола жүлде"
+                ],
+                "Kyrgyz": [
+                    "коло байге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bronza medali"
+                ]
+            }
+        }
+    ]
+}

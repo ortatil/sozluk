@@ -1,0 +1,119 @@
+{
+    "id": "i79836",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "department of computer science",
+    "en_definition": "the academic department responsible for teaching and research in computer science",
+    "tr_word": "bilgisayar bilimleri bölümü",
+    "tr_definition": "bilgisayar bilimi alanında eğitim ve araştırma yapmaktan sorumlu akademik birim",
+    "ru_word": "факультет компьютерных наук",
+    "ru_definition": "академическое подразделение, отвечающее за преподавание и исследования в области компьютерных наук",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "informatika kafedrası",
+                    "informatika bölməsi"
+                ],
+                "Turkmen": [
+                    "informatika bölümi"
+                ],
+                "Kazakh": [
+                    "информатика кафедрасы"
+                ],
+                "Kyrgyz": [
+                    "информатика кафедрасы"
+                ],
+                "Karakalpak": [
+                    "informatika kafedrası"
+                ],
+                "Bashkir": [
+                    "информатика кафедраһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hasaplaýyş tehnikasy kafedrasy"
+                ],
+                "Uzbek": [
+                    "hisoblash texnikasi kafedrasi"
+                ],
+                "Uyghur": [
+                    "ھېسابلاش ماشىنىسى ئىلمى فاكۇلتېتى",
+                    "ھېسابلاش ماشىنىسى ئىلمى بۆلۈمى"
+                ],
+                "Karakalpak": [
+                    "esaplao texnikası kafedrası",
+                    "esaplao texnikası bólimi"
+                ],
+                "Tatar": [
+                    "хисаплау техникасы кафедрасы"
+                ],
+                "Bashkir": [
+                    "хисаплау техникаһы кафедраһы",
+                    "хисаплау фәндәре бүлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kompüter elmləri kafedrası",
+                    "kompüter elmləri bölməsi"
+                ],
+                "Turkmen": [
+                    "kompýuter ylymlary bölümi"
+                ],
+                "Uzbek": [
+                    "kompyuter ilmlari bo'limi"
+                ],
+                "Uyghur": [
+                    "كومپيۇتېر ئىلمى فاكۇلتېتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "axborot texnologiyalari kafedrasi"
+                ],
+                "Kazakh": [
+                    "ақпараттық технологиялар кафедрасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есептеуіш техника кафедрасы"
+                ],
+                "Kyrgyz": [
+                    "эсептөө техникасы кафедрасы",
+                    "эсептөө илимдери бөлүмү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilgisayar mühendisliği bölümü",
+                    "bilgisayar bilimleri bölümü",
+                    "bilgisayar bilimleri kürsüsü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "санак фәннәре кафедрасы",
+                    "мәгълүмат технологияләре кафедрасы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "i15258",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "socioeconomic",
+    "en_definition": "involving social as well as economic factors",
+    "tr_word": "sosyoekonomik",
+    "tr_definition": "hem sosyal hem de ekonomik faktörleri içeren",
+    "ru_word": "социально-экономический",
+    "ru_definition": "относящийся к сочетанию социальных и экономических факторов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sosyoekonomik"
+                ],
+                "Azerbaijani": [
+                    "sosial-iqtisadi"
+                ],
+                "Turkmen": [
+                    "sosial-ykdysady"
+                ],
+                "Kyrgyz": [
+                    "социалдык-экономикалык"
+                ],
+                "Karakalpak": [
+                    "social-ekonomikalıq"
+                ],
+                "Tatar": [
+                    "социаль-икътисади"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "içtimai-iktisadi"
+                ],
+                "Azerbaijani": [
+                    "ictimai-iqtisadi"
+                ],
+                "Uzbek": [
+                    "ijtimoiy-iqtisodiy"
+                ],
+                "Uyghur": [
+                    "ئىجتىمائىي-ئىقتىسادىي",
+                    "ئىجتىمائىي ۋە ئىقتىسادىي"
+                ],
+                "Tatar": [
+                    "иҗтимагый-икътисади"
+                ],
+                "Bashkir": [
+                    "ижтимағи-иҡтисади"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jemgyýetçilik-ykdysady"
+                ],
+                "Uzbek": [
+                    "jamiyatshunoslik-iqtisodiy"
+                ],
+                "Karakalpak": [
+                    "jámiyetlik-ekonomikalıq"
+                ],
+                "Bashkir": [
+                    "йәмғиәт-иҡтисад"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toplumsal-iktisadi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әлеуметтік-экономикалық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоғамдық-шаруашылық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коомдук-чарбалык"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+# Brass band
+| Field | Detail |
+|---|---|
+| **ID** | i80476 |
+| **English** | brass band |
+| **Type** | noun |
+| **Definition** | a group of musicians playing only brass and percussion instruments |
+| **Source** | common |
+| **Ortatil** | mızıka |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| нөбәтчеләр | nöbätçelär |
+| нөбәт | nöbät |
+
+```json
+{
+    "id": "i80476",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brass band",
+    "en_definition": "a group of musicians playing only brass and percussion instruments",
+    "tr_word": "bando",
+    "tr_definition": "Sadece bakır üflemeli ve vurmalı çalgılardan oluşan müzisyenler topluluğu.",
+    "ru_word": "духовой оркестр",
+    "ru_definition": "Группа музыкантов, играющих исключительно на медных духовых и ударных инструментах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəfəs alətləri orkestri",
+                    "nəfəsli orkestr"
+                ],
+                "Kazakh": [
+                    "үрмелі аспаптар оркестрі",
+                    "үрмелі оркестр"
+                ],
+                "Kyrgyz": [
+                    "үрмө аспаптар оркестри",
+                    "үрмө оркестр"
+                ],
+                "Karakalpak": [
+                    "úrmeli saz ásbapları orkestri",
+                    "úrmeli orkestr"
+                ],
+                "Bashkir": [
+                    "өрмәле музыка оркестры",
+                    "өрмәле инструменттар оркестры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mızıka"
+                ],
+                "Uyghur": [
+                    "مىس كاناي ئانسامبىلى",
+                    "مىس كاناي ئوركېستىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mis alətlər orkestri"
+                ],
+                "Turkmen": [
+                    "orkestr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "üflemeli sazlar orkestri"
+                ],
+                "Uzbek": [
+                    "puflama sozlar orkestri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bando"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mehter takımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "borazan takımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sazandalar topary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mis cholg'ular dastasі",
+                    "damli cholg'ular orkestri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەغمە-ناۋا ئۆمىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "нөбәтчеләр төркеме",
+                    "нөбәтчеләр",
+                    "нөбәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "нәфир оркестры"
+                ]
+            }
+        }
+    ]
+}
+```
+

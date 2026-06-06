@@ -1,0 +1,125 @@
+{
+    "id": "i18070",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "point-of-sale",
+    "en_definition": "of or relating to or being the location where something is purchased",
+    "tr_word": "satış noktası",
+    "tr_definition": "bir ürünün satın alındığı yerle ilgili olan veya bu yeri temsil eden",
+    "ru_word": "торговый",
+    "ru_definition": "относящийся к месту продажи или являющийся местом, где совершается покупка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satış noktası",
+                    "satış yeri"
+                ],
+                "Azerbaijani": [
+                    "satış",
+                    "satış yeri"
+                ],
+                "Turkmen": [
+                    "satuw nokady",
+                    "satuw ýeri"
+                ],
+                "Uzbek": [
+                    "sotuv"
+                ],
+                "Uyghur": [
+                    "سېتىش ئورنى",
+                    "سېتىش نۇقتىسى"
+                ],
+                "Kazakh": [
+                    "сату"
+                ],
+                "Kyrgyz": [
+                    "сатуучу",
+                    "сатык"
+                ],
+                "Karakalpak": [
+                    "satıo"
+                ],
+                "Tatar": [
+                    "сату"
+                ],
+                "Bashkir": [
+                    "һатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kasa"
+                ],
+                "Kazakh": [
+                    "сауда"
+                ],
+                "Kyrgyz": [
+                    "соода"
+                ],
+                "Karakalpak": [
+                    "saoda"
+                ],
+                "Tatar": [
+                    "сәүдә"
+                ],
+                "Bashkir": [
+                    "сауҙа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söwda nokady"
+                ],
+                "Uzbek": [
+                    "savdo"
+                ],
+                "Kazakh": [
+                    "сауда-саттық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ödeme noktası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "alış-veriş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xarid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سودا ئورنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dúkyan"
+                ]
+            }
+        }
+    ]
+}

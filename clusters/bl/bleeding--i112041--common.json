@@ -1,0 +1,74 @@
+{
+    "id": "i112041",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bleeding",
+    "en_definition": "the flow of blood from a ruptured blood vessel",
+    "tr_word": "kanama",
+    "tr_definition": "yırtılmış bir kan damarından kanın dışarı akması",
+    "ru_word": "кровотечение",
+    "ru_definition": "вытекание крови из поврежденного кровеносного сосуда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kanama"
+                ],
+                "Azerbaijani": [
+                    "qanaxma",
+                    "qan axması"
+                ],
+                "Turkmen": [
+                    "gan akma",
+                    "gan akmasy",
+                    "gan akmaçlyk"
+                ],
+                "Uzbek": [
+                    "qonash",
+                    "qon oqishi",
+                    "qon ketishi"
+                ],
+                "Uyghur": [
+                    "قان ئېقىش",
+                    "قاناش"
+                ],
+                "Kazakh": [
+                    "қан кету",
+                    "қан ағу",
+                    "қансырау"
+                ],
+                "Kyrgyz": [
+                    "кан агуу",
+                    "кан кетүү"
+                ],
+                "Karakalpak": [
+                    "qan aǵıu",
+                    "qan ketio"
+                ],
+                "Tatar": [
+                    "кан агу",
+                    "кан китү"
+                ],
+                "Bashkir": [
+                    "ҡан ағыу",
+                    "ҡанһырау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəzf"
+                ]
+            }
+        }
+    ]
+}

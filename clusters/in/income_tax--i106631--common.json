@@ -1,0 +1,103 @@
+{
+    "id": "i106631",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "income tax",
+    "en_definition": "a personal tax levied on annual income",
+    "tr_word": "gelir vergisi",
+    "tr_definition": "Kişilerin veya kurumların yıllık kazançları üzerinden devlete ödedikleri vergi.",
+    "ru_word": "подоходный налог",
+    "ru_definition": "Налог, взимаемый с доходов физических или юридических лиц.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "girdeji salgydy",
+                    "girdeji pajy"
+                ],
+                "Uyghur": [
+                    "كىرىم بېجى"
+                ],
+                "Kazakh": [
+                    "кіріс салығы"
+                ],
+                "Kyrgyz": [
+                    "киреше салыгы",
+                    "кирешеден алынуучу салык"
+                ],
+                "Tatar": [
+                    "керем салымы",
+                    "керем налогы",
+                    "керем зәкяте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gelir vergisi"
+                ],
+                "Azerbaijani": [
+                    "gəlir vergisi"
+                ],
+                "Bashkir": [
+                    "килем һалымы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "табыс салығы"
+                ],
+                "Karakalpak": [
+                    "tabıs salıǵı"
+                ],
+                "Bashkir": [
+                    "табыш һалымы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "daromad soligʻi"
+                ],
+                "Karakalpak": [
+                    "dáramat salıǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kazanç vergisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məvacib vergisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "foyda soligʻi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شەخسىي كىرىم بېجى"
+                ]
+            }
+        }
+    ]
+}

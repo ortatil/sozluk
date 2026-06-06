@@ -1,0 +1,158 @@
+# Dress rack
+| Field | Detail |
+|---|---|
+| **ID** | i53153 |
+| **English** | dress rack |
+| **Type** | noun |
+| **Definition** | a rack used primarily to display dresses for sale in a store |
+| **Source** | common |
+| **Ortatil** | askılık |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **askılık** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ілгіш | ilgiş |
+| **Kyrgyz** | |
+| илгич | ilgiç |
+
+```json
+{
+    "id": "i53153",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dress rack",
+    "en_definition": "a rack used primarily to display dresses for sale in a store",
+    "tr_word": "elbise askılığı",
+    "tr_definition": "mağazalarda elbiseleri sergilemek için kullanılan askı standı",
+    "ru_word": "стойка для одежды",
+    "ru_definition": "стойка, используемая в основном для демонстрации платьев в магазине",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "geyim asılqanı"
+                ],
+                "Uzbek": [
+                    "kiyim ilgich",
+                    "kiyim osgich",
+                    "kiyim javoni"
+                ],
+                "Uyghur": [
+                    "كىيىم ئاسقۇچ",
+                    "كىيىم جازىسى",
+                    "كىيىم تەكچىسى"
+                ],
+                "Kazakh": [
+                    "киім ілгіш",
+                    "киім сөресі"
+                ],
+                "Kyrgyz": [
+                    "кийим илгич",
+                    "кийим текче"
+                ],
+                "Karakalpak": [
+                    "kiyim ilgish",
+                    "kiyim askısh",
+                    "kiyim sóresi"
+                ],
+                "Tatar": [
+                    "кием элгече",
+                    "кием аскычы",
+                    "кием басмасы"
+                ],
+                "Bashkir": [
+                    "кейем элгес",
+                    "кейем аҫҡысы",
+                    "кейем терәүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "askılık"
+                ],
+                "Azerbaijani": [
+                    "asılqan"
+                ],
+                "Turkmen": [
+                    "eşik asgyjy",
+                    "asgyç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elbise askısı"
+                ],
+                "Turkmen": [
+                    "egin-eşik asgyjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ілгіш"
+                ],
+                "Kyrgyz": [
+                    "илгич"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "teşhir askısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "konfeksiyon askısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paltar asılqanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rəf"
+                ]
+            }
+        }
+    ]
+}
+```
+

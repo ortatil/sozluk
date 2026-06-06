@@ -1,0 +1,240 @@
+# Wow
+| Field | Detail |
+|---|---|
+| **ID** | i30588 |
+| **English** | wow |
+| **Type** | verb |
+| **Definition** | impress greatly |
+| **Source** | common |
+| **Ortatil** | täsirlendiriomaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **suysündırutmaq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| сүйсіндіру | süysindiru |
+| таңғалдыру | tañğaldıru |
+| **Kyrgyz** | |
+| суктандыруу | suktandıruu |
+| **Tatar** | |
+| сокландыру | soklandıru |
+| гаҗәпләндерү | gajäpländerü |
+| **Bashkir** | |
+| һоҡландырыу | hoqlandırıu |
+
+```json
+{
+    "id": "i30588",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "wow",
+    "en_definition": "impress greatly",
+    "tr_word": "hayran bırakmak",
+    "tr_definition": "birini büyük ölçüde etkilemek veya büyülemek",
+    "ru_word": "поражать",
+    "ru_definition": "производить на кого-либо сильное впечатление",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayran bırakmak"
+                ],
+                "Azerbaijani": [
+                    "heyran etmək"
+                ],
+                "Turkmen": [
+                    "haýran galdyrmak",
+                    "haýran etmek"
+                ],
+                "Uzbek": [
+                    "hayratlantirmoq",
+                    "hayron qoldirmoq"
+                ],
+                "Uyghur": [
+                    "ھەيران قالدۇرماق"
+                ],
+                "Kazakh": [
+                    "қайран қалдыру"
+                ],
+                "Kyrgyz": [
+                    "айран калтыруу"
+                ],
+                "Karakalpak": [
+                    "hayran qaldırıo"
+                ],
+                "Tatar": [
+                    "хәйран калдыру"
+                ],
+                "Bashkir": [
+                    "хәйран итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "geň galdyrmak"
+                ],
+                "Kyrgyz": [
+                    "таң калтыруу",
+                    "таң калтыр"
+                ],
+                "Karakalpak": [
+                    "tań qaldırıo"
+                ],
+                "Tatar": [
+                    "таң калдыру"
+                ],
+                "Bashkir": [
+                    "таң ҡалдырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сүйсіндіру"
+                ],
+                "Kyrgyz": [
+                    "суктандыруу"
+                ],
+                "Tatar": [
+                    "сокландыру"
+                ],
+                "Bashkir": [
+                    "һоҡландырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məftun etmək"
+                ],
+                "Uzbek": [
+                    "maftun etmoq"
+                ],
+                "Uyghur": [
+                    "مەپتۇن قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təəccübləndirmək"
+                ],
+                "Turkmen": [
+                    "täsir galdyrmak"
+                ],
+                "Karakalpak": [
+                    "tásirlendirio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lol qoldirmoq"
+                ],
+                "Uyghur": [
+                    "تاڭ قالدۇرماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гаҗәпләндерү"
+                ],
+                "Bashkir": [
+                    "ғажипҡа ҡалдырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "etkilemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyülemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şaşırtmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mest etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "valeh etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قايىل قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңғалдыру",
+                    "тәнті ету"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "máhliyo etio"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,130 @@
+{
+    "id": "i59509",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "steakhouse",
+    "en_definition": "a restaurant that specializes in steaks",
+    "tr_word": "et lokantası",
+    "tr_definition": "Genellikle biftek ve diğer et yemekleri üzerine uzmanlaşmış restoran.",
+    "ru_word": "стейк-хаус",
+    "ru_definition": "Ресторан, специализирующийся на приготовлении и подаче стейков.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kebapçı"
+                ],
+                "Azerbaijani": [
+                    "kababçı",
+                    "kababxana"
+                ],
+                "Turkmen": [
+                    "kebaphana"
+                ],
+                "Uzbek": [
+                    "kabobxona"
+                ],
+                "Uyghur": [
+                    "كاۋاپخانا"
+                ],
+                "Kazakh": [
+                    "кәуапхана"
+                ],
+                "Karakalpak": [
+                    "káoapxana"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ızgaracı"
+                ],
+                "Turkmen": [
+                    "aşhana"
+                ],
+                "Uzbek": [
+                    "oshxona"
+                ],
+                "Kazakh": [
+                    "асхана"
+                ],
+                "Kyrgyz": [
+                    "ашкана"
+                ],
+                "Karakalpak": [
+                    "asxana"
+                ],
+                "Bashkir": [
+                    "ашхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "et lokantası"
+                ],
+                "Azerbaijani": [
+                    "ətxana"
+                ],
+                "Kazakh": [
+                    "етхана"
+                ],
+                "Kyrgyz": [
+                    "эткана"
+                ],
+                "Tatar": [
+                    "итханә",
+                    "ит ашханәсе",
+                    "ит рестораны"
+                ],
+                "Bashkir": [
+                    "итхана",
+                    "ит ашханаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "taomxona"
+                ],
+                "Uyghur": [
+                    "تائامخانا"
+                ],
+                "Kyrgyz": [
+                    "тамактануучу жай"
+                ],
+                "Karakalpak": [
+                    "taamxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "et evi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "naharhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۆشخانا"
+                ]
+            }
+        }
+    ]
+}

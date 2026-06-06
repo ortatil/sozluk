@@ -1,0 +1,94 @@
+{
+    "id": "i61123",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white flag",
+    "en_definition": "flag consisting of a piece of white cloth that is hoisted to signal surrender or to ask for a truce",
+    "tr_word": "beyaz bayrak",
+    "tr_definition": "teslim olmayı veya ateşkes görüşmesi yapma isteğini belirtmek için çekilen beyaz renkli bayrak",
+    "ru_word": "белый флаг",
+    "ru_definition": "флаг белого цвета, который вывешивается в знак капитуляции или для запроса переговоров о перемирии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aman bayrağı"
+                ],
+                "Azerbaijani": [
+                    "ağ bayraq",
+                    "aman bayrağı"
+                ],
+                "Turkmen": [
+                    "ak baýdak"
+                ],
+                "Uzbek": [
+                    "oq bayroq"
+                ],
+                "Uyghur": [
+                    "ئاق بايراق"
+                ],
+                "Kazakh": [
+                    "ақ байрақ"
+                ],
+                "Karakalpak": [
+                    "aq bayraq"
+                ],
+                "Tatar": [
+                    "ак байрак"
+                ],
+                "Bashkir": [
+                    "аҡ флаг",
+                    "аҡ байраҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ak tug"
+                ],
+                "Uzbek": [
+                    "oq tug'"
+                ],
+                "Uyghur": [
+                    "ئاق تۇغ"
+                ],
+                "Kazakh": [
+                    "ақ ту"
+                ],
+                "Kyrgyz": [
+                    "ак туу"
+                ],
+                "Karakalpak": [
+                    "aq tu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ак желек"
+                ],
+                "Tatar": [
+                    "ак флаго"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz bayrak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "teslim bayrağı"
+                ]
+            }
+        }
+    ]
+}

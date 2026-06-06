@@ -1,0 +1,101 @@
+{
+    "id": "i77542",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "red cabbage",
+    "en_definition": "compact head of purplish-red leaves",
+    "tr_word": "kırmızı lahana",
+    "tr_definition": "mor-kırmızı yapraklardan oluşan sıkı başlı lahana türü",
+    "ru_word": "краснокочанная капуста",
+    "ru_definition": "сорт капусты с плотным кочаном пурпурно-красного цвета",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyzyl kelem"
+                ],
+                "Uzbek": [
+                    "qizil karam"
+                ],
+                "Uyghur": [
+                    "قىزىل كاپۇستا"
+                ],
+                "Kazakh": [
+                    "қызыл қырыққабат"
+                ],
+                "Kyrgyz": [
+                    "кызыл капуста",
+                    "кызыл бакалы"
+                ],
+                "Karakalpak": [
+                    "qızıl qırıqqabat",
+                    "qızıl kálem"
+                ],
+                "Tatar": [
+                    "кызыл кәбестә"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл кәбестә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bənövşəyi kələm"
+                ],
+                "Turkmen": [
+                    "benewşe kelem"
+                ],
+                "Uzbek": [
+                    "binafsha karam"
+                ],
+                "Uyghur": [
+                    "بىنەپشە كاپۇستا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırmızı lahana",
+                    "kara lahana"
+                ],
+                "Azerbaijani": [
+                    "qırmızı kələm",
+                    "qara kələm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mor lahana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күлгін қырыққабат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шәмәхә кәбестә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "миләүшә кәбестә"
+                ]
+            }
+        }
+    ]
+}

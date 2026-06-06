@@ -1,0 +1,93 @@
+{
+    "id": "i93612",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "test driver",
+    "en_definition": "a driver who drives a motor vehicle to evaluate its performance",
+    "tr_word": "test sürücüsü",
+    "tr_definition": "Bir motorlu taşıtın performansını değerlendirmek için onu kullanan sürücü.",
+    "ru_word": "водитель-испытатель",
+    "ru_definition": "водитель, управляющий транспортным средством для оценки его технических характеристик",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınama sürücüsü"
+                ],
+                "Azerbaijani": [
+                    "sınaq sürücüsü"
+                ],
+                "Turkmen": [
+                    "synag sürüjisi"
+                ],
+                "Uzbek": [
+                    "sinovchi haydovchi",
+                    "sinovchi"
+                ],
+                "Uyghur": [
+                    "سىناق ھەيدىگۈچى",
+                    "سىناقچى شوپۇر"
+                ],
+                "Kazakh": [
+                    "сынақ жүргізуші",
+                    "сынақшы жүргізуші",
+                    "сынақшы"
+                ],
+                "Kyrgyz": [
+                    "сыноочу айдоочу",
+                    "сынамыкчы",
+                    "сынап көрүүчү"
+                ],
+                "Karakalpak": [
+                    "sınaqshı júrgіzushі",
+                    "sınaqshı"
+                ],
+                "Tatar": [
+                    "сынаучы-йөртүче",
+                    "сынаучы"
+                ],
+                "Bashkir": [
+                    "һынаусы-йөрөтөүсе",
+                    "һынаусы-шофер",
+                    "һынаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "test sürücüsü"
+                ],
+                "Azerbaijani": [
+                    "təcrübəçi sürücü"
+                ],
+                "Uzbek": [
+                    "tajriba haydovchisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deneme sürücüsü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "barlag sürüjisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йөртүче-сынаучы"
+                ]
+            }
+        }
+    ]
+}

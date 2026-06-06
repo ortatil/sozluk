@@ -1,0 +1,83 @@
+{
+    "id": "i42022",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "deforestation",
+    "en_definition": "the removal of trees",
+    "tr_word": "ormansızlaşma",
+    "tr_definition": "bir ormanlık alandaki ağaçların yok edilmesi veya kaldırılması süreci",
+    "ru_word": "вырубка лесов",
+    "ru_definition": "процесс уничтожения или удаления деревьев на лесной территории",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ormansızlaşma",
+                    "orman tahribatı",
+                    "orman kıyımı"
+                ],
+                "Uzbek": [
+                    "oʻrmonsizlanish",
+                    "oʻrmonlarni kesish",
+                    "oʻrmonlarni yoʻq qilish"
+                ],
+                "Uyghur": [
+                    "ئورمانسىزلىنىش",
+                    "ئورمان كېسىش",
+                    "ئورمانلارنى يوقىتىش"
+                ],
+                "Kazakh": [
+                    "орманды кесу",
+                    "орманды жою",
+                    "ормансыздыру"
+                ],
+                "Karakalpak": [
+                    "ormansızlandırıo",
+                    "ormandı kesio",
+                    "ormandı qırqıo"
+                ],
+                "Tatar": [
+                    "урман кисү",
+                    "урмансызландыру",
+                    "урманны юк итү"
+                ],
+                "Bashkir": [
+                    "урман ҡырҡыу",
+                    "урманды юҡ итеү",
+                    "урманһыҙландырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tokaýsyzlandyrma",
+                    "tokaýlaryň çapylmagy",
+                    "tokaýlaryň ýok edilmegi"
+                ],
+                "Kyrgyz": [
+                    "токойлорду кыюу",
+                    "токойлорду жок кылуу",
+                    "токойсуз калуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağaçsızlandırma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "meşəsizləşdirmə",
+                    "meşəqırma",
+                    "meşələrin məhvi"
+                ]
+            }
+        }
+    ]
+}

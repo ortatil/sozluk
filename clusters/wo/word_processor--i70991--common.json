@@ -1,0 +1,105 @@
+{
+    "id": "i70991",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "word processor",
+    "en_definition": "an application that provides the user with tools needed to write and edit and format text and to send it to a printer",
+    "tr_word": "kelime işlemci",
+    "tr_definition": "metin yazmak, düzenlemek, biçimlendirmek ve yazıcıya göndermek için gerekli araçları sağlayan uygulama",
+    "ru_word": "текстовый процессор",
+    "ru_definition": "приложение, предоставляющее пользователю инструменты для написания, редактирования, форматирования текста и отправки его на печать",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazı yazma programı"
+                ],
+                "Azerbaijani": [
+                    "yazı proqramı"
+                ],
+                "Turkmen": [
+                    "ýazuw guraly"
+                ],
+                "Uyghur": [
+                    "يېزىق بىر تەرەپ قىلىش يۇمشاق دېتالى"
+                ],
+                "Kazakh": [
+                    "жазба құралы"
+                ],
+                "Kyrgyz": [
+                    "жазуу куралы"
+                ],
+                "Karakalpak": [
+                    "jazıo baǵdarlaması"
+                ],
+                "Tatar": [
+                    "язу программасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tekst redaktory",
+                    "tekst işleýji"
+                ],
+                "Uyghur": [
+                    "تېكىست بىر تەرەپ قىلغۇچ"
+                ],
+                "Kyrgyz": [
+                    "тексттик редактор",
+                    "текст иштеткич"
+                ],
+                "Karakalpak": [
+                    "tekst redaktorı",
+                    "tekst islep shıǵıoshı"
+                ],
+                "Tatar": [
+                    "текст эшкәрткеч",
+                    "текст мөхәррире"
+                ],
+                "Bashkir": [
+                    "текст эшкәртеүсе",
+                    "текст мөхәррирләүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "metin düzenleyici"
+                ],
+                "Azerbaijani": [
+                    "mətn redaktoru",
+                    "mətn işləyicisi"
+                ],
+                "Uzbek": [
+                    "matn muharriri",
+                    "matn ishlovchisi",
+                    "matn tahrirlovchisi"
+                ],
+                "Kazakh": [
+                    "мәтіндік редактор",
+                    "мәтін өңдегіш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kelime işlemci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەت بىر تەرەپ قىلغۇچ"
+                ]
+            }
+        }
+    ]
+}

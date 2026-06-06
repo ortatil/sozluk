@@ -1,0 +1,129 @@
+{
+    "id": "i105584",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stump",
+    "en_definition": "the base part of a tree that remains standing after the tree has been felled",
+    "tr_word": "ağaç kütüğü",
+    "tr_definition": "Kesilmiş bir ağacın toprakta kalan köklü bölümü.",
+    "ru_word": "пень",
+    "ru_definition": "Остаток срубленного или сломанного дерева в виде части ствола вместе с корнями.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töňňe"
+                ],
+                "Uzbek": [
+                    "to'nka"
+                ],
+                "Uyghur": [
+                    "تۆڭگە",
+                    "تۆڭگۈز"
+                ],
+                "Kazakh": [
+                    "дөңбек"
+                ],
+                "Karakalpak": [
+                    "dóńbek"
+                ],
+                "Bashkir": [
+                    "төбәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "түбір",
+                    "түбіртек"
+                ],
+                "Kyrgyz": [
+                    "түп",
+                    "түпкүч"
+                ],
+                "Karakalpak": [
+                    "túbir",
+                    "túbirshek"
+                ],
+                "Tatar": [
+                    "төп",
+                    "төпчек"
+                ],
+                "Bashkir": [
+                    "төп",
+                    "төпһә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kütük",
+                    "kök"
+                ],
+                "Azerbaijani": [
+                    "kötük",
+                    "kök"
+                ],
+                "Turkmen": [
+                    "kötük"
+                ],
+                "Uyghur": [
+                    "كۆتەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tomruk"
+                ],
+                "Tatar": [
+                    "төмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gövde"
+                ],
+                "Uzbek": [
+                    "kunda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "güdül"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pürç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ildizpoya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дүмүр"
+                ]
+            }
+        }
+    ]
+}

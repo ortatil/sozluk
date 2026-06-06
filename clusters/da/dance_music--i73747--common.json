@@ -1,0 +1,95 @@
+{
+    "id": "i73747",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dance music",
+    "en_definition": "music to dance to",
+    "tr_word": "dans müziği",
+    "tr_definition": "dans etmek için bestelenmiş veya çalınan müzik türü",
+    "ru_word": "танцевальная музыка",
+    "ru_definition": "музыка, специально написанная для сопровождения танцев",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyun havası"
+                ],
+                "Azerbaijani": [
+                    "oyun havası"
+                ],
+                "Turkmen": [
+                    "oýun sazy"
+                ],
+                "Uzbek": [
+                    "o'yin kuyi"
+                ],
+                "Karakalpak": [
+                    "oyın sazı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "би әуені",
+                    "би музыкасы",
+                    "би күйі"
+                ],
+                "Kyrgyz": [
+                    "бий обону",
+                    "бий күүсү",
+                    "бий музыкасы"
+                ],
+                "Karakalpak": [
+                    "biy sazı",
+                    "biy naması"
+                ],
+                "Tatar": [
+                    "бию көе",
+                    "бию музыкасы"
+                ],
+                "Bashkir": [
+                    "бейеү көйө",
+                    "бейеү музыкаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "raks müziği"
+                ],
+                "Azerbaijani": [
+                    "rəqs musiqisi"
+                ],
+                "Uzbek": [
+                    "raqs musiqasi"
+                ],
+                "Uyghur": [
+                    "رەقس مۇزىكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dans müziği"
+                ],
+                "Turkmen": [
+                    "tans sazy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇسسۇل مۇزىكىسى",
+                    "ئۇسسۇل كۈيى"
+                ]
+            }
+        }
+    ]
+}

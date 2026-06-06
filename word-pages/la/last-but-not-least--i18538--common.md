@@ -1,0 +1,133 @@
+# Last but not least
+| Field | Detail |
+|---|---|
+| **ID** | i18538 |
+| **English** | last but not least |
+| **Type** | adverb |
+| **Definition** | in addition to all the foregoing |
+| **Source** | common |
+| **Ortatil** | nähiyät |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i18538",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "last but not least",
+    "en_definition": "in addition to all the foregoing",
+    "tr_word": "sonuncu ama en az diğerleri kadar önemli",
+    "tr_definition": "önceki sayılanların ardından gelen fakat değer bakımından onlardan geri kalmayan",
+    "ru_word": "последний по счету, но не по значению",
+    "ru_definition": "упоминаемый в конце списка, но не менее важный, чем остальные",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sonuncu ama en az onun kadar önemli",
+                    "son olarak ama önemsiz değil"
+                ],
+                "Azerbaijani": [
+                    "sonuncu olsa da, vacibdir",
+                    "son olaraq"
+                ],
+                "Turkmen": [
+                    "soňky, emma iň wajyby"
+                ],
+                "Kazakh": [
+                    "соңғысы болса да, маңыздысы",
+                    "соңғы кезекте, бірақ маңызы жағынан соңғы емес"
+                ],
+                "Karakalpak": [
+                    "sońǵısı bolsa da",
+                    "sońǵısı bolǵanı menen"
+                ],
+                "Tatar": [
+                    "соңгысы булса да, иң мөһиме",
+                    "соңгысы, әмма әһәмиятлесе"
+                ],
+                "Bashkir": [
+                    "һуңғыһы булһа ла, иң мөһиме",
+                    "һуңғыһы, әммә әһәмиәтһеҙ түгел",
+                    "һуңғыһы, ләкин иң ҡиммәтлеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ahyrynda bolsa-da, iň esasy"
+                ],
+                "Uzbek": [
+                    "oxirgi bo'lsa-da, muhim",
+                    "oxirgi, ammo ahamiyatli"
+                ],
+                "Uyghur": [
+                    "ئاخىرقىسى، لېكىن ئەڭ كىچىكى ئەمەس"
+                ],
+                "Kyrgyz": [
+                    "акыркысы болсо да, маанилүүсү",
+                    "акыркысы, бирок эң маанилүүсү",
+                    "акыркысы, бирок мааниси жагынан кем калбаганы"
+                ],
+                "Karakalpak": [
+                    "aqırında"
+                ],
+                "Tatar": [
+                    "ахырда, әмма иң мөһиме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "en sonuncusu ama değerce geri kalmayanı"
+                ],
+                "Azerbaijani": [
+                    "ən nəhayət"
+                ],
+                "Kazakh": [
+                    "ең соңында, бірақ маңызы кем емес"
+                ],
+                "Karakalpak": [
+                    "eń sońında"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəhayət"
+                ],
+                "Uzbek": [
+                    "nihoyat, lekin eng muhimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iň soňky bolsa-da, iň ähmiýetsizi däl"
+                ],
+                "Uyghur": [
+                    "ئەڭ ئاخىرقىسى بولسىمۇ، ئەھمىيەتسىز ئەمەس"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەڭ ئاخىرقىسى، ئەمما ئەڭ مۇھىمى"
+                ]
+            }
+        }
+    ]
+}
+```
+

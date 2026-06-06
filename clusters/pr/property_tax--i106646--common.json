@@ -1,0 +1,109 @@
+{
+    "id": "i106646",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "property tax",
+    "en_definition": "a capital tax on property imposed by municipalities; based on the estimated value of the property",
+    "tr_word": "emlak vergisi",
+    "tr_definition": "Belediyeler tarafından mülkün tahmini değeri üzerinden alınan bir sermaye vergisi.",
+    "ru_word": "налог на имущество",
+    "ru_definition": "Налог, взимаемый муниципалитетами с оценочной стоимости недвижимости или иного имущества.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mülk vergisi"
+                ],
+                "Azerbaijani": [
+                    "mülkiyyət vergisi"
+                ],
+                "Turkmen": [
+                    "mülk salgydy"
+                ],
+                "Uzbek": [
+                    "mulk solig'i"
+                ],
+                "Uyghur": [
+                    "مۈلۈك بېجى"
+                ],
+                "Karakalpak": [
+                    "múlk salıǵı",
+                    "múlk jıyımı"
+                ],
+                "Tatar": [
+                    "мөлкәт салымы"
+                ],
+                "Bashkir": [
+                    "мөлкәт һалымы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "emlak vergisi"
+                ],
+                "Azerbaijani": [
+                    "əmlak vergisi"
+                ],
+                "Turkmen": [
+                    "emläk salgydy"
+                ],
+                "Kazakh": [
+                    "мүлік салығы",
+                    "мүлік ақысы"
+                ],
+                "Kyrgyz": [
+                    "мүлк салыгы"
+                ],
+                "Tatar": [
+                    "милек салымы"
+                ],
+                "Bashkir": [
+                    "милек һалымы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko'chmas mulk solig'i"
+                ],
+                "Tatar": [
+                    "күчемсез милек салымы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akar vergisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mol-mulk solig'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆي-مۈلۈك بېجى",
+                    "ئۆي بېجى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыймылсыз мүлк салыгы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "id": "i82152",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "loading zone",
+    "en_definition": "a stop where carriers can be loaded and unloaded",
+    "tr_word": "yükleme bölgesi",
+    "tr_definition": "taşıyıcıların yüklenebileceği ve boşaltılabileceği bir durak",
+    "ru_word": "зона погрузки",
+    "ru_definition": "место, где может производиться погрузка и разгрузка транспортных средств",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yükleme alanı",
+                    "yükleme yeri",
+                    "yükleme noktası"
+                ],
+                "Azerbaijani": [
+                    "yükləmə yeri",
+                    "yükləmə-boşaltma məntəqəsi",
+                    "yük dayanacağı",
+                    "yük sahəsi"
+                ],
+                "Turkmen": [
+                    "ýükleme meýdançasy",
+                    "ýük düşürilýän ýer",
+                    "ýük duralgasy"
+                ],
+                "Uzbek": [
+                    "yuklash joyi",
+                    "yukxona",
+                    "yuk tushirish joyi"
+                ],
+                "Uyghur": [
+                    "يۈك بېسىش ئورنى",
+                    "يۈك چۈشۈرۈش ئورنى",
+                    "يۈك بېسىش-چۈشۈرۈش رايونى"
+                ],
+                "Kazakh": [
+                    "жүк тиеу алаңы"
+                ],
+                "Kyrgyz": [
+                    "жүк жүктөөчү жай",
+                    "жүк түшүрүүчү жай",
+                    "жүк орду",
+                    "жүк аянтчасы"
+                ],
+                "Karakalpak": [
+                    "júk tiyeo ornı",
+                    "júk túsirio maydanshası",
+                    "júkleo ornı"
+                ],
+                "Tatar": [
+                    "йөкләү урыны",
+                    "йөк бушату урыны"
+                ],
+                "Bashkir": [
+                    "йөк тейәү урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "to'xtash joyi"
+                ],
+                "Tatar": [
+                    "төшәрү-төяү урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тиеу орны",
+                    "тиеу-түсіру орны"
+                ],
+                "Bashkir": [
+                    "тейәү майҙансығы",
+                    "тейәү урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boşaltma alanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahmil tahliye sahası"
+                ]
+            }
+        }
+    ]
+}

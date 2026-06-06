@@ -1,0 +1,121 @@
+{
+    "id": "i771",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "barehanded",
+    "en_definition": "with bare hands",
+    "tr_word": "çıplak elle",
+    "tr_definition": "herhangi bir alet veya koruyucu eldiven kullanmadan, sadece elleri kullanarak",
+    "ru_word": "голыми руками",
+    "ru_definition": "без использования инструментов или защитных перчаток",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gural-esbapsyz"
+                ],
+                "Uzbek": [
+                    "quruq qo'l"
+                ],
+                "Uyghur": [
+                    "قۇرۇق قول"
+                ],
+                "Kazakh": [
+                    "құр қол"
+                ],
+                "Kyrgyz": [
+                    "куралсыз",
+                    "кур кол"
+                ],
+                "Karakalpak": [
+                    "qұr qol"
+                ],
+                "Tatar": [
+                    "коралсыз"
+                ],
+                "Bashkir": [
+                    "ҡоралһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yalınəllə"
+                ],
+                "Turkmen": [
+                    "ýalaňaç elli"
+                ],
+                "Uzbek": [
+                    "yalang qo'l"
+                ],
+                "Uyghur": [
+                    "يالىڭاچ قول"
+                ],
+                "Kazakh": [
+                    "жалаң қол"
+                ],
+                "Karakalpak": [
+                    "jalańash qol"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıplak elle"
+                ],
+                "Kyrgyz": [
+                    "жылаңач кол"
+                ],
+                "Tatar": [
+                    "яланкул"
+                ],
+                "Bashkir": [
+                    "ялан ҡуллы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boş elle"
+                ],
+                "Turkmen": [
+                    "boş elli"
+                ],
+                "Tatar": [
+                    "буш куллы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "silahsız"
+                ],
+                "Azerbaijani": [
+                    "silahsız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əliboş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қарусыз"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "id": "i9083",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "besieged",
+    "en_definition": "surrounded by hostile forces",
+    "tr_word": "kuşatılmış",
+    "tr_definition": "düşman kuvvetleri tarafından etrafı sarılmış",
+    "ru_word": "осажденный",
+    "ru_definition": "окруженный враждебными силами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhasara edilmiş"
+                ],
+                "Azerbaijani": [
+                    "mühasirəyə alınmış",
+                    "mühasirədə olan",
+                    "mühasirəli"
+                ],
+                "Turkmen": [
+                    "muhasara edilen"
+                ],
+                "Uzbek": [
+                    "muhosara qilingan"
+                ],
+                "Uyghur": [
+                    "مۇھاسىرىدە قالغان",
+                    "مۇھاسىرىگە ئېلىنغان"
+                ],
+                "Karakalpak": [
+                    "muxasaradaǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qamalda qolgan",
+                    "qamal qilingan"
+                ],
+                "Kazakh": [
+                    "қамаудағы",
+                    "қамалған"
+                ],
+                "Kyrgyz": [
+                    "камалган"
+                ],
+                "Tatar": [
+                    "камалган",
+                    "камалыштагы"
+                ],
+                "Bashkir": [
+                    "ҡамауҙағы",
+                    "ҡамалған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قورشاۋدا قالغان",
+                    "قورشاۋلىق"
+                ],
+                "Kazakh": [
+                    "қоршаудағы",
+                    "қоршалған"
+                ],
+                "Kyrgyz": [
+                    "курчоодо калган"
+                ],
+                "Karakalpak": [
+                    "qorshaudaǵı",
+                    "qorshalǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuşatılmış"
+                ],
+                "Kyrgyz": [
+                    "курчалган",
+                    "курчоодогу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çevrilmiş"
+                ],
+                "Azerbaijani": [
+                    "çevrələnmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sarılmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gabalan",
+                    "gurşalan",
+                    "gabauda galan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'rab olingan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чолганыклы камалган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәйләнгән"
+                ]
+            }
+        }
+    ]
+}

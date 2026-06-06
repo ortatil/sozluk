@@ -1,0 +1,92 @@
+{
+    "id": "i116716",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "central time",
+    "en_definition": "standard time in the 6th time zone west of Greenwich, reckoned at the 90th meridian; used in the central United States",
+    "tr_word": "Merkezi Zaman Dilimi",
+    "tr_definition": "Greenwich'in 6. saat diliminde, 90. meridyene göre hesaplanan ve Amerika Birleşik Devletleri'nin orta kesiminde kullanılan standart zaman.",
+    "ru_word": "Центральное время",
+    "ru_definition": "Стандартное время в 6-м часовом поясе к западу от Гринвича, отсчитываемое по 90-му меридиану; используется в центральной части США.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orta kuşak saati"
+                ],
+                "Azerbaijani": [
+                    "orta vaxt"
+                ],
+                "Turkmen": [
+                    "orta wagt"
+                ],
+                "Uzbek": [
+                    "oʻrta vaqt"
+                ],
+                "Kazakh": [
+                    "орталық уақыт",
+                    "орталық белдеу уақыты"
+                ],
+                "Kyrgyz": [
+                    "ортолук убакыт"
+                ],
+                "Karakalpak": [
+                    "ortalıq uaqıt",
+                    "ortalıq beldeu uaqıtı"
+                ],
+                "Tatar": [
+                    "урта вакыт"
+                ],
+                "Bashkir": [
+                    "урта ваҡыт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "merkezi zaman",
+                    "merkezi saat"
+                ],
+                "Azerbaijani": [
+                    "mərkəzi vaxt"
+                ],
+                "Turkmen": [
+                    "merkezi wagt"
+                ],
+                "Uzbek": [
+                    "markaziy vaqt"
+                ],
+                "Uyghur": [
+                    "مەركىزىي ۋاقىت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзәк вакыт"
+                ],
+                "Bashkir": [
+                    "үҙәк ваҡыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرا قىسىم ۋاقتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борбордук убакыт"
+                ]
+            }
+        }
+    ]
+}

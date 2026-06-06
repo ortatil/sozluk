@@ -1,0 +1,77 @@
+{
+    "id": "i103496",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "european red elder",
+    "en_definition": "Eurasian shrub",
+    "tr_word": "kırmızı mürver",
+    "tr_definition": "Avrasya'ya özgü, kırmızı meyveleri olan çalı formunda bir bitki türü",
+    "ru_word": "бузина красная",
+    "ru_definition": "Евразийский кустарник с красными плодами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyzyl şalun",
+                    "gyzyl buzina"
+                ],
+                "Uzbek": [
+                    "qizil marjon",
+                    "qizil marjon daraxti",
+                    "qizil buzina"
+                ],
+                "Uyghur": [
+                    "قىزىل مەرۋايىتگۈل",
+                    "قىزىل مەرۋايىت دەرىخى"
+                ],
+                "Kazakh": [
+                    "қызыл аюбадам",
+                    "қызыл аюбүлдірген",
+                    "қызыл шетен"
+                ],
+                "Kyrgyz": [
+                    "кызыл аюу бадам",
+                    "кызыл шилби"
+                ],
+                "Karakalpak": [
+                    "kızıl ayuubadam",
+                    "kızıl marjan"
+                ],
+                "Tatar": [
+                    "кызыл мәет агачы",
+                    "кызыл бузина"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл буҙана",
+                    "ҡыҙыл мәрәүен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırmızı mürver"
+                ],
+                "Azerbaijani": [
+                    "qırmızı mürvər",
+                    "qırmızı gəndalaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bodur mürver"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaban mürveri"
+                ]
+            }
+        }
+    ]
+}

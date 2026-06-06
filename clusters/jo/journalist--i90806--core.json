@@ -1,0 +1,160 @@
+{
+    "id": "i90806",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "journalist",
+    "en_definition": "a writer for newspapers and magazines",
+    "tr_word": "gazeteci",
+    "tr_definition": "gazete ve dergiler için yazı yazan kimse",
+    "ru_word": "журналист",
+    "ru_definition": "человек, занимающийся литературно-публицистической деятельностью в журналах и газетах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "jurnalist"
+                ],
+                "Turkmen": [
+                    "žurnalist"
+                ],
+                "Uzbek": [
+                    "jurnalist"
+                ],
+                "Uyghur": [
+                    "ژۇرنالىست"
+                ],
+                "Kazakh": [
+                    "журналист"
+                ],
+                "Kyrgyz": [
+                    "журналист"
+                ],
+                "Karakalpak": [
+                    "jurnalist"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhabir"
+                ],
+                "Azerbaijani": [
+                    "müxbir"
+                ],
+                "Uzbek": [
+                    "muxbir"
+                ],
+                "Uyghur": [
+                    "مۇخبىر"
+                ],
+                "Tatar": [
+                    "мөхбир"
+                ],
+                "Bashkir": [
+                    "мөхбир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "habarçy"
+                ],
+                "Kyrgyz": [
+                    "кабарчы"
+                ],
+                "Karakalpak": [
+                    "xabarshı"
+                ],
+                "Tatar": [
+                    "хәбәрче"
+                ],
+                "Bashkir": [
+                    "хәбәрсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazar"
+                ],
+                "Azerbaijani": [
+                    "yazar"
+                ],
+                "Kazakh": [
+                    "жазушы"
+                ],
+                "Kyrgyz": [
+                    "жазуучу"
+                ],
+                "Bashkir": [
+                    "яҙыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gazeteci"
+                ],
+                "Azerbaijani": [
+                    "qəzetçi"
+                ],
+                "Turkmen": [
+                    "gazetçi"
+                ],
+                "Tatar": [
+                    "газетачы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qalamkash"
+                ],
+                "Uyghur": [
+                    "قەلەمكەش"
+                ],
+                "Kazakh": [
+                    "қаламгер"
+                ],
+                "Karakalpak": [
+                    "qalemkesh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тілші"
+                ],
+                "Kyrgyz": [
+                    "тилчи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muharrir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "maqalashı"
+                ]
+            }
+        }
+    ]
+}

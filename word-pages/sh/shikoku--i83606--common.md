@@ -1,0 +1,101 @@
+# Shikoku
+| Field | Detail |
+|---|---|
+| **ID** | i83606 |
+| **English** | shikoku |
+| **Type** | noun |
+| **Definition** | the smallest of the four main islands of Japan; to the south of Honshu and to the east of Kyushu; separated from Honshu by the Inland Sea; forested and mountainous |
+| **Source** | common |
+| **Ortatil** | sikoku |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sikoku** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| شىكوكۇ | şikoku |
+| **Kazakh** | |
+| Сикоку | sikoku |
+| Шикоку | şikoku |
+| **Kyrgyz** | |
+| Сикоку | sikoku |
+| **Tatar** | |
+| Сикоку | sikoku |
+| **Bashkir** | |
+| Сикоку | sikoku |
+
+```json
+{
+    "id": "i83606",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shikoku",
+    "en_definition": "the smallest of the four main islands of Japan; to the south of Honshu and to the east of Kyushu; separated from Honshu by the Inland Sea; forested and mountainous",
+    "tr_word": "Şikoku",
+    "tr_definition": "Japonya'nın dört ana adasının en küçüğü; Honşu'nun güneyinde ve Kyuşu'nun doğusunda yer alan, ormanlık ve dağlık bir ada.",
+    "ru_word": "Сикоку",
+    "ru_definition": "самый маленький из четырех главных островов Японии; расположен к югу от Хонсю и к востоку от Кюсю; покрыт лесами и горами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Şikoku",
+                    "Şikoku Adası"
+                ],
+                "Azerbaijani": [
+                    "Şikoku",
+                    "Şikoku adası"
+                ],
+                "Turkmen": [
+                    "Sikoku"
+                ],
+                "Uzbek": [
+                    "Sikoku",
+                    "Sikoku oroli"
+                ],
+                "Uyghur": [
+                    "شىكوكۇ",
+                    "شىكوكۇ ئارىلى"
+                ],
+                "Kazakh": [
+                    "Сикоку",
+                    "Шикоку"
+                ],
+                "Kyrgyz": [
+                    "Сикоку"
+                ],
+                "Karakalpak": [
+                    "Sikoku"
+                ],
+                "Tatar": [
+                    "Сикоку"
+                ],
+                "Bashkir": [
+                    "Сикоку"
+                ]
+            }
+        }
+    ]
+}
+```
+

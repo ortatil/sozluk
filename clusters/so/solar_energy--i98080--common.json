@@ -1,0 +1,87 @@
+{
+    "id": "i98080",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "solar energy",
+    "en_definition": "energy from the sun that is converted into thermal or electrical energy",
+    "tr_word": "güneş enerjisi",
+    "tr_definition": "güneşten gelen ve ısı veya elektrik enerjisine dönüştürülen enerji",
+    "ru_word": "солнечная энергия",
+    "ru_definition": "энергия солнца, преобразуемая в тепловую или электрическую энергию",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quyosh energiyasi",
+                    "quyosh quvvati"
+                ],
+                "Uyghur": [
+                    "قۇياش ئېنېرگىيەسى",
+                    "قۇياش كۈچى",
+                    "قۇياش نۇرى ئېنېرگىيەسى"
+                ],
+                "Tatar": [
+                    "кояш энергиясе",
+                    "кояш куәте"
+                ],
+                "Bashkir": [
+                    "ҡояш энергияһы",
+                    "ҡояш ҡеүәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güneş enerjisi",
+                    "güneş gücü"
+                ],
+                "Azerbaijani": [
+                    "günəş enerjisi",
+                    "günəş gücü"
+                ],
+                "Turkmen": [
+                    "gün energiýasy",
+                    "gün kuwwaty"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күн энергиясы"
+                ],
+                "Kyrgyz": [
+                    "күн энергиясы"
+                ],
+                "Karakalpak": [
+                    "kún energiyası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күн қуаты"
+                ],
+                "Kyrgyz": [
+                    "күн кубаты"
+                ],
+                "Karakalpak": [
+                    "kún quatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şemsi enerji"
+                ]
+            }
+        }
+    ]
+}

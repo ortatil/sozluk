@@ -1,0 +1,127 @@
+{
+    "id": "i2601",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "cloudy",
+    "en_definition": "full of or covered with clouds",
+    "tr_word": "bulutlu",
+    "tr_definition": "bulutlarla kaplı veya bulutlu olan hava durumu",
+    "ru_word": "облачный",
+    "ru_definition": "покрытый облаками, затянутый облаками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bulutlu",
+                    "puslu"
+                ],
+                "Azerbaijani": [
+                    "buludlu"
+                ],
+                "Turkmen": [
+                    "bulutly"
+                ],
+                "Uzbek": [
+                    "bulutli"
+                ],
+                "Uyghur": [
+                    "بۇلۇتلۇق"
+                ],
+                "Kazakh": [
+                    "бұлтты",
+                    "бұлттылау",
+                    "бұлыңғыр"
+                ],
+                "Kyrgyz": [
+                    "булуттуу"
+                ],
+                "Karakalpak": [
+                    "bұlttı",
+                    "bұltlı"
+                ],
+                "Tatar": [
+                    "болытлы"
+                ],
+                "Bashkir": [
+                    "болотло",
+                    "болот ҡаплаған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kapalı"
+                ],
+                "Azerbaijani": [
+                    "qapalı"
+                ],
+                "Uzbek": [
+                    "qoplangʻon"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tutqun"
+                ],
+                "Turkmen": [
+                    "tutuk"
+                ],
+                "Uyghur": [
+                    "تۇتۇق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тұманды"
+                ],
+                "Tatar": [
+                    "томанлы"
+                ],
+                "Bashkir": [
+                    "томанлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gök"
+                ],
+                "Tatar": [
+                    "күк йөзе ябык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "serbulut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бүркөө",
+                    "бүркөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aspan jabıq"
+                ]
+            }
+        }
+    ]
+}

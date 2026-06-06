@@ -1,0 +1,104 @@
+{
+    "id": "i84167",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "constantinople",
+    "en_definition": "the largest city and former capital of Turkey; rebuilt on the site of ancient Byzantium by Constantine I in the fourth century; renamed Constantinople by Constantine who made it the capital of the Byzantine Empire; now the seat of the Eastern Orthodox Church",
+    "tr_word": "Konstantinopolis",
+    "tr_definition": "Türkiye'nin en büyük şehri ve eski başkenti; dördüncü yüzyılda I. Konstantin tarafından antik Bizans sitesinde yeniden inşa edilen ve Bizans İmparatorluğu'nun başkenti yapılan şehir; günümüzde İstanbul olarak bilinir.",
+    "ru_word": "Константинополь",
+    "ru_definition": "Крупнейший город и бывшая столица Турции; перестроен на месте древнего Византия Константином I в IV веке; назван Константинополем Константином, который сделал его столицей Византийской империи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İstanbul",
+                    "Asitane"
+                ],
+                "Azerbaijani": [
+                    "İstanbul"
+                ],
+                "Turkmen": [
+                    "Ystambul"
+                ],
+                "Uzbek": [
+                    "Istanbul",
+                    "Islombul"
+                ],
+                "Uyghur": [
+                    "ئىستانبۇل"
+                ],
+                "Kazakh": [
+                    "Ыстамбұл",
+                    "Стамбұл"
+                ],
+                "Kyrgyz": [
+                    "Стамбул",
+                    "Ыстанбул"
+                ],
+                "Karakalpak": [
+                    "Ístambul",
+                    "Stambul"
+                ],
+                "Tatar": [
+                    "Истанбул",
+                    "Стамбул"
+                ],
+                "Bashkir": [
+                    "Истанбул",
+                    "Стамбул"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Konstantiniyye"
+                ],
+                "Azerbaijani": [
+                    "Konstantinopol"
+                ],
+                "Turkmen": [
+                    "Konstantinopol"
+                ],
+                "Uzbek": [
+                    "Qustantiniya"
+                ],
+                "Uyghur": [
+                    "قۇستەنتىنىيە"
+                ],
+                "Kazakh": [
+                    "Константинополь"
+                ],
+                "Kyrgyz": [
+                    "Константинополь"
+                ],
+                "Tatar": [
+                    "Константинополь"
+                ],
+                "Bashkir": [
+                    "Ҡустантиниә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Dersaadet"
+                ],
+                "Azerbaijani": [
+                    "Dərsəadət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Stambul"
+                ]
+            }
+        }
+    ]
+}

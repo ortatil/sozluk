@@ -1,0 +1,110 @@
+{
+    "id": "i66230",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ankle",
+    "en_definition": "a gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus",
+    "tr_word": "ayak bileği",
+    "tr_definition": "Bacak ile ayağın birleştiği bölge ve bu bölgedeki eklem.",
+    "ru_word": "лодыжка",
+    "ru_definition": "Сочленение стопы с голенью, образованное костями голени и таранной костью.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "topuk kemiği"
+                ],
+                "Azerbaijani": [
+                    "topuq"
+                ],
+                "Turkmen": [
+                    "topuk",
+                    "topuk bogny"
+                ],
+                "Uzbek": [
+                    "toʻpiq"
+                ],
+                "Kazakh": [
+                    "тобық"
+                ],
+                "Karakalpak": [
+                    "tobıq"
+                ],
+                "Tatar": [
+                    "тубык",
+                    "тубык башы"
+                ],
+                "Bashkir": [
+                    "тубыҡ",
+                    "тубыҡ быуыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayak bileği"
+                ],
+                "Azerbaijani": [
+                    "ayaq biləyi"
+                ],
+                "Kyrgyz": [
+                    "ашык"
+                ],
+                "Tatar": [
+                    "аяк буыны"
+                ],
+                "Bashkir": [
+                    "аяҡ быуыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "толарсақ"
+                ],
+                "Karakalpak": [
+                    "tolarsaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oshigʻich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "وشۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت بوغۇمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кызыл ашык"
+                ]
+            }
+        }
+    ]
+}

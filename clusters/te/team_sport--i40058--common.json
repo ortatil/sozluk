@@ -1,0 +1,121 @@
+{
+    "id": "i40058",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "team sport",
+    "en_definition": "a sport that involves competition between teams of players",
+    "tr_word": "takım sporu",
+    "tr_definition": "Oyuncuların oluşturduğu takımlar arasında rekabet içeren spor türü.",
+    "ru_word": "командный вид спорта",
+    "ru_definition": "Вид спорта, в котором соревнуются команды игроков.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "komanda oyunu"
+                ],
+                "Kazakh": [
+                    "командалық ойын"
+                ],
+                "Kyrgyz": [
+                    "командалык оюн"
+                ],
+                "Tatar": [
+                    "командалы уен",
+                    "командалы спорт"
+                ],
+                "Bashkir": [
+                    "команда уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "toparlaýyn oýun",
+                    "topar oýny"
+                ],
+                "Kazakh": [
+                    "топтық ойын"
+                ],
+                "Kyrgyz": [
+                    "топтук оюн"
+                ],
+                "Karakalpak": [
+                    "toparlıq sport"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "jamoaviy sport",
+                    "jamoa oʻyini"
+                ],
+                "Kyrgyz": [
+                    "жамааттык оюн"
+                ],
+                "Karakalpak": [
+                    "jámáátlik sport"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəstə oyunu"
+                ],
+                "Uzbek": [
+                    "dasta oʻyini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kollektiv idman növü"
+                ],
+                "Uyghur": [
+                    "كوللېكتىپ تەنھەرىكەت",
+                    "گۇرۇپپا تەنھەرىكىتى",
+                    "كوللېكتىپ تەنتەربىيە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төркемле уен"
+                ],
+                "Bashkir": [
+                    "төркөм уйыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takım sporu",
+                    "takım oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ekip oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұжымдық спорт"
+                ]
+            }
+        }
+    ]
+}

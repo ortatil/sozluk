@@ -1,0 +1,133 @@
+{
+    "id": "i54941",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hostel",
+    "en_definition": "inexpensive supervised lodging (especially for youths on bicycling trips)",
+    "tr_word": "pansiyon",
+    "tr_definition": "Genellikle gençlerin ve gezginlerin düşük ücretle konaklayabileceği, bazen ortak kullanım alanları olan konaklama yeri.",
+    "ru_word": "хостел",
+    "ru_definition": "Бюджетная гостиница, предоставляющая жильё на короткий срок, обычно с общими спальными местами и зонами отдыха.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "misafirhane"
+                ],
+                "Azerbaijani": [
+                    "müsafirxana"
+                ],
+                "Turkmen": [
+                    "musapyrhana"
+                ],
+                "Uzbek": [
+                    "musofirxona"
+                ],
+                "Uyghur": [
+                    "مۇساپىرخانا"
+                ],
+                "Kazakh": [
+                    "мүсәпірхана"
+                ],
+                "Kyrgyz": [
+                    "мусапыркана"
+                ],
+                "Karakalpak": [
+                    "músáppirxana"
+                ],
+                "Tatar": [
+                    "мөсафирханә"
+                ],
+                "Bashkir": [
+                    "мөсафирхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yataqxana"
+                ],
+                "Turkmen": [
+                    "ýatakhana"
+                ],
+                "Uzbek": [
+                    "yotoqxona"
+                ],
+                "Uyghur": [
+                    "ياتاخانا"
+                ],
+                "Kazakh": [
+                    "жатақхана"
+                ],
+                "Kyrgyz": [
+                    "жатакана"
+                ],
+                "Karakalpak": [
+                    "jataqxana"
+                ],
+                "Tatar": [
+                    "ятка"
+                ],
+                "Bashkir": [
+                    "ятакхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konaklama yeri"
+                ],
+                "Azerbaijani": [
+                    "qonaq evi"
+                ],
+                "Uyghur": [
+                    "قونالغۇ"
+                ],
+                "Kazakh": [
+                    "қонақжай"
+                ],
+                "Kyrgyz": [
+                    "конок үй"
+                ],
+                "Karakalpak": [
+                    "qonaqjay"
+                ],
+                "Tatar": [
+                    "кунакханә"
+                ],
+                "Bashkir": [
+                    "ҡунаҡхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "myhmanhana"
+                ],
+                "Uzbek": [
+                    "mehmonxona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yurt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pansiyon"
+                ]
+            }
+        }
+    ]
+}

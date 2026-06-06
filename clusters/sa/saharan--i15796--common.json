@@ -1,0 +1,89 @@
+{
+    "id": "i15796",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "saharan",
+    "en_definition": "of or relating to or located in the Sahara Desert",
+    "tr_word": "Sahra'ya özgü",
+    "tr_definition": "Sahra Çölü ile ilgili veya orada bulunan",
+    "ru_word": "сахарский",
+    "ru_definition": "относящийся к пустыне Сахара или находящийся в ней",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Sahra",
+                    "Sahra'ya ait",
+                    "Sahra ile ilgili"
+                ],
+                "Azerbaijani": [
+                    "Səhra",
+                    "Səhravi",
+                    "Səhraya aid"
+                ],
+                "Turkmen": [
+                    "sahra"
+                ],
+                "Uzbek": [
+                    "sahroi",
+                    "sahroga oid"
+                ],
+                "Kazakh": [
+                    "Сахаралық"
+                ],
+                "Kyrgyz": [
+                    "Сахарага таандык",
+                    "Сахарадагы"
+                ],
+                "Karakalpak": [
+                    "saxrayan"
+                ],
+                "Tatar": [
+                    "Сахра",
+                    "Сахрадагы",
+                    "Сахрага караган"
+                ],
+                "Bashkir": [
+                    "Сахара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çöllük",
+                    "çöl"
+                ],
+                "Uzbek": [
+                    "cho'lga oid"
+                ],
+                "Kazakh": [
+                    "шөлді",
+                    "шөлдік"
+                ],
+                "Kyrgyz": [
+                    "чөлдүү"
+                ],
+                "Karakalpak": [
+                    "shólstan",
+                    "shólge tiyisli"
+                ],
+                "Bashkir": [
+                    "сүл",
+                    "сүллек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ساهاراغا ئائىت",
+                    "ساهاراغا مۇناسىۋەتلىك",
+                    "ساهارا"
+                ]
+            }
+        }
+    ]
+}

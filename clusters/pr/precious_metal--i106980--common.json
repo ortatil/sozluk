@@ -1,0 +1,104 @@
+{
+    "id": "i106980",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "precious metal",
+    "en_definition": "any of the less common and valuable metals often used to make coins or jewelry",
+    "tr_word": "değerli metal",
+    "tr_definition": "madeni para veya mücevher yapımında kullanılan, nadir bulunan ve yüksek ekonomik değere sahip metal",
+    "ru_word": "драгоценный металл",
+    "ru_definition": "редкий и дорогостоящий металл, часто используемый для изготовления монет или ювелирных изделий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıymetli maden"
+                ],
+                "Azerbaijani": [
+                    "qiymətli metal"
+                ],
+                "Turkmen": [
+                    "gymmatbaha metal"
+                ],
+                "Uzbek": [
+                    "qimmatbaho metall"
+                ],
+                "Uyghur": [
+                    "قىممەتلىك مېتال"
+                ],
+                "Kyrgyz": [
+                    "кымбат баалуу металл"
+                ],
+                "Karakalpak": [
+                    "qımbat baǵalı metall"
+                ],
+                "Tatar": [
+                    "кыйммәтле металл"
+                ],
+                "Bashkir": [
+                    "ҡиммәтле металл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "has metal"
+                ],
+                "Turkmen": [
+                    "asyl metal"
+                ],
+                "Uzbek": [
+                    "asl metall"
+                ],
+                "Uyghur": [
+                    "ئېسىل مېتال"
+                ],
+                "Kazakh": [
+                    "асыл металл"
+                ],
+                "Kyrgyz": [
+                    "асыл металл"
+                ],
+                "Karakalpak": [
+                    "asıl metall"
+                ],
+                "Tatar": [
+                    "асыл металл"
+                ],
+                "Bashkir": [
+                    "аҫыл металл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "değerli maden"
+                ],
+                "Azerbaijani": [
+                    "dəyərli metal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəcib metal"
+                ],
+                "Uzbek": [
+                    "nodir metall"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бағалы металл"
+                ]
+            }
+        }
+    ]
+}

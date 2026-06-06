@@ -1,0 +1,73 @@
+{
+    "id": "i87908",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "german american",
+    "en_definition": "an American who was born in Germany or whose ancestors were German",
+    "tr_word": "Alman asıllı Amerikalı",
+    "tr_definition": "Almanya'da doğmuş veya ataları Alman olan Amerikalı kimse",
+    "ru_word": "американец немецкого происхождения",
+    "ru_definition": "американец, родившийся в Германии или имеющий немецких предков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nemes asylly amerikan",
+                    "nemes asylly amerika raýaty"
+                ],
+                "Uzbek": [
+                    "nemis aslli amerikalik"
+                ],
+                "Kazakh": [
+                    "неміс текті американдық",
+                    "неміс текті америкалық"
+                ],
+                "Kyrgyz": [
+                    "немис тектүү америкалык",
+                    "немис америкалык"
+                ],
+                "Karakalpak": [
+                    "nemis tegindegi amerikalı",
+                    "nemis amerikalı"
+                ],
+                "Bashkir": [
+                    "немец сығышлы америкалы",
+                    "немец тамырлы америкалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Alman asıllı Amerikalı",
+                    "Alman kökenli Amerikalı"
+                ],
+                "Azerbaijani": [
+                    "alman əsilli amerikalı",
+                    "alman mənşəli amerikalı"
+                ],
+                "Tatar": [
+                    "алман америкалы",
+                    "алман чыгышлы америкалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kelib chiqishi nemis bo'lgan amerikalik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گېرمانىيەلىك ئامېرىكىلىق",
+                    "گېرمان ئەسىللىق ئامېرىكىلىق"
+                ]
+            }
+        }
+    ]
+}

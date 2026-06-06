@@ -1,0 +1,114 @@
+# Bird family
+| Field | Detail |
+|---|---|
+| **ID** | i43207 |
+| **English** | bird family |
+| **Type** | noun |
+| **Definition** | a family of warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings |
+| **Source** | common |
+| **Ortatil** | kuşlar |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kuşlar** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.77** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| куштар | kuştar |
+| канаттуулар | kanattuular |
+| **Tatar** | |
+| кошлар | koşlar |
+
+```json
+{
+    "id": "i43207",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bird family",
+    "en_definition": "a family of warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings",
+    "tr_word": "kuş familyası",
+    "tr_definition": "tüyleri olan ve ön üyeleri kanat şeklinde gelişmiş, sıcakkanlı, yumurtlayan omurgalılar ailesi",
+    "ru_word": "семейство птиц",
+    "ru_definition": "семейство теплокровных яйцекладущих позвоночных, характеризующихся наличием перьев и передних конечностей, видоизмененных в крылья",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuşlar",
+                    "kuş familyası",
+                    "kuş türleri"
+                ],
+                "Azerbaijani": [
+                    "quşlar fəsiləsi",
+                    "quşlar ailəsi",
+                    "quşlar nəsli"
+                ],
+                "Turkmen": [
+                    "guşlar",
+                    "guşlar maşgalasy",
+                    "guşlar kowumy"
+                ],
+                "Uzbek": [
+                    "qushlar oilasi",
+                    "qushlar turkumi"
+                ],
+                "Uyghur": [
+                    "قۇشلار ئائىلىسى",
+                    "قۇشلار تۈركۈمى"
+                ],
+                "Kazakh": [
+                    "құстар тұқымдасы",
+                    "құс тегі",
+                    "құс әулеті"
+                ],
+                "Kyrgyz": [
+                    "куштар",
+                    "куш тукуму"
+                ],
+                "Karakalpak": [
+                    "quslar",
+                    "quslar tuqımı",
+                    "quslar toparı"
+                ],
+                "Tatar": [
+                    "кошлар",
+                    "кошлар нәселе",
+                    "кошлар гаиләсе"
+                ],
+                "Bashkir": [
+                    "ҡоштар ғаиләһе",
+                    "ҡоштар нәҫеле",
+                    "ҡоштар заты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "канаттуулар"
+                ]
+            }
+        }
+    ]
+}
+```
+

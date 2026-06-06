@@ -1,0 +1,105 @@
+{
+    "id": "i80664",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dental school",
+    "en_definition": "a graduate school offering study leading to degrees in dentistry",
+    "tr_word": "diş hekimliği fakültesi",
+    "tr_definition": "diş hekimliği alanında derece veren ve bu alanda eğitim sunan yükseköğretim kurumu",
+    "ru_word": "стоматологический факультет",
+    "ru_definition": "высшее учебное заведение или подразделение университета, готовящее специалистов в области стоматологии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diş hekimliği fakültesi",
+                    "dişçilik okulu",
+                    "diş hekimliği mektebi"
+                ],
+                "Azerbaijani": [
+                    "diş həkimliyi fakültəsi"
+                ],
+                "Uzbek": [
+                    "tish shifokorligi maktabi",
+                    "tish tabobati kulliyoti"
+                ],
+                "Uyghur": [
+                    "چىش تېبابىتى فاكۇلتېتى"
+                ],
+                "Kazakh": [
+                    "тіс дәрігерлері мектебі"
+                ],
+                "Tatar": [
+                    "теш табиблары мәктәбе"
+                ],
+                "Bashkir": [
+                    "теш табиптары училищеһы",
+                    "теш табиптары мәктәбе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "stomatologiya fakültəsi",
+                    "stomatologiya məktəbi"
+                ],
+                "Turkmen": [
+                    "stomatologiýa fakulteti"
+                ],
+                "Uzbek": [
+                    "stomatologiya fakulteti"
+                ],
+                "Kazakh": [
+                    "стоматология факультеті"
+                ],
+                "Kyrgyz": [
+                    "стоматология факультети"
+                ],
+                "Karakalpak": [
+                    "stomatologiya fakulteti"
+                ],
+                "Tatar": [
+                    "стоматология факультеты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тіс емдеу факультеті"
+                ],
+                "Karakalpak": [
+                    "tis emleo fakulteti"
+                ],
+                "Tatar": [
+                    "теш дәвалау факультеты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "diş lukmançylygy bölümi"
+                ],
+                "Uyghur": [
+                    "چىش دوختۇرلۇق مەكتىپى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چىش دوختۇرلۇق ئىنستىتۇتى"
+                ],
+                "Kyrgyz": [
+                    "тиш дарылоо факультети",
+                    "тиш дарыгерлерин даярдоочу окуу жайы"
+                ]
+            }
+        }
+    ]
+}

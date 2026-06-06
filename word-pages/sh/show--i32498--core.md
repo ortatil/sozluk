@@ -1,0 +1,270 @@
+# Show
+| Field | Detail |
+|---|---|
+| **ID** | i32498 |
+| **English** | show |
+| **Type** | verb |
+| **Definition** | give an exhibition of to an interested audience |
+| **Source** | core |
+| **Ortatil** | ḳörsätmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḳörsätmäk** | **tanıtmaq** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 0.33 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.60 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **4** | **1.43** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كۆرسەتمەك | körsätmäk |
+| ئىسپاتلىماق | ispatlimaq |
+| **Kazakh** | |
+| көрсету | körsetu |
+| таныстыру | tanıstıru |
+| ұсыну | usınu |
+| **Kyrgyz** | |
+| көрсөтүү | körsötüü |
+| ашкерелөө | aşkerelöö |
+| далилдөө | dalildöö |
+| **Tatar** | |
+| күрсәтү | kürsätü |
+| таныту | tanıtu |
+| аңлату | añlatu |
+| **Bashkir** | |
+| күрһәтеү | kürhäteü |
+| таныштырыу | tanıştırıu |
+| аңлатыу | añlatıu |
+
+```json
+{
+    "id": "i32498",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "show",
+    "en_definition": "give an exhibition of to an interested audience",
+    "tr_word": "göstermek",
+    "tr_definition": "bir şeyi birinin görmesini sağlamak veya bir topluluğa sergilemek",
+    "ru_word": "показывать",
+    "ru_definition": "давать возможность увидеть что-либо, представлять вниманию аудитории",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göstermek"
+                ],
+                "Azerbaijani": [
+                    "göstərmək"
+                ],
+                "Turkmen": [
+                    "görkezmek"
+                ],
+                "Uzbek": [
+                    "koʻrsatmoq"
+                ],
+                "Uyghur": [
+                    "كۆرسەتمەك"
+                ],
+                "Kazakh": [
+                    "көрсету"
+                ],
+                "Kyrgyz": [
+                    "көрсөтүү"
+                ],
+                "Karakalpak": [
+                    "kórsetio"
+                ],
+                "Tatar": [
+                    "күрсәтү"
+                ],
+                "Bashkir": [
+                    "күрһәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "beýan etmek"
+                ],
+                "Uzbek": [
+                    "bayon qilmoq"
+                ],
+                "Uyghur": [
+                    "باياق قىلماق"
+                ],
+                "Kyrgyz": [
+                    "баяндап берүү"
+                ],
+                "Karakalpak": [
+                    "bayanlao"
+                ],
+                "Tatar": [
+                    "бәян итү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tanıtmak"
+                ],
+                "Kazakh": [
+                    "таныстыру"
+                ],
+                "Tatar": [
+                    "таныту"
+                ],
+                "Bashkir": [
+                    "таныштырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nümayiş etdirmək"
+                ],
+                "Uzbek": [
+                    "namoyish qilmoq",
+                    "namoyish etmoq"
+                ],
+                "Uyghur": [
+                    "نامايىش قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ispat etmek"
+                ],
+                "Uzbek": [
+                    "isbotlamoq"
+                ],
+                "Uyghur": [
+                    "ئىسپاتلىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əyan etmək"
+                ],
+                "Turkmen": [
+                    "aýan etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аңлату"
+                ],
+                "Bashkir": [
+                    "аңлатыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "subut etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sergilemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arz etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təqdim etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "паш ету"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұсыну"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ашкерелөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "далилдөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "túsindirio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aydınlastırıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "асып биреү"
+                ]
+            }
+        }
+    ]
+}
+```
+

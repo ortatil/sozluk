@@ -1,0 +1,71 @@
+{
+    "id": "i67079",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blood test",
+    "en_definition": "a serologic analysis of a sample of blood",
+    "tr_word": "kan tahlili",
+    "tr_definition": "bir kan örneğinin serolojik analizi",
+    "ru_word": "анализ крови",
+    "ru_definition": "серологический анализ образца крови",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kan tahlili",
+                    "kan tetkiki",
+                    "kan analizi",
+                    "kan muayenesi"
+                ],
+                "Azerbaijani": [
+                    "qan analizi",
+                    "qan müayinəsi",
+                    "qan tahlili"
+                ],
+                "Turkmen": [
+                    "gan barlagy",
+                    "gan derňewi",
+                    "gan analizi"
+                ],
+                "Uzbek": [
+                    "qon tahlili",
+                    "qon tekshiruvi"
+                ],
+                "Uyghur": [
+                    "قان تەكشۈرۈش",
+                    "قان تەھلىلى"
+                ],
+                "Kazakh": [
+                    "қан талдауы",
+                    "қан сынамасы"
+                ],
+                "Kyrgyz": [
+                    "кан анализи",
+                    "канды текшерүү"
+                ],
+                "Karakalpak": [
+                    "qan analizi",
+                    "qan tekserioi"
+                ],
+                "Tatar": [
+                    "кан анализы",
+                    "кан тикшерү"
+                ],
+                "Bashkir": [
+                    "ҡан анализы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қан сараптамасы"
+                ],
+                "Bashkir": [
+                    "ҡан тикшереүе"
+                ]
+            }
+        }
+    ]
+}

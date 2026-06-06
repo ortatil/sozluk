@@ -1,0 +1,182 @@
+{
+    "id": "i68423",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "statistic",
+    "en_definition": "a datum that can be represented numerically",
+    "tr_word": "istatistik",
+    "tr_definition": "sayısal olarak ifade edilebilen veri",
+    "ru_word": "статистический показатель",
+    "ru_definition": "данные, которые могут быть представлены в числовом виде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "göstərici"
+                ],
+                "Turkmen": [
+                    "görkeziji"
+                ],
+                "Uzbek": [
+                    "koʻrsatkich"
+                ],
+                "Kazakh": [
+                    "көрсеткіш"
+                ],
+                "Kyrgyz": [
+                    "көрсөткүч"
+                ],
+                "Karakalpak": [
+                    "kórsetkish"
+                ],
+                "Tatar": [
+                    "күрсәткеч"
+                ],
+                "Bashkir": [
+                    "күрһәткес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "san"
+                ],
+                "Kazakh": [
+                    "сан"
+                ],
+                "Kyrgyz": [
+                    "сан"
+                ],
+                "Tatar": [
+                    "сан"
+                ],
+                "Bashkir": [
+                    "һан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "maglumat"
+                ],
+                "Uzbek": [
+                    "maʼlumot"
+                ],
+                "Kazakh": [
+                    "мәлімет"
+                ],
+                "Kyrgyz": [
+                    "маалымат"
+                ],
+                "Bashkir": [
+                    "мәғлүмәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hasabat"
+                ],
+                "Kyrgyz": [
+                    "эсеп"
+                ],
+                "Tatar": [
+                    "хисап"
+                ],
+                "Bashkir": [
+                    "хисап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rakam"
+                ],
+                "Azerbaijani": [
+                    "rəqəm"
+                ],
+                "Uzbek": [
+                    "raqam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sayım"
+                ],
+                "Azerbaijani": [
+                    "say"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istatistik"
+                ],
+                "Uyghur": [
+                    "ستاتىستىكا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "miqdar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дерек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sayısal veri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رەقەملىك مەلۇمات"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سىتاتىستىكىلىق سان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sanlı maǵlıumat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "esap-sanaq"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "id": "i94185",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "working girl",
+    "en_definition": "a young woman who is employed",
+    "tr_word": "çalışan genç kadın",
+    "tr_definition": "bir işte çalışan genç kadın",
+    "ru_word": "работающая девушка",
+    "ru_definition": "молодая женщина, имеющая работу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iş kadını"
+                ],
+                "Azerbaijani": [
+                    "işçi qız"
+                ],
+                "Turkmen": [
+                    "işçi gyz"
+                ],
+                "Uzbek": [
+                    "ishchi qiz"
+                ],
+                "Uyghur": [
+                    "ئىشچى قىز",
+                    "ئىشلىگۈچى قىز"
+                ],
+                "Kyrgyz": [
+                    "иштеген кыз"
+                ],
+                "Tatar": [
+                    "эшче кыз"
+                ],
+                "Bashkir": [
+                    "эшсе ҡыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "zəhmətkeş qız"
+                ],
+                "Turkmen": [
+                    "zähmetkeş gyz"
+                ],
+                "Uzbek": [
+                    "mehnatkash qiz"
+                ],
+                "Tatar": [
+                    "хезмәткәр кыз"
+                ],
+                "Bashkir": [
+                    "хеҙмәткәр ҡыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xizmatchi qiz"
+                ],
+                "Uyghur": [
+                    "خىزمەتچى قىز"
+                ],
+                "Kazakh": [
+                    "қызметкер қыз"
+                ],
+                "Kyrgyz": [
+                    "кызматкер кыз"
+                ],
+                "Karakalpak": [
+                    "xızmetker qız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalışan kadın"
+                ],
+                "Azerbaijani": [
+                    "çalışan qız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "emekçi kadın"
+                ],
+                "Kyrgyz": [
+                    "эмгекчил кыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмысшы қыз"
+                ],
+                "Karakalpak": [
+                    "jumısshı qız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еңбекші қыз"
+                ]
+            }
+        }
+    ]
+}

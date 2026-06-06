@@ -1,0 +1,82 @@
+{
+    "id": "i93615",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "test pilot",
+    "en_definition": "a pilot hired to fly experimental airplanes through maneuvers designed to test them",
+    "tr_word": "test pilotu",
+    "tr_definition": "yeni tasarlanmış veya modifiye edilmiş hava araçlarını, performanslarını ve güvenliklerini değerlendirmek amacıyla uçuran uzman pilot",
+    "ru_word": "лётчик-испытатель",
+    "ru_definition": "пилот, занимающийся испытаниями новой авиационной техники или проверкой самолётов после ремонта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sınaq təyyarəçisi",
+                    "sınaqçı pilot"
+                ],
+                "Turkmen": [
+                    "synag uçarmany",
+                    "synagçy uçarman"
+                ],
+                "Uzbek": [
+                    "sinovchi uchuvchi"
+                ],
+                "Uyghur": [
+                    "سىناق ئۇچقۇچىسى"
+                ],
+                "Kazakh": [
+                    "сынақшы-ұшқыш",
+                    "сынаушы-ұшқыш",
+                    "сынақшы-қанатты"
+                ],
+                "Kyrgyz": [
+                    "сыноочу учкуч",
+                    "сыноочу учман"
+                ],
+                "Karakalpak": [
+                    "sınaushı-ushqısh",
+                    "sınaqshı-ushqısh"
+                ],
+                "Tatar": [
+                    "сынаучы очучы",
+                    "сынаучы пилот"
+                ],
+                "Bashkir": [
+                    "һынаусы-осоусы",
+                    "һынаусы-пилот"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "test pilotu",
+                    "tecrübe pilotu"
+                ],
+                "Uzbek": [
+                    "tajriba uchuvchisi"
+                ],
+                "Uyghur": [
+                    "تەجرىبە ئۇچقۇچىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deneme pilotu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tayyora sinovchisi"
+                ]
+            }
+        }
+    ]
+}

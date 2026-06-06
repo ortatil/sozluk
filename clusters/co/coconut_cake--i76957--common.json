@@ -1,0 +1,65 @@
+{
+    "id": "i76957",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coconut cake",
+    "en_definition": "cake containing shredded coconut in batter and frosting",
+    "tr_word": "hindistan cevizli kek",
+    "tr_definition": "hamurunda ve kremasında rendelenmiş hindistan cevizi bulunan kek",
+    "ru_word": "кокосовый торт",
+    "ru_definition": "торт, содержащий кокосовую стружку в тесте и глазури",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kokoslu tort",
+                    "kokoslu piroq"
+                ],
+                "Turkmen": [
+                    "kokosly tort",
+                    "kokosly süýjülik",
+                    "kokosly çörek"
+                ],
+                "Uzbek": [
+                    "kokosli tort",
+                    "kokosli pishiriq"
+                ],
+                "Uyghur": [
+                    "كوكۇس تورتى"
+                ],
+                "Kazakh": [
+                    "кокос бәліші",
+                    "кокос торты"
+                ],
+                "Kyrgyz": [
+                    "кокос торту",
+                    "кокос пирогу"
+                ],
+                "Karakalpak": [
+                    "kokos tortı",
+                    "kokos bálish"
+                ],
+                "Tatar": [
+                    "кокос бәлеше",
+                    "кокос торты"
+                ],
+                "Bashkir": [
+                    "кокос бәлеше",
+                    "кокос торты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hindistan cevizli kek",
+                    "hindistan cevizli pasta"
+                ],
+                "Uyghur": [
+                    "ھىندىستان ياڭىقى تورتى"
+                ]
+            }
+        }
+    ]
+}

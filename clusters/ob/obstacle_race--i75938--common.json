@@ -1,0 +1,90 @@
+{
+    "id": "i75938",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "obstacle race",
+    "en_definition": "a race in which competitors must negotiate obstacles",
+    "tr_word": "engelli koşu",
+    "tr_definition": "yarışmacıların parkur boyunca çeşitli engelleri aşmak zorunda olduğu bir yarış türü",
+    "ru_word": "бег с препятствиями",
+    "ru_definition": "вид соревнований, в которых участники должны преодолевать различные барьеры на дистанции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pökgerişli ylgaw",
+                    "böwetli ylgaw",
+                    "böwetli ýaryş"
+                ],
+                "Kyrgyz": [
+                    "бөгөттөр менен жарыш"
+                ],
+                "Karakalpak": [
+                    "bógetler asha jarıs",
+                    "bógetli jarıs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'siqli yugurish",
+                    "to'siqlar osha yugurish",
+                    "to'siqli poyga"
+                ],
+                "Uyghur": [
+                    "توسالغۇلاردىن ئۆتۈش مۇسابىقىسى",
+                    "توسالغۇلۇق يۈگۈرۈش",
+                    "توسالغۇلۇق مۇسابىقە"
+                ],
+                "Kyrgyz": [
+                    "тооскоолдуктар менен жарыш",
+                    "тооскоолдуктуу жарыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "engelli koşu",
+                    "engelli yarış"
+                ],
+                "Azerbaijani": [
+                    "maneəli qaçış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кедергілер арқылы жүгіру",
+                    "кедергілі жарыс"
+                ],
+                "Karakalpak": [
+                    "kesentler asha jarıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "киртәле йөгереш",
+                    "киртәле ярыш"
+                ],
+                "Bashkir": [
+                    "кәртәле йүгереү",
+                    "кәртәләр аша йүгереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maneə yarışı"
+                ]
+            }
+        }
+    ]
+}

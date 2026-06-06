@@ -1,0 +1,166 @@
+# Transportation system
+| Field | Detail |
+|---|---|
+| **ID** | i60486 |
+| **English** | transportation system |
+| **Type** | noun |
+| **Definition** | a facility consisting of the means and equipment necessary for the movement of passengers or goods |
+| **Source** | common |
+| **Ortatil** | kattam |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| каттам | kattam |
+| катнаш | katnaş |
+
+```json
+{
+    "id": "i60486",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "transportation system",
+    "en_definition": "a facility consisting of the means and equipment necessary for the movement of passengers or goods",
+    "tr_word": "ulaşım sistemi",
+    "tr_definition": "yolcuların veya malların taşınması için gerekli araç ve ekipmanlardan oluşan tesis",
+    "ru_word": "транспортная система",
+    "ru_definition": "комплекс технических средств и оборудования, необходимых для перемещения пассажиров или грузов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gatnaw ulgamy"
+                ],
+                "Uzbek": [
+                    "qatnov tizimi"
+                ],
+                "Uyghur": [
+                    "قاتناش سىستېمىسى",
+                    "قاتناش-توشۇش سىستېمىسى"
+                ],
+                "Kazakh": [
+                    "қатынас жолдары"
+                ],
+                "Kyrgyz": [
+                    "каттам",
+                    "катнаш"
+                ],
+                "Karakalpak": [
+                    "qatnasıq"
+                ],
+                "Tatar": [
+                    "катнаш юллары"
+                ],
+                "Bashkir": [
+                    "ҡатнаш юлдары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "transport tizimi",
+                    "transport tarmogʻi"
+                ],
+                "Uyghur": [
+                    "ترانسپورت سىستېمىسى"
+                ],
+                "Karakalpak": [
+                    "transport sisteması"
+                ],
+                "Tatar": [
+                    "транспорт системасы",
+                    "транспорт челтәре"
+                ],
+                "Bashkir": [
+                    "транспорт системаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ulaşım sistemi",
+                    "ulaşım ağı"
+                ],
+                "Turkmen": [
+                    "ulag ulgamy",
+                    "ulag-aragatnaşyk ulgamy"
+                ],
+                "Kyrgyz": [
+                    "жол катнашы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşımacılık düzeni"
+                ],
+                "Azerbaijani": [
+                    "daşımaçılıq"
+                ],
+                "Kazakh": [
+                    "тасымал жүйесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nakliye sistemi"
+                ],
+                "Azerbaijani": [
+                    "nəqliyyat sistemi",
+                    "nəqliyyat şəbəkəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aloqa yoʻllari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік жүйесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа каттамы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jol-qatnasıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәйләнеш юлдары"
+                ]
+            }
+        }
+    ]
+}
+```
+

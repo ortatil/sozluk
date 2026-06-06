@@ -1,0 +1,112 @@
+{
+    "id": "i78563",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ham and eggs",
+    "en_definition": "eggs (scrambled or fried) served with ham",
+    "tr_word": "pastırmalı yumurta",
+    "tr_definition": "pastırma veya jambon ile birlikte servis edilen sahanda veya çırpılmış yumurta",
+    "ru_word": "яичница с ветчиной",
+    "ru_definition": "блюдо из жареных яиц, подаваемое вместе с ломтиками ветчины",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kakmaçly ýumurtga"
+                ],
+                "Uyghur": [
+                    "قاقلانغان گۆش ۋە تۇخۇم"
+                ],
+                "Tatar": [
+                    "какырылган йомырка"
+                ],
+                "Bashkir": [
+                    "ҡаҡланған итле йомортҡа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жұмыртқа мен сүр ет",
+                    "сүр ет қосылған жұмыртқа"
+                ],
+                "Kyrgyz": [
+                    "жумуртка жана эт"
+                ],
+                "Karakalpak": [
+                    "jumırtqa hám et"
+                ],
+                "Tatar": [
+                    "йомыркалы ит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ətli yumurta"
+                ],
+                "Turkmen": [
+                    "doňuz etli ýumurtga"
+                ],
+                "Bashkir": [
+                    "итле йомортҡа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qovurilgan tuxum va go'sht"
+                ],
+                "Kyrgyz": [
+                    "куурулган жумуртка жана эт"
+                ],
+                "Karakalpak": [
+                    "quoırılǵan jumırtqa hám et"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pastırmalı yumurta"
+                ],
+                "Azerbaijani": [
+                    "yumurta-pastırma",
+                    "pastırmalı yumurta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuxum va go'sht",
+                    "go'shtli tuxum"
+                ],
+                "Uyghur": [
+                    "تۇخۇم بىلەن قاقلانغان گۆش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "jambonlu yumurta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "итле йомырка"
+                ]
+            }
+        }
+    ]
+}

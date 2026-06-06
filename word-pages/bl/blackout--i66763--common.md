@@ -1,0 +1,222 @@
+# Blackout
+| Field | Detail |
+|---|---|
+| **ID** | i66763 |
+| **English** | blackout |
+| **Type** | noun |
+| **Definition** | a momentary loss of consciousness |
+| **Source** | common |
+| **Ortatil** | behişlik |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **behişlik** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بىھوشلۇق | bihoşluq |
+| **Kazakh** | |
+| талма | talma |
+| талмау | talmau |
+| **Tatar** | |
+| һушсызлык | huşsızlık |
+| **Bashkir** | |
+| талсығыу | talsığıu |
+
+```json
+{
+    "id": "i66763",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blackout",
+    "en_definition": "a momentary loss of consciousness",
+    "tr_word": "baygınlık",
+    "tr_definition": "geçici bir bilinç kaybı",
+    "ru_word": "обморок",
+    "ru_definition": "кратковременная потеря сознания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilinç kaybı"
+                ],
+                "Azerbaijani": [
+                    "bihişlik"
+                ],
+                "Turkmen": [
+                    "bihoşluk"
+                ],
+                "Uzbek": [
+                    "behushlik"
+                ],
+                "Uyghur": [
+                    "بىھوشلۇق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "huşsuzluq"
+                ],
+                "Turkmen": [
+                    "huşdan gitme"
+                ],
+                "Uzbek": [
+                    "hushdan ketish"
+                ],
+                "Uyghur": [
+                    "ھوشىدىن كېتىش"
+                ],
+                "Tatar": [
+                    "һушсызлык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "естен тану",
+                    "есінен адасу"
+                ],
+                "Kyrgyz": [
+                    "эстен тануу",
+                    "эсин жоготуу",
+                    "эстен кетүү"
+                ],
+                "Karakalpak": [
+                    "esten tanıo",
+                    "esinen aoıo"
+                ],
+                "Bashkir": [
+                    "иҫтән яҙыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "baygınlık"
+                ],
+                "Azerbaijani": [
+                    "bayılma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "özündəngetmə"
+                ],
+                "Turkmen": [
+                    "özünden gitme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yanylma"
+                ],
+                "Kazakh": [
+                    "талма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەڭپۇڭلۇقنى يوقىتىش"
+                ],
+                "Tatar": [
+                    "танудан язу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "талмау"
+                ],
+                "Bashkir": [
+                    "талсығыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аң югалту"
+                ],
+                "Bashkir": [
+                    "аң юғалтыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendinden geçme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şuur kaybı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'ashlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko'z tinishi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "акылдан тануу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "hoshtan ketio"
+                ]
+            }
+        }
+    ]
+}
+```
+

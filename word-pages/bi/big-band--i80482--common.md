@@ -1,0 +1,153 @@
+# Big band
+| Field | Detail |
+|---|---|
+| **ID** | i80482 |
+| **English** | big band |
+| **Type** | noun |
+| **Definition** | a large dance or jazz band usually featuring improvised solos by lead musicians |
+| **Source** | common |
+| **Ortatil** | ansambl |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i80482",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "big band",
+    "en_definition": "a large dance or jazz band usually featuring improvised solos by lead musicians",
+    "tr_word": "big band",
+    "tr_definition": "Genellikle caz veya dans müziği çalan, üflemeli ve ritim enstrümanlarından oluşan büyük orkestra.",
+    "ru_word": "биг-бэнд",
+    "ru_definition": "Большой джазовый оркестр, состоящий из нескольких инструментальных групп и исполняющий сложную музыку с элементами импровизации.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "caz orkestrası"
+                ],
+                "Azerbaijani": [
+                    "caz orkestri"
+                ],
+                "Karakalpak": [
+                    "saz toparı"
+                ],
+                "Tatar": [
+                    "джаз оркестры"
+                ],
+                "Bashkir": [
+                    "джаз оркестры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ ئوركېستىر"
+                ],
+                "Kyrgyz": [
+                    "чоң оркестр"
+                ],
+                "Tatar": [
+                    "зур оркестр"
+                ],
+                "Bashkir": [
+                    "ҙур оркестр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uly orkestr",
+                    "uly ansambl",
+                    "uly saz topary"
+                ],
+                "Kazakh": [
+                    "үлкен оркестр",
+                    "үлкен ансамбль",
+                    "үлкен топ"
+                ],
+                "Karakalpak": [
+                    "úlken orkestr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyük orkestra",
+                    "büyük topluluk"
+                ],
+                "Azerbaijani": [
+                    "böyük orkestr",
+                    "böyük ansambl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ مۇزىكا ئۆمىكى"
+                ],
+                "Kyrgyz": [
+                    "чоң топ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ تىپتىكى ئوركېستىر"
+                ],
+                "Kyrgyz": [
+                    "чоң жамаат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta orkestr",
+                    "katta ansambl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "musiqiy jamoa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ansambl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зур ансамбль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "эстрада оркестры"
+                ]
+            }
+        }
+    ]
+}
+```
+

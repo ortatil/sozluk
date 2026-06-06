@@ -1,0 +1,130 @@
+{
+    "id": "i79585",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "law firm",
+    "en_definition": "a firm of lawyers",
+    "tr_word": "hukuk bürosu",
+    "tr_definition": "avukatların bir araya gelerek oluşturduğu şirket veya çalışma yeri",
+    "ru_word": "юридическая фирма",
+    "ru_definition": "организация, состоящая из юристов для оказания юридических услуг",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hukuk bürosu",
+                    "hukuk ofisi"
+                ],
+                "Azerbaijani": [
+                    "hüquq şirkəti",
+                    "hüquq bürosu"
+                ],
+                "Turkmen": [
+                    "hukuk edarasy",
+                    "hukuk kärhanasy",
+                    "hukukçylar birleşigi",
+                    "hukuk maslahathanasy"
+                ],
+                "Uzbek": [
+                    "huquqiy maslahatxona"
+                ],
+                "Karakalpak": [
+                    "xuqıqlıq járdemxana"
+                ],
+                "Tatar": [
+                    "хокук ширкәте",
+                    "хокук идарәсе"
+                ],
+                "Bashkir": [
+                    "хоҡуҡи идара",
+                    "хоҡуҡи үҙәк",
+                    "хоҡуҡи ойошма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "avukatlık bürosu",
+                    "avukatlık ortaklığı"
+                ],
+                "Uyghur": [
+                    "ئادۋوكاتلىق ئورنى",
+                    "ئادۋوكاتلىق ئىشخانىسى"
+                ],
+                "Kazakh": [
+                    "адвокаттар алқасы"
+                ],
+                "Kyrgyz": [
+                    "адвокаттык кеңсе"
+                ],
+                "Karakalpak": [
+                    "adwokatlıq mekemesi",
+                    "adwokatlıq byurosı"
+                ],
+                "Tatar": [
+                    "адвокатлар ширкәте"
+                ],
+                "Bashkir": [
+                    "адвокаттар коллегияһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vəkil bürosu",
+                    "vəkillər kollegiyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "advokatlik idorasi",
+                    "advokatlik firmasi",
+                    "advokatlar hay'ati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قانۇن مەسلىھەتخانىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "заң кеңсесі",
+                    "заңгерлік кеңсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құқықтық мекеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "укуктук мекеме",
+                    "укуктук борбор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "юридикалык ишкана"
+                ]
+            }
+        }
+    ]
+}

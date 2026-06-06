@@ -1,0 +1,86 @@
+{
+    "id": "i89465",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dental assistant",
+    "en_definition": "an assistant to a dentist",
+    "tr_word": "diş hekimi asistanı",
+    "tr_definition": "bir diş hekimine yardımcı olan görevli",
+    "ru_word": "ассистент стоматолога",
+    "ru_definition": "помощник стоматолога",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diş hekimi asistanı"
+                ],
+                "Azerbaijani": [
+                    "diş həkimi köməkçisi",
+                    "diş tibb bacısı"
+                ],
+                "Turkmen": [
+                    "diş lukmanynyň kömekçisi",
+                    "diş tebibiniň kömekçisi"
+                ],
+                "Uzbek": [
+                    "tish shifokori yordamchisi",
+                    "tish tabibi ko'makchisi"
+                ],
+                "Uyghur": [
+                    "چىش دوختۇرى ياردەمچىسى",
+                    "چىش دوختۇرى ياردەمچى خادىمى"
+                ],
+                "Kazakh": [
+                    "тіс дәрігерінің көмекшісі"
+                ],
+                "Kyrgyz": [
+                    "тиш догдурунун жардамчысы",
+                    "тиш дарыгеринин жардамчысы"
+                ],
+                "Karakalpak": [
+                    "tis shıpakeriniń járdemshisi",
+                    "tis doktorınıń járdemshisi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dişçi yardımcısı",
+                    "diş klinik yardımcısı"
+                ],
+                "Tatar": [
+                    "теш табибы ярдәмчесе",
+                    "теш табибы ассистенты",
+                    "теш табибы хезмәткәре"
+                ],
+                "Bashkir": [
+                    "теш табибы ярҙамсыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "stomatoloq köməkçisi"
+                ],
+                "Uzbek": [
+                    "stomatolog yordamchisi"
+                ],
+                "Kazakh": [
+                    "стоматолог көмекшісі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "теш дауалаусы ярҙамсыһы"
+                ]
+            }
+        }
+    ]
+}

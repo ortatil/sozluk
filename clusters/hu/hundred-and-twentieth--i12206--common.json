@@ -1,0 +1,60 @@
+{
+    "id": "i12206",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "hundred-and-twentieth",
+    "en_definition": "the ordinal number of one hundred twenty in counting order",
+    "tr_word": "yüz yirminci",
+    "tr_definition": "sayma düzeninde yüz yirmiden sonra gelen sıra sayısı",
+    "ru_word": "сто двадцатый",
+    "ru_definition": "порядковое числительное, соответствующее числу сто двадцать",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz yirminci"
+                ],
+                "Azerbaijani": [
+                    "yüz iyirminci"
+                ],
+                "Turkmen": [
+                    "ýüz ýigirminji"
+                ],
+                "Uzbek": [
+                    "yuz yigirmanchi"
+                ],
+                "Uyghur": [
+                    "يۈز يىگىرمىنچى"
+                ],
+                "Kazakh": [
+                    "жүз жиырмасыншы"
+                ],
+                "Kyrgyz": [
+                    "жүз жыйырманчы"
+                ],
+                "Karakalpak": [
+                    "júz jigirmanshı",
+                    "júz jigirmenshi"
+                ],
+                "Tatar": [
+                    "йөз егерменче"
+                ],
+                "Bashkir": [
+                    "йөҙ ҙә йегерменсе",
+                    "йөҙ йегерменсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bir yuz yigirmanchi"
+                ],
+                "Uyghur": [
+                    "بىر يۈز يىگىرمىنچى"
+                ]
+            }
+        }
+    ]
+}

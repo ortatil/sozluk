@@ -1,0 +1,85 @@
+{
+    "id": "i43133",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "whitetip shark",
+    "en_definition": "large deep-water shark with white-tipped dorsal fin; worldwide distribution; most dangerous shark",
+    "tr_word": "beyaz uçlu köpekbalığı",
+    "tr_definition": "Sırt yüzgecinin ucu beyaz olan, derin sularda yaşayan ve dünya genelinde dağılım gösteren tehlikeli bir köpekbalığı türü.",
+    "ru_word": "длиннокрылая акула",
+    "ru_definition": "Крупная глубоководная акула с белыми пятнами на кончиках плавников, обитающая в тропических и субтропических водах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ak ganatly akula",
+                    "ak uçly akula"
+                ],
+                "Uzbek": [
+                    "oq qanotli akula",
+                    "oq uchli akula"
+                ],
+                "Uyghur": [
+                    "ئاق ئۇچلۇق لەھەڭ",
+                    "ئاق قاناتلىق لەھەڭ"
+                ],
+                "Kazakh": [
+                    "ақ қанатты акула"
+                ],
+                "Kyrgyz": [
+                    "ак учтуу акула",
+                    "ак канаттуу акула"
+                ],
+                "Karakalpak": [
+                    "aq qanatlı akula"
+                ],
+                "Tatar": [
+                    "ак канатлы акула"
+                ],
+                "Bashkir": [
+                    "аҡ ҡанатлы акула"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "uzunüzgəcli akula"
+                ],
+                "Tatar": [
+                    "озын канатлы акула"
+                ],
+                "Bashkir": [
+                    "оҙон ҡанатлы акула"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақ жүзбеқанатты акула"
+                ],
+                "Karakalpak": [
+                    "aq júzbeqanatlı akula"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz uçlu köpek balığı",
+                    "beyaz yüzgeçli köpek balığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ağüzgəcli akula"
+                ]
+            }
+        }
+    ]
+}

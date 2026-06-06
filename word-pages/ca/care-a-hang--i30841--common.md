@@ -1,0 +1,285 @@
+# Care a hang
+| Field | Detail |
+|---|---|
+| **ID** | i30841 |
+| **English** | care a hang |
+| **Type** | verb |
+| **Definition** | show no concern or interest; always used in the negative |
+| **Source** | common |
+| **Ortatil** | pısqırmamaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| пысқырмау | pısqırmau |
+| елемеу | yelemeu |
+| **Kyrgyz** | |
+| тоготпоо | togotpoo |
+| **Tatar** | |
+| кайгырмау | kaygırmau |
+| **Bashkir** | |
+| ҡайғырмау | qayğırmau |
+
+```json
+{
+    "id": "i30841",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "care a hang",
+    "en_definition": "show no concern or interest; always used in the negative",
+    "tr_word": "umurunda olmamak",
+    "tr_definition": "hiç önem vermemek, zerre kadar ilgilenmemek; genellikle olumsuz cümlelerde kullanılır",
+    "ru_word": "совершенно не волновать",
+    "ru_definition": "не проявлять никакого интереса или беспокойства; обычно используется в отрицательных конструкциях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "parvayı olmamaq"
+                ],
+                "Turkmen": [
+                    "perwa etmezlik"
+                ],
+                "Uzbek": [
+                    "parvo qilmaslik"
+                ],
+                "Uyghur": [
+                    "پەرۋا قىلماسلىق"
+                ],
+                "Kyrgyz": [
+                    "баркка албоо"
+                ],
+                "Tatar": [
+                    "пар итмәү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كۆڭلىگە ئالماسلىق"
+                ],
+                "Kazakh": [
+                    "көңіл бөлмеу"
+                ],
+                "Kyrgyz": [
+                    "көңүл бурбоо"
+                ],
+                "Karakalpak": [
+                    "kóńіl bólmeu"
+                ],
+                "Tatar": [
+                    "күңелгә алмау"
+                ],
+                "Bashkir": [
+                    "күңелгә алмау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "äsgermezlik"
+                ],
+                "Kyrgyz": [
+                    "эсепке албоо"
+                ],
+                "Tatar": [
+                    "исәпкә алмау"
+                ],
+                "Bashkir": [
+                    "иҫе китмәү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pysandyna almazlyk"
+                ],
+                "Kazakh": [
+                    "пысқырмау"
+                ],
+                "Karakalpak": [
+                    "pısqırmau"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "e'tibor bermaslik"
+                ],
+                "Uyghur": [
+                    "ئېتىبار بەرمەسلىك"
+                ],
+                "Bashkir": [
+                    "иғтибар итмәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vecinə almamaq"
+                ],
+                "Uzbek": [
+                    "pisand qilmaslik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əhəmiyyət verməmək"
+                ],
+                "Turkmen": [
+                    "ähmiýet bermezlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "biperwa bolmak"
+                ],
+                "Kazakh": [
+                    "қаперіне алмау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "елемеу"
+                ],
+                "Karakalpak": [
+                    "elemeu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мән бермеу"
+                ],
+                "Karakalpak": [
+                    "mán bermeu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кайгырмау"
+                ],
+                "Bashkir": [
+                    "ҡайғырмау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "umursamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aldırmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "önemsemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oralı olmamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "saymamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tıncıxmamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'am yemaslik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىيالىغا كەلتۈرمەسلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоготпоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көзүнө илбөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "parqına barmau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "фикер итмәү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,179 @@
+{
+    "id": "i41595",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lawsuit",
+    "en_definition": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+    "tr_word": "dava",
+    "tr_definition": "Bir kimsenin bir hakkını elde etmek veya bir haksızlığı gidermek amacıyla mahkemeye başvurması.",
+    "ru_word": "судебный иск",
+    "ru_definition": "Обращение в суд за защитой своего нарушенного права или законного интереса.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dava"
+                ],
+                "Azerbaijani": [
+                    "dava"
+                ],
+                "Turkmen": [
+                    "daw"
+                ],
+                "Uzbek": [
+                    "da'vo"
+                ],
+                "Uyghur": [
+                    "دەۋا",
+                    "دەۋا-دەستۇر"
+                ],
+                "Kazakh": [
+                    "дау"
+                ],
+                "Karakalpak": [
+                    "dáoa"
+                ],
+                "Tatar": [
+                    "дәгъва"
+                ],
+                "Bashkir": [
+                    "дәғүә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhakeme"
+                ],
+                "Azerbaijani": [
+                    "məhkəmə işi"
+                ],
+                "Uzbek": [
+                    "muhokama"
+                ],
+                "Uyghur": [
+                    "مەھكىمە"
+                ],
+                "Tatar": [
+                    "мәхкәмә"
+                ],
+                "Bashkir": [
+                    "мәхкәмә эше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "iş"
+                ],
+                "Uyghur": [
+                    "ئەرز"
+                ],
+                "Kazakh": [
+                    "іс"
+                ],
+                "Kyrgyz": [
+                    "иш"
+                ],
+                "Karakalpak": [
+                    "islem"
+                ],
+                "Tatar": [
+                    "эш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sud işi"
+                ],
+                "Uzbek": [
+                    "sud ishi"
+                ],
+                "Kazakh": [
+                    "сот ісі"
+                ],
+                "Kyrgyz": [
+                    "сот иши"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "arz"
+                ],
+                "Kazakh": [
+                    "арыз"
+                ],
+                "Kyrgyz": [
+                    "арыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "murafa"
+                ],
+                "Azerbaijani": [
+                    "mürafaə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "xuqıqıy is"
+                ],
+                "Bashkir": [
+                    "хөкөм эше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iddia"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nizo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "талап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "доо",
+                    "доо арыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "másele"
+                ]
+            }
+        }
+    ]
+}

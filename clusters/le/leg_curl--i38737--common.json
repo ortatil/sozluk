@@ -1,0 +1,97 @@
+{
+    "id": "i38737",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "leg curl",
+    "en_definition": "an exercise designed to strengthen the flexor muscles of the leg",
+    "tr_word": "arka bacak bükme",
+    "tr_definition": "bacağın fleksör kaslarını güçlendirmek için tasarlanmış bir egzersiz",
+    "ru_word": "сгибание ног",
+    "ru_definition": "упражнение, предназначенное для укрепления мышц-сгибателей ноги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bacak bükme"
+                ],
+                "Turkmen": [
+                    "aýak bükme",
+                    "aýak bükmek maşky"
+                ],
+                "Uzbek": [
+                    "oyoq bukish",
+                    "oyoq mashqi",
+                    "oyoqni orqaga bukish"
+                ],
+                "Kazakh": [
+                    "аяқты бүгу",
+                    "аяқ бүгу жаттығуы"
+                ],
+                "Karakalpak": [
+                    "ayaqtı búgіu",
+                    "ayaqtı búgіu shınıǵıuı",
+                    "ayaq búgіu"
+                ],
+                "Tatar": [
+                    "аяк бөгү",
+                    "аяк сыгылуы",
+                    "аяк бөкләве"
+                ],
+                "Bashkir": [
+                    "аяҡ бөгөү",
+                    "аяҡтарҙы бөгөү",
+                    "аяҡ бөгөү күнегеүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diz bükme"
+                ],
+                "Turkmen": [
+                    "yzy bükme"
+                ],
+                "Kazakh": [
+                    "тізе бүгу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arka bacak hareketi"
+                ],
+                "Azerbaijani": [
+                    "ayaq bükmə",
+                    "ayaq qatlama",
+                    "ayaq bükmə hərəkəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت پۈكۈش مەشىقى",
+                    "پۇت ئارقا مۇسكۇل مەشىقى"
+                ],
+                "Kyrgyz": [
+                    "бут бүгүү",
+                    "бут бүгүштүрүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇتنى ئارقىغا پۈكۈش"
+                ],
+                "Kyrgyz": [
+                    "буттун булчуңдарын бүгүү"
+                ]
+            }
+        }
+    ]
+}

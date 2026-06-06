@@ -1,0 +1,105 @@
+# Kenya
+| Field | Detail |
+|---|---|
+| **ID** | i83636 |
+| **English** | kenya |
+| **Type** | noun |
+| **Definition** | a republic in eastern Africa; achieved independence from the United Kingdom in 1963; major archeological discoveries have been made in the Great Rift Valley in Kenya |
+| **Source** | common |
+| **Ortatil** | keniya |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **keniya** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كېنىيە | keniyä |
+| **Kazakh** | |
+| Кения | keniya |
+| **Kyrgyz** | |
+| Кения | keniya |
+| **Tatar** | |
+| Кения | keniya |
+| **Bashkir** | |
+| Кения | keniya |
+
+```json
+{
+    "id": "i83636",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "kenya",
+    "en_definition": "a republic in eastern Africa; achieved independence from the United Kingdom in 1963; major archeological discoveries have been made in the Great Rift Valley in Kenya",
+    "tr_word": "Kenya",
+    "tr_definition": "Doğu Afrika'da yer alan, 1963 yılında Birleşik Krallık'tan bağımsızlığını kazanmış bir cumhuriyet.",
+    "ru_word": "Кения",
+    "ru_definition": "Республика в Восточной Африке, получившая независимость от Великобритании в 1963 году.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Kenya",
+                    "Kenya Cumhuriyeti"
+                ],
+                "Azerbaijani": [
+                    "Keniya",
+                    "Keniya Respublikası"
+                ],
+                "Turkmen": [
+                    "Keniýa",
+                    "Keniýa Respublikasy"
+                ],
+                "Uzbek": [
+                    "Keniya",
+                    "Keniya Respublikasi"
+                ],
+                "Uyghur": [
+                    "كېنىيە",
+                    "كېنىيە جۇمھۇرىيىتى"
+                ],
+                "Kazakh": [
+                    "Кения",
+                    "Кения Республикасы"
+                ],
+                "Kyrgyz": [
+                    "Кения",
+                    "Кения Республикасы"
+                ],
+                "Karakalpak": [
+                    "Keniya",
+                    "Keniya Respublikası"
+                ],
+                "Tatar": [
+                    "Кения",
+                    "Кения Җөмһүрияте"
+                ],
+                "Bashkir": [
+                    "Кения",
+                    "Кения Республикаһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

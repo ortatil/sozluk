@@ -1,0 +1,121 @@
+{
+    "id": "i75416",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eclipse",
+    "en_definition": "one celestial body obscures another",
+    "tr_word": "tutulma",
+    "tr_definition": "bir gök cisminin diğerinin önünü kapatması olayı",
+    "ru_word": "затмение",
+    "ru_definition": "астрономическая ситуация, при которой одно небесное тело заслоняет свет от другого",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tutulma"
+                ],
+                "Azerbaijani": [
+                    "tutulma"
+                ],
+                "Turkmen": [
+                    "tutulma",
+                    "tutulmak"
+                ],
+                "Uzbek": [
+                    "tutilish"
+                ],
+                "Uyghur": [
+                    "تۇتۇلۇش"
+                ],
+                "Kazakh": [
+                    "тұтылу"
+                ],
+                "Kyrgyz": [
+                    "тутулуу"
+                ],
+                "Karakalpak": [
+                    "tutılıs"
+                ],
+                "Tatar": [
+                    "тотылу"
+                ],
+                "Bashkir": [
+                    "тотолоу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "husuf",
+                    "kusuf"
+                ],
+                "Azerbaijani": [
+                    "küsuf",
+                    "xüsuf"
+                ],
+                "Uyghur": [
+                    "كۈسۇف",
+                    "خۇسۇف"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oy tutilishi"
+                ],
+                "Uyghur": [
+                    "ئاي تۇتۇلۇش"
+                ],
+                "Kyrgyz": [
+                    "ай тутулуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kuyosh tutilishi"
+                ],
+                "Uyghur": [
+                    "قۇياش تۇتۇلۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "каплану"
+                ],
+                "Bashkir": [
+                    "ҡапланыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлеңкелену"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күн тутулуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "túnelu"
+                ]
+            }
+        }
+    ]
+}

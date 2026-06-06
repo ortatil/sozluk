@@ -1,0 +1,89 @@
+{
+    "id": "i44390",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snake",
+    "en_definition": "limbless scaly elongate reptile; some are venomous",
+    "tr_word": "yılan",
+    "tr_definition": "Ayakları olmayan, pullu, uzun vücutlu sürüngen; bazılarının zehri vardır.",
+    "ru_word": "змея",
+    "ru_definition": "Безногое чешуйчатое пресмыкающееся с длинным телом; некоторые виды ядовиты.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yılan"
+                ],
+                "Azerbaijani": [
+                    "ilan"
+                ],
+                "Turkmen": [
+                    "ýylan"
+                ],
+                "Uzbek": [
+                    "ilon"
+                ],
+                "Uyghur": [
+                    "يىلان"
+                ],
+                "Kazakh": [
+                    "жылан"
+                ],
+                "Kyrgyz": [
+                    "жылан"
+                ],
+                "Karakalpak": [
+                    "jılan"
+                ],
+                "Tatar": [
+                    "елан"
+                ],
+                "Bashkir": [
+                    "йылан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mar"
+                ],
+                "Azerbaijani": [
+                    "mar"
+                ],
+                "Turkmen": [
+                    "mar"
+                ],
+                "Uzbek": [
+                    "mora"
+                ],
+                "Kyrgyz": [
+                    "мар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бауырмен жорғалаушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәхлүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мәлғун"
+                ]
+            }
+        }
+    ]
+}

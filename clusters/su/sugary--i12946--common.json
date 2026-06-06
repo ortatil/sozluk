@@ -1,0 +1,109 @@
+{
+    "id": "i12946",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sugary",
+    "en_definition": "containing sugar",
+    "tr_word": "şekerli",
+    "tr_definition": "içinde şeker bulunan veya şeker içeren",
+    "ru_word": "сахарный",
+    "ru_definition": "содержащий сахар или имеющий вкус сахара",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şekerli"
+                ],
+                "Azerbaijani": [
+                    "şəkərli"
+                ],
+                "Turkmen": [
+                    "şekerli",
+                    "şireli"
+                ],
+                "Uzbek": [
+                    "shakarli",
+                    "shakardor"
+                ],
+                "Uyghur": [
+                    "شېكەرلىك",
+                    "شېكەر تەمى بار"
+                ],
+                "Kyrgyz": [
+                    "шекердүү"
+                ],
+                "Tatar": [
+                    "шикәрле"
+                ],
+                "Bashkir": [
+                    "шәкәрле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tatlı"
+                ],
+                "Uyghur": [
+                    "تاتلىق"
+                ],
+                "Kazakh": [
+                    "тәтті"
+                ],
+                "Kyrgyz": [
+                    "таттуу"
+                ],
+                "Karakalpak": [
+                    "tártli"
+                ],
+                "Tatar": [
+                    "татлы"
+                ],
+                "Bashkir": [
+                    "татлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şirin"
+                ],
+                "Uzbek": [
+                    "shirin"
+                ],
+                "Kazakh": [
+                    "шәрбатты"
+                ],
+                "Karakalpak": [
+                    "shárbátli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қантты"
+                ],
+                "Kyrgyz": [
+                    "канттуу"
+                ],
+                "Karakalpak": [
+                    "qantlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýji"
+                ]
+            }
+        }
+    ]
+}

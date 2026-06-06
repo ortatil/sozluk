@@ -1,0 +1,205 @@
+# Armchair
+| Field | Detail |
+|---|---|
+| **ID** | i50150 |
+| **English** | armchair |
+| **Type** | noun |
+| **Definition** | chair with a support on each side for arms |
+| **Source** | common |
+| **Ortatil** | kreslo |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kreslo** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.97** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| кресло | kreslo |
+| **Kyrgyz** | |
+| кресло | kreslo |
+| орундук | orunduk |
+| **Bashkir** | |
+| кәрәҙе | käräze |
+| ултырғыс | ultırğıs |
+
+```json
+{
+    "id": "i50150",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "armchair",
+    "en_definition": "chair with a support on each side for arms",
+    "tr_word": "koltuk",
+    "tr_definition": "yanlarında kolların dayanması için destekleri olan rahat sandalye",
+    "ru_word": "кресло",
+    "ru_definition": "комфортабельное стул с боковыми опорами для рук",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kreslo"
+                ],
+                "Turkmen": [
+                    "kreslo"
+                ],
+                "Uzbek": [
+                    "kursi"
+                ],
+                "Kazakh": [
+                    "кресло"
+                ],
+                "Kyrgyz": [
+                    "кресло"
+                ],
+                "Karakalpak": [
+                    "kreslo"
+                ],
+                "Tatar": [
+                    "кәрәзле урындык"
+                ],
+                "Bashkir": [
+                    "кәрәҙе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koltuk"
+                ],
+                "Azerbaijani": [
+                    "qoltuqlu kürk"
+                ],
+                "Kazakh": [
+                    "қолтықты орындық"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жұмсақ орындық"
+                ],
+                "Karakalpak": [
+                    "jұmsaq orındıq"
+                ],
+                "Tatar": [
+                    "йомшак урындык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۆلەنچۈكلۈك ئورۇندۇق"
+                ],
+                "Kyrgyz": [
+                    "жөлөнгүчтүү орундук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "түр урындык"
+                ],
+                "Bashkir": [
+                    "түр ултырғыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "başköşe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iskemle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dirsəklikli kürsü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arkalykly oturgyç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "päkize oturgyç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oromkursi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆشۈك ئورۇندۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "راھەت ئورۇندۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "орундук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ултырғыс"
+                ]
+            }
+        }
+    ]
+}
+```
+

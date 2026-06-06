@@ -1,0 +1,78 @@
+{
+    "id": "i60049",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "teashop",
+    "en_definition": "a restaurant where tea and light meals are available",
+    "tr_word": "çay ocağı",
+    "tr_definition": "çay ve hafif yiyeceklerin servis edildiği küçük işletme",
+    "ru_word": "чайная",
+    "ru_definition": "небольшой ресторан, где подают чай и легкие закуски",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çay ocağı",
+                    "çayhane"
+                ],
+                "Azerbaijani": [
+                    "çayxana",
+                    "çay evi"
+                ],
+                "Turkmen": [
+                    "çaýhana"
+                ],
+                "Uzbek": [
+                    "choyxona"
+                ],
+                "Uyghur": [
+                    "چايخانا",
+                    "چاي ئۆيى"
+                ],
+                "Kazakh": [
+                    "шайхана",
+                    "шай үйі"
+                ],
+                "Kyrgyz": [
+                    "чайкана"
+                ],
+                "Karakalpak": [
+                    "shayxana"
+                ],
+                "Tatar": [
+                    "чәйханә",
+                    "чәй йорты"
+                ],
+                "Bashkir": [
+                    "сәйхана",
+                    "сәй йорто"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aşhana"
+                ],
+                "Uzbek": [
+                    "oshxona"
+                ],
+                "Kyrgyz": [
+                    "ашкана"
+                ],
+                "Karakalpak": [
+                    "asxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kıraathane"
+                ]
+            }
+        }
+    ]
+}

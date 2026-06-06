@@ -1,0 +1,177 @@
+# Loan office
+| Field | Detail |
+|---|---|
+| **ID** | i55765 |
+| **English** | loan office |
+| **Type** | noun |
+| **Definition** | an office where loans are negotiated and repaid |
+| **Source** | common |
+| **Ortatil** | qarzhana |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qarzhana** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.93** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قەرزخانا | qärzxana |
+| **Kyrgyz** | |
+| насыякана | nasıyakana |
+| **Tatar** | |
+| карызханә | karızxanä |
+| бурычханә | burıçxanä |
+| аманатханә | amanatxanä |
+| **Bashkir** | |
+| ҡарызхана | qarızxana |
+
+```json
+{
+    "id": "i55765",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "loan office",
+    "en_definition": "an office where loans are negotiated and repaid",
+    "tr_word": "kredi ofisi",
+    "tr_definition": "kredilerin görüşüldüğü ve geri ödendiği ofis",
+    "ru_word": "кредитный отдел",
+    "ru_definition": "офис, где ведутся переговоры о кредитах и производится их погашение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "karz edarasy",
+                    "karzhana",
+                    "karz bölümi"
+                ],
+                "Uzbek": [
+                    "qarzxonа",
+                    "qarz berish idorasi"
+                ],
+                "Uyghur": [
+                    "قەرزخانا",
+                    "قەرز بېرىش ئورنى"
+                ],
+                "Kazakh": [
+                    "қарыз мекемесі",
+                    "қарыз беру орны"
+                ],
+                "Kyrgyz": [
+                    "карыз берүүчү мекеме"
+                ],
+                "Karakalpak": [
+                    "qarızxana"
+                ],
+                "Tatar": [
+                    "карызханә"
+                ],
+                "Bashkir": [
+                    "ҡарызхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "borç bürosu"
+                ],
+                "Azerbaijani": [
+                    "borc idarəsi",
+                    "borc evi"
+                ],
+                "Tatar": [
+                    "бурычханә"
+                ],
+                "Bashkir": [
+                    "бурыс биреү урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "несие мекемесі",
+                    "несие орны"
+                ],
+                "Kyrgyz": [
+                    "насыя берүүчү жай",
+                    "насыякана"
+                ],
+                "Karakalpak": [
+                    "nesie mekemesi",
+                    "nesiexana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kredi dairesi"
+                ],
+                "Azerbaijani": [
+                    "kredit şöbəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئامانەت-قەرز ئورنى"
+                ],
+                "Tatar": [
+                    "аманатханә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ikrazatçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istikraz dairesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "moliya mahkamasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аҡса биреү урыны"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,96 @@
+{
+    "id": "i31763",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "go home",
+    "en_definition": "return home",
+    "tr_word": "eve gitmek",
+    "tr_definition": "kendi evine dönmek",
+    "ru_word": "идти домой",
+    "ru_definition": "возвращаться к себе домой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öýe dolanmak",
+                    "öýe barmak"
+                ],
+                "Uzbek": [
+                    "uyga qaytmoq",
+                    "uyga bormoq",
+                    "uyga jo'namoq"
+                ],
+                "Uyghur": [
+                    "ئۆيگە قايتماق",
+                    "ئۆيگە بارماق"
+                ],
+                "Kazakh": [
+                    "үйге қайту",
+                    "үйге оралу",
+                    "үйге бет алу"
+                ],
+                "Kyrgyz": [
+                    "үйгө кайт-",
+                    "үйгө бар-",
+                    "үйгө кет-",
+                    "үйгө кайтып кел-"
+                ],
+                "Karakalpak": [
+                    "úyge qaytıu",
+                    "úyge barıu",
+                    "úyge oralıu"
+                ],
+                "Tatar": [
+                    "өйгә кайту"
+                ],
+                "Bashkir": [
+                    "өйгә ҡайтыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eve dönmek",
+                    "eve gitmek",
+                    "evine dönmek",
+                    "evine gitmek"
+                ],
+                "Azerbaijani": [
+                    "evə qayıtmaq",
+                    "evə dönmək",
+                    "evə getmək"
+                ],
+                "Turkmen": [
+                    "öýe gaýtmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кайту"
+                ],
+                "Bashkir": [
+                    "ҡайтыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماكانغا قايتماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йортҡа ҡайтыу"
+                ]
+            }
+        }
+    ]
+}

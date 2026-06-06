@@ -1,0 +1,142 @@
+{
+    "id": "i2231",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "colored",
+    "en_definition": "having color or a certain color; sometimes used in combination",
+    "tr_word": "renkli",
+    "tr_definition": "rengi olan veya belirli bir renge sahip olan",
+    "ru_word": "цветной",
+    "ru_definition": "имеющий цвет или определенную окраску",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boyalı"
+                ],
+                "Azerbaijani": [
+                    "boyalı"
+                ],
+                "Turkmen": [
+                    "boýalan"
+                ],
+                "Uzbek": [
+                    "bo'yalgan"
+                ],
+                "Uyghur": [
+                    "بويالغان"
+                ],
+                "Kazakh": [
+                    "боялған"
+                ],
+                "Kyrgyz": [
+                    "боёлгон"
+                ],
+                "Karakalpak": [
+                    "boyalǵan"
+                ],
+                "Tatar": [
+                    "буялган"
+                ],
+                "Bashkir": [
+                    "буяулы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "renkli"
+                ],
+                "Azerbaijani": [
+                    "rəngli"
+                ],
+                "Turkmen": [
+                    "reňkli"
+                ],
+                "Uzbek": [
+                    "rangli",
+                    "rangdor"
+                ],
+                "Uyghur": [
+                    "رەڭلىك",
+                    "رەڭدار"
+                ],
+                "Karakalpak": [
+                    "reńli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "түсті"
+                ],
+                "Kyrgyz": [
+                    "түстүү"
+                ],
+                "Tatar": [
+                    "төсле"
+                ],
+                "Bashkir": [
+                    "төҫлө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "түрлі-түсті"
+                ],
+                "Karakalpak": [
+                    "túrli-túsli"
+                ],
+                "Bashkir": [
+                    "төҫкә-төҫ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elvan"
+                ],
+                "Azerbaijani": [
+                    "əlvan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "al-elwan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mulavvan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өңдүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бизәкле"
+                ]
+            }
+        }
+    ]
+}

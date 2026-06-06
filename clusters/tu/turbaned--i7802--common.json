@@ -1,0 +1,86 @@
+{
+    "id": "i7802",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "turbaned",
+    "en_definition": "wearing a turban",
+    "tr_word": "türbanlı",
+    "tr_definition": "başında türban veya sarık olan",
+    "ru_word": "в тюрбане",
+    "ru_definition": "носящий тюрбан или чалму",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sallı"
+                ],
+                "Turkmen": [
+                    "selleli",
+                    "çalmaly"
+                ],
+                "Uzbek": [
+                    "sallali",
+                    "salla kiygan",
+                    "salla bogʻlagan"
+                ],
+                "Uyghur": [
+                    "سەللىلىك",
+                    "سەللە باغلىغان"
+                ],
+                "Kazakh": [
+                    "сәлделі",
+                    "сәлде киген"
+                ],
+                "Kyrgyz": [
+                    "селдечен",
+                    "селде байлаган",
+                    "селде оролгон"
+                ],
+                "Karakalpak": [
+                    "sálmeli",
+                    "sálme oraǵan"
+                ],
+                "Tatar": [
+                    "сәлмәле",
+                    "чалмалы"
+                ],
+                "Bashkir": [
+                    "сәлмәле",
+                    "сәлмә кейгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "destarlı"
+                ],
+                "Azerbaijani": [
+                    "dəstarlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sarıklı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tülbentli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əmmaməli"
+                ]
+            }
+        }
+    ]
+}

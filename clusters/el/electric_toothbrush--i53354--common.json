@@ -1,0 +1,79 @@
+{
+    "id": "i53354",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "electric toothbrush",
+    "en_definition": "a toothbrush with an electric motor in the handle that vibrates the head of the brush",
+    "tr_word": "elektrikli diş fırçası",
+    "tr_definition": "sapındaki elektrik motoru sayesinde fırça başlığını titreterek dişleri temizleyen cihaz",
+    "ru_word": "электрическая зубная щётка",
+    "ru_definition": "зубная щётка, в ручке которой находится электромотор, приводящий в движение чистящую головку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrikli diş fırçası"
+                ],
+                "Azerbaijani": [
+                    "elektrikli diş fırçası",
+                    "elektrikli diş süpürgəsi"
+                ],
+                "Turkmen": [
+                    "elektrikli diş çotgasy"
+                ],
+                "Uzbek": [
+                    "elektr tish choʻtkasi",
+                    "elektrli tish choʻtkasi"
+                ],
+                "Uyghur": [
+                    "ئېلېكترلىك چىش چوتكىسى"
+                ],
+                "Kazakh": [
+                    "электрлік тіс щеткасы",
+                    "электрлі тіс тазалағыш"
+                ],
+                "Kyrgyz": [
+                    "электрдик тиш щеткасы",
+                    "электр тиш жуугучу"
+                ],
+                "Karakalpak": [
+                    "elektr tis shchyotkası",
+                    "elektrli tis shchyotkası"
+                ],
+                "Tatar": [
+                    "электр теш щеткасы",
+                    "электрлы теш щеткасы"
+                ],
+                "Bashkir": [
+                    "электр теш щеткаһы",
+                    "электр теш таҙартҡысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tokly diş çotgasy"
+                ],
+                "Uyghur": [
+                    "توقلۇق چىش چوتكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şarjlı diş fırçası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pilli diş fırçası"
+                ]
+            }
+        }
+    ]
+}

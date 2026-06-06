@@ -1,0 +1,156 @@
+{
+    "id": "i35824",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trading",
+    "en_definition": "buying or selling securities or commodities",
+    "tr_word": "ticaret",
+    "tr_definition": "menkul kıymetlerin veya emtiaların alım satımı işlemi",
+    "ru_word": "трейдинг",
+    "ru_definition": "покупка или продажа ценных бумаг или товаров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alışveriş",
+                    "alım satım"
+                ],
+                "Azerbaijani": [
+                    "alış-veriş"
+                ],
+                "Turkmen": [
+                    "alyş-çalyş"
+                ],
+                "Uzbek": [
+                    "olddi-sotdi"
+                ],
+                "Uyghur": [
+                    "ئېلىم-بېرىم"
+                ],
+                "Kyrgyz": [
+                    "алыш-бериш"
+                ],
+                "Karakalpak": [
+                    "alıs-beris"
+                ],
+                "Tatar": [
+                    "алыш-биреш"
+                ],
+                "Bashkir": [
+                    "алыш-биреш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söwda"
+                ],
+                "Uzbek": [
+                    "savdo",
+                    "savdo-sotiq"
+                ],
+                "Uyghur": [
+                    "سودا"
+                ],
+                "Kazakh": [
+                    "сауда",
+                    "сауда-саттық"
+                ],
+                "Kyrgyz": [
+                    "соода",
+                    "соода-сатык"
+                ],
+                "Karakalpak": [
+                    "saoda",
+                    "saoda-sattıq"
+                ],
+                "Tatar": [
+                    "сәүдә",
+                    "сәүдәгәрлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ticaret"
+                ],
+                "Azerbaijani": [
+                    "ticarət"
+                ],
+                "Turkmen": [
+                    "täjirçilik"
+                ],
+                "Uzbek": [
+                    "tijorat"
+                ],
+                "Uyghur": [
+                    "تىجارەت"
+                ],
+                "Tatar": [
+                    "тәҗәрәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bazirgânlık"
+                ],
+                "Azerbaijani": [
+                    "bazarlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dadü-stəd"
+                ],
+                "Uyghur": [
+                    "سودا-سېتىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muamele"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айырбас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәсіп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сауҙа",
+                    "сауҙагәрлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төртөш"
+                ]
+            }
+        }
+    ]
+}

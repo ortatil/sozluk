@@ -1,0 +1,130 @@
+{
+    "id": "i106582",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cost of living",
+    "en_definition": "average cost of basic necessities of life (as food and shelter and clothing)",
+    "tr_word": "yaşam maliyeti",
+    "tr_definition": "Gıda, barınma ve giyim gibi temel yaşam gereksinimlerinin ortalama maliyeti.",
+    "ru_word": "стоимость жизни",
+    "ru_definition": "Средняя стоимость основных жизненных потребностей, таких как еда, жилье и одежда.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaşam maliyeti"
+                ],
+                "Azerbaijani": [
+                    "yaşayış xərci"
+                ],
+                "Turkmen": [
+                    "ýaşaýyş gymmaty",
+                    "ýaşaýyş harajatlary"
+                ],
+                "Uzbek": [
+                    "yashash narxi"
+                ],
+                "Kyrgyz": [
+                    "жашоо наркы",
+                    "жашоо баасы"
+                ],
+                "Karakalpak": [
+                    "jasau qárejetleri"
+                ],
+                "Tatar": [
+                    "яшәү бәясе",
+                    "яшәү чыгымнары"
+                ],
+                "Bashkir": [
+                    "йәшәү хаҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "durmuş gymmaty"
+                ],
+                "Uyghur": [
+                    "تۇرمۇش خىراجىتى",
+                    "تۇرمۇش تەننەرخى",
+                    "تۇرمۇش چىقىمى"
+                ],
+                "Kazakh": [
+                    "тұрмыс құны"
+                ],
+                "Kyrgyz": [
+                    "турмуш наркы"
+                ],
+                "Karakalpak": [
+                    "turmıs qımbatshılıǵı"
+                ],
+                "Bashkir": [
+                    "тормош хаҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күнкөріс деңгейі",
+                    "күнкөріс құны",
+                    "күнкөріс шығыны"
+                ],
+                "Karakalpak": [
+                    "kún kóris qárejetleri"
+                ],
+                "Tatar": [
+                    "көн күрү бәясе"
+                ],
+                "Bashkir": [
+                    "көн күреү сығымдары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hayat pahalılığı"
+                ],
+                "Uzbek": [
+                    "hayot kechirish xarajati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "maişet masrafı"
+                ],
+                "Azerbaijani": [
+                    "məişət xərcləri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geçim maliyeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dolanışıq xərci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tirikchilik xarajati"
+                ]
+            }
+        }
+    ]
+}

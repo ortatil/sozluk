@@ -1,0 +1,268 @@
+# Hurt
+| Field | Detail |
+|---|---|
+| **ID** | i32364 |
+| **English** | hurt |
+| **Type** | verb |
+| **Definition** | feel physical pain |
+| **Source** | core |
+| **Ortatil** | ağrımaq, sızlamaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ağrımaq** | **sızlamaq** | **zirqıramaq** |
+|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ |
+| Uyghur | ✅ | ❌ | ✅ |
+| Kazakh | ✅ | ✅ | ❌ |
+| Kyrgyz | ✅ | ✅ | ✅ |
+| Karakalpak | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 1 |
+| *Qipchaq Subtotal* | 1 | 0.80 | 0.40 |
+| *In All* | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **4** | **3.30** | **1.40** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاغرىماق | ağrimaq |
+| سىقىراماق | siqiramaq |
+| زەخمىلەنمەك | zäxmilänmäk |
+| **Kazakh** | |
+| ауыру | auıru |
+| сыздау | sızdau |
+| қақсау | qaqsau |
+| мұздау | muzdau |
+| дірілдеу | dirildeu |
+| **Kyrgyz** | |
+| оору- | ooru- |
+| сызда- | sızda- |
+| зыкыра- | zıkıra- |
+| тызылда- | tızılda- |
+| **Tatar** | |
+| авырту | avırtu |
+| сызлау | sızlau |
+| чәчрәү | çäçräü |
+| әрнү | ärnü |
+| **Bashkir** | |
+| ауыртыу | auırtıu |
+| һыҙлау | hızlau |
+| сәнсеү | sänseü |
+| ғазапланыу | ğazaplanıu |
+
+```json
+{
+    "id": "i32364",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "hurt",
+    "en_definition": "feel physical pain",
+    "tr_word": "acımak",
+    "tr_definition": "vücudun bir yerinde ağrı veya sızı hissetmek",
+    "ru_word": "болеть",
+    "ru_definition": "ощущать физическую боль в какой-либо части тела",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağrımak"
+                ],
+                "Azerbaijani": [
+                    "ağrımaq"
+                ],
+                "Turkmen": [
+                    "agyrmak"
+                ],
+                "Uzbek": [
+                    "og'rimoq"
+                ],
+                "Uyghur": [
+                    "ئاغرىماق"
+                ],
+                "Kazakh": [
+                    "ауыру"
+                ],
+                "Kyrgyz": [
+                    "оору-"
+                ],
+                "Karakalpak": [
+                    "aoırıo"
+                ],
+                "Tatar": [
+                    "авырту"
+                ],
+                "Bashkir": [
+                    "ауыртыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sızlamak"
+                ],
+                "Azerbaijani": [
+                    "sızıldamaq"
+                ],
+                "Turkmen": [
+                    "syzlamak"
+                ],
+                "Uzbek": [
+                    "sizlamoq"
+                ],
+                "Kazakh": [
+                    "сыздау"
+                ],
+                "Kyrgyz": [
+                    "сызда-"
+                ],
+                "Tatar": [
+                    "сызлау"
+                ],
+                "Bashkir": [
+                    "һыҙлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "zirqiramoq"
+                ],
+                "Uyghur": [
+                    "سىقىراماق"
+                ],
+                "Kyrgyz": [
+                    "зыкыра-"
+                ],
+                "Karakalpak": [
+                    "sırqırao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "incimək"
+                ],
+                "Turkmen": [
+                    "ynjamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қақсау"
+                ],
+                "Karakalpak": [
+                    "qaqsao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "acımak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "göynəmək",
+                    "göynətmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тызылда-"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "zıńıldao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zowlatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lo'qillamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زەخمىلەنمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұздау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дірілдеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чәчрәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "әрнү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәнсеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ғазапланыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

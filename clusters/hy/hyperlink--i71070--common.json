@@ -1,0 +1,126 @@
+{
+    "id": "i71070",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hyperlink",
+    "en_definition": "a link from a hypertext file to another location or file; typically activated by clicking on a highlighted word or icon at a particular location on the screen",
+    "tr_word": "hiperlink",
+    "tr_definition": "bir hiper metin dosyasından başka bir konuma veya dosyaya yönlendiren bağlantı; genellikle ekrandaki vurgulanmış bir kelimeye veya simgeye tıklanarak etkinleştirilir",
+    "ru_word": "гиперссылка",
+    "ru_definition": "связь между гипертекстовыми документами или объектами, которая обычно активируется нажатием на выделенное слово или значок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağlantı"
+                ],
+                "Azerbaijani": [
+                    "bağlantı"
+                ],
+                "Turkmen": [
+                    "baglanyşyk"
+                ],
+                "Uzbek": [
+                    "bogʻlama"
+                ],
+                "Uyghur": [
+                    "باغلىنىش"
+                ],
+                "Kazakh": [
+                    "байланыс"
+                ],
+                "Kyrgyz": [
+                    "байланыш"
+                ],
+                "Karakalpak": [
+                    "baylanıs"
+                ],
+                "Tatar": [
+                    "бәйләнеш"
+                ],
+                "Bashkir": [
+                    "бәйләнеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çelgi",
+                    "salgy"
+                ],
+                "Kazakh": [
+                    "сілтеме",
+                    "сілтеуіш"
+                ],
+                "Kyrgyz": [
+                    "шилтеме"
+                ],
+                "Karakalpak": [
+                    "sіlteme"
+                ],
+                "Tatar": [
+                    "сылтама"
+                ],
+                "Bashkir": [
+                    "һылтанма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ilişim"
+                ],
+                "Uzbek": [
+                    "aloqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köprü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "keçid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istinad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "havola"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇلانما",
+                    "ئۇلىنىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күчергеч"
+                ]
+            }
+        }
+    ]
+}

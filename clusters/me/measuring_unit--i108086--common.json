@@ -1,0 +1,96 @@
+{
+    "id": "i108086",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "measuring unit",
+    "en_definition": "a unit of measurement",
+    "tr_word": "ölçü birimi",
+    "tr_definition": "Bir niceliği ölçmek için standart olarak kabul edilen miktar.",
+    "ru_word": "единица измерения",
+    "ru_definition": "Величина, принятая за основу при измерении других однородных величин.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ölçü birimi",
+                    "ölçek",
+                    "ölçü"
+                ],
+                "Azerbaijani": [
+                    "ölçü vahidi",
+                    "ölçü"
+                ],
+                "Turkmen": [
+                    "ölçeg birligi",
+                    "ölçeg",
+                    "ölçew"
+                ],
+                "Uzbek": [
+                    "oʻlchov birligi",
+                    "oʻlcham"
+                ],
+                "Uyghur": [
+                    "ئۆلچەم بىرلىكى",
+                    "ئۆلچەم"
+                ],
+                "Kazakh": [
+                    "өлшем бірлігі",
+                    "өлшем"
+                ],
+                "Kyrgyz": [
+                    "өлчөм",
+                    "өлчөө бирдиги",
+                    "өлчөм бирдиги"
+                ],
+                "Karakalpak": [
+                    "ólshem birligi",
+                    "ólshem"
+                ],
+                "Tatar": [
+                    "үлчәү берәмлеге",
+                    "үлчәү"
+                ],
+                "Bashkir": [
+                    "үлсәү берәмеге",
+                    "үлсәм",
+                    "үлсәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "miqyos"
+                ],
+                "Tatar": [
+                    "микъдар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىرلىك"
+                ],
+                "Kyrgyz": [
+                    "бирдик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vahid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мөлшер"
+                ]
+            }
+        }
+    ]
+}

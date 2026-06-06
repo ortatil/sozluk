@@ -1,0 +1,132 @@
+{
+    "id": "i33957",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "intern",
+    "en_definition": "work as an intern",
+    "tr_word": "staj yapmak",
+    "tr_definition": "Bir meslek öğrenmek veya deneyim kazanmak amacıyla bir kurumda stajyer olarak çalışmak.",
+    "ru_word": "стажироваться",
+    "ru_definition": "Работать в качестве стажера для получения практического опыта в какой-либо области.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təcrübə keçmək",
+                    "təcrübə toplamaq"
+                ],
+                "Turkmen": [
+                    "tejribe geçmek"
+                ],
+                "Uzbek": [
+                    "tajriba orttirmoq"
+                ],
+                "Uyghur": [
+                    "تەجرىبە ئۆتەش"
+                ],
+                "Kazakh": [
+                    "тәжірибеден өту"
+                ],
+                "Kyrgyz": [
+                    "тажрыйба алуу",
+                    "тажрыйба топтоо"
+                ],
+                "Karakalpak": [
+                    "tájiriybe arttırıo",
+                    "tájiriybe ótio"
+                ],
+                "Tatar": [
+                    "тәҗрибә туплау",
+                    "тәҗрибә үтү"
+                ],
+                "Bashkir": [
+                    "тәжрибә үтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öwrenijilik etmek"
+                ],
+                "Uyghur": [
+                    "ئۆگەنچىلىك قىلىش"
+                ],
+                "Karakalpak": [
+                    "úyrenio"
+                ],
+                "Tatar": [
+                    "өйрәнчек булу"
+                ],
+                "Bashkir": [
+                    "өйрәнеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şagirdlik etmək"
+                ],
+                "Uzbek": [
+                    "shogirdlik qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "машықтану"
+                ],
+                "Kyrgyz": [
+                    "машыгуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "staj yapmak",
+                    "stajyerlik etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tälim almak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "malaka oshirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەمەلىيەت ئۆتەش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үйрөнүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "күнекмә алыу"
+                ]
+            }
+        }
+    ]
+}

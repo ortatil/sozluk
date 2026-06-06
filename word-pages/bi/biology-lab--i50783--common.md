@@ -1,0 +1,101 @@
+# Biology lab
+| Field | Detail |
+|---|---|
+| **ID** | i50783 |
+| **English** | biology lab |
+| **Type** | noun |
+| **Definition** | a laboratory for biological research |
+| **Source** | common |
+| **Ortatil** | biologüyähänä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| биологияханә | biologiyaxanä |
+
+```json
+{
+    "id": "i50783",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "biology lab",
+    "en_definition": "a laboratory for biological research",
+    "tr_word": "biyoloji laboratuvarı",
+    "tr_definition": "biyolojik araştırmalar için kullanılan laboratuvar",
+    "ru_word": "биологическая лаборатория",
+    "ru_definition": "лаборатория для биологических исследований",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "biyoloji laboratuvarı",
+                    "biyoloji laboratuarı"
+                ],
+                "Azerbaijani": [
+                    "biologiya laboratoriyası",
+                    "biologiya təcrübəxanası"
+                ],
+                "Turkmen": [
+                    "biologiýa barlaghanasy",
+                    "biologiýa tejribehanasy"
+                ],
+                "Uzbek": [
+                    "biologiya xonasi"
+                ],
+                "Uyghur": [
+                    "بىئولوگىيە تەجرىبىخانىسى"
+                ],
+                "Kazakh": [
+                    "биология зертханасы",
+                    "биологиялық зертхана"
+                ],
+                "Kyrgyz": [
+                    "биологиялык лаборатория",
+                    "биологиялык тажрыйбакана"
+                ],
+                "Karakalpak": [
+                    "biologiyalıq laboratoriya",
+                    "biologiyalıq tájiriybexana"
+                ],
+                "Tatar": [
+                    "биология лабораториясе",
+                    "биологияханә",
+                    "биология фәнханәсе"
+                ],
+                "Bashkir": [
+                    "биология лабораторияһы",
+                    "биология тәжрибәханаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayat bilgisi laboratuvarı"
+                ],
+                "Uzbek": [
+                    "hayotshunoslik laboratoriyasi"
+                ],
+                "Uyghur": [
+                    "ھاياتلىق ئىلمى تەجرىبىخانىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "biologiya laboratoriyasi"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,118 @@
+# Assembly plant
+| Field | Detail |
+|---|---|
+| **ID** | i50218 |
+| **English** | assembly plant |
+| **Type** | noun |
+| **Definition** | a factory where manufactured parts are assembled into a finished product |
+| **Source** | common |
+| **Ortatil** | cıyıhana |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| җыюханә | jıyuxanä |
+
+```json
+{
+    "id": "i50218",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "assembly plant",
+    "en_definition": "a factory where manufactured parts are assembled into a finished product",
+    "tr_word": "montaj fabrikası",
+    "tr_definition": "üretilen parçaların birleştirilerek bitmiş bir ürün haline getirildiği fabrika",
+    "ru_word": "сборочный завод",
+    "ru_definition": "предприятие, на котором из готовых деталей и узлов собирается конечное изделие",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yığma zavodu",
+                    "yığım sexi"
+                ],
+                "Turkmen": [
+                    "ýygnama sehi"
+                ],
+                "Uzbek": [
+                    "yigʻuv korxonasi",
+                    "yigʻuv sexi",
+                    "yigʻuv zavodi"
+                ],
+                "Kazakh": [
+                    "жинау зауыты"
+                ],
+                "Kyrgyz": [
+                    "жыйноочу ишкана",
+                    "жыйноочу цех"
+                ],
+                "Karakalpak": [
+                    "jıynao zawodı",
+                    "jıynao kárxanası"
+                ],
+                "Tatar": [
+                    "җыю заводы",
+                    "җыюханә",
+                    "җыю цехы"
+                ],
+                "Bashkir": [
+                    "йыйыу заводы",
+                    "йыйыу цехы",
+                    "йыйыу предприятиеһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurma yeri"
+                ],
+                "Azerbaijani": [
+                    "quraşdırma müəssisəsi"
+                ],
+                "Turkmen": [
+                    "gurnama zawody",
+                    "gurnama kärhanasy"
+                ],
+                "Uyghur": [
+                    "قۇراشتۇرۇش زاۋۇتى",
+                    "قۇراشتۇرۇش كارخانىسى",
+                    "قۇراشتۇرۇش سېخى"
+                ],
+                "Kazakh": [
+                    "құрастыру зауыты",
+                    "құрастыру цехы"
+                ],
+                "Kyrgyz": [
+                    "куроочу ишкана"
+                ],
+                "Karakalpak": [
+                    "qurastırıo zawodı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "montaj fabrikası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "birleştirme tesisi"
+                ]
+            }
+        }
+    ]
+}
+```
+

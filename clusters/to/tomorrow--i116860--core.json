@@ -1,0 +1,76 @@
+{
+    "id": "i116860",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "tomorrow",
+    "en_definition": "the day after today",
+    "tr_word": "yarın",
+    "tr_definition": "bugünden sonraki gün",
+    "ru_word": "завтра",
+    "ru_definition": "день, следующий за сегодняшним",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ertesi gün"
+                ],
+                "Azerbaijani": [
+                    "ertəsi gün"
+                ],
+                "Turkmen": [
+                    "ertir",
+                    "ertesi"
+                ],
+                "Uzbek": [
+                    "ertaga",
+                    "ertangi kun"
+                ],
+                "Uyghur": [
+                    "ئەتە",
+                    "ئەتەڭ"
+                ],
+                "Kazakh": [
+                    "ертең"
+                ],
+                "Kyrgyz": [
+                    "эртең",
+                    "эртеңки күн"
+                ],
+                "Karakalpak": [
+                    "erteń",
+                    "erteńgi kún"
+                ],
+                "Tatar": [
+                    "иртәгә",
+                    "иртәгәге көн"
+                ],
+                "Bashkir": [
+                    "иртәгә",
+                    "иртәгәһе көн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yarın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sabah"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "келесі күн"
+                ]
+            }
+        }
+    ]
+}

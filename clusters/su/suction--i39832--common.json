@@ -1,0 +1,126 @@
+{
+    "id": "i39832",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "suction",
+    "en_definition": "the act of sucking",
+    "tr_word": "emiş",
+    "tr_definition": "emme eylemi veya emme gücü",
+    "ru_word": "всасывание",
+    "ru_definition": "действие по значению глагола всасывать",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sovurma"
+                ],
+                "Turkmen": [
+                    "sorma"
+                ],
+                "Kazakh": [
+                    "сору",
+                    "сорғыту"
+                ],
+                "Kyrgyz": [
+                    "соруу",
+                    "сорулуш"
+                ],
+                "Karakalpak": [
+                    "sorıo",
+                    "sorılıo"
+                ],
+                "Tatar": [
+                    "суыру"
+                ],
+                "Bashkir": [
+                    "һурыу",
+                    "һурып алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tortish"
+                ],
+                "Uyghur": [
+                    "تارتىش"
+                ],
+                "Kazakh": [
+                    "тарту"
+                ],
+                "Kyrgyz": [
+                    "тартуу"
+                ],
+                "Karakalpak": [
+                    "tartıo"
+                ],
+                "Tatar": [
+                    "тарту"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "emme",
+                    "emiş"
+                ],
+                "Azerbaijani": [
+                    "əmmə"
+                ],
+                "Turkmen": [
+                    "emme"
+                ],
+                "Tatar": [
+                    "имү"
+                ],
+                "Bashkir": [
+                    "имеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çekim"
+                ],
+                "Azerbaijani": [
+                    "çəkmə"
+                ],
+                "Turkmen": [
+                    "çekme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "soʻrish"
+                ],
+                "Uyghur": [
+                    "سۈمۈرۈش",
+                    "سۈمۈرۈلمە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vakum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shimilish"
+                ]
+            }
+        }
+    ]
+}

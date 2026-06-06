@@ -1,0 +1,77 @@
+{
+    "id": "i77112",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "liver",
+    "en_definition": "liver of an animal used as meat",
+    "tr_word": "karaciğer",
+    "tr_definition": "Yiyecek olarak kullanılan hayvan karaciğeri.",
+    "ru_word": "печень",
+    "ru_definition": "Печень животного, употребляемая в пищу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağır"
+                ],
+                "Turkmen": [
+                    "bagyr"
+                ],
+                "Uzbek": [
+                    "bag'ir"
+                ],
+                "Uyghur": [
+                    "باغىر"
+                ],
+                "Kazakh": [
+                    "бауыр"
+                ],
+                "Kyrgyz": [
+                    "боор"
+                ],
+                "Karakalpak": [
+                    "baoır"
+                ],
+                "Tatar": [
+                    "бавыр"
+                ],
+                "Bashkir": [
+                    "бауыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ciyər"
+                ],
+                "Turkmen": [
+                    "jiger"
+                ],
+                "Uzbek": [
+                    "jigar"
+                ],
+                "Uyghur": [
+                    "جىگەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karaciğer",
+                    "ciğer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qara ciyər"
+                ]
+            }
+        }
+    ]
+}

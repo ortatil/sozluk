@@ -1,0 +1,99 @@
+{
+    "id": "i2671",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "burnable",
+    "en_definition": "capable of burning",
+    "tr_word": "yanabilir",
+    "tr_definition": "yanma özelliğine sahip olan, tutuşabilen",
+    "ru_word": "горючий",
+    "ru_definition": "способный гореть или поддерживать горение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanıcı"
+                ],
+                "Azerbaijani": [
+                    "yanan",
+                    "yanar",
+                    "yanacaq"
+                ],
+                "Turkmen": [
+                    "ýangyçly",
+                    "ýanýan"
+                ],
+                "Uzbek": [
+                    "yonuvchan",
+                    "yonar",
+                    "yonuvchi"
+                ],
+                "Kazakh": [
+                    "жанғыш",
+                    "жанатын"
+                ],
+                "Karakalpak": [
+                    "janıoshı",
+                    "janar",
+                    "janıoǵa beyim"
+                ],
+                "Tatar": [
+                    "янучан",
+                    "янар",
+                    "янучанлык"
+                ],
+                "Bashkir": [
+                    "яныусан",
+                    "яныусанлы",
+                    "яныуға һәләтле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tutuşabilir"
+                ],
+                "Kazakh": [
+                    "тұтанғыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆيۈشچان",
+                    "كۆيىدىغان",
+                    "كۆيۈشچانلىقى بار"
+                ],
+                "Kyrgyz": [
+                    "күйүүчү",
+                    "күймө",
+                    "күйүмдүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yakılabilir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "alışan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ot alýan"
+                ]
+            }
+        }
+    ]
+}

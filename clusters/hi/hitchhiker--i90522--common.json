@@ -1,0 +1,124 @@
+{
+    "id": "i90522",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hitchhiker",
+    "en_definition": "a person who travels by getting free rides from passing vehicles",
+    "tr_word": "otostopçu",
+    "tr_definition": "yoldan geçen araçlara binerek bedava seyahat eden kimse",
+    "ru_word": "автостопщик",
+    "ru_definition": "человек, путешествующий на попутных машинах бесплатно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yolcu",
+                    "yol arkadaşı"
+                ],
+                "Azerbaijani": [
+                    "yolçu"
+                ],
+                "Turkmen": [
+                    "ýolçy"
+                ],
+                "Uzbek": [
+                    "yoʻlovchi",
+                    "yoʻlchi"
+                ],
+                "Uyghur": [
+                    "يولچى",
+                    "يولدىن چىققان يولچى"
+                ],
+                "Kazakh": [
+                    "жолаушы",
+                    "жолсерік"
+                ],
+                "Kyrgyz": [
+                    "жолоочу",
+                    "жолдош"
+                ],
+                "Karakalpak": [
+                    "jolshı",
+                    "jolaushı"
+                ],
+                "Tatar": [
+                    "юлдаш",
+                    "юлчы"
+                ],
+                "Bashkir": [
+                    "юлдаш",
+                    "юлсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otostopçu"
+                ],
+                "Azerbaijani": [
+                    "otostopçu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müsafir"
+                ],
+                "Turkmen": [
+                    "musapyr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hemra"
+                ],
+                "Uzbek": [
+                    "hamroh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сапарлаш"
+                ],
+                "Tatar": [
+                    "сәфәрче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەقسىز يولچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "серік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jol jónekey júrushі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәйәхәтсе"
+                ]
+            }
+        }
+    ]
+}

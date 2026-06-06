@@ -1,0 +1,124 @@
+{
+    "id": "i81012",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "employment agency",
+    "en_definition": "an agency that finds people to fill particular jobs or finds jobs for unemployed people",
+    "tr_word": "iş bulma kurumu",
+    "tr_definition": "İş arayanlara iş, işçi arayanlara eleman bulan kuruluş.",
+    "ru_word": "агентство по трудоустройству",
+    "ru_definition": "Организация, оказывающая услуги по поиску работы для соискателей и подбору персонала для работодателей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iş bulma kurumu",
+                    "işçi bulma kurumu"
+                ],
+                "Azerbaijani": [
+                    "işədüzəltmə agentliyi",
+                    "işədüzəltmə bürosu"
+                ],
+                "Turkmen": [
+                    "işe ýerleşdiriş edarasy",
+                    "işe ýerleşdiriş agentligi",
+                    "iş üpjünçilik edarasy"
+                ],
+                "Uzbek": [
+                    "ishga joylashtirish idorasi"
+                ],
+                "Uyghur": [
+                    "ئىشقا ئورۇنلاشتۇرۇش ئورنى",
+                    "ئىشقا ئورۇنلاشتۇرۇش مەركىزى"
+                ],
+                "Kyrgyz": [
+                    "ишке орноштуруу агенттиги",
+                    "иш менен камсыз кылуу борбору",
+                    "иш берүү мекемеси"
+                ],
+                "Tatar": [
+                    "эшкә урнаштыру агентлыгы",
+                    "эш белән тәэмин итү үзәге",
+                    "эш эзләү хезмәте"
+                ],
+                "Bashkir": [
+                    "эшкә урынлаштырыу агентлығы",
+                    "эшкә урынлаштырыу бюроһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bandlik agentligi"
+                ],
+                "Karakalpak": [
+                    "bántlik orayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмыспен қамту орталығы",
+                    "жұмыспен қамту агенттігі"
+                ],
+                "Karakalpak": [
+                    "jұmıspen támiyinleu orayı",
+                    "jұmısqa ornalastırıu agentligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istihdam bürosu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iş ajansı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məşğulluq agentliyi",
+                    "məşğulluq mərkəzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mehnat birjasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىزمەت تونۇشتۇرۇش ئورنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еңбек биржасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "эш биреү үҙәге"
+                ]
+            }
+        }
+    ]
+}

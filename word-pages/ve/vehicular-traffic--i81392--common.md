@@ -1,0 +1,225 @@
+# Vehicular traffic
+| Field | Detail |
+|---|---|
+| **ID** | i81392 |
+| **English** | vehicular traffic |
+| **Type** | noun |
+| **Definition** | the aggregation of vehicles coming and going in a particular locality |
+| **Source** | common |
+| **Ortatil** | qatnaş, häräkät |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qatnaş** | **häräkät** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ✅ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0.67 |
+| *Qarluq Subtotal* | 1 | 0.50 |
+| *Qipchaq Subtotal* | 0.80 | 0.40 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **3.47** | **2.57** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قاتناش | qatnaş |
+| بېرىش-كېلىش | beriş-keliş |
+| **Kazakh** | |
+| қатынас | qatınas |
+| қозғалыс | qozğalıs |
+| жүріс-тұрыс | jüris-turıs |
+| **Kyrgyz** | |
+| каттам | kattam |
+| кыймыл | kıymıl |
+| **Tatar** | |
+| хәрәкәт | xäräkät |
+| йөреш | yöreş |
+| **Bashkir** | |
+| ҡатнашлыҡ | qatnaşlıq |
+| хәрәкәт | xäräkät |
+
+```json
+{
+    "id": "i81392",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vehicular traffic",
+    "en_definition": "the aggregation of vehicles coming and going in a particular locality",
+    "tr_word": "araç trafiği",
+    "tr_definition": "belirli bir bölgedeki araçların gidiş gelişlerinden oluşan yoğunluk",
+    "ru_word": "автомобильное движение",
+    "ru_definition": "совокупность транспортных средств, движущихся по дорогам в определенной местности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gediş-gəliş"
+                ],
+                "Turkmen": [
+                    "gatnaw"
+                ],
+                "Uzbek": [
+                    "qatnov"
+                ],
+                "Uyghur": [
+                    "قاتناش"
+                ],
+                "Kazakh": [
+                    "қатынас"
+                ],
+                "Kyrgyz": [
+                    "каттам"
+                ],
+                "Karakalpak": [
+                    "qatınas"
+                ],
+                "Bashkir": [
+                    "ҡатнашлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýol hereketi"
+                ],
+                "Uzbek": [
+                    "yoʻl harakati"
+                ],
+                "Uyghur": [
+                    "يول قاتنىشى"
+                ],
+                "Kyrgyz": [
+                    "жол кыймылы"
+                ],
+                "Tatar": [
+                    "юл хәрәкәте"
+                ],
+                "Bashkir": [
+                    "юл хәрәкәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərəkət"
+                ],
+                "Turkmen": [
+                    "hereket"
+                ],
+                "Uzbek": [
+                    "harakat"
+                ],
+                "Tatar": [
+                    "хәрәкәт"
+                ],
+                "Bashkir": [
+                    "хәрәкәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ulaşım"
+                ],
+                "Turkmen": [
+                    "ulag gatnawy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қозғалыс"
+                ],
+                "Karakalpak": [
+                    "qozǵalıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жүріс-тұрыс"
+                ],
+                "Karakalpak": [
+                    "júrіs-turıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "trafik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seyrüsefer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araç trafiği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəqliyyat",
+                    "nəqliyyat axını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېرىش-كېلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік қозғалысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыймыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йөреш"
+                ]
+            }
+        }
+    ]
+}
+```
+

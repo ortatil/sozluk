@@ -1,0 +1,135 @@
+{
+    "id": "i35141",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "threaten",
+    "en_definition": "pose a threat to; present a danger to",
+    "tr_word": "tehdit etmek",
+    "tr_definition": "birine veya bir şeye karşı tehlike oluşturmak, korkutmak",
+    "ru_word": "угрожать",
+    "ru_definition": "представлять собой опасность или выражать намерение причинить вред",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "howp salmak",
+                    "howp astyna goýmak",
+                    "howply ýagdaýa salmak"
+                ],
+                "Uzbek": [
+                    "xavf solmoq",
+                    "xavf ostida qoldirmoq"
+                ],
+                "Uyghur": [
+                    "خەۋپكە سالماق"
+                ],
+                "Kazakh": [
+                    "қауіп төндіру",
+                    "қауіпке қалдыру"
+                ],
+                "Kyrgyz": [
+                    "кооп туудуруу"
+                ],
+                "Karakalpak": [
+                    "qáuіp tudırıu",
+                    "qáuіpke qoyıu",
+                    "qáuіp astına alıu",
+                    "qáuіp-qaterge salıu"
+                ],
+                "Bashkir": [
+                    "хәүеф аҫтына ҡуйыу",
+                    "хәүефкә һалыу",
+                    "хәүеф тыуҙырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tehdit etmek"
+                ],
+                "Azerbaijani": [
+                    "təhdid etmək"
+                ],
+                "Uzbek": [
+                    "tahdid solmoq"
+                ],
+                "Uyghur": [
+                    "تەھدىت سالماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xatarga qo'ymoq"
+                ],
+                "Uyghur": [
+                    "خەتەرگە قويماق"
+                ],
+                "Kazakh": [
+                    "қатерге тігу"
+                ],
+                "Tatar": [
+                    "хәтәр астына кую",
+                    "хәтәрләндерү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qorxu altına qoymaq"
+                ],
+                "Kyrgyz": [
+                    "коркунуч келтирүү",
+                    "коркунучка салуу"
+                ],
+                "Tatar": [
+                    "куркыныч астына кую",
+                    "куркыныч тудыру"
+                ],
+                "Bashkir": [
+                    "ҡурҡыныс аҫтына ҡуйыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tehlikeye atmak",
+                    "tehlikeye düşürmek"
+                ],
+                "Azerbaijani": [
+                    "təhlükəyə atmaq",
+                    "təhlükəyə salmaq"
+                ],
+                "Turkmen": [
+                    "tehlika goýmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зиян келтіру"
+                ],
+                "Kyrgyz": [
+                    "зыян келтирүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "riske atmak"
+                ]
+            }
+        }
+    ]
+}

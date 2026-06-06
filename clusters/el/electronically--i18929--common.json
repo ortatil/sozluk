@@ -1,0 +1,84 @@
+{
+    "id": "i18929",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "electronically",
+    "en_definition": "by electronic means",
+    "tr_word": "elektronik olarak",
+    "tr_definition": "elektronik araçlar vasıtasıyla",
+    "ru_word": "электронно",
+    "ru_definition": "с помощью электронных средств",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektronik olarak",
+                    "elektronik yolla",
+                    "elektronik ortamda"
+                ],
+                "Azerbaijani": [
+                    "elektron qaydada",
+                    "elektron vasitəsilə",
+                    "elektron yolla"
+                ],
+                "Turkmen": [
+                    "elektron usulda",
+                    "elektron görnüşde"
+                ],
+                "Uzbek": [
+                    "elektron tarzda",
+                    "elektron ravishda",
+                    "elektron yo'l bilan"
+                ],
+                "Uyghur": [
+                    "ئېلېكترونلۇق ئۇسۇلدا",
+                    "ئېلېكترونلۇق شەكىلدە"
+                ],
+                "Kazakh": [
+                    "электронды түрде",
+                    "электронды жолмен"
+                ],
+                "Kyrgyz": [
+                    "электрондук түрдө"
+                ],
+                "Karakalpak": [
+                    "elektronlıq túrde",
+                    "elektronlıq jol menen"
+                ],
+                "Tatar": [
+                    "электрон рәвештә",
+                    "электрон юл белән"
+                ],
+                "Bashkir": [
+                    "электрон рәүештә",
+                    "электрон юл менән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sanly ulgam arkaly"
+                ],
+                "Kazakh": [
+                    "сандық жүйемен"
+                ],
+                "Kyrgyz": [
+                    "санариптик жол менен"
+                ],
+                "Karakalpak": [
+                    "sanlı túrde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رەقەملىك ئۇسۇلدا"
+                ]
+            }
+        }
+    ]
+}

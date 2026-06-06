@@ -1,0 +1,81 @@
+{
+    "id": "i91794",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "right fielder",
+    "en_definition": "the person who plays right field",
+    "tr_word": "sağ dış alan oyuncusu",
+    "tr_definition": "beyzbolda sahanın sağ dış kısmında oynayan savunma oyuncusu",
+    "ru_word": "правый филдер",
+    "ru_definition": "игрок в бейсболе, занимающий позицию в правой части внешнего поля",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻng qanot himoyachisi",
+                    "oʻng qanot oʻyinchisi"
+                ],
+                "Uyghur": [
+                    "ئوڭ قانات قوغدىغۇچى",
+                    "ئوڭ تەرەپ قوغدىغۇچى"
+                ],
+                "Kazakh": [
+                    "оң жақ қорғаушы",
+                    "оң қанат қорғаушысы"
+                ],
+                "Kyrgyz": [
+                    "оң тараптагы коргоочу",
+                    "оң канат коргоочусу"
+                ],
+                "Karakalpak": [
+                    "oń qanat qorǵaushısı",
+                    "oń tárep qorǵaushısı"
+                ],
+                "Tatar": [
+                    "уң як сакчы",
+                    "уң як уенчы"
+                ],
+                "Bashkir": [
+                    "уң яҡ уйынсыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağ dış alan oyuncusu",
+                    "sağ dış saha oyuncusu"
+                ],
+                "Azerbaijani": [
+                    "sağ cinah oyunçusu"
+                ],
+                "Turkmen": [
+                    "sag meýdançy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sağ cinah müdafiəçisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sag tarapky goragçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "уң яҡ һаҡсыһы"
+                ]
+            }
+        }
+    ]
+}

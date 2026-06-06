@@ -1,0 +1,94 @@
+{
+    "id": "i77021",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gingerbread man",
+    "en_definition": "gingerbread cut in the shape of a person",
+    "tr_word": "zencefilli kurabiye adam",
+    "tr_definition": "insan şeklinde kesilmiş zencefilli kurabiye",
+    "ru_word": "имбирный человечек",
+    "ru_definition": "имбирное печенье, вырезанное в форме человека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zencefilli kurabiye adam",
+                    "zencefilli adam kurabiyesi",
+                    "zencefilli çörek adam"
+                ],
+                "Azerbaijani": [
+                    "zəncəfilli adam",
+                    "zəncəfilli insan",
+                    "zəncəfilli kökə"
+                ],
+                "Turkmen": [
+                    "zynjebilli adamjygy"
+                ],
+                "Uzbek": [
+                    "zanjabilli odamcha",
+                    "zanjabilli odam shaklidagi kulcha",
+                    "zanjabilli pishiriq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "adam şekilli zynjebilli köke"
+                ],
+                "Uyghur": [
+                    "ئادەم شەكىللىك زەنجىۋىل بولكىسى",
+                    "ئادەم شەكىللىك زەنجىۋىل پېچىنە"
+                ],
+                "Kyrgyz": [
+                    "адам кейиптүү пряник",
+                    "адам формасындагы таттуу нан"
+                ],
+                "Karakalpak": [
+                    "adamsha gúlshe"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "зімбір адам",
+                    "зімбір адамша",
+                    "зімбір нан адам"
+                ],
+                "Kyrgyz": [
+                    "имбирь пряниги"
+                ],
+                "Karakalpak": [
+                    "imbirli adamsha",
+                    "imbirli gúlshe"
+                ],
+                "Tatar": [
+                    "имбирле кеше",
+                    "имбирле курчак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кеше рәвешендәге имбир прәннеге"
+                ],
+                "Bashkir": [
+                    "кеше рәүешендәге прәник",
+                    "кеше формаһындағы прәник"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "кеше һынындағы прәник"
+                ]
+            }
+        }
+    ]
+}

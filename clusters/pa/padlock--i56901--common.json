@@ -1,0 +1,108 @@
+{
+    "id": "i56901",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "padlock",
+    "en_definition": "a detachable lock; has a hinged shackle that can be passed through the staple of a hasp or the links in a chain and then snapped shut",
+    "tr_word": "asma kilit",
+    "tr_definition": "Halkası bir yere takıldıktan sonra gövdesindeki kilitleme mekanizmasıyla kapatılan, taşınabilir kilit türü.",
+    "ru_word": "навесной замок",
+    "ru_definition": "Съемный замок, дужка которого продевается в проушины или звенья цепи и защелкивается.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asma kilit",
+                    "asma kilitçe"
+                ],
+                "Azerbaijani": [
+                    "asma qıfıl"
+                ],
+                "Turkmen": [
+                    "asma gulp"
+                ],
+                "Uzbek": [
+                    "osma qulf"
+                ],
+                "Uyghur": [
+                    "ئاسما قۇلۇپ"
+                ],
+                "Kazakh": [
+                    "аспалы құлып"
+                ],
+                "Kyrgyz": [
+                    "асма кулпу"
+                ],
+                "Karakalpak": [
+                    "aspalı qұlıp"
+                ],
+                "Tatar": [
+                    "асылма йозак",
+                    "асма йозак"
+                ],
+                "Bashkir": [
+                    "аҫпалы йоҙаҡ",
+                    "аҫма йоҙаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gulp"
+                ],
+                "Uzbek": [
+                    "qulf"
+                ],
+                "Uyghur": [
+                    "قۇلۇپ"
+                ],
+                "Kazakh": [
+                    "құлып"
+                ],
+                "Kyrgyz": [
+                    "кулпу"
+                ],
+                "Karakalpak": [
+                    "qұlıp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kilit"
+                ],
+                "Azerbaijani": [
+                    "kilid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йозак"
+                ],
+                "Bashkir": [
+                    "йоҙаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qıfıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қақпақ құлып"
+                ]
+            }
+        }
+    ]
+}

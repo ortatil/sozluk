@@ -1,0 +1,172 @@
+# Fetch
+| Field | Detail |
+|---|---|
+| **ID** | i28895 |
+| **English** | fetch |
+| **Type** | verb |
+| **Definition** | go or come after and bring or take back |
+| **Source** | common |
+| **Ortatil** | ḳeldirmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḳeldirmäk** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.30** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| әкелу | äkelu |
+| жеткізу | jetkizu |
+| **Kyrgyz** | |
+| келтирүү | keltirüü |
+| **Tatar** | |
+| китерү | kiterü |
+| **Bashkir** | |
+| килтереү | kiltereü |
+
+```json
+{
+    "id": "i28895",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "fetch",
+    "en_definition": "go or come after and bring or take back",
+    "tr_word": "getirmek",
+    "tr_definition": "gidip bir şeyi veya birini alıp geri gelmek",
+    "ru_word": "приносить",
+    "ru_definition": "сходить за чем-либо или кем-либо и доставить обратно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "almak",
+                    "alıp gelmek"
+                ],
+                "Turkmen": [
+                    "alyp gelmek"
+                ],
+                "Uzbek": [
+                    "olib kelmoq"
+                ],
+                "Uyghur": [
+                    "ئېلىپ كېلىش",
+                    "كېلىپ ئېلىش"
+                ],
+                "Kazakh": [
+                    "алып келу"
+                ],
+                "Kyrgyz": [
+                    "алып келүү"
+                ],
+                "Karakalpak": [
+                    "alıp kelio"
+                ],
+                "Tatar": [
+                    "алып килү"
+                ],
+                "Bashkir": [
+                    "алып килеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "getirmek",
+                    "gidip getirmek"
+                ],
+                "Azerbaijani": [
+                    "gətirmək",
+                    "gedib gətirmək"
+                ],
+                "Turkmen": [
+                    "getirip bermek",
+                    "getirmek"
+                ],
+                "Uzbek": [
+                    "keltirmoq"
+                ],
+                "Kyrgyz": [
+                    "келтирүү"
+                ],
+                "Karakalpak": [
+                    "keltirio"
+                ],
+                "Tatar": [
+                    "китерү"
+                ],
+                "Bashkir": [
+                    "килтереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "borib olib kelmoq"
+                ],
+                "Uyghur": [
+                    "بېرىپ ئېلىپ كېلىش"
+                ],
+                "Kazakh": [
+                    "барып әкелу"
+                ],
+                "Kyrgyz": [
+                    "барып келүү"
+                ],
+                "Karakalpak": [
+                    "barıp alıp kelio"
+                ],
+                "Tatar": [
+                    "барып алу"
+                ],
+                "Bashkir": [
+                    "барып алыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "aparıb gətirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әкелу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жеткізу"
+                ]
+            }
+        }
+    ]
+}
+```
+

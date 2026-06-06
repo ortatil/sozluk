@@ -1,0 +1,99 @@
+{
+    "id": "i12647",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "handwritten",
+    "en_definition": "written by hand",
+    "tr_word": "el yazısı",
+    "tr_definition": "Elle yazılmış olan, basılı veya daktilo edilmemiş",
+    "ru_word": "рукописный",
+    "ru_definition": "Написанный от руки, а не напечатанный",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "el yazması",
+                    "el yazısı",
+                    "elyazısı"
+                ],
+                "Azerbaijani": [
+                    "əlyazma"
+                ],
+                "Turkmen": [
+                    "golýazma",
+                    "elýazma"
+                ],
+                "Uzbek": [
+                    "qoʻlyozma"
+                ],
+                "Uyghur": [
+                    "قوليازما"
+                ],
+                "Tatar": [
+                    "кулъязма"
+                ],
+                "Bashkir": [
+                    "ҡулъяҙма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻlda yozilgan"
+                ],
+                "Uyghur": [
+                    "قولدا يېزىلغان"
+                ],
+                "Kazakh": [
+                    "қолжазба",
+                    "қолмен жазылған",
+                    "қолжазбалық"
+                ],
+                "Kyrgyz": [
+                    "кол жазма",
+                    "кол менен жазылган"
+                ],
+                "Karakalpak": [
+                    "qoljazba",
+                    "qoldan jazılǵan"
+                ],
+                "Tatar": [
+                    "кулдан язылган"
+                ],
+                "Bashkir": [
+                    "ҡул менән яҙылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xətti"
+                ],
+                "Uyghur": [
+                    "خەتلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dastxət"
+                ],
+                "Uzbek": [
+                    "dastxat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "el bilen ýazylan"
+                ]
+            }
+        }
+    ]
+}

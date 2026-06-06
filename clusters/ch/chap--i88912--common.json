@@ -1,0 +1,180 @@
+{
+    "id": "i88912",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gent",
+    "en_definition": "a boy or man",
+    "tr_word": "beyefendi",
+    "tr_definition": "erkek veya oğlan çocuk; bey",
+    "ru_word": "джентльмен",
+    "ru_definition": "мужчина или мальчик; господин",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýigit"
+                ],
+                "Uzbek": [
+                    "yigit"
+                ],
+                "Uyghur": [
+                    "يىگىت"
+                ],
+                "Kazakh": [
+                    "жігіт"
+                ],
+                "Kyrgyz": [
+                    "жигит"
+                ],
+                "Karakalpak": [
+                    "jigit"
+                ],
+                "Tatar": [
+                    "егет"
+                ],
+                "Bashkir": [
+                    "егет"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adam"
+                ],
+                "Azerbaijani": [
+                    "adam"
+                ],
+                "Turkmen": [
+                    "adam"
+                ],
+                "Uyghur": [
+                    "ئادەم"
+                ],
+                "Kazakh": [
+                    "азамат"
+                ],
+                "Kyrgyz": [
+                    "азамат"
+                ],
+                "Bashkir": [
+                    "әҙәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "erkak"
+                ],
+                "Uyghur": [
+                    "ئەر"
+                ],
+                "Kazakh": [
+                    "ер"
+                ],
+                "Kyrgyz": [
+                    "эркек"
+                ],
+                "Karakalpak": [
+                    "er",
+                    "erkek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oğlan"
+                ],
+                "Azerbaijani": [
+                    "oğlan"
+                ],
+                "Turkmen": [
+                    "oglan"
+                ],
+                "Kyrgyz": [
+                    "улан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kişi"
+                ],
+                "Tatar": [
+                    "кеше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bola"
+                ],
+                "Uyghur": [
+                    "بالا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ир",
+                    "ир-ат"
+                ],
+                "Bashkir": [
+                    "ир",
+                    "ир-ат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "delikanlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "genç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəfər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻspirin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бозбала"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ul"
+                ]
+            }
+        }
+    ]
+}

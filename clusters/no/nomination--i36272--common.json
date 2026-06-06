@@ -1,0 +1,139 @@
+{
+    "id": "i36272",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nomination",
+    "en_definition": "the act of officially naming a candidate",
+    "tr_word": "adaylık",
+    "tr_definition": "Bir adayın resmi olarak isimlendirilmesi veya önerilmesi eylemi.",
+    "ru_word": "номинация",
+    "ru_definition": "Акт официального выдвижения кандидата.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "namzetlik"
+                ],
+                "Azerbaijani": [
+                    "namizədlik"
+                ],
+                "Turkmen": [
+                    "namzatlyk"
+                ],
+                "Uzbek": [
+                    "nomzodlik",
+                    "nomzod"
+                ],
+                "Uyghur": [
+                    "نامزات كۆرسىتىش",
+                    "نامزاتلىققا كۆرسىتىش"
+                ],
+                "Tatar": [
+                    "намзәтлек"
+                ],
+                "Bashkir": [
+                    "намзатлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təqdimat"
+                ],
+                "Uzbek": [
+                    "tavsiya"
+                ],
+                "Uyghur": [
+                    "تەكلىپ قىلىش"
+                ],
+                "Tatar": [
+                    "тәкъдим"
+                ],
+                "Bashkir": [
+                    "тәҡдим",
+                    "тәҡдим итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻrsatish"
+                ],
+                "Kyrgyz": [
+                    "көрсөтүү"
+                ],
+                "Karakalpak": [
+                    "kórsetu"
+                ],
+                "Tatar": [
+                    "күрсәтү"
+                ],
+                "Bashkir": [
+                    "күрһәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dalaşgärlik"
+                ],
+                "Kyrgyz": [
+                    "талапкерлик"
+                ],
+                "Karakalpak": [
+                    "talapkerlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "adaylık",
+                    "aday gösterme"
+                ],
+                "Kazakh": [
+                    "атау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұсыну",
+                    "ұсыныс"
+                ],
+                "Karakalpak": [
+                    "usınıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "irəli sürmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hödürleme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сунуштоо"
+                ]
+            }
+        }
+    ]
+}

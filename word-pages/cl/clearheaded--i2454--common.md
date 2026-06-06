@@ -1,0 +1,302 @@
+# Clearheaded
+| Field | Detail |
+|---|---|
+| **ID** | i2454 |
+| **English** | clearheaded |
+| **Type** | adjective |
+| **Definition** | not mentally confused; able to think clearly and act intelligently |
+| **Source** | common |
+| **Ortatil** | seräkäk, ayık |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **seräkäk** | **ayık** | **huşyar** | **basiratlı** | **payhaslı** |
+|---|---|---|---|---|---|
+| Turkish | ❌ | ✅ | ❌ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Turkmen | ✅ | ✅ | ✅ | ❌ | ✅ |
+| Uzbek | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Uyghur | ❌ | ❌ | ✅ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ | ❌ | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Tatar | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 1 | 0.33 | 0.33 | 0.33 |
+| *Qarluq Subtotal* | 0.50 | 0 | 1 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0.80 | 0 | 0.40 | 0.40 |
+| *In All* | ✅ |  |  |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  | ✅ | ✅ |
+| **O'TQ** | **2.97** | **2.30** | **1.33** | **1.23** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ھوشيار | hoşyar |
+| سەگەك | sägäk |
+| روشن | roşn |
+| **Kazakh** | |
+| парасатты | parasattı |
+| байыпты | bayıptı |
+| саналы | sanalı |
+| зейінді | zeyindi |
+| **Kyrgyz** | |
+| акыл-эстүү | akıl-estüü |
+| сергек | sergek |
+| баамчыл | baamçıl |
+| аң-сезимдүү | añ-sezimdüü |
+| кыраакы | kıraakı |
+| **Tatar** | |
+| аек | ayek |
+| аек-сәламәт | ayek-sälamät |
+| акыллы | akıllı |
+| зирәк | ziräk |
+| үткен | ütken |
+| **Bashkir** | |
+| аңлы | añlı |
+| зирәк | ziräk |
+| зиһенле | zihenle |
+| уяу | uyau |
+
+```json
+{
+    "id": "i2454",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "clearheaded",
+    "en_definition": "not mentally confused; able to think clearly and act intelligently",
+    "tr_word": "sağduyulu",
+    "tr_definition": "zihni karışık olmayan; açık ve mantıklı bir şekilde düşünebilen",
+    "ru_word": "трезвомыслящий",
+    "ru_definition": "способный ясно мыслить и рассуждать здраво, без путаницы в голове",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayık"
+                ],
+                "Azerbaijani": [
+                    "ayıq",
+                    "ayıqbaşlı"
+                ],
+                "Turkmen": [
+                    "akylly"
+                ],
+                "Kazakh": [
+                    "ақыл-есі түзу"
+                ],
+                "Kyrgyz": [
+                    "акыл-эстүү"
+                ],
+                "Karakalpak": [
+                    "aqıllı"
+                ],
+                "Tatar": [
+                    "аек",
+                    "аек-сәламәт",
+                    "акыллы"
+                ],
+                "Bashkir": [
+                    "аңлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fərasətli"
+                ],
+                "Turkmen": [
+                    "seresap",
+                    "serasap",
+                    "seri dik"
+                ],
+                "Uzbek": [
+                    "sergak"
+                ],
+                "Kyrgyz": [
+                    "сергек"
+                ],
+                "Karakalpak": [
+                    "zirek"
+                ],
+                "Tatar": [
+                    "зирәк"
+                ],
+                "Bashkir": [
+                    "зирәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zihni açık"
+                ],
+                "Azerbaijani": [
+                    "zəkası iti"
+                ],
+                "Uyghur": [
+                    "زېھنى ئوچۇق"
+                ],
+                "Bashkir": [
+                    "зиһенле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basiretli"
+                ],
+                "Kazakh": [
+                    "парасатты"
+                ],
+                "Karakalpak": [
+                    "parasatlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "paýhasly"
+                ],
+                "Kazakh": [
+                    "байыпты"
+                ],
+                "Kyrgyz": [
+                    "баамчыл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "huşly"
+                ],
+                "Uzbek": [
+                    "hushyor"
+                ],
+                "Uyghur": [
+                    "ھوشيار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sağduyulu"
+                ],
+                "Uyghur": [
+                    "سەگەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aklı başında"
+                ],
+                "Uzbek": [
+                    "ongli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ravshan"
+                ],
+                "Uyghur": [
+                    "روشن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "düşüncəli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "idrokli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саналы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зейінді"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аң-сезимдүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыраакы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "salamat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sabırlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үткен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "асыҡ зиһенле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "уяу"
+                ]
+            }
+        }
+    ]
+}
+```
+

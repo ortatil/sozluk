@@ -1,0 +1,131 @@
+{
+    "id": "i30959",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "drive up",
+    "en_definition": "approach while driving",
+    "tr_word": "arabayla yanaşmak",
+    "tr_definition": "bir yere veya birinin yanına araç sürerek yaklaşmak",
+    "ru_word": "подъезжать",
+    "ru_definition": "приблизиться к чему-либо или кому-либо на транспортном средстве",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanaşmak",
+                    "yaklaşmak"
+                ],
+                "Azerbaijani": [
+                    "yanaşmaq",
+                    "yaxınlaşmaq"
+                ],
+                "Turkmen": [
+                    "ýakynlaşmak"
+                ],
+                "Uzbek": [
+                    "yaqinlashmoq"
+                ],
+                "Uyghur": [
+                    "يېقىنلىشىش"
+                ],
+                "Kazakh": [
+                    "жақындау"
+                ],
+                "Kyrgyz": [
+                    "жакындап келүү"
+                ],
+                "Karakalpak": [
+                    "jaqınlasıo"
+                ],
+                "Tatar": [
+                    "якынлашу"
+                ],
+                "Bashkir": [
+                    "яҡынлашыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gelip durmak"
+                ],
+                "Uzbek": [
+                    "kelib to'xtamoq"
+                ],
+                "Kazakh": [
+                    "көлікпен келу"
+                ],
+                "Kyrgyz": [
+                    "келип токтоо"
+                ],
+                "Karakalpak": [
+                    "kelip toqtao"
+                ],
+                "Tatar": [
+                    "килеп туктау",
+                    "килеп җитү"
+                ],
+                "Bashkir": [
+                    "килеп етеү",
+                    "килеп туҡтау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürerek gelmek"
+                ],
+                "Azerbaijani": [
+                    "sürmək"
+                ],
+                "Turkmen": [
+                    "sürüp gelmek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "айдап келу"
+                ],
+                "Kyrgyz": [
+                    "айдап келүү",
+                    "айдап баруу"
+                ],
+                "Karakalpak": [
+                    "aydap kelio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "haydab kelmoq"
+                ],
+                "Uyghur": [
+                    "ھەيدەپ كېلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېنىغا كېلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тақау"
+                ]
+            }
+        }
+    ]
+}

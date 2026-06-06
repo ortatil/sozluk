@@ -1,0 +1,77 @@
+{
+    "id": "i58950",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "silver plate",
+    "en_definition": "tableware that is plated with silver",
+    "tr_word": "gümüş kaplama",
+    "tr_definition": "gümüşle kaplanmış sofra takımı veya eşyalar",
+    "ru_word": "посеребренная посуда",
+    "ru_definition": "столовые приборы или посуда, покрытые слоем серебра",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gümüş kaplama tabak",
+                    "gümüş kaplama",
+                    "gümüşlü tabak"
+                ],
+                "Azerbaijani": [
+                    "gümüş qab",
+                    "gümüş suyuna çəkilmiş qab",
+                    "gümüşlə örtülmüş qab"
+                ],
+                "Turkmen": [
+                    "kümüşlenen gap-gaç",
+                    "kümüş çaýylan gap-gaç",
+                    "kümüşlenen tabak"
+                ],
+                "Uyghur": [
+                    "كۈمۈش تەخسە",
+                    "كۈمۈش يۈگۈرتۈلگەن تەخسە",
+                    "كۈمۈش قاچا"
+                ],
+                "Kazakh": [
+                    "күмістелген ыдыс",
+                    "күміс жалатылған ыдыс",
+                    "күміс табақ"
+                ],
+                "Kyrgyz": [
+                    "күмүш идиш",
+                    "күмүштөлгөн идиш",
+                    "күмүш табак"
+                ],
+                "Karakalpak": [
+                    "gúmislengen ıdıs",
+                    "gúmis jalatılǵan ıdıs"
+                ],
+                "Tatar": [
+                    "көмеш савыт",
+                    "көмешләтелгән савыт",
+                    "көмеш тәлинкә"
+                ],
+                "Bashkir": [
+                    "көмөш һауыт",
+                    "көмөш тәрилкә",
+                    "көмөшләтелгән һауыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kumush idish",
+                    "kumushlangan idish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zarhal idish"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+# Karaoke
+| Field | Detail |
+|---|---|
+| **ID** | i41981 |
+| **English** | karaoke |
+| **Type** | noun |
+| **Definition** | singing popular songs accompanied by a recording of an orchestra (usually in bars or nightclubs) |
+| **Source** | common |
+| **Ortatil** | cırlaw |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| ырдоо | ırdoo |
+| **Tatar** | |
+| җырлау | jırlau |
+| **Bashkir** | |
+| йырлау | yırlau |
+
+```json
+{
+    "id": "i41981",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "karaoke",
+    "en_definition": "singing popular songs accompanied by a recording of an orchestra (usually in bars or nightclubs)",
+    "tr_word": "karaoke",
+    "tr_definition": "Genellikle bar veya gece kulüplerinde, bir orkestra kaydı eşliğinde popüler şarkıları söyleme etkinliği.",
+    "ru_word": "караоке",
+    "ru_definition": "Развлечение, заключающееся в непрофессиональном пении под заранее записанную музыку (фонограмму).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻshiq aytish"
+                ],
+                "Kyrgyz": [
+                    "кошо ырдоо"
+                ],
+                "Karakalpak": [
+                    "qosıq aytıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "musiqi müşayiəti"
+                ],
+                "Uyghur": [
+                    "ناخشا مۇسابىقىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səsli oxuma"
+                ],
+                "Turkmen": [
+                    "sazly aýdym",
+                    "sesli aýdym"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ovozli ijro"
+                ],
+                "Uyghur": [
+                    "ئاۋازلىق ناخشا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җырлау"
+                ],
+                "Bashkir": [
+                    "йырлау",
+                    "йыр башҡарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көйгә җырлау"
+                ],
+                "Bashkir": [
+                    "көйгә йырлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşlikli şarkı",
+                    "müzikli eğlence"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hazır müzikle şarkı söyleme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mahnı oxuma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "aýdym aýtmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ashula aytish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ناخشا ئېيتىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ән айту",
+                    "ән салу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өлең айту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ырдоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ыр кесе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "namaǵa qosılıp aytıo",
+                    "namalı qosıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзлек җырлау"
+                ]
+            }
+        }
+    ]
+}
+```
+

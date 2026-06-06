@@ -1,0 +1,153 @@
+{
+    "id": "i8537",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "less",
+    "en_definition": "(comparative of `little' usually used with mass nouns) a quantifier meaning not as great in amount or degree",
+    "tr_word": "daha az",
+    "tr_definition": "miktar veya derece bakımından daha küçük olan",
+    "ru_word": "меньший",
+    "ru_definition": "сравнительная степень от слова «маленький»; в меньшем количестве или степени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kəm"
+                ],
+                "Turkmen": [
+                    "kem"
+                ],
+                "Uzbek": [
+                    "kam"
+                ],
+                "Uyghur": [
+                    "كەم"
+                ],
+                "Kazakh": [
+                    "кем"
+                ],
+                "Kyrgyz": [
+                    "кем"
+                ],
+                "Karakalpak": [
+                    "kem"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "az"
+                ],
+                "Turkmen": [
+                    "az"
+                ],
+                "Uzbek": [
+                    "oz"
+                ],
+                "Kazakh": [
+                    "аз"
+                ],
+                "Kyrgyz": [
+                    "аз"
+                ],
+                "Karakalpak": [
+                    "az"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ozroq"
+                ],
+                "Uyghur": [
+                    "ئازراق"
+                ],
+                "Kyrgyz": [
+                    "азыраак"
+                ],
+                "Karakalpak": [
+                    "azıraq"
+                ],
+                "Tatar": [
+                    "азрак"
+                ],
+                "Bashkir": [
+                    "аҙыраҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kamroq"
+                ],
+                "Tatar": [
+                    "кимрәк"
+                ],
+                "Bashkir": [
+                    "кәмерәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "daha az"
+                ],
+                "Azerbaijani": [
+                    "daha az"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eksik"
+                ],
+                "Azerbaijani": [
+                    "əskik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەن"
+                ],
+                "Kazakh": [
+                    "төмен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "түбәнрәк"
+                ],
+                "Bashkir": [
+                    "түбәнерәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "noksan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pes"
+                ]
+            }
+        }
+    ]
+}

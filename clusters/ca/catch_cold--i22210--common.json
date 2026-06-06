@@ -1,0 +1,175 @@
+{
+    "id": "i22210",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "catch cold",
+    "en_definition": "come down with a cold",
+    "tr_word": "soğuk almak",
+    "tr_definition": "üşütmek veya soğuk algınlığına yakalanmak",
+    "ru_word": "простудиться",
+    "ru_definition": "заболеть легким простудным заболеванием",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soğuk almak"
+                ],
+                "Azerbaijani": [
+                    "soyuqlamaq"
+                ],
+                "Turkmen": [
+                    "sowuklamak"
+                ],
+                "Uzbek": [
+                    "sovuq olmoq"
+                ],
+                "Uyghur": [
+                    "سوغۇق تېگىش",
+                    "سوغۇق ئۆتۈش"
+                ],
+                "Kazakh": [
+                    "суық тию"
+                ],
+                "Kyrgyz": [
+                    "суук тийүү",
+                    "суук алуу"
+                ],
+                "Karakalpak": [
+                    "suoıq tiyio",
+                    "suoıqlao"
+                ],
+                "Tatar": [
+                    "суык тию"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üşütmek"
+                ],
+                "Azerbaijani": [
+                    "üşütmək"
+                ],
+                "Turkmen": [
+                    "üşetmek"
+                ],
+                "Tatar": [
+                    "өшү"
+                ],
+                "Bashkir": [
+                    "өшөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тоңу"
+                ],
+                "Kyrgyz": [
+                    "тоңуу"
+                ],
+                "Karakalpak": [
+                    "tońıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sovqatmoq",
+                    "sovqotmoq"
+                ],
+                "Bashkir": [
+                    "һыуыҡ тейҙереү",
+                    "һыуыҡ тейеү",
+                    "һыуыҡланыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "салқын тию"
+                ],
+                "Tatar": [
+                    "салкын тию"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nezle olmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hastalanmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "azarlamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "naxoşlamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dümewlemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shamollamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زۇكام بولۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұмаурату"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чыйрыгуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чирләп китү"
+                ]
+            }
+        }
+    ]
+}

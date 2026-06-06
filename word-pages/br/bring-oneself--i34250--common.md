@@ -1,0 +1,251 @@
+# Bring oneself
+| Field | Detail |
+|---|---|
+| **ID** | i34250 |
+| **English** | bring oneself |
+| **Type** | verb |
+| **Definition** | cause to undertake a certain action, usually used in the negative |
+| **Source** | common |
+| **Ortatil** | qimäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қию | qiyu |
+| **Kyrgyz** | |
+| батуу | batuu |
+| даабайт | daabayt |
+| **Bashkir** | |
+| тәүәккәлләү | täüäkkälläü |
+
+```json
+{
+    "id": "i34250",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "bring oneself",
+    "en_definition": "cause to undertake a certain action, usually used in the negative",
+    "tr_word": "kendini bir şeye zorlamak",
+    "tr_definition": "genellikle olumsuz cümlelerde, bir şeyi yapmaya razı olmak veya cesaretini toplamak",
+    "ru_word": "заставить себя",
+    "ru_definition": "преодолеть внутреннее сопротивление или нежелание сделать что-либо, обычно используется в отрицательном смысле",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ürək eləmək"
+                ],
+                "Uzbek": [
+                    "jur'at qilmoq",
+                    "yuragi dov bermoq"
+                ],
+                "Uyghur": [
+                    "يۈرىكى پېتىش",
+                    "جۈرئەت قىلالماسلىق"
+                ],
+                "Kazakh": [
+                    "жүрегі дауалау"
+                ],
+                "Karakalpak": [
+                    "júrek etio"
+                ],
+                "Tatar": [
+                    "җөрьәт итү"
+                ],
+                "Bashkir": [
+                    "йөрьәт итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gönlü razı olmak"
+                ],
+                "Azerbaijani": [
+                    "gözə almaq"
+                ],
+                "Uzbek": [
+                    "ko'ngli chopmoq",
+                    "qo'li bormoq"
+                ],
+                "Uyghur": [
+                    "كۆڭلى ئۇنىماسلىق",
+                    "كۆڭلى تارتماسلىق"
+                ],
+                "Tatar": [
+                    "күңеле тартмау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "botinmoq"
+                ],
+                "Kazakh": [
+                    "батылы бару"
+                ],
+                "Kyrgyz": [
+                    "батуу"
+                ],
+                "Karakalpak": [
+                    "batılı barıo"
+                ],
+                "Tatar": [
+                    "батырчылык итү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qıymaq"
+                ],
+                "Kazakh": [
+                    "қию"
+                ],
+                "Bashkir": [
+                    "ҡыйыулыҡ итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bacarmaq",
+                    "bacarıb etmək"
+                ],
+                "Turkmen": [
+                    "başarmak"
+                ],
+                "Bashkir": [
+                    "батырсылыҡ итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dil varmak"
+                ],
+                "Kyrgyz": [
+                    "дил баруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәті бару"
+                ],
+                "Karakalpak": [
+                    "dát etio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elvermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendine yedirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "içi elvermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "özüni ugrukdyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "höwes etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yryp bilmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көңүлү баруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "даабайт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эрки жетүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kózi qıyıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кулы бармау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзеңне мәҗбүр итү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәүәккәлләү"
+                ]
+            }
+        }
+    ]
+}
+```
+

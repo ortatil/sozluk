@@ -1,0 +1,109 @@
+{
+    "id": "i69702",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "adjective",
+    "en_definition": "a word that expresses an attribute of something",
+    "tr_word": "sıfat",
+    "tr_definition": "bir ismin niteliğini, özelliğini belirten sözcük",
+    "ru_word": "прилагательное",
+    "ru_definition": "часть речи, обозначающая признак предмета",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıfat"
+                ],
+                "Azerbaijani": [
+                    "sifət"
+                ],
+                "Turkmen": [
+                    "sypat"
+                ],
+                "Uzbek": [
+                    "sifat"
+                ],
+                "Uyghur": [
+                    "سۈپەت"
+                ],
+                "Kazakh": [
+                    "сипат"
+                ],
+                "Kyrgyz": [
+                    "сыпат"
+                ],
+                "Karakalpak": [
+                    "sıpat",
+                    "sıpatlıq"
+                ],
+                "Tatar": [
+                    "сыйфат"
+                ],
+                "Bashkir": [
+                    "сифат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "belgi"
+                ],
+                "Tatar": [
+                    "билге"
+                ],
+                "Bashkir": [
+                    "билдә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сын есім",
+                    "сын"
+                ],
+                "Kyrgyz": [
+                    "сын атооч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ön ad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vəsf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əlamət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "häsiýet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەئت"
+                ]
+            }
+        }
+    ]
+}

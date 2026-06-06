@@ -1,0 +1,124 @@
+# Fishtail palm
+| Field | Detail |
+|---|---|
+| **ID** | i103034 |
+| **English** | fishtail palm |
+| **Type** | noun |
+| **Definition** | attractive East Indian palm having distinctive bipinnate foliage |
+| **Source** | common |
+| **Ortatil** | kariata |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kariata** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| кариота | kariota |
+| **Kyrgyz** | |
+| кариота | kariota |
+| **Tatar** | |
+| кариота | kariota |
+| **Bashkir** | |
+| кариота | kariota |
+
+```json
+{
+    "id": "i103034",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fishtail palm",
+    "en_definition": "attractive East Indian palm having distinctive bipinnate foliage",
+    "tr_word": "balık kuyruğu palmiyesi",
+    "tr_definition": "Kendine özgü çift tüysü yapraklara sahip, çekici bir Doğu Hindistan palmiyesi.",
+    "ru_word": "кариота",
+    "ru_definition": "Привлекательная восточно-индийская пальма с характерными дваждыперистыми листьями.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balık kuyruğu palmiyesi"
+                ],
+                "Azerbaijani": [
+                    "balıqquyruğu palma"
+                ],
+                "Turkmen": [
+                    "balyk guýrukly palma",
+                    "balyk guýrukly hurma"
+                ],
+                "Uzbek": [
+                    "baliq dumi palmasi"
+                ],
+                "Uyghur": [
+                    "بېلىق قۇيرۇقى خورمىسى",
+                    "بېلىق قۇيرۇق پالما"
+                ],
+                "Kazakh": [
+                    "балық құйрықты пальма"
+                ],
+                "Kyrgyz": [
+                    "балык куйрук пальмасы"
+                ],
+                "Karakalpak": [
+                    "balıq quyrıqlı palma"
+                ],
+                "Tatar": [
+                    "балык койрыгы пальмасы"
+                ],
+                "Bashkir": [
+                    "балыҡ ҡойроғо пальмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karyota"
+                ],
+                "Azerbaijani": [
+                    "kariota"
+                ],
+                "Uzbek": [
+                    "kariota"
+                ],
+                "Kazakh": [
+                    "кариота"
+                ],
+                "Kyrgyz": [
+                    "кариота"
+                ],
+                "Karakalpak": [
+                    "kariota"
+                ],
+                "Tatar": [
+                    "кариота"
+                ],
+                "Bashkir": [
+                    "кариота"
+                ]
+            }
+        }
+    ]
+}
+```
+

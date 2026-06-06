@@ -1,0 +1,98 @@
+{
+    "id": "i61191",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wind turbine",
+    "en_definition": "a turbine that is driven by the wind",
+    "tr_word": "rüzgar türbini",
+    "tr_definition": "rüzgar enerjisini elektrik enerjisine dönüştüren, rüzgarla dönen bir türbin",
+    "ru_word": "ветряная турбина",
+    "ru_definition": "устройство, преобразующее кинетическую энергию ветра в механическую энергию вращения ротора",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yel değirmeni"
+                ],
+                "Azerbaijani": [
+                    "yel turbini",
+                    "yel dəyirmanı"
+                ],
+                "Turkmen": [
+                    "ýel turbinasy",
+                    "ýel desgasy",
+                    "ýel generatory",
+                    "ýel çarhy"
+                ],
+                "Kazakh": [
+                    "жел турбинасы",
+                    "жел қондырғысы",
+                    "жел генераторы",
+                    "жел диірмені"
+                ],
+                "Kyrgyz": [
+                    "жел тегирмен",
+                    "жел кубаты"
+                ],
+                "Karakalpak": [
+                    "jel digirmeni",
+                    "jel turbinası",
+                    "jel generatorı"
+                ],
+                "Tatar": [
+                    "җил тегермәне",
+                    "җил генераторы",
+                    "җил җайланмасы"
+                ],
+                "Bashkir": [
+                    "ел двигателе",
+                    "ел тирмәне",
+                    "ел генераторы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shamol turbinasi",
+                    "shamol parragi",
+                    "shamol charxi"
+                ],
+                "Uyghur": [
+                    "شامال توربىنى",
+                    "شامال چاقى",
+                    "شامال كۈچى گېنېراتورى"
+                ],
+                "Kyrgyz": [
+                    "шамал тегирмени",
+                    "шамал кубаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rüzgar türbini",
+                    "rüzgar gülü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "külək turbini",
+                    "külək çarxı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ел ҡулайламаһы"
+                ]
+            }
+        }
+    ]
+}

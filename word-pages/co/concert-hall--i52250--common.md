@@ -1,0 +1,170 @@
+# Concert hall
+| Field | Detail |
+|---|---|
+| **ID** | i52250 |
+| **English** | concert hall |
+| **Type** | noun |
+| **Definition** | a hall where concerts are given |
+| **Source** | common |
+| **Ortatil** | tämäşägäh |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| ыркана | ırkana |
+
+```json
+{
+    "id": "i52250",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "concert hall",
+    "en_definition": "a hall where concerts are given",
+    "tr_word": "konser salonu",
+    "tr_definition": "konserlerin verildiği büyük salon",
+    "ru_word": "концертный зал",
+    "ru_definition": "зал, предназначенный для проведения концертов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konser salonu"
+                ],
+                "Azerbaijani": [
+                    "konsert zalı"
+                ],
+                "Turkmen": [
+                    "konsert zaly"
+                ],
+                "Uzbek": [
+                    "konsert saroyi",
+                    "konsert zali"
+                ],
+                "Uyghur": [
+                    "كونسېرت زالى"
+                ],
+                "Kazakh": [
+                    "концерт залы"
+                ],
+                "Kyrgyz": [
+                    "концерт залы"
+                ],
+                "Karakalpak": [
+                    "koncert zalı"
+                ],
+                "Tatar": [
+                    "концерт залы"
+                ],
+                "Bashkir": [
+                    "концерт залы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tamaşa zalı"
+                ],
+                "Turkmen": [
+                    "tomaşa zaly"
+                ],
+                "Uzbek": [
+                    "tomoshagoh"
+                ],
+                "Uyghur": [
+                    "تاماشا زالى"
+                ],
+                "Karakalpak": [
+                    "tamashaxana"
+                ],
+                "Tatar": [
+                    "тамаша залы"
+                ],
+                "Bashkir": [
+                    "тамаша залы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müzik salonu"
+                ],
+                "Azerbaijani": [
+                    "musiqi zalı"
+                ],
+                "Uzbek": [
+                    "musiqa saroyi"
+                ],
+                "Kazakh": [
+                    "музыка сарайы"
+                ],
+                "Kyrgyz": [
+                    "музыка залы"
+                ],
+                "Tatar": [
+                    "музыка залы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gösteri merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "saz zaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ناخشا-مۇزىكا زالى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өнер ордасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ыркана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mádeniyat sarayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мәжлес залы"
+                ]
+            }
+        }
+    ]
+}
+```
+

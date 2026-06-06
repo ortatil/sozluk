@@ -1,0 +1,180 @@
+# Disk jockey
+| Field | Detail |
+|---|---|
+| **ID** | i89537 |
+| **English** | disk jockey |
+| **Type** | noun |
+| **Definition** | a person who announces and plays popular recorded music |
+| **Source** | common |
+| **Ortatil** | sazanda |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **küytäbäq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| күйтабақшы | küytabaqşı |
+| әуенпаз | äuyenpaz |
+| **Tatar** | |
+| көйче | köyçe |
+| **Bashkir** | |
+| көйләтүсе | köylätüse |
+
+```json
+{
+    "id": "i89537",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "disk jockey",
+    "en_definition": "a person who announces and plays popular recorded music",
+    "tr_word": "disk jokey",
+    "tr_definition": "radyoda veya bir eğlence yerinde müzik parçalarını seçip çalan ve sunan kimse",
+    "ru_word": "диджей",
+    "ru_definition": "человек, который выбирает и проигрывает для аудитории записанную музыку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müzik sunucusu"
+                ],
+                "Azerbaijani": [
+                    "musiqi aparıcısı",
+                    "musiqiçi"
+                ],
+                "Uzbek": [
+                    "musiqa boshlovchisi",
+                    "musiqa sozlovchisi",
+                    "musiqa tarqatuvchi"
+                ],
+                "Uyghur": [
+                    "مۇزىكا رىياسەتچىسى",
+                    "مۇزىكا قويغۇچى"
+                ],
+                "Kazakh": [
+                    "музыка жүргізушісі"
+                ],
+                "Kyrgyz": [
+                    "музыка тандагыч"
+                ],
+                "Tatar": [
+                    "музыка алып баручы"
+                ],
+                "Bashkir": [
+                    "музыка алып барыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күйтабақшы"
+                ],
+                "Kyrgyz": [
+                    "күү тандагыч"
+                ],
+                "Tatar": [
+                    "көй алучы",
+                    "көйче"
+                ],
+                "Bashkir": [
+                    "көйләтүсе",
+                    "көй башҡарыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sazanda",
+                    "saz alyp baryjy"
+                ],
+                "Karakalpak": [
+                    "sazger"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ناخشا-مۇزىكا رىياسەتچىسى"
+                ],
+                "Karakalpak": [
+                    "naǵmekesh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "plak çalar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "radyo sunucusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "aparıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "heňçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуенпаз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "диск тандагыч",
+                    "диск башкаруучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "basqarıoshı"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,87 @@
+{
+    "id": "i114156",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coke",
+    "en_definition": "carbon fuel produced by distillation of coal",
+    "tr_word": "kok kömürü",
+    "tr_definition": "Kömürün damıtılmasıyla elde edilen, yüksek kalorili ve gözenekli bir yakıt türü.",
+    "ru_word": "кокс",
+    "ru_definition": "Твёрдый горючий остаток, получаемый путём нагревания каменного угля без доступа воздуха.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kok",
+                    "kok kömürü"
+                ],
+                "Azerbaijani": [
+                    "koks"
+                ],
+                "Turkmen": [
+                    "koks"
+                ],
+                "Uzbek": [
+                    "koks"
+                ],
+                "Uyghur": [
+                    "كوكىس",
+                    "كوكىس كۆمۈرى"
+                ],
+                "Kazakh": [
+                    "кокс"
+                ],
+                "Kyrgyz": [
+                    "кокс"
+                ],
+                "Karakalpak": [
+                    "koks"
+                ],
+                "Tatar": [
+                    "кокс"
+                ],
+                "Bashkir": [
+                    "кокс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kömür galyndysy"
+                ],
+                "Uzbek": [
+                    "koʻmir koks"
+                ],
+                "Kyrgyz": [
+                    "көмүр чайыры"
+                ],
+                "Tatar": [
+                    "күмер"
+                ],
+                "Bashkir": [
+                    "күмер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "daş kömür koksu"
+                ],
+                "Uyghur": [
+                    "تاش كۆمۈر كوكىس"
+                ],
+                "Kazakh": [
+                    "тас көмір коксы"
+                ],
+                "Karakalpak": [
+                    "tas kómir koksı"
+                ]
+            }
+        }
+    ]
+}

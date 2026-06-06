@@ -1,0 +1,83 @@
+{
+    "id": "i113496",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snowblindness",
+    "en_definition": "temporary blindness caused by exposure to sunlight reflected from snow or ice",
+    "tr_word": "kar körlüğü",
+    "tr_definition": "kar veya buzdan yansıyan güneş ışığına maruz kalmanın neden olduğu geçici körlük",
+    "ru_word": "снежная слепота",
+    "ru_definition": "временная потеря зрения, вызванная воздействием солнечного света, отраженного от снега или льда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar körlüğü"
+                ],
+                "Azerbaijani": [
+                    "qar korluğu"
+                ],
+                "Turkmen": [
+                    "gar körlügi",
+                    "gar şöhlelenmesi"
+                ],
+                "Uzbek": [
+                    "qor koʻrligi",
+                    "qor urishi"
+                ],
+                "Uyghur": [
+                    "قار كورلىقى"
+                ],
+                "Kazakh": [
+                    "қар соқырлығы",
+                    "қар қарығуы"
+                ],
+                "Kyrgyz": [
+                    "кар сокурлугу"
+                ],
+                "Karakalpak": [
+                    "qar soqırlıǵı"
+                ],
+                "Tatar": [
+                    "кар сукырлыгы",
+                    "кар сукыраюы"
+                ],
+                "Bashkir": [
+                    "ҡар һуҡырлығы",
+                    "ҡар һуғыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar çarpması",
+                    "kar kamaşması"
+                ],
+                "Azerbaijani": [
+                    "qar şüalanması"
+                ],
+                "Uyghur": [
+                    "قار چاققانلىق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көз қарығуы"
+                ],
+                "Kyrgyz": [
+                    "көз карыгуу",
+                    "көз чагылышуу"
+                ],
+                "Karakalpak": [
+                    "kóz qarıǵuı"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "id": "i40043",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "course of study",
+    "en_definition": "education imparted in a series of lessons or meetings",
+    "tr_word": "öğrenim programı",
+    "tr_definition": "bir dizi ders veya toplantı yoluyla verilen eğitim",
+    "ru_word": "курс обучения",
+    "ru_definition": "образование, передаваемое в виде серии уроков или занятий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ders",
+                    "kurs"
+                ],
+                "Azerbaijani": [
+                    "kurs"
+                ],
+                "Turkmen": [
+                    "ders",
+                    "kurs"
+                ],
+                "Uyghur": [
+                    "دەرس",
+                    "دەرسلىك"
+                ],
+                "Kazakh": [
+                    "дәріс"
+                ],
+                "Kyrgyz": [
+                    "курс"
+                ],
+                "Karakalpak": [
+                    "kurs"
+                ],
+                "Tatar": [
+                    "курс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okuw"
+                ],
+                "Uzbek": [
+                    "oʻquv kursi",
+                    "oʻquv dasturi"
+                ],
+                "Uyghur": [
+                    "ئوقۇش كۇرسى"
+                ],
+                "Kazakh": [
+                    "оқу курсы"
+                ],
+                "Kyrgyz": [
+                    "окуу"
+                ],
+                "Karakalpak": [
+                    "oqıo"
+                ],
+                "Tatar": [
+                    "уку курсы"
+                ],
+                "Bashkir": [
+                    "уҡыу курсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "talylym"
+                ],
+                "Uzbek": [
+                    "taʼlim yoʻnalishi"
+                ],
+                "Uyghur": [
+                    "تەلىم-تەربىيە"
+                ],
+                "Kazakh": [
+                    "тәлім"
+                ],
+                "Kyrgyz": [
+                    "таалим"
+                ],
+                "Karakalpak": [
+                    "tálim"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dərs proqramı"
+                ],
+                "Uzbek": [
+                    "darslik"
+                ],
+                "Tatar": [
+                    "дәресләр циклы"
+                ],
+                "Bashkir": [
+                    "дәрестәр теҙмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сабақ"
+                ],
+                "Kyrgyz": [
+                    "сабак"
+                ],
+                "Karakalpak": [
+                    "sabaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "белем бирү программасы"
+                ],
+                "Bashkir": [
+                    "белем биреү программаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eğitim",
+                    "öğretim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müfredat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təhsil proqramı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tədris kursu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "уҡытыу программаһы"
+                ]
+            }
+        }
+    ]
+}

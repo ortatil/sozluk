@@ -1,0 +1,126 @@
+{
+    "id": "i53833",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flatcar",
+    "en_definition": "freight car without permanent sides or roof",
+    "tr_word": "platform vagon",
+    "tr_definition": "yanları ve tavanı olmayan, genellikle ağır yükleri taşımak için kullanılan yük vagonu",
+    "ru_word": "платформа",
+    "ru_definition": "грузовой вагон открытого типа, не имеющий крыши и бортов (или с откидными бортами)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açık vagon"
+                ],
+                "Azerbaijani": [
+                    "açıq vaqon"
+                ],
+                "Turkmen": [
+                    "açyk wagon"
+                ],
+                "Uzbek": [
+                    "ochiq vagon"
+                ],
+                "Uyghur": [
+                    "ئوچۇق ۋاگون"
+                ],
+                "Kazakh": [
+                    "жазық вагон",
+                    "ашық вагон"
+                ],
+                "Kyrgyz": [
+                    "ачык вагон"
+                ],
+                "Karakalpak": [
+                    "ashıq wagon"
+                ],
+                "Tatar": [
+                    "ачык вагон"
+                ],
+                "Bashkir": [
+                    "яҫы вагон"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "platform vagon"
+                ],
+                "Azerbaijani": [
+                    "platforma"
+                ],
+                "Turkmen": [
+                    "platforma"
+                ],
+                "Uzbek": [
+                    "platforma"
+                ],
+                "Kazakh": [
+                    "платформа"
+                ],
+                "Kyrgyz": [
+                    "платформа"
+                ],
+                "Karakalpak": [
+                    "platforma"
+                ],
+                "Tatar": [
+                    "платформа"
+                ],
+                "Bashkir": [
+                    "платформа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yassi vagon"
+                ],
+                "Tatar": [
+                    "яссы вагон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "düz vagon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yük platforması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەكشى ۋاگون"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇپا ۋاگون"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жалпак вагон"
+                ]
+            }
+        }
+    ]
+}

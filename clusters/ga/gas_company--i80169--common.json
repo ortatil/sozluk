@@ -1,0 +1,101 @@
+{
+    "id": "i80169",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gas company",
+    "en_definition": "a public utility that provides gas",
+    "tr_word": "gaz şirketi",
+    "tr_definition": "gaz sağlayan bir kamu hizmeti kuruluşu",
+    "ru_word": "газовая компания",
+    "ru_definition": "государственное или частное предприятие, обеспечивающее подачу газа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gaz şirketi",
+                    "gaz idaresi"
+                ],
+                "Azerbaijani": [
+                    "qaz idarəsi"
+                ],
+                "Turkmen": [
+                    "gaz edarasy",
+                    "gaz üpjünçilik edarasy"
+                ],
+                "Uzbek": [
+                    "gaz ta'minoti",
+                    "gaz korxonasi",
+                    "gaz idorasi"
+                ],
+                "Uyghur": [
+                    "گاز شىركىتى"
+                ],
+                "Kazakh": [
+                    "газ мекемесі",
+                    "газ кәсіпорны"
+                ],
+                "Kyrgyz": [
+                    "газ ишканасы",
+                    "газ мекемеси",
+                    "газ чарбасы"
+                ],
+                "Karakalpak": [
+                    "gaz mekemesi",
+                    "gaz kárxanası"
+                ],
+                "Tatar": [
+                    "газ оешмасы",
+                    "газ ширкәте",
+                    "газ идарәсе"
+                ],
+                "Bashkir": [
+                    "газ ойошмаһы",
+                    "газ идаралығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gaz kuruluşu"
+                ],
+                "Turkmen": [
+                    "gaz kärhanasy"
+                ],
+                "Karakalpak": [
+                    "gaz támiynatı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qaz təchizatçısı"
+                ],
+                "Kazakh": [
+                    "газ шаруашылығы"
+                ],
+                "Bashkir": [
+                    "газ хужалығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qaz müəssisəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەبىئىي گاز شىركىتى"
+                ]
+            }
+        }
+    ]
+}

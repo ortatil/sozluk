@@ -1,0 +1,105 @@
+{
+    "id": "i52639",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "custard pie",
+    "en_definition": "a prop consisting of an open pie filled with real or artificial custard; thrown in slapstick comedies",
+    "tr_word": "kremalı pasta",
+    "tr_definition": "slapstick komedilerde fırlatılan, içi gerçek veya yapay krema ile dolu açık turta şeklindeki dekor eşyası",
+    "ru_word": "торт с кремом",
+    "ru_definition": "открытый пирог с настоящим или искусственным кремом, используемый в качестве реквизита для метания в фарсовых комедиях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kremalı pasta",
+                    "kaymaklı pasta"
+                ],
+                "Uzbek": [
+                    "qaymoqli pirog",
+                    "qaymoqli kulcha"
+                ],
+                "Uyghur": [
+                    "قايماقلىق پىروگ",
+                    "قايماقلىق توقاچ"
+                ],
+                "Kazakh": [
+                    "қаймақты бәліш"
+                ],
+                "Kyrgyz": [
+                    "каймактуу токоч",
+                    "каймактуу пирог"
+                ],
+                "Tatar": [
+                    "каймаклы бәлеш"
+                ],
+                "Bashkir": [
+                    "ҡаймаҡлы бәлеш",
+                    "ҡайнатмалы бәлеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kremli piroq",
+                    "kremli tort"
+                ],
+                "Turkmen": [
+                    "kremli tort"
+                ],
+                "Karakalpak": [
+                    "kremli bálish"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тәтті бәліш"
+                ],
+                "Kyrgyz": [
+                    "таттуу токоч"
+                ],
+                "Tatar": [
+                    "татлы бәлеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýtli tort",
+                    "süýtli pişme"
+                ],
+                "Tatar": [
+                    "сөтле бәлеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shirin pirog"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кілегейлі бәліш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sút botqalı bálish"
+                ]
+            }
+        }
+    ]
+}

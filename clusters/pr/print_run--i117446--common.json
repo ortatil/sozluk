@@ -1,0 +1,138 @@
+{
+    "id": "i117446",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "print run",
+    "en_definition": "the period that presses run to produce an issue of a newspaper",
+    "tr_word": "baskı sayısı",
+    "tr_definition": "bir gazete veya kitabın tek seferde basılan toplam kopyası veya basım süreci",
+    "ru_word": "тираж",
+    "ru_definition": "количество экземпляров печатного издания одного выпуска",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tiraj"
+                ],
+                "Azerbaijani": [
+                    "tiraj"
+                ],
+                "Turkmen": [
+                    "tiraj"
+                ],
+                "Uzbek": [
+                    "tiraj"
+                ],
+                "Uyghur": [
+                    "تىراژ"
+                ],
+                "Kazakh": [
+                    "таралым"
+                ],
+                "Kyrgyz": [
+                    "тираж"
+                ],
+                "Karakalpak": [
+                    "tiraj"
+                ],
+                "Tatar": [
+                    "тираж"
+                ],
+                "Bashkir": [
+                    "тираж"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baskı",
+                    "basım"
+                ],
+                "Azerbaijani": [
+                    "basqı"
+                ],
+                "Uyghur": [
+                    "بېسىلىش سانى"
+                ],
+                "Kazakh": [
+                    "басылым",
+                    "баспа"
+                ],
+                "Kyrgyz": [
+                    "басылыш"
+                ],
+                "Karakalpak": [
+                    "baspa sanı"
+                ],
+                "Tatar": [
+                    "басма"
+                ],
+                "Bashkir": [
+                    "баҫма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nüsxə sayı"
+                ],
+                "Kyrgyz": [
+                    "нуска"
+                ],
+                "Karakalpak": [
+                    "nұsqa sanı"
+                ],
+                "Bashkir": [
+                    "нөсхә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "neşir sany"
+                ],
+                "Uzbek": [
+                    "nashr miqdori"
+                ],
+                "Uyghur": [
+                    "نەشر سانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "say"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çap sany"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "adad"
+                ]
+            }
+        }
+    ]
+}

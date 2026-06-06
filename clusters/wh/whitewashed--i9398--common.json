@@ -1,0 +1,116 @@
+{
+    "id": "i9398",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "whitewashed",
+    "en_definition": "coated with whitewash",
+    "tr_word": "badanalı",
+    "tr_definition": "badana sürülmüş, kireçle beyazlatılmış",
+    "ru_word": "побеленный",
+    "ru_definition": "покрытый побелкой или известью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "badanalı"
+                ],
+                "Turkmen": [
+                    "aklanan"
+                ],
+                "Uyghur": [
+                    "ئاقلانغان",
+                    "ھاكلانغان"
+                ],
+                "Kyrgyz": [
+                    "акталган"
+                ],
+                "Karakalpak": [
+                    "aqlanǵan",
+                    "aqtalǵan"
+                ],
+                "Tatar": [
+                    "акланган",
+                    "акшарланган",
+                    "акшарлы"
+                ],
+                "Bashkir": [
+                    "ағартылған",
+                    "аҡланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aklanmış"
+                ],
+                "Azerbaijani": [
+                    "ağardılmış"
+                ],
+                "Uzbek": [
+                    "oqlangan"
+                ],
+                "Uyghur": [
+                    "ئاق سۈرتۈلگەن"
+                ],
+                "Kazakh": [
+                    "ақталған",
+                    "ақ жағылған"
+                ],
+                "Kyrgyz": [
+                    "акиктелген"
+                ],
+                "Karakalpak": [
+                    "aq boyalǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ağ"
+                ],
+                "Kazakh": [
+                    "әктелген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kireçlenmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əhənglənmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "heklenen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boʻyalgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "акик менен акталган"
+                ]
+            }
+        }
+    ]
+}

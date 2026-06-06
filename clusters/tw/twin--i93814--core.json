@@ -1,0 +1,95 @@
+{
+    "id": "i93814",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "twin",
+    "en_definition": "either of two offspring born at the same time from the same pregnancy",
+    "tr_word": "ikiz",
+    "tr_definition": "aynı gebelikten aynı anda doğan iki yavrudan her biri",
+    "ru_word": "близнец",
+    "ru_definition": "один из двух детей, родившихся одновременно у одной матери",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ikiz"
+                ],
+                "Azerbaijani": [
+                    "əkiz"
+                ],
+                "Turkmen": [
+                    "ekiz",
+                    "ekizler"
+                ],
+                "Uzbek": [
+                    "egizak"
+                ],
+                "Uyghur": [
+                    "ئېگىزەك"
+                ],
+                "Kazakh": [
+                    "егіз",
+                    "егіздер"
+                ],
+                "Kyrgyz": [
+                    "эгиз",
+                    "эгиздер"
+                ],
+                "Karakalpak": [
+                    "egiz",
+                    "egizek"
+                ],
+                "Tatar": [
+                    "игез",
+                    "игезәк"
+                ],
+                "Bashkir": [
+                    "игеҙәк",
+                    "игеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşa"
+                ],
+                "Uzbek": [
+                    "qoʻshaloq"
+                ],
+                "Kazakh": [
+                    "қосар"
+                ],
+                "Tatar": [
+                    "куш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hemzad"
+                ],
+                "Azerbaijani": [
+                    "həmzad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوشكېزەك"
+                ]
+            }
+        }
+    ]
+}

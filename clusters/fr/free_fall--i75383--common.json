@@ -1,0 +1,84 @@
+{
+    "id": "i75383",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "free fall",
+    "en_definition": "the ideal falling motion of something subject only to a gravitational field",
+    "tr_word": "serbest düşüş",
+    "tr_definition": "bir cismin sadece yerçekimi kuvvetinin etkisi altında yaptığı hareket",
+    "ru_word": "свободное падение",
+    "ru_definition": "движение тела, возникающее только под воздействием силы тяжести",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "erkin gaçyş",
+                    "erkin düşüş"
+                ],
+                "Uzbek": [
+                    "erkin tushish",
+                    "erkin parvoz"
+                ],
+                "Uyghur": [
+                    "ئەركىن چۈشۈش"
+                ],
+                "Kazakh": [
+                    "еркін құлау"
+                ],
+                "Kyrgyz": [
+                    "эркин кулоо",
+                    "эркин түшүү"
+                ],
+                "Karakalpak": [
+                    "erkin túsio",
+                    "erkin qullao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "serbest düşüş",
+                    "serbest düşme"
+                ],
+                "Azerbaijani": [
+                    "sərbəst düşmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирекле төшү",
+                    "ирекле егылу"
+                ],
+                "Bashkir": [
+                    "ирекле төшөү",
+                    "ирекле ҡолау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "azad düşmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توسالغۇسىز چۈشۈش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кедергісіз құлау"
+                ]
+            }
+        }
+    ]
+}

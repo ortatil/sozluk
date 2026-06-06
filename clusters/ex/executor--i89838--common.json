@@ -1,0 +1,113 @@
+{
+    "id": "i89838",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "executor",
+    "en_definition": "a person appointed by a testator to carry out the terms of the will",
+    "tr_word": "vasiyeti tenfiz memuru",
+    "tr_definition": "Bir vasiyetnamenin hükümlerini yerine getirmek üzere vasiyetçi tarafından atanan kişi.",
+    "ru_word": "исполнитель завещания",
+    "ru_definition": "Лицо, назначенное завещателем для приведения в исполнение условий завещания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vasi"
+                ],
+                "Azerbaijani": [
+                    "vasi",
+                    "vəsiyyətnamə icraçısı"
+                ],
+                "Turkmen": [
+                    "wesýetdar"
+                ],
+                "Uzbek": [
+                    "vasiyatnoma ijrochisi",
+                    "vasiyat ijrochisi",
+                    "vasiy"
+                ],
+                "Uyghur": [
+                    "ۋەسىيەت ئىجرا قىلغۇچى",
+                    "ۋەسىيەتنامە ئىجراچىسى",
+                    "ۋەسىيەتدار"
+                ],
+                "Kyrgyz": [
+                    "васий"
+                ],
+                "Karakalpak": [
+                    "oásiyat orınlaoshı"
+                ],
+                "Tatar": [
+                    "васыятьнамә үтәүче",
+                    "васыять үтәүче"
+                ],
+                "Bashkir": [
+                    "васыят үтәүсе",
+                    "васыятнамә башҡарыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "уәкіл"
+                ],
+                "Kyrgyz": [
+                    "өкүл"
+                ],
+                "Karakalpak": [
+                    "oákil"
+                ],
+                "Tatar": [
+                    "вәкил"
+                ],
+                "Bashkir": [
+                    "вәкил"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vasiyeti yerine getiren",
+                    "vasiyet tenfiz memuru"
+                ],
+                "Turkmen": [
+                    "wesýetnamany ýerine ýetiriji",
+                    "wesýet ýerine ýetiriji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "icraçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өсиет орындаушы",
+                    "өсиетші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "керээз аткаруучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "orınlaoshı"
+                ]
+            }
+        }
+    ]
+}

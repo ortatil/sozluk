@@ -1,0 +1,148 @@
+{
+    "id": "i70569",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "index",
+    "en_definition": "an alphabetical listing of names and topics along with page numbers where they are discussed",
+    "tr_word": "dizin",
+    "tr_definition": "Bir kitabın sonunda yer alan, konulara veya isimlere göre düzenlenmiş sayfa numaralarını gösteren alfabetik liste.",
+    "ru_word": "указатель",
+    "ru_definition": "Алфавитный список имен и тем с указанием номеров страниц, на которых они обсуждаются.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "göstərici"
+                ],
+                "Turkmen": [
+                    "görkeziji"
+                ],
+                "Uzbek": [
+                    "koʻrsatkich"
+                ],
+                "Uyghur": [
+                    "كۆرسەتكۈچ"
+                ],
+                "Kazakh": [
+                    "көрсеткіш"
+                ],
+                "Kyrgyz": [
+                    "көрсөткүч"
+                ],
+                "Karakalpak": [
+                    "kórsetkish"
+                ],
+                "Tatar": [
+                    "күрсәткеч"
+                ],
+                "Bashkir": [
+                    "күрһәткес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fihrist"
+                ],
+                "Azerbaijani": [
+                    "fihrist"
+                ],
+                "Turkmen": [
+                    "fihrist"
+                ],
+                "Uzbek": [
+                    "fihrist"
+                ],
+                "Uyghur": [
+                    "فېھرىست"
+                ],
+                "Karakalpak": [
+                    "fexrist"
+                ],
+                "Tatar": [
+                    "фәһрест"
+                ],
+                "Bashkir": [
+                    "фехрист"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dizin"
+                ],
+                "Kazakh": [
+                    "тізім",
+                    "тізбе"
+                ],
+                "Kyrgyz": [
+                    "тизме",
+                    "тизим"
+                ],
+                "Karakalpak": [
+                    "dizim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "indeks"
+                ],
+                "Azerbaijani": [
+                    "indeks"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mundarija"
+                ],
+                "Uyghur": [
+                    "مۇندەرىجە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sanaw"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мазмұндама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каталог"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "исемлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төҙөмә"
+                ]
+            }
+        }
+    ]
+}

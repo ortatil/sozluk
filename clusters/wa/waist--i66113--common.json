@@ -1,0 +1,89 @@
+{
+    "id": "i66113",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "waist",
+    "en_definition": "the narrowing of the body between the ribs and hips",
+    "tr_word": "bel",
+    "tr_definition": "vücudun göğüs kafesi ile kalça arasındaki daralmış bölgesi",
+    "ru_word": "талия",
+    "ru_definition": "самая узкая часть туловища между грудной клеткой и тазом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bel"
+                ],
+                "Azerbaijani": [
+                    "bel"
+                ],
+                "Turkmen": [
+                    "bil"
+                ],
+                "Uzbek": [
+                    "bel"
+                ],
+                "Uyghur": [
+                    "بەل"
+                ],
+                "Kazakh": [
+                    "бел",
+                    "белсенді"
+                ],
+                "Kyrgyz": [
+                    "бел"
+                ],
+                "Karakalpak": [
+                    "bel",
+                    "belsen"
+                ],
+                "Tatar": [
+                    "бил"
+                ],
+                "Bashkir": [
+                    "бил",
+                    "бил быуыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "miyan"
+                ],
+                "Uzbek": [
+                    "miyon"
+                ],
+                "Uyghur": [
+                    "ميان"
+                ],
+                "Tatar": [
+                    "миян"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "orta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "guşaklyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кырчоо"
+                ]
+            }
+        }
+    ]
+}

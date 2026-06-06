@@ -1,0 +1,173 @@
+# Crutch
+| Field | Detail |
+|---|---|
+| **ID** | i52571 |
+| **English** | crutch |
+| **Type** | noun |
+| **Definition** | a wooden or metal staff that fits under the armpit and reaches to the ground; used by disabled person while walking |
+| **Source** | common |
+| **Ortatil** | ḍayaq, qoltuqtayaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍayaq** | **qoltuqtayaq** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.33 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 1 | 0.20 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **2.53** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تاياق | tayaq |
+| قولتۇقتاياق | qoltuqtayaq |
+| ھاسا | hasa |
+| **Kazakh** | |
+| таяныш | tayanış |
+| тірек | tirek |
+| балdaq | baldaq |
+| **Kyrgyz** | |
+| таяк | tayak |
+| балдак | baldak |
+| **Tatar** | |
+| таяк | tayak |
+| **Bashkir** | |
+| таяҡ | tayaq |
+
+```json
+{
+    "id": "i52571",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "crutch",
+    "en_definition": "a wooden or metal staff that fits under the armpit and reaches to the ground; used by disabled person while walking",
+    "tr_word": "koltuk değneği",
+    "tr_definition": "Yürümekte güçlük çekenlerin koltuk altlarına dayayarak destek aldıkları araç.",
+    "ru_word": "костыль",
+    "ru_definition": "Опора для ходьбы, представляющая собой длинную палку, упирающуюся в подмышку или предплечье.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dayanak"
+                ],
+                "Azerbaijani": [
+                    "dayaq"
+                ],
+                "Turkmen": [
+                    "taýak"
+                ],
+                "Uzbek": [
+                    "tayoq"
+                ],
+                "Uyghur": [
+                    "تاياق"
+                ],
+                "Kazakh": [
+                    "таяныш"
+                ],
+                "Kyrgyz": [
+                    "таяк"
+                ],
+                "Karakalpak": [
+                    "tayaq"
+                ],
+                "Tatar": [
+                    "таяк"
+                ],
+                "Bashkir": [
+                    "таяҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koltuk değneği"
+                ],
+                "Azerbaijani": [
+                    "qoltuqağacı"
+                ],
+                "Uzbek": [
+                    "qo'ltiqtayoq"
+                ],
+                "Uyghur": [
+                    "قولتۇقتاياق"
+                ],
+                "Karakalpak": [
+                    "qoltıqtayaq"
+                ],
+                "Tatar": [
+                    "култык таягы"
+                ],
+                "Bashkir": [
+                    "ҡултыҡ таяғы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "destek"
+                ],
+                "Kazakh": [
+                    "тірек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əsa"
+                ],
+                "Uzbek": [
+                    "asosa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hassa-taýak"
+                ],
+                "Uyghur": [
+                    "ھاسا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "балdaq"
+                ],
+                "Kyrgyz": [
+                    "балдак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goştyk"
+                ]
+            }
+        }
+    ]
+}
+```
+

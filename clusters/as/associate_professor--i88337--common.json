@@ -1,0 +1,89 @@
+{
+    "id": "i88337",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "associate professor",
+    "en_definition": "a teacher lower in rank than a full professor but higher than an assistant professor",
+    "tr_word": "doçent",
+    "tr_definition": "üniversitelerde profesörden önceki basamakta bulunan öğretim üyesi",
+    "ru_word": "доцент",
+    "ru_definition": "учёное звание и должность преподавателя высшего учебного заведения, среднее между ассистентом и профессором",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doçent"
+                ],
+                "Azerbaijani": [
+                    "dosent"
+                ],
+                "Turkmen": [
+                    "dosent"
+                ],
+                "Uzbek": [
+                    "dotsent"
+                ],
+                "Uyghur": [
+                    "دوتسېنت"
+                ],
+                "Kazakh": [
+                    "доцент"
+                ],
+                "Kyrgyz": [
+                    "доцент"
+                ],
+                "Karakalpak": [
+                    "docent"
+                ],
+                "Tatar": [
+                    "доцент"
+                ],
+                "Bashkir": [
+                    "доцент"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muavin profesör"
+                ],
+                "Uzbek": [
+                    "muallim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қауымдастырылған профессор"
+                ],
+                "Kyrgyz": [
+                    "орто профессор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly mugallym"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تولۇقسىز پىروفېسسور"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ярҙамсы профессор"
+                ]
+            }
+        }
+    ]
+}

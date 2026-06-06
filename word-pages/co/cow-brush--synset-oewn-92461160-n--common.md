@@ -1,0 +1,145 @@
+# Cow brush
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-92461160-n |
+| **English** | cow brush |
+| **Type** | noun |
+| **Definition** | a stationary or rotating brush usually consisting of one horizontal and one vertical brush that cows use for scratching and grooming. |
+| **Source** | common |
+| **Ortatil** | kaşağı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "synset-oewn-92461160-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cow brush",
+    "en_definition": "a stationary or rotating brush usually consisting of one horizontal and one vertical brush that cows use for scratching and grooming.",
+    "tr_word": "inek kaşıma fırçası",
+    "tr_definition": "ineklerin kaşınmak ve tımar yapmak için kullandığı, genellikle biri yatay diğeri dikey iki fırçadan oluşan sabit veya döner fırça.",
+    "ru_word": "чесалка для коров",
+    "ru_definition": "стационарная или вращающаяся щетка, обычно состоящая из одной горизонтальной и одной вертикальной щетки, которую коровы используют для чесания и ухода за собой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sygyr gaşawy",
+                    "sygyr süpürgiçi"
+                ],
+                "Kazakh": [
+                    "сиыр қасығышы",
+                    "сиыр щеткасы"
+                ],
+                "Karakalpak": [
+                    "sıyır qasıǵısh"
+                ],
+                "Tatar": [
+                    "сыер кашыгычы"
+                ],
+                "Bashkir": [
+                    "һыйыр щеткаһы",
+                    "һыйыр ҡашығысы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mal gaşawy"
+                ],
+                "Uzbek": [
+                    "mol qashlagich"
+                ],
+                "Kyrgyz": [
+                    "мал кашыгыч"
+                ],
+                "Karakalpak": [
+                    "mal qasıǵısh",
+                    "mal shchetkası"
+                ],
+                "Bashkir": [
+                    "мал ҡашығысы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayvan kaşıma fırçası",
+                    "hayvan fırçası"
+                ],
+                "Azerbaijani": [
+                    "heyvan qaşovlayanı",
+                    "heyvan fırçası"
+                ],
+                "Tatar": [
+                    "хайван кашыгычы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaşağı"
+                ],
+                "Uyghur": [
+                    "كالا قاشلىغۇچ",
+                    "كالا سۈركەنگۈچ",
+                    "كالا چوتكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "inek kaşıma fırçası"
+                ],
+                "Azerbaijani": [
+                    "inək qaşovlayanı",
+                    "inək fırçası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mol qashlagichi"
+                ],
+                "Kazakh": [
+                    "мал қасығышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mol choʻtkasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уй кашыгыч",
+                    "уй щеткасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "терлек кашыгычы"
+                ]
+            }
+        }
+    ]
+}
+```
+

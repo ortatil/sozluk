@@ -1,0 +1,120 @@
+{
+    "id": "i76706",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lump sugar",
+    "en_definition": "refined sugar molded into rectangular shapes convenient as single servings",
+    "tr_word": "küp şeker",
+    "tr_definition": "tek kullanımlık porsiyonlar halinde preslenmiş, küp veya dikdörtgen prizma şeklindeki rafine şeker",
+    "ru_word": "рафинад",
+    "ru_definition": "очищенный сахар, прессованный в виде небольших кубиков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kesme şeker",
+                    "kelle şeker"
+                ],
+                "Turkmen": [
+                    "kelle gant"
+                ],
+                "Uzbek": [
+                    "kallaqand"
+                ],
+                "Uyghur": [
+                    "كېسەك قەنت"
+                ],
+                "Kazakh": [
+                    "кесек қант"
+                ],
+                "Kyrgyz": [
+                    "кесек кант"
+                ],
+                "Karakalpak": [
+                    "kesek qant"
+                ],
+                "Tatar": [
+                    "кисәк шикәр"
+                ],
+                "Bashkir": [
+                    "киҫәк шәкәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qənd"
+                ],
+                "Turkmen": [
+                    "gant",
+                    "gand"
+                ],
+                "Uzbek": [
+                    "qand"
+                ],
+                "Uyghur": [
+                    "قەنت"
+                ],
+                "Kazakh": [
+                    "қант"
+                ],
+                "Kyrgyz": [
+                    "кант"
+                ],
+                "Karakalpak": [
+                    "qant"
+                ],
+                "Bashkir": [
+                    "ҡанд"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kəllə qənd"
+                ],
+                "Tatar": [
+                    "кырлы шикәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шақпақ қант"
+                ],
+                "Kyrgyz": [
+                    "чагылган кант"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "каты шикәр"
+                ],
+                "Bashkir": [
+                    "ҡатҡан шәкәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "küp şeker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پارچە قەنت"
+                ]
+            }
+        }
+    ]
+}

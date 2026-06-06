@@ -1,0 +1,118 @@
+{
+    "id": "i106442",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "overpayment",
+    "en_definition": "a payment larger than needed or expected",
+    "tr_word": "fazla ödeme",
+    "tr_definition": "gereken veya beklenen miktardan daha büyük bir ödeme",
+    "ru_word": "переплата",
+    "ru_definition": "платеж, превышающий необходимую или ожидаемую сумму",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "artık ödeme"
+                ],
+                "Azerbaijani": [
+                    "artıq ödəmə",
+                    "artıq ödəniş"
+                ],
+                "Turkmen": [
+                    "artykmaç töleg"
+                ],
+                "Uzbek": [
+                    "ortiqcha toʻlov"
+                ],
+                "Uyghur": [
+                    "ئارتۇق چىقىم",
+                    "ئارتۇق تۆلەم"
+                ],
+                "Kazakh": [
+                    "артық төлем",
+                    "артық төлеу"
+                ],
+                "Karakalpak": [
+                    "artıq tólem"
+                ],
+                "Tatar": [
+                    "артык түләү",
+                    "арттырып түләү"
+                ],
+                "Bashkir": [
+                    "артыҡ түләү",
+                    "артыҡ биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ziyade ödeme"
+                ],
+                "Azerbaijani": [
+                    "ziyadə ödəmə"
+                ],
+                "Turkmen": [
+                    "ziýada töleg"
+                ],
+                "Uzbek": [
+                    "ziyoda toʻlov"
+                ],
+                "Uyghur": [
+                    "زىيادە پۇل"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köp töleg"
+                ],
+                "Uzbek": [
+                    "koʻp toʻlov"
+                ],
+                "Karakalpak": [
+                    "kóp tólem"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "асыра төлеу"
+                ],
+                "Kyrgyz": [
+                    "ашыкча төлөм",
+                    "ашык төлөө",
+                    "ашыкча төлөө"
+                ],
+                "Karakalpak": [
+                    "asıra tóleu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өстәмә түләү"
+                ],
+                "Bashkir": [
+                    "өҫтәмә түләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fazla ödeme",
+                    "fuzuli ödeme"
+                ]
+            }
+        }
+    ]
+}

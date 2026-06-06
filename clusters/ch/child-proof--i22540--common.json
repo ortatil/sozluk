@@ -1,0 +1,80 @@
+{
+    "id": "i22540",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "child-proof",
+    "en_definition": "make safe against children",
+    "tr_word": "çocuk kilidi takmak",
+    "tr_definition": "çocuklar için güvenli hale getirmek",
+    "ru_word": "обезопасить от детей",
+    "ru_definition": "сделать безопасным для детей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bolalardan himoyalamoq",
+                    "bolalar uchun xavfsiz qilmoq",
+                    "bolalardan asramoq"
+                ],
+                "Uyghur": [
+                    "بالىلارغا بىخەتەر قىلماق",
+                    "بالىلارغا ماسلاشتۇرماق",
+                    "بالىلارنىڭ زىيان يەتكۈزۈشىدىن ساقلىماق"
+                ],
+                "Kazakh": [
+                    "баладан қорғау",
+                    "балаға қауіпсіз ету",
+                    "баланың қолы жетпейтіндей ету"
+                ],
+                "Kyrgyz": [
+                    "баладан коргоо",
+                    "бала үчүн коопсуз кылуу",
+                    "бала жетпес кылуу"
+                ],
+                "Karakalpak": [
+                    "balalardan qorǵao",
+                    "balalar ushın qáoipsiz etio",
+                    "balalar tiymeytuǵın etio"
+                ],
+                "Tatar": [
+                    "балалардан саклау",
+                    "балалар өчен куркынычсыз итү",
+                    "балалардан арындыру"
+                ],
+                "Bashkir": [
+                    "балалар өсөн хәүефһеҙләтеү",
+                    "балаларҙан һаҡлау",
+                    "балалар өсөн хәүефһеҙ итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çocuklar için güvenli hale getirmek",
+                    "çocuk emniyeti sağlamak",
+                    "çocuklara karşı korunaklı yapmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uşaqdan qorumaq",
+                    "uşaq üçün təhlükəsiz etmək",
+                    "uşaqdan mühafizə etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çagadan goramak",
+                    "çaga üçin howpsuz etmek",
+                    "çaga elýetmez etmek"
+                ]
+            }
+        }
+    ]
+}

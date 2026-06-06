@@ -1,0 +1,131 @@
+{
+    "id": "i60192",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "thing",
+    "en_definition": "an entity that is not named specifically",
+    "tr_word": "şey",
+    "tr_definition": "Özellikle adı belirtilmeyen herhangi bir nesne, olay veya durum.",
+    "ru_word": "вещь",
+    "ru_definition": "Предмет или явление, которое не названо конкретно.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nesne"
+                ],
+                "Azerbaijani": [
+                    "nəsnə"
+                ],
+                "Turkmen": [
+                    "nesne"
+                ],
+                "Uzbek": [
+                    "narsa"
+                ],
+                "Uyghur": [
+                    "نەرسە"
+                ],
+                "Kazakh": [
+                    "нәрсе"
+                ],
+                "Kyrgyz": [
+                    "нерсе"
+                ],
+                "Karakalpak": [
+                    "nárse"
+                ],
+                "Tatar": [
+                    "нәрсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "zat",
+                    "şat"
+                ],
+                "Kazakh": [
+                    "зат"
+                ],
+                "Kyrgyz": [
+                    "зат"
+                ],
+                "Karakalpak": [
+                    "zat"
+                ],
+                "Tatar": [
+                    "зат"
+                ],
+                "Bashkir": [
+                    "зат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "buyum"
+                ],
+                "Uyghur": [
+                    "بۇيۇم"
+                ],
+                "Kazakh": [
+                    "бұйым"
+                ],
+                "Kyrgyz": [
+                    "буюм"
+                ],
+                "Karakalpak": [
+                    "buyum"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şey"
+                ],
+                "Azerbaijani": [
+                    "şey",
+                    "əşya"
+                ],
+                "Uzbek": [
+                    "ashyo"
+                ],
+                "Uyghur": [
+                    "شەيئى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "әйбер"
+                ],
+                "Bashkir": [
+                    "әйбер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "madde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "нәмә"
+                ]
+            }
+        }
+    ]
+}

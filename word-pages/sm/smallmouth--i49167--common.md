@@ -1,0 +1,108 @@
+# Smallmouth
+| Field | Detail |
+|---|---|
+| **ID** | i49167 |
+| **English** | smallmouth |
+| **Type** | noun |
+| **Definition** | a variety of black bass; the angle of the jaw falls below the eye |
+| **Source** | common |
+| **Ortatil** | alabuga |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| алабуга | alabuga |
+
+```json
+{
+    "id": "i49167",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "smallmouth",
+    "en_definition": "a variety of black bass; the angle of the jaw falls below the eye",
+    "tr_word": "küçük ağızlı levrek",
+    "tr_definition": "çene açısı göz hizasının altına düşen bir tür kara levrek",
+    "ru_word": "малоротый окунь",
+    "ru_definition": "разновидность черного окуня, у которого угол челюсти находится ниже уровня глаз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük ağızlı levrek",
+                    "küçük ağızlı kara levrek"
+                ],
+                "Azerbaijani": [
+                    "kiçikağız xanı",
+                    "kiçikağız bas"
+                ],
+                "Turkmen": [
+                    "kiçi agyzly okuş"
+                ],
+                "Uzbek": [
+                    "kichik og'izli olabug'a"
+                ],
+                "Uyghur": [
+                    "كىچىك ئېغىزلىق باس بېلىقى",
+                    "كىچىك ئېغىزلىق بېلىق"
+                ],
+                "Kazakh": [
+                    "кіші ауызды алабұға",
+                    "кіші ауызды басс"
+                ],
+                "Kyrgyz": [
+                    "кичи ооз алабуга"
+                ],
+                "Karakalpak": [
+                    "kіshі auızdı alabұǵa"
+                ],
+                "Tatar": [
+                    "кече авызлы алабуга",
+                    "кече авызлы басс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "алабуга"
+                ],
+                "Karakalpak": [
+                    "alabұǵa"
+                ],
+                "Bashkir": [
+                    "бәләкәй ауыҙлы алабуға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gara okuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mayda og'izli olabug'a"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тар ауыҙлы алабуға"
+                ]
+            }
+        }
+    ]
+}
+```
+

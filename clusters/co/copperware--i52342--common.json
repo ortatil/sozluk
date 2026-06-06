@@ -1,0 +1,90 @@
+{
+    "id": "i52342",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "copperware",
+    "en_definition": "utensils made with copper",
+    "tr_word": "bakır kaplar",
+    "tr_definition": "bakırdan yapılmış mutfak gereçleri veya eşyalar",
+    "ru_word": "медная посуда",
+    "ru_definition": "кухонная утварь или изделия, изготовленные из меди",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "misgərlik məmulatı",
+                    "mis qab-qacaq",
+                    "mis qablar"
+                ],
+                "Turkmen": [
+                    "mis gap-gaçlar",
+                    "mis gaplar",
+                    "mis enjamlar"
+                ],
+                "Uzbek": [
+                    "misgarlik buyumlari",
+                    "mis idishlar",
+                    "mis asboblar"
+                ],
+                "Uyghur": [
+                    "مىس سايمانلار",
+                    "مىس قاچا-قۇچىلار",
+                    "مىس ئەسۋابلار"
+                ],
+                "Kazakh": [
+                    "мыс ыдыс",
+                    "мыс бұйымдар",
+                    "мыс аспаптар"
+                ],
+                "Karakalpak": [
+                    "mıs ıdıs",
+                    "mıs buyımlar",
+                    "mıs ıdıs-ayaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bakır kaplar",
+                    "bakır eşya",
+                    "bakır takımı",
+                    "bakır kap kacak"
+                ],
+                "Tatar": [
+                    "бакыр савыт-саба",
+                    "бакыр савытлар",
+                    "бакыр әйберләр"
+                ],
+                "Bashkir": [
+                    "баҡыр һауыт-һаба",
+                    "баҡыр һауыт",
+                    "баҡыр әйберҙәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жез идиш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жез аяк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жез буюм"
+                ]
+            }
+        }
+    ]
+}

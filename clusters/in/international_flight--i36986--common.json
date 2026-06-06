@@ -1,0 +1,121 @@
+{
+    "id": "i36986",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "international flight",
+    "en_definition": "a flight that takes off in one country and lands in another",
+    "tr_word": "dış hat uçuşu",
+    "tr_definition": "bir ülkeden kalkıp başka bir ülkeye iniş yapan uçuş",
+    "ru_word": "международный рейс",
+    "ru_definition": "рейс, который вылетает из одной страны и приземляется в другой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "halkara gatnawy",
+                    "halkara uçuşy"
+                ],
+                "Uzbek": [
+                    "xalqaro parvoz",
+                    "xalqaro reys"
+                ],
+                "Uyghur": [
+                    "خەلقئارالىق نۆۋەتچى ئايروپىلان",
+                    "خەلقئارا نۆۋەتچى ئايروپىلان",
+                    "خەلقئارا ئۇچۇش"
+                ],
+                "Kazakh": [
+                    "халықаралық рейс",
+                    "халықаралық ұшу"
+                ],
+                "Karakalpak": [
+                    "xalıqaralıq reys"
+                ],
+                "Tatar": [
+                    "халыкара очыш"
+                ],
+                "Bashkir": [
+                    "халыҡ-ара осош",
+                    "халыҡ-ара рейс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ел аралық рейс"
+                ],
+                "Kyrgyz": [
+                    "эл аралык каттам",
+                    "эл аралык учуш"
+                ],
+                "Bashkir": [
+                    "ил-ара осош"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dış hat uçuşu"
+                ],
+                "Turkmen": [
+                    "daşary ýurt gatnawy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uluslararası uçuş"
+                ],
+                "Azerbaijani": [
+                    "ölkələrarası uçuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beynelmilel uçuş"
+                ],
+                "Azerbaijani": [
+                    "beynəlxalq uçuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "davlatlararo parvoz"
+                ],
+                "Tatar": [
+                    "дәүләтара очыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xarici uçuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mámleketler aralıq ushıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "илкүләм очыш"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "i61726",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fingermark",
+    "en_definition": "a smudge made by a (dirty) finger",
+    "tr_word": "parmak izi",
+    "tr_definition": "kirli bir parmağın bıraktığı leke veya iz",
+    "ru_word": "отпечаток пальца",
+    "ru_definition": "грязный след или пятно, оставленное пальцем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "parmak izi",
+                    "parmak lekesi"
+                ],
+                "Azerbaijani": [
+                    "barmaq izi",
+                    "barmaq nişanı"
+                ],
+                "Turkmen": [
+                    "barmak yzy",
+                    "barmak nysany"
+                ],
+                "Uzbek": [
+                    "barmoq izi",
+                    "barmoq tamg'asi"
+                ],
+                "Uyghur": [
+                    "بارماق ئىزى"
+                ],
+                "Kyrgyz": [
+                    "бармак изи"
+                ],
+                "Karakalpak": [
+                    "barmaq іzі"
+                ],
+                "Tatar": [
+                    "бармак эзе",
+                    "бармак тамгасы"
+                ],
+                "Bashkir": [
+                    "бармаҡ эҙе",
+                    "бармаҡ тамғаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قول ئىزى"
+                ],
+                "Kyrgyz": [
+                    "кол изи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саусақ ізі",
+                    "саусақ таңбасы"
+                ],
+                "Karakalpak": [
+                    "sausaq іzі"
+                ]
+            }
+        }
+    ]
+}

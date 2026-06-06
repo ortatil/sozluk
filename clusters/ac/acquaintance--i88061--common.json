@@ -1,0 +1,110 @@
+{
+    "id": "i88061",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "acquaintance",
+    "en_definition": "a person with whom you are acquainted",
+    "tr_word": "tanıdık",
+    "tr_definition": "tanınan ama yakın dost olmayan kimse",
+    "ru_word": "знакомый",
+    "ru_definition": "человек, с которым кто-либо знаком, но не состоит в дружеских отношениях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tanıdık"
+                ],
+                "Azerbaijani": [
+                    "tanış"
+                ],
+                "Turkmen": [
+                    "tanyş",
+                    "tanyş-biliş"
+                ],
+                "Uzbek": [
+                    "tanish"
+                ],
+                "Uyghur": [
+                    "تونۇش",
+                    "تونۇش-بىلىش"
+                ],
+                "Kazakh": [
+                    "таныс"
+                ],
+                "Kyrgyz": [
+                    "тааныш"
+                ],
+                "Karakalpak": [
+                    "tanıs",
+                    "tanıs-bilis",
+                    "tanıs-panıs"
+                ],
+                "Tatar": [
+                    "таныш",
+                    "таныш-белеш"
+                ],
+                "Bashkir": [
+                    "таныш",
+                    "таныш-белеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bildik"
+                ],
+                "Azerbaijani": [
+                    "biliş"
+                ],
+                "Turkmen": [
+                    "biliş"
+                ],
+                "Uzbek": [
+                    "bilish"
+                ],
+                "Kazakh": [
+                    "біліс"
+                ],
+                "Kyrgyz": [
+                    "билген"
+                ],
+                "Tatar": [
+                    "белеш"
+                ],
+                "Bashkir": [
+                    "белеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşina"
+                ],
+                "Azerbaijani": [
+                    "aşna"
+                ],
+                "Uzbek": [
+                    "oshno"
+                ],
+                "Uyghur": [
+                    "ئاشنا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "араласатын адам"
+                ],
+                "Kyrgyz": [
+                    "аралаш"
+                ]
+            }
+        }
+    ]
+}

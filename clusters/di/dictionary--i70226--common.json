@@ -1,0 +1,90 @@
+{
+    "id": "i70226",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dictionary",
+    "en_definition": "a reference book containing an alphabetical list of words with information about them",
+    "tr_word": "sözlük",
+    "tr_definition": "kelimelerin alfabetik bir listesini ve onlar hakkındaki bilgileri içeren bir başvuru kitabı",
+    "ru_word": "словарь",
+    "ru_definition": "справочное издание, содержащее упорядоченный список слов с их значениями или переводом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lügat"
+                ],
+                "Azerbaijani": [
+                    "lüğət"
+                ],
+                "Turkmen": [
+                    "lügat"
+                ],
+                "Uzbek": [
+                    "lugʻat"
+                ],
+                "Uyghur": [
+                    "لۇغەت"
+                ],
+                "Kazakh": [
+                    "лұғат"
+                ],
+                "Kyrgyz": [
+                    "лугат"
+                ],
+                "Karakalpak": [
+                    "loǵat"
+                ],
+                "Tatar": [
+                    "лүгать"
+                ],
+                "Bashkir": [
+                    "лөғәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sözlük"
+                ],
+                "Azerbaijani": [
+                    "sözlük"
+                ],
+                "Turkmen": [
+                    "sözlük"
+                ],
+                "Uyghur": [
+                    "سۆزلۈك"
+                ],
+                "Kazakh": [
+                    "сөздік"
+                ],
+                "Kyrgyz": [
+                    "сөздүк"
+                ],
+                "Karakalpak": [
+                    "sózlik"
+                ],
+                "Tatar": [
+                    "сүзлек"
+                ],
+                "Bashkir": [
+                    "һүҙлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kamus"
+                ],
+                "Uzbek": [
+                    "qomus"
+                ]
+            }
+        }
+    ]
+}

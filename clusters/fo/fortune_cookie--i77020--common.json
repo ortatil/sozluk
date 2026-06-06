@@ -1,0 +1,131 @@
+{
+    "id": "i77020",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fortune cookie",
+    "en_definition": "thin folded wafer containing a maxim on a slip of paper",
+    "tr_word": "fal kurabiyesi",
+    "tr_definition": "içinde bir kağıt üzerinde özlü söz veya kehanet bulunan ince, katlanmış kurabiye",
+    "ru_word": "печенье с предсказанием",
+    "ru_definition": "тонкое хрустящее печенье, внутри которого находится записка с афоризмом или пророчеством",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fal kurabiyesi"
+                ],
+                "Azerbaijani": [
+                    "fal peçenyesi"
+                ],
+                "Turkmen": [
+                    "pal kökesi"
+                ],
+                "Uzbek": [
+                    "folli pechenye"
+                ],
+                "Karakalpak": [
+                    "pal pechenesi",
+                    "pallı pechene"
+                ],
+                "Tatar": [
+                    "фаль кисәге",
+                    "фаль печеньесы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tale peçenyesi"
+                ],
+                "Uyghur": [
+                    "تەلەي پېچىنىسى"
+                ],
+                "Kazakh": [
+                    "тілек печеньесі"
+                ],
+                "Kyrgyz": [
+                    "төлгө печеньеси",
+                    "төлгө наны",
+                    "төлгө кагаздуу таттуу"
+                ],
+                "Karakalpak": [
+                    "tilek pechenesi"
+                ],
+                "Bashkir": [
+                    "теләк печеньеһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bəxt peçenyesi"
+                ],
+                "Turkmen": [
+                    "bagt kökesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bashoratli pechenye",
+                    "bashoratli shirinlik"
+                ],
+                "Uyghur": [
+                    "بېشارەت پېچىنە",
+                    "بېشارەتلىك پېچىنە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "юрамалы печенье"
+                ],
+                "Bashkir": [
+                    "юлрау печеньеһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şans kurabiyesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nasihat kurabiyesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yqbal kökesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "болжамды печенье",
+                    "сәуегейлік печеньесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "фараз печеньеһы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "i108988",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "metric ton",
+    "en_definition": "a unit of weight equivalent to 1000 kilograms",
+    "tr_word": "metrik ton",
+    "tr_definition": "1000 kilograma eşit olan ağırlık birimi",
+    "ru_word": "метрическая тонна",
+    "ru_definition": "единица измерения массы, равная 1000 килограммам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ton"
+                ],
+                "Azerbaijani": [
+                    "ton",
+                    "tonna"
+                ],
+                "Turkmen": [
+                    "tonna"
+                ],
+                "Uzbek": [
+                    "tonna"
+                ],
+                "Uyghur": [
+                    "توننا"
+                ],
+                "Kazakh": [
+                    "тонна"
+                ],
+                "Kyrgyz": [
+                    "тонна"
+                ],
+                "Karakalpak": [
+                    "tonna"
+                ],
+                "Tatar": [
+                    "тонна"
+                ],
+                "Bashkir": [
+                    "тонна"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bin kilo"
+                ],
+                "Uzbek": [
+                    "ming kilogramm"
+                ],
+                "Uyghur": [
+                    "مىڭ كىلوگرام"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "müň kilogram"
+                ]
+            }
+        }
+    ]
+}

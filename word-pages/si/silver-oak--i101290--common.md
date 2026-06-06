@@ -1,0 +1,92 @@
+# Silver oak
+| Field | Detail |
+|---|---|
+| **ID** | i101290 |
+| **English** | silver oak |
+| **Type** | noun |
+| **Definition** | small slender tree with usually entire grey-green pendulous leaves and white or cream-colored flowers; northern Australia |
+| **Source** | common |
+| **Ortatil** | kümüşsöwük |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i101290",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "silver oak",
+    "en_definition": "small slender tree with usually entire grey-green pendulous leaves and white or cream-colored flowers; northern Australia",
+    "tr_word": "gümüş meşe",
+    "tr_definition": "Genellikle gri-yeşil sarkık yapraklı ve beyaz veya krem rengi çiçekleri olan, kuzey Avustralya'ya özgü küçük ve ince bir ağaç türü.",
+    "ru_word": "гревиллея крупная",
+    "ru_definition": "Небольшое стройное дерево с обычно цельными серо-зелеными поникшими листьями и белыми или кремовыми цветами; родом из северной Австралии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gümüşi meşe",
+                    "gümüş meşesi"
+                ],
+                "Azerbaijani": [
+                    "gümüşü palıd",
+                    "gümüşü qrevilleya"
+                ],
+                "Turkmen": [
+                    "kümüşsöwük",
+                    "kümüşi dub"
+                ],
+                "Uyghur": [
+                    "كۈمۈش دەرىخى",
+                    "كۈمۈشسىمان دەرەخ"
+                ],
+                "Kazakh": [
+                    "күміс емен"
+                ],
+                "Kyrgyz": [
+                    "күмүш эмен"
+                ],
+                "Karakalpak": [
+                    "kúmús emen",
+                    "kúmús túsli emen"
+                ],
+                "Tatar": [
+                    "көмеш имән"
+                ],
+                "Bashkir": [
+                    "көмөш имән",
+                    "көмөш ағас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oq eman"
+                ],
+                "Kazakh": [
+                    "ақ емен"
+                ],
+                "Kyrgyz": [
+                    "ак эмен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kumushsimon eman"
+                ],
+                "Tatar": [
+                    "көмешсыман имән"
+                ]
+            }
+        }
+    ]
+}
+```
+

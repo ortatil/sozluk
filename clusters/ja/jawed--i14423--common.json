@@ -1,0 +1,90 @@
+{
+    "id": "i14423",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "jawed",
+    "en_definition": "of animals having jaws of a specified type",
+    "tr_word": "çeneli",
+    "tr_definition": "belirli bir tipte çenesi olan (hayvanlar için)",
+    "ru_word": "челюстной",
+    "ru_definition": "имеющий челюсти определенного типа (о животных)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "iyakli"
+                ],
+                "Uyghur": [
+                    "ئېڭەكلىك"
+                ],
+                "Kazakh": [
+                    "иекті"
+                ],
+                "Kyrgyz": [
+                    "ээктүү"
+                ],
+                "Karakalpak": [
+                    "iektúú"
+                ],
+                "Bashkir": [
+                    "ауыҙлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çeneli",
+                    "çenesi olan"
+                ],
+                "Azerbaijani": [
+                    "çənəli",
+                    "çənəli olan"
+                ],
+                "Turkmen": [
+                    "äňli",
+                    "äňi bolan"
+                ],
+                "Tatar": [
+                    "яңаклы"
+                ],
+                "Bashkir": [
+                    "яңаҡлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жақты"
+                ],
+                "Kyrgyz": [
+                    "жаактуу"
+                ],
+                "Karakalpak": [
+                    "jaaklı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jag'li"
+                ],
+                "Uyghur": [
+                    "جاغلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "казналы"
+                ]
+            }
+        }
+    ]
+}

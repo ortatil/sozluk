@@ -1,0 +1,61 @@
+{
+    "id": "i16887",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "swiss",
+    "en_definition": "of or relating to Switzerland or its people or culture",
+    "tr_word": "İsviçreli",
+    "tr_definition": "İsviçre'ye, halkına veya kültürüne özgü olan",
+    "ru_word": "швейцарский",
+    "ru_definition": "относящийся к Швейцарии, её народу или культуре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şweýsar",
+                    "şweýsariýaly"
+                ],
+                "Uzbek": [
+                    "shveytsar",
+                    "shveytsariyalik"
+                ],
+                "Uyghur": [
+                    "شىۋېتسىيەلىك",
+                    "شىۋېتسىيەگە ئائىت"
+                ],
+                "Kazakh": [
+                    "швейцариялық",
+                    "швейцар"
+                ],
+                "Kyrgyz": [
+                    "швейцариялык"
+                ],
+                "Karakalpak": [
+                    "shweycariyalıq",
+                    "shweycariya"
+                ],
+                "Tatar": [
+                    "Швейцария",
+                    "Швейцарияле"
+                ],
+                "Bashkir": [
+                    "Швейцария",
+                    "Швейцарияныҡы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "İsviçreli",
+                    "İsviçre"
+                ],
+                "Azerbaijani": [
+                    "isveçrəli",
+                    "isveçrə"
+                ]
+            }
+        }
+    ]
+}

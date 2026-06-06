@@ -1,0 +1,115 @@
+# Greenwich
+| Field | Detail |
+|---|---|
+| **ID** | i83383 |
+| **English** | greenwich |
+| **Type** | noun |
+| **Definition** | a borough of Greater London on the Thames; zero degrees of longitude runs through Greenwich; time is measured relative to Greenwich Mean Time |
+| **Source** | common |
+| **Ortatil** | grinwiç |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **grinwiç** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| گىرىنۋىچ | girinviç |
+| **Kazakh** | |
+| Гринвич | grinviç |
+| **Kyrgyz** | |
+| Гринвич | grinviç |
+| **Tatar** | |
+| Гринвич | grinviç |
+| **Bashkir** | |
+| Гринвич | grinviç |
+
+```json
+{
+    "id": "i83383",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "greenwich",
+    "en_definition": "a borough of Greater London on the Thames; zero degrees of longitude runs through Greenwich; time is measured relative to Greenwich Mean Time",
+    "tr_word": "Greenwich",
+    "tr_definition": "Londra'nın güneydoğusunda bulunan, başlangıç meridyeninin geçtiği kabul edilen ve zaman ölçümü için referans noktası olan semt.",
+    "ru_word": "Гринвич",
+    "ru_definition": "Район Лондона на берегу Темзы, через который проходит нулевой меридиан; точка отсчета часовых поясов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Greenwich"
+                ],
+                "Azerbaijani": [
+                    "Qriniç",
+                    "Qrinviç"
+                ],
+                "Turkmen": [
+                    "Grinwiç",
+                    "Grinwiç merediany"
+                ],
+                "Uzbek": [
+                    "Grinvich"
+                ],
+                "Uyghur": [
+                    "گىرىنۋىچ",
+                    "گىرىنۋىچ رايونى"
+                ],
+                "Kazakh": [
+                    "Гринвич"
+                ],
+                "Kyrgyz": [
+                    "Гринвич"
+                ],
+                "Karakalpak": [
+                    "Grinwich"
+                ],
+                "Tatar": [
+                    "Гринвич"
+                ],
+                "Bashkir": [
+                    "Гринвич"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Başlangıç Meridyeni"
+                ],
+                "Uzbek": [
+                    "bosh meridian"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Sıfır Meridyeni"
+                ]
+            }
+        }
+    ]
+}
+```
+

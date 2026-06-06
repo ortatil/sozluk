@@ -1,0 +1,133 @@
+{
+    "id": "i18505",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "after",
+    "en_definition": "happening at a time subsequent to a reference time",
+    "tr_word": "sonra",
+    "tr_definition": "belirli bir zamandan daha ileri bir zamanda gerçekleşen",
+    "ru_word": "позже",
+    "ru_definition": "происходящий в более позднее время по отношению к какому-либо моменту",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sonra",
+                    "sonradan"
+                ],
+                "Azerbaijani": [
+                    "sonra",
+                    "sonradan",
+                    "sonralar"
+                ],
+                "Turkmen": [
+                    "soň",
+                    "soňra",
+                    "soňrak"
+                ],
+                "Uzbek": [
+                    "so'ng",
+                    "so'ngra"
+                ],
+                "Uyghur": [
+                    "سوڭرە"
+                ],
+                "Kazakh": [
+                    "соң",
+                    "соңынан"
+                ],
+                "Kyrgyz": [
+                    "соң"
+                ],
+                "Karakalpak": [
+                    "soń"
+                ],
+                "Tatar": [
+                    "соңрак",
+                    "соңыннан"
+                ],
+                "Bashkir": [
+                    "һуңынан",
+                    "һуңғараҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "giçräk"
+                ],
+                "Uyghur": [
+                    "كېيىنرەك",
+                    "كېيىنچە"
+                ],
+                "Kazakh": [
+                    "кейін",
+                    "кейінірек"
+                ],
+                "Kyrgyz": [
+                    "кийин",
+                    "кийинчерээк"
+                ],
+                "Karakalpak": [
+                    "keyin",
+                    "keshirek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "daha sonra"
+                ],
+                "Azerbaijani": [
+                    "daha sonra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "keyin",
+                    "keyinroq"
+                ],
+                "Uyghur": [
+                    "كېيىن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "киләчәктә"
+                ],
+                "Bashkir": [
+                    "киләсәктә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilahare"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аннары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аҙаҡ"
+                ]
+            }
+        }
+    ]
+}

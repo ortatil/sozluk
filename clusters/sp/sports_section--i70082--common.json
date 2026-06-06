@@ -1,0 +1,71 @@
+{
+    "id": "i70082",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sports section",
+    "en_definition": "the section of a newspaper that reports on sports",
+    "tr_word": "spor sayfası",
+    "tr_definition": "gazetenin spor haberlerine ayrılmış olan bölümü",
+    "ru_word": "спортивный отдел",
+    "ru_definition": "раздел газеты, в котором публикуются новости спорта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "spor sayfası",
+                    "spor bölümü",
+                    "spor sütunu"
+                ],
+                "Turkmen": [
+                    "sport bölümi",
+                    "sport sahypasy"
+                ],
+                "Uzbek": [
+                    "sport sahifasi",
+                    "sport boʻlimi",
+                    "sport rukni"
+                ],
+                "Kazakh": [
+                    "спорт беті",
+                    "спорт айдары",
+                    "спорт бөлімі"
+                ],
+                "Kyrgyz": [
+                    "спорт бөлүмү",
+                    "спорт барагы",
+                    "спорт кабары"
+                ],
+                "Karakalpak": [
+                    "sport bólimi",
+                    "sport beti"
+                ],
+                "Tatar": [
+                    "спорт бүлеге",
+                    "спорт сәхифәсе"
+                ],
+                "Bashkir": [
+                    "спорт бүлеге",
+                    "спорт сәхифәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "idman bölməsi",
+                    "idman səhifəsi",
+                    "idman guşəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەنتەربىيە سەھىپىسى",
+                    "تەنتەربىيە بۆلۈمى"
+                ]
+            }
+        }
+    ]
+}

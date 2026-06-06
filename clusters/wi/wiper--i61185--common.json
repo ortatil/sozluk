@@ -1,0 +1,112 @@
+{
+    "id": "i61185",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wiper",
+    "en_definition": "a mechanical device that cleans the windshield",
+    "tr_word": "silecek",
+    "tr_definition": "Bir aracın ön camını temizleyen mekanik düzenek",
+    "ru_word": "стеклоочиститель",
+    "ru_definition": "механическое устройство для очистки лобового стекла",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sürgüç"
+                ],
+                "Uyghur": [
+                    "سۈرتكۈچ"
+                ],
+                "Kazakh": [
+                    "сүргіш"
+                ],
+                "Kyrgyz": [
+                    "сүрткүч"
+                ],
+                "Karakalpak": [
+                    "súrtkish"
+                ],
+                "Tatar": [
+                    "сөрткеч"
+                ],
+                "Bashkir": [
+                    "һөрткөс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təmizləyici"
+                ],
+                "Uzbek": [
+                    "tozalagich"
+                ],
+                "Kazakh": [
+                    "тазалағыш"
+                ],
+                "Kyrgyz": [
+                    "тазалагыч"
+                ],
+                "Karakalpak": [
+                    "tazalaǵısh"
+                ],
+                "Bashkir": [
+                    "таҙартыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "silecek",
+                    "silgi"
+                ],
+                "Azerbaijani": [
+                    "silib-təmizləyən",
+                    "silgəc"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەينەك سۈرتكۈچ"
+                ],
+                "Kazakh": [
+                    "әйнексүргіш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arassalaýjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "artgich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oynapoklagich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәрәзә сөрткеч"
+                ]
+            }
+        }
+    ]
+}

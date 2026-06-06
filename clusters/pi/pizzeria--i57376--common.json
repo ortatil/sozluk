@@ -1,0 +1,84 @@
+{
+    "id": "i57376",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pizzeria",
+    "en_definition": "a shop where pizzas are made and sold",
+    "tr_word": "pizzacı",
+    "tr_definition": "pizzaların yapıldığı ve satıldığı dükkan",
+    "ru_word": "пиццерия",
+    "ru_definition": "заведение, где готовят и продают пиццу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pizzacı",
+                    "pizza salonu",
+                    "pizza dükkanı"
+                ],
+                "Azerbaijani": [
+                    "pizzaxana",
+                    "pizzacı"
+                ],
+                "Turkmen": [
+                    "pissahan",
+                    "pissa merkezi",
+                    "pissa dükany"
+                ],
+                "Uyghur": [
+                    "پىتساخانا",
+                    "پىتسا ئاشخانىسى"
+                ],
+                "Kazakh": [
+                    "пиццахана",
+                    "пицца үйі"
+                ],
+                "Kyrgyz": [
+                    "пиццакана",
+                    "пицца борбору",
+                    "пицца үйү"
+                ],
+                "Karakalpak": [
+                    "piccaxana",
+                    "picca orayı"
+                ],
+                "Tatar": [
+                    "пиццаханә",
+                    "пицца йорты",
+                    "пицца ашханәсе"
+                ],
+                "Bashkir": [
+                    "пиццахана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pitsaxona"
+                ],
+                "Kazakh": [
+                    "пицца орталығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oshxona"
+                ],
+                "Bashkir": [
+                    "ашхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taomxona"
+                ]
+            }
+        }
+    ]
+}

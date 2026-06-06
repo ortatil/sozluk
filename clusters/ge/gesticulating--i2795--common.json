@@ -1,0 +1,130 @@
+{
+    "id": "i2795",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "gesticulating",
+    "en_definition": "making gestures while speaking",
+    "tr_word": "jestlerle konuşan",
+    "tr_definition": "konuşurken el ve kol hareketleri yapan",
+    "ru_word": "жестикулирующий",
+    "ru_definition": "сопровождающий речь жестами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işaretli"
+                ],
+                "Azerbaijani": [
+                    "işarə edən"
+                ],
+                "Turkmen": [
+                    "yşaratly"
+                ],
+                "Uyghur": [
+                    "ئىشارەتلىك"
+                ],
+                "Kazakh": [
+                    "ишаратшыл"
+                ],
+                "Kyrgyz": [
+                    "ишаратчы",
+                    "ишарат кылуучу"
+                ],
+                "Karakalpak": [
+                    "isharatlı",
+                    "isharatlaoshı"
+                ],
+                "Tatar": [
+                    "ишарәләүче"
+                ],
+                "Bashkir": [
+                    "ишаралаусы",
+                    "ишаралы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərəkətli"
+                ],
+                "Turkmen": [
+                    "hereketli"
+                ],
+                "Uzbek": [
+                    "harakatli"
+                ],
+                "Uyghur": [
+                    "ھەرىكەتلىك"
+                ],
+                "Karakalpak": [
+                    "háreketli"
+                ],
+                "Tatar": [
+                    "хәрәкәтләнүче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ym-yşaratly"
+                ],
+                "Uzbek": [
+                    "imo-ishorali",
+                    "imo-ishora qiluvchi"
+                ],
+                "Kazakh": [
+                    "ым-ишаратты"
+                ],
+                "Bashkir": [
+                    "ымы-ишаралы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el kol hareketli"
+                ],
+                "Azerbaijani": [
+                    "əl-qol atan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ымдағыш"
+                ],
+                "Tatar": [
+                    "ымлаучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "jestli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قول-ئىشارەتلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жаңсоочу"
+                ]
+            }
+        }
+    ]
+}

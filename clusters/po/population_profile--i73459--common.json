@@ -1,0 +1,112 @@
+{
+    "id": "i73459",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "population profile",
+    "en_definition": "a chart showing the number of people as a function of their ages",
+    "tr_word": "nüfus profili",
+    "tr_definition": "insan sayısını yaşlarına göre bir fonksiyon olarak gösteren grafik",
+    "ru_word": "демографический профиль",
+    "ru_definition": "график, показывающий количество людей в зависимости от их возраста",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yaş-cins piramidası"
+                ],
+                "Turkmen": [
+                    "ýaş düzümi"
+                ],
+                "Kazakh": [
+                    "жас құрамы"
+                ],
+                "Tatar": [
+                    "яшь-җенес составы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "халықтың жас құрылымы"
+                ],
+                "Karakalpak": [
+                    "xalıqtıń jas-jınıs qұramı",
+                    "xalıq piramidası"
+                ],
+                "Tatar": [
+                    "халык пирамидасы",
+                    "халык структурасы"
+                ],
+                "Bashkir": [
+                    "халыҡ пирамидаһы",
+                    "халыҡтың йәш составы",
+                    "халыҡтың йәш структураһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nüfus piramidi",
+                    "nüfus yapısı",
+                    "nüfus profili"
+                ],
+                "Uyghur": [
+                    "نوپۇس قۇرۇلمىسى",
+                    "نوپۇس تۈزۈلۈشى",
+                    "نوپۇس گىرافىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əhali piramidası",
+                    "əhalinin tərkibi"
+                ],
+                "Uzbek": [
+                    "aholi tarkibi",
+                    "aholi piramidasi",
+                    "aholi tavsifi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "demoqrafik göstərici"
+                ],
+                "Karakalpak": [
+                    "demografiyalıq kórsetkіsh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ilat düzümi",
+                    "ilat gurluşy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жас ерекшелігі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "калктын курамы",
+                    "калктын түзүмү",
+                    "калктын жаш курагы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+# Vole
+| Field | Detail |
+|---|---|
+| **ID** | i47847 |
+| **English** | vole |
+| **Type** | noun |
+| **Definition** | any of various small mouselike rodents of the family Cricetidae (especially of genus Microtus) having a stout short-tailed body and inconspicuous ears and inhabiting fields or meadows |
+| **Source** | common |
+| **Ortatil** | geli |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| тоқалтышқан | toqaltışqan |
+
+```json
+{
+    "id": "i47847",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vole",
+    "en_definition": "any of various small mouselike rodents of the family Cricetidae (especially of genus Microtus) having a stout short-tailed body and inconspicuous ears and inhabiting fields or meadows",
+    "tr_word": "tarla faresi",
+    "tr_definition": "Cricetidae familyasından, genellikle kısa kuyruklu, küçük kulaklı ve tarlalarda yaşayan kemirgenlerin genel adı.",
+    "ru_word": "полевая мышь",
+    "ru_definition": "небольшой грызун семейства хомяковых, обитающий на полях и лугах, отличающийся коротким хвостом и маленькими ушами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarla faresi"
+                ],
+                "Azerbaijani": [
+                    "tarla siçanı"
+                ],
+                "Turkmen": [
+                    "dala syçany"
+                ],
+                "Uzbek": [
+                    "dala sichqoni",
+                    "dala sichqonchasi"
+                ],
+                "Uyghur": [
+                    "دالا چاشقىنى"
+                ],
+                "Kazakh": [
+                    "дала тышқаны"
+                ],
+                "Kyrgyz": [
+                    "талаа чычканы"
+                ],
+                "Karakalpak": [
+                    "dala tıshqanı"
+                ],
+                "Bashkir": [
+                    "ялан сысҡаны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kır faresi"
+                ],
+                "Kyrgyz": [
+                    "кыр чычканы"
+                ],
+                "Tatar": [
+                    "кыр тычканы"
+                ],
+                "Bashkir": [
+                    "ҡыр сысҡаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тоқалтышқан"
+                ],
+                "Karakalpak": [
+                    "toǵay tıshqanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geleni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çöl siçanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "meýdan syçany"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېتىز چاشقىنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сұр тышқан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "басу тычканы"
+                ]
+            }
+        }
+    ]
+}
+```
+

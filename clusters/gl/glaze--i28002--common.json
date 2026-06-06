@@ -1,0 +1,129 @@
+{
+    "id": "i28002",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "glaze",
+    "en_definition": "coat with a glaze",
+    "tr_word": "cilalamak",
+    "tr_definition": "bir yüzeyi parlak bir tabaka veya sır ile kaplamak",
+    "ru_word": "глазуровать",
+    "ru_definition": "покрывать поверхность глазурью или глянцевым слоем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sırlamak"
+                ],
+                "Azerbaijani": [
+                    "şirələmək"
+                ],
+                "Turkmen": [
+                    "syrlamak"
+                ],
+                "Uzbek": [
+                    "sirlamoq"
+                ],
+                "Uyghur": [
+                    "سىرلىماق"
+                ],
+                "Kazakh": [
+                    "сырлау"
+                ],
+                "Kyrgyz": [
+                    "сырдоо"
+                ],
+                "Karakalpak": [
+                    "sırlao"
+                ],
+                "Tatar": [
+                    "сырлау"
+                ],
+                "Bashkir": [
+                    "һылау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cilalamak"
+                ],
+                "Azerbaijani": [
+                    "cilalamaq"
+                ],
+                "Turkmen": [
+                    "ýalpyldatmak"
+                ],
+                "Uzbek": [
+                    "jilolamoq"
+                ],
+                "Uyghur": [
+                    "جۇلالىماق",
+                    "يالتىراتماق"
+                ],
+                "Kazakh": [
+                    "жылтырату"
+                ],
+                "Kyrgyz": [
+                    "жылтыратуу"
+                ],
+                "Karakalpak": [
+                    "jıltıratıo"
+                ],
+                "Tatar": [
+                    "ялтырату"
+                ],
+                "Bashkir": [
+                    "ялатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "parlatmak",
+                    "perdahlamak"
+                ],
+                "Azerbaijani": [
+                    "parlatmaq"
+                ],
+                "Turkmen": [
+                    "parlatmak"
+                ],
+                "Uzbek": [
+                    "pardozlamoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қаптау"
+                ],
+                "Karakalpak": [
+                    "qaplao"
+                ],
+                "Tatar": [
+                    "каплау"
+                ],
+                "Bashkir": [
+                    "ҡаплау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жағу"
+                ],
+                "Kyrgyz": [
+                    "айнектөө"
+                ]
+            }
+        }
+    ]
+}

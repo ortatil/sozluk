@@ -1,0 +1,144 @@
+# Coexist
+| Field | Detail |
+|---|---|
+| **ID** | i34711 |
+| **English** | coexist |
+| **Type** | verb |
+| **Definition** | exist together |
+| **Source** | common |
+| **Ortatil** | utgaşmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i34711",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "coexist",
+    "en_definition": "exist together",
+    "tr_word": "bir arada yaşamak",
+    "tr_definition": "aynı zamanda veya aynı yerde birlikte var olmak",
+    "ru_word": "сосуществовать",
+    "ru_definition": "существовать одновременно или в одном и том же месте",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "birlikte yaşamak",
+                    "bir arada bulunmak",
+                    "beraber yaşamak",
+                    "birlikte var olmak"
+                ],
+                "Azerbaijani": [
+                    "birgə yaşamaq",
+                    "birlikdə olmaq"
+                ],
+                "Uzbek": [
+                    "birga yashamoq",
+                    "birgalikda mavjud bo'lmoq"
+                ],
+                "Uyghur": [
+                    "بىرگە ياشاش",
+                    "بىرلىكتە مەۋجۇت بولۇش"
+                ],
+                "Kazakh": [
+                    "бірге болу",
+                    "бірлесіп тіршілік ету"
+                ],
+                "Kyrgyz": [
+                    "бирге жашоо",
+                    "бирге болуу"
+                ],
+                "Karakalpak": [
+                    "birge jasao",
+                    "birge ómir súrio",
+                    "birlikte bolıo"
+                ],
+                "Tatar": [
+                    "бергә яшәү",
+                    "бергә булу",
+                    "бергә гомер итү"
+                ],
+                "Bashkir": [
+                    "бергә йәшәү",
+                    "бергә булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yanaşı yaşamaq"
+                ],
+                "Uzbek": [
+                    "yonma-yon yashamoq"
+                ],
+                "Kyrgyz": [
+                    "жанаша жашоо"
+                ],
+                "Tatar": [
+                    "янәшә яшәү"
+                ],
+                "Bashkir": [
+                    "йәнәш йәшәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bile ýaşamak",
+                    "bilelikde bolmak"
+                ],
+                "Uyghur": [
+                    "بىللە بولۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hamjihat bo'lmoq"
+                ],
+                "Uyghur": [
+                    "ھەمراھ بولۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қатар өмір сүру",
+                    "қатар тұру"
+                ],
+                "Karakalpak": [
+                    "qatar jasao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аралашып жашоо"
+                ],
+                "Bashkir": [
+                    "аралашып йәшәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "utgaşmak"
+                ]
+            }
+        }
+    ]
+}
+```
+

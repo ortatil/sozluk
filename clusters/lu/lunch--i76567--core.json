@@ -1,0 +1,95 @@
+{
+    "id": "i76567",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "lunch",
+    "en_definition": "a midday meal",
+    "tr_word": "öğle yemeği",
+    "tr_definition": "Günün ortasında, genellikle öğle saatlerinde yenen yemek.",
+    "ru_word": "обед",
+    "ru_definition": "Приём пищи в середине дня, обычно между завтраком и ужином.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tushlik",
+                    "tushlik ovqat"
+                ],
+                "Uyghur": [
+                    "چۈشلۈك تاماق",
+                    "چۈشلۈك"
+                ],
+                "Kazakh": [
+                    "түскі ас",
+                    "түстік",
+                    "түскі тамақ"
+                ],
+                "Kyrgyz": [
+                    "түшкү тамак",
+                    "түштөнүү",
+                    "түшкү аш"
+                ],
+                "Karakalpak": [
+                    "túslik",
+                    "túslik aoqat"
+                ],
+                "Tatar": [
+                    "төшке аш",
+                    "төшлек",
+                    "төшке ризык"
+                ],
+                "Bashkir": [
+                    "төшкө аш",
+                    "төшлөк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nahar"
+                ],
+                "Turkmen": [
+                    "nahar"
+                ],
+                "Uzbek": [
+                    "nahorgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "günorta yeməyi"
+                ],
+                "Turkmen": [
+                    "günortanlyk nahar",
+                    "günortanlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğle yemeği"
+                ]
+            }
+        }
+    ]
+}

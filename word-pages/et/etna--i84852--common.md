@@ -1,0 +1,139 @@
+# Etna
+| Field | Detail |
+|---|---|
+| **ID** | i84852 |
+| **English** | etna |
+| **Type** | noun |
+| **Definition** | an inactive volcano in Sicily; last erupted in 1961; the highest volcano in Europe (10,500 feet) |
+| **Source** | common |
+| **Ortatil** | etna |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **etna** | **canartau** | **wulkan** |
+|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ✅ | ❌ |
+| Bashkir | ✅ | ❌ | ✅ |
+| *Oghuz Subtotal* | 1 | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0.60 | 0.60 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **3.30** | **0.60** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| Этна | etna |
+| жанартау | janartau |
+| **Kyrgyz** | |
+| вулкан | vulkan |
+| **Tatar** | |
+| Этна | etna |
+| янартау | yanartau |
+| **Bashkir** | |
+| Этна | etna |
+| вулкан | vulkan |
+
+```json
+{
+    "id": "i84852",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "etna",
+    "en_definition": "an inactive volcano in Sicily; last erupted in 1961; the highest volcano in Europe (10,500 feet)",
+    "tr_word": "Etna",
+    "tr_definition": "Sicilya'da bulunan, Avrupa'nın en yüksek ve aktif yanardağı.",
+    "ru_word": "Этна",
+    "ru_definition": "Действующий стратовулкан, расположенный на восточном побережье Сицилии; самый высокий активный вулкан в Европе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Etna",
+                    "Etna Yanardağı"
+                ],
+                "Azerbaijani": [
+                    "Etna",
+                    "Etna vulkanı"
+                ],
+                "Turkmen": [
+                    "Etna",
+                    "Etna wulkany"
+                ],
+                "Uzbek": [
+                    "Etna",
+                    "Etna vulqoni"
+                ],
+                "Uyghur": [
+                    "ئېتنا يانار تېغى",
+                    "ئېتنا ۋۇلكانى"
+                ],
+                "Kazakh": [
+                    "Этна"
+                ],
+                "Karakalpak": [
+                    "Etna"
+                ],
+                "Tatar": [
+                    "Этна"
+                ],
+                "Bashkir": [
+                    "Этна"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жанартау"
+                ],
+                "Kyrgyz": [
+                    "жанар тоо"
+                ],
+                "Karakalpak": [
+                    "janar-tau"
+                ],
+                "Tatar": [
+                    "янартау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "вулкан"
+                ],
+                "Karakalpak": [
+                    "wulkan"
+                ],
+                "Bashkir": [
+                    "вулкан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отты тау"
+                ],
+                "Tatar": [
+                    "утлы тау"
+                ]
+            }
+        }
+    ]
+}
+```
+

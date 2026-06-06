@@ -1,0 +1,173 @@
+{
+    "id": "i5946",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "childless",
+    "en_definition": "without offspring",
+    "tr_word": "çocuksuz",
+    "tr_definition": "çocuğu olmayan, evladı bulunmayan",
+    "ru_word": "бездетный",
+    "ru_definition": "не имеющий детей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "perzentsiz",
+                    "beperzent"
+                ],
+                "Uzbek": [
+                    "farzandsiz",
+                    "befarzand"
+                ],
+                "Uyghur": [
+                    "پەرزەنتسىز",
+                    "بېپەرزەنت"
+                ],
+                "Kazakh": [
+                    "перзентсіз"
+                ],
+                "Kyrgyz": [
+                    "перзентсиз"
+                ],
+                "Karakalpak": [
+                    "perzentsiz",
+                    "beperzent"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çagasyz"
+                ],
+                "Kazakh": [
+                    "баласыз"
+                ],
+                "Kyrgyz": [
+                    "баласыз"
+                ],
+                "Karakalpak": [
+                    "balasız"
+                ],
+                "Tatar": [
+                    "баласыз"
+                ],
+                "Bashkir": [
+                    "балаһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "uşaqsız"
+                ],
+                "Uyghur": [
+                    "تۇياقسىز"
+                ],
+                "Kazakh": [
+                    "ұрпақсыз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۇغماس"
+                ],
+                "Kyrgyz": [
+                    "тукумсуз"
+                ],
+                "Karakalpak": [
+                    "tuomas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "evlatsız"
+                ],
+                "Azerbaijani": [
+                    "övladsuz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akîm"
+                ],
+                "Azerbaijani": [
+                    "aqir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nesilsiz"
+                ],
+                "Tatar": [
+                    "нәселсез"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bepusht"
+                ],
+                "Kazakh": [
+                    "бедеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çocuksuz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sonsuz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pushtsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кысыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "биҙер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тутһыҙ"
+                ]
+            }
+        }
+    ]
+}

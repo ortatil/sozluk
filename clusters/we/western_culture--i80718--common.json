@@ -1,0 +1,91 @@
+{
+    "id": "i80718",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "western culture",
+    "en_definition": "the modern culture of western Europe and North America",
+    "tr_word": "Batı kültürü",
+    "tr_definition": "Batı Avrupa ve Kuzey Amerika'nın modern kültürü",
+    "ru_word": "западная культура",
+    "ru_definition": "современная культура стран Западной Европы и Северной Америки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Garp kültürü"
+                ],
+                "Azerbaijani": [
+                    "qərb mədəniyyəti",
+                    "qərb sivilizasiyası",
+                    "qərb dünyası"
+                ],
+                "Turkmen": [
+                    "garp medeniýeti"
+                ],
+                "Uzbek": [
+                    "g'arb madaniyati",
+                    "g'arb tamadduni"
+                ],
+                "Uyghur": [
+                    "غەرب مەدەنىيىتى"
+                ],
+                "Karakalpak": [
+                    "ǵarb mádeniyatı"
+                ],
+                "Tatar": [
+                    "гареб мәдәнияте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Batı kültürü",
+                    "Batı medeniyeti"
+                ],
+                "Kazakh": [
+                    "батыс мәдениеті",
+                    "батыс өркениеті"
+                ],
+                "Kyrgyz": [
+                    "батыш маданияты",
+                    "батыш цивилизациясы",
+                    "батыш дүйнөсү"
+                ],
+                "Karakalpak": [
+                    "batıs mádeniyatı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "günbatar medeniýeti"
+                ],
+                "Tatar": [
+                    "көнбатыш мәдәнияте"
+                ],
+                "Bashkir": [
+                    "көнбайыш мәҙәниәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "غەرب مەدەنىيەت-مائارىپى"
+                ],
+                "Kazakh": [
+                    "мағриб мәдениеті"
+                ],
+                "Bashkir": [
+                    "мәғриб мәҙәниәте"
+                ]
+            }
+        }
+    ]
+}

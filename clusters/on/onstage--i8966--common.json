@@ -1,0 +1,66 @@
+{
+    "id": "i8966",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "onstage",
+    "en_definition": "situated or taking place on the area of a stage visible to the audience",
+    "tr_word": "sahne üstü",
+    "tr_definition": "sahnenin seyirci tarafından görülebilen kısmında bulunan veya gerçekleşen",
+    "ru_word": "сценический",
+    "ru_definition": "находящийся или происходящий на части сцены, видимой зрителям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahnede",
+                    "sahne üzeri",
+                    "sahne içi"
+                ],
+                "Azerbaijani": [
+                    "səhnədə",
+                    "səhnəüstü"
+                ],
+                "Turkmen": [
+                    "sahnadaky",
+                    "sahna"
+                ],
+                "Uzbek": [
+                    "sahnadagi",
+                    "sahna"
+                ],
+                "Uyghur": [
+                    "سەھنىدىكى",
+                    "سەھنە ئۈستىدىكى"
+                ],
+                "Kazakh": [
+                    "сахнадағы",
+                    "сахналық"
+                ],
+                "Kyrgyz": [
+                    "сахнадагы",
+                    "сахна үстүндөгү"
+                ],
+                "Karakalpak": [
+                    "saxnadaǵı",
+                    "saxnalıq"
+                ],
+                "Tatar": [
+                    "сәхнәдәге",
+                    "сәхнә"
+                ],
+                "Bashkir": [
+                    "сәхнәләге",
+                    "сәхнә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "aşkar"
+                ]
+            }
+        }
+    ]
+}

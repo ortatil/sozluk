@@ -1,0 +1,119 @@
+{
+    "id": "i81843",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "city center",
+    "en_definition": "the central part of a city",
+    "tr_word": "şehir merkezi",
+    "tr_definition": "Bir şehrin en yoğun ve merkezi bölgesi",
+    "ru_word": "центр города",
+    "ru_definition": "центральная часть города",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehir merkezi"
+                ],
+                "Azerbaijani": [
+                    "şəhər mərkəzi"
+                ],
+                "Turkmen": [
+                    "şäher merkezi"
+                ],
+                "Uzbek": [
+                    "shahar markazi",
+                    "shahar oʻrtasi"
+                ],
+                "Uyghur": [
+                    "شەھەر مەركىزى"
+                ],
+                "Tatar": [
+                    "шәһәр үзәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mərkəz"
+                ],
+                "Turkmen": [
+                    "merkez"
+                ],
+                "Uyghur": [
+                    "مەركەز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çarşı"
+                ],
+                "Kyrgyz": [
+                    "шаар борбору"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қала орталығы"
+                ],
+                "Karakalpak": [
+                    "qala orayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "орталық"
+                ],
+                "Karakalpak": [
+                    "oray"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзәк"
+                ],
+                "Bashkir": [
+                    "үҙәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kent merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "içərişəhər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борбор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡала үҙәге"
+                ]
+            }
+        }
+    ]
+}

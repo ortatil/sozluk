@@ -1,0 +1,144 @@
+# False teeth
+| Field | Detail |
+|---|---|
+| **ID** | i53584 |
+| **English** | false teeth |
+| **Type** | noun |
+| **Definition** | a removable denture |
+| **Source** | common |
+| **Ortatil** | damak |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i53584",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "false teeth",
+    "en_definition": "a removable denture",
+    "tr_word": "takma diş",
+    "tr_definition": "doğal dişlerin yerini tutması için yapılan yapay diş veya protez",
+    "ru_word": "вставные зубы",
+    "ru_definition": "искусственные зубы, заменяющие естественные; зубной протез",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yasama tish"
+                ],
+                "Uyghur": [
+                    "ياسالما چىش"
+                ],
+                "Kazakh": [
+                    "жасанды тіс"
+                ],
+                "Kyrgyz": [
+                    "жасалма тиш"
+                ],
+                "Karakalpak": [
+                    "jasama tis"
+                ],
+                "Tatar": [
+                    "ясалма тешләр"
+                ],
+                "Bashkir": [
+                    "яһалма тештәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "takma diş"
+                ],
+                "Azerbaijani": [
+                    "taxma diş"
+                ],
+                "Kazakh": [
+                    "салма тіс"
+                ],
+                "Kyrgyz": [
+                    "салма тиш"
+                ],
+                "Bashkir": [
+                    "һалма тештәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goýma diş"
+                ],
+                "Uzbek": [
+                    "qoʻyma tish"
+                ],
+                "Uyghur": [
+                    "قوراما چىش"
+                ],
+                "Tatar": [
+                    "куйма тешләр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "protez diş"
+                ],
+                "Azerbaijani": [
+                    "protez diş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "süni diş"
+                ],
+                "Uyghur": [
+                    "سۈنئىي چىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қондырма тіс"
+                ],
+                "Karakalpak": [
+                    "qondırma tis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "damak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "emeli diş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "келәмә тештәр"
+                ]
+            }
+        }
+    ]
+}
+```
+

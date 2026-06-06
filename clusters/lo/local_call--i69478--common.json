@@ -1,0 +1,98 @@
+{
+    "id": "i69478",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "local call",
+    "en_definition": "a telephone call made within a local calling area",
+    "tr_word": "şehir içi arama",
+    "tr_definition": "yerel bir arama alanı içinde yapılan telefon görüşmesi",
+    "ru_word": "местный звонок",
+    "ru_definition": "телефонный звонок, совершаемый в пределах местной зоны обслуживания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yerel arama"
+                ],
+                "Azerbaijani": [
+                    "yerli zəng"
+                ],
+                "Turkmen": [
+                    "ýerli jaň",
+                    "ýerli gepleşik"
+                ],
+                "Uyghur": [
+                    "يەرلىك تېلېفون",
+                    "يەرلىك سۆزلىشىش"
+                ],
+                "Kazakh": [
+                    "жергілікті қоңырау",
+                    "жергілікті хабарласу"
+                ],
+                "Kyrgyz": [
+                    "жергиликтүү чалуу",
+                    "жергиликтүү сүйлөшүү"
+                ],
+                "Karakalpak": [
+                    "jergilikli qońırau"
+                ],
+                "Tatar": [
+                    "җирле шалтырату"
+                ],
+                "Bashkir": [
+                    "ерле шылтыратыу",
+                    "ерле һөйләшеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ichki qoʻngʻiroq"
+                ],
+                "Kazakh": [
+                    "ішкі қоңырау"
+                ],
+                "Kyrgyz": [
+                    "ички чалуу"
+                ],
+                "Karakalpak": [
+                    "ishki qońırau"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehir içi arama"
+                ],
+                "Azerbaijani": [
+                    "şəhərdaxili zəng"
+                ],
+                "Uyghur": [
+                    "شەھەر ئىچى تېلېفونى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mahalli görüşme"
+                ],
+                "Uzbek": [
+                    "mahalliy qoʻngʻiroq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "якын шалтырату"
+                ]
+            }
+        }
+    ]
+}

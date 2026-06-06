@@ -1,0 +1,132 @@
+{
+    "id": "i21853",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "fall asleep",
+    "en_definition": "change from a waking to a sleeping state",
+    "tr_word": "uyuyakalmak",
+    "tr_definition": "uyanık durumdan uyku durumuna geçmek",
+    "ru_word": "засыпать",
+    "ru_definition": "переходить из состояния бодрствования в состояние сна",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uyuyakalmak",
+                    "uykuya dalmak",
+                    "uyumak"
+                ],
+                "Azerbaijani": [
+                    "uyumaq"
+                ],
+                "Turkmen": [
+                    "ukuda galmak"
+                ],
+                "Uzbek": [
+                    "uyquga ketmoq"
+                ],
+                "Uyghur": [
+                    "ئۇيقۇغا كەتمەك"
+                ],
+                "Kazakh": [
+                    "ұйықтап қалу",
+                    "ұйқыға кету"
+                ],
+                "Kyrgyz": [
+                    "уйкуга кетүү",
+                    "уйкуга батуу"
+                ],
+                "Karakalpak": [
+                    "uyıqlap qalıu",
+                    "uyıqlap ketiu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gözüňi yummak"
+                ],
+                "Uzbek": [
+                    "ko'zi ketmoq"
+                ],
+                "Uyghur": [
+                    "كۆزى ئىلىنماق"
+                ],
+                "Kazakh": [
+                    "көз ілу"
+                ],
+                "Kyrgyz": [
+                    "көзү өтүү"
+                ],
+                "Karakalpak": [
+                    "kózi iliniu"
+                ],
+                "Tatar": [
+                    "күз йомылу"
+                ],
+                "Bashkir": [
+                    "көҙәнләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uklamak",
+                    "uky gitmek"
+                ],
+                "Uzbek": [
+                    "uxlab qolmoq"
+                ],
+                "Uyghur": [
+                    "ئۇخلاپ قالماق"
+                ],
+                "Kyrgyz": [
+                    "уктап калуу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yuxuya getmək",
+                    "yuxulamaq"
+                ],
+                "Tatar": [
+                    "йоклап китү",
+                    "йокыга талу"
+                ],
+                "Bashkir": [
+                    "йоҡлап китеү",
+                    "йоҡоға талыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mürgüləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mudramoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қалғу"
+                ]
+            }
+        }
+    ]
+}

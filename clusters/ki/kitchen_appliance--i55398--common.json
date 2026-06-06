@@ -1,0 +1,80 @@
+{
+    "id": "i55398",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "kitchen appliance",
+    "en_definition": "a home appliance used in preparing food",
+    "tr_word": "mutfak aleti",
+    "tr_definition": "yemek hazırlamada kullanılan ev aleti",
+    "ru_word": "кухонный прибор",
+    "ru_definition": "бытовой прибор, используемый для приготовления пищи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aşhana enjamy",
+                    "aşhana gurallary"
+                ],
+                "Uzbek": [
+                    "oshxona anjomi",
+                    "oshxona asbobi",
+                    "oshxona jihozi"
+                ],
+                "Uyghur": [
+                    "ئاشخانا سايمانلىرى",
+                    "ئاشخانا جابدۇقلىرى",
+                    "ئاشخانا ئەسۋابلىرى"
+                ],
+                "Kyrgyz": [
+                    "ашкана шайманы",
+                    "ашкана жабдыгы",
+                    "ашкана куралы"
+                ],
+                "Karakalpak": [
+                    "asxanalıq jabdıq",
+                    "asxanalıq aspap",
+                    "asxanalıq qұral"
+                ],
+                "Bashkir": [
+                    "аш-һыу кәрәк-ярағы",
+                    "аш-һыу ҡорамалы",
+                    "аш-һыу йыһазы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "асүй жабдығы",
+                    "асүй құралы",
+                    "асүй аспабы"
+                ],
+                "Tatar": [
+                    "аш бүлмәсе җиһазы",
+                    "аш-су әсбабы",
+                    "аш-су җайланмасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mutfak aleti",
+                    "mutfak gereci",
+                    "mutfak eşyası",
+                    "mutfak cihazı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mətbəx ləvazimatı",
+                    "mətbəx avadanlığı",
+                    "mətbəx aləti"
+                ]
+            }
+        }
+    ]
+}

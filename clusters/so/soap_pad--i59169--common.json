@@ -1,0 +1,80 @@
+{
+    "id": "i59169",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "soap pad",
+    "en_definition": "a cleaning pad containing soap",
+    "tr_word": "sabunlu tel",
+    "tr_definition": "içinde sabun bulunan temizlik teli veya süngeri",
+    "ru_word": "мыльная губка",
+    "ru_definition": "губка или мочалка, пропитанная мылом для чистки поверхностей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sabunlu tel",
+                    "sabunlu sünger"
+                ],
+                "Azerbaijani": [
+                    "sabunlu süngər",
+                    "sabunlu lif"
+                ],
+                "Turkmen": [
+                    "sabynly süpürgiç",
+                    "sabynly gubka",
+                    "sabynly ýuwan"
+                ],
+                "Uzbek": [
+                    "sovunli gubka",
+                    "sovunli mochalka",
+                    "sovunli latta"
+                ],
+                "Uyghur": [
+                    "سوپۇنلۇق لاتا",
+                    "سوپۇنلۇق يۇغۇچ",
+                    "سوپۇنلۇق سۈرتكۈچ"
+                ],
+                "Kazakh": [
+                    "сабынды ысқыш",
+                    "сабынды жөке"
+                ],
+                "Karakalpak": [
+                    "sabınlı ısqısh",
+                    "sabınlı gubka"
+                ],
+                "Tatar": [
+                    "сабынлы губка",
+                    "сабынлы югыч"
+                ],
+                "Bashkir": [
+                    "һабынлы мочала",
+                    "һабынлы ышҡығыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bulaşık teli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təmizlik süngəri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "самындуу губка",
+                    "самындуу ышкыч",
+                    "самындуу чүпүрөк"
+                ]
+            }
+        }
+    ]
+}

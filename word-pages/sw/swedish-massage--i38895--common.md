@@ -1,0 +1,203 @@
+# Swedish massage
+| Field | Detail |
+|---|---|
+| **ID** | i38895 |
+| **English** | swedish massage |
+| **Type** | noun |
+| **Definition** | massage combined with a system of active and passive exercises for the muscles and joints |
+| **Source** | common |
+| **Ortatil** | massaç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| массаж | massaj |
+| укалоо | ukaloo |
+
+```json
+{
+    "id": "i38895",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "swedish massage",
+    "en_definition": "massage combined with a system of active and passive exercises for the muscles and joints",
+    "tr_word": "İsveç masajı",
+    "tr_definition": "Kaslar ve eklemler için aktif ve pasif egzersiz sistemiyle birleştirilen masaj türü",
+    "ru_word": "шведский массаж",
+    "ru_definition": "вид массажа, сочетающий в себе систему активных и пассивных упражнений для мышц и суставов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дене уқалау"
+                ],
+                "Kyrgyz": [
+                    "денени укалоо"
+                ],
+                "Karakalpak": [
+                    "deneni uqalao"
+                ],
+                "Tatar": [
+                    "тән уу",
+                    "тән сылау"
+                ],
+                "Bashkir": [
+                    "тән ышҡыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "klasik masaj"
+                ],
+                "Azerbaijani": [
+                    "klassik masaj"
+                ],
+                "Turkmen": [
+                    "klassyk owkalama"
+                ],
+                "Tatar": [
+                    "классик массаж"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bo'g'in va mushak uqalashi"
+                ],
+                "Kazakh": [
+                    "буын уқалау"
+                ],
+                "Karakalpak": [
+                    "buoınlardı jazıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "İsveç masajı"
+                ],
+                "Azerbaijani": [
+                    "isveç masajı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýewropa owkalamasy"
+                ],
+                "Uyghur": [
+                    "ياۋروپاچە ئۇۋۇلاش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شىۋېتسىيەچە ئۇۋۇلاش"
+                ],
+                "Bashkir": [
+                    "дауалау массажы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "массаж"
+                ],
+                "Karakalpak": [
+                    "massaj"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "укалоо"
+                ],
+                "Karakalpak": [
+                    "uqalao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gevşeme masajı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bejeriji owkalama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shved uqalashi",
+                    "shved massaji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shifobaxsh uqalash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بوغۇم ۋە مۇسكۇل ئۇۋۇلاش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "емдік уқалау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "муундарды укалоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дәвалау массажы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "им-том массажы"
+                ]
+            }
+        }
+    ]
+}
+```
+

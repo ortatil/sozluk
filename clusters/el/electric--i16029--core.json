@@ -1,0 +1,74 @@
+{
+    "id": "i16029",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "electric",
+    "en_definition": "using or providing or producing or transmitting or operated by electricity",
+    "tr_word": "elektrikli",
+    "tr_definition": "elektrikle çalışan veya elektrik üreten",
+    "ru_word": "электрический",
+    "ru_definition": "работающий на электричестве, производящий или передающий его",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrikli",
+                    "elektriksel"
+                ],
+                "Azerbaijani": [
+                    "elektrikli",
+                    "elektrik"
+                ],
+                "Turkmen": [
+                    "elektrik",
+                    "elektrikli"
+                ],
+                "Uzbek": [
+                    "elektrli"
+                ],
+                "Uyghur": [
+                    "ئېلېكتر",
+                    "ئېلېكترلىك"
+                ],
+                "Kazakh": [
+                    "электрлі",
+                    "электрлік"
+                ],
+                "Kyrgyz": [
+                    "электрдик",
+                    "электр"
+                ],
+                "Karakalpak": [
+                    "elektrli",
+                    "elektr"
+                ],
+                "Tatar": [
+                    "электрлы",
+                    "электр"
+                ],
+                "Bashkir": [
+                    "электр",
+                    "электрлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "barqli"
+                ],
+                "Uyghur": [
+                    "بەرقىي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қуатты"
+                ]
+            }
+        }
+    ]
+}

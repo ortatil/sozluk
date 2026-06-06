@@ -1,0 +1,104 @@
+{
+    "id": "i36607",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "electrocution",
+    "en_definition": "killing by electric shock",
+    "tr_word": "elektrik çarpması sonucu ölüm",
+    "tr_definition": "elektrik şoku nedeniyle meydana gelen ölüm vakası",
+    "ru_word": "поражение электрическим током",
+    "ru_definition": "смерть или тяжелая травма, вызванная воздействием электрического тока",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrik çarpması",
+                    "elektrikle idam",
+                    "elektrik şoku"
+                ],
+                "Azerbaijani": [
+                    "elektrik vurması"
+                ],
+                "Turkmen": [
+                    "elektrik urmasy"
+                ],
+                "Uzbek": [
+                    "elektr urishi"
+                ],
+                "Kazakh": [
+                    "электр тоғынан қаза табу"
+                ],
+                "Kyrgyz": [
+                    "электрден каза табуу"
+                ],
+                "Karakalpak": [
+                    "elektr togınan qaza tabıo"
+                ],
+                "Tatar": [
+                    "электр сугу",
+                    "электр белән үтерү"
+                ],
+                "Bashkir": [
+                    "электр һуғыу",
+                    "электр менән үлтереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tok urmasy"
+                ],
+                "Uzbek": [
+                    "tok urishi"
+                ],
+                "Uyghur": [
+                    "توك سوقۇپ ئۆلۈش",
+                    "توك سوقۇش",
+                    "توك زەربىسى"
+                ],
+                "Kazakh": [
+                    "тоқ соғу",
+                    "тоққа түсу"
+                ],
+                "Kyrgyz": [
+                    "токко урунуу",
+                    "токко чалдыгуу"
+                ],
+                "Karakalpak": [
+                    "tok soǵıp ólu",
+                    "tok urıo"
+                ],
+                "Tatar": [
+                    "ток сугу"
+                ],
+                "Bashkir": [
+                    "ток һуғыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cərəyan vurması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tok bilen öldürme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tokdan o'lim"
+                ]
+            }
+        }
+    ]
+}

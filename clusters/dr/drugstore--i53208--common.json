@@ -1,0 +1,98 @@
+{
+    "id": "i53208",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pharmacy",
+    "en_definition": "a retail shop where medicine and other articles are sold",
+    "tr_word": "eczane",
+    "tr_definition": "ilaçların ve tıbbi malzemelerin satıldığı perakende dükkan",
+    "ru_word": "аптека",
+    "ru_definition": "розничный магазин, где продаются лекарства и другие товары медицинского назначения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dərmanxana"
+                ],
+                "Turkmen": [
+                    "dermanhana"
+                ],
+                "Uzbek": [
+                    "dorixona"
+                ],
+                "Uyghur": [
+                    "دوراخانا"
+                ],
+                "Kazakh": [
+                    "дәріхана"
+                ],
+                "Kyrgyz": [
+                    "дарыкана"
+                ],
+                "Karakalpak": [
+                    "dárixana"
+                ],
+                "Tatar": [
+                    "даруханә",
+                    "даруханәханә"
+                ],
+                "Bashkir": [
+                    "дарыухана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eczane"
+                ],
+                "Kyrgyz": [
+                    "эмкана"
+                ],
+                "Bashkir": [
+                    "имхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "aptek"
+                ],
+                "Turkmen": [
+                    "aptek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ispençiyari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shifoxona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دورا-دەرمانخانا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "емхана"
+                ]
+            }
+        }
+    ]
+}

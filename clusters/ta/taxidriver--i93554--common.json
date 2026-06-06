@@ -1,0 +1,116 @@
+{
+    "id": "i93554",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "taxidriver",
+    "en_definition": "someone who drives a taxi for a living",
+    "tr_word": "taksici",
+    "tr_definition": "geçimini taksi sürerek sağlayan kimse",
+    "ru_word": "таксист",
+    "ru_definition": "человек, который зарабатывает на жизнь вождением такси",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taksici",
+                    "taksi şoförü"
+                ],
+                "Azerbaijani": [
+                    "taksi sürücüsü",
+                    "taksiçi"
+                ],
+                "Turkmen": [
+                    "taksist",
+                    "taksi sürüjisi"
+                ],
+                "Uzbek": [
+                    "taksichi"
+                ],
+                "Uyghur": [
+                    "تاكسىچى",
+                    "تاكسى ھەيدىگۈچى",
+                    "تاكسى شوپۇرى"
+                ],
+                "Kazakh": [
+                    "таксиші"
+                ],
+                "Kyrgyz": [
+                    "таксичи"
+                ],
+                "Karakalpak": [
+                    "taksishi"
+                ],
+                "Tatar": [
+                    "тәкъсиче"
+                ],
+                "Bashkir": [
+                    "таксисы",
+                    "тәгәрмәссе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kirakash"
+                ],
+                "Kazakh": [
+                    "көлікші"
+                ],
+                "Kyrgyz": [
+                    "киречи"
+                ],
+                "Karakalpak": [
+                    "kireshi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жүргізуші"
+                ],
+                "Tatar": [
+                    "йөртүче"
+                ],
+                "Bashkir": [
+                    "йөрөтөүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айдоочу"
+                ],
+                "Karakalpak": [
+                    "aydaoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sürüji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "haydovchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "арабачы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "id": "i88373",
+    "type": "unknown",
+    "batch": "common",
+    "en_word": "airman",
+    "en_definition": "someone who operates an aircraft",
+    "tr_word": "havacı",
+    "tr_definition": "Hava taşıtlarını kullanan veya hava kuvvetlerinde görev yapan kimse.",
+    "ru_word": "авиатор",
+    "ru_definition": "Человек, управляющий летательным аппаратом или служащий в авиации.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tayyareci"
+                ],
+                "Azerbaijani": [
+                    "təyyarəçi"
+                ],
+                "Turkmen": [
+                    "teýýarachy"
+                ],
+                "Uzbek": [
+                    "tayyorachi"
+                ],
+                "Uyghur": [
+                    "تەييارىچى"
+                ],
+                "Karakalpak": [
+                    "táyyarashı"
+                ],
+                "Tatar": [
+                    "тәйярәче"
+                ],
+                "Bashkir": [
+                    "тәйәрәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uçman"
+                ],
+                "Turkmen": [
+                    "uçarmany"
+                ],
+                "Uzbek": [
+                    "uchuvchi"
+                ],
+                "Uyghur": [
+                    "ئۇچقۇچى"
+                ],
+                "Kyrgyz": [
+                    "учкуч"
+                ],
+                "Tatar": [
+                    "очучы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "havacı"
+                ],
+                "Azerbaijani": [
+                    "havaçı"
+                ],
+                "Uzbek": [
+                    "havovoz"
+                ],
+                "Uyghur": [
+                    "ھاۋا يولباشچىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pilot"
+                ],
+                "Azerbaijani": [
+                    "pilot"
+                ],
+                "Turkmen": [
+                    "pilot"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ұшқыш",
+                    "ұшақшы"
+                ],
+                "Karakalpak": [
+                    "ushıoshı"
+                ],
+                "Bashkir": [
+                    "осоусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуеші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "абакер"
+                ]
+            }
+        }
+    ]
+}

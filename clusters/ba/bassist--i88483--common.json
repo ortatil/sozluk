@@ -1,0 +1,82 @@
+{
+    "id": "i88483",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bassist",
+    "en_definition": "a musician who play the bass viol",
+    "tr_word": "basçı",
+    "tr_definition": "Kontrbas veya bas gitar çalan müzisyen.",
+    "ru_word": "басист",
+    "ru_definition": "Музыкант, играющий на бас-гитаре или контрабасе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basçı",
+                    "bas gitarist"
+                ],
+                "Azerbaijani": [
+                    "basçı",
+                    "bas ifaçısı",
+                    "bas musiqiçisi"
+                ],
+                "Turkmen": [
+                    "basçy",
+                    "bas sazandasy"
+                ],
+                "Uzbek": [
+                    "baschi",
+                    "bas sozandasi",
+                    "baschi sozanda"
+                ],
+                "Uyghur": [
+                    "باسچى",
+                    "باس سازەندىسى",
+                    "باس چالغۇچى"
+                ],
+                "Kazakh": [
+                    "басшы",
+                    "бас-домбырашы",
+                    "бас-қобызшы",
+                    "бас аспапшы"
+                ],
+                "Kyrgyz": [
+                    "басчы",
+                    "бас аспапчы"
+                ],
+                "Karakalpak": [
+                    "basshı",
+                    "bas-sazger",
+                    "bas-dombırashı"
+                ],
+                "Tatar": [
+                    "басчы",
+                    "бас-гитарачы"
+                ],
+                "Bashkir": [
+                    "бассы",
+                    "бас уйнаусы",
+                    "бас ҡыллы ҡоралда уйнаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kontrbasçı"
+                ],
+                "Tatar": [
+                    "контрабасчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бас кылдуу аспапчы"
+                ]
+            }
+        }
+    ]
+}

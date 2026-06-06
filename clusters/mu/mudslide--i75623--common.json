@@ -1,0 +1,135 @@
+{
+    "id": "i75623",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mudslide",
+    "en_definition": "a landslide of mud",
+    "tr_word": "çamur kayması",
+    "tr_definition": "toprak ve suyun birleşerek yamaçlardan aşağı hızla akması durumu",
+    "ru_word": "оползень",
+    "ru_definition": "схождение потока грязи и земли со склонов гор или холмов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sel"
+                ],
+                "Turkmen": [
+                    "sil"
+                ],
+                "Uzbek": [
+                    "sel"
+                ],
+                "Uyghur": [
+                    "سەل"
+                ],
+                "Kazakh": [
+                    "сел"
+                ],
+                "Kyrgyz": [
+                    "сел"
+                ],
+                "Karakalpak": [
+                    "sel"
+                ],
+                "Tatar": [
+                    "сел"
+                ],
+                "Bashkir": [
+                    "сел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "laý süýşmesi",
+                    "laý akymy"
+                ],
+                "Uzbek": [
+                    "loyqa",
+                    "loy oqimi"
+                ],
+                "Uyghur": [
+                    "لاي ئېقىنى",
+                    "لاي-پاتقاق ئېقىنى"
+                ],
+                "Kazakh": [
+                    "лай көшкіні"
+                ],
+                "Kyrgyz": [
+                    "ылай көчкү"
+                ],
+                "Karakalpak": [
+                    "lay kóshkіnі",
+                    "lay tasqını"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "palçıq axını"
+                ],
+                "Tatar": [
+                    "балчык ташкыны"
+                ],
+                "Bashkir": [
+                    "батҡаҡ ағымы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toprak kayması"
+                ],
+                "Azerbaijani": [
+                    "torpaq sürüşməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тасқын"
+                ],
+                "Tatar": [
+                    "ташкын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çamur akıntısı",
+                    "çamur seli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "heyelan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көчкү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ләм ағымы"
+                ]
+            }
+        }
+    ]
+}

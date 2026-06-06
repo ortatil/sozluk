@@ -1,0 +1,140 @@
+# Hush puppy
+| Field | Detail |
+|---|---|
+| **ID** | i77375 |
+| **English** | hush puppy |
+| **Type** | noun |
+| **Definition** | deep-fried cornbread ball (southern) |
+| **Source** | common |
+| **Ortatil** | baoursaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i77375",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hush puppy",
+    "en_definition": "deep-fried cornbread ball (southern)",
+    "tr_word": "mısır ekmeği köftesi",
+    "tr_definition": "Güney Amerika mutfağına özgü, derin yağda kızartılmış küçük mısır ekmeği topları.",
+    "ru_word": "хашпаппи",
+    "ru_definition": "небольшие шарики из кукурузного теста, обжаренные во фритюре (традиционное блюдо юга США).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jöwen kökesi",
+                    "jöwen nan",
+                    "jöwenli çörek"
+                ],
+                "Kazakh": [
+                    "жүгері бауырсағы",
+                    "жүгері тоқашы"
+                ],
+                "Kyrgyz": [
+                    "жүгөрү токочу",
+                    "жүгөрү боорсогу"
+                ],
+                "Karakalpak": [
+                    "júgórú nan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qovurilgan makkajo'xori noni"
+                ],
+                "Kazakh": [
+                    "қуырылған жүгері наны"
+                ],
+                "Kyrgyz": [
+                    "куурулган жүгөрү наны"
+                ],
+                "Karakalpak": [
+                    "quoırılǵan nan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızarmış mısır hamuru"
+                ],
+                "Azerbaijani": [
+                    "qızardılmış xəmir"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырылған кукуруз икмәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кукуруз күмәче",
+                    "кукуруз кабартмасы",
+                    "кукуруз шарчыгы"
+                ],
+                "Bashkir": [
+                    "кукуруз бауырһағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mısır ekmeği topu",
+                    "mısır köftesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarğıdalı kökəsi",
+                    "qarğıdalı çörəyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "makkajo'xori bo'g'irsoq",
+                    "makkajo'xori kulchasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قورۇلغان كۆممىقوناق نېنى",
+                    "كۆممىقوناق ئۇنى پېشۆرمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قورۇلغان نان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "baoırsaq"
+                ]
+            }
+        }
+    ]
+}
+```
+

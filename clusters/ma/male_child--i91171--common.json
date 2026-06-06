@@ -1,0 +1,130 @@
+{
+    "id": "i91171",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "boy",
+    "en_definition": "a youthful male person",
+    "tr_word": "oğlan",
+    "tr_definition": "genç erkek çocuk",
+    "ru_word": "мальчик",
+    "ru_definition": "ребенок мужского пола",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ogul"
+                ],
+                "Uzbek": [
+                    "oʻgʻil",
+                    "oʻgʻil bola"
+                ],
+                "Uyghur": [
+                    "ئوغۇل بالا"
+                ],
+                "Kazakh": [
+                    "ұл"
+                ],
+                "Kyrgyz": [
+                    "уул"
+                ],
+                "Karakalpak": [
+                    "ul"
+                ],
+                "Tatar": [
+                    "ул"
+                ],
+                "Bashkir": [
+                    "ул"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "erkek çocuk"
+                ],
+                "Kazakh": [
+                    "ер бала"
+                ],
+                "Kyrgyz": [
+                    "эр бала",
+                    "эркек бала"
+                ],
+                "Karakalpak": [
+                    "er bala"
+                ],
+                "Tatar": [
+                    "ир бала"
+                ],
+                "Bashkir": [
+                    "ир бала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oğlan"
+                ],
+                "Azerbaijani": [
+                    "oğlan",
+                    "oğlan uşağı"
+                ],
+                "Turkmen": [
+                    "oglan"
+                ],
+                "Uyghur": [
+                    "ئوغۇل"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "veled"
+                ],
+                "Azerbaijani": [
+                    "vələd"
+                ],
+                "Kazakh": [
+                    "бала"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "малай"
+                ],
+                "Bashkir": [
+                    "малай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bachcha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پەرزەنت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ul bala"
+                ]
+            }
+        }
+    ]
+}

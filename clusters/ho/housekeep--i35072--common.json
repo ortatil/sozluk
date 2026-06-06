@@ -1,0 +1,148 @@
+{
+    "id": "i35072",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "housekeep",
+    "en_definition": "maintain a household; take care of all business related to a household",
+    "tr_word": "ev işi yapmak",
+    "tr_definition": "Bir evin temizliği, düzeni ve yönetimi ile ilgili işleri yürütmek.",
+    "ru_word": "вести хозяйство",
+    "ru_definition": "Заниматься домашними делами, управлять бытом и содержать дом в порядке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öý dolandyrmak",
+                    "öý-işlerini etmek"
+                ],
+                "Uzbek": [
+                    "uy ishlarini qilmoq"
+                ],
+                "Uyghur": [
+                    "ئۆي ئىشلىرىنى قىلىش"
+                ],
+                "Kazakh": [
+                    "үй билеу"
+                ],
+                "Kyrgyz": [
+                    "үй тиричилигин кылуу",
+                    "үй башкаруу",
+                    "үй-жайды кароо"
+                ],
+                "Karakalpak": [
+                    "úy biyleu",
+                    "úydi basqarıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hojalyk ýöretmek",
+                    "hojalyga seretmek"
+                ],
+                "Tatar": [
+                    "хуҗалык итү",
+                    "хуҗалык алып бару"
+                ],
+                "Bashkir": [
+                    "хужалыҡ итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "roʻzgʻor tutmoq",
+                    "roʻzgʻor yuritmoq"
+                ],
+                "Uyghur": [
+                    "رۇزغار تۇتۇش"
+                ],
+                "Karakalpak": [
+                    "rózigershilik etiu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئۆي باشقۇرۇش"
+                ],
+                "Kazakh": [
+                    "үй шаруасын атқару",
+                    "үй шаруашылығымен айналысу"
+                ],
+                "Karakalpak": [
+                    "úy-jaydı kútiu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ev çekip çevirmek",
+                    "ev idare etmek",
+                    "ev yönetmek",
+                    "ev işi yapmak",
+                    "ev bakmak"
+                ],
+                "Azerbaijani": [
+                    "ev idarə etmək",
+                    "ev saxlamaq",
+                    "ev-eşiyə baxmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uy tutmoq"
+                ],
+                "Uyghur": [
+                    "ئۆز تۇتۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үй күту"
+                ],
+                "Kyrgyz": [
+                    "үй күтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йорт карау",
+                    "йорт-җир карау"
+                ],
+                "Bashkir": [
+                    "йорт-ҡаралты ҡарау",
+                    "йорт тотоу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təsərrüfatçılıq etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "донъя көтөү"
+                ]
+            }
+        }
+    ]
+}

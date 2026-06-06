@@ -1,0 +1,81 @@
+{
+    "id": "i68340",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "natural science",
+    "en_definition": "the sciences involved in the study of the physical world and its phenomena",
+    "tr_word": "doğa bilimleri",
+    "tr_definition": "fiziksel dünyayı ve olaylarını inceleyen bilim dalları",
+    "ru_word": "естествознание",
+    "ru_definition": "совокупность наук о природе, изучающих физический мир и его явления",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tabiat ilmi",
+                    "tabii ilimler"
+                ],
+                "Azerbaijani": [
+                    "təbiətşünaslıq",
+                    "təbiət elmləri"
+                ],
+                "Turkmen": [
+                    "tebigy ylymlar",
+                    "tebigatşynaslyk"
+                ],
+                "Uzbek": [
+                    "tabiiy fanlar",
+                    "tabiatshunoslik"
+                ],
+                "Uyghur": [
+                    "تەبىئىي پەن",
+                    "تەبىئەت پەنلىرى",
+                    "تەبىئىيات"
+                ],
+                "Kazakh": [
+                    "табиғаттану"
+                ],
+                "Kyrgyz": [
+                    "табият таануу",
+                    "табият илими",
+                    "табият таануу илими"
+                ],
+                "Karakalpak": [
+                    "tabiyattanıo",
+                    "tabiyat tanıo ilimi"
+                ],
+                "Tatar": [
+                    "табигать белеме",
+                    "табигый фәннәр",
+                    "табигать фәне"
+                ],
+                "Bashkir": [
+                    "тәбиғәт фәне",
+                    "тәбиғәт ғилеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğa bilimleri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fen bilimleri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаратылыстану"
+                ]
+            }
+        }
+    ]
+}

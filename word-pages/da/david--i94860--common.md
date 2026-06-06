@@ -1,0 +1,121 @@
+# David
+| Field | Detail |
+|---|---|
+| **ID** | i94860 |
+| **English** | david |
+| **Type** | noun |
+| **Definition** | (Old Testament) the 2nd king of the Israelites; as a young shepherd he fought Goliath (a giant Philistine warrior) and killed him by hitting him in the head with a stone flung from a sling; he united Israel with Jerusalem as its capital; many of the Psalms are attributed to David (circa 1000-962 BC) |
+| **Source** | common |
+| **Ortatil** | dawut |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **dawut** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| داۋۇت | davut |
+| **Kazakh** | |
+| Дәуіт | däuit |
+| **Kyrgyz** | |
+| Дауд | daud |
+| Давут | davut |
+| **Tatar** | |
+| Давыт | davıt |
+| **Bashkir** | |
+| Дауыт | dauıt |
+
+```json
+{
+    "id": "i94860",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "david",
+    "en_definition": "(Old Testament) the 2nd king of the Israelites; as a young shepherd he fought Goliath (a giant Philistine warrior) and killed him by hitting him in the head with a stone flung from a sling; he united Israel with Jerusalem as its capital; many of the Psalms are attributed to David (circa 1000-962 BC)",
+    "tr_word": "Davud",
+    "tr_definition": "İsrailoğullarının ikinci kralı; sapanla attığı taşla dev Golyat'ı öldüren, İsrail'i birleştiren ve Kudüs'ü başkent yapan, Mezmurlar'ın yazarı olduğuna inanılan peygamber ve hükümdar.",
+    "ru_word": "Давид",
+    "ru_definition": "Второй царь народа Израиля; в юности победил великана Голиафа камнем из пращи; объединил Израиль со столицей в Иерусалиме; традиционно считается автором многих Псалмов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Davut",
+                    "Davud"
+                ],
+                "Azerbaijani": [
+                    "Davud",
+                    "Davud peyğəmbər"
+                ],
+                "Turkmen": [
+                    "Dawut",
+                    "Dawut pygamber"
+                ],
+                "Uzbek": [
+                    "Dovud",
+                    "Dovud payg'ambar"
+                ],
+                "Uyghur": [
+                    "داۋۇت",
+                    "داۋۇت ئەلەيھىسسالام"
+                ],
+                "Kyrgyz": [
+                    "Дауд",
+                    "Давут",
+                    "Дауд пайгамбар"
+                ],
+                "Karakalpak": [
+                    "Dáoit",
+                    "Dáoit payǵambar"
+                ],
+                "Tatar": [
+                    "Давыт",
+                    "Давыт пәйгамбәр"
+                ],
+                "Bashkir": [
+                    "Дауыт",
+                    "Дауыт пәйғәмбәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Hazreti Davut"
+                ],
+                "Azerbaijani": [
+                    "Həzrəti Davud"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Дәуіт",
+                    "Дәуіт пайғамбар"
+                ]
+            }
+        }
+    ]
+}
+```
+

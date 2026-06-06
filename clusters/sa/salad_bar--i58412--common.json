@@ -1,0 +1,72 @@
+{
+    "id": "i58412",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "salad bar",
+    "en_definition": "a bar where diners can assemble a salad to their own taste",
+    "tr_word": "salata barı",
+    "tr_definition": "müşterilerin kendi zevklerine göre salata hazırlayabildikleri açık büfe",
+    "ru_word": "салат-бар",
+    "ru_definition": "стойка в ресторане с ингредиентами для самостоятельного приготовления салата",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "salata barı",
+                    "salata büfesi"
+                ],
+                "Azerbaijani": [
+                    "salat masası",
+                    "salat guşəsi",
+                    "salat bölməsi"
+                ],
+                "Turkmen": [
+                    "salat bar",
+                    "salat bölümi",
+                    "salat saçagy"
+                ],
+                "Uzbek": [
+                    "salat burchagi",
+                    "salat peshtaxtasi",
+                    "salat stoli"
+                ],
+                "Uyghur": [
+                    "سالات پۇشتى",
+                    "سالات ئۈستىلى",
+                    "سالات بار"
+                ],
+                "Kazakh": [
+                    "салат үстелі",
+                    "салат сөресі",
+                    "салат бұрышы"
+                ],
+                "Kyrgyz": [
+                    "салат текчеси",
+                    "салат дасторкону",
+                    "салат бурчу"
+                ],
+                "Karakalpak": [
+                    "salat ústeli",
+                    "salatlar bólimi",
+                    "salatlar sóresi"
+                ],
+                "Tatar": [
+                    "салат өстәле",
+                    "салат бар"
+                ],
+                "Bashkir": [
+                    "салат өҫтәле",
+                    "салат бар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "açık büfe salata"
+                ]
+            }
+        }
+    ]
+}

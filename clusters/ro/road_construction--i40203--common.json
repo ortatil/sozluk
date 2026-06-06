@@ -1,0 +1,85 @@
+{
+    "id": "i40203",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "road construction",
+    "en_definition": "the construction of roads",
+    "tr_word": "yol yapımı",
+    "tr_definition": "Yolların inşa edilmesi süreci",
+    "ru_word": "дорожное строительство",
+    "ru_definition": "процесс строительства и обустройства автомобильных дорог",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yol yapımı",
+                    "yol inşaatı"
+                ],
+                "Azerbaijani": [
+                    "yol inşası"
+                ],
+                "Turkmen": [
+                    "ýol gurmak"
+                ],
+                "Uzbek": [
+                    "yo'l qurilishi",
+                    "yo'lsozlik"
+                ],
+                "Uyghur": [
+                    "يول قۇرۇلۇشى",
+                    "يول ياساش"
+                ],
+                "Kazakh": [
+                    "жол құрылысы",
+                    "жол салу"
+                ],
+                "Kyrgyz": [
+                    "жол курулушу",
+                    "жол салуу",
+                    "жол куруу"
+                ],
+                "Karakalpak": [
+                    "jol qurılısı",
+                    "jol salıo"
+                ],
+                "Tatar": [
+                    "юл төзелеше",
+                    "юл салу"
+                ],
+                "Bashkir": [
+                    "юл төҙөлөшө",
+                    "юл һалыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yol tesisi"
+                ],
+                "Azerbaijani": [
+                    "yol tikintisi",
+                    "yol quruculuğu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýol gurluşygy"
+                ],
+                "Uzbek": [
+                    "yo'l bunyodkorligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يول سالغۇچىلىق"
+                ]
+            }
+        }
+    ]
+}

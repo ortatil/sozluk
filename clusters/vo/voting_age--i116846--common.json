@@ -1,0 +1,103 @@
+{
+    "id": "i116846",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "voting age",
+    "en_definition": "the age at which a person is old enough to vote in public elections",
+    "tr_word": "seçmen yaşı",
+    "tr_definition": "bir kişinin genel seçimlerde oy kullanabilmesi için ulaşması gereken yasal yaş sınırı",
+    "ru_word": "избирательный возраст",
+    "ru_definition": "возраст, по достижении которого гражданин получает право участвовать в выборах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saýlaw ýaşy"
+                ],
+                "Uzbek": [
+                    "saylov yoshi"
+                ],
+                "Uyghur": [
+                    "سايلام يېشى"
+                ],
+                "Kazakh": [
+                    "сайлау жасы"
+                ],
+                "Kyrgyz": [
+                    "шайлоо курагы"
+                ],
+                "Karakalpak": [
+                    "saylao jası"
+                ],
+                "Tatar": [
+                    "сайлау яше"
+                ],
+                "Bashkir": [
+                    "һайлау хоҡуғы йәше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovoz berish yoshi"
+                ],
+                "Kazakh": [
+                    "дауыс беру жасы"
+                ],
+                "Tatar": [
+                    "тавыш бирү яше"
+                ],
+                "Bashkir": [
+                    "тауыш биреү йәше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seçmen yaşı",
+                    "seçme yaşı"
+                ],
+                "Azerbaijani": [
+                    "səsvermə yaşı",
+                    "seçki yaşı"
+                ],
+                "Turkmen": [
+                    "ses bermek ýaşy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oy verme yaşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېلەت تاشلاش يېشى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "добуш берүү курагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "daoıs berio jası"
+                ]
+            }
+        }
+    ]
+}

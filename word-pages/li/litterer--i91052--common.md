@@ -1,0 +1,202 @@
+# Litterer
+| Field | Detail |
+|---|---|
+| **ID** | i91052 |
+| **English** | litterer |
+| **Type** | noun |
+| **Definition** | a person who litters public places with refuse |
+| **Source** | common |
+| **Ortatil** | çöpçüäl |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **çöpçüäl** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئەخلەتچى | äxlätçi |
+| **Kazakh** | |
+| ластаушы | lastauşı |
+| былғаушы | bılğauşı |
+| **Kyrgyz** | |
+| булганыч | bulganıç |
+| булгоочу | bulgooçu |
+| **Tatar** | |
+| чүпләүче | çüpläüçe |
+| пычратучы | pıçratuçı |
+| **Bashkir** | |
+| сүпләүсе | süpläüse |
+| бысратыусы | bısratıusı |
+| бысраҡсы | bısraqsı |
+
+```json
+{
+    "id": "i91052",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "litterer",
+    "en_definition": "a person who litters public places with refuse",
+    "tr_word": "çöpçü",
+    "tr_definition": "kamusal alanlara çöp atan kimse",
+    "ru_word": "мусорящий",
+    "ru_definition": "человек, который бросает мусор в общественных местах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çöpçü"
+                ],
+                "Tatar": [
+                    "чүпләүче",
+                    "чүп ташлаучы"
+                ],
+                "Bashkir": [
+                    "сүпләүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "iflos qiluvchi",
+                    "iflosgar"
+                ],
+                "Kyrgyz": [
+                    "ыпыластык кылуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "axlat tashlovchi"
+                ],
+                "Uyghur": [
+                    "ئەخلەت تاشلىغۇچى",
+                    "ئەخلەتچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ластаушы"
+                ],
+                "Karakalpak": [
+                    "ılaslaushı",
+                    "paslaushı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "былғаушы"
+                ],
+                "Kyrgyz": [
+                    "булганыч",
+                    "булгоочу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пычратучы"
+                ],
+                "Bashkir": [
+                    "бысратыусы",
+                    "бысраҡсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kirletici",
+                    "pisleten"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zibilləyən",
+                    "zibil atan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çirkləndirən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hapalaýjy",
+                    "hapaçy",
+                    "hapalaýan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nopok"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇھىتنى بۇلغىغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоқыс тастаушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "таштанды таштоочу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "búldіrushі"
+                ]
+            }
+        }
+    ]
+}
+```
+

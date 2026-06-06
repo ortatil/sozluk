@@ -1,0 +1,139 @@
+# Great ape
+| Field | Detail |
+|---|---|
+| **ID** | i48698 |
+| **English** | great ape |
+| **Type** | noun |
+| **Definition** | any of the large anthropoid apes of the family Pongidae |
+| **Source** | common |
+| **Ortatil** | maymıl |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| маймыл | maymıl |
+
+```json
+{
+    "id": "i48698",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "great ape",
+    "en_definition": "any of the large anthropoid apes of the family Pongidae",
+    "tr_word": "insansı maymun",
+    "tr_definition": "Hominidae familyasına ait olan, kuyruksuz ve büyük yapılı primat türlerinin genel adı.",
+    "ru_word": "гоминид",
+    "ru_definition": "семейство наиболее прогрессивных приматов, включающее людей и больших человекообразных обезьян.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iri maymun"
+                ],
+                "Azerbaijani": [
+                    "iri meymun"
+                ],
+                "Uzbek": [
+                    "yirik maymun"
+                ],
+                "Kazakh": [
+                    "ірі маймыл"
+                ],
+                "Kyrgyz": [
+                    "ири маймыл"
+                ],
+                "Tatar": [
+                    "зур маймыл"
+                ],
+                "Bashkir": [
+                    "ҙур маймыл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "adamşekilli maýmyn"
+                ],
+                "Uzbek": [
+                    "odamsimon maymun"
+                ],
+                "Uyghur": [
+                    "ئادەمسىمان مايمۇن"
+                ],
+                "Kazakh": [
+                    "адамтектес маймыл"
+                ],
+                "Kyrgyz": [
+                    "адам сымал маймыл"
+                ],
+                "Karakalpak": [
+                    "adam tárіzdі maymıl"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ مايمۇن"
+                ],
+                "Kazakh": [
+                    "дәу маймыл"
+                ],
+                "Karakalpak": [
+                    "dáu maymıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "insansı maymun"
+                ],
+                "Azerbaijani": [
+                    "insanabənzər meymun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyük maymun"
+                ],
+                "Turkmen": [
+                    "beýik maýmyn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "маймыл"
+                ],
+                "Karakalpak": [
+                    "maymıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кешесыман маймыл"
+                ],
+                "Bashkir": [
+                    "кеше һымаҡ маймыл"
+                ]
+            }
+        }
+    ]
+}
+```
+

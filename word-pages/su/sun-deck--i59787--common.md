@@ -1,0 +1,169 @@
+# Sun deck
+| Field | Detail |
+|---|---|
+| **ID** | i59787 |
+| **English** | sun deck |
+| **Type** | noun |
+| **Definition** | an unroofed deck |
+| **Source** | common |
+| **Ortatil** | terrasa |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| терраса | terrasa |
+
+```json
+{
+    "id": "i59787",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sun deck",
+    "en_definition": "an unroofed deck",
+    "tr_word": "güneşlenme terası",
+    "tr_definition": "Güneşlenmek için tasarlanmış, üzeri açık güverte veya teras.",
+    "ru_word": "солярий",
+    "ru_definition": "Открытая площадка на палубе судна или крыше здания, предназначенная для приема солнечных ванн.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açık güverte"
+                ],
+                "Azerbaijani": [
+                    "açıq göyərtə"
+                ],
+                "Turkmen": [
+                    "açyk eýwan"
+                ],
+                "Uzbek": [
+                    "ochiq ayvon"
+                ],
+                "Kazakh": [
+                    "ашық палуба"
+                ],
+                "Kyrgyz": [
+                    "ачык терраса",
+                    "ачык палуба"
+                ],
+                "Karakalpak": [
+                    "ashıq terrasa",
+                    "ashıq paluba"
+                ],
+                "Tatar": [
+                    "ачык палуба"
+                ],
+                "Bashkir": [
+                    "асыҡ майҙансыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üst güverte"
+                ],
+                "Uyghur": [
+                    "ئۈستى ئوچۇق سۇپا"
+                ],
+                "Kazakh": [
+                    "үстіңгі палуба"
+                ],
+                "Tatar": [
+                    "өске палуба"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güneşlenme terası",
+                    "güneşlik"
+                ],
+                "Azerbaijani": [
+                    "günəş göyərtəsi",
+                    "günəşlənmə yeri"
+                ],
+                "Turkmen": [
+                    "günlenilýän ýer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "terrasa"
+                ],
+                "Bashkir": [
+                    "терраса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ayvon"
+                ],
+                "Karakalpak": [
+                    "aywan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күн палубасы"
+                ],
+                "Kyrgyz": [
+                    "күнөстүү аянтча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shirvon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boloxona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاپتاپلىنىش سۇپىسى",
+                    "ئاپتاپلىنىش مەيدانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кояш палубасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "күҙәтеү майҙансығы"
+                ]
+            }
+        }
+    ]
+}
+```
+

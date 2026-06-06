@@ -1,0 +1,136 @@
+{
+    "id": "i13130",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "suspected",
+    "en_definition": "believed likely",
+    "tr_word": "şüpheli",
+    "tr_definition": "muhtemel olduğu düşünülen, kendisinden kuşkulanılan",
+    "ru_word": "подозреваемый",
+    "ru_definition": "считающийся вероятным или вызывающий подозрение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "güman edilən"
+                ],
+                "Turkmen": [
+                    "gümanly"
+                ],
+                "Uzbek": [
+                    "gumonli",
+                    "gumon qilingan"
+                ],
+                "Uyghur": [
+                    "گۇمانلىق"
+                ],
+                "Kazakh": [
+                    "күмәнді"
+                ],
+                "Kyrgyz": [
+                    "күмөндүү"
+                ],
+                "Karakalpak": [
+                    "gúmanlı",
+                    "gúman etilgen"
+                ],
+                "Tatar": [
+                    "гөманланган"
+                ],
+                "Bashkir": [
+                    "гөманланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şüpheli"
+                ],
+                "Azerbaijani": [
+                    "şübhəli"
+                ],
+                "Turkmen": [
+                    "şübheli"
+                ],
+                "Uzbek": [
+                    "shubhali",
+                    "shubha ostidagi"
+                ],
+                "Uyghur": [
+                    "شۈبھىلىك"
+                ],
+                "Karakalpak": [
+                    "shúbheli"
+                ],
+                "Tatar": [
+                    "шөбһәле"
+                ],
+                "Bashkir": [
+                    "шөбһәле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zanlı"
+                ],
+                "Azerbaijani": [
+                    "zənnli"
+                ],
+                "Tatar": [
+                    "шикле"
+                ],
+                "Bashkir": [
+                    "шикле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meşkuk"
+                ],
+                "Uyghur": [
+                    "مەشكۇك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шектеулі"
+                ],
+                "Kyrgyz": [
+                    "шектелген",
+                    "шектүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuşkulu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mätäç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күдікті"
+                ]
+            }
+        }
+    ]
+}

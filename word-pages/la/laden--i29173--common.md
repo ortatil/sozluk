@@ -1,0 +1,197 @@
+# Laden
+| Field | Detail |
+|---|---|
+| **ID** | i29173 |
+| **English** | laden |
+| **Type** | verb |
+| **Definition** | fill or place a load on |
+| **Source** | common |
+| **Ortatil** | jüklämäk, ḍoldurmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jüklämäk** | **ḍoldurmaq** | **artmaq** |
+|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ |
+| Kazakh | ✅ | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ✅ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 0 |
+| *Qipchaq Subtotal* | 1 | 1 | 0.60 |
+| *In All* | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **4** | **4** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| يۈكلىمەك | yüklimäk |
+| تولدۇرماق | toldurmaq |
+| باسماق | basmaq |
+| **Kazakh** | |
+| жүктеу | jükteu |
+| толтыру | toltıru |
+| арту | artu |
+| тиеу | tiyeu |
+| **Kyrgyz** | |
+| жүктөө | jüktöö |
+| толтуруу | tolturuu |
+| артуу | artuu |
+| **Tatar** | |
+| йөкләү | yökläü |
+| тутыру | tutıru |
+| төяү | töyaü |
+| **Bashkir** | |
+| йөкләү | yökläü |
+| тултырыу | tultırıu |
+| тейәү | teyäü |
+
+```json
+{
+    "id": "i29173",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "laden",
+    "en_definition": "fill or place a load on",
+    "tr_word": "yüklemek",
+    "tr_definition": "bir yere veya bir şeye yük koymak, doldurmak",
+    "ru_word": "грузить",
+    "ru_definition": "наполнять или помещать груз на что-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüklemek"
+                ],
+                "Azerbaijani": [
+                    "yükləmək",
+                    "yük vurmaq"
+                ],
+                "Turkmen": [
+                    "ýüklemek"
+                ],
+                "Uzbek": [
+                    "yuklamoq"
+                ],
+                "Uyghur": [
+                    "يۈكلىمەك"
+                ],
+                "Kazakh": [
+                    "жүктеу"
+                ],
+                "Kyrgyz": [
+                    "жүктөө"
+                ],
+                "Karakalpak": [
+                    "júkleo"
+                ],
+                "Tatar": [
+                    "йөкләү"
+                ],
+                "Bashkir": [
+                    "йөкләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doldurmak"
+                ],
+                "Azerbaijani": [
+                    "doldurmaq"
+                ],
+                "Turkmen": [
+                    "doldurmak"
+                ],
+                "Uzbek": [
+                    "toʻldirmoq"
+                ],
+                "Uyghur": [
+                    "تولدۇرماق"
+                ],
+                "Kazakh": [
+                    "толтыру"
+                ],
+                "Kyrgyz": [
+                    "толтуруу"
+                ],
+                "Karakalpak": [
+                    "toltırıo"
+                ],
+                "Tatar": [
+                    "тутыру"
+                ],
+                "Bashkir": [
+                    "тултырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "арту"
+                ],
+                "Kyrgyz": [
+                    "артуу"
+                ],
+                "Karakalpak": [
+                    "artıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ortmoq"
+                ],
+                "Uyghur": [
+                    "باسماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тиеу"
+                ],
+                "Bashkir": [
+                    "тейәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "donatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gaplamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төяү"
+                ]
+            }
+        }
+    ]
+}
+```
+

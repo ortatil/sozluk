@@ -1,0 +1,53 @@
+{
+    "id": "i12121",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one hundred seventy-five",
+    "en_definition": "being five more than one hundred seventy",
+    "tr_word": "yüz yetmiş beş",
+    "tr_definition": "yüz yetmişten beş fazla olan sayı",
+    "ru_word": "сто семьдесят пять",
+    "ru_definition": "число, на пять большее, чем сто семьдесят",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz yetmiş beş"
+                ],
+                "Azerbaijani": [
+                    "yüz yetmiş beş"
+                ],
+                "Turkmen": [
+                    "ýüz ýetmiş bäş"
+                ],
+                "Kazakh": [
+                    "жүз жетпіс бес"
+                ],
+                "Kyrgyz": [
+                    "жүз жетимиш беш"
+                ],
+                "Karakalpak": [
+                    "júz jetpis bes"
+                ],
+                "Tatar": [
+                    "йөз җитмеш биш",
+                    "йөз җитмеш бишле"
+                ],
+                "Bashkir": [
+                    "йөҙ етмеш биш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bir yuz yetmish besh"
+                ],
+                "Uyghur": [
+                    "بىر يۈز يەتمىش بەش"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+# Duckweed
+| Field | Detail |
+|---|---|
+| **ID** | i99281 |
+| **English** | duckweed |
+| **Type** | noun |
+| **Definition** | any small or minute aquatic plant of the family Lemnaceae that float on or near the surface of shallow ponds |
+| **Source** | common |
+| **Ortatil** | baqacapıraq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **baqacapıraq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| бақажапырақ | baqajapıraq |
+| балықоты | balıqotı |
+| сужапырақ | sujapıraq |
+
+```json
+{
+    "id": "i99281",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "duckweed",
+    "en_definition": "any small or minute aquatic plant of the family Lemnaceae that float on or near the surface of shallow ponds",
+    "tr_word": "su mercimeği",
+    "tr_definition": "Lemnaceae familyasından, durgun suların yüzeyini kaplayan çok küçük yapraklı su bitkisi.",
+    "ru_word": "ряска",
+    "ru_definition": "мелкое многолетнее водное растение, плавающее на поверхности стоячих вод.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su mercimeği"
+                ],
+                "Azerbaijani": [
+                    "su mərci"
+                ],
+                "Turkmen": [
+                    "suv merjimegi",
+                    "suv gamyşy",
+                    "suv otu"
+                ],
+                "Uzbek": [
+                    "suv o'ti",
+                    "suv qoplami"
+                ],
+                "Uyghur": [
+                    "سۇ ئۈستى ئوتى",
+                    "سۇ چۆپى",
+                    "سۇ يۈزى ئوتى"
+                ],
+                "Kyrgyz": [
+                    "суу бетиндеги чөп"
+                ],
+                "Karakalpak": [
+                    "su palı"
+                ],
+                "Tatar": [
+                    "су өсте үләне"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bağa mərci"
+                ],
+                "Uzbek": [
+                    "baqao'ti"
+                ],
+                "Kazakh": [
+                    "бақажапырақ"
+                ],
+                "Kyrgyz": [
+                    "бака жалбырак",
+                    "бака оту"
+                ],
+                "Karakalpak": [
+                    "baqapal",
+                    "baqajapıraq"
+                ],
+                "Tatar": [
+                    "бака тәңкәсе"
+                ],
+                "Bashkir": [
+                    "баҡа үләне",
+                    "баҡа япрағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ördek otu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sümərcə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "балықоты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сужапырақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу өҫтө үләне"
+                ]
+            }
+        }
+    ]
+}
+```
+

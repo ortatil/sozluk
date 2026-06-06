@@ -1,0 +1,141 @@
+{
+    "id": "i42305",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sire",
+    "en_definition": "male parent of an animal especially a domestic animal such as a horse",
+    "tr_word": "aygır",
+    "tr_definition": "özellikle at gibi evcil hayvanlarda erkek ebeveyn veya damızlık",
+    "ru_word": "производитель",
+    "ru_definition": "самец-производитель, отец животного (обычно о домашних животных, например, лошадях)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baba",
+                    "ata"
+                ],
+                "Azerbaijani": [
+                    "ata"
+                ],
+                "Turkmen": [
+                    "ata",
+                    "atasy"
+                ],
+                "Uzbek": [
+                    "ota"
+                ],
+                "Uyghur": [
+                    "ئاتىسى"
+                ],
+                "Kazakh": [
+                    "ата"
+                ],
+                "Kyrgyz": [
+                    "атасы"
+                ],
+                "Karakalpak": [
+                    "atalıq",
+                    "ata"
+                ],
+                "Tatar": [
+                    "ата",
+                    "ата мал"
+                ],
+                "Bashkir": [
+                    "ата",
+                    "ата мал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aygır"
+                ],
+                "Azerbaijani": [
+                    "ayğır"
+                ],
+                "Uzbek": [
+                    "aygʻir"
+                ],
+                "Uyghur": [
+                    "ئايغىر"
+                ],
+                "Kazakh": [
+                    "айғыр"
+                ],
+                "Kyrgyz": [
+                    "айгыр"
+                ],
+                "Karakalpak": [
+                    "ayǵır"
+                ],
+                "Bashkir": [
+                    "айғыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "erkek"
+                ],
+                "Uzbek": [
+                    "erkak"
+                ],
+                "Kazakh": [
+                    "еркек"
+                ],
+                "Kyrgyz": [
+                    "эркеги"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "nasldor"
+                ],
+                "Uyghur": [
+                    "نەسەب"
+                ],
+                "Tatar": [
+                    "нәсел атасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "damızlık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "törədici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұқым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bura"
+                ]
+            }
+        }
+    ]
+}

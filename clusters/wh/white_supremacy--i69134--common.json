@@ -1,0 +1,103 @@
+{
+    "id": "i69134",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white supremacy",
+    "en_definition": "the prejudice that members of the white race are superior to members of other races",
+    "tr_word": "beyaz üstünlükçülüğü",
+    "tr_definition": "beyaz ırkın diğer tüm ırklardan üstün olduğuna dair duyulan önyargı ve inanç",
+    "ru_word": "превосходство белой расы",
+    "ru_definition": "предубеждение о том, что представители белой расы превосходят представителей других рас",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ağ irqçilik",
+                    "ağ irqin üstünlüyü",
+                    "ağ irq təəssübkeşliyi"
+                ],
+                "Turkmen": [
+                    "ak jynsyň üstünligi"
+                ],
+                "Uzbek": [
+                    "oq irq ustunligi"
+                ],
+                "Uyghur": [
+                    "ئاق تەنلىكلەر ئۈستۈنلۈك قارىشى",
+                    "ئاق تەنلىكلەر ئۈستۈنلۈك نەزەرىيىسى",
+                    "ئاق تەنلىكلەر ئۈستۈنلۈكچىلىكى"
+                ],
+                "Kazakh": [
+                    "ақ нәсілшілдік"
+                ],
+                "Karakalpak": [
+                    "aq násil ústinligi",
+                    "aq násilshillik"
+                ],
+                "Tatar": [
+                    "ак тәнлеләр хакимлеге",
+                    "ак тәнлеләр өстенлекчелеге"
+                ],
+                "Bashkir": [
+                    "аҡ тәнлеләр өҫтөнлөгө",
+                    "аҡ тәнлеләр расизмы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ak jynsyň agalygy",
+                    "ak jynsyň hökümrowanlygy"
+                ],
+                "Uzbek": [
+                    "oq tanlilar hukmronligi"
+                ],
+                "Kazakh": [
+                    "ақ нәсілдік артықшылық"
+                ],
+                "Kyrgyz": [
+                    "ак расанын артыкчылыгы",
+                    "ак расанын үстөмдүк кылуусу"
+                ],
+                "Karakalpak": [
+                    "aq násildiń joqarılıǵı"
+                ],
+                "Tatar": [
+                    "ак тәнлеләр өстенлеге"
+                ],
+                "Bashkir": [
+                    "аҡ раса өҫтөнлөгө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oq tanlilar ustunligi"
+                ],
+                "Kazakh": [
+                    "ақ нәсілдің үстемдігі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz üstünlükçülüğü",
+                    "beyaz ırkçılığı",
+                    "beyaz ırkın üstünlüğü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ак расанын үстөмдүгү"
+                ]
+            }
+        }
+    ]
+}

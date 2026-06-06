@@ -1,0 +1,131 @@
+{
+    "id": "i97966",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north wind",
+    "en_definition": "a wind that blows from the north",
+    "tr_word": "poyraz",
+    "tr_definition": "kuzeyden esen rüzgâr",
+    "ru_word": "северный ветер",
+    "ru_definition": "ветер, дующий с севера",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şimal rüzgarı"
+                ],
+                "Azerbaijani": [
+                    "şimal küləyi"
+                ],
+                "Turkmen": [
+                    "şemal"
+                ],
+                "Uzbek": [
+                    "shimoliy shamol",
+                    "shimol shamoli"
+                ],
+                "Uyghur": [
+                    "شىمال شامىلى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۈن شامىلى",
+                    "تۈن يىلى"
+                ],
+                "Kyrgyz": [
+                    "түндүк шамалы",
+                    "түндүк жели"
+                ],
+                "Karakalpak": [
+                    "túndіk jelі"
+                ],
+                "Tatar": [
+                    "төньяк җиле",
+                    "төньяктан искән җил"
+                ],
+                "Bashkir": [
+                    "төньяҡ елдәре",
+                    "төньяҡ еле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ақбас"
+                ],
+                "Kyrgyz": [
+                    "арка шамалы"
+                ],
+                "Karakalpak": [
+                    "arqa samalı"
+                ],
+                "Bashkir": [
+                    "арҡа еле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "poyraz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yıldız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xəzri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demirgazyk ýeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sovuq shamol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "теріскей желі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстік желі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арқа желі"
+                ]
+            }
+        }
+    ]
+}

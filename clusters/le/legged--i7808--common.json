@@ -1,0 +1,83 @@
+{
+    "id": "i7808",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "legged",
+    "en_definition": "having legs of a specified kind or number",
+    "tr_word": "bacaklı",
+    "tr_definition": "Belirli bir türde veya sayıda bacağı olan",
+    "ru_word": "ногий",
+    "ru_definition": "имеющий ноги определенного типа или количества",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayaklı",
+                    "bacaklı"
+                ],
+                "Azerbaijani": [
+                    "ayaqlı",
+                    "ayağı olan"
+                ],
+                "Turkmen": [
+                    "aýakly"
+                ],
+                "Uzbek": [
+                    "oyoqli"
+                ],
+                "Kazakh": [
+                    "аяқты"
+                ],
+                "Kyrgyz": [
+                    "аяктуу"
+                ],
+                "Karakalpak": [
+                    "ayaqlı"
+                ],
+                "Tatar": [
+                    "аяклы",
+                    "аяклыча"
+                ],
+                "Bashkir": [
+                    "аяҡлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇتلۇق",
+                    "پۇتلىرى بار"
+                ],
+                "Kyrgyz": [
+                    "буттуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сирақты"
+                ],
+                "Karakalpak": [
+                    "siraqlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poyali"
+                ]
+            }
+        }
+    ]
+}

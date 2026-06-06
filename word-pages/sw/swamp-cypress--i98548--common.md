@@ -1,0 +1,127 @@
+# Swamp cypress
+| Field | Detail |
+|---|---|
+| **ID** | i98548 |
+| **English** | swamp cypress |
+| **Type** | noun |
+| **Definition** | common cypress of southeastern United States having trunk expanded at base; found in coastal swamps and flooding river bottoms |
+| **Source** | common |
+| **Ortatil** | taksodium |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **taksodium** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| таксодиум | taksodium |
+| **Bashkir** | |
+| таксидиум | taksidium |
+
+```json
+{
+    "id": "i98548",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "swamp cypress",
+    "en_definition": "common cypress of southeastern United States having trunk expanded at base; found in coastal swamps and flooding river bottoms",
+    "tr_word": "bataklık servisi",
+    "tr_definition": "Güneydoğu Amerika Birleşik Devletleri'ne özgü, tabanı geniş gövdeli, kıyı bataklıklarında ve nehir yataklarında yetişen bir servi türü.",
+    "ru_word": "таксодиум двурядный",
+    "ru_definition": "хвойное дерево семейства Кипарисовые, произрастающее в заболоченных районах юго-востока США, характеризующееся расширенным основанием ствола.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bataklık servisi"
+                ],
+                "Azerbaijani": [
+                    "bataqlıq sərvi"
+                ],
+                "Turkmen": [
+                    "batga selwisi",
+                    "batga serwisi"
+                ],
+                "Uzbek": [
+                    "botqoqlik sarvi",
+                    "botqoq sarvi"
+                ],
+                "Uyghur": [
+                    "پاتقاقلىق سارۋى",
+                    "پاتقاقلىق كىپارىس"
+                ],
+                "Kazakh": [
+                    "батпақ кипарисі"
+                ],
+                "Karakalpak": [
+                    "batpaq kiparisi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su servisi"
+                ],
+                "Uyghur": [
+                    "سۇ سارۋىسى"
+                ],
+                "Karakalpak": [
+                    "suo kiparisi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "taksodium"
+                ],
+                "Kazakh": [
+                    "таксодиум"
+                ],
+                "Bashkir": [
+                    "таксидиум"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "саз кипариси",
+                    "саз арчасы"
+                ],
+                "Tatar": [
+                    "сазлык кипарисы",
+                    "саз кипарисы"
+                ],
+                "Bashkir": [
+                    "һаҙлыҡ кипарисы"
+                ]
+            }
+        }
+    ]
+}
+```
+

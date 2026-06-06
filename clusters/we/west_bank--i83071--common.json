@@ -1,0 +1,91 @@
+{
+    "id": "i83071",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "west bank",
+    "en_definition": "an area between Israel and Jordan on the west bank of the Jordan river; populated largely by Palestinians",
+    "tr_word": "Batı Şeria",
+    "tr_definition": "Ürdün Nehri'nin batı kıyısında, İsrail ve Ürdün arasında yer alan ve büyük ölçüde Filistinlilerin yaşadığı bölge.",
+    "ru_word": "Западный берег реки Иордан",
+    "ru_definition": "Территория между Израилем и Иорданией на западном берегу реки Иордан, населенная преимущественно палестинцами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "İordan çayının qərb sahili"
+                ],
+                "Turkmen": [
+                    "Iordan derýasynyň günbatar kenary"
+                ],
+                "Uzbek": [
+                    "Iordaniya daryosining g'arbiy sohili"
+                ],
+                "Uyghur": [
+                    "ئىيوردان دەرياسىنىڭ غەربىي قىرغىقى"
+                ],
+                "Kazakh": [
+                    "Иордан өзенінің батыс жағалауы"
+                ],
+                "Kyrgyz": [
+                    "Иордан дарыясынын батыш жээги"
+                ],
+                "Karakalpak": [
+                    "Iordan dáryasınıń batıs jaǵalaoı"
+                ],
+                "Tatar": [
+                    "Иордан елгасының көнбатыш яры"
+                ],
+                "Bashkir": [
+                    "Иордан йылғаһының көнбайыш яры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Batı Şeria",
+                    "Batı Yaka"
+                ],
+                "Kazakh": [
+                    "Батыс жағалау"
+                ],
+                "Kyrgyz": [
+                    "Батыш жээк"
+                ],
+                "Karakalpak": [
+                    "Batıs jaǵalao"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Qərb sahili"
+                ],
+                "Uzbek": [
+                    "G'arbiy sohil"
+                ],
+                "Uyghur": [
+                    "غەربىي قىرغاق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Günbatar kenar"
+                ],
+                "Tatar": [
+                    "Көнбатыш яр"
+                ],
+                "Bashkir": [
+                    "Көнбайыш яр"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "id": "i64854",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "root canal",
+    "en_definition": "the passage in the root of a tooth through which its nerve and blood vessels enter the pulp cavity",
+    "tr_word": "kök kanalı",
+    "tr_definition": "bir dişin kökünde bulunan ve sinirler ile kan damarlarının pulpa boşluğuna girmesini sağlayan geçit",
+    "ru_word": "корневой канал",
+    "ru_definition": "канал в корне зуба, через который нервы и кровеносные сосуды проникают в пульповую камеру",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diş kanalı"
+                ],
+                "Azerbaijani": [
+                    "diş kanalı"
+                ],
+                "Turkmen": [
+                    "diş köküniň kanaly",
+                    "diş kanaly"
+                ],
+                "Uyghur": [
+                    "چىش يىلتىز يولى"
+                ],
+                "Kazakh": [
+                    "тіс өзегі",
+                    "тіс каналы"
+                ],
+                "Kyrgyz": [
+                    "тиштин тамыр каналы",
+                    "тиш тамырынын каналы"
+                ],
+                "Karakalpak": [
+                    "tis ózekshesi",
+                    "tis kanalı",
+                    "tis tamırınıń ózegi"
+                ],
+                "Tatar": [
+                    "теш тамыры каналы"
+                ],
+                "Bashkir": [
+                    "теш тамыры каналы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "тамыр каналы"
+                ],
+                "Tatar": [
+                    "тамыр каналы"
+                ],
+                "Bashkir": [
+                    "тамыр каналы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kök kanalı"
+                ],
+                "Azerbaijani": [
+                    "kök kanalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tish ildizi kanali"
+                ],
+                "Uyghur": [
+                    "چىش يىلتىزى نەيچىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ildiz kanali"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түбір өзегі"
+                ]
+            }
+        }
+    ]
+}

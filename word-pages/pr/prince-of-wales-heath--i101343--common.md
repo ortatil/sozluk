@@ -1,0 +1,176 @@
+# Prince-of-wales'-heath
+| Field | Detail |
+|---|---|
+| **ID** | i101343 |
+| **English** | prince-of-wales'-heath |
+| **Type** | noun |
+| **Definition** | South African shrub grown for its profusion of white flowers |
+| **Source** | common |
+| **Ortatil** | erika |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **erika** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئېرىكا | erika |
+| **Kazakh** | |
+| эрика | erika |
+| аршагүл | arşagül |
+| **Kyrgyz** | |
+| эрико | eriko |
+| вереск | veresk |
+| **Tatar** | |
+| эрика | erika |
+| арчан | arçan |
+| **Bashkir** | |
+| эрика | erika |
+| артыш | artış |
+
+```json
+{
+    "id": "i101343",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "prince-of-wales'-heath",
+    "en_definition": "South African shrub grown for its profusion of white flowers",
+    "tr_word": "Galler Prensi fundası",
+    "tr_definition": "Bol miktarda beyaz çiçek açmasıyla bilinen, Güney Afrika'ya özgü bir çalı türü.",
+    "ru_word": "эрика принца Уэльского",
+    "ru_definition": "Южноафриканский кустарник, выращиваемый из-за обилия белых цветов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "erika"
+                ],
+                "Azerbaijani": [
+                    "erika"
+                ],
+                "Turkmen": [
+                    "erika"
+                ],
+                "Uzbek": [
+                    "erika"
+                ],
+                "Uyghur": [
+                    "ئېرىكا"
+                ],
+                "Kazakh": [
+                    "эрика",
+                    "аршагүл"
+                ],
+                "Kyrgyz": [
+                    "эрико"
+                ],
+                "Karakalpak": [
+                    "erika"
+                ],
+                "Tatar": [
+                    "эрика",
+                    "арчан"
+                ],
+                "Bashkir": [
+                    "эрика"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "süpürge otu"
+                ],
+                "Azerbaijani": [
+                    "süpürgəgülü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ak gül"
+                ],
+                "Uzbek": [
+                    "oq gulli buta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "janubiy afrika butasi"
+                ],
+                "Uyghur": [
+                    "جەنۇبىي ئافرىقا ئېرىكاسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "arsha"
+                ],
+                "Bashkir": [
+                    "артыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "funda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ağ çiçəkli erika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sümmül"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оңтүстік африкалық бұта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "вереск"
+                ]
+            }
+        }
+    ]
+}
+```
+

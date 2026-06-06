@@ -1,0 +1,87 @@
+{
+    "id": "i56975",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paperback book",
+    "en_definition": "a book with paper covers",
+    "tr_word": "karton kapaklı kitap",
+    "tr_definition": "kağıt veya ince karton kapaklı kitap",
+    "ru_word": "книга в мягкой обложке",
+    "ru_definition": "книга с обложкой из бумаги или тонкого картона",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yumuşak kapak"
+                ],
+                "Azerbaijani": [
+                    "yumşaq cildli kitab"
+                ],
+                "Turkmen": [
+                    "ýumşak daşly kitap"
+                ],
+                "Uzbek": [
+                    "yumshoq muqovali kitob"
+                ],
+                "Uyghur": [
+                    "يۇمشاق مۇقاۋىلىق كىتاب"
+                ],
+                "Kazakh": [
+                    "жұмсақ мұқаба",
+                    "жұмсақ түптеме"
+                ],
+                "Kyrgyz": [
+                    "жумшак мукаба",
+                    "жумшак мукабалуу китеп"
+                ],
+                "Karakalpak": [
+                    "jumsaq mұqaba"
+                ],
+                "Tatar": [
+                    "йомшак тышлы китап"
+                ],
+                "Bashkir": [
+                    "йомшаҡ тышлы китап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karton kapak",
+                    "kağıt kapak"
+                ],
+                "Azerbaijani": [
+                    "kağız cildli"
+                ],
+                "Turkmen": [
+                    "kagyz daşly kitap"
+                ],
+                "Uzbek": [
+                    "qog'oz muqovali kitob"
+                ],
+                "Uyghur": [
+                    "قەغەز مۇقاۋىلىق كىتاب"
+                ],
+                "Karakalpak": [
+                    "qaǵaz mұqaba"
+                ],
+                "Tatar": [
+                    "кәгазь тышлы китап"
+                ],
+                "Bashkir": [
+                    "ҡағыҙ тышлы китап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cildsiz kitab"
+                ]
+            }
+        }
+    ]
+}

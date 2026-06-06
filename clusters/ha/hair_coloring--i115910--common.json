@@ -1,0 +1,107 @@
+{
+    "id": "i115910",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hair dye",
+    "en_definition": "a dye or tint for the hair",
+    "tr_word": "saç boyası",
+    "tr_definition": "Saçın rengini değiştirmek için kullanılan boya veya renklendirici.",
+    "ru_word": "краска для волос",
+    "ru_definition": "краситель или оттенок, используемый для изменения цвета волос.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saç boyası",
+                    "saç rengi"
+                ],
+                "Azerbaijani": [
+                    "saç boyası",
+                    "saç rəngi"
+                ],
+                "Turkmen": [
+                    "saç boýagy"
+                ],
+                "Uzbek": [
+                    "soch bo'yog'i"
+                ],
+                "Uyghur": [
+                    "چاچ بوياق"
+                ],
+                "Kazakh": [
+                    "шаш бояуы"
+                ],
+                "Kyrgyz": [
+                    "чач боёк"
+                ],
+                "Karakalpak": [
+                    "shash boyauı"
+                ],
+                "Tatar": [
+                    "чәч буявы"
+                ],
+                "Bashkir": [
+                    "сәс буяуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boya"
+                ],
+                "Uzbek": [
+                    "bo'yoq"
+                ],
+                "Kazakh": [
+                    "бояу"
+                ],
+                "Kyrgyz": [
+                    "боёк"
+                ],
+                "Tatar": [
+                    "буяу"
+                ],
+                "Bashkir": [
+                    "буяу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xına"
+                ],
+                "Uzbek": [
+                    "xina"
+                ],
+                "Uyghur": [
+                    "خېنە"
+                ],
+                "Karakalpak": [
+                    "xına"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "reňk"
+                ],
+                "Uyghur": [
+                    "رەڭ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "soch ranglagichi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "id": "i82570",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "western world",
+    "en_definition": "the countries of (originally) Europe and (now including) North America and South America",
+    "tr_word": "Batı dünyası",
+    "tr_definition": "Başlangıçta Avrupa'yı, günümüzde ise Kuzey ve Güney Amerika'yı da kapsayan ülkeler bütünü.",
+    "ru_word": "западный мир",
+    "ru_definition": "Совокупность стран, первоначально включавшая Европу, а теперь также Северную и Южную Америку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Garp"
+                ],
+                "Azerbaijani": [
+                    "Qərb dünyası",
+                    "Qərb aləmi"
+                ],
+                "Turkmen": [
+                    "Garb"
+                ],
+                "Uzbek": [
+                    "G'arb dunyosi"
+                ],
+                "Uyghur": [
+                    "غەرب دۇنياسى",
+                    "غەرب ئەللىرى"
+                ],
+                "Karakalpak": [
+                    "Ǵarb"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Batı dünyası",
+                    "Batı"
+                ],
+                "Kazakh": [
+                    "Батыс әлемі",
+                    "Батыс елдері",
+                    "Батыс жұрты"
+                ],
+                "Kyrgyz": [
+                    "Батыш дүйнөсү",
+                    "Батыш өлкөлөрү"
+                ],
+                "Karakalpak": [
+                    "Batıs dúnyası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Günbatar dünýäsi",
+                    "Günbatar älemi"
+                ],
+                "Tatar": [
+                    "Көнбатыш дөньясы"
+                ],
+                "Bashkir": [
+                    "Көнбайыш донъяһы",
+                    "Көнбайыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "Mag'rib"
+                ],
+                "Kyrgyz": [
+                    "Магриб"
+                ],
+                "Tatar": [
+                    "Мәгъриб"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "G'arb",
+                    "G'arb olami"
+                ],
+                "Uyghur": [
+                    "غەرب"
+                ]
+            }
+        }
+    ]
+}

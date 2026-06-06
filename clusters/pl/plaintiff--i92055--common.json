@@ -1,0 +1,146 @@
+{
+    "id": "i92055",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "plaintiff",
+    "en_definition": "a person who brings an action in a court of law",
+    "tr_word": "davacı",
+    "tr_definition": "Bir mahkemede dava açan, hak talebinde bulunan kişi.",
+    "ru_word": "истец",
+    "ru_definition": "Лицо, обращающееся в суд с иском для защиты своего нарушенного права.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şikayetçi"
+                ],
+                "Azerbaijani": [
+                    "şikayətçi"
+                ],
+                "Turkmen": [
+                    "şikaýatçy"
+                ],
+                "Uzbek": [
+                    "shokiy"
+                ],
+                "Uyghur": [
+                    "شىكايەتچى"
+                ],
+                "Kazakh": [
+                    "шағымданушы"
+                ],
+                "Karakalpak": [
+                    "shaǵımshı"
+                ],
+                "Tatar": [
+                    "шикаятьче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "arizachy"
+                ],
+                "Uyghur": [
+                    "ئەرز قىلغۇچى"
+                ],
+                "Kazakh": [
+                    "арызданушы"
+                ],
+                "Kyrgyz": [
+                    "арыздануучу"
+                ],
+                "Karakalpak": [
+                    "arızshı"
+                ],
+                "Bashkir": [
+                    "арыз биреүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "davacı"
+                ],
+                "Azerbaijani": [
+                    "iddiaçı"
+                ],
+                "Tatar": [
+                    "дәгъвачы"
+                ],
+                "Bashkir": [
+                    "дәғүәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "da'vogar"
+                ],
+                "Uyghur": [
+                    "دەۋاگەر"
+                ],
+                "Karakalpak": [
+                    "dáoager"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müddei"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müstəntiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "idäçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "arzgo'y"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "талапкер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "доогер",
+                    "доочу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яҡлаусы"
+                ]
+            }
+        }
+    ]
+}

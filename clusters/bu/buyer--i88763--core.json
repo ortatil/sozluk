@@ -1,0 +1,132 @@
+{
+    "id": "i88763",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "buyer",
+    "en_definition": "a person who buys",
+    "tr_word": "alıcı",
+    "tr_definition": "bir şeyi satın alan kimse, müşteri",
+    "ru_word": "покупатель",
+    "ru_definition": "человек, который совершает покупку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alıcı"
+                ],
+                "Azerbaijani": [
+                    "alıcı"
+                ],
+                "Turkmen": [
+                    "alyjy"
+                ],
+                "Uzbek": [
+                    "oluvchi"
+                ],
+                "Kazakh": [
+                    "алушы"
+                ],
+                "Kyrgyz": [
+                    "алуучу"
+                ],
+                "Karakalpak": [
+                    "alıoshı"
+                ],
+                "Tatar": [
+                    "алучы"
+                ],
+                "Bashkir": [
+                    "алыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müşteri"
+                ],
+                "Azerbaijani": [
+                    "müştəri"
+                ],
+                "Turkmen": [
+                    "müşderi"
+                ],
+                "Uyghur": [
+                    "مۇشتەرى"
+                ],
+                "Kyrgyz": [
+                    "муштери"
+                ],
+                "Tatar": [
+                    "мөштәри"
+                ],
+                "Bashkir": [
+                    "мөштәри"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سېتىۋالغۇچى"
+                ],
+                "Kazakh": [
+                    "сатып алушы"
+                ],
+                "Kyrgyz": [
+                    "сатып алуучу"
+                ],
+                "Karakalpak": [
+                    "satıp alıoshı"
+                ],
+                "Tatar": [
+                    "сатып алучы"
+                ],
+                "Bashkir": [
+                    "һатып алыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xaridor"
+                ],
+                "Uyghur": [
+                    "خېرىدار"
+                ],
+                "Kyrgyz": [
+                    "кардар"
+                ],
+                "Karakalpak": [
+                    "xarıdar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mijoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұтынушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "клиент"
+                ]
+            }
+        }
+    ]
+}

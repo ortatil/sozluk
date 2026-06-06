@@ -1,0 +1,255 @@
+# Beady-eyed
+| Field | Detail |
+|---|---|
+| **ID** | i1241 |
+| **English** | beady-eyed |
+| **Type** | adjective |
+| **Definition** | having eyes that gleam with malice |
+| **Source** | common |
+| **Ortatil** | çaqçayğan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жаутаңкөз | jautañköz |
+
+```json
+{
+    "id": "i1241",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "beady-eyed",
+    "en_definition": "having eyes that gleam with malice",
+    "tr_word": "fıldır fıldır gözlü",
+    "tr_definition": "kötü niyetle parlayan, küçük ve keskin bakışlı gözleri olan",
+    "ru_word": "с глазами-бусинками",
+    "ru_definition": "имеющий маленькие, блестящие и часто злобные или подозрительные глаза",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sovuq ko'zli"
+                ],
+                "Uyghur": [
+                    "سۇغۇق كۆزلۈك"
+                ],
+                "Kazakh": [
+                    "сұқ көз"
+                ],
+                "Kyrgyz": [
+                    "суук көз",
+                    "куу көз"
+                ],
+                "Karakalpak": [
+                    "sұq kóz"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "garasözek"
+                ],
+                "Uyghur": [
+                    "يامان كۆزلۈك"
+                ],
+                "Karakalpak": [
+                    "jaman kóz"
+                ],
+                "Bashkir": [
+                    "яман күҙле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məkrli"
+                ],
+                "Uyghur": [
+                    "مەكىرلىك كۆزلۈك"
+                ],
+                "Tatar": [
+                    "мәкерле күзле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өткір көз"
+                ],
+                "Tatar": [
+                    "үткен күзле"
+                ],
+                "Bashkir": [
+                    "үткер күҙле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sinsi bakışlı",
+                    "cin bakışlı"
+                ],
+                "Azerbaijani": [
+                    "pis baxışlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ayyor ko'z"
+                ],
+                "Kyrgyz": [
+                    "аяр көз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сұрқия көз"
+                ],
+                "Karakalpak": [
+                    "sұrqiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "явыз карашлы"
+                ],
+                "Bashkir": [
+                    "яуыз ҡарашлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fıldır fıldır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "keskin gözlü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boncuk gözlü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hiyləgər baxışlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bədnəzər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gözleri ýalpyldap duran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pis gözli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hyrsyz gözli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muttaham ko'z"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chaqchaygan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қадалған көз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаутаңкөз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кытмыр көз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qara nietli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "усал күзле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һөҙөм ҡарашлы"
+                ]
+            }
+        }
+    ]
+}
+```
+

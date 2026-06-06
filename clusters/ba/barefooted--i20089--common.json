@@ -1,0 +1,94 @@
+{
+    "id": "i20089",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "barefoot",
+    "en_definition": "without shoes on",
+    "tr_word": "yalın ayak",
+    "tr_definition": "ayakkabı giymemiş bir şekilde",
+    "ru_word": "босиком",
+    "ru_definition": "без обуви, с босыми ногами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yalın ayak"
+                ],
+                "Azerbaijani": [
+                    "yalınayaq"
+                ],
+                "Turkmen": [
+                    "ýalaňaç aýak"
+                ],
+                "Uzbek": [
+                    "yalangoyoq"
+                ],
+                "Uyghur": [
+                    "يالىڭاياق"
+                ],
+                "Kazakh": [
+                    "жалаңаяқ",
+                    "жалаң аяқ",
+                    "жалаңбас-жалаңаяқ"
+                ],
+                "Kyrgyz": [
+                    "жылаңайлак",
+                    "жылаңбут"
+                ],
+                "Karakalpak": [
+                    "jalańayaq",
+                    "jalańayaqlap"
+                ],
+                "Tatar": [
+                    "ялан аяк"
+                ],
+                "Bashkir": [
+                    "ялан аяҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ayaqyalın"
+                ],
+                "Turkmen": [
+                    "aýakýalaňaç"
+                ],
+                "Uzbek": [
+                    "oyoqyalang"
+                ],
+                "Tatar": [
+                    "аяк шәрә",
+                    "аяк ялан"
+                ],
+                "Bashkir": [
+                    "аяҡ ялан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıplak ayak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poyafzalsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇتياڭزا"
+                ]
+            }
+        }
+    ]
+}

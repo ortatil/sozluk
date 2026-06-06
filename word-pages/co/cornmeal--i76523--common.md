@@ -1,0 +1,125 @@
+# Cornmeal
+| Field | Detail |
+|---|---|
+| **ID** | i76523 |
+| **English** | cornmeal |
+| **Type** | noun |
+| **Definition** | coarsely ground corn |
+| **Source** | common |
+| **Ortatil** | talkan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| талкан | talkan |
+
+```json
+{
+    "id": "i76523",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cornmeal",
+    "en_definition": "coarsely ground corn",
+    "tr_word": "mısır unu",
+    "tr_definition": "kabaca öğütülmüş mısır",
+    "ru_word": "кукурузная мука",
+    "ru_definition": "мука крупного помола из кукурузных зерен",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jöwen uny"
+                ],
+                "Uzbek": [
+                    "joʻxori uni"
+                ],
+                "Kazakh": [
+                    "жүгері ұны",
+                    "жүгері талқаны"
+                ],
+                "Kyrgyz": [
+                    "жүгөрү уну"
+                ],
+                "Karakalpak": [
+                    "júgerі jarması",
+                    "júgerі talqanı",
+                    "júgerі ұnı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mısır unu",
+                    "mısır yarması"
+                ],
+                "Tatar": [
+                    "мисырбаш оны"
+                ],
+                "Bashkir": [
+                    "миср оно"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mekgejöwen uny"
+                ],
+                "Uzbek": [
+                    "makkajoʻxori uni"
+                ],
+                "Bashkir": [
+                    "мәккәй оно"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarğıdalı unu",
+                    "qarğıdalı yarması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوناق ئۇنى",
+                    "قوناق تالقىنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "талкан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кукуруз оны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "күбәкәй оно"
+                ]
+            }
+        }
+    ]
+}
+```
+

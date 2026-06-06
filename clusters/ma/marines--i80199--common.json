@@ -1,0 +1,74 @@
+{
+    "id": "i80199",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "marines",
+    "en_definition": "members of a body of troops trained to serve on land or at sea",
+    "tr_word": "deniz piyadeleri",
+    "tr_definition": "hem karada hem de denizde görev yapmak üzere eğitilmiş askeri birlik üyeleri",
+    "ru_word": "морская пехота",
+    "ru_definition": "военнослужащие подразделений, обученных для ведения боевых действий как на суше, так и на море",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz piyadesi"
+                ],
+                "Azerbaijani": [
+                    "dəniz piyadaları",
+                    "dəniz qoşunları"
+                ],
+                "Turkmen": [
+                    "deňiz pyýadalary",
+                    "deňiz goşuny"
+                ],
+                "Uzbek": [
+                    "dengiz piyodalari",
+                    "dengiz askarlari"
+                ],
+                "Uyghur": [
+                    "دېڭىز ئارمىيە قۇرۇقلۇق جەڭ قىسمى"
+                ],
+                "Kazakh": [
+                    "теңіз жаяу әскері",
+                    "теңіз сарбаздары"
+                ],
+                "Kyrgyz": [
+                    "деңиз жөө аскери",
+                    "деңиз аскери"
+                ],
+                "Karakalpak": [
+                    "teńiz jayau áskeri",
+                    "teńiz desantı"
+                ],
+                "Tatar": [
+                    "диңгез гаскәриләре",
+                    "диңгез сугышчылары"
+                ],
+                "Bashkir": [
+                    "диңгеҙ пехотасылары",
+                    "диңгеҙ яугирҙәре",
+                    "диңгеҙ ғәскәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bahriye piyadesi"
+                ],
+                "Uyghur": [
+                    "دېڭىز ئارمىيە پىيادە ئەسكەرلىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "amfibi asker"
+                ]
+            }
+        }
+    ]
+}

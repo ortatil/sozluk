@@ -1,0 +1,95 @@
+{
+    "id": "i114894",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "kitty litter",
+    "en_definition": "granulated clay; placed in a container where it absorbs the waste products of a cat or dog",
+    "tr_word": "kedi kumu",
+    "tr_definition": "bir kedi veya köpeğin atık ürünlerini emdiği bir kaba yerleştirilen granül kil",
+    "ru_word": "наполнитель для кошачьего туалета",
+    "ru_definition": "гранулированная глина, помещаемая в контейнер, где она поглощает продукты жизнедеятельности кошки или собаки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mushuk qumi",
+                    "mushuk tuprog'i",
+                    "mushuk to'shami"
+                ],
+                "Uyghur": [
+                    "مۈشۈك قۇمى",
+                    "مۈشۈك تەرەت قۇمى"
+                ],
+                "Kazakh": [
+                    "мысық толтырғышы",
+                    "мысық құмы",
+                    "мысық төсеніші"
+                ],
+                "Kyrgyz": [
+                    "мышыктын куму",
+                    "мышыктын төшөнчүсү",
+                    "мышыктын заара салгычы"
+                ],
+                "Karakalpak": [
+                    "mısıq qұmı",
+                    "mısıq tósenіshі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayvan kumu"
+                ],
+                "Azerbaijani": [
+                    "heyvan qumu"
+                ],
+                "Tatar": [
+                    "хайван комы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pişik qumu",
+                    "pişik tualeti qumu"
+                ],
+                "Turkmen": [
+                    "pişik gumy",
+                    "pişik jary",
+                    "pişik üçin gum"
+                ],
+                "Bashkir": [
+                    "бесәй ҡомо",
+                    "бесәй тултырғысы",
+                    "бесәй ятҡылығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kedi kumu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәче комы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәче тутыргычы"
+                ]
+            }
+        }
+    ]
+}

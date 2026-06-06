@@ -1,0 +1,132 @@
+{
+    "id": "i90706",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "inquirer",
+    "en_definition": "someone who asks a question",
+    "tr_word": "sorgulayıcı",
+    "tr_definition": "soru soran veya bir konuyu araştıran kimse",
+    "ru_word": "опрашивающий",
+    "ru_definition": "человек, который задает вопросы или проводит опрос",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soran",
+                    "sorgulayıcı"
+                ],
+                "Azerbaijani": [
+                    "soruşan"
+                ],
+                "Turkmen": [
+                    "soragçy",
+                    "sorag beriji",
+                    "soraýjy"
+                ],
+                "Uzbek": [
+                    "soʻrovchi",
+                    "soʻroqchi"
+                ],
+                "Uyghur": [
+                    "سورىغۇچى"
+                ],
+                "Kazakh": [
+                    "сұраушы",
+                    "сұрастырушы"
+                ],
+                "Kyrgyz": [
+                    "суроочу",
+                    "суроо берүүчү",
+                    "сурап билүүчү",
+                    "сурамжылоочу"
+                ],
+                "Karakalpak": [
+                    "soraoshı",
+                    "sorao-soramaqshı"
+                ],
+                "Tatar": [
+                    "сораучы"
+                ],
+                "Bashkir": [
+                    "һораусы",
+                    "һорашыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müstefsir"
+                ],
+                "Azerbaijani": [
+                    "müstəntiq"
+                ],
+                "Turkmen": [
+                    "müstehpyr"
+                ],
+                "Uzbek": [
+                    "mustafsir"
+                ],
+                "Uyghur": [
+                    "مۇستەپسىر"
+                ],
+                "Karakalpak": [
+                    "mútájjis"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sualverən"
+                ],
+                "Uyghur": [
+                    "سۇئال قويغۇچى"
+                ],
+                "Tatar": [
+                    "сөальче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araştırmacı"
+                ],
+                "Azerbaijani": [
+                    "araşdırmaçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "savol beruvchi"
+                ],
+                "Kazakh": [
+                    "сауал тастаушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ізденуші"
+                ],
+                "Tatar": [
+                    "эзләнүче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мөрәжәғәт итеүсе"
+                ]
+            }
+        }
+    ]
+}

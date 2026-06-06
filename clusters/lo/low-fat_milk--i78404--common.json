@@ -1,0 +1,140 @@
+{
+    "id": "i78404",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "low-fat milk",
+    "en_definition": "milk from which some of the cream has been removed",
+    "tr_word": "az yağlı süt",
+    "tr_definition": "kaymağının bir kısmı alınmış süt",
+    "ru_word": "молоко низкой жирности",
+    "ru_definition": "молоко, из которого была удалена часть сливок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yağsızlaşdırılmış süd"
+                ],
+                "Kazakh": [
+                    "майсыз сүт"
+                ],
+                "Kyrgyz": [
+                    "майсыз сүт"
+                ],
+                "Karakalpak": [
+                    "maysız sút",
+                    "mayı alınǵan sút"
+                ],
+                "Tatar": [
+                    "майсызландырылган сөт",
+                    "мае алынган сөт"
+                ],
+                "Bashkir": [
+                    "майһыҙ һөт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarım yağlı süt"
+                ],
+                "Azerbaijani": [
+                    "yağı alınmış süd"
+                ],
+                "Turkmen": [
+                    "ýagsyz süýt"
+                ],
+                "Uzbek": [
+                    "yog'siz sut",
+                    "yog'i olingan sut"
+                ],
+                "Uyghur": [
+                    "يېغى ئېلىنغان سۈت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "az yağlı süt"
+                ],
+                "Azerbaijani": [
+                    "az yağlı süd"
+                ],
+                "Tatar": [
+                    "аз майлы сөт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gaýmagy alnan süýt"
+                ],
+                "Kazakh": [
+                    "қаймағы алынған сүт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pazyl süýt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kam yog'li sut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مايسىز سۈت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەن مايلىق سۈت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сұйық сүт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көөнөрүлгөн сүт",
+                    "көөнөрүлгөн ак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "айыртылған һөт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "күбеге алынған һөт"
+                ]
+            }
+        }
+    ]
+}

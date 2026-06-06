@@ -1,0 +1,79 @@
+{
+    "id": "i76553",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "frozen food",
+    "en_definition": "food preserved by freezing",
+    "tr_word": "dondurulmuş gıda",
+    "tr_definition": "Dondurularak muhafaza edilen yiyecekler.",
+    "ru_word": "замороженные продукты",
+    "ru_definition": "Пищевые продукты, сохраненные методом замораживания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dondurulmuş gıda",
+                    "dondurulmuş yiyecek",
+                    "donmuş gıda"
+                ],
+                "Azerbaijani": [
+                    "dondurulmuş qida",
+                    "dondurulmuş ərzaq",
+                    "donmuş qida"
+                ],
+                "Turkmen": [
+                    "doňdurylan iýmit",
+                    "doňdurylan azyk",
+                    "doňan iýmit"
+                ],
+                "Uyghur": [
+                    "توڭلىتىلغان يېمەكلىك",
+                    "توڭلىتىلغان ئوزۇقلۇق"
+                ],
+                "Kyrgyz": [
+                    "тоңдурулган тамак",
+                    "тоңдурулган азык",
+                    "тоңдурулган оокат"
+                ],
+                "Karakalpak": [
+                    "tońdırılǵan azıq-aoqat",
+                    "tońdırılǵan ónimler"
+                ],
+                "Tatar": [
+                    "туңдырылган ризык",
+                    "туңдырылган ашамлык"
+                ],
+                "Bashkir": [
+                    "туңдырылған аҙыҡ",
+                    "туңдырылған ризыҡ",
+                    "туң аҙыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muzlatilgan oziq-ovqat",
+                    "muzlatilgan taom",
+                    "muzlatilgan mahsulotlar"
+                ],
+                "Kazakh": [
+                    "мұздатылған тағам",
+                    "мұздатылған ас"
+                ],
+                "Karakalpak": [
+                    "muzdatılǵan azıq-aoqat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тоңазытылған тағам"
+                ]
+            }
+        }
+    ]
+}

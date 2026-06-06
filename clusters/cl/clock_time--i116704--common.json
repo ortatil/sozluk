@@ -1,0 +1,99 @@
+{
+    "id": "i116704",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "clock time",
+    "en_definition": "a reading of a point in time as given by a clock",
+    "tr_word": "saat",
+    "tr_definition": "Bir saatin gösterdiği zaman dilimi veya an.",
+    "ru_word": "время по часам",
+    "ru_definition": "показание времени в определенный момент, определяемое по часам.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saat"
+                ],
+                "Azerbaijani": [
+                    "saat",
+                    "vaxt"
+                ],
+                "Turkmen": [
+                    "wagt",
+                    "sagat"
+                ],
+                "Uzbek": [
+                    "vaqt",
+                    "soat"
+                ],
+                "Uyghur": [
+                    "سائەت"
+                ],
+                "Kazakh": [
+                    "сағат"
+                ],
+                "Kyrgyz": [
+                    "саат"
+                ],
+                "Karakalpak": [
+                    "uaqıt",
+                    "saat"
+                ],
+                "Tatar": [
+                    "сәгать"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vakit"
+                ],
+                "Uyghur": [
+                    "ۋاقىت"
+                ],
+                "Kazakh": [
+                    "уақыт"
+                ],
+                "Kyrgyz": [
+                    "убакыт"
+                ],
+                "Tatar": [
+                    "вакыт"
+                ],
+                "Bashkir": [
+                    "ваҡыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zaman"
+                ],
+                "Azerbaijani": [
+                    "zaman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мезгіл"
+                ],
+                "Kyrgyz": [
+                    "мезгил"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәғәт"
+                ]
+            }
+        }
+    ]
+}

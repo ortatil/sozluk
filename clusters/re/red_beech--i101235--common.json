@@ -1,0 +1,94 @@
+{
+    "id": "i101235",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "red beech",
+    "en_definition": "large tree of Australasia",
+    "tr_word": "kırmızı kayın",
+    "tr_definition": "Avustralasya'ya özgü, sert ve dayanıklı odunu olan büyük bir ağaç türü.",
+    "ru_word": "красный бук",
+    "ru_definition": "крупное дерево, произрастающее в Австралазии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qizil buk",
+                    "qizil qoraqayin"
+                ],
+                "Uyghur": [
+                    "قىزىل بۈك دەرىخى",
+                    "قىزىل پاقلان دەرىخى"
+                ],
+                "Kazakh": [
+                    "қызыл шамшат",
+                    "қызыл бук"
+                ],
+                "Kyrgyz": [
+                    "кызыл бук"
+                ],
+                "Karakalpak": [
+                    "qızıl shamshat",
+                    "qızıl buk"
+                ],
+                "Tatar": [
+                    "кызыл бук"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл бук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırmızı kayın"
+                ],
+                "Azerbaijani": [
+                    "qırmızı fıstıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyp-gyzyl buk"
+                ],
+                "Tatar": [
+                    "кызыл бук агачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "buk agajy"
+                ],
+                "Kyrgyz": [
+                    "бук жыгачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güney kayını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "avstraliya fıstığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көньяҡ бук"
+                ]
+            }
+        }
+    ]
+}

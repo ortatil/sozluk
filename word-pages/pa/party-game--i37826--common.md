@@ -1,0 +1,223 @@
+# Party game
+| Field | Detail |
+|---|---|
+| **ID** | i37826 |
+| **English** | party game |
+| **Type** | noun |
+| **Definition** | a game to amuse guests at a party |
+| **Source** | common |
+| **Ortatil** | oyun-zoklar |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **oyun-zoklar** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| тамаша-оюн | tamaşa-oyun |
+| оюн-зоок | oyun-zook |
+| **Tatar** | |
+| уен-көлке | uyen-kölke |
+| **Bashkir** | |
+| уйындар | uyındar |
+
+```json
+{
+    "id": "i37826",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "party game",
+    "en_definition": "a game to amuse guests at a party",
+    "tr_word": "parti oyunu",
+    "tr_definition": "Bir partideki konukları eğlendirmek için oynanan oyun",
+    "ru_word": "салонная игра",
+    "ru_definition": "игра для развлечения гостей на вечеринке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meclis oyunu"
+                ],
+                "Azerbaijani": [
+                    "məclis oyunu"
+                ],
+                "Turkmen": [
+                    "meýlis oýny"
+                ],
+                "Uzbek": [
+                    "majlis o'yini"
+                ],
+                "Uyghur": [
+                    "مەشرەپ ئويۇنى"
+                ],
+                "Kazakh": [
+                    "мәжіліс ойыны"
+                ],
+                "Karakalpak": [
+                    "májilis oyını"
+                ],
+                "Tatar": [
+                    "мәҗлес уены"
+                ],
+                "Bashkir": [
+                    "мәжлес уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qonaqlıq oyunu"
+                ],
+                "Uzbek": [
+                    "ko'ngilochar o'yin"
+                ],
+                "Uyghur": [
+                    "كۆڭۈل ئېچىش ئويۇنى"
+                ],
+                "Kazakh": [
+                    "көңіл көтеру ойыны"
+                ],
+                "Tatar": [
+                    "күңел ачу уены"
+                ],
+                "Bashkir": [
+                    "күңел асыу уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ev oyunu"
+                ],
+                "Kazakh": [
+                    "кеш ойыны"
+                ],
+                "Kyrgyz": [
+                    "кече оюну"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "oturyşyk oýny"
+                ],
+                "Kazakh": [
+                    "отырыс ойыны"
+                ],
+                "Karakalpak": [
+                    "otırıs oyını"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tomaşa oýny"
+                ],
+                "Kyrgyz": [
+                    "тамаша-оюн"
+                ],
+                "Karakalpak": [
+                    "tamasha oyını"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "оюн-зоок"
+                ],
+                "Tatar": [
+                    "уен-көлке"
+                ],
+                "Bashkir": [
+                    "уйындар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eğlence oyunu"
+                ],
+                "Azerbaijani": [
+                    "əyləncə oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "topluluk oyunu"
+                ],
+                "Azerbaijani": [
+                    "toplantı oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "güýmenje oýny"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "davra o'yini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bazm o'yini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زىياپەت ئويۇنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sauıq oyını"
+                ]
+            }
+        }
+    ]
+}
+```
+

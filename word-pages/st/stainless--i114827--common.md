@@ -1,0 +1,105 @@
+# Stainless
+| Field | Detail |
+|---|---|
+| **ID** | i114827 |
+| **English** | stainless |
+| **Type** | noun |
+| **Definition** | steel containing chromium that makes it resistant to corrosion |
+| **Source** | common |
+| **Ortatil** | paslanmazar |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i114827",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stainless",
+    "en_definition": "steel containing chromium that makes it resistant to corrosion",
+    "tr_word": "paslanmaz çelik",
+    "tr_definition": "korozyona karşı dirençli olmasını sağlayan krom içeren çelik",
+    "ru_word": "нержавеющая сталь",
+    "ru_definition": "сталь с содержанием хрома, что делает её устойчивой к коррозии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "داتلاشماس پولات",
+                    "داتلاشماس تۆمۈر"
+                ],
+                "Kyrgyz": [
+                    "дат баспаган болот",
+                    "даттанбас болот"
+                ],
+                "Karakalpak": [
+                    "tatlanbaytuǵın bolat",
+                    "datlanbaytuǵın bolat"
+                ],
+                "Bashkir": [
+                    "тутланмаҫ ҡорос",
+                    "тутламай торған ҡорос"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "paslanmaz çelik",
+                    "paslanmaz"
+                ],
+                "Azerbaijani": [
+                    "paslanmaz polad",
+                    "paslanmaz"
+                ],
+                "Turkmen": [
+                    "poslamaz polat",
+                    "poslamayan polat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ak polat"
+                ],
+                "Kazakh": [
+                    "ақ болат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тоттанбайтын болат",
+                    "тот баспайтын болат"
+                ],
+                "Tatar": [
+                    "тутыкмас корыч",
+                    "тутыкмый торган корыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ləkəsiz polad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zanglamas po'lat",
+                    "zanglamas temir"
+                ]
+            }
+        }
+    ]
+}
+```
+

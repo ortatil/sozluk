@@ -1,0 +1,122 @@
+# Power line
+| Field | Detail |
+|---|---|
+| **ID** | i57625 |
+| **English** | power line |
+| **Type** | noun |
+| **Definition** | cable used to distribute electricity |
+| **Source** | common |
+| **Ortatil** | naqil |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i57625",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "power line",
+    "en_definition": "cable used to distribute electricity",
+    "tr_word": "elektrik hattı",
+    "tr_definition": "elektrik enerjisini dağıtmak için kullanılan kablo sistemi",
+    "ru_word": "линия электропередачи",
+    "ru_definition": "кабель или система проводов, используемая для распределения электроэнергии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrik hattı",
+                    "enerji nakil hattı"
+                ],
+                "Azerbaijani": [
+                    "elektrik xətti",
+                    "enerji xətti"
+                ],
+                "Turkmen": [
+                    "elektrik ulgamy",
+                    "elektrik geçiriji"
+                ],
+                "Uzbek": [
+                    "elektr tarmog'i",
+                    "elektr uzatish tarmog'i"
+                ],
+                "Uyghur": [
+                    "ئېلېكتر سىمى"
+                ],
+                "Kazakh": [
+                    "электр желісі",
+                    "электр таратқыш"
+                ],
+                "Kyrgyz": [
+                    "электр чубалгысы",
+                    "электр зымы",
+                    "электр тармагы"
+                ],
+                "Karakalpak": [
+                    "elektr tarmaǵı",
+                    "elektr jelisi"
+                ],
+                "Tatar": [
+                    "электр линиясе",
+                    "электр тапшыру линиясе",
+                    "электр челтәре"
+                ],
+                "Bashkir": [
+                    "электр линияһы",
+                    "электр селтәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tok liniýasy"
+                ],
+                "Uyghur": [
+                    "توك سىمى",
+                    "توك لىنىيەسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güç hattı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elektrik şebekesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "naqil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quvvat tarmog'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қуат желісі"
+                ]
+            }
+        }
+    ]
+}
+```
+

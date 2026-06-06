@@ -1,0 +1,100 @@
+{
+    "id": "i1368",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "dark-haired",
+    "en_definition": "having hair of a dark color",
+    "tr_word": "esmer",
+    "tr_definition": "saçları koyu renkli olan",
+    "ru_word": "темноволосый",
+    "ru_definition": "имеющий волосы темного цвета",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara saçlı"
+                ],
+                "Azerbaijani": [
+                    "qaraşın",
+                    "qara",
+                    "qara saçlı"
+                ],
+                "Turkmen": [
+                    "gara saçly",
+                    "garaýagyz"
+                ],
+                "Uzbek": [
+                    "qora sochli",
+                    "qora soch",
+                    "qoramagʻiz"
+                ],
+                "Uyghur": [
+                    "قارا چاچلىق",
+                    "قارا چاچ"
+                ],
+                "Kazakh": [
+                    "қара шашты",
+                    "қараторы"
+                ],
+                "Kyrgyz": [
+                    "кара чачтуу",
+                    "кара чач"
+                ],
+                "Karakalpak": [
+                    "qara shashlı",
+                    "qara shash",
+                    "qara"
+                ],
+                "Tatar": [
+                    "кара чәчле",
+                    "кара кашлы",
+                    "кара"
+                ],
+                "Bashkir": [
+                    "ҡара сәсле",
+                    "ҡараһыу сәсле",
+                    "ҡара сәс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоңыр шашты"
+                ],
+                "Kyrgyz": [
+                    "коңур"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "esmer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siyah saçlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yağız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tünd saçlı"
+                ]
+            }
+        }
+    ]
+}

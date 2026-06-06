@@ -1,0 +1,121 @@
+{
+    "id": "i90492",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "protagonist",
+    "en_definition": "the principal character in a work of fiction",
+    "tr_word": "başkahraman",
+    "tr_definition": "bir kurgu eserindeki ana karakter",
+    "ru_word": "протагонист",
+    "ru_definition": "главное действующее лицо в художественном произведении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başkişi",
+                    "başkarakter",
+                    "başkahraman"
+                ],
+                "Azerbaijani": [
+                    "baş qəhrəman",
+                    "baş obraz",
+                    "baş şəxs"
+                ],
+                "Turkmen": [
+                    "baş gahryman",
+                    "baş keşp",
+                    "baş personaj"
+                ],
+                "Uzbek": [
+                    "bosh qahramon"
+                ],
+                "Uyghur": [
+                    "باش قەھرىمان",
+                    "باش پېرسوناژ"
+                ],
+                "Kazakh": [
+                    "бас кейіпкер"
+                ],
+                "Kyrgyz": [
+                    "башкы каарман",
+                    "башкы образ"
+                ],
+                "Karakalpak": [
+                    "bas qaharman",
+                    "bas obraz",
+                    "bas tұlǵa"
+                ],
+                "Tatar": [
+                    "баш каһарман"
+                ],
+                "Bashkir": [
+                    "баш герой"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asosiy qahramon"
+                ],
+                "Uyghur": [
+                    "ئاساسىي پېرسوناژ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп герой"
+                ],
+                "Bashkir": [
+                    "төп герой",
+                    "төп персонаж"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "markaziy siymo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кейіпкер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұлға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "негизги каарман"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп зат"
+                ]
+            }
+        }
+    ]
+}

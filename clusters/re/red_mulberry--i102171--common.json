@@ -1,0 +1,82 @@
+{
+    "id": "i102171",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "red mulberry",
+    "en_definition": "North American mulberry having dark purple edible fruit",
+    "tr_word": "kırmızı dut",
+    "tr_definition": "Kuzey Amerika'ya özgü, koyu mor renkli ve yenilebilir meyveleri olan bir dut türü",
+    "ru_word": "шелковица красная",
+    "ru_definition": "Североамериканское тутовое дерево с темно-фиолетовыми съедобными плодами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızıl dut",
+                    "kara dut"
+                ],
+                "Azerbaijani": [
+                    "qırmızı tut"
+                ],
+                "Turkmen": [
+                    "gara tut"
+                ],
+                "Uzbek": [
+                    "qora tut"
+                ],
+                "Uyghur": [
+                    "قىزىل تۇت",
+                    "قارا تۇت"
+                ],
+                "Kazakh": [
+                    "қызыл тұт",
+                    "қызыл тұт ағашы"
+                ],
+                "Kyrgyz": [
+                    "кызыл тыт",
+                    "кара тыт"
+                ],
+                "Karakalpak": [
+                    "qızıl tut"
+                ],
+                "Tatar": [
+                    "кызыл тут",
+                    "кызыл тут агачы"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл тут",
+                    "ҡыҙыл тут ағасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xartut"
+                ],
+                "Uzbek": [
+                    "shatut"
+                ],
+                "Karakalpak": [
+                    "shaxtut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mor dut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şatut"
+                ]
+            }
+        }
+    ]
+}

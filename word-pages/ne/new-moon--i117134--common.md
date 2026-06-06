@@ -1,0 +1,155 @@
+# New moon
+| Field | Detail |
+|---|---|
+| **ID** | i117134 |
+| **English** | new moon |
+| **Type** | noun |
+| **Definition** | the time at which the Moon appears as a narrow waxing crescent |
+| **Source** | common |
+| **Ortatil** | hiläl |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **hiläl** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.20** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ھىلال | hilal |
+| **Tatar** | |
+| һиляль | hilyal |
+
+```json
+{
+    "id": "i117134",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "new moon",
+    "en_definition": "the time at which the Moon appears as a narrow waxing crescent",
+    "tr_word": "yeni ay",
+    "tr_definition": "Ay'ın Dünya ile Güneş arasında olduğu ve Dünya'dan ince bir hilal şeklinde görülmeye başladığı evre.",
+    "ru_word": "новолуние",
+    "ru_definition": "фаза Луны, при которой она находится между Землей и Солнцем и видна как узкий растущий серп.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeni ay"
+                ],
+                "Azerbaijani": [
+                    "yeni ay"
+                ],
+                "Uzbek": [
+                    "yangi oy"
+                ],
+                "Uyghur": [
+                    "يېڭى ئاي"
+                ],
+                "Kazakh": [
+                    "жаңа ай"
+                ],
+                "Kyrgyz": [
+                    "жаңы ай"
+                ],
+                "Karakalpak": [
+                    "jańa ay"
+                ],
+                "Tatar": [
+                    "яңа ай"
+                ],
+                "Bashkir": [
+                    "яңы ай",
+                    "яңы тыуған ай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hilal"
+                ],
+                "Azerbaijani": [
+                    "hilal"
+                ],
+                "Turkmen": [
+                    "hilal"
+                ],
+                "Uzbek": [
+                    "hilol"
+                ],
+                "Uyghur": [
+                    "ھىلال",
+                    "ھىلال ئاي"
+                ],
+                "Tatar": [
+                    "һиляль"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayça"
+                ],
+                "Kazakh": [
+                    "айдың тууы"
+                ],
+                "Kyrgyz": [
+                    "айдын жаңысы"
+                ],
+                "Karakalpak": [
+                    "aydıń tuuı"
+                ],
+                "Bashkir": [
+                    "ай башы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "туған ай"
+                ],
+                "Karakalpak": [
+                    "tuǵan ay"
+                ],
+                "Tatar": [
+                    "туган ай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təzə ay"
+                ],
+                "Turkmen": [
+                    "täze aý"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,96 @@
+{
+    "id": "i45040",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "waterfowl",
+    "en_definition": "freshwater aquatic bird",
+    "tr_word": "su kuşu",
+    "tr_definition": "Tatlı su kenarlarında veya üzerinde yaşayan, genellikle yüzücü kuş türü.",
+    "ru_word": "водоплавающая птица",
+    "ru_definition": "Птица, обитающая в пресноводной среде и способная плавать.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su kuşu"
+                ],
+                "Azerbaijani": [
+                    "su quşu"
+                ],
+                "Turkmen": [
+                    "suw guşy"
+                ],
+                "Uzbek": [
+                    "suv qushi"
+                ],
+                "Uyghur": [
+                    "سۇ قۇشى",
+                    "سۇ قۇشلىرى"
+                ],
+                "Kazakh": [
+                    "су құсы"
+                ],
+                "Kyrgyz": [
+                    "суу кушу"
+                ],
+                "Karakalpak": [
+                    "suo qusı"
+                ],
+                "Tatar": [
+                    "су кошлары",
+                    "су кошы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwda ýüzýän guş"
+                ],
+                "Uzbek": [
+                    "suvda suzuvchi qush"
+                ],
+                "Kazakh": [
+                    "суда жүзетін құс"
+                ],
+                "Kyrgyz": [
+                    "сууда сүзүүчү куш"
+                ],
+                "Karakalpak": [
+                    "suoda júzioshi qus"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaban ördeği",
+                    "yaban kazı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzən quş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу ҡошо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йөҙөүсе ҡош"
+                ]
+            }
+        }
+    ]
+}

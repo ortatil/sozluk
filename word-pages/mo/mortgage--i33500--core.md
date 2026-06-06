@@ -1,0 +1,151 @@
+# Mortgage
+| Field | Detail |
+|---|---|
+| **ID** | i33500 |
+| **English** | mortgage |
+| **Type** | verb |
+| **Definition** | put up as security or collateral |
+| **Source** | core |
+| **Ortatil** | kürölömäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| күрөөлөө | küröölöö |
+
+```json
+{
+    "id": "i33500",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "mortgage",
+    "en_definition": "put up as security or collateral",
+    "tr_word": "rehin vermek",
+    "tr_definition": "bir borca karşılık güvence olarak göstermek, ipotek etmek",
+    "ru_word": "закладывать",
+    "ru_definition": "отдавать в залог в качестве обеспечения обязательства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "girov qoymaq",
+                    "girov vermək"
+                ],
+                "Turkmen": [
+                    "girewe goýmak"
+                ],
+                "Uzbek": [
+                    "garovga qo'ymoq"
+                ],
+                "Uyghur": [
+                    "گۆرۈگە قويماق"
+                ],
+                "Kyrgyz": [
+                    "күрөөгө коюу",
+                    "күрөөлөө"
+                ],
+                "Karakalpak": [
+                    "gireuge qoyıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rehin vermek"
+                ],
+                "Azerbaijani": [
+                    "rəhn etmək"
+                ],
+                "Turkmen": [
+                    "rehin bermek"
+                ],
+                "Uzbek": [
+                    "rehn qilmoq"
+                ],
+                "Uyghur": [
+                    "رەنىگە قويماق",
+                    "رەنە قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "omonatga qo'ymoq"
+                ],
+                "Kyrgyz": [
+                    "аманат кылуу"
+                ],
+                "Tatar": [
+                    "аманат итеп калдыру"
+                ],
+                "Bashkir": [
+                    "аманатҡа биреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кепілге қою",
+                    "кепілдікке беру",
+                    "кепіл ету"
+                ],
+                "Karakalpak": [
+                    "kepilge qoyıu",
+                    "kepillikke beriu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "залогка салу"
+                ],
+                "Bashkir": [
+                    "залогҡа биреү",
+                    "залогҡа һалыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zamun goýmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ipotek etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "teminat göstermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "керемгә салу"
+                ]
+            }
+        }
+    ]
+}
+```
+

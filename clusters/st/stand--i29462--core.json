@@ -1,0 +1,150 @@
+{
+    "id": "i29462",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "stand",
+    "en_definition": "be standing; be upright",
+    "tr_word": "ayakta durmak",
+    "tr_definition": "dik bir konumda bulunmak, ayakları üzerinde durmak",
+    "ru_word": "стоять",
+    "ru_definition": "находиться в вертикальном положении на ногах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "durmak"
+                ],
+                "Azerbaijani": [
+                    "durmaq"
+                ],
+                "Turkmen": [
+                    "durmak"
+                ],
+                "Uzbek": [
+                    "turmoq"
+                ],
+                "Uyghur": [
+                    "تۇرماق"
+                ],
+                "Kazakh": [
+                    "тұру"
+                ],
+                "Kyrgyz": [
+                    "туруу"
+                ],
+                "Karakalpak": [
+                    "turu"
+                ],
+                "Tatar": [
+                    "торырга"
+                ],
+                "Bashkir": [
+                    "тороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dik durmaq"
+                ],
+                "Turkmen": [
+                    "dik durmak"
+                ],
+                "Uzbek": [
+                    "tik turmoq"
+                ],
+                "Uyghur": [
+                    "تىك تۇرماق"
+                ],
+                "Kazakh": [
+                    "тік тұру"
+                ],
+                "Kyrgyz": [
+                    "тик туруу"
+                ],
+                "Karakalpak": [
+                    "tik turu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayakta durmak"
+                ],
+                "Azerbaijani": [
+                    "ayaq üstə durmaq"
+                ],
+                "Turkmen": [
+                    "aýakda durmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qad koʻtarmoq"
+                ],
+                "Uyghur": [
+                    "قەد كۆتۈرمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "басып торырга"
+                ],
+                "Bashkir": [
+                    "баҫып тороу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dikilmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бой көтеру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "туруп калуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tiklenip turu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "калку"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡайҡайыу"
+                ]
+            }
+        }
+    ]
+}

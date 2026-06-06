@@ -1,0 +1,77 @@
+{
+    "id": "i70301",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "judges",
+    "en_definition": "a book of the Old Testament that tells the history of Israel under the leaders known as judges",
+    "tr_word": "Hakimler",
+    "tr_definition": "Eski Ahit'in, İsrail'in hakimler olarak bilinen liderler altındaki tarihini anlatan kitabı",
+    "ru_word": "Книга Судей",
+    "ru_definition": "Книга Ветхого Завета, повествующая об истории Израиля под руководством лидеров, известных как судьи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Hakimler",
+                    "Hâkimler Kitabı"
+                ],
+                "Azerbaijani": [
+                    "Hakimlər",
+                    "Hakimlər kitabı"
+                ],
+                "Uzbek": [
+                    "Hakamlar",
+                    "Hakamlar kitobi"
+                ],
+                "Uyghur": [
+                    "ھۆكۈمدارلار"
+                ],
+                "Tatar": [
+                    "Хакимнәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "Билер кітабы",
+                    "Билер"
+                ],
+                "Kyrgyz": [
+                    "Бийлер",
+                    "Бийлер китеби"
+                ],
+                "Karakalpak": [
+                    "Biyler",
+                    "Biyler kitabı"
+                ],
+                "Tatar": [
+                    "Биләр"
+                ],
+                "Bashkir": [
+                    "Бийҙәр китабы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Kazyýetler",
+                    "Kazylar"
+                ],
+                "Uyghur": [
+                    "قازىلار"
+                ],
+                "Karakalpak": [
+                    "Qazılar"
+                ],
+                "Bashkir": [
+                    "Ҡазыйҙар китабы"
+                ]
+            }
+        }
+    ]
+}

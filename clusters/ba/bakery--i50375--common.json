@@ -1,0 +1,121 @@
+{
+    "id": "i50375",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bakery",
+    "en_definition": "a workplace where baked goods (breads and cakes and pastries) are produced or sold",
+    "tr_word": "fırın",
+    "tr_definition": "ekmek, pasta ve unlu mamullerin üretildiği veya satıldığı yer",
+    "ru_word": "пекарня",
+    "ru_definition": "предприятие, где выпекают и продают хлебобулочные изделия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nanvane"
+                ],
+                "Turkmen": [
+                    "nanwayhana"
+                ],
+                "Uzbek": [
+                    "novvoyxona",
+                    "nonvoyxona"
+                ],
+                "Uyghur": [
+                    "نانخانا",
+                    "ناۋايخانا"
+                ],
+                "Kazakh": [
+                    "набайхана",
+                    "наубайхана",
+                    "нан дүкені"
+                ],
+                "Kyrgyz": [
+                    "наабайкана",
+                    "нанкана"
+                ],
+                "Karakalpak": [
+                    "nanxana",
+                    "nabayxana"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekmekçi"
+                ],
+                "Tatar": [
+                    "икмәкханә",
+                    "икмәк заводы"
+                ],
+                "Bashkir": [
+                    "икмәкхана",
+                    "икмәк бешереү йорто",
+                    "икмәк заводы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "peçhana"
+                ],
+                "Uzbek": [
+                    "pazandaxona"
+                ],
+                "Uyghur": [
+                    "پېچىنە-پىرەنىكخانىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çörəkxana"
+                ],
+                "Turkmen": [
+                    "çörekhan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fırın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təndirxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "un məmulatları mağazası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "нан бышыруучу жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күмәчханә"
+                ]
+            }
+        }
+    ]
+}

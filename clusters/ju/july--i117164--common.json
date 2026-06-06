@@ -1,0 +1,101 @@
+{
+    "id": "i117164",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "july",
+    "en_definition": "the month following June and preceding August",
+    "tr_word": "temmuz",
+    "tr_definition": "haziran ile ağustos ayları arasında kalan yılın yedinci ayı",
+    "ru_word": "июль",
+    "ru_definition": "седьмой месяц календарного года, следующий за июнем и предшествующий августу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "iyul"
+                ],
+                "Turkmen": [
+                    "iyul"
+                ],
+                "Uzbek": [
+                    "iyul"
+                ],
+                "Uyghur": [
+                    "ئىيۇل"
+                ],
+                "Kyrgyz": [
+                    "июль"
+                ],
+                "Karakalpak": [
+                    "iyul"
+                ],
+                "Tatar": [
+                    "июль"
+                ],
+                "Bashkir": [
+                    "июль"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "temmuz"
+                ],
+                "Uyghur": [
+                    "تەممۇز"
+                ],
+                "Kyrgyz": [
+                    "теке"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шілде"
+                ],
+                "Karakalpak": [
+                    "shіlle"
+                ],
+                "Tatar": [
+                    "чилә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "orak ayı"
+                ],
+                "Azerbaijani": [
+                    "oraq ayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gorjan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "saraton"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "майса"
+                ]
+            }
+        }
+    ]
+}

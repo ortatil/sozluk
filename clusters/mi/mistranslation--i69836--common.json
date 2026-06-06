@@ -1,0 +1,136 @@
+{
+    "id": "i69836",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mistranslation",
+    "en_definition": "an incorrect translation",
+    "tr_word": "yanlış çeviri",
+    "tr_definition": "bir dilden diğerine yapılan hatalı veya eksik tercüme",
+    "ru_word": "неправильный перевод",
+    "ru_definition": "ошибочный или неточный перевод с одного языка на другой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanlış çeviri"
+                ],
+                "Azerbaijani": [
+                    "yanlış tərcümə",
+                    "tərcümə yanlışı"
+                ],
+                "Turkmen": [
+                    "ýalňyş terjime"
+                ],
+                "Uzbek": [
+                    "yanglish tarjima"
+                ],
+                "Kyrgyz": [
+                    "жаңылыш котормо"
+                ],
+                "Tatar": [
+                    "яңгылыш тәрҗемә"
+                ],
+                "Bashkir": [
+                    "яңлыш тәржемә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hatalı tercüme",
+                    "galat-ı tercüme"
+                ],
+                "Azerbaijani": [
+                    "xətalı tərcümə"
+                ],
+                "Uzbek": [
+                    "xato tarjima"
+                ],
+                "Uyghur": [
+                    "خاتا تەرجىمە"
+                ],
+                "Tatar": [
+                    "хата тәрҗемә"
+                ],
+                "Bashkir": [
+                    "хата тәржемә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қате аударма"
+                ],
+                "Kyrgyz": [
+                    "ката котормо"
+                ],
+                "Karakalpak": [
+                    "qáte aodarma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərcümə xətası"
+                ],
+                "Uyghur": [
+                    "تەرجىمە خاتالىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "noto'g'ri tarjima"
+                ],
+                "Karakalpak": [
+                    "nadurıs aodarma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұрыс аударма"
+                ],
+                "Karakalpak": [
+                    "burmalanǵan aodarma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "galat terjime"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نۇقسانلىق تەرجىمە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаңсақ аударма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "туура эмес котормо"
+                ]
+            }
+        }
+    ]
+}

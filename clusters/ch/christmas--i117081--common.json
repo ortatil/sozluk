@@ -1,0 +1,114 @@
+{
+    "id": "i117081",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "christmas",
+    "en_definition": "period extending from Dec. 24 to Jan. 6",
+    "tr_word": "Noel",
+    "tr_definition": "24 Aralık'tan 6 Ocak'a kadar süren dini ve kültürel dönem.",
+    "ru_word": "Рождество",
+    "ru_definition": "Период с 24 декабря по 6 января, связанный с празднованием рождения Иисуса Христа.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Milat"
+                ],
+                "Azerbaijani": [
+                    "Milad"
+                ],
+                "Turkmen": [
+                    "Milat"
+                ],
+                "Uzbek": [
+                    "milod",
+                    "mavlud"
+                ],
+                "Uyghur": [
+                    "مىلاد بايرىمى"
+                ],
+                "Kyrgyz": [
+                    "Милад"
+                ],
+                "Karakalpak": [
+                    "Máulit"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "روژدېستۋو بايرىمى"
+                ],
+                "Kazakh": [
+                    "Рождество"
+                ],
+                "Kyrgyz": [
+                    "Рождество"
+                ],
+                "Karakalpak": [
+                    "Rojdestwo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Noel"
+                ],
+                "Azerbaijani": [
+                    "Noel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Doğuş Bayramı"
+                ],
+                "Turkmen": [
+                    "Dogluş baýramy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Isanyň doglan güni"
+                ],
+                "Uzbek": [
+                    "iso bayrami"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Мәсіхтің туған күні"
+                ],
+                "Bashkir": [
+                    "Нардуған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Раштуа"
+                ],
+                "Bashkir": [
+                    "Раштыуа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Нардуган"
+                ]
+            }
+        }
+    ]
+}

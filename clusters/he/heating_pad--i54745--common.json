@@ -1,0 +1,96 @@
+{
+    "id": "i54745",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "heating pad",
+    "en_definition": "heater consisting of electrical heating elements contained in a flexible pad",
+    "tr_word": "elektrikli battaniye",
+    "tr_definition": "esnek bir ped içinde bulunan elektrikli ısıtma elemanlarından oluşan ısıtıcı",
+    "ru_word": "грелка",
+    "ru_definition": "нагреватель, состоящий из электрических нагревательных элементов, заключенных в гибкую прокладку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýyladyjy",
+                    "ýyladyjy ýassyjak"
+                ],
+                "Kazakh": [
+                    "жылытқыш",
+                    "жылытқыш жастықша",
+                    "жылу бергіш"
+                ],
+                "Kyrgyz": [
+                    "жылыткыч",
+                    "жылыткыч жаздыкча"
+                ],
+                "Karakalpak": [
+                    "jılıtqısh"
+                ],
+                "Tatar": [
+                    "җылыткыч",
+                    "җылыткыч мендәр"
+                ],
+                "Bashkir": [
+                    "йылытҡыс",
+                    "йылытҡыс мендәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ısıtma yastığı",
+                    "ısıtıcı ped"
+                ],
+                "Uzbek": [
+                    "isitgich",
+                    "isirgich",
+                    "isitiq"
+                ],
+                "Uyghur": [
+                    "ئىسسىتقۇچ ياستۇقچە",
+                    "ئىسسىقلىق ياستۇقچىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elektrikli battaniye",
+                    "elektrikli minder"
+                ],
+                "Uyghur": [
+                    "ئېلېكترلىك ئىسسىتقۇچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qızdırıcı",
+                    "qızdırıcı yastıq"
+                ],
+                "Turkmen": [
+                    "gyzgynlyk beriji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istilik yastığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "grelka"
+                ]
+            }
+        }
+    ]
+}

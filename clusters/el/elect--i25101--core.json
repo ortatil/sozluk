@@ -1,0 +1,149 @@
+{
+    "id": "i25101",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "elect",
+    "en_definition": "choose",
+    "tr_word": "seçmek",
+    "tr_definition": "Birini veya bir şeyi diğerleri arasından ayırmak, tercih etmek.",
+    "ru_word": "избирать",
+    "ru_definition": "Выбирать путём голосования или отдавать предпочтение кому-либо или чему-либо.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seçmek"
+                ],
+                "Azerbaijani": [
+                    "seçmək"
+                ],
+                "Turkmen": [
+                    "saýlamak"
+                ],
+                "Uzbek": [
+                    "saylamoq"
+                ],
+                "Uyghur": [
+                    "سايلىماق"
+                ],
+                "Kazakh": [
+                    "сайлау"
+                ],
+                "Kyrgyz": [
+                    "шайлоо"
+                ],
+                "Karakalpak": [
+                    "saylao"
+                ],
+                "Tatar": [
+                    "сайлау"
+                ],
+                "Bashkir": [
+                    "һайлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tanlamoq"
+                ],
+                "Uyghur": [
+                    "تاللىماق",
+                    "تاللاپ چىقماق"
+                ],
+                "Kazakh": [
+                    "таңдау"
+                ],
+                "Kyrgyz": [
+                    "тандоо",
+                    "тандап алуу"
+                ],
+                "Karakalpak": [
+                    "tańlao"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "belirlemek"
+                ],
+                "Turkmen": [
+                    "bellemek"
+                ],
+                "Tatar": [
+                    "билгеләү"
+                ],
+                "Bashkir": [
+                    "билдәләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ixtiyor qilmoq"
+                ],
+                "Uyghur": [
+                    "ئىختىيار قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аеру"
+                ],
+                "Bashkir": [
+                    "айырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tercih etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "atamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təyin etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "adlandırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ses bermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іріктеу"
+                ]
+            }
+        }
+    ]
+}

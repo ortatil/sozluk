@@ -1,0 +1,131 @@
+{
+    "id": "i91931",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pedestrian",
+    "en_definition": "a person who travels by foot",
+    "tr_word": "yaya",
+    "tr_definition": "yürüyerek giden kimse",
+    "ru_word": "пешеход",
+    "ru_definition": "человек, идущий пешком",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaya"
+                ],
+                "Turkmen": [
+                    "ýolagçy"
+                ],
+                "Uyghur": [
+                    "يولۇچى"
+                ],
+                "Kazakh": [
+                    "жолаушы"
+                ],
+                "Karakalpak": [
+                    "jolaushı"
+                ],
+                "Tatar": [
+                    "юлчы"
+                ],
+                "Bashkir": [
+                    "юлсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "piyada"
+                ],
+                "Turkmen": [
+                    "pyýada"
+                ],
+                "Uzbek": [
+                    "piyoda"
+                ],
+                "Uyghur": [
+                    "پىيادە",
+                    "پىيادە ماڭغۇچى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жаяу"
+                ],
+                "Karakalpak": [
+                    "jayau"
+                ],
+                "Tatar": [
+                    "җәяүле"
+                ],
+                "Bashkir": [
+                    "йәйәүле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yolcu"
+                ],
+                "Azerbaijani": [
+                    "yolçu"
+                ],
+                "Uzbek": [
+                    "yoʻlovchi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yürüyen"
+                ],
+                "Azerbaijani": [
+                    "yeriyən"
+                ],
+                "Kazakh": [
+                    "жүргінші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаяу жүргінші"
+                ],
+                "Karakalpak": [
+                    "jayau júrgіnshі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "атлаучы"
+                ],
+                "Bashkir": [
+                    "атлаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жөө жүргүнчү",
+                    "жөө киши",
+                    "жөө"
+                ]
+            }
+        }
+    ]
+}

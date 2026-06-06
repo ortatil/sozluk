@@ -1,0 +1,87 @@
+{
+    "id": "i73919",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "abbreviation",
+    "en_definition": "a shortened form of a word or phrase",
+    "tr_word": "kısaltma",
+    "tr_definition": "bir kelime veya ifadenin daha kısa biçimi",
+    "ru_word": "аббревиатура",
+    "ru_definition": "сокращенная форма слова или словосочетания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısaltma"
+                ],
+                "Azerbaijani": [
+                    "qısaltma"
+                ],
+                "Turkmen": [
+                    "gysgaltma",
+                    "gysgaldylan söz"
+                ],
+                "Uzbek": [
+                    "qisqartma"
+                ],
+                "Uyghur": [
+                    "قىسقارتما",
+                    "قىسقارتىلما سۆز",
+                    "قىسقارتىلما"
+                ],
+                "Kazakh": [
+                    "қысқарту",
+                    "қысқартылған сөз"
+                ],
+                "Kyrgyz": [
+                    "кыскартылган сөз",
+                    "кыскартылма",
+                    "кыскартуу"
+                ],
+                "Karakalpak": [
+                    "qısqartılma",
+                    "qısqartılǵan sóz",
+                    "qısqartu"
+                ],
+                "Tatar": [
+                    "кыскартма",
+                    "кыскарту"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡартылма",
+                    "ҡыҫҡартыу",
+                    "ҡыҫҡартылған һүҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ihtisar"
+                ],
+                "Azerbaijani": [
+                    "ixtisar"
+                ],
+                "Uzbek": [
+                    "ixtisor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muhaffef"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шартты белгі"
+                ]
+            }
+        }
+    ]
+}

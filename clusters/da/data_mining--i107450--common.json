@@ -1,0 +1,122 @@
+{
+    "id": "i107450",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "data mining",
+    "en_definition": "data processing using sophisticated data search capabilities and statistical algorithms to discover patterns and correlations in large preexisting databases; a way to discover new meaning in data",
+    "tr_word": "veri madenciliği",
+    "tr_definition": "büyük veri kümelerinden örüntüleri, ilişkileri ve anlamlı bilgileri çıkarmak için istatistiksel yöntemlerin ve algoritmaların kullanılması süreci",
+    "ru_word": "интеллектуальный анализ данных",
+    "ru_definition": "процесс обнаружения в сырых данных ранее неизвестных, нетривиальных, практически полезных и доступных для интерпретации знаний",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məlumat mədənçiliyi",
+                    "məlumatların araşdırılması"
+                ],
+                "Turkmen": [
+                    "maglumat gazyp almak",
+                    "maglumat derňewi",
+                    "maglumatlary seljermek",
+                    "maglumat magdançylygy"
+                ],
+                "Uzbek": [
+                    "ma'lumotlarni qidirish",
+                    "ma'lumotlarni tahlil qilish",
+                    "ma'lumotlar tahlili",
+                    "ma'lumotlar qazib olish"
+                ],
+                "Kazakh": [
+                    "мәліметтерді өңдеу",
+                    "мәліметтерді қазу"
+                ],
+                "Kyrgyz": [
+                    "маалыматтарды казуу",
+                    "маалыматтарды талдоо",
+                    "маалыматтарды иштеп чыгуу",
+                    "маалыматтарды издөө"
+                ],
+                "Tatar": [
+                    "мәгълүмат казу",
+                    "мәгълүмат эзләнү",
+                    "мәгълүмат анализы"
+                ],
+                "Bashkir": [
+                    "мәғлүмәт табыу",
+                    "мәғлүмәт ҡаҙыу",
+                    "мәғлүмәт эҙләү",
+                    "мәғлүмәт эшкәртеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "veri madenciliği",
+                    "bilgi madenciliği"
+                ],
+                "Azerbaijani": [
+                    "verilənlərin qazılması",
+                    "verilənlərin təhlili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "veri tarama",
+                    "veri kazıma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سانلىق مەلۇمات قېزىش",
+                    "سانلىق مەلۇمات تەھلىلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇچۇر قېزىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "деректерді талдау",
+                    "деректерді зерттеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақпараттық талдау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "maǵlıumatlardı izlestiriu",
+                    "maǵlıumatlardı tallau",
+                    "maǵlıumatlardı qazıp alıu",
+                    "maǵlıumatlardan bilim alıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "белем табу"
+                ]
+            }
+        }
+    ]
+}

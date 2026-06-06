@@ -1,0 +1,88 @@
+{
+    "id": "i60281",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "timepiece",
+    "en_definition": "a measuring instrument or device for keeping time",
+    "tr_word": "saat",
+    "tr_definition": "Zamanı ölçmek ve göstermek için kullanılan araç.",
+    "ru_word": "хронометр",
+    "ru_definition": "Прибор для точного измерения и отображения времени.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saat"
+                ],
+                "Azerbaijani": [
+                    "saat"
+                ],
+                "Turkmen": [
+                    "sagat"
+                ],
+                "Uzbek": [
+                    "soat"
+                ],
+                "Uyghur": [
+                    "سائەت"
+                ],
+                "Kazakh": [
+                    "сағат"
+                ],
+                "Kyrgyz": [
+                    "саат"
+                ],
+                "Karakalpak": [
+                    "saat"
+                ],
+                "Tatar": [
+                    "сәгать"
+                ],
+                "Bashkir": [
+                    "сәғәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vakitölçer"
+                ],
+                "Azerbaijani": [
+                    "vaxtölçən"
+                ],
+                "Turkmen": [
+                    "wagtölçer"
+                ],
+                "Uzbek": [
+                    "vaqt oʻlchagich"
+                ],
+                "Uyghur": [
+                    "ۋاقىت ئۆلچىگۈچ"
+                ],
+                "Kazakh": [
+                    "уақыт өлшегіш"
+                ],
+                "Tatar": [
+                    "вакыт үлчәгеч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zamanölçer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "убакыт өлчөгүч"
+                ]
+            }
+        }
+    ]
+}

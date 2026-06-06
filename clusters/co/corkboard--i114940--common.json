@@ -1,0 +1,81 @@
+{
+    "id": "i114940",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "corkboard",
+    "en_definition": "a heat-insulating building material consisting of cork granules that are made into sheets by compressing and baking",
+    "tr_word": "mantar levha",
+    "tr_definition": "sıkıştırılmış ve fırınlanmış mantar granüllerinden yapılan, ısı yalıtımı sağlayan yapı malzemesi",
+    "ru_word": "пробковая плита",
+    "ru_definition": "теплоизоляционный строительный материал, состоящий из гранул пробки, спрессованных и запеченных в листы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tıxac lövhəsi",
+                    "tıxac təbəqəsi"
+                ],
+                "Turkmen": [
+                    "dyky tagtasy",
+                    "dykyly tagta",
+                    "dyky gatlagy"
+                ],
+                "Kazakh": [
+                    "тығын тақта",
+                    "тығын тақтасы",
+                    "тығын қабырға"
+                ],
+                "Kyrgyz": [
+                    "тыгын тактасы",
+                    "тыгын кабыгы",
+                    "тыгын такта"
+                ],
+                "Karakalpak": [
+                    "tıǵın taqta",
+                    "tıǵın qabıq"
+                ],
+                "Bashkir": [
+                    "тығын таҡтаһы",
+                    "тығын плитаһы",
+                    "тығын ҡатламы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mantar levha",
+                    "mantar pano",
+                    "mantar tabaka"
+                ],
+                "Azerbaijani": [
+                    "mantar lövhəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "po'kakli taxta",
+                    "po'kakli qoplama",
+                    "po'kakli panel"
+                ],
+                "Tatar": [
+                    "бөке тактасы",
+                    "бөке катламы",
+                    "бөке плитәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توقاي تاختىسى",
+                    "توقاي تام تاختىسى",
+                    "توقاي ماتېرىيالى"
+                ]
+            }
+        }
+    ]
+}

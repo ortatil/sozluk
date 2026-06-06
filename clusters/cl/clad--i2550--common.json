@@ -1,0 +1,146 @@
+{
+    "id": "i2550",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "clothed",
+    "en_definition": "wearing or provided with clothing; sometimes used in combination",
+    "tr_word": "giyinik",
+    "tr_definition": "üzerinde giysi bulunan, çıplak olmayan",
+    "ru_word": "одетый",
+    "ru_definition": "имеющий на себе одежду; не голый",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "giyinmiş",
+                    "giyimli"
+                ],
+                "Azerbaijani": [
+                    "geyinmiş",
+                    "geyinik",
+                    "geyimli"
+                ],
+                "Turkmen": [
+                    "geýnen",
+                    "geýimli",
+                    "geýdirilen"
+                ],
+                "Uzbek": [
+                    "kiyimli",
+                    "kiygan"
+                ],
+                "Uyghur": [
+                    "كىيىنگەن",
+                    "كىيىملىك",
+                    "كىيىم-كېچەكلىك"
+                ],
+                "Kazakh": [
+                    "киімді"
+                ],
+                "Kyrgyz": [
+                    "кийинген",
+                    "кийимдүү"
+                ],
+                "Karakalpak": [
+                    "kiyingen",
+                    "kiyimli"
+                ],
+                "Tatar": [
+                    "киенгән",
+                    "киемле"
+                ],
+                "Bashkir": [
+                    "кейенгән",
+                    "кейемле",
+                    "кейем-һалымлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yopingan"
+                ],
+                "Kyrgyz": [
+                    "жабынган"
+                ],
+                "Tatar": [
+                    "ябынган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "örtülü"
+                ],
+                "Azerbaijani": [
+                    "örtülü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuşanmış"
+                ],
+                "Kazakh": [
+                    "құрсанған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "libaslı"
+                ],
+                "Turkmen": [
+                    "lybasly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "burkangan"
+                ],
+                "Tatar": [
+                    "бөренгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жамылған"
+                ],
+                "Karakalpak": [
+                    "jamılǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پوشايدىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "киінген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оронгон"
+                ]
+            }
+        }
+    ]
+}

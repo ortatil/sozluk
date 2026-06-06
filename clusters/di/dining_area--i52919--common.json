@@ -1,0 +1,118 @@
+{
+    "id": "i52919",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dining area",
+    "en_definition": "an area arranged for dining",
+    "tr_word": "yemek alanı",
+    "tr_definition": "yemek yemek için düzenlenmiş alan",
+    "ru_word": "обеденная зона",
+    "ru_definition": "место, предназначенное для приема пищи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aşhana"
+                ],
+                "Uzbek": [
+                    "oshxona"
+                ],
+                "Uyghur": [
+                    "ئاشخانا"
+                ],
+                "Kazakh": [
+                    "асхана"
+                ],
+                "Kyrgyz": [
+                    "ашкана"
+                ],
+                "Karakalpak": [
+                    "asxana"
+                ],
+                "Tatar": [
+                    "ашханә",
+                    "аш бүлмәсе"
+                ],
+                "Bashkir": [
+                    "ашхана",
+                    "аш бүлмәһе",
+                    "аш-һыу бүлмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "taomxona"
+                ],
+                "Uyghur": [
+                    "تاماقخانا"
+                ],
+                "Kazakh": [
+                    "тамақтану орны"
+                ],
+                "Kyrgyz": [
+                    "тамактанчу жай",
+                    "тамак ичүүчү бөлмө"
+                ],
+                "Karakalpak": [
+                    "tamaqxana"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sofra"
+                ],
+                "Azerbaijani": [
+                    "süfrə yeri"
+                ],
+                "Uyghur": [
+                    "سۇپرا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemek yeri",
+                    "yemek alanı",
+                    "yemek odası"
+                ],
+                "Azerbaijani": [
+                    "yeməkxana",
+                    "yemək otağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ас ішетін бөлме"
+                ],
+                "Tatar": [
+                    "ашау бүлмәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "naharhana",
+                    "nahar iýilýän ýer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ovqatlanish joyi"
+                ]
+            }
+        }
+    ]
+}

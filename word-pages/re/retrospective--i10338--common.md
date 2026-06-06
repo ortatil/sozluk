@@ -1,0 +1,189 @@
+# Retrospective
+| Field | Detail |
+|---|---|
+| **ID** | i10338 |
+| **English** | retrospective |
+| **Type** | adjective |
+| **Definition** | concerned with or related to the past |
+| **Source** | common |
+| **Ortatil** | ötmüştä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| кері | keri |
+| бұрынғы | burınğı |
+| **Tatar** | |
+| элеккеге | elekkege |
+| **Bashkir** | |
+| үткәндәге | ütkändäge |
+| элекке | elekke |
+
+```json
+{
+    "id": "i10338",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "retrospective",
+    "en_definition": "concerned with or related to the past",
+    "tr_word": "retrospektif",
+    "tr_definition": "geçmişe yönelik, geçmişi de kapsayan veya geçmişe bakan",
+    "ru_word": "ретроспективный",
+    "ru_definition": "обращенный в прошлое, посвященный рассмотрению прошлого",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ötənə dair"
+                ],
+                "Uyghur": [
+                    "ئۆتمۈشكە ئائىت",
+                    "ئۆتمۈشكە قارىتىلغان"
+                ],
+                "Kazakh": [
+                    "өткенге қатысты",
+                    "өткенге бағытталған"
+                ],
+                "Kyrgyz": [
+                    "өткөнгө тиешелүү",
+                    "өткөн чактагы"
+                ],
+                "Karakalpak": [
+                    "ótkenge baylanıslı",
+                    "ótkenge qaratılǵan",
+                    "ótkenge tiyisli"
+                ],
+                "Tatar": [
+                    "үткәнгә караган",
+                    "үткәннәргә багышланган"
+                ],
+                "Bashkir": [
+                    "үткәндәге",
+                    "үткәндәргә ҡараған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ortga nazar"
+                ],
+                "Kyrgyz": [
+                    "артка кылчактаган"
+                ],
+                "Tatar": [
+                    "артка карашлы"
+                ],
+                "Bashkir": [
+                    "артҡа йүнәлтелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geçmişe dönük",
+                    "geriye dönük"
+                ],
+                "Azerbaijani": [
+                    "keçmişə aid",
+                    "keçmişlə bağlı"
+                ],
+                "Turkmen": [
+                    "geçmişe degişli",
+                    "geçmişe gönükdirilen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "maziye ait"
+                ],
+                "Uzbek": [
+                    "moziyga oid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "geriyə baxan"
+                ],
+                "Kazakh": [
+                    "кері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "элеккеге"
+                ],
+                "Bashkir": [
+                    "элекке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öňki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ozalky"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻtmishga oid",
+                    "oʻtmishdagi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئارقىغا قارىتىلغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەسلىمە خاراكتېرلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұрынғы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мурункуга багытталган"
+                ]
+            }
+        }
+    ]
+}
+```
+

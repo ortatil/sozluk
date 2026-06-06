@@ -1,0 +1,69 @@
+{
+    "id": "i77801",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fig",
+    "en_definition": "fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried",
+    "tr_word": "incir",
+    "tr_definition": "Taze, kurutulmuş veya reçel olarak tüketilen, armut biçimli, etli ve tatlı meyve.",
+    "ru_word": "инжир",
+    "ru_definition": "Мясистый сладкий грушевидный плод фигового дерева, употребляемый в свежем или сушеном виде.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "incir"
+                ],
+                "Azerbaijani": [
+                    "əncir"
+                ],
+                "Turkmen": [
+                    "injir"
+                ],
+                "Uzbek": [
+                    "anjir"
+                ],
+                "Uyghur": [
+                    "ئەنجۈر"
+                ],
+                "Kazakh": [
+                    "інжір",
+                    "інжір ағашы",
+                    "анжыр"
+                ],
+                "Kyrgyz": [
+                    "инжир",
+                    "анжыр"
+                ],
+                "Karakalpak": [
+                    "injir",
+                    "ánjir"
+                ],
+                "Tatar": [
+                    "инҗир"
+                ],
+                "Bashkir": [
+                    "инжир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "фиг"
+                ],
+                "Bashkir": [
+                    "фиг"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemiş"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "i50329",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "back door",
+    "en_definition": "an entrance at the rear of a building",
+    "tr_word": "arka kapı",
+    "tr_definition": "bir binanın arka tarafında bulunan giriş",
+    "ru_word": "задняя дверь",
+    "ru_definition": "вход в задней части здания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arka kapı",
+                    "ard kapı"
+                ],
+                "Azerbaijani": [
+                    "arxa qapı"
+                ],
+                "Turkmen": [
+                    "arka gapy"
+                ],
+                "Uzbek": [
+                    "orqa eshik"
+                ],
+                "Uyghur": [
+                    "ئارقا ئىشىك"
+                ],
+                "Kazakh": [
+                    "артқы есік"
+                ],
+                "Kyrgyz": [
+                    "арткы эшик",
+                    "арткы капка"
+                ],
+                "Karakalpak": [
+                    "artqı esіk"
+                ],
+                "Tatar": [
+                    "арткы ишек",
+                    "арт ишек"
+                ],
+                "Bashkir": [
+                    "артҡы ишек",
+                    "артҡы ҡапҡа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geri kapı"
+                ],
+                "Uyghur": [
+                    "كەينى ئىشىك"
+                ],
+                "Kazakh": [
+                    "кейінгі есік"
+                ],
+                "Karakalpak": [
+                    "keyіngі esіk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dal qapı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzdaky gapy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gizlin gapy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pinhoniy eshik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "төркү эшик"
+                ]
+            }
+        }
+    ]
+}

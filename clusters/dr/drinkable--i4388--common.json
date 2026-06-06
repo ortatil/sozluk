@@ -1,0 +1,95 @@
+{
+    "id": "i4388",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "drinkable",
+    "en_definition": "suitable for drinking",
+    "tr_word": "içilebilir",
+    "tr_definition": "içilmeye uygun olan, içilmesi güvenli veya lezzetli olan",
+    "ru_word": "питьевой",
+    "ru_definition": "пригодный для питья",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "içilebilir",
+                    "içilir",
+                    "içmeye uygun"
+                ],
+                "Azerbaijani": [
+                    "içməli",
+                    "içilə bilən"
+                ],
+                "Turkmen": [
+                    "içilýän",
+                    "içerlikli",
+                    "içmäge ýaramly"
+                ],
+                "Uzbek": [
+                    "ichimli",
+                    "ichishga yaroqli",
+                    "ichsa bo'ladigan"
+                ],
+                "Uyghur": [
+                    "ئىچىشكە بولىدىغان",
+                    "ئىچىشلىك",
+                    "ئىچىشكە مۇۋاپىق"
+                ],
+                "Kyrgyz": [
+                    "ичме",
+                    "ичсе болот"
+                ],
+                "Tatar": [
+                    "эчәрлек",
+                    "эчәргә яраклы",
+                    "эчәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "iste'molbop"
+                ],
+                "Kazakh": [
+                    "ішуге жарамды",
+                    "ішуге болатын",
+                    "ішілетін"
+                ],
+                "Karakalpak": [
+                    "ishioge jaramlı",
+                    "ishimlik"
+                ],
+                "Bashkir": [
+                    "эсерлек",
+                    "эсергә яраҡлы",
+                    "эсеүгә яраҡлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nuşedilməli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ичүүгө жарамдуу",
+                    "ичүүгө жарактуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ishiletuǵın"
+                ]
+            }
+        }
+    ]
+}

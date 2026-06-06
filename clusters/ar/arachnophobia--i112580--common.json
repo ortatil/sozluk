@@ -1,0 +1,74 @@
+{
+    "id": "i112580",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "arachnophobia",
+    "en_definition": "a morbid fear of spiders",
+    "tr_word": "araknofobi",
+    "tr_definition": "örümceklerden duyulan aşırı ve mantıksız korku",
+    "ru_word": "арахнофобия",
+    "ru_definition": "боязнь паукообразных, частный случай зоофобии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "örümcek korkusu",
+                    "örümcek fobisi"
+                ],
+                "Azerbaijani": [
+                    "hörümçək qorxusu",
+                    "hörümçəkdən qorxma"
+                ],
+                "Uzbek": [
+                    "o'rgimchakdan qo'rqish",
+                    "o'rgimchak vahimasi",
+                    "o'rgimchak xavfi"
+                ],
+                "Karakalpak": [
+                    "órmekshiden qorqınısh",
+                    "órmekshiden úrey",
+                    "órmekshiden seskenúú"
+                ],
+                "Tatar": [
+                    "үрмәкүчтән курку",
+                    "үрмәкүч куркуы",
+                    "үрмәкүч вәхшәте"
+                ],
+                "Bashkir": [
+                    "үрмәксе ҡурҡыуы",
+                    "үрмәксәнән ҡурҡыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆمۈچۈك قورقۇنچى",
+                    "ئۆمۈچۈكتىن قورقۇش"
+                ],
+                "Kazakh": [
+                    "өрмекші қорқынышы",
+                    "өрмекшіден шошу",
+                    "өрмекші үрейі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "möý gorkusy",
+                    "möýden gorkma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жөргөмүштөн коркуу",
+                    "жөргөмүш коркунучу"
+                ]
+            }
+        }
+    ]
+}

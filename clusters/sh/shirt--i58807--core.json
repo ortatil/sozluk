@@ -1,0 +1,115 @@
+{
+    "id": "i58807",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "shirt",
+    "en_definition": "a garment worn on the upper half of the body",
+    "tr_word": "gömlek",
+    "tr_definition": "Vücudun üst kısmına giyilen, genellikle yakalı ve düğmeli giysi.",
+    "ru_word": "рубашка",
+    "ru_definition": "Одежда для верхней части тела, обычно с воротником и пуговицами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gömlek"
+                ],
+                "Azerbaijani": [
+                    "köynək"
+                ],
+                "Turkmen": [
+                    "köýnek"
+                ],
+                "Uzbek": [
+                    "ko'ylak"
+                ],
+                "Uyghur": [
+                    "كۆڭلەك"
+                ],
+                "Kazakh": [
+                    "көйлек"
+                ],
+                "Kyrgyz": [
+                    "көйнөк"
+                ],
+                "Karakalpak": [
+                    "kóylek"
+                ],
+                "Tatar": [
+                    "күлмәк",
+                    "күңеллек"
+                ],
+                "Bashkir": [
+                    "күлдәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jame"
+                ],
+                "Uzbek": [
+                    "jamdon"
+                ],
+                "Uyghur": [
+                    "جامە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жейде"
+                ],
+                "Kyrgyz": [
+                    "жейде"
+                ],
+                "Karakalpak": [
+                    "jeyde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qamis"
+                ],
+                "Bashkir": [
+                    "күмәс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "libas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "geyim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hilat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mintan"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "id": "i24799",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "remember",
+    "en_definition": "recall knowledge from memory; have a recollection",
+    "tr_word": "hatırlamak",
+    "tr_definition": "bellekteki bilgileri geri çağırmak; bir şeyi anımsamak",
+    "ru_word": "помнить",
+    "ru_definition": "удерживать в памяти, не забывать; восстанавливать в памяти",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yad etmek"
+                ],
+                "Azerbaijani": [
+                    "yadına salmaq",
+                    "yadda saxlamaq"
+                ],
+                "Turkmen": [
+                    "ýatlamak",
+                    "ýada salmak",
+                    "ýatda saklamak"
+                ],
+                "Uzbek": [
+                    "yodga olmoq",
+                    "yodda tutmoq"
+                ],
+                "Uyghur": [
+                    "يادلاش",
+                    "يادقا كەلتۈرۈش"
+                ],
+                "Kazakh": [
+                    "жадында ұстау"
+                ],
+                "Kyrgyz": [
+                    "жадында тутуу"
+                ],
+                "Karakalpak": [
+                    "yadına túsіrіo",
+                    "yadında tutıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eslamoq"
+                ],
+                "Uyghur": [
+                    "ئەسلەش"
+                ],
+                "Kazakh": [
+                    "еске алу",
+                    "есте сақтау"
+                ],
+                "Kyrgyz": [
+                    "эстөө",
+                    "эске алуу",
+                    "эсте сактоо"
+                ],
+                "Karakalpak": [
+                    "eske túsіrіo",
+                    "este saqlao"
+                ],
+                "Tatar": [
+                    "истә тоту",
+                    "искә төшерү",
+                    "истә калдыру"
+                ],
+                "Bashkir": [
+                    "иҫкә төшөрөү",
+                    "иҫтә тотоу",
+                    "иҫләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hatırlamak"
+                ],
+                "Azerbaijani": [
+                    "xatırlamaq"
+                ],
+                "Uzbek": [
+                    "xotirlamoq"
+                ],
+                "Uyghur": [
+                    "خاتىرىلەش"
+                ],
+                "Tatar": [
+                    "хәтерләү"
+                ],
+                "Bashkir": [
+                    "хәтерләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anımsamak"
+                ],
+                "Azerbaijani": [
+                    "anmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zihne getirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұмытпау"
+                ]
+            }
+        }
+    ]
+}

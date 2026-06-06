@@ -1,0 +1,135 @@
+{
+    "id": "i110266",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nationality",
+    "en_definition": "the status of belonging to a particular nation by birth or naturalization",
+    "tr_word": "uyruk",
+    "tr_definition": "Bir kimsenin doğumla veya sonradan bir devlete bağlanması durumu, milliyet.",
+    "ru_word": "гражданство",
+    "ru_definition": "Правовая принадлежность лица к определённому государству по рождению или натурализации.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tabiiyet"
+                ],
+                "Azerbaijani": [
+                    "milliyyət"
+                ],
+                "Turkmen": [
+                    "milliýet"
+                ],
+                "Uzbek": [
+                    "millat",
+                    "milliyat"
+                ],
+                "Uyghur": [
+                    "مىللەت",
+                    "مىللىيەت"
+                ],
+                "Karakalpak": [
+                    "millet",
+                    "milletligi"
+                ],
+                "Tatar": [
+                    "милләт",
+                    "миллият"
+                ],
+                "Bashkir": [
+                    "милләт",
+                    "миллилек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təbəəlik"
+                ],
+                "Uyghur": [
+                    "تەۋەلىك"
+                ],
+                "Kyrgyz": [
+                    "теги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uyruk"
+                ],
+                "Azerbaijani": [
+                    "uyruqluq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "milliyet"
+                ],
+                "Turkmen": [
+                    "millet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұлт",
+                    "ұлттық"
+                ],
+                "Kyrgyz": [
+                    "улут",
+                    "улуттук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vətəndaşlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "raýatlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "fuqarolik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "азаматтық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жарандык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "халыклык"
+                ]
+            }
+        }
+    ]
+}

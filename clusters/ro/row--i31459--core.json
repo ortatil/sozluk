@@ -1,0 +1,79 @@
+{
+    "id": "i31459",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "row",
+    "en_definition": "propel with oars",
+    "tr_word": "kürek çekmek",
+    "tr_definition": "bir tekneyi kürekler yardımıyla hareket ettirmek",
+    "ru_word": "грести",
+    "ru_definition": "приводить лодку в движение с помощью весел",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eshkak eshmoq",
+                    "eshkak urmoq"
+                ],
+                "Kazakh": [
+                    "есу"
+                ],
+                "Kyrgyz": [
+                    "эшүү"
+                ],
+                "Karakalpak": [
+                    "eskek esio",
+                    "esio"
+                ],
+                "Tatar": [
+                    "ишү",
+                    "ишкәк ишү"
+                ],
+                "Bashkir": [
+                    "ишкәк ишеү",
+                    "ишеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kürek çekmek",
+                    "küreklemek"
+                ],
+                "Turkmen": [
+                    "küreklemek",
+                    "kürek urmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қалақпен есу"
+                ],
+                "Kyrgyz": [
+                    "калак кагуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "avar çəkmək",
+                    "avar vurmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېمە ھەيدىمەك",
+                    "كېمە تارتماق",
+                    "كېمە سۈرمەك"
+                ]
+            }
+        }
+    ]
+}

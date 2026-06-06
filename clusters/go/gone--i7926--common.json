@@ -1,0 +1,171 @@
+{
+    "id": "i7926",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "gone",
+    "en_definition": "no longer retained",
+    "tr_word": "kayıp",
+    "tr_definition": "artık elde tutulmayan veya mevcut olmayan",
+    "ru_word": "утраченный",
+    "ru_definition": "больше не удерживаемый или не сохраняемый",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yok"
+                ],
+                "Azerbaijani": [
+                    "yox"
+                ],
+                "Turkmen": [
+                    "ýok"
+                ],
+                "Uzbek": [
+                    "yoʻqolgan"
+                ],
+                "Uyghur": [
+                    "يوق",
+                    "يوقالغان"
+                ],
+                "Kazakh": [
+                    "жоқ"
+                ],
+                "Kyrgyz": [
+                    "жок",
+                    "жоголгон"
+                ],
+                "Karakalpak": [
+                    "joq"
+                ],
+                "Tatar": [
+                    "югалган",
+                    "юк"
+                ],
+                "Bashkir": [
+                    "юғалған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "giden"
+                ],
+                "Uzbek": [
+                    "ketgan",
+                    "bitgan"
+                ],
+                "Uyghur": [
+                    "كەتكەن"
+                ],
+                "Kazakh": [
+                    "кеткен",
+                    "біткен"
+                ],
+                "Kyrgyz": [
+                    "кеткен",
+                    "бүткөн"
+                ],
+                "Karakalpak": [
+                    "ketken",
+                    "bіtken"
+                ],
+                "Tatar": [
+                    "киткән"
+                ],
+                "Bashkir": [
+                    "бөткән",
+                    "киткән",
+                    "бөткән-бөткән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kayıp",
+                    "zayi"
+                ],
+                "Azerbaijani": [
+                    "qeyb"
+                ],
+                "Uzbek": [
+                    "gʻoyib"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tugalgan"
+                ],
+                "Uyghur": [
+                    "تۈگىگەن"
+                ],
+                "Kyrgyz": [
+                    "түгөнгөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gitmiş"
+                ],
+                "Azerbaijani": [
+                    "itmiş",
+                    "itirilmiş",
+                    "getmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "galmadyk"
+                ],
+                "Kazakh": [
+                    "қалмаған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таусылған"
+                ],
+                "Karakalpak": [
+                    "taosılǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tamam"
+                ],
+                "Tatar": [
+                    "тамам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gutaran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бөтен"
+                ]
+            }
+        }
+    ]
+}

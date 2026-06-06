@@ -1,0 +1,121 @@
+{
+    "id": "i79342",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "car company",
+    "en_definition": "a company that makes and sells automobiles",
+    "tr_word": "otomobil şirketi",
+    "tr_definition": "otomobil üreten ve satan şirket",
+    "ru_word": "автомобильная компания",
+    "ru_definition": "компания, которая производит и продает автомобили",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "maşın şirkəti"
+                ],
+                "Turkmen": [
+                    "maşyn kärhanasy"
+                ],
+                "Uzbek": [
+                    "mashina shirkati",
+                    "mashinasozlik korxonasi"
+                ],
+                "Uyghur": [
+                    "ماشىنا شىركىتى",
+                    "ماشىنا زاۋۇتى"
+                ],
+                "Kazakh": [
+                    "мәшіне зауыты"
+                ],
+                "Karakalpak": [
+                    "mashina kárxanası"
+                ],
+                "Tatar": [
+                    "машина ширкәте",
+                    "машина җитештерүче"
+                ],
+                "Bashkir": [
+                    "машиналар етештереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otomobil şirketi",
+                    "otomobil fabrikası",
+                    "otomobil firması"
+                ],
+                "Azerbaijani": [
+                    "avtomobil şirkəti",
+                    "avtomobil istehsalçısı"
+                ],
+                "Uyghur": [
+                    "ئاپتوموبىل شىركىتى"
+                ],
+                "Kyrgyz": [
+                    "автоунаа компаниясы"
+                ],
+                "Karakalpak": [
+                    "awtomobil kárxanası",
+                    "awtomobil islep shıǵarıoshı"
+                ],
+                "Tatar": [
+                    "автомобиль ширкәте",
+                    "автомобиль ясаучы"
+                ],
+                "Bashkir": [
+                    "автомобиль ширҡәте",
+                    "автомобиль етештереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "awtoulag kärhanasy",
+                    "awtoulag öndürijisi"
+                ],
+                "Uzbek": [
+                    "avtomobil korxonasi"
+                ],
+                "Kazakh": [
+                    "автокөлік кәсіпорны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araba üreticisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "avtomobil shirkati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік компаниясы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа ишканасы",
+                    "унаа өндүрүүчү"
+                ]
+            }
+        }
+    ]
+}

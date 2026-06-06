@@ -1,0 +1,83 @@
+{
+    "id": "i117155",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mid-february",
+    "en_definition": "the middle part of February",
+    "tr_word": "Şubat ortası",
+    "tr_definition": "Şubat ayının orta kısmı",
+    "ru_word": "середина февраля",
+    "ru_definition": "средняя часть февраля",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fevralın ortası",
+                    "fevralın ortaları"
+                ],
+                "Turkmen": [
+                    "fewralyň ortasy",
+                    "fewral aýynyň ortasy"
+                ],
+                "Uzbek": [
+                    "fevral o'rtasi",
+                    "fevralning o'rtasi"
+                ],
+                "Uyghur": [
+                    "فېۋرالنىڭ ئوتتۇرىلىرى",
+                    "فېۋرال ئوتتۇرىسى"
+                ],
+                "Kyrgyz": [
+                    "февралдын ортосу"
+                ],
+                "Karakalpak": [
+                    "fewraldıń ortası"
+                ],
+                "Tatar": [
+                    "февраль уртасы"
+                ],
+                "Bashkir": [
+                    "февраль уртаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "бирдин айынын ортосу"
+                ],
+                "Tatar": [
+                    "буран айы уртасы"
+                ],
+                "Bashkir": [
+                    "буранай уртаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şubat ortası",
+                    "şubatın ortası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақпанның ортасы",
+                    "ақпан ортасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dálúttiń ortası"
+                ]
+            }
+        }
+    ]
+}

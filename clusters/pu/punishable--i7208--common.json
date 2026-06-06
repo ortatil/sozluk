@@ -1,0 +1,138 @@
+{
+    "id": "i7208",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "punishable",
+    "en_definition": "liable to or deserving punishment",
+    "tr_word": "cezalandırılabilir",
+    "tr_definition": "cezayı gerektiren veya ceza verilmesine uygun olan",
+    "ru_word": "наказуемый",
+    "ru_definition": "подлежащий наказанию или заслуживающий его",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cezalandırılabilir",
+                    "cezayı gerektiren"
+                ],
+                "Azerbaijani": [
+                    "cəzalandırıla bilən",
+                    "cəzaya layiq"
+                ],
+                "Turkmen": [
+                    "jezalandyrylýan",
+                    "jezalandyrylmaly"
+                ],
+                "Uzbek": [
+                    "jazoga loyiq",
+                    "jazoga mustahiq",
+                    "jazolanadigan"
+                ],
+                "Uyghur": [
+                    "جازالىنىدىغان",
+                    "جازاغا لايىق",
+                    "جازا بېرىلىدىغان",
+                    "جازاغا مۇستەھەق"
+                ],
+                "Kazakh": [
+                    "жазалы",
+                    "жазалануға тиіс"
+                ],
+                "Kyrgyz": [
+                    "жазалануучу",
+                    "жазага татыктуу"
+                ],
+                "Karakalpak": [
+                    "jazalanatuǵın",
+                    "jazaǵa ılayıq"
+                ],
+                "Tatar": [
+                    "җәзалы",
+                    "җәзага лаек",
+                    "җәза бирелерлек"
+                ],
+                "Bashkir": [
+                    "язалы",
+                    "язаға лайыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aybdor"
+                ],
+                "Kazakh": [
+                    "айыпты"
+                ],
+                "Kyrgyz": [
+                    "айыптуу"
+                ],
+                "Karakalpak": [
+                    "ayıplı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kúnáli"
+                ],
+                "Bashkir": [
+                    "гөнаһлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müstahak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "suç sayılan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məsuliyyətli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "günäkär"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "takgyrly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хөкем ителерлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яуаплы"
+                ]
+            }
+        }
+    ]
+}

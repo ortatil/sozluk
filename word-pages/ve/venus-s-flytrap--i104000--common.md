@@ -1,0 +1,155 @@
+# Venus's flytrap
+| Field | Detail |
+|---|---|
+| **ID** | i104000 |
+| **English** | venus's flytrap |
+| **Type** | noun |
+| **Definition** | carnivorous plant of coastal plains of the Carolinas having sensitive hinged marginally bristled leaf blades that close and entrap insects |
+| **Source** | common |
+| **Ortatil** | sinekkapan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| шыбынжұт | şıbınjut |
+| шыбыншы | şıbınşı |
+
+```json
+{
+    "id": "i104000",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "venus's flytrap",
+    "en_definition": "carnivorous plant of coastal plains of the Carolinas having sensitive hinged marginally bristled leaf blades that close and entrap insects",
+    "tr_word": "venüs sinekkapanı",
+    "tr_definition": "Carolina kıyı ovalarına özgü, böcekleri yakalamak için hızla kapanan hassas, tüylü ve menteşeli yapraklara sahip etçil bitki.",
+    "ru_word": "венерина мухоловка",
+    "ru_definition": "хищное растение прибрежных равнин Каролины, имеющее чувствительные шарнирные листья с щетинками по краям, которые закрываются и захватывают насекомых.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چىۋىن تۇتقۇچى"
+                ],
+                "Kazakh": [
+                    "шыбынжұт",
+                    "шыбыншы"
+                ],
+                "Kyrgyz": [
+                    "чымын кармагыч",
+                    "чымын жегич"
+                ],
+                "Tatar": [
+                    "чыбын тоткыч",
+                    "чыбын ашаучы үлән"
+                ],
+                "Bashkir": [
+                    "себен тотҡос",
+                    "себен ашаусы үлән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "venüs sinekkapanı"
+                ],
+                "Azerbaijani": [
+                    "venera milçəkqapanı"
+                ],
+                "Uzbek": [
+                    "venera pashshatutari"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həşəratyeyən bitki"
+                ],
+                "Uzbek": [
+                    "hasharotxoʻr oʻsimlik"
+                ],
+                "Uyghur": [
+                    "ھاشاراتخور ئۆسۈملۈك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sinekkapan"
+                ],
+                "Turkmen": [
+                    "siňekgapan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "böcekçil bitki"
+                ],
+                "Tatar": [
+                    "бөҗәк ашаучы үлән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жәндікжегіш өсімдік"
+                ],
+                "Karakalpak": [
+                    "jándіk jeushi ósimlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "milçəkqapan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mör-möjek iýýän ösümlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pashshaxoʻr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "курт-кумурска жегич өсүмдүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shıbınshı",
+                    "shıbın-tutqısh"
+                ]
+            }
+        }
+    ]
+}
+```
+

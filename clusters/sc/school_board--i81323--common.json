@@ -1,0 +1,107 @@
+{
+    "id": "i81323",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "school board",
+    "en_definition": "a board in charge of local public schools",
+    "tr_word": "okul aile birliği",
+    "tr_definition": "yerel devlet okullarının yönetiminden sorumlu olan kurul",
+    "ru_word": "школьный совет",
+    "ru_definition": "совет, отвечающий за управление местными государственными школами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məktəb şurası",
+                    "məktəb heyəti"
+                ],
+                "Turkmen": [
+                    "mekdep geňeşi",
+                    "mekdep dolandyryşy"
+                ],
+                "Uzbek": [
+                    "maktab kengashi",
+                    "maorif kengashi"
+                ],
+                "Uyghur": [
+                    "مەكتەپ باشقۇرۇش ھەيئىتى"
+                ],
+                "Kazakh": [
+                    "мектеп кеңесі"
+                ],
+                "Kyrgyz": [
+                    "мектеп кеңеши"
+                ],
+                "Karakalpak": [
+                    "mektep keńesi"
+                ],
+                "Tatar": [
+                    "мәгариф шурасы",
+                    "мәктәп идарәсе",
+                    "мәгариф комитеты"
+                ],
+                "Bashkir": [
+                    "мәғариф шураһы",
+                    "мәктәп идараһы",
+                    "мәғариф кәңәшмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "okul aile birliği",
+                    "okul heyeti",
+                    "okul meclisi",
+                    "okul yönetim kurulu"
+                ],
+                "Kazakh": [
+                    "оқу кеңесі"
+                ],
+                "Kyrgyz": [
+                    "окуу кеңеши"
+                ],
+                "Karakalpak": [
+                    "oqıo keńesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bilim geňeşi"
+                ],
+                "Uzbek": [
+                    "ta'lim hay'ati"
+                ],
+                "Kazakh": [
+                    "білім алқасы"
+                ],
+                "Kyrgyz": [
+                    "билим берүү кеңеши"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مائارىپ ھەيئىتى",
+                    "مائارىپ كېڭىشى"
+                ],
+                "Karakalpak": [
+                    "maarip keńesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təhsil şurası"
+                ]
+            }
+        }
+    ]
+}

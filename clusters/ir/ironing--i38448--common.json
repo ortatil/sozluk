@@ -1,0 +1,63 @@
+{
+    "id": "i38448",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ironing",
+    "en_definition": "the work of using heat to smooth washed clothes in order to remove any wrinkles",
+    "tr_word": "ütüleme",
+    "tr_definition": "yıkanmış giysilerdeki kırışıklıkları gidermek için ısı kullanarak düzeltme işi",
+    "ru_word": "глажка",
+    "ru_definition": "процесс разглаживания выстиранной одежды с помощью тепла для удаления складок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ütü",
+                    "ütüleme",
+                    "ütü işi"
+                ],
+                "Azerbaijani": [
+                    "ütüləmə",
+                    "ütü"
+                ],
+                "Turkmen": [
+                    "ütüleme",
+                    "ütüleme işi"
+                ],
+                "Uyghur": [
+                    "ئۈتۈكلەش",
+                    "ئۈتۈك قىلىش"
+                ],
+                "Kazakh": [
+                    "үтіктеу",
+                    "үтік басу"
+                ],
+                "Kyrgyz": [
+                    "үтүктөө",
+                    "үтүк"
+                ],
+                "Karakalpak": [
+                    "útikleo",
+                    "útikleme"
+                ],
+                "Tatar": [
+                    "үтүкләү",
+                    "үтүк"
+                ],
+                "Bashkir": [
+                    "үтекләү",
+                    "үтек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dazmollash",
+                    "dazmol qilish"
+                ]
+            }
+        }
+    ]
+}

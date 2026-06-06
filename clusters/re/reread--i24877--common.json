@@ -1,0 +1,110 @@
+{
+    "id": "i24877",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "reread",
+    "en_definition": "read anew; read again",
+    "tr_word": "yeniden okumak",
+    "tr_definition": "bir şeyi bir kez daha veya tekrar okumak",
+    "ru_word": "перечитывать",
+    "ru_definition": "читать что-либо снова или еще раз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden okumak",
+                    "yine okumak"
+                ],
+                "Azerbaijani": [
+                    "yenidən oxumaq"
+                ],
+                "Turkmen": [
+                    "ýene okamak"
+                ],
+                "Uzbek": [
+                    "yana o'qimoq"
+                ],
+                "Kazakh": [
+                    "жаңартып оқу"
+                ],
+                "Tatar": [
+                    "яңадан уку"
+                ],
+                "Bashkir": [
+                    "яңынан уҡыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan okamak"
+                ],
+                "Uzbek": [
+                    "qayta o'qimoq"
+                ],
+                "Uyghur": [
+                    "قايتا ئوقۇماق"
+                ],
+                "Kazakh": [
+                    "қайта оқу",
+                    "қайталап оқу"
+                ],
+                "Kyrgyz": [
+                    "кайра окуу",
+                    "кайталап окуу"
+                ],
+                "Karakalpak": [
+                    "qayta oqıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekrar okumak"
+                ],
+                "Azerbaijani": [
+                    "təkrar oxumaq"
+                ],
+                "Uzbek": [
+                    "takror o'qimoq"
+                ],
+                "Uyghur": [
+                    "تەكرار ئوقۇماق"
+                ],
+                "Karakalpak": [
+                    "tákirarlap oqıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат уку"
+                ],
+                "Bashkir": [
+                    "ҡабат уҡыу",
+                    "ҡабатлап уҡыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzeden okamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "баштан окуу"
+                ]
+            }
+        }
+    ]
+}

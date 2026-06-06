@@ -1,0 +1,101 @@
+{
+    "id": "i117115",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "school year",
+    "en_definition": "the period of time each year when the school is open and people are studying",
+    "tr_word": "okul yılı",
+    "tr_definition": "okulun açık olduğu ve öğrencilerin ders gördüğü yıllık dönem",
+    "ru_word": "учебный год",
+    "ru_definition": "период времени в году, в течение которого проводятся учебные занятия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "oxu ili"
+                ],
+                "Turkmen": [
+                    "okuw ýyly"
+                ],
+                "Uzbek": [
+                    "oʻquv yili"
+                ],
+                "Uyghur": [
+                    "ئوقۇش يىلى"
+                ],
+                "Kazakh": [
+                    "оқу жылы"
+                ],
+                "Kyrgyz": [
+                    "окуу жылы"
+                ],
+                "Karakalpak": [
+                    "oqıu jılı"
+                ],
+                "Tatar": [
+                    "уку елы"
+                ],
+                "Bashkir": [
+                    "уҡыу йылы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tahsil yılı"
+                ],
+                "Uzbek": [
+                    "tahsil yili"
+                ],
+                "Uyghur": [
+                    "تەھسىل يىلى"
+                ],
+                "Tatar": [
+                    "тәхсил елы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ders yılı"
+                ],
+                "Azerbaijani": [
+                    "dərs ili"
+                ],
+                "Turkmen": [
+                    "ders ýyly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bilim ýyly"
+                ],
+                "Bashkir": [
+                    "тәғлим йылы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğretim yılı",
+                    "eğitim yılı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tədris ili"
+                ]
+            }
+        }
+    ]
+}

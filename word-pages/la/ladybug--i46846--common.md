@@ -1,0 +1,206 @@
+# Ladybug
+| Field | Detail |
+|---|---|
+| **ID** | i46846 |
+| **English** | ladybug |
+| **Type** | noun |
+| **Definition** | small round bright-colored and spotted beetle that usually feeds on aphids and other insect pests |
+| **Source** | common |
+| **Ortatil** | hanqızı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **hanqızı** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.73** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| خېنىمقىز | xenimqiz |
+| توشقانچاق | toşqançaq |
+| توشقانچە | toşqançä |
+| **Kazakh** | |
+| ханқызы | xanqızı |
+| бикеш | bikeş |
+| тәңірқұрт | täñirqurt |
+| **Kyrgyz** | |
+| кызгалдак | kızgaldak |
+| коңуз | koñuz |
+| **Tatar** | |
+| бикәч | bikäç |
+| кызбикә | kızbikä |
+| **Bashkir** | |
+| ҡуңыҙ | quñız |
+
+```json
+{
+    "id": "i46846",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ladybug",
+    "en_definition": "small round bright-colored and spotted beetle that usually feeds on aphids and other insect pests",
+    "tr_word": "uğur böceği",
+    "tr_definition": "genellikle yaprak bitleri ve diğer böcek zararlılarıyla beslenen, küçük, yuvarlak, parlak renkli ve benekli bir kın kanatlı böcek",
+    "ru_word": "божья коровка",
+    "ru_definition": "маленький круглый ярко окрашенный пятнистый жук, который обычно питается тлей и другими насекомыми-вредителями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hanymgyz"
+                ],
+                "Uzbek": [
+                    "xonqizi"
+                ],
+                "Uyghur": [
+                    "خېنىمقىز"
+                ],
+                "Kazakh": [
+                    "ханқызы"
+                ],
+                "Karakalpak": [
+                    "xanqızı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gelin böceği"
+                ],
+                "Turkmen": [
+                    "gelinjik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pissegelin",
+                    "pissegelinjik"
+                ],
+                "Bashkir": [
+                    "биҙәкле ҡуңыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бикеш"
+                ],
+                "Tatar": [
+                    "бикәч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тәңірқұрт"
+                ],
+                "Tatar": [
+                    "тәңре коңгызы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кызгалдак",
+                    "кызыл коңуз"
+                ],
+                "Tatar": [
+                    "кызбикә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коңуз"
+                ],
+                "Bashkir": [
+                    "ҡуңыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uğur böceği",
+                    "uçuç böceği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "parabüzən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maralça"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fatımagülü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "moshguruch"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توشقانچاق",
+                    "توشقانچە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bibixan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "алла ҡуңыҙы"
+                ]
+            }
+        }
+    ]
+}
+```
+

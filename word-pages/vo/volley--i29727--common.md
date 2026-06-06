@@ -1,0 +1,191 @@
+# Volley
+| Field | Detail |
+|---|---|
+| **ID** | i29727 |
+| **English** | volley |
+| **Type** | verb |
+| **Definition** | hit before it touches the ground |
+| **Source** | common |
+| **Ortatil** | qaytarmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| илүү | ilüü |
+| **Tatar** | |
+| кайтару | kaytaru |
+| бәрү | bärü |
+| сугу | sugu |
+
+```json
+{
+    "id": "i29727",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "volley",
+    "en_definition": "hit before it touches the ground",
+    "tr_word": "vole vurmak",
+    "tr_definition": "top yere değmeden havada vurmak",
+    "ru_word": "отбивать с лёта",
+    "ru_definition": "ударять по мячу до того, как он коснется земли",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yerə dəymədən vurmaq"
+                ],
+                "Turkmen": [
+                    "ýere degirmän urmak"
+                ],
+                "Uzbek": [
+                    "yerga tushirmay urmoq"
+                ],
+                "Uyghur": [
+                    "يەرگە تەگكۈزمەي ئۇرۇش"
+                ],
+                "Kazakh": [
+                    "жерге түсірмей соғу"
+                ],
+                "Karakalpak": [
+                    "jerge tigіzbey urıu"
+                ],
+                "Bashkir": [
+                    "ергә тейҙермәй һуғыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "havadan vurmak"
+                ],
+                "Azerbaijani": [
+                    "havada vurmaq"
+                ],
+                "Turkmen": [
+                    "howada urmak"
+                ],
+                "Uzbek": [
+                    "havoda urmoq"
+                ],
+                "Uyghur": [
+                    "ھاۋادىن ئۇرۇش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qaytarmoq"
+                ],
+                "Kazakh": [
+                    "қағып алу"
+                ],
+                "Kyrgyz": [
+                    "кагып алуу"
+                ],
+                "Karakalpak": [
+                    "qaǵıp alıu",
+                    "qaǵıp jiberio"
+                ],
+                "Tatar": [
+                    "кайтару"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "göydə vurmaq"
+                ],
+                "Turkmen": [
+                    "göni urmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тосуп алуу",
+                    "тосуп уруу"
+                ],
+                "Bashkir": [
+                    "осоп килгәндә һуғыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vole vurmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gelişine vurmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەگمەي ئۇرۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іліп алу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуеден соғу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәрү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сугу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һауанан һуғыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,157 @@
+{
+    "id": "i56807",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "outfit",
+    "en_definition": "a set of clothing (with accessories)",
+    "tr_word": "kıyafet",
+    "tr_definition": "bir bütün oluşturan giysi ve aksesuar seti",
+    "ru_word": "наряд",
+    "ru_definition": "комплект одежды (с аксессуарами)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıyafet",
+                    "giysi"
+                ],
+                "Azerbaijani": [
+                    "geyim"
+                ],
+                "Uzbek": [
+                    "kiyim",
+                    "kiyim-kechak"
+                ],
+                "Uyghur": [
+                    "كىيىم-كېچەك",
+                    "كىيىم"
+                ],
+                "Kazakh": [
+                    "киім",
+                    "киім-кешек"
+                ],
+                "Kyrgyz": [
+                    "кийим",
+                    "кийим-кече",
+                    "кийит"
+                ],
+                "Karakalpak": [
+                    "kiyim-keshek",
+                    "kiyim"
+                ],
+                "Tatar": [
+                    "кием",
+                    "кием-салым",
+                    "кием-кичәк",
+                    "кыяфәт"
+                ],
+                "Bashkir": [
+                    "кейем-һалым",
+                    "кейем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "libas"
+                ],
+                "Azerbaijani": [
+                    "libas"
+                ],
+                "Turkmen": [
+                    "lybas"
+                ],
+                "Uzbek": [
+                    "libos"
+                ],
+                "Uyghur": [
+                    "لىباس"
+                ],
+                "Karakalpak": [
+                    "lipas"
+                ],
+                "Bashkir": [
+                    "либас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "esvap"
+                ],
+                "Turkmen": [
+                    "eşik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üst-baş"
+                ],
+                "Uzbek": [
+                    "ust-bosh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жарақ"
+                ],
+                "Kyrgyz": [
+                    "жасалга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сауыт-сайман"
+                ],
+                "Karakalpak": [
+                    "saoat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paltar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "geyim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "don-geyim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡат-ҡат"
+                ]
+            }
+        }
+    ]
+}

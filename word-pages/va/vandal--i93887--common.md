@@ -1,0 +1,248 @@
+# Vandal
+| Field | Detail |
+|---|---|
+| **ID** | i93887 |
+| **English** | vandal |
+| **Type** | noun |
+| **Definition** | someone who willfully destroys or defaces property |
+| **Source** | common |
+| **Ortatil** | bozğunçu |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **bozğunçu** | **ğiratuwçu** | **bülduruçu** |
+|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.80 | 0.60 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **3.67** | **1.30** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بۇزغۇنچى | buzğunçi |
+| **Kazakh** | |
+| бұзушы | buzuşı |
+| қиратушы | qiratuşı |
+| бүлдіруші | büldiruşi |
+| зиянкес | ziyankes |
+| **Kyrgyz** | |
+| бузуку | buzuku |
+| кыйратуучу | kıyratuuçu |
+| бүлгүнчү | bülgünçü |
+| талкалоочу | talkalooçu |
+| **Tatar** | |
+| бозучы | bozuçı |
+| ватучы | vatuçı |
+| җимерүче | jimerüçe |
+| хәрабәче | xärabäçe |
+| **Bashkir** | |
+| боҙоусы | bozousı |
+| ҡыйратыусы | qıyratıusı |
+| емереүсе | yemereüse |
+
+```json
+{
+    "id": "i93887",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vandal",
+    "en_definition": "someone who willfully destroys or defaces property",
+    "tr_word": "vandal",
+    "tr_definition": "kamu veya özel mülkiyete bilerek ve isteyerek zarar veren, tahrip eden kimse",
+    "ru_word": "вандал",
+    "ru_definition": "человек, который намеренно разрушает или оскверняет частную или общественную собственность",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bozguncu"
+                ],
+                "Turkmen": [
+                    "bozujy"
+                ],
+                "Uzbek": [
+                    "buzg'unchi"
+                ],
+                "Uyghur": [
+                    "بۇزغۇنچى",
+                    "بۇزغۇنچىلىق قىلغۇچى"
+                ],
+                "Kazakh": [
+                    "бұзушы"
+                ],
+                "Kyrgyz": [
+                    "бузуку"
+                ],
+                "Karakalpak": [
+                    "bұzushı"
+                ],
+                "Tatar": [
+                    "бозучы"
+                ],
+                "Bashkir": [
+                    "боҙоусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "g'oratgar"
+                ],
+                "Kazakh": [
+                    "қиратушы"
+                ],
+                "Kyrgyz": [
+                    "кыйратуучу"
+                ],
+                "Karakalpak": [
+                    "qiratushı"
+                ],
+                "Bashkir": [
+                    "ҡыйратыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "viranedici"
+                ],
+                "Uzbek": [
+                    "vayronkor"
+                ],
+                "Uyghur": [
+                    "ۋەيران قىلغۇچى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бүлдіруші"
+                ],
+                "Kyrgyz": [
+                    "бүлгүнчү"
+                ],
+                "Karakalpak": [
+                    "búldіrushі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahripçi"
+                ],
+                "Azerbaijani": [
+                    "dağıdıcı",
+                    "təxribatçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yıkıcı"
+                ],
+                "Karakalpak": [
+                    "jauız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zarar verici"
+                ],
+                "Uzbek": [
+                    "zararkunanda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hyýanatçy"
+                ],
+                "Bashkir": [
+                    "зыян килтереүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "betpäl"
+                ],
+                "Tatar": [
+                    "ватучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җимерүче"
+                ],
+                "Bashkir": [
+                    "емереүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müfsid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "weýrançy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зиянкес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "талкалоочу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәрабәче"
+                ]
+            }
+        }
+    ]
+}
+```
+

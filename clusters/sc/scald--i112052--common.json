@@ -1,0 +1,125 @@
+{
+    "id": "i112052",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "scald",
+    "en_definition": "a burn cause by hot liquid or steam",
+    "tr_word": "haşlanma",
+    "tr_definition": "sıcak sıvı veya buharın neden olduğu yanık",
+    "ru_word": "ожог",
+    "ru_definition": "ожог, вызванный горячей жидкостью или паром",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kuydirma",
+                    "kuyish"
+                ],
+                "Uyghur": [
+                    "كۆيۈك"
+                ],
+                "Kazakh": [
+                    "күйік"
+                ],
+                "Kyrgyz": [
+                    "күйүк"
+                ],
+                "Karakalpak": [
+                    "kúyіk"
+                ],
+                "Bashkir": [
+                    "көйөк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanık"
+                ],
+                "Azerbaijani": [
+                    "yanıq"
+                ],
+                "Turkmen": [
+                    "ýanyk"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qaynoq suvdan kuyish"
+                ],
+                "Uyghur": [
+                    "قايناق سۇ كۆيۈكى"
+                ],
+                "Kazakh": [
+                    "қайнаған су күйігі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haşlanma",
+                    "haşlak"
+                ],
+                "Turkmen": [
+                    "haş",
+                    "haşlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бу күйігі"
+                ],
+                "Karakalpak": [
+                    "bu kúyіgі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ысык күйүк"
+                ],
+                "Karakalpak": [
+                    "ıstıq su kúyіgі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пешү",
+                    "пешкән урын",
+                    "пешкәнлек"
+                ],
+                "Bashkir": [
+                    "бешеү",
+                    "бешкән урын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pörtük",
+                    "pörtmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پار كۆيۈكى"
+                ]
+            }
+        }
+    ]
+}

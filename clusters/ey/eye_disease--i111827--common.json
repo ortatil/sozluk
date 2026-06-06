@@ -1,0 +1,85 @@
+{
+    "id": "i111827",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eye disease",
+    "en_definition": "any disease of the eye",
+    "tr_word": "göz hastalığı",
+    "tr_definition": "Gözün herhangi bir bölümünü etkileyen her türlü hastalık.",
+    "ru_word": "глазная болезнь",
+    "ru_definition": "Любое заболевание органов зрения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz hastalığı",
+                    "göz marazı"
+                ],
+                "Azerbaijani": [
+                    "göz azarı"
+                ],
+                "Turkmen": [
+                    "göz keseli",
+                    "göz dertleri",
+                    "göz yllaty"
+                ],
+                "Uzbek": [
+                    "koʻz kasalligi",
+                    "koʻz xastaligi",
+                    "koʻz illati"
+                ],
+                "Uyghur": [
+                    "كۆز كېسىلى",
+                    "كۆز ئاغرىقى"
+                ],
+                "Kazakh": [
+                    "көз ауруы",
+                    "көз дерті",
+                    "көз кеселі"
+                ],
+                "Kyrgyz": [
+                    "көз оорусу",
+                    "көз илдети",
+                    "көз кесели"
+                ],
+                "Karakalpak": [
+                    "kóz keselligi",
+                    "kóz aoırıoı"
+                ],
+                "Tatar": [
+                    "күз авыруы",
+                    "күз чире"
+                ],
+                "Bashkir": [
+                    "күҙ ауырыуы",
+                    "күҙ чире"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göz illeti"
+                ],
+                "Azerbaijani": [
+                    "göz xəstəliyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "göz mərəzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "илләт"
+                ]
+            }
+        }
+    ]
+}

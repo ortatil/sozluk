@@ -1,0 +1,140 @@
+{
+    "id": "i30338",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "computerize",
+    "en_definition": "control a function, process, or creation by a computer",
+    "tr_word": "bilgisayarlaştırmak",
+    "tr_definition": "bir işi, süreci veya üretimi bilgisayar kontrolüne geçirmek",
+    "ru_word": "компьютеризировать",
+    "ru_definition": "переводить процесс или функцию на управление с помощью компьютера",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtomatlaşdırmaq"
+                ],
+                "Uzbek": [
+                    "avtomatlashtirmoq"
+                ],
+                "Kazakh": [
+                    "автоматтандыру"
+                ],
+                "Kyrgyz": [
+                    "автоматташтыруу"
+                ],
+                "Karakalpak": [
+                    "awtomatlastırıo"
+                ],
+                "Bashkir": [
+                    "автоматлаштырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hasaplaşdyrmak"
+                ],
+                "Uzbek": [
+                    "hisoblash texnikasiga o'tkazmoq"
+                ],
+                "Tatar": [
+                    "хисаплаштыру"
+                ],
+                "Bashkir": [
+                    "хисаплаштырыу",
+                    "хисаплау техникаһына күсереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sanlylaşdyrmak"
+                ],
+                "Kyrgyz": [
+                    "санариптештирүү"
+                ],
+                "Karakalpak": [
+                    "sanlastırıo"
+                ],
+                "Tatar": [
+                    "санакка күчерү",
+                    "санаклаштыру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektronik ortama aktarmak"
+                ],
+                "Turkmen": [
+                    "elektronlaşdyrmak"
+                ],
+                "Uyghur": [
+                    "ئېلېكترونلاشتۇرماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kompüterləşdirmək"
+                ],
+                "Uzbek": [
+                    "kompyuterlashtirmoq"
+                ],
+                "Uyghur": [
+                    "كومپيۇتېرلاشتۇرماق",
+                    "كومپيۇتېرغا ئايلاندۇرماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есептеуіштендіру"
+                ],
+                "Karakalpak": [
+                    "esaplaolastırıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilgisayarlaştırmak",
+                    "bilgisayarlı hale getirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rəqəmsallaşdırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жүйелеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эсептөө техникасына өткөрүү"
+                ]
+            }
+        }
+    ]
+}

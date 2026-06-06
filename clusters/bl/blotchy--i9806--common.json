@@ -1,0 +1,156 @@
+{
+    "id": "i9806",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "blotchy",
+    "en_definition": "marked with irregularly shaped spots or blots",
+    "tr_word": "lekeli",
+    "tr_definition": "düzensiz şekilli lekelerle veya beneklerle kaplı olan",
+    "ru_word": "пятнистый",
+    "ru_definition": "покрытый неровными пятнами или разводами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alacalı",
+                    "çilli"
+                ],
+                "Azerbaijani": [
+                    "ala-bula",
+                    "çilli"
+                ],
+                "Turkmen": [
+                    "ala-mula",
+                    "ala-çapyr"
+                ],
+                "Uzbek": [
+                    "olachipor",
+                    "ola-bula"
+                ],
+                "Uyghur": [
+                    "ئالا-بۇلا"
+                ],
+                "Kazakh": [
+                    "ала",
+                    "ала-құла"
+                ],
+                "Kyrgyz": [
+                    "ала-була",
+                    "ала"
+                ],
+                "Karakalpak": [
+                    "ala-bula",
+                    "ala"
+                ],
+                "Tatar": [
+                    "ала",
+                    "ала-кола"
+                ],
+                "Bashkir": [
+                    "ала",
+                    "ала-сыбар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chipor"
+                ],
+                "Uyghur": [
+                    "چىپار"
+                ],
+                "Kazakh": [
+                    "шұбар"
+                ],
+                "Kyrgyz": [
+                    "чаар"
+                ],
+                "Tatar": [
+                    "чуар"
+                ],
+                "Bashkir": [
+                    "сыбар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tegmilli",
+                    "tegmilli-tegmilli",
+                    "tegmilli-meňli"
+                ],
+                "Kazakh": [
+                    "теңбіл"
+                ],
+                "Kyrgyz": [
+                    "темгил"
+                ],
+                "Karakalpak": [
+                    "teńbil"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xallı"
+                ],
+                "Karakalpak": [
+                    "daǵlı"
+                ],
+                "Tatar": [
+                    "таплы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "dog'-dog'",
+                    "dog'li"
+                ],
+                "Uyghur": [
+                    "داغ-دۇغ",
+                    "داغلىق"
+                ],
+                "Kazakh": [
+                    "дақты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lekeli"
+                ],
+                "Azerbaijani": [
+                    "ləkəli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "так-так"
+                ],
+                "Bashkir": [
+                    "тап-тап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "benekli"
+                ]
+            }
+        }
+    ]
+}

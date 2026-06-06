@@ -1,0 +1,150 @@
+{
+    "id": "i89266",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "compatriot",
+    "en_definition": "a person from your own country",
+    "tr_word": "vatandaş",
+    "tr_definition": "aynı ülkeden olan kimse, yurttaş",
+    "ru_word": "соотечественник",
+    "ru_definition": "человек, имеющий общее с кем-либо отечество",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vatandaş"
+                ],
+                "Azerbaijani": [
+                    "vətəndaş"
+                ],
+                "Turkmen": [
+                    "watandaş"
+                ],
+                "Uzbek": [
+                    "vatandosh"
+                ],
+                "Uyghur": [
+                    "ۋەتەنداش"
+                ],
+                "Karakalpak": [
+                    "oatanlas"
+                ],
+                "Tatar": [
+                    "ватандаш"
+                ],
+                "Bashkir": [
+                    "ватандаш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yurttaş"
+                ],
+                "Azerbaijani": [
+                    "yurddaş"
+                ],
+                "Uzbek": [
+                    "yurtdosh"
+                ],
+                "Uyghur": [
+                    "يۇرتداش"
+                ],
+                "Kyrgyz": [
+                    "жердеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hemşeri"
+                ],
+                "Azerbaijani": [
+                    "həmşəhərli",
+                    "həmvətən"
+                ],
+                "Uzbek": [
+                    "hamvatan"
+                ],
+                "Uyghur": [
+                    "ھەمۋەتەن"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ildeş"
+                ],
+                "Karakalpak": [
+                    "eldes"
+                ],
+                "Tatar": [
+                    "илдәш"
+                ],
+                "Bashkir": [
+                    "илдәш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жерлес"
+                ],
+                "Karakalpak": [
+                    "jerles"
+                ],
+                "Bashkir": [
+                    "ерҙәш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mekandaş"
+                ],
+                "Kyrgyz": [
+                    "мекендеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soydaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отандас",
+                    "қандас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "атамандаш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "милләттәш"
+                ]
+            }
+        }
+    ]
+}

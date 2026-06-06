@@ -1,0 +1,75 @@
+{
+    "id": "i14254",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "wingless",
+    "en_definition": "lacking wings",
+    "tr_word": "kanatsız",
+    "tr_definition": "kanatları olmayan veya kanatları gelişmemiş olan",
+    "ru_word": "бескрылый",
+    "ru_definition": "не имеющий крыльев",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kanatsız"
+                ],
+                "Azerbaijani": [
+                    "qanadsız"
+                ],
+                "Turkmen": [
+                    "ganatsyz",
+                    "ganaty ýok"
+                ],
+                "Uzbek": [
+                    "qanotsiz"
+                ],
+                "Uyghur": [
+                    "قاناتسىز"
+                ],
+                "Kazakh": [
+                    "қанатсыз",
+                    "қанаты жоқ"
+                ],
+                "Kyrgyz": [
+                    "канатсыз",
+                    "канаты жок"
+                ],
+                "Karakalpak": [
+                    "qanatsız",
+                    "qanatı joq"
+                ],
+                "Tatar": [
+                    "канатсыз",
+                    "канатлары булмаган"
+                ],
+                "Bashkir": [
+                    "ҡанатһыҙ",
+                    "ҡанаттары булмаған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "biqanad"
+                ],
+                "Uzbek": [
+                    "be-qanot"
+                ],
+                "Uyghur": [
+                    "بىقانات"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kolsuz"
+                ]
+            }
+        }
+    ]
+}

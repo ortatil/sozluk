@@ -1,0 +1,82 @@
+{
+    "id": "i48293",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ram",
+    "en_definition": "uncastrated adult male sheep",
+    "tr_word": "koç",
+    "tr_definition": "damızlık olarak kullanılan, kısırlaştırılmamış yetişkin erkek koyun",
+    "ru_word": "баран",
+    "ru_definition": "взрослый некастрированный самец овцы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koç"
+                ],
+                "Azerbaijani": [
+                    "qoç"
+                ],
+                "Turkmen": [
+                    "goç",
+                    "goçak"
+                ],
+                "Uzbek": [
+                    "qoʻchqor",
+                    "qoʻch"
+                ],
+                "Uyghur": [
+                    "قوچقار",
+                    "قوشقار"
+                ],
+                "Kazakh": [
+                    "қошқар"
+                ],
+                "Kyrgyz": [
+                    "кочкор"
+                ],
+                "Karakalpak": [
+                    "qoshqar"
+                ],
+                "Tatar": [
+                    "кучкар"
+                ],
+                "Bashkir": [
+                    "ҡусҡар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "erkek koyun"
+                ],
+                "Azerbaijani": [
+                    "erkək qoyun"
+                ],
+                "Kyrgyz": [
+                    "эркек кой"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сарык атасы"
+                ],
+                "Bashkir": [
+                    "һарыҡ атаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құлжа"
+                ]
+            }
+        }
+    ]
+}

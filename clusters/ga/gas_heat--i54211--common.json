@@ -1,0 +1,92 @@
+{
+    "id": "i54211",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gas heat",
+    "en_definition": "heating system that burns natural gas",
+    "tr_word": "doğalgazlı ısıtma",
+    "tr_definition": "doğal gaz yakarak çalışan ısıtma sistemi",
+    "ru_word": "газовое отопление",
+    "ru_definition": "система отопления, работающая на природном газе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gazlı ısıtma"
+                ],
+                "Azerbaijani": [
+                    "qaz isitmə sistemi",
+                    "qazla isitmə",
+                    "qaz istiliyi"
+                ],
+                "Turkmen": [
+                    "gaz ýyladyşy",
+                    "gazly ýyladyş ulgamy"
+                ],
+                "Uzbek": [
+                    "gaz isitish tizimi",
+                    "gazli isitish",
+                    "gaz isitgichi"
+                ],
+                "Uyghur": [
+                    "گاز ئىسسىقلىقى",
+                    "گاز بىلەن ئىسسىتىش"
+                ],
+                "Kazakh": [
+                    "газбен жылыту",
+                    "газ жылуы"
+                ],
+                "Tatar": [
+                    "газ җылылыгы"
+                ],
+                "Bashkir": [
+                    "газ йылыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaz arkaly ýylatmak"
+                ],
+                "Tatar": [
+                    "газ белән җылыту"
+                ],
+                "Bashkir": [
+                    "газ менән йылытыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەبىئىي گاز ئىسسىقلىقى"
+                ],
+                "Karakalpak": [
+                    "gaz jılıtıo sisteması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "газ менен жылытуу",
+                    "газ жылуулугу"
+                ],
+                "Karakalpak": [
+                    "gaz benen jılıtıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğalgazlı ısıtma",
+                    "doğalgaz ısıtması"
+                ]
+            }
+        }
+    ]
+}

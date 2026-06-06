@@ -1,0 +1,128 @@
+{
+    "id": "i107013",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "debit card",
+    "en_definition": "a card (usually plastic) that enables the holder to withdraw money or to have the cost of purchases charged directly to the holder's bank account",
+    "tr_word": "banka kartı",
+    "tr_definition": "sahibinin banka hesabından doğrudan para çekmesine veya alışveriş yapmasına olanak tanıyan kart",
+    "ru_word": "дебетовая карта",
+    "ru_definition": "платежная карта, используемая для оплаты товаров и услуг, а также получения наличных в банкоматах, при этом списание средств происходит непосредственно с банковского счета владельца",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "banka kartı",
+                    "bankamatik kartı"
+                ],
+                "Azerbaijani": [
+                    "bank kartı"
+                ],
+                "Turkmen": [
+                    "bank kartasy"
+                ],
+                "Uzbek": [
+                    "bank kartasi"
+                ],
+                "Uyghur": [
+                    "بانكا كارتىسى"
+                ],
+                "Kazakh": [
+                    "банк картасы"
+                ],
+                "Kyrgyz": [
+                    "банк картасы"
+                ],
+                "Karakalpak": [
+                    "bank kartası"
+                ],
+                "Tatar": [
+                    "банк картасы"
+                ],
+                "Bashkir": [
+                    "банк картаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesap kartı"
+                ],
+                "Azerbaijani": [
+                    "nağdsız ödəniş kartı"
+                ],
+                "Turkmen": [
+                    "hasap kartasy"
+                ],
+                "Uzbek": [
+                    "hisob kartasi"
+                ],
+                "Kyrgyz": [
+                    "эсеп картасы"
+                ],
+                "Karakalpak": [
+                    "esap kartası"
+                ],
+                "Tatar": [
+                    "хисап картасы"
+                ],
+                "Bashkir": [
+                    "хисап картаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töleg kartasy"
+                ],
+                "Uzbek": [
+                    "to'lov kartasi"
+                ],
+                "Kazakh": [
+                    "төлем картасы"
+                ],
+                "Kyrgyz": [
+                    "төлөм картасы"
+                ],
+                "Karakalpak": [
+                    "tólem kartası"
+                ],
+                "Tatar": [
+                    "түләү картасы"
+                ],
+                "Bashkir": [
+                    "түләү картаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "debet kartı"
+                ],
+                "Kazakh": [
+                    "дебеттік карта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەق پۇل كارتىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چىقىم كارتىسى"
+                ]
+            }
+        }
+    ]
+}

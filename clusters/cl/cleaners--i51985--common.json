@@ -1,0 +1,113 @@
+{
+    "id": "i51985",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cleaners",
+    "en_definition": "shop where dry cleaning is done",
+    "tr_word": "kuru temizlemeci",
+    "tr_definition": "kuru temizleme işleminin yapıldığı dükkan",
+    "ru_word": "химчистка",
+    "ru_definition": "предприятие, производящее химическую чистку одежды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tozaxona"
+                ],
+                "Kazakh": [
+                    "тазалау орны",
+                    "тазалаушы"
+                ],
+                "Kyrgyz": [
+                    "тазалоочу жай",
+                    "тазалоочу борбор"
+                ],
+                "Karakalpak": [
+                    "tazalao ornı"
+                ],
+                "Bashkir": [
+                    "таҙартыу урыны",
+                    "таҙартыу йорто",
+                    "таҙартыухана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "химиялық тазалау"
+                ],
+                "Kyrgyz": [
+                    "химиялык тазалоочу жай"
+                ],
+                "Karakalpak": [
+                    "ximiyalıq tazalao ornı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuru temizlemeci",
+                    "temizlemeci"
+                ],
+                "Azerbaijani": [
+                    "təmizləmə məntəqəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kimyəvi təmizləmə"
+                ],
+                "Uzbek": [
+                    "kimyoviy tozaxona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poklovxona"
+                ],
+                "Tatar": [
+                    "пакьләүханә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "himiýa arassalaýyş",
+                    "arassalaýyş kärhanasy",
+                    "arassalaýyş nokady"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كىيىم يۇيۇش ئورنى",
+                    "كىيىم يۇيۇشخانىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇرۇق يۇيۇشخانىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чистартуханә"
+                ]
+            }
+        }
+    ]
+}

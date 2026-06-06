@@ -1,0 +1,101 @@
+{
+    "id": "i91567",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nazi",
+    "en_definition": "a German member of Adolf Hitler's political party",
+    "tr_word": "nazi",
+    "tr_definition": "Adolf Hitler'in siyasi partisinin Alman bir üyesi",
+    "ru_word": "нацист",
+    "ru_definition": "немецкий член политической партии Адольфа Гитлера",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nazi",
+                    "nasyonal sosyalist"
+                ],
+                "Azerbaijani": [
+                    "nasist"
+                ],
+                "Turkmen": [
+                    "nasist"
+                ],
+                "Uyghur": [
+                    "نازىست",
+                    "نازىزمچى"
+                ],
+                "Kazakh": [
+                    "нацист"
+                ],
+                "Kyrgyz": [
+                    "нацист"
+                ],
+                "Karakalpak": [
+                    "nacist"
+                ],
+                "Bashkir": [
+                    "нацист"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "faşist"
+                ],
+                "Uzbek": [
+                    "fashist"
+                ],
+                "Kazakh": [
+                    "фашист"
+                ],
+                "Kyrgyz": [
+                    "фашист"
+                ],
+                "Karakalpak": [
+                    "fashist"
+                ],
+                "Tatar": [
+                    "фашист"
+                ],
+                "Bashkir": [
+                    "фашист"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "millətçi-sosialist"
+                ],
+                "Tatar": [
+                    "милләтче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "natsist"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گېرمانىيە ناتسىيونال-سوتسىيالىستلار پارتىيىسىنىڭ ئەزاسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұлтшыл"
+                ]
+            }
+        }
+    ]
+}

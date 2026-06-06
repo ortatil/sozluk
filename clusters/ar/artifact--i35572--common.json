@@ -1,0 +1,211 @@
+{
+    "id": "i35572",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "artifact",
+    "en_definition": "a man-made object taken as a whole",
+    "tr_word": "eser",
+    "tr_definition": "insan eliyle yapılmış, sanatsal veya tarihi değeri olan nesne",
+    "ru_word": "артефакт",
+    "ru_definition": "объект, созданный человеком, в отличие от природного",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eser"
+                ],
+                "Azerbaijani": [
+                    "əşya",
+                    "əsər"
+                ],
+                "Turkmen": [
+                    "eser"
+                ],
+                "Uzbek": [
+                    "osori-atiqa",
+                    "ashyo"
+                ],
+                "Uyghur": [
+                    "ئاسارە-ئەتىقە"
+                ],
+                "Tatar": [
+                    "әсәр"
+                ],
+                "Bashkir": [
+                    "әҫәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yapıt"
+                ],
+                "Turkmen": [
+                    "ýadygärlik"
+                ],
+                "Uzbek": [
+                    "yodgorlik"
+                ],
+                "Uyghur": [
+                    "يادىكارلىق"
+                ],
+                "Kazakh": [
+                    "жәдігер"
+                ],
+                "Karakalpak": [
+                    "jádіger"
+                ],
+                "Tatar": [
+                    "ядкяр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "buyum"
+                ],
+                "Kazakh": [
+                    "бұйым"
+                ],
+                "Kyrgyz": [
+                    "буюм"
+                ],
+                "Karakalpak": [
+                    "buyum"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мұра"
+                ],
+                "Kyrgyz": [
+                    "мурас"
+                ],
+                "Tatar": [
+                    "мирас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yadigar"
+                ],
+                "Azerbaijani": [
+                    "yadigar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nümunə"
+                ],
+                "Bashkir": [
+                    "нәмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qalıq"
+                ],
+                "Kazakh": [
+                    "қолтуынды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эстелик"
+                ],
+                "Karakalpak": [
+                    "estelik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жасалга"
+                ],
+                "Bashkir": [
+                    "яһалма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nesne"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "buluntu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tapyndy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maddy miras"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قول ھۈنەر بۇيۇمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سەنئەت بۇيۇمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аспап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "байлык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡомартҡы"
+                ]
+            }
+        }
+    ]
+}

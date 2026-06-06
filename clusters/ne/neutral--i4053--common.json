@@ -1,0 +1,138 @@
+{
+    "id": "i4053",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "neutral",
+    "en_definition": "not supporting or favoring either side in a war, dispute, or contest",
+    "tr_word": "tarafsız",
+    "tr_definition": "bir savaşta, anlaşmazlıkta veya yarışmada herhangi bir tarafı desteklemeyen veya tutmayan",
+    "ru_word": "нейтральный",
+    "ru_definition": "не поддерживающий ни одну из сторон в войне, споре или состязании",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bitaraf"
+                ],
+                "Azerbaijani": [
+                    "bitərəf"
+                ],
+                "Turkmen": [
+                    "bitarap"
+                ],
+                "Uzbek": [
+                    "betaraf"
+                ],
+                "Uyghur": [
+                    "بىتەرەپ"
+                ],
+                "Kazakh": [
+                    "бейтарап",
+                    "бейтарапты"
+                ],
+                "Kyrgyz": [
+                    "бейтарап"
+                ],
+                "Karakalpak": [
+                    "biytárep"
+                ],
+                "Tatar": [
+                    "битараф"
+                ],
+                "Bashkir": [
+                    "битараф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarafsız"
+                ],
+                "Azerbaijani": [
+                    "tərəfsiz"
+                ],
+                "Turkmen": [
+                    "tarapsyz"
+                ],
+                "Uyghur": [
+                    "تەرەپسىز"
+                ],
+                "Kazakh": [
+                    "тарапсыз"
+                ],
+                "Karakalpak": [
+                    "tárepsiz"
+                ],
+                "Tatar": [
+                    "тарафсыз"
+                ],
+                "Bashkir": [
+                    "тарафһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "araçyl"
+                ],
+                "Uyghur": [
+                    "ئارىسالدى"
+                ],
+                "Kazakh": [
+                    "араласпаушы"
+                ],
+                "Karakalpak": [
+                    "aralıq"
+                ],
+                "Tatar": [
+                    "арадаш"
+                ],
+                "Bashkir": [
+                    "аралыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "neytral"
+                ],
+                "Uzbek": [
+                    "neytral"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xolis"
+                ],
+                "Kyrgyz": [
+                    "калыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "орто"
+                ],
+                "Bashkir": [
+                    "уртаса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yansız"
+                ]
+            }
+        }
+    ]
+}

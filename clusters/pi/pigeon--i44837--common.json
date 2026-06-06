@@ -1,0 +1,88 @@
+{
+    "id": "i44837",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pigeon",
+    "en_definition": "wild and domesticated birds having a heavy body and short legs",
+    "tr_word": "güvercin",
+    "tr_definition": "Güvercingiller familyasından, kısa bacaklı, toplu vücutlu, evcil ve yabani türleri bulunan kuş",
+    "ru_word": "голубь",
+    "ru_definition": "Птица с плотным телом и короткими ногами, обитающая как в дикой природе, так и в одомашненном состоянии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kebuter"
+                ],
+                "Azerbaijani": [
+                    "kəpənək"
+                ],
+                "Turkmen": [
+                    "kepderi"
+                ],
+                "Uzbek": [
+                    "kabutar",
+                    "kaptar"
+                ],
+                "Uyghur": [
+                    "كەپتەر",
+                    "كەپتەر قۇش"
+                ],
+                "Kazakh": [
+                    "кептер"
+                ],
+                "Kyrgyz": [
+                    "кептер"
+                ],
+                "Karakalpak": [
+                    "kepter",
+                    "kepter qusı"
+                ],
+                "Tatar": [
+                    "кәптәр"
+                ],
+                "Bashkir": [
+                    "кәптәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güvercin"
+                ],
+                "Turkmen": [
+                    "gögerçin"
+                ],
+                "Kazakh": [
+                    "көгершін"
+                ],
+                "Tatar": [
+                    "күгәрчен"
+                ],
+                "Bashkir": [
+                    "көгәрсен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "göyərçin"
+                ],
+                "Kyrgyz": [
+                    "көгүчкөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məktubçu"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+# Country music
+| Field | Detail |
+|---|---|
+| **ID** | i73788 |
+| **English** | country music |
+| **Type** | noun |
+| **Definition** | a simple style of folk music heard mostly in the southern United States; usually played on stringed instruments |
+| **Source** | common |
+| **Ortatil** | falq-mısiqa |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i73788",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "country music",
+    "en_definition": "a simple style of folk music heard mostly in the southern United States; usually played on stringed instruments",
+    "tr_word": "country müziği",
+    "tr_definition": "Genellikle telli çalgılarla çalınan, kökeni Amerika Birleşik Devletleri'nin güneyine dayanan bir halk müziği tarzı.",
+    "ru_word": "кантри",
+    "ru_definition": "Стиль народной музыки, возникший на юге США, который обычно исполняется на струнных инструментах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "halk sazy"
+                ],
+                "Uzbek": [
+                    "xalqona musiqa"
+                ],
+                "Uyghur": [
+                    "خەلقچە مۇزىكا"
+                ],
+                "Kazakh": [
+                    "халықтық музыка"
+                ],
+                "Karakalpak": [
+                    "xalıq sazı",
+                    "xalıq muzıkası"
+                ],
+                "Tatar": [
+                    "халык музыкасы"
+                ],
+                "Bashkir": [
+                    "халыҡ көйө",
+                    "халыҡ йыры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ауыл музыкасы"
+                ],
+                "Kyrgyz": [
+                    "айылдык музыка"
+                ],
+                "Karakalpak": [
+                    "auıl sazı"
+                ],
+                "Tatar": [
+                    "авыл көе"
+                ],
+                "Bashkir": [
+                    "ауыл музыкаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kovboy müziği"
+                ],
+                "Azerbaijani": [
+                    "kovboy musiqisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Amerikan halk müziği"
+                ],
+                "Uyghur": [
+                    "ئامېرىكا يېزا مۇزىكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırsal müzik"
+                ],
+                "Tatar": [
+                    "кыр музыкасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kənd musiqisi"
+                ],
+                "Kazakh": [
+                    "кантри музыкасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "folk musiqisi"
+                ],
+                "Uzbek": [
+                    "folk-musiqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "oba sazy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "milli saz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qishloq musiqasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېزا مۇزىكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "элдик музыка",
+                    "элдик обон"
+                ]
+            }
+        }
+    ]
+}
+```
+

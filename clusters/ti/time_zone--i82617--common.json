@@ -1,0 +1,107 @@
+{
+    "id": "i82617",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "time zone",
+    "en_definition": "any of the 24 regions of the globe (loosely divided by longitude) throughout which the same standard time is used",
+    "tr_word": "saat dilimi",
+    "tr_definition": "Dünya üzerinde aynı standart saatin kullanıldığı, boylamlara göre ayrılmış 24 bölgeden her biri.",
+    "ru_word": "часовой пояс",
+    "ru_definition": "одна из 24 географических зон земного шара, в пределах которой принято одинаковое стандартное время.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saat dilimi"
+                ],
+                "Turkmen": [
+                    "sagat guşagy",
+                    "wagt guşagy",
+                    "sagat guşaklygy"
+                ],
+                "Uyghur": [
+                    "ۋاقىت رايونى"
+                ],
+                "Kazakh": [
+                    "уақыт белдеуі"
+                ],
+                "Karakalpak": [
+                    "oaqıt beldeuі",
+                    "oaqıt zonası"
+                ],
+                "Tatar": [
+                    "вакыт поясы",
+                    "вакыт зонасы"
+                ],
+                "Bashkir": [
+                    "ваҡыт бүлкәте",
+                    "ваҡыт зонаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "saat qurşağı"
+                ],
+                "Uzbek": [
+                    "soat mintaqasi"
+                ],
+                "Uyghur": [
+                    "سائەت رايونى"
+                ],
+                "Kyrgyz": [
+                    "саат алкагы"
+                ],
+                "Tatar": [
+                    "сәгать поясы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vakit kuşağı"
+                ],
+                "Azerbaijani": [
+                    "vaxt qurşağı"
+                ],
+                "Uzbek": [
+                    "vaqt mintaqasi",
+                    "vaqt kamari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zaman dilimi"
+                ],
+                "Azerbaijani": [
+                    "zaman qurşağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сағаттық белдеу"
+                ],
+                "Bashkir": [
+                    "сәғәт бүлкәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "убакыт алкагы",
+                    "убакыт куру"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+# Smooth hammerhead
+| Field | Detail |
+|---|---|
+| **ID** | i43160 |
+| **English** | smooth hammerhead |
+| **Type** | noun |
+| **Definition** | fished for the hides and vitamin-rich liver |
+| **Source** | common |
+| **Ortatil** | çäkicbälığı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| сүкеш-балыҡ | sükeş-balıq |
+
+```json
+{
+    "id": "i43160",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "smooth hammerhead",
+    "en_definition": "fished for the hides and vitamin-rich liver",
+    "tr_word": "adi çekiç balığı",
+    "tr_definition": "derisi ve vitamin açısından zengin karaciğeri için avlanan bir köpekbalığı türü",
+    "ru_word": "обыкновенная акула-молот",
+    "ru_definition": "вид акул, на которых охотятся ради кожи и богатой витаминами печени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çekiç balığı"
+                ],
+                "Azerbaijani": [
+                    "çəkicbalığı",
+                    "çəkicbaşlı akula"
+                ],
+                "Turkmen": [
+                    "çekiş kelleli akula",
+                    "çekişbaşly akula"
+                ],
+                "Tatar": [
+                    "чүкечбаш акула"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bolg'abosh akula",
+                    "bolg'abosh baliq"
+                ],
+                "Kazakh": [
+                    "балғабас акула",
+                    "балғабас балық"
+                ],
+                "Kyrgyz": [
+                    "балка баштуу акула",
+                    "балка баш"
+                ],
+                "Karakalpak": [
+                    "balǵabas akula",
+                    "balǵabas balıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "adi çekiç balığı",
+                    "büyük çekiç balığı"
+                ],
+                "Azerbaijani": [
+                    "adi çəkicbalığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بولقا باشلىق لەھەڭ",
+                    "تەكشى باشلىق بولقا لەھەڭ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шома чүкечбаш балык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сүкеш башлы акула",
+                    "сүкеш-балыҡ"
+                ]
+            }
+        }
+    ]
+}
+```
+

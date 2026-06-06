@@ -1,0 +1,178 @@
+{
+    "id": "i106575",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "forfeit",
+    "en_definition": "a penalty for a fault or mistake that involves losing or giving up something",
+    "tr_word": "hükmen yenilgi",
+    "tr_definition": "bir hata veya kural ihlali sonucunda bir şeyden vazgeçme veya kaybetme şeklinde uygulanan ceza",
+    "ru_word": "штраф",
+    "ru_definition": "наказание за ошибку или проступок, связанное с потерей или отказом от чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töleg"
+                ],
+                "Uyghur": [
+                    "تۆلەم"
+                ],
+                "Kazakh": [
+                    "төлем"
+                ],
+                "Kyrgyz": [
+                    "төлөм"
+                ],
+                "Karakalpak": [
+                    "tólem"
+                ],
+                "Tatar": [
+                    "түләү"
+                ],
+                "Bashkir": [
+                    "түләү",
+                    "түләм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ceza"
+                ],
+                "Turkmen": [
+                    "jeza"
+                ],
+                "Kyrgyz": [
+                    "жаза"
+                ],
+                "Tatar": [
+                    "җәза"
+                ],
+                "Bashkir": [
+                    "яза"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kayıp"
+                ],
+                "Kazakh": [
+                    "айып",
+                    "айыппұл"
+                ],
+                "Kyrgyz": [
+                    "айып"
+                ],
+                "Karakalpak": [
+                    "ayıp"
+                ],
+                "Tatar": [
+                    "айып"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "zyýan"
+                ],
+                "Uzbek": [
+                    "tovon"
+                ],
+                "Uyghur": [
+                    "تاۋان",
+                    "زىيان"
+                ],
+                "Karakalpak": [
+                    "zıyan"
+                ],
+                "Tatar": [
+                    "зыян"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cərimə",
+                    "zərər"
+                ],
+                "Uzbek": [
+                    "jarima"
+                ],
+                "Uyghur": [
+                    "جەرىمانە"
+                ],
+                "Karakalpak": [
+                    "járiyme"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tazminat"
+                ],
+                "Azerbaijani": [
+                    "təzminat"
+                ],
+                "Uzbek": [
+                    "tazmin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bedel"
+                ],
+                "Uzbek": [
+                    "badal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "itki"
+                ],
+                "Kazakh": [
+                    "өтем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чыгым"
+                ],
+                "Bashkir": [
+                    "йыйым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jerime"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "штраф"
+                ]
+            }
+        }
+    ]
+}

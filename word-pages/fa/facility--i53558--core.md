@@ -1,0 +1,302 @@
+# Facility
+| Field | Detail |
+|---|---|
+| **ID** | i53558 |
+| **English** | facility |
+| **Type** | noun |
+| **Definition** | a building or place that provides a particular service or is used for a particular industry |
+| **Source** | core |
+| **Ortatil** | müässäsä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **müässäsä** | **bina** | **orın** | **cay** | **imarat** | **mekeme** |
+|---|---|---|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Turkmen | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ |
+| Kyrgyz | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| Karakalpak | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Bashkir | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.33 | 0 | 0 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0.50 | 0.50 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.40 | 1 | 0.40 | 0.60 | 0.60 |
+| *In All* | ✅ | ✅ |  |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |  |  |
+| **O'TQ** | **2.53** | **2.23** | **1.50** | **0.90** | **0.60** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئورۇن | orun |
+| مۇئەسسەسە | muässäsä |
+| جاي | jay |
+| تەسلىمات | täslimat |
+| **Kazakh** | |
+| орын | orın |
+| ғимарат | ğimarat |
+| мекеме | mekeme |
+| нысан | nısan |
+| **Kyrgyz** | |
+| орун | orun |
+| имарат | imarat |
+| мекеме | mekeme |
+| жай | jay |
+| **Tatar** | |
+| урын | urın |
+| мөгассәсә | mögassäsä |
+| бина | bina |
+| корылма | korılma |
+| **Bashkir** | |
+| урын | urın |
+| бина | bina |
+| ҡоролма | qorolma |
+| төҙөлмә | tözölmä |
+
+```json
+{
+    "id": "i53558",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "facility",
+    "en_definition": "a building or place that provides a particular service or is used for a particular industry",
+    "tr_word": "tesis",
+    "tr_definition": "belirli bir hizmet sağlayan veya belirli bir endüstri için kullanılan bina veya yer",
+    "ru_word": "объект",
+    "ru_definition": "здание или место, предоставляющее определенную услугу или используемое для определенной отрасли",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئورۇن"
+                ],
+                "Kazakh": [
+                    "орын"
+                ],
+                "Kyrgyz": [
+                    "орун"
+                ],
+                "Karakalpak": [
+                    "orın"
+                ],
+                "Tatar": [
+                    "урын"
+                ],
+                "Bashkir": [
+                    "урын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "müəssisə"
+                ],
+                "Uzbek": [
+                    "muassasa"
+                ],
+                "Uyghur": [
+                    "مۇئەسسەسە"
+                ],
+                "Tatar": [
+                    "мөгассәсә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bina"
+                ],
+                "Uzbek": [
+                    "bino"
+                ],
+                "Tatar": [
+                    "бина"
+                ],
+                "Bashkir": [
+                    "бина"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ғимарат"
+                ],
+                "Kyrgyz": [
+                    "имарат"
+                ],
+                "Karakalpak": [
+                    "imarat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мекеме"
+                ],
+                "Kyrgyz": [
+                    "мекеме"
+                ],
+                "Karakalpak": [
+                    "mákeme"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "جاي"
+                ],
+                "Kyrgyz": [
+                    "жай"
+                ],
+                "Karakalpak": [
+                    "jay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tesis"
+                ],
+                "Azerbaijani": [
+                    "təsisat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuruluş"
+                ],
+                "Turkmen": [
+                    "gurluş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "корылма"
+                ],
+                "Bashkir": [
+                    "ҡоролма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mekan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maskan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yapı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "işletme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "obyekt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "desga"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "edarana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "merkez"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "inshoot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "majmua"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەسلىمات"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нысан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төҙөлмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qurğu"
+                ]
+            }
+        }
+    ]
+}
+```
+

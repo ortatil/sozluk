@@ -1,0 +1,134 @@
+# Gibbon
+| Field | Detail |
+|---|---|
+| **ID** | i48716 |
+| **English** | gibbon |
+| **Type** | noun |
+| **Definition** | smallest and most perfectly anthropoid arboreal ape having long arms and no tail; of southern Asia and East Indies |
+| **Source** | common |
+| **Ortatil** | gibbon |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **gibbon** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| گىببون | gibbon |
+| **Kazakh** | |
+| гиббон | gibbon |
+| **Kyrgyz** | |
+| гиббон | gibbon |
+| **Tatar** | |
+| гиббон | gibbon |
+| **Bashkir** | |
+| гиббон | gibbon |
+
+```json
+{
+    "id": "i48716",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gibbon",
+    "en_definition": "smallest and most perfectly anthropoid arboreal ape having long arms and no tail; of southern Asia and East Indies",
+    "tr_word": "gibon",
+    "tr_definition": "Güney Asya'da yaşayan, uzun kollu, kuyruksuz ve ağaçta yaşayan küçük bir insansı maymun türü.",
+    "ru_word": "гиббон",
+    "ru_definition": "небольшая человекообразная обезьяна с длинными руками и без хвоста, обитающая в Южной Азии и на островах Малайского архипелага.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gibon"
+                ],
+                "Azerbaijani": [
+                    "hibbon"
+                ],
+                "Turkmen": [
+                    "gibbon"
+                ],
+                "Uzbek": [
+                    "gibbon"
+                ],
+                "Uyghur": [
+                    "گىببون"
+                ],
+                "Kazakh": [
+                    "гиббон"
+                ],
+                "Kyrgyz": [
+                    "гиббон"
+                ],
+                "Karakalpak": [
+                    "gibbon"
+                ],
+                "Tatar": [
+                    "гиббон"
+                ],
+                "Bashkir": [
+                    "гиббон"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzun kollu maymun"
+                ],
+                "Azerbaijani": [
+                    "uzunqol meymun"
+                ],
+                "Turkmen": [
+                    "uzun elli maýmyn"
+                ],
+                "Uzbek": [
+                    "uzunqoʻl maymun"
+                ],
+                "Uyghur": [
+                    "ئۇزۇن قوللۇق مايمۇن"
+                ],
+                "Kazakh": [
+                    "ұзынқол маймыл"
+                ],
+                "Kyrgyz": [
+                    "узун колдуу маймыл"
+                ],
+                "Tatar": [
+                    "озын куллы маймыл"
+                ],
+                "Bashkir": [
+                    "оҙон ҡуллы маймыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "maymıl"
+                ]
+            }
+        }
+    ]
+}
+```
+

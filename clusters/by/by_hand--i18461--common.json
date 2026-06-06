@@ -1,0 +1,72 @@
+{
+    "id": "i18461",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "by hand",
+    "en_definition": "without the use of a machine",
+    "tr_word": "elle",
+    "tr_definition": "makine kullanmadan, el yardımıyla yapılan",
+    "ru_word": "вручную",
+    "ru_definition": "сделанный или выполненный руками, без использования механизмов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻlda"
+                ],
+                "Uyghur": [
+                    "قولدا",
+                    "قول بىلەن"
+                ],
+                "Kazakh": [
+                    "қолмен",
+                    "қолдан"
+                ],
+                "Kyrgyz": [
+                    "кол менен",
+                    "колдо"
+                ],
+                "Karakalpak": [
+                    "qoldan",
+                    "qol menen",
+                    "qolda"
+                ],
+                "Tatar": [
+                    "кул белән",
+                    "куллап",
+                    "кулдан"
+                ],
+                "Bashkir": [
+                    "ҡул менән",
+                    "ҡулдан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elle",
+                    "el ile",
+                    "el yordamıyla"
+                ],
+                "Azerbaijani": [
+                    "əllə",
+                    "əl ilə"
+                ],
+                "Turkmen": [
+                    "elde",
+                    "el bilen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastaki"
+                ]
+            }
+        }
+    ]
+}

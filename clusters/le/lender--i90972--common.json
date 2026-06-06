@@ -1,0 +1,183 @@
+{
+    "id": "i90972",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lender",
+    "en_definition": "someone who lends money or gives credit in business matters",
+    "tr_word": "borç veren",
+    "tr_definition": "ticari işlerde para ödünç veren veya kredi sağlayan kimse",
+    "ru_word": "кредитор",
+    "ru_definition": "лицо или организация, предоставляющие деньги в долг или кредит",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "karz beriji",
+                    "karzdar"
+                ],
+                "Uzbek": [
+                    "qarz beruvchi"
+                ],
+                "Uyghur": [
+                    "قەرز بەرگۈچى"
+                ],
+                "Kazakh": [
+                    "қарыз беруші"
+                ],
+                "Kyrgyz": [
+                    "карыз берүүчү"
+                ],
+                "Karakalpak": [
+                    "qarız berioshi"
+                ],
+                "Tatar": [
+                    "карыз бирүче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "borç veren"
+                ],
+                "Azerbaijani": [
+                    "borc verən"
+                ],
+                "Tatar": [
+                    "бурычка бирүче"
+                ],
+                "Bashkir": [
+                    "бурыс биреүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kredit verən"
+                ],
+                "Kyrgyz": [
+                    "кредитор"
+                ],
+                "Tatar": [
+                    "кредитор"
+                ],
+                "Bashkir": [
+                    "кредитор"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "süýthor"
+                ],
+                "Uzbek": [
+                    "sudxo'r"
+                ],
+                "Kyrgyz": [
+                    "сүткор"
+                ],
+                "Karakalpak": [
+                    "sútxor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ikrazcı"
+                ],
+                "Kyrgyz": [
+                    "акча берүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müskriz"
+                ],
+                "Azerbaijani": [
+                    "müqriz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sələfçi"
+                ],
+                "Tatar": [
+                    "сәүдәгәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sarmoyador"
+                ],
+                "Uyghur": [
+                    "سەرمايىدار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "несие беруші"
+                ],
+                "Karakalpak": [
+                    "nesie berioshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alacaklı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bergi beriji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "omonatdor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىناۋەت بەرگۈچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өсімқор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үтес биреүсе"
+                ]
+            }
+        }
+    ]
+}

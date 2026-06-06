@@ -1,0 +1,78 @@
+{
+    "id": "i65985",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vocal cord",
+    "en_definition": "either of two pairs of folds of mucous membrane projecting into the larynx",
+    "tr_word": "ses teli",
+    "tr_definition": "gırtlakta bulunan ve sesin oluşmasını sağlayan iki adet mukoza kıvrımı",
+    "ru_word": "голосовая связка",
+    "ru_definition": "складки слизистой оболочки гортани, вибрирующие при прохождении воздуха и создающие звук",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tovush paylari"
+                ],
+                "Uyghur": [
+                    "تاۋۇش پەردىسى"
+                ],
+                "Kazakh": [
+                    "дыбыс сіңірі",
+                    "дыбыс байламы",
+                    "дауыс байламы"
+                ],
+                "Karakalpak": [
+                    "daoıs perdeleri",
+                    "daoıs baylamları"
+                ],
+                "Tatar": [
+                    "тавыш ярылары",
+                    "тавыш бәйләмнәре"
+                ],
+                "Bashkir": [
+                    "тауыш ярылары",
+                    "тауыш бәйләмдәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ses teli",
+                    "ses perdesi",
+                    "ses kirişi"
+                ],
+                "Azerbaijani": [
+                    "səs telləri",
+                    "səs büküşləri",
+                    "səs pərdələri"
+                ],
+                "Turkmen": [
+                    "ses tary",
+                    "ses perdeleri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ovoz paylari"
+                ],
+                "Uyghur": [
+                    "ئاۋاز پەردىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үн байламталары",
+                    "үн түйүндөрү"
+                ]
+            }
+        }
+    ]
+}

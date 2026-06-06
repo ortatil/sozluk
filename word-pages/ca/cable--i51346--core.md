@@ -1,0 +1,260 @@
+# Cable
+| Field | Detail |
+|---|---|
+| **ID** | i51346 |
+| **English** | cable |
+| **Type** | noun |
+| **Definition** | a very strong thick rope made of twisted hemp or steel wire |
+| **Source** | core |
+| **Ortatil** | sim |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sim** | **tros** | **kanat** | **arqan** |
+|---|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ | ❌ |
+| Azerbaijani | ❌ | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ❌ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ✅ |
+| Uyghur | ✅ | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ | ❌ | ✅ |
+| Karakalpak | ❌ | ❌ | ❌ | ✅ |
+| Tatar | ❌ | ❌ | ✅ | ✅ |
+| Bashkir | ✅ | ❌ | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 0.33 | 0.67 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0 | 0.50 |
+| *Qipchaq Subtotal* | 0.40 | 0.20 | 0.40 | 1 |
+| *In All* | ✅ | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ |  |
+| **O'TQ** | **2.73** | **2.03** | **1.57** | **1.50** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سىم | sim |
+| ئارغامچا | arğamça |
+| توسما | tosma |
+| **Kazakh** | |
+| арқан | arqan |
+| сым | sım |
+| арқан-жіп | arqan-jip |
+| керме | kerme |
+| **Kyrgyz** | |
+| аркан | arkan |
+| трос | tros |
+| аркан-жип | arkan-jip |
+| чынжыр | çınjır |
+| **Tatar** | |
+| аркан | arkan |
+| канат | kanat |
+| бау | bau |
+| **Bashkir** | |
+| арҡан | arqan |
+| сим | sim |
+| канат | kanat |
+| бау | bau |
+
+```json
+{
+    "id": "i51346",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "cable",
+    "en_definition": "a very strong thick rope made of twisted hemp or steel wire",
+    "tr_word": "halat",
+    "tr_definition": "Kenevir veya çelik telden yapılmış, bükülmüş, çok güçlü ve kalın ip.",
+    "ru_word": "канат",
+    "ru_definition": "Очень прочная толстая веревка из скрученной пеньки или стальной проволоки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "arqon"
+                ],
+                "Kazakh": [
+                    "арқан"
+                ],
+                "Kyrgyz": [
+                    "аркан"
+                ],
+                "Karakalpak": [
+                    "arqan"
+                ],
+                "Tatar": [
+                    "аркан"
+                ],
+                "Bashkir": [
+                    "арҡан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sim"
+                ],
+                "Uzbek": [
+                    "sim"
+                ],
+                "Uyghur": [
+                    "سىم"
+                ],
+                "Kazakh": [
+                    "сым"
+                ],
+                "Bashkir": [
+                    "сим"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kanat"
+                ],
+                "Turkmen": [
+                    "kanat"
+                ],
+                "Tatar": [
+                    "канат"
+                ],
+                "Bashkir": [
+                    "канат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tros"
+                ],
+                "Uzbek": [
+                    "tros"
+                ],
+                "Kyrgyz": [
+                    "трос"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арқан-жіп"
+                ],
+                "Kyrgyz": [
+                    "аркан-жип"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kablo"
+                ],
+                "Azerbaijani": [
+                    "kabel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бау"
+                ],
+                "Bashkir": [
+                    "бау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "керме"
+                ],
+                "Karakalpak": [
+                    "kerme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zanjir"
+                ],
+                "Kyrgyz": [
+                    "чынжыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "halat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "urgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kəndir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tanap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýüp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئارغامچا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توسما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shılbır"
+                ]
+            }
+        }
+    ]
+}
+```
+

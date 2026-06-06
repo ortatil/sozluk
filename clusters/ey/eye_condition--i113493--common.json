@@ -1,0 +1,93 @@
+{
+    "id": "i113493",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eye condition",
+    "en_definition": "the condition of the optical properties of the eye",
+    "tr_word": "göz durumu",
+    "tr_definition": "gözün optik özelliklerinin durumu",
+    "ru_word": "состояние глаз",
+    "ru_definition": "состояние оптических свойств глаза",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz durumu",
+                    "göz hali"
+                ],
+                "Azerbaijani": [
+                    "gözün vəziyyəti",
+                    "göz halı"
+                ],
+                "Turkmen": [
+                    "göz saglygy",
+                    "gözüň hili"
+                ],
+                "Uzbek": [
+                    "koʻz holati",
+                    "koʻz ahvoli"
+                ],
+                "Uyghur": [
+                    "كۆز ئەھۋالى",
+                    "كۆز ھالىتى",
+                    "كۆزنىڭ كۆرۈش قۇۋۋىتى"
+                ],
+                "Kazakh": [
+                    "көздің күйі",
+                    "көз жағдайы"
+                ],
+                "Kyrgyz": [
+                    "көз абалы",
+                    "көздүн абалы",
+                    "көз саламаттыгы"
+                ],
+                "Karakalpak": [
+                    "kóz jaǵdayı",
+                    "kózdiń halı",
+                    "kózdiń kórioi"
+                ],
+                "Tatar": [
+                    "күз торышы",
+                    "күз хәле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "görmə vəziyyəti"
+                ],
+                "Kazakh": [
+                    "көру қабілеті"
+                ],
+                "Tatar": [
+                    "күрү сәләте"
+                ],
+                "Bashkir": [
+                    "күрү һәләте",
+                    "күрү торошо",
+                    "күрү ҡеүәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göz sağlığı"
+                ],
+                "Turkmen": [
+                    "göz ýagdaýy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻz xususiyati"
+                ]
+            }
+        }
+    ]
+}

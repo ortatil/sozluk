@@ -1,0 +1,132 @@
+{
+    "id": "i78147",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chef's salad",
+    "en_definition": "the combination salad prepared as a particular chef's specialty",
+    "tr_word": "şefin salatası",
+    "tr_definition": "Bir şefin kendi özel tarifiyle hazırladığı, genellikle çeşitli et ve peynir türlerini içeren karışık salata.",
+    "ru_word": "салат от шеф-повара",
+    "ru_definition": "Комбинированный салат, приготовленный по особому рецепту шеф-повара, обычно включающий мясо, сыр и овощи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aşpaz salatı"
+                ],
+                "Turkmen": [
+                    "aşpazyň salaty"
+                ],
+                "Uzbek": [
+                    "oshpaz salati"
+                ],
+                "Uyghur": [
+                    "ئاشپەز سالاتى",
+                    "ئاشپەزنىڭ ئالاھىدە سالاتى"
+                ],
+                "Kazakh": [
+                    "аспаз салаты",
+                    "аспаз мәзіріндегі салат"
+                ],
+                "Kyrgyz": [
+                    "ашпозчу салаты"
+                ],
+                "Karakalpak": [
+                    "aspaz salatı"
+                ],
+                "Tatar": [
+                    "ашханә салаты"
+                ],
+                "Bashkir": [
+                    "ашнаҡсы салаты",
+                    "ашнаҡсының үҙенсәлекле салаты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mahsus salat"
+                ],
+                "Uzbek": [
+                    "maxsus salat"
+                ],
+                "Uyghur": [
+                    "مەخسۇس سالات"
+                ],
+                "Tatar": [
+                    "махсус салат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aralash salat"
+                ],
+                "Kazakh": [
+                    "арнайы салат"
+                ],
+                "Kyrgyz": [
+                    "аралаш салат"
+                ],
+                "Karakalpak": [
+                    "aralas salat",
+                    "arnaulı salat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özel salata"
+                ],
+                "Kyrgyz": [
+                    "өзгөчө салат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarışıq salat"
+                ],
+                "Bashkir": [
+                    "ҡатнаш салат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şefin salatası",
+                    "karışık şef salatası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xüsusi salat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "baş aşpazyň salaty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "катнаш салат"
+                ]
+            }
+        }
+    ]
+}

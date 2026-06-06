@@ -1,0 +1,100 @@
+# Year-end
+| Field | Detail |
+|---|---|
+| **ID** | i117105 |
+| **English** | year-end |
+| **Type** | noun |
+| **Definition** | the end of a calendar year |
+| **Source** | common |
+| **Ortatil** | ilsonu |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i117105",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "year-end",
+    "en_definition": "the end of a calendar year",
+    "tr_word": "yıl sonu",
+    "tr_definition": "takvim yılının bitişi",
+    "ru_word": "конец года",
+    "ru_definition": "завершение календарного года",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yıl sonu"
+                ],
+                "Azerbaijani": [
+                    "ilsonu",
+                    "ilin sonu",
+                    "ilin axırı"
+                ],
+                "Turkmen": [
+                    "ýylyň ahyry",
+                    "ýyl soňy",
+                    "ýylyň soňy"
+                ],
+                "Uzbek": [
+                    "yil yakuni",
+                    "yil oxiri",
+                    "yil nihoyasi",
+                    "yil tamomi"
+                ],
+                "Uyghur": [
+                    "يىل ئاخىرى",
+                    "يىل بېشى",
+                    "يىل تامامى"
+                ],
+                "Kazakh": [
+                    "жыл соңы",
+                    "жыл аяғы",
+                    "жыл тәмам"
+                ],
+                "Kyrgyz": [
+                    "жыл аягы",
+                    "жыл соңу",
+                    "жыл бүтүшү"
+                ],
+                "Karakalpak": [
+                    "jıl ayaǵı",
+                    "jıl sońı",
+                    "jıl tamamlanıoı"
+                ],
+                "Tatar": [
+                    "ел ахыры",
+                    "ел тәмамлану"
+                ],
+                "Bashkir": [
+                    "йыл аҙағы",
+                    "йыл ахыры",
+                    "йыл тамамланыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýyl ahyry"
+                ],
+                "Tatar": [
+                    "ел башы алды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sene sonu"
+                ]
+            }
+        }
+    ]
+}
+```
+

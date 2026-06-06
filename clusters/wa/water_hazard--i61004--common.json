@@ -1,0 +1,90 @@
+{
+    "id": "i61004",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water hazard",
+    "en_definition": "hazard provided by ponds of water that the golfer must avoid",
+    "tr_word": "su engeli",
+    "tr_definition": "Golfçünün kaçınması gereken, sahada bulunan gölet veya su birikintisi şeklindeki engel.",
+    "ru_word": "водная преграда",
+    "ru_definition": "Препятствие в виде водоема на поле для гольфа, которого игрок должен избегать.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su engeli",
+                    "su hendeği",
+                    "su birikintisi",
+                    "su tuzağı"
+                ],
+                "Azerbaijani": [
+                    "su maneəsi",
+                    "su əngəli"
+                ],
+                "Turkmen": [
+                    "suw päsgelçiligi",
+                    "suw böwedi"
+                ],
+                "Uzbek": [
+                    "suv to'sig'i",
+                    "suvli g'ov",
+                    "suv xavfi"
+                ],
+                "Uyghur": [
+                    "سۇ توسالغۇسى",
+                    "سۇ خەتىرى"
+                ],
+                "Kazakh": [
+                    "су кедергісі",
+                    "су бөгеті"
+                ],
+                "Kyrgyz": [
+                    "суу тоскоолу",
+                    "суу кедергиси",
+                    "суу бөгөтү"
+                ],
+                "Karakalpak": [
+                    "suo bóget",
+                    "suolı qáoip"
+                ],
+                "Tatar": [
+                    "су киртәсе",
+                    "су тоткарлыгы",
+                    "сулы киртә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwly päsgelçilik"
+                ],
+                "Kazakh": [
+                    "сулы кедергі"
+                ],
+                "Karakalpak": [
+                    "suolı tosqın"
+                ],
+                "Bashkir": [
+                    "һыулы урын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу кәртәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу ҡаршылығы"
+                ]
+            }
+        }
+    ]
+}

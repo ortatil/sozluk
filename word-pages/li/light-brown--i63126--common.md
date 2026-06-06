@@ -1,0 +1,190 @@
+# Light brown
+| Field | Detail |
+|---|---|
+| **ID** | i63126 |
+| **English** | light brown |
+| **Type** | noun |
+| **Definition** | a brown that is light but unsaturated |
+| **Source** | common |
+| **Ortatil** | sämän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| көрәнсу | köränsu |
+| көренчел | körençel |
+| **Bashkir** | |
+| ҡоба | qoba |
+
+```json
+{
+    "id": "i63126",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "light brown",
+    "en_definition": "a brown that is light but unsaturated",
+    "tr_word": "açık kahverengi",
+    "tr_definition": "doygunluğu düşük, açık tonlu bir kahverengi rengi",
+    "ru_word": "светло-коричневый",
+    "ru_definition": "коричневый цвет светлого оттенка с низкой насыщенностью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açık kahverengi"
+                ],
+                "Azerbaijani": [
+                    "açıq qəhvəyi"
+                ],
+                "Turkmen": [
+                    "açyk goňur"
+                ],
+                "Uzbek": [
+                    "och jigarrang"
+                ],
+                "Kyrgyz": [
+                    "ачык күрөң"
+                ],
+                "Karakalpak": [
+                    "ashıq qońır"
+                ],
+                "Tatar": [
+                    "ачык көрән"
+                ],
+                "Bashkir": [
+                    "асыҡ көрән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boz"
+                ],
+                "Azerbaijani": [
+                    "bozumtul qəhvəyi"
+                ],
+                "Kyrgyz": [
+                    "боз күрөң"
+                ],
+                "Karakalpak": [
+                    "bozǵılt qońır"
+                ],
+                "Bashkir": [
+                    "буҙғылт көрән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kumral"
+                ],
+                "Azerbaijani": [
+                    "qumral"
+                ],
+                "Kazakh": [
+                    "құм түстес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "saman"
+                ],
+                "Tatar": [
+                    "көрәнсу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сұрғылт қоңыр",
+                    "сарғыш қоңыр"
+                ],
+                "Karakalpak": [
+                    "sarǵısh qońır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "куба күрөң"
+                ],
+                "Bashkir": [
+                    "ҡоба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goňurymtyl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çalymtyl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "malla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bugʻdoyrang"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇس قوڭۇر",
+                    "سۇس جىگەررەڭ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاق قوڭۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақшыл қоңыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көренчел"
+                ]
+            }
+        }
+    ]
+}
+```
+

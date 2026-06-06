@@ -1,0 +1,176 @@
+# Sit-up
+| Field | Detail |
+|---|---|
+| **ID** | i38741 |
+| **English** | sit-up |
+| **Type** | noun |
+| **Definition** | a stomach exercise in which a person sits up from a supine position without using the arms for leverage |
+| **Source** | common |
+| **Ortatil** | mekik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| пресс | press |
+| **Tatar** | |
+| күнегү | künegü |
+| хәрәкәт | xäräkät |
+| **Bashkir** | |
+| ултырып-тороу | ultırıp-torou |
+
+```json
+{
+    "id": "i38741",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sit-up",
+    "en_definition": "a stomach exercise in which a person sits up from a supine position without using the arms for leverage",
+    "tr_word": "mekik",
+    "tr_definition": "Sırtüstü yatarken kolların yardımı olmadan gövdeyi dizlere doğru kaldırarak yapılan karın kası egzersizi.",
+    "ru_word": "подъём туловища",
+    "ru_definition": "Упражнение для мышц живота, при котором человек поднимается из положения лежа в положение сидя без помощи рук.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karın egzersizi"
+                ],
+                "Azerbaijani": [
+                    "qarın hərəkəti",
+                    "qarın məşqi"
+                ],
+                "Turkmen": [
+                    "garyn maşky"
+                ],
+                "Uzbek": [
+                    "qorin mashqi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "press mashqi"
+                ],
+                "Kazakh": [
+                    "пресс жаттығуы"
+                ],
+                "Kyrgyz": [
+                    "пресс"
+                ],
+                "Karakalpak": [
+                    "press shınıǵıuı",
+                    "press jattıǵıuı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "gavdani ko'tarish"
+                ],
+                "Tatar": [
+                    "гәүдә күтәрү"
+                ],
+                "Bashkir": [
+                    "кәүҙәне күтәреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بەدەن كۆتۈرۈش"
+                ],
+                "Kazakh": [
+                    "кеудені көтеру",
+                    "шалқадан жатып кеудені көтеру"
+                ],
+                "Kyrgyz": [
+                    "денени көтөрүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قورساق مەشىقى"
+                ],
+                "Kyrgyz": [
+                    "курсак көнүгүүсү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئولتۇرۇپ قوپۇش"
+                ],
+                "Bashkir": [
+                    "ултырып-тороу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mekik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qalxma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "göwre götermek",
+                    "göwre maşky"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "keude kóterio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күнегү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәрәкәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "матса күнегеүе"
+                ]
+            }
+        }
+    ]
+}
+```
+

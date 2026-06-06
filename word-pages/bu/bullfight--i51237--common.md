@@ -1,0 +1,107 @@
+# Bullfight
+| Field | Detail |
+|---|---|
+| **ID** | i51237 |
+| **English** | bullfight |
+| **Type** | noun |
+| **Definition** | a Spanish or Portuguese or Latin American spectacle; a matador baits and (usually) kills a bull in an arena before many spectators |
+| **Source** | common |
+| **Ortatil** | korrüda |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i51237",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bullfight",
+    "en_definition": "a Spanish or Portuguese or Latin American spectacle; a matador baits and (usually) kills a bull in an arena before many spectators",
+    "tr_word": "boğa güreşi",
+    "tr_definition": "Bir arenada matadorun bir boğayı kışkırtıp genellikle öldürdüğü İspanyol, Portekiz veya Latin Amerika kökenli gösteri.",
+    "ru_word": "коррида",
+    "ru_definition": "Традиционное испанское зрелище, в ходе которого матадор сражается с быком на арене и обычно убивает его.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boğa güreşi",
+                    "boğa dövüşü"
+                ],
+                "Azerbaijani": [
+                    "buğa döyüşü"
+                ],
+                "Uzbek": [
+                    "buqa jangi"
+                ],
+                "Uyghur": [
+                    "بۇقا جېڭى"
+                ],
+                "Kazakh": [
+                    "бұқа айқасы",
+                    "бұқа шайқасы",
+                    "бұқамен айқас"
+                ],
+                "Kyrgyz": [
+                    "бука салгылашуу",
+                    "бука уруш",
+                    "бука менен кармаш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "öküz döyüşü"
+                ],
+                "Turkmen": [
+                    "öküz söweşi",
+                    "öküz uruşy"
+                ],
+                "Uzbek": [
+                    "ho'kiz jangi"
+                ],
+                "Karakalpak": [
+                    "ógiz urıstırıo",
+                    "ógiz soǵısı"
+                ],
+                "Tatar": [
+                    "үгез сугышы",
+                    "үгез көрәше"
+                ],
+                "Bashkir": [
+                    "үгеҙ алышы",
+                    "үгеҙҙәр алышы",
+                    "үгеҙ менән алыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "korrida"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كاللا ئۇرۇشتۇرۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۇقا ئۇرۇشتۇرۇش"
+                ]
+            }
+        }
+    ]
+}
+```
+

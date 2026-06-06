@@ -1,0 +1,103 @@
+{
+    "id": "i59238",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "space bar",
+    "en_definition": "the bar-shaped typewriter key that introduces spaces when used",
+    "tr_word": "boşluk tuşu",
+    "tr_definition": "yazı yazarken kelimeler arasında boşluk bırakmaya yarayan, klavyenin en altındaki uzun tuş",
+    "ru_word": "пробел",
+    "ru_definition": "самая длинная клавиша на клавиатуре, используемая для ввода символа пустого пространства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boşluk tuşu"
+                ],
+                "Azerbaijani": [
+                    "boşluq düyməsi"
+                ],
+                "Turkmen": [
+                    "boşluk düwmesi"
+                ],
+                "Uzbek": [
+                    "bo'shliq tugmasi"
+                ],
+                "Uyghur": [
+                    "بوشلۇق كۇنۇپكىسى"
+                ],
+                "Kazakh": [
+                    "бос орын пернесі",
+                    "бос орын"
+                ],
+                "Kyrgyz": [
+                    "боштук баскычы"
+                ],
+                "Karakalpak": [
+                    "bos orın pernesi"
+                ],
+                "Tatar": [
+                    "бушлык төймәсе"
+                ],
+                "Bashkir": [
+                    "бушлыҡ төймәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ara tuşu"
+                ],
+                "Azerbaijani": [
+                    "ara düyməsi"
+                ],
+                "Turkmen": [
+                    "ara düwmesi"
+                ],
+                "Uyghur": [
+                    "ئارىلىق كۇنۇپكىسى"
+                ],
+                "Kazakh": [
+                    "аралық перне"
+                ],
+                "Kyrgyz": [
+                    "аралык баскычы"
+                ],
+                "Karakalpak": [
+                    "aralıq pernesi"
+                ],
+                "Tatar": [
+                    "ара калдыру төймәсе",
+                    "аралык төймәсе"
+                ],
+                "Bashkir": [
+                    "аралыҡ төймәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fasilə düyməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "masofa tugmasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "probel tugmasi"
+                ]
+            }
+        }
+    ]
+}

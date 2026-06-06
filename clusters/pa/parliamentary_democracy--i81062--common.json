@@ -1,0 +1,89 @@
+{
+    "id": "i81062",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "parliamentary democracy",
+    "en_definition": "a democracy having a parliament",
+    "tr_word": "parlamenter demokrasi",
+    "tr_definition": "halkın seçtiği temsilcilerden oluşan bir parlamentonun yürütme organını denetlediği yönetim biçimi",
+    "ru_word": "парламентская демократия",
+    "ru_definition": "форма государственного устройства, при которой правительство несёт ответственность перед парламентом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "parlamenter demokrasi",
+                    "parlamenter sistem"
+                ],
+                "Azerbaijani": [
+                    "parlamentar demokratiya",
+                    "parlamentli demokratiya"
+                ],
+                "Turkmen": [
+                    "parlamentar demokratiýa",
+                    "parlamentar halk häkimiýeti"
+                ],
+                "Uzbek": [
+                    "parlamentar demokratiya",
+                    "parlamentar xalq hokimiyati",
+                    "parlamentar tuzum"
+                ],
+                "Uyghur": [
+                    "پارلامېنتلىق دېموكراتىيە",
+                    "پارلامېنت تۈزۈمىدىكى دېموكراتىيە"
+                ],
+                "Kazakh": [
+                    "парламенттік демократия",
+                    "парламенттік халық билігі"
+                ],
+                "Kyrgyz": [
+                    "парламенттик демократия",
+                    "парламенттик башкаруу"
+                ],
+                "Karakalpak": [
+                    "parlamentlik demokratiya",
+                    "parlamentlik xalıq hákimligi"
+                ],
+                "Tatar": [
+                    "парламент демократиясе",
+                    "парламент идарәсе"
+                ],
+                "Bashkir": [
+                    "парламент демократияһы",
+                    "парламентлы халыҡ идараһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meclis demokrasisi"
+                ],
+                "Azerbaijani": [
+                    "məclisli xalq hakimiyyəti"
+                ],
+                "Turkmen": [
+                    "mejlisli demokratiýa"
+                ],
+                "Uyghur": [
+                    "مەجلىسلىك دېموكراتىيە"
+                ],
+                "Kazakh": [
+                    "мәжілістік демократия"
+                ],
+                "Tatar": [
+                    "мәҗлес идарәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "элдик бийлик"
+                ]
+            }
+        }
+    ]
+}

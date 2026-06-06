@@ -1,0 +1,106 @@
+{
+    "id": "i47769",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bunny",
+    "en_definition": "(usually informal) especially a young rabbit",
+    "tr_word": "tavşancık",
+    "tr_definition": "Genellikle küçük veya genç tavşanlar için kullanılan sevgi dolu ifade.",
+    "ru_word": "зайка",
+    "ru_definition": "Ласковое название зайца или кролика, обычно маленького.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quyoncha"
+                ],
+                "Kazakh": [
+                    "қоян"
+                ],
+                "Kyrgyz": [
+                    "коён",
+                    "коёнчок"
+                ],
+                "Karakalpak": [
+                    "qoyan"
+                ],
+                "Tatar": [
+                    "куян",
+                    "куян баласы",
+                    "куянкай"
+                ],
+                "Bashkir": [
+                    "ҡуян",
+                    "ҡуян балаһы",
+                    "ҡуянсыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavşancık",
+                    "tavşan"
+                ],
+                "Azerbaijani": [
+                    "dovşan",
+                    "dovşancıq"
+                ],
+                "Turkmen": [
+                    "towşan",
+                    "towşanjyk"
+                ],
+                "Uyghur": [
+                    "توشقانچاق",
+                    "توشقان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bala dovşan"
+                ],
+                "Uzbek": [
+                    "bolajon quyon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پاچاق"
+                ],
+                "Kyrgyz": [
+                    "бөжөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көжек"
+                ],
+                "Karakalpak": [
+                    "kójek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yavru tavşan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mitti quyon"
+                ]
+            }
+        }
+    ]
+}

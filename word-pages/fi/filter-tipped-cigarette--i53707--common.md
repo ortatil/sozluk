@@ -1,0 +1,107 @@
+# Filter-tipped cigarette
+| Field | Detail |
+|---|---|
+| **ID** | i53707 |
+| **English** | filter-tipped cigarette |
+| **Type** | noun |
+| **Definition** | a cigarette with a filter tip |
+| **Source** | common |
+| **Ortatil** | papiros |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i53707",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "filter-tipped cigarette",
+    "en_definition": "a cigarette with a filter tip",
+    "tr_word": "filtreli sigara",
+    "tr_definition": "ucunda tütün parçacıklarını ve katranı süzmeye yarayan bir filtre bulunan sigara",
+    "ru_word": "сигарета с фильтром",
+    "ru_definition": "сигарета, снабженная специальным фильтрующим наконечником для очистки дыма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "süzgeçli sigara"
+                ],
+                "Azerbaijani": [
+                    "süzgəcli siqaret"
+                ],
+                "Turkmen": [
+                    "süzgüçli çilim"
+                ],
+                "Uyghur": [
+                    "سۈزگۈچلۈك تاماكا"
+                ],
+                "Kazakh": [
+                    "сүзгілі темекі",
+                    "сүзгісі бар темекі"
+                ],
+                "Kyrgyz": [
+                    "сүзгүчтүү тамеки"
+                ],
+                "Karakalpak": [
+                    "súzgili shılım",
+                    "súzgili papiros"
+                ],
+                "Tatar": [
+                    "сөзгечле тәмәке"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "filtreli sigara"
+                ],
+                "Azerbaijani": [
+                    "filtrli siqaret"
+                ],
+                "Uzbek": [
+                    "filtrli tamaki",
+                    "filtrli sigaret"
+                ],
+                "Uyghur": [
+                    "پىلتىلىق تاماكا"
+                ],
+                "Tatar": [
+                    "фильтрлы тәмәке"
+                ],
+                "Bashkir": [
+                    "фильтрлы тәмәке",
+                    "фильтрлы папирос"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağızlıklı sigara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "papiros"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чыпкалуу тамеки"
+                ]
+            }
+        }
+    ]
+}
+```
+

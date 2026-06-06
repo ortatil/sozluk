@@ -1,0 +1,97 @@
+{
+    "id": "i92446",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rape suspect",
+    "en_definition": "someone who is suspected of committing rape",
+    "tr_word": "tecavüz zanlısı",
+    "tr_definition": "tecavüz suçu işlediğinden şüphelenilen kişi",
+    "ru_word": "подозреваемый в изнасиловании",
+    "ru_definition": "лицо, подозреваемое в совершении изнасилования",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "zorlama şübhəlisi"
+                ],
+                "Turkmen": [
+                    "zorlama şübhelisi",
+                    "zorlukda güman edilýän"
+                ],
+                "Uzbek": [
+                    "zo'rlashda gumon qilinuvchi"
+                ],
+                "Uyghur": [
+                    "زوراۋانلىق قىلىش گۇماندارى"
+                ],
+                "Kazakh": [
+                    "зорлаушы күдікті",
+                    "зорлауға күдікті",
+                    "зорлау қылмысына күдікті"
+                ],
+                "Kyrgyz": [
+                    "зордуктоого шектүү",
+                    "зордуктоочу деп шектелген адам",
+                    "зордуктоого шектелүүчү"
+                ],
+                "Karakalpak": [
+                    "zorlıqshı dep sheklengen adam",
+                    "zorlıqshılıqta gúmanlanıp atırǵan shaxs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "namysa degmekde güman edilýän"
+                ],
+                "Uzbek": [
+                    "nomusga tegishda gumonlanuvchi"
+                ],
+                "Uyghur": [
+                    "نامۇسقا تەگكۈچى گۇماندارى"
+                ],
+                "Karakalpak": [
+                    "namısqa tiyude ayıplanıp atırǵan adam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tecavüz zanlısı",
+                    "tecavüz şüphelisi"
+                ],
+                "Azerbaijani": [
+                    "təcavüz şübhəlisi",
+                    "təcavüzdə şübhəli bilinən şəxs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "iffatga tajovuz qilishda gumonlanuvchi"
+                ],
+                "Uyghur": [
+                    "ئىپپەتكە چېقىلىش گۇماندارى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көчләүдә шикләнелүче",
+                    "көчләүдә шикле кеше",
+                    "көчләүдә гаепләнүче"
+                ],
+                "Bashkir": [
+                    "көсләүҙә шикләнелеүсе",
+                    "көсләүҙә ғәйепләнеүсе"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "i109628",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "west",
+    "en_definition": "the direction corresponding to the westward cardinal compass point",
+    "tr_word": "batı",
+    "tr_definition": "Güneşin battığı yön, gün batısı",
+    "ru_word": "запад",
+    "ru_definition": "одна из четырех сторон света, противоположная востоку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məğrib"
+                ],
+                "Turkmen": [
+                    "magryp"
+                ],
+                "Uzbek": [
+                    "mag'rib"
+                ],
+                "Kazakh": [
+                    "мағриб"
+                ],
+                "Kyrgyz": [
+                    "магриб"
+                ],
+                "Karakalpak": [
+                    "maǵrip"
+                ],
+                "Tatar": [
+                    "мәгъриб"
+                ],
+                "Bashkir": [
+                    "мәғриб"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "günbatısı"
+                ],
+                "Azerbaijani": [
+                    "günbatan"
+                ],
+                "Turkmen": [
+                    "günbatar"
+                ],
+                "Uzbek": [
+                    "kunbotar"
+                ],
+                "Uyghur": [
+                    "كۈنپېتىش"
+                ],
+                "Kazakh": [
+                    "күнбатыс"
+                ],
+                "Tatar": [
+                    "көнбатыш"
+                ],
+                "Bashkir": [
+                    "көнбайыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "batı"
+                ],
+                "Kazakh": [
+                    "батыс"
+                ],
+                "Kyrgyz": [
+                    "батыш"
+                ],
+                "Karakalpak": [
+                    "batıs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "garp"
+                ],
+                "Azerbaijani": [
+                    "qərb"
+                ],
+                "Uzbek": [
+                    "g'arb"
+                ],
+                "Uyghur": [
+                    "غەرب"
+                ]
+            }
+        }
+    ]
+}

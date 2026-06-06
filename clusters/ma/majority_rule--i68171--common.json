@@ -1,0 +1,84 @@
+{
+    "id": "i68171",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "majority rule",
+    "en_definition": "the doctrine that the numerical majority of an organized group can make decisions binding on the whole group",
+    "tr_word": "çoğunluk yönetimi",
+    "tr_definition": "örgütlü bir gruptaki sayısal çoğunluğun, grubun tamamı için bağlayıcı kararlar alabileceği ilkesi",
+    "ru_word": "власть большинства",
+    "ru_definition": "принцип, согласно которому численное большинство организованной группы может принимать решения, обязательные для всей группы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köplük häkimiýeti",
+                    "köplük karary",
+                    "köplügiň erk-eradasy"
+                ],
+                "Uzbek": [
+                    "koʻpchilik hokimiyati",
+                    "koʻpchilik irodasi"
+                ],
+                "Uyghur": [
+                    "كۆپچىلىك ئىرادىسى",
+                    "كۆپچىلىك قارارى",
+                    "كۆپچىلىك ھۆكۈمرانلىقى"
+                ],
+                "Kazakh": [
+                    "көпшілік билігі",
+                    "көпшілік шешімі",
+                    "көпшілік еркі"
+                ],
+                "Kyrgyz": [
+                    "көпчүлүктүн бийлиги",
+                    "көпчүлүктүн чечими",
+                    "көпчүлүктүн эрки"
+                ],
+                "Karakalpak": [
+                    "kópshilik biyligi",
+                    "kópshilik qararı",
+                    "kópshilik erki"
+                ],
+                "Tatar": [
+                    "күпчелек хакимлеге",
+                    "күпчелек идарәсе",
+                    "күпчелек карары"
+                ],
+                "Bashkir": [
+                    "күпселек идараһы",
+                    "күпселек хакимлығы",
+                    "күпселек ҡарары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekseriyet usulü",
+                    "ekseriyet kuralı"
+                ],
+                "Azerbaijani": [
+                    "əksəriyyət üsulu"
+                ],
+                "Uzbek": [
+                    "aksariyat boshqaruvi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çoğunluk yönetimi",
+                    "çoğunluk ilkesi"
+                ],
+                "Azerbaijani": [
+                    "çoxluq hakimiyyəti",
+                    "çoxluq qərarı"
+                ]
+            }
+        }
+    ]
+}

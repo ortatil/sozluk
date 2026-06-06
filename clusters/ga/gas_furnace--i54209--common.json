@@ -1,0 +1,77 @@
+{
+    "id": "i54209",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gas furnace",
+    "en_definition": "a furnace that burns gas",
+    "tr_word": "gazlı fırın",
+    "tr_definition": "yakıt olarak gaz kullanan ısıtma sistemi veya fırın",
+    "ru_word": "газовая печь",
+    "ru_definition": "печь, работающая на газовом топливе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gazlı ocak",
+                    "gazlı fırın"
+                ],
+                "Azerbaijani": [
+                    "qaz sobası",
+                    "qaz peçi",
+                    "qaz kürəsi"
+                ],
+                "Turkmen": [
+                    "gaz peji",
+                    "gaz ojagy",
+                    "gazly peç"
+                ],
+                "Uzbek": [
+                    "gazli pech",
+                    "gazli o'choq",
+                    "gazli isitgich"
+                ],
+                "Uyghur": [
+                    "گاز ئوچىقى",
+                    "گاز پېچى",
+                    "گازلىق ئوچاق"
+                ],
+                "Kazakh": [
+                    "газ пеші",
+                    "газ ошағы"
+                ],
+                "Kyrgyz": [
+                    "газ меши",
+                    "газ очогу",
+                    "газ казаны"
+                ],
+                "Karakalpak": [
+                    "gaz peshi",
+                    "gaz oshaǵı"
+                ],
+                "Tatar": [
+                    "газ миче",
+                    "газ учагы"
+                ],
+                "Bashkir": [
+                    "газ мейесе",
+                    "газ усағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğalgazlı fırın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "газ җылыткычы"
+                ]
+            }
+        }
+    ]
+}

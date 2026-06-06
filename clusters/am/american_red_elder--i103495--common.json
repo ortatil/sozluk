@@ -1,0 +1,100 @@
+{
+    "id": "i103495",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "american red elder",
+    "en_definition": "common North American shrub or small tree",
+    "tr_word": "Amerikan kırmızı mürveri",
+    "tr_definition": "Kuzey Amerika'ya özgü, kırmızı meyveleri olan yaygın bir çalı veya küçük ağaç türü",
+    "ru_word": "бузина красная американская",
+    "ru_definition": "обыкновенный североамериканский кустарник или небольшое дерево",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyzyl şatut"
+                ],
+                "Uzbek": [
+                    "qizil marjon"
+                ],
+                "Uyghur": [
+                    "قىزىل مەرۋايىتگۈل"
+                ],
+                "Kazakh": [
+                    "қызыл аюбадам",
+                    "қызыл аюбадам бұтасы"
+                ],
+                "Kyrgyz": [
+                    "кызыл аюу бадам",
+                    "кызыл шилби"
+                ],
+                "Karakalpak": [
+                    "qızıl ayubadam",
+                    "qızıl marjan"
+                ],
+                "Tatar": [
+                    "кызыл мәрвәр",
+                    "кызыл бузина"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл буҙана",
+                    "ҡыҙыл мәрәүәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Amerika qırmızı gəndalaşı"
+                ],
+                "Turkmen": [
+                    "Amerikan şatut",
+                    "Amerikan şatudy"
+                ],
+                "Uyghur": [
+                    "ئامېرىكا قىزىل مەرۋايىتگۈلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırmızı mürver"
+                ],
+                "Azerbaijani": [
+                    "qırmızı gəndalaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bodur mürver"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yabani mürver"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "marjon daraxti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sambuka"
+                ]
+            }
+        }
+    ]
+}

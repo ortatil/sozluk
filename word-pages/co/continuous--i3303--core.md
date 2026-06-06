@@ -1,0 +1,293 @@
+# Continuous
+| Field | Detail |
+|---|---|
+| **ID** | i3303 |
+| **English** | continuous |
+| **Type** | adjective |
+| **Definition** | continuing in time or space without interruption |
+| **Source** | core |
+| **Ortatil** | üzlüksüz, däwamlı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **üzlüksüz** | **däwamlı** | **toqtawsız** | **kesintisiz** | **turaqtı** |
+|---|---|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ | ✅ | ❌ |
+| Azerbaijani | ❌ | ✅ | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ✅ | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ | ✅ | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ❌ | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.67 | 0 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 1 | 0 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.40 | 1 | 0 | 0.60 |
+| *In All* | ✅ | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |  |
+| **O'TQ** | **3.33** | **3.07** | **2** | **1** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئۈزلۈكسىز | üzlüksiz |
+| توقتاۋسىز | toqtavsiz |
+| داۋاملىق | davamliq |
+| مۇتتەسىل | muttäsil |
+| **Kazakh** | |
+| үздіксіз | üzdiksiz |
+| тоқтаусыз | toqtausız |
+| тұрақты | turaqtı |
+| толассыз | tolassız |
+| жалғаспалы | jalğaspalı |
+| **Kyrgyz** | |
+| үзгүлтүксүз | üzgültüksüz |
+| токтоосуз | toktoosuz |
+| туруктуу | turuktuu |
+| тынымсыз | tınımsız |
+| улануучу | ulanuuçu |
+| **Tatar** | |
+| өзлексез | özleksez |
+| туктаусыз | tuktausız |
+| дәвамлы | dävamlı |
+| бөтен | böten |
+| **Bashkir** | |
+| өҙлөкһөҙ | özlökhöz |
+| туҡтауһыҙ | tuqtauhız |
+| аралашһыҙ | aralaşhız |
+| daimi | daimi |
+
+```json
+{
+    "id": "i3303",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "continuous",
+    "en_definition": "continuing in time or space without interruption",
+    "tr_word": "sürekli",
+    "tr_definition": "zaman veya mekân içinde kesintiye uğramadan devam eden",
+    "ru_word": "непрерывный",
+    "ru_definition": "продолжающийся во времени или пространстве без перерывов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "üznüksiz"
+                ],
+                "Uzbek": [
+                    "uzluksiz"
+                ],
+                "Uyghur": [
+                    "ئۈزلۈكسىز"
+                ],
+                "Kazakh": [
+                    "үздіксіз"
+                ],
+                "Kyrgyz": [
+                    "үзгүлтүксүз"
+                ],
+                "Karakalpak": [
+                    "úzliksiz"
+                ],
+                "Tatar": [
+                    "өзлексез"
+                ],
+                "Bashkir": [
+                    "өҙлөкһөҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'xtovsiz"
+                ],
+                "Uyghur": [
+                    "توقتاۋسىز"
+                ],
+                "Kazakh": [
+                    "тоқтаусыз"
+                ],
+                "Kyrgyz": [
+                    "токтоосуз"
+                ],
+                "Karakalpak": [
+                    "toqtausız"
+                ],
+                "Tatar": [
+                    "туктаусыз"
+                ],
+                "Bashkir": [
+                    "туҡтауһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "davamlı"
+                ],
+                "Turkmen": [
+                    "dowamly"
+                ],
+                "Uzbek": [
+                    "davomli"
+                ],
+                "Uyghur": [
+                    "داۋاملىق"
+                ],
+                "Karakalpak": [
+                    "dáoamlı"
+                ],
+                "Tatar": [
+                    "дәвамлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kesintisiz"
+                ],
+                "Azerbaijani": [
+                    "kəsilməz"
+                ],
+                "Turkmen": [
+                    "kesilmesiz"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тұрақты"
+                ],
+                "Kyrgyz": [
+                    "туруктуу"
+                ],
+                "Karakalpak": [
+                    "turaqlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aralıksız"
+                ],
+                "Azerbaijani": [
+                    "ara vermədən"
+                ],
+                "Bashkir": [
+                    "аралашһыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "daimi"
+                ],
+                "Bashkir": [
+                    "daimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mütemadi"
+                ],
+                "Azerbaijani": [
+                    "mütəmadi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muttasil"
+                ],
+                "Uyghur": [
+                    "مۇتتەسىل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dynman"
+                ],
+                "Kyrgyz": [
+                    "тынымсыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sürekli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ardıcıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzygiderli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "толассыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалғаспалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "улануучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "paydar-pay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бөтен"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,209 @@
+{
+    "id": "i25013",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "categorize",
+    "en_definition": "place into or assign to a category",
+    "tr_word": "kategorize etmek",
+    "tr_definition": "belirli bir kategoriye yerleştirmek veya bir kategoriye atamak",
+    "ru_word": "категоризировать",
+    "ru_definition": "помещать в определенную категорию или относить к ней",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tertiplemek"
+                ],
+                "Uyghur": [
+                    "تۈرلىمەك"
+                ],
+                "Kyrgyz": [
+                    "түркүмдөө"
+                ],
+                "Karakalpak": [
+                    "túrlerge bólio",
+                    "tártipleo"
+                ],
+                "Tatar": [
+                    "төркемләү",
+                    "төрләргә аеру",
+                    "төркемнәргә бүлү"
+                ],
+                "Bashkir": [
+                    "төркөмләү",
+                    "төрҙәргә айырыу",
+                    "төркөмдәргә бүлеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tasnif etmek"
+                ],
+                "Azerbaijani": [
+                    "təsnif etmək"
+                ],
+                "Turkmen": [
+                    "tasnyf etmek"
+                ],
+                "Uzbek": [
+                    "tasniflamoq"
+                ],
+                "Uyghur": [
+                    "تەسنىفلىمەك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gruplandırmak"
+                ],
+                "Azerbaijani": [
+                    "qruplaşdırmaq"
+                ],
+                "Uzbek": [
+                    "guruhlamoq"
+                ],
+                "Uyghur": [
+                    "گۇرۇپپىلىماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayırmak"
+                ],
+                "Azerbaijani": [
+                    "ayırmaq"
+                ],
+                "Uzbek": [
+                    "ajratmoq"
+                ],
+                "Kazakh": [
+                    "айыру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bölümlemek"
+                ],
+                "Azerbaijani": [
+                    "bölmək"
+                ],
+                "Kazakh": [
+                    "бөлу"
+                ],
+                "Kyrgyz": [
+                    "бөлүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "toparlamak",
+                    "topara bölmek"
+                ],
+                "Kazakh": [
+                    "топтастыру"
+                ],
+                "Kyrgyz": [
+                    "топтоо"
+                ],
+                "Karakalpak": [
+                    "toparlao"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınıflandırmak"
+                ],
+                "Turkmen": [
+                    "synplara bölmek"
+                ],
+                "Tatar": [
+                    "сыйныфлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "turkumlash"
+                ],
+                "Uyghur": [
+                    "تۈرگە ئايرىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сұрыптау"
+                ],
+                "Kyrgyz": [
+                    "сорттоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәртипкә салу"
+                ],
+                "Bashkir": [
+                    "тәртипкә килтереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sıralamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tabaqalamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жіктеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "класстоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "júyeleo"
+                ]
+            }
+        }
+    ]
+}

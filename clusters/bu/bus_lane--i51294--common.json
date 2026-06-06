@@ -1,0 +1,106 @@
+{
+    "id": "i51294",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bus lane",
+    "en_definition": "a traffic lane intended for buses only",
+    "tr_word": "otobüs şeridi",
+    "tr_definition": "sadece otobüslerin kullanımına ayrılmış trafik şeridi",
+    "ru_word": "выделенная полоса для автобусов",
+    "ru_definition": "полоса движения, предназначенная исключительно для общественного транспорта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtobus zolağı",
+                    "avtobus yolu"
+                ],
+                "Turkmen": [
+                    "awtobus ýoly",
+                    "awtobus zolagy"
+                ],
+                "Uzbek": [
+                    "avtobus yoʻlagi"
+                ],
+                "Uyghur": [
+                    "ئاپتوبۇس يولى",
+                    "ئاپتوبۇس مەخسۇس يولى"
+                ],
+                "Kazakh": [
+                    "автобус жолағы"
+                ],
+                "Kyrgyz": [
+                    "автобус тилкеси",
+                    "автобус жолу"
+                ],
+                "Karakalpak": [
+                    "awtobus jolı",
+                    "awtobus qatarı"
+                ],
+                "Tatar": [
+                    "автобус юлы",
+                    "автобус сызыгы",
+                    "автобус полосасы"
+                ],
+                "Bashkir": [
+                    "автобус һыҙаты",
+                    "автобус юлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maxsus yoʻlak"
+                ],
+                "Bashkir": [
+                    "махсус һыҙат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otobüs yolu",
+                    "otobüs şeridi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toplu taşıma yolu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоғамдық көлік жолағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арнайы жолақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коомдук транспорт тилкеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jámiyetlik transport jolı"
+                ]
+            }
+        }
+    ]
+}

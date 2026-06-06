@@ -1,0 +1,266 @@
+# Inaccessible
+| Field | Detail |
+|---|---|
+| **ID** | i94 |
+| **English** | inaccessible |
+| **Type** | adjective |
+| **Definition** | capable of being reached only with great difficulty or not at all |
+| **Source** | common |
+| **Ortatil** | cetkilikmä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **cetkilikmä** | **müşhgul** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ❌ | ✅ |
+| Uyghur | ❌ | ✅ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.33 |
+| *Qarluq Subtotal* | 0 | 1 |
+| *Qipchaq Subtotal* | 0.60 | 0 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  |
+| **O'TQ** | **1.77** | **1.33** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مۇشەققەتلىك | muşäqqätlik |
+| توسالغۇلۇق | tosalğuluq |
+| قىيىن | qiyin |
+| **Kazakh** | |
+| жеткізбес | jetkizbes |
+| қолжетпес | qoljetpes |
+| қиын | qiın |
+| алыс | alıs |
+| **Kyrgyz** | |
+| жеткиликсиз | jetkiliksiz |
+| **Tatar** | |
+| итүсез | itüsez |
+| ябык | yabık |
+
+```json
+{
+    "id": "i94",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "inaccessible",
+    "en_definition": "capable of being reached only with great difficulty or not at all",
+    "tr_word": "erişilemez",
+    "tr_definition": "ulaşılması imkansız veya çok güç olan",
+    "ru_word": "недоступный",
+    "ru_definition": "такой, к которому нельзя подойти или до которого нельзя добраться",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "varılamaz"
+                ],
+                "Turkmen": [
+                    "baryp bolmaýan"
+                ],
+                "Uzbek": [
+                    "borib bo'lmas"
+                ],
+                "Uyghur": [
+                    "بارغىلى بولمايدىغان"
+                ],
+                "Kazakh": [
+                    "баруы қиын"
+                ],
+                "Kyrgyz": [
+                    "барууга мүмкүн эмес"
+                ],
+                "Karakalpak": [
+                    "barılmas"
+                ],
+                "Tatar": [
+                    "барып җитмәслек"
+                ],
+                "Bashkir": [
+                    "барып булмаҫлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çatılmaz"
+                ],
+                "Turkmen": [
+                    "çetin"
+                ],
+                "Uzbek": [
+                    "yetib bo'lmas"
+                ],
+                "Uyghur": [
+                    "يەتكىلى بولمايدىغان"
+                ],
+                "Kazakh": [
+                    "жеткізбес"
+                ],
+                "Kyrgyz": [
+                    "жеткиликсиз",
+                    "жетүүгө кыйын"
+                ],
+                "Karakalpak": [
+                    "jetkiliksiz"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қолжетпес"
+                ],
+                "Kyrgyz": [
+                    "кол жеткис"
+                ],
+                "Karakalpak": [
+                    "qol jetpes"
+                ],
+                "Tatar": [
+                    "кул җитмәслек"
+                ],
+                "Bashkir": [
+                    "ҡул етмәҫлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mümkünsüz"
+                ],
+                "Tatar": [
+                    "мөмкин түгел"
+                ],
+                "Bashkir": [
+                    "мөмкин булмаған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "müshgil"
+                ],
+                "Uzbek": [
+                    "mushkul"
+                ],
+                "Uyghur": [
+                    "مۇشەققەتلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "erişilemez"
+                ],
+                "Uzbek": [
+                    "erishib bo'lmas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əlçatmaz"
+                ],
+                "Turkmen": [
+                    "elýetmez"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "keçilməz"
+                ],
+                "Turkmen": [
+                    "geçip bolmaýan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dushvor"
+                ],
+                "Uyghur": [
+                    "توسالغۇلۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قىيىن"
+                ],
+                "Kazakh": [
+                    "қиын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алыс"
+                ],
+                "Karakalpak": [
+                    "alıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ulaşılamaz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "итүсез"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ябык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үтеп булмаҫлыҡ"
+                ]
+            }
+        }
+    ]
+}
+```
+

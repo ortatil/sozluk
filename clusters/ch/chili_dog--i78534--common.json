@@ -1,0 +1,103 @@
+{
+    "id": "i78534",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chili dog",
+    "en_definition": "a hotdog with chili con carne on it",
+    "tr_word": "çili dog",
+    "tr_definition": "üzerinde acılı kıymalı sos (chili con carne) bulunan sosisli sandviç",
+    "ru_word": "чили-дог",
+    "ru_definition": "хот-дог, приправленный мясным соусом чили кон карне",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ajy sously hot-dog",
+                    "ajy etli hot-dog"
+                ],
+                "Uyghur": [
+                    "ئاچچىق گۆشلۈك خوستوگ"
+                ],
+                "Kazakh": [
+                    "ащы тұздықты хот-дог"
+                ],
+                "Kyrgyz": [
+                    "ачуу соус менен хот-дог",
+                    "ачуу эт менен хот-дог"
+                ],
+                "Karakalpak": [
+                    "ashchshchı souslı xot-dog"
+                ],
+                "Tatar": [
+                    "ачы соуслы хот-дог"
+                ],
+                "Bashkir": [
+                    "асы һалынған хот-дог",
+                    "асы ит соусы менән хот-дог"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıymalı sosisli sandviç",
+                    "etli sosisli"
+                ],
+                "Azerbaijani": [
+                    "çili sosisli",
+                    "ətli sosisli çörək"
+                ],
+                "Karakalpak": [
+                    "etli souslı xot-dog"
+                ],
+                "Tatar": [
+                    "итле соуслы кайнар икмәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıymalı sosisli"
+                ],
+                "Uzbek": [
+                    "qiyma qaylali xot-dog"
+                ],
+                "Uyghur": [
+                    "قىيمىلىق خوستوگ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çili hot-doq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "achchiq qaylali xot-dog"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ащы бұрышты шұжық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "етті тұздықты шұжық"
+                ]
+            }
+        }
+    ]
+}

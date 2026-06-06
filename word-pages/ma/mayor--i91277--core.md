@@ -1,0 +1,226 @@
+# Mayor
+| Field | Detail |
+|---|---|
+| **ID** | i91277 |
+| **English** | mayor |
+| **Type** | noun |
+| **Definition** | the head of a city government |
+| **Source** | core |
+| **Ortatil** | häkim |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **häkim** | **basçı** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.60 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **3.33** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ھەكىم | häkim |
+| بەگ | bäg |
+| **Kazakh** | |
+| әкім | äkim |
+| басшы | basşı |
+| **Kyrgyz** | |
+| аким | akim |
+| башчы | başçı |
+| мэр | mer |
+| **Tatar** | |
+| хаким | xakim |
+| мэр | mer |
+| **Bashkir** | |
+| хаким | xakim |
+| мөҙир | mözir |
+
+```json
+{
+    "id": "i91277",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "mayor",
+    "en_definition": "the head of a city government",
+    "tr_word": "belediye başkanı",
+    "tr_definition": "bir şehrin veya ilçenin yönetiminden sorumlu olan en üst düzey yetkili",
+    "ru_word": "мэр",
+    "ru_definition": "глава городской администрации или исполнительной власти города",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "häkim"
+                ],
+                "Uzbek": [
+                    "hokim"
+                ],
+                "Uyghur": [
+                    "ھەكىم"
+                ],
+                "Kazakh": [
+                    "әкім"
+                ],
+                "Kyrgyz": [
+                    "аким"
+                ],
+                "Karakalpak": [
+                    "hákim"
+                ],
+                "Tatar": [
+                    "хаким"
+                ],
+                "Bashkir": [
+                    "хаким"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəhər hakimi"
+                ],
+                "Turkmen": [
+                    "şäher häkimi"
+                ],
+                "Uzbek": [
+                    "shahar hokimi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "басшы"
+                ],
+                "Kyrgyz": [
+                    "башчы"
+                ],
+                "Karakalpak": [
+                    "basshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "başlyk"
+                ],
+                "Karakalpak": [
+                    "baslıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "belediye başkanı"
+                ],
+                "Azerbaijani": [
+                    "bələdiyyə başqanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شەھەر باشلىقى"
+                ],
+                "Tatar": [
+                    "шәһәр башлыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мэр"
+                ],
+                "Tatar": [
+                    "мэр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаар башчысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қала басы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡала башлығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rais"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bələdiyyə rəisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şəhər rəisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şehremini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بەگ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мөҙир"
+                ]
+            }
+        }
+    ]
+}
+```
+

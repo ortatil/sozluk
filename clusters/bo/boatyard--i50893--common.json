@@ -1,0 +1,104 @@
+{
+    "id": "i50893",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "boatyard",
+    "en_definition": "a place where boats are built or maintained or stored",
+    "tr_word": "tersane",
+    "tr_definition": "teknelerin inşa edildiği, bakımının yapıldığı veya depolandığı yer",
+    "ru_word": "верфь",
+    "ru_definition": "место, где строятся, обслуживаются или хранятся лодки и катера",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gemi yapım yeri"
+                ],
+                "Azerbaijani": [
+                    "gəmiqayırma zavodu",
+                    "gəmi təmiri yeri"
+                ],
+                "Turkmen": [
+                    "gämi gurluşyk meýdançasy",
+                    "gämi zawody",
+                    "gämi duralgasy",
+                    "gämi ussahanasy"
+                ],
+                "Uzbek": [
+                    "kemasozlik",
+                    "kemaxona",
+                    "kema zavodi"
+                ],
+                "Uyghur": [
+                    "كېمىسازلىق زاۋۇتى",
+                    "كېمىسازلىق ئورنى",
+                    "كېمىخانا",
+                    "كېمە رېمونتخانىسى"
+                ],
+                "Kazakh": [
+                    "кемежай",
+                    "кеме жөндеу орны",
+                    "кеме шеберханасы"
+                ],
+                "Kyrgyz": [
+                    "кемекана",
+                    "кеме оңдоочу жай",
+                    "кеме токтоочу жай"
+                ],
+                "Karakalpak": [
+                    "kemesaz",
+                    "keme jasao ornı",
+                    "keme ustaxanası"
+                ],
+                "Bashkir": [
+                    "кәмә яһау урыны",
+                    "кәмәхана",
+                    "кәмә оҫтаханаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tersane"
+                ],
+                "Azerbaijani": [
+                    "tərsanə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kema ta'mirlash joyi"
+                ],
+                "Tatar": [
+                    "көймә остаханәсе",
+                    "көймә ясау урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekne imalathanesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көймәханә"
+                ]
+            }
+        }
+    ]
+}

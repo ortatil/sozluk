@@ -1,0 +1,130 @@
+{
+    "id": "i10933",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "accountable",
+    "en_definition": "liable to account for one's actions",
+    "tr_word": "sorumlu",
+    "tr_definition": "kendi eylemlerinden dolayı hesap vermekle yükümlü olan",
+    "ru_word": "подотчетный",
+    "ru_definition": "обязанный отчитываться в своих действиях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mesul"
+                ],
+                "Azerbaijani": [
+                    "məsul",
+                    "məsuliyyətli"
+                ],
+                "Turkmen": [
+                    "mesul"
+                ],
+                "Uzbek": [
+                    "mas'ul"
+                ],
+                "Uyghur": [
+                    "مەسئۇل"
+                ],
+                "Tatar": [
+                    "мәсүл"
+                ],
+                "Bashkir": [
+                    "мәсьүл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cavabdeh"
+                ],
+                "Uzbek": [
+                    "javobgar"
+                ],
+                "Uyghur": [
+                    "جاۋابكار"
+                ],
+                "Kazakh": [
+                    "жауапты",
+                    "жауапкер"
+                ],
+                "Karakalpak": [
+                    "juoapker"
+                ],
+                "Tatar": [
+                    "җаваплы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yükümlü"
+                ],
+                "Karakalpak": [
+                    "juoaplı"
+                ],
+                "Bashkir": [
+                    "яуаплы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jogapkär",
+                    "jogapkärli"
+                ],
+                "Kyrgyz": [
+                    "жоопкер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھېساب بەرگۈچى"
+                ],
+                "Bashkir": [
+                    "хисаплы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "міндетті"
+                ],
+                "Kyrgyz": [
+                    "милдеттүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sorumlu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muhasib"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жооптуу"
+                ]
+            }
+        }
+    ]
+}

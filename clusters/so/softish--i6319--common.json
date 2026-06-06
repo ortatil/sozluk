@@ -1,0 +1,94 @@
+{
+    "id": "i6319",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "softish",
+    "en_definition": "somewhat soft",
+    "tr_word": "yumuşakça",
+    "tr_definition": "biraz yumuşak olan, yumuşak gibi",
+    "ru_word": "мягковатый",
+    "ru_definition": "несколько мягкий, довольно мягкий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yumuşakça",
+                    "yumuşakçana",
+                    "yumuşakımsı"
+                ],
+                "Azerbaijani": [
+                    "yumşaqca",
+                    "yumşaqtəhər",
+                    "yumşaqımtıl"
+                ],
+                "Turkmen": [
+                    "ýumşajyk",
+                    "ýumşagrak"
+                ],
+                "Uzbek": [
+                    "yumshoqroq",
+                    "yumshoqqina"
+                ],
+                "Uyghur": [
+                    "يۇمشاقراق",
+                    "يۇمشاققىنا"
+                ],
+                "Kazakh": [
+                    "жұмсақтау",
+                    "жұмсақша"
+                ],
+                "Kyrgyz": [
+                    "жумшагыраак",
+                    "жумшактуу",
+                    "жумшак сымал"
+                ],
+                "Karakalpak": [
+                    "jumsaqlau",
+                    "jumsaǵıraq"
+                ],
+                "Tatar": [
+                    "йомшакча",
+                    "йомшагырак",
+                    "йомшаксыман"
+                ],
+                "Bashkir": [
+                    "йомшағыраҡ",
+                    "йомшаҡлау",
+                    "йомшаҡ ҡына"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "биязылау"
+                ],
+                "Karakalpak": [
+                    "biyalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mylymlat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mayinroq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بوشراق"
+                ]
+            }
+        }
+    ]
+}

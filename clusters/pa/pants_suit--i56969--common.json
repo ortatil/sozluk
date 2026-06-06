@@ -1,0 +1,107 @@
+{
+    "id": "i56969",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pants suit",
+    "en_definition": "a pair of pants and a matching jacket worn by women",
+    "tr_word": "pantolon ceket takım",
+    "tr_definition": "kadınlar tarafından giyilen, bir pantolon ve ona uygun bir ceketten oluşan takım elbise",
+    "ru_word": "брючный костюм",
+    "ru_definition": "женский комплект одежды, состоящий из брюк и подходящего к ним пиджака",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şalvarlı dəst",
+                    "şalvar-pencək"
+                ],
+                "Kazakh": [
+                    "шалбарлы костюм",
+                    "шалбар-костюм"
+                ],
+                "Karakalpak": [
+                    "shalbarlı kostyum"
+                ],
+                "Tatar": [
+                    "чалбарлы костюм",
+                    "чалбарлы кием"
+                ],
+                "Bashkir": [
+                    "салбарлы костюм",
+                    "салбарлы кейем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ayollar kostyumi"
+                ],
+                "Uyghur": [
+                    "ئاياللار كاستيۇم-شالۋىرى",
+                    "ئاياللار كاستيۇمى"
+                ],
+                "Kazakh": [
+                    "әйелдер костюмі"
+                ],
+                "Karakalpak": [
+                    "áyeller kostyumi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kadın takım elbisesi"
+                ],
+                "Azerbaijani": [
+                    "qadın kostyumu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shim-kostyum",
+                    "shimli kostyum"
+                ],
+                "Kyrgyz": [
+                    "шымдуу костюм",
+                    "шым-костюм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pantolon ceket takım",
+                    "pantolonlu takım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "döpiyes"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "balakly kostýum",
+                    "balakly lybas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kostyum-shalbar"
+                ]
+            }
+        }
+    ]
+}

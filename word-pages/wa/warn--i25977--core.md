@@ -1,0 +1,240 @@
+# Warn
+| Field | Detail |
+|---|---|
+| **ID** | i25977 |
+| **English** | warn |
+| **Type** | verb |
+| **Definition** | notify of danger, potential harm, or risk |
+| **Source** | core |
+| **Ortatil** | eskerttirmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **eskerttirmäk** | **habarlamaq** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ❌ | ❌ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 0.80 | 0.40 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **1.30** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| خەۋەرلەندۈرمەك | xävärländürmäk |
+| ئەسكەرتمەك | äskärtmäk |
+| ئاگاھلاندۇرماق | agahlandurmaq |
+| بىلدۈرمەك | bildürmäk |
+| **Kazakh** | |
+| хабарлау | xabarlau |
+| ескерту | yeskertu |
+| сақтандыру | saqtandıru |
+| құлақтандыру | qulaqtandıru |
+| **Kyrgyz** | |
+| кабарлоо | kabarloo |
+| эскертүү | eskertüü |
+| сактандыруу | saktandıruu |
+| **Tatar** | |
+| кисәтү | kisätü |
+| **Bashkir** | |
+| иҫкәртеү | iskärteü |
+| киҫәтеү | kisäteü |
+
+```json
+{
+    "id": "i25977",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "warn",
+    "en_definition": "notify of danger, potential harm, or risk",
+    "tr_word": "uyarmak",
+    "tr_definition": "birini bir tehlike, zarar veya risk karşısında önceden haberdar etmek",
+    "ru_word": "предупреждать",
+    "ru_definition": "извещать кого-либо о грозящей опасности или риске",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xəbərdarlıq etmək",
+                    "xəbərdar etmək"
+                ],
+                "Turkmen": [
+                    "habardar etmek"
+                ],
+                "Uyghur": [
+                    "خەۋەرلەندۈرمەك"
+                ],
+                "Kazakh": [
+                    "хабарлау"
+                ],
+                "Kyrgyz": [
+                    "кабарлоо"
+                ],
+                "Karakalpak": [
+                    "xabardar etio"
+                ],
+                "Tatar": [
+                    "хәбәрдар итү"
+                ],
+                "Bashkir": [
+                    "хәбәр итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئەسكەرتمەك"
+                ],
+                "Kazakh": [
+                    "ескерту"
+                ],
+                "Kyrgyz": [
+                    "эскертүү"
+                ],
+                "Karakalpak": [
+                    "eskertio"
+                ],
+                "Bashkir": [
+                    "иҫкәртеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ehtiyatlandırmaq"
+                ],
+                "Turkmen": [
+                    "ätiýaçlandyrmak"
+                ],
+                "Uzbek": [
+                    "ehtiyot qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tembihlemek"
+                ],
+                "Azerbaijani": [
+                    "tənbeh etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ogohlantirmoq",
+                    "ogoh etmoq"
+                ],
+                "Uyghur": [
+                    "ئاگاھلاندۇرماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bildirmoq"
+                ],
+                "Uyghur": [
+                    "بىلدۈرمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сақтандыру"
+                ],
+                "Kyrgyz": [
+                    "сактандыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кисәтү"
+                ],
+                "Bashkir": [
+                    "киҫәтеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uyarmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ikaz etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ihtar etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "duýdurmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nesihat bermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құлақтандыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "abaylatıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "саклыкка чакыру"
+                ]
+            }
+        }
+    ]
+}
+```
+

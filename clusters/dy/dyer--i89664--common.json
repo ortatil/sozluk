@@ -1,0 +1,73 @@
+{
+    "id": "i89664",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dyer",
+    "en_definition": "someone whose job is to dye cloth",
+    "tr_word": "boyacı",
+    "tr_definition": "kumaş boyama işini yapan kimse",
+    "ru_word": "красильщик",
+    "ru_definition": "человек, занимающийся окраской тканей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boyacı",
+                    "boya ustası"
+                ],
+                "Azerbaijani": [
+                    "boyaqçı"
+                ],
+                "Turkmen": [
+                    "boýagçy"
+                ],
+                "Uzbek": [
+                    "bo'yoqchi"
+                ],
+                "Uyghur": [
+                    "بوياقچى"
+                ],
+                "Kazakh": [
+                    "бояушы",
+                    "бояқшы"
+                ],
+                "Kyrgyz": [
+                    "боёкчу",
+                    "боёочу"
+                ],
+                "Karakalpak": [
+                    "boyaushı"
+                ],
+                "Tatar": [
+                    "буяучы",
+                    "буяу остасы"
+                ],
+                "Bashkir": [
+                    "буяусы",
+                    "буяу белгесе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "rəngsaz"
+                ],
+                "Turkmen": [
+                    "reňkçi"
+                ],
+                "Uzbek": [
+                    "rangrez"
+                ],
+                "Uyghur": [
+                    "رەڭساز"
+                ],
+                "Karakalpak": [
+                    "reńleushi"
+                ]
+            }
+        }
+    ]
+}

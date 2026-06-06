@@ -1,0 +1,114 @@
+{
+    "id": "i82619",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "national capital",
+    "en_definition": "the capital city of a nation",
+    "tr_word": "başkent",
+    "tr_definition": "bir devletin yönetim merkezi olan şehir",
+    "ru_word": "столица",
+    "ru_definition": "главный город государства, место пребывания правительства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "payitaht"
+                ],
+                "Azerbaijani": [
+                    "paytaxt"
+                ],
+                "Turkmen": [
+                    "paýtagt"
+                ],
+                "Uzbek": [
+                    "poytaxt"
+                ],
+                "Uyghur": [
+                    "پايتەخت"
+                ],
+                "Kyrgyz": [
+                    "пайтахт"
+                ],
+                "Karakalpak": [
+                    "paytaxt"
+                ],
+                "Bashkir": [
+                    "пайтахт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başkent"
+                ],
+                "Azerbaijani": [
+                    "baş kənd"
+                ],
+                "Kazakh": [
+                    "бас қала"
+                ],
+                "Karakalpak": [
+                    "bas qala"
+                ],
+                "Tatar": [
+                    "башкала"
+                ],
+                "Bashkir": [
+                    "баш ҡала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "merkez"
+                ],
+                "Turkmen": [
+                    "merkez"
+                ],
+                "Uzbek": [
+                    "markaz"
+                ],
+                "Uyghur": [
+                    "مەركەز"
+                ],
+                "Tatar": [
+                    "мәркәз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "елорда"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "астана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борбор",
+                    "борбор шаар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп шәһәр"
+                ]
+            }
+        }
+    ]
+}

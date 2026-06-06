@@ -1,0 +1,97 @@
+{
+    "id": "i59600",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stockcar",
+    "en_definition": "boxcar with latticed sides; for transporting livestock",
+    "tr_word": "hayvan vagonu",
+    "tr_definition": "Canlı hayvan taşımak için kullanılan, yanları kafesli veya parmaklıklı yük vagonu.",
+    "ru_word": "вагон для скота",
+    "ru_definition": "Грузовой вагон с решетчатыми стенками, предназначенный для перевозки скота.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mal-qara vaqonu"
+                ],
+                "Turkmen": [
+                    "mal wagony"
+                ],
+                "Uzbek": [
+                    "mol vagoni"
+                ],
+                "Uyghur": [
+                    "مال-چارۋا ۋاگونى"
+                ],
+                "Kazakh": [
+                    "мал вагоны"
+                ],
+                "Kyrgyz": [
+                    "мал ташуучу вагон",
+                    "мал вагону"
+                ],
+                "Karakalpak": [
+                    "mal wagonı"
+                ],
+                "Tatar": [
+                    "мал вагоны"
+                ],
+                "Bashkir": [
+                    "мал вагоны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "canlı hayvan vagonu"
+                ],
+                "Tatar": [
+                    "рәшәткәле вагон"
+                ],
+                "Bashkir": [
+                    "кәтәк вагон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hayvan vagonu"
+                ],
+                "Azerbaijani": [
+                    "heyvan vaqonu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chorva vagoni"
+                ],
+                "Uyghur": [
+                    "چارۋا ۋاگونى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "торлы вагон"
+                ],
+                "Karakalpak": [
+                    "torlı wagon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gözenekli wagon"
+                ]
+            }
+        }
+    ]
+}

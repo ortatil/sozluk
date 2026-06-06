@@ -1,0 +1,100 @@
+{
+    "id": "i56384",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mosque",
+    "en_definition": "(Islam) a Muslim place of worship that usually has a minaret",
+    "tr_word": "cami",
+    "tr_definition": "Müslümanların ibadet etmek için toplandıkları, genellikle minaresi olan yapı.",
+    "ru_word": "мечеть",
+    "ru_definition": "Мусульманское богослужебное архитектурное сооружение, обычно с минаретом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mescit"
+                ],
+                "Azerbaijani": [
+                    "məscid"
+                ],
+                "Turkmen": [
+                    "metjit",
+                    "metjit-jamy"
+                ],
+                "Uzbek": [
+                    "masjid"
+                ],
+                "Uyghur": [
+                    "مەسجىد"
+                ],
+                "Kazakh": [
+                    "мешіт"
+                ],
+                "Kyrgyz": [
+                    "мечит"
+                ],
+                "Karakalpak": [
+                    "meshit",
+                    "másjit"
+                ],
+                "Tatar": [
+                    "мәчет",
+                    "мәсҗид"
+                ],
+                "Bashkir": [
+                    "мәсет"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cami"
+                ],
+                "Uzbek": [
+                    "jome"
+                ],
+                "Uyghur": [
+                    "جامە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ibadətgah"
+                ],
+                "Kazakh": [
+                    "ғибадатхана"
+                ],
+                "Kyrgyz": [
+                    "ибадаткана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məkan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гыйбадәтханә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ғибәҙәтхана"
+                ]
+            }
+        }
+    ]
+}

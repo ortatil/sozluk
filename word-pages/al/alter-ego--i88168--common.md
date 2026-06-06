@@ -1,0 +1,264 @@
+# Alter ego
+| Field | Detail |
+|---|---|
+| **ID** | i88168 |
+| **English** | alter ego |
+| **Type** | noun |
+| **Definition** | a very close and trusted friend who seems almost a part of yourself |
+| **Source** | common |
+| **Ortatil** | sırdaş |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sırdaş** | **hämdäm** | **canbir** |
+|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ✅ |
+| Turkmen | ✅ | ❌ | ✅ |
+| Uzbek | ✅ | ✅ | ✅ |
+| Uyghur | ✅ | ✅ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ |
+| Kyrgyz | ✅ | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ | ❌ |
+| Tatar | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.33 | 0.67 |
+| *Qarluq Subtotal* | 1 | 1 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 0 | 0 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **4** | **1.33** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سىرداش | sirdaş |
+| ھەمدەم | hämdäm |
+| **Kazakh** | |
+| сырлас | sırlas |
+| мұңдас | muñdas |
+| **Kyrgyz** | |
+| сырдаш | sırdaş |
+| тамыр | tamır |
+| **Tatar** | |
+| сердәш | serdäş |
+| фикердәш | fikerdäş |
+| **Bashkir** | |
+| серҙәш | serzäş |
+
+```json
+{
+    "id": "i88168",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "alter ego",
+    "en_definition": "a very close and trusted friend who seems almost a part of yourself",
+    "tr_word": "yakın dost",
+    "tr_definition": "kişinin kendisinin bir parçası gibi gördüğü, çok yakın ve güvenilir arkadaşı",
+    "ru_word": "второе я",
+    "ru_definition": "очень близкий и доверенный друг, который кажется почти частью тебя самого",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "can yoldaşı"
+                ],
+                "Azerbaijani": [
+                    "canbir"
+                ],
+                "Turkmen": [
+                    "jan-jiger"
+                ],
+                "Uzbek": [
+                    "jonajon"
+                ],
+                "Uyghur": [
+                    "جانجىگەر دوست"
+                ],
+                "Kazakh": [
+                    "жан дос"
+                ],
+                "Kyrgyz": [
+                    "жан досу"
+                ],
+                "Karakalpak": [
+                    "jan dos"
+                ],
+                "Tatar": [
+                    "җан дус"
+                ],
+                "Bashkir": [
+                    "йән дуҫы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sırdaş"
+                ],
+                "Azerbaijani": [
+                    "sirdaş"
+                ],
+                "Turkmen": [
+                    "syrdaş"
+                ],
+                "Uzbek": [
+                    "sirdosh"
+                ],
+                "Uyghur": [
+                    "سىرداش"
+                ],
+                "Kazakh": [
+                    "сырлас"
+                ],
+                "Kyrgyz": [
+                    "сырдаш"
+                ],
+                "Karakalpak": [
+                    "sırlas"
+                ],
+                "Tatar": [
+                    "сердәш"
+                ],
+                "Bashkir": [
+                    "серҙәш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yakın dost"
+                ],
+                "Azerbaijani": [
+                    "yaxın dost"
+                ],
+                "Uzbek": [
+                    "yaqin do'st"
+                ],
+                "Uyghur": [
+                    "يېقىن دوست"
+                ],
+                "Tatar": [
+                    "якын дус"
+                ],
+                "Bashkir": [
+                    "яҡын дуҫ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həmzad"
+                ],
+                "Uzbek": [
+                    "hamdam"
+                ],
+                "Uyghur": [
+                    "ھەمدەم"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қияметтік дос"
+                ],
+                "Karakalpak": [
+                    "qıyametlik dos"
+                ],
+                "Bashkir": [
+                    "ҡиәмәтлек дуҫ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kadim dost"
+                ],
+                "Kyrgyz": [
+                    "кыяматтык дос"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vəfadar"
+                ],
+                "Uzbek": [
+                    "vafodor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұңдас"
+                ],
+                "Karakalpak": [
+                    "muńdas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gönüldaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mährem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ynanylan dost"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айнымас дос"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тамыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "икенче мин"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "фикердәш"
+                ]
+            }
+        }
+    ]
+}
+```
+

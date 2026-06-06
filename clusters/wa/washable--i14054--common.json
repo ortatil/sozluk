@@ -1,0 +1,85 @@
+{
+    "id": "i14054",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "washable",
+    "en_definition": "capable of being washed without injury",
+    "tr_word": "yıkanabilir",
+    "tr_definition": "zarar görmeden yıkanabilme özelliğine sahip olan",
+    "ru_word": "моющийся",
+    "ru_definition": "способный выдерживать стирку или мытье без повреждений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yuyula bilən",
+                    "yuyulan",
+                    "yuyulmağa yararlı"
+                ],
+                "Turkmen": [
+                    "ýuwulýan",
+                    "ýuwup bolýan",
+                    "ýuwulmaga ýaramly"
+                ],
+                "Uzbek": [
+                    "yuviladigan",
+                    "yuvsa bo'ladigan",
+                    "yuvishga chidamli"
+                ],
+                "Uyghur": [
+                    "يۇيۇشقا بولىدىغان",
+                    "يۇيۇشچان",
+                    "يۇيۇلىدىغان"
+                ],
+                "Kazakh": [
+                    "жууға келетін",
+                    "жууға жарамды"
+                ],
+                "Kyrgyz": [
+                    "жууганга жарамдуу"
+                ],
+                "Karakalpak": [
+                    "juoılatuǵın",
+                    "juoılajaq",
+                    "juoıoǵa jaramlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yıkanabilir",
+                    "yıkanır",
+                    "yıkamaya elverişli"
+                ],
+                "Tatar": [
+                    "юыла торган",
+                    "юыла алырлык"
+                ],
+                "Bashkir": [
+                    "йыуыла торған",
+                    "йыуылыусан",
+                    "йыуыуға бирелеүсән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жуылатын"
+                ],
+                "Kyrgyz": [
+                    "жуула турган",
+                    "жууса боло турган",
+                    "жуулучу"
+                ],
+                "Tatar": [
+                    "юылучан"
+                ]
+            }
+        }
+    ]
+}

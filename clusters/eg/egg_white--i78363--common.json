@@ -1,0 +1,83 @@
+{
+    "id": "i78363",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "egg white",
+    "en_definition": "the white part of an egg; the nutritive and protective gelatinous substance surrounding the yolk consisting mainly of albumin dissolved in water",
+    "tr_word": "yumurta akı",
+    "tr_definition": "yumurtanın sarısını çevreleyen, büyük oranda albümin ve sudan oluşan şeffaf veya beyaz kısım",
+    "ru_word": "яичный белок",
+    "ru_definition": "прозрачная часть яйца, окружающая желток, состоящая в основном из белка альбумина и воды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yumurta akı",
+                    "yumurta beyazı"
+                ],
+                "Azerbaijani": [
+                    "yumurta ağı"
+                ],
+                "Turkmen": [
+                    "ýumurtganyň agy"
+                ],
+                "Kazakh": [
+                    "жұмыртқа ағы"
+                ],
+                "Kyrgyz": [
+                    "жумуртканын агы"
+                ],
+                "Karakalpak": [
+                    "jұmırtqa aǵı"
+                ],
+                "Tatar": [
+                    "йомырка агы"
+                ],
+                "Bashkir": [
+                    "йомортҡа ағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ağ"
+                ],
+                "Turkmen": [
+                    "ak"
+                ],
+                "Uzbek": [
+                    "oqsil"
+                ],
+                "Kazakh": [
+                    "ақуыз"
+                ],
+                "Kyrgyz": [
+                    "ак"
+                ],
+                "Karakalpak": [
+                    "aǵı"
+                ],
+                "Tatar": [
+                    "ак"
+                ],
+                "Bashkir": [
+                    "аҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuxum oqi"
+                ],
+                "Uyghur": [
+                    "تۇخۇم ئېقى",
+                    "تۇخۇم ئاقى"
+                ]
+            }
+        }
+    ]
+}

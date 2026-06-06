@@ -1,0 +1,82 @@
+{
+    "id": "i79582",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "computer dealer",
+    "en_definition": "a firm that sells and buys computers",
+    "tr_word": "bilgisayar bayisi",
+    "tr_definition": "bilgisayar alım satımı yapan ticari kuruluş",
+    "ru_word": "дилер компьютерной техники",
+    "ru_definition": "фирма, занимающаяся куплей и продажей компьютеров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kompüter satıcısı",
+                    "kompüter ticarətçisi",
+                    "kompüter mağazası"
+                ],
+                "Turkmen": [
+                    "kompýuter satyjysy",
+                    "kompýuter söwdagäri",
+                    "kompýuter dükany"
+                ],
+                "Uzbek": [
+                    "kompyuter sotuvchisi",
+                    "kompyuter savdogari",
+                    "kompyuter do'koni"
+                ],
+                "Uyghur": [
+                    "كومپيۇتېر سودىگىرى",
+                    "كومپيۇتېر ساتقۇچى"
+                ],
+                "Kazakh": [
+                    "компьютер саудагері",
+                    "компьютер сатушысы",
+                    "компьютер дүкені"
+                ],
+                "Kyrgyz": [
+                    "компьютер сатуучу",
+                    "компьютер соодагери",
+                    "компьютер дүкөнү"
+                ],
+                "Karakalpak": [
+                    "kompyuter satıoshısı",
+                    "kompyuter saodageri",
+                    "kompyuter dúkánı"
+                ],
+                "Bashkir": [
+                    "компьютер һатыусы",
+                    "компьютер һатыу ойошмаһы",
+                    "компьютер һатыу үҙәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilgisayar satıcısı",
+                    "bilgisayar bayii",
+                    "bilgisayar mağazası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھېسابلىغۇچ سودىگىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "санак сатучы",
+                    "санак сәүдәгәре",
+                    "санак сату оешмасы"
+                ]
+            }
+        }
+    ]
+}

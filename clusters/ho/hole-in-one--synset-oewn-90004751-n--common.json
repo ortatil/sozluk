@@ -1,0 +1,106 @@
+{
+    "id": "synset-oewn-90004751-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hole-in-one",
+    "en_definition": "a play in golf where the hole is completed in a single stroke",
+    "tr_word": "bir vuruşta delik",
+    "tr_definition": "Golfte topun başlangıç noktasından tek bir vuruşla deliğe sokulması.",
+    "ru_word": "хоул-ин-уан",
+    "ru_definition": "В гольфе — попадание в лунку с первого удара.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bir vuruşta delik"
+                ],
+                "Azerbaijani": [
+                    "birinci zərbə",
+                    "birbaşa atış"
+                ],
+                "Turkmen": [
+                    "bir urgy",
+                    "bir gezekde salmak"
+                ],
+                "Uzbek": [
+                    "bir zarba",
+                    "birinchi urish"
+                ],
+                "Uyghur": [
+                    "بىر زەربىدە كىرگۈزۈش",
+                    "بىرلا قېتىمدا كىرگۈزۈش"
+                ],
+                "Kazakh": [
+                    "бір соққы"
+                ],
+                "Kyrgyz": [
+                    "бир сокку",
+                    "бир уруу"
+                ],
+                "Karakalpak": [
+                    "bir urıs",
+                    "bir soqqı"
+                ],
+                "Tatar": [
+                    "бер бәрү",
+                    "бер сугу",
+                    "бердәнбер бәрү"
+                ],
+                "Bashkir": [
+                    "бер һуғыу",
+                    "берҙән-бер һуғыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tek vuruş"
+                ],
+                "Azerbaijani": [
+                    "tək zərbə"
+                ],
+                "Kazakh": [
+                    "дәл соққы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жалғыз соққы"
+                ],
+                "Kyrgyz": [
+                    "жалгыз сокку"
+                ],
+                "Karakalpak": [
+                    "jalǵız urıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tek atış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýeke urgy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yagona zarba"
+                ]
+            }
+        }
+    ]
+}

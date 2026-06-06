@@ -1,0 +1,131 @@
+{
+    "id": "i31519",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "dismount",
+    "en_definition": "alight from (a horse)",
+    "tr_word": "attan inmek",
+    "tr_definition": "bir hayvandan veya araçtan aşağı inmek",
+    "ru_word": "спешиваться",
+    "ru_definition": "сходить или слезать с лошади",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "attan inmek",
+                    "atından inmek"
+                ],
+                "Azerbaijani": [
+                    "atdan enmək",
+                    "atdan düşmək"
+                ],
+                "Turkmen": [
+                    "atdan düşmek"
+                ],
+                "Uzbek": [
+                    "otdan tushmoq"
+                ],
+                "Uyghur": [
+                    "ئاتتىن چۈشمەك"
+                ],
+                "Kazakh": [
+                    "аттан түсу"
+                ],
+                "Kyrgyz": [
+                    "аттан түшүү",
+                    "аттан оошуу"
+                ],
+                "Karakalpak": [
+                    "attan túsio"
+                ],
+                "Tatar": [
+                    "аттан төшү",
+                    "аттан иңү"
+                ],
+                "Bashkir": [
+                    "аттан төшөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "düşmək"
+                ],
+                "Turkmen": [
+                    "düşmek"
+                ],
+                "Uzbek": [
+                    "tushmoq",
+                    "tushib qolmoq"
+                ],
+                "Kazakh": [
+                    "түсу"
+                ],
+                "Kyrgyz": [
+                    "түшүү"
+                ],
+                "Karakalpak": [
+                    "túsio"
+                ],
+                "Tatar": [
+                    "төшү"
+                ],
+                "Bashkir": [
+                    "төшөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "inmek"
+                ],
+                "Azerbaijani": [
+                    "enmək"
+                ],
+                "Turkmen": [
+                    "enmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "süvarilikten çıkmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چۈشمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پىيادە بولماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қону"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ергә төшөү"
+                ]
+            }
+        }
+    ]
+}

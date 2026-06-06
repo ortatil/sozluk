@@ -1,0 +1,111 @@
+{
+    "id": "i11216",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "egg-shaped",
+    "en_definition": "rounded like an egg",
+    "tr_word": "yumurta biçimli",
+    "tr_definition": "yumurta şeklinde olan, oval",
+    "ru_word": "яйцевидный",
+    "ru_definition": "имеющий форму яйца, овальный",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yumurta biçimli",
+                    "yumurtamsı"
+                ],
+                "Azerbaijani": [
+                    "yumurtavari",
+                    "yumurtaşəkilli"
+                ],
+                "Turkmen": [
+                    "ýumurtgaşekilli",
+                    "ýumurtga meňzeş"
+                ],
+                "Kazakh": [
+                    "жұмыртқа пішінді",
+                    "жұмыртқа тәрізді"
+                ],
+                "Kyrgyz": [
+                    "жумуртка сымал",
+                    "жумурткадай",
+                    "жумуртка формасындагы"
+                ],
+                "Karakalpak": [
+                    "jumırtqa tárizli",
+                    "jumırtqa sıyaqlı",
+                    "jumırtqa pіshіmli",
+                    "jumırtqasha"
+                ],
+                "Tatar": [
+                    "йомыркасыман",
+                    "йомырка рәвешле"
+                ],
+                "Bashkir": [
+                    "йомортҡа һымаҡ",
+                    "йомортҡа рәүешле",
+                    "йомортҡа формаһындағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beyzi"
+                ],
+                "Azerbaijani": [
+                    "beyzi"
+                ],
+                "Uzbek": [
+                    "bayzoviy"
+                ],
+                "Uyghur": [
+                    "بەيزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oval"
+                ],
+                "Tatar": [
+                    "оваль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "söbe"
+                ],
+                "Kazakh": [
+                    "сопақша",
+                    "сопақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuxumsimon",
+                    "tuxumshakl"
+                ],
+                "Uyghur": [
+                    "تۇخۇمسىمان",
+                    "تۇخۇم شەكىللىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýri"
+                ]
+            }
+        }
+    ]
+}

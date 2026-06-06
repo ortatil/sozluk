@@ -1,0 +1,139 @@
+# Beaver
+| Field | Detail |
+|---|---|
+| **ID** | i47986 |
+| **English** | beaver |
+| **Type** | noun |
+| **Definition** | large semiaquatic rodent with webbed hind feet and a broad flat tail; construct complex dams and underwater lodges |
+| **Source** | common |
+| **Ortatil** | qunduz |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qunduz** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قۇندۇز | qunduz |
+| **Kazakh** | |
+| құндыз | qundız |
+| кәмшат | kämşat |
+| **Kyrgyz** | |
+| кундуз | kunduz |
+| куну | kunu |
+| **Tatar** | |
+| кондыз | kondız |
+| **Bashkir** | |
+| ҡондоҙ | qondoz |
+
+```json
+{
+    "id": "i47986",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "beaver",
+    "en_definition": "large semiaquatic rodent with webbed hind feet and a broad flat tail; construct complex dams and underwater lodges",
+    "tr_word": "kunduz",
+    "tr_definition": "Perdeli arka ayakları ve geniş, düz bir kuyruğu olan, karmaşık barajlar ve su altı yuvaları inşa eden büyük, yarı sucul kemirgen.",
+    "ru_word": "бобр",
+    "ru_definition": "Крупный полуводный грызун с перепончатыми задними лапами и широким плоским хвостом, строящий сложные плотины и подводные хатки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kunduz"
+                ],
+                "Azerbaijani": [
+                    "qunduz"
+                ],
+                "Turkmen": [
+                    "gunduz"
+                ],
+                "Uzbek": [
+                    "qunduz"
+                ],
+                "Uyghur": [
+                    "قۇندۇز"
+                ],
+                "Kazakh": [
+                    "құндыз"
+                ],
+                "Kyrgyz": [
+                    "кундуз",
+                    "куну"
+                ],
+                "Karakalpak": [
+                    "qundız"
+                ],
+                "Tatar": [
+                    "кондыз"
+                ],
+                "Bashkir": [
+                    "ҡондоҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "beýber"
+                ],
+                "Uzbek": [
+                    "beber"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәмшат"
+                ],
+                "Karakalpak": [
+                    "qamshat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kastor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "suiti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دەريا قۇندۇزى"
+                ]
+            }
+        }
+    ]
+}
+```
+

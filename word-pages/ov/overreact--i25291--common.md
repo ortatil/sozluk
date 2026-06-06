@@ -1,0 +1,229 @@
+# Overreact
+| Field | Detail |
+|---|---|
+| **ID** | i25291 |
+| **English** | overreact |
+| **Type** | verb |
+| **Definition** | show an exaggerated response to something |
+| **Source** | common |
+| **Ortatil** | abartmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاشۇرۇۋەتمەك | aşuruvätmäk |
+| **Kyrgyz** | |
+| апырт- | apırt- |
+| көбүрт- | köbürt- |
+| **Tatar** | |
+| күпертү | küpertü |
+
+```json
+{
+    "id": "i25291",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "overreact",
+    "en_definition": "show an exaggerated response to something",
+    "tr_word": "aşırı tepki vermek",
+    "tr_definition": "bir duruma veya olaya gereğinden fazla, abartılı bir karşılık göstermek",
+    "ru_word": "остро реагировать",
+    "ru_definition": "слишком бурно или преувеличенно отвечать на какое-либо событие или ситуацию",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşırı tepki vermek"
+                ],
+                "Turkmen": [
+                    "şaşyryp hereket etmek"
+                ],
+                "Uzbek": [
+                    "oshirib yubormoq"
+                ],
+                "Uyghur": [
+                    "ئاشۇرۇۋەتمەك"
+                ],
+                "Kazakh": [
+                    "асыра сілтеу",
+                    "асыра қимылдау"
+                ],
+                "Kyrgyz": [
+                    "аша чап-"
+                ],
+                "Karakalpak": [
+                    "asıra silteu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mübalağa etmek"
+                ],
+                "Azerbaijani": [
+                    "mübaliğə etmək"
+                ],
+                "Uzbek": [
+                    "mubolag'a qilmoq"
+                ],
+                "Uyghur": [
+                    "مۇبالىغە قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "abartmak"
+                ],
+                "Azerbaijani": [
+                    "ifrata varmaq"
+                ],
+                "Kyrgyz": [
+                    "апырт-"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көпіртіп жіберу"
+                ],
+                "Kyrgyz": [
+                    "көбүрт-"
+                ],
+                "Tatar": [
+                    "күпертү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шектен шығу"
+                ],
+                "Kyrgyz": [
+                    "чектен чык-"
+                ],
+                "Karakalpak": [
+                    "shekten shıǵıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həddini aşmaq"
+                ],
+                "Turkmen": [
+                    "çendenaşa jogap bermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şişirtmək"
+                ],
+                "Turkmen": [
+                    "şaşyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bo'rttirmoq"
+                ],
+                "Karakalpak": [
+                    "bórttirip jiberiu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "haddidan oshmoq"
+                ],
+                "Uyghur": [
+                    "ھەددىدىن زىيادە ئىنكاس قايتۇرماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "арттырып җибәрү"
+                ],
+                "Bashkir": [
+                    "арттырып ебәреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чамадан тыш җавап бирү"
+                ],
+                "Bashkir": [
+                    "саманан сығыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyütmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ulaltmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ubayımǵa beriliu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зурга җибәрү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡыҙып китеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көсәйтеп ебәреү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,110 @@
+{
+    "id": "i81204",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paratroops",
+    "en_definition": "infantry trained and equipped to parachute",
+    "tr_word": "paraşütçü birlikler",
+    "tr_definition": "paraşütle atlamak üzere eğitilmiş ve donatılmış piyade birlikleri",
+    "ru_word": "воздушно-десантные войска",
+    "ru_definition": "пехота, обученная и экипированная для десантирования с парашютом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hava indirme birlikleri"
+                ],
+                "Azerbaijani": [
+                    "hava-desant qoşunları",
+                    "hava desantı"
+                ],
+                "Turkmen": [
+                    "howa desant goşunlary"
+                ],
+                "Uzbek": [
+                    "havo-desant qoʻshinlari",
+                    "havo askarlari"
+                ],
+                "Uyghur": [
+                    "ھاۋا ئارمىيەسى",
+                    "ھاۋا تىرانسپورت قوشۇنى"
+                ],
+                "Karakalpak": [
+                    "haoa desantı"
+                ],
+                "Tatar": [
+                    "һава десанты",
+                    "һава гаскәре"
+                ],
+                "Bashkir": [
+                    "һауа десанты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "paraşütçü birlikler",
+                    "paraşütçü askerler"
+                ],
+                "Azerbaijani": [
+                    "paraşütçülər"
+                ],
+                "Turkmen": [
+                    "paraşutçylar"
+                ],
+                "Uzbek": [
+                    "parashyutchilar"
+                ],
+                "Uyghur": [
+                    "پاراشۇتچى ئەسكەرلەر"
+                ],
+                "Kazakh": [
+                    "парашютшілер"
+                ],
+                "Tatar": [
+                    "парашютчылар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "desant"
+                ],
+                "Kazakh": [
+                    "десантшылар"
+                ],
+                "Kyrgyz": [
+                    "десант",
+                    "десантчылар"
+                ],
+                "Karakalpak": [
+                    "desant",
+                    "desantshılar"
+                ],
+                "Bashkir": [
+                    "десант",
+                    "десант ғәскәрҙәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуе-десант әскері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аба десанты"
+                ]
+            }
+        }
+    ]
+}

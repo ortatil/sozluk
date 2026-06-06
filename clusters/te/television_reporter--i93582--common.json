@@ -1,0 +1,130 @@
+{
+    "id": "i93582",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "television reporter",
+    "en_definition": "someone who reports news stories via television",
+    "tr_word": "televizyon muhabiri",
+    "tr_definition": "haberleri televizyon aracılığıyla bildiren kişi",
+    "ru_word": "телерепортёр",
+    "ru_definition": "человек, который сообщает новости по телевидению",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "televizyon muhabiri",
+                    "televizyon habercisi"
+                ],
+                "Azerbaijani": [
+                    "telemüxbir",
+                    "televiziya müxbiri"
+                ],
+                "Turkmen": [
+                    "telehabarçy"
+                ],
+                "Uyghur": [
+                    "تېلېۋىزىيە مۇخبىرى",
+                    "تېلېۋىزىيە خەۋەرچىسى"
+                ],
+                "Kazakh": [
+                    "тілші",
+                    "тележурналист"
+                ],
+                "Kyrgyz": [
+                    "тилчи"
+                ],
+                "Karakalpak": [
+                    "tіlshі"
+                ],
+                "Tatar": [
+                    "телехәбәрче"
+                ],
+                "Bashkir": [
+                    "телехәбәрсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haber muhabiri"
+                ],
+                "Azerbaijani": [
+                    "xəbərçi"
+                ],
+                "Turkmen": [
+                    "habarçy",
+                    "habar beriji"
+                ],
+                "Uzbek": [
+                    "xabarchi"
+                ],
+                "Kazakh": [
+                    "хабаршы"
+                ],
+                "Kyrgyz": [
+                    "кабарчы"
+                ],
+                "Karakalpak": [
+                    "xabarshı"
+                ],
+                "Tatar": [
+                    "хәбәрче"
+                ],
+                "Bashkir": [
+                    "хәбәрсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "müxbir"
+                ],
+                "Uzbek": [
+                    "muxbir"
+                ],
+                "Tatar": [
+                    "мөхбир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "žurnalist"
+                ],
+                "Kyrgyz": [
+                    "журналист"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "баяндамачы"
+                ],
+                "Karakalpak": [
+                    "bayandaushı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sharhlovchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мәғлүмәт биреүсе"
+                ]
+            }
+        }
+    ]
+}

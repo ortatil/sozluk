@@ -1,0 +1,290 @@
+# Cluttered
+| Field | Detail |
+|---|---|
+| **ID** | i13420 |
+| **English** | cluttered |
+| **Type** | adjective |
+| **Definition** | filled or scattered with a disorderly accumulation of objects or rubbish |
+| **Source** | common |
+| **Ortatil** | tärtipsiz |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tärtipsiz** | **baş-başdaq** | **şaşılğan** | **dağınık** | **karışık** | **retsiz** |
+|---|---|---|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| Azerbaijani | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ |
+| Karakalpak | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
+| Tatar | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.33 | 0 | 1 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 0 | 0.50 | 0 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.40 | 0.60 | 0 | 0 | 0.60 |
+| *In All* | ✅ |  |  |  |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |  |  |  |
+| **O'TQ** | **2.73** | **1.23** | **1.10** | **1** | **1** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەرتىپسىز | tärtipsiz |
+| چېچىلاڭغۇ | çeçilañğu |
+| بېسىق | besiq |
+| قالايمىقان | qalaymiqan |
+| **Kazakh** | |
+| шашылған | şaşılğan |
+| ретсіз | retsiz |
+| бытыраңқы | bıtırañqı |
+| аралас-құралас | aralas-quralas |
+| **Kyrgyz** | |
+| чачык | çaçık |
+| башаламан | başalaman |
+| иретсиз | iretsiz |
+| жыйнаксыз | jıynaksız |
+| **Tatar** | |
+| таркалган | tarkalgan |
+| тәртипсез | tärtipsez |
+| пычрак | pıçrak |
+| чуалган | çualgan |
+| чуалчык | çualçık |
+| **Bashkir** | |
+| тарҡау | tarqau |
+| тәртипһеҙ | tärtiphez |
+| бысраҡ | bısraq |
+| сүп-сарлы | süp-sarlı |
+
+```json
+{
+    "id": "i13420",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "cluttered",
+    "en_definition": "filled or scattered with a disorderly accumulation of objects or rubbish",
+    "tr_word": "dağınık",
+    "tr_definition": "eşyaların veya çöplerin düzensiz bir şekilde birikmesiyle dolu veya etrafa saçılmış durumda olan",
+    "ru_word": "захламленный",
+    "ru_definition": "заполненный или заваленный беспорядочным скоплением вещей или мусора",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tertipsiz"
+                ],
+                "Uzbek": [
+                    "tartibsiz"
+                ],
+                "Uyghur": [
+                    "تەرتىپسىز"
+                ],
+                "Karakalpak": [
+                    "tartılıp jatqan"
+                ],
+                "Tatar": [
+                    "таркалган",
+                    "тәртипсез"
+                ],
+                "Bashkir": [
+                    "тарҡау",
+                    "тәртипһеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چېچىلاڭغۇ"
+                ],
+                "Kazakh": [
+                    "шашылған"
+                ],
+                "Kyrgyz": [
+                    "чачык"
+                ],
+                "Karakalpak": [
+                    "shashılǵan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağınık"
+                ],
+                "Azerbaijani": [
+                    "dağınıq"
+                ],
+                "Turkmen": [
+                    "dagynyk"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karışık",
+                    "karmaşık"
+                ],
+                "Azerbaijani": [
+                    "qarışıq"
+                ],
+                "Turkmen": [
+                    "garma-gürme"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "baş-başdak"
+                ],
+                "Kyrgyz": [
+                    "башаламан"
+                ],
+                "Bashkir": [
+                    "бысраҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ретсіз"
+                ],
+                "Kyrgyz": [
+                    "иретсиз"
+                ],
+                "Karakalpak": [
+                    "iretsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "düzensiz"
+                ],
+                "Uzbek": [
+                    "to‘zitilgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bulanyk"
+                ],
+                "Karakalpak": [
+                    "bılıqqan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېسىق"
+                ],
+                "Tatar": [
+                    "пычрак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pərişan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nizamsız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hərc-mərəc"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poymosh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chalkash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ivirsigan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قالايمىقان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бытыраңқы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аралас-құралас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыйнаксыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чуалган",
+                    "чуалчык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сүп-сарлы"
+                ]
+            }
+        }
+    ]
+}
+```
+

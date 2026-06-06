@@ -1,0 +1,86 @@
+{
+    "id": "i76929",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pecan pie",
+    "en_definition": "pie made of pecans and sugar and corn syrup and butter and eggs",
+    "tr_word": "pekan cevizli turta",
+    "tr_definition": "Pekan cevizi, şeker, mısır şurubu, tereyağı ve yumurta ile yapılan bir turta çeşidi.",
+    "ru_word": "пирог с пеканом",
+    "ru_definition": "Пирог, приготовленный из орехов пекан, сахара, кукурузного сиропа, сливочного масла и яиц.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pekan cevizli turta",
+                    "pekan cevizli pay",
+                    "pekan cevizli çörek"
+                ],
+                "Azerbaijani": [
+                    "pekan piroqu",
+                    "pekanlı piroq",
+                    "pekanlı şirniyyat"
+                ],
+                "Turkmen": [
+                    "pekan hozly tort",
+                    "pekan hozly çörek"
+                ],
+                "Uyghur": [
+                    "پېكان ياڭىقى پىروژنىسى",
+                    "پېكان پىروژنىسى"
+                ],
+                "Kazakh": [
+                    "пекан бәліші",
+                    "пекан пирогы"
+                ],
+                "Kyrgyz": [
+                    "пекан пирогу",
+                    "пекан таттуусу"
+                ],
+                "Karakalpak": [
+                    "pekan bálish",
+                    "pekan pirogı"
+                ],
+                "Tatar": [
+                    "пекан бәлеше",
+                    "пекан пирогы"
+                ],
+                "Bashkir": [
+                    "пекан бәлеше",
+                    "пекан пирогы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yong'oqli pirog",
+                    "yong'oqli shirinlik",
+                    "yong'oqli pishiriq"
+                ],
+                "Kazakh": [
+                    "жаңғақ бәліші"
+                ],
+                "Karakalpak": [
+                    "jańǵaqlı bálish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýji hozly pişme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاتلىق پېكان نېنى"
+                ]
+            }
+        }
+    ]
+}

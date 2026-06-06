@@ -1,0 +1,265 @@
+# Hector
+| Field | Detail |
+|---|---|
+| **ID** | i30642 |
+| **English** | hector |
+| **Type** | verb |
+| **Definition** | be bossy towards |
+| **Source** | common |
+| **Ortatil** | döqlä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| басыну | basınu |
+| өтемсіну | ötemsinu |
+| **Tatar** | |
+| кысу | kısu |
+| җәберләү | jäberläü |
+| **Bashkir** | |
+| ҡыҫырыҡлау | qısırıqlau |
+
+```json
+{
+    "id": "i30642",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "hector",
+    "en_definition": "be bossy towards",
+    "tr_word": "kabadayılık etmek",
+    "tr_definition": "birine karşı zorbalık yapmak veya patronluk taslamak",
+    "ru_word": "запугивать",
+    "ru_definition": "вести себя властно или агрессивно по отношению к кому-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baskı yapmak"
+                ],
+                "Turkmen": [
+                    "basyş etmek"
+                ],
+                "Uyghur": [
+                    "بېسىم ئىشلەتمەك"
+                ],
+                "Kazakh": [
+                    "басыну"
+                ],
+                "Kyrgyz": [
+                    "басым жасоо"
+                ],
+                "Bashkir": [
+                    "баҫым яһау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hükmetmek"
+                ],
+                "Azerbaijani": [
+                    "hökmranlıq etmək"
+                ],
+                "Turkmen": [
+                    "höktemlik etmek"
+                ],
+                "Uzbek": [
+                    "hukmronlik qilmoq"
+                ],
+                "Uyghur": [
+                    "ھۆكۈمرانلىق قىلماق"
+                ],
+                "Karakalpak": [
+                    "húkim etiu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "buyurmaq"
+                ],
+                "Turkmen": [
+                    "buýruk bermek"
+                ],
+                "Uzbek": [
+                    "buyruqbozlik qilmoq"
+                ],
+                "Kyrgyz": [
+                    "буйрук берүү"
+                ],
+                "Tatar": [
+                    "боерып йөрү"
+                ],
+                "Bashkir": [
+                    "бойороҡ биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "кысым көрсөтүү"
+                ],
+                "Karakalpak": [
+                    "qıspaqqa alıu"
+                ],
+                "Tatar": [
+                    "кысу"
+                ],
+                "Bashkir": [
+                    "ҡыҫырыҡлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "üstünlük satmaq"
+                ],
+                "Tatar": [
+                    "өстенлек итү"
+                ],
+                "Bashkir": [
+                    "өҫтөнлөк итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zorbalık etmek"
+                ],
+                "Uzbek": [
+                    "zo'ravonlik qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təzyiq göstərmək"
+                ],
+                "Uzbek": [
+                    "tazyiq o'tkazmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өтемсіну",
+                    "өктемдік ету"
+                ],
+                "Karakalpak": [
+                    "ótemsireu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "zábirleu",
+                    "zálimlik etiu"
+                ],
+                "Tatar": [
+                    "җәберләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хакимлек итү"
+                ],
+                "Bashkir": [
+                    "хакимлыҡ итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahakküm etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kabadayılık etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sıxışdırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sütem etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "do'qlamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۆجەكلىك قىلماق",
+                    "بوزەك قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "билік жүргізу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әмір жүргізу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өкүмдүк кылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "зомбулук кылуу"
+                ]
+            }
+        }
+    ]
+}
+```
+

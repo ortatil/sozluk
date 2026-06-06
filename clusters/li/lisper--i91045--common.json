@@ -1,0 +1,99 @@
+{
+    "id": "i91045",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lisper",
+    "en_definition": "a speaker who lisps",
+    "tr_word": "peltek",
+    "tr_definition": "S, z, ş gibi sesleri tam çıkaramayan, dili damağına değdirerek konuşan kimse",
+    "ru_word": "шепелявый",
+    "ru_definition": "Человек, который произносит свистящие звуки как шипящие или имеет другие дефекты произношения этих звуков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "peltek",
+                    "peltek konuşan"
+                ],
+                "Azerbaijani": [
+                    "pəltək",
+                    "pəltəkağız"
+                ],
+                "Turkmen": [
+                    "peltek"
+                ],
+                "Uyghur": [
+                    "پەلتەك"
+                ],
+                "Kyrgyz": [
+                    "келте"
+                ],
+                "Karakalpak": [
+                    "kelte til"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sakaw"
+                ],
+                "Uzbek": [
+                    "saqov"
+                ],
+                "Kazakh": [
+                    "сақау"
+                ],
+                "Kyrgyz": [
+                    "сакоо"
+                ],
+                "Karakalpak": [
+                    "saqau"
+                ],
+                "Tatar": [
+                    "сакау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tili chuchuk",
+                    "tili duduq"
+                ],
+                "Kazakh": [
+                    "тілінің мүкісі бар"
+                ],
+                "Tatar": [
+                    "телсез",
+                    "телгә сакау"
+                ],
+                "Bashkir": [
+                    "телмән",
+                    "телмән кеше",
+                    "телмәнлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кекеш"
+                ],
+                "Kyrgyz": [
+                    "кекеч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇتۇق"
+                ]
+            }
+        }
+    ]
+}

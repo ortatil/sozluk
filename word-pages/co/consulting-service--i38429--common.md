@@ -1,0 +1,183 @@
+# Consulting service
+| Field | Detail |
+|---|---|
+| **ID** | i38429 |
+| **English** | consulting service |
+| **Type** | noun |
+| **Definition** | service provided by a professional advisor (e.g., a lawyer or doctor or CPA etc.) |
+| **Source** | common |
+| **Ortatil** | mäslähät |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **mäslähät** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.63** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| мәслихат | mäslixat |
+| кеңесшілік | keñesşilik |
+| ақыл-кеңес | aqıl-keñes |
+| **Kyrgyz** | |
+| масилет | masilet |
+| акыл-насаат | akıl-nasaat |
+| **Tatar** | |
+| мәсләхәт | mäsläxät |
+| **Bashkir** | |
+| мәсләхәт | mäsläxät |
+| кәңәшләшеү | käñäşläşeü |
+
+```json
+{
+    "id": "i38429",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "consulting service",
+    "en_definition": "service provided by a professional advisor (e.g., a lawyer or doctor or CPA etc.)",
+    "tr_word": "danışmanlık hizmeti",
+    "tr_definition": "Bir uzman veya profesyonel tarafından belirli bir alanda sunulan rehberlik ve tavsiye hizmeti.",
+    "ru_word": "консультационная услуга",
+    "ru_definition": "Услуга, предоставляемая профессиональным консультантом (например, юристом, врачом или бухгалтером) в виде совета или экспертного мнения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müşavirlik"
+                ],
+                "Azerbaijani": [
+                    "məşvərət xidməti"
+                ],
+                "Uzbek": [
+                    "maslahat xizmati",
+                    "mashvarat"
+                ],
+                "Uyghur": [
+                    "مەسلىھەت بېرىش مۇلازىمىتى",
+                    "مەسلىھەتچىلىك مۇلازىمىتى"
+                ],
+                "Kazakh": [
+                    "мәслихат"
+                ],
+                "Kyrgyz": [
+                    "масилет"
+                ],
+                "Karakalpak": [
+                    "másláhát berio",
+                    "másláhát xızmeti"
+                ],
+                "Tatar": [
+                    "мәсләхәт"
+                ],
+                "Bashkir": [
+                    "мәсләхәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "geňeş hyzmaty"
+                ],
+                "Uyghur": [
+                    "كېڭەش مۇلازىمىتى"
+                ],
+                "Kazakh": [
+                    "кеңес беру",
+                    "кеңесшілік"
+                ],
+                "Kyrgyz": [
+                    "кеңеш берүү",
+                    "кеңеш кызматы"
+                ],
+                "Karakalpak": [
+                    "keńes berio",
+                    "keńes xızmeti"
+                ],
+                "Tatar": [
+                    "киңәш бирү",
+                    "киңәш хезмәте"
+                ],
+                "Bashkir": [
+                    "кәңәш биреү",
+                    "кәңәш биреү хеҙмәте",
+                    "кәңәшләшеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akıl danışma"
+                ],
+                "Kazakh": [
+                    "ақыл-кеңес"
+                ],
+                "Kyrgyz": [
+                    "акыл-насаат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məsləhət xidməti",
+                    "məsləhətçilik"
+                ],
+                "Turkmen": [
+                    "maslahat hyzmaty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "danışmanlık hizmeti",
+                    "danışmanlık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ugur-ýol görkezme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yoʻl-yoʻriq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tavsiya"
+                ]
+            }
+        }
+    ]
+}
+```
+

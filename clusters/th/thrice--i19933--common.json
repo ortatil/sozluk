@@ -1,0 +1,74 @@
+{
+    "id": "i19933",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "thrice",
+    "en_definition": "three times",
+    "tr_word": "üç kez",
+    "tr_definition": "üç defa, üç kere",
+    "ru_word": "трижды",
+    "ru_definition": "три раза",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üç kez",
+                    "üç defa",
+                    "üç kere"
+                ],
+                "Azerbaijani": [
+                    "üç dəfə",
+                    "üç kərə",
+                    "üç yol"
+                ],
+                "Turkmen": [
+                    "üç gezek",
+                    "üç mertebe",
+                    "üç kerem"
+                ],
+                "Uzbek": [
+                    "uch marta",
+                    "uch bor",
+                    "uch karra"
+                ],
+                "Uyghur": [
+                    "ئۈچ قېتىم",
+                    "ئۈچ قەرە",
+                    "ئۈچ دەپە"
+                ],
+                "Kazakh": [
+                    "үш рет",
+                    "үш мәрте",
+                    "үш қайтара"
+                ],
+                "Kyrgyz": [
+                    "үч ирет",
+                    "үч жолу",
+                    "үч кайтара"
+                ],
+                "Karakalpak": [
+                    "úsh márte",
+                    "úsh kere",
+                    "úsh qaytara"
+                ],
+                "Tatar": [
+                    "өч мәртәбә",
+                    "өч кабат"
+                ],
+                "Bashkir": [
+                    "өс тапҡыр",
+                    "өс мәртәбә",
+                    "өс ҡат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өч тапкыр"
+                ]
+            }
+        }
+    ]
+}

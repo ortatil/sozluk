@@ -1,0 +1,88 @@
+{
+    "id": "i78421",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blueberry yogurt",
+    "en_definition": "yogurt with sweetened blueberries or blueberry jam",
+    "tr_word": "yaban mersinli yoğurt",
+    "tr_definition": "şekerlenmiş yaban mersini veya yaban mersini reçeli ile karıştırılmış yoğurt",
+    "ru_word": "черничный йогурт",
+    "ru_definition": "йогурт с добавлением подслащенной черники или черничного варенья",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gökertgili gatyk",
+                    "gökertgili ýogurt"
+                ],
+                "Uzbek": [
+                    "koʻkmarvaridli qatiq",
+                    "koʻkmarvaridli yoğurt"
+                ],
+                "Uyghur": [
+                    "كۆكمۇچ يورۇت",
+                    "كۆكمۇچ قېتىق",
+                    "كۆكمۇچ مۇراببالىق قېتىق"
+                ],
+                "Kazakh": [
+                    "көкжидек қосылған қатық",
+                    "көкжидек қосылған айран",
+                    "көкжидекті қатық",
+                    "көкжидекті айран"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qarağatlı qatıq"
+                ],
+                "Karakalpak": [
+                    "qara jidek qosılǵan qatıq",
+                    "qara jidek qosılǵan yogurt",
+                    "qara jidekli qatıq"
+                ],
+                "Bashkir": [
+                    "ҡарағатлы ҡатыҡ",
+                    "ҡарағатлы йогурт",
+                    "ҡарағатлы ойотҡан һөт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chernikali qatiq"
+                ],
+                "Kyrgyz": [
+                    "черника кошулган айран",
+                    "черникалуу айран",
+                    "черника кошулган жуурат"
+                ],
+                "Tatar": [
+                    "черникалы катык",
+                    "черникалы йогурт",
+                    "черникалы сөт ризыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaban mersinli yoğurt",
+                    "yaban mersini meyveli yoğurt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mərsinli qatıq"
+                ]
+            }
+        }
+    ]
+}

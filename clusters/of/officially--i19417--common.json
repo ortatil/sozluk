@@ -1,0 +1,86 @@
+{
+    "id": "i19417",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "officially",
+    "en_definition": "with official authorization",
+    "tr_word": "resmen",
+    "tr_definition": "Resmî bir makamca onaylanmış olarak, usulüne uygun bir biçimde.",
+    "ru_word": "официально",
+    "ru_definition": "С соблюдением всех формальностей, на законных основаниях или от имени власти.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "resmen",
+                    "resmiyetle",
+                    "resmi olarak"
+                ],
+                "Azerbaijani": [
+                    "rəsmən",
+                    "rəsmi surətdə",
+                    "rəsmi şəkildə"
+                ],
+                "Turkmen": [
+                    "resmi",
+                    "resmi ýagdaýda",
+                    "resmi suratda"
+                ],
+                "Uzbek": [
+                    "rasman",
+                    "rasmiy ravishda"
+                ],
+                "Uyghur": [
+                    "رەسمىي",
+                    "رەسمىي يوسۇندا"
+                ],
+                "Kazakh": [
+                    "ресми",
+                    "ресми түрде"
+                ],
+                "Kyrgyz": [
+                    "расмий түрдө",
+                    "расмий"
+                ],
+                "Karakalpak": [
+                    "rásmiy túrde",
+                    "rásmiy"
+                ],
+                "Tatar": [
+                    "рәсми рәвештә",
+                    "рәсмияттә",
+                    "рәсми"
+                ],
+                "Bashkir": [
+                    "рәсми рәүештә",
+                    "рәсми"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мыйзамдуу түрдө"
+                ],
+                "Karakalpak": [
+                    "nızamlı túrde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قانۇنلۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "лауазымды"
+                ]
+            }
+        }
+    ]
+}

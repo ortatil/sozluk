@@ -1,0 +1,94 @@
+{
+    "id": "i57682",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "print shop",
+    "en_definition": "a workplace where printing is done",
+    "tr_word": "matbaa",
+    "tr_definition": "basım işlerinin yapıldığı yer",
+    "ru_word": "типография",
+    "ru_definition": "предприятие, на котором производится печатание какой-либо продукции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basımevi"
+                ],
+                "Uzbek": [
+                    "bosmaxona"
+                ],
+                "Uyghur": [
+                    "باسماخانا"
+                ],
+                "Kazakh": [
+                    "баспахана",
+                    "баспа"
+                ],
+                "Kyrgyz": [
+                    "басмакана",
+                    "басма үйү"
+                ],
+                "Karakalpak": [
+                    "baspaxana"
+                ],
+                "Tatar": [
+                    "басмаханә"
+                ],
+                "Bashkir": [
+                    "баҫмахана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "matbaa"
+                ],
+                "Azerbaijani": [
+                    "mətbəə"
+                ],
+                "Turkmen": [
+                    "metbugat öýi"
+                ],
+                "Uzbek": [
+                    "matbaa"
+                ],
+                "Uyghur": [
+                    "مەتبەئە"
+                ],
+                "Karakalpak": [
+                    "mátbáá"
+                ],
+                "Tatar": [
+                    "мәтбага"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çapxana"
+                ],
+                "Turkmen": [
+                    "çaphana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nashriyot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "китап баҫыу йорто"
+                ]
+            }
+        }
+    ]
+}

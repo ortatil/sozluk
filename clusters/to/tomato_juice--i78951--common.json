@@ -1,0 +1,81 @@
+{
+    "id": "i78951",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tomato juice",
+    "en_definition": "the juice of tomatoes (usually bottled or canned)",
+    "tr_word": "domates suyu",
+    "tr_definition": "Domateslerin sıkılmasıyla elde edilen, genellikle şişelenmiş veya konserve olarak satılan içecek.",
+    "ru_word": "томатный сок",
+    "ru_definition": "Сок, выжатый из томатов, обычно продаваемый в бутылках или банках.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pomidor şirəsi",
+                    "pomidor suyu"
+                ],
+                "Turkmen": [
+                    "pomidor suwy",
+                    "pomidor şiresi"
+                ],
+                "Uzbek": [
+                    "pomidor sharbati",
+                    "pomidor suvi"
+                ],
+                "Uyghur": [
+                    "پەمىدۇر شەربىتى",
+                    "پەمىدۇر سۈيى"
+                ],
+                "Kyrgyz": [
+                    "помидор ширеси"
+                ],
+                "Karakalpak": [
+                    "pomidor shiresi"
+                ],
+                "Tatar": [
+                    "помидор суы"
+                ],
+                "Bashkir": [
+                    "помидор һуты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "domates suyu"
+                ],
+                "Kyrgyz": [
+                    "томат ширеси"
+                ],
+                "Bashkir": [
+                    "томат һуты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қызанақ шырыны"
+                ],
+                "Karakalpak": [
+                    "qızanaq shiresi"
+                ],
+                "Tatar": [
+                    "кызылча суы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тәттішөп шырыны"
+                ]
+            }
+        }
+    ]
+}

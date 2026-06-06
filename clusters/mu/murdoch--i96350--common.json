@@ -1,0 +1,127 @@
+{
+    "id": "i96350",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "murdoch",
+    "en_definition": "United States publisher (born in Australia in 1931)",
+    "tr_word": "Murdoch",
+    "tr_definition": "Avustralya doğumlu Amerikalı medya yayıncısı (1931 doğumlu)",
+    "ru_word": "Мёрдок",
+    "ru_definition": "Американский издатель австралийского происхождения (родился в 1931 году)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "medya patronu"
+                ],
+                "Azerbaijani": [
+                    "media maqnatı",
+                    "mətbuat sahibi"
+                ],
+                "Turkmen": [
+                    "metbugat eýesi"
+                ],
+                "Uzbek": [
+                    "matbuotchi"
+                ],
+                "Kazakh": [
+                    "медиамагнат"
+                ],
+                "Kyrgyz": [
+                    "медиа-магнат"
+                ],
+                "Karakalpak": [
+                    "media-magnat"
+                ],
+                "Tatar": [
+                    "матбугат хуҗасы"
+                ],
+                "Bashkir": [
+                    "матбугат хужаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "مېردوك"
+                ],
+                "Kazakh": [
+                    "Мердок"
+                ],
+                "Kyrgyz": [
+                    "Мёрдок"
+                ],
+                "Karakalpak": [
+                    "Myordok"
+                ],
+                "Tatar": [
+                    "Мёрдок"
+                ],
+                "Bashkir": [
+                    "Мёрдок"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəşriyyatçı"
+                ],
+                "Turkmen": [
+                    "neşirýatçy"
+                ],
+                "Uzbek": [
+                    "noshir"
+                ],
+                "Tatar": [
+                    "нәшир"
+                ],
+                "Bashkir": [
+                    "нәшерсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yayımcı",
+                    "basımcı"
+                ],
+                "Kyrgyz": [
+                    "басмачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gazeteci"
+                ],
+                "Uzbek": [
+                    "gazetachi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "баспагер"
+                ],
+                "Karakalpak": [
+                    "baspapaz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رۇپېرت مېردوك"
+                ]
+            }
+        }
+    ]
+}

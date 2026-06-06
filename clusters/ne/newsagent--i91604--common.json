@@ -1,0 +1,91 @@
+{
+    "id": "i91604",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "newsagent",
+    "en_definition": "someone who sells newspapers",
+    "tr_word": "gazeteci",
+    "tr_definition": "gazete satan kimse",
+    "ru_word": "продавец газет",
+    "ru_definition": "человек, который продает газеты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gazeteci",
+                    "gazete bayii"
+                ],
+                "Azerbaijani": [
+                    "qəzetçi",
+                    "qəzet satan"
+                ],
+                "Turkmen": [
+                    "gazetçi",
+                    "gazet satyjy"
+                ],
+                "Uzbek": [
+                    "gazetachi",
+                    "gazeta sotuvchisi"
+                ],
+                "Uyghur": [
+                    "گېزىتچى",
+                    "گېزىت ساتقۇچى",
+                    "گېزىتپۇرۇش"
+                ],
+                "Kazakh": [
+                    "газет сатушы"
+                ],
+                "Kyrgyz": [
+                    "гезит сатуучу"
+                ],
+                "Karakalpak": [
+                    "gazeta satıoshı",
+                    "gazetashı"
+                ],
+                "Tatar": [
+                    "гәзитче"
+                ],
+                "Bashkir": [
+                    "гәзитсе",
+                    "гәзит һатыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mətbuat yayan"
+                ],
+                "Uzbek": [
+                    "matbuot tarqatuvchi"
+                ],
+                "Tatar": [
+                    "матбугат сатучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müvezzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "баспасөз сатушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кабарчы"
+                ]
+            }
+        }
+    ]
+}

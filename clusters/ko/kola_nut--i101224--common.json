@@ -1,0 +1,83 @@
+{
+    "id": "i101224",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "kola nut",
+    "en_definition": "bitter brown seed containing caffein; source of cola extract",
+    "tr_word": "kola cevizi",
+    "tr_definition": "Kafein içeren ve kola özütü elde etmek için kullanılan acı, kahverengi tohum.",
+    "ru_word": "орех кола",
+    "ru_definition": "Горькое коричневое семя, содержащее кофеин; источник экстракта колы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kola cevizi"
+                ],
+                "Azerbaijani": [
+                    "kola qozu",
+                    "kola toxumu"
+                ],
+                "Turkmen": [
+                    "kola hozy",
+                    "kola tohumy"
+                ],
+                "Uzbek": [
+                    "kola urug'i"
+                ],
+                "Uyghur": [
+                    "كولا مېۋىسى",
+                    "كولا ياڭىقى"
+                ],
+                "Kazakh": [
+                    "кола дәні"
+                ],
+                "Kyrgyz": [
+                    "кола данеги"
+                ],
+                "Tatar": [
+                    "кола җимеше"
+                ],
+                "Bashkir": [
+                    "кола сәтләүеге",
+                    "кола емеше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kola fındığı"
+                ],
+                "Uzbek": [
+                    "kola yong'og'i"
+                ],
+                "Kazakh": [
+                    "кола жаңғағы"
+                ],
+                "Kyrgyz": [
+                    "кола жаңгагы"
+                ],
+                "Karakalpak": [
+                    "kola jańǵaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kola tohumu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кола чикләвеге"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "id": "i89878",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "family doctor",
+    "en_definition": "a general practitioner who treats all the family members",
+    "tr_word": "aile hekimi",
+    "tr_definition": "tüm aile üyelerini tedavi eden genel pratisyen",
+    "ru_word": "семейный врач",
+    "ru_definition": "врач общей практики, который лечит всех членов семьи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aile hekimi",
+                    "aile doktoru"
+                ],
+                "Azerbaijani": [
+                    "ailə həkimi",
+                    "ailə təbibi"
+                ],
+                "Uzbek": [
+                    "oila shifokori",
+                    "oila tabibi"
+                ],
+                "Uyghur": [
+                    "ئائىلە دوختۇرى",
+                    "ئائىلە تېببىي خادىمى"
+                ],
+                "Kazakh": [
+                    "жалпы тәжірибелік дәрігер"
+                ],
+                "Tatar": [
+                    "гаилә табибы",
+                    "гаилә хәкиме"
+                ],
+                "Bashkir": [
+                    "ғаилә табибы",
+                    "ғаилә имсеһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pratisyen hekim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maşgala lukmany",
+                    "maşgala tebibi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئومۇمىي يۈزلۈك دوختۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отбасылық дәрігер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жанұя дәрігері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үй-бүлөлүк дарыгер",
+                    "үй-бүлө дарыгери",
+                    "үй-бүлөлүк табиб"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shańaraq shıpakeri",
+                    "shańaraq dárigeri"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+# Italicize
+| Field | Detail |
+|---|---|
+| **ID** | i30480 |
+| **English** | italicize |
+| **Type** | verb |
+| **Definition** | print in italics |
+| **Source** | common |
+| **Ortatil** | kölbeıletımaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| көлбеулету | kölbeuletu |
+| қисайту | qisaytu |
+
+```json
+{
+    "id": "i30480",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "italicize",
+    "en_definition": "print in italics",
+    "tr_word": "italik yazmak",
+    "tr_definition": "bir metni sağa yatık harflerle (italik) dizmek veya yazmak",
+    "ru_word": "выделять курсивом",
+    "ru_definition": "напечатать или написать текст наклонным шрифтом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kursivlə yazmaq"
+                ],
+                "Turkmen": [
+                    "kursiw bilen ýazmak"
+                ],
+                "Uzbek": [
+                    "kursiv qilmoq"
+                ],
+                "Karakalpak": [
+                    "kursiw penen jazıo"
+                ],
+                "Tatar": [
+                    "курсив белән язу"
+                ],
+                "Bashkir": [
+                    "курсив менән яҙыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yatıq yazmaq"
+                ],
+                "Turkmen": [
+                    "ýapgyt ýazmak"
+                ],
+                "Uyghur": [
+                    "يانتۇ يېزىش",
+                    "يانتۇ قىلىش",
+                    "يانتۇ باسما"
+                ],
+                "Kyrgyz": [
+                    "жантайтып жазуу"
+                ],
+                "Karakalpak": [
+                    "jantaytıp jazıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyşyk ýazmak"
+                ],
+                "Uzbek": [
+                    "qiyshiq yozmoq"
+                ],
+                "Kyrgyz": [
+                    "кыйшайтып жазуу"
+                ],
+                "Tatar": [
+                    "кыеклап язу"
+                ],
+                "Bashkir": [
+                    "ҡыялатып яҙыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yatık yazmak",
+                    "italik yazmak"
+                ],
+                "Uzbek": [
+                    "yotiq yozmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əyri yazmaq"
+                ],
+                "Bashkir": [
+                    "ҡыя яҙыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eğik yazmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлбеу жазу",
+                    "көлбеулету"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қисайту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qiyalatıp jazıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "авыштырып язу"
+                ]
+            }
+        }
+    ]
+}
+```
+

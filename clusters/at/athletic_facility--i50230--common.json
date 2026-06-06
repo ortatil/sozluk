@@ -1,0 +1,156 @@
+{
+    "id": "i50230",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "athletic facility",
+    "en_definition": "a facility for athletic events",
+    "tr_word": "spor tesisi",
+    "tr_definition": "atletizm ve diğer spor etkinlikleri için tasarlanmış yapı veya alan",
+    "ru_word": "спортивное сооружение",
+    "ru_definition": "специально оборудованное место для проведения спортивных мероприятий и тренировок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "spor tesisi",
+                    "spor alanı",
+                    "spor kompleksi"
+                ],
+                "Turkmen": [
+                    "sport desgalary",
+                    "sport meýdançasy",
+                    "sport toplumy"
+                ],
+                "Uzbek": [
+                    "sport majmuasi",
+                    "sportgoh"
+                ],
+                "Kazakh": [
+                    "спорт кешені",
+                    "спорт сарайы"
+                ],
+                "Kyrgyz": [
+                    "спорт аянтчасы",
+                    "спорт комплекси"
+                ],
+                "Karakalpak": [
+                    "sport maydanshası",
+                    "sport sarayı"
+                ],
+                "Tatar": [
+                    "спорт корылмасы",
+                    "спорт сарае"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "stadyum"
+                ],
+                "Turkmen": [
+                    "stadion"
+                ],
+                "Kazakh": [
+                    "стадион"
+                ],
+                "Kyrgyz": [
+                    "стадион"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "maydon"
+                ],
+                "Karakalpak": [
+                    "maydan"
+                ],
+                "Tatar": [
+                    "мәйданчык"
+                ],
+                "Bashkir": [
+                    "майҙан",
+                    "майҙансыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تەنتەربىيە مەيدانى",
+                    "تەنتەربىيە سارىيى"
+                ],
+                "Kyrgyz": [
+                    "дене тарбия жайы"
+                ],
+                "Karakalpak": [
+                    "dene tárbiyası imaratı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "idman yurdu"
+                ],
+                "Azerbaijani": [
+                    "idman kompleksi",
+                    "idman qurğusu",
+                    "idman meydançası",
+                    "idman sarayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻyingoh"
+                ],
+                "Tatar": [
+                    "уен мәйданы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مەشىقگاھ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алаң"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаттығу орны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "урын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йорт"
+                ]
+            }
+        }
+    ]
+}

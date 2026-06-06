@@ -1,0 +1,171 @@
+{
+    "id": "i54810",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "highway",
+    "en_definition": "a major road for any form of motor transport",
+    "tr_word": "otoyol",
+    "tr_definition": "motorlu taşıtların kullanımı için tasarlanmış ana yol",
+    "ru_word": "шоссе",
+    "ru_definition": "главная дорога для любого вида автомобильного транспорта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yol"
+                ],
+                "Turkmen": [
+                    "ýol"
+                ],
+                "Uyghur": [
+                    "تېز يول"
+                ],
+                "Kazakh": [
+                    "күрежол",
+                    "жол"
+                ],
+                "Karakalpak": [
+                    "jol"
+                ],
+                "Tatar": [
+                    "олы юл",
+                    "юл"
+                ],
+                "Bashkir": [
+                    "оло юл",
+                    "юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "anayol",
+                    "karayolu"
+                ],
+                "Azerbaijani": [
+                    "ana yol"
+                ],
+                "Uyghur": [
+                    "شاھ يول"
+                ],
+                "Kyrgyz": [
+                    "кан жол"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "magistral"
+                ],
+                "Uzbek": [
+                    "magistral"
+                ],
+                "Tatar": [
+                    "магистраль"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "даңғыл"
+                ],
+                "Kyrgyz": [
+                    "даңгыр жол"
+                ],
+                "Karakalpak": [
+                    "dańǵıl jol",
+                    "shańǵıt jol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şose"
+                ],
+                "Azerbaijani": [
+                    "şose"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cadde"
+                ],
+                "Turkmen": [
+                    "şatut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly ýol"
+                ],
+                "Karakalpak": [
+                    "úlken jol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şagol"
+                ],
+                "Uzbek": [
+                    "shohko'cha",
+                    "shohyo'l"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta yo'l"
+                ],
+                "Kazakh": [
+                    "қатынас жолы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ يول"
+                ],
+                "Kyrgyz": [
+                    "чоң жол"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тракт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төп юл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дала юлы"
+                ]
+            }
+        }
+    ]
+}

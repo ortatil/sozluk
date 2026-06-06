@@ -1,0 +1,151 @@
+{
+    "id": "i70265",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "social security number",
+    "en_definition": "the number of a particular individual's Social Security account",
+    "tr_word": "sosyal güvenlik numarası",
+    "tr_definition": "bir bireyin sosyal güvenlik hesabına atanan özel numara",
+    "ru_word": "номер социального страхования",
+    "ru_definition": "номер счета социального страхования конкретного лица",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəxsi hesab nömrəsi"
+                ],
+                "Turkmen": [
+                    "şahsy kody",
+                    "şahsy belgisi"
+                ],
+                "Uzbek": [
+                    "shaxsiy identifikatsiya raqami",
+                    "shaxsiy raqam"
+                ],
+                "Uyghur": [
+                    "شەخسىي كىملىك نومۇرى"
+                ],
+                "Tatar": [
+                    "шәхси хисап номеры",
+                    "шәхси сан"
+                ],
+                "Bashkir": [
+                    "шәхси иҫәп номеры",
+                    "шәхси теркәү номеры",
+                    "шәхси код"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ijtimoiy sug'urta raqami"
+                ],
+                "Uyghur": [
+                    "ئىجتىمائىي سۇغۇرتا نومۇرى"
+                ],
+                "Tatar": [
+                    "иҗтимагый иминлек номеры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жеке сәйкестендіру нөмірі"
+                ],
+                "Kyrgyz": [
+                    "жекече каттоо номери"
+                ],
+                "Karakalpak": [
+                    "jeke identikaciyalıq nomer",
+                    "jeke san"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sosyal güvenlik numarası",
+                    "kimlik numarası"
+                ],
+                "Uyghur": [
+                    "كىملىك نومۇرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vatandaşlık numarası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sicil numarası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fərdi eyniləşdirmə nömrəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sosial sığorta nömrəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hasap belgisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әлеуметтік жеке код"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тіркеу нөмірі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өздүк сан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каттоо номери"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "insannıń jeke nomeri"
+                ]
+            }
+        }
+    ]
+}

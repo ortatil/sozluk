@@ -1,0 +1,77 @@
+{
+    "id": "i14193",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "heart-healthy",
+    "en_definition": "of foods that are low in fats and sodium and other ingredients that may foster heart disease",
+    "tr_word": "kalp dostu",
+    "tr_definition": "Kalp hastalığına yol açabilecek yağ, sodyum ve diğer bileşenler açısından düşük olan gıdalar için kullanılır.",
+    "ru_word": "полезный для сердца",
+    "ru_definition": "О продуктах с низким содержанием жиров, натрия и других ингредиентов, которые могут способствовать развитию сердечно-сосудистых заболеваний.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ürək dostu",
+                    "ürəyə xeyirli",
+                    "ürək üçün faydalı",
+                    "ürəyi qoruyan"
+                ],
+                "Turkmen": [
+                    "ýürege peýdaly",
+                    "ýürek üçin sagdyn",
+                    "ýürek saglygyny goraýan"
+                ],
+                "Uzbek": [
+                    "yurakka foydali",
+                    "yurak uchun sogʻlom",
+                    "yurakni quvvatlovchi",
+                    "yurakka bezarar"
+                ],
+                "Uyghur": [
+                    "يۈرەككە پايدىلىق",
+                    "يۈرەككە شىپالىق",
+                    "يۈرەكنى قۇۋۋەتلەيدىغان",
+                    "يۈرەككە ساغلام"
+                ],
+                "Kazakh": [
+                    "жүрекке пайдалы",
+                    "жүрекке шипалы",
+                    "жүрекке жағымды"
+                ],
+                "Kyrgyz": [
+                    "жүрөккө пайдалуу",
+                    "жүрөккө жагымдуу",
+                    "жүрөккө шыпаалуу"
+                ],
+                "Karakalpak": [
+                    "júrekke paydalı",
+                    "júrekke jaǵımlı",
+                    "júrekke qolaylı"
+                ],
+                "Tatar": [
+                    "йөрәк өчен файдалы",
+                    "йөрәккә шифалы",
+                    "йөрәкне саклаучы"
+                ],
+                "Bashkir": [
+                    "йөрәккә файҙалы",
+                    "йөрәк өсөн файҙалы",
+                    "йөрәккә шифалы",
+                    "йөрәкте һаҡлаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kalp dostu",
+                    "kalbe yararlı",
+                    "kalp sağlığına uygun",
+                    "kalbi koruyan"
+                ]
+            }
+        }
+    ]
+}

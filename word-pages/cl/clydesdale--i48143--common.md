@@ -1,0 +1,159 @@
+# Clydesdale
+| Field | Detail |
+|---|---|
+| **ID** | i48143 |
+| **English** | clydesdale |
+| **Type** | noun |
+| **Definition** | heavy feathered-legged breed of draft horse originally from Scotland |
+| **Source** | common |
+| **Ortatil** | şäyer |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| аргымак | argımak |
+
+```json
+{
+    "id": "i48143",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "clydesdale",
+    "en_definition": "heavy feathered-legged breed of draft horse originally from Scotland",
+    "tr_word": "clydesdale",
+    "tr_definition": "İskoçya kökenli, bacakları tüylü ve iri yapılı bir ağır yük atı cinsi",
+    "ru_word": "клайдсдейл",
+    "ru_definition": "шотландская порода тяжеловозов с густыми щетками на ногах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağır yük atı"
+                ],
+                "Azerbaijani": [
+                    "ağırçəkili at"
+                ],
+                "Turkmen": [
+                    "agyr ýükçi at"
+                ],
+                "Uzbek": [
+                    "ogʻir yuk oti"
+                ],
+                "Uyghur": [
+                    "ئېغىر يۈك ئېتى"
+                ],
+                "Kazakh": [
+                    "ауыр жүк жылқысы",
+                    "ауыр жүк тартатын ат",
+                    "ауыр жүкшіл жылқы"
+                ],
+                "Karakalpak": [
+                    "auır júk atı"
+                ],
+                "Tatar": [
+                    "авыр йөк аты"
+                ],
+                "Bashkir": [
+                    "ауыр йөк аты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yük atı"
+                ],
+                "Uzbek": [
+                    "yuk tortuvchi ot"
+                ],
+                "Uyghur": [
+                    "يۈك ئېتى"
+                ],
+                "Kyrgyz": [
+                    "жүкчү ат"
+                ],
+                "Karakalpak": [
+                    "júk atı"
+                ],
+                "Tatar": [
+                    "йөк аты"
+                ],
+                "Bashkir": [
+                    "йөк аты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koşu atı"
+                ],
+                "Azerbaijani": [
+                    "qoşqu atı"
+                ],
+                "Turkmen": [
+                    "goşun aty"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iri yapılı at"
+                ],
+                "Kyrgyz": [
+                    "аргымак"
+                ],
+                "Bashkir": [
+                    "эре ат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uly at"
+                ],
+                "Karakalpak": [
+                    "dáu at"
+                ],
+                "Tatar": [
+                    "зур ат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shayer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ تىپلىق ئات"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оор жүк ташуучу ат"
+                ]
+            }
+        }
+    ]
+}
+```
+

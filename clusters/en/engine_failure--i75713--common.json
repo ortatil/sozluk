@@ -1,0 +1,97 @@
+{
+    "id": "i75713",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "engine failure",
+    "en_definition": "engine does not run",
+    "tr_word": "motor arızası",
+    "tr_definition": "motorun çalışmaması veya işlevini yerine getirememesi durumu",
+    "ru_word": "отказ двигателя",
+    "ru_definition": "состояние, при котором двигатель перестает работать или функционировать должным образом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "motor arızası",
+                    "motor bozulması",
+                    "motor durması"
+                ],
+                "Uyghur": [
+                    "ماتور كاشىلىسى",
+                    "ماتور بۇزۇلۇش",
+                    "ماتور توختاپ قېلىش"
+                ],
+                "Kazakh": [
+                    "мотордың істен шығуы"
+                ],
+                "Kyrgyz": [
+                    "мотордун бузулушу"
+                ],
+                "Karakalpak": [
+                    "motordıń buzılıoı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "dvigatel buzilishi",
+                    "dvigatel toʻxtashi",
+                    "dvigatel nosozligi"
+                ],
+                "Tatar": [
+                    "двигатель бозылу",
+                    "двигатель туктау",
+                    "двигатель эшләмәү"
+                ],
+                "Bashkir": [
+                    "двигатель боҙолоу",
+                    "двигатель туҡтау",
+                    "двигатель эшләмәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қозғалтқыштың істен шығуы",
+                    "қозғалтқыштың бұзылуы",
+                    "қозғалтқыш ақауы"
+                ],
+                "Karakalpak": [
+                    "qozǵaltqıshtıń buzılıoı",
+                    "qozǵaltqıshtıń toqtap qalıoı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mühərrik nasazlığı",
+                    "mühərrik xarablığı",
+                    "mühərrik sıradan çıxması",
+                    "mühərrik dayanması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hereketlendirijiniň bozulmagy",
+                    "hereketlendirijiniň durmagy",
+                    "hereketlendirijiniň hatardan çykmagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыймылдаткычтын бузулушу",
+                    "кыймылдаткычтын токтоп калышы"
+                ]
+            }
+        }
+    ]
+}

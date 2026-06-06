@@ -1,0 +1,179 @@
+# Treasure chest
+| Field | Detail |
+|---|---|
+| **ID** | i60511 |
+| **English** | treasure chest |
+| **Type** | noun |
+| **Definition** | a chest filled with valuables |
+| **Source** | common |
+| **Ortatil** | mücrü |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i60511",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "treasure chest",
+    "en_definition": "a chest filled with valuables",
+    "tr_word": "hazine sandığı",
+    "tr_definition": "değerli eşyalarla dolu bir sandık",
+    "ru_word": "сундук с сокровищами",
+    "ru_definition": "сундук, наполненный ценностями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazine sandığı"
+                ],
+                "Azerbaijani": [
+                    "xəzinə sandığı"
+                ],
+                "Turkmen": [
+                    "hazyna sandygy"
+                ],
+                "Uzbek": [
+                    "xazina sandig'i"
+                ],
+                "Uyghur": [
+                    "خەزىنە ساندۇقى"
+                ],
+                "Karakalpak": [
+                    "ǵáziyne sandıǵı"
+                ],
+                "Tatar": [
+                    "хәзинә сандыгы"
+                ],
+                "Bashkir": [
+                    "хазина һандығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "javohir sandig'i"
+                ],
+                "Uyghur": [
+                    "جاۋاھىرات ساندۇقى"
+                ],
+                "Kazakh": [
+                    "жауһар сандық"
+                ],
+                "Karakalpak": [
+                    "jaoazır sandıǵı"
+                ],
+                "Tatar": [
+                    "җәүһәр сандыгы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "altyn sandyk"
+                ],
+                "Kazakh": [
+                    "алтын сандық"
+                ],
+                "Kyrgyz": [
+                    "алтын сандык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "define sandığı"
+                ],
+                "Azerbaijani": [
+                    "dəfinə sandığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mücevher sandığı"
+                ],
+                "Azerbaijani": [
+                    "mücrü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қазына сандығы"
+                ],
+                "Kyrgyz": [
+                    "казына сандык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maly-dünýä sandygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zar sandiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۆھەر ساندۇقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кенч сандык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dáolet sandıǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "байлык сандыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "әүҙән һандығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мөлкәт һандығы"
+                ]
+            }
+        }
+    ]
+}
+```
+

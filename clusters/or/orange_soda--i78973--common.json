@@ -1,0 +1,86 @@
+{
+    "id": "i78973",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "orange soda",
+    "en_definition": "orange-flavored carbonated drink",
+    "tr_word": "portakallı gazoz",
+    "tr_definition": "portakal aromalı, şekerli ve karbonatlı içecek",
+    "ru_word": "апельсиновый газировка",
+    "ru_definition": "газированный напиток со вкусом апельсина",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "apelsinli ichimlik",
+                    "apelsinli sharbat",
+                    "apelsinli suv"
+                ],
+                "Uyghur": [
+                    "ئاپېلسىن شەربىتى",
+                    "ئاپېلسىن گازلىق سۈيى",
+                    "ئاپېلسىن سۈيى"
+                ],
+                "Kazakh": [
+                    "апельсин сусыны",
+                    "апельсин шырыны"
+                ],
+                "Kyrgyz": [
+                    "апельсин ширеси",
+                    "апельсин суусундугу",
+                    "апельсин суусу"
+                ],
+                "Karakalpak": [
+                    "apelsin shárbáti",
+                    "apelsin suoı"
+                ],
+                "Tatar": [
+                    "әфлисун суы",
+                    "әфлисунлы газлы су",
+                    "әфлисунлы эчемлек"
+                ],
+                "Bashkir": [
+                    "апельсин һуты",
+                    "апельсин эсемлеге",
+                    "апельсин шәрбәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "portakallı gazoz",
+                    "portakallı içecek"
+                ],
+                "Azerbaijani": [
+                    "portağal şirəsi",
+                    "portağallı qazlı su",
+                    "portağallı içki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meyveli gazoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mämişi gazly suw",
+                    "mämişi şerbeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қызғылт сары сусын"
+                ]
+            }
+        }
+    ]
+}

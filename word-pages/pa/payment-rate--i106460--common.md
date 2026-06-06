@@ -1,0 +1,128 @@
+# Payment rate
+| Field | Detail |
+|---|---|
+| **ID** | i106460 |
+| **English** | payment rate |
+| **Type** | noun |
+| **Definition** | the amount of money paid out per unit time |
+| **Source** | common |
+| **Ortatil** | haq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| хаҡ | xaq |
+
+```json
+{
+    "id": "i106460",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "payment rate",
+    "en_definition": "the amount of money paid out per unit time",
+    "tr_word": "ödeme oranı",
+    "tr_definition": "birim zaman başına ödenen para miktarı",
+    "ru_word": "норма оплаты",
+    "ru_definition": "сумма денег, выплачиваемая за единицу времени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töleg möçberi",
+                    "töleg nyrhy",
+                    "töleg derejesi"
+                ],
+                "Uzbek": [
+                    "toʻlov miqdori",
+                    "toʻlov darajasi",
+                    "toʻlov stavkasi"
+                ],
+                "Uyghur": [
+                    "تۆلەم نىسبىتى",
+                    "تۆلەش نىسبىتى"
+                ],
+                "Kazakh": [
+                    "төлем мөлшерлемесі",
+                    "төлем деңгейі",
+                    "төлем мөлшері"
+                ],
+                "Kyrgyz": [
+                    "төлөм өлчөмү",
+                    "төлөм чени"
+                ],
+                "Karakalpak": [
+                    "tólem mólsherі",
+                    "tólem stawkası",
+                    "tólem ólshemі"
+                ],
+                "Tatar": [
+                    "түләү ставкасы",
+                    "түләү күләме",
+                    "түләү нормасы"
+                ],
+                "Bashkir": [
+                    "түләү ставкаһы",
+                    "түләү күләме",
+                    "түләү нормаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ödeme oranı",
+                    "ödeme hızı",
+                    "ödeme tutarı"
+                ],
+                "Azerbaijani": [
+                    "ödəniş dərəcəsi",
+                    "ödəmə dərəcəsi",
+                    "ödəniş miqdarı",
+                    "ödəniş norması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "haq miqdori"
+                ],
+                "Uyghur": [
+                    "ھەق نىسبىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақы мөлшері"
+                ],
+                "Kyrgyz": [
+                    "акы өлчөмү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tediye nispeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хаҡ"
+                ]
+            }
+        }
+    ]
+}
+```
+

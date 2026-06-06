@@ -1,0 +1,108 @@
+{
+    "id": "i53053",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "doorbell",
+    "en_definition": "a push button at an outer door that gives a ringing or buzzing signal when pushed",
+    "tr_word": "kapı zili",
+    "tr_definition": "bir dış kapıda bulunan ve basıldığında çınlama veya vızıltı sinyali veren düğme",
+    "ru_word": "дверной звонок",
+    "ru_definition": "кнопка у входной двери, которая при нажатии подает звуковой или вибрирующий сигнал",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eshik qoʻngʻirogʻi"
+                ],
+                "Uyghur": [
+                    "ئىشىك قوڭغۇرىقى",
+                    "ئىشىك زىڭگىرى"
+                ],
+                "Kazakh": [
+                    "есік қоңырауы"
+                ],
+                "Kyrgyz": [
+                    "эшик коңгуроосу"
+                ],
+                "Karakalpak": [
+                    "esik qońırauı"
+                ],
+                "Tatar": [
+                    "ишек кыңгыравы",
+                    "ишек кыңгыраучыгы"
+                ],
+                "Bashkir": [
+                    "ишек ҡыңғырауы",
+                    "ишек зыңы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻngʻiroq"
+                ],
+                "Kazakh": [
+                    "қоңырау"
+                ],
+                "Kyrgyz": [
+                    "коңгуроо"
+                ],
+                "Karakalpak": [
+                    "qońırau"
+                ],
+                "Tatar": [
+                    "кыңгырау"
+                ],
+                "Bashkir": [
+                    "ҡыңғырау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kapı zili"
+                ],
+                "Azerbaijani": [
+                    "qapı zəngi"
+                ],
+                "Turkmen": [
+                    "gapynyň jaňy",
+                    "gapydaky jaň"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zil"
+                ],
+                "Azerbaijani": [
+                    "zəng"
+                ],
+                "Uzbek": [
+                    "zang"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jaň"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чакыруу коңгуроосу"
+                ]
+            }
+        }
+    ]
+}

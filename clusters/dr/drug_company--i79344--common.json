@@ -1,0 +1,104 @@
+{
+    "id": "i79344",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "drug company",
+    "en_definition": "a company that makes and sells pharmaceuticals",
+    "tr_word": "ilaç şirketi",
+    "tr_definition": "İlaç üreten ve satan şirket.",
+    "ru_word": "фармацевтическая компания",
+    "ru_definition": "Компания, которая производит и продает лекарственные препараты.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dərman müəssisəsi",
+                    "dərman firması"
+                ],
+                "Turkmen": [
+                    "derman kärhanasy",
+                    "derman öndürijisi"
+                ],
+                "Uzbek": [
+                    "dori-darmon korxonasi",
+                    "dori ishlab chiqaruvchi",
+                    "dori korxonasi"
+                ],
+                "Uyghur": [
+                    "دورا ئىشلەپچىقىرىش شىركىتى"
+                ],
+                "Kazakh": [
+                    "дәрі-дәрмек компаниясы",
+                    "дәрі жасау мекемесі"
+                ],
+                "Kyrgyz": [
+                    "дары-дармек ишканасы",
+                    "дары чыгаруучу ишкана"
+                ],
+                "Karakalpak": [
+                    "dárixana kárxanası",
+                    "dári-dármek kárxanası"
+                ],
+                "Tatar": [
+                    "даруханә ширкәте",
+                    "дару җитештерү ширкәте",
+                    "дару ширкәте"
+                ],
+                "Bashkir": [
+                    "дарыухана ширҡәте",
+                    "дарыу яһау ширҡәте",
+                    "дарыу етештереү ойошмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "farmasewtik kärhana"
+                ],
+                "Uzbek": [
+                    "farmatsevtika shirkati"
+                ],
+                "Kazakh": [
+                    "фармацевтикалық компания"
+                ],
+                "Kyrgyz": [
+                    "фармацевтикалык ишкана"
+                ],
+                "Karakalpak": [
+                    "farmacewtikalıq kárxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ecza kuruluşu"
+                ],
+                "Azerbaijani": [
+                    "əczaçılıq şirkəti",
+                    "əczaçılıq müəssisəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ilaç firması",
+                    "ilaç şirketi",
+                    "ilaç fabrikası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دورا شىركىتى",
+                    "دورا زاۋۇتى"
+                ]
+            }
+        }
+    ]
+}

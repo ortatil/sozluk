@@ -1,0 +1,116 @@
+# Human-sized
+| Field | Detail |
+|---|---|
+| **ID** | i12285 |
+| **English** | human-sized |
+| **Type** | adjective |
+| **Definition** | having the approximate size of a human being |
+| **Source** | common |
+| **Ortatil** | ädämdek |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| адамдай | adamday |
+| кишидей | kişidey |
+
+```json
+{
+    "id": "i12285",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "human-sized",
+    "en_definition": "having the approximate size of a human being",
+    "tr_word": "insan boyutunda",
+    "tr_definition": "yaklaşık bir insan büyüklüğünde olan",
+    "ru_word": "человеческого размера",
+    "ru_definition": "имеющий размер, примерно соответствующий размеру человека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "adam boyda",
+                    "adam cüssəli"
+                ],
+                "Turkmen": [
+                    "adam boýly",
+                    "adam sypatly",
+                    "adam göwreli"
+                ],
+                "Uzbek": [
+                    "odam bo'yi",
+                    "odamdek",
+                    "odam baravar"
+                ],
+                "Uyghur": [
+                    "ئادەم بويىچىلىك",
+                    "ئادەم گەۋدىسىدەك",
+                    "ئادەم بويىداق",
+                    "ئادەم جۇسسىدەك"
+                ],
+                "Kazakh": [
+                    "адам бойлы",
+                    "адам тұлғалы",
+                    "адаммен тең",
+                    "адам шамалас"
+                ],
+                "Kyrgyz": [
+                    "адам боюндай",
+                    "адамдай"
+                ],
+                "Karakalpak": [
+                    "adam boylı",
+                    "adam kelbetli",
+                    "adam tұlǵalas"
+                ],
+                "Tatar": [
+                    "адәм зурлыгындагы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "insan boyunda",
+                    "insan boyutunda",
+                    "insan cüsseli",
+                    "insan iriliğinde"
+                ],
+                "Azerbaijani": [
+                    "insan boyda",
+                    "insan ölçüsündə"
+                ],
+                "Uzbek": [
+                    "inson o'lchamli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "киши боюндай",
+                    "кишидей"
+                ],
+                "Tatar": [
+                    "кеше буе",
+                    "кеше зурлыгындагы"
+                ],
+                "Bashkir": [
+                    "кеше буйы",
+                    "кеше ҙурлығындағы",
+                    "кеше кәүҙәһендәй"
+                ]
+            }
+        }
+    ]
+}
+```
+

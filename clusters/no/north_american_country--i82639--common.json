@@ -1,0 +1,79 @@
+{
+    "id": "i82639",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north american country",
+    "en_definition": "any country on the North American continent",
+    "tr_word": "Kuzey Amerika ülkesi",
+    "tr_definition": "Kuzey Amerika kıtasında bulunan herhangi bir ülke",
+    "ru_word": "североамериканская страна",
+    "ru_definition": "любая страна на североамериканском континенте",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk Amerika döwleti",
+                    "Demirgazyk Amerika ýurdy"
+                ],
+                "Kyrgyz": [
+                    "Түндүк Америка мамлекети"
+                ],
+                "Tatar": [
+                    "Төньяк Америка иле",
+                    "Төньяк Америка дәүләте"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Америка иле",
+                    "Төньяҡ Америка дәүләте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimali Amerika ölkəsi",
+                    "Şimali Amerika dövləti"
+                ],
+                "Uzbek": [
+                    "Shimoliy Amerika davlati",
+                    "Shimoliy Amerika mamlakati"
+                ],
+                "Uyghur": [
+                    "شىمالىي ئامېرىكا دۆلىتى",
+                    "شىمالىي ئامېرىكىدىكى دۆلەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Amerika ülkesi",
+                    "Kuzey Amerika devleti"
+                ],
+                "Kazakh": [
+                    "Солтүстік Америка елі",
+                    "Солтүстік Америка мемлекеті"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Түндүк Америка өлкөсү"
+                ],
+                "Karakalpak": [
+                    "Arqa Amerika mámleketi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Arqa Amerika eli"
+                ]
+            }
+        }
+    ]
+}

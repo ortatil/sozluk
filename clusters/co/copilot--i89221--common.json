@@ -1,0 +1,88 @@
+{
+    "id": "i89221",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "copilot",
+    "en_definition": "a relief pilot on an airplane",
+    "tr_word": "yardımcı pilot",
+    "tr_definition": "bir uçakta asıl pilota yardım eden veya onun yerini alabilen ikinci pilot",
+    "ru_word": "второй пилот",
+    "ru_definition": "помощник основного пилота в экипаже воздушного судна",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ikinci pilot"
+                ],
+                "Azerbaijani": [
+                    "ikinci pilot"
+                ],
+                "Turkmen": [
+                    "ikinji uçarman"
+                ],
+                "Uzbek": [
+                    "ikkinchi uchuvchi"
+                ],
+                "Uyghur": [
+                    "ئىككىنچى ئۇچقۇچى"
+                ],
+                "Kazakh": [
+                    "екінші ұшқыш"
+                ],
+                "Kyrgyz": [
+                    "экинчи учкуч"
+                ],
+                "Karakalpak": [
+                    "ekіnshі ushqısh"
+                ],
+                "Tatar": [
+                    "икенче очучы"
+                ],
+                "Bashkir": [
+                    "икенсе осоусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yardımcı pilot"
+                ],
+                "Uzbek": [
+                    "yordamchi uchuvchi"
+                ],
+                "Uyghur": [
+                    "ياردەمچى ئۇچقۇچى"
+                ],
+                "Kyrgyz": [
+                    "жардамчы учкуч"
+                ],
+                "Tatar": [
+                    "ярдәмче очучы"
+                ],
+                "Bashkir": [
+                    "ярҙамсы осоусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "köməkçi pilot"
+                ],
+                "Turkmen": [
+                    "kömekçi uçarmany"
+                ],
+                "Kazakh": [
+                    "көмекші ұшқыш"
+                ],
+                "Karakalpak": [
+                    "kómekshі ushqısh"
+                ]
+            }
+        }
+    ]
+}

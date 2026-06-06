@@ -1,0 +1,136 @@
+{
+    "id": "i32666",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "rustle",
+    "en_definition": "make a dry crackling sound",
+    "tr_word": "hışırdamak",
+    "tr_definition": "Kuru yaprak, kâğıt vb. nesnelerin birbirine sürtünürken çıkardığı hafif sesi çıkarmak.",
+    "ru_word": "шелестеть",
+    "ru_definition": "Издавать тихий, глухой звук от трения сухих листьев, бумаги или ткани.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şygyrdamak"
+                ],
+                "Uzbek": [
+                    "shovullamoq"
+                ],
+                "Kazakh": [
+                    "сытырлау"
+                ],
+                "Kyrgyz": [
+                    "шыбыроо"
+                ],
+                "Karakalpak": [
+                    "sıtırlao",
+                    "shıtırlao"
+                ],
+                "Bashkir": [
+                    "шыбырлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hışırdamak",
+                    "hışırtı çıkarmak",
+                    "hışırdatmak"
+                ],
+                "Azerbaijani": [
+                    "xışıldamaq",
+                    "xışıltı salmaq",
+                    "xış-xış etmək"
+                ],
+                "Turkmen": [
+                    "şyşyrdamak"
+                ],
+                "Uyghur": [
+                    "خىشىرلىماق",
+                    "خىش-خىش قىلماق"
+                ],
+                "Bashkir": [
+                    "хышырлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şyrtyldamak"
+                ],
+                "Uzbek": [
+                    "shirillamoq",
+                    "shitirlamoq"
+                ],
+                "Uyghur": [
+                    "شىلدىرلىماق"
+                ],
+                "Kyrgyz": [
+                    "шырдыроо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "кытыроо",
+                    "кытыратуу"
+                ],
+                "Tatar": [
+                    "кыштырдау",
+                    "кыштыр-кыштыр итү",
+                    "кыштырлау",
+                    "кыштырдашу"
+                ],
+                "Bashkir": [
+                    "кыштырлау",
+                    "кыштыр-кыштыр итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shir-shir qilmoq"
+                ],
+                "Uyghur": [
+                    "شىلدىر-شىلدىر قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сыбдырлау",
+                    "сыбдыр қағу",
+                    "сыбдырлату"
+                ],
+                "Karakalpak": [
+                    "sıbdırlao",
+                    "sıbdır etio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hüşürdemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шырт этүү"
+                ]
+            }
+        }
+    ]
+}

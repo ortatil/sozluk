@@ -1,0 +1,91 @@
+{
+    "id": "i89963",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fire warden",
+    "en_definition": "an official who is responsible for managing and protecting an area of forest",
+    "tr_word": "orman koruma memuru",
+    "tr_definition": "Bir orman alanının yönetiminden ve korunmasından sorumlu olan görevli.",
+    "ru_word": "лесничий",
+    "ru_definition": "должностное лицо, ответственное за управление и охрану лесного участка.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orman muhafaza memuru",
+                    "orman korucusu",
+                    "orman bekçisi"
+                ],
+                "Uzbek": [
+                    "oʻrmonchi",
+                    "oʻrmon qorovuli",
+                    "oʻrmon begi",
+                    "oʻrmon muhofizi"
+                ],
+                "Uyghur": [
+                    "ئورمان مۇھاپىزەتچىسى",
+                    "ئورمان قوغدىغۇچى",
+                    "ئورمان نازارەتچىسى"
+                ],
+                "Kazakh": [
+                    "орманшы",
+                    "орман күзетшісі",
+                    "орман қорықшысы"
+                ],
+                "Tatar": [
+                    "урманчы",
+                    "урман сакчысы",
+                    "урман каравылчысы"
+                ],
+                "Bashkir": [
+                    "урмансы",
+                    "урман һаҡсыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tokaý sakçysy",
+                    "tokaýçy"
+                ],
+                "Kyrgyz": [
+                    "токойчу",
+                    "токой сакчысы",
+                    "токой кайтаруучу"
+                ],
+                "Karakalpak": [
+                    "toǵayshı",
+                    "toǵay qorǵaushısı",
+                    "toǵay qaraoılı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "meşəbəyi",
+                    "meşə qoruyucusu",
+                    "meşə gözətçisi",
+                    "meşə mühafizəçisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goragçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡарауылсы"
+                ]
+            }
+        }
+    ]
+}

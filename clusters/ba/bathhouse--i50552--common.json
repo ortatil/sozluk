@@ -1,0 +1,110 @@
+{
+    "id": "i50552",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bathhouse",
+    "en_definition": "a building containing public baths",
+    "tr_word": "hamam",
+    "tr_definition": "Halkın yıkanması için yapılmış, içinde özel bölmeleri olan bina.",
+    "ru_word": "баня",
+    "ru_definition": "Специальное здание или помещение, где люди моются и парятся.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hamam"
+                ],
+                "Azerbaijani": [
+                    "hamam"
+                ],
+                "Turkmen": [
+                    "hammam"
+                ],
+                "Uzbek": [
+                    "hammom"
+                ],
+                "Uyghur": [
+                    "ھاممام"
+                ],
+                "Kazakh": [
+                    "хамам"
+                ],
+                "Kyrgyz": [
+                    "хамам"
+                ],
+                "Karakalpak": [
+                    "xamam"
+                ],
+                "Tatar": [
+                    "хамам"
+                ],
+                "Bashkir": [
+                    "хамам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "monça"
+                ],
+                "Kazakh": [
+                    "монша"
+                ],
+                "Kyrgyz": [
+                    "мончо"
+                ],
+                "Karakalpak": [
+                    "monsha"
+                ],
+                "Tatar": [
+                    "мунча"
+                ],
+                "Bashkir": [
+                    "мунса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çimmeklik"
+                ],
+                "Azerbaijani": [
+                    "çimərlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yunak",
+                    "yıkanma yeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "isti su"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "garmoba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۇيۇنۇش ئۆيى"
+                ]
+            }
+        }
+    ]
+}

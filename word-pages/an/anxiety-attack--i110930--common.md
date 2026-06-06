@@ -1,0 +1,268 @@
+# Anxiety attack
+| Field | Detail |
+|---|---|
+| **ID** | i110930 |
+| **English** | anxiety attack |
+| **Type** | noun |
+| **Definition** | a sudden acute episode of intense anxiety and feelings of panic |
+| **Source** | common |
+| **Ortatil** | alaqzadilik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئالاقزادىلىك | alaqzadilik |
+| **Kazakh** | |
+| үрейлену | üreylenu |
+| **Kyrgyz** | |
+| кооптонуу | kooptonuu |
+| дүрбөлөң | dürbölöñ |
+| тынчсыздануу | tınçsızdanuu |
+| **Tatar** | |
+| вәсвәсә | väsväsä |
+| котыну | kotınu |
+
+```json
+{
+    "id": "i110930",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "anxiety attack",
+    "en_definition": "a sudden acute episode of intense anxiety and feelings of panic",
+    "tr_word": "anksiyete krizi",
+    "tr_definition": "Aniden ortaya çıkan, yoğun kaygı ve panik hissiyle karakterize edilen akut bir durum.",
+    "ru_word": "приступ тревоги",
+    "ru_definition": "Внезапный острый эпизод сильной тревоги и чувства паники.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qorxu tutması"
+                ],
+                "Turkmen": [
+                    "gorky tutgaýy"
+                ],
+                "Uyghur": [
+                    "قورقۇنچ تۇتۇش"
+                ],
+                "Kazakh": [
+                    "қорқыныш билеу"
+                ],
+                "Kyrgyz": [
+                    "коркуу сезими"
+                ],
+                "Karakalpak": [
+                    "qorqınısh"
+                ],
+                "Tatar": [
+                    "курку өянәге"
+                ],
+                "Bashkir": [
+                    "ҡурҡыу өйәнәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həyəcan tutması"
+                ],
+                "Tatar": [
+                    "хәвеф өянәге"
+                ],
+                "Bashkir": [
+                    "хәүеф өйәнәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "wahym tutgaýy"
+                ],
+                "Uzbek": [
+                    "vahima xuruji"
+                ],
+                "Uyghur": [
+                    "ۋەھىمە تۇتۇش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tahlikali holat"
+                ],
+                "Uyghur": [
+                    "تەھلۈكە تۇتۇش"
+                ],
+                "Bashkir": [
+                    "дәһшәт өйәнәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үрей ұстамасы",
+                    "үрей билеу",
+                    "үрейлену"
+                ],
+                "Karakalpak": [
+                    "úrey"
+                ],
+                "Bashkir": [
+                    "өркөү өйәнәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "panik atak"
+                ],
+                "Azerbaijani": [
+                    "panik atak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bezovtalik xuruji"
+                ],
+                "Tatar": [
+                    "вәсвәсә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кооптонуу"
+                ],
+                "Tatar": [
+                    "котыну"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaygı nöbeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "endişe nöbeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "buhran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sinir krizi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təşviş tutması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howsalaly tutgaý",
+                    "howsala hüjümi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sarosima xuruji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئالاقزادىلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мазасыздық ұстамасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дүрбөлөң"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тынчсыздануу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жүрөк титирөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dáldireu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sasqalaqlau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "beymazalıq"
+                ]
+            }
+        }
+    ]
+}
+```
+

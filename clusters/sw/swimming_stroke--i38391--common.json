@@ -1,0 +1,84 @@
+{
+    "id": "i38391",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "swimming stroke",
+    "en_definition": "a method of moving the arms and legs to push against the water and propel the swimmer forward",
+    "tr_word": "yüzme stili",
+    "tr_definition": "yüzücüyü ileriye taşımak için kolların ve bacakların suya karşı itilmesi yöntemi",
+    "ru_word": "стиль плавания",
+    "ru_definition": "способ движения рук и ног для отталкивания от воды и продвижения пловца вперед",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüzme stili",
+                    "yüzme tarzı",
+                    "yüzme tekniği"
+                ],
+                "Azerbaijani": [
+                    "üzmə üsulu",
+                    "üzmə tərzi",
+                    "üzmə növü"
+                ],
+                "Kazakh": [
+                    "жүзу тәсілі",
+                    "жүзу әдісі",
+                    "жүзу түрі"
+                ],
+                "Karakalpak": [
+                    "júzúú usılı",
+                    "júzúú túri"
+                ],
+                "Tatar": [
+                    "йөзү стиле",
+                    "йөзү ысулы",
+                    "йөзү алымы"
+                ],
+                "Bashkir": [
+                    "йөҙөү ысулы",
+                    "йөҙөү төрө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýüzüş usuly",
+                    "ýüzüş tärzi"
+                ],
+                "Kyrgyz": [
+                    "сүзүү ыкмасы",
+                    "сүзүү түрү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suzish usuli",
+                    "suzish uslubi",
+                    "suzish harakati"
+                ],
+                "Uyghur": [
+                    "سۇ ئۈزۈش شەكلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kulaç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇ ئۈزۈش ئۇسۇلى"
+                ]
+            }
+        }
+    ]
+}

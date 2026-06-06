@@ -1,0 +1,77 @@
+{
+    "id": "i89719",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "elevator operator",
+    "en_definition": "an operator of an elevator",
+    "tr_word": "asansörcü",
+    "tr_definition": "asansörü kullanan ve yöneten görevli",
+    "ru_word": "лифтёр",
+    "ru_definition": "лицо, обслуживающее лифт и сопровождающее пассажиров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "liftçi"
+                ],
+                "Turkmen": [
+                    "liftçi"
+                ],
+                "Uzbek": [
+                    "liftchi",
+                    "lift haydovchisi"
+                ],
+                "Uyghur": [
+                    "لىفت باشقۇرغۇچى",
+                    "لىفتچى"
+                ],
+                "Kazakh": [
+                    "лифтші"
+                ],
+                "Kyrgyz": [
+                    "лифтчи",
+                    "лифт кызматкери"
+                ],
+                "Karakalpak": [
+                    "liftshi",
+                    "lift basqarıoshı"
+                ],
+                "Tatar": [
+                    "лифтчы",
+                    "лифт хезмәткәре"
+                ],
+                "Bashkir": [
+                    "лифтсы",
+                    "лифт хеҙмәткәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "asansörcü",
+                    "asansör görevlisi",
+                    "asansör memuru"
+                ],
+                "Azerbaijani": [
+                    "asansörçü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "asgyçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көтергішші"
+                ]
+            }
+        }
+    ]
+}

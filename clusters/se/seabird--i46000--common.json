@@ -1,0 +1,96 @@
+{
+    "id": "i46000",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "seabird",
+    "en_definition": "a bird that frequents coastal waters and the open ocean: gulls; pelicans; gannets; cormorants; albatrosses; petrels; etc.",
+    "tr_word": "deniz kuşu",
+    "tr_definition": "Kıyı sularında ve açık denizlerde yaşayan, martı, pelikan ve albatros gibi kuşların genel adı.",
+    "ru_word": "морская птица",
+    "ru_definition": "Птица, обитающая в прибрежных водах или в открытом океане, такая как чайка, пеликан или альбатрос.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz kuşu"
+                ],
+                "Azerbaijani": [
+                    "dəniz quşu"
+                ],
+                "Turkmen": [
+                    "deňiz guşy"
+                ],
+                "Uzbek": [
+                    "dengiz qushi"
+                ],
+                "Uyghur": [
+                    "دېڭىز قۇشى",
+                    "دېڭىز قۇشلىرى"
+                ],
+                "Kazakh": [
+                    "теңіз құсы"
+                ],
+                "Kyrgyz": [
+                    "деңиз кушу"
+                ],
+                "Karakalpak": [
+                    "teńiz qusı"
+                ],
+                "Tatar": [
+                    "диңгез кошы",
+                    "диңгез кошлары"
+                ],
+                "Bashkir": [
+                    "диңгеҙ ҡошо",
+                    "диңгеҙ ҡоштары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suw guşy"
+                ],
+                "Uzbek": [
+                    "suv qushi"
+                ],
+                "Kazakh": [
+                    "су құсы"
+                ],
+                "Karakalpak": [
+                    "suo qusı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "martı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yelkovan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sahil quşu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чардак"
+                ]
+            }
+        }
+    ]
+}

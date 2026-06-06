@@ -1,0 +1,78 @@
+{
+    "id": "i117616",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "evening shift",
+    "en_definition": "the work shift during the evening (as 4 p.m. to midnight)",
+    "tr_word": "akşam vardiyası",
+    "tr_definition": "Genellikle öğleden sonra geç saatlerde başlayıp gece yarısına kadar süren çalışma dönemi.",
+    "ru_word": "вечерняя смена",
+    "ru_definition": "Рабочая смена, которая обычно начинается во второй половине дня и заканчивается около полуночи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gece vardiyası"
+                ],
+                "Uzbek": [
+                    "kechki smena",
+                    "kechki navbat"
+                ],
+                "Uyghur": [
+                    "كەچلىك نۆۋەت",
+                    "كەچلىك ئىسمېنا"
+                ],
+                "Kazakh": [
+                    "кешкі ауысым",
+                    "кешкі кезек"
+                ],
+                "Kyrgyz": [
+                    "кечки нөөмөт",
+                    "кечки смен"
+                ],
+                "Karakalpak": [
+                    "keshki náobet",
+                    "keshki smena"
+                ],
+                "Tatar": [
+                    "кичке смена",
+                    "кичке чират"
+                ],
+                "Bashkir": [
+                    "киске смена",
+                    "киске нәүбәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akşam vardiyası"
+                ],
+                "Azerbaijani": [
+                    "axşam növbəsi"
+                ],
+                "Turkmen": [
+                    "agşamky çalşyk",
+                    "agşamky nobat",
+                    "agşamky smena"
+                ],
+                "Uzbek": [
+                    "oqshomgi navbat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ikinci vardiya"
+                ],
+                "Azerbaijani": [
+                    "ikinci növbə"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "id": "i53343",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "electric heater",
+    "en_definition": "a small electric space heater",
+    "tr_word": "elektrikli ısıtıcı",
+    "tr_definition": "Elektrik enerjisini ısıya dönüştürerek ortamı ısıtan cihaz.",
+    "ru_word": "электрообогреватель",
+    "ru_definition": "Электрический прибор для отопления помещений.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrikli ısıtıcı",
+                    "elektrikli soba"
+                ],
+                "Azerbaijani": [
+                    "elektrik qızdırıcısı",
+                    "elektrik sobası"
+                ],
+                "Turkmen": [
+                    "elektrik peji",
+                    "elektrik gyzdyryjy"
+                ],
+                "Uzbek": [
+                    "elektr isitgich"
+                ],
+                "Uyghur": [
+                    "ئېلېكتر ئىسسىتقۇچ",
+                    "ئېلېكتر پېچى",
+                    "ئېلېكتر ئوچىقى"
+                ],
+                "Kazakh": [
+                    "электржылытқыш"
+                ],
+                "Kyrgyz": [
+                    "электр жылыткыч"
+                ],
+                "Karakalpak": [
+                    "elektr jılıtqısh"
+                ],
+                "Tatar": [
+                    "электр җылыткычы"
+                ],
+                "Bashkir": [
+                    "электр йылытҡысы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жылытқыш",
+                    "жылу бергіш"
+                ],
+                "Kyrgyz": [
+                    "жылыткыч"
+                ],
+                "Karakalpak": [
+                    "jılıtqısh"
+                ],
+                "Tatar": [
+                    "җылыткыч"
+                ],
+                "Bashkir": [
+                    "йылытҡыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ısıtıcı"
+                ],
+                "Uzbek": [
+                    "isitgich",
+                    "isitsich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qızdırıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "soba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "peç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "меш"
+                ]
+            }
+        }
+    ]
+}

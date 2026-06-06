@@ -1,0 +1,143 @@
+{
+    "id": "i20358",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "domestically",
+    "en_definition": "with respect to home or family",
+    "tr_word": "ailece",
+    "tr_definition": "aile veya ev yaşamı ile ilgili olarak",
+    "ru_word": "в семейном кругу",
+    "ru_definition": "в отношении дома или семьи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "evcil",
+                    "evde"
+                ],
+                "Azerbaijani": [
+                    "evdə"
+                ],
+                "Turkmen": [
+                    "öýde"
+                ],
+                "Uzbek": [
+                    "uyda"
+                ],
+                "Karakalpak": [
+                    "úyde"
+                ],
+                "Tatar": [
+                    "өйдә"
+                ],
+                "Bashkir": [
+                    "өйҙә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ailece",
+                    "ailevi"
+                ],
+                "Azerbaijani": [
+                    "ailəvi",
+                    "ailəcə"
+                ],
+                "Uzbek": [
+                    "oila-roʻzgʻor",
+                    "oilaviy"
+                ],
+                "Uyghur": [
+                    "ئائىلىۋى",
+                    "ئائىلە جەھەتتىن"
+                ],
+                "Tatar": [
+                    "гаиләдә"
+                ],
+                "Bashkir": [
+                    "ғаиләлә",
+                    "ғаилә эсендә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئۆي ئىچىدە"
+                ],
+                "Kazakh": [
+                    "үй ішінде"
+                ],
+                "Kyrgyz": [
+                    "үй ичинде",
+                    "үй-бүлөлүк",
+                    "үй-жайда"
+                ],
+                "Karakalpak": [
+                    "úy ishinde"
+                ],
+                "Bashkir": [
+                    "өй эсендә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məişətcə"
+                ],
+                "Turkmen": [
+                    "maşgalada",
+                    "maşgala taýdan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xonadon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отбасылық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үй жағдайында"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жанұялық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shańaraqta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йортча"
+                ]
+            }
+        }
+    ]
+}

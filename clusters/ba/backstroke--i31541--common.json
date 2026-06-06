@@ -1,0 +1,94 @@
+{
+    "id": "i31541",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "backstroke",
+    "en_definition": "swim on one's back",
+    "tr_word": "sırtüstü yüzmek",
+    "tr_definition": "Sırtı suyun üzerinde olacak şekilde yüzmek.",
+    "ru_word": "плавать на спине",
+    "ru_definition": "Передвигаться в воде, лежа на спине.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arkası üstü yüzmek"
+                ],
+                "Azerbaijani": [
+                    "arxasıüstə üzmək"
+                ],
+                "Turkmen": [
+                    "arka üstüne ýüzmek",
+                    "arkalaýyn ýüzmek"
+                ],
+                "Uzbek": [
+                    "orqa bilan suzmoq"
+                ],
+                "Uyghur": [
+                    "ئارقىسى بىلەن ئۈزمەك"
+                ],
+                "Kazakh": [
+                    "арқамен жүзу"
+                ],
+                "Kyrgyz": [
+                    "аркасы менен сүзүү"
+                ],
+                "Karakalpak": [
+                    "arqamen júzio"
+                ],
+                "Tatar": [
+                    "аркада йөзү"
+                ],
+                "Bashkir": [
+                    "арҡа менән йөҙөү",
+                    "арҡаға ятып йөҙөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chalqancha suzmoq"
+                ],
+                "Uyghur": [
+                    "چالقان ئۈزمەك"
+                ],
+                "Kazakh": [
+                    "шалқалап жүзу"
+                ],
+                "Kyrgyz": [
+                    "чалкан сүзүү"
+                ],
+                "Karakalpak": [
+                    "shalqalap júzio"
+                ],
+                "Tatar": [
+                    "чалкан йөзү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sırtüstü yüzmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kürəyiüstə üzmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dalıüstə üzmək"
+                ]
+            }
+        }
+    ]
+}

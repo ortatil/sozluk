@@ -1,0 +1,118 @@
+{
+    "id": "i109055",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fifty percent",
+    "en_definition": "a half expressed as a percentage",
+    "tr_word": "yüzde elli",
+    "tr_definition": "yüzde olarak ifade edilen yarım",
+    "ru_word": "пятьдесят процентов",
+    "ru_definition": "половина, выраженная в процентах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarım",
+                    "yarı"
+                ],
+                "Azerbaijani": [
+                    "yarı",
+                    "yarısı"
+                ],
+                "Turkmen": [
+                    "ýarym",
+                    "ýarysy"
+                ],
+                "Uzbek": [
+                    "yarim"
+                ],
+                "Uyghur": [
+                    "يېرىم",
+                    "يېرىمى"
+                ],
+                "Kazakh": [
+                    "жарты"
+                ],
+                "Kyrgyz": [
+                    "жарым"
+                ],
+                "Karakalpak": [
+                    "jartı",
+                    "yarım"
+                ],
+                "Tatar": [
+                    "ярты"
+                ],
+                "Bashkir": [
+                    "ярты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əlli faiz"
+                ],
+                "Turkmen": [
+                    "elli göterim",
+                    "elli faýyz"
+                ],
+                "Uzbek": [
+                    "ellik foiz"
+                ],
+                "Uyghur": [
+                    "ئەللىك پىرسەنت"
+                ],
+                "Kazakh": [
+                    "елу пайыз"
+                ],
+                "Kyrgyz": [
+                    "элүү пайыз"
+                ],
+                "Karakalpak": [
+                    "eli payız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "илле процент"
+                ],
+                "Bashkir": [
+                    "илле процент"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yüzde elli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nimchorak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тең жартысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "биш дистә процент"
+                ]
+            }
+        }
+    ]
+}

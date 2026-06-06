@@ -1,0 +1,97 @@
+{
+    "id": "i13501",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "toothed",
+    "en_definition": "having teeth especially of a certain number or type; often used in combination",
+    "tr_word": "dişli",
+    "tr_definition": "Belirli bir sayıda veya tipte dişi olan; genellikle birleşik kelimelerde kullanılır.",
+    "ru_word": "зубчатый",
+    "ru_definition": "Имеющий зубы определенного количества или типа; часто используется в словосочетаниях.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dişli",
+                    "dişlek"
+                ],
+                "Azerbaijani": [
+                    "dişli"
+                ],
+                "Turkmen": [
+                    "dişli"
+                ],
+                "Uzbek": [
+                    "tishli",
+                    "tish-tish"
+                ],
+                "Uyghur": [
+                    "چىشلىق",
+                    "چىشى بار"
+                ],
+                "Kazakh": [
+                    "тісті",
+                    "тісті-тісті"
+                ],
+                "Kyrgyz": [
+                    "тиштүү",
+                    "тиши бар"
+                ],
+                "Karakalpak": [
+                    "tisli",
+                    "tis-tis"
+                ],
+                "Tatar": [
+                    "тешле",
+                    "теш-теш"
+                ],
+                "Bashkir": [
+                    "тешле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kertikli"
+                ],
+                "Azerbaijani": [
+                    "kərtikli"
+                ],
+                "Turkmen": [
+                    "gyrraly"
+                ],
+                "Kazakh": [
+                    "кертікті"
+                ],
+                "Bashkir": [
+                    "киртләс",
+                    "киртләсле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tırtıllı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'adir-budur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ара тісті"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+# Misogyny
+| Field | Detail |
+|---|---|
+| **ID** | i76417 |
+| **English** | misogyny |
+| **Type** | noun |
+| **Definition** | hatred of women |
+| **Source** | common |
+| **Ortatil** | äyälbezär |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i76417",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "misogyny",
+    "en_definition": "hatred of women",
+    "tr_word": "misojini",
+    "tr_definition": "kadın düşmanlığı; kadınlara karşı duyulan nefret veya önyargı",
+    "ru_word": "мизогиния",
+    "ru_definition": "ненависть, неприязнь или предубеждение по отношению к женщинам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aýal ýigrenji",
+                    "aýallara duşmançylyk"
+                ],
+                "Uzbek": [
+                    "ayol dushmanligi",
+                    "ayolga nafrat",
+                    "ayolbezar"
+                ],
+                "Uyghur": [
+                    "ئاياللارغا ئۆچ بولۇش",
+                    "ئاياللارغا ئۆچمەنلىك قىلىش",
+                    "ئاياللارغا نەپرەتلىنىش"
+                ],
+                "Kazakh": [
+                    "әйелді жек көрушілік",
+                    "әйелге өшпенділік",
+                    "әйелге қастық"
+                ],
+                "Kyrgyz": [
+                    "аял жек көрүүчүлүк",
+                    "аял душмандыгы",
+                    "аялдарга кастык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kadın düşmanlığı",
+                    "kadın nefreti"
+                ],
+                "Azerbaijani": [
+                    "qadın düşmənliyi",
+                    "qadın nifrəti"
+                ],
+                "Bashkir": [
+                    "ҡатын-ҡыҙҙы күрә алмаусанлыҡ",
+                    "ҡатын-ҡыҙға дошманлыҡ",
+                    "ҡатын-ҡыҙҙы һөймәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nisa düşmanlığı"
+                ],
+                "Azerbaijani": [
+                    "nisa ədavəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zenan ýigrenji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "hayal-qızlardı jek kório",
+                    "hayallarǵa óshpendilik",
+                    "hayallardı jaqtırmaoshılıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хатын-кызга нәфрәт",
+                    "хатын-кызны күрә алмау",
+                    "хатын-кыз дошманлыгы"
+                ]
+            }
+        }
+    ]
+}
+```
+

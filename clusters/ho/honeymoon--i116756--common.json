@@ -1,0 +1,83 @@
+{
+    "id": "i116756",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "honeymoon",
+    "en_definition": "a holiday taken by a newly married couple",
+    "tr_word": "balayı",
+    "tr_definition": "Yeni evli bir çiftin düğünden hemen sonra çıktıkları tatil.",
+    "ru_word": "медовый месяц",
+    "ru_definition": "Отпуск, проводимый молодожёнами сразу после свадьбы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balayı"
+                ],
+                "Azerbaijani": [
+                    "bal ayı"
+                ],
+                "Turkmen": [
+                    "bal aýy"
+                ],
+                "Kazakh": [
+                    "бал айы"
+                ],
+                "Kyrgyz": [
+                    "бал айы",
+                    "бал ай"
+                ],
+                "Karakalpak": [
+                    "bal ayı"
+                ],
+                "Tatar": [
+                    "баллы ай",
+                    "бал ае"
+                ],
+                "Bashkir": [
+                    "баллы ай",
+                    "бал айы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəkər ayı"
+                ],
+                "Uzbek": [
+                    "shirin oy"
+                ],
+                "Uyghur": [
+                    "شېرىن ئاي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asal oyi"
+                ],
+                "Uyghur": [
+                    "ھەسەل ئېيى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güveylik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "неке сапары"
+                ]
+            }
+        }
+    ]
+}

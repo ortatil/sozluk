@@ -1,0 +1,179 @@
+# Indian crocus
+| Field | Detail |
+|---|---|
+| **ID** | i100635 |
+| **English** | indian crocus |
+| **Type** | noun |
+| **Definition** | any of several dwarf orchids of the genus Pleione bearing one or two solitary white or pink to magenta or occasionally yellow flowers with slender stalks |
+| **Source** | common |
+| **Ortatil** | pleyon |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **pleyon** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.40** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پىلېئونى | pileoni |
+| **Kazakh** | |
+| еркекшөп | yerkekşöp |
+| сүйсін | süysin |
+| **Tatar** | |
+| плайоне | playone |
+| **Bashkir** | |
+| плайоне | playone |
+
+```json
+{
+    "id": "i100635",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "indian crocus",
+    "en_definition": "any of several dwarf orchids of the genus Pleione bearing one or two solitary white or pink to magenta or occasionally yellow flowers with slender stalks",
+    "tr_word": "pleione",
+    "tr_definition": "Pleione cinsine ait, genellikle beyaz, pembe veya macenta renkli çiçekler açan cüce bir orkide türü.",
+    "ru_word": "плейоне",
+    "ru_definition": "род небольших орхидей, имеющих один или два одиночных цветка белого, розового, пурпурного или иногда желтого цвета на тонких стеблях.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pleyon"
+                ],
+                "Azerbaijani": [
+                    "pleyon"
+                ],
+                "Turkmen": [
+                    "pleýone"
+                ],
+                "Uzbek": [
+                    "pleiona"
+                ],
+                "Uyghur": [
+                    "پىلېئونى"
+                ],
+                "Tatar": [
+                    "плайоне"
+                ],
+                "Bashkir": [
+                    "плайоне"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dağ səhləbi"
+                ],
+                "Uzbek": [
+                    "togʻ orxideyasi"
+                ],
+                "Kazakh": [
+                    "тау сүйсіні"
+                ],
+                "Tatar": [
+                    "тау орхидеясе"
+                ],
+                "Bashkir": [
+                    "тау орхидеяһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yer orkidesi"
+                ],
+                "Kazakh": [
+                    "еркекшөп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cüce orkide"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cırtdan səhləb"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dag orhideýasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاغ نېلۇپىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сүйсін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоо орхидеясы",
+                    "тоо гүлү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жапайы орхидея"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "orxideya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "gúl"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,127 @@
+{
+    "id": "i28232",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "dug",
+    "en_definition": "turn up, loosen, or remove earth",
+    "tr_word": "kazdı",
+    "tr_definition": "toprağı kazmak, gevşetmek veya yerinden çıkarmak eyleminin geçmiş zaman hali",
+    "ru_word": "копал",
+    "ru_definition": "прошедшее время глагола копать; рыхлить или удалять землю",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kazdı"
+                ],
+                "Azerbaijani": [
+                    "qazmaq",
+                    "qazımaq"
+                ],
+                "Turkmen": [
+                    "gazmak"
+                ],
+                "Uzbek": [
+                    "qazimoq",
+                    "qazib olmoq"
+                ],
+                "Uyghur": [
+                    "قازماق",
+                    "قېزىش"
+                ],
+                "Kazakh": [
+                    "қазу"
+                ],
+                "Kyrgyz": [
+                    "каз",
+                    "казуу",
+                    "казып алуу"
+                ],
+                "Karakalpak": [
+                    "qazıu",
+                    "qazbalau"
+                ],
+                "Tatar": [
+                    "казу"
+                ],
+                "Bashkir": [
+                    "ҡаҙыу",
+                    "ҡаҙып сығарыу",
+                    "ҡаҙып алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "agdarmak"
+                ],
+                "Kazakh": [
+                    "ақтару"
+                ],
+                "Karakalpak": [
+                    "aqtarıu"
+                ],
+                "Tatar": [
+                    "актару"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşti"
+                ],
+                "Azerbaijani": [
+                    "eşmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oydu"
+                ],
+                "Kyrgyz": [
+                    "оюу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıkardı"
+                ],
+                "Tatar": [
+                    "чоку"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kowmak"
+                ],
+                "Uyghur": [
+                    "كولىمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kovlamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қопару"
+                ]
+            }
+        }
+    ]
+}

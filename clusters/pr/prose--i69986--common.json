@@ -1,0 +1,93 @@
+{
+    "id": "i69986",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "prose",
+    "en_definition": "ordinary writing as distinguished from verse",
+    "tr_word": "nesir",
+    "tr_definition": "şiir olmayan, düz yazı biçimindeki edebi eser veya anlatım türü",
+    "ru_word": "проза",
+    "ru_definition": "устная или письменная речь без деления на соизмеримые отрезки — стихи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nesir"
+                ],
+                "Azerbaijani": [
+                    "nəsr"
+                ],
+                "Turkmen": [
+                    "nesir"
+                ],
+                "Uzbek": [
+                    "nasr",
+                    "nasriy asar"
+                ],
+                "Uyghur": [
+                    "نەسر",
+                    "نەسرىي ئەسەر"
+                ],
+                "Kyrgyz": [
+                    "наср"
+                ],
+                "Karakalpak": [
+                    "násir"
+                ],
+                "Tatar": [
+                    "нәсер",
+                    "нәсерлек"
+                ],
+                "Bashkir": [
+                    "нәҫер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қара сөз"
+                ],
+                "Kyrgyz": [
+                    "кара сөз"
+                ],
+                "Karakalpak": [
+                    "qara sóz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "düz yazı"
+                ],
+                "Azerbaijani": [
+                    "düz yazı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "proza"
+                ],
+                "Kazakh": [
+                    "проза"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чәчмә әсәр"
+                ],
+                "Bashkir": [
+                    "сәсәнсә",
+                    "сәсмә әҫәр"
+                ]
+            }
+        }
+    ]
+}

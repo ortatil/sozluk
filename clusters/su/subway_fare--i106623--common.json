@@ -1,0 +1,84 @@
+{
+    "id": "i106623",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "subway fare",
+    "en_definition": "the fare charged for riding a subway train",
+    "tr_word": "metro ücreti",
+    "tr_definition": "Metro trenine binmek için ödenen ücret",
+    "ru_word": "стоимость проезда в метро",
+    "ru_definition": "плата, взимаемая за поездку в поезде метро",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "metro ücreti",
+                    "metro bileti",
+                    "metro bedeli"
+                ],
+                "Azerbaijani": [
+                    "metro gediş haqqı",
+                    "metro haqqı",
+                    "metro gediş pulu",
+                    "metro gediş ücreti"
+                ],
+                "Turkmen": [
+                    "metro tölegi",
+                    "metro kireýi"
+                ],
+                "Uzbek": [
+                    "metro haqi",
+                    "metro to'lovi"
+                ],
+                "Uyghur": [
+                    "مېترو بېلىتى",
+                    "مېترو ھەققى",
+                    "مېترو كىراسى"
+                ],
+                "Kazakh": [
+                    "метро ақысы",
+                    "метро жолақысы",
+                    "метро төлемі"
+                ],
+                "Kyrgyz": [
+                    "метро акысы"
+                ],
+                "Karakalpak": [
+                    "metro haqı",
+                    "metro tólemi"
+                ],
+                "Tatar": [
+                    "метро бәясе",
+                    "метро хакы",
+                    "метро түләве"
+                ],
+                "Bashkir": [
+                    "метро хаҡы",
+                    "метро өсөн түләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýol haky"
+                ],
+                "Uzbek": [
+                    "yo'l haqi"
+                ],
+                "Kyrgyz": [
+                    "жол акы",
+                    "жол кире"
+                ],
+                "Karakalpak": [
+                    "jol haqı"
+                ],
+                "Bashkir": [
+                    "юл хаҡы"
+                ]
+            }
+        }
+    ]
+}

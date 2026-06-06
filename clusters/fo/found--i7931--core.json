@@ -1,0 +1,121 @@
+{
+    "id": "i7931",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "found",
+    "en_definition": "come upon unexpectedly or after searching",
+    "tr_word": "bulunmuş",
+    "tr_definition": "beklenmedik bir şekilde veya bir arama sonucunda rastlanan",
+    "ru_word": "найденный",
+    "ru_definition": "обнаруженный неожиданно или в результате поиска",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tapılmış"
+                ],
+                "Turkmen": [
+                    "tapylan",
+                    "tapdyk"
+                ],
+                "Uzbek": [
+                    "topilgan"
+                ],
+                "Uyghur": [
+                    "تېپىلغان",
+                    "تېپىق"
+                ],
+                "Kazakh": [
+                    "табылған"
+                ],
+                "Kyrgyz": [
+                    "табылган",
+                    "табык"
+                ],
+                "Karakalpak": [
+                    "tabılǵan"
+                ],
+                "Tatar": [
+                    "табылган"
+                ],
+                "Bashkir": [
+                    "табылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mevcut"
+                ],
+                "Azerbaijani": [
+                    "mövcud"
+                ],
+                "Uzbek": [
+                    "mavjud"
+                ],
+                "Uyghur": [
+                    "مەۋجۇت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uchraydigan"
+                ],
+                "Kazakh": [
+                    "ұшырасқан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ачыкланган"
+                ],
+                "Bashkir": [
+                    "асыҡланған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bulunmuş",
+                    "bulunan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "aşkar edilmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кезіккен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күренгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "málim"
+                ]
+            }
+        }
+    ]
+}

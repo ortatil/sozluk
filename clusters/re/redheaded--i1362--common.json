@@ -1,0 +1,116 @@
+{
+    "id": "i1362",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "redheaded",
+    "en_definition": "having red hair and usually fair skin",
+    "tr_word": "kızıl saçlı",
+    "tr_definition": "saç rengi kızıl olan ve genellikle açık tenli olan kimse",
+    "ru_word": "рыжеволосый",
+    "ru_definition": "имеющий волосы рыжего цвета, обычно со светлой кожей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızıl",
+                    "kızıl saçlı"
+                ],
+                "Turkmen": [
+                    "gyzyl saçly"
+                ],
+                "Uzbek": [
+                    "qizil sochli"
+                ],
+                "Uyghur": [
+                    "قىزىل چاچلىق",
+                    "قىزغۇچ چاچلىق"
+                ],
+                "Kazakh": [
+                    "қызғылт шашты"
+                ],
+                "Kyrgyz": [
+                    "кызыл чачтуу",
+                    "кызгылт чачтуу"
+                ],
+                "Karakalpak": [
+                    "qızǵılt shashlı"
+                ],
+                "Tatar": [
+                    "кызыл чәчле"
+                ],
+                "Bashkir": [
+                    "ҡыҙғылт сәсле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kürən"
+                ],
+                "Kazakh": [
+                    "жирен"
+                ],
+                "Karakalpak": [
+                    "jiren"
+                ],
+                "Tatar": [
+                    "җирән",
+                    "җирән чәчле"
+                ],
+                "Bashkir": [
+                    "ерән",
+                    "ерән сәсле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سېرىق چاچلىق"
+                ],
+                "Kyrgyz": [
+                    "сары чачтуу"
+                ],
+                "Karakalpak": [
+                    "sarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "alşın"
+                ],
+                "Turkmen": [
+                    "al saçly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qırmızısaç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "malla",
+                    "malla sochli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жирен шашты"
+                ]
+            }
+        }
+    ]
+}

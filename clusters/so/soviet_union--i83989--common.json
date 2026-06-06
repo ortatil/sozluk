@@ -1,0 +1,93 @@
+{
+    "id": "i83989",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "soviet union",
+    "en_definition": "a former communist country in eastern Europe and northern Asia; established in 1922; included Russia and 14 other soviet socialist republics (Ukraine and Byelorussia and others); officially dissolved 31 December 1991",
+    "tr_word": "Sovyetler Birliği",
+    "tr_definition": "1922'de kurulan, Rusya ve diğer 14 sosyalist cumhuriyetten oluşan, 1991'de dağılan eski bir komünist devlet.",
+    "ru_word": "Советский Союз",
+    "ru_definition": "бывшее социалистическое государство в Восточной Европе и Северной Азии, существовавшее с 1922 по 1991 год.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Sovyetler Birliği",
+                    "Sovyetler",
+                    "Sovyet Birliği",
+                    "Sovyet Sosyalist Cumhuriyetler Birliği"
+                ],
+                "Azerbaijani": [
+                    "Sovet İttifaqı",
+                    "Sovetlər Birliyi"
+                ],
+                "Turkmen": [
+                    "Sowet Soýuzy",
+                    "Sowetler Birleşigi"
+                ],
+                "Uzbek": [
+                    "Sovet Ittifoqi"
+                ],
+                "Uyghur": [
+                    "سوۋېت ئىتتىپاقى",
+                    "سوۋېت سوتسىيالىستىك جۇمھۇرىيەتلەر ئىتتىپاقى"
+                ],
+                "Kyrgyz": [
+                    "Советтер Союзу"
+                ],
+                "Karakalpak": [
+                    "Sowetler Aoqamı"
+                ],
+                "Tatar": [
+                    "Советлар Союзы",
+                    "Советлар Берлеге"
+                ],
+                "Bashkir": [
+                    "Советтар Союзы",
+                    "Советтар Берекмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şura İttifaqı"
+                ],
+                "Uzbek": [
+                    "Shoʻro Ittifoqi",
+                    "Shoʻrolar Ittifoqi"
+                ],
+                "Tatar": [
+                    "Шуралар Берлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "Кеңес Одағы",
+                    "Кеңес Үкіметі",
+                    "Кеңестер Одағы"
+                ],
+                "Kyrgyz": [
+                    "Кеңештер Союзу",
+                    "Кеңештер Биримдиги"
+                ],
+                "Karakalpak": [
+                    "Keńes Aoqamı",
+                    "Keńesler Aoqamı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Şura Döwleti"
+                ]
+            }
+        }
+    ]
+}

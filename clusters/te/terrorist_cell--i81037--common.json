@@ -1,0 +1,121 @@
+{
+    "id": "i81037",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "terrorist cell",
+    "en_definition": "a cell of terrorists (usually 3 to 5 members)",
+    "tr_word": "terör hücresi",
+    "tr_definition": "Genellikle 3 ila 5 üyeden oluşan, gizli faaliyet yürüten küçük terörist grubu.",
+    "ru_word": "террористическая ячейка",
+    "ru_definition": "Малая группа террористов (обычно от 3 до 5 человек), действующая скрытно в составе более крупной сети.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "terör hücresi",
+                    "terör odağı"
+                ],
+                "Azerbaijani": [
+                    "terror dəstəsi",
+                    "terror özəyi",
+                    "terror qrupu"
+                ],
+                "Turkmen": [
+                    "terrorçy topary",
+                    "terrorçy öýjügi"
+                ],
+                "Uzbek": [
+                    "terrorchi guruh",
+                    "terrorchi to'da"
+                ],
+                "Uyghur": [
+                    "تېررورلۇق گۇرۇپپىسى",
+                    "تېررورلۇق يانچۇقى",
+                    "تېررورلۇق كاتەكچىسى"
+                ],
+                "Kazakh": [
+                    "террорлық ұяшық"
+                ],
+                "Kyrgyz": [
+                    "террордук топ",
+                    "террордук уя",
+                    "террордук ячейка"
+                ],
+                "Karakalpak": [
+                    "terrorshılar toparı",
+                    "terrorshılar uyası"
+                ],
+                "Tatar": [
+                    "террорчылар төркеме",
+                    "террорчылар оясы",
+                    "террорчылар берәмлеге"
+                ],
+                "Bashkir": [
+                    "террор төркөмө",
+                    "террор ояһы",
+                    "террор ячейкаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yashirin guruh"
+                ],
+                "Kazakh": [
+                    "жасырын топ"
+                ],
+                "Kyrgyz": [
+                    "жашыруун топ"
+                ],
+                "Tatar": [
+                    "яшерен төркем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gizli hücre"
+                ],
+                "Azerbaijani": [
+                    "gizli dəstə"
+                ],
+                "Turkmen": [
+                    "gizlin topar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maxfiy guruh"
+                ],
+                "Uyghur": [
+                    "مەخپىي گۇرۇپپا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "лаңкестік ұяшық",
+                    "лаңкестік топ"
+                ],
+                "Karakalpak": [
+                    "lańkes topar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uyuyan hücre"
+                ]
+            }
+        }
+    ]
+}

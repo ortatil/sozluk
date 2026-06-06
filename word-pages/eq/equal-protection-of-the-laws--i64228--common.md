@@ -1,0 +1,153 @@
+# Equal protection of the laws
+| Field | Detail |
+|---|---|
+| **ID** | i64228 |
+| **English** | equal protection of the laws |
+| **Type** | noun |
+| **Definition** | a right guaranteed by the Fourteenth Amendment to the US Constitution and by the due-process clause of the Fifth Amendment |
+| **Source** | common |
+| **Ortatil** | bäräbärlik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i64228",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "equal protection of the laws",
+    "en_definition": "a right guaranteed by the Fourteenth Amendment to the US Constitution and by the due-process clause of the Fifth Amendment",
+    "tr_word": "yasaların eşit korunması",
+    "tr_definition": "ABD Anayasası'nın On Dördüncü Değişikliği ve Beşinci Değişikliğin adil yargılanma maddesi tarafından garanti edilen, devletin tüm bireylere benzer durumlarda eşit davranmasını gerektiren hak.",
+    "ru_word": "равная защита законом",
+    "ru_definition": "право, гарантированное Четырнадцатой поправкой к Конституции США и положением о надлежащей правовой процедуре Пятой поправки, требующее равного отношения государства ко всем лицам в схожих обстоятельствах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kanun önünde eşitlik"
+                ],
+                "Azerbaijani": [
+                    "qanun qarşısında bərabərlik",
+                    "qanunla bərabər qorunma"
+                ],
+                "Turkmen": [
+                    "kanun öňünde deňlik",
+                    "kanuny gorag deňligi"
+                ],
+                "Uzbek": [
+                    "qonun oldida tenglik",
+                    "qonuniy himoya tengligi"
+                ],
+                "Uyghur": [
+                    "قانۇن ئالدىدا باراۋەرلىك",
+                    "قانۇن ئالدىدا ھەممە باراۋەر بولۇش",
+                    "قانۇننىڭ باراۋەر قوغدىشى"
+                ],
+                "Tatar": [
+                    "канун алдында тигезлек",
+                    "кануннарның тигез саклануы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hukuk karşısında eşitlik"
+                ],
+                "Azerbaijani": [
+                    "hüquqi bərabərlik"
+                ],
+                "Turkmen": [
+                    "hukuk deňligi"
+                ],
+                "Uzbek": [
+                    "huquqiy tenglik"
+                ],
+                "Tatar": [
+                    "хокукый тигезлек"
+                ],
+                "Bashkir": [
+                    "хоҡуҡи тигеҙлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мыйзам алдындагы теңдик",
+                    "мыйзамдын бирдей коргоосу"
+                ],
+                "Karakalpak": [
+                    "nızam aldındaǵı teńlik",
+                    "nızam aldında bársheniń teńligi",
+                    "nızam menen teń qorǵalıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yasalar önünde eşitlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşit koruma ilkesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "barobarlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "заң алдындағы теңдік",
+                    "заң алдындағы тең құқықтылық",
+                    "заңмен тең қорғалу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құқықтық теңдік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "укуктук теңчилик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "закон алдында тигеҙлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тигеҙ хоҡуҡлылыҡ"
+                ]
+            }
+        }
+    ]
+}
+```
+

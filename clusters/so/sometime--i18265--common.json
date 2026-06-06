@@ -1,0 +1,141 @@
+{
+    "id": "i18265",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "sometime",
+    "en_definition": "at some indefinite or unstated time",
+    "tr_word": "bir ara",
+    "tr_definition": "belirsiz veya belirtilmemiş bir zamanda",
+    "ru_word": "когда-нибудь",
+    "ru_definition": "в какое-то неопределенное или неуказанное время",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bir ara",
+                    "bir zaman"
+                ],
+                "Azerbaijani": [
+                    "bir vaxt"
+                ],
+                "Turkmen": [
+                    "birwagt"
+                ],
+                "Uzbek": [
+                    "bir vaqt",
+                    "bir zamon"
+                ],
+                "Uyghur": [
+                    "بىر چاغدا",
+                    "بىر ۋاقىتتا"
+                ],
+                "Kazakh": [
+                    "бірде",
+                    "бір уақытта"
+                ],
+                "Kyrgyz": [
+                    "бир убакта"
+                ],
+                "Karakalpak": [
+                    "bir oaqıtları",
+                    "bir zamanları"
+                ],
+                "Tatar": [
+                    "бервакыт",
+                    "берзаман"
+                ],
+                "Bashkir": [
+                    "бер ваҡыт",
+                    "бер заман"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "haçansa"
+                ],
+                "Turkmen": [
+                    "haçan-da bolsa bir wagt",
+                    "haçan-da bolsa"
+                ],
+                "Uzbek": [
+                    "qachondir"
+                ],
+                "Uyghur": [
+                    "قاچان بولمىسۇن"
+                ],
+                "Kazakh": [
+                    "қашан да болса"
+                ],
+                "Kyrgyz": [
+                    "качандыр бир кезде",
+                    "качандыр бир"
+                ],
+                "Karakalpak": [
+                    "qashan da bolsa"
+                ],
+                "Tatar": [
+                    "кайчандыр",
+                    "кайчан да булса"
+                ],
+                "Bashkir": [
+                    "ҡасандыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "günlerden bir gün"
+                ],
+                "Azerbaijani": [
+                    "günlərin bir günü"
+                ],
+                "Uzbek": [
+                    "kunlarning birida"
+                ],
+                "Uyghur": [
+                    "كۈنلەرنىڭ بىرىدە"
+                ],
+                "Bashkir": [
+                    "көндәрҙең береһендә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әйтеуір бірде"
+                ],
+                "Karakalpak": [
+                    "áyteuir bir kúni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vaktiyle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nə vaxtsa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бир кезде"
+                ]
+            }
+        }
+    ]
+}

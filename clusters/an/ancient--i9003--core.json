@@ -1,0 +1,173 @@
+{
+    "id": "i9003",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "ancient",
+    "en_definition": "very old",
+    "tr_word": "kadim",
+    "tr_definition": "çok eski zamanlardan beri var olan",
+    "ru_word": "древний",
+    "ru_definition": "относящийся к отдаленному прошлому",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kadim"
+                ],
+                "Azerbaijani": [
+                    "qədim"
+                ],
+                "Turkmen": [
+                    "gadymy",
+                    "gadym"
+                ],
+                "Uzbek": [
+                    "qadimiy",
+                    "qadim"
+                ],
+                "Uyghur": [
+                    "قەدىمكى",
+                    "قەدىمىي"
+                ],
+                "Kazakh": [
+                    "қадым"
+                ],
+                "Kyrgyz": [
+                    "кадимки"
+                ],
+                "Karakalpak": [
+                    "qádimi"
+                ],
+                "Tatar": [
+                    "кадимге"
+                ],
+                "Bashkir": [
+                    "ҡадими"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "köhnə"
+                ],
+                "Turkmen": [
+                    "köne"
+                ],
+                "Uzbek": [
+                    "koʻhna"
+                ],
+                "Uyghur": [
+                    "كونا"
+                ],
+                "Kazakh": [
+                    "көне"
+                ],
+                "Kyrgyz": [
+                    "көөнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "antik",
+                    "antika"
+                ],
+                "Azerbaijani": [
+                    "əntiq"
+                ],
+                "Turkmen": [
+                    "antik"
+                ],
+                "Uzbek": [
+                    "antik"
+                ],
+                "Kazakh": [
+                    "антикалық"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eski"
+                ],
+                "Kazakh": [
+                    "ескі"
+                ],
+                "Karakalpak": [
+                    "eskiden qalǵan"
+                ],
+                "Bashkir": [
+                    "иҫке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "байырғы"
+                ],
+                "Kyrgyz": [
+                    "байыркы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "борынгы"
+                ],
+                "Bashkir": [
+                    "боронғо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əzəli"
+                ],
+                "Kyrgyz": [
+                    "эзелки"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "әүвәлге"
+                ],
+                "Bashkir": [
+                    "әүәлге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "atika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "атәти"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "áyemgi"
+                ]
+            }
+        }
+    ]
+}

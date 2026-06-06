@@ -1,0 +1,141 @@
+{
+    "id": "i77475",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cereal",
+    "en_definition": "a breakfast food prepared from grain",
+    "tr_word": "kahvaltılık gevrek",
+    "tr_definition": "tahıldan hazırlanan bir kahvaltılık yiyecek",
+    "ru_word": "хлопья",
+    "ru_definition": "готовый завтрак из злаков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yarma"
+                ],
+                "Turkmen": [
+                    "galla"
+                ],
+                "Uzbek": [
+                    "yorma"
+                ],
+                "Kazakh": [
+                    "жарма"
+                ],
+                "Kyrgyz": [
+                    "жарма"
+                ],
+                "Karakalpak": [
+                    "jarma"
+                ],
+                "Tatar": [
+                    "ярма"
+                ],
+                "Bashkir": [
+                    "ярма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dənli bitki"
+                ],
+                "Turkmen": [
+                    "däne",
+                    "däne önümi"
+                ],
+                "Uzbek": [
+                    "donli ozuqa"
+                ],
+                "Uyghur": [
+                    "دانلىق زىرائەت",
+                    "دانلىق يېمەكلىك",
+                    "دانلىق زىرائەت مەھسۇلاتى"
+                ],
+                "Kazakh": [
+                    "дән"
+                ],
+                "Kyrgyz": [
+                    "дан"
+                ],
+                "Karakalpak": [
+                    "dán",
+                    "dánli ónim"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bo'tqa"
+                ],
+                "Kazakh": [
+                    "ботқа"
+                ],
+                "Kyrgyz": [
+                    "ботко"
+                ],
+                "Bashkir": [
+                    "ботҡа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "актык"
+                ],
+                "Tatar": [
+                    "ашлык"
+                ],
+                "Bashkir": [
+                    "ашлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahıl"
+                ],
+                "Azerbaijani": [
+                    "taxıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hububat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mısır gevreği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kahvaltılık gevrek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бөртеклеләр"
+                ]
+            }
+        }
+    ]
+}

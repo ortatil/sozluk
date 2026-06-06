@@ -1,0 +1,113 @@
+{
+    "id": "i47205",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "locust",
+    "en_definition": "migratory grasshoppers of warm regions having short antennae",
+    "tr_word": "çekirge",
+    "tr_definition": "sıcak bölgelerde yaşayan, kısa duyargalı ve göçücü bir çekirge türü",
+    "ru_word": "саранча",
+    "ru_definition": "крупное насекомое семейства акридовых, способное совершать перелеты на большие расстояния и уничтожать посевы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çekirge"
+                ],
+                "Azerbaijani": [
+                    "çəyirtkə"
+                ],
+                "Turkmen": [
+                    "çekirtge"
+                ],
+                "Uzbek": [
+                    "chigirtka"
+                ],
+                "Uyghur": [
+                    "چېكەتكە"
+                ],
+                "Kazakh": [
+                    "шегіртке"
+                ],
+                "Kyrgyz": [
+                    "чегиртке"
+                ],
+                "Karakalpak": [
+                    "shegirtke"
+                ],
+                "Tatar": [
+                    "чикерткә"
+                ],
+                "Bashkir": [
+                    "сиңерткә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "zararkunanda chigirtka"
+                ],
+                "Uyghur": [
+                    "سەرەتان"
+                ],
+                "Tatar": [
+                    "саранча"
+                ],
+                "Bashkir": [
+                    "саранса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қара шегіртке"
+                ],
+                "Kyrgyz": [
+                    "кыргын чегиртке"
+                ],
+                "Karakalpak": [
+                    "qara shegirtke"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göçmen çekirge"
+                ],
+                "Tatar": [
+                    "күчмә чикерткә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mərəndə"
+                ],
+                "Kyrgyz": [
+                    "марокко чегирткеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mally"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ала шегіртке"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "i40621",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "world war",
+    "en_definition": "a war in which the major nations of the world are involved",
+    "tr_word": "dünya savaşı",
+    "tr_definition": "dünyanın büyük devletlerinin katıldığı savaş",
+    "ru_word": "мировая война",
+    "ru_definition": "война, в которой участвуют крупнейшие державы мира",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cihan harbi"
+                ],
+                "Azerbaijani": [
+                    "cahan hərbi"
+                ],
+                "Turkmen": [
+                    "jahan urşy"
+                ],
+                "Uzbek": [
+                    "jahon urushi"
+                ],
+                "Uyghur": [
+                    "جاھان ئۇرۇشى"
+                ],
+                "Kazakh": [
+                    "жаһандық соғыс"
+                ],
+                "Karakalpak": [
+                    "jáhán urısı"
+                ],
+                "Tatar": [
+                    "җиһан сугышы"
+                ],
+                "Bashkir": [
+                    "йөһән һуғышы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dünya savaşı"
+                ],
+                "Turkmen": [
+                    "dünýä urşy"
+                ],
+                "Uzbek": [
+                    "dunyo urushi"
+                ],
+                "Uyghur": [
+                    "دۇنيا ئۇرۇشى"
+                ],
+                "Kazakh": [
+                    "дүниежүзілік соғыс"
+                ],
+                "Karakalpak": [
+                    "dúnyajúzilik urıs"
+                ],
+                "Tatar": [
+                    "дөнья сугышы"
+                ],
+                "Bashkir": [
+                    "донъя һуғышы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "älem urşy"
+                ],
+                "Uzbek": [
+                    "olamshumul urush"
+                ],
+                "Kazakh": [
+                    "әлемдік соғыс"
+                ],
+                "Kyrgyz": [
+                    "ааламдык согуш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dünya müharibəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дүйнөлүк согуш"
+                ]
+            }
+        }
+    ]
+}

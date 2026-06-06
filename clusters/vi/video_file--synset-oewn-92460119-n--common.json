@@ -1,0 +1,106 @@
+{
+    "id": "synset-oewn-92460119-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "video file",
+    "en_definition": "a computer file that contains digitized video.",
+    "tr_word": "video dosyası",
+    "tr_definition": "sayısallaştırılmış video içeren bir bilgisayar dosyası.",
+    "ru_word": "видеофайл",
+    "ru_definition": "компьютерный файл, содержащий оцифрованное видео.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "video dosyası"
+                ],
+                "Azerbaijani": [
+                    "video faylı",
+                    "video sənədi"
+                ],
+                "Turkmen": [
+                    "wideo faýly",
+                    "wideo ýazgy"
+                ],
+                "Uzbek": [
+                    "videofayl",
+                    "videolavha"
+                ],
+                "Uyghur": [
+                    "ۋىدېئو ھۆججىتى"
+                ],
+                "Kyrgyz": [
+                    "видеотасма"
+                ],
+                "Karakalpak": [
+                    "wideofayl",
+                    "wideo jazba",
+                    "wideo hújjet"
+                ],
+                "Tatar": [
+                    "видеоязма",
+                    "видеофайл"
+                ],
+                "Bashkir": [
+                    "видеояҙма",
+                    "видеофайл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "görüntü dosyası"
+                ],
+                "Azerbaijani": [
+                    "görüntü faylı"
+                ],
+                "Turkmen": [
+                    "görüniş faýly"
+                ],
+                "Uyghur": [
+                    "كۆرۈنۈش ھۆججىتى"
+                ],
+                "Kyrgyz": [
+                    "көрмө",
+                    "көрмөфайл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tasviriy fayl"
+                ],
+                "Kyrgyz": [
+                    "тасма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayıt dosyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سىن ھۆججىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнефайл",
+                    "бейнежазба",
+                    "бейнедерек"
+                ]
+            }
+        }
+    ]
+}

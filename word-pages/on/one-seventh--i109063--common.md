@@ -1,0 +1,85 @@
+# One-seventh
+| Field | Detail |
+|---|---|
+| **ID** | i109063 |
+| **English** | one-seventh |
+| **Type** | noun |
+| **Definition** | one part in seven equal parts |
+| **Source** | common |
+| **Ortatil** | sübü |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i109063",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "one-seventh",
+    "en_definition": "one part in seven equal parts",
+    "tr_word": "yedide bir",
+    "tr_definition": "yedi eşit parçadan biri",
+    "ru_word": "одна седьмая",
+    "ru_definition": "одна часть из семи равных частей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yedide bir",
+                    "yedide birlik",
+                    "yedinci parça"
+                ],
+                "Azerbaijani": [
+                    "yeddidə bir",
+                    "yeddi paydan biri"
+                ],
+                "Turkmen": [
+                    "ýediden bir",
+                    "ýedi bölügiň biri"
+                ],
+                "Uzbek": [
+                    "yettidan bir",
+                    "yettidan bir qism",
+                    "yettidan bir bo'lak"
+                ],
+                "Uyghur": [
+                    "يەتتىدىن بىر",
+                    "يەتتە بىر"
+                ],
+                "Kazakh": [
+                    "жетіден бір",
+                    "жетінің бірі"
+                ],
+                "Kyrgyz": [
+                    "жетиден бир",
+                    "жетинин бири"
+                ],
+                "Karakalpak": [
+                    "jetіden bіr",
+                    "jetіde bіr"
+                ],
+                "Tatar": [
+                    "җиденче өлеш",
+                    "җиденче бер",
+                    "җиденче бер өлеш"
+                ],
+                "Bashkir": [
+                    "етенән бер",
+                    "етелә бер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sübü"
+                ]
+            }
+        }
+    ]
+}
+```
+

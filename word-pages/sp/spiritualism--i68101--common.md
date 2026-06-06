@@ -1,0 +1,162 @@
+# Spiritualism
+| Field | Detail |
+|---|---|
+| **ID** | i68101 |
+| **English** | spiritualism |
+| **Type** | noun |
+| **Definition** | the belief that the spirits of dead people can communicate with people who are still alive (especially via a medium) |
+| **Source** | common |
+| **Ortatil** | ruhiyät, arwahçılıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ruhiyät** | **arwahçılıq** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.33 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 1 | 0.60 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **2.93** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| روھانىيەت | rohaniyät |
+| روھىيەتچىلىك | rohiyätçilik |
+| ئارۋاھچىلىق | arvahçiliq |
+| **Kazakh** | |
+| руханилық | ruxanilıq |
+| рухшылдық | ruxşıldıq |
+| аруақшылдық | aruaqşıldıq |
+| **Kyrgyz** | |
+| руханият | ruxaniyat |
+| рухчулук | ruxçuluk |
+| арбакчылык | arbakçılık |
+| **Tatar** | |
+| рухият | ruxiyat |
+| рухчылык | ruxçılık |
+| руханият | ruxaniyat |
+| **Bashkir** | |
+| рухиәт | ruxiät |
+
+```json
+{
+    "id": "i68101",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spiritualism",
+    "en_definition": "the belief that the spirits of dead people can communicate with people who are still alive (especially via a medium)",
+    "tr_word": "ispiritizma",
+    "tr_definition": "Ölülerin ruhlarıyla iletişim kurulabileceğine ve bu ruhların yaşayanlarla bağlantı kurduğuna dayanan inanç sistemi.",
+    "ru_word": "спиритуализм",
+    "ru_definition": "Вера в возможность непосредственного общения с душами умерших, которые могут вступать в контакт с живыми через медиумов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ruhçuluk"
+                ],
+                "Azerbaijani": [
+                    "ruhanilik",
+                    "ruhçuluq"
+                ],
+                "Turkmen": [
+                    "ruhyýetçilik",
+                    "ruhyýet"
+                ],
+                "Uzbek": [
+                    "ruhiyat",
+                    "ruhoniyat"
+                ],
+                "Uyghur": [
+                    "روھانىيەت",
+                    "روھىيەتچىلىك"
+                ],
+                "Kazakh": [
+                    "руханилық",
+                    "рухшылдық"
+                ],
+                "Kyrgyz": [
+                    "руханият",
+                    "рухчулук"
+                ],
+                "Karakalpak": [
+                    "ruxıylıq",
+                    "ruxlarǵa inanıo"
+                ],
+                "Tatar": [
+                    "рухият",
+                    "рухчылык",
+                    "рухлар белән аралашу",
+                    "руханият"
+                ],
+                "Bashkir": [
+                    "рухиәт",
+                    "рухтарға ышаныу",
+                    "рухтар менән бәйләнеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "arwahçylyk"
+                ],
+                "Uzbek": [
+                    "arvohparastlik"
+                ],
+                "Uyghur": [
+                    "ئارۋاھچىلىق"
+                ],
+                "Kazakh": [
+                    "аруақшылдық"
+                ],
+                "Kyrgyz": [
+                    "арбакчылык"
+                ],
+                "Karakalpak": [
+                    "aroaqshılıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ispiratizma"
+                ],
+                "Azerbaijani": [
+                    "ispiritizm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tinselcilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "maneviyatçılık"
+                ]
+            }
+        }
+    ]
+}
+```
+

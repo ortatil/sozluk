@@ -1,0 +1,124 @@
+{
+    "id": "i63622",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "handedness",
+    "en_definition": "the property of using one hand more than the other",
+    "tr_word": "el kullanımı",
+    "tr_definition": "bir eli diğerinden daha fazla kullanma özelliği",
+    "ru_word": "рукость",
+    "ru_definition": "свойство использовать одну руку чаще, чем другую",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'naqaylik"
+                ],
+                "Kazakh": [
+                    "оңқайлық"
+                ],
+                "Kyrgyz": [
+                    "оң-солчулдук",
+                    "оң-солу",
+                    "оңчулдук"
+                ],
+                "Karakalpak": [
+                    "ońqaylıq"
+                ],
+                "Tatar": [
+                    "уңайлык"
+                ],
+                "Bashkir": [
+                    "уңайлыҡ",
+                    "уңайлылыҡ",
+                    "уңай-һулаҡайлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "solaxaylıq",
+                    "sağaxaylıq"
+                ],
+                "Kazakh": [
+                    "солақайлық"
+                ],
+                "Kyrgyz": [
+                    "солчулдук"
+                ],
+                "Karakalpak": [
+                    "solaqaylıq"
+                ],
+                "Tatar": [
+                    "сулагайлык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "el kullanımı",
+                    "el yatkınlığı",
+                    "el alışkanlığı"
+                ],
+                "Azerbaijani": [
+                    "əlillik",
+                    "əllilik"
+                ],
+                "Turkmen": [
+                    "el ulanma endigi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قولايلىق",
+                    "قول ماھىرلىقى"
+                ],
+                "Kazakh": [
+                    "қолдылық"
+                ],
+                "Tatar": [
+                    "куллылык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çepbazlyk"
+                ],
+                "Uzbek": [
+                    "chapaqaylik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el tercihi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sagbazlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوڭ-سوللۇق"
+                ]
+            }
+        }
+    ]
+}

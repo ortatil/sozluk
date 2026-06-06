@@ -1,0 +1,200 @@
+{
+    "id": "i32901",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "convey",
+    "en_definition": "transfer to another",
+    "tr_word": "devretmek",
+    "tr_definition": "bir mülkü veya hakkı başkasına geçirmek, aktarmak",
+    "ru_word": "передавать",
+    "ru_definition": "передавать право собственности или информацию другому лицу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çatdırmaq",
+                    "yetirmək"
+                ],
+                "Turkmen": [
+                    "ýetirmek"
+                ],
+                "Uzbek": [
+                    "yetkazmoq"
+                ],
+                "Uyghur": [
+                    "يەتكۈزمەك",
+                    "يۆتكىمەك"
+                ],
+                "Kazakh": [
+                    "жеткізу"
+                ],
+                "Kyrgyz": [
+                    "жеткирүү"
+                ],
+                "Karakalpak": [
+                    "jetkizio"
+                ],
+                "Tatar": [
+                    "җиткерү"
+                ],
+                "Bashkir": [
+                    "еткереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "daşımaq"
+                ],
+                "Turkmen": [
+                    "tabşyrmak"
+                ],
+                "Uzbek": [
+                    "topshirmoq"
+                ],
+                "Uyghur": [
+                    "تاپشۇرماق"
+                ],
+                "Kazakh": [
+                    "тапсыру",
+                    "тасымалдау"
+                ],
+                "Kyrgyz": [
+                    "тапшыруу"
+                ],
+                "Karakalpak": [
+                    "tapsırıo"
+                ],
+                "Tatar": [
+                    "тапшыру"
+                ],
+                "Bashkir": [
+                    "тапшырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "беру"
+                ],
+                "Kyrgyz": [
+                    "берүү"
+                ],
+                "Karakalpak": [
+                    "berio"
+                ],
+                "Tatar": [
+                    "биреп җибәрү"
+                ],
+                "Bashkir": [
+                    "биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nakletmek"
+                ],
+                "Azerbaijani": [
+                    "nəql etmək"
+                ],
+                "Uzbek": [
+                    "naql qilmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ötürmək"
+                ],
+                "Uyghur": [
+                    "ئۆتكۈزمەك"
+                ],
+                "Kyrgyz": [
+                    "өткөрүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iletmek"
+                ],
+                "Turkmen": [
+                    "eltmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "geçirmek"
+                ],
+                "Bashkir": [
+                    "күсереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жолдау"
+                ],
+                "Karakalpak": [
+                    "jollao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aktarmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ulaştırmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göndermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uzatmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bayon qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күчерү"
+                ]
+            }
+        }
+    ]
+}

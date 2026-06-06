@@ -1,0 +1,102 @@
+{
+    "id": "i116951",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "polling day",
+    "en_definition": "the day appointed for an election; in the United States it is the 1st Tuesday after the 1st Monday in November",
+    "tr_word": "seçim günü",
+    "tr_definition": "seçimlerin yapılması için belirlenen gün",
+    "ru_word": "день выборов",
+    "ru_definition": "день, назначенный для проведения голосования на выборах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saýlaw güni"
+                ],
+                "Uzbek": [
+                    "saylov kuni"
+                ],
+                "Uyghur": [
+                    "سايلام كۈنى"
+                ],
+                "Kazakh": [
+                    "сайлау күні"
+                ],
+                "Kyrgyz": [
+                    "шайлоо күнү"
+                ],
+                "Karakalpak": [
+                    "saylao kúni"
+                ],
+                "Tatar": [
+                    "сайлау көне"
+                ],
+                "Bashkir": [
+                    "һайлау көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovoz berish kuni"
+                ],
+                "Kazakh": [
+                    "дауыс беру күні"
+                ],
+                "Tatar": [
+                    "тавыш бирү көне"
+                ],
+                "Bashkir": [
+                    "тауыш биреү көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seçim günü"
+                ],
+                "Azerbaijani": [
+                    "seçki günü",
+                    "səsvermə günü"
+                ],
+                "Turkmen": [
+                    "ses berişlik güni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oy verme günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېلەت تاشلاش كۈنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "добуш берүү күнү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "daoıs berio kúni"
+                ]
+            }
+        }
+    ]
+}

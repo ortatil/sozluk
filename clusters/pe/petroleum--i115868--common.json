@@ -1,0 +1,108 @@
+{
+    "id": "i115868",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "petroleum",
+    "en_definition": "a dark oil consisting mainly of hydrocarbons",
+    "tr_word": "petrol",
+    "tr_definition": "Hidrokarbonlardan oluşan, koyu renkli, yanıcı mineral yağ",
+    "ru_word": "нефть",
+    "ru_definition": "Природная маслянистая горючая жидкость со специфическим запахом, состоящая в основном из смеси углеводородов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "neft"
+                ],
+                "Azerbaijani": [
+                    "neft"
+                ],
+                "Turkmen": [
+                    "nebit"
+                ],
+                "Uzbek": [
+                    "neft"
+                ],
+                "Uyghur": [
+                    "نېفىت",
+                    "نېفت"
+                ],
+                "Kyrgyz": [
+                    "нефть"
+                ],
+                "Karakalpak": [
+                    "naft"
+                ],
+                "Tatar": [
+                    "нефть"
+                ],
+                "Bashkir": [
+                    "нефть"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yer yağı"
+                ],
+                "Tatar": [
+                    "җир мае"
+                ],
+                "Bashkir": [
+                    "ер майы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қара май"
+                ],
+                "Karakalpak": [
+                    "qara may"
+                ],
+                "Tatar": [
+                    "кара май"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yağ"
+                ],
+                "Uzbek": [
+                    "moy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұнай"
+                ],
+                "Kyrgyz": [
+                    "мунай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "petrol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýangyç"
+                ]
+            }
+        }
+    ]
+}

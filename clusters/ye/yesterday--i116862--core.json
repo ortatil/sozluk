@@ -1,0 +1,101 @@
+{
+    "id": "i116862",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "yesterday",
+    "en_definition": "the day immediately before today",
+    "tr_word": "dün",
+    "tr_definition": "bugünden bir önceki gün",
+    "ru_word": "вчера",
+    "ru_definition": "день, предшествующий сегодняшнему",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kecha"
+                ],
+                "Kazakh": [
+                    "кеше"
+                ],
+                "Kyrgyz": [
+                    "кечээ"
+                ],
+                "Karakalpak": [
+                    "keshe"
+                ],
+                "Tatar": [
+                    "кичә"
+                ],
+                "Bashkir": [
+                    "кисә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кешегі күн"
+                ],
+                "Kyrgyz": [
+                    "кечээки күн"
+                ],
+                "Karakalpak": [
+                    "keshegi kún"
+                ],
+                "Tatar": [
+                    "кичәге көн"
+                ],
+                "Bashkir": [
+                    "кисәге көн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dün"
+                ],
+                "Azerbaijani": [
+                    "dünən"
+                ],
+                "Turkmen": [
+                    "düýn"
+                ],
+                "Uyghur": [
+                    "تۈنۈگۈن"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ötən gün"
+                ],
+                "Turkmen": [
+                    "öten gün"
+                ],
+                "Uzbek": [
+                    "oʻtgan kun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geçen gün"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈنۈگۈنكى كۈن"
+                ]
+            }
+        }
+    ]
+}

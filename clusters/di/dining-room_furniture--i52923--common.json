@@ -1,0 +1,101 @@
+{
+    "id": "i52923",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dining-room furniture",
+    "en_definition": "furniture intended for use in a dining room",
+    "tr_word": "yemek odası mobilyası",
+    "tr_definition": "yemek odasında kullanılmak üzere tasarlanmış mobilyalar",
+    "ru_word": "мебель для столовой",
+    "ru_definition": "мебель, предназначенная для использования в столовой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oshxona jihozlari",
+                    "oshxona mebellari"
+                ],
+                "Kazakh": [
+                    "ас бөлме жиһазы",
+                    "ас үй жиһазы",
+                    "ас ішетін бөлме жиһазы"
+                ],
+                "Kyrgyz": [
+                    "ашкана эмеректери"
+                ],
+                "Karakalpak": [
+                    "asxana jiһazı"
+                ],
+                "Tatar": [
+                    "аш бүлмәсе җиһазлары",
+                    "аш бүлмәсе җиһазы",
+                    "аш-су бүлмәсе җиһазлары"
+                ],
+                "Bashkir": [
+                    "аш-һыу йыһазы",
+                    "аш бүлмәһе йыһазы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تاماقخانا جابدۇقلىرى",
+                    "تاماق ئۈستەل-ئورۇندۇقلىرى",
+                    "تاماقخانا ئۆي جاھازلىرى"
+                ],
+                "Kyrgyz": [
+                    "тамак ичүүчү эмеректер"
+                ],
+                "Karakalpak": [
+                    "tamaqlanıo jiһazı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemek odası takımı",
+                    "yemek takımı",
+                    "yemek mobilyası"
+                ],
+                "Azerbaijani": [
+                    "yemək otağı mebeli",
+                    "yemək dəsti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "süfrə dəsti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "naharhana mebelleri",
+                    "naharhana goşlary",
+                    "naharhana esbaplary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dasturxon anjomlari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аш өҫтәле һәм ултырғыстары"
+                ]
+            }
+        }
+    ]
+}

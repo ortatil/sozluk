@@ -1,0 +1,112 @@
+{
+    "id": "i88636",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bookbinder",
+    "en_definition": "a worker whose trade is binding books",
+    "tr_word": "mücellit",
+    "tr_definition": "Kitapları ciltleyen, kitap ciltleme işiyle uğraşan usta.",
+    "ru_word": "переплётчик",
+    "ru_definition": "Рабочий, занимающийся переплётом книг.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mücellit"
+                ],
+                "Azerbaijani": [
+                    "mücellid"
+                ],
+                "Uyghur": [
+                    "مۇجەللىت"
+                ],
+                "Karakalpak": [
+                    "mújállit"
+                ],
+                "Tatar": [
+                    "мөҗәллит"
+                ],
+                "Bashkir": [
+                    "мөжәллит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كىتاب تۈپلىگۈچى"
+                ],
+                "Kazakh": [
+                    "кітап түптеуші"
+                ],
+                "Tatar": [
+                    "китап төпләүче"
+                ],
+                "Bashkir": [
+                    "китап төпләүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ciltçi"
+                ],
+                "Azerbaijani": [
+                    "cildçi"
+                ],
+                "Turkmen": [
+                    "jiltleýji"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sahhap"
+                ],
+                "Uzbek": [
+                    "sahhof"
+                ],
+                "Karakalpak": [
+                    "saxxap"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muqovachi"
+                ],
+                "Kazakh": [
+                    "мұқабашы"
+                ],
+                "Kyrgyz": [
+                    "мукабачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түптеуші"
+                ],
+                "Bashkir": [
+                    "төпләүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "саптыкчы"
+                ]
+            }
+        }
+    ]
+}

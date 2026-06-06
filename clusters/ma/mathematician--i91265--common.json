@@ -1,0 +1,112 @@
+{
+    "id": "i91265",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mathematician",
+    "en_definition": "a person skilled in mathematics",
+    "tr_word": "matematikçi",
+    "tr_definition": "matematik alanında uzmanlaşmış kimse",
+    "ru_word": "математик",
+    "ru_definition": "специалист в области математики",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "matematikçi"
+                ],
+                "Turkmen": [
+                    "matematik"
+                ],
+                "Uzbek": [
+                    "matematik"
+                ],
+                "Uyghur": [
+                    "ماتېماتىك"
+                ],
+                "Kazakh": [
+                    "математик"
+                ],
+                "Kyrgyz": [
+                    "математик"
+                ],
+                "Karakalpak": [
+                    "matematik"
+                ],
+                "Tatar": [
+                    "математик"
+                ],
+                "Bashkir": [
+                    "математик"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "riyaziyeci"
+                ],
+                "Azerbaijani": [
+                    "riyaziyyatçı"
+                ],
+                "Turkmen": [
+                    "riyazatçy"
+                ],
+                "Uzbek": [
+                    "riyoziyotchi"
+                ],
+                "Kazakh": [
+                    "риятшы"
+                ],
+                "Kyrgyz": [
+                    "риязиятчы"
+                ],
+                "Karakalpak": [
+                    "riyazıyatshı"
+                ],
+                "Tatar": [
+                    "риязый"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hesabdar"
+                ],
+                "Uzbek": [
+                    "hisobchi"
+                ],
+                "Uyghur": [
+                    "ھېساباتچى"
+                ],
+                "Tatar": [
+                    "хисапчы"
+                ],
+                "Bashkir": [
+                    "хисапсы",
+                    "хисап белгесе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есепші"
+                ],
+                "Kyrgyz": [
+                    "эсепчи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رەقەمشۇناس"
+                ]
+            }
+        }
+    ]
+}

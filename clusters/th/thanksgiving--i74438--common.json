@@ -1,0 +1,148 @@
+{
+    "id": "i74438",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "thanksgiving",
+    "en_definition": "a short prayer of thanks before a meal",
+    "tr_word": "şükür duası",
+    "tr_definition": "yemekten önce edilen kısa teşekkür duası",
+    "ru_word": "благодарственная молитва",
+    "ru_definition": "краткая молитва благодарения перед едой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şükür",
+                    "şükran"
+                ],
+                "Azerbaijani": [
+                    "şükür",
+                    "şükranlıq"
+                ],
+                "Turkmen": [
+                    "şükür"
+                ],
+                "Uzbek": [
+                    "shukrona",
+                    "shukr"
+                ],
+                "Uyghur": [
+                    "شۈكۈر دۇئاسى"
+                ],
+                "Kazakh": [
+                    "шүкіршілік"
+                ],
+                "Kyrgyz": [
+                    "шүгүр"
+                ],
+                "Karakalpak": [
+                    "shúkirlik"
+                ],
+                "Tatar": [
+                    "шөкер итү"
+                ],
+                "Bashkir": [
+                    "шөкөр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dua"
+                ],
+                "Turkmen": [
+                    "doga"
+                ],
+                "Uzbek": [
+                    "duo"
+                ],
+                "Uyghur": [
+                    "دۇئا"
+                ],
+                "Kazakh": [
+                    "дұға"
+                ],
+                "Karakalpak": [
+                    "duoa"
+                ],
+                "Tatar": [
+                    "дога"
+                ],
+                "Bashkir": [
+                    "доға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "alkyş"
+                ],
+                "Kyrgyz": [
+                    "алкыш"
+                ],
+                "Karakalpak": [
+                    "alǵıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sofra duası"
+                ],
+                "Azerbaijani": [
+                    "süfrə duası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hamd"
+                ],
+                "Uzbek": [
+                    "hamd"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бата"
+                ],
+                "Kyrgyz": [
+                    "бата"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәер-фатиха"
+                ],
+                "Bashkir": [
+                    "хәйер-фатиха"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "taryp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تائام دۇئاسى"
+                ]
+            }
+        }
+    ]
+}

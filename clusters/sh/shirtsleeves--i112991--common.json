@@ -1,0 +1,117 @@
+{
+    "id": "i112991",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shirtsleeves",
+    "en_definition": "not wearing a jacket",
+    "tr_word": "gömlekle",
+    "tr_definition": "ceket giymeden, sadece gömlek ile olma durumu",
+    "ru_word": "в рубашке",
+    "ru_definition": "состояние, когда человек одет только в рубашку без пиджака или куртки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýeňli"
+                ],
+                "Uzbek": [
+                    "yeng"
+                ],
+                "Uyghur": [
+                    "يەڭلىك",
+                    "يەڭلىك كۆڭلەك"
+                ],
+                "Kazakh": [
+                    "жең",
+                    "жеңіл"
+                ],
+                "Kyrgyz": [
+                    "жең"
+                ],
+                "Karakalpak": [
+                    "jeń",
+                    "jeńli"
+                ],
+                "Tatar": [
+                    "җиң"
+                ],
+                "Bashkir": [
+                    "ең"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gömlekle",
+                    "gömlek kollu"
+                ],
+                "Turkmen": [
+                    "köýnekli"
+                ],
+                "Uzbek": [
+                    "ko'ylakchan"
+                ],
+                "Kazakh": [
+                    "көйлекше"
+                ],
+                "Kyrgyz": [
+                    "көйнөкчөн"
+                ],
+                "Karakalpak": [
+                    "kóylekshe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ceketiz"
+                ],
+                "Uzbek": [
+                    "yaktak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күлмәк җиңе"
+                ],
+                "Bashkir": [
+                    "күлдәк еңе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "köynəkcə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pencəksiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üst geyimsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چاپانسىز"
+                ]
+            }
+        }
+    ]
+}

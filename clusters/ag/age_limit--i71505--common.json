@@ -1,0 +1,87 @@
+{
+    "id": "i71505",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "age limit",
+    "en_definition": "regulation establishing the maximum age for doing something or holding some position",
+    "tr_word": "yaş sınırı",
+    "tr_definition": "bir şeyi yapmak veya bir pozisyonda bulunmak için belirlenen en yüksek yaş kuralı",
+    "ru_word": "возрастной ценз",
+    "ru_definition": "установленный законом предел возраста, ограничивающий участие человека в какой-либо деятельности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaş sınırı",
+                    "yaş haddi",
+                    "yaş tahdidi"
+                ],
+                "Azerbaijani": [
+                    "yaş həddi",
+                    "yaş qadağası"
+                ],
+                "Turkmen": [
+                    "ýaş çägi",
+                    "ýaş çäklendirmesi"
+                ],
+                "Uzbek": [
+                    "yosh chegarasi",
+                    "yosh cheklovi"
+                ],
+                "Uyghur": [
+                    "يېشى چەكلىمىسى",
+                    "يېشى چەك-چېگراسى",
+                    "يېشى توشۇش چەكلىمىسى"
+                ],
+                "Kazakh": [
+                    "жас шегі",
+                    "жас мөлшері",
+                    "жас шектеуі"
+                ],
+                "Kyrgyz": [
+                    "жаш курагынын чеги",
+                    "жаш чектөөсү"
+                ],
+                "Karakalpak": [
+                    "jas shegi",
+                    "jas shekleniwi",
+                    "jas mólsheri"
+                ],
+                "Tatar": [
+                    "яшь чиге",
+                    "яшь чикләве",
+                    "яшь мөддәте"
+                ],
+                "Bashkir": [
+                    "йәш сиге",
+                    "йәш сикләүе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yaş məhdudiyyəti"
+                ],
+                "Uzbek": [
+                    "yosh muddati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýaş möhleti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "курактык чек"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": "i69419",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "free press",
+    "en_definition": "a press not restricted or controlled by government censorship regarding politics or ideology",
+    "tr_word": "özgür basın",
+    "tr_definition": "siyaset veya ideoloji konusunda hükümet sansürü tarafından kısıtlanmayan veya kontrol edilmeyen basın",
+    "ru_word": "свободная пресса",
+    "ru_definition": "пресса, не ограниченная и не контролируемая правительственной цензурой в вопросах политики или идеологии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "azad mətbuat"
+                ],
+                "Turkmen": [
+                    "azat metbugat"
+                ],
+                "Uzbek": [
+                    "ozod matbuot"
+                ],
+                "Kazakh": [
+                    "азат баспасөз"
+                ],
+                "Karakalpak": [
+                    "azat baspasóz"
+                ],
+                "Tatar": [
+                    "азат матбугат"
+                ],
+                "Bashkir": [
+                    "азат матбуғат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "erkin metbugat"
+                ],
+                "Uzbek": [
+                    "erkin matbuot"
+                ],
+                "Uyghur": [
+                    "ئەركىن مەتبۇئات",
+                    "ئەركىن ئاخبارات"
+                ],
+                "Kazakh": [
+                    "еркін баспасөз"
+                ],
+                "Kyrgyz": [
+                    "эркин басма сөз",
+                    "эркин маалымат каражаттары"
+                ],
+                "Karakalpak": [
+                    "erkin baspasóz"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hür basın"
+                ],
+                "Uzbek": [
+                    "hur matbuot"
+                ],
+                "Uyghur": [
+                    "ھۆر مەتبۇئات"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "serbest basın"
+                ],
+                "Azerbaijani": [
+                    "sərbəst mətbuat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирекле матбугат"
+                ],
+                "Bashkir": [
+                    "ирекле матбуғат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özgür basın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hürr mətbuat"
+                ]
+            }
+        }
+    ]
+}

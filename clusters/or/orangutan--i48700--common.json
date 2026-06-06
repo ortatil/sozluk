@@ -1,0 +1,98 @@
+{
+    "id": "i48700",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "orangutan",
+    "en_definition": "large long-armed ape of Borneo and Sumatra having arboreal habits",
+    "tr_word": "orangutan",
+    "tr_definition": "Borneo ve Sumatra adalarında yaşayan, uzun kollu, kızıl tüylü ve ağaçlarda yaşayan büyük bir insansı maymun türü.",
+    "ru_word": "орангутан",
+    "ru_definition": "Крупная человекообразная обезьяна с длинными руками и рыжевато-коричневой шерстью, обитающая на островах Борнео и Суматра.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orangutan"
+                ],
+                "Azerbaijani": [
+                    "oranqutan"
+                ],
+                "Turkmen": [
+                    "orangutan"
+                ],
+                "Uzbek": [
+                    "orangutan"
+                ],
+                "Uyghur": [
+                    "ئورانگۇتان"
+                ],
+                "Kazakh": [
+                    "орангутан",
+                    "орман адамы"
+                ],
+                "Kyrgyz": [
+                    "орангутан"
+                ],
+                "Tatar": [
+                    "урман кешесе"
+                ],
+                "Bashkir": [
+                    "урман кешеһе",
+                    "орангутан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "meymun"
+                ],
+                "Turkmen": [
+                    "maýmyn"
+                ],
+                "Uzbek": [
+                    "maymun"
+                ],
+                "Kyrgyz": [
+                    "маймыл"
+                ],
+                "Karakalpak": [
+                    "maymıl"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "odamsimon maymun"
+                ],
+                "Uyghur": [
+                    "ئادەمسىمان مايمۇن"
+                ],
+                "Kyrgyz": [
+                    "адам сымал маймыл"
+                ],
+                "Karakalpak": [
+                    "adamsıman maymıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "insansı maymun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кызгылт маймыл"
+                ]
+            }
+        }
+    ]
+}

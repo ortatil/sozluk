@@ -1,0 +1,62 @@
+{
+    "id": "i77331",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "garlic bread",
+    "en_definition": "French or Italian bread sliced and spread with garlic butter then crisped in the oven",
+    "tr_word": "sarımsaklı ekmek",
+    "tr_definition": "Üzerine sarımsaklı tereyağı sürülüp fırınlanmış Fransız veya İtalyan ekmeği",
+    "ru_word": "чесночный хлеб",
+    "ru_definition": "Французский или итальянский хлеб, нарезанный ломтиками, смазанный чесночным маслом и запеченный в духовке до хрустящей корочки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarımsaklı ekmek",
+                    "sarımsaklı çörek"
+                ],
+                "Azerbaijani": [
+                    "sarımsaqlı çörək",
+                    "sarımsaqlı nan"
+                ],
+                "Turkmen": [
+                    "sarymsakly çörek",
+                    "sarymsakly nan"
+                ],
+                "Uzbek": [
+                    "sarimsoqli non",
+                    "sarimsoqpiyozli non"
+                ],
+                "Kazakh": [
+                    "сарымсақты нан",
+                    "сарымсақ нан"
+                ],
+                "Kyrgyz": [
+                    "сарымсак нан",
+                    "сарымсактуу нан"
+                ],
+                "Karakalpak": [
+                    "sarımsaqlı nan",
+                    "sarımsaq nan"
+                ],
+                "Tatar": [
+                    "сарымсаклы икмәк",
+                    "сарымсаклы күмәч"
+                ],
+                "Bashkir": [
+                    "һарымһаҡлы икмәк",
+                    "һарымһаҡлы күмәс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سامساقلىق نان",
+                    "سامساق پۇراقلىق نان"
+                ]
+            }
+        }
+    ]
+}

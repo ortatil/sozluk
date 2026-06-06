@@ -1,0 +1,78 @@
+{
+    "id": "i42695",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brown algae",
+    "en_definition": "algae having the chlorophyll masked by brown and yellow pigments",
+    "tr_word": "kahverengi algler",
+    "tr_definition": "klorofili kahverengi ve sarı pigmentlerle maskelenmiş olan algler",
+    "ru_word": "бурые водоросли",
+    "ru_definition": "водоросли, у которых хлорофилл маскируется коричневыми и желтыми пигментами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qonur yosunlar"
+                ],
+                "Turkmen": [
+                    "goňur suwotular",
+                    "goňur suwotulary"
+                ],
+                "Uzbek": [
+                    "qoʻngʻir suvoʻtlar",
+                    "qoʻngʻir suvoʻti"
+                ],
+                "Uyghur": [
+                    "قوڭۇر يۈسۈن",
+                    "قوڭۇر سۇ ئوتى"
+                ],
+                "Kazakh": [
+                    "қоңыр балдырлар",
+                    "қоңыр балдыр"
+                ],
+                "Karakalpak": [
+                    "qońır balırlar",
+                    "qońır suw ósimlikleri"
+                ],
+                "Bashkir": [
+                    "ҡоңғор ылымыҡтар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "күрөң балырлар",
+                    "күрөң балыр"
+                ],
+                "Tatar": [
+                    "көрән суүсемнәр",
+                    "көрән суүсем"
+                ],
+                "Bashkir": [
+                    "көрән ылымыҡтар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kahverengi algler",
+                    "kahverengi yosunlar"
+                ],
+                "Azerbaijani": [
+                    "qəhvəyi yosunlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "esmer su yosunları"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "i70414",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "koran",
+    "en_definition": "the sacred writings of Islam revealed by God to the prophet Muhammad during his life at Mecca and Medina",
+    "tr_word": "Kur'an",
+    "tr_definition": "İslam dininin kutsal kitabı; Allah tarafından Hz. Muhammed'e vahyedilen metinlerin bütünü.",
+    "ru_word": "Коран",
+    "ru_definition": "Священная книга мусульман, представляющая собой свод откровений, переданных пророку Мухаммеду.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Kur'an",
+                    "Kur'an-ı Kerim"
+                ],
+                "Azerbaijani": [
+                    "Quran",
+                    "Qurani-Kərim"
+                ],
+                "Turkmen": [
+                    "Gurhan",
+                    "Kuran"
+                ],
+                "Uzbek": [
+                    "Qur'on"
+                ],
+                "Uyghur": [
+                    "قۇرئان",
+                    "قۇرئان كەرىم"
+                ],
+                "Kazakh": [
+                    "Құран",
+                    "Құран Кәрім"
+                ],
+                "Kyrgyz": [
+                    "Куран",
+                    "Куран-и Керим"
+                ],
+                "Karakalpak": [
+                    "Quran",
+                    "Quran Kárim"
+                ],
+                "Tatar": [
+                    "Коръән",
+                    "Коръән Кәрим"
+                ],
+                "Bashkir": [
+                    "Ҡөрьән",
+                    "Ҡөрьән Кәрим"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Mushaf"
+                ],
+                "Azerbaijani": [
+                    "Müshəf"
+                ],
+                "Uzbek": [
+                    "Mushaf"
+                ],
+                "Uyghur": [
+                    "مۇسھەف"
+                ],
+                "Karakalpak": [
+                    "Mushaf"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Kelamullah"
+                ],
+                "Azerbaijani": [
+                    "Kəlamullah"
+                ],
+                "Turkmen": [
+                    "Kelamulla"
+                ],
+                "Uzbek": [
+                    "Kalomulloh"
+                ],
+                "Uyghur": [
+                    "كالامۇللاھ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "Кітап"
+                ],
+                "Tatar": [
+                    "Китап"
+                ],
+                "Bashkir": [
+                    "Китап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Ыйык Куран"
+                ]
+            }
+        }
+    ]
+}

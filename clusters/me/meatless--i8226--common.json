@@ -1,0 +1,110 @@
+{
+    "id": "i8226",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "meatless",
+    "en_definition": "lacking meat",
+    "tr_word": "etsiz",
+    "tr_definition": "içinde et bulunmayan, et içermeyen",
+    "ru_word": "безмясной",
+    "ru_definition": "не содержащий мяса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "etsiz"
+                ],
+                "Azerbaijani": [
+                    "ətsiz"
+                ],
+                "Turkmen": [
+                    "etsiz",
+                    "et goşulmadyk"
+                ],
+                "Kazakh": [
+                    "етсіз"
+                ],
+                "Kyrgyz": [
+                    "этсиз",
+                    "эт кошулбаган"
+                ],
+                "Tatar": [
+                    "итсез",
+                    "итсез-майсыз"
+                ],
+                "Bashkir": [
+                    "итһеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "go'shtsiz"
+                ],
+                "Uyghur": [
+                    "گۆشسىز",
+                    "گۆش يوق"
+                ],
+                "Karakalpak": [
+                    "góshsiz",
+                    "góshi joq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "perhiz"
+                ],
+                "Azerbaijani": [
+                    "pəhriz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sebzeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bitki mənşəli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "be-go'sht"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оразалық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шөптік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "итһеҙ-ашһыҙ"
+                ]
+            }
+        }
+    ]
+}

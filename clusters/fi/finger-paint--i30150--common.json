@@ -1,0 +1,70 @@
+{
+    "id": "i30150",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "finger-paint",
+    "en_definition": "apply colors with one's fingers",
+    "tr_word": "parmak boyası yapmak",
+    "tr_definition": "renkleri parmaklarını kullanarak uygulamak",
+    "ru_word": "рисовать пальцами",
+    "ru_definition": "наносить краски пальцами рук",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "parmakla boyamak",
+                    "parmak boyası yapmak"
+                ],
+                "Azerbaijani": [
+                    "barmaqla boyamaq",
+                    "barmaqla rəngləmək"
+                ],
+                "Turkmen": [
+                    "barmak bilen reňklemek",
+                    "barmak bilen çekmek",
+                    "barmak bilen boýamak"
+                ],
+                "Uzbek": [
+                    "barmoq bilan bo'yamoq",
+                    "barmoq bilan chizmoq",
+                    "barmoq bilan rang bermoq"
+                ],
+                "Uyghur": [
+                    "بارماق بىلەن بويىماق",
+                    "بارماق بىلەن سىزمىق"
+                ],
+                "Tatar": [
+                    "бармак белән буяу",
+                    "бармак белән язу",
+                    "бармак белән төшерү"
+                ],
+                "Bashkir": [
+                    "бармаҡ менән буяу",
+                    "бармаҡ менән һүрәт төшөрөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саусақпен бояу",
+                    "саусақпен сурет салу"
+                ],
+                "Karakalpak": [
+                    "sausaq penen boyau",
+                    "sausaq penen súrtiu",
+                    "sausaq penen sızıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "манжа менен боё",
+                    "манжа менен сүрөт тарт"
+                ]
+            }
+        }
+    ]
+}

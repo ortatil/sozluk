@@ -1,0 +1,63 @@
+{
+    "id": "i11115",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "right-handed",
+    "en_definition": "using or intended for the right hand",
+    "tr_word": "sağlak",
+    "tr_definition": "sağ elini kullanan veya sağ el için tasarlanmış olan",
+    "ru_word": "правша",
+    "ru_definition": "человек, использующий преимущественно правую руку, или предмет, предназначенный для правой руки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'ngqay",
+                    "o'ng qo'lli"
+                ],
+                "Uyghur": [
+                    "ئوڭخاي",
+                    "ئوڭ قوللۇق"
+                ],
+                "Kazakh": [
+                    "оңқай",
+                    "оң қолды"
+                ],
+                "Kyrgyz": [
+                    "оң кол",
+                    "оңчул"
+                ],
+                "Karakalpak": [
+                    "ońqay",
+                    "oń qollı"
+                ],
+                "Tatar": [
+                    "уңай",
+                    "уң куллы"
+                ],
+                "Bashkir": [
+                    "уңай",
+                    "уң ҡуллы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağlak",
+                    "sağ elini kullanan"
+                ],
+                "Azerbaijani": [
+                    "sağaxay",
+                    "sağ əlli"
+                ],
+                "Turkmen": [
+                    "sagak",
+                    "sag el"
+                ]
+            }
+        }
+    ]
+}

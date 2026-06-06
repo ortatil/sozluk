@@ -1,0 +1,71 @@
+{
+    "id": "i51827",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chessboard",
+    "en_definition": "a checkerboard used to play chess",
+    "tr_word": "satranç tahtası",
+    "tr_definition": "satranç oynamak için kullanılan, üzerinde 64 kare bulunan kare biçimindeki alan",
+    "ru_word": "шахматная доска",
+    "ru_definition": "квадратное поле из 64 клеток, предназначенное для игры в шахматы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şahmat lövhəsi",
+                    "şahmat taxtası"
+                ],
+                "Uzbek": [
+                    "shaxmat taxtasi"
+                ],
+                "Uyghur": [
+                    "شاھمات تاختىسى"
+                ],
+                "Kazakh": [
+                    "шахмат тақтасы",
+                    "шахмат алаңы"
+                ],
+                "Kyrgyz": [
+                    "шахмат тактасы",
+                    "шахмат доскасы"
+                ],
+                "Karakalpak": [
+                    "shaxmat taxtası",
+                    "shaxmat maydanı"
+                ],
+                "Tatar": [
+                    "шахмат тактасы",
+                    "шахмат мәйданы"
+                ],
+                "Bashkir": [
+                    "шахмат таҡтаһы",
+                    "шахмат майҙаны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satranç tahtası",
+                    "satranç alanı"
+                ],
+                "Uzbek": [
+                    "shatranj taxtasi"
+                ],
+                "Uyghur": [
+                    "شەترەنج تاختىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "küşt tagtasy",
+                    "küşt meýdançasy"
+                ]
+            }
+        }
+    ]
+}

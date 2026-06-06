@@ -1,0 +1,95 @@
+{
+    "id": "i114561",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "caffeine",
+    "en_definition": "a bitter alkaloid found in coffee and tea that is responsible for their stimulating effects",
+    "tr_word": "kafein",
+    "tr_definition": "kahve ve çayda bulunan, uyarıcı etkileri olan acı bir alkaloid",
+    "ru_word": "кофеин",
+    "ru_definition": "горький алкалоид, содержащийся в кофе и чае, отвечающий за их стимулирующее действие",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kafein"
+                ],
+                "Azerbaijani": [
+                    "kafein"
+                ],
+                "Turkmen": [
+                    "kafein",
+                    "kofein"
+                ],
+                "Uzbek": [
+                    "kofein"
+                ],
+                "Uyghur": [
+                    "كوفېئىن"
+                ],
+                "Kazakh": [
+                    "кофеин"
+                ],
+                "Kyrgyz": [
+                    "кофеин"
+                ],
+                "Karakalpak": [
+                    "kofein"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kahve cevheri"
+                ],
+                "Azerbaijani": [
+                    "qəhvə cövhəri"
+                ],
+                "Uyghur": [
+                    "قەھۋە جەۋھىرى"
+                ],
+                "Tatar": [
+                    "кәһвә матдәсе",
+                    "кәһвәин"
+                ],
+                "Bashkir": [
+                    "кәһүә матдәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сергіткіш зат"
+                ],
+                "Kyrgyz": [
+                    "сергитүүчү зат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uyarıcı madde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zahar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәй матдәһе"
+                ]
+            }
+        }
+    ]
+}

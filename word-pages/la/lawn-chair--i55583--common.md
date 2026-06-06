@@ -1,0 +1,173 @@
+# Lawn chair
+| Field | Detail |
+|---|---|
+| **ID** | i55583 |
+| **English** | lawn chair |
+| **Type** | noun |
+| **Definition** | chair left outside for use on a lawn or in a garden |
+| **Source** | common |
+| **Ortatil** | ärämkırsi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i55583",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lawn chair",
+    "en_definition": "chair left outside for use on a lawn or in a garden",
+    "tr_word": "bahçe sandalyesi",
+    "tr_definition": "Bahçede veya çimlerin üzerinde kullanılmak üzere tasarlanmış dış mekan sandalyesi.",
+    "ru_word": "шезлонг",
+    "ru_definition": "Легкое кресло для отдыха на открытом воздухе, в саду или на лужайке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bahçe sandalyesi"
+                ],
+                "Azerbaijani": [
+                    "bağ kürsüsü"
+                ],
+                "Turkmen": [
+                    "bag oturgyjy"
+                ],
+                "Uzbek": [
+                    "bog' kursi"
+                ],
+                "Uyghur": [
+                    "باغچا ئورۇندۇقى"
+                ],
+                "Kazakh": [
+                    "бақша орындығы"
+                ],
+                "Kyrgyz": [
+                    "бакча отургучу"
+                ],
+                "Karakalpak": [
+                    "baǵ orındıǵı"
+                ],
+                "Tatar": [
+                    "бакча урындыгы"
+                ],
+                "Bashkir": [
+                    "баҡса ултырғысы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "katlanır sandalye"
+                ],
+                "Azerbaijani": [
+                    "qatlanan kürsü"
+                ],
+                "Uyghur": [
+                    "قاتلىما ئورۇندۇق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бүктемелі орындық"
+                ],
+                "Kyrgyz": [
+                    "бүктөмө отургуч"
+                ],
+                "Karakalpak": [
+                    "búkpeli orındıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "seýilgäh oturgyjy"
+                ],
+                "Uyghur": [
+                    "سەيلە ئورۇندۇقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yozgi kursi"
+                ],
+                "Kyrgyz": [
+                    "жайкы отургуч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "демалыс орындығы"
+                ],
+                "Karakalpak": [
+                    "demalıs orındıǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şezlong"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bağ oturacağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səfəri kürsü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daşary oturgyjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oromkursi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җайлы урындык",
+                    "ял урындыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "күсмә ултырғыс"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,129 @@
+{
+    "id": "i116588",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "writing paper",
+    "en_definition": "paper material made into thin sheets that are sized to take ink; used for writing correspondence and manuscripts",
+    "tr_word": "yazı kâğıdı",
+    "tr_definition": "Mektup veya yazı yazmak için kullanılan, mürekkebi dağıtmayacak şekilde hazırlanmış kâğıt.",
+    "ru_word": "пишущая бумага",
+    "ru_definition": "Бумага, предназначенная для письма чернилами или карандашом, обладающая определенной плотностью и гладкостью.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazı kağıdı"
+                ],
+                "Azerbaijani": [
+                    "yazı kağızı"
+                ],
+                "Turkmen": [
+                    "ýazuw kagyzy"
+                ],
+                "Uzbek": [
+                    "yozuv qog'ozi"
+                ],
+                "Uyghur": [
+                    "يېزىق قەغىزى"
+                ],
+                "Kazakh": [
+                    "жазу қағазы"
+                ],
+                "Kyrgyz": [
+                    "жазуу кагазы"
+                ],
+                "Karakalpak": [
+                    "jazıo qaǵazı"
+                ],
+                "Tatar": [
+                    "язу кәгазе"
+                ],
+                "Bashkir": [
+                    "яҙыу ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kağıt"
+                ],
+                "Azerbaijani": [
+                    "kağız"
+                ],
+                "Turkmen": [
+                    "kagyz"
+                ],
+                "Uzbek": [
+                    "qog'oz"
+                ],
+                "Karakalpak": [
+                    "qaǵaz"
+                ],
+                "Tatar": [
+                    "кәгазь"
+                ],
+                "Bashkir": [
+                    "ҡағыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oq qog'oz"
+                ],
+                "Uyghur": [
+                    "ئاق قەغەز"
+                ],
+                "Kazakh": [
+                    "хат қағазы",
+                    "ақ қағаз"
+                ],
+                "Kyrgyz": [
+                    "ак кагаз"
+                ],
+                "Karakalpak": [
+                    "xat qaǵaz"
+                ],
+                "Bashkir": [
+                    "хат ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mektup kağıdı"
+                ],
+                "Uzbek": [
+                    "maktub qog'ozi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vərəq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەت قەغىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кат кагазы"
+                ]
+            }
+        }
+    ]
+}

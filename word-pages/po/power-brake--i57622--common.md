@@ -1,0 +1,150 @@
+# Power brake
+| Field | Detail |
+|---|---|
+| **ID** | i57622 |
+| **English** | power brake |
+| **Type** | noun |
+| **Definition** | a brake on an automobile that magnifies a small force applied to the brake pedal into a proportionately larger force applied to slow or stop the vehicle |
+| **Source** | common |
+| **Ortatil** | serwofren |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i57622",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "power brake",
+    "en_definition": "a brake on an automobile that magnifies a small force applied to the brake pedal into a proportionately larger force applied to slow or stop the vehicle",
+    "tr_word": "servofren",
+    "tr_definition": "fren pedalına uygulanan küçük bir kuvveti, aracı yavaşlatmak veya durdurmak için orantılı olarak daha büyük bir kuvvete dönüştüren fren sistemi",
+    "ru_word": "усилитель тормозов",
+    "ru_definition": "тормозное устройство автомобиля, которое увеличивает небольшое усилие, приложенное к педали тормоза, в пропорционально большее усилие для замедления или остановки транспортного средства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kuchaytirgichli tormoz"
+                ],
+                "Uyghur": [
+                    "كۈچەيتىلگەن تورمۇز"
+                ],
+                "Kazakh": [
+                    "күшейткіш тежегіш",
+                    "күшейтілген тежегіш"
+                ],
+                "Kyrgyz": [
+                    "күчөткүч тормоз",
+                    "күчөтүлгөн тормоз",
+                    "күчөткүчтүү тормоз"
+                ],
+                "Karakalpak": [
+                    "kúsheytkishli tejegish"
+                ],
+                "Tatar": [
+                    "көчәйткечле тормоз",
+                    "көчәйткечле туктаткыч"
+                ],
+                "Bashkir": [
+                    "көсәйткес тормоз",
+                    "көсәйткес тормоз ҡоролмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güçlendirilmiş fren"
+                ],
+                "Azerbaijani": [
+                    "gücləndirilmiş tormoz",
+                    "gücləndirici tormoz sistemi"
+                ],
+                "Turkmen": [
+                    "güýçlendiriji tormoz",
+                    "güýçlendirilen tormoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tormoz güýçlendirijisi"
+                ],
+                "Uzbek": [
+                    "tormoz kuchaytirgichi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hidrolik fren"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havalı fren"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "servofren"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vakuumlu tormoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quvvatli tormoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياردەمچى تورمۇز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گىدراۋلىك تورمۇز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "пневматикалық тежегіш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kúsheytpeli tejegish"
+                ]
+            }
+        }
+    ]
+}
+```
+

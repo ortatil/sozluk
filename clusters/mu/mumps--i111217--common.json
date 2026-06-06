@@ -1,0 +1,112 @@
+{
+    "id": "i111217",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mumps",
+    "en_definition": "an acute contagious viral disease characterized by fever and by swelling of the parotid glands",
+    "tr_word": "kabakulak",
+    "tr_definition": "Ateş ve parotis bezlerinin şişmesi ile karakterize, akut bulaşıcı viral bir hastalık.",
+    "ru_word": "свинка",
+    "ru_definition": "Острое заразное вирусное заболевание, характеризующееся лихорадкой и опуханием околоушных желез.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qulaqdibi"
+                ],
+                "Turkmen": [
+                    "gulakdüýbi",
+                    "gulagyň aşagy",
+                    "gulakçy"
+                ],
+                "Uzbek": [
+                    "quloqorti"
+                ],
+                "Uyghur": [
+                    "قۇلاق تۈۋى ياللۇغى",
+                    "قۇلاق تۈۋى ئىششىقى",
+                    "قۇلاق تۈۋى"
+                ],
+                "Kazakh": [
+                    "құлақісік"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kabakulak"
+                ],
+                "Kyrgyz": [
+                    "кулак шишик"
+                ],
+                "Tatar": [
+                    "колак төбе",
+                    "колак асты"
+                ],
+                "Bashkir": [
+                    "ҡолаҡ аҫты биҙе шешеүе",
+                    "ҡолаҡ шеше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bezecik"
+                ],
+                "Karakalpak": [
+                    "bez"
+                ],
+                "Bashkir": [
+                    "биҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tepki"
+                ],
+                "Kyrgyz": [
+                    "тешке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шошқабуын",
+                    "шошқажақ"
+                ],
+                "Karakalpak": [
+                    "shoshqajara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məxmərək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жаак шишик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "teńgespe"
+                ]
+            }
+        }
+    ]
+}

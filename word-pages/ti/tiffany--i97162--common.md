@@ -1,0 +1,119 @@
+# Tiffany
+| Field | Detail |
+|---|---|
+| **ID** | i97162 |
+| **English** | tiffany |
+| **Type** | noun |
+| **Definition** | United States artist who developed Tiffany glass (1848-1933) |
+| **Source** | common |
+| **Ortatil** | tiffani |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tiffani** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.50** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تىففانى | tiffani |
+| **Kazakh** | |
+| Тиффани | tiffani |
+| **Kyrgyz** | |
+| Тиффани | tiffani |
+| **Tatar** | |
+| Тиффани | tiffani |
+| **Bashkir** | |
+| Тиффани | tiffani |
+
+```json
+{
+    "id": "i97162",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tiffany",
+    "en_definition": "United States artist who developed Tiffany glass (1848-1933)",
+    "tr_word": "Tiffany",
+    "tr_definition": "Tiffany camını geliştiren Amerikalı sanatçı (1848-1933)",
+    "ru_word": "Тиффани",
+    "ru_definition": "Американский художник, создатель техники изготовления изделий из стекла (1848-1933)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Tiffany",
+                    "Louis Comfort Tiffany"
+                ],
+                "Azerbaijani": [
+                    "Luis Komfort Tiffani",
+                    "Tiffani"
+                ],
+                "Turkmen": [
+                    "Tiffany",
+                    "Tiffany aýnasy"
+                ],
+                "Uyghur": [
+                    "تىففانى",
+                    "لۇئىس كومفورت تىففانى"
+                ],
+                "Kazakh": [
+                    "Тиффани",
+                    "Луис Комфорт Тиффани"
+                ],
+                "Kyrgyz": [
+                    "Тиффани"
+                ],
+                "Karakalpak": [
+                    "Tiffani"
+                ],
+                "Tatar": [
+                    "Тиффани",
+                    "Луис Комфорт Тиффани"
+                ],
+                "Bashkir": [
+                    "Тиффани"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rassom"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shishasoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "san'atkor"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,155 @@
+{
+    "id": "i502",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "assassinated",
+    "en_definition": "murdered by surprise attack for political reasons",
+    "tr_word": "suikasta kurban gitmiş",
+    "tr_definition": "siyasi nedenlerle ani bir saldırı sonucu öldürülmüş",
+    "ru_word": "убитый",
+    "ru_definition": "убитый в результате спланированного нападения по политическим мотивам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "suikasta uğramış"
+                ],
+                "Turkmen": [
+                    "suýkast edilen"
+                ],
+                "Uzbek": [
+                    "suiqasd qilingan"
+                ],
+                "Uyghur": [
+                    "سۇيىقەست قىلىنغان",
+                    "سۇيىقەست بىلەن ئۆلتۈرۈلگەن"
+                ],
+                "Karakalpak": [
+                    "suiqast etilgen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öldürilen"
+                ],
+                "Uzbek": [
+                    "oʻldirilgan"
+                ],
+                "Kyrgyz": [
+                    "өлтүрүлгөн"
+                ],
+                "Tatar": [
+                    "үтерелгән"
+                ],
+                "Bashkir": [
+                    "үлтерелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "katledilmiş"
+                ],
+                "Azerbaijani": [
+                    "qətlə yetirilmiş"
+                ],
+                "Uzbek": [
+                    "qatl etilgan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "halok etilgan"
+                ],
+                "Tatar": [
+                    "һәлак ителгән"
+                ],
+                "Bashkir": [
+                    "һәләк ителгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қастандықпен өлтірілген"
+                ],
+                "Kyrgyz": [
+                    "кастан өлтүрүлгөн"
+                ],
+                "Karakalpak": [
+                    "qastandıqpen óltirilgen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жасырын өлтірілген"
+                ],
+                "Kyrgyz": [
+                    "жашыруун өлтүрүлгөн"
+                ],
+                "Karakalpak": [
+                    "jasırın óltirilgen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şehit edilmiş"
+                ],
+                "Turkmen": [
+                    "şehit edilen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sui-qəsdlə öldürülmüş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېررور قىلىنغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "опат болған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "суеп үтерелгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡорбан ителгән"
+                ]
+            }
+        }
+    ]
+}

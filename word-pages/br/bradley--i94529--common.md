@@ -1,0 +1,85 @@
+# Bradley
+| Field | Detail |
+|---|---|
+| **ID** | i94529 |
+| **English** | bradley |
+| **Type** | noun |
+| **Definition** | United States politician who was elected the first black mayor of Los Angeles (1917-1998) |
+| **Source** | common |
+| **Ortatil** | bradlay |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| برادلېي | bradley |
+| **Kazakh** | |
+| Брэдли | bredli |
+
+```json
+{
+    "id": "i94529",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bradley",
+    "en_definition": "United States politician who was elected the first black mayor of Los Angeles (1917-1998)",
+    "tr_word": "Bradley",
+    "tr_definition": "Los Angeles'ın ilk siyahi belediye başkanı seçilen Amerikalı siyasetçi (1917-1998)",
+    "ru_word": "Брэдли",
+    "ru_definition": "Американский политик, избранный первым чернокожим мэром Лос-Анджелеса (1917-1998)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Tom Bradley",
+                    "Thomas Bradley"
+                ],
+                "Azerbaijani": [
+                    "Tom Bredli"
+                ],
+                "Turkmen": [
+                    "Tom Bredli"
+                ],
+                "Uzbek": [
+                    "Tom Bredli",
+                    "Tomas Bredli"
+                ],
+                "Uyghur": [
+                    "توم برادلېي"
+                ],
+                "Kazakh": [
+                    "Том Брэдли"
+                ],
+                "Kyrgyz": [
+                    "Том Брэдли"
+                ],
+                "Karakalpak": [
+                    "Tom Bredli"
+                ],
+                "Tatar": [
+                    "Том Брэдли"
+                ],
+                "Bashkir": [
+                    "Том Брэдли"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "برادلېي"
+                ],
+                "Kazakh": [
+                    "Брэдли"
+                ]
+            }
+        }
+    ]
+}
+```
+

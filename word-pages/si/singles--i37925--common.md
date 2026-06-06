@@ -1,0 +1,101 @@
+# Singles
+| Field | Detail |
+|---|---|
+| **ID** | i37925 |
+| **English** | singles |
+| **Type** | noun |
+| **Definition** | tennis played with one person on each side |
+| **Source** | common |
+| **Ortatil** | yekelik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i37925",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "singles",
+    "en_definition": "tennis played with one person on each side",
+    "tr_word": "tekler",
+    "tr_definition": "Her iki tarafta birer kişinin bulunduğu tenis maçı.",
+    "ru_word": "одиночный разряд",
+    "ru_definition": "Теннисный матч, в котором с каждой стороны участвует по одному игроку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýekelik",
+                    "ýekeleýin oýun"
+                ],
+                "Uzbek": [
+                    "yakka",
+                    "yakka tartib",
+                    "yakka oʻyin"
+                ],
+                "Uyghur": [
+                    "يەككە كىشىلىك مۇسابىقە",
+                    "يەككە ئويۇن"
+                ],
+                "Kazakh": [
+                    "жекелей сын",
+                    "жекелей ойын",
+                    "жекелей разряд"
+                ],
+                "Kyrgyz": [
+                    "жекеме-жеке оюн"
+                ],
+                "Karakalpak": [
+                    "jekelik oyın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "жалгыздык оюн"
+                ],
+                "Tatar": [
+                    "яңгыз уен"
+                ],
+                "Bashkir": [
+                    "яңғыҙҙар уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "birge-bir oyın"
+                ],
+                "Tatar": [
+                    "бергә-бер уен"
+                ],
+                "Bashkir": [
+                    "бергә-бер уйын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekler",
+                    "tekli oyun",
+                    "tekli maç"
+                ],
+                "Azerbaijani": [
+                    "təkbətək",
+                    "təkli",
+                    "təkli oyun"
+                ]
+            }
+        }
+    ]
+}
+```
+

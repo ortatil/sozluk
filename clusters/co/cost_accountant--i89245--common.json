@@ -1,0 +1,123 @@
+{
+    "id": "i89245",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cost accountant",
+    "en_definition": "a specialist in the systematic recording and analysis of the costs incident to production",
+    "tr_word": "maliyet muhasebecisi",
+    "tr_definition": "üretimle ilgili maliyetlerin sistematik kaydı ve analizi konusunda uzmanlaşmış kişi",
+    "ru_word": "бухгалтер-калькулятор",
+    "ru_definition": "специалист по систематическому учету и анализу затрат, связанных с производством",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çykdajy hasapçysy"
+                ],
+                "Uyghur": [
+                    "چىقىم ھېساباتچىسى"
+                ],
+                "Kazakh": [
+                    "шығын есепшісі"
+                ],
+                "Kyrgyz": [
+                    "чыгым эсепчиси"
+                ],
+                "Karakalpak": [
+                    "shıǵın esapshısı"
+                ],
+                "Tatar": [
+                    "чыгымнар хисапчысы"
+                ],
+                "Bashkir": [
+                    "сығымдар хисапсыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hesabdar"
+                ],
+                "Turkmen": [
+                    "hasapçy",
+                    "hasapdar"
+                ],
+                "Uzbek": [
+                    "hisobchi",
+                    "hisobdor"
+                ],
+                "Karakalpak": [
+                    "esapshı"
+                ],
+                "Tatar": [
+                    "хисапчы",
+                    "хисап белгече"
+                ],
+                "Bashkir": [
+                    "хисапсы",
+                    "хисап белгесе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "maliyet muhasebecisi",
+                    "maliyet uzmanı",
+                    "maliyet hesap uzmanı"
+                ],
+                "Azerbaijani": [
+                    "maliyyəçi"
+                ],
+                "Turkmen": [
+                    "maliýeçi"
+                ],
+                "Uzbek": [
+                    "moliya mutaxassisi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "есепші",
+                    "есеп маманы"
+                ],
+                "Kyrgyz": [
+                    "эсепчи",
+                    "эсеп-кысап адиси"
+                ],
+                "Karakalpak": [
+                    "esap-sanaq qánigesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mühasib"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sarf-xarajat hisobchisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەننەرخ ھېساباتچىسى",
+                    "تەننەرخ مۇھاسىبى"
+                ]
+            }
+        }
+    ]
+}

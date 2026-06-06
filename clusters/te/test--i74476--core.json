@@ -1,0 +1,145 @@
+{
+    "id": "i74476",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "test",
+    "en_definition": "a set of questions or exercises evaluating skill or knowledge",
+    "tr_word": "sınav",
+    "tr_definition": "bilgi veya yeteneği ölçmek için yapılan sorular veya alıştırmalar bütünü",
+    "ru_word": "тест",
+    "ru_definition": "набор вопросов или упражнений для оценки навыков или знаний",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınav"
+                ],
+                "Azerbaijani": [
+                    "sınaq"
+                ],
+                "Turkmen": [
+                    "synag"
+                ],
+                "Uzbek": [
+                    "sinov"
+                ],
+                "Uyghur": [
+                    "سىناق"
+                ],
+                "Kazakh": [
+                    "сынақ"
+                ],
+                "Kyrgyz": [
+                    "сынак",
+                    "сынамык"
+                ],
+                "Karakalpak": [
+                    "sınaq"
+                ],
+                "Tatar": [
+                    "сынау"
+                ],
+                "Bashkir": [
+                    "һынау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "imtihan"
+                ],
+                "Azerbaijani": [
+                    "imtahan"
+                ],
+                "Turkmen": [
+                    "imtahan"
+                ],
+                "Uzbek": [
+                    "imtihon"
+                ],
+                "Uyghur": [
+                    "ئىمتىھان"
+                ],
+                "Kazakh": [
+                    "емтихан"
+                ],
+                "Karakalpak": [
+                    "imtixan"
+                ],
+                "Tatar": [
+                    "имтихан"
+                ],
+                "Bashkir": [
+                    "имтихан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tekshiruv"
+                ],
+                "Uyghur": [
+                    "تەكشۈرۈش"
+                ],
+                "Kazakh": [
+                    "тексеру"
+                ],
+                "Kyrgyz": [
+                    "текшерүү"
+                ],
+                "Karakalpak": [
+                    "tekserіs"
+                ],
+                "Tatar": [
+                    "тикшерү"
+                ],
+                "Bashkir": [
+                    "тикшереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yoklama"
+                ],
+                "Azerbaijani": [
+                    "yoxlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "barlag"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бақылау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deneme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "суроо-жооп"
+                ]
+            }
+        }
+    ]
+}

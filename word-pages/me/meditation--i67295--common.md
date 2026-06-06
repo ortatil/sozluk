@@ -1,0 +1,237 @@
+# Meditation
+| Field | Detail |
+|---|---|
+| **ID** | i67295 |
+| **English** | meditation |
+| **Type** | noun |
+| **Definition** | (religion) contemplation of spiritual matters (usually on religious or philosophical subjects) |
+| **Source** | common |
+| **Ortatil** | täfäkkür, müraqaba, zikir |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **täfäkkür** | **müraqaba** | **zikir** | **mülähäzä** | **oylanuw** |
+|---|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ✅ | ✅ | ❌ | ✅ |
+| Uzbek | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ✅ | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ | ✅ | ❌ | ❌ |
+| Karakalpak | ✅ | ✅ | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ✅ | ❌ | ✅ |
+| Bashkir | ✅ | ❌ | ✅ | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 1 | 0.67 | 0.33 | 0.33 |
+| *Qarluq Subtotal* | 1 | 1 | 1 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0.80 | 1 | 0.20 | 0.80 |
+| *In All* | ✅ | ✅ | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |  | ✅ |
+| **O'TQ** | **3.80** | **3.80** | **3.67** | **2.03** | **1.63** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەپەككۇر | täpäkkur |
+| مۇراقىبە | muraqibä |
+| مۇلاھىزە | mulahizä |
+| زىكىر | zikir |
+| **Kazakh** | |
+| тәфәккүр | täfäkkür |
+| мұрақаба | muraqaba |
+| пікір | pikir |
+| ойлану | oylanu |
+| толғаныс | tolğanıs |
+| **Kyrgyz** | |
+| муракаба | murakaba |
+| зикир | zikir |
+| толгонуу | tolgonuu |
+| **Tatar** | |
+| тәфәккүр | täfäkkür |
+| мөракәбә | mörakäbä |
+| зикер | ziker |
+| уйлану | uylanu |
+| **Bashkir** | |
+| тәфәккүр | täfäkkür |
+| зикер | ziker |
+| уйланыу | uylanıu |
+| мөшәһәҙә | möşähäzä |
+
+```json
+{
+    "id": "i67295",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "meditation",
+    "en_definition": "(religion) contemplation of spiritual matters (usually on religious or philosophical subjects)",
+    "tr_word": "meditasyon",
+    "tr_definition": "Dini veya felsefi konular üzerinde derin düşünme; ruhsal bir odaklanma pratiği.",
+    "ru_word": "медитация",
+    "ru_definition": "Размышление о духовных вопросах, обычно на религиозные или философские темы; практика сосредоточения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tefekkür"
+                ],
+                "Azerbaijani": [
+                    "təfəkkür"
+                ],
+                "Turkmen": [
+                    "tefekkir"
+                ],
+                "Uzbek": [
+                    "tafakkur"
+                ],
+                "Uyghur": [
+                    "تەپەككۇر"
+                ],
+                "Kazakh": [
+                    "тәфәккүр"
+                ],
+                "Karakalpak": [
+                    "tápákkúr"
+                ],
+                "Tatar": [
+                    "тәфәккүр"
+                ],
+                "Bashkir": [
+                    "тәфәккүр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "murakabe"
+                ],
+                "Azerbaijani": [
+                    "muraqibə",
+                    "mükaşifə"
+                ],
+                "Turkmen": [
+                    "muraqaba"
+                ],
+                "Uzbek": [
+                    "muroqaba"
+                ],
+                "Uyghur": [
+                    "مۇراقىبە",
+                    "مۇلاھىزە"
+                ],
+                "Kazakh": [
+                    "мұрақаба"
+                ],
+                "Kyrgyz": [
+                    "муракаба"
+                ],
+                "Karakalpak": [
+                    "muraqaba"
+                ],
+                "Tatar": [
+                    "мөракәбә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "zikr"
+                ],
+                "Turkmen": [
+                    "pikir"
+                ],
+                "Uzbek": [
+                    "zikr"
+                ],
+                "Uyghur": [
+                    "زىكىر"
+                ],
+                "Kazakh": [
+                    "пікір"
+                ],
+                "Kyrgyz": [
+                    "зикир"
+                ],
+                "Karakalpak": [
+                    "pikir"
+                ],
+                "Tatar": [
+                    "зикер"
+                ],
+                "Bashkir": [
+                    "зикер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "oýlanma"
+                ],
+                "Kazakh": [
+                    "ойлану"
+                ],
+                "Kyrgyz": [
+                    "ой жүгүртүү"
+                ],
+                "Karakalpak": [
+                    "oylanıs"
+                ],
+                "Tatar": [
+                    "уйлану"
+                ],
+                "Bashkir": [
+                    "уйланыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mülahaza"
+                ],
+                "Uzbek": [
+                    "mulohaza"
+                ],
+                "Bashkir": [
+                    "мөшәһәҙә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "derin düşünce"
+                ],
+                "Kyrgyz": [
+                    "терең ой"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "толғаныс"
+                ],
+                "Kyrgyz": [
+                    "толгонуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "düşüncə"
+                ]
+            }
+        }
+    ]
+}
+```
+

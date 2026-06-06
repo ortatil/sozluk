@@ -1,0 +1,175 @@
+# Ticktacktoe
+| Field | Detail |
+|---|---|
+| **ID** | i38038 |
+| **English** | ticktacktoe |
+| **Type** | noun |
+| **Definition** | a game in which two players alternately put crosses and circles in one of the compartments of a square grid of nine spaces; the object is to get a row of three crosses or three circles before the opponent does |
+| **Source** | common |
+| **Ortatil** | üç-üç |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **üç-üç** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.03** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئۈچتاش | üçtaş |
+| **Kazakh** | |
+| крестик-нөлдік | krestik-nöldik |
+| **Kyrgyz** | |
+| крестик-нолик | krestik-nolik |
+| **Tatar** | |
+| өчле | öçle |
+| хачлар-нульләр | xaçlar-nullär |
+| **Bashkir** | |
+| тәртә-тәртә | tärtä-tärtä |
+
+```json
+{
+    "id": "i38038",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ticktacktoe",
+    "en_definition": "a game in which two players alternately put crosses and circles in one of the compartments of a square grid of nine spaces; the object is to get a row of three crosses or three circles before the opponent does",
+    "tr_word": "sos",
+    "tr_definition": "İki oyuncunun dokuz kareden oluşan bir ızgara üzerinde sırayla X ve O işaretleri koyarak, yatay, dikey veya çapraz bir sıra oluşturmaya çalıştığı oyun.",
+    "ru_word": "крестики-нолики",
+    "ru_definition": "Логическая игра между двумя противниками на квадратном поле 3 на 3 клетки, где один играет «крестиками», а второй — «ноликами».",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üç taş"
+                ],
+                "Turkmen": [
+                    "üç-üç"
+                ],
+                "Uzbek": [
+                    "uchta bir xil"
+                ],
+                "Uyghur": [
+                    "ئۈچتاش",
+                    "ئۈچ قاتار ئويۇنى"
+                ],
+                "Kazakh": [
+                    "үш табан"
+                ],
+                "Kyrgyz": [
+                    "үч тапан",
+                    "үч катар"
+                ],
+                "Karakalpak": [
+                    "úsh taban",
+                    "úsh tas"
+                ],
+                "Tatar": [
+                    "өчле",
+                    "өчле уен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iks-sıfır"
+                ],
+                "Turkmen": [
+                    "iks-nol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dokuz öýli"
+                ],
+                "Kazakh": [
+                    "тоғыз құмалақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katak-katak"
+                ],
+                "Kyrgyz": [
+                    "крестик-нолик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sos"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çarpı daire oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "x-o oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nol-va-krestik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "крестик-нөлдік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хачлар-нульләр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәртә-тәртә",
+                    "тәртә-тәртә уйыны",
+                    "тәртә-тәртә һыҙыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

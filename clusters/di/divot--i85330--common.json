@@ -1,0 +1,141 @@
+{
+    "id": "i85330",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "divot",
+    "en_definition": "a piece of turf dug out of a lawn or fairway (by an animals hooves or a golf club)",
+    "tr_word": "çim parçası",
+    "tr_definition": "Bir hayvanın toynağı veya golf sopası tarafından çimenden koparılan toprak ve ot parçası.",
+    "ru_word": "дивот",
+    "ru_definition": "Кусок дерна, выбитый клюшкой при ударе по мячу в гольфе или копытом животного.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çim parçası",
+                    "çim kalıbı"
+                ],
+                "Azerbaijani": [
+                    "çim"
+                ],
+                "Turkmen": [
+                    "çim"
+                ],
+                "Uzbek": [
+                    "chim",
+                    "chim bo'lagi"
+                ],
+                "Uyghur": [
+                    "چىم پارچىسى"
+                ],
+                "Kazakh": [
+                    "шым"
+                ],
+                "Kyrgyz": [
+                    "чым"
+                ],
+                "Karakalpak": [
+                    "shım"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "toprak parçası"
+                ],
+                "Azerbaijani": [
+                    "torpaq parçası"
+                ],
+                "Turkmen": [
+                    "turp",
+                    "toprak bölegi"
+                ],
+                "Uyghur": [
+                    "تۇپراق پارچىسى"
+                ],
+                "Kazakh": [
+                    "топырақ кесегі"
+                ],
+                "Karakalpak": [
+                    "topıraq kesegi"
+                ],
+                "Tatar": [
+                    "туфрак кисәге"
+                ],
+                "Bashkir": [
+                    "тупраҡ киҫәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kəsək"
+                ],
+                "Kazakh": [
+                    "кесек"
+                ],
+                "Kyrgyz": [
+                    "кесек чым",
+                    "кесек"
+                ],
+                "Karakalpak": [
+                    "kesek"
+                ],
+                "Tatar": [
+                    "кәс",
+                    "кәс кисәге"
+                ],
+                "Bashkir": [
+                    "кәҫ",
+                    "кәҫ киҫәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kopan çim"
+                ],
+                "Turkmen": [
+                    "goparylan ot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئويۇق"
+                ],
+                "Kazakh": [
+                    "ойық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko'chgan chim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كەتمەنچە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кеп"
+                ]
+            }
+        }
+    ]
+}

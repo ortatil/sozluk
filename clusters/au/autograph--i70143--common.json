@@ -1,0 +1,104 @@
+{
+    "id": "i70143",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "autograph",
+    "en_definition": "a person's own signature",
+    "tr_word": "imza",
+    "tr_definition": "bir kimsenin kendi el yazısıyla yazdığı adı",
+    "ru_word": "автограф",
+    "ru_definition": "собственноручная подпись человека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "imza"
+                ],
+                "Azerbaijani": [
+                    "imza"
+                ],
+                "Turkmen": [
+                    "imza"
+                ],
+                "Uzbek": [
+                    "imzo"
+                ],
+                "Uyghur": [
+                    "ئىمزا"
+                ],
+                "Kazakh": [
+                    "имза"
+                ],
+                "Kyrgyz": [
+                    "имза"
+                ],
+                "Karakalpak": [
+                    "imza"
+                ],
+                "Tatar": [
+                    "имза"
+                ],
+                "Bashkir": [
+                    "имза"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gol"
+                ],
+                "Kazakh": [
+                    "қолтаңба",
+                    "қол"
+                ],
+                "Kyrgyz": [
+                    "кол тамга",
+                    "кол"
+                ],
+                "Karakalpak": [
+                    "qoltańba"
+                ],
+                "Tatar": [
+                    "култамга"
+                ],
+                "Bashkir": [
+                    "ҡултамға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dəstxətt"
+                ],
+                "Uzbek": [
+                    "dastxat"
+                ],
+                "Uyghur": [
+                    "دەستخەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el yazısı"
+                ],
+                "Tatar": [
+                    "кулъязма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yazı"
+                ]
+            }
+        }
+    ]
+}

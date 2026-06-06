@@ -1,0 +1,109 @@
+{
+    "id": "i92096",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "poet",
+    "en_definition": "a writer of poems (the term is usually reserved for writers of good poetry)",
+    "tr_word": "şair",
+    "tr_definition": "Şiir yazan kimse, ozan.",
+    "ru_word": "поэт",
+    "ru_definition": "Писатель, создающий произведения в стихах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şair"
+                ],
+                "Azerbaijani": [
+                    "şair"
+                ],
+                "Turkmen": [
+                    "şahyr"
+                ],
+                "Uzbek": [
+                    "shoir"
+                ],
+                "Uyghur": [
+                    "شائىر"
+                ],
+                "Kazakh": [
+                    "шайыр"
+                ],
+                "Kyrgyz": [
+                    "шайыр"
+                ],
+                "Karakalpak": [
+                    "shayır"
+                ],
+                "Tatar": [
+                    "шагыйрь"
+                ],
+                "Bashkir": [
+                    "шағир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəzmkar"
+                ],
+                "Uzbek": [
+                    "nazmchi"
+                ],
+                "Uyghur": [
+                    "نەزمىگو"
+                ],
+                "Karakalpak": [
+                    "nazımshı"
+                ],
+                "Tatar": [
+                    "назыйм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақын"
+                ],
+                "Kyrgyz": [
+                    "акын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşmaçı"
+                ],
+                "Turkmen": [
+                    "goşgyçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ozan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "adib"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәсән"
+                ]
+            }
+        }
+    ]
+}

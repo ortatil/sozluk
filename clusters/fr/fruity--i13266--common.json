@@ -1,0 +1,84 @@
+{
+    "id": "i13266",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "fruity",
+    "en_definition": "tasting or smelling richly of or as of fruit",
+    "tr_word": "meyvemsi",
+    "tr_definition": "meyve tadı veya kokusu veren, meyve aromalı",
+    "ru_word": "фруктовый",
+    "ru_definition": "имеющий вкус или запах фруктов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyveli",
+                    "meyvemsi",
+                    "meyve tadında",
+                    "meyve kokulu"
+                ],
+                "Azerbaijani": [
+                    "meyvəli",
+                    "meyvə dadlı",
+                    "meyvə ətirli"
+                ],
+                "Turkmen": [
+                    "miweli",
+                    "miwe tagamly",
+                    "miwe ysly"
+                ],
+                "Uzbek": [
+                    "mevali",
+                    "mevador",
+                    "meva ta'mli",
+                    "meva hidli"
+                ],
+                "Uyghur": [
+                    "مېۋە پۇراقلىق",
+                    "مېۋە تەملىك",
+                    "مېۋىدار"
+                ],
+                "Karakalpak": [
+                    "miyueli",
+                    "miyue iyisli",
+                    "miyue damli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жемісті",
+                    "жеміс иісті",
+                    "жеміс дәмді"
+                ],
+                "Kyrgyz": [
+                    "жемиштүү",
+                    "жемиш даамдуу"
+                ],
+                "Tatar": [
+                    "җимешле",
+                    "җимеш сыман",
+                    "җимеш тәмле",
+                    "җимеш исле"
+                ],
+                "Bashkir": [
+                    "емешле",
+                    "емеш-еләк",
+                    "емеш тәме килгән",
+                    "емеш еҫле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мөмөлүү",
+                    "мөмө даамдуу"
+                ]
+            }
+        }
+    ]
+}

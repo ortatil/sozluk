@@ -1,0 +1,178 @@
+# Spaghetti sauce
+| Field | Detail |
+|---|---|
+| **ID** | i78342 |
+| **English** | spaghetti sauce |
+| **Type** | noun |
+| **Definition** | any of numerous sauces for spaghetti or other kinds of pasta |
+| **Source** | common |
+| **Ortatil** | säus |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **säus** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سوز | soz |
+| **Kazakh** | |
+| тұздық | tuzdıq |
+| нәрсу | närsu |
+| **Kyrgyz** | |
+| соус | sous |
+
+```json
+{
+    "id": "i78342",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spaghetti sauce",
+    "en_definition": "any of numerous sauces for spaghetti or other kinds of pasta",
+    "tr_word": "makarna sosu",
+    "tr_definition": "spagetti veya diğer makarna türleri için kullanılan çeşitli sosların genel adı",
+    "ru_word": "соус для спагетти",
+    "ru_definition": "любой из многочисленных соусов для спагетти или других видов макаронных изделий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "makarna sosu"
+                ],
+                "Azerbaijani": [
+                    "makaron sousu",
+                    "makaron xuruşu",
+                    "makaron qatığı"
+                ],
+                "Turkmen": [
+                    "makaron sousy",
+                    "makaron goşundysy",
+                    "makaron podlywasy"
+                ],
+                "Uzbek": [
+                    "makaron qaylasi"
+                ],
+                "Uyghur": [
+                    "ماكارون قىيامى",
+                    "ماكارون قىيمىسى"
+                ],
+                "Kazakh": [
+                    "макарон тұздығы"
+                ],
+                "Kyrgyz": [
+                    "макарон чыгы"
+                ],
+                "Tatar": [
+                    "макарон соусы",
+                    "макарон подливасы",
+                    "макарон тәмләткече"
+                ],
+                "Bashkir": [
+                    "макарон соусы",
+                    "макарон подливаһы",
+                    "макарон тәмләткесе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sous"
+                ],
+                "Kyrgyz": [
+                    "соус"
+                ],
+                "Karakalpak": [
+                    "sous"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұздық"
+                ],
+                "Karakalpak": [
+                    "tұzdıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "salça"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "terbiye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qayla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pasta qaylasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سوز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нәрсу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кесме чыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qattıq"
+                ]
+            }
+        }
+    ]
+}
+```
+

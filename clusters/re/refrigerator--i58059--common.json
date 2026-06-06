@@ -1,0 +1,104 @@
+{
+    "id": "i58059",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "refrigerator",
+    "en_definition": "white goods in which food can be stored at low temperatures",
+    "tr_word": "buzdolabı",
+    "tr_definition": "yiyeceklerin düşük sıcaklıklarda saklanabildiği beyaz eşya",
+    "ru_word": "холодильник",
+    "ru_definition": "бытовой прибор, в котором продукты могут храниться при низких температурах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soğutucu"
+                ],
+                "Azerbaijani": [
+                    "soyuducu"
+                ],
+                "Turkmen": [
+                    "sowadyjy"
+                ],
+                "Uyghur": [
+                    "سوۋۇتقۇچ"
+                ],
+                "Karakalpak": [
+                    "suıtqısh"
+                ],
+                "Tatar": [
+                    "суыткыч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "doňduryjy"
+                ],
+                "Uyghur": [
+                    "توڭلاتقۇ"
+                ],
+                "Kazakh": [
+                    "тоңазытқыш"
+                ],
+                "Kyrgyz": [
+                    "тоңдургуч"
+                ],
+                "Karakalpak": [
+                    "tońazıtqısh"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buzdolabı"
+                ],
+                "Azerbaijani": [
+                    "buzxana"
+                ],
+                "Bashkir": [
+                    "боҙлатҡыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sovutgich"
+                ],
+                "Bashkir": [
+                    "һыуытҡыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muzlatgich"
+                ],
+                "Kyrgyz": [
+                    "муздаткыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "салқындатқыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "суыткыч шкаф"
+                ]
+            }
+        }
+    ]
+}

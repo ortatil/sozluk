@@ -1,0 +1,104 @@
+{
+    "id": "i92793",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "scriptwriter",
+    "en_definition": "someone who writes scripts for plays or movies or broadcast dramas",
+    "tr_word": "senarist",
+    "tr_definition": "oyunlar, filmler veya radyo-televizyon dramaları için senaryo yazan kimse",
+    "ru_word": "сценарист",
+    "ru_definition": "автор сценария для кинофильма, спектакля или телепередачи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "senarist",
+                    "senaryo yazarı"
+                ],
+                "Azerbaijani": [
+                    "ssenarist",
+                    "ssenari müəllifi"
+                ],
+                "Turkmen": [
+                    "ssenariçi",
+                    "ssenariýaçy"
+                ],
+                "Uzbek": [
+                    "ssenariychi",
+                    "ssenariynavis"
+                ],
+                "Uyghur": [
+                    "سېنارىست",
+                    "سېنارىيە يازغۇچىسى"
+                ],
+                "Kazakh": [
+                    "сценарийші",
+                    "сценарий авторы"
+                ],
+                "Kyrgyz": [
+                    "сценарист",
+                    "сценарийчи"
+                ],
+                "Karakalpak": [
+                    "scenariyshi",
+                    "scenariy awtorı"
+                ],
+                "Tatar": [
+                    "сценарист",
+                    "сценарий язучы"
+                ],
+                "Bashkir": [
+                    "сценарист",
+                    "сценарий яҙыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dramaturq"
+                ],
+                "Turkmen": [
+                    "dramaturg"
+                ],
+                "Uzbek": [
+                    "dramaturg"
+                ],
+                "Uyghur": [
+                    "دراما يازغۇچىسى"
+                ],
+                "Kazakh": [
+                    "драматург"
+                ],
+                "Kyrgyz": [
+                    "драматург"
+                ],
+                "Karakalpak": [
+                    "dramaturg"
+                ],
+                "Tatar": [
+                    "драматург"
+                ],
+                "Bashkir": [
+                    "драматург"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oyun yazarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "metin yazarı"
+                ]
+            }
+        }
+    ]
+}

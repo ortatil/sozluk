@@ -1,0 +1,178 @@
+{
+    "id": "i82391",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "country",
+    "en_definition": "an area outside of cities and towns",
+    "tr_word": "kırsal",
+    "tr_definition": "şehir ve kasabaların dışındaki alan",
+    "ru_word": "сельская местность",
+    "ru_definition": "территория за пределами городов и поселков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "dala"
+                ],
+                "Uyghur": [
+                    "دالا"
+                ],
+                "Kazakh": [
+                    "дала"
+                ],
+                "Kyrgyz": [
+                    "талаа"
+                ],
+                "Karakalpak": [
+                    "dala"
+                ],
+                "Tatar": [
+                    "дала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "oba"
+                ],
+                "Uzbek": [
+                    "ovul"
+                ],
+                "Kazakh": [
+                    "ауыл"
+                ],
+                "Kyrgyz": [
+                    "айыл"
+                ],
+                "Karakalpak": [
+                    "auıl"
+                ],
+                "Tatar": [
+                    "авыл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kır",
+                    "kırsal"
+                ],
+                "Azerbaijani": [
+                    "qır"
+                ],
+                "Tatar": [
+                    "кыр"
+                ],
+                "Bashkir": [
+                    "ҡыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qishloq"
+                ],
+                "Kyrgyz": [
+                    "кыштак"
+                ],
+                "Karakalpak": [
+                    "qıstaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çöl"
+                ],
+                "Turkmen": [
+                    "çöl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taşra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kənd"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyrak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "meýdan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېزا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باياۋان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өңір"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аймақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ялан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төбәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ер"
+                ]
+            }
+        }
+    ]
+}

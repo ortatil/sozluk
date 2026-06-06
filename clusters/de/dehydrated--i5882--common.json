@@ -1,0 +1,127 @@
+{
+    "id": "i5882",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "dehydrated",
+    "en_definition": "preserved by removing natural moisture",
+    "tr_word": "kurutulmuş",
+    "tr_definition": "doğal nemi alınarak korunmuş",
+    "ru_word": "обезвоженный",
+    "ru_definition": "сохраненный путем удаления естественной влаги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurutulmuş",
+                    "kuru"
+                ],
+                "Azerbaijani": [
+                    "qurudulmuş",
+                    "quru"
+                ],
+                "Turkmen": [
+                    "guradylan",
+                    "gurak"
+                ],
+                "Uzbek": [
+                    "quritilgan"
+                ],
+                "Uyghur": [
+                    "قۇرۇتۇلغان",
+                    "قۇرۇق"
+                ],
+                "Kazakh": [
+                    "құрғатылған"
+                ],
+                "Kyrgyz": [
+                    "кургатылган",
+                    "кургак"
+                ],
+                "Karakalpak": [
+                    "qurıtılǵan"
+                ],
+                "Tatar": [
+                    "корытылган"
+                ],
+                "Bashkir": [
+                    "ҡоротолған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "susuz"
+                ],
+                "Azerbaijani": [
+                    "susuzlaşdırılmış"
+                ],
+                "Turkmen": [
+                    "suwsyz"
+                ],
+                "Uzbek": [
+                    "suvsizlantirilgan"
+                ],
+                "Uyghur": [
+                    "سۇسىزلانغان"
+                ],
+                "Kazakh": [
+                    "сусыз"
+                ],
+                "Tatar": [
+                    "сусызландырылган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кептірілген",
+                    "кепкен"
+                ],
+                "Karakalpak": [
+                    "kepken",
+                    "keptirilgen",
+                    "keppe"
+                ],
+                "Tatar": [
+                    "киптерелгән"
+                ],
+                "Bashkir": [
+                    "киптерелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kak"
+                ],
+                "Uzbek": [
+                    "qoqi"
+                ],
+                "Kyrgyz": [
+                    "какталган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nemsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыуһыҙландырылған"
+                ]
+            }
+        }
+    ]
+}

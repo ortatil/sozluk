@@ -1,0 +1,98 @@
+{
+    "id": "i36861",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "watering",
+    "en_definition": "wetting with water",
+    "tr_word": "sulama",
+    "tr_definition": "su ile ıslatma veya bitkilere su verme işlemi",
+    "ru_word": "полив",
+    "ru_definition": "процесс увлажнения водой, обычно растений или почвы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sulama",
+                    "suvarma",
+                    "islatma"
+                ],
+                "Azerbaijani": [
+                    "suvarma",
+                    "sulama"
+                ],
+                "Turkmen": [
+                    "suwarmak",
+                    "suwaryş",
+                    "suw bermek"
+                ],
+                "Uzbek": [
+                    "sugʻorish",
+                    "suv berish",
+                    "suvlash"
+                ],
+                "Uyghur": [
+                    "سۇغىرىش",
+                    "سۇ بېرىش"
+                ],
+                "Kazakh": [
+                    "суғару",
+                    "сулау"
+                ],
+                "Kyrgyz": [
+                    "сугаруу",
+                    "сугаруучулук"
+                ],
+                "Karakalpak": [
+                    "suǵarıo",
+                    "suo sebio",
+                    "suolandırıo"
+                ],
+                "Tatar": [
+                    "сугару",
+                    "сулату"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "namlash"
+                ],
+                "Uyghur": [
+                    "نەمداش"
+                ],
+                "Kyrgyz": [
+                    "нымдоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "суулоо"
+                ],
+                "Tatar": [
+                    "су сибү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ылғалдандыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыулау",
+                    "һыу һибеү",
+                    "һыуғарыу"
+                ]
+            }
+        }
+    ]
+}

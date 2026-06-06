@@ -1,0 +1,195 @@
+# Final examination
+| Field | Detail |
+|---|---|
+| **ID** | i74480 |
+| **English** | final examination |
+| **Type** | noun |
+| **Definition** | an examination administered at the end of an academic term |
+| **Source** | common |
+| **Ortatil** | sınaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| сынақ | sınaq |
+
+```json
+{
+    "id": "i74480",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "final examination",
+    "en_definition": "an examination administered at the end of an academic term",
+    "tr_word": "final sınavı",
+    "tr_definition": "akademik bir dönemin sonunda uygulanan sınav",
+    "ru_word": "выпускной экзамен",
+    "ru_definition": "экзамен, проводимый в конце учебного семестра или года",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "son imtahan"
+                ],
+                "Turkmen": [
+                    "soňky synag"
+                ],
+                "Uzbek": [
+                    "soʻnggi imtihon"
+                ],
+                "Karakalpak": [
+                    "sońǵı imtixan"
+                ],
+                "Tatar": [
+                    "соңгы имтихан"
+                ],
+                "Bashkir": [
+                    "һуңғы имтихан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bitirme sınavı"
+                ],
+                "Azerbaijani": [
+                    "bitirmə imtahanı"
+                ],
+                "Kazakh": [
+                    "бітіру емтиханы"
+                ],
+                "Kyrgyz": [
+                    "бүтүрүүчү сынак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yekun imtahan"
+                ],
+                "Uzbek": [
+                    "yakuniy imtihon",
+                    "yakuniy sinov"
+                ],
+                "Uyghur": [
+                    "يەكۈنلەش ئىمتىھانى"
+                ],
+                "Kyrgyz": [
+                    "жыйынтыктоочу сынак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jemleýji synag"
+                ],
+                "Kazakh": [
+                    "сынақ"
+                ],
+                "Karakalpak": [
+                    "sınaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "juomaqlaoshı imtixan"
+                ],
+                "Tatar": [
+                    "йомгаклау имтиханы"
+                ],
+                "Bashkir": [
+                    "йомыҡлау имтиханы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاخىرقى ئىمتىھان"
+                ],
+                "Kyrgyz": [
+                    "акыркы сынак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "final sınavı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yıl sonu sınavı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dönem sonu sınavı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gutaryş synagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "imtahan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈگىتىش ئىمتىھانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қорытынды емтихан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәмамлау имтиханы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аҙаҡҡы имтихан"
+                ]
+            }
+        }
+    ]
+}
+```
+

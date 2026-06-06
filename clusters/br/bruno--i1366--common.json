@@ -1,0 +1,103 @@
+{
+    "id": "i1366",
+    "type": "unknown",
+    "batch": "common",
+    "en_word": "bruno",
+    "en_definition": "detto di persona dai capelli scuri",
+    "tr_word": "esmer",
+    "tr_definition": "saçı ve teni koyu renkli olan kimse",
+    "ru_word": "брюнет",
+    "ru_definition": "человек с тёмными волосами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karaşın"
+                ],
+                "Azerbaijani": [
+                    "qaraşın"
+                ],
+                "Turkmen": [
+                    "garaşyn",
+                    "gara"
+                ],
+                "Uzbek": [
+                    "qora",
+                    "qoramagʻiz"
+                ],
+                "Uyghur": [
+                    "قارا چاچلىق",
+                    "قارا چاچ"
+                ],
+                "Kazakh": [
+                    "қараторы",
+                    "қара"
+                ],
+                "Kyrgyz": [
+                    "кара тору",
+                    "кара чачтуу"
+                ],
+                "Karakalpak": [
+                    "qara",
+                    "qaratorı"
+                ],
+                "Tatar": [
+                    "кара",
+                    "кара чәчле",
+                    "карасу"
+                ],
+                "Bashkir": [
+                    "ҡара",
+                    "ҡараһыу",
+                    "ҡара сәсле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bugdaýreňk"
+                ],
+                "Uzbek": [
+                    "bugʻdoyrang"
+                ],
+                "Uyghur": [
+                    "بۇغداي ئۆڭ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қоңыр"
+                ],
+                "Kyrgyz": [
+                    "коңур"
+                ],
+                "Karakalpak": [
+                    "qońır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "esmer"
+                ],
+                "Azerbaijani": [
+                    "əsmər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yağız"
+                ]
+            }
+        }
+    ]
+}

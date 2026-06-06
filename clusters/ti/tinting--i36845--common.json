@@ -1,0 +1,144 @@
+{
+    "id": "i36845",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tinting",
+    "en_definition": "the act of adding a tinge of color",
+    "tr_word": "renklendirme",
+    "tr_definition": "Hafif bir renk tonu ekleme eylemi",
+    "ru_word": "тонирование",
+    "ru_definition": "Действие по добавлению легкого оттенка цвета",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boyama"
+                ],
+                "Azerbaijani": [
+                    "boyama"
+                ],
+                "Turkmen": [
+                    "boýama"
+                ],
+                "Uzbek": [
+                    "bo'yash"
+                ],
+                "Uyghur": [
+                    "بويۇتۇش"
+                ],
+                "Kazakh": [
+                    "бояулау"
+                ],
+                "Kyrgyz": [
+                    "боёо",
+                    "боёктоо"
+                ],
+                "Karakalpak": [
+                    "boyao"
+                ],
+                "Tatar": [
+                    "буяу"
+                ],
+                "Bashkir": [
+                    "буяу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "renklendirme",
+                    "renk verme"
+                ],
+                "Azerbaijani": [
+                    "rəngləmə",
+                    "rəngləndirmə"
+                ],
+                "Turkmen": [
+                    "reňk berme",
+                    "reňkleme"
+                ],
+                "Uzbek": [
+                    "rang berish"
+                ],
+                "Uyghur": [
+                    "رەڭ بېرىش",
+                    "رەڭلەش"
+                ],
+                "Kazakh": [
+                    "рең беру",
+                    "реңдеу"
+                ],
+                "Karakalpak": [
+                    "reńleo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tus berish"
+                ],
+                "Kazakh": [
+                    "түстендіру"
+                ],
+                "Kyrgyz": [
+                    "түс берүү"
+                ],
+                "Karakalpak": [
+                    "tús berio"
+                ],
+                "Tatar": [
+                    "төсмерләү",
+                    "төс бирү",
+                    "төсләндерү"
+                ],
+                "Bashkir": [
+                    "төҫләү",
+                    "төҫ биреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çalarlandırma"
+                ],
+                "Uzbek": [
+                    "jilo berish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tonlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öwüşgin berme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өң берүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "биҙәү"
+                ]
+            }
+        }
+    ]
+}

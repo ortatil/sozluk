@@ -1,0 +1,132 @@
+{
+    "id": "i86245",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stepping stone",
+    "en_definition": "a stone in a marsh or shallow water that can be stepped on in crossing",
+    "tr_word": "atlama taşı",
+    "tr_definition": "Sığ su veya bataklık gibi yerlerden geçmek için üzerine basılan taşlardan her biri.",
+    "ru_word": "камень для перехода",
+    "ru_definition": "Камень, выступающий из воды или грязи, на который наступают при переходе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geçit taşı"
+                ],
+                "Azerbaijani": [
+                    "keçid daşı"
+                ],
+                "Turkmen": [
+                    "geçit daşy"
+                ],
+                "Uzbek": [
+                    "kechuvtosh"
+                ],
+                "Uyghur": [
+                    "كېچىك تېشى"
+                ],
+                "Kazakh": [
+                    "кешу тас"
+                ],
+                "Kyrgyz": [
+                    "кечүү таш"
+                ],
+                "Karakalpak": [
+                    "keshirme tas"
+                ],
+                "Tatar": [
+                    "кичү ташы"
+                ],
+                "Bashkir": [
+                    "кисеү ташы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "atlama taşı",
+                    "adım taşı"
+                ],
+                "Azerbaijani": [
+                    "atlama daşı"
+                ],
+                "Turkmen": [
+                    "atlam daşy"
+                ],
+                "Uyghur": [
+                    "ئاتلىما تاش"
+                ],
+                "Kazakh": [
+                    "аттама тас"
+                ],
+                "Kyrgyz": [
+                    "аттама таш"
+                ],
+                "Karakalpak": [
+                    "atlama tas"
+                ],
+                "Tatar": [
+                    "атлама таш"
+                ],
+                "Bashkir": [
+                    "атлама таш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "basgançak daşy"
+                ],
+                "Uyghur": [
+                    "بېسىم تاش"
+                ],
+                "Kyrgyz": [
+                    "басма таш"
+                ],
+                "Tatar": [
+                    "басма таш"
+                ],
+                "Bashkir": [
+                    "баҫма таш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өткел тас"
+                ],
+                "Karakalpak": [
+                    "ótkel tas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ayaq daşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toshko'prik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qadamtosh"
+                ]
+            }
+        }
+    ]
+}

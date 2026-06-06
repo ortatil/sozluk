@@ -1,0 +1,236 @@
+# Stick out
+| Field | Detail |
+|---|---|
+| **ID** | i35229 |
+| **English** | stick out |
+| **Type** | verb |
+| **Definition** | extend out or project in space |
+| **Source** | common |
+| **Ortatil** | uzalmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| созылу | sozılu |
+| қылтию | qıltiyu |
+| бұлтию | bultiyu |
+| **Kyrgyz** | |
+| кылтыйуу | kıltıyuu |
+| солоюу | soloyuu |
+| ыргыйуу | ırgıyuu |
+
+```json
+{
+    "id": "i35229",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "stick out",
+    "en_definition": "extend out or project in space",
+    "tr_word": "çıkıntı yapmak",
+    "tr_definition": "bir yüzeyden dışarıya doğru uzanmak veya fırlamak",
+    "ru_word": "торчать",
+    "ru_definition": "выдаваться вперед или в сторону, возвышаться над поверхностью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıkıntı yapmak"
+                ],
+                "Azerbaijani": [
+                    "çıxmaq",
+                    "çıxıntı vermək"
+                ],
+                "Turkmen": [
+                    "çykyp durmak"
+                ],
+                "Uzbek": [
+                    "chiqib turmoq"
+                ],
+                "Uyghur": [
+                    "چىقىپ تۇرماق"
+                ],
+                "Kazakh": [
+                    "шығып тұру"
+                ],
+                "Kyrgyz": [
+                    "чыгып туруу"
+                ],
+                "Karakalpak": [
+                    "shıǵıp tұru"
+                ],
+                "Tatar": [
+                    "чыгып тору"
+                ],
+                "Bashkir": [
+                    "сығып тороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pürkmek"
+                ],
+                "Uzbek": [
+                    "bo'rtib chiqmoq"
+                ],
+                "Uyghur": [
+                    "بۆرتۈپ چىقماق"
+                ],
+                "Karakalpak": [
+                    "bórtip shıǵu"
+                ],
+                "Tatar": [
+                    "бөртелеп тору"
+                ],
+                "Bashkir": [
+                    "бөртәйеп тороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ko'rinib turmoq"
+                ],
+                "Uyghur": [
+                    "كۆرۈنۈپ تۇرماق"
+                ],
+                "Kazakh": [
+                    "көрініп тұру"
+                ],
+                "Karakalpak": [
+                    "kórinip turıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سوزۇلۇپ چىقماق"
+                ],
+                "Kazakh": [
+                    "созылу"
+                ],
+                "Kyrgyz": [
+                    "созулуп туруу"
+                ],
+                "Karakalpak": [
+                    "sozılıp shıǵu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzanmak"
+                ],
+                "Azerbaijani": [
+                    "uzanmaq"
+                ],
+                "Turkmen": [
+                    "uzalyp durmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabarmaq"
+                ],
+                "Tatar": [
+                    "кабарып тору"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "serpilmek"
+                ],
+                "Bashkir": [
+                    "һерәйеп тороу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қылтию",
+                    "бұлтию"
+                ],
+                "Kyrgyz": [
+                    "кылтыйуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fırlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taşmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dikəlmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "turtib chiqmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "солоюу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ыргыйуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "алга чыгу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡалҡып тороу"
+                ]
+            }
+        }
+    ]
+}
+```
+

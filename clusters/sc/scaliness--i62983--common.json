@@ -1,0 +1,97 @@
+{
+    "id": "i62983",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "scaliness",
+    "en_definition": "the property of being scaly",
+    "tr_word": "pulluluk",
+    "tr_definition": "pullanmış olma durumu veya özelliği",
+    "ru_word": "чешуйчатость",
+    "ru_definition": "свойство или состояние поверхности, покрытой чешуйками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kepeklilik"
+                ],
+                "Azerbaijani": [
+                    "qabıqlılıq"
+                ],
+                "Turkmen": [
+                    "gabyklylyk"
+                ],
+                "Uzbek": [
+                    "qipiqlilik"
+                ],
+                "Kazakh": [
+                    "қабыршақтық",
+                    "қабыршақтылық",
+                    "қабыршақ"
+                ],
+                "Kyrgyz": [
+                    "кабырчыктуулук",
+                    "кабырчыктуу"
+                ],
+                "Karakalpak": [
+                    "qabırshaqlılıq",
+                    "qabırshaqlıq"
+                ],
+                "Tatar": [
+                    "кабырчыклылык"
+                ],
+                "Bashkir": [
+                    "ҡабырсаҡлылыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "teňňelilik",
+                    "teňňe-teňňelik"
+                ],
+                "Uzbek": [
+                    "tangachalik"
+                ],
+                "Uyghur": [
+                    "تەڭگىچىلىك",
+                    "تەڭگىچە سۈپەتلىك"
+                ],
+                "Tatar": [
+                    "тәңкәлелек"
+                ],
+                "Bashkir": [
+                    "тәңкәлелек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pulluluk",
+                    "pullanma"
+                ],
+                "Azerbaijani": [
+                    "pullaqlıq",
+                    "pulla örtülülük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "po'stloqlilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاسىراقلىق"
+                ]
+            }
+        }
+    ]
+}

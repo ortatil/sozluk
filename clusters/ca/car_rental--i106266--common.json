@@ -1,0 +1,104 @@
+{
+    "id": "i106266",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "car rental",
+    "en_definition": "a rented car",
+    "tr_word": "kiralık araba",
+    "tr_definition": "belirli bir süre için ücret karşılığında kiralanmış otomobil",
+    "ru_word": "арендованный автомобиль",
+    "ru_definition": "автомобиль, взятый во временное пользование за плату",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "icarə maşını",
+                    "icarəyə verilmiş avtomobil"
+                ],
+                "Uzbek": [
+                    "ijara mashina",
+                    "ijara avtomobil"
+                ],
+                "Uyghur": [
+                    "ئىجارە ئاپتوموبىل",
+                    "ئىجارە ماشىنا"
+                ],
+                "Kyrgyz": [
+                    "ижара унаа",
+                    "ижарага берилген унаа",
+                    "ижарадагы унаа"
+                ],
+                "Karakalpak": [
+                    "ijaraǵa alınǵan mashina",
+                    "ijaradaǵı kólik"
+                ],
+                "Tatar": [
+                    "иҗара машинасы",
+                    "иҗара автомобиле"
+                ],
+                "Bashkir": [
+                    "ижараға алынған машина",
+                    "ижара машинаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kiralık araba",
+                    "kiralık araç",
+                    "kiralık otomobil"
+                ],
+                "Azerbaijani": [
+                    "kirayə maşını",
+                    "kirayəlik avtomobil"
+                ],
+                "Turkmen": [
+                    "kireýine alnan ulag",
+                    "kireýine alnan maşyn",
+                    "kireýine berilýän ulag"
+                ],
+                "Uzbek": [
+                    "kiraya mashina"
+                ],
+                "Karakalpak": [
+                    "kiralanǵan mashina"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "килешүле машина"
+                ],
+                "Bashkir": [
+                    "ҡуртымға алынған машина"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік жалдау",
+                    "көлік жалдамасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалға алынған көлік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡуртымға алынған автомобиль"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "i49550",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blue marlin",
+    "en_definition": "largest marlin; may reach 2000 pounds; found worldwide in warm seas",
+    "tr_word": "mavi marlin",
+    "tr_definition": "2000 pound ağırlığa ulaşabilen, sıcak denizlerde yaşayan en büyük marlin türü.",
+    "ru_word": "синий марлин",
+    "ru_definition": "самый крупный представитель марлиновых, обитающий в теплых водах по всему миру и достигающий веса до 2000 фунтов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "göy marlin"
+                ],
+                "Turkmen": [
+                    "gök marlin",
+                    "gök naýzabalyk"
+                ],
+                "Uzbek": [
+                    "koʻk marlin"
+                ],
+                "Uyghur": [
+                    "كۆك مارلىن بېلىقى",
+                    "كۆك نەيزە بېلىق"
+                ],
+                "Kazakh": [
+                    "көк марлин",
+                    "көк найзабалық"
+                ],
+                "Kyrgyz": [
+                    "көк марлин",
+                    "көк найза-балык"
+                ],
+                "Karakalpak": [
+                    "kók marlin",
+                    "kók nayza-balıq"
+                ],
+                "Bashkir": [
+                    "күк марлин",
+                    "күк екәнбалыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mavi marlin",
+                    "mavi yelken balığı"
+                ],
+                "Azerbaijani": [
+                    "mavi marlin"
+                ],
+                "Uzbek": [
+                    "moviy marlin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зәңгәр марлин"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "марлин балыгы"
+                ]
+            }
+        }
+    ]
+}

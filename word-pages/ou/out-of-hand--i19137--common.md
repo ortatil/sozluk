@@ -1,0 +1,286 @@
+# Out of hand
+| Field | Detail |
+|---|---|
+| **ID** | i19137 |
+| **English** | out of hand |
+| **Type** | adverb |
+| **Definition** | out of control |
+| **Source** | common |
+| **Ortatil** | baş-başdağılma, ḍizginilsizä bilmäz |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **baş-başdağılma** | **ḍizginilsizä bilmäz** | **idäräolun** |
+|---|---|---|---|
+| Turkish | ❌ | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ | ✅ |
+| Turkmen | ✅ | ❌ | ❌ |
+| Uzbek | ❌ | ❌ | ✅ |
+| Uyghur | ✅ | ✅ | ❌ |
+| Kazakh | ✅ | ✅ | ❌ |
+| Kyrgyz | ✅ | ✅ | ❌ |
+| Karakalpak | ✅ | ✅ | ❌ |
+| Tatar | ✅ | ❌ | ✅ |
+| Bashkir | ❌ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.33 | 0.33 |
+| *Qarluq Subtotal* | 0.50 | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 0.80 | 0.60 | 0.20 |
+| *In All* | ✅ | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **2.97** | **2.43** | **2.03** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| باشقۇرۇشسىز | başquruşsiz |
+| تىزگىنلىگىسىز | tizginligisiz |
+| كونترولسىز | kontrolsiz |
+| **Kazakh** | |
+| басқарылмайтын | basqarılmaytın |
+| тізгінсіз | tizginsiz |
+| бағынбайтын | bağınbaytın |
+| еріксіз | yeriksiz |
+| бетімен | betimen |
+| **Kyrgyz** | |
+| башкарылгыс | başkarılgıs |
+| тизгинсиз | tizginsiz |
+| **Tatar** | |
+| башбаштак | başbaştak |
+| контрольсыз | kontrolsız |
+| идарәсез | idaräsez |
+| тыюсыз | tıyusız |
+| **Bashkir** | |
+| тыйыуһыҙ | tıyıuhız |
+| ирекһеҙ | irekhez |
+
+```json
+{
+    "id": "i19137",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "out of hand",
+    "en_definition": "out of control",
+    "tr_word": "kontrolden çıkmış",
+    "tr_definition": "denetlenemez veya idare edilemez bir durumda olan",
+    "ru_word": "вышедший из-под контроля",
+    "ru_definition": "состояние, при котором ситуация больше не поддается управлению",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başını almış"
+                ],
+                "Azerbaijani": [
+                    "başlı-başına",
+                    "başıboş"
+                ],
+                "Turkmen": [
+                    "baş-başdak"
+                ],
+                "Uzbek": [
+                    "boshqarib bo'lmas"
+                ],
+                "Uyghur": [
+                    "باشقۇرۇشسىز"
+                ],
+                "Kazakh": [
+                    "басқарылмайтын"
+                ],
+                "Kyrgyz": [
+                    "башкарылгыс"
+                ],
+                "Karakalpak": [
+                    "basqarılmaytın"
+                ],
+                "Tatar": [
+                    "башбаштак"
+                ],
+                "Bashkir": [
+                    "баш бирмәҫлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dizginlenemez"
+                ],
+                "Uyghur": [
+                    "تىزگىنلىگىسىز"
+                ],
+                "Kazakh": [
+                    "тізгінсіз"
+                ],
+                "Kyrgyz": [
+                    "тизгинсиз"
+                ],
+                "Karakalpak": [
+                    "tizginsiz"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kontrolden çıkmış"
+                ],
+                "Uyghur": [
+                    "كونترولسىز"
+                ],
+                "Tatar": [
+                    "контрольсыз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "idarəolunmaz"
+                ],
+                "Uzbek": [
+                    "itoatsiz"
+                ],
+                "Tatar": [
+                    "идарәсез"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "erkden çykan"
+                ],
+                "Uzbek": [
+                    "izdan chiqqan",
+                    "erkin"
+                ],
+                "Karakalpak": [
+                    "erkin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тыюсыз"
+                ],
+                "Bashkir": [
+                    "тыйыуһыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zapt edilemez"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çığırından çıkmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəzarətsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kadadan çykan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "özbaşdak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dolandyryp bolmaýan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jilovsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىلكىدىن چىققان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бағынбайтын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еріксіз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бетімен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ээ-жаа бербеген",
+                    "ээ бербеген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ılajsız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ирекһеҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡулдан ысҡынған"
+                ]
+            }
+        }
+    ]
+}
+```
+

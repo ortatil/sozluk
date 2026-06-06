@@ -1,0 +1,100 @@
+{
+    "id": "i57798",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "push button",
+    "en_definition": "an electrical switch operated by pressing",
+    "tr_word": "basmalı düğme",
+    "tr_definition": "üzerine basılarak çalıştırılan elektrik anahtarı",
+    "ru_word": "кнопка",
+    "ru_definition": "электрический выключатель, приводимый в действие нажатием",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düğme"
+                ],
+                "Azerbaijani": [
+                    "düymə"
+                ],
+                "Turkmen": [
+                    "düwme",
+                    "düwmejik"
+                ],
+                "Uzbek": [
+                    "tugma",
+                    "tugmacha"
+                ],
+                "Uyghur": [
+                    "تۈگمە"
+                ],
+                "Kazakh": [
+                    "түйме",
+                    "түймешік"
+                ],
+                "Kyrgyz": [
+                    "түймө"
+                ],
+                "Karakalpak": [
+                    "túyme",
+                    "túymeshe"
+                ],
+                "Tatar": [
+                    "төймә"
+                ],
+                "Bashkir": [
+                    "төймә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basma düğmesi"
+                ],
+                "Azerbaijani": [
+                    "basma düyməsi"
+                ],
+                "Turkmen": [
+                    "basgyç"
+                ],
+                "Uyghur": [
+                    "بېسىش تۈگمىسى",
+                    "باسقۇچ"
+                ],
+                "Kyrgyz": [
+                    "баскыч",
+                    "баскычтык"
+                ],
+                "Karakalpak": [
+                    "basqısh"
+                ],
+                "Tatar": [
+                    "баскыч"
+                ],
+                "Bashkir": [
+                    "баҫма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "buton"
+                ],
+                "Kazakh": [
+                    "батырма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tuş"
+                ]
+            }
+        }
+    ]
+}

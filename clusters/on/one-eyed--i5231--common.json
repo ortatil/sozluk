@@ -1,0 +1,130 @@
+{
+    "id": "i5231",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one-eyed",
+    "en_definition": "having or showing only one eye",
+    "tr_word": "tek gözlü",
+    "tr_definition": "sadece bir gözü olan veya tek bir gözü bulunan",
+    "ru_word": "одноглазый",
+    "ru_definition": "имеющий только один глаз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kör"
+                ],
+                "Azerbaijani": [
+                    "kor"
+                ],
+                "Turkmen": [
+                    "kör"
+                ],
+                "Uzbek": [
+                    "koʻr"
+                ],
+                "Uyghur": [
+                    "كور"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tek gözlü"
+                ],
+                "Azerbaijani": [
+                    "təkgöz",
+                    "təkgözlü"
+                ],
+                "Turkmen": [
+                    "tek gözli"
+                ],
+                "Uyghur": [
+                    "تەككۆز"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "соқыр",
+                    "сыңаркөз"
+                ],
+                "Kyrgyz": [
+                    "сокур"
+                ],
+                "Karakalpak": [
+                    "soqır"
+                ],
+                "Tatar": [
+                    "сукыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "біркөз"
+                ],
+                "Karakalpak": [
+                    "bir kózli"
+                ],
+                "Tatar": [
+                    "беркүзле"
+                ],
+                "Bashkir": [
+                    "бер күҙле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyýyk"
+                ],
+                "Kyrgyz": [
+                    "кыйшык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gʻilay"
+                ],
+                "Uyghur": [
+                    "غىلاي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жалгыз көздүү"
+                ],
+                "Karakalpak": [
+                    "jalǵız kózli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yakkoʻz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыңар күҙле"
+                ]
+            }
+        }
+    ]
+}

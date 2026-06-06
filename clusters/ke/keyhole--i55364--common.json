@@ -1,0 +1,105 @@
+{
+    "id": "i55364",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "keyhole",
+    "en_definition": "the hole where a key is inserted",
+    "tr_word": "anahtar deliği",
+    "tr_definition": "bir anahtarın yerleştirildiği delik",
+    "ru_word": "замочная скважина",
+    "ru_definition": "отверстие, в которое вставляется ключ",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kilit deliği"
+                ],
+                "Azerbaijani": [
+                    "kilid yeri",
+                    "kilid deşiyi"
+                ],
+                "Uzbek": [
+                    "kalit teshigi",
+                    "kalit oʻrni"
+                ],
+                "Kazakh": [
+                    "кілт аузы",
+                    "кілт орны",
+                    "кілт саңылауы"
+                ],
+                "Karakalpak": [
+                    "kіlt auzı",
+                    "kіlt ornı",
+                    "kіlt tesіgі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "açıq yeri",
+                    "açıq deşiyi"
+                ],
+                "Turkmen": [
+                    "açaryň ýeri",
+                    "açaryň deşigi"
+                ],
+                "Uyghur": [
+                    "ئاچقۇچ تۆشۈكى",
+                    "ئاچقۇچ ئورنى"
+                ],
+                "Kyrgyz": [
+                    "ачкыч оозу",
+                    "ачкыч тешиги"
+                ],
+                "Tatar": [
+                    "ачкыч тишеге",
+                    "ачкыч урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gulfuň agzy"
+                ],
+                "Uzbek": [
+                    "qulf teshigi"
+                ],
+                "Uyghur": [
+                    "قۇلۇپ تۆشۈكى"
+                ],
+                "Kyrgyz": [
+                    "кулпу оозу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йозак тишеге"
+                ],
+                "Bashkir": [
+                    "йоҙаҡ тишеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anahtar deliği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "асҡыс тишеге"
+                ]
+            }
+        }
+    ]
+}

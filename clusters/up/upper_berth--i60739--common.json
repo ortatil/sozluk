@@ -1,0 +1,82 @@
+{
+    "id": "i60739",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "upper berth",
+    "en_definition": "the higher of two berths",
+    "tr_word": "üst ranza",
+    "tr_definition": "İki yataklı bir ranzanın üstte bulunan yatağı",
+    "ru_word": "верхняя полка",
+    "ru_definition": "Верхнее спальное место в вагоне поезда или на судне",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üst yatak",
+                    "üst ranza",
+                    "üst kat"
+                ],
+                "Azerbaijani": [
+                    "üst yer",
+                    "üst çarpayı",
+                    "üst rəf"
+                ],
+                "Uyghur": [
+                    "ئۈستۈنكى كارىۋات",
+                    "ئۈستۈنكى ئورۇن"
+                ],
+                "Kyrgyz": [
+                    "үстүнкү орун",
+                    "үстүнкү текче",
+                    "үстүнкү жай"
+                ],
+                "Karakalpak": [
+                    "ústki orın"
+                ],
+                "Tatar": [
+                    "өске урын",
+                    "өске кат",
+                    "өске сәке"
+                ],
+                "Bashkir": [
+                    "өҫкө урын",
+                    "өҫкө һике",
+                    "өҫкө ятҡыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýokarky orun",
+                    "ýokarky ýer"
+                ],
+                "Uzbek": [
+                    "yuqori oʻrin",
+                    "yuqori joy"
+                ],
+                "Uyghur": [
+                    "يۇقىرىقى كارىۋات"
+                ],
+                "Kazakh": [
+                    "жоғарғы орын",
+                    "жоғарғы сөре"
+                ],
+                "Karakalpak": [
+                    "joqarǵı orın",
+                    "joqarǵı jay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tepa oʻrin",
+                    "tepa joy"
+                ]
+            }
+        }
+    ]
+}

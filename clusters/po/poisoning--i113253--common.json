@@ -1,0 +1,92 @@
+{
+    "id": "i113253",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "poisoning",
+    "en_definition": "the physiological state produced by a poison or other toxic substance",
+    "tr_word": "zehirlenme",
+    "tr_definition": "Bir zehir veya başka bir toksik maddenin vücutta meydana getirdiği fizyolojik durum",
+    "ru_word": "отравление",
+    "ru_definition": "физиологическое состояние, вызванное воздействием яда или другого токсичного вещества",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zehirlenme"
+                ],
+                "Azerbaijani": [
+                    "zəhərlənmə"
+                ],
+                "Turkmen": [
+                    "zäherlenme",
+                    "zäherleniş"
+                ],
+                "Uzbek": [
+                    "zaharlanish",
+                    "zahar"
+                ],
+                "Uyghur": [
+                    "زەھەرلىنىش",
+                    "زەھەرلىنىش ھالىتى"
+                ],
+                "Karakalpak": [
+                    "záhárleniu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "agu"
+                ],
+                "Kyrgyz": [
+                    "уу"
+                ],
+                "Tatar": [
+                    "агулану",
+                    "агуланучанлык",
+                    "агу"
+                ],
+                "Bashkir": [
+                    "ағыуланыу",
+                    "ағыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "улану",
+                    "уланушылық"
+                ],
+                "Kyrgyz": [
+                    "уулануу",
+                    "уулануучулук"
+                ],
+                "Karakalpak": [
+                    "ulanıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tesemmüm"
+                ],
+                "Azerbaijani": [
+                    "təsmim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "залалдану"
+                ]
+            }
+        }
+    ]
+}

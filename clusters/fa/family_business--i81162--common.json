@@ -1,0 +1,103 @@
+{
+    "id": "i81162",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "family business",
+    "en_definition": "a corporation that is entirely owned by the members of a single family",
+    "tr_word": "aile şirketi",
+    "tr_definition": "mülkiyeti ve yönetimi büyük ölçüde bir ailenin üyelerine ait olan ticari kuruluş",
+    "ru_word": "семейный бизнес",
+    "ru_definition": "предприятие, находящееся в собственности и под управлением членов одной семьи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aile şirketi",
+                    "aile işletmesi",
+                    "aile müessesesi"
+                ],
+                "Azerbaijani": [
+                    "ailə müəssisəsi",
+                    "ailə şirkəti",
+                    "ailə biznesi"
+                ],
+                "Uzbek": [
+                    "oila tadbirkorligi",
+                    "oila korxonasi",
+                    "oilaviy biznes"
+                ],
+                "Uyghur": [
+                    "ئائىلە تىجارىتى",
+                    "ئائىلە كارخانىسى",
+                    "ئائىلە ئىگىلىكى"
+                ],
+                "Tatar": [
+                    "гаилә бизнесы",
+                    "гаилә эше",
+                    "гаилә кәсебе"
+                ],
+                "Bashkir": [
+                    "ғаилә бизнесы",
+                    "ғаилә эше",
+                    "ғаилә кәсебе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maşgala telekeçiligi",
+                    "maşgala kärhanasy",
+                    "maşgala işi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отбасылық кәсіп",
+                    "отбасылық іс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әулеттік кәсіп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жанұялық бизнес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үй-бүлөлүк иш",
+                    "үй-бүлөлүк кызмат",
+                    "үй-бүлөлүк ишкана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shańaraq kárxanası",
+                    "shańaraq isi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aǵayınlı kárxana"
+                ]
+            }
+        }
+    ]
+}

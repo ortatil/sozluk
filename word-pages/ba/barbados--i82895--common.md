@@ -1,0 +1,95 @@
+# Barbados
+| Field | Detail |
+|---|---|
+| **ID** | i82895 |
+| **English** | barbados |
+| **Type** | noun |
+| **Definition** | easternmost of the West Indies about 300 miles to the north of Venezuela |
+| **Source** | common |
+| **Ortatil** | barbados |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **barbados** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| باربادوس | barbados |
+| **Kazakh** | |
+| Барбадос | barbados |
+| **Kyrgyz** | |
+| Барбадос | barbados |
+| **Tatar** | |
+| Барбадос | barbados |
+| **Bashkir** | |
+| Барбадос | barbados |
+
+```json
+{
+    "id": "i82895",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "barbados",
+    "en_definition": "easternmost of the West Indies about 300 miles to the north of Venezuela",
+    "tr_word": "Barbados",
+    "tr_definition": "Venezuela'nın yaklaşık 300 mil kuzeyinde, Batı Hint Adaları'nın en doğusunda yer alan bir ada ülkesi",
+    "ru_word": "Барбадос",
+    "ru_definition": "самый восточный из островов Вест-Индии, расположенный примерно в 300 милях к северу от Венесуэлы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Barbados"
+                ],
+                "Azerbaijani": [
+                    "Barbados"
+                ],
+                "Turkmen": [
+                    "Barbados"
+                ],
+                "Uzbek": [
+                    "Barbados"
+                ],
+                "Uyghur": [
+                    "باربادوس"
+                ],
+                "Kazakh": [
+                    "Барбадос"
+                ],
+                "Kyrgyz": [
+                    "Барбадос"
+                ],
+                "Karakalpak": [
+                    "Barbados"
+                ],
+                "Tatar": [
+                    "Барбадос"
+                ],
+                "Bashkir": [
+                    "Барбадос"
+                ]
+            }
+        }
+    ]
+}
+```
+

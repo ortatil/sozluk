@@ -1,0 +1,104 @@
+{
+    "id": "i90155",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "garment cutter",
+    "en_definition": "someone who cuts cloth etc. to measure in making garments",
+    "tr_word": "kumaş biçki ustası",
+    "tr_definition": "giysi yapımında kumaşı ölçülere göre kesen kişi",
+    "ru_word": "закройщик",
+    "ru_definition": "специалист, занимающийся раскроем ткани при изготовлении одежды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "biçki ustası",
+                    "biçkici"
+                ],
+                "Azerbaijani": [
+                    "biçici",
+                    "biçimçi"
+                ],
+                "Turkmen": [
+                    "biçimçi",
+                    "biçiji"
+                ],
+                "Uzbek": [
+                    "bichuvchi"
+                ],
+                "Uyghur": [
+                    "بىچىقچى"
+                ],
+                "Kazakh": [
+                    "пішуші",
+                    "пішінші"
+                ],
+                "Kyrgyz": [
+                    "бычмачы",
+                    "бычуучу"
+                ],
+                "Karakalpak": [
+                    "bıshqıshı",
+                    "bıshıushı"
+                ],
+                "Tatar": [
+                    "бичүче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "terzi"
+                ],
+                "Azerbaijani": [
+                    "dərzi"
+                ],
+                "Uyghur": [
+                    "تېراشچى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kesuvchi",
+                    "tikuvchi"
+                ],
+                "Tatar": [
+                    "кисүче"
+                ],
+                "Bashkir": [
+                    "киҫеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тігінші"
+                ],
+                "Karakalpak": [
+                    "tiginshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېسىكچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бейеүсе"
+                ]
+            }
+        }
+    ]
+}

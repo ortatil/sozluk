@@ -1,0 +1,138 @@
+{
+    "id": "i4740",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "working",
+    "en_definition": "actively engaged in paid work",
+    "tr_word": "çalışan",
+    "tr_definition": "ücretli bir işte aktif olarak görev alan",
+    "ru_word": "работающий",
+    "ru_definition": "активно занятый оплачиваемым трудом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işçi"
+                ],
+                "Azerbaijani": [
+                    "işləyən"
+                ],
+                "Turkmen": [
+                    "işleýän",
+                    "işjeň"
+                ],
+                "Uzbek": [
+                    "ishlayotgan",
+                    "ishchi"
+                ],
+                "Uyghur": [
+                    "ئىشلەيدىغان",
+                    "ئىشچان"
+                ],
+                "Kyrgyz": [
+                    "иштеген",
+                    "иштеп жаткан"
+                ],
+                "Karakalpak": [
+                    "islep atırǵan"
+                ],
+                "Tatar": [
+                    "эшләүче",
+                    "эшлекле"
+                ],
+                "Bashkir": [
+                    "эшләүсе",
+                    "эшкә һәләтле",
+                    "эшлекле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "zähmet çekýän"
+                ],
+                "Uyghur": [
+                    "خىزمەتتىكى"
+                ],
+                "Kazakh": [
+                    "қызмет етуші"
+                ],
+                "Kyrgyz": [
+                    "кызмат кылган"
+                ],
+                "Karakalpak": [
+                    "xızmettegi"
+                ],
+                "Tatar": [
+                    "хезмәт итүче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "emekçi"
+                ],
+                "Azerbaijani": [
+                    "əməkçi"
+                ],
+                "Kyrgyz": [
+                    "эмгектенген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalışan"
+                ],
+                "Azerbaijani": [
+                    "çalışan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "faal"
+                ],
+                "Uzbek": [
+                    "faol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mehnatkash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмыс істеуші",
+                    "жұмыс басты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еңбек етуші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bánt"
+                ]
+            }
+        }
+    ]
+}

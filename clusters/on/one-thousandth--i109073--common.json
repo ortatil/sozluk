@@ -1,0 +1,72 @@
+{
+    "id": "i109073",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "thousandth",
+    "en_definition": "one part in a thousand equal parts",
+    "tr_word": "binde bir",
+    "tr_definition": "bin eşit parçadan biri",
+    "ru_word": "тысячная",
+    "ru_definition": "одна из тысячи равных частей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "binde bir"
+                ],
+                "Azerbaijani": [
+                    "mində bir",
+                    "minlik"
+                ],
+                "Turkmen": [
+                    "müňde bir"
+                ],
+                "Uzbek": [
+                    "mingdan bir",
+                    "minginchi ulush"
+                ],
+                "Uyghur": [
+                    "مىڭدىن بىر",
+                    "مىڭدا بىر"
+                ],
+                "Kazakh": [
+                    "мыңнан бір",
+                    "мыңдық"
+                ],
+                "Kyrgyz": [
+                    "миңден бир",
+                    "миңдик"
+                ],
+                "Karakalpak": [
+                    "mıńnan bir",
+                    "mıńnan bir bólek",
+                    "mıńnan bir úles"
+                ],
+                "Tatar": [
+                    "меңнән бер",
+                    "меңдә бер",
+                    "меңлек"
+                ],
+                "Bashkir": [
+                    "меңдән бер",
+                    "меңдән бер өлөш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "milyem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "müňden bir"
+                ]
+            }
+        }
+    ]
+}

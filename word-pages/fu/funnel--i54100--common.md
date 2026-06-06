@@ -1,0 +1,186 @@
+# Funnel
+| Field | Detail |
+|---|---|
+| **ID** | i54100 |
+| **English** | funnel |
+| **Type** | noun |
+| **Definition** | a conically shaped utensil having a narrow tube at the small end; used to channel the flow of substances into a container with a small mouth |
+| **Source** | common |
+| **Ortatil** | quyğuç |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **quyğuç** | **wäränka** | **huni** |
+|---|---|---|---|
+| Turkish | ❌ | ❌ | ✅ |
+| Azerbaijani | ❌ | ❌ | ✅ |
+| Turkmen | ✅ | ❌ | ✅ |
+| Uzbek | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ |
+| Kyrgyz | ✅ | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ | ❌ |
+| Tatar | ❌ | ✅ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0 | 1 |
+| *Qarluq Subtotal* | 1 | 1 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0.40 | 0 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **3.13** | **1.40** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قۇيغۇچ | quyğuç |
+| ۋارونكا | varonka |
+| **Kazakh** | |
+| құйғыш | quyğış |
+| құйғы | quyğı |
+| түтік | tütik |
+| **Kyrgyz** | |
+| куйгуч | kuyguç |
+| куйгучтүтүк | kuyguçtütük |
+| куйгу | kuygu |
+| **Tatar** | |
+| буранка | buranka |
+| кыргыч | kırgıç |
+| өтерге | öterge |
+| **Bashkir** | |
+| ҡойоғос | qoyoğos |
+| буранка | buranka |
+| төйөс | töyös |
+
+```json
+{
+    "id": "i54100",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "funnel",
+    "en_definition": "a conically shaped utensil having a narrow tube at the small end; used to channel the flow of substances into a container with a small mouth",
+    "tr_word": "huni",
+    "tr_definition": "Sıvıları ağzı dar kaplara aktarmak için kullanılan, üstü geniş, altı dar koni biçimindeki araç.",
+    "ru_word": "воронка",
+    "ru_definition": "Приспособление для переливания жидкостей и пересыпания порошков в сосуды с узким горлышком в виде конуса с трубкой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "guýguç"
+                ],
+                "Uzbek": [
+                    "quygich"
+                ],
+                "Uyghur": [
+                    "قۇيغۇچ"
+                ],
+                "Kazakh": [
+                    "құйғыш",
+                    "құйғы"
+                ],
+                "Kyrgyz": [
+                    "куйгуч",
+                    "куйгучтүтүк",
+                    "куйгу"
+                ],
+                "Karakalpak": [
+                    "qұyǵısh",
+                    "qұyǵı"
+                ],
+                "Bashkir": [
+                    "ҡойоғос"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "voronka"
+                ],
+                "Uyghur": [
+                    "ۋارونكا"
+                ],
+                "Tatar": [
+                    "буранка"
+                ],
+                "Bashkir": [
+                    "буранка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "huni"
+                ],
+                "Azerbaijani": [
+                    "hunı"
+                ],
+                "Turkmen": [
+                    "huni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aktarmaç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qıf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "leýlek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "naycha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түтік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыргыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өтерге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төйөс"
+                ]
+            }
+        }
+    ]
+}
+```
+

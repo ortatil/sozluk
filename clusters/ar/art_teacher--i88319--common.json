@@ -1,0 +1,138 @@
+{
+    "id": "i88319",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "art teacher",
+    "en_definition": "someone who teaches art",
+    "tr_word": "resim öğretmeni",
+    "tr_definition": "sanat veya resim yapmayı öğreten kimse",
+    "ru_word": "учитель рисования",
+    "ru_definition": "человек, который преподает изобразительное искусство",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanat öğretmeni",
+                    "sanat muallimi"
+                ],
+                "Turkmen": [
+                    "sungat mugallymy",
+                    "surat mugallymy",
+                    "sungat öwredijisi"
+                ],
+                "Uzbek": [
+                    "san'at muallimi"
+                ],
+                "Uyghur": [
+                    "سەنئەت ئوقۇتقۇچىسى"
+                ],
+                "Kazakh": [
+                    "сурет мұғалімі"
+                ],
+                "Kyrgyz": [
+                    "сүрөт мугалими"
+                ],
+                "Tatar": [
+                    "сәнгать мөгаллиме",
+                    "сәнгать остазы"
+                ],
+                "Bashkir": [
+                    "сәнғәт уҡытыусыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "resim öğretmeni",
+                    "resim hocası"
+                ],
+                "Azerbaijani": [
+                    "rəsm müəllimi"
+                ],
+                "Uzbek": [
+                    "rasm o'qituvchisi"
+                ],
+                "Uyghur": [
+                    "رەسىم مۇئەللىمى",
+                    "رەسساملىق ئۇستازى"
+                ],
+                "Tatar": [
+                    "рәсем укытучысы"
+                ],
+                "Bashkir": [
+                    "рәсем уҡытыусыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "суретші-ұстаз"
+                ],
+                "Kyrgyz": [
+                    "сүрөтчү-мугалим",
+                    "сүрөт окутуучусу"
+                ],
+                "Karakalpak": [
+                    "súoretshilik muǵallimi",
+                    "súoretleo óneri muǵallimi"
+                ],
+                "Bashkir": [
+                    "һүрәт уҡытыусыһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tasviriy san'at muallimi"
+                ],
+                "Bashkir": [
+                    "мөғәллим"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнелеу өнері мұғалімі"
+                ],
+                "Karakalpak": [
+                    "óner muǵallimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "incəsənət müəllimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəqqaşlıq müəllimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "musavvirlik ustozi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өнер мұғалімі"
+                ]
+            }
+        }
+    ]
+}

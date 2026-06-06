@@ -1,0 +1,131 @@
+# Greece
+| Field | Detail |
+|---|---|
+| **ID** | i83019 |
+| **English** | greece |
+| **Type** | noun |
+| **Definition** | a republic in southeastern Europe on the southern part of the Balkan peninsula; known for grapes and olives and olive oil |
+| **Source** | common |
+| **Ortatil** | yunanistan |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **yunanistan** | **grekiya** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ❌ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.33 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.80 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **3.67** | **1.63** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| يۇنان | yunan |
+| يۇنانىستان | yunanistan |
+| **Kazakh** | |
+| Юнанстан | yunanstan |
+| Грекия | grekiya |
+| **Kyrgyz** | |
+| Юнанстан | yunanstan |
+| Грекия | grekiya |
+| **Tatar** | |
+| Юнанстан | yunanstan |
+| Греция | gretsiya |
+| **Bashkir** | |
+| Юнанстан | yunanstan |
+
+```json
+{
+    "id": "i83019",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "greece",
+    "en_definition": "a republic in southeastern Europe on the southern part of the Balkan peninsula; known for grapes and olives and olive oil",
+    "tr_word": "Yunanistan",
+    "tr_definition": "Balkan Yarımadası'nın güneyinde, üzümleri, zeytinleri ve zeytinyağı ile tanınan bir Güneydoğu Avrupa cumhuriyeti.",
+    "ru_word": "Греция",
+    "ru_definition": "Республика в Юго-Восточной Европе на юге Балканского полуострова; известна виноградом, оливками и оливковым маслом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Yunanistan",
+                    "Yunan"
+                ],
+                "Azerbaijani": [
+                    "Yunanıstan",
+                    "Yunan eli"
+                ],
+                "Uzbek": [
+                    "Yunoniston",
+                    "Yunaniston"
+                ],
+                "Uyghur": [
+                    "يۇنان",
+                    "يۇنانىستان"
+                ],
+                "Kazakh": [
+                    "Юнанстан"
+                ],
+                "Kyrgyz": [
+                    "Юнанстан"
+                ],
+                "Karakalpak": [
+                    "Yunanstan",
+                    "Yunan"
+                ],
+                "Tatar": [
+                    "Юнанстан"
+                ],
+                "Bashkir": [
+                    "Юнанстан",
+                    "Юнан ере"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Gresiýa"
+                ],
+                "Kazakh": [
+                    "Грекия",
+                    "Грек елі"
+                ],
+                "Kyrgyz": [
+                    "Грекия"
+                ],
+                "Karakalpak": [
+                    "Greciya"
+                ],
+                "Tatar": [
+                    "Греция"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Ynan",
+                    "Ynanystan"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,119 @@
+{
+    "id": "i106453",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sick pay",
+    "en_definition": "wages paid to an employee who is on sick leave",
+    "tr_word": "hastalık ödeneği",
+    "tr_definition": "Hastalık izninde olan bir çalışana ödenen ücret.",
+    "ru_word": "пособие по болезни",
+    "ru_definition": "Заработная плата, выплачиваемая сотруднику, находящемуся на больничном.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xəstəlik müavinəti",
+                    "xəstəlik ödənişi"
+                ],
+                "Uzbek": [
+                    "kasallik nafaqasi",
+                    "kasallik varaqasi to'lovi"
+                ],
+                "Uyghur": [
+                    "كېسەللىك مائاشى",
+                    "كېسەللىك پۇلى",
+                    "كېسەللىك تەمىناتى"
+                ],
+                "Karakalpak": [
+                    "kesellik napaqası",
+                    "kesellik tólemi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ауруханалық төлемақы",
+                    "ауырғандығы үшін төлем"
+                ],
+                "Tatar": [
+                    "авыру буенча түләү",
+                    "авыру кәгазе буенча акча"
+                ],
+                "Bashkir": [
+                    "ауырыу хаҡы",
+                    "ауырыу буйынса түләү",
+                    "ауырыу пособиеһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hastalık ödeneği",
+                    "geçici iş göremezlik ödeneği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rapor ücreti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bülleten pulu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kesellik puly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "näsaglyk tölegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "betoblik haqi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "науқастық жәрдемақы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оору акысы",
+                    "ооругандыгы үчүн төлөм",
+                    "оору баракчасынын акысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чирләгән вакыт өчен хак"
+                ]
+            }
+        }
+    ]
+}

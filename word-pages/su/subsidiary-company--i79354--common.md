@@ -1,0 +1,199 @@
+# Subsidiary company
+| Field | Detail |
+|---|---|
+| **ID** | i79354 |
+| **English** | subsidiary company |
+| **Type** | noun |
+| **Definition** | a company that is completely controlled by another company |
+| **Source** | common |
+| **Ortatil** | iştiräk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i79354",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "subsidiary company",
+    "en_definition": "a company that is completely controlled by another company",
+    "tr_word": "bağlı ortaklık",
+    "tr_definition": "başka bir şirket tarafından kontrol edilen veya yönetilen şirket",
+    "ru_word": "дочерняя компания",
+    "ru_definition": "компания, деятельность которой контролируется другой, материнской компанией",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağlı ortaklık",
+                    "bağlı şirket"
+                ],
+                "Kyrgyz": [
+                    "багынычтуу ишкана"
+                ],
+                "Karakalpak": [
+                    "baǵınıshlı kárxana"
+                ],
+                "Tatar": [
+                    "бәйле ширкәт",
+                    "бәйле җәмгыять"
+                ],
+                "Bashkir": [
+                    "бәйле ойошма",
+                    "бәйле ширҡәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "törəmə müəssisə",
+                    "törəmə şirkət"
+                ],
+                "Uyghur": [
+                    "تارماق شىركەت",
+                    "تارماق كارخانا"
+                ],
+                "Tatar": [
+                    "тармак ширкәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yordamchi korxona"
+                ],
+                "Tatar": [
+                    "ярдәмче ширкәт"
+                ],
+                "Bashkir": [
+                    "ярҙамсы ойошма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yavru şirket"
+                ],
+                "Bashkir": [
+                    "ярҙамсы ширҡәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tabe müəssisə"
+                ],
+                "Turkmen": [
+                    "tabyn kärhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еншілес кәсіпорын",
+                    "еншілес компания"
+                ],
+                "Karakalpak": [
+                    "enshiles kárxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iştirak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alt kuruluş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "asılı müəssisə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şahamça"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kömekçi kärhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "golçur kärhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shoʻba korxona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tobe shirkat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاراشلىق شىركەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тәуелді кәсіпорын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "туунду ишкана",
+                    "туунду компания"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tómengi kárxana"
+                ]
+            }
+        }
+    ]
+}
+```
+

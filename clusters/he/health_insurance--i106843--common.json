@@ -1,0 +1,97 @@
+{
+    "id": "i106843",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "health insurance",
+    "en_definition": "insurance against loss due to ill health",
+    "tr_word": "sağlık sigortası",
+    "tr_definition": "hastalık durumunda ortaya çıkabilecek tıbbi masrafları karşılayan sigorta türü",
+    "ru_word": "медицинское страхование",
+    "ru_definition": "страхование, обеспечивающее оплату медицинской помощи при возникновении страхового случая",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağlık sigortası",
+                    "sağlık güvencesi"
+                ],
+                "Azerbaijani": [
+                    "sağlamlıq sığortası"
+                ],
+                "Turkmen": [
+                    "saglyk ätiýaçlandyrmasy",
+                    "saglyk ätiýaçlandyryşy"
+                ],
+                "Uyghur": [
+                    "ساقلىقنى ساقلاش سۇغۇرتىسى",
+                    "ساغلاملىق سۇغۇرتىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "salomatlik sug'urtasi"
+                ],
+                "Karakalpak": [
+                    "salamatlıqtı kamsızlandırıo"
+                ],
+                "Tatar": [
+                    "сәламәтлекне иминиятләштерү",
+                    "сәламәтлекне саклау иминияте"
+                ],
+                "Bashkir": [
+                    "сәләмәтлекте страховкалау",
+                    "сәләмәтлекте һаҡлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tibbi sığorta"
+                ],
+                "Uzbek": [
+                    "tibbiy sug'urta"
+                ],
+                "Uyghur": [
+                    "تېببىي سۇغۇرتا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "денсаулықты сақтандыру"
+                ],
+                "Kyrgyz": [
+                    "ден соолукту камсыздандыруу"
+                ],
+                "Karakalpak": [
+                    "densaolıqtı kamsızlandırıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "медициналық сақтандыру"
+                ],
+                "Kyrgyz": [
+                    "медициналык камсыздандыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hastalık sigortası"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "id": "i50198",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "art school",
+    "en_definition": "a school specializing in art",
+    "tr_word": "sanat okulu",
+    "tr_definition": "sanat alanında uzmanlaşmış bir eğitim kurumu",
+    "ru_word": "художественная школа",
+    "ru_definition": "учебное заведение, специализирующееся на обучении различным видам искусства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanat okulu",
+                    "sanat akademisi"
+                ],
+                "Azerbaijani": [
+                    "sənət məktəbi"
+                ],
+                "Turkmen": [
+                    "sungat mekdebi",
+                    "sungat okuw jaýy"
+                ],
+                "Uzbek": [
+                    "san'at maktabi",
+                    "san'at bilim yurti"
+                ],
+                "Uyghur": [
+                    "سەنئەت مەكتىپى"
+                ],
+                "Tatar": [
+                    "сәнгать мәктәбе",
+                    "сәнгать укуханәсе"
+                ],
+                "Bashkir": [
+                    "сәнғәт мәктәбе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "rəssamlıq məktəbi"
+                ],
+                "Uzbek": [
+                    "rassomlik maktabi"
+                ],
+                "Bashkir": [
+                    "рәсем мәктәбе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өнер мектебі",
+                    "өнер оқу орны"
+                ],
+                "Kyrgyz": [
+                    "өнөр мектеби"
+                ],
+                "Karakalpak": [
+                    "óner mektebi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güzel sanatlar okulu"
+                ],
+                "Uyghur": [
+                    "گۈزەل سەنئەت مەكتىپى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "incəsənət məktəbi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сүрөт окуу жайы",
+                    "сүрөт мектеби"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kórkemóner mektebi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sáulet mektebi"
+                ]
+            }
+        }
+    ]
+}

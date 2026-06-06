@@ -1,0 +1,85 @@
+{
+    "id": "i71969",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "weather forecast",
+    "en_definition": "a forecast of the weather",
+    "tr_word": "hava durumu tahmini",
+    "tr_definition": "gelecekteki hava koşullarına ilişkin yapılan öngörü",
+    "ru_word": "прогноз погоды",
+    "ru_definition": "научно обоснованное предположение о будущем состоянии погоды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hava durumu",
+                    "hava raporu"
+                ],
+                "Azerbaijani": [
+                    "hava proqnozu"
+                ],
+                "Turkmen": [
+                    "howa habary"
+                ],
+                "Uyghur": [
+                    "ھاۋا رايى مەلۇماتى",
+                    "ھاۋا رايىدىن ئالدىن مەلۇمات"
+                ],
+                "Kazakh": [
+                    "ауа райы болжамы",
+                    "ауа болжамы"
+                ],
+                "Karakalpak": [
+                    "aoa rayı boljamı",
+                    "aoa rayı maǵlıomatı"
+                ],
+                "Tatar": [
+                    "һава торышы фаразы",
+                    "һава торышы белдерүе",
+                    "һава торышы хәбәре"
+                ],
+                "Bashkir": [
+                    "һауа торошо фаразы",
+                    "һауа торошо мәғлүмәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hava tahmini"
+                ],
+                "Azerbaijani": [
+                    "hava məlumatı"
+                ],
+                "Turkmen": [
+                    "howa maglumaty",
+                    "howa çaklamasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ob-havo ma'lumoti",
+                    "ob-havo bashorati",
+                    "ob-havo taxmini"
+                ],
+                "Kyrgyz": [
+                    "аба ырайынын болжолу",
+                    "аба ырайы маалыматы",
+                    "аба ырайы кабары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hava xəbəri"
+                ]
+            }
+        }
+    ]
+}

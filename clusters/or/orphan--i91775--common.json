@@ -1,0 +1,107 @@
+{
+    "id": "i91775",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "orphan",
+    "en_definition": "a child who has lost both parents",
+    "tr_word": "yetim",
+    "tr_definition": "anne ve babası ölmüş olan çocuk",
+    "ru_word": "сирота",
+    "ru_definition": "ребёнок, у которого умерли оба родителя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yetim"
+                ],
+                "Azerbaijani": [
+                    "yetim"
+                ],
+                "Turkmen": [
+                    "ýetim"
+                ],
+                "Uzbek": [
+                    "yetim"
+                ],
+                "Uyghur": [
+                    "يېتىم",
+                    "يېتىم-يېسىر"
+                ],
+                "Kazakh": [
+                    "жетім"
+                ],
+                "Kyrgyz": [
+                    "жетим"
+                ],
+                "Karakalpak": [
+                    "jetіm"
+                ],
+                "Tatar": [
+                    "ятим",
+                    "ятим бала"
+                ],
+                "Bashkir": [
+                    "етем",
+                    "етем бала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "biçäre"
+                ],
+                "Uzbek": [
+                    "beva-bechora"
+                ],
+                "Uyghur": [
+                    "بىۋاپا"
+                ],
+                "Tatar": [
+                    "бичара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тұлдыр",
+                    "тұл"
+                ],
+                "Kyrgyz": [
+                    "тұл жетим"
+                ],
+                "Karakalpak": [
+                    "tұl jetіm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kimsesiz"
+                ],
+                "Azerbaijani": [
+                    "kimsəsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öksüz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "besbas"
+                ]
+            }
+        }
+    ]
+}

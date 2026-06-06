@@ -1,0 +1,133 @@
+{
+    "id": "i69848",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "written communication",
+    "en_definition": "communication by means of written symbols (either printed or handwritten)",
+    "tr_word": "yazılı iletişim",
+    "tr_definition": "yazılı semboller (basılı veya el yazısı) aracılığıyla kurulan iletişim",
+    "ru_word": "письменная коммуникация",
+    "ru_definition": "общение с помощью письменных символов (печатных или рукописных)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazışma",
+                    "yazılı iletişim"
+                ],
+                "Azerbaijani": [
+                    "yazışma",
+                    "yazılı ünsiyyət"
+                ],
+                "Turkmen": [
+                    "ýazuw",
+                    "ýazuw üsti bilen habarlaşmak"
+                ],
+                "Uzbek": [
+                    "yozishma"
+                ],
+                "Uyghur": [
+                    "يازما ئالاقە"
+                ],
+                "Kazakh": [
+                    "жазба",
+                    "жазу",
+                    "жазбаша байланыс"
+                ],
+                "Kyrgyz": [
+                    "жазуу"
+                ],
+                "Karakalpak": [
+                    "jazıs",
+                    "jazbasha baylanıs"
+                ],
+                "Tatar": [
+                    "язма",
+                    "язу"
+                ],
+                "Bashkir": [
+                    "яҙышыу",
+                    "яҙма бәйләнеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hat-habar",
+                    "hatlaşyk"
+                ],
+                "Uzbek": [
+                    "xat-xabar"
+                ],
+                "Uyghur": [
+                    "خەت-ئالاقە",
+                    "خەت-چەك"
+                ],
+                "Kazakh": [
+                    "хат",
+                    "хат-хабар"
+                ],
+                "Karakalpak": [
+                    "xat",
+                    "xat-xabar"
+                ],
+                "Tatar": [
+                    "хат"
+                ],
+                "Bashkir": [
+                    "хатлашыу",
+                    "хат-хәбәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məktublaşma"
+                ],
+                "Uzbek": [
+                    "maktubot"
+                ],
+                "Uyghur": [
+                    "مەكتۇپلىشىش"
+                ],
+                "Tatar": [
+                    "мәктүп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muhabere"
+                ],
+                "Azerbaijani": [
+                    "mükatibə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahrirat"
+                ],
+                "Uzbek": [
+                    "tahrir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кат",
+                    "кат-кабар",
+                    "кат-чийүү"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+# Squeegee
+| Field | Detail |
+|---|---|
+| **ID** | i59420 |
+| **English** | squeegee |
+| **Type** | noun |
+| **Definition** | T-shaped cleaning implement with a rubber edge across the top; drawn across a surface to remove water (as in washing windows) |
+| **Source** | common |
+| **Ortatil** | suwşırgıç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سۈرگۈچ | sürgüç |
+| **Kyrgyz** | |
+| кыргыч | kırgıç |
+| **Tatar** | |
+| сукыргыч | sukırgıç |
+
+```json
+{
+    "id": "i59420",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "squeegee",
+    "en_definition": "T-shaped cleaning implement with a rubber edge across the top; drawn across a surface to remove water (as in washing windows)",
+    "tr_word": "çekçek",
+    "tr_definition": "Cam veya yerlerdeki suyu sıyırıp temizlemek için kullanılan, ucunda kauçuk bulunan T biçimindeki temizlik aracı.",
+    "ru_word": "скребок",
+    "ru_definition": "Инструмент с резиновым лезвием на конце, используемый для удаления воды с плоских поверхностей, например, с окон.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suw süpürgiç"
+                ],
+                "Uzbek": [
+                    "suvshirgich"
+                ],
+                "Uyghur": [
+                    "سۇ سۈرگۈچ"
+                ],
+                "Kazakh": [
+                    "су тартқыш",
+                    "су сырғыш"
+                ],
+                "Kyrgyz": [
+                    "суу тарткыч"
+                ],
+                "Karakalpak": [
+                    "suo sıpırǵısh",
+                    "suo tartqısh"
+                ],
+                "Tatar": [
+                    "сукыргыч",
+                    "су сыдыргыч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aýna süpürgiç"
+                ],
+                "Uyghur": [
+                    "ئەينەك سۈرگۈچ"
+                ],
+                "Kyrgyz": [
+                    "айнек тазалагыч"
+                ],
+                "Karakalpak": [
+                    "áynek tazalaǵısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekçek"
+                ],
+                "Turkmen": [
+                    "çekgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shirgich"
+                ],
+                "Kyrgyz": [
+                    "кыргыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пыяла сыдыргыч"
+                ],
+                "Bashkir": [
+                    "быяла таҙартҡыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "silecek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cam sileceği",
+                    "yer sileceği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şüşəsilən",
+                    "suçəkən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rezinli silgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oynashirgich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۈرگۈچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "терезе жуғыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу һыҙғыс",
+                    "һыу ҡырғыс"
+                ]
+            }
+        }
+    ]
+}
+```
+

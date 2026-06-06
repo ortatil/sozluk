@@ -1,0 +1,160 @@
+# Readjust
+| Field | Detail |
+|---|---|
+| **ID** | i22465 |
+| **English** | readjust |
+| **Type** | verb |
+| **Definition** | adjust anew |
+| **Source** | common |
+| **Ortatil** | tuzatmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| төзәтү | tözätü |
+
+```json
+{
+    "id": "i22465",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "readjust",
+    "en_definition": "adjust anew",
+    "tr_word": "yeniden ayarlamak",
+    "tr_definition": "bir şeyi yeni durumlara veya koşullara göre tekrar düzenlemek",
+    "ru_word": "перенастраивать",
+    "ru_definition": "настроить или отрегулировать заново в соответствии с новыми условиями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan düzetmek"
+                ],
+                "Uzbek": [
+                    "qayta moslamoq",
+                    "qayta sozlamoq",
+                    "qayta tartibga solmoq"
+                ],
+                "Uyghur": [
+                    "قايتا تەڭشەش",
+                    "قايتا تۈزەش",
+                    "قايتا تەرتىپكە سېلىش",
+                    "قايتا ماسلاشتۇرۇش"
+                ],
+                "Kazakh": [
+                    "қайта реттеу",
+                    "қайта түзеу",
+                    "қайта бейімдеу",
+                    "қайта түзету"
+                ],
+                "Kyrgyz": [
+                    "кайра оңдоо",
+                    "кайра жөндөө",
+                    "кайра түзөө",
+                    "кайра иреттөө"
+                ],
+                "Karakalpak": [
+                    "qayta túzeu",
+                    "qayta retleu",
+                    "qayta beyіmleu",
+                    "qayta ońlao"
+                ],
+                "Bashkir": [
+                    "ҡайтанан төҙәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden düzenlemek"
+                ],
+                "Azerbaijani": [
+                    "yenidən tənzimləmək",
+                    "yenidən düzəltmək",
+                    "yenidən qurmaq"
+                ],
+                "Tatar": [
+                    "яңадан көйләү",
+                    "яңадан җайлау"
+                ],
+                "Bashkir": [
+                    "яңынан көйләү",
+                    "яңынан яйлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tashih etmek"
+                ],
+                "Azerbaijani": [
+                    "təshih etmək"
+                ],
+                "Turkmen": [
+                    "täzeden sazlamak"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tuzatmoq"
+                ],
+                "Tatar": [
+                    "төзәтү"
+                ],
+                "Bashkir": [
+                    "төҙәтеп сығыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekrar ayarlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ıslah etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uýgunlaşdyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tertibe salmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзгәртеп кору"
+                ]
+            }
+        }
+    ]
+}
+```
+

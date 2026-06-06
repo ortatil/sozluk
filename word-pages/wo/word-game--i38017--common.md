@@ -1,0 +1,143 @@
+# Word game
+| Field | Detail |
+|---|---|
+| **ID** | i38017 |
+| **English** | word game |
+| **Type** | noun |
+| **Definition** | any game involving the formation or alteration or discovery of words |
+| **Source** | common |
+| **Ortatil** | sozcumbäq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| сөзжұмбақ | sözjumbaq |
+
+```json
+{
+    "id": "i38017",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "word game",
+    "en_definition": "any game involving the formation or alteration or discovery of words",
+    "tr_word": "kelime oyunu",
+    "tr_definition": "Kelimelerin oluşturulması, değiştirilmesi veya bulunmasını içeren her türlü oyun.",
+    "ru_word": "игра в слова",
+    "ru_definition": "Любая игра, основанная на составлении, изменении или поиске слов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sözcük oyunu"
+                ],
+                "Azerbaijani": [
+                    "söz oyunu"
+                ],
+                "Turkmen": [
+                    "söz oýny"
+                ],
+                "Uzbek": [
+                    "soʻz oʻyini"
+                ],
+                "Uyghur": [
+                    "سۆز ئويۇنى"
+                ],
+                "Kazakh": [
+                    "сөз ойыны",
+                    "сөзжұмбақ"
+                ],
+                "Kyrgyz": [
+                    "сөз оюну",
+                    "сөз табышмак"
+                ],
+                "Karakalpak": [
+                    "sóz oyını",
+                    "sózjұmbaq",
+                    "sóz tabıshmaq"
+                ],
+                "Tatar": [
+                    "сүз уены"
+                ],
+                "Bashkir": [
+                    "һүҙ уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lügat oyunu"
+                ],
+                "Azerbaijani": [
+                    "lüğət oyunu"
+                ],
+                "Uzbek": [
+                    "lugʻat oʻyini"
+                ],
+                "Uyghur": [
+                    "لۇغەت ئويۇنى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "harp oýny"
+                ],
+                "Uzbek": [
+                    "harf oʻyini"
+                ],
+                "Tatar": [
+                    "хәреф уены"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kelime oyunu"
+                ],
+                "Azerbaijani": [
+                    "kəlmə oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tapmaça"
+                ],
+                "Uyghur": [
+                    "تەپەككۇر ئويۇنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тілдік ойын"
+                ],
+                "Bashkir": [
+                    "тел уйыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тамга оюну"
+                ]
+            }
+        }
+    ]
+}
+```
+

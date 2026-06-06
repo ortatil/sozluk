@@ -1,0 +1,88 @@
+{
+    "id": "i78597",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sausage pizza",
+    "en_definition": "tomato and cheese pizza with sausage",
+    "tr_word": "sosisli pizza",
+    "tr_definition": "Sosis, domates sosu ve peynir ile hazırlanan pizza türü.",
+    "ru_word": "пицца с колбасой",
+    "ru_definition": "Пицца с томатным соусом, сыром и добавлением колбасы или сосисок.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sucuklu pizza",
+                    "sosisli pizza"
+                ],
+                "Azerbaijani": [
+                    "sosisli pitsa",
+                    "sucuklu pitsa"
+                ],
+                "Uyghur": [
+                    "سوسىسكىلىق پىتسا"
+                ],
+                "Kazakh": [
+                    "шұжықты пицца",
+                    "шұжық қосылған пицца"
+                ],
+                "Kyrgyz": [
+                    "чучуктуу пицца"
+                ],
+                "Karakalpak": [
+                    "shұjıqlı picca",
+                    "shұjıq qosılǵan picca"
+                ],
+                "Tatar": [
+                    "сөземле пицца"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kolbasalı pitsa"
+                ],
+                "Turkmen": [
+                    "kolbasaly pissa"
+                ],
+                "Uzbek": [
+                    "kolbasali pitsa"
+                ],
+                "Uyghur": [
+                    "كولباسالىق پىتسا"
+                ],
+                "Kyrgyz": [
+                    "колбасалуу пицца"
+                ],
+                "Tatar": [
+                    "колбасалы пицца"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şöhlatly pissa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sosiskali pitsa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡаҙылы пицца",
+                    "ҡаҙылы асыҡ бәлеш"
+                ]
+            }
+        }
+    ]
+}

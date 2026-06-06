@@ -1,0 +1,91 @@
+{
+    "id": "i56121",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "medicine chest",
+    "en_definition": "cabinet that holds medicines and toiletries",
+    "tr_word": "ecza dolabı",
+    "tr_definition": "ilaçların ve tuvalet malzemelerinin saklandığı küçük dolap",
+    "ru_word": "аптечка",
+    "ru_definition": "шкафчик или ящик, в котором хранятся лекарства и средства гигиены",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dərman qutusu",
+                    "dərman dolabı"
+                ],
+                "Turkmen": [
+                    "derman guty",
+                    "dermanhana"
+                ],
+                "Uzbek": [
+                    "doriquti",
+                    "dorixona"
+                ],
+                "Uyghur": [
+                    "دورا ئىشكاپى",
+                    "دورا قۇتىسى"
+                ],
+                "Kazakh": [
+                    "дәрі-дәрмек сандықшасы",
+                    "дәрі қобдишасы",
+                    "дәрі сауыты"
+                ],
+                "Kyrgyz": [
+                    "дары-дармек кутусу",
+                    "дары куту",
+                    "дары-дармек сактагыч"
+                ],
+                "Karakalpak": [
+                    "dári-dárman qobdishası",
+                    "dárixanasha",
+                    "dári saqlaǵısh"
+                ],
+                "Tatar": [
+                    "дару савыты",
+                    "даруханә",
+                    "дару тартмасы"
+                ],
+                "Bashkir": [
+                    "дарыу һандығы",
+                    "дарыу шкафы",
+                    "дарыу һауыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şypahana"
+                ],
+                "Uzbek": [
+                    "shifogoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ecza dolabı",
+                    "ilaç dolabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əczaxana qutusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دورا ساندۇقى"
+                ]
+            }
+        }
+    ]
+}

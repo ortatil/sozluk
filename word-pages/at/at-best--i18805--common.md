@@ -1,0 +1,189 @@
+# At best
+| Field | Detail |
+|---|---|
+| **ID** | i18805 |
+| **English** | at best |
+| **Type** | adverb |
+| **Definition** | under the best of conditions |
+| **Source** | common |
+| **Ortatil** | ol |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| نەتىجىدە | nätijidä |
+| **Kazakh** | |
+| асса | assa |
+| **Kyrgyz** | |
+| болгону | bolgonu |
+
+```json
+{
+    "id": "i18805",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "at best",
+    "en_definition": "under the best of conditions",
+    "tr_word": "en iyi ihtimalle",
+    "tr_definition": "en iyi koşullar altında",
+    "ru_word": "в лучшем случае",
+    "ru_definition": "при самых благоприятных условиях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "en fazla"
+                ],
+                "Uyghur": [
+                    "ئەڭ ياخشى بولغاندا"
+                ],
+                "Kazakh": [
+                    "ең жақсы жағдайда"
+                ],
+                "Kyrgyz": [
+                    "эң жакшы дегенде",
+                    "эң эле дегенде"
+                ],
+                "Karakalpak": [
+                    "eń jaqsı jaǵdayda"
+                ],
+                "Tatar": [
+                    "иң яхшы дигәндә",
+                    "иң күп дигәндә",
+                    "иң яхшы очракта"
+                ],
+                "Bashkir": [
+                    "иң яҡшы тигәндә",
+                    "иң күп тигәндә",
+                    "иң яҡшы хәлдә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "en iyi ihtimalle",
+                    "en iyi durumda"
+                ],
+                "Uyghur": [
+                    "ئەڭ يۇقىرى چەكتە"
+                ],
+                "Karakalpak": [
+                    "eń degende"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "olsa olsa"
+                ],
+                "Azerbaijani": [
+                    "olsa-olsa"
+                ],
+                "Karakalpak": [
+                    "bolsa-bolsa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ары кеткенде"
+                ],
+                "Kyrgyz": [
+                    "ары кетсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ən yaxşı halda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lap yaxşı halda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iň gowusy",
+                    "iň bolmanda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iň oňat ýagdaýda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bori bilan",
+                    "nari borsa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uzog'i bilan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yaxshi deganda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەتىجىدە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "асса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көп болса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "болгону"
+                ]
+            }
+        }
+    ]
+}
+```
+

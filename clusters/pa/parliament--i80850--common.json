@@ -1,0 +1,144 @@
+{
+    "id": "i80850",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "parliament",
+    "en_definition": "a legislative assembly in certain countries",
+    "tr_word": "parlamento",
+    "tr_definition": "belirli ülkelerde yasama meclisi",
+    "ru_word": "парламент",
+    "ru_definition": "законодательное собрание в некоторых странах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meclis"
+                ],
+                "Azerbaijani": [
+                    "məclis"
+                ],
+                "Turkmen": [
+                    "mejlis"
+                ],
+                "Uzbek": [
+                    "majlis"
+                ],
+                "Uyghur": [
+                    "مەجلىس"
+                ],
+                "Kazakh": [
+                    "мәжіліс"
+                ],
+                "Kyrgyz": [
+                    "мәжилис"
+                ],
+                "Karakalpak": [
+                    "májilis"
+                ],
+                "Tatar": [
+                    "мәҗлес"
+                ],
+                "Bashkir": [
+                    "мәжлес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurultay"
+                ],
+                "Azerbaijani": [
+                    "qurultay"
+                ],
+                "Turkmen": [
+                    "gurultaý"
+                ],
+                "Uzbek": [
+                    "qurultoy"
+                ],
+                "Uyghur": [
+                    "قۇرۇلتاي"
+                ],
+                "Kazakh": [
+                    "құрылтай"
+                ],
+                "Kyrgyz": [
+                    "курултай"
+                ],
+                "Karakalpak": [
+                    "qurıltay"
+                ],
+                "Tatar": [
+                    "корылтай"
+                ],
+                "Bashkir": [
+                    "ҡоролтай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şura"
+                ],
+                "Azerbaijani": [
+                    "şura"
+                ],
+                "Turkmen": [
+                    "şura"
+                ],
+                "Uzbek": [
+                    "shuro"
+                ],
+                "Uyghur": [
+                    "شۇرا"
+                ],
+                "Tatar": [
+                    "шура"
+                ],
+                "Bashkir": [
+                    "шура"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кеңес"
+                ],
+                "Kyrgyz": [
+                    "кеңеш"
+                ],
+                "Karakalpak": [
+                    "keńes"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "millet meclisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پارلامېنت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыйын"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "id": "i16052",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "literary",
+    "en_definition": "of or relating to or characteristic of literature",
+    "tr_word": "edebi",
+    "tr_definition": "edebiyatla ilgili veya edebiyatın özelliklerini taşıyan",
+    "ru_word": "литературный",
+    "ru_definition": "относящийся к литературе или характерный для неё",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "edebi"
+                ],
+                "Azerbaijani": [
+                    "ədəbi"
+                ],
+                "Turkmen": [
+                    "edebi"
+                ],
+                "Uzbek": [
+                    "adabiy"
+                ],
+                "Uyghur": [
+                    "ئەدەبىي"
+                ],
+                "Kazakh": [
+                    "әдеби"
+                ],
+                "Kyrgyz": [
+                    "адабий"
+                ],
+                "Karakalpak": [
+                    "ádebiy"
+                ],
+                "Tatar": [
+                    "әдәби"
+                ],
+                "Bashkir": [
+                    "әҙәби"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئەدەبىياتقا ئائىت"
+                ],
+                "Kyrgyz": [
+                    "адабияттык"
+                ],
+                "Karakalpak": [
+                    "ádebiyatlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bədii"
+                ],
+                "Uzbek": [
+                    "badiiy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazınsal"
+                ],
+                "Kazakh": [
+                    "жазбаша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çeper"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көркем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гыйльми-әдәби"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "иншәи"
+                ]
+            }
+        }
+    ]
+}

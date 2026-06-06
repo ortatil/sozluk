@@ -1,0 +1,111 @@
+# Dish rack
+| Field | Detail |
+|---|---|
+| **ID** | i52966 |
+| **English** | dish rack |
+| **Type** | noun |
+| **Definition** | a rack for holding dishes as dishwater drains off of them |
+| **Source** | common |
+| **Ortatil** | idişdän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i52966",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dish rack",
+    "en_definition": "a rack for holding dishes as dishwater drains off of them",
+    "tr_word": "bulaşıklık",
+    "tr_definition": "Yıkanmış bulaşıkların sularının süzülmesi için yerleştirildiği raflı düzenek.",
+    "ru_word": "сушилка для посуды",
+    "ru_definition": "Приспособление или полка, на которой расставляют вымытую посуду для стекания воды и сушки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "idishdon",
+                    "idish-tovoq panjarasi",
+                    "idish quritgich"
+                ],
+                "Kazakh": [
+                    "ыдыс кептіргіш",
+                    "ыдыс қойғыш",
+                    "ыдыс сөресі"
+                ],
+                "Kyrgyz": [
+                    "идиш салгыч",
+                    "идиш кургаткыч",
+                    "идиш текче"
+                ],
+                "Karakalpak": [
+                    "ıdıs-ayaq keptіrgіsh",
+                    "ıdıs keptіrgіsh",
+                    "ıdıs sóresі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qab qurutma rəfi",
+                    "qab-qacaq rəfi"
+                ],
+                "Turkmen": [
+                    "gap-gaç goýulýan",
+                    "gap-gaç süzgüji",
+                    "gap-gaç tekjesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاچا-قۇچا جازىسى",
+                    "قاچا جازىسى",
+                    "قاچا قۇرۇتقۇچ"
+                ],
+                "Bashkir": [
+                    "ҡашыҡ-аяҡ киптергес",
+                    "ҡашыҡ-аяҡ кәштәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bulaşıklık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tabaklık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qab rəfi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "савыт-саба киптергеч",
+                    "савыт-саба рәшәткәсе",
+                    "савыт-саба киптерүче"
+                ]
+            }
+        }
+    ]
+}
+```
+

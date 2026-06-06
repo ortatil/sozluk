@@ -1,0 +1,115 @@
+{
+    "id": "i83684",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "french region",
+    "en_definition": "a geographical subdivision of France",
+    "tr_word": "Fransız bölgesi",
+    "tr_definition": "Fransa'nın coğrafi bir alt bölümü",
+    "ru_word": "регион Франции",
+    "ru_definition": "географическое подразделение Франции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Fransa bölgesi",
+                    "Fransız bölgesi"
+                ],
+                "Azerbaijani": [
+                    "Fransa bölgəsi",
+                    "Fransa vilayəti",
+                    "Fransa əyaləti"
+                ],
+                "Turkmen": [
+                    "Fransiýanyň sebiti",
+                    "Fransiýanyň welaýaty",
+                    "Fransiýanyň ülkesi"
+                ],
+                "Uzbek": [
+                    "Fransiya hududi",
+                    "Fransiya o'lkasi",
+                    "Fransiya viloyati"
+                ],
+                "Uyghur": [
+                    "فىرانسىيە رايونى",
+                    "فىرانسىيە ئۆلكىسى"
+                ],
+                "Bashkir": [
+                    "Франция төбәге",
+                    "Франция өлкәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өлке",
+                    "өңір"
+                ],
+                "Kyrgyz": [
+                    "өлкө"
+                ],
+                "Karakalpak": [
+                    "ólke"
+                ],
+                "Tatar": [
+                    "өлкә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "аймақ"
+                ],
+                "Kyrgyz": [
+                    "аймак"
+                ],
+                "Karakalpak": [
+                    "aymaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "uálayat"
+                ],
+                "Tatar": [
+                    "виләят"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "idari bölge"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "облус"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төбәк"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "i99673",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "turnip",
+    "en_definition": "widely cultivated plant having a large fleshy edible white or yellow root",
+    "tr_word": "şalgam",
+    "tr_definition": "Turpgillerden, geniş yapraklı, beyaz veya sarı etli, yenilebilir kökü olan bir bitki.",
+    "ru_word": "репа",
+    "ru_definition": "Двулетнее травянистое растение семейства Капустные с толстым съедобным корнем.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şalgam"
+                ],
+                "Azerbaijani": [
+                    "şalğam"
+                ],
+                "Turkmen": [
+                    "şalgam",
+                    "şelgem"
+                ],
+                "Uzbek": [
+                    "sholgʻom",
+                    "sholgom"
+                ],
+                "Uyghur": [
+                    "شالقام"
+                ],
+                "Kazakh": [
+                    "шалқан",
+                    "шалғам"
+                ],
+                "Kyrgyz": [
+                    "чалкан"
+                ],
+                "Karakalpak": [
+                    "sharǵam",
+                    "shalǵam"
+                ],
+                "Tatar": [
+                    "шалкан"
+                ],
+                "Bashkir": [
+                    "шалҡан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "turp"
+                ],
+                "Azerbaijani": [
+                    "turp"
+                ],
+                "Kyrgyz": [
+                    "турп"
+                ],
+                "Tatar": [
+                    "турнепс"
+                ],
+                "Bashkir": [
+                    "турнепс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چامغۇر"
+                ]
+            }
+        }
+    ]
+}

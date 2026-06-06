@@ -1,0 +1,139 @@
+{
+    "id": "i107091",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "penny",
+    "en_definition": "a coin worth one-hundredth of the value of the basic unit",
+    "tr_word": "kuruş",
+    "tr_definition": "temel para biriminin yüzde biri değerindeki madeni para",
+    "ru_word": "пенни",
+    "ru_definition": "монета, составляющая одну сотую часть основной денежной единицы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pul"
+                ],
+                "Azerbaijani": [
+                    "pul"
+                ],
+                "Turkmen": [
+                    "pul"
+                ],
+                "Uzbek": [
+                    "pul"
+                ],
+                "Uyghur": [
+                    "پۇل"
+                ],
+                "Kyrgyz": [
+                    "пул"
+                ],
+                "Karakalpak": [
+                    "pul"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "teňňe"
+                ],
+                "Uyghur": [
+                    "تەڭگە"
+                ],
+                "Kazakh": [
+                    "тиын"
+                ],
+                "Tatar": [
+                    "тиен"
+                ],
+                "Bashkir": [
+                    "тин"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tiyin"
+                ],
+                "Uyghur": [
+                    "تىيىن"
+                ],
+                "Kyrgyz": [
+                    "тыйын"
+                ],
+                "Karakalpak": [
+                    "tıyın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бақыр"
+                ],
+                "Tatar": [
+                    "бакыр"
+                ],
+                "Bashkir": [
+                    "баҡыр",
+                    "баҡыр аҡса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "para"
+                ],
+                "Azerbaijani": [
+                    "xırda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chaqa"
+                ],
+                "Kazakh": [
+                    "ақша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuruş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mangır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəpik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "акча"
+                ]
+            }
+        }
+    ]
+}

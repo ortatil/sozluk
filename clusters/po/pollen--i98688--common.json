@@ -1,0 +1,97 @@
+{
+    "id": "i98688",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pollen",
+    "en_definition": "the fine spores that contain male gametes and that are borne by an anther in a flowering plant",
+    "tr_word": "polen",
+    "tr_definition": "Çiçekli bitkilerde başçık tarafından taşınan ve erkek gametleri içeren ince sporlar; çiçek tozu.",
+    "ru_word": "пыльца",
+    "ru_definition": "Мелкие споры, содержащие мужские гаметы и образующиеся в пыльниках цветковых растений.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "gulchangi"
+                ],
+                "Uyghur": [
+                    "گۈل چېڭى",
+                    "گۈل توزىنى",
+                    "گۈل غۇبارى"
+                ],
+                "Kazakh": [
+                    "гүл тозаңы"
+                ],
+                "Kyrgyz": [
+                    "гүл чаңы"
+                ],
+                "Karakalpak": [
+                    "gúl tozańı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çiçek tozu"
+                ],
+                "Azerbaijani": [
+                    "çiçək tozu"
+                ],
+                "Tatar": [
+                    "чәчәк серкәсе"
+                ],
+                "Bashkir": [
+                    "сәскә һеркәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tozcuq"
+                ],
+                "Turkmen": [
+                    "tozgajyk",
+                    "toz"
+                ],
+                "Kazakh": [
+                    "тозаң"
+                ],
+                "Karakalpak": [
+                    "tozań"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chang"
+                ],
+                "Kyrgyz": [
+                    "чаңча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "серкә"
+                ],
+                "Bashkir": [
+                    "һеркә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "polen"
+                ]
+            }
+        }
+    ]
+}

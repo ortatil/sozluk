@@ -1,0 +1,115 @@
+{
+    "id": "i64215",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "freedom of speech",
+    "en_definition": "a civil right guaranteed by the First Amendment to the US Constitution",
+    "tr_word": "ifade özgürlüğü",
+    "tr_definition": "Düşünceleri söz, yazı veya diğer yollarla serbestçe açıklama ve yayma hakkı.",
+    "ru_word": "свобода слова",
+    "ru_definition": "Право человека свободно выражать свои мысли, идеи и мнения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "söz hürriyeti"
+                ],
+                "Kazakh": [
+                    "сөз еркіндігі"
+                ],
+                "Kyrgyz": [
+                    "сөз эркиндиги"
+                ],
+                "Karakalpak": [
+                    "sóz erkinligi",
+                    "sóz erki"
+                ],
+                "Tatar": [
+                    "сүз иреге",
+                    "сүз иреклеге"
+                ],
+                "Bashkir": [
+                    "һүҙ иреге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fikir özgürlüğü"
+                ],
+                "Azerbaijani": [
+                    "fikir azadlığı"
+                ],
+                "Uzbek": [
+                    "fikr erkinligi",
+                    "bayon erkinligi"
+                ],
+                "Uyghur": [
+                    "بايان ئەركىنلىكى"
+                ],
+                "Kyrgyz": [
+                    "пикир эркиндиги"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "söz azadlığı"
+                ],
+                "Turkmen": [
+                    "söz azatlygy"
+                ],
+                "Bashkir": [
+                    "һүҙ азатлығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söz erkinligi"
+                ],
+                "Uzbek": [
+                    "soʻz erkinligi"
+                ],
+                "Uyghur": [
+                    "سۆز ئەركىنلىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ifade özgürlüğü",
+                    "ifade hürriyeti"
+                ],
+                "Azerbaijani": [
+                    "ifadə azadlığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نۇتۇق ئەركىنلىكى"
+                ],
+                "Tatar": [
+                    "нөткый иреге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сөз бостандығы"
+                ]
+            }
+        }
+    ]
+}

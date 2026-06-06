@@ -1,0 +1,180 @@
+{
+    "id": "i28917",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "mail out",
+    "en_definition": "transmit by mail",
+    "tr_word": "postalamak",
+    "tr_definition": "Bir şeyi posta yoluyla göndermek veya iletmek.",
+    "ru_word": "рассылать по почте",
+    "ru_definition": "Отправлять что-либо через почтовую службу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yollamak"
+                ],
+                "Azerbaijani": [
+                    "yollamaq"
+                ],
+                "Turkmen": [
+                    "ýollamak"
+                ],
+                "Uzbek": [
+                    "yubormoq"
+                ],
+                "Uyghur": [
+                    "يوللىماق"
+                ],
+                "Karakalpak": [
+                    "jollao"
+                ],
+                "Tatar": [
+                    "юллау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "postalamak"
+                ],
+                "Azerbaijani": [
+                    "poçtla göndərmək"
+                ],
+                "Turkmen": [
+                    "poçta arkaly ugratmak"
+                ],
+                "Uyghur": [
+                    "پوچتىدىن ئەۋەتمەك",
+                    "پوچتىدىن يوللىماق"
+                ],
+                "Kazakh": [
+                    "поштамен жіберу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iletmek"
+                ],
+                "Turkmen": [
+                    "ibermek"
+                ],
+                "Uyghur": [
+                    "ئەۋەتمەك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "jo'natmoq"
+                ],
+                "Kyrgyz": [
+                    "жөнөтүү"
+                ],
+                "Karakalpak": [
+                    "jónetio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "хат жолдау",
+                    "хат жіберу"
+                ],
+                "Karakalpak": [
+                    "xat jiberio"
+                ],
+                "Bashkir": [
+                    "хат ебәреү",
+                    "хат юллау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "тапшыруу"
+                ],
+                "Tatar": [
+                    "тапшыру"
+                ],
+                "Bashkir": [
+                    "тапшырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göndermek"
+                ],
+                "Azerbaijani": [
+                    "göndərmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жиберүү"
+                ],
+                "Tatar": [
+                    "җибәрү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çatdırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ugratmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tarqatmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хабарлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каттоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "оҙатыу"
+                ]
+            }
+        }
+    ]
+}

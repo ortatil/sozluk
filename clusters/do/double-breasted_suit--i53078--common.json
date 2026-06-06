@@ -1,0 +1,70 @@
+{
+    "id": "i53078",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "double-breasted suit",
+    "en_definition": "a suit with a double-breasted jacket",
+    "tr_word": "kruvaze takım elbise",
+    "tr_definition": "Ön parçaları birbiri üzerine gelecek biçimde dikilmiş, iki sıra düğmeli ceketi olan takım elbise.",
+    "ru_word": "двубортный костюм",
+    "ru_definition": "Костюм с пиджаком, имеющим широкие перехлестывающиеся полы и два ряда пуговиц.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşa ilikli kostýum",
+                    "goşa öňli kostýum"
+                ],
+                "Uyghur": [
+                    "قوش تۈگمىلىك كاستيۇم",
+                    "قوش تۈگمىلىك كاستيۇم-بۇرۇلكا"
+                ],
+                "Kazakh": [
+                    "қос өңірлі костюм",
+                    "қос түймелі костюм",
+                    "қос қаусырмалы костюм"
+                ],
+                "Kyrgyz": [
+                    "кош топчулуу костюм",
+                    "кош өңүрлүү костюм"
+                ],
+                "Karakalpak": [
+                    "qos etekli kostyum",
+                    "qos túymeli kostyum"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "iki tərəfli kostyum",
+                    "iki düyməli kostyum",
+                    "iki tərəfli pencək"
+                ],
+                "Uzbek": [
+                    "ikki tugmali kostyum",
+                    "ikki qatorli kostyum",
+                    "ikki qator tugmali kostyum"
+                ],
+                "Tatar": [
+                    "ике яклы костюм",
+                    "ике бортлы костюм"
+                ],
+                "Bashkir": [
+                    "ике яҡлы костюм",
+                    "ике яҡлы кейем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kruvaze takım",
+                    "kruvaze takım elbise"
+                ]
+            }
+        }
+    ]
+}

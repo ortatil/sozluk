@@ -1,0 +1,136 @@
+{
+    "id": "i53055",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "doorjamb",
+    "en_definition": "a jamb for a door",
+    "tr_word": "kapı sövesi",
+    "tr_definition": "Kapı boşluğunun yan taraflarını oluşturan dikey parçalardan her biri.",
+    "ru_word": "дверной косяк",
+    "ru_definition": "Вертикальная стойка дверной коробки, к которой крепится дверь.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eshik kesakisi",
+                    "eshik romi"
+                ],
+                "Uyghur": [
+                    "ئىشىك كېشىكى",
+                    "ئىشىك قېشى"
+                ],
+                "Kazakh": [
+                    "есік жақтауы"
+                ],
+                "Karakalpak": [
+                    "esik bosaǵası"
+                ],
+                "Tatar": [
+                    "ишек яңагы",
+                    "ишек каты"
+                ],
+                "Bashkir": [
+                    "ишек яңағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بوسۇغا"
+                ],
+                "Kazakh": [
+                    "босаға"
+                ],
+                "Kyrgyz": [
+                    "босого"
+                ],
+                "Karakalpak": [
+                    "bosaǵa"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kapı sövesi",
+                    "kapı kasası"
+                ],
+                "Azerbaijani": [
+                    "qapı söykənəyi",
+                    "qapı yanlığı",
+                    "qapı çərçivəsi"
+                ],
+                "Turkmen": [
+                    "gapy söýesi",
+                    "gapy çygry"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yan dikme"
+                ],
+                "Tatar": [
+                    "янак"
+                ],
+                "Bashkir": [
+                    "яңаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kesaki"
+                ],
+                "Uyghur": [
+                    "كېشىك"
+                ],
+                "Kyrgyz": [
+                    "кашек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "söve"
+                ],
+                "Turkmen": [
+                    "söýe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жақтау"
+                ],
+                "Kyrgyz": [
+                    "жаак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "haşiyə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tayanısh"
+                ]
+            }
+        }
+    ]
+}

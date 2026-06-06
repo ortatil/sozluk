@@ -1,0 +1,75 @@
+{
+    "id": "i73123",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "scots",
+    "en_definition": "the dialect of English used in Scotland",
+    "tr_word": "İskoçça",
+    "tr_definition": "İskoçya'da konuşulan Cermen dili veya İngilizce lehçesi",
+    "ru_word": "скотс",
+    "ru_definition": "германский язык или диалект английского языка, на котором говорят в Шотландии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şotland dili",
+                    "Şotland ləhcəsi"
+                ],
+                "Turkmen": [
+                    "şotland dili",
+                    "şotlandça"
+                ],
+                "Uzbek": [
+                    "shotland tili"
+                ],
+                "Uyghur": [
+                    "سكوتلاندىيە تىلى"
+                ],
+                "Kazakh": [
+                    "шотланд тілі",
+                    "шотланд диалектісі"
+                ],
+                "Kyrgyz": [
+                    "шотланд тили",
+                    "шотланд диалекти"
+                ],
+                "Karakalpak": [
+                    "shotland tili",
+                    "shotland lahjesi"
+                ],
+                "Tatar": [
+                    "шотланд теле",
+                    "шотландча"
+                ],
+                "Bashkir": [
+                    "шотланд теле",
+                    "шотланд һөйләше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Skots"
+                ],
+                "Uzbek": [
+                    "skot tili"
+                ],
+                "Uyghur": [
+                    "سكوت تىلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "İskoçça",
+                    "İskoç lehçesi",
+                    "İskoç dili"
+                ]
+            }
+        }
+    ]
+}

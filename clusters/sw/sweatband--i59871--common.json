@@ -1,0 +1,119 @@
+{
+    "id": "i59871",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sweatband",
+    "en_definition": "a band of material tied around the forehead or wrist to absorb sweat",
+    "tr_word": "ter bandı",
+    "tr_definition": "Teri emmek için alna veya bileğe takılan kumaş bant",
+    "ru_word": "напульсник",
+    "ru_definition": "Повязка из впитывающего материала, надеваемая на лоб или запястье для поглощения пота",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ter bandı"
+                ],
+                "Azerbaijani": [
+                    "tərbağı",
+                    "tərsaxlayan"
+                ],
+                "Turkmen": [
+                    "derlik",
+                    "derbag"
+                ],
+                "Uzbek": [
+                    "terbog'ich"
+                ],
+                "Uyghur": [
+                    "تەرلىك",
+                    "تەر تاسمىسى",
+                    "تەر سۈرگۈچ"
+                ],
+                "Kazakh": [
+                    "терсіңіргіш"
+                ],
+                "Kyrgyz": [
+                    "тер тарткыч",
+                    "тер байлагыч"
+                ],
+                "Karakalpak": [
+                    "terbasqısh"
+                ],
+                "Tatar": [
+                    "тирбау"
+                ],
+                "Bashkir": [
+                    "тирбау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bileklik"
+                ],
+                "Azerbaijani": [
+                    "biləkbağı"
+                ],
+                "Uzbek": [
+                    "bilakband"
+                ],
+                "Kazakh": [
+                    "білекше"
+                ],
+                "Karakalpak": [
+                    "bilekshe"
+                ],
+                "Tatar": [
+                    "беләкбау"
+                ],
+                "Bashkir": [
+                    "беләкбау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "maňlaýbag"
+                ],
+                "Kazakh": [
+                    "маңдайша"
+                ],
+                "Kyrgyz": [
+                    "маңдай тарткыч"
+                ],
+                "Karakalpak": [
+                    "mańlaysha"
+                ],
+                "Tatar": [
+                    "маңгайбау"
+                ],
+                "Bashkir": [
+                    "маңлайбау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alın bandı"
+                ],
+                "Azerbaijani": [
+                    "alınbağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "peshonaband"
+                ]
+            }
+        }
+    ]
+}

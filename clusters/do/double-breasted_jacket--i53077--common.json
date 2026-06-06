@@ -1,0 +1,88 @@
+{
+    "id": "i53077",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "double-breasted jacket",
+    "en_definition": "a jacket having fronts that overlap enough for two separate rows of buttons",
+    "tr_word": "kruvaze ceket",
+    "tr_definition": "Ön parçaları birbiri üzerine binen ve iki sıra düğmesi bulunan ceket.",
+    "ru_word": "двубортный пиджак",
+    "ru_definition": "Пиджак с широкими нахлестывающимися бортами и двумя рядами пуговиц.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşa ilikli penjek",
+                    "goşa düwmeli penjek"
+                ],
+                "Uzbek": [
+                    "qo'sh tugmali kamzul",
+                    "qo'sh tugmali nimcha"
+                ],
+                "Uyghur": [
+                    "قوش تۈگمىلىك چاپان",
+                    "قوش تۈگمىلىك كاستيۇم"
+                ],
+                "Kazakh": [
+                    "қос өңірлі пиджак",
+                    "қос түймелі күрте",
+                    "қос қаусырмалы киім"
+                ],
+                "Kyrgyz": [
+                    "кош төш",
+                    "кош топчулуу күрмө"
+                ],
+                "Karakalpak": [
+                    "qos túymelі pidjak",
+                    "qos óńіrlі pidjak"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "iki tərəfli pencək",
+                    "iki düyməli pencək"
+                ],
+                "Uzbek": [
+                    "ikki qator tugmali kamzul"
+                ],
+                "Tatar": [
+                    "ике яклы пинжәк",
+                    "ике бортлы пинжәк"
+                ],
+                "Bashkir": [
+                    "ике яҡлы кәзәкей",
+                    "ике яҡлы пинжәк",
+                    "ике яҡлы камзул"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kruvaze ceket"
+                ],
+                "Azerbaijani": [
+                    "kruvaze pencək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift düğmeli ceket"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кош өңүрлүү күрмө"
+                ]
+            }
+        }
+    ]
+}

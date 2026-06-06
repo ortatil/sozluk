@@ -1,0 +1,224 @@
+# Ringleader
+| Field | Detail |
+|---|---|
+| **ID** | i92590 |
+| **English** | ringleader |
+| **Type** | noun |
+| **Definition** | a person who leads (especially in illicit activities) |
+| **Source** | common |
+| **Ortatil** | ḅaşçı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḅaşçı** | **yolbäşçı** | **särgärdä** | **cetekçi** |
+|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ❌ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ❌ | ❌ |
+| Tatar | ✅ | ✅ | ❌ | ✅ |
+| Bashkir | ✅ | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.33 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 1 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.40 | 0 | 0.60 |
+| *In All* | ✅ | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |
+| **O'TQ** | **4** | **2.23** | **2** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| باشلىق | başliq |
+| باشلامچى | başlamçi |
+| باشپاناھ | başpanah |
+| سەركەردە | särkärdä |
+| **Kazakh** | |
+| басшы | basşı |
+| бастаушы | bastauşı |
+| басқарма | basqarma |
+| жетекші | jetekşi |
+| ұйымдастырушы | uyımdastıruşı |
+| **Kyrgyz** | |
+| башчы | başçı |
+| баштоочу | baştooçu |
+| башкы | başkı |
+| жетекчи | jetekçi |
+| **Tatar** | |
+| башлык | başlık |
+| баш | baş |
+| юлбашчы | yulbaşçı |
+| җитәкче | jitäkçe |
+| **Bashkir** | |
+| башлыҡ | başlıq |
+| баш | baş |
+| юлбашсы | yulbaşsı |
+| төпкө | töpkö |
+
+```json
+{
+    "id": "i92590",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ringleader",
+    "en_definition": "a person who leads (especially in illicit activities)",
+    "tr_word": "elebaşı",
+    "tr_definition": "Kötü veya yasa dışı işlerde topluluğa öncülük eden kimse.",
+    "ru_word": "главарь",
+    "ru_definition": "Руководитель или предводитель группы людей, занимающихся противозаконной деятельностью.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başbuğ"
+                ],
+                "Azerbaijani": [
+                    "başçı",
+                    "başçıbaşı"
+                ],
+                "Turkmen": [
+                    "başçy",
+                    "başlygy"
+                ],
+                "Uzbek": [
+                    "boshliq",
+                    "peshvo"
+                ],
+                "Uyghur": [
+                    "باشلىق",
+                    "باشلامچى",
+                    "باشپاناھ"
+                ],
+                "Kazakh": [
+                    "басшы",
+                    "бастаушы",
+                    "басқарма"
+                ],
+                "Kyrgyz": [
+                    "башчы",
+                    "баштоочу",
+                    "башкы"
+                ],
+                "Karakalpak": [
+                    "basshı",
+                    "baslamashı",
+                    "basqarıoshı"
+                ],
+                "Tatar": [
+                    "башлык",
+                    "баш"
+                ],
+                "Bashkir": [
+                    "башлыҡ",
+                    "баш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sergerde"
+                ],
+                "Azerbaijani": [
+                    "sərkərdə"
+                ],
+                "Turkmen": [
+                    "serdar",
+                    "serkerde"
+                ],
+                "Uzbek": [
+                    "sardor"
+                ],
+                "Uyghur": [
+                    "سەركەردە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elebaşı"
+                ],
+                "Uzbek": [
+                    "yoʻlboshchi"
+                ],
+                "Tatar": [
+                    "юлбашчы"
+                ],
+                "Bashkir": [
+                    "юлбашсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çete başı"
+                ],
+                "Kazakh": [
+                    "жетекші"
+                ],
+                "Kyrgyz": [
+                    "жетекчи"
+                ],
+                "Tatar": [
+                    "җитәкче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rəhbər"
+                ],
+                "Uzbek": [
+                    "rahnamo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "reis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabaqcıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұйымдастырушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tóbebası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төпкө"
+                ]
+            }
+        }
+    ]
+}
+```
+

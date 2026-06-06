@@ -1,0 +1,108 @@
+{
+    "id": "i81001",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sales staff",
+    "en_definition": "those in a business who are responsible for sales",
+    "tr_word": "satış personeli",
+    "tr_definition": "bir işletmede satış yapmaktan sorumlu olan çalışanlar",
+    "ru_word": "торговый персонал",
+    "ru_definition": "сотрудники предприятия, ответственные за осуществление продаж",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satış elemanı",
+                    "satış temsilcisi",
+                    "satıcı"
+                ],
+                "Azerbaijani": [
+                    "satıcılar",
+                    "satış heyəti",
+                    "satış işçiləri",
+                    "satış təmsilçiləri"
+                ],
+                "Turkmen": [
+                    "satyjylar"
+                ],
+                "Uzbek": [
+                    "sotuvchilar",
+                    "sotuv xodimlari"
+                ],
+                "Uyghur": [
+                    "سېتىش خادىملىرى",
+                    "سېتىش خادىمى"
+                ],
+                "Kazakh": [
+                    "сатушылар"
+                ],
+                "Kyrgyz": [
+                    "сатуучулар",
+                    "сатуу бөлүмү"
+                ],
+                "Karakalpak": [
+                    "satıoshılar",
+                    "satıo bólimi",
+                    "satıo xızmetkerleri"
+                ],
+                "Tatar": [
+                    "сатучылар",
+                    "сату хезмәткәрләре"
+                ],
+                "Bashkir": [
+                    "һатыусылар",
+                    "һатыу хеҙмәткәрҙәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söwdagärler",
+                    "söwda işgärleri"
+                ],
+                "Uzbek": [
+                    "savdogarlar",
+                    "savdo xodimlari"
+                ],
+                "Kazakh": [
+                    "саудагерлер",
+                    "сауда қызметкерлері"
+                ],
+                "Kyrgyz": [
+                    "соодагерлер"
+                ],
+                "Tatar": [
+                    "сәүдәгәрләр"
+                ],
+                "Bashkir": [
+                    "сауҙагәрҙәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pazarlamacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tezgahtar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سودا خادىملىرى",
+                    "سودىگەرلەر"
+                ]
+            }
+        }
+    ]
+}

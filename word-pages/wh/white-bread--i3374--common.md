@@ -1,0 +1,270 @@
+# White-bread
+| Field | Detail |
+|---|---|
+| **ID** | i3374 |
+| **English** | white-bread |
+| **Type** | adjective |
+| **Definition** | of or belonging to or representative of the white middle class |
+| **Source** | common |
+| **Ortatil** | adiy |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **adiy** | **änäniyli** | **ortaça** | **bay** |
+|---|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ❌ | ❌ |
+| Kyrgyz | ❌ | ❌ | ❌ | ✅ |
+| Karakalpak | ❌ | ❌ | ✅ | ✅ |
+| Tatar | ✅ | ❌ | ✅ | ❌ |
+| Bashkir | ❌ | ❌ | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0.33 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0 | 0.40 | 0.60 |
+| *In All* | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |
+| **O'TQ** | **2.87** | **1.33** | **0.90** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئادەتتىكىچە | adättikiçä |
+| ئەنئەنىۋى | änänivi |
+| **Kazakh** | |
+| қарапайым | qarapayım |
+| жайлы | jaylı |
+| дәстүрлі | dästürli |
+| **Kyrgyz** | |
+| бай | bay |
+| оокаттуу | ookattuu |
+| **Tatar** | |
+| уртача | urtaça |
+| гади | gadi |
+| традицион | traditsion |
+| **Bashkir** | |
+| бай | bay |
+| төҙөк | tözök |
+| хәлле | xälle |
+
+```json
+{
+    "id": "i3374",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "white-bread",
+    "en_definition": "of or belonging to or representative of the white middle class",
+    "tr_word": "beyaz orta sınıf",
+    "tr_definition": "Beyaz orta sınıfa ait olan veya bu sınıfı temsil eden; genellikle sıradan, geleneksel veya muhafazakar olarak algılanan.",
+    "ru_word": "белый среднеклассовый",
+    "ru_definition": "Относящийся к белому среднему классу или представляющий его; часто подразумевает заурядность, консерватизм или отсутствие культурного разнообразия.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orta sınıf"
+                ],
+                "Azerbaijani": [
+                    "orta təbəqə"
+                ],
+                "Turkmen": [
+                    "orta gatlak"
+                ],
+                "Uzbek": [
+                    "oʻrtahol"
+                ],
+                "Kazakh": [
+                    "орта таптық"
+                ],
+                "Kyrgyz": [
+                    "орто катмар"
+                ],
+                "Karakalpak": [
+                    "ortasha"
+                ],
+                "Tatar": [
+                    "урта сыйныф",
+                    "уртача"
+                ],
+                "Bashkir": [
+                    "урта хәлле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "adi"
+                ],
+                "Turkmen": [
+                    "adaty"
+                ],
+                "Uzbek": [
+                    "oddiy"
+                ],
+                "Uyghur": [
+                    "ئادەتتىكىچە"
+                ],
+                "Tatar": [
+                    "гади"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ənənəvi"
+                ],
+                "Uzbek": [
+                    "anʼanaviy"
+                ],
+                "Uyghur": [
+                    "ئەنئەنىۋى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "бай"
+                ],
+                "Karakalpak": [
+                    "bay"
+                ],
+                "Bashkir": [
+                    "бай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıradan"
+                ],
+                "Azerbaijani": [
+                    "sadə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "parahat"
+                ],
+                "Kazakh": [
+                    "қарапайым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ак сөөк"
+                ],
+                "Karakalpak": [
+                    "aqsúyek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geleneksel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muhafazakar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "asuda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zerikarli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرا قاتلام"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاق تەنلىك ئوتتۇرا تەبىقە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жайлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәстүрлі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оокаттуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dáuletli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "традицион"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төҙөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәлле"
+                ]
+            }
+        }
+    ]
+}
+```
+

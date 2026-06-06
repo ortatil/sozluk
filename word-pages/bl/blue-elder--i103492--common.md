@@ -1,0 +1,127 @@
+# Blue elder
+| Field | Detail |
+|---|---|
+| **ID** | i103492 |
+| **English** | blue elder |
+| **Type** | noun |
+| **Definition** | shrub or small tree of western United States having white flowers and blue berries; fruit used in wines and jellies |
+| **Source** | common |
+| **Ortatil** | gändäläş |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| шилби | şilbi |
+
+```json
+{
+    "id": "i103492",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blue elder",
+    "en_definition": "shrub or small tree of western United States having white flowers and blue berries; fruit used in wines and jellies",
+    "tr_word": "mavi mürver",
+    "tr_definition": "Batı Amerika Birleşik Devletleri'ne özgü, beyaz çiçekli ve mavi meyveli, meyveleri şarap ve jöle yapımında kullanılan bir çalı veya küçük ağaç türü.",
+    "ru_word": "бузина синяя",
+    "ru_definition": "кустарник или небольшое дерево на западе США с белыми цветами и синими ягодами; плоды используются для приготовления вина и желе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gök şalun",
+                    "gök şalun agajy"
+                ],
+                "Uzbek": [
+                    "koʻk marjon"
+                ],
+                "Uyghur": [
+                    "كۆك مېۋىلىك ئاق چۆچۈكبۇيا"
+                ],
+                "Kazakh": [
+                    "көк аюбадам",
+                    "көк аюбадам ағашы",
+                    "көк аюбадам бұтасы"
+                ],
+                "Kyrgyz": [
+                    "көк шилби"
+                ],
+                "Karakalpak": [
+                    "kók ayubadam",
+                    "kók marjan"
+                ],
+                "Tatar": [
+                    "күк мәрвәр",
+                    "күк бузина"
+                ],
+                "Bashkir": [
+                    "күк бузина",
+                    "күк аҡсабыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mavi mürver"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mürver ağacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mavi gəndalaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gəndalaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "marjon daraxti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆك ئاق چۆچۈكبۇيا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аюу бадам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шилби"
+                ]
+            }
+        }
+    ]
+}
+```
+

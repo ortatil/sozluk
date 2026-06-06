@@ -1,0 +1,152 @@
+# Breadstick
+| Field | Detail |
+|---|---|
+| **ID** | i77317 |
+| **English** | breadstick |
+| **Type** | noun |
+| **Definition** | a crisp stick-shaped roll; often served with soup |
+| **Source** | common |
+| **Ortatil** | galeta |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i77317",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "breadstick",
+    "en_definition": "a crisp stick-shaped roll; often served with soup",
+    "tr_word": "galeta",
+    "tr_definition": "Genellikle çorba veya salata ile servis edilen, ince, uzun ve gevrek bir ekmek türü.",
+    "ru_word": "хлебная палочка",
+    "ru_definition": "Тонкое, хрустящее хлебное изделие в форме палочки, которое часто подают к супу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qotirilgan non"
+                ],
+                "Kazakh": [
+                    "қытырлақ нан"
+                ],
+                "Kyrgyz": [
+                    "кытырак нан"
+                ],
+                "Tatar": [
+                    "кытырлавык таякчык"
+                ],
+                "Bashkir": [
+                    "ҡытырлаҡ таяҡса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "نان تاياقچىسى"
+                ],
+                "Kazakh": [
+                    "нан таяқшасы",
+                    "нан таяқша"
+                ],
+                "Kyrgyz": [
+                    "нан таякча"
+                ],
+                "Karakalpak": [
+                    "nan tayaqsha",
+                    "nan tayaqshaları"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "quru çörək"
+                ],
+                "Uyghur": [
+                    "قۇرۇق نان تاياقچىسى"
+                ],
+                "Kyrgyz": [
+                    "кургак нан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "galeta"
+                ],
+                "Turkmen": [
+                    "galeta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çubuk kraker"
+                ],
+                "Turkmen": [
+                    "çörek taýajygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peksimət"
+                ],
+                "Turkmen": [
+                    "peksimet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "икмәк таякчыгы"
+                ],
+                "Bashkir": [
+                    "икмәк таяҡсаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gevrek çubuk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çörək çubuğu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "non tayoqcha",
+                    "tayoqcha non"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوكا نان"
+                ]
+            }
+        }
+    ]
+}
+```
+

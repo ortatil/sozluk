@@ -1,0 +1,102 @@
+{
+    "id": "i51806",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "checker",
+    "en_definition": "one of the flat round pieces used in playing the game of checkers",
+    "tr_word": "dama taşı",
+    "tr_definition": "dama oyununda kullanılan yassı ve yuvarlak taşlardan her biri",
+    "ru_word": "шашка",
+    "ru_definition": "одна из плоских круглых фигур, используемых в игре в шашки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "daş"
+                ],
+                "Turkmen": [
+                    "daş"
+                ],
+                "Uzbek": [
+                    "dona",
+                    "tosh"
+                ],
+                "Uyghur": [
+                    "تاش"
+                ],
+                "Kazakh": [
+                    "тас"
+                ],
+                "Kyrgyz": [
+                    "таш"
+                ],
+                "Karakalpak": [
+                    "tas"
+                ],
+                "Tatar": [
+                    "таш"
+                ],
+                "Bashkir": [
+                    "таш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dama taşı"
+                ],
+                "Azerbaijani": [
+                    "dama daşı"
+                ],
+                "Uyghur": [
+                    "داما دانىسى",
+                    "دانا"
+                ],
+                "Kyrgyz": [
+                    "даана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şaşka daşy"
+                ],
+                "Kazakh": [
+                    "шашка"
+                ],
+                "Karakalpak": [
+                    "shashka tası"
+                ],
+                "Bashkir": [
+                    "шашка ташы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oyun taşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "фигура"
+                ]
+            }
+        }
+    ]
+}

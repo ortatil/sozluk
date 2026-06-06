@@ -1,0 +1,126 @@
+{
+    "id": "i8255",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "mined",
+    "en_definition": "extracted from a source of supply as of minerals from the earth",
+    "tr_word": "çıkarılmış",
+    "tr_definition": "Yeraltındaki maden veya kaynaklardan kazılarak elde edilmiş",
+    "ru_word": "добытый",
+    "ru_definition": "извлеченный из недр земли или другого источника снабжения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kazılmış"
+                ],
+                "Azerbaijani": [
+                    "qazılmış"
+                ],
+                "Turkmen": [
+                    "gazylyp alnan"
+                ],
+                "Uzbek": [
+                    "qazib olingan"
+                ],
+                "Uyghur": [
+                    "قېزىلغان",
+                    "قېزىۋېلىنغان"
+                ],
+                "Kazakh": [
+                    "қазылған"
+                ],
+                "Kyrgyz": [
+                    "казылган"
+                ],
+                "Karakalpak": [
+                    "qazıp alınǵan"
+                ],
+                "Tatar": [
+                    "казып алынган"
+                ],
+                "Bashkir": [
+                    "ҡаҙылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıkarılmış"
+                ],
+                "Azerbaijani": [
+                    "çıxarılmış"
+                ],
+                "Turkmen": [
+                    "çykarylan"
+                ],
+                "Uzbek": [
+                    "chiqarilgan"
+                ],
+                "Kazakh": [
+                    "шығарылған"
+                ],
+                "Kyrgyz": [
+                    "чыгарылган"
+                ],
+                "Karakalpak": [
+                    "shıǵarılǵan"
+                ],
+                "Tatar": [
+                    "чыгарылган"
+                ],
+                "Bashkir": [
+                    "сығарылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өндірілген"
+                ],
+                "Kyrgyz": [
+                    "өндүрүлгөн"
+                ],
+                "Karakalpak": [
+                    "óndіrіlgen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istihraç edilmiş"
+                ],
+                "Uzbek": [
+                    "istixroj qilingan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hasil edilmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كان قېزىلغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "табылған"
+                ]
+            }
+        }
+    ]
+}

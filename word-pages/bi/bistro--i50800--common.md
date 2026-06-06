@@ -1,0 +1,213 @@
+# Bistro
+| Field | Detail |
+|---|---|
+| **ID** | i50800 |
+| **English** | bistro |
+| **Type** | noun |
+| **Definition** | a small informal restaurant; serves wine |
+| **Source** | common |
+| **Ortatil** | aşhana, meyhana |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **aşhana** | **meyhana** | **tamaqhana** |
+|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ✅ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ✅ | ✅ |
+| Kazakh | ✅ | ✅ | ❌ |
+| Kyrgyz | ✅ | ✅ | ❌ |
+| Karakalpak | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 1 | 0.33 |
+| *Qarluq Subtotal* | 1 | 1 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 0.80 | 0.20 |
+| *In All* | ✅ | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **4** | **3.80** | **2.03** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاشخانا | aşxana |
+| مەيخانا | mäyxana |
+| تاماقخانا | tamaqxana |
+| **Kazakh** | |
+| асхана | asxana |
+| дәмхана | dämxana |
+| **Kyrgyz** | |
+| ашкана | aşkana |
+| мейманкана | meymankana |
+| **Tatar** | |
+| ашханә | aşxanä |
+| ашханә-чәйханә | aşxanä-çäyxanä |
+| трактир | traktir |
+| **Bashkir** | |
+| ашхана | aşxana |
+| мәйхана | mäyxana |
+| тәғәмхана | täğämxana |
+
+```json
+{
+    "id": "i50800",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bistro",
+    "en_definition": "a small informal restaurant; serves wine",
+    "tr_word": "bistro",
+    "tr_definition": "Şarap servisi de yapan küçük ve samimi bir restoran.",
+    "ru_word": "бистро",
+    "ru_definition": "небольшой ресторан с непринужденной обстановкой, где подают вино.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşevi"
+                ],
+                "Azerbaijani": [
+                    "aşxana"
+                ],
+                "Turkmen": [
+                    "aşhana"
+                ],
+                "Uzbek": [
+                    "oshxona",
+                    "oshkade"
+                ],
+                "Uyghur": [
+                    "ئاشخانا"
+                ],
+                "Kazakh": [
+                    "асхана"
+                ],
+                "Kyrgyz": [
+                    "ашкана"
+                ],
+                "Karakalpak": [
+                    "asxana"
+                ],
+                "Tatar": [
+                    "ашханә",
+                    "ашханә-чәйханә"
+                ],
+                "Bashkir": [
+                    "ашхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyhane"
+                ],
+                "Azerbaijani": [
+                    "meyxanə"
+                ],
+                "Turkmen": [
+                    "meyhana"
+                ],
+                "Uzbek": [
+                    "mayxona"
+                ],
+                "Uyghur": [
+                    "مەيخانا"
+                ],
+                "Kazakh": [
+                    "дәмхана"
+                ],
+                "Kyrgyz": [
+                    "мейманкана"
+                ],
+                "Karakalpak": [
+                    "shayxana"
+                ],
+                "Bashkir": [
+                    "мәйхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yeməkxana"
+                ],
+                "Uyghur": [
+                    "تاماقخانا"
+                ],
+                "Kyrgyz": [
+                    "тамактануучу жай"
+                ],
+                "Karakalpak": [
+                    "tamaqxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tamaddixona"
+                ],
+                "Kazakh": [
+                    "тамақтану орны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lokanta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "restoran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəlyanaltıxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "naharhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kafe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "трактир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәғәмхана"
+                ]
+            }
+        }
+    ]
+}
+```
+

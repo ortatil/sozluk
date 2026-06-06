@@ -1,0 +1,158 @@
+{
+    "id": "i90958",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "learner",
+    "en_definition": "someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs",
+    "tr_word": "öğrenci",
+    "tr_definition": "Öğrenim görmek amacıyla bir öğretmenin veya bir kurumun gözetimi altında olan kimse.",
+    "ru_word": "ученик",
+    "ru_definition": "Человек, который учится чему-либо у кого-либо, получает знания или навыки под руководством учителя.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şakirt"
+                ],
+                "Azerbaijani": [
+                    "şagird"
+                ],
+                "Turkmen": [
+                    "şägirt"
+                ],
+                "Uzbek": [
+                    "shogird"
+                ],
+                "Uyghur": [
+                    "شاگىرت"
+                ],
+                "Kazakh": [
+                    "шәкірт"
+                ],
+                "Kyrgyz": [
+                    "шакирт"
+                ],
+                "Karakalpak": [
+                    "shákirt"
+                ],
+                "Tatar": [
+                    "шәкерт"
+                ],
+                "Bashkir": [
+                    "шәкерт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okuwçy"
+                ],
+                "Uzbek": [
+                    "oʻquvchi"
+                ],
+                "Uyghur": [
+                    "ئوقۇغۇچى"
+                ],
+                "Kazakh": [
+                    "оқушы"
+                ],
+                "Kyrgyz": [
+                    "окуучу"
+                ],
+                "Karakalpak": [
+                    "oqıoshı"
+                ],
+                "Tatar": [
+                    "укучы"
+                ],
+                "Bashkir": [
+                    "уҡыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "talebe"
+                ],
+                "Azerbaijani": [
+                    "tələbə"
+                ],
+                "Turkmen": [
+                    "talyp"
+                ],
+                "Uzbek": [
+                    "talaba"
+                ],
+                "Uyghur": [
+                    "تەلەبە"
+                ],
+                "Kazakh": [
+                    "талапкер"
+                ],
+                "Karakalpak": [
+                    "talaban"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öğrenci"
+                ],
+                "Azerbaijani": [
+                    "öyrənci"
+                ],
+                "Bashkir": [
+                    "өйрәнсек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئىلىمخۇمار"
+                ],
+                "Kyrgyz": [
+                    "илимпоз"
+                ],
+                "Tatar": [
+                    "гыйлем иясе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mütəallim"
+                ],
+                "Uzbek": [
+                    "mutaallim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аалым"
+                ],
+                "Tatar": [
+                    "галим"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mürit"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "id": "i12269",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "single-lane",
+    "en_definition": "(of roads) having a single lane for traffic in both directions; when vehicles meet one must pull off the road to let the other pass",
+    "tr_word": "tek şeritli",
+    "tr_definition": "her iki yöndeki trafik için sadece tek bir şeridi olan; araçlar karşılaştığında birinin diğerine yol vermek için kenara çekilmesi gereken yol",
+    "ru_word": "однополосный",
+    "ru_definition": "имеющий только одну полосу для движения в обоих направлениях; при встрече автомобилей один должен съехать на обочину, чтобы пропустить другого",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dar yol"
+                ],
+                "Azerbaijani": [
+                    "dar"
+                ],
+                "Turkmen": [
+                    "dar ýol"
+                ],
+                "Uzbek": [
+                    "tor"
+                ],
+                "Uyghur": [
+                    "تار يوللۇق"
+                ],
+                "Kazakh": [
+                    "тар жол"
+                ],
+                "Kyrgyz": [
+                    "тар"
+                ],
+                "Karakalpak": [
+                    "tar jol"
+                ],
+                "Tatar": [
+                    "тар"
+                ],
+                "Bashkir": [
+                    "тар юллы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "birzolaqlı"
+                ],
+                "Turkmen": [
+                    "bir ýolly"
+                ],
+                "Uzbek": [
+                    "bir yo'lakli"
+                ],
+                "Uyghur": [
+                    "بىر يۆنىلىشلىك",
+                    "بىر لىنىيىلىك"
+                ],
+                "Kazakh": [
+                    "бір жолақты"
+                ],
+                "Kyrgyz": [
+                    "бир тилкелүү"
+                ],
+                "Karakalpak": [
+                    "bir jollı"
+                ],
+                "Tatar": [
+                    "бер юллы",
+                    "бер рәтле"
+                ],
+                "Bashkir": [
+                    "бер юллы",
+                    "бер һыҙатлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жалғыз аяқ жол"
+                ],
+                "Kyrgyz": [
+                    "жалгыз аяк"
+                ],
+                "Karakalpak": [
+                    "jalǵız jollı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tek şeritli",
+                    "tek gidişli"
+                ],
+                "Azerbaijani": [
+                    "təkzolaqlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýeke ýolly"
+                ],
+                "Uzbek": [
+                    "yakka yo'lakli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бир катарлуу"
+                ]
+            }
+        }
+    ]
+}

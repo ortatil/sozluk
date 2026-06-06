@@ -1,0 +1,76 @@
+{
+    "id": "i101527",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "black beech",
+    "en_definition": "New Zealand forest tree",
+    "tr_word": "siyah kayın",
+    "tr_definition": "Yeni Zelanda'ya özgü, koyu renkli kabuğu olan bir orman ağacı türü.",
+    "ru_word": "черный нотофагус",
+    "ru_definition": "Лесное дерево из Новой Зеландии с темной корой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara kayın"
+                ],
+                "Azerbaijani": [
+                    "qara fıstıq"
+                ],
+                "Turkmen": [
+                    "gara buk",
+                    "gara fagus"
+                ],
+                "Uzbek": [
+                    "qora buk",
+                    "qora qayin"
+                ],
+                "Uyghur": [
+                    "قارا قارىغاي",
+                    "قارا بېك دەرىخى"
+                ],
+                "Kazakh": [
+                    "қара шамшат",
+                    "қара бук"
+                ],
+                "Kyrgyz": [
+                    "кара бук"
+                ],
+                "Karakalpak": [
+                    "qara buk",
+                    "qara shamshat"
+                ],
+                "Tatar": [
+                    "кара бук",
+                    "кара бук агачы"
+                ],
+                "Bashkir": [
+                    "ҡара бук",
+                    "ҡара бук ағасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siyah kayın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Yeni Zelandiya fıstığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бук дарагы"
+                ]
+            }
+        }
+    ]
+}

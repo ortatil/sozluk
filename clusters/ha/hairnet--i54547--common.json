@@ -1,0 +1,106 @@
+{
+    "id": "i54547",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hairnet",
+    "en_definition": "a small net that some women wear over their hair to keep it in place",
+    "tr_word": "saç filesi",
+    "tr_definition": "Saçın dağılmasını önlemek için başa geçirilen ince ağ",
+    "ru_word": "сетка для волос",
+    "ru_definition": "тонкая сетка, надеваемая на голову для фиксации прически",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tor"
+                ],
+                "Turkmen": [
+                    "tor"
+                ],
+                "Uzbek": [
+                    "to'r",
+                    "to'rli ro'mol"
+                ],
+                "Uyghur": [
+                    "تور"
+                ],
+                "Kazakh": [
+                    "торша"
+                ],
+                "Kyrgyz": [
+                    "торчо"
+                ],
+                "Karakalpak": [
+                    "torsha"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saç filesi",
+                    "baş filesi"
+                ],
+                "Kazakh": [
+                    "шаш тор"
+                ],
+                "Kyrgyz": [
+                    "чач тор",
+                    "чач кап"
+                ],
+                "Karakalpak": [
+                    "shash tor"
+                ],
+                "Tatar": [
+                    "чәч челтәре",
+                    "чәч торы"
+                ],
+                "Bashkir": [
+                    "сәс селтәре",
+                    "сәс селтәркәһе",
+                    "сәс селтәрлеген"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saç ağı"
+                ],
+                "Turkmen": [
+                    "saç tory"
+                ],
+                "Uzbek": [
+                    "soch to'ri"
+                ],
+                "Uyghur": [
+                    "چاچ تورى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "saç toru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шашқа арналған тор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "челтәрле калфак"
+                ]
+            }
+        }
+    ]
+}

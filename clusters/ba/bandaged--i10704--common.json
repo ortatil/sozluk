@@ -1,0 +1,116 @@
+{
+    "id": "i10704",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "bandaged",
+    "en_definition": "covered or wrapped with a bandage",
+    "tr_word": "sargılı",
+    "tr_definition": "bir sargı bezi ile örtülmüş veya sarılmış",
+    "ru_word": "забинтованный",
+    "ru_definition": "покрытый или обернутый бинтом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağlı"
+                ],
+                "Azerbaijani": [
+                    "bağlanmış"
+                ],
+                "Uzbek": [
+                    "bogʻlangan"
+                ],
+                "Uyghur": [
+                    "باغلانغان"
+                ],
+                "Kazakh": [
+                    "байланған"
+                ],
+                "Kyrgyz": [
+                    "байланган"
+                ],
+                "Karakalpak": [
+                    "baylanǵan"
+                ],
+                "Tatar": [
+                    "бәйләнгән"
+                ],
+                "Bashkir": [
+                    "бәйләнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "daňylgy",
+                    "daňlan"
+                ],
+                "Uzbek": [
+                    "tanoblangan"
+                ],
+                "Uyghur": [
+                    "تېڭىلغان",
+                    "تېڭىقلىق"
+                ],
+                "Kazakh": [
+                    "таңылған"
+                ],
+                "Kyrgyz": [
+                    "таңылган"
+                ],
+                "Karakalpak": [
+                    "tańılǵan"
+                ],
+                "Tatar": [
+                    "таңылган"
+                ],
+                "Bashkir": [
+                    "таңылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻralgan"
+                ],
+                "Kazakh": [
+                    "оралған"
+                ],
+                "Kyrgyz": [
+                    "оролгон"
+                ],
+                "Karakalpak": [
+                    "oralǵan"
+                ],
+                "Tatar": [
+                    "уралган"
+                ],
+                "Bashkir": [
+                    "уралған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarılı",
+                    "sargılı"
+                ],
+                "Azerbaijani": [
+                    "sarılmış",
+                    "sarğılı"
+                ],
+                "Turkmen": [
+                    "saralgy",
+                    "sarlanan"
+                ]
+            }
+        }
+    ]
+}

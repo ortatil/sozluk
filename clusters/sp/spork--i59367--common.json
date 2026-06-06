@@ -1,0 +1,97 @@
+{
+    "id": "i59367",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spork",
+    "en_definition": "trademark for a plastic eating utensil that has both tines and a bowl like a spoon",
+    "tr_word": "çatallı kaşık",
+    "tr_definition": "hem çatal dişlerine hem de kaşık haznesine sahip olan, genellikle plastikten yapılan yemek gereci.",
+    "ru_word": "спорк",
+    "ru_definition": "столовый прибор, совмещающий элементы ложки и вилки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çəngəl-qaşıq",
+                    "çəngəlli qaşıq"
+                ],
+                "Uzbek": [
+                    "sanchqi-qoshiq"
+                ],
+                "Kazakh": [
+                    "шанышқы-қасық"
+                ],
+                "Karakalpak": [
+                    "shanıshqı-qasıq"
+                ],
+                "Tatar": [
+                    "чәнечкеле кашык"
+                ],
+                "Bashkir": [
+                    "сәнске-ҡалаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aralash qoshiq"
+                ],
+                "Uyghur": [
+                    "ئارا قوشۇق"
+                ],
+                "Kazakh": [
+                    "аралас қасық"
+                ],
+                "Kyrgyz": [
+                    "аралаш кашык"
+                ],
+                "Karakalpak": [
+                    "aralas qasıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çatallı kaşık",
+                    "kaşık-çatal"
+                ],
+                "Uyghur": [
+                    "چاتقال قوشۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çemçe-çarşak",
+                    "garyşyk çemçe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айры-кашык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "катнаш кашык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡалаҡ-сәнске"
+                ]
+            }
+        }
+    ]
+}

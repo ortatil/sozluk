@@ -1,0 +1,76 @@
+{
+    "id": "i17673",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "malarial",
+    "en_definition": "of or infected by or resembling malaria",
+    "tr_word": "sıtmalı",
+    "tr_definition": "sıtma hastalığına yakalanmış olan veya sıtma ile ilgili olan",
+    "ru_word": "малярийный",
+    "ru_definition": "относящийся к малярии, вызываемый ею или больной этой болезнью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bezgakli",
+                    "bezgakka_oid",
+                    "bezgak_bilan_kasallangan"
+                ],
+                "Uyghur": [
+                    "بەزگەككە ئائىت",
+                    "بەزگەكلىك",
+                    "بەزگەك سىمان"
+                ],
+                "Kazakh": [
+                    "безгек",
+                    "безгекті",
+                    "безгекке тән"
+                ],
+                "Kyrgyz": [
+                    "безгек",
+                    "безгекке тиешелүү",
+                    "безгек оорулуу"
+                ],
+                "Karakalpak": [
+                    "bezgekli",
+                    "bezgek"
+                ],
+                "Tatar": [
+                    "бизгәкле",
+                    "бизгәк"
+                ],
+                "Bashkir": [
+                    "биҙгәкле",
+                    "биҙгәккә бәйле",
+                    "биҙгәк һымаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıtmalı",
+                    "sıtma ile ilgili",
+                    "sıtma taşıyan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "malyariyalı",
+                    "malyariya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyzzyrmaly",
+                    "gyzzyrma"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+# Fall in love
+| Field | Detail |
+|---|---|
+| **ID** | i22454 |
+| **English** | fall in love |
+| **Type** | verb |
+| **Definition** | begin to experience feelings of love towards |
+| **Source** | common |
+| **Ortatil** | sewdälänmäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| сүю | süyu |
+| **Tatar** | |
+| сөю | söyu |
+| ярату | yaratu |
+
+```json
+{
+    "id": "i22454",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "fall in love",
+    "en_definition": "begin to experience feelings of love towards",
+    "tr_word": "aşık olmak",
+    "tr_definition": "birine karşı sevgi ve tutku hissetmeye başlamak",
+    "ru_word": "влюбиться",
+    "ru_definition": "начать испытывать чувство любви к кому-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşık olmak"
+                ],
+                "Azerbaijani": [
+                    "aşiq olmaq"
+                ],
+                "Turkmen": [
+                    "aşyk bolmak"
+                ],
+                "Uzbek": [
+                    "oshiq bo'lmoq",
+                    "ishqiboz bo'lmoq"
+                ],
+                "Uyghur": [
+                    "ئاشىق بولماق"
+                ],
+                "Kazakh": [
+                    "ғашық болу"
+                ],
+                "Kyrgyz": [
+                    "ашык болуу"
+                ],
+                "Karakalpak": [
+                    "ǵashıq bolıu",
+                    "ıshqı túsіu"
+                ],
+                "Bashkir": [
+                    "ғашиҡ булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gönül vermek"
+                ],
+                "Azerbaijani": [
+                    "könül vermək"
+                ],
+                "Turkmen": [
+                    "göwün bermek"
+                ],
+                "Uzbek": [
+                    "ko'ngil bermoq"
+                ],
+                "Uyghur": [
+                    "كۆڭۈل بەرمەك"
+                ],
+                "Karakalpak": [
+                    "kóńіl qoyıu"
+                ],
+                "Tatar": [
+                    "күңел төшү"
+                ],
+                "Bashkir": [
+                    "күңел биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söýüp galmak"
+                ],
+                "Uyghur": [
+                    "سۆيۈپ قالماق"
+                ],
+                "Kazakh": [
+                    "сүю"
+                ],
+                "Kyrgyz": [
+                    "сүйүп калуу"
+                ],
+                "Karakalpak": [
+                    "súyіp qalıu"
+                ],
+                "Tatar": [
+                    "сөю"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sevdalanmak"
+                ],
+                "Azerbaijani": [
+                    "sevmək"
+                ],
+                "Uzbek": [
+                    "sevib qolmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muhabbat qo'ymoq"
+                ],
+                "Uyghur": [
+                    "مۇھەببەت باغلىماق"
+                ],
+                "Bashkir": [
+                    "мөхәббәткә бирелеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tutulmak"
+                ],
+                "Azerbaijani": [
+                    "vurulmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məftun olmaq"
+                ],
+                "Turkmen": [
+                    "mejnun bolmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ынтық болу"
+                ],
+                "Kyrgyz": [
+                    "ынтызар болуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ярату"
+                ],
+                "Bashkir": [
+                    "яратып ҡалыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көңілі ауу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құмар болу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дил берүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гашыйк булу"
+                ]
+            }
+        }
+    ]
+}
+```
+

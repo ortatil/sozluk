@@ -1,0 +1,71 @@
+{
+    "id": "i87290",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white woman",
+    "en_definition": "a woman who is White",
+    "tr_word": "beyaz kadın",
+    "tr_definition": "Beyaz ırka mensup olan kadın",
+    "ru_word": "белая женщина",
+    "ru_definition": "женщина, принадлежащая к европеоидной расе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak kadın"
+                ],
+                "Azerbaijani": [
+                    "ağbəniz qadın",
+                    "ağdərili qadın",
+                    "ağ qadın"
+                ],
+                "Turkmen": [
+                    "ak tenli aýal",
+                    "ak ýüzli aýal"
+                ],
+                "Uzbek": [
+                    "oq tanli ayol",
+                    "oq tanli xotin"
+                ],
+                "Uyghur": [
+                    "ئاق تەنلىك ئايال",
+                    "ئاق تەنلىك خانىم"
+                ],
+                "Kazakh": [
+                    "ақ әйел",
+                    "ақ нәсілді әйел"
+                ],
+                "Kyrgyz": [
+                    "ак жуумал аял"
+                ],
+                "Karakalpak": [
+                    "aq násil hayalı",
+                    "aq tánli hayal"
+                ],
+                "Tatar": [
+                    "ак хатын",
+                    "ак тәнле хатын"
+                ],
+                "Bashkir": [
+                    "аҡ ҡатын",
+                    "аҡ тәнле ҡатын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz kadın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ак аял"
+                ]
+            }
+        }
+    ]
+}

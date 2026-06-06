@@ -1,0 +1,80 @@
+{
+    "id": "i117320",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rainy season",
+    "en_definition": "one of the two seasons in tropical climates",
+    "tr_word": "yağışlı mevsim",
+    "tr_definition": "tropikal iklimlerde görülen, yılın en çok yağış alan iki mevsiminden biri",
+    "ru_word": "сезон дождей",
+    "ru_definition": "один из двух сезонов в тропическом климате, характеризующийся обильными осадками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağışlı mevsim",
+                    "yağmur mevsimi",
+                    "yağışlı dönem"
+                ],
+                "Azerbaijani": [
+                    "yağış mövsümü",
+                    "yağışlı fəsil",
+                    "yağışlar fəsli"
+                ],
+                "Turkmen": [
+                    "ýagyşly pasyl",
+                    "ýagyşly möwsüm",
+                    "ýagyşly döwür"
+                ],
+                "Uzbek": [
+                    "yogʻingarchilik mavsumi",
+                    "yogʻin fasli"
+                ],
+                "Uyghur": [
+                    "ياغىن پەسلى",
+                    "يامغۇر پەسلى"
+                ],
+                "Kazakh": [
+                    "жауын-шашын кезеңі",
+                    "жауынды маусым"
+                ],
+                "Karakalpak": [
+                    "jaoın-shashınlı máosim",
+                    "jaoınlı máosim",
+                    "jaoınlı pasıl"
+                ],
+                "Bashkir": [
+                    "яуын-төшөм миҙгеле",
+                    "яуынлы миҙгел",
+                    "яуынлы осор"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жаңбырлы маусым"
+                ],
+                "Kyrgyz": [
+                    "жаан-чачындуу мезгил",
+                    "жаанчыл мезгил",
+                    "жаан мезгили"
+                ],
+                "Tatar": [
+                    "яңгырлар сезоны",
+                    "яңгырлы чор",
+                    "яңгырлар вакыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yomgʻir mavsumi"
+                ]
+            }
+        }
+    ]
+}

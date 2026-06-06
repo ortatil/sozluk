@@ -1,0 +1,96 @@
+{
+    "id": "i47943",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tree squirrel",
+    "en_definition": "any typical arboreal squirrel",
+    "tr_word": "ağaç sincabı",
+    "tr_definition": "genellikle ağaçlarda yaşayan, uzun kuyruklu ve kemirgen bir sincap türü",
+    "ru_word": "древесная белка",
+    "ru_definition": "любая типичная белка, ведущая древесный образ жизни",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "değin"
+                ],
+                "Uyghur": [
+                    "تىيىن"
+                ],
+                "Kazakh": [
+                    "тиін",
+                    "тиішқан"
+                ],
+                "Kyrgyz": [
+                    "тыйын чычкан",
+                    "тыйын"
+                ],
+                "Karakalpak": [
+                    "tiyin",
+                    "tiyinshik"
+                ],
+                "Tatar": [
+                    "тиен",
+                    "тиенчек"
+                ],
+                "Bashkir": [
+                    "тейен",
+                    "тиен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dələ"
+                ],
+                "Turkmen": [
+                    "tini"
+                ],
+                "Uyghur": [
+                    "دەرەخ تىيىنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sincap"
+                ],
+                "Azerbaijani": [
+                    "sincab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekelez"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "belka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "olmaxon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tishqoncha"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "id": "i19001",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "poetically",
+    "en_definition": "in a poetic manner",
+    "tr_word": "şiirsel bir şekilde",
+    "tr_definition": "şiirsel bir tarzda, şiire özgü bir biçimde",
+    "ru_word": "поэтически",
+    "ru_definition": "в поэтической манере, свойственным поэзии образом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şairane",
+                    "şiirsel bir şekilde"
+                ],
+                "Azerbaijani": [
+                    "şairanə"
+                ],
+                "Turkmen": [
+                    "şahyrana"
+                ],
+                "Uzbek": [
+                    "she'riy",
+                    "shoirona"
+                ],
+                "Uyghur": [
+                    "شائىرانە",
+                    "شېئىرىي ئۇسلۇبتا"
+                ],
+                "Karakalpak": [
+                    "shayırana"
+                ],
+                "Tatar": [
+                    "шигъри",
+                    "шигъриятле"
+                ],
+                "Bashkir": [
+                    "шиғри",
+                    "шағиранә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəzmlə"
+                ],
+                "Uzbek": [
+                    "nazmiy"
+                ],
+                "Uyghur": [
+                    "نەزىم بىلەن"
+                ],
+                "Kyrgyz": [
+                    "назик"
+                ],
+                "Karakalpak": [
+                    "nazımlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көркемдеп"
+                ],
+                "Kyrgyz": [
+                    "көркөмдөп"
+                ],
+                "Karakalpak": [
+                    "kórkem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "edibane"
+                ],
+                "Turkmen": [
+                    "edebi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақынша"
+                ],
+                "Kyrgyz": [
+                    "акындык менен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "нәфис"
+                ],
+                "Bashkir": [
+                    "нәфис"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "poetik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşgy bilen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өлеңмен",
+                    "өлеңдетіп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнелі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ыр менен"
+                ]
+            }
+        }
+    ]
+}

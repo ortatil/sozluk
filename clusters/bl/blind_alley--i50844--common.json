@@ -1,0 +1,123 @@
+{
+    "id": "i50844",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blind alley",
+    "en_definition": "a street with only one way in or out",
+    "tr_word": "çıkmaz sokak",
+    "tr_definition": "yalnızca bir girişi ve çıkışı olan, sonu kapalı sokak",
+    "ru_word": "тупик",
+    "ru_definition": "улица, не имеющая сквозного прохода или проезда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tupik"
+                ],
+                "Kazakh": [
+                    "тұйық",
+                    "тұйық көше"
+                ],
+                "Kyrgyz": [
+                    "туюк көчө",
+                    "туюк жол"
+                ],
+                "Karakalpak": [
+                    "tuyıq",
+                    "tuyıq kóshe"
+                ],
+                "Tatar": [
+                    "тупик"
+                ],
+                "Bashkir": [
+                    "тупик"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dar sokak"
+                ],
+                "Uzbek": [
+                    "tor ko'cha"
+                ],
+                "Tatar": [
+                    "тар тыкрык"
+                ],
+                "Bashkir": [
+                    "тар тыҡрыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıkmaz sokak",
+                    "çıkmaz"
+                ],
+                "Azerbaijani": [
+                    "çıxılmaz yol"
+                ],
+                "Turkmen": [
+                    "çykyşsyz köçe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "petik köçe"
+                ],
+                "Uzbek": [
+                    "berk ko'cha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuyuq"
+                ],
+                "Uyghur": [
+                    "تۇيۇق كوچا",
+                    "تۇيۇق يول"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "соқыр көше"
+                ],
+                "Bashkir": [
+                    "сығышһыҙ юл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kor küçə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dalan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тупырык"
+                ]
+            }
+        }
+    ]
+}

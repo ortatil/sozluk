@@ -1,0 +1,140 @@
+# Mason wasp
+| Field | Detail |
+|---|---|
+| **ID** | i47139 |
+| **English** | mason wasp |
+| **Type** | noun |
+| **Definition** | solitary wasp that constructs nests of hardened mud or clay for the young |
+| **Source** | common |
+| **Ortatil** | läyköz |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i47139",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mason wasp",
+    "en_definition": "solitary wasp that constructs nests of hardened mud or clay for the young",
+    "tr_word": "duvarcı arı",
+    "tr_definition": "yavruları için sertleşmiş çamur veya kilden yuvalar inşa eden yalnız yaşayan bir yaban arısı türü",
+    "ru_word": "оса-каменщик",
+    "ru_definition": "одиночная оса, строящая гнезда из затвердевшей грязи или глины для своего потомства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "palçıq arısı"
+                ],
+                "Turkmen": [
+                    "palçykçy ary",
+                    "layçy ary"
+                ],
+                "Kazakh": [
+                    "балшықшы ара"
+                ],
+                "Karakalpak": [
+                    "balshıqshı ara"
+                ],
+                "Tatar": [
+                    "балчык корты",
+                    "балчыкчы шөпшә",
+                    "балчык шөпшәсе"
+                ],
+                "Bashkir": [
+                    "балсыҡсы һары себен",
+                    "балсыҡсы шөпшә",
+                    "балсыҡ шөпшәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "loyko'z",
+                    "loyko'r",
+                    "loy-ari",
+                    "loy-pashsha"
+                ],
+                "Uyghur": [
+                    "لاي ھەرىسى"
+                ],
+                "Kyrgyz": [
+                    "ылайчы аары"
+                ],
+                "Karakalpak": [
+                    "ılayshı ara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duvarcı arı"
+                ],
+                "Azerbaijani": [
+                    "divar arısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gurluşykçy ary"
+                ],
+                "Kyrgyz": [
+                    "куруучу аары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çömlekçi arı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çamur arısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hörümçək arısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سېغىز ھەرە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құмырашы ара"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чопочу аары"
+                ]
+            }
+        }
+    ]
+}
+```
+

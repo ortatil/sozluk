@@ -1,0 +1,127 @@
+{
+    "id": "i93492",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "switchman",
+    "en_definition": "a man who operates railroad switches",
+    "tr_word": "makasçı",
+    "tr_definition": "Demir yollarında makasları yöneten görevli.",
+    "ru_word": "стрелочник",
+    "ru_definition": "Работник на железной дороге, ведающий переводом стрелок.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yolcu"
+                ],
+                "Azerbaijani": [
+                    "yolayırıcı",
+                    "yol dəyişdirən"
+                ],
+                "Turkmen": [
+                    "ýolçy"
+                ],
+                "Uzbek": [
+                    "yoʻlchi"
+                ],
+                "Kyrgyz": [
+                    "жол багыттоочу"
+                ],
+                "Karakalpak": [
+                    "jol baǵıtshısı"
+                ],
+                "Tatar": [
+                    "юлчы"
+                ],
+                "Bashkir": [
+                    "юл уҡсыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бағытшы"
+                ],
+                "Kyrgyz": [
+                    "багыттоочу"
+                ],
+                "Karakalpak": [
+                    "baǵıtshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "makasçı"
+                ],
+                "Azerbaijani": [
+                    "makasçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "strelkaçy"
+                ],
+                "Uzbek": [
+                    "strelkachi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "temiryoʻlchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رېلىس ئالماشتۇرغۇچى",
+                    "رېلىسچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۆنىلىش ئالماشتۇرغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тілші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жебечи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күчергечче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "уҡсы"
+                ]
+            }
+        }
+    ]
+}

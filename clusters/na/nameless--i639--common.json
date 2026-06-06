@@ -1,0 +1,161 @@
+{
+    "id": "i639",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "nameless",
+    "en_definition": "being or having an unknown or unnamed source",
+    "tr_word": "isimsiz",
+    "tr_definition": "adı olmayan veya adı bilinmeyen",
+    "ru_word": "безымянный",
+    "ru_definition": "не имеющий имени или названия, либо с неизвестным именем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adsız"
+                ],
+                "Azerbaijani": [
+                    "adsız"
+                ],
+                "Turkmen": [
+                    "adsyz"
+                ],
+                "Uyghur": [
+                    "ئاتسىز"
+                ],
+                "Kazakh": [
+                    "атаусыз"
+                ],
+                "Kyrgyz": [
+                    "аты жок",
+                    "аталбаган"
+                ],
+                "Karakalpak": [
+                    "atı joq"
+                ],
+                "Tatar": [
+                    "атсыз"
+                ],
+                "Bashkir": [
+                    "атамаһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "isimsiz"
+                ],
+                "Azerbaijani": [
+                    "isimsiz"
+                ],
+                "Uzbek": [
+                    "ismiz"
+                ],
+                "Kazakh": [
+                    "есімсіз"
+                ],
+                "Kyrgyz": [
+                    "ысымсыз"
+                ],
+                "Tatar": [
+                    "исемсез"
+                ],
+                "Bashkir": [
+                    "исемһеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "belirsiz"
+                ],
+                "Turkmen": [
+                    "belgisiz"
+                ],
+                "Kazakh": [
+                    "белгісіз"
+                ],
+                "Kyrgyz": [
+                    "белгисиз"
+                ],
+                "Karakalpak": [
+                    "belgisiz"
+                ],
+                "Tatar": [
+                    "билгесез"
+                ],
+                "Bashkir": [
+                    "билдәһеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "naməlum"
+                ],
+                "Turkmen": [
+                    "nämälim"
+                ],
+                "Uzbek": [
+                    "nomsiz",
+                    "noma'lum"
+                ],
+                "Uyghur": [
+                    "نامسىز",
+                    "نامەلۇم"
+                ],
+                "Karakalpak": [
+                    "namálim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meçhul"
+                ],
+                "Azerbaijani": [
+                    "məchul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "benom"
+                ],
+                "Uyghur": [
+                    "بىنام"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nätanyş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "беймәлім"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәгълүмсыз"
+                ]
+            }
+        }
+    ]
+}

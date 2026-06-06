@@ -1,0 +1,115 @@
+{
+    "id": "i69479",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "long distance",
+    "en_definition": "a telephone call made outside the local calling area",
+    "tr_word": "şehirlerarası görüşme",
+    "tr_definition": "yerel arama alanının dışına yapılan telefon görüşmesi",
+    "ru_word": "междугородный звонок",
+    "ru_definition": "телефонный звонок, сделанный за пределы местной зоны вызова",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehirler arası"
+                ],
+                "Azerbaijani": [
+                    "şəhərlərarası zəng"
+                ],
+                "Turkmen": [
+                    "şäherara jaň"
+                ],
+                "Uzbek": [
+                    "shaharlararo qo'ng'iroq"
+                ],
+                "Uyghur": [
+                    "شەھەر ئارىلىق تېلېفونى"
+                ],
+                "Tatar": [
+                    "шәһәрара сөйләшү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzak mesafe"
+                ],
+                "Azerbaijani": [
+                    "uzaq məsafəli zəng",
+                    "uzaq danışıq"
+                ],
+                "Turkmen": [
+                    "uzak aralykly jaň"
+                ],
+                "Uzbek": [
+                    "uzoq masofali aloqa"
+                ],
+                "Karakalpak": [
+                    "uzaq aralıqtaǵı qońırau"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "алыс байланыс",
+                    "алыс қашықтық"
+                ],
+                "Kyrgyz": [
+                    "алыскы байланыш",
+                    "алыскы сүйлөшүү"
+                ],
+                "Karakalpak": [
+                    "alıs baylanıs"
+                ],
+                "Bashkir": [
+                    "алыҫ ара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қалааралық байланыс"
+                ],
+                "Karakalpak": [
+                    "qalalararalıq baylanıs"
+                ],
+                "Bashkir": [
+                    "ҡала-ара бәйләнеш",
+                    "ҡала-ара һөйләшеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يىراق ئارىلىق تېلېفونى"
+                ],
+                "Tatar": [
+                    "ерак ара"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "milletler arası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаарлар аралык байланыш"
+                ]
+            }
+        }
+    ]
+}

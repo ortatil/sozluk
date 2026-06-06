@@ -1,0 +1,94 @@
+{
+    "id": "i36133",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "kick",
+    "en_definition": "the act of delivering a blow with the foot",
+    "tr_word": "tekme",
+    "tr_definition": "ayakla vurma eylemi",
+    "ru_word": "пинок",
+    "ru_definition": "удар ногой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekme",
+                    "tepme"
+                ],
+                "Azerbaijani": [
+                    "təpik"
+                ],
+                "Turkmen": [
+                    "tepki"
+                ],
+                "Uzbek": [
+                    "tepki"
+                ],
+                "Uyghur": [
+                    "تەپكۈ",
+                    "تەپكە"
+                ],
+                "Kazakh": [
+                    "тебу",
+                    "тебіс",
+                    "тепкі"
+                ],
+                "Kyrgyz": [
+                    "тебүү",
+                    "тепки"
+                ],
+                "Karakalpak": [
+                    "tebis",
+                    "tepki"
+                ],
+                "Tatar": [
+                    "тибү",
+                    "тибеш",
+                    "типке"
+                ],
+                "Bashkir": [
+                    "тибеү",
+                    "тибеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "darbe"
+                ],
+                "Azerbaijani": [
+                    "zərbə"
+                ],
+                "Turkmen": [
+                    "zarba"
+                ],
+                "Uzbek": [
+                    "zarba"
+                ],
+                "Uyghur": [
+                    "زەربە"
+                ],
+                "Kyrgyz": [
+                    "зарп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şillə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тибеү һуғыуы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "id": "i91945",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pensioner",
+    "en_definition": "the beneficiary of a pension fund",
+    "tr_word": "emekli",
+    "tr_definition": "emekli maaşı alan kimse",
+    "ru_word": "пенсионер",
+    "ru_definition": "человек, получающий пенсию",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pensiyaçı"
+                ],
+                "Turkmen": [
+                    "pensioner",
+                    "pensiýaçy"
+                ],
+                "Uyghur": [
+                    "پېنسىيونېر",
+                    "پېنسىيەخور",
+                    "پېنسىيىگە چىققان كىشى"
+                ],
+                "Karakalpak": [
+                    "pensiyaner",
+                    "pensiyadaǵı adam"
+                ],
+                "Tatar": [
+                    "пенсияче"
+                ],
+                "Bashkir": [
+                    "пенсия алыусы",
+                    "пенсионер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekaüt"
+                ],
+                "Azerbaijani": [
+                    "təqaüdçü"
+                ],
+                "Tatar": [
+                    "тәкъвад"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "garry"
+                ],
+                "Kazakh": [
+                    "қарт"
+                ],
+                "Kyrgyz": [
+                    "кары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "emekli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nafaqaxoʻr",
+                    "nafaqa oluvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "isteʼfodagi shaxs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зейнеткер",
+                    "зейнетші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ардагер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аксакал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dem alıstaǵı adam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өлөш алыусы"
+                ]
+            }
+        }
+    ]
+}

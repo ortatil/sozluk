@@ -1,0 +1,159 @@
+{
+    "id": "i82354",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "home port",
+    "en_definition": "the port from which a ship originates of where it is registered",
+    "tr_word": "bağlama limanı",
+    "tr_definition": "bir geminin tescil edildiği veya seferlerine başladığı liman",
+    "ru_word": "порт приписки",
+    "ru_definition": "порт, в котором судно зарегистрировано и к которому оно приписано",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ana liman"
+                ],
+                "Azerbaijani": [
+                    "ana liman"
+                ],
+                "Uzbek": [
+                    "ona bandargoh"
+                ],
+                "Tatar": [
+                    "ана порт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əsas liman"
+                ],
+                "Turkmen": [
+                    "asyl duralgasy",
+                    "esas porty"
+                ],
+                "Uzbek": [
+                    "asosiy bandargoh"
+                ],
+                "Uyghur": [
+                    "ئاساسىي پورت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тіркелген айлақ"
+                ],
+                "Karakalpak": [
+                    "tirkelgen port",
+                    "tiykarǵı port"
+                ],
+                "Tatar": [
+                    "теркәлү порты"
+                ],
+                "Bashkir": [
+                    "теркәлеү порты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağlama limanı"
+                ],
+                "Kazakh": [
+                    "бас айлақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tescil limanı"
+                ],
+                "Uyghur": [
+                    "تىزىملانغان پورت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "негізгі айлақ"
+                ],
+                "Kyrgyz": [
+                    "негизги порт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұрақжай"
+                ],
+                "Kyrgyz": [
+                    "туруктуу порт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп порт"
+                ],
+                "Bashkir": [
+                    "төп порт",
+                    "төп туҡталҡа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qeydiyyat limanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hasaba alnan porty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "roʻyxatga olingan port"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماكان پورت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "катталган порт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tuoǵan port"
+                ]
+            }
+        }
+    ]
+}

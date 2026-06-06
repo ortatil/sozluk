@@ -1,0 +1,110 @@
+{
+    "id": "i15665",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "palmar",
+    "en_definition": "relating to the palm of the hand or the sole of the foot",
+    "tr_word": "palmar",
+    "tr_definition": "avuç içi ile ilgili olan",
+    "ru_word": "ладонный",
+    "ru_definition": "относящийся к ладони руки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taban"
+                ],
+                "Kazakh": [
+                    "табан",
+                    "табандық"
+                ],
+                "Karakalpak": [
+                    "taban"
+                ],
+                "Tatar": [
+                    "табан"
+                ],
+                "Bashkir": [
+                    "табан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئالقانغا ئائىت",
+                    "ئالقان"
+                ],
+                "Kazakh": [
+                    "алақан",
+                    "алақандық"
+                ],
+                "Kyrgyz": [
+                    "алакан",
+                    "алакандык"
+                ],
+                "Karakalpak": [
+                    "alaqan"
+                ],
+                "Bashkir": [
+                    "алаҡан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "avuç içi",
+                    "ayalı"
+                ],
+                "Azerbaijani": [
+                    "ayalı",
+                    "aya"
+                ],
+                "Turkmen": [
+                    "alaýa degişli",
+                    "aýa degişli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ovuc"
+                ],
+                "Tatar": [
+                    "уч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kaftga oid",
+                    "kaftdagi",
+                    "kaft"
+                ],
+                "Kyrgyz": [
+                    "кап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "penje"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "уч төбе"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+# Spanish lime
+| Field | Detail |
+|---|---|
+| **ID** | i77864 |
+| **English** | spanish lime |
+| **Type** | noun |
+| **Definition** | round one-inch Caribbean fruit with green leathery skin and sweet juicy translucent pulp; eaten like grapes |
+| **Source** | common |
+| **Ortatil** | mamonçillo |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **mamonçillo** | **kenepä** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 1 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 1 | 0 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مەمانسىللو | mämansillo |
+| **Kazakh** | |
+| мамончилло | mamonçillo |
+| **Kyrgyz** | |
+| мамончилло | mamonçillo |
+| **Tatar** | |
+| мамончилло | mamonçillo |
+| **Bashkir** | |
+| мамончилло | mamonçillo |
+
+```json
+{
+    "id": "i77864",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spanish lime",
+    "en_definition": "round one-inch Caribbean fruit with green leathery skin and sweet juicy translucent pulp; eaten like grapes",
+    "tr_word": "mamoncillo",
+    "tr_definition": "Karayipler'e özgü, yeşil deri benzeri kabuğu ve üzüm gibi yenen tatlı, sulu, yarı saydam eti olan yuvarlak bir meyve.",
+    "ru_word": "мамончилло",
+    "ru_definition": "Круглый карибский фрукт с зеленой кожистой кожурой и сладкой сочной полупрозрачной мякотью; употребляется в пищу подобно винограду.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mamoncillo"
+                ],
+                "Azerbaijani": [
+                    "mamonçillo"
+                ],
+                "Turkmen": [
+                    "mamon"
+                ],
+                "Uzbek": [
+                    "mamon",
+                    "mamonchillo"
+                ],
+                "Uyghur": [
+                    "مەمانسىللو"
+                ],
+                "Kazakh": [
+                    "мамончилло"
+                ],
+                "Kyrgyz": [
+                    "мамончилло"
+                ],
+                "Karakalpak": [
+                    "mamonsillo"
+                ],
+                "Tatar": [
+                    "мамончилло"
+                ],
+                "Bashkir": [
+                    "мамончилло"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İspanyol misket limonu"
+                ],
+                "Azerbaijani": [
+                    "ispaniya limonu"
+                ],
+                "Turkmen": [
+                    "ispan limony"
+                ],
+                "Uzbek": [
+                    "ispan limoni"
+                ],
+                "Kazakh": [
+                    "испан лаймы"
+                ],
+                "Kyrgyz": [
+                    "испан лаймы"
+                ],
+                "Karakalpak": [
+                    "ispan laymı"
+                ],
+                "Tatar": [
+                    "испан лаймы"
+                ],
+                "Bashkir": [
+                    "испан лаймы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kenepa"
+                ],
+                "Azerbaijani": [
+                    "kenep"
+                ],
+                "Turkmen": [
+                    "kenep"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۇئانا ھۆل مېۋىسى"
+                ]
+            }
+        }
+    ]
+}
+```
+

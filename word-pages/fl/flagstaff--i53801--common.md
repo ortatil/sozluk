@@ -1,0 +1,147 @@
+# Flagstaff
+| Field | Detail |
+|---|---|
+| **ID** | i53801 |
+| **English** | flagstaff |
+| **Type** | noun |
+| **Definition** | a tall staff or pole on which a flag is raised |
+| **Source** | common |
+| **Ortatil** | diräk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| діңгек | diñgek |
+| тутұғыр | tutuğır |
+
+```json
+{
+    "id": "i53801",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flagstaff",
+    "en_definition": "a tall staff or pole on which a flag is raised",
+    "tr_word": "bayrak direği",
+    "tr_definition": "bayrağın göndere çekildiği uzun çubuk veya direk",
+    "ru_word": "флагшток",
+    "ru_definition": "высокий шест или столб, на котором поднимается флаг",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bayrak direği"
+                ],
+                "Azerbaijani": [
+                    "bayraq dirəyi",
+                    "bayraq ağacı"
+                ],
+                "Turkmen": [
+                    "baýdak sütün",
+                    "baýdak agajy"
+                ],
+                "Uzbek": [
+                    "bayroqdor",
+                    "bayroq ustuni",
+                    "bayroq dastasining yog'ochi"
+                ],
+                "Uyghur": [
+                    "بايراق دەستىسى",
+                    "بايراق ياغىچى"
+                ],
+                "Karakalpak": [
+                    "bayraqpaya",
+                    "bayraq sabı"
+                ],
+                "Tatar": [
+                    "байрак манарасы",
+                    "байрак сабы",
+                    "байрак баганасы"
+                ],
+                "Bashkir": [
+                    "байраҡ бағанаһы",
+                    "байраҡ һабы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۇغ دەستىسى",
+                    "تۇغ ياغىچى"
+                ],
+                "Kazakh": [
+                    "ту сабы"
+                ],
+                "Kyrgyz": [
+                    "туу сабы",
+                    "туу мамы"
+                ],
+                "Karakalpak": [
+                    "tuǵ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dirək"
+                ],
+                "Kazakh": [
+                    "діңгек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gönder"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sütün"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mizroq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тутұғыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "желек сабы",
+                    "желек мамы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "флаг бағанаһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

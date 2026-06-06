@@ -1,0 +1,169 @@
+# Test match
+| Field | Detail |
+|---|---|
+| **ID** | i75990 |
+| **English** | test match |
+| **Type** | noun |
+| **Definition** | an international championship match |
+| **Source** | common |
+| **Ortatil** | jarış |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| сынашуу | sınaşuu |
+| мелдеш | meldeş |
+| жарыш | jarış |
+| беттеш | betteş |
+
+```json
+{
+    "id": "i75990",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "test match",
+    "en_definition": "an international championship match",
+    "tr_word": "test maçı",
+    "tr_definition": "özellikle kriket veya ragbi gibi sporlarda ülkeler arasında oynanan uluslararası şampiyona maçı",
+    "ru_word": "тестовый матч",
+    "ru_definition": "международный матч чемпионата, обычно в крикете или регби",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sınaq oyunu"
+                ],
+                "Turkmen": [
+                    "synag bäsleşigi",
+                    "synag duşuşygy"
+                ],
+                "Uzbek": [
+                    "sinov oʻyini",
+                    "sinov uchrashuvi"
+                ],
+                "Uyghur": [
+                    "سىناق مۇسابىقىسى"
+                ],
+                "Kazakh": [
+                    "сынақ жарысы",
+                    "сынақ ойыны"
+                ],
+                "Kyrgyz": [
+                    "сынашуу"
+                ],
+                "Karakalpak": [
+                    "sınaq jarısı",
+                    "sınaq oyını"
+                ],
+                "Tatar": [
+                    "сынау ярышы",
+                    "сынау бәйгесе",
+                    "сынау уены"
+                ],
+                "Bashkir": [
+                    "һынау уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "halkara ýaryşy"
+                ],
+                "Uzbek": [
+                    "xalqaro musobaqa"
+                ],
+                "Uyghur": [
+                    "خەلقارالىق مۇسابىقە",
+                    "ھەل قىلغۇچ مۇسابىقە"
+                ],
+                "Kazakh": [
+                    "халықаралық жарыс",
+                    "халықаралық ойын"
+                ],
+                "Karakalpak": [
+                    "xalıqaralıq jarıs"
+                ],
+                "Bashkir": [
+                    "халыҡ-ара ярыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "millî maç",
+                    "milletlerarası karşılaşma",
+                    "millî müsabaka"
+                ],
+                "Kyrgyz": [
+                    "мелдеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yarış"
+                ],
+                "Kyrgyz": [
+                    "жарыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bellashuv"
+                ],
+                "Kyrgyz": [
+                    "беттеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uluslararası müsabaka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "beynəlxalq oyun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yoxlama görüşü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müsabiqə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төп бәйге"
+                ]
+            }
+        }
+    ]
+}
+```
+

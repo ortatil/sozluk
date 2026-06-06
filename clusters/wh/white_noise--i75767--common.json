@@ -1,0 +1,86 @@
+{
+    "id": "i75767",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white noise",
+    "en_definition": "a noise produced by a stimulus containing all of the audible frequencies of vibration",
+    "tr_word": "beyaz gürültü",
+    "tr_definition": "tüm işitilebilir frekansları içeren, sürekli ve tekdüze bir ses türü",
+    "ru_word": "белый шум",
+    "ru_definition": "стационарный шум, спектральные составляющие которого равномерно распределены по всему диапазону задействованных частот",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak gürültü"
+                ],
+                "Azerbaijani": [
+                    "ağ küy",
+                    "ağ səs"
+                ],
+                "Turkmen": [
+                    "ak ses"
+                ],
+                "Kazakh": [
+                    "ақ шуыл",
+                    "ақ дыбыс"
+                ],
+                "Kyrgyz": [
+                    "ак добуш"
+                ],
+                "Karakalpak": [
+                    "aq shuıl",
+                    "aq dabıs"
+                ],
+                "Tatar": [
+                    "ак шау-шу",
+                    "ак тавыш"
+                ],
+                "Bashkir": [
+                    "аҡ шау",
+                    "аҡ шау-шыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ak gowurdy",
+                    "ak şowhun"
+                ],
+                "Uzbek": [
+                    "oq shovqin"
+                ],
+                "Uyghur": [
+                    "ئاق شاۋقۇن"
+                ],
+                "Kyrgyz": [
+                    "ак ызы-чуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz gürültü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yakrang shovqin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاق غوڭۇلداش"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "id": "i81391",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pedestrian traffic",
+    "en_definition": "people coming and going on foot",
+    "tr_word": "yaya trafiği",
+    "tr_definition": "yürüyerek gidip gelen insanların oluşturduğu yoğunluk",
+    "ru_word": "пешеходное движение",
+    "ru_definition": "передвижение людей пешком по определенному маршруту или территории",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaya trafiği",
+                    "yaya akışı",
+                    "yaya gidiş gelişi"
+                ],
+                "Kazakh": [
+                    "жаяу жүргіншілер қозғалысы",
+                    "жаяу жүріс",
+                    "жаяулар ағыны"
+                ],
+                "Karakalpak": [
+                    "jayaular qozǵalısı",
+                    "jayau júrgіnshіler qozǵalısı",
+                    "jayau júrіs"
+                ],
+                "Tatar": [
+                    "җәяүлеләр хәрәкәте",
+                    "җәяүлеләр йөреше"
+                ],
+                "Bashkir": [
+                    "йәйәүлеләр хәрәкәте",
+                    "йәйәүлеләр йөрөшө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "piyada gediş-gəlişi",
+                    "piyada hərəkəti",
+                    "piyada axını"
+                ],
+                "Turkmen": [
+                    "pyýada gatnawy",
+                    "pyýada hereketi",
+                    "pyýada ýoly"
+                ],
+                "Uzbek": [
+                    "piyodalar harakati",
+                    "piyoda yurish",
+                    "piyodalar oqimi"
+                ],
+                "Uyghur": [
+                    "پىيادىلەر قاتنىشى",
+                    "پىيادىلەر ئېقىمى",
+                    "پىيادە مېڭىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жөө жүрүш",
+                    "жөө кыймыл",
+                    "жөө каттам"
+                ]
+            }
+        }
+    ]
+}

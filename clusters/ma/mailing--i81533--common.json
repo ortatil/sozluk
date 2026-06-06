@@ -1,0 +1,181 @@
+{
+    "id": "i81533",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mailing",
+    "en_definition": "mail sent by a sender at one time",
+    "tr_word": "postalama",
+    "tr_definition": "Bir gönderici tarafından tek seferde gönderilen posta veya gönderi işlemi",
+    "ru_word": "рассылка",
+    "ru_definition": "почтовые отправления, отправленные отправителем за один раз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "posta"
+                ],
+                "Turkmen": [
+                    "poçta"
+                ],
+                "Uzbek": [
+                    "pochta"
+                ],
+                "Uyghur": [
+                    "پوچتا"
+                ],
+                "Kazakh": [
+                    "пошта"
+                ],
+                "Karakalpak": [
+                    "poshta"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hat-habar"
+                ],
+                "Kazakh": [
+                    "хат-хабар",
+                    "хат"
+                ],
+                "Kyrgyz": [
+                    "кат-каттар"
+                ],
+                "Karakalpak": [
+                    "xat-xabar",
+                    "xat"
+                ],
+                "Tatar": [
+                    "хат-хәбәр",
+                    "хатлар"
+                ],
+                "Bashkir": [
+                    "хат-хәбәр",
+                    "хаттар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "joʻnatma"
+                ],
+                "Kazakh": [
+                    "жөнелтілім"
+                ],
+                "Kyrgyz": [
+                    "жөнөтмө"
+                ],
+                "Karakalpak": [
+                    "jóneltilim"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mektup"
+                ],
+                "Azerbaijani": [
+                    "məktublaşma"
+                ],
+                "Uzbek": [
+                    "maktubot"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "يوللانما"
+                ],
+                "Tatar": [
+                    "юллама"
+                ],
+                "Bashkir": [
+                    "юллама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gönderi"
+                ],
+                "Azerbaijani": [
+                    "göndəriş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "irsaliye"
+                ],
+                "Turkmen": [
+                    "iberiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mürasilə"
+                ],
+                "Uzbek": [
+                    "murasala"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yazışma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ugradyş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەۋەتمە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кат-кабар",
+                    "кат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җибәрелү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәбәрләшмә"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "id": "i115038",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chalk dust",
+    "en_definition": "dust resulting from writing with a piece of chalk",
+    "tr_word": "tebeşir tozu",
+    "tr_definition": "bir parça tebeşirle yazı yazılması sonucu oluşan toz",
+    "ru_word": "меловая пыль",
+    "ru_definition": "пыль, образующаяся при письме кусочком мела",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bo'r kukun",
+                    "bo'r to'zoni",
+                    "bo'r g'ubori"
+                ],
+                "Uyghur": [
+                    "بور توزانلىرى",
+                    "بور توپا-چاڭلىرى",
+                    "بور تالقىنى"
+                ],
+                "Kazakh": [
+                    "бор тозаңы",
+                    "бор шаңы"
+                ],
+                "Kyrgyz": [
+                    "бор чаңы",
+                    "бордун чаңы"
+                ],
+                "Karakalpak": [
+                    "bor shańı",
+                    "bor tozańı"
+                ],
+                "Tatar": [
+                    "бур тузаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tebeşir tozu",
+                    "tebeşir kırıntısı"
+                ],
+                "Azerbaijani": [
+                    "təbaşir tozu",
+                    "təbaşir qırıntısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "акбур тузаны"
+                ],
+                "Bashkir": [
+                    "аҡбур туҙаны",
+                    "аҡбур туҙы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hekiň tozany",
+                    "hek tozany"
+                ]
+            }
+        }
+    ]
+}

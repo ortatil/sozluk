@@ -1,0 +1,179 @@
+{
+    "id": "i38900",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "therapy",
+    "en_definition": "(medicine) the act of caring for someone (as by medication or remedial training etc.)",
+    "tr_word": "terapi",
+    "tr_definition": "İlaç, egzersiz veya diğer yöntemlerle bir hastalığı veya bozukluğu iyileştirme süreci, tedavi.",
+    "ru_word": "терапия",
+    "ru_definition": "Процесс лечения больного, направленный на устранение заболевания или облегчение его симптомов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şifa"
+                ],
+                "Azerbaijani": [
+                    "şəfa"
+                ],
+                "Turkmen": [
+                    "şypa"
+                ],
+                "Uzbek": [
+                    "shifo"
+                ],
+                "Kazakh": [
+                    "шипа"
+                ],
+                "Kyrgyz": [
+                    "шыпаа"
+                ],
+                "Karakalpak": [
+                    "shipa"
+                ],
+                "Tatar": [
+                    "шифа"
+                ],
+                "Bashkir": [
+                    "шифа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tedavi"
+                ],
+                "Uzbek": [
+                    "davolash"
+                ],
+                "Uyghur": [
+                    "داۋالاش"
+                ],
+                "Karakalpak": [
+                    "daoalau"
+                ],
+                "Tatar": [
+                    "дәвалау"
+                ],
+                "Bashkir": [
+                    "дауалау",
+                    "дауа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "em"
+                ],
+                "Kazakh": [
+                    "ем",
+                    "емдеу"
+                ],
+                "Kyrgyz": [
+                    "эмдөө"
+                ],
+                "Karakalpak": [
+                    "emleu"
+                ],
+                "Tatar": [
+                    "имләү"
+                ],
+                "Bashkir": [
+                    "имләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "müalicə"
+                ],
+                "Turkmen": [
+                    "mualyja"
+                ],
+                "Uzbek": [
+                    "muolaja"
+                ],
+                "Uyghur": [
+                    "مۇعالە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sağaltım"
+                ],
+                "Azerbaijani": [
+                    "sağaltma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "terapi"
+                ],
+                "Uyghur": [
+                    "تېراپىيە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iyileştirme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təbabət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bejeriş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tadbirlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сауықтыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дарылоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айыктыруу"
+                ]
+            }
+        }
+    ]
+}

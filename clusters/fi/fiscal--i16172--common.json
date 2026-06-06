@@ -1,0 +1,137 @@
+{
+    "id": "i16172",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "fiscal",
+    "en_definition": "involving financial matters",
+    "tr_word": "mali",
+    "tr_definition": "Devletin gelir ve giderleri ile ilgili olan, finansal konuları kapsayan.",
+    "ru_word": "фискальный",
+    "ru_definition": "Относящийся к государственным финансам, налогам и бюджету.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mali"
+                ],
+                "Azerbaijani": [
+                    "maliyyə"
+                ],
+                "Turkmen": [
+                    "maliýe"
+                ],
+                "Uzbek": [
+                    "moliyaviy"
+                ],
+                "Uyghur": [
+                    "مالىيە",
+                    "مالىيىگە ئائىت"
+                ],
+                "Kazakh": [
+                    "мали"
+                ],
+                "Kyrgyz": [
+                    "малиелик"
+                ],
+                "Karakalpak": [
+                    "maliy"
+                ],
+                "Tatar": [
+                    "мали",
+                    "малия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iktisadi"
+                ],
+                "Azerbaijani": [
+                    "iqtisadi"
+                ],
+                "Uzbek": [
+                    "iqtisodiy"
+                ],
+                "Uyghur": [
+                    "ئىقتىسادىي"
+                ],
+                "Bashkir": [
+                    "аҡса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gazna"
+                ],
+                "Kazakh": [
+                    "қазыналық"
+                ],
+                "Kyrgyz": [
+                    "казыналык"
+                ],
+                "Tatar": [
+                    "казна"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xəzinə"
+                ],
+                "Uzbek": [
+                    "xazinaviy"
+                ],
+                "Bashkir": [
+                    "хазина"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қаржылық"
+                ],
+                "Kyrgyz": [
+                    "каржылык"
+                ],
+                "Karakalpak": [
+                    "qarjılıq",
+                    "qarjı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "финанс"
+                ],
+                "Bashkir": [
+                    "финанс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "parasal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pul"
+                ]
+            }
+        }
+    ]
+}

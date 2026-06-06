@@ -1,0 +1,63 @@
+{
+    "id": "i63625",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "right-handedness",
+    "en_definition": "preference for using the right hand",
+    "tr_word": "sağlaklık",
+    "tr_definition": "sağ elini kullanma eğilimi veya alışkanlığı",
+    "ru_word": "праворукость",
+    "ru_definition": "предпочтительное использование правой руки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'naqaylik",
+                    "o'ng qo'llik"
+                ],
+                "Uyghur": [
+                    "ئوڭخايلىق",
+                    "ئوڭ قوللۇق"
+                ],
+                "Kazakh": [
+                    "оңқайлық",
+                    "оңқай"
+                ],
+                "Kyrgyz": [
+                    "оң колдуулук",
+                    "оңчулдук"
+                ],
+                "Karakalpak": [
+                    "ońqaylıq",
+                    "ońqay"
+                ],
+                "Tatar": [
+                    "уңайлык",
+                    "уң куллылык"
+                ],
+                "Bashkir": [
+                    "уңайлыҡ",
+                    "уң ҡуллылыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağlaklık",
+                    "sağ elini kullanma"
+                ],
+                "Azerbaijani": [
+                    "sağaxaylıq",
+                    "sağəllilik"
+                ],
+                "Turkmen": [
+                    "saggaýlyk",
+                    "sagaklyk"
+                ]
+            }
+        }
+    ]
+}

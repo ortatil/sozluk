@@ -1,0 +1,198 @@
+{
+    "id": "i6001",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "defective",
+    "en_definition": "not working properly",
+    "tr_word": "kusurlu",
+    "tr_definition": "düzgün çalışmayan, hatalı veya eksik olan",
+    "ru_word": "дефектный",
+    "ru_definition": "неисправный, имеющий изъяны или работающий неправильно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bozuk"
+                ],
+                "Turkmen": [
+                    "bozuk"
+                ],
+                "Uzbek": [
+                    "buzuq"
+                ],
+                "Uyghur": [
+                    "بۇزۇق"
+                ],
+                "Kazakh": [
+                    "бұзылған"
+                ],
+                "Kyrgyz": [
+                    "бузук"
+                ],
+                "Karakalpak": [
+                    "buzıq"
+                ],
+                "Tatar": [
+                    "бозык"
+                ],
+                "Bashkir": [
+                    "боҙоҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kemçilikli",
+                    "kemli"
+                ],
+                "Uzbek": [
+                    "kamchilikli"
+                ],
+                "Uyghur": [
+                    "كەمتۈك"
+                ],
+                "Kazakh": [
+                    "кемісті"
+                ],
+                "Kyrgyz": [
+                    "кемтик"
+                ],
+                "Karakalpak": [
+                    "kemshilikli"
+                ],
+                "Tatar": [
+                    "кимчелекле"
+                ],
+                "Bashkir": [
+                    "кәмселекле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nöqsanlı"
+                ],
+                "Uzbek": [
+                    "nuqsonli"
+                ],
+                "Uyghur": [
+                    "نۇقسانلىق",
+                    "نوقسانى بار"
+                ],
+                "Kyrgyz": [
+                    "нуксондуу"
+                ],
+                "Karakalpak": [
+                    "nuqsanlı"
+                ],
+                "Tatar": [
+                    "нукыс"
+                ],
+                "Bashkir": [
+                    "нуҡсанлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жарамсыз"
+                ],
+                "Kyrgyz": [
+                    "жараксыз"
+                ],
+                "Karakalpak": [
+                    "jaramsız"
+                ],
+                "Bashkir": [
+                    "яраҡһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nasaz"
+                ],
+                "Turkmen": [
+                    "näsaz"
+                ],
+                "Uzbek": [
+                    "nosoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arızalı"
+                ],
+                "Kazakh": [
+                    "ақаулы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kusurlu"
+                ],
+                "Azerbaijani": [
+                    "qüsurlu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "illatli"
+                ],
+                "Uyghur": [
+                    "ئىللەتلەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eksik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xarab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nuansly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мүчүлүш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гаипле"
+                ]
+            }
+        }
+    ]
+}

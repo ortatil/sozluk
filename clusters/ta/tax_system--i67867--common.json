@@ -1,0 +1,79 @@
+{
+    "id": "i67867",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tax system",
+    "en_definition": "a legal system for assessing and collecting taxes",
+    "tr_word": "vergi sistemi",
+    "tr_definition": "vergilerin hesaplanması ve toplanması için oluşturulmuş yasal sistem",
+    "ru_word": "налоговая система",
+    "ru_definition": "совокупность налогов, правил и методов их исчисления и сбора",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salgyt ulgamy",
+                    "salgyt düzgüni",
+                    "salgyt tertibi"
+                ],
+                "Uzbek": [
+                    "soliq tizimi",
+                    "soliq tartibi"
+                ],
+                "Kazakh": [
+                    "салық жүйесі",
+                    "салық тәртібі",
+                    "салық құрылымы"
+                ],
+                "Kyrgyz": [
+                    "салык тутуму",
+                    "салык системасы",
+                    "салык тартиби"
+                ],
+                "Karakalpak": [
+                    "salıq sisteması",
+                    "salıq tártibi",
+                    "salıq dúzimi"
+                ],
+                "Tatar": [
+                    "салым системасы",
+                    "салым тәртибе",
+                    "салым корылышы"
+                ],
+                "Bashkir": [
+                    "һалым системаһы",
+                    "һалым ҡоролошо",
+                    "һалым тәртибе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vergi sistemi",
+                    "vergi düzeni",
+                    "vergi usulü",
+                    "vergi rejimi"
+                ],
+                "Azerbaijani": [
+                    "vergi sistemi",
+                    "vergi quruluşu",
+                    "vergi nizamı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boj tizimi"
+                ],
+                "Uyghur": [
+                    "باج تۈزۈمى",
+                    "باج سىستېمىسى",
+                    "باج-سېلىق تۈزۈمى"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "i48065",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "filly",
+    "en_definition": "a young female horse under the age of four",
+    "tr_word": "tay",
+    "tr_definition": "dört yaşından küçük dişi at",
+    "ru_word": "молодая кобыла",
+    "ru_definition": "молодая самка лошади в возрасте до четырех лет",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "baýtal"
+                ],
+                "Uzbek": [
+                    "baytal"
+                ],
+                "Kazakh": [
+                    "байтал"
+                ],
+                "Kyrgyz": [
+                    "байтал"
+                ],
+                "Karakalpak": [
+                    "baytal"
+                ],
+                "Tatar": [
+                    "бикәч"
+                ],
+                "Bashkir": [
+                    "байтал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dayça"
+                ],
+                "Turkmen": [
+                    "taý"
+                ],
+                "Uyghur": [
+                    "تاي"
+                ],
+                "Karakalpak": [
+                    "tay"
+                ],
+                "Tatar": [
+                    "тай",
+                    "тайчык"
+                ],
+                "Bashkir": [
+                    "тай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dişi tay"
+                ],
+                "Uyghur": [
+                    "چىشى تاي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kısrak tayı"
+                ],
+                "Turkmen": [
+                    "gysrak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'unajin"
+                ],
+                "Kyrgyz": [
+                    "кунан байтал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құлыншақ"
+                ],
+                "Bashkir": [
+                    "ҡолон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "madyan",
+                    "madyan balası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бышты байтал"
+                ]
+            }
+        }
+    ]
+}

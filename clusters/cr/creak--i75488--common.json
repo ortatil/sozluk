@@ -1,0 +1,110 @@
+{
+    "id": "i75488",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "creak",
+    "en_definition": "a squeaking sound",
+    "tr_word": "gıcırtı",
+    "tr_definition": "Sert nesnelerin birbirine sürtünmesiyle çıkan tiz ve keskin ses.",
+    "ru_word": "скрип",
+    "ru_definition": "Резкий, неприятный звук, возникающий при трении предметов друг о друга.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gıcırtı",
+                    "gıcırdama"
+                ],
+                "Turkmen": [
+                    "gyzyrdy",
+                    "gyžyrdy",
+                    "jygyrdy"
+                ],
+                "Uzbek": [
+                    "g'ichirlash",
+                    "g'ichir-g'ichir"
+                ],
+                "Uyghur": [
+                    "غىچىرلىغان ئاۋاز",
+                    "غىچىر-غىچىر",
+                    "غىچىرلاش"
+                ],
+                "Kyrgyz": [
+                    "кычыроо",
+                    "кычырт"
+                ],
+                "Tatar": [
+                    "гыжылдау",
+                    "кыштырдау",
+                    "кыштыр"
+                ],
+                "Bashkir": [
+                    "ғыжырлау",
+                    "ғыжыр",
+                    "ҡыжырлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cırtı"
+                ],
+                "Azerbaijani": [
+                    "cırtıltı",
+                    "cırcır",
+                    "cıqqıltı"
+                ],
+                "Turkmen": [
+                    "jygyldy"
+                ],
+                "Kazakh": [
+                    "сырқырау"
+                ],
+                "Tatar": [
+                    "чыгырдау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сықыр",
+                    "шиқыл"
+                ],
+                "Karakalpak": [
+                    "shıqır",
+                    "sıqır",
+                    "shıqırlaǵan dauıs"
+                ],
+                "Bashkir": [
+                    "шығырлау",
+                    "шығыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xırıltı"
+                ],
+                "Kyrgyz": [
+                    "кырчылдоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chiyillash"
+                ],
+                "Kyrgyz": [
+                    "чыкыроо"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "id": "i5781",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "ginger-scented",
+    "en_definition": "smelling of ginger",
+    "tr_word": "zencefil kokulu",
+    "tr_definition": "zencefil gibi kokan",
+    "ru_word": "с ароматом имбиря",
+    "ru_definition": "пахнущий имбирем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zencefil kokulu",
+                    "zencefil ıtriyatlı",
+                    "zencefil rayihalı"
+                ],
+                "Azerbaijani": [
+                    "zəncəfil qoxulu",
+                    "zəncəfil ətirli",
+                    "zəncəfil iyli"
+                ],
+                "Turkmen": [
+                    "zencebil ysly",
+                    "zencebil ysy gelýän",
+                    "zencebil hoşboýly"
+                ],
+                "Uzbek": [
+                    "zanjabil hidli",
+                    "zanjabil bo'yli",
+                    "zanjabil iforli"
+                ],
+                "Uyghur": [
+                    "زەنجىۋىل پۇراقلىق",
+                    "زەنجىۋىل ھىدلىق"
+                ],
+                "Kyrgyz": [
+                    "занжабил жыттуу",
+                    "занжабил жыты аңкыган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "імбір иісті",
+                    "імбір жұпарлы",
+                    "імбір аңқыған"
+                ],
+                "Kyrgyz": [
+                    "имбирь жыттуу"
+                ],
+                "Karakalpak": [
+                    "imbir iyisli",
+                    "imbir puraqlı",
+                    "imbir jıparlı"
+                ],
+                "Tatar": [
+                    "имбир исле",
+                    "имбир хуш исле",
+                    "имбир аңкыган"
+                ],
+                "Bashkir": [
+                    "имбир еҫле",
+                    "имбир еҫе килгән",
+                    "имбир еҫе аңҡыған"
+                ]
+            }
+        }
+    ]
+}

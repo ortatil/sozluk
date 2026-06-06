@@ -1,0 +1,94 @@
+{
+    "id": "i102327",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "red-skinned onion",
+    "en_definition": "onion with white to deep red tunic; California",
+    "tr_word": "kırmızı soğan",
+    "tr_definition": "Dışı kırmızı veya morumsu, içi beyaz ve katmanlı olan bir soğan türü.",
+    "ru_word": "красный лук",
+    "ru_definition": "Сорт репчатого лука с красновато-фиолетовой кожицей и белой мякотью с розовыми краями.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyzyl sogan"
+                ],
+                "Uzbek": [
+                    "qizil piyoz"
+                ],
+                "Uyghur": [
+                    "قىزىل پىياز"
+                ],
+                "Kazakh": [
+                    "қызыл пияз"
+                ],
+                "Kyrgyz": [
+                    "кызыл пияз",
+                    "кызыл баш пияз"
+                ],
+                "Karakalpak": [
+                    "qızıl piyaz",
+                    "qızıl qabıqlı piyaz"
+                ],
+                "Tatar": [
+                    "кызыл суган",
+                    "кызыл башлы суган"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл һуған",
+                    "ҡыҙыл ҡабыҡлы һуған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırmızı soğan"
+                ],
+                "Azerbaijani": [
+                    "qırmızı soğan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bənövşəyi soğan"
+                ],
+                "Uzbek": [
+                    "binafsha piyoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mor soğan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "al sogan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۆسۈن پىياز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күлгін пияз"
+                ]
+            }
+        }
+    ]
+}

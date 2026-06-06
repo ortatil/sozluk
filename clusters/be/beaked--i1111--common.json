@@ -1,0 +1,91 @@
+{
+    "id": "i1111",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "beaked",
+    "en_definition": "having or resembling a beak",
+    "tr_word": "gagalı",
+    "tr_definition": "gagası olan veya gagaya benzeyen",
+    "ru_word": "клювовидный",
+    "ru_definition": "имеющий клюв или напоминающий его по форме",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tumsheqli",
+                    "tumsheqdor",
+                    "tumsheqsimon"
+                ],
+                "Uyghur": [
+                    "تۇمشۇقلۇق",
+                    "تۇمشۇقسىمان"
+                ],
+                "Kazakh": [
+                    "тұмсықты",
+                    "тұмсық тәрізді",
+                    "тұмсықша"
+                ],
+                "Kyrgyz": [
+                    "тумшуктуу",
+                    "тумшук сымал"
+                ],
+                "Karakalpak": [
+                    "tumsıqlı",
+                    "tumsıqsha"
+                ],
+                "Tatar": [
+                    "томшыклы",
+                    "томшыксыман"
+                ],
+                "Bashkir": [
+                    "томшоҡло",
+                    "томшоҡ һымаҡ",
+                    "томшоҡ рәүешле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "burunlu"
+                ],
+                "Turkmen": [
+                    "burunly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gagalı",
+                    "gagamsı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dimdikli",
+                    "dimdikşəkilli",
+                    "dimdikvari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çüňkli",
+                    "çüňkly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илмек тумшук"
+                ]
+            }
+        }
+    ]
+}

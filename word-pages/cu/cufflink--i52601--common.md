@@ -1,0 +1,113 @@
+# Cufflink
+| Field | Detail |
+|---|---|
+| **ID** | i52601 |
+| **English** | cufflink |
+| **Type** | noun |
+| **Definition** | jewelry consisting of one of a pair of linked buttons used to fasten the cuffs of a shirt |
+| **Source** | common |
+| **Ortatil** | jeñbäğiç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жеңтүйме | jeñtüyme |
+| түймешік | tüymeşik |
+| **Bashkir** | |
+| төймә | töymä |
+
+```json
+{
+    "id": "i52601",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cufflink",
+    "en_definition": "jewelry consisting of one of a pair of linked buttons used to fasten the cuffs of a shirt",
+    "tr_word": "kol düğmesi",
+    "tr_definition": "Gömlek kollarını iliklemek için kullanılan, genellikle metalden yapılmış bir çift süs düğmesi.",
+    "ru_word": "запонка",
+    "ru_definition": "Застежка, вставляемая в петли манжет мужской рубашки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yeng tugmasi",
+                    "yengbog‘ich"
+                ],
+                "Uyghur": [
+                    "يەڭ تۈگمىسى",
+                    "يەڭ تۈگمىچىسى"
+                ],
+                "Kazakh": [
+                    "жеңтүйме"
+                ],
+                "Kyrgyz": [
+                    "жең топчу",
+                    "жең илгич"
+                ],
+                "Karakalpak": [
+                    "jeń túyme",
+                    "jeń ilgek"
+                ],
+                "Tatar": [
+                    "җиңсә төймәсе",
+                    "җиң төймәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kol düğmesi"
+                ],
+                "Azerbaijani": [
+                    "qol düyməsi"
+                ],
+                "Turkmen": [
+                    "ýeň düwmesi",
+                    "golçak düwmesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "manşet düğmesi"
+                ],
+                "Azerbaijani": [
+                    "manjet düyməsi"
+                ],
+                "Bashkir": [
+                    "манжет төймәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түймешік"
+                ],
+                "Bashkir": [
+                    "төймә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yeng qistirgichi"
+                ]
+            }
+        }
+    ]
+}
+```
+

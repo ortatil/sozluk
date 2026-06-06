@@ -1,0 +1,113 @@
+# Brake pedal
+| Field | Detail |
+|---|---|
+| **ID** | i51079 |
+| **English** | brake pedal |
+| **Type** | noun |
+| **Definition** | foot pedal that moves a piston in the master brake cylinder |
+| **Source** | common |
+| **Ortatil** | tecegiş |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i51079",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brake pedal",
+    "en_definition": "foot pedal that moves a piston in the master brake cylinder",
+    "tr_word": "fren pedalı",
+    "tr_definition": "ana fren silindirindeki bir pistonu hareket ettiren ayak pedalı",
+    "ru_word": "педаль тормоза",
+    "ru_definition": "ножная педаль, которая приводит в движение поршень в главном тормозном цилиндре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tormoz pedalı"
+                ],
+                "Turkmen": [
+                    "tormoz pedaly",
+                    "tormoz aýaklygy"
+                ],
+                "Uzbek": [
+                    "tormoz tepkisi",
+                    "tormoz oyog'i"
+                ],
+                "Uyghur": [
+                    "تورمۇز پېدالى",
+                    "تورمۇز دەسسىگۈچى",
+                    "تورمۇز تەپكۈچى"
+                ],
+                "Kyrgyz": [
+                    "тормоз тепкiчi"
+                ],
+                "Tatar": [
+                    "тормоз баскычы"
+                ],
+                "Bashkir": [
+                    "тормоз педале"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "токтоткуч тепкiч"
+                ],
+                "Tatar": [
+                    "туктаткыч баскычы",
+                    "туктату педале"
+                ],
+                "Bashkir": [
+                    "туҡтатыу педале"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayak freni"
+                ],
+                "Karakalpak": [
+                    "ayaq tejegish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тежегіш тепкіші",
+                    "тежегіш басқышы",
+                    "тежегіш педалі"
+                ],
+                "Karakalpak": [
+                    "tejegish",
+                    "tejegish basqıshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fren pedalı",
+                    "fren kolu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əyləc pedalı"
+                ]
+            }
+        }
+    ]
+}
+```
+

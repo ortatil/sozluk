@@ -1,0 +1,119 @@
+{
+    "id": "i110715",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dehydration",
+    "en_definition": "depletion of bodily fluids",
+    "tr_word": "dehidrasyon",
+    "tr_definition": "vücut sıvılarının aşırı derecede azalması",
+    "ru_word": "обезвоживание",
+    "ru_definition": "потеря организмом воды ниже физиологической нормы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "susuzluk"
+                ],
+                "Azerbaijani": [
+                    "susuzlaşma",
+                    "susuzluq"
+                ],
+                "Turkmen": [
+                    "suwsuzlyk",
+                    "suwsuzlanma",
+                    "suwsuz galma"
+                ],
+                "Uzbek": [
+                    "suvsizlanish",
+                    "suvsizlik"
+                ],
+                "Uyghur": [
+                    "سۇسىزلىنىش"
+                ],
+                "Kazakh": [
+                    "сусыздану",
+                    "сусыздық"
+                ],
+                "Kyrgyz": [
+                    "суусуздук",
+                    "суусуздануу"
+                ],
+                "Karakalpak": [
+                    "suosızlanıo",
+                    "suosızlıq"
+                ],
+                "Tatar": [
+                    "сусызлану",
+                    "сусау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuruma"
+                ],
+                "Kyrgyz": [
+                    "кургакчылык"
+                ],
+                "Tatar": [
+                    "кору"
+                ],
+                "Bashkir": [
+                    "ҡороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su kaybı"
+                ],
+                "Azerbaijani": [
+                    "su itkisi"
+                ],
+                "Uyghur": [
+                    "سۇ يېتىشمەسلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıvı kaybı"
+                ],
+                "Bashkir": [
+                    "һыуһыҙланыу",
+                    "һыуһыҙлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tashnalik"
+                ],
+                "Uyghur": [
+                    "تەشنالىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кеберсу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "suodıń kemioi"
+                ]
+            }
+        }
+    ]
+}

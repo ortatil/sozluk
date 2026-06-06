@@ -1,0 +1,149 @@
+# Second class
+| Field | Detail |
+|---|---|
+| **ID** | i51339 |
+| **English** | second class |
+| **Type** | noun |
+| **Definition** | a class of accommodations on a ship or train or plane that are less expensive than first class accommodations |
+| **Source** | common |
+| **Ortatil** | ikincilik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i51339",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "second class",
+    "en_definition": "a class of accommodations on a ship or train or plane that are less expensive than first class accommodations",
+    "tr_word": "ikinci sınıf",
+    "tr_definition": "bir gemi, tren veya uçakta birinci sınıftan daha ucuz olan konaklama veya hizmet sınıfı",
+    "ru_word": "второй класс",
+    "ru_definition": "категория обслуживания на корабле, поезде или самолете, которая дешевле первого класса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orta sınıf"
+                ],
+                "Azerbaijani": [
+                    "orta təbəqə"
+                ],
+                "Turkmen": [
+                    "orta dereje"
+                ],
+                "Uzbek": [
+                    "o'rta tabaqa"
+                ],
+                "Kazakh": [
+                    "орташа санат"
+                ],
+                "Kyrgyz": [
+                    "орто класс"
+                ],
+                "Karakalpak": [
+                    "orta klass"
+                ],
+                "Tatar": [
+                    "урта класс"
+                ],
+                "Bashkir": [
+                    "урта класс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekonomi sınıfı",
+                    "ikinci mevki"
+                ],
+                "Azerbaijani": [
+                    "ikinci dərəcə"
+                ],
+                "Turkmen": [
+                    "ikinjilik",
+                    "ikinji dereje"
+                ],
+                "Uzbek": [
+                    "ikkinchi daraja"
+                ],
+                "Kyrgyz": [
+                    "экинчи класс"
+                ],
+                "Tatar": [
+                    "икенче класс"
+                ],
+                "Bashkir": [
+                    "икенсе класс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "кабина классы"
+                ],
+                "Tatar": [
+                    "кабина классы"
+                ],
+                "Bashkir": [
+                    "кабина класы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "adi sinif"
+                ],
+                "Uyghur": [
+                    "ئادەتتىكى دەرىجە",
+                    "ئادەتتىكى ئورۇن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "екінші класс"
+                ],
+                "Karakalpak": [
+                    "ekіnshі klass"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жайлы орын"
+                ],
+                "Karakalpak": [
+                    "jaylı orın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oddiy joy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىقتىساد دەرىجىسى"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,147 @@
+# Pesto
+| Field | Detail |
+|---|---|
+| **ID** | i78303 |
+| **English** | pesto |
+| **Type** | noun |
+| **Definition** | a sauce typically served with pasta; contains crushed basil leaves and garlic and pine nuts and Parmesan cheese in olive oil |
+| **Source** | common |
+| **Ortatil** | tämleoüş |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| тұздық | tuzdıq |
+
+```json
+{
+    "id": "i78303",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pesto",
+    "en_definition": "a sauce typically served with pasta; contains crushed basil leaves and garlic and pine nuts and Parmesan cheese in olive oil",
+    "tr_word": "pesto",
+    "tr_definition": "Genellikle makarna ile servis edilen; ezilmiş fesleğen yaprakları, sarımsak, çam fıstığı, parmesan peyniri ve zeytinyağı içeren bir sos.",
+    "ru_word": "песто",
+    "ru_definition": "Соус, обычно подаваемый к пасте; содержит измельченные листья базилика, чеснок, кедровые орехи, сыр пармезан и оливковое масло.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "reyhan sousu"
+                ],
+                "Turkmen": [
+                    "reýhanly sous",
+                    "reýhanly goşundy"
+                ],
+                "Uzbek": [
+                    "rayhonli qayla",
+                    "rayhonli sous"
+                ],
+                "Uyghur": [
+                    "رەيھان قىيامى"
+                ],
+                "Kazakh": [
+                    "райхан тұздығы"
+                ],
+                "Kyrgyz": [
+                    "райкан соусу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fesleğenli sos",
+                    "fesleğen ezmesi"
+                ],
+                "Turkmen": [
+                    "pesto sousy"
+                ],
+                "Uyghur": [
+                    "پېستو قىيامى"
+                ],
+                "Kyrgyz": [
+                    "базилик соусу"
+                ],
+                "Tatar": [
+                    "базилик соусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yaşıl sous"
+                ],
+                "Uyghur": [
+                    "يېشىل قىيام"
+                ],
+                "Kazakh": [
+                    "жасыл тұздық"
+                ],
+                "Tatar": [
+                    "яшел соус"
+                ],
+                "Bashkir": [
+                    "йәшел соус"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "támleoish"
+                ],
+                "Bashkir": [
+                    "тәмле соус"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko'katli qayla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұздық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sous"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qospa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үлән соусы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,84 @@
+{
+    "id": "i51045",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "boxing equipment",
+    "en_definition": "equipment used in boxing",
+    "tr_word": "boks ekipmanları",
+    "tr_definition": "Boks sporunda kullanılan malzemelerin genel adı.",
+    "ru_word": "боксерская экипировка",
+    "ru_definition": "Снаряжение, используемое в боксе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boks malzemeleri",
+                    "boks gereçleri",
+                    "boks takımı",
+                    "boks donanımı"
+                ],
+                "Azerbaijani": [
+                    "boks ləvazimatı",
+                    "boks təchizatı",
+                    "boks avadanlığı"
+                ],
+                "Turkmen": [
+                    "boks esbaplary",
+                    "boks enjamlary",
+                    "boks gurallary"
+                ],
+                "Uzbek": [
+                    "boks anjomlari",
+                    "boks asbob-uskunalari",
+                    "boks qurollari",
+                    "boks anjom-aslahalari"
+                ],
+                "Uyghur": [
+                    "بوكس جابدۇقلىرى",
+                    "بوكس ئەسۋابلىرى"
+                ],
+                "Kazakh": [
+                    "бокс жабдықтары",
+                    "бокс құралдары",
+                    "бокс керек-жарақтары"
+                ],
+                "Kyrgyz": [
+                    "бокс жабдыктары",
+                    "бокс куралдары"
+                ],
+                "Karakalpak": [
+                    "boks ásbapları",
+                    "boks quralları",
+                    "boks jabdıqları"
+                ],
+                "Tatar": [
+                    "бокс кирәк-яраклары",
+                    "бокс җиһазлары"
+                ],
+                "Bashkir": [
+                    "бокс кәрәк-яраҡтары",
+                    "бокс йыһаздары",
+                    "бокс ҡорамалдары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇشتلىشىش سايمانلىرى"
+                ],
+                "Kyrgyz": [
+                    "мушташ шаймандары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сугыш кирәк-яраклары"
+                ]
+            }
+        }
+    ]
+}

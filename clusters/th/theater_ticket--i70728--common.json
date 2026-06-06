@@ -1,0 +1,89 @@
+{
+    "id": "i70728",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "theater ticket",
+    "en_definition": "a ticket good for admission to a theater",
+    "tr_word": "tiyatro bileti",
+    "tr_definition": "bir tiyatroya giriş imkanı sağlayan bilet",
+    "ru_word": "билет в театр",
+    "ru_definition": "билет, дающий право на посещение театрального представления",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tiyatro bileti"
+                ],
+                "Azerbaijani": [
+                    "teatr bileti"
+                ],
+                "Turkmen": [
+                    "teatr biledi"
+                ],
+                "Uzbek": [
+                    "teatr chiptasi"
+                ],
+                "Uyghur": [
+                    "تىياتىر بېلىتى"
+                ],
+                "Kazakh": [
+                    "театр билеті",
+                    "театр жолдамасы"
+                ],
+                "Kyrgyz": [
+                    "театр билети"
+                ],
+                "Karakalpak": [
+                    "teatr bileti"
+                ],
+                "Tatar": [
+                    "театр билеты"
+                ],
+                "Bashkir": [
+                    "театр билеты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "temaşa bileti"
+                ],
+                "Azerbaijani": [
+                    "tamaşa bileti"
+                ],
+                "Turkmen": [
+                    "tomaşa biledi"
+                ],
+                "Uzbek": [
+                    "tomosha chiptasi"
+                ],
+                "Uyghur": [
+                    "تاماشا بېلىتى"
+                ],
+                "Karakalpak": [
+                    "tamasha bileti"
+                ],
+                "Bashkir": [
+                    "тамаша билеты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "giriş bileti"
+                ],
+                "Kyrgyz": [
+                    "кириш билети"
+                ],
+                "Tatar": [
+                    "керү билеты"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "i8760",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "northern",
+    "en_definition": "situated in or oriented toward the north",
+    "tr_word": "kuzey",
+    "tr_definition": "Kuzeyde bulunan veya kuzeye doğru yönelmiş olan",
+    "ru_word": "северный",
+    "ru_definition": "Расположенный на севере или обращенный к северу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şimali"
+                ],
+                "Azerbaijani": [
+                    "şimali",
+                    "şimal"
+                ],
+                "Turkmen": [
+                    "şimaly"
+                ],
+                "Uzbek": [
+                    "shimoliy",
+                    "shimoldagi"
+                ],
+                "Uyghur": [
+                    "شىمالىي",
+                    "شىمالدىكى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "түндүк",
+                    "түндүктөгү",
+                    "түндүк тараптагы"
+                ],
+                "Karakalpak": [
+                    "túndіk",
+                    "túndіktegі"
+                ],
+                "Tatar": [
+                    "төньяк",
+                    "төньяктагы",
+                    "төньякча"
+                ],
+                "Bashkir": [
+                    "төньяҡ",
+                    "төньяҡтағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuzey",
+                    "kuzeyli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demirgazyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "терістік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "arqa",
+                    "arqadaǵı"
+                ]
+            }
+        }
+    ]
+}

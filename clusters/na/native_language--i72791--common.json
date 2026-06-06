@@ -1,0 +1,99 @@
+{
+    "id": "i72791",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "native language",
+    "en_definition": "the language that a person has spoken from earliest childhood",
+    "tr_word": "ana dili",
+    "tr_definition": "Bir insanın çocukluğundan itibaren öğrendiği ve konuştuğu ilk dil",
+    "ru_word": "родной язык",
+    "ru_definition": "Язык, который человек усваивает с раннего детства без специального обучения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ana dili",
+                    "ana lisanı"
+                ],
+                "Azerbaijani": [
+                    "ana dili"
+                ],
+                "Turkmen": [
+                    "ene dili"
+                ],
+                "Uzbek": [
+                    "ona tili"
+                ],
+                "Uyghur": [
+                    "ئانا تىلى"
+                ],
+                "Kazakh": [
+                    "ана тілі"
+                ],
+                "Kyrgyz": [
+                    "эне тили"
+                ],
+                "Karakalpak": [
+                    "ana tili"
+                ],
+                "Tatar": [
+                    "ана теле"
+                ],
+                "Bashkir": [
+                    "инә теле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "doğma dil"
+                ],
+                "Turkmen": [
+                    "dogduk dili"
+                ],
+                "Uzbek": [
+                    "tugʻma til"
+                ],
+                "Kazakh": [
+                    "туған тіл"
+                ],
+                "Karakalpak": [
+                    "tuoǵan til"
+                ],
+                "Tatar": [
+                    "туган тел"
+                ],
+                "Bashkir": [
+                    "туған тел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öz dili"
+                ],
+                "Kyrgyz": [
+                    "өз тили"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەسلى تىلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түпкү тили"
+                ]
+            }
+        }
+    ]
+}

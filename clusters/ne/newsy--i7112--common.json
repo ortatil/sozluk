@@ -1,0 +1,133 @@
+{
+    "id": "i7112",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "newsy",
+    "en_definition": "full of news",
+    "tr_word": "haber dolu",
+    "tr_definition": "içinde çokça haber veya güncel bilgi barındıran",
+    "ru_word": "содержательный",
+    "ru_definition": "наполненный новостями или интересными сведениями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haber dolu"
+                ],
+                "Azerbaijani": [
+                    "xəbərli",
+                    "xəbərlərlə dolu"
+                ],
+                "Turkmen": [
+                    "habarly"
+                ],
+                "Uzbek": [
+                    "xabardor"
+                ],
+                "Uyghur": [
+                    "خەۋەرلىك"
+                ],
+                "Kazakh": [
+                    "хабар-ошарлы"
+                ],
+                "Karakalpak": [
+                    "xabarlı"
+                ],
+                "Tatar": [
+                    "хәбәрле"
+                ],
+                "Bashkir": [
+                    "хәбәрле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məlumatlı",
+                    "məlumatverici"
+                ],
+                "Turkmen": [
+                    "maglumatly"
+                ],
+                "Uzbek": [
+                    "ma'lumotli"
+                ],
+                "Uyghur": [
+                    "مەلۇماتلىق"
+                ],
+                "Kazakh": [
+                    "мәліметті"
+                ],
+                "Kyrgyz": [
+                    "маалыматтуу"
+                ],
+                "Karakalpak": [
+                    "málimlemeli"
+                ],
+                "Tatar": [
+                    "мәгълүматлы"
+                ],
+                "Bashkir": [
+                    "мәғлүмәтле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "يېڭىلىققا تولغان"
+                ],
+                "Kazakh": [
+                    "жаңалыққа толы"
+                ],
+                "Kyrgyz": [
+                    "жаңылыктуу"
+                ],
+                "Karakalpak": [
+                    "jańalıqlı"
+                ],
+                "Tatar": [
+                    "яңалыклы"
+                ],
+                "Bashkir": [
+                    "яңылыҡлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzelikli"
+                ],
+                "Uzbek": [
+                    "yangiliklarga boy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havadisli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilgi dolu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кабардуу"
+                ]
+            }
+        }
+    ]
+}

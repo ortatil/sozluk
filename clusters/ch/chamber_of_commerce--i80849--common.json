@@ -1,0 +1,102 @@
+{
+    "id": "i80849",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chamber of commerce",
+    "en_definition": "an association of businessmen to protect and promote business interests",
+    "tr_word": "ticaret odası",
+    "tr_definition": "iş dünyasının çıkarlarını korumak ve ticareti geliştirmek amacıyla kurulan iş insanları birliği",
+    "ru_word": "торгово-промышленная палата",
+    "ru_definition": "ассоциация предпринимателей для защиты и продвижения деловых интересов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söwda edarasy",
+                    "söwda we senagat edarasy",
+                    "söwda palatasy"
+                ],
+                "Uzbek": [
+                    "savdo palatasi",
+                    "savdo-sanoat palatasi",
+                    "savdogarlar kengashi"
+                ],
+                "Uyghur": [
+                    "سودا پالاتاسى"
+                ],
+                "Kazakh": [
+                    "сауда палатасы",
+                    "сауда-өнеркәсіп палатасы"
+                ],
+                "Kyrgyz": [
+                    "соода палатасы",
+                    "соода-өнөр жай палатасы"
+                ],
+                "Karakalpak": [
+                    "saoda palatası",
+                    "saodagerler aoqamı"
+                ],
+                "Tatar": [
+                    "сәүдә пулаты",
+                    "сәүдә палатасы",
+                    "сәүдә берлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ticaret odası",
+                    "ticaret cemiyeti",
+                    "ticaret birliği"
+                ],
+                "Azerbaijani": [
+                    "ticarət palatası",
+                    "ticarət otağı",
+                    "ticarət əncüməni"
+                ],
+                "Uzbek": [
+                    "tujjorlar uyushmasi"
+                ],
+                "Tatar": [
+                    "төҗҗарлар җәмгыяте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кәсіпкерлер палатасы"
+                ],
+                "Karakalpak": [
+                    "kásіpkerler palatası"
+                ],
+                "Bashkir": [
+                    "сауҙа-сәнәғәт палатаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سودا ئۇيۇشمىسى",
+                    "سودا-سانائەتچىلەر جەمئىيىتى"
+                ],
+                "Kyrgyz": [
+                    "соодагерлер коому"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сауҙагәрҙәр берлеге",
+                    "сауҙа палатаһы"
+                ]
+            }
+        }
+    ]
+}

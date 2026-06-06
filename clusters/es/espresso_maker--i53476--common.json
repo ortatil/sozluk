@@ -1,0 +1,79 @@
+{
+    "id": "i53476",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "espresso maker",
+    "en_definition": "a coffee maker that forces live steam under pressure through dark roasted coffee grounds",
+    "tr_word": "espresso makinesi",
+    "tr_definition": "basınçlı su veya buharı koyu kavrulmuş kahve çekirdeklerinden geçirerek espresso hazırlayan cihaz",
+    "ru_word": "кофеварка эспрессо",
+    "ru_definition": "устройство для приготовления кофе путем пропускания горячей воды под давлением через слой молотых зерен",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kahve makinesi",
+                    "kahve ocağı"
+                ],
+                "Azerbaijani": [
+                    "qəhvədəmləyən",
+                    "qəhvəbişirən",
+                    "qəhvə maşını"
+                ],
+                "Uzbek": [
+                    "qahvapaz",
+                    "qahva qaynatgich",
+                    "qahva mashinasi"
+                ],
+                "Uyghur": [
+                    "قەھۋە ماشىنىسى",
+                    "قەھۋە قايناتقۇچ"
+                ],
+                "Bashkir": [
+                    "ҡәһүә ҡайнатҡыс",
+                    "ҡәһүә яһағыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kofe demläji"
+                ],
+                "Kazakh": [
+                    "кофеқайнатқыш",
+                    "кофе пісіргіш"
+                ],
+                "Kyrgyz": [
+                    "кофе кайнаткыч",
+                    "кофе демдегич"
+                ],
+                "Karakalpak": [
+                    "kofe qaynatqısh",
+                    "kofe demlegish"
+                ],
+                "Tatar": [
+                    "кофе кайнаткыч",
+                    "кофе ясагыч",
+                    "кофе машинасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "espresso makinesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kofe maşyny"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+# Silver lining
+| Field | Detail |
+|---|---|
+| **ID** | i76119 |
+| **English** | silver lining |
+| **Type** | noun |
+| **Definition** | a consoling aspect of a difficult situation |
+| **Source** | common |
+| **Ortatil** | täsälli |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **täsälli** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەسەللى | täsälli |
+| يورۇقلۇق | yoruqluq |
+| خۇشخەۋەر | xuşxävär |
+| **Tatar** | |
+| юаныч | yuanıç |
+
+```json
+{
+    "id": "i76119",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "silver lining",
+    "en_definition": "a consoling aspect of a difficult situation",
+    "tr_word": "her şerde bir hayır",
+    "tr_definition": "kötü bir durumun içindeki teselli edici veya olumlu taraf",
+    "ru_word": "луч надежды",
+    "ru_definition": "утешительный аспект в трудной или неприятной ситуации",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "umut ışığı"
+                ],
+                "Azerbaijani": [
+                    "ümid yeri"
+                ],
+                "Turkmen": [
+                    "umyt şöhlesi"
+                ],
+                "Uzbek": [
+                    "umid uchquni"
+                ],
+                "Uyghur": [
+                    "ئۈمىد نۇرى"
+                ],
+                "Kazakh": [
+                    "үміт сәулесі"
+                ],
+                "Kyrgyz": [
+                    "үмүт шооласы"
+                ],
+                "Karakalpak": [
+                    "úmmit sáulesi"
+                ],
+                "Tatar": [
+                    "өмет чаткысы"
+                ],
+                "Bashkir": [
+                    "өмөт сатҡыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayır"
+                ],
+                "Azerbaijani": [
+                    "xeyir tərəfi"
+                ],
+                "Turkmen": [
+                    "haýyrly tarapy"
+                ],
+                "Kazakh": [
+                    "қайырлы нышан"
+                ],
+                "Kyrgyz": [
+                    "кайырлуу жагы"
+                ],
+                "Karakalpak": [
+                    "qayırlı tárepi"
+                ],
+                "Tatar": [
+                    "хәерле ягы"
+                ],
+                "Bashkir": [
+                    "хәйерле яғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýagşylyk alamaty"
+                ],
+                "Uzbek": [
+                    "yaxshilik alomati"
+                ],
+                "Kazakh": [
+                    "жақсылықтың нышаны",
+                    "жақсылық нышаны"
+                ],
+                "Kyrgyz": [
+                    "жакшылыктын жышааны"
+                ],
+                "Karakalpak": [
+                    "jaqsılıq nıshanı",
+                    "jaqsılıqtıń belgisi"
+                ],
+                "Tatar": [
+                    "яхшы ягы"
+                ],
+                "Bashkir": [
+                    "яҡшы яғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teselli"
+                ],
+                "Azerbaijani": [
+                    "təsəlli"
+                ],
+                "Turkmen": [
+                    "teselli"
+                ],
+                "Uzbek": [
+                    "tasalli"
+                ],
+                "Uyghur": [
+                    "تەسەللى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aydınlık taraf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iyi taraf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "işıq ucu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hikmat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يورۇقلۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خۇشخەۋەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жамандыктын артындагы жакшылык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "юаныч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡыуаныслы яғы"
+                ]
+            }
+        }
+    ]
+}
+```
+

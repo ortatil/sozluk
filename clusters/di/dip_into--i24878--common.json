@@ -1,0 +1,209 @@
+{
+    "id": "i24878",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "dip into",
+    "en_definition": "read selectively; read only certain passages from a text",
+    "tr_word": "göz gezdirmek",
+    "tr_definition": "bir metni seçerek okumak; sadece belirli bölümlerini incelemek",
+    "ru_word": "просматривать",
+    "ru_definition": "читать выборочно; просматривать только определенные отрывки из текста",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz gezdirmek"
+                ],
+                "Azerbaijani": [
+                    "göz gəzdirmək"
+                ],
+                "Turkmen": [
+                    "gözden geçirmek"
+                ],
+                "Uzbek": [
+                    "koʻz yugurtirmoq"
+                ],
+                "Uyghur": [
+                    "كۆز يۈگۈرتۈش"
+                ],
+                "Kazakh": [
+                    "көз жүгірту"
+                ],
+                "Kyrgyz": [
+                    "көз жүгүртүү"
+                ],
+                "Karakalpak": [
+                    "kóz júgirtio"
+                ],
+                "Bashkir": [
+                    "күҙ йүгерттереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saýlap okamak"
+                ],
+                "Uyghur": [
+                    "تاللاپ ئوقۇش"
+                ],
+                "Kazakh": [
+                    "таңдап оқу"
+                ],
+                "Kyrgyz": [
+                    "тандап окуу"
+                ],
+                "Karakalpak": [
+                    "saylap oqıo"
+                ],
+                "Tatar": [
+                    "сайлап уку"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vərəqləmək"
+                ],
+                "Uzbek": [
+                    "varaqlab chiqmoq"
+                ],
+                "Uyghur": [
+                    "ۋاراقلاپ چىقىش"
+                ],
+                "Kyrgyz": [
+                    "барактоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seçerek okumak"
+                ],
+                "Azerbaijani": [
+                    "seçib oxumaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "agdarşdyrmak"
+                ],
+                "Tatar": [
+                    "актарып чыгу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qarab chiqmoq"
+                ],
+                "Bashkir": [
+                    "ҡарап сығыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шолып шығу"
+                ],
+                "Karakalpak": [
+                    "sholıp shıǵıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karıştırmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şöyle bir bakmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mütaliə etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "serpişdirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tanlab oʻqimoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەرەپ-تەرەپتىن ئوقۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үзіп-жұлып оқу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үстүртөн окуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күз йөртеп чыгу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күз салу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "байҡап сығыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "айырып уҡыу"
+                ]
+            }
+        }
+    ]
+}

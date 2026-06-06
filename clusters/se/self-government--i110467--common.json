@@ -1,0 +1,130 @@
+{
+    "id": "i110467",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "self-government",
+    "en_definition": "government of a political unit by its own people",
+    "tr_word": "öz yönetim",
+    "tr_definition": "bir siyasi birimin kendi halkı tarafından yönetilmesi",
+    "ru_word": "самоуправление",
+    "ru_definition": "управление политической единицей её собственным народом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "özerklik",
+                    "öz yönetim"
+                ],
+                "Azerbaijani": [
+                    "özünüidarə",
+                    "özünüidarəetmə"
+                ],
+                "Uzbek": [
+                    "o'z-o'zini boshqarish"
+                ],
+                "Uyghur": [
+                    "ئۆز-ئۆزىنى باشقۇرۇش"
+                ],
+                "Kazakh": [
+                    "өзін-өзі басқару"
+                ],
+                "Kyrgyz": [
+                    "өзүн-өзү башкаруу",
+                    "өз эркиндик",
+                    "өз алдынчалык"
+                ],
+                "Karakalpak": [
+                    "óz-ózin basqarıo",
+                    "óz-ózin biyleo",
+                    "ózin-ózi basqarıo"
+                ],
+                "Tatar": [
+                    "үз идарә",
+                    "үз-үзен идарә итү"
+                ],
+                "Bashkir": [
+                    "үҙидара",
+                    "үҙ-үҙен идара итеү",
+                    "үҙ идаралығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhtariyet"
+                ],
+                "Azerbaijani": [
+                    "muxtariyyət"
+                ],
+                "Uzbek": [
+                    "muxtoriyat",
+                    "mustaqillik"
+                ],
+                "Uyghur": [
+                    "مۇستەقىللىق"
+                ],
+                "Tatar": [
+                    "мөстәкыйльлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "awtonomiýa"
+                ],
+                "Uyghur": [
+                    "ئاپتونومىيە"
+                ],
+                "Kazakh": [
+                    "автономия"
+                ],
+                "Tatar": [
+                    "автономия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "erkinlik"
+                ],
+                "Kazakh": [
+                    "еркіндік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendi kendini yönetme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "özbaşdaklyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öz-özüni dolandyryş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дербестік"
+                ]
+            }
+        }
+    ]
+}

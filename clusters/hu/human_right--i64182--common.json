@@ -1,0 +1,94 @@
+{
+    "id": "i64182",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "human right",
+    "en_definition": "(law) any basic right or freedom to which all human beings are entitled and in whose exercise a government may not interfere (including rights to life and liberty as well as freedom of thought and expression and equality before the law)",
+    "tr_word": "insan hakkı",
+    "tr_definition": "Tüm insanların doğuştan sahip olduğu, devletin müdahale edemeyeceği temel hak ve özgürlüklerin her biri.",
+    "ru_word": "право человека",
+    "ru_definition": "Любое из основных прав и свобод, на которые имеют право все люди и в осуществление которых правительство не может вмешиваться.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "insan hakları"
+                ],
+                "Azerbaijani": [
+                    "insan hüquqları"
+                ],
+                "Turkmen": [
+                    "ynsan hukugy"
+                ],
+                "Uzbek": [
+                    "inson huquqlari"
+                ],
+                "Uyghur": [
+                    "ئىنسان ھەقلىرى",
+                    "ئىنسان ھوقۇقلىرى"
+                ],
+                "Kyrgyz": [
+                    "инсан укугу"
+                ],
+                "Karakalpak": [
+                    "insan huqıqları"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "adam hukugy"
+                ],
+                "Uzbek": [
+                    "odam huquqlari"
+                ],
+                "Kazakh": [
+                    "адам құқығы",
+                    "адам хақы"
+                ],
+                "Kyrgyz": [
+                    "адам укугу"
+                ],
+                "Karakalpak": [
+                    "adam huqıqları"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beşerî haklar"
+                ],
+                "Azerbaijani": [
+                    "bəşər hüquqları"
+                ],
+                "Uzbek": [
+                    "bashariy huquqlar"
+                ],
+                "Uyghur": [
+                    "بەشەرىي ھوقۇقلار"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кісі құқығы"
+                ],
+                "Tatar": [
+                    "кеше хокукы",
+                    "кеше хакы"
+                ],
+                "Bashkir": [
+                    "кеше хоҡуҡтары",
+                    "кеше хаҡтары"
+                ]
+            }
+        }
+    ]
+}

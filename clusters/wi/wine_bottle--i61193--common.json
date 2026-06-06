@@ -1,0 +1,95 @@
+{
+    "id": "i61193",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wine bottle",
+    "en_definition": "a bottle for holding wine",
+    "tr_word": "şarap şişesi",
+    "tr_definition": "şarap koymak için kullanılan şişe",
+    "ru_word": "винная бутылка",
+    "ru_definition": "бутылка, предназначенная для хранения вина",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şarap şişesi"
+                ],
+                "Azerbaijani": [
+                    "şərab şüşəsi",
+                    "şərab qabı"
+                ],
+                "Turkmen": [
+                    "şerap çüýşesi"
+                ],
+                "Uzbek": [
+                    "sharob shishasi"
+                ],
+                "Uyghur": [
+                    "شاراب بوتۇلكىسى",
+                    "شاراب شىشىسى"
+                ],
+                "Kazakh": [
+                    "шарап бөтелкесі",
+                    "шарап құтысы"
+                ],
+                "Kyrgyz": [
+                    "шарап бөтөлкөсү",
+                    "шарап кутусу",
+                    "шарап идиши"
+                ],
+                "Karakalpak": [
+                    "sháráp shiyshesi"
+                ],
+                "Tatar": [
+                    "шәрәп шешәсе"
+                ],
+                "Bashkir": [
+                    "шәрәп шешәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mey şişesi"
+                ],
+                "Azerbaijani": [
+                    "mey şüşəsi"
+                ],
+                "Turkmen": [
+                    "meý çüýşesi"
+                ],
+                "Uzbek": [
+                    "may shishasi"
+                ],
+                "Uyghur": [
+                    "مەي بوتۇلكىسى"
+                ],
+                "Kazakh": [
+                    "мей бөтелкесі"
+                ],
+                "Karakalpak": [
+                    "máy shiyshesi"
+                ],
+                "Tatar": [
+                    "мәй шешәсе"
+                ],
+                "Bashkir": [
+                    "мәй шешәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bade şişesi"
+                ],
+                "Uzbek": [
+                    "boda shishasi"
+                ]
+            }
+        }
+    ]
+}

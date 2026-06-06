@@ -1,0 +1,90 @@
+{
+    "id": "i98911",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "yellow water lily",
+    "en_definition": "a water lily with yellow flowers",
+    "tr_word": "sarı nilüfer",
+    "tr_definition": "sarı çiçekleri olan bir su bitkisi",
+    "ru_word": "кубышка жёлтая",
+    "ru_definition": "водное растение с жёлтыми цветками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarı nilüfer",
+                    "sarıkök"
+                ],
+                "Azerbaijani": [
+                    "sarı su zanbağı",
+                    "sarı suçiçəyi",
+                    "sarı nilufər"
+                ],
+                "Turkmen": [
+                    "sary niluwer",
+                    "sary suw lilesi",
+                    "sary nilupyr"
+                ],
+                "Uzbek": [
+                    "sariq nilufar",
+                    "sariq suvnilufar"
+                ],
+                "Uyghur": [
+                    "سېرىق نېلۇپەر",
+                    "سېرىق سۇ نېلۇپىرى"
+                ],
+                "Kazakh": [
+                    "сары тұңғиық",
+                    "сары сулала",
+                    "сары су лалагүлі"
+                ],
+                "Kyrgyz": [
+                    "сары кувшинка",
+                    "сары суу лилиясы",
+                    "сары туңгуюк"
+                ],
+                "Karakalpak": [
+                    "sarı suo gúli",
+                    "sarı liliya",
+                    "sarı tuńǵıyıq"
+                ],
+                "Tatar": [
+                    "сары су лилиясе",
+                    "сары төнбоек"
+                ],
+                "Bashkir": [
+                    "һары томбойыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sarı su zambağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nilufar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кубышка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "томбойыҡ"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "id": "i79370",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "price bracket",
+    "en_definition": "a category of merchandise based on their price",
+    "tr_word": "fiyat aralığı",
+    "tr_definition": "malların fiyatlarına göre ayrıldığı kategori",
+    "ru_word": "ценовая категория",
+    "ru_definition": "категория товаров, сгруппированных на основе их стоимости",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bahalar toplumy",
+                    "bahalar derejesi",
+                    "bahalar aralygy"
+                ],
+                "Uyghur": [
+                    "باھا دائىرىسى",
+                    "باھا قاتلىمى",
+                    "باھا دەرىجىسى"
+                ],
+                "Kazakh": [
+                    "баға санаты",
+                    "баға деңгейі",
+                    "баға ауқымы",
+                    "баға тобы"
+                ],
+                "Kyrgyz": [
+                    "баа деңгээли",
+                    "баа алкагы",
+                    "баа чеги",
+                    "баа категориясы"
+                ],
+                "Karakalpak": [
+                    "baha dárejesi",
+                    "baha sheńberi",
+                    "baha toparı"
+                ],
+                "Tatar": [
+                    "бәя төркеме",
+                    "бәя катламы",
+                    "бәя дәрәҗәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fiyat aralığı",
+                    "fiyat kategorisi",
+                    "fiyat dilimi",
+                    "fiyat grubu"
+                ],
+                "Azerbaijani": [
+                    "qiymət aralığı",
+                    "qiymət dərəcəsi",
+                    "qiymət qrupu",
+                    "qiymət həddi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "narx toifasi",
+                    "narx darajasi",
+                    "narx guruhi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хаҡ төркөмө",
+                    "хаҡ кимәле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хаҡ категорияһы"
+                ]
+            }
+        }
+    ]
+}

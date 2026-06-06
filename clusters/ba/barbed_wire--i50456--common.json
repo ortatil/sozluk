@@ -1,0 +1,68 @@
+{
+    "id": "i50456",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "barbed wire",
+    "en_definition": "strong wire with barbs at regular intervals used to prevent passage",
+    "tr_word": "dikenli tel",
+    "tr_definition": "geçişi engellemek için kullanılan, üzerinde düzenli aralıklarla keskin uçlar bulunan güçlü tel",
+    "ru_word": "колючая проволока",
+    "ru_definition": "стальная проволока с расположенными на ней острыми шипами, используемая для устройства препятствий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dikenli tel"
+                ],
+                "Azerbaijani": [
+                    "tikanlı məftil",
+                    "tikanlı sim"
+                ],
+                "Turkmen": [
+                    "tikenli sim",
+                    "tikenli sim tor"
+                ],
+                "Uzbek": [
+                    "tikanli sim",
+                    "tikanli temir"
+                ],
+                "Uyghur": [
+                    "تىكەنلىك سىم",
+                    "تىكەنلىك تۆمۈر سىم"
+                ],
+                "Kazakh": [
+                    "тікенді сым",
+                    "тікенек сым"
+                ],
+                "Kyrgyz": [
+                    "тикендүү зым",
+                    "тикенек зым"
+                ],
+                "Karakalpak": [
+                    "tіkenek sım",
+                    "tіkenlі sım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чәнечкеле тимер",
+                    "чәнечкеле чыбык"
+                ],
+                "Bashkir": [
+                    "сәнскеле тимер сым",
+                    "сәнскеле сым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "örgülü tel"
+                ]
+            }
+        }
+    ]
+}

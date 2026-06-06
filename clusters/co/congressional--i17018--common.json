@@ -1,0 +1,136 @@
+{
+    "id": "i17018",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "congressional",
+    "en_definition": "of or relating to congress",
+    "tr_word": "kongreye ait",
+    "tr_definition": "kongre ile ilgili veya kongreye özgü olan",
+    "ru_word": "конгрессиональный",
+    "ru_definition": "относящийся к конгрессу или связанный с ним",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurultay"
+                ],
+                "Azerbaijani": [
+                    "qurultay"
+                ],
+                "Turkmen": [
+                    "gurultaý"
+                ],
+                "Uzbek": [
+                    "qurultoyga oid"
+                ],
+                "Uyghur": [
+                    "قۇرۇلتايغا ئائىت"
+                ],
+                "Kazakh": [
+                    "құрылтайлық"
+                ],
+                "Kyrgyz": [
+                    "курултайлык"
+                ],
+                "Karakalpak": [
+                    "qurıltaylıq"
+                ],
+                "Tatar": [
+                    "корылтай"
+                ],
+                "Bashkir": [
+                    "ҡоролтай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meclis"
+                ],
+                "Azerbaijani": [
+                    "məclisə aid",
+                    "məclis"
+                ],
+                "Turkmen": [
+                    "mejlis"
+                ],
+                "Uzbek": [
+                    "majlisga oid"
+                ],
+                "Uyghur": [
+                    "مەجلىسكە مۇناسىۋەتلىك"
+                ],
+                "Kazakh": [
+                    "мәжілістік"
+                ],
+                "Karakalpak": [
+                    "májilis",
+                    "májiliske tiyisli"
+                ],
+                "Tatar": [
+                    "мәҗлес"
+                ],
+                "Bashkir": [
+                    "мәжлес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şura"
+                ],
+                "Azerbaijani": [
+                    "şura"
+                ],
+                "Turkmen": [
+                    "şura"
+                ],
+                "Uzbek": [
+                    "shūroga oid"
+                ],
+                "Tatar": [
+                    "шура"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кеңестік"
+                ],
+                "Kyrgyz": [
+                    "кеңештик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыйынтык"
+                ],
+                "Bashkir": [
+                    "йыйын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "anjumanga oid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پارلامېنتلىق"
+                ]
+            }
+        }
+    ]
+}

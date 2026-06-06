@@ -1,0 +1,101 @@
+{
+    "id": "i50305",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "axle",
+    "en_definition": "a shaft on which a wheel rotates",
+    "tr_word": "aks",
+    "tr_definition": "üzerinde bir veya daha fazla tekerleğin döndüğü mil",
+    "ru_word": "ось",
+    "ru_definition": "стержень, на котором вращается колесо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ox"
+                ],
+                "Turkmen": [
+                    "ok"
+                ],
+                "Uzbek": [
+                    "oʻq"
+                ],
+                "Uyghur": [
+                    "ئوق"
+                ],
+                "Kazakh": [
+                    "ось",
+                    "өс"
+                ],
+                "Kyrgyz": [
+                    "ок",
+                    "огу"
+                ],
+                "Karakalpak": [
+                    "oq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mil"
+                ],
+                "Azerbaijani": [
+                    "mil"
+                ],
+                "Turkmen": [
+                    "mil"
+                ],
+                "Uzbek": [
+                    "mil"
+                ],
+                "Uyghur": [
+                    "مىل"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "білік"
+                ],
+                "Kyrgyz": [
+                    "билик"
+                ],
+                "Karakalpak": [
+                    "bіlіk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күчәр",
+                    "күч"
+                ],
+                "Bashkir": [
+                    "күсәр",
+                    "күс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dingil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eksen"
+                ]
+            }
+        }
+    ]
+}

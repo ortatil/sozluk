@@ -1,0 +1,95 @@
+{
+    "id": "i37918",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "professional basketball",
+    "en_definition": "playing basketball for money",
+    "tr_word": "profesyonel basketbol",
+    "tr_definition": "basketbolun para karşılığında oynanması",
+    "ru_word": "профессиональный баскетбол",
+    "ru_definition": "игра в баскетбол за деньги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mesleki basketbol"
+                ],
+                "Uyghur": [
+                    "كەسپىي ۋاسكېتبول",
+                    "كەسپىي ۋاسكېتبولچىلىق"
+                ],
+                "Kazakh": [
+                    "кәсіби баскетбол",
+                    "кәсіптік баскетбол"
+                ],
+                "Kyrgyz": [
+                    "кесипкөй баскетбол",
+                    "кесиптик баскетбол"
+                ],
+                "Karakalpak": [
+                    "kásiplik basketbol",
+                    "kásipdar basketbol"
+                ],
+                "Tatar": [
+                    "кәсепчел баскетбол"
+                ],
+                "Bashkir": [
+                    "кәсепкәр баскетбол"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "profesyonel basketbol"
+                ],
+                "Azerbaijani": [
+                    "professional basketbol"
+                ],
+                "Uzbek": [
+                    "professional basketbol"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hünärli basketbol"
+                ],
+                "Tatar": [
+                    "һөнәри кәрзин тубы"
+                ],
+                "Bashkir": [
+                    "һөнәри баскетбол"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşəkar basketbol"
+                ],
+                "Turkmen": [
+                    "peşekar basketbol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ücretli basketbol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kasbiy basketbol"
+                ]
+            }
+        }
+    ]
+}

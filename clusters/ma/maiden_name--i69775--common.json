@@ -1,0 +1,86 @@
+{
+    "id": "i69775",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "maiden name",
+    "en_definition": "a woman's surname before marriage",
+    "tr_word": "kızlık soyadı",
+    "tr_definition": "Bir kadının evlenmeden önceki soyadı",
+    "ru_word": "девичья фамилия",
+    "ru_definition": "Фамилия женщины до вступления в брак",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızlık soyadı"
+                ],
+                "Azerbaijani": [
+                    "qızlıq soyadı",
+                    "qızlıq familiyası"
+                ],
+                "Turkmen": [
+                    "gyzlyk familiýasy",
+                    "gyzlyk ady"
+                ],
+                "Uzbek": [
+                    "qizlik familiyasi",
+                    "qizlik nomi"
+                ],
+                "Uyghur": [
+                    "قىزلىق فامىلىسى"
+                ],
+                "Kazakh": [
+                    "қыз күніндегі тегі",
+                    "қыз кезіндегі фамилиясы"
+                ],
+                "Kyrgyz": [
+                    "кыз кезиндеги фамилиясы",
+                    "кыздык аты"
+                ],
+                "Karakalpak": [
+                    "qız familiyası",
+                    "qız kúnigi familiyası"
+                ],
+                "Tatar": [
+                    "кыз фамилиясе",
+                    "кызлык фамилиясе"
+                ],
+                "Bashkir": [
+                    "ҡыҙ фамилияһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төркін тегі"
+                ],
+                "Kyrgyz": [
+                    "төркүнүнүн аты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bekarlık soyadı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەسلى فامىلىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "атаһының фамилияһы"
+                ]
+            }
+        }
+    ]
+}

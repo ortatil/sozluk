@@ -1,0 +1,82 @@
+{
+    "id": "i78138",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cat food",
+    "en_definition": "food prepared for cats",
+    "tr_word": "kedi maması",
+    "tr_definition": "kediler için hazırlanmış yiyecek",
+    "ru_word": "кошачий корм",
+    "ru_definition": "пища, приготовленная для кошек",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pişik yemi",
+                    "pişik qidası",
+                    "pişik azuqəsi"
+                ],
+                "Turkmen": [
+                    "pişik iými",
+                    "pişik nahary",
+                    "pişik iýmiti"
+                ],
+                "Kyrgyz": [
+                    "мышык азыгы",
+                    "мышык жеми"
+                ],
+                "Karakalpak": [
+                    "pıshıq azıǵı",
+                    "pıshıq jemi",
+                    "pıshıq aoqatı"
+                ],
+                "Bashkir": [
+                    "бесәй аҙығы",
+                    "бесәй ризығы",
+                    "бесәй ашамлығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mushuk yemi",
+                    "mushuk ovqati",
+                    "mushuk taomi"
+                ],
+                "Uyghur": [
+                    "مۈشۈك تامىقى",
+                    "مۈشۈك يېمى"
+                ],
+                "Kazakh": [
+                    "мысық асы",
+                    "мысық тамағы",
+                    "мысық жемі"
+                ],
+                "Kyrgyz": [
+                    "мышыктын тамагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kedi maması",
+                    "kedi yemi",
+                    "kedi azığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәче ашы",
+                    "мәче ризыгы",
+                    "мәче азыгы"
+                ]
+            }
+        }
+    ]
+}

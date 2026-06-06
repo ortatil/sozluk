@@ -1,0 +1,171 @@
+# Special effect
+| Field | Detail |
+|---|---|
+| **ID** | i67935 |
+| **English** | special effect |
+| **Type** | noun |
+| **Definition** | an effect used to produce scenes that cannot be achieved by normal techniques (especially on film) |
+| **Source** | common |
+| **Ortatil** | äcäyibät |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i67935",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "special effect",
+    "en_definition": "an effect used to produce scenes that cannot be achieved by normal techniques (especially on film)",
+    "tr_word": "özel efekt",
+    "tr_definition": "Filmlerde veya televizyonda normal tekniklerle elde edilemeyen sahneleri oluşturmak için kullanılan görsel veya işitsel yanılsama.",
+    "ru_word": "спецэффект",
+    "ru_definition": "Технологический прием в кинематографе и на телевидении для создания сцен, которые невозможно снять обычным способом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "maxsus effekt",
+                    "maxsus usul"
+                ],
+                "Uyghur": [
+                    "مەخسۇس ئۈنۈم"
+                ],
+                "Tatar": [
+                    "махсус алым",
+                    "махсус күренеш"
+                ],
+                "Bashkir": [
+                    "махсус эффект"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "özel efekt",
+                    "özel teknik"
+                ],
+                "Kyrgyz": [
+                    "өзгөчө эффект"
+                ],
+                "Karakalpak": [
+                    "ózgeshe tásir"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýörite täsir"
+                ],
+                "Kazakh": [
+                    "ерекше әсер",
+                    "айрықша әсер"
+                ],
+                "Karakalpak": [
+                    "ayrıqsha kórinis"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "арнайы әсер"
+                ],
+                "Kyrgyz": [
+                    "атайын эффект",
+                    "атайын ыкма"
+                ],
+                "Karakalpak": [
+                    "arnaolı effekt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "görsel efekt",
+                    "görüntü hilesi"
+                ],
+                "Kyrgyz": [
+                    "көркөм эффект"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "texniki effekt"
+                ],
+                "Uyghur": [
+                    "تېخنىكىلىق ئۈنۈم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ajaýyp täsir"
+                ],
+                "Uzbek": [
+                    "ajoyibot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gʻayritabiiy koʻrinish"
+                ],
+                "Tatar": [
+                    "гадәттән тыш алым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xüsusi effekt",
+                    "xüsusi təsir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gözbagçylyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئالاھىدە ئۈنۈم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ғәжәп күренеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яһалма күренеш"
+                ]
+            }
+        }
+    ]
+}
+```
+

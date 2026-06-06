@@ -1,0 +1,69 @@
+{
+    "id": "i16880",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "swedish",
+    "en_definition": "of or relating to or characteristic of Sweden or its people or culture or language",
+    "tr_word": "İsveçli",
+    "tr_definition": "İsveç'e, halkına, kültürüne veya diline özgü olan",
+    "ru_word": "шведский",
+    "ru_definition": "относящийся к Швеции, её народу, культуре или языку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şwed"
+                ],
+                "Uzbek": [
+                    "shved",
+                    "shvetsiyalik"
+                ],
+                "Uyghur": [
+                    "شۋېتسىيەلىك",
+                    "شۋېتسىيەگە ئائىت",
+                    "شۋېت"
+                ],
+                "Kazakh": [
+                    "швед",
+                    "шведтік"
+                ],
+                "Kyrgyz": [
+                    "швед",
+                    "шведдик"
+                ],
+                "Karakalpak": [
+                    "shwed",
+                    "shwedshe"
+                ],
+                "Tatar": [
+                    "швед",
+                    "шведча"
+                ],
+                "Bashkir": [
+                    "швед",
+                    "шведтарға хас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "İsveçli",
+                    "İsveç"
+                ],
+                "Azerbaijani": [
+                    "isveçli",
+                    "isveç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şwesiýaly"
+                ]
+            }
+        }
+    ]
+}

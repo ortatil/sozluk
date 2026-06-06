@@ -1,0 +1,158 @@
+{
+    "id": "i116642",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "uptime",
+    "en_definition": "a period of time when something (as a machine or factory) is functioning and available for use",
+    "tr_word": "çalışma süresi",
+    "tr_definition": "bir makinenin veya sistemin çalışır durumda ve kullanıma hazır olduğu süre.",
+    "ru_word": "время безотказной работы",
+    "ru_definition": "период времени, в течение которого система или оборудование функционирует и доступно для использования.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işlerlik süresi"
+                ],
+                "Azerbaijani": [
+                    "işləmə müddəti"
+                ],
+                "Turkmen": [
+                    "iş wagty",
+                    "işleýiş möhleti"
+                ],
+                "Uzbek": [
+                    "ish vaqti",
+                    "ishlash davri"
+                ],
+                "Uyghur": [
+                    "ئىشلەش ۋاقتى"
+                ],
+                "Kazakh": [
+                    "істеу мерзімі"
+                ],
+                "Kyrgyz": [
+                    "иштөө убактысы",
+                    "иштөө мөөнөтү"
+                ],
+                "Karakalpak": [
+                    "islep turıo oaqtı"
+                ],
+                "Tatar": [
+                    "эшләү вакыты"
+                ],
+                "Bashkir": [
+                    "эш ваҡыты",
+                    "эшләү ваҡыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "faal süre"
+                ],
+                "Azerbaijani": [
+                    "fəaliyyət vaxtı"
+                ],
+                "Uzbek": [
+                    "faoliyat muddati"
+                ],
+                "Uyghur": [
+                    "پائالىيەت ۋاقتى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "пайдалану мерзімі"
+                ],
+                "Tatar": [
+                    "файдалану вакыты"
+                ],
+                "Bashkir": [
+                    "файҙаланыу ваҡыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "açık kalma süresi"
+                ],
+                "Azerbaijani": [
+                    "açıq qalma müddəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hazır olma müddəti"
+                ],
+                "Tatar": [
+                    "хезмәт вакыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмыс уақыты"
+                ],
+                "Karakalpak": [
+                    "jumıs oaqtı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жарактуулук убактысы"
+                ],
+                "Karakalpak": [
+                    "jaramlılıq múddeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalışma süresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "taýýarlyk wagty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مەشغۇلات ۋاقتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қызмет уақыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эш вакыты"
+                ]
+            }
+        }
+    ]
+}

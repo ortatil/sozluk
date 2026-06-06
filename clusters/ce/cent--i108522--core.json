@@ -1,0 +1,116 @@
+{
+    "id": "i108522",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "cent",
+    "en_definition": "a fractional monetary unit of several countries",
+    "tr_word": "sent",
+    "tr_definition": "Birçok ülkenin para biriminin yüzde birine eşit olan küçük para birimi.",
+    "ru_word": "цент",
+    "ru_definition": "Разменная монета, составляющая сотую часть основной денежной единицы ряда стран.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tiyin"
+                ],
+                "Uyghur": [
+                    "تىيىن"
+                ],
+                "Kazakh": [
+                    "тиын"
+                ],
+                "Kyrgyz": [
+                    "тыйын"
+                ],
+                "Karakalpak": [
+                    "tıyın"
+                ],
+                "Tatar": [
+                    "тиен"
+                ],
+                "Bashkir": [
+                    "тиен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sent"
+                ],
+                "Azerbaijani": [
+                    "sent"
+                ],
+                "Uyghur": [
+                    "سېنت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pul"
+                ],
+                "Uzbek": [
+                    "pul"
+                ],
+                "Karakalpak": [
+                    "pul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuruş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "para"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəpik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "teňňe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бөлшек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "акча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ваҡ аҡса"
+                ]
+            }
+        }
+    ]
+}

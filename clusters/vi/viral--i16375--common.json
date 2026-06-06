@@ -1,0 +1,89 @@
+{
+    "id": "i16375",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "viral",
+    "en_definition": "relating to or caused by a virus",
+    "tr_word": "viral",
+    "tr_definition": "virüsle ilgili veya virüsün neden olduğu",
+    "ru_word": "вирусный",
+    "ru_definition": "относящийся к вирусу или вызванный вирусом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "virütik",
+                    "virüsle ilgili",
+                    "virüs kaynaklı"
+                ],
+                "Azerbaijani": [
+                    "viruslu",
+                    "virus mənşəli"
+                ],
+                "Turkmen": [
+                    "wirusly"
+                ],
+                "Uzbek": [
+                    "virusli"
+                ],
+                "Uyghur": [
+                    "ۋىرۇسلۇق",
+                    "ۋىرۇس خاراكتېرلىك"
+                ],
+                "Kazakh": [
+                    "вирустық",
+                    "вирусты"
+                ],
+                "Kyrgyz": [
+                    "вирустук",
+                    "вирус аркылуу"
+                ],
+                "Karakalpak": [
+                    "wiruslı"
+                ],
+                "Tatar": [
+                    "вируслы"
+                ],
+                "Bashkir": [
+                    "вируслы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yoluxucu"
+                ],
+                "Uzbek": [
+                    "yuqumli"
+                ],
+                "Kyrgyz": [
+                    "жугуштуу"
+                ],
+                "Tatar": [
+                    "йогышлы"
+                ],
+                "Bashkir": [
+                    "йоғошло"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýokanç",
+                    "ýokançly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "juqpalı"
+                ]
+            }
+        }
+    ]
+}

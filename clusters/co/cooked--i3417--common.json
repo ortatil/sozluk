@@ -1,0 +1,100 @@
+{
+    "id": "i3417",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "cooked",
+    "en_definition": "having been prepared for eating by the application of heat",
+    "tr_word": "pişmiş",
+    "tr_definition": "Isı uygulanarak yenmeye hazır hale getirilmiş",
+    "ru_word": "приготовленный",
+    "ru_definition": "подготовленный к употреблению в пищу путем термической обработки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pişmiş",
+                    "pişirilmiş"
+                ],
+                "Azerbaijani": [
+                    "bişmiş",
+                    "bişirilmiş"
+                ],
+                "Turkmen": [
+                    "bişen",
+                    "bişirilen"
+                ],
+                "Uzbek": [
+                    "pishgan",
+                    "pishirilgan"
+                ],
+                "Uyghur": [
+                    "پىشقان",
+                    "پىشۇرۇلغان"
+                ],
+                "Kazakh": [
+                    "піскен",
+                    "пісірілген"
+                ],
+                "Kyrgyz": [
+                    "бышкан"
+                ],
+                "Karakalpak": [
+                    "pіsken",
+                    "pіsіrіlgen"
+                ],
+                "Tatar": [
+                    "пешкән",
+                    "пешерелгән"
+                ],
+                "Bashkir": [
+                    "бешкән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýýar"
+                ],
+                "Uzbek": [
+                    "tayyor"
+                ],
+                "Kazakh": [
+                    "дайындалған"
+                ],
+                "Kyrgyz": [
+                    "даяр"
+                ],
+                "Karakalpak": [
+                    "dayar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazırlanmış"
+                ],
+                "Azerbaijani": [
+                    "hazırlanmış"
+                ],
+                "Bashkir": [
+                    "хәҙер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "әзер"
+                ],
+                "Bashkir": [
+                    "әҙер"
+                ]
+            }
+        }
+    ]
+}

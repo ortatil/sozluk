@@ -1,0 +1,119 @@
+{
+    "id": "i7054",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "incoming",
+    "en_definition": "arriving at a place or position",
+    "tr_word": "gelen",
+    "tr_definition": "bir yere veya konuma ulaşan, gelmekte olan",
+    "ru_word": "входящий",
+    "ru_definition": "прибывающий в какое-либо место или положение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gelen"
+                ],
+                "Azerbaijani": [
+                    "gələn"
+                ],
+                "Turkmen": [
+                    "gelýän",
+                    "gelýän-barýan",
+                    "geliji"
+                ],
+                "Uzbek": [
+                    "keluvchi",
+                    "kelayotgan"
+                ],
+                "Uyghur": [
+                    "كېلىۋاتقان",
+                    "كېلىدىغان"
+                ],
+                "Kazakh": [
+                    "келуші",
+                    "келетін",
+                    "келіп түсетін"
+                ],
+                "Kyrgyz": [
+                    "келүүчү",
+                    "келген",
+                    "келип жаткан"
+                ],
+                "Karakalpak": [
+                    "keletuǵın",
+                    "kelip atırǵan",
+                    "kelioshi"
+                ],
+                "Tatar": [
+                    "килүче",
+                    "килә торган"
+                ],
+                "Bashkir": [
+                    "килеүсе",
+                    "килгән",
+                    "килешле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kiruvchi",
+                    "kirayotgan"
+                ],
+                "Uyghur": [
+                    "كىرىۋاتقان",
+                    "كىرىش"
+                ],
+                "Kazakh": [
+                    "кіріс"
+                ],
+                "Kyrgyz": [
+                    "кириш"
+                ],
+                "Karakalpak": [
+                    "kirioshi"
+                ],
+                "Tatar": [
+                    "керүче",
+                    "керә торган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "varan",
+                    "vasıl olan"
+                ],
+                "Azerbaijani": [
+                    "varid olan"
+                ],
+                "Turkmen": [
+                    "warid"
+                ],
+                "Uzbek": [
+                    "vorid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "daxil olan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "инеүсе"
+                ]
+            }
+        }
+    ]
+}

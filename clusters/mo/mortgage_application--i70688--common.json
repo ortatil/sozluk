@@ -1,0 +1,138 @@
+{
+    "id": "i70688",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mortgage application",
+    "en_definition": "an application for a mortgage loan",
+    "tr_word": "ipotek başvurusu",
+    "tr_definition": "Bir konut kredisi veya ipotekli kredi almak için yapılan resmi başvuru.",
+    "ru_word": "заявка на ипотеку",
+    "ru_definition": "Официальное заявление на получение ипотечного кредита.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ipotekli kredi başvurusu"
+                ],
+                "Azerbaijani": [
+                    "ipoteka müraciəti",
+                    "ipoteka ərizəsi"
+                ],
+                "Turkmen": [
+                    "ipoteka arzasy",
+                    "ipoteka ýüzlenmesi"
+                ],
+                "Uzbek": [
+                    "ipoteka arizasi"
+                ],
+                "Kazakh": [
+                    "ипотекалық өтініш"
+                ],
+                "Kyrgyz": [
+                    "ипотекалык арыз"
+                ],
+                "Karakalpak": [
+                    "ipoteka arzası",
+                    "ipotekalıq nesie arzası",
+                    "ipotekalıq múrájat"
+                ],
+                "Tatar": [
+                    "ипотека гаризасы"
+                ],
+                "Bashkir": [
+                    "ипотека ғаризаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ev kredisi başvurusu"
+                ],
+                "Turkmen": [
+                    "jaý karzy üçin arza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "garovli qarz arizasi"
+                ],
+                "Kyrgyz": [
+                    "күрөөлүк насыя арызы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күчемсез милек залогына гариза"
+                ],
+                "Bashkir": [
+                    "күсемһеҙ мөлкәт залогына ғариза"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "konut kredisi başvurusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "daşınmaz əmlak krediti müraciəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uy-joy krediti so'rovi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رەنىلىك قەرز ئىلتىماسى",
+                    "رەنىلىك قەرز بېرىش ئىلتىماسى",
+                    "رەنىلىك قەرز سوراش ئىلتىماسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кепілді несие өтініші",
+                    "баспана несиесіне өтініш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "турак жай насыясына өтүнмө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йорт алу өчен заем гаризасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йорт һатып алыуға үтес ғаризаһы"
+                ]
+            }
+        }
+    ]
+}

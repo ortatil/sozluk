@@ -1,0 +1,116 @@
+# Saline solution
+| Field | Detail |
+|---|---|
+| **ID** | i113690 |
+| **English** | saline solution |
+| **Type** | noun |
+| **Definition** | an isotonic solution of sodium chloride and distilled water |
+| **Source** | common |
+| **Ortatil** | nämäkäp |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i113690",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "saline solution",
+    "en_definition": "an isotonic solution of sodium chloride and distilled water",
+    "tr_word": "serum fizyolojik",
+    "tr_definition": "sodyum klorür ve damıtılmış suyun izotonik bir çözeltisi",
+    "ru_word": "физраствор",
+    "ru_definition": "изотонический раствор хлорида натрия и дистиллированной воды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tuzlu su",
+                    "tuzlu eriyik",
+                    "tuzlu çözelti"
+                ],
+                "Azerbaijani": [
+                    "duzlu məhlul",
+                    "duzlu su"
+                ],
+                "Turkmen": [
+                    "duzly ergin",
+                    "duzly suw"
+                ],
+                "Uzbek": [
+                    "tuzli eritma"
+                ],
+                "Uyghur": [
+                    "تۇز ئېرىتمىسى",
+                    "تۇزلۇق سۇ"
+                ],
+                "Kazakh": [
+                    "тұзды ерітінді",
+                    "тұз ерітіндісі"
+                ],
+                "Kyrgyz": [
+                    "туздуу эритме",
+                    "туз эритмеси"
+                ],
+                "Karakalpak": [
+                    "tuzlı erіtpe",
+                    "tuzlı su"
+                ],
+                "Tatar": [
+                    "тозлы эремә",
+                    "тоз эремәсе"
+                ],
+                "Bashkir": [
+                    "тоҙло иретмә",
+                    "тоҙ иретмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fizioloji məhlul"
+                ],
+                "Turkmen": [
+                    "fiziologik ergin"
+                ],
+                "Uyghur": [
+                    "فىزىئولوگىيىلىك تۇز ئېرىتمىسى"
+                ],
+                "Kazakh": [
+                    "физиологиялық ерітінді"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "serum fizyolojik"
+                ],
+                "Tatar": [
+                    "физиологик эремә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sho'r suv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "namakob"
+                ]
+            }
+        }
+    ]
+}
+```
+

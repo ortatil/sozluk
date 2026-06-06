@@ -1,0 +1,277 @@
+# Keep up
+| Field | Detail |
+|---|---|
+| **ID** | i27167 |
+| **English** | keep up |
+| **Type** | verb |
+| **Definition** | maintain a required pace or level |
+| **Source** | common |
+| **Ortatil** | ḍeñläşmäk, jetişmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍeñläşmäk** | **jetişmäk** | **qalışmamaq** |
+|---|---|---|---|
+| Turkish | ❌ | ✅ | ❌ |
+| Azerbaijani | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ❌ | ✅ | ❌ |
+| Kazakh | ✅ | ❌ | ✅ |
+| Kyrgyz | ✅ | ✅ | ✅ |
+| Karakalpak | ✅ | ❌ | ✅ |
+| Tatar | ❌ | ❌ | ❌ |
+| Bashkir | ✅ | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 0.67 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0.20 | 0.80 |
+| *In All* | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **2.63** | **2.37** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| يېتىشىۋالماق | yetişivalmaq |
+| داۋاملاشتۇرماق | davamlaşturmaq |
+| **Kazakh** | |
+| теңесу | teñesu |
+| қалыспау | qalıspau |
+| ілесу | ilesu |
+| **Kyrgyz** | |
+| теңелүү | teñelüü |
+| жетишүү | jetişüü |
+| калышпоо | kalışpoo |
+| **Tatar** | |
+| өлгерү | ölgerü |
+| **Bashkir** | |
+| тиңләшеү | tiñläşeü |
+| ҡалышмау | qalışmau |
+| өлгөрөү | ölgöröü |
+
+```json
+{
+    "id": "i27167",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "keep up",
+    "en_definition": "maintain a required pace or level",
+    "tr_word": "ayak uydurmak",
+    "tr_definition": "gerekli hıza veya seviyeye ayak uydurmak, geri kalmamak",
+    "ru_word": "поспевать",
+    "ru_definition": "идти в ногу, не отставать, поддерживать необходимый темп или уровень",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "deňleşmek"
+                ],
+                "Uzbek": [
+                    "tenglashmoq"
+                ],
+                "Uyghur": [
+                    "تەڭ مېڭىشماق"
+                ],
+                "Kazakh": [
+                    "теңесу"
+                ],
+                "Kyrgyz": [
+                    "теңелүү"
+                ],
+                "Karakalpak": [
+                    "teńlesіu"
+                ],
+                "Bashkir": [
+                    "тиңләшеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yetişmek"
+                ],
+                "Azerbaijani": [
+                    "çatmaq"
+                ],
+                "Uzbek": [
+                    "yetib olmoq"
+                ],
+                "Uyghur": [
+                    "يېتىشىۋالماق"
+                ],
+                "Kyrgyz": [
+                    "жетишүү"
+                ],
+                "Karakalpak": [
+                    "jetisip otırıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ortda qolmaslik"
+                ],
+                "Uyghur": [
+                    "ئارقىدا قالماسلىق"
+                ],
+                "Tatar": [
+                    "артта калмау"
+                ],
+                "Bashkir": [
+                    "артта ҡалмау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қалыспау"
+                ],
+                "Kyrgyz": [
+                    "калышпоо"
+                ],
+                "Karakalpak": [
+                    "qalıspau"
+                ],
+                "Bashkir": [
+                    "ҡалышмау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayak uydurmak"
+                ],
+                "Azerbaijani": [
+                    "ayaqlaşmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geri kalmamak"
+                ],
+                "Azerbaijani": [
+                    "geri qalmamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "devam ettirmek"
+                ],
+                "Uyghur": [
+                    "داۋاملاشتۇرماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "saklamak"
+                ],
+                "Uzbek": [
+                    "saqlamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ілесу",
+                    "ілесіп отыру"
+                ],
+                "Karakalpak": [
+                    "іlesіp barıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кууп жетүү"
+                ],
+                "Tatar": [
+                    "куып җитү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өлгерү"
+                ],
+                "Bashkir": [
+                    "өлгөрөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sürdürmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "izləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uyğunlaşmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yetişmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzyndan ýetmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "barobar yurmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қатар жүру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тигез бару"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,122 @@
+{
+    "id": "i55872",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lunchroom",
+    "en_definition": "a restaurant (in a facility) where lunch can be purchased",
+    "tr_word": "yemekhane",
+    "tr_definition": "Bir kurumda veya tesiste öğle yemeğinin yendiği veya satın alındığı yer.",
+    "ru_word": "столовая",
+    "ru_definition": "Помещение в учреждении или на предприятии, предназначенное для приема и продажи пищи, особенно обедов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşevi"
+                ],
+                "Azerbaijani": [
+                    "aşxana"
+                ],
+                "Turkmen": [
+                    "aşhana"
+                ],
+                "Uzbek": [
+                    "oshxona"
+                ],
+                "Uyghur": [
+                    "ئاشخانا"
+                ],
+                "Kazakh": [
+                    "асхана"
+                ],
+                "Kyrgyz": [
+                    "ашкана"
+                ],
+                "Karakalpak": [
+                    "asxana"
+                ],
+                "Tatar": [
+                    "ашханә",
+                    "аш бүлмәсе"
+                ],
+                "Bashkir": [
+                    "ашхана",
+                    "аш бүлмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "taomxona"
+                ],
+                "Uyghur": [
+                    "تاماقخانا"
+                ],
+                "Kazakh": [
+                    "тамақтану орны"
+                ],
+                "Kyrgyz": [
+                    "тамаккана"
+                ],
+                "Karakalpak": [
+                    "tamaqxana"
+                ],
+                "Tatar": [
+                    "тамакханә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yemekhane"
+                ],
+                "Azerbaijani": [
+                    "yeməkxana"
+                ],
+                "Uyghur": [
+                    "يېمەكخانا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lokanta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kantin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "süfrəxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "naharhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ovqatxona"
+                ]
+            }
+        }
+    ]
+}

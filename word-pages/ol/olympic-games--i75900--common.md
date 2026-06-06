@@ -1,0 +1,92 @@
+# Olympic games
+| Field | Detail |
+|---|---|
+| **ID** | i75900 |
+| **English** | olympic games |
+| **Type** | noun |
+| **Definition** | the modern revival of the ancient games held once every 4 years in a selected country |
+| **Source** | common |
+| **Ortatil** | olimpiada |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **olimpiada** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.70** |
+
+```json
+{
+    "id": "i75900",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "olympic games",
+    "en_definition": "the modern revival of the ancient games held once every 4 years in a selected country",
+    "tr_word": "olimpiyat oyunları",
+    "tr_definition": "dört yılda bir başka bir ülkede düzenlenen, antik oyunların modern bir canlandırması olan uluslararası spor etkinliği",
+    "ru_word": "олимпийские игры",
+    "ru_definition": "крупнейшие международные комплексные спортивные соревнования, которые проводятся раз в четыре года",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "olimpiyat oyunları",
+                    "olimpiyatlar"
+                ],
+                "Azerbaijani": [
+                    "olimpiya oyunları",
+                    "olimpiada"
+                ],
+                "Turkmen": [
+                    "Olimpiýa oýunlary",
+                    "Olimpiada"
+                ],
+                "Uzbek": [
+                    "olimpiada",
+                    "olimpiya oʻyinlari"
+                ],
+                "Uyghur": [
+                    "ئولىمپىك تەنھەرىكەت مۇسابىقىسى",
+                    "ئولىمپىك يىغىنى",
+                    "ئولىمپىك مۇسابىقىلىرى"
+                ],
+                "Kazakh": [
+                    "Олимпиада ойындары",
+                    "Олимпиадалық ойындар"
+                ],
+                "Kyrgyz": [
+                    "Олимпиада оюндары",
+                    "Олимпиадалык оюндар"
+                ],
+                "Karakalpak": [
+                    "Olimpiada oyınları",
+                    "Olimpiada"
+                ],
+                "Tatar": [
+                    "Олимпия уеннары",
+                    "Олимпия бәйгеләре"
+                ],
+                "Bashkir": [
+                    "Олимпия уйындары",
+                    "Олимпия уйындары ярыштары"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,150 @@
+# Birthday card
+| Field | Detail |
+|---|---|
+| **ID** | i71307 |
+| **English** | birthday card |
+| **Type** | noun |
+| **Definition** | a card expressing a birthday greeting |
+| **Source** | common |
+| **Ortatil** | täbriknämä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **täbriknämä** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| тәбрикнамә | täbriknamä |
+| **Bashkir** | |
+| тәбрикнамә | täbriknamä |
+
+```json
+{
+    "id": "i71307",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "birthday card",
+    "en_definition": "a card expressing a birthday greeting",
+    "tr_word": "doğum günü kartı",
+    "tr_definition": "doğum günü tebriği içeren bir kart",
+    "ru_word": "открытка с днём рождения",
+    "ru_definition": "открытка с поздравлением ко дню рождения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tebrik kartı"
+                ],
+                "Azerbaijani": [
+                    "təbrik açıqcası"
+                ],
+                "Uzbek": [
+                    "tabriknoma"
+                ],
+                "Karakalpak": [
+                    "tábrik xatı"
+                ],
+                "Tatar": [
+                    "тәбрикнамә"
+                ],
+                "Bashkir": [
+                    "тәбрикнамә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gutlag haty",
+                    "gutlag otkrytkasy"
+                ],
+                "Kazakh": [
+                    "құттықтау хаты",
+                    "құттықтау қағазы"
+                ],
+                "Kyrgyz": [
+                    "куттуктоо баракчасы",
+                    "куттуктоо каты"
+                ],
+                "Karakalpak": [
+                    "qutlıqlao xatı"
+                ],
+                "Tatar": [
+                    "котлау открыткасы"
+                ],
+                "Bashkir": [
+                    "ҡотлау открыткаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doğum günü kartı"
+                ],
+                "Turkmen": [
+                    "doglan gün gutlagy"
+                ],
+                "Kazakh": [
+                    "туған күн құттықтауы"
+                ],
+                "Karakalpak": [
+                    "tuoılǵan kún qutlıqlao qaǵazı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tug'ilgan kun tabriknomasi"
+                ],
+                "Uyghur": [
+                    "تۇغۇلغان كۈن تەبرىك كارتىسى",
+                    "تۇغۇلغان كۈن تەبرىكنامىسى"
+                ],
+                "Tatar": [
+                    "туган көн котлау хаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ad günü təbrikçəsi",
+                    "ad günü kartı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тыуған көн открыткаһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,91 @@
+{
+    "id": "i81068",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "industrialism",
+    "en_definition": "an economic system built on large industries rather than on agriculture or craftsmanship",
+    "tr_word": "endüstriyalizm",
+    "tr_definition": "tarım veya zanaatkarlık yerine büyük sanayilere dayalı ekonomik sistem",
+    "ru_word": "индустриализм",
+    "ru_definition": "экономическая система, основанная на крупной промышленности, а не на сельском хозяйстве или ремесле",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanayicilik",
+                    "sanayileşme",
+                    "sınai düzen"
+                ],
+                "Azerbaijani": [
+                    "sənayeçilik",
+                    "sənayeləşmə",
+                    "sənaye nizamı"
+                ],
+                "Turkmen": [
+                    "senagatçylyk",
+                    "senagat ulgamy"
+                ],
+                "Uzbek": [
+                    "sanoatlashuv",
+                    "sanoatchilik"
+                ],
+                "Uyghur": [
+                    "سانائەتچىلىك",
+                    "سانائەت تۈزۈمى"
+                ],
+                "Karakalpak": [
+                    "sanaatshılıq",
+                    "sanaatlasıo"
+                ],
+                "Tatar": [
+                    "сәнәгатьчелек",
+                    "сәнәгать нигезе"
+                ],
+                "Bashkir": [
+                    "сәнәғәтселек",
+                    "сәнәғәтләшеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "endüstriyalizm"
+                ],
+                "Turkmen": [
+                    "industrializm"
+                ],
+                "Uzbek": [
+                    "industriyallashuv"
+                ],
+                "Kazakh": [
+                    "индустрияшылдық"
+                ],
+                "Karakalpak": [
+                    "industriyalasıo"
+                ],
+                "Tatar": [
+                    "индустриячелек"
+                ],
+                "Bashkir": [
+                    "индустриялашыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өнеркәсіпшілдік",
+                    "өндірісшілдік"
+                ],
+                "Kyrgyz": [
+                    "өнөр жайчылык",
+                    "өнөр жайлашуу",
+                    "өнөр жай түзүлүшү"
+                ]
+            }
+        }
+    ]
+}

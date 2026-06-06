@@ -1,0 +1,81 @@
+# Vanilla bean
+| Field | Detail |
+|---|---|
+| **ID** | i78283 |
+| **English** | vanilla bean |
+| **Type** | noun |
+| **Definition** | long bean-like fruit; seeds are used as flavoring |
+| **Source** | common |
+| **Ortatil** | wanil |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i78283",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vanilla bean",
+    "en_definition": "long bean-like fruit; seeds are used as flavoring",
+    "tr_word": "vanilya çubuğu",
+    "tr_definition": "uzun fasulye benzeri meyve; tohumları aroma verici olarak kullanılır",
+    "ru_word": "стручок ванили",
+    "ru_definition": "длинный плод, похожий на боб; семена используются в качестве ароматизатора",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vanilya çubuğu",
+                    "vanilya meyvesi",
+                    "vanilya tohumu"
+                ],
+                "Azerbaijani": [
+                    "vanil çubuğu",
+                    "vanil paxlası",
+                    "vanil meyvəsi"
+                ],
+                "Turkmen": [
+                    "wanil",
+                    "wanil gabygy",
+                    "wanil däneleri"
+                ],
+                "Uzbek": [
+                    "vanil doni",
+                    "vanil mevasi",
+                    "vanil qobig'i"
+                ],
+                "Uyghur": [
+                    "ۋانىن پۇرچىقى",
+                    "ۋانىن قوزىقى",
+                    "ۋانىن مېۋىسى"
+                ],
+                "Kazakh": [
+                    "ваниль бұршағы",
+                    "ваниль таяқшасы"
+                ],
+                "Kyrgyz": [
+                    "ваниль буурчагы",
+                    "ваниль мөмөсү"
+                ],
+                "Karakalpak": [
+                    "wanil burshaǵı",
+                    "wanil miyuesi"
+                ],
+                "Tatar": [
+                    "ваниль чөгенү",
+                    "ваниль җимеше",
+                    "ваниль кузагы"
+                ],
+                "Bashkir": [
+                    "ваниль борсағы",
+                    "ваниль емеше"
+                ]
+            }
+        }
+    ]
+}
+```
+

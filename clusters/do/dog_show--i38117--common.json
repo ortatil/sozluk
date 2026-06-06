@@ -1,0 +1,70 @@
+{
+    "id": "i38117",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dog show",
+    "en_definition": "a competitive exhibition of dogs",
+    "tr_word": "köpek gösterisi",
+    "tr_definition": "köpeklerin belirli standartlara göre yarıştığı rekabetçi bir sergi",
+    "ru_word": "выставка собак",
+    "ru_definition": "конкурсный показ собак, на котором оцениваются их экстерьер и качества",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "it sərgisi",
+                    "it nümayişi"
+                ],
+                "Turkmen": [
+                    "it sergisi",
+                    "itleriň sergisi",
+                    "itleriň bäsleşigi"
+                ],
+                "Uzbek": [
+                    "itlar koʻrgazmasi",
+                    "itlar namoyishi"
+                ],
+                "Uyghur": [
+                    "ئىت كۆرگەزمىسى",
+                    "ئىتلار كۆرگەزمىسى",
+                    "ئىت مۇسابىقىسى"
+                ],
+                "Kazakh": [
+                    "ит көрмесі",
+                    "иттер көрмесі",
+                    "иттер жарысы"
+                ],
+                "Kyrgyz": [
+                    "ит көргөзмөсү",
+                    "иттердин көргөзмөсү",
+                    "иттердин сынагы"
+                ],
+                "Karakalpak": [
+                    "iytler kórgizbesi",
+                    "iytler tańlaoı"
+                ],
+                "Tatar": [
+                    "этләр күргәзмәсе",
+                    "этләр ярышы"
+                ],
+                "Bashkir": [
+                    "эттәр күргәҙмәһе",
+                    "эттәр ярышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köpek sergisi",
+                    "köpek yarışması",
+                    "köpek gösterisi"
+                ],
+                "Azerbaijani": [
+                    "köpək sərgisi"
+                ]
+            }
+        }
+    ]
+}

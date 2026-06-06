@@ -1,0 +1,104 @@
+# Sledding
+| Field | Detail |
+|---|---|
+| **ID** | i37753 |
+| **English** | sledding |
+| **Type** | noun |
+| **Definition** | the sport of riding on a sled or sleigh |
+| **Source** | common |
+| **Ortatil** | çänäsäzlik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i37753",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sledding",
+    "en_definition": "the sport of riding on a sled or sleigh",
+    "tr_word": "kızakla kayma",
+    "tr_definition": "Bir kızak üzerinde karda kayma sporu veya etkinliği",
+    "ru_word": "катание на санках",
+    "ru_definition": "вид спорта или досуга, заключающийся в спуске по снегу на санях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çanakda typmak",
+                    "sanakda typmak"
+                ],
+                "Uzbek": [
+                    "chanada uchish",
+                    "chanasozlik"
+                ],
+                "Uyghur": [
+                    "چانىدا تېيىلىش",
+                    "چانا تېيىلىش",
+                    "چانا ھەرىكىتى"
+                ],
+                "Kazakh": [
+                    "шанамен сырғанау",
+                    "шана тебу",
+                    "шанамен жүру"
+                ],
+                "Kyrgyz": [
+                    "чана тебүү",
+                    "чана менен жүрүү",
+                    "чана спорту"
+                ],
+                "Karakalpak": [
+                    "shana tebio",
+                    "shanada sırǵanao"
+                ],
+                "Tatar": [
+                    "чана шуу",
+                    "чанада шуу",
+                    "чана спорты"
+                ],
+                "Bashkir": [
+                    "сана шыуыу",
+                    "сана менән шыуыу",
+                    "саналы спорт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kızakla kayma",
+                    "kızakçılık",
+                    "kızak sporu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kirşə sürmə",
+                    "kirşəçilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xizək sürmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "typma",
+                    "typylgy"
+                ]
+            }
+        }
+    ]
+}
+```
+

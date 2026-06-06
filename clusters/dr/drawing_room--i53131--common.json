@@ -1,0 +1,146 @@
+{
+    "id": "i53131",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "drawing room",
+    "en_definition": "a formal room where visitors can be received and entertained",
+    "tr_word": "misafir odası",
+    "tr_definition": "Ziyaretçilerin ağırlandığı ve eğlenildiği resmi oda.",
+    "ru_word": "гостиная",
+    "ru_definition": "Парадная комната, предназначенная для приема и развлечения гостей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "salon"
+                ],
+                "Azerbaijani": [
+                    "salon"
+                ],
+                "Turkmen": [
+                    "zal"
+                ],
+                "Uzbek": [
+                    "zal"
+                ],
+                "Uyghur": [
+                    "زال"
+                ],
+                "Karakalpak": [
+                    "zal"
+                ],
+                "Tatar": [
+                    "зал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "myhmanhana"
+                ],
+                "Uzbek": [
+                    "mehmonxona"
+                ],
+                "Uyghur": [
+                    "مېھمانخانا",
+                    "مېھماندارچىلىق ئۆيى"
+                ],
+                "Kazakh": [
+                    "мейманхана"
+                ],
+                "Kyrgyz": [
+                    "мейманкана"
+                ],
+                "Karakalpak": [
+                    "miymanxana"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qonaq otağı"
+                ],
+                "Kazakh": [
+                    "қонақжай",
+                    "қонақ бөлме"
+                ],
+                "Kyrgyz": [
+                    "конок бөлмө"
+                ],
+                "Tatar": [
+                    "кунак бүлмәсе"
+                ],
+                "Bashkir": [
+                    "ҡунаҡ бүлмәһе",
+                    "ҡунаҡхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "төр"
+                ],
+                "Kyrgyz": [
+                    "төр"
+                ],
+                "Karakalpak": [
+                    "tór"
+                ],
+                "Tatar": [
+                    "түр бүлмә"
+                ],
+                "Bashkir": [
+                    "түр бүлмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "misafir odası"
+                ],
+                "Azerbaijani": [
+                    "məclisxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kabul odası"
+                ],
+                "Uzbek": [
+                    "qabulxona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "başoda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "divanxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "otag"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,251 @@
+# Sisterhood
+| Field | Detail |
+|---|---|
+| **ID** | i81286 |
+| **English** | sisterhood |
+| **Type** | noun |
+| **Definition** | an association or society of women who are linked together by a common religion or trade or interest |
+| **Source** | common |
+| **Ortatil** | äpälik |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **äpälik** | **hämşirälik** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ❌ | ❌ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0 | 0.33 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 0.80 | 0 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **1.80** | **1.33** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاچا-سىڭىللىق | aça-siñilliq |
+| ھەمشىرىلىك | hämşirilik |
+| **Kazakh** | |
+| әпке-сіңлілік | äpke-siñlilik |
+| ұйым | uyım |
+| қарындастық | qarındastıq |
+| **Kyrgyz** | |
+| эже-сиңдилик | eje-siñdilik |
+| курдаштык | kurdaştık |
+| ынтымак | ıntımak |
+| **Tatar** | |
+| туганлык | tuganlık |
+| **Bashkir** | |
+| апай-һеңлелек | apay-heñlelek |
+| берлек | berlek |
+| ҡәрҙәшлек | qärzäşlek |
+| ойошма | oyoşma |
+
+```json
+{
+    "id": "i81286",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sisterhood",
+    "en_definition": "an association or society of women who are linked together by a common religion or trade or interest",
+    "tr_word": "kız kardeşlik",
+    "tr_definition": "Ortak bir din, meslek veya ilgi alanı ile birbirine bağlı kadınlar topluluğu veya birliği.",
+    "ru_word": "сестринство",
+    "ru_definition": "Ассоциация или общество женщин, связанных общей религией, профессией или интересами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "opa-singillik"
+                ],
+                "Uyghur": [
+                    "ئاچا-سىڭىللىق"
+                ],
+                "Kazakh": [
+                    "әпке-сіңлілік"
+                ],
+                "Kyrgyz": [
+                    "эже-сиңдилик"
+                ],
+                "Karakalpak": [
+                    "ápke-sińlilik",
+                    "apa-sińlilik"
+                ],
+                "Bashkir": [
+                    "апай-һеңлелек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uýalyk",
+                    "uýalar jemgyýeti",
+                    "uýalar birleşigi",
+                    "uýalyk gatnaşygy"
+                ],
+                "Uzbek": [
+                    "ayollar jamiyati",
+                    "ayollar uyushmasi"
+                ],
+                "Uyghur": [
+                    "ئاياللار بىرلىكى"
+                ],
+                "Kazakh": [
+                    "ұйым"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hemşirelik"
+                ],
+                "Uzbek": [
+                    "hamshiralik"
+                ],
+                "Uyghur": [
+                    "ھەمشىرىلىك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "бир туугандык"
+                ],
+                "Karakalpak": [
+                    "birlik"
+                ],
+                "Bashkir": [
+                    "берлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bacılık"
+                ],
+                "Azerbaijani": [
+                    "bacılıq",
+                    "bacılar cəmiyyəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kız kardeşlik"
+                ],
+                "Tatar": [
+                    "кыз туганлык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kadın birliği",
+                    "kadın dayanışması"
+                ],
+                "Azerbaijani": [
+                    "qadın birliyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həmfikir qadınlar birliyi"
+                ],
+                "Uyghur": [
+                    "خوتۇن-قىزلار جەمئىيىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қарындастық"
+                ],
+                "Bashkir": [
+                    "ҡәрҙәшлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ittifoqdoshlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әйелдер қауымдастығы",
+                    "әйелдер бірлестігі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "курдаштык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ынтымак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jámiyet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хатын-кызлар берлеге",
+                    "хатын-кызлар җәмгыяте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "туганлык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ойошма"
+                ]
+            }
+        }
+    ]
+}
+```
+

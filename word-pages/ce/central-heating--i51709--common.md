@@ -1,0 +1,101 @@
+# Central heating
+| Field | Detail |
+|---|---|
+| **ID** | i51709 |
+| **English** | central heating |
+| **Type** | noun |
+| **Definition** | a heating system in which air or water is heated at a central furnace and sent through the building via vents or pipes and radiators |
+| **Source** | common |
+| **Ortatil** | kalorüfer |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i51709",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "central heating",
+    "en_definition": "a heating system in which air or water is heated at a central furnace and sent through the building via vents or pipes and radiators",
+    "tr_word": "merkezi ısıtma",
+    "tr_definition": "bir binanın tüm bölümlerinin tek bir merkezden borularla iletilen sıcak su veya hava ile ısıtılmasını sağlayan sistem",
+    "ru_word": "центральное отопление",
+    "ru_definition": "система отопления зданий из единого отопительного центра, от которого теплоноситель распределяется по помещениям через трубопроводы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "merkezi ısıtma"
+                ],
+                "Azerbaijani": [
+                    "mərkəzi isitmə",
+                    "mərkəzi qızdırılma",
+                    "mərkəzi isitmə sistemi"
+                ],
+                "Turkmen": [
+                    "merkezi ýyladyş",
+                    "merkezi ýyladyş ulgamy"
+                ],
+                "Uzbek": [
+                    "markaziy isitish",
+                    "markaziy isitish tizimi"
+                ],
+                "Uyghur": [
+                    "مەركەزلىك ئىسسىتىش",
+                    "مەركەزلىك ئىسسىقلىق تەمىنلەش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "орталықтандырылған жылыту",
+                    "орталық жылыту жүйесі",
+                    "орталық жылу"
+                ],
+                "Karakalpak": [
+                    "ortalıqtandırılǵan jılıtıo",
+                    "ortalıq jılıtıo sisteması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзәк җылыту",
+                    "үзәк җылылык"
+                ],
+                "Bashkir": [
+                    "үҙәк йылытыу системаһы",
+                    "үҙәк йылытыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kalorifer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борбордук жылытуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жылуулук системасы"
+                ]
+            }
+        }
+    ]
+}
+```
+

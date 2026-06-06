@@ -1,0 +1,157 @@
+{
+    "id": "i63904",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "number",
+    "en_definition": "the property possessed by a sum or total or indefinite quantity of units or individuals",
+    "tr_word": "sayı",
+    "tr_definition": "bir toplamı veya birimlerin miktarını belirten matematiksel değer.",
+    "ru_word": "число",
+    "ru_definition": "основное понятие математики, используемое для количественной характеристики, сравнения и нумерации объектов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sayı"
+                ],
+                "Azerbaijani": [
+                    "say"
+                ],
+                "Turkmen": [
+                    "san"
+                ],
+                "Uzbek": [
+                    "son"
+                ],
+                "Uyghur": [
+                    "سان"
+                ],
+                "Kazakh": [
+                    "سان"
+                ],
+                "Kyrgyz": [
+                    "سان",
+                    "санак"
+                ],
+                "Karakalpak": [
+                    "سان"
+                ],
+                "Tatar": [
+                    "сан",
+                    "саны"
+                ],
+                "Bashkir": [
+                    "һан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "miktar"
+                ],
+                "Azerbaijani": [
+                    "miqdar"
+                ],
+                "Turkmen": [
+                    "mukdar"
+                ],
+                "Uzbek": [
+                    "miqdor"
+                ],
+                "Karakalpak": [
+                    "miqdar"
+                ],
+                "Tatar": [
+                    "микъдар"
+                ],
+                "Bashkir": [
+                    "миҡдар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rakam"
+                ],
+                "Azerbaijani": [
+                    "rəqəm"
+                ],
+                "Turkmen": [
+                    "rakam"
+                ],
+                "Uzbek": [
+                    "raqam"
+                ],
+                "Uyghur": [
+                    "رەقەم"
+                ],
+                "Tatar": [
+                    "рәхәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adet"
+                ],
+                "Azerbaijani": [
+                    "ədəd"
+                ],
+                "Turkmen": [
+                    "adet"
+                ],
+                "Uzbek": [
+                    "adad"
+                ],
+                "Uyghur": [
+                    "ئەدەد"
+                ],
+                "Karakalpak": [
+                    "adad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tane"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нөмір"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мөлшер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эсеп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сөс"
+                ]
+            }
+        }
+    ]
+}

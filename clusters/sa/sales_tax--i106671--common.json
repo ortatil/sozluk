@@ -1,0 +1,130 @@
+{
+    "id": "i106671",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sales tax",
+    "en_definition": "a tax based on the cost of the item purchased and collected directly from the buyer",
+    "tr_word": "satış vergisi",
+    "tr_definition": "Satın alınan ürünün maliyeti üzerinden hesaplanan ve doğrudan alıcıdan tahsil edilen vergi.",
+    "ru_word": "налог с продаж",
+    "ru_definition": "Налог, основанный на стоимости приобретенного товара и взимаемый непосредственно с покупателя.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satış vergisi"
+                ],
+                "Azerbaijani": [
+                    "satış vergisi"
+                ],
+                "Uzbek": [
+                    "sotuv solig'i"
+                ],
+                "Uyghur": [
+                    "سېتىش بېجى",
+                    "سېتىۋېلىش بېجى"
+                ],
+                "Kazakh": [
+                    "сату салығы"
+                ],
+                "Kyrgyz": [
+                    "сатуу салыгы"
+                ],
+                "Karakalpak": [
+                    "satıo salıǵı",
+                    "satıodan alınatuǵın salıq"
+                ],
+                "Tatar": [
+                    "сату салымы"
+                ],
+                "Bashkir": [
+                    "һатыу һалымы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söwda salgydy"
+                ],
+                "Uzbek": [
+                    "savdo solig'i"
+                ],
+                "Uyghur": [
+                    "سودا بېجى"
+                ],
+                "Kyrgyz": [
+                    "соода салыгы"
+                ],
+                "Tatar": [
+                    "сәүдә салымы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "harcama vergisi"
+                ],
+                "Turkmen": [
+                    "haryt salgydy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "iste'mol solig'i"
+                ],
+                "Kazakh": [
+                    "үстеме салық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "katma değer vergisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tüketim vergisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əlavə dəyər vergisi",
+                    "alış-veriş rüsumu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşulan baha salgydy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұтыну салығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сауҙа һалымы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": "i12058",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "fifty-three",
+    "en_definition": "being three more than fifty",
+    "tr_word": "elli üç",
+    "tr_definition": "elliden üç fazla olan sayı",
+    "ru_word": "пятьдесят три",
+    "ru_definition": "число, на три единицы большее пятидесяти",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elli üç"
+                ],
+                "Azerbaijani": [
+                    "əlli üç"
+                ],
+                "Turkmen": [
+                    "elli üç"
+                ],
+                "Uzbek": [
+                    "ellik uch"
+                ],
+                "Uyghur": [
+                    "ئەللىك ئۈچ"
+                ],
+                "Kazakh": [
+                    "елу үш"
+                ],
+                "Kyrgyz": [
+                    "элүү үч"
+                ],
+                "Karakalpak": [
+                    "elli úsh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "илле өч"
+                ],
+                "Bashkir": [
+                    "илле өс"
+                ]
+            }
+        }
+    ]
+}

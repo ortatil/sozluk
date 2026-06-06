@@ -1,0 +1,81 @@
+{
+    "id": "i108791",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ruble",
+    "en_definition": "the basic unit of money in Russia",
+    "tr_word": "ruble",
+    "tr_definition": "Rusya'nın temel para birimi",
+    "ru_word": "рубль",
+    "ru_definition": "основная денежная единица России",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ruble"
+                ],
+                "Azerbaijani": [
+                    "rubl"
+                ],
+                "Uzbek": [
+                    "rubl"
+                ],
+                "Uyghur": [
+                    "رۇبلى",
+                    "رۇبىل"
+                ],
+                "Kazakh": [
+                    "рубль"
+                ],
+                "Kyrgyz": [
+                    "рубль"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сом"
+                ],
+                "Kyrgyz": [
+                    "сом"
+                ],
+                "Karakalpak": [
+                    "som"
+                ],
+                "Tatar": [
+                    "сум"
+                ],
+                "Bashkir": [
+                    "һум"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "manat"
+                ],
+                "Turkmen": [
+                    "manat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aqsha"
+                ]
+            }
+        }
+    ]
+}

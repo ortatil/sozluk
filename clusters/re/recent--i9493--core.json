@@ -1,0 +1,150 @@
+{
+    "id": "i9493",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "recent",
+    "en_definition": "of the immediate past or just previous to the present time",
+    "tr_word": "son",
+    "tr_definition": "yakın geçmişe ait olan veya şimdiki zamandan hemen öncesine dayanan",
+    "ru_word": "недавний",
+    "ru_definition": "относящийся к ближайшему прошлому или произошедший незадолго до настоящего момента",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeni"
+                ],
+                "Azerbaijani": [
+                    "yeni"
+                ],
+                "Uzbek": [
+                    "yangi"
+                ],
+                "Uyghur": [
+                    "يېڭى"
+                ],
+                "Kazakh": [
+                    "жаңа"
+                ],
+                "Kyrgyz": [
+                    "жаңы"
+                ],
+                "Karakalpak": [
+                    "jańaǵı"
+                ],
+                "Tatar": [
+                    "яңа"
+                ],
+                "Bashkir": [
+                    "яңы",
+                    "яңыраҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "son"
+                ],
+                "Azerbaijani": [
+                    "son"
+                ],
+                "Turkmen": [
+                    "soňky"
+                ],
+                "Uzbek": [
+                    "soʻnggi"
+                ],
+                "Kazakh": [
+                    "соңғы"
+                ],
+                "Karakalpak": [
+                    "sońǵı"
+                ],
+                "Tatar": [
+                    "соңгы"
+                ],
+                "Bashkir": [
+                    "һуңғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yakın"
+                ],
+                "Azerbaijani": [
+                    "yaxın"
+                ],
+                "Turkmen": [
+                    "ýakyndaky"
+                ],
+                "Uzbek": [
+                    "yaqin"
+                ],
+                "Uyghur": [
+                    "يېقىنقى",
+                    "يېقىندا بولغان"
+                ],
+                "Kyrgyz": [
+                    "жакынкы"
+                ],
+                "Karakalpak": [
+                    "jaqındaǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taze"
+                ],
+                "Azerbaijani": [
+                    "təzə"
+                ],
+                "Turkmen": [
+                    "täze"
+                ],
+                "Tatar": [
+                    "таза"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oxirgi"
+                ],
+                "Kyrgyz": [
+                    "акыркы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жуықтағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таяудағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәзерге"
+                ]
+            }
+        }
+    ]
+}

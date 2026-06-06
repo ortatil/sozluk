@@ -1,0 +1,114 @@
+{
+    "id": "i89045",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pitman",
+    "en_definition": "someone who works in a coal mine",
+    "tr_word": "madenci",
+    "tr_definition": "kömür madeninde çalışan kimse",
+    "ru_word": "шахтёр",
+    "ru_definition": "человек, работающий в угольной шахте",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kömür işçisi",
+                    "kömür madencisi"
+                ],
+                "Azerbaijani": [
+                    "kömürçü"
+                ],
+                "Turkmen": [
+                    "kömürçi"
+                ],
+                "Uzbek": [
+                    "ko'mirchi"
+                ],
+                "Uyghur": [
+                    "كۆمۈرچى",
+                    "كۆمۈر كان ئىشچىسى"
+                ],
+                "Kazakh": [
+                    "көмірші"
+                ],
+                "Kyrgyz": [
+                    "көмүрчү"
+                ],
+                "Karakalpak": [
+                    "kómúrshi"
+                ],
+                "Tatar": [
+                    "күмерче",
+                    "күмер казучы"
+                ],
+                "Bashkir": [
+                    "күмерсе",
+                    "күмер ҡаҙыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "känçi"
+                ],
+                "Uzbek": [
+                    "konchi"
+                ],
+                "Kazakh": [
+                    "кенші"
+                ],
+                "Kyrgyz": [
+                    "кенчи"
+                ],
+                "Karakalpak": [
+                    "kánshi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "madenci"
+                ],
+                "Azerbaijani": [
+                    "mədənçi",
+                    "mədən işçisi"
+                ],
+                "Turkmen": [
+                    "magdançy"
+                ],
+                "Uzbek": [
+                    "ma'danchi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шахтер"
+                ],
+                "Kyrgyz": [
+                    "шахтёр"
+                ],
+                "Tatar": [
+                    "шахтер"
+                ],
+                "Bashkir": [
+                    "шахтёр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lağımcı"
+                ]
+            }
+        }
+    ]
+}

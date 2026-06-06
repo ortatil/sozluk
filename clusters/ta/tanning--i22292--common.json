@@ -1,0 +1,143 @@
+{
+    "id": "i22292",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "tanning",
+    "en_definition": "get a tan, from wind or sun",
+    "tr_word": "bronzlaşmak",
+    "tr_definition": "güneş veya rüzgar etkisiyle ten renginin koyulaşması",
+    "ru_word": "загорать",
+    "ru_definition": "приобретать загар под воздействием солнечных лучей или ветра",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kararmak"
+                ],
+                "Azerbaijani": [
+                    "qaralmaq"
+                ],
+                "Turkmen": [
+                    "garalmak"
+                ],
+                "Uzbek": [
+                    "qoraymoq"
+                ],
+                "Kazakh": [
+                    "қараю"
+                ],
+                "Kyrgyz": [
+                    "каруу"
+                ],
+                "Karakalpak": [
+                    "qarayıu"
+                ],
+                "Tatar": [
+                    "каралу"
+                ],
+                "Bashkir": [
+                    "ҡарайыу",
+                    "ҡаралыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "günəşlənmək"
+                ],
+                "Turkmen": [
+                    "güne ýanmak",
+                    "güneşlemek"
+                ],
+                "Kazakh": [
+                    "күнге күю"
+                ],
+                "Karakalpak": [
+                    "kúnge kúyiu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yanmak"
+                ],
+                "Azerbaijani": [
+                    "yanmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oftobda qoraymoq",
+                    "oftobda toblanmoq"
+                ],
+                "Uyghur": [
+                    "ئاپتاپقا قاقلىنىش",
+                    "ئاپتاپتا قارىداش",
+                    "ئاپتاپقا يېيىلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тотығу"
+                ],
+                "Karakalpak": [
+                    "totıǵıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күйүү",
+                    "күнгө күйүү"
+                ],
+                "Bashkir": [
+                    "көйөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bronzlaşmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "esmerleşmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toblanmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кызыну"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кояшта яну"
+                ]
+            }
+        }
+    ]
+}

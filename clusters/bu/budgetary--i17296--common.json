@@ -1,0 +1,139 @@
+{
+    "id": "i17296",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "budgetary",
+    "en_definition": "of or relating to a budget",
+    "tr_word": "bütçesel",
+    "tr_definition": "bütçe ile ilgili veya bütçeye dayanan",
+    "ru_word": "бюджетный",
+    "ru_definition": "относящийся к бюджету или связанный с ним",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "býujet"
+                ],
+                "Uyghur": [
+                    "بىيۇجېتلىق"
+                ],
+                "Kazakh": [
+                    "бюджеттік"
+                ],
+                "Kyrgyz": [
+                    "бюджеттик"
+                ],
+                "Karakalpak": [
+                    "byudjetlik"
+                ],
+                "Tatar": [
+                    "бюджетлы"
+                ],
+                "Bashkir": [
+                    "бюджет",
+                    "бюджетлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шығындық"
+                ],
+                "Kyrgyz": [
+                    "чыгымдык"
+                ],
+                "Karakalpak": [
+                    "shıǵınlıq"
+                ],
+                "Tatar": [
+                    "чыгышлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bütçesel",
+                    "bütçe ile ilgili"
+                ],
+                "Azerbaijani": [
+                    "büdcə",
+                    "büdcəyə aid",
+                    "büdcəli"
+                ],
+                "Uzbek": [
+                    "budjetga oid"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mali"
+                ],
+                "Turkmen": [
+                    "maliýe"
+                ],
+                "Uzbek": [
+                    "moliya",
+                    "moliyaviy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xarajatga oid"
+                ],
+                "Karakalpak": [
+                    "qárejetlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қазыналық"
+                ],
+                "Bashkir": [
+                    "ҡаҙна",
+                    "ҡаҙналы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ykdysady"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خامچوتقا ئائىت",
+                    "خامچوتلۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каржылык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хисаплы"
+                ]
+            }
+        }
+    ]
+}

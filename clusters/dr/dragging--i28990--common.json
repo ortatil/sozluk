@@ -1,0 +1,125 @@
+{
+    "id": "i28990",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "dragging",
+    "en_definition": "pull, as against a resistance",
+    "tr_word": "sürüklemek",
+    "tr_definition": "bir şeyi direnç gösterdiği halde çekerek götürmek",
+    "ru_word": "тащить",
+    "ru_definition": "тянуть что-либо с трудом или по поверхности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürüklemek",
+                    "sürümek"
+                ],
+                "Azerbaijani": [
+                    "sürümək",
+                    "sürükləmək"
+                ],
+                "Turkmen": [
+                    "sürümek",
+                    "süýremek"
+                ],
+                "Uyghur": [
+                    "سۆرەش",
+                    "سۆرەپ مېڭىش"
+                ],
+                "Kazakh": [
+                    "сүйреу",
+                    "сүйрету",
+                    "сүйрелеу"
+                ],
+                "Kyrgyz": [
+                    "сүйрөө",
+                    "сүйрөтүү"
+                ],
+                "Karakalpak": [
+                    "súyreu",
+                    "súyreleu"
+                ],
+                "Tatar": [
+                    "сөйрәү"
+                ],
+                "Bashkir": [
+                    "һөйрәү",
+                    "һөйрәп барыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dartmaq"
+                ],
+                "Uzbek": [
+                    "tortmoq"
+                ],
+                "Uyghur": [
+                    "تارتىش"
+                ],
+                "Kazakh": [
+                    "тарту"
+                ],
+                "Kyrgyz": [
+                    "тартуу"
+                ],
+                "Karakalpak": [
+                    "tartıu"
+                ],
+                "Tatar": [
+                    "тарту"
+                ],
+                "Bashkir": [
+                    "тартыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çekmek"
+                ],
+                "Azerbaijani": [
+                    "çəkmək"
+                ],
+                "Turkmen": [
+                    "çekmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sudramoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shatirlatmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kashlamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өстерәү"
+                ]
+            }
+        }
+    ]
+}

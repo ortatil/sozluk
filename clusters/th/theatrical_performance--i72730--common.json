@@ -1,0 +1,180 @@
+{
+    "id": "i72730",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "theatrical performance",
+    "en_definition": "a performance of a play",
+    "tr_word": "tiyatro gösterisi",
+    "tr_definition": "bir oyunun sahnelenmesi",
+    "ru_word": "театральное представление",
+    "ru_definition": "постановка или исполнение пьесы на сцене",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "temsil",
+                    "temaşa"
+                ],
+                "Azerbaijani": [
+                    "tamaşa"
+                ],
+                "Turkmen": [
+                    "tomaşa"
+                ],
+                "Uzbek": [
+                    "tomosha"
+                ],
+                "Uyghur": [
+                    "تاماشا"
+                ],
+                "Kyrgyz": [
+                    "тамаша"
+                ],
+                "Karakalpak": [
+                    "tamasha"
+                ],
+                "Tatar": [
+                    "тамаша"
+                ],
+                "Bashkir": [
+                    "тамаша"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyun"
+                ],
+                "Azerbaijani": [
+                    "oyun"
+                ],
+                "Turkmen": [
+                    "oýun"
+                ],
+                "Kazakh": [
+                    "ойын"
+                ],
+                "Kyrgyz": [
+                    "оюн"
+                ],
+                "Karakalpak": [
+                    "oyın"
+                ],
+                "Tatar": [
+                    "уен"
+                ],
+                "Bashkir": [
+                    "уйын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahne"
+                ],
+                "Azerbaijani": [
+                    "səhnə"
+                ],
+                "Turkmen": [
+                    "sahna oýny"
+                ],
+                "Uzbek": [
+                    "sahna"
+                ],
+                "Uyghur": [
+                    "سەھنە ئەسىرى"
+                ],
+                "Kazakh": [
+                    "сахналық қойылым"
+                ],
+                "Tatar": [
+                    "сәхнәләштерү"
+                ],
+                "Bashkir": [
+                    "сәхнәләштереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "spektakl"
+                ],
+                "Kazakh": [
+                    "спектакль"
+                ],
+                "Kyrgyz": [
+                    "спектакль"
+                ],
+                "Karakalpak": [
+                    "spektakl"
+                ],
+                "Tatar": [
+                    "спектакль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gösteri"
+                ],
+                "Kyrgyz": [
+                    "көрсөтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nümayiş"
+                ],
+                "Uzbek": [
+                    "namoyish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ijro"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تىياتىر",
+                    "تىياتىر نومۇرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қойылым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "театрлық қойылым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kórinis"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,259 @@
+# Stereotype
+| Field | Detail |
+|---|---|
+| **ID** | i67980 |
+| **English** | stereotype |
+| **Type** | noun |
+| **Definition** | a conventional or formulaic conception or image |
+| **Source** | common |
+| **Ortatil** | qalıp |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qalıp** | **ḅärdiş** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.33 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.40 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **4** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قېلىپ | qelip |
+| ئەقىدە | äqidä |
+| تەسەۋۋۇر | täsävvur |
+| **Kazakh** | |
+| қалып | qalıp |
+| біркелкілік | birkelkilik |
+| **Kyrgyz** | |
+| калып | kalıp |
+| үлгү | ülgü |
+| көнүмүш | könümüş |
+| **Tatar** | |
+| калып | kalıp |
+| бертөрлелек | bertörlelek |
+| үрнәк | ürnäk |
+| **Bashkir** | |
+| ҡалып | qalıp |
+| үрнәк | ürnäk |
+
+```json
+{
+    "id": "i67980",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stereotype",
+    "en_definition": "a conventional or formulaic conception or image",
+    "tr_word": "klişe",
+    "tr_definition": "bir kişi, grup veya durum hakkında yaygın olarak kabul edilen, genellikle basitleştirilmiş ve kalıplaşmış bir düşünce veya imaj.",
+    "ru_word": "стереотип",
+    "ru_definition": "упрощённый и схематизированный образ или представление о каком-либо явлении, группе людей или объекте.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kalıpyargı"
+                ],
+                "Azerbaijani": [
+                    "qəlib"
+                ],
+                "Turkmen": [
+                    "galyp"
+                ],
+                "Uzbek": [
+                    "qolip"
+                ],
+                "Uyghur": [
+                    "قېلىپلاشقان قاراش",
+                    "قېلىپ"
+                ],
+                "Kazakh": [
+                    "қалып"
+                ],
+                "Kyrgyz": [
+                    "калып"
+                ],
+                "Karakalpak": [
+                    "qalıp",
+                    "qalıplasqan túsinik"
+                ],
+                "Tatar": [
+                    "калып"
+                ],
+                "Bashkir": [
+                    "ҡалып"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vərdiş"
+                ],
+                "Kazakh": [
+                    "біркелкілік"
+                ],
+                "Tatar": [
+                    "бертөрлелек"
+                ],
+                "Bashkir": [
+                    "бер төрлө ҡабул итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "орныққан пікір"
+                ],
+                "Tatar": [
+                    "үрнәк"
+                ],
+                "Bashkir": [
+                    "үрнәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "basmakalıp"
+                ],
+                "Azerbaijani": [
+                    "basmaqəlib"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "endik"
+                ],
+                "Uzbek": [
+                    "odat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aqida"
+                ],
+                "Uyghur": [
+                    "ئەقىدە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tasavvur"
+                ],
+                "Uyghur": [
+                    "تەسەۋۋۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қасаң қағида"
+                ],
+                "Bashkir": [
+                    "ғәҙәти ҡараш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үлгү"
+                ],
+                "Karakalpak": [
+                    "úlgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "klişe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şablon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nusga"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "garaýyş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дағдылы түсінік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көнүмүш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бир беткей түшүнүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "naqıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гадәти караш"
+                ]
+            }
+        }
+    ]
+}
+```
+

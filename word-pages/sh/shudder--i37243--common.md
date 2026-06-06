@@ -1,0 +1,242 @@
+# Shudder
+| Field | Detail |
+|---|---|
+| **ID** | i37243 |
+| **English** | shudder |
+| **Type** | noun |
+| **Definition** | an involuntary vibration (as if from illness or fear) |
+| **Source** | common |
+| **Ortatil** | titräw |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **titräw** | **ürpärti** | **qaltıraq** | **sesüw** |
+|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ❌ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ | ✅ |
+| Kazakh | ❌ | ❌ | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ | ✅ | ❌ |
+| Karakalpak | ✅ | ✅ | ✅ | ✅ |
+| Tatar | ❌ | ✅ | ✅ | ❌ |
+| Bashkir | ✅ | ❌ | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 0.67 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 0 | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 0.60 | 0.40 | 1 | 0.60 |
+| *In All* | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |  |
+| **O'TQ** | **3.60** | **1.57** | **1.50** | **1.10** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تىترەش | titräş |
+| سىلكىنىش | silkiniş |
+| دەردەك | därdäk |
+| ۋەھىمە | vähimä |
+| **Kazakh** | |
+| қалтырау | qaltırau |
+| сескену | seskenu |
+| діріл | diril |
+| түршігу | türşigu |
+| **Kyrgyz** | |
+| титирөө | titiröö |
+| титиреп-калтыроо | titirep-kaltıroo |
+| калтырак | kaltırak |
+| **Tatar** | |
+| калтырау | kaltırau |
+| өркәнү | örkänü |
+| тибрәнү | tibränü |
+| **Bashkir** | |
+| тибрәнеү | tibräneü |
+| ҡалтырау | qaltırau |
+| ҡалтыраныу | qaltıranıu |
+| һиҫкәнеү | hiskäneü |
+
+```json
+{
+    "id": "i37243",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shudder",
+    "en_definition": "an involuntary vibration (as if from illness or fear)",
+    "tr_word": "ürperti",
+    "tr_definition": "Korku, soğuk veya heyecan sebebiyle vücutta oluşan ani titreme.",
+    "ru_word": "дрожь",
+    "ru_definition": "непроизвольное дрожание тела (от холода, страха или болезни).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "titreme"
+                ],
+                "Azerbaijani": [
+                    "titrəmə"
+                ],
+                "Turkmen": [
+                    "titremede",
+                    "titrew",
+                    "digleme"
+                ],
+                "Uzbek": [
+                    "titroq",
+                    "titrash"
+                ],
+                "Uyghur": [
+                    "تىترەش"
+                ],
+                "Kyrgyz": [
+                    "титирөө",
+                    "титиреп-калтыроо"
+                ],
+                "Karakalpak": [
+                    "titirenio"
+                ],
+                "Bashkir": [
+                    "тибрәнеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qaltiroq"
+                ],
+                "Kazakh": [
+                    "қалтырау"
+                ],
+                "Kyrgyz": [
+                    "калтырак"
+                ],
+                "Karakalpak": [
+                    "qaltırao"
+                ],
+                "Tatar": [
+                    "калтырау"
+                ],
+                "Bashkir": [
+                    "ҡалтырау",
+                    "ҡалтыраныу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ürperti",
+                    "ürperiş"
+                ],
+                "Azerbaijani": [
+                    "ürpəşmə"
+                ],
+                "Karakalpak": [
+                    "úrpiyio"
+                ],
+                "Tatar": [
+                    "өркәнү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سىلكىنىش"
+                ],
+                "Kazakh": [
+                    "сескену"
+                ],
+                "Karakalpak": [
+                    "seskinio"
+                ],
+                "Bashkir": [
+                    "һиҫкәнеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "دەردەك"
+                ],
+                "Kazakh": [
+                    "діріл"
+                ],
+                "Tatar": [
+                    "дер селкенү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sarsıntı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əsmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təlatüm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mürşülde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "larza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ۋەھىمە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түршігу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үрөй учуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тибрәнү"
+                ]
+            }
+        }
+    ]
+}
+```
+

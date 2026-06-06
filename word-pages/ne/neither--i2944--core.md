@@ -1,0 +1,142 @@
+# Neither
+| Field | Detail |
+|---|---|
+| **ID** | i2944 |
+| **English** | neither |
+| **Type** | adjective |
+| **Definition** | not either; not one or the other |
+| **Source** | core |
+| **Ortatil** | hiçbirmäsi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ھېچقايسىسى | heçqaysisi |
+| ھېچقايسى | heçqaysi |
+| **Kazakh** | |
+| ешқайсысы | yeşqaysısı |
+| **Tatar** | |
+| һичбер | hiçber |
+
+```json
+{
+    "id": "i2944",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "neither",
+    "en_definition": "not either; not one or the other",
+    "tr_word": "hiçbir",
+    "tr_definition": "iki seçenekten birinin bile olmadığını belirten sözcük",
+    "ru_word": "ни тот ни другой",
+    "ru_definition": "ни один из двух предложенных вариантов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hiçbiri"
+                ],
+                "Azerbaijani": [
+                    "heç biri"
+                ],
+                "Uzbek": [
+                    "hech biri"
+                ],
+                "Kyrgyz": [
+                    "эч бири"
+                ],
+                "Karakalpak": [
+                    "hesh biri"
+                ],
+                "Tatar": [
+                    "һичбер"
+                ],
+                "Bashkir": [
+                    "һис береһе лә түгел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hiç haýsysy"
+                ],
+                "Uyghur": [
+                    "ھېچقايسىسى",
+                    "ھېچقايسى"
+                ],
+                "Kazakh": [
+                    "ешқайсысы"
+                ],
+                "Kyrgyz": [
+                    "эч кайсы"
+                ],
+                "Karakalpak": [
+                    "hesh qaysısı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ne o ne öbürü"
+                ],
+                "Azerbaijani": [
+                    "nə o, nə bu"
+                ],
+                "Turkmen": [
+                    "ne ol, ne beýleki"
+                ],
+                "Uzbek": [
+                    "na u, na bu"
+                ],
+                "Karakalpak": [
+                    "ne ol emes, ne bul emes"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "екеуі де емес"
+                ],
+                "Bashkir": [
+                    "икеһе лә түгел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "берсе дә түгел"
+                ],
+                "Bashkir": [
+                    "береһе лә түгел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇمۇ ئەمەس، بۇمۇ ئەمەس"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тигиниси да, мунусу да эмес"
+                ]
+            }
+        }
+    ]
+}
+```
+

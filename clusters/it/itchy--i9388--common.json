@@ -1,0 +1,74 @@
+{
+    "id": "i9388",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "itchy",
+    "en_definition": "causing an irritating cutaneous sensation; being affect with an itch",
+    "tr_word": "kaşındıran",
+    "tr_definition": "kaşınma hissi veren veya kaşıntısı olan",
+    "ru_word": "зудящий",
+    "ru_definition": "вызывающий зуд или испытывающий ощущение зуда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaşınan",
+                    "kaşındıran",
+                    "kaşıntılı"
+                ],
+                "Azerbaijani": [
+                    "qaşınan",
+                    "qaşındıran"
+                ],
+                "Uzbek": [
+                    "qichima",
+                    "qichishadigan",
+                    "qichitqi"
+                ],
+                "Uyghur": [
+                    "قىچىشقاق",
+                    "قىچىيدىغان",
+                    "قىچىشقان"
+                ],
+                "Kazakh": [
+                    "қышыма",
+                    "қышыған",
+                    "қышыншақ"
+                ],
+                "Kyrgyz": [
+                    "кычышкан",
+                    "кычыштырган",
+                    "кычыткы"
+                ],
+                "Karakalpak": [
+                    "qıshıma",
+                    "qıshıǵan",
+                    "qıshıtpa"
+                ],
+                "Tatar": [
+                    "кычыткан",
+                    "кычытулы",
+                    "кычыта торган"
+                ],
+                "Bashkir": [
+                    "ҡысытҡан",
+                    "ҡысытыусы",
+                    "ҡысытмалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gicişən"
+                ],
+                "Turkmen": [
+                    "gijilewükli",
+                    "gijileýän",
+                    "gijewli"
+                ]
+            }
+        }
+    ]
+}

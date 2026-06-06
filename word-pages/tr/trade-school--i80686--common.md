@@ -1,0 +1,136 @@
+# Trade school
+| Field | Detail |
+|---|---|
+| **ID** | i80686 |
+| **English** | trade school |
+| **Type** | noun |
+| **Definition** | a secondary school teaching the skilled trades |
+| **Source** | common |
+| **Ortatil** | hunarhana |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| өнөркана | önörkana |
+| **Tatar** | |
+| һөнәрханә | hönärxanä |
+
+```json
+{
+    "id": "i80686",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trade school",
+    "en_definition": "a secondary school teaching the skilled trades",
+    "tr_word": "meslek lisesi",
+    "tr_definition": "belirli bir meslek dalında beceri kazandırmak amacıyla eğitim veren ortaöğretim kurumu",
+    "ru_word": "профессионально-техническое училище",
+    "ru_definition": "среднее учебное заведение для подготовки квалифицированных рабочих кадров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hünär mekdebi",
+                    "hünär okuw mekdebi"
+                ],
+                "Uzbek": [
+                    "hunar maktabi",
+                    "hunarxona"
+                ],
+                "Uyghur": [
+                    "ھۈنەر مەكتىپى"
+                ],
+                "Kazakh": [
+                    "өнер мектебі"
+                ],
+                "Karakalpak": [
+                    "ónór mektebi"
+                ],
+                "Tatar": [
+                    "һөнәрханә",
+                    "һөнәр мәктәбе",
+                    "һөнәрханә мәктәбе"
+                ],
+                "Bashkir": [
+                    "һөнәр мәктәбе",
+                    "һөнәр училищеһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kasb-hunar maktabi"
+                ],
+                "Uyghur": [
+                    "كەسپىي مەكتەپ"
+                ],
+                "Kazakh": [
+                    "кәсіптік мектеп",
+                    "кәсіптік училище"
+                ],
+                "Kyrgyz": [
+                    "кесиптик окуу жайы",
+                    "кесиптик мектеп"
+                ],
+                "Karakalpak": [
+                    "kásip-óner mektebi",
+                    "kásip mektebi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanat okulu"
+                ],
+                "Azerbaijani": [
+                    "sənət məktəbi"
+                ],
+                "Turkmen": [
+                    "senetçilik mekdebi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meslek lisesi",
+                    "meslek okulu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşə məktəbi",
+                    "peşə liseyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېخنىكا مەكتىپى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өнөркана"
+                ]
+            }
+        }
+    ]
+}
+```
+

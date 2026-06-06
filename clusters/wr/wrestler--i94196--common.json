@@ -1,0 +1,100 @@
+{
+    "id": "i94196",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wrestler",
+    "en_definition": "combatant who tries to throw opponent to the ground",
+    "tr_word": "güreşçi",
+    "tr_definition": "rakibini yere sermeye çalışan dövüşçü",
+    "ru_word": "борец",
+    "ru_definition": "боец, который пытается повалить противника на землю",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güreşçi"
+                ],
+                "Azerbaijani": [
+                    "güləşçi"
+                ],
+                "Turkmen": [
+                    "göreşçi"
+                ],
+                "Uzbek": [
+                    "kurashchi"
+                ],
+                "Uyghur": [
+                    "كۈرەشچى"
+                ],
+                "Kazakh": [
+                    "күрескер"
+                ],
+                "Kyrgyz": [
+                    "күрөшчү"
+                ],
+                "Karakalpak": [
+                    "gúresshi"
+                ],
+                "Tatar": [
+                    "көрәшче"
+                ],
+                "Bashkir": [
+                    "көрәшсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pehlivan"
+                ],
+                "Azerbaijani": [
+                    "pəhləvan"
+                ],
+                "Turkmen": [
+                    "pälwan"
+                ],
+                "Uzbek": [
+                    "polvon",
+                    "pahlavon"
+                ],
+                "Uyghur": [
+                    "پالۋان"
+                ],
+                "Kyrgyz": [
+                    "балбан",
+                    "палван"
+                ],
+                "Karakalpak": [
+                    "paluan"
+                ],
+                "Tatar": [
+                    "пәһлеван"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "балуан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәһлеүән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "батыр"
+                ]
+            }
+        }
+    ]
+}

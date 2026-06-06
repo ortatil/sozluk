@@ -1,0 +1,103 @@
+{
+    "id": "i1796",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "causal",
+    "en_definition": "involving or constituting a cause; causing",
+    "tr_word": "nedensel",
+    "tr_definition": "bir nedene dayanan veya bir neden oluşturan; sebepsel",
+    "ru_word": "причинный",
+    "ru_definition": "связанный с причиной, выражающий причину или обусловленный ею",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sebepsel"
+                ],
+                "Azerbaijani": [
+                    "səbəbli",
+                    "səbəbiyyətli"
+                ],
+                "Turkmen": [
+                    "sebäpli",
+                    "sebäp bolýan",
+                    "sebäp ediji"
+                ],
+                "Uzbek": [
+                    "sababiy"
+                ],
+                "Uyghur": [
+                    "سەۋەبلىك",
+                    "سەۋەبچى"
+                ],
+                "Kazakh": [
+                    "себепті",
+                    "себепкер",
+                    "себепші"
+                ],
+                "Kyrgyz": [
+                    "себептүү",
+                    "себепкер",
+                    "себеп болгон"
+                ],
+                "Karakalpak": [
+                    "sebepli",
+                    "sebepshi"
+                ],
+                "Tatar": [
+                    "сәбәпле",
+                    "сәбәпче"
+                ],
+                "Bashkir": [
+                    "сәбәпле",
+                    "сәбәпсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "illiyetli"
+                ],
+                "Azerbaijani": [
+                    "illətli"
+                ],
+                "Uzbek": [
+                    "illatli"
+                ],
+                "Uyghur": [
+                    "ئىللەتلىك"
+                ],
+                "Tatar": [
+                    "илләтле"
+                ],
+                "Bashkir": [
+                    "илләтле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nedensel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bo'isli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tiykarǵı"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "id": "i4479",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "early",
+    "en_definition": "at or near the beginning of a period of time or course of events or before the usual or expected time",
+    "tr_word": "erken",
+    "tr_definition": "Bir zaman diliminin veya bir olayın başlangıcında olan veya beklenen zamandan önce gerçekleşen",
+    "ru_word": "ранний",
+    "ru_definition": "относящийся к началу какого-либо периода времени или события, либо происходящий раньше обычного срока",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "erken"
+                ],
+                "Azerbaijani": [
+                    "erkən"
+                ],
+                "Turkmen": [
+                    "ertirki",
+                    "irki",
+                    "ir"
+                ],
+                "Uzbek": [
+                    "erta"
+                ],
+                "Uyghur": [
+                    "ئەرتە"
+                ],
+                "Kazakh": [
+                    "ерте",
+                    "ертерек",
+                    "ертегі"
+                ],
+                "Kyrgyz": [
+                    "эрте",
+                    "эртеги"
+                ],
+                "Karakalpak": [
+                    "erte",
+                    "erterek",
+                    "erteńgi"
+                ],
+                "Tatar": [
+                    "иртә",
+                    "иртәнге"
+                ],
+                "Bashkir": [
+                    "иртә",
+                    "иртәнге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "алдын ала"
+                ],
+                "Kyrgyz": [
+                    "алгачкы"
+                ],
+                "Karakalpak": [
+                    "aldınǵı"
+                ],
+                "Bashkir": [
+                    "алдағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vakitli"
+                ],
+                "Azerbaijani": [
+                    "vaxtından əvvəl"
+                ],
+                "Uzbek": [
+                    "vaqtli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "önce"
+                ],
+                "Turkmen": [
+                    "öňki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tez"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabaqcadan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "barvaqt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۇرۇن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بالدۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "әүвәлге"
+                ]
+            }
+        }
+    ]
+}

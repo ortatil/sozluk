@@ -1,0 +1,78 @@
+{
+    "id": "i52029",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "clock tower",
+    "en_definition": "a tower with a large clock visible high up on an outside face",
+    "tr_word": "saat kulesi",
+    "tr_definition": "üzerinde büyük bir saat bulunan ve genellikle şehrin merkezi bir yerinde yükselen kule yapısı",
+    "ru_word": "часовая башня",
+    "ru_definition": "башня, на которой установлены часы, обычно имеющая один или несколько циферблатов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saat kulesi",
+                    "saatli kule"
+                ],
+                "Azerbaijani": [
+                    "saat qülləsi",
+                    "saatlı qüllə"
+                ],
+                "Turkmen": [
+                    "sagat diňi",
+                    "sagatly diň"
+                ],
+                "Uzbek": [
+                    "soat minorasi",
+                    "soatli minora"
+                ],
+                "Uyghur": [
+                    "سائەت مۇنارى"
+                ],
+                "Kazakh": [
+                    "сағат мұнарасы",
+                    "сағатты мұнара"
+                ],
+                "Kyrgyz": [
+                    "саат мунарасы",
+                    "сааттуу мунара"
+                ],
+                "Karakalpak": [
+                    "saat munarası",
+                    "saatlı munara"
+                ],
+                "Tatar": [
+                    "сәгать манарасы",
+                    "сәгатьле манара"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "minara sagady"
+                ],
+                "Uzbek": [
+                    "minorai soat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوڭغۇراق مۇنارى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәғәт манараһы",
+                    "сәғәтле манара"
+                ]
+            }
+        }
+    ]
+}

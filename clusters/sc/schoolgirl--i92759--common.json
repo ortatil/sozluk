@@ -1,0 +1,99 @@
+{
+    "id": "i92759",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "schoolgirl",
+    "en_definition": "a girl attending school",
+    "tr_word": "kız öğrenci",
+    "tr_definition": "Okula giden kız çocuk veya genç kız.",
+    "ru_word": "школьница",
+    "ru_definition": "Девочка, которая учится в школе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okuwçy gyz"
+                ],
+                "Uzbek": [
+                    "oʻquvchi qiz"
+                ],
+                "Uyghur": [
+                    "ئوقۇغۇچى قىز"
+                ],
+                "Kazakh": [
+                    "оқушы қыз"
+                ],
+                "Kyrgyz": [
+                    "окуучу кыз"
+                ],
+                "Karakalpak": [
+                    "oqıushı qız"
+                ],
+                "Tatar": [
+                    "укучы кыз"
+                ],
+                "Bashkir": [
+                    "уҡыусы ҡыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məktəbli qız"
+                ],
+                "Turkmen": [
+                    "mekdep okuwçysy"
+                ],
+                "Uzbek": [
+                    "maktab oʻquvchisi"
+                ],
+                "Uyghur": [
+                    "مەكتەپ قىزى"
+                ],
+                "Kyrgyz": [
+                    "мектеп окуучусу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şagird qız"
+                ],
+                "Kazakh": [
+                    "шәкірт қыз"
+                ],
+                "Karakalpak": [
+                    "shákirt qız"
+                ],
+                "Tatar": [
+                    "шәкерт кыз"
+                ],
+                "Bashkir": [
+                    "шәкерт ҡыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "talebe"
+                ],
+                "Uzbek": [
+                    "talaba qiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kız öğrenci"
+                ]
+            }
+        }
+    ]
+}

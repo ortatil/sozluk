@@ -1,0 +1,80 @@
+{
+    "id": "i80168",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water company",
+    "en_definition": "a public utility that provides water",
+    "tr_word": "su idaresi",
+    "tr_definition": "su temini ve dağıtımı hizmetlerini sağlayan kamu kuruluşu veya şirket",
+    "ru_word": "водоканал",
+    "ru_definition": "организация, обеспечивающая водоснабжение и водоотведение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su idaresi",
+                    "su kurumu",
+                    "su işletmesi",
+                    "su şebekesi"
+                ],
+                "Azerbaijani": [
+                    "su idarəsi",
+                    "su təchizatı müəssisəsi",
+                    "su təminatı qurumu"
+                ],
+                "Turkmen": [
+                    "suw edarasy",
+                    "suw hojalygy",
+                    "suw üpjünçiligi"
+                ],
+                "Uzbek": [
+                    "suv ta'minoti",
+                    "suv idorasi",
+                    "suv xo'jaligi"
+                ],
+                "Uyghur": [
+                    "سۇ شىركىتى",
+                    "سۇ ئىدارىسى",
+                    "سۇ تەمىنلەش شىركىتى"
+                ],
+                "Kazakh": [
+                    "су мекемесі",
+                    "су кәсіпорны",
+                    "су шаруашылығы"
+                ],
+                "Kyrgyz": [
+                    "суу чарбасы",
+                    "суу мекемеси",
+                    "суу башкармалыгы"
+                ],
+                "Karakalpak": [
+                    "suo mekemesi",
+                    "suo támiynatı",
+                    "suo xojalıǵı"
+                ],
+                "Tatar": [
+                    "су идарәсе",
+                    "су хуҗалыгы",
+                    "су белән тәэмин итү оешмасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сумен қамту мекемесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу идаралығы",
+                    "һыу хужалығы",
+                    "һыу менән тәьмин итеү ойошмаһы"
+                ]
+            }
+        }
+    ]
+}

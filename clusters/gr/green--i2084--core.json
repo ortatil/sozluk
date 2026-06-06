@@ -1,0 +1,95 @@
+{
+    "id": "i2084",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "green",
+    "en_definition": "of the color between blue and yellow in the color spectrum; similar to the color of fresh grass",
+    "tr_word": "yeşil",
+    "tr_definition": "renk tayfında mavi ile sarı arasında bulunan, taze çimen rengine benzer renk",
+    "ru_word": "зелёный",
+    "ru_definition": "цвета между синим и жёлтым в цветовом спектре; похожий на цвет свежей травы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeşil"
+                ],
+                "Azerbaijani": [
+                    "yaşıl"
+                ],
+                "Turkmen": [
+                    "ýaşyl"
+                ],
+                "Uzbek": [
+                    "yashil"
+                ],
+                "Uyghur": [
+                    "يېشىل"
+                ],
+                "Kazakh": [
+                    "жасыл"
+                ],
+                "Kyrgyz": [
+                    "жашыл"
+                ],
+                "Karakalpak": [
+                    "jasıl"
+                ],
+                "Tatar": [
+                    "яшел"
+                ],
+                "Bashkir": [
+                    "йәшел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "göy"
+                ],
+                "Turkmen": [
+                    "gök"
+                ],
+                "Uzbek": [
+                    "koʻk"
+                ],
+                "Uyghur": [
+                    "كۆك"
+                ],
+                "Kazakh": [
+                    "көк"
+                ],
+                "Kyrgyz": [
+                    "көк"
+                ],
+                "Karakalpak": [
+                    "kók"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taze"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ham"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яшькелт"
+                ]
+            }
+        }
+    ]
+}

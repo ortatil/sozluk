@@ -1,0 +1,63 @@
+{
+    "id": "i17164",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "english",
+    "en_definition": "of or relating to the English language",
+    "tr_word": "İngilizce",
+    "tr_definition": "İngiliz dili ile ilgili veya bu dilde olan",
+    "ru_word": "английский",
+    "ru_definition": "относящийся к английскому языку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İngilizce",
+                    "İngiliz"
+                ],
+                "Azerbaijani": [
+                    "ingilis",
+                    "ingiliscə"
+                ],
+                "Turkmen": [
+                    "iňlis",
+                    "iňlisçe"
+                ],
+                "Uzbek": [
+                    "inglizcha",
+                    "ingliz"
+                ],
+                "Uyghur": [
+                    "ئىنگلىزچە",
+                    "ئىنگلىز تىلىدىكى"
+                ],
+                "Kyrgyz": [
+                    "англисче",
+                    "англис",
+                    "инглис"
+                ],
+                "Karakalpak": [
+                    "inglis",
+                    "inglisshe"
+                ],
+                "Tatar": [
+                    "инглиз",
+                    "инглизчә"
+                ],
+                "Bashkir": [
+                    "инглиз",
+                    "инглизсә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ағылшын",
+                    "ағылшынша"
+                ]
+            }
+        }
+    ]
+}

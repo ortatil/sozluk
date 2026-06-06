@@ -1,0 +1,134 @@
+{
+    "id": "i22796",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "spin-dry",
+    "en_definition": "dry (clothes) by spinning and making use of centrifugal forces",
+    "tr_word": "santrifüjle kurutmak",
+    "tr_definition": "çamaşırları merkezkaç kuvvetinden yararlanarak hızla döndürmek suretiyle kurutmak",
+    "ru_word": "отжимать в центрифуге",
+    "ru_definition": "сушить белье путем вращения с использованием центробежной силы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıkmak"
+                ],
+                "Azerbaijani": [
+                    "sıxmaq"
+                ],
+                "Turkmen": [
+                    "sykmak",
+                    "sykyp guratmak"
+                ],
+                "Uzbek": [
+                    "siqmoq"
+                ],
+                "Uyghur": [
+                    "سىقىش"
+                ],
+                "Kazakh": [
+                    "сығу"
+                ],
+                "Kyrgyz": [
+                    "сыгуу"
+                ],
+                "Karakalpak": [
+                    "sıǵu"
+                ],
+                "Tatar": [
+                    "сыгу"
+                ],
+                "Bashkir": [
+                    "һығыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aylantirib quritmoq"
+                ],
+                "Uyghur": [
+                    "ئايلاندۇرۇپ قۇرۇتۇش"
+                ],
+                "Kyrgyz": [
+                    "айлантып кургатуу"
+                ],
+                "Tatar": [
+                    "әйләндереп сыгу"
+                ],
+                "Bashkir": [
+                    "әйләндереп һығыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кептіру"
+                ],
+                "Karakalpak": [
+                    "keptіru"
+                ],
+                "Tatar": [
+                    "киптерү"
+                ],
+                "Bashkir": [
+                    "киптереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurutmak"
+                ],
+                "Uzbek": [
+                    "quritmoq"
+                ],
+                "Uyghur": [
+                    "قۇرۇتۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "suyunu almak"
+                ],
+                "Azerbaijani": [
+                    "suyunu çıxarmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айналдырып кептіру"
+                ],
+                "Karakalpak": [
+                    "aynaldırıp sıǵu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fırladaraq qurutmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "towlap sykmak"
+                ]
+            }
+        }
+    ]
+}

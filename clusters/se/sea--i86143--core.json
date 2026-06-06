@@ -1,0 +1,108 @@
+{
+    "id": "i86143",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "sea",
+    "en_definition": "a division of an ocean or a large body of salt water partially enclosed by land",
+    "tr_word": "deniz",
+    "tr_definition": "Okyanusun bir parçası olan veya kara ile kısmen çevrili büyük tuzlu su kütlesi",
+    "ru_word": "море",
+    "ru_definition": "часть океана или большой водоем с соленой водой, частично окруженный сушей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz"
+                ],
+                "Azerbaijani": [
+                    "dəniz"
+                ],
+                "Turkmen": [
+                    "deňiz"
+                ],
+                "Uzbek": [
+                    "dengiz"
+                ],
+                "Uyghur": [
+                    "دېڭىز"
+                ],
+                "Kazakh": [
+                    "теңіз"
+                ],
+                "Kyrgyz": [
+                    "деңиз"
+                ],
+                "Karakalpak": [
+                    "teńiz"
+                ],
+                "Tatar": [
+                    "диңгез"
+                ],
+                "Bashkir": [
+                    "диңгеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "derya"
+                ],
+                "Azerbaijani": [
+                    "dərya"
+                ],
+                "Turkmen": [
+                    "derýa"
+                ],
+                "Uzbek": [
+                    "daryo"
+                ],
+                "Uyghur": [
+                    "دەریا"
+                ],
+                "Kazakh": [
+                    "дария"
+                ],
+                "Kyrgyz": [
+                    "дарыя"
+                ],
+                "Karakalpak": [
+                    "dárya"
+                ],
+                "Tatar": [
+                    "дәрья"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bahr"
+                ],
+                "Uzbek": [
+                    "bahra"
+                ],
+                "Uyghur": [
+                    "بحر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айдын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "байкал"
+                ]
+            }
+        }
+    ]
+}

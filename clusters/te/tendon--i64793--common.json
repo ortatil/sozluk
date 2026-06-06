@@ -1,0 +1,104 @@
+{
+    "id": "i64793",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tendon",
+    "en_definition": "a cord or band of inelastic tissue connecting a muscle with its bony attachment",
+    "tr_word": "tendon",
+    "tr_definition": "kasları kemiklere bağlayan, lifli ve esnek olmayan doku bağı",
+    "ru_word": "сухожилие",
+    "ru_definition": "плотная соединительная ткань, прикрепляющая мышцы к костям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "siňir"
+                ],
+                "Uyghur": [
+                    "سېڭىر"
+                ],
+                "Kazakh": [
+                    "сіңір"
+                ],
+                "Karakalpak": [
+                    "sіńіr"
+                ],
+                "Tatar": [
+                    "сеңер"
+                ],
+                "Bashkir": [
+                    "һеңер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "damar"
+                ],
+                "Kazakh": [
+                    "тарамыс"
+                ],
+                "Kyrgyz": [
+                    "тарамыш"
+                ],
+                "Karakalpak": [
+                    "taramıs"
+                ],
+                "Tatar": [
+                    "тарамыш"
+                ],
+                "Bashkir": [
+                    "тарамыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağ"
+                ],
+                "Azerbaijani": [
+                    "bağ"
+                ],
+                "Uzbek": [
+                    "pay",
+                    "paycha"
+                ],
+                "Uyghur": [
+                    "پەي"
+                ],
+                "Kyrgyz": [
+                    "байлам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vətər"
+                ],
+                "Uzbek": [
+                    "vatar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kiriş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tendon"
+                ]
+            }
+        }
+    ]
+}

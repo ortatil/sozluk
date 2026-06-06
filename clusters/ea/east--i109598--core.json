@@ -1,0 +1,128 @@
+{
+    "id": "i109598",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "east",
+    "en_definition": "the cardinal compass point that is at 90 degrees",
+    "tr_word": "doğu",
+    "tr_definition": "Güneş'in doğduğu yön, dört ana yönden biri",
+    "ru_word": "восток",
+    "ru_definition": "одна из четырех сторон света, направление, где восходит солнце",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şark"
+                ],
+                "Azerbaijani": [
+                    "şərq"
+                ],
+                "Turkmen": [
+                    "şark"
+                ],
+                "Uzbek": [
+                    "sharq"
+                ],
+                "Uyghur": [
+                    "شەرق"
+                ],
+                "Tatar": [
+                    "шәрык"
+                ],
+                "Bashkir": [
+                    "шәрҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kun chiqish"
+                ],
+                "Uyghur": [
+                    "كۈنچىقىش"
+                ],
+                "Kazakh": [
+                    "күншығыс"
+                ],
+                "Kyrgyz": [
+                    "күн чыгыш"
+                ],
+                "Karakalpak": [
+                    "kúnshıǵıs"
+                ],
+                "Tatar": [
+                    "көнчыгыш"
+                ],
+                "Bashkir": [
+                    "көнсығыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məşriq"
+                ],
+                "Kazakh": [
+                    "мәшріқ"
+                ],
+                "Karakalpak": [
+                    "máshriq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шығыс"
+                ],
+                "Kyrgyz": [
+                    "чыгыш"
+                ],
+                "Karakalpak": [
+                    "shıǵıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gün doğusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "günçıxan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gündogar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "марык"
+                ]
+            }
+        }
+    ]
+}

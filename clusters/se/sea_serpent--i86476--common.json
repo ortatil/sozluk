@@ -1,0 +1,88 @@
+{
+    "id": "i86476",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sea serpent",
+    "en_definition": "huge creature of the sea resembling a snake or dragon",
+    "tr_word": "deniz yılanı",
+    "tr_definition": "yılan veya ejderhaya benzeyen devasa deniz yaratığı",
+    "ru_word": "морской змей",
+    "ru_definition": "огромное морское существо, напоминающее змею или дракона",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz yılanı",
+                    "deniz ejderhası",
+                    "deniz canavarı"
+                ],
+                "Azerbaijani": [
+                    "dəniz əjdahası",
+                    "dəniz ilanı"
+                ],
+                "Turkmen": [
+                    "deňiz aždarhasy",
+                    "deňiz ýylany"
+                ],
+                "Uzbek": [
+                    "dengiz ajdahosi",
+                    "dengiz maxluqi"
+                ],
+                "Uyghur": [
+                    "دېڭىز ئەجدىھاسى",
+                    "دېڭىز يىلانى"
+                ],
+                "Kazakh": [
+                    "теңіз айдаһары",
+                    "теңіз жыланы"
+                ],
+                "Kyrgyz": [
+                    "деңиз ажыдаары",
+                    "деңиз жыланы"
+                ],
+                "Karakalpak": [
+                    "teńiz aydaһarı"
+                ],
+                "Tatar": [
+                    "диңгез еланы",
+                    "диңгез аждаһасы"
+                ],
+                "Bashkir": [
+                    "диңгеҙ аждаһаһы",
+                    "диңгеҙ йыланы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "su əjdahası"
+                ],
+                "Turkmen": [
+                    "suw aždarhasy"
+                ],
+                "Uyghur": [
+                    "سۇ ئەجدىھاسى"
+                ],
+                "Kazakh": [
+                    "су айдаһары"
+                ],
+                "Kyrgyz": [
+                    "суу ажыдаары"
+                ],
+                "Karakalpak": [
+                    "suw aydaһarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suv iloni"
+                ]
+            }
+        }
+    ]
+}

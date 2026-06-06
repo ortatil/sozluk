@@ -1,0 +1,77 @@
+{
+    "id": "i61024",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water tower",
+    "en_definition": "a large reservoir for water",
+    "tr_word": "su kulesi",
+    "tr_definition": "Suyu depolamak ve basınç sağlamak amacıyla inşa edilen yüksek yapı.",
+    "ru_word": "водонапорная башня",
+    "ru_definition": "Сооружение в системе водоснабжения для регулирования напора и расхода воды в водопроводной сети.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su kulesi",
+                    "su deposu",
+                    "su haznesi"
+                ],
+                "Azerbaijani": [
+                    "su qülləsi",
+                    "su anbarı",
+                    "su çəni"
+                ],
+                "Turkmen": [
+                    "su minarasy",
+                    "su howzy",
+                    "su ammary"
+                ],
+                "Uzbek": [
+                    "suv minorasi",
+                    "suv ombori",
+                    "suv hovuzi"
+                ],
+                "Uyghur": [
+                    "سۇ مۇنارى",
+                    "سۇ ئامبىرى",
+                    "سۇ كۆلچىكى"
+                ],
+                "Kazakh": [
+                    "су мұнарасы",
+                    "су қоймасы"
+                ],
+                "Kyrgyz": [
+                    "суу мунарасы",
+                    "суу сактагыч",
+                    "суу кампасы"
+                ],
+                "Karakalpak": [
+                    "suo munarası",
+                    "suo saqlaǵısh",
+                    "suo qoyması"
+                ],
+                "Tatar": [
+                    "су манарасы",
+                    "су саклагыч",
+                    "су җыйнагыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу башняһы",
+                    "һыу һаҡлағыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу резервуары"
+                ]
+            }
+        }
+    ]
+}

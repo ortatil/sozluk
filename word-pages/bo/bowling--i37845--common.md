@@ -1,0 +1,131 @@
+# Bowling
+| Field | Detail |
+|---|---|
+| **ID** | i37845 |
+| **English** | bowling |
+| **Type** | noun |
+| **Definition** | a game in which balls are rolled at an object or group of objects with the aim of knocking them over or moving them |
+| **Source** | common |
+| **Ortatil** | kegelbän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| кегельбаз | kegelbaz |
+
+```json
+{
+    "id": "i37845",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bowling",
+    "en_definition": "a game in which balls are rolled at an object or group of objects with the aim of knocking them over or moving them",
+    "tr_word": "bowling",
+    "tr_definition": "Topu özel bir kulvar boyunca yuvarlayarak karşıdaki lobutları devirme amacına dayanan oyun.",
+    "ru_word": "боулинг",
+    "ru_definition": "Спортивная игра, в которой игроки стараются сбить шарами специальные мишени (кегли), расставленные в конце дорожки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şar oýny"
+                ],
+                "Uzbek": [
+                    "sharlar oʻyini"
+                ],
+                "Uyghur": [
+                    "شار توپ"
+                ],
+                "Kazakh": [
+                    "шар домалату"
+                ],
+                "Karakalpak": [
+                    "shar domalatıu oyını"
+                ],
+                "Tatar": [
+                    "шар тәгәрәтү",
+                    "шар уены"
+                ],
+                "Bashkir": [
+                    "шар уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kegelban"
+                ],
+                "Kazakh": [
+                    "кегельбаз"
+                ],
+                "Kyrgyz": [
+                    "кегли оюну"
+                ],
+                "Karakalpak": [
+                    "kegel oyını"
+                ],
+                "Bashkir": [
+                    "кегль уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "top yuvarlama"
+                ],
+                "Azerbaijani": [
+                    "top-oyunu"
+                ],
+                "Turkmen": [
+                    "top oýny"
+                ],
+                "Uzbek": [
+                    "toʻp oʻyini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "boulinq"
+                ],
+                "Uyghur": [
+                    "بولىڭ توپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "labut oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hedef topu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "топ тоголотуу"
+                ]
+            }
+        }
+    ]
+}
+```
+

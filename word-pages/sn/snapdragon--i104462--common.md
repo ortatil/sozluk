@@ -1,0 +1,116 @@
+# Snapdragon
+| Field | Detail |
+|---|---|
+| **ID** | i104462 |
+| **English** | snapdragon |
+| **Type** | noun |
+| **Definition** | a garden plant of the genus Antirrhinum having showy white or yellow or crimson flowers resembling the face of a dragon |
+| **Source** | common |
+| **Ortatil** | itburun |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **itburun** | **aslanağzı** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ❌ | ✅ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ❌ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 0.67 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.20 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **2.03** | **1.37** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| итмұрын | itmurın |
+| **Bashkir** | |
+| арыҫланбаш | arıslanbaş |
+
+```json
+{
+    "id": "i104462",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snapdragon",
+    "en_definition": "a garden plant of the genus Antirrhinum having showy white or yellow or crimson flowers resembling the face of a dragon",
+    "tr_word": "aslanağzı",
+    "tr_definition": "Antirrhinum cinsinden, ejderha yüzüne benzeyen beyaz, sarı veya kırmızı gösterişli çiçekleri olan bir bahçe bitkisi",
+    "ru_word": "львиный зев",
+    "ru_definition": "садовое растение рода Antirrhinum с эффектными белыми, желтыми или малиновыми цветками, напоминающими морду дракона",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aslanağzı",
+                    "aslan ağzı"
+                ],
+                "Azerbaijani": [
+                    "aslan ağzı",
+                    "aslanağzı"
+                ],
+                "Uyghur": [
+                    "ئارسلان ئاغزى",
+                    "ئارسلان گۈلى"
+                ],
+                "Kazakh": [
+                    "арыстан ауыз"
+                ],
+                "Kyrgyz": [
+                    "арстан ооз"
+                ],
+                "Karakalpak": [
+                    "arıslan aoız"
+                ],
+                "Tatar": [
+                    "арыслан авызы"
+                ],
+                "Bashkir": [
+                    "арыҫлан ауыҙы",
+                    "арыҫланбаш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "it agzy",
+                    "itburun"
+                ],
+                "Uzbek": [
+                    "itog'iz",
+                    "itog'izgul"
+                ],
+                "Kazakh": [
+                    "итмұрын"
+                ],
+                "Karakalpak": [
+                    "it aoız"
+                ],
+                "Tatar": [
+                    "эт авызы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ажыдаар ооз"
+                ]
+            }
+        }
+    ]
+}
+```
+

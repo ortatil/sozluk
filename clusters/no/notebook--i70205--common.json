@@ -1,0 +1,116 @@
+{
+    "id": "i70205",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "notebook",
+    "en_definition": "a book with blank pages for recording notes or memoranda",
+    "tr_word": "defter",
+    "tr_definition": "not almak veya kayıt tutmak için kullanılan boş sayfalı kitap",
+    "ru_word": "тетрадь",
+    "ru_definition": "книга с чистыми листами для записи заметок или меморандумов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "defter"
+                ],
+                "Azerbaijani": [
+                    "dəftər"
+                ],
+                "Turkmen": [
+                    "depder",
+                    "depderçe"
+                ],
+                "Uzbek": [
+                    "daftar"
+                ],
+                "Uyghur": [
+                    "دەپتەر"
+                ],
+                "Kazakh": [
+                    "дәптер"
+                ],
+                "Kyrgyz": [
+                    "дептер"
+                ],
+                "Karakalpak": [
+                    "dápter"
+                ],
+                "Tatar": [
+                    "дәфтәр"
+                ],
+                "Bashkir": [
+                    "дәфтәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yazı dəftəri"
+                ],
+                "Turkmen": [
+                    "ýazgy depderi"
+                ],
+                "Uzbek": [
+                    "yozuv daftari"
+                ],
+                "Kazakh": [
+                    "жазбаша"
+                ],
+                "Kyrgyz": [
+                    "жазуу китепчеси"
+                ],
+                "Karakalpak": [
+                    "jazba"
+                ],
+                "Bashkir": [
+                    "яҙыу китабы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qeyd dəftəri"
+                ],
+                "Kazakh": [
+                    "қойын дәптер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خاتىرە دەپتەر"
+                ],
+                "Tatar": [
+                    "хатирә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "not defteri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muhtıra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bayoz"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+# Bread dough
+| Field | Detail |
+|---|---|
+| **ID** | i78505 |
+| **English** | bread dough |
+| **Type** | noun |
+| **Definition** | any of various doughs for bread |
+| **Source** | common |
+| **Ortatil** | hamır |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **hamır** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| خېمىر | xemir |
+| **Kazakh** | |
+| қамыр | qamır |
+| **Kyrgyz** | |
+| камыр | kamır |
+| **Tatar** | |
+| камыр | kamır |
+| **Bashkir** | |
+| ҡамыр | qamır |
+
+```json
+{
+    "id": "i78505",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bread dough",
+    "en_definition": "any of various doughs for bread",
+    "tr_word": "ekmek hamuru",
+    "tr_definition": "Ekmek yapmak için hazırlanan, un, su ve maya içeren karışım.",
+    "ru_word": "тесто для хлеба",
+    "ru_definition": "Смесь муки, воды и других ингредиентов, подготовленная для выпечки хлеба.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hamur"
+                ],
+                "Azerbaijani": [
+                    "xəmir"
+                ],
+                "Turkmen": [
+                    "hamyr"
+                ],
+                "Uzbek": [
+                    "xamir"
+                ],
+                "Uyghur": [
+                    "خېمىر"
+                ],
+                "Kazakh": [
+                    "қамыр"
+                ],
+                "Kyrgyz": [
+                    "камыр"
+                ],
+                "Karakalpak": [
+                    "qamır"
+                ],
+                "Tatar": [
+                    "камыр"
+                ],
+                "Bashkir": [
+                    "ҡамыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "non xamiri"
+                ],
+                "Uyghur": [
+                    "نان خېمىرى"
+                ],
+                "Kazakh": [
+                    "нан қамыры"
+                ],
+                "Kyrgyz": [
+                    "нан камыры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekmek hamuru"
+                ],
+                "Tatar": [
+                    "икмәк камыры"
+                ],
+                "Bashkir": [
+                    "икмәк ҡамыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çörək xəmiri"
+                ],
+                "Turkmen": [
+                    "çörek hamyry"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "nan qamır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ачы камыр"
+                ]
+            }
+        }
+    ]
+}
+```
+

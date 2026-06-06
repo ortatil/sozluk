@@ -1,0 +1,67 @@
+{
+    "id": "i82628",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "east africa",
+    "en_definition": "a geographical area in eastern Africa",
+    "tr_word": "Doğu Afrika",
+    "tr_definition": "Afrika kıtasının doğu kesiminde yer alan coğrafi bölge",
+    "ru_word": "Восточная Африка",
+    "ru_definition": "географический регион в восточной части африканского континента",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şərqi Afrika"
+                ],
+                "Uzbek": [
+                    "Sharqiy Afrika"
+                ],
+                "Uyghur": [
+                    "شەرقىي ئافرىقا"
+                ],
+                "Kazakh": [
+                    "Шығыс Африка"
+                ],
+                "Karakalpak": [
+                    "Shıǵıs Afrika"
+                ],
+                "Tatar": [
+                    "Шәрекъ Африкасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Чыгыш Африка"
+                ],
+                "Tatar": [
+                    "Көнчыгыш Африка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Doğu Afrika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Gündogar Afrika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "Көнсығыш Африка"
+                ]
+            }
+        }
+    ]
+}

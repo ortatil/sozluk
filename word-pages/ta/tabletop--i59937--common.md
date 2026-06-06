@@ -1,0 +1,130 @@
+# Tabletop
+| Field | Detail |
+|---|---|
+| **ID** | i59937 |
+| **English** | tabletop |
+| **Type** | noun |
+| **Definition** | the top horizontal work surface of a table |
+| **Source** | common |
+| **Ortatil** | tabla |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| тақта | taqta |
+| **Kyrgyz** | |
+| үстү | üstü |
+| бет | bet |
+
+```json
+{
+    "id": "i59937",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tabletop",
+    "en_definition": "the top horizontal work surface of a table",
+    "tr_word": "masa üstü",
+    "tr_definition": "bir masanın üst yatay çalışma yüzeyi",
+    "ru_word": "столешница",
+    "ru_definition": "верхняя горизонтальная рабочая поверхность стола",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yuz",
+                    "ust"
+                ],
+                "Uyghur": [
+                    "ئۈستەل يۈزى"
+                ],
+                "Kazakh": [
+                    "үстел беті",
+                    "үстелдің үсті"
+                ],
+                "Kyrgyz": [
+                    "үстөл үстү",
+                    "үстү"
+                ],
+                "Karakalpak": [
+                    "ústel ústi",
+                    "ústeldiń ústi"
+                ],
+                "Tatar": [
+                    "өстәл өсте",
+                    "өстәл тактасы"
+                ],
+                "Bashkir": [
+                    "өҫтәл өҫтө",
+                    "өҫтәл таҡтаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "masa üstü",
+                    "masa yüzeyi"
+                ],
+                "Azerbaijani": [
+                    "masaüstü",
+                    "masanın üstü"
+                ],
+                "Uyghur": [
+                    "مىز يۈزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tabla"
+                ],
+                "Kazakh": [
+                    "тақта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "stolüsti",
+                    "stoluň ýüzi",
+                    "stoluň üstki bölegi"
+                ],
+                "Uzbek": [
+                    "stol usti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "süfrəüstü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەختە يۈزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бет"
+                ]
+            }
+        }
+    ]
+}
+```
+

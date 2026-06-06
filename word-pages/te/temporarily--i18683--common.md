@@ -1,0 +1,209 @@
+# Temporarily
+| Field | Detail |
+|---|---|
+| **ID** | i18683 |
+| **English** | temporarily |
+| **Type** | adverb |
+| **Definition** | for a limited time only; not permanently |
+| **Source** | common |
+| **Ortatil** | waqıtlıça |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **waqıtlıça** | **ḳeçici** | **müwaqqat** |
+|---|---|---|---|
+| Turkish | ❌ | ❌ | ✅ |
+| Azerbaijani | ❌ | ✅ | ✅ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ❌ | ✅ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ | ❌ |
+| Tatar | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.67 | 0.67 |
+| *Qarluq Subtotal* | 1 | 0 | 0.50 |
+| *Qipchaq Subtotal* | 0.80 | 0.20 | 0 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |
+| **O'TQ** | **3.13** | **1.37** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ۋاقىتلىق | vaqitliq |
+| ۋاقىتچە | vaqitçä |
+| ئامانەت | amanät |
+| **Kazakh** | |
+| уақытша | uaqıtşa |
+| кезеңдік | kezeñdik |
+| тәртіппен | tärtippen |
+| **Kyrgyz** | |
+| азырынча | azırınça |
+| убактылуу | ubaktıluu |
+| **Tatar** | |
+| вакытлыча | vakıtlıça |
+| вакытлы | vakıtlı |
+| мөддәтле | möddätle |
+| **Bashkir** | |
+| ваҡытлыса | vaqıtlısa |
+| ваҡытлы | vaqıtlı |
+
+```json
+{
+    "id": "i18683",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "temporarily",
+    "en_definition": "for a limited time only; not permanently",
+    "tr_word": "geçici olarak",
+    "tr_definition": "kalıcı olmayan, sadece belirli ve sınırlı bir süre için",
+    "ru_word": "временно",
+    "ru_definition": "на ограниченный срок; не постоянно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "wagtlaýyn",
+                    "wagtlaýynça"
+                ],
+                "Uzbek": [
+                    "vaqtincha"
+                ],
+                "Uyghur": [
+                    "ۋاقىتلىق",
+                    "ۋاقىتچە"
+                ],
+                "Kazakh": [
+                    "уақытша"
+                ],
+                "Karakalpak": [
+                    "oaqıtsha"
+                ],
+                "Tatar": [
+                    "вакытлыча",
+                    "вакытлы"
+                ],
+                "Bashkir": [
+                    "ваҡытлыса",
+                    "ваҡытлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geçici olarak"
+                ],
+                "Azerbaijani": [
+                    "keçici"
+                ],
+                "Turkmen": [
+                    "geçiji"
+                ],
+                "Kazakh": [
+                    "кезеңдік"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muvakkaten"
+                ],
+                "Azerbaijani": [
+                    "müvəqqəti",
+                    "müvəqqəti olaraq"
+                ],
+                "Uzbek": [
+                    "muvaqqat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bir müddətlik"
+                ],
+                "Karakalpak": [
+                    "bir máhálge"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "omonat"
+                ],
+                "Uyghur": [
+                    "ئامانەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аз уақытқа"
+                ],
+                "Kyrgyz": [
+                    "азырынча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eğreti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тәртіппен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "убактылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бир аз убакытка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "pálle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөддәтле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "әлеге ваҡытта"
+                ]
+            }
+        }
+    ]
+}
+```
+

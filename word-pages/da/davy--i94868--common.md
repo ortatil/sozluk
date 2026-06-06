@@ -1,0 +1,134 @@
+# Davy
+| Field | Detail |
+|---|---|
+| **ID** | i94868 |
+| **English** | davy |
+| **Type** | noun |
+| **Definition** | English chemist who was a pioneer in electrochemistry and who used it to isolate elements sodium and potassium and barium and boron and calcium and magnesium and chlorine (1778-1829) |
+| **Source** | common |
+| **Ortatil** | dewlisi |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **dewlisi** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| دەيۋى | däyvi |
+| **Kazakh** | |
+| Дэви | devi |
+| **Kyrgyz** | |
+| Дэви | devi |
+| **Tatar** | |
+| Дэви | devi |
+| **Bashkir** | |
+| Дэви | devi |
+
+```json
+{
+    "id": "i94868",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "davy",
+    "en_definition": "English chemist who was a pioneer in electrochemistry and who used it to isolate elements sodium and potassium and barium and boron and calcium and magnesium and chlorine (1778-1829)",
+    "tr_word": "Davy",
+    "tr_definition": "Elektrokimyanın öncüsü olan ve sodyum, potasyum, baryum, bor, kalsiyum, magnezyum ve klor gibi elementleri ayrıştırmak için elektrokimyayı kullanan İngiliz kimyager (1778-1829).",
+    "ru_word": "Дэви",
+    "ru_definition": "Английский химик, пионер электрохимии, использовавший её для выделения таких элементов, как натрий, калий, барий, бор, кальций, магний и хлор (1778-1829).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Davy"
+                ],
+                "Azerbaijani": [
+                    "Devi"
+                ],
+                "Turkmen": [
+                    "Dewi"
+                ],
+                "Uzbek": [
+                    "Devi"
+                ],
+                "Uyghur": [
+                    "دەيۋى"
+                ],
+                "Kazakh": [
+                    "Дэви"
+                ],
+                "Kyrgyz": [
+                    "Дэви"
+                ],
+                "Karakalpak": [
+                    "Dewi"
+                ],
+                "Tatar": [
+                    "Дэви"
+                ],
+                "Bashkir": [
+                    "Дэви"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Hemfri Devi"
+                ],
+                "Turkmen": [
+                    "Hemfri Dewi"
+                ],
+                "Uyghur": [
+                    "ھەمفرى دەيۋى"
+                ],
+                "Kazakh": [
+                    "Хамфри Дэви"
+                ],
+                "Kyrgyz": [
+                    "Хамфри Дэви"
+                ],
+                "Karakalpak": [
+                    "Xemfri Dewi"
+                ],
+                "Tatar": [
+                    "Хамфри Дэви"
+                ],
+                "Bashkir": [
+                    "Хамфри Дэви"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Humphry Davy"
+                ],
+                "Uzbek": [
+                    "Humphry Davy"
+                ]
+            }
+        }
+    ]
+}
+```
+

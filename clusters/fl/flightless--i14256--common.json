@@ -1,0 +1,118 @@
+{
+    "id": "i14256",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "flightless",
+    "en_definition": "incapable of flying",
+    "tr_word": "uçamayan",
+    "tr_definition": "uçma yeteneği olmayan",
+    "ru_word": "нелетающий",
+    "ru_definition": "неспособный к полету",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uçamayan",
+                    "uçamaz",
+                    "uçma yeteneği olmayan"
+                ],
+                "Azerbaijani": [
+                    "uçmayan",
+                    "uçabilməyən"
+                ],
+                "Turkmen": [
+                    "uçmaýan"
+                ],
+                "Uzbek": [
+                    "ucholmaydigan",
+                    "uchmas"
+                ],
+                "Uyghur": [
+                    "ئۇچالمايدىغان"
+                ],
+                "Kazakh": [
+                    "ұша алмайтын"
+                ],
+                "Kyrgyz": [
+                    "учпаган",
+                    "уча албаган"
+                ],
+                "Karakalpak": [
+                    "usha almaytuǵın"
+                ],
+                "Tatar": [
+                    "оча алмый торган",
+                    "очмый торган",
+                    "очудан мәхрүм"
+                ],
+                "Bashkir": [
+                    "оса алмай торған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qanadsız"
+                ],
+                "Turkmen": [
+                    "ganatsyz"
+                ],
+                "Kazakh": [
+                    "қанатсыз"
+                ],
+                "Karakalpak": [
+                    "qanatsız"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uçup bilmeýän"
+                ],
+                "Uyghur": [
+                    "ئۇچۇش ئىقتىدارى يوق",
+                    "ئۇچۇشتىن مەھرۇم"
+                ],
+                "Kyrgyz": [
+                    "учууга жөндөмсүз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұшпайтын"
+                ],
+                "Karakalpak": [
+                    "ushpaytuǵın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uchishga qodir bo'lmagan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "оса алмаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "осоу һәләте булмаған"
+                ]
+            }
+        }
+    ]
+}

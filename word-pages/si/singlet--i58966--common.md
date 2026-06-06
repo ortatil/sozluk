@@ -1,0 +1,188 @@
+# Singlet
+| Field | Detail |
+|---|---|
+| **ID** | i58966 |
+| **English** | singlet |
+| **Type** | noun |
+| **Definition** | a collarless men's undergarment for the upper part of the body |
+| **Source** | common |
+| **Ortatil** | mayka |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **mayka** | **köynäkçä** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ✅ |
+| Bashkir | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0.67 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.40 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **3.27** | **1.57** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مايكا | mayka |
+| زىرە | zirä |
+| **Kazakh** | |
+| майка | mayka |
+| **Kyrgyz** | |
+| майка | mayka |
+| жеңсиз | jeñsiz |
+| **Tatar** | |
+| күлмәкчә | külmäkçä |
+| **Bashkir** | |
+| күлдәк | küldäk |
+| күлдәклек | küldäklek |
+
+```json
+{
+    "id": "i58966",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "singlet",
+    "en_definition": "a collarless men's undergarment for the upper part of the body",
+    "tr_word": "atlet",
+    "tr_definition": "Vücudun üst kısmına giyilen, genellikle kolsuz ve yakasız iç çamaşırı.",
+    "ru_word": "майка",
+    "ru_definition": "Нательная мужская одежда без рукавов и воротника, надеваемая под рубашку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "içki köýnek"
+                ],
+                "Uzbek": [
+                    "ichki ko'ylak"
+                ],
+                "Uyghur": [
+                    "ئىچكى كۆڭلەك"
+                ],
+                "Kazakh": [
+                    "ішкі жейде"
+                ],
+                "Kyrgyz": [
+                    "ич кийим"
+                ],
+                "Karakalpak": [
+                    "ishki kiyim"
+                ],
+                "Tatar": [
+                    "эчке күлмәк"
+                ],
+                "Bashkir": [
+                    "эске кейем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mayka"
+                ],
+                "Turkmen": [
+                    "maýka"
+                ],
+                "Uzbek": [
+                    "mayka"
+                ],
+                "Uyghur": [
+                    "مايكا"
+                ],
+                "Kazakh": [
+                    "майка"
+                ],
+                "Kyrgyz": [
+                    "майка"
+                ],
+                "Karakalpak": [
+                    "mayka"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "köynəkçə"
+                ],
+                "Turkmen": [
+                    "köýnekçe"
+                ],
+                "Tatar": [
+                    "күлмәкчә"
+                ],
+                "Bashkir": [
+                    "күлдәк",
+                    "күлдәклек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жеңсіз жейде"
+                ],
+                "Kyrgyz": [
+                    "жеңсиз"
+                ],
+                "Karakalpak": [
+                    "jeńsiz kóylek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "atlet"
+                ],
+                "Azerbaijani": [
+                    "atlet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fanila"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zıbın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nimcha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زىرە"
+                ]
+            }
+        }
+    ]
+}
+```
+

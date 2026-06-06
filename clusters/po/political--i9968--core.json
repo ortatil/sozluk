@@ -1,0 +1,96 @@
+{
+    "id": "i9968",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "political",
+    "en_definition": "involving or characteristic of politics or parties or politicians",
+    "tr_word": "siyasi",
+    "tr_definition": "Siyasetle ilgili olan, politikaya veya siyasi partilere özgü",
+    "ru_word": "политический",
+    "ru_definition": "Относящийся к политике, государственному управлению или деятельности партий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "siyasi"
+                ],
+                "Azerbaijani": [
+                    "siyasi"
+                ],
+                "Turkmen": [
+                    "syýasy"
+                ],
+                "Uzbek": [
+                    "siyosiy"
+                ],
+                "Uyghur": [
+                    "سىياسىي"
+                ],
+                "Kazakh": [
+                    "саяси"
+                ],
+                "Kyrgyz": [
+                    "саясий"
+                ],
+                "Karakalpak": [
+                    "siyasiy"
+                ],
+                "Tatar": [
+                    "сәяси"
+                ],
+                "Bashkir": [
+                    "сәйәси"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "döwletli"
+                ],
+                "Uzbek": [
+                    "davlatga oid"
+                ],
+                "Tatar": [
+                    "дәүләти"
+                ],
+                "Bashkir": [
+                    "дәүләти"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мемлекеттік"
+                ],
+                "Kyrgyz": [
+                    "мамлекеттик"
+                ],
+                "Karakalpak": [
+                    "mámleketlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "politik"
+                ],
+                "Azerbaijani": [
+                    "politik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سىياسەتكە ئائىت"
+                ]
+            }
+        }
+    ]
+}

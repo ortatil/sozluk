@@ -1,0 +1,260 @@
+# Iron man
+| Field | Detail |
+|---|---|
+| **ID** | i90749 |
+| **English** | iron man |
+| **Type** | noun |
+| **Definition** | a strong man of exceptional physical endurance |
+| **Source** | common |
+| **Ortatil** | pähliwanğı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **pähliwanğı** | **alp** | **batır** |
+|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ |
+| Azerbaijani | ❌ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ❌ |
+| Kyrgyz | ❌ | ✅ | ✅ |
+| Karakalpak | ✅ | ❌ | ❌ |
+| Tatar | ❌ | ✅ | ✅ |
+| Bashkir | ❌ | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0.33 | 0 |
+| *Qarluq Subtotal* | 1 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.60 | 0.60 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |
+| **O'TQ** | **2.87** | **1.43** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پەھلىۋان | pählivan |
+| باھادىر | bahadir |
+| **Kyrgyz** | |
+| алп | alp |
+| баатыр | baatır |
+| **Tatar** | |
+| алпамша | alpamşa |
+| батыр | batır |
+| **Bashkir** | |
+| алп | alp |
+| батыр | batır |
+| ҡаһарман | qaharman |
+
+```json
+{
+    "id": "i90749",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "iron man",
+    "en_definition": "a strong man of exceptional physical endurance",
+    "tr_word": "demir adam",
+    "tr_definition": "olağanüstü fiziksel dayanıklılığa sahip güçlü adam",
+    "ru_word": "железный человек",
+    "ru_definition": "сильный человек с исключительной физической выносливостью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "demir adam"
+                ],
+                "Azerbaijani": [
+                    "dəmir adam"
+                ],
+                "Turkmen": [
+                    "demir adam"
+                ],
+                "Uzbek": [
+                    "temir odam"
+                ],
+                "Uyghur": [
+                    "تۆمۈر ئادەم"
+                ],
+                "Kazakh": [
+                    "темірдей мықты адам"
+                ],
+                "Kyrgyz": [
+                    "темирдей бекем киши"
+                ],
+                "Karakalpak": [
+                    "temirdey adam"
+                ],
+                "Tatar": [
+                    "тимер кеше"
+                ],
+                "Bashkir": [
+                    "тимер ир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pehlivan"
+                ],
+                "Turkmen": [
+                    "pälwan"
+                ],
+                "Uzbek": [
+                    "pahlavon",
+                    "polvon"
+                ],
+                "Uyghur": [
+                    "پەھلىۋان"
+                ],
+                "Karakalpak": [
+                    "paluan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alp"
+                ],
+                "Kyrgyz": [
+                    "алп"
+                ],
+                "Tatar": [
+                    "алпамша"
+                ],
+                "Bashkir": [
+                    "алп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "polad adam"
+                ],
+                "Turkmen": [
+                    "polat adam"
+                ],
+                "Uyghur": [
+                    "پولاتتەك ئادەم"
+                ],
+                "Kazakh": [
+                    "болаттай берік адам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýratly adam"
+                ],
+                "Kazakh": [
+                    "қайратты ер"
+                ],
+                "Kyrgyz": [
+                    "кайраттуу киши"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "баатыр"
+                ],
+                "Tatar": [
+                    "батыр"
+                ],
+                "Bashkir": [
+                    "батыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "baquvvat"
+                ],
+                "Uyghur": [
+                    "باھادىر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қажырлы ер"
+                ],
+                "Bashkir": [
+                    "ҡаһарман"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shıdamlı adam"
+                ],
+                "Tatar": [
+                    "чыдамлы кеше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çelik adam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yiğit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mətin insan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dözümlü adam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bardoshli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эр жүрөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qarulı adam"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,125 @@
+{
+    "id": "i110910",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "malaria",
+    "en_definition": "an infective disease caused by sporozoan parasites that are transmitted through the bite of an infected Anopheles mosquito; marked by paroxysms of chills and fever",
+    "tr_word": "sıtma",
+    "tr_definition": "Anofel cinsi sivrisineklerin ısırmasıyla bulaşan, titreme ve ateş nöbetleriyle kendini gösteren paraziter bir hastalık.",
+    "ru_word": "малярия",
+    "ru_definition": "Инфекционное заболевание, вызываемое паразитами рода Plasmodium и передающееся через укусы комаров рода Anopheles, характеризующееся приступами лихорадки и озноба.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bezgäk"
+                ],
+                "Uzbek": [
+                    "bezgak"
+                ],
+                "Uyghur": [
+                    "بەزگەك",
+                    "بەزگەك كېسىلى"
+                ],
+                "Kazakh": [
+                    "безгек",
+                    "безгек ауруы"
+                ],
+                "Kyrgyz": [
+                    "безгек"
+                ],
+                "Karakalpak": [
+                    "bezgek"
+                ],
+                "Tatar": [
+                    "бизгәк",
+                    "бизгәк чире"
+                ],
+                "Bashkir": [
+                    "биҙгәк",
+                    "биҙгәк ауырыуы",
+                    "биҙгәк сире"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "malarya"
+                ],
+                "Azerbaijani": [
+                    "malyariya"
+                ],
+                "Turkmen": [
+                    "malyariýa"
+                ],
+                "Uzbek": [
+                    "malyariya"
+                ],
+                "Uyghur": [
+                    "مەلارىيە"
+                ],
+                "Kazakh": [
+                    "малярия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıtma"
+                ],
+                "Uzbek": [
+                    "isitma"
+                ],
+                "Kyrgyz": [
+                    "ысытма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qızdırma"
+                ],
+                "Turkmen": [
+                    "gyzdyrma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istilik"
+                ],
+                "Karakalpak": [
+                    "ıstıq-suıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "humma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "növba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сары бизгәк"
+                ]
+            }
+        }
+    ]
+}

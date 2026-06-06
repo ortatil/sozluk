@@ -1,0 +1,123 @@
+# Andrew
+| Field | Detail |
+|---|---|
+| **ID** | i94299 |
+| **English** | andrew |
+| **Type** | noun |
+| **Definition** | (New Testament) disciple of Jesus; brother of Peter; patron saint of Scotland |
+| **Source** | common |
+| **Ortatil** | andrey |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **andrey** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاندرېي | andrey |
+| ئەندەرىياس | ändäriyas |
+| **Kazakh** | |
+| Әндір | ändir |
+| Андрей | andrey |
+| **Kyrgyz** | |
+| Андрей | andrey |
+| Индерей | inderey |
+| **Tatar** | |
+| Әндри | ändri |
+| **Bashkir** | |
+| Әндри | ändri |
+
+```json
+{
+    "id": "i94299",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "andrew",
+    "en_definition": "(New Testament) disciple of Jesus; brother of Peter; patron saint of Scotland",
+    "tr_word": "Andreas",
+    "tr_definition": "(Yeni Ahit) İsa'nın havarisi; Petrus'un kardeşi; İskoçya'nın koruyucu azizi",
+    "ru_word": "Андрей",
+    "ru_definition": "(Новый Завет) ученик Иисуса; брат Петра; святой покровитель Шотландии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Anderyas",
+                    "Andreas"
+                ],
+                "Azerbaijani": [
+                    "Andrey",
+                    "Andros"
+                ],
+                "Turkmen": [
+                    "Andraý",
+                    "Andreý"
+                ],
+                "Uzbek": [
+                    "Andriy",
+                    "Andrey",
+                    "Andriyos"
+                ],
+                "Uyghur": [
+                    "ئاندرېي",
+                    "ئەندەرىياس"
+                ],
+                "Kazakh": [
+                    "Әндір",
+                    "Андрей"
+                ],
+                "Kyrgyz": [
+                    "Андрей",
+                    "Индерей"
+                ],
+                "Karakalpak": [
+                    "Andrey",
+                    "Ándirey"
+                ],
+                "Tatar": [
+                    "Әндри",
+                    "Әндри апостол"
+                ],
+                "Bashkir": [
+                    "Әндри",
+                    "Әндри апостол"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Aziz Anderyas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Həvari Andrey"
+                ]
+            }
+        }
+    ]
+}
+```
+

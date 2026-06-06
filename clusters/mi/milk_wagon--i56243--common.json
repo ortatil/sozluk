@@ -1,0 +1,64 @@
+{
+    "id": "i56243",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "milk wagon",
+    "en_definition": "wagon for delivering milk",
+    "tr_word": "süt arabası",
+    "tr_definition": "Süt dağıtmak için kullanılan atlı veya motorlu taşıt.",
+    "ru_word": "молочная повозка",
+    "ru_definition": "Повозка или фургон, предназначенные для доставки молока.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "süt arabası",
+                    "sütçü arabası"
+                ],
+                "Azerbaijani": [
+                    "süd arabası",
+                    "süd daşıyan araba"
+                ],
+                "Turkmen": [
+                    "süýt arabasy",
+                    "süýt çekýän araba"
+                ],
+                "Uzbek": [
+                    "sut aravasi"
+                ],
+                "Uyghur": [
+                    "سۈت ھارۋىسى",
+                    "سۈت توشۇش ھارۋىسى"
+                ],
+                "Kazakh": [
+                    "сүт арба",
+                    "сүт таситын арба"
+                ],
+                "Kyrgyz": [
+                    "сүт араба",
+                    "сүт ташуучу араба"
+                ],
+                "Karakalpak": [
+                    "sút arba",
+                    "sút tasıytuǵın arba"
+                ],
+                "Tatar": [
+                    "сөт арбасы",
+                    "сөт ташу арбасы"
+                ],
+                "Bashkir": [
+                    "һөт арбаһы",
+                    "һөт ташыу арбаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sut tashuvchi arava"
+                ]
+            }
+        }
+    ]
+}

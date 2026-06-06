@@ -1,0 +1,90 @@
+{
+    "id": "i56870",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oyster bar",
+    "en_definition": "a bar (as in a restaurant) that specializes in oysters prepared in different ways",
+    "tr_word": "istiridye barı",
+    "tr_definition": "Farklı şekillerde hazırlanan istiridyeler konusunda uzmanlaşmış, genellikle bir restoranın parçası olan bar.",
+    "ru_word": "устричный бар",
+    "ru_definition": "Бар (часто при ресторане), специализирующийся на подаче устриц, приготовленных различными способами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "istiridye barı",
+                    "istiridye lokantası",
+                    "istiridye salonu"
+                ],
+                "Azerbaijani": [
+                    "istiridyə barı",
+                    "istiridyəxana"
+                ],
+                "Uzbek": [
+                    "ustiritsa oshxonasi",
+                    "ustiritsa bari"
+                ],
+                "Uyghur": [
+                    "ئوستېرىيەخانە"
+                ],
+                "Kyrgyz": [
+                    "устрицакана",
+                    "устрица ашканасы",
+                    "устрица борбору"
+                ],
+                "Karakalpak": [
+                    "ustricaxana",
+                    "ustrica asxanası",
+                    "ustrica barı"
+                ],
+                "Tatar": [
+                    "устрицаханә",
+                    "устрица ашханәсе"
+                ],
+                "Bashkir": [
+                    "устрица ашханаһы",
+                    "устрица йорто",
+                    "устрица залы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dəniz məhsulları barı"
+                ],
+                "Turkmen": [
+                    "deňiz önümleri bar"
+                ],
+                "Uzbek": [
+                    "dengiz mahsulotlari tamaddixonasi"
+                ],
+                "Uyghur": [
+                    "دېڭىز مەھسۇلاتلىرى ئاشخانىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سەدەپلىك قۇلۇلە ئاشخانىسى"
+                ],
+                "Kazakh": [
+                    "ұлухана",
+                    "ұлухана-дәмхана",
+                    "ұлухана-мәзірхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ostrisia bar",
+                    "ostrisia naharhanasy"
+                ]
+            }
+        }
+    ]
+}

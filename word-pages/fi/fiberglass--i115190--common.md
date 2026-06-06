@@ -1,0 +1,120 @@
+# Fiberglass
+| Field | Detail |
+|---|---|
+| **ID** | i115190 |
+| **English** | fiberglass |
+| **Type** | noun |
+| **Definition** | a covering material made of glass fibers in resins |
+| **Source** | common |
+| **Ortatil** | şişäpläslik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| шыныталшық | şınıtalşıq |
+
+```json
+{
+    "id": "i115190",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fiberglass",
+    "en_definition": "a covering material made of glass fibers in resins",
+    "tr_word": "fiberglas",
+    "tr_definition": "reçine içine yerleştirilmiş cam liflerinden oluşan kaplama malzemesi",
+    "ru_word": "стекловолокно",
+    "ru_definition": "материал, изготовленный из стеклянных волокон, пропитанных смолами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şyşa süýümi"
+                ],
+                "Kazakh": [
+                    "шыны талшығы"
+                ],
+                "Karakalpak": [
+                    "shını talshıq",
+                    "shını mata"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şüşə lifi",
+                    "şüşəli lif",
+                    "şüşə-plastik"
+                ],
+                "Uzbek": [
+                    "shisha tolali plastik",
+                    "shishaplastik",
+                    "shisha tola"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەينەك تالالىق سۇلياۋ",
+                    "ئەينەك تالاسى",
+                    "ئەينەك تالالىق ماتېرىيال"
+                ],
+                "Kyrgyz": [
+                    "айнек буласы",
+                    "айнек талчасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пыяла җепсел",
+                    "пыяла җеп",
+                    "пыяла тукыма"
+                ],
+                "Bashkir": [
+                    "быяла сүс",
+                    "быяла еп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cam elyafı",
+                    "cam lifi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fiberglas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çüýşe süýümi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шыныталшық"
+                ]
+            }
+        }
+    ]
+}
+```
+

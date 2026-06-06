@@ -1,0 +1,76 @@
+{
+    "id": "i58414",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "salad fork",
+    "en_definition": "a fork intended for eating salads",
+    "tr_word": "salata çatalı",
+    "tr_definition": "Salata yemek için tasarlanmış, genellikle yemek çatalından biraz daha küçük olan çatal.",
+    "ru_word": "вилка для салата",
+    "ru_definition": "Вилка, предназначенная для употребления салата, обычно чуть меньшего размера, чем столовая вилка.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "salata çatalı"
+                ],
+                "Azerbaijani": [
+                    "salat çəngəli"
+                ],
+                "Turkmen": [
+                    "salat çarşagy"
+                ],
+                "Uzbek": [
+                    "salat sanchqisi"
+                ],
+                "Uyghur": [
+                    "سالات چەنگىلى",
+                    "سالات شاخچىسى"
+                ],
+                "Kazakh": [
+                    "салат шанышқысы"
+                ],
+                "Kyrgyz": [
+                    "салат айрысы"
+                ],
+                "Karakalpak": [
+                    "salat shanıshqısı"
+                ],
+                "Tatar": [
+                    "салат чәнечкесе"
+                ],
+                "Bashkir": [
+                    "салат сәнскеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kiçi çarşak"
+                ],
+                "Uzbek": [
+                    "kichik sanchqi"
+                ],
+                "Kyrgyz": [
+                    "кичинекей айры"
+                ],
+                "Karakalpak": [
+                    "kіshkene shanıshqı"
+                ],
+                "Tatar": [
+                    "кече чәнечке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көкөніс шанышқысы"
+                ]
+            }
+        }
+    ]
+}

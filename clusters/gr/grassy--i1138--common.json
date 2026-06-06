@@ -1,0 +1,135 @@
+{
+    "id": "i1138",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "grassy",
+    "en_definition": "abounding in grass",
+    "tr_word": "çimenli",
+    "tr_definition": "bol miktarda çimle kaplı olan",
+    "ru_word": "травянистый",
+    "ru_definition": "обильно поросший травой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gök"
+                ],
+                "Uzbek": [
+                    "ko'klamzor"
+                ],
+                "Uyghur": [
+                    "كۆكەملىك"
+                ],
+                "Kazakh": [
+                    "көгалды"
+                ],
+                "Kyrgyz": [
+                    "көктүү"
+                ],
+                "Karakalpak": [
+                    "kóklemli"
+                ],
+                "Bashkir": [
+                    "күкһел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otlu"
+                ],
+                "Azerbaijani": [
+                    "otlu",
+                    "otlaq"
+                ],
+                "Turkmen": [
+                    "otly",
+                    "otlak"
+                ],
+                "Uzbek": [
+                    "o'tloq",
+                    "o'tli"
+                ],
+                "Uyghur": [
+                    "ئوتلاق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шөпті",
+                    "шөптесін"
+                ],
+                "Kyrgyz": [
+                    "чөптүү"
+                ],
+                "Karakalpak": [
+                    "shópli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maysazor"
+                ],
+                "Karakalpak": [
+                    "maysalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үләнле",
+                    "үлән баскан"
+                ],
+                "Bashkir": [
+                    "үләнле",
+                    "үлән баҫҡан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çimenli",
+                    "yeşillik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çəmənli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوت-چۆپلۈك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көбөлүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яшел"
+                ]
+            }
+        }
+    ]
+}

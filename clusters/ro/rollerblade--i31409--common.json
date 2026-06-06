@@ -1,0 +1,90 @@
+{
+    "id": "i31409",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "rollerblade",
+    "en_definition": "travel on shoes with a single line of rubber wheels attached to their soles",
+    "tr_word": "paten yapmak",
+    "tr_definition": "tabanlarına tek sıra halinde lastik tekerlekler takılmış ayakkabılarla ilerlemek",
+    "ru_word": "кататься на роликах",
+    "ru_definition": "передвигаться на ботинках с прикрепленным к подошве рядом резиновых колес",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "rolikde süýşmek",
+                    "rolikde typmak"
+                ],
+                "Uzbek": [
+                    "rolikda uchmoq",
+                    "rolikda yurmoq"
+                ],
+                "Uyghur": [
+                    "روولىك تېيىلىش"
+                ],
+                "Kazakh": [
+                    "ролик тебу"
+                ],
+                "Kyrgyz": [
+                    "ролик тебүү"
+                ],
+                "Karakalpak": [
+                    "rolik tebio",
+                    "rolikli konkide ushıo"
+                ],
+                "Tatar": [
+                    "роликта шуу"
+                ],
+                "Bashkir": [
+                    "роликта шыуыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekerlekli paten sürmek"
+                ],
+                "Azerbaijani": [
+                    "təkərli konki sürmək"
+                ],
+                "Kazakh": [
+                    "роликті конькимен тебу"
+                ],
+                "Tatar": [
+                    "тәгәрмәчле тимераякта шуу"
+                ],
+                "Bashkir": [
+                    "тәгәрмәсле конькиҙа шыуыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paten kaymak",
+                    "patenle gitmek"
+                ],
+                "Azerbaijani": [
+                    "paten sürmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چاقلىق كانكا تېيىلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коньки тебүү"
+                ]
+            }
+        }
+    ]
+}

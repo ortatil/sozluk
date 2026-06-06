@@ -1,0 +1,116 @@
+{
+    "id": "i56736",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "open-air market",
+    "en_definition": "a public marketplace where food and merchandise is sold",
+    "tr_word": "açık hava pazarı",
+    "tr_definition": "yiyecek ve eşyaların satıldığı halka açık pazar yeri",
+    "ru_word": "рынок под открытым небом",
+    "ru_definition": "общественное место торговли продуктами и товарами, расположенное на улице",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pazar",
+                    "panayır"
+                ],
+                "Azerbaijani": [
+                    "bazar"
+                ],
+                "Turkmen": [
+                    "bazar"
+                ],
+                "Uzbek": [
+                    "bozor",
+                    "bozorjoy"
+                ],
+                "Uyghur": [
+                    "بازار"
+                ],
+                "Kazakh": [
+                    "базар"
+                ],
+                "Kyrgyz": [
+                    "базар"
+                ],
+                "Karakalpak": [
+                    "bazar"
+                ],
+                "Tatar": [
+                    "базар"
+                ],
+                "Bashkir": [
+                    "баҙар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çarşı",
+                    "sergi"
+                ],
+                "Azerbaijani": [
+                    "çarşı"
+                ],
+                "Turkmen": [
+                    "çarşy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "rasta"
+                ],
+                "Uyghur": [
+                    "راستا"
+                ],
+                "Karakalpak": [
+                    "raste"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yarmarka"
+                ],
+                "Uyghur": [
+                    "يەرمەنكە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жайма базар"
+                ],
+                "Kyrgyz": [
+                    "жайма базар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәйдан"
+                ],
+                "Bashkir": [
+                    "майҙан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сауда орны"
+                ]
+            }
+        }
+    ]
+}

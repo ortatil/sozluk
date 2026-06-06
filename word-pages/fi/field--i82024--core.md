@@ -1,0 +1,209 @@
+# Field
+| Field | Detail |
+|---|---|
+| **ID** | i82024 |
+| **English** | field |
+| **Type** | noun |
+| **Definition** | a piece of land prepared for playing a game |
+| **Source** | core |
+| **Ortatil** | mäydan |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **mäydan** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مەيدان | mäydan |
+| **Kazakh** | |
+| майдан | maydan |
+| алаң | alañ |
+| **Kyrgyz** | |
+| майдан | maydan |
+| аянтча | ayantça |
+| **Tatar** | |
+| мәйданчык | mäydançık |
+| **Bashkir** | |
+| майҙан | mayzan |
+| майҙансыҡ | mayzansıq |
+| ялан | yalan |
+
+```json
+{
+    "id": "i82024",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "field",
+    "en_definition": "a piece of land prepared for playing a game",
+    "tr_word": "saha",
+    "tr_definition": "oyun oynamak için hazırlanmış arazi parçası",
+    "ru_word": "поле",
+    "ru_definition": "участок земли, подготовленный для игры",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meydan"
+                ],
+                "Azerbaijani": [
+                    "meydan",
+                    "meydança"
+                ],
+                "Turkmen": [
+                    "meýdança"
+                ],
+                "Uzbek": [
+                    "maydon",
+                    "maydoncha"
+                ],
+                "Uyghur": [
+                    "مەيدان"
+                ],
+                "Kazakh": [
+                    "майдан"
+                ],
+                "Kyrgyz": [
+                    "майдан"
+                ],
+                "Karakalpak": [
+                    "maydan",
+                    "maydansha"
+                ],
+                "Tatar": [
+                    "мәйданчык"
+                ],
+                "Bashkir": [
+                    "майҙан",
+                    "майҙансыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "oyun meydanı"
+                ],
+                "Turkmen": [
+                    "oýun meýdançasy"
+                ],
+                "Uyghur": [
+                    "ئويۇن مەيدانى"
+                ],
+                "Karakalpak": [
+                    "oyın maydanı"
+                ],
+                "Tatar": [
+                    "уен мәйданы"
+                ],
+                "Bashkir": [
+                    "уйын майҙаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sport meýdançasy"
+                ],
+                "Uzbek": [
+                    "sport maydoni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oyun alanı"
+                ],
+                "Kazakh": [
+                    "ойын алаңы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "idman meydançası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەنھەرىكەت مەيدانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алаң"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "saha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻyingoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оюн талаасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аянтча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "уен кыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ялан"
+                ]
+            }
+        }
+    ]
+}
+```
+

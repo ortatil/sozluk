@@ -1,0 +1,134 @@
+{
+    "id": "i76628",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "beef broth",
+    "en_definition": "a stock made with beef",
+    "tr_word": "et suyu",
+    "tr_definition": "Sığır eti ve kemiklerinin kaynatılmasıyla elde edilen sıvı.",
+    "ru_word": "говяжий бульон",
+    "ru_definition": "отвар, полученный при варке говяжьего мяса.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "et suyu"
+                ],
+                "Azerbaijani": [
+                    "ət suyu"
+                ],
+                "Turkmen": [
+                    "et suwy"
+                ],
+                "Kazakh": [
+                    "ет сорпасы"
+                ],
+                "Karakalpak": [
+                    "et sorpası"
+                ],
+                "Tatar": [
+                    "ит шулпасы"
+                ],
+                "Bashkir": [
+                    "ит һурпаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sığır eti suyu"
+                ],
+                "Turkmen": [
+                    "sygyr eti çorbasy",
+                    "sygyr eti şorbasy"
+                ],
+                "Kazakh": [
+                    "сиыр сорпасы"
+                ],
+                "Karakalpak": [
+                    "siyir sorpası"
+                ],
+                "Tatar": [
+                    "сыер ите шулпасы"
+                ],
+                "Bashkir": [
+                    "һыйыр һурпаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mal əti suyu"
+                ],
+                "Uzbek": [
+                    "mol go'shti sho'rvasi",
+                    "mol go'shti bulyoni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "go'sht suvi"
+                ],
+                "Uyghur": [
+                    "گۆش شورپىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bulyon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كالا گۆشى شورپىسى",
+                    "كالا شورپىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қайнатпа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уйдун шорпосу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уй этинин шорпосу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уй шорпо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sorpa"
+                ]
+            }
+        }
+    ]
+}

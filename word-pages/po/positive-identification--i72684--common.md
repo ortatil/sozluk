@@ -1,0 +1,233 @@
+# Positive identification
+| Field | Detail |
+|---|---|
+| **ID** | i72684 |
+| **English** | positive identification |
+| **Type** | noun |
+| **Definition** | evidence proving that you are who you say you are; evidence establishing that you are among the group of people already known to the system; recognition by the system leads to acceptance |
+| **Source** | common |
+| **Ortatil** | isbat, tanıw |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **isbat** | **tanıw** | **täshis** | **rastaw** |
+|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ✅ | ❌ |
+| Turkmen | ❌ | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ | ❌ |
+| Uyghur | ❌ | ❌ | ❌ | ❌ |
+| Kazakh | ❌ | ✅ | ❌ | ✅ |
+| Kyrgyz | ❌ | ❌ | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ | ✅ | ❌ |
+| Tatar | ❌ | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 1 | 1 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.80 | 0.20 | 0.60 |
+| *In All* | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ | ✅ |  |
+| **O'TQ** | **2.37** | **2.30** | **1.70** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| анықтау | anıqtau |
+| тану | tanu |
+| растау | rastau |
+| айғақтау | ayğaqtau |
+| сәйкестендіру | säykestendiru |
+| **Kyrgyz** | |
+| ырастоо | ırastoo |
+| аныктоо | anıktoo |
+| таануу | taanuu |
+| тактоо | taktoo |
+| **Tatar** | |
+| таныклау | tanıklau |
+| таныклык | tanıklık |
+| идентификацияләү | identifikatsiyaläü |
+| **Bashkir** | |
+| таныу | tanıu |
+| таныҡлыҡ | tanıqlıq |
+| иҫбатлау | isbatlau |
+| раҫлау | raslau |
+
+```json
+{
+    "id": "i72684",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "positive identification",
+    "en_definition": "evidence proving that you are who you say you are; evidence establishing that you are among the group of people already known to the system; recognition by the system leads to acceptance",
+    "tr_word": "kesin kimlik tespiti",
+    "tr_definition": "bir kişinin iddia ettiği kişi olduğunu veya sistemde kayıtlı bir grupta yer aldığını kanıtlayan, sistem tarafından tanınmayı ve kabul edilmeyi sağlayan kanıt.",
+    "ru_word": "положительная идентификация",
+    "ru_definition": "доказательство того, что вы являетесь тем, за кого себя выдаете; свидетельство, подтверждающее наличие пользователя в системе, что приводит к предоставлению доступа.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tanılama"
+                ],
+                "Azerbaijani": [
+                    "tanıma"
+                ],
+                "Turkmen": [
+                    "anyklama"
+                ],
+                "Uzbek": [
+                    "tanib olish"
+                ],
+                "Kazakh": [
+                    "анықтау",
+                    "тану"
+                ],
+                "Karakalpak": [
+                    "anıqlao"
+                ],
+                "Tatar": [
+                    "таныклау",
+                    "таныклык"
+                ],
+                "Bashkir": [
+                    "таныу",
+                    "таныҡлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teşhis"
+                ],
+                "Azerbaijani": [
+                    "təsdiqləmə",
+                    "təsbit"
+                ],
+                "Turkmen": [
+                    "tassyknama"
+                ],
+                "Karakalpak": [
+                    "tastıyıqlao",
+                    "tástiyq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ispatıvücut"
+                ],
+                "Azerbaijani": [
+                    "isbat"
+                ],
+                "Uzbek": [
+                    "isbot"
+                ],
+                "Bashkir": [
+                    "иҫбатлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şahsyýeti tassyklama",
+                    "şahsyýeti anyklama"
+                ],
+                "Uzbek": [
+                    "shaxsni tasdiqlash",
+                    "shaxsni aniqlash"
+                ],
+                "Tatar": [
+                    "шәхесне раслау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "растау"
+                ],
+                "Kyrgyz": [
+                    "ырастоо"
+                ],
+                "Bashkir": [
+                    "раҫлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kimlik doğrulama",
+                    "kimlik tespiti"
+                ],
+                "Uyghur": [
+                    "كىملىك دەلىللەش",
+                    "كىملىك جەزملەشتۈرۈش",
+                    "كىملىك ئىسپاتلاش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айғақтау"
+                ],
+                "Karakalpak": [
+                    "ayqındao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "eyniləşdirmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сәйкестендіру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аныктоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "таануу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тактоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "идентификацияләү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,95 @@
+{
+    "id": "synset-oewn-90009391-v",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "screenshot",
+    "en_definition": "to capture an image from a computer's display",
+    "tr_word": "ekran görüntüsü almak",
+    "tr_definition": "bir bilgisayarın veya cihazın ekranındaki görüntüyü yakalamak",
+    "ru_word": "делать скриншот",
+    "ru_definition": "сделать снимок изображения с экрана компьютера или устройства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekran görüntüsü almak",
+                    "ekranı yakalamak",
+                    "ekran kaydetmek"
+                ],
+                "Azerbaijani": [
+                    "ekranı çəkmək",
+                    "ekran görüntüsünü almaq",
+                    "ekran şəklini çəkmək"
+                ],
+                "Turkmen": [
+                    "ekrany surata düşürmek",
+                    "ekran suraty almak",
+                    "ekran şekilini almak"
+                ],
+                "Uzbek": [
+                    "ekranni suratga olmoq",
+                    "ekranni muhrlamoq",
+                    "ekran tasvirini olmoq"
+                ],
+                "Uyghur": [
+                    "ئېكراننى سۈرەتكە تارتماق",
+                    "ئېكران كۆرۈنۈشىنى تۇتماق",
+                    "ئېكراننى خاتىرىلىمەك"
+                ],
+                "Kazakh": [
+                    "экранды суретке түсіру",
+                    "экранды басып алу"
+                ],
+                "Kyrgyz": [
+                    "экранды тартуу",
+                    "экранды сүрөткө алуу",
+                    "экранды көчүрүү"
+                ],
+                "Tatar": [
+                    "экранны төшерү",
+                    "экранны яздыру"
+                ],
+                "Bashkir": [
+                    "экранды төшөрөү",
+                    "экранды яҙҙырып алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "kórinisti saqlao"
+                ],
+                "Tatar": [
+                    "күренешне саклау"
+                ],
+                "Bashkir": [
+                    "күрһәтелгәнде һүрәткә алыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнебетке түсіру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "súoretke alıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "betti súoretke alıo"
+                ]
+            }
+        }
+    ]
+}

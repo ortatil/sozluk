@@ -1,0 +1,106 @@
+{
+    "id": "i81364",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "bank",
+    "en_definition": "a financial institution that accepts deposits and channels the money into lending activities",
+    "tr_word": "banka",
+    "tr_definition": "mevduat kabul eden ve bu parayı borç verme faaliyetlerine yönlendiren finansal kuruluş",
+    "ru_word": "банк",
+    "ru_definition": "финансовая организация, принимающая вклады и направляющая деньги на кредитную деятельность",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "banka"
+                ],
+                "Azerbaijani": [
+                    "bank"
+                ],
+                "Turkmen": [
+                    "bank"
+                ],
+                "Uzbek": [
+                    "bank"
+                ],
+                "Uyghur": [
+                    "بانكا"
+                ],
+                "Kazakh": [
+                    "банк"
+                ],
+                "Kyrgyz": [
+                    "банк"
+                ],
+                "Karakalpak": [
+                    "bank"
+                ],
+                "Tatar": [
+                    "банк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xazina"
+                ],
+                "Kazakh": [
+                    "қазына"
+                ],
+                "Kyrgyz": [
+                    "казына"
+                ],
+                "Karakalpak": [
+                    "qáziyne"
+                ],
+                "Tatar": [
+                    "хәзинە"
+                ],
+                "Bashkir": [
+                    "хазина"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "акча йорты"
+                ],
+                "Bashkir": [
+                    "аҡса йорто"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "moliya muassasasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەزىنىخانا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақша үйі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "акчакана"
+                ]
+            }
+        }
+    ]
+}

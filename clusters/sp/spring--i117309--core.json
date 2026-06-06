@@ -1,0 +1,107 @@
+{
+    "id": "i117309",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "spring",
+    "en_definition": "the season of growth",
+    "tr_word": "ilkbahar",
+    "tr_definition": "doğanın canlandığı, kış ile yaz arasındaki mevsim",
+    "ru_word": "весна",
+    "ru_definition": "время года, следующее за зимой и предшествующее лету",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bahar"
+                ],
+                "Azerbaijani": [
+                    "bahar"
+                ],
+                "Turkmen": [
+                    "bahar"
+                ],
+                "Uzbek": [
+                    "bahor"
+                ],
+                "Uyghur": [
+                    "باھار"
+                ],
+                "Kazakh": [
+                    "баһар"
+                ],
+                "Karakalpak": [
+                    "báhár"
+                ],
+                "Tatar": [
+                    "баһар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yaz"
+                ],
+                "Turkmen": [
+                    "ýaz"
+                ],
+                "Kyrgyz": [
+                    "жаз"
+                ],
+                "Tatar": [
+                    "яз"
+                ],
+                "Bashkir": [
+                    "яҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻklam"
+                ],
+                "Uyghur": [
+                    "كۆكلىم"
+                ],
+                "Kazakh": [
+                    "көктем"
+                ],
+                "Karakalpak": [
+                    "kóklem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ilkbahar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazbaşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жаз мезгили"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яҙғылыҡ"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+# Solar eclipse
+| Field | Detail |
+|---|---|
+| **ID** | i75417 |
+| **English** | solar eclipse |
+| **Type** | noun |
+| **Definition** | the moon interrupts light from the sun |
+| **Source** | common |
+| **Ortatil** | kusaf |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i75417",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "solar eclipse",
+    "en_definition": "the moon interrupts light from the sun",
+    "tr_word": "güneş tutulması",
+    "tr_definition": "Ay'ın Dünya ile Güneş arasına girerek Güneş ışığını engellemesi olayı.",
+    "ru_word": "солнечное затмение",
+    "ru_definition": "астрономическое явление, при котором Луна закрывает Солнце от наблюдателя на Земле.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güneş tutulması",
+                    "güneş tutulma"
+                ],
+                "Azerbaijani": [
+                    "günəş tutulması"
+                ],
+                "Turkmen": [
+                    "gün tutulmasy",
+                    "günüň tutulmagy"
+                ],
+                "Uyghur": [
+                    "كۈن تۇتۇلۇش"
+                ],
+                "Kazakh": [
+                    "күн тұтылу"
+                ],
+                "Kyrgyz": [
+                    "күн тутулуу",
+                    "күн тутулушу"
+                ],
+                "Karakalpak": [
+                    "kún tutılıoı",
+                    "kún tutılıs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quyosh tutilishi"
+                ],
+                "Uyghur": [
+                    "قۇياش تۇتۇلۇش"
+                ],
+                "Tatar": [
+                    "кояш тотылу",
+                    "кояш караңгылану"
+                ],
+                "Bashkir": [
+                    "ҡояш тотолоуы",
+                    "ҡояш тотолош"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "küsuf"
+                ],
+                "Uzbek": [
+                    "kusoof"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күннің тұтылуы"
+                ]
+            }
+        }
+    ]
+}
+```
+

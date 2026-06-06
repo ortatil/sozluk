@@ -1,0 +1,84 @@
+{
+    "id": "i1289",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one-way",
+    "en_definition": "moving or permitting movement in one direction only",
+    "tr_word": "tek yönlü",
+    "tr_definition": "sadece tek bir yönde hareket eden veya hareket edilmesine izin veren",
+    "ru_word": "односторонний",
+    "ru_definition": "движущийся или разрешающий движение только в одном направлении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "biristiqamətli"
+                ],
+                "Turkmen": [
+                    "bir taraplaýyn",
+                    "bir ugra"
+                ],
+                "Uzbek": [
+                    "bir tomonlama",
+                    "bir yoqlama"
+                ],
+                "Uyghur": [
+                    "بىر تەرەپلىمە"
+                ],
+                "Kazakh": [
+                    "біржақты",
+                    "бір бағытты"
+                ],
+                "Kyrgyz": [
+                    "бир тараптуу",
+                    "бир багыттуу"
+                ],
+                "Karakalpak": [
+                    "bir táreple",
+                    "bir baǵdarlı"
+                ],
+                "Tatar": [
+                    "бер яклы",
+                    "бер юнәлешле"
+                ],
+                "Bashkir": [
+                    "бер яҡлы",
+                    "бер йүнәлешле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tek yönlü",
+                    "tek gidişli"
+                ],
+                "Azerbaijani": [
+                    "təktərəfli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "diňe bir tarapa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىر يۆنىلىشلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قايتىمسىز"
+                ]
+            }
+        }
+    ]
+}

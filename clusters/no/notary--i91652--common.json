@@ -1,0 +1,135 @@
+{
+    "id": "i91652",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "notary",
+    "en_definition": "someone legally empowered to witness signatures and certify a document's validity and to take depositions",
+    "tr_word": "noter",
+    "tr_definition": "belgelerin geçerliliğini onaylayan, imzaları tasdik eden ve yasal işlemler yapan yetkili kişi",
+    "ru_word": "нотариус",
+    "ru_definition": "лицо, уполномоченное совершать нотариальные действия, такие как свидетельствование верности подписей и копий документов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "noter"
+                ],
+                "Azerbaijani": [
+                    "notarius",
+                    "notariat"
+                ],
+                "Turkmen": [
+                    "notarius"
+                ],
+                "Uzbek": [
+                    "notarius"
+                ],
+                "Uyghur": [
+                    "نوتارىيۇس"
+                ],
+                "Kazakh": [
+                    "нотариус"
+                ],
+                "Kyrgyz": [
+                    "нотариус"
+                ],
+                "Karakalpak": [
+                    "notarius"
+                ],
+                "Tatar": [
+                    "нотариус"
+                ],
+                "Bashkir": [
+                    "нотариус"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tasdyklaýjy"
+                ],
+                "Uzbek": [
+                    "tasdiqlovchi"
+                ],
+                "Tatar": [
+                    "тәсдыйклаучы"
+                ],
+                "Bashkir": [
+                    "тәсдиҡлаусы",
+                    "таныҡлаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "katibiadil"
+                ],
+                "Kyrgyz": [
+                    "каттоочу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hujjatshunos"
+                ],
+                "Uyghur": [
+                    "ھۆججەت تەستىقلىغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۇۋاھچى"
+                ],
+                "Karakalpak": [
+                    "guoalandırıoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хатшы"
+                ],
+                "Karakalpak": [
+                    "xatker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şatnamaçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "куәландырушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күбөлөндүрүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "таныклаучы"
+                ]
+            }
+        }
+    ]
+}

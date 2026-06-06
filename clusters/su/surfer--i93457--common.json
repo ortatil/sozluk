@@ -1,0 +1,92 @@
+{
+    "id": "i93457",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "surfer",
+    "en_definition": "someone who engages in surfboarding",
+    "tr_word": "sörfçü",
+    "tr_definition": "sörf tahtası üzerinde dalgalara karşı kayan kimse",
+    "ru_word": "сёрфер",
+    "ru_definition": "человек, занимающийся сёрфингом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tolkun sürüjisi"
+                ],
+                "Uzbek": [
+                    "to'lqin uchuvchi",
+                    "to'lqin suzuvchisi"
+                ],
+                "Uyghur": [
+                    "دولقۇن تېيىلىش ماھىرى",
+                    "دولقۇن تېيىلغۇچى"
+                ],
+                "Kazakh": [
+                    "толқын қуушы",
+                    "толқынмен сырғанаушы"
+                ],
+                "Kyrgyz": [
+                    "толкунчу",
+                    "толкун сүзүүчү"
+                ],
+                "Karakalpak": [
+                    "tolqınshı",
+                    "tolqın ústinde sırǵanaushı"
+                ],
+                "Tatar": [
+                    "дулкыннарда шуучы"
+                ],
+                "Bashkir": [
+                    "тулҡынсы",
+                    "тулҡын үҙләштереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sörfçü",
+                    "sörf yapan"
+                ],
+                "Azerbaijani": [
+                    "sörfçü"
+                ],
+                "Turkmen": [
+                    "serfingçi"
+                ],
+                "Uzbek": [
+                    "syorfer"
+                ],
+                "Kazakh": [
+                    "серфер"
+                ],
+                "Kyrgyz": [
+                    "серфингчи"
+                ],
+                "Tatar": [
+                    "серфингчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dalga sörfçüsü"
+                ],
+                "Azerbaijani": [
+                    "dalğasürən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу таҡтаһында шыуыусы"
+                ]
+            }
+        }
+    ]
+}

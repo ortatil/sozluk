@@ -1,0 +1,89 @@
+{
+    "id": "i51940",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cinema",
+    "en_definition": "a theater where films are shown",
+    "tr_word": "sinema",
+    "tr_definition": "filmlerin gösterildiği salon veya bina",
+    "ru_word": "кинотеатр",
+    "ru_definition": "здание или помещение, оборудованное для показа кинофильмов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kino",
+                    "kinoteatr"
+                ],
+                "Turkmen": [
+                    "kinoteatr"
+                ],
+                "Uzbek": [
+                    "kinoxona"
+                ],
+                "Uyghur": [
+                    "كىنوخانا",
+                    "كىنو تىياتىرى"
+                ],
+                "Kazakh": [
+                    "кинотеатр",
+                    "киноүй",
+                    "кинохана"
+                ],
+                "Kyrgyz": [
+                    "кинотеатр",
+                    "киноүй",
+                    "кино"
+                ],
+                "Karakalpak": [
+                    "kinoteatr",
+                    "kinoxana"
+                ],
+                "Tatar": [
+                    "кинотеатр",
+                    "кинозал"
+                ],
+                "Bashkir": [
+                    "кинотеатр",
+                    "кинозал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sinema"
+                ],
+                "Azerbaijani": [
+                    "sinema"
+                ],
+                "Turkmen": [
+                    "sinema"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tamaşagah"
+                ],
+                "Uzbek": [
+                    "tomoshagoh"
+                ],
+                "Tatar": [
+                    "тамашаханә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz perde"
+                ]
+            }
+        }
+    ]
+}

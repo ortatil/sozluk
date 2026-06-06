@@ -1,0 +1,80 @@
+{
+    "id": "i63349",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "freezing point",
+    "en_definition": "the temperature below which a liquid turns into a solid",
+    "tr_word": "donma noktası",
+    "tr_definition": "bir sıvının katı hale geçtiği sıcaklık derecesi",
+    "ru_word": "точка замерзания",
+    "ru_definition": "температура, при которой жидкость превращается в твердое тело",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "donma noktası",
+                    "donma derecesi",
+                    "donma haddi"
+                ],
+                "Azerbaijani": [
+                    "donma nöqtəsi",
+                    "donma dərəcəsi",
+                    "donma həddi"
+                ],
+                "Turkmen": [
+                    "doňma nokady",
+                    "doňma derejesi"
+                ],
+                "Uyghur": [
+                    "توڭلاش نۇقتىسى"
+                ],
+                "Kyrgyz": [
+                    "тоңуу чекити",
+                    "тоңуу температурасы"
+                ],
+                "Tatar": [
+                    "туңу ноктасы",
+                    "туңу дәрәҗәсе"
+                ],
+                "Bashkir": [
+                    "туңыу нөктәһе",
+                    "туңыу температураһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qotish nuqtasi"
+                ],
+                "Kazakh": [
+                    "қату нүктесі",
+                    "қату температурасы"
+                ],
+                "Karakalpak": [
+                    "qatu núktesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muzlash nuqtasi",
+                    "muzlash harorati"
+                ],
+                "Uyghur": [
+                    "مۇزلاش نۇقتىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qatu temperaturası"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "i5921",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "icy",
+    "en_definition": "covered with or containing or consisting of ice",
+    "tr_word": "buzlu",
+    "tr_definition": "buzla kaplı veya içinde buz bulunan",
+    "ru_word": "ледяной",
+    "ru_definition": "покрытый льдом или состоящий из льда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buzlu",
+                    "buzul",
+                    "buz gibi"
+                ],
+                "Azerbaijani": [
+                    "buzlu",
+                    "buzluq",
+                    "buz"
+                ],
+                "Turkmen": [
+                    "buzly",
+                    "buz"
+                ],
+                "Tatar": [
+                    "бозлы",
+                    "бозланган",
+                    "бозлы-карлы"
+                ],
+                "Bashkir": [
+                    "боҙло",
+                    "боҙланған",
+                    "боҙаяҡлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "donmuş"
+                ],
+                "Azerbaijani": [
+                    "donmuş"
+                ],
+                "Turkmen": [
+                    "doň",
+                    "doňaklyk"
+                ],
+                "Kyrgyz": [
+                    "тоң"
+                ],
+                "Karakalpak": [
+                    "toń"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muzli",
+                    "muzlagan"
+                ],
+                "Uyghur": [
+                    "مۇزلۇق",
+                    "مۇزلىغان",
+                    "مۇز"
+                ],
+                "Kazakh": [
+                    "мұзды",
+                    "мұз",
+                    "мұздай"
+                ],
+                "Kyrgyz": [
+                    "муздак",
+                    "муздуу"
+                ],
+                "Karakalpak": [
+                    "mұzlı",
+                    "mұz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yaxlagan",
+                    "yax"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қатыгез"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "id": "i61290",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wristwatch",
+    "en_definition": "a watch that is worn strapped to the wrist",
+    "tr_word": "kol saati",
+    "tr_definition": "Bileğe bir kayış veya kordonla bağlanan küçük saat.",
+    "ru_word": "наручные часы",
+    "ru_definition": "Часы, носимые на запястье при помощи ремешка или браслета.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kol saati"
+                ],
+                "Azerbaijani": [
+                    "qol saatı"
+                ],
+                "Turkmen": [
+                    "gol sagady",
+                    "el sagady"
+                ],
+                "Uzbek": [
+                    "qo'lsoat"
+                ],
+                "Uyghur": [
+                    "قول سائىتى"
+                ],
+                "Kazakh": [
+                    "қолсағат"
+                ],
+                "Kyrgyz": [
+                    "кол саат"
+                ],
+                "Karakalpak": [
+                    "qol saat"
+                ],
+                "Tatar": [
+                    "кул сәгате"
+                ],
+                "Bashkir": [
+                    "ҡул сәғәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saat"
+                ],
+                "Azerbaijani": [
+                    "saat"
+                ],
+                "Uzbek": [
+                    "soat"
+                ],
+                "Uyghur": [
+                    "سائەت"
+                ],
+                "Kyrgyz": [
+                    "саат"
+                ],
+                "Bashkir": [
+                    "сәғәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "білек сағат"
+                ],
+                "Karakalpak": [
+                    "bilek saat"
+                ],
+                "Tatar": [
+                    "беләзек сәгате"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+# Rewrite
+| Field | Detail |
+|---|---|
+| **ID** | i26561 |
+| **English** | rewrite |
+| **Type** | verb |
+| **Definition** | write differently; alter the writing of |
+| **Source** | common |
+| **Ortatil** | ḍüzetmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍüzetmäk** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.57** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەھرىرلەش | tährirläş |
+| **Kazakh** | |
+| түзету | tüzetu |
+| өңдеу | öñdeu |
+| жаңарту | jañartu |
+| **Kyrgyz** | |
+| түзөтүү | tüzötüü |
+| жаңылоо | jañıloo |
+
+```json
+{
+    "id": "i26561",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "rewrite",
+    "en_definition": "write differently; alter the writing of",
+    "tr_word": "yeniden yazmak",
+    "tr_definition": "bir metni farklı bir şekilde veya değişiklik yaparak tekrar kaleme almak",
+    "ru_word": "переписывать",
+    "ru_definition": "писать что-либо заново или вносить изменения в существующий текст",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düzeltmek"
+                ],
+                "Turkmen": [
+                    "düzetmek"
+                ],
+                "Uyghur": [
+                    "تۈزىتىپ يېزىش"
+                ],
+                "Kazakh": [
+                    "түзету"
+                ],
+                "Kyrgyz": [
+                    "түзөтүү"
+                ],
+                "Karakalpak": [
+                    "túzetіp jazıu"
+                ],
+                "Tatar": [
+                    "төзәтеп язу"
+                ],
+                "Bashkir": [
+                    "төҙәтеп яҙыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "üýtgedip ýazmak"
+                ],
+                "Uzbek": [
+                    "o'zgartirib yozmoq"
+                ],
+                "Uyghur": [
+                    "ئۆزگەرتىپ يېزىش"
+                ],
+                "Kyrgyz": [
+                    "өзгөртүп жазуу"
+                ],
+                "Karakalpak": [
+                    "ózgertpelep jazıu"
+                ],
+                "Tatar": [
+                    "үзгәртеп язу"
+                ],
+                "Bashkir": [
+                    "үҙгәртеп яҙыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan ýazmak"
+                ],
+                "Uzbek": [
+                    "qayta yozmoq"
+                ],
+                "Uyghur": [
+                    "قايتا يېزىش"
+                ],
+                "Kazakh": [
+                    "қайта жазу"
+                ],
+                "Kyrgyz": [
+                    "кайра жазуу"
+                ],
+                "Karakalpak": [
+                    "qayta jazıp shıǵıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden yazmak"
+                ],
+                "Azerbaijani": [
+                    "yenidən yazmaq"
+                ],
+                "Kyrgyz": [
+                    "жаңылоо"
+                ],
+                "Tatar": [
+                    "яңадан язу"
+                ],
+                "Bashkir": [
+                    "яңынан яҙыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tashih etmek"
+                ],
+                "Azerbaijani": [
+                    "təzədən yazmaq"
+                ],
+                "Turkmen": [
+                    "täzeden ýazmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tahrir qilmoq"
+                ],
+                "Uyghur": [
+                    "تەھرىرلەش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tanzim etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəyişdirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "islah etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өңдеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаңарту"
+                ]
+            }
+        }
+    ]
+}
+```
+

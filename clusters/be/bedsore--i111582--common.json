@@ -1,0 +1,136 @@
+{
+    "id": "i111582",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bedsore",
+    "en_definition": "a chronic ulcer of the skin caused by prolonged pressure on it (as in bedridden patients)",
+    "tr_word": "yatak yarası",
+    "tr_definition": "Yatağa bağımlı hastalarda vücudun belirli bölgelerinin uzun süre baskı altında kalması sonucu oluşan deri ülseri.",
+    "ru_word": "пролежень",
+    "ru_definition": "Омертвение мягких тканей в результате постоянного давления, сопровождающегося нарушением кровообращения у лежачих больных.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yatak yarası"
+                ],
+                "Azerbaijani": [
+                    "yataq yarası"
+                ],
+                "Turkmen": [
+                    "ýatyr ýarasy"
+                ],
+                "Uzbek": [
+                    "yotoq yarasi"
+                ],
+                "Uyghur": [
+                    "يېتىپ قالغانلىق يارىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yara"
+                ],
+                "Kyrgyz": [
+                    "жара"
+                ],
+                "Karakalpak": [
+                    "jara"
+                ],
+                "Tatar": [
+                    "яра"
+                ],
+                "Bashkir": [
+                    "яра"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bası yarası",
+                    "basınç yarası"
+                ],
+                "Azerbaijani": [
+                    "basqı yarası"
+                ],
+                "Turkmen": [
+                    "basgy ýarasy"
+                ],
+                "Uyghur": [
+                    "بېسىم يارىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ojak"
+                ],
+                "Kazakh": [
+                    "ойық",
+                    "ойық жара"
+                ],
+                "Kyrgyz": [
+                    "оюлган жер",
+                    "оюк"
+                ],
+                "Karakalpak": [
+                    "oyıq",
+                    "oyıq jara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тишек"
+                ],
+                "Bashkir": [
+                    "тишек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئورۇن يارىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ойылу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тире ярасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "манҡа"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "id": "i9787",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "interfaith",
+    "en_definition": "involving persons of different religious faiths",
+    "tr_word": "dinler arası",
+    "tr_definition": "farklı dini inançlara sahip kişiler veya gruplar arasındaki ilişkileri veya etkileşimi kapsayan",
+    "ru_word": "межрелигиозный",
+    "ru_definition": "относящийся к взаимодействию представителей разных религий и вероисповеданий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dinler arası",
+                    "dinler üstü"
+                ],
+                "Azerbaijani": [
+                    "dinlərarası"
+                ],
+                "Turkmen": [
+                    "dinara",
+                    "dini"
+                ],
+                "Uzbek": [
+                    "dinlararo"
+                ],
+                "Uyghur": [
+                    "دىنلار ئارا",
+                    "دىنلار ئوتتۇرىسىدىكى"
+                ],
+                "Kazakh": [
+                    "дінаралық",
+                    "діндер аралық"
+                ],
+                "Kyrgyz": [
+                    "диндер аралык",
+                    "дин аралык"
+                ],
+                "Karakalpak": [
+                    "dinleraralıq",
+                    "dinler arasındaǵı"
+                ],
+                "Tatar": [
+                    "диннәрара",
+                    "диннәркүләм"
+                ],
+                "Bashkir": [
+                    "дин-ара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ko'p dinli"
+                ],
+                "Uyghur": [
+                    "كۆپ دىنلىق"
+                ],
+                "Kazakh": [
+                    "көпдінді"
+                ],
+                "Karakalpak": [
+                    "kóp dinli"
+                ],
+                "Tatar": [
+                    "күпдинле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məzhəblərarası"
+                ],
+                "Turkmen": [
+                    "mezhepara"
+                ],
+                "Uzbek": [
+                    "mazhablararo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beynelmilel dinî"
+                ],
+                "Azerbaijani": [
+                    "beynəldin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ара дини"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төрлө динле"
+                ]
+            }
+        }
+    ]
+}

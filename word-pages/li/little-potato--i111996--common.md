@@ -1,0 +1,137 @@
+# Little potato
+| Field | Detail |
+|---|---|
+| **ID** | i111996 |
+| **English** | little potato |
+| **Type** | noun |
+| **Definition** | rhizoctinia disease of potatoes |
+| **Source** | common |
+| **Ortatil** | rizoktonioz |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **rizoktonioz** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ризоктониоз | rizoktonioz |
+| **Kyrgyz** | |
+| ризоктониоз | rizoktonioz |
+
+```json
+{
+    "id": "i111996",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "little potato",
+    "en_definition": "rhizoctinia disease of potatoes",
+    "tr_word": "patates kök boğazı yanıklığı",
+    "tr_definition": "Patateslerde Rhizoctonia solani mantarının neden olduğu, yumruların küçük kalmasına ve gövdede siğil benzeri yapıların oluşmasına yol açan hastalık.",
+    "ru_word": "ризоктониоз картофеля",
+    "ru_definition": "Грибковое заболевание картофеля, вызываемое Rhizoctonia solani, приводящее к образованию мелких клубней и поражению стеблей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kartofun rizoktoniozu"
+                ],
+                "Turkmen": [
+                    "gara gootur",
+                    "kartof düwüni",
+                    "kartof gowşaklygy"
+                ],
+                "Uzbek": [
+                    "kartoshka rizoktoniozi",
+                    "qora qo'tir"
+                ],
+                "Kazakh": [
+                    "қара таз"
+                ],
+                "Kyrgyz": [
+                    "картошканын кара котуру"
+                ],
+                "Karakalpak": [
+                    "qara qotır"
+                ],
+                "Tatar": [
+                    "кара кутыр"
+                ],
+                "Bashkir": [
+                    "ҡара ҡутыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rizoktonia"
+                ],
+                "Kazakh": [
+                    "ризоктониоз"
+                ],
+                "Kyrgyz": [
+                    "ризоктониоз"
+                ],
+                "Karakalpak": [
+                    "kartoshka rizoktoniozı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәрәңге ризоктониозы"
+                ],
+                "Bashkir": [
+                    "бәрәңге ризоктониозы",
+                    "бәрәңге ҡутыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "patates kök boğazı yanıklığı",
+                    "patates siyah siğil hastalığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qara dəmrov"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياڭيۇ تۈگۈنچەك كېسىلى",
+                    "ياڭيۇ رىزوك تونىيوز كېسىلى"
+                ]
+            }
+        }
+    ]
+}
+```
+

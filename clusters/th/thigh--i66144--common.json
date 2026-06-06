@@ -1,0 +1,100 @@
+{
+    "id": "i66144",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "thigh",
+    "en_definition": "the part of the leg between the hip and the knee",
+    "tr_word": "uyluk",
+    "tr_definition": "bacağın kalça ile diz arasındaki bölümü",
+    "ru_word": "бедро",
+    "ru_definition": "часть ноги от таза до колена",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "son"
+                ],
+                "Uyghur": [
+                    "سان"
+                ],
+                "Kazakh": [
+                    "сан"
+                ],
+                "Kyrgyz": [
+                    "сан"
+                ],
+                "Karakalpak": [
+                    "san"
+                ],
+                "Tatar": [
+                    "сан"
+                ],
+                "Bashkir": [
+                    "сандыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "but"
+                ],
+                "Azerbaijani": [
+                    "bud"
+                ],
+                "Turkmen": [
+                    "but"
+                ],
+                "Uzbek": [
+                    "bud"
+                ],
+                "Tatar": [
+                    "бот"
+                ],
+                "Bashkir": [
+                    "бот"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uyluk"
+                ],
+                "Turkmen": [
+                    "uýluk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "omba"
+                ],
+                "Uyghur": [
+                    "وتاغ",
+                    "يوتا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жамбас"
+                ],
+                "Karakalpak": [
+                    "jambas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жоон сан"
+                ]
+            }
+        }
+    ]
+}

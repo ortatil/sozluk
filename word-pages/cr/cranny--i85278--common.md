@@ -1,0 +1,255 @@
+# Cranny
+| Field | Detail |
+|---|---|
+| **ID** | i85278 |
+| **English** | cranny |
+| **Type** | noun |
+| **Definition** | a small opening or crevice (especially in a rock face or wall) |
+| **Source** | common |
+| **Ortatil** | jarıq, ḍeşik |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jarıq** | **ḍeşik** | **qowuq** | **çatlak** | **qus** |
+|---|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ❌ | ❌ | ✅ |
+| Kyrgyz | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Karakalpak | ✅ | ✅ | ❌ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ | ❌ | ✅ |
+| *Oghuz Subtotal* | 1 | 1 | 0.67 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 0 | 0.50 | 0 | 0 |
+| *Qipchaq Subtotal* | 1 | 1 | 0 | 0 | 0.60 |
+| *In All* | ✅ |  |  |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |  |  |
+| **O'TQ** | **4** | **2.50** | **1.17** | **1** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| يېرىق | yeriq |
+| يوچۇق | yoçuq |
+| تۆشۈك | töşük |
+| كەمتۈك | kämtük |
+| **Kazakh** | |
+| жырық | jırıq |
+| жарықшақ | jarıqşaq |
+| тесік | tesik |
+| қуыс | quıs |
+| саңылау | sañılau |
+| **Kyrgyz** | |
+| жарака | jaraka |
+| тешик | teşik |
+| жылчык | jılçık |
+| коңул | koñul |
+| **Tatar** | |
+| ярык | yarık |
+| ертык | yertık |
+| тишек | tişek |
+| куыш | kuış |
+| **Bashkir** | |
+| ярыҡ | yarıq |
+| ерөк | yerök |
+| тишек | tişek |
+| ҡыуыш | qıuış |
+
+```json
+{
+    "id": "i85278",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cranny",
+    "en_definition": "a small opening or crevice (especially in a rock face or wall)",
+    "tr_word": "yarık",
+    "tr_definition": "özellikle bir kaya yüzeyinde veya duvarda bulunan küçük açıklık veya çatlak",
+    "ru_word": "трещина",
+    "ru_definition": "небольшое отверстие или щель (особенно в скале или стене)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarık"
+                ],
+                "Azerbaijani": [
+                    "yarıq"
+                ],
+                "Turkmen": [
+                    "jaýryk"
+                ],
+                "Uzbek": [
+                    "yorug'"
+                ],
+                "Uyghur": [
+                    "يېرىق"
+                ],
+                "Kazakh": [
+                    "жырық",
+                    "жарықшақ"
+                ],
+                "Kyrgyz": [
+                    "жарака"
+                ],
+                "Karakalpak": [
+                    "jarıq"
+                ],
+                "Tatar": [
+                    "ярык",
+                    "ертык"
+                ],
+                "Bashkir": [
+                    "ярыҡ",
+                    "ерөк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "delik"
+                ],
+                "Azerbaijani": [
+                    "dəlik"
+                ],
+                "Turkmen": [
+                    "deşik"
+                ],
+                "Kazakh": [
+                    "тесік"
+                ],
+                "Kyrgyz": [
+                    "тешик"
+                ],
+                "Karakalpak": [
+                    "tesіk"
+                ],
+                "Tatar": [
+                    "тишек"
+                ],
+                "Bashkir": [
+                    "тишек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çatlak"
+                ],
+                "Azerbaijani": [
+                    "çat"
+                ],
+                "Turkmen": [
+                    "gatlak"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kovuk"
+                ],
+                "Azerbaijani": [
+                    "oyuq"
+                ],
+                "Uyghur": [
+                    "يوچۇق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қуыс"
+                ],
+                "Karakalpak": [
+                    "quıs"
+                ],
+                "Bashkir": [
+                    "ҡыуыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yş"
+                ],
+                "Tatar": [
+                    "куыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саңылау"
+                ],
+                "Karakalpak": [
+                    "sańılau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "darz",
+                    "tirqish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kovak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toshbaqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆشۈك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كەمتۈك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жылчык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коңул"
+                ]
+            }
+        }
+    ]
+}
+```
+

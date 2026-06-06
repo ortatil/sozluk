@@ -1,0 +1,59 @@
+{
+    "id": "i17304",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "turkish",
+    "en_definition": "of or relating to or characteristic of Turkey or its people or language",
+    "tr_word": "Türk",
+    "tr_definition": "Türkiye, Türk halkı veya Türk dili ile ilgili olan",
+    "ru_word": "турецкий",
+    "ru_definition": "относящийся к Турции, её народу или языку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Türk",
+                    "Türkiyeli"
+                ],
+                "Azerbaijani": [
+                    "türk",
+                    "türkiyəli"
+                ],
+                "Turkmen": [
+                    "türk",
+                    "türkiýeli"
+                ],
+                "Uzbek": [
+                    "turk",
+                    "turkcha"
+                ],
+                "Uyghur": [
+                    "تۈرك",
+                    "تۈركچە"
+                ],
+                "Kazakh": [
+                    "түрік",
+                    "түрікше"
+                ],
+                "Kyrgyz": [
+                    "түрк",
+                    "түркиялык"
+                ],
+                "Karakalpak": [
+                    "túrk",
+                    "túrkiyalı"
+                ],
+                "Tatar": [
+                    "төрөк",
+                    "төркия"
+                ],
+                "Bashkir": [
+                    "төрөк",
+                    "төрөк теле",
+                    "төрөксә"
+                ]
+            }
+        }
+    ]
+}

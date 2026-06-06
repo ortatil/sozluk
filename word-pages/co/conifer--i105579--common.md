@@ -1,0 +1,158 @@
+# Conifer
+| Field | Detail |
+|---|---|
+| **ID** | i105579 |
+| **English** | conifer |
+| **Type** | noun |
+| **Definition** | any gymnospermous tree or shrub bearing cones |
+| **Source** | common |
+| **Ortatil** | qarağaydaşlar |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қылқанжапырақты | qılqanjapıraqtı |
+| **Kyrgyz** | |
+| карагай | karagay |
+| арча | arça |
+| **Tatar** | |
+| ылыслы | ılıslı |
+
+```json
+{
+    "id": "i105579",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "conifer",
+    "en_definition": "any gymnospermous tree or shrub bearing cones",
+    "tr_word": "kozalaklı ağaç",
+    "tr_definition": "Genellikle iğne yapraklı olan ve tohumlarını kozalak içinde taşıyan açık tohumlu ağaç veya çalı.",
+    "ru_word": "хвойное дерево",
+    "ru_definition": "Дерево или кустарник из группы голосеменных, образующее шишки и имеющее обычно игловидные листья.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iğne yapraklı"
+                ],
+                "Azerbaijani": [
+                    "iynəyarpaqlı"
+                ],
+                "Turkmen": [
+                    "iňňeýaprakly"
+                ],
+                "Kyrgyz": [
+                    "ийне жалбырактуу"
+                ],
+                "Karakalpak": [
+                    "iyne japıraqlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қылқанжапырақты",
+                    "қылқанды ағаш"
+                ],
+                "Karakalpak": [
+                    "qılqan japıraqlı"
+                ],
+                "Bashkir": [
+                    "ҡылғанлы ағас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kozalaklı ağaç"
+                ],
+                "Azerbaijani": [
+                    "qozalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qarag'aydoshlar"
+                ],
+                "Kyrgyz": [
+                    "карагай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ылыслы агач",
+                    "ылыслы"
+                ],
+                "Bashkir": [
+                    "ылыҫлы ағас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ibreli ağaç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pürli",
+                    "pürli agaç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ignabargli daraxt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يىڭنە يوپۇرماقلىق دەرەخ",
+                    "قوناقلىق دەرەخ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مەخروطىي دەرەخ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "арча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "нарат агачы"
+                ]
+            }
+        }
+    ]
+}
+```
+

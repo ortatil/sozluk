@@ -1,0 +1,87 @@
+{
+    "id": "i80472",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "string orchestra",
+    "en_definition": "an orchestra playing only stringed instruments",
+    "tr_word": "yaylı çalgılar orkestrası",
+    "tr_definition": "Sadece yaylı çalgılardan oluşan orkestra.",
+    "ru_word": "струнный оркестр",
+    "ru_definition": "Оркестр, состоящий исключительно из смычковых струнных инструментов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "кылдуу аспаптар оркестри",
+                    "кылдуу оркестр"
+                ],
+                "Tatar": [
+                    "кыллы оркестр"
+                ],
+                "Bashkir": [
+                    "ҡыллы оркестр",
+                    "ҡыллы музыкаль ансамбль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "simli orkestr",
+                    "simli çalğı dəstəsi"
+                ],
+                "Karakalpak": [
+                    "shekli orkestr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "torli orkestr",
+                    "torli cholg'ular orkestri"
+                ],
+                "Uyghur": [
+                    "تارلىق چالغۇلار ئوركېستىرى",
+                    "تارلىق چالغۇلار ئۆمىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ішекті аспаптар оркестрі",
+                    "ішекті оркестр"
+                ],
+                "Karakalpak": [
+                    "shekli saz ásbaplar orkestri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaylı çalgılar orkestrası",
+                    "yaylı sazlar orkestrası",
+                    "yaylılar topluluğu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kirişli sazandalar topary",
+                    "kirişli orkestr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыллы уен кораллары оркестры"
+                ]
+            }
+        }
+    ]
+}

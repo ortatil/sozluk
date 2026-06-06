@@ -1,0 +1,103 @@
+{
+    "id": "i97806",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "friction",
+    "en_definition": "the resistance encountered when one body is moved in contact with another",
+    "tr_word": "sürtünme",
+    "tr_definition": "bir cismin başka bir cisimle temas halindeyken hareket etmesi sırasında karşılaşılan direnç",
+    "ru_word": "трение",
+    "ru_definition": "сопротивление, возникающее при перемещении одного тела по поверхности другого",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürtünme",
+                    "sürtüşme"
+                ],
+                "Azerbaijani": [
+                    "sürtünmə",
+                    "sürtüşmə"
+                ],
+                "Turkmen": [
+                    "sürtülme",
+                    "sürtülme güýji",
+                    "sürtülme garşylygy"
+                ],
+                "Uzbek": [
+                    "surtilish"
+                ],
+                "Uyghur": [
+                    "سۈركىلىش",
+                    "سۈركىلىش كۈچى"
+                ],
+                "Kyrgyz": [
+                    "сүрүлүү",
+                    "сүрүлүү күчү",
+                    "сүрүлүш"
+                ],
+                "Tatar": [
+                    "сөртенү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ishqalanish",
+                    "ishqalanuv"
+                ],
+                "Karakalpak": [
+                    "ısqılasu"
+                ],
+                "Tatar": [
+                    "ышкылу",
+                    "ышкылыш"
+                ],
+                "Bashkir": [
+                    "ышҡылыу",
+                    "ышҡылыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temas"
+                ],
+                "Azerbaijani": [
+                    "təmas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үйкеліс",
+                    "үйкеліс күші",
+                    "үйкелу"
+                ],
+                "Karakalpak": [
+                    "súykelіs",
+                    "súykelіs kúshі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈرتكۈ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡаршылыҡ"
+                ]
+            }
+        }
+    ]
+}

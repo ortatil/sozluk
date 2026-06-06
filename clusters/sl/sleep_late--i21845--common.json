@@ -1,0 +1,121 @@
+{
+    "id": "i21845",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "sleep late",
+    "en_definition": "sleep later than usual or customary",
+    "tr_word": "geç kalkmak",
+    "tr_definition": "alışılmış olandan daha geç bir saatte uyanmak",
+    "ru_word": "проспать",
+    "ru_definition": "проснуться позже обычного или намеченного времени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geç uyanmak",
+                    "geç kalkmak"
+                ],
+                "Azerbaijani": [
+                    "gec oyanmaq",
+                    "gec qalxmaq"
+                ],
+                "Turkmen": [
+                    "giç turmak",
+                    "giç oýanmak"
+                ],
+                "Uzbek": [
+                    "kech uygʻonmoq"
+                ],
+                "Uyghur": [
+                    "كېچىكىپ قوپماق",
+                    "كېچىكىپ ئويغانماق"
+                ],
+                "Kazakh": [
+                    "кеш ояну"
+                ],
+                "Kyrgyz": [
+                    "кеч ойгонуу",
+                    "кеч туруу"
+                ],
+                "Karakalpak": [
+                    "kesh oyanıo"
+                ],
+                "Bashkir": [
+                    "кис йоҡлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "uzoq uxlamoq"
+                ],
+                "Uyghur": [
+                    "ئۇزۇن ئۇخلىماق"
+                ],
+                "Kazakh": [
+                    "ұзақ ұйықтау"
+                ],
+                "Kyrgyz": [
+                    "узак уктоо"
+                ],
+                "Karakalpak": [
+                    "uzaq uyqılao"
+                ],
+                "Tatar": [
+                    "озак йокларга"
+                ],
+                "Bashkir": [
+                    "оҙаҡ йоҡлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uykuya kalmak"
+                ],
+                "Uzbek": [
+                    "uyquga toʻymoq"
+                ],
+                "Kazakh": [
+                    "ұйқыны қандыру"
+                ],
+                "Karakalpak": [
+                    "uyqıǵa qalıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yuxudan gec durmaq"
+                ],
+                "Tatar": [
+                    "йокы туйганчы йокларга"
+                ],
+                "Bashkir": [
+                    "йоҡо туйҙырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "köp ýatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "соңга калып йокларга"
+                ]
+            }
+        }
+    ]
+}

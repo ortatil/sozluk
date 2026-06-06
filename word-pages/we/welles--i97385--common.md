@@ -1,0 +1,81 @@
+# Welles
+| Field | Detail |
+|---|---|
+| **ID** | i97385 |
+| **English** | welles |
+| **Type** | noun |
+| **Definition** | United States actor and filmmaker (1915-1985) |
+| **Source** | common |
+| **Ortatil** | uells |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| Уэллс | uells |
+
+```json
+{
+    "id": "i97385",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "welles",
+    "en_definition": "United States actor and filmmaker (1915-1985)",
+    "tr_word": "Welles",
+    "tr_definition": "Amerikalı aktör ve film yapımcısı (1915-1985)",
+    "ru_word": "Уэллс",
+    "ru_definition": "Американский актер и кинорежиссер (1915-1985)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Orson Welles"
+                ],
+                "Azerbaijani": [
+                    "Orson Uells"
+                ],
+                "Turkmen": [
+                    "Orson Welles"
+                ],
+                "Uzbek": [
+                    "Orson Uells"
+                ],
+                "Uyghur": [
+                    "ئورسون ۋېللىس"
+                ],
+                "Kazakh": [
+                    "Орсон Уэллс"
+                ],
+                "Kyrgyz": [
+                    "Орсон Уэллс"
+                ],
+                "Karakalpak": [
+                    "Orson Uells"
+                ],
+                "Tatar": [
+                    "Орсон Уэллс"
+                ],
+                "Bashkir": [
+                    "Орсон Уэллс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "Uells"
+                ],
+                "Tatar": [
+                    "Уэллс"
+                ]
+            }
+        }
+    ]
+}
+```
+

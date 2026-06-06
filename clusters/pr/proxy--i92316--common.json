@@ -1,0 +1,129 @@
+{
+    "id": "i92316",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "placeholder",
+    "en_definition": "a person authorized to act for another",
+    "tr_word": "vekil",
+    "tr_definition": "başkasının adına hareket etme yetkisi olan kimse",
+    "ru_word": "заместитель",
+    "ru_definition": "лицо, уполномоченное действовать от имени другого",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vekil"
+                ],
+                "Azerbaijani": [
+                    "vəkil",
+                    "vəkalətdar"
+                ],
+                "Turkmen": [
+                    "wekili",
+                    "wekil"
+                ],
+                "Uzbek": [
+                    "vakil"
+                ],
+                "Uyghur": [
+                    "ۋەكىل",
+                    "ۋاكالەتچى"
+                ],
+                "Kazakh": [
+                    "өкіл",
+                    "уәкіл"
+                ],
+                "Karakalpak": [
+                    "oákil"
+                ],
+                "Tatar": [
+                    "вәкил"
+                ],
+                "Bashkir": [
+                    "вәкил"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "naip"
+                ],
+                "Turkmen": [
+                    "naýyp"
+                ],
+                "Uzbek": [
+                    "noib"
+                ],
+                "Uyghur": [
+                    "نايىب"
+                ],
+                "Kyrgyz": [
+                    "наиб"
+                ],
+                "Karakalpak": [
+                    "naip"
+                ],
+                "Tatar": [
+                    "наиб"
+                ],
+                "Bashkir": [
+                    "наиб"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ishonchli vakil"
+                ],
+                "Kyrgyz": [
+                    "ишенимдүү киши"
+                ],
+                "Karakalpak": [
+                    "isenimli"
+                ],
+                "Tatar": [
+                    "ышанычлы"
+                ],
+                "Bashkir": [
+                    "ышаныслы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "canişin"
+                ],
+                "Kazakh": [
+                    "сенімді өкіл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temsilci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nümayəndə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өкүл"
+                ]
+            }
+        }
+    ]
+}

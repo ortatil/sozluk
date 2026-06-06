@@ -1,0 +1,135 @@
+{
+    "id": "i28283",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "mow",
+    "en_definition": "cut with a blade or mower",
+    "tr_word": "biçmek",
+    "tr_definition": "ot, ekin vb. şeyleri orak, tırpan veya makine ile kesmek",
+    "ru_word": "косить",
+    "ru_definition": "срезать траву или злаки косой или специальной машиной",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ormak"
+                ],
+                "Uzbek": [
+                    "o'rmoq"
+                ],
+                "Uyghur": [
+                    "ورماق"
+                ],
+                "Kazakh": [
+                    "ору"
+                ],
+                "Kyrgyz": [
+                    "орокто-"
+                ],
+                "Karakalpak": [
+                    "oru"
+                ],
+                "Tatar": [
+                    "урырга"
+                ],
+                "Bashkir": [
+                    "урыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kesmek"
+                ],
+                "Azerbaijani": [
+                    "kəsmək"
+                ],
+                "Uzbek": [
+                    "kesmoq"
+                ],
+                "Uyghur": [
+                    "كەسمەك"
+                ],
+                "Kazakh": [
+                    "кесу"
+                ],
+                "Karakalpak": [
+                    "kesiu"
+                ],
+                "Tatar": [
+                    "кисәргә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çapmak"
+                ],
+                "Uyghur": [
+                    "چاپماق"
+                ],
+                "Kazakh": [
+                    "шабу"
+                ],
+                "Kyrgyz": [
+                    "чап-"
+                ],
+                "Karakalpak": [
+                    "shabıu"
+                ],
+                "Tatar": [
+                    "чабарга"
+                ],
+                "Bashkir": [
+                    "сабыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyrmak"
+                ],
+                "Uzbek": [
+                    "qirqmoq"
+                ],
+                "Bashkir": [
+                    "ҡырҡыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "biçmek"
+                ],
+                "Azerbaijani": [
+                    "biçmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tırpanlamak"
+                ],
+                "Azerbaijani": [
+                    "təraş etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыя чап-"
+                ]
+            }
+        }
+    ]
+}

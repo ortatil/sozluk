@@ -1,0 +1,73 @@
+{
+    "id": "i93034",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "skier",
+    "en_definition": "someone who skis",
+    "tr_word": "kayakçı",
+    "tr_definition": "kayak yapan kimse",
+    "ru_word": "лыжник",
+    "ru_definition": "человек, который катается на лыжах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "changʻichi",
+                    "changʻi uchuvchi"
+                ],
+                "Kazakh": [
+                    "шаңғышы"
+                ],
+                "Karakalpak": [
+                    "shańǵıshı",
+                    "shańǵı aydaushı"
+                ],
+                "Tatar": [
+                    "чаңгычы",
+                    "чаңгыда шуучы"
+                ],
+                "Bashkir": [
+                    "саңғысы",
+                    "саңғылаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lyžaçy",
+                    "lyža sürýän"
+                ],
+                "Kyrgyz": [
+                    "лыжачы",
+                    "лыжа тебүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayakçı",
+                    "kayak yapan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xizəkçi",
+                    "xizəksürən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قار تېيىلىقچى",
+                    "قار تېيىلغۇچى"
+                ]
+            }
+        }
+    ]
+}

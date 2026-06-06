@@ -1,0 +1,124 @@
+# Peacekeeping
+| Field | Detail |
+|---|---|
+| **ID** | i40536 |
+| **English** | peacekeeping |
+| **Type** | noun |
+| **Definition** | the activity of keeping the peace by military forces (especially when international military forces enforce a truce between hostile groups or nations) |
+| **Source** | common |
+| **Ortatil** | tinçlikpärwärlik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| бітімгершілік | bitimgerşilik |
+| бітімгерлік | bitimgerlik |
+
+```json
+{
+    "id": "i40536",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "peacekeeping",
+    "en_definition": "the activity of keeping the peace by military forces (especially when international military forces enforce a truce between hostile groups or nations)",
+    "tr_word": "barışı koruma",
+    "tr_definition": "askeri güçler tarafından, özellikle uluslararası güçlerin çatışan taraflar arasındaki ateşkesi sürdürmesi yoluyla barışın korunması faaliyeti",
+    "ru_word": "миротворчество",
+    "ru_definition": "деятельность по поддержанию мира с помощью вооруженных сил, особенно когда международные силы обеспечивают соблюдение перемирия между враждующими сторонами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tinchlikni saqlash",
+                    "tinchlikparvarlik"
+                ],
+                "Uyghur": [
+                    "تىنچلىقنى ساقلاش",
+                    "تىنچلىقنى قوغداش",
+                    "تىنچلىقنى مۇھاپىزەت قىلىش"
+                ],
+                "Kyrgyz": [
+                    "тынчтык орнотуу",
+                    "тынчтыкты сактоо"
+                ],
+                "Karakalpak": [
+                    "tınıshlıqtı saqlao",
+                    "tınıshlıq ornatıo"
+                ],
+                "Tatar": [
+                    "тынычлык саклау",
+                    "тынычлык урнаштыру",
+                    "тынычлык урнаштыру эшчәнлеге"
+                ],
+                "Bashkir": [
+                    "тыныслыҡ һаҡлау",
+                    "тыныслыҡ урынлаштырыу",
+                    "тыныслыҡты яҡлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "barışı koruma",
+                    "barışın korunması",
+                    "barış muhafazası"
+                ],
+                "Turkmen": [
+                    "parahatçylygy goramak",
+                    "parahatçylygy saklamak",
+                    "parahatçylykly amallar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "asayişi temin"
+                ],
+                "Uzbek": [
+                    "osoyishtalikni saqlash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бітімгершілік",
+                    "бітімгерлік"
+                ],
+                "Karakalpak": [
+                    "bіtgershіlіk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейбітшілікті сақтау"
+                ],
+                "Kyrgyz": [
+                    "бейпилдик орнотуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sülhməramlılıq",
+                    "sülhüqoruma",
+                    "sülhü mühafizə",
+                    "sülhün qorunması"
+                ]
+            }
+        }
+    ]
+}
+```
+

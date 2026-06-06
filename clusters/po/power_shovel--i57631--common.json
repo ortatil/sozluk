@@ -1,0 +1,120 @@
+{
+    "id": "i57631",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "excavator",
+    "en_definition": "a machine for excavating",
+    "tr_word": "ekskavatör",
+    "tr_definition": "Toprak kazmak ve taşımak için kullanılan ağır iş makinesi.",
+    "ru_word": "экскаватор",
+    "ru_definition": "Землеройная машина, предназначенная для выемки и перемещения грунта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kazıcı"
+                ],
+                "Azerbaijani": [
+                    "qazıcı",
+                    "qazma maşını"
+                ],
+                "Turkmen": [
+                    "gazgyç",
+                    "gazýan maşyn"
+                ],
+                "Uzbek": [
+                    "qazigich"
+                ],
+                "Uyghur": [
+                    "قازغۇچ",
+                    "قازغۇچ ماشىنا"
+                ],
+                "Kazakh": [
+                    "қазғыш",
+                    "қазғыш машина"
+                ],
+                "Kyrgyz": [
+                    "казуучу машина"
+                ],
+                "Karakalpak": [
+                    "qazıǵısh",
+                    "qazǵısh"
+                ],
+                "Tatar": [
+                    "казу машинасы",
+                    "казыгыч"
+                ],
+                "Bashkir": [
+                    "ҡаҙығыс",
+                    "ҡаҙыу машинаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekskavatör"
+                ],
+                "Azerbaijani": [
+                    "ekskavator"
+                ],
+                "Turkmen": [
+                    "ekskawator"
+                ],
+                "Kyrgyz": [
+                    "экскаватор"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yerqazir"
+                ],
+                "Kazakh": [
+                    "жерқазғыш"
+                ],
+                "Kyrgyz": [
+                    "жер казгыч"
+                ],
+                "Karakalpak": [
+                    "jerqazǵısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇپراق قازغۇچ"
+                ],
+                "Tatar": [
+                    "туфрак казучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kepçe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iş makinesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kovlagich"
+                ]
+            }
+        }
+    ]
+}

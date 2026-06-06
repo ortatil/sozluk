@@ -1,0 +1,97 @@
+{
+    "id": "i64393",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "child's body",
+    "en_definition": "the body of a human child",
+    "tr_word": "çocuk vücudu",
+    "tr_definition": "bir insan çocuğunun bedeni",
+    "ru_word": "детское тело",
+    "ru_definition": "тело человеческого ребенка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bola vujudi",
+                    "bola tanasi"
+                ],
+                "Uyghur": [
+                    "بالا بەدىنى",
+                    "بالىنىڭ تېنى",
+                    "بالا جەسىتى"
+                ],
+                "Kazakh": [
+                    "бала денесі",
+                    "бала тұлғасы",
+                    "бала мүшесі"
+                ],
+                "Kyrgyz": [
+                    "баланын денеси",
+                    "баланын тулкусу",
+                    "баланын бою"
+                ],
+                "Karakalpak": [
+                    "balanıń denesi",
+                    "balanıń táne",
+                    "balanıń wujudı"
+                ],
+                "Tatar": [
+                    "бала гәүдәсе",
+                    "бала тәне",
+                    "бала вөҗүде"
+                ],
+                "Bashkir": [
+                    "бала тәне",
+                    "бала кәүҙәһе",
+                    "бала вужуды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "körpə bədəni"
+                ],
+                "Uzbek": [
+                    "go'dak tanasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çocuk vücudu",
+                    "çocuk bedeni",
+                    "çocuk teni",
+                    "çocuk bünyesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uşaq bədəni",
+                    "uşaq vücudu",
+                    "uşaq cəsədi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaga bedeni",
+                    "çaga göwresi",
+                    "çaga endamy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "go'dak vujudi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "id": "i8087",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "womanish",
+    "en_definition": "having characteristics associated with women and considered undesirable in men",
+    "tr_word": "kadınsı",
+    "tr_definition": "kadınlara özgü olan ve erkeklerde görüldüğünde hoş karşılanmayan özelliklere sahip",
+    "ru_word": "женственный",
+    "ru_definition": "обладающий чертами, свойственными женщинам и считающимися нежелательными для мужчин",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kadınsı",
+                    "kadınvari"
+                ],
+                "Azerbaijani": [
+                    "qadınsayağı"
+                ],
+                "Turkmen": [
+                    "hatynçaly"
+                ],
+                "Kazakh": [
+                    "қатынбас",
+                    "қатынмінез"
+                ],
+                "Karakalpak": [
+                    "xatınsha",
+                    "xatınshalı",
+                    "xatınsımaq"
+                ],
+                "Tatar": [
+                    "хатын-кызларча",
+                    "хатын-кызсыман",
+                    "хатын-кыз сыйфатлы"
+                ],
+                "Bashkir": [
+                    "ҡатын-ҡыҙҙарса",
+                    "ҡатын-ҡыҙға хас",
+                    "ҡатын-ҡыҙ һымаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zenane"
+                ],
+                "Azerbaijani": [
+                    "zənansifət"
+                ],
+                "Turkmen": [
+                    "zenansyfat",
+                    "zenanpisint"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ayolcha",
+                    "ayolsifat"
+                ],
+                "Kazakh": [
+                    "әйелше",
+                    "әйелмінез"
+                ],
+                "Kyrgyz": [
+                    "аялсымак",
+                    "аял мүнөз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "nozik"
+                ],
+                "Uyghur": [
+                    "نازىنىن"
+                ],
+                "Kyrgyz": [
+                    "назик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hanım evladı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "arvadxasiyyət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müənnəs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zaif"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خوتۇنچە",
+                    "خوتۇنمىجەز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йомшаҡ"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+# Hotel bill
+| Field | Detail |
+|---|---|
+| **ID** | i70712 |
+| **English** | hotel bill |
+| **Type** | noun |
+| **Definition** | statement of charges for staying in a hotel |
+| **Source** | common |
+| **Ortatil** | hasap |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i70712",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hotel bill",
+    "en_definition": "statement of charges for staying in a hotel",
+    "tr_word": "otel faturası",
+    "tr_definition": "bir otelde konaklama karşılığında ödenmesi gereken tutarları gösteren belge",
+    "ru_word": "счёт за гостиницу",
+    "ru_definition": "документ с указанием стоимости проживания и услуг в отеле",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konaklama faturası"
+                ],
+                "Azerbaijani": [
+                    "qonaqlama xərci"
+                ],
+                "Kazakh": [
+                    "қонақүй шоты",
+                    "қонақүй есебі"
+                ],
+                "Kyrgyz": [
+                    "конок үй эсеби"
+                ],
+                "Tatar": [
+                    "кунакханә хисабы",
+                    "кунакханә билеты"
+                ],
+                "Bashkir": [
+                    "ҡунаҡхана иҫәбе",
+                    "ҡунаҡхана хаҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mehmanxana hesabı"
+                ],
+                "Turkmen": [
+                    "myhmanhana hasaby"
+                ],
+                "Uzbek": [
+                    "mehmonxona hisobi",
+                    "mehmonxona to‘lovi"
+                ],
+                "Uyghur": [
+                    "مېھمانخانا ھېساباتى",
+                    "مېھمانخانا چىقىم تىزىملىكى",
+                    "مېھمانخانا تالونى"
+                ],
+                "Kyrgyz": [
+                    "мейманкана эсеби"
+                ],
+                "Karakalpak": [
+                    "miymanxana esabı",
+                    "miymanxana tólemi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töleg hasaby"
+                ],
+                "Kazakh": [
+                    "төлем шоты"
+                ],
+                "Kyrgyz": [
+                    "төлөм кагазы"
+                ],
+                "Tatar": [
+                    "түләү кәгазе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otel faturası",
+                    "otel hesabı"
+                ],
+                "Azerbaijani": [
+                    "otel hesabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hasap"
+                ],
+                "Uzbek": [
+                    "hisob-kitob",
+                    "hisob-faktura"
+                ]
+            }
+        }
+    ]
+}
+```
+

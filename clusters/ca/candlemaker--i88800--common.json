@@ -1,0 +1,76 @@
+{
+    "id": "i88800",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "candlemaker",
+    "en_definition": "a person who makes or sells candles",
+    "tr_word": "mumcu",
+    "tr_definition": "mum yapan veya satan kimse",
+    "ru_word": "свечник",
+    "ru_definition": "человек, который изготавливает или продает свечи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şemci"
+                ],
+                "Azerbaijani": [
+                    "şamçı",
+                    "şambaf"
+                ],
+                "Turkmen": [
+                    "şemçi",
+                    "şem ýasaýjy"
+                ],
+                "Uzbek": [
+                    "shammom",
+                    "shamchi",
+                    "shampaz"
+                ],
+                "Uyghur": [
+                    "شەمچى",
+                    "شەمكار"
+                ],
+                "Kyrgyz": [
+                    "шамчы",
+                    "шам жасоочу"
+                ],
+                "Karakalpak": [
+                    "shamshı",
+                    "sham jaratıoshı",
+                    "sham soǵıoshı"
+                ],
+                "Tatar": [
+                    "шәмче",
+                    "шәм ясаучы"
+                ],
+                "Bashkir": [
+                    "шәмсе",
+                    "шәм яһаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mumcu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шырақшы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "майшамшы"
+                ]
+            }
+        }
+    ]
+}

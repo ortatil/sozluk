@@ -1,0 +1,127 @@
+{
+    "id": "i71089",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "limited edition",
+    "en_definition": "an edition that is restricted to a specific number of copies",
+    "tr_word": "sınırlı sayıda üretim",
+    "tr_definition": "belirli bir sayıda kopyayla sınırlandırılmış baskı veya üretim",
+    "ru_word": "ограниченное издание",
+    "ru_definition": "издание, выпущенное строго определенным тиражом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çäkli neşir",
+                    "çäkli sany"
+                ],
+                "Uzbek": [
+                    "cheklangan nashr",
+                    "cheklangan adad"
+                ],
+                "Uyghur": [
+                    "چەكلىك نۇسخا"
+                ],
+                "Kyrgyz": [
+                    "чектелген нуска",
+                    "чектелген басылыш"
+                ],
+                "Karakalpak": [
+                    "sheklengen baspa",
+                    "sheklengen nusqa"
+                ],
+                "Tatar": [
+                    "чикләнгән басма",
+                    "чикле басма"
+                ],
+                "Bashkir": [
+                    "сикләнгән баҫма",
+                    "сикләнгән сығарылыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mahdut baskı"
+                ],
+                "Azerbaijani": [
+                    "məhdud sayda",
+                    "məhdud nəşr",
+                    "məhdud tiraj"
+                ],
+                "Turkmen": [
+                    "mahsus neşir"
+                ],
+                "Uzbek": [
+                    "maxsus nashr"
+                ],
+                "Uyghur": [
+                    "مەخسۇس نۇسخا"
+                ],
+                "Tatar": [
+                    "махсус басма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınırlı baskı"
+                ],
+                "Kyrgyz": [
+                    "саналган нуска"
+                ],
+                "Karakalpak": [
+                    "sanaulı nusqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özel baskı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kısıtlı sayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاز نۇسخا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шектеулі басылым",
+                    "шектеулі таралым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арнайы басылым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һайланма баҫма"
+                ]
+            }
+        }
+    ]
+}

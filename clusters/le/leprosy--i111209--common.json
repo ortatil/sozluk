@@ -1,0 +1,136 @@
+{
+    "id": "i111209",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "leprosy",
+    "en_definition": "chronic granulomatous communicable disease occurring in tropical and subtropical regions; characterized by inflamed nodules beneath the skin and wasting of body parts; caused by the bacillus Mycobacterium leprae",
+    "tr_word": "cüzzam",
+    "tr_definition": "Mycobacterium leprae bakterisinin neden olduğu, deri ve sinir sistemini etkileyen, vücutta şekil bozukluklarına yol açabilen kronik bir enfeksiyon hastalığı.",
+    "ru_word": "проказа",
+    "ru_definition": "Хроническое инфекционное заболевание, вызываемое микобактериями, характеризующееся поражением кожи, слизистых оболочек и периферической нервной системы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mora"
+                ],
+                "Uzbek": [
+                    "moxov"
+                ],
+                "Uyghur": [
+                    "ماخاۋ"
+                ],
+                "Kazakh": [
+                    "мақау"
+                ],
+                "Karakalpak": [
+                    "maxau",
+                    "maxaulıq"
+                ],
+                "Tatar": [
+                    "махау",
+                    "махау чире"
+                ],
+                "Bashkir": [
+                    "махау",
+                    "махау ауырыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cüzzam"
+                ],
+                "Azerbaijani": [
+                    "cüzzam"
+                ],
+                "Uzbek": [
+                    "juzom"
+                ],
+                "Uyghur": [
+                    "جۇزام"
+                ],
+                "Tatar": [
+                    "җөзам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "peslik"
+                ],
+                "Uyghur": [
+                    "پىس"
+                ],
+                "Kazakh": [
+                    "пес"
+                ],
+                "Kyrgyz": [
+                    "пес",
+                    "пестик"
+                ],
+                "Karakalpak": [
+                    "pes"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алапес"
+                ],
+                "Kyrgyz": [
+                    "алапес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "miskinlik hastalığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "abraşlık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "heýwere"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mähow",
+                    "mähowlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кызыл кулак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "лепра"
+                ]
+            }
+        }
+    ]
+}

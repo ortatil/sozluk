@@ -1,0 +1,137 @@
+# Jean-baptiste donatien de vimeur
+| Field | Detail |
+|---|---|
+| **ID** | i96735 |
+| **English** | jean-baptiste donatien de vimeur |
+| **Type** | noun |
+| **Definition** | French general who commanded French troops in the American Revolution, notably at Yorktown (1725-1807) |
+| **Source** | common |
+| **Ortatil** | roşambo |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **roşambo** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| روشانبو | roşanbo |
+| **Kyrgyz** | |
+| Рошамбо | roşambo |
+| **Tatar** | |
+| Рошамбо | roşambo |
+| **Bashkir** | |
+| Рошамбо | roşambo |
+
+```json
+{
+    "id": "i96735",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "jean-baptiste donatien de vimeur",
+    "en_definition": "French general who commanded French troops in the American Revolution, notably at Yorktown (1725-1807)",
+    "tr_word": "Jean-Baptiste Donatien de Vimeur",
+    "tr_definition": "Amerikan Devrimi'nde, özellikle Yorktown'da Fransız birliklerine komuta eden Fransız general (1725-1807)",
+    "ru_word": "Жан-Батист Донасьен де Вимё",
+    "ru_definition": "Французский генерал, командовавший французскими войсками в войне за независимость США, в частности при Йорктауне (1725-1807)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Rochambeau"
+                ],
+                "Azerbaijani": [
+                    "Roşambo",
+                    "Roşambo qrafı"
+                ],
+                "Turkmen": [
+                    "Roşambo"
+                ],
+                "Uzbek": [
+                    "Roshambo"
+                ],
+                "Uyghur": [
+                    "روشانبو"
+                ],
+                "Kazakh": [
+                    "Рошамбо графы"
+                ],
+                "Kyrgyz": [
+                    "Рошамбо"
+                ],
+                "Karakalpak": [
+                    "Roshambo"
+                ],
+                "Tatar": [
+                    "Рошамбо"
+                ],
+                "Bashkir": [
+                    "Рошамбо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Jean-Baptiste Donatien de Vimeur"
+                ],
+                "Azerbaijani": [
+                    "Jan-Batist Donatyen de Vimör"
+                ],
+                "Turkmen": [
+                    "Jan-Batist Donatýen de Wimýör"
+                ],
+                "Uzbek": [
+                    "Jan-Batist Donatyen de Vimer"
+                ],
+                "Uyghur": [
+                    "ژان باپتىست دوناتىئېن دې ۋىمېر"
+                ],
+                "Kazakh": [
+                    "Жан-Батист Рошамбо"
+                ],
+                "Kyrgyz": [
+                    "Жан-Батист Рошамбо",
+                    "Жан-Батист Донатьен де Вимёр"
+                ],
+                "Karakalpak": [
+                    "Jan-Batist Donaten de Wimyor"
+                ],
+                "Tatar": [
+                    "Жан-Батист Донатьен де Вимёр"
+                ],
+                "Bashkir": [
+                    "Жан-Батист Донатьен де Вимёр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kont Rochambeau"
+                ]
+            }
+        }
+    ]
+}
+```
+

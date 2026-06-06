@@ -1,0 +1,94 @@
+{
+    "id": "i112811",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "womanhood",
+    "en_definition": "the state of being an adult woman",
+    "tr_word": "kadınlık",
+    "tr_definition": "yetişkin bir kadın olma durumu",
+    "ru_word": "женственность",
+    "ru_definition": "состояние взрослой женщины",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kadınlık"
+                ],
+                "Azerbaijani": [
+                    "qadınlıq"
+                ],
+                "Turkmen": [
+                    "hatynlyk"
+                ],
+                "Uzbek": [
+                    "xotinlik"
+                ],
+                "Uyghur": [
+                    "خاتۇنلۇق"
+                ],
+                "Karakalpak": [
+                    "xatın-qızlıq"
+                ],
+                "Tatar": [
+                    "хатын-кызлык",
+                    "хатынлык"
+                ],
+                "Bashkir": [
+                    "ҡатын-ҡыҙлыҡ",
+                    "ҡатынлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aýallyk"
+                ],
+                "Uzbek": [
+                    "ayollik"
+                ],
+                "Uyghur": [
+                    "ئاياللىق",
+                    "ئاياللىق دەۋرى"
+                ],
+                "Kazakh": [
+                    "әйелдік",
+                    "әйел заты",
+                    "әйел болмыс"
+                ],
+                "Kyrgyz": [
+                    "аялдык",
+                    "аялзат",
+                    "айымдык"
+                ],
+                "Karakalpak": [
+                    "áyeldik",
+                    "áyel zatı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nisalık"
+                ],
+                "Azerbaijani": [
+                    "nisvanlıq"
+                ],
+                "Uzbek": [
+                    "nisvonlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zenanlyk"
+                ]
+            }
+        }
+    ]
+}

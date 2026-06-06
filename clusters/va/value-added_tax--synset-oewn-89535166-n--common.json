@@ -1,0 +1,81 @@
+{
+    "id": "synset-oewn-89535166-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "value-added tax",
+    "en_definition": "a tax based on the value of the goods collected by the end retailer",
+    "tr_word": "katma değer vergisi",
+    "tr_definition": "yapılan her türlü mal ve hizmet tesliminde, mal veya hizmeti teslim alanın, teslim edene ödediği vergi",
+    "ru_word": "налог на добавленную стоимость",
+    "ru_definition": "косвенный налог, форма изъятия в бюджет государства части стоимости товара, работы или услуги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşulan baha üçin salgyt",
+                    "goşulan baha salgydy"
+                ],
+                "Uzbek": [
+                    "qoʻshilgan qiymat soligʻi",
+                    "qoʻshimcha qiymat soligʻi"
+                ],
+                "Uyghur": [
+                    "قوشۇلما قىممەت بېجى",
+                    "قوشۇلما قىممەت سېلىقى"
+                ],
+                "Kazakh": [
+                    "қосылған құн салығы"
+                ],
+                "Kyrgyz": [
+                    "кошумча нарк салыгы",
+                    "кошумча баа салыгы"
+                ],
+                "Karakalpak": [
+                    "qosımsha qun salıǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үстеме құн салығы"
+                ],
+                "Karakalpak": [
+                    "ústeme baha salıǵı"
+                ],
+                "Tatar": [
+                    "өстәмә кыйммәткә салым",
+                    "өстәлгән кыйммәт салымы"
+                ],
+                "Bashkir": [
+                    "өҫтәмә ҡиммәткә һалым",
+                    "өҫтәлгән ҡиммәт һалымы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "katma değer vergisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ek değer vergisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əlavə dəyər vergisi",
+                    "əlavə qiymət vergisi"
+                ]
+            }
+        }
+    ]
+}

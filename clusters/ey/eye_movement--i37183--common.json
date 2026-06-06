@@ -1,0 +1,84 @@
+{
+    "id": "i37183",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eye movement",
+    "en_definition": "the movement of the eyes",
+    "tr_word": "göz hareketi",
+    "tr_definition": "gözlerin bir noktadan diğerine bakmak için yaptığı hareket",
+    "ru_word": "движение глаз",
+    "ru_definition": "перемещение глаз в орбитах для изменения направления взгляда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz hareketi"
+                ],
+                "Azerbaijani": [
+                    "göz hərəkəti",
+                    "göz tərpənişi"
+                ],
+                "Turkmen": [
+                    "göz hereketi",
+                    "gözüň hereketi"
+                ],
+                "Uzbek": [
+                    "koʻz harakati",
+                    "koʻz qimirlashi",
+                    "koʻz tebranishi"
+                ],
+                "Uyghur": [
+                    "كۆز ھەرىكىتى",
+                    "كۆزنىڭ مىدىرلىشى"
+                ],
+                "Kazakh": [
+                    "көздің қозғалуы",
+                    "көз қарасы"
+                ],
+                "Kyrgyz": [
+                    "көз кыймылы",
+                    "көз ирмеми",
+                    "көз жүгүртүү"
+                ],
+                "Karakalpak": [
+                    "kóz qozǵalısı",
+                    "kóz qarası"
+                ],
+                "Tatar": [
+                    "күз хәрәкәте",
+                    "күз уйнату",
+                    "күз йөртү"
+                ],
+                "Bashkir": [
+                    "күҙ ҡуҙғалышы",
+                    "күҙ хәрәкәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "göz oynaması"
+                ],
+                "Kazakh": [
+                    "көз қозғалысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bakış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kóz jumsau"
+                ]
+            }
+        }
+    ]
+}

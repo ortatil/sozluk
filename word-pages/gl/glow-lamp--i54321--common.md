@@ -1,0 +1,183 @@
+# Glow lamp
+| Field | Detail |
+|---|---|
+| **ID** | i54321 |
+| **English** | glow lamp |
+| **Type** | noun |
+| **Definition** | a gas-discharge tube with a hot cathode; used in stroboscopes |
+| **Source** | common |
+| **Ortatil** | carıqşam |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жарықшам | jarıqşam |
+| **Tatar** | |
+| яктырткыч | yaktırtkıç |
+
+```json
+{
+    "id": "i54321",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "glow lamp",
+    "en_definition": "a gas-discharge tube with a hot cathode; used in stroboscopes",
+    "tr_word": "akkor lamba",
+    "tr_definition": "stroboskoplarda kullanılan, sıcak katotlu bir gaz deşarj tüpü",
+    "ru_word": "лампа с горячим катодом",
+    "ru_definition": "газоразрядная трубка с горячим катодом, используемая в стробоскопах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gazlı lamba"
+                ],
+                "Azerbaijani": [
+                    "qazboşalma lampası"
+                ],
+                "Turkmen": [
+                    "gazly çyra"
+                ],
+                "Uzbek": [
+                    "gazli chiroq"
+                ],
+                "Uyghur": [
+                    "گازلىق چىراغ"
+                ],
+                "Kyrgyz": [
+                    "газдуу лампа"
+                ],
+                "Tatar": [
+                    "газлы лампа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "nurli chiroq"
+                ],
+                "Uyghur": [
+                    "نۇرلۇق لامپا"
+                ],
+                "Tatar": [
+                    "нурлы лампа"
+                ],
+                "Bashkir": [
+                    "нурлы лампа",
+                    "утлы лампа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýagtylandyryjy lamba"
+                ],
+                "Kazakh": [
+                    "жарқылдауық шам"
+                ],
+                "Kyrgyz": [
+                    "жарык берүүчү түтүк",
+                    "жарык берүүчү лампа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yaltiroq chiroq"
+                ],
+                "Tatar": [
+                    "яктырткыч"
+                ],
+                "Bashkir": [
+                    "яҡтыртҡыс лампа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ışık tüpü"
+                ],
+                "Azerbaijani": [
+                    "işıq lampası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жарықшам"
+                ],
+                "Karakalpak": [
+                    "jarıqsham"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сәулелі шам"
+                ],
+                "Karakalpak": [
+                    "sáulesham"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akkor lamba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deşarj lambası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "közərmə lampası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "elektrik çyrasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پارقىراق چىراغ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sham"
+                ]
+            }
+        }
+    ]
+}
+```
+

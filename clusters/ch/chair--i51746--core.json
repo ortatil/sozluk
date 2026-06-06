@@ -1,0 +1,109 @@
+{
+    "id": "i51746",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "chair",
+    "en_definition": "a seat for one person, with a support for the back",
+    "tr_word": "sandalye",
+    "tr_definition": "Arkalıklı, kolsuz, bir kişilik oturma eşyası.",
+    "ru_word": "стул",
+    "ru_definition": "Предмет мебели, предназначенный для сидения одного человека, со спинкой и обычно без подлокотников.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kürsü"
+                ],
+                "Azerbaijani": [
+                    "kürsü"
+                ],
+                "Turkmen": [
+                    "kürsi"
+                ],
+                "Uzbek": [
+                    "kursi"
+                ],
+                "Uyghur": [
+                    "كۆرسى"
+                ],
+                "Kazakh": [
+                    "кәрәсі"
+                ],
+                "Kyrgyz": [
+                    "курсу"
+                ],
+                "Karakalpak": [
+                    "kúrsi"
+                ],
+                "Tatar": [
+                    "кәрси"
+                ],
+                "Bashkir": [
+                    "кәрси"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻrindiq"
+                ],
+                "Uyghur": [
+                    "ئورۇندۇق"
+                ],
+                "Kazakh": [
+                    "орындық"
+                ],
+                "Karakalpak": [
+                    "orındıq"
+                ],
+                "Tatar": [
+                    "урындык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sandalye"
+                ],
+                "Azerbaijani": [
+                    "səndəl"
+                ],
+                "Turkmen": [
+                    "sanda"
+                ],
+                "Uzbek": [
+                    "sandali"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oturak"
+                ],
+                "Turkmen": [
+                    "oturgyç"
+                ],
+                "Kyrgyz": [
+                    "отургуч"
+                ],
+                "Bashkir": [
+                    "ултырғыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "stul"
+                ]
+            }
+        }
+    ]
+}

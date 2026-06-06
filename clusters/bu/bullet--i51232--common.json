@@ -1,0 +1,110 @@
+{
+    "id": "i51232",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bullet",
+    "en_definition": "a projectile that is fired from a gun",
+    "tr_word": "mermi",
+    "tr_definition": "Ateşli silahlardan atılan delici ve öldürücü madde.",
+    "ru_word": "пуля",
+    "ru_definition": "Небольшой металлический снаряд, выпускаемый из огнестрельного оружия.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ok"
+                ],
+                "Uzbek": [
+                    "oʻq"
+                ],
+                "Uyghur": [
+                    "ئوق"
+                ],
+                "Kazakh": [
+                    "оқ",
+                    "оқ-дәрі"
+                ],
+                "Kyrgyz": [
+                    "ок",
+                    "ок-дары"
+                ],
+                "Karakalpak": [
+                    "oq",
+                    "oq-dári"
+                ],
+                "Tatar": [
+                    "ук"
+                ],
+                "Bashkir": [
+                    "уҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurşun"
+                ],
+                "Uzbek": [
+                    "qoʻrgʻoshin"
+                ],
+                "Tatar": [
+                    "кургаш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mermi"
+                ],
+                "Azerbaijani": [
+                    "mərmi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "güllə"
+                ],
+                "Turkmen": [
+                    "gülle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пуля"
+                ],
+                "Bashkir": [
+                    "пуля"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fişek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "miltiq oʻqi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پاتروق"
+                ]
+            }
+        }
+    ]
+}

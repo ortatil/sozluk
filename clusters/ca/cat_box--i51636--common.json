@@ -1,0 +1,86 @@
+{
+    "id": "i51636",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cat box",
+    "en_definition": "a receptacle for cat excrement",
+    "tr_word": "kedi kumu kutusu",
+    "tr_definition": "kedilerin dışkılarını yapması için kullanılan, içine kum doldurulan kap",
+    "ru_word": "кошачий лоток",
+    "ru_definition": "емкость, предназначенная для отправления естественных нужд кошки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mushuk qutisi",
+                    "mushuk idishi",
+                    "mushuk qumloqi"
+                ],
+                "Uyghur": [
+                    "مۈشۈك ھاجەتخانىسى",
+                    "مۈشۈك قۇمى ساندۇقى"
+                ],
+                "Kazakh": [
+                    "мысық жәшігі",
+                    "мысық науасы",
+                    "мысық дәретханасы"
+                ],
+                "Kyrgyz": [
+                    "мышыктын идиши",
+                    "мышыктын дааратканасы",
+                    "мышыктын кутусу"
+                ],
+                "Karakalpak": [
+                    "mısıq jáshіgі",
+                    "mısıq ıdısı",
+                    "mısıq nauası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pişik qabı",
+                    "pişik tualeti"
+                ],
+                "Turkmen": [
+                    "pişik gutusy",
+                    "pişik gabyny",
+                    "pişik taby"
+                ],
+                "Bashkir": [
+                    "бесәй һауыты",
+                    "бесәй тартмаһы",
+                    "бесәй ятҡылығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kedi kumu kabı",
+                    "kedi tuvaleti",
+                    "kedi kutusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qum qabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәче савыты",
+                    "мәче ящигы",
+                    "мәче тартмасы"
+                ]
+            }
+        }
+    ]
+}

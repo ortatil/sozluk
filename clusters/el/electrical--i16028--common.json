@@ -1,0 +1,68 @@
+{
+    "id": "i16028",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "electrical",
+    "en_definition": "relating to or concerned with electricity",
+    "tr_word": "elektrikli",
+    "tr_definition": "elektrikle ilgili veya elektrikle çalışan",
+    "ru_word": "электрический",
+    "ru_definition": "относящийся к электричеству или работающий на нём",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrikli",
+                    "elektriksel"
+                ],
+                "Azerbaijani": [
+                    "elektrik",
+                    "elektrikli"
+                ],
+                "Turkmen": [
+                    "elektrik",
+                    "elektrikli"
+                ],
+                "Uzbek": [
+                    "elektrga oid",
+                    "elektrli"
+                ],
+                "Uyghur": [
+                    "ئېلېكتر",
+                    "ئېلېكترلىك"
+                ],
+                "Kazakh": [
+                    "электрлік",
+                    "электр"
+                ],
+                "Kyrgyz": [
+                    "электрдик",
+                    "электр"
+                ],
+                "Karakalpak": [
+                    "elektrli",
+                    "elektr"
+                ],
+                "Tatar": [
+                    "электр",
+                    "электрлы"
+                ],
+                "Bashkir": [
+                    "электр",
+                    "электрлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bərqli"
+                ],
+                "Uyghur": [
+                    "بەرقىي"
+                ]
+            }
+        }
+    ]
+}

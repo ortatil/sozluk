@@ -1,0 +1,93 @@
+{
+    "id": "i88608",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "boatbuilder",
+    "en_definition": "a person who builds boats",
+    "tr_word": "tekne yapımcısı",
+    "tr_definition": "tekne veya gemi inşa eden kişi",
+    "ru_word": "лодочный мастер",
+    "ru_definition": "человек, который строит лодки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gemi ustası"
+                ],
+                "Azerbaijani": [
+                    "gəmiqayıran"
+                ],
+                "Turkmen": [
+                    "gämiçi",
+                    "gämi guran",
+                    "gämi ýasaýjy"
+                ],
+                "Uzbek": [
+                    "kemasoz",
+                    "kema ustasi"
+                ],
+                "Uyghur": [
+                    "كېمىساز",
+                    "كېمە ياسىغۇچى"
+                ],
+                "Kazakh": [
+                    "кеме жасаушы",
+                    "кемеші"
+                ],
+                "Kyrgyz": [
+                    "кемечи",
+                    "кеме устасы"
+                ],
+                "Karakalpak": [
+                    "kemesoz",
+                    "keme jasaushı"
+                ],
+                "Bashkir": [
+                    "кәмә яһаусы",
+                    "кәмәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kayıkçı"
+                ],
+                "Azerbaijani": [
+                    "qayıqçı",
+                    "qayıq ustası"
+                ],
+                "Uzbek": [
+                    "qayiqsoz"
+                ],
+                "Kazakh": [
+                    "қайықшы"
+                ],
+                "Kyrgyz": [
+                    "кайык устасы"
+                ],
+                "Karakalpak": [
+                    "qayıqshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekne yapımcısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көймәче",
+                    "көймә ясаучы",
+                    "көймә остасы"
+                ]
+            }
+        }
+    ]
+}

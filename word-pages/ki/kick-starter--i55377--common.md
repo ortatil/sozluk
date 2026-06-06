@@ -1,0 +1,140 @@
+# Kick starter
+| Field | Detail |
+|---|---|
+| **ID** | i55377 |
+| **English** | kick starter |
+| **Type** | noun |
+| **Definition** | a starter (as on a motorcycle) that is activated with the foot and the weight of the body |
+| **Source** | common |
+| **Ortatil** | ḍepkiş |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍepkiş** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| тепкіш | tepkiş |
+
+```json
+{
+    "id": "i55377",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "kick starter",
+    "en_definition": "a starter (as on a motorcycle) that is activated with the foot and the weight of the body",
+    "tr_word": "marş pedalı",
+    "tr_definition": "Motosiklet gibi araçlarda motoru çalıştırmak için ayakla basılan düzenek.",
+    "ru_word": "кикстартер",
+    "ru_definition": "Рычаг на мотоцикле, предназначенный для запуска двигателя путём нажатия ногой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayak marşı",
+                    "ayakla çalıştırma"
+                ],
+                "Azerbaijani": [
+                    "ayaq marşı",
+                    "ayaq işəsalanı"
+                ],
+                "Turkmen": [
+                    "ayak otladyjy",
+                    "ayak starteri"
+                ],
+                "Uzbek": [
+                    "oyoq o't oldirgichi",
+                    "oyoq yurgizgichi"
+                ],
+                "Kazakh": [
+                    "аяқ отталдырғыш"
+                ],
+                "Karakalpak": [
+                    "ayaq ot aldırǵısh",
+                    "ayaq starter"
+                ],
+                "Tatar": [
+                    "аяк стартеры",
+                    "аяк белән кабызу җайланмасы",
+                    "аяк кабызгычы"
+                ],
+                "Bashkir": [
+                    "аяҡ стартеры",
+                    "аяҡ менән тоҡандырғыс",
+                    "аяҡ менән ебәргес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təpik marşı"
+                ],
+                "Turkmen": [
+                    "depgiç"
+                ],
+                "Uzbek": [
+                    "tepki"
+                ],
+                "Kazakh": [
+                    "тепкіш",
+                    "теппе отталдырғыш"
+                ],
+                "Kyrgyz": [
+                    "тепме от алдыргыч"
+                ],
+                "Karakalpak": [
+                    "tepkish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت ئوتالدۇرغۇچ"
+                ],
+                "Kyrgyz": [
+                    "бут от алдыргыч",
+                    "бут стартер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pedallı marş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت دەسسەپ ئوتالدۇرغۇچ",
+                    "پۇت مارشى"
+                ]
+            }
+        }
+    ]
+}
+```
+

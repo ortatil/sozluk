@@ -1,0 +1,114 @@
+{
+    "id": "i65992",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trachea",
+    "en_definition": "membranous tube with cartilaginous rings that conveys inhaled air from the larynx to the bronchi",
+    "tr_word": "soluk borusu",
+    "tr_definition": "Havanın akciğerlere girmesini ve çıkmasını sağlayan, kıkırdak halkalardan oluşan kanal.",
+    "ru_word": "трахея",
+    "ru_definition": "Дыхательное горло, хрящевая трубка, соединяющая гортань с бронхами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kekirdak"
+                ],
+                "Uyghur": [
+                    "كېكىردەك"
+                ],
+                "Kazakh": [
+                    "кеңірдек"
+                ],
+                "Kyrgyz": [
+                    "кекиртек"
+                ],
+                "Karakalpak": [
+                    "keńіrdek"
+                ],
+                "Tatar": [
+                    "кикертүк"
+                ],
+                "Bashkir": [
+                    "кикерткә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nefes borusu"
+                ],
+                "Azerbaijani": [
+                    "nəfəs borusu"
+                ],
+                "Uzbek": [
+                    "nafas yoʻli"
+                ],
+                "Uyghur": [
+                    "نەپەس يولى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dem alyş ýoly"
+                ],
+                "Kazakh": [
+                    "демтүтік"
+                ],
+                "Kyrgyz": [
+                    "дем түтүк"
+                ],
+                "Karakalpak": [
+                    "dem tútіk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bokurdak"
+                ],
+                "Tatar": [
+                    "бугаз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тын көпшәсе"
+                ],
+                "Bashkir": [
+                    "тын юлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soluk borusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qırtlaq borusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "traheýa"
+                ]
+            }
+        }
+    ]
+}

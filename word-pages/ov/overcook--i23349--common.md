@@ -1,0 +1,192 @@
+# Overcook
+| Field | Detail |
+|---|---|
+| **ID** | i23349 |
+| **English** | overcook |
+| **Type** | verb |
+| **Definition** | cook too long |
+| **Source** | common |
+| **Ortatil** | haşlamaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| күйдіру | küydiru |
+
+```json
+{
+    "id": "i23349",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "overcook",
+    "en_definition": "cook too long",
+    "tr_word": "fazla pişirmek",
+    "tr_definition": "bir yiyeceği gereğinden fazla süre ateşte tutmak",
+    "ru_word": "переварить",
+    "ru_definition": "готовить пищу слишком долго, доводя до чрезмерной мягкости или сухости",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ötürip bişirmek"
+                ],
+                "Uzbek": [
+                    "o'tkazib yubormoq"
+                ],
+                "Uyghur": [
+                    "ئۆتۈپ پىشۇرماق"
+                ],
+                "Kazakh": [
+                    "өтіп кету"
+                ],
+                "Kyrgyz": [
+                    "өтө бышыруу"
+                ],
+                "Karakalpak": [
+                    "ótіp ketu"
+                ],
+                "Bashkir": [
+                    "үтә бешереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئارتۇق پىشۇرماق"
+                ],
+                "Kazakh": [
+                    "асыра пісіру"
+                ],
+                "Kyrgyz": [
+                    "ашыра бышыруу"
+                ],
+                "Karakalpak": [
+                    "asıra pіsіru"
+                ],
+                "Tatar": [
+                    "артык пешерү"
+                ],
+                "Bashkir": [
+                    "артыҡ бешереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fazla pişirmek"
+                ],
+                "Azerbaijani": [
+                    "bişib keçmək",
+                    "bişib əzilmək"
+                ],
+                "Turkmen": [
+                    "bişirip geçirmek"
+                ],
+                "Tatar": [
+                    "пешереп бетерү"
+                ],
+                "Bashkir": [
+                    "бешеп сығыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köp bişirmek"
+                ],
+                "Uzbek": [
+                    "ko'p pishirmoq"
+                ],
+                "Tatar": [
+                    "күп пешерү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çok pişirmek"
+                ],
+                "Azerbaijani": [
+                    "çox bişirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ezib yubormoq"
+                ],
+                "Kyrgyz": [
+                    "эзилип кетүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "езіліп кету"
+                ],
+                "Karakalpak": [
+                    "ezіlіp ketu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haşlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yakmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həddindən artıq bişirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko'p qaynatmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زىيادە پىشۇرماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күйдіру"
+                ]
+            }
+        }
+    ]
+}
+```
+

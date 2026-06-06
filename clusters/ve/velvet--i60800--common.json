@@ -1,0 +1,117 @@
+{
+    "id": "i60800",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "velvet",
+    "en_definition": "a silky densely piled fabric with a plain back",
+    "tr_word": "kadife",
+    "tr_definition": "yüzeyi sık tüylü, yumuşak ve parlak bir kumaş türü",
+    "ru_word": "бархат",
+    "ru_definition": "ткань с густым коротким ворсом на лицевой стороне",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məxmər"
+                ],
+                "Turkmen": [
+                    "mahmal"
+                ],
+                "Uyghur": [
+                    "مەخمەل"
+                ],
+                "Kazakh": [
+                    "мақпал"
+                ],
+                "Karakalpak": [
+                    "maqpal"
+                ],
+                "Tatar": [
+                    "мәхмүр"
+                ],
+                "Bashkir": [
+                    "мәхмәл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "barhat"
+                ],
+                "Kazakh": [
+                    "барқыт"
+                ],
+                "Kyrgyz": [
+                    "баркыт"
+                ],
+                "Karakalpak": [
+                    "barqıt"
+                ],
+                "Tatar": [
+                    "бәрхет"
+                ],
+                "Bashkir": [
+                    "бәрхәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kadife"
+                ],
+                "Azerbaijani": [
+                    "qədifə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "baxmal"
+                ],
+                "Uyghur": [
+                    "بەقەسەم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çuha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "duxoba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kimxob"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыжым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "манат"
+                ]
+            }
+        }
+    ]
+}

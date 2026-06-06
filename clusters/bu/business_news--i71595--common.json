@@ -1,0 +1,146 @@
+{
+    "id": "i71595",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "business news",
+    "en_definition": "news about businesses and investments",
+    "tr_word": "ekonomi haberleri",
+    "tr_definition": "iş dünyası ve yatırımlar hakkındaki haberler",
+    "ru_word": "деловые новости",
+    "ru_definition": "новости о бизнесе и инвестициях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iş dünyası haberleri"
+                ],
+                "Azerbaijani": [
+                    "iş dünyası xəbərləri"
+                ],
+                "Turkmen": [
+                    "işewürlik habarlary"
+                ],
+                "Kazakh": [
+                    "іскерлік жаңалықтар"
+                ],
+                "Kyrgyz": [
+                    "ишкердик кабарлар",
+                    "ишкердик жаңылыктар"
+                ],
+                "Karakalpak": [
+                    "isbilermenlik xabarları",
+                    "isler xabarı"
+                ],
+                "Tatar": [
+                    "эшлекле хәбәрләр"
+                ],
+                "Bashkir": [
+                    "эшлекле хәбәрҙәр",
+                    "эшлекле яңылыҡтар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söwda habarlary"
+                ],
+                "Uzbek": [
+                    "savdo xabarlari"
+                ],
+                "Uyghur": [
+                    "سودا خەۋەرلىرى"
+                ],
+                "Kazakh": [
+                    "сауда хабарлары"
+                ],
+                "Kyrgyz": [
+                    "соода кабарлары"
+                ],
+                "Karakalpak": [
+                    "saoda xabarları"
+                ],
+                "Tatar": [
+                    "сәүдә хәбәрләре"
+                ],
+                "Bashkir": [
+                    "сауҙа хәбәрҙәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekonomi haberleri",
+                    "iktisat haberleri"
+                ],
+                "Turkmen": [
+                    "ykdysady habarlar"
+                ],
+                "Uzbek": [
+                    "iqtisodiy xabarlar",
+                    "iqtisodiy yangiliklar"
+                ],
+                "Uyghur": [
+                    "ئىقتىساد خەۋەرلىرى"
+                ],
+                "Tatar": [
+                    "икътисад хәбәрләре"
+                ],
+                "Bashkir": [
+                    "иҡтисад яңылыҡтары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ticaret haberleri"
+                ],
+                "Azerbaijani": [
+                    "ticarət xəbərləri"
+                ],
+                "Turkmen": [
+                    "täjirçilik habarlary"
+                ],
+                "Uzbek": [
+                    "tijorat xabarlari"
+                ],
+                "Uyghur": [
+                    "تىجارەت خەۋەرلىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәсіпкерлік хабарлар"
+                ],
+                "Karakalpak": [
+                    "kásipkerlik jańalıqları"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "экономикалық жаңалықтар"
+                ],
+                "Kyrgyz": [
+                    "экономикалык кабарлар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iqtisadi xəbərlər"
+                ]
+            }
+        }
+    ]
+}

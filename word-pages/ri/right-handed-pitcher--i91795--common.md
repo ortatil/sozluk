@@ -1,0 +1,90 @@
+# Right-handed pitcher
+| Field | Detail |
+|---|---|
+| **ID** | i91795 |
+| **English** | right-handed pitcher |
+| **Type** | noun |
+| **Definition** | (baseball) a pitcher who throws with the right hand |
+| **Source** | common |
+| **Ortatil** | sakqa |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i91795",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "right-handed pitcher",
+    "en_definition": "(baseball) a pitcher who throws with the right hand",
+    "tr_word": "sağlak atıcı",
+    "tr_definition": "beyzbolda topu sağ eliyle fırlatan atıcı",
+    "ru_word": "правша-питчер",
+    "ru_definition": "в бейсболе — подающий игрок, который бросает мяч правой рукой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻng qoʻlli uloqtiruvchi",
+                    "oʻng qoʻlli toʻp otuvchi"
+                ],
+                "Uyghur": [
+                    "ئوڭ قوللۇق توپچى",
+                    "ئوڭ قوللۇق توپ ئاتقۇچى"
+                ],
+                "Kazakh": [
+                    "оңқай лақтырушы",
+                    "оң қолды лақтырушы"
+                ],
+                "Kyrgyz": [
+                    "оң колдуу топ ыргытуучу",
+                    "оң колдуу питчер"
+                ],
+                "Karakalpak": [
+                    "oń qollı laqtırıoshı",
+                    "ońqay laqtırıoshı"
+                ],
+                "Tatar": [
+                    "уң куллы ыргытучы"
+                ],
+                "Bashkir": [
+                    "уң ҡуллы ташлаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağlak atıcı",
+                    "sağ elini kullanan atıcı",
+                    "sağak fırlatıcı"
+                ],
+                "Azerbaijani": [
+                    "sağaxay atıcı",
+                    "sağ əlli atıcı"
+                ],
+                "Turkmen": [
+                    "sagak",
+                    "sag el bilen zyňyjy",
+                    "sagak zyňyjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "уң куллы чөюче"
+                ],
+                "Bashkir": [
+                    "уң ҡуллы һелтәүсе"
+                ]
+            }
+        }
+    ]
+}
+```
+

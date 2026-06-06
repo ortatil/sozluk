@@ -1,0 +1,141 @@
+# Market day
+| Field | Detail |
+|---|---|
+| **ID** | i116959 |
+| **English** | market day |
+| **Type** | noun |
+| **Definition** | a fixed day for holding a public market |
+| **Source** | common |
+| **Ortatil** | ḅazar |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḅazar** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| базар | bazar |
+
+```json
+{
+    "id": "i116959",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "market day",
+    "en_definition": "a fixed day for holding a public market",
+    "tr_word": "pazar günü",
+    "tr_definition": "halka açık bir pazarın kurulması için belirlenmiş sabit gün",
+    "ru_word": "базарный день",
+    "ru_definition": "установленный день для проведения публичной торговли на рынке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pazar günü",
+                    "pazar"
+                ],
+                "Azerbaijani": [
+                    "bazar günü"
+                ],
+                "Turkmen": [
+                    "bazar güni"
+                ],
+                "Uzbek": [
+                    "bozor kuni",
+                    "bozor"
+                ],
+                "Uyghur": [
+                    "بازار كۈنى"
+                ],
+                "Kazakh": [
+                    "базар күні"
+                ],
+                "Kyrgyz": [
+                    "базар күнү",
+                    "базар"
+                ],
+                "Karakalpak": [
+                    "bazar kúni",
+                    "bazar"
+                ],
+                "Tatar": [
+                    "базар көне"
+                ],
+                "Bashkir": [
+                    "баҙар көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жәрмеңке күні"
+                ],
+                "Tatar": [
+                    "ярминкә көне"
+                ],
+                "Bashkir": [
+                    "йәрминкә көнө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sergi günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "quruluş günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "alış-veriş günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "söwda güni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پەيشەنبە بازار",
+                    "يەكشەنبە بازار"
+                ]
+            }
+        }
+    ]
+}
+```
+

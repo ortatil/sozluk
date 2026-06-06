@@ -1,0 +1,118 @@
+{
+    "id": "i117106",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "common year",
+    "en_definition": "a year that is not a leap year",
+    "tr_word": "artık olmayan yıl",
+    "tr_definition": "366 gün yerine 365 günü olan, şubat ayının 28 gün sürdüğü yıl",
+    "ru_word": "невисокосный год",
+    "ru_definition": "календарный год, количество дней в котором равно 365",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basit yıl",
+                    "adi yıl"
+                ],
+                "Uzbek": [
+                    "oddiy yil"
+                ],
+                "Uyghur": [
+                    "ئادەتتىكى يىل",
+                    "ئادەتتىكىچە يىل"
+                ],
+                "Karakalpak": [
+                    "ádettegi jıl"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "adi il"
+                ],
+                "Turkmen": [
+                    "adaty ýyl"
+                ],
+                "Tatar": [
+                    "гади ел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "normal yıl"
+                ],
+                "Azerbaijani": [
+                    "normal il"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жай жыл"
+                ],
+                "Bashkir": [
+                    "ябай йыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жөнөкөй жыл"
+                ],
+                "Karakalpak": [
+                    "jónókey jıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "beýleki ýyl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shamsiy yil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қарапайым жыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "толук эмес жыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыска ел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "кәбисә түгел йыл"
+                ]
+            }
+        }
+    ]
+}

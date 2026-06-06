@@ -1,0 +1,214 @@
+# Modern times
+| Field | Detail |
+|---|---|
+| **ID** | i116657 |
+| **English** | modern times |
+| **Type** | noun |
+| **Definition** | the circumstances and ideas of the present age |
+| **Source** | common |
+| **Ortatil** | zämänä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **zämänä** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.03** |
+
+```json
+{
+    "id": "i116657",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "modern times",
+    "en_definition": "the circumstances and ideas of the present age",
+    "tr_word": "modern zamanlar",
+    "tr_definition": "günümüz çağının koşulları ve fikirleri",
+    "ru_word": "новое время",
+    "ru_definition": "обстоятельства и идеи современной эпохи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "häzirki zaman"
+                ],
+                "Uzbek": [
+                    "hozirgi zamon"
+                ],
+                "Uyghur": [
+                    "ھازىرقى زامان"
+                ],
+                "Kazakh": [
+                    "қазіргі заман"
+                ],
+                "Karakalpak": [
+                    "xázirgi zaman"
+                ],
+                "Tatar": [
+                    "хәзерге заман",
+                    "хәзерге чор"
+                ],
+                "Bashkir": [
+                    "хәҙерге заман",
+                    "хәҙерге дәүер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bugungi kun"
+                ],
+                "Uyghur": [
+                    "بۈگۈنكى كۈن"
+                ],
+                "Kazakh": [
+                    "бүгінгі күн"
+                ],
+                "Karakalpak": [
+                    "búgingi kún"
+                ],
+                "Tatar": [
+                    "бүгенге көн"
+                ],
+                "Bashkir": [
+                    "бөгөнгө көн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "يېڭى دەۋر"
+                ],
+                "Kazakh": [
+                    "жаңа заман"
+                ],
+                "Kyrgyz": [
+                    "жаңы доор"
+                ],
+                "Tatar": [
+                    "яңа заман"
+                ],
+                "Bashkir": [
+                    "яңы заман"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şimdiki zaman"
+                ],
+                "Azerbaijani": [
+                    "zəmanə"
+                ],
+                "Uzbek": [
+                    "zamonaviylik"
+                ],
+                "Karakalpak": [
+                    "zaman"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asri zamanlar"
+                ],
+                "Uzbek": [
+                    "asr"
+                ],
+                "Kyrgyz": [
+                    "азыркы заман",
+                    "азыркы убакыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çağdaş zamanlar"
+                ],
+                "Azerbaijani": [
+                    "çağdaş dövr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täze döwür"
+                ],
+                "Karakalpak": [
+                    "dáoir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "осы заман"
+                ],
+                "Kyrgyz": [
+                    "ушул заман"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "modern zamanlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "günümüz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müasir dövr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "indiki zaman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şu wagtlar"
+                ]
+            }
+        }
+    ]
+}
+```
+

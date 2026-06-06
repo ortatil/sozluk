@@ -1,0 +1,202 @@
+# Kidnap
+| Field | Detail |
+|---|---|
+| **ID** | i29074 |
+| **English** | kidnap |
+| **Type** | verb |
+| **Definition** | take away to an undisclosed location against their will and usually in order to extract a ransom |
+| **Source** | common |
+| **Ortatil** | qaçırmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **urlamaq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ұрлау | urlau |
+| тұтқындау | tutqındau |
+| **Kyrgyz** | |
+| уурдоо | uurdoo |
+| **Tatar** | |
+| урлау | urlau |
+| **Bashkir** | |
+| урлау | urlau |
+| ҡасырыу | qasırıu |
+
+```json
+{
+    "id": "i29074",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "kidnap",
+    "en_definition": "take away to an undisclosed location against their will and usually in order to extract a ransom",
+    "tr_word": "kaçırmak",
+    "tr_definition": "Bir kimseyi zor kullanarak veya hile ile bir yere götürmek, alıkoymak.",
+    "ru_word": "похищать",
+    "ru_definition": "Тайный или открытый захват человека против его воли, часто с целью выкупа.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alıkoymak"
+                ],
+                "Uzbek": [
+                    "olib qochmoq"
+                ],
+                "Kazakh": [
+                    "алып қашу"
+                ],
+                "Kyrgyz": [
+                    "ала качуу"
+                ],
+                "Karakalpak": [
+                    "alıp qashıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ұрлау"
+                ],
+                "Kyrgyz": [
+                    "уурдоо"
+                ],
+                "Karakalpak": [
+                    "urlap ketio"
+                ],
+                "Tatar": [
+                    "урлау"
+                ],
+                "Bashkir": [
+                    "урлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adam kaçırmak"
+                ],
+                "Azerbaijani": [
+                    "adam oğurlamaq"
+                ],
+                "Turkmen": [
+                    "adam ogurlamak"
+                ],
+                "Uyghur": [
+                    "ئادەم قاچۇرۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qaçırmaq"
+                ],
+                "Bashkir": [
+                    "ҡасырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "girov götürmək"
+                ],
+                "Turkmen": [
+                    "girewe almak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇتۇپ كېتىش"
+                ],
+                "Kazakh": [
+                    "тұтқындау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۆرە تۇتۇش"
+                ],
+                "Kyrgyz": [
+                    "барымтага алуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көчләп алып китү"
+                ],
+                "Bashkir": [
+                    "көсләп алып китеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rehin almak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'g'irlamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bandi qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tutqınǵa alıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кеше урлау"
+                ]
+            }
+        }
+    ]
+}
+```
+

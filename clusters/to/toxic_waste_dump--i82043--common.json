@@ -1,0 +1,113 @@
+{
+    "id": "i82043",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "toxic waste dump",
+    "en_definition": "a location where toxic wastes can be or have been disposed of (often illegally)",
+    "tr_word": "toksik atık sahası",
+    "tr_definition": "toksik atıkların bertaraf edilebileceği veya edildiği (genellikle yasa dışı yollarla) yer",
+    "ru_word": "свалка токсичных отходов",
+    "ru_definition": "место, где могут быть или были утилизированы токсичные отходы (часто незаконно)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zehirli atık sahası",
+                    "zehirli atık çöplüğü"
+                ],
+                "Azerbaijani": [
+                    "zəhərli tullantı poliqonu",
+                    "zəhərli tullantı sahəsi",
+                    "zəhərli tullantı anbarı",
+                    "zərərli tullantı yeri"
+                ],
+                "Turkmen": [
+                    "zäherli galyndy meýdançasy",
+                    "zäherli galyndy dökülýän ýer"
+                ],
+                "Uzbek": [
+                    "zaharli chiqindixona",
+                    "zaharli chiqindilar maydoni",
+                    "zaharli chiqindi ombori"
+                ],
+                "Uyghur": [
+                    "زەھەرلىك تاشلاندۇق مەيدانى",
+                    "زەھەرلىك تاشلاندۇق تۆكۈش ئورنى",
+                    "زەھەرلىك ئەخلەتخانا"
+                ],
+                "Karakalpak": [
+                    "záhárli qaldıqxana"
+                ],
+                "Tatar": [
+                    "зарарлы калдыклар урыны"
+                ],
+                "Bashkir": [
+                    "зарарлы ҡалдыҡтар урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "atık depolama yeri"
+                ],
+                "Tatar": [
+                    "агулы калдыклар чүплеге",
+                    "агулы калдыклар полигоны"
+                ],
+                "Bashkir": [
+                    "ағыулы ҡалдыҡтар полигоны",
+                    "ағыулы сүплек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "улы қалдықтар қоймасы",
+                    "улы қалдықтар тасталған жер"
+                ],
+                "Kyrgyz": [
+                    "уулуу калдыктар төгүлүүчү жай",
+                    "уулуу калдыктар таштандысы"
+                ],
+                "Karakalpak": [
+                    "ulı qaldıqlar tógilgen jer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tehlikeli atık alanı"
+                ],
+                "Karakalpak": [
+                    "ulı qaldıqlar poligonı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howply galyndy poligony"
+                ],
+                "Kazakh": [
+                    "улы қалдықтар полигоны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зиянды қалдықтар орны"
+                ],
+                "Kyrgyz": [
+                    "зыяндуу калдыктар көмүлгөн жер"
+                ]
+            }
+        }
+    ]
+}

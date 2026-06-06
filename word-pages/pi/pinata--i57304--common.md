@@ -1,0 +1,204 @@
+# Pinata
+| Field | Detail |
+|---|---|
+| **ID** | i57304 |
+| **English** | pinata |
+| **Type** | noun |
+| **Definition** | plaything consisting of a container filled with toys and candy; suspended from a height for blindfolded children to break with sticks |
+| **Source** | common |
+| **Ortatil** | oyınşıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **oyınşıq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.63** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ойыншық | oyınşıq |
+| қобдиша | qobdişa |
+| **Kyrgyz** | |
+| оюнчук | oyunçuk |
+| белек-курчак | belek-kurçak |
+| курчак | kurçak |
+| **Bashkir** | |
+| уйынсыҡ | uyınsıq |
+
+```json
+{
+    "id": "i57304",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pinata",
+    "en_definition": "plaything consisting of a container filled with toys and candy; suspended from a height for blindfolded children to break with sticks",
+    "tr_word": "pinyata",
+    "tr_definition": "İçine şekerleme ve oyuncaklar doldurulan, çocukların gözleri bağlıyken sopalarla vurarak kırmaya çalıştığı, tavana asılan karton veya mukavva figür.",
+    "ru_word": "пиньята",
+    "ru_definition": "Мексиканская по происхождению полая игрушка довольно крупных размеров, наполненная сладостями и подарками, которую подвешивают и разбивают палками.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyuncak torbası"
+                ],
+                "Azerbaijani": [
+                    "oyuncaq qabı"
+                ],
+                "Turkmen": [
+                    "oýunjak"
+                ],
+                "Uzbek": [
+                    "oʻyinchoq-koʻza"
+                ],
+                "Uyghur": [
+                    "ئويۇنچۇق قۇتۇسى"
+                ],
+                "Kazakh": [
+                    "ойыншық"
+                ],
+                "Kyrgyz": [
+                    "оюнчук"
+                ],
+                "Karakalpak": [
+                    "oyınshıq"
+                ],
+                "Tatar": [
+                    "уенчык савыты"
+                ],
+                "Bashkir": [
+                    "уйынсыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şekerleme kutusu"
+                ],
+                "Uzbek": [
+                    "sovgʻali idish"
+                ],
+                "Karakalpak": [
+                    "saoǵalı qalta"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "белек-курчак"
+                ],
+                "Tatar": [
+                    "бүләк савыты"
+                ],
+                "Bashkir": [
+                    "бүләк ҡапсығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şirniyyat qabı"
+                ],
+                "Uzbek": [
+                    "shirinlikli oʻyinchoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gutujyk"
+                ],
+                "Kyrgyz": [
+                    "курчак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýjüli gap"
+                ],
+                "Uyghur": [
+                    "سوۋغات قۇتۇسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күчтәнәчле савыт"
+                ],
+                "Bashkir": [
+                    "күстәнәс һауыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hediye küpü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zərbəli oyuncaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاتلىق-تۈرۈم قۇتۇسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қобдиша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сыйлық сауыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tártpek"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,132 @@
+{
+    "id": "i2577",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "naked",
+    "en_definition": "completely unclothed",
+    "tr_word": "çıplak",
+    "tr_definition": "üzerinde giysi bulunmayan, tamamen soyunmuş",
+    "ru_word": "голый",
+    "ru_definition": "совершенно не имеющий на себе одежды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açık"
+                ],
+                "Turkmen": [
+                    "açyk"
+                ],
+                "Uzbek": [
+                    "ochiq"
+                ],
+                "Uyghur": [
+                    "ئۇچۇق"
+                ],
+                "Kazakh": [
+                    "ашық"
+                ],
+                "Kyrgyz": [
+                    "ачык"
+                ],
+                "Karakalpak": [
+                    "ashıq"
+                ],
+                "Tatar": [
+                    "ачык"
+                ],
+                "Bashkir": [
+                    "асыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıplak"
+                ],
+                "Azerbaijani": [
+                    "çılpaq"
+                ],
+                "Kyrgyz": [
+                    "жылаңач",
+                    "жылаң"
+                ],
+                "Tatar": [
+                    "ялангач"
+                ],
+                "Bashkir": [
+                    "яланғас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýalaňaç"
+                ],
+                "Uzbek": [
+                    "yalang",
+                    "yalang'och"
+                ],
+                "Uyghur": [
+                    "يالىڭاچ"
+                ],
+                "Kazakh": [
+                    "жалаңаш",
+                    "жалаң"
+                ],
+                "Karakalpak": [
+                    "jalańash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "üryan"
+                ],
+                "Azerbaijani": [
+                    "üryan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lüt"
+                ],
+                "Turkmen": [
+                    "lüt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шәрә"
+                ],
+                "Bashkir": [
+                    "шәрә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەقى-تۇرۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "túksіz"
+                ]
+            }
+        }
+    ]
+}

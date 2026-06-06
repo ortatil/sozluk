@@ -1,0 +1,125 @@
+# Alto saxophonist
+| Field | Detail |
+|---|---|
+| **ID** | i88170 |
+| **English** | alto saxophonist |
+| **Type** | noun |
+| **Definition** | a musician who plays the alto saxophone |
+| **Source** | common |
+| **Ortatil** | saksofonçı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **saksofonçı** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.83** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| саксофоншы | saksofonşı |
+| **Kyrgyz** | |
+| саксофончу | saksofonçu |
+| **Tatar** | |
+| саксофончы | saksofonçı |
+| саксофончы-музыкант | saksofonçı-muzıkant |
+| **Bashkir** | |
+| саксофонсы | saksofonsı |
+
+```json
+{
+    "id": "i88170",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "alto saxophonist",
+    "en_definition": "a musician who plays the alto saxophone",
+    "tr_word": "alto saksofoncu",
+    "tr_definition": "alto saksofon çalan müzisyen",
+    "ru_word": "альт-саксофонист",
+    "ru_definition": "музыкант, играющий на альт-саксофоне",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "saksofon ifaçısı",
+                    "saksofon çalan"
+                ],
+                "Turkmen": [
+                    "saksofonçy",
+                    "saksofon sazandasy"
+                ],
+                "Uzbek": [
+                    "saksofonchi",
+                    "saksofon ijrochisi",
+                    "saksofonnavoz"
+                ],
+                "Kazakh": [
+                    "саксофоншы",
+                    "саксофон аспапшысы",
+                    "саксофонда ойнаушы"
+                ],
+                "Kyrgyz": [
+                    "саксофончу",
+                    "саксофон аткаруучусу",
+                    "саксофондо ойноочу"
+                ],
+                "Karakalpak": [
+                    "saksofonshı",
+                    "saksofon sheberi",
+                    "saksofonshı-sazger"
+                ],
+                "Tatar": [
+                    "саксофончы",
+                    "саксофонда уйнаучы",
+                    "саксофончы-музыкант"
+                ],
+                "Bashkir": [
+                    "саксофонсы",
+                    "саксофонда уйнаусы",
+                    "саксофон аспабында уйнаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alto saksafoncu",
+                    "alto saksafon sanatçısı",
+                    "alto saksafon icracısı"
+                ],
+                "Azerbaijani": [
+                    "alto saksofonçu"
+                ],
+                "Turkmen": [
+                    "alto saksofonçy"
+                ],
+                "Uzbek": [
+                    "alto saksofonchi"
+                ],
+                "Uyghur": [
+                    "ئالتو ساكسوفونچى",
+                    "ئالتو ساكسوفون چالغۇچى"
+                ]
+            }
+        }
+    ]
+}
+```
+

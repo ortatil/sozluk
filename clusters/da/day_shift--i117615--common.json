@@ -1,0 +1,68 @@
+{
+    "id": "i117615",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "day shift",
+    "en_definition": "the work shift during the day (as 8 a.m. to 4 p.m.)",
+    "tr_word": "gündüz vardiyası",
+    "tr_definition": "Genellikle sabah 08:00 ile akşam 16:00 saatleri arasında yapılan çalışma süresi.",
+    "ru_word": "дневная смена",
+    "ru_definition": "Рабочая смена в дневное время (обычно с 8 утра до 4 часов дня).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gündüz vardiyası",
+                    "gündüz nöbeti",
+                    "gündüz mesaisi"
+                ],
+                "Azerbaijani": [
+                    "gündüz növbəsi",
+                    "gündüz işi"
+                ],
+                "Turkmen": [
+                    "gündizki nobat",
+                    "gündizki çalşyk",
+                    "gündizki iş"
+                ],
+                "Uyghur": [
+                    "كۈندۈزلۈك نۆۋەت",
+                    "كۈندۈزلۈك ئىسمېنا"
+                ],
+                "Kazakh": [
+                    "күндізгі ауысым",
+                    "күндізгі кезек"
+                ],
+                "Kyrgyz": [
+                    "күндүзгү нөөмөт",
+                    "күндүзгү кезек",
+                    "күндүзгү иш"
+                ],
+                "Karakalpak": [
+                    "kúndizgi nóbet",
+                    "kúndizgi smena",
+                    "kúndizgi jumıs"
+                ],
+                "Tatar": [
+                    "көндезге смена",
+                    "көндезге чират",
+                    "көндезге эш"
+                ],
+                "Bashkir": [
+                    "көндөҙгө смена",
+                    "көндөҙгө эш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kunduzgi navbat",
+                    "kunduzgi smena",
+                    "kunduzgi ish"
+                ]
+            }
+        }
+    ]
+}

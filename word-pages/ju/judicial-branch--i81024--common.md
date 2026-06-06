@@ -1,0 +1,134 @@
+# Judicial branch
+| Field | Detail |
+|---|---|
+| **ID** | i81024 |
+| **English** | judicial branch |
+| **Type** | noun |
+| **Definition** | the branch of the United States government responsible for the administration of justice |
+| **Source** | common |
+| **Ortatil** | adliye |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i81024",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "judicial branch",
+    "en_definition": "the branch of the United States government responsible for the administration of justice",
+    "tr_word": "yargı erki",
+    "tr_definition": "Adaletin idaresinden sorumlu olan devlet organı.",
+    "ru_word": "судебная власть",
+    "ru_definition": "Ветвь государственной власти, ответственная за отправление правосудия.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adliye"
+                ],
+                "Turkmen": [
+                    "adyl kazyýet"
+                ],
+                "Uzbek": [
+                    "adliya tizimi"
+                ],
+                "Uyghur": [
+                    "ئەدلىيە ئورگىنى",
+                    "ئەدلىيە تارمىقى"
+                ],
+                "Kazakh": [
+                    "әділет билігі"
+                ],
+                "Kyrgyz": [
+                    "адилет бийлиги"
+                ],
+                "Karakalpak": [
+                    "ádil sudlıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sud hokimiyati"
+                ],
+                "Uyghur": [
+                    "سوت مەھكىمىسى"
+                ],
+                "Kazakh": [
+                    "сот билігі"
+                ],
+                "Kyrgyz": [
+                    "сот бийлиги",
+                    "сот тармагы"
+                ],
+                "Karakalpak": [
+                    "sot biyligi"
+                ],
+                "Tatar": [
+                    "суд хакимияте"
+                ],
+                "Bashkir": [
+                    "суд власы",
+                    "суд тармағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məhkəmə hakimiyyəti",
+                    "məhkəmə qolu"
+                ],
+                "Uzbek": [
+                    "mahkama hokimiyati"
+                ],
+                "Tatar": [
+                    "мәхкәмә хакимияте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сот тармағы"
+                ],
+                "Karakalpak": [
+                    "sot tarmaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yargı",
+                    "yargı erki",
+                    "yargı organı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ədalət mühakiməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kazyýet ulgamy",
+                    "kazyýet häkimiýeti"
+                ]
+            }
+        }
+    ]
+}
+```
+

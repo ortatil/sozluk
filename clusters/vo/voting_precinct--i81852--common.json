@@ -1,0 +1,90 @@
+{
+    "id": "i81852",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "voting precinct",
+    "en_definition": "one of several districts into which a city or town is divided for voting; each contains one polling place",
+    "tr_word": "seçim bölgesi",
+    "tr_definition": "bir şehir veya kasabanın oylama için bölündüğü ve her biri bir oy verme yeri içeren bölgelerden her biri",
+    "ru_word": "избирательный участок",
+    "ru_definition": "один из нескольких районов, на которые делится город или поселок для голосования; каждый из них содержит один пункт для голосования",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saýlaw uçastogy",
+                    "saýlaw okrugy",
+                    "saýlaw bölümi"
+                ],
+                "Uzbek": [
+                    "saylov uchastkasi",
+                    "saylov okrugi"
+                ],
+                "Uyghur": [
+                    "سايلام رايونى"
+                ],
+                "Kazakh": [
+                    "сайлау учаскесі",
+                    "сайлау орны"
+                ],
+                "Kyrgyz": [
+                    "шайлоо участогу",
+                    "шайлоо аймагы",
+                    "шайлоо бөлүмү"
+                ],
+                "Karakalpak": [
+                    "saylao uchastkası",
+                    "saylao okrugı"
+                ],
+                "Tatar": [
+                    "сайлау участогы",
+                    "сайлау участокы",
+                    "сайлау округы"
+                ],
+                "Bashkir": [
+                    "һайлау участкаһы",
+                    "һайлау округы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seçim çevresi",
+                    "seçim bölgesi"
+                ],
+                "Azerbaijani": [
+                    "seçki məntəqəsi",
+                    "səsvermə məntəqəsi",
+                    "seçki dairəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ovoz berish uchastkasi"
+                ],
+                "Kazakh": [
+                    "дауыс беру учаскесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sandık alanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېلەت تاشلاش رايونى",
+                    "بېلەت تاشلاش ئورنى"
+                ]
+            }
+        }
+    ]
+}

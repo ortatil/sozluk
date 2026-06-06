@@ -1,0 +1,87 @@
+{
+    "id": "i70729",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bus ticket",
+    "en_definition": "a ticket good for a ride on a bus",
+    "tr_word": "otobüs bileti",
+    "tr_definition": "otobüsle seyahat etmek için kullanılan bilet",
+    "ru_word": "автобусный билет",
+    "ru_definition": "билет, дающий право на проезд в автобусе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yolcu bileti"
+                ],
+                "Azerbaijani": [
+                    "yol bileti"
+                ],
+                "Turkmen": [
+                    "ýol bileti"
+                ],
+                "Uzbek": [
+                    "yoʻl chiptasi",
+                    "yoʻl haqi"
+                ],
+                "Kazakh": [
+                    "жол жүру билеті",
+                    "жолақы билеті"
+                ],
+                "Kyrgyz": [
+                    "жол билети"
+                ],
+                "Karakalpak": [
+                    "jol bileti"
+                ],
+                "Tatar": [
+                    "юл билеты"
+                ],
+                "Bashkir": [
+                    "юл билеты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtobus bileti"
+                ],
+                "Turkmen": [
+                    "awtobus bileti"
+                ],
+                "Uzbek": [
+                    "avtobus chiptasi"
+                ],
+                "Uyghur": [
+                    "ئاپتوبۇس بېلىتى",
+                    "ئاپتوبۇس بېلىت"
+                ],
+                "Kazakh": [
+                    "автобус билеті"
+                ],
+                "Kyrgyz": [
+                    "автобус билети"
+                ],
+                "Karakalpak": [
+                    "awtobus bileti"
+                ],
+                "Tatar": [
+                    "автобус билеты"
+                ],
+                "Bashkir": [
+                    "автобус билеты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otobüs bileti"
+                ]
+            }
+        }
+    ]
+}

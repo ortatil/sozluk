@@ -1,0 +1,98 @@
+{
+    "id": "i797",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "armless",
+    "en_definition": "having no arms",
+    "tr_word": "kolsuz",
+    "tr_definition": "kolları olmayan",
+    "ru_word": "безрукий",
+    "ru_definition": "не имеющий рук",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kolsuz"
+                ],
+                "Azerbaijani": [
+                    "qolsuz"
+                ],
+                "Turkmen": [
+                    "golsuz"
+                ],
+                "Uzbek": [
+                    "qo'lsiz"
+                ],
+                "Uyghur": [
+                    "قولسىز"
+                ],
+                "Kazakh": [
+                    "қолсыз"
+                ],
+                "Kyrgyz": [
+                    "колсуз",
+                    "колу жок"
+                ],
+                "Karakalpak": [
+                    "qolsız"
+                ],
+                "Tatar": [
+                    "кулсыз"
+                ],
+                "Bashkir": [
+                    "ҡулһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çolak"
+                ],
+                "Kazakh": [
+                    "шолақ"
+                ],
+                "Karakalpak": [
+                    "sholaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "biqol"
+                ],
+                "Uzbek": [
+                    "beqo'l"
+                ],
+                "Uyghur": [
+                    "بىقول"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "elsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гарип"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡулдары булмаған"
+                ]
+            }
+        }
+    ]
+}

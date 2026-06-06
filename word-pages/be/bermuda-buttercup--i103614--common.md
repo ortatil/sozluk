@@ -1,0 +1,108 @@
+# Bermuda buttercup
+| Field | Detail |
+|---|---|
+| **ID** | i103614 |
+| **English** | bermuda buttercup |
+| **Type** | noun |
+| **Definition** | South African bulbous wood sorrel with showy yellow flowers |
+| **Source** | common |
+| **Ortatil** | qımızlıq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қымыздық | qımızdıq |
+
+```json
+{
+    "id": "i103614",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bermuda buttercup",
+    "en_definition": "South African bulbous wood sorrel with showy yellow flowers",
+    "tr_word": "Bermuda düğün çiçeği",
+    "tr_definition": "Güney Afrika kökenli, gösterişli sarı çiçekleri olan soğanlı bir ekşi yonca türü.",
+    "ru_word": "Оксалис козлиный",
+    "ru_definition": "Южноафриканское луковичное растение семейства кисличных с яркими желтыми цветами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarı ekşi yonca",
+                    "sarı yonca"
+                ],
+                "Azerbaijani": [
+                    "sarı turşəng",
+                    "sarı yonca"
+                ],
+                "Turkmen": [
+                    "sary turşyja",
+                    "sary turşy ot"
+                ],
+                "Uzbek": [
+                    "sariq qirqboʻgʻim",
+                    "sariq nordoncha",
+                    "sariq otquloq"
+                ],
+                "Uyghur": [
+                    "سېرىق گۈللۈك چاشقان قۇلىقى",
+                    "سېرىق گۈللۈك ئوكسالىس"
+                ],
+                "Kazakh": [
+                    "сары қымыздық"
+                ],
+                "Kyrgyz": [
+                    "сары козу кулак",
+                    "сары кымыздык"
+                ],
+                "Karakalpak": [
+                    "sarı qıshqılsha"
+                ],
+                "Tatar": [
+                    "сары кузгалак",
+                    "сары куян кузгалагы"
+                ],
+                "Bashkir": [
+                    "һары ҡуян ҡуҙағы",
+                    "һары ҡуян үләне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşek kulağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "keçi turşəngi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қымыздық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qıshqılsha"
+                ]
+            }
+        }
+    ]
+}
+```
+

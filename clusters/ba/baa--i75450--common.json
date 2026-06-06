@@ -1,0 +1,87 @@
+{
+    "id": "i75450",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "baa",
+    "en_definition": "the cry made by sheep",
+    "tr_word": "meleme",
+    "tr_definition": "koyun veya keçinin çıkardığı ses",
+    "ru_word": "блеяние",
+    "ru_definition": "звук, издаваемый овцой или козой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meleme",
+                    "me"
+                ],
+                "Azerbaijani": [
+                    "mələmə",
+                    "mələnti"
+                ],
+                "Turkmen": [
+                    "mäleme",
+                    "mäler"
+                ],
+                "Uzbek": [
+                    "ma'illash"
+                ],
+                "Karakalpak": [
+                    "máre",
+                    "máregen"
+                ],
+                "Bashkir": [
+                    "мәлләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ma'rash"
+                ],
+                "Uyghur": [
+                    "مەررەش",
+                    "مەررە"
+                ],
+                "Kyrgyz": [
+                    "маараган үн",
+                    "маароо",
+                    "маа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "маңырау",
+                    "маңыраған дауыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәхетү",
+                    "бәхетү тавышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бә-бә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәғләү"
+                ]
+            }
+        }
+    ]
+}

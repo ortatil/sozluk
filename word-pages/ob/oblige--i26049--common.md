@@ -1,0 +1,268 @@
+# Oblige
+| Field | Detail |
+|---|---|
+| **ID** | i26049 |
+| **English** | oblige |
+| **Type** | verb |
+| **Definition** | provide a service or favor for someone |
+| **Source** | common |
+| **Ortatil** | köläşmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **köläşmäk** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.43** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жәрдемдесу | järdemdesu |
+| көмектесу | kömektesu |
+| **Kyrgyz** | |
+| көмөктөшүү | kömöktöşüü |
+| колдоо | koldoo |
+| **Tatar** | |
+| булышу | bulışu |
+
+```json
+{
+    "id": "i26049",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "oblige",
+    "en_definition": "provide a service or favor for someone",
+    "tr_word": "minnettar bırakmak",
+    "tr_definition": "birine bir iyilik veya hizmet sunarak onu memnun etmek",
+    "ru_word": "оказывать услугу",
+    "ru_definition": "сделать что-либо полезное или приятное для кого-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yardım etmek"
+                ],
+                "Azerbaijani": [
+                    "yaxşılıq etmək",
+                    "yardım etmək"
+                ],
+                "Turkmen": [
+                    "ýagşylyk etmek"
+                ],
+                "Uzbek": [
+                    "yordam bermoq"
+                ],
+                "Uyghur": [
+                    "ياردەم قىلماق"
+                ],
+                "Kazakh": [
+                    "жәрдемдесу"
+                ],
+                "Kyrgyz": [
+                    "жардам берүү"
+                ],
+                "Karakalpak": [
+                    "járdemlesio"
+                ],
+                "Tatar": [
+                    "ярдәм итү"
+                ],
+                "Bashkir": [
+                    "ярҙам итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hizmet etmek"
+                ],
+                "Turkmen": [
+                    "hyzmat etmek",
+                    "hezzetlemek"
+                ],
+                "Uzbek": [
+                    "xizmat qilmoq"
+                ],
+                "Uyghur": [
+                    "خىزمەت قىلماق"
+                ],
+                "Kazakh": [
+                    "қызмет ету"
+                ],
+                "Kyrgyz": [
+                    "кызмат кылуу"
+                ],
+                "Karakalpak": [
+                    "xızmet etio"
+                ],
+                "Tatar": [
+                    "хезмәт күрсәтү"
+                ],
+                "Bashkir": [
+                    "хеҙмәт итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kömək etmək"
+                ],
+                "Turkmen": [
+                    "kömekleşmek"
+                ],
+                "Uzbek": [
+                    "koʻmaklashmoq"
+                ],
+                "Kazakh": [
+                    "көмектесу"
+                ],
+                "Kyrgyz": [
+                    "көмөктөшүү"
+                ],
+                "Karakalpak": [
+                    "kómeklesio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iyilik etmek"
+                ],
+                "Kazakh": [
+                    "игілік жасау"
+                ],
+                "Tatar": [
+                    "игелек итү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lütfetmek"
+                ],
+                "Azerbaijani": [
+                    "lütf etmək"
+                ],
+                "Uzbek": [
+                    "lutf koʻrsatmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "memnun etmek"
+                ],
+                "Azerbaijani": [
+                    "məmnun etmək"
+                ],
+                "Uyghur": [
+                    "مەمنۇن قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қол ұшын беру"
+                ],
+                "Kyrgyz": [
+                    "колдоо"
+                ],
+                "Karakalpak": [
+                    "qolǵabıs etio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "жакшылык кылуу"
+                ],
+                "Karakalpak": [
+                    "jaqsılıq etio"
+                ],
+                "Tatar": [
+                    "яхшылык итү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bitirmek"
+                ],
+                "Bashkir": [
+                    "ихтирам итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆڭلىنى ئالماق"
+                ],
+                "Bashkir": [
+                    "күңелен табыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muruvvat qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېھتىياجىدىن چىقماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "булышу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мәрхәмәт итеү"
+                ]
+            }
+        }
+    ]
+}
+```
+

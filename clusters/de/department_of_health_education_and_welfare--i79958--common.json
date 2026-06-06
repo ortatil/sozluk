@@ -1,0 +1,75 @@
+{
+    "id": "i79958",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "department of health education and welfare",
+    "en_definition": "a former executive department of the United States government; created in 1953 and divided in 1979",
+    "tr_word": "Sağlık, Eğitim ve Refah Bakanlığı",
+    "tr_definition": "1953'te kurulan ve 1979'da ikiye bölünen eski bir Amerika Birleşik Devletleri hükümeti yürütme departmanı",
+    "ru_word": "Министерство здравоохранения, образования и социального обеспечения",
+    "ru_definition": "бывшее исполнительное ведомство правительства США; создано в 1953 году и разделено в 1979 году",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Sağlık, Eğitim ve Refah Bakanlığı",
+                    "Sağlık, Eğitim ve Sosyal Yardım Bakanlığı"
+                ],
+                "Turkmen": [
+                    "saglygy saklaýyş, bilim we durmuş üpjünçiligi ministrligi",
+                    "saglyk, magaryf we jemgyýetçilik üpjünçiligi bölümi"
+                ],
+                "Uzbek": [
+                    "sogʻliqni saqlash, taʼlim va ijtimoiy taʼminot vazirligi",
+                    "sogʻliqni saqlash, maorif va ijtimoiy farovonlik mahkamasi",
+                    "sogʻliqni saqlash, taʼlim va ijtimoiy himoya boshqarmasi"
+                ],
+                "Bashkir": [
+                    "һаулыҡ һаҡлау, мәғариф һәм социаль тәьминәт министрлығы",
+                    "һаулыҡ һаҡлау, уҡытыу һәм социаль яҡлау идаралығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "денсаулық сақтау, білім және әлеуметтік қамсыздандыру министрлігі",
+                    "денсаулық сақтау, оқу және әлеуметтік көмек басқармасы",
+                    "денсаулық сақтау, білім және халықты қорғау департаменті"
+                ],
+                "Kyrgyz": [
+                    "ден соолукту сактоо, агартуу жана коомдук камсыздоо мекемеси"
+                ],
+                "Karakalpak": [
+                    "densaulıq saqlau, bilimlendiriu hám sociallıq támiyinleu ministrligi",
+                    "densaulıq saqlau, oqıtıu hám járdem ministrligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səhiyyə, təhsil və rifah nazirliyi",
+                    "səhiyyə, maarif və sosial təminat idarəsi"
+                ],
+                "Uyghur": [
+                    "سەھىيە، مائارىپ ۋە پاراۋانلىق مىنىستىرلىقى",
+                    "سەھىيە، مائارىپ ۋە ئىجتىمائىي پاراۋانلىق مىنىستىرلىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "саламаттыкты сактоо, билим берүү жана социалдык камсыздоо министрлиги"
+                ],
+                "Tatar": [
+                    "сәламәтлек саклау, мәгариф һәм социаль тәэминат министрлыгы",
+                    "сәламәтлек саклау, уку-укыту һәм иминлек идарәсе"
+                ]
+            }
+        }
+    ]
+}

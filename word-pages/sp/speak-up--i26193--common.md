@@ -1,0 +1,186 @@
+# Speak up
+| Field | Detail |
+|---|---|
+| **ID** | i26193 |
+| **English** | speak up |
+| **Type** | verb |
+| **Definition** | speak louder; raise one's voice |
+| **Source** | common |
+| **Ortatil** | bağırmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жариялау | jariyalau |
+
+```json
+{
+    "id": "i26193",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "speak up",
+    "en_definition": "speak louder; raise one's voice",
+    "tr_word": "yüksek sesle konuşmak",
+    "tr_definition": "daha yüksek bir sesle konuşmak; sesini yükseltmek",
+    "ru_word": "говорить громче",
+    "ru_definition": "говорить более громким голосом; повышать голос",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovozni ko'tarmoq",
+                    "tovushni balandlatmoq"
+                ],
+                "Kazakh": [
+                    "дауыс көтеру"
+                ],
+                "Tatar": [
+                    "тавышны күтәрергә"
+                ],
+                "Bashkir": [
+                    "тауышты күтәреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sesini yükseltmek",
+                    "yüksek sesle konuşmak"
+                ],
+                "Azerbaijani": [
+                    "səsini qaldırmaq",
+                    "səsini ucaltmaq"
+                ],
+                "Turkmen": [
+                    "sesini galdyrmak",
+                    "sesini çykarmak"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "belentden geplemek"
+                ],
+                "Uzbek": [
+                    "balandroq gapirmoq"
+                ],
+                "Karakalpak": [
+                    "bálentleo sóyleo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қаттырақ айту"
+                ],
+                "Kyrgyz": [
+                    "катуураак сүйлөө"
+                ],
+                "Tatar": [
+                    "катырак сөйләргә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дауыстап сөйлеу"
+                ],
+                "Karakalpak": [
+                    "daoıslap sóyleo",
+                    "daoısın shıǵarıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кычкырып сөйләргә"
+                ],
+                "Bashkir": [
+                    "ҡысҡырып һөйләү",
+                    "ҡысҡырыбыраҡ әйтеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağırmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ucadan danışmaq",
+                    "uca səslə danışmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "batly geplemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "baralla gapirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاۋازىنى چىقىرىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۇقىرى ئاۋازدا سۆزلەش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەن ئاۋازدا سۆزلىمەسلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жариялау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үнүн чыгаруу",
+                    "үнүн көтөрүү"
+                ]
+            }
+        }
+    ]
+}
+```
+

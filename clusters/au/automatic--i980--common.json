@@ -1,0 +1,130 @@
+{
+    "id": "i980",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "automatic",
+    "en_definition": "operating with minimal human intervention; independent of external control",
+    "tr_word": "otomatik",
+    "tr_definition": "asgari insan müdahalesi ile çalışan; dış kontrolden bağımsız",
+    "ru_word": "автоматический",
+    "ru_definition": "работающий с минимальным вмешательством человека; независимый от внешнего контроля",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "özdevimli"
+                ],
+                "Azerbaijani": [
+                    "özüişləyən",
+                    "öz-özünə"
+                ],
+                "Turkmen": [
+                    "özbaşdak",
+                    "öz-özünden"
+                ],
+                "Uzbek": [
+                    "oʻziyurar",
+                    "oʻziishlar"
+                ],
+                "Uyghur": [
+                    "ئۆزلۈكىدىن",
+                    "ئۆزلىكىدىن"
+                ],
+                "Kazakh": [
+                    "өздігінен",
+                    "өздік"
+                ],
+                "Kyrgyz": [
+                    "өзү жүрүүчү",
+                    "өзүнөн-өзү",
+                    "өзү иштөөчү"
+                ],
+                "Karakalpak": [
+                    "ózliginen",
+                    "óz-ózinen",
+                    "óz-ózinen isleytuǵın",
+                    "ózi isleytuǵın"
+                ],
+                "Tatar": [
+                    "үзлегеннән",
+                    "үзйөрешле"
+                ],
+                "Bashkir": [
+                    "үҙлегенән",
+                    "үҙйөрөшлө",
+                    "үҙенән-үҙе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtomatik"
+                ],
+                "Turkmen": [
+                    "awtomatik"
+                ],
+                "Uyghur": [
+                    "ئاپتوماتىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otomatik"
+                ],
+                "Kazakh": [
+                    "автоматты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mustaqil"
+                ],
+                "Tatar": [
+                    "мөстәкыйль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendiliğinden"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "özbaşına"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ixtiyoriy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еріксіз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзлегеннән эшләүче"
+                ]
+            }
+        }
+    ]
+}

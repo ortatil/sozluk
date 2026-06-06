@@ -1,0 +1,184 @@
+# Dog grass
+| Field | Detail |
+|---|---|
+| **ID** | i100763 |
+| **English** | dog grass |
+| **Type** | noun |
+| **Definition** | European grass spreading rapidly by creeping rhizomes; naturalized in North America as a weed |
+| **Source** | common |
+| **Ortatil** | ayrıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ayrıq** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چىيا | çiya |
+| چىمنەن | çimnän |
+| **Kazakh** | |
+| бидайық | bidayıq |
+| **Kyrgyz** | |
+| кыяк | kıyak |
+
+```json
+{
+    "id": "i100763",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dog grass",
+    "en_definition": "European grass spreading rapidly by creeping rhizomes; naturalized in North America as a weed",
+    "tr_word": "ayrık otu",
+    "tr_definition": "Sürünücü köksapları aracılığıyla hızla yayılan, tarım alanlarında istenmeyen, dayanıklı bir yabani ot.",
+    "ru_word": "пырей ползучий",
+    "ru_definition": "Многолетнее травянистое растение с длинным ползучим корневищем, считающееся трудноискоренимым сорняком.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayrık otu",
+                    "ayrık"
+                ],
+                "Azerbaijani": [
+                    "ayrıq",
+                    "ayrıqotu"
+                ],
+                "Uzbek": [
+                    "ajriq"
+                ],
+                "Tatar": [
+                    "айгыр үләне"
+                ],
+                "Bashkir": [
+                    "айыу тамыры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "itotu"
+                ],
+                "Turkmen": [
+                    "itot"
+                ],
+                "Uzbek": [
+                    "it oʻti"
+                ],
+                "Uyghur": [
+                    "ئىت ئوتى"
+                ],
+                "Bashkir": [
+                    "эт ҡондорлағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چىيا"
+                ],
+                "Karakalpak": [
+                    "biyaday",
+                    "biyaday shóp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ак сок",
+                    "ак тамыр"
+                ],
+                "Karakalpak": [
+                    "aqbas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tarla ayrığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyrtyç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چىمنەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бидайық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жатаған бидайық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыяк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "биле үлән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тамырчалы биле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "эт үләне"
+                ]
+            }
+        }
+    ]
+}
+```
+

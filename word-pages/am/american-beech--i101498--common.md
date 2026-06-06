@@ -1,0 +1,110 @@
+# American beech
+| Field | Detail |
+|---|---|
+| **ID** | i101498 |
+| **English** | american beech |
+| **Type** | noun |
+| **Definition** | North American forest tree with light green leaves and edible nuts |
+| **Source** | common |
+| **Ortatil** | buk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| бук | buk |
+
+```json
+{
+    "id": "i101498",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "american beech",
+    "en_definition": "North American forest tree with light green leaves and edible nuts",
+    "tr_word": "Amerika kayını",
+    "tr_definition": "Açık yeşil yapraklı ve yenilebilir yemişleri olan, Kuzey Amerika'ya özgü bir orman ağacı",
+    "ru_word": "Бук крупнолистный",
+    "ru_definition": "Североамериканское лесное дерево со светло-зелеными листьями и съедобными орехами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Amerika kayını"
+                ],
+                "Azerbaijani": [
+                    "Amerika fıstığı"
+                ],
+                "Uzbek": [
+                    "Amerika buki"
+                ],
+                "Uyghur": [
+                    "ئامېرىكا پەرەڭ دەرىخى",
+                    "ئامېرىكا بۇك دەرىخى"
+                ],
+                "Kazakh": [
+                    "Америка шамшаты",
+                    "Америка бугы"
+                ],
+                "Kyrgyz": [
+                    "америка бук дарагы"
+                ],
+                "Karakalpak": [
+                    "Amerika buk teregi"
+                ],
+                "Tatar": [
+                    "Америка бугы",
+                    "Америка фагусы"
+                ],
+                "Bashkir": [
+                    "Америка бугы",
+                    "Америка фагусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "buk agajy"
+                ],
+                "Kyrgyz": [
+                    "бук"
+                ],
+                "Karakalpak": [
+                    "buk teregi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ak kayın"
+                ],
+                "Uzbek": [
+                    "oq buk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fıstıq ağacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demir agaç"
+                ]
+            }
+        }
+    ]
+}
+```
+

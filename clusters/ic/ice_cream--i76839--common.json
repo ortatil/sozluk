@@ -1,0 +1,84 @@
+{
+    "id": "i76839",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ice cream",
+    "en_definition": "frozen dessert containing cream and sugar and flavoring",
+    "tr_word": "dondurma",
+    "tr_definition": "Süt, şeker ve çeşitli tatlandırıcıların dondurulmasıyla elde edilen soğuk tatlı.",
+    "ru_word": "мороженое",
+    "ru_definition": "Замороженное сладкое десертное кушанье из сливок, молока, сахара с добавлением вкусовых и ароматических веществ.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dondurma"
+                ],
+                "Azerbaijani": [
+                    "dondurma"
+                ],
+                "Turkmen": [
+                    "doňdurma"
+                ],
+                "Tatar": [
+                    "туңдырма"
+                ],
+                "Bashkir": [
+                    "туңдырма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "buzgaýmak"
+                ],
+                "Uzbek": [
+                    "muzqaymoq"
+                ],
+                "Karakalpak": [
+                    "mұzdaq"
+                ],
+                "Bashkir": [
+                    "боҙҡаймаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توز"
+                ],
+                "Karakalpak": [
+                    "tońazıtpa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "балмұздақ"
+                ],
+                "Kyrgyz": [
+                    "балмуздак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yaxqaymoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماروژنى"
+                ]
+            }
+        }
+    ]
+}

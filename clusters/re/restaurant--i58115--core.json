@@ -1,0 +1,169 @@
+{
+    "id": "i58115",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "restaurant",
+    "en_definition": "a building where people go to eat",
+    "tr_word": "restoran",
+    "tr_definition": "yemek yenen yer, lokanta",
+    "ru_word": "ресторан",
+    "ru_definition": "предприятие общественного питания с широким ассортиментом блюд",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aşxana"
+                ],
+                "Turkmen": [
+                    "aşhana"
+                ],
+                "Uzbek": [
+                    "oshxona"
+                ],
+                "Uyghur": [
+                    "ئاشخانا"
+                ],
+                "Kazakh": [
+                    "асхана"
+                ],
+                "Kyrgyz": [
+                    "ашкана"
+                ],
+                "Karakalpak": [
+                    "asxana"
+                ],
+                "Tatar": [
+                    "ашханә"
+                ],
+                "Bashkir": [
+                    "ашхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "taomxona"
+                ],
+                "Uyghur": [
+                    "تاماقخانا"
+                ],
+                "Karakalpak": [
+                    "tamaqxana"
+                ],
+                "Tatar": [
+                    "тамакханә"
+                ],
+                "Bashkir": [
+                    "тәғәмхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "restoran"
+                ],
+                "Turkmen": [
+                    "restoran"
+                ],
+                "Uyghur": [
+                    "رېستوران"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemekhane"
+                ],
+                "Azerbaijani": [
+                    "yeməkxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тамақтану орны"
+                ],
+                "Kyrgyz": [
+                    "тамактануучу жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мейрамхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "máyxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lokanta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aşevi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mutfak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "süfrə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "naharhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oshjoy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тамак-аш үйү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ризыҡхана"
+                ]
+            }
+        }
+    ]
+}

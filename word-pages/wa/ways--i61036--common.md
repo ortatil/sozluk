@@ -1,0 +1,160 @@
+# Ways
+| Field | Detail |
+|---|---|
+| **ID** | i61036 |
+| **English** | ways |
+| **Type** | noun |
+| **Definition** | structure consisting of a sloping way down to the water from the place where ships are built or repaired |
+| **Source** | common |
+| **Ortatil** | ḳämisazlıq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| кемежай | kemejay |
+| **Tatar** | |
+| көймәлек | köymälek |
+
+```json
+{
+    "id": "i61036",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ways",
+    "en_definition": "structure consisting of a sloping way down to the water from the place where ships are built or repaired",
+    "tr_word": "kızak",
+    "tr_definition": "Gemi inşa edilen veya onarılan yerden suya doğru inen eğimli yapı.",
+    "ru_word": "стапель",
+    "ru_definition": "Сооружение для постройки или ремонта судна и спуска его на воду.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gəmiqayırma meydançası"
+                ],
+                "Turkmen": [
+                    "gämisazlyk",
+                    "gämi duralgasy"
+                ],
+                "Uzbek": [
+                    "kemasozlik yo‘li"
+                ],
+                "Uyghur": [
+                    "كېمىسازلىق ئورنى",
+                    "كېمە چۈشۈرۈش يولى",
+                    "كېمە ياساش سۇپىسى"
+                ],
+                "Kazakh": [
+                    "кемежай",
+                    "кеме жөндеу орны",
+                    "кеме жасау орны"
+                ],
+                "Kyrgyz": [
+                    "кеме жайы",
+                    "кеме токтоочу жай",
+                    "кеме куруучу жай"
+                ],
+                "Karakalpak": [
+                    "keme jayı",
+                    "keme jolı",
+                    "keme túsirio ornı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kızak"
+                ],
+                "Azerbaijani": [
+                    "qızılca"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кораб төзү урыны"
+                ],
+                "Bashkir": [
+                    "карап төшөрөү урыны",
+                    "карап төшөрөү юлы",
+                    "карап яһау урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekek",
+                    "iskele"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rampa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərsanə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "enmə yolu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dok"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qiyalik",
+                    "nishablik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tushirgich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көймәлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "суга төшерү юлы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,171 @@
+# Philadelphia fleabane
+| Field | Detail |
+|---|---|
+| **ID** | i100114 |
+| **English** | philadelphia fleabane |
+| **Type** | noun |
+| **Definition** | especially pretty plant having a delicate fringe of threadlike rays around flower heads having very slender white or pink rays; United States and Canada |
+| **Source** | common |
+| **Ortatil** | çobanyastığı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ерінгүл | yeringül |
+| қырмызыгүл | qırmızıgül |
+
+```json
+{
+    "id": "i100114",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "philadelphia fleabane",
+    "en_definition": "especially pretty plant having a delicate fringe of threadlike rays around flower heads having very slender white or pink rays; United States and Canada",
+    "tr_word": "Philadelphia şifa otu",
+    "tr_definition": "Amerika Birleşik Devletleri ve Kanada'da yetişen, çiçek başlarının etrafında çok ince beyaz veya pembe ışınsal yapraklardan oluşan narin bir saçağa sahip, özellikle güzel bir bitki.",
+    "ru_word": "Мелколепестник филадельфийский",
+    "ru_definition": "Особо красивое растение из США и Канады, имеющее нежную бахрому из нитевидных лучей вокруг цветочных головок с очень тонкими белыми или розовыми лучами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yabani papatya"
+                ],
+                "Azerbaijani": [
+                    "çobanyastığı"
+                ],
+                "Turkmen": [
+                    "çopantelpek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "nozik gul"
+                ],
+                "Kazakh": [
+                    "нәзік ерінгүл"
+                ],
+                "Kyrgyz": [
+                    "назик майда гүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ince papatya"
+                ],
+                "Azerbaijani": [
+                    "incə ləçəkli xırdagül"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mayda gul"
+                ],
+                "Karakalpak": [
+                    "mayda gúlli ósimlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ак майда гүл"
+                ],
+                "Karakalpak": [
+                    "filadelfiya mayda gúllisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "филадельфия күкчәчәге",
+                    "филадельфия вакчәчәге"
+                ],
+                "Bashkir": [
+                    "филадельфия ваҡ сәскәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şifa otu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çöl çobanyastığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pöwrize",
+                    "pöwrize otu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oq gul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پىلالدېلفىيە چىپارگۈلى",
+                    "ئاق چىپارگۈل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياۋا چىپارگۈل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ерінгүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қырмызыгүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ваҡ сәскә"
+                ]
+            }
+        }
+    ]
+}
+```
+

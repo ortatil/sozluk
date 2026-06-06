@@ -1,0 +1,79 @@
+{
+    "id": "synset-oewn-92462512-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "daily order",
+    "en_definition": "(usually plural) a command or set of commands covering an entire day issued by a military organization or a military commander to troops, sailors, etc.",
+    "tr_word": "günlük emirler",
+    "tr_definition": "Askeri bir birlik veya komutan tarafından birliklere iletilen, bir günlük faaliyetleri ve görevleri kapsayan talimatlar bütünü.",
+    "ru_word": "дневной приказ",
+    "ru_definition": "Команда или набор команд, охватывающих весь день, издаваемых военной организацией или командиром для войск или моряков.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "günlük emir",
+                    "günlük emirler",
+                    "günlük talimat"
+                ],
+                "Azerbaijani": [
+                    "günlük əmr",
+                    "günlük nizamnamə",
+                    "gündəlik əmr"
+                ],
+                "Turkmen": [
+                    "gündelik buýruk",
+                    "gün tertibi",
+                    "günlük buýruk"
+                ],
+                "Uyghur": [
+                    "كۈندىلىك بۇيرۇق",
+                    "كۈندىلىك پەرمان",
+                    "كۈندىلىك ئەمر"
+                ],
+                "Kazakh": [
+                    "күнделікті бұйрық",
+                    "күндік жарлық"
+                ],
+                "Kyrgyz": [
+                    "күндүк буйрук",
+                    "күн тартиби",
+                    "күндүк жарлык"
+                ],
+                "Karakalpak": [
+                    "kúndelikli buyrıq",
+                    "kúnlik párman"
+                ],
+                "Tatar": [
+                    "көндәлек боерык",
+                    "көнлек боерык"
+                ],
+                "Bashkir": [
+                    "көндәлек бойороҡ",
+                    "көндәлек әмер",
+                    "көндәлек фарман"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kunlik buyruq",
+                    "kundalik farmon",
+                    "kun tartibi"
+                ],
+                "Tatar": [
+                    "көн тәртибе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тәуліктік бұйрық"
+                ]
+            }
+        }
+    ]
+}

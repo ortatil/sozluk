@@ -1,0 +1,121 @@
+{
+    "id": "i75824",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "topspin",
+    "en_definition": "forward spin (usually of a moving ball) that is imparted by an upward stroke",
+    "tr_word": "üstten falso",
+    "tr_definition": "Bir topa yukarı doğru bir vuruşla verilen ve topun ileriye doğru dönmesini sağlayan hareket.",
+    "ru_word": "топ-спин",
+    "ru_definition": "Удар в настольном или обычном теннисе, придающий мячу сильное вращение в направлении полёта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üst falso",
+                    "üstten vuruş",
+                    "üstten dönüş"
+                ],
+                "Azerbaijani": [
+                    "üst fırlanma",
+                    "üst fırlatma"
+                ],
+                "Turkmen": [
+                    "üstki aýlaw"
+                ],
+                "Uzbek": [
+                    "ustki aylanish"
+                ],
+                "Uyghur": [
+                    "ئۈستىگە ئايلىنىش",
+                    "ئۈستىدىن ئايلاندۇرۇش"
+                ],
+                "Kazakh": [
+                    "үстінен айналдыру",
+                    "үстіңгі айналым"
+                ],
+                "Kyrgyz": [
+                    "үстүнкү айлануу"
+                ],
+                "Karakalpak": [
+                    "ústіńgі aynalıs"
+                ],
+                "Tatar": [
+                    "өске әйләнеш",
+                    "өске борылыш"
+                ],
+                "Bashkir": [
+                    "өҫкө өйөрөлөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oldinga aylanish"
+                ],
+                "Uyghur": [
+                    "ئالدىغا ئايلىنىش"
+                ],
+                "Kazakh": [
+                    "алға айналдыру"
+                ],
+                "Kyrgyz": [
+                    "алдыга айлануу"
+                ],
+                "Karakalpak": [
+                    "alǵa qaray aynalıs"
+                ],
+                "Tatar": [
+                    "алга әйләндерү"
+                ],
+                "Bashkir": [
+                    "алға өйөрөлөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ileri falso"
+                ],
+                "Azerbaijani": [
+                    "irəli fırlanma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýokarky aýlaw"
+                ],
+                "Karakalpak": [
+                    "joǵarǵı aynalıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öňe aýlaw"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aylanma zarba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илгери айлануу"
+                ]
+            }
+        }
+    ]
+}

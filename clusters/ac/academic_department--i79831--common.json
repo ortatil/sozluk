@@ -1,0 +1,131 @@
+{
+    "id": "i79831",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "academic department",
+    "en_definition": "a division of a school that is responsible for a given subject",
+    "tr_word": "akademik bölüm",
+    "tr_definition": "bir okulun belirli bir konudan sorumlu olan birimi",
+    "ru_word": "академическая кафедра",
+    "ru_definition": "подразделение учебного заведения, отвечающее за определенный предмет",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bölüm"
+                ],
+                "Azerbaijani": [
+                    "bölmə"
+                ],
+                "Turkmen": [
+                    "bölüm"
+                ],
+                "Uzbek": [
+                    "boʻlim"
+                ],
+                "Uyghur": [
+                    "بۆلۈم"
+                ],
+                "Kazakh": [
+                    "бөлім"
+                ],
+                "Kyrgyz": [
+                    "бөлүм"
+                ],
+                "Karakalpak": [
+                    "bólim",
+                    "bólimshe"
+                ],
+                "Tatar": [
+                    "бүлек",
+                    "бүлекчә"
+                ],
+                "Bashkir": [
+                    "бүлек",
+                    "бүлексә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kafedra"
+                ],
+                "Turkmen": [
+                    "kafedra"
+                ],
+                "Uzbek": [
+                    "kafedra"
+                ],
+                "Uyghur": [
+                    "كافېدرا"
+                ],
+                "Kazakh": [
+                    "кафедра"
+                ],
+                "Kyrgyz": [
+                    "кафедра"
+                ],
+                "Karakalpak": [
+                    "kafedra"
+                ],
+                "Tatar": [
+                    "кафедра"
+                ],
+                "Bashkir": [
+                    "кафедра"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şöbə"
+                ],
+                "Uzbek": [
+                    "shuba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "fakultet"
+                ],
+                "Uyghur": [
+                    "فاكۇلتېت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anabilim dalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kürsü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сала"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тармак"
+                ]
+            }
+        }
+    ]
+}

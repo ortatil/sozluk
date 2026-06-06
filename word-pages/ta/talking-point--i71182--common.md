@@ -1,0 +1,324 @@
+# Talking point
+| Field | Detail |
+|---|---|
+| **ID** | i71182 |
+| **English** | talking point |
+| **Type** | noun |
+| **Definition** | an especially persuasive point helping to support an argument or discussion |
+| **Source** | common |
+| **Ortatil** | dälil |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **dälil** | **isbät** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ❌ | ❌ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 |
+| *Qipchaq Subtotal* | 0.80 | 0.40 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **3.47** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| دەلىل | dälil |
+| **Kazakh** | |
+| дәлел | dälel |
+| уәж | uäj |
+| айғақ | ayğaq |
+| түйін | tüyin |
+| **Tatar** | |
+| дәлил | dälil |
+| нигез | nigez |
+| мәсьәлә | mäsälä |
+| сәбәп | säbäp |
+| **Bashkir** | |
+| дәлил | dälil |
+| иҫбат | isbat |
+| һүҙ | hüz |
+| ҡараш | qaraş |
+
+```json
+{
+    "id": "i71182",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "talking point",
+    "en_definition": "an especially persuasive point helping to support an argument or discussion",
+    "tr_word": "tartışma konusu",
+    "tr_definition": "bir argümanı veya tartışmayı desteklemeye yardımcı olan, özellikle ikna edici nokta veya konu.",
+    "ru_word": "тезис",
+    "ru_definition": "особо убедительный аргумент или положение, используемое для поддержки дискуссии или позиции.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "delil"
+                ],
+                "Azerbaijani": [
+                    "dəlil"
+                ],
+                "Uzbek": [
+                    "dalil"
+                ],
+                "Uyghur": [
+                    "دەلىل"
+                ],
+                "Kazakh": [
+                    "дәлел"
+                ],
+                "Karakalpak": [
+                    "dálil"
+                ],
+                "Tatar": [
+                    "дәлил"
+                ],
+                "Bashkir": [
+                    "дәлил"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əsas məqam"
+                ],
+                "Turkmen": [
+                    "esasy delil"
+                ],
+                "Uyghur": [
+                    "ئاساسلىق نۇقتا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "isbot"
+                ],
+                "Karakalpak": [
+                    "ispat"
+                ],
+                "Bashkir": [
+                    "иҫбат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "негізгі ой"
+                ],
+                "Kyrgyz": [
+                    "негизги жүйө",
+                    "негизги аргумент"
+                ],
+                "Tatar": [
+                    "нигез"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sav"
+                ],
+                "Uzbek": [
+                    "asos"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dayanak"
+                ],
+                "Karakalpak": [
+                    "tiykar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müzakirə mövzusu"
+                ],
+                "Uyghur": [
+                    "مۇنازىرە نۇقتىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "arqument"
+                ],
+                "Turkmen": [
+                    "argument"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "möhüm nokat"
+                ],
+                "Uyghur": [
+                    "مۇھىم تېما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mesele"
+                ],
+                "Tatar": [
+                    "мәсьәлә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "уәж"
+                ],
+                "Karakalpak": [
+                    "uáj"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп фикер"
+                ],
+                "Bashkir": [
+                    "төп фекер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iddia"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tez"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kanıt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sübut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pikir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hujjat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mavzu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айғақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түйін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башкы далил"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "талкуулоочу маселе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "орчундуу пикир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сәбәп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һүҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡараш"
+                ]
+            }
+        }
+    ]
+}
+```
+

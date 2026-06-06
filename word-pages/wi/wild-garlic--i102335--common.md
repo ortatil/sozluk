@@ -1,0 +1,166 @@
+# Wild garlic
+| Field | Detail |
+|---|---|
+| **ID** | i102335 |
+| **English** | wild garlic |
+| **Type** | noun |
+| **Definition** | pungent Old World wild onion |
+| **Source** | common |
+| **Ortatil** | çerkez |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жуа | jua |
+| **Kyrgyz** | |
+| черемша | çeremşa |
+| **Bashkir** | |
+| ҡалйыу | qalyıu |
+
+```json
+{
+    "id": "i102335",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wild garlic",
+    "en_definition": "pungent Old World wild onion",
+    "tr_word": "ayı sarımsağı",
+    "tr_definition": "Avrupa ve Asya'ya özgü, keskin kokulu, geniş yapraklı bir yaban soğanı türü",
+    "ru_word": "черемша",
+    "ru_definition": "многолетнее травянистое растение, вид рода Лук с сильным чесночным запахом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yabani sarımsak"
+                ],
+                "Azerbaijani": [
+                    "yabanı sarımsaq"
+                ],
+                "Turkmen": [
+                    "ýabany sarymsak"
+                ],
+                "Uzbek": [
+                    "yovvoyi sarimsoq"
+                ],
+                "Kazakh": [
+                    "жабайы сарымсақ"
+                ],
+                "Kyrgyz": [
+                    "жапайы сарымсак"
+                ],
+                "Karakalpak": [
+                    "jabayı sarımsaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayı sarımsağı",
+                    "dağ sarımsağı"
+                ],
+                "Azerbaijani": [
+                    "ayı soğanı"
+                ],
+                "Turkmen": [
+                    "dag sarymsagy"
+                ],
+                "Uyghur": [
+                    "ياۋا سامساق",
+                    "تاغ سامساق"
+                ],
+                "Tatar": [
+                    "аю суганы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çöl sarımsağı"
+                ],
+                "Kazakh": [
+                    "дала сарымсағы"
+                ],
+                "Karakalpak": [
+                    "dala sarımsaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çerkez"
+                ],
+                "Kyrgyz": [
+                    "черемша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ayiqpiyoz"
+                ],
+                "Bashkir": [
+                    "айыу һуғаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жуа"
+                ],
+                "Karakalpak": [
+                    "jua"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аюу сарымсак"
+                ],
+                "Tatar": [
+                    "кыр суганы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыр сарымсагы"
+                ],
+                "Bashkir": [
+                    "ҡырағай һуған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "togʻpiyoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡалйыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,92 @@
+{
+    "id": "i79631",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "index fund",
+    "en_definition": "a mutual fund that invests in the stocks that are the basis of a well-known stock or bond index",
+    "tr_word": "endeks fonu",
+    "tr_definition": "Belirli bir hisse senedi veya tahvil endeksindeki varlıkları baz alarak yatırım yapan yatırım fonu.",
+    "ru_word": "индексный фонд",
+    "ru_definition": "Инвестиционный фонд, который формирует свой портфель в соответствии с составом определенного биржевого индекса.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "endeks fonu",
+                    "endeks yatırım fonu",
+                    "endeks bazlı fon"
+                ],
+                "Azerbaijani": [
+                    "indeks fondu",
+                    "indeks əsaslı fond"
+                ],
+                "Turkmen": [
+                    "indeks gaznasy"
+                ],
+                "Uzbek": [
+                    "indeks jamgʻarmasi",
+                    "indeks fondi"
+                ],
+                "Uyghur": [
+                    "ئىندېكس فوندى"
+                ],
+                "Kazakh": [
+                    "индекстік қор"
+                ],
+                "Kyrgyz": [
+                    "индекс фонду",
+                    "индекстик фонд"
+                ],
+                "Karakalpak": [
+                    "indeks fondı",
+                    "indekslik inwesticiya fondı",
+                    "indekslik qor"
+                ],
+                "Tatar": [
+                    "индекс фонды",
+                    "индекслы фонд"
+                ],
+                "Bashkir": [
+                    "индекс фонды",
+                    "индекслы фонд"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "göstərici fondu"
+                ],
+                "Kyrgyz": [
+                    "көрсөткүч фонду"
+                ],
+                "Tatar": [
+                    "күрсәткеч фонды"
+                ],
+                "Bashkir": [
+                    "күрһәткес фонды"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "görkeziji gaznasy"
+                ],
+                "Uzbek": [
+                    "koʻrsatkichli sarmoya jamgʻarmasi"
+                ],
+                "Uyghur": [
+                    "كۆرسەتكۈچ فوندى",
+                    "كۆرسەتكۈچ مەبلىغى"
+                ],
+                "Kazakh": [
+                    "көрсеткіштік қор"
+                ]
+            }
+        }
+    ]
+}

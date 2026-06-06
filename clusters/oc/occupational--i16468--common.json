@@ -1,0 +1,134 @@
+{
+    "id": "i16468",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "occupational",
+    "en_definition": "of or relating to the activity or business for which you are trained",
+    "tr_word": "mesleki",
+    "tr_definition": "Bir meslekle ilgili olan veya bir mesleğe dayanan",
+    "ru_word": "профессиональный",
+    "ru_definition": "относящийся к профессии или роду занятий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "käri"
+                ],
+                "Uzbek": [
+                    "kasbiy"
+                ],
+                "Uyghur": [
+                    "كەسپىي"
+                ],
+                "Kazakh": [
+                    "кәсіби",
+                    "кәсіптік"
+                ],
+                "Kyrgyz": [
+                    "кесиптик",
+                    "кесипкөйлүк"
+                ],
+                "Karakalpak": [
+                    "kásiplik",
+                    "kásipke baylanıslı",
+                    "kásipke tiyisli"
+                ],
+                "Tatar": [
+                    "кәсепчелек",
+                    "кәсепкә караган"
+                ],
+                "Bashkir": [
+                    "кәсепселек",
+                    "кәсеп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mesleki",
+                    "mesleğe dair"
+                ],
+                "Uzbek": [
+                    "mashg'ulotga oid"
+                ],
+                "Uyghur": [
+                    "مەسلىكىي"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hünär",
+                    "hünärli"
+                ],
+                "Uzbek": [
+                    "hunariy"
+                ],
+                "Tatar": [
+                    "һөнәри"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "işle ilgili"
+                ],
+                "Turkmen": [
+                    "işe degişli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sənət"
+                ],
+                "Bashkir": [
+                    "һөнәри"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşəkar",
+                    "peşə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtisas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىزمەتكە ئائىت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мамандық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өнөрлүк"
+                ]
+            }
+        }
+    ]
+}

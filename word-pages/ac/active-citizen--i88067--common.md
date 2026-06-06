@@ -1,0 +1,230 @@
+# Active citizen
+| Field | Detail |
+|---|---|
+| **ID** | i88067 |
+| **English** | active citizen |
+| **Type** | noun |
+| **Definition** | a citizen who takes an active role in the community (as in crime prevention and neighborhood watch) |
+| **Source** | common |
+| **Ortatil** | cämäğätçe |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **cämäğätçe** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| җәмәгатьче | jämägatçe |
+| **Bashkir** | |
+| йәмәғәтсе | yämäğätse |
+
+```json
+{
+    "id": "i88067",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "active citizen",
+    "en_definition": "a citizen who takes an active role in the community (as in crime prevention and neighborhood watch)",
+    "tr_word": "aktif vatandaş",
+    "tr_definition": "toplumda, özellikle suç önleme ve mahalle gözetimi gibi konularda etkin rol alan vatandaş",
+    "ru_word": "активный гражданин",
+    "ru_definition": "гражданин, принимающий активное участие в жизни общества (например, в предотвращении преступности и соседском дозоре)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fəal vətəndaş"
+                ],
+                "Uzbek": [
+                    "faol fuqaro"
+                ],
+                "Uyghur": [
+                    "پائال پۇقرا",
+                    "پائال شەھەرداش"
+                ],
+                "Kazakh": [
+                    "белсенді азамат"
+                ],
+                "Karakalpak": [
+                    "belsendi puqara"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jemgyýetçi"
+                ],
+                "Karakalpak": [
+                    "jámiyetlik belsendi"
+                ],
+                "Tatar": [
+                    "җәмәгатьче"
+                ],
+                "Bashkir": [
+                    "йәмәғәтсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aktif vatandaş"
+                ],
+                "Kyrgyz": [
+                    "активдүү жаран"
+                ],
+                "Tatar": [
+                    "актив граждан",
+                    "актив җәмәгатьче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ictimaiyyətçi"
+                ],
+                "Uyghur": [
+                    "ئىجتىمائىي پائال پۇقرا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təşəbbüskar vətəndaş"
+                ],
+                "Uzbek": [
+                    "tashabbuskor fuqaro"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jonkuyar fuqaro"
+                ],
+                "Kazakh": [
+                    "жанашыр азамат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "etkin vatandaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duyarlı yurttaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "katılımcı vatandaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "işjeň raýat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pikirli raýat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jogapkärli raýat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "himmatli fuqaro"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоғамшыл азамат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "демилгелүү жаран",
+                    "жарандык активист"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коомдук ишмер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ǵayratlı puqara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәрәкәтчән граждан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "әүҙем граждан",
+                    "әүҙем кеше"
+                ]
+            }
+        }
+    ]
+}
+```
+

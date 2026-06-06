@@ -1,0 +1,88 @@
+{
+    "id": "i85935",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pacific coast",
+    "en_definition": "a coast of the Pacific Ocean",
+    "tr_word": "Pasifik kıyısı",
+    "tr_definition": "Büyük Okyanus'un (Pasifik) kıyı şeridi",
+    "ru_word": "тихоокеанское побережье",
+    "ru_definition": "побережье Тихого океана",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "Tinch okeani sohili",
+                    "Tinch okeani qirg'og'i",
+                    "Tinch okeani bo'yi"
+                ],
+                "Uyghur": [
+                    "تىنچ ئوكيان قىرغىقى",
+                    "تىنچ ئوكيان ساھىلى",
+                    "تىنچ ئوكيان بويى"
+                ],
+                "Kyrgyz": [
+                    "Тынч океан бою"
+                ],
+                "Karakalpak": [
+                    "Tınch okean jaǵalaoı",
+                    "Tınch okean jaǵası"
+                ],
+                "Tatar": [
+                    "Тын океан яры",
+                    "Тын океан буе",
+                    "Тын океан яр буе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Sakit okean sahili",
+                    "Sakit okean qıyısı",
+                    "Sakit okean kənarı"
+                ],
+                "Kyrgyz": [
+                    "Тынч океан жээги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Тынық мұхит жағалауы",
+                    "Тынық мұхит жағасы"
+                ],
+                "Bashkir": [
+                    "Тымыҡ океан яры",
+                    "Тымыҡ океан буйы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Pasifik kıyısı",
+                    "Pasifik sahili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Büyük Okyanus kıyısı",
+                    "Büyük Okyanus sahili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Ýuwaş okean kenary",
+                    "Ýuwaş okean kenarýakasy"
+                ]
+            }
+        }
+    ]
+}

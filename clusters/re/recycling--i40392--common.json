@@ -1,0 +1,125 @@
+{
+    "id": "i40392",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "recycling",
+    "en_definition": "the act of processing used or abandoned materials for use in creating new products",
+    "tr_word": "geri dönüşüm",
+    "tr_definition": "kullanılmış veya atık malzemelerin yeni ürünler oluşturmak üzere işlenmesi işlemi",
+    "ru_word": "переработка",
+    "ru_definition": "процесс обработки использованных или заброшенных материалов для создания новых продуктов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan işlemek",
+                    "gaýtadan işlenilme"
+                ],
+                "Uzbek": [
+                    "qayta ishlash",
+                    "qayta tayyorlash"
+                ],
+                "Uyghur": [
+                    "قايتا پىششىقلاپ ئىشلەش",
+                    "قايتا پايدىلىنىش"
+                ],
+                "Kazakh": [
+                    "қайта өңдеу",
+                    "қайта айналым",
+                    "қайта пайдалану"
+                ],
+                "Kyrgyz": [
+                    "кайра иштетүү",
+                    "кайра иштетүүчүлүк",
+                    "кайра жаратуу"
+                ],
+                "Karakalpak": [
+                    "qayta isleo",
+                    "qayta óńleo"
+                ],
+                "Bashkir": [
+                    "ҡайта эшкәртеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden değerlendirme"
+                ],
+                "Azerbaijani": [
+                    "yenidən emal"
+                ],
+                "Tatar": [
+                    "яңадан эшкәртү"
+                ],
+                "Bashkir": [
+                    "яңынан эшкәртеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ikilenç işlemek"
+                ],
+                "Uzbek": [
+                    "ikkilamchi ishlov"
+                ],
+                "Tatar": [
+                    "икенчел эшкәртү"
+                ],
+                "Bashkir": [
+                    "икенсел эшкәртеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geri dönüşüm",
+                    "geri kazanım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təkrar emal",
+                    "təkrar dövriyyə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەسلىگە كەلتۈرۈش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәдеге жарату"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ekinshi márte paydalanıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат эшкәртү"
+                ]
+            }
+        }
+    ]
+}

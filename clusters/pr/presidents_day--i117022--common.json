@@ -1,0 +1,81 @@
+{
+    "id": "i117022",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "presidents' day",
+    "en_definition": "the third Monday in February; commemorates both presidents Lincoln and Washington",
+    "tr_word": "Başkanlar Günü",
+    "tr_definition": "Şubat ayının üçüncü pazartesi günü kutlanan; hem Lincoln hem de Washington'ı anan resmi tatil.",
+    "ru_word": "День президентов",
+    "ru_definition": "Третий понедельник февраля; праздник в честь президентов Линкольна и Вашингтона.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Prezidentlər günü"
+                ],
+                "Turkmen": [
+                    "Prezidentler güni"
+                ],
+                "Uzbek": [
+                    "Prezidentlar kuni"
+                ],
+                "Uyghur": [
+                    "پىرېزىدېنتلار كۈنى"
+                ],
+                "Kazakh": [
+                    "Президенттер күні",
+                    "Президент күні"
+                ],
+                "Kyrgyz": [
+                    "Президенттер күнү",
+                    "Президент күнү"
+                ],
+                "Karakalpak": [
+                    "Prezidentler kúni"
+                ],
+                "Tatar": [
+                    "Президентлар көне"
+                ],
+                "Bashkir": [
+                    "Президенттар көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Başkanlar Günü"
+                ],
+                "Turkmen": [
+                    "Döwlet baştutanlarynyň güni"
+                ],
+                "Tatar": [
+                    "Дәүләт башлыклары көне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Cumhurbaşkanları Günü"
+                ],
+                "Uyghur": [
+                    "جۇمھۇر رەئىسلەر بايرىمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Dövlət başçıları günü"
+                ],
+                "Uzbek": [
+                    "Davlat rahbarlari kuni"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+# Trade unionist
+| Field | Detail |
+|---|---|
+| **ID** | i93721 |
+| **English** | trade unionist |
+| **Type** | noun |
+| **Definition** | a worker who belongs to a trade union |
+| **Source** | common |
+| **Ortatil** | ittifäqçi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| кәсіподақшы | käsipodaqşı |
+| **Bashkir** | |
+| профсоюзсы | profsoyuzsı |
+
+```json
+{
+    "id": "i93721",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trade unionist",
+    "en_definition": "a worker who belongs to a trade union",
+    "tr_word": "sendikacı",
+    "tr_definition": "Bir işçi sendikasına üye olan veya sendika faaliyetlerinde aktif rol alan kimse.",
+    "ru_word": "профсоюзный деятель",
+    "ru_definition": "Член профессионального союза или лицо, активно участвующее в его деятельности.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kasaba uyushmasi a'zosi"
+                ],
+                "Uyghur": [
+                    "كەسپىي ئىتتىپاق ئەزاسى"
+                ],
+                "Kazakh": [
+                    "кәсіподақ мүшесі",
+                    "кәсіподақшы"
+                ],
+                "Kyrgyz": [
+                    "кесиптик бирлик мүчөсү"
+                ],
+                "Karakalpak": [
+                    "kásіpodaq múshesі",
+                    "kásіpodaqshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "профсоюз мүчөсү"
+                ],
+                "Tatar": [
+                    "профсоюз әгъзасы"
+                ],
+                "Bashkir": [
+                    "профсоюз ағзаһы",
+                    "профсоюзсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sendikacı",
+                    "sendika üyesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həmkarlar ittifaqı üzvü",
+                    "həmkarçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kärdeşler arkalaşygynyň agzasy",
+                    "kärdeşler arkalaşygy agzasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ittifoqchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىشچىلار ئۇيۇشمىسى ئەزاسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "берлек әгъзасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "һөнәри берлек әгъзасы"
+                ]
+            }
+        }
+    ]
+}
+```
+

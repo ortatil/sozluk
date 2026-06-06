@@ -1,0 +1,305 @@
+# Thrash out
+| Field | Detail |
+|---|---|
+| **ID** | i26907 |
+| **English** | thrash out |
+| **Type** | verb |
+| **Definition** | discuss vehemently in order to reach a solution or an agreement |
+| **Source** | common |
+| **Ortatil** | ḳeñeşmäk, maslahatlaşmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḳeñeşmäk** | **maslahatlaşmaq** | **talqılamaq** |
+|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ |
+| Azerbaijani | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ❌ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ | ✅ |
+| Tatar | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.67 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0.20 | 0.60 |
+| *In All* | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **2.63** | **2.37** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كېڭىشىش | keñişiş |
+| مۇنازىرىلىشىش | munazirilişiş |
+| **Kazakh** | |
+| кеңесу | keñesu |
+| талқылау | talqılau |
+| пікірталастыру | pikirtalastıru |
+| **Kyrgyz** | |
+| кеңешүү | keñeşüü |
+| сүйлөшүү | süylöşüü |
+| талкуулоо | talkuuloo |
+| акылдашуу | akıldaşuu |
+| чечүү | çeçüü |
+| **Tatar** | |
+| киңәшү | kiñäşü |
+| сөйләшү | söyläşü |
+| бәхәсләшү | bäxäsläşü |
+| аралашу | aralaşu |
+| **Bashkir** | |
+| кәңәшләшеү | käñäşläşeü |
+| аралашыу | aralaşıu |
+| тәфсирләү | täfsirläü |
+
+```json
+{
+    "id": "i26907",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "thrash out",
+    "en_definition": "discuss vehemently in order to reach a solution or an agreement",
+    "tr_word": "enine boyuna tartışmak",
+    "tr_definition": "bir çözüm veya anlaşmaya varmak için bir konuyu tüm ayrıntılarıyla ve hararetle tartışmak",
+    "ru_word": "детально обсуждать",
+    "ru_definition": "всесторонне и бурно обсуждать вопрос с целью достижения соглашения или решения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "geňeşmek"
+                ],
+                "Uyghur": [
+                    "كېڭىشىش"
+                ],
+                "Kazakh": [
+                    "кеңесу"
+                ],
+                "Kyrgyz": [
+                    "кеңешүү"
+                ],
+                "Karakalpak": [
+                    "keńesip sheshio"
+                ],
+                "Tatar": [
+                    "киңәшү"
+                ],
+                "Bashkir": [
+                    "кәңәшләшеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həll etmək"
+                ],
+                "Uzbek": [
+                    "hal qilmoq"
+                ],
+                "Uyghur": [
+                    "ھەل قىلىش"
+                ],
+                "Tatar": [
+                    "хәл итү"
+                ],
+                "Bashkir": [
+                    "хәл итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müzakere etmek"
+                ],
+                "Azerbaijani": [
+                    "müzakirə etmək"
+                ],
+                "Uzbek": [
+                    "muhokama qilmoq"
+                ],
+                "Uyghur": [
+                    "مۇزاكىرە قىلىش",
+                    "مۇنازىرىلىشىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məsləhətləşmək"
+                ],
+                "Turkmen": [
+                    "maslahatlaşmak"
+                ],
+                "Uzbek": [
+                    "maslahatlashmoq"
+                ],
+                "Karakalpak": [
+                    "másláhátlesio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "сүйлөшүү"
+                ],
+                "Karakalpak": [
+                    "sóylesip sheshio"
+                ],
+                "Tatar": [
+                    "сөйләшү"
+                ],
+                "Bashkir": [
+                    "һөйләшеп килешеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karara bağlamak"
+                ],
+                "Turkmen": [
+                    "ara alyp maslahatlaşmak"
+                ],
+                "Bashkir": [
+                    "аралашыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "талқылау"
+                ],
+                "Kyrgyz": [
+                    "талкуулоо"
+                ],
+                "Karakalpak": [
+                    "talqılao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çözüme kavuşturmak"
+                ],
+                "Turkmen": [
+                    "çözgüt tapmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "пікірталастыру"
+                ],
+                "Tatar": [
+                    "бәхәсләшү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "акылдашуу"
+                ],
+                "Tatar": [
+                    "аралашу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "enine boyuna tartışmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istişare etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "aydınlaşdırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çürütmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jedelleşmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kelishib olmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yechim topmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шешімге келу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ортаға салу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чечүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәфсирләү"
+                ]
+            }
+        }
+    ]
+}
+```
+

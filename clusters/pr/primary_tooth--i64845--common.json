@@ -1,0 +1,92 @@
+{
+    "id": "i64845",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "primary tooth",
+    "en_definition": "one of the first temporary teeth of a young mammal (one of 20 in children)",
+    "tr_word": "süt dişi",
+    "tr_definition": "Genç memelilerde (çocuklarda 20 adet olan) çıkan ilk geçici dişlerden her biri.",
+    "ru_word": "молочный зуб",
+    "ru_definition": "Один из первых временных зубов молодого млекопитающего (у детей их 20).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "süt dişi"
+                ],
+                "Azerbaijani": [
+                    "süd dişi"
+                ],
+                "Turkmen": [
+                    "süýt dişi"
+                ],
+                "Uzbek": [
+                    "sut tishi"
+                ],
+                "Uyghur": [
+                    "سۈت چىشى"
+                ],
+                "Kazakh": [
+                    "сүт тіс",
+                    "сүт тістері"
+                ],
+                "Kyrgyz": [
+                    "сүт тиш"
+                ],
+                "Karakalpak": [
+                    "sút tis",
+                    "sút tisler"
+                ],
+                "Tatar": [
+                    "сөт теше"
+                ],
+                "Bashkir": [
+                    "һөт теше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bolalik tishi"
+                ],
+                "Kyrgyz": [
+                    "бала тиш"
+                ],
+                "Bashkir": [
+                    "бала саҡ теше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geçici diş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müvəqqəti diş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaga dişi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دەسلەپكى چىش"
+                ]
+            }
+        }
+    ]
+}

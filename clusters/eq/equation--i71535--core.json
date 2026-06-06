@@ -1,0 +1,82 @@
+{
+    "id": "i71535",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "equation",
+    "en_definition": "a mathematical statement that two expressions are equal",
+    "tr_word": "denklem",
+    "tr_definition": "iki ifadenin birbirine eşit olduğunu gösteren matematiksel ifade",
+    "ru_word": "уравнение",
+    "ru_definition": "математическое равенство, содержащее одну или несколько неизвестных величин",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "denklem"
+                ],
+                "Azerbaijani": [
+                    "tənlik"
+                ],
+                "Turkmen": [
+                    "deňleme",
+                    "deňlik"
+                ],
+                "Uzbek": [
+                    "tenglama"
+                ],
+                "Uyghur": [
+                    "تەڭلىمە"
+                ],
+                "Kazakh": [
+                    "теңдеу",
+                    "теңдік"
+                ],
+                "Kyrgyz": [
+                    "теңдеме",
+                    "теңдик"
+                ],
+                "Karakalpak": [
+                    "teńleme",
+                    "teńlik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müsavat"
+                ],
+                "Azerbaijani": [
+                    "müsavat"
+                ],
+                "Uzbek": [
+                    "musovot"
+                ],
+                "Uyghur": [
+                    "مۇساۋات"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тигезләмә",
+                    "тигезлек"
+                ],
+                "Bashkir": [
+                    "тигеҙләмә",
+                    "тигеҙлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşitlik"
+                ]
+            }
+        }
+    ]
+}

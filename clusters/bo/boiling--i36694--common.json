@@ -1,0 +1,98 @@
+{
+    "id": "i36694",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "boiling",
+    "en_definition": "cooking in a liquid that has been brought to a boil",
+    "tr_word": "kaynatma",
+    "tr_definition": "bir sıvıyı kaynama noktasına getirerek içinde yemek pişirme yöntemi",
+    "ru_word": "варка",
+    "ru_definition": "способ приготовления пищи в кипящей жидкости",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaynatma"
+                ],
+                "Azerbaijani": [
+                    "qaynatma",
+                    "qaynadılma"
+                ],
+                "Turkmen": [
+                    "gaýnatma",
+                    "gaýnadylma"
+                ],
+                "Uzbek": [
+                    "qaynatish"
+                ],
+                "Uyghur": [
+                    "قاينىتىش",
+                    "قاينىماق"
+                ],
+                "Kazakh": [
+                    "қайнату"
+                ],
+                "Kyrgyz": [
+                    "кайнатуу"
+                ],
+                "Karakalpak": [
+                    "qaynatıu",
+                    "qaynau"
+                ],
+                "Tatar": [
+                    "кайнату"
+                ],
+                "Bashkir": [
+                    "ҡайнатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bişirmə"
+                ],
+                "Turkmen": [
+                    "bişirme"
+                ],
+                "Uzbek": [
+                    "pishirish"
+                ],
+                "Uyghur": [
+                    "پىشۇرۇش"
+                ],
+                "Kazakh": [
+                    "пісіру"
+                ],
+                "Kyrgyz": [
+                    "бышыруу"
+                ],
+                "Karakalpak": [
+                    "pіsiriu"
+                ],
+                "Tatar": [
+                    "пешерү"
+                ],
+                "Bashkir": [
+                    "бешереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haşlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jo'sh"
+                ]
+            }
+        }
+    ]
+}

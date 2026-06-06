@@ -1,0 +1,103 @@
+{
+    "id": "i48495",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "otter",
+    "en_definition": "freshwater carnivorous mammal having webbed and clawed feet and dark brown fur",
+    "tr_word": "su samuru",
+    "tr_definition": "perdeli ayaklı, koyu kahverengi kürklü, tatlı sularda yaşayan etçil bir memeli",
+    "ru_word": "выдра",
+    "ru_definition": "хищное млекопитающее семейства куньих с перепончатыми лапами и густым мехом, обитающее в пресной воде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gunduz"
+                ],
+                "Uzbek": [
+                    "qunduz"
+                ],
+                "Uyghur": [
+                    "قۇندۇز"
+                ],
+                "Kazakh": [
+                    "құндыз"
+                ],
+                "Kyrgyz": [
+                    "кундуз"
+                ],
+                "Tatar": [
+                    "кындыз"
+                ],
+                "Bashkir": [
+                    "ҡондоҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su samuru"
+                ],
+                "Azerbaijani": [
+                    "su samuru"
+                ],
+                "Turkmen": [
+                    "suv iti"
+                ],
+                "Uyghur": [
+                    "سۇ قۇندۇزى"
+                ],
+                "Kyrgyz": [
+                    "суусар"
+                ],
+                "Karakalpak": [
+                    "susar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кәмшат"
+                ],
+                "Karakalpak": [
+                    "qamshat"
+                ],
+                "Tatar": [
+                    "кама"
+                ],
+                "Bashkir": [
+                    "ҡама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "suiti"
+                ],
+                "Uzbek": [
+                    "suviti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lutra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "samur"
+                ]
+            }
+        }
+    ]
+}

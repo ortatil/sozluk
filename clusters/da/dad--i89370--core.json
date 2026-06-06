@@ -1,0 +1,127 @@
+{
+    "id": "i89370",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "dad",
+    "en_definition": "an informal term for a father; probably derived from baby talk",
+    "tr_word": "baba",
+    "tr_definition": "Bir çocuğu olan erkek; ebeveynlerden erkek olanı.",
+    "ru_word": "папа",
+    "ru_definition": "Разговорное обозначение отца, часто используемое детьми.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ata"
+                ],
+                "Azerbaijani": [
+                    "ata"
+                ],
+                "Turkmen": [
+                    "ata"
+                ],
+                "Uzbek": [
+                    "ota"
+                ],
+                "Uyghur": [
+                    "ئاتا",
+                    "ئاتىكا"
+                ],
+                "Kazakh": [
+                    "ата"
+                ],
+                "Kyrgyz": [
+                    "ата",
+                    "атаке"
+                ],
+                "Karakalpak": [
+                    "ata"
+                ],
+                "Tatar": [
+                    "атай",
+                    "әткәй",
+                    "әти"
+                ],
+                "Bashkir": [
+                    "атай",
+                    "ата"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baba"
+                ],
+                "Azerbaijani": [
+                    "baba"
+                ],
+                "Turkmen": [
+                    "baba"
+                ],
+                "Kyrgyz": [
+                    "аба"
+                ],
+                "Tatar": [
+                    "бабай"
+                ],
+                "Bashkir": [
+                    "бабай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dədə"
+                ],
+                "Uzbek": [
+                    "ada",
+                    "dada"
+                ],
+                "Uyghur": [
+                    "دادا"
+                ],
+                "Kazakh": [
+                    "дада"
+                ],
+                "Karakalpak": [
+                    "dada"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "peder"
+                ],
+                "Turkmen": [
+                    "peder"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kaka"
+                ],
+                "Kazakh": [
+                    "көке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әке"
+                ],
+                "Karakalpak": [
+                    "áke"
+                ]
+            }
+        }
+    ]
+}

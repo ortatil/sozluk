@@ -1,0 +1,85 @@
+# Fish fry
+| Field | Detail |
+|---|---|
+| **ID** | i76579 |
+| **English** | fish fry |
+| **Type** | noun |
+| **Definition** | a cookout where fried fish is the main course |
+| **Source** | common |
+| **Ortatil** | baliqhörlük |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i76579",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fish fry",
+    "en_definition": "a cookout where fried fish is the main course",
+    "tr_word": "balık kızartma partisi",
+    "tr_definition": "ana yemeğin kızarmış balık olduğu açık hava yemek organizasyonu",
+    "ru_word": "рыбная вечеринка",
+    "ru_definition": "пикник или общественное мероприятие, на котором основным блюдом является жареная рыба",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balık ziyafeti",
+                    "balık şöleni",
+                    "balık kızartması etkinliği"
+                ],
+                "Azerbaijani": [
+                    "balıq qonaqlığı",
+                    "balıq ziyafəti",
+                    "balıq məclisi"
+                ],
+                "Turkmen": [
+                    "balyk zolpasy",
+                    "balyk meýlisi",
+                    "balyk gowurmasy"
+                ],
+                "Uzbek": [
+                    "baliqxoʻrlik",
+                    "baliq sayli",
+                    "baliq ziyofati"
+                ],
+                "Uyghur": [
+                    "بېلىق زىياپىتى",
+                    "بېلىق قورۇمىسى",
+                    "بېلىق تامىقى"
+                ],
+                "Kazakh": [
+                    "балық тойы",
+                    "балық асы",
+                    "балық қуыру кеші"
+                ],
+                "Kyrgyz": [
+                    "балык кечеси",
+                    "балык той",
+                    "балык кууруу"
+                ],
+                "Karakalpak": [
+                    "balıq sayranı",
+                    "balıq májilisi",
+                    "balıq quırıo keshesi"
+                ],
+                "Tatar": [
+                    "балык мәҗлесе",
+                    "балык ашы",
+                    "балык сые"
+                ],
+                "Bashkir": [
+                    "балыҡ ашы",
+                    "балыҡ мәжлесе",
+                    "балыҡ табыны"
+                ]
+            }
+        }
+    ]
+}
+```
+

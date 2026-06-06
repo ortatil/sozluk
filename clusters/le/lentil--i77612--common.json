@@ -1,0 +1,82 @@
+{
+    "id": "i77612",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lentil",
+    "en_definition": "round flat seed of the lentil plant used for food",
+    "tr_word": "mercimek",
+    "tr_definition": "Baklagillerden, besin değeri yüksek, yuvarlak ve yassı tohum",
+    "ru_word": "чечевица",
+    "ru_definition": "Растение семейства бобовых, а также его круглые плоские семена, употребляемые в пищу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mercimek"
+                ],
+                "Azerbaijani": [
+                    "mərcimək",
+                    "mərci"
+                ],
+                "Turkmen": [
+                    "merjimek",
+                    "merji"
+                ],
+                "Uzbek": [
+                    "marjumak"
+                ],
+                "Uyghur": [
+                    "مەرجىمەك"
+                ],
+                "Kyrgyz": [
+                    "марс"
+                ],
+                "Tatar": [
+                    "мәрҗимәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yasmiq"
+                ],
+                "Uyghur": [
+                    "يېسسىمۇق"
+                ],
+                "Kazakh": [
+                    "жасымық",
+                    "жасымықша"
+                ],
+                "Kyrgyz": [
+                    "жасмык"
+                ],
+                "Karakalpak": [
+                    "jasımıq"
+                ],
+                "Tatar": [
+                    "ясымык"
+                ],
+                "Bashkir": [
+                    "яҫы борсаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "másh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мөшәрәп"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "i112710",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cold sweat",
+    "en_definition": "the physical condition of concurrent perspiration and chill; associated with fear",
+    "tr_word": "soğuk ter",
+    "tr_definition": "korku, şok veya hastalık nedeniyle oluşan, üşüme hissiyle birlikte görülen terleme durumu",
+    "ru_word": "холодный пот",
+    "ru_definition": "состояние одновременного потоотделения и озноба, обычно вызванное сильным страхом, шоком или болью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soğuk ter"
+                ],
+                "Azerbaijani": [
+                    "soyuq tər"
+                ],
+                "Turkmen": [
+                    "sowuk der"
+                ],
+                "Uzbek": [
+                    "sovuq ter"
+                ],
+                "Uyghur": [
+                    "سوغۇق تەر"
+                ],
+                "Kazakh": [
+                    "суық тер"
+                ],
+                "Kyrgyz": [
+                    "суук тер"
+                ],
+                "Karakalpak": [
+                    "suıq ter"
+                ],
+                "Bashkir": [
+                    "һыуыҡ тир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "korku teri"
+                ],
+                "Azerbaijani": [
+                    "qorxu təri"
+                ],
+                "Turkmen": [
+                    "gorky deri"
+                ],
+                "Uyghur": [
+                    "قورقۇنچ تەرى"
+                ],
+                "Kazakh": [
+                    "қорқыныш тері"
+                ],
+                "Tatar": [
+                    "курку тире"
+                ],
+                "Bashkir": [
+                    "ҡурҡыу тире"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muzdek ter"
+                ],
+                "Kazakh": [
+                    "мұздай тер"
+                ],
+                "Kyrgyz": [
+                    "муздак тер"
+                ],
+                "Karakalpak": [
+                    "mұzday ter"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ecel teri"
+                ],
+                "Azerbaijani": [
+                    "əcəl təri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "салкын тир"
+                ]
+            }
+        }
+    ]
+}

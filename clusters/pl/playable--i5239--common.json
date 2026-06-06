@@ -1,0 +1,92 @@
+{
+    "id": "i5239",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "playable",
+    "en_definition": "capable of or suitable for being played or played on",
+    "tr_word": "oynanabilir",
+    "tr_definition": "oynanmaya veya üzerinde oynanmaya uygun olan",
+    "ru_word": "играбельный",
+    "ru_definition": "пригодный для игры или подходящий для того, чтобы в него играли",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oynanabilir"
+                ],
+                "Azerbaijani": [
+                    "oynanıla bilən",
+                    "oynamalı",
+                    "oyuna yararlı",
+                    "oyuna münasib"
+                ],
+                "Turkmen": [
+                    "oýnap bolýan",
+                    "oýnalmaga ýaramly",
+                    "oýnalýan"
+                ],
+                "Uzbek": [
+                    "o'ynasa bo'ladigan",
+                    "o'ynashga yaroqli",
+                    "o'ynashga munosib"
+                ],
+                "Uyghur": [
+                    "ئوينىغىلى بولىدىغان",
+                    "ئويناشقا باب",
+                    "ئويناشقا مۇۋاپىق"
+                ],
+                "Kazakh": [
+                    "ойнауға жарамды",
+                    "ойнауға қолайлы",
+                    "ойналатын"
+                ],
+                "Kyrgyz": [
+                    "ойноого жарактуу",
+                    "ойноого ылайыктуу",
+                    "ойнолчу",
+                    "ойноого боло турган"
+                ],
+                "Karakalpak": [
+                    "oynalatuǵın",
+                    "oynaoǵa jaramlı",
+                    "oynaoǵa qolaylı"
+                ],
+                "Tatar": [
+                    "уйнарлык",
+                    "уйнап була торган",
+                    "уйнарга яраклы"
+                ],
+                "Bashkir": [
+                    "уйнарлыҡ",
+                    "уйнарға яраҡлы",
+                    "уйнарға мөмкин булған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "icra edilebilir"
+                ],
+                "Uzbek": [
+                    "ijro etsa bo'ladigan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalınabilir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müsait"
+                ]
+            }
+        }
+    ]
+}

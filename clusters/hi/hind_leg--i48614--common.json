@@ -1,0 +1,81 @@
+{
+    "id": "i48614",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hind leg",
+    "en_definition": "the back limb of a quadruped",
+    "tr_word": "arka bacak",
+    "tr_definition": "Dört ayaklı bir hayvanın arka tarafındaki uzuvlarından her biri.",
+    "ru_word": "задняя нога",
+    "ru_definition": "Задняя конечность четвероногого животного.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arka bacak",
+                    "art ayak",
+                    "arka ayak"
+                ],
+                "Azerbaijani": [
+                    "arxa ayaq"
+                ],
+                "Turkmen": [
+                    "arka aýak",
+                    "yzky aýak"
+                ],
+                "Uzbek": [
+                    "orqa oyoq"
+                ],
+                "Uyghur": [
+                    "ئارقا پۇت"
+                ],
+                "Kazakh": [
+                    "артқы аяқ"
+                ],
+                "Kyrgyz": [
+                    "арткы бут",
+                    "арткы шыйрак"
+                ],
+                "Karakalpak": [
+                    "artqı ayaq"
+                ],
+                "Tatar": [
+                    "арткы аяк",
+                    "арт аяк"
+                ],
+                "Bashkir": [
+                    "артҡы аяҡ",
+                    "артҡы бот"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "keyingi oyoq"
+                ],
+                "Uyghur": [
+                    "كەينى پۇت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сан"
+                ],
+                "Karakalpak": [
+                    "san"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dal ayaq"
+                ]
+            }
+        }
+    ]
+}

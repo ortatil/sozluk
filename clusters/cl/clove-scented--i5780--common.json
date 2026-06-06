@@ -1,0 +1,83 @@
+{
+    "id": "i5780",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "clove-scented",
+    "en_definition": "smelling of clove",
+    "tr_word": "karanfil kokulu",
+    "tr_definition": "karanfil gibi kokan",
+    "ru_word": "с ароматом гвоздики",
+    "ru_definition": "имеющий запах гвоздики",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "galampyr ysly",
+                    "galampyr ysy gelýän",
+                    "galampyr yslyja"
+                ],
+                "Uzbek": [
+                    "qalampir munchoq hidli",
+                    "qalampir munchoq bo'yli",
+                    "qalampir munchoq iforli"
+                ],
+                "Uyghur": [
+                    "قەلەمپۇر پۇراقلىق",
+                    "قەلەمپۇر پۇرىقى كېلىدىغان",
+                    "قەلەمپۇر پۇرىقى بار"
+                ],
+                "Kazakh": [
+                    "қалампыр иісті",
+                    "қалампыр аңқыған"
+                ],
+                "Karakalpak": [
+                    "qálempir iyisli",
+                    "qálempir pushıqlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karanfil kokulu",
+                    "karanfil ıtriyatlı"
+                ],
+                "Kazakh": [
+                    "қалампыр жұпарлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "канәфер исле",
+                    "канәфер хуш исле",
+                    "канәферле"
+                ],
+                "Bashkir": [
+                    "ҡәнәфер еҫле",
+                    "ҡәнәфер еҫе килгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mıxək qoxulu",
+                    "mıxək ətirli",
+                    "mıxəkli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыпар жыттуу",
+                    "жыпардуу",
+                    "жыпар аңкыган"
+                ]
+            }
+        }
+    ]
+}

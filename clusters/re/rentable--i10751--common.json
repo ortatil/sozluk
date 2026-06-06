@@ -1,0 +1,105 @@
+{
+    "id": "i10751",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "rentable",
+    "en_definition": "that is able or fit be rented",
+    "tr_word": "kiralanabilir",
+    "tr_definition": "kiraya verilmeye uygun olan veya kiralanabilen",
+    "ru_word": "сдаваемый в аренду",
+    "ru_definition": "пригодный или доступный для сдачи в наем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "icara verilebilir"
+                ],
+                "Azerbaijani": [
+                    "icarəyə verilən",
+                    "icarəlik"
+                ],
+                "Turkmen": [
+                    "ijaralyk"
+                ],
+                "Uzbek": [
+                    "ijaraga beriladigan",
+                    "ijarabop",
+                    "ijara uchun yaroqli"
+                ],
+                "Uyghur": [
+                    "ئىجارىگە بېرىلىدىغان",
+                    "ئىجارىلىك"
+                ],
+                "Kyrgyz": [
+                    "ижарага берилүүчү",
+                    "ижаралык"
+                ],
+                "Karakalpak": [
+                    "ijaraǵa beriletuǵın",
+                    "ijaralıq"
+                ],
+                "Tatar": [
+                    "иҗарага бирелә торган",
+                    "иҗаралы"
+                ],
+                "Bashkir": [
+                    "ижәрәгә бирелеүсән",
+                    "ижәрәгә яраҡлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kiralık",
+                    "kiralanabilir"
+                ],
+                "Azerbaijani": [
+                    "kirayəlik",
+                    "kirayə verilə bilən"
+                ],
+                "Turkmen": [
+                    "kireýine berilýän",
+                    "kireýlik"
+                ],
+                "Uyghur": [
+                    "كىراغا بېرىلىدىغان"
+                ],
+                "Kazakh": [
+                    "кіреге берілетін"
+                ],
+                "Kyrgyz": [
+                    "кире берилүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалға берілетін",
+                    "жалға жарамды"
+                ],
+                "Karakalpak": [
+                    "jalǵa beriletuǵın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "килешүле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡуртымға бирелеүсән",
+                    "ҡуртымға яраҡлы"
+                ]
+            }
+        }
+    ]
+}

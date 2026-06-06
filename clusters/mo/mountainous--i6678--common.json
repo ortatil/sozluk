@@ -1,0 +1,94 @@
+{
+    "id": "i6678",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "mountainous",
+    "en_definition": "containing many mountains",
+    "tr_word": "dağlık",
+    "tr_definition": "çok sayıda dağın bulunduğu bölge veya arazi",
+    "ru_word": "гористый",
+    "ru_definition": "имеющий много гор, покрытый горами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağlık",
+                    "dağlı"
+                ],
+                "Azerbaijani": [
+                    "dağlıq",
+                    "dağlı"
+                ],
+                "Turkmen": [
+                    "daglyk",
+                    "dagly"
+                ],
+                "Uzbek": [
+                    "togʻli",
+                    "togʻlik"
+                ],
+                "Uyghur": [
+                    "تاغلىق",
+                    "تاغلىق رايون",
+                    "تاغلىق جاي"
+                ],
+                "Kazakh": [
+                    "таулы",
+                    "тау-тасты"
+                ],
+                "Karakalpak": [
+                    "taolı",
+                    "tao-taslı"
+                ],
+                "Tatar": [
+                    "таулы",
+                    "таулыклы"
+                ],
+                "Bashkir": [
+                    "таулы",
+                    "тау-ташлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "биік"
+                ],
+                "Kyrgyz": [
+                    "бийик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cebel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kuhistan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sertogʻ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоолуу",
+                    "тоо-таштуу"
+                ]
+            }
+        }
+    ]
+}

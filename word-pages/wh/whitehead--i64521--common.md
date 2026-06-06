@@ -1,0 +1,139 @@
+# Whitehead
+| Field | Detail |
+|---|---|
+| **ID** | i64521 |
+| **English** | whitehead |
+| **Type** | noun |
+| **Definition** | a small whitish lump in the skin due to a clogged sebaceous gland |
+| **Source** | common |
+| **Ortatil** | bezew |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| безеу | bezeu |
+
+```json
+{
+    "id": "i64521",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "whitehead",
+    "en_definition": "a small whitish lump in the skin due to a clogged sebaceous gland",
+    "tr_word": "kapalı komedon",
+    "tr_definition": "tıkanmış bir yağ bezinden kaynaklanan, ciltteki küçük beyazımsı şişlik",
+    "ru_word": "белый угорь",
+    "ru_definition": "небольшой беловатый бугорок на коже, возникающий из-за закупорки сальной железы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akne"
+                ],
+                "Azerbaijani": [
+                    "ağ sızanaq",
+                    "ağ nöqtə"
+                ],
+                "Turkmen": [
+                    "akja düwürtik"
+                ],
+                "Uzbek": [
+                    "oq husnbuzar",
+                    "oq donacha"
+                ],
+                "Uyghur": [
+                    "ئاق دانخورەك",
+                    "ئاق دانە"
+                ],
+                "Kazakh": [
+                    "ақ безеу",
+                    "ақ нүкте"
+                ],
+                "Kyrgyz": [
+                    "ак безетки",
+                    "ак так",
+                    "ак дан"
+                ],
+                "Karakalpak": [
+                    "aq bezeu",
+                    "aq núkte"
+                ],
+                "Tatar": [
+                    "ак төртке",
+                    "ак бетчә"
+                ],
+                "Bashkir": [
+                    "аҡ һытҡы",
+                    "аҡ төйөр",
+                    "аҡ бетсә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağ bezesi"
+                ],
+                "Turkmen": [
+                    "ýag düwürtigi"
+                ],
+                "Uzbek": [
+                    "yogʻli toshma"
+                ],
+                "Uyghur": [
+                    "ياغ دانچىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz nokta"
+                ],
+                "Azerbaijani": [
+                    "piy vəzisi tıxacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "безеу"
+                ],
+                "Karakalpak": [
+                    "bezeu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sivilce"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ak düwürtik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "майлы төртке"
+                ]
+            }
+        }
+    ]
+}
+```
+

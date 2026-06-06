@@ -1,0 +1,95 @@
+{
+    "id": "i52897",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "digital display",
+    "en_definition": "a display that gives the information in the form of characters (numbers or letters)",
+    "tr_word": "sayısal gösterge",
+    "tr_definition": "bilgileri karakterler (sayılar veya harfler) biçiminde veren ekran",
+    "ru_word": "цифровой дисплей",
+    "ru_definition": "экран, отображающий информацию в виде символов (цифр или букв)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sayısal gösterge",
+                    "sayısal ekran"
+                ],
+                "Azerbaijani": [
+                    "saylı ekran"
+                ],
+                "Turkmen": [
+                    "sanly ekran",
+                    "sanly görkeziji"
+                ],
+                "Kazakh": [
+                    "сандық бейнебет",
+                    "сандық көрсеткіш",
+                    "сандық тақта"
+                ],
+                "Kyrgyz": [
+                    "сандык көрсөткүч",
+                    "санариптик такта",
+                    "санариптик экран"
+                ],
+                "Karakalpak": [
+                    "sanlı displey",
+                    "sanlı ekran",
+                    "sanlı kórsetkish"
+                ],
+                "Tatar": [
+                    "санлы экран",
+                    "санлы күрсәткеч"
+                ],
+                "Bashkir": [
+                    "һанлы күрһәткес",
+                    "һанлы табло",
+                    "һанлы экран"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "rəqəmsal ekran",
+                    "rəqəmsal göstərici"
+                ],
+                "Uzbek": [
+                    "raqamli ekran",
+                    "raqamli ko'rsatkich",
+                    "raqamli lavha"
+                ],
+                "Uyghur": [
+                    "رەقەملىك كۆرسەتكۈچ",
+                    "رەقەملىك ئېكران"
+                ],
+                "Tatar": [
+                    "рәкымле экран"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dijital ekran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gösterge paneli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "elektron displeý"
+                ]
+            }
+        }
+    ]
+}

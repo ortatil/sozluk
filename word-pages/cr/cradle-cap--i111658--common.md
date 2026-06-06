@@ -1,0 +1,191 @@
+# Cradle cap
+| Field | Detail |
+|---|---|
+| **ID** | i111658 |
+| **English** | cradle cap |
+| **Type** | noun |
+| **Definition** | a dermatitis of the scalp that is common in infants |
+| **Source** | common |
+| **Ortatil** | qabıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qabıq** | **konakqı** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 1 |
+| *Qarluq Subtotal* | 0 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  |
+| **O'TQ** | **1.97** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قاقاچ | qaqaç |
+| **Kazakh** | |
+| қабыршақ | qabırşaq |
+| қайызғақ | qayızğaq |
+| таз | taz |
+| **Kyrgyz** | |
+| кабырчык | kabırçık |
+| кабык | kabık |
+| **Bashkir** | |
+| ҡабырсыҡ | qabırsıq |
+| ҡабыҡ | qabıq |
+
+```json
+{
+    "id": "i111658",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cradle cap",
+    "en_definition": "a dermatitis of the scalp that is common in infants",
+    "tr_word": "konak",
+    "tr_definition": "bebeklerin kafa derisinde görülen, pullanma ve kabuklanma ile karakterize bir dermatit türü",
+    "ru_word": "гнейс",
+    "ru_definition": "себорейный дерматит волосистой части головы у младенцев, проявляющийся в виде жирных чешуек или корочек",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qabıq",
+                    "kəpək"
+                ],
+                "Turkmen": [
+                    "gabyk"
+                ],
+                "Kazakh": [
+                    "қабыршақ"
+                ],
+                "Kyrgyz": [
+                    "кабырчык",
+                    "кабык"
+                ],
+                "Karakalpak": [
+                    "kabırshak",
+                    "kabık"
+                ],
+                "Bashkir": [
+                    "ҡабырсыҡ",
+                    "ҡабыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bebek kepeği"
+                ],
+                "Kyrgyz": [
+                    "бешик кабыгы"
+                ],
+                "Karakalpak": [
+                    "besik kabırshagı"
+                ],
+                "Tatar": [
+                    "баш кабыгы",
+                    "баш кутыры",
+                    "баш катысы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konak"
+                ],
+                "Azerbaijani": [
+                    "qonaq"
+                ],
+                "Turkmen": [
+                    "goňak"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "başyň gabygy"
+                ],
+                "Uzbek": [
+                    "bosh qasmog'i"
+                ],
+                "Uyghur": [
+                    "باش قاقىچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "saç konağı"
+                ],
+                "Azerbaijani": [
+                    "baş qonağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاقاچ"
+                ],
+                "Kazakh": [
+                    "қайызғақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qasmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shirach"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بوۋاقلار قاقىچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәңгелдәк ҡабығы"
+                ]
+            }
+        }
+    ]
+}
+```
+

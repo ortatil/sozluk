@@ -1,0 +1,108 @@
+{
+    "id": "i16005",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "valved",
+    "en_definition": "(of brass instruments) having valves",
+    "tr_word": "pistonlu",
+    "tr_definition": "pistonları veya supapları olan (özellikle bakır üflemeli çalgılar için)",
+    "ru_word": "вентильный",
+    "ru_definition": "имеющий вентили (о медных духовых инструментах)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kapaklı"
+                ],
+                "Azerbaijani": [
+                    "qapaqlı",
+                    "klapanlı"
+                ],
+                "Turkmen": [
+                    "klapanly"
+                ],
+                "Uzbek": [
+                    "klapanli"
+                ],
+                "Uyghur": [
+                    "كېپەنچىلىك",
+                    "كېپەنچىسى بار"
+                ],
+                "Kazakh": [
+                    "клапанды"
+                ],
+                "Kyrgyz": [
+                    "клапандуу"
+                ],
+                "Karakalpak": [
+                    "klapanlı"
+                ],
+                "Tatar": [
+                    "клапанлы"
+                ],
+                "Bashkir": [
+                    "клапанлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ventilli"
+                ],
+                "Uyghur": [
+                    "ۋېنتىللىق"
+                ],
+                "Tatar": [
+                    "вентильле"
+                ],
+                "Bashkir": [
+                    "вентилле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pistonlu"
+                ],
+                "Azerbaijani": [
+                    "pistonlu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "porshenli"
+                ],
+                "Karakalpak": [
+                    "perdeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jo'mrakli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қақпақшалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жапкычтуу"
+                ]
+            }
+        }
+    ]
+}

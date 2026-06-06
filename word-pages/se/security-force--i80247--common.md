@@ -1,0 +1,204 @@
+# Security force
+| Field | Detail |
+|---|---|
+| **ID** | i80247 |
+| **English** | security force |
+| **Type** | noun |
+| **Definition** | a privately employed group hired to protect the security of a business or industry |
+| **Source** | common |
+| **Ortatil** | saqçılar |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **saqçılar** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.50** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مۇھاپىزەتچىلەر | muhapizätçilär |
+| **Kazakh** | |
+| сақшылар | saqşılar |
+| күзет | küzet |
+| **Kyrgyz** | |
+| сакчылык | sakçılık |
+| сакчылар | sakçılar |
+| күзөт | küzöt |
+| **Tatar** | |
+| сакчылар | sakçılar |
+| **Bashkir** | |
+| һаҡсылар | haqsılar |
+| һаҡлаусылар | haqlausılar |
+| ҡарауыл | qarauıl |
+
+```json
+{
+    "id": "i80247",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "security force",
+    "en_definition": "a privately employed group hired to protect the security of a business or industry",
+    "tr_word": "güvenlik gücü",
+    "tr_definition": "bir işletmenin veya endüstrinin güvenliğini korumak için tutulan özel istihdam edilmiş grup",
+    "ru_word": "служба безопасности",
+    "ru_definition": "частная группа сотрудников, нанятая для обеспечения безопасности предприятия или отрасли",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "soqchilar"
+                ],
+                "Kazakh": [
+                    "сақшылар"
+                ],
+                "Kyrgyz": [
+                    "сакчылык",
+                    "сакчылар"
+                ],
+                "Karakalpak": [
+                    "saqshılar"
+                ],
+                "Tatar": [
+                    "сак хезмәте",
+                    "сакчылар",
+                    "саклау хезмәте"
+                ],
+                "Bashkir": [
+                    "һаҡсылар",
+                    "һаҡ хеҙмәте",
+                    "һаҡлаусылар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koruma birimi"
+                ],
+                "Turkmen": [
+                    "gorag gullugy",
+                    "goragçylar"
+                ],
+                "Uzbek": [
+                    "qo'riqlash xizmati"
+                ],
+                "Kazakh": [
+                    "қорғау қызметі"
+                ],
+                "Karakalpak": [
+                    "qorǵau xızmeti"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mühafizə dəstəsi",
+                    "mühafizə xidməti",
+                    "mühafizə qrupu"
+                ],
+                "Uzbek": [
+                    "muhofaza xizmati"
+                ],
+                "Uyghur": [
+                    "مۇھاپىزەت ئەترىتى",
+                    "مۇھاپىزەتچىلەر"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күзет қызметі"
+                ],
+                "Kyrgyz": [
+                    "күзөт",
+                    "күзөт кызматы"
+                ],
+                "Karakalpak": [
+                    "kúzet xızmeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güvenlik birimi",
+                    "güvenlik ekibi",
+                    "güvenlik teşkilatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özel güvenlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "keşikçi dəstəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howpsuzlyk gullugy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "posbonlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوغداش كۈچلىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күзет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡарауыл"
+                ]
+            }
+        }
+    ]
+}
+```
+

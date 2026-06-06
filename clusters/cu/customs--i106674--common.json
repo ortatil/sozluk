@@ -1,0 +1,131 @@
+{
+    "id": "i106674",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "customs",
+    "en_definition": "money collected under a tariff",
+    "tr_word": "gümrük vergisi",
+    "tr_definition": "İthal edilen veya ihraç edilen mallar üzerinden alınan vergi.",
+    "ru_word": "таможенная пошлина",
+    "ru_definition": "денежный сбор, взимаемый государственными органами при провозе товаров через границу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bac"
+                ],
+                "Azerbaijani": [
+                    "bac"
+                ],
+                "Uzbek": [
+                    "boj",
+                    "bojxona toʻlovi"
+                ],
+                "Uyghur": [
+                    "باج"
+                ],
+                "Kazakh": [
+                    "баж"
+                ],
+                "Kyrgyz": [
+                    "бажы"
+                ],
+                "Karakalpak": [
+                    "bajı",
+                    "bajıxana"
+                ],
+                "Tatar": [
+                    "баҗ"
+                ],
+                "Bashkir": [
+                    "баж",
+                    "баж һалымы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salgyt"
+                ],
+                "Kazakh": [
+                    "салық"
+                ],
+                "Kyrgyz": [
+                    "салык"
+                ],
+                "Karakalpak": [
+                    "salıq"
+                ],
+                "Tatar": [
+                    "салым"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gümrük",
+                    "gümrük vergisi"
+                ],
+                "Azerbaijani": [
+                    "gömrük"
+                ],
+                "Turkmen": [
+                    "gümrük",
+                    "gümrük pajy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rüsum"
+                ],
+                "Azerbaijani": [
+                    "rüsum"
+                ],
+                "Uzbek": [
+                    "rusum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاموژنا بېجى",
+                    "تاموژنا ھەققى"
+                ],
+                "Bashkir": [
+                    "тамға",
+                    "тамға һалымы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кеден"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "төлөм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гамрех"
+                ]
+            }
+        }
+    ]
+}

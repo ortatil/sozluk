@@ -1,0 +1,88 @@
+{
+    "id": "i45882",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stork",
+    "en_definition": "large mostly Old World wading birds typically having white-and-black plumage",
+    "tr_word": "leylek",
+    "tr_definition": "Genellikle beyaz ve siyah tüylere sahip, uzun bacaklı, büyük bir göçmen kuş türü.",
+    "ru_word": "аист",
+    "ru_definition": "Крупная перелетная птица с длинными ногами и длинным клювом, обычно с черно-белым оперением.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "leylek"
+                ],
+                "Azerbaijani": [
+                    "leylək"
+                ],
+                "Turkmen": [
+                    "leglek"
+                ],
+                "Uzbek": [
+                    "laylak",
+                    "lak-lak"
+                ],
+                "Uyghur": [
+                    "لەگلەك",
+                    "لەيلەك"
+                ],
+                "Kazakh": [
+                    "ләйлек"
+                ],
+                "Kyrgyz": [
+                    "илек-илек",
+                    "лейлек"
+                ],
+                "Karakalpak": [
+                    "láylek",
+                    "láylik"
+                ],
+                "Tatar": [
+                    "ләкләк",
+                    "ләк-ләк"
+                ],
+                "Bashkir": [
+                    "ләкләк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hacı leylek"
+                ],
+                "Azerbaijani": [
+                    "hacıleylək"
+                ],
+                "Turkmen": [
+                    "häji leglek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oq laylak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дегелек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡауҙы"
+                ]
+            }
+        }
+    ]
+}

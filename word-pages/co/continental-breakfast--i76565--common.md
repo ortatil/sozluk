@@ -1,0 +1,143 @@
+# Continental breakfast
+| Field | Detail |
+|---|---|
+| **ID** | i76565 |
+| **English** | continental breakfast |
+| **Type** | noun |
+| **Definition** | a breakfast that usually includes a roll and coffee or tea |
+| **Source** | common |
+| **Ortatil** | çäy |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i76565",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "continental breakfast",
+    "en_definition": "a breakfast that usually includes a roll and coffee or tea",
+    "tr_word": "kontinental kahvaltı",
+    "tr_definition": "genellikle ekmek, tereyağı, reçel ve kahve veya çaydan oluşan hafif bir kahvaltı türü",
+    "ru_word": "континентальный завтрак",
+    "ru_definition": "легкий завтрак, обычно состоящий из булочки, масла, джема и кофе или чая",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yüngül səhər yeməyi"
+                ],
+                "Uyghur": [
+                    "يەڭگىل ناشتا"
+                ],
+                "Kazakh": [
+                    "жеңіл таңғы ас"
+                ],
+                "Kyrgyz": [
+                    "жеңил эртең мененки тамак"
+                ],
+                "Karakalpak": [
+                    "jeńil tańǵı as"
+                ],
+                "Tatar": [
+                    "җиңел иртәнге аш"
+                ],
+                "Bashkir": [
+                    "еңел иртәнге аш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýeňil ertirlik"
+                ],
+                "Uzbek": [
+                    "yengil nonushta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ertirlik nahary"
+                ],
+                "Kyrgyz": [
+                    "эртең мененки чай",
+                    "эртең мененки оокат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "choy-non"
+                ],
+                "Uyghur": [
+                    "ياۋروپاچە ناشتا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңғы дәм"
+                ],
+                "Karakalpak": [
+                    "tańǵı shay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иртәнге чәй",
+                    "иртәнге аш"
+                ],
+                "Bashkir": [
+                    "иртәнге сәй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hafif kahvaltı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soğuk kahvaltı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sadə səhər yeməyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oddiy nonushta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇرۇق ناشتا"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,78 @@
+{
+    "id": "i77493",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "raisin bran",
+    "en_definition": "bran flakes with raisins",
+    "tr_word": "kuru üzümlü kepek gevreği",
+    "tr_definition": "kuru üzüm içeren kepekli kahvaltılık gevrek",
+    "ru_word": "хлопья с изюмом",
+    "ru_definition": "сухой завтрак, состоящий из отрубных хлопьев и изюма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mayizli kepak",
+                    "mayizli kepak parchalari",
+                    "mayizli kepakli bo'tqa"
+                ],
+                "Kazakh": [
+                    "мейізді кебек",
+                    "мейіз қосылған кебек",
+                    "мейізді кебек үлпектері"
+                ],
+                "Kyrgyz": [
+                    "мейиздүү кебек",
+                    "мейиздүү акшак"
+                ],
+                "Karakalpak": [
+                    "meyizli kepek",
+                    "meyizli kepek botqası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuru üzümlü kepek gevreği",
+                    "üzümlü kepekli gevrek",
+                    "kuru üzümlü buğday gevreği"
+                ],
+                "Turkmen": [
+                    "üzümli kepek"
+                ],
+                "Uyghur": [
+                    "قۇرۇق ئۈزۈملۈك كېپەك پارچىلىرى",
+                    "قۇرۇق ئۈزۈملۈك كېپەك نېنى",
+                    "قۇرۇق ئۈزۈملۈك كېپەك قوناق پارچىلىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kişmişli kəpək",
+                    "kişmişli kəpək lopaları",
+                    "kişmişli kəpək sıyığı"
+                ],
+                "Turkmen": [
+                    "kişmişli kepek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йөземле көрпә",
+                    "йөземле көрпә кисәкләре"
+                ],
+                "Bashkir": [
+                    "йөҙөмлө кәпәк ярмаһы",
+                    "йөҙөмлө кәпәк"
+                ]
+            }
+        }
+    ]
+}

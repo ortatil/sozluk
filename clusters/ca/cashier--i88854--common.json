@@ -1,0 +1,102 @@
+{
+    "id": "i88854",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cashier",
+    "en_definition": "a person responsible for receiving payments for goods and services (as in a shop or restaurant)",
+    "tr_word": "kasiyer",
+    "tr_definition": "Bir mağaza veya restoranda mal ve hizmetlerin ödemesini alan görevli.",
+    "ru_word": "кассир",
+    "ru_definition": "Лицо, ответственное за прием платежей за товары и услуги (например, в магазине или ресторане).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kasiyer",
+                    "kasa görevlisi"
+                ],
+                "Azerbaijani": [
+                    "kassir"
+                ],
+                "Turkmen": [
+                    "kassir"
+                ],
+                "Uzbek": [
+                    "gʻaznachi"
+                ],
+                "Uyghur": [
+                    "كاسسىر"
+                ],
+                "Kazakh": [
+                    "қазынашы"
+                ],
+                "Kyrgyz": [
+                    "кассир",
+                    "казначы"
+                ],
+                "Karakalpak": [
+                    "ǵaznashı",
+                    "kassir"
+                ],
+                "Tatar": [
+                    "кассачы"
+                ],
+                "Bashkir": [
+                    "кассасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xəzinədar"
+                ],
+                "Turkmen": [
+                    "hazynaçy"
+                ],
+                "Uzbek": [
+                    "xazinachi"
+                ],
+                "Uyghur": [
+                    "خەزىنىچى"
+                ],
+                "Tatar": [
+                    "хәзинәче"
+                ],
+                "Bashkir": [
+                    "хазинасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "veznedar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇلدار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есепші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сатуучу"
+                ]
+            }
+        }
+    ]
+}

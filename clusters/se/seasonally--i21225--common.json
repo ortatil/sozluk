@@ -1,0 +1,107 @@
+{
+    "id": "i21225",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "seasonally",
+    "en_definition": "depending on the season",
+    "tr_word": "mevsimsel olarak",
+    "tr_definition": "mevsime bağlı olarak veya mevsimlere göre",
+    "ru_word": "сезонно",
+    "ru_definition": "в зависимости от времени года или сезона",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mevsimlik",
+                    "mevsimine göre",
+                    "mevsimsel olarak"
+                ],
+                "Azerbaijani": [
+                    "mövsümi",
+                    "mövsümə uyğun"
+                ],
+                "Turkmen": [
+                    "möwsümleýin",
+                    "möwsüme görä"
+                ],
+                "Uzbek": [
+                    "mavsumiy",
+                    "mavsumga qarab"
+                ],
+                "Uyghur": [
+                    "مەۋسۇملۇق",
+                    "مەۋسۇمغا قاراپ"
+                ],
+                "Kazakh": [
+                    "маусымдық",
+                    "маусым сайын"
+                ],
+                "Karakalpak": [
+                    "máosimlik",
+                    "máosimge qarap",
+                    "máosim boyınsha"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fəsillərə görə",
+                    "fəsillik"
+                ],
+                "Turkmen": [
+                    "pasyl-pasyl"
+                ],
+                "Uzbek": [
+                    "fasliy",
+                    "faslga ko'ra"
+                ],
+                "Uyghur": [
+                    "پەسىللىك",
+                    "پەسىلگە قاراپ"
+                ],
+                "Tatar": [
+                    "фасыл саен",
+                    "фасыл буенча"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мезгілдік",
+                    "мезгіл сайын"
+                ],
+                "Kyrgyz": [
+                    "мезгил-мезгили менен",
+                    "мезгилге жараша"
+                ],
+                "Bashkir": [
+                    "миҙгелгә ҡарап",
+                    "миҙгелле",
+                    "миҙгел һайын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "маалы менен"
+                ],
+                "Tatar": [
+                    "мәл-мәл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "вакыт-вакыт"
+                ]
+            }
+        }
+    ]
+}

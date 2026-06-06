@@ -1,0 +1,84 @@
+{
+    "id": "i7868",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "hourlong",
+    "en_definition": "lasting for an hour",
+    "tr_word": "bir saatlik",
+    "tr_definition": "bir saat süren",
+    "ru_word": "часовой",
+    "ru_definition": "длящийся один час",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bir saatlik",
+                    "saatlerce süren"
+                ],
+                "Azerbaijani": [
+                    "birsaatlıq"
+                ],
+                "Turkmen": [
+                    "bir sagatlyk",
+                    "bir sagat dowam edýän"
+                ],
+                "Uzbek": [
+                    "bir soatlik"
+                ],
+                "Uyghur": [
+                    "بىر سائەتلىك",
+                    "بىر سائەت داۋاملاشقان"
+                ],
+                "Kazakh": [
+                    "бір сағаттық"
+                ],
+                "Kyrgyz": [
+                    "бир сааттык",
+                    "бир саат созулган"
+                ],
+                "Karakalpak": [
+                    "bir saatlıq",
+                    "bir saat daoam etken"
+                ],
+                "Tatar": [
+                    "бер сәгатьлек"
+                ],
+                "Bashkir": [
+                    "бер сәғәтлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "saatlıq"
+                ],
+                "Uzbek": [
+                    "soatlik"
+                ],
+                "Tatar": [
+                    "сәгатьлек"
+                ],
+                "Bashkir": [
+                    "сәғәтлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bir saat süren"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сағат бойғы"
+                ]
+            }
+        }
+    ]
+}

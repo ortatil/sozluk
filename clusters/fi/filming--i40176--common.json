@@ -1,0 +1,142 @@
+{
+    "id": "i40176",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "filming",
+    "en_definition": "the act of making a film",
+    "tr_word": "film çekimi",
+    "tr_definition": "bir filmin yapım süreci veya sahnelerin kaydedilmesi eylemi",
+    "ru_word": "киносъёмка",
+    "ru_definition": "процесс создания кинофильма, запись видеоматериала",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tasvirga olish",
+                    "tasvir"
+                ],
+                "Uyghur": [
+                    "تەسۋىرگە ئېلىش"
+                ],
+                "Kazakh": [
+                    "түсірілім",
+                    "түсіру"
+                ],
+                "Kyrgyz": [
+                    "тасмага алуу"
+                ],
+                "Karakalpak": [
+                    "túsirio"
+                ],
+                "Tatar": [
+                    "тасмага төшерү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "film çekimi"
+                ],
+                "Azerbaijani": [
+                    "filmçəkmə"
+                ],
+                "Turkmen": [
+                    "filme alma"
+                ],
+                "Uyghur": [
+                    "فىلىم ئىشلەش"
+                ],
+                "Karakalpak": [
+                    "film túsirio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "surata düşürme"
+                ],
+                "Uzbek": [
+                    "suratga olish"
+                ],
+                "Uyghur": [
+                    "سۈرەتكە ئېلىش"
+                ],
+                "Karakalpak": [
+                    "súoretke alıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çekim"
+                ],
+                "Azerbaijani": [
+                    "çəkiliş",
+                    "çəkmə"
+                ],
+                "Turkmen": [
+                    "çekiliş"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "кино тартуу"
+                ],
+                "Tatar": [
+                    "кинотөшерү"
+                ],
+                "Bashkir": [
+                    "кинотөшөрөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төшерү"
+                ],
+                "Bashkir": [
+                    "төшөрөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "görüntüleme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнетүсірілім"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тартуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "таҫмаға төшөрөү"
+                ]
+            }
+        }
+    ]
+}

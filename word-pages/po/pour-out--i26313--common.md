@@ -1,0 +1,240 @@
+# Pour out
+| Field | Detail |
+|---|---|
+| **ID** | i26313 |
+| **English** | pour out |
+| **Type** | verb |
+| **Definition** | express without restraint |
+| **Source** | common |
+| **Ortatil** | ḍökmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍökmäk** | **boşattırmaq** | **aqtarmaq** |
+|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ | ✅ |
+| Karakalpak | ❌ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ✅ |
+| Bashkir | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0.40 | 0.80 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |
+| **O'TQ** | **3.80** | **1.90** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تۆكمەك | tökmäk |
+| ئاشكارىلىماق | aşkarilimaq |
+| **Kazakh** | |
+| төгу | tögu |
+| төгілу | tögilu |
+| ақтару | aqtaru |
+| ақтарылу | aqtarılu |
+| **Kyrgyz** | |
+| төгүү | tögüü |
+| актаруу | aktaruu |
+| **Tatar** | |
+| түгү | tügü |
+| бушату | buşatu |
+| агызу | agızu |
+| чыгару | çıgaru |
+| **Bashkir** | |
+| түгеү | tügeü |
+| бушатыу | buşatıu |
+| сығарыу | sığarıu |
+
+```json
+{
+    "id": "i26313",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "pour out",
+    "en_definition": "express without restraint",
+    "tr_word": "içini dökmek",
+    "tr_definition": "duygularını veya düşüncelerini çekinmeden, olduğu gibi anlatmak",
+    "ru_word": "изливать",
+    "ru_definition": "выражать свои чувства или мысли открыто и без сдержанности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dökmek"
+                ],
+                "Azerbaijani": [
+                    "tökmək"
+                ],
+                "Turkmen": [
+                    "dökmek"
+                ],
+                "Uzbek": [
+                    "to'kmoq"
+                ],
+                "Uyghur": [
+                    "تۆكمەك"
+                ],
+                "Kazakh": [
+                    "төгу",
+                    "төгілу"
+                ],
+                "Kyrgyz": [
+                    "төгүү"
+                ],
+                "Karakalpak": [
+                    "tógip salıu"
+                ],
+                "Tatar": [
+                    "түгү"
+                ],
+                "Bashkir": [
+                    "түгеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boşaltmak"
+                ],
+                "Azerbaijani": [
+                    "boşaltmaq"
+                ],
+                "Turkmen": [
+                    "boşatmak"
+                ],
+                "Tatar": [
+                    "бушату"
+                ],
+                "Bashkir": [
+                    "бушатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bəyan etmək"
+                ],
+                "Turkmen": [
+                    "beýan etmek"
+                ],
+                "Uzbek": [
+                    "bayon etmoq"
+                ],
+                "Uyghur": [
+                    "بايان قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ақтару",
+                    "ақтарылу"
+                ],
+                "Kyrgyz": [
+                    "актаруу",
+                    "айтып салуу"
+                ],
+                "Karakalpak": [
+                    "aqtarıu",
+                    "aytıp salıu"
+                ],
+                "Tatar": [
+                    "агызу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "izhar etmək"
+                ],
+                "Uzbek": [
+                    "izhor qilmoq"
+                ],
+                "Uyghur": [
+                    "ئاشكارىلىماق",
+                    "ئىزھار قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жайып салу"
+                ],
+                "Karakalpak": [
+                    "jayıp salıu"
+                ],
+                "Bashkir": [
+                    "асып һалыу",
+                    "сығарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "içini dökmek",
+                    "açıklamak"
+                ],
+                "Azerbaijani": [
+                    "açıb-tökmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ifade etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "paş etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sochmoq",
+                    "yormoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "төгүп салуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чыгару"
+                ]
+            }
+        }
+    ]
+}
+```
+

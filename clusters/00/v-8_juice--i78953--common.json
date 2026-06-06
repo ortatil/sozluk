@@ -1,0 +1,105 @@
+{
+    "id": "i78953",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "v-8 juice",
+    "en_definition": "brand name for canned mixed vegetable juices",
+    "tr_word": "V8 sebze suyu",
+    "tr_definition": "Karışık sebze sularından oluşan konserve bir içecek markası.",
+    "ru_word": "овощной сок V8",
+    "ru_definition": "Бренд консервированных смешанных овощных соков.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gök önüm şiresi"
+                ],
+                "Uyghur": [
+                    "كۆكتات شەربىتى"
+                ],
+                "Kazakh": [
+                    "көкөніс шырыны"
+                ],
+                "Karakalpak": [
+                    "kókónis shiresi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئارىلاشما كۆكتات شەربىتى"
+                ],
+                "Kazakh": [
+                    "аралас шырын"
+                ],
+                "Kyrgyz": [
+                    "аралаш шире"
+                ],
+                "Karakalpak": [
+                    "aralas jassha susını",
+                    "aralas kókónis shiresi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karışık sebze suyu",
+                    "sebze suyu karışımı"
+                ],
+                "Azerbaijani": [
+                    "qarışıq tərəvəz suyu"
+                ],
+                "Turkmen": [
+                    "gatyşyk gök önüm şiresi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "жашылча ширеси"
+                ],
+                "Tatar": [
+                    "яшелчә суы"
+                ],
+                "Bashkir": [
+                    "йәшелсә һуты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərəvəz şirəsi",
+                    "tərəvəz şirələri qarışığı"
+                ],
+                "Uzbek": [
+                    "aralash sabzavot suvi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "катнаш яшелчә суы"
+                ],
+                "Bashkir": [
+                    "ҡатнаш йәшелсә һуты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sabzavot sharbati"
+                ]
+            }
+        }
+    ]
+}

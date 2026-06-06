@@ -1,0 +1,123 @@
+{
+    "id": "i112978",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vacancy",
+    "en_definition": "being unoccupied",
+    "tr_word": "boşluk",
+    "tr_definition": "bir yerin veya makamın boş olma durumu",
+    "ru_word": "вакансия",
+    "ru_definition": "незанятая должность или свободное место",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boşluk"
+                ],
+                "Azerbaijani": [
+                    "boşluq",
+                    "boş yer"
+                ],
+                "Turkmen": [
+                    "boşluk",
+                    "boş orun"
+                ],
+                "Uzbek": [
+                    "bo'shliq",
+                    "bo'sh joy"
+                ],
+                "Uyghur": [
+                    "بوشلۇق",
+                    "بوش ئورۇن"
+                ],
+                "Kazakh": [
+                    "бос орын",
+                    "бостық"
+                ],
+                "Kyrgyz": [
+                    "боштук",
+                    "бош орун"
+                ],
+                "Karakalpak": [
+                    "bos orın",
+                    "boslıq"
+                ],
+                "Tatar": [
+                    "бушлык"
+                ],
+                "Bashkir": [
+                    "бушлыҡ",
+                    "буш урын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açık"
+                ],
+                "Azerbaijani": [
+                    "açıq yer"
+                ],
+                "Turkmen": [
+                    "açyk orun"
+                ],
+                "Kazakh": [
+                    "ашық орын"
+                ],
+                "Kyrgyz": [
+                    "ачык орун"
+                ],
+                "Karakalpak": [
+                    "ashıq orın"
+                ],
+                "Tatar": [
+                    "ачыклык"
+                ],
+                "Bashkir": [
+                    "асыҡ урын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hali"
+                ],
+                "Uzbek": [
+                    "xoli"
+                ],
+                "Uyghur": [
+                    "خالىي جاي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "münhal"
+                ],
+                "Uzbek": [
+                    "muntazir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vakansiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирек"
+                ]
+            }
+        }
+    ]
+}

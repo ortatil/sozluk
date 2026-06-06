@@ -1,0 +1,100 @@
+{
+    "id": "i50324",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "backbench",
+    "en_definition": "any of the seats occupied by backbenchers in the House of Commons",
+    "tr_word": "arka sıralar",
+    "tr_definition": "Avam Kamarası'nda kıdemli olmayan milletvekillerinin oturduğu koltuklar",
+    "ru_word": "задние скамьи",
+    "ru_definition": "места в Палате общин, занимаемые рядовыми членами парламента",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arka sıra",
+                    "arka koltuk",
+                    "arka saflar"
+                ],
+                "Azerbaijani": [
+                    "arxa sıralar",
+                    "arxa oturacaqlar"
+                ],
+                "Turkmen": [
+                    "arka hatar"
+                ],
+                "Uzbek": [
+                    "orqa oʻrindiq",
+                    "orqa qator"
+                ],
+                "Uyghur": [
+                    "ئارقا قاتار",
+                    "ئارقا ئورۇندۇق"
+                ],
+                "Kazakh": [
+                    "артқы орын",
+                    "артқы қатар"
+                ],
+                "Kyrgyz": [
+                    "арткы орундук",
+                    "арткы катар"
+                ],
+                "Karakalpak": [
+                    "artqı qatar"
+                ],
+                "Tatar": [
+                    "арткы рәт",
+                    "арткы урыннар"
+                ],
+                "Bashkir": [
+                    "артҡы ултырғыс",
+                    "артҡы рәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzdaky orun",
+                    "yzdaky hatar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quyi oʻrin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئادەتتىكى ئەزالار ئورنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қатардағы депутаттар орны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "төмөнкү орун"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "keyіngі orın"
+                ]
+            }
+        }
+    ]
+}

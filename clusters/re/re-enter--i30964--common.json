@@ -1,0 +1,116 @@
+{
+    "id": "i30964",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "re-enter",
+    "en_definition": "enter again",
+    "tr_word": "tekrar girmek",
+    "tr_definition": "bir yere veya duruma yeniden giriş yapmak",
+    "ru_word": "повторно входить",
+    "ru_definition": "войти куда-либо снова или еще раз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan girmek"
+                ],
+                "Uzbek": [
+                    "qayta kirmoq"
+                ],
+                "Uyghur": [
+                    "قايتا كىرمەك"
+                ],
+                "Kazakh": [
+                    "қайта кіру",
+                    "қайта ену",
+                    "қайтадан кіру"
+                ],
+                "Kyrgyz": [
+                    "кайра кирүү",
+                    "кайрадан кирүү",
+                    "кайра кадам таштоо"
+                ],
+                "Karakalpak": [
+                    "qayta kirio"
+                ],
+                "Tatar": [
+                    "кайта керү"
+                ],
+                "Bashkir": [
+                    "ҡабат инеү",
+                    "ҡайта инеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden girmek"
+                ],
+                "Azerbaijani": [
+                    "yenidən daxil olmaq",
+                    "yenidən girmək"
+                ],
+                "Turkmen": [
+                    "ýene girmek"
+                ],
+                "Uzbek": [
+                    "yana kirmoq"
+                ],
+                "Uyghur": [
+                    "يېڭىدىن كىرمەك"
+                ],
+                "Tatar": [
+                    "яңадан керү"
+                ],
+                "Bashkir": [
+                    "яңынан инеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekrar girmek"
+                ],
+                "Azerbaijani": [
+                    "təkrar girmək",
+                    "təkrar daxil olmaq"
+                ],
+                "Uzbek": [
+                    "takroran kirmoq"
+                ],
+                "Uyghur": [
+                    "تەكرار كىرمەك"
+                ],
+                "Karakalpak": [
+                    "tákirar kirio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geri girmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzeden girmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат керү"
+                ]
+            }
+        }
+    ]
+}

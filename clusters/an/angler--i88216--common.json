@@ -1,0 +1,98 @@
+{
+    "id": "i88216",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "angler",
+    "en_definition": "a fisherman who uses a hook and line",
+    "tr_word": "oltacı",
+    "tr_definition": "Olta ile balık tutan kimse",
+    "ru_word": "рыболов-удильщик",
+    "ru_definition": "Человек, ловящий рыбу на удочку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balıkçı"
+                ],
+                "Azerbaijani": [
+                    "balıqçı"
+                ],
+                "Turkmen": [
+                    "balykçy"
+                ],
+                "Uzbek": [
+                    "baliqchi"
+                ],
+                "Uyghur": [
+                    "بېلىقچى"
+                ],
+                "Kazakh": [
+                    "балықшы"
+                ],
+                "Kyrgyz": [
+                    "балыкчы"
+                ],
+                "Karakalpak": [
+                    "balıqshı"
+                ],
+                "Tatar": [
+                    "балыкчы"
+                ],
+                "Bashkir": [
+                    "балыҡсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qarmaqçı"
+                ],
+                "Turkmen": [
+                    "garmakçy"
+                ],
+                "Uzbek": [
+                    "qarmoqchi"
+                ],
+                "Uyghur": [
+                    "قارماقچى"
+                ],
+                "Kazakh": [
+                    "қармақшы"
+                ],
+                "Karakalpak": [
+                    "qarmaqshı"
+                ],
+                "Tatar": [
+                    "кармакчы"
+                ],
+                "Bashkir": [
+                    "ҡармаҡсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oltacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tilovçu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кайырмакчы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "id": "i54329",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "goal",
+    "en_definition": "game equipment consisting of the place toward which players of a game try to advance a ball or puck in order to score points",
+    "tr_word": "kale",
+    "tr_definition": "Futbol, hentbol gibi oyunlarda topun sokulmaya çalışıldığı, iki direk ve bir üst lécden oluşan yer.",
+    "ru_word": "ворота",
+    "ru_definition": "Конструкция в спортивных играх, в которую игроки стараются забить мяч или шайбу для получения очков.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "derweze"
+                ],
+                "Uzbek": [
+                    "darvoza"
+                ],
+                "Uyghur": [
+                    "دەرۋازا"
+                ],
+                "Kyrgyz": [
+                    "дарбаза"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nyşana"
+                ],
+                "Uzbek": [
+                    "nishon"
+                ],
+                "Uyghur": [
+                    "نىشان"
+                ],
+                "Kazakh": [
+                    "нысана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қақпа"
+                ],
+                "Karakalpak": [
+                    "qaqpa"
+                ],
+                "Tatar": [
+                    "капка"
+                ],
+                "Bashkir": [
+                    "ҡапҡа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hedef"
+                ],
+                "Azerbaijani": [
+                    "hədəf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qapı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kale"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qarsılas qaqpası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "максат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мәргән"
+                ]
+            }
+        }
+    ]
+}

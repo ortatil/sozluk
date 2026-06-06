@@ -1,0 +1,106 @@
+{
+    "id": "i66756",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "waking",
+    "en_definition": "the state of remaining awake",
+    "tr_word": "uyanıklık",
+    "tr_definition": "uyumama durumu, uyanık olma hali",
+    "ru_word": "бодрствование",
+    "ru_definition": "состояние организма, противоположное сну",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uyanıklık",
+                    "uykusuzluk"
+                ],
+                "Azerbaijani": [
+                    "oyanıqlıq",
+                    "oyaq qalma"
+                ],
+                "Turkmen": [
+                    "oýanyş",
+                    "oýalyk"
+                ],
+                "Uzbek": [
+                    "uyg'oqlik"
+                ],
+                "Uyghur": [
+                    "ئويغاقلىق"
+                ],
+                "Kazakh": [
+                    "ояулық",
+                    "ұйқысыздық"
+                ],
+                "Kyrgyz": [
+                    "ойгоолук",
+                    "ойгоо болуу"
+                ],
+                "Karakalpak": [
+                    "oyaulıq",
+                    "uyıqlamaushılıq"
+                ],
+                "Tatar": [
+                    "уяулык",
+                    "уяу тору"
+                ],
+                "Bashkir": [
+                    "уяулыҡ",
+                    "уяу тороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bidar"
+                ],
+                "Azerbaijani": [
+                    "biyar"
+                ],
+                "Uzbek": [
+                    "bedorlik"
+                ],
+                "Uyghur": [
+                    "بىدارلىق"
+                ],
+                "Karakalpak": [
+                    "bedarlıq"
+                ],
+                "Tatar": [
+                    "бедарлык"
+                ],
+                "Bashkir": [
+                    "беҙәрлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сергектік"
+                ],
+                "Kyrgyz": [
+                    "сергектик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ukusyzlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھوشيارلىق"
+                ]
+            }
+        }
+    ]
+}

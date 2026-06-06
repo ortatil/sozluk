@@ -1,0 +1,89 @@
+# Gee
+| Field | Detail |
+|---|---|
+| **ID** | i31257 |
+| **English** | gee |
+| **Type** | verb |
+| **Definition** | turn to the right side |
+| **Source** | common |
+| **Ortatil** | sağlamaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i31257",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "gee",
+    "en_definition": "turn to the right side",
+    "tr_word": "sağa dönmek",
+    "tr_definition": "sağ tarafa yönelmek veya dönmek (genellikle binek hayvanları için kullanılır)",
+    "ru_word": "поворачивать направо",
+    "ru_definition": "повернуть направо (обычно команда для упряжных животных)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'ngga burilmoq",
+                    "o'ngga qayrilmoq"
+                ],
+                "Uyghur": [
+                    "ئوڭغا بۇرۇلماق",
+                    "ئوڭغا قايرىلماق",
+                    "ئوڭغا بۇرۇماق"
+                ],
+                "Kazakh": [
+                    "оңға бұрылу",
+                    "оңға қайырылу",
+                    "оңға беттеу"
+                ],
+                "Kyrgyz": [
+                    "оңго бурул",
+                    "оңго кайрыл",
+                    "оңго имерил"
+                ],
+                "Karakalpak": [
+                    "ońǵa bұrılu",
+                    "ońǵa qayrılu"
+                ],
+                "Tatar": [
+                    "уңга борылу",
+                    "уңга каеру",
+                    "уңга авышу"
+                ],
+                "Bashkir": [
+                    "уңға боролоу",
+                    "уңға бороу",
+                    "уңға ҡайырылыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağa dönmek",
+                    "sağlamak",
+                    "sağa sapmak",
+                    "sağa yönelmek"
+                ],
+                "Azerbaijani": [
+                    "sağa dönmək",
+                    "sağa burulmaq",
+                    "sağ tərəfə yönəlmək"
+                ],
+                "Turkmen": [
+                    "saga öwrülmek",
+                    "saga dönmek",
+                    "sag tarapa öwrülmek"
+                ]
+            }
+        }
+    ]
+}
+```
+

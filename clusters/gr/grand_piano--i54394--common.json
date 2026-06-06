@@ -1,0 +1,103 @@
+{
+    "id": "i54394",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "grand piano",
+    "en_definition": "a piano with the strings on a horizontal harp-shaped frame; usually supported by three legs",
+    "tr_word": "kuyruklu piyano",
+    "tr_definition": "telleri yatay bir çerçeve üzerine gerilmiş, genellikle üç ayaklı, büyük piyano türü",
+    "ru_word": "рояль",
+    "ru_definition": "музыкальный инструмент, разновидность фортепиано, в котором струны, дека и механическая часть расположены горизонтально",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "royal"
+                ],
+                "Turkmen": [
+                    "roýal"
+                ],
+                "Uzbek": [
+                    "royal"
+                ],
+                "Uyghur": [
+                    "رۇيال"
+                ],
+                "Kazakh": [
+                    "рояль"
+                ],
+                "Kyrgyz": [
+                    "рояль"
+                ],
+                "Karakalpak": [
+                    "royal"
+                ],
+                "Tatar": [
+                    "рояль"
+                ],
+                "Bashkir": [
+                    "рояль"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuyruklu piyano"
+                ],
+                "Azerbaijani": [
+                    "quyruqlu piano"
+                ],
+                "Kazakh": [
+                    "күйсандық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly fortepýano"
+                ],
+                "Tatar": [
+                    "зур фортепиано"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "fortepiano"
+                ],
+                "Karakalpak": [
+                    "fortepiano"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ پىيانىنو"
+                ],
+                "Kyrgyz": [
+                    "чоң фортепиано"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "konsol piyano"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "piyano"
+                ]
+            }
+        }
+    ]
+}

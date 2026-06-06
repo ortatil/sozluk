@@ -1,0 +1,132 @@
+{
+    "id": "i1172",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "long-haired",
+    "en_definition": "with long hair",
+    "tr_word": "uzun saçlı",
+    "tr_definition": "saçları uzun olan",
+    "ru_word": "длинноволосый",
+    "ru_definition": "имеющий длинные волосы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzun saçlı"
+                ],
+                "Azerbaijani": [
+                    "uzunsaçlı",
+                    "uzuntelli"
+                ],
+                "Turkmen": [
+                    "uzyn saçly"
+                ],
+                "Uzbek": [
+                    "uzun sochli"
+                ],
+                "Uyghur": [
+                    "ئۇزۇن چاچلىق",
+                    "ئۇزۇن چاچ"
+                ],
+                "Kazakh": [
+                    "ұзын шашты"
+                ],
+                "Kyrgyz": [
+                    "узун чачтуу"
+                ],
+                "Karakalpak": [
+                    "uzın shashlı"
+                ],
+                "Tatar": [
+                    "озын чәчле"
+                ],
+                "Bashkir": [
+                    "оҙон сәсле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saçlı"
+                ],
+                "Azerbaijani": [
+                    "saçlı"
+                ],
+                "Turkmen": [
+                    "saçly"
+                ],
+                "Tatar": [
+                    "чәчле"
+                ],
+                "Bashkir": [
+                    "сәсле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kokilli"
+                ],
+                "Karakalpak": [
+                    "kekilli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қолаң шашты"
+                ],
+                "Karakalpak": [
+                    "qońır shashlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zülüflü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tokly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sersoch"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сүмбіл шашты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кош өрүмдүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "саамайлуу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "i59393",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spring mattress",
+    "en_definition": "a mattress containing springs in a rigid frame",
+    "tr_word": "yaylı yatak",
+    "tr_definition": "sert bir çerçeve içinde yaylar içeren yatak",
+    "ru_word": "пружинный матрас",
+    "ru_definition": "матрас, содержащий пружины в жестком каркасе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pružinaly düşek",
+                    "pružinaly matras"
+                ],
+                "Uzbek": [
+                    "prujinali toʻshak",
+                    "prujinali matras"
+                ],
+                "Uyghur": [
+                    "پۇرژىنلىق كۆرپە",
+                    "پۇرژىنلىق تەشتەك",
+                    "پۇرژىنلىق ماتراس"
+                ],
+                "Kyrgyz": [
+                    "пружиналуу матрас",
+                    "пружиналуу төшөк"
+                ],
+                "Tatar": [
+                    "пружиналы түшәк"
+                ],
+                "Bashkir": [
+                    "пружиналы түшәк",
+                    "пружиналы матрас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "серіппелі матрас",
+                    "серіппелі төсеніш"
+                ],
+                "Karakalpak": [
+                    "serіppelі tósek",
+                    "serіppelі matras"
+                ],
+                "Tatar": [
+                    "серәнле түшәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaylı yatak",
+                    "yaylı döşek"
+                ],
+                "Azerbaijani": [
+                    "yaylı döşək",
+                    "yaylı matras"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чишмәле түшәк"
+                ]
+            }
+        }
+    ]
+}

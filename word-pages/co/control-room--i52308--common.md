@@ -1,0 +1,156 @@
+# Control room
+| Field | Detail |
+|---|---|
+| **ID** | i52308 |
+| **English** | control room |
+| **Type** | noun |
+| **Definition** | a room housing control equipment (as in a recording studio) |
+| **Source** | common |
+| **Ortatil** | kontrolhana |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كونترولخانا | kontrolxana |
+| **Tatar** | |
+| идарәханә | idaräxanä |
+
+```json
+{
+    "id": "i52308",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "control room",
+    "en_definition": "a room housing control equipment (as in a recording studio)",
+    "tr_word": "kumanda odası",
+    "tr_definition": "Bir kayıt stüdyosu, fabrika veya santral gibi yerlerde kontrol ekipmanlarının bulunduğu oda.",
+    "ru_word": "диспетчерская",
+    "ru_definition": "Помещение, в котором сосредоточены устройства управления и контроля за каким-либо процессом (например, в студии звукозаписи).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "boshqaruv xonasi",
+                    "boshqaruv punkti"
+                ],
+                "Uyghur": [
+                    "باشقۇرۇش ئۆيى"
+                ],
+                "Kazakh": [
+                    "басқару бөлмесі",
+                    "басқару орны",
+                    "басқару орталығы"
+                ],
+                "Kyrgyz": [
+                    "башкаруу бөлмөсү",
+                    "башкаруу жайы"
+                ],
+                "Karakalpak": [
+                    "basqaru bólmesi",
+                    "basqarıo ornı",
+                    "basqarıo xanası"
+                ],
+                "Bashkir": [
+                    "башҡарыу бүлмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "idarəetmə otağı",
+                    "idarə mərkəzi"
+                ],
+                "Tatar": [
+                    "идарә бүлмәсе",
+                    "идарәханә"
+                ],
+                "Bashkir": [
+                    "идара бүлмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "көзөмөл бөлмөсү"
+                ],
+                "Tatar": [
+                    "күзәтү бүлмәсе"
+                ],
+                "Bashkir": [
+                    "күҙәтеү бүлмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kumanda odası"
+                ],
+                "Turkmen": [
+                    "dolandyryş otagy",
+                    "dolandyryş merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kontrol odası"
+                ],
+                "Uyghur": [
+                    "كونترولخانا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəzarət otağı"
+                ],
+                "Uzbek": [
+                    "nazorat xonasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yönetim odası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "denetim odası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kadalaşdyryş otagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تىزگىنلەش ئۆيى"
+                ]
+            }
+        }
+    ]
+}
+```
+

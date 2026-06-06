@@ -1,0 +1,114 @@
+{
+    "id": "i93019",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "half sister",
+    "en_definition": "a sister who has only one parent in common with you",
+    "tr_word": "üvey kız kardeş",
+    "tr_definition": "yalnızca bir ebeveyni ortak olan kız kardeş",
+    "ru_word": "единокровная сестра",
+    "ru_definition": "сестра, у которой только один общий родитель с вами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üvey kız kardeş",
+                    "üvey abla"
+                ],
+                "Azerbaijani": [
+                    "ögey bacı"
+                ],
+                "Turkmen": [
+                    "öweý uýa"
+                ],
+                "Uzbek": [
+                    "oʻgay opa",
+                    "oʻgay singil"
+                ],
+                "Kazakh": [
+                    "өгей қарындас",
+                    "өгей әпке"
+                ],
+                "Karakalpak": [
+                    "ógey qarındas",
+                    "ógey apa"
+                ],
+                "Tatar": [
+                    "үги апа",
+                    "үги сеңел"
+                ],
+                "Bashkir": [
+                    "үгәй апа",
+                    "үгәй һеңле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bir ota bir ona boʻlmagan opa",
+                    "bir ota bir ona boʻlmagan singil"
+                ],
+                "Kazakh": [
+                    "бір туған"
+                ],
+                "Kyrgyz": [
+                    "бир тууган эже",
+                    "бир тууган карындаш",
+                    "бир тууган сиңди"
+                ],
+                "Karakalpak": [
+                    "bir tuoǵan qarındas",
+                    "bir tuoǵan apa"
+                ],
+                "Tatar": [
+                    "бер аталы апа",
+                    "бер аталы сеңел",
+                    "бер аналы апа",
+                    "бер аналы сеңел"
+                ],
+                "Bashkir": [
+                    "бер туған түгел апа",
+                    "бер туған түгел һеңле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ata bir bacı",
+                    "ana bir bacı"
+                ],
+                "Turkmen": [
+                    "atabir uýa"
+                ],
+                "Uyghur": [
+                    "ئاتا بىر ئانا باشقا سىڭىل",
+                    "ئاتا بىر ئانا باشقا ھەدە",
+                    "ئانا بىر ئاتا باشقا سىڭىل",
+                    "ئانا بىر ئاتا باشقا ھەدە"
+                ],
+                "Kyrgyz": [
+                    "аталаш эже",
+                    "аталаш карындаш",
+                    "аталаш сиңди"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "enabir uýa"
+                ],
+                "Kyrgyz": [
+                    "энелеш эже",
+                    "энелеш карындаш",
+                    "энелеш сиңди"
+                ]
+            }
+        }
+    ]
+}

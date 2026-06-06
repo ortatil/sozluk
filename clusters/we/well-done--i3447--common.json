@@ -1,0 +1,140 @@
+{
+    "id": "i3447",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "well-done",
+    "en_definition": "(meat) cooked until there is no pink meat left inside",
+    "tr_word": "iyi pişmiş",
+    "tr_definition": "içinde pembe kısım kalmayacak şekilde pişirilmiş (et)",
+    "ru_word": "прожаренный",
+    "ru_definition": "приготовленный так, что внутри мяса не остается розовых участков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bişen",
+                    "bişgin",
+                    "bişirilen"
+                ],
+                "Uzbek": [
+                    "pishgan"
+                ],
+                "Uyghur": [
+                    "پىشقان"
+                ],
+                "Kazakh": [
+                    "пісірілген"
+                ],
+                "Kyrgyz": [
+                    "бышкан"
+                ],
+                "Tatar": [
+                    "пешкән"
+                ],
+                "Bashkir": [
+                    "бешкән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yaxşı bişmiş"
+                ],
+                "Uyghur": [
+                    "ياخشى پىشقان"
+                ],
+                "Kazakh": [
+                    "жақсы піскен"
+                ],
+                "Karakalpak": [
+                    "jaqsı pіsken"
+                ],
+                "Tatar": [
+                    "яхшы пешкән"
+                ],
+                "Bashkir": [
+                    "яҡшы бешкән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'liq pishgan"
+                ],
+                "Uyghur": [
+                    "تولۇق پىشقان"
+                ],
+                "Kyrgyz": [
+                    "толук бышкан"
+                ],
+                "Karakalpak": [
+                    "tolıq pіsken"
+                ],
+                "Tatar": [
+                    "тулысынча пешкән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "әбден піскен"
+                ],
+                "Kyrgyz": [
+                    "абдан бышкан"
+                ],
+                "Karakalpak": [
+                    "ábden pіsken"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çok pişmiş",
+                    "iyi pişmiş"
+                ],
+                "Azerbaijani": [
+                    "çox bişmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tam pişmiş"
+                ],
+                "Azerbaijani": [
+                    "tam bişmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gowy bişen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maromida pishgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үтә бешкән"
+                ]
+            }
+        }
+    ]
+}

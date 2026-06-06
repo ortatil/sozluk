@@ -1,0 +1,90 @@
+{
+    "id": "i70975",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "anti-virus program",
+    "en_definition": "a computer program that checks a computer for viruses and prevents their spread",
+    "tr_word": "antivirüs programı",
+    "tr_definition": "bilgisayarı virüslere karşı tarayan ve yayılmalarını engelleyen bir bilgisayar programı",
+    "ru_word": "антивирусная программа",
+    "ru_definition": "компьютерная программа, которая проверяет компьютер на наличие вирусов и предотвращает их распространение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "virüs koruma yazılımı",
+                    "virüs savar",
+                    "virüs engelleyici"
+                ],
+                "Azerbaijani": [
+                    "virus əleyhinə proqram"
+                ],
+                "Turkmen": [
+                    "wirusa garşy programma"
+                ],
+                "Uzbek": [
+                    "virusga qarshi dastur",
+                    "virusga qarshi vosita"
+                ],
+                "Uyghur": [
+                    "ۋىرۇسقا قارشى يۇمشاق دېتال",
+                    "ۋىرۇس تازىلاش يۇمشاق دېتالى",
+                    "ۋىرۇس ئۆلتۈرۈش پروگراممىسى"
+                ],
+                "Kazakh": [
+                    "вирусқа қарсы бағдарлама",
+                    "вирусқа қарсы жабдық"
+                ],
+                "Kyrgyz": [
+                    "вируска каршы программа",
+                    "вируска каршылык",
+                    "вирустан коргоочу программа"
+                ],
+                "Karakalpak": [
+                    "wirusqa qarsı baǵdarlama",
+                    "wirusqa qarsı programma"
+                ],
+                "Tatar": [
+                    "вируска каршы программа",
+                    "вируска каршы язмышы"
+                ],
+                "Bashkir": [
+                    "вирусҡа ҡаршы программа",
+                    "вирусҡа ҡаршы яҙма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koruyucu yazılım"
+                ],
+                "Azerbaijani": [
+                    "qoruyucu proqram"
+                ],
+                "Turkmen": [
+                    "gorag programmasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "antivirus proqramı"
+                ],
+                "Turkmen": [
+                    "antivirus programmasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "himoya dasturi"
+                ]
+            }
+        }
+    ]
+}

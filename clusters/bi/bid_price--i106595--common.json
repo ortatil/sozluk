@@ -1,0 +1,134 @@
+{
+    "id": "i106595",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bid price",
+    "en_definition": "(stock market) the price at which a broker is willing to buy a certain security",
+    "tr_word": "alış fiyatı",
+    "tr_definition": "Bir aracı kurumun veya alıcının belirli bir menkul kıymeti satın almaya razı olduğu fiyat.",
+    "ru_word": "цена предложения",
+    "ru_definition": "Цена, по которой брокер или покупатель готов приобрести определенную ценную бумагу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teklif fiyatı"
+                ],
+                "Azerbaijani": [
+                    "təklif qiyməti"
+                ],
+                "Turkmen": [
+                    "teklip edilen baha"
+                ],
+                "Uzbek": [
+                    "taklif narxi"
+                ],
+                "Uyghur": [
+                    "تەكلىپ باھاسى"
+                ],
+                "Tatar": [
+                    "тәкъдим ителгән бәя"
+                ],
+                "Bashkir": [
+                    "тәҡдим ителгән хаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "satyn alyş bahasy"
+                ],
+                "Uyghur": [
+                    "سېتىۋېلىش باھاسى"
+                ],
+                "Kazakh": [
+                    "сатып алу бағасы"
+                ],
+                "Kyrgyz": [
+                    "сатып алуу баасы"
+                ],
+                "Karakalpak": [
+                    "satıp alıo bahası"
+                ],
+                "Tatar": [
+                    "сатып алу бәясе"
+                ],
+                "Bashkir": [
+                    "һатып алыу хаҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alış fiyatı"
+                ],
+                "Azerbaijani": [
+                    "alış qiyməti"
+                ],
+                "Uzbek": [
+                    "olish narxi"
+                ],
+                "Kyrgyz": [
+                    "алуу баасы"
+                ],
+                "Karakalpak": [
+                    "alıo bahası"
+                ],
+                "Tatar": [
+                    "алучы бәясе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müşteri fiyatı"
+                ],
+                "Azerbaijani": [
+                    "müştəri qiyməti"
+                ],
+                "Turkmen": [
+                    "müşderi bahasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұсыныс бағасы",
+                    "сұраныс бағасы"
+                ],
+                "Karakalpak": [
+                    "usınıs bahası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xarid narxi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سودا باھاسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сунушталган баа"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "i84872",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north africa",
+    "en_definition": "an area of northern Africa between the Sahara and the Mediterranean Sea",
+    "tr_word": "Kuzey Afrika",
+    "tr_definition": "Afrika kıtasının Sahra Çölü ile Akdeniz arasında kalan kuzey bölgesi",
+    "ru_word": "Северная Африка",
+    "ru_definition": "регион Африки, расположенный между пустыней Сахара и Средиземным морем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Mağrip"
+                ],
+                "Azerbaijani": [
+                    "Məğrib"
+                ],
+                "Uzbek": [
+                    "Mag'rib"
+                ],
+                "Uyghur": [
+                    "مەغرىب"
+                ],
+                "Kazakh": [
+                    "Мағриб"
+                ],
+                "Kyrgyz": [
+                    "Магриб"
+                ],
+                "Tatar": [
+                    "Мәгъриб"
+                ],
+                "Bashkir": [
+                    "Мәғриб"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimali Afrika"
+                ],
+                "Turkmen": [
+                    "Şimaly Afrika"
+                ],
+                "Uzbek": [
+                    "Shimoliy Afrika"
+                ],
+                "Uyghur": [
+                    "شىمالىي ئافرىقا"
+                ],
+                "Karakalpak": [
+                    "Shimaliy Afrika"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "Түндүк Африка"
+                ],
+                "Tatar": [
+                    "Төньяк Африка"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Африка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Afrika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk Afrika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Солтүстік Африка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Arqa Afrika"
+                ]
+            }
+        }
+    ]
+}

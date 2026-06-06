@@ -1,0 +1,109 @@
+{
+    "id": "i69897",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "home page",
+    "en_definition": "the opening page of a web site",
+    "tr_word": "ana sayfa",
+    "tr_definition": "bir web sitesinin açılış sayfası",
+    "ru_word": "главная страница",
+    "ru_definition": "начальная страница веб-сайта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başlangıç sayfası"
+                ],
+                "Uyghur": [
+                    "باش بەت"
+                ],
+                "Kazakh": [
+                    "басты бет"
+                ],
+                "Kyrgyz": [
+                    "башкы бет"
+                ],
+                "Karakalpak": [
+                    "bas bet",
+                    "basqı bet"
+                ],
+                "Tatar": [
+                    "баш бит"
+                ],
+                "Bashkir": [
+                    "баш бит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ana sayfa"
+                ],
+                "Azerbaijani": [
+                    "ana səhifə",
+                    "baş səhifə"
+                ],
+                "Turkmen": [
+                    "baş sahypa"
+                ],
+                "Uzbek": [
+                    "bosh sahifa"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "esasy sahypa"
+                ],
+                "Uzbek": [
+                    "asosiy sahifa"
+                ],
+                "Uyghur": [
+                    "ئاساسىي بەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "giriş sayfası"
+                ],
+                "Azerbaijani": [
+                    "giriş səhifəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "негізгі бет"
+                ],
+                "Kyrgyz": [
+                    "негизги бет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп бит"
+                ],
+                "Bashkir": [
+                    "төп бит"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tikarǵı bet"
+                ]
+            }
+        }
+    ]
+}

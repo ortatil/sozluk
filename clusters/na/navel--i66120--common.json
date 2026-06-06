@@ -1,0 +1,62 @@
+{
+    "id": "i66120",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "navel",
+    "en_definition": "a scar where the umbilical cord was attached",
+    "tr_word": "göbek",
+    "tr_definition": "göbek kordonunun bağlı olduğu yerdeki yara izi",
+    "ru_word": "пупок",
+    "ru_definition": "шрам на месте прикрепления пуповины",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kindik"
+                ],
+                "Uyghur": [
+                    "كىندىك"
+                ],
+                "Kazakh": [
+                    "кіндік"
+                ],
+                "Kyrgyz": [
+                    "киндик"
+                ],
+                "Karakalpak": [
+                    "kindik"
+                ],
+                "Tatar": [
+                    "кендек",
+                    "кендек урыны"
+                ],
+                "Bashkir": [
+                    "кендек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göbek",
+                    "göbek çukuru"
+                ],
+                "Azerbaijani": [
+                    "göbək"
+                ],
+                "Turkmen": [
+                    "göbek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "naf"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "id": "i70617",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "passport",
+    "en_definition": "a document issued by a country to a citizen allowing that person to travel abroad and re-enter the home country",
+    "tr_word": "pasaport",
+    "tr_definition": "yabancı ülkelere gidecek olanlara yetkili kuruluşlarca verilen, yabancı ülke yetkililerinin kimlik incelemesinde geçerli olan belge",
+    "ru_word": "паспорт",
+    "ru_definition": "официальный документ, удостоверяющий личность гражданина при выезде за границу и въезде на территорию страны",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýolnama"
+                ],
+                "Uzbek": [
+                    "yoʻlnoma"
+                ],
+                "Uyghur": [
+                    "يول خېتى"
+                ],
+                "Kyrgyz": [
+                    "жолдомо"
+                ],
+                "Karakalpak": [
+                    "jol qaǵaz"
+                ],
+                "Tatar": [
+                    "юл кәгазе"
+                ],
+                "Bashkir": [
+                    "юлнамә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pasaport"
+                ],
+                "Azerbaijani": [
+                    "pasport"
+                ],
+                "Turkmen": [
+                    "pasport"
+                ],
+                "Uyghur": [
+                    "پاسپورت"
+                ],
+                "Kyrgyz": [
+                    "паспорт"
+                ],
+                "Karakalpak": [
+                    "pasport"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəhadətnamə"
+                ],
+                "Turkmen": [
+                    "şahadatnama"
+                ],
+                "Uzbek": [
+                    "shaxsnomoma"
+                ],
+                "Tatar": [
+                    "шәһадәтнамә"
+                ],
+                "Bashkir": [
+                    "шәхсиәтнамә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "куәлік"
+                ],
+                "Kyrgyz": [
+                    "күбөлүк"
+                ],
+                "Karakalpak": [
+                    "kuálik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "таныклык"
+                ],
+                "Bashkir": [
+                    "таныҡлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geçiş belgesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mürur tezkeresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vəsiqə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "guvohnoma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سەپەرنامە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төлқұжат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "рұқсатқағаз"
+                ]
+            }
+        }
+    ]
+}

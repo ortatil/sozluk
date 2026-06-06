@@ -1,0 +1,138 @@
+{
+    "id": "i4721",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "theoretical",
+    "en_definition": "concerned primarily with theories or hypotheses rather than practical considerations",
+    "tr_word": "teorik",
+    "tr_definition": "Pratik uygulamalardan ziyade kuramlara veya varsayımlara dayanan, kuramsal.",
+    "ru_word": "теоретический",
+    "ru_definition": "Основанный на теории, относящийся к познанию через принципы и гипотезы, а не на практике.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nazari"
+                ],
+                "Azerbaijani": [
+                    "nəzəri"
+                ],
+                "Turkmen": [
+                    "nazary"
+                ],
+                "Uzbek": [
+                    "nazariy"
+                ],
+                "Uyghur": [
+                    "نەزەرىيىۋى",
+                    "نەزەرىيەۋى",
+                    "نەزەرىيەلىك"
+                ],
+                "Kyrgyz": [
+                    "назарий"
+                ],
+                "Karakalpak": [
+                    "nazariy"
+                ],
+                "Tatar": [
+                    "нәзари"
+                ],
+                "Bashkir": [
+                    "назари"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "elmi"
+                ],
+                "Uzbek": [
+                    "ilmiy"
+                ],
+                "Kazakh": [
+                    "ғылыми"
+                ],
+                "Kyrgyz": [
+                    "илимий"
+                ],
+                "Karakalpak": [
+                    "ilimiy"
+                ],
+                "Tatar": [
+                    "гыйльми"
+                ],
+                "Bashkir": [
+                    "ғильми"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teorik"
+                ],
+                "Kazakh": [
+                    "теориялық"
+                ],
+                "Kyrgyz": [
+                    "теориялык"
+                ],
+                "Karakalpak": [
+                    "teoriyalıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fərziyyəvi"
+                ],
+                "Uzbek": [
+                    "farziy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pikirli"
+                ],
+                "Tatar": [
+                    "фикри"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuramsal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hyýaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қисындық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ойша"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "id": "i107231",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bankbook",
+    "en_definition": "a record of deposits and withdrawals and interest held by depositors at certain banks",
+    "tr_word": "banka cüzdanı",
+    "tr_definition": "Bir banka hesabına yapılan para yatırma, çekme ve faiz işlemlerinin kaydedildiği defter.",
+    "ru_word": "сберегательная книжка",
+    "ru_definition": "Документ, в котором фиксируются все операции по банковскому вкладу, такие как внесение, снятие средств и начисление процентов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesap cüzdanı"
+                ],
+                "Azerbaijani": [
+                    "hesab kitabçası"
+                ],
+                "Turkmen": [
+                    "hasap depderçesi"
+                ],
+                "Uzbek": [
+                    "hisob daftarchasi"
+                ],
+                "Uyghur": [
+                    "ھېسابات دەپتىرى"
+                ],
+                "Kyrgyz": [
+                    "эсеп китепчеси"
+                ],
+                "Karakalpak": [
+                    "esap dáptershesi"
+                ],
+                "Tatar": [
+                    "хисап кенәгәсе"
+                ],
+                "Bashkir": [
+                    "хисап кенәгәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "banka cüzdanı"
+                ],
+                "Azerbaijani": [
+                    "bank kitabçası"
+                ],
+                "Turkmen": [
+                    "bank depderçesi"
+                ],
+                "Uyghur": [
+                    "بانكا دەپتىرى"
+                ],
+                "Kyrgyz": [
+                    "банк китепчеси"
+                ],
+                "Tatar": [
+                    "банк кенәгәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əmanət kitabçası"
+                ],
+                "Uzbek": [
+                    "omonat daftarchasi"
+                ],
+                "Uyghur": [
+                    "ئامانەت دەپتىرى"
+                ],
+                "Kyrgyz": [
+                    "аманат китепчеси"
+                ],
+                "Karakalpak": [
+                    "amanat dáptershesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "saqlama dáptershesi"
+                ],
+                "Bashkir": [
+                    "һаҡлыҡ кенәгәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tasarruf cüzdanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goýum depderçesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jamgʻarma daftarchasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жинақ кітапшасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есеп кітапшасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "акча кенәгәсе"
+                ]
+            }
+        }
+    ]
+}

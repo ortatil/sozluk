@@ -1,0 +1,62 @@
+{
+    "id": "i78391",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "goats' milk",
+    "en_definition": "the milk of a goat",
+    "tr_word": "keçi sütü",
+    "tr_definition": "Keçiden elde edilen süt.",
+    "ru_word": "козье молоко",
+    "ru_definition": "Молоко, получаемое от коз.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "keçi sütü"
+                ],
+                "Azerbaijani": [
+                    "keçi südü"
+                ],
+                "Turkmen": [
+                    "geçiniň süýdi",
+                    "geçi süýdi"
+                ],
+                "Uzbek": [
+                    "echki suti"
+                ],
+                "Kyrgyz": [
+                    "эчкинин сүтү",
+                    "эчки сүт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ешкі сүті"
+                ],
+                "Karakalpak": [
+                    "eshkі súti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кәҗә сөте"
+                ],
+                "Bashkir": [
+                    "кәзә һөтө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆچكە سۈتى"
+                ]
+            }
+        }
+    ]
+}

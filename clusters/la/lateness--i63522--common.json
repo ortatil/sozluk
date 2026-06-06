@@ -1,0 +1,112 @@
+{
+    "id": "i63522",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lateness",
+    "en_definition": "quality of coming late or later in time",
+    "tr_word": "gecikme",
+    "tr_definition": "Geç kalma durumu veya zamanından sonra gelme niteliği.",
+    "ru_word": "опоздание",
+    "ru_definition": "Качество или состояние прихода позже назначенного или ожидаемого времени.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gecikme"
+                ],
+                "Azerbaijani": [
+                    "gecikmə",
+                    "gecikmək"
+                ],
+                "Turkmen": [
+                    "giçlik",
+                    "gijä galmaklyk"
+                ],
+                "Uzbek": [
+                    "kechikish",
+                    "kechikuv"
+                ],
+                "Uyghur": [
+                    "كېچىكىش",
+                    "كېچىكىشلىك"
+                ],
+                "Kazakh": [
+                    "кешігу",
+                    "кешігушілік",
+                    "кеш қалу",
+                    "кештік"
+                ],
+                "Kyrgyz": [
+                    "кечигүү",
+                    "кечигүүчүлүк",
+                    "кеч калуу"
+                ],
+                "Karakalpak": [
+                    "keshigio",
+                    "keshigioshilik",
+                    "kesh qalıo"
+                ],
+                "Tatar": [
+                    "кичегү",
+                    "кичектерү"
+                ],
+                "Bashkir": [
+                    "кисегеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tehir"
+                ],
+                "Azerbaijani": [
+                    "təxir"
+                ],
+                "Turkmen": [
+                    "tahyr"
+                ],
+                "Uzbek": [
+                    "tarkhirlik"
+                ],
+                "Uyghur": [
+                    "تاخىرلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "соңга калу"
+                ],
+                "Bashkir": [
+                    "һуңлау",
+                    "һуңға ҡалыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yavaşlık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yubanma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тороғоу"
+                ]
+            }
+        }
+    ]
+}

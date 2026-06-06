@@ -1,0 +1,89 @@
+{
+    "id": "i59957",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "taillight",
+    "en_definition": "lamp (usually red) mounted at the rear of a motor vehicle",
+    "tr_word": "arka lamba",
+    "tr_definition": "Bir motorlu taşıtın arkasında bulunan ve genellikle kırmızı ışık veren lamba.",
+    "ru_word": "задний габаритный огонь",
+    "ru_definition": "световой сигнал, расположенный сзади транспортного средства для обозначения его габаритов и присутствия на дороге.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arka lamba",
+                    "arka far"
+                ],
+                "Azerbaijani": [
+                    "arxa işıq",
+                    "arxa fənər"
+                ],
+                "Turkmen": [
+                    "arka çyra",
+                    "yzky çyra"
+                ],
+                "Uzbek": [
+                    "orqa chiroq"
+                ],
+                "Uyghur": [
+                    "ئارقا چىراغ"
+                ],
+                "Kazakh": [
+                    "артқы шам",
+                    "артқы от"
+                ],
+                "Kyrgyz": [
+                    "арткы чырак",
+                    "арткы от",
+                    "арткы фанарь"
+                ],
+                "Karakalpak": [
+                    "artqı shıraq",
+                    "artqı far"
+                ],
+                "Tatar": [
+                    "арткы ут",
+                    "арткы яктырткыч",
+                    "арткы фонарь"
+                ],
+                "Bashkir": [
+                    "артҡы фонарь",
+                    "артҡы ут"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "stop lambası"
+                ],
+                "Azerbaijani": [
+                    "stop işığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuyruk lambası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tormoz chirog'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كەينى چىراغ"
+                ]
+            }
+        }
+    ]
+}

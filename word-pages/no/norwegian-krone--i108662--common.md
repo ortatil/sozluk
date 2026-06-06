@@ -1,0 +1,76 @@
+# Norwegian krone
+| Field | Detail |
+|---|---|
+| **ID** | i108662 |
+| **English** | norwegian krone |
+| **Type** | noun |
+| **Definition** | the basic unit of money in Norway |
+| **Source** | common |
+| **Ortatil** | kränä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i108662",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "norwegian krone",
+    "en_definition": "the basic unit of money in Norway",
+    "tr_word": "Norveç kronu",
+    "tr_definition": "Norveç'in temel para birimi",
+    "ru_word": "норвежская крона",
+    "ru_definition": "основная денежная единица Норвегии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Norveç kronu"
+                ],
+                "Azerbaijani": [
+                    "Norveç kronu"
+                ],
+                "Turkmen": [
+                    "Norwegiýa kronasy",
+                    "Norwegiýa kruny"
+                ],
+                "Uzbek": [
+                    "Norvegiya kronasi"
+                ],
+                "Uyghur": [
+                    "نورۋېگىيە كرونى",
+                    "نورۋېگىيە كىرونى"
+                ],
+                "Kazakh": [
+                    "Норвегия кронасы",
+                    "Норвег кронасы"
+                ],
+                "Kyrgyz": [
+                    "Норвегия кронасы",
+                    "Норвег кронасы"
+                ],
+                "Karakalpak": [
+                    "Norwegiya kronası"
+                ],
+                "Tatar": [
+                    "Норвегия кронасы"
+                ],
+                "Bashkir": [
+                    "Норвегия кронаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "krona"
+                ]
+            }
+        }
+    ]
+}
+```
+

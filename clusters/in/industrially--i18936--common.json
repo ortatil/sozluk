@@ -1,0 +1,86 @@
+{
+    "id": "i18936",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "industrially",
+    "en_definition": "by industrial means",
+    "tr_word": "endüstriyel olarak",
+    "tr_definition": "sanayi yoluyla veya sanayi yöntemleri kullanılarak",
+    "ru_word": "промышленным способом",
+    "ru_definition": "с использованием промышленных методов или средств",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanayi yoluyla",
+                    "sınai yoldan",
+                    "sanayice"
+                ],
+                "Azerbaijani": [
+                    "sənaye yolu ilə",
+                    "sənaye üsulu ilə",
+                    "sənayecə"
+                ],
+                "Turkmen": [
+                    "senagat taýdan",
+                    "senagat arkaly",
+                    "senagat usuly bilen"
+                ],
+                "Uzbek": [
+                    "sanoatlashgan holda",
+                    "sanoat yo'li bilan",
+                    "sanoat tarzida"
+                ],
+                "Uyghur": [
+                    "سانائەتچە",
+                    "سانائەت ئۇسۇلىدا",
+                    "سانائەت يولى بىلەن"
+                ],
+                "Karakalpak": [
+                    "sanaat jolı menen"
+                ],
+                "Tatar": [
+                    "сәнәгый рәвештә",
+                    "сәнәгатьчә"
+                ],
+                "Bashkir": [
+                    "сәнәғәтсә",
+                    "сәнәғәт юлы менән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өндірістік жолмен",
+                    "өнеркәсіптік негізде"
+                ],
+                "Kyrgyz": [
+                    "өнөр жайлык негизде",
+                    "өнөр жай жолу менен",
+                    "өнөр жайча"
+                ],
+                "Karakalpak": [
+                    "óndiris jolı menen",
+                    "óndirislik túrde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "endüstriyel olarak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәсіптік тұрғыдан"
+                ]
+            }
+        }
+    ]
+}

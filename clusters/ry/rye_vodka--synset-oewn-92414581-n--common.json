@@ -1,0 +1,74 @@
+{
+    "id": "synset-oewn-92414581-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rye vodka",
+    "en_definition": "vodka distilled from rye grains.",
+    "tr_word": "çavdar votkası",
+    "tr_definition": "Çavdar tanelerinden damıtılmış votka.",
+    "ru_word": "ржаная водка",
+    "ru_definition": "водка, дистиллированная из зерен ржи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çavdar rakısı",
+                    "çavdar votkası"
+                ],
+                "Azerbaijani": [
+                    "çovdar arağı",
+                    "çovdar içkisi"
+                ],
+                "Turkmen": [
+                    "çowdar aragy",
+                    "çowdar jöwheri"
+                ],
+                "Uzbek": [
+                    "javdar arog'i",
+                    "javdar sharobi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئارپا ھارىقى",
+                    "ئارپا ئارىقى"
+                ],
+                "Tatar": [
+                    "арыш аракысы",
+                    "арыш спирты"
+                ],
+                "Bashkir": [
+                    "арыш араҡыһы",
+                    "арыш шарабы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қара бидай арағы",
+                    "қара бидай шарабы"
+                ],
+                "Kyrgyz": [
+                    "кара буудай арагы"
+                ],
+                "Karakalpak": [
+                    "qarabiday araǵı",
+                    "qarabiday ishimligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "буудай арагы"
+                ]
+            }
+        }
+    ]
+}

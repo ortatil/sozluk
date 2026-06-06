@@ -1,0 +1,97 @@
+# Tucson
+| Field | Detail |
+|---|---|
+| **ID** | i84229 |
+| **English** | tucson |
+| **Type** | noun |
+| **Definition** | a city in southeastern Arizona ringed by mountain ranges; long known as a winter and health resort but the population shift from industrial states to the Sunbelt resulted in rapid growth late in the 20th century |
+| **Source** | common |
+| **Ortatil** | tuson |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tuson** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| توسون | toson |
+| **Kazakh** | |
+| Тусон | tuson |
+| **Kyrgyz** | |
+| Тусон | tuson |
+| **Tatar** | |
+| Тусон | tuson |
+| **Bashkir** | |
+| Тусон | tuson |
+
+```json
+{
+    "id": "i84229",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tucson",
+    "en_definition": "a city in southeastern Arizona ringed by mountain ranges; long known as a winter and health resort but the population shift from industrial states to the Sunbelt resulted in rapid growth late in the 20th century",
+    "tr_word": "Tucson",
+    "tr_definition": "Arizona'nın güneydoğusunda, dağ sıralarıyla çevrili, kışlık tatil yeri ve sağlık merkezi olarak bilinen, 20. yüzyılın sonlarında hızla büyüyen bir şehir.",
+    "ru_word": "Тусон",
+    "ru_definition": "Город на юго-востоке Аризоны, окруженный горными хребтами; издавна известный как зимний и оздоровительный курорт, население которого быстро выросло в конце 20-го века.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Tucson",
+                    "Tucson şehri"
+                ],
+                "Azerbaijani": [
+                    "Tuson"
+                ],
+                "Turkmen": [
+                    "Tuson"
+                ],
+                "Uzbek": [
+                    "Tuson"
+                ],
+                "Uyghur": [
+                    "توسون",
+                    "توسون شەھىرى"
+                ],
+                "Kazakh": [
+                    "Тусон"
+                ],
+                "Kyrgyz": [
+                    "Тусон"
+                ],
+                "Karakalpak": [
+                    "Tuson"
+                ],
+                "Tatar": [
+                    "Тусон"
+                ],
+                "Bashkir": [
+                    "Тусон"
+                ]
+            }
+        }
+    ]
+}
+```
+

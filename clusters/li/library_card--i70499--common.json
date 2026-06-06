@@ -1,0 +1,83 @@
+{
+    "id": "i70499",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "library card",
+    "en_definition": "a card certifying the bearer's right to use the library",
+    "tr_word": "kütüphane kartı",
+    "tr_definition": "hamilin kütüphaneyi kullanma hakkını belgeleyen kart",
+    "ru_word": "читательский билет",
+    "ru_definition": "документ, дающий право пользоваться библиотекой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kütüphane kartı",
+                    "kütüphane kimliği",
+                    "kütüphane cüzdanı"
+                ],
+                "Azerbaijani": [
+                    "kitabxana vəsiqəsi",
+                    "kitabxana kartı"
+                ],
+                "Turkmen": [
+                    "kitaphana biledi",
+                    "kitaphana şahadatnamasy"
+                ],
+                "Uzbek": [
+                    "kutubxona guvohnomasi",
+                    "kitobxonlik guvohnomasi",
+                    "kitobxonlik bileti"
+                ],
+                "Uyghur": [
+                    "كۇتۇپخانا كارتىسى",
+                    "كىتاب ئارىيەت كارتىسى",
+                    "كىتاب ئوقۇش كارتىسى"
+                ],
+                "Kazakh": [
+                    "кітапхана билеті"
+                ],
+                "Kyrgyz": [
+                    "китепкана билети"
+                ],
+                "Karakalpak": [
+                    "kitapxana bileti"
+                ],
+                "Tatar": [
+                    "китапханә билеты"
+                ],
+                "Bashkir": [
+                    "китапхана билеты",
+                    "китапхана таныҡлығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "oxucu vəsiqəsi",
+                    "oxucu kartı"
+                ],
+                "Kyrgyz": [
+                    "окурман билети"
+                ],
+                "Tatar": [
+                    "укучы билеты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оқырман билеті",
+                    "оқырман куәлігі"
+                ],
+                "Karakalpak": [
+                    "oqıoshı bileti"
+                ]
+            }
+        }
+    ]
+}

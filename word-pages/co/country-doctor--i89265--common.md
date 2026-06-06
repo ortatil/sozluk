@@ -1,0 +1,141 @@
+# Country doctor
+| Field | Detail |
+|---|---|
+| **ID** | i89265 |
+| **English** | country doctor |
+| **Type** | noun |
+| **Definition** | a doctor who practices in the country (rather than in a city) usually remote from a modern hospital |
+| **Source** | common |
+| **Ortatil** | yemçi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| емші | yemşi |
+
+```json
+{
+    "id": "i89265",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "country doctor",
+    "en_definition": "a doctor who practices in the country (rather than in a city) usually remote from a modern hospital",
+    "tr_word": "köy doktoru",
+    "tr_definition": "Genellikle modern bir hastaneden uzakta, şehir yerine kırsal bölgelerde görev yapan hekim.",
+    "ru_word": "земский врач",
+    "ru_definition": "Врач, работающий в сельской местности, часто вдали от крупных современных больниц.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əyalət həkimi"
+                ],
+                "Kazakh": [
+                    "ауыл дәрігері"
+                ],
+                "Kyrgyz": [
+                    "айылдык дарыгер",
+                    "айылдык табып"
+                ],
+                "Karakalpak": [
+                    "aoıl shıpakeri",
+                    "aoıl dárigeri",
+                    "aoıl hákimi"
+                ],
+                "Tatar": [
+                    "авыл табибы",
+                    "авыл хәкиме"
+                ],
+                "Bashkir": [
+                    "ауыл табибы",
+                    "ауыл табипсыһы",
+                    "ауыл хәкиме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qishloq shifokori",
+                    "qishloq tabibi"
+                ],
+                "Kyrgyz": [
+                    "кыштак дарыгери"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dala shifokori"
+                ],
+                "Kazakh": [
+                    "дала дәрігері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köy doktoru",
+                    "köy hekimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taşra doktoru",
+                    "taşra hekimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kənd həkimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məntəqə həkimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "oba lukmany",
+                    "oba tebibi",
+                    "oba hekimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېزا دوختۇرى",
+                    "يېزا تېببىي خادىمى",
+                    "يېزا ھاكىمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "емші"
+                ]
+            }
+        }
+    ]
+}
+```
+

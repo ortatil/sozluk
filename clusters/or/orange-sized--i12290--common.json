@@ -1,0 +1,76 @@
+{
+    "id": "i12290",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "orange-sized",
+    "en_definition": "having the approximate size of an orange",
+    "tr_word": "portakal büyüklüğünde",
+    "tr_definition": "yaklaşık bir portakal boyutunda olan",
+    "ru_word": "размером с апельсин",
+    "ru_definition": "имеющий примерный размер апельсина",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "apelsindek",
+                    "apelsin kattaligidagi",
+                    "apelsin hajmidagi"
+                ],
+                "Uyghur": [
+                    "ئاپېلسىندەك",
+                    "ئاپېلسىن چوڭلۇقىدىكى",
+                    "ئاپېلسىن ھەجىمىدىكى"
+                ],
+                "Kazakh": [
+                    "апельсиндей",
+                    "апельсин көлеміндей",
+                    "апельсин шамалас",
+                    "апельсин тұрпатты"
+                ],
+                "Kyrgyz": [
+                    "апельсиндей",
+                    "апельсиндей чоңдуктагы",
+                    "апельсин сыяктуу"
+                ],
+                "Karakalpak": [
+                    "apelsindey",
+                    "apelsin kólemles",
+                    "apelsindey úlkenliktegi"
+                ],
+                "Tatar": [
+                    "әфлисун зурлыгындагы",
+                    "әфлисун кадәр",
+                    "әфлисун кебек"
+                ],
+                "Bashkir": [
+                    "апельсин ҙурлығындағы",
+                    "апельсин хәтлем",
+                    "апельсин кеүек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "portakal büyüklüğünde",
+                    "portakal kadar"
+                ],
+                "Azerbaijani": [
+                    "portağal boyda",
+                    "portağal iriliyində",
+                    "portağal böyüklüyündə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mämişi ýaly",
+                    "mämişi ululygyndaky",
+                    "mämişi boýda"
+                ]
+            }
+        }
+    ]
+}

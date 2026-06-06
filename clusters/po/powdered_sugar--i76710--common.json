@@ -1,0 +1,102 @@
+{
+    "id": "i76710",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "powdered sugar",
+    "en_definition": "sugar granulated into a fine powder",
+    "tr_word": "pudra şekeri",
+    "tr_definition": "İnce toz hâline getirilmiş şeker",
+    "ru_word": "сахарная пудра",
+    "ru_definition": "сахарный песок, измельчённый до состояния мелкой пыли",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəkər kirşanı"
+                ],
+                "Turkmen": [
+                    "şeker pудrasy",
+                    "şeker tozy"
+                ],
+                "Uzbek": [
+                    "shakar upasi",
+                    "shakar talqoni"
+                ],
+                "Uyghur": [
+                    "شېكەر تالقىنى"
+                ],
+                "Kyrgyz": [
+                    "шекер упасы"
+                ],
+                "Karakalpak": [
+                    "sheker opası"
+                ],
+                "Tatar": [
+                    "шикәр оны",
+                    "шикәр тузаны"
+                ],
+                "Bashkir": [
+                    "шәкәр онтағы",
+                    "шәкәр туҙаны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qand upasi"
+                ],
+                "Kazakh": [
+                    "қант ұнтағы",
+                    "қант опасы"
+                ],
+                "Kyrgyz": [
+                    "кант упасы"
+                ],
+                "Karakalpak": [
+                    "qant opası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pudra şekeri"
+                ],
+                "Azerbaijani": [
+                    "pudra şəkəri"
+                ],
+                "Turkmen": [
+                    "pudra şekeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تالقان شېكەر"
+                ],
+                "Karakalpak": [
+                    "talqandalǵan sheker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toz şeker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇپا شېكەر"
+                ]
+            }
+        }
+    ]
+}

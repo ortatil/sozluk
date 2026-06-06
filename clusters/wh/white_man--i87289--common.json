@@ -1,0 +1,74 @@
+{
+    "id": "i87289",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white man",
+    "en_definition": "a man who is White",
+    "tr_word": "beyaz adam",
+    "tr_definition": "Beyaz ırktan olan erkek",
+    "ru_word": "белый человек",
+    "ru_definition": "мужчина, принадлежащий к европеоидной расе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak adam"
+                ],
+                "Azerbaijani": [
+                    "ağ dərili adam",
+                    "ağ dərili kişi",
+                    "ağbəniz adam"
+                ],
+                "Turkmen": [
+                    "ak adam",
+                    "ak tenli adam"
+                ],
+                "Uzbek": [
+                    "oq tanli kishi",
+                    "oq tanli erkak",
+                    "oq tanli odam"
+                ],
+                "Uyghur": [
+                    "ئاق تەنلىك ئەر",
+                    "ئاق تەنلىك كىشى"
+                ],
+                "Kazakh": [
+                    "ақ нәсілді адам",
+                    "ақ адам"
+                ],
+                "Kyrgyz": [
+                    "ак адам",
+                    "ак киши"
+                ],
+                "Karakalpak": [
+                    "aq tánli adam",
+                    "aq násil"
+                ],
+                "Tatar": [
+                    "ак тәнле кеше",
+                    "ак тәнле ир",
+                    "ак кеше"
+                ],
+                "Bashkir": [
+                    "аҡ кеше",
+                    "аҡ тәнле кеше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz adam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ак жүздүү киши"
+                ]
+            }
+        }
+    ]
+}

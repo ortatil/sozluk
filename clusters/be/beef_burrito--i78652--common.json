@@ -1,0 +1,87 @@
+{
+    "id": "i78652",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "beef burrito",
+    "en_definition": "a burrito with a beef filling",
+    "tr_word": "etli burrito",
+    "tr_definition": "dana eti dolgulu bir burrito türü",
+    "ru_word": "буррито с говядиной",
+    "ru_definition": "буррито с начинкой из говяжьего мяса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sygyr etli dürme",
+                    "sygyr etli gatlama"
+                ],
+                "Kazakh": [
+                    "сиыр еті қосылған бурито",
+                    "сиыр етінен жасалған бурито"
+                ],
+                "Karakalpak": [
+                    "sıyır góshli buritto",
+                    "sıyır góshi salınǵan buritto"
+                ],
+                "Tatar": [
+                    "сыер ите белән бурито",
+                    "сыер ите төрелгән бурито"
+                ],
+                "Bashkir": [
+                    "һыйыр ите менән төрөлгән ҡамыр ашы",
+                    "һыйыр ите менән төрмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mal əti burritosu"
+                ],
+                "Uzbek": [
+                    "mol go'shtli burrito",
+                    "mol go'shtli darmek"
+                ],
+                "Uyghur": [
+                    "كالا گۆشى ئورىمىسى",
+                    "كالا گۆشى دۈرمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "etli dürüm",
+                    "etli burito"
+                ],
+                "Turkmen": [
+                    "etli dürme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dana etli dürüm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dana əti burritosu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уй этинен жасалган бурито",
+                    "уй эти кошулган бурито"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "id": "i59991",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tanker plane",
+    "en_definition": "an airplane constructed to transport chemicals that can be dropped in order to fight a forest fire",
+    "tr_word": "yangın söndürme uçağı",
+    "tr_definition": "orman yangınlarıyla mücadele etmek için kimyasal madde veya su taşımak ve havadan bırakmak üzere tasarlanmış uçak",
+    "ru_word": "пожарный самолёт",
+    "ru_definition": "самолет, предназначенный для перевозки и сброса химикатов или воды с целью тушения лесных пожаров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yanğınsöndürən təyyarə"
+                ],
+                "Turkmen": [
+                    "ýangyn söndüriji uçar"
+                ],
+                "Uzbek": [
+                    "yongʻin oʻchiruvchi tayyora"
+                ],
+                "Tatar": [
+                    "янгын сүндерү очкычы"
+                ],
+                "Bashkir": [
+                    "янғын һүндереү самолеты",
+                    "янғын самолеты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻt oʻchiruvchi samolyot"
+                ],
+                "Kazakh": [
+                    "өрт сөндіруші ұшақ",
+                    "өрт сөндіргіш ұшақ"
+                ],
+                "Kyrgyz": [
+                    "өрт өчүрүүчү учак",
+                    "өрт өчүрүүчү самолёт"
+                ],
+                "Karakalpak": [
+                    "órt óshіrіoshi ushaq",
+                    "órt sóndіrioshi samolyot"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "su atan təyyarə"
+                ],
+                "Uyghur": [
+                    "سۇ توشۇغۇچى ئايروپىلان"
+                ],
+                "Tatar": [
+                    "су сибүче очкыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yangın söndürme uçağı",
+                    "su uçağı"
+                ],
+                "Turkmen": [
+                    "suw uçary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tanker uçak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوت ئۆچۈرۈش ئايروپىلانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу ташыусы самолет"
+                ]
+            }
+        }
+    ]
+}

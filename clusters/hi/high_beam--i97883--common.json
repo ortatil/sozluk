@@ -1,0 +1,81 @@
+{
+    "id": "i97883",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "high beam",
+    "en_definition": "the beam of a car's headlights that provides distant illumination",
+    "tr_word": "uzun far",
+    "tr_definition": "Bir otomobilin farlarının uzak mesafeyi aydınlatmak için kullanılan ayarı",
+    "ru_word": "дальний свет",
+    "ru_definition": "режим работы фар автомобиля, обеспечивающий освещение дороги на большом расстоянии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzun far",
+                    "uzun hüzme",
+                    "uzun ışıklar"
+                ],
+                "Azerbaijani": [
+                    "uzaqvuran işıqlar",
+                    "uzaq işıqlar",
+                    "uzaq vuran işıq"
+                ],
+                "Turkmen": [
+                    "uzak yşyk",
+                    "uzak ýagtylyk",
+                    "uzak aralyk yşygy"
+                ],
+                "Uzbek": [
+                    "uzoqni yorituvchi chiroq",
+                    "uzoq nur"
+                ],
+                "Uyghur": [
+                    "ئۇزۇن نۇر"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "алыс жарық",
+                    "алысқа түсетін жарық",
+                    "алыс сәуле"
+                ],
+                "Kyrgyz": [
+                    "алыскы жарык",
+                    "алыскы от"
+                ],
+                "Karakalpak": [
+                    "alıs jarıq",
+                    "alısqa jaǵatın jarıq"
+                ],
+                "Bashkir": [
+                    "алыҫ ут",
+                    "алыҫҡа һиптереүсе ут"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يىراق نۇرى",
+                    "يىراقنى يورۇتۇش چىرىغى"
+                ],
+                "Tatar": [
+                    "ерак яктылык",
+                    "ерак ут"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta chiroq"
+                ]
+            }
+        }
+    ]
+}

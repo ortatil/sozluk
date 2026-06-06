@@ -1,0 +1,118 @@
+{
+    "id": "i26340",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "count",
+    "en_definition": "determine the number or amount of",
+    "tr_word": "saymak",
+    "tr_definition": "bir şeyin kaç tane olduğunu anlamak için sayıları sırasıyla söylemek",
+    "ru_word": "считать",
+    "ru_definition": "определять количество или сумму чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesaplamak"
+                ],
+                "Azerbaijani": [
+                    "hesablamaq"
+                ],
+                "Turkmen": [
+                    "hasaplamak"
+                ],
+                "Uzbek": [
+                    "hisoblamoq"
+                ],
+                "Uyghur": [
+                    "ھېسابلىماق"
+                ],
+                "Kazakh": [
+                    "есептеу"
+                ],
+                "Kyrgyz": [
+                    "эсептөө"
+                ],
+                "Karakalpak": [
+                    "esaplau"
+                ],
+                "Tatar": [
+                    "хисаплау"
+                ],
+                "Bashkir": [
+                    "хисаплау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sanamak"
+                ],
+                "Uzbek": [
+                    "sanamoq"
+                ],
+                "Uyghur": [
+                    "سانىماق"
+                ],
+                "Kazakh": [
+                    "санау"
+                ],
+                "Kyrgyz": [
+                    "саноо"
+                ],
+                "Karakalpak": [
+                    "sanau"
+                ],
+                "Tatar": [
+                    "санау"
+                ],
+                "Bashkir": [
+                    "һанау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adetlemek"
+                ],
+                "Azerbaijani": [
+                    "ədədləmək"
+                ],
+                "Uzbek": [
+                    "adadlamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "saymak"
+                ],
+                "Azerbaijani": [
+                    "saymaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "барлау"
+                ],
+                "Bashkir": [
+                    "барлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каттоо"
+                ]
+            }
+        }
+    ]
+}

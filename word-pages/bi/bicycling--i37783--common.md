@@ -1,0 +1,83 @@
+# Bicycling
+| Field | Detail |
+|---|---|
+| **ID** | i37783 |
+| **English** | bicycling |
+| **Type** | noun |
+| **Definition** | riding a bicycle |
+| **Source** | common |
+| **Ortatil** | welosüpedçilik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i37783",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bicycling",
+    "en_definition": "riding a bicycle",
+    "tr_word": "bisiklete binme",
+    "tr_definition": "bisiklet sürme eylemi",
+    "ru_word": "езда на велосипеде",
+    "ru_definition": "процесс передвижения на велосипеде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "velosiped sürmə",
+                    "velosipedçilik"
+                ],
+                "Turkmen": [
+                    "welosiped sürmek",
+                    "welosipedli ýöriş"
+                ],
+                "Uzbek": [
+                    "velosiped uchish",
+                    "velosiped haydash",
+                    "velosipedda yurish"
+                ],
+                "Uyghur": [
+                    "ۋېلىسىپىت مىنىش",
+                    "ۋېلىسىپىت ھەيدەش"
+                ],
+                "Kazakh": [
+                    "велосипед тебу",
+                    "велосипед айдау"
+                ],
+                "Kyrgyz": [
+                    "велосипед тебүү",
+                    "велосипед айдоо"
+                ],
+                "Karakalpak": [
+                    "welosiped tebio",
+                    "welosiped aydao"
+                ],
+                "Tatar": [
+                    "велосипедта йөрү",
+                    "велосипед куу",
+                    "велосипедта бару"
+                ],
+                "Bashkir": [
+                    "велосипедта йөрөү",
+                    "велосипедта барыу",
+                    "велосипед һөрөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bisiklet sürme",
+                    "bisiklete binme",
+                    "bisiklet kullanımı"
+                ]
+            }
+        }
+    ]
+}
+```
+

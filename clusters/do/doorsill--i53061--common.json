@@ -1,0 +1,103 @@
+{
+    "id": "i53061",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "doorsill",
+    "en_definition": "the sill of a door; a horizontal piece of wood or stone that forms the bottom of a doorway and offers support when passing through a doorway",
+    "tr_word": "kapı eşiği",
+    "tr_definition": "Kapı boşluğunun alt kısmında bulunan, kapı kanatlarının üzerine kapandığı basamak veya parça.",
+    "ru_word": "порог",
+    "ru_definition": "Поперечный брусок, лежащий в нижней части дверного проёма.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bosaga"
+                ],
+                "Uzbek": [
+                    "bo'sag'a"
+                ],
+                "Uyghur": [
+                    "بوسۇغا"
+                ],
+                "Kazakh": [
+                    "босаға"
+                ],
+                "Kyrgyz": [
+                    "босого"
+                ],
+                "Karakalpak": [
+                    "bosaǵa"
+                ],
+                "Tatar": [
+                    "бусага"
+                ],
+                "Bashkir": [
+                    "буҫаға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "astana"
+                ],
+                "Turkmen": [
+                    "astana"
+                ],
+                "Uzbek": [
+                    "o'ston",
+                    "o'stona"
+                ],
+                "Uyghur": [
+                    "ئاشتانە"
+                ],
+                "Kyrgyz": [
+                    "аттанар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eşik"
+                ],
+                "Azerbaijani": [
+                    "eşik"
+                ],
+                "Tatar": [
+                    "ишек алды",
+                    "ишек төбе"
+                ],
+                "Bashkir": [
+                    "ишек алды",
+                    "ишек төбө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تەبەت"
+                ],
+                "Kazakh": [
+                    "табалдырық"
+                ],
+                "Karakalpak": [
+                    "tabaldırıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kapı eşiği"
+                ]
+            }
+        }
+    ]
+}

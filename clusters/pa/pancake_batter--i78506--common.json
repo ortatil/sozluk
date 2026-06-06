@@ -1,0 +1,104 @@
+{
+    "id": "i78506",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pancake batter",
+    "en_definition": "batter for making pancakes",
+    "tr_word": "pankek harcı",
+    "tr_definition": "Pankek yapmak için kullanılan, un, süt ve yumurta içeren akışkan karışım.",
+    "ru_word": "тесто для блинов",
+    "ru_definition": "Жидкая смесь из муки, молока и яиц, предназначенная для приготовления блинов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "quymaq xəmiri"
+                ],
+                "Turkmen": [
+                    "guýmak hamyry"
+                ],
+                "Uzbek": [
+                    "quymoq xamiri"
+                ],
+                "Uyghur": [
+                    "قۇيماق خېمىرى"
+                ],
+                "Kazakh": [
+                    "құймақ қамыры",
+                    "сұйық қамыр"
+                ],
+                "Kyrgyz": [
+                    "куймактын камыры"
+                ],
+                "Karakalpak": [
+                    "qұymaq qamırı",
+                    "sұyıq qamır"
+                ],
+                "Tatar": [
+                    "коймак камыры"
+                ],
+                "Bashkir": [
+                    "ҡоймаҡ ҡамыры",
+                    "ҡоймаҡ иҙмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwuk hamyr"
+                ],
+                "Uzbek": [
+                    "suyuq xamir"
+                ],
+                "Uyghur": [
+                    "سۇيۇق خېمىر"
+                ],
+                "Kyrgyz": [
+                    "суюк камыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cıvık hamur"
+                ],
+                "Tatar": [
+                    "сыек камыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "krep harcı",
+                    "krep hamuru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akıtma hamuru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fəsəli xəmiri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "blinçik xəmiri"
+                ]
+            }
+        }
+    ]
+}

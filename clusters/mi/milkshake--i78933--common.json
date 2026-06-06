@@ -1,0 +1,102 @@
+{
+    "id": "i78933",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "milkshake",
+    "en_definition": "frothy drink of milk and flavoring and sometimes fruit or ice cream",
+    "tr_word": "milkshake",
+    "tr_definition": "Süt, aroma ve bazen meyve veya dondurmanın karıştırılmasıyla hazırlanan köpüklü içecek.",
+    "ru_word": "милкшейк",
+    "ru_definition": "Пенистый напиток из молока и ароматизаторов, иногда с добавлением фруктов или мороженого.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sütlü karışım"
+                ],
+                "Azerbaijani": [
+                    "süd kokteyli",
+                    "süd qarışığı"
+                ],
+                "Uzbek": [
+                    "sutli ichimlik",
+                    "sutli sharbat"
+                ],
+                "Uyghur": [
+                    "سۈتلىك ئىچىملىك",
+                    "سۈتلىك شەربەت"
+                ],
+                "Kazakh": [
+                    "сүт қоспасы",
+                    "сүт сусыны",
+                    "сүт коктейлі"
+                ],
+                "Kyrgyz": [
+                    "сүт коктейли"
+                ],
+                "Karakalpak": [
+                    "sút ishimligi",
+                    "sútli ishimlik",
+                    "sútli kokteyl"
+                ],
+                "Tatar": [
+                    "сөтле коктейль"
+                ],
+                "Bashkir": [
+                    "һөтлө эсемлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻpirtirilgan sut"
+                ],
+                "Tatar": [
+                    "күбекләнгән сөт"
+                ],
+                "Bashkir": [
+                    "күбекләнгән һөт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meyveli süt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalkalanmış süt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýtli kokteýl",
+                    "süýtli şerbet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مىلكشېيك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сүт суусундугу"
+                ]
+            }
+        }
+    ]
+}

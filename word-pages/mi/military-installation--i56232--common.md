@@ -1,0 +1,182 @@
+# Military installation
+| Field | Detail |
+|---|---|
+| **ID** | i56232 |
+| **English** | military installation |
+| **Type** | noun |
+| **Definition** | any facility servicing military forces |
+| **Source** | common |
+| **Ortatil** | qarargah |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qarargah** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.37** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قارارگاھ | qarargah |
+| قورغان | qorğan |
+| **Kazakh** | |
+| бекініс | bekinis |
+
+```json
+{
+    "id": "i56232",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "military installation",
+    "en_definition": "any facility servicing military forces",
+    "tr_word": "askeri tesis",
+    "tr_definition": "askeri kuvvetlere hizmet veren her türlü tesis",
+    "ru_word": "военный объект",
+    "ru_definition": "любое сооружение или база, обслуживающие вооруженные силы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbi obyekt",
+                    "hərbi baza"
+                ],
+                "Turkmen": [
+                    "harby desga",
+                    "harby baza",
+                    "harby nokat"
+                ],
+                "Uzbek": [
+                    "harbiy qarorgoh",
+                    "harbiy inshoot",
+                    "harbiy maskan"
+                ],
+                "Uyghur": [
+                    "ھەربىي بازا",
+                    "ھەربىي ئەسلىھە"
+                ],
+                "Tatar": [
+                    "хәрби объект",
+                    "хәрби корылма",
+                    "хәрби ныгытма",
+                    "хәрби база"
+                ],
+                "Bashkir": [
+                    "хәрби объект",
+                    "хәрби ҡоролма",
+                    "хәрби база",
+                    "хәрби нығытма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "askeri tesis"
+                ],
+                "Kazakh": [
+                    "әскери нысан",
+                    "әскери бекет",
+                    "әскери қалашық"
+                ],
+                "Kyrgyz": [
+                    "аскердик жай",
+                    "аскердик база",
+                    "аскердик чеп",
+                    "аскердик конуш"
+                ],
+                "Karakalpak": [
+                    "askeriy baza",
+                    "askeriy qalasha"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karargah",
+                    "garnizon"
+                ],
+                "Azerbaijani": [
+                    "qərargah"
+                ],
+                "Uyghur": [
+                    "قارارگاھ"
+                ],
+                "Karakalpak": [
+                    "garnizon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kışla"
+                ],
+                "Azerbaijani": [
+                    "qışla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qoʻrgʻon"
+                ],
+                "Uyghur": [
+                    "قورغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бекініс"
+                ],
+                "Karakalpak": [
+                    "bekinis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "üst"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istehkam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşun merkezi"
+                ]
+            }
+        }
+    ]
+}
+```
+

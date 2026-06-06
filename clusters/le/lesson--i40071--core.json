@@ -1,0 +1,121 @@
+{
+    "id": "i40071",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "lesson",
+    "en_definition": "a unit of instruction",
+    "tr_word": "ders",
+    "tr_definition": "belirli bir sürede yapılan öğretim birimi",
+    "ru_word": "урок",
+    "ru_definition": "учебный час, посвященный отдельному предмету",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ders"
+                ],
+                "Azerbaijani": [
+                    "dərs"
+                ],
+                "Turkmen": [
+                    "ders"
+                ],
+                "Uzbek": [
+                    "dars"
+                ],
+                "Uyghur": [
+                    "دەرس"
+                ],
+                "Kazakh": [
+                    "дәріс"
+                ],
+                "Kyrgyz": [
+                    "дарс"
+                ],
+                "Karakalpak": [
+                    "dáris"
+                ],
+                "Tatar": [
+                    "дәрес"
+                ],
+                "Bashkir": [
+                    "дәрес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sapak"
+                ],
+                "Uzbek": [
+                    "saboq"
+                ],
+                "Uyghur": [
+                    "ساۋاق"
+                ],
+                "Kazakh": [
+                    "сабақ"
+                ],
+                "Kyrgyz": [
+                    "сабак"
+                ],
+                "Karakalpak": [
+                    "sabaq"
+                ],
+                "Tatar": [
+                    "сабак"
+                ],
+                "Bashkir": [
+                    "һабаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "talim"
+                ],
+                "Azerbaijani": [
+                    "təlim"
+                ],
+                "Turkmen": [
+                    "taglym"
+                ],
+                "Uzbek": [
+                    "ta'lim"
+                ],
+                "Uyghur": [
+                    "تەلىم"
+                ],
+                "Kyrgyz": [
+                    "таалим"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ibret"
+                ],
+                "Azerbaijani": [
+                    "ibrət"
+                ],
+                "Kazakh": [
+                    "ғибрат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гыйлем"
+                ]
+            }
+        }
+    ]
+}

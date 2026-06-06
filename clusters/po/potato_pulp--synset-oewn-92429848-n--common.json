@@ -1,0 +1,80 @@
+{
+    "id": "synset-oewn-92429848-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "potato pulp",
+    "en_definition": "a side product of washing the starch from the mash, often used in animal feeding.",
+    "tr_word": "patates küspesi",
+    "tr_definition": "Nişasta üretimi sırasında patatesin yıkanmasıyla elde edilen ve genellikle hayvan yemi olarak kullanılan yan ürün.",
+    "ru_word": "картофельная мезга",
+    "ru_definition": "Побочный продукт производства крахмала, представляющий собой измельченную массу картофеля, часто используемую на корм скоту.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kartof cecəsi",
+                    "kartof posası",
+                    "kartof kəpəyi",
+                    "kartof qalıqları"
+                ],
+                "Turkmen": [
+                    "kartoşka künjesi",
+                    "kartoşka galyndysy",
+                    "kartoşka meşesi"
+                ],
+                "Uzbek": [
+                    "kartoshka jomi",
+                    "kartoshka chiqindisi",
+                    "kartoshka qoldig'i"
+                ],
+                "Kazakh": [
+                    "картоп мезгісі",
+                    "картоп қалдығы",
+                    "картоп сығындысы"
+                ],
+                "Kyrgyz": [
+                    "картошка маңызы",
+                    "картошка калдыгы",
+                    "картошка маңы"
+                ],
+                "Karakalpak": [
+                    "kartoshka qaldıǵı",
+                    "kartoshka mańızı",
+                    "kartoshka payı"
+                ],
+                "Bashkir": [
+                    "картуф һығындыһы",
+                    "картуф ҡалдығы",
+                    "картуф мезгаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "patates küspesi",
+                    "patates posası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياڭيۇ كۈنجۈرىسى",
+                    "ياڭيۇ شىلمىقى",
+                    "ياڭيۇ پاتقىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәрәңге калдыгы",
+                    "бәрәңге йомшагы",
+                    "бәрәңге измәсе"
+                ]
+            }
+        }
+    ]
+}

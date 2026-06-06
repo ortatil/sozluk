@@ -1,0 +1,143 @@
+# Eastside
+| Field | Detail |
+|---|---|
+| **ID** | i4530 |
+| **English** | eastside |
+| **Type** | adjective |
+| **Definition** | of the eastern part of a city e.g. Manhattan |
+| **Source** | common |
+| **Ortatil** | şärq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **şärq** | **künşığış** | **şığıs** |
+|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ |
+| Turkmen | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ❌ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ✅ |
+| Kyrgyz | ❌ | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ | ✅ |
+| Tatar | ✅ | ✅ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.60 | 0.60 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **2.23** | **0.60** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| шығыс | şığıs |
+| **Kyrgyz** | |
+| чыгыш | çıgış |
+| **Tatar** | |
+| шәрекъ | şärek |
+| көнчыгыш | könçıgış |
+| **Bashkir** | |
+| шәрҡи | şärqi |
+| көнсығыш | könsığış |
+
+```json
+{
+    "id": "i4530",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "eastside",
+    "en_definition": "of the eastern part of a city e.g. Manhattan",
+    "tr_word": "doğu yakası",
+    "tr_definition": "bir şehrin (örneğin Manhattan'ın) doğu kısmına ait olan",
+    "ru_word": "восточной части города",
+    "ru_definition": "относящийся к восточной части города (например, Манхэттена)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şərq",
+                    "şərqi"
+                ],
+                "Uzbek": [
+                    "sharqiy"
+                ],
+                "Uyghur": [
+                    "شەرق تەرەپتىكى",
+                    "شەرق قىسمىدىكى",
+                    "شەرق تەرەپ"
+                ],
+                "Tatar": [
+                    "шәрекъ"
+                ],
+                "Bashkir": [
+                    "шәрҡи"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kun chiqar"
+                ],
+                "Karakalpak": [
+                    "kúnshıǵıs"
+                ],
+                "Tatar": [
+                    "көнчыгыш"
+                ],
+                "Bashkir": [
+                    "көнсығыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шығыс",
+                    "шығыс бөлігіндегі",
+                    "шығыс жақтағы"
+                ],
+                "Kyrgyz": [
+                    "чыгыш",
+                    "чыгыш тараптагы",
+                    "чыгыш бөлүгүндөгү"
+                ],
+                "Karakalpak": [
+                    "shıǵıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğu yakası",
+                    "doğu tarafı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğu ciheti",
+                    "doğu bölgesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gündogar",
+                    "gündogar tarapdaky",
+                    "gündogar bölegindäki"
+                ]
+            }
+        }
+    ]
+}
+```
+

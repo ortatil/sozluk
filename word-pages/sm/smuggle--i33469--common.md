@@ -1,0 +1,155 @@
+# Smuggle
+| Field | Detail |
+|---|---|
+| **ID** | i33469 |
+| **English** | smuggle |
+| **Type** | verb |
+| **Definition** | import or export without paying customs duties |
+| **Source** | common |
+| **Ortatil** | kaçırmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i33469",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "smuggle",
+    "en_definition": "import or export without paying customs duties",
+    "tr_word": "kaçakçılık yapmak",
+    "tr_definition": "gümrük vergilerini ödemeden mal ithal etmek veya ihraç etmek",
+    "ru_word": "заниматься контрабандой",
+    "ru_definition": "ввозить или вывозить товары без уплаты таможенных пошлин",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yashirincha olib o'tmoq"
+                ],
+                "Uyghur": [
+                    "يوشۇرۇن ئۆتكۈزمەك"
+                ],
+                "Kazakh": [
+                    "жасырын өткізу"
+                ],
+                "Kyrgyz": [
+                    "жашыруун өткөрүү"
+                ],
+                "Karakalpak": [
+                    "jasırın ótkerio"
+                ],
+                "Tatar": [
+                    "яшерен алып чыгу",
+                    "яшерен алып керү"
+                ],
+                "Bashkir": [
+                    "йәшерен ташыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaçırmak",
+                    "kaçakçılık yapmak"
+                ],
+                "Azerbaijani": [
+                    "qaçaqmalçılıq etmək",
+                    "qaçaq yolla gətirmək"
+                ],
+                "Turkmen": [
+                    "gaçakçylyk etmek"
+                ],
+                "Uyghur": [
+                    "قاشاقلىق قىلماق"
+                ],
+                "Karakalpak": [
+                    "qashaqshılıq qılıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ұрлап өткізу"
+                ],
+                "Kyrgyz": [
+                    "уурдап өткөрүү"
+                ],
+                "Karakalpak": [
+                    "urlap ótkerio"
+                ],
+                "Tatar": [
+                    "атлап үтү"
+                ],
+                "Bashkir": [
+                    "урлап сығарыу",
+                    "урлап индереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kontrabanda qilmoq"
+                ],
+                "Tatar": [
+                    "канунсыз ташу"
+                ],
+                "Bashkir": [
+                    "ҡануниһыҙ үткәреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gizli keçirmək"
+                ],
+                "Turkmen": [
+                    "gizlin geçirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bojdan yashirmoq"
+                ],
+                "Uyghur": [
+                    "باجسىز كىرگۈزمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'g'rincha olib o'tmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "заңсыз тасу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аткезчилик кылуу"
+                ]
+            }
+        }
+    ]
+}
+```
+

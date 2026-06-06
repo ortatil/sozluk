@@ -1,0 +1,256 @@
+# Straight and narrow
+| Field | Detail |
+|---|---|
+| **ID** | i37592 |
+| **English** | straight and narrow |
+| **Type** | noun |
+| **Definition** | the way of proper and honest behavior |
+| **Source** | common |
+| **Ortatil** | istikamät |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **istikamät** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| әділдік | ädildik |
+| шыншылдық | şınşıldıq |
+| **Kyrgyz** | |
+| адилеттик | adilettik |
+| **Tatar** | |
+| истикамәт | istikamät |
+| **Bashkir** | |
+| дөрөҫлөк | döröslök |
+| инсафлыҡ | insaflıq |
+
+```json
+{
+    "id": "i37592",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "straight and narrow",
+    "en_definition": "the way of proper and honest behavior",
+    "tr_word": "doğru yol",
+    "tr_definition": "dürüst ve ahlaklı davranış biçimi",
+    "ru_word": "путь истинный",
+    "ru_definition": "честный и добродетельный образ жизни",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doğru yol"
+                ],
+                "Azerbaijani": [
+                    "doğru yol"
+                ],
+                "Turkmen": [
+                    "dogry ýol"
+                ],
+                "Uzbek": [
+                    "to'g'ri yo'l",
+                    "to'g'rilik"
+                ],
+                "Uyghur": [
+                    "توغرا يول"
+                ],
+                "Kazakh": [
+                    "тура жол"
+                ],
+                "Kyrgyz": [
+                    "туура жол"
+                ],
+                "Karakalpak": [
+                    "tuorı jol"
+                ],
+                "Tatar": [
+                    "туры юл",
+                    "дөрес юл"
+                ],
+                "Bashkir": [
+                    "тура юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hak yolu"
+                ],
+                "Azerbaijani": [
+                    "düz yol"
+                ],
+                "Turkmen": [
+                    "ak ýol"
+                ],
+                "Uzbek": [
+                    "haq yo'li"
+                ],
+                "Uyghur": [
+                    "تۈز يول",
+                    "ھەق يول"
+                ],
+                "Tatar": [
+                    "хак юл"
+                ],
+                "Bashkir": [
+                    "хаҡ юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "istikamet"
+                ],
+                "Kazakh": [
+                    "әділдік"
+                ],
+                "Tatar": [
+                    "истикамәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sırat-ı müstakim"
+                ],
+                "Azerbaijani": [
+                    "siratəl-müstəqim"
+                ],
+                "Turkmen": [
+                    "syraty mustakym"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dürüstlük"
+                ],
+                "Bashkir": [
+                    "дөрөҫлөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "halallyk ýoly"
+                ],
+                "Karakalpak": [
+                    "hadallıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақ жол"
+                ],
+                "Kyrgyz": [
+                    "түз жол",
+                    "ак жол"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "insap"
+                ],
+                "Bashkir": [
+                    "инсафлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "haqq yolu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hidoyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "diyonat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "راست يول"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түзу жол"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шыншылдық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "адилеттик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ыйман жолу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dirilik"
+                ]
+            }
+        }
+    ]
+}
+```
+

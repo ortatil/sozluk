@@ -1,0 +1,98 @@
+{
+    "id": "i117426",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "first half",
+    "en_definition": "the first of two halves of play",
+    "tr_word": "ilk yarı",
+    "tr_definition": "Bir spor müsabakasının iki ana bölümünden birincisi",
+    "ru_word": "первый тайм",
+    "ru_definition": "первая из двух равных частей спортивной игры",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "birinci devre"
+                ],
+                "Azerbaijani": [
+                    "birinci hissə"
+                ],
+                "Turkmen": [
+                    "birinji ýarym",
+                    "birinji ýarymýyllyk"
+                ],
+                "Uzbek": [
+                    "birinchi bo'lim",
+                    "birinchi yarim"
+                ],
+                "Uyghur": [
+                    "بىرىنچى يېرىم مەيدان",
+                    "بىرىنچى بۆلەك"
+                ],
+                "Kazakh": [
+                    "бірінші жарты",
+                    "бірінші кезең"
+                ],
+                "Kyrgyz": [
+                    "биринчи тайм",
+                    "биринчи бөлүк"
+                ],
+                "Karakalpak": [
+                    "birinshi bólim",
+                    "birinshi taym"
+                ],
+                "Tatar": [
+                    "беренче тайм",
+                    "беренче өлеш",
+                    "беренче ярты"
+                ],
+                "Bashkir": [
+                    "беренсе тайм",
+                    "беренсе өлөш",
+                    "беренсе ярты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilk yarı",
+                    "ilk devre"
+                ],
+                "Azerbaijani": [
+                    "ilk hissə",
+                    "ilk yarı"
+                ],
+                "Turkmen": [
+                    "ilkinji ýarym"
+                ],
+                "Kazakh": [
+                    "алғашқы жарты",
+                    "алғашқы бөлім"
+                ],
+                "Kyrgyz": [
+                    "алгачкы жарым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastlabki bo'lim"
+                ],
+                "Karakalpak": [
+                    "dáslepki bólim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئالدىنقى يېرىم مەيدان"
+                ]
+            }
+        }
+    ]
+}

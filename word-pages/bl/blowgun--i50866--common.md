@@ -1,0 +1,113 @@
+# Blowgun
+| Field | Detail |
+|---|---|
+| **ID** | i50866 |
+| **English** | blowgun |
+| **Type** | noun |
+| **Definition** | a tube through which darts can be shot by blowing |
+| **Source** | common |
+| **Ortatil** | pufak |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i50866",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blowgun",
+    "en_definition": "a tube through which darts can be shot by blowing",
+    "tr_word": "üfleme borusu",
+    "tr_definition": "içinden üfleyerek ok veya dart atılan boru",
+    "ru_word": "духовая трубка",
+    "ru_definition": "трубка, через которую выдуваются стрелы или дротики",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üfleme borusu",
+                    "üfleme tüfeği"
+                ],
+                "Azerbaijani": [
+                    "üfürmə borusu",
+                    "üfürmə lüləsi"
+                ],
+                "Turkmen": [
+                    "üflemegürüş",
+                    "üfleme turbasy",
+                    "üfleme ýaragy"
+                ],
+                "Kazakh": [
+                    "үрлемелі түтік",
+                    "үрлемелі қару",
+                    "үрлемелі оқпан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "үрмө куур",
+                    "үрмө түтүк",
+                    "үрмө мылтык"
+                ],
+                "Karakalpak": [
+                    "úrme tútіk",
+                    "úrme mıltıq"
+                ],
+                "Bashkir": [
+                    "өрөү торбаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өреп ата торган көпшә",
+                    "өреп ата торган трубка",
+                    "өреп ата торган корал"
+                ],
+                "Bashkir": [
+                    "өрөп ата торған торба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sumpit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pufak",
+                    "pufak nay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dam nay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۈۋلەپ ئاتىدىغان نەيچە",
+                    "پۈۋلىمە نەيچە",
+                    "پۈۋلىمە مىلتىق"
+                ]
+            }
+        }
+    ]
+}
+```
+

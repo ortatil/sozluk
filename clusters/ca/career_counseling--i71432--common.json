@@ -1,0 +1,116 @@
+{
+    "id": "i71432",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "career counseling",
+    "en_definition": "counseling on career opportunities",
+    "tr_word": "kariyer danışmanlığı",
+    "tr_definition": "Kişinin yetenekleri ve ilgi alanlarına uygun kariyer fırsatları hakkında aldığı profesyonel rehberlik.",
+    "ru_word": "профориентация",
+    "ru_definition": "Консультирование по вопросам выбора профессии и карьерных возможностей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kasbga yoʻnaltirish",
+                    "kasbiy maslahat",
+                    "kasb tanlash boʻyicha maslahat"
+                ],
+                "Uyghur": [
+                    "كەسپىي مەسلىھەت",
+                    "كەسىپ يېتەكچىلىكى",
+                    "كەسپىي يۆنىلىش بېرىش"
+                ],
+                "Kazakh": [
+                    "кәсіби бағдар беру",
+                    "кәсіптік бағдарлау"
+                ],
+                "Kyrgyz": [
+                    "кесиптик багыт берүү",
+                    "кесип тандоого көмөктөшүү",
+                    "кесиптик кеңеш берүү"
+                ],
+                "Karakalpak": [
+                    "kásipke baǵdarlao",
+                    "kásip tańlao boyınsha másláhát",
+                    "kásibiy baǵdar berio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hünär maslahaty",
+                    "hünär ugrukdyrmasy"
+                ],
+                "Tatar": [
+                    "һөнәри юнәлеш бирү",
+                    "һөнәр сайлауда ярдәм",
+                    "һөнәри киңәш бирү"
+                ],
+                "Bashkir": [
+                    "һөнәр һайлау буйынса кәңәш биреү",
+                    "һөнәри йүнәлеш биреү",
+                    "һөнәр һайлауға ярҙам",
+                    "һөнәр буйынса кәңәшләшеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kariyer danışmanlığı",
+                    "kariyer rehberliği"
+                ],
+                "Azerbaijani": [
+                    "karyera məsləhəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meslek danışmanlığı",
+                    "mesleki rehberlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşə məsləhəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşə yönümü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşə bələdçiliyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ugur görkezme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мамандық таңдау бойынша кеңес"
+                ]
+            }
+        }
+    ]
+}

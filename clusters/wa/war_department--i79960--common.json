@@ -1,0 +1,127 @@
+{
+    "id": "i79960",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "war department",
+    "en_definition": "a former executive department of the United States government; created in 1789 and combined with the Navy Department in 1947",
+    "tr_word": "Savaş Bakanlığı",
+    "tr_definition": "1789'da kurulan ve 1947'de Deniz Kuvvetleri Bakanlığı ile birleştirilen eski bir Amerika Birleşik Devletleri hükümeti yürütme departmanı.",
+    "ru_word": "Военное министерство",
+    "ru_definition": "бывший исполнительный департамент правительства США; создан в 1789 году и объединен с Министерством военно-морского флота в 1947 году.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Harp Nezareti",
+                    "Harbiye Nezareti"
+                ],
+                "Azerbaijani": [
+                    "hərb nazirliyi",
+                    "hərb idarəsi"
+                ],
+                "Turkmen": [
+                    "harby ministrlik",
+                    "harby edara"
+                ],
+                "Uzbek": [
+                    "harbiy vazirlik"
+                ],
+                "Uyghur": [
+                    "ھەربىي ئىشلار مىنىستىرلىقى"
+                ],
+                "Karakalpak": [
+                    "hárbiy ministrlik",
+                    "hárbiy mekeme"
+                ],
+                "Tatar": [
+                    "хәрби министрлык",
+                    "хәрби идарә"
+                ],
+                "Bashkir": [
+                    "хәрби ведомство",
+                    "хәрби министрлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Savaş Bakanlığı"
+                ],
+                "Kyrgyz": [
+                    "согуш министрлиги"
+                ],
+                "Tatar": [
+                    "сугыш министрлыгы"
+                ],
+                "Bashkir": [
+                    "һуғыш министрлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "müdafiə nazirliyi"
+                ],
+                "Uzbek": [
+                    "mudofaa vazirligi"
+                ],
+                "Uyghur": [
+                    "مۇداپىئە مىنىستىرلىقى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goranyş ministrligi"
+                ],
+                "Kazakh": [
+                    "қорғаныс ведомствосы"
+                ],
+                "Kyrgyz": [
+                    "коргоо министрлиги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇرۇش مىنىستىرلىقى"
+                ],
+                "Karakalpak": [
+                    "urıs ministrligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әскери мекеме"
+                ],
+                "Kyrgyz": [
+                    "аскер министрлиги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muhoraba mahkamasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "соғыс министрлігі"
+                ]
+            }
+        }
+    ]
+}

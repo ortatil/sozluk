@@ -1,0 +1,113 @@
+{
+    "id": "i52158",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "neckband",
+    "en_definition": "a band that fits around the neck and is usually folded over",
+    "tr_word": "yaka bandı",
+    "tr_definition": "boyun çevresine oturan ve genellikle üzerine katlanan bant",
+    "ru_word": "воротник-стойка",
+    "ru_definition": "полоска ткани, облегающая шею и обычно подвернутая",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaka"
+                ],
+                "Azerbaijani": [
+                    "yaxa",
+                    "yaxalıq"
+                ],
+                "Turkmen": [
+                    "ýaka"
+                ],
+                "Uzbek": [
+                    "yoqa"
+                ],
+                "Uyghur": [
+                    "ياقا",
+                    "ياقا بېغى"
+                ],
+                "Kazakh": [
+                    "жаға"
+                ],
+                "Kyrgyz": [
+                    "жака"
+                ],
+                "Karakalpak": [
+                    "jaǵa"
+                ],
+                "Tatar": [
+                    "яка"
+                ],
+                "Bashkir": [
+                    "яға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boyunluk"
+                ],
+                "Azerbaijani": [
+                    "boyunluq"
+                ],
+                "Turkmen": [
+                    "bogazlyk"
+                ],
+                "Uzbek": [
+                    "bo'yinbog'",
+                    "bo'yinbog'i"
+                ],
+                "Uyghur": [
+                    "بويۇن ياقىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мойынсақ"
+                ],
+                "Kyrgyz": [
+                    "моюн орогуч",
+                    "моюн жака"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қайырма жаға"
+                ],
+                "Karakalpak": [
+                    "qayırma jaǵa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gerdanlık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "изү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡамыт"
+                ]
+            }
+        }
+    ]
+}

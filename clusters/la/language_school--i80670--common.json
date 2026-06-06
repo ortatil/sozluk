@@ -1,0 +1,95 @@
+{
+    "id": "i80670",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "language school",
+    "en_definition": "a school for teaching foreign languages",
+    "tr_word": "dil okulu",
+    "tr_definition": "yabancı dil öğretimi veren okul",
+    "ru_word": "языковая школа",
+    "ru_definition": "школа для обучения иностранным языкам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dil okulu",
+                    "dil kursu"
+                ],
+                "Azerbaijani": [
+                    "dil məktəbi",
+                    "dil kursu"
+                ],
+                "Turkmen": [
+                    "dil mekdebi",
+                    "dil merkezi",
+                    "dil öwrediş merkezi"
+                ],
+                "Uzbek": [
+                    "til maktabi",
+                    "til oʻrgatish markazi",
+                    "til kursi"
+                ],
+                "Uyghur": [
+                    "تىل مەكتىپى",
+                    "تىل تەربىيەلەش مەركىزى"
+                ],
+                "Kazakh": [
+                    "тіл мектебі",
+                    "тіл орталығы"
+                ],
+                "Kyrgyz": [
+                    "тил мектеби",
+                    "тил курсу"
+                ],
+                "Karakalpak": [
+                    "til mektebi",
+                    "tiller mektebi"
+                ],
+                "Tatar": [
+                    "тел мәктәбе",
+                    "телләр мәктәбе"
+                ],
+                "Bashkir": [
+                    "тел мәктәбе",
+                    "телдәр мәктәбе",
+                    "тел өйрәнеү мәктәбе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تىل ئۆگىنىش ئورنى"
+                ],
+                "Kyrgyz": [
+                    "тил үйрөтүү борбору"
+                ],
+                "Tatar": [
+                    "тел өйрәнү үзәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lisan mektebi"
+                ],
+                "Azerbaijani": [
+                    "lisan məktəbi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тіл үйрету орталығы"
+                ],
+                "Karakalpak": [
+                    "til úyrenio orayı"
+                ]
+            }
+        }
+    ]
+}

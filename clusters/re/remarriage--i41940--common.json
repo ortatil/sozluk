@@ -1,0 +1,122 @@
+{
+    "id": "i41940",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "remarriage",
+    "en_definition": "the act of marrying again",
+    "tr_word": "yeniden evlenme",
+    "tr_definition": "tekrar evlenme eylemi",
+    "ru_word": "повторный брак",
+    "ru_definition": "акт вступления в брак снова",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ikinci evlilik"
+                ],
+                "Azerbaijani": [
+                    "ikinci izdivac"
+                ],
+                "Turkmen": [
+                    "ikinji nikah"
+                ],
+                "Uzbek": [
+                    "ikkinchi nikoh"
+                ],
+                "Kazakh": [
+                    "екінші неке"
+                ],
+                "Kyrgyz": [
+                    "экинчи нике"
+                ],
+                "Tatar": [
+                    "икенче никах"
+                ],
+                "Bashkir": [
+                    "икенсе никах"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan öýlenmek",
+                    "gaýtadan durmuş gurmak"
+                ],
+                "Uzbek": [
+                    "qayta nikoh",
+                    "qayta uylanish",
+                    "qayta turmush qurish"
+                ],
+                "Uyghur": [
+                    "قايتا توي قىلىش",
+                    "قايتا نىكاھلىنىش"
+                ],
+                "Kazakh": [
+                    "қайта некелесу",
+                    "қайта үйлену",
+                    "қайта тұрмысқа шығу"
+                ],
+                "Kyrgyz": [
+                    "кайра үйлөнүү",
+                    "кайра никеленүү"
+                ],
+                "Karakalpak": [
+                    "qayta úylenio",
+                    "qayta turmısqa shıǵıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden evlenme"
+                ],
+                "Azerbaijani": [
+                    "yenidən evlənmə"
+                ],
+                "Uyghur": [
+                    "يېڭىدىن نىكاھلىنىش"
+                ],
+                "Tatar": [
+                    "яңадан өйләнү",
+                    "яңадан кияүгә чыгу"
+                ],
+                "Bashkir": [
+                    "яңынан өйләнеү",
+                    "яңынан кейәүгә сығыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekrar evlenme"
+                ],
+                "Azerbaijani": [
+                    "təkrar nikah"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат никахлашу"
+                ],
+                "Bashkir": [
+                    "ҡабаттан никахлашыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ekenshi márte nekelesio"
+                ]
+            }
+        }
+    ]
+}

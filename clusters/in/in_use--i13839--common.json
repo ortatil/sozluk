@@ -1,0 +1,158 @@
+{
+    "id": "i13839",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "in use",
+    "en_definition": "currently being used",
+    "tr_word": "kullanımda",
+    "tr_definition": "şu anda kullanılmakta olan",
+    "ru_word": "используемый",
+    "ru_definition": "находящийся в употреблении в данный момент",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işler"
+                ],
+                "Azerbaijani": [
+                    "işlək",
+                    "istifadədə"
+                ],
+                "Turkmen": [
+                    "işledilýän"
+                ],
+                "Uzbek": [
+                    "iste'molda",
+                    "ishlatilmoqda"
+                ],
+                "Uyghur": [
+                    "ئىشلىتىلىۋاتقان",
+                    "ئىستېمالدا"
+                ],
+                "Kazakh": [
+                    "істе"
+                ],
+                "Kyrgyz": [
+                    "иштеги"
+                ],
+                "Karakalpak": [
+                    "istegi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qo'llanilmoqda"
+                ],
+                "Uyghur": [
+                    "قوللىنىلىۋاتقان"
+                ],
+                "Kazakh": [
+                    "қолданыста",
+                    "қолданыстағы"
+                ],
+                "Kyrgyz": [
+                    "колдонуудагы"
+                ],
+                "Karakalpak": [
+                    "qoldanıstaǵı",
+                    "qoldanısta"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kullanımda"
+                ],
+                "Turkmen": [
+                    "ulanylýan",
+                    "ulanylyşda"
+                ],
+                "Tatar": [
+                    "кулланылышта"
+                ],
+                "Bashkir": [
+                    "ҡулланылыштағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yürürlükte"
+                ],
+                "Tatar": [
+                    "йөрештә"
+                ],
+                "Bashkir": [
+                    "йөрөштәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "amalda"
+                ],
+                "Tatar": [
+                    "гамәлдә"
+                ],
+                "Bashkir": [
+                    "ғәмәлдәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "пайдалануда"
+                ],
+                "Kyrgyz": [
+                    "пайдалануудагы"
+                ],
+                "Karakalpak": [
+                    "paydalanılıp atırǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müstəmal"
+                ],
+                "Uyghur": [
+                    "مۇستەئمەل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "faal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hereketdäki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жүгүртүүдөгү"
+                ]
+            }
+        }
+    ]
+}

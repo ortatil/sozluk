@@ -1,0 +1,152 @@
+# Troop carrier
+| Field | Detail |
+|---|---|
+| **ID** | i60580 |
+| **English** | troop carrier |
+| **Type** | noun |
+| **Definition** | any land or sea or air vehicle designed to carry troops |
+| **Source** | common |
+| **Ortatil** | kólıq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| күчергеч | küçergeç |
+
+```json
+{
+    "id": "i60580",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "troop carrier",
+    "en_definition": "any land or sea or air vehicle designed to carry troops",
+    "tr_word": "asker taşıyıcı",
+    "tr_definition": "askerleri taşımak için tasarlanmış herhangi bir kara, deniz veya hava aracı",
+    "ru_word": "бронетранспортер",
+    "ru_definition": "любое наземное, морское или воздушное транспортное средство, предназначенное для перевозки войск",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asker taşıyıcı"
+                ],
+                "Turkmen": [
+                    "esger daşaýjy"
+                ],
+                "Uzbek": [
+                    "askar tashuvchi"
+                ],
+                "Uyghur": [
+                    "ئەسكەر توشۇغۇچى"
+                ],
+                "Kazakh": [
+                    "әскер тасығыш",
+                    "әскери көлік"
+                ],
+                "Kyrgyz": [
+                    "аскер ташуучу",
+                    "аскер унаасы"
+                ],
+                "Karakalpak": [
+                    "ásker tasıǵısh",
+                    "ásker tasıytushı"
+                ],
+                "Tatar": [
+                    "гаскәр ташучы"
+                ],
+                "Bashkir": [
+                    "ғәскәр ташыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşun daşıyan"
+                ],
+                "Turkmen": [
+                    "goşun göteriji"
+                ],
+                "Uzbek": [
+                    "qoʻshin tashuvchi",
+                    "qoʻshin vositasi"
+                ],
+                "Uyghur": [
+                    "قوشۇن توشۇغۇچى",
+                    "قوشۇن توشۇش ۋاسىتىسى"
+                ],
+                "Kyrgyz": [
+                    "кошуун ташуучу"
+                ],
+                "Bashkir": [
+                    "көс ташыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbi nəqliyyat vasitəsi"
+                ],
+                "Turkmen": [
+                    "harby ulag"
+                ],
+                "Uzbek": [
+                    "harbiy ulov"
+                ],
+                "Tatar": [
+                    "хәрби транспорт"
+                ],
+                "Bashkir": [
+                    "хәрби транспорт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "personel taşıyıcı",
+                    "birlik nakliye aracı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əsgər daşıyan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сарбаз тасымалдағыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kólіk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күчергеч"
+                ]
+            }
+        }
+    ]
+}
+```
+

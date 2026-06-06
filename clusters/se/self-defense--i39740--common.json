@@ -1,0 +1,115 @@
+{
+    "id": "i39740",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "self-defense",
+    "en_definition": "the act of defending yourself",
+    "tr_word": "öz savunma",
+    "tr_definition": "kişinin kendisini saldırılara karşı koruması eylemi",
+    "ru_word": "самооборона",
+    "ru_definition": "защита самого себя от нападения или посягательства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öz savunma"
+                ],
+                "Azerbaijani": [
+                    "özünümüdafiə"
+                ],
+                "Turkmen": [
+                    "özüni goramak",
+                    "özüni goranyş"
+                ],
+                "Uzbek": [
+                    "oʻzini himoya qilish",
+                    "oʻz-oʻzini asrash"
+                ],
+                "Uyghur": [
+                    "ئۆزىنى قوغداش",
+                    "ئۆزىنى مۇداپىئە قىلىش"
+                ],
+                "Kazakh": [
+                    "өзін-өзі қорғау",
+                    "өзін қорғау"
+                ],
+                "Kyrgyz": [
+                    "өзүн-өзү коргоо"
+                ],
+                "Karakalpak": [
+                    "ózin-ózi qorǵau",
+                    "ózin qorǵao"
+                ],
+                "Tatar": [
+                    "үзеңне яклау",
+                    "үзеңне саклау"
+                ],
+                "Bashkir": [
+                    "үҙ-үҙеңде яҡлау",
+                    "үҙ-үҙеңде һаҡлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "müdafiə"
+                ],
+                "Turkmen": [
+                    "mudapyga"
+                ],
+                "Uzbek": [
+                    "mudofaa"
+                ],
+                "Uyghur": [
+                    "مۇداپىئەلىنىش"
+                ],
+                "Kyrgyz": [
+                    "мудапа"
+                ],
+                "Karakalpak": [
+                    "múdapá"
+                ],
+                "Tatar": [
+                    "мөдафәга"
+                ],
+                "Bashkir": [
+                    "мөҙәфәғә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қорғаныс"
+                ],
+                "Kyrgyz": [
+                    "коргонуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nefs-i müdafaa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendini koruma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "himoya"
+                ]
+            }
+        }
+    ]
+}

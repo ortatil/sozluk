@@ -1,0 +1,162 @@
+{
+    "id": "i31608",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "pick up",
+    "en_definition": "take and lift upward",
+    "tr_word": "yerden kaldırmak",
+    "tr_definition": "bir şeyi bulunduğu yerden yukarıya doğru hareket ettirmek",
+    "ru_word": "поднимать",
+    "ru_definition": "взять и переместить в более высокое положение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "götürmək"
+                ],
+                "Turkmen": [
+                    "götermek"
+                ],
+                "Uzbek": [
+                    "ko'tarmoq"
+                ],
+                "Uyghur": [
+                    "كۆتۈرمەك"
+                ],
+                "Kazakh": [
+                    "көтеру"
+                ],
+                "Kyrgyz": [
+                    "көтөрүү"
+                ],
+                "Karakalpak": [
+                    "kóterip alıu",
+                    "kóteriu"
+                ],
+                "Tatar": [
+                    "күтәрү",
+                    "күтәреп алу"
+                ],
+                "Bashkir": [
+                    "күтәреү",
+                    "күтәреп алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "almak"
+                ],
+                "Turkmen": [
+                    "almak"
+                ],
+                "Uzbek": [
+                    "olmoq"
+                ],
+                "Uyghur": [
+                    "ئالماق"
+                ],
+                "Kyrgyz": [
+                    "алуу"
+                ],
+                "Karakalpak": [
+                    "alıu"
+                ],
+                "Tatar": [
+                    "алу"
+                ],
+                "Bashkir": [
+                    "алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yığmaq"
+                ],
+                "Uyghur": [
+                    "يىغماق"
+                ],
+                "Kazakh": [
+                    "жинап алу"
+                ],
+                "Tatar": [
+                    "җыю"
+                ],
+                "Bashkir": [
+                    "йыйып алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dərmək"
+                ],
+                "Uzbek": [
+                    "termoq"
+                ],
+                "Uyghur": [
+                    "تېرىمەك"
+                ],
+                "Kazakh": [
+                    "теріп алу"
+                ],
+                "Kyrgyz": [
+                    "терип алуу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaldırmak"
+                ],
+                "Azerbaijani": [
+                    "qaldırmaq"
+                ],
+                "Turkmen": [
+                    "galdyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yukarı kaldırmak"
+                ],
+                "Turkmen": [
+                    "ýokary galdyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toplamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іліп алу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илүү"
+                ]
+            }
+        }
+    ]
+}

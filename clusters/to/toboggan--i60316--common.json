@@ -1,0 +1,114 @@
+{
+    "id": "i60316",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "toboggan",
+    "en_definition": "a long narrow sled without runners; boards curve upward in front",
+    "tr_word": "tobogan",
+    "tr_definition": "Ön kısmı yukarı doğru kıvrılan, altı düz ve kızaksız, uzun ve dar bir kar kızağı.",
+    "ru_word": "тобогган",
+    "ru_definition": "Длинные узкие бесполозные сани с загнутым впереди передком.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çana"
+                ],
+                "Uzbek": [
+                    "chana"
+                ],
+                "Uyghur": [
+                    "چانىغا"
+                ],
+                "Kazakh": [
+                    "шана"
+                ],
+                "Kyrgyz": [
+                    "чана"
+                ],
+                "Karakalpak": [
+                    "shana"
+                ],
+                "Tatar": [
+                    "чана"
+                ],
+                "Bashkir": [
+                    "сана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sirpangich"
+                ],
+                "Kazakh": [
+                    "сырғанақ"
+                ],
+                "Karakalpak": [
+                    "sırǵanaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تېيىلغۇچ"
+                ],
+                "Kazakh": [
+                    "тайғанақ"
+                ],
+                "Kyrgyz": [
+                    "такта чана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kızak",
+                    "kayak",
+                    "kaydırak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kirşə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xizək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sürçek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "такта чана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "табаҡсана"
+                ]
+            }
+        }
+    ]
+}

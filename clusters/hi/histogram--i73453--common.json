@@ -1,0 +1,161 @@
+{
+    "id": "i73453",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "histogram",
+    "en_definition": "a bar chart representing a frequency distribution; heights of the bars represent observed frequencies",
+    "tr_word": "histogram",
+    "tr_definition": "Gözlemlenen frekansları temsil eden sütunlardan oluşan bir sıklık dağılımı grafiği.",
+    "ru_word": "гистограмма",
+    "ru_definition": "Способ графического представления распределения величин, представляющий собой ряд прямоугольников, высота которых пропорциональна частоте значений.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýygylyk diagrammasy"
+                ],
+                "Kyrgyz": [
+                    "баганалуу диаграмма",
+                    "жыштык диаграммасы"
+                ],
+                "Karakalpak": [
+                    "baǵanalı diagramma"
+                ],
+                "Tatar": [
+                    "баганалы диаграмма",
+                    "ешлык диаграммасы"
+                ],
+                "Bashkir": [
+                    "бағаналы диаграмма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sütun grafiği"
+                ],
+                "Azerbaijani": [
+                    "sütunlu diaqram",
+                    "sütunlu qrafik"
+                ],
+                "Turkmen": [
+                    "sütünli diagramma"
+                ],
+                "Uzbek": [
+                    "ustunli diagramma"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бағанды диаграмма",
+                    "бағанды сызба"
+                ],
+                "Karakalpak": [
+                    "baǵanalı sızba"
+                ],
+                "Tatar": [
+                    "баганалы сурәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıklık grafiği"
+                ],
+                "Bashkir": [
+                    "йышлыҡ диаграммаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tezlik diaqramı"
+                ],
+                "Uzbek": [
+                    "tasvir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gistogramma"
+                ],
+                "Uyghur": [
+                    "تەكرارلىق دىئاگراممىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çubuk grafik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dağılım grafiği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chizma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەكرارلىق تەقسىمات جەدۋىلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈۋرۈكلۈك دىئاگرامما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жиілік кестесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тилкелүү диаграмма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jıyılıq kestesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һүрәтләмә"
+                ]
+            }
+        }
+    ]
+}

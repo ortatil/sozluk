@@ -1,0 +1,79 @@
+{
+    "id": "i37697",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "headstand",
+    "en_definition": "an acrobatic feat in which a person balances on the head (usually with the help of the hands)",
+    "tr_word": "amuda kalkma",
+    "tr_definition": "Ellerin yardımıyla başın üzerinde dengede durularak yapılan akrobatik hareket.",
+    "ru_word": "стойка на голове",
+    "ru_definition": "Акробатическое упражнение, при котором человек балансирует на голове, обычно опираясь на руки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baş üstü duruş"
+                ],
+                "Azerbaijani": [
+                    "baş üstə duruş",
+                    "baş üstündə durma",
+                    "başüstü duruş"
+                ],
+                "Turkmen": [
+                    "başüstünde durmak"
+                ],
+                "Uzbek": [
+                    "boshda turish",
+                    "bosh bilan turish"
+                ],
+                "Uyghur": [
+                    "باشتا تۇرۇش",
+                    "باشتا تىك تۇرۇش"
+                ],
+                "Kazakh": [
+                    "баспен тұру",
+                    "баспен тірелу"
+                ],
+                "Kyrgyz": [
+                    "баш менен туруу",
+                    "баш менен тик туруу"
+                ],
+                "Karakalpak": [
+                    "bas penen turıo",
+                    "basqa turıo"
+                ],
+                "Tatar": [
+                    "баш түбән тору",
+                    "баш өстендә тору",
+                    "баш белән тору"
+                ],
+                "Bashkir": [
+                    "башта тороу",
+                    "баш түбән тороу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "amuda kalkma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kafa üstü duruş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kelleüstünde durmak"
+                ]
+            }
+        }
+    ]
+}

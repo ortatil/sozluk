@@ -1,0 +1,83 @@
+{
+    "id": "i91368",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "miller",
+    "en_definition": "someone who works in a mill (especially a grain mill)",
+    "tr_word": "değirmenci",
+    "tr_definition": "Değirmen işleten veya değirmende çalışan kimse.",
+    "ru_word": "мельник",
+    "ru_definition": "Человек, работающий на мельнице или владеющий ею.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "değirmenci"
+                ],
+                "Azerbaijani": [
+                    "dəyirmançı"
+                ],
+                "Turkmen": [
+                    "degirmençi"
+                ],
+                "Uzbek": [
+                    "tegirmonchi"
+                ],
+                "Kazakh": [
+                    "диірменші"
+                ],
+                "Kyrgyz": [
+                    "тегирменчи"
+                ],
+                "Karakalpak": [
+                    "digirmenshi",
+                    "digirmendar"
+                ],
+                "Tatar": [
+                    "тегермәнче",
+                    "тегермән хуҗасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "un değirmencisi"
+                ],
+                "Azerbaijani": [
+                    "unçu"
+                ],
+                "Turkmen": [
+                    "unçy"
+                ],
+                "Uzbek": [
+                    "unchi"
+                ],
+                "Kazakh": [
+                    "ұншы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈگمەنچى",
+                    "تۈگمەن ئىگىسى"
+                ],
+                "Bashkir": [
+                    "тирмәнсе",
+                    "тирмән хужаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жаргылчакчы"
+                ]
+            }
+        }
+    ]
+}

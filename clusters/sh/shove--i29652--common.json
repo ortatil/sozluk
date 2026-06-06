@@ -1,0 +1,136 @@
+{
+    "id": "i29652",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "shove",
+    "en_definition": "push roughly",
+    "tr_word": "itmek",
+    "tr_definition": "birini veya bir şeyi sertçe veya kabaca ileri doğru itmek",
+    "ru_word": "пихать",
+    "ru_definition": "грубо или с силой толкать кого-либо или что-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "itmek",
+                    "itivermek",
+                    "itip kakmak"
+                ],
+                "Azerbaijani": [
+                    "itələmək",
+                    "itələyib-qaxmaq",
+                    "itələyib-salmaq"
+                ],
+                "Turkmen": [
+                    "itermek",
+                    "itermeklemek",
+                    "itip goýbermek",
+                    "itgi bermek"
+                ],
+                "Uzbek": [
+                    "itarmoq",
+                    "itqitmoq"
+                ],
+                "Uyghur": [
+                    "ئىتتىرمەك"
+                ],
+                "Kazakh": [
+                    "итеру"
+                ],
+                "Karakalpak": [
+                    "iterio",
+                    "itermeleo",
+                    "itergileo"
+                ],
+                "Tatar": [
+                    "этәрү",
+                    "этәргеләү"
+                ],
+                "Bashkir": [
+                    "этәреү",
+                    "этәргеләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "turtmoq"
+                ],
+                "Uyghur": [
+                    "تۈرتۈلمەك",
+                    "تۈرتمەك"
+                ],
+                "Kazakh": [
+                    "түрткілеу"
+                ],
+                "Kyrgyz": [
+                    "түртүү",
+                    "түрткүлөө"
+                ],
+                "Karakalpak": [
+                    "túrtio"
+                ],
+                "Tatar": [
+                    "төртү",
+                    "төрткәләү"
+                ],
+                "Bashkir": [
+                    "төртөү",
+                    "төрткөләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarsmak"
+                ],
+                "Uzbek": [
+                    "surmoq"
+                ],
+                "Kyrgyz": [
+                    "сүрүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kakmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوپال ئىتتىرمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұлқу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "серпу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыстоо"
+                ]
+            }
+        }
+    ]
+}

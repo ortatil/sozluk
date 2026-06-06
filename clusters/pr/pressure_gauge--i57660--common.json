@@ -1,0 +1,89 @@
+{
+    "id": "i57660",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pressure gauge",
+    "en_definition": "gauge for measuring and indicating fluid pressure",
+    "tr_word": "manometre",
+    "tr_definition": "Sıvı veya gazların basıncını ölçmek ve göstermek için kullanılan alet.",
+    "ru_word": "манометр",
+    "ru_definition": "Прибор для измерения давления жидкостей и газов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basınçölçer",
+                    "basınç ölçer"
+                ],
+                "Turkmen": [
+                    "basyşölçeg",
+                    "basyşölçer"
+                ],
+                "Uzbek": [
+                    "bosim oʻlchagich",
+                    "bosim oʻlchovchi",
+                    "bosim asbobi"
+                ],
+                "Uyghur": [
+                    "بېسىم ئۆلچىگۈچ",
+                    "بېسىم مىقدارلىغۇچ"
+                ],
+                "Kyrgyz": [
+                    "басым өлчөгүч"
+                ],
+                "Tatar": [
+                    "басым үлчәгеч"
+                ],
+                "Bashkir": [
+                    "баҫым үлсәүес",
+                    "баҫым үлсәгес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "manometre"
+                ],
+                "Azerbaijani": [
+                    "manometr"
+                ],
+                "Turkmen": [
+                    "manometr"
+                ],
+                "Uyghur": [
+                    "مانومېتىر"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қысым өлшегіш",
+                    "қысым өлшеуіш",
+                    "қысым көрсеткіш"
+                ],
+                "Kyrgyz": [
+                    "кысым өлчөгүч"
+                ],
+                "Karakalpak": [
+                    "qısım ólshegish",
+                    "qısım ólsheoshi"
+                ],
+                "Tatar": [
+                    "кысым үлчәгеч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təzyiqölçən"
+                ]
+            }
+        }
+    ]
+}

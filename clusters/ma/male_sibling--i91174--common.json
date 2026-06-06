@@ -1,0 +1,145 @@
+{
+    "id": "i91174",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "male sibling",
+    "en_definition": "a sibling who is male",
+    "tr_word": "erkek kardeş",
+    "tr_definition": "erkek olan kardeş",
+    "ru_word": "брат",
+    "ru_definition": "каждый из сыновей в отношении к другим детям от тех же родителей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağabey"
+                ],
+                "Turkmen": [
+                    "aga"
+                ],
+                "Uzbek": [
+                    "aka",
+                    "uka",
+                    "og'a"
+                ],
+                "Uyghur": [
+                    "ئاكا",
+                    "ئۇكا"
+                ],
+                "Kazakh": [
+                    "аға"
+                ],
+                "Kyrgyz": [
+                    "ага"
+                ],
+                "Karakalpak": [
+                    "aǵa"
+                ],
+                "Bashkir": [
+                    "ағай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karındaş"
+                ],
+                "Azerbaijani": [
+                    "qardaş"
+                ],
+                "Uzbek": [
+                    "qardosh"
+                ],
+                "Uyghur": [
+                    "قېرىنداش"
+                ],
+                "Tatar": [
+                    "кардәш"
+                ],
+                "Bashkir": [
+                    "ҡәрҙәш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ini"
+                ],
+                "Kazakh": [
+                    "іні"
+                ],
+                "Kyrgyz": [
+                    "ини"
+                ],
+                "Karakalpak": [
+                    "ini"
+                ],
+                "Tatar": [
+                    "эне"
+                ],
+                "Bashkir": [
+                    "эне"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "birader"
+                ],
+                "Azerbaijani": [
+                    "biradər"
+                ],
+                "Uzbek": [
+                    "birodar"
+                ],
+                "Kyrgyz": [
+                    "бир тууган"
+                ],
+                "Karakalpak": [
+                    "bir tuoǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "erkek kardeş"
+                ],
+                "Turkmen": [
+                    "erkek dogan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dogan"
+                ],
+                "Tatar": [
+                    "туган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бауыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "абый"
+                ]
+            }
+        }
+    ]
+}

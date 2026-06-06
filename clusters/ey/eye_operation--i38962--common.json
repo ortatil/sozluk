@@ -1,0 +1,85 @@
+{
+    "id": "i38962",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eye operation",
+    "en_definition": "any surgical procedure involving the eyes",
+    "tr_word": "göz ameliyatı",
+    "tr_definition": "gözleri içeren herhangi bir cerrahi prosedür",
+    "ru_word": "операция на глазах",
+    "ru_definition": "любая хирургическая процедура, затрагивающая глаза",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz ameliyatı"
+                ],
+                "Azerbaijani": [
+                    "göz əməliyyatı"
+                ],
+                "Turkmen": [
+                    "göz amalyýaty"
+                ],
+                "Uzbek": [
+                    "ko'z amaliyoti",
+                    "ko'z jarrohligi"
+                ],
+                "Uyghur": [
+                    "كۆز ئوپېراتسىيەسى",
+                    "كۆز ئەمەلىياتى",
+                    "كۆز جەرراھىيىسى"
+                ],
+                "Kazakh": [
+                    "көз хирургиясы"
+                ],
+                "Kyrgyz": [
+                    "көз операциясы",
+                    "көз хирургиясы"
+                ],
+                "Karakalpak": [
+                    "kóz xirurgiyası"
+                ],
+                "Tatar": [
+                    "күз операциясе",
+                    "күз җәррахияте"
+                ],
+                "Bashkir": [
+                    "күҙгә операция",
+                    "күҙ хирургияһы",
+                    "күҙҙе дауалау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz cerrahisi",
+                    "göz operasyonu"
+                ],
+                "Azerbaijani": [
+                    "göz cərrahiyyəsi"
+                ],
+                "Turkmen": [
+                    "göz operasiýasy",
+                    "göz jerrahylygy"
+                ],
+                "Kazakh": [
+                    "көз отасы"
+                ],
+                "Karakalpak": [
+                    "kóz otası",
+                    "kózge ota jasau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көзгө жасалган операция"
+                ]
+            }
+        }
+    ]
+}

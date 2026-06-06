@@ -1,0 +1,109 @@
+# Opera star
+| Field | Detail |
+|---|---|
+| **ID** | i91741 |
+| **English** | opera star |
+| **Type** | noun |
+| **Definition** | singer of lead role in an opera |
+| **Source** | common |
+| **Ortatil** | başşarkıcı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i91741",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "opera star",
+    "en_definition": "singer of lead role in an opera",
+    "tr_word": "opera yıldızı",
+    "tr_definition": "bir operada başrolü seslendiren sanatçı",
+    "ru_word": "оперная звезда",
+    "ru_definition": "исполнитель главных партий в опере",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "opera sanatçısı",
+                    "opera yıldızı"
+                ],
+                "Azerbaijani": [
+                    "opera müğənnisi",
+                    "opera sənətçisi",
+                    "opera ulduzu"
+                ],
+                "Turkmen": [
+                    "opera aýdymçysy",
+                    "opera ýyldyzy"
+                ],
+                "Uzbek": [
+                    "opera yulduzi",
+                    "opera xonandasi",
+                    "opera san'atkori"
+                ],
+                "Uyghur": [
+                    "ئوپېرا چولپىنى",
+                    "ئوپېرا يۇلتۇزى"
+                ],
+                "Kazakh": [
+                    "опера жұлдызы",
+                    "опера әншісі"
+                ],
+                "Kyrgyz": [
+                    "опера жылдызы",
+                    "опера ырчысы"
+                ],
+                "Karakalpak": [
+                    "opera juldızı",
+                    "opera ánshisi"
+                ],
+                "Tatar": [
+                    "опера йолдызы",
+                    "опера җырчысы"
+                ],
+                "Bashkir": [
+                    "опера йырсыһы",
+                    "опера йондоҙо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başrol oyuncusu",
+                    "başşarkıcı"
+                ],
+                "Turkmen": [
+                    "baş aýdymçy"
+                ],
+                "Kazakh": [
+                    "бас әнші"
+                ],
+                "Kyrgyz": [
+                    "башкы ырчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاساسىي ئوپېرا ناخشىچىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "даңқты әнші"
+                ]
+            }
+        }
+    ]
+}
+```
+

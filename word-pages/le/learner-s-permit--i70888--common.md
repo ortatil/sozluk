@@ -1,0 +1,168 @@
+# Learner's permit
+| Field | Detail |
+|---|---|
+| **ID** | i70888 |
+| **English** | learner's permit |
+| **Type** | noun |
+| **Definition** | a document authorizing the bearer to learn to drive an automobile |
+| **Source** | common |
+| **Ortatil** | röhsätnämä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| рөхсәтнамә | röxsätnamä |
+| таныҡлыҡ | tanıqlıq |
+| танытма | tanıtma |
+
+```json
+{
+    "id": "i70888",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "learner's permit",
+    "en_definition": "a document authorizing the bearer to learn to drive an automobile",
+    "tr_word": "öğrenci ehliyeti",
+    "tr_definition": "bir kişinin otomobil sürmeyi öğrenmesine izin veren resmi belge",
+    "ru_word": "ученическое водительское удостоверение",
+    "ru_definition": "документ, дающий право обучаться вождению автомобиля",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okuw şahadatnamasy"
+                ],
+                "Uzbek": [
+                    "o'quv guvohnomasi"
+                ],
+                "Kazakh": [
+                    "оқу куәлігі"
+                ],
+                "Kyrgyz": [
+                    "окуучулук күбөлүк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürücü aday belgesi"
+                ],
+                "Azerbaijani": [
+                    "sürücülük təlimi vəsiqəsi"
+                ],
+                "Turkmen": [
+                    "sürüjilik şahadatnamasynyň rugsatnamasy",
+                    "sürüjilik okuw rugsady"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öğrenci sürücü belgesi"
+                ],
+                "Karakalpak": [
+                    "úyrenioshi gúoalıǵı"
+                ],
+                "Tatar": [
+                    "өйрәнү таныклыгы",
+                    "өйрәнүче таныклыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "haydovchilikka o'rganuvchi ruxsatnomasi"
+                ],
+                "Bashkir": [
+                    "рөхсәтнамә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "рұқсат қағазы"
+                ],
+                "Tatar": [
+                    "рөхсәт кәгазе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айдоочулукка үйрөнүү күбөлүгү",
+                    "айдоого уруксат кагазы"
+                ],
+                "Karakalpak": [
+                    "aydaoshılıqqa úyrenio ruxsatnaması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "stajyer ehliyet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təlim icazəsi",
+                    "təlimçi icazə vərəqəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vaqtinchalik ruxsatnoma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆگىنىش كىنىشكىسى",
+                    "شوپۇرلۇق ئۆگىنىش كىنىشكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماشىنا ھەيدەش ئۆگىنىش كىنىشكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жүргізуші куәлігіне үміткер анықтамасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "таныҡлыҡ",
+                    "танытма"
+                ]
+            }
+        }
+    ]
+}
+```
+

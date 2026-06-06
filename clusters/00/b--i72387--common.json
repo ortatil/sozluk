@@ -1,0 +1,78 @@
+{
+    "id": "i72387",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "b",
+    "en_definition": "the 2nd letter of the Roman alphabet",
+    "tr_word": "b",
+    "tr_definition": "Latin alfabesinin ikinci harfi",
+    "ru_word": "б",
+    "ru_definition": "вторая буква латинского алфавита",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "be",
+                    "be harfi"
+                ],
+                "Azerbaijani": [
+                    "be",
+                    "be hərfi"
+                ],
+                "Turkmen": [
+                    "be harpy"
+                ],
+                "Uzbek": [
+                    "be",
+                    "be harfi"
+                ],
+                "Uyghur": [
+                    "ب ھەرىپى"
+                ],
+                "Kazakh": [
+                    "б әрпі"
+                ],
+                "Kyrgyz": [
+                    "бе"
+                ],
+                "Karakalpak": [
+                    "b háribi"
+                ],
+                "Tatar": [
+                    "би"
+                ],
+                "Bashkir": [
+                    "би"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئىككىنچى ھەرپ"
+                ],
+                "Kazakh": [
+                    "екінші әріп"
+                ],
+                "Kyrgyz": [
+                    "экинчи тамга"
+                ],
+                "Tatar": [
+                    "икенче хәреф"
+                ],
+                "Bashkir": [
+                    "икенсе хәреф"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "b"
+                ]
+            }
+        }
+    ]
+}

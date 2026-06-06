@@ -1,0 +1,82 @@
+{
+    "id": "i36746",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hairdressing",
+    "en_definition": "care for the hair: the activity of washing or cutting or curling or arranging the hair",
+    "tr_word": "kuaförlük",
+    "tr_definition": "Saç yıkama, kesme, kıvırma veya şekil verme faaliyeti; saç bakımı işi.",
+    "ru_word": "парикмахерское дело",
+    "ru_definition": "Деятельность по уходу за волосами: мытье, стрижка, завивка или укладка волос.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saç bakımı"
+                ],
+                "Azerbaijani": [
+                    "saç baxımı"
+                ],
+                "Turkmen": [
+                    "saç idegi",
+                    "saç bakymy",
+                    "saç bejergi"
+                ],
+                "Uzbek": [
+                    "soch oroyishi"
+                ],
+                "Uyghur": [
+                    "چاچ كۈتۈنۈشى",
+                    "چاچ ئاسراش",
+                    "چاچ پەرۋىشى"
+                ],
+                "Kazakh": [
+                    "шаш күтімі",
+                    "шаш баптау",
+                    "шаш қарау"
+                ],
+                "Kyrgyz": [
+                    "чач күтүү",
+                    "чачты күтүү",
+                    "чач кароо"
+                ],
+                "Karakalpak": [
+                    "shash kútimi",
+                    "shash tárbiyası"
+                ],
+                "Tatar": [
+                    "чәч карау",
+                    "чәч тәрбиясе",
+                    "чәч тәрбияләү"
+                ],
+                "Bashkir": [
+                    "сәс тәрбиәләү",
+                    "сәс ҡарау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saç terbiyesi"
+                ],
+                "Azerbaijani": [
+                    "saç təmizliyi"
+                ],
+                "Uzbek": [
+                    "soch parvarishi",
+                    "soch tarbiyasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "saç qulluğu"
+                ]
+            }
+        }
+    ]
+}

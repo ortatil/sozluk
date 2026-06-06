@@ -1,0 +1,134 @@
+{
+    "id": "i19071",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "onshore",
+    "en_definition": "on or toward the land",
+    "tr_word": "karaya doğru",
+    "tr_definition": "denizden karaya veya kıyıya doğru olan yön",
+    "ru_word": "на берег",
+    "ru_definition": "по направлению к суше или на сушу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gury ýere"
+                ],
+                "Uzbek": [
+                    "quruqlikka"
+                ],
+                "Uyghur": [
+                    "قۇرۇقلۇققا",
+                    "قۇرۇقلۇق تەرەپكە"
+                ],
+                "Kazakh": [
+                    "құрлыққа қарай"
+                ],
+                "Kyrgyz": [
+                    "кургакка",
+                    "кургактыкка"
+                ],
+                "Karakalpak": [
+                    "qurǵaqlıqqa"
+                ],
+                "Tatar": [
+                    "коры җиргә"
+                ],
+                "Bashkir": [
+                    "ҡоро ергә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahile"
+                ],
+                "Azerbaijani": [
+                    "sahilə",
+                    "sahilə doğru"
+                ],
+                "Uzbek": [
+                    "sohilga"
+                ],
+                "Uyghur": [
+                    "ساھىلغا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жағаға қарай",
+                    "жағалауға"
+                ],
+                "Kyrgyz": [
+                    "жээкке"
+                ],
+                "Karakalpak": [
+                    "jaǵaǵa",
+                    "jaǵalay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karaya",
+                    "karaya doğru",
+                    "kıyıya",
+                    "kıyıya doğru"
+                ],
+                "Azerbaijani": [
+                    "quruya",
+                    "quruya tərəf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ярга",
+                    "яр буена"
+                ],
+                "Bashkir": [
+                    "ярга",
+                    "ярға",
+                    "ергә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kenara",
+                    "kenar tarapa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qirg'oqqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ichkariga"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жээкти көздөй"
+                ]
+            }
+        }
+    ]
+}

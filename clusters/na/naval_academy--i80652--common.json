@@ -1,0 +1,88 @@
+{
+    "id": "i80652",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "naval academy",
+    "en_definition": "an academy for training naval officers",
+    "tr_word": "deniz harp okulu",
+    "tr_definition": "deniz subaylarını eğitmek için kurulmuş olan askeri yüksekokul",
+    "ru_word": "военно-морское училище",
+    "ru_definition": "высшее учебное заведение для подготовки офицерских кадров военно-морского флота",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz harp okulu"
+                ],
+                "Azerbaijani": [
+                    "dənizçilik məktəbi"
+                ],
+                "Turkmen": [
+                    "deňizçilik mekdebi"
+                ],
+                "Uzbek": [
+                    "dengizchilik bilim yurti",
+                    "dengizchilik akademiyasi"
+                ],
+                "Uyghur": [
+                    "دېڭىز ئارمىيە ئاكادېمىيەسى",
+                    "دېڭىز ئارمىيە مەكتىپى",
+                    "دېڭىز ئارمىيە بىلىم يۇرتى"
+                ],
+                "Kazakh": [
+                    "теңіз академиясы",
+                    "теңіз әскери академиясы",
+                    "теңізшілер мектебі"
+                ],
+                "Kyrgyz": [
+                    "деңиз аскердик академиясы",
+                    "деңизчилер окуу жайы"
+                ],
+                "Karakalpak": [
+                    "teńizshiler bilim jurtı",
+                    "teńizshiler mektebi",
+                    "teńiz akademiyası"
+                ],
+                "Tatar": [
+                    "диңгез хәрби училищесы",
+                    "диңгез хәрби академиясе"
+                ],
+                "Bashkir": [
+                    "диңгеҙ академияһы",
+                    "диңгеҙ училищеһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbi dəniz məktəbi",
+                    "hərbi dəniz akademiyası"
+                ],
+                "Turkmen": [
+                    "harby-deňiz uçilişesi",
+                    "harby-deňiz akademiýasy"
+                ],
+                "Uzbek": [
+                    "harbiy-dengiz bilim yurti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bahriye mektebi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аскер-деңиз окуу жайы"
+                ]
+            }
+        }
+    ]
+}

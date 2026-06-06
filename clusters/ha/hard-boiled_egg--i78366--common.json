@@ -1,0 +1,103 @@
+{
+    "id": "i78366",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hard-boiled egg",
+    "en_definition": "an egg boiled gently until both the white and the yolk solidify",
+    "tr_word": "katı yumurta",
+    "tr_definition": "hem beyazı hem de sarısı katılaşana kadar haşlanmış yumurta",
+    "ru_word": "яйцо вкрутую",
+    "ru_definition": "яйцо, сваренное до полного затвердевания белка и желтка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "katı yumurta"
+                ],
+                "Turkmen": [
+                    "gaty bişen ýumurtga",
+                    "gaty ýumurtga"
+                ],
+                "Uyghur": [
+                    "قاتتىق پىشۇرۇلغان تۇخۇم",
+                    "قاتتىق تۇخۇم"
+                ],
+                "Kazakh": [
+                    "қатты піскен жұмыртқа"
+                ],
+                "Kyrgyz": [
+                    "катуу бышкан жумуртка",
+                    "катуу жумуртка"
+                ],
+                "Karakalpak": [
+                    "qatı pіsken jұmırtqa"
+                ],
+                "Tatar": [
+                    "каты пешкән йомырка",
+                    "каты йомырка"
+                ],
+                "Bashkir": [
+                    "ҡаты бешкән йомортҡа",
+                    "ҡаты йомортҡа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pişmiş yumurta"
+                ],
+                "Turkmen": [
+                    "bişen ýumurtga"
+                ],
+                "Uzbek": [
+                    "pishiq tuxum",
+                    "pishgan tuxum"
+                ],
+                "Kazakh": [
+                    "піскен жұмыртқа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haşlanmış katı yumurta"
+                ],
+                "Azerbaijani": [
+                    "bərk yumurta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bərk bişmiş yumurta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lop yumurta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qattiq qaynatilgan tuxum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qaynatılǵan jұmırtqa"
+                ]
+            }
+        }
+    ]
+}

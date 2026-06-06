@@ -1,0 +1,75 @@
+{
+    "id": "i117080",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "christmas eve",
+    "en_definition": "the day before Christmas",
+    "tr_word": "Noel arifesi",
+    "tr_definition": "Noel'den önceki gün",
+    "ru_word": "Сочельник",
+    "ru_definition": "день накануне Рождества",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Roždestwo agşamy",
+                    "Roždestwo öňüsi"
+                ],
+                "Uzbek": [
+                    "rojdestvo arafasi"
+                ],
+                "Uyghur": [
+                    "روژدېستۋو ئارافىسى"
+                ],
+                "Kazakh": [
+                    "Рождество қарсаңы",
+                    "Рождество алдындағы кеш"
+                ],
+                "Kyrgyz": [
+                    "Рождество алдындагы кеч",
+                    "Рождество астындагы күн"
+                ],
+                "Karakalpak": [
+                    "Rojdestwo aldındaǵı kesh",
+                    "Rojdestwo qarsańı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Milad ərəfəsi",
+                    "Milad axşamı"
+                ],
+                "Uzbek": [
+                    "milod arafasi"
+                ],
+                "Uyghur": [
+                    "مىلاد ئارافىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Раштуа кичәсе",
+                    "Раштуа алды"
+                ],
+                "Bashkir": [
+                    "Раштыуа алды",
+                    "Раштыуа кисе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Noel arifesi",
+                    "Noel gecesi"
+                ]
+            }
+        }
+    ]
+}

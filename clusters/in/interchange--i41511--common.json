@@ -1,0 +1,134 @@
+{
+    "id": "i41511",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "interchange",
+    "en_definition": "the act of changing one thing for another thing",
+    "tr_word": "değiş tokuş",
+    "tr_definition": "bir şeyin başka bir şeyle değiştirilmesi eylemi",
+    "ru_word": "обмен",
+    "ru_definition": "акт замены одной вещи на другую",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "alyş-çalyş"
+                ],
+                "Uyghur": [
+                    "ئالماشتۇرۇش"
+                ],
+                "Kazakh": [
+                    "алмасу",
+                    "алмастыру"
+                ],
+                "Kyrgyz": [
+                    "алмашуу",
+                    "алмаштыруу",
+                    "алмаш"
+                ],
+                "Karakalpak": [
+                    "almasıo",
+                    "almastırıo"
+                ],
+                "Tatar": [
+                    "алмашу"
+                ],
+                "Bashkir": [
+                    "алмашыу",
+                    "алмаш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mübadele"
+                ],
+                "Azerbaijani": [
+                    "mübadilə"
+                ],
+                "Turkmen": [
+                    "mübadele"
+                ],
+                "Uzbek": [
+                    "mubodala"
+                ],
+                "Uyghur": [
+                    "مۇبادىلە"
+                ],
+                "Tatar": [
+                    "мөбадәлә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çalyşma",
+                    "çalşyk"
+                ],
+                "Tatar": [
+                    "алышу"
+                ],
+                "Bashkir": [
+                    "алыш-биреш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ayirboshlash"
+                ],
+                "Kazakh": [
+                    "айырбас",
+                    "ауысу"
+                ],
+                "Karakalpak": [
+                    "ayırbas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "değiş tokuş",
+                    "değişim"
+                ],
+                "Azerbaijani": [
+                    "dəyiş-düyüş",
+                    "dəyişmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takas"
+                ],
+                "Uyghur": [
+                    "تەقدىم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təbdil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "almashuv",
+                    "almashish"
+                ]
+            }
+        }
+    ]
+}

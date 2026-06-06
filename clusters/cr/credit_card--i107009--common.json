@@ -1,0 +1,118 @@
+{
+    "id": "i107009",
+    "type": "unknown",
+    "batch": "common",
+    "en_word": "credit card",
+    "en_definition": "a card (usually plastic) that assures a seller that the person using it has a satisfactory credit rating and that the issuer will see to it that the seller receives payment for the merchandise delivered",
+    "tr_word": "kredi kartı",
+    "tr_definition": "Bir banka veya finans kuruluşu tarafından verilen, sahibine mal veya hizmet satın alma ve ödemeyi daha sonra yapma imkanı tanıyan plastik kart.",
+    "ru_word": "кредитная карта",
+    "ru_definition": "Банковская платёжная карта, предназначенная для совершения операций, расчёты по которым осуществляются за счёт денежных средств, предоставленных банком клиенту в пределах установленного лимита.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kredi kartı"
+                ],
+                "Azerbaijani": [
+                    "kredit kartı"
+                ],
+                "Turkmen": [
+                    "kredit kartasy"
+                ],
+                "Uzbek": [
+                    "kredit kartasi"
+                ],
+                "Uyghur": [
+                    "كرېدىت كارتىسى"
+                ],
+                "Kyrgyz": [
+                    "кредиттик карта"
+                ],
+                "Tatar": [
+                    "кредит картасы"
+                ],
+                "Bashkir": [
+                    "кредит картаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "borc kartı"
+                ],
+                "Tatar": [
+                    "бурыч кәгазе"
+                ],
+                "Bashkir": [
+                    "бурыс картаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "karz kartasy"
+                ],
+                "Kazakh": [
+                    "қарыз картасы"
+                ],
+                "Karakalpak": [
+                    "qarız kartası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "несие картасы"
+                ],
+                "Kyrgyz": [
+                    "насыя картасы"
+                ],
+                "Karakalpak": [
+                    "nesie kartası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bank kartasy"
+                ],
+                "Uzbek": [
+                    "bank kartasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "to'lov kartasi"
+                ],
+                "Tatar": [
+                    "түләү картасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ödeme kartı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىناۋەت كارتىسى"
+                ]
+            }
+        }
+    ]
+}

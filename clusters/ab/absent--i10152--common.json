@@ -1,0 +1,152 @@
+{
+    "id": "i10152",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "absent",
+    "en_definition": "not being in a specified place",
+    "tr_word": "yok",
+    "tr_definition": "belirli bir yerde bulunmayan, mevcut olmayan",
+    "ru_word": "отсутствующий",
+    "ru_definition": "не находящийся в данном месте в данное время",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yok"
+                ],
+                "Azerbaijani": [
+                    "yox"
+                ],
+                "Turkmen": [
+                    "ýok"
+                ],
+                "Uzbek": [
+                    "yoʻq"
+                ],
+                "Uyghur": [
+                    "يوق"
+                ],
+                "Kazakh": [
+                    "жоқ"
+                ],
+                "Kyrgyz": [
+                    "жок"
+                ],
+                "Karakalpak": [
+                    "joq"
+                ],
+                "Tatar": [
+                    "юк"
+                ],
+                "Bashkir": [
+                    "юҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gaip"
+                ],
+                "Azerbaijani": [
+                    "qaib"
+                ],
+                "Turkmen": [
+                    "gaýyp"
+                ],
+                "Uzbek": [
+                    "gʻoyib"
+                ],
+                "Uyghur": [
+                    "غايىب"
+                ],
+                "Kyrgyz": [
+                    "кайып"
+                ],
+                "Tatar": [
+                    "кайтмаган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kem"
+                ],
+                "Kazakh": [
+                    "келмеген"
+                ],
+                "Kyrgyz": [
+                    "келбеген"
+                ],
+                "Karakalpak": [
+                    "kelmegen"
+                ],
+                "Bashkir": [
+                    "килмәгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bulunmayan"
+                ],
+                "Azerbaijani": [
+                    "bulunmayan"
+                ],
+                "Kazakh": [
+                    "болмаған"
+                ],
+                "Tatar": [
+                    "булмаган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қатыспаған"
+                ],
+                "Kyrgyz": [
+                    "катышпаган"
+                ],
+                "Karakalpak": [
+                    "qatıspaǵan"
+                ],
+                "Bashkir": [
+                    "ҡатнашмаған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hazır olmayan"
+                ],
+                "Uyghur": [
+                    "ھازىر ئەمەس"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iştirak etməyən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mavjud emas"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+# Skim milk
+| Field | Detail |
+|---|---|
+| **ID** | i78401 |
+| **English** | skim milk |
+| **Type** | noun |
+| **Definition** | milk from which the cream has been skimmed |
+| **Source** | common |
+| **Ortatil** | irkit |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| іркіт | irkit |
+
+```json
+{
+    "id": "i78401",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "skim milk",
+    "en_definition": "milk from which the cream has been skimmed",
+    "tr_word": "yağsız süt",
+    "tr_definition": "kaymağı üzerinden alınmış, yağı azaltılmış süt",
+    "ru_word": "обезжиренное молоко",
+    "ru_definition": "молоко, из которого были удалены сливки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağsız süt",
+                    "yavan süt"
+                ],
+                "Azerbaijani": [
+                    "yağsız süd",
+                    "yavan süd"
+                ],
+                "Turkmen": [
+                    "ýagsyz süýt"
+                ],
+                "Uzbek": [
+                    "yog‘siz sut"
+                ],
+                "Kazakh": [
+                    "майсыз сүт"
+                ],
+                "Kyrgyz": [
+                    "майсыз сүт"
+                ],
+                "Karakalpak": [
+                    "maysız sút"
+                ],
+                "Tatar": [
+                    "майсызландырылган сөт"
+                ],
+                "Bashkir": [
+                    "майһыҙ һөт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaymağı alınmış süt"
+                ],
+                "Azerbaijani": [
+                    "qaymağı alınmış süd"
+                ],
+                "Turkmen": [
+                    "gaýmagy alnan süýt"
+                ],
+                "Uzbek": [
+                    "qaymog‘i olingan sut"
+                ],
+                "Uyghur": [
+                    "قايماقسىز سۈت",
+                    "قايماق ئېلىنغان سۈت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көк сүт"
+                ],
+                "Kyrgyz": [
+                    "көгүлтүр сүт",
+                    "көк сүт"
+                ],
+                "Karakalpak": [
+                    "kók sút"
+                ],
+                "Tatar": [
+                    "күк сөт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۈزۈلگەن سۈت"
+                ],
+                "Karakalpak": [
+                    "súzgi sút"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suvli sut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іркіт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мае алынган сөт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "айыртылған һөт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "күбеге алынған һөт"
+                ]
+            }
+        }
+    ]
+}
+```
+

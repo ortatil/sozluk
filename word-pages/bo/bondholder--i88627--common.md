@@ -1,0 +1,146 @@
+# Bondholder
+| Field | Detail |
+|---|---|
+| **ID** | i88627 |
+| **English** | bondholder |
+| **Type** | noun |
+| **Definition** | a holder of bonds issued by a government or corporation |
+| **Source** | common |
+| **Ortatil** | obligasiyaçı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| زايومدار | zayomdar |
+
+```json
+{
+    "id": "i88627",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bondholder",
+    "en_definition": "a holder of bonds issued by a government or corporation",
+    "tr_word": "tahvil sahibi",
+    "tr_definition": "Bir devlet veya şirket tarafından ihraç edilen tahvilleri elinde bulunduran kişi veya kuruluş.",
+    "ru_word": "облигационер",
+    "ru_definition": "Держатель облигаций, выпущенных государством или корпорацией.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "obligasiýa eýesi",
+                    "obligasiýaçy"
+                ],
+                "Uzbek": [
+                    "obligatsiya egasi",
+                    "obligatsiyador"
+                ],
+                "Kazakh": [
+                    "облигация иесі"
+                ],
+                "Kyrgyz": [
+                    "облигация ээси"
+                ],
+                "Karakalpak": [
+                    "obligaciya iyesi",
+                    "obligaciya tutınıoshı"
+                ],
+                "Tatar": [
+                    "облигация тотучы"
+                ],
+                "Bashkir": [
+                    "облигация тотоусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "karz haty eýesi"
+                ],
+                "Uzbek": [
+                    "qarz hujjati sohibi"
+                ],
+                "Kyrgyz": [
+                    "карыз кагаз ээси"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "міндеттеме иесі"
+                ],
+                "Kyrgyz": [
+                    "милдеттенме ээси"
+                ],
+                "Karakalpak": [
+                    "miynet qaǵazı iyesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "борышқорлық қағаз ұстаушы"
+                ],
+                "Tatar": [
+                    "бурыч кәгазе иясе"
+                ],
+                "Bashkir": [
+                    "бурыс ҡағыҙы эйәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahvil sahibi",
+                    "tahvil hamili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bono sahibi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istiqraz sahibi",
+                    "istiqrazdar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زايوم ئىگىسى",
+                    "زايومدار",
+                    "زايوم تۇتقۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сәнәт иясе"
+                ]
+            }
+        }
+    ]
+}
+```
+

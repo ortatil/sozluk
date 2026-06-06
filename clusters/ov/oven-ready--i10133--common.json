@@ -1,0 +1,131 @@
+{
+    "id": "i10133",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "oven-ready",
+    "en_definition": "prepared before sale and ready to be cooked",
+    "tr_word": "fırına hazır",
+    "tr_definition": "satıştan önce hazırlanmış ve pişirilmeye hazır durumda olan",
+    "ru_word": "готовый к запеканию",
+    "ru_definition": "подготовленный к продаже и готовый к приготовлению в духовке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pişirmeye hazır"
+                ],
+                "Azerbaijani": [
+                    "bişirilməyə hazır"
+                ],
+                "Turkmen": [
+                    "bişirmäge taýýar",
+                    "bişirilmäge taýýarlanan"
+                ],
+                "Uzbek": [
+                    "pishirishga tayyor"
+                ],
+                "Uyghur": [
+                    "پىشۇرۇشقا تەييار"
+                ],
+                "Kazakh": [
+                    "пісіруге дайын"
+                ],
+                "Kyrgyz": [
+                    "бышырууга даяр"
+                ],
+                "Karakalpak": [
+                    "pisirioge tayın"
+                ],
+                "Tatar": [
+                    "пешерергә әзер"
+                ],
+                "Bashkir": [
+                    "бешерергә әҙер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýýar"
+                ],
+                "Uzbek": [
+                    "tayyor"
+                ],
+                "Uyghur": [
+                    "تەييارلانغان",
+                    "تەييار-تاپ"
+                ],
+                "Kazakh": [
+                    "дайын",
+                    "дайындалған"
+                ],
+                "Kyrgyz": [
+                    "даяр",
+                    "даярдалган"
+                ],
+                "Karakalpak": [
+                    "tayın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "әзір"
+                ],
+                "Tatar": [
+                    "әзерләнгән",
+                    "әзер"
+                ],
+                "Bashkir": [
+                    "әҙер",
+                    "әҙерләнгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hazır",
+                    "hazırlanmış"
+                ],
+                "Azerbaijani": [
+                    "hazır",
+                    "hazırlanmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "terbiye edilmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tədarük edilmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muhayyo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "álleqashan tayınlanǵan"
+                ]
+            }
+        }
+    ]
+}

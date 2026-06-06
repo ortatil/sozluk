@@ -1,0 +1,168 @@
+# Dirt track
+| Field | Detail |
+|---|---|
+| **ID** | i52955 |
+| **English** | dirt track |
+| **Type** | noun |
+| **Definition** | a racetrack that is not paved |
+| **Source** | common |
+| **Ortatil** | cığır |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i52955",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dirt track",
+    "en_definition": "a racetrack that is not paved",
+    "tr_word": "toprak pist",
+    "tr_definition": "asfaltlanmamış, genellikle toprak veya kumdan yapılmış yarış pisti",
+    "ru_word": "грунтовая трасса",
+    "ru_definition": "гоночная трасса без твердого покрытия, обычно состоящая из земли или песка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "toprak pist",
+                    "toprak yol"
+                ],
+                "Azerbaijani": [
+                    "torpaq yolu"
+                ],
+                "Turkmen": [
+                    "toprak ýol"
+                ],
+                "Uzbek": [
+                    "tuproq yo'l"
+                ],
+                "Uyghur": [
+                    "تۇپراق يول",
+                    "تۇپراق مەيدان",
+                    "تۇپراق مۇسابىقە يولى"
+                ],
+                "Kazakh": [
+                    "топырақ жол"
+                ],
+                "Kyrgyz": [
+                    "топурак жол"
+                ],
+                "Karakalpak": [
+                    "topıraq jol"
+                ],
+                "Tatar": [
+                    "туфрак юл"
+                ],
+                "Bashkir": [
+                    "тупраҡ юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ham yol"
+                ],
+                "Turkmen": [
+                    "at ýoly"
+                ],
+                "Uyghur": [
+                    "خام يول"
+                ],
+                "Karakalpak": [
+                    "shań jol"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "ат чабыш жолу",
+                    "ат майдан"
+                ],
+                "Karakalpak": [
+                    "at shabıs jolı"
+                ],
+                "Bashkir": [
+                    "ат сабышы юлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kəsə yol"
+                ],
+                "Uzbek": [
+                    "chang yo'l"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tozlu yol"
+                ],
+                "Tatar": [
+                    "тузанлы юл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çäge ýol"
+                ],
+                "Tatar": [
+                    "җир юл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қара жол"
+                ],
+                "Kyrgyz": [
+                    "кыр жол"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cığır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "notekis yo'l"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "соқпақ жол"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ялан юлы"
+                ]
+            }
+        }
+    ]
+}
+```
+

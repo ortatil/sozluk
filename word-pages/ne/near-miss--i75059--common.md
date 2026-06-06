@@ -1,0 +1,219 @@
+# Near miss
+| Field | Detail |
+|---|---|
+| **ID** | i75059 |
+| **English** | near miss |
+| **Type** | noun |
+| **Definition** | an accidental collision that is narrowly avoided |
+| **Source** | common |
+| **Ortatil** | gutuluş |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i75059",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "near miss",
+    "en_definition": "an accidental collision that is narrowly avoided",
+    "tr_word": "teğet geçme",
+    "tr_definition": "kazanın kıl payı atlatılması durumu",
+    "ru_word": "опасное сближение",
+    "ru_definition": "ситуация, при которой столкновение было едва предотвращено",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıl payı kurtulma"
+                ],
+                "Azerbaijani": [
+                    "qıl payı"
+                ],
+                "Uzbek": [
+                    "qaltis vaziyat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gutulyş"
+                ],
+                "Tatar": [
+                    "көтмәгәндә котылу"
+                ],
+                "Bashkir": [
+                    "ҡотолоп ҡалыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ucuz atlatma"
+                ],
+                "Azerbaijani": [
+                    "ucuz qurtarma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ramak kala"
+                ],
+                "Kyrgyz": [
+                    "аман калуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gaçyş"
+                ],
+                "Bashkir": [
+                    "ҡазанан ҡотолоу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xatarli vaziyat"
+                ],
+                "Uyghur": [
+                    "خەتەرلىك ئۆتۈشۈش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toʻqnashuv xavfi"
+                ],
+                "Uyghur": [
+                    "توقۇنۇشۇپ كېتەيلا قالغان ئەھۋال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "falokatdan omon qolish"
+                ],
+                "Tatar": [
+                    "бәла-казадан котылу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاز قالغان خەتەر"
+                ],
+                "Karakalpak": [
+                    "soǵılıodan qalǵan jaǵday"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қақтығыс қаупі"
+                ],
+                "Karakalpak": [
+                    "qáoipten qutılıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "апат қаупі"
+                ],
+                "Karakalpak": [
+                    "apattan aman qalıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "teğet geçme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təhlükəli yaxınlaşma",
+                    "təhlükəli vəziyyət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sypyş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howply ýagdaý"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сәтсіздіктен аман қалу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қауіпті жақындау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кырсыктан калуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кокустуктан качуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "куркыныч хәл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәүефте уҙғарыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

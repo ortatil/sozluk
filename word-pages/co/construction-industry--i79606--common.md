@@ -1,0 +1,153 @@
+# Construction industry
+| Field | Detail |
+|---|---|
+| **ID** | i79606 |
+| **English** | construction industry |
+| **Type** | noun |
+| **Definition** | an industry that builds housing |
+| **Source** | common |
+| **Ortatil** | quruluş |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **quruluş** | **binäkärlik** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ❌ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.33 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 0.40 | 0 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **2.73** | **1.33** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قۇرۇلۇشچىلىق | quruluşçiliq |
+| بىناكارلىق | binakarliq |
+| **Kyrgyz** | |
+| курулуш | kuruluş |
+| **Tatar** | |
+| төзелеш | tözeleş |
+| **Bashkir** | |
+| төҙөлөш | tözölöş |
+
+```json
+{
+    "id": "i79606",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "construction industry",
+    "en_definition": "an industry that builds housing",
+    "tr_word": "inşaat sektörü",
+    "tr_definition": "konut ve yapı inşa eden sanayi dalı",
+    "ru_word": "строительная отрасль",
+    "ru_definition": "отрасль экономики, занимающаяся возведением жилых и промышленных зданий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gurluşyk",
+                    "gurluşyk pudagy"
+                ],
+                "Uzbek": [
+                    "qurilish"
+                ],
+                "Uyghur": [
+                    "قۇرۇلۇشچىلىق",
+                    "قۇرۇلۇش ساھەسى"
+                ],
+                "Kazakh": [
+                    "құрылыс саласы",
+                    "құрылыс ісі",
+                    "құрылыс кәсібі"
+                ],
+                "Kyrgyz": [
+                    "курулуш",
+                    "курулуш тармагы",
+                    "курулуш иши"
+                ],
+                "Karakalpak": [
+                    "qurılıs",
+                    "qurılıs tarmaǵı",
+                    "qurılıs isleri"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "binagärlik"
+                ],
+                "Uzbek": [
+                    "binokorlik"
+                ],
+                "Uyghur": [
+                    "بىناكارلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "inşaat sektörü",
+                    "inşaatçılık"
+                ],
+                "Azerbaijani": [
+                    "inşaat",
+                    "inşaat sektoru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төзелеш",
+                    "төзелеш тармагы",
+                    "төзелеш эше"
+                ],
+                "Bashkir": [
+                    "төҙөлөш",
+                    "төҙөлөш тармағы",
+                    "төҙөлөш эше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yapı sektörü",
+                    "yapıcılık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tikinti",
+                    "tikinti sahəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "imoratsozlik"
+                ]
+            }
+        }
+    ]
+}
+```
+

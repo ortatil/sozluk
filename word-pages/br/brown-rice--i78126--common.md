@@ -1,0 +1,157 @@
+# Brown rice
+| Field | Detail |
+|---|---|
+| **ID** | i78126 |
+| **English** | brown rice |
+| **Type** | noun |
+| **Definition** | unpolished rice retaining the yellowish-brown outer layer |
+| **Source** | common |
+| **Ortatil** | dewzirä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i78126",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brown rice",
+    "en_definition": "unpolished rice retaining the yellowish-brown outer layer",
+    "tr_word": "kahverengi pirinç",
+    "tr_definition": "dışındaki sarımsı kahverengi tabakası korunmuş, parlatılmamış pirinç",
+    "ru_word": "бурый рис",
+    "ru_definition": "нешлифованный рис, сохранивший желтовато-коричневый внешний слой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qonur düyü"
+                ],
+                "Turkmen": [
+                    "goňur tüwi"
+                ],
+                "Uzbek": [
+                    "qo'ng'ir guruch"
+                ],
+                "Uyghur": [
+                    "قوڭۇر گۈرۈچ"
+                ],
+                "Kazakh": [
+                    "қоңыр күріш"
+                ],
+                "Karakalpak": [
+                    "qońır gúrіsh"
+                ],
+                "Bashkir": [
+                    "ҡоңғор дөгө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kepekli pirinç",
+                    "kabuklu pirinç"
+                ],
+                "Azerbaijani": [
+                    "kəpəkli düyü"
+                ],
+                "Turkmen": [
+                    "gabykly tüwi"
+                ],
+                "Kyrgyz": [
+                    "кабыгы алынбаган күрүч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kahverengi pirinç"
+                ],
+                "Azerbaijani": [
+                    "qəhvəyi düyü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "devzira"
+                ],
+                "Uyghur": [
+                    "تەبىئىي گۈرۈچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күрөң күрүч"
+                ],
+                "Tatar": [
+                    "көрән дөге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "акталбаган күрүч"
+                ],
+                "Karakalpak": [
+                    "aqtalmaǵan gúrіsh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arassalanmadyk tüwi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poyaki guruch"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پىششىقلانمىغان گۈرۈچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қауызы аршылмаған күріш",
+                    "өңделмеген күріш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чистартылмаган дөге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "таҙартылмаған дөгө"
+                ]
+            }
+        }
+    ]
+}
+```
+

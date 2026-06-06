@@ -1,0 +1,117 @@
+{
+    "id": "i82069",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hunting ground",
+    "en_definition": "an area in which game is hunted",
+    "tr_word": "av sahası",
+    "tr_definition": "av hayvanlarının avlandığı bölge",
+    "ru_word": "охотничье угодье",
+    "ru_definition": "территория, на которой ведется охота на диких животных",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "avlak",
+                    "av sahası",
+                    "av mahalli"
+                ],
+                "Turkmen": [
+                    "awlag",
+                    "aw meýdany",
+                    "aw ýeri"
+                ],
+                "Uzbek": [
+                    "ovloq",
+                    "ovgoh",
+                    "ov maydoni"
+                ],
+                "Tatar": [
+                    "аулык",
+                    "ау җире",
+                    "ау мәйданы",
+                    "ау урыны"
+                ],
+                "Bashkir": [
+                    "ау ере",
+                    "ау майҙаны",
+                    "ау биләмәһе",
+                    "аулау урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şikarqah"
+                ],
+                "Turkmen": [
+                    "şikargäh"
+                ],
+                "Uzbek": [
+                    "shikorgoh"
+                ],
+                "Uyghur": [
+                    "شىكارگاھ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "аңшылық алқабы",
+                    "аң аулайтын жер",
+                    "аңшылық жер",
+                    "аңшылық өңірі"
+                ],
+                "Kyrgyz": [
+                    "аңчылык жер"
+                ],
+                "Karakalpak": [
+                    "ańshılıq jer",
+                    "ańshılıq maydan",
+                    "ań aulaytın jer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "av yeri"
+                ],
+                "Azerbaijani": [
+                    "ov yeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ovlaq"
+                ],
+                "Uyghur": [
+                    "ئوۋگاھ",
+                    "ئوۋچىلىق مەيدانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уу аянты",
+                    "уу талаасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уулоочу жер"
+                ]
+            }
+        }
+    ]
+}

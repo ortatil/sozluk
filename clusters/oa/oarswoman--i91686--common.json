@@ -1,0 +1,95 @@
+{
+    "id": "i91686",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oarswoman",
+    "en_definition": "a woman oarsman",
+    "tr_word": "kadın kürekçi",
+    "tr_definition": "Kürek çeken kadın sporcu veya gemici.",
+    "ru_word": "гребчиха",
+    "ru_definition": "Женщина, занимающаяся греблей или управляющая веслами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eshkakchi ayol"
+                ],
+                "Kazakh": [
+                    "ескекші әйел",
+                    "ескекші қыз"
+                ],
+                "Karakalpak": [
+                    "eskekshi hayal",
+                    "eskekshi qız"
+                ],
+                "Bashkir": [
+                    "ишкәксе ҡатын",
+                    "ишкәксе ҡатын-ҡыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kürekçi kadın"
+                ],
+                "Turkmen": [
+                    "kürekçi aýal",
+                    "kürekçi zenan"
+                ],
+                "Uyghur": [
+                    "كېمە كۈرەكچىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qayıqçı qadın"
+                ],
+                "Uzbek": [
+                    "qayiqchi ayol"
+                ],
+                "Kyrgyz": [
+                    "кайыкчы аял"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эшүүчү аял"
+                ],
+                "Tatar": [
+                    "ишкәкче хатын",
+                    "ишкәкче хатын-кыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kadın kürekçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "avarçəkən qadın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېمىچى ئايال",
+                    "كېمە ھەيدىگۈچى ئايال"
+                ]
+            }
+        }
+    ]
+}

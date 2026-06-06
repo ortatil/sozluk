@@ -1,0 +1,102 @@
+{
+    "id": "i86399",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "volcano",
+    "en_definition": "a mountain formed by volcanic material",
+    "tr_word": "yanardağ",
+    "tr_definition": "magmanın yer içinden yüzeye çıktığı veya geçmişte çıkmış olduğu, genellikle koni biçiminde dağ",
+    "ru_word": "вулкан",
+    "ru_definition": "геологическое образование, возникающее над каналами и трещинами в земной коре, по которым на поверхность извергается лава",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanardağ"
+                ],
+                "Azerbaijani": [
+                    "yanardağ"
+                ],
+                "Uyghur": [
+                    "يانار تاغ"
+                ],
+                "Kazakh": [
+                    "жанартау"
+                ],
+                "Kyrgyz": [
+                    "жанар тоо"
+                ],
+                "Karakalpak": [
+                    "janar tau"
+                ],
+                "Tatar": [
+                    "янартау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "volkan"
+                ],
+                "Azerbaijani": [
+                    "vulkan"
+                ],
+                "Turkmen": [
+                    "wulkan"
+                ],
+                "Uzbek": [
+                    "vulqon"
+                ],
+                "Karakalpak": [
+                    "wulkan"
+                ],
+                "Tatar": [
+                    "вулкан"
+                ],
+                "Bashkir": [
+                    "вулкан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "otly dag"
+                ],
+                "Kazakh": [
+                    "оттау"
+                ],
+                "Kyrgyz": [
+                    "оттуу тоо"
+                ],
+                "Tatar": [
+                    "утлы тау"
+                ],
+                "Bashkir": [
+                    "утлы тау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ateşdağ"
+                ],
+                "Turkmen": [
+                    "ataşdag"
+                ],
+                "Uzbek": [
+                    "otashtog'"
+                ],
+                "Uyghur": [
+                    "ئاتەشفىشان"
+                ]
+            }
+        }
+    ]
+}

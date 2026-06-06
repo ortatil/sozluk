@@ -1,0 +1,74 @@
+{
+    "id": "i15432",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "horse-drawn",
+    "en_definition": "pulled by a horse",
+    "tr_word": "atlı",
+    "tr_definition": "at tarafından çekilen",
+    "ru_word": "запряженный лошадьми",
+    "ru_definition": "приводимый в движение лошадьми",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "atlı",
+                    "atla çekilen",
+                    "at koşulu"
+                ],
+                "Azerbaijani": [
+                    "atla çəkilən",
+                    "at qoşulmuş",
+                    "atlı"
+                ],
+                "Turkmen": [
+                    "atly",
+                    "at goşulan",
+                    "at çekýän"
+                ],
+                "Uzbek": [
+                    "ot qoʻshilgan",
+                    "ot tortadigan",
+                    "otli"
+                ],
+                "Uyghur": [
+                    "ئاتلىق",
+                    "ئات قوشۇلغان",
+                    "ئات سۆرەيدىغان"
+                ],
+                "Kazakh": [
+                    "ат жегілген",
+                    "атты"
+                ],
+                "Kyrgyz": [
+                    "ат чегилген",
+                    "ат менен жүрүүчү",
+                    "ат арабалуу"
+                ],
+                "Karakalpak": [
+                    "at jegilgen",
+                    "atlı",
+                    "at arbalı"
+                ],
+                "Tatar": [
+                    "атлы",
+                    "ат җигелгән",
+                    "ат көче белән"
+                ],
+                "Bashkir": [
+                    "атлы",
+                    "ат егелгән",
+                    "ат көсө менән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлікті"
+                ]
+            }
+        }
+    ]
+}

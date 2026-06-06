@@ -1,0 +1,134 @@
+{
+    "id": "i89767",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "enlisted woman",
+    "en_definition": "a female enlisted person in the armed forces",
+    "tr_word": "kadın er",
+    "tr_definition": "silahlı kuvvetlerde rütbesiz veya düşük rütbeli kadın asker",
+    "ru_word": "женщина-военнослужащий рядового состава",
+    "ru_definition": "женщина, проходящая военную службу на должностях рядового или сержантского состава",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ayol askar",
+                    "ayol harbiy"
+                ],
+                "Uyghur": [
+                    "ئايال ئەسكەر",
+                    "ئايال جەڭچى"
+                ],
+                "Kazakh": [
+                    "әйел сарбаз"
+                ],
+                "Kyrgyz": [
+                    "аял жоокер",
+                    "аял аскер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kadın er",
+                    "kadın asker",
+                    "kadın nefer"
+                ],
+                "Azerbaijani": [
+                    "qadın hərbçi",
+                    "qadın əsgər"
+                ],
+                "Kazakh": [
+                    "қатардағы әйел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жауынгер әйел"
+                ],
+                "Karakalpak": [
+                    "jaoınger hayal"
+                ],
+                "Bashkir": [
+                    "яугир ҡатын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "кызматкер аял"
+                ],
+                "Karakalpak": [
+                    "xızmetker hayal"
+                ],
+                "Tatar": [
+                    "хезмәткәр хатын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ásker hayal"
+                ],
+                "Tatar": [
+                    "гаскәри хатын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәрби хатын-кыз"
+                ],
+                "Bashkir": [
+                    "хәрби хеҙмәткәр ҡатын",
+                    "хәрби ҡатын-ҡыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sıravi qadın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zenan esger"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hatarçy zenan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gullukçy zenan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oddiy askar ayol"
+                ]
+            }
+        }
+    ]
+}

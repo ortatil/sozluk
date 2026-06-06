@@ -1,0 +1,97 @@
+{
+    "id": "i110259",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "legal status",
+    "en_definition": "a status defined by law",
+    "tr_word": "yasal statü",
+    "tr_definition": "yasalar tarafından tanımlanan ve tanınan konum veya durum",
+    "ru_word": "правовой статус",
+    "ru_definition": "совокупность прав и обязанностей субъекта, установленная законом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hukuki durum",
+                    "hukuki statü"
+                ],
+                "Azerbaijani": [
+                    "hüquqi status",
+                    "hüquqi vəziyyət",
+                    "hüquqi durum"
+                ],
+                "Turkmen": [
+                    "hukuk ýagdaýy",
+                    "hukuk derejesi",
+                    "hukuk statusy"
+                ],
+                "Uzbek": [
+                    "huquqiy maqom",
+                    "huquqiy holat"
+                ],
+                "Karakalpak": [
+                    "huquqıy mártebe",
+                    "huquqıy jaǵday"
+                ],
+                "Tatar": [
+                    "хокукый статус",
+                    "хокукый хәл",
+                    "хокукый дәрәҗә"
+                ],
+                "Bashkir": [
+                    "хоҡуҡи статус",
+                    "хоҡуҡи хәл",
+                    "хоҡуҡи торош"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kanuni vaziyet"
+                ],
+                "Uzbek": [
+                    "qonuniy maqom"
+                ],
+                "Uyghur": [
+                    "قانۇنىي ئورۇن",
+                    "قانۇنىي سالاھىيەت",
+                    "قانۇنىي ھالەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yasal statü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құқықтық мәртебе",
+                    "құқықтық жағдай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "заңды мәртебе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "укуктук макам",
+                    "укуктук абал",
+                    "укуктук статус"
+                ]
+            }
+        }
+    ]
+}

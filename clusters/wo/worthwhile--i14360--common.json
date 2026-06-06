@@ -1,0 +1,218 @@
+{
+    "id": "i14360",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "worthwhile",
+    "en_definition": "sufficiently valuable to justify the investment of time or interest",
+    "tr_word": "değer",
+    "tr_definition": "harcanan zamana veya çabaya değecek kadar değerli olan",
+    "ru_word": "стоящий",
+    "ru_definition": "заслуживающий внимания, оправдывающий затраченное время или усилия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "faydalı"
+                ],
+                "Azerbaijani": [
+                    "faydalı"
+                ],
+                "Turkmen": [
+                    "peýdaly"
+                ],
+                "Uzbek": [
+                    "foydali"
+                ],
+                "Uyghur": [
+                    "پايدىلىق"
+                ],
+                "Kazakh": [
+                    "пайдалы"
+                ],
+                "Kyrgyz": [
+                    "пайдалуу"
+                ],
+                "Karakalpak": [
+                    "paydalı"
+                ],
+                "Tatar": [
+                    "файдалы"
+                ],
+                "Bashkir": [
+                    "файҙалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıymetli"
+                ],
+                "Turkmen": [
+                    "gymmatly"
+                ],
+                "Kyrgyz": [
+                    "кайрымдуу"
+                ],
+                "Karakalpak": [
+                    "qayırlı"
+                ],
+                "Tatar": [
+                    "кыйммәтле"
+                ],
+                "Bashkir": [
+                    "ҡиммәтле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "makbul"
+                ],
+                "Azerbaijani": [
+                    "mənalı"
+                ],
+                "Turkmen": [
+                    "mynasyp"
+                ],
+                "Kazakh": [
+                    "маңызды"
+                ],
+                "Kyrgyz": [
+                    "маанилүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yararlı"
+                ],
+                "Azerbaijani": [
+                    "yararlı"
+                ],
+                "Uzbek": [
+                    "arzirlik"
+                ],
+                "Kyrgyz": [
+                    "арзырлык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ähmiýetli"
+                ],
+                "Uzbek": [
+                    "arziydigan"
+                ],
+                "Uyghur": [
+                    "ئەرزىيدىغان",
+                    "ئەرزىگۈدەك"
+                ],
+                "Karakalpak": [
+                    "árzıytuǵın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "лайықты"
+                ],
+                "Tatar": [
+                    "лаеклы"
+                ],
+                "Bashkir": [
+                    "лайыҡлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "değer"
+                ],
+                "Azerbaijani": [
+                    "dəyərli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səmərəli"
+                ],
+                "Bashkir": [
+                    "кәрәкле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "haýyrly"
+                ],
+                "Uzbek": [
+                    "hayrli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "manfaatli"
+                ],
+                "Uyghur": [
+                    "مەنپەئەتلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөһим"
+                ],
+                "Bashkir": [
+                    "мөһим"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құнды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тиімді"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "натыйжалуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "múnásip"
+                ]
+            }
+        }
+    ]
+}

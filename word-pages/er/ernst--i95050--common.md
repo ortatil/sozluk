@@ -1,0 +1,92 @@
+# Ernst
+| Field | Detail |
+|---|---|
+| **ID** | i95050 |
+| **English** | ernst |
+| **Type** | noun |
+| **Definition** | painter (born in Germany, resident of France and the United States) who was a cofounder of dadaism; developed the technique of collage (1891-1976) |
+| **Source** | common |
+| **Ortatil** | rässäm |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئېرنىست | ernist |
+
+```json
+{
+    "id": "i95050",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ernst",
+    "en_definition": "painter (born in Germany, resident of France and the United States) who was a cofounder of dadaism; developed the technique of collage (1891-1976)",
+    "tr_word": "Ernst",
+    "tr_definition": "Dadaizm'in kurucularından olan, kolaj tekniğini geliştiren Alman asıllı Fransız ve Amerikalı ressam (1891-1976).",
+    "ru_word": "Эрнст",
+    "ru_definition": "Немецкий и французский художник, один из основателей дадаизма, разработавший технику коллажа (1891-1976).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Max Ernst"
+                ],
+                "Azerbaijani": [
+                    "Maks Ernst"
+                ],
+                "Turkmen": [
+                    "Maks Ernst"
+                ],
+                "Uzbek": [
+                    "Maks Ernst"
+                ],
+                "Uyghur": [
+                    "ماكس ئېرنىست"
+                ],
+                "Kazakh": [
+                    "Макс Эрнст"
+                ],
+                "Kyrgyz": [
+                    "Макс Эрнст"
+                ],
+                "Karakalpak": [
+                    "Maks Ernst"
+                ],
+                "Tatar": [
+                    "Макс Эрнст"
+                ],
+                "Bashkir": [
+                    "Макс Эрнст"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rassom"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "musavvir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېرنىست"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,173 @@
+# Spanish rice
+| Field | Detail |
+|---|---|
+| **ID** | i78624 |
+| **English** | spanish rice |
+| **Type** | noun |
+| **Definition** | spicy rice with tomatoes and onions and green peppers |
+| **Source** | common |
+| **Ortatil** | palaı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i78624",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spanish rice",
+    "en_definition": "spicy rice with tomatoes and onions and green peppers",
+    "tr_word": "İspanyol pilavı",
+    "tr_definition": "Domates, soğan ve yeşil biberle hazırlanan baharatlı bir pirinç yemeği.",
+    "ru_word": "испанский рис",
+    "ru_definition": "пряный рис с помидорами, луком и зеленым перцем.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ajy palaw"
+                ],
+                "Uzbek": [
+                    "achchiq palov"
+                ],
+                "Uyghur": [
+                    "ئاچچىق پولو",
+                    "ئاچچىق گۈرۈچ تامىقى"
+                ],
+                "Kyrgyz": [
+                    "ачуу палоо"
+                ],
+                "Karakalpak": [
+                    "ashchshchı palau"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sebzeli pilav"
+                ],
+                "Turkmen": [
+                    "sebzeli palaw"
+                ],
+                "Uzbek": [
+                    "sabzavotli palov"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pomidorlu plov",
+                    "pomidorlu düyü"
+                ],
+                "Turkmen": [
+                    "pomidorly palaw"
+                ],
+                "Uzbek": [
+                    "pomidorli guruch"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қызанақ палауы"
+                ],
+                "Kyrgyz": [
+                    "кызыл күрүч"
+                ],
+                "Tatar": [
+                    "кызыл дөге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ащы палау"
+                ],
+                "Bashkir": [
+                    "асы дөгө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жашылчалуу күрүч"
+                ],
+                "Tatar": [
+                    "яшелчәле дөге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәмле дөге"
+                ],
+                "Bashkir": [
+                    "тәмле дөгө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "domatesli pilav"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meyhane pilavı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərəvəzli plov"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көкөніс палауы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "palau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kúrúsh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дөгө ашы"
+                ]
+            }
+        }
+    ]
+}
+```
+

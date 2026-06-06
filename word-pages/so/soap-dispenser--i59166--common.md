@@ -1,0 +1,110 @@
+# Soap dispenser
+| Field | Detail |
+|---|---|
+| **ID** | i59166 |
+| **English** | soap dispenser |
+| **Type** | noun |
+| **Definition** | dispenser of liquid soap |
+| **Source** | common |
+| **Ortatil** | sabınlıq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i59166",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "soap dispenser",
+    "en_definition": "dispenser of liquid soap",
+    "tr_word": "sabunluk",
+    "tr_definition": "sıvı sabun akıtan alet",
+    "ru_word": "дозатор для мыла",
+    "ru_definition": "устройство для выдачи жидкого мыла",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sabunluk",
+                    "sabun pınarı"
+                ],
+                "Azerbaijani": [
+                    "sabun qabı",
+                    "sabun paylayıcı"
+                ],
+                "Turkmen": [
+                    "sabyn gap",
+                    "sabyn pürkgüji"
+                ],
+                "Uzbek": [
+                    "sovun idishi",
+                    "sovun tarqatgich"
+                ],
+                "Uyghur": [
+                    "سوپۇن قاچىسى"
+                ],
+                "Kazakh": [
+                    "сабын салғыш",
+                    "сабын құйғыш",
+                    "сабын таратқыш"
+                ],
+                "Kyrgyz": [
+                    "самын идиш",
+                    "самын куйгуч"
+                ],
+                "Karakalpak": [
+                    "sabın idisi",
+                    "sabın taratqısh",
+                    "sabın tókkish"
+                ],
+                "Tatar": [
+                    "сабын савыты",
+                    "сабын тараткыч",
+                    "сабын биргеч"
+                ],
+                "Bashkir": [
+                    "һабын һалғыс",
+                    "һабын таратҡыс",
+                    "һабын һауыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwuk sabyn gaby"
+                ],
+                "Uzbek": [
+                    "suyuq sovun idishi"
+                ],
+                "Uyghur": [
+                    "سۇيۇق سوپۇن قاچىسى",
+                    "سۇيۇق سوپۇن پۈركۈگۈچ"
+                ],
+                "Kyrgyz": [
+                    "суюк самын идиши"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıvı sabunluk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maye sabun qabı"
+                ]
+            }
+        }
+    ]
+}
+```
+

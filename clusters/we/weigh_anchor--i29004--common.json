@@ -1,0 +1,106 @@
+{
+    "id": "i29004",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "weigh anchor",
+    "en_definition": "heave up an anchor in preparation for sailing",
+    "tr_word": "demir almak",
+    "tr_definition": "bir geminin yola çıkmak üzere demirini denizden çekmesi",
+    "ru_word": "сняться с якоря",
+    "ru_definition": "поднять якорь для начала плавания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "lövbər qaldırmaq",
+                    "lövbəri yığmaq",
+                    "lövbər çəkmək"
+                ],
+                "Uzbek": [
+                    "langar ko'tarmoq",
+                    "langar uzmoq"
+                ],
+                "Uyghur": [
+                    "لەڭگەر كۆتۈرمەك",
+                    "لەڭگەر ئالماق",
+                    "لەڭگەر يىغماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зәкір көтеру",
+                    "зәкірді тарту",
+                    "зәкірді жинау"
+                ],
+                "Karakalpak": [
+                    "záńgirdi kóterio",
+                    "záńgirdi tartıo",
+                    "záńgirdi jıynao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "якор күтәрү",
+                    "якор җыю",
+                    "якор алу"
+                ],
+                "Bashkir": [
+                    "якорь күтәреү",
+                    "якорь йыйыу",
+                    "якорь алыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "demir almak",
+                    "demir kaldırmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vira etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "labyr götermek",
+                    "labyr çekmek",
+                    "labyry ýokary çekmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "langarni yig'moq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "лака көтөрүү",
+                    "лаканы сууруп алуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кемени жүргүзүү"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "id": "i60502",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trawler",
+    "en_definition": "a fishing boat that uses a trawl net or dragnet to catch fish",
+    "tr_word": "trol teknesi",
+    "tr_definition": "Deniz dibinde sürüklenen büyük bir ağ kullanarak balık avlayan balıkçı gemisi.",
+    "ru_word": "траулер",
+    "ru_definition": "Рыболовное судно, предназначенное для лова рыбы с помощью трала.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balıkçı teknesi"
+                ],
+                "Azerbaijani": [
+                    "balıqçı gəmisi"
+                ],
+                "Turkmen": [
+                    "balykçy gämisi",
+                    "balyk tutýan gämi"
+                ],
+                "Uzbek": [
+                    "baliqchi kema",
+                    "baliq ovlash kemasi"
+                ],
+                "Uyghur": [
+                    "بېلىقچى كېمىسى"
+                ],
+                "Kazakh": [
+                    "балық аулау кемесі",
+                    "балықшы кемесі"
+                ],
+                "Kyrgyz": [
+                    "балык кемеси",
+                    "балык уулоочу кеме"
+                ],
+                "Karakalpak": [
+                    "balıqshı kemesi",
+                    "balıq aolaoshı keme"
+                ],
+                "Tatar": [
+                    "балык көймәсе",
+                    "балык судносы"
+                ],
+                "Bashkir": [
+                    "балыҡсы кәмәһе",
+                    "балыҡ тотоу кәмәһе",
+                    "балыҡсы карабы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "trol teknesi",
+                    "trol gemisi"
+                ],
+                "Azerbaijani": [
+                    "tor gəmisi"
+                ],
+                "Turkmen": [
+                    "torly gämi"
+                ],
+                "Uzbek": [
+                    "to'rli kema"
+                ],
+                "Uyghur": [
+                    "تورلۇق بېلىقچى كېمىسى"
+                ],
+                "Kyrgyz": [
+                    "тор кемеси"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağ gemisi"
+                ],
+                "Kazakh": [
+                    "ау кемесі"
+                ],
+                "Karakalpak": [
+                    "ao kemesi"
+                ],
+                "Tatar": [
+                    "аучы көймә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ov gəmisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۆرەتمە تورلۇق كېمە"
+                ]
+            }
+        }
+    ]
+}

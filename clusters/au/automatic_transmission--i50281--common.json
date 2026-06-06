@@ -1,0 +1,85 @@
+{
+    "id": "i50281",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "automatic transmission",
+    "en_definition": "a transmission that automatically changes the gears according to the speed of the car",
+    "tr_word": "otomatik vites",
+    "tr_definition": "aracın hızına göre vitesleri otomatik olarak değiştiren şanzıman sistemi",
+    "ru_word": "автоматическая коробка передач",
+    "ru_definition": "трансмиссия автомобиля, обеспечивающая автоматический выбор передаточного числа в зависимости от условий движения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otomatik vites",
+                    "otomatik şanzıman"
+                ],
+                "Azerbaijani": [
+                    "avtomatik sürət qutusu",
+                    "avtomat ötürücü qutu",
+                    "avtomat sürətlər qutusu"
+                ],
+                "Turkmen": [
+                    "awtomat korobka",
+                    "awtomat berlişler gutusy",
+                    "awtomatiki geçiriji"
+                ],
+                "Uzbek": [
+                    "avtomat uzatmalar qutisi",
+                    "avtomat uzatma"
+                ],
+                "Uyghur": [
+                    "ئاپتوماتىك سۈرئەت ئۆزگەرتمىگۈچ",
+                    "ئاپتوماتىك خوت"
+                ],
+                "Kazakh": [
+                    "автоматты беріліс қорабы",
+                    "автоматты беріліс",
+                    "автоматты беріліс қорапшасы"
+                ],
+                "Kyrgyz": [
+                    "автоматтык берүү кутусу",
+                    "автоматтык өткөргүч"
+                ],
+                "Karakalpak": [
+                    "awtomattı berіlіs qorabı",
+                    "awtomattı transmissiya"
+                ],
+                "Tatar": [
+                    "автоматик тапшыргыч",
+                    "автоматик тизлекләр тартмасы"
+                ],
+                "Bashkir": [
+                    "автоматик тапшырыуҙар ҡапсығы",
+                    "автоматик тапшырыуҙар механизмы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻziyurar uzatma"
+                ],
+                "Tatar": [
+                    "үзйөрешле тапшыргыч"
+                ],
+                "Bashkir": [
+                    "үҙйөрөшлө тапшырыуҙар ҡапсығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆزلۈكىدىن سۈرئەت ئۆزگەرتمىگۈچ"
+                ],
+                "Kyrgyz": [
+                    "өзү иштөөчү куту"
+                ]
+            }
+        }
+    ]
+}

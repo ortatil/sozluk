@@ -1,0 +1,123 @@
+# Baby doctor
+| Field | Detail |
+|---|---|
+| **ID** | i88386 |
+| **English** | baby doctor |
+| **Type** | noun |
+| **Definition** | a specialist in the care of babies |
+| **Source** | common |
+| **Ortatil** | pediatr |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **pediatr** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1** |
+
+```json
+{
+    "id": "i88386",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "baby doctor",
+    "en_definition": "a specialist in the care of babies",
+    "tr_word": "çocuk doktoru",
+    "tr_definition": "bebeklerin ve çocukların bakımı ve hastalıkları konusunda uzmanlaşmış hekim",
+    "ru_word": "педиатр",
+    "ru_definition": "врач, специализирующийся на уходе за младенцами и лечении детских болезней",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bolalar shifokori",
+                    "bolalar tabibi"
+                ],
+                "Uyghur": [
+                    "بالىلار دوختۇرى",
+                    "بالىلار تېببىي خادىمى"
+                ],
+                "Kazakh": [
+                    "бала дәрігері",
+                    "балалар дәрігері"
+                ],
+                "Kyrgyz": [
+                    "бала дарыгери",
+                    "бала доктуру"
+                ],
+                "Karakalpak": [
+                    "balalar shıpakeri",
+                    "balalar dárigeri"
+                ],
+                "Tatar": [
+                    "балалар табибы",
+                    "балалар табибе",
+                    "балалар хакимы"
+                ],
+                "Bashkir": [
+                    "балалар табибы",
+                    "балалар табибы-белгесе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pediatrist"
+                ],
+                "Azerbaijani": [
+                    "pediatr"
+                ],
+                "Turkmen": [
+                    "pediatr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çocuk doktoru",
+                    "çocuk hekimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uşaq həkimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaga lukmany"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaga tebibi"
+                ]
+            }
+        }
+    ]
+}
+```
+

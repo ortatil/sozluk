@@ -1,0 +1,139 @@
+{
+    "id": "i63950",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mileage",
+    "en_definition": "distance measured in miles",
+    "tr_word": "mil mesafesi",
+    "tr_definition": "mil cinsinden ölçülen mesafe",
+    "ru_word": "пробег в милях",
+    "ru_definition": "расстояние, измеренное в милях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yol"
+                ],
+                "Azerbaijani": [
+                    "yol"
+                ],
+                "Turkmen": [
+                    "ýol"
+                ],
+                "Uzbek": [
+                    "yoʻl"
+                ],
+                "Uyghur": [
+                    "يول"
+                ],
+                "Kazakh": [
+                    "жол"
+                ],
+                "Kyrgyz": [
+                    "жол"
+                ],
+                "Karakalpak": [
+                    "jol"
+                ],
+                "Tatar": [
+                    "юл"
+                ],
+                "Bashkir": [
+                    "юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mesafe"
+                ],
+                "Azerbaijani": [
+                    "məsafə"
+                ],
+                "Turkmen": [
+                    "mesape"
+                ],
+                "Uzbek": [
+                    "masofa"
+                ],
+                "Uyghur": [
+                    "مۇساپە"
+                ],
+                "Tatar": [
+                    "мәсәфә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzaklık"
+                ],
+                "Azerbaijani": [
+                    "uzaqlıq"
+                ],
+                "Turkmen": [
+                    "aralyk"
+                ],
+                "Uzbek": [
+                    "uzunlik"
+                ],
+                "Kazakh": [
+                    "ұзақтық"
+                ],
+                "Kyrgyz": [
+                    "узактык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئارىلىق"
+                ],
+                "Kazakh": [
+                    "арақашықтық"
+                ],
+                "Kyrgyz": [
+                    "аралык"
+                ],
+                "Karakalpak": [
+                    "aralıq"
+                ],
+                "Tatar": [
+                    "ара",
+                    "аралык"
+                ],
+                "Bashkir": [
+                    "ара",
+                    "арауыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "menzil"
+                ],
+                "Turkmen": [
+                    "menzil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қашықтық"
+                ],
+                "Karakalpak": [
+                    "qashıqlıq"
+                ]
+            }
+        }
+    ]
+}

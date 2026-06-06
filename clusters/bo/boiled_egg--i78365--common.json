@@ -1,0 +1,99 @@
+{
+    "id": "i78365",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "boiled egg",
+    "en_definition": "egg cooked briefly in the shell in gently boiling water",
+    "tr_word": "haşlanmış yumurta",
+    "tr_definition": "Kabuğuyla birlikte kaynar suda pişirilmiş yumurta",
+    "ru_word": "варёное яйцо",
+    "ru_definition": "Яйцо, приготовленное в скорлупе в кипящей воде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pişmiş yumurta"
+                ],
+                "Azerbaijani": [
+                    "bişmiş yumurta"
+                ],
+                "Turkmen": [
+                    "bişirilen ýumurtga"
+                ],
+                "Uzbek": [
+                    "pishgan tuxum"
+                ],
+                "Uyghur": [
+                    "پىشقان تۇخۇم"
+                ],
+                "Kazakh": [
+                    "піскен жұмыртқа"
+                ],
+                "Kyrgyz": [
+                    "бышкан жумуртка"
+                ],
+                "Karakalpak": [
+                    "pіsken jұmırtqa"
+                ],
+                "Tatar": [
+                    "пешкән йомырка"
+                ],
+                "Bashkir": [
+                    "бешкән йомортҡа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qaynadılmış yumurta"
+                ],
+                "Turkmen": [
+                    "gaýnadylan ýumurtga"
+                ],
+                "Uzbek": [
+                    "qaynatilgan tuxum",
+                    "qaynatma tuxum"
+                ],
+                "Uyghur": [
+                    "قاينىتىلغان تۇخۇم"
+                ],
+                "Kazakh": [
+                    "қайнатылған жұмыртқа"
+                ],
+                "Kyrgyz": [
+                    "кайнатылган жумуртка"
+                ],
+                "Karakalpak": [
+                    "qaynatılǵan jұmırtqa"
+                ],
+                "Tatar": [
+                    "кайнатылган йомырка"
+                ],
+                "Bashkir": [
+                    "ҡайнатылған йомортҡа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haşlanmış yumurta",
+                    "haşlama yumurta"
+                ],
+                "Azerbaijani": [
+                    "haşlanmış yumurta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇدا پىشقان تۇخۇم"
+                ]
+            }
+        }
+    ]
+}

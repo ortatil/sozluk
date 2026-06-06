@@ -1,0 +1,98 @@
+# Coffee bean
+| Field | Detail |
+|---|---|
+| **ID** | i78980 |
+| **English** | coffee bean |
+| **Type** | noun |
+| **Definition** | a seed of the coffee tree; ground to make coffee |
+| **Source** | common |
+| **Ortatil** | dän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i78980",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coffee bean",
+    "en_definition": "a seed of the coffee tree; ground to make coffee",
+    "tr_word": "kahve çekirdeği",
+    "tr_definition": "kahve ağacının tohumu; kahve yapmak için öğütülür",
+    "ru_word": "кофейное зерно",
+    "ru_definition": "семя кофейного дерева; используется в молотом виде для приготовления кофе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kahve çekirdeği",
+                    "kahve tanesi",
+                    "kahve tohumu"
+                ],
+                "Azerbaijani": [
+                    "qəhvə dənəsi",
+                    "qəhvə dənəciyi",
+                    "qəhvə toxumu"
+                ],
+                "Turkmen": [
+                    "gaýwa dänesi"
+                ],
+                "Uzbek": [
+                    "qahva doni",
+                    "qahva urug'i"
+                ],
+                "Uyghur": [
+                    "قەھۋە دانچىسى",
+                    "قەھۋە دانىسى",
+                    "قەھۋە ئۇرۇقى"
+                ],
+                "Tatar": [
+                    "кәһвә орлыгы",
+                    "кәһвә бөртеге"
+                ],
+                "Bashkir": [
+                    "ҡәһүә бөртөгө",
+                    "ҡәһүә орлоғо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kofe dänesi"
+                ],
+                "Kazakh": [
+                    "кофе дәні"
+                ],
+                "Kyrgyz": [
+                    "кофе даны",
+                    "кофе уругу"
+                ],
+                "Karakalpak": [
+                    "kofe dáni",
+                    "kofe tuqımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "don"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кофе тұқымы"
+                ]
+            }
+        }
+    ]
+}
+```
+

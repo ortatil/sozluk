@@ -1,0 +1,99 @@
+{
+    "id": "i50497",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bar soap",
+    "en_definition": "soap in the form of a bar",
+    "tr_word": "kalıp sabun",
+    "tr_definition": "Kalıp şeklinde dondurulmuş sabun.",
+    "ru_word": "кусковое мыло",
+    "ru_definition": "Мыло в форме твердого бруска.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sabun"
+                ],
+                "Azerbaijani": [
+                    "sabun"
+                ],
+                "Turkmen": [
+                    "sabyn"
+                ],
+                "Uzbek": [
+                    "sovun"
+                ],
+                "Uyghur": [
+                    "سۇپۇن",
+                    "سوپۇن"
+                ],
+                "Kazakh": [
+                    "сабын"
+                ],
+                "Kyrgyz": [
+                    "самын"
+                ],
+                "Karakalpak": [
+                    "sabın"
+                ],
+                "Tatar": [
+                    "сабын"
+                ],
+                "Bashkir": [
+                    "һабын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kalıp sabun"
+                ],
+                "Azerbaijani": [
+                    "qəlib sabun"
+                ],
+                "Turkmen": [
+                    "gaty sabyn"
+                ],
+                "Uzbek": [
+                    "qattiq sovun",
+                    "qolip sovun"
+                ],
+                "Kyrgyz": [
+                    "катуу самын"
+                ],
+                "Karakalpak": [
+                    "qalıp sabın"
+                ],
+                "Tatar": [
+                    "каты сабын"
+                ],
+                "Bashkir": [
+                    "ҡаты һабын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "daş sabun"
+                ],
+                "Kyrgyz": [
+                    "кир самын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кесек сабын"
+                ],
+                "Tatar": [
+                    "кисәк сабын"
+                ]
+            }
+        }
+    ]
+}

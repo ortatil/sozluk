@@ -1,0 +1,103 @@
+{
+    "id": "i62872",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "newness",
+    "en_definition": "the quality of being new; the opposite of oldness",
+    "tr_word": "yenilik",
+    "tr_definition": "yeni olma durumu; eskilik karşıtı",
+    "ru_word": "новизна",
+    "ru_definition": "качество чего-то нового; противоположность старости",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yenilik",
+                    "ceditlik"
+                ],
+                "Azerbaijani": [
+                    "yenilik",
+                    "cədidlik"
+                ],
+                "Turkmen": [
+                    "jedidlik"
+                ],
+                "Uzbek": [
+                    "yangilik"
+                ],
+                "Uyghur": [
+                    "يېڭىلىق",
+                    "يېڭىچىلىق"
+                ],
+                "Kazakh": [
+                    "жаңалық",
+                    "жаңашылдық"
+                ],
+                "Kyrgyz": [
+                    "жаңылык",
+                    "жаңычалык"
+                ],
+                "Karakalpak": [
+                    "jańalıq",
+                    "jańashıldıq"
+                ],
+                "Tatar": [
+                    "яңалык"
+                ],
+                "Bashkir": [
+                    "яңылыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tazelik"
+                ],
+                "Azerbaijani": [
+                    "təzəlik"
+                ],
+                "Turkmen": [
+                    "täzelik"
+                ],
+                "Uzbek": [
+                    "tazalik"
+                ],
+                "Uyghur": [
+                    "تازا"
+                ],
+                "Kyrgyz": [
+                    "тазалык"
+                ],
+                "Karakalpak": [
+                    "tazalıq"
+                ],
+                "Tatar": [
+                    "тәзелек"
+                ],
+                "Bashkir": [
+                    "тәҙәлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nowluk"
+                ],
+                "Uzbek": [
+                    "navlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сонылық"
+                ]
+            }
+        }
+    ]
+}

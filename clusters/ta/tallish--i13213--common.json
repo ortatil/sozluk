@@ -1,0 +1,127 @@
+{
+    "id": "i13213",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "tallish",
+    "en_definition": "somewhat tall",
+    "tr_word": "uzunca",
+    "tr_definition": "boyu ortalamadan biraz daha yüksek olan, oldukça uzun",
+    "ru_word": "высоковатый",
+    "ru_definition": "несколько высокий, выше среднего роста",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boyluca"
+                ],
+                "Turkmen": [
+                    "boýly-sow",
+                    "boýly-bukly"
+                ],
+                "Uzbek": [
+                    "bo'ydorgina",
+                    "bo'yi balandroq"
+                ],
+                "Uyghur": [
+                    "بويچانراق"
+                ],
+                "Kazakh": [
+                    "бойшаң",
+                    "бойшаңдау"
+                ],
+                "Kyrgyz": [
+                    "бойлуураак"
+                ],
+                "Karakalpak": [
+                    "boyshań"
+                ],
+                "Tatar": [
+                    "буйчан"
+                ],
+                "Bashkir": [
+                    "буйсан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzunca",
+                    "uzun boyluca"
+                ],
+                "Turkmen": [
+                    "uzynrak"
+                ],
+                "Uzbek": [
+                    "uzunroq"
+                ],
+                "Kazakh": [
+                    "ұзындау",
+                    "ұзынша"
+                ],
+                "Kyrgyz": [
+                    "узунураак"
+                ],
+                "Karakalpak": [
+                    "uzınsha",
+                    "uzınshalau"
+                ],
+                "Tatar": [
+                    "озынча",
+                    "озынчарак"
+                ],
+                "Bashkir": [
+                    "оҙонса",
+                    "оҙонсараҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ucaboy",
+                    "ucatəhər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hündürboy",
+                    "hündürtəhər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "novcharoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېگىزرەك",
+                    "ئېگىزچە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыйла бойлуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dáushe"
+                ]
+            }
+        }
+    ]
+}

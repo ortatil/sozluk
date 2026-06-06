@@ -1,0 +1,100 @@
+{
+    "id": "i64648",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flesh",
+    "en_definition": "the soft tissue of the body of a vertebrate: mainly muscle tissue and fat",
+    "tr_word": "et",
+    "tr_definition": "Bir omurgalının vücudundaki yumuşak doku; esas olarak kas dokusu ve yağ",
+    "ru_word": "плоть",
+    "ru_definition": "мягкие ткани тела позвоночного животного, состоящие в основном из мышечной ткани и жира",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "et",
+                    "ten"
+                ],
+                "Azerbaijani": [
+                    "ət",
+                    "tən"
+                ],
+                "Turkmen": [
+                    "et",
+                    "ten"
+                ],
+                "Uzbek": [
+                    "et",
+                    "tan"
+                ],
+                "Uyghur": [
+                    "تەن",
+                    "ئەت"
+                ],
+                "Kazakh": [
+                    "ет",
+                    "тән"
+                ],
+                "Kyrgyz": [
+                    "эт",
+                    "тән"
+                ],
+                "Karakalpak": [
+                    "et",
+                    "tán"
+                ],
+                "Tatar": [
+                    "ит",
+                    "тән"
+                ],
+                "Bashkir": [
+                    "ит",
+                    "тән",
+                    "ит-май"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vücut dokusu"
+                ],
+                "Uzbek": [
+                    "vujud"
+                ],
+                "Tatar": [
+                    "вөҗүд"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bədən"
+                ],
+                "Uzbek": [
+                    "badan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дене"
+                ],
+                "Kyrgyz": [
+                    "дене"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۆش"
+                ]
+            }
+        }
+    ]
+}

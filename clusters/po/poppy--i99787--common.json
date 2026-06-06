@@ -1,0 +1,105 @@
+{
+    "id": "i99787",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "poppy",
+    "en_definition": "annual or biennial or perennial herbs having showy flowers",
+    "tr_word": "gelincik",
+    "tr_definition": "Gösterişli çiçekleri olan, bir yıllık, iki yıllık veya çok yıllık otsu bitki.",
+    "ru_word": "мак",
+    "ru_definition": "Однолетнее, двулетнее или многолетнее травянистое растение с яркими цветками.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "lalə",
+                    "lalə-xaşxaş"
+                ],
+                "Turkmen": [
+                    "läle",
+                    "lälegül"
+                ],
+                "Uzbek": [
+                    "lolaqizg'aldoq"
+                ],
+                "Uyghur": [
+                    "لالە"
+                ],
+                "Karakalpak": [
+                    "lalagúl"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haşhaş"
+                ],
+                "Azerbaijani": [
+                    "xaşxaş"
+                ],
+                "Uzbek": [
+                    "hashhash"
+                ],
+                "Uyghur": [
+                    "خەشخاش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ko'knor"
+                ],
+                "Uyghur": [
+                    "كۆكنار"
+                ],
+                "Kazakh": [
+                    "көкнәр"
+                ],
+                "Karakalpak": [
+                    "kóknar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мақсым"
+                ],
+                "Kyrgyz": [
+                    "мак"
+                ],
+                "Tatar": [
+                    "мәк",
+                    "мәк чәчәге"
+                ],
+                "Bashkir": [
+                    "мәк",
+                    "мәк сәсәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gelincik"
+                ],
+                "Turkmen": [
+                    "gelingül"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кызыл мак"
+                ]
+            }
+        }
+    ]
+}

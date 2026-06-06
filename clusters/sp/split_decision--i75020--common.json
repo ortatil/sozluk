@@ -1,0 +1,145 @@
+{
+    "id": "i75020",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "split decision",
+    "en_definition": "a boxing decision in which the judges are not unanimous",
+    "tr_word": "ayrık karar",
+    "tr_definition": "boks maçında hakemlerin oy birliğiyle değil, oy çokluğuyla verdiği karar",
+    "ru_word": "раздельное решение",
+    "ru_definition": "решение в боксе, при котором судьи не единогласны в выборе победителя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bölünmüş karar"
+                ],
+                "Turkmen": [
+                    "bölünen karar"
+                ],
+                "Uzbek": [
+                    "bo'lingan qaror"
+                ],
+                "Kyrgyz": [
+                    "бөлүнүп калган чечим"
+                ],
+                "Karakalpak": [
+                    "bólek sheshim"
+                ],
+                "Tatar": [
+                    "бүленгән хөкем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayrık karar"
+                ],
+                "Azerbaijani": [
+                    "ayrı-ayrı qərar"
+                ],
+                "Karakalpak": [
+                    "ayırım sheshim"
+                ],
+                "Bashkir": [
+                    "айырым ҡарар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bir agyzdan däl karar"
+                ],
+                "Uyghur": [
+                    "بىرلىككە كەلمىگەن قارار"
+                ],
+                "Karakalpak": [
+                    "bir aoızdan bolmaǵan sheshim"
+                ],
+                "Bashkir": [
+                    "берҙәм булмаған ҡарар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oy çokluğu ile karar"
+                ],
+                "Tatar": [
+                    "бүленгән карар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yakdil bo'lmagan qaror"
+                ],
+                "Kazakh": [
+                    "екіұдай шешім"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko'pchilik ovozi bilan qabul qilingan qaror"
+                ],
+                "Uyghur": [
+                    "كۆپ سانلىقنىڭ قارارى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fikir ayrılığı ilə qərar",
+                    "səs çoxluğu ilə qərar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ses köplügi bilen karar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىختىلاپلىق قارار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алшақ шешім",
+                    "ортақ емес шешім"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бир добуштан эмес чечим",
+                    "талаштуу чечим"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төрлө фекерле ҡарар"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "id": "i15661",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "packable",
+    "en_definition": "capable of being packed",
+    "tr_word": "katlanabilir",
+    "tr_definition": "kolayca paketlenebilir veya bir çantaya sığdırılabilir durumda olan",
+    "ru_word": "компактный",
+    "ru_definition": "способный быть упакованным или легко складывающимся для транспортировки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yığıla bilən",
+                    "yığılan"
+                ],
+                "Turkmen": [
+                    "ýygnalýan",
+                    "ýygnanyşykly"
+                ],
+                "Uzbek": [
+                    "yigʻiluvchan",
+                    "joylanadigan"
+                ],
+                "Uyghur": [
+                    "يىغىشلىق",
+                    "يىغىشقا ئەپلىك"
+                ],
+                "Kazakh": [
+                    "жинақы",
+                    "жинамалы"
+                ],
+                "Kyrgyz": [
+                    "жыйналма"
+                ],
+                "Karakalpak": [
+                    "jıynalmalı",
+                    "jıynaqı"
+                ],
+                "Tatar": [
+                    "җыелмалы",
+                    "җыела торган"
+                ],
+                "Bashkir": [
+                    "йыйнаҡ",
+                    "йыйып алырлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bükülə bilən"
+                ],
+                "Kazakh": [
+                    "бүктемелі"
+                ],
+                "Kyrgyz": [
+                    "бүктөлмө"
+                ],
+                "Karakalpak": [
+                    "búklenbelі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sığdırılabilir"
+                ],
+                "Tatar": [
+                    "сыешлы"
+                ],
+                "Bashkir": [
+                    "һыйҙырышлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "katlanabilir",
+                    "toplanabilir"
+                ],
+                "Turkmen": [
+                    "gaplanyp bilinýän",
+                    "gaplamaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taşınabilir"
+                ],
+                "Azerbaijani": [
+                    "daşına bilən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yer kaplamayan"
+                ],
+                "Azerbaijani": [
+                    "yerləşən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ықшам"
+                ],
+                "Karakalpak": [
+                    "ıqsham"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taxlanadigan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ixcham"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاچىلىغىلى بولىدىغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈرۈشكە بولىدىغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ыңгайлуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чакан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бөрелә торган"
+                ]
+            }
+        }
+    ]
+}

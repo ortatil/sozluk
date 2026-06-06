@@ -1,0 +1,77 @@
+{
+    "id": "i90004",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "florist",
+    "en_definition": "someone who grows and deals in flowers",
+    "tr_word": "çiçekçi",
+    "tr_definition": "çiçek yetiştiren ve satan kimse",
+    "ru_word": "флорист",
+    "ru_definition": "человек, который занимается выращиванием и продажей цветов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gülçü"
+                ],
+                "Turkmen": [
+                    "gülçi",
+                    "gül satyjy"
+                ],
+                "Uzbek": [
+                    "gulchi"
+                ],
+                "Uyghur": [
+                    "گۈلچى",
+                    "گۈلپۇرۇش"
+                ],
+                "Kazakh": [
+                    "гүлші",
+                    "гүлпаз",
+                    "гүл өсіруші"
+                ],
+                "Kyrgyz": [
+                    "гүлчү",
+                    "гүл сатуучу",
+                    "гүл өстүрүүчү"
+                ],
+                "Karakalpak": [
+                    "gúlshi",
+                    "gúlpaz",
+                    "gúl óstirioshi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çiçekçi",
+                    "çiçek satıcısı"
+                ],
+                "Azerbaijani": [
+                    "çiçəkçi"
+                ],
+                "Tatar": [
+                    "чәчәкче"
+                ],
+                "Bashkir": [
+                    "сәскәсе",
+                    "сәскә үҫтереүсе",
+                    "сәскә һатыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gulfurush"
+                ],
+                "Tatar": [
+                    "гөлче"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "i72412",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "alpha",
+    "en_definition": "the 1st letter of the Greek alphabet",
+    "tr_word": "alfa",
+    "tr_definition": "Yunan alfabesinin birinci harfi",
+    "ru_word": "альфа",
+    "ru_definition": "первая буква греческого алфавита",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alfa"
+                ],
+                "Azerbaijani": [
+                    "alfa"
+                ],
+                "Turkmen": [
+                    "alfa"
+                ],
+                "Uzbek": [
+                    "alif"
+                ],
+                "Uyghur": [
+                    "ئالفا"
+                ],
+                "Kazakh": [
+                    "әліп"
+                ],
+                "Kyrgyz": [
+                    "альфа"
+                ],
+                "Karakalpak": [
+                    "alfa"
+                ],
+                "Tatar": [
+                    "әлфә"
+                ],
+                "Bashkir": [
+                    "әлфә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "birinji harp"
+                ],
+                "Uzbek": [
+                    "birinchi harf"
+                ],
+                "Uyghur": [
+                    "بىرىنچى ھەرپ"
+                ],
+                "Kazakh": [
+                    "бірінші әріп"
+                ],
+                "Kyrgyz": [
+                    "биринчи тамга"
+                ],
+                "Tatar": [
+                    "беренче хәреф"
+                ],
+                "Bashkir": [
+                    "беренсе хәреф"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ilk hərf"
+                ],
+                "Kazakh": [
+                    "алғашқы әріп"
+                ]
+            }
+        }
+    ]
+}

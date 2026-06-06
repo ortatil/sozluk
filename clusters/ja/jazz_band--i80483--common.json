@@ -1,0 +1,93 @@
+{
+    "id": "i80483",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "jazz band",
+    "en_definition": "a small band of jazz musicians",
+    "tr_word": "caz grubu",
+    "tr_definition": "caz müzisyenlerinden oluşan küçük bir topluluk",
+    "ru_word": "джаз-банд",
+    "ru_definition": "небольшой коллектив джазовых музыкантов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "caz topluluğu",
+                    "caz grubu",
+                    "caz orkestrası"
+                ],
+                "Azerbaijani": [
+                    "caz orkestri",
+                    "caz qrupu"
+                ],
+                "Turkmen": [
+                    "jaz topary",
+                    "jaz ansambly"
+                ],
+                "Uzbek": [
+                    "jaz jamoasi",
+                    "jaz dastasining",
+                    "jaz ansambli"
+                ],
+                "Uyghur": [
+                    "جاز ئانسامبىلى",
+                    "جاز ئۆمىكى"
+                ],
+                "Kazakh": [
+                    "жаз ансамблі",
+                    "жаз оркестрі",
+                    "жаз тобы"
+                ],
+                "Kyrgyz": [
+                    "жаз тобу",
+                    "жаз оркестри",
+                    "жаз ансамбли"
+                ],
+                "Karakalpak": [
+                    "jaz toparı",
+                    "jaz ansambli",
+                    "saz toparı"
+                ],
+                "Tatar": [
+                    "җаз төркеме",
+                    "җаз ансамбле",
+                    "җазчылар төркеме"
+                ],
+                "Bashkir": [
+                    "джаз төркөмө",
+                    "джаз ансамбле",
+                    "джаз оркестры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "caz ekibi"
+                ],
+                "Azerbaijani": [
+                    "caz ansamblı"
+                ],
+                "Turkmen": [
+                    "sazandalar topary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "musiqa guruhi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جاز مۇزىكا ئۆمىكى"
+                ]
+            }
+        }
+    ]
+}

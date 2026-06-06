@@ -1,0 +1,93 @@
+{
+    "id": "i61023",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water system",
+    "en_definition": "a facility that provides a source of water",
+    "tr_word": "su sistemi",
+    "tr_definition": "su kaynağı sağlayan tesis veya şebeke",
+    "ru_word": "система водоснабжения",
+    "ru_definition": "комплекс сооружений для обеспечения потребителей водой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su şebekesi",
+                    "su sistemi",
+                    "su tesisatı",
+                    "su yolu"
+                ],
+                "Azerbaijani": [
+                    "su təchizatı",
+                    "su sistemi",
+                    "su şəbəkəsi",
+                    "su kəməri"
+                ],
+                "Turkmen": [
+                    "suw ulgamy",
+                    "suw üpjünçiligi",
+                    "suw gurluşy",
+                    "suw desgalary"
+                ],
+                "Uzbek": [
+                    "suv tizimi",
+                    "suv tarmog'i",
+                    "suv ta'minoti",
+                    "suv inshooti"
+                ],
+                "Uyghur": [
+                    "سۇ سىستېمىسى",
+                    "سۇ تەمىنلەش سىستېمىسى",
+                    "سۇ ئەسلىھەلىرى",
+                    "سۇ تورى"
+                ],
+                "Kazakh": [
+                    "су жүйесі",
+                    "су құбыры",
+                    "су торабы"
+                ],
+                "Kyrgyz": [
+                    "суу тармагы",
+                    "суу тутуму",
+                    "суу менен камсыздоо",
+                    "суу жабдуусу"
+                ],
+                "Karakalpak": [
+                    "suo sisteması",
+                    "suo tarmaǵı",
+                    "suo támiyinatı"
+                ],
+                "Tatar": [
+                    "су челтәре",
+                    "су системасы",
+                    "су үткәргеч",
+                    "су хуҗалыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сумен жабдықтау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу системаһы",
+                    "һыу ҡоролмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу селтәре",
+                    "һыу менән тәьмин итеү"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "id": "i111247",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "whooping cough",
+    "en_definition": "a disease of the respiratory mucous membrane",
+    "tr_word": "boğmaca",
+    "tr_definition": "Solunum yollarının mukoza zarını etkileyen, şiddetli öksürük nöbetleriyle karakterize bulaşıcı bir hastalık.",
+    "ru_word": "коклюш",
+    "ru_definition": "Острое инфекционное заболевание дыхательных путей, сопровождающееся приступами спазматического кашля.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "göyöskürək"
+                ],
+                "Turkmen": [
+                    "gökbogma"
+                ],
+                "Uzbek": [
+                    "koʻkyotal"
+                ],
+                "Uyghur": [
+                    "كۆك يۆتەل",
+                    "كۆكيۆتەل"
+                ],
+                "Kazakh": [
+                    "көкжөтел",
+                    "көкжөтел ауруы"
+                ],
+                "Kyrgyz": [
+                    "көк жөтөл",
+                    "көкжөтөл"
+                ],
+                "Karakalpak": [
+                    "kókjótel",
+                    "kókjótel keselligi"
+                ],
+                "Tatar": [
+                    "күк йөткерү"
+                ],
+                "Bashkir": [
+                    "күк йүтәл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boğmaca",
+                    "boğmaca öksürüğü"
+                ],
+                "Azerbaijani": [
+                    "boğmaca"
+                ],
+                "Turkmen": [
+                    "bogma"
+                ],
+                "Uzbek": [
+                    "boʻgʻma yotal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "буып-буып йөткерү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "быуылма йүтәл"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+# Doubles
+| Field | Detail |
+|---|---|
+| **ID** | i37927 |
+| **English** | doubles |
+| **Type** | noun |
+| **Definition** | tennis played with two players on each side |
+| **Source** | common |
+| **Ortatil** | çift |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i37927",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "doubles",
+    "en_definition": "tennis played with two players on each side",
+    "tr_word": "çiftler",
+    "tr_definition": "her iki tarafta ikişer oyuncunun bulunduğu tenis maçı",
+    "ru_word": "парный разряд",
+    "ru_definition": "теннисный матч, в котором с каждой стороны участвуют по два игрока",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çiftler",
+                    "çiftli oyun"
+                ],
+                "Turkmen": [
+                    "jübütleýin oýun"
+                ],
+                "Uzbek": [
+                    "juftlik",
+                    "juftlik bahsi",
+                    "juftlik o'yini"
+                ],
+                "Kyrgyz": [
+                    "жуптук оюн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşa oyun"
+                ],
+                "Turkmen": [
+                    "goşaly oýun"
+                ],
+                "Uyghur": [
+                    "قوش كىشىلىك مۇسابىقە",
+                    "قوش كىشىلىك ئويۇن"
+                ],
+                "Kyrgyz": [
+                    "кош оюн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "جۈپ كىشىلىك مۇسابىقە"
+                ],
+                "Kazakh": [
+                    "жұптық ойын",
+                    "жұптық сын"
+                ],
+                "Karakalpak": [
+                    "juplıq oyın",
+                    "juplıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "парлы уен",
+                    "парлы ярыш"
+                ],
+                "Bashkir": [
+                    "парлы уйын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşli oyun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cütlük oyunu",
+                    "cütlər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "икәүләп уйнау"
+                ]
+            }
+        }
+    ]
+}
+```
+

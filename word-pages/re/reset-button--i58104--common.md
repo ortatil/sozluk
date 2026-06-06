@@ -1,0 +1,166 @@
+# Reset button
+| Field | Detail |
+|---|---|
+| **ID** | i58104 |
+| **English** | reset button |
+| **Type** | noun |
+| **Definition** | a push button that you press to activate the reset mechanism |
+| **Source** | common |
+| **Ortatil** | basqış |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i58104",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "reset button",
+    "en_definition": "a push button that you press to activate the reset mechanism",
+    "tr_word": "sıfırlama düğmesi",
+    "tr_definition": "sıfırlama mekanizmasını etkinleştirmek için basılan düğme",
+    "ru_word": "кнопка сброса",
+    "ru_definition": "кнопка, которую вы нажимаете для активации механизма сброса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "başlangyç düwmesi"
+                ],
+                "Kazakh": [
+                    "бастапқы күйге келтіру батырмасы"
+                ],
+                "Kyrgyz": [
+                    "баштапкы абалга келтирүү баскычы"
+                ],
+                "Karakalpak": [
+                    "basqısh"
+                ],
+                "Tatar": [
+                    "башлангыч халәткә кайтару төймәсе"
+                ],
+                "Bashkir": [
+                    "башланғыс хәлгә ҡайтарыу төймәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden başlatma düğmesi"
+                ],
+                "Azerbaijani": [
+                    "yenidən başlatma düyməsi"
+                ],
+                "Turkmen": [
+                    "yzyna gaýtaryş düwmesi"
+                ],
+                "Kazakh": [
+                    "қайта қосу батырмасы",
+                    "қайта орнату түймесі"
+                ],
+                "Karakalpak": [
+                    "qayta qosıu túymesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qayta sozlash tugmasi",
+                    "qayta ishga tushirish tugmasi"
+                ],
+                "Uyghur": [
+                    "قايتا قوزغىتىش تۈگمىسى"
+                ],
+                "Bashkir": [
+                    "ҡайтарғыс төймә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "жаңылоо баскычы"
+                ],
+                "Tatar": [
+                    "яңарту төймәсе"
+                ],
+                "Bashkir": [
+                    "яңынан башлау төймәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıfırlama düğmesi",
+                    "sıfırlama tuşu"
+                ],
+                "Azerbaijani": [
+                    "sıfırlama düyməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asliga qaytarish tugmasi"
+                ],
+                "Uyghur": [
+                    "ئەسلىگە كەلتۈرۈش تۈگمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qurma düyməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzeleýiş düwmesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نۆلگە قايتۇرۇش تۈگمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кайра жүргүзүү баскычы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "túymeshe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кире кайтару төймәсе"
+                ]
+            }
+        }
+    ]
+}
+```
+

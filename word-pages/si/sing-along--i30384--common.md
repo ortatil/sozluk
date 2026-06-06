@@ -1,0 +1,189 @@
+# Sing along
+| Field | Detail |
+|---|---|
+| **ID** | i30384 |
+| **English** | sing along |
+| **Type** | verb |
+| **Definition** | sing with a choir or an orchestra |
+| **Source** | common |
+| **Ortatil** | qostamaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қостау | qostau |
+| **Kyrgyz** | |
+| коштоо | koştoo |
+
+```json
+{
+    "id": "i30384",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "sing along",
+    "en_definition": "sing with a choir or an orchestra",
+    "tr_word": "eşlik etmek",
+    "tr_definition": "bir koro veya orkestra ile birlikte şarkı söylemek",
+    "ru_word": "подпевать",
+    "ru_definition": "петь вместе с хором или оркестром",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşulub oxumaq"
+                ],
+                "Turkmen": [
+                    "goşulyp aýtmak"
+                ],
+                "Uzbek": [
+                    "qoʻshilib kuylamoq"
+                ],
+                "Kazakh": [
+                    "қосылып айту",
+                    "қостау"
+                ],
+                "Kyrgyz": [
+                    "кошулуп ырдоо",
+                    "коштоо"
+                ],
+                "Karakalpak": [
+                    "qosılıp aytıu"
+                ],
+                "Tatar": [
+                    "кушылып җырлау"
+                ],
+                "Bashkir": [
+                    "ҡушылып йырлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beraber söylemek",
+                    "birlikte okumak"
+                ],
+                "Azerbaijani": [
+                    "birlikdə oxumaq"
+                ],
+                "Uyghur": [
+                    "بىرلىكتە ئوقۇماق"
+                ],
+                "Kazakh": [
+                    "бірге айту"
+                ],
+                "Karakalpak": [
+                    "birge aytıu"
+                ],
+                "Tatar": [
+                    "бергә җырлау"
+                ],
+                "Bashkir": [
+                    "бергә йырлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həmahəng olmaq"
+                ],
+                "Uzbek": [
+                    "hamnafas boʻlmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "joʻr boʻlmoq"
+                ],
+                "Uyghur": [
+                    "جور بولماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ияреп җырлау"
+                ],
+                "Bashkir": [
+                    "иярә йырлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşlik etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "katılmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müşayiət etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bile aýtmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ses goşmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەڭكەش قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ілесіп айту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үн кошуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "júrgіzіp aytıu"
+                ]
+            }
+        }
+    ]
+}
+```
+

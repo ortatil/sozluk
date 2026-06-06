@@ -1,0 +1,134 @@
+{
+    "id": "i69492",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "phone message",
+    "en_definition": "a message transmitted by telephone",
+    "tr_word": "telefon mesajı",
+    "tr_definition": "telefon aracılığıyla iletilen ileti",
+    "ru_word": "телефонное сообщение",
+    "ru_definition": "сообщение, переданное по телефону",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haber"
+                ],
+                "Uzbek": [
+                    "xabar"
+                ],
+                "Kazakh": [
+                    "хабарлама",
+                    "хабар"
+                ],
+                "Kyrgyz": [
+                    "кабар"
+                ],
+                "Karakalpak": [
+                    "xabar"
+                ],
+                "Tatar": [
+                    "хәбәр"
+                ],
+                "Bashkir": [
+                    "хәбәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telefon mesajı"
+                ],
+                "Azerbaijani": [
+                    "telefon ismarışı",
+                    "telefon mesajı",
+                    "telefon xəbəri"
+                ],
+                "Turkmen": [
+                    "telefon habary",
+                    "telefon habarlaşmasy",
+                    "telefon üsti bilen habar"
+                ],
+                "Uyghur": [
+                    "تېلېفون ئۇچۇرى",
+                    "تېلېفون خەۋىرى"
+                ],
+                "Kazakh": [
+                    "телефон хабары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bildirishnoma"
+                ],
+                "Kyrgyz": [
+                    "билдирүү"
+                ],
+                "Karakalpak": [
+                    "bildirio"
+                ],
+                "Tatar": [
+                    "белдерү"
+                ],
+                "Bashkir": [
+                    "белдереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "málimleme"
+                ],
+                "Tatar": [
+                    "мәгълүмат"
+                ],
+                "Bashkir": [
+                    "мәғлүмәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ileti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sesli mesaj"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nomoma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇچۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кат"
+                ]
+            }
+        }
+    ]
+}

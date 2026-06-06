@@ -1,0 +1,118 @@
+# Lorry
+| Field | Detail |
+|---|---|
+| **ID** | i55826 |
+| **English** | lorry |
+| **Type** | noun |
+| **Definition** | a large truck designed to carry heavy loads; usually without sides |
+| **Source** | common |
+| **Ortatil** | kamyon |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| көлік | kölik |
+
+```json
+{
+    "id": "i55826",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lorry",
+    "en_definition": "a large truck designed to carry heavy loads; usually without sides",
+    "tr_word": "kamyon",
+    "tr_definition": "Ağır yük taşımak için tasarlanmış, genellikle açık veya kapalı kasası olan büyük motorlu taşıt.",
+    "ru_word": "грузовик",
+    "ru_definition": "Крупный автомобиль, предназначенный для перевозки тяжелых грузов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yük arabası"
+                ],
+                "Azerbaijani": [
+                    "yük maşını",
+                    "yükdaşıyan"
+                ],
+                "Turkmen": [
+                    "ýük ulagy",
+                    "ýük maşyny"
+                ],
+                "Uzbek": [
+                    "yuk mashinasi",
+                    "yuk arava",
+                    "yuk tashuvchi"
+                ],
+                "Uyghur": [
+                    "يۈك ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "жүк көлігі",
+                    "жүк арба"
+                ],
+                "Kyrgyz": [
+                    "жүк ташуучу унаа",
+                    "жүк ташуучу",
+                    "жүк араба"
+                ],
+                "Karakalpak": [
+                    "júk mashinası",
+                    "júk kóligi"
+                ],
+                "Tatar": [
+                    "йөк машинасы",
+                    "йөк арбасы"
+                ],
+                "Bashkir": [
+                    "йөк машинаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yük avtomobili"
+                ],
+                "Uyghur": [
+                    "يۈك ئاپتوموبىلى"
+                ],
+                "Bashkir": [
+                    "йөк автомобиле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kamyon"
+                ],
+                "Turkmen": [
+                    "kamion"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tashit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік"
+                ]
+            }
+        }
+    ]
+}
+```
+

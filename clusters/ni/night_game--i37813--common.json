@@ -1,0 +1,82 @@
+{
+    "id": "i37813",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "night game",
+    "en_definition": "a game played under artificial illumination at night",
+    "tr_word": "gece maçı",
+    "tr_definition": "geceleyin yapay aydınlatma altında oynanan oyun veya müsabaka",
+    "ru_word": "ночная игра",
+    "ru_definition": "игра, проводимая при искусственном освещении в ночное время",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gece maçı",
+                    "gece oyunu",
+                    "gece karşılaşması"
+                ],
+                "Azerbaijani": [
+                    "gecə oyunu",
+                    "gecə qarşılaşması",
+                    "gecə matçı"
+                ],
+                "Turkmen": [
+                    "gije oýny",
+                    "gijeki oýun"
+                ],
+                "Uyghur": [
+                    "كېچىلىك مۇسابىقە",
+                    "كېچىلىك ئويۇن"
+                ],
+                "Kazakh": [
+                    "кешкі ойын"
+                ],
+                "Tatar": [
+                    "кичке уен"
+                ],
+                "Bashkir": [
+                    "киске уйын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tungi oʻyin"
+                ],
+                "Uyghur": [
+                    "تۈن مۇسابىقىسى"
+                ],
+                "Kazakh": [
+                    "түнгі ойын"
+                ],
+                "Kyrgyz": [
+                    "түнкү оюн",
+                    "түнкү мелдеш"
+                ],
+                "Karakalpak": [
+                    "túngі oyın"
+                ],
+                "Tatar": [
+                    "төнге уен"
+                ],
+                "Bashkir": [
+                    "төнгө уйын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oqshomgi oʻyin"
+                ],
+                "Karakalpak": [
+                    "aqshamǵı oyın"
+                ]
+            }
+        }
+    ]
+}

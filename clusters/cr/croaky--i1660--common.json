@@ -1,0 +1,128 @@
+{
+    "id": "i1660",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "croaky",
+    "en_definition": "like the sounds of frogs and crows",
+    "tr_word": "kısık",
+    "tr_definition": "kurbağa veya karga sesini andıran, boğuk ve pürüzlü ses",
+    "ru_word": "хриплый",
+    "ru_definition": "напоминающий звуки лягушек и ворон; сиплый или грубый голос",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısık"
+                ],
+                "Turkmen": [
+                    "gyryk",
+                    "gyrylan"
+                ],
+                "Uzbek": [
+                    "karkash"
+                ],
+                "Uyghur": [
+                    "قېرىلداق"
+                ],
+                "Kazakh": [
+                    "қарлыққан",
+                    "қырылдаған",
+                    "қырыл",
+                    "қарлық"
+                ],
+                "Kyrgyz": [
+                    "кырылдаган",
+                    "кырылдагы",
+                    "каргылдаган",
+                    "каргыл"
+                ],
+                "Karakalpak": [
+                    "qarlıqqan",
+                    "qırıldaǵan",
+                    "qarlıqpa"
+                ],
+                "Tatar": [
+                    "карлыккан",
+                    "кырыллаган",
+                    "карлыгулы",
+                    "кырылдавык"
+                ],
+                "Bashkir": [
+                    "ҡарлыҡҡан",
+                    "ҡырылдаҡ",
+                    "ҡарлыҡҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boğuk"
+                ],
+                "Azerbaijani": [
+                    "boğuq"
+                ],
+                "Turkmen": [
+                    "boguk"
+                ],
+                "Uzbek": [
+                    "bo'g'iq"
+                ],
+                "Uyghur": [
+                    "بوغۇق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hırıltılı"
+                ],
+                "Azerbaijani": [
+                    "xırıltılı"
+                ],
+                "Turkmen": [
+                    "hyrrylly"
+                ],
+                "Uzbek": [
+                    "xirillagan",
+                    "xirilloq"
+                ],
+                "Uyghur": [
+                    "خىرىلداق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çatallı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "batıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tutqun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bútіn emes"
+                ]
+            }
+        }
+    ]
+}

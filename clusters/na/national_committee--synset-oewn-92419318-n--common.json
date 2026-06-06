@@ -1,0 +1,95 @@
+{
+    "id": "synset-oewn-92419318-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "national committee",
+    "en_definition": "the chief executive agency of a political party; it usually consists of members chosen by the national convention to represent geographical areas or constituent elements in the party and has general supervisory powers over the organization of national conventions and the planning of campaigns",
+    "tr_word": "ulusal komite",
+    "tr_definition": "bir siyasi partinin ana yürütme organı; genellikle ulusal kongre tarafından seçilen üyelerden oluşur ve seçim kampanyalarının planlanması ile kongre organizasyonlarını denetleme yetkisine sahiptir",
+    "ru_word": "национальный комитет",
+    "ru_definition": "главный исполнительный орган политической партии, состоящий из представителей различных регионов и осуществляющий руководство подготовкой к съездам и избирательным кампаниям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milli heyet",
+                    "milli encümen"
+                ],
+                "Azerbaijani": [
+                    "milli komitə",
+                    "milli heyət",
+                    "milli şura"
+                ],
+                "Turkmen": [
+                    "milli komitet",
+                    "milli geňeş",
+                    "milli gurultaý",
+                    "milli wekillik"
+                ],
+                "Uzbek": [
+                    "milliy qoʻmita",
+                    "milliy hayʼat",
+                    "milliy kengash"
+                ],
+                "Uyghur": [
+                    "مىللىي كومىتېت",
+                    "مىللىي ھەيئەت",
+                    "مىللىي كېڭەش"
+                ],
+                "Karakalpak": [
+                    "milliy komitet",
+                    "milliy keńes",
+                    "milliy jámáát"
+                ],
+                "Tatar": [
+                    "милли комитет",
+                    "милли шура",
+                    "милли һәйәт"
+                ],
+                "Bashkir": [
+                    "милли комитет",
+                    "милли һайлау комитеты",
+                    "милли идара",
+                    "милли шура"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ulusal kurul",
+                    "ulusal komite"
+                ],
+                "Kazakh": [
+                    "ұлттық комитет",
+                    "ұлттық алқа",
+                    "ұлттық кеңес"
+                ],
+                "Kyrgyz": [
+                    "улуттук комитет",
+                    "улуттук кеңеш",
+                    "улуттук курултай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "merkez karar kurulu"
+                ],
+                "Uzbek": [
+                    "markaziy qoʻmita"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борбордук комитет"
+                ]
+            }
+        }
+    ]
+}

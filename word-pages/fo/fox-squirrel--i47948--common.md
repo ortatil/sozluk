@@ -1,0 +1,135 @@
+# Fox squirrel
+| Field | Detail |
+|---|---|
+| **ID** | i47948 |
+| **English** | fox squirrel |
+| **Type** | noun |
+| **Definition** | exceptionally large arboreal squirrel of eastern United States |
+| **Source** | common |
+| **Ortatil** | tulki-belka |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i47948",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fox squirrel",
+    "en_definition": "exceptionally large arboreal squirrel of eastern United States",
+    "tr_word": "tilki sincabı",
+    "tr_definition": "Doğu Amerika Birleşik Devletleri'ne özgü, ağaçlarda yaşayan, alışılmadık derecede büyük bir sincap türü",
+    "ru_word": "лисий белка",
+    "ru_definition": "исключительно крупная древесная белка, обитающая в восточной части США",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tilki sincabı"
+                ],
+                "Azerbaijani": [
+                    "tülkü dələsi"
+                ],
+                "Turkmen": [
+                    "tülki-belka"
+                ],
+                "Uzbek": [
+                    "tulki-olmaxon"
+                ],
+                "Uyghur": [
+                    "تۈلكە تىيىن"
+                ],
+                "Kazakh": [
+                    "түлкі тиін"
+                ],
+                "Kyrgyz": [
+                    "түлкү тыйын чычкан"
+                ],
+                "Karakalpak": [
+                    "túlkі tiіn",
+                    "úlken tiіn"
+                ],
+                "Tatar": [
+                    "төлке тиен"
+                ],
+                "Bashkir": [
+                    "төлкө тейене"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ تىيىن"
+                ],
+                "Kazakh": [
+                    "дәу тиін"
+                ],
+                "Karakalpak": [
+                    "dáu tiіn"
+                ],
+                "Tatar": [
+                    "зур тиен"
+                ],
+                "Bashkir": [
+                    "ҙур тейен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyük sincap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iri dələ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "belka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "agaç-belkasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta olmaxon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үлкен тиін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чоң тыйын чычкан"
+                ]
+            }
+        }
+    ]
+}
+```
+

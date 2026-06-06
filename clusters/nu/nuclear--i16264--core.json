@@ -1,0 +1,102 @@
+{
+    "id": "i16264",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "nuclear",
+    "en_definition": "of or relating to or constituting the nucleus of an atom",
+    "tr_word": "nükleer",
+    "tr_definition": "bir atomun çekirdeği ile ilgili olan veya onu oluşturan",
+    "ru_word": "ядерный",
+    "ru_definition": "относящийся к ядру атома или составляющий его",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýadro",
+                    "ýadro-"
+                ],
+                "Uzbek": [
+                    "yadroviy",
+                    "yadro"
+                ],
+                "Uyghur": [
+                    "يادرو",
+                    "يادروغا ئائىت",
+                    "يادروي"
+                ],
+                "Kazakh": [
+                    "ядролық"
+                ],
+                "Kyrgyz": [
+                    "ядролук"
+                ],
+                "Karakalpak": [
+                    "yadrolıq"
+                ],
+                "Bashkir": [
+                    "яҙро",
+                    "яҙроло"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өзектік"
+                ],
+                "Kyrgyz": [
+                    "өзөктүк"
+                ],
+                "Karakalpak": [
+                    "ózeklik"
+                ],
+                "Tatar": [
+                    "үзәк"
+                ],
+                "Bashkir": [
+                    "үҙәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "atom"
+                ],
+                "Turkmen": [
+                    "atom"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nükleer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nüvə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekirdeksel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төш"
+                ]
+            }
+        }
+    ]
+}

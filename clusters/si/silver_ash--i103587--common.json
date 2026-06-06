@@ -1,0 +1,80 @@
+{
+    "id": "i103587",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "silver ash",
+    "en_definition": "any of various timber trees of the genus Flindersia",
+    "tr_word": "gümüş dişbudak",
+    "tr_definition": "Flindersia cinsine ait, kerestesi için yetiştirilen çeşitli ağaç türlerinin ortak adı.",
+    "ru_word": "флиндерсия",
+    "ru_definition": "любое из различных лесоматериальных деревьев рода Flindersia.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gümüş dişbudak",
+                    "gümüşi dişbudak"
+                ],
+                "Azerbaijani": [
+                    "gümüşü göyrüş",
+                    "gümüşü fındıq ağacı"
+                ],
+                "Turkmen": [
+                    "kümüşsöw agaç",
+                    "kümüşi agaç"
+                ],
+                "Uyghur": [
+                    "كۈمۈش كۈل دەرىخى",
+                    "كۈمۈش رەڭلىك كۈل دەرىخى"
+                ],
+                "Kazakh": [
+                    "күміс күл",
+                    "күміс түсті күл ағашы"
+                ],
+                "Kyrgyz": [
+                    "күмүш шумкар"
+                ],
+                "Karakalpak": [
+                    "kúmús kúl",
+                    "kúmús túsli terek"
+                ],
+                "Tatar": [
+                    "көмеш агач"
+                ],
+                "Bashkir": [
+                    "көмөш аш",
+                    "көмөш ағас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kumushrang kul",
+                    "kumushrang daraxt"
+                ],
+                "Tatar": [
+                    "көмешсыман агач"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oq kul"
+                ],
+                "Kyrgyz": [
+                    "ак шумкар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шумкар жыгачы"
+                ]
+            }
+        }
+    ]
+}

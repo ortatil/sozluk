@@ -1,0 +1,133 @@
+{
+    "id": "i112111",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vital sign",
+    "en_definition": "sign of life; usually an indicator of a person's general physical condition",
+    "tr_word": "yaşam bulgusu",
+    "tr_definition": "Bir kişinin genel fiziksel durumunu gösteren hayati belirti.",
+    "ru_word": "жизненно важный показатель",
+    "ru_definition": "показатель состояния основных функций организма человека.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "canlılık işareti"
+                ],
+                "Azerbaijani": [
+                    "canlılıq əlaməti"
+                ],
+                "Turkmen": [
+                    "janlylyk nyşanlary"
+                ],
+                "Uzbek": [
+                    "jon alomati"
+                ],
+                "Uyghur": [
+                    "جانلىقلىق ئالامىتى"
+                ],
+                "Kazakh": [
+                    "жан белгісі"
+                ],
+                "Karakalpak": [
+                    "janlılıq belgisi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaşam belirtisi"
+                ],
+                "Turkmen": [
+                    "ýaşaýyş alamatlary"
+                ],
+                "Kyrgyz": [
+                    "жашоо белгиси"
+                ],
+                "Tatar": [
+                    "яшәү билгесе"
+                ],
+                "Bashkir": [
+                    "йәшәү билдәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayat emaresi",
+                    "hayat belirtisi"
+                ],
+                "Azerbaijani": [
+                    "həyati əlamət",
+                    "həyat nişanəsi"
+                ],
+                "Uzbek": [
+                    "hayotiy belgi",
+                    "hayot alomati",
+                    "hayotiy ko'rsatkich"
+                ],
+                "Uyghur": [
+                    "ھاياتلىق بەلگىسى",
+                    "ھاياتىي كۆرسەتكۈچ"
+                ],
+                "Tatar": [
+                    "хәят галәмәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saglyk görkezijileri"
+                ],
+                "Tatar": [
+                    "терелек билгесе"
+                ],
+                "Bashkir": [
+                    "терелек билдәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тіршілік нышаны"
+                ],
+                "Kyrgyz": [
+                    "тирүүлүк белгиси"
+                ],
+                "Karakalpak": [
+                    "tirshilik belgisi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өмірлік белгі"
+                ],
+                "Kyrgyz": [
+                    "өмүр белгиси"
+                ],
+                "Karakalpak": [
+                    "ómirlik belgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәл-әүәл"
+                ]
+            }
+        }
+    ]
+}

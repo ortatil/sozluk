@@ -1,0 +1,114 @@
+{
+    "id": "i17537",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "digestive",
+    "en_definition": "relating to or having the power to cause or promote digestion",
+    "tr_word": "sindirimle ilgili",
+    "tr_definition": "sindirim sistemine ait olan veya sindirimi kolaylaştıran",
+    "ru_word": "пищеварительный",
+    "ru_definition": "относящийся к пищеварению или способствующий ему",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazmettirici",
+                    "hazım"
+                ],
+                "Azerbaijani": [
+                    "həzm",
+                    "həzmedici",
+                    "həzmə kömək edən"
+                ],
+                "Turkmen": [
+                    "hazym ediji",
+                    "hazym"
+                ],
+                "Uzbek": [
+                    "hazm qiluvchi",
+                    "hazmga oid",
+                    "hazmiy",
+                    "hazm beruvchi"
+                ],
+                "Uyghur": [
+                    "ھەزىم قىلىشقا ئائىت",
+                    "ھەزىملىك",
+                    "ھەزىم قىلغۇچى"
+                ],
+                "Tatar": [
+                    "һазем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ас қорыту",
+                    "ас қорытатын",
+                    "ас сіңіретін"
+                ],
+                "Kyrgyz": [
+                    "аш сиңирүүчү"
+                ],
+                "Karakalpak": [
+                    "as sińirioge baylanıslı",
+                    "as sińirio"
+                ],
+                "Tatar": [
+                    "аш сеңдерү"
+                ],
+                "Bashkir": [
+                    "аш һеңдереүсе",
+                    "аш һеңдереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sindirici"
+                ],
+                "Turkmen": [
+                    "siňdiriji"
+                ],
+                "Kyrgyz": [
+                    "сиңирүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аш кылуучу"
+                ],
+                "Tatar": [
+                    "аш кайнату"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müshil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "as sińirioshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аш эшкәртеүсе"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "id": "i27745",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "wield",
+    "en_definition": "handle effectively",
+    "tr_word": "ustalıkla kullanmak",
+    "tr_definition": "bir aleti veya gücü etkili bir şekilde idare etmek veya kontrol etmek",
+    "ru_word": "умело владеть",
+    "ru_definition": "эффективно использовать инструмент или обладать властью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kullanmak"
+                ],
+                "Turkmen": [
+                    "ulanmak"
+                ],
+                "Uzbek": [
+                    "qoʻllamoq"
+                ],
+                "Uyghur": [
+                    "قوللانماق"
+                ],
+                "Kazakh": [
+                    "қолдану"
+                ],
+                "Kyrgyz": [
+                    "колдонуу"
+                ],
+                "Karakalpak": [
+                    "qoldanıo"
+                ],
+                "Tatar": [
+                    "куллану"
+                ],
+                "Bashkir": [
+                    "ҡулланыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "işlətmək",
+                    "istifadə etmək"
+                ],
+                "Turkmen": [
+                    "işletmek"
+                ],
+                "Uzbek": [
+                    "ishlatmoq"
+                ],
+                "Uyghur": [
+                    "ئىشلەتمەك"
+                ],
+                "Kyrgyz": [
+                    "иштетүү"
+                ],
+                "Karakalpak": [
+                    "isletio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "boshqarmoq"
+                ],
+                "Uyghur": [
+                    "باشقارماق"
+                ],
+                "Kazakh": [
+                    "басқару"
+                ],
+                "Kyrgyz": [
+                    "башкаруу"
+                ],
+                "Karakalpak": [
+                    "basqarıo"
+                ],
+                "Bashkir": [
+                    "башҡарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "idare etmek"
+                ],
+                "Azerbaijani": [
+                    "idarə etmək"
+                ],
+                "Tatar": [
+                    "идарә итү"
+                ],
+                "Bashkir": [
+                    "идара итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "жүргүзүү"
+                ],
+                "Karakalpak": [
+                    "júrgizio"
+                ],
+                "Tatar": [
+                    "йөртү"
+                ],
+                "Bashkir": [
+                    "йөрөтөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tutmoq"
+                ],
+                "Uyghur": [
+                    "تۇتماق"
+                ],
+                "Tatar": [
+                    "тоту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yönetmek"
+                ],
+                "Azerbaijani": [
+                    "oynatmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "evirip çevirmek"
+                ],
+                "Azerbaijani": [
+                    "çevirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "иелену"
+                ],
+                "Kyrgyz": [
+                    "ээлик кылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "peýdalanmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dolandyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "меңгеру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмсау"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "id": "i18462",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "by machine",
+    "en_definition": "with the use of a machine",
+    "tr_word": "makineyle",
+    "tr_definition": "bir makine kullanarak, makine yardımıyla",
+    "ru_word": "машинным способом",
+    "ru_definition": "с использованием машины или механизма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "makineyle",
+                    "makine aracılığıyla",
+                    "mekanik olarak"
+                ],
+                "Azerbaijani": [
+                    "mexaniki olaraq"
+                ],
+                "Uzbek": [
+                    "mashina orqali",
+                    "mashina yordamida",
+                    "mexanik ravishda"
+                ],
+                "Uyghur": [
+                    "ماشىنىدا",
+                    "ماشىنا بىلەن"
+                ],
+                "Kazakh": [
+                    "мәшинемен"
+                ],
+                "Kyrgyz": [
+                    "машина менен"
+                ],
+                "Karakalpak": [
+                    "mashina menen",
+                    "mexanikalıq túrde"
+                ],
+                "Tatar": [
+                    "машина белән"
+                ],
+                "Bashkir": [
+                    "машина менән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "техникамен"
+                ],
+                "Kyrgyz": [
+                    "техникалык жол менен"
+                ],
+                "Karakalpak": [
+                    "texnika járdeminde"
+                ],
+                "Tatar": [
+                    "техника ярдәмендә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maşınla"
+                ],
+                "Turkmen": [
+                    "maşyn bilen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құрылғымен"
+                ],
+                "Bashkir": [
+                    "ҡорамал менән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cihazla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "enjam arkaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "автоматтык түрдө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җайланма белән"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "id": "i50459",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "barbershop",
+    "en_definition": "a shop where men can get their hair cut",
+    "tr_word": "berber",
+    "tr_definition": "erkeklerin saç ve sakal tıraşı oldukları dükkân",
+    "ru_word": "парикмахерская",
+    "ru_definition": "заведение, где мужчины могут подстричься",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "berber",
+                    "berber dükkanı"
+                ],
+                "Azerbaijani": [
+                    "bərbərxana"
+                ],
+                "Turkmen": [
+                    "berberhana"
+                ],
+                "Kyrgyz": [
+                    "берберкана"
+                ],
+                "Tatar": [
+                    "бәрбәрханә"
+                ],
+                "Bashkir": [
+                    "бәрбәрхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sartaroshxona",
+                    "sartaroshxona do'koni"
+                ],
+                "Kyrgyz": [
+                    "чачтарачкана"
+                ],
+                "Karakalpak": [
+                    "sártarashxana"
+                ],
+                "Tatar": [
+                    "чвчтарашханә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəlləkxana"
+                ],
+                "Turkmen": [
+                    "dellekhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ساتىراچخانا"
+                ],
+                "Kazakh": [
+                    "шаштараз",
+                    "шаштаразхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shash alıo ornı"
+                ],
+                "Bashkir": [
+                    "сәс алыу урыны",
+                    "сәс киҫтереү урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "erkek kuaförü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بەدەلكەشخانا"
+                ]
+            }
+        }
+    ]
+}

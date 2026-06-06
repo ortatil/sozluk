@@ -1,0 +1,182 @@
+# Aftertaste
+| Field | Detail |
+|---|---|
+| **ID** | i68031 |
+| **English** | aftertaste |
+| **Type** | noun |
+| **Definition** | an afterimage of a taste |
+| **Source** | common |
+| **Ortatil** | täm |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **täm** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.63** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| дәм | däm |
+| **Kyrgyz** | |
+| даам | daam |
+| **Bashkir** | |
+| тәм | täm |
+
+```json
+{
+    "id": "i68031",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "aftertaste",
+    "en_definition": "an afterimage of a taste",
+    "tr_word": "ağızda kalan tat",
+    "tr_definition": "bir şey yendikten veya içildikten sonra ağızda kalan lezzet",
+    "ru_word": "послевкусие",
+    "ru_definition": "вкусовое ощущение, остающееся во рту некоторое время после еды или питья",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dad",
+                    "tam"
+                ],
+                "Uzbek": [
+                    "ta'm"
+                ],
+                "Uyghur": [
+                    "تەم قالدۇقى"
+                ],
+                "Kazakh": [
+                    "дәм"
+                ],
+                "Kyrgyz": [
+                    "даам"
+                ],
+                "Karakalpak": [
+                    "dámi"
+                ],
+                "Tatar": [
+                    "тәм калдыгы",
+                    "тәм аңкышы"
+                ],
+                "Bashkir": [
+                    "тәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "art tat"
+                ],
+                "Kyrgyz": [
+                    "арткы даам"
+                ],
+                "Karakalpak": [
+                    "artqı dám"
+                ],
+                "Tatar": [
+                    "арткы тәм"
+                ],
+                "Bashkir": [
+                    "артҡы тәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağızda kalan tat"
+                ],
+                "Uzbek": [
+                    "og'izdagi ta'm"
+                ],
+                "Uyghur": [
+                    "ئېغىزدا قالغان تەم"
+                ],
+                "Kazakh": [
+                    "ауыз дәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كېيىنكى تەم"
+                ],
+                "Kazakh": [
+                    "кейінгі дәм"
+                ],
+                "Kyrgyz": [
+                    "кийинки даам"
+                ],
+                "Karakalpak": [
+                    "keyingi dám"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ləzzət"
+                ],
+                "Turkmen": [
+                    "lezzet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qoldiq ta'm"
+                ],
+                "Bashkir": [
+                    "ҡалдыҡ тәм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "son tat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tagam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yz"
+                ]
+            }
+        }
+    ]
+}
+```
+

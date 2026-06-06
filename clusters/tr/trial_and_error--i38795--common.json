@@ -1,0 +1,105 @@
+{
+    "id": "i38795",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trial and error",
+    "en_definition": "experimenting until a solution is found",
+    "tr_word": "deneme yanılma",
+    "tr_definition": "bir çözüme ulaşana kadar farklı yöntemleri deneyip hatalardan ders çıkarma yöntemi",
+    "ru_word": "метод проб и ошибок",
+    "ru_definition": "метод поиска решения задачи путем перебора различных вариантов до достижения нужного результата",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tecrübe"
+                ],
+                "Azerbaijani": [
+                    "təcrübə-sınaq"
+                ],
+                "Turkmen": [
+                    "tejribe we ýalňyşlyk"
+                ],
+                "Uzbek": [
+                    "tajriba va xato"
+                ],
+                "Uyghur": [
+                    "تەجرىبە-سىناق"
+                ],
+                "Kazakh": [
+                    "тәжірибе жасау"
+                ],
+                "Kyrgyz": [
+                    "тажрыйба"
+                ],
+                "Karakalpak": [
+                    "tájiriybe"
+                ],
+                "Tatar": [
+                    "тәҗрибә"
+                ],
+                "Bashkir": [
+                    "тәжрибә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınama"
+                ],
+                "Azerbaijani": [
+                    "sınaq-yanılma"
+                ],
+                "Turkmen": [
+                    "synag we ýalňyşlyk",
+                    "synap görmek"
+                ],
+                "Uzbek": [
+                    "sinov va xato",
+                    "sinab ko'rish"
+                ],
+                "Uyghur": [
+                    "سىناپ كۆرۈش",
+                    "سىناش ۋە خاتالىق"
+                ],
+                "Kazakh": [
+                    "сынап көру",
+                    "сынақ пен қателік"
+                ],
+                "Kyrgyz": [
+                    "сынап көрүү",
+                    "сынап-билүү"
+                ],
+                "Karakalpak": [
+                    "sınap kório",
+                    "sınaq"
+                ],
+                "Tatar": [
+                    "сынап карау",
+                    "сынау"
+                ],
+                "Bashkir": [
+                    "һынап ҡарау",
+                    "һынау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deneme yanılma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yoxlama-düzəltmə"
+                ]
+            }
+        }
+    ]
+}

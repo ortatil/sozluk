@@ -1,0 +1,155 @@
+{
+    "id": "i31634",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "drive in",
+    "en_definition": "arrive by motorcar",
+    "tr_word": "arabayla gelmek",
+    "tr_definition": "bir yere motorlu bir araç kullanarak varmak",
+    "ru_word": "заезжать",
+    "ru_definition": "прибывать куда-либо на автомобиле",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gelmek"
+                ],
+                "Kazakh": [
+                    "келу"
+                ],
+                "Kyrgyz": [
+                    "келүү"
+                ],
+                "Karakalpak": [
+                    "kelip toqtau"
+                ],
+                "Tatar": [
+                    "килеп җитү",
+                    "килеп керү",
+                    "килү"
+                ],
+                "Bashkir": [
+                    "килеп етеү",
+                    "килеп инеү",
+                    "килеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtomobillə gəlmək"
+                ],
+                "Kazakh": [
+                    "айдап келу"
+                ],
+                "Kyrgyz": [
+                    "айдап келүү"
+                ],
+                "Karakalpak": [
+                    "aydap keliu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kirib kelmoq"
+                ],
+                "Uyghur": [
+                    "كىرىپ كېلىش"
+                ],
+                "Kazakh": [
+                    "кіру"
+                ],
+                "Karakalpak": [
+                    "kirip keliu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürerek gelmek"
+                ],
+                "Azerbaijani": [
+                    "sürərək gəlmək"
+                ],
+                "Turkmen": [
+                    "sürüp gelmek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "maşınla gəlmək"
+                ],
+                "Uzbek": [
+                    "mashinada kelmoq"
+                ],
+                "Uyghur": [
+                    "ماشىنا بىلەن كېلىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yetib kelmoq"
+                ],
+                "Kazakh": [
+                    "жету"
+                ],
+                "Kyrgyz": [
+                    "жетип келүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "haydab kelmoq"
+                ],
+                "Uyghur": [
+                    "ھەيدەپ كېلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arabayla gelmek",
+                    "araçla gelmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vasıtayla gelmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "daxil olmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ulagly gelmek"
+                ]
+            }
+        }
+    ]
+}

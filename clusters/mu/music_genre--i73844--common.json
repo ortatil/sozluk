@@ -1,0 +1,94 @@
+{
+    "id": "i73844",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "music genre",
+    "en_definition": "an expressive style of music",
+    "tr_word": "müzik türü",
+    "tr_definition": "belirli bir üslup, teknik veya içerik özelliklerine göre sınıflandırılan müzik kategorisi",
+    "ru_word": "музыкальный жанр",
+    "ru_definition": "категория музыкальных произведений, выделяемая по определенным стилистическим или содержательным признакам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müzik türü",
+                    "müzik tarzı",
+                    "müzik üslubu"
+                ],
+                "Azerbaijani": [
+                    "musiqi janrı",
+                    "musiqi üslubu",
+                    "musiqi tərzi"
+                ],
+                "Uzbek": [
+                    "musiqa uslubi",
+                    "musiqa yo'nalishi",
+                    "musiqa turi"
+                ],
+                "Uyghur": [
+                    "مۇزىكا ئۇسلۇبى",
+                    "مۇزىكا تۈرى",
+                    "مۇزىكا ژانىرى"
+                ],
+                "Kazakh": [
+                    "музыкалық жанр",
+                    "музыка бағыты"
+                ],
+                "Kyrgyz": [
+                    "музыкалык багыт",
+                    "музыкалык түр",
+                    "музыкалык жанр"
+                ],
+                "Karakalpak": [
+                    "muzıka janrı",
+                    "muzıka túri"
+                ],
+                "Tatar": [
+                    "музыка жанры",
+                    "музыка стиле"
+                ],
+                "Bashkir": [
+                    "музыкаль жанр",
+                    "музыка төрө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "saz usluby"
+                ],
+                "Karakalpak": [
+                    "saz túri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көй төре"
+                ],
+                "Bashkir": [
+                    "көй төрө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "saz žanry",
+                    "saz görnüşi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуен түрі"
+                ]
+            }
+        }
+    ]
+}

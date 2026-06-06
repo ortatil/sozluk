@@ -1,0 +1,128 @@
+# Uppercase
+| Field | Detail |
+|---|---|
+| **ID** | i72357 |
+| **English** | uppercase |
+| **Type** | noun |
+| **Definition** | one of the large alphabetic characters used as the first letter in writing or printing proper names and sometimes for emphasis |
+| **Source** | common |
+| **Ortatil** | maciskil |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i72357",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "uppercase",
+    "en_definition": "one of the large alphabetic characters used as the first letter in writing or printing proper names and sometimes for emphasis",
+    "tr_word": "büyük harf",
+    "tr_definition": "Yazıda veya basımda özel adların ilk harfi olarak veya bazen vurgu amacıyla kullanılan büyük alfabetik karakterlerden her biri.",
+    "ru_word": "прописная буква",
+    "ru_definition": "Одна из заглавных букв алфавита, используемая в начале имен собственных или для выделения текста.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "baş hərf"
+                ],
+                "Turkmen": [
+                    "baş harp"
+                ],
+                "Uzbek": [
+                    "bosh harf"
+                ],
+                "Uyghur": [
+                    "باش ھەرپ"
+                ],
+                "Kazakh": [
+                    "бас әріп"
+                ],
+                "Karakalpak": [
+                    "bas hárip"
+                ],
+                "Tatar": [
+                    "баш хәреф"
+                ],
+                "Bashkir": [
+                    "баш хәреф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uly harp"
+                ],
+                "Kazakh": [
+                    "үлкен әріп"
+                ],
+                "Karakalpak": [
+                    "úlken hárip"
+                ],
+                "Bashkir": [
+                    "оло хәреф"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyük harf"
+                ],
+                "Azerbaijani": [
+                    "böyük hərf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "majüskül"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta harf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ ھەرپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "баш тамга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чоң тамга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зур хәреф"
+                ]
+            }
+        }
+    ]
+}
+```
+

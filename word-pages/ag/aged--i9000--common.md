@@ -1,0 +1,219 @@
+# Aged
+| Field | Detail |
+|---|---|
+| **ID** | i9000 |
+| **English** | aged |
+| **Type** | adjective |
+| **Definition** | advanced in years; (`aged' is pronounced as two syllables) |
+| **Source** | common |
+| **Ortatil** | yaşlı, qari |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **yaşlı** | **qari** | **qart** | **pir** | **olu** |
+|---|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ✅ | ❌ | ❌ |
+| Kyrgyz | ❌ | ✅ | ✅ | ❌ | ✅ |
+| Karakalpak | ❌ | ❌ | ✅ | ❌ | ❌ |
+| Tatar | ✅ | ❌ | ✅ | ❌ | ✅ |
+| Bashkir | ❌ | ❌ | ✅ | ❌ | ✅ |
+| *Oghuz Subtotal* | 1 | 1 | 0.33 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 0 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.20 | 1 | 0 | 0.60 |
+| *In All* | ✅ | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ |  |  |
+| **O'TQ** | **3.20** | **3.20** | **1.83** | **1.50** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ياشانغان | yaşanğan |
+| قېرى | qeri |
+| پېشقەدەم | peşqädäm |
+| **Kazakh** | |
+| қарт | qart |
+| кәрі | käri |
+| егде | yegde |
+| **Kyrgyz** | |
+| кары | karı |
+| карыган | karıgan |
+| кары-картаң | karı-kartañ |
+| улгайган | ulgaygan |
+| **Tatar** | |
+| яшьле | yaşle |
+| карт | kart |
+| кәр | kär |
+| олы | olı |
+| **Bashkir** | |
+| ҡарт | qart |
+| ҡарт-ҡоро | qart-qoro |
+| оло | olo |
+| өлкән | ölkän |
+
+```json
+{
+    "id": "i9000",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "aged",
+    "en_definition": "advanced in years; (`aged' is pronounced as two syllables)",
+    "tr_word": "yaşlı",
+    "tr_definition": "Yılları ilerlemiş, çok yaşamış olan kimse.",
+    "ru_word": "престарелый",
+    "ru_definition": "Достигший старости, очень пожилой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaşlı"
+                ],
+                "Azerbaijani": [
+                    "yaşlı"
+                ],
+                "Turkmen": [
+                    "ýaşuly"
+                ],
+                "Uzbek": [
+                    "yoshli"
+                ],
+                "Uyghur": [
+                    "ياشانغان"
+                ],
+                "Kazakh": [
+                    "жасы келген"
+                ],
+                "Karakalpak": [
+                    "jası úlken"
+                ],
+                "Tatar": [
+                    "яшьле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koca"
+                ],
+                "Azerbaijani": [
+                    "qoca"
+                ],
+                "Turkmen": [
+                    "goja"
+                ],
+                "Uzbek": [
+                    "qari"
+                ],
+                "Uyghur": [
+                    "قېرى"
+                ],
+                "Kyrgyz": [
+                    "кары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "garry"
+                ],
+                "Kazakh": [
+                    "қарт",
+                    "кәрі"
+                ],
+                "Kyrgyz": [
+                    "карыган",
+                    "кары-картаң"
+                ],
+                "Karakalpak": [
+                    "kárі",
+                    "qart"
+                ],
+                "Tatar": [
+                    "карт",
+                    "кәр"
+                ],
+                "Bashkir": [
+                    "ҡарт",
+                    "ҡарт-ҡоро"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pir"
+                ],
+                "Azerbaijani": [
+                    "pir"
+                ],
+                "Turkmen": [
+                    "pirdar"
+                ],
+                "Uzbek": [
+                    "pir"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "улгайган"
+                ],
+                "Tatar": [
+                    "олы"
+                ],
+                "Bashkir": [
+                    "оло",
+                    "өлкән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ihtiyar"
+                ],
+                "Azerbaijani": [
+                    "ixtiyar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "keksa"
+                ],
+                "Karakalpak": [
+                    "kemel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پېشقەدەم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "егде"
+                ]
+            }
+        }
+    ]
+}
+```
+

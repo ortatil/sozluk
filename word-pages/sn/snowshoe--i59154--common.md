@@ -1,0 +1,125 @@
+# Snowshoe
+| Field | Detail |
+|---|---|
+| **ID** | i59154 |
+| **English** | snowshoe |
+| **Type** | noun |
+| **Definition** | a device to help you walk on deep snow; a lightweight frame shaped like a racquet is strengthened with cross pieces and contains a network of thongs; one is worn on each foot |
+| **Source** | common |
+| **Ortatil** | şañğı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қарғы | qarğı |
+| шаңғы | şañğı |
+| **Bashkir** | |
+| табан | taban |
+
+```json
+{
+    "id": "i59154",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snowshoe",
+    "en_definition": "a device to help you walk on deep snow; a lightweight frame shaped like a racquet is strengthened with cross pieces and contains a network of thongs; one is worn on each foot",
+    "tr_word": "kar ayakkabısı",
+    "tr_definition": "Derin karda batmadan yürümeye yardımcı olan, raket şeklinde, hafif ve geniş ayaklık.",
+    "ru_word": "снегоступ",
+    "ru_definition": "Приспособление для передвижения по глубокому снегу в виде широкой рамы с сеткой, надеваемое на ноги.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar ayakkabısı"
+                ],
+                "Azerbaijani": [
+                    "qar ayaqqabısı"
+                ],
+                "Turkmen": [
+                    "gar aýakgyby"
+                ],
+                "Uzbek": [
+                    "qor poyabzali",
+                    "qorda yurish moslamasi"
+                ],
+                "Uyghur": [
+                    "قار ئايىغى",
+                    "قار چانىسى",
+                    "قاردا مېڭىش ئايىغى"
+                ],
+                "Kazakh": [
+                    "қар аяқ",
+                    "қарғы"
+                ],
+                "Kyrgyz": [
+                    "кар аяк",
+                    "кар кечме",
+                    "кар баскыч"
+                ],
+                "Karakalpak": [
+                    "qar ayaq kiyimi"
+                ],
+                "Tatar": [
+                    "кар аяк",
+                    "кар чанасы",
+                    "кар аяк киеме"
+                ],
+                "Bashkir": [
+                    "ҡар аяғы",
+                    "ҡар саңғыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar raketi"
+                ],
+                "Azerbaijani": [
+                    "qar raketi",
+                    "qar pəncəsi"
+                ],
+                "Turkmen": [
+                    "gar süzgüji"
+                ],
+                "Uzbek": [
+                    "qor chang'isi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шаңғы"
+                ],
+                "Karakalpak": [
+                    "shańǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "leken"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "табан"
+                ]
+            }
+        }
+    ]
+}
+```
+

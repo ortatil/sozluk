@@ -1,0 +1,85 @@
+{
+    "id": "i78331",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cheese sauce",
+    "en_definition": "white sauce with grated cheese",
+    "tr_word": "peynir sosu",
+    "tr_definition": "rendelenmiş peynir ile hazırlanan beyaz sos",
+    "ru_word": "сырный соус",
+    "ru_definition": "белый соус с добавлением тертого сыра",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "сыр соусу"
+                ],
+                "Karakalpak": [
+                    "sırlı sous"
+                ],
+                "Tatar": [
+                    "сыр соусы",
+                    "сырлы соус",
+                    "сырлы подлива"
+                ],
+                "Bashkir": [
+                    "сыр соусы",
+                    "сырлы соус",
+                    "сырлы подлива"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "peynir sosu",
+                    "peynirli sos"
+                ],
+                "Azerbaijani": [
+                    "pendir sousu",
+                    "pendirli sous"
+                ],
+                "Turkmen": [
+                    "peýnirli sous",
+                    "peýnirli şüre"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "pishloqli qayla",
+                    "pishloqli sous"
+                ],
+                "Uyghur": [
+                    "پىشلاق قىيامى",
+                    "پىشلاقلىق قىيام"
+                ],
+                "Kyrgyz": [
+                    "быштак чыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ірімшік тұздығы",
+                    "ірімшік соусы"
+                ],
+                "Karakalpak": [
+                    "іrіmshіk sousı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сыр чыгы"
+                ]
+            }
+        }
+    ]
+}

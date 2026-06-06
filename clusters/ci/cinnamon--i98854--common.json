@@ -1,0 +1,69 @@
+{
+    "id": "i98854",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cinnamon",
+    "en_definition": "aromatic bark used as a spice",
+    "tr_word": "tarçın",
+    "tr_definition": "Baharat olarak kullanılan aromatik ağaç kabuğu",
+    "ru_word": "корица",
+    "ru_definition": "ароматная кора, используемая в качестве специи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarçın",
+                    "darçın"
+                ],
+                "Azerbaijani": [
+                    "darçın"
+                ],
+                "Turkmen": [
+                    "darçyn"
+                ],
+                "Uzbek": [
+                    "dolchin",
+                    "darchin"
+                ],
+                "Uyghur": [
+                    "دارچىن",
+                    "دارچىنى"
+                ],
+                "Kazakh": [
+                    "даршын"
+                ],
+                "Kyrgyz": [
+                    "дарчын"
+                ],
+                "Karakalpak": [
+                    "darshın",
+                    "darshın qabıǵı"
+                ],
+                "Tatar": [
+                    "дарчин"
+                ],
+                "Bashkir": [
+                    "дарсын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "корица"
+                ],
+                "Tatar": [
+                    "корица"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡабыҡ"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": "i14426",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "jawless",
+    "en_definition": "of animals having no jaw",
+    "tr_word": "çenesiz",
+    "tr_definition": "çenesi olmayan hayvanlar için kullanılan sıfat",
+    "ru_word": "бесчелюстной",
+    "ru_definition": "относящийся к животным, у которых отсутствует челюсть",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "jag'siz"
+                ],
+                "Uyghur": [
+                    "جاغسىز"
+                ],
+                "Kazakh": [
+                    "жақсыз",
+                    "иексіз"
+                ],
+                "Kyrgyz": [
+                    "жааксыз"
+                ],
+                "Karakalpak": [
+                    "jaqsız"
+                ],
+                "Tatar": [
+                    "авызсыз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çenesiz",
+                    "çenesi olmayan"
+                ],
+                "Azerbaijani": [
+                    "çənəsiz"
+                ],
+                "Turkmen": [
+                    "äňsiz"
+                ],
+                "Uyghur": [
+                    "ئېڭەكسىز"
+                ],
+                "Tatar": [
+                    "яңаксыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "biçənə"
+                ],
+                "Uzbek": [
+                    "bejag'"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "äňi ýok"
+                ],
+                "Kyrgyz": [
+                    "ээги жок"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "iyeksiz"
+                ],
+                "Bashkir": [
+                    "ауыҙһыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яңаҡһыҙ"
+                ]
+            }
+        }
+    ]
+}

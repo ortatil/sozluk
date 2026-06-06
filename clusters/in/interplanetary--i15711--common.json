@@ -1,0 +1,85 @@
+{
+    "id": "i15711",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "interplanetary",
+    "en_definition": "between or among planets",
+    "tr_word": "gezegenler arası",
+    "tr_definition": "gezegenlerin arasında veya aralarında olan",
+    "ru_word": "межпланетный",
+    "ru_definition": "находящийся или совершающийся между планетами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "planetlərarası"
+                ],
+                "Turkmen": [
+                    "planetalarara"
+                ],
+                "Uyghur": [
+                    "پىلانېتىلار ئارا"
+                ],
+                "Kazakh": [
+                    "планетааралық"
+                ],
+                "Kyrgyz": [
+                    "планеталар аралык",
+                    "планеталар арасындагы"
+                ],
+                "Karakalpak": [
+                    "planetalar aralıq",
+                    "planetalararalıq"
+                ],
+                "Tatar": [
+                    "планетаара",
+                    "планеталар ара"
+                ],
+                "Bashkir": [
+                    "планета-ара",
+                    "планеталар-ара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seyyareler arası"
+                ],
+                "Azerbaijani": [
+                    "səyyarələrarası"
+                ],
+                "Uzbek": [
+                    "sayyoralararo",
+                    "sayyoralar o'rtasidagi"
+                ],
+                "Uyghur": [
+                    "سەييارىلەر ئارا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gezegenler arası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "älemara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ғаламшараралық"
+                ]
+            }
+        }
+    ]
+}

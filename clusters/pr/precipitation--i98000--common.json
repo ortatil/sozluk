@@ -1,0 +1,94 @@
+{
+    "id": "i98000",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "precipitation",
+    "en_definition": "the falling to earth of any form of water (rain or snow or hail or sleet or mist)",
+    "tr_word": "yağış",
+    "tr_definition": "Havadaki su buharının yoğunlaşarak sıvı veya katı durumda yeryüzüne düşmesi.",
+    "ru_word": "осадки",
+    "ru_definition": "Вода, выпавшая на поверхность Земли из облаков в виде дождя, снега, града и т. д.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağış",
+                    "yağmur"
+                ],
+                "Azerbaijani": [
+                    "yağıntı",
+                    "yağış",
+                    "yağmur"
+                ],
+                "Turkmen": [
+                    "ýagyn",
+                    "ýagyn-çaçyn"
+                ],
+                "Uzbek": [
+                    "yogʻin",
+                    "yogʻingarchilik",
+                    "yogʻin-sochin"
+                ],
+                "Uyghur": [
+                    "ياغىن",
+                    "ياغىن-چېچىن",
+                    "يېغىن"
+                ],
+                "Kazakh": [
+                    "жауын-шашын",
+                    "жауын"
+                ],
+                "Karakalpak": [
+                    "jaoın-shashın",
+                    "jaoın",
+                    "jaoıngarshılıq"
+                ],
+                "Tatar": [
+                    "явым-төшем",
+                    "явым",
+                    "яуын"
+                ],
+                "Bashkir": [
+                    "яуым-төшөм",
+                    "яуын",
+                    "яуым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nüzul"
+                ],
+                "Kazakh": [
+                    "нөсер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rahmet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ygallyk",
+                    "ygal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жаан-чачын",
+                    "жаан",
+                    "жаан-кур"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": "i39266",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "german lesson",
+    "en_definition": "instruction in the German language",
+    "tr_word": "Almanca dersi",
+    "tr_definition": "Alman dili eğitimi veya dersi",
+    "ru_word": "урок немецкого языка",
+    "ru_definition": "обучение немецкому языку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nemes dili sapagy",
+                    "nemesçe sapak"
+                ],
+                "Uzbek": [
+                    "nemis tili darsi",
+                    "nemis tili sabog'i"
+                ],
+                "Kazakh": [
+                    "неміс тілі сабағы",
+                    "неміс тілі дәрісі"
+                ],
+                "Kyrgyz": [
+                    "немис тили сабагы",
+                    "немис тили дарсы"
+                ],
+                "Karakalpak": [
+                    "nemis tili sabaǵı",
+                    "nemis tili dárisi"
+                ],
+                "Bashkir": [
+                    "немец теле дәресе",
+                    "немец теле сабағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Almanca dersi",
+                    "Almanca eğitimi",
+                    "Almanca öğretimi"
+                ],
+                "Azerbaijani": [
+                    "alman dili dərsi",
+                    "alman dili məşğələsi"
+                ],
+                "Uzbek": [
+                    "olmon tili darsi"
+                ],
+                "Tatar": [
+                    "алман теле дәресе",
+                    "алманча дәрес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گېرمان تىلى دەرسى",
+                    "گېرمانچە دەرس"
+                ]
+            }
+        }
+    ]
+}

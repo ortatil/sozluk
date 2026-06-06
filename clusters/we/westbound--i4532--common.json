@@ -1,0 +1,87 @@
+{
+    "id": "i4532",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "westbound",
+    "en_definition": "moving toward the west",
+    "tr_word": "batı yönüne giden",
+    "tr_definition": "batıya doğru hareket eden",
+    "ru_word": "направляющийся на запад",
+    "ru_definition": "движущийся в западном направлении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "günbatara tarap",
+                    "günbatara ugraýan",
+                    "günbatar ugruna"
+                ],
+                "Uzbek": [
+                    "kunbotar tomon"
+                ],
+                "Karakalpak": [
+                    "kúnbatısqa baǵıttalǵan",
+                    "kúnbatısqa qaray",
+                    "kúnbatıs betkey"
+                ],
+                "Tatar": [
+                    "көнбатышка таба",
+                    "көнбатыш юнәлешле",
+                    "көнбатышка юнәлгән"
+                ],
+                "Bashkir": [
+                    "көнбайышҡа табан",
+                    "көнбайышҡа йүнәлгән",
+                    "көнбайыш яғына"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "batıya giden",
+                    "batı yönündeki",
+                    "batı istikametindeki"
+                ],
+                "Kazakh": [
+                    "батысқа бағытталған",
+                    "батысқа бет алған",
+                    "батысқа қарай"
+                ],
+                "Kyrgyz": [
+                    "батышты көздөй",
+                    "батыш тарапка",
+                    "батышка багытталган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qərbə doğru",
+                    "qərb istiqamətində",
+                    "qərbə gedən",
+                    "qərb yönümlü"
+                ],
+                "Uzbek": [
+                    "g'arbga yo'nalgan",
+                    "g'arb tomon"
+                ],
+                "Uyghur": [
+                    "غەربكە قاراپ ماڭغان",
+                    "غەربكە يۈزلەنگەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "غەرب تەرەپكە ماڭىدىغان"
+                ]
+            }
+        }
+    ]
+}

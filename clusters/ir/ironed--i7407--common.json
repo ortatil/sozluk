@@ -1,0 +1,109 @@
+{
+    "id": "i7407",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "ironed",
+    "en_definition": "(of linens or clothes) smoothed with a hot iron",
+    "tr_word": "ütülü",
+    "tr_definition": "sıcak bir ütü ile düzeltilmiş (çamaşır veya giysi)",
+    "ru_word": "глаженый",
+    "ru_definition": "выглаженный горячим утюгом (о белье или одежде)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ütülü"
+                ],
+                "Azerbaijani": [
+                    "ütülü"
+                ],
+                "Turkmen": [
+                    "ütüklenen",
+                    "ütükli"
+                ],
+                "Uyghur": [
+                    "ئۈتۈكلەنگەن",
+                    "ئۈتۈكلۈك"
+                ],
+                "Kazakh": [
+                    "үтіктелген"
+                ],
+                "Kyrgyz": [
+                    "үтүктөлгөн",
+                    "үтүктүү"
+                ],
+                "Karakalpak": [
+                    "útiklengen"
+                ],
+                "Tatar": [
+                    "үтүкләнгән",
+                    "үтүкле"
+                ],
+                "Bashkir": [
+                    "үтүкләнгән",
+                    "үтүкләнгән-һөртөлгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tekislangan"
+                ],
+                "Kazakh": [
+                    "тегістелген"
+                ],
+                "Karakalpak": [
+                    "tegislengen"
+                ],
+                "Bashkir": [
+                    "тигеҙләнгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "düzlenmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mücella"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hamarlanmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dazmollangan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жазылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яньчелгән"
+                ]
+            }
+        }
+    ]
+}

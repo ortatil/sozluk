@@ -1,0 +1,109 @@
+{
+    "id": "i57686",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "prison camp",
+    "en_definition": "a camp for prisoners of war",
+    "tr_word": "esir kampı",
+    "tr_definition": "savaş esirlerinin tutulduğu kamp",
+    "ru_word": "лагерь для военнопленных",
+    "ru_definition": "место содержания под стражей взятых в плен военнослужащих противника",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "esir kampı",
+                    "esir kışlası"
+                ],
+                "Azerbaijani": [
+                    "əsir düşərgəsi",
+                    "əsirxana"
+                ],
+                "Turkmen": [
+                    "ýesirler düşelgesi",
+                    "ýesirhana"
+                ],
+                "Uzbek": [
+                    "asirlar lageri",
+                    "asirxona"
+                ],
+                "Uyghur": [
+                    "ئەسىرلەر لاگېرى",
+                    "ئەسىرگاھ"
+                ],
+                "Tatar": [
+                    "әсирләр лагере",
+                    "әсирханә"
+                ],
+                "Bashkir": [
+                    "әсирҙәр лагеры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tutsak kampı"
+                ],
+                "Turkmen": [
+                    "tussaglar düşelgesi"
+                ],
+                "Kazakh": [
+                    "тұтқындар лагері",
+                    "тұтқын орны"
+                ],
+                "Kyrgyz": [
+                    "туткундар лагери",
+                    "туткун жайы"
+                ],
+                "Karakalpak": [
+                    "tұtqın lageri",
+                    "tұtqınxana"
+                ],
+                "Bashkir": [
+                    "тотҡондар лагеры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tutqungoh"
+                ],
+                "Uyghur": [
+                    "تۇتقۇنلار لاگېرى"
+                ],
+                "Kazakh": [
+                    "тұтқын лагері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төрмә лагере"
+                ],
+                "Bashkir": [
+                    "төрмә лагеры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbi əsir düşərgəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "абак"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+# Claustrophobia
+| Field | Detail |
+|---|---|
+| **ID** | i112588 |
+| **English** | claustrophobia |
+| **Type** | noun |
+| **Definition** | a morbid fear of being closed in a confined space |
+| **Source** | common |
+| **Ortatil** | sıhıntı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i112588",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "claustrophobia",
+    "en_definition": "a morbid fear of being closed in a confined space",
+    "tr_word": "klostrofobi",
+    "tr_definition": "kapalı veya dar alanlarda kalma korkusu",
+    "ru_word": "клаустрофобия",
+    "ru_definition": "боязнь замкнутого или тесного пространства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dar yer qorxusu"
+                ],
+                "Turkmen": [
+                    "dar ýer gorkusy"
+                ],
+                "Uzbek": [
+                    "torlikdan qo'rqish",
+                    "torlik vahimasi"
+                ],
+                "Uyghur": [
+                    "تارلىق قورقۇنچى",
+                    "تار جايدىن قورقۇش",
+                    "تارلىق ۋەھىمىسى"
+                ],
+                "Kazakh": [
+                    "тарлықтан қорқу",
+                    "тар жерден қорқу",
+                    "тарлық үрейі"
+                ],
+                "Kyrgyz": [
+                    "тардыктан коркуу",
+                    "тар жерден коркуу"
+                ],
+                "Karakalpak": [
+                    "tarlıqtan qorqınısh",
+                    "tar jerden qorqu",
+                    "tarlıq úreyі"
+                ],
+                "Tatar": [
+                    "тарлыктан курку",
+                    "тар урыннан курку"
+                ],
+                "Bashkir": [
+                    "тарлыҡтан ҡурҡыу",
+                    "тарлыҡ ҡурҡыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýapyk ýer gorkusy"
+                ],
+                "Uzbek": [
+                    "yopiq joydan qo'rqish"
+                ],
+                "Tatar": [
+                    "ябык урыннан курку"
+                ],
+                "Bashkir": [
+                    "ябыҡ урындан ҡурҡыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kapalı alan korkusu",
+                    "dar alan korkusu"
+                ],
+                "Azerbaijani": [
+                    "qapalı yer qorxusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gysyk ýer gorkusy"
+                ],
+                "Kyrgyz": [
+                    "кысыктан коркуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sıxıntı"
+                ]
+            }
+        }
+    ]
+}
+```
+

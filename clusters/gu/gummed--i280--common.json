@@ -1,0 +1,108 @@
+{
+    "id": "i280",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "gummed",
+    "en_definition": "covered with adhesive gum",
+    "tr_word": "zamklı",
+    "tr_definition": "yapışkan bir madde veya zamk ile kaplanmış olan",
+    "ru_word": "проклеенный",
+    "ru_definition": "покрытый клеем или клейким веществом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yapışkanlı",
+                    "yapışkan sürülmüş"
+                ],
+                "Azerbaijani": [
+                    "yapışqanlı",
+                    "yapışqanlanmış",
+                    "yapışdırılmış",
+                    "yapışqan sürülmüş"
+                ],
+                "Uzbek": [
+                    "yopishqoq",
+                    "yopishtirilgan"
+                ],
+                "Uyghur": [
+                    "يېپىشقاق"
+                ],
+                "Kazakh": [
+                    "жабысқақ"
+                ],
+                "Kyrgyz": [
+                    "жабышкак",
+                    "жабыштырылган"
+                ],
+                "Karakalpak": [
+                    "jabısqaq",
+                    "jabıstırılǵan"
+                ],
+                "Tatar": [
+                    "ябышкак"
+                ],
+                "Bashkir": [
+                    "йәбешкәк",
+                    "йәбештерелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýelmeşek",
+                    "ýelmeşgen",
+                    "ýelimli"
+                ],
+                "Uzbek": [
+                    "yelimlangan"
+                ],
+                "Uyghur": [
+                    "يېلىملانغان",
+                    "يېلىملىق"
+                ],
+                "Kazakh": [
+                    "желімделген",
+                    "желімді"
+                ],
+                "Kyrgyz": [
+                    "желимделген"
+                ],
+                "Karakalpak": [
+                    "jelimlengen"
+                ],
+                "Tatar": [
+                    "җилемләнгән",
+                    "җилемле"
+                ],
+                "Bashkir": [
+                    "елемле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zamklı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kola sürülmüş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shirali"
+                ]
+            }
+        }
+    ]
+}

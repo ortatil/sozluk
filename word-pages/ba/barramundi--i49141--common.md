@@ -1,0 +1,182 @@
+# Barramundi
+| Field | Detail |
+|---|---|
+| **ID** | i49141 |
+| **English** | barramundi |
+| **Type** | noun |
+| **Definition** | a species of large perch noted for its sporting and eating qualities; lives in marine, estuary, and freshwater habitats |
+| **Source** | common |
+| **Ortatil** | alabuğa |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **alabuğa** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ақсерке | aqserke |
+| алабұға | alabuğa |
+| **Kyrgyz** | |
+| алабуга | alabuga |
+| **Tatar** | |
+| алабуга | alabuga |
+
+```json
+{
+    "id": "i49141",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "barramundi",
+    "en_definition": "a species of large perch noted for its sporting and eating qualities; lives in marine, estuary, and freshwater habitats",
+    "tr_word": "barramundi",
+    "tr_definition": "Avustralya ve Güneydoğu Asya'ya özgü, hem tatlı hem de tuzlu suda yaşayabilen, eti için avlanan iri bir levrek türü.",
+    "ru_word": "баррамунди",
+    "ru_definition": "Вид крупных лучепёрых рыб из семейства латовых, обитающий в прибрежных, эстуарных и пресных водах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak levrek"
+                ],
+                "Uzbek": [
+                    "oq olabugʻa"
+                ],
+                "Kazakh": [
+                    "ақсерке"
+                ],
+                "Kyrgyz": [
+                    "ак балык"
+                ],
+                "Karakalpak": [
+                    "aqmarqa"
+                ],
+                "Bashkir": [
+                    "аҡ алабуға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aslan balığı"
+                ],
+                "Kazakh": [
+                    "алабұға"
+                ],
+                "Kyrgyz": [
+                    "алабуга"
+                ],
+                "Karakalpak": [
+                    "alabұǵa"
+                ],
+                "Tatar": [
+                    "алабуга"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "dengiz olabugʻasi"
+                ],
+                "Tatar": [
+                    "диңгез алабугасы"
+                ],
+                "Bashkir": [
+                    "диңгеҙ алабуғаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "barramundi"
+                ],
+                "Azerbaijani": [
+                    "barramundi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəhəng xanı balığı"
+                ],
+                "Karakalpak": [
+                    "balıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yirik olabugʻa"
+                ],
+                "Kazakh": [
+                    "ірі алабұға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чоң алабуга"
+                ],
+                "Tatar": [
+                    "зур алабуга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dev levrek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ak azat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly çapak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kenar balygy"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,144 @@
+{
+    "id": "i55611",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lecture room",
+    "en_definition": "classroom where lectures are given",
+    "tr_word": "derslik",
+    "tr_definition": "ders anlatılan veya çalışılan oda, sınıf",
+    "ru_word": "лекционный зал",
+    "ru_definition": "помещение, предназначенное для чтения лекций",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "derslik",
+                    "dershane"
+                ],
+                "Azerbaijani": [
+                    "dərsxana"
+                ],
+                "Turkmen": [
+                    "dershana"
+                ],
+                "Uzbek": [
+                    "darsxona"
+                ],
+                "Uyghur": [
+                    "دەرسخانا"
+                ],
+                "Kazakh": [
+                    "дәрісхана"
+                ],
+                "Kyrgyz": [
+                    "дарскана",
+                    "дарс залы"
+                ],
+                "Karakalpak": [
+                    "dársxana"
+                ],
+                "Tatar": [
+                    "дәресханә"
+                ],
+                "Bashkir": [
+                    "дәресхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okuw otagy"
+                ],
+                "Uzbek": [
+                    "o‘quv xonasi"
+                ],
+                "Kazakh": [
+                    "оқу залы"
+                ],
+                "Kyrgyz": [
+                    "окуу залы"
+                ],
+                "Karakalpak": [
+                    "oqıo zalı"
+                ],
+                "Tatar": [
+                    "уку бүлмәсе"
+                ],
+                "Bashkir": [
+                    "уҡыу бүлмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "auditoriya"
+                ],
+                "Turkmen": [
+                    "auditoriýa"
+                ],
+                "Uzbek": [
+                    "auditoriya"
+                ],
+                "Kazakh": [
+                    "аудитория"
+                ],
+                "Tatar": [
+                    "аудитория"
+                ],
+                "Bashkir": [
+                    "аудитория"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məclisxana"
+                ],
+                "Karakalpak": [
+                    "májilisxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "amfi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sınıf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ma’ruza xonasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "لېكسىيەخانا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەلىمخانا"
+                ]
+            }
+        }
+    ]
+}

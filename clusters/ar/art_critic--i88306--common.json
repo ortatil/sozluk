@@ -1,0 +1,93 @@
+{
+    "id": "i88306",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "art critic",
+    "en_definition": "a critic of paintings",
+    "tr_word": "sanat eleştirmeni",
+    "tr_definition": "Sanat eserlerini, özellikle resimleri değerlendiren ve yorumlayan kimse.",
+    "ru_word": "художественный критик",
+    "ru_definition": "Специалист, занимающийся анализом и оценкой произведений искусства, в частности живописи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanat eleştirmeni",
+                    "sanat münekkidi",
+                    "sanat tenkitçisi"
+                ],
+                "Azerbaijani": [
+                    "sənətşünas",
+                    "sənət tənqidçisi"
+                ],
+                "Turkmen": [
+                    "sungatşynas",
+                    "sungat tankytçysy"
+                ],
+                "Uzbek": [
+                    "san'atshunos",
+                    "san'at munaqqidi"
+                ],
+                "Uyghur": [
+                    "سەنئەت تەتقىقاتچىسى",
+                    "سەنئەت تەنقىدچىسى"
+                ],
+                "Tatar": [
+                    "сәнгать белгече",
+                    "сәнгать тәнкыйтьчесе",
+                    "сәнгатьче"
+                ],
+                "Bashkir": [
+                    "сәнғәт белгесе",
+                    "сәнғәт тәнҡитсеһе",
+                    "сәнғәт фәнсеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өнертанушы",
+                    "өнер сыншысы"
+                ],
+                "Kyrgyz": [
+                    "өнөр сынчысы"
+                ],
+                "Karakalpak": [
+                    "óner tanıushı",
+                    "óner sınshısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "incəsənət tənqidçisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tasviriy san'at munaqqidi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رەسساملىق تەنقىدچىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сүрөт сынчысы"
+                ]
+            }
+        }
+    ]
+}

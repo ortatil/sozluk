@@ -1,0 +1,129 @@
+{
+    "id": "i88632",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bondsperson",
+    "en_definition": "someone who signs a bond as surety for someone else",
+    "tr_word": "kefil",
+    "tr_definition": "başka birinin borcu veya yükümlülüğü için güvence veren, senet imzalayan kimse",
+    "ru_word": "поручитель",
+    "ru_definition": "лицо, принимающее на себя ответственность перед кредитором за исполнение должником его обязательства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kefil"
+                ],
+                "Azerbaijani": [
+                    "kəfil"
+                ],
+                "Turkmen": [
+                    "kepil",
+                    "kepilçi"
+                ],
+                "Uzbek": [
+                    "kafil",
+                    "kafolatchi"
+                ],
+                "Uyghur": [
+                    "كاپىل",
+                    "كاپالەتچى"
+                ],
+                "Kazakh": [
+                    "кепілгер",
+                    "кепілші",
+                    "кепіл болушы"
+                ],
+                "Kyrgyz": [
+                    "кепил",
+                    "кепилдик берүүчү",
+                    "кепилчи"
+                ],
+                "Karakalpak": [
+                    "kepil",
+                    "kepillik berioshi"
+                ],
+                "Tatar": [
+                    "кәфил"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "zamin"
+                ],
+                "Turkmen": [
+                    "zamin"
+                ],
+                "Uzbek": [
+                    "zomin"
+                ],
+                "Uyghur": [
+                    "زامىن"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "juoapker"
+                ],
+                "Tatar": [
+                    "җаваплы"
+                ],
+                "Bashkir": [
+                    "яуаплы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ышанычлы"
+                ],
+                "Bashkir": [
+                    "ышаныслы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "garantör"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müteselsil kefil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güvence veren"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "öhdəçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "килештереүсе"
+                ]
+            }
+        }
+    ]
+}

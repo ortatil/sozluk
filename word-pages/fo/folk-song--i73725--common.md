@@ -1,0 +1,145 @@
+# Folk song
+| Field | Detail |
+|---|---|
+| **ID** | i73725 |
+| **English** | folk song |
+| **Type** | noun |
+| **Definition** | a song that is traditionally sung by the common people of a region and forms part of their culture |
+| **Source** | common |
+| **Ortatil** | yır |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قوشاق | qoşaq |
+| **Bashkir** | |
+| йыр | yır |
+
+```json
+{
+    "id": "i73725",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "folk song",
+    "en_definition": "a song that is traditionally sung by the common people of a region and forms part of their culture",
+    "tr_word": "türkü",
+    "tr_definition": "Bir bölgenin halkı tarafından geleneksel olarak söylenen ve o halkın kültürünün bir parçasını oluşturan şarkı.",
+    "ru_word": "народная песня",
+    "ru_definition": "Песня, традиционно исполняемая простым народом определенного региона и являющаяся частью его культуры.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "halk şarkısı"
+                ],
+                "Azerbaijani": [
+                    "xalq mahnısı"
+                ],
+                "Turkmen": [
+                    "halk aýdymy"
+                ],
+                "Uzbek": [
+                    "xalq qo'shig'i",
+                    "xalq ashulasi"
+                ],
+                "Uyghur": [
+                    "خەلق ناخشىسى"
+                ],
+                "Kazakh": [
+                    "халық әні"
+                ],
+                "Karakalpak": [
+                    "xalıq qosıǵı",
+                    "xalıq naǵısı"
+                ],
+                "Tatar": [
+                    "халык җыры",
+                    "халык көе"
+                ],
+                "Bashkir": [
+                    "халыҡ йыры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "el nəğməsi"
+                ],
+                "Uyghur": [
+                    "ئەل ناخشىسى"
+                ],
+                "Kyrgyz": [
+                    "элдик ыр",
+                    "элдик обон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "türkü"
+                ],
+                "Azerbaijani": [
+                    "türkü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koşma"
+                ],
+                "Uyghur": [
+                    "قوشاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yır"
+                ],
+                "Bashkir": [
+                    "йыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "folklýor aýdymy"
+                ],
+                "Uzbek": [
+                    "folklor qo'shig'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәстүрлі ән"
+                ],
+                "Karakalpak": [
+                    "dástúrli qosıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эл ыры"
+                ]
+            }
+        }
+    ]
+}
+```
+

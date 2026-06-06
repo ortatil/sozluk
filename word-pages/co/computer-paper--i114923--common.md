@@ -1,0 +1,158 @@
+# Computer paper
+| Field | Detail |
+|---|---|
+| **ID** | i114923 |
+| **English** | computer paper |
+| **Type** | noun |
+| **Definition** | paper folded to permit continuous printing controlled by a computer |
+| **Source** | common |
+| **Ortatil** | qaqaz |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i114923",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "computer paper",
+    "en_definition": "paper folded to permit continuous printing controlled by a computer",
+    "tr_word": "sürekli form",
+    "tr_definition": "bilgisayar yazıcılarında kullanılmak üzere birbirine eklenmiş, katlanmış kağıt türü",
+    "ru_word": "перфорированная бумага",
+    "ru_definition": "бумага в виде непрерывной ленты с отверстиями по краям для печати на матричных принтерах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "üznüksiz kagyz"
+                ],
+                "Uzbek": [
+                    "uzluksiz qog'oz"
+                ],
+                "Uyghur": [
+                    "ئۈزلۈكسىز بېسىش قەغىزى"
+                ],
+                "Kazakh": [
+                    "үздіксіз қағаз"
+                ],
+                "Kyrgyz": [
+                    "үзгүлтүксүз кагаз"
+                ],
+                "Tatar": [
+                    "өзлексез кәгазь"
+                ],
+                "Bashkir": [
+                    "өҙлөкһөҙ ҡағыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "perforasiyalı kağız"
+                ],
+                "Uzbek": [
+                    "perforatsiyalangan qog'oz"
+                ],
+                "Kazakh": [
+                    "перфорацияланған қағаз"
+                ],
+                "Kyrgyz": [
+                    "перфорацияланган кагаз"
+                ],
+                "Tatar": [
+                    "перфорацияле кәгазь"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tasmali qog'oz"
+                ],
+                "Kazakh": [
+                    "таспалы қағаз"
+                ],
+                "Kyrgyz": [
+                    "тизмек кагаз"
+                ],
+                "Tatar": [
+                    "тасма кәгазь"
+                ],
+                "Bashkir": [
+                    "таҫма ҡағыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kompüter kağızı"
+                ],
+                "Turkmen": [
+                    "kompýuter kagyzy"
+                ],
+                "Uyghur": [
+                    "كومپيۇتېر قەغىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilgisayar kağıdı"
+                ],
+                "Azerbaijani": [
+                    "fasiləsiz kağız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazıcı kağıdı"
+                ],
+                "Karakalpak": [
+                    "jazba qaǵazı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sürekli form"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çap kagyzy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆشۈكلۈك قەغەز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qaǵaz"
+                ]
+            }
+        }
+    ]
+}
+```
+

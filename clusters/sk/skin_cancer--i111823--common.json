@@ -1,0 +1,71 @@
+{
+    "id": "i111823",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "skin cancer",
+    "en_definition": "a malignant neoplasm of the skin",
+    "tr_word": "cilt kanseri",
+    "tr_definition": "derideki hücrelerin kontrolsüz bir şekilde çoğalmasıyla oluşan kötü huylu tümör",
+    "ru_word": "рак кожи",
+    "ru_definition": "злокачественное новообразование, развивающееся из клеток кожи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deri kanseri",
+                    "deri habis tümörü"
+                ],
+                "Azerbaijani": [
+                    "dəri xərçəngi",
+                    "dəri xəstəliyi",
+                    "dəri şişi"
+                ],
+                "Turkmen": [
+                    "deri ragy",
+                    "deri seretany"
+                ],
+                "Uzbek": [
+                    "teri saratoni",
+                    "teri rakki",
+                    "teri xavfli o'smasi"
+                ],
+                "Uyghur": [
+                    "تېرە راكى",
+                    "تېرە سەرەتانى"
+                ],
+                "Kazakh": [
+                    "тері рагы",
+                    "тері қатерлі ісігі",
+                    "тері сарқымасы"
+                ],
+                "Kyrgyz": [
+                    "тери рагы",
+                    "тери шишиги",
+                    "тери катерлүү шишиги"
+                ],
+                "Karakalpak": [
+                    "terі ragı",
+                    "terі qaterlі іsigі",
+                    "terі saratını"
+                ],
+                "Tatar": [
+                    "тире рагы",
+                    "тире яман шеше"
+                ],
+                "Bashkir": [
+                    "тире рагы",
+                    "тире яман шеше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cilt kanseri",
+                    "cilt melanomu"
+                ]
+            }
+        }
+    ]
+}

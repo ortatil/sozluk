@@ -1,0 +1,164 @@
+{
+    "id": "i5833",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "apprenticed",
+    "en_definition": "bound by contract",
+    "tr_word": "çıraklık sözleşmesiyle bağlı",
+    "tr_definition": "Bir sözleşme gereği bir ustanın yanında eğitim görmekle yükümlü olan",
+    "ru_word": "связанный договором об ученичестве",
+    "ru_definition": "Связанный контрактом для обучения профессии или ремеслу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şakirt"
+                ],
+                "Azerbaijani": [
+                    "şagird"
+                ],
+                "Turkmen": [
+                    "şägirt"
+                ],
+                "Uzbek": [
+                    "shogird",
+                    "shogirdlikka tushgan",
+                    "shogirdlikka olingan"
+                ],
+                "Uyghur": [
+                    "شاگىرتلىققا چۈشكەن",
+                    "شاگىرتلىقتا بولغان"
+                ],
+                "Kazakh": [
+                    "шәкірт"
+                ],
+                "Kyrgyz": [
+                    "шакирт"
+                ],
+                "Karakalpak": [
+                    "shákirt"
+                ],
+                "Tatar": [
+                    "шәкертлеккә бирелгән"
+                ],
+                "Bashkir": [
+                    "шәкерт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "öyrənci"
+                ],
+                "Uyghur": [
+                    "ئۆگەنگۈچى"
+                ],
+                "Kazakh": [
+                    "үйренуші"
+                ],
+                "Kyrgyz": [
+                    "үйрөнчүк"
+                ],
+                "Karakalpak": [
+                    "úyrenioshi"
+                ],
+                "Tatar": [
+                    "өйрәнчек"
+                ],
+                "Bashkir": [
+                    "өйрәнсек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bogʻlangan"
+                ],
+                "Tatar": [
+                    "бәйләнгән",
+                    "вәгъдәләшкән"
+                ],
+                "Bashkir": [
+                    "бәйле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çırak",
+                    "yamak"
+                ],
+                "Azerbaijani": [
+                    "çıraq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mütəəllim"
+                ],
+                "Kazakh": [
+                    "мүрит"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mürid"
+                ],
+                "Kyrgyz": [
+                    "муракер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tälim alýan"
+                ],
+                "Uyghur": [
+                    "تەلىم ئالغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қызметкер"
+                ],
+                "Kyrgyz": [
+                    "кызматкер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "stajyer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mulazım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "килешеүле"
+                ]
+            }
+        }
+    ]
+}

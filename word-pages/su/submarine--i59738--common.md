@@ -1,0 +1,106 @@
+# Submarine
+| Field | Detail |
+|---|---|
+| **ID** | i59738 |
+| **English** | submarine |
+| **Type** | noun |
+| **Definition** | a submersible warship usually armed with torpedoes |
+| **Source** | common |
+| **Ortatil** | denizältı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i59738",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "submarine",
+    "en_definition": "a submersible warship usually armed with torpedoes",
+    "tr_word": "denizaltı",
+    "tr_definition": "Genellikle torpidolarla donatılmış, su altında hareket edebilen savaş gemisi.",
+    "ru_word": "подводная лодка",
+    "ru_definition": "военный корабль, способный совершать плавание и выполнять боевые задачи в погруженном состоянии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sualtı qayıq",
+                    "sualtı gəmi"
+                ],
+                "Turkmen": [
+                    "suwasty gämi",
+                    "suwasty gaýyk"
+                ],
+                "Uzbek": [
+                    "suvosti kemasi"
+                ],
+                "Uyghur": [
+                    "سۇ ئاستى كېمىسى",
+                    "سۇ ئاستى پاراخوتى"
+                ],
+                "Kyrgyz": [
+                    "суу астындагы кеме"
+                ],
+                "Karakalpak": [
+                    "su astı kemesi"
+                ],
+                "Tatar": [
+                    "су асты көймәсе",
+                    "су асты карабы"
+                ],
+                "Bashkir": [
+                    "һыу аҫты кәмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сүңгуір қайық",
+                    "сүңгуір кеме"
+                ],
+                "Kyrgyz": [
+                    "сүңгүүр кеме"
+                ],
+                "Karakalpak": [
+                    "súńgime qayıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "denizaltı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahtelbahr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gʻavvos kema"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу аҫты карабы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,156 @@
+# Sport kite
+| Field | Detail |
+|---|---|
+| **ID** | i59370 |
+| **English** | sport kite |
+| **Type** | noun |
+| **Definition** | a maneuverable kite controlled by two lines and flown with both hands |
+| **Source** | common |
+| **Ortatil** | qaqazlaylaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i59370",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sport kite",
+    "en_definition": "a maneuverable kite controlled by two lines and flown with both hands",
+    "tr_word": "akrobasi uçurtması",
+    "tr_definition": "İki iple kontrol edilen ve her iki elle yönlendirilebilen manevra kabiliyeti yüksek uçurtma.",
+    "ru_word": "спортивный змей",
+    "ru_definition": "маневренный воздушный змей, управляемый двумя леерами и запускаемый обеими руками.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "spor uçurtma"
+                ],
+                "Kazakh": [
+                    "спорттық батпырауық"
+                ],
+                "Kyrgyz": [
+                    "спорттук батперек"
+                ],
+                "Tatar": [
+                    "спорт һава еланы"
+                ],
+                "Bashkir": [
+                    "спорт һауа йыланы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "idman çərpələngi",
+                    "idarəolunan çərpələng"
+                ],
+                "Tatar": [
+                    "идарә ителмәле һава еланы"
+                ],
+                "Bashkir": [
+                    "идарә ителеүсе һауа йыланы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "باشقۇرۇلىدىغان پەرەڭ"
+                ],
+                "Kazakh": [
+                    "басқарылатын батпырауық"
+                ],
+                "Kyrgyz": [
+                    "башкарылма батперек",
+                    "башкарылуучу батперек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akrobasi uçurtması",
+                    "iki ipli uçurtma"
+                ],
+                "Tatar": [
+                    "ике җепле һава еланы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "manevra uçurtması"
+                ],
+                "Uyghur": [
+                    "مانېۋىرلىق پەرەڭ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "batly uçurma"
+                ],
+                "Karakalpak": [
+                    "batpıraq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qog'ozlaylak"
+                ],
+                "Karakalpak": [
+                    "qaǵaz batpıraq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uçar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dolandyrylýan uçurma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "varrak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "laylak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوش تاللىق پەرەڭ"
+                ]
+            }
+        }
+    ]
+}
+```
+

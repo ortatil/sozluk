@@ -1,0 +1,277 @@
+# Shadiness
+| Field | Detail |
+|---|---|
+| **ID** | i62291 |
+| **English** | shadiness |
+| **Type** | noun |
+| **Definition** | of questionable honesty or legality |
+| **Source** | common |
+| **Ortatil** | qarañğılıq, şüphelilik |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qarañğılıq** | **şüphelilik** | **häyläkärläk** | **aldakçılıq** | **kümändilik** | **şikleläk** |
+|---|---|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Turkmen | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Kazakh | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Tatar | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ |
+| Bashkir | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 1 | 0.67 | 0.33 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 0 | 0 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.20 | 0.40 | 0.60 | 0.60 | 0.60 |
+| *In All* | ✅ | ✅ |  |  |  |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ | ✅ |  |  |
+| **O'TQ** | **3.27** | **3.20** | **1.57** | **1.43** | **1.10** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قاراڭغۇلۇق | qarañğuluq |
+| شۈبھىلىك | şübhilik |
+| گۇمانلىق | gumanliq |
+| مۈجمەللىك | müjmällik |
+| **Kazakh** | |
+| айлакерлік | aylakerlik |
+| күмәнділік | kümändilik |
+| арамдық | aramdıq |
+| күдіктілік | küdiktilik |
+| қулық | qulıq |
+| **Kyrgyz** | |
+| караңгылык | karañgılık |
+| күмөндүүлүк | kümöndüülük |
+| шектүүлүк | şektüülük |
+| арамдык | aramdık |
+| **Tatar** | |
+| караңгылык | karañgılık |
+| хәйләкәрлек | xäyläkärlek |
+| алдакчылык | aldakçılık |
+| шиклелек | şiklelek |
+| **Bashkir** | |
+| хәйләкәрлек | xäyläkärlek |
+| алдаҡсылыҡ | aldaqsılıq |
+| шиклелек | şiklelek |
+| яуызлыҡ | yauızlıq |
+
+```json
+{
+    "id": "i62291",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shadiness",
+    "en_definition": "of questionable honesty or legality",
+    "tr_word": "şüphe uyandırıcılık",
+    "tr_definition": "dürüstlük veya yasallık açısından kuşku uyandıran durum",
+    "ru_word": "сомнительность",
+    "ru_definition": "качество чего-либо, вызывающее подозрения в честности или законности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karanlık"
+                ],
+                "Azerbaijani": [
+                    "qaranlıqlıq"
+                ],
+                "Uzbek": [
+                    "gumonli",
+                    "qorong'ulik"
+                ],
+                "Uyghur": [
+                    "قاراڭغۇلۇق"
+                ],
+                "Kyrgyz": [
+                    "караңгылык"
+                ],
+                "Karakalpak": [
+                    "qarańǵılıq"
+                ],
+                "Tatar": [
+                    "караңгылык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şüphelilik"
+                ],
+                "Azerbaijani": [
+                    "şübhəlilik"
+                ],
+                "Turkmen": [
+                    "şübhelilik"
+                ],
+                "Uzbek": [
+                    "shubhali"
+                ],
+                "Uyghur": [
+                    "شۈبھىلىك"
+                ],
+                "Karakalpak": [
+                    "shúbhelilik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hiyləgərlik"
+                ],
+                "Turkmen": [
+                    "hilegärlik"
+                ],
+                "Tatar": [
+                    "хәйләкәрлек"
+                ],
+                "Bashkir": [
+                    "хәйләкәрлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aldawçylyk"
+                ],
+                "Kazakh": [
+                    "айлакерлік"
+                ],
+                "Tatar": [
+                    "алдакчылык"
+                ],
+                "Bashkir": [
+                    "алдаҡсылыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "گۇمانلىق"
+                ],
+                "Kazakh": [
+                    "күмәнділік"
+                ],
+                "Kyrgyz": [
+                    "күмөндүүлүк"
+                ],
+                "Karakalpak": [
+                    "kúmándárlik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "шектүүлүк"
+                ],
+                "Tatar": [
+                    "шиклелек"
+                ],
+                "Bashkir": [
+                    "шиклелек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müəmmalılıq"
+                ],
+                "Uyghur": [
+                    "مۈجمەللىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yashirinlik"
+                ],
+                "Karakalpak": [
+                    "jasırınlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арамдық"
+                ],
+                "Kyrgyz": [
+                    "арамдык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekinsizlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "belirsizlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şaibelilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mekirlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nopoklik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күдіктілік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қулық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яуызлыҡ"
+                ]
+            }
+        }
+    ]
+}
+```
+

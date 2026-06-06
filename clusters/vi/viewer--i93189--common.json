@@ -1,0 +1,158 @@
+{
+    "id": "i93189",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spectator",
+    "en_definition": "a close observer; someone who looks at something (such as an exhibition of some kind)",
+    "tr_word": "seyirci",
+    "tr_definition": "bir olayı, oyunu veya gösteriyi izleyen kimse; izleyici.",
+    "ru_word": "зритель",
+    "ru_definition": "человек, который наблюдает за каким-либо зрелищем, представлением или спортивным состязанием.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tamaşaçı"
+                ],
+                "Turkmen": [
+                    "tomaşaçy"
+                ],
+                "Uzbek": [
+                    "tomoshabin"
+                ],
+                "Uyghur": [
+                    "تاماشىبىن"
+                ],
+                "Karakalpak": [
+                    "tamashagóy"
+                ],
+                "Tatar": [
+                    "тамашачы"
+                ],
+                "Bashkir": [
+                    "тамашасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bakıcı"
+                ],
+                "Turkmen": [
+                    "bakýan"
+                ],
+                "Uzbek": [
+                    "boquvchi"
+                ],
+                "Kazakh": [
+                    "бақылаушы"
+                ],
+                "Kyrgyz": [
+                    "байкоочу"
+                ],
+                "Karakalpak": [
+                    "baqlaoshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "görüji"
+                ],
+                "Uyghur": [
+                    "كۆرۈرمەن"
+                ],
+                "Kazakh": [
+                    "көрермен"
+                ],
+                "Kyrgyz": [
+                    "көрүүчү",
+                    "көрүүчүлөр"
+                ],
+                "Karakalpak": [
+                    "kórioshi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kuzatuvchi"
+                ],
+                "Uyghur": [
+                    "كۆزەتكۈچى"
+                ],
+                "Tatar": [
+                    "күзәтүче"
+                ],
+                "Bashkir": [
+                    "күҙәтеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қараушы"
+                ],
+                "Tatar": [
+                    "караучы"
+                ],
+                "Bashkir": [
+                    "ҡараусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "izleyici"
+                ],
+                "Azerbaijani": [
+                    "izləyici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müşahit"
+                ],
+                "Azerbaijani": [
+                    "müşahidəçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nazarçı"
+                ],
+                "Uzbek": [
+                    "nazar tashlovchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seyirci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "synçy"
+                ]
+            }
+        }
+    ]
+}

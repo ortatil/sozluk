@@ -1,0 +1,122 @@
+{
+    "id": "i70254",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "travel guidebook",
+    "en_definition": "a guidebook for travelers",
+    "tr_word": "seyahat rehberi",
+    "tr_definition": "Gezginler için yerler, konaklama ve aktiviteler hakkında bilgi içeren rehber kitap.",
+    "ru_word": "путеводитель",
+    "ru_definition": "Справочное издание для туристов с описанием достопримечательностей, маршрутов и полезных советов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seyahat rehberi"
+                ],
+                "Azerbaijani": [
+                    "səyahət bələdçisi"
+                ],
+                "Turkmen": [
+                    "syýahatnama",
+                    "syýahat gollanmasy"
+                ],
+                "Uzbek": [
+                    "sayohatnoma"
+                ],
+                "Uyghur": [
+                    "ساياھەت قوللانمىسى"
+                ],
+                "Kazakh": [
+                    "саяхатшы анықтамалығы"
+                ],
+                "Kyrgyz": [
+                    "саякат китеби"
+                ],
+                "Karakalpak": [
+                    "sáyaxat kitabı"
+                ],
+                "Bashkir": [
+                    "сәйәхәтнамә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yol kılavuzu"
+                ],
+                "Turkmen": [
+                    "ýolbelet kitaby"
+                ],
+                "Uyghur": [
+                    "يولباشچى كىتاب"
+                ],
+                "Kazakh": [
+                    "жолсілтеме"
+                ],
+                "Kyrgyz": [
+                    "жол көрсөткүч",
+                    "жолбашчы"
+                ],
+                "Karakalpak": [
+                    "jol kórsetkish",
+                    "jolbasshı"
+                ],
+                "Tatar": [
+                    "юл күрсәткече",
+                    "юлнамә"
+                ],
+                "Bashkir": [
+                    "юл күрһәткесе",
+                    "юлнамә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yol göstərən"
+                ],
+                "Uzbek": [
+                    "yoʻlkoʻrsatkich"
+                ],
+                "Kazakh": [
+                    "жолнұсқау",
+                    "жолнұсқаулық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gezi rehberi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bələdçi kitabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rahnoma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سەپەرنامە"
+                ]
+            }
+        }
+    ]
+}

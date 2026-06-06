@@ -1,0 +1,89 @@
+{
+    "id": "i64396",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "female body",
+    "en_definition": "the body of a female human being",
+    "tr_word": "kadın vücudu",
+    "tr_definition": "bir kadın insanın bedeni",
+    "ru_word": "женское тело",
+    "ru_definition": "тело женщины",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aýal bedeni",
+                    "aýal endamy"
+                ],
+                "Uzbek": [
+                    "ayol badani",
+                    "ayol vujudi",
+                    "ayol jasad",
+                    "ayol tani"
+                ],
+                "Uyghur": [
+                    "ئايال تېنى",
+                    "ئايال ۋۇجۇدى",
+                    "ئايال بەدىنى"
+                ],
+                "Kazakh": [
+                    "әйел тәні",
+                    "әйел денесі",
+                    "әйел заты",
+                    "әйел мүсіні"
+                ],
+                "Kyrgyz": [
+                    "аялдын денеси",
+                    "аял затынын тулкусу",
+                    "аялдын тулку бою"
+                ],
+                "Karakalpak": [
+                    "áyel denesі",
+                    "áyel tán",
+                    "áyel wujudı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kadın vücudu",
+                    "kadın bedeni",
+                    "kadın teni"
+                ],
+                "Azerbaijani": [
+                    "qadın bədəni",
+                    "qadın vücudu",
+                    "qadın cəsədi"
+                ],
+                "Tatar": [
+                    "хатын-кыз тәне"
+                ],
+                "Bashkir": [
+                    "ҡатын-ҡыҙ тәне",
+                    "ҡатын-ҡыҙ кәүҙәһе",
+                    "ҡатын-ҡыҙ заты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zenan bedeni",
+                    "zenan endamy",
+                    "zenan jany"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хатын-кыз гәүдәсе",
+                    "хатын-кыз заты"
+                ]
+            }
+        }
+    ]
+}

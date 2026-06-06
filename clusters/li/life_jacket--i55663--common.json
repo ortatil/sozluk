@@ -1,0 +1,83 @@
+{
+    "id": "i55663",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "life jacket",
+    "en_definition": "life preserver consisting of a sleeveless jacket of buoyant or inflatable design",
+    "tr_word": "can yeleği",
+    "tr_definition": "Batmayı önleyen, su üzerinde kalmayı sağlayan, içi mantar veya hava ile doldurulmuş yelek.",
+    "ru_word": "спасательный жилет",
+    "ru_definition": "Индивидуальное средство для поддержания человека на поверхности воды.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurtarma yeleği"
+                ],
+                "Kazakh": [
+                    "құтқару кеудешесі",
+                    "құтқару жилеті"
+                ],
+                "Kyrgyz": [
+                    "куткаруучу кемсел",
+                    "куткаруучу жилет"
+                ],
+                "Karakalpak": [
+                    "qutqarıo keoshesi",
+                    "qutqarıoshı keoshe"
+                ],
+                "Tatar": [
+                    "коткару жилеты",
+                    "коткару киеме"
+                ],
+                "Bashkir": [
+                    "ҡотҡарыу жилеты",
+                    "ҡотҡарыу кейеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "can yeleği"
+                ],
+                "Azerbaijani": [
+                    "can jileti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xilasedici jilet",
+                    "xilasedici gödəkçə"
+                ],
+                "Turkmen": [
+                    "halas ediş ýeňsesi",
+                    "halas ediş jileti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qutqaruv nimchasi"
+                ],
+                "Uyghur": [
+                    "قۇتقۇزۇش جىلىتكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hayot nimchasi"
+                ],
+                "Uyghur": [
+                    "ھاياتلىق جىلىتكىسى"
+                ]
+            }
+        }
+    ]
+}

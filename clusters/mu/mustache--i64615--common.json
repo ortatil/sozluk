@@ -1,0 +1,81 @@
+{
+    "id": "i64615",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mustache",
+    "en_definition": "an unshaved growth of hair on the upper lip",
+    "tr_word": "bıyık",
+    "tr_definition": "üst dudak üzerindeki tıraş edilmemiş tüy veya kıl kümesi",
+    "ru_word": "усы",
+    "ru_definition": "волосы, растущие у человека на верхней губе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "murt",
+                    "murtlar"
+                ],
+                "Kazakh": [
+                    "мұрт",
+                    "мұрт-сақал"
+                ],
+                "Kyrgyz": [
+                    "мурут",
+                    "мурут-сакал"
+                ],
+                "Karakalpak": [
+                    "mұrt",
+                    "mұrt-saqal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bıyık"
+                ],
+                "Azerbaijani": [
+                    "bığ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şarip"
+                ],
+                "Azerbaijani": [
+                    "şarib"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мыйык",
+                    "мыек"
+                ],
+                "Bashkir": [
+                    "мыйыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mo'ylov",
+                    "mo'y"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۇرۇت",
+                    "بۇرۇت-ساقال"
+                ]
+            }
+        }
+    ]
+}

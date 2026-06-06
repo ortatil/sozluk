@@ -1,0 +1,111 @@
+{
+    "id": "i74475",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "question",
+    "en_definition": "a sentence of inquiry that asks for a reply",
+    "tr_word": "soru",
+    "tr_definition": "cevap almak amacıyla yöneltilen, bir şey öğrenmeyi amaçlayan cümle",
+    "ru_word": "вопрос",
+    "ru_definition": "предложение, выражающее недостаток информации о чем-либо и требующее ответа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soru"
+                ],
+                "Azerbaijani": [
+                    "sorğu"
+                ],
+                "Turkmen": [
+                    "sorag"
+                ],
+                "Uzbek": [
+                    "soʻroq"
+                ],
+                "Uyghur": [
+                    "سوراق"
+                ],
+                "Kazakh": [
+                    "сұрақ"
+                ],
+                "Kyrgyz": [
+                    "суроо"
+                ],
+                "Karakalpak": [
+                    "sorao"
+                ],
+                "Tatar": [
+                    "сорау"
+                ],
+                "Bashkir": [
+                    "һорау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sual"
+                ],
+                "Azerbaijani": [
+                    "sual"
+                ],
+                "Turkmen": [
+                    "sowal"
+                ],
+                "Uzbek": [
+                    "savol"
+                ],
+                "Uyghur": [
+                    "سوئال"
+                ],
+                "Kazakh": [
+                    "сауал"
+                ],
+                "Kyrgyz": [
+                    "суал"
+                ],
+                "Tatar": [
+                    "сөаль"
+                ],
+                "Bashkir": [
+                    "сәүәл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "istifham"
+                ],
+                "Azerbaijani": [
+                    "istifham"
+                ],
+                "Turkmen": [
+                    "istifham"
+                ],
+                "Uzbek": [
+                    "istifhom"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "مەسىلە"
+                ],
+                "Kyrgyz": [
+                    "маселе"
+                ],
+                "Karakalpak": [
+                    "másele"
+                ]
+            }
+        }
+    ]
+}

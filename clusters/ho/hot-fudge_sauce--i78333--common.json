@@ -1,0 +1,103 @@
+{
+    "id": "i78333",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hot-fudge sauce",
+    "en_definition": "thick chocolate sauce served hot",
+    "tr_word": "sıcak çikolata sosu",
+    "tr_definition": "genellikle dondurma üzerine dökülen, sıcak servis edilen yoğun kıvamlı çikolata sosu",
+    "ru_word": "горячий шоколадный соус",
+    "ru_definition": "густой шоколадный соус, подаваемый в горячем виде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "isti şokolad sousu",
+                    "isti şokolad şirəsi"
+                ],
+                "Uzbek": [
+                    "issiq shokoladli qayla",
+                    "issiq shokoladli sharbat"
+                ],
+                "Uyghur": [
+                    "ئىسسىق شاكىلات قىيامى"
+                ],
+                "Kazakh": [
+                    "ыстық шоколад тұздығы",
+                    "ыстық шоколад соусы"
+                ],
+                "Kyrgyz": [
+                    "ысык шоколад чыгы"
+                ],
+                "Karakalpak": [
+                    "ıssı shokolad sousı",
+                    "ıssı shokolad shárbáti"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koyu çikolata sosu"
+                ],
+                "Uyghur": [
+                    "قويۇق شاكىلات قىيامى"
+                ],
+                "Kazakh": [
+                    "қою шоколад тұздығы"
+                ],
+                "Kyrgyz": [
+                    "коюу шоколад чыгы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şokolad şiresi"
+                ],
+                "Uzbek": [
+                    "shokoladli sous"
+                ],
+                "Tatar": [
+                    "шоколадлы соус"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıcak çikolata sosu"
+                ],
+                "Kyrgyz": [
+                    "ысык шоколад соусу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akışkan çikolata sosu"
+                ],
+                "Turkmen": [
+                    "gyzgyn şokolad sousy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кайнар шоколад соусы",
+                    "кайнар шоколадлы подливка"
+                ],
+                "Bashkir": [
+                    "ҡайнар шоколад соусы",
+                    "ҡайнар шоколад подливаһы"
+                ]
+            }
+        }
+    ]
+}

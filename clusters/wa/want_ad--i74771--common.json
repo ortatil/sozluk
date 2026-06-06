@@ -1,0 +1,136 @@
+{
+    "id": "i74771",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "want ad",
+    "en_definition": "a newspaper advertisement stating what is wanted",
+    "tr_word": "eleman ilanı",
+    "tr_definition": "gazetede yayınlanan ve aranan bir şeyi (genellikle iş veya eşya) belirten ilan",
+    "ru_word": "объявление о поиске",
+    "ru_definition": "газетное объявление, в котором указывается, что именно требуется (обычно работа или услуги)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilan",
+                    "eleman ilanı"
+                ],
+                "Azerbaijani": [
+                    "elan"
+                ],
+                "Turkmen": [
+                    "yglan"
+                ],
+                "Uzbek": [
+                    "e'lon"
+                ],
+                "Uyghur": [
+                    "ئېلان"
+                ],
+                "Tatar": [
+                    "игълан"
+                ],
+                "Bashkir": [
+                    "иғлан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bildiriş"
+                ],
+                "Turkmen": [
+                    "bildiriş"
+                ],
+                "Uzbek": [
+                    "bildirishnoma"
+                ],
+                "Kyrgyz": [
+                    "билдирүү"
+                ],
+                "Tatar": [
+                    "белдерү"
+                ],
+                "Bashkir": [
+                    "белдереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xabarnoma"
+                ],
+                "Kazakh": [
+                    "хабарландыру"
+                ],
+                "Karakalpak": [
+                    "xabarlandırıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жарнама"
+                ],
+                "Kyrgyz": [
+                    "жарыя"
+                ],
+                "Karakalpak": [
+                    "járiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iş ilanı"
+                ],
+                "Azerbaijani": [
+                    "istək elanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duyuru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەلەپ ئېلانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىزمەت ئېلانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сұраныс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кулактандыруу"
+                ]
+            }
+        }
+    ]
+}

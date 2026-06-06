@@ -1,0 +1,67 @@
+{
+    "id": "i108672",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "myanmar monetary unit",
+    "en_definition": "monetary unit in the Union of Burma",
+    "tr_word": "kyat",
+    "tr_definition": "Myanmar'ın (Burma) resmi para birimi.",
+    "ru_word": "кьят",
+    "ru_definition": "Денежная единица Республики Союз Мьянма.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kyat"
+                ],
+                "Azerbaijani": [
+                    "kyat",
+                    "kyatı"
+                ],
+                "Turkmen": [
+                    "kýat"
+                ],
+                "Uzbek": [
+                    "kyat",
+                    "kyat pul birligi"
+                ],
+                "Uyghur": [
+                    "كيات"
+                ],
+                "Kazakh": [
+                    "кьят"
+                ],
+                "Kyrgyz": [
+                    "кьят"
+                ],
+                "Karakalpak": [
+                    "kyat"
+                ],
+                "Tatar": [
+                    "кьят"
+                ],
+                "Bashkir": [
+                    "кьят"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Myanmar kyatı"
+                ],
+                "Uyghur": [
+                    "ميانما كياتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Burma kyatı"
+                ]
+            }
+        }
+    ]
+}

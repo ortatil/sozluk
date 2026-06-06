@@ -1,0 +1,74 @@
+{
+    "id": "i108497",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "kilometer",
+    "en_definition": "a metric unit of length equal to 1000 meters (or 0.621371 miles)",
+    "tr_word": "kilometre",
+    "tr_definition": "1000 metreye eşit olan, yaygın olarak kullanılan bir uzunluk ölçü birimi.",
+    "ru_word": "километр",
+    "ru_definition": "единица измерения расстояния, равная 1000 метрам.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kilometre"
+                ],
+                "Azerbaijani": [
+                    "kilometr",
+                    "min metr"
+                ],
+                "Turkmen": [
+                    "kilometr"
+                ],
+                "Uyghur": [
+                    "كىلومېتىر",
+                    "مىڭ مېتىر"
+                ],
+                "Karakalpak": [
+                    "kilometr"
+                ],
+                "Tatar": [
+                    "километр"
+                ],
+                "Bashkir": [
+                    "километр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chaqirim"
+                ],
+                "Kazakh": [
+                    "шақырым"
+                ],
+                "Kyrgyz": [
+                    "чакырым"
+                ],
+                "Karakalpak": [
+                    "shaqırım"
+                ],
+                "Tatar": [
+                    "чакрым"
+                ],
+                "Bashkir": [
+                    "саҡрым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "müň metr"
+                ],
+                "Uzbek": [
+                    "ming qadam"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "id": "i75831",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "daily variation",
+    "en_definition": "fluctuations that occur between one day and the next",
+    "tr_word": "günlük değişim",
+    "tr_definition": "bir günden diğerine meydana gelen dalgalanmalar",
+    "ru_word": "суточное колебание",
+    "ru_definition": "колебания, происходящие изо дня в день",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kunlik oʻzgarish",
+                    "kundalik tafovut",
+                    "kunlik tebranish"
+                ],
+                "Uyghur": [
+                    "كۈندىلىك ئۆزگىرىش",
+                    "كۈندىلىك تەۋرىنىش",
+                    "كۈندىلىك پەرقلەر"
+                ],
+                "Kazakh": [
+                    "күнделікті ауытқу",
+                    "күнделікті өзгеріс"
+                ],
+                "Kyrgyz": [
+                    "күнүмдүк өзгөрүү",
+                    "күнүмдүк кубулуу",
+                    "күн сайын өзгөрүү"
+                ],
+                "Karakalpak": [
+                    "kúndelikli ózgeris"
+                ],
+                "Tatar": [
+                    "көндәлек үзгәреш",
+                    "көндәлек алмашыну",
+                    "көнлек үзгәреш"
+                ],
+                "Bashkir": [
+                    "көндәлек үҙгәреш",
+                    "көндәлек ауышлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "günlük değişim",
+                    "günlük farklılık",
+                    "günlük dalgalanma",
+                    "günlük değişkenlik"
+                ],
+                "Azerbaijani": [
+                    "günlük dəyişiklik",
+                    "gündəlik tərəddüd",
+                    "günlük fərq",
+                    "gündəlik dəyişmə"
+                ],
+                "Turkmen": [
+                    "günlük üýtgeşme",
+                    "gündelik üýtgeşme",
+                    "günlük tapawut"
+                ],
+                "Karakalpak": [
+                    "kúnlik ózgeris",
+                    "kúnlik terbelis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тәуліктік құбылу"
+                ],
+                "Bashkir": [
+                    "тәүлеклек үҙгәреүсәнлек"
+                ]
+            }
+        }
+    ]
+}

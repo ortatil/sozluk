@@ -1,0 +1,148 @@
+{
+    "id": "i70713",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "medical bill",
+    "en_definition": "statement of charges for medical services",
+    "tr_word": "tıbbi fatura",
+    "tr_definition": "tıbbi hizmetler için alınan ücretlerin dökümü",
+    "ru_word": "медицинский счет",
+    "ru_definition": "выписка о начислениях за медицинские услуги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "داۋالاش ھەققى تىزىملىكى",
+                    "داۋالاش چىقىمى",
+                    "داۋالاش ھېساباتى"
+                ],
+                "Kyrgyz": [
+                    "дарылануу акысы",
+                    "дарылануу эсеби"
+                ],
+                "Tatar": [
+                    "дәвалау хисабы",
+                    "дәвалау хакы"
+                ],
+                "Bashkir": [
+                    "дауалау иҫәбе",
+                    "дауалау өсөн түләү ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "медициналық шот"
+                ],
+                "Kyrgyz": [
+                    "медициналык эсеп"
+                ],
+                "Tatar": [
+                    "медицина хисабы"
+                ],
+                "Bashkir": [
+                    "медицина иҫәп-хисабы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muayene ücreti"
+                ],
+                "Azerbaijani": [
+                    "müalicə haqqı",
+                    "müalicə xərci"
+                ],
+                "Uzbek": [
+                    "muolaja haqi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sağlık faturası"
+                ],
+                "Turkmen": [
+                    "saglyk hasaby"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tibbi hesab"
+                ],
+                "Uzbek": [
+                    "tibbiy hisob",
+                    "tibbiy xizmat haqi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shifo haqi"
+                ],
+                "Karakalpak": [
+                    "shipakerlik xızmet haqısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "емдеу шоты",
+                    "емдеу ақысы"
+                ],
+                "Karakalpak": [
+                    "emleu haqısı",
+                    "emleu tólemi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қызмет ақысы"
+                ],
+                "Kyrgyz": [
+                    "кызмат акысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tedavi faturası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hastane faturası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lukmançylyk hasaby"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bejergi tölegi"
+                ]
+            }
+        }
+    ]
+}

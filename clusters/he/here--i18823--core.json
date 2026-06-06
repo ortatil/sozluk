@@ -1,0 +1,132 @@
+{
+    "id": "i18823",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "here",
+    "en_definition": "in or at this place; where the speaker or writer is",
+    "tr_word": "burada",
+    "tr_definition": "bu yerde; konuşanın veya yazanın bulunduğu yer",
+    "ru_word": "здесь",
+    "ru_definition": "в этом месте; там, где находится говорящий или пишущий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bu yerda"
+                ],
+                "Uyghur": [
+                    "بۇ يەردە",
+                    "بۇ يەر"
+                ],
+                "Kazakh": [
+                    "бұл жерде"
+                ],
+                "Kyrgyz": [
+                    "бул жерде"
+                ],
+                "Karakalpak": [
+                    "bu jerde"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "munda"
+                ],
+                "Kazakh": [
+                    "мұнда"
+                ],
+                "Kyrgyz": [
+                    "мында"
+                ],
+                "Tatar": [
+                    "монда"
+                ],
+                "Bashkir": [
+                    "бында",
+                    "бындағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "burada",
+                    "buraya",
+                    "burası"
+                ],
+                "Azerbaijani": [
+                    "burada",
+                    "bura",
+                    "buradaca"
+                ],
+                "Turkmen": [
+                    "bäri",
+                    "bärde"
+                ],
+                "Tatar": [
+                    "биредә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şu ýerde"
+                ],
+                "Uzbek": [
+                    "shu yerda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "осында"
+                ],
+                "Karakalpak": [
+                    "osında"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇشۇ يەردە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ушул жерде"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ошо ерҙә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mana shu yerda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бу урында"
+                ]
+            }
+        }
+    ]
+}

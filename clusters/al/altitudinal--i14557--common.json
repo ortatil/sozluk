@@ -1,0 +1,103 @@
+{
+    "id": "i14557",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "altitudinal",
+    "en_definition": "pertaining to altitude",
+    "tr_word": "irtifa ile ilgili",
+    "tr_definition": "yükseklik veya rakım ile ilgili olan",
+    "ru_word": "высотный",
+    "ru_definition": "относящийся к высоте над уровнем моря",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "beýiklik"
+                ],
+                "Kazakh": [
+                    "биіктік",
+                    "биіктікке қатысты"
+                ],
+                "Kyrgyz": [
+                    "бийиктик",
+                    "бийиктикке тиешелүү"
+                ],
+                "Karakalpak": [
+                    "biyiklik"
+                ],
+                "Tatar": [
+                    "биеклек",
+                    "биеклеккә караган",
+                    "биеклекле"
+                ],
+                "Bashkir": [
+                    "бейеклек",
+                    "бейеклеккә бәйле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüksekliksel",
+                    "yükseltiyle ilgili"
+                ],
+                "Azerbaijani": [
+                    "yüksəklik"
+                ],
+                "Uzbek": [
+                    "yuksaklikka doir"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "belentlik"
+                ],
+                "Uzbek": [
+                    "balandlikka oid",
+                    "balandlikdagi"
+                ],
+                "Karakalpak": [
+                    "bálentlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "irtifai"
+                ],
+                "Azerbaijani": [
+                    "irtifa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hündürlük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېگىزلىككە ئائىت",
+                    "ئېگىزلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "асқар"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "i37146",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snowboarding",
+    "en_definition": "the act of sliding down a snow-covered slope while standing on a snowboard",
+    "tr_word": "snowboard",
+    "tr_definition": "Karla kaplı bir yamaçtan bir kar tahtası üzerinde kayma sporu",
+    "ru_word": "сноубординг",
+    "ru_definition": "вид спорта, заключающийся в спуске с заснеженных склонов на специальной доске",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar kayağı",
+                    "kar tahtası sporu",
+                    "kar sörfü"
+                ],
+                "Azerbaijani": [
+                    "qar taxtası idmanı",
+                    "qar taxtası ilə sürüşmə"
+                ],
+                "Turkmen": [
+                    "gar tagtasynda typmak",
+                    "gar typyşy"
+                ],
+                "Uzbek": [
+                    "qor taxtasida uchish"
+                ],
+                "Uyghur": [
+                    "قار تېيىلىش",
+                    "قار تاقتا تېيىلىش"
+                ],
+                "Kazakh": [
+                    "қар тақтасымен сырғанау"
+                ],
+                "Kyrgyz": [
+                    "карда тебүү"
+                ],
+                "Tatar": [
+                    "кар тактасында шуу",
+                    "кар тактасы спорты"
+                ],
+                "Bashkir": [
+                    "ҡар таҡтаһында шыуыу",
+                    "ҡар таҡтаһында йөрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "snoubord"
+                ],
+                "Turkmen": [
+                    "snoubord"
+                ],
+                "Uzbek": [
+                    "snoubordda uchish"
+                ],
+                "Kazakh": [
+                    "сноуборд тебу"
+                ],
+                "Karakalpak": [
+                    "snoubord tebio",
+                    "snoubord sportı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тактада тебүү"
+                ]
+            }
+        }
+    ]
+}

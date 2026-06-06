@@ -1,0 +1,115 @@
+{
+    "id": "i81172",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "double date",
+    "en_definition": "a date in which two couples participate",
+    "tr_word": "çifte randevu",
+    "tr_definition": "iki çiftin birlikte katıldığı sosyal buluşma veya randevu",
+    "ru_word": "двойное свидание",
+    "ru_definition": "свидание, в котором участвуют две пары одновременно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşa duşuşyk"
+                ],
+                "Uzbek": [
+                    "qo'sh uchrashuv"
+                ],
+                "Uyghur": [
+                    "قوش جۈپلۈك ئۇچرىشىش"
+                ],
+                "Kazakh": [
+                    "қос кездесу"
+                ],
+                "Kyrgyz": [
+                    "кош жолугушуу"
+                ],
+                "Karakalpak": [
+                    "qos boljasu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بىرلەشمە ئۇچرىشىش"
+                ],
+                "Karakalpak": [
+                    "bіrge boljasu"
+                ],
+                "Tatar": [
+                    "парлы очрашу"
+                ],
+                "Bashkir": [
+                    "парлы осрашыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "эки жуптун жолугушуусу"
+                ],
+                "Karakalpak": [
+                    "ekі jұptıq kezdesu"
+                ],
+                "Tatar": [
+                    "ике парлы очрашу"
+                ],
+                "Bashkir": [
+                    "икәүләп осрашыу",
+                    "ике парлы осрашыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çiftli randevu",
+                    "çiftli buluşma"
+                ],
+                "Turkmen": [
+                    "jübütleýin duşuşyk"
+                ],
+                "Uzbek": [
+                    "juftliklar uchrashuvi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dörtlü buluşma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşa görüş",
+                    "iki cütlüyün görüşü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müştərək görüş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұптық кездесу"
+                ]
+            }
+        }
+    ]
+}

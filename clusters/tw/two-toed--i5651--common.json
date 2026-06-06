@@ -1,0 +1,85 @@
+{
+    "id": "i5651",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "two-toed",
+    "en_definition": "having two toes",
+    "tr_word": "iki parmaklı",
+    "tr_definition": "iki parmağı olan",
+    "ru_word": "двупалый",
+    "ru_definition": "имеющий два пальца",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki parmaklı"
+                ],
+                "Azerbaijani": [
+                    "iki barmaqlı"
+                ],
+                "Turkmen": [
+                    "iki barmakly"
+                ],
+                "Uzbek": [
+                    "ikki barmoqli",
+                    "ikki tuyoqli"
+                ],
+                "Uyghur": [
+                    "ئىككى تۇياقلىق"
+                ],
+                "Kazakh": [
+                    "айыр тұяқты",
+                    "екі саусақты"
+                ],
+                "Kyrgyz": [
+                    "эки ача туяктуу",
+                    "эки ача"
+                ],
+                "Karakalpak": [
+                    "eki barmaqlı",
+                    "eki tuyaqlı"
+                ],
+                "Tatar": [
+                    "ике бармаклы",
+                    "ике тояклы"
+                ],
+                "Bashkir": [
+                    "ике бармаҡлы",
+                    "ике тояҡлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşa barmaqlı"
+                ],
+                "Turkmen": [
+                    "goşa barmakly"
+                ],
+                "Uyghur": [
+                    "قوش تۇياقلىق"
+                ],
+                "Kazakh": [
+                    "қос тұяқты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift parmaklı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айры туяктуу"
+                ]
+            }
+        }
+    ]
+}

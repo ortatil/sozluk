@@ -1,0 +1,108 @@
+{
+    "id": "i85647",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "lake",
+    "en_definition": "a body of (usually fresh) water surrounded by land",
+    "tr_word": "göl",
+    "tr_definition": "karalarla çevrili, genellikle tatlı su birikintisi",
+    "ru_word": "озеро",
+    "ru_definition": "природный водоём, окружённый сушей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göl"
+                ],
+                "Azerbaijani": [
+                    "göl"
+                ],
+                "Turkmen": [
+                    "köl"
+                ],
+                "Uzbek": [
+                    "koʻl"
+                ],
+                "Uyghur": [
+                    "كۆل"
+                ],
+                "Kazakh": [
+                    "көл"
+                ],
+                "Kyrgyz": [
+                    "көл"
+                ],
+                "Karakalpak": [
+                    "kól"
+                ],
+                "Tatar": [
+                    "күл"
+                ],
+                "Bashkir": [
+                    "күл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dəryaçə"
+                ],
+                "Turkmen": [
+                    "derýaçyk"
+                ],
+                "Uzbek": [
+                    "daryocha"
+                ],
+                "Uyghur": [
+                    "دەرياچە"
+                ],
+                "Kazakh": [
+                    "дария"
+                ],
+                "Kyrgyz": [
+                    "дарыя"
+                ],
+                "Karakalpak": [
+                    "dárya"
+                ],
+                "Tatar": [
+                    "дәрья"
+                ],
+                "Bashkir": [
+                    "дәрүә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deniz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "havza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айдын"
+                ]
+            }
+        }
+    ]
+}

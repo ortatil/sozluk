@@ -1,0 +1,162 @@
+{
+    "id": "i4737",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "employed",
+    "en_definition": "having your services engaged for; or having a job especially one that pays wages or a salary",
+    "tr_word": "çalışan",
+    "tr_definition": "Bir işi olan, bir kurumda veya iş yerinde ücret karşılığı görev yapan kişi.",
+    "ru_word": "трудоустроенный",
+    "ru_definition": "Имеющий оплачиваемую работу или службу в какой-либо организации.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işli",
+                    "istihdam edilen"
+                ],
+                "Azerbaijani": [
+                    "işli",
+                    "işləyən"
+                ],
+                "Turkmen": [
+                    "işli",
+                    "işleýän",
+                    "işe ýerleşen"
+                ],
+                "Uzbek": [
+                    "ishli",
+                    "ish bilan ta'minlangan"
+                ],
+                "Uyghur": [
+                    "ئىشلىق",
+                    "ئىشقا ئورۇنلاشقان"
+                ],
+                "Kyrgyz": [
+                    "иштеген"
+                ],
+                "Karakalpak": [
+                    "ispen bánt"
+                ],
+                "Tatar": [
+                    "эшле",
+                    "эшкә урнашкан"
+                ],
+                "Bashkir": [
+                    "эшле",
+                    "эшкә алынған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xizmatda"
+                ],
+                "Uyghur": [
+                    "خىزمەتلىك"
+                ],
+                "Kazakh": [
+                    "қызметкер"
+                ],
+                "Kyrgyz": [
+                    "кызматтагы"
+                ],
+                "Karakalpak": [
+                    "xızmetker"
+                ],
+                "Tatar": [
+                    "хезмәтле"
+                ],
+                "Bashkir": [
+                    "хеҙмәтле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "maaşlı"
+                ],
+                "Azerbaijani": [
+                    "məşğul"
+                ],
+                "Turkmen": [
+                    "meşgul"
+                ],
+                "Uyghur": [
+                    "مائاشلىق"
+                ],
+                "Tatar": [
+                    "мәшгуль"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жұмысшы",
+                    "жұмыс істейтін"
+                ],
+                "Kyrgyz": [
+                    "жумуштуу"
+                ],
+                "Karakalpak": [
+                    "jұmıslı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "band"
+                ],
+                "Karakalpak": [
+                    "bánt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "иш менен камсыз болгон"
+                ],
+                "Bashkir": [
+                    "эш менән тәьмин ителгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalışan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ücretli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vəzifəli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалдамалы"
+                ]
+            }
+        }
+    ]
+}

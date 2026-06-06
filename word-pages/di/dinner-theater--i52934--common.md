@@ -1,0 +1,163 @@
+# Dinner theater
+| Field | Detail |
+|---|---|
+| **ID** | i52934 |
+| **English** | dinner theater |
+| **Type** | noun |
+| **Definition** | a theater at which dinner is included in the price of admission |
+| **Source** | common |
+| **Ortatil** | bäzmgäh |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| театр-мейрамхана | teatr-meyramxana |
+| **Tatar** | |
+| тамашаханә | tamaşaxanä |
+| ашханә-театр | aşxanä-teatr |
+
+```json
+{
+    "id": "i52934",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dinner theater",
+    "en_definition": "a theater at which dinner is included in the price of admission",
+    "tr_word": "yemekli tiyatro",
+    "tr_definition": "Giriş ücretine akşam yemeğinin de dahil olduğu tiyatro türü.",
+    "ru_word": "театр-ресторан",
+    "ru_definition": "Театр, в котором в стоимость билета включен ужин.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tamaşalı şam"
+                ],
+                "Turkmen": [
+                    "tamaşaly naharhana"
+                ],
+                "Uzbek": [
+                    "tomoshali ziyofat",
+                    "tomoshali oshxona"
+                ],
+                "Uyghur": [
+                    "تاماقلىق تىياتىرخانا"
+                ],
+                "Kyrgyz": [
+                    "тамак-аштуу оюн-зоок"
+                ],
+                "Tatar": [
+                    "тамашаханә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yemekli tiyatro",
+                    "yemekli temsil"
+                ],
+                "Azerbaijani": [
+                    "yeməkli teatr"
+                ],
+                "Uyghur": [
+                    "تاماقلىق تىياتىر"
+                ],
+                "Karakalpak": [
+                    "tamaqlı teatr"
+                ],
+                "Bashkir": [
+                    "тамаҡлы театр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "naharly teatr",
+                    "aşhanaly teatr"
+                ],
+                "Kazakh": [
+                    "асхана театры"
+                ],
+                "Karakalpak": [
+                    "asxana-teatr"
+                ],
+                "Tatar": [
+                    "ашханә-театр"
+                ],
+                "Bashkir": [
+                    "аш-һыулы театр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "süfrəli teatr"
+                ],
+                "Kyrgyz": [
+                    "кечки тамактуу театр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кешкі ас театры"
+                ],
+                "Karakalpak": [
+                    "keshki aslı teatr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәҗлес театры"
+                ],
+                "Bashkir": [
+                    "мәжлес театры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bazmgoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زىياپەتلىك تىياتىرخانا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "театр-мейрамхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аш-той театры"
+                ]
+            }
+        }
+    ]
+}
+```
+

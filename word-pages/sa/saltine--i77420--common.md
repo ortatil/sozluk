@@ -1,0 +1,116 @@
+# Saltine
+| Field | Detail |
+|---|---|
+| **ID** | i77420 |
+| **English** | saltine |
+| **Type** | noun |
+| **Definition** | a cracker sprinkled with salt before baking |
+| **Source** | common |
+| **Ortatil** | galeta |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i77420",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "saltine",
+    "en_definition": "a cracker sprinkled with salt before baking",
+    "tr_word": "tuzlu kraker",
+    "tr_definition": "pişirilmeden önce üzerine tuz serpilmiş ince ve gevrek bir kraker türü",
+    "ru_word": "соленый крекер",
+    "ru_definition": "тонкое сухое печенье, посыпанное солью перед выпечкой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tuzlu bisküvi",
+                    "tuzlu kraker"
+                ],
+                "Azerbaijani": [
+                    "duzlu peçenye",
+                    "duzlu biskvit"
+                ],
+                "Turkmen": [
+                    "duzly köke",
+                    "duzly peçenye"
+                ],
+                "Uzbek": [
+                    "tuzli pechenye"
+                ],
+                "Uyghur": [
+                    "تۇزلۇق پېچىنە",
+                    "تۇزلۇق نانچە"
+                ],
+                "Kazakh": [
+                    "тұзды печенье",
+                    "тұзды нан"
+                ],
+                "Kyrgyz": [
+                    "туздуу печенье",
+                    "туздуу нан"
+                ],
+                "Karakalpak": [
+                    "tұzlı pechene",
+                    "tұzlı nan",
+                    "tұzlı toqash"
+                ],
+                "Tatar": [
+                    "тозлы печенье",
+                    "тозлы галета"
+                ],
+                "Bashkir": [
+                    "тоҙло печенье",
+                    "тоҙло ҡытырлаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qarsildoq non"
+                ],
+                "Kazakh": [
+                    "қытырлақ нан"
+                ],
+                "Kyrgyz": [
+                    "кытырак нан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "galeta"
+                ],
+                "Turkmen": [
+                    "galet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "quru peçenye"
+                ],
+                "Uzbek": [
+                    "sho'r pechenye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кытыршы икмәк"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,121 @@
+{
+    "id": "i79277",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mixed marriage",
+    "en_definition": "marriage of two people from different races or different religions or different cultures",
+    "tr_word": "melez evlilik",
+    "tr_definition": "farklı ırk, din veya kültürden gelen iki kişinin evliliği",
+    "ru_word": "смешанный брак",
+    "ru_definition": "брак между людьми разных рас, религий или культур",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aralash nikoh"
+                ],
+                "Uyghur": [
+                    "ئارىلاش نىكاھ"
+                ],
+                "Kazakh": [
+                    "аралас неке",
+                    "аралас үйлену"
+                ],
+                "Kyrgyz": [
+                    "аралаш нике"
+                ],
+                "Karakalpak": [
+                    "aralas neke"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karma evlilik"
+                ],
+                "Azerbaijani": [
+                    "qarışıq nikah",
+                    "qarışıq evlilik"
+                ],
+                "Turkmen": [
+                    "garyşyk nika",
+                    "garyşyk öýlenişik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "turli millatli nikoh"
+                ],
+                "Tatar": [
+                    "катнаш никах",
+                    "катнаш өйләнү"
+                ],
+                "Bashkir": [
+                    "ҡатнаш никах",
+                    "ҡатнаш өйләнешеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "farklı dinlerden evlilik",
+                    "farklı kültürlerden evlilik"
+                ],
+                "Kyrgyz": [
+                    "башка диндеги менен нике"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "melez evlilik"
+                ],
+                "Uyghur": [
+                    "مىللەتلەر ئارا نىكاھ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دىنلار ئارا نىكاھ"
+                ],
+                "Tatar": [
+                    "төрле динле никах"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башка улут менен нике"
+                ],
+                "Karakalpak": [
+                    "basqa tektі neke"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müxtəlifmədəniyyətli nikah"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өзге дінді неке"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "id": "i69544",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "word",
+    "en_definition": "a unit of language that native speakers can identify",
+    "tr_word": "kelime",
+    "tr_definition": "Dilde tek başına anlamı olan veya cümle kurmaya yarayan ses birliği.",
+    "ru_word": "слово",
+    "ru_definition": "Единица языка, служащая для наименования предметов, процессов и свойств.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "söz",
+                    "sözcük"
+                ],
+                "Azerbaijani": [
+                    "söz"
+                ],
+                "Turkmen": [
+                    "söz"
+                ],
+                "Uzbek": [
+                    "soʻz"
+                ],
+                "Uyghur": [
+                    "سۆز"
+                ],
+                "Kazakh": [
+                    "сөз"
+                ],
+                "Kyrgyz": [
+                    "сөз"
+                ],
+                "Karakalpak": [
+                    "sóz"
+                ],
+                "Tatar": [
+                    "сүз"
+                ],
+                "Bashkir": [
+                    "һүҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kelime"
+                ],
+                "Azerbaijani": [
+                    "kəlmə"
+                ],
+                "Turkmen": [
+                    "kelime"
+                ],
+                "Uzbek": [
+                    "kalima"
+                ],
+                "Uyghur": [
+                    "كەلىمە"
+                ],
+                "Kazakh": [
+                    "кәлима"
+                ],
+                "Karakalpak": [
+                    "kálima"
+                ],
+                "Tatar": [
+                    "кәлимә"
+                ],
+                "Bashkir": [
+                    "кәлимә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "لۇغەت"
+                ],
+                "Kazakh": [
+                    "лұғат"
+                ],
+                "Kyrgyz": [
+                    "лугат"
+                ],
+                "Karakalpak": [
+                    "luǵat"
+                ],
+                "Tatar": [
+                    "лүгать"
+                ],
+                "Bashkir": [
+                    "лөғәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "laf"
+                ],
+                "Uzbek": [
+                    "lafz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кеп"
+                ]
+            }
+        }
+    ]
+}

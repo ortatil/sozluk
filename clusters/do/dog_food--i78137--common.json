@@ -1,0 +1,88 @@
+{
+    "id": "i78137",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dog food",
+    "en_definition": "food prepared for dogs",
+    "tr_word": "köpek maması",
+    "tr_definition": "Köpekler için özel olarak hazırlanmış gıda.",
+    "ru_word": "корм для собак",
+    "ru_definition": "Пища, приготовленная специально для собак.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "it yemi",
+                    "it xörəyi"
+                ],
+                "Turkmen": [
+                    "it iými"
+                ],
+                "Uzbek": [
+                    "it ovqati",
+                    "it yemishi",
+                    "it yemi"
+                ],
+                "Uyghur": [
+                    "ئىت يېمى",
+                    "ئىت ئوزۇقى",
+                    "ئىت تامىقى"
+                ],
+                "Kazakh": [
+                    "иттің тамағы",
+                    "ит жемі",
+                    "ит асы"
+                ],
+                "Kyrgyz": [
+                    "иттин тамагы",
+                    "иттин жеми",
+                    "ит азыгы"
+                ],
+                "Karakalpak": [
+                    "iyt jemi",
+                    "iyt azıǵı",
+                    "iyt tamaǵı"
+                ],
+                "Tatar": [
+                    "эт тамагы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "it qidası"
+                ],
+                "Turkmen": [
+                    "it nahary"
+                ],
+                "Tatar": [
+                    "эт ризыгы"
+                ],
+                "Bashkir": [
+                    "эт аҙығы",
+                    "эт ризығы",
+                    "эт ашамлығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köpek maması",
+                    "köpek yemi",
+                    "köpek azığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эт ашамлыгы"
+                ]
+            }
+        }
+    ]
+}

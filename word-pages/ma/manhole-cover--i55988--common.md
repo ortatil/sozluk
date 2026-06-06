@@ -1,0 +1,154 @@
+# Manhole cover
+| Field | Detail |
+|---|---|
+| **ID** | i55988 |
+| **English** | manhole cover |
+| **Type** | noun |
+| **Definition** | a flush iron cover for a manhole (as in a street) |
+| **Source** | common |
+| **Ortatil** | qapaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قاپاق | qapaq |
+
+```json
+{
+    "id": "i55988",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "manhole cover",
+    "en_definition": "a flush iron cover for a manhole (as in a street)",
+    "tr_word": "rögar kapağı",
+    "tr_definition": "Sokaklarda kanalizasyon veya kablo hatlarına erişim sağlayan boşluğun üzerini kapatan metal kapak.",
+    "ru_word": "крышка люка",
+    "ru_definition": "Металлическая крышка, закрывающая вход в подземные коммуникации, расположенная вровень с поверхностью дороги или тротуара.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "lyuk qapağı"
+                ],
+                "Turkmen": [
+                    "lyuk gapagy"
+                ],
+                "Uzbek": [
+                    "lyuk qopqog'i"
+                ],
+                "Kazakh": [
+                    "люк қақпағы"
+                ],
+                "Kyrgyz": [
+                    "люк капкагы"
+                ],
+                "Karakalpak": [
+                    "lyuk qaqpaǵı"
+                ],
+                "Tatar": [
+                    "люк капкачы"
+                ],
+                "Bashkir": [
+                    "люк ҡапҡасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "quyu qapağı"
+                ],
+                "Turkmen": [
+                    "guýy gapagy"
+                ],
+                "Uzbek": [
+                    "quduq qopqog'i"
+                ],
+                "Uyghur": [
+                    "قۇدۇق قاپىقى"
+                ],
+                "Kazakh": [
+                    "құдық қақпағы"
+                ],
+                "Tatar": [
+                    "кое капкачы"
+                ],
+                "Bashkir": [
+                    "ҡоҙоҡ ҡапҡасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəmir qapaq"
+                ],
+                "Uzbek": [
+                    "dahan qopqog'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاپاق"
+                ],
+                "Karakalpak": [
+                    "qaqpaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rögar kapağı",
+                    "logar kapağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kanalizasyon kapağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆمۈر قاپاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кудуктун капкагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qatqapaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тишек капкачы"
+                ]
+            }
+        }
+    ]
+}
+```
+

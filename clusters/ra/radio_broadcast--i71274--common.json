@@ -1,0 +1,103 @@
+{
+    "id": "i71274",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "radio broadcast",
+    "en_definition": "a broadcast via radio",
+    "tr_word": "radyo yayını",
+    "tr_definition": "Radyo dalgaları aracılığıyla seslerin dinleyicilere ulaştırılması.",
+    "ru_word": "радиовещание",
+    "ru_definition": "Передача звуковой информации с помощью электромагнитных волн для широкой аудитории.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "radyo yayını"
+                ],
+                "Azerbaijani": [
+                    "radio verilişi",
+                    "radio yayımı",
+                    "radio ötürməsi"
+                ],
+                "Turkmen": [
+                    "radio gepleşigi",
+                    "radio ýaýlymy",
+                    "radio habary"
+                ],
+                "Uzbek": [
+                    "radioeshittirish"
+                ],
+                "Uyghur": [
+                    "رادىئو ئاڭلىتىشى",
+                    "رادىئو پروگراممىسى"
+                ],
+                "Kazakh": [
+                    "радиохабар",
+                    "радиобағдарлама",
+                    "радиохабар тарату"
+                ],
+                "Kyrgyz": [
+                    "радиоуктуруу",
+                    "радио берүү"
+                ],
+                "Karakalpak": [
+                    "radioxabar",
+                    "radioesittirio"
+                ],
+                "Tatar": [
+                    "радиотапшыру",
+                    "радиохәбәр",
+                    "радиотапшырулар"
+                ],
+                "Bashkir": [
+                    "радиотапшырыу",
+                    "радиохәбәр",
+                    "радиояҙма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "telsiz yayını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nefriyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "eshittirish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uzatish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاڭلىتىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уктуруу"
+                ]
+            }
+        }
+    ]
+}

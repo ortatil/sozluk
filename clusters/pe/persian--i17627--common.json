@@ -1,0 +1,97 @@
+{
+    "id": "i17627",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "persian",
+    "en_definition": "of or relating to Iran or its people or language or culture",
+    "tr_word": "Fars",
+    "tr_definition": "İran'a, İran halkına, diline veya kültürüne özgü olan",
+    "ru_word": "персидский",
+    "ru_definition": "относящийся к Ирану, его народу, языку или культуре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Fars",
+                    "Farsça"
+                ],
+                "Azerbaijani": [
+                    "fars",
+                    "farsi"
+                ],
+                "Turkmen": [
+                    "pars"
+                ],
+                "Uzbek": [
+                    "fors",
+                    "forsiy"
+                ],
+                "Uyghur": [
+                    "پارس",
+                    "پارسى"
+                ],
+                "Kazakh": [
+                    "парсы"
+                ],
+                "Kyrgyz": [
+                    "парсы"
+                ],
+                "Karakalpak": [
+                    "parsı"
+                ],
+                "Tatar": [
+                    "фарсы"
+                ],
+                "Bashkir": [
+                    "фарсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İranlı"
+                ],
+                "Azerbaijani": [
+                    "irani"
+                ],
+                "Turkmen": [
+                    "eýran"
+                ],
+                "Uzbek": [
+                    "eroniy"
+                ],
+                "Uyghur": [
+                    "ئىرانچە"
+                ],
+                "Kazakh": [
+                    "иран"
+                ],
+                "Kyrgyz": [
+                    "ирандык"
+                ],
+                "Karakalpak": [
+                    "iran"
+                ],
+                "Tatar": [
+                    "иран"
+                ],
+                "Bashkir": [
+                    "иран"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Acem"
+                ],
+                "Turkmen": [
+                    "ajamy"
+                ]
+            }
+        }
+    ]
+}

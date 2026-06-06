@@ -1,0 +1,94 @@
+{
+    "id": "i117040",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "labor day",
+    "en_definition": "first Monday in September in the United States and Canada",
+    "tr_word": "İşçi Bayramı",
+    "tr_definition": "Amerika Birleşik Devletleri ve Kanada'da Eylül ayının ilk pazartesi günü kutlanan resmi tatil",
+    "ru_word": "День труда",
+    "ru_definition": "государственный праздник в США и Канаде, отмечаемый в первый понедельник сентября",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İşçi Bayramı"
+                ],
+                "Turkmen": [
+                    "Işçiler güni"
+                ],
+                "Uzbek": [
+                    "ishchilar bayrami"
+                ],
+                "Tatar": [
+                    "Эшчеләр бәйрәме"
+                ],
+                "Bashkir": [
+                    "Эшселәр көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Emek Bayramı"
+                ],
+                "Azerbaijani": [
+                    "Əmək günü"
+                ],
+                "Uyghur": [
+                    "ئەمگەكچىلەر بايرىمى",
+                    "ئەمگەك بايرىمى"
+                ],
+                "Kyrgyz": [
+                    "Эмгек күнү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Zəhmətkeşlər günü"
+                ],
+                "Turkmen": [
+                    "Zähmet güni"
+                ],
+                "Tatar": [
+                    "Хезмәт көне"
+                ],
+                "Bashkir": [
+                    "Хеҙмәт көнө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mehnat kuni"
+                ],
+                "Karakalpak": [
+                    "Miynet kúni",
+                    "Miynetkeshler kúni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Еңбек күні",
+                    "Еңбекшілер күні"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Жумушчулар күнү"
+                ]
+            }
+        }
+    ]
+}

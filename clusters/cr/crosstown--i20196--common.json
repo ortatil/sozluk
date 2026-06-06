@@ -1,0 +1,88 @@
+{
+    "id": "i20196",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "crosstown",
+    "en_definition": "across a town or city",
+    "tr_word": "şehrin bir ucundan diğerine",
+    "tr_definition": "bir şehrin veya kasabanın bir tarafından diğer tarafına doğru",
+    "ru_word": "через весь город",
+    "ru_definition": "из одной части города в другую",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehir genelinde",
+                    "şehri boydan boya",
+                    "şehir içinde"
+                ],
+                "Azerbaijani": [
+                    "şəhər boyu",
+                    "şəhərin bir başından o biri başına",
+                    "şəhər daxilində"
+                ],
+                "Turkmen": [
+                    "şäher içinden",
+                    "şäheriň bir ujundan beýleki ujuny",
+                    "şäher boýunça"
+                ],
+                "Uzbek": [
+                    "shahar bo'ylab",
+                    "shahar ichra",
+                    "shahar bo'yi"
+                ],
+                "Uyghur": [
+                    "شەھەرنى كېسىپ ئۆتۈپ",
+                    "شەھەر ئارا",
+                    "شەھەرنىڭ بىر بېشىدىن يەنە بىر بېشىغىچە"
+                ],
+                "Tatar": [
+                    "шәһәр аша",
+                    "шәһәр аркылы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қала арқылы",
+                    "қаланы кесіп",
+                    "қала ішімен"
+                ],
+                "Karakalpak": [
+                    "qala boylap",
+                    "qala arqalı",
+                    "qala ishinde"
+                ],
+                "Bashkir": [
+                    "ҡала аша",
+                    "ҡаланы арҡырыға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bir uçtan bir uca"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаар аралап",
+                    "шаардын бир четинен экинчи четине"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаар ичинде"
+                ]
+            }
+        }
+    ]
+}

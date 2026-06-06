@@ -1,0 +1,96 @@
+{
+    "id": "i11241",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "triangular",
+    "en_definition": "having three angles; forming or shaped like a triangle",
+    "tr_word": "üçgen",
+    "tr_definition": "üç açısı olan; üçgen biçiminde olan veya üçgene benzeyen",
+    "ru_word": "треугольный",
+    "ru_definition": "имеющий три угла; имеющий форму треугольника",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üçgen",
+                    "üç köşeli"
+                ],
+                "Turkmen": [
+                    "üçburç"
+                ],
+                "Uzbek": [
+                    "uchburchakli",
+                    "uchburchak"
+                ],
+                "Uyghur": [
+                    "ئۈچ بۇرجەكلىك"
+                ],
+                "Kazakh": [
+                    "үш бұрышты"
+                ],
+                "Kyrgyz": [
+                    "үч бурчтуу",
+                    "үч кырдуу"
+                ],
+                "Tatar": [
+                    "өчпочмаклы",
+                    "өч почмаклы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müselles"
+                ],
+                "Azerbaijani": [
+                    "müsəlləs"
+                ],
+                "Turkmen": [
+                    "müselles"
+                ],
+                "Uzbek": [
+                    "musallas"
+                ],
+                "Uyghur": [
+                    "مۇسەللەس"
+                ],
+                "Tatar": [
+                    "мөсәлләс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "üçbucaqlı"
+                ],
+                "Turkmen": [
+                    "üçburçly"
+                ],
+                "Kazakh": [
+                    "үшбұрышты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үшкіл"
+                ],
+                "Karakalpak": [
+                    "úshmúyúshli",
+                    "úshmúyúsh"
+                ],
+                "Bashkir": [
+                    "өс мөйөшлө",
+                    "өс мөйөш"
+                ]
+            }
+        }
+    ]
+}

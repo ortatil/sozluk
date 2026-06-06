@@ -1,0 +1,141 @@
+# Little toe
+| Field | Detail |
+|---|---|
+| **ID** | i66227 |
+| **English** | little toe |
+| **Type** | noun |
+| **Definition** | the fifth smallest outermost toe |
+| **Source** | common |
+| **Ortatil** | cimciläq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چىمچىلاق | çimçilaq |
+| **Kazakh** | |
+| шынашақ | şınaşaq |
+| **Kyrgyz** | |
+| чыпалак | çıpalak |
+
+```json
+{
+    "id": "i66227",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "little toe",
+    "en_definition": "the fifth smallest outermost toe",
+    "tr_word": "serçe parmağı",
+    "tr_definition": "ayağın en dıştaki ve en küçük beşinci parmağı",
+    "ru_word": "мизинец",
+    "ru_definition": "пятый, самый маленький и крайний палец на ноге",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük parmak"
+                ],
+                "Azerbaijani": [
+                    "kiçik barmaq"
+                ],
+                "Turkmen": [
+                    "küçejik barmak"
+                ],
+                "Uzbek": [
+                    "kichik barmoq"
+                ],
+                "Uyghur": [
+                    "كىچىك پۇت بارمىقى"
+                ],
+                "Kazakh": [
+                    "кіші бақай"
+                ],
+                "Kyrgyz": [
+                    "кичинекей бармак"
+                ],
+                "Bashkir": [
+                    "кесе бармаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "serçe parmağı"
+                ],
+                "Turkmen": [
+                    "serçe barmak"
+                ],
+                "Tatar": [
+                    "кече бармак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çingələ barmaq"
+                ],
+                "Kazakh": [
+                    "шынашақ",
+                    "шынашақ бақай"
+                ],
+                "Karakalpak": [
+                    "shınashaq",
+                    "shınashaq barmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jimjiloq"
+                ],
+                "Uyghur": [
+                    "چىمچىلاق پۇت بارمىقى",
+                    "چىمچىلاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чәнти бармак"
+                ],
+                "Bashkir": [
+                    "сәтәй бармаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "balaca barmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чыпалак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәтләүек бармаҡ"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,78 @@
+{
+    "id": "i74801",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "test ban",
+    "en_definition": "a ban on the testing of nuclear weapons that is mutually agreed to by countries that possess nuclear weapons",
+    "tr_word": "nükleer deneme yasağı",
+    "tr_definition": "nükleer silahlara sahip ülkeler tarafından karşılıklı olarak kabul edilen nükleer silah denemesi yasağı",
+    "ru_word": "запрет на ядерные испытания",
+    "ru_definition": "взаимно согласованный странами, обладающими ядерным оружием, запрет на проведение испытаний такого оружия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sınaq qadağası"
+                ],
+                "Turkmen": [
+                    "synag gadagançylygy",
+                    "synag etmegi gadagan etmek"
+                ],
+                "Uzbek": [
+                    "sinov taqiqi",
+                    "sinovlarni to'xtatish",
+                    "sinovlarni man etish"
+                ],
+                "Uyghur": [
+                    "سىناق چەكلىمىسى",
+                    "سىناق قىلىشنى مەنئى قىلىش",
+                    "سىناق چەكلىمە كېلىشىمى"
+                ],
+                "Kazakh": [
+                    "сынаққа тыйым салу",
+                    "сынақтарды тоқтату",
+                    "сынақтарға шектеу қою"
+                ],
+                "Kyrgyz": [
+                    "сыноого тыюу салуу",
+                    "сыноолорду токтотуу",
+                    "сыноолорго чек коюу"
+                ],
+                "Karakalpak": [
+                    "sınaqqa tıyım salınıuı",
+                    "sınaqlardı toqtatıo",
+                    "sınaqlardı qadaǵan etio"
+                ],
+                "Tatar": [
+                    "сынауларны тыю",
+                    "сынауларга тыю салу",
+                    "сынауларны туктату"
+                ],
+                "Bashkir": [
+                    "һынауҙарҙы тыйыу",
+                    "һынауҙарға тыйыу һалыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "test yasağı",
+                    "tecrübe yasağı"
+                ],
+                "Azerbaijani": [
+                    "test qadağası",
+                    "təcrübə qadağası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deneme yasağı"
+                ]
+            }
+        }
+    ]
+}

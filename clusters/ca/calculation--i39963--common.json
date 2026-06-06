@@ -1,0 +1,131 @@
+{
+    "id": "i39963",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "calculation",
+    "en_definition": "the procedure of calculating; determining something by mathematical or logical methods",
+    "tr_word": "hesaplama",
+    "tr_definition": "Matematiksel veya mantıksal yöntemlerle bir şeyi belirleme işlemi",
+    "ru_word": "вычисление",
+    "ru_definition": "процесс определения чего-либо с помощью математических или логических методов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesap",
+                    "hesaplama"
+                ],
+                "Azerbaijani": [
+                    "hesablama",
+                    "hesab"
+                ],
+                "Turkmen": [
+                    "hasap",
+                    "hasaplama",
+                    "hasabat"
+                ],
+                "Uzbek": [
+                    "hisob",
+                    "hisob-kitob",
+                    "hisoblash"
+                ],
+                "Uyghur": [
+                    "ھېساب",
+                    "ھېسابلاش",
+                    "ھېسابات"
+                ],
+                "Tatar": [
+                    "хисап",
+                    "хисаплау"
+                ],
+                "Bashkir": [
+                    "хисап",
+                    "хисаплау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "istatistik"
+                ],
+                "Kyrgyz": [
+                    "эсеп",
+                    "эсептөө",
+                    "эсеп-кысап"
+                ],
+                "Tatar": [
+                    "исәп",
+                    "исәпләү"
+                ],
+                "Bashkir": [
+                    "иҫәп",
+                    "иҫәпләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "санау"
+                ],
+                "Karakalpak": [
+                    "sanao"
+                ],
+                "Tatar": [
+                    "санау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есеп",
+                    "есептеу"
+                ],
+                "Karakalpak": [
+                    "esap",
+                    "esaplao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sayım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təxmin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ölçü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "amaliyot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қисап"
+                ]
+            }
+        }
+    ]
+}

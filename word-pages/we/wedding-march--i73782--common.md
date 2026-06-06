@@ -1,0 +1,134 @@
+# Wedding march
+| Field | Detail |
+|---|---|
+| **ID** | i73782 |
+| **English** | wedding march |
+| **Type** | noun |
+| **Definition** | a march to be played for a wedding procession |
+| **Source** | common |
+| **Ortatil** | yär-yär |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i73782",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wedding march",
+    "en_definition": "a march to be played for a wedding procession",
+    "tr_word": "düğün marşı",
+    "tr_definition": "bir düğün töreni sırasında çalınan marş",
+    "ru_word": "свадебный марш",
+    "ru_definition": "марш, исполняемый во время свадебного шествия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düğün marşı"
+                ],
+                "Azerbaijani": [
+                    "toy marşı"
+                ],
+                "Turkmen": [
+                    "toý sazy",
+                    "toý ýörişi"
+                ],
+                "Uzbek": [
+                    "toʻy kuyi",
+                    "toʻy marsh"
+                ],
+                "Uyghur": [
+                    "توي مارشى",
+                    "توي كۈيى",
+                    "توي مۇزىكىسى"
+                ],
+                "Kazakh": [
+                    "той маршы"
+                ],
+                "Kyrgyz": [
+                    "той маршы"
+                ],
+                "Karakalpak": [
+                    "toy marshı",
+                    "toy sazı"
+                ],
+                "Tatar": [
+                    "туй маршы",
+                    "туй көе"
+                ],
+                "Bashkir": [
+                    "туй маршы",
+                    "туй көйө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "nikoh kuyi"
+                ],
+                "Kazakh": [
+                    "неке маршы"
+                ],
+                "Kyrgyz": [
+                    "нике маршы"
+                ],
+                "Karakalpak": [
+                    "neke sazı"
+                ],
+                "Tatar": [
+                    "никах маршы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gelin marşı"
+                ],
+                "Azerbaijani": [
+                    "gəlin havası"
+                ],
+                "Turkmen": [
+                    "gelinalyjy sazy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vağzalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yor-yor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үйлену маршы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "салтанаттуу күү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,96 @@
+{
+    "id": "i56750",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "operating table",
+    "en_definition": "table on which the patient lies during a surgical operation",
+    "tr_word": "ameliyat masası",
+    "tr_definition": "cerrahi bir operasyon sırasında hastanın üzerine yattığı masa",
+    "ru_word": "операционный стол",
+    "ru_definition": "стол, на котором лежит пациент во время хирургической операции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ameliyat masası"
+                ],
+                "Azerbaijani": [
+                    "əməliyyat masası"
+                ],
+                "Turkmen": [
+                    "amalyýet stoly"
+                ],
+                "Uzbek": [
+                    "amaliyot stoli"
+                ],
+                "Tatar": [
+                    "әмәлият өстәле"
+                ],
+                "Bashkir": [
+                    "әмәлиәт өҫтәле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "operasyon masası"
+                ],
+                "Turkmen": [
+                    "operasiýa stoly"
+                ],
+                "Uyghur": [
+                    "ئوپېراتسىيە ئۈستىلى",
+                    "ئوپېراتسىيە كارىۋىتى"
+                ],
+                "Kyrgyz": [
+                    "операциялык үстөл"
+                ],
+                "Karakalpak": [
+                    "operaciya stolı"
+                ],
+                "Bashkir": [
+                    "операция өҫтәле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cərrahiyyə masası"
+                ],
+                "Uzbek": [
+                    "jarrohlik stoli"
+                ],
+                "Kyrgyz": [
+                    "жараат үстөлү"
+                ],
+                "Tatar": [
+                    "җәррахлык өстәле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ота үстелі",
+                    "ота жасау үстелі",
+                    "отахана үстелі"
+                ],
+                "Karakalpak": [
+                    "ota stolı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кесүү үстөлү"
+                ]
+            }
+        }
+    ]
+}

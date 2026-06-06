@@ -1,0 +1,111 @@
+# Boat whistle
+| Field | Detail |
+|---|---|
+| **ID** | i50892 |
+| **English** | boat whistle |
+| **Type** | noun |
+| **Definition** | a whistle on a boat that is sounded as a warning |
+| **Source** | common |
+| **Ortatil** | wurnaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i50892",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "boat whistle",
+    "en_definition": "a whistle on a boat that is sounded as a warning",
+    "tr_word": "gemi düdüğü",
+    "tr_definition": "bir teknede uyarı olarak çalınan düdük",
+    "ru_word": "корабельный свисток",
+    "ru_definition": "свисток на судне, используемый в качестве предупреждающего сигнала",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gemi düdüğü"
+                ],
+                "Azerbaijani": [
+                    "gəmi fiti",
+                    "gəmi düdüyü"
+                ],
+                "Turkmen": [
+                    "gämi süzgüji",
+                    "gämi jürlewügi"
+                ],
+                "Uzbek": [
+                    "kema hushtagi",
+                    "kema sadosi",
+                    "kema bonggi"
+                ],
+                "Uyghur": [
+                    "كېمە پۇشتىكى",
+                    "كېمە سىگنالى",
+                    "كېمە كانىيى"
+                ],
+                "Kazakh": [
+                    "кеме дабылы"
+                ],
+                "Kyrgyz": [
+                    "кеме ышкырыгы",
+                    "кеме сурнайы"
+                ],
+                "Karakalpak": [
+                    "keme gudogı"
+                ],
+                "Bashkir": [
+                    "кәмә һыҙғыртҡысы",
+                    "кәмә бысҡыһы",
+                    "кәмә сигналы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gämi sybyzgygy"
+                ],
+                "Kazakh": [
+                    "кеме ысқырығы"
+                ],
+                "Karakalpak": [
+                    "keme ısqırıǵı"
+                ],
+                "Tatar": [
+                    "көймә сыбызгысы",
+                    "көймә быргысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vapur düdüğü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vurnaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кораб сыбызгысы",
+                    "кораб быргысы"
+                ]
+            }
+        }
+    ]
+}
+```
+

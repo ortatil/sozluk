@@ -1,0 +1,83 @@
+{
+    "id": "i109151",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "billion",
+    "en_definition": "the number that is represented as a one followed by 9 zeros",
+    "tr_word": "milyar",
+    "tr_definition": "Bir rakamının yanına dokuz sıfır gelmesiyle oluşan sayı",
+    "ru_word": "миллиард",
+    "ru_definition": "Число, изображаемое единицей с девятью нулями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milyar"
+                ],
+                "Azerbaijani": [
+                    "milyard"
+                ],
+                "Turkmen": [
+                    "milliard",
+                    "miliart"
+                ],
+                "Uzbek": [
+                    "milliard"
+                ],
+                "Uyghur": [
+                    "مىليارد"
+                ],
+                "Kazakh": [
+                    "миллиард"
+                ],
+                "Kyrgyz": [
+                    "миллиард"
+                ],
+                "Karakalpak": [
+                    "milliard"
+                ],
+                "Tatar": [
+                    "миллиард"
+                ],
+                "Bashkir": [
+                    "миллиард"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "doqquz sıfırlı rəqəm"
+                ],
+                "Kazakh": [
+                    "тоғыз нөлді сан"
+                ],
+                "Kyrgyz": [
+                    "тогуз нөлдүү сан"
+                ],
+                "Karakalpak": [
+                    "toǵız nóldi san"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мең миллион"
+                ],
+                "Bashkir": [
+                    "мең миллион"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈمەن مىليون"
+                ]
+            }
+        }
+    ]
+}

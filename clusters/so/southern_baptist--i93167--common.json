@@ -1,0 +1,85 @@
+{
+    "id": "i93167",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "southern baptist",
+    "en_definition": "a member of the Southern Baptist Convention",
+    "tr_word": "Güneyli Baptist",
+    "tr_definition": "Güney Baptist Konvansiyonu üyesi olan kimse",
+    "ru_word": "южный баптист",
+    "ru_definition": "член Южной баптистской конвенции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Cənub baptisti",
+                    "Cənub Baptist Konvensiyasının üzvü"
+                ],
+                "Uzbek": [
+                    "janubiy baptist",
+                    "janubiy baptistlar jamoasi a'zosi"
+                ],
+                "Uyghur": [
+                    "جەنۇبىي باپتىست",
+                    "جەنۇبىي چۆمۈلدۈرۈش مەزھىپى ئەزاسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Güney Baptist",
+                    "Güney Baptist Konvansiyonu üyesi",
+                    "Güneyli Baptist"
+                ],
+                "Turkmen": [
+                    "günorta baptist",
+                    "günorta baptistçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оңтүстік баптист",
+                    "оңтүстік баптист конвенциясының мүшесі"
+                ],
+                "Karakalpak": [
+                    "qubla baptistler konwenciyası aǵzası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түштүк баптист",
+                    "түштүк баптисттер конвенциясынын мүчөсү"
+                ],
+                "Bashkir": [
+                    "көньяҡ баптистар конвенцияһы ағзаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qubla baptist"
+                ],
+                "Tatar": [
+                    "көньяк баптистлар конвенциясе әгъзасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көньяк баптисты"
+                ],
+                "Bashkir": [
+                    "көньяҡ баптист"
+                ]
+            }
+        }
+    ]
+}

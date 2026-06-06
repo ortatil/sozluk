@@ -1,0 +1,130 @@
+{
+    "id": "i70058",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "text",
+    "en_definition": "the words of something written",
+    "tr_word": "metin",
+    "tr_definition": "yazılı bir eserin asıl gövdesini oluşturan kelimeler",
+    "ru_word": "текст",
+    "ru_definition": "слова написанного произведения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "metin"
+                ],
+                "Azerbaijani": [
+                    "mətn"
+                ],
+                "Turkmen": [
+                    "metin"
+                ],
+                "Uzbek": [
+                    "matn"
+                ],
+                "Uyghur": [
+                    "مەتىن"
+                ],
+                "Kazakh": [
+                    "мәтін"
+                ],
+                "Kyrgyz": [
+                    "матн"
+                ],
+                "Karakalpak": [
+                    "mátin"
+                ],
+                "Tatar": [
+                    "мәтен"
+                ],
+                "Bashkir": [
+                    "мәтен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazı"
+                ],
+                "Azerbaijani": [
+                    "yazı"
+                ],
+                "Turkmen": [
+                    "ýazgy"
+                ],
+                "Uzbek": [
+                    "yozuv"
+                ],
+                "Uyghur": [
+                    "يازما"
+                ],
+                "Kazakh": [
+                    "жазба"
+                ],
+                "Kyrgyz": [
+                    "жазуу"
+                ],
+                "Karakalpak": [
+                    "jazılma"
+                ],
+                "Tatar": [
+                    "язма"
+                ],
+                "Bashkir": [
+                    "яҙма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tekst"
+                ],
+                "Uyghur": [
+                    "تېكىست"
+                ],
+                "Kyrgyz": [
+                    "текст"
+                ],
+                "Karakalpak": [
+                    "tekst"
+                ],
+                "Tatar": [
+                    "текст"
+                ],
+                "Bashkir": [
+                    "текст"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хат"
+                ],
+                "Kyrgyz": [
+                    "кат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "parça"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bitik"
+                ]
+            }
+        }
+    ]
+}

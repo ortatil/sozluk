@@ -1,0 +1,70 @@
+{
+    "id": "i93107",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snorer",
+    "en_definition": "someone who snores while sleeping",
+    "tr_word": "horlayan kimse",
+    "tr_definition": "uyurken horlama sesi çıkaran kişi",
+    "ru_word": "храпун",
+    "ru_definition": "человек, который храпит во сне",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "horlayan",
+                    "horlayıcı"
+                ],
+                "Azerbaijani": [
+                    "xoruldayan",
+                    "xorultuçu"
+                ],
+                "Turkmen": [
+                    "horrukçy",
+                    "horlaýan"
+                ],
+                "Uzbek": [
+                    "hurrakchi",
+                    "hurrak otuvchi"
+                ],
+                "Uyghur": [
+                    "خورەكچى",
+                    "خورەك سالغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қорылдауық",
+                    "қорылшы"
+                ],
+                "Karakalpak": [
+                    "qorıldauıq",
+                    "qorılshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хырылдавык",
+                    "хырылдаучы"
+                ],
+                "Bashkir": [
+                    "хырылдауыҡ",
+                    "хырылдаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коңурукчу",
+                    "коңурукчул"
+                ]
+            }
+        }
+    ]
+}

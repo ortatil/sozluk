@@ -1,0 +1,156 @@
+{
+    "id": "i29696",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "pluck",
+    "en_definition": "pull or pull out sharply",
+    "tr_word": "koparmak",
+    "tr_definition": "bir şeyi çekerek yerinden ayırmak veya çekip çıkarmak",
+    "ru_word": "выщипывать",
+    "ru_definition": "резко тянуть или вытягивать что-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yolmak",
+                    "yolup almak"
+                ],
+                "Azerbaijani": [
+                    "yolmaq"
+                ],
+                "Turkmen": [
+                    "ýolmak"
+                ],
+                "Uzbek": [
+                    "yulmoq",
+                    "yulib olmoq"
+                ],
+                "Uyghur": [
+                    "يۇلۇش"
+                ],
+                "Kazakh": [
+                    "жұлу",
+                    "жұлып алу"
+                ],
+                "Kyrgyz": [
+                    "жулуу",
+                    "жулуп алуу"
+                ],
+                "Karakalpak": [
+                    "jұlu"
+                ],
+                "Tatar": [
+                    "йолку"
+                ],
+                "Bashkir": [
+                    "йолҡоу",
+                    "йолҡоп алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "üzmək"
+                ],
+                "Turkmen": [
+                    "üzmek"
+                ],
+                "Uzbek": [
+                    "uzmoq"
+                ],
+                "Uyghur": [
+                    "ئۈزۈش"
+                ],
+                "Kazakh": [
+                    "үзу"
+                ],
+                "Kyrgyz": [
+                    "үзүү",
+                    "үзүп алуу"
+                ],
+                "Karakalpak": [
+                    "úzu"
+                ],
+                "Tatar": [
+                    "өзеп алу",
+                    "өзеп чыгару"
+                ],
+                "Bashkir": [
+                    "өҙөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dərmək"
+                ],
+                "Uyghur": [
+                    "تارتىپ چىقىرىش"
+                ],
+                "Karakalpak": [
+                    "tartıp alu"
+                ],
+                "Tatar": [
+                    "тартып алу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sogurmak"
+                ],
+                "Uzbek": [
+                    "sug'urmoq"
+                ],
+                "Kazakh": [
+                    "суыру"
+                ],
+                "Karakalpak": [
+                    "suıru"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koparmak"
+                ],
+                "Azerbaijani": [
+                    "qoparmaq"
+                ],
+                "Turkmen": [
+                    "goparmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekip koparmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uzib olmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "айырып алыу"
+                ]
+            }
+        }
+    ]
+}

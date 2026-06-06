@@ -1,0 +1,89 @@
+{
+    "id": "i108059",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "metric system",
+    "en_definition": "a decimal system of weights and measures based on the meter and the kilogram and the second",
+    "tr_word": "metrik sistem",
+    "tr_definition": "metre, kilogram ve saniye birimlerine dayanan ondalık ölçü ve ağırlık sistemi",
+    "ru_word": "метрическая система",
+    "ru_definition": "десятичная система мер и весов, основанная на использовании метра и килограмма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "metrik sistem",
+                    "metrik düzen"
+                ],
+                "Azerbaijani": [
+                    "metrik sistem",
+                    "metrik ölçü sistemi"
+                ],
+                "Turkmen": [
+                    "metrik ulgam"
+                ],
+                "Uzbek": [
+                    "metrik tizim"
+                ],
+                "Uyghur": [
+                    "مېتىر سىستېمىسى"
+                ],
+                "Kazakh": [
+                    "метрлік жүйе"
+                ],
+                "Kyrgyz": [
+                    "метрикалык система"
+                ],
+                "Karakalpak": [
+                    "ólshem birlikleriniń metrlik sisteması",
+                    "metrlik sistema"
+                ],
+                "Tatar": [
+                    "метрик система"
+                ],
+                "Bashkir": [
+                    "метрика системаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ondalık ölçü sistemi"
+                ],
+                "Uyghur": [
+                    "ئۆلچەم سىستېمىسى"
+                ],
+                "Tatar": [
+                    "үлчәү системасы"
+                ],
+                "Bashkir": [
+                    "үлсәү системаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ölçeg ulgamy"
+                ],
+                "Uzbek": [
+                    "oʻlchov tizimi"
+                ],
+                "Kazakh": [
+                    "өлшем жүйесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чен-өлчөм системасы"
+                ]
+            }
+        }
+    ]
+}

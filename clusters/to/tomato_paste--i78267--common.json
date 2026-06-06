@@ -1,0 +1,93 @@
+{
+    "id": "i78267",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tomato paste",
+    "en_definition": "thick concentrated tomato puree",
+    "tr_word": "domates salçası",
+    "tr_definition": "yoğunlaştırılmış ve kıvamlı domates püresi",
+    "ru_word": "томатная паста",
+    "ru_definition": "густое концентрированное пюре из помидоров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pomidor pastası",
+                    "pomidor şirəsi"
+                ],
+                "Turkmen": [
+                    "pomidor goýaltmasy",
+                    "pomidor pastasy"
+                ],
+                "Uzbek": [
+                    "pomidor quyultirmasi",
+                    "pomidor pastasi"
+                ],
+                "Uyghur": [
+                    "پەمىدۇر قىيامى",
+                    "پەمىدۇر قىيام",
+                    "پەمىدۇر پاستىسى"
+                ],
+                "Karakalpak": [
+                    "pomidor ezbesi"
+                ],
+                "Tatar": [
+                    "помидор измәсе",
+                    "помидор пастасы"
+                ],
+                "Bashkir": [
+                    "помидор иҙмәһе",
+                    "помидор пастаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "domates salçası"
+                ],
+                "Azerbaijani": [
+                    "tomat",
+                    "tomat pastası"
+                ],
+                "Turkmen": [
+                    "tomat"
+                ],
+                "Uzbek": [
+                    "tomat"
+                ],
+                "Kyrgyz": [
+                    "томат пастасы",
+                    "томат ширеси"
+                ],
+                "Karakalpak": [
+                    "tomat ezbesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қызанақ езбесі",
+                    "қызанақ пастасы"
+                ],
+                "Kyrgyz": [
+                    "кызанак пастасы"
+                ],
+                "Tatar": [
+                    "кызылчарба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "salça"
+                ]
+            }
+        }
+    ]
+}

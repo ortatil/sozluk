@@ -1,0 +1,108 @@
+{
+    "id": "i71119",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "magazine",
+    "en_definition": "a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it",
+    "tr_word": "dergi",
+    "tr_definition": "belirli aralıklarla çıkan, içinde çeşitli konularda yazı, haber ve resimler bulunan süreli yayın",
+    "ru_word": "журнал",
+    "ru_definition": "периодическое издание в виде книжки, содержащее статьи, произведения разных авторов, иллюстрации",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "jurnal"
+                ],
+                "Turkmen": [
+                    "žurnal"
+                ],
+                "Uzbek": [
+                    "jurnal"
+                ],
+                "Uyghur": [
+                    "ژۇرنال"
+                ],
+                "Kazakh": [
+                    "журнал"
+                ],
+                "Kyrgyz": [
+                    "журнал"
+                ],
+                "Karakalpak": [
+                    "jurnal"
+                ],
+                "Tatar": [
+                    "журнал"
+                ],
+                "Bashkir": [
+                    "журнал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mecmua"
+                ],
+                "Turkmen": [
+                    "mežmua"
+                ],
+                "Uyghur": [
+                    "مەجمۇئە"
+                ],
+                "Kazakh": [
+                    "мәжмүғат"
+                ],
+                "Kyrgyz": [
+                    "мажмуа"
+                ],
+                "Karakalpak": [
+                    "májmua"
+                ],
+                "Tatar": [
+                    "мәҗмуга"
+                ],
+                "Bashkir": [
+                    "мәжмүғә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dergi"
+                ],
+                "Azerbaijani": [
+                    "dərgü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məcəllə"
+                ],
+                "Uzbek": [
+                    "majalla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәптер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыйнак"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "id": "i80967",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "interpol",
+    "en_definition": "an international intelligence agency permitting collaboration among intelligence agencies around the world",
+    "tr_word": "Interpol",
+    "tr_definition": "Dünya genelindeki polis teşkilatları arasında iş birliği sağlayan uluslararası kuruluş.",
+    "ru_word": "Интерпол",
+    "ru_definition": "Международная организация уголовной полиции, содействующая сотрудничеству правоохранительных органов разных стран.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "halkara polisiýa",
+                    "halkara jenaýat gözleg gullugy"
+                ],
+                "Uzbek": [
+                    "xalqaro politsiya",
+                    "xalqaro jinoiy politsiya tashkiloti"
+                ],
+                "Uyghur": [
+                    "خەلقئارالىق ساقچى تەشكىلاتى",
+                    "خەلقئارا جىنايى ئىشلار ساقچى تەشكىلاتى"
+                ],
+                "Kazakh": [
+                    "халықаралық полиция"
+                ],
+                "Karakalpak": [
+                    "xalıq aralıq policiya"
+                ],
+                "Tatar": [
+                    "халыкара полиция",
+                    "халыкара иминлек оешмасы"
+                ],
+                "Bashkir": [
+                    "халыҡ-ара полиция",
+                    "халыҡ-ара хәүефһеҙлек ойошмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milletlerarası emniyet birimi"
+                ],
+                "Kazakh": [
+                    "мемлекетаралық полиция қызметі"
+                ],
+                "Karakalpak": [
+                    "mámleketler aralıq policiya shólkemi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қылмысқа қарсы халықаралық ұйым"
+                ],
+                "Kyrgyz": [
+                    "эл аралык кылмыш иликтөө уюму"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uluslararası polis teşkilatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "beynəlxalq polis",
+                    "beynəlxalq cinayət axtarışı idarəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эл аралык полиция",
+                    "эл аралык коопсуздук уюму"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дәүләтара полиция хезмәттәшлеге"
+                ]
+            }
+        }
+    ]
+}

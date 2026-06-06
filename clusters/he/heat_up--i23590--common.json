@@ -1,0 +1,118 @@
+{
+    "id": "i23590",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "heat up",
+    "en_definition": "make hot or hotter",
+    "tr_word": "ısıtmak",
+    "tr_definition": "bir şeyi sıcak veya daha sıcak hale getirmek",
+    "ru_word": "нагревать",
+    "ru_definition": "делать горячим или более горячим",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızdırmak"
+                ],
+                "Azerbaijani": [
+                    "qızdırmaq",
+                    "qızışdırmaq"
+                ],
+                "Turkmen": [
+                    "gyzdyrmak",
+                    "gyzgynlatmak"
+                ],
+                "Uzbek": [
+                    "qizdirmoq",
+                    "qizitmoq"
+                ],
+                "Uyghur": [
+                    "قىزدۇرماق"
+                ],
+                "Kazakh": [
+                    "қыздыру"
+                ],
+                "Kyrgyz": [
+                    "кызытуу"
+                ],
+                "Karakalpak": [
+                    "qızdırıu"
+                ],
+                "Tatar": [
+                    "кыздыру",
+                    "кыздырып җибәрү"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырыу",
+                    "ҡыҙыулау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ısıtmak",
+                    "ısındırmak"
+                ],
+                "Azerbaijani": [
+                    "isitmək"
+                ],
+                "Turkmen": [
+                    "yzgytmak"
+                ],
+                "Uzbek": [
+                    "isitmoq",
+                    "isitmalamoq"
+                ],
+                "Uyghur": [
+                    "ئىسسىتماق"
+                ],
+                "Kazakh": [
+                    "ысыту"
+                ],
+                "Kyrgyz": [
+                    "ысытуу"
+                ],
+                "Karakalpak": [
+                    "ısıtıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жылыту"
+                ],
+                "Kyrgyz": [
+                    "жылытуу"
+                ],
+                "Karakalpak": [
+                    "jılıtıu"
+                ],
+                "Tatar": [
+                    "җылыту"
+                ],
+                "Bashkir": [
+                    "йылытыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەپتىنى ئاشۇرماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кайнату"
+                ]
+            }
+        }
+    ]
+}

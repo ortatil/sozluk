@@ -1,0 +1,145 @@
+{
+    "id": "i53135",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "drawstring",
+    "en_definition": "a tie consisting of a cord that goes through a seam around an opening",
+    "tr_word": "uçkur",
+    "tr_definition": "Bir giysinin beline veya bir torbanın ağzına geçirilen, çekilince orayı büzen bağ.",
+    "ru_word": "кулиска",
+    "ru_definition": "Шнурок или тесьма, продетая в подшитый край одежды или сумки для затягивания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağcık",
+                    "bağ"
+                ],
+                "Azerbaijani": [
+                    "bağ",
+                    "bağcıq"
+                ],
+                "Turkmen": [
+                    "bagjyk",
+                    "bag"
+                ],
+                "Uzbek": [
+                    "bog'ich"
+                ],
+                "Uyghur": [
+                    "باغ"
+                ],
+                "Kazakh": [
+                    "бау",
+                    "баулық"
+                ],
+                "Kyrgyz": [
+                    "бау"
+                ],
+                "Karakalpak": [
+                    "bao"
+                ],
+                "Tatar": [
+                    "бау",
+                    "бәйләвеч"
+                ],
+                "Bashkir": [
+                    "бау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uçkur"
+                ],
+                "Turkmen": [
+                    "uçkur"
+                ],
+                "Kyrgyz": [
+                    "ычкыр"
+                ],
+                "Bashkir": [
+                    "ышкыр",
+                    "ышкыр бау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ip"
+                ],
+                "Turkmen": [
+                    "üp"
+                ],
+                "Uzbek": [
+                    "ip"
+                ],
+                "Kyrgyz": [
+                    "жип"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "izhor"
+                ],
+                "Uyghur": [
+                    "ئىشتانباغ"
+                ],
+                "Tatar": [
+                    "ышкы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تارتقۇچ"
+                ],
+                "Bashkir": [
+                    "тартыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ызылған бау",
+                    "ызылған жіп"
+                ],
+                "Karakalpak": [
+                    "ızıp",
+                    "ızıp-bao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kordon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qaytan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tasma"
+                ]
+            }
+        }
+    ]
+}

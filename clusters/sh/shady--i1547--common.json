@@ -1,0 +1,111 @@
+{
+    "id": "i1547",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "shady",
+    "en_definition": "filled with shade",
+    "tr_word": "gölgeli",
+    "tr_definition": "gölgesi olan, güneşten korunmuş",
+    "ru_word": "тенистый",
+    "ru_definition": "находящийся в тени, защищенный от солнца",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gölgeli",
+                    "gölge",
+                    "gölgelik"
+                ],
+                "Azerbaijani": [
+                    "kölgəli",
+                    "kölgəlik"
+                ],
+                "Turkmen": [
+                    "kölegeli"
+                ],
+                "Kazakh": [
+                    "көлеңкелі",
+                    "көлеңке"
+                ],
+                "Kyrgyz": [
+                    "көлөкөлүү",
+                    "көлөкө"
+                ],
+                "Karakalpak": [
+                    "kóleńkeli"
+                ],
+                "Tatar": [
+                    "күләгәле",
+                    "күләгә"
+                ],
+                "Bashkir": [
+                    "күләгәле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sayəli"
+                ],
+                "Turkmen": [
+                    "saýaly"
+                ],
+                "Uzbek": [
+                    "soyali"
+                ],
+                "Uyghur": [
+                    "سايە",
+                    "سايىلىق"
+                ],
+                "Kazakh": [
+                    "саялы"
+                ],
+                "Kyrgyz": [
+                    "саялуу"
+                ],
+                "Karakalpak": [
+                    "sayalı",
+                    "saya"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "salqin"
+                ],
+                "Uyghur": [
+                    "سالقىن"
+                ],
+                "Tatar": [
+                    "салкынча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuytu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "panoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ышыҡ"
+                ]
+            }
+        }
+    ]
+}

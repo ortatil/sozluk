@@ -1,0 +1,151 @@
+{
+    "id": "i113422",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "hazard",
+    "en_definition": "a source of danger; a possibility of incurring loss or misfortune",
+    "tr_word": "tehlike",
+    "tr_definition": "zarar verme veya kayba uğratma ihtimali olan durum veya kaynak",
+    "ru_word": "опасность",
+    "ru_definition": "источник возможного вреда, несчастья или убытка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xətər"
+                ],
+                "Turkmen": [
+                    "hatar"
+                ],
+                "Uzbek": [
+                    "xatar"
+                ],
+                "Uyghur": [
+                    "خەتەر"
+                ],
+                "Kazakh": [
+                    "қатер"
+                ],
+                "Karakalpak": [
+                    "qáter"
+                ],
+                "Tatar": [
+                    "хәтәр"
+                ],
+                "Bashkir": [
+                    "хәтәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "howp"
+                ],
+                "Uzbek": [
+                    "xavf"
+                ],
+                "Uyghur": [
+                    "خەۋپ"
+                ],
+                "Kazakh": [
+                    "қауіп"
+                ],
+                "Kyrgyz": [
+                    "кооп",
+                    "кооптуулук"
+                ],
+                "Karakalpak": [
+                    "qáuіp"
+                ],
+                "Tatar": [
+                    "хәвеф"
+                ],
+                "Bashkir": [
+                    "хәүеф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töwekgelçilik"
+                ],
+                "Uzbek": [
+                    "tavakkal"
+                ],
+                "Uyghur": [
+                    "تەۋەككۈل"
+                ],
+                "Kazakh": [
+                    "тәуекел"
+                ],
+                "Kyrgyz": [
+                    "тобокел"
+                ],
+                "Karakalpak": [
+                    "táuekel"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qorxu"
+                ],
+                "Kyrgyz": [
+                    "коркунуч"
+                ],
+                "Tatar": [
+                    "куркыныч"
+                ],
+                "Bashkir": [
+                    "ҡурҡыныс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tehlike"
+                ],
+                "Azerbaijani": [
+                    "təhlükə"
+                ],
+                "Uzbek": [
+                    "tahlikа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "risk",
+                    "riziko"
+                ],
+                "Azerbaijani": [
+                    "risk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekince"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәүеф-хәтәр"
+                ]
+            }
+        }
+    ]
+}

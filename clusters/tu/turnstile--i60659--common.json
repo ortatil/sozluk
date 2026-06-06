@@ -1,0 +1,120 @@
+{
+    "id": "i60659",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "turnstile",
+    "en_definition": "a gate consisting of a post that acts as a pivot for rotating arms; set in a passageway for controlling the persons entering",
+    "tr_word": "turnike",
+    "tr_definition": "İnsanların giriş çıkışını kontrol etmek amacıyla kullanılan, dönen kolları olan geçiş kapısı.",
+    "ru_word": "турникет",
+    "ru_definition": "Устройство для регулирования прохода людей, состоящее из вращающихся планок на вертикальной стойке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aylanma darvoza",
+                    "aylanma toʻsiq",
+                    "aylanma eshik"
+                ],
+                "Uyghur": [
+                    "ئايلانما دەرۋازا",
+                    "ئايلانما توساق",
+                    "ئايلانما كىرىش ئېغىزى"
+                ],
+                "Kazakh": [
+                    "айналмалы есік",
+                    "айналмалы қақпа"
+                ],
+                "Kyrgyz": [
+                    "айланма эшик",
+                    "айланма тосмо"
+                ],
+                "Karakalpak": [
+                    "aylanba esik",
+                    "aylanba tosqın"
+                ],
+                "Tatar": [
+                    "әйләнмәле капка",
+                    "әйләнмәле ишек"
+                ],
+                "Bashkir": [
+                    "әйләнмәле ҡапҡа",
+                    "әйләнмәле ишек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өткізгіш"
+                ],
+                "Kyrgyz": [
+                    "өткөрмө"
+                ],
+                "Tatar": [
+                    "үткәргеч"
+                ],
+                "Bashkir": [
+                    "үткәргес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "turnike"
+                ],
+                "Azerbaijani": [
+                    "turniket"
+                ],
+                "Turkmen": [
+                    "turniket"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geçiş kapısı"
+                ],
+                "Azerbaijani": [
+                    "keçid qapısı"
+                ],
+                "Turkmen": [
+                    "geçelge"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fırlanan qapı"
+                ],
+                "Turkmen": [
+                    "aylanýan gapy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұрма"
+                ],
+                "Karakalpak": [
+                    "buralma esik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "döner kapı"
+                ]
+            }
+        }
+    ]
+}

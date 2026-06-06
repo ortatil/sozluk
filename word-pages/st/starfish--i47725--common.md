@@ -1,0 +1,73 @@
+# Starfish
+| Field | Detail |
+|---|---|
+| **ID** | i47725 |
+| **English** | starfish |
+| **Type** | noun |
+| **Definition** | echinoderms characterized by five arms extending from a central disk |
+| **Source** | common |
+| **Ortatil** | yulduzbaliq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i47725",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "starfish",
+    "en_definition": "echinoderms characterized by five arms extending from a central disk",
+    "tr_word": "denizyıldızı",
+    "tr_definition": "merkezi bir diskten uzanan beş kola sahip olan derisi dikenli bir deniz canlısı",
+    "ru_word": "морская звезда",
+    "ru_definition": "иглокожее животное, характеризующееся наличием пяти лучей, отходящих от центрального диска",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "denizyıldızı",
+                    "deniz yıldızı"
+                ],
+                "Azerbaijani": [
+                    "dəniz ulduzu"
+                ],
+                "Turkmen": [
+                    "deňiz ýyldyzy"
+                ],
+                "Uzbek": [
+                    "dengiz yulduzi"
+                ],
+                "Uyghur": [
+                    "دېڭىز يۇلتۇزى"
+                ],
+                "Kazakh": [
+                    "теңіз жұлдызы"
+                ],
+                "Kyrgyz": [
+                    "деңиз жылдызы"
+                ],
+                "Karakalpak": [
+                    "teńiz juldızı"
+                ],
+                "Tatar": [
+                    "диңгез йолдызы"
+                ],
+                "Bashkir": [
+                    "диңгеҙ йондоҙо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yulduzbaliq"
+                ]
+            }
+        }
+    ]
+}
+```
+

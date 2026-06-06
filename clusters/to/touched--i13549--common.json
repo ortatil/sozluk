@@ -1,0 +1,128 @@
+{
+    "id": "i13549",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "touched",
+    "en_definition": "having come into contact",
+    "tr_word": "temas etmiş",
+    "tr_definition": "başka bir nesne veya yüzeyle fiziksel olarak bir araya gelmiş",
+    "ru_word": "тронутый",
+    "ru_definition": "пришедший в соприкосновение с чем-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "değmiş"
+                ],
+                "Azerbaijani": [
+                    "dəyilmiş"
+                ],
+                "Turkmen": [
+                    "deglen"
+                ],
+                "Uzbek": [
+                    "tekkan"
+                ],
+                "Uyghur": [
+                    "تەگكەن",
+                    "تېگىشكەن",
+                    "تەگمە"
+                ],
+                "Kazakh": [
+                    "тиген"
+                ],
+                "Kyrgyz": [
+                    "тийген",
+                    "тийишкен",
+                    "тийип турган"
+                ],
+                "Karakalpak": [
+                    "tigen",
+                    "tiygen"
+                ],
+                "Tatar": [
+                    "тигән"
+                ],
+                "Bashkir": [
+                    "тейелгән",
+                    "тейеп торған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "temas etmiş"
+                ],
+                "Azerbaijani": [
+                    "təmasda"
+                ],
+                "Uyghur": [
+                    "تەماس قىلىنغان"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жанасқан"
+                ],
+                "Kyrgyz": [
+                    "жанашкан"
+                ],
+                "Karakalpak": [
+                    "janasqan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dokunulmuş"
+                ],
+                "Azerbaijani": [
+                    "toxunulmuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tegilgan",
+                    "tutilgan"
+                ],
+                "Kazakh": [
+                    "түйіскен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кагылган",
+                    "кагылышлы"
+                ],
+                "Bashkir": [
+                    "ҡағылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "galtaşan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aloqador"
+                ]
+            }
+        }
+    ]
+}

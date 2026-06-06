@@ -1,0 +1,116 @@
+{
+    "id": "i8268",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "melted",
+    "en_definition": "changed from a solid to a liquid state",
+    "tr_word": "erimiş",
+    "tr_definition": "katı halden sıvı hale geçmiş olan",
+    "ru_word": "расплавленный",
+    "ru_definition": "перешедший из твердого состояния в жидкое",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "erimiş",
+                    "erik"
+                ],
+                "Azerbaijani": [
+                    "ərimiş",
+                    "əridilmiş"
+                ],
+                "Turkmen": [
+                    "erän",
+                    "eridilen"
+                ],
+                "Uzbek": [
+                    "erigan",
+                    "eritilgan"
+                ],
+                "Uyghur": [
+                    "ئېرىگەن",
+                    "ئېرىتىلگەن"
+                ],
+                "Kazakh": [
+                    "ерітілген"
+                ],
+                "Kyrgyz": [
+                    "эриген",
+                    "эритме"
+                ],
+                "Karakalpak": [
+                    "erigen",
+                    "erіgen"
+                ],
+                "Tatar": [
+                    "эрегән",
+                    "эретелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwalan"
+                ],
+                "Uyghur": [
+                    "سۇيۇقلانغان"
+                ],
+                "Tatar": [
+                    "су булган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еріген"
+                ],
+                "Kyrgyz": [
+                    "эзилген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "балқыған"
+                ],
+                "Karakalpak": [
+                    "balqıǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müntehir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ирегән",
+                    "иретелгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡойолған"
+                ]
+            }
+        }
+    ]
+}

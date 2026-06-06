@@ -1,0 +1,88 @@
+{
+    "id": "i75852",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "birthday party",
+    "en_definition": "a party held on the anniversary of someone's birth",
+    "tr_word": "doğum günü partisi",
+    "tr_definition": "bir kişinin doğum yıl dönümünü kutlamak amacıyla düzenlenen eğlence",
+    "ru_word": "день рождения",
+    "ru_definition": "праздничное мероприятие, проводимое в честь годовщины рождения человека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doğum günü partisi",
+                    "doğum günü kutlaması",
+                    "doğum günü şenliği",
+                    "doğum günü cemiyeti"
+                ],
+                "Turkmen": [
+                    "doglan gün meýlisi",
+                    "doglan gün dabarasy",
+                    "doglan gün toyu"
+                ],
+                "Uzbek": [
+                    "tugʻilgan kun marosimi"
+                ],
+                "Uyghur": [
+                    "تۇغۇلغان كۈن يىغىلىشى",
+                    "تۇغۇلغان كۈن مەرىكىسى",
+                    "تۇغۇلغان كۈن زىياپىتى"
+                ],
+                "Kazakh": [
+                    "туған күн кеші",
+                    "туған күн тойы",
+                    "туған күн мерекесі"
+                ],
+                "Karakalpak": [
+                    "tuoılǵan kún keshesi",
+                    "tuoılǵan kún bayramı",
+                    "tuoılǵan kún májilisi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tugʻilgan kun bazmi",
+                    "tugʻilgan kun ziyofati",
+                    "tugʻilgan kun tantanasi"
+                ],
+                "Kyrgyz": [
+                    "туулган күн кечеси",
+                    "туулган күн той",
+                    "туулган күн майрамы"
+                ],
+                "Tatar": [
+                    "туган көн мәҗлесе",
+                    "туган көн бәйрәме",
+                    "туган көн табыны"
+                ],
+                "Bashkir": [
+                    "тыуған көн мәжлесе",
+                    "тыуған көн байрамы",
+                    "тыуған көн табыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ad günü məclisi",
+                    "ad günü şənliyi",
+                    "ad günü ziyafəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mövlud məclisi"
+                ]
+            }
+        }
+    ]
+}

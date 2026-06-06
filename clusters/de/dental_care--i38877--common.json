@@ -1,0 +1,100 @@
+{
+    "id": "i38877",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dental care",
+    "en_definition": "care for the teeth",
+    "tr_word": "diş bakımı",
+    "tr_definition": "dişlerin temizliği ve sağlığı için yapılan işlemlerin bütünü",
+    "ru_word": "уход за зубами",
+    "ru_definition": "комплекс гигиенических и лечебных процедур для поддержания здоровья зубов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diş bakımı",
+                    "diş sağlığı"
+                ],
+                "Azerbaijani": [
+                    "diş baxımı"
+                ],
+                "Turkmen": [
+                    "diş idegi",
+                    "diş saglygy"
+                ],
+                "Uzbek": [
+                    "tish muolajasi",
+                    "tish davolash"
+                ],
+                "Uyghur": [
+                    "چىش ئاسراش",
+                    "چىش داۋالاش"
+                ],
+                "Kazakh": [
+                    "тіс күтімі",
+                    "тіс емдеу",
+                    "тіс саулығы"
+                ],
+                "Kyrgyz": [
+                    "тиш күтүү",
+                    "тиш дарылоо",
+                    "тиш саламаттыгы"
+                ],
+                "Karakalpak": [
+                    "tis kútimi",
+                    "tis salamatlıǵı"
+                ],
+                "Tatar": [
+                    "теш карау",
+                    "теш саклау"
+                ],
+                "Bashkir": [
+                    "теш ҡарау",
+                    "теш дауалау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "diş müalicəsi"
+                ],
+                "Turkmen": [
+                    "diş bejergisi"
+                ],
+                "Uzbek": [
+                    "tish parvarishi"
+                ],
+                "Tatar": [
+                    "теш тәрбиясе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "diş qulluğu"
+                ],
+                "Bashkir": [
+                    "теш тәрбиәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağız ve diş sağlığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چىش كۈتۈنۈشى"
+                ]
+            }
+        }
+    ]
+}

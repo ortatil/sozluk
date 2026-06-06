@@ -1,0 +1,134 @@
+{
+    "id": "i7458",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "succulent",
+    "en_definition": "full of juice",
+    "tr_word": "sulu",
+    "tr_definition": "bol miktarda su veya özsu içeren",
+    "ru_word": "сочный",
+    "ru_definition": "содержащий в себе много сока",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şirəli"
+                ],
+                "Turkmen": [
+                    "şireli"
+                ],
+                "Uzbek": [
+                    "serfayz",
+                    "sertush",
+                    "shirali",
+                    "serob"
+                ],
+                "Uyghur": [
+                    "شىرنىلىك",
+                    "شىرەلىك"
+                ],
+                "Kazakh": [
+                    "шырынды"
+                ],
+                "Kyrgyz": [
+                    "ширелүү",
+                    "ширелүү-таттуу",
+                    "ширеси мол"
+                ],
+                "Karakalpak": [
+                    "shırınlı"
+                ],
+                "Tatar": [
+                    "шәрбәтле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sulu",
+                    "özlü"
+                ],
+                "Azerbaijani": [
+                    "sulu"
+                ],
+                "Turkmen": [
+                    "suwly"
+                ],
+                "Uyghur": [
+                    "سۇلۇق"
+                ],
+                "Kazakh": [
+                    "сөлді"
+                ],
+                "Karakalpak": [
+                    "suolı"
+                ],
+                "Bashkir": [
+                    "һутлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taze"
+                ],
+                "Tatar": [
+                    "тәмле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təravətli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tagamly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нәрлі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "miyualı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сусыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һутлы-тәмле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыулы"
+                ]
+            }
+        }
+    ]
+}

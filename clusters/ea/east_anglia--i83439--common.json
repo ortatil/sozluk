@@ -1,0 +1,84 @@
+{
+    "id": "i83439",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "east anglia",
+    "en_definition": "a region of eastern England that was formerly a kingdom",
+    "tr_word": "Doğu Anglia",
+    "tr_definition": "İngiltere'nin doğusunda yer alan ve eskiden bir krallık olan bölge.",
+    "ru_word": "Восточная Англия",
+    "ru_definition": "Регион на востоке Англии, который ранее был королевством.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şərqi Anqliya"
+                ],
+                "Uzbek": [
+                    "Sharqiy Angliya"
+                ],
+                "Uyghur": [
+                    "شەرقىي ئانگلىيە"
+                ],
+                "Kazakh": [
+                    "Шығыс Англия"
+                ],
+                "Karakalpak": [
+                    "Shıǵıs Angliya"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئىست ئانگلىيە"
+                ],
+                "Kyrgyz": [
+                    "Ист-Англия"
+                ],
+                "Karakalpak": [
+                    "Ist-Angliya"
+                ],
+                "Tatar": [
+                    "Ист-Англия"
+                ],
+                "Bashkir": [
+                    "Ист-Англия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Көнчыгыш Англия"
+                ],
+                "Bashkir": [
+                    "Көнсығыш Англия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Doğu Anglia"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Gündogar Angliýa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Чыгыш Англия"
+                ]
+            }
+        }
+    ]
+}

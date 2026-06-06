@@ -1,0 +1,77 @@
+{
+    "id": "i78274",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "saffron",
+    "en_definition": "dried pungent stigmas of the Old World saffron crocus",
+    "tr_word": "safran",
+    "tr_definition": "Çiğdem cinsinden bitkilerin kurutulmuş tepeciklerinden elde edilen, yemeklere renk ve koku veren baharat.",
+    "ru_word": "шафран",
+    "ru_definition": "Высушенные рыльца цветков крокуса, используемые как пряность и пищевой краситель.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "safran",
+                    "zaferan"
+                ],
+                "Azerbaijani": [
+                    "zəfəran",
+                    "zəfəran çiçəyi"
+                ],
+                "Turkmen": [
+                    "zafran",
+                    "safran"
+                ],
+                "Uzbek": [
+                    "za'faron"
+                ],
+                "Uyghur": [
+                    "زەپەر",
+                    "زەپەران"
+                ],
+                "Kyrgyz": [
+                    "шафран"
+                ],
+                "Karakalpak": [
+                    "zápiran"
+                ],
+                "Tatar": [
+                    "зәгъфран",
+                    "сафран"
+                ],
+                "Bashkir": [
+                    "зәфәрән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "зағыпыран"
+                ],
+                "Kyrgyz": [
+                    "загыра"
+                ],
+                "Karakalpak": [
+                    "zaǵıpıran"
+                ],
+                "Bashkir": [
+                    "зәғефрән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kurkum"
+                ],
+                "Kazakh": [
+                    "күркүм"
+                ]
+            }
+        }
+    ]
+}

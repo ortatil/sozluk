@@ -1,0 +1,106 @@
+# Martial law
+| Field | Detail |
+|---|---|
+| **ID** | i81489 |
+| **English** | martial law |
+| **Type** | noun |
+| **Definition** | the body of law imposed by the military over civilian affairs (usually in time of war or civil crisis); overrides civil law |
+| **Source** | common |
+| **Ortatil** | sıkıyönetim |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i81489",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "martial law",
+    "en_definition": "the body of law imposed by the military over civilian affairs (usually in time of war or civil crisis); overrides civil law",
+    "tr_word": "sıkıyönetim",
+    "tr_definition": "Sivil yönetimin askeri otoriteye devredildiği, temel hak ve özgürlüklerin kısıtlanabildiği olağanüstü yönetim biçimi.",
+    "ru_word": "военное положение",
+    "ru_definition": "Особый правовой режим в государстве или его части, устанавливаемый решением высшего органа государственной власти при исключительных обстоятельствах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbi vəziyyət",
+                    "hərbi idarə",
+                    "hərbi qanun"
+                ],
+                "Turkmen": [
+                    "harby ýagdaý",
+                    "harby düzgün"
+                ],
+                "Uzbek": [
+                    "harbiy holat",
+                    "harbiy tartib",
+                    "harbiy boshqaruv"
+                ],
+                "Uyghur": [
+                    "ھەربىي ھالەت",
+                    "ھەربىي ئىدارە قىلىش",
+                    "ھەربىي قانۇن"
+                ],
+                "Karakalpak": [
+                    "hárbiy jaǵday"
+                ],
+                "Tatar": [
+                    "хәрби хәл",
+                    "хәрби канун",
+                    "хәрби идарә"
+                ],
+                "Bashkir": [
+                    "хәрби хәл",
+                    "хәрби ҡанун",
+                    "хәрби идара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "әскери жағдай",
+                    "әскери тәртіп"
+                ],
+                "Kyrgyz": [
+                    "аскердик абал"
+                ],
+                "Karakalpak": [
+                    "askerıy jaǵday"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "соғыс жағдайы"
+                ],
+                "Kyrgyz": [
+                    "согуштук абал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıkıyönetim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "idare-i örfiye"
+                ]
+            }
+        }
+    ]
+}
+```
+

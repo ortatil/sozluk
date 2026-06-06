@@ -1,0 +1,118 @@
+{
+    "id": "i82491",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "testing ground",
+    "en_definition": "a region resembling a laboratory inasmuch as it offers opportunities for observation and practice and experimentation",
+    "tr_word": "deneme tahtası",
+    "tr_definition": "gözlem, uygulama ve deney yapma imkanı sunan, laboratuvar niteliğindeki bölge veya ortam",
+    "ru_word": "испытательный полигон",
+    "ru_definition": "регион или среда, напоминающая лабораторию, поскольку она предоставляет возможности для наблюдения, практики и экспериментов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tecrübe sahası"
+                ],
+                "Azerbaijani": [
+                    "təcrübə sahəsi",
+                    "təcrübəgah"
+                ],
+                "Turkmen": [
+                    "tejribe meýdany"
+                ],
+                "Uzbek": [
+                    "tajribaxona",
+                    "tajriba maydoni"
+                ],
+                "Uyghur": [
+                    "تەجرىبە مەيدانى"
+                ],
+                "Kazakh": [
+                    "тәжірибе алаңы",
+                    "тәжірибе орны"
+                ],
+                "Kyrgyz": [
+                    "тажрыйба аянты",
+                    "тажрыйба талаасы"
+                ],
+                "Karakalpak": [
+                    "tájiriybe maydanı"
+                ],
+                "Tatar": [
+                    "тәҗрибә кыры"
+                ],
+                "Bashkir": [
+                    "тәжрибә майҙаны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınama yeri"
+                ],
+                "Azerbaijani": [
+                    "sınaq meydanı"
+                ],
+                "Turkmen": [
+                    "synag meýdançasy",
+                    "synag meýdany"
+                ],
+                "Uzbek": [
+                    "sinov maydoni"
+                ],
+                "Uyghur": [
+                    "سىناق مەيدانى",
+                    "سىناقگاھ"
+                ],
+                "Kazakh": [
+                    "сынақ алаңы",
+                    "сынақ орны"
+                ],
+                "Kyrgyz": [
+                    "сыноо аянты",
+                    "сыноо талаасы"
+                ],
+                "Karakalpak": [
+                    "sınaq maydanı",
+                    "sınaq ornı"
+                ],
+                "Tatar": [
+                    "сынау мәйданы",
+                    "сынау урыны"
+                ],
+                "Bashkir": [
+                    "һынау майҙаны",
+                    "һынау урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məşq yeri"
+                ],
+                "Uzbek": [
+                    "mashqgoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deneme alanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tatbikat alanı"
+                ]
+            }
+        }
+    ]
+}

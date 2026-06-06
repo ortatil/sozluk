@@ -1,0 +1,107 @@
+{
+    "id": "i37914",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "badminton",
+    "en_definition": "a game played on a court with light long-handled rackets used to volley a shuttlecock over a net",
+    "tr_word": "badminton",
+    "tr_definition": "Hafif, uzun saplı raketler ve tüylü bir top (shuttlecock) ile ağ üzerinden oynanan bir kort oyunu.",
+    "ru_word": "бадминтон",
+    "ru_definition": "Спортивная игра с воланом и ракетками через сетку на площадке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "badminton"
+                ],
+                "Azerbaijani": [
+                    "badminton"
+                ],
+                "Turkmen": [
+                    "badminton"
+                ],
+                "Uzbek": [
+                    "badminton",
+                    "patli koptok oʻyini"
+                ],
+                "Uyghur": [
+                    "بەدمىنتون"
+                ],
+                "Kazakh": [
+                    "бадминтон"
+                ],
+                "Kyrgyz": [
+                    "бадминтон"
+                ],
+                "Karakalpak": [
+                    "badminton"
+                ],
+                "Tatar": [
+                    "бадминтон"
+                ],
+                "Bashkir": [
+                    "бадминтон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tüytop"
+                ],
+                "Uyghur": [
+                    "تۈكلۈك توپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қауырсын доп"
+                ],
+                "Bashkir": [
+                    "ҡаурый туп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "волан оюну"
+                ],
+                "Karakalpak": [
+                    "wolan oyını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lələk topu oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "raketka oýny"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "perli top oýny"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "туп-каурый уены"
+                ]
+            }
+        }
+    ]
+}

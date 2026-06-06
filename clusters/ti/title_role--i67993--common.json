@@ -1,0 +1,123 @@
+{
+    "id": "i67993",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "title role",
+    "en_definition": "the role of the character after whom the play is named",
+    "tr_word": "başrol",
+    "tr_definition": "Bir oyuna veya filme adını veren karakterin canlandırıldığı rol.",
+    "ru_word": "заглавная роль",
+    "ru_definition": "Роль персонажа, именем которого названа пьеса или фильм.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başrol",
+                    "başkarakter",
+                    "başoyuncu"
+                ],
+                "Azerbaijani": [
+                    "baş rol"
+                ],
+                "Turkmen": [
+                    "baş keşp",
+                    "baş rol"
+                ],
+                "Uzbek": [
+                    "bosh rol"
+                ],
+                "Uyghur": [
+                    "باش رول"
+                ],
+                "Kazakh": [
+                    "басты рөл"
+                ],
+                "Kyrgyz": [
+                    "башкы роль"
+                ],
+                "Karakalpak": [
+                    "bas rol"
+                ],
+                "Tatar": [
+                    "баш роль"
+                ],
+                "Bashkir": [
+                    "баш роль"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ad rol"
+                ],
+                "Kazakh": [
+                    "атаулы рөл"
+                ],
+                "Kyrgyz": [
+                    "аталыш ролу"
+                ],
+                "Karakalpak": [
+                    "atama rol"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "esasy keşp"
+                ],
+                "Uzbek": [
+                    "asosiy rol"
+                ],
+                "Uyghur": [
+                    "ئاساسىي رول"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "негізгі рөл"
+                ],
+                "Kyrgyz": [
+                    "негизги роль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп роль"
+                ],
+                "Bashkir": [
+                    "төп роль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mərkəzi obraz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nomdosh rol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇنۋان رولى"
+                ]
+            }
+        }
+    ]
+}

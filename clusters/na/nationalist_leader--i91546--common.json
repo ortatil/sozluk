@@ -1,0 +1,92 @@
+{
+    "id": "i91546",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nationalist leader",
+    "en_definition": "the leader of a nationalist movement",
+    "tr_word": "milliyetçi lider",
+    "tr_definition": "milliyetçi bir hareketin önderi",
+    "ru_word": "националистический лидер",
+    "ru_definition": "лидер националистического движения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milliyetçi lider",
+                    "milli önder",
+                    "milli reis"
+                ],
+                "Azerbaijani": [
+                    "millətçi rəhbər",
+                    "milli öndər",
+                    "millətçi başçı",
+                    "milli rəis"
+                ],
+                "Turkmen": [
+                    "milli öndebaşçy",
+                    "milli ýolbaşçy",
+                    "milletperwer serdar"
+                ],
+                "Uzbek": [
+                    "millat sardori",
+                    "millat peshvosi",
+                    "milliy yo'lboshchi",
+                    "millat rahbari"
+                ],
+                "Uyghur": [
+                    "مىللىي رەھبەر",
+                    "مىللەتچى رەھبەر",
+                    "مىللىي داھىي",
+                    "مىللەت يېتەكچىسى"
+                ],
+                "Karakalpak": [
+                    "millet jetekshisi",
+                    "millet bası",
+                    "milletshiler basshısı"
+                ],
+                "Tatar": [
+                    "милләт юлбашчысы",
+                    "милли юлбашчы",
+                    "милләт атасы",
+                    "милли лидер"
+                ],
+                "Bashkir": [
+                    "милләт юлбашсыһы",
+                    "милли юлбашсы",
+                    "милләт башлығы",
+                    "милли лидер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ulusçu lider"
+                ],
+                "Kyrgyz": [
+                    "улуттук жолбашчы",
+                    "улуттук лидер",
+                    "улутчул жетекчи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұлт көсемі",
+                    "ұлттық жетекші",
+                    "ұлттық басшы",
+                    "ұлт қайраткері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "элдик жолбашчы"
+                ]
+            }
+        }
+    ]
+}

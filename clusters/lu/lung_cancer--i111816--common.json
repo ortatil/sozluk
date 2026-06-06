@@ -1,0 +1,67 @@
+{
+    "id": "i111816",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lung cancer",
+    "en_definition": "carcinoma of the lungs; one of the commonest forms of cancer",
+    "tr_word": "akciğer kanseri",
+    "tr_definition": "Akciğer dokularındaki hücrelerin kontrolsüz çoğalmasıyla oluşan kötü huylu tümör.",
+    "ru_word": "рак лёгких",
+    "ru_definition": "Злокачественное новообразование лёгкого, происходящее из эпителиальной ткани бронхов различного калибра.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öýken ragy",
+                    "öýken seretany"
+                ],
+                "Uzbek": [
+                    "o'pka saratoni",
+                    "o'pka rak",
+                    "o'pka xastaligi"
+                ],
+                "Uyghur": [
+                    "ئۆپكە راكى",
+                    "ئۆپكە سېرتانى"
+                ],
+                "Kazakh": [
+                    "өкпе қатерлі ісігі",
+                    "өкпе рагы",
+                    "өкпе обыры"
+                ],
+                "Kyrgyz": [
+                    "өпкө рагы",
+                    "өпкө шишиги",
+                    "өпкө катерлүү шишиги"
+                ],
+                "Karakalpak": [
+                    "ókpe ragı",
+                    "ókpe saratanı",
+                    "ókpe qattı isigi"
+                ],
+                "Tatar": [
+                    "үпкә рагы",
+                    "үпкә яман шеше"
+                ],
+                "Bashkir": [
+                    "үпкә яман шеше",
+                    "үпкә рагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akciğer kanseri",
+                    "akciğer tümörü",
+                    "akciğer seratanı"
+                ],
+                "Azerbaijani": [
+                    "ağciyər xərçəngi",
+                    "ağciyər sərutanı"
+                ]
+            }
+        }
+    ]
+}

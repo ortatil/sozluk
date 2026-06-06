@@ -1,0 +1,145 @@
+{
+    "id": "i80170",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bus company",
+    "en_definition": "a public utility providing local transportation",
+    "tr_word": "otobüs şirketi",
+    "tr_definition": "yerel ulaşım hizmeti sağlayan kamu veya özel kuruluş",
+    "ru_word": "автобусная компания",
+    "ru_definition": "предприятие общественного транспорта, обеспечивающее местные перевозки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtobus müəssisəsi"
+                ],
+                "Turkmen": [
+                    "awtobus kärhanasy"
+                ],
+                "Uzbek": [
+                    "avtobus korxonasi"
+                ],
+                "Uyghur": [
+                    "ئاپتوبۇس شىركىتى"
+                ],
+                "Kazakh": [
+                    "автобус мекемесі"
+                ],
+                "Kyrgyz": [
+                    "автобус ишканасы"
+                ],
+                "Karakalpak": [
+                    "awtobus kárxanası",
+                    "awtobus parkı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýolagçy ulag edarasy"
+                ],
+                "Uzbek": [
+                    "yoʻlovchi tashish korxonasi"
+                ],
+                "Kazakh": [
+                    "жолаушылар тасымалы мекемесі"
+                ],
+                "Tatar": [
+                    "юлчылар ташу идарәсе"
+                ],
+                "Bashkir": [
+                    "юлсылар ойошмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "transport uyushmasi"
+                ],
+                "Kyrgyz": [
+                    "транспорт ишканасы"
+                ],
+                "Tatar": [
+                    "транспорт оешмасы",
+                    "транспорт ширкәте"
+                ],
+                "Bashkir": [
+                    "транспорт ойошмаһы",
+                    "транспорт идаралығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ulaşım şirketi"
+                ],
+                "Turkmen": [
+                    "ulag kärhanasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəqliyyat idarəsi"
+                ],
+                "Uyghur": [
+                    "نەقلىيات شىركىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاتناش شىركىتى"
+                ],
+                "Kyrgyz": [
+                    "каттам ишканасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otobüs işletmesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taşıma kooperatifi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sərnişindaşıma şirkəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік кәсіпорны",
+                    "көлік басқармасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jóneltio mekemesi"
+                ]
+            }
+        }
+    ]
+}

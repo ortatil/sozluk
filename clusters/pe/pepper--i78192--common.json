@@ -1,0 +1,107 @@
+{
+    "id": "i78192",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pepper",
+    "en_definition": "pungent seasoning from the berry of the common pepper plant of East India; use whole or ground",
+    "tr_word": "karabiber",
+    "tr_definition": "Doğu Hindistan'da yetişen karabiber bitkisinin meyvelerinden elde edilen, tane veya toz halinde kullanılan acı baharat.",
+    "ru_word": "перец",
+    "ru_definition": "острая приправа из ягод обыкновенного перечного растения, используемая в цельном или молотом виде.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mürç"
+                ],
+                "Turkmen": [
+                    "burç"
+                ],
+                "Uzbek": [
+                    "murch"
+                ],
+                "Uyghur": [
+                    "مۇرچ"
+                ],
+                "Kyrgyz": [
+                    "мурч"
+                ],
+                "Karakalpak": [
+                    "mursh"
+                ],
+                "Tatar": [
+                    "борыч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karabiber"
+                ],
+                "Turkmen": [
+                    "gara burç"
+                ],
+                "Uyghur": [
+                    "قارا مۇرچ"
+                ],
+                "Kazakh": [
+                    "қара бұрыш"
+                ],
+                "Karakalpak": [
+                    "qara mursh"
+                ],
+                "Bashkir": [
+                    "ҡара борос"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "biber"
+                ],
+                "Azerbaijani": [
+                    "bibər"
+                ],
+                "Karakalpak": [
+                    "pirpish"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бұрыш"
+                ],
+                "Tatar": [
+                    "борыч-тәмләткеч"
+                ],
+                "Bashkir": [
+                    "борос"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qalampir"
+                ],
+                "Kyrgyz": [
+                    "калемпир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istiot"
+                ]
+            }
+        }
+    ]
+}

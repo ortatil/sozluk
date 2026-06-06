@@ -1,0 +1,74 @@
+{
+    "id": "i69613",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "syllable",
+    "en_definition": "a unit of spoken language larger than a phoneme",
+    "tr_word": "hece",
+    "tr_definition": "bir kerede çıkarılan, içinde bir ünlü bulunan ses veya ses birliği",
+    "ru_word": "слог",
+    "ru_definition": "минимальная фонетико-фонологическая единица, состоящая из одного или нескольких звуков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bogun"
+                ],
+                "Uzbek": [
+                    "bo'g'in"
+                ],
+                "Uyghur": [
+                    "بوغۇم"
+                ],
+                "Kazakh": [
+                    "буын"
+                ],
+                "Karakalpak": [
+                    "buoın"
+                ],
+                "Bashkir": [
+                    "быуын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hece"
+                ],
+                "Azerbaijani": [
+                    "heca"
+                ],
+                "Uzbek": [
+                    "hijo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иҗек"
+                ],
+                "Bashkir": [
+                    "ижек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seslem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "муун"
+                ]
+            }
+        }
+    ]
+}

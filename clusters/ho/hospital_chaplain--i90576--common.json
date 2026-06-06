@@ -1,0 +1,107 @@
+{
+    "id": "i90576",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hospital chaplain",
+    "en_definition": "a chaplain in a hospital",
+    "tr_word": "hastane papazı",
+    "tr_definition": "Hastanelerde hastalara, ailelere ve personele manevi destek ve dini hizmet sunan görevli.",
+    "ru_word": "больничный капеллан",
+    "ru_definition": "Священнослужитель, прикрепленный к больнице для оказания духовной помощи пациентам и персоналу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hastane imamı",
+                    "hastane vaizi"
+                ],
+                "Azerbaijani": [
+                    "xəstəxana din xadimi",
+                    "xəstəxana ruhanisi",
+                    "xəstəxana mollası",
+                    "xəstəxana vaizi"
+                ],
+                "Turkmen": [
+                    "hassahana ruhany",
+                    "hassahana mollasy",
+                    "hassahana dini hyzmatkäri"
+                ],
+                "Tatar": [
+                    "хастаханә мулласы",
+                    "хастаханә рухание"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shifoxona imomi",
+                    "shifoxona diniy xizmatchisi"
+                ],
+                "Tatar": [
+                    "шифаханә мулласы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "manevi destek görevlisi",
+                    "manevi rehber"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kasalxona ruhoniysi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دوختۇرخانا دىنىي خادىمى",
+                    "دوختۇرخانا موللىسى",
+                    "دوختۇرخانا ئىمامى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аурухана имамы",
+                    "аурухана діндаршысы",
+                    "аурухана рухани қызметкері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оорукана молдосу",
+                    "оорукана дин кызматкери",
+                    "оорукана руханийи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "emleuxana moldası",
+                    "emleuxana ruoxıy xızmetkeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дауахана муллаһы",
+                    "дауахана дин әһеле",
+                    "дауахана хәҙрәте"
+                ]
+            }
+        }
+    ]
+}

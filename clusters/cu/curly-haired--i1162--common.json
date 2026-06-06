@@ -1,0 +1,124 @@
+{
+    "id": "i1162",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "curly-haired",
+    "en_definition": "covered with curly hair",
+    "tr_word": "kıvırcık saçlı",
+    "tr_definition": "saçları kıvrım kıvrım olan, bukleli saçlara sahip kimse",
+    "ru_word": "кудрявый",
+    "ru_definition": "имеющий вьющиеся волосы, с завитками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bukleli"
+                ],
+                "Kazakh": [
+                    "бұйра",
+                    "бұйрабас"
+                ],
+                "Kyrgyz": [
+                    "буйра",
+                    "буйра чачтуу"
+                ],
+                "Karakalpak": [
+                    "bұyra",
+                    "bұyrabas",
+                    "bұyra shashlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "buruq",
+                    "buruqsaç"
+                ],
+                "Turkmen": [
+                    "burum-burum",
+                    "burum saçly"
+                ],
+                "Uzbek": [
+                    "burama"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بۈدرە چاچ",
+                    "بۈدرە"
+                ],
+                "Tatar": [
+                    "бөдрә",
+                    "бөдрә чәчле"
+                ],
+                "Bashkir": [
+                    "бөҙрә",
+                    "бөҙрә сәсле",
+                    "бөҙрәбаш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kıvırcık",
+                    "kıvırcık saçlı"
+                ],
+                "Azerbaijani": [
+                    "qıvrım",
+                    "qıvrımsaç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "towly",
+                    "towly saçly"
+                ],
+                "Kazakh": [
+                    "толқынды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qayirma"
+                ],
+                "Uyghur": [
+                    "قايرىما چاچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jingalak",
+                    "jingalaksoch"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тармал",
+                    "тармал чачтуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кырлы чәчле"
+                ]
+            }
+        }
+    ]
+}

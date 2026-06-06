@@ -1,0 +1,80 @@
+{
+    "id": "i35566",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "natural object",
+    "en_definition": "an object occurring naturally; not made by man",
+    "tr_word": "doğal nesne",
+    "tr_definition": "insan eliyle yapılmamış, doğada kendiliğinden bulunan nesne",
+    "ru_word": "природный объект",
+    "ru_definition": "объект, возникший естественным путем, а не созданный человеком",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tabii varlık",
+                    "tabiat varlığı"
+                ],
+                "Azerbaijani": [
+                    "təbii varlıq",
+                    "təbiət cismi",
+                    "təbii obyekt"
+                ],
+                "Turkmen": [
+                    "tebigy zat",
+                    "tebigy obýekt",
+                    "tebigy madda"
+                ],
+                "Uzbek": [
+                    "tabiiy narsa",
+                    "tabiiy jism",
+                    "tabiat mahsuli"
+                ],
+                "Uyghur": [
+                    "تەبىئىي شەيئى",
+                    "تەبىئىي جىسىم",
+                    "تەبىئەت ئەسەرى"
+                ],
+                "Kazakh": [
+                    "табиғи нысан",
+                    "табиғат заты",
+                    "табиғи дене"
+                ],
+                "Kyrgyz": [
+                    "табигый нерсе",
+                    "табият заты"
+                ],
+                "Karakalpak": [
+                    "tabiyǵıy nárse",
+                    "tabiyǵıy zat",
+                    "tabiyat zatı"
+                ],
+                "Tatar": [
+                    "табигый объект",
+                    "табигать күренеше",
+                    "табигый нәрсә"
+                ],
+                "Bashkir": [
+                    "тәбиғәт объекты",
+                    "тәбиғи нәмә",
+                    "тәбиғәт заты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğal nesne"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жаратылыш заты"
+                ]
+            }
+        }
+    ]
+}

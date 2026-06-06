@@ -1,0 +1,146 @@
+# Double-edged
+| Field | Detail |
+|---|---|
+| **ID** | i542 |
+| **English** | double-edged |
+| **Type** | adjective |
+| **Definition** | capable of being interpreted in two usually contradictory ways |
+| **Source** | common |
+| **Ortatil** | ziddiyätli |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مۇجەم | mujäm |
+| **Kazakh** | |
+| күмәнді | kümändi |
+| екіұшты | yekiuştı |
+| екідайлы | yekidaylı |
+| екіжақты | yekijaqtı |
+
+```json
+{
+    "id": "i542",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "double-edged",
+    "en_definition": "capable of being interpreted in two usually contradictory ways",
+    "tr_word": "iki ucu keskin",
+    "tr_definition": "genellikle birbirine zıt iki şekilde yorumlanabilen veya hem olumlu hem olumsuz sonuçları olabilen",
+    "ru_word": "двусмысленный",
+    "ru_definition": "способный интерпретироваться двумя, обычно противоречивыми способами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki ucu keskin",
+                    "iki taraflı",
+                    "iki ağızlı"
+                ],
+                "Azerbaijani": [
+                    "ikiüzlü",
+                    "ikibaşlı",
+                    "ikimənalı"
+                ],
+                "Turkmen": [
+                    "ikiuçly",
+                    "ikimanly",
+                    "ikitaraply"
+                ],
+                "Uzbek": [
+                    "ikki tomonlama",
+                    "ikki qirrali",
+                    "ikki ma'noli"
+                ],
+                "Uyghur": [
+                    "ئىككى تەرەپلىمە",
+                    "ئىككى خىل مەنىلىك"
+                ],
+                "Kyrgyz": [
+                    "эки ача",
+                    "эки маанилүү",
+                    "эки жүздүү"
+                ],
+                "Karakalpak": [
+                    "ekі maǵınalı",
+                    "ekі ұshtı"
+                ],
+                "Tatar": [
+                    "ике яклы",
+                    "ике мәгънәле",
+                    "ике йөзле"
+                ],
+                "Bashkir": [
+                    "ике мәғәнәле",
+                    "ике яҡлы",
+                    "ике төрлө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ziddiyyətli"
+                ],
+                "Uzbek": [
+                    "ziddiyatli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күмәнді"
+                ],
+                "Karakalpak": [
+                    "kúmándі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift anlamlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müphemiyetli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوش تىغلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇجەم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "екіұшты",
+                    "екідайлы",
+                    "екіжақты"
+                ]
+            }
+        }
+    ]
+}
+```
+

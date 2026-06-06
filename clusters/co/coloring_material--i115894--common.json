@@ -1,0 +1,105 @@
+{
+    "id": "i115894",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coloring material",
+    "en_definition": "any material used for its color",
+    "tr_word": "boyar madde",
+    "tr_definition": "Renk vermek amacıyla kullanılan her türlü madde.",
+    "ru_word": "краситель",
+    "ru_definition": "Любое вещество, используемое для придания цвета.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boya"
+                ],
+                "Azerbaijani": [
+                    "boyaq",
+                    "boya"
+                ],
+                "Turkmen": [
+                    "boýag"
+                ],
+                "Uzbek": [
+                    "boʻyoq",
+                    "boʻyovchi modda"
+                ],
+                "Uyghur": [
+                    "بوياق",
+                    "بويىغۇچ"
+                ],
+                "Kazakh": [
+                    "бояу",
+                    "бояғыш",
+                    "бояу заты"
+                ],
+                "Kyrgyz": [
+                    "боёк",
+                    "боёк зат"
+                ],
+                "Karakalpak": [
+                    "boyaw",
+                    "boyawshı"
+                ],
+                "Tatar": [
+                    "буяу",
+                    "буягыч"
+                ],
+                "Bashkir": [
+                    "буяу",
+                    "буяу матдәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "renklendirici"
+                ],
+                "Azerbaijani": [
+                    "rəng"
+                ],
+                "Turkmen": [
+                    "reňk",
+                    "reňkleýji"
+                ],
+                "Uzbek": [
+                    "rang"
+                ],
+                "Uyghur": [
+                    "رەڭ"
+                ],
+                "Karakalpak": [
+                    "reń"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төс"
+                ],
+                "Bashkir": [
+                    "төҫ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boyar madde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "пигмент"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "id": "i74049",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vowel",
+    "en_definition": "a letter of the alphabet standing for a spoken vowel",
+    "tr_word": "ünlü",
+    "tr_definition": "Ses yolunda bir engele çarpmadan çıkan sesleri temsil eden harf, sesli harf.",
+    "ru_word": "гласная",
+    "ru_definition": "Буква, обозначающая гласный звук.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سوزۇق تاۋۇش",
+                    "سوزۇق تاۋۇش ھەرپى"
+                ],
+                "Tatar": [
+                    "сузык",
+                    "сузык аваз"
+                ],
+                "Bashkir": [
+                    "һуҙынҡы",
+                    "һуҙынҡы өн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ünlü"
+                ],
+                "Uzbek": [
+                    "unli",
+                    "unli tovush",
+                    "unli harf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дауысты",
+                    "дауысты дыбыс"
+                ],
+                "Karakalpak": [
+                    "dauıslı",
+                    "dauıslı ses"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sesli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vokal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "harf-i ille"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sait",
+                    "sait səs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çekimli",
+                    "çekimli ses"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үндүү",
+                    "үндүү тыбыш",
+                    "үндүү тамга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "саф өн"
+                ]
+            }
+        }
+    ]
+}

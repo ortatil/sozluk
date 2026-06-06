@@ -1,0 +1,90 @@
+{
+    "id": "i104745",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "carrot",
+    "en_definition": "deep orange edible root of the cultivated carrot plant",
+    "tr_word": "havuç",
+    "tr_definition": "Maydanozgillerden, koni biçimindeki etli kökü için sebze olarak yetiştirilen bitki.",
+    "ru_word": "морковь",
+    "ru_definition": "Огородное растение, съедобный утолщенный корень оранжевого цвета.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "käşir"
+                ],
+                "Uzbek": [
+                    "gazir"
+                ],
+                "Kazakh": [
+                    "қызылша"
+                ],
+                "Tatar": [
+                    "кишер"
+                ],
+                "Bashkir": [
+                    "кишер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sabzi"
+                ],
+                "Uyghur": [
+                    "سەۋزە"
+                ],
+                "Kazakh": [
+                    "сәбіз"
+                ],
+                "Kyrgyz": [
+                    "сабыз"
+                ],
+                "Karakalpak": [
+                    "sábiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havuç"
+                ],
+                "Azerbaijani": [
+                    "həviç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "püren"
+                ],
+                "Turkmen": [
+                    "pürçüklü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yeregeçen"
+                ],
+                "Azerbaijani": [
+                    "yerkökü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kök"
+                ]
+            }
+        }
+    ]
+}

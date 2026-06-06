@@ -1,0 +1,91 @@
+{
+    "id": "synset-oewn-90013291-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vlog",
+    "en_definition": "Regular videos on the Web typically by a single independent author",
+    "tr_word": "vlog",
+    "tr_definition": "Genellikle tek bir bağımsız yazar tarafından web üzerinde yayınlanan düzenli videolar",
+    "ru_word": "влог",
+    "ru_definition": "Регулярные видеоролики в Интернете, обычно создаваемые одним независимым автором",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "video günlüğü",
+                    "video kaydı"
+                ],
+                "Azerbaijani": [
+                    "video gündəlik",
+                    "video qeyd",
+                    "video bloq"
+                ],
+                "Turkmen": [
+                    "wideo-blog",
+                    "wideo-gündelik",
+                    "wideo-ýazgy"
+                ],
+                "Uzbek": [
+                    "videokunda",
+                    "videonoma",
+                    "videoblog"
+                ],
+                "Kyrgyz": [
+                    "видеокүндөлүк"
+                ],
+                "Karakalpak": [
+                    "wideokúndelik",
+                    "wideojazba",
+                    "wideobayandama"
+                ],
+                "Tatar": [
+                    "видеокөндәлек",
+                    "видеоязма"
+                ],
+                "Bashkir": [
+                    "видеокөндәлек",
+                    "видеояҙма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "görüntülü günlük"
+                ],
+                "Kyrgyz": [
+                    "күндөлүк"
+                ],
+                "Tatar": [
+                    "көндәлек"
+                ],
+                "Bashkir": [
+                    "көндәлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнекүнделік",
+                    "бейнежазба",
+                    "бейнеблог"
+                ],
+                "Kyrgyz": [
+                    "баяндама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سىنلىق خاتىرە",
+                    "سىنلىق كۈندىلىك",
+                    "سىن خاتىرىسى"
+                ]
+            }
+        }
+    ]
+}

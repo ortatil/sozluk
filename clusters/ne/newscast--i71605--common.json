@@ -1,0 +1,143 @@
+{
+    "id": "i71605",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "newscast",
+    "en_definition": "a broadcast of news or commentary on the news",
+    "tr_word": "haber bülteni",
+    "tr_definition": "Haberlerin veya haber yorumlarının radyo veya televizyon aracılığıyla sunulması.",
+    "ru_word": "выпуск новостей",
+    "ru_definition": "Трансляция новостей или комментариев к новостям по радио или телевидению.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haberler",
+                    "haber bülteni"
+                ],
+                "Azerbaijani": [
+                    "xəbərlər",
+                    "xəbər proqramı"
+                ],
+                "Turkmen": [
+                    "habarlar"
+                ],
+                "Uzbek": [
+                    "xabarlar"
+                ],
+                "Uyghur": [
+                    "خەۋەرلەر"
+                ],
+                "Kazakh": [
+                    "хабар"
+                ],
+                "Kyrgyz": [
+                    "кабарлар"
+                ],
+                "Karakalpak": [
+                    "xabarlar"
+                ],
+                "Tatar": [
+                    "хәбәрләр"
+                ],
+                "Bashkir": [
+                    "хәбәрҙәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "täzelikler"
+                ],
+                "Uzbek": [
+                    "yangiliklar"
+                ],
+                "Uyghur": [
+                    "يېڭىلىقلار"
+                ],
+                "Kazakh": [
+                    "жаңалықтар"
+                ],
+                "Kyrgyz": [
+                    "жаңылыктар"
+                ],
+                "Karakalpak": [
+                    "jańalıqlar"
+                ],
+                "Tatar": [
+                    "яңалыклар"
+                ],
+                "Bashkir": [
+                    "яңылыҡтар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məlumat"
+                ],
+                "Turkmen": [
+                    "maglumatlar"
+                ],
+                "Kazakh": [
+                    "мәлімет"
+                ],
+                "Karakalpak": [
+                    "málimleme"
+                ],
+                "Tatar": [
+                    "мәгълүмат"
+                ],
+                "Bashkir": [
+                    "мәғлүмәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "axborot"
+                ],
+                "Uyghur": [
+                    "ئاخبارات"
+                ],
+                "Kazakh": [
+                    "ақпарат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havadis"
+                ],
+                "Uyghur": [
+                    "خەۋەر پروگراممىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bildiriş"
+                ],
+                "Kyrgyz": [
+                    "билдирүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ajans"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": "i50285",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "automobile factory",
+    "en_definition": "a factory where automobiles are manufactured",
+    "tr_word": "otomobil fabrikası",
+    "tr_definition": "otomobillerin üretildiği fabrika",
+    "ru_word": "автомобильный завод",
+    "ru_definition": "завод, на котором производятся автомобили",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otomobil fabrikası"
+                ],
+                "Azerbaijani": [
+                    "avtomobil zavodu",
+                    "avtomobil fabriki"
+                ],
+                "Turkmen": [
+                    "awtoulag zawody"
+                ],
+                "Uzbek": [
+                    "avtomobil zavodi"
+                ],
+                "Uyghur": [
+                    "ئاپتوموبىل زاۋۇتى"
+                ],
+                "Kazakh": [
+                    "автокөлік зауыты"
+                ],
+                "Kyrgyz": [
+                    "автоунаа заводу"
+                ],
+                "Karakalpak": [
+                    "awtomobil zawodı"
+                ],
+                "Tatar": [
+                    "автомобиль заводы"
+                ],
+                "Bashkir": [
+                    "автомобиль заводы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşıt fabrikası"
+                ],
+                "Azerbaijani": [
+                    "maşın zavodu"
+                ],
+                "Turkmen": [
+                    "maşyn zawody"
+                ],
+                "Uzbek": [
+                    "mashinasozlik zavodi"
+                ],
+                "Uyghur": [
+                    "ماشىنا زاۋۇتى"
+                ],
+                "Kazakh": [
+                    "мәшіне зауыты"
+                ],
+                "Kyrgyz": [
+                    "машина заводу"
+                ],
+                "Karakalpak": [
+                    "mashina zawodı"
+                ],
+                "Tatar": [
+                    "машина заводы"
+                ],
+                "Bashkir": [
+                    "машиналар эшләү заводы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araba fabrikası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ulag kärhanasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік зауыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа заводу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "id": "i112247",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sinus headache",
+    "en_definition": "a headache resulting from congestion or infection in the paranasal sinuses",
+    "tr_word": "sinüzit ağrısı",
+    "tr_definition": "paranasal sinüslerdeki tıkanıklık veya enfeksiyon sonucu oluşan baş ağrısı",
+    "ru_word": "синусовая головная боль",
+    "ru_definition": "головная боль, возникающая в результате застоя или инфекции в придаточных пазухах носа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "haymorit ağrısı"
+                ],
+                "Turkmen": [
+                    "gaymoryt agrysy"
+                ],
+                "Uzbek": [
+                    "gaymorit og'rig'i"
+                ],
+                "Kazakh": [
+                    "гайморит бас ауруы"
+                ],
+                "Kyrgyz": [
+                    "гайморит оорусу"
+                ],
+                "Karakalpak": [
+                    "gaymorit bas aoırıuı"
+                ],
+                "Tatar": [
+                    "гайморит авыртуы"
+                ],
+                "Bashkir": [
+                    "гайморит ауыртыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "burun boşlugynyň agrysy"
+                ],
+                "Uzbek": [
+                    "burun bo'shlig'i og'rig'i"
+                ],
+                "Uyghur": [
+                    "بۇرۇن بوشلۇقى ئاغرىقى",
+                    "بۇرۇن بوشلۇقى ياللۇغى بېشى"
+                ],
+                "Kazakh": [
+                    "мұрын қуысының ауруы"
+                ],
+                "Kyrgyz": [
+                    "мурун көңдөйүнүн оорусу"
+                ],
+                "Tatar": [
+                    "борындагы куышлыклар авыртуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sinüzit ağrısı",
+                    "sinüs ağrısı",
+                    "sinüzit baş ağrısı"
+                ],
+                "Azerbaijani": [
+                    "sinusit ağrısı",
+                    "sinus baş ağrısı"
+                ],
+                "Turkmen": [
+                    "sinusit agrysy"
+                ],
+                "Uyghur": [
+                    "سىنۇس ئاغرىقى"
+                ],
+                "Karakalpak": [
+                    "sinus bas aoırıuı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қойнау ауруы"
+                ],
+                "Bashkir": [
+                    "ҡыуышлыҡ һыҙлауы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "баш куышлыгы авыртуы"
+                ],
+                "Bashkir": [
+                    "баш һыҙлауы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dimog' og'rig'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "маңдай оорусу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "múyіs bas aoırıuı"
+                ]
+            }
+        }
+    ]
+}

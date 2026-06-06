@@ -1,0 +1,133 @@
+{
+    "id": "i94061",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wearer",
+    "en_definition": "a person who wears or carries or displays something as a body covering or accessory",
+    "tr_word": "giyen kişi",
+    "tr_definition": "bir giysiyi, aksesuarı veya takıyı üzerinde taşıyan veya kullanan kimse",
+    "ru_word": "носитель",
+    "ru_definition": "человек, который носит какую-либо одежду, аксессуар или украшение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "giyen"
+                ],
+                "Azerbaijani": [
+                    "geyinən"
+                ],
+                "Turkmen": [
+                    "geýýän",
+                    "geýiji"
+                ],
+                "Uzbek": [
+                    "kiyuvchi"
+                ],
+                "Uyghur": [
+                    "كېيگۈچى"
+                ],
+                "Kazakh": [
+                    "киюші"
+                ],
+                "Kyrgyz": [
+                    "кийүүчү",
+                    "кийген киши"
+                ],
+                "Karakalpak": [
+                    "kiyioshi"
+                ],
+                "Tatar": [
+                    "киюче"
+                ],
+                "Bashkir": [
+                    "кейеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşıyan"
+                ],
+                "Azerbaijani": [
+                    "daşıyan"
+                ],
+                "Turkmen": [
+                    "dakynýan"
+                ],
+                "Kazakh": [
+                    "тағушы"
+                ],
+                "Kyrgyz": [
+                    "тагынуучу"
+                ],
+                "Karakalpak": [
+                    "taǵıoshı"
+                ],
+                "Tatar": [
+                    "тагучы"
+                ],
+                "Bashkir": [
+                    "тағыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istifadəçi"
+                ],
+                "Uyghur": [
+                    "ئىشلەتكۈچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taquvchi"
+                ],
+                "Uyghur": [
+                    "تاققۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "иеленуші"
+                ],
+                "Karakalpak": [
+                    "iyesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йөртүче"
+                ],
+                "Bashkir": [
+                    "йөрөтөүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kullanan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sohib"
+                ]
+            }
+        }
+    ]
+}

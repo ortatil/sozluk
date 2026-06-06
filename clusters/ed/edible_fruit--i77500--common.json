@@ -1,0 +1,113 @@
+{
+    "id": "i77500",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "edible fruit",
+    "en_definition": "edible reproductive body of a seed plant especially one having sweet flesh",
+    "tr_word": "yenilebilir meyve",
+    "tr_definition": "tohumlu bir bitkinin, özellikle tatlı etli kısmı olan, yenmeye uygun üreme organı",
+    "ru_word": "съедобный плод",
+    "ru_definition": "съедобный репродуктивный орган семенного растения, особенно имеющий сладкую мякоть",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyve"
+                ],
+                "Azerbaijani": [
+                    "meyvə"
+                ],
+                "Turkmen": [
+                    "miwe"
+                ],
+                "Uzbek": [
+                    "meva"
+                ],
+                "Uyghur": [
+                    "مېۋە",
+                    "مېۋە-چېۋە"
+                ],
+                "Kazakh": [
+                    "миуа"
+                ],
+                "Karakalpak": [
+                    "miyue"
+                ],
+                "Tatar": [
+                    "мивә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yemiş"
+                ],
+                "Azerbaijani": [
+                    "yemiş"
+                ],
+                "Turkmen": [
+                    "iýmiş"
+                ],
+                "Kazakh": [
+                    "жеміс",
+                    "жеміс-жидек"
+                ],
+                "Kyrgyz": [
+                    "жемиш"
+                ],
+                "Karakalpak": [
+                    "jemis"
+                ],
+                "Tatar": [
+                    "җимеш"
+                ],
+                "Bashkir": [
+                    "емеш",
+                    "емеш-еләк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bar"
+                ],
+                "Azerbaijani": [
+                    "bar"
+                ],
+                "Uzbek": [
+                    "bor"
+                ],
+                "Uyghur": [
+                    "بار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "samar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мөмө",
+                    "мөмө-жемиш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "татлы емеш"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "id": "i19860",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "externally",
+    "en_definition": "on or from the outside",
+    "tr_word": "dıştan",
+    "tr_definition": "dışarıdan veya dış yüzeyden gelen ya da olan",
+    "ru_word": "внешне",
+    "ru_definition": "снаружи или с внешней стороны",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dışarıdan",
+                    "dıştan"
+                ],
+                "Turkmen": [
+                    "daşyndan",
+                    "daşarydan",
+                    "daşky"
+                ],
+                "Uzbek": [
+                    "tashqaridan",
+                    "tashqi",
+                    "tashqi tomondan"
+                ],
+                "Uyghur": [
+                    "تاشقى جەھەتتىن",
+                    "تاشقى تەرەپتىن"
+                ],
+                "Kyrgyz": [
+                    "тышкы"
+                ],
+                "Karakalpak": [
+                    "tısqarıdan"
+                ],
+                "Tatar": [
+                    "тыштан",
+                    "тышкыча",
+                    "тышкы яктан"
+                ],
+                "Bashkir": [
+                    "тыштан",
+                    "тышҡы яҡтан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سىرتتىن"
+                ],
+                "Kazakh": [
+                    "сырттай",
+                    "сыртынан",
+                    "сыртқы жағынан"
+                ],
+                "Kyrgyz": [
+                    "сыртынан",
+                    "сырттан"
+                ],
+                "Karakalpak": [
+                    "sırttan",
+                    "sırtqılay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haricen"
+                ],
+                "Azerbaijani": [
+                    "xaricən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zahirən"
+                ],
+                "Uzbek": [
+                    "zohiran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çöldən"
+                ],
+                "Bashkir": [
+                    "ситтән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bayırdan"
+                ]
+            }
+        }
+    ]
+}

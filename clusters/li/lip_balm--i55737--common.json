@@ -1,0 +1,78 @@
+{
+    "id": "i55737",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lip balm",
+    "en_definition": "a balm applied to the lips",
+    "tr_word": "dudak balmı",
+    "tr_definition": "dudakları nemlendirmek ve korumak için sürülen yumuşatıcı krem",
+    "ru_word": "бальзам для губ",
+    "ru_definition": "косметическое средство для ухода за кожей губ",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ерін майы",
+                    "ерін бальзамы",
+                    "ерін жақпасы"
+                ],
+                "Kyrgyz": [
+                    "эрин май",
+                    "эрин бальзамы",
+                    "эринге сүйкөөчү май"
+                ],
+                "Karakalpak": [
+                    "erіn mayı",
+                    "erіn jaqpası"
+                ],
+                "Tatar": [
+                    "ирен бальзамы",
+                    "ирен майы"
+                ],
+                "Bashkir": [
+                    "ирен бәлзәме",
+                    "ирен майы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dudak nemlendiricisi",
+                    "dudak kremi",
+                    "dudak merhemi"
+                ],
+                "Azerbaijani": [
+                    "dodaq balzamı",
+                    "dodaq məlhəmi",
+                    "dodaq yağı"
+                ],
+                "Turkmen": [
+                    "dudak melhemi",
+                    "dudak ýagy",
+                    "dudak balzamy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lab malhami",
+                    "lab moyi"
+                ],
+                "Uyghur": [
+                    "لەۋ مەلھىمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "لەۋ يېغى"
+                ]
+            }
+        }
+    ]
+}

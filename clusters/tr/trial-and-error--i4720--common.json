@@ -1,0 +1,119 @@
+{
+    "id": "i4720",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "trial-and-error",
+    "en_definition": "trying out various means or theories until error is satisfactorily reduced or eliminated",
+    "tr_word": "deneme yanılma yoluyla yapılan",
+    "tr_definition": "hata payı tatmin edici bir düzeye indirilene veya tamamen ortadan kaldırılana kadar çeşitli yöntemlerin veya teorilerin denendiği yöntem",
+    "ru_word": "методом проб и ошибок",
+    "ru_definition": "основанный на опробовании различных средств или теорий до тех пор, пока ошибка не будет удовлетворительно уменьшена или устранена",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınama yanılma"
+                ],
+                "Azerbaijani": [
+                    "sınaq-yanılma"
+                ],
+                "Turkmen": [
+                    "synag-ýalňyşlyk",
+                    "synap görme"
+                ],
+                "Uzbek": [
+                    "sinov-xato"
+                ],
+                "Uyghur": [
+                    "سىناپ كۆرۈش",
+                    "سىناش ۋە خاتالىق"
+                ],
+                "Kazakh": [
+                    "сынап-көру",
+                    "сынамалы"
+                ],
+                "Kyrgyz": [
+                    "сынап көрүү",
+                    "сынап-текшерүү"
+                ],
+                "Karakalpak": [
+                    "sınap-kório",
+                    "sınaqlı"
+                ],
+                "Tatar": [
+                    "сынап-тикшереп",
+                    "сынау-хата"
+                ],
+                "Bashkir": [
+                    "һынау-хата",
+                    "һынау юлы менән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tecrübi"
+                ],
+                "Azerbaijani": [
+                    "təcrübə-sınaq"
+                ],
+                "Uzbek": [
+                    "tajriba-sinov"
+                ],
+                "Uyghur": [
+                    "تەجرىبە-سىناق"
+                ],
+                "Kazakh": [
+                    "тәжірибелік"
+                ],
+                "Kyrgyz": [
+                    "тажрыйбалык"
+                ],
+                "Karakalpak": [
+                    "tájiriybelik"
+                ],
+                "Bashkir": [
+                    "тәжрибә-һынау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deneme yanılma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yoxlama-düzəltmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "barlag-ýalňyşlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taxminiy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "amaliy-sinov"
+                ]
+            }
+        }
+    ]
+}

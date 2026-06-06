@@ -1,0 +1,102 @@
+{
+    "id": "i115004",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "diamond",
+    "en_definition": "very hard native crystalline carbon valued as a gem",
+    "tr_word": "elmas",
+    "tr_definition": "Mücevher olarak değerli, çok sert, kristalleşmiş saf karbon",
+    "ru_word": "алмаз",
+    "ru_definition": "Минерал, состоящий из чистого углерода, обладающий наивысшей твердостью и используемый как драгоценный камень",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elmas"
+                ],
+                "Azerbaijani": [
+                    "almaz"
+                ],
+                "Turkmen": [
+                    "almaz"
+                ],
+                "Uzbek": [
+                    "olmos"
+                ],
+                "Uyghur": [
+                    "ئالماس"
+                ],
+                "Kazakh": [
+                    "алмас"
+                ],
+                "Kyrgyz": [
+                    "алмаз",
+                    "алмас"
+                ],
+                "Karakalpak": [
+                    "almas"
+                ],
+                "Tatar": [
+                    "алмас"
+                ],
+                "Bashkir": [
+                    "алмас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cevher"
+                ],
+                "Azerbaijani": [
+                    "cəvahir"
+                ],
+                "Uzbek": [
+                    "javohir"
+                ],
+                "Uyghur": [
+                    "جەۋھەر"
+                ],
+                "Kazakh": [
+                    "жауһар"
+                ],
+                "Tatar": [
+                    "әүһәр"
+                ],
+                "Bashkir": [
+                    "әүһәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pırlanta"
+                ],
+                "Azerbaijani": [
+                    "brilyant"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "göwher"
+                ],
+                "Karakalpak": [
+                    "gaohar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жакут"
+                ]
+            }
+        }
+    ]
+}

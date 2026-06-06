@@ -1,0 +1,80 @@
+{
+    "id": "i65360",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bloodstream",
+    "en_definition": "the blood flowing through the circulatory system",
+    "tr_word": "kan dolaşımı",
+    "tr_definition": "vücuttaki dolaşım sistemi içinde akan kan",
+    "ru_word": "кровоток",
+    "ru_definition": "кровь, текущая по кровеносной системе организма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kan dolaşımı",
+                    "kan akışı"
+                ],
+                "Azerbaijani": [
+                    "qan dövranı",
+                    "qan axını",
+                    "qan damarı"
+                ],
+                "Turkmen": [
+                    "gan akyşy",
+                    "gan aýlanyşy",
+                    "gan damary"
+                ],
+                "Uzbek": [
+                    "qon oqimi",
+                    "qon aylanishi",
+                    "qon tomiri"
+                ],
+                "Uyghur": [
+                    "قان ئايلىنىش",
+                    "قان تومۇرى"
+                ],
+                "Kazakh": [
+                    "қан ағысы",
+                    "қан айналымы",
+                    "қан тамыры"
+                ],
+                "Kyrgyz": [
+                    "кан тамыр",
+                    "кан айлануу",
+                    "кан агымы"
+                ],
+                "Karakalpak": [
+                    "qan tamırı",
+                    "qan aǵısı",
+                    "qan jolı"
+                ],
+                "Tatar": [
+                    "кан тамыры",
+                    "кан агышы",
+                    "кан юлы"
+                ],
+                "Bashkir": [
+                    "ҡан тамыры",
+                    "ҡан ағышы",
+                    "ҡан юлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kan yolu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قان سىستېمىسى"
+                ]
+            }
+        }
+    ]
+}

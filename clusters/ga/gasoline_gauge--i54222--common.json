@@ -1,0 +1,103 @@
+{
+    "id": "i54222",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gasoline gauge",
+    "en_definition": "gauge that indicates the amount of gasoline left in the gasoline tank of a vehicle",
+    "tr_word": "yakıt göstergesi",
+    "tr_definition": "Bir aracın yakıt deposunda kalan yakıt miktarını gösteren alet",
+    "ru_word": "указатель уровня топлива",
+    "ru_definition": "прибор, показывающий количество бензина, оставшегося в топливном баке автомобиля",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "benzin göstergesi",
+                    "benzin saati"
+                ],
+                "Azerbaijani": [
+                    "benzin göstəricisi"
+                ],
+                "Uzbek": [
+                    "benzin oʻlchagich"
+                ],
+                "Uyghur": [
+                    "بېنزىن كۆرسەتكۈچى"
+                ],
+                "Kyrgyz": [
+                    "бензин өлчөгүч"
+                ],
+                "Karakalpak": [
+                    "benzin ólshegish"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yakıt göstergesi",
+                    "yakıt saati"
+                ],
+                "Uzbek": [
+                    "yoqilgʻi oʻlchagich",
+                    "yoqilgʻi koʻrsatkichi"
+                ],
+                "Tatar": [
+                    "ягулык үлчәгече",
+                    "ягулык күрсәткече"
+                ],
+                "Bashkir": [
+                    "яғыулыҡ үлсәгес",
+                    "яғыулыҡ күрһәткес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yanacaq göstəricisi",
+                    "yanacaq ölçəni"
+                ],
+                "Turkmen": [
+                    "ýangyç ölçeýji",
+                    "ýangyç görkeziji"
+                ],
+                "Kazakh": [
+                    "жанармай өлшегіш",
+                    "жанармай көрсеткіші"
+                ],
+                "Karakalpak": [
+                    "janılǵı ólshegish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماي كۆرسەتكۈچى",
+                    "ماي ئۆلچىگۈچى"
+                ],
+                "Kyrgyz": [
+                    "май өлчөгүч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отын өлшегіш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күйүүчү май өлчөгүч"
+                ]
+            }
+        }
+    ]
+}

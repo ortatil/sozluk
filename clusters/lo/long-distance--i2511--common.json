@@ -1,0 +1,134 @@
+{
+    "id": "i2511",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "long-distance",
+    "en_definition": "covering a long distance",
+    "tr_word": "uzun mesafeli",
+    "tr_definition": "uzun bir mesafeyi kapsayan veya kateden",
+    "ru_word": "дальний",
+    "ru_definition": "покрывающий или охватывающий большое расстояние",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzak",
+                    "ırak"
+                ],
+                "Azerbaijani": [
+                    "uzaq",
+                    "iraq"
+                ],
+                "Turkmen": [
+                    "uzak",
+                    "uzak aralykdaky"
+                ],
+                "Uzbek": [
+                    "uzoq",
+                    "uzoq masofali"
+                ],
+                "Uyghur": [
+                    "ئۇزاق"
+                ],
+                "Kazakh": [
+                    "ұзақ"
+                ],
+                "Kyrgyz": [
+                    "узак"
+                ],
+                "Karakalpak": [
+                    "uzaq"
+                ],
+                "Tatar": [
+                    "озын"
+                ],
+                "Bashkir": [
+                    "оҙон"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yiroq"
+                ],
+                "Uyghur": [
+                    "يىراق",
+                    "يىراق مۇساپىلىك"
+                ],
+                "Kazakh": [
+                    "жырақ"
+                ],
+                "Karakalpak": [
+                    "jıraq"
+                ],
+                "Tatar": [
+                    "ерак"
+                ],
+                "Bashkir": [
+                    "йыраҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "olis"
+                ],
+                "Kazakh": [
+                    "алыс"
+                ],
+                "Kyrgyz": [
+                    "алыс"
+                ],
+                "Karakalpak": [
+                    "alıs"
+                ],
+                "Bashkir": [
+                    "алыҫ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uzun mesafeli"
+                ],
+                "Azerbaijani": [
+                    "uzaqməsafəli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қашық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ыраак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аралы"
+                ]
+            }
+        }
+    ]
+}

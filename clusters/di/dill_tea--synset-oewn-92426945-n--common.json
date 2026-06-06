@@ -1,0 +1,76 @@
+{
+    "id": "synset-oewn-92426945-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dill tea",
+    "en_definition": "a beverage of a dill infusion",
+    "tr_word": "dereotu çayı",
+    "tr_definition": "dereotu tohumu veya yapraklarının demlenmesiyle hazırlanan içecek",
+    "ru_word": "укропный чай",
+    "ru_definition": "напиток, приготовленный путем настаивания семян или зелени укропа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şüyüd çayı",
+                    "şüyüd dəmləməsi"
+                ],
+                "Uzbek": [
+                    "shivit choyi",
+                    "shivit damlamasi"
+                ],
+                "Uyghur": [
+                    "شۈيۈت چىيى",
+                    "شۈيۈت دەملىمىسى"
+                ],
+                "Tatar": [
+                    "шөет чәе",
+                    "шөет төнәтмәсе"
+                ],
+                "Bashkir": [
+                    "шөбөт сәйе",
+                    "шөбөт төнәтмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "укроп чайы",
+                    "укроп кайнатмасы",
+                    "укроп суусу"
+                ],
+                "Karakalpak": [
+                    "ukrop shayı",
+                    "ukrop demlemesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dereotu çayı",
+                    "dereotu haşlaması",
+                    "dereotu demlenmesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şibit çaýy",
+                    "şibit demlemesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аскөк шайы",
+                    "аскөк тұнбасы"
+                ]
+            }
+        }
+    ]
+}

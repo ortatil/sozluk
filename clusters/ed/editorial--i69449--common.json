@@ -1,0 +1,134 @@
+{
+    "id": "i69449",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "editorial",
+    "en_definition": "an article giving opinions or perspectives",
+    "tr_word": "başyazı",
+    "tr_definition": "bir gazete veya derginin görüşlerini yansıtan, genellikle editör tarafından yazılan makale",
+    "ru_word": "передовая статья",
+    "ru_definition": "статья, выражающая мнение или точку зрения редакции издания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başyazı"
+                ],
+                "Azerbaijani": [
+                    "baş məqalə"
+                ],
+                "Turkmen": [
+                    "baş makala"
+                ],
+                "Uzbek": [
+                    "bosh maqola",
+                    "vezirnoma"
+                ],
+                "Uyghur": [
+                    "باش ماقالە"
+                ],
+                "Kazakh": [
+                    "бас мақала"
+                ],
+                "Kyrgyz": [
+                    "баш макала",
+                    "башкы макала"
+                ],
+                "Karakalpak": [
+                    "bas maqala"
+                ],
+                "Tatar": [
+                    "баш мәкалә"
+                ],
+                "Bashkir": [
+                    "баш мәҡәлә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fıkra"
+                ],
+                "Kazakh": [
+                    "пікір"
+                ],
+                "Kyrgyz": [
+                    "пикир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tahririyat maqolasi"
+                ],
+                "Uyghur": [
+                    "تەھرىرىي ماقالە",
+                    "تەھرىرىيەت ماقالىسى"
+                ],
+                "Karakalpak": [
+                    "táxririyat maqalası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көзқарас"
+                ],
+                "Kyrgyz": [
+                    "көз караш"
+                ],
+                "Bashkir": [
+                    "күҙәтеү мәҡәләһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "redaksiya məqaləsi"
+                ],
+                "Turkmen": [
+                    "redaksiýa makalasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөхәрририят мәкаләсе"
+                ],
+                "Bashkir": [
+                    "мөхәрририәт мәҡәләһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "makale"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eser"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұжырымдама"
+                ]
+            }
+        }
+    ]
+}

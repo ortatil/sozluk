@@ -1,0 +1,87 @@
+{
+    "id": "i74587",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "intro",
+    "en_definition": "formally making a person known to another or to the public",
+    "tr_word": "tanıtım",
+    "tr_definition": "bir kimseyi başkalarına veya halka resmen bildirme, tanıştırma",
+    "ru_word": "представление",
+    "ru_definition": "официальное знакомство человека с другим лицом или публикой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tanıtma",
+                    "tanıştırma"
+                ],
+                "Azerbaijani": [
+                    "tanışlıq"
+                ],
+                "Turkmen": [
+                    "tanyşdyrma",
+                    "tanyşdyryş",
+                    "tanyşlyk"
+                ],
+                "Uzbek": [
+                    "tanishuv",
+                    "tanishtiruv"
+                ],
+                "Uyghur": [
+                    "تونۇشتۇرۇش"
+                ],
+                "Kazakh": [
+                    "таныстыру",
+                    "таныстырылым",
+                    "таныстырушылық"
+                ],
+                "Kyrgyz": [
+                    "тааныштыруу",
+                    "тааныштырык"
+                ],
+                "Karakalpak": [
+                    "tanıstırıo",
+                    "tanıstırma"
+                ],
+                "Tatar": [
+                    "таныштыру"
+                ],
+                "Bashkir": [
+                    "таныштырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "takdim"
+                ],
+                "Azerbaijani": [
+                    "təqdimat",
+                    "təqdim"
+                ],
+                "Uzbek": [
+                    "taqdimot"
+                ],
+                "Uyghur": [
+                    "تەقدىم"
+                ],
+                "Tatar": [
+                    "тәкъдим итү"
+                ],
+                "Bashkir": [
+                    "тәҡдим итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сунуштоо"
+                ]
+            }
+        }
+    ]
+}

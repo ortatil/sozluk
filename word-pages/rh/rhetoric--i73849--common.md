@@ -1,0 +1,243 @@
+# Rhetoric
+| Field | Detail |
+|---|---|
+| **ID** | i73849 |
+| **English** | rhetoric |
+| **Type** | noun |
+| **Definition** | using language effectively to please or persuade |
+| **Source** | common |
+| **Ortatil** | bäläğat |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **bäläğat** | **retorik** | **çiçänläk** |
+|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ |
+| Kyrgyz | ❌ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ❌ |
+| Tatar | ✅ | ❌ | ✅ |
+| Bashkir | ✅ | ❌ | ✅ |
+| *Oghuz Subtotal* | 1 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0 | 0.60 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **3.80** | **1** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بەلەغەت | bäläğät |
+| پەساهەت | päsaهät |
+| **Kazakh** | |
+| бәләғат | bäläğat |
+| шешендік | şeşendik |
+| **Kyrgyz** | |
+| сөзмөрлүк | sözmörlük |
+| чечендик | çeçendik |
+| баяндоо | bayandoo |
+| **Tatar** | |
+| бәләгать | bälägat |
+| чичәнлек | çiçänlek |
+| **Bashkir** | |
+| бәләғәт | bäläğät |
+| сәсәнлек | säsänlek |
+| телмәр | telmär |
+
+```json
+{
+    "id": "i73849",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rhetoric",
+    "en_definition": "using language effectively to please or persuade",
+    "tr_word": "belagat",
+    "tr_definition": "Düşünceleri etkili ve ikna edici bir biçimde ifade etme sanatı.",
+    "ru_word": "риторика",
+    "ru_definition": "Искусство говорить или писать эффективно и убедительно.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "belagat"
+                ],
+                "Azerbaijani": [
+                    "bəlağət",
+                    "fəsahət"
+                ],
+                "Turkmen": [
+                    "belagat"
+                ],
+                "Uzbek": [
+                    "balogʻat",
+                    "fasohat"
+                ],
+                "Uyghur": [
+                    "بەلەغەت"
+                ],
+                "Kazakh": [
+                    "бәләғат"
+                ],
+                "Karakalpak": [
+                    "báleǵat"
+                ],
+                "Tatar": [
+                    "бәләгать"
+                ],
+                "Bashkir": [
+                    "бәләғәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "söz sanatı"
+                ],
+                "Turkmen": [
+                    "söz ussatlygy"
+                ],
+                "Uyghur": [
+                    "سۆز سەنئىتى"
+                ],
+                "Kyrgyz": [
+                    "сөзмөрлүк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çeper söz"
+                ],
+                "Kyrgyz": [
+                    "чечендик",
+                    "чечендик өнөр"
+                ],
+                "Tatar": [
+                    "чичәнлек"
+                ],
+                "Bashkir": [
+                    "сәсәнлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "retorik"
+                ],
+                "Azerbaijani": [
+                    "ritorika"
+                ],
+                "Turkmen": [
+                    "ritorika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "natiqlik"
+                ],
+                "Uzbek": [
+                    "notoʻliqlik",
+                    "notoʻliqlik sanʼati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шешендік",
+                    "шешендік өнер"
+                ],
+                "Karakalpak": [
+                    "sheshenlik",
+                    "sheshenlik óneri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сөз өнері"
+                ],
+                "Karakalpak": [
+                    "sóz óneri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "телгә осталык"
+                ],
+                "Bashkir": [
+                    "телмәр",
+                    "тел оҫталығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hitabet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suhandonlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پەساهەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نۇتۇق سەنئىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мәнерлеп сөйлеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "баяндоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "нәфис сүз"
+                ]
+            }
+        }
+    ]
+}
+```
+

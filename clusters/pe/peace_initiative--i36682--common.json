@@ -1,0 +1,106 @@
+{
+    "id": "i36682",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "peace initiative",
+    "en_definition": "opening move in negotiating a peace treaty",
+    "tr_word": "barış girişimi",
+    "tr_definition": "bir barış antlaşması müzakeresindeki ilk adım veya hamle",
+    "ru_word": "мирная инициатива",
+    "ru_definition": "первый шаг в переговорах о заключении мирного договора",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tinchlik tashabbusi",
+                    "tinchlik harakati"
+                ],
+                "Uyghur": [
+                    "تېنچلىق تەشەببۇسى",
+                    "تېنچلىق قەدىمى"
+                ],
+                "Kyrgyz": [
+                    "тынчтык демилгеси",
+                    "тынчтык сунушу",
+                    "тынчтыкка чакырык"
+                ],
+                "Karakalpak": [
+                    "tınıshlıq baslaması",
+                    "tınıshlıq iygiligi",
+                    "tınıshlıq usınısı"
+                ],
+                "Tatar": [
+                    "тынычлык башлангычы",
+                    "тынычлык тәкъдиме",
+                    "тынычлык инициативасы"
+                ],
+                "Bashkir": [
+                    "тыныслыҡ башланғысы",
+                    "тыныслыҡ тәҡдиме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sulh teşebbüsü"
+                ],
+                "Azerbaijani": [
+                    "sülh təşəbbüsü",
+                    "sülh addımı"
+                ],
+                "Uzbek": [
+                    "sulh tashabbusi"
+                ],
+                "Uyghur": [
+                    "سۇلھ تەشەببۇسى"
+                ],
+                "Bashkir": [
+                    "солох башланғысы",
+                    "солох тәҡдиме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "barış girişimi",
+                    "barış hamlesi",
+                    "barış teşebbüsü"
+                ],
+                "Azerbaijani": [
+                    "barışıq təşəbbüsü"
+                ],
+                "Turkmen": [
+                    "parahatçylyk başlangyjy",
+                    "parahatçylyk teşebbüsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "araşalyk başlangyjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейбітшілік бастамасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бітімгершілік бастамасы",
+                    "бітім бастамасы"
+                ]
+            }
+        }
+    ]
+}

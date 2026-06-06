@@ -1,0 +1,140 @@
+# Redistribute
+| Field | Detail |
+|---|---|
+| **ID** | i28608 |
+| **English** | redistribute |
+| **Type** | verb |
+| **Definition** | distribute anew |
+| **Source** | common |
+| **Ortatil** | büläşmäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| бүлешү | büleşü |
+| өләшү | öläşü |
+| **Bashkir** | |
+| бүлешеү | büleşeü |
+| таратыу | taratıu |
+
+```json
+{
+    "id": "i28608",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "redistribute",
+    "en_definition": "distribute anew",
+    "tr_word": "yeniden dağıtmak",
+    "tr_definition": "bir şeyi yeni bir şekilde veya farklı bir düzende tekrar paylaştırmak",
+    "ru_word": "перераспределять",
+    "ru_definition": "распределять заново или иным образом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan paýlamak"
+                ],
+                "Uzbek": [
+                    "qayta taqsimlamoq",
+                    "qayta ulashmoq",
+                    "qayta bo'lmoq"
+                ],
+                "Uyghur": [
+                    "قايتا تەقسىم قىلماق",
+                    "قايتا تارقاتماق",
+                    "قايتا ئۈلەشتۈرمەك"
+                ],
+                "Kazakh": [
+                    "қайта бөлу",
+                    "қайта үлестіру",
+                    "қайта тарату"
+                ],
+                "Kyrgyz": [
+                    "кайра бөлүштүрүү",
+                    "кайра бөлүп берүү",
+                    "кайра үлөштүрүү"
+                ],
+                "Karakalpak": [
+                    "qayta bólіsu",
+                    "qayta úlestіru",
+                    "qayta bólu"
+                ],
+                "Tatar": [
+                    "кайтадан бүлү"
+                ],
+                "Bashkir": [
+                    "ҡайтанан бүлеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden dağıtmak",
+                    "yeniden taksim etmek"
+                ],
+                "Azerbaijani": [
+                    "yenidən bölüşdürmək",
+                    "yenidən bölmək"
+                ],
+                "Tatar": [
+                    "яңадан бүлү"
+                ],
+                "Bashkir": [
+                    "яңынан бүлеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekrar paylaştırmak"
+                ],
+                "Azerbaijani": [
+                    "təkrar paylamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бүлешү",
+                    "өләшү"
+                ],
+                "Bashkir": [
+                    "бүлешеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzeden paýlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "üýtgedip paýlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "таратыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

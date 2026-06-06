@@ -1,0 +1,83 @@
+{
+    "id": "i115637",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "liquid bleach",
+    "en_definition": "a solution containing bleaching agents; used for laundry",
+    "tr_word": "çamaşır suyu",
+    "tr_definition": "çamaşırları beyazlatmak ve dezenfekte etmek için kullanılan ağartıcı çözelti",
+    "ru_word": "жидкий отбеливатель",
+    "ru_definition": "раствор, содержащий отбеливающие вещества; используется для стирки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağartıcı"
+                ],
+                "Azerbaijani": [
+                    "ağardıcı",
+                    "ağardıcı maye"
+                ],
+                "Turkmen": [
+                    "agardyjy",
+                    "agardyjy suwuklyk"
+                ],
+                "Uzbek": [
+                    "oqartirgich"
+                ],
+                "Uyghur": [
+                    "ئاقارتقۇچ سۇيۇقلۇقى",
+                    "ئاقارتقۇچ"
+                ],
+                "Kazakh": [
+                    "ағартқыш",
+                    "ағартқыш сұйықтық",
+                    "ағартқыш зат"
+                ],
+                "Kyrgyz": [
+                    "агарткыч",
+                    "агарткыч суюктук"
+                ],
+                "Karakalpak": [
+                    "aǵartqısh",
+                    "aǵartqısh su",
+                    "aǵartqısh erіtіndі"
+                ],
+                "Tatar": [
+                    "агарткыч",
+                    "агарту сыеклыгы"
+                ],
+                "Bashkir": [
+                    "ағартыусы",
+                    "ағартыу сараһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çamaşır suyu"
+                ],
+                "Azerbaijani": [
+                    "çamaşır suyu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oqartiruvchi vosita",
+                    "oqartiruvchi suyuqlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىلو سۈيى"
+                ]
+            }
+        }
+    ]
+}

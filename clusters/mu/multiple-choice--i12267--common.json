@@ -1,0 +1,138 @@
+{
+    "id": "i12267",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "multiple-choice",
+    "en_definition": "offering several alternative answers from which the correct one is to be chosen; or consisting of such questions",
+    "tr_word": "çoktan seçmeli",
+    "tr_definition": "doğru cevabın sunulan birkaç seçenek arasından seçilmesini gerektiren (soru veya sınav)",
+    "ru_word": "с выбором нескольких вариантов ответа",
+    "ru_definition": "предлагающий несколько альтернативных ответов, из которых необходимо выбрать правильный",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köp saýlawly"
+                ],
+                "Uyghur": [
+                    "كۆپ تاللانمىلىق"
+                ],
+                "Kyrgyz": [
+                    "көп варианттуу"
+                ],
+                "Karakalpak": [
+                    "kóp wariantlı"
+                ],
+                "Tatar": [
+                    "күп вариантлы"
+                ],
+                "Bashkir": [
+                    "күп вариантлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tanlovli"
+                ],
+                "Kazakh": [
+                    "таңдамалы"
+                ],
+                "Kyrgyz": [
+                    "тандалма",
+                    "тандап алуучу"
+                ],
+                "Karakalpak": [
+                    "tańlaolı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çoktan seçmeli"
+                ],
+                "Turkmen": [
+                    "jogap saýlamaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seçenekli"
+                ],
+                "Azerbaijani": [
+                    "seçməli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şıklı"
+                ],
+                "Bashkir": [
+                    "һайланма",
+                    "һайлаулы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "test"
+                ],
+                "Uzbek": [
+                    "testli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "saýlamaly"
+                ],
+                "Tatar": [
+                    "сайлап алынмалы",
+                    "сайлаулы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻp tanlovli"
+                ],
+                "Kazakh": [
+                    "көп нұсқалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çoxseçimli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاللاش شەكلىدىكى",
+                    "تاللاش خاراكتېرلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сұрыптамалы"
+                ]
+            }
+        }
+    ]
+}

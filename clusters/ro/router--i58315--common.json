@@ -1,0 +1,124 @@
+{
+    "id": "i58315",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "router",
+    "en_definition": "(computer science) a device that forwards data packets between computer networks",
+    "tr_word": "yönlendirici",
+    "tr_definition": "bilgisayar ağları arasında veri paketlerini ileten bir cihaz",
+    "ru_word": "маршрутизатор",
+    "ru_definition": "устройство, которое пересылает пакеты данных между компьютерными сетями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yönlendirici",
+                    "yöneltici"
+                ],
+                "Azerbaijani": [
+                    "yönləndirici"
+                ],
+                "Uzbek": [
+                    "yoʻnaltirgich"
+                ],
+                "Uyghur": [
+                    "يۆنىلىشلىگۈچ",
+                    "يۆنىلىش بەلگىلىگۈچ"
+                ],
+                "Tatar": [
+                    "юнәлтүче",
+                    "юнәлткеч"
+                ],
+                "Bashkir": [
+                    "йүнәлткес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bogʻlagich"
+                ],
+                "Kazakh": [
+                    "бағыттауыш"
+                ],
+                "Kyrgyz": [
+                    "багыттагыч",
+                    "байланыштыргыч"
+                ],
+                "Karakalpak": [
+                    "baǵdarlaǵısh"
+                ],
+                "Tatar": [
+                    "бәйләнешче"
+                ],
+                "Bashkir": [
+                    "бәйләнешсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýol görkeziji"
+                ],
+                "Uzbek": [
+                    "yoʻllovchi"
+                ],
+                "Kazakh": [
+                    "жолбасшы"
+                ],
+                "Kyrgyz": [
+                    "жол көрсөткүч"
+                ],
+                "Karakalpak": [
+                    "jolbasshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "marşrutlayıcı"
+                ],
+                "Turkmen": [
+                    "marşrutlaýjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tarmaqlaǵısh"
+                ],
+                "Bashkir": [
+                    "таратыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ugurlandyryjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رۇتېر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "торап"
+                ]
+            }
+        }
+    ]
+}

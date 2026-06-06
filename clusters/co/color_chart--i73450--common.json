@@ -1,0 +1,73 @@
+{
+    "id": "i73450",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "color chart",
+    "en_definition": "a chart displaying colors",
+    "tr_word": "renk kartelası",
+    "tr_definition": "renklerin bir arada gösterildiği çizelge veya örnekler dizisi",
+    "ru_word": "цветовая палитра",
+    "ru_definition": "таблица или набор образцов, отображающих различные цвета",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "renk kartelası",
+                    "renk çizelgesi",
+                    "renk kataloğu",
+                    "renk cetveli"
+                ],
+                "Azerbaijani": [
+                    "rəng cədvəli",
+                    "rəng şkalası",
+                    "rəng kataloqu"
+                ],
+                "Turkmen": [
+                    "reňk jedweli",
+                    "reňk nusgalygy",
+                    "reňk görkezijisi"
+                ],
+                "Uzbek": [
+                    "ranglar jadvali",
+                    "ranglar majmuasi",
+                    "ranglar tizmasi"
+                ],
+                "Uyghur": [
+                    "رەڭ جەدۋىلى",
+                    "رەڭ تىزىملىكى",
+                    "رەڭ كۆرسەتكۈچى"
+                ],
+                "Karakalpak": [
+                    "reńler kestesi",
+                    "reńler dizimi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "түстер кестесі",
+                    "түстер тізбесі",
+                    "түстер жинағы"
+                ],
+                "Kyrgyz": [
+                    "түс жадыбалы",
+                    "түстөр тизмеги",
+                    "түс картасы"
+                ],
+                "Tatar": [
+                    "төсләр җәдвәле",
+                    "төсләр исемлеге",
+                    "төсләр күрсәткече"
+                ],
+                "Bashkir": [
+                    "төҫтәр теҙмәһе",
+                    "төҫтәр киҫтәһе",
+                    "төҫтәр таблицаһы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "id": "i5858",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "new-made",
+    "en_definition": "newly made",
+    "tr_word": "yeni yapılmış",
+    "tr_definition": "yakın zamanda üretilmiş veya oluşturulmuş",
+    "ru_word": "свежеизготовленный",
+    "ru_definition": "недавно сделанный или созданный",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeni yapılmış",
+                    "yeni"
+                ],
+                "Azerbaijani": [
+                    "yeni",
+                    "yenicə"
+                ],
+                "Uzbek": [
+                    "yangi",
+                    "yangi yasalgan",
+                    "yangi qurilgan",
+                    "yangi bitgan"
+                ],
+                "Uyghur": [
+                    "يېڭى ياسالغان",
+                    "يېڭى قىلىنغان",
+                    "يېڭىدىن ياسالغان"
+                ],
+                "Kazakh": [
+                    "жаңадан жасалған",
+                    "жаңа"
+                ],
+                "Kyrgyz": [
+                    "жаңы",
+                    "жаңы жасалган",
+                    "жаңы бүткөн",
+                    "жаңыдан жасалган"
+                ],
+                "Karakalpak": [
+                    "jańa",
+                    "jańadan jasalǵan",
+                    "jańadan soǵılǵan"
+                ],
+                "Tatar": [
+                    "яңа ясалган",
+                    "яңа эшләнгән",
+                    "яңа"
+                ],
+                "Bashkir": [
+                    "яңы яһалған",
+                    "яңы эшләнгән",
+                    "яңы ҡоролған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taze"
+                ],
+                "Azerbaijani": [
+                    "təzə",
+                    "təzəcə"
+                ],
+                "Turkmen": [
+                    "täze",
+                    "täzeçe",
+                    "täze ýasalan",
+                    "täze edilen"
+                ],
+                "Uzbek": [
+                    "taza"
+                ],
+                "Karakalpak": [
+                    "taza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nevzuhur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тың"
+                ]
+            }
+        }
+    ]
+}

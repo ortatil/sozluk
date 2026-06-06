@@ -1,0 +1,114 @@
+{
+    "id": "i27961",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "soot",
+    "en_definition": "coat with soot",
+    "tr_word": "islemek",
+    "tr_definition": "is ile kaplamak veya isin karasına bulamak",
+    "ru_word": "закоптить",
+    "ru_definition": "покрыть слоем копоти или сажи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "islemek",
+                    "isletmek",
+                    "ise bulamak"
+                ],
+                "Azerbaijani": [
+                    "isləmək"
+                ],
+                "Turkmen": [
+                    "islemek",
+                    "is basdyrmak"
+                ],
+                "Uzbek": [
+                    "islamoq",
+                    "is bosmoq"
+                ],
+                "Bashkir": [
+                    "ыҫлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karartmak"
+                ],
+                "Azerbaijani": [
+                    "qara yaxmaq"
+                ],
+                "Turkmen": [
+                    "garaltmak"
+                ],
+                "Uzbek": [
+                    "qoralamoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قۇrumداتماق",
+                    "قۇrum باسماق",
+                    "قۇrumلىماق"
+                ],
+                "Tatar": [
+                    "корымлау",
+                    "корымга батыру",
+                    "корым белән каплау"
+                ],
+                "Bashkir": [
+                    "ҡоромлау",
+                    "ҡоромға батырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ыстау"
+                ],
+                "Kyrgyz": [
+                    "ыштоо",
+                    "ыш бастыруу"
+                ],
+                "Karakalpak": [
+                    "ıstau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күйелеу",
+                    "күйе жағу"
+                ],
+                "Karakalpak": [
+                    "kúyeleu",
+                    "kúye jaǵu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dudaqlamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көөлөө"
+                ]
+            }
+        }
+    ]
+}

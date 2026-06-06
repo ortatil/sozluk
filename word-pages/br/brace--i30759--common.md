@@ -1,0 +1,287 @@
+# Brace
+| Field | Detail |
+|---|---|
+| **ID** | i30759 |
+| **English** | brace |
+| **Type** | verb |
+| **Definition** | prepare (oneself) for something unpleasant or difficult |
+| **Source** | common |
+| **Ortatil** | hazırlanmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **hazırlanmaq** | **dayındalmaq** | **tayyarlanmaq** | **bekinmäk** | **çıñdalınmaq** | **äzerlänmäk** |
+|---|---|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Turkmen | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ |
+| Uzbek | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| Kazakh | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Karakalpak | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Tatar | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Bashkir | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0.33 | 0.33 | 0.33 | 0.33 | 0 |
+| *Qarluq Subtotal* | 1 | 0 | 1 | 0 | 0 | 0 |
+| *Qipchaq Subtotal* | 0 | 0.60 | 0 | 0.40 | 0.40 | 0.60 |
+| *In All* |  |  |  |  |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  | ✅ | ✅ |  |
+| **O'TQ** | **1.67** | **1.43** | **1.33** | **1.23** | **1.23** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ھازىرلانماق | hazirlanmaq |
+| تەييارلانماق | täyyarlanmaq |
+| **Kazakh** | |
+| дайындалу | dayındalu |
+| бекіну | bekinu |
+| әзірлену | äzirlenu |
+| қамдану | qamdanu |
+| **Kyrgyz** | |
+| даярдануу | dayardanuu |
+| бекемделүү | bekemdelüü |
+| чыңдалуу | çıñdaluu |
+| камдануу | kamdanuu |
+| **Tatar** | |
+| җыйналу | jıynalu |
+| әзерләнү | äzerlänü |
+| саклану | saklanu |
+| ныгыну | nıgınu |
+| **Bashkir** | |
+| әҙерләнеү | äzerläneü |
+| нығыныу | nığınıu |
+| йыйыныу | yıyınıu |
+| төйөнөү | töyönöü |
+
+```json
+{
+    "id": "i30759",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "brace",
+    "en_definition": "prepare (oneself) for something unpleasant or difficult",
+    "tr_word": "hazırlanmak",
+    "tr_definition": "kendini tatsız veya zor bir duruma karşı hazırlamak, teyakkuzda olmak",
+    "ru_word": "готовиться",
+    "ru_definition": "подготовиться к чему-то неприятному или трудному, собраться с духом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazırlanmak"
+                ],
+                "Azerbaijani": [
+                    "hazırlaşmaq"
+                ],
+                "Uzbek": [
+                    "hozirlanmoq"
+                ],
+                "Uyghur": [
+                    "ھازىرلانماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "direnmek",
+                    "dayanmak"
+                ],
+                "Kazakh": [
+                    "дайындалу"
+                ],
+                "Kyrgyz": [
+                    "даярдануу"
+                ],
+                "Karakalpak": [
+                    "dayındalıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pekiştirmek"
+                ],
+                "Kazakh": [
+                    "бекіну"
+                ],
+                "Kyrgyz": [
+                    "бекемделүү"
+                ],
+                "Karakalpak": [
+                    "belіn buıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bel bogʻlamoq"
+                ],
+                "Uyghur": [
+                    "بەل باغلىماق"
+                ],
+                "Kyrgyz": [
+                    "бел байлоо"
+                ],
+                "Karakalpak": [
+                    "belsenu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýýarlanmak"
+                ],
+                "Uzbek": [
+                    "tayyorlanmoq"
+                ],
+                "Uyghur": [
+                    "تەييارلانماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çydamak"
+                ],
+                "Kyrgyz": [
+                    "чыңдалуу"
+                ],
+                "Tatar": [
+                    "җыйналу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "әзірлену"
+                ],
+                "Tatar": [
+                    "әзерләнү"
+                ],
+                "Bashkir": [
+                    "әҙерләнеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "özünü toplamaq"
+                ],
+                "Turkmen": [
+                    "özüňi tutmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "berkemek"
+                ],
+                "Uzbek": [
+                    "bardosh bermoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shaylanmoq"
+                ],
+                "Tatar": [
+                    "саклану"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қамдану"
+                ],
+                "Kyrgyz": [
+                    "камдануу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сақадай сай болу"
+                ],
+                "Karakalpak": [
+                    "saqaday say bolıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ныгыну"
+                ],
+                "Bashkir": [
+                    "нығыныу",
+                    "йыйыныу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuşanmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tədarük görmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "möhkəmlənmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gaýratlanmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چىڭ تۇرماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төйөнөү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,115 @@
+{
+    "id": "i109589",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "north",
+    "en_definition": "the cardinal compass point that is at 0 or 360 degrees",
+    "tr_word": "kuzey",
+    "tr_definition": "0 veya 360 derecede bulunan ana yön",
+    "ru_word": "север",
+    "ru_definition": "одна из четырех сторон света, находящаяся на 0 или 360 градусах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şimal"
+                ],
+                "Azerbaijani": [
+                    "şimal"
+                ],
+                "Turkmen": [
+                    "şimal"
+                ],
+                "Uzbek": [
+                    "shimol"
+                ],
+                "Uyghur": [
+                    "شىمال"
+                ],
+                "Tatar": [
+                    "шималь"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuzey"
+                ],
+                "Azerbaijani": [
+                    "quzey"
+                ],
+                "Uzbek": [
+                    "kuzay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түндүк"
+                ],
+                "Karakalpak": [
+                    "túndіk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төньяк"
+                ],
+                "Bashkir": [
+                    "төньяҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "арка"
+                ],
+                "Karakalpak": [
+                    "arqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "терістік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demirgazyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төньяҡ яҡ"
+                ]
+            }
+        }
+    ]
+}

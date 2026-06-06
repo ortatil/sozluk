@@ -1,0 +1,105 @@
+{
+    "id": "i50480",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "barometer",
+    "en_definition": "an instrument that measures atmospheric pressure",
+    "tr_word": "barometre",
+    "tr_definition": "atmosfer basıncını ölçen alet",
+    "ru_word": "барометр",
+    "ru_definition": "прибор для измерения атмосферного давления",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hava ölçən"
+                ],
+                "Uzbek": [
+                    "havo bosimi oʻlchagichi"
+                ],
+                "Uyghur": [
+                    "ھاۋا بېسىمى ئۆلچىگۈچ",
+                    "ھاۋا بېسىمىنى ئۆلچەش ئەسۋابى"
+                ],
+                "Kyrgyz": [
+                    "аба басымын өлчөгүч"
+                ],
+                "Karakalpak": [
+                    "aua basımın ólshegish"
+                ],
+                "Tatar": [
+                    "һава басымы үлчәгеч"
+                ],
+                "Bashkir": [
+                    "һауа баҫымын үлсәүес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basınçölçer"
+                ],
+                "Turkmen": [
+                    "basyşölçer"
+                ],
+                "Uzbek": [
+                    "bosim oʻlchagich"
+                ],
+                "Karakalpak": [
+                    "basım ólshegish"
+                ],
+                "Tatar": [
+                    "басым үлчәгеч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "barometre"
+                ],
+                "Uyghur": [
+                    "بارومېتىر"
+                ],
+                "Kyrgyz": [
+                    "барометр"
+                ],
+                "Bashkir": [
+                    "барометр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təzyiqölçən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howa basyşölçegiji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қысымөлшер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ауа өлшегіш"
+                ]
+            }
+        }
+    ]
+}

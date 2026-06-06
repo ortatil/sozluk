@@ -1,0 +1,56 @@
+{
+    "id": "i12114",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one hundred forty",
+    "en_definition": "being ten more than one hundred thirty",
+    "tr_word": "yüz kırk",
+    "tr_definition": "yüz otuzdan on fazla olan sayı",
+    "ru_word": "сто сорок",
+    "ru_definition": "число, на десять большее, чем сто тридцать",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz kırk"
+                ],
+                "Azerbaijani": [
+                    "yüz qırx"
+                ],
+                "Turkmen": [
+                    "ýüz kyrk"
+                ],
+                "Uzbek": [
+                    "yuz qirq"
+                ],
+                "Uyghur": [
+                    "يۈز قىرىق"
+                ],
+                "Kazakh": [
+                    "жүз қырық"
+                ],
+                "Kyrgyz": [
+                    "жүз кырк"
+                ],
+                "Karakalpak": [
+                    "júz qırıq"
+                ],
+                "Tatar": [
+                    "йөз кырык",
+                    "йөз дә кырык"
+                ],
+                "Bashkir": [
+                    "йөҙ ҡырҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bir yuz qirq"
+                ]
+            }
+        }
+    ]
+}

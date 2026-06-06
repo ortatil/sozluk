@@ -1,0 +1,79 @@
+{
+    "id": "i39237",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "left field",
+    "en_definition": "the fielding position of the player on a baseball team who is expected to field balls in the left third of the outfield (looking from home plate)",
+    "tr_word": "sol dış saha",
+    "tr_definition": "Beyzbolda, sayı kalesinden bakıldığında dış sahanın sol üçte birlik kısmında görev yapan oyuncunun mevkisi.",
+    "ru_word": "левый аутфилд",
+    "ru_definition": "В бейсболе — позиция игрока внешней части поля, отвечающего за левую треть аутфилда (если смотреть от дома).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sol dış alan",
+                    "sol dış saha"
+                ],
+                "Azerbaijani": [
+                    "sol cinah",
+                    "sol sahə"
+                ],
+                "Uyghur": [
+                    "سول تەرەپ سىرتقى مەيدان"
+                ],
+                "Kazakh": [
+                    "сол жақ алаң",
+                    "сол қанат"
+                ],
+                "Kyrgyz": [
+                    "сол тарап",
+                    "сол жак"
+                ],
+                "Karakalpak": [
+                    "sol jaq maydan",
+                    "sol qanat"
+                ],
+                "Tatar": [
+                    "сул як кыр",
+                    "сул як өлкә",
+                    "сул як мәйдан"
+                ],
+                "Bashkir": [
+                    "һул яҡ",
+                    "һул яҡ майҙан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sol tərəf"
+                ],
+                "Uyghur": [
+                    "سول تەرەپ مەيدان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çep meýdança",
+                    "çep tarap"
+                ],
+                "Uzbek": [
+                    "chap maydon",
+                    "chap taraf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chap qanot"
+                ]
+            }
+        }
+    ]
+}

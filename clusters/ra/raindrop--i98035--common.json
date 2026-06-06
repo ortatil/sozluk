@@ -1,0 +1,109 @@
+{
+    "id": "i98035",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "raindrop",
+    "en_definition": "a drop of rain",
+    "tr_word": "yağmur damlası",
+    "tr_definition": "yağmurun her bir damlası",
+    "ru_word": "дождевая капля",
+    "ru_definition": "отдельная капля дождя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "damla"
+                ],
+                "Azerbaijani": [
+                    "damla"
+                ],
+                "Turkmen": [
+                    "damja"
+                ],
+                "Uzbek": [
+                    "tomchi"
+                ],
+                "Uyghur": [
+                    "تامچە"
+                ],
+                "Kazakh": [
+                    "тамшы"
+                ],
+                "Kyrgyz": [
+                    "тамчы"
+                ],
+                "Karakalpak": [
+                    "tamshı"
+                ],
+                "Tatar": [
+                    "тамчы"
+                ],
+                "Bashkir": [
+                    "тамсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağmur damlası"
+                ],
+                "Azerbaijani": [
+                    "yağış damcısı"
+                ],
+                "Turkmen": [
+                    "ýagyş damjasy"
+                ],
+                "Uyghur": [
+                    "يامغۇر تامچىسى"
+                ],
+                "Tatar": [
+                    "яңгыр тамчысы"
+                ],
+                "Bashkir": [
+                    "яңғыр тамсыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "katre"
+                ],
+                "Azerbaijani": [
+                    "qatra"
+                ],
+                "Uzbek": [
+                    "qatra"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жаңбыр тамшысы"
+                ],
+                "Kyrgyz": [
+                    "жаан тамчысы"
+                ],
+                "Karakalpak": [
+                    "jańbır tamshısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yomg'ir tomchisi"
+                ],
+                "Kyrgyz": [
+                    "жамгыр тамчысы"
+                ]
+            }
+        }
+    ]
+}

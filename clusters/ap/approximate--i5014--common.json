@@ -1,0 +1,160 @@
+{
+    "id": "i5014",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "approximate",
+    "en_definition": "not quite exact or correct",
+    "tr_word": "yaklaşık",
+    "tr_definition": "tam olarak kesin veya doğru olmayan, gerçeğe yakın",
+    "ru_word": "приблизительный",
+    "ru_definition": "не совсем точный или правильный, близкий к истинному значению",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tahmini",
+                    "takribi"
+                ],
+                "Azerbaijani": [
+                    "təxmini",
+                    "təqribi"
+                ],
+                "Turkmen": [
+                    "takmynan"
+                ],
+                "Uzbek": [
+                    "taxminiy"
+                ],
+                "Uyghur": [
+                    "تەخمىنى",
+                    "تەخمىنەن"
+                ],
+                "Karakalpak": [
+                    "taqau"
+                ],
+                "Tatar": [
+                    "тәхминим"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaklaşık"
+                ],
+                "Azerbaijani": [
+                    "yaxın"
+                ],
+                "Turkmen": [
+                    "çaklama"
+                ],
+                "Uzbek": [
+                    "yaqin"
+                ],
+                "Tatar": [
+                    "якынча"
+                ],
+                "Bashkir": [
+                    "яҡынса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chamalangan"
+                ],
+                "Kazakh": [
+                    "шамалы"
+                ],
+                "Kyrgyz": [
+                    "чамалуу"
+                ],
+                "Karakalpak": [
+                    "shamalı"
+                ],
+                "Tatar": [
+                    "чамалы"
+                ],
+                "Bashkir": [
+                    "самалап",
+                    "самалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жуық",
+                    "жуықталған"
+                ],
+                "Kyrgyz": [
+                    "жуук"
+                ],
+                "Karakalpak": [
+                    "juıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qariyb"
+                ],
+                "Uyghur": [
+                    "قۇربى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "болжолдуу",
+                    "болжол"
+                ],
+                "Karakalpak": [
+                    "boljaldı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ortaça"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "meňzeş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۆلچەرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таяу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төҫлө"
+                ]
+            }
+        }
+    ]
+}

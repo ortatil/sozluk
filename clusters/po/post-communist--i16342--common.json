@@ -1,0 +1,77 @@
+{
+    "id": "i16342",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "post-communist",
+    "en_definition": "no longer communist; subsequent to being communistic",
+    "tr_word": "post-komünist",
+    "tr_definition": "komünizm sonrası döneme ait olan veya komünizmden sonraki süreci ifade eden",
+    "ru_word": "посткоммунистический",
+    "ru_definition": "относящийся к периоду после падения коммунистического режима",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "komünizm sonrası",
+                    "komünizmden sonraki",
+                    "komünizm sonrası dönem"
+                ],
+                "Azerbaijani": [
+                    "kommunizm sonrası",
+                    "kommunizmdən sonrakı"
+                ],
+                "Turkmen": [
+                    "kommunizmden soňky"
+                ],
+                "Uzbek": [
+                    "kommunizmdan keyingi"
+                ],
+                "Uyghur": [
+                    "كوممۇنىزمدىن كېيىنكى",
+                    "كوممۇنىستىك تۈزۈمدىن كېيىنكى"
+                ],
+                "Kazakh": [
+                    "коммунизмнен кейінгі"
+                ],
+                "Kyrgyz": [
+                    "коммунизмден кийинки",
+                    "коммунисттик доордон кийинки"
+                ],
+                "Karakalpak": [
+                    "kommunizmnen keyingi",
+                    "kommunistlik dáoirden keyingi"
+                ],
+                "Tatar": [
+                    "коммунизмнан соңгы",
+                    "коммунизмнан соң"
+                ],
+                "Bashkir": [
+                    "коммунизмдан һуңғы",
+                    "коммунизм осоронан һуңғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "postkommunist"
+                ],
+                "Turkmen": [
+                    "postkommunistik"
+                ],
+                "Uzbek": [
+                    "postkommunistik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кеңестен кейінгі"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+# Theme park
+| Field | Detail |
+|---|---|
+| **ID** | i82492 |
+| **English** | theme park |
+| **Type** | noun |
+| **Definition** | an amusement park that is organized around some theme (as the world of tomorrow) |
+| **Source** | common |
+| **Ortatil** | säyilgäh |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i82492",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "theme park",
+    "en_definition": "an amusement park that is organized around some theme (as the world of tomorrow)",
+    "tr_word": "tema parkı",
+    "tr_definition": "belirli bir tema veya konu etrafında tasarlanmış, çeşitli eğlence üniteleri ve gösteriler barındıran büyük eğlence parkı",
+    "ru_word": "тематический парк",
+    "ru_definition": "парк развлечений, аттракционы и оформление которого объединены общей темой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tematik park"
+                ],
+                "Uyghur": [
+                    "تېمىلىق باغچا",
+                    "تېمىلىق كۆڭۈل ئېچىش باغچىسى"
+                ],
+                "Kazakh": [
+                    "демалыс саябағы"
+                ],
+                "Karakalpak": [
+                    "dem alıs baǵı"
+                ],
+                "Tatar": [
+                    "тамаша паркы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئويۇن-تاماشا باغچىسى"
+                ],
+                "Kazakh": [
+                    "ойын-сауық саябағы"
+                ],
+                "Kyrgyz": [
+                    "оюн-зоок багы"
+                ],
+                "Karakalpak": [
+                    "oyın-saoıq baǵı"
+                ],
+                "Bashkir": [
+                    "уйын паркы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "istirahət parkı"
+                ],
+                "Uzbek": [
+                    "istirohat bogʻi"
+                ],
+                "Kyrgyz": [
+                    "эс алуу багы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻngilochar bogʻ"
+                ],
+                "Tatar": [
+                    "күңел ачу паркы"
+                ],
+                "Bashkir": [
+                    "күңел асыу паркы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "mádeniyat hám dem alıs parki"
+                ],
+                "Tatar": [
+                    "ял паркы"
+                ],
+                "Bashkir": [
+                    "ял паркы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eğlence parkı"
+                ],
+                "Azerbaijani": [
+                    "əyləncə parkı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "atrakionlar seýilgähi"
+                ],
+                "Kyrgyz": [
+                    "сейил бак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "seýilgäh"
+                ],
+                "Uzbek": [
+                    "sayilgoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lunapark"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şəhərcik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dynç alyş seýilgähi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қыдыру бағы"
+                ]
+            }
+        }
+    ]
+}
+```
+

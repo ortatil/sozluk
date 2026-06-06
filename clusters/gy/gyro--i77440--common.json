@@ -1,0 +1,139 @@
+{
+    "id": "i77440",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gyro",
+    "en_definition": "a Greek sandwich: sliced roast lamb with onion and tomato stuffed into pita bread",
+    "tr_word": "cayro",
+    "tr_definition": "Pide ekmeği içine doldurulmuş, soğan ve domates eşliğinde sunulan dilimlenmiş kuzu etinden oluşan bir Yunan sandviçi.",
+    "ru_word": "гирос",
+    "ru_definition": "Греческое блюдо, состоящее из нарезанной жареной баранины с луком и помидорами, завернутых в питу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "döner",
+                    "döner kebap"
+                ],
+                "Azerbaijani": [
+                    "dönər",
+                    "dönər kabab"
+                ],
+                "Turkmen": [
+                    "döner"
+                ],
+                "Uzbek": [
+                    "donar"
+                ],
+                "Uyghur": [
+                    "دۆنەر كاۋاپ"
+                ],
+                "Kazakh": [
+                    "дөнер"
+                ],
+                "Karakalpak": [
+                    "dóner",
+                    "dóner-kábap"
+                ],
+                "Tatar": [
+                    "дөнер"
+                ],
+                "Bashkir": [
+                    "дөнер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kebap"
+                ],
+                "Uzbek": [
+                    "kabob"
+                ],
+                "Kazakh": [
+                    "кәуап"
+                ],
+                "Kyrgyz": [
+                    "кебаб"
+                ],
+                "Karakalpak": [
+                    "kábap"
+                ],
+                "Tatar": [
+                    "кәбәп"
+                ],
+                "Bashkir": [
+                    "кәбәп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ет"
+                ],
+                "Kyrgyz": [
+                    "эттүү нан"
+                ],
+                "Tatar": [
+                    "итле ризык"
+                ],
+                "Bashkir": [
+                    "итле ризык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dürüm"
+                ],
+                "Turkmen": [
+                    "dürüm"
+                ],
+                "Kyrgyz": [
+                    "дүрмө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shaurma"
+                ],
+                "Kyrgyz": [
+                    "шаурма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "go'shtli non"
+                ],
+                "Uyghur": [
+                    "گۆش نېنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كاۋاپلىق نان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бәліш"
+                ]
+            }
+        }
+    ]
+}

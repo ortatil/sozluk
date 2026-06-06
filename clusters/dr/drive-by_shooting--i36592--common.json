@@ -1,0 +1,121 @@
+{
+    "id": "i36592",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "drive-by shooting",
+    "en_definition": "shooting someone from a car as it is driven past the victim",
+    "tr_word": "seyir halindeki araçtan ateş açma",
+    "tr_definition": "bir kurbana yanından geçen bir aracın içinden ateş edilmesi",
+    "ru_word": "стрельба из проезжающего автомобиля",
+    "ru_definition": "обстрел кого-либо из движущегося мимо транспортного средства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "maşından atəş açma",
+                    "nəqliyyatdan atəş açma"
+                ],
+                "Kyrgyz": [
+                    "машинадан атуу"
+                ],
+                "Tatar": [
+                    "машинадан ату"
+                ],
+                "Bashkir": [
+                    "машинанан атыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərəkətdə olan maşından atəş"
+                ],
+                "Turkmen": [
+                    "ulagdan ok atmak",
+                    "hereketli ulagdan hüjüm"
+                ],
+                "Uzbek": [
+                    "harakatdagi o'q uzish"
+                ],
+                "Bashkir": [
+                    "хәрәкәттәге транспорттан атыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "maşyndan ok atmak"
+                ],
+                "Uzbek": [
+                    "mashinadan o'qqa tutish"
+                ],
+                "Uyghur": [
+                    "ماشىنىدىن ئوق چىقىرىش",
+                    "ماشىنىلىق ھۇجۇم"
+                ],
+                "Karakalpak": [
+                    "mashinadan atu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "araçtan ateş açma",
+                    "arabayla geçerken ateş etme"
+                ],
+                "Kazakh": [
+                    "жүріп бара жатқан көліктен оқ ату"
+                ],
+                "Karakalpak": [
+                    "júrіp bara jatqan kólіkten oq atu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көліктен оқ жаудыру",
+                    "көліктен ату"
+                ],
+                "Karakalpak": [
+                    "kólіkten oq jaudıru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seyir halindeyken ateş etme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'tib ketayotib otish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаадан ок атуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бара торган транспорттан ату"
+                ]
+            }
+        }
+    ]
+}

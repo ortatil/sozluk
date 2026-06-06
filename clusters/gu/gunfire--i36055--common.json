@@ -1,0 +1,139 @@
+{
+    "id": "i36055",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gunfire",
+    "en_definition": "the act of shooting a gun",
+    "tr_word": "silah ateşi",
+    "tr_definition": "bir silahtan mermi atılması eylemi",
+    "ru_word": "стрельба",
+    "ru_definition": "ведение огня из огнестрельного оружия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ateş",
+                    "atış"
+                ],
+                "Azerbaijani": [
+                    "atış",
+                    "atəş",
+                    "atışma"
+                ],
+                "Turkmen": [
+                    "atyş",
+                    "atylşyk"
+                ],
+                "Uzbek": [
+                    "otishma"
+                ],
+                "Kazakh": [
+                    "атыс"
+                ],
+                "Kyrgyz": [
+                    "атыш",
+                    "атышуу"
+                ],
+                "Karakalpak": [
+                    "atıs"
+                ],
+                "Tatar": [
+                    "атыш",
+                    "ату"
+                ],
+                "Bashkir": [
+                    "атыш",
+                    "атыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ok atyşy"
+                ],
+                "Uzbek": [
+                    "o'q otish"
+                ],
+                "Uyghur": [
+                    "ئوق چىقىرىش",
+                    "ئوق ئېتىش"
+                ],
+                "Kyrgyz": [
+                    "ок атуу"
+                ],
+                "Karakalpak": [
+                    "oq atıs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "مىلتىق ئاۋازى"
+                ],
+                "Kazakh": [
+                    "мылтық дауысы"
+                ],
+                "Karakalpak": [
+                    "mıltıq atısı"
+                ],
+                "Tatar": [
+                    "мылтык ату"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "silah sesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaylım ateşi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gülləbaran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taraqlash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shovqin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оқ жаудыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ут асыу"
+                ]
+            }
+        }
+    ]
+}

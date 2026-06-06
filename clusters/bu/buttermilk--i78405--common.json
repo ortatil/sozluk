@@ -1,0 +1,126 @@
+{
+    "id": "i78405",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "buttermilk",
+    "en_definition": "residue from making butter from sour raw milk; or pasteurized milk curdled by adding a culture",
+    "tr_word": "yayık altı sütü",
+    "tr_definition": "Tereyağı yapımından sonra kalan sıvı veya kültür eklenerek pıhtılaştırılmış süt.",
+    "ru_word": "пахта",
+    "ru_definition": "Обезжиренные сливки, побочный продукт, получаемый при сбивании масла из коровьего молока.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayran"
+                ],
+                "Azerbaijani": [
+                    "ayran"
+                ],
+                "Turkmen": [
+                    "ayran"
+                ],
+                "Uzbek": [
+                    "ayron"
+                ],
+                "Uyghur": [
+                    "ئايران"
+                ],
+                "Kazakh": [
+                    "айран"
+                ],
+                "Kyrgyz": [
+                    "айран"
+                ],
+                "Karakalpak": [
+                    "ayran"
+                ],
+                "Tatar": [
+                    "айран"
+                ],
+                "Bashkir": [
+                    "айран"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çalxama"
+                ],
+                "Turkmen": [
+                    "çal"
+                ],
+                "Uzbek": [
+                    "chovli"
+                ],
+                "Kazakh": [
+                    "шалап"
+                ],
+                "Kyrgyz": [
+                    "чалап"
+                ],
+                "Karakalpak": [
+                    "shalap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dog'"
+                ],
+                "Uyghur": [
+                    "دۇغ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эремчек суы"
+                ],
+                "Bashkir": [
+                    "эремсек һыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yayık altı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çökelek suyu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іркіт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жуурат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sút"
+                ]
+            }
+        }
+    ]
+}

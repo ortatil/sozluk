@@ -1,0 +1,116 @@
+{
+    "id": "i33029",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "swap",
+    "en_definition": "exchange or give (something) in exchange for",
+    "tr_word": "takas etmek",
+    "tr_definition": "bir şeyi başka bir şeyle değiştirmek, değiş tokuş yapmak",
+    "ru_word": "обмениваться",
+    "ru_definition": "отдавать своё и получать взамен чужое",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "alyş-çalyş etmek"
+                ],
+                "Uzbek": [
+                    "almashmoq",
+                    "almashtirmoq"
+                ],
+                "Uyghur": [
+                    "ئالماشتۇرماق"
+                ],
+                "Kazakh": [
+                    "алмастыру"
+                ],
+                "Kyrgyz": [
+                    "алмашуу",
+                    "алмаштыруу"
+                ],
+                "Karakalpak": [
+                    "almastırıo",
+                    "almasıo"
+                ],
+                "Tatar": [
+                    "алыштыру",
+                    "алмаштыру",
+                    "алыш-биреш итү"
+                ],
+                "Bashkir": [
+                    "алмаштырыу",
+                    "алышыу",
+                    "алыш-биреш итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ayirboshlamoq"
+                ],
+                "Kazakh": [
+                    "айырбастау",
+                    "ауыстыру"
+                ],
+                "Kyrgyz": [
+                    "айырбаштоо"
+                ],
+                "Karakalpak": [
+                    "ayırbaslao"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "değişmek",
+                    "değiş tokuş etmek"
+                ],
+                "Azerbaijani": [
+                    "dəyişmək",
+                    "dəyiş-düyüş etmək",
+                    "dəyişdirmək"
+                ],
+                "Uyghur": [
+                    "تېگىشمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mübadele etmek"
+                ],
+                "Azerbaijani": [
+                    "mübadilə etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takas etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çalyşmak",
+                    "çalşyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بەدەل قىلماق"
+                ]
+            }
+        }
+    ]
+}

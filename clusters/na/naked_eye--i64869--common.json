@@ -1,0 +1,103 @@
+{
+    "id": "i64869",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "naked eye",
+    "en_definition": "the eye unaided by any optical instrument that alters the power of vision or alters the apparent size or distance of objects",
+    "tr_word": "çıplak göz",
+    "tr_definition": "herhangi bir optik alet yardımı olmaksızın, sadece gözle yapılan görme",
+    "ru_word": "невооружённый глаз",
+    "ru_definition": "глаз человека, не использующий никаких оптических приборов для улучшения зрения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yalın göz"
+                ],
+                "Turkmen": [
+                    "ýalaňaç göz"
+                ],
+                "Uzbek": [
+                    "yalang'och ko'z"
+                ],
+                "Kazakh": [
+                    "жалаң көз"
+                ],
+                "Karakalpak": [
+                    "jalańash kóz"
+                ],
+                "Bashkir": [
+                    "ялан күҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "adi göz"
+                ],
+                "Turkmen": [
+                    "adi göz"
+                ],
+                "Uzbek": [
+                    "oddiy ko'z",
+                    "ochiq ko'z"
+                ],
+                "Uyghur": [
+                    "ئادەتتىكى كۆز",
+                    "ئادەتتىكى كۆرۈش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ашық көз"
+                ],
+                "Kyrgyz": [
+                    "ачык көз"
+                ],
+                "Karakalpak": [
+                    "ashıq kóz"
+                ],
+                "Tatar": [
+                    "ачык күз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قۇرۇق كۆز"
+                ],
+                "Kyrgyz": [
+                    "куралсыз көз"
+                ],
+                "Tatar": [
+                    "коралсыз күз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıplak göz"
+                ],
+                "Azerbaijani": [
+                    "çılpaq göz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ябай күҙ"
+                ]
+            }
+        }
+    ]
+}

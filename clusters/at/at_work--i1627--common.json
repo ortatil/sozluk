@@ -1,0 +1,133 @@
+{
+    "id": "i1627",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "at work",
+    "en_definition": "on the job",
+    "tr_word": "iş başında",
+    "tr_definition": "bir işi yapmakta olan, görev başında",
+    "ru_word": "на работе",
+    "ru_definition": "занятый выполнением своих профессиональных обязанностей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işte"
+                ],
+                "Azerbaijani": [
+                    "iş başında",
+                    "işdə"
+                ],
+                "Turkmen": [
+                    "iş başynda",
+                    "işde"
+                ],
+                "Uzbek": [
+                    "ishda"
+                ],
+                "Uyghur": [
+                    "ئىش ئۈستىدە",
+                    "ئىشتا"
+                ],
+                "Kazakh": [
+                    "іс басында"
+                ],
+                "Kyrgyz": [
+                    "иште"
+                ],
+                "Karakalpak": [
+                    "іste"
+                ],
+                "Tatar": [
+                    "эштә"
+                ],
+                "Bashkir": [
+                    "эштә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "خىزمەتتە"
+                ],
+                "Kazakh": [
+                    "қызметте"
+                ],
+                "Kyrgyz": [
+                    "кызматта"
+                ],
+                "Karakalpak": [
+                    "qızmette"
+                ],
+                "Tatar": [
+                    "хезмәттә"
+                ],
+                "Bashkir": [
+                    "хеҙмәттә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mesaide"
+                ],
+                "Uzbek": [
+                    "mashg'ul"
+                ],
+                "Tatar": [
+                    "мәшгуль"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жұмыста"
+                ],
+                "Kyrgyz": [
+                    "жумушта"
+                ],
+                "Karakalpak": [
+                    "jұmısta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vəzifə başında"
+                ],
+                "Turkmen": [
+                    "wezipede"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "görevde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalışıyor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "band"
+                ]
+            }
+        }
+    ]
+}

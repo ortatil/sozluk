@@ -1,0 +1,76 @@
+{
+    "id": "i75301",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sound wave",
+    "en_definition": "(acoustics) a wave that transmits sound",
+    "tr_word": "ses dalgası",
+    "tr_definition": "sesi ileten bir dalga",
+    "ru_word": "звуковая волна",
+    "ru_definition": "волна, передающая звук",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ses dalgası"
+                ],
+                "Azerbaijani": [
+                    "səs dalğası"
+                ],
+                "Turkmen": [
+                    "ses tolkuny",
+                    "ses yrgyldysy"
+                ],
+                "Uyghur": [
+                    "سەس دولقۇنى"
+                ],
+                "Karakalpak": [
+                    "ses tolqını"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tovush to'lqini",
+                    "ovoz to'lqini"
+                ],
+                "Uyghur": [
+                    "ئاۋاز دولقۇنى"
+                ],
+                "Karakalpak": [
+                    "daoıs tolqını"
+                ],
+                "Tatar": [
+                    "тавыш дулкыны",
+                    "аваз дулкыны"
+                ],
+                "Bashkir": [
+                    "тауыш тулҡыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дыбыс толқыны"
+                ],
+                "Kyrgyz": [
+                    "добуш толкуну"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үн толкуну"
+                ],
+                "Bashkir": [
+                    "өн тулҡыны"
+                ]
+            }
+        }
+    ]
+}

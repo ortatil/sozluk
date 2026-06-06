@@ -1,0 +1,110 @@
+{
+    "id": "i11237",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "rectangular",
+    "en_definition": "having four right angles",
+    "tr_word": "dikdörtgen",
+    "tr_definition": "dört dik açısı olan",
+    "ru_word": "прямоугольный",
+    "ru_definition": "имеющий четыре прямых угла",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dördbucaqlı"
+                ],
+                "Turkmen": [
+                    "dörtburçly"
+                ],
+                "Uzbek": [
+                    "to'rtburchak"
+                ],
+                "Uyghur": [
+                    "تۆت بۇلۇڭلۇق"
+                ],
+                "Kyrgyz": [
+                    "төрт бурчтуу"
+                ],
+                "Karakalpak": [
+                    "tórtmúyeshli"
+                ],
+                "Tatar": [
+                    "туры почмаклы",
+                    "дүртпочмаклы"
+                ],
+                "Bashkir": [
+                    "тура мөйөшлө",
+                    "дүрт мөйөшлө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dikdörtgen"
+                ],
+                "Turkmen": [
+                    "tikburçly"
+                ],
+                "Kazakh": [
+                    "тіктөртбұрышты",
+                    "тікбұрышты"
+                ],
+                "Kyrgyz": [
+                    "тик бурчтуу"
+                ],
+                "Karakalpak": [
+                    "tikmúyeshli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müstatil"
+                ],
+                "Azerbaijani": [
+                    "müstətil"
+                ],
+                "Uzbek": [
+                    "mustatil"
+                ],
+                "Uyghur": [
+                    "مۇستەتېل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "düzbucaqlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gönüburçly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "to'g'ri burchakli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆت چاسا"
+                ]
+            }
+        }
+    ]
+}

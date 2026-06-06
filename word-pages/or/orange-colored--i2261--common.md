@@ -1,0 +1,169 @@
+# Orange-colored
+| Field | Detail |
+|---|---|
+| **ID** | i2261 |
+| **English** | orange-colored |
+| **Type** | adjective |
+| **Definition** | having the color of ripe oranges |
+| **Source** | common |
+| **Ortatil** | naranci |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **naranci** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.97** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| نارەنجى | naränji |
+| **Kazakh** | |
+| нарттай | narttay |
+| **Tatar** | |
+| нәринджи | närinci |
+| кызгылт-сары | kızgılt-sarı |
+| сары-кызыл | sarı-kızıl |
+| **Bashkir** | |
+| наранж | naranj |
+
+```json
+{
+    "id": "i2261",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "orange-colored",
+    "en_definition": "having the color of ripe oranges",
+    "tr_word": "turuncu",
+    "tr_definition": "olgun portakalın rengine sahip olan",
+    "ru_word": "оранжевый",
+    "ru_definition": "имеющий цвет спелого апельсина",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "narenciye rengi"
+                ],
+                "Azerbaijani": [
+                    "narıncı",
+                    "narıncı rəngli"
+                ],
+                "Turkmen": [
+                    "narynç",
+                    "narynç reňkli"
+                ],
+                "Uyghur": [
+                    "نارەنجى",
+                    "نارەنجى رەڭ"
+                ],
+                "Kazakh": [
+                    "нарттай"
+                ],
+                "Karakalpak": [
+                    "narǵıl"
+                ],
+                "Tatar": [
+                    "нәринджи"
+                ],
+                "Bashkir": [
+                    "наранж"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "zarg'aldoq"
+                ],
+                "Kazakh": [
+                    "қызғылт сары"
+                ],
+                "Kyrgyz": [
+                    "кызгылт сары"
+                ],
+                "Karakalpak": [
+                    "qızǵılt sarı"
+                ],
+                "Tatar": [
+                    "кызгылт-сары",
+                    "сары-кызыл"
+                ],
+                "Bashkir": [
+                    "ҡыҙғылт һары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "turuncu",
+                    "turuncumsu"
+                ],
+                "Azerbaijani": [
+                    "turuncu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mämişi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "olovrang"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "to'q sariq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قورۇق رەڭ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сәбіз түстес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "апельсин түстүү"
+                ]
+            }
+        }
+    ]
+}
+```
+

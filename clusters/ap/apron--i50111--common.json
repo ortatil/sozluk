@@ -1,0 +1,98 @@
+{
+    "id": "i50111",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "apron",
+    "en_definition": "a garment of cloth or leather or plastic that is tied about the waist and worn to protect your clothing",
+    "tr_word": "önlük",
+    "tr_definition": "Giysileri kirlenmekten korumak için belden bağlanan veya boyundan geçirilen koruyucu giysi.",
+    "ru_word": "фартук",
+    "ru_definition": "Предмет одежды, надеваемый поверх основной одежды для защиты её от загрязнения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئالدىنلىق"
+                ],
+                "Kazakh": [
+                    "алжапқыш",
+                    "алдығыш",
+                    "алжаппа"
+                ],
+                "Kyrgyz": [
+                    "алжапкыч",
+                    "алгыч",
+                    "алдыгыч"
+                ],
+                "Karakalpak": [
+                    "aljapqısh"
+                ],
+                "Tatar": [
+                    "алъяпкыч",
+                    "алъяпма"
+                ],
+                "Bashkir": [
+                    "алъяпҡыс",
+                    "алъяпма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "peştemal"
+                ],
+                "Turkmen": [
+                    "peştemal"
+                ],
+                "Uzbek": [
+                    "peshband",
+                    "peshgir"
+                ],
+                "Uyghur": [
+                    "پەشتامال"
+                ],
+                "Karakalpak": [
+                    "peshent"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "önlük"
+                ],
+                "Azerbaijani": [
+                    "önlük"
+                ],
+                "Turkmen": [
+                    "öňlük"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fartuk"
+                ],
+                "Uzbek": [
+                    "fartuk"
+                ],
+                "Uyghur": [
+                    "پەرتۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "döşlük"
+                ]
+            }
+        }
+    ]
+}

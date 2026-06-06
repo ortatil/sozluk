@@ -1,0 +1,154 @@
+# Backspin
+| Field | Detail |
+|---|---|
+| **ID** | i75822 |
+| **English** | backspin |
+| **Type** | noun |
+| **Definition** | spin (usually of a moving ball) that retards or reverses the forward motion |
+| **Source** | common |
+| **Ortatil** | kesmä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| керүү | kerüü |
+
+```json
+{
+    "id": "i75822",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "backspin",
+    "en_definition": "spin (usually of a moving ball) that retards or reverses the forward motion",
+    "tr_word": "geri dönüş",
+    "tr_definition": "Bir topun ileri hareketini yavaşlatan veya tersine çeviren, geriye doğru dönme hareketi.",
+    "ru_word": "обратное вращение",
+    "ru_definition": "вращение мяча в направлении, противоположном его движению, замедляющее его полет или изменяющее отскок.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geri dönüşlü falso",
+                    "geri dönme"
+                ],
+                "Azerbaijani": [
+                    "geriyə fırlanma"
+                ],
+                "Uzbek": [
+                    "qarshi aylanish"
+                ],
+                "Kazakh": [
+                    "кері айналым",
+                    "кері айналыс",
+                    "кері шиіру"
+                ],
+                "Kyrgyz": [
+                    "керүү"
+                ],
+                "Karakalpak": [
+                    "kerі aynalım",
+                    "kerі shiırshıq"
+                ],
+                "Tatar": [
+                    "кире әйләнеш",
+                    "кире борылыш"
+                ],
+                "Bashkir": [
+                    "кире өйөрөлөү",
+                    "кире боролош"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ters falso"
+                ],
+                "Azerbaijani": [
+                    "tərs fırlanma"
+                ],
+                "Turkmen": [
+                    "ters aýlaw",
+                    "ters tow"
+                ],
+                "Uyghur": [
+                    "تەتۈر ئايلىنىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "yzky aýlaw"
+                ],
+                "Kyrgyz": [
+                    "арткы айлануу"
+                ],
+                "Tatar": [
+                    "артка әйләнү"
+                ],
+                "Bashkir": [
+                    "артҡа өйөрөлөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ortga aylanish"
+                ],
+                "Karakalpak": [
+                    "artqa aynalıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كەينىگە پىرقىراش"
+                ],
+                "Kyrgyz": [
+                    "кайта айлануу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kesme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əks fırlanma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "teskari aylanish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەتۈر پىرقىراش"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,128 @@
+{
+    "id": "i40384",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "utilization",
+    "en_definition": "the act of using",
+    "tr_word": "faydalanma",
+    "tr_definition": "bir şeyden yararlanma veya onu kullanma eylemi",
+    "ru_word": "использование",
+    "ru_definition": "действие по использованию чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kullanım"
+                ],
+                "Turkmen": [
+                    "ulanyş",
+                    "ulanma"
+                ],
+                "Uzbek": [
+                    "qo'llanish"
+                ],
+                "Uyghur": [
+                    "قوللىنىش"
+                ],
+                "Kazakh": [
+                    "қолданыс",
+                    "қолдану"
+                ],
+                "Kyrgyz": [
+                    "колдонуу"
+                ],
+                "Karakalpak": [
+                    "qoldanıs",
+                    "qoldanılıo"
+                ],
+                "Tatar": [
+                    "кулланыш",
+                    "куллану"
+                ],
+                "Bashkir": [
+                    "ҡулланыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "istimal"
+                ],
+                "Azerbaijani": [
+                    "istifadə",
+                    "işlətmə"
+                ],
+                "Turkmen": [
+                    "istimal"
+                ],
+                "Uzbek": [
+                    "iste'mol",
+                    "istifoda"
+                ],
+                "Uyghur": [
+                    "ئىشلىتىش",
+                    "ئىستېمال"
+                ],
+                "Kyrgyz": [
+                    "иштетүү"
+                ],
+                "Karakalpak": [
+                    "isletilio"
+                ],
+                "Tatar": [
+                    "истигъмал"
+                ],
+                "Bashkir": [
+                    "истиғмал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "peýdalanyş"
+                ],
+                "Uzbek": [
+                    "foydalanish"
+                ],
+                "Kazakh": [
+                    "пайдалану"
+                ],
+                "Kyrgyz": [
+                    "пайдалануу"
+                ],
+                "Karakalpak": [
+                    "paydalanıo"
+                ],
+                "Bashkir": [
+                    "файҙаланыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sarf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tətbiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұтыну"
+                ]
+            }
+        }
+    ]
+}

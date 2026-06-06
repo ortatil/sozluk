@@ -1,0 +1,98 @@
+{
+    "id": "i24213",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "industrialize",
+    "en_definition": "develop industry; become industrial",
+    "tr_word": "sanayileşmek",
+    "tr_definition": "Sanayi sahibi olmak, endüstrileşmek.",
+    "ru_word": "индустриализировать",
+    "ru_definition": "Развивать промышленность, превращать в индустриальную страну.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanayileşmek",
+                    "sınai kalkınmak"
+                ],
+                "Azerbaijani": [
+                    "sənayeləşdirmək",
+                    "sənayeləşmək",
+                    "sənaye qurmaq"
+                ],
+                "Turkmen": [
+                    "senagatlaşdyrmak",
+                    "senagatlaşmak"
+                ],
+                "Uzbek": [
+                    "sanoatlashtirmoq",
+                    "sanoatni rivojlantirmoq"
+                ],
+                "Uyghur": [
+                    "سانائەتلەشتۈرمەك",
+                    "سانائەتلەشمەك"
+                ],
+                "Karakalpak": [
+                    "sanaatlandırıo",
+                    "sanaattı raoajlandırıo"
+                ],
+                "Tatar": [
+                    "сәнәгатьләштерү",
+                    "сәнәгатьне үстерү"
+                ],
+                "Bashkir": [
+                    "сәнәғәтләштереү",
+                    "сәнәғәтте үҫтереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өнеркәсіптендіру",
+                    "өндірісті дамыту"
+                ],
+                "Kyrgyz": [
+                    "өнөр жайлаштыруу",
+                    "өнөр жайын өнүктүрүү",
+                    "өнөр жай куруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәсіптендіру"
+                ],
+                "Karakalpak": [
+                    "kásiplendirio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җитештерүне арттыру"
+                ],
+                "Bashkir": [
+                    "етештереүҙе киңәйтеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "endüstrileşmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ishlab chiqarishni kengaytirmoq"
+                ]
+            }
+        }
+    ]
+}

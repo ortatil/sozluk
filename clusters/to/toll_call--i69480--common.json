@@ -1,0 +1,114 @@
+{
+    "id": "i69480",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "toll call",
+    "en_definition": "a long-distance telephone call at charges above a local rate",
+    "tr_word": "şehirlerarası telefon görüşmesi",
+    "tr_definition": "yerel tarifeden daha yüksek ücretlendirilen uzun mesafeli telefon araması",
+    "ru_word": "междугородный звонок",
+    "ru_definition": "телефонный звонок на дальнее расстояние, оплачиваемый по тарифу выше местного",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehirlerarası arama"
+                ],
+                "Azerbaijani": [
+                    "şəhərlərarası zəng"
+                ],
+                "Turkmen": [
+                    "şäherara jaň"
+                ],
+                "Uzbek": [
+                    "shaharlararo qoʻngʻiroq",
+                    "shaharlararo soʻzlashuv"
+                ],
+                "Uyghur": [
+                    "شەھەر ئارىلىق تېلېفون"
+                ],
+                "Tatar": [
+                    "шәһәрара сөйләшү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzak mesafe araması"
+                ],
+                "Azerbaijani": [
+                    "uzaq məsafəli zəng",
+                    "uzaq danışıq"
+                ],
+                "Turkmen": [
+                    "uzak aralykdaky jaň"
+                ],
+                "Uzbek": [
+                    "uzoq masofali qoʻngʻiroq"
+                ],
+                "Kyrgyz": [
+                    "узак аралыктагы чалуу"
+                ],
+                "Karakalpak": [
+                    "uzaq aralıqlı qońırau"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қалааралық қоңырау"
+                ],
+                "Karakalpak": [
+                    "qalalaralıq qońırau"
+                ],
+                "Bashkir": [
+                    "ҡала-ара һөйләшеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "алыс байланыс",
+                    "алыс қоңырау"
+                ],
+                "Kyrgyz": [
+                    "алыскы чалуу"
+                ],
+                "Bashkir": [
+                    "алыҫ аралы һөйләшеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يىراق ئارىلىق تېلېفونى"
+                ],
+                "Tatar": [
+                    "ерак аралы сөйләшү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ücretli arama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаарлар аралык чалуу"
+                ]
+            }
+        }
+    ]
+}

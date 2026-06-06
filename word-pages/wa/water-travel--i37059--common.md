@@ -1,0 +1,165 @@
+# Water travel
+| Field | Detail |
+|---|---|
+| **ID** | i37059 |
+| **English** | water travel |
+| **Type** | noun |
+| **Definition** | travel by water |
+| **Source** | common |
+| **Ortatil** | üzgüçü |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| йөзү | yözü |
+| **Bashkir** | |
+| йөҙөү | yözöü |
+
+```json
+{
+    "id": "i37059",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water travel",
+    "en_definition": "travel by water",
+    "tr_word": "deniz yolculuğu",
+    "tr_definition": "Su yoluyla yapılan seyahat",
+    "ru_word": "водное путешествие",
+    "ru_definition": "путешествие по воде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su yolu"
+                ],
+                "Azerbaijani": [
+                    "su yolu"
+                ],
+                "Turkmen": [
+                    "suw syýahaty",
+                    "suw ýoly"
+                ],
+                "Uzbek": [
+                    "suv safari",
+                    "suv yoʻli"
+                ],
+                "Uyghur": [
+                    "سۇ قاتنىشى",
+                    "سۇ يولى"
+                ],
+                "Kazakh": [
+                    "су жолы",
+                    "су қатынасы"
+                ],
+                "Kyrgyz": [
+                    "суу жолу"
+                ],
+                "Karakalpak": [
+                    "suo jolı",
+                    "suoda júzio"
+                ],
+                "Tatar": [
+                    "су юлы",
+                    "су сәяхәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gəmiçilik"
+                ],
+                "Turkmen": [
+                    "gämili syýahat"
+                ],
+                "Uzbek": [
+                    "kemachilik"
+                ],
+                "Uyghur": [
+                    "كېمە سەپىرى"
+                ],
+                "Kazakh": [
+                    "кеме қатынасы"
+                ],
+                "Kyrgyz": [
+                    "кеме сапары"
+                ],
+                "Karakalpak": [
+                    "keme júrisi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz yolculuğu",
+                    "deniz yolu"
+                ],
+                "Azerbaijani": [
+                    "dəniz səyahəti"
+                ],
+                "Uzbek": [
+                    "dengiz safari"
+                ],
+                "Uyghur": [
+                    "دېڭىز سەپىرى"
+                ],
+                "Kazakh": [
+                    "теңіз сапары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seyrüsefer"
+                ],
+                "Bashkir": [
+                    "һыу юлы",
+                    "һыу аша йөрөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzgüçülük"
+                ],
+                "Tatar": [
+                    "йөзү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сууда сүзүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көймәлә йөрөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йөҙөү"
+                ]
+            }
+        }
+    ]
+}
+```
+

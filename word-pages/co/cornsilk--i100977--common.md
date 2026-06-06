@@ -1,0 +1,152 @@
+# Cornsilk
+| Field | Detail |
+|---|---|
+| **ID** | i100977 |
+| **English** | cornsilk |
+| **Type** | noun |
+| **Definition** | each of the long filamentous styles that grow as a silky tuft at the tip of an ear of Indian corn |
+| **Source** | common |
+| **Ortatil** | saçaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| чәч | çäç |
+| күбә | kübä |
+| сакал | sakal |
+| җепсел | jepsel |
+
+```json
+{
+    "id": "i100977",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cornsilk",
+    "en_definition": "each of the long filamentous styles that grow as a silky tuft at the tip of an ear of Indian corn",
+    "tr_word": "mısır püskülü",
+    "tr_definition": "Mısır koçanının tepesinde bulunan, ipeksi ve ince lifli uzantıların her biri.",
+    "ru_word": "кукурузные рыльца",
+    "ru_definition": "длинные нитевидные столбики, растущие в виде шелковистого пучка на верхушке початка кукурузы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jöwen saçy"
+                ],
+                "Kazakh": [
+                    "жүгері шашағы",
+                    "жүгері мұрты",
+                    "жүгері жібегі"
+                ],
+                "Kyrgyz": [
+                    "жүгөрү чачысы",
+                    "жүгөрү сакалы",
+                    "жүгөрү жибеги"
+                ],
+                "Karakalpak": [
+                    "júgerі shashı",
+                    "júgerі saqalı",
+                    "júgerі púpіlі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "saçaq"
+                ],
+                "Tatar": [
+                    "чәч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mökgepürçik",
+                    "mökge saçy"
+                ],
+                "Uzbek": [
+                    "makkajoʻxori popugi",
+                    "makkajoʻxori sochi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mısır püskülü",
+                    "mısır saçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarğıdalı saçağı",
+                    "qarğıdalı püskülü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "püskül"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "popuk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوناق ساقىلى",
+                    "قوناق پۆپۈكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күбә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сакал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җепсел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "кукуруз сәсе",
+                    "кукуруз ебәге",
+                    "кукуруз һаҡалы"
+                ]
+            }
+        }
+    ]
+}
+```
+

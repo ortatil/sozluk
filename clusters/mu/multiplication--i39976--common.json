@@ -1,0 +1,106 @@
+{
+    "id": "i39976",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "times",
+    "en_definition": "an arithmetic operation that is the inverse of division; the product of two numbers is computed",
+    "tr_word": "çarpma",
+    "tr_definition": "Bölme işleminin tersi olan ve iki sayının çarpımının hesaplandığı aritmetik işlem.",
+    "ru_word": "умножение",
+    "ru_definition": "Арифметическое действие, обратное делению; вычисление произведения двух чисел.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çarpma"
+                ],
+                "Azerbaijani": [
+                    "zərb"
+                ],
+                "Turkmen": [
+                    "zarp"
+                ],
+                "Uzbek": [
+                    "zarb"
+                ],
+                "Uyghur": [
+                    "زەرب"
+                ],
+                "Kazakh": [
+                    "зарб"
+                ],
+                "Kyrgyz": [
+                    "зарб"
+                ],
+                "Karakalpak": [
+                    "zarb"
+                ],
+                "Tatar": [
+                    "зарб"
+                ],
+                "Bashkir": [
+                    "зарб"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köpeltmek"
+                ],
+                "Uzbek": [
+                    "koʻpaytirish"
+                ],
+                "Uyghur": [
+                    "كۆپەيتىش"
+                ],
+                "Kazakh": [
+                    "көбейту"
+                ],
+                "Kyrgyz": [
+                    "көбөйтүү"
+                ],
+                "Karakalpak": [
+                    "kóbeytu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "darb"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vurma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hasil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тапкырлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡабатлау"
+                ]
+            }
+        }
+    ]
+}

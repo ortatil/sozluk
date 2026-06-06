@@ -1,0 +1,85 @@
+{
+    "id": "i90851",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "king of the germans",
+    "en_definition": "the sovereign ruler of the Germans",
+    "tr_word": "Alman kralı",
+    "tr_definition": "Almanların egemen hükümdarı",
+    "ru_word": "король Германии",
+    "ru_definition": "суверенный правитель немцев",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Alman Kralı",
+                    "Alman Hükümdarı"
+                ],
+                "Azerbaijani": [
+                    "almanlar kralı",
+                    "almanlar hökmdarı",
+                    "almanlar şahı"
+                ],
+                "Uzbek": [
+                    "olmonlar podshohi",
+                    "olmonlar sultoni",
+                    "olmonlar xoni",
+                    "olmonlar hukmdori"
+                ],
+                "Tatar": [
+                    "алман патшасы",
+                    "алман хаканы",
+                    "алман солтаны",
+                    "алман хакиме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Cermen Kralı"
+                ],
+                "Uyghur": [
+                    "گېرمانلار پادىشاھى",
+                    "گېرمانلار سۇلتانى",
+                    "گېرمانلار خاقانى"
+                ],
+                "Kyrgyz": [
+                    "герман падышасы",
+                    "герман султаны"
+                ],
+                "Bashkir": [
+                    "Герман батшаһы",
+                    "Герман хакимы",
+                    "Герман падишаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Nemes patyşasy",
+                    "Nemes soltany",
+                    "Nemes hökümdary"
+                ],
+                "Kazakh": [
+                    "неміс патшасы",
+                    "неміс ханы",
+                    "неміс билеушісі"
+                ],
+                "Kyrgyz": [
+                    "немис ханы",
+                    "немис өкүмдары"
+                ],
+                "Karakalpak": [
+                    "nemis patshası",
+                    "nemis xanı",
+                    "nemis húkimdarı"
+                ]
+            }
+        }
+    ]
+}

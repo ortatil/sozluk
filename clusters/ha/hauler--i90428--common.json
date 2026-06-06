@@ -1,0 +1,136 @@
+{
+    "id": "i90428",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hauler",
+    "en_definition": "a haulage contractor",
+    "tr_word": "nakliyeci",
+    "tr_definition": "Eşya veya yük taşıma işini üstlenen kişi veya kuruluş.",
+    "ru_word": "перевозчик",
+    "ru_definition": "Лицо или организация, занимающаяся транспортировкой грузов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşımacı"
+                ],
+                "Azerbaijani": [
+                    "daşıyıcı"
+                ],
+                "Turkmen": [
+                    "daşaýjy"
+                ],
+                "Uzbek": [
+                    "tashuvchi"
+                ],
+                "Kazakh": [
+                    "тасымалдаушы"
+                ],
+                "Kyrgyz": [
+                    "ташуучу"
+                ],
+                "Karakalpak": [
+                    "tasıoshı"
+                ],
+                "Tatar": [
+                    "ташучы"
+                ],
+                "Bashkir": [
+                    "ташыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yükdaşıyan"
+                ],
+                "Turkmen": [
+                    "ýükçi"
+                ],
+                "Uzbek": [
+                    "yuk tashuvchi",
+                    "yukchi"
+                ],
+                "Uyghur": [
+                    "يۈك توشۇغۇچى",
+                    "يۈك توشۇش ھۆددىگەرچىسى"
+                ],
+                "Kazakh": [
+                    "жүк тасушы"
+                ],
+                "Kyrgyz": [
+                    "жүк ташуучу"
+                ],
+                "Karakalpak": [
+                    "júk tasıoshı"
+                ],
+                "Bashkir": [
+                    "йөк ташыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kerwenbaşy"
+                ],
+                "Kyrgyz": [
+                    "киречи"
+                ],
+                "Karakalpak": [
+                    "kireshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nakliyeci",
+                    "nakliyatçı"
+                ],
+                "Azerbaijani": [
+                    "nəqliyyatçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kandakor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توشۇغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлікші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йөртүче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "илтүче"
+                ]
+            }
+        }
+    ]
+}

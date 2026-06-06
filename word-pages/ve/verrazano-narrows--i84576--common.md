@@ -1,0 +1,153 @@
+# Verrazano narrows
+| Field | Detail |
+|---|---|
+| **ID** | i84576 |
+| **English** | verrazano narrows |
+| **Type** | noun |
+| **Definition** | a narrow channel of water separating Staten Island and Brooklyn |
+| **Source** | common |
+| **Ortatil** | boğaz |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **boğaz** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| бұғаз | buğaz |
+| қысаң | qısañ |
+| **Kyrgyz** | |
+| бооз | booz |
+| кысык | kısık |
+| **Tatar** | |
+| бугаз | bugaz |
+| **Bashkir** | |
+| боғаҙ | boğaz |
+| тарлауыҡ | tarlauıq |
+
+```json
+{
+    "id": "i84576",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "verrazano narrows",
+    "en_definition": "a narrow channel of water separating Staten Island and Brooklyn",
+    "tr_word": "Verrazano Narrows",
+    "tr_definition": "Staten Island ve Brooklyn'i birbirinden ayıran dar su kanalı",
+    "ru_word": "Верразано-Нарроуз",
+    "ru_definition": "узкий пролив, разделяющий Статен-Айленд и Бруклин",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boğaz"
+                ],
+                "Turkmen": [
+                    "bogaz"
+                ],
+                "Uzbek": [
+                    "bo'g'oz"
+                ],
+                "Kazakh": [
+                    "бұғаз"
+                ],
+                "Kyrgyz": [
+                    "бооз"
+                ],
+                "Karakalpak": [
+                    "buǵaz"
+                ],
+                "Tatar": [
+                    "бугаз"
+                ],
+                "Bashkir": [
+                    "боғаҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dar geçit"
+                ],
+                "Karakalpak": [
+                    "tartıq"
+                ],
+                "Tatar": [
+                    "тар бугаз"
+                ],
+                "Bashkir": [
+                    "тарлауыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su yolu"
+                ],
+                "Turkmen": [
+                    "suw ýoly"
+                ],
+                "Uzbek": [
+                    "suv yo'li"
+                ],
+                "Kazakh": [
+                    "су жолы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Verrazano boğazı",
+                    "Verrazano-Nerrouz"
+                ],
+                "Uyghur": [
+                    "ۋېرازانو بوغۇزى",
+                    "ۋېرازانو تار ئېغىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қысаң"
+                ],
+                "Kyrgyz": [
+                    "кысык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dar bogaz"
+                ]
+            }
+        }
+    ]
+}
+```
+

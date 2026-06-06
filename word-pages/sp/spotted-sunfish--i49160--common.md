@@ -1,0 +1,135 @@
+# Spotted sunfish
+| Field | Detail |
+|---|---|
+| **ID** | i49160 |
+| **English** | spotted sunfish |
+| **Type** | noun |
+| **Definition** | inhabits streams from South Carolina to Florida; esteemed panfish |
+| **Source** | common |
+| **Ortatil** | ala-bıga |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| ала-буга | ala-buga |
+
+```json
+{
+    "id": "i49160",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spotted sunfish",
+    "en_definition": "inhabits streams from South Carolina to Florida; esteemed panfish",
+    "tr_word": "benekli güneş balığı",
+    "tr_definition": "Güney Karolina'dan Florida'ya kadar olan akarsularda yaşayan, eti lezzetli bir tatlı su balığı türü.",
+    "ru_word": "пятнистый солнечник",
+    "ru_definition": "вид пресноводных рыб, обитающий в реках от Южной Каролины до Флориды; ценится как объект спортивного рыболовства.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "benekli güneş balığı"
+                ],
+                "Tatar": [
+                    "ала балык"
+                ],
+                "Bashkir": [
+                    "ала балыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tegmilli gün balygy",
+                    "tegmilli balyk"
+                ],
+                "Kazakh": [
+                    "теңбіл күнбалық"
+                ],
+                "Karakalpak": [
+                    "teńbіl balıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "olachipor quyosh balig'i"
+                ],
+                "Kyrgyz": [
+                    "ала-буга"
+                ],
+                "Karakalpak": [
+                    "ala balıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چىپار قۇياش بېلىقى"
+                ],
+                "Kyrgyz": [
+                    "чаар балык"
+                ],
+                "Bashkir": [
+                    "сыбар балыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xallı günəş balığı",
+                    "xallı günəşçə"
+                ],
+                "Uzbek": [
+                    "dog'li quyosh balig'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шұбар күнбалық"
+                ],
+                "Tatar": [
+                    "чуар балык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lekeli güneş balığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېنى چىپار قۇياش بېلىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күн балыгы"
+                ]
+            }
+        }
+    ]
+}
+```
+

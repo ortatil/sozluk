@@ -1,0 +1,104 @@
+# Persian gulf
+| Field | Detail |
+|---|---|
+| **ID** | i85965 |
+| **English** | persian gulf |
+| **Type** | noun |
+| **Definition** | a shallow arm of the Arabian Sea between Iran and the Arabian peninsula; the Persian Gulf oil fields are among the most productive in the world |
+| **Source** | common |
+| **Ortatil** | häliç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| خەلىج | xälij |
+
+```json
+{
+    "id": "i85965",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "persian gulf",
+    "en_definition": "a shallow arm of the Arabian Sea between Iran and the Arabian peninsula; the Persian Gulf oil fields are among the most productive in the world",
+    "tr_word": "Basra Körfezi",
+    "tr_definition": "İran ile Arap Yarımadası arasında yer alan, petrol yatakları bakımından zengin olan Hint Okyanusu uzantısı.",
+    "ru_word": "Персидский залив",
+    "ru_definition": "Залив между Ираном и Аравийским полуостровом, соединенный Ормузским проливом с Оманским заливом; один из богатейших нефтеносных районов мира.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Basra Körfezi",
+                    "Fars Körfezi"
+                ],
+                "Azerbaijani": [
+                    "Fars körfəzi"
+                ],
+                "Turkmen": [
+                    "Pars aýlagy",
+                    "Pars körfezi"
+                ],
+                "Uzbek": [
+                    "Fors ko'rfazi",
+                    "Fors xaliji"
+                ],
+                "Uyghur": [
+                    "پارس قولتۇقى"
+                ],
+                "Kazakh": [
+                    "Парсы шығанағы"
+                ],
+                "Kyrgyz": [
+                    "Парс булуңу",
+                    "Персия булуңу"
+                ],
+                "Karakalpak": [
+                    "Parsı shıǵanaǵı",
+                    "Parsı bólmesі"
+                ],
+                "Tatar": [
+                    "Фарсы култыгы"
+                ],
+                "Bashkir": [
+                    "Фарсы ҡултығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Kəngər körfəzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەلىج"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Гарәп култыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "Иран ҡултығы"
+                ]
+            }
+        }
+    ]
+}
+```
+

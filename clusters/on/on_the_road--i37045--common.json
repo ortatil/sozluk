@@ -1,0 +1,123 @@
+{
+    "id": "i37045",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "on the road",
+    "en_definition": "travelling about",
+    "tr_word": "yolda",
+    "tr_definition": "seyahat halinde olma durumu",
+    "ru_word": "в пути",
+    "ru_definition": "нахождение в процессе поездки или путешествия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yolda",
+                    "yolculukta"
+                ],
+                "Azerbaijani": [
+                    "yolda",
+                    "yolçuluqda"
+                ],
+                "Turkmen": [
+                    "ýolda"
+                ],
+                "Uzbek": [
+                    "yoʻlda"
+                ],
+                "Uyghur": [
+                    "يولدا"
+                ],
+                "Kazakh": [
+                    "жолда",
+                    "жолаушылықта"
+                ],
+                "Kyrgyz": [
+                    "жолдо"
+                ],
+                "Karakalpak": [
+                    "jolda",
+                    "jolshıbay"
+                ],
+                "Tatar": [
+                    "юлда"
+                ],
+                "Bashkir": [
+                    "юлда"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seferde"
+                ],
+                "Azerbaijani": [
+                    "səfərdə"
+                ],
+                "Turkmen": [
+                    "sapar"
+                ],
+                "Uzbek": [
+                    "safar"
+                ],
+                "Uyghur": [
+                    "سەپەردە"
+                ],
+                "Kazakh": [
+                    "сапарда"
+                ],
+                "Kyrgyz": [
+                    "сапарда"
+                ],
+                "Karakalpak": [
+                    "saparda"
+                ],
+                "Tatar": [
+                    "сәфәрдә"
+                ],
+                "Bashkir": [
+                    "сәфәрҙә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seyahatte"
+                ],
+                "Turkmen": [
+                    "syýahat"
+                ],
+                "Uzbek": [
+                    "sayohat"
+                ],
+                "Kazakh": [
+                    "саяхатта"
+                ],
+                "Kyrgyz": [
+                    "саякатта"
+                ],
+                "Tatar": [
+                    "сәяхәттә"
+                ],
+                "Bashkir": [
+                    "сәйәхәттә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "musofirlik"
+                ],
+                "Uyghur": [
+                    "مۇساپىرەتتە"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+# Mormon
+| Field | Detail |
+|---|---|
+| **ID** | i90940 |
+| **English** | mormon |
+| **Type** | noun |
+| **Definition** | a member of the Church of Jesus Christ of Latter-Day Saints |
+| **Source** | common |
+| **Ortatil** | mormon |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **mormon** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مورمون | mormon |
+| **Kazakh** | |
+| мормон | mormon |
+| мормондық | mormondıq |
+| **Kyrgyz** | |
+| мормон | mormon |
+| мормончу | mormonçu |
+| **Tatar** | |
+| мормон | mormon |
+| **Bashkir** | |
+| мормон | mormon |
+| мормонлы | mormonlı |
+
+```json
+{
+    "id": "i90940",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mormon",
+    "en_definition": "a member of the Church of Jesus Christ of Latter-Day Saints",
+    "tr_word": "mormon",
+    "tr_definition": "İsa Mesih'in Son Zaman Azizler Kilisesi'nin bir üyesi",
+    "ru_word": "мормон",
+    "ru_definition": "член Церкви Иисуса Христа Святых последних дней",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Mormon"
+                ],
+                "Azerbaijani": [
+                    "mormon",
+                    "mormonçu"
+                ],
+                "Turkmen": [
+                    "mormon",
+                    "mormonçy"
+                ],
+                "Uzbek": [
+                    "mormon",
+                    "mormonizm tarafdori"
+                ],
+                "Uyghur": [
+                    "مورمون",
+                    "مورمون مۇرتى"
+                ],
+                "Kazakh": [
+                    "мормон",
+                    "мормондық"
+                ],
+                "Kyrgyz": [
+                    "мормон",
+                    "мормончу"
+                ],
+                "Karakalpak": [
+                    "mormon",
+                    "mormonshı"
+                ],
+                "Tatar": [
+                    "мормон",
+                    "мормонлык тарафдары"
+                ],
+                "Bashkir": [
+                    "мормон",
+                    "мормонлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "İsa Mesih'in Son Zaman Azizler Kilisesi üyesi"
+                ]
+            }
+        }
+    ]
+}
+```
+

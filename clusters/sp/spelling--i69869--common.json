@@ -1,0 +1,127 @@
+{
+    "id": "i69869",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spelling",
+    "en_definition": "forming words with letters according to the principles underlying accepted usage",
+    "tr_word": "yazım",
+    "tr_definition": "Bir dilin belli kurallarla yazıya geçirilmesi, imla.",
+    "ru_word": "правописание",
+    "ru_definition": "Система правил, определяющих единообразие способов передачи речи на письме.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazım"
+                ],
+                "Azerbaijani": [
+                    "yazılış"
+                ],
+                "Turkmen": [
+                    "ýazuw düzgüni"
+                ],
+                "Uzbek": [
+                    "yozuv"
+                ],
+                "Uyghur": [
+                    "يېزىلىش"
+                ],
+                "Kazakh": [
+                    "жазу ережесі"
+                ],
+                "Kyrgyz": [
+                    "жазуу"
+                ],
+                "Karakalpak": [
+                    "jazılıo"
+                ],
+                "Tatar": [
+                    "язу"
+                ],
+                "Bashkir": [
+                    "яҙылыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "imla"
+                ],
+                "Azerbaijani": [
+                    "imla"
+                ],
+                "Turkmen": [
+                    "imla"
+                ],
+                "Uzbek": [
+                    "imlo"
+                ],
+                "Uyghur": [
+                    "ئىملا"
+                ],
+                "Kazakh": [
+                    "емле"
+                ],
+                "Kyrgyz": [
+                    "имла"
+                ],
+                "Karakalpak": [
+                    "imla"
+                ],
+                "Tatar": [
+                    "имля"
+                ],
+                "Bashkir": [
+                    "имлә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "orfoqrafiya"
+                ],
+                "Kazakh": [
+                    "орфография"
+                ],
+                "Karakalpak": [
+                    "orfografiya"
+                ],
+                "Tatar": [
+                    "орфография"
+                ],
+                "Bashkir": [
+                    "орфография"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "harfleme"
+                ],
+                "Turkmen": [
+                    "harp-harp aýtmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tahrir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тамгалоо"
+                ]
+            }
+        }
+    ]
+}

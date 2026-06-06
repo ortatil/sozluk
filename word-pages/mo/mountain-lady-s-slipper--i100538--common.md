@@ -1,0 +1,119 @@
+# Mountain lady's slipper
+| Field | Detail |
+|---|---|
+| **ID** | i100538 |
+| **English** | mountain lady's slipper |
+| **Type** | noun |
+| **Definition** | leafy plant having a few stems in a clump with 1 white and dull purple flower in each upper leaf axil; Alaska to northern California and Wyoming |
+| **Source** | common |
+| **Ortatil** | käwışgıl |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i100538",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mountain lady's slipper",
+    "en_definition": "leafy plant having a few stems in a clump with 1 white and dull purple flower in each upper leaf axil; Alaska to northern California and Wyoming",
+    "tr_word": "dağ hanımterliği",
+    "tr_definition": "Alaska'dan kuzey Kaliforniya ve Wyoming'e kadar yetişen, beyaz ve mat mor çiçekli bir orkide türü.",
+    "ru_word": "горный венерин башмачок",
+    "ru_definition": "многолетнее травянистое растение семейства Орхидные с белыми и тускло-пурпурными цветками, произрастающее от Аляски до северной Калифорнии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağ hanımterliği"
+                ],
+                "Azerbaijani": [
+                    "dağ səhləbi",
+                    "ağ səhləb"
+                ],
+                "Turkmen": [
+                    "dag bägüli"
+                ],
+                "Uzbek": [
+                    "togʻ kavushi",
+                    "togʻ guli"
+                ],
+                "Uyghur": [
+                    "تاغ كەشگۈلى",
+                    "تاغ كەشگۈل گۈلى"
+                ],
+                "Kazakh": [
+                    "тау шолпанкебісі",
+                    "тау кебісгүлі"
+                ],
+                "Karakalpak": [
+                    "tau kepishi",
+                    "tau gúli"
+                ],
+                "Tatar": [
+                    "тау Чулпан башмагы"
+                ],
+                "Bashkir": [
+                    "тау кәкүк итеге",
+                    "тау кәкүк ситеге",
+                    "тау кәкүк башмағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağ salebi"
+                ],
+                "Azerbaijani": [
+                    "dağ xanım-başmağı"
+                ],
+                "Turkmen": [
+                    "dag çeçegi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئاق كەشگۈل"
+                ],
+                "Kazakh": [
+                    "ақ шолпанкебіс"
+                ],
+                "Tatar": [
+                    "ак Чулпан башмагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yabani orkide"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kavushgul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоо чөйчөк гүлү",
+                    "тоо маасы гүлү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,108 @@
+{
+    "id": "i50458",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "barber chair",
+    "en_definition": "a large fixed adjustable chair in which barbers seat their customers",
+    "tr_word": "berber koltuğu",
+    "tr_definition": "Berberlerin müşterilerini oturttuğu, yüksekliği ve eğimi ayarlanabilen özel koltuk.",
+    "ru_word": "парикмахерское кресло",
+    "ru_definition": "Специальное регулируемое кресло, предназначенное для размещения клиента во время стрижки или бритья.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sartarosh kursi",
+                    "sartarosh o'rindig'i"
+                ],
+                "Uyghur": [
+                    "سەرتىراش ئورۇندۇقى",
+                    "سەرتىراشخانە ئورۇندۇقى"
+                ],
+                "Kazakh": [
+                    "шаштараз орындығы"
+                ],
+                "Karakalpak": [
+                    "sárterash orındıǵı",
+                    "sárterash kreslosı"
+                ],
+                "Tatar": [
+                    "чәчтараш кәнәфие"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "berber koltuğu"
+                ],
+                "Azerbaijani": [
+                    "bərbər kürsüsü",
+                    "bərbər stulu"
+                ],
+                "Bashkir": [
+                    "бәрбәр ултырғысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəllək kürsüsü"
+                ],
+                "Turkmen": [
+                    "dellek oturgyjy",
+                    "dellekhana oturgyjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чач тарачтын отургучу",
+                    "чач тарачтын креслосу"
+                ],
+                "Bashkir": [
+                    "сәс алыу ултырғысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tıraş koltuğu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kursy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қырыну орындығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чөгендергеч кәнәфие"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кәнәфи"
+                ]
+            }
+        }
+    ]
+}

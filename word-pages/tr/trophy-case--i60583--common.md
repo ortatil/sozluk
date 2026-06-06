@@ -1,0 +1,180 @@
+# Trophy case
+| Field | Detail |
+|---|---|
+| **ID** | i60583 |
+| **English** | trophy case |
+| **Type** | noun |
+| **Definition** | a case in which to display trophies |
+| **Source** | common |
+| **Ortatil** | witrin |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i60583",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trophy case",
+    "en_definition": "a case in which to display trophies",
+    "tr_word": "kupa dolabı",
+    "tr_definition": "kazanılan kupaların ve ödüllerin sergilendiği vitrin veya dolap",
+    "ru_word": "витрина для кубков",
+    "ru_definition": "шкаф или застекленная полка, предназначенная для демонстрации спортивных кубков и наград",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kupa dolabı"
+                ],
+                "Azerbaijani": [
+                    "kubok rəfi",
+                    "kubok dolabı"
+                ],
+                "Turkmen": [
+                    "kubok şkafy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mükafat rəfi",
+                    "mükafat dolabı"
+                ],
+                "Uzbek": [
+                    "mukofotlar javoni"
+                ],
+                "Uyghur": [
+                    "مۇكاپات ئىشكاپى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sovrinlar javoni",
+                    "sovrinlar vitrinasi"
+                ],
+                "Kyrgyz": [
+                    "сыйлык текчеси",
+                    "сыйлык кутусу"
+                ],
+                "Karakalpak": [
+                    "sıylıq sóresі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vitrin"
+                ],
+                "Uzbek": [
+                    "mukofotlar vitrinasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sergileme dolabı"
+                ],
+                "Turkmen": [
+                    "sergi şkafy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "олжа сөресі",
+                    "олжа жәшігі"
+                ],
+                "Kyrgyz": [
+                    "олжо текчеси",
+                    "олжо кутусу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jeńіs sóresі"
+                ],
+                "Tatar": [
+                    "җиңүләр шкафы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бүләкләр шкафы",
+                    "бүләкләр витринасы"
+                ],
+                "Bashkir": [
+                    "бүләктәр шкафы",
+                    "бүләктәр кәштәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ödül dolabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "baýrak şkafy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شان-شەرەپ ئىشكاپى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆرگەزمە ئىشكاپى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жүлде шкафы",
+                    "жүлде сөресі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jádіger shkafı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яуланған бүләктәр урыны"
+                ]
+            }
+        }
+    ]
+}
+```
+

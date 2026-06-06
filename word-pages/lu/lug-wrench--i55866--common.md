@@ -1,0 +1,149 @@
+# Lug wrench
+| Field | Detail |
+|---|---|
+| **ID** | i55866 |
+| **English** | lug wrench |
+| **Type** | noun |
+| **Definition** | a wrench with jaws that have projecting lugs to engage the object that is to be rotated |
+| **Source** | common |
+| **Ortatil** | kilt |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| кілт | kilt |
+
+```json
+{
+    "id": "i55866",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lug wrench",
+    "en_definition": "a wrench with jaws that have projecting lugs to engage the object that is to be rotated",
+    "tr_word": "bijon anahtarı",
+    "tr_definition": "Taşıtların tekerleklerini tutan somunları sökmek ve sıkmak için kullanılan alet.",
+    "ru_word": "баллонный ключ",
+    "ru_definition": "Гаечный ключ, предназначенный для откручивания и закручивания гаек крепления колес автомобиля.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bijon anahtarı"
+                ],
+                "Azerbaijani": [
+                    "balon açarı"
+                ],
+                "Turkmen": [
+                    "balon açary"
+                ],
+                "Uzbek": [
+                    "balon kaliti"
+                ],
+                "Bashkir": [
+                    "баллон асҡысы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təkər açarı"
+                ],
+                "Turkmen": [
+                    "tigir açary"
+                ],
+                "Tatar": [
+                    "тәгәрмәч ачкычы"
+                ],
+                "Bashkir": [
+                    "тәгәрмәс асҡысы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "g'ildirak kaliti"
+                ],
+                "Kazakh": [
+                    "кілт"
+                ],
+                "Karakalpak": [
+                    "kіlt"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "گايكا ئاچقۇچ"
+                ],
+                "Kyrgyz": [
+                    "гайка ачкыч"
+                ],
+                "Tatar": [
+                    "гайка ачкычы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дөңгелек кілті"
+                ],
+                "Kyrgyz": [
+                    "дөңгөлөк ачкыч"
+                ],
+                "Karakalpak": [
+                    "dóńgelek kіltі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çarx açarı"
+                ],
+                "Uyghur": [
+                    "چاق ئاچقۇچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұранда кілт"
+                ],
+                "Karakalpak": [
+                    "burau kіlt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lokma anahtar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بولت ئاچقۇچ"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,98 @@
+{
+    "id": "i56174",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "metal screw",
+    "en_definition": "screw made of metal",
+    "tr_word": "metal vida",
+    "tr_definition": "Metalden yapılmış, parçaları birbirine tutturmak için kullanılan dişli bağlantı elemanı.",
+    "ru_word": "металлический винт",
+    "ru_definition": "Крепежное изделие из металла с винтовой нарезкой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "burgu"
+                ],
+                "Azerbaijani": [
+                    "burğu"
+                ],
+                "Turkmen": [
+                    "buraw"
+                ],
+                "Uzbek": [
+                    "burama"
+                ],
+                "Uyghur": [
+                    "بۇرما",
+                    "بۇرما مىخ",
+                    "بۇراما"
+                ],
+                "Kazakh": [
+                    "бұранда",
+                    "бұрама",
+                    "бұрандалы шеге"
+                ],
+                "Kyrgyz": [
+                    "бурама",
+                    "бурама мык"
+                ],
+                "Karakalpak": [
+                    "burama",
+                    "burama shege",
+                    "bұrama"
+                ],
+                "Tatar": [
+                    "борып керткеч",
+                    "борып беркеткеч",
+                    "борып кадаклагыч"
+                ],
+                "Bashkir": [
+                    "боро",
+                    "борғо",
+                    "борма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vida"
+                ],
+                "Azerbaijani": [
+                    "vint",
+                    "vintli mismar"
+                ],
+                "Turkmen": [
+                    "wind"
+                ],
+                "Uzbek": [
+                    "vint"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "civata"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nurbat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "parchin"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "id": "i16460",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "herbal",
+    "en_definition": "of or relating to herbs",
+    "tr_word": "bitkisel",
+    "tr_definition": "otlarla veya bitkilerle ilgili olan",
+    "ru_word": "травяной",
+    "ru_definition": "относящийся к травам или состоящий из них",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dermanlyk"
+                ],
+                "Kazakh": [
+                    "дәрілік"
+                ],
+                "Kyrgyz": [
+                    "дары-дармектик"
+                ],
+                "Karakalpak": [
+                    "dári-dármanlıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nebati"
+                ],
+                "Azerbaijani": [
+                    "nəbati"
+                ],
+                "Uzbek": [
+                    "nabotiy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ot"
+                ],
+                "Turkmen": [
+                    "otly"
+                ],
+                "Uzbek": [
+                    "o'tli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ösümlik"
+                ],
+                "Uyghur": [
+                    "ئۆسۈملۈك"
+                ],
+                "Bashkir": [
+                    "үҫемлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шөптік",
+                    "шөпті"
+                ],
+                "Kyrgyz": [
+                    "чөптүк",
+                    "чөп-чардык"
+                ],
+                "Karakalpak": [
+                    "shóp",
+                    "shópli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bitkisel"
+                ],
+                "Azerbaijani": [
+                    "bitki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "giyohli"
+                ],
+                "Uyghur": [
+                    "گىياھلىق",
+                    "گىياھ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үләнле",
+                    "үлән"
+                ],
+                "Bashkir": [
+                    "үлән",
+                    "үләнле"
+                ]
+            }
+        }
+    ]
+}

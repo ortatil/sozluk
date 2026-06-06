@@ -1,0 +1,91 @@
+{
+    "id": "i89711",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "electrician",
+    "en_definition": "a person who installs or repairs electrical or telephone lines",
+    "tr_word": "elektrikçi",
+    "tr_definition": "elektrik tesisatı döşeyen veya onaran usta",
+    "ru_word": "электрик",
+    "ru_definition": "специалист по монтажу и ремонту электрооборудования и линий электропередач",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrikçi",
+                    "elektrik ustası",
+                    "elektrik teknisyeni"
+                ],
+                "Azerbaijani": [
+                    "elektrik",
+                    "elektrikçi",
+                    "elektrik ustası"
+                ],
+                "Turkmen": [
+                    "elektrik",
+                    "elektrikçi"
+                ],
+                "Uzbek": [
+                    "elektrchi"
+                ],
+                "Uyghur": [
+                    "ئېلېكترىكچى",
+                    "ئېلېكتر ئۇستىسى"
+                ],
+                "Kazakh": [
+                    "электрші",
+                    "электр маманы"
+                ],
+                "Kyrgyz": [
+                    "электрчи",
+                    "электр адиси",
+                    "электр устасы"
+                ],
+                "Karakalpak": [
+                    "elektrshi"
+                ],
+                "Tatar": [
+                    "электрчы",
+                    "электр остасы"
+                ],
+                "Bashkir": [
+                    "электр белгесе",
+                    "электр оҫтаһы",
+                    "электрсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توكچى"
+                ],
+                "Karakalpak": [
+                    "tokshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "barqchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қуатшы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "утчы"
+                ]
+            }
+        }
+    ]
+}

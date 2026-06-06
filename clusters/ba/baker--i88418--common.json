@@ -1,0 +1,128 @@
+{
+    "id": "i88418",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "baker",
+    "en_definition": "someone who bakes bread or cake",
+    "tr_word": "fırıncı",
+    "tr_definition": "ekmek veya pasta pişiren kimse",
+    "ru_word": "пекарь",
+    "ru_definition": "человек, который выпекает хлеб или кондитерские изделия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nanpaz"
+                ],
+                "Uzbek": [
+                    "novvoy"
+                ],
+                "Uyghur": [
+                    "نانۋاي"
+                ],
+                "Kazakh": [
+                    "наубайшы",
+                    "наубай"
+                ],
+                "Kyrgyz": [
+                    "наабайчы",
+                    "наабай"
+                ],
+                "Karakalpak": [
+                    "nanpaz",
+                    "nabay",
+                    "nabayshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "pazanda"
+                ],
+                "Uyghur": [
+                    "پەزان"
+                ],
+                "Kyrgyz": [
+                    "бышыруучу"
+                ],
+                "Bashkir": [
+                    "бешереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekmekçi"
+                ],
+                "Tatar": [
+                    "икмәкче"
+                ],
+                "Bashkir": [
+                    "икмәк бешереүсе",
+                    "икмәксе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hamurcu"
+                ],
+                "Azerbaijani": [
+                    "xəmirçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çörəkçi",
+                    "çörəkbişirən"
+                ],
+                "Turkmen": [
+                    "çörekçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fırıncı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "набайшы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нан пісіруші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күмәчче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәлвәче"
+                ]
+            }
+        }
+    ]
+}

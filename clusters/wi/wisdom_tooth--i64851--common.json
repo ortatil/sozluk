@@ -1,0 +1,76 @@
+{
+    "id": "i64851",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wisdom tooth",
+    "en_definition": "any of the last 4 teeth on each side of the upper and lower jaw; the last of the permanent teeth to erupt (between ages 16 and 21)",
+    "tr_word": "yirmi yaş dişi",
+    "tr_definition": "üst ve alt çenenin her iki yanındaki en son dişlerden herhangi biri; kalıcı dişlerin en son çıkanları (16-21 yaş arası)",
+    "ru_word": "зуб мудрости",
+    "ru_definition": "любой из последних четырех зубов с каждой стороны верхней и нижней челюсти; последний из прорезывающихся постоянных зубов (в возрасте от 16 до 21 года)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akıl dişi"
+                ],
+                "Azerbaijani": [
+                    "ağıl dişi"
+                ],
+                "Turkmen": [
+                    "akyl dişi",
+                    "akyldar dişi"
+                ],
+                "Uzbek": [
+                    "aql tishi"
+                ],
+                "Uyghur": [
+                    "ئەقىل چىشى",
+                    "ئەقىل چىش"
+                ],
+                "Kazakh": [
+                    "ақыл тіс"
+                ],
+                "Kyrgyz": [
+                    "акыл азуу",
+                    "акыл тиш"
+                ],
+                "Karakalpak": [
+                    "aqıl tis"
+                ],
+                "Tatar": [
+                    "акыл теше"
+                ],
+                "Bashkir": [
+                    "аҡыл теше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kəllə dişi"
+                ],
+                "Kazakh": [
+                    "кемел тіс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yirmilik diş",
+                    "yirmi yaş dişi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "donolik tishi"
+                ]
+            }
+        }
+    ]
+}

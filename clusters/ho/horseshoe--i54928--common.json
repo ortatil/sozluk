@@ -1,0 +1,76 @@
+{
+    "id": "i54928",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "horseshoe",
+    "en_definition": "U-shaped plate nailed to underside of horse's hoof",
+    "tr_word": "nal",
+    "tr_definition": "Atın tırnağına çakılan, U şeklindeki demir parça.",
+    "ru_word": "подкова",
+    "ru_definition": "U-образная металлическая пластина, прибиваемая к копыту лошади.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "taqa"
+                ],
+                "Uyghur": [
+                    "تاقا"
+                ],
+                "Kazakh": [
+                    "таға"
+                ],
+                "Kyrgyz": [
+                    "така"
+                ],
+                "Karakalpak": [
+                    "taǵa"
+                ],
+                "Tatar": [
+                    "дага"
+                ],
+                "Bashkir": [
+                    "даға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nal"
+                ],
+                "Azerbaijani": [
+                    "nal"
+                ],
+                "Turkmen": [
+                    "nal"
+                ],
+                "Uzbek": [
+                    "nal"
+                ],
+                "Uyghur": [
+                    "نال"
+                ],
+                "Kazakh": [
+                    "нәл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "ат така"
+                ],
+                "Tatar": [
+                    "ат дагасы"
+                ],
+                "Bashkir": [
+                    "ат дағаһы"
+                ]
+            }
+        }
+    ]
+}

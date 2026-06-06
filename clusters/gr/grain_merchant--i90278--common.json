@@ -1,0 +1,133 @@
+{
+    "id": "i90278",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "grain merchant",
+    "en_definition": "a merchant who deals in food grains",
+    "tr_word": "zahireci",
+    "tr_definition": "Tahıl ticareti yapan kimse, hububat tüccarı.",
+    "ru_word": "торговец зерном",
+    "ru_definition": "Купец или предприниматель, занимающийся куплей и продажей зерновых культур.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "däneçi"
+                ],
+                "Uzbek": [
+                    "donfurush"
+                ],
+                "Kazakh": [
+                    "дән саудагері"
+                ],
+                "Kyrgyz": [
+                    "дан сатуучу",
+                    "данкеч"
+                ],
+                "Karakalpak": [
+                    "dán satıoshı",
+                    "dánshi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئاشلىقچى",
+                    "ئاشلىق سودىگىرى"
+                ],
+                "Kazakh": [
+                    "астық саудагері"
+                ],
+                "Kyrgyz": [
+                    "аштыкчы"
+                ],
+                "Tatar": [
+                    "ашлыкчы",
+                    "ашлык сатучы"
+                ],
+                "Bashkir": [
+                    "ашлыҡсы",
+                    "ашлыҡ һатыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "buğdaçı"
+                ],
+                "Kazakh": [
+                    "бидайшы"
+                ],
+                "Karakalpak": [
+                    "biydayshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gallafuruş",
+                    "gallakeş"
+                ],
+                "Uzbek": [
+                    "gʻallafurush"
+                ],
+                "Uyghur": [
+                    "غەللە سودىگىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahılcı"
+                ],
+                "Azerbaijani": [
+                    "taxılçı",
+                    "taxıl taciri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zahireci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hububatçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "baqqol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәҗир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "игенсе"
+                ]
+            }
+        }
+    ]
+}

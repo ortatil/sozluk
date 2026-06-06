@@ -1,0 +1,202 @@
+{
+    "id": "i68073",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "sentiment",
+    "en_definition": "a personal belief or judgment that is not founded on proof or certainty",
+    "tr_word": "duygu",
+    "tr_definition": "kanıt veya kesinliğe dayanmayan kişisel bir inanç veya yargı; his",
+    "ru_word": "настроение",
+    "ru_definition": "личное убеждение или суждение, не основанное на доказательствах или уверенности; мнение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "inanç"
+                ],
+                "Azerbaijani": [
+                    "inam"
+                ],
+                "Turkmen": [
+                    "ynanç"
+                ],
+                "Kazakh": [
+                    "наным"
+                ],
+                "Kyrgyz": [
+                    "ынаным"
+                ],
+                "Tatar": [
+                    "иنانганлык"
+                ],
+                "Bashkir": [
+                    "инаныс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ishonch"
+                ],
+                "Uyghur": [
+                    "ئىشەنچ"
+                ],
+                "Kazakh": [
+                    "сенім"
+                ],
+                "Kyrgyz": [
+                    "ишеним"
+                ],
+                "Karakalpak": [
+                    "isenim"
+                ],
+                "Tatar": [
+                    "ышану"
+                ],
+                "Bashkir": [
+                    "ышаныс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "itikat"
+                ],
+                "Azerbaijani": [
+                    "etiqad"
+                ],
+                "Uzbek": [
+                    "e'tiqod"
+                ],
+                "Uyghur": [
+                    "ئېتىقاد"
+                ],
+                "Karakalpak": [
+                    "itiqat"
+                ],
+                "Bashkir": [
+                    "иғтиҡад"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "garaýyş"
+                ],
+                "Uzbek": [
+                    "qarash"
+                ],
+                "Uyghur": [
+                    "قاراش"
+                ],
+                "Tatar": [
+                    "караш"
+                ],
+                "Bashkir": [
+                    "ҡараш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əqidə"
+                ],
+                "Uzbek": [
+                    "aqida"
+                ],
+                "Kyrgyz": [
+                    "акыйда"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көзқарас"
+                ],
+                "Kyrgyz": [
+                    "көз караш"
+                ],
+                "Karakalpak": [
+                    "kózqaras"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fikir"
+                ],
+                "Turkmen": [
+                    "pikir"
+                ],
+                "Tatar": [
+                    "фикер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kanaat"
+                ],
+                "Azerbaijani": [
+                    "qənaət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "görüş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "akýol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұстаным"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "túsinik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەسەۋۋۇر"
+                ]
+            }
+        }
+    ]
+}

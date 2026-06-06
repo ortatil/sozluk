@@ -1,0 +1,95 @@
+{
+    "id": "i115493",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "writing ink",
+    "en_definition": "any permanent or washable ink used with pens",
+    "tr_word": "yazı mürekkebi",
+    "tr_definition": "kalemlerle kullanılan kalıcı veya yıkanabilir her türlü mürekkep",
+    "ru_word": "чернила",
+    "ru_definition": "любые стойкие или смываемые чернила, используемые с ручками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "syýa"
+                ],
+                "Uzbek": [
+                    "siyoh"
+                ],
+                "Uyghur": [
+                    "سىياھ",
+                    "سىيا"
+                ],
+                "Kazakh": [
+                    "сия",
+                    "сия-нәр"
+                ],
+                "Kyrgyz": [
+                    "сыя"
+                ],
+                "Karakalpak": [
+                    "sıya"
+                ],
+                "Bashkir": [
+                    "сыя"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mürekkep"
+                ],
+                "Azerbaijani": [
+                    "mürəkkəb"
+                ],
+                "Uzbek": [
+                    "murakkab"
+                ],
+                "Karakalpak": [
+                    "múrákkep"
+                ],
+                "Tatar": [
+                    "мөреккәп"
+                ],
+                "Bashkir": [
+                    "мөрәккәп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кара сыя"
+                ],
+                "Tatar": [
+                    "кара"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazı boyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yazı mürəkkəbi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "reňk"
+                ]
+            }
+        }
+    ]
+}

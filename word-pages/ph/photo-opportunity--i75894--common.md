@@ -1,0 +1,199 @@
+# Photo opportunity
+| Field | Detail |
+|---|---|
+| **ID** | i75894 |
+| **English** | photo opportunity |
+| **Type** | noun |
+| **Definition** | an occasion that lends itself to (or is deliberately arranged for) taking photographs that provide favorable publicity for those who are photographed |
+| **Source** | common |
+| **Ortatil** | fotosät |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **fotosät** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.43** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| фотосәт | fotosät |
+| **Tatar** | |
+| күренеш | küreneş |
+| фотомизгел | fotomizgel |
+| мөмкинлек | mömkinlek |
+
+```json
+{
+    "id": "i75894",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "photo opportunity",
+    "en_definition": "an occasion that lends itself to (or is deliberately arranged for) taking photographs that provide favorable publicity for those who are photographed",
+    "tr_word": "fotoğraf fırsatı",
+    "tr_definition": "Özellikle kamuoyunda olumlu bir imaj yaratmak amacıyla düzenlenen veya değerlendirilen fotoğraf çektirme anı.",
+    "ru_word": "фотосессия для прессы",
+    "ru_definition": "Специально организованный случай для фотографирования известных лиц в целях создания благоприятного имиджа в СМИ.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "görüntü verme"
+                ],
+                "Azerbaijani": [
+                    "görüntü fürsəti"
+                ],
+                "Kazakh": [
+                    "көрініс сәті"
+                ],
+                "Karakalpak": [
+                    "kórinis berio"
+                ],
+                "Tatar": [
+                    "күренеш"
+                ],
+                "Bashkir": [
+                    "күрһәтмәле сара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fotoğraf karesi"
+                ],
+                "Azerbaijani": [
+                    "foto-fürsət"
+                ],
+                "Kazakh": [
+                    "фотосәт"
+                ],
+                "Karakalpak": [
+                    "foto-sát"
+                ],
+                "Tatar": [
+                    "фотосүрәткә төшү вакыты",
+                    "фотомизгел"
+                ],
+                "Bashkir": [
+                    "фотосүрәткә төшөү мәле",
+                    "фотосүрәткә төшөү форсаты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "surata düşmek pursady",
+                    "surat pursady",
+                    "surat pursatjygy"
+                ],
+                "Uzbek": [
+                    "suratga tushish imkoniyati",
+                    "suratga olish imkoni"
+                ],
+                "Uyghur": [
+                    "سۈرەتكە چۈشۈش پۇرسىتى"
+                ],
+                "Kazakh": [
+                    "суретке түсу сәті"
+                ],
+                "Kyrgyz": [
+                    "сүрөткө түшүү учуру",
+                    "сүрөткө түшүү мүмкүнчүлүгү",
+                    "сүрөткө түшүү кези"
+                ],
+                "Karakalpak": [
+                    "súoretke túsio sáti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tasvirga olish fursati"
+                ],
+                "Uyghur": [
+                    "تەشۋىقات سۈرەت پۇرسىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "poz verme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "basın pozu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çəkiliş fürsəti",
+                    "çəkiliş imkanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خاتىرە سۈرەت پۇرسىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнелік сәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tanılıo sáti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөмкинлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "иғтибар йәлеп итеү мәле"
+                ]
+            }
+        }
+    ]
+}
+```
+

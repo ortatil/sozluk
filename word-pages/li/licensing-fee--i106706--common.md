@@ -1,0 +1,148 @@
+# Licensing fee
+| Field | Detail |
+|---|---|
+| **ID** | i106706 |
+| **English** | licensing fee |
+| **Type** | noun |
+| **Definition** | a fee paid to the government for the privilege of being licensed to do something (as selling liquor or practicing medicine) |
+| **Source** | common |
+| **Ortatil** | cıyım |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| жыйым | jıyım |
+
+```json
+{
+    "id": "i106706",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "licensing fee",
+    "en_definition": "a fee paid to the government for the privilege of being licensed to do something (as selling liquor or practicing medicine)",
+    "tr_word": "lisans ücreti",
+    "tr_definition": "belirli bir işi yapma veya bir hakka sahip olma izni için devlete veya yetkili kuruma ödenen ücret",
+    "ru_word": "лицензионный сбор",
+    "ru_definition": "плата, взимаемая государством за предоставление права на осуществление определенной деятельности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lisans bedeli"
+                ],
+                "Azerbaijani": [
+                    "lisenziya rüsumu",
+                    "lisenziya haqqı"
+                ],
+                "Turkmen": [
+                    "lisenziýa tölegi"
+                ],
+                "Uzbek": [
+                    "litsenziya to'lovi"
+                ],
+                "Uyghur": [
+                    "لىتسىنزىيە ھەققى"
+                ],
+                "Kazakh": [
+                    "лицензиялық алым",
+                    "лицензиялық төлем"
+                ],
+                "Kyrgyz": [
+                    "лицензия акысы"
+                ],
+                "Karakalpak": [
+                    "licenziya tólemi",
+                    "licenziya haqı"
+                ],
+                "Tatar": [
+                    "лицензия хакы"
+                ],
+                "Bashkir": [
+                    "лицензия йыйымы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ruhsat harcı",
+                    "ruhsatname ücreti"
+                ],
+                "Turkmen": [
+                    "rugsatnama tölegi"
+                ],
+                "Uzbek": [
+                    "ruxsatnoma haqi"
+                ],
+                "Uyghur": [
+                    "رۇخسەتنامە ھەققى"
+                ],
+                "Kazakh": [
+                    "рұқсат қағаз ақысы",
+                    "рұқсаттама төлемі"
+                ],
+                "Kyrgyz": [
+                    "уруксат акысы",
+                    "уруксат төлөмү"
+                ],
+                "Karakalpak": [
+                    "rúxsat tólemi"
+                ],
+                "Tatar": [
+                    "рөхсәтнамә хакы",
+                    "рөхсәтнамә түләве"
+                ],
+                "Bashkir": [
+                    "рөхсәт хаҡы",
+                    "рөхсәтнамә хаҡы",
+                    "рөхсәт йыйымы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "icazə haqqı"
+                ],
+                "Uzbek": [
+                    "ijozatnoma to'lovi"
+                ],
+                "Uyghur": [
+                    "ئىجازەتنامە ھەققى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "izin harcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ygtyýarnama tölegi",
+                    "ygtyýarnama haky"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыйым"
+                ]
+            }
+        }
+    ]
+}
+```
+

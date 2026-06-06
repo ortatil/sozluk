@@ -1,0 +1,106 @@
+# Neck brace
+| Field | Detail |
+|---|---|
+| **ID** | i56539 |
+| **English** | neck brace |
+| **Type** | noun |
+| **Definition** | a brace worn to steady the neck |
+| **Source** | common |
+| **Ortatil** | boyunluq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **boyunluq** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.50** |
+
+```json
+{
+    "id": "i56539",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "neck brace",
+    "en_definition": "a brace worn to steady the neck",
+    "tr_word": "boyunluk",
+    "tr_definition": "Boynu sabitlemek veya desteklemek için kullanılan tıbbi araç.",
+    "ru_word": "шейный воротник",
+    "ru_definition": "медицинское приспособление для фиксации и поддержки шеи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boyunluk",
+                    "boyun korsesi",
+                    "boyun ateli"
+                ],
+                "Azerbaijani": [
+                    "boyunluq",
+                    "boyun korseti",
+                    "boyun şini"
+                ],
+                "Turkmen": [
+                    "boýunlygy",
+                    "boýun daýanjy",
+                    "boýun goraýjysy"
+                ],
+                "Uzbek": [
+                    "bo'yinbog'",
+                    "bo'yin tayanchi",
+                    "bo'yin qisqichi"
+                ],
+                "Uyghur": [
+                    "بويۇن تىرەگۈچ",
+                    "بويۇن تۇتقۇچ",
+                    "بويۇن قىسقۇچ"
+                ],
+                "Kyrgyz": [
+                    "моюн курчоо",
+                    "моюн таңгыч",
+                    "моюн бекиткич"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мойын тіреуіш",
+                    "мойын бекіткіш",
+                    "мойын құрсауы"
+                ],
+                "Karakalpak": [
+                    "moyın tańǵıshı",
+                    "moyın bekkemlegishi",
+                    "moyın korseti"
+                ],
+                "Tatar": [
+                    "муен тоткычы",
+                    "муен корсавы",
+                    "муен терәге"
+                ],
+                "Bashkir": [
+                    "муйын терәүесе",
+                    "муйын тотҡосо",
+                    "муйын ҡалыбы"
+                ]
+            }
+        }
+    ]
+}
+```
+

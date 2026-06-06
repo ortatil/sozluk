@@ -1,0 +1,82 @@
+{
+    "id": "synset-oewn-92441551-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "winter break",
+    "en_definition": "A school holiday in winter, the date and duration of which depends on the country.",
+    "tr_word": "sömestr tatili",
+    "tr_definition": "Kış mevsiminde, genellikle eğitim döneminin ortasında verilen okul tatili.",
+    "ru_word": "зимние каникулы",
+    "ru_definition": "Школьный перерыв в учебе в зимний период, даты и продолжительность которого зависят от страны.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kış tatili"
+                ],
+                "Azerbaijani": [
+                    "qış tətili",
+                    "qış fasiləsi"
+                ],
+                "Turkmen": [
+                    "gyşky dynç alyş",
+                    "gyşky kanikul",
+                    "gyşky rugsat"
+                ],
+                "Uzbek": [
+                    "qishki ta'til",
+                    "qishki tanaffus"
+                ],
+                "Uyghur": [
+                    "قىشلىق تەتىل",
+                    "قىشلىق دەم ئېلىش"
+                ],
+                "Kazakh": [
+                    "қысқы демалыс",
+                    "қысқы үзіліс"
+                ],
+                "Kyrgyz": [
+                    "кышкы тыныгуу",
+                    "кышкы эс алуу"
+                ],
+                "Karakalpak": [
+                    "qısqı dem alıs",
+                    "qısqı kanikul",
+                    "qısqı tınıǵu"
+                ],
+                "Tatar": [
+                    "кышкы каникуллар",
+                    "кышкы яллар"
+                ],
+                "Bashkir": [
+                    "ҡышҡы каникулдар",
+                    "ҡышҡы ял",
+                    "ҡышҡы тәнәфес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sömestir tatili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yarıyıl tatili",
+                    "ara tatil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "on beş tatil"
+                ]
+            }
+        }
+    ]
+}

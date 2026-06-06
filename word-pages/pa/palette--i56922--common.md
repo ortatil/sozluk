@@ -1,0 +1,156 @@
+# Palette
+| Field | Detail |
+|---|---|
+| **ID** | i56922 |
+| **English** | palette |
+| **Type** | noun |
+| **Definition** | board that provides a flat surface on which artists mix paints and the range of colors used |
+| **Source** | common |
+| **Ortatil** | räñdañ |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **räñdañ** | **boyautaqta** | **palitra** |
+|---|---|---|---|
+| Turkish | ❌ | ❌ | ✅ |
+| Azerbaijani | ✅ | ✅ | ✅ |
+| Turkmen | ❌ | ❌ | ✅ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ❌ | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ | ❌ |
+| Karakalpak | ✅ | ✅ | ❌ |
+| Tatar | ❌ | ❌ | ❌ |
+| Bashkir | ❌ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.33 | 1 |
+| *Qarluq Subtotal* | 1 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.40 | 0 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |
+| **O'TQ** | **2.53** | **1.23** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| رەڭدان | räñdan |
+| **Kazakh** | |
+| бояутақта | boyautaqta |
+| **Bashkir** | |
+| төҫлөк | töslök |
+
+```json
+{
+    "id": "i56922",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "palette",
+    "en_definition": "board that provides a flat surface on which artists mix paints and the range of colors used",
+    "tr_word": "palet",
+    "tr_definition": "Ressamların boyalarını üzerine dizerek karıştırdıkları levha ve bir sanatçının kullandığı renk dizisi.",
+    "ru_word": "палитра",
+    "ru_definition": "Небольшая дощечка, на которой художник смешивает краски, а также совокупность цветов, используемых в произведении.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boya tahtası"
+                ],
+                "Azerbaijani": [
+                    "boyaqtaxtası"
+                ],
+                "Kazakh": [
+                    "бояутақта"
+                ],
+                "Kyrgyz": [
+                    "боёк такта"
+                ],
+                "Karakalpak": [
+                    "boyautaqta"
+                ],
+                "Tatar": [
+                    "буяу тактасы"
+                ],
+                "Bashkir": [
+                    "буяу таҡтаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "renk tahtası"
+                ],
+                "Azerbaijani": [
+                    "rəngtaxtası"
+                ],
+                "Turkmen": [
+                    "reňk tagtasy",
+                    "reňkler toplumy"
+                ],
+                "Uzbek": [
+                    "rangdon"
+                ],
+                "Uyghur": [
+                    "رەڭ تەخسىسى",
+                    "رەڭدان",
+                    "رەڭ پالىتراسى"
+                ],
+                "Karakalpak": [
+                    "reńtaqta"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "түстер тізбегі",
+                    "түстер үйлесімі"
+                ],
+                "Kyrgyz": [
+                    "түс айкашы",
+                    "түс тизмеги"
+                ],
+                "Tatar": [
+                    "төсләр тактасы",
+                    "төсләр гаммасы"
+                ],
+                "Bashkir": [
+                    "төҫлөк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "palet"
+                ],
+                "Azerbaijani": [
+                    "palitra"
+                ],
+                "Turkmen": [
+                    "palitra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lavha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taxtacha"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,132 @@
+{
+    "id": "i67230",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "train of thought",
+    "en_definition": "the connections that link the various parts of an event or argument together",
+    "tr_word": "düşünce silsilesi",
+    "tr_definition": "bir olay veya argümanın çeşitli kısımlarını birbirine bağlayan bağlantılar dizisi",
+    "ru_word": "ход мыслей",
+    "ru_definition": "связная последовательность идей или аргументов, ведущая к определенному выводу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fikir silsilesi"
+                ],
+                "Azerbaijani": [
+                    "fikir axını",
+                    "fikir zənciri"
+                ],
+                "Turkmen": [
+                    "pikir akymy",
+                    "pikir ýoly",
+                    "pikir yzygiderliligi",
+                    "pikir silsilesi"
+                ],
+                "Uzbek": [
+                    "fikrlar silsilasi",
+                    "fikrlar tizmasi",
+                    "fikrlar oqimi"
+                ],
+                "Uyghur": [
+                    "پىكىر ئېقىمى",
+                    "پىكىر يۆنىلىشى"
+                ],
+                "Karakalpak": [
+                    "pikir tizbegi"
+                ],
+                "Tatar": [
+                    "фикер агышы",
+                    "фикер барышы"
+                ],
+                "Bashkir": [
+                    "фекер ағышы",
+                    "фекер сылбыры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئوي-خىيال تىزىمى"
+                ],
+                "Kazakh": [
+                    "ой желісі",
+                    "ой тізбегі"
+                ],
+                "Kyrgyz": [
+                    "ойдун тизмеги",
+                    "ойдун агымы",
+                    "ойдун учугу",
+                    "ойдун байланышы"
+                ],
+                "Karakalpak": [
+                    "oy jelisi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ой ағымы",
+                    "ой сабақтастығы"
+                ],
+                "Karakalpak": [
+                    "oy aǵımı"
+                ],
+                "Tatar": [
+                    "уйлар чылбыры"
+                ],
+                "Bashkir": [
+                    "уй ағышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "düşünce akışı",
+                    "düşünce zinciri"
+                ],
+                "Azerbaijani": [
+                    "düşüncə silsiləsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mantık örgüsü"
+                ],
+                "Azerbaijani": [
+                    "məntiq xətti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mulohaza zanjiri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەپەككۇر زەنجىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "уй-фекер бәйләнеше"
+                ]
+            }
+        }
+    ]
+}

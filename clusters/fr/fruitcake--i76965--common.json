@@ -1,0 +1,112 @@
+{
+    "id": "i76965",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fruitcake",
+    "en_definition": "a rich cake containing dried fruit and nuts and citrus peel and so on",
+    "tr_word": "meyveli kek",
+    "tr_definition": "kurutulmuş meyveler, fındıklar ve narenciye kabukları içeren zengin içerikli bir kek türü",
+    "ru_word": "фруктовый кекс",
+    "ru_definition": "насыщенный кекс, содержащий сухофрукты, орехи, цукаты и другие подобные ингредиенты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyveli kek"
+                ],
+                "Azerbaijani": [
+                    "meyvəli keks",
+                    "meyvəli piroq"
+                ],
+                "Turkmen": [
+                    "miweli tort",
+                    "miweli keks"
+                ],
+                "Uzbek": [
+                    "mevali tort",
+                    "mevali pirog"
+                ],
+                "Uyghur": [
+                    "مېۋىلىك تورتقا",
+                    "مېۋىلىك تاتلىق تۈرۈم"
+                ],
+                "Karakalpak": [
+                    "miyueli keks",
+                    "miyueli bálish"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yemişli kek"
+                ],
+                "Turkmen": [
+                    "iýmişli keks"
+                ],
+                "Kazakh": [
+                    "жеміс бәліші"
+                ],
+                "Kyrgyz": [
+                    "жемиш каламасы",
+                    "жемиштүү нан"
+                ],
+                "Tatar": [
+                    "җимешле бәлеш",
+                    "җимешле кекс"
+                ],
+                "Bashkir": [
+                    "емешле бәлеш",
+                    "емешле кекс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тәтті нан"
+                ],
+                "Kyrgyz": [
+                    "таттуу нан"
+                ],
+                "Tatar": [
+                    "татлы икмәк"
+                ],
+                "Bashkir": [
+                    "татлы бәлеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "üzümlü kek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shirinlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇرۇق مېۋە نېنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кепкен жеміс бәліші"
+                ]
+            }
+        }
+    ]
+}

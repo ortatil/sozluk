@@ -1,0 +1,112 @@
+{
+    "id": "i48469",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paw",
+    "en_definition": "a clawed foot of an animal especially a quadruped",
+    "tr_word": "pati",
+    "tr_definition": "özellikle dört ayaklı hayvanların pençeli veya yumuşak tabanlı ayağı",
+    "ru_word": "лапа",
+    "ru_definition": "ступня или вся нога животного, имеющего когти",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pençe"
+                ],
+                "Azerbaijani": [
+                    "pəncə"
+                ],
+                "Turkmen": [
+                    "penje"
+                ],
+                "Uzbek": [
+                    "panja"
+                ],
+                "Uyghur": [
+                    "پەنچە"
+                ],
+                "Kazakh": [
+                    "пенде"
+                ],
+                "Kyrgyz": [
+                    "пенде"
+                ],
+                "Karakalpak": [
+                    "panja"
+                ],
+                "Tatar": [
+                    "пәнҗә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayak"
+                ],
+                "Azerbaijani": [
+                    "ayaq"
+                ],
+                "Turkmen": [
+                    "aýak"
+                ],
+                "Uzbek": [
+                    "oyoq"
+                ],
+                "Uyghur": [
+                    "تۇياق"
+                ],
+                "Kazakh": [
+                    "аяқ"
+                ],
+                "Kyrgyz": [
+                    "аяк"
+                ],
+                "Tatar": [
+                    "аяк"
+                ],
+                "Bashkir": [
+                    "аяҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "табан"
+                ],
+                "Kyrgyz": [
+                    "таман"
+                ],
+                "Karakalpak": [
+                    "taban"
+                ],
+                "Tatar": [
+                    "тәпәй"
+                ],
+                "Bashkir": [
+                    "тәпәй",
+                    "тәпә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پاقالچاق"
+                ]
+            }
+        }
+    ]
+}

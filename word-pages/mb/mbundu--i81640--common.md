@@ -1,0 +1,108 @@
+# Mbundu
+| Field | Detail |
+|---|---|
+| **ID** | i81640 |
+| **English** | mbundu |
+| **Type** | noun |
+| **Definition** | an ethnic group speaking Umbundu and living in western Angola |
+| **Source** | common |
+| **Ortatil** | mbundu |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **mbundu** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئۇمبۇندۇلار | umbundular |
+| **Kazakh** | |
+| мбунду | mbundu |
+| **Kyrgyz** | |
+| мбунду | mbundu |
+| **Tatar** | |
+| мбунду | mbundu |
+| **Bashkir** | |
+| мбунду | mbundu |
+
+```json
+{
+    "id": "i81640",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mbundu",
+    "en_definition": "an ethnic group speaking Umbundu and living in western Angola",
+    "tr_word": "Mbundu",
+    "tr_definition": "Batı Angola'da yaşayan ve Umbundu dilini konuşan bir etnik grup.",
+    "ru_word": "мбунду",
+    "ru_definition": "этническая группа, говорящая на языке умбунду и проживающая в западной Анголе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Mbundu",
+                    "Mbundu halkı",
+                    "Mbundular"
+                ],
+                "Azerbaijani": [
+                    "mbundu",
+                    "mbundu xalqı",
+                    "mbundular"
+                ],
+                "Turkmen": [
+                    "mbundu halky",
+                    "mbundular"
+                ],
+                "Uzbek": [
+                    "mbundu",
+                    "mbundu xalqi",
+                    "mbundular"
+                ],
+                "Uyghur": [
+                    "ئۇمبۇندۇ خەلقى",
+                    "ئۇمبۇندۇلار"
+                ],
+                "Kazakh": [
+                    "мбунду",
+                    "мбунду халқы"
+                ],
+                "Kyrgyz": [
+                    "мбунду",
+                    "мбунду эли"
+                ],
+                "Karakalpak": [
+                    "mbundu",
+                    "mbundu xalqı"
+                ],
+                "Tatar": [
+                    "мбунду",
+                    "мбунду халкы"
+                ],
+                "Bashkir": [
+                    "мбунду",
+                    "мбунду халҡы"
+                ]
+            }
+        }
+    ]
+}
+```
+

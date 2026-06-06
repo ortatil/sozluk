@@ -1,0 +1,87 @@
+# Winged elm
+| Field | Detail |
+|---|---|
+| **ID** | i102198 |
+| **English** | winged elm |
+| **Type** | noun |
+| **Definition** | North American elm having twigs and young branches with prominent corky projections |
+| **Source** | common |
+| **Ortatil** | garagaç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i102198",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "winged elm",
+    "en_definition": "North American elm having twigs and young branches with prominent corky projections",
+    "tr_word": "kanatlı karaağaç",
+    "tr_definition": "Dallarında ve genç sürgünlerinde belirgin mantarsı çıkıntılar bulunan, Kuzey Amerika'ya özgü bir karaağaç türü.",
+    "ru_word": "вяз крылатый",
+    "ru_definition": "Североамериканский вид вяза, характеризующийся наличием на ветвях и молодых побегах заметных пробковых наростов в виде крыльев.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kanatlı karaağaç"
+                ],
+                "Azerbaijani": [
+                    "qanadlı qarağac",
+                    "qanadlı ağac"
+                ],
+                "Turkmen": [
+                    "ganatly garaagaç"
+                ],
+                "Uzbek": [
+                    "qanotli qayragʻoch",
+                    "qanotli gujum"
+                ],
+                "Uyghur": [
+                    "قاناتلىق قارىغاي",
+                    "قاناتلىق ئۆلمۇس"
+                ],
+                "Kazakh": [
+                    "қанатты қарағаш",
+                    "қанатты шегіршін"
+                ],
+                "Kyrgyz": [
+                    "канаттуу кара жыгач",
+                    "канаттуу жыгач"
+                ],
+                "Karakalpak": [
+                    "qanatlı qaraǵash",
+                    "qanatlı aǵash"
+                ],
+                "Tatar": [
+                    "канатлы карагач",
+                    "канатлы илем"
+                ],
+                "Bashkir": [
+                    "ҡанатлы ҡарама",
+                    "ҡанатлы ильм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mantarlı karaağaç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "garaagaç"
+                ]
+            }
+        }
+    ]
+}
+```
+

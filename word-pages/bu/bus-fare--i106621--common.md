@@ -1,0 +1,153 @@
+# Bus fare
+| Field | Detail |
+|---|---|
+| **ID** | i106621 |
+| **English** | bus fare |
+| **Type** | noun |
+| **Definition** | the fare charged for riding a bus or streetcar |
+| **Source** | common |
+| **Ortatil** | kirirä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жолақы | jolaqı |
+| **Tatar** | |
+| түләү | tüläü |
+
+```json
+{
+    "id": "i106621",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bus fare",
+    "en_definition": "the fare charged for riding a bus or streetcar",
+    "tr_word": "otobüs ücreti",
+    "tr_definition": "Bir otobüs veya tramvaya binmek için ödenen ücret",
+    "ru_word": "плата за проезд в автобусе",
+    "ru_definition": "Стоимость проезда на автобусе или трамвае",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yol parası"
+                ],
+                "Azerbaijani": [
+                    "yol pulu"
+                ],
+                "Turkmen": [
+                    "ýol kireýi"
+                ],
+                "Uzbek": [
+                    "yoʻl haqi",
+                    "yoʻl haqi toʻlovi"
+                ],
+                "Uyghur": [
+                    "يول كىراسى"
+                ],
+                "Kazakh": [
+                    "жолақы",
+                    "жол ақысы",
+                    "жол пұлы"
+                ],
+                "Kyrgyz": [
+                    "жол акы",
+                    "жол кире"
+                ],
+                "Karakalpak": [
+                    "jol haqı"
+                ],
+                "Tatar": [
+                    "юл хакы",
+                    "юл бәясе"
+                ],
+                "Bashkir": [
+                    "юл хаҡы",
+                    "юл түләүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yol ücreti"
+                ],
+                "Azerbaijani": [
+                    "yol haqqı"
+                ],
+                "Turkmen": [
+                    "ýol haky"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtobus haqqı"
+                ],
+                "Turkmen": [
+                    "awtobus kireýi"
+                ],
+                "Uyghur": [
+                    "ئاپتوبۇس كىراسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gediş haqqı"
+                ],
+                "Kyrgyz": [
+                    "кире акы"
+                ],
+                "Karakalpak": [
+                    "kire haqı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilet ücreti",
+                    "bilet bedeli"
+                ],
+                "Uyghur": [
+                    "بېلەت پۇلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otobüs ücreti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kirira"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "түләү"
+                ]
+            }
+        }
+    ]
+}
+```
+

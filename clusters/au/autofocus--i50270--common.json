@@ -1,0 +1,110 @@
+{
+    "id": "i50270",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "autofocus",
+    "en_definition": "an optical device for focussing a camera or other instrument automatically",
+    "tr_word": "otofokus",
+    "tr_definition": "bir kameranın veya başka bir aletin odağını otomatik olarak ayarlayan optik düzenek",
+    "ru_word": "автофокус",
+    "ru_definition": "оптическое устройство для автоматической фокусировки камеры или другого прибора",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "özodaklama"
+                ],
+                "Azerbaijani": [
+                    "özünütənzimləmə"
+                ],
+                "Turkmen": [
+                    "öz-özünden sazlama"
+                ],
+                "Uzbek": [
+                    "oʻziyurar fokus",
+                    "oʻzi sozlanuvchi tiniqlik"
+                ],
+                "Uyghur": [
+                    "ئۆزلۈكىدىن نۇقتىلاش"
+                ],
+                "Kazakh": [
+                    "өздікті фокустау",
+                    "өздікті айқындау"
+                ],
+                "Kyrgyz": [
+                    "өзү фокустоо",
+                    "өзү тууралоо"
+                ],
+                "Karakalpak": [
+                    "óz-ózinen sazlao",
+                    "ózliginen fokuslao"
+                ],
+                "Tatar": [
+                    "үзкөйләгеч",
+                    "үзкөйләү"
+                ],
+                "Bashkir": [
+                    "үҙкөйләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otomatik odaklama",
+                    "otomatik netleme"
+                ],
+                "Azerbaijani": [
+                    "avtomatik tənzimləmə",
+                    "avtomatik fokuslama"
+                ],
+                "Turkmen": [
+                    "awtomatik sazlama",
+                    "awtomatik fokusirleme"
+                ],
+                "Uyghur": [
+                    "ئاپتوماتىك فوكۇسلاش"
+                ],
+                "Kazakh": [
+                    "автофокустау",
+                    "автоматты фокустау"
+                ],
+                "Kyrgyz": [
+                    "автофокус"
+                ],
+                "Karakalpak": [
+                    "awtomatlı sazlao"
+                ],
+                "Tatar": [
+                    "автофокус"
+                ],
+                "Bashkir": [
+                    "автоматик төбәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "avtofokus"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆزلۈكىدىن فوكۇسلاش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үҙтөбәү"
+                ]
+            }
+        }
+    ]
+}

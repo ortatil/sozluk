@@ -1,0 +1,138 @@
+# Strawberry bush
+| Field | Detail |
+|---|---|
+| **ID** | i103833 |
+| **English** | strawberry bush |
+| **Type** | noun |
+| **Definition** | upright deciduous plant with crimson pods and seeds; the eastern United States from New York to Florida and Texas |
+| **Source** | common |
+| **Ortatil** | ewänimıs |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| бөрлөгән | börlögän |
+
+```json
+{
+    "id": "i103833",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "strawberry bush",
+    "en_definition": "upright deciduous plant with crimson pods and seeds; the eastern United States from New York to Florida and Texas",
+    "tr_word": "Amerikan iğ ağacı",
+    "tr_definition": "Amerika Birleşik Devletleri'nin doğusuna özgü, kırmızı meyveleri olan dik gövdeli ve yaprak döken bir çalı türü.",
+    "ru_word": "бересклет американский",
+    "ru_definition": "вертикальнорастущий листопадный кустарник с малиновыми семенными коробочками, произрастающий на востоке США.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قىزىل مېۋىلىك چاتقال"
+                ],
+                "Kyrgyz": [
+                    "кызыл бадал"
+                ],
+                "Tatar": [
+                    "кызыл җиләкле куак"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл бөрлөгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бүршікті қабыршақ",
+                    "бүршікті бересклет"
+                ],
+                "Kyrgyz": [
+                    "бөрү карагат"
+                ],
+                "Bashkir": [
+                    "бөрлөгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yabani iğ ağacı"
+                ],
+                "Uyghur": [
+                    "ياۋا بۆلجۈرگەن چاتقىلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "papaz külahı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iğ ağacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çiyələk kolu",
+                    "çiyələk ağacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýer tudy gyrymsy agajy",
+                    "ýer tudy agajy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "evonimus"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "beresklet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "búldіrgen bұtası",
+                    "búldіrgen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бөдрә агач",
+                    "бөдрә куак"
+                ]
+            }
+        }
+    ]
+}
+```
+

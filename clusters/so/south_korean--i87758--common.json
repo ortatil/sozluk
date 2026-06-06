@@ -1,0 +1,95 @@
+{
+    "id": "i87758",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "south korean",
+    "en_definition": "a Korean from South Korea",
+    "tr_word": "Güney Koreli",
+    "tr_definition": "Güney Kore'den gelen veya Güney Kore vatandaşı olan kimse",
+    "ru_word": "южнокореец",
+    "ru_definition": "житель или гражданин Южной Кореи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Koreli"
+                ],
+                "Turkmen": [
+                    "koreý"
+                ],
+                "Uzbek": [
+                    "koreys"
+                ],
+                "Kazakh": [
+                    "кәріс"
+                ],
+                "Kyrgyz": [
+                    "корей"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Cənubi koreyalı",
+                    "Cənubi Koreya vətəndaşı"
+                ],
+                "Uzbek": [
+                    "janubiy koreyalik"
+                ],
+                "Uyghur": [
+                    "جەنۇبىي كورېيەلىك",
+                    "جەنۇبىي چاۋشيەنلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оңтүстік кореялық"
+                ],
+                "Bashkir": [
+                    "көньяҡ корея кешеһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түштүк кореялык"
+                ],
+                "Karakalpak": [
+                    "túshtúk korey",
+                    "túshtúk koreyalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көньяк кореяле",
+                    "көньяк корея кешесе"
+                ],
+                "Bashkir": [
+                    "көньяҡ кореялы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Güney Koreli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "günorta koreýaly"
+                ]
+            }
+        }
+    ]
+}

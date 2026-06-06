@@ -1,0 +1,100 @@
+{
+    "id": "i64398",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "adult male body",
+    "en_definition": "the body of an adult man",
+    "tr_word": "yetişkin erkek vücudu",
+    "tr_definition": "yetişkin bir erkeğin bedeni",
+    "ru_word": "тело взрослого мужчины",
+    "ru_definition": "тело взрослого человека мужского пола",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "erkek vücudu",
+                    "erkek bedeni",
+                    "erkek teni",
+                    "erkek gövdesi"
+                ],
+                "Azerbaijani": [
+                    "ər bədəni"
+                ],
+                "Turkmen": [
+                    "erkek göwresi",
+                    "erkek bedeni",
+                    "erkek endamy",
+                    "erkek jany"
+                ],
+                "Uzbek": [
+                    "erkak tanasi",
+                    "erkak vujudi",
+                    "erkak jussasi"
+                ],
+                "Uyghur": [
+                    "ئەر كىشىنىڭ بەدىنى",
+                    "ئەر كىشىنىڭ جەسىتى",
+                    "ئەر تېنى",
+                    "ئەر گەۋدىسى"
+                ],
+                "Kazakh": [
+                    "ер адамның денесі",
+                    "ер тұлғасы",
+                    "еркек денесі"
+                ],
+                "Kyrgyz": [
+                    "эркектин денеси",
+                    "эркектин тулкусу",
+                    "эркектин бою",
+                    "эркектин мүчөсү"
+                ],
+                "Karakalpak": [
+                    "er adam denesi",
+                    "erkek denesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тән"
+                ],
+                "Karakalpak": [
+                    "tán"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ир гәүдәсе",
+                    "ир тәне",
+                    "ир заты",
+                    "ир-ат гәүдәсе"
+                ],
+                "Bashkir": [
+                    "ир кәүҙәһе",
+                    "ир тәне",
+                    "ир заты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kişi bədəni",
+                    "kişi vücudu",
+                    "kişi cəsədi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jussa"
+                ]
+            }
+        }
+    ]
+}

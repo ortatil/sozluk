@@ -1,0 +1,65 @@
+{
+    "id": "i107105",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "silver dollar",
+    "en_definition": "a dollar made of silver",
+    "tr_word": "gümüş dolar",
+    "tr_definition": "gümüşten yapılmış bir dolar değerindeki madeni para",
+    "ru_word": "серебряный доллар",
+    "ru_definition": "монета достоинством в один доллар, изготовленная из серебра",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gümüş dolar",
+                    "gümüş sikke",
+                    "gümüş para"
+                ],
+                "Azerbaijani": [
+                    "gümüş dollar"
+                ],
+                "Turkmen": [
+                    "kümüş dollar",
+                    "kümüş teňňe"
+                ],
+                "Uzbek": [
+                    "kumush tanga",
+                    "kumush dollar"
+                ],
+                "Uyghur": [
+                    "كۈمۈش تەڭگە",
+                    "كۈمۈش دوللار"
+                ],
+                "Kazakh": [
+                    "күміс доллар",
+                    "күміс ақша"
+                ],
+                "Kyrgyz": [
+                    "күмүш тыйын",
+                    "күмүш акча",
+                    "күмүш доллар"
+                ],
+                "Karakalpak": [
+                    "gúmis dollar"
+                ],
+                "Tatar": [
+                    "көмеш доллар",
+                    "көмеш акча"
+                ],
+                "Bashkir": [
+                    "көмөш доллар",
+                    "көмөш аҡса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aq dollar"
+                ]
+            }
+        }
+    ]
+}

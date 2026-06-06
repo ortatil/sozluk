@@ -1,0 +1,85 @@
+{
+    "id": "i71607",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sportscast",
+    "en_definition": "a broadcast of sports news or commentary",
+    "tr_word": "spor yayını",
+    "tr_definition": "Spor haberlerinin veya yorumlarının radyo veya televizyon aracılığıyla sunulması.",
+    "ru_word": "спортивная трансляция",
+    "ru_definition": "Радио- или телевизионная передача спортивных новостей, репортажей или комментариев.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "spor yayını",
+                    "spor bülteni",
+                    "spor programı"
+                ],
+                "Turkmen": [
+                    "sport habarlary",
+                    "sport gepleşigi",
+                    "sport ýaýlymy"
+                ],
+                "Uzbek": [
+                    "sport xabarlari",
+                    "sport sharhi",
+                    "sport eshittirishi",
+                    "sport koʻrsatuvi"
+                ],
+                "Kazakh": [
+                    "спорт хабары",
+                    "спорттық хабар",
+                    "спорттық шолу",
+                    "спорт жаңалықтары"
+                ],
+                "Kyrgyz": [
+                    "спорттук берүү",
+                    "спорттук кабар",
+                    "спорттук баяндама"
+                ],
+                "Karakalpak": [
+                    "sport xabarı",
+                    "sport baǵdarlaması",
+                    "sport sharxı"
+                ],
+                "Tatar": [
+                    "спорт тапшыруы",
+                    "спорт хәбәрләре",
+                    "спорт яңалыклары"
+                ],
+                "Bashkir": [
+                    "спорт тапшырыуы",
+                    "спорт хәбәрҙәре",
+                    "спорт яңылыҡтары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "naklen yayın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "idman verilişi",
+                    "idman yayımı",
+                    "idman xəbərləri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەنتەربىيە خەۋەرلىرى",
+                    "تەنتەربىيە پروگراممىسى",
+                    "تەنتەربىيە ئاڭلىتىشى"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "id": "i117229",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wedding day",
+    "en_definition": "the day of a wedding",
+    "tr_word": "düğün günü",
+    "tr_definition": "bir düğünün yapıldığı gün",
+    "ru_word": "день свадьбы",
+    "ru_definition": "день, в который происходит свадьба",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düğün günü",
+                    "toy günü"
+                ],
+                "Azerbaijani": [
+                    "toy günü",
+                    "düyün günü"
+                ],
+                "Turkmen": [
+                    "toý güni"
+                ],
+                "Uzbek": [
+                    "toʻy kuni"
+                ],
+                "Uyghur": [
+                    "توي كۈنى"
+                ],
+                "Kazakh": [
+                    "той күні"
+                ],
+                "Kyrgyz": [
+                    "той күнү"
+                ],
+                "Karakalpak": [
+                    "toy kúni"
+                ],
+                "Tatar": [
+                    "туй көне"
+                ],
+                "Bashkir": [
+                    "туй көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nikah günü"
+                ],
+                "Azerbaijani": [
+                    "nikah günü"
+                ],
+                "Turkmen": [
+                    "nikah güni"
+                ],
+                "Uzbek": [
+                    "nikoh kuni"
+                ],
+                "Uyghur": [
+                    "نىكاھ كۈنى"
+                ],
+                "Kazakh": [
+                    "неке күні"
+                ],
+                "Kyrgyz": [
+                    "нике күнү"
+                ],
+                "Karakalpak": [
+                    "neke kúni"
+                ],
+                "Tatar": [
+                    "никах көне"
+                ],
+                "Bashkir": [
+                    "никах көнө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үйлену тойы"
+                ]
+            }
+        }
+    ]
+}

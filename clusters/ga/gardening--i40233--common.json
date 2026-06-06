@@ -1,0 +1,94 @@
+{
+    "id": "i40233",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gardening",
+    "en_definition": "the cultivation of plants",
+    "tr_word": "bahçecilik",
+    "tr_definition": "bitki yetiştirme ve bahçe bakımı işi",
+    "ru_word": "садоводство",
+    "ru_definition": "деятельность по выращиванию растений и уходу за садом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bahçıvanlık",
+                    "bahçecilik",
+                    "bağbanlık"
+                ],
+                "Azerbaijani": [
+                    "bağçılıq",
+                    "bağbanlıq"
+                ],
+                "Turkmen": [
+                    "bagbançylyk",
+                    "bakjaçylyk"
+                ],
+                "Uzbek": [
+                    "bogʻdorchilik"
+                ],
+                "Uyghur": [
+                    "باغۋەنچىلىك",
+                    "باغدارچىلىق",
+                    "باغ-ۋارانچىلىق"
+                ],
+                "Kazakh": [
+                    "бағбандық",
+                    "бақшашылық",
+                    "бау-бақша өсіру"
+                ],
+                "Kyrgyz": [
+                    "бакчачылык",
+                    "багбанчылык"
+                ],
+                "Karakalpak": [
+                    "baǵbanshılıq",
+                    "baǵdarlıq",
+                    "baǵmanshılıq"
+                ],
+                "Tatar": [
+                    "бакчачылык",
+                    "бакча үстерү",
+                    "бакча эшләре"
+                ],
+                "Bashkir": [
+                    "баҡсасылыҡ",
+                    "баҡсасылыҡ эше",
+                    "баҡса үҫтереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əkinçilik"
+                ],
+                "Turkmen": [
+                    "ekarançylyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gulchilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dehqonchilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өсүмдүк өстүрүү"
+                ]
+            }
+        }
+    ]
+}

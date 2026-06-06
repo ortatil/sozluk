@@ -1,0 +1,101 @@
+{
+    "id": "i92690",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "salesgirl",
+    "en_definition": "a woman salesperson",
+    "tr_word": "tezgahtar",
+    "tr_definition": "Mağazalarda satış yapan kadın görevli, satış elemanı.",
+    "ru_word": "продавщица",
+    "ru_definition": "Женщина, занимающаяся продажей товаров в магазине.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satıcı",
+                    "satış elemanı",
+                    "satış temsilcisi"
+                ],
+                "Azerbaijani": [
+                    "satıcı",
+                    "satıcı qadın"
+                ],
+                "Turkmen": [
+                    "satyjy",
+                    "satyjy aýal"
+                ],
+                "Uzbek": [
+                    "sotuvchi",
+                    "sotuvchi ayol"
+                ],
+                "Uyghur": [
+                    "سېتىقچى قىز"
+                ],
+                "Kazakh": [
+                    "сатушы"
+                ],
+                "Kyrgyz": [
+                    "сатуучу",
+                    "сатуучу аял"
+                ],
+                "Karakalpak": [
+                    "satıoshı",
+                    "satıoshı hayal",
+                    "satıoshı qız"
+                ],
+                "Tatar": [
+                    "сатучы",
+                    "сатучы хатын"
+                ],
+                "Bashkir": [
+                    "һатыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tezgahtar"
+                ],
+                "Azerbaijani": [
+                    "tezgahdar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سودىگەر ئايال"
+                ],
+                "Kazakh": [
+                    "саудагер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бикә"
+                ],
+                "Bashkir": [
+                    "бикә-һатыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "peshtaxtachi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مال ساتقۇچى قىز"
+                ]
+            }
+        }
+    ]
+}

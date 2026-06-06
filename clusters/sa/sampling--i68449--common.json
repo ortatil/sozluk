@@ -1,0 +1,133 @@
+{
+    "id": "i68449",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sampling",
+    "en_definition": "items selected at random from a population and used to test hypotheses about the population",
+    "tr_word": "örnekleme",
+    "tr_definition": "bir bütünün özelliklerini belirlemek için o bütünden seçilen küçük bir grubun incelenmesi yöntemi",
+    "ru_word": "выборка",
+    "ru_definition": "часть объектов из генеральной совокупности, отобранная для изучения и проверки гипотез",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tanlanma"
+                ],
+                "Uyghur": [
+                    "تاللانما"
+                ],
+                "Kazakh": [
+                    "таңдама"
+                ],
+                "Kyrgyz": [
+                    "тандалма",
+                    "тандап алуу"
+                ],
+                "Karakalpak": [
+                    "tańlama",
+                    "tańlap alıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "numune alma"
+                ],
+                "Azerbaijani": [
+                    "nümunə",
+                    "nümunələşdirmə"
+                ],
+                "Uzbek": [
+                    "namuna"
+                ],
+                "Uyghur": [
+                    "نەمۇنە ئېلىش",
+                    "نەمۇنىچىلىق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saýlama",
+                    "saýlaw"
+                ],
+                "Kazakh": [
+                    "сынама"
+                ],
+                "Tatar": [
+                    "сайланма",
+                    "сайлап-алу"
+                ],
+                "Bashkir": [
+                    "һайланма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "үлгү"
+                ],
+                "Karakalpak": [
+                    "úlgi"
+                ],
+                "Bashkir": [
+                    "өлгө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "örnekleme",
+                    "örneklem"
+                ],
+                "Tatar": [
+                    "үрнәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "seçmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nusga"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "saralanma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іріктеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "миҫал"
+                ]
+            }
+        }
+    ]
+}

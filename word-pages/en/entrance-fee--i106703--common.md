@@ -1,0 +1,106 @@
+# Entrance fee
+| Field | Detail |
+|---|---|
+| **ID** | i106703 |
+| **English** | entrance fee |
+| **Type** | noun |
+| **Definition** | the fee charged for admission |
+| **Source** | common |
+| **Ortatil** | duhulüyye |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i106703",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "entrance fee",
+    "en_definition": "the fee charged for admission",
+    "tr_word": "giriş ücreti",
+    "tr_definition": "Bir yere girmek için ödenen ücret",
+    "ru_word": "входная плата",
+    "ru_definition": "плата, взимаемая за вход куда-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "giriş ücreti",
+                    "giriş parası",
+                    "giriş bedeli"
+                ],
+                "Azerbaijani": [
+                    "giriş haqqı",
+                    "giriş pulu"
+                ],
+                "Turkmen": [
+                    "giriş tölegi",
+                    "giriş haky"
+                ],
+                "Uzbek": [
+                    "kirish haqi",
+                    "kirish puli",
+                    "kirish toʻlovi"
+                ],
+                "Uyghur": [
+                    "كىرىش ھەققى",
+                    "كىرىش پۇلى"
+                ],
+                "Kazakh": [
+                    "кіру ақысы",
+                    "кіру төлемі",
+                    "кіру билету"
+                ],
+                "Kyrgyz": [
+                    "кириш акысы",
+                    "кирүү акысы",
+                    "кире акы"
+                ],
+                "Karakalpak": [
+                    "kirio haqı",
+                    "kirio tólemi"
+                ],
+                "Tatar": [
+                    "керү хакы",
+                    "керү түләве",
+                    "керү билеты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duhuliyye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rüsum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېلەت پۇلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "инеү хаҡы",
+                    "инеү түләүе",
+                    "инеү хаҡы-түләүе"
+                ]
+            }
+        }
+    ]
+}
+```
+

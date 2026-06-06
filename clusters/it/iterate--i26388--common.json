@@ -1,0 +1,137 @@
+{
+    "id": "i26388",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "repeat",
+    "en_definition": "to say, state, or perform again",
+    "tr_word": "tekrarlamak",
+    "tr_definition": "bir şeyi bir kez daha söylemek veya yapmak",
+    "ru_word": "повторять",
+    "ru_definition": "сказать или сделать что-либо еще раз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yinelemek"
+                ],
+                "Azerbaijani": [
+                    "yeniləmək",
+                    "yenidən demək"
+                ],
+                "Uzbek": [
+                    "yangilamoq"
+                ],
+                "Uyghur": [
+                    "يەنە بىر قېتىم ئېيتماق"
+                ],
+                "Kazakh": [
+                    "жаңғырту"
+                ],
+                "Kyrgyz": [
+                    "жаңыртуу"
+                ],
+                "Karakalpak": [
+                    "jańalao"
+                ],
+                "Tatar": [
+                    "яңабаштан эшләп чыгу"
+                ],
+                "Bashkir": [
+                    "яңыртыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekrarlamak"
+                ],
+                "Azerbaijani": [
+                    "təkrarlamaq",
+                    "təkrar etmək"
+                ],
+                "Uzbek": [
+                    "takrorlamoq",
+                    "takroran aytmoq"
+                ],
+                "Uyghur": [
+                    "تەكرارلىماق"
+                ],
+                "Karakalpak": [
+                    "tákirarlao"
+                ],
+                "Tatar": [
+                    "тәкрарлау"
+                ],
+                "Bashkir": [
+                    "тәҡрарлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtalamak",
+                    "gaýtadan aýtmak"
+                ],
+                "Uzbek": [
+                    "qaytarmoq"
+                ],
+                "Uyghur": [
+                    "قايتىلىماق"
+                ],
+                "Kazakh": [
+                    "қайталау"
+                ],
+                "Kyrgyz": [
+                    "кайталоо"
+                ],
+                "Karakalpak": [
+                    "qaytalao"
+                ],
+                "Bashkir": [
+                    "ҡабатлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tazelemek",
+                    "iade etmek"
+                ],
+                "Turkmen": [
+                    "täzelemek"
+                ],
+                "Kyrgyz": [
+                    "тастыктоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "пысықтау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тәртіптеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабатлау"
+                ]
+            }
+        }
+    ]
+}

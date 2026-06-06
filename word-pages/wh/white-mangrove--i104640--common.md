@@ -1,0 +1,95 @@
+# White mangrove
+| Field | Detail |
+|---|---|
+| **ID** | i104640 |
+| **English** | white mangrove |
+| **Type** | noun |
+| **Definition** | a small to medium-sized tree growing in brackish water especially along the shores of the southwestern Pacific |
+| **Source** | common |
+| **Ortatil** | mangrow |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i104640",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white mangrove",
+    "en_definition": "a small to medium-sized tree growing in brackish water especially along the shores of the southwestern Pacific",
+    "tr_word": "beyaz mangrov",
+    "tr_definition": "Özellikle güneybatı Pasifik kıyılarında, acı sularda yetişen küçük veya orta boylu bir ağaç türü.",
+    "ru_word": "белый мангр",
+    "ru_definition": "Небольшое или среднее дерево, растущее в солоноватой воде, особенно вдоль берегов юго-западной части Тихого океана.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak mangrov"
+                ],
+                "Azerbaijani": [
+                    "ağ manqrov",
+                    "ağ manqrov ağacı"
+                ],
+                "Turkmen": [
+                    "ak mangrow agajy"
+                ],
+                "Uzbek": [
+                    "oq mangra"
+                ],
+                "Uyghur": [
+                    "ئاق مانگرو دەرىخى",
+                    "ئاق مانگرو"
+                ],
+                "Kazakh": [
+                    "ақ мангр",
+                    "ақ мангр ағашы"
+                ],
+                "Kyrgyz": [
+                    "ак мангр",
+                    "ак мангр дарагы"
+                ],
+                "Karakalpak": [
+                    "aq mangr"
+                ],
+                "Tatar": [
+                    "ак мангр",
+                    "ак мангр агачы"
+                ],
+                "Bashkir": [
+                    "аҡ мангр",
+                    "аҡ мангр ағасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mangrow"
+                ],
+                "Karakalpak": [
+                    "mangr teregi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz mangrov"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oq mangrov daraxti"
+                ]
+            }
+        }
+    ]
+}
+```
+

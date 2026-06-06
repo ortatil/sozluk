@@ -1,0 +1,170 @@
+{
+    "id": "i79516",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "government",
+    "en_definition": "the organization that is the governing authority of a political unit",
+    "tr_word": "hükümet",
+    "tr_definition": "bir siyasi birimin yönetim otoritesi olan kuruluş",
+    "ru_word": "правительство",
+    "ru_definition": "организация, являющаяся руководящим органом политической единицы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hükümet"
+                ],
+                "Azerbaijani": [
+                    "hökumət"
+                ],
+                "Turkmen": [
+                    "hökümet"
+                ],
+                "Uzbek": [
+                    "hukumat"
+                ],
+                "Uyghur": [
+                    "ھۆكۈمەت"
+                ],
+                "Kazakh": [
+                    "үкімет"
+                ],
+                "Kyrgyz": [
+                    "өкмөт"
+                ],
+                "Karakalpak": [
+                    "húkimet"
+                ],
+                "Tatar": [
+                    "хөкүмәт"
+                ],
+                "Bashkir": [
+                    "хөкүмәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "devlet"
+                ],
+                "Azerbaijani": [
+                    "dövlət"
+                ],
+                "Turkmen": [
+                    "döwlet"
+                ],
+                "Uzbek": [
+                    "davlat"
+                ],
+                "Uyghur": [
+                    "دۆلەت ئاپپاراتى"
+                ],
+                "Tatar": [
+                    "дәүләт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "idare"
+                ],
+                "Azerbaijani": [
+                    "idarə"
+                ],
+                "Uzbek": [
+                    "idora"
+                ],
+                "Uyghur": [
+                    "ئىدارە"
+                ],
+                "Tatar": [
+                    "идарә"
+                ],
+                "Bashkir": [
+                    "идара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "басқару"
+                ],
+                "Kyrgyz": [
+                    "башкаруу"
+                ],
+                "Karakalpak": [
+                    "basqarıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "билік"
+                ],
+                "Kyrgyz": [
+                    "бийлик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "төрө"
+                ],
+                "Bashkir": [
+                    "түрәлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yönetim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hakimiyyət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dolandyryş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ma'muriyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mámleket"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әкімшілік"
+                ]
+            }
+        }
+    ]
+}

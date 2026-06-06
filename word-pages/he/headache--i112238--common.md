@@ -1,0 +1,116 @@
+# Headache
+| Field | Detail |
+|---|---|
+| **ID** | i112238 |
+| **English** | headache |
+| **Type** | noun |
+| **Definition** | pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs |
+| **Source** | common |
+| **Ortatil** | ortatil_error |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سەردرت | särdrt |
+
+```json
+{
+    "id": "i112238",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "headache",
+    "en_definition": "pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs",
+    "tr_word": "baş ağrısı",
+    "tr_definition": "Serebral arterlerin genişlemesi, kas kasılmaları veya ilaçlara verilen bir reaksiyon nedeniyle kafada hissedilen ağrı.",
+    "ru_word": "головная боль",
+    "ru_definition": "Боль в голове, вызванная расширением мозговых артерий, мышечными сокращениями или реакцией на лекарства.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baş ağrısı"
+                ],
+                "Azerbaijani": [
+                    "baş ağrısı"
+                ],
+                "Turkmen": [
+                    "başagyry"
+                ],
+                "Uzbek": [
+                    "bosh ogʻrigʻi"
+                ],
+                "Uyghur": [
+                    "باش ئاغرىقى"
+                ],
+                "Kazakh": [
+                    "бас ауруы",
+                    "бас сақинасы",
+                    "бас сырқаты"
+                ],
+                "Kyrgyz": [
+                    "баш оору",
+                    "баштын оорусу"
+                ],
+                "Karakalpak": [
+                    "bas aoırıoı",
+                    "bas aoırıǵı"
+                ],
+                "Tatar": [
+                    "баш авыртуы",
+                    "баш сызлавы",
+                    "баш чатнавы"
+                ],
+                "Bashkir": [
+                    "баш һыҙлауы",
+                    "баш ауыртыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ser ağrısı"
+                ],
+                "Uyghur": [
+                    "سەردرت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şakika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kelleagyry"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dardisari"
+                ]
+            }
+        }
+    ]
+}
+```
+

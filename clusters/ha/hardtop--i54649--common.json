@@ -1,0 +1,111 @@
+{
+    "id": "i54649",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hardtop",
+    "en_definition": "a car that resembles a convertible but has a fixed rigid top",
+    "tr_word": "sabit tavanlı otomobil",
+    "tr_definition": "açılır kapanır bir arabaya benzeyen ancak sabit, sert bir tavanı olan otomobil türü",
+    "ru_word": "хардтоп",
+    "ru_definition": "кузов легкового автомобиля с жесткой крышей, имитирующий кабриолет и обычно не имеющий боковых стоек",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaty üçekli"
+                ],
+                "Uzbek": [
+                    "qattiq tom"
+                ],
+                "Uyghur": [
+                    "قاتتىق چوقىلىق ماشىنا",
+                    "قاتتىق ئۆگزىلىك ئاپتوموبىل"
+                ],
+                "Kazakh": [
+                    "қатты төбелі көлік",
+                    "қатты жабын"
+                ],
+                "Kyrgyz": [
+                    "катуу төбөлүү унаа",
+                    "катуу чатырлуу"
+                ],
+                "Karakalpak": [
+                    "qattı tóbelі mashina"
+                ],
+                "Tatar": [
+                    "каты түбәле машина",
+                    "каты түбәле автомобиль"
+                ],
+                "Bashkir": [
+                    "ҡаты түбәле автомобиль",
+                    "ҡаты түбә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sabit tavan"
+                ],
+                "Azerbaijani": [
+                    "sabit tavanlı"
+                ],
+                "Uzbek": [
+                    "yopiq kuzov"
+                ],
+                "Kazakh": [
+                    "жабық шанақ"
+                ],
+                "Kyrgyz": [
+                    "жабык унаа"
+                ],
+                "Karakalpak": [
+                    "jabıq kuzow"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kapalı tavan"
+                ],
+                "Azerbaijani": [
+                    "qapalı avtomobil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bərk tavanlı"
+                ],
+                "Turkmen": [
+                    "berk üçekli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sert tavan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "üçegi açylmaýan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ustyopiq"
+                ]
+            }
+        }
+    ]
+}

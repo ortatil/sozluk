@@ -1,0 +1,92 @@
+{
+    "id": "i78550",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fish and chips",
+    "en_definition": "fried fish and french-fried potatoes",
+    "tr_word": "balık ve patates kızartması",
+    "tr_definition": "pane edilip kızartılmış balık ve patates kızartmasından oluşan, özellikle İngiliz mutfağına özgü bir yemek",
+    "ru_word": "фиш-энд-чипс",
+    "ru_definition": "блюдо, состоящее из рыбы, обжаренной во фритюре, и нарезанного толстыми ломтиками картофеля фри",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balık ve patates kızartması",
+                    "balık patates"
+                ],
+                "Azerbaijani": [
+                    "balıq-kartof qızartması"
+                ],
+                "Turkmen": [
+                    "balyk we gowurlan kartoşka"
+                ],
+                "Uzbek": [
+                    "baliq va qovurma kartoshka"
+                ],
+                "Uyghur": [
+                    "بېلىق ۋە بەرەڭگە قورۇمىسى"
+                ],
+                "Kazakh": [
+                    "балық пен қуырылған картоп"
+                ],
+                "Karakalpak": [
+                    "balıq hám quuırılǵan kartoshka"
+                ],
+                "Tatar": [
+                    "балыклы бәрәңге"
+                ],
+                "Bashkir": [
+                    "балыҡ менән картуф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qızardılmış balıq və kartof"
+                ],
+                "Kyrgyz": [
+                    "куурулган балык жана картошка",
+                    "куурулган балык жана куурулган картошка"
+                ],
+                "Karakalpak": [
+                    "quuırılǵan balıq hám kartoshka"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gowurlan balyk we ýer almasy"
+                ],
+                "Uzbek": [
+                    "qovurilgan baliq va kartoshka"
+                ],
+                "Kazakh": [
+                    "қуырылған балық пен картоп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыздырылган балык һәм бәрәңге"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырылған балыҡ һәм картуф"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قورۇلغان بېلىق ۋە بەرەڭگە"
+                ]
+            }
+        }
+    ]
+}

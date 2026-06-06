@@ -1,0 +1,133 @@
+# O'connor
+| Field | Detail |
+|---|---|
+| **ID** | i96436 |
+| **English** | o'connor |
+| **Type** | noun |
+| **Definition** | United States writer (1925-1964) |
+| **Source** | common |
+| **Ortatil** | okonnor |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **okonnor** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.13** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئوكوننور | okonnor |
+| **Kazakh** | |
+| О’Коннор | o’konnor |
+| **Kyrgyz** | |
+| О’Коннор | o’konnor |
+| **Tatar** | |
+| О’Коннор | o’konnor |
+
+```json
+{
+    "id": "i96436",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "o'connor",
+    "en_definition": "United States writer (1925-1964)",
+    "tr_word": "O'Connor",
+    "tr_definition": "Amerikalı yazar (1925-1964); tam adı Flannery O'Connor.",
+    "ru_word": "О’Коннор",
+    "ru_definition": "Американская писательница (1925-1964); полное имя Фланнери О’Коннор.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Flannery O'Connor"
+                ],
+                "Azerbaijani": [
+                    "Flanneri O'Konnor"
+                ],
+                "Turkmen": [
+                    "Flanneri Okonnor"
+                ],
+                "Uzbek": [
+                    "Flanneri O'Konnor"
+                ],
+                "Uyghur": [
+                    "فلانېرى ئوكوننور"
+                ],
+                "Kazakh": [
+                    "Фланнери О’Коннор"
+                ],
+                "Kyrgyz": [
+                    "Фланнери О’Коннор"
+                ],
+                "Karakalpak": [
+                    "Flanneri O’Konnor"
+                ],
+                "Tatar": [
+                    "Фланнери О’Коннор"
+                ],
+                "Bashkir": [
+                    "Фланнери О’Коннор"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "O'Konnor"
+                ],
+                "Uzbek": [
+                    "O'Konnor"
+                ],
+                "Uyghur": [
+                    "ئوكوننور"
+                ],
+                "Kazakh": [
+                    "О’Коннор"
+                ],
+                "Kyrgyz": [
+                    "О’Коннор"
+                ],
+                "Karakalpak": [
+                    "O’Konnor"
+                ],
+                "Tatar": [
+                    "О’Коннор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Amerikalı yazar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Güneyli yazar"
+                ]
+            }
+        }
+    ]
+}
+```
+

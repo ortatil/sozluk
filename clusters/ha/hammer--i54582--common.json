@@ -1,0 +1,102 @@
+{
+    "id": "i54582",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hammer",
+    "en_definition": "a hand tool with a heavy rigid head and a handle; used to deliver an impulsive force by striking",
+    "tr_word": "çekiç",
+    "tr_definition": "Çivi çakmak, madenleri dövmek gibi işlerde kullanılan, bir sapın ucuna dikey olarak geçirilmiş metal bir başlıktan oluşan el aleti.",
+    "ru_word": "молоток",
+    "ru_definition": "Ручной инструмент, состоящий из тяжелой головки и рукоятки, предназначенный для нанесения ударов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çekiç"
+                ],
+                "Azerbaijani": [
+                    "çəkic"
+                ],
+                "Turkmen": [
+                    "çekiç"
+                ],
+                "Uzbek": [
+                    "cho'kich"
+                ],
+                "Uyghur": [
+                    "چەكۈچ"
+                ],
+                "Kyrgyz": [
+                    "чоку"
+                ],
+                "Tatar": [
+                    "чүкеч",
+                    "чүкечбаш"
+                ],
+                "Bashkir": [
+                    "сүкеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balyoz"
+                ],
+                "Uzbek": [
+                    "bolta",
+                    "bolg'a"
+                ],
+                "Uyghur": [
+                    "بولقا"
+                ],
+                "Kazakh": [
+                    "балға"
+                ],
+                "Kyrgyz": [
+                    "балка",
+                    "балкач"
+                ],
+                "Karakalpak": [
+                    "balǵa"
+                ],
+                "Bashkir": [
+                    "балға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tokmak"
+                ],
+                "Azerbaijani": [
+                    "toqmaq"
+                ],
+                "Kazakh": [
+                    "тоқпақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gürz"
+                ],
+                "Turkmen": [
+                    "pürs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shókish"
+                ]
+            }
+        }
+    ]
+}

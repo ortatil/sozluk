@@ -1,0 +1,83 @@
+{
+    "id": "i79832",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "anthropology department",
+    "en_definition": "the academic department responsible for teaching and research in anthropology",
+    "tr_word": "antropoloji bölümü",
+    "tr_definition": "antropoloji alanında eğitim ve araştırma yapmaktan sorumlu akademik birim",
+    "ru_word": "кафедра антропологии",
+    "ru_definition": "академическое подразделение, отвечающее за преподавание и исследования в области антропологии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "antropoloji bölümü",
+                    "antropoloji kürsüsü"
+                ],
+                "Azerbaijani": [
+                    "antropologiya kafedrası",
+                    "antropologiya şöbəsi",
+                    "antropologiya bölməsi"
+                ],
+                "Turkmen": [
+                    "antropologiýa bölümi",
+                    "antropologiýa kafedrasy"
+                ],
+                "Uzbek": [
+                    "antropologiya kafedrasi",
+                    "antropologiya bo'limi"
+                ],
+                "Uyghur": [
+                    "ئىنسانشۇناسلىق بۆلۈمى",
+                    "ئانتورپولوگىيە فاكۇلتېتى"
+                ],
+                "Kazakh": [
+                    "антропология кафедрасы",
+                    "антропология бөлімі"
+                ],
+                "Kyrgyz": [
+                    "антропология кафедрасы",
+                    "антропология бөлүмү"
+                ],
+                "Karakalpak": [
+                    "antropologiya kafedrası",
+                    "antropologiya bólimi"
+                ],
+                "Tatar": [
+                    "антропология кафедрасы",
+                    "антропология бүлеге"
+                ],
+                "Bashkir": [
+                    "антропология кафедраһы",
+                    "антропология бүлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "insan bilimi bölümü"
+                ],
+                "Turkmen": [
+                    "ynsanşynaslyk bölümi"
+                ],
+                "Uzbek": [
+                    "insonshunoslik bo'limi"
+                ],
+                "Uyghur": [
+                    "ئىنسانشۇناسلىق فاكۇلتېتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bashariyatshunoslik kafedrasi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "id": "i77104",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mince",
+    "en_definition": "food chopped into small bits",
+    "tr_word": "kıyma",
+    "tr_definition": "küçük parçalar halinde doğranmış veya çekilmiş et veya yiyecek",
+    "ru_word": "фарш",
+    "ru_definition": "измельченная на мелкие кусочки пища, обычно мясо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıyma",
+                    "kıyılmış et"
+                ],
+                "Azerbaijani": [
+                    "qiymə"
+                ],
+                "Turkmen": [
+                    "gyýma"
+                ],
+                "Uzbek": [
+                    "qiymalangan go'sht",
+                    "qiyma"
+                ],
+                "Uyghur": [
+                    "قىيما"
+                ],
+                "Kyrgyz": [
+                    "кыйма"
+                ],
+                "Karakalpak": [
+                    "qiyma"
+                ],
+                "Tatar": [
+                    "кыйма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "parçalanmış et"
+                ],
+                "Turkmen": [
+                    "farş"
+                ],
+                "Kazakh": [
+                    "фарш"
+                ],
+                "Kyrgyz": [
+                    "фарш"
+                ],
+                "Karakalpak": [
+                    "farsh"
+                ],
+                "Tatar": [
+                    "фарш"
+                ],
+                "Bashkir": [
+                    "фарш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تارتىلغان گۆش"
+                ],
+                "Kazakh": [
+                    "тартылған ет"
+                ],
+                "Kyrgyz": [
+                    "тартылган эт"
+                ],
+                "Karakalpak": [
+                    "tartılǵan et"
+                ],
+                "Tatar": [
+                    "тарттырылган ит"
+                ],
+                "Bashkir": [
+                    "тартылған ит",
+                    "туралған ит"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çəkilmiş ət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "üwelen et"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "туралған ет"
+                ]
+            }
+        }
+    ]
+}

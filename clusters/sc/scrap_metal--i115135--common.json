@@ -1,0 +1,117 @@
+{
+    "id": "i115135",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "scrap metal",
+    "en_definition": "discarded metal suitable for reprocessing",
+    "tr_word": "hurda metal",
+    "tr_definition": "yeniden işlenmeye uygun, atılmış metal parçaları",
+    "ru_word": "металлолом",
+    "ru_definition": "металлический мусор, пригодный для переработки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dəmir qırıntısı"
+                ],
+                "Turkmen": [
+                    "demir-dümür",
+                    "demir galyndysy"
+                ],
+                "Uzbek": [
+                    "temir-tersak"
+                ],
+                "Uyghur": [
+                    "تۆمۈر-تەسەك",
+                    "تۆمۈر داشقىلى"
+                ],
+                "Kazakh": [
+                    "темір-терсек",
+                    "темір қалдықтары"
+                ],
+                "Kyrgyz": [
+                    "темир-терсек",
+                    "темир калдыктары"
+                ],
+                "Karakalpak": [
+                    "temir-tersek"
+                ],
+                "Tatar": [
+                    "тимер-томыр",
+                    "тимер калдыклары",
+                    "тимер ватыклары"
+                ],
+                "Bashkir": [
+                    "тимер-томор",
+                    "тимер ҡалдыҡтары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "metal atık"
+                ],
+                "Azerbaijani": [
+                    "metal qırıntısı",
+                    "metal tullantısı"
+                ],
+                "Uzbek": [
+                    "metall parchalari",
+                    "metall qirqindilari",
+                    "metall chiqindisi"
+                ],
+                "Kazakh": [
+                    "металл сынықтары"
+                ],
+                "Karakalpak": [
+                    "metall qaldıqları"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hurda",
+                    "hurda metal"
+                ],
+                "Azerbaijani": [
+                    "hurda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эски-уску темир"
+                ],
+                "Karakalpak": [
+                    "eski-tuski temir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "köne-küşül"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېرەكسىز مېتال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡалдыҡ тимер"
+                ]
+            }
+        }
+    ]
+}

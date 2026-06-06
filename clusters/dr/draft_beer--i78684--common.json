@@ -1,0 +1,114 @@
+{
+    "id": "i78684",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "draft beer",
+    "en_definition": "beer drawn from a keg",
+    "tr_word": "fıçı bira",
+    "tr_definition": "Fıçıdan çekilerek servis edilen bira.",
+    "ru_word": "разливное пиво",
+    "ru_definition": "Пиво, подаваемое непосредственно из кеги или бочки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "guýma piwo"
+                ],
+                "Uzbek": [
+                    "quyma pivo"
+                ],
+                "Uyghur": [
+                    "قۇيما پىۋا"
+                ],
+                "Kazakh": [
+                    "құйма сыра"
+                ],
+                "Kyrgyz": [
+                    "куюлма сыра"
+                ],
+                "Karakalpak": [
+                    "qұyma sıra"
+                ],
+                "Tatar": [
+                    "коеп бирелә торган арпа суы"
+                ],
+                "Bashkir": [
+                    "ҡойолма һыра"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açık bira"
+                ],
+                "Azerbaijani": [
+                    "açıq pivə"
+                ],
+                "Kyrgyz": [
+                    "ачык сыра"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fıçı birası"
+                ],
+                "Uzbek": [
+                    "bochka pivosi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çəllək pivəsi"
+                ],
+                "Turkmen": [
+                    "çelek piwosy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бөшке сырасы"
+                ],
+                "Karakalpak": [
+                    "bóshke sırası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "süzmə pivə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تارتمى پىۋا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "коеп бирелә торган сыра"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мискә һыраһы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "id": "i69542",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "compound sentence",
+    "en_definition": "a sentence composed of at least two coordinate independent clauses",
+    "tr_word": "birleşik cümle",
+    "tr_definition": "en az iki bağımsız ana cümleden oluşan cümle yapısı",
+    "ru_word": "сложносочинённое предложение",
+    "ru_definition": "предложение, состоящее из двух или более равноправных независимых частей, соединённых сочинительной связью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşma sözlem"
+                ],
+                "Uzbek": [
+                    "qo'shma gap"
+                ],
+                "Uyghur": [
+                    "قوشما جۈملە"
+                ],
+                "Kyrgyz": [
+                    "кошмо сүйлөм"
+                ],
+                "Karakalpak": [
+                    "qos qұrama sóylem"
+                ],
+                "Tatar": [
+                    "куш җөмлә"
+                ],
+                "Bashkir": [
+                    "ҡушма һөйләм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "birleşik cümle"
+                ],
+                "Uzbek": [
+                    "bog'langan qo'shma gap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mürekkep cümle"
+                ],
+                "Azerbaijani": [
+                    "mürəkkəb cümlə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağlı cümle"
+                ],
+                "Turkmen": [
+                    "baglanyşykly goşma sözlem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "düzme goşma sözlem"
+                ],
+                "Bashkir": [
+                    "төҙөлмә һөйләм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەڭداش قوشما جۈملە"
+                ],
+                "Kyrgyz": [
+                    "тең байланыштуу кошмо сүйлөм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құрмалас сөйлем"
+                ],
+                "Karakalpak": [
+                    "qұrama sóylem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tabesiz mürəkkəb cümlə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "салалас құрмалас сөйлем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "татаал сүйлөм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тезмә куш җөмлә"
+                ]
+            }
+        }
+    ]
+}

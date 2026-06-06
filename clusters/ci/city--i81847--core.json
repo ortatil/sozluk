@@ -1,0 +1,120 @@
+{
+    "id": "i81847",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "city",
+    "en_definition": "a large and densely populated urban area; may include several independent administrative districts",
+    "tr_word": "şehir",
+    "tr_definition": "Nüfusun çoğunun ticaret, sanayi, hizmet veya yönetimle uğraştığı, genellikle tarımsal etkinliklerin olmadığı büyük yerleşim yeri.",
+    "ru_word": "город",
+    "ru_definition": "Крупный населённый пункт, жители которого заняты обычно вне сельского хозяйства.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehir"
+                ],
+                "Azerbaijani": [
+                    "şəhər"
+                ],
+                "Turkmen": [
+                    "şäher"
+                ],
+                "Uzbek": [
+                    "shahar"
+                ],
+                "Uyghur": [
+                    "شەھەر"
+                ],
+                "Kazakh": [
+                    "шаһар"
+                ],
+                "Kyrgyz": [
+                    "шаар"
+                ],
+                "Karakalpak": [
+                    "sháһár"
+                ],
+                "Tatar": [
+                    "шәһәр"
+                ],
+                "Bashkir": [
+                    "шәһәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kent"
+                ],
+                "Turkmen": [
+                    "kent"
+                ],
+                "Uzbek": [
+                    "kent"
+                ],
+                "Kazakh": [
+                    "кент"
+                ],
+                "Kyrgyz": [
+                    "кент"
+                ],
+                "Karakalpak": [
+                    "kánt"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қала"
+                ],
+                "Karakalpak": [
+                    "qala"
+                ],
+                "Bashkir": [
+                    "ҡала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bələdiyyə"
+                ],
+                "Uzbek": [
+                    "balad"
+                ],
+                "Uyghur": [
+                    "بەلدە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məskən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مەدىنە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кәсәбә"
+                ]
+            }
+        }
+    ]
+}

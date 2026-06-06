@@ -1,0 +1,117 @@
+{
+    "id": "i63861",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dollar volume",
+    "en_definition": "the volume measured in dollars",
+    "tr_word": "dolar hacmi",
+    "tr_definition": "Dolar cinsinden ölçülen işlem hacmi",
+    "ru_word": "долларовый объем",
+    "ru_definition": "объем торгов или операций, выраженный в долларах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ақшалай көлем"
+                ],
+                "Kyrgyz": [
+                    "акчалай көлөм",
+                    "акчалай өлчөм"
+                ],
+                "Karakalpak": [
+                    "aqshalay kólem"
+                ],
+                "Tatar": [
+                    "акча күләме",
+                    "акчалата күләм",
+                    "акчалата зурлык"
+                ],
+                "Bashkir": [
+                    "аҡса күләме",
+                    "аҡсалата күләм",
+                    "аҡсалата мөлкәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dolar hacmi",
+                    "dolar tutarı",
+                    "dolar bazlı hacim",
+                    "dolar değeri"
+                ],
+                "Azerbaijani": [
+                    "dollar həcmi",
+                    "dollar miqdarı",
+                    "dollar tutumu"
+                ],
+                "Turkmen": [
+                    "dollar möçberi",
+                    "dollar mukdary",
+                    "dollar bahasy"
+                ],
+                "Uyghur": [
+                    "دوللار مىقدارى",
+                    "دوللار سوممىسى",
+                    "دوللار ھەجىمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қаржылай көлем"
+                ],
+                "Karakalpak": [
+                    "qarjılay mólsher"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pul hajmi",
+                    "pul miqdori"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mablag' miqdori"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qiymat hajmi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құндық көлем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "нарктык көлөм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "walyutalıq kólem"
+                ]
+            }
+        }
+    ]
+}

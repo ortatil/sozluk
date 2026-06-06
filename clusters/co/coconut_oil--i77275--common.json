@@ -1,0 +1,60 @@
+{
+    "id": "i77275",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coconut oil",
+    "en_definition": "oil from coconuts",
+    "tr_word": "hindistan cevizi yağı",
+    "tr_definition": "Hindistan cevizinden elde edilen yağ",
+    "ru_word": "кокосовое масло",
+    "ru_definition": "масло, получаемое из кокосовых орехов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kokos yağı"
+                ],
+                "Turkmen": [
+                    "kokos ýagy"
+                ],
+                "Uzbek": [
+                    "kokos moyi",
+                    "kokos yog'i"
+                ],
+                "Uyghur": [
+                    "كوكۇس مېيى"
+                ],
+                "Kazakh": [
+                    "кокос майы"
+                ],
+                "Kyrgyz": [
+                    "кокос майы"
+                ],
+                "Karakalpak": [
+                    "kokos mayı"
+                ],
+                "Tatar": [
+                    "кокос мае"
+                ],
+                "Bashkir": [
+                    "кокос майы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hindistan cevizi yağı"
+                ],
+                "Azerbaijani": [
+                    "hind qozu yağı"
+                ],
+                "Uyghur": [
+                    "ھىندىستان ياڭىقى مېيى"
+                ]
+            }
+        }
+    ]
+}

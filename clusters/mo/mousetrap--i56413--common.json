@@ -1,0 +1,105 @@
+{
+    "id": "i56413",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mousetrap",
+    "en_definition": "a trap for catching mice",
+    "tr_word": "fare kapanı",
+    "tr_definition": "fareleri yakalamak için kullanılan bir düzenek",
+    "ru_word": "мышеловка",
+    "ru_definition": "приспособление для ловли мышей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kapan"
+                ],
+                "Turkmen": [
+                    "gapan"
+                ],
+                "Uzbek": [
+                    "qopqon"
+                ],
+                "Uyghur": [
+                    "قاپقان"
+                ],
+                "Kazakh": [
+                    "қақпан"
+                ],
+                "Kyrgyz": [
+                    "капкан"
+                ],
+                "Karakalpak": [
+                    "qaqpan"
+                ],
+                "Tatar": [
+                    "капкын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "siçantutan"
+                ],
+                "Turkmen": [
+                    "syçan tutar",
+                    "syçan gapany"
+                ],
+                "Uzbek": [
+                    "sichqonqopqon"
+                ],
+                "Uyghur": [
+                    "چاشقان قاپقىنى",
+                    "چاشقان تۇتقۇچ"
+                ],
+                "Kyrgyz": [
+                    "чычкан капкан"
+                ],
+                "Tatar": [
+                    "тычкан капкыны"
+                ],
+                "Bashkir": [
+                    "сысҡан ҡапҡаны",
+                    "сысҡан тотҡос"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тышқан аулағыш",
+                    "тышқан қақпан"
+                ],
+                "Karakalpak": [
+                    "tıshqanshı",
+                    "tıshqan qaqpan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fare kapanı",
+                    "fare tuzağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tələ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuzoq"
+                ]
+            }
+        }
+    ]
+}

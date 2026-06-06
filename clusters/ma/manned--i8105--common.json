@@ -1,0 +1,136 @@
+{
+    "id": "i8105",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "manned",
+    "en_definition": "having a crew",
+    "tr_word": "insanlı",
+    "tr_definition": "içinde mürettebatı olan",
+    "ru_word": "пилотируемый",
+    "ru_definition": "управляемый находящимся на борту экипажем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ekipažly"
+                ],
+                "Uzbek": [
+                    "ekipajli"
+                ],
+                "Kazakh": [
+                    "экипажы бар"
+                ],
+                "Karakalpak": [
+                    "ekipajlı"
+                ],
+                "Tatar": [
+                    "экипажлы"
+                ],
+                "Bashkir": [
+                    "экипажлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "insanlı"
+                ],
+                "Azerbaijani": [
+                    "insanlı"
+                ],
+                "Turkmen": [
+                    "adamly"
+                ],
+                "Kyrgyz": [
+                    "адамдуу"
+                ],
+                "Karakalpak": [
+                    "adamlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "idarəolunan"
+                ],
+                "Uzbek": [
+                    "odamli"
+                ],
+                "Uyghur": [
+                    "ئادەملىك",
+                    "خادىملىق"
+                ],
+                "Kazakh": [
+                    "адам басқаратын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "boshqariladigan"
+                ],
+                "Kazakh": [
+                    "басқарылатын"
+                ],
+                "Kyrgyz": [
+                    "башкарылуучу"
+                ],
+                "Karakalpak": [
+                    "basqarılatuǵın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كىشىلىك"
+                ],
+                "Kyrgyz": [
+                    "кишиси бар"
+                ],
+                "Tatar": [
+                    "кешеле"
+                ],
+                "Bashkir": [
+                    "кешеле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mürettebatlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "heyətli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "müňüşli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хезмәткәрле"
+                ]
+            }
+        }
+    ]
+}

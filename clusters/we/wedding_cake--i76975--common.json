@@ -1,0 +1,105 @@
+{
+    "id": "i76975",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wedding cake",
+    "en_definition": "a rich cake with two or more tiers and covered with frosting and decorations; served at a wedding reception",
+    "tr_word": "düğün pastası",
+    "tr_definition": "Düğün törenlerinde servis edilen, genellikle çok katlı ve süslemeli pasta.",
+    "ru_word": "свадебный торт",
+    "ru_definition": "Многоярусный праздничный торт, украшенный глазурью и декором, который подают на свадебном банкете.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düğün pastası"
+                ],
+                "Azerbaijani": [
+                    "toy tortu",
+                    "toy şirniyyatı"
+                ],
+                "Turkmen": [
+                    "toý torty"
+                ],
+                "Uzbek": [
+                    "to'y torti"
+                ],
+                "Uyghur": [
+                    "توي تورتى",
+                    "توي تورتىسى"
+                ],
+                "Kazakh": [
+                    "той торты"
+                ],
+                "Kyrgyz": [
+                    "той торт"
+                ],
+                "Karakalpak": [
+                    "toy tortı"
+                ],
+                "Tatar": [
+                    "туй бәлеше",
+                    "туй торты"
+                ],
+                "Bashkir": [
+                    "туй бәлеше",
+                    "туй күмәсе",
+                    "туй торты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "nikoh torti"
+                ],
+                "Kazakh": [
+                    "неке торты"
+                ],
+                "Kyrgyz": [
+                    "нике торту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "toý süýjüligi"
+                ],
+                "Karakalpak": [
+                    "toy bálish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gelin pastası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "katlı pasta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үйлену тойының торты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "туй күчтәнәче"
+                ]
+            }
+        }
+    ]
+}

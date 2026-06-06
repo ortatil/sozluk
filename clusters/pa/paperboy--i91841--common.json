@@ -1,0 +1,76 @@
+{
+    "id": "i91841",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paperboy",
+    "en_definition": "a boy who sells or delivers newspapers",
+    "tr_word": "gazeteci çocuk",
+    "tr_definition": "gazete satan veya evlere gazete dağıtan çocuk",
+    "ru_word": "разносчик газет",
+    "ru_definition": "мальчик, который продает или доставляет газеты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gazeteci",
+                    "gazeteci çocuk"
+                ],
+                "Azerbaijani": [
+                    "qəzetçi",
+                    "qəzetpaylayan",
+                    "qəzetsatan"
+                ],
+                "Turkmen": [
+                    "gazetçi",
+                    "gazet paýlaýjy"
+                ],
+                "Uzbek": [
+                    "gazetachi",
+                    "gazeta tarqatuvchi",
+                    "gazeta sotuvchi"
+                ],
+                "Uyghur": [
+                    "گېزىتچى بالا",
+                    "گېزىت تارقاتقۇچى",
+                    "گېزىت ساتقۇچى بالا"
+                ],
+                "Kazakh": [
+                    "газет таратушы",
+                    "газетші"
+                ],
+                "Kyrgyz": [
+                    "гезит таратуучу",
+                    "гезит сатуучу"
+                ],
+                "Karakalpak": [
+                    "gazeta tasıushı",
+                    "gazetashı"
+                ],
+                "Tatar": [
+                    "гәҗит таратучы",
+                    "гәҗит сатучы",
+                    "гәҗитче"
+                ],
+                "Bashkir": [
+                    "гәзит таратыусы",
+                    "гәзитсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müvezzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кабарчы бала"
+                ]
+            }
+        }
+    ]
+}

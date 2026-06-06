@@ -1,0 +1,85 @@
+{
+    "id": "i72404",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "s",
+    "en_definition": "the 19th letter of the Roman alphabet",
+    "tr_word": "s",
+    "tr_definition": "Roma alfabesinin 19. harfi",
+    "ru_word": "эс",
+    "ru_definition": "19-я буква латинского алфавита",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "s harfi",
+                    "se"
+                ],
+                "Azerbaijani": [
+                    "s hərfi"
+                ],
+                "Turkmen": [
+                    "se harpy"
+                ],
+                "Uzbek": [
+                    "s harfi"
+                ],
+                "Uyghur": [
+                    "س ھەرىپى"
+                ],
+                "Kazakh": [
+                    "с әрпі"
+                ],
+                "Karakalpak": [
+                    "s háribi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "es"
+                ],
+                "Uyghur": [
+                    "س"
+                ],
+                "Kyrgyz": [
+                    "эс"
+                ],
+                "Bashkir": [
+                    "эс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эс тамгасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәреф"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "билге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "эс хәрефе"
+                ]
+            }
+        }
+    ]
+}

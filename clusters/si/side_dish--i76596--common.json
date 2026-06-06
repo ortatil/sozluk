@@ -1,0 +1,133 @@
+{
+    "id": "i76596",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "side dish",
+    "en_definition": "a dish that is served with, but is subordinate to, a main course",
+    "tr_word": "garnitür",
+    "tr_definition": "ana yemeğin yanında servis edilen, onu tamamlayan ek yiyecek",
+    "ru_word": "гарнир",
+    "ru_definition": "дополнение к основному мясному или рыбному блюду",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "garnitür"
+                ],
+                "Azerbaijani": [
+                    "qarnir"
+                ],
+                "Turkmen": [
+                    "garnir"
+                ],
+                "Uzbek": [
+                    "garnir"
+                ],
+                "Kazakh": [
+                    "гарнир"
+                ],
+                "Kyrgyz": [
+                    "гарнир"
+                ],
+                "Karakalpak": [
+                    "garnir"
+                ],
+                "Tatar": [
+                    "гарнир"
+                ],
+                "Bashkir": [
+                    "гарнир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yan yemek"
+                ],
+                "Azerbaijani": [
+                    "yan yemək"
+                ],
+                "Turkmen": [
+                    "ýan-nahar"
+                ],
+                "Uzbek": [
+                    "yonaki taom"
+                ],
+                "Uyghur": [
+                    "يانداش تاماق"
+                ],
+                "Kyrgyz": [
+                    "жандама тамак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşmaça nahar"
+                ],
+                "Uzbek": [
+                    "qoʻshimcha taom"
+                ],
+                "Uyghur": [
+                    "قوشۇمچە تاماق",
+                    "قوشۇمچە تائام"
+                ],
+                "Kazakh": [
+                    "қосымша тағам",
+                    "қосымша ас"
+                ],
+                "Kyrgyz": [
+                    "кошумча тамак"
+                ],
+                "Karakalpak": [
+                    "qosımsha taǵam",
+                    "qosımsha as"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "katık"
+                ],
+                "Tatar": [
+                    "кушымча",
+                    "кушымча аш"
+                ],
+                "Bashkir": [
+                    "ҡушымта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşlikçi"
+                ],
+                "Azerbaijani": [
+                    "aşaltı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meze"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өҫтәмә аш"
+                ]
+            }
+        }
+    ]
+}

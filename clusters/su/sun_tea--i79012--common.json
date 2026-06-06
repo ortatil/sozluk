@@ -1,0 +1,84 @@
+{
+    "id": "i79012",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sun tea",
+    "en_definition": "tea made by exposing tea leaves steeped in water to the direct rays of the sun; usually served with ice",
+    "tr_word": "güneş çayı",
+    "tr_definition": "Suya batırılmış çay yapraklarının doğrudan güneş ışığına maruz bırakılmasıyla demlenen, genellikle buzla servis edilen çay.",
+    "ru_word": "солнечный чай",
+    "ru_definition": "Чай, приготовленный путем настаивания чайных листьев в воде под прямыми солнечными лучами; обычно подается со льдом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güneş çayı",
+                    "gün çayı"
+                ],
+                "Azerbaijani": [
+                    "günəş çayı",
+                    "gün çayı"
+                ],
+                "Turkmen": [
+                    "gün çaýy",
+                    "günde demlenen çaý"
+                ],
+                "Uyghur": [
+                    "كۈن چايدىنى"
+                ],
+                "Kazakh": [
+                    "күн шайы"
+                ],
+                "Kyrgyz": [
+                    "күн чайы"
+                ],
+                "Karakalpak": [
+                    "kún shayı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quyosh choyi"
+                ],
+                "Uyghur": [
+                    "قۇياش چايدىنى"
+                ],
+                "Tatar": [
+                    "кояш чәе",
+                    "кояшта төнәтелгән чәй"
+                ],
+                "Bashkir": [
+                    "ҡояш сәйе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күнге демделген шай"
+                ],
+                "Kyrgyz": [
+                    "күн демдеген чай"
+                ],
+                "Karakalpak": [
+                    "kúnge demlengen shay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oftob choyi"
+                ],
+                "Uyghur": [
+                    "ئاپتاپ چايدىنى"
+                ]
+            }
+        }
+    ]
+}

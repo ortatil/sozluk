@@ -1,0 +1,177 @@
+{
+    "id": "i106441",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "payment",
+    "en_definition": "a sum of money paid or a claim discharged",
+    "tr_word": "ödeme",
+    "tr_definition": "bir borcun veya bir hizmetin karşılığı olarak verilen para miktarı",
+    "ru_word": "платёж",
+    "ru_definition": "сумма денег, выплачиваемая в счёт погашения долга или за товар/услугу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "haqq"
+                ],
+                "Turkmen": [
+                    "hak"
+                ],
+                "Uzbek": [
+                    "haq"
+                ],
+                "Uyghur": [
+                    "ھەق"
+                ],
+                "Kazakh": [
+                    "ақы"
+                ],
+                "Kyrgyz": [
+                    "акы"
+                ],
+                "Karakalpak": [
+                    "haqı"
+                ],
+                "Tatar": [
+                    "хак"
+                ],
+                "Bashkir": [
+                    "хаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töleg"
+                ],
+                "Uzbek": [
+                    "toʻlov"
+                ],
+                "Uyghur": [
+                    "تۆلەم",
+                    "تۆلەش"
+                ],
+                "Kazakh": [
+                    "төлем"
+                ],
+                "Kyrgyz": [
+                    "төлөм",
+                    "төлөө"
+                ],
+                "Karakalpak": [
+                    "tólem",
+                    "tóleo"
+                ],
+                "Tatar": [
+                    "түләү",
+                    "түләм"
+                ],
+                "Bashkir": [
+                    "түләү",
+                    "түләм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ödeme"
+                ],
+                "Azerbaijani": [
+                    "ödəniş",
+                    "ödəmə"
+                ],
+                "Turkmen": [
+                    "edeg"
+                ],
+                "Kazakh": [
+                    "өтем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bedel"
+                ],
+                "Uzbek": [
+                    "badal"
+                ],
+                "Kyrgyz": [
+                    "бадал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məbləğ"
+                ],
+                "Uzbek": [
+                    "mablagʻ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tediye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahsilat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karşılık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bergi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چىقىم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жарна"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәя"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәл"
+                ]
+            }
+        }
+    ]
+}

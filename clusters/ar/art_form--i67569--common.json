@@ -1,0 +1,107 @@
+{
+    "id": "i67569",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "art form",
+    "en_definition": "(architecture) a form of artistic expression (such as writing or painting or architecture)",
+    "tr_word": "sanat dalı",
+    "tr_definition": "yazı, resim veya mimari gibi sanatsal bir ifade biçimi",
+    "ru_word": "вид искусства",
+    "ru_definition": "форма художественного выражения (такая как литература, живопись или архитектура)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanat dalı",
+                    "sanat türü",
+                    "sanat biçimi",
+                    "sanat kolu"
+                ],
+                "Azerbaijani": [
+                    "sənət növü",
+                    "sənət forması"
+                ],
+                "Turkmen": [
+                    "sungat görnüşi",
+                    "sungat"
+                ],
+                "Uzbek": [
+                    "sanʼat turi",
+                    "sanʼat shakli"
+                ],
+                "Uyghur": [
+                    "سەنئەت شەكلى",
+                    "سەنئەت تۈرى",
+                    "سەنئەت ئۇسلۇبى"
+                ],
+                "Tatar": [
+                    "сәнгать төре",
+                    "сәнгать формасы"
+                ],
+                "Bashkir": [
+                    "сәнғәт төрө",
+                    "сәнғәт формаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өнер түрі",
+                    "өнер саласы",
+                    "өнер формасы"
+                ],
+                "Kyrgyz": [
+                    "өнөр"
+                ],
+                "Karakalpak": [
+                    "óner túrі",
+                    "óner forması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çeperçilik"
+                ],
+                "Kyrgyz": [
+                    "чеберчилик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көркөм өнөр"
+                ],
+                "Karakalpak": [
+                    "kórkemóner túrі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yaradıcılıq növü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "badiiy shakl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "искусство"
+                ]
+            }
+        }
+    ]
+}

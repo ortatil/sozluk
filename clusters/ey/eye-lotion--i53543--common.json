@@ -1,0 +1,81 @@
+{
+    "id": "i53543",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eye-lotion",
+    "en_definition": "lotion consisting of a solution used as a cleanser for the eyes",
+    "tr_word": "göz losyonu",
+    "tr_definition": "gözleri temizlemek veya rahatlatmak için kullanılan sıvı çözelti",
+    "ru_word": "лосьон для глаз",
+    "ru_definition": "раствор, используемый в качестве очищающего или успокаивающего средства для глаз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz damlası",
+                    "göz suyu",
+                    "göz banyosu"
+                ],
+                "Azerbaijani": [
+                    "göz dərmanı",
+                    "göz məhlulu",
+                    "göz suyu"
+                ],
+                "Turkmen": [
+                    "göz derman",
+                    "göz suwy"
+                ],
+                "Uzbek": [
+                    "ko'z dori",
+                    "ko'z tomchisi",
+                    "ko'z malhami"
+                ],
+                "Uyghur": [
+                    "كۆز دورىسى",
+                    "كۆز سۈيى"
+                ],
+                "Kazakh": [
+                    "көз дәрісі",
+                    "көз жуғыш",
+                    "көз тамшысы"
+                ],
+                "Kyrgyz": [
+                    "көз дары",
+                    "көз жуугуч",
+                    "көз май"
+                ],
+                "Karakalpak": [
+                    "kóz dári"
+                ],
+                "Tatar": [
+                    "күз тамчысы",
+                    "күз даруы",
+                    "күз юу сыеклыгы"
+                ],
+                "Bashkir": [
+                    "күҙ дарыуы",
+                    "күҙ тамсыһы",
+                    "күҙ йыуғыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göz losyonu"
+                ],
+                "Karakalpak": [
+                    "kóz suyıqlıǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆز يۇيۇش سۇيۇقلۇقى"
+                ]
+            }
+        }
+    ]
+}

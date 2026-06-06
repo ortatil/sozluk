@@ -1,0 +1,138 @@
+{
+    "id": "i15133",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "coastal",
+    "en_definition": "of or relating to a coast",
+    "tr_word": "kıyı",
+    "tr_definition": "kıyı ile ilgili veya kıyıya yakın olan",
+    "ru_word": "прибрежный",
+    "ru_definition": "относящийся к берегу, расположенный у берега",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dənizkənarı"
+                ],
+                "Turkmen": [
+                    "deňizýaka"
+                ],
+                "Uzbek": [
+                    "dengizbo'yi"
+                ],
+                "Uyghur": [
+                    "دېڭىز بويىدىكى"
+                ],
+                "Tatar": [
+                    "диңгез буе"
+                ],
+                "Bashkir": [
+                    "диңгеҙ буйы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahil"
+                ],
+                "Azerbaijani": [
+                    "sahil",
+                    "sahilyanı"
+                ],
+                "Uzbek": [
+                    "sohilbo'yi"
+                ],
+                "Uyghur": [
+                    "ساھىل بويىدىكى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жағалаулық",
+                    "жағадағы",
+                    "жағажайлық"
+                ],
+                "Kyrgyz": [
+                    "жээктеги"
+                ],
+                "Karakalpak": [
+                    "jaǵadaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yalı"
+                ],
+                "Karakalpak": [
+                    "jaǵalıq",
+                    "jaǵa boyındaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qirg'oqbo'yi"
+                ],
+                "Uyghur": [
+                    "قىرغاق بويىدىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яр буе"
+                ],
+                "Bashkir": [
+                    "яр буйы",
+                    "яр буйындағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kıyı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kenarýaka",
+                    "kenar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жээк боюндагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кылаасындагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "су буе"
+                ]
+            }
+        }
+    ]
+}

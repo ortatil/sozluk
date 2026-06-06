@@ -1,0 +1,97 @@
+{
+    "id": "i88426",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ballerina",
+    "en_definition": "a female ballet dancer",
+    "tr_word": "balerin",
+    "tr_definition": "kadın bale sanatçısı",
+    "ru_word": "балерина",
+    "ru_definition": "артистка балета, исполняющая классические танцы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balerin",
+                    "balet"
+                ],
+                "Azerbaijani": [
+                    "balerina",
+                    "balet rəqqasəsi"
+                ],
+                "Uzbek": [
+                    "balet raqqosasi"
+                ],
+                "Uyghur": [
+                    "بالېت ئۇسسۇلچىسى",
+                    "بالېتچى قىز"
+                ],
+                "Kyrgyz": [
+                    "балет бийчиси"
+                ],
+                "Karakalpak": [
+                    "balerina"
+                ],
+                "Tatar": [
+                    "балет биючесе"
+                ],
+                "Bashkir": [
+                    "балет бейеүсеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "биші",
+                    "бикеш",
+                    "биші қыз"
+                ],
+                "Kyrgyz": [
+                    "бийчи"
+                ],
+                "Karakalpak": [
+                    "biyshi"
+                ],
+                "Tatar": [
+                    "биюче",
+                    "биюче хатын"
+                ],
+                "Bashkir": [
+                    "бейеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "rakkyza"
+                ],
+                "Uzbek": [
+                    "raqqosa"
+                ],
+                "Karakalpak": [
+                    "raqqasa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tansçy",
+                    "tansçy gyz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇسسۇلچى"
+                ]
+            }
+        }
+    ]
+}

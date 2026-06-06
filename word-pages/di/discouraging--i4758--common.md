@@ -1,0 +1,294 @@
+# Discouraging
+| Field | Detail |
+|---|---|
+| **ID** | i4758 |
+| **English** | discouraging |
+| **Type** | adjective |
+| **Definition** | depriving of confidence or hope or enthusiasm and hence often deterring action |
+| **Source** | common |
+| **Ortatil** | ümidsizläntirüwçüsän |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ümidsizläntirüwçüsän** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.93** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئۈمىدسىزلەندۈرىدىغان | ümidsizländüridiğan |
+| مەيۈسلەندۈرىدىغان | mäyüsländüridiğan |
+| روھسىزلاندۇرىدىغان | rohsizlanduridiğan |
+| **Kazakh** | |
+| жігерсіздендіретін | jigersizdendiretin |
+| **Tatar** | |
+| өметсезләндергеч | ömetsezländergeç |
+| күңелсезләндергеч | küñelsezländergeç |
+| куркыткыч | kurkıtkıç |
+| кыюсызландыручы | kıyusızlandıruçı |
+| **Bashkir** | |
+| өмөтһөҙләндереүсе | ömöthözländereüse |
+| ҡаушатыусы | qauşatıusı |
+
+```json
+{
+    "id": "i4758",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "discouraging",
+    "en_definition": "depriving of confidence or hope or enthusiasm and hence often deterring action",
+    "tr_word": "cesaret kırıcı",
+    "tr_definition": "Güveni, umudu veya şevki yok eden ve bu nedenle genellikle eylemi engelleyen",
+    "ru_word": "обескураживающий",
+    "ru_definition": "Лишающий уверенности, надежды или энтузиазма и тем самым часто сдерживающий действия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ümit kırıcı"
+                ],
+                "Azerbaijani": [
+                    "ümidqırıcı"
+                ],
+                "Uzbek": [
+                    "umidsizlantiruvchi"
+                ],
+                "Uyghur": [
+                    "ئۈمىدسىزلەندۈرىدىغان"
+                ],
+                "Kazakh": [
+                    "үміт үздіретін"
+                ],
+                "Kyrgyz": [
+                    "үмүт үзүүчү"
+                ],
+                "Karakalpak": [
+                    "úmitsizlendirioshi"
+                ],
+                "Tatar": [
+                    "өметсезләндергеч"
+                ],
+                "Bashkir": [
+                    "өмөтһөҙләндереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻngilni qoldiradigan"
+                ],
+                "Uyghur": [
+                    "كۆڭۈلنى ياندۇرىدىغان"
+                ],
+                "Kazakh": [
+                    "көңіл қайтаратын"
+                ],
+                "Kyrgyz": [
+                    "көңүл калтырган"
+                ],
+                "Tatar": [
+                    "күңелсезләндергеч"
+                ],
+                "Bashkir": [
+                    "күңелде төшөрөүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "кайратты кайтарган"
+                ],
+                "Karakalpak": [
+                    "qaytarǵısh"
+                ],
+                "Bashkir": [
+                    "ҡаушатыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "тоскоол болуучу"
+                ],
+                "Karakalpak": [
+                    "tosqınlıq etioshi"
+                ],
+                "Tatar": [
+                    "төшенкелеккә бирелүче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ruhdan salan"
+                ],
+                "Turkmen": [
+                    "ruhdan düşüriji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məyusedici"
+                ],
+                "Uyghur": [
+                    "مەيۈسلەندۈرىدىغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ynamsyzlandyryjy"
+                ],
+                "Karakalpak": [
+                    "ıqlassızlandırıoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ruhsizlantiruvchi"
+                ],
+                "Uyghur": [
+                    "روھسىزلاندۇرىدىغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yıldırıcı",
+                    "caydırıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "heves kırıcı",
+                    "meyus edici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həvəsdən salan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "soyuq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "göwün götermeýän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "päsgel beriji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shashtni qaytaradigan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жігерсіздендіретін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бетін қайтаратын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тауын шағатын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "демди баскан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ruoxlandırmaytuǵın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "куркыткыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыюсызландыручы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ихтыярҙы ҡаҡшатыусы"
+                ]
+            }
+        }
+    ]
+}
+```
+

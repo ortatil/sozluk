@@ -1,0 +1,81 @@
+{
+    "id": "i76684",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "turkey stew",
+    "en_definition": "a stew made with turkey",
+    "tr_word": "hindi yahnisi",
+    "tr_definition": "hindi eti ile yapılan bir tür sulu yemek",
+    "ru_word": "рагу из индейки",
+    "ru_definition": "блюдо из тушеного мяса индейки с овощами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kurka dimlamasi",
+                    "kurka go'shtli dimlama",
+                    "kurka go'shtli qaynatma"
+                ],
+                "Kazakh": [
+                    "күркетауық сорпасы",
+                    "күркетауық бұқтырмасы",
+                    "күркетауық қуырдағы"
+                ],
+                "Karakalpak": [
+                    "kúrke tauıq sorpası",
+                    "kúrke tauıq quırdaǵı",
+                    "kúrke tauıq yaxnası"
+                ],
+                "Tatar": [
+                    "күркә шулпасы",
+                    "күркә ашы",
+                    "күркә яхнисе"
+                ],
+                "Bashkir": [
+                    "күркә быҡтырмаһы",
+                    "күркә ите быҡтырмаһы",
+                    "күркә ите менән быҡтырылған аш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hindi yahnisi",
+                    "hindi haşlaması",
+                    "hindi türlüsü",
+                    "hindi yemeği"
+                ],
+                "Azerbaijani": [
+                    "hinduşka buğlaması",
+                    "hinduşka qovurması",
+                    "hinduşka xörəyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "induşka nahary",
+                    "induşka çorbasy",
+                    "induşka gowurmasy"
+                ],
+                "Kyrgyz": [
+                    "үндүк ширеси",
+                    "үндүк куурдагы",
+                    "үндүк шорпосу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۆدۈنە قورۇمىسى",
+                    "بۆدۈنە يەخمىسى",
+                    "بۆدۈنە شورپىسى"
+                ]
+            }
+        }
+    ]
+}

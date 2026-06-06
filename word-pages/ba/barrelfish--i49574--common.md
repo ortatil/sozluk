@@ -1,0 +1,114 @@
+# Barrelfish
+| Field | Detail |
+|---|---|
+| **ID** | i49574 |
+| **English** | barrelfish |
+| **Type** | noun |
+| **Definition** | blackish fish of New England waters |
+| **Source** | common |
+| **Ortatil** | karabalıq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i49574",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "barrelfish",
+    "en_definition": "blackish fish of New England waters",
+    "tr_word": "fıçı balığı",
+    "tr_definition": "New England sularında bulunan, siyahımsı renkte bir balık türü (Hyperoglyphe perciformis).",
+    "ru_word": "бочкорыб",
+    "ru_definition": "черноватая рыба, обитающая в водах Новой Англии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karabalık"
+                ],
+                "Azerbaijani": [
+                    "qara balıq"
+                ],
+                "Turkmen": [
+                    "gara balyk",
+                    "gara deňiz balygy"
+                ],
+                "Uzbek": [
+                    "qora baliq"
+                ],
+                "Uyghur": [
+                    "قارا بېلىق"
+                ],
+                "Kazakh": [
+                    "қара балық"
+                ],
+                "Kyrgyz": [
+                    "кара балык"
+                ],
+                "Karakalpak": [
+                    "qara balıq"
+                ],
+                "Tatar": [
+                    "кара балык"
+                ],
+                "Bashkir": [
+                    "ҡара балыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۇڭ بېلىق"
+                ],
+                "Kyrgyz": [
+                    "деңиз балыгы"
+                ],
+                "Karakalpak": [
+                    "teńiz balıǵı"
+                ],
+                "Tatar": [
+                    "диңгез балыгы"
+                ],
+                "Bashkir": [
+                    "диңгеҙ балығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fıçı balığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çəlləkbalığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chuqur suv balig'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұхит балығы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,97 @@
+{
+    "id": "i64206",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "right to life",
+    "en_definition": "the right to live",
+    "tr_word": "yaşam hakkı",
+    "tr_definition": "bir bireyin hayatta kalma ve can güvenliğinin korunması konusundaki temel hakkı",
+    "ru_word": "право на жизнь",
+    "ru_definition": "неотъемлемое право человека на сохранение жизни и защиту от незаконного лишения жизни",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaşama hakkı"
+                ],
+                "Azerbaijani": [
+                    "yaşamaq hüququ"
+                ],
+                "Turkmen": [
+                    "ýaşamak hukugy"
+                ],
+                "Uzbek": [
+                    "yashash huquqi"
+                ],
+                "Uyghur": [
+                    "ياشاش ھوقۇقى"
+                ],
+                "Kyrgyz": [
+                    "жашоо укугу"
+                ],
+                "Karakalpak": [
+                    "jasau huqıqı"
+                ],
+                "Tatar": [
+                    "яшәү хокукы"
+                ],
+                "Bashkir": [
+                    "йәшәү хоҡуғы",
+                    "йәшәүгә хоҡуҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayat hakkı"
+                ],
+                "Azerbaijani": [
+                    "həyat hüququ"
+                ],
+                "Uzbek": [
+                    "hayot huquqi"
+                ],
+                "Uyghur": [
+                    "ھاياتلىق ھوقۇقى"
+                ],
+                "Tatar": [
+                    "хәят хокукы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ömür hukugy"
+                ],
+                "Kazakh": [
+                    "өмір сүру құқығы"
+                ],
+                "Kyrgyz": [
+                    "өмүр сүрүү укугу"
+                ],
+                "Karakalpak": [
+                    "ómir súrio huqıqı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jan hukugy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тіршілік ету құқығы"
+                ]
+            }
+        }
+    ]
+}

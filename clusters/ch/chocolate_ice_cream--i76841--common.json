@@ -1,0 +1,64 @@
+{
+    "id": "i76841",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chocolate ice cream",
+    "en_definition": "ice cream flavored with chocolate",
+    "tr_word": "çikolatalı dondurma",
+    "tr_definition": "çikolata ile tatlandırılmış dondurma",
+    "ru_word": "шоколадное мороженое",
+    "ru_definition": "мороженое со вкусом шоколада",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çikolatalı dondurma"
+                ],
+                "Azerbaijani": [
+                    "şokoladlı dondurma",
+                    "şokoladlı buzqaymaq"
+                ],
+                "Turkmen": [
+                    "şokoladly doňdurma",
+                    "şokoladly buzgaýmak"
+                ],
+                "Uzbek": [
+                    "shokoladli muzqaymoq",
+                    "shokoladli muzqaymoqlar"
+                ],
+                "Uyghur": [
+                    "شوكولاتىلىق ماروژنى",
+                    "شوكولاتىلىق توڭدۇرما"
+                ],
+                "Kazakh": [
+                    "шоколад балмұздағы",
+                    "шоколадты балмұздақ"
+                ],
+                "Kyrgyz": [
+                    "шоколадтуу балмуздак",
+                    "шоколад балмуздагы"
+                ],
+                "Karakalpak": [
+                    "shokoladlı muzdaq",
+                    "shokoladlı tońazıtpa"
+                ],
+                "Tatar": [
+                    "шоколадлы туңдырма",
+                    "шоколадлы боз"
+                ],
+                "Bashkir": [
+                    "шоколадлы туңдырма",
+                    "шоколадлы морозно"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kakaolu dondurma"
+                ]
+            }
+        }
+    ]
+}

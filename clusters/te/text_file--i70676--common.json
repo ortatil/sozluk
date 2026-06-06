@@ -1,0 +1,101 @@
+{
+    "id": "i70676",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "text file",
+    "en_definition": "(computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters",
+    "tr_word": "metin dosyası",
+    "tr_definition": "Yalnızca karakterlerden oluşan ve genellikle ASCII veya UTF-8 gibi standart karakter kodlamalarını kullanan bilgisayar dosyası.",
+    "ru_word": "текстовый файл",
+    "ru_definition": "Компьютерный файл, содержащий текстовые данные, обычно представленные в виде последовательности символов в кодировке ASCII или других стандартах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazı dosyası"
+                ],
+                "Azerbaijani": [
+                    "yazı sənədi"
+                ],
+                "Turkmen": [
+                    "ýazgy faýly"
+                ],
+                "Uyghur": [
+                    "يېزىق ھۆججىتى"
+                ],
+                "Kazakh": [
+                    "жазба файлы"
+                ],
+                "Kyrgyz": [
+                    "жазуу файлы"
+                ],
+                "Karakalpak": [
+                    "jazıo faylı"
+                ],
+                "Tatar": [
+                    "язма файл"
+                ],
+                "Bashkir": [
+                    "яҙма файл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "metin dosyası"
+                ],
+                "Azerbaijani": [
+                    "mətn faylı"
+                ],
+                "Turkmen": [
+                    "metin faýly"
+                ],
+                "Uzbek": [
+                    "matnli fayl",
+                    "matn hujjati"
+                ],
+                "Kazakh": [
+                    "мәтіндік файл",
+                    "мәтін файлы"
+                ],
+                "Tatar": [
+                    "мәтен файлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tekst faýly"
+                ],
+                "Uyghur": [
+                    "تېكىست ھۆججىتى"
+                ],
+                "Kyrgyz": [
+                    "тексттик файл"
+                ],
+                "Karakalpak": [
+                    "tekst faylı",
+                    "tekstlik fayl"
+                ],
+                "Tatar": [
+                    "текст файлы"
+                ],
+                "Bashkir": [
+                    "текст файлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каттоо файлы"
+                ]
+            }
+        }
+    ]
+}

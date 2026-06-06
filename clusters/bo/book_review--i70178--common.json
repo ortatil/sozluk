@@ -1,0 +1,122 @@
+{
+    "id": "i70178",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "book review",
+    "en_definition": "a critical review of a book (usually a recently published book)",
+    "tr_word": "kitap eleştirisi",
+    "tr_definition": "Bir kitabın (genellikle yeni yayımlanmış) içeriğini, tarzını ve değerini değerlendiren eleştirel yazı.",
+    "ru_word": "рецензия на книгу",
+    "ru_definition": "Критический отзыв о книге (обычно недавно опубликованной), содержащий её анализ и оценку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kitap eleştirisi",
+                    "kitap tahlili",
+                    "kitap tanıtımı",
+                    "kitap incelemesi"
+                ],
+                "Azerbaijani": [
+                    "kitab tənqidi"
+                ],
+                "Turkmen": [
+                    "kitap syny",
+                    "kitap tankydy"
+                ],
+                "Uzbek": [
+                    "kitob sharhi"
+                ],
+                "Uyghur": [
+                    "كىتاب تەقرىزى",
+                    "كىتاب ئوبزورى"
+                ],
+                "Kazakh": [
+                    "кітапқа шолу",
+                    "кітап сыны"
+                ],
+                "Kyrgyz": [
+                    "китепке сын"
+                ],
+                "Karakalpak": [
+                    "kitapqa sın",
+                    "kitapqa pikir",
+                    "kitap taqıyzı"
+                ],
+                "Tatar": [
+                    "китап тәнкыйте",
+                    "китап бәяләмәсе"
+                ],
+                "Bashkir": [
+                    "китапҡа баһа",
+                    "китапҡа тәнҡит",
+                    "китапҡа күҙәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "resenziya"
+                ],
+                "Kazakh": [
+                    "рецензия"
+                ],
+                "Kyrgyz": [
+                    "рецензия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "syn"
+                ],
+                "Kyrgyz": [
+                    "сын-пикир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taqriz",
+                    "tanqid"
+                ],
+                "Uyghur": [
+                    "تەقرىز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rəy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "пікір"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәнкыйть"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәяләмә"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+# Topeka
+| Field | Detail |
+|---|---|
+| **ID** | i84390 |
+| **English** | topeka |
+| **Type** | noun |
+| **Definition** | the capital of the state of Kansas; located in eastern Kansas on the Kansas river |
+| **Source** | common |
+| **Ortatil** | topeka |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **topeka** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| توپېكا | topeka |
+| **Kazakh** | |
+| Топика | topika |
+| **Kyrgyz** | |
+| Топика | topika |
+| **Tatar** | |
+| Топика | topika |
+| **Bashkir** | |
+| Топика | topika |
+
+```json
+{
+    "id": "i84390",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "topeka",
+    "en_definition": "the capital of the state of Kansas; located in eastern Kansas on the Kansas river",
+    "tr_word": "Topeka",
+    "tr_definition": "Kansas eyaletinin başkenti; Kansas'ın doğusunda, Kansas Nehri üzerinde yer alır.",
+    "ru_word": "Топика",
+    "ru_definition": "столица штата Канзас; расположена в восточной части Канзаса на реке Канзас.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Topeka"
+                ],
+                "Azerbaijani": [
+                    "Topeka"
+                ],
+                "Turkmen": [
+                    "Topeka"
+                ],
+                "Uzbek": [
+                    "Topeka"
+                ],
+                "Uyghur": [
+                    "توپېكا"
+                ],
+                "Kazakh": [
+                    "Топика"
+                ],
+                "Kyrgyz": [
+                    "Топика"
+                ],
+                "Karakalpak": [
+                    "Topika"
+                ],
+                "Tatar": [
+                    "Топика"
+                ],
+                "Bashkir": [
+                    "Топика"
+                ]
+            }
+        }
+    ]
+}
+```
+

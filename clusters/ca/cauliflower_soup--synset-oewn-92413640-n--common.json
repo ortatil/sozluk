@@ -1,0 +1,73 @@
+{
+    "id": "synset-oewn-92413640-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cauliflower soup",
+    "en_definition": "a soup made from cauliflower.",
+    "tr_word": "karnabahar çorbası",
+    "tr_definition": "karnabahardan yapılan bir çorba türü.",
+    "ru_word": "суп из цветной капусты",
+    "ru_definition": "суп, приготовленный из цветной капусты.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gül kələm şorbası",
+                    "gül kələmi şorbası"
+                ],
+                "Turkmen": [
+                    "gülkelem çorbasy",
+                    "gülkelem şorbasy"
+                ],
+                "Uzbek": [
+                    "gulkaram sho'rvasi",
+                    "gulkaramli sho'rva"
+                ],
+                "Uyghur": [
+                    "گۈلكەرەم شورپىسى",
+                    "گۈلكەرەم سۇيۇقئېشى"
+                ],
+                "Kazakh": [
+                    "гүлді қырыққабат сорпасы",
+                    "гүлді қырыққабат шорбасы"
+                ],
+                "Kyrgyz": [
+                    "гүл капуста шорпосу",
+                    "гүлдүү капуста шорпосу"
+                ],
+                "Karakalpak": [
+                    "gúlkárám shorpası",
+                    "gúlkárámnen islengen shorpa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чәчәк кәбестә шулпасы",
+                    "чәчәк кәбестә ашы"
+                ],
+                "Bashkir": [
+                    "сәскәле кәбестә ашы",
+                    "сәскәле кәбестә шүрпәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karnabahar çorbası",
+                    "karnabit çorbası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кәбестә шулпасы"
+                ]
+            }
+        }
+    ]
+}

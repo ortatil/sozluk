@@ -1,0 +1,180 @@
+# Outnumber
+| Field | Detail |
+|---|---|
+| **ID** | i34892 |
+| **English** | outnumber |
+| **Type** | verb |
+| **Definition** | be larger in number |
+| **Source** | common |
+| **Ortatil** | köpäymäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i34892",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "outnumber",
+    "en_definition": "be larger in number",
+    "tr_word": "sayıca üstün olmak",
+    "tr_definition": "sayı bakımından bir başkasından daha fazla olmak",
+    "ru_word": "превосходить числом",
+    "ru_definition": "быть более многочисленным, чем кто-либо или что-либо другое",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köp bolmak"
+                ],
+                "Uzbek": [
+                    "koʻp boʻlmoq",
+                    "koʻpaymoq"
+                ],
+                "Uyghur": [
+                    "كۆپ بولماق"
+                ],
+                "Kazakh": [
+                    "көп болу"
+                ],
+                "Kyrgyz": [
+                    "көптүк кыл-"
+                ],
+                "Karakalpak": [
+                    "kóp bolıo",
+                    "kóplik etio"
+                ],
+                "Tatar": [
+                    "күбрәк булу"
+                ],
+                "Bashkir": [
+                    "күпселек булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "son jihatdan ustun boʻlmoq"
+                ],
+                "Uyghur": [
+                    "سانى كۆپ بولماق",
+                    "سان جەھەتتىن ئۈستۈن تۇرماق"
+                ],
+                "Kazakh": [
+                    "саны басым болу"
+                ],
+                "Kyrgyz": [
+                    "саны жагынан аш-"
+                ],
+                "Karakalpak": [
+                    "sanı jaǵınan asıp túsio"
+                ],
+                "Bashkir": [
+                    "һан яғынан өҫтөн булыу",
+                    "һаны күберәк булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sayıca üstün gelmek",
+                    "sayıca fazla olmak",
+                    "sayıca geçmek",
+                    "sayıca baskın gelmek"
+                ],
+                "Azerbaijani": [
+                    "sayca üstün olmaq",
+                    "sayca keçmək"
+                ],
+                "Turkmen": [
+                    "sany artyk bolmak"
+                ],
+                "Tatar": [
+                    "саны артык булу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "üstün gəlmək"
+                ],
+                "Turkmen": [
+                    "üstün çykmak"
+                ],
+                "Tatar": [
+                    "өстен булу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oshmoq"
+                ],
+                "Kazakh": [
+                    "асып түсу"
+                ],
+                "Kyrgyz": [
+                    "ашып түш-"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "басым болу"
+                ],
+                "Kyrgyz": [
+                    "басымдуулук кыл-"
+                ],
+                "Karakalpak": [
+                    "basım bolıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çoxluq təşkil etmək"
+                ],
+                "Tatar": [
+                    "күпчелекне тәшкил итү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "agdyklyk etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېشىپ كەتمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "арттырып ебәреү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,240 @@
+# Shortlist
+| Field | Detail |
+|---|---|
+| **ID** | i25018 |
+| **English** | shortlist |
+| **Type** | verb |
+| **Definition** | put someone or something on a short list |
+| **Source** | common |
+| **Ortatil** | saralaıtmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **iriktemäk** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سۈزمەك | süzmäk |
+| تاللىماق | tallimaq |
+| **Kazakh** | |
+| іріктеу | irikteu |
+| таңдау | tañdau |
+| сұрыптау | surıptau |
+| **Kyrgyz** | |
+| иргөө | irgöö |
+| ылгоо | ılgoo |
+
+```json
+{
+    "id": "i25018",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "shortlist",
+    "en_definition": "put someone or something on a short list",
+    "tr_word": "aday listesini daraltmak",
+    "tr_definition": "birini veya bir şeyi kısa aday listesine eklemek",
+    "ru_word": "включать в окончательный список",
+    "ru_definition": "включить кого-либо или что-либо в список отобранных кандидатов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saýlap almak"
+                ],
+                "Uyghur": [
+                    "تاللاپ چىقماق"
+                ],
+                "Kyrgyz": [
+                    "тандап алуу",
+                    "тандап тизмелөө"
+                ],
+                "Karakalpak": [
+                    "tańlap alıu"
+                ],
+                "Tatar": [
+                    "сайлап алу",
+                    "сайлап кую"
+                ],
+                "Bashkir": [
+                    "һайлап алыу",
+                    "һайлап ҡалдырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayırmak"
+                ],
+                "Azerbaijani": [
+                    "ayırmaq"
+                ],
+                "Tatar": [
+                    "айырып алу"
+                ],
+                "Bashkir": [
+                    "айырып алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "іріктеу"
+                ],
+                "Kyrgyz": [
+                    "иргөө"
+                ],
+                "Karakalpak": [
+                    "іrіkteu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elemek"
+                ],
+                "Turkmen": [
+                    "elermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seçmek"
+                ],
+                "Azerbaijani": [
+                    "seçmək",
+                    "seçib ayırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "daraltmak"
+                ],
+                "Karakalpak": [
+                    "saralau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tanlab olmoq"
+                ],
+                "Kazakh": [
+                    "таңдау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "исемлеккә кертү"
+                ],
+                "Bashkir": [
+                    "исемлеккә индереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aday göstermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "namizədliyini irəli sürmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jemlemek",
+                    "bellemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "saralamoq",
+                    "saralab olmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ajratib olmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۈزمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاللىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەييارلىق تىزىملىكىگە كىرگۈزمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сұрыптау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ылгоо"
+                ]
+            }
+        }
+    ]
+}
+```
+

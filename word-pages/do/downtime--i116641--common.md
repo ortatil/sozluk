@@ -1,0 +1,254 @@
+# Downtime
+| Field | Detail |
+|---|---|
+| **ID** | i116641 |
+| **English** | downtime |
+| **Type** | noun |
+| **Definition** | a period of time when something (as a machine or factory) is not operating (especially as a result of malfunctions) |
+| **Source** | common |
+| **Ortatil** | tohtalış |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tohtalış** | **ḍuraklama** | **bögelis** |
+|---|---|---|---|
+| Turkish | ❌ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ |
+| Turkmen | ❌ | ✅ | ✅ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ✅ |
+| Kyrgyz | ❌ | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 1 | 0.33 |
+| *Qarluq Subtotal* | 0.50 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0.20 | 0.40 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ | ✅ |
+| **O'TQ** | **2.63** | **1.70** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| тоқтау | toqtau |
+| бөгеліс | bögelis |
+| кідіріс | kidiris |
+| іркіліс | irkilis |
+| **Kyrgyz** | |
+| тыныгуу | tınıguu |
+| бөжөл | böjöl |
+| **Tatar** | |
+| тукталыш | tuktalış |
+| эшсезлек | eşsezlek |
+| тәнәфес | tänäfes |
+| **Bashkir** | |
+| туҡталыш | tuqtalış |
+| торғонлоҡ | torğonloq |
+| бөшөрөү | böşöröü |
+
+```json
+{
+    "id": "i116641",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "downtime",
+    "en_definition": "a period of time when something (as a machine or factory) is not operating (especially as a result of malfunctions)",
+    "tr_word": "atıl süre",
+    "tr_definition": "bir makinenin veya fabrikanın (özellikle arıza nedeniyle) çalışmadığı süre.",
+    "ru_word": "время простоя",
+    "ru_definition": "период времени, когда что-либо (например, машина или завод) не работает (особенно в результате неисправностей).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tətil"
+                ],
+                "Uzbek": [
+                    "to'xtalish",
+                    "to'xtab qolish"
+                ],
+                "Uyghur": [
+                    "توختاپ قېلىش ۋاقتى"
+                ],
+                "Kazakh": [
+                    "тоқтау",
+                    "тоқтап тұру"
+                ],
+                "Kyrgyz": [
+                    "токтоп калуу"
+                ],
+                "Karakalpak": [
+                    "toqtalıs",
+                    "toqtap qalıo"
+                ],
+                "Tatar": [
+                    "тукталыш",
+                    "туктап тору"
+                ],
+                "Bashkir": [
+                    "туҡталыш",
+                    "туҡтап тороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "duraklama"
+                ],
+                "Azerbaijani": [
+                    "dayanma",
+                    "durğunluq"
+                ],
+                "Turkmen": [
+                    "durma"
+                ],
+                "Bashkir": [
+                    "торғонлоҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boş süre"
+                ],
+                "Uyghur": [
+                    "بوش تۇرۇش ۋاقتى"
+                ],
+                "Bashkir": [
+                    "бөшөрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bögelşik"
+                ],
+                "Kazakh": [
+                    "бөгеліс"
+                ],
+                "Karakalpak": [
+                    "bógelis"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "işlemezlik"
+                ],
+                "Uzbek": [
+                    "ishlamay turish"
+                ],
+                "Kyrgyz": [
+                    "иштебей калуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fasilə",
+                    "işsizlik"
+                ],
+                "Tatar": [
+                    "эшсезлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uzilish"
+                ],
+                "Karakalpak": [
+                    "úzililis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тыныгуу"
+                ],
+                "Tatar": [
+                    "тәнәфес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kesinti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "atıl süre"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arıza süresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "boş durma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bekor turish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىشتىن توختاش ۋاقتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кідіріс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іркіліс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бөжөл"
+                ]
+            }
+        }
+    ]
+}
+```
+

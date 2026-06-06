@@ -1,0 +1,67 @@
+{
+    "id": "i10701",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "oiled",
+    "en_definition": "treated with oil",
+    "tr_word": "yağlanmış",
+    "tr_definition": "yağ ile işlenmiş veya üzerine yağ sürülmüş",
+    "ru_word": "промасленный",
+    "ru_definition": "обработанный или пропитанный маслом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağlı",
+                    "yağlanmış"
+                ],
+                "Azerbaijani": [
+                    "yağlanmış",
+                    "yağlı"
+                ],
+                "Turkmen": [
+                    "ýaglanan",
+                    "ýagly"
+                ],
+                "Uzbek": [
+                    "yogʻlangan"
+                ],
+                "Kyrgyz": [
+                    "майланган"
+                ],
+                "Tatar": [
+                    "майланган",
+                    "майлы"
+                ],
+                "Bashkir": [
+                    "майланған",
+                    "майлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "moylangan"
+                ],
+                "Uyghur": [
+                    "مايلانغان",
+                    "مايلىق"
+                ],
+                "Kazakh": [
+                    "майланған",
+                    "майлы"
+                ],
+                "Kyrgyz": [
+                    "майлуу"
+                ],
+                "Karakalpak": [
+                    "maylanǵan",
+                    "maylı"
+                ]
+            }
+        }
+    ]
+}

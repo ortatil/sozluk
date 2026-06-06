@@ -1,0 +1,60 @@
+{
+    "id": "i72485",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "question mark",
+    "en_definition": "a punctuation mark (?) placed at the end of a sentence to indicate a question",
+    "tr_word": "soru işareti",
+    "tr_definition": "Bir cümlenin sonuna soru belirtmek amacıyla konulan noktalama işareti (?)",
+    "ru_word": "вопросительный знак",
+    "ru_definition": "знак препинания (?), который ставится в конце предложения для выражения вопроса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soru işareti"
+                ],
+                "Azerbaijani": [
+                    "sual işarəsi"
+                ],
+                "Turkmen": [
+                    "sorag alamaty",
+                    "sorag belgisi"
+                ],
+                "Uzbek": [
+                    "so'roq belgisi"
+                ],
+                "Uyghur": [
+                    "سوئال بەلگىسى",
+                    "سوئال ئىشارىتى"
+                ],
+                "Kazakh": [
+                    "сұрақ белгісі"
+                ],
+                "Kyrgyz": [
+                    "суроо белгиси"
+                ],
+                "Karakalpak": [
+                    "sorao belgisi"
+                ],
+                "Tatar": [
+                    "сорау билгесе"
+                ],
+                "Bashkir": [
+                    "һорау билдәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istifham işareti"
+                ],
+                "Uzbek": [
+                    "istifhom belgisi"
+                ]
+            }
+        }
+    ]
+}

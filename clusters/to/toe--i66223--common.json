@@ -1,0 +1,80 @@
+{
+    "id": "i66223",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "toe",
+    "en_definition": "one of the digits of the foot",
+    "tr_word": "ayak parmağı",
+    "tr_definition": "ayağın uç kısımlarında bulunan beş çıkıntıdan her biri",
+    "ru_word": "палец ноги",
+    "ru_definition": "одна из пяти оконечностей стопы человека или животного",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayak parmağı"
+                ],
+                "Azerbaijani": [
+                    "ayaq barmağı"
+                ],
+                "Turkmen": [
+                    "ayak barmagy"
+                ],
+                "Uzbek": [
+                    "oyoq barmog'i"
+                ],
+                "Kazakh": [
+                    "аяқ саусағы"
+                ],
+                "Karakalpak": [
+                    "ayaq barmaǵı"
+                ],
+                "Tatar": [
+                    "аяк бармагы"
+                ],
+                "Bashkir": [
+                    "аяҡ бармағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "barmak"
+                ],
+                "Uzbek": [
+                    "barmoq"
+                ],
+                "Uyghur": [
+                    "بارماق"
+                ],
+                "Kyrgyz": [
+                    "бармак"
+                ],
+                "Karakalpak": [
+                    "barmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت بارمىقى"
+                ],
+                "Kyrgyz": [
+                    "буттун манжасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бақай",
+                    "башпай"
+                ]
+            }
+        }
+    ]
+}

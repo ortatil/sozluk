@@ -1,0 +1,194 @@
+# Pop in
+| Field | Detail |
+|---|---|
+| **ID** | i31317 |
+| **English** | pop in |
+| **Type** | verb |
+| **Definition** | enter briefly |
+| **Source** | common |
+| **Ortatil** | girişmäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i31317",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "pop in",
+    "en_definition": "enter briefly",
+    "tr_word": "uğramak",
+    "tr_definition": "bir yere kısa bir süreliğine girmek veya ziyaret etmek",
+    "ru_word": "заскочить",
+    "ru_definition": "зайти куда-либо ненадолго, мимоходом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "girişmek"
+                ],
+                "Turkmen": [
+                    "girip çykmak"
+                ],
+                "Uzbek": [
+                    "kirib o'tmoq",
+                    "kelib ketmoq"
+                ],
+                "Uyghur": [
+                    "كىرىپ چىقماق"
+                ],
+                "Kazakh": [
+                    "кіріп шығу"
+                ],
+                "Kyrgyz": [
+                    "кире качуу"
+                ],
+                "Karakalpak": [
+                    "kіrіp shıǵu"
+                ],
+                "Tatar": [
+                    "кереп чыгу",
+                    "кереп китү"
+                ],
+                "Bashkir": [
+                    "килеп инеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "baş çəkmək"
+                ],
+                "Turkmen": [
+                    "baş sokmak"
+                ],
+                "Uzbek": [
+                    "bosh suqmoq"
+                ],
+                "Uyghur": [
+                    "باش تىقماق"
+                ],
+                "Kazakh": [
+                    "бас сұғу"
+                ],
+                "Kyrgyz": [
+                    "баш багуу"
+                ],
+                "Karakalpak": [
+                    "bas sұǵu"
+                ],
+                "Tatar": [
+                    "баш тыгу"
+                ],
+                "Bashkir": [
+                    "баш төртөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "soxulmaq"
+                ],
+                "Turkmen": [
+                    "sowlanyp geçmek"
+                ],
+                "Uyghur": [
+                    "سوقۇلۇپ كىرمەك"
+                ],
+                "Kazakh": [
+                    "соға кету"
+                ],
+                "Kyrgyz": [
+                    "согуп кетүү"
+                ],
+                "Karakalpak": [
+                    "soǵıp ótu"
+                ],
+                "Tatar": [
+                    "сугылып үтү"
+                ],
+                "Bashkir": [
+                    "һуғылып китеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uğramak"
+                ],
+                "Turkmen": [
+                    "ugraşynda girmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yo'qlab o'tmoq"
+                ],
+                "Uyghur": [
+                    "يوقلاپ ئۆتمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dalıvermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gözükmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəymək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yolüstü girmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұрыла кету"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кайрылып өтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ингеләп сығыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

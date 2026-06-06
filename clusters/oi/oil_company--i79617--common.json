@@ -1,0 +1,89 @@
+{
+    "id": "i79617",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oil company",
+    "en_definition": "a company that sells oil",
+    "tr_word": "petrol şirketi",
+    "tr_definition": "Petrol çıkaran, işleyen veya satan ticari kuruluş.",
+    "ru_word": "нефтяная компания",
+    "ru_definition": "Компания, занимающаяся добычей, переработкой или продажей нефти.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "neft şirkəti",
+                    "neft müəssisəsi",
+                    "neft qurumu"
+                ],
+                "Turkmen": [
+                    "nebit kärhanasy",
+                    "nebit kompaniýasy",
+                    "nebit edarasy"
+                ],
+                "Uzbek": [
+                    "neft korxonasi",
+                    "neft shirkati",
+                    "neft jamiyati"
+                ],
+                "Uyghur": [
+                    "نېفىت شىركىتى"
+                ],
+                "Tatar": [
+                    "нефть ширкәте",
+                    "нефть җәмгыяте",
+                    "нефть оешмасы"
+                ],
+                "Bashkir": [
+                    "нефт компанияһы",
+                    "нефт ойошмаһы",
+                    "нефт ширҡәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ماي شىركىتى"
+                ],
+                "Kazakh": [
+                    "мұнай компаниясы",
+                    "мұнай кәсіпорны",
+                    "мұнай мекемесі"
+                ],
+                "Kyrgyz": [
+                    "мунай ишканасы",
+                    "мунай компаниясы",
+                    "мунай коому"
+                ],
+                "Karakalpak": [
+                    "mұnay shirkati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "petrol şirketi",
+                    "petrol kuruluşu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akaryakıt firması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mұnay kárxanası"
+                ]
+            }
+        }
+    ]
+}

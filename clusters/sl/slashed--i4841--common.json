@@ -1,0 +1,157 @@
+{
+    "id": "i4841",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "slashed",
+    "en_definition": "(used of rates or prices) reduced usually sharply",
+    "tr_word": "indirilmiş",
+    "tr_definition": "fiyat veya oranlar için kullanılan, genellikle keskin bir şekilde düşürülmüş",
+    "ru_word": "сильно сниженный",
+    "ru_definition": "используется в отношении ставок или цен, обычно резко уменьшенных",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "azaldılmış"
+                ],
+                "Turkmen": [
+                    "arzanladylan",
+                    "aşakladylan"
+                ],
+                "Uyghur": [
+                    "ئارزانلىتىلغان"
+                ],
+                "Kazakh": [
+                    "арзандатылған"
+                ],
+                "Kyrgyz": [
+                    "арзандатылган"
+                ],
+                "Karakalpak": [
+                    "arzandatılǵan"
+                ],
+                "Tatar": [
+                    "арзанайтылган"
+                ],
+                "Bashkir": [
+                    "арзанайтылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düşürülmüş"
+                ],
+                "Uzbek": [
+                    "tushirilgan"
+                ],
+                "Uyghur": [
+                    "چۈشۈرۈلگەن"
+                ],
+                "Karakalpak": [
+                    "túsirilgen"
+                ],
+                "Tatar": [
+                    "төшерелгән"
+                ],
+                "Bashkir": [
+                    "төшөрөлгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kırılmış",
+                    "kesilmiş"
+                ],
+                "Azerbaijani": [
+                    "kəsilmiş"
+                ],
+                "Turkmen": [
+                    "kemeldilen",
+                    "kesilen"
+                ],
+                "Uzbek": [
+                    "kesilgan"
+                ],
+                "Kazakh": [
+                    "кесілген",
+                    "қысқартылған"
+                ],
+                "Kyrgyz": [
+                    "кесилген"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كېمەيتىلگەن"
+                ],
+                "Karakalpak": [
+                    "kemeytilgen"
+                ],
+                "Tatar": [
+                    "киметелгән"
+                ],
+                "Bashkir": [
+                    "кәметелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەنلىتىلگەن"
+                ],
+                "Kazakh": [
+                    "төмендетілген"
+                ],
+                "Kyrgyz": [
+                    "төмөндөтүлгөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "indirilmiş"
+                ],
+                "Azerbaijani": [
+                    "endirilmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ucuzlatılmış"
+                ],
+                "Azerbaijani": [
+                    "ucuzlaşdırılmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "arzonlashgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pasaytirilgan"
+                ]
+            }
+        }
+    ]
+}

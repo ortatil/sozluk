@@ -1,0 +1,132 @@
+{
+    "id": "i50645",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bed linen",
+    "en_definition": "linen or cotton articles for a bed (as sheets and pillowcases)",
+    "tr_word": "nevresim takımı",
+    "tr_definition": "Çarşaf, yastık kılıfı ve yorgan kılıfı gibi yatakta kullanılan tekstil ürünlerinin tamamı.",
+    "ru_word": "постельное бельё",
+    "ru_definition": "Изделия из ткани, используемые для обустройства постели (простыни, пододеяльники, наволочки).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "döşək ağı"
+                ],
+                "Turkmen": [
+                    "düşek-ýorgan",
+                    "düşeklik"
+                ],
+                "Uzbek": [
+                    "toʻshak-oʻrin"
+                ],
+                "Uyghur": [
+                    "تۆشەك تاشلىقى"
+                ],
+                "Kazakh": [
+                    "төсек-орын",
+                    "төсек жабдығы"
+                ],
+                "Kyrgyz": [
+                    "төшөк-орун",
+                    "төшөк-кам",
+                    "төшөнчү",
+                    "төшөк-жууркан"
+                ],
+                "Karakalpak": [
+                    "tósek-orın",
+                    "tósek jabdıqları",
+                    "tósek-jayma"
+                ],
+                "Tatar": [
+                    "түшәк-ястык"
+                ],
+                "Bashkir": [
+                    "төшәк-яҫтыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئورۇن-كۆرپە تاشلىقى",
+                    "ئورۇن-كۆرپە جابدۇقلىرى"
+                ],
+                "Tatar": [
+                    "урын-җир кирәк-яраклары"
+                ],
+                "Bashkir": [
+                    "урын-ер кәрәк-ярағы",
+                    "урын-ер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yatak takımı",
+                    "yatak örtüsü"
+                ],
+                "Azerbaijani": [
+                    "yataq dəsti",
+                    "yataq ağları"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çarşaf"
+                ],
+                "Uzbek": [
+                    "choyshablar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nevresim takımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mələfə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýorgan-düşek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻrpa-yostiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақ жайма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "урын-җир"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "id": "i80696",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "veterinary school",
+    "en_definition": "a school teaching veterinary medicine",
+    "tr_word": "veteriner fakültesi",
+    "tr_definition": "veteriner hekimliği eğitimi veren yükseköğretim kurumu",
+    "ru_word": "ветеринарный факультет",
+    "ru_definition": "учебное заведение или подразделение вуза, обучающее ветеринарной медицине",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayvan tıbbı okulu"
+                ],
+                "Azerbaijani": [
+                    "heyvan həkimliyi məktəbi"
+                ],
+                "Turkmen": [
+                    "haýwanat lukmançylyk mekdebi"
+                ],
+                "Uzbek": [
+                    "hayvonot tibbiyoti dargohi"
+                ],
+                "Uyghur": [
+                    "ھايۋانات تىبابەت مەكتىپى"
+                ],
+                "Tatar": [
+                    "хайван табиблары мәктәбе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "veteriner fakültesi"
+                ],
+                "Turkmen": [
+                    "weterinar mekdebi"
+                ],
+                "Uyghur": [
+                    "ۋېتېرىنارىيە مەكتىپى"
+                ],
+                "Kyrgyz": [
+                    "ветеринардык окуу жайы"
+                ],
+                "Bashkir": [
+                    "ветеринария мәктәбе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "مال دوختۇرلۇق مەكتىپى"
+                ],
+                "Kazakh": [
+                    "малдәрігерлік мектеп",
+                    "малдәрігерлік училище",
+                    "малдәрігерлік оқу орны"
+                ],
+                "Kyrgyz": [
+                    "мал доктурлук мектеби"
+                ],
+                "Karakalpak": [
+                    "mal dárigerlik mektebi",
+                    "mal dárigerlik oqıo ornı",
+                    "mal hákimlik mektebi"
+                ],
+                "Bashkir": [
+                    "мал табиптары мәктәбе",
+                    "мал табиптары училищеһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baytar mektebi"
+                ],
+                "Azerbaijani": [
+                    "baytarlıq məktəbi",
+                    "baytarlıq fakültəsi"
+                ],
+                "Turkmen": [
+                    "baýtalçylyk mekdebi"
+                ],
+                "Uzbek": [
+                    "baytarlik maktabi",
+                    "baytarlik bilim yurti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мал табиблары мәктәбе",
+                    "мал табиблары укуханәсе"
+                ]
+            }
+        }
+    ]
+}

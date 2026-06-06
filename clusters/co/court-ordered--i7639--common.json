@@ -1,0 +1,142 @@
+{
+    "id": "i7639",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "court-ordered",
+    "en_definition": "ordered by a court of law",
+    "tr_word": "mahkeme kararıyla olan",
+    "tr_definition": "bir hukuk mahkemesi tarafından emredilen veya karara bağlanan",
+    "ru_word": "вынесенный судом",
+    "ru_definition": "предписанный или установленный судом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sud karary bilen",
+                    "sud tarapyndan buýurlan"
+                ],
+                "Uyghur": [
+                    "سوت تەرىپىدىن بۇيرۇلغان",
+                    "سوتنىڭ قارارى بىلەن"
+                ],
+                "Kazakh": [
+                    "сот шешімімен",
+                    "сот бұйрығымен",
+                    "сот үкімімен"
+                ],
+                "Kyrgyz": [
+                    "соттук",
+                    "сот тарабынан буйрулган",
+                    "соттун чечими менен"
+                ],
+                "Karakalpak": [
+                    "sud buyırǵan",
+                    "sud qararı menen",
+                    "sudlıq"
+                ],
+                "Bashkir": [
+                    "суд ҡарары менән",
+                    "суд бойороғо буйынса",
+                    "суд тарафынан билдәләнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mahkeme kararlı",
+                    "mahkemece emredilmiş"
+                ],
+                "Azerbaijani": [
+                    "məhkəmə qərarı ilə",
+                    "məhkəmə tərəfindən verilmiş",
+                    "məhkəmə hökmü ilə",
+                    "məhkəmə əmri ilə"
+                ],
+                "Uzbek": [
+                    "mahkama buyrug'i bilan",
+                    "mahkama hukmi bilan"
+                ],
+                "Uyghur": [
+                    "مەھكىمە بۇيرۇقى بىلەن"
+                ],
+                "Tatar": [
+                    "мәхкәмә карары белән",
+                    "мәхкәмә кушуы буенча"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hökümli"
+                ],
+                "Tatar": [
+                    "хөкем ителгән"
+                ],
+                "Bashkir": [
+                    "хөкөм ҡарары менән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kanuny"
+                ],
+                "Uyghur": [
+                    "قانۇنىي بۇيرۇق قىلىنغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sud qarori bilan",
+                    "sud amri bilan"
+                ],
+                "Kazakh": [
+                    "сот арқылы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "adli emirli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kazai"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мыйзамдуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "májbúriy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шәргый"
+                ]
+            }
+        }
+    ]
+}

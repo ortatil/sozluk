@@ -1,0 +1,90 @@
+{
+    "id": "i9998",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "positive",
+    "en_definition": "greater than zero",
+    "tr_word": "pozitif",
+    "tr_definition": "sıfırdan büyük olan değer",
+    "ru_word": "положительный",
+    "ru_definition": "число, которое больше нуля",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müspet"
+                ],
+                "Azerbaijani": [
+                    "müsbət"
+                ],
+                "Turkmen": [
+                    "müsbet"
+                ],
+                "Uzbek": [
+                    "musbat"
+                ],
+                "Uyghur": [
+                    "مۇسبەت"
+                ],
+                "Kyrgyz": [
+                    "мусбат"
+                ],
+                "Karakalpak": [
+                    "músbet"
+                ],
+                "Tatar": [
+                    "мөсбәт"
+                ],
+                "Bashkir": [
+                    "мөсбәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "oňyn"
+                ],
+                "Kazakh": [
+                    "оң",
+                    "оңды"
+                ],
+                "Kyrgyz": [
+                    "оң"
+                ],
+                "Karakalpak": [
+                    "oń"
+                ],
+                "Tatar": [
+                    "уң"
+                ],
+                "Bashkir": [
+                    "ыңғай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "artı"
+                ],
+                "Azerbaijani": [
+                    "artı"
+                ],
+                "Uzbek": [
+                    "ortiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاكتىپ"
+                ]
+            }
+        }
+    ]
+}

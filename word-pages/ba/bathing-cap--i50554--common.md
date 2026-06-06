@@ -1,0 +1,151 @@
+# Bathing cap
+| Field | Detail |
+|---|---|
+| **ID** | i50554 |
+| **English** | bathing cap |
+| **Type** | noun |
+| **Definition** | a tight-fitting cap that keeps hair dry while swimming |
+| **Source** | common |
+| **Ortatil** | bone |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i50554",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bathing cap",
+    "en_definition": "a tight-fitting cap that keeps hair dry while swimming",
+    "tr_word": "bone",
+    "tr_definition": "Yüzerken saçların ıslanmasını önlemek için başa sıkıca oturan başlık",
+    "ru_word": "шапочка для плавания",
+    "ru_definition": "плотно прилегающий головной убор, который сохраняет волосы сухими во время плавания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüzme bonesi"
+                ],
+                "Azerbaijani": [
+                    "üzmə papağı"
+                ],
+                "Kazakh": [
+                    "жүзу қалпағы",
+                    "жүзу бөрігі"
+                ],
+                "Karakalpak": [
+                    "júziú qalpaǵı"
+                ],
+                "Tatar": [
+                    "йөзү башлыгы"
+                ],
+                "Bashkir": [
+                    "йөҙөү кәпәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwa düşülýän telpek"
+                ],
+                "Kazakh": [
+                    "суға түсу қалпағы"
+                ],
+                "Kyrgyz": [
+                    "сууда сүзүүчү калпакча",
+                    "суу калпакчасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzgüçülük papağı"
+                ],
+                "Kyrgyz": [
+                    "сүзүүчү калпак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "cho'milish qalpoqchasi"
+                ],
+                "Karakalpak": [
+                    "shómilúú qalpaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suzish qalpoqchasi"
+                ],
+                "Uyghur": [
+                    "سۇ ئۈزۈش قالپىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇ ئۈزۈش باش كىيىمى"
+                ],
+                "Tatar": [
+                    "су коену башлыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bone"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deniz bonesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havuz bonesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çimmək papağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýüzüş telpegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу инеү кәпәсе"
+                ]
+            }
+        }
+    ]
+}
+```
+

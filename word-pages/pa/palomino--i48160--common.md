@@ -1,0 +1,173 @@
+# Palomino
+| Field | Detail |
+|---|---|
+| **ID** | i48160 |
+| **English** | palomino |
+| **Type** | noun |
+| **Definition** | a horse of light tan or golden color with cream-colored or white mane and tail |
+| **Source** | common |
+| **Ortatil** | aqyal |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **aqyal** | **sarı** | **sämän** |
+|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ | ✅ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ❌ | ✅ |
+| Uyghur | ❌ | ❌ | ✅ |
+| Kazakh | ❌ | ✅ | ❌ |
+| Kyrgyz | ❌ | ✅ | ❌ |
+| Karakalpak | ✅ | ✅ | ❌ |
+| Tatar | ❌ | ✅ | ❌ |
+| Bashkir | ❌ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.33 | 0.33 |
+| *Qarluq Subtotal* | 0.50 | 0 | 1 |
+| *Qipchaq Subtotal* | 0.20 | 1 | 0 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |
+| **O'TQ** | **2.03** | **1.83** | **1.33** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سەمەندەر | sämändär |
+| سەمەن | sämän |
+| **Kazakh** | |
+| сары | sarı |
+| сарыала | sarıala |
+| **Kyrgyz** | |
+| сары | sarı |
+| **Tatar** | |
+| сары | sarı |
+| **Bashkir** | |
+| һары | harı |
+
+```json
+{
+    "id": "i48160",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "palomino",
+    "en_definition": "a horse of light tan or golden color with cream-colored or white mane and tail",
+    "tr_word": "palomino",
+    "tr_definition": "yele ve kuyruğu beyaz veya krem rengi olan, altın sarısı veya açık kahverengi tüylere sahip bir at türü",
+    "ru_word": "паломино",
+    "ru_definition": "лошадь золотисто-соловой масти с белой или кремовой гривой и хвостом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarı at"
+                ],
+                "Turkmen": [
+                    "sary",
+                    "saryýal"
+                ],
+                "Uyghur": [
+                    "سېرىق ئات"
+                ],
+                "Kazakh": [
+                    "сары",
+                    "сарыала"
+                ],
+                "Kyrgyz": [
+                    "сары"
+                ],
+                "Karakalpak": [
+                    "sarı",
+                    "sarı aqjal"
+                ],
+                "Tatar": [
+                    "сары",
+                    "сары ат"
+                ],
+                "Bashkir": [
+                    "һары",
+                    "һары ат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "açıq kürən"
+                ],
+                "Kazakh": [
+                    "ақжал сары"
+                ],
+                "Kyrgyz": [
+                    "ак жал"
+                ],
+                "Tatar": [
+                    "ак яллы сары ат"
+                ],
+                "Bashkir": [
+                    "аҡ яллы һары ат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "akýal"
+                ],
+                "Uzbek": [
+                    "oqyol"
+                ],
+                "Kyrgyz": [
+                    "ак боз"
+                ],
+                "Karakalpak": [
+                    "aqjal"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kürən"
+                ],
+                "Uzbek": [
+                    "saman",
+                    "saman ot"
+                ],
+                "Uyghur": [
+                    "سەمەندەر",
+                    "سەمەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "altın rengi at"
+                ],
+                "Turkmen": [
+                    "al"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kula"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səmənd"
+                ]
+            }
+        }
+    ]
+}
+```
+

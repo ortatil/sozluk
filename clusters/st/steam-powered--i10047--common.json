@@ -1,0 +1,109 @@
+{
+    "id": "i10047",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "steam-powered",
+    "en_definition": "powered by a steam engine",
+    "tr_word": "buharlı",
+    "tr_definition": "buhar makinesiyle çalışan",
+    "ru_word": "паровой",
+    "ru_definition": "приводимый в движение паровым двигателем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buharlı",
+                    "buhar gücüyle çalışan",
+                    "buhar kuvvetli"
+                ],
+                "Azerbaijani": [
+                    "buxarlı",
+                    "buxarla işləyən",
+                    "buxar güclü"
+                ],
+                "Turkmen": [
+                    "bug bilen işleýän",
+                    "bug güýji bilen işleýän"
+                ],
+                "Uzbek": [
+                    "bugʻli",
+                    "bugʻda ishlaydigan"
+                ],
+                "Karakalpak": [
+                    "buolı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bugly"
+                ],
+                "Kazakh": [
+                    "булы"
+                ],
+                "Kyrgyz": [
+                    "буулук"
+                ],
+                "Tatar": [
+                    "парлы"
+                ],
+                "Bashkir": [
+                    "парлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bugʻ kuchi bilan harakatlanuvchi"
+                ],
+                "Kazakh": [
+                    "бу күшімен жұмыс істейтін"
+                ],
+                "Kyrgyz": [
+                    "буу менен иштөөчү",
+                    "буу күчү менен жүрүүчү"
+                ],
+                "Karakalpak": [
+                    "buo kúshi menen isleytuǵın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پار بىلەن ھەرىكەتلىنىدىغان",
+                    "پار كۈچىدىكى",
+                    "پارلىق"
+                ],
+                "Tatar": [
+                    "пар белән эшләүче",
+                    "пар көче белән хәрәкәт итүче"
+                ],
+                "Bashkir": [
+                    "пар көсө менән эшләүсе",
+                    "пар менән йөрөтөлөүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бумен жүретін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "buo járdemindegi"
+                ]
+            }
+        }
+    ]
+}

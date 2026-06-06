@@ -1,0 +1,85 @@
+{
+    "id": "i114826",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "steel",
+    "en_definition": "an alloy of iron with small amounts of carbon; widely used in construction; mechanical properties can be varied over a wide range",
+    "tr_word": "çelik",
+    "tr_definition": "Demirin çok az miktarda karbonla birleşmesinden oluşan, inşaat ve sanayide yaygın olarak kullanılan sert ve dayanıklı alaşım.",
+    "ru_word": "сталь",
+    "ru_definition": "Сплав железа с углеродом, обладающий высокой прочностью и широко используемый в строительстве и промышленности.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "polat"
+                ],
+                "Azerbaijani": [
+                    "polad"
+                ],
+                "Turkmen": [
+                    "polat",
+                    "bolat"
+                ],
+                "Uzbek": [
+                    "po'lat",
+                    "folod"
+                ],
+                "Uyghur": [
+                    "پولات"
+                ],
+                "Kazakh": [
+                    "болат"
+                ],
+                "Kyrgyz": [
+                    "болот"
+                ],
+                "Karakalpak": [
+                    "bolat",
+                    "pulat"
+                ],
+                "Tatar": [
+                    "булат"
+                ],
+                "Bashkir": [
+                    "болат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "құрыш"
+                ],
+                "Kyrgyz": [
+                    "курч"
+                ],
+                "Tatar": [
+                    "корыч"
+                ],
+                "Bashkir": [
+                    "ҡорос"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çelik"
+                ],
+                "Azerbaijani": [
+                    "çelik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پولات-تۆمۈر"
+                ]
+            }
+        }
+    ]
+}

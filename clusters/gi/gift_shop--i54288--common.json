@@ -1,0 +1,123 @@
+{
+    "id": "i54288",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gift shop",
+    "en_definition": "a shop that sells miscellaneous articles appropriate as gifts",
+    "tr_word": "hediyelik eşya dükkanı",
+    "tr_definition": "hediye olarak verilmeye uygun çeşitli eşyaların satıldığı mağaza",
+    "ru_word": "сувенирный магазин",
+    "ru_definition": "магазин, в котором продаются различные товары, подходящие в качестве подарков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hediyelik eşya dükkanı",
+                    "hediyelik eşya mağazası"
+                ],
+                "Azerbaijani": [
+                    "hədiyyə mağazası",
+                    "hədiyyə dükanı"
+                ],
+                "Uzbek": [
+                    "hadya do'koni"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "armağan dükkanı"
+                ],
+                "Azerbaijani": [
+                    "ərməğan mağazası"
+                ],
+                "Uzbek": [
+                    "armug'onlar do'koni"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sowgatlar dükany"
+                ],
+                "Uyghur": [
+                    "سوۋغاتخانىس",
+                    "سوۋغات بۇيۇملىرى دۇكىنى"
+                ],
+                "Karakalpak": [
+                    "saoǵalar dúkáni"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sovg'alar do'koni"
+                ],
+                "Kazakh": [
+                    "сыйлықтар дүкені"
+                ],
+                "Karakalpak": [
+                    "sıylıqlar dúkáni"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "белектер дүкөнү",
+                    "белек-бечкек дүкөнү"
+                ],
+                "Tatar": [
+                    "бүләкләр кибете"
+                ],
+                "Bashkir": [
+                    "бүләктәр магазины",
+                    "бүләктәр кибете"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "peşgeşler dükany"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەقدىمات دۇكىنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәдесыйлар дүкені"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тартуулар дүкөнү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ядкарьләр кибете"
+                ]
+            }
+        }
+    ]
+}

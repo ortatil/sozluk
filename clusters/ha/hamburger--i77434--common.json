@@ -1,0 +1,107 @@
+{
+    "id": "i77434",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hamburger",
+    "en_definition": "a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients",
+    "tr_word": "hamburger",
+    "tr_definition": "İki dilim yuvarlak ekmek arasına yerleştirilen köfte, marul ve çeşitli soslarla hazırlanan sandviç.",
+    "ru_word": "гамбургер",
+    "ru_definition": "Вид сандвича, состоящий из рубленой жареной котлеты, подаваемой внутри разрезанной булки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "etli sandviç"
+                ],
+                "Azerbaijani": [
+                    "ətli sandviç"
+                ],
+                "Turkmen": [
+                    "etli çörek"
+                ],
+                "Kazakh": [
+                    "етті бөлке"
+                ],
+                "Kyrgyz": [
+                    "эттүү нан"
+                ],
+                "Tatar": [
+                    "итле күмәч",
+                    "итле камыр ашы"
+                ],
+                "Bashkir": [
+                    "итле күмәс",
+                    "итле бутәрброд"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "köfteli ekmek"
+                ],
+                "Uzbek": [
+                    "go'shtli non"
+                ],
+                "Uyghur": [
+                    "گۆشلۈك بولكا"
+                ],
+                "Karakalpak": [
+                    "goshtli nan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kotletli çörək"
+                ],
+                "Turkmen": [
+                    "kotletli çörek"
+                ],
+                "Kyrgyz": [
+                    "котлеттүү нан"
+                ],
+                "Karakalpak": [
+                    "kotletli nan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hamburger"
+                ],
+                "Uyghur": [
+                    "گامبۇرگېر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çörek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qiymali non"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бөлкелі котлет",
+                    "бөлке нан"
+                ]
+            }
+        }
+    ]
+}

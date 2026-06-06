@@ -1,0 +1,79 @@
+{
+    "id": "i92169",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "postmaster general",
+    "en_definition": "the official in charge of the national postal service",
+    "tr_word": "posta genel müdürü",
+    "tr_definition": "ulusal posta servisinden sorumlu en üst düzey yetkili",
+    "ru_word": "генеральный почтмейстер",
+    "ru_definition": "глава национальной почтовой службы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Posta Genel Müdürü",
+                    "Posta Reisi",
+                    "Posta Nazırı"
+                ],
+                "Azerbaijani": [
+                    "poçt müdiri",
+                    "poçt rəisi"
+                ],
+                "Turkmen": [
+                    "poçta müdiri",
+                    "poçta başlygy",
+                    "poçta gullugynyň ýolbaşçysy"
+                ],
+                "Uzbek": [
+                    "pochta boshlig'i",
+                    "pochta mudiri",
+                    "pochta raisi"
+                ],
+                "Uyghur": [
+                    "پوچتا باشلىقى",
+                    "پوچتا ئىشلىرى مەسئۇلى",
+                    "پوچتا باش مۇدىرى"
+                ],
+                "Kazakh": [
+                    "пошта басшысы",
+                    "пошта меңгерушісі",
+                    "пошта бастығы"
+                ],
+                "Kyrgyz": [
+                    "почта башчысы",
+                    "почта жетекчиси",
+                    "почта кызматынын башчысы"
+                ],
+                "Karakalpak": [
+                    "poshta baslıǵı",
+                    "poshta xızmetiniń baslıǵı"
+                ],
+                "Tatar": [
+                    "почта башлыгы",
+                    "почта идарәсе җитәкчесе"
+                ],
+                "Bashkir": [
+                    "почта башлығы",
+                    "почта идараһы етәксеһе",
+                    "почта мөдире"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "baş poçt rəisi"
+                ],
+                "Karakalpak": [
+                    "bas poshtashı"
+                ],
+                "Tatar": [
+                    "баш почтачы"
+                ]
+            }
+        }
+    ]
+}

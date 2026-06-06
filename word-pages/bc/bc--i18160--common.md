@@ -1,0 +1,135 @@
+# Bc
+| Field | Detail |
+|---|---|
+| **ID** | i18160 |
+| **English** | bc |
+| **Type** | adverb |
+| **Definition** | before the Christian era; used following dates before the supposed year Christ was born |
+| **Source** | common |
+| **Ortatil** | ortatil_error |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| б.з.д. | b.z.d. |
+
+```json
+{
+    "id": "i18160",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "bc",
+    "en_definition": "before the Christian era; used following dates before the supposed year Christ was born",
+    "tr_word": "MÖ",
+    "tr_definition": "Milattan Önce; İsa'nın doğumundan önceki tarihleri belirtmek için kullanılır.",
+    "ru_word": "до н. э.",
+    "ru_definition": "до нашей эры; используется для обозначения дат до предполагаемого года рождения Христа.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milattan önce"
+                ],
+                "Azerbaijani": [
+                    "miladdan öncə",
+                    "miladdan qabaq"
+                ],
+                "Turkmen": [
+                    "milatdan öň"
+                ],
+                "Uzbek": [
+                    "miloddan avvalgi",
+                    "miloddan oldin"
+                ],
+                "Uyghur": [
+                    "مىلادىدىن بۇرۇن",
+                    "مىلادىدىن ئىلگىرى"
+                ],
+                "Karakalpak": [
+                    "miladtan aldın"
+                ],
+                "Tatar": [
+                    "миладка кадәр"
+                ],
+                "Bashkir": [
+                    "миладтан элек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "біздің заманымызға дейін"
+                ],
+                "Kyrgyz": [
+                    "биздин заманга чейин",
+                    "биздин эрага чейин"
+                ],
+                "Karakalpak": [
+                    "bizin eramızǵa shekem"
+                ],
+                "Bashkir": [
+                    "беҙҙең эраға тиклем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "isa'dan önce"
+                ],
+                "Azerbaijani": [
+                    "eradan əvvəl"
+                ],
+                "Turkmen": [
+                    "eradan öň"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "eramizdan avvalgi"
+                ],
+                "Tatar": [
+                    "эрабызга кадәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "б.з.д."
+                ],
+                "Karakalpak": [
+                    "b.e.sh."
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "m.ö.",
+                    "i.ö."
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "иса пайғамбар туғанға дейін"
+                ]
+            }
+        }
+    ]
+}
+```
+

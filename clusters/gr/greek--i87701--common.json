@@ -1,0 +1,81 @@
+{
+    "id": "i87701",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "greek",
+    "en_definition": "a native or inhabitant of Greece",
+    "tr_word": "Yunan",
+    "tr_definition": "Yunanistan'da yaşayan veya bu ülkeden olan kimse",
+    "ru_word": "грек",
+    "ru_definition": "уроженец или житель Греции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Yunan"
+                ],
+                "Azerbaijani": [
+                    "yunan",
+                    "yunanlı"
+                ],
+                "Turkmen": [
+                    "ýunan"
+                ],
+                "Uzbek": [
+                    "yunon",
+                    "yunonistonlik"
+                ],
+                "Uyghur": [
+                    "يۇنانلىق",
+                    "يۇنان"
+                ],
+                "Kyrgyz": [
+                    "юнан"
+                ],
+                "Karakalpak": [
+                    "yunan"
+                ],
+                "Tatar": [
+                    "юнан"
+                ],
+                "Bashkir": [
+                    "юнан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Rum"
+                ],
+                "Kazakh": [
+                    "ұрым"
+                ],
+                "Kyrgyz": [
+                    "грек"
+                ],
+                "Karakalpak": [
+                    "grek"
+                ],
+                "Tatar": [
+                    "грек"
+                ],
+                "Bashkir": [
+                    "грек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "grek"
+                ],
+                "Kazakh": [
+                    "грек"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "id": "i80930",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "night court",
+    "en_definition": "a criminal court (in large cities) that sits at night",
+    "tr_word": "gece mahkemesi",
+    "tr_definition": "Büyük şehirlerde gece saatlerinde faaliyet gösteren ceza mahkemesi.",
+    "ru_word": "ночной суд",
+    "ru_definition": "Уголовный суд (в крупных городах), заседающий в ночное время.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tungi mahkama",
+                    "tungi sud"
+                ],
+                "Kazakh": [
+                    "түнгі сот",
+                    "түнгі мәжіліс"
+                ],
+                "Kyrgyz": [
+                    "түнкү сот",
+                    "түнкү маалдагы сот"
+                ],
+                "Karakalpak": [
+                    "túngі sot",
+                    "túngі májilis"
+                ],
+                "Tatar": [
+                    "төнге мәхкәмә",
+                    "төнге хөкем"
+                ],
+                "Bashkir": [
+                    "төнгө суд",
+                    "төнгө мәхкәмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gece mahkemesi"
+                ],
+                "Azerbaijani": [
+                    "gecə məhkəməsi"
+                ],
+                "Turkmen": [
+                    "gije kazyýeti",
+                    "gijeki kazyýet",
+                    "gijeki mahkama"
+                ],
+                "Uyghur": [
+                    "كېچىلىك سوت",
+                    "كېچىلىك مەھكىمە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nöbetçi mahkeme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gecə divanı"
+                ]
+            }
+        }
+    ]
+}

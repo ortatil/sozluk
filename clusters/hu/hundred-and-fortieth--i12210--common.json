@@ -1,0 +1,60 @@
+{
+    "id": "i12210",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "hundred-and-fortieth",
+    "en_definition": "the ordinal number of one hundred forty in counting order",
+    "tr_word": "yüz kırkıncı",
+    "tr_definition": "sayma düzeninde yüz kırk sayısına karşılık gelen sıra sayı sıfatı",
+    "ru_word": "сто сороковой",
+    "ru_definition": "порядковое числительное, соответствующее числу сто сорок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz kırkıncı"
+                ],
+                "Azerbaijani": [
+                    "yüz qırxıncı"
+                ],
+                "Turkmen": [
+                    "ýüz kyrkynjy"
+                ],
+                "Uzbek": [
+                    "yuz qirqinchi"
+                ],
+                "Uyghur": [
+                    "يۈز قىرىقىنچى"
+                ],
+                "Kazakh": [
+                    "жүз қырқыншы"
+                ],
+                "Kyrgyz": [
+                    "жүз кыркынчы"
+                ],
+                "Karakalpak": [
+                    "júz qırqınshı"
+                ],
+                "Tatar": [
+                    "йөз кырыгынчы",
+                    "йөзенче кырыгынчы"
+                ],
+                "Bashkir": [
+                    "йөҙ ҡырҡынсы",
+                    "йөҙ ҙә ҡырҡынсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bir yuz qirqinchi"
+                ],
+                "Uyghur": [
+                    "بىر يۈز قىرىقىنچى"
+                ]
+            }
+        }
+    ]
+}

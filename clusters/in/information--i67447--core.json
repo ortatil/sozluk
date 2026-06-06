@@ -1,0 +1,142 @@
+{
+    "id": "i67447",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "information",
+    "en_definition": "knowledge acquired through study or experience or instruction",
+    "tr_word": "bilgi",
+    "tr_definition": "öğrenme, araştırma veya gözlem yoluyla elde edilen gerçekler ve veriler bütünü",
+    "ru_word": "информация",
+    "ru_definition": "сведения об окружающем мире и протекающих в нем процессах, воспринимаемые человеком или специальным устройством",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilgi"
+                ],
+                "Azerbaijani": [
+                    "bilgi"
+                ],
+                "Turkmen": [
+                    "bilgi"
+                ],
+                "Uzbek": [
+                    "bilgi"
+                ],
+                "Uyghur": [
+                    "بىلىم"
+                ],
+                "Kazakh": [
+                    "білім"
+                ],
+                "Kyrgyz": [
+                    "билдирүү"
+                ],
+                "Karakalpak": [
+                    "bilim"
+                ],
+                "Tatar": [
+                    "белем"
+                ],
+                "Bashkir": [
+                    "белем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "malumat"
+                ],
+                "Azerbaijani": [
+                    "məlumat"
+                ],
+                "Turkmen": [
+                    "maglumat"
+                ],
+                "Uzbek": [
+                    "ma'lumot"
+                ],
+                "Uyghur": [
+                    "مەلۇمات"
+                ],
+                "Kazakh": [
+                    "мәлімет"
+                ],
+                "Kyrgyz": [
+                    "маалымат"
+                ],
+                "Karakalpak": [
+                    "maǵlıumat"
+                ],
+                "Tatar": [
+                    "мәгълүмат"
+                ],
+                "Bashkir": [
+                    "мәғлүмәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haber"
+                ],
+                "Azerbaijani": [
+                    "xəbər"
+                ],
+                "Turkmen": [
+                    "habar"
+                ],
+                "Uzbek": [
+                    "xabar"
+                ],
+                "Uyghur": [
+                    "خەۋەر"
+                ],
+                "Kazakh": [
+                    "хабар"
+                ],
+                "Kyrgyz": [
+                    "кабар"
+                ],
+                "Karakalpak": [
+                    "xabar"
+                ],
+                "Tatar": [
+                    "хәбәр"
+                ],
+                "Bashkir": [
+                    "хәбәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "axborot"
+                ],
+                "Kazakh": [
+                    "ақпарат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇچۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илим"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+# Dead sea
+| Field | Detail |
+|---|---|
+| **ID** | i85303 |
+| **English** | dead sea |
+| **Type** | noun |
+| **Definition** | a saltwater lake on the border between Israel and Jordan; its surface in 1292 feet below sea level |
+| **Source** | common |
+| **Ortatil** | bährıl-mäyyit |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i85303",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dead sea",
+    "en_definition": "a saltwater lake on the border between Israel and Jordan; its surface in 1292 feet below sea level",
+    "tr_word": "Lut Gölü",
+    "tr_definition": "İsrail ve Ürdün sınırında bulunan, deniz seviyesinden yaklaşık 400 metre aşağıda yer alan yüksek tuz oranına sahip göl.",
+    "ru_word": "Мёртвое море",
+    "ru_definition": "бессточное солёное озеро на Ближнем Востоке, расположенное между Израилем и Иорданией; его поверхность находится значительно ниже уровня моря.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Lut Gölü"
+                ],
+                "Azerbaijani": [
+                    "Lut gölü"
+                ],
+                "Turkmen": [
+                    "Lut köli"
+                ],
+                "Uzbek": [
+                    "Lut ko'li"
+                ],
+                "Uyghur": [
+                    "لۇت كۆلى"
+                ],
+                "Kazakh": [
+                    "Лұт көлі"
+                ],
+                "Kyrgyz": [
+                    "Лут көлү"
+                ],
+                "Karakalpak": [
+                    "Lut kóli"
+                ],
+                "Tatar": [
+                    "Лут күле"
+                ],
+                "Bashkir": [
+                    "Лут диңгеҙе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Ölü Deniz"
+                ],
+                "Azerbaijani": [
+                    "Ölü dəniz"
+                ],
+                "Turkmen": [
+                    "Öli deňiz"
+                ],
+                "Uzbek": [
+                    "O'lik dengiz"
+                ],
+                "Uyghur": [
+                    "ئۆلۈك دېڭىز"
+                ],
+                "Kazakh": [
+                    "Өлі теңіз"
+                ],
+                "Kyrgyz": [
+                    "Өлүк деңиз"
+                ],
+                "Karakalpak": [
+                    "Óli teńiz"
+                ],
+                "Tatar": [
+                    "Үле диңгез"
+                ],
+                "Bashkir": [
+                    "Үле диңгеҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "Bahrul-mayyit"
+                ]
+            }
+        }
+    ]
+}
+```
+

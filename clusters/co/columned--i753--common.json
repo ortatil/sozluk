@@ -1,0 +1,111 @@
+{
+    "id": "i753",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "columned",
+    "en_definition": "having or resembling columns; having columns of a specified kind (often used as a combining form)",
+    "tr_word": "sütunlu",
+    "tr_definition": "Sütunları olan veya sütunlarla desteklenmiş olan yapı.",
+    "ru_word": "колонный",
+    "ru_definition": "Имеющий колонны или поддерживаемый колоннами; снабженный колоннами определенного типа.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "direkli"
+                ],
+                "Azerbaijani": [
+                    "dirəkli"
+                ],
+                "Turkmen": [
+                    "diregli"
+                ],
+                "Kazakh": [
+                    "тіреулі",
+                    "діңгекті"
+                ],
+                "Karakalpak": [
+                    "tirekli"
+                ],
+                "Tatar": [
+                    "терәк-баганалы"
+                ],
+                "Bashkir": [
+                    "терәүле",
+                    "терәкле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sütunlu"
+                ],
+                "Azerbaijani": [
+                    "sütunlu",
+                    "sütunvari"
+                ],
+                "Turkmen": [
+                    "sütünli"
+                ],
+                "Uzbek": [
+                    "ustunli",
+                    "ustun-ustun",
+                    "ustunsimon",
+                    "ustunli bino"
+                ],
+                "Karakalpak": [
+                    "ústinli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бағаналы"
+                ],
+                "Karakalpak": [
+                    "baǵanalı"
+                ],
+                "Tatar": [
+                    "баганалы",
+                    "багана-багана"
+                ],
+                "Bashkir": [
+                    "бағаналы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈۋرۈكلۈك",
+                    "تۈۋرۈكلىك",
+                    "تۈۋرۈك شەكىللىك"
+                ],
+                "Kyrgyz": [
+                    "түркүктүү",
+                    "түркүк сымал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "erkânlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мамылуу",
+                    "мамычалуу"
+                ]
+            }
+        }
+    ]
+}

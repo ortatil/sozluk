@@ -1,0 +1,124 @@
+# Window box
+| Field | Detail |
+|---|---|
+| **ID** | i61175 |
+| **English** | window box |
+| **Type** | noun |
+| **Definition** | a long narrow box for growing plants on a windowsill |
+| **Source** | common |
+| **Ortatil** | çiçeklik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i61175",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "window box",
+    "en_definition": "a long narrow box for growing plants on a windowsill",
+    "tr_word": "pencere önü saksısı",
+    "tr_definition": "Pencere pervazına bitki yetiştirmek için yerleştirilen uzun ve dar kutu.",
+    "ru_word": "оконный ящик",
+    "ru_definition": "Длинный узкий ящик для выращивания растений на подоконнике.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gül qutusu"
+                ],
+                "Turkmen": [
+                    "gül gutusy",
+                    "gül gaby"
+                ],
+                "Uzbek": [
+                    "gul qutisi"
+                ],
+                "Kazakh": [
+                    "гүл жәшігі"
+                ],
+                "Kyrgyz": [
+                    "гүл кутусу"
+                ],
+                "Karakalpak": [
+                    "gúl jáshigi",
+                    "gúl saoıtı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "deraza qutisi"
+                ],
+                "Uyghur": [
+                    "دېرىزە تەشتىكى",
+                    "دېرىزە گۈل تەشتىكى",
+                    "دېرىزە ساندۇقچىسى"
+                ],
+                "Kazakh": [
+                    "терезе жәшігі",
+                    "терезе алды жәшігі"
+                ],
+                "Kyrgyz": [
+                    "терезе кутусу",
+                    "терезе жашиги"
+                ],
+                "Karakalpak": [
+                    "táráze jáshigi"
+                ],
+                "Tatar": [
+                    "тәрәзә тартмасы",
+                    "тәрәзә ящигы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pencere saksısı",
+                    "pencere önü saksısı"
+                ],
+                "Azerbaijani": [
+                    "pəncərə dibçəyi",
+                    "pəncərə qutusu"
+                ],
+                "Turkmen": [
+                    "penjire gutusy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çiçeklik"
+                ],
+                "Tatar": [
+                    "чәчәк тартмасы"
+                ],
+                "Bashkir": [
+                    "сәскә йәшниге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tokcha quti"
+                ],
+                "Bashkir": [
+                    "тәҙрә йәшниге",
+                    "тәҙрә ҡумтаһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

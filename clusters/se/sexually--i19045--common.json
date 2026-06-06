@@ -1,0 +1,95 @@
+{
+    "id": "i19045",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "sexually",
+    "en_definition": "with respect to sexuality",
+    "tr_word": "cinsel olarak",
+    "tr_definition": "cinsellik bakımından, cinsel yönden",
+    "ru_word": "сексуально",
+    "ru_definition": "в отношении сексуальности или половых отношений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cinsel olarak",
+                    "cinsellik bakımından",
+                    "cinsiyetçe"
+                ],
+                "Azerbaijani": [
+                    "cinsi olaraq",
+                    "cinsiyyətcə"
+                ],
+                "Turkmen": [
+                    "jynsy taýdan",
+                    "jynsyýet taýdan"
+                ],
+                "Uzbek": [
+                    "jinsiy"
+                ],
+                "Uyghur": [
+                    "جىنسىي جەھەتتىن",
+                    "جىنسىيەت نۇقتىسىدىن"
+                ],
+                "Kazakh": [
+                    "жыныстық жағынан",
+                    "жыныстық тұрғыдан"
+                ],
+                "Kyrgyz": [
+                    "жыныстык жактан",
+                    "жыныстык катнаш аркылуу"
+                ],
+                "Karakalpak": [
+                    "jınıslıq jaqtan",
+                    "jınıslıq túrde"
+                ],
+                "Tatar": [
+                    "җенси яктан",
+                    "җенси рәвештә"
+                ],
+                "Bashkir": [
+                    "енси",
+                    "енси йәһәттән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəhvətlə"
+                ],
+                "Turkmen": [
+                    "şehwany"
+                ],
+                "Uzbek": [
+                    "shahvoniy"
+                ],
+                "Tatar": [
+                    "шәһвәт белән"
+                ],
+                "Bashkir": [
+                    "шәһүәтле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "nafsoniy"
+                ],
+                "Kazakh": [
+                    "нәпсілік"
+                ],
+                "Kyrgyz": [
+                    "напсини канааттандыруу иретинде"
+                ],
+                "Karakalpak": [
+                    "nápsiy"
+                ]
+            }
+        }
+    ]
+}

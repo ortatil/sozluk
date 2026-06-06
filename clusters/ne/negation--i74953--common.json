@@ -1,0 +1,153 @@
+{
+    "id": "i74953",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "negation",
+    "en_definition": "a negative statement; a statement that is a refusal or denial of some other statement",
+    "tr_word": "olumsuzlama",
+    "tr_definition": "Bir yargıyı, bir önermeyi veya bir durumu olumsuz kılan, reddeden ifade veya işlem.",
+    "ru_word": "отрицание",
+    "ru_definition": "Высказывание, выражающее несогласие, отказ или опровержение какого-либо утверждения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "inkar"
+                ],
+                "Azerbaijani": [
+                    "inkar"
+                ],
+                "Turkmen": [
+                    "inkär",
+                    "inkärlik"
+                ],
+                "Uzbek": [
+                    "inkor",
+                    "inkorlik"
+                ],
+                "Uyghur": [
+                    "ئىنكار"
+                ],
+                "Kyrgyz": [
+                    "инкар"
+                ],
+                "Karakalpak": [
+                    "inkar"
+                ],
+                "Tatar": [
+                    "инкарь"
+                ],
+                "Bashkir": [
+                    "инҡар",
+                    "инҡар итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "red"
+                ],
+                "Azerbaijani": [
+                    "rədd"
+                ],
+                "Turkmen": [
+                    "ret"
+                ],
+                "Uzbek": [
+                    "rad",
+                    "rad etish"
+                ],
+                "Uyghur": [
+                    "رەت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жоққа шығару"
+                ],
+                "Kyrgyz": [
+                    "жокко чыгаруу"
+                ],
+                "Tatar": [
+                    "юкка чыгару"
+                ],
+                "Bashkir": [
+                    "юҡҡа сығарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nefy"
+                ],
+                "Azerbaijani": [
+                    "nəfy"
+                ],
+                "Uyghur": [
+                    "نەپى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қарсылық"
+                ],
+                "Tatar": [
+                    "кире кагу"
+                ],
+                "Bashkir": [
+                    "кире ҡағыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тангандык",
+                    "тануу"
+                ],
+                "Karakalpak": [
+                    "tán almao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "olumsuzluk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "терістеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бас тарту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "biykarlao"
+                ]
+            }
+        }
+    ]
+}

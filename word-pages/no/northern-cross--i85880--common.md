@@ -1,0 +1,126 @@
+# Northern cross
+| Field | Detail |
+|---|---|
+| **ID** | i85880 |
+| **English** | northern cross |
+| **Type** | noun |
+| **Definition** | a cluster of 5 bright stars forming a cross in the constellation Cygnus |
+| **Source** | common |
+| **Ortatil** | turnalar |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i85880",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "northern cross",
+    "en_definition": "a cluster of 5 bright stars forming a cross in the constellation Cygnus",
+    "tr_word": "Kuzey Haçı",
+    "tr_definition": "Kuğu takımyıldızında haç şekli oluşturan 5 parlak yıldızdan oluşan küme",
+    "ru_word": "Северный Крест",
+    "ru_definition": "группа из 5 ярких звезд, образующих крест в созвездии Лебедя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Akguş haçy"
+                ],
+                "Uzbek": [
+                    "Oqqush yulduz turkumi"
+                ],
+                "Kazakh": [
+                    "Аққу шоқжұлдызы"
+                ],
+                "Karakalpak": [
+                    "Aqqu shoqjұldızı"
+                ],
+                "Tatar": [
+                    "Аккош хачы"
+                ],
+                "Bashkir": [
+                    "Аҡҡош йондоҙлоғо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimal xaçı"
+                ],
+                "Uzbek": [
+                    "Shimoliy xoch"
+                ],
+                "Uyghur": [
+                    "شىمالىي كرېست",
+                    "شىمالىي كرېست يۇلتۇز تۈركۈمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk haçy"
+                ],
+                "Kazakh": [
+                    "Темірқазық айқышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Төньяк Хач"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Тәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Haçı",
+                    "Kuzey Salibi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Qu quşu bürcünün xaçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Солтүстік крест"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Ак куу топ жылдызындагы айкаш",
+                    "Түндүк айкашы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Turnalar",
+                    "Turna"
+                ]
+            }
+        }
+    ]
+}
+```
+

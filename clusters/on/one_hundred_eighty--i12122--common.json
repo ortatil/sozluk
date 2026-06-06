@@ -1,0 +1,53 @@
+{
+    "id": "i12122",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one hundred eighty",
+    "en_definition": "being ten more than one hundred seventy",
+    "tr_word": "yüz seksen",
+    "tr_definition": "yüz yetmişten on fazla olan sayı",
+    "ru_word": "сто восемьдесят",
+    "ru_definition": "число, на десять большее, чем сто семьдесят",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz seksen"
+                ],
+                "Azerbaijani": [
+                    "yüz səksən"
+                ],
+                "Turkmen": [
+                    "ýüz segsen"
+                ],
+                "Uyghur": [
+                    "يۈز سەكسەن"
+                ],
+                "Kazakh": [
+                    "жүз сексен"
+                ],
+                "Kyrgyz": [
+                    "жүз сексен"
+                ],
+                "Karakalpak": [
+                    "júz seksen"
+                ],
+                "Tatar": [
+                    "йөз сиксән",
+                    "йөз дә сиксән"
+                ],
+                "Bashkir": [
+                    "йөҙ һикһән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bir yuz sakson"
+                ]
+            }
+        }
+    ]
+}

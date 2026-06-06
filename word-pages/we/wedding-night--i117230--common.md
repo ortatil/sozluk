@@ -1,0 +1,156 @@
+# Wedding night
+| Field | Detail |
+|---|---|
+| **ID** | i117230 |
+| **English** | wedding night |
+| **Type** | noun |
+| **Definition** | the night after the wedding when bride and groom sleep together |
+| **Source** | common |
+| **Ortatil** | çimildiq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i117230",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wedding night",
+    "en_definition": "the night after the wedding when bride and groom sleep together",
+    "tr_word": "gerdek gecesi",
+    "tr_definition": "Düğünden sonra gelin ve damadın birlikte geçirdikleri ilk gece.",
+    "ru_word": "брачная ночь",
+    "ru_definition": "Первая ночь после свадьбы, которую новобрачные проводят вместе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zifaf gecesi"
+                ],
+                "Azerbaijani": [
+                    "zifaf gecəsi"
+                ],
+                "Turkmen": [
+                    "zefaf gijesi"
+                ],
+                "Uzbek": [
+                    "zifof kechasi"
+                ],
+                "Uyghur": [
+                    "زەپەپ كېچىسى"
+                ],
+                "Tatar": [
+                    "зәфәф кичәсе"
+                ],
+                "Bashkir": [
+                    "зөфәф кисе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "неке түні"
+                ],
+                "Kyrgyz": [
+                    "нике түнү"
+                ],
+                "Karakalpak": [
+                    "neke túni"
+                ],
+                "Tatar": [
+                    "никах кичәсе"
+                ],
+                "Bashkir": [
+                    "никах кисе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gelin gijesi"
+                ],
+                "Uyghur": [
+                    "گۆشەنگە كېچىسى"
+                ],
+                "Karakalpak": [
+                    "kelin túni"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ilk kecha"
+                ],
+                "Kazakh": [
+                    "алғашқы түн"
+                ],
+                "Kyrgyz": [
+                    "алгачкы түн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gerdek gecesi"
+                ],
+                "Azerbaijani": [
+                    "gərdək gecəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chimildiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "visol kechasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توي كېچىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отау түні"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "záoje túni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "беренче кичә"
+                ]
+            }
+        }
+    ]
+}
+```
+

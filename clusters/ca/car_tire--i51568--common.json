@@ -1,0 +1,130 @@
+{
+    "id": "i51568",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "car tire",
+    "en_definition": "a tire consisting of a rubber ring around the rim of an automobile wheel",
+    "tr_word": "araba lastiği",
+    "tr_definition": "bir otomobil tekerleğinin jantını çevreleyen kauçuk halkadan oluşan lastik",
+    "ru_word": "автомобильная шина",
+    "ru_definition": "резиновое кольцо вокруг обода колеса автомобиля",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şin"
+                ],
+                "Turkmen": [
+                    "şina"
+                ],
+                "Uzbek": [
+                    "shina"
+                ],
+                "Kazakh": [
+                    "шина"
+                ],
+                "Kyrgyz": [
+                    "шина"
+                ],
+                "Karakalpak": [
+                    "shina"
+                ],
+                "Tatar": [
+                    "шина"
+                ],
+                "Bashkir": [
+                    "шина"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekerlek",
+                    "teker"
+                ],
+                "Azerbaijani": [
+                    "təkər",
+                    "təkər üzlüyü"
+                ],
+                "Turkmen": [
+                    "teker"
+                ],
+                "Tatar": [
+                    "тәгәрмәч",
+                    "тәгәрмәч тышлыгы"
+                ],
+                "Bashkir": [
+                    "тәгәрмәс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қаптама"
+                ],
+                "Kyrgyz": [
+                    "кап"
+                ],
+                "Karakalpak": [
+                    "qaptama"
+                ],
+                "Bashkir": [
+                    "ҡап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дөңгелек"
+                ],
+                "Kyrgyz": [
+                    "дөңгөлөк"
+                ],
+                "Karakalpak": [
+                    "dóńgelek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çarh"
+                ],
+                "Uyghur": [
+                    "چاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "balon"
+                ],
+                "Uyghur": [
+                    "بالون"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lastik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'ildirak"
+                ]
+            }
+        }
+    ]
+}

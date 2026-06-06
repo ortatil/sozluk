@@ -1,0 +1,82 @@
+{
+    "id": "i53062",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "doorstop",
+    "en_definition": "a stop that keeps open doors from moving",
+    "tr_word": "kapı stoperi",
+    "tr_definition": "açık kapıların hareket etmesini engelleyen durdurucu",
+    "ru_word": "дверной упор",
+    "ru_definition": "ограничитель, удерживающий открытую дверь от движения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eshik to'xtatgichi",
+                    "eshik tiragichi",
+                    "eshik ushlagichi"
+                ],
+                "Uyghur": [
+                    "ئىشىك تىرەگۈچ",
+                    "ئىشىك توسقۇچ",
+                    "ئىشىك تىرەك"
+                ],
+                "Kazakh": [
+                    "есік тіреуіш",
+                    "есік тоқтатқыш",
+                    "есік тіреу",
+                    "есік бекіткіш"
+                ],
+                "Kyrgyz": [
+                    "эшик тоскуч",
+                    "эшик тирөөч",
+                    "эшик кармагыч"
+                ],
+                "Karakalpak": [
+                    "esik tireuish",
+                    "esik toqtatqısh",
+                    "esik tiregish"
+                ],
+                "Tatar": [
+                    "ишек терәге",
+                    "ишек тоткарлагычы",
+                    "ишек туктаткычы"
+                ],
+                "Bashkir": [
+                    "ишек терәүес",
+                    "ишек тотҡар",
+                    "ишек терәү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kapı tutucu",
+                    "kapı tamponu",
+                    "kapı stoperi",
+                    "kapı takozu"
+                ],
+                "Azerbaijani": [
+                    "qapı dayağı",
+                    "qapı tutacağı",
+                    "qapı kəsəri"
+                ],
+                "Turkmen": [
+                    "gapynyň saklaýjysy",
+                    "gapynyň diregi",
+                    "gapynyň saklawajy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kapı dayanağı"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "id": "i100128",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "kingfisher daisy",
+    "en_definition": "softly hairy South African herb having flowers with bright blue rays",
+    "tr_word": "mavi papatya",
+    "tr_definition": "parlak mavi çiçekleri olan, yumuşak tüylü, Güney Afrika kökenli bir bitki",
+    "ru_word": "фелиция амеллусовидная",
+    "ru_definition": "мягко опушенное южноафриканское травянистое растение с цветками с ярко-синими лучами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "göy çobanyastığı"
+                ],
+                "Turkmen": [
+                    "gök çopantelpek",
+                    "gök gül"
+                ],
+                "Uzbek": [
+                    "koʻk moychechak"
+                ],
+                "Uyghur": [
+                    "كۆك گۈللۈك جەنۇبىي ئافرىقا گۈلى",
+                    "كۆك گۈللۈك دەيزى"
+                ],
+                "Kazakh": [
+                    "көк түймедақ",
+                    "көк бақбақ"
+                ],
+                "Kyrgyz": [
+                    "көк маргаритка",
+                    "көк гүл"
+                ],
+                "Karakalpak": [
+                    "kók túymedaǵı",
+                    "kók gúl"
+                ],
+                "Tatar": [
+                    "күк ромашка"
+                ],
+                "Bashkir": [
+                    "күк ромашка",
+                    "күк сәскә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mavi papatya",
+                    "mavi güneş papatyası"
+                ],
+                "Azerbaijani": [
+                    "mavi çobanyastığı"
+                ],
+                "Uzbek": [
+                    "moviy moychechak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güney afrika papatyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көк астра"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зәңгәр ромашка"
+                ]
+            }
+        }
+    ]
+}

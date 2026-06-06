@@ -1,0 +1,116 @@
+{
+    "id": "i27284",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "open fire",
+    "en_definition": "start firing a weapon",
+    "tr_word": "ateş açmak",
+    "tr_definition": "bir silahla ateş etmeye başlamak",
+    "ru_word": "открыть огонь",
+    "ru_definition": "начать стрельбу из оружия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ateş açmak",
+                    "ateş etmek"
+                ],
+                "Azerbaijani": [
+                    "atəş açmaq",
+                    "atəşə tutmaq"
+                ],
+                "Turkmen": [
+                    "atyp başlamak"
+                ],
+                "Kazakh": [
+                    "атқылау"
+                ],
+                "Kyrgyz": [
+                    "аткылоо",
+                    "атуу"
+                ],
+                "Karakalpak": [
+                    "atqılao"
+                ],
+                "Tatar": [
+                    "ата башлау"
+                ],
+                "Bashkir": [
+                    "ата башлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "od açmaq"
+                ],
+                "Turkmen": [
+                    "ot açmak",
+                    "ok atmak"
+                ],
+                "Uzbek": [
+                    "oʻt ochmoq",
+                    "oʻt boshlamoq"
+                ],
+                "Uyghur": [
+                    "ئوق ئاتماق",
+                    "ئوت ئاچماق"
+                ],
+                "Kazakh": [
+                    "оқ ату"
+                ],
+                "Kyrgyz": [
+                    "ок ачуу"
+                ],
+                "Karakalpak": [
+                    "oq atıu"
+                ],
+                "Tatar": [
+                    "ут ачу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻq uzmoq",
+                    "oʻqqa tutmoq"
+                ],
+                "Uyghur": [
+                    "ئوق چىقارماق"
+                ],
+                "Kazakh": [
+                    "оқ жаудыру"
+                ],
+                "Karakalpak": [
+                    "oq jaudırıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaylım ateşi açmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "güllələmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ут асыу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "id": "i53334",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "electric blanket",
+    "en_definition": "a blanket containing and electric heating element that can be controlled to the desired temperature by a rheostat",
+    "tr_word": "elektrikli battaniye",
+    "tr_definition": "İçindeki elektrikli ısıtma düzeneği sayesinde ısınan ve sıcaklığı ayarlanabilen battaniye türü.",
+    "ru_word": "электроодеяло",
+    "ru_definition": "Одеяло со встроенным нагревательным элементом, позволяющим поддерживать нужную температуру.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrikli battaniye"
+                ],
+                "Azerbaijani": [
+                    "elektrikli yorğan"
+                ],
+                "Turkmen": [
+                    "elektrikli ýorgan",
+                    "elektrikli düşekçe"
+                ],
+                "Uzbek": [
+                    "elektr koʻrpa"
+                ],
+                "Uyghur": [
+                    "ئېلېكترلىق يوتقان"
+                ],
+                "Kazakh": [
+                    "электр жамылғы",
+                    "электр көрпе"
+                ],
+                "Kyrgyz": [
+                    "электр жууркан"
+                ],
+                "Karakalpak": [
+                    "elektr juırqan",
+                    "elektr kórpe"
+                ],
+                "Tatar": [
+                    "электр юрганы"
+                ],
+                "Bashkir": [
+                    "электр юрғаны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жылытқыш көрпе"
+                ],
+                "Kyrgyz": [
+                    "жылыткыч жууркан"
+                ],
+                "Tatar": [
+                    "җылыткыч юрган"
+                ],
+                "Bashkir": [
+                    "йылытыусы юрған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ısıtmalı battaniye"
+                ],
+                "Uzbek": [
+                    "isitgichli koʻrpa",
+                    "issiq koʻrpa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qızdırıcı yorğan"
+                ],
+                "Turkmen": [
+                    "gyzgyn ýorgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istilik yorğanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توك يوتقان"
+                ]
+            }
+        }
+    ]
+}

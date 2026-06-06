@@ -1,0 +1,165 @@
+{
+    "id": "i734",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "out-of-pocket",
+    "en_definition": "calling for the spending of cash",
+    "tr_word": "nakit ödenen",
+    "tr_definition": "doğrudan nakit harcamayı gerektiren, cepten çıkan",
+    "ru_word": "из собственного кармана",
+    "ru_definition": "требующий оплаты наличными или личными средствами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nakit"
+                ],
+                "Azerbaijani": [
+                    "nağd"
+                ],
+                "Turkmen": [
+                    "nagt",
+                    "nagtlaýyn"
+                ],
+                "Uzbek": [
+                    "naqd"
+                ],
+                "Uyghur": [
+                    "نەق پۇللۇق",
+                    "نەق چىقىم قىلىدىغان"
+                ],
+                "Kyrgyz": [
+                    "накталай"
+                ],
+                "Karakalpak": [
+                    "naq"
+                ],
+                "Tatar": [
+                    "нәкъ акчалата"
+                ],
+                "Bashkir": [
+                    "нәҡтә",
+                    "нәҡтәләтә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çykdajyly"
+                ],
+                "Kazakh": [
+                    "шығынды"
+                ],
+                "Kyrgyz": [
+                    "чыгымдуу"
+                ],
+                "Karakalpak": [
+                    "shıǵınlı"
+                ],
+                "Bashkir": [
+                    "сығымлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öz hasabyndan"
+                ],
+                "Uzbek": [
+                    "oʻzidan"
+                ],
+                "Uyghur": [
+                    "ئۆز يېنىدىن"
+                ],
+                "Tatar": [
+                    "үз хисабыннан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қолма-қол"
+                ],
+                "Karakalpak": [
+                    "qolma-qol"
+                ],
+                "Tatar": [
+                    "кулдан түләнә торган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "төлемді"
+                ],
+                "Kyrgyz": [
+                    "төлөмдүү"
+                ],
+                "Bashkir": [
+                    "түләүле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cepten"
+                ],
+                "Azerbaijani": [
+                    "cibdən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "peşin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elden"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xalis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bevosita"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shaxsiy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "акчалата чыгымлы"
+                ]
+            }
+        }
+    ]
+}

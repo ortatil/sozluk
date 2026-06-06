@@ -1,0 +1,184 @@
+# Recreation room
+| Field | Detail |
+|---|---|
+| **ID** | i58027 |
+| **English** | recreation room |
+| **Type** | noun |
+| **Definition** | a room equipped for informal entertaining |
+| **Source** | common |
+| **Ortatil** | mäşräphänä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مەشرەپخانا | mäşräpxana |
+
+```json
+{
+    "id": "i58027",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "recreation room",
+    "en_definition": "a room equipped for informal entertaining",
+    "tr_word": "oyun odası",
+    "tr_definition": "gayriresmî eğlence ve boş vakit değerlendirme etkinlikleri için donatılmış oda",
+    "ru_word": "комната отдыха",
+    "ru_definition": "помещение, оборудованное для неофициальных развлечений и досуга",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyun odası"
+                ],
+                "Kazakh": [
+                    "ойын-сауық бөлмесі"
+                ],
+                "Kyrgyz": [
+                    "оюн бөлмөсү"
+                ],
+                "Karakalpak": [
+                    "oyın bólmesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məşğuliyyət otağı"
+                ],
+                "Uyghur": [
+                    "مەشرەپخانا"
+                ],
+                "Tatar": [
+                    "мәҗлес бүлмәсе"
+                ],
+                "Bashkir": [
+                    "мәжлес бүлмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كۆڭۈل ئېچىش ئۆيى"
+                ],
+                "Kyrgyz": [
+                    "конок бөлмөсү"
+                ],
+                "Tatar": [
+                    "күңел ачу бүлмәсе"
+                ],
+                "Bashkir": [
+                    "күңел асыу бүлмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "istirahat odası"
+                ],
+                "Azerbaijani": [
+                    "istirahət otağı"
+                ],
+                "Uzbek": [
+                    "istirohat xonasi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "dam olish xonasi"
+                ],
+                "Kazakh": [
+                    "демалыс бөлмесі"
+                ],
+                "Karakalpak": [
+                    "dem alıs bólmesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dinlenme odası"
+                ],
+                "Turkmen": [
+                    "dynç alyş otagy",
+                    "dynçhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eğlence odası"
+                ],
+                "Azerbaijani": [
+                    "əyləncə otağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мәдениет бөлмесі"
+                ],
+                "Karakalpak": [
+                    "mádeniy dem alıs bólmesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ял бүлмәсе"
+                ],
+                "Bashkir": [
+                    "ял бүлмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "meýlis otagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mehmonxona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئارام ئېلىش ئۆيى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эс алуу бөлмөсү"
+                ]
+            }
+        }
+    ]
+}
+```
+

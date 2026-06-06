@@ -1,0 +1,168 @@
+# Hand truck
+| Field | Detail |
+|---|---|
+| **ID** | i54631 |
+| **English** | hand truck |
+| **Type** | noun |
+| **Definition** | a handcart that has a frame with two low wheels and a ledge at the bottom and handles at the top; used to move crates or other heavy objects |
+| **Source** | common |
+| **Ortatil** | arawa |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **arawa** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.63** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| арба | arba |
+| **Tatar** | |
+| арба | arba |
+| **Bashkir** | |
+| арба | arba |
+
+```json
+{
+    "id": "i54631",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hand truck",
+    "en_definition": "a handcart that has a frame with two low wheels and a ledge at the bottom and handles at the top; used to move crates or other heavy objects",
+    "tr_word": "el arabası",
+    "tr_definition": "Ağır kutuları veya nesneleri taşımak için kullanılan, iki tekerlekli, alt kısmında bir çıkıntısı ve üstünde tutacakları olan metal çerçeveli taşıma aracı.",
+    "ru_word": "двухколёсная тележка",
+    "ru_definition": "Ручная тележка с рамой на двух колесах, имеющая внизу платформу, а сверху ручки; используется для перемещения ящиков или других тяжелых грузов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "el arabası",
+                    "yük arabası"
+                ],
+                "Azerbaijani": [
+                    "əl arabası",
+                    "yük arabası"
+                ],
+                "Turkmen": [
+                    "el arabasy",
+                    "ýük arabasy"
+                ],
+                "Kyrgyz": [
+                    "кол араба",
+                    "жүк араба"
+                ],
+                "Tatar": [
+                    "кул арбасы",
+                    "йөк арбасы"
+                ],
+                "Bashkir": [
+                    "ҡул арбаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "araba"
+                ],
+                "Uzbek": [
+                    "arava"
+                ],
+                "Kazakh": [
+                    "арба"
+                ],
+                "Karakalpak": [
+                    "arba"
+                ],
+                "Tatar": [
+                    "арба"
+                ],
+                "Bashkir": [
+                    "арба"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yukarava"
+                ],
+                "Uyghur": [
+                    "يۈك ھارۋىسى"
+                ],
+                "Kazakh": [
+                    "жүк арба"
+                ],
+                "Karakalpak": [
+                    "júk arba"
+                ],
+                "Bashkir": [
+                    "йөксө арбаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qo'larava"
+                ],
+                "Uyghur": [
+                    "قول ھارۋىسى"
+                ],
+                "Kazakh": [
+                    "қол арба"
+                ],
+                "Karakalpak": [
+                    "qol arba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ikiçarxlı araba"
+                ],
+                "Uyghur": [
+                    "ئىككى چاقلىق ھارۋا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taşıma arabası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekçek"
+                ]
+            }
+        }
+    ]
+}
+```
+

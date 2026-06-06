@@ -1,0 +1,81 @@
+{
+    "id": "i56410",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "mouse",
+    "en_definition": "a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad",
+    "tr_word": "fare",
+    "tr_definition": "Bilgisayar ekranındaki imleci hareket ettirmek için kullanılan, avuç içine sığan elektronik cihaz.",
+    "ru_word": "мышь",
+    "ru_definition": "Устройство ввода для управления курсором и отдачи различных команд компьютеру.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "siçan"
+                ],
+                "Turkmen": [
+                    "syçanjyk",
+                    "syçan"
+                ],
+                "Uzbek": [
+                    "sichqoncha",
+                    "sichqon"
+                ],
+                "Uyghur": [
+                    "چاشقانچاق",
+                    "چاشقان"
+                ],
+                "Kazakh": [
+                    "тышқан"
+                ],
+                "Kyrgyz": [
+                    "чычкан"
+                ],
+                "Karakalpak": [
+                    "tıshqan",
+                    "tıshqansha"
+                ],
+                "Tatar": [
+                    "тычкан",
+                    "тычканчык"
+                ],
+                "Bashkir": [
+                    "сысҡан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mause"
+                ],
+                "Azerbaijani": [
+                    "maus"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fare"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тінтуір"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төрткөс"
+                ]
+            }
+        }
+    ]
+}

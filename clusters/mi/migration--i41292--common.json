@@ -1,0 +1,140 @@
+{
+    "id": "i41292",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "migration",
+    "en_definition": "the movement of persons from one country or locality to another",
+    "tr_word": "göç",
+    "tr_definition": "Kişilerin bir ülkeden veya yerleşim yerinden diğerine taşınması hareketi.",
+    "ru_word": "миграция",
+    "ru_definition": "Перемещение людей из одной страны или местности в другую.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göç"
+                ],
+                "Azerbaijani": [
+                    "köç",
+                    "köçmə"
+                ],
+                "Turkmen": [
+                    "göç",
+                    "göçüş",
+                    "göç-gon"
+                ],
+                "Uzbek": [
+                    "koʻchish",
+                    "koʻch"
+                ],
+                "Uyghur": [
+                    "كۆچ",
+                    "كۆچۈش"
+                ],
+                "Kazakh": [
+                    "көш",
+                    "көші-қон",
+                    "көшу"
+                ],
+                "Kyrgyz": [
+                    "көч",
+                    "көчүү"
+                ],
+                "Karakalpak": [
+                    "kósh",
+                    "kóship-qonu",
+                    "kóshio"
+                ],
+                "Tatar": [
+                    "күченү",
+                    "күчеш",
+                    "күчеп йөрү"
+                ],
+                "Bashkir": [
+                    "күсенеү",
+                    "күс",
+                    "күсенеү-ҡуныу",
+                    "күсмеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hicret"
+                ],
+                "Azerbaijani": [
+                    "hicrət"
+                ],
+                "Turkmen": [
+                    "hijret"
+                ],
+                "Uzbek": [
+                    "hijrat"
+                ],
+                "Uyghur": [
+                    "ھىجرەت"
+                ],
+                "Kazakh": [
+                    "хижрет"
+                ],
+                "Kyrgyz": [
+                    "хижрат"
+                ],
+                "Karakalpak": [
+                    "hijret"
+                ],
+                "Tatar": [
+                    "һиҗрәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhaceret"
+                ],
+                "Azerbaijani": [
+                    "mühacirət"
+                ],
+                "Uzbek": [
+                    "muhojirlik"
+                ],
+                "Uyghur": [
+                    "مۇھاجىرەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nakil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tark"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоныс аудару"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жер которуу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "id": "i87247",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ticket agent",
+    "en_definition": "someone who sells tickets (e.g., theater seats or travel accommodations)",
+    "tr_word": "bilet satış memuru",
+    "tr_definition": "Bilet (tiyatro, seyahat vb.) satan görevli kişi.",
+    "ru_word": "билетный кассир",
+    "ru_definition": "Лицо, занимающееся продажей билетов (например, на театральные представления или транспорт).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "biletçi",
+                    "bilet satış görevlisi"
+                ],
+                "Azerbaijani": [
+                    "biletçi",
+                    "bilet satan"
+                ],
+                "Turkmen": [
+                    "biletçi"
+                ],
+                "Uyghur": [
+                    "بىلەتچى",
+                    "بىلەت ساتقۇچى",
+                    "بىلەت ساتقۇچى خادىم"
+                ],
+                "Kazakh": [
+                    "билет сатушы",
+                    "билетші"
+                ],
+                "Kyrgyz": [
+                    "билет сатуучу",
+                    "билетчи"
+                ],
+                "Karakalpak": [
+                    "biletshi"
+                ],
+                "Tatar": [
+                    "билет сатучы",
+                    "билетчы"
+                ],
+                "Bashkir": [
+                    "билет һатыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gişe memuru"
+                ],
+                "Azerbaijani": [
+                    "kassir"
+                ],
+                "Turkmen": [
+                    "kassir"
+                ],
+                "Uzbek": [
+                    "kassir"
+                ],
+                "Kazakh": [
+                    "кассир"
+                ],
+                "Kyrgyz": [
+                    "кассир"
+                ],
+                "Karakalpak": [
+                    "kassir"
+                ],
+                "Tatar": [
+                    "кассир"
+                ],
+                "Bashkir": [
+                    "кассир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chiptachi",
+                    "chipta sotuvchi"
+                ]
+            }
+        }
+    ]
+}

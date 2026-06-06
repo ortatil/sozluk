@@ -1,0 +1,138 @@
+{
+    "id": "i92765",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "schoolteacher",
+    "en_definition": "a teacher in a school below the college level",
+    "tr_word": "okul öğretmeni",
+    "tr_definition": "üniversite seviyesinin altındaki bir okulda görev yapan öğretmen",
+    "ru_word": "школьный учитель",
+    "ru_definition": "преподаватель в школе, работающий с учениками на уровнях ниже университетского",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muallim"
+                ],
+                "Azerbaijani": [
+                    "müəllim"
+                ],
+                "Turkmen": [
+                    "mugallym",
+                    "mugallyma"
+                ],
+                "Uzbek": [
+                    "muallim"
+                ],
+                "Uyghur": [
+                    "مۇئەللىم"
+                ],
+                "Kazakh": [
+                    "мұғалім"
+                ],
+                "Kyrgyz": [
+                    "мугалим"
+                ],
+                "Karakalpak": [
+                    "múǵallim"
+                ],
+                "Tatar": [
+                    "мөгаллим"
+                ],
+                "Bashkir": [
+                    "мөғәллим",
+                    "мөғәллимә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻqituvchi"
+                ],
+                "Uyghur": [
+                    "ئوقۇتقۇچى"
+                ],
+                "Kazakh": [
+                    "оқытушы"
+                ],
+                "Kyrgyz": [
+                    "окутуучу"
+                ],
+                "Karakalpak": [
+                    "oqıtıoshı"
+                ],
+                "Tatar": [
+                    "укытучы"
+                ],
+                "Bashkir": [
+                    "уҡытыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئۇستاز"
+                ],
+                "Kazakh": [
+                    "ұстаз"
+                ],
+                "Kyrgyz": [
+                    "устат"
+                ],
+                "Karakalpak": [
+                    "ustaz"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öğretmen"
+                ],
+                "Azerbaijani": [
+                    "öyrədən"
+                ],
+                "Turkmen": [
+                    "öwrediji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mudarris"
+                ],
+                "Tatar": [
+                    "мөдәррис"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hoca"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təlimçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "terbiýeçi"
+                ]
+            }
+        }
+    ]
+}

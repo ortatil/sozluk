@@ -1,0 +1,85 @@
+{
+    "id": "i107704",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "laying",
+    "en_definition": "the production of eggs (especially in birds)",
+    "tr_word": "yumurtlama",
+    "tr_definition": "Yumurtaların (özellikle kuşlarda) üretilmesi ve dışarı çıkarılması süreci.",
+    "ru_word": "кладка",
+    "ru_definition": "Процесс откладывания яиц (особенно у птиц).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yumurtlama",
+                    "yumurta bırakma",
+                    "yumurtlayış"
+                ],
+                "Azerbaijani": [
+                    "yumurtlama",
+                    "yumurta qoyma"
+                ],
+                "Turkmen": [
+                    "ýumurtgalama",
+                    "ýumurtga guzlama"
+                ],
+                "Kazakh": [
+                    "жұмыртқалау",
+                    "жұмыртқа салу"
+                ],
+                "Kyrgyz": [
+                    "жумурткалоо"
+                ],
+                "Karakalpak": [
+                    "jumırtqalao"
+                ],
+                "Tatar": [
+                    "йомырка салу"
+                ],
+                "Bashkir": [
+                    "йомортҡа һалыу",
+                    "йомортҡалау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tuxum qo'yish",
+                    "tuxumlash"
+                ],
+                "Uyghur": [
+                    "تۇخۇملاش",
+                    "تۇخۇم تۇغۇش"
+                ],
+                "Kazakh": [
+                    "ту"
+                ],
+                "Kyrgyz": [
+                    "туу",
+                    "туут"
+                ],
+                "Karakalpak": [
+                    "tuoıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "guzlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күкәй салу"
+                ]
+            }
+        }
+    ]
+}

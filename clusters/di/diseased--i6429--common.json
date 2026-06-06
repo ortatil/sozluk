@@ -1,0 +1,190 @@
+{
+    "id": "i6429",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "diseased",
+    "en_definition": "caused by or altered by or manifesting disease or pathology",
+    "tr_word": "hastalıklı",
+    "tr_definition": "hastalığa yakalanmış olan veya hastalık belirtisi gösteren",
+    "ru_word": "болезненный",
+    "ru_definition": "пораженный болезнью или проявляющий признаки патологии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "naqis",
+                    "nasaz"
+                ],
+                "Turkmen": [
+                    "näsag"
+                ],
+                "Uyghur": [
+                    "ناساغلام"
+                ],
+                "Kazakh": [
+                    "науқас"
+                ],
+                "Kyrgyz": [
+                    "накас"
+                ],
+                "Karakalpak": [
+                    "naqas"
+                ],
+                "Bashkir": [
+                    "нәҡис"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "keselli"
+                ],
+                "Uzbek": [
+                    "kasal"
+                ],
+                "Uyghur": [
+                    "كېسەل"
+                ],
+                "Kazakh": [
+                    "кесепатты"
+                ],
+                "Kyrgyz": [
+                    "кесел"
+                ],
+                "Karakalpak": [
+                    "kesel"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hastalıklı"
+                ],
+                "Azerbaijani": [
+                    "xəstə"
+                ],
+                "Turkmen": [
+                    "hassa"
+                ],
+                "Uzbek": [
+                    "xasta"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "illetli"
+                ],
+                "Uyghur": [
+                    "ئىللەتلەنگەن"
+                ],
+                "Tatar": [
+                    "илләтле"
+                ],
+                "Bashkir": [
+                    "илләтле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ауру"
+                ],
+                "Karakalpak": [
+                    "aoırıo"
+                ],
+                "Tatar": [
+                    "авыру"
+                ],
+                "Bashkir": [
+                    "ауырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "marazi"
+                ],
+                "Azerbaijani": [
+                    "mərəzli"
+                ],
+                "Uzbek": [
+                    "mariz"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "syrkaw"
+                ],
+                "Tatar": [
+                    "чирле"
+                ],
+                "Bashkir": [
+                    "сирле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "betob"
+                ],
+                "Karakalpak": [
+                    "bitap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дертті"
+                ],
+                "Kyrgyz": [
+                    "дарттуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rahatsız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىمار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оорулуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "нәхәш"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+# Condominium
+| Field | Detail |
+|---|---|
+| **ID** | i52262 |
+| **English** | condominium |
+| **Type** | noun |
+| **Definition** | housing consisting of a complex of dwelling units (as an apartment house) in which each unit is individually owned |
+| **Source** | common |
+| **Ortatil** | konut |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| конуш | konuş |
+
+```json
+{
+    "id": "i52262",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "condominium",
+    "en_definition": "housing consisting of a complex of dwelling units (as an apartment house) in which each unit is individually owned",
+    "tr_word": "kat mülkiyeti",
+    "tr_definition": "Her bir birimin bireysel olarak sahiplenildiği, apartman gibi konut birimlerinden oluşan kompleks.",
+    "ru_word": "кондоминиум",
+    "ru_definition": "Единый комплекс недвижимого имущества, в котором отдельные жилые помещения находятся в индивидуальной собственности.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ortak jaý"
+                ],
+                "Kazakh": [
+                    "ортақ иеліктегі үй"
+                ],
+                "Kyrgyz": [
+                    "орток үй"
+                ],
+                "Tatar": [
+                    "уртак милек"
+                ],
+                "Bashkir": [
+                    "уртаҡ милек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "turar joy majmuasi",
+                    "shaxsiy xonadonlar binosi"
+                ],
+                "Uyghur": [
+                    "تۇرالغۇ بىناسى"
+                ],
+                "Kazakh": [
+                    "тұрғын үй кешені"
+                ],
+                "Kyrgyz": [
+                    "турак жай"
+                ],
+                "Bashkir": [
+                    "торлаҡ комплексы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köp öýli jaý"
+                ],
+                "Karakalpak": [
+                    "kóp páterli úy"
+                ],
+                "Tatar": [
+                    "күпфатирлы йорт"
+                ],
+                "Bashkir": [
+                    "күп фатирлы йорт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kat mülkiyeti"
+                ],
+                "Azerbaijani": [
+                    "mülkiyyət birliyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "konut"
+                ],
+                "Kyrgyz": [
+                    "конуш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mənzil kompleksi"
+                ],
+                "Kyrgyz": [
+                    "менчик батир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻp xonadonli uy"
+                ],
+                "Uyghur": [
+                    "كۆپ پاتمانلىق ئۆي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "site"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "apartman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mesken"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yaşayış kompleksi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çoxmənzilli bina"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mülk jaýy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "imorat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئولتۇراق بىنا",
+                    "ئولتۇراق رايونى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "пәтерлер үйі",
+                    "пәтер иелерінің бірлестігі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kóp qabatlı úy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tórtkúl úy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "милекчеләр ширкате"
+                ]
+            }
+        }
+    ]
+}
+```
+

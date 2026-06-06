@@ -1,0 +1,107 @@
+# Short-haired
+| Field | Detail |
+|---|---|
+| **ID** | i1177 |
+| **English** | short-haired |
+| **Type** | adjective |
+| **Definition** | with short hair |
+| **Source** | common |
+| **Ortatil** | qısasaçlı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| тақырбас | taqırbas |
+
+```json
+{
+    "id": "i1177",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "short-haired",
+    "en_definition": "with short hair",
+    "tr_word": "kısa tüylü",
+    "tr_definition": "kısa saçları veya tüyleri olan",
+    "ru_word": "короткошёрстный",
+    "ru_definition": "имеющий короткую шерсть или короткие волосы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısa saçlı",
+                    "kısa tüylü"
+                ],
+                "Azerbaijani": [
+                    "qısasaçlı",
+                    "kəsiksaçlı"
+                ],
+                "Turkmen": [
+                    "gysga saçly"
+                ],
+                "Uzbek": [
+                    "qisqa sochli"
+                ],
+                "Uyghur": [
+                    "قىسقا چاچلىق"
+                ],
+                "Kazakh": [
+                    "қысқа шашты"
+                ],
+                "Kyrgyz": [
+                    "кыска чачтуу",
+                    "кыска жүндүү"
+                ],
+                "Karakalpak": [
+                    "qısqa shashlı"
+                ],
+                "Tatar": [
+                    "кыска чәчле",
+                    "кыска йонлы"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡа сәсле",
+                    "ҡыҫҡа йөнлө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kelte saçly"
+                ],
+                "Uzbek": [
+                    "kalta sochli"
+                ],
+                "Uyghur": [
+                    "كۆلتە چاچلىق"
+                ],
+                "Karakalpak": [
+                    "kelte shashlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шолақ шашты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тақырбас"
+                ]
+            }
+        }
+    ]
+}
+```
+

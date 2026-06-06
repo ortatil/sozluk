@@ -1,0 +1,319 @@
+# Achieve
+| Field | Detail |
+|---|---|
+| **ID** | i34338 |
+| **English** | achieve |
+| **Type** | verb |
+| **Definition** | to gain with effort |
+| **Source** | core |
+| **Ortatil** | jetmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jetmäk** | **qazanmaq** | **erişmäk** | **başarmaq** | **orundamaq** |
+|---|---|---|---|---|---|
+| Turkish | ❌ | ✅ | ❌ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Uzbek | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ✅ | ❌ | ✅ |
+| Tatar | ❌ | ✅ | ✅ | ✅ | ❌ |
+| Bashkir | ❌ | ✅ | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 1 | 0 | 0.67 | 0 |
+| *Qarluq Subtotal* | 1 | 0 | 1 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.40 | 0.60 | 0.20 | 0.60 |
+| *In All* | ✅ |  |  |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  | ✅ |  |
+| **O'TQ** | **3.27** | **1.90** | **1.60** | **1.37** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| يەتمەك | yätmäk |
+| ئېرىشمەك | erişmäk |
+| **Kazakh** | |
+| жету | jetu |
+| орындау | orındau |
+| бағындыру | bağındıru |
+| иелену | iyelenu |
+| **Kyrgyz** | |
+| жетүү | jetüü |
+| орундоо | orundoo |
+| багындыруу | bagındıruu |
+| **Tatar** | |
+| казану | kazanu |
+| ирешү | ireşü |
+| ирештерү | ireşterü |
+| башкару | başkaru |
+| төгәлләү | tögälläü |
+| **Bashkir** | |
+| ҡаҙаныу | qazanıu |
+| ирешеү | ireşeü |
+| өлгәшеү | ölgäşeü |
+
+```json
+{
+    "id": "i34338",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "achieve",
+    "en_definition": "to gain with effort",
+    "tr_word": "başarmak",
+    "tr_definition": "çaba göstererek bir işi istenilen biçimde bitirmek",
+    "ru_word": "достигать",
+    "ru_definition": "добиваться чего-либо приложив усилия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yetmək"
+                ],
+                "Turkmen": [
+                    "ýetmek"
+                ],
+                "Uzbek": [
+                    "yetishmoq"
+                ],
+                "Uyghur": [
+                    "يەتمەك"
+                ],
+                "Kazakh": [
+                    "жету"
+                ],
+                "Kyrgyz": [
+                    "жетүү"
+                ],
+                "Karakalpak": [
+                    "jetіsіo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kazanmak"
+                ],
+                "Azerbaijani": [
+                    "qazanmaq"
+                ],
+                "Turkmen": [
+                    "gazanmak"
+                ],
+                "Tatar": [
+                    "казану"
+                ],
+                "Bashkir": [
+                    "ҡаҙаныу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "erishmoq"
+                ],
+                "Uyghur": [
+                    "ئېرىشمەك"
+                ],
+                "Karakalpak": [
+                    "erіsіo"
+                ],
+                "Tatar": [
+                    "ирешү",
+                    "ирештерү"
+                ],
+                "Bashkir": [
+                    "ирешеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başarmak"
+                ],
+                "Turkmen": [
+                    "başarmak"
+                ],
+                "Tatar": [
+                    "башкару"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hasyl etmek"
+                ],
+                "Uzbek": [
+                    "hosil qilmoq"
+                ],
+                "Uyghur": [
+                    "ھاسىل قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "орындау"
+                ],
+                "Kyrgyz": [
+                    "орундоо"
+                ],
+                "Karakalpak": [
+                    "orınlao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elde etmek"
+                ],
+                "Azerbaijani": [
+                    "əldə etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nail olmak"
+                ],
+                "Azerbaijani": [
+                    "nail olmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бағындыру"
+                ],
+                "Kyrgyz": [
+                    "багындыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қол жеткізу"
+                ],
+                "Karakalpak": [
+                    "qol jetkizio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ulaşmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çatmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "amala aşyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qoʻlga kiritmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zafar quchmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قولغا كەلتۈرمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇۋەپپەقىيەت قازانماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "иелену"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ишке ашыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ээ болуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "júzege shıǵarıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төгәлләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өлгәшеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "барып етеү"
+                ]
+            }
+        }
+    ]
+}
+```
+

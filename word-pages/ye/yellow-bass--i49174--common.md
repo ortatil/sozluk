@@ -1,0 +1,96 @@
+# Yellow bass
+| Field | Detail |
+|---|---|
+| **ID** | i49174 |
+| **English** | yellow bass |
+| **Type** | noun |
+| **Definition** | North American freshwater bass resembling the larger marine striped bass |
+| **Source** | common |
+| **Ortatil** | alabuğa |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| алабұға | alabuğa |
+
+```json
+{
+    "id": "i49174",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "yellow bass",
+    "en_definition": "North American freshwater bass resembling the larger marine striped bass",
+    "tr_word": "sarı levrek",
+    "tr_definition": "Daha büyük olan çizgili deniz levreğine benzeyen, Kuzey Amerika'ya özgü bir tatlı su levreği türü.",
+    "ru_word": "жёлтый окунь",
+    "ru_definition": "Североамериканский пресноводный окунь, напоминающий более крупного морского полосатого окуня.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarı levrek"
+                ],
+                "Azerbaijani": [
+                    "sarı xanı",
+                    "sarı dəniz xanısı",
+                    "sarı xanı balığı"
+                ],
+                "Turkmen": [
+                    "sary okuň",
+                    "sary okuňbalyk"
+                ],
+                "Uzbek": [
+                    "sariq olabugʻa",
+                    "sariq bas"
+                ],
+                "Uyghur": [
+                    "سېرىق ئالا بېلىق",
+                    "سېرىق باس بېلىقى"
+                ],
+                "Kazakh": [
+                    "сары алабұға"
+                ],
+                "Kyrgyz": [
+                    "сары алабуга",
+                    "сары балык"
+                ],
+                "Karakalpak": [
+                    "sarı alabұǵa"
+                ],
+                "Tatar": [
+                    "сары алабуга",
+                    "сары балык"
+                ],
+                "Bashkir": [
+                    "һары алабуға",
+                    "һары балыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алабұға"
+                ],
+                "Karakalpak": [
+                    "alabұǵa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tatlı su levreği"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,93 @@
+{
+    "id": "i111195",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chickenpox",
+    "en_definition": "an acute contagious disease caused by herpes varicella zoster virus; causes a rash of vesicles on the face and body",
+    "tr_word": "suçiçeği",
+    "tr_definition": "Genellikle çocuklarda görülen, vücutta kaşıntılı döküntü ve kabarcıklarla seyreden bulaşıcı bir hastalık.",
+    "ru_word": "ветряная оспа",
+    "ru_definition": "Острое вирусное заболевание с воздушно-капельным путем передачи, характеризующееся появлением на коже зудящей сыпи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "suçiçeği",
+                    "su çiçeği"
+                ],
+                "Azerbaijani": [
+                    "suçiçəyi",
+                    "su çiçəyi"
+                ],
+                "Turkmen": [
+                    "suvçyçak"
+                ],
+                "Uzbek": [
+                    "suvchechak"
+                ],
+                "Uyghur": [
+                    "سۇ چېچىكى"
+                ],
+                "Kyrgyz": [
+                    "суу чечек"
+                ],
+                "Karakalpak": [
+                    "su sheshegi"
+                ],
+                "Tatar": [
+                    "су чәчәге",
+                    "сулы чәчәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چېچەك"
+                ],
+                "Kyrgyz": [
+                    "чечек"
+                ],
+                "Karakalpak": [
+                    "sheshek"
+                ],
+                "Bashkir": [
+                    "сәсәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "желшешек"
+                ],
+                "Bashkir": [
+                    "ел сәсәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "suvly örgün"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "obila"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сушешек"
+                ]
+            }
+        }
+    ]
+}

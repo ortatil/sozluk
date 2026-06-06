@@ -1,0 +1,136 @@
+# Sunfish
+| Field | Detail |
+|---|---|
+| **ID** | i49151 |
+| **English** | sunfish |
+| **Type** | noun |
+| **Definition** | small carnivorous freshwater percoid fishes of North America usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed |
+| **Source** | common |
+| **Ortatil** | quyaşbaliq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| күнбалық | künbalıq |
+| **Kyrgyz** | |
+| алабуга | alabuga |
+
+```json
+{
+    "id": "i49151",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sunfish",
+    "en_definition": "small carnivorous freshwater percoid fishes of North America usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed",
+    "tr_word": "güneş balığı",
+    "tr_definition": "Kuzey Amerika'ya özgü, yanlardan basık vücutlu ve metalik parıltılı, tatlı suda yaşayan etçil bir balık türü.",
+    "ru_word": "солнечник",
+    "ru_definition": "Североамериканская пресноводная хищная рыба с плоским телом и металлическим блеском, относящаяся к семейству ушастых окуней.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güneş balığı"
+                ],
+                "Azerbaijani": [
+                    "günəş balığı"
+                ],
+                "Turkmen": [
+                    "gün balygy",
+                    "günperis"
+                ],
+                "Kyrgyz": [
+                    "күн балыгы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quyoshbaliq"
+                ],
+                "Uyghur": [
+                    "قۇياش بېلىقى"
+                ],
+                "Tatar": [
+                    "кояш балыгы"
+                ],
+                "Bashkir": [
+                    "ҡояш балығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "алабуга"
+                ],
+                "Karakalpak": [
+                    "alabұǵa"
+                ],
+                "Tatar": [
+                    "алабугасыман балык"
+                ],
+                "Bashkir": [
+                    "алабуға һымаҡтар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күнбалық",
+                    "күн алабұғасы"
+                ],
+                "Karakalpak": [
+                    "kúnbalıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "levrek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tatlı su levreği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çapaqbalığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tanga baliq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاپتاپ بېلىقى"
+                ]
+            }
+        }
+    ]
+}
+```
+

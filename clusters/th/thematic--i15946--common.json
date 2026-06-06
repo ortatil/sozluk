@@ -1,0 +1,144 @@
+{
+    "id": "i15946",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "thematic",
+    "en_definition": "relating to or constituting a topic of discourse",
+    "tr_word": "tematik",
+    "tr_definition": "belirli bir konu veya tema ile ilgili olan",
+    "ru_word": "тематический",
+    "ru_definition": "относящийся к определённой теме или составляющий её",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tematik"
+                ],
+                "Turkmen": [
+                    "tematik"
+                ],
+                "Uyghur": [
+                    "تېمىلىق",
+                    "تېمىغا مۇناسىۋەتلىك"
+                ],
+                "Kyrgyz": [
+                    "темалык"
+                ],
+                "Karakalpak": [
+                    "temalıq"
+                ],
+                "Tatar": [
+                    "темалы"
+                ],
+                "Bashkir": [
+                    "темалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məzmunlu"
+                ],
+                "Turkmen": [
+                    "mazmunly",
+                    "meseleleýin"
+                ],
+                "Uyghur": [
+                    "مەزمۇنلۇق",
+                    "مەزمۇنغا ئائىت"
+                ],
+                "Kazakh": [
+                    "мәселелік",
+                    "мазмұндық"
+                ],
+                "Kyrgyz": [
+                    "мазмундук"
+                ],
+                "Karakalpak": [
+                    "mazmunlı",
+                    "máselelik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mevzuyla ilgili"
+                ],
+                "Azerbaijani": [
+                    "mövzulu",
+                    "mövzuya aid",
+                    "mövzu ilə bağlı"
+                ],
+                "Uzbek": [
+                    "mavzuiy",
+                    "mavzuga oid",
+                    "mavzuviy"
+                ],
+                "Tatar": [
+                    "мәүзугый"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "izleksel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "konusal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тақырыптық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өзөктүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эчтәлекле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мәғәнәүи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йөкмәткеле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төплө"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+# Shelf life
+| Field | Detail |
+|---|---|
+| **ID** | i116775 |
+| **English** | shelf life |
+| **Type** | noun |
+| **Definition** | the length of time a packaged food or drug will last without deteriorating |
+| **Source** | common |
+| **Ortatil** | möhlät |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i116775",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shelf life",
+    "en_definition": "the length of time a packaged food or drug will last without deteriorating",
+    "tr_word": "raf ömrü",
+    "tr_definition": "paketlenmiş bir gıdanın veya ilacın bozulmadan kalabileceği süre",
+    "ru_word": "срок годности",
+    "ru_definition": "период времени, в течение которого упакованный пищевой продукт или лекарство сохраняют свои качества",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saklama süresi"
+                ],
+                "Azerbaijani": [
+                    "saxlanma müddəti"
+                ],
+                "Turkmen": [
+                    "saklanyş möhleti"
+                ],
+                "Uzbek": [
+                    "saqlash muddati"
+                ],
+                "Uyghur": [
+                    "ساقلاش مۇددىتى"
+                ],
+                "Kazakh": [
+                    "сақтау мерзімі"
+                ],
+                "Kyrgyz": [
+                    "сактоо мөөнөтү"
+                ],
+                "Karakalpak": [
+                    "saqlao múddeti"
+                ],
+                "Tatar": [
+                    "саклау мөддәте",
+                    "саклану вакыты"
+                ],
+                "Bashkir": [
+                    "һаҡлау мөҙҙәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yararlılıq müddəti"
+                ],
+                "Uzbek": [
+                    "yaroqlilik muddati"
+                ],
+                "Kazakh": [
+                    "жарамдылық мерзімі"
+                ],
+                "Kyrgyz": [
+                    "жарактуулук мөөнөтү"
+                ],
+                "Karakalpak": [
+                    "jaramlılıq múddeti"
+                ],
+                "Tatar": [
+                    "яраклылык мөддәте"
+                ],
+                "Bashkir": [
+                    "яраҡлылыҡ мөҙҙәте",
+                    "яраҡлылыҡ ваҡыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "istifadə müddəti"
+                ],
+                "Uzbek": [
+                    "iste'mol muddati"
+                ],
+                "Uyghur": [
+                    "ئىشلىتىش مۇددىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kullanım süresi"
+                ],
+                "Turkmen": [
+                    "ulanyş möhleti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "raf ömrü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dayanma süresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "möhlet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۈچكە ئىگە مۇددىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чыдамдуулук мөөнөтү"
+                ]
+            }
+        }
+    ]
+}
+```
+

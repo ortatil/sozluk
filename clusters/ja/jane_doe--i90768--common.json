@@ -1,0 +1,128 @@
+{
+    "id": "i90768",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "jane doe",
+    "en_definition": "an unknown or fictitious woman who is a party to legal proceedings",
+    "tr_word": "meçhul kadın",
+    "tr_definition": "yasal işlemlerde kimliği belirsiz veya kurgusal bir kadını belirtmek için kullanılan terim",
+    "ru_word": "Джейн Доу",
+    "ru_definition": "вымышленное или неопознанное имя женщины в судебном или медицинском контексте",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "filankəs"
+                ],
+                "Turkmen": [
+                    "pylany"
+                ],
+                "Uzbek": [
+                    "falonchi ayol"
+                ],
+                "Uyghur": [
+                    "پالانىچى ئايال"
+                ],
+                "Kazakh": [
+                    "белгісіз әйел",
+                    "пәленше түгеншеқызы"
+                ],
+                "Kyrgyz": [
+                    "белгисиз аял"
+                ],
+                "Karakalpak": [
+                    "belgisiz hayal",
+                    "pálenshe túgensheewa"
+                ],
+                "Tatar": [
+                    "билгесез хатын",
+                    "фәләнчә"
+                ],
+                "Bashkir": [
+                    "билдәһеҙ ҡатын",
+                    "фәләнсә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "naməlum qadın"
+                ],
+                "Uzbek": [
+                    "noma'lum ayol"
+                ],
+                "Uyghur": [
+                    "نامەلۇم ئايال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meçhul kadın"
+                ],
+                "Azerbaijani": [
+                    "məchul qadın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şəxsiyyəti müəyyən edilməmiş qadın"
+                ],
+                "Uzbek": [
+                    "shaxsi aniqlanmagan ayol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ady nämälim aýal"
+                ],
+                "Kyrgyz": [
+                    "аты-жөнү жок аял"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kimliği belirsiz kadın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "isimsiz kadın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nätanyş aýal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پىستانىچى ئايال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "atı-jóni belgisiz hayal"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+# Rear-end
+| Field | Detail |
+|---|---|
+| **ID** | i27811 |
+| **English** | rear-end |
+| **Type** | verb |
+| **Definition** | collide with the rear end of |
+| **Source** | common |
+| **Ortatil** | çaknışmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| соқтығысу | soqtığısu |
+
+```json
+{
+    "id": "i27811",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "rear-end",
+    "en_definition": "collide with the rear end of",
+    "tr_word": "arkadan çarpmak",
+    "tr_definition": "bir aracın arka kısmına çarpmak",
+    "ru_word": "врезаться сзади",
+    "ru_definition": "столкнуться с задней частью другого транспортного средства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arkadan çarpmak",
+                    "arkadan vurmak"
+                ],
+                "Azerbaijani": [
+                    "arxadan vurmaq",
+                    "arxadan çırpılmaq"
+                ],
+                "Turkmen": [
+                    "arkasyndan urmak"
+                ],
+                "Uzbek": [
+                    "ortidan urilmoq",
+                    "orqasidan urmoq",
+                    "orqadan kelib urilmoq"
+                ],
+                "Uyghur": [
+                    "ئارقىدىن سوقۇلماق",
+                    "ئارقىدىن سوقماق",
+                    "ئارقىسىغا ئۇرۇلماق"
+                ],
+                "Kazakh": [
+                    "артынан соғу",
+                    "артынан ұру"
+                ],
+                "Kyrgyz": [
+                    "артынан сүзүү",
+                    "артынан уруу",
+                    "артынан кагышуу"
+                ],
+                "Karakalpak": [
+                    "artınan soǵılu",
+                    "artınan ұrılu"
+                ],
+                "Tatar": [
+                    "артыннан бәрелү",
+                    "арттан бәрелү",
+                    "арттан килеп бәрелү",
+                    "арттан сугу"
+                ],
+                "Bashkir": [
+                    "артынан бәрелеү",
+                    "арттан бәрелеү",
+                    "артына бәрелеү",
+                    "артынан һуғылыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dalından vurmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzyna urmak",
+                    "yzdan urmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaknyşmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "соқтығысу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "artınan kelіp soǵılu"
+                ]
+            }
+        }
+    ]
+}
+```
+

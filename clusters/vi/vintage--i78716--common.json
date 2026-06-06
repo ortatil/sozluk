@@ -1,0 +1,146 @@
+{
+    "id": "i78716",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vintage",
+    "en_definition": "a season's yield of wine from a vineyard",
+    "tr_word": "bağ bozumu",
+    "tr_definition": "Bir bağın bir mevsimlik üzüm hasadı ve bu üzümlerden elde edilen şarap miktarı",
+    "ru_word": "винтаж",
+    "ru_definition": "урожай винограда или вино определенного года и района",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "üzüm yığımı"
+                ],
+                "Turkmen": [
+                    "üzüm hasyly"
+                ],
+                "Uzbek": [
+                    "uzum hosili"
+                ],
+                "Uyghur": [
+                    "ئۈزۈم ھوسۇلى"
+                ],
+                "Kazakh": [
+                    "жүзім өнімі",
+                    "жүзім жиыны",
+                    "жүзім түсімі"
+                ],
+                "Kyrgyz": [
+                    "жүзүм түшүмү"
+                ],
+                "Karakalpak": [
+                    "júzіm ónіmі",
+                    "júzіm túsіmі",
+                    "júzіm jıyını"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hasat"
+                ],
+                "Turkmen": [
+                    "hasyl"
+                ],
+                "Uzbek": [
+                    "hosil"
+                ],
+                "Uyghur": [
+                    "ھاوسات",
+                    "ھوسۇل"
+                ],
+                "Bashkir": [
+                    "хәсил"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağ bozumu"
+                ],
+                "Azerbaijani": [
+                    "bəhrə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yig'im-terim"
+                ],
+                "Bashkir": [
+                    "йыйым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыйым"
+                ],
+                "Tatar": [
+                    "җыем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "уңыш"
+                ],
+                "Bashkir": [
+                    "уңыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bozum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rekolte"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məhsul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "möwsüm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түшүм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәмер уңышы"
+                ]
+            }
+        }
+    ]
+}

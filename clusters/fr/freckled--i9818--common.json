@@ -1,0 +1,106 @@
+{
+    "id": "i9818",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "freckled",
+    "en_definition": "relating to or covered with or resembling freckles",
+    "tr_word": "çilli",
+    "tr_definition": "yüzünde veya vücudunda çil bulunan, çillerle kaplı olan",
+    "ru_word": "веснушчатый",
+    "ru_definition": "имеющий на коже веснушки, покрытый веснушками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sepgilli",
+                    "tegmilli"
+                ],
+                "Uzbek": [
+                    "sepkilli"
+                ],
+                "Uyghur": [
+                    "سەپكۈنلۈك",
+                    "سەپكۈن باسقان"
+                ],
+                "Kazakh": [
+                    "сепкілді",
+                    "сепкіл-сепкіл"
+                ],
+                "Kyrgyz": [
+                    "сепкилдүү",
+                    "сепкил баскан",
+                    "сепкил"
+                ],
+                "Karakalpak": [
+                    "sepkilli",
+                    "sepkil basqan"
+                ],
+                "Tatar": [
+                    "сипкелле",
+                    "сипкел баскан",
+                    "сипкелле битле"
+                ],
+                "Bashkir": [
+                    "сыптыр",
+                    "сыптырлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çilli",
+                    "çilli yüzlü"
+                ],
+                "Azerbaijani": [
+                    "çilli",
+                    "çilli-bəzəkli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "benekli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ləkəli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ala-mula"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dog'li",
+                    "holli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шұбар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "миңле"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "i115416",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hard water",
+    "en_definition": "water that contains mineral salts (as calcium and magnesium ions) that limit the formation of lather with soap",
+    "tr_word": "sert su",
+    "tr_definition": "içinde kalsiyum ve magnezyum gibi minerallerin fazla miktarda bulunduğu, sabunun köpürmesini zorlaştıran su",
+    "ru_word": "жёсткая вода",
+    "ru_definition": "вода с высоким содержанием солей кальция и магния, препятствующих образованию пены при использовании мыла",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "acı su"
+                ],
+                "Azerbaijani": [
+                    "ağır su"
+                ],
+                "Turkmen": [
+                    "gaty suw",
+                    "ajy suw"
+                ],
+                "Karakalpak": [
+                    "ashchı su"
+                ],
+                "Tatar": [
+                    "каты су",
+                    "авыр су"
+                ],
+                "Bashkir": [
+                    "ҡаты һыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qattiq suv"
+                ],
+                "Uyghur": [
+                    "قاتتىق سۇ"
+                ],
+                "Kazakh": [
+                    "қатты су"
+                ],
+                "Kyrgyz": [
+                    "катуу суу"
+                ],
+                "Karakalpak": [
+                    "qattı su"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sert su"
+                ],
+                "Azerbaijani": [
+                    "sərt su"
+                ],
+                "Uyghur": [
+                    "شور سۇ"
+                ],
+                "Kyrgyz": [
+                    "шор суу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kireçli su"
+                ],
+                "Kazakh": [
+                    "кермек су"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cod su"
+                ],
+                "Uzbek": [
+                    "sho'r suv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ауыры һыу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "id": "i79681",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hockey team",
+    "en_definition": "a team that plays ice hockey",
+    "tr_word": "hokey takımı",
+    "tr_definition": "buz hokeyi oynayan sporcu topluluğu",
+    "ru_word": "хоккейная команда",
+    "ru_definition": "коллектив спортсменов, играющих в хоккей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hokkey komandası",
+                    "hokkey dəstəsi"
+                ],
+                "Turkmen": [
+                    "hokkeý topary"
+                ],
+                "Uzbek": [
+                    "xokkey jamoasi",
+                    "xokkey dastasining a'zolari",
+                    "xokkeychilar guruhi"
+                ],
+                "Uyghur": [
+                    "خوككېي كوماندىسى",
+                    "خوككېي ئۆمىكى"
+                ],
+                "Kazakh": [
+                    "хоккей командасы",
+                    "хоккейшілер тобы",
+                    "хоккей құрамасы"
+                ],
+                "Kyrgyz": [
+                    "хоккей командасы"
+                ],
+                "Karakalpak": [
+                    "xokkey komandası",
+                    "xokkey toparı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hokey takımı",
+                    "buz hokeyi takımı"
+                ],
+                "Kyrgyz": [
+                    "хоккей тобу",
+                    "хоккей жамааты"
+                ],
+                "Tatar": [
+                    "хоккей командасы",
+                    "хоккей төркеме",
+                    "хоккейчылар берлеге"
+                ],
+                "Bashkir": [
+                    "хоккей командаһы",
+                    "хоккей төркөмө",
+                    "хоккей йыйылмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "buzly hokkeý topary"
+                ]
+            }
+        }
+    ]
+}

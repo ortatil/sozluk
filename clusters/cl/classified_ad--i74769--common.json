@@ -1,0 +1,135 @@
+{
+    "id": "i74769",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "classified ad",
+    "en_definition": "a short ad in a newspaper or magazine (usually in small print) and appearing along with other ads of the same type",
+    "tr_word": "seri ilan",
+    "tr_definition": "gazete veya dergilerde benzer türdeki diğer ilanlarla birlikte küçük puntolarla yayımlanan kısa ilan",
+    "ru_word": "частное объявление",
+    "ru_definition": "краткое рекламное объявление в газете или журнале, сгруппированное по категориям с другими подобными объявлениями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "elan"
+                ],
+                "Turkmen": [
+                    "yglan"
+                ],
+                "Uzbek": [
+                    "e'lon"
+                ],
+                "Uyghur": [
+                    "ئېلان"
+                ],
+                "Tatar": [
+                    "игълан"
+                ],
+                "Bashkir": [
+                    "иғлан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bildiriş"
+                ],
+                "Uzbek": [
+                    "bildirishnoma"
+                ],
+                "Kyrgyz": [
+                    "билдирүү"
+                ],
+                "Karakalpak": [
+                    "bildirio"
+                ],
+                "Tatar": [
+                    "белдерү"
+                ],
+                "Bashkir": [
+                    "белдереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xabarnoma"
+                ],
+                "Kazakh": [
+                    "хабарландыру"
+                ],
+                "Karakalpak": [
+                    "xabarlandırıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "küçük ilan"
+                ],
+                "Azerbaijani": [
+                    "kiçik elan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seri ilan"
+                ],
+                "Karakalpak": [
+                    "járiyalama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kısa ilan"
+                ],
+                "Uyghur": [
+                    "تۈرگە ئايرىلغان ئېلانلار",
+                    "قىسقا ئېلان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жарнама"
+                ],
+                "Kyrgyz": [
+                    "жарыя"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xüsusi elan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кішігірім хабарландыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кулактандыруу"
+                ]
+            }
+        }
+    ]
+}

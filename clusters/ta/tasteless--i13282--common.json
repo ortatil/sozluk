@@ -1,0 +1,136 @@
+{
+    "id": "i13282",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "tasteless",
+    "en_definition": "lacking flavor",
+    "tr_word": "tatsız",
+    "tr_definition": "lezzeti olmayan, tadı bulunmayan",
+    "ru_word": "безвкусный",
+    "ru_definition": "не имеющий вкуса, пресный",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tatsız"
+                ],
+                "Azerbaijani": [
+                    "dadsız",
+                    "tamız"
+                ],
+                "Turkmen": [
+                    "tagamsyz"
+                ],
+                "Uzbek": [
+                    "tamsiz"
+                ],
+                "Uyghur": [
+                    "تەمسىز"
+                ],
+                "Kazakh": [
+                    "дәмсіз",
+                    "тұзсыз"
+                ],
+                "Kyrgyz": [
+                    "даамсыз",
+                    "татсыз"
+                ],
+                "Karakalpak": [
+                    "dámsiz",
+                    "tatsız"
+                ],
+                "Tatar": [
+                    "тәмсез"
+                ],
+                "Bashkir": [
+                    "тәмһеҙ",
+                    "тәмһеҙерәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lezzetsiz"
+                ],
+                "Azerbaijani": [
+                    "ləzzətsiz"
+                ],
+                "Turkmen": [
+                    "lezzetsiz"
+                ],
+                "Uyghur": [
+                    "لەززەتسىز"
+                ],
+                "Tatar": [
+                    "ләззәтсез"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şiresiz"
+                ],
+                "Kazakh": [
+                    "нәрсіз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "be-maza",
+                    "be-tam"
+                ],
+                "Uyghur": [
+                    "بەتەم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yavan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "duzsuz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maza-beaza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "супсак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәм-томсыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сөсө"
+                ]
+            }
+        }
+    ]
+}

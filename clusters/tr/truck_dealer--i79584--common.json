@@ -1,0 +1,87 @@
+{
+    "id": "i79584",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "truck dealer",
+    "en_definition": "a firm that sells and buys trucks",
+    "tr_word": "kamyon bayisi",
+    "tr_definition": "kamyon alım ve satımı yapan ticari kuruluş",
+    "ru_word": "дилер грузовых автомобилей",
+    "ru_definition": "фирма, занимающаяся продажей и покупкой грузовиков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yük maşını satıcısı",
+                    "yük avtomobili satıcısı",
+                    "yük maşını dileri"
+                ],
+                "Turkmen": [
+                    "ýük maşyn söwdagäri"
+                ],
+                "Uzbek": [
+                    "yuk mashinasi sotuvchisi",
+                    "yuk avtomobili savdogari",
+                    "yuk mashinalari dileri"
+                ],
+                "Uyghur": [
+                    "يۈك ئاپتوموبىل سودىگىرى",
+                    "يۈك ماشىنا سودىگىرى",
+                    "يۈك ئاپتوموبىل سېتىش نۇقتىسى"
+                ],
+                "Kazakh": [
+                    "жүк көлігін сатушы",
+                    "жүк көлігі саудагері",
+                    "жүк көлігі дилері"
+                ],
+                "Karakalpak": [
+                    "júk kólik saodageri"
+                ],
+                "Tatar": [
+                    "йөк машинасы сатучы",
+                    "йөк машинасы сәүдәгәре",
+                    "йөк машинасы сату үзәге"
+                ],
+                "Bashkir": [
+                    "йөк машиналары һатыусы",
+                    "йөк машиналары менән һәүҙә итеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýük ulaglaryny satyjy",
+                    "ýük ulaglary dükany"
+                ],
+                "Kyrgyz": [
+                    "жүк унаа сатуучу",
+                    "жүк унаа соодагери",
+                    "жүк унааларын сатуучу жай"
+                ],
+                "Bashkir": [
+                    "йөк автомобилдәре һатыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kamyon bayisi",
+                    "kamyon satıcısı",
+                    "kamyon galerisi",
+                    "kamyon tüccarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "júk kólik satıoshısı"
+                ]
+            }
+        }
+    ]
+}

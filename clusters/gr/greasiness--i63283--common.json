@@ -1,0 +1,89 @@
+{
+    "id": "i63283",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "greasiness",
+    "en_definition": "consisting of or covered with oil",
+    "tr_word": "yağlılık",
+    "tr_definition": "yağdan oluşan veya yağla kaplı olma durumu",
+    "ru_word": "жирность",
+    "ru_definition": "состояние, при котором что-либо состоит из жира или покрыто им",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağlılık",
+                    "yağlı olma",
+                    "yağlı"
+                ],
+                "Azerbaijani": [
+                    "yağlılıq",
+                    "yağlı"
+                ],
+                "Turkmen": [
+                    "ýaglylyk",
+                    "ýagly"
+                ],
+                "Uzbek": [
+                    "yog'lilik"
+                ],
+                "Uyghur": [
+                    "ياغلىق"
+                ],
+                "Kazakh": [
+                    "майлылық",
+                    "майлы"
+                ],
+                "Karakalpak": [
+                    "maylılıq",
+                    "maylı"
+                ],
+                "Tatar": [
+                    "майлылык",
+                    "майлылык дәрәҗәсе",
+                    "майлы булу"
+                ],
+                "Bashkir": [
+                    "майлылыҡ",
+                    "майлы булыу",
+                    "майлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "moydorlik"
+                ],
+                "Uyghur": [
+                    "مايلىق",
+                    "مايلىقلىق"
+                ],
+                "Kazakh": [
+                    "май"
+                ],
+                "Kyrgyz": [
+                    "майлуулук",
+                    "май",
+                    "майлуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "piylilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "charvilik"
+                ]
+            }
+        }
+    ]
+}

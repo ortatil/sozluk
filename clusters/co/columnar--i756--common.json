@@ -1,0 +1,111 @@
+{
+    "id": "i756",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "columnar",
+    "en_definition": "having the form of a column",
+    "tr_word": "sütunsu",
+    "tr_definition": "sütun biçiminde olan, sütuna benzeyen",
+    "ru_word": "колоннообразный",
+    "ru_definition": "имеющий форму колонны или столба",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sütunsu",
+                    "sütun şeklinde"
+                ],
+                "Azerbaijani": [
+                    "sütunvari",
+                    "sütunşəkilli"
+                ],
+                "Turkmen": [
+                    "sütünli",
+                    "sütünşekilli"
+                ],
+                "Uzbek": [
+                    "ustunsimon",
+                    "ustunli",
+                    "ustun shaklidagi"
+                ],
+                "Karakalpak": [
+                    "ústinli"
+                ],
+                "Tatar": [
+                    "өстенсыман"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "direksi"
+                ],
+                "Azerbaijani": [
+                    "dirəkvari"
+                ],
+                "Turkmen": [
+                    "diregli"
+                ],
+                "Kazakh": [
+                    "тіреулі"
+                ],
+                "Karakalpak": [
+                    "tirekli"
+                ],
+                "Bashkir": [
+                    "терәк һымаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бағаналы",
+                    "бағана тәрізді"
+                ],
+                "Karakalpak": [
+                    "baǵanalı"
+                ],
+                "Tatar": [
+                    "баганасыман",
+                    "багана рәвешендәге"
+                ],
+                "Bashkir": [
+                    "бағаналы",
+                    "бағана һымаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈۋرۈكسىمان",
+                    "تۈۋرۈكسەمان",
+                    "تۈۋرۈك شەكىللىك"
+                ],
+                "Kyrgyz": [
+                    "түркүк сымал",
+                    "түркүктөй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "üstüvani"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мамычадай"
+                ]
+            }
+        }
+    ]
+}

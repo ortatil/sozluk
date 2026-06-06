@@ -1,0 +1,92 @@
+{
+    "id": "i116938",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "week from monday",
+    "en_definition": "a time period of a week or more",
+    "tr_word": "gelecek pazartesi",
+    "tr_definition": "önümüzdeki pazartesi gününden itibaren bir hafta sonraki zaman",
+    "ru_word": "в следующий понедельник",
+    "ru_definition": "через неделю, начиная со следующего понедельника",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yedi gün"
+                ],
+                "Azerbaijani": [
+                    "yeddi gün"
+                ],
+                "Uzbek": [
+                    "yetti kun"
+                ],
+                "Uyghur": [
+                    "يەتتە كۈن"
+                ],
+                "Kazakh": [
+                    "жеті"
+                ],
+                "Tatar": [
+                    "атна",
+                    "җиде көн"
+                ],
+                "Bashkir": [
+                    "ете көн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hafta",
+                    "haftalık süre"
+                ],
+                "Azerbaijani": [
+                    "həftə"
+                ],
+                "Turkmen": [
+                    "hepde",
+                    "hepdäniň dowamy"
+                ],
+                "Uzbek": [
+                    "hafta"
+                ],
+                "Uyghur": [
+                    "ھەپتە"
+                ],
+                "Karakalpak": [
+                    "xápte"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "апта"
+                ],
+                "Kyrgyz": [
+                    "апта"
+                ],
+                "Karakalpak": [
+                    "apta"
+                ],
+                "Tatar": [
+                    "атналык"
+                ],
+                "Bashkir": [
+                    "аҙна"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жума"
+                ]
+            }
+        }
+    ]
+}

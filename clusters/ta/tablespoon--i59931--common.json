@@ -1,0 +1,121 @@
+{
+    "id": "i59931",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tablespoon",
+    "en_definition": "a spoon larger than a dessert spoon; used for serving",
+    "tr_word": "yemek kaşığı",
+    "tr_definition": "tatlı kaşığından daha büyük olan ve genellikle yemek servisi yapmak veya çorba içmek için kullanılan kaşık",
+    "ru_word": "столовая ложка",
+    "ru_definition": "ложка большего размера, чем десертная, используемая для подачи блюд или еды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aş çemçesi"
+                ],
+                "Uzbek": [
+                    "osh qoshiq"
+                ],
+                "Uyghur": [
+                    "ئاش قوشۇق"
+                ],
+                "Kazakh": [
+                    "ас қасық"
+                ],
+                "Kyrgyz": [
+                    "аш кашык"
+                ],
+                "Karakalpak": [
+                    "as qasıq"
+                ],
+                "Tatar": [
+                    "аш кашыгы"
+                ],
+                "Bashkir": [
+                    "аш ҡалағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çorba kaşığı"
+                ],
+                "Uyghur": [
+                    "چوڭ قوشۇق"
+                ],
+                "Bashkir": [
+                    "ҙур ҡалаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uly çemçe"
+                ],
+                "Kazakh": [
+                    "үлкен қасық"
+                ],
+                "Karakalpak": [
+                    "úlken qasıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemek kaşığı"
+                ],
+                "Azerbaijani": [
+                    "yemək qaşığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyük kaşık"
+                ],
+                "Azerbaijani": [
+                    "böyük qaşıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чоң кашык"
+                ],
+                "Tatar": [
+                    "зур кашык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xörək qaşığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nahar çemçesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta qoshiq"
+                ]
+            }
+        }
+    ]
+}

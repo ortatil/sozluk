@@ -1,0 +1,171 @@
+{
+    "id": "i28684",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "wipe up",
+    "en_definition": "to wash or wipe with or as if with a mop",
+    "tr_word": "paspaslamak",
+    "tr_definition": "bir yeri paspas veya bez yardımıyla silerek temizlemek",
+    "ru_word": "вытирать",
+    "ru_definition": "очищать поверхность, удаляя влагу или грязь с помощью тряпки или швабры",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سۈرتۈش"
+                ],
+                "Kazakh": [
+                    "сүртіп алу",
+                    "сүртіп шығу"
+                ],
+                "Kyrgyz": [
+                    "сүртүү"
+                ],
+                "Karakalpak": [
+                    "súrtip alıu",
+                    "súrtip tazalao",
+                    "súrtio"
+                ],
+                "Tatar": [
+                    "сөртеп алу",
+                    "сөртү"
+                ],
+                "Bashkir": [
+                    "һөрөтөү",
+                    "һөртөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yuyub-silmək"
+                ],
+                "Uzbek": [
+                    "yuvib-artmoq"
+                ],
+                "Uyghur": [
+                    "يۇيۇپ سۈرتۈش"
+                ],
+                "Karakalpak": [
+                    "juoıp alıu"
+                ],
+                "Bashkir": [
+                    "йыуып алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tozalamoq"
+                ],
+                "Uyghur": [
+                    "تازىلاش"
+                ],
+                "Kazakh": [
+                    "тазалау"
+                ],
+                "Kyrgyz": [
+                    "тазалоо"
+                ],
+                "Bashkir": [
+                    "таҙартыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "artmak",
+                    "arassalamak"
+                ],
+                "Uzbek": [
+                    "artmoq"
+                ],
+                "Kyrgyz": [
+                    "арчуу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жуып-сүртпеу"
+                ],
+                "Kyrgyz": [
+                    "жууп-тазалоо"
+                ],
+                "Tatar": [
+                    "юып алу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "silmek"
+                ],
+                "Azerbaijani": [
+                    "silmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kurulamak"
+                ],
+                "Azerbaijani": [
+                    "qurumaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temizlemek"
+                ],
+                "Azerbaijani": [
+                    "təmizləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "päklemek"
+                ],
+                "Uzbek": [
+                    "poklamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paspaslamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süpürmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чистарту"
+                ]
+            }
+        }
+    ]
+}

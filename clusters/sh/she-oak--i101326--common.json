@@ -1,0 +1,83 @@
+{
+    "id": "i101326",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "she-oak",
+    "en_definition": "any of several Australian trees of the genus Casuarina",
+    "tr_word": "demirağacı",
+    "tr_definition": "Casuarina cinsinden, yaprakları ince dallar şeklinde olan Avustralya'ya özgü bir ağaç türü.",
+    "ru_word": "казуарина",
+    "ru_definition": "любое из нескольких австралийских деревьев рода Casuarina с тонкими ветвями, напоминающими хвою.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kazuarin"
+                ],
+                "Azerbaijani": [
+                    "kazuarin",
+                    "kazuarina ağacı"
+                ],
+                "Turkmen": [
+                    "kazuarin"
+                ],
+                "Uzbek": [
+                    "kazuarina"
+                ],
+                "Uyghur": [
+                    "كازۇئارىنا",
+                    "كازۇئارىنا دەرىخى"
+                ],
+                "Kazakh": [
+                    "казуарина"
+                ],
+                "Kyrgyz": [
+                    "казуарина"
+                ],
+                "Karakalpak": [
+                    "kazuarina"
+                ],
+                "Tatar": [
+                    "казуарина"
+                ],
+                "Bashkir": [
+                    "казуарина"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "demir ağacı"
+                ],
+                "Turkmen": [
+                    "demir agajy"
+                ],
+                "Uzbek": [
+                    "temir daraxt"
+                ],
+                "Kazakh": [
+                    "темір ағаш"
+                ],
+                "Kyrgyz": [
+                    "темир жыгач"
+                ],
+                "Tatar": [
+                    "тимер агач"
+                ],
+                "Bashkir": [
+                    "тимер ағас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "at kuyruğu ağacı"
+                ]
+            }
+        }
+    ]
+}

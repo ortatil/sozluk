@@ -1,0 +1,102 @@
+{
+    "id": "i79248",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trilogy",
+    "en_definition": "a set of three literary or dramatic works related in subject or theme",
+    "tr_word": "üçleme",
+    "tr_definition": "konu veya tema bakımından birbiriyle ilişkili üç edebi veya dramatik eserden oluşan set",
+    "ru_word": "трилогия",
+    "ru_definition": "совокупность трёх произведений искусства, объединённых преемственностью сюжета или общей идеей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üçleme",
+                    "üçlü"
+                ],
+                "Azerbaijani": [
+                    "üçləm",
+                    "üçlük"
+                ],
+                "Turkmen": [
+                    "üçleme",
+                    "üçlük"
+                ],
+                "Uzbek": [
+                    "uchlik"
+                ],
+                "Uyghur": [
+                    "ئۈچ توملۇق ئەسەر",
+                    "ئۈچ قىسىملىق ئەسەر"
+                ],
+                "Kyrgyz": [
+                    "үчилтик",
+                    "үчтүк"
+                ],
+                "Karakalpak": [
+                    "úshlik"
+                ],
+                "Tatar": [
+                    "өчлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "trilogiya"
+                ],
+                "Uzbek": [
+                    "trilogiya"
+                ],
+                "Uyghur": [
+                    "تەترىلوگىيە"
+                ],
+                "Karakalpak": [
+                    "trilogiya"
+                ],
+                "Tatar": [
+                    "трилогия"
+                ],
+                "Bashkir": [
+                    "трилогия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үш бөлімді шығарма"
+                ],
+                "Bashkir": [
+                    "өсөл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uch qismli asar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үштік",
+                    "үш таған"
+                ]
+            }
+        }
+    ]
+}

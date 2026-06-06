@@ -1,0 +1,277 @@
+# Give or take
+| Field | Detail |
+|---|---|
+| **ID** | i19923 |
+| **English** | give or take |
+| **Type** | adverb |
+| **Definition** | plus or minus a small amount |
+| **Source** | common |
+| **Ortatil** | çamaçısında, tahminän |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **çamaçısında** | **tahminän** | **yaqınça** | **cuq** |
+|---|---|---|---|---|
+| Turkish | ❌ | ✅ | ✅ | ❌ |
+| Azerbaijani | ❌ | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ | ✅ |
+| Kyrgyz | ✅ | ✅ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ❌ | ✅ |
+| Tatar | ✅ | ❌ | ✅ | ❌ |
+| Bashkir | ✅ | ❌ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 1 | 0.33 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 0 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.20 | 0.40 | 0.60 |
+| *In All* | ✅ | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ |  |
+| **O'TQ** | **3.33** | **3.20** | **1.23** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چامىسىدا | çamisida |
+| تەخمىنەن | täxminän |
+| ئەتراپىدا | ätrapida |
+| **Kazakh** | |
+| шамамен | şamamen |
+| жуық | juıq |
+| таяу | tayau |
+| мөлшерінде | mölşerinde |
+| қаралы | qaralı |
+| **Kyrgyz** | |
+| чамасында | çamasında |
+| тегерегинде | tegereginde |
+| жуук | juuk |
+| **Tatar** | |
+| чамасы | çaması |
+| якынча | yakınça |
+| тирәсе | tiräse |
+| **Bashkir** | |
+| самаһында | samahında |
+| яҡынса | yaqınsa |
+| тирәһендә | tirähendä |
+
+```json
+{
+    "id": "i19923",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "give or take",
+    "en_definition": "plus or minus a small amount",
+    "tr_word": "aşağı yukarı",
+    "tr_definition": "yaklaşık olarak, küçük bir farkla az veya çok",
+    "ru_word": "плюс-минус",
+    "ru_definition": "с небольшой погрешностью в ту или иную сторону",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çemesi"
+                ],
+                "Uzbek": [
+                    "chamasi"
+                ],
+                "Uyghur": [
+                    "چامىسىدا"
+                ],
+                "Kazakh": [
+                    "шамамен"
+                ],
+                "Kyrgyz": [
+                    "чамасында"
+                ],
+                "Karakalpak": [
+                    "shamalap",
+                    "shamasında"
+                ],
+                "Tatar": [
+                    "чамасы",
+                    "чама белән"
+                ],
+                "Bashkir": [
+                    "самаһында",
+                    "сама менән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tahminen"
+                ],
+                "Azerbaijani": [
+                    "təxminən",
+                    "təqribən"
+                ],
+                "Turkmen": [
+                    "takmynan"
+                ],
+                "Uzbek": [
+                    "taxminan"
+                ],
+                "Uyghur": [
+                    "تەخمىنەن"
+                ],
+                "Kyrgyz": [
+                    "тегерегинде"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşağı yukarı"
+                ],
+                "Azerbaijani": [
+                    "aşağı-yuxarı"
+                ],
+                "Turkmen": [
+                    "azy-köpi"
+                ],
+                "Uyghur": [
+                    "ئاز كەم"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaklaşık"
+                ],
+                "Tatar": [
+                    "якынча"
+                ],
+                "Bashkir": [
+                    "яҡынса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жуық"
+                ],
+                "Kyrgyz": [
+                    "жуук"
+                ],
+                "Karakalpak": [
+                    "juıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "atrofida"
+                ],
+                "Uyghur": [
+                    "ئەتراپىدا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тирәсе"
+                ],
+                "Bashkir": [
+                    "тирәһендә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "üç aşağı beş yukarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "az-çox"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "töweregi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kam-koʻst"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ozmi-koʻpmi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆپ بولغاندا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таяу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мөлшерінде"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қаралы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "болжол менен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tórt-bes"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "artıq-kem"
+                ]
+            }
+        }
+    ]
+}
+```
+

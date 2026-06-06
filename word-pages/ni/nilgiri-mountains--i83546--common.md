@@ -1,0 +1,108 @@
+# Nilgiri mountains
+| Field | Detail |
+|---|---|
+| **ID** | i83546 |
+| **English** | nilgiri mountains |
+| **Type** | noun |
+| **Definition** | hills in southern India |
+| **Source** | common |
+| **Ortatil** | nilgiri |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i83546",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nilgiri mountains",
+    "en_definition": "hills in southern India",
+    "tr_word": "Nilgiri Dağları",
+    "tr_definition": "Güney Hindistan'da bulunan bir sıradağ.",
+    "ru_word": "Горы Нилгири",
+    "ru_definition": "Горы в южной части Индии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Nilgiri Dağları"
+                ],
+                "Azerbaijani": [
+                    "Nilgiri dağları"
+                ],
+                "Turkmen": [
+                    "Nilgiri daglary"
+                ],
+                "Uzbek": [
+                    "Nilgiri togʻlari",
+                    "Nilgiri tepaliklari"
+                ],
+                "Uyghur": [
+                    "نىلگىرى تاغلىرى"
+                ],
+                "Kazakh": [
+                    "Нилгири таулары"
+                ],
+                "Kyrgyz": [
+                    "Нилгири тоолору"
+                ],
+                "Karakalpak": [
+                    "Nilgiri taoları",
+                    "Nilgiri"
+                ],
+                "Tatar": [
+                    "Нилгири таулары"
+                ],
+                "Bashkir": [
+                    "Нилгири тауҙары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Gök daglar"
+                ],
+                "Uyghur": [
+                    "كۆك تاغلار"
+                ],
+                "Kazakh": [
+                    "Көгілдір таулар"
+                ],
+                "Kyrgyz": [
+                    "Көгүлтүр тоолор"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Mavi Dağlar"
+                ],
+                "Azerbaijani": [
+                    "Mavi dağlar"
+                ],
+                "Uzbek": [
+                    "Moviy togʻlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Зәңгәр таулар"
+                ],
+                "Bashkir": [
+                    "Зәңгәр тауҙар"
+                ]
+            }
+        }
+    ]
+}
+```
+

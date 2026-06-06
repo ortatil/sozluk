@@ -1,0 +1,140 @@
+{
+    "id": "i70707",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "memoir",
+    "en_definition": "an account of the author's personal experiences",
+    "tr_word": "anı",
+    "tr_definition": "Yazarın kendi yaşamı boyunca tanık olduğu veya yaşadığı olayları anlattığı yazı türü.",
+    "ru_word": "мемуары",
+    "ru_definition": "Записки литературного характера о событиях прошлого, написанные их участником или очевидцем.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hatıra",
+                    "hatırat"
+                ],
+                "Azerbaijani": [
+                    "xatirə",
+                    "xatirat"
+                ],
+                "Turkmen": [
+                    "hatyra"
+                ],
+                "Uzbek": [
+                    "xotira",
+                    "xotiranoma"
+                ],
+                "Uyghur": [
+                    "خاتىرە"
+                ],
+                "Tatar": [
+                    "хатирә"
+                ],
+                "Bashkir": [
+                    "хатирә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "esdalik"
+                ],
+                "Uyghur": [
+                    "ئەسلىمە"
+                ],
+                "Kazakh": [
+                    "естелік"
+                ],
+                "Kyrgyz": [
+                    "эскерүү",
+                    "эстелик"
+                ],
+                "Karakalpak": [
+                    "estelik"
+                ],
+                "Tatar": [
+                    "истәлек"
+                ],
+                "Bashkir": [
+                    "иҫтәлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "memuar"
+                ],
+                "Kazakh": [
+                    "мемуар"
+                ],
+                "Karakalpak": [
+                    "memuar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yadigar"
+                ],
+                "Turkmen": [
+                    "ýatlama",
+                    "ýatlamalar"
+                ],
+                "Uzbek": [
+                    "yodnoma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ғұмырнама",
+                    "өмірбаян"
+                ],
+                "Karakalpak": [
+                    "ómirbayan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "язма"
+                ],
+                "Bashkir": [
+                    "яҙма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەرجىمىھال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "баяндама"
+                ]
+            }
+        }
+    ]
+}

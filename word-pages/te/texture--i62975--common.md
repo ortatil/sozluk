@@ -1,0 +1,258 @@
+# Texture
+| Field | Detail |
+|---|---|
+| **ID** | i62975 |
+| **English** | texture |
+| **Type** | noun |
+| **Definition** | the feel of a surface or a fabric |
+| **Source** | common |
+| **Ortatil** | ḍoqma |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍoqma** | **tüzülüş** | **quruluş** | **bitim** | **qatlam** |
+|---|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Azerbaijani | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ✅ | ✅ | ❌ |
+| Kyrgyz | ❌ | ✅ | ❌ | ✅ | ❌ |
+| Karakalpak | ❌ | ✅ | ✅ | ✅ | ❌ |
+| Tatar | ✅ | ✅ | ❌ | ❌ | ✅ |
+| Bashkir | ❌ | ✅ | ❌ | ❌ | ✅ |
+| *Oghuz Subtotal* | 1 | 0 | 0.67 | 0.33 | 0.33 |
+| *Qarluq Subtotal* | 1 | 1 | 0 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.80 | 0.40 | 0.60 | 0.40 |
+| *In All* | ✅ |  |  |  |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ | ✅ | ✅ |
+| **O'TQ** | **3.20** | **1.80** | **1.57** | **1.43** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| توقۇلما | toqulma |
+| تۈزۈلۈش | tüzülüş |
+| ساخت | saxt |
+| **Kazakh** | |
+| құрылым | qurılım |
+| бітім | bitim |
+| сипат | sipat |
+| түр | tür |
+| **Kyrgyz** | |
+| түзүлүш | tüzülüş |
+| бет | bet |
+| түр | tür |
+| кыртыш | kırtış |
+| **Tatar** | |
+| тукыма | tukıma |
+| төзелеш | tözeleş |
+| катлам | katlam |
+| бизәк | bizäk |
+| **Bashkir** | |
+| төҙөлөш | tözölöş |
+| ҡатлам | qatlam |
+| биҙәк | bizäk |
+| ҡалып | qalıp |
+
+```json
+{
+    "id": "i62975",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "texture",
+    "en_definition": "the feel of a surface or a fabric",
+    "tr_word": "doku",
+    "tr_definition": "bir yüzeyin veya kumaşın dokunulduğunda verdiği his",
+    "ru_word": "текстура",
+    "ru_definition": "ощущение поверхности или ткани на ощупь",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doku"
+                ],
+                "Azerbaijani": [
+                    "toxuma"
+                ],
+                "Turkmen": [
+                    "dokuma"
+                ],
+                "Uzbek": [
+                    "to'qima"
+                ],
+                "Uyghur": [
+                    "توقۇلما"
+                ],
+                "Tatar": [
+                    "тукыма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tuzilish"
+                ],
+                "Uyghur": [
+                    "تۈزۈلۈش"
+                ],
+                "Kyrgyz": [
+                    "түзүлүш"
+                ],
+                "Karakalpak": [
+                    "tús-túr",
+                    "túzúlis"
+                ],
+                "Tatar": [
+                    "төзелеш"
+                ],
+                "Bashkir": [
+                    "төҙөлөш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "quruluş"
+                ],
+                "Turkmen": [
+                    "gurluş"
+                ],
+                "Kazakh": [
+                    "құрылым"
+                ],
+                "Karakalpak": [
+                    "quramı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "biçim"
+                ],
+                "Kazakh": [
+                    "бітім"
+                ],
+                "Kyrgyz": [
+                    "бет"
+                ],
+                "Karakalpak": [
+                    "bet"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıvam"
+                ],
+                "Tatar": [
+                    "катлам"
+                ],
+                "Bashkir": [
+                    "ҡатлам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərkib"
+                ],
+                "Uzbek": [
+                    "tarkib"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sypat"
+                ],
+                "Kazakh": [
+                    "сипат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түр"
+                ],
+                "Kyrgyz": [
+                    "түр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бизәк"
+                ],
+                "Bashkir": [
+                    "биҙәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yapı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "reň"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sath"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۈز تۈزۈلۈشى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ساخت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыртыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡалып"
+                ]
+            }
+        }
+    ]
+}
+```
+

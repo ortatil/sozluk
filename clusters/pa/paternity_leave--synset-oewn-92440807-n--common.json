@@ -1,0 +1,87 @@
+{
+    "id": "synset-oewn-92440807-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paternity leave",
+    "en_definition": "A paternity leave is a parental leave that a father can take after the birth of his child.",
+    "tr_word": "babalık izni",
+    "tr_definition": "Bir babanın çocuğu doğduktan sonra alabildiği ebeveyn izni.",
+    "ru_word": "отпуск по отцовству",
+    "ru_definition": "Отпуск по уходу за ребенком, который отец может взять после рождения своего ребенка.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "babalık izni"
+                ],
+                "Azerbaijani": [
+                    "atalıq məzuniyyəti"
+                ],
+                "Turkmen": [
+                    "atalyk rugsady",
+                    "atanyň çaga rugsady",
+                    "atanyň hossarlyk rugsady"
+                ],
+                "Uzbek": [
+                    "otalik ta'tili"
+                ],
+                "Uyghur": [
+                    "ئاتىلىق رۇخسىتى",
+                    "ئاتا بولۇش رۇخسىتى",
+                    "ئاتىلىق دەم ئېلىشى"
+                ],
+                "Kyrgyz": [
+                    "аталык өргүү",
+                    "аталык өргүүсү"
+                ],
+                "Karakalpak": [
+                    "atalıq dem alısı"
+                ],
+                "Tatar": [
+                    "аталык ялы"
+                ],
+                "Bashkir": [
+                    "атайлыҡ ялы",
+                    "атай ялы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bola parvarishi uchun otalik ta'tili"
+                ],
+                "Karakalpak": [
+                    "bala kútimi ushın dem alıs"
+                ],
+                "Tatar": [
+                    "бала карау ялы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğum izni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ata məzuniyyəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әкелік демалыс",
+                    "әкелік күтім демалысы"
+                ]
+            }
+        }
+    ]
+}

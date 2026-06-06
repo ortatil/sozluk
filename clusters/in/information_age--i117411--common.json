@@ -1,0 +1,103 @@
+{
+    "id": "i117411",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "information age",
+    "en_definition": "a period beginning in the last quarter of the 20th century when information became easily accessible through publications and through the manipulation of information by computers and computer networks",
+    "tr_word": "bilgi çağı",
+    "tr_definition": "20. yüzyılın son çeyreğinde başlayan, bilginin yayınlar ve bilgisayar ağları aracılığıyla kolayca erişilebilir hale geldiği dönem",
+    "ru_word": "информационная эпоха",
+    "ru_definition": "период, начавшийся в последней четверти 20-го века, когда информация стала легкодоступной благодаря публикациям и компьютерным сетям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məlumat dövrü"
+                ],
+                "Turkmen": [
+                    "maglumat eýýamy",
+                    "maglumatlar döwri"
+                ],
+                "Uzbek": [
+                    "ma'lumotlar asri"
+                ],
+                "Uyghur": [
+                    "مەلۇمات دەۋرى"
+                ],
+                "Kazakh": [
+                    "мәліметтер дәуірі"
+                ],
+                "Kyrgyz": [
+                    "маалымат доору",
+                    "маалымат заманы"
+                ],
+                "Karakalpak": [
+                    "málimleme dáoiri",
+                    "málimleme zamanı"
+                ],
+                "Tatar": [
+                    "мәгълүмат чоры"
+                ],
+                "Bashkir": [
+                    "мәғлүмәт быуаты",
+                    "мәғлүмәт дәүере"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilgi çağı",
+                    "bilişim çağı"
+                ],
+                "Azerbaijani": [
+                    "bilgi çağı"
+                ],
+                "Kyrgyz": [
+                    "билим доору"
+                ],
+                "Tatar": [
+                    "белем дәвере"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "habarlaşma eýýamy"
+                ],
+                "Karakalpak": [
+                    "xabardarlıq zamanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "axborot davri",
+                    "axborot asri"
+                ],
+                "Kazakh": [
+                    "ақпараттық дәуір",
+                    "ақпарат заманы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "informasiya dövrü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇچۇر دەۋرى"
+                ]
+            }
+        }
+    ]
+}

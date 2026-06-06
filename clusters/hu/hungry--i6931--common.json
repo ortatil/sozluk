@@ -1,0 +1,111 @@
+{
+    "id": "i6931",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "hungry",
+    "en_definition": "feeling hunger; feeling a need or desire to eat food",
+    "tr_word": "aç",
+    "tr_definition": "yemek yeme isteği veya ihtiyacı duyan",
+    "ru_word": "голодный",
+    "ru_definition": "испытывающий потребность в еде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aç",
+                    "acıkmış"
+                ],
+                "Azerbaijani": [
+                    "ac",
+                    "acmış"
+                ],
+                "Turkmen": [
+                    "ajygan",
+                    "aç"
+                ],
+                "Uzbek": [
+                    "och"
+                ],
+                "Uyghur": [
+                    "ئاچ",
+                    "ئاچلانغان"
+                ],
+                "Kazakh": [
+                    "аш",
+                    "ашыққан"
+                ],
+                "Kyrgyz": [
+                    "ач",
+                    "ачка"
+                ],
+                "Karakalpak": [
+                    "ash",
+                    "ashqaraq",
+                    "ashıqqan"
+                ],
+                "Tatar": [
+                    "ач",
+                    "ачкылы"
+                ],
+                "Bashkir": [
+                    "ас",
+                    "асыҡҡан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "och qolgan",
+                    "och-nahor"
+                ],
+                "Kyrgyz": [
+                    "ач-жылаңач"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karnı aç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gözüac"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ishtahali"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قورسىقى ئاچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нәр сызбаған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аслы-туҡлы"
+                ]
+            }
+        }
+    ]
+}

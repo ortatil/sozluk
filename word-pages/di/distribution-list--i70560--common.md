@@ -1,0 +1,195 @@
+# Distribution list
+| Field | Detail |
+|---|---|
+| **ID** | i70560 |
+| **English** | distribution list |
+| **Type** | noun |
+| **Definition** | list of names to whom a communication should be sent |
+| **Source** | common |
+| **Ortatil** | tizimdeme |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| тізімдеме | tizimdeme |
+| **Kyrgyz** | |
+| тизме | tizme |
+
+```json
+{
+    "id": "i70560",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "distribution list",
+    "en_definition": "list of names to whom a communication should be sent",
+    "tr_word": "dağıtım listesi",
+    "tr_definition": "bir ileti veya belgenin gönderileceği kişilerin adlarını içeren liste",
+    "ru_word": "список рассылки",
+    "ru_definition": "перечень имен или адресов, которым должно быть отправлено сообщение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tarqatish roʻyxati"
+                ],
+                "Uyghur": [
+                    "تارقىتىش تىزىملىكى"
+                ],
+                "Kazakh": [
+                    "тарату тізімі"
+                ],
+                "Karakalpak": [
+                    "tarqatıo dizimi"
+                ],
+                "Tatar": [
+                    "тарату исемлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yuboriluvchilar roʻyxati"
+                ],
+                "Kazakh": [
+                    "жіберу тізімі"
+                ],
+                "Karakalpak": [
+                    "jiberio dizimi"
+                ],
+                "Tatar": [
+                    "җибәрү исемлеге"
+                ],
+                "Bashkir": [
+                    "ебәреү исемлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağıtım listesi"
+                ],
+                "Kyrgyz": [
+                    "даректер тизмеси"
+                ],
+                "Bashkir": [
+                    "таратыу исемлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gönderim listesi"
+                ],
+                "Azerbaijani": [
+                    "göndəriş siyahısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "adres listesi"
+                ],
+                "Tatar": [
+                    "адреслар исемлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paylama siyahısı"
+                ],
+                "Turkmen": [
+                    "paýlanyş sanawy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тізімдеме"
+                ],
+                "Kyrgyz": [
+                    "тизме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alıcı listesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ünvan siyahısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ugradyş sanawy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýaýradyş sanawy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "joʻnatma roʻyxati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يەتكۈزۈش تىزىملىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەۋەتىش تىزىملىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каттоо тизмеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "xabarlandırıo dizimi"
+                ]
+            }
+        }
+    ]
+}
+```
+

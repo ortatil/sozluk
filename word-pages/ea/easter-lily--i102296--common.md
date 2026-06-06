@@ -1,0 +1,127 @@
+# Easter lily
+| Field | Detail |
+|---|---|
+| **ID** | i102296 |
+| **English** | easter lily |
+| **Type** | noun |
+| **Definition** | tall lily have large white trumpet-shaped flowers that bloom in the spring |
+| **Source** | common |
+| **Ortatil** | zambaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i102296",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "easter lily",
+    "en_definition": "tall lily have large white trumpet-shaped flowers that bloom in the spring",
+    "tr_word": "Paskalya zambağı",
+    "tr_definition": "İlkbaharda açan, büyük beyaz trompet şeklinde çiçekleri olan uzun boylu bir zambak türü.",
+    "ru_word": "пасхальная лилия",
+    "ru_definition": "высокая лилия с крупными белыми воронковидными цветками, цветущими весной.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak zambak"
+                ],
+                "Azerbaijani": [
+                    "ağ zanbaq"
+                ],
+                "Turkmen": [
+                    "ak liliýa"
+                ],
+                "Uzbek": [
+                    "oq nilufar",
+                    "oq lola"
+                ],
+                "Uyghur": [
+                    "ئاق لىلىگۈل",
+                    "ئاق سۇمبۇل",
+                    "ئاق نېلۇپەر"
+                ],
+                "Kazakh": [
+                    "ақ лалагүл",
+                    "ақ лала"
+                ],
+                "Kyrgyz": [
+                    "ак лилия",
+                    "ак мандалак",
+                    "ак гүл"
+                ],
+                "Karakalpak": [
+                    "aq liliya",
+                    "aq zanbaq"
+                ],
+                "Tatar": [
+                    "ак лилия"
+                ],
+                "Bashkir": [
+                    "аҡ лилиә",
+                    "аҡ һуған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz zambak"
+                ],
+                "Azerbaijani": [
+                    "bahar zanbağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ak gūl"
+                ],
+                "Tatar": [
+                    "ак чәчәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zambak"
+                ],
+                "Uzbek": [
+                    "zambaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақ сарғалдақ"
+                ],
+                "Tatar": [
+                    "ак кашкарый"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Paskalya zambağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müqəddəs zanbaq"
+                ]
+            }
+        }
+    ]
+}
+```
+

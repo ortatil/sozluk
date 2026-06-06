@@ -1,0 +1,144 @@
+{
+    "id": "i56119",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "medication",
+    "en_definition": "(medicine) something that treats or prevents or alleviates the symptoms of disease",
+    "tr_word": "ilaç",
+    "tr_definition": "Hastalıkları iyileştirmek, önlemek veya semptomlarını hafifletmek için kullanılan madde.",
+    "ru_word": "лекарство",
+    "ru_definition": "Вещество или смесь веществ, применяемые для лечения, профилактики или облегчения симптомов заболеваний.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deva",
+                    "derman"
+                ],
+                "Azerbaijani": [
+                    "dərman"
+                ],
+                "Turkmen": [
+                    "derman"
+                ],
+                "Uzbek": [
+                    "dori",
+                    "darmon"
+                ],
+                "Uyghur": [
+                    "دورا"
+                ],
+                "Kazakh": [
+                    "дәрі",
+                    "дәрі-дәрмек"
+                ],
+                "Kyrgyz": [
+                    "дары",
+                    "дары-дармек"
+                ],
+                "Karakalpak": [
+                    "dári",
+                    "dári-dárman"
+                ],
+                "Tatar": [
+                    "дару"
+                ],
+                "Bashkir": [
+                    "дарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "em"
+                ],
+                "Kazakh": [
+                    "ем"
+                ],
+                "Kyrgyz": [
+                    "эм"
+                ],
+                "Karakalpak": [
+                    "em"
+                ],
+                "Tatar": [
+                    "им"
+                ],
+                "Bashkir": [
+                    "им"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şifa"
+                ],
+                "Uzbek": [
+                    "shifo"
+                ],
+                "Kazakh": [
+                    "шипа"
+                ],
+                "Karakalpak": [
+                    "shipa"
+                ],
+                "Tatar": [
+                    "шифа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilaç"
+                ],
+                "Azerbaijani": [
+                    "əlac"
+                ],
+                "Uyghur": [
+                    "ئىلاج"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çara"
+                ],
+                "Turkmen": [
+                    "serişde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müalicə"
+                ],
+                "Uzbek": [
+                    "muolaja"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دورا-دەرمان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дауа"
+                ]
+            }
+        }
+    ]
+}

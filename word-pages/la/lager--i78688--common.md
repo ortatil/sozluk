@@ -1,0 +1,146 @@
+# Lager
+| Field | Detail |
+|---|---|
+| **ID** | i78688 |
+| **English** | lager |
+| **Type** | noun |
+| **Definition** | a general term for beer made with bottom fermenting yeast (usually by decoction mashing); originally it was brewed in March or April and matured until September |
+| **Source** | common |
+| **Ortatil** | piwä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **piwä** | **sıra** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ❌ | ✅ |
+| Bashkir | ❌ | ✅ |
+| *Oghuz Subtotal* | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 0 | 1 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **2** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پىۋا | piva |
+| **Kazakh** | |
+| сыра | sıra |
+| **Kyrgyz** | |
+| сыра | sıra |
+| **Tatar** | |
+| сыра | sıra |
+| **Bashkir** | |
+| һыра | hıra |
+
+```json
+{
+    "id": "i78688",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lager",
+    "en_definition": "a general term for beer made with bottom fermenting yeast (usually by decoction mashing); originally it was brewed in March or April and matured until September",
+    "tr_word": "lager",
+    "tr_definition": "Alt fermantasyon mayası ile yapılan, genellikle düşük sıcaklıklarda olgunlaştırılan bir bira türü.",
+    "ru_word": "лагер",
+    "ru_definition": "Тип пива, изготовляемого при помощи низового брожения с последующим дозреванием при низкой температуре.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arpa suyu"
+                ],
+                "Azerbaijani": [
+                    "arpa suyu"
+                ],
+                "Turkmen": [
+                    "arpa suwy"
+                ],
+                "Uzbek": [
+                    "arpa suvi"
+                ],
+                "Uyghur": [
+                    "ئارپا سۈيى"
+                ],
+                "Kazakh": [
+                    "арпа суы"
+                ],
+                "Kyrgyz": [
+                    "арпа суу"
+                ],
+                "Tatar": [
+                    "арпа суы"
+                ],
+                "Bashkir": [
+                    "арпа һыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bira"
+                ],
+                "Azerbaijani": [
+                    "pivə"
+                ],
+                "Turkmen": [
+                    "piwo"
+                ],
+                "Uzbek": [
+                    "pivo"
+                ],
+                "Uyghur": [
+                    "پىۋا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сыра"
+                ],
+                "Kyrgyz": [
+                    "сыра"
+                ],
+                "Karakalpak": [
+                    "sıra"
+                ],
+                "Tatar": [
+                    "сыра"
+                ],
+                "Bashkir": [
+                    "һыра"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көбікті сусын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bápi"
+                ]
+            }
+        }
+    ]
+}
+```
+

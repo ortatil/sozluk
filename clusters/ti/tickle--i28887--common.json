@@ -1,0 +1,74 @@
+{
+    "id": "i28887",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "tickle",
+    "en_definition": "touch or stroke lightly",
+    "tr_word": "gıdıklamak",
+    "tr_definition": "Vücudun bazı yerlerine dokunarak ürperme veya gülme ile karışık bir sinir gerginliği uyandırmak.",
+    "ru_word": "щекотать",
+    "ru_definition": "Вызывать легкое раздражение кожи прикосновением, вызывающее смех и непроизвольные движения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gıdıklamak"
+                ],
+                "Azerbaijani": [
+                    "qıdıqlamaq",
+                    "qıdıq vermək"
+                ],
+                "Turkmen": [
+                    "gyjyklamak",
+                    "gyjyklandyrmak"
+                ],
+                "Uzbek": [
+                    "qitiqlamoq",
+                    "qitiq qilmoq"
+                ],
+                "Uyghur": [
+                    "قىدىقلىماق",
+                    "قىدىقلىماقچى بولماق",
+                    "قىدىق كەلتۈرمەك"
+                ],
+                "Kazakh": [
+                    "қытықтау",
+                    "қытық жүгірту",
+                    "қытық беру"
+                ],
+                "Kyrgyz": [
+                    "кытыгылоо",
+                    "кытыгыла",
+                    "кытыгы"
+                ],
+                "Karakalpak": [
+                    "qıtıqlao",
+                    "qıtıqla"
+                ],
+                "Tatar": [
+                    "кытыклау",
+                    "кытыкландыру"
+                ],
+                "Bashkir": [
+                    "ҡытыҡлау",
+                    "ҡытыҡлап ебәреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "huylandırmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaşındırmak"
+                ]
+            }
+        }
+    ]
+}

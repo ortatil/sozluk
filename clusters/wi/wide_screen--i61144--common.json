@@ -1,0 +1,83 @@
+{
+    "id": "i61144",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wide screen",
+    "en_definition": "a projection screen that is much wider than it is high",
+    "tr_word": "geniş ekran",
+    "tr_definition": "yüksekliğinden çok daha geniş olan bir projeksiyon veya görüntüleme ekranı",
+    "ru_word": "широкий экран",
+    "ru_definition": "проекционный экран, ширина которого значительно превышает его высоту",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geniş ekran"
+                ],
+                "Azerbaijani": [
+                    "geniş ekran"
+                ],
+                "Turkmen": [
+                    "giň ekran",
+                    "giňişleýin ekran"
+                ],
+                "Uzbek": [
+                    "keng ekran"
+                ],
+                "Uyghur": [
+                    "كەڭ ئېكران",
+                    "كەڭ پەردە"
+                ],
+                "Kazakh": [
+                    "кең экран"
+                ],
+                "Kyrgyz": [
+                    "кең экран"
+                ],
+                "Karakalpak": [
+                    "keń ekran"
+                ],
+                "Tatar": [
+                    "киң экран",
+                    "киң форматлы экран"
+                ],
+                "Bashkir": [
+                    "киң экран",
+                    "киң форматлы экран"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yayvan ekran"
+                ],
+                "Kazakh": [
+                    "жалпақ экран"
+                ],
+                "Karakalpak": [
+                    "jalpaq ekran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yassi ekran"
+                ],
+                "Kyrgyz": [
+                    "жазы экран"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "enli ekran"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "id": "i26397",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "mistranslate",
+    "en_definition": "translate incorrectly",
+    "tr_word": "yanlış çevirmek",
+    "tr_definition": "bir metni veya konuşmayı hatalı bir şekilde tercüme etmek",
+    "ru_word": "неправильно переводить",
+    "ru_definition": "переводить текст или речь с ошибками или неверно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanlış çevirmek",
+                    "yanlış tercüme etmek"
+                ],
+                "Azerbaijani": [
+                    "yanlış tərcümə etmək"
+                ],
+                "Turkmen": [
+                    "ýalňyş terjime etmek"
+                ],
+                "Uzbek": [
+                    "yanglish tarjima qilmoq"
+                ],
+                "Kazakh": [
+                    "жаңсақ аудару"
+                ],
+                "Kyrgyz": [
+                    "жаңылыш которуу"
+                ],
+                "Karakalpak": [
+                    "jańlıs aodarıo"
+                ],
+                "Tatar": [
+                    "ялгыш тәрҗемә итү"
+                ],
+                "Bashkir": [
+                    "яңылыш тәржемә итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hatalı tercüme etmek"
+                ],
+                "Azerbaijani": [
+                    "xətalı tərcümə etmək"
+                ],
+                "Uzbek": [
+                    "xato tarjima qilmoq"
+                ],
+                "Uyghur": [
+                    "خاتا تەرجىمە قىلماق",
+                    "تەرجىمىدە خاتالاشماق"
+                ],
+                "Tatar": [
+                    "хаталы тәрҗемә итү"
+                ],
+                "Bashkir": [
+                    "хата тәржемә итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nädogry terjime etmek"
+                ],
+                "Uzbek": [
+                    "notoʻgʻri tarjima qilmoq"
+                ],
+                "Karakalpak": [
+                    "nadurıs aodarıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қате аудару"
+                ],
+                "Kyrgyz": [
+                    "ката которуу"
+                ],
+                "Karakalpak": [
+                    "qate aodarıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ters terjime etmek"
+                ],
+                "Kyrgyz": [
+                    "туура эмес которуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səhv tərcümə etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نالايىق تەرجىمە قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұрыс аудару"
+                ]
+            }
+        }
+    ]
+}

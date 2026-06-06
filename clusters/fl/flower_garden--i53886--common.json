@@ -1,0 +1,94 @@
+{
+    "id": "i53886",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flower garden",
+    "en_definition": "a garden featuring flowering plants",
+    "tr_word": "çiçek bahçesi",
+    "tr_definition": "çiçekli bitkilerin yetiştirildiği bahçe",
+    "ru_word": "цветник",
+    "ru_definition": "сад или участок, на котором выращиваются цветы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gülistan",
+                    "gülşen"
+                ],
+                "Azerbaijani": [
+                    "gülüstən",
+                    "gülzar",
+                    "güllük"
+                ],
+                "Turkmen": [
+                    "gülzar",
+                    "gülzarlyk",
+                    "gülbakja"
+                ],
+                "Uyghur": [
+                    "گۈلزار",
+                    "گۈلزارلىق",
+                    "گۈلباغ",
+                    "گۈلۈستان"
+                ],
+                "Kazakh": [
+                    "гүлзар",
+                    "гүлбақша",
+                    "гүлстан"
+                ],
+                "Kyrgyz": [
+                    "гүлзар",
+                    "гүл бакча",
+                    "гүлстан"
+                ],
+                "Karakalpak": [
+                    "gúlzar",
+                    "gúlstan",
+                    "gúlbaqsha"
+                ],
+                "Tatar": [
+                    "гөлбакча"
+                ],
+                "Bashkir": [
+                    "гөлбакса",
+                    "гөлстан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çiçek bahçesi"
+                ],
+                "Azerbaijani": [
+                    "çiçəklik"
+                ],
+                "Tatar": [
+                    "чәчәклек",
+                    "чәчәк бакчасы"
+                ],
+                "Bashkir": [
+                    "сәскәлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bağça"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gulzor",
+                    "guliston",
+                    "gulbog'"
+                ]
+            }
+        }
+    ]
+}

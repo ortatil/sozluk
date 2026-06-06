@@ -1,0 +1,93 @@
+{
+    "id": "i55358",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "key",
+    "en_definition": "metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated",
+    "tr_word": "anahtar",
+    "tr_definition": "Kilidi açıp kapamak için kullanılan metal araç.",
+    "ru_word": "ключ",
+    "ru_definition": "Металлический инструмент для отпирания и запирания замка.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açkı"
+                ],
+                "Turkmen": [
+                    "açkyç"
+                ],
+                "Uzbek": [
+                    "ochqich"
+                ],
+                "Uyghur": [
+                    "ئاچقۇچ"
+                ],
+                "Kazakh": [
+                    "ашқыш"
+                ],
+                "Kyrgyz": [
+                    "ачкыч",
+                    "ачкычтык"
+                ],
+                "Tatar": [
+                    "ачкыч"
+                ],
+                "Bashkir": [
+                    "асҡыс",
+                    "аскыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kalit"
+                ],
+                "Uyghur": [
+                    "كېلىت"
+                ],
+                "Kazakh": [
+                    "кілт"
+                ],
+                "Karakalpak": [
+                    "kilt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "açarlar",
+                    "açar"
+                ],
+                "Turkmen": [
+                    "açary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anahtar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мифтах"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "gúlzar"
+                ]
+            }
+        }
+    ]
+}

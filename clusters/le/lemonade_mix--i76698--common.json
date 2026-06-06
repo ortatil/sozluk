@@ -1,0 +1,90 @@
+{
+    "id": "i76698",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lemonade mix",
+    "en_definition": "a commercial mix for making lemonade",
+    "tr_word": "limonata tozu",
+    "tr_definition": "limonata yapmak için kullanılan ticari karışım",
+    "ru_word": "смесь для лимонада",
+    "ru_definition": "коммерческая смесь для приготовления лимонада",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "limonata özü",
+                    "limonata karışımı",
+                    "limonata tozu"
+                ],
+                "Azerbaijani": [
+                    "limonad tozu",
+                    "limonad qarışığı"
+                ],
+                "Turkmen": [
+                    "limonad garyndysy",
+                    "limonad tozy"
+                ],
+                "Uzbek": [
+                    "limonad kukuni",
+                    "limonad aralashmasi"
+                ],
+                "Uyghur": [
+                    "لىمونات تالقىنى",
+                    "لىمون شەربىتى تالقىنى",
+                    "لىمونات ئارىلاشمىسى"
+                ],
+                "Kazakh": [
+                    "лимонад қоспасы",
+                    "лимонад ұнтағы"
+                ],
+                "Kyrgyz": [
+                    "лимонад аралашмасы",
+                    "лимонад порошогу",
+                    "лимонад кошулмасы"
+                ],
+                "Karakalpak": [
+                    "limonad qospası"
+                ],
+                "Tatar": [
+                    "лимонад катнашмасы"
+                ],
+                "Bashkir": [
+                    "лимонад ҡатнашмаһы",
+                    "лимонад порошогы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sharbat kukuni"
+                ],
+                "Karakalpak": [
+                    "shárbát untaǵı"
+                ],
+                "Tatar": [
+                    "шәрбәт катнашмасы"
+                ],
+                "Bashkir": [
+                    "шәрбәт нигеҙе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сусын қоспасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эчемлек катнашмасы"
+                ]
+            }
+        }
+    ]
+}

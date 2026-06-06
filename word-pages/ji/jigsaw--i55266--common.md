@@ -1,0 +1,186 @@
+# Jigsaw
+| Field | Detail |
+|---|---|
+| **ID** | i55266 |
+| **English** | jigsaw |
+| **Type** | noun |
+| **Definition** | fine-toothed power saw with a narrow blade; used to cut curved outlines |
+| **Source** | common |
+| **Ortatil** | bıçgı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **bıçgı** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| кылкараа | kılkaraa |
+| бычкы | bıçkı |
+| араа | araa |
+| **Tatar** | |
+| кылпычкы | kılpıçkı |
+| **Bashkir** | |
+| бысҡы | bısqı |
+
+```json
+{
+    "id": "i55266",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "jigsaw",
+    "en_definition": "fine-toothed power saw with a narrow blade; used to cut curved outlines",
+    "tr_word": "dekupaj testeresi",
+    "tr_definition": "Kavisli hatları kesmek için kullanılan, ince uçlu ve dar bıçaklı elektrikli testere.",
+    "ru_word": "электролобзик",
+    "ru_definition": "Электрическая пила с узким лезвием для выпиливания криволинейных контуров.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıl testere"
+                ],
+                "Uyghur": [
+                    "قىل ھەرە"
+                ],
+                "Kazakh": [
+                    "қыл ара"
+                ],
+                "Kyrgyz": [
+                    "кылкараа"
+                ],
+                "Karakalpak": [
+                    "qıl ara"
+                ],
+                "Tatar": [
+                    "кылпычкы"
+                ],
+                "Bashkir": [
+                    "ҡыл бысҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyma testeresi"
+                ],
+                "Azerbaijani": [
+                    "oyma mişarı"
+                ],
+                "Kazakh": [
+                    "оймыш ара"
+                ],
+                "Karakalpak": [
+                    "iymek ara"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əl mişarı"
+                ],
+                "Uzbek": [
+                    "egri arra"
+                ],
+                "Uyghur": [
+                    "ئەگمە ھەرە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pylky",
+                    "byçgy"
+                ],
+                "Kyrgyz": [
+                    "бычкы"
+                ],
+                "Bashkir": [
+                    "бысҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "nozik arra"
+                ],
+                "Uyghur": [
+                    "نەقىش ھەرە"
+                ],
+                "Karakalpak": [
+                    "naǵıs ara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "el byçgysy"
+                ],
+                "Tatar": [
+                    "электр пычкысы",
+                    "электрлы кылпычкы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "arra"
+                ],
+                "Kyrgyz": [
+                    "араа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dekupaj testere"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bığlı mişar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ирек ара"
+                ]
+            }
+        }
+    ]
+}
+```
+

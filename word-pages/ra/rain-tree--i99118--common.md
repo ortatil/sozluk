@@ -1,0 +1,131 @@
+# Rain tree
+| Field | Detail |
+|---|---|
+| **ID** | i99118 |
+| **English** | rain tree |
+| **Type** | noun |
+| **Definition** | large ornamental tropical American tree with bipinnate leaves and globose clusters of flowers with crimson stamens and seed pods that are eaten by cattle |
+| **Source** | common |
+| **Ortatil** | samanea |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **samanea** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.17** |
+
+```json
+{
+    "id": "i99118",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rain tree",
+    "en_definition": "large ornamental tropical American tree with bipinnate leaves and globose clusters of flowers with crimson stamens and seed pods that are eaten by cattle",
+    "tr_word": "yağmur ağacı",
+    "tr_definition": "Sığırların yediği tohum kabukları, küresel çiçek salkımları ve çift tüysü yaprakları olan, tropikal Amerika'ya özgü büyük bir süs ağacı.",
+    "ru_word": "саман",
+    "ru_definition": "Крупное декоративное тропическое дерево из Америки с дваждыперистыми листьями, шаровидными соцветиями и семенными стручками, поедаемыми скотом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "samanea"
+                ],
+                "Azerbaijani": [
+                    "saman ağacı"
+                ],
+                "Turkmen": [
+                    "samaneýa"
+                ],
+                "Uzbek": [
+                    "samanea"
+                ],
+                "Uyghur": [
+                    "سامان دەرىخى"
+                ],
+                "Kazakh": [
+                    "саман ағашы"
+                ],
+                "Kyrgyz": [
+                    "саман дарагы"
+                ],
+                "Karakalpak": [
+                    "saman teregi"
+                ],
+                "Tatar": [
+                    "саман агачы"
+                ],
+                "Bashkir": [
+                    "саман ағасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağmur ağacı"
+                ],
+                "Azerbaijani": [
+                    "yağış ağacı"
+                ],
+                "Turkmen": [
+                    "ýagyş agajy"
+                ],
+                "Uyghur": [
+                    "يامغۇر دەرىخى"
+                ],
+                "Kyrgyz": [
+                    "жамгыр дарагы"
+                ],
+                "Karakalpak": [
+                    "jaoın teregi"
+                ],
+                "Tatar": [
+                    "яңгыр агачы"
+                ],
+                "Bashkir": [
+                    "яңғыр ағасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yomg'ir daraxti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shirin po'stloqli daraxt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаңбыр ағашы"
+                ]
+            }
+        }
+    ]
+}
+```
+

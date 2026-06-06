@@ -1,0 +1,103 @@
+{
+    "id": "i41224",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rental",
+    "en_definition": "the act of paying for the use of something (as an apartment or house or car)",
+    "tr_word": "kiralama",
+    "tr_definition": "Bir mülkün, aracın veya eşyanın kullanımı karşılığında belirli bir ücret ödeme eylemi.",
+    "ru_word": "аренда",
+    "ru_definition": "Действие по оплате пользования чем-либо (например, квартирой, домом или автомобилем).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "icar"
+                ],
+                "Azerbaijani": [
+                    "icarə",
+                    "ticarə"
+                ],
+                "Turkmen": [
+                    "ijara"
+                ],
+                "Uzbek": [
+                    "ijara",
+                    "ijaraga olish"
+                ],
+                "Uyghur": [
+                    "ئىجارە",
+                    "ئىجارىگە بېرىش",
+                    "ئىجارىگە ئېلىش"
+                ],
+                "Kyrgyz": [
+                    "ижара"
+                ],
+                "Karakalpak": [
+                    "ijara"
+                ],
+                "Tatar": [
+                    "иҗара"
+                ],
+                "Bashkir": [
+                    "ижәрә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kiralama",
+                    "kira"
+                ],
+                "Azerbaijani": [
+                    "kirayə"
+                ],
+                "Turkmen": [
+                    "kärende"
+                ],
+                "Uzbek": [
+                    "kiraya"
+                ],
+                "Uyghur": [
+                    "كىرا"
+                ],
+                "Karakalpak": [
+                    "kira"
+                ],
+                "Tatar": [
+                    "керем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалдау",
+                    "жал",
+                    "жалдама"
+                ],
+                "Kyrgyz": [
+                    "жалдама",
+                    "жалдап алуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "түләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡуртым"
+                ]
+            }
+        }
+    ]
+}

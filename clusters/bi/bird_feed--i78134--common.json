@@ -1,0 +1,107 @@
+{
+    "id": "i78134",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bird feed",
+    "en_definition": "food given to birds; usually mixed seeds",
+    "tr_word": "kuş yemi",
+    "tr_definition": "kuşlara verilen, genellikle karışık tohumlardan oluşan yiyecek",
+    "ru_word": "корм для птиц",
+    "ru_definition": "пища, предназначенная для кормления птиц, обычно состоящая из смеси семян",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuş yemi"
+                ],
+                "Azerbaijani": [
+                    "quş yemi"
+                ],
+                "Turkmen": [
+                    "guş iými"
+                ],
+                "Uzbek": [
+                    "qush yemi"
+                ],
+                "Uyghur": [
+                    "قۇش يېمى",
+                    "قۇش دانلىرى"
+                ],
+                "Kazakh": [
+                    "құс жемі"
+                ],
+                "Kyrgyz": [
+                    "куш жеми"
+                ],
+                "Karakalpak": [
+                    "qus jemi"
+                ],
+                "Tatar": [
+                    "кош җимлеге",
+                    "кош җеме"
+                ],
+                "Bashkir": [
+                    "ҡош еме",
+                    "ҡош аҙығы",
+                    "ҡош тамағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yem"
+                ],
+                "Uzbek": [
+                    "yem"
+                ],
+                "Kazakh": [
+                    "жем"
+                ],
+                "Kyrgyz": [
+                    "жем"
+                ],
+                "Karakalpak": [
+                    "jem"
+                ],
+                "Tatar": [
+                    "җим"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dane"
+                ],
+                "Azerbaijani": [
+                    "dən",
+                    "dən-duş"
+                ],
+                "Turkmen": [
+                    "däne"
+                ],
+                "Uzbek": [
+                    "don",
+                    "don-dun"
+                ],
+                "Uyghur": [
+                    "دان-چۆپ"
+                ],
+                "Kyrgyz": [
+                    "дан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iým"
+                ]
+            }
+        }
+    ]
+}

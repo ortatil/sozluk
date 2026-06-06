@@ -1,0 +1,92 @@
+{
+    "id": "i78186",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cumin",
+    "en_definition": "aromatic seeds of the cumin herb of the carrot family",
+    "tr_word": "kimyon",
+    "tr_definition": "maydanozgillerden, tohumları baharat olarak kullanılan, kokulu bir bitki",
+    "ru_word": "кумин",
+    "ru_definition": "ароматные семена травянистого растения семейства зонтичных, используемые как пряность",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "zirə"
+                ],
+                "Turkmen": [
+                    "zyre"
+                ],
+                "Uzbek": [
+                    "zira"
+                ],
+                "Uyghur": [
+                    "زىرە"
+                ],
+                "Kazakh": [
+                    "зире"
+                ],
+                "Kyrgyz": [
+                    "зира"
+                ],
+                "Karakalpak": [
+                    "zira",
+                    "zire"
+                ],
+                "Tatar": [
+                    "җира",
+                    "зире"
+                ],
+                "Bashkir": [
+                    "зира"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kimyon",
+                    "kemmun"
+                ],
+                "Uzbek": [
+                    "kamun"
+                ],
+                "Kazakh": [
+                    "көмін"
+                ],
+                "Kyrgyz": [
+                    "күмөн"
+                ],
+                "Tatar": [
+                    "кәмин"
+                ],
+                "Bashkir": [
+                    "кәмин"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "razyana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gara zyre"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاق زىرە"
+                ]
+            }
+        }
+    ]
+}

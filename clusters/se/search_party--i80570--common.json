@@ -1,0 +1,94 @@
+{
+    "id": "i80570",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "search party",
+    "en_definition": "a party of people to search for someone",
+    "tr_word": "arama ekibi",
+    "tr_definition": "kayıp birini veya bir şeyi bulmak için oluşturulan grup",
+    "ru_word": "поисковая группа",
+    "ru_definition": "группа людей, организованная для поиска пропавшего человека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "izlovchilar"
+                ],
+                "Uyghur": [
+                    "ئىزدەش ئۆمىكى",
+                    "ئىزدەش گۇرۇپپىسى"
+                ],
+                "Kazakh": [
+                    "іздеу тобы",
+                    "іздеушілер тобы",
+                    "іздеу жасағы"
+                ],
+                "Kyrgyz": [
+                    "издөө тобу",
+                    "издөөчүлөр тобу",
+                    "издөөчүлөр"
+                ],
+                "Karakalpak": [
+                    "іzdeu tobı",
+                    "іzdeushіler tobı",
+                    "іzdestіru tobı"
+                ],
+                "Tatar": [
+                    "эзләү төркеме",
+                    "эзләүчеләр төркеме",
+                    "эзләү отряды"
+                ],
+                "Bashkir": [
+                    "эҙләү төркөмө",
+                    "эҙләүселәр төркөмө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇتقۇزۇش-ئىزدەش ئەترىتى"
+                ],
+                "Bashkir": [
+                    "ҡотҡарыу төркөмө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arama ekibi",
+                    "arama kolu",
+                    "arama heyeti",
+                    "arama grubu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "axtarış dəstəsi",
+                    "axtarış qrupu",
+                    "axtarış heyəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gözleg topary",
+                    "gözlegçiler topary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qidiruv guruhi",
+                    "qidiruvchilar"
+                ]
+            }
+        }
+    ]
+}

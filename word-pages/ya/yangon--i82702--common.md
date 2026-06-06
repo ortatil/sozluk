@@ -1,0 +1,114 @@
+# Yangon
+| Field | Detail |
+|---|---|
+| **ID** | i82702 |
+| **English** | yangon |
+| **Type** | noun |
+| **Definition** | the capital and largest city of Myanmar; located in the south near the Irrawaddy river delta |
+| **Source** | common |
+| **Ortatil** | yangon |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **yangon** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.50** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| يانگون | yangon |
+| رانگۇن | rangun |
+| **Kazakh** | |
+| Янгон | yangon |
+| Рангун | rangun |
+| **Kyrgyz** | |
+| Янгон | yangon |
+| Рангун | rangun |
+| **Tatar** | |
+| Янгон | yangon |
+| Рангун | rangun |
+| **Bashkir** | |
+| Янгон | yangon |
+| Рангун | rangun |
+
+```json
+{
+    "id": "i82702",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "yangon",
+    "en_definition": "the capital and largest city of Myanmar; located in the south near the Irrawaddy river delta",
+    "tr_word": "Yangon",
+    "tr_definition": "Myanmar'ın en büyük şehri ve eski başkenti; ülkenin güneyinde, İravadi Nehri deltası yakınında yer alır.",
+    "ru_word": "Янгон",
+    "ru_definition": "Крупнейший город и бывшая столица Мьянмы; расположен на юге страны в дельте реки Иравади.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Yangon",
+                    "Rangun"
+                ],
+                "Azerbaijani": [
+                    "Yanqon",
+                    "Ranqun"
+                ],
+                "Turkmen": [
+                    "Ýangon",
+                    "Rangun"
+                ],
+                "Uyghur": [
+                    "يانگون",
+                    "رانگۇن"
+                ],
+                "Kazakh": [
+                    "Янгон",
+                    "Рангун"
+                ],
+                "Kyrgyz": [
+                    "Янгон",
+                    "Рангун"
+                ],
+                "Karakalpak": [
+                    "Yangon",
+                    "Rangun"
+                ],
+                "Tatar": [
+                    "Янгон",
+                    "Рангун"
+                ],
+                "Bashkir": [
+                    "Янгон",
+                    "Рангун"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "Yangon",
+                    "Rangun"
+                ]
+            }
+        }
+    ]
+}
+```
+

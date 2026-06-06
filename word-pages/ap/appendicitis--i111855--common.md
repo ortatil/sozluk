@@ -1,0 +1,107 @@
+# Appendicitis
+| Field | Detail |
+|---|---|
+| **ID** | i111855 |
+| **English** | appendicitis |
+| **Type** | noun |
+| **Definition** | inflammation of the vermiform appendix |
+| **Source** | common |
+| **Ortatil** | apandisit |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i111855",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "appendicitis",
+    "en_definition": "inflammation of the vermiform appendix",
+    "tr_word": "apandisit",
+    "tr_definition": "kör bağırsağın ucundaki solucan şeklindeki eklentinin iltihaplanması",
+    "ru_word": "аппендицит",
+    "ru_definition": "воспаление червеобразного отростка слепой кишки (аппендикса)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "soxulcanabənzər çıxıntının iltihabı"
+                ],
+                "Kyrgyz": [
+                    "сокур ичеги",
+                    "сокур ичегинин сезгениши"
+                ],
+                "Tatar": [
+                    "сукыр эчәк ялкынсынуы",
+                    "сукыр эчәк шешүе"
+                ],
+                "Bashkir": [
+                    "һуҡыр эсәк ялҡынһыныуы",
+                    "һуҡыр эсәк шешеүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "apandisit"
+                ],
+                "Azerbaijani": [
+                    "appendisit"
+                ],
+                "Uyghur": [
+                    "ئاپپېندىت ياللۇغى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kör bağırsak iltihabı"
+                ],
+                "Azerbaijani": [
+                    "kor bağırsaq iltihabı"
+                ],
+                "Uzbek": [
+                    "koʻrichak",
+                    "koʻrichak yalligʻlanishi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "соқыр ішек",
+                    "соқыр ішек қабынуы"
+                ],
+                "Karakalpak": [
+                    "soqır іshek",
+                    "soqır іshek qabınuı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kör içege sowuklamasy",
+                    "kör içege çişmesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئارتۇقچە ئۈچەي ياللۇغى",
+                    "ئارتۇق ئۈچەي ياللۇغى"
+                ]
+            }
+        }
+    ]
+}
+```
+

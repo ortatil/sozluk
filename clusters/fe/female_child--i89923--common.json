@@ -1,0 +1,90 @@
+{
+    "id": "i89923",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "female child",
+    "en_definition": "a youthful female person",
+    "tr_word": "kız çocuk",
+    "tr_definition": "genç yaştaki dişi birey",
+    "ru_word": "девочка",
+    "ru_definition": "ребёнок женского пола",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kız",
+                    "kız çocuk"
+                ],
+                "Azerbaijani": [
+                    "qız",
+                    "qız uşağı"
+                ],
+                "Turkmen": [
+                    "gyz",
+                    "gyzjagaz"
+                ],
+                "Uzbek": [
+                    "qiz",
+                    "qizcha"
+                ],
+                "Uyghur": [
+                    "قىز",
+                    "قىز بالا"
+                ],
+                "Kazakh": [
+                    "қыз",
+                    "қыз бала"
+                ],
+                "Kyrgyz": [
+                    "кыз",
+                    "кыз бала"
+                ],
+                "Karakalpak": [
+                    "qız",
+                    "qız bala"
+                ],
+                "Tatar": [
+                    "кыз",
+                    "кыз бала"
+                ],
+                "Bashkir": [
+                    "ҡыҙ",
+                    "ҡыҙ бала",
+                    "ҡыҙсыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "perzent"
+                ],
+                "Uzbek": [
+                    "farzand"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kerime"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "övlad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бойжеткен"
+                ]
+            }
+        }
+    ]
+}

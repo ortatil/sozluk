@@ -1,0 +1,101 @@
+{
+    "id": "i59421",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "squeezer",
+    "en_definition": "a kitchen utensil for squeezing juice from fruit",
+    "tr_word": "narenciye sıkacağı",
+    "tr_definition": "Meyvelerin suyunu çıkarmak için kullanılan mutfak gereci.",
+    "ru_word": "соковыжималка",
+    "ru_definition": "Кухонный прибор для выжимания сока из фруктов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıkacak"
+                ],
+                "Azerbaijani": [
+                    "sıxan",
+                    "sıxıcı"
+                ],
+                "Turkmen": [
+                    "sykyjy",
+                    "sykgyç"
+                ],
+                "Uzbek": [
+                    "siqqich"
+                ],
+                "Uyghur": [
+                    "سىققۇچ"
+                ],
+                "Kazakh": [
+                    "сыққыш"
+                ],
+                "Kyrgyz": [
+                    "сыккыч"
+                ],
+                "Karakalpak": [
+                    "sıqqısh"
+                ],
+                "Tatar": [
+                    "сыккыч",
+                    "сыгучы",
+                    "сыгу җайланмасы"
+                ],
+                "Bashkir": [
+                    "һығыусы",
+                    "һыҡҡыс",
+                    "һығыу ҡоролмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şirəçəkən"
+                ],
+                "Uzbek": [
+                    "sharbat siqqich"
+                ],
+                "Uyghur": [
+                    "شىرە سىققۇچ"
+                ],
+                "Kazakh": [
+                    "шырын сыққыш"
+                ],
+                "Kyrgyz": [
+                    "шире сыккыч"
+                ],
+                "Karakalpak": [
+                    "shire sıqqısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meyve sıkacağı"
+                ],
+                "Uyghur": [
+                    "مېۋە سىققۇچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "narenciye sıkacağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ezgich"
+                ]
+            }
+        }
+    ]
+}

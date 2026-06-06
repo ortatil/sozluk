@@ -1,0 +1,95 @@
+{
+    "id": "i56270",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "motorbike",
+    "en_definition": "small motorcycle with a low frame and small wheels and elevated handlebars",
+    "tr_word": "motosiklet",
+    "tr_definition": "İki tekerlekli, motorlu bir ulaşım aracı.",
+    "ru_word": "мотоцикл",
+    "ru_definition": "Двухколесное транспортное средство с двигателем внутреннего сгорания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "motosiklet",
+                    "motor"
+                ],
+                "Azerbaijani": [
+                    "motosiklet"
+                ],
+                "Turkmen": [
+                    "motosikl",
+                    "motoulag"
+                ],
+                "Uyghur": [
+                    "موتوسىكلىت",
+                    "موتور"
+                ],
+                "Kazakh": [
+                    "мотоцикл"
+                ],
+                "Kyrgyz": [
+                    "мотоцикл",
+                    "моторлуу унаа"
+                ],
+                "Karakalpak": [
+                    "motocikl"
+                ],
+                "Tatar": [
+                    "мотоцикл",
+                    "моторлы арба",
+                    "моторлы велосипед"
+                ],
+                "Bashkir": [
+                    "мотоцикл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "moped"
+                ],
+                "Azerbaijani": [
+                    "moped"
+                ],
+                "Uzbek": [
+                    "moped"
+                ],
+                "Kazakh": [
+                    "мопед"
+                ],
+                "Karakalpak": [
+                    "moped"
+                ],
+                "Bashkir": [
+                    "мопед"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mototsikl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ulov"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік"
+                ]
+            }
+        }
+    ]
+}

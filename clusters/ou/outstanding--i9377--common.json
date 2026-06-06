@@ -1,0 +1,164 @@
+{
+    "id": "i9377",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "outstanding",
+    "en_definition": "owed as a debt",
+    "tr_word": "ödenmemiş",
+    "tr_definition": "borç olarak bekleyen, henüz kapatılmamış hesap veya borç",
+    "ru_word": "просроченный",
+    "ru_definition": "не выплаченный в срок или подлежащий выплате долг",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tölenmedik"
+                ],
+                "Uzbek": [
+                    "to'lanmagan"
+                ],
+                "Uyghur": [
+                    "تۆلەنمىگەن"
+                ],
+                "Kazakh": [
+                    "төленбеген"
+                ],
+                "Kyrgyz": [
+                    "төлөнө элек",
+                    "төлөнбөгөн"
+                ],
+                "Karakalpak": [
+                    "tólenbegen"
+                ],
+                "Tatar": [
+                    "түләнмәгән"
+                ],
+                "Bashkir": [
+                    "түләнмәгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bergi"
+                ],
+                "Uzbek": [
+                    "berilmagan"
+                ],
+                "Uyghur": [
+                    "بېرىلمىگەن"
+                ],
+                "Kazakh": [
+                    "берешек"
+                ],
+                "Kyrgyz": [
+                    "бериле элек"
+                ],
+                "Karakalpak": [
+                    "berilmegen"
+                ],
+                "Bashkir": [
+                    "бирелмәгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "karz"
+                ],
+                "Uzbek": [
+                    "qarz"
+                ],
+                "Uyghur": [
+                    "قەرز"
+                ],
+                "Kazakh": [
+                    "қарыз"
+                ],
+                "Kyrgyz": [
+                    "карыз"
+                ],
+                "Karakalpak": [
+                    "qarız"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "borçlu"
+                ],
+                "Azerbaijani": [
+                    "borc"
+                ],
+                "Tatar": [
+                    "бурычлы"
+                ],
+                "Bashkir": [
+                    "бурыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qalan"
+                ],
+                "Uyghur": [
+                    "قالدۇق"
+                ],
+                "Tatar": [
+                    "калган"
+                ],
+                "Bashkir": [
+                    "ҡалған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ödenmemiş"
+                ],
+                "Azerbaijani": [
+                    "ödənilməmiş"
+                ],
+                "Kazakh": [
+                    "өтелмеген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bakydar"
+                ],
+                "Uzbek": [
+                    "boqiyanda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vadesi geçmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muallak"
+                ]
+            }
+        }
+    ]
+}

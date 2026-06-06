@@ -1,0 +1,83 @@
+{
+    "id": "i55109",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ink cartridge",
+    "en_definition": "a cartridge that contains ink and can be replaced",
+    "tr_word": "mürekkep kartuşu",
+    "tr_definition": "mürekkep içeren ve değiştirilebilen bir kartuş",
+    "ru_word": "чернильный картридж",
+    "ru_definition": "сменный блок, содержащий чернила для печати",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "syýa gabasy",
+                    "syýa gutusy",
+                    "syýa gaby"
+                ],
+                "Uzbek": [
+                    "siyohdon",
+                    "siyoh qutisi",
+                    "siyoh g'ilofi"
+                ],
+                "Uyghur": [
+                    "سىياھ قۇتىسى",
+                    "سىياھدان",
+                    "سىياھ قاپچۇقى"
+                ],
+                "Kazakh": [
+                    "сия сауыты",
+                    "сия патроны",
+                    "сия құтысы"
+                ],
+                "Kyrgyz": [
+                    "сыя кутусу",
+                    "сыя идиши",
+                    "сыя сактагыч"
+                ],
+                "Karakalpak": [
+                    "sıya saoıtı",
+                    "sıya qabı",
+                    "sıya patronı"
+                ],
+                "Tatar": [
+                    "сыя савыты",
+                    "сыя кассетасы",
+                    "сыя патроны"
+                ],
+                "Bashkir": [
+                    "сыя һауыты",
+                    "сыя кассетаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mürekkep kartuşu"
+                ],
+                "Azerbaijani": [
+                    "mürəkkəb qabı",
+                    "mürəkkəb qutusu",
+                    "mürəkkəb patronu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazıcı kartuşu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kartuş"
+                ]
+            }
+        }
+    ]
+}

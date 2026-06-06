@@ -1,0 +1,98 @@
+{
+    "id": "i61738",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wart",
+    "en_definition": "(pathology) a firm abnormal elevated blemish on the skin; caused by a virus",
+    "tr_word": "siğil",
+    "tr_definition": "Virüslerin neden olduğu, deri üzerinde oluşan sert ve pürüzlü küçük ur.",
+    "ru_word": "бородавка",
+    "ru_definition": "Доброкачественное новообразование кожи, имеющее вид узелка или сосочка, вызываемое вирусом папилломы человека.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "siğil"
+                ],
+                "Azerbaijani": [
+                    "ziyil"
+                ],
+                "Turkmen": [
+                    "sögal"
+                ],
+                "Uzbek": [
+                    "so'gal",
+                    "su'gal"
+                ],
+                "Uyghur": [
+                    "سۆگەل",
+                    "سۆگەلچەك"
+                ],
+                "Kazakh": [
+                    "сүйел"
+                ],
+                "Kyrgyz": [
+                    "сөөл"
+                ],
+                "Karakalpak": [
+                    "súyel"
+                ],
+                "Tatar": [
+                    "сөял"
+                ],
+                "Bashkir": [
+                    "һөйел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бөртпе"
+                ],
+                "Karakalpak": [
+                    "bórtpe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түйүн"
+                ],
+                "Bashkir": [
+                    "төйөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nasır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gabarcyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "миң"
+                ]
+            }
+        }
+    ]
+}

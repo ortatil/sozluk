@@ -1,0 +1,85 @@
+{
+    "id": "i112099",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sleep disorder",
+    "en_definition": "a disturbance of the normal sleep pattern",
+    "tr_word": "uyku bozukluğu",
+    "tr_definition": "normal uyku düzeninin bozulması durumu",
+    "ru_word": "расстройство сна",
+    "ru_definition": "нарушение нормального режима сна",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uyku bozukluğu",
+                    "uykusuzluk",
+                    "uyku düzensizliği"
+                ],
+                "Uzbek": [
+                    "uyqusizlik",
+                    "uyqu buzilishi"
+                ],
+                "Uyghur": [
+                    "ئۇيقۇسىزلىق",
+                    "ئۇيقۇ قالايمىقانلىشىش",
+                    "ئۇيقۇ بوزۇلۇش"
+                ],
+                "Kazakh": [
+                    "ұйқының бұзылуы",
+                    "ұйқысыздық",
+                    "ұйқы мазасыздығы"
+                ],
+                "Kyrgyz": [
+                    "уйкусуздук",
+                    "уйкунун бузулушу",
+                    "уйку качуу"
+                ],
+                "Karakalpak": [
+                    "uyqısızlıq",
+                    "uyqınıń buzılıoı",
+                    "uyqı buzılıoı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yuxu pozğunluğu",
+                    "yuxusuzluq",
+                    "yuxu ixtilalı"
+                ],
+                "Turkmen": [
+                    "ukusyzlyk",
+                    "ukusyzlyk keseli"
+                ],
+                "Tatar": [
+                    "йокысызлык",
+                    "йокы бозылу",
+                    "йокысызлык чире"
+                ],
+                "Bashkir": [
+                    "йоҡо боҙолоу",
+                    "йоҡоһоҙлоҡ",
+                    "йоҡо ҡасыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ukynyň bozulmagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bedorlik"
+                ]
+            }
+        }
+    ]
+}

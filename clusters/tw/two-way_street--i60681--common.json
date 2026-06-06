@@ -1,0 +1,77 @@
+{
+    "id": "i60681",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "two-way street",
+    "en_definition": "a street on which vehicular traffic can move in either of two directions",
+    "tr_word": "iki yönlü yol",
+    "tr_definition": "araç trafiğinin her iki yönde de akabildiği yol",
+    "ru_word": "дорога с двусторонним движением",
+    "ru_definition": "улица, по которой транспортные средства могут двигаться в обоих направлениях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki yönlü yol"
+                ],
+                "Azerbaijani": [
+                    "ikitərəfli yol",
+                    "ikitərəfli küçə"
+                ],
+                "Turkmen": [
+                    "iki taraplaýyn ýol",
+                    "iki ugra gatnalýan ýol"
+                ],
+                "Uzbek": [
+                    "ikki tomonlama yo'l",
+                    "ikki yo'nalishli yo'l"
+                ],
+                "Uyghur": [
+                    "ئىككى تەرەپلىك يول"
+                ],
+                "Kazakh": [
+                    "екі жақты жол",
+                    "екі бағытты жол"
+                ],
+                "Kyrgyz": [
+                    "эки тараптуу жол",
+                    "эки багыттуу жол"
+                ],
+                "Karakalpak": [
+                    "ekі tárepleme jol",
+                    "ekі baǵdarlı jol"
+                ],
+                "Tatar": [
+                    "ике яклы юл",
+                    "ике яклы хәрәкәтле юл"
+                ],
+                "Bashkir": [
+                    "ике яҡлы юл",
+                    "ике яҡлы урам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift yönlü yol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gidiş gelişli yol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوش يۆنىلىشلىك يول"
+                ]
+            }
+        }
+    ]
+}

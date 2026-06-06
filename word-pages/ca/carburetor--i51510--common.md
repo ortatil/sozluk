@@ -1,0 +1,156 @@
+# Carburetor
+| Field | Detail |
+|---|---|
+| **ID** | i51510 |
+| **English** | carburetor |
+| **Type** | noun |
+| **Definition** | mixes air with gasoline vapor prior to explosion |
+| **Source** | common |
+| **Ortatil** | karbırator |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **karbırator** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қоспалағыш | qospalağış |
+| **Kyrgyz** | |
+| аралаштыргыч | aralaştırgıç |
+| **Tatar** | |
+| катнаштыргыч | katnaştırgıç |
+
+```json
+{
+    "id": "i51510",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "carburetor",
+    "en_definition": "mixes air with gasoline vapor prior to explosion",
+    "tr_word": "karbüratör",
+    "tr_definition": "patlamadan önce havayı benzin buharıyla karıştıran cihaz",
+    "ru_word": "карбюратор",
+    "ru_definition": "устройство для смешивания воздуха с парами бензина перед взрывом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karbüratör"
+                ],
+                "Azerbaijani": [
+                    "karbürator"
+                ],
+                "Turkmen": [
+                    "garyjy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yakıt karıştırıcı"
+                ],
+                "Uzbek": [
+                    "yoqilgʻi qorgich"
+                ],
+                "Uyghur": [
+                    "يېقىلغۇ ئارىلاشتۇرغۇچ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "havo-yoqilgʻi aralashtirgich"
+                ],
+                "Uyghur": [
+                    "ھاۋا-يېقىلغۇ ئارىلاشتۇرغۇچ"
+                ],
+                "Tatar": [
+                    "һава-ягулык катнаштыргыч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жанармай араластырғыш"
+                ],
+                "Karakalpak": [
+                    "janar-may aralastırǵısh"
+                ],
+                "Bashkir": [
+                    "яныу ҡатнашмаһы әҙерләгес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarışdırıcı"
+                ],
+                "Turkmen": [
+                    "garyşdyryjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аралаштыргыч"
+                ],
+                "Karakalpak": [
+                    "aralastırǵısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "катнаштыргыч"
+                ],
+                "Bashkir": [
+                    "ҡатнашма яһағыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоспалағыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аба-күйүүчү май аралаштыргыч"
+                ]
+            }
+        }
+    ]
+}
+```
+

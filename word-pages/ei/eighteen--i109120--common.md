@@ -1,0 +1,71 @@
+# Eighteen
+| Field | Detail |
+|---|---|
+| **ID** | i109120 |
+| **English** | eighteen |
+| **Type** | noun |
+| **Definition** | the cardinal number that is the sum of seventeen and one |
+| **Source** | common |
+| **Ortatil** | unsügez |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| унсигез | unsigez |
+
+```json
+{
+    "id": "i109120",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eighteen",
+    "en_definition": "the cardinal number that is the sum of seventeen and one",
+    "tr_word": "on sekiz",
+    "tr_definition": "on yedi ve bir sayılarının toplamı olan sayı",
+    "ru_word": "восемнадцать",
+    "ru_definition": "число, равное сумме семнадцати и единицы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "on sekiz"
+                ],
+                "Azerbaijani": [
+                    "on səkkiz"
+                ],
+                "Turkmen": [
+                    "on sekiz"
+                ],
+                "Uzbek": [
+                    "o'n sakkiz"
+                ],
+                "Uyghur": [
+                    "ئون سەككىز"
+                ],
+                "Kazakh": [
+                    "он сегіз"
+                ],
+                "Kyrgyz": [
+                    "он сегиз"
+                ],
+                "Karakalpak": [
+                    "on segiz"
+                ],
+                "Tatar": [
+                    "унсигез"
+                ],
+                "Bashkir": [
+                    "ун һигеҙ"
+                ]
+            }
+        }
+    ]
+}
+```
+

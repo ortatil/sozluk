@@ -1,0 +1,170 @@
+# Fried egg
+| Field | Detail |
+|---|---|
+| **ID** | i78381 |
+| **English** | fried egg |
+| **Type** | noun |
+| **Definition** | eggs cooked by sauteing in oil or butter; sometimes turned and cooked on both sides |
+| **Source** | common |
+| **Ortatil** | tuhumdağ |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تۇخۇمداغ | tuxumdağ |
+| **Kazakh** | |
+| көзжұмыртқа | közjumırtqa |
+| **Kyrgyz** | |
+| куймак | kuymak |
+
+```json
+{
+    "id": "i78381",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fried egg",
+    "en_definition": "eggs cooked by sauteing in oil or butter; sometimes turned and cooked on both sides",
+    "tr_word": "sahanda yumurta",
+    "tr_definition": "Yağda kızartılarak pişirilen yumurta.",
+    "ru_word": "яичница",
+    "ru_definition": "Блюдо из яиц, поджаренных на сковороде в масле.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz yumurta"
+                ],
+                "Azerbaijani": [
+                    "göz yumurta"
+                ],
+                "Uzbek": [
+                    "ko'z-ko'z tuxum"
+                ],
+                "Kazakh": [
+                    "көзжұмыртқа"
+                ],
+                "Kyrgyz": [
+                    "көз жумуртка"
+                ],
+                "Karakalpak": [
+                    "kóz jұmırtqa"
+                ],
+                "Tatar": [
+                    "күзле йомырка"
+                ],
+                "Bashkir": [
+                    "күҙле йомортҡа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahanda yumurta"
+                ],
+                "Azerbaijani": [
+                    "yumurta qayqanağı"
+                ],
+                "Turkmen": [
+                    "ýumurtga gowurmasy"
+                ],
+                "Kazakh": [
+                    "жұмыртқа қуырдағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gowurlan ýumurtga"
+                ],
+                "Uzbek": [
+                    "qovurilgan tuxum"
+                ],
+                "Kyrgyz": [
+                    "куурулган жумуртка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قورۇلغان تۇخۇم"
+                ],
+                "Kazakh": [
+                    "қуырылған жұмыртқа"
+                ],
+                "Karakalpak": [
+                    "quırılǵan jұmırtqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuxum qovurma"
+                ],
+                "Uyghur": [
+                    "تۇخۇم قورىمىسى",
+                    "تۇخۇمداغ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыздырылган йомырка"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырылған йомортҡа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yağda yumurta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qayqanaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "glazunýa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "куймак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "таба йомыркасы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,78 @@
+{
+    "id": "i74210",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "press conference",
+    "en_definition": "a conference at which press and tv reporters ask questions of a politician or other celebrity",
+    "tr_word": "basın toplantısı",
+    "tr_definition": "bir politikacı veya ünlünün basın ve televizyon muhabirlerinin sorularını yanıtladığı toplantı",
+    "ru_word": "пресс-конференция",
+    "ru_definition": "собрание представителей средств массовой информации с целью информирования общественности о важных событиях или ответа на вопросы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "matbuat toplantısı"
+                ],
+                "Azerbaijani": [
+                    "mətbuat konfransı",
+                    "mətbuat toplantısı"
+                ],
+                "Turkmen": [
+                    "metbugat maslahaty",
+                    "metbugat ýygnagy"
+                ],
+                "Uzbek": [
+                    "matbuot anjumani",
+                    "matbuot konferensiyasi"
+                ],
+                "Tatar": [
+                    "матбугат конференциясе",
+                    "матбугат очрашуы"
+                ],
+                "Bashkir": [
+                    "матбуат конференцияһы",
+                    "матбуат йыйылышы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basın toplantısı",
+                    "basın açıklaması"
+                ],
+                "Kazakh": [
+                    "баспасөз мәслихаты",
+                    "баспасөз конференциясы",
+                    "баспасөз жиыны"
+                ],
+                "Kyrgyz": [
+                    "басма сөз жыйыны",
+                    "басма сөз конференциясы"
+                ],
+                "Karakalpak": [
+                    "baspasóz konferenciyası",
+                    "baspasóz májilisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇخبىرلارنى كۈتۈۋېلىش يىغىنى",
+                    "مۇخبىرلار يىغىنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "маалымат жыйыны"
+                ]
+            }
+        }
+    ]
+}

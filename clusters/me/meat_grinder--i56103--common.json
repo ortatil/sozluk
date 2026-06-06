@@ -1,0 +1,88 @@
+{
+    "id": "i56103",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "meat grinder",
+    "en_definition": "a mill for grinding meat",
+    "tr_word": "kıyma makinesi",
+    "tr_definition": "Etleri küçük parçalara ayırarak kıyma haline getiren alet",
+    "ru_word": "мясорубка",
+    "ru_definition": "прибор для измельчения мяса и превращения его в фарш",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "et değirmeni"
+                ],
+                "Turkmen": [
+                    "etüwreji",
+                    "etmaşyn"
+                ],
+                "Kazakh": [
+                    "ет үгіткіш"
+                ],
+                "Kyrgyz": [
+                    "эт тарткыч",
+                    "эт майдалагыч"
+                ],
+                "Tatar": [
+                    "ит тарткыч",
+                    "ит тегермәне"
+                ],
+                "Bashkir": [
+                    "ит турағыс",
+                    "ит тартҡыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "go'shtqiymalagich"
+                ],
+                "Uyghur": [
+                    "گۆش تارتقۇچ",
+                    "گۆش تارتقۇ"
+                ],
+                "Karakalpak": [
+                    "gósh tuuraǵısh",
+                    "gósh maydalaǵısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kıyma makinesi"
+                ],
+                "Uzbek": [
+                    "qiymalagich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ətçəkən",
+                    "ətçəkən maşın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۆش ماشىنىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еттартқыш"
+                ]
+            }
+        }
+    ]
+}

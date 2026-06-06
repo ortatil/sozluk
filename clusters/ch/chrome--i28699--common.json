@@ -1,0 +1,70 @@
+{
+    "id": "i28699",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "chrome",
+    "en_definition": "plate with chromium",
+    "tr_word": "kromaj yapmak",
+    "tr_definition": "bir yüzeyi koruma veya süsleme amacıyla kromla kaplamak",
+    "ru_word": "хромировать",
+    "ru_definition": "покрывать поверхность металла слоем хрома для защиты или декора",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kromlamak",
+                    "kromla kaplamak"
+                ],
+                "Azerbaijani": [
+                    "xromlamaq",
+                    "xromla örtmək"
+                ],
+                "Turkmen": [
+                    "hromlamak",
+                    "hrom bilen örtmek"
+                ],
+                "Uzbek": [
+                    "xromlamoq"
+                ],
+                "Uyghur": [
+                    "خىروملىماق",
+                    "خىروم يۈگۈرتمەك",
+                    "خىروم بىلەن قاپلىماق"
+                ],
+                "Kazakh": [
+                    "хромдау",
+                    "хроммен қаптау",
+                    "хром жалату"
+                ],
+                "Kyrgyz": [
+                    "хромдоо",
+                    "хром менен каптоо"
+                ],
+                "Karakalpak": [
+                    "xromlao",
+                    "xrom jalatıo",
+                    "xrom qaplao"
+                ],
+                "Tatar": [
+                    "хромлау",
+                    "хром белән каплау"
+                ],
+                "Bashkir": [
+                    "хромлау",
+                    "хром менән ҡаплау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xrom çəkmək"
+                ],
+                "Uzbek": [
+                    "xrom qoplamoq"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+# Practice range
+| Field | Detail |
+|---|---|
+| **ID** | i57637 |
+| **English** | practice range |
+| **Type** | noun |
+| **Definition** | a place for practicing golf shots |
+| **Source** | common |
+| **Ortatil** | öyüñäh |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| мәйданчык | mäydançık |
+
+```json
+{
+    "id": "i57637",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "practice range",
+    "en_definition": "a place for practicing golf shots",
+    "tr_word": "golf antrenman sahası",
+    "tr_definition": "golf vuruşları yapmak için ayrılmış çalışma alanı",
+    "ru_word": "тренировочное поле для гольфа",
+    "ru_definition": "специально отведенная площадка для отработки ударов в гольфе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məşq meydançası"
+                ],
+                "Turkmen": [
+                    "maşk meýdançasy"
+                ],
+                "Uzbek": [
+                    "mashq maydoni",
+                    "mashgʻulot maydoni"
+                ],
+                "Uyghur": [
+                    "مەشىق مەيدانى"
+                ],
+                "Kyrgyz": [
+                    "машыгуу аянты",
+                    "машыгуу талаасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "talim sahası"
+                ],
+                "Azerbaijani": [
+                    "təlim sahəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻyingoh"
+                ],
+                "Bashkir": [
+                    "өйрәнеү урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күнегү мәйданы",
+                    "күнегү урыны"
+                ],
+                "Bashkir": [
+                    "күнегеү майҙаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "atış alanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "antrenman sahası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vuruş alanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "türgenleşik meýdançasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گولف مەشىقگاھى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توپ مەشىقگاھى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаттығу алаңы",
+                    "жаттығу орны",
+                    "жаттығу майданы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shınıǵıu maydanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tájriybe maydanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәйданчык"
+                ]
+            }
+        }
+    ]
+}
+```
+

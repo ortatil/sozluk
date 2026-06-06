@@ -1,0 +1,124 @@
+{
+    "id": "i68341",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "mathematics",
+    "en_definition": "a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement",
+    "tr_word": "matematik",
+    "tr_definition": "sayı, biçim ve düzen mantığıyla ilgilenen bilim dalı",
+    "ru_word": "математика",
+    "ru_definition": "наука о структурах, порядке и отношениях, исторически сложившаяся на основе операций подсчёта, измерения и описания форм объектов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesap"
+                ],
+                "Azerbaijani": [
+                    "hesab"
+                ],
+                "Turkmen": [
+                    "hasap"
+                ],
+                "Uzbek": [
+                    "hisob"
+                ],
+                "Uyghur": [
+                    "ھېساب"
+                ],
+                "Kazakh": [
+                    "қисап",
+                    "есеп"
+                ],
+                "Kyrgyz": [
+                    "эсеп"
+                ],
+                "Karakalpak": [
+                    "esap"
+                ],
+                "Tatar": [
+                    "хисап"
+                ],
+                "Bashkir": [
+                    "хисап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "matematik"
+                ],
+                "Turkmen": [
+                    "matematika"
+                ],
+                "Uzbek": [
+                    "matematika"
+                ],
+                "Uyghur": [
+                    "ماتېماتىكا"
+                ],
+                "Kazakh": [
+                    "математика"
+                ],
+                "Kyrgyz": [
+                    "математика"
+                ],
+                "Karakalpak": [
+                    "matematika"
+                ],
+                "Tatar": [
+                    "математика"
+                ],
+                "Bashkir": [
+                    "математика"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "riyaziye"
+                ],
+                "Azerbaijani": [
+                    "riyaziyyat"
+                ],
+                "Turkmen": [
+                    "riyaziyat"
+                ],
+                "Uzbek": [
+                    "riyoziyot"
+                ],
+                "Uyghur": [
+                    "رىيازىيات"
+                ],
+                "Kyrgyz": [
+                    "риязият"
+                ],
+                "Karakalpak": [
+                    "riyazıyat"
+                ],
+                "Tatar": [
+                    "ривазыять"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эсеп илими"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хисап ғилеме"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+# Stomach exercise
+| Field | Detail |
+|---|---|
+| **ID** | i38740 |
+| **English** | stomach exercise |
+| **Type** | noun |
+| **Definition** | an exercise designed to strengthen the abdominal muscles |
+| **Source** | common |
+| **Ortatil** | mekik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i38740",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stomach exercise",
+    "en_definition": "an exercise designed to strengthen the abdominal muscles",
+    "tr_word": "karın egzersizi",
+    "tr_definition": "karın kaslarını güçlendirmek için tasarlanmış bir egzersiz",
+    "ru_word": "упражнение для пресса",
+    "ru_definition": "упражнение, предназначенное для укрепления мышц живота",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karın egzersizi",
+                    "karın çalışması"
+                ],
+                "Azerbaijani": [
+                    "qarın hərəkəti",
+                    "qarın məşqi"
+                ],
+                "Turkmen": [
+                    "garyn maşky",
+                    "garyn türgenleşigi"
+                ],
+                "Uzbek": [
+                    "qorin mashqi",
+                    "qorin mushaklari mashqi"
+                ],
+                "Tatar": [
+                    "карын күнегүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قورساق مەشىقى",
+                    "قورساق چېنىقتۇرۇش"
+                ],
+                "Kazakh": [
+                    "құрсақ жаттығуы"
+                ],
+                "Kyrgyz": [
+                    "курсак көнүгүүсү"
+                ],
+                "Tatar": [
+                    "корсак күнегүе"
+                ],
+                "Bashkir": [
+                    "ҡорһаҡ күнегеүе",
+                    "ҡорһаҡ мускулдарын нығытыу",
+                    "ҡорһаҡты сыныҡтырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pres hərəkəti"
+                ],
+                "Turkmen": [
+                    "pres maşky"
+                ],
+                "Kazakh": [
+                    "пресс жаттығуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "іш жаттығуы"
+                ],
+                "Kyrgyz": [
+                    "ич көнүгүүсү"
+                ],
+                "Karakalpak": [
+                    "іsh bұlshıqet shınıqtıruı",
+                    "іsh jattıǵuı",
+                    "іsh bұlshıqet jattıǵuı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mekik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "matn mashqi"
+                ]
+            }
+        }
+    ]
+}
+```
+

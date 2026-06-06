@@ -1,0 +1,81 @@
+{
+    "id": "i113197",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dustiness",
+    "en_definition": "the state of being covered with dust",
+    "tr_word": "tozluluk",
+    "tr_definition": "tozla kaplı olma durumu",
+    "ru_word": "запыленность",
+    "ru_definition": "состояние, при котором что-либо покрыто пылью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tozluluk",
+                    "tozlu olma",
+                    "tozlanmışlık"
+                ],
+                "Azerbaijani": [
+                    "tozluluq",
+                    "tozluq"
+                ],
+                "Turkmen": [
+                    "tozanlylyk",
+                    "tozanly"
+                ],
+                "Uzbek": [
+                    "to'zonlilik"
+                ],
+                "Uyghur": [
+                    "توزانلىق"
+                ],
+                "Tatar": [
+                    "тузанлылык",
+                    "тузанлану",
+                    "тузан"
+                ],
+                "Bashkir": [
+                    "туҙанлылыҡ",
+                    "туҙанлы булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "changlik"
+                ],
+                "Uyghur": [
+                    "چاڭ-توزانلىق"
+                ],
+                "Kazakh": [
+                    "шаңдылық",
+                    "шаң-тозаңдық",
+                    "шаң-тозаң"
+                ],
+                "Kyrgyz": [
+                    "чаңдык",
+                    "чаң баскандык",
+                    "чаңдуулук"
+                ],
+                "Karakalpak": [
+                    "shańlıq",
+                    "shań-tozańlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'uborlilik"
+                ],
+                "Uyghur": [
+                    "غۇبارلىق"
+                ]
+            }
+        }
+    ]
+}

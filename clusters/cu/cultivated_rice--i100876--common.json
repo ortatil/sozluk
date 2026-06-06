@@ -1,0 +1,95 @@
+{
+    "id": "i100876",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cultivated rice",
+    "en_definition": "yields the staple food of 50 percent of world's population",
+    "tr_word": "kültür çeltiği",
+    "tr_definition": "Dünya nüfusunun yüzde 50'sinin temel gıdasını sağlayan, tarımı yapılan pirinç türü.",
+    "ru_word": "рис посевной",
+    "ru_definition": "Сельскохозяйственная культура, обеспечивающая основным продуктом питания 50 процентов населения мира.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çeltik"
+                ],
+                "Azerbaijani": [
+                    "çəltik"
+                ],
+                "Turkmen": [
+                    "şaly"
+                ],
+                "Uzbek": [
+                    "sholi"
+                ],
+                "Uyghur": [
+                    "شال"
+                ],
+                "Kyrgyz": [
+                    "шалы"
+                ],
+                "Karakalpak": [
+                    "shalı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "guruch"
+                ],
+                "Uyghur": [
+                    "گۈرۈچ"
+                ],
+                "Kazakh": [
+                    "күріш"
+                ],
+                "Kyrgyz": [
+                    "күрүч"
+                ],
+                "Karakalpak": [
+                    "gúrіsh"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "düyü"
+                ],
+                "Turkmen": [
+                    "tüwi"
+                ],
+                "Tatar": [
+                    "дөге",
+                    "дөге ярмасы"
+                ],
+                "Bashkir": [
+                    "дөгө",
+                    "дөгө ярмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақтүтік"
+                ],
+                "Kyrgyz": [
+                    "ак күрүч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pirinç"
+                ]
+            }
+        }
+    ]
+}

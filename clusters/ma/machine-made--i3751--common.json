@@ -1,0 +1,137 @@
+{
+    "id": "i3751",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "machine-made",
+    "en_definition": "made by machine",
+    "tr_word": "makine yapımı",
+    "tr_definition": "el ile değil, bir makine aracılığıyla üretilmiş olan",
+    "ru_word": "машинного производства",
+    "ru_definition": "изготовленный с помощью машины, а не вручную",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "makine yapımı"
+                ],
+                "Azerbaijani": [
+                    "maşınqayırma"
+                ],
+                "Turkmen": [
+                    "maşyn işi",
+                    "maşynda ýasalan",
+                    "maşyn önümi"
+                ],
+                "Uzbek": [
+                    "mashinaki"
+                ],
+                "Uyghur": [
+                    "ماشىنىدا ئىشلەنگەن",
+                    "ماشىنىلاشقان"
+                ],
+                "Kazakh": [
+                    "машиналық"
+                ],
+                "Kyrgyz": [
+                    "машиналык"
+                ],
+                "Karakalpak": [
+                    "mashinada islengen"
+                ],
+                "Tatar": [
+                    "машинада ясалган",
+                    "машина эше"
+                ],
+                "Bashkir": [
+                    "машинада эшләнгән",
+                    "машина менән яһалған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mexaniki"
+                ],
+                "Uzbek": [
+                    "mexanik"
+                ],
+                "Uyghur": [
+                    "تېخنىكىلىق"
+                ],
+                "Kazakh": [
+                    "техникалық"
+                ],
+                "Kyrgyz": [
+                    "техникалык"
+                ],
+                "Karakalpak": [
+                    "texnikalıq"
+                ],
+                "Tatar": [
+                    "техник"
+                ],
+                "Bashkir": [
+                    "техник"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fabrikasyon"
+                ],
+                "Azerbaijani": [
+                    "fabrik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құрылғылық"
+                ],
+                "Bashkir": [
+                    "ҡорамаллы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el yapımı olmayan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qeyri-əl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sun'iy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жасалма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qoldan emes"
+                ]
+            }
+        }
+    ]
+}

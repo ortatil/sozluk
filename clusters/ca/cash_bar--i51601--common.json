@@ -1,0 +1,128 @@
+{
+    "id": "i51601",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cash bar",
+    "en_definition": "a counter at a large party where you can purchase drinks by the glass",
+    "tr_word": "ücretli bar",
+    "tr_definition": "içeceklerin bardak başına ücretle satıldığı, genellikle büyük davetlerde bulunan bar",
+    "ru_word": "платный бар",
+    "ru_definition": "бар на мероприятии, где гости сами оплачивают свои напитки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "içki piştaxtası"
+                ],
+                "Turkmen": [
+                    "içgi dükany",
+                    "içgi söküsi"
+                ],
+                "Uzbek": [
+                    "ichimlik rastasi"
+                ],
+                "Kyrgyz": [
+                    "ичимдик сатуучу жай"
+                ],
+                "Tatar": [
+                    "эчемлекләр киштәсе",
+                    "эчемлекләр сату урыны",
+                    "эчемлекләр өстәле"
+                ],
+                "Bashkir": [
+                    "эсемлек кәштәһе",
+                    "эсемлек һатыу урыны",
+                    "эсемлек кибете"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pullu bar"
+                ],
+                "Uzbek": [
+                    "pullik bar"
+                ],
+                "Uyghur": [
+                    "پۇللۇق ئىچىملىك ئورنى",
+                    "پۇللۇق بار"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "meýhana"
+                ],
+                "Uzbek": [
+                    "mayxona"
+                ],
+                "Uyghur": [
+                    "مەيخانا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақылы сусын сөресі",
+                    "ақылы бар"
+                ],
+                "Kyrgyz": [
+                    "акылуу бар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сусын сататын орын"
+                ],
+                "Kyrgyz": [
+                    "суусундук сатуучу орун"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ücretli bar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paralı bar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "satışlı bar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ödənişli bar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ishimlik peshtaxtası",
+                    "ishimlik ornı",
+                    "ishimlik dúkanı"
+                ]
+            }
+        }
+    ]
+}

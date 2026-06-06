@@ -1,0 +1,157 @@
+{
+    "id": "i22219",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "infect",
+    "en_definition": "communicate a disease to",
+    "tr_word": "bulaştırmak",
+    "tr_definition": "bir hastalığı başkasına geçirmek",
+    "ru_word": "заражать",
+    "ru_definition": "передавать инфекцию или болезнь кому-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýokuşmak"
+                ],
+                "Uyghur": [
+                    "يۇقتۇرماق",
+                    "يۇقۇملاندۇرماق"
+                ],
+                "Kazakh": [
+                    "жұқтыру"
+                ],
+                "Kyrgyz": [
+                    "жугузуу",
+                    "жуктуруу"
+                ],
+                "Karakalpak": [
+                    "juqtırıu"
+                ],
+                "Tatar": [
+                    "йоктыру"
+                ],
+                "Bashkir": [
+                    "йоҡтороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sirayet ettirmek"
+                ],
+                "Azerbaijani": [
+                    "sirayət etmək"
+                ],
+                "Turkmen": [
+                    "zararlandyrmak"
+                ],
+                "Uzbek": [
+                    "zararlantirmoq"
+                ],
+                "Tatar": [
+                    "чирләтү"
+                ],
+                "Bashkir": [
+                    "зарарлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geçirmek"
+                ],
+                "Azerbaijani": [
+                    "keçirmək"
+                ],
+                "Turkmen": [
+                    "geçirmek"
+                ],
+                "Kazakh": [
+                    "кеселдендіру"
+                ],
+                "Karakalpak": [
+                    "kesellendiriu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تارقاتماق"
+                ],
+                "Kazakh": [
+                    "тарату"
+                ],
+                "Karakalpak": [
+                    "tarqatıu"
+                ],
+                "Bashkir": [
+                    "таратыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bulaştırmak"
+                ],
+                "Azerbaijani": [
+                    "bulaşdırmaq"
+                ],
+                "Uzbek": [
+                    "bulgʻamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "enfekte etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yoluxdurmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yuqtirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻtkazmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илдеттөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "агулау"
+                ]
+            }
+        }
+    ]
+}

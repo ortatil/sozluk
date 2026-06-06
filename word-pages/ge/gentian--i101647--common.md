@@ -1,0 +1,213 @@
+# Gentian
+| Field | Detail |
+|---|---|
+| **ID** | i101647 |
+| **English** | gentian |
+| **Type** | noun |
+| **Definition** | any of various plants of the family Gentianaceae especially the genera Gentiana and Gentianella and Gentianopsis |
+| **Source** | common |
+| **Ortatil** | centiyanä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **centiyanä** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| جەنتىيانا | jäntiyana |
+| چۆچۈنئوت | çöçünot |
+| **Kazakh** | |
+| көкгүл | kökgül |
+| көкшегүл | kökşegül |
+| қалыңгүл | qalıñgül |
+| **Kyrgyz** | |
+| байчечекей | bayçeçekey |
+
+```json
+{
+    "id": "i101647",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gentian",
+    "en_definition": "any of various plants of the family Gentianaceae especially the genera Gentiana and Gentianella and Gentianopsis",
+    "tr_word": "kantaron",
+    "tr_definition": "Gentianaceae familyasından, özellikle Gentiana cinsine ait, genellikle mavi çiçekli otsu bir bitki.",
+    "ru_word": "горечавка",
+    "ru_definition": "Травянистое растение семейства Горечавковые, обычно с синими цветками, используемое в медицине и садоводстве.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻk oʻt"
+                ],
+                "Uyghur": [
+                    "كۆك چۆچۈنئوت"
+                ],
+                "Kazakh": [
+                    "көкгүл",
+                    "көкшегүл"
+                ],
+                "Kyrgyz": [
+                    "көк гүл",
+                    "көк чөп"
+                ],
+                "Bashkir": [
+                    "күк уты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "centiyane"
+                ],
+                "Azerbaijani": [
+                    "centiana"
+                ],
+                "Uyghur": [
+                    "جەنتىيانا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "acıçiçək"
+                ],
+                "Turkmen": [
+                    "ajyot"
+                ],
+                "Uzbek": [
+                    "achchiq oʻt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kantaron"
+                ],
+                "Turkmen": [
+                    "gentiana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үткән үлән"
+                ],
+                "Bashkir": [
+                    "үт үләне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yılanotu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güveotu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kofun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "anzur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چۆچۈنئوت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қалыңгүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "байчечекей"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kekere"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ashchıshóp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сары мәтрүшкә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зәңгәр чәчәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "саған үләне"
+                ]
+            }
+        }
+    ]
+}
+```
+

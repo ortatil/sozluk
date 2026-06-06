@@ -1,0 +1,115 @@
+{
+    "id": "i17748",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "orthopedic",
+    "en_definition": "of or relating to orthopedics",
+    "tr_word": "ortopedik",
+    "tr_definition": "ortopedi ile ilgili olan veya ortopedinin ilkelerine uygun olarak yapılmış",
+    "ru_word": "ортопедический",
+    "ru_definition": "относящийся к ортопедии, предназначенный для лечения или профилактики деформаций тела",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sümük-oynaq"
+                ],
+                "Turkmen": [
+                    "sünk-bogun"
+                ],
+                "Kazakh": [
+                    "сүйек-буын"
+                ],
+                "Kyrgyz": [
+                    "сөөк-муун"
+                ],
+                "Karakalpak": [
+                    "súyek-buın",
+                    "súyek-tuorılao"
+                ],
+                "Tatar": [
+                    "сөяк-буын"
+                ],
+                "Bashkir": [
+                    "һөйәк-быуын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ortopedik"
+                ],
+                "Azerbaijani": [
+                    "ortopedik"
+                ],
+                "Turkmen": [
+                    "ortopedik"
+                ],
+                "Kazakh": [
+                    "ортопедиялық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төзәтүче",
+                    "төзәтү"
+                ],
+                "Bashkir": [
+                    "төҙәтеүсе",
+                    "төҙәтеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kemiksel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iskeletsel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suyak-bo'g'im",
+                    "suyakshunoslik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shikastshunoslik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۆڭەك كېسەللىكلىرى",
+                    "سۆڭەك تاشقى كېسەللىكلىرى",
+                    "سۆڭەككە ئائىت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сөөк-муун ооруларына тиешелүү",
+                    "сөөк түзөтүүчү"
+                ]
+            }
+        }
+    ]
+}

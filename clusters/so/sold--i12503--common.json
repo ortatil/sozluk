@@ -1,0 +1,86 @@
+{
+    "id": "i12503",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sold",
+    "en_definition": "disposed of to a purchaser",
+    "tr_word": "satılmış",
+    "tr_definition": "bir alıcıya devredilmiş, elden çıkarılmış",
+    "ru_word": "проданный",
+    "ru_definition": "переданный покупателю в обмен на деньги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satılmış",
+                    "satık",
+                    "satılan"
+                ],
+                "Azerbaijani": [
+                    "satılmış",
+                    "satılan",
+                    "satıq"
+                ],
+                "Turkmen": [
+                    "satylan",
+                    "satuwa çykarylan"
+                ],
+                "Uzbek": [
+                    "sotilgan"
+                ],
+                "Uyghur": [
+                    "سېتىلغان",
+                    "سېتىقلىق"
+                ],
+                "Kazakh": [
+                    "сатылған"
+                ],
+                "Kyrgyz": [
+                    "сатылган"
+                ],
+                "Karakalpak": [
+                    "satılǵan"
+                ],
+                "Tatar": [
+                    "сатылган",
+                    "сатылулы"
+                ],
+                "Bashkir": [
+                    "һатылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өткен"
+                ],
+                "Kyrgyz": [
+                    "өткөрүлгөн"
+                ],
+                "Karakalpak": [
+                    "ótkerіlgen"
+                ],
+                "Bashkir": [
+                    "үткәрелгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "furush"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саудаланған"
+                ]
+            }
+        }
+    ]
+}

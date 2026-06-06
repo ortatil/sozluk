@@ -1,0 +1,103 @@
+{
+    "id": "i111819",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oral cancer",
+    "en_definition": "malignant neoplasm of the lips of mouth; most common in men over the age of 60",
+    "tr_word": "ağız kanseri",
+    "tr_definition": "Dudaklarda veya ağız boşluğunda meydana gelen kötü huylu tümör; en yaygın olarak 60 yaş üstü erkeklerde görülür.",
+    "ru_word": "рак полости рта",
+    "ru_definition": "Злокачественное новообразование губ или полости рта; наиболее часто встречается у мужчин старше 60 лет.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağız kanseri",
+                    "ağız boşluğu kanseri",
+                    "ağız tümörü",
+                    "ağız habis uru"
+                ],
+                "Azerbaijani": [
+                    "ağız xərçəngi",
+                    "ağız boşluğu xərçəngi",
+                    "ağız boşluğunun bədxassəli şişi"
+                ],
+                "Turkmen": [
+                    "agyz ragy",
+                    "agyz boşlugynyň ragy",
+                    "agyz seretany"
+                ],
+                "Uzbek": [
+                    "og'iz saratoni",
+                    "og'iz bo'shlig'i saratoni",
+                    "og'iz rak"
+                ],
+                "Uyghur": [
+                    "ئاغىز بوشلۇقى راكى",
+                    "ئاغىز راكى"
+                ],
+                "Kazakh": [
+                    "ауыз қуысының қатерлі ісігі",
+                    "ауыз рагы"
+                ],
+                "Karakalpak": [
+                    "aoız quısı ragı",
+                    "aoız ragı"
+                ],
+                "Tatar": [
+                    "авыз куышлыгы рагы",
+                    "авыз яман шеше"
+                ],
+                "Bashkir": [
+                    "ауыҙ яман шеше",
+                    "ауыҙ ҡыҫырығы",
+                    "ауыҙ рагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dodaq xərçəngi"
+                ],
+                "Turkmen": [
+                    "dodak ragy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ерін қатерлі ісігі"
+                ],
+                "Karakalpak": [
+                    "erіn ragı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "لەۋ راكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ооз рагы",
+                    "ооз көңдөйүнүн рагы",
+                    "ооздогу шишик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирен рагы"
+                ]
+            }
+        }
+    ]
+}

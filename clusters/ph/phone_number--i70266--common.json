@@ -1,0 +1,81 @@
+{
+    "id": "i70266",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "phone number",
+    "en_definition": "the number is used in calling a particular telephone",
+    "tr_word": "telefon numarası",
+    "tr_definition": "belirli bir telefonu aramak için kullanılan numara",
+    "ru_word": "номер телефона",
+    "ru_definition": "номер, используемый для вызова конкретного телефона",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telefon numarası",
+                    "telefon no"
+                ],
+                "Azerbaijani": [
+                    "telefon nömrəsi"
+                ],
+                "Turkmen": [
+                    "telefon belgisi",
+                    "telefon nomeri"
+                ],
+                "Uzbek": [
+                    "telefon raqami"
+                ],
+                "Uyghur": [
+                    "تېلېفون نومۇرى",
+                    "تېلېفون نومۇر"
+                ],
+                "Kazakh": [
+                    "телефон нөмірі"
+                ],
+                "Kyrgyz": [
+                    "телефон номери"
+                ],
+                "Karakalpak": [
+                    "telefon nomeri",
+                    "telefon sanları"
+                ],
+                "Tatar": [
+                    "телефон номеры",
+                    "телефон саны"
+                ],
+                "Bashkir": [
+                    "телефон номеры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "байланыс нөмірі"
+                ],
+                "Kyrgyz": [
+                    "байланыш номери"
+                ],
+                "Bashkir": [
+                    "бәйләнеш номеры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rabitə nömrəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aloqa raqami"
+                ]
+            }
+        }
+    ]
+}

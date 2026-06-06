@@ -1,0 +1,156 @@
+# Hot flash
+| Field | Detail |
+|---|---|
+| **ID** | i112303 |
+| **English** | hot flash |
+| **Type** | noun |
+| **Definition** | sudden brief sensation of heat (associated with menopause and some mental disorders) |
+| **Source** | common |
+| **Ortatil** | istigälmä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| эсселек | esselek |
+| кызулык | kızulık |
+
+```json
+{
+    "id": "i112303",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hot flash",
+    "en_definition": "sudden brief sensation of heat (associated with menopause and some mental disorders)",
+    "tr_word": "ateş basması",
+    "tr_definition": "Menopoz veya bazı ruhsal bozukluklarla ilişkilendirilen, ani ve kısa süreli sıcaklık hissi.",
+    "ru_word": "прилив",
+    "ru_definition": "Внезапное кратковременное ощущение жара, связанное с менопаузой или некоторыми психическими расстройствами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "istigəlmə",
+                    "istibasma",
+                    "istilik gəlməsi"
+                ],
+                "Uzbek": [
+                    "issiq bosishi"
+                ],
+                "Uyghur": [
+                    "ئىسسىق ئۆرلەش",
+                    "ئىسسىق تېپىش"
+                ],
+                "Kazakh": [
+                    "ыстық леп",
+                    "ыстық ұру",
+                    "ыстық көтерілу"
+                ],
+                "Kyrgyz": [
+                    "ысык илеп",
+                    "ысык толкун",
+                    "ысык уруу",
+                    "ысык илептөө"
+                ],
+                "Karakalpak": [
+                    "ıssılıq basıo",
+                    "ıssılıq kelio"
+                ],
+                "Tatar": [
+                    "эсселек"
+                ],
+                "Bashkir": [
+                    "эҫе ҡабыныу",
+                    "эҫе бәреү",
+                    "эҫелек килеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hararet"
+                ],
+                "Azerbaijani": [
+                    "hərarət basması"
+                ],
+                "Uzbek": [
+                    "havorat ko'tarilishi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyzgynlyk",
+                    "gyzyşma",
+                    "gyzgynlyk urmasy"
+                ],
+                "Tatar": [
+                    "кызулык",
+                    "кызу килү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дене қызуы"
+                ],
+                "Karakalpak": [
+                    "dene qızıoı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ateş basması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıcak basması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lovullash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qizib ketish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇيۇقسىز قىزىش"
+                ]
+            }
+        }
+    ]
+}
+```
+

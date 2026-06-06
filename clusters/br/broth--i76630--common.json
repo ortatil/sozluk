@@ -1,0 +1,149 @@
+{
+    "id": "i76630",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "broth",
+    "en_definition": "liquid in which meat and vegetables are simmered; used as a basis for e.g. soups or sauces",
+    "tr_word": "et suyu",
+    "tr_definition": "Et, sebze veya tahılların suda kaynatılmasıyla elde edilen besleyici sıvı.",
+    "ru_word": "бульон",
+    "ru_definition": "Жидкий навар из мяса, рыбы или овощей, используемый как основа для супов и соусов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su"
+                ],
+                "Azerbaijani": [
+                    "şorba suyu"
+                ],
+                "Turkmen": [
+                    "şorba",
+                    "çorba"
+                ],
+                "Uzbek": [
+                    "sho'rva"
+                ],
+                "Uyghur": [
+                    "شورپا"
+                ],
+                "Kazakh": [
+                    "сорпа"
+                ],
+                "Kyrgyz": [
+                    "шорпо",
+                    "сорпо"
+                ],
+                "Karakalpak": [
+                    "sorpa",
+                    "shúrpe"
+                ],
+                "Tatar": [
+                    "шулпа"
+                ],
+                "Bashkir": [
+                    "һурпа",
+                    "һурпа-ҡатыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suw"
+                ],
+                "Uzbek": [
+                    "suv"
+                ],
+                "Uyghur": [
+                    "سۇيۇقئاش سۈيى"
+                ],
+                "Tatar": [
+                    "суган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "et suyu"
+                ],
+                "Azerbaijani": [
+                    "ət suyu"
+                ],
+                "Tatar": [
+                    "ит суы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bulyon"
+                ],
+                "Azerbaijani": [
+                    "bulyon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haşlama suyu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qaynatma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shira"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يەخنە سۈيى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұздық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "маңыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу"
+                ]
+            }
+        }
+    ]
+}

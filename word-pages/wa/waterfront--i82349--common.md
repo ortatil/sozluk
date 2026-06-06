@@ -1,0 +1,244 @@
+# Waterfront
+| Field | Detail |
+|---|---|
+| **ID** | i82349 |
+| **English** | waterfront |
+| **Type** | noun |
+| **Definition** | the area of a city (such as a harbor or dockyard) alongside a body of water |
+| **Source** | common |
+| **Ortatil** | jağa |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jağa** | **sahil** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ❌ | ✅ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ❌ | ✅ |
+| Uyghur | ❌ | ✅ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.67 |
+| *Qarluq Subtotal* | 0 | 1 |
+| *Qipchaq Subtotal* | 0.60 | 0 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  |
+| **O'TQ** | **1.77** | **1.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ساھىل | sahil |
+| **Kazakh** | |
+| жағалау | jağalau |
+| жаға | jağa |
+| кемежай | kemejay |
+| айлақ | aylaq |
+| **Kyrgyz** | |
+| жээк | jeek |
+| кылаа | kılaa |
+| **Tatar** | |
+| яр | yar |
+
+```json
+{
+    "id": "i82349",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "waterfront",
+    "en_definition": "the area of a city (such as a harbor or dockyard) alongside a body of water",
+    "tr_word": "rıhtım boyu",
+    "tr_definition": "bir şehrin su kenarında (liman veya tersane gibi) bulunan bölgesi",
+    "ru_word": "набережная",
+    "ru_definition": "часть города (например, гавань или верфь), расположенная вдоль водоема",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suw boýy"
+                ],
+                "Uzbek": [
+                    "suv boʻyi"
+                ],
+                "Uyghur": [
+                    "سۇ بويى"
+                ],
+                "Kyrgyz": [
+                    "суу жээги"
+                ],
+                "Karakalpak": [
+                    "su boyı"
+                ],
+                "Tatar": [
+                    "су буе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahil"
+                ],
+                "Azerbaijani": [
+                    "sahil",
+                    "sahilyanı"
+                ],
+                "Uzbek": [
+                    "sohil"
+                ],
+                "Uyghur": [
+                    "ساھىل"
+                ],
+                "Bashkir": [
+                    "һыу буйы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yalı"
+                ],
+                "Turkmen": [
+                    "ýaka"
+                ],
+                "Kazakh": [
+                    "жағалау",
+                    "жаға"
+                ],
+                "Kyrgyz": [
+                    "жээк"
+                ],
+                "Karakalpak": [
+                    "jaǵa",
+                    "jaǵalau"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "derýa boýy",
+                    "deňiz ýakasy"
+                ],
+                "Uzbek": [
+                    "daryo boʻyi"
+                ],
+                "Uyghur": [
+                    "دەريا بويى"
+                ],
+                "Kyrgyz": [
+                    "дарыя жээги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kıyı"
+                ],
+                "Kyrgyz": [
+                    "кылаа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kənar"
+                ],
+                "Turkmen": [
+                    "kenar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кемежай"
+                ],
+                "Kyrgyz": [
+                    "көл жээги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яр буе",
+                    "яр"
+                ],
+                "Bashkir": [
+                    "яр буйы",
+                    "яр буйы һыҙаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kordon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rıhtım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "liman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qirgʻoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆل بويى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پورت ئەتراپى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айлақ"
+                ]
+            }
+        }
+    ]
+}
+```
+

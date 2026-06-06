@@ -1,0 +1,77 @@
+{
+    "id": "i109155",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trillion",
+    "en_definition": "the number that is represented as a one followed by 18 zeros",
+    "tr_word": "trilyon",
+    "tr_definition": "bir ve yanındaki on sekiz sıfırdan oluşan sayı",
+    "ru_word": "триллион",
+    "ru_definition": "число, изображаемое единицей с восемнадцатью нулями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "trilyon"
+                ],
+                "Azerbaijani": [
+                    "trilyon"
+                ],
+                "Turkmen": [
+                    "trillion",
+                    "trilýon"
+                ],
+                "Uzbek": [
+                    "trillion"
+                ],
+                "Uyghur": [
+                    "تىرىليون"
+                ],
+                "Kazakh": [
+                    "триллион"
+                ],
+                "Kyrgyz": [
+                    "триллион"
+                ],
+                "Karakalpak": [
+                    "trillion"
+                ],
+                "Tatar": [
+                    "триллион"
+                ],
+                "Bashkir": [
+                    "триллион"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بىر مىڭ مىليارد"
+                ],
+                "Tatar": [
+                    "мең миллиард"
+                ],
+                "Bashkir": [
+                    "мең миллиард"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kentilyon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'n sakkiz nollik son"
+                ]
+            }
+        }
+    ]
+}

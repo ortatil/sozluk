@@ -1,0 +1,224 @@
+# Good humor
+| Field | Detail |
+|---|---|
+| **ID** | i76446 |
+| **English** | good humor |
+| **Type** | noun |
+| **Definition** | a cheerful and agreeable mood |
+| **Source** | common |
+| **Ortatil** | hoşgor |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **hoşgor** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| خۇشخۇي | xuşxuy |
+| خۇشچاقچاقلىق | xuşçaqçaqliq |
+| **Kazakh** | |
+| жайдарлылық | jaydarlılıq |
+| ашық-жарқындық | aşıq-jarqındıq |
+| **Kyrgyz** | |
+| көңүлдүүлүк | köñüldüülük |
+
+```json
+{
+    "id": "i76446",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "good humor",
+    "en_definition": "a cheerful and agreeable mood",
+    "tr_word": "neşeli ruh hali",
+    "tr_definition": "neşeli ve uyumlu bir ruh hali",
+    "ru_word": "добродушие",
+    "ru_definition": "веселое и приятное настроение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hoşgörü"
+                ],
+                "Azerbaijani": [
+                    "xoşrəftarlıq",
+                    "xoşbəxtlik",
+                    "xoş ovqat"
+                ],
+                "Turkmen": [
+                    "hoşamaýlyk",
+                    "hoşniýetlilik"
+                ],
+                "Uzbek": [
+                    "xushchaqchaqlik",
+                    "xushnudlik",
+                    "xushkayfiyat"
+                ],
+                "Uyghur": [
+                    "خۇشخۇي",
+                    "خۇشچاقچاقلىق",
+                    "خۇش تەبىئەت"
+                ],
+                "Karakalpak": [
+                    "xush keypiyat"
+                ],
+                "Tatar": [
+                    "хуш кәеф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жайдарлылық"
+                ],
+                "Kyrgyz": [
+                    "жакшы маанай"
+                ],
+                "Karakalpak": [
+                    "jaqsı keypiyat"
+                ],
+                "Tatar": [
+                    "яхшы кәеф"
+                ],
+                "Bashkir": [
+                    "яҡшы кәйеф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şadyýanlyk"
+                ],
+                "Uzbek": [
+                    "shodmonlik"
+                ],
+                "Tatar": [
+                    "шат күңел"
+                ],
+                "Bashkir": [
+                    "шат кәйеф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güler yüz"
+                ],
+                "Azerbaijani": [
+                    "gülərüzlülük"
+                ],
+                "Turkmen": [
+                    "güler ýüzlülik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ашық-жарқындық"
+                ],
+                "Kyrgyz": [
+                    "ачык маанай"
+                ],
+                "Karakalpak": [
+                    "ashıq keoil"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "көңүлдүүлүк"
+                ],
+                "Tatar": [
+                    "күңел күтәренкелеге"
+                ],
+                "Bashkir": [
+                    "күңел күтәренкелеге",
+                    "күңел асыҡлығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şuhluk"
+                ],
+                "Azerbaijani": [
+                    "şənlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "neşeli hal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "keyif"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوچۇق چىرايلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көтеріңкі көңіл-күй",
+                    "жақсы көңіл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "куунак маанай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kóterińki rux"
+                ]
+            }
+        }
+    ]
+}
+```
+

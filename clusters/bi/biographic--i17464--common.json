@@ -1,0 +1,112 @@
+{
+    "id": "i17464",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "biographic",
+    "en_definition": "of or relating to or being biography",
+    "tr_word": "biyografik",
+    "tr_definition": "bir kimsenin yaşam öyküsü ile ilgili olan",
+    "ru_word": "биографический",
+    "ru_definition": "относящийся к биографии, содержащий описание жизни кого-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tercümeihal"
+                ],
+                "Azerbaijani": [
+                    "tərcümeyi-hal"
+                ],
+                "Turkmen": [
+                    "terjimehallyk"
+                ],
+                "Uzbek": [
+                    "tarjimai holga oid"
+                ],
+                "Uyghur": [
+                    "تەرجىمىھاللىق",
+                    "تەرجىمىھالغا ئائىت"
+                ],
+                "Kyrgyz": [
+                    "таржымалдык"
+                ],
+                "Karakalpak": [
+                    "tárjimeixallıq"
+                ],
+                "Tatar": [
+                    "тәрҗемәи хәл"
+                ],
+                "Bashkir": [
+                    "тәржемәи хәл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "biyografik"
+                ],
+                "Azerbaijani": [
+                    "bioqrafik"
+                ],
+                "Uzbek": [
+                    "biografik"
+                ],
+                "Tatar": [
+                    "биографик"
+                ],
+                "Bashkir": [
+                    "биографик"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ömürbeýan"
+                ],
+                "Kazakh": [
+                    "өмірбаяндық",
+                    "ғұмырнамалық"
+                ],
+                "Kyrgyz": [
+                    "өмүр баяндык"
+                ],
+                "Karakalpak": [
+                    "ómirbayanlıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həyatnamə"
+                ],
+                "Uzbek": [
+                    "hayotnomaga oid"
+                ],
+                "Uyghur": [
+                    "ھاياتىغا مۇناسىۋەتلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaşamöyküsel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гомерлек"
+                ]
+            }
+        }
+    ]
+}

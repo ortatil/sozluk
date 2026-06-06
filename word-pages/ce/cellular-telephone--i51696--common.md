@@ -1,0 +1,160 @@
+# Cellular telephone
+| Field | Detail |
+|---|---|
+| **ID** | i51696 |
+| **English** | cellular telephone |
+| **Type** | noun |
+| **Definition** | a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver |
+| **Source** | common |
+| **Ortatil** | yanfon |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| يانفون | yanfon |
+| **Kazakh** | |
+| қолтелефон | qoltelefon |
+
+```json
+{
+    "id": "i51696",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cellular telephone",
+    "en_definition": "a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver",
+    "tr_word": "cep telefonu",
+    "tr_definition": "Kendi kısa menzilli verici ve alıcısına sahip küçük bölümlere ayrılmış bir alanda kullanılan, elde taşınabilen mobil radyo telefon.",
+    "ru_word": "сотовый телефон",
+    "ru_definition": "Переносной мобильный радиотелефон для использования в зоне, разделенной на небольшие участки, каждый из которых имеет собственный передатчик/приемник малого радиуса действия.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cep telefonu",
+                    "el telefonu"
+                ],
+                "Azerbaijani": [
+                    "əl telefonu",
+                    "cib telefonu"
+                ],
+                "Turkmen": [
+                    "el telefony"
+                ],
+                "Uzbek": [
+                    "qo'l telefoni"
+                ],
+                "Uyghur": [
+                    "قول تېلېفونى"
+                ],
+                "Kazakh": [
+                    "қолтелефон"
+                ],
+                "Kyrgyz": [
+                    "кол телефон"
+                ],
+                "Karakalpak": [
+                    "qol telefonı"
+                ],
+                "Tatar": [
+                    "кул телефоны"
+                ],
+                "Bashkir": [
+                    "ҡул телефоны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "uyali telefon"
+                ],
+                "Kazakh": [
+                    "ұялы телефон"
+                ],
+                "Kyrgyz": [
+                    "уялы телефон"
+                ],
+                "Karakalpak": [
+                    "uyalı telefon"
+                ],
+                "Bashkir": [
+                    "оялы телефон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mobil telefon"
+                ],
+                "Azerbaijani": [
+                    "mobil telefon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "cho'ntak telefoni"
+                ],
+                "Kyrgyz": [
+                    "чөнтөк телефон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кесә телефоны"
+                ],
+                "Bashkir": [
+                    "кеҫә телефоны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jük telefony"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ykjam telefon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يانفون"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆچمە تېلېفون"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "әрмә телефоны"
+                ]
+            }
+        }
+    ]
+}
+```
+

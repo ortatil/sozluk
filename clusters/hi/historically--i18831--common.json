@@ -1,0 +1,102 @@
+{
+    "id": "i18831",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "historically",
+    "en_definition": "with respect to history",
+    "tr_word": "tarihsel olarak",
+    "tr_definition": "tarih açısından veya tarihsel bir perspektifle",
+    "ru_word": "исторически",
+    "ru_definition": "с точки зрения истории или в историческом контексте",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarihsel olarak",
+                    "tarihen",
+                    "tarih bakımından"
+                ],
+                "Azerbaijani": [
+                    "tarixən",
+                    "tarixi olaraq"
+                ],
+                "Turkmen": [
+                    "taryhy",
+                    "taryhda",
+                    "taryh taýdan"
+                ],
+                "Uzbek": [
+                    "tarixan",
+                    "tarixiy"
+                ],
+                "Uyghur": [
+                    "تارىخىي جەھەتتىن",
+                    "تارىختا",
+                    "تارىخ بويىچە"
+                ],
+                "Kazakh": [
+                    "тарихи",
+                    "тарих тұрғысынан",
+                    "тарих бойынша"
+                ],
+                "Kyrgyz": [
+                    "тарыхый",
+                    "тарых жагынан",
+                    "тарых боюнча"
+                ],
+                "Karakalpak": [
+                    "tariyxıy",
+                    "tariyx jaǵınan",
+                    "tariyx boyınsha"
+                ],
+                "Tatar": [
+                    "тарихи",
+                    "тарих буенча",
+                    "тарих ягыннан",
+                    "тарихтан бирле"
+                ],
+                "Bashkir": [
+                    "тарихи",
+                    "тарих яғынан",
+                    "тарих буйынса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geçmişte"
+                ],
+                "Azerbaijani": [
+                    "keçmişdə"
+                ],
+                "Turkmen": [
+                    "geçmişde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "azaldan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qadimdan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "баяғыдан"
+                ]
+            }
+        }
+    ]
+}

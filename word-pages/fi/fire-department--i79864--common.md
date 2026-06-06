@@ -1,0 +1,117 @@
+# Fire department
+| Field | Detail |
+|---|---|
+| **ID** | i79864 |
+| **English** | fire department |
+| **Type** | noun |
+| **Definition** | the department of local government responsible for preventing and extinguishing fires |
+| **Source** | common |
+| **Ortatil** | itfäiye |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i79864",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fire department",
+    "en_definition": "the department of local government responsible for preventing and extinguishing fires",
+    "tr_word": "itfaiye",
+    "tr_definition": "yangınları söndürmek ve yangından korunma önlemlerini almakla görevli yerel yönetim birimi",
+    "ru_word": "пожарная охрана",
+    "ru_definition": "отдел местного самоуправления, ответственный за предотвращение и тушение пожаров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yangın söndürme birimi"
+                ],
+                "Azerbaijani": [
+                    "yanğınsöndürmə idarəsi",
+                    "yanğınsöndürmə xidməti",
+                    "yanğın idarəsi"
+                ],
+                "Turkmen": [
+                    "ýangyn söndüriş gullugy",
+                    "ýangyn söndürijiler",
+                    "ýangyn gullugy"
+                ],
+                "Uzbek": [
+                    "yongʻin xavfsizligi xizmati"
+                ],
+                "Tatar": [
+                    "янгын сүндерү хезмәте",
+                    "янгын сүндерүчеләр",
+                    "янгыннан саклау хезмәте"
+                ],
+                "Bashkir": [
+                    "янғын һүндереү хеҙмәте",
+                    "янғын һүндереү бүлеге",
+                    "янғын һағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻt oʻchirish xizmati",
+                    "oʻt oʻchiruvchilar jamoasi"
+                ],
+                "Uyghur": [
+                    "ئوت ئۆچۈرۈش ئىدارىسى",
+                    "ئوت ئۆچۈرۈش قىسمى"
+                ],
+                "Kyrgyz": [
+                    "өрт өчүрүү кызматы",
+                    "өрт өчүрүүчүлөр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өрт сөндіру қызметі",
+                    "өрт сөндіру бөлімі",
+                    "өртке қарсы қызмет"
+                ],
+                "Kyrgyz": [
+                    "өрткө каршы кызмат"
+                ],
+                "Karakalpak": [
+                    "órt óshіru bólіmі",
+                    "órtke qarsı qızmet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "itfaiye",
+                    "itfaiye dairesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "itfaiye teşkilatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆچۈرۈش ئەترىتى"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,83 @@
+{
+    "id": "i56975",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paperback book",
+    "en_definition": "a book with paper covers",
+    "tr_word": "karton kapaklı kitap",
+    "tr_definition": "kağıt veya ince karton kapaklı kitap",
+    "ru_word": "книга в мягкой обложке",
+    "ru_definition": "книга с обложкой из бумаги или тонкого картона",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yumuşak kapaklı kitap"
+                ],
+                "Azerbaijani": [
+                    "yumşaq cildli kitab"
+                ],
+                "Turkmen": [
+                    "ýumşak daşly kitap",
+                    "ýumşak jiltli kitap"
+                ],
+                "Uzbek": [
+                    "yumshoq muqovali kitob"
+                ],
+                "Uyghur": [
+                    "يۇمشاق مۇقاۋىلىق كىتاب"
+                ],
+                "Kazakh": [
+                    "жұмсақ мұқабалы кітап",
+                    "жұмсақ мұқаба"
+                ],
+                "Kyrgyz": [
+                    "жумшак мукабалуу китеп",
+                    "жумшак мукаба"
+                ],
+                "Karakalpak": [
+                    "jumsaq mұqabalı kіtap"
+                ],
+                "Tatar": [
+                    "йомшак тышлы китап"
+                ],
+                "Bashkir": [
+                    "йомшаҡ тышлы китап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karton kapaklı kitap",
+                    "kağıt kapaklı kitap"
+                ],
+                "Karakalpak": [
+                    "qaǵaz mұqabalı kіtap"
+                ],
+                "Tatar": [
+                    "кәгазь тышлы китап"
+                ],
+                "Bashkir": [
+                    "ҡағыҙ тышлы китап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cildsiz kitab"
+                ],
+                "Uzbek": [
+                    "qog'oz muqovali kitob"
+                ],
+                "Uyghur": [
+                    "قەغەز مۇقاۋىلىق كىتاب"
+                ]
+            }
+        }
+    ]
+}

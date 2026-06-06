@@ -1,0 +1,127 @@
+{
+    "id": "i73284",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "modern greek",
+    "en_definition": "the Greek language as spoken and written today",
+    "tr_word": "Modern Yunanca",
+    "tr_definition": "Günümüzde konuşulan ve yazılan Yunanca",
+    "ru_word": "новогреческий язык",
+    "ru_definition": "греческий язык в его современном состоянии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "häzirki zaman grek dili"
+                ],
+                "Uzbek": [
+                    "hozirgi yunon tili"
+                ],
+                "Uyghur": [
+                    "ھازىرقى زامان يۇنان تىلى"
+                ],
+                "Kazakh": [
+                    "қазіргі грек тілі"
+                ],
+                "Kyrgyz": [
+                    "азыркы грек тили"
+                ],
+                "Karakalpak": [
+                    "xázirgi grek tili"
+                ],
+                "Tatar": [
+                    "хәзерге грек теле",
+                    "хәзерге юнан теле"
+                ],
+                "Bashkir": [
+                    "хәҙерге грек теле",
+                    "хәҙерге юнан теле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Modern Yunanca"
+                ],
+                "Uzbek": [
+                    "yangi yunon tili"
+                ],
+                "Tatar": [
+                    "яңа юнан теле"
+                ],
+                "Bashkir": [
+                    "яңы грек теле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жаңа грек тілі"
+                ],
+                "Kyrgyz": [
+                    "жаңы грек тили"
+                ],
+                "Karakalpak": [
+                    "jańa grek tili"
+                ],
+                "Tatar": [
+                    "яңа грек теле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yunan dili",
+                    "yunança"
+                ],
+                "Turkmen": [
+                    "ýunan dili"
+                ],
+                "Uyghur": [
+                    "يۇنان تىلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Yeni Yunanca"
+                ],
+                "Uyghur": [
+                    "يېڭى يۇنانچە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "grekçe"
+                ],
+                "Kyrgyz": [
+                    "грек тили"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Güncel Yunanca"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müasir yunan dili"
+                ]
+            }
+        }
+    ]
+}

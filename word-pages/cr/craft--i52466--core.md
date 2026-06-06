@@ -1,0 +1,269 @@
+# Craft
+| Field | Detail |
+|---|---|
+| **ID** | i52466 |
+| **English** | craft |
+| **Type** | noun |
+| **Definition** | a vehicle designed for navigation in or on water or air or through outer space |
+| **Source** | core |
+| **Ortatil** | ḳemä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḳemä** | **ulak** | **wasitası** |
+|---|---|---|---|
+| Turkish | ✅ | ❌ | ✅ |
+| Azerbaijani | ✅ | ❌ | ✅ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ |
+| Kyrgyz | ✅ | ✅ | ❌ |
+| Karakalpak | ✅ | ✅ | ❌ |
+| Tatar | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.33 | 0.67 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 0.40 | 0 |
+| *In All* | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **4** | **2.23** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كېمە | kemä |
+| ئۇچقۇ | uçqu |
+| **Kazakh** | |
+| кеме | keme |
+| көлік | kölik |
+| аппарат | apparat |
+| **Kyrgyz** | |
+| кеме | keme |
+| улоо | uloo |
+| унаа | unaa |
+| **Tatar** | |
+| көймә | köymä |
+| кораб | korab |
+| судно | sudno |
+| **Bashkir** | |
+| көймә | köymä |
+| карап | karap |
+
+```json
+{
+    "id": "i52466",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "craft",
+    "en_definition": "a vehicle designed for navigation in or on water or air or through outer space",
+    "tr_word": "taşıt",
+    "tr_definition": "Su, hava veya uzayda seyretmek için tasarlanmış araç",
+    "ru_word": "судно",
+    "ru_definition": "транспортное средство, предназначенное для навигации в воде, воздухе или космическом пространстве",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gemi"
+                ],
+                "Azerbaijani": [
+                    "gəmi"
+                ],
+                "Turkmen": [
+                    "gämi"
+                ],
+                "Uzbek": [
+                    "kema"
+                ],
+                "Uyghur": [
+                    "كېمە"
+                ],
+                "Kazakh": [
+                    "кеме"
+                ],
+                "Kyrgyz": [
+                    "кеме"
+                ],
+                "Karakalpak": [
+                    "keme"
+                ],
+                "Tatar": [
+                    "көймә"
+                ],
+                "Bashkir": [
+                    "көймә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ulag"
+                ],
+                "Uzbek": [
+                    "ulov"
+                ],
+                "Kyrgyz": [
+                    "улоо"
+                ],
+                "Karakalpak": [
+                    "ulaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vasıta"
+                ],
+                "Azerbaijani": [
+                    "vasitə"
+                ],
+                "Uzbek": [
+                    "vositasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік"
+                ],
+                "Karakalpak": [
+                    "kólik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кораб"
+                ],
+                "Bashkir": [
+                    "карап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hava gəmisi"
+                ],
+                "Tatar": [
+                    "һава көймәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hava aracı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deniz aracı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "su gəmisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəqliyyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "serişde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekne"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇچقۇ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аппарат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "улоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "судно"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kemasoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاتناش ۋاسىتىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "осош аппараты"
+                ]
+            }
+        }
+    ]
+}
+```
+

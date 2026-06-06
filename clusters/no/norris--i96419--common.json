@@ -1,0 +1,87 @@
+{
+    "id": "i96419",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "norris",
+    "en_definition": "United States writer (1870-1902)",
+    "tr_word": "Norris",
+    "tr_definition": "Amerikalı yazar (1870-1902)",
+    "ru_word": "Норрис",
+    "ru_definition": "Американский писатель (1870-1902)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Frank Norris"
+                ],
+                "Azerbaijani": [
+                    "Frank Norris",
+                    "Frenk Norris"
+                ],
+                "Turkmen": [
+                    "Frank Norris"
+                ],
+                "Uzbek": [
+                    "Frank Norris"
+                ],
+                "Uyghur": [
+                    "فرانک نورىس"
+                ],
+                "Tatar": [
+                    "Фрэнк Норрис"
+                ],
+                "Bashkir": [
+                    "Фрэнк Норрис"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "Norris"
+                ],
+                "Kazakh": [
+                    "Норрис"
+                ],
+                "Kyrgyz": [
+                    "Норрис"
+                ],
+                "Karakalpak": [
+                    "Norris"
+                ],
+                "Tatar": [
+                    "Норрис"
+                ],
+                "Bashkir": [
+                    "Норрис"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жазушы"
+                ],
+                "Kyrgyz": [
+                    "жазуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Amerikalı yazar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "romancı"
+                ]
+            }
+        }
+    ]
+}

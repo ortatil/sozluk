@@ -1,0 +1,144 @@
+{
+    "id": "i64610",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "facial hair",
+    "en_definition": "hair on the face (especially on the face of a man)",
+    "tr_word": "yüzdeki kıllar",
+    "tr_definition": "yüzde (özellikle bir erkeğin yüzünde) çıkan kıllar; sakal ve bıyık",
+    "ru_word": "растительность на лице",
+    "ru_definition": "волосы на лице (особенно у мужчин), такие как борода и усы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sakal"
+                ],
+                "Azerbaijani": [
+                    "saqqal-bığ"
+                ],
+                "Turkmen": [
+                    "sakgal-murt",
+                    "sakgal"
+                ],
+                "Uzbek": [
+                    "soqol-mo'ylov",
+                    "soqol"
+                ],
+                "Uyghur": [
+                    "ساقال-بۇرۇت",
+                    "ساقال"
+                ],
+                "Kazakh": [
+                    "сақал-мұрт",
+                    "сақал"
+                ],
+                "Kyrgyz": [
+                    "сакал-мурут",
+                    "сакал"
+                ],
+                "Karakalpak": [
+                    "saqal-mұrt",
+                    "saqal"
+                ],
+                "Tatar": [
+                    "сакал-мыйык",
+                    "сакал"
+                ],
+                "Bashkir": [
+                    "һаҡал-мыйыҡ",
+                    "һаҡал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tüy"
+                ],
+                "Azerbaijani": [
+                    "tük"
+                ],
+                "Turkmen": [
+                    "tüý"
+                ],
+                "Uyghur": [
+                    "تۈك"
+                ],
+                "Kyrgyz": [
+                    "түк"
+                ],
+                "Karakalpak": [
+                    "túk"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "murt"
+                ],
+                "Uyghur": [
+                    "بۇرۇت"
+                ],
+                "Kazakh": [
+                    "мұрт"
+                ],
+                "Kyrgyz": [
+                    "мурут"
+                ],
+                "Karakalpak": [
+                    "mұrt"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "üz tükləri"
+                ],
+                "Uzbek": [
+                    "yuz tuki"
+                ],
+                "Tatar": [
+                    "йөз төге"
+                ],
+                "Bashkir": [
+                    "йөҙ төктәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bıyık"
+                ],
+                "Tatar": [
+                    "мыйык"
+                ],
+                "Bashkir": [
+                    "мыйыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mo'ylov"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "беттегі түк"
+                ]
+            }
+        }
+    ]
+}

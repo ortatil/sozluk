@@ -1,0 +1,114 @@
+{
+    "id": "i16303",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "auditory",
+    "en_definition": "of or relating to the process of hearing",
+    "tr_word": "işitsel",
+    "tr_definition": "işitme duyusu ile ilgili olan",
+    "ru_word": "слуховой",
+    "ru_definition": "относящийся к органам слуха или процессу восприятия звука",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işitsel"
+                ],
+                "Azerbaijani": [
+                    "eşitmə"
+                ],
+                "Turkmen": [
+                    "eşidiş",
+                    "eşidilýän"
+                ],
+                "Uzbek": [
+                    "eshitishga oid",
+                    "eshituv"
+                ],
+                "Kazakh": [
+                    "есту"
+                ],
+                "Karakalpak": [
+                    "esitio"
+                ],
+                "Tatar": [
+                    "ишетү"
+                ],
+                "Bashkir": [
+                    "ишетеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "semi"
+                ],
+                "Azerbaijani": [
+                    "səmti"
+                ],
+                "Turkmen": [
+                    "samygaly"
+                ],
+                "Uzbek": [
+                    "samiy"
+                ],
+                "Uyghur": [
+                    "سەمىي"
+                ],
+                "Kazakh": [
+                    "самаи"
+                ],
+                "Tatar": [
+                    "сәмгый"
+                ],
+                "Bashkir": [
+                    "сәмғи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duyumsal"
+                ],
+                "Azerbaijani": [
+                    "duyumsal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاڭلاشقا ئائىت",
+                    "ئاڭلاش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құлақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "угуу",
+                    "угуудагы",
+                    "угууга тиешелүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tıńlao"
+                ]
+            }
+        }
+    ]
+}

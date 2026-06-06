@@ -1,0 +1,93 @@
+{
+    "id": "i91796",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "center fielder",
+    "en_definition": "the person who plays center field",
+    "tr_word": "orta dış alan oyuncusu",
+    "tr_definition": "beyzbolda sahanın orta dış kısmında (center field) oynayan savunma oyuncusu",
+    "ru_word": "центр-филдер",
+    "ru_definition": "игрок в бейсболе, занимающий позицию в центральной части внешнего поля",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orta alan oyuncusu",
+                    "orta saha oyuncusu"
+                ],
+                "Azerbaijani": [
+                    "orta sahə oyunçusu"
+                ],
+                "Turkmen": [
+                    "orta meýdan goragçysy"
+                ],
+                "Uzbek": [
+                    "oʻrta maydon oʻyinchisi"
+                ],
+                "Kazakh": [
+                    "орталық қорғаушы",
+                    "орталық ойыншы"
+                ],
+                "Kyrgyz": [
+                    "ортоңку коргоочу"
+                ],
+                "Karakalpak": [
+                    "ortalıq qorǵaushı",
+                    "ortalıq oyınshı"
+                ],
+                "Tatar": [
+                    "урта сакчы"
+                ],
+                "Bashkir": [
+                    "урта һаҡсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "merkez oyuncusu"
+                ],
+                "Azerbaijani": [
+                    "mərkəz oyunçusu",
+                    "mərkəz müdafiəçisi"
+                ],
+                "Turkmen": [
+                    "merkez goragçysy"
+                ],
+                "Uzbek": [
+                    "markaziy himoyachi"
+                ],
+                "Uyghur": [
+                    "مەركىزىي مەيدانچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзәк сакчы"
+                ],
+                "Bashkir": [
+                    "үҙәк һаҡсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرا مەيدانچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борбордук коргоочу"
+                ]
+            }
+        }
+    ]
+}

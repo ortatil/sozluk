@@ -1,0 +1,180 @@
+{
+    "id": "i38885",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "medical care",
+    "en_definition": "professional treatment for illness or injury",
+    "tr_word": "tıbbi bakım",
+    "tr_definition": "hastalık veya yaralanma için profesyonel tedavi",
+    "ru_word": "медицинская помощь",
+    "ru_definition": "профессиональное лечение болезни или травмы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şypa"
+                ],
+                "Uzbek": [
+                    "shifo"
+                ],
+                "Kazakh": [
+                    "шипа"
+                ],
+                "Kyrgyz": [
+                    "шыпаа"
+                ],
+                "Karakalpak": [
+                    "shipa"
+                ],
+                "Tatar": [
+                    "шифа"
+                ],
+                "Bashkir": [
+                    "шифа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tıbbi bakım"
+                ],
+                "Azerbaijani": [
+                    "tibbi yardım",
+                    "tibbi xidmət"
+                ],
+                "Uzbek": [
+                    "tibbiy yordam"
+                ],
+                "Uyghur": [
+                    "تېببىي مۇئامىلە",
+                    "تېببىي خىزمەت"
+                ],
+                "Bashkir": [
+                    "тәрбиә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "емдеу",
+                    "ем-дом"
+                ],
+                "Kyrgyz": [
+                    "эмдөө"
+                ],
+                "Karakalpak": [
+                    "emleu",
+                    "em-dom"
+                ],
+                "Tatar": [
+                    "им-том"
+                ],
+                "Bashkir": [
+                    "им-том"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "davolash"
+                ],
+                "Uyghur": [
+                    "داۋالاش"
+                ],
+                "Tatar": [
+                    "дәвалау"
+                ],
+                "Bashkir": [
+                    "дауалау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "медициналық көмек"
+                ],
+                "Kyrgyz": [
+                    "медициналык жардам"
+                ],
+                "Karakalpak": [
+                    "medicinalıq járdem"
+                ],
+                "Tatar": [
+                    "медицина ярдәме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağlık hizmeti"
+                ],
+                "Turkmen": [
+                    "saglygy goraýyş"
+                ],
+                "Uyghur": [
+                    "ساقلىقنى ساقلاش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muayene"
+                ],
+                "Azerbaijani": [
+                    "müalicə"
+                ],
+                "Uzbek": [
+                    "muolaja"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tedavi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səhiyyə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lukmançylyk kömegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bejergi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дарылоо"
+                ]
+            }
+        }
+    ]
+}

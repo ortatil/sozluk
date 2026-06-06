@@ -1,0 +1,99 @@
+{
+    "id": "i5888",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "salted",
+    "en_definition": "(used especially of meats) preserved in salt",
+    "tr_word": "tuzlanmış",
+    "tr_definition": "tuzla terbiye edilmiş veya bozulmaması için tuzda bekletilmiş (özellikle etler için)",
+    "ru_word": "солёный",
+    "ru_definition": "законсервированный в соли (особенно о мясе)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tuzlu",
+                    "tuzlanmış"
+                ],
+                "Azerbaijani": [
+                    "duzlu",
+                    "duzlanmış"
+                ],
+                "Turkmen": [
+                    "duzlanan",
+                    "duzly"
+                ],
+                "Uzbek": [
+                    "tuzlangan"
+                ],
+                "Uyghur": [
+                    "تۇزلانغان",
+                    "تۇزلۇق"
+                ],
+                "Kazakh": [
+                    "тұздалған",
+                    "тұзды"
+                ],
+                "Kyrgyz": [
+                    "туздалган",
+                    "туздуу"
+                ],
+                "Karakalpak": [
+                    "tұzlanǵan",
+                    "tұzlı"
+                ],
+                "Tatar": [
+                    "тозлы",
+                    "тозланган",
+                    "тозлыланган"
+                ],
+                "Bashkir": [
+                    "тоҙло",
+                    "тоҙланған",
+                    "тоҙлоҡланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şor"
+                ],
+                "Turkmen": [
+                    "şor"
+                ],
+                "Uzbek": [
+                    "sho'r"
+                ],
+                "Uyghur": [
+                    "شور"
+                ],
+                "Kazakh": [
+                    "сүрленген"
+                ],
+                "Kyrgyz": [
+                    "шор"
+                ],
+                "Karakalpak": [
+                    "shor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "salamura"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "namaklangan"
+                ]
+            }
+        }
+    ]
+}

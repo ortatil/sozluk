@@ -1,0 +1,163 @@
+{
+    "id": "i2501",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "outlying",
+    "en_definition": "relatively far from a center or middle",
+    "tr_word": "merkezden uzak",
+    "tr_definition": "bir merkeze veya orta noktaya nispeten uzak olan, uçta yer alan",
+    "ru_word": "удаленный",
+    "ru_definition": "находящийся на значительном расстоянии от центра или середины",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çetki"
+                ],
+                "Uzbek": [
+                    "chetki",
+                    "chekka"
+                ],
+                "Uyghur": [
+                    "چەت",
+                    "چەتتىكى"
+                ],
+                "Kazakh": [
+                    "шеткі",
+                    "шеткері"
+                ],
+                "Kyrgyz": [
+                    "четки",
+                    "четкерки"
+                ],
+                "Karakalpak": [
+                    "shetkі",
+                    "shetkerі"
+                ],
+                "Tatar": [
+                    "чит",
+                    "читтәге"
+                ],
+                "Bashkir": [
+                    "ситтәге",
+                    "ситке",
+                    "ситтә ятҡан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşra",
+                    "dış"
+                ],
+                "Azerbaijani": [
+                    "daşra"
+                ],
+                "Turkmen": [
+                    "daşky"
+                ],
+                "Uzbek": [
+                    "tashqi"
+                ],
+                "Uyghur": [
+                    "تاشقى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ırak"
+                ],
+                "Azerbaijani": [
+                    "iraq"
+                ],
+                "Uyghur": [
+                    "يىراق"
+                ],
+                "Karakalpak": [
+                    "jıraq"
+                ],
+                "Tatar": [
+                    "ерак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "olis"
+                ],
+                "Kazakh": [
+                    "алыс"
+                ],
+                "Kyrgyz": [
+                    "алыскы"
+                ],
+                "Karakalpak": [
+                    "alıs"
+                ],
+                "Bashkir": [
+                    "алыҫтағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uç",
+                    "uzak"
+                ],
+                "Azerbaijani": [
+                    "uzaq"
+                ],
+                "Turkmen": [
+                    "uzakdaky"
+                ],
+                "Uzbek": [
+                    "uzoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyradaky"
+                ],
+                "Kazakh": [
+                    "қиыр"
+                ],
+                "Kyrgyz": [
+                    "кыркы"
+                ],
+                "Tatar": [
+                    "кырыйдагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kenar"
+                ],
+                "Azerbaijani": [
+                    "kənar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қашық"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "i9284",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "dusty",
+    "en_definition": "covered with a layer of dust",
+    "tr_word": "tozlu",
+    "tr_definition": "üzeri toz tabakasıyla kaplanmış olan",
+    "ru_word": "пыльный",
+    "ru_definition": "покрытый слоем пыли",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tozlu",
+                    "tozlanmış",
+                    "toz içinde"
+                ],
+                "Azerbaijani": [
+                    "tozlu",
+                    "toz-torpaqlı",
+                    "tozlanmış"
+                ],
+                "Turkmen": [
+                    "tozly",
+                    "tozanly"
+                ],
+                "Uyghur": [
+                    "توزانلىق"
+                ],
+                "Kazakh": [
+                    "тозаңды"
+                ],
+                "Tatar": [
+                    "тузанлы",
+                    "тузан баскан",
+                    "тузанланган"
+                ],
+                "Bashkir": [
+                    "туҙанлы",
+                    "туҙан баҫҡан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chang",
+                    "changli"
+                ],
+                "Uyghur": [
+                    "چاڭ-توزانلىق",
+                    "چاڭلىق"
+                ],
+                "Kazakh": [
+                    "шаң",
+                    "шаңды",
+                    "шаң-тозаңды"
+                ],
+                "Kyrgyz": [
+                    "чаң",
+                    "чаңдуу",
+                    "чаң баскан",
+                    "чаңгыт"
+                ],
+                "Karakalpak": [
+                    "shań",
+                    "shań basqan",
+                    "shańlı"
+                ],
+                "Bashkir": [
+                    "саңлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'uborli"
+                ],
+                "Uyghur": [
+                    "غۇبارلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "toprakly"
+                ]
+            }
+        }
+    ]
+}

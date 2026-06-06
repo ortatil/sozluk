@@ -1,0 +1,84 @@
+{
+    "id": "i78570",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lasagna",
+    "en_definition": "baked dish of layers of lasagna pasta with sauce and cheese and meat or vegetables",
+    "tr_word": "lazanya",
+    "tr_definition": "Kat kat hamur, peynir, sos ve genellikle et veya sebze ile fırında pişirilen bir İtalyan yemeği.",
+    "ru_word": "лазанья",
+    "ru_definition": "Итальянское блюдо из слоев теста, соуса, сыра и мяса или овощей, запеченное в духовке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "katlı hamur aşı"
+                ],
+                "Azerbaijani": [
+                    "qat-qat xəmir xörəyi"
+                ],
+                "Turkmen": [
+                    "gatlakly hamyr nahary",
+                    "gatlakly börek"
+                ],
+                "Uzbek": [
+                    "qatlama"
+                ],
+                "Uyghur": [
+                    "قاتلىما خېمىر تائام"
+                ],
+                "Kyrgyz": [
+                    "каттама кесме",
+                    "каттама тамак"
+                ],
+                "Tatar": [
+                    "катлы камыр ашы"
+                ],
+                "Bashkir": [
+                    "ҡатлы ҡамыр ашы",
+                    "ҡатлы бәлеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lazanya"
+                ],
+                "Azerbaijani": [
+                    "lazanya"
+                ],
+                "Uyghur": [
+                    "لازانيا"
+                ],
+                "Karakalpak": [
+                    "lazanya"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qavatli xamirli taom"
+                ],
+                "Kazakh": [
+                    "қабатталған қамыр",
+                    "қабатты тағам"
+                ],
+                "Karakalpak": [
+                    "qabatlı qamır taǵamı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "итле-камырлы катлама"
+                ]
+            }
+        }
+    ]
+}

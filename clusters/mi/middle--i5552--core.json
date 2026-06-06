@@ -1,0 +1,100 @@
+{
+    "id": "i5552",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "in-between",
+    "en_definition": "being neither at the beginning nor at the end in a series",
+    "tr_word": "arada",
+    "tr_definition": "bir dizinin ne başında ne de sonunda olan, orta yerde bulunan",
+    "ru_word": "промежуточный",
+    "ru_definition": "находящийся посередине, между какими-либо крайними точками или этапами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orta",
+                    "ortanca"
+                ],
+                "Azerbaijani": [
+                    "orta",
+                    "ortancıl"
+                ],
+                "Turkmen": [
+                    "orta",
+                    "ortaky"
+                ],
+                "Uzbek": [
+                    "o'rta",
+                    "o'rtacha"
+                ],
+                "Uyghur": [
+                    "ئوتتۇرا",
+                    "ئوتتۇرىھال"
+                ],
+                "Kazakh": [
+                    "орта",
+                    "ортаңғы"
+                ],
+                "Kyrgyz": [
+                    "орто",
+                    "ортоңку"
+                ],
+                "Karakalpak": [
+                    "orta",
+                    "ortasha",
+                    "ortańǵı"
+                ],
+                "Tatar": [
+                    "урта",
+                    "уртача"
+                ],
+                "Bashkir": [
+                    "урта",
+                    "уртансы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ara"
+                ],
+                "Turkmen": [
+                    "aralyk"
+                ],
+                "Kazakh": [
+                    "аралық"
+                ],
+                "Kyrgyz": [
+                    "аралык"
+                ],
+                "Tatar": [
+                    "арадаш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "merkezi"
+                ],
+                "Azerbaijani": [
+                    "mərkəzi"
+                ],
+                "Uyghur": [
+                    "مەركىزىي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "miyona"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "id": "i50799",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bishop",
+    "en_definition": "(chess) a piece that can be moved diagonally over unoccupied squares of the same color",
+    "tr_word": "fil",
+    "tr_definition": "Satrançta, her iki yanında bulunan ve çapraz hareket eden taş.",
+    "ru_word": "слон",
+    "ru_definition": "Шахматная фигура, которая перемещается только по диагонали на любое количество полей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fil"
+                ],
+                "Azerbaijani": [
+                    "fil"
+                ],
+                "Turkmen": [
+                    "pil"
+                ],
+                "Uzbek": [
+                    "fil",
+                    "filcha"
+                ],
+                "Uyghur": [
+                    "پىل",
+                    "فىل"
+                ],
+                "Kazakh": [
+                    "піл"
+                ],
+                "Kyrgyz": [
+                    "пил"
+                ],
+                "Karakalpak": [
+                    "pil"
+                ],
+                "Tatar": [
+                    "фил"
+                ],
+                "Bashkir": [
+                    "фил"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақсүйек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "офицер"
+                ]
+            }
+        }
+    ]
+}

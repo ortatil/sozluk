@@ -1,0 +1,121 @@
+{
+    "id": "i51989",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cleansing agent",
+    "en_definition": "a preparation used in cleaning something",
+    "tr_word": "temizlik maddesi",
+    "tr_definition": "Bir şeyi temizlemek için kullanılan hazırlık veya madde.",
+    "ru_word": "чистящее средство",
+    "ru_definition": "препарат, используемый для очистки чего-либо.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yuyucu"
+                ],
+                "Turkmen": [
+                    "ýuwujy serişde"
+                ],
+                "Uzbek": [
+                    "yuvish vositasi",
+                    "yuvgich"
+                ],
+                "Uyghur": [
+                    "يۇيۇش سۇيۇقلۇقى"
+                ],
+                "Kazakh": [
+                    "жуғыш"
+                ],
+                "Kyrgyz": [
+                    "жуугуч"
+                ],
+                "Karakalpak": [
+                    "juoǵısh zat",
+                    "juoǵısh"
+                ],
+                "Tatar": [
+                    "югыч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tozalash vositasi"
+                ],
+                "Uyghur": [
+                    "تازىلاش ۋاسىتىسى",
+                    "تازىلىغۇچ"
+                ],
+                "Kazakh": [
+                    "тазартқыш",
+                    "тазалаушы зат"
+                ],
+                "Kyrgyz": [
+                    "тазалагыч",
+                    "тазалоочу каражат"
+                ],
+                "Karakalpak": [
+                    "tazalaǵısh zat"
+                ],
+                "Bashkir": [
+                    "таҙартыу сараһы",
+                    "таҙартҡыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "päkleyici"
+                ],
+                "Uzbek": [
+                    "poklovchi"
+                ],
+                "Tatar": [
+                    "пакьләгеч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temizleyici",
+                    "temizlik maddesi"
+                ],
+                "Azerbaijani": [
+                    "təmizləyici",
+                    "təmizlik vasitəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arıtıcı"
+                ],
+                "Turkmen": [
+                    "arassalaýjy serişde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чистарткыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йыуыу сараһы"
+                ]
+            }
+        }
+    ]
+}

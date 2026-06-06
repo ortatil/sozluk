@@ -1,0 +1,129 @@
+{
+    "id": "i93383",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "pupil",
+    "en_definition": "a learner who is enrolled in an educational institution",
+    "tr_word": "öğrenci",
+    "tr_definition": "bir eğitim kurumuna kayıtlı olan ve öğrenim gören kimse",
+    "ru_word": "студент",
+    "ru_definition": "человек, обучающийся в высшем или среднем специальном учебном заведении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "talebe"
+                ],
+                "Azerbaijani": [
+                    "tələbə"
+                ],
+                "Turkmen": [
+                    "talyp"
+                ],
+                "Uzbek": [
+                    "talaba"
+                ],
+                "Uyghur": [
+                    "تەلەبە"
+                ],
+                "Kazakh": [
+                    "талапкер"
+                ],
+                "Kyrgyz": [
+                    "талаба"
+                ],
+                "Karakalpak": [
+                    "talaba"
+                ],
+                "Tatar": [
+                    "тәлиб"
+                ],
+                "Bashkir": [
+                    "тәлип"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şakirt"
+                ],
+                "Azerbaijani": [
+                    "şagird"
+                ],
+                "Turkmen": [
+                    "şägirt"
+                ],
+                "Uzbek": [
+                    "shogird"
+                ],
+                "Uyghur": [
+                    "شاگىرت"
+                ],
+                "Kazakh": [
+                    "шәкірт"
+                ],
+                "Kyrgyz": [
+                    "шакирт"
+                ],
+                "Karakalpak": [
+                    "shákіrt"
+                ],
+                "Tatar": [
+                    "шәкерт"
+                ],
+                "Bashkir": [
+                    "шәкерт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okuwçy"
+                ],
+                "Uzbek": [
+                    "oʻquvchi"
+                ],
+                "Uyghur": [
+                    "ئوقۇغۇچى"
+                ],
+                "Kazakh": [
+                    "оқушы"
+                ],
+                "Kyrgyz": [
+                    "окуучу"
+                ],
+                "Karakalpak": [
+                    "oqıoshı"
+                ],
+                "Tatar": [
+                    "укучы"
+                ],
+                "Bashkir": [
+                    "уҡыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğrenci"
+                ],
+                "Azerbaijani": [
+                    "öyrənci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mütəallim"
+                ]
+            }
+        }
+    ]
+}

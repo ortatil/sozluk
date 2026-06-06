@@ -1,0 +1,101 @@
+# Sea breeze
+| Field | Detail |
+|---|---|
+| **ID** | i97658 |
+| **English** | sea breeze |
+| **Type** | noun |
+| **Definition** | a cooling breeze from the sea (during the daytime) |
+| **Source** | common |
+| **Ortatil** | imbät |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i97658",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sea breeze",
+    "en_definition": "a cooling breeze from the sea (during the daytime)",
+    "tr_word": "deniz meltemi",
+    "tr_definition": "gündüzleri denizden karaya doğru esen hafif ve serin rüzgâr",
+    "ru_word": "морской бриз",
+    "ru_definition": "легкий прохладный ветер, дующий с моря на сушу в дневное время",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz meltemi",
+                    "deniz yeli"
+                ],
+                "Azerbaijani": [
+                    "dəniz mehi",
+                    "dəniz yeli"
+                ],
+                "Turkmen": [
+                    "deňiz şemaly",
+                    "deňiz ýeli"
+                ],
+                "Uzbek": [
+                    "dengiz shabadasi",
+                    "dengiz epkini",
+                    "dengiz shabbodasi"
+                ],
+                "Uyghur": [
+                    "دېڭىز شامىلى",
+                    "دېڭىز لەپىلدىشى"
+                ],
+                "Kazakh": [
+                    "теңіз лебі",
+                    "теңіз самалы",
+                    "теңіз желі"
+                ],
+                "Kyrgyz": [
+                    "деңиз илеби",
+                    "деңиз жели",
+                    "деңиз шамалы"
+                ],
+                "Karakalpak": [
+                    "teńiz samalı",
+                    "teńiz lebizi"
+                ],
+                "Tatar": [
+                    "диңгез җиле",
+                    "диңгез җиләслеге",
+                    "диңгез җиләсе"
+                ],
+                "Bashkir": [
+                    "диңгеҙ еле",
+                    "диңгеҙ һабаһы",
+                    "диңгеҙ еләҫе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "imbat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ləpəyeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kenar şemaly"
+                ]
+            }
+        }
+    ]
+}
+```
+

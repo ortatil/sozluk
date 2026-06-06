@@ -1,0 +1,79 @@
+{
+    "id": "i112172",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sneeze",
+    "en_definition": "a symptom consisting of the involuntary expulsion of air from the nose",
+    "tr_word": "hapşırık",
+    "tr_definition": "havanın burundan istemsizce dışarı atılmasından oluşan bir belirti",
+    "ru_word": "чихание",
+    "ru_definition": "симптом, заключающийся в непроизвольном выбросе воздуха через нос",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چۈشكۈرۈك"
+                ],
+                "Kazakh": [
+                    "түшкірік",
+                    "түшкіру"
+                ],
+                "Kyrgyz": [
+                    "чүчкүрүк",
+                    "чүчкүрүү"
+                ],
+                "Karakalpak": [
+                    "túshkirik",
+                    "túshkirio"
+                ],
+                "Tatar": [
+                    "төчкерү",
+                    "төчкерүк"
+                ],
+                "Bashkir": [
+                    "сөскөрөү",
+                    "сөскөрөк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aksırık",
+                    "aksırma"
+                ],
+                "Azerbaijani": [
+                    "asqırıq",
+                    "asqırma"
+                ],
+                "Turkmen": [
+                    "asgyrma",
+                    "asgyryş"
+                ],
+                "Uzbek": [
+                    "aksirish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aksa"
+                ],
+                "Uyghur": [
+                    "ئەكسە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hapşırık",
+                    "hapşırma"
+                ]
+            }
+        }
+    ]
+}

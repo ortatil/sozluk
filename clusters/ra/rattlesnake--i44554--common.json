@@ -1,0 +1,79 @@
+{
+    "id": "i44554",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rattlesnake",
+    "en_definition": "pit viper with horny segments at the end of the tail that rattle when shaken",
+    "tr_word": "çıngıraklı yılan",
+    "tr_definition": "kuyruğunun ucunda, sallandığında ses çıkaran boynuzsu halkalar bulunan zehirli bir engerek türü",
+    "ru_word": "гремучая змея",
+    "ru_definition": "ядовитая змея из подсемейства ямкоголовых, имеющая на конце хвоста погремушку из ороговевших колец",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıngıraklı yılan",
+                    "çıngıraklı engerek"
+                ],
+                "Azerbaijani": [
+                    "çıngıraqlı ilan",
+                    "zınqırovlu ilan"
+                ],
+                "Turkmen": [
+                    "jyngyrdawukly ýylan"
+                ],
+                "Uyghur": [
+                    "چىڭغىلدىما يىلان"
+                ],
+                "Kazakh": [
+                    "сылдырмақты жылан",
+                    "сылдырауық жылан"
+                ],
+                "Kyrgyz": [
+                    "чылдырактуу жылан",
+                    "чылдырак жылан"
+                ],
+                "Karakalpak": [
+                    "sıldırama jılan",
+                    "sıldırauıq jılan"
+                ],
+                "Tatar": [
+                    "чылтыравыклы елан",
+                    "чылтыравык елан"
+                ],
+                "Bashkir": [
+                    "шалтырауыҡ йылан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şarkyldawuk ýylan"
+                ],
+                "Uzbek": [
+                    "shiqildoqdor ilon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوڭغۇراقلىق يىلان"
+                ],
+                "Bashkir": [
+                    "ҡойроҡло йылан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shiqildoq ilon",
+                    "zaharli ilon"
+                ]
+            }
+        }
+    ]
+}

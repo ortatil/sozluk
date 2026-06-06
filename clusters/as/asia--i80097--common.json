@@ -1,0 +1,77 @@
+{
+    "id": "i80097",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "asia",
+    "en_definition": "the nations of the Asian continent collectively",
+    "tr_word": "Asya",
+    "tr_definition": "Asya kıtasındaki ülkelerin ve halkların bütünü",
+    "ru_word": "Азия",
+    "ru_definition": "совокупность стран и народов азиатского континента",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Asya"
+                ],
+                "Azerbaijani": [
+                    "Asiya"
+                ],
+                "Turkmen": [
+                    "Aziýa"
+                ],
+                "Uzbek": [
+                    "Osiyo"
+                ],
+                "Uyghur": [
+                    "ئاسىيا",
+                    "ئاسىيا قىتئەسى"
+                ],
+                "Kazakh": [
+                    "Азия"
+                ],
+                "Kyrgyz": [
+                    "Азия"
+                ],
+                "Karakalpak": [
+                    "Aziya"
+                ],
+                "Tatar": [
+                    "Азия"
+                ],
+                "Bashkir": [
+                    "Азия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Maşrık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Gün doğusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Күншығыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Шәрекъ"
+                ]
+            }
+        }
+    ]
+}

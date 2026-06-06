@@ -1,0 +1,112 @@
+{
+    "id": "i69380",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "leaf",
+    "en_definition": "a sheet of any written or printed material (especially in a manuscript or book)",
+    "tr_word": "yaprak",
+    "tr_definition": "Bir kitabın, defterin veya yazılı bir belgenin her bir kâğıdı",
+    "ru_word": "лист",
+    "ru_definition": "Отдельный кусок бумаги в книге, тетради или рукописи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "varak"
+                ],
+                "Azerbaijani": [
+                    "vərəq"
+                ],
+                "Turkmen": [
+                    "warak"
+                ],
+                "Uzbek": [
+                    "varaq"
+                ],
+                "Uyghur": [
+                    "ۋاراق"
+                ],
+                "Kazakh": [
+                    "парақ"
+                ],
+                "Kyrgyz": [
+                    "барак"
+                ],
+                "Karakalpak": [
+                    "waraq",
+                    "paraq"
+                ],
+                "Tatar": [
+                    "вәракъ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بەت"
+                ],
+                "Kazakh": [
+                    "бет"
+                ],
+                "Kyrgyz": [
+                    "бет"
+                ],
+                "Karakalpak": [
+                    "bet"
+                ],
+                "Tatar": [
+                    "бит",
+                    "битлек"
+                ],
+                "Bashkir": [
+                    "бит",
+                    "битләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sayfa"
+                ],
+                "Turkmen": [
+                    "sahypa"
+                ],
+                "Uzbek": [
+                    "sahifa"
+                ],
+                "Uyghur": [
+                    "سەھىپە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaprak"
+                ],
+                "Bashkir": [
+                    "япраҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səhifə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "катмар"
+                ]
+            }
+        }
+    ]
+}

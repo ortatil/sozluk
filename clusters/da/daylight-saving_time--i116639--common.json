@@ -1,0 +1,76 @@
+{
+    "id": "i116639",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "daylight-saving time",
+    "en_definition": "time during which clocks are set one hour ahead of local standard time; widely adopted during summer to provide extra daylight in the evenings",
+    "tr_word": "yaz saati uygulaması",
+    "tr_definition": "akşamları daha fazla gün ışığından yararlanmak amacıyla saatlerin yerel standart saatten bir saat ileri alındığı uygulama",
+    "ru_word": "летнее время",
+    "ru_definition": "время, вводимое на летний период, при котором часы переводятся на один час вперёд относительно стандартного времени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaz saati"
+                ],
+                "Azerbaijani": [
+                    "yay vaxtı",
+                    "yay zamanı"
+                ],
+                "Uzbek": [
+                    "yozgi vaqt",
+                    "yozgi soat"
+                ],
+                "Uyghur": [
+                    "يازلىق ۋاقىت",
+                    "يازلىق سائەت"
+                ],
+                "Kazakh": [
+                    "жазғы уақыт"
+                ],
+                "Kyrgyz": [
+                    "жайкы убакыт"
+                ],
+                "Karakalpak": [
+                    "jazǵı oaqıt",
+                    "jazǵı saat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җәйге вакыт",
+                    "җәйге сәгать"
+                ],
+                "Bashkir": [
+                    "йәйге ваҡыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ileri saat uygulaması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tomus wagty",
+                    "tomusky wagt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күн убактысы"
+                ]
+            }
+        }
+    ]
+}

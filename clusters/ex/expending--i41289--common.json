@@ -1,0 +1,159 @@
+{
+    "id": "i41289",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "expending",
+    "en_definition": "the act of spending money for goods or services",
+    "tr_word": "harcama",
+    "tr_definition": "mal veya hizmetler için para harcama eylemi",
+    "ru_word": "расходование",
+    "ru_definition": "акт траты денег на товары или услуги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çykdajy"
+                ],
+                "Uzbek": [
+                    "chiqim"
+                ],
+                "Uyghur": [
+                    "چىقىم"
+                ],
+                "Kazakh": [
+                    "шығын",
+                    "шығындау"
+                ],
+                "Kyrgyz": [
+                    "чыгым",
+                    "чыгаша"
+                ],
+                "Karakalpak": [
+                    "shıǵın"
+                ],
+                "Tatar": [
+                    "чыгым",
+                    "чыгымлау"
+                ],
+                "Bashkir": [
+                    "сығым",
+                    "сығымлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarfiyat"
+                ],
+                "Turkmen": [
+                    "sarp"
+                ],
+                "Uzbek": [
+                    "sarf"
+                ],
+                "Uyghur": [
+                    "سەرپىيات"
+                ],
+                "Kyrgyz": [
+                    "сарптоо"
+                ],
+                "Karakalpak": [
+                    "sarp"
+                ],
+                "Tatar": [
+                    "сарыф",
+                    "сарыф итү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harcama"
+                ],
+                "Azerbaijani": [
+                    "xərc",
+                    "xərcləmə"
+                ],
+                "Turkmen": [
+                    "harç"
+                ],
+                "Uzbek": [
+                    "xarajat"
+                ],
+                "Uyghur": [
+                    "خىراجەت"
+                ],
+                "Bashkir": [
+                    "хәрж"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "masraf"
+                ],
+                "Azerbaijani": [
+                    "məsrəf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "iste'mol"
+                ],
+                "Karakalpak": [
+                    "ısrap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмсау"
+                ],
+                "Kyrgyz": [
+                    "жумшоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қаражат жұмсау"
+                ],
+                "Karakalpak": [
+                    "qárejet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gider"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төлем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тотоноу",
+                    "тотош"
+                ]
+            }
+        }
+    ]
+}

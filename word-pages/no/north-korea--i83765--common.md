@@ -1,0 +1,132 @@
+# North korea
+| Field | Detail |
+|---|---|
+| **ID** | i83765 |
+| **English** | north korea |
+| **Type** | noun |
+| **Definition** | a communist country in the northern half of the Korean Peninsula; established in 1948 |
+| **Source** | common |
+| **Ortatil** | çawşyan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چاۋشيەن | çavşyän |
+
+```json
+{
+    "id": "i83765",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north korea",
+    "en_definition": "a communist country in the northern half of the Korean Peninsula; established in 1948",
+    "tr_word": "Kuzey Kore",
+    "tr_definition": "Kore Yarımadası'nın kuzey yarısında bulunan, 1948'de kurulmuş komünist bir ülke",
+    "ru_word": "Северная Корея",
+    "ru_definition": "коммунистическое государство в северной части Корейского полуострова, основанное в 1948 году",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Kore"
+                ],
+                "Kazakh": [
+                    "Корей Халық Демократиялық Республикасы"
+                ],
+                "Kyrgyz": [
+                    "Корея Элдик Демократиялык Республикасы"
+                ],
+                "Karakalpak": [
+                    "Koreya Xalıq Demokratiyalıq Respublikası"
+                ],
+                "Tatar": [
+                    "Корея Халык Демократик Республикасы"
+                ],
+                "Bashkir": [
+                    "Корея Халыҡ-Демократик Республикаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Kore Demokratik Halk Cumhuriyeti"
+                ],
+                "Azerbaijani": [
+                    "Koreya Xalq Demokratik Respublikası"
+                ],
+                "Turkmen": [
+                    "Koreýa Halk Demokratik Respublikasy"
+                ],
+                "Uzbek": [
+                    "Koreya Xalq Demokratik Respublikasi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimali Koreya"
+                ],
+                "Uzbek": [
+                    "Shimoliy Koreya"
+                ],
+                "Uyghur": [
+                    "شىمالىي كورېيە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "Түндүк Корея"
+                ],
+                "Tatar": [
+                    "Төньяк Корея"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Корея"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk Koreýa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چاۋشيەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Солтүстік Корея"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Arqa Koreya"
+                ]
+            }
+        }
+    ]
+}
+```
+

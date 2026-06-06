@@ -1,0 +1,109 @@
+{
+    "id": "i43203",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "bird",
+    "en_definition": "warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings",
+    "tr_word": "kuş",
+    "tr_definition": "tüyleri olan, kanatları sayesinde uçabilen, yumurta ile çoğalan omurgalı hayvanların genel adı",
+    "ru_word": "птица",
+    "ru_definition": "теплокровное яйцекладущее позвоночное животное с перьями и крыльями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuş"
+                ],
+                "Azerbaijani": [
+                    "quş"
+                ],
+                "Turkmen": [
+                    "guş"
+                ],
+                "Uzbek": [
+                    "qush"
+                ],
+                "Uyghur": [
+                    "قۇش"
+                ],
+                "Kazakh": [
+                    "құс"
+                ],
+                "Kyrgyz": [
+                    "куш"
+                ],
+                "Karakalpak": [
+                    "qus"
+                ],
+                "Tatar": [
+                    "кош"
+                ],
+                "Bashkir": [
+                    "ҡош"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "perende"
+                ],
+                "Uzbek": [
+                    "parranda"
+                ],
+                "Uyghur": [
+                    "پەرەندە"
+                ],
+                "Karakalpak": [
+                    "paranدا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mürg"
+                ],
+                "Uzbek": [
+                    "murg'"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tayr"
+                ],
+                "Azerbaijani": [
+                    "təyyar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кош-корт"
+                ],
+                "Bashkir": [
+                    "ҡош-ҡорт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "періште"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "канаттуу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "id": "i8774",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "southeastern",
+    "en_definition": "situated in or oriented toward the southeast",
+    "tr_word": "güneydoğu",
+    "tr_definition": "Güneydoğu yönünde olan veya bu yöne bakan.",
+    "ru_word": "юго-восточный",
+    "ru_definition": "Расположенный на юго-востоке или обращенный к нему.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cenubuşarki"
+                ],
+                "Azerbaijani": [
+                    "cənub-şərqi",
+                    "cənub-şərq"
+                ],
+                "Uzbek": [
+                    "janubi-sharqiy",
+                    "janubiy-sharqiy"
+                ],
+                "Uyghur": [
+                    "جەنۇبىي شەرقىي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güneydoğu"
+                ],
+                "Turkmen": [
+                    "günorta-gündogardaky"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көньяк-көнчыгыш",
+                    "көньяк-көнчыгыштагы"
+                ],
+                "Bashkir": [
+                    "көньяҡ-көнсығыш",
+                    "көньяҡ-көнсығыштағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "günorta-gündogar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شەرقىي جەنۇب"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оңтүстік-шығыс",
+                    "оңтүстік-шығыстағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түштүк-чыгыш",
+                    "түштүк-чыгыштагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qubla-shıǵıs",
+                    "qubla-shıǵıstaǵı"
+                ]
+            }
+        }
+    ]
+}

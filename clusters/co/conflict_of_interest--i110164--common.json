@@ -1,0 +1,112 @@
+{
+    "id": "i110164",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "conflict of interest",
+    "en_definition": "a situation in which a public official's decisions are influenced by the official's personal interests",
+    "tr_word": "çıkar çatışması",
+    "tr_definition": "bir kamu görevlisinin kararlarının kendi kişisel çıkarlarından etkilendiği durum",
+    "ru_word": "конфликт интересов",
+    "ru_definition": "ситуация, при которой личная заинтересованность должностного лица влияет на принимаемые им решения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "menfaat çatışması",
+                    "menfaat uyuşmazlığı"
+                ],
+                "Azerbaijani": [
+                    "mənafe toqquşması"
+                ],
+                "Uzbek": [
+                    "manfaatlar to'qnashuvi",
+                    "manfaatlar ziddiyati"
+                ],
+                "Uyghur": [
+                    "مەنپەئەت توقۇنۇشى",
+                    "مەنپەئەت زىددىيىتى"
+                ],
+                "Tatar": [
+                    "мәнфәгатьләр каршылыгы",
+                    "мәнфәгатьләр низагы"
+                ],
+                "Bashkir": [
+                    "мәнфәғәттәр бәхәсе",
+                    "мәнфәғәттәр ҡаршылығы",
+                    "мәнфәғәттәр низағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shaxsiy manfaatdorlik"
+                ],
+                "Uyghur": [
+                    "شەخسىي غەرەز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кызыкчылыктардын кагылышуусу",
+                    "кызыкчылыктардын карама-каршылыгы"
+                ],
+                "Tatar": [
+                    "кызыксынулар бәрелеше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıkar çatışması",
+                    "çıkar uyuşmazlığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maraqlar toqquşması",
+                    "maraq münaqişəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bähbitleriň çaknyşygy",
+                    "bähbitler gapma-garşylygy",
+                    "bähbitler dawasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мүдделер қақтығысы",
+                    "мүдделер қайшылығы",
+                    "мүдделер таласы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mápler qaqtıǵısı",
+                    "mápler qayshılıǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "paydalar qaqtıǵısı"
+                ]
+            }
+        }
+    ]
+}

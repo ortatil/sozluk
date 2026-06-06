@@ -1,0 +1,131 @@
+{
+    "id": "i48303",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "domestic sheep",
+    "en_definition": "any of various breeds raised for wool or edible meat or skin",
+    "tr_word": "evcil koyun",
+    "tr_definition": "yünü, eti veya derisi için yetiştirilen çeşitli koyun türlerinden herhangi biri",
+    "ru_word": "домашняя овца",
+    "ru_definition": "любая из различных пород, разводимых для получения шерсти, мяса или кожи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koyun",
+                    "kuzu",
+                    "koç"
+                ],
+                "Azerbaijani": [
+                    "qoyun",
+                    "quzu",
+                    "qoç"
+                ],
+                "Turkmen": [
+                    "goýun"
+                ],
+                "Uzbek": [
+                    "qoʻy"
+                ],
+                "Uyghur": [
+                    "قوي",
+                    "قوي-كال"
+                ],
+                "Kazakh": [
+                    "қой"
+                ],
+                "Kyrgyz": [
+                    "кой"
+                ],
+                "Karakalpak": [
+                    "qoy"
+                ],
+                "Tatar": [
+                    "куй"
+                ],
+                "Bashkir": [
+                    "ҡуй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "саулық"
+                ],
+                "Karakalpak": [
+                    "saulıq"
+                ],
+                "Tatar": [
+                    "сарык"
+                ],
+                "Bashkir": [
+                    "һарыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "davarcık"
+                ],
+                "Turkmen": [
+                    "dowar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goç"
+                ],
+                "Uzbek": [
+                    "gusfand"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шопан"
+                ],
+                "Karakalpak": [
+                    "shopan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "марқа"
+                ],
+                "Kyrgyz": [
+                    "майда жандык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dişi qoyun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goýun-gara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mish"
+                ]
+            }
+        }
+    ]
+}

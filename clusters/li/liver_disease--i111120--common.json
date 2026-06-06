@@ -1,0 +1,79 @@
+{
+    "id": "i111120",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "liver disease",
+    "en_definition": "a disease affecting the liver",
+    "tr_word": "karaciğer hastalığı",
+    "tr_definition": "karaciğeri etkileyen herhangi bir hastalık",
+    "ru_word": "болезнь печени",
+    "ru_definition": "заболевание, поражающее печень",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bagyr keseli",
+                    "bagyr hassalygy",
+                    "bagyr näsaglygy"
+                ],
+                "Kazakh": [
+                    "бауыр ауруы",
+                    "бауыр дерті",
+                    "бауыр сырқаты"
+                ],
+                "Karakalpak": [
+                    "baoır keselligi",
+                    "baoır aoırıoı",
+                    "baoır illeti"
+                ],
+                "Tatar": [
+                    "бавыр чире",
+                    "бавыр авыруы"
+                ],
+                "Bashkir": [
+                    "бауыр ауырыуы",
+                    "бауыр чире",
+                    "бауыр илләте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karaciğer hastalığı",
+                    "karaciğer rahatsızlığı",
+                    "karaciğer marazı"
+                ],
+                "Azerbaijani": [
+                    "qaraciyər xəstəliyi",
+                    "qaraciyər azarı",
+                    "qaraciyər naxoşluğu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jigar xastaligi",
+                    "jigar kasalligi",
+                    "jigar dardi"
+                ],
+                "Uyghur": [
+                    "جىگەر كېسىلى",
+                    "جىگەر ئاغرىقى",
+                    "جىگەر كېسەللىكلىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "боор оорусу",
+                    "боор дерти",
+                    "боор закымы"
+                ]
+            }
+        }
+    ]
+}

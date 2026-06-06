@@ -1,0 +1,181 @@
+# Subcommittee
+| Field | Detail |
+|---|---|
+| **ID** | i80885 |
+| **English** | subcommittee |
+| **Type** | noun |
+| **Definition** | a subset of committee members organized for a specific purpose |
+| **Source** | common |
+| **Ortatil** | şuba |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| тармакча | tarmakça |
+| бөлүмчө | bölümçö |
+| **Tatar** | |
+| аскөмитет | askömitet |
+| комиссия | komissiya |
+
+```json
+{
+    "id": "i80885",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "subcommittee",
+    "en_definition": "a subset of committee members organized for a specific purpose",
+    "tr_word": "alt komite",
+    "tr_definition": "belirli bir amaç için organize edilmiş komite üyelerinden oluşan alt grup",
+    "ru_word": "подкомитет",
+    "ru_definition": "группа членов комитета, организованная для выполнения конкретной задачи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kiçi komitet",
+                    "kiçi geňeş",
+                    "kiçi mejlis"
+                ],
+                "Uzbek": [
+                    "kichik qoʻmita"
+                ],
+                "Uyghur": [
+                    "كىچىك كومىتېت"
+                ],
+                "Kazakh": [
+                    "кіші комитет"
+                ],
+                "Kyrgyz": [
+                    "кичи комитет",
+                    "кичи комиссия"
+                ],
+                "Karakalpak": [
+                    "kishi komissiya"
+                ],
+                "Tatar": [
+                    "кече көмитет"
+                ],
+                "Bashkir": [
+                    "кесе комитет"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تارماق كومىتېت"
+                ],
+                "Kazakh": [
+                    "комитет тармағы"
+                ],
+                "Kyrgyz": [
+                    "тармакча"
+                ],
+                "Karakalpak": [
+                    "tarmaq komissiya"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yarımkomitə"
+                ],
+                "Karakalpak": [
+                    "járdemshi komissiya"
+                ],
+                "Bashkir": [
+                    "ярҙамсы комитет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alt komisyon",
+                    "alt kurul",
+                    "alt heyet"
+                ],
+                "Azerbaijani": [
+                    "alt komitə",
+                    "alt komissiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "aşaky komitet"
+                ],
+                "Tatar": [
+                    "аскөмитет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەن دەرىجىلىك كومىتېت"
+                ],
+                "Kazakh": [
+                    "қосалқы комитет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "комиссия"
+                ],
+                "Bashkir": [
+                    "комитет бүлексәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tali encümen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quyi qoʻmita"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hayʼat osti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shuba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бөлүмчө"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,86 @@
+{
+    "id": "i4536",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "westside",
+    "en_definition": "of the western part of a city",
+    "tr_word": "batı yakası",
+    "tr_definition": "bir şehrin batı kısmına ait olan",
+    "ru_word": "западный",
+    "ru_definition": "относящийся к западной части города",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "günbatar",
+                    "günbatar tarapdaky",
+                    "günbatar bölegindäki"
+                ],
+                "Uzbek": [
+                    "kunbotar"
+                ],
+                "Kazakh": [
+                    "күнбатыс"
+                ],
+                "Kyrgyz": [
+                    "күн батыш"
+                ],
+                "Karakalpak": [
+                    "kúnbatıs"
+                ],
+                "Tatar": [
+                    "көнбатыш",
+                    "көнбатыштагы"
+                ],
+                "Bashkir": [
+                    "көнбайыш",
+                    "көнбайыштағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "batı yakası",
+                    "batı tarafı",
+                    "batı kesimi"
+                ],
+                "Kazakh": [
+                    "батыс",
+                    "батыс жақтағы"
+                ],
+                "Kyrgyz": [
+                    "батыш",
+                    "батыш тараптагы"
+                ],
+                "Karakalpak": [
+                    "batıs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qərb",
+                    "qərbdəki",
+                    "qərb tərəfdəki",
+                    "qərb hissəsindəki"
+                ],
+                "Uzbek": [
+                    "g'arbiy"
+                ],
+                "Uyghur": [
+                    "غەربىي قىسىمدىكى",
+                    "غەرب تەرەپتىكى",
+                    "غەربىي"
+                ],
+                "Karakalpak": [
+                    "ǵarb"
+                ]
+            }
+        }
+    ]
+}

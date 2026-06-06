@@ -1,0 +1,100 @@
+{
+    "id": "i5648",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "toed",
+    "en_definition": "having a toe or toes of a specified kind; often used in combination",
+    "tr_word": "parmaklı",
+    "tr_definition": "belirli bir türde veya sayıda ayak parmağına sahip olan; genellikle birleşik kelimelerde kullanılır",
+    "ru_word": "палый",
+    "ru_definition": "имеющий пальцы на ногах определенного типа; часто используется в сложных словах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "parmaklı"
+                ],
+                "Azerbaijani": [
+                    "barmaqlı"
+                ],
+                "Turkmen": [
+                    "barmakly"
+                ],
+                "Uzbek": [
+                    "barmoqli"
+                ],
+                "Uyghur": [
+                    "بارماقلىق"
+                ],
+                "Karakalpak": [
+                    "barmaqlı"
+                ],
+                "Tatar": [
+                    "бармаклы"
+                ],
+                "Bashkir": [
+                    "бармаҡлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayak parmaklı"
+                ],
+                "Azerbaijani": [
+                    "ayaq barmaqlı"
+                ],
+                "Uzbek": [
+                    "oyoq barmoqli"
+                ],
+                "Tatar": [
+                    "аяк бармаклы"
+                ],
+                "Bashkir": [
+                    "аяҡ бармаҡлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "penjeli"
+                ],
+                "Kyrgyz": [
+                    "манжалуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت بارماقلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саусақты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "башпайлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "туяктуу"
+                ]
+            }
+        }
+    ]
+}

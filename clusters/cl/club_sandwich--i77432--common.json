@@ -1,0 +1,109 @@
+{
+    "id": "i77432",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "club sandwich",
+    "en_definition": "made with three slices of usually toasted bread",
+    "tr_word": "kulüp sandviç",
+    "tr_definition": "Genellikle kızarmış üç dilim ekmekle yapılan, katmanlı bir sandviç türü.",
+    "ru_word": "клубный сэндвич",
+    "ru_definition": "Сэндвич, приготовленный из трех ломтиков обычно поджаренного хлеба с несколькими слоями начинки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üç katlı sandviç"
+                ],
+                "Azerbaijani": [
+                    "üçqatlı buterbrod",
+                    "üçqatlı sendviç"
+                ],
+                "Turkmen": [
+                    "üçgatly sandwiç",
+                    "üçgatly çörek"
+                ],
+                "Uzbek": [
+                    "uch qavatli sendvich",
+                    "uch qavatli non"
+                ],
+                "Uyghur": [
+                    "ئۈچ قەۋەتلىك ساندىۋىچ"
+                ],
+                "Kyrgyz": [
+                    "үч кабаттуу нан"
+                ],
+                "Tatar": [
+                    "өч катлы икмәк"
+                ],
+                "Bashkir": [
+                    "өс ҡатлы сэндвич"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gatlakly sandwiç"
+                ],
+                "Uyghur": [
+                    "قاتلاملىق ساندىۋىچ"
+                ],
+                "Kyrgyz": [
+                    "каттама нан"
+                ],
+                "Tatar": [
+                    "катлы бутерброд",
+                    "катлы сандвич"
+                ],
+                "Bashkir": [
+                    "ҡатлы бутерброд"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үш қабатты нан",
+                    "үш қабатты бутерброд"
+                ],
+                "Kyrgyz": [
+                    "үч кабаттуу бутерброд"
+                ],
+                "Karakalpak": [
+                    "úsh qabatlı sendwich",
+                    "úsh qabatlı nan"
+                ],
+                "Bashkir": [
+                    "өс ҡатлы икмәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qavatli non"
+                ],
+                "Kazakh": [
+                    "қабатты нан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kulüp sandviç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karışık sandviç"
+                ]
+            }
+        }
+    ]
+}

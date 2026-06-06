@@ -1,0 +1,126 @@
+{
+    "id": "i89269",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "countrywoman",
+    "en_definition": "a woman from your own country",
+    "tr_word": "hemşeri",
+    "tr_definition": "aynı vatan veya memleketten olan kadın",
+    "ru_word": "соотечественница",
+    "ru_definition": "женщина, имеющая общее с кем-либо отечество",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vatandaş"
+                ],
+                "Azerbaijani": [
+                    "vətəndaş"
+                ],
+                "Turkmen": [
+                    "watandaş"
+                ],
+                "Uzbek": [
+                    "vatandosh"
+                ],
+                "Uyghur": [
+                    "ۋەتەنداش ئايال"
+                ],
+                "Karakalpak": [
+                    "oatanlas"
+                ],
+                "Tatar": [
+                    "вакытдаш",
+                    "ватандаш"
+                ],
+                "Bashkir": [
+                    "ватандыш ҡатын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hemşeri"
+                ],
+                "Azerbaijani": [
+                    "həmyerli"
+                ],
+                "Uyghur": [
+                    "ھەمۋەتەن ئايال"
+                ],
+                "Karakalpak": [
+                    "hamoatan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yurttaş"
+                ],
+                "Uzbek": [
+                    "yurtdosh"
+                ],
+                "Uyghur": [
+                    "يۇرتداش ئايال"
+                ],
+                "Kyrgyz": [
+                    "жердеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ildeş"
+                ],
+                "Tatar": [
+                    "илдәш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жерлес"
+                ],
+                "Karakalpak": [
+                    "jerles"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отандас",
+                    "қандас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мекендеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айылдаш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яҡташ ҡатын"
+                ]
+            }
+        }
+    ]
+}

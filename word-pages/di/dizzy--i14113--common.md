@@ -1,0 +1,193 @@
+# Dizzy
+| Field | Detail |
+|---|---|
+| **ID** | i14113 |
+| **English** | dizzy |
+| **Type** | adjective |
+| **Definition** | having or causing a whirling sensation; liable to falling |
+| **Source** | common |
+| **Ortatil** | sär |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sär** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.50** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| дел-сал | del-sal |
+| есеңгіреген | yeseñgiregen |
+| **Kyrgyz** | |
+| делөөрүгөн | delöörügön |
+| **Bashkir** | |
+| иҫерек | iserek |
+| һаңғырауланған | hañğıraulanğan |
+
+```json
+{
+    "id": "i14113",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "dizzy",
+    "en_definition": "having or causing a whirling sensation; liable to falling",
+    "tr_word": "baş dönmesi",
+    "tr_definition": "başın döndüğü, dengenin bozulduğu veya düşecekmiş gibi hissedilen durum",
+    "ru_word": "головокружительный",
+    "ru_definition": "вызывающий ощущение вращения, неустойчивости и потери равновесия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başı dönen"
+                ],
+                "Azerbaijani": [
+                    "başgicəlləndirici"
+                ],
+                "Turkmen": [
+                    "başy aýlanan"
+                ],
+                "Uzbek": [
+                    "boshi aylangan"
+                ],
+                "Uyghur": [
+                    "بېشى قايغان",
+                    "بېشى چۆرگىلىگەن"
+                ],
+                "Kazakh": [
+                    "басы айналған"
+                ],
+                "Kyrgyz": [
+                    "башы айланган",
+                    "башы тегеренген"
+                ],
+                "Karakalpak": [
+                    "bası aynalǵan",
+                    "bası aynalatuǵın"
+                ],
+                "Tatar": [
+                    "баш әйләнү",
+                    "башы әйләнгән",
+                    "баш әйләнгеч"
+                ],
+                "Bashkir": [
+                    "баш әйләнгән",
+                    "башы әйләнеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sersem",
+                    "sersemlemiş"
+                ],
+                "Azerbaijani": [
+                    "sərsəm"
+                ],
+                "Turkmen": [
+                    "serhoş"
+                ],
+                "Uzbek": [
+                    "sarxush"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mədhuş"
+                ],
+                "Turkmen": [
+                    "mady"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дел-сал"
+                ],
+                "Kyrgyz": [
+                    "делөөрүгөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mülayim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "garang"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lovullagan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېڭىرقاپ قالغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есеңгіреген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "máńgіrgen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "иҫерек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һаңғырауланған"
+                ]
+            }
+        }
+    ]
+}
+```
+

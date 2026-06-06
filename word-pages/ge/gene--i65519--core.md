@@ -1,0 +1,145 @@
+# Gene
+| Field | Detail |
+|---|---|
+| **ID** | i65519 |
+| **English** | gene |
+| **Type** | noun |
+| **Definition** | (genetics) a segment of DNA that is involved in producing a polypeptide chain; it can include regions preceding and following the coding DNA as well as introns between the exons; it is considered a unit of heredity |
+| **Source** | core |
+| **Ortatil** | gen |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **gen** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| گېن | gen |
+| **Kazakh** | |
+| ген | gen |
+| **Kyrgyz** | |
+| ген | gen |
+
+```json
+{
+    "id": "i65519",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "gene",
+    "en_definition": "(genetics) a segment of DNA that is involved in producing a polypeptide chain; it can include regions preceding and following the coding DNA as well as introns between the exons; it is considered a unit of heredity",
+    "tr_word": "gen",
+    "tr_definition": "Kalıtımın temel fiziksel ve işlevsel birimi olan, bir polipeptit zinciri üretmekle görevli DNA dizisi.",
+    "ru_word": "ген",
+    "ru_definition": "Структурная и функциональная единица наследственности живых организмов, представляющая собой участок ДНК.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gen"
+                ],
+                "Azerbaijani": [
+                    "gen"
+                ],
+                "Turkmen": [
+                    "gen"
+                ],
+                "Uzbek": [
+                    "gen"
+                ],
+                "Uyghur": [
+                    "گېن"
+                ],
+                "Kazakh": [
+                    "ген"
+                ],
+                "Kyrgyz": [
+                    "ген"
+                ],
+                "Karakalpak": [
+                    "gen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "irsiyyət vahidi"
+                ],
+                "Uzbek": [
+                    "irsiyat birligi"
+                ],
+                "Uyghur": [
+                    "إىرسىيەت بىرلىكى",
+                    "إىرسىيەت ئامىلى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тұқымқуалаушылық бірлігі"
+                ],
+                "Kyrgyz": [
+                    "тукум куучулук бирдиги"
+                ],
+                "Karakalpak": [
+                    "tuqım qualaushılıq birligi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nesil öýjügi",
+                    "nesil maglumaty"
+                ],
+                "Tatar": [
+                    "нәсел берәмлеге",
+                    "нәселлек факторы"
+                ],
+                "Bashkir": [
+                    "нәҫел берәмеге",
+                    "нәҫеллек факторы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kalıtım birimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soyaçekim birimi"
+                ]
+            }
+        }
+    ]
+}
+```
+

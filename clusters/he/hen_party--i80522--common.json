@@ -1,0 +1,116 @@
+{
+    "id": "i80522",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hen party",
+    "en_definition": "a party for women only",
+    "tr_word": "bekarlığa veda partisi",
+    "tr_definition": "Sadece kadınların katıldığı, genellikle evlilik öncesi düzenlenen eğlence.",
+    "ru_word": "девичник",
+    "ru_definition": "Вечеринка только для женщин, обычно устраиваемая невестой перед свадьбой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qızlar məclisi",
+                    "qız yığıncağı",
+                    "qız toyu"
+                ],
+                "Turkmen": [
+                    "gyzlar üýşmeleňi",
+                    "gyzlar oturyşygy"
+                ],
+                "Uyghur": [
+                    "قىزلار ئولتۇرۇشى"
+                ],
+                "Kazakh": [
+                    "қыз ұзату",
+                    "қыз-келіншектер отырысы"
+                ],
+                "Kyrgyz": [
+                    "кыз узатуу",
+                    "кыз оюну",
+                    "кыздар кечеси"
+                ],
+                "Karakalpak": [
+                    "qızlar otırıspası",
+                    "qızlar keshesi"
+                ],
+                "Tatar": [
+                    "кызлар мәҗлесе",
+                    "кызлар җыены"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙар мәжлесе",
+                    "ҡыҙҙар кисәһе",
+                    "ҡыҙҙар йыйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xotin-qizlar majlisi"
+                ],
+                "Uyghur": [
+                    "خاتۇن-قىزلار ئولتۇرۇشى"
+                ],
+                "Karakalpak": [
+                    "xatın-qızlar keshesi"
+                ],
+                "Tatar": [
+                    "хатын-кызлар кичәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xınayaxdı"
+                ],
+                "Uyghur": [
+                    "خانىم-قىزلار يىغىلىشى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kına gecesi",
+                    "kadınlar matinesi",
+                    "kadınlar eğlencesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gelinlik üýşmeleňi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ayollar davrasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қыз кеші"
+                ]
+            }
+        }
+    ]
+}

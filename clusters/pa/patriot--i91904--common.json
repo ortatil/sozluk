@@ -1,0 +1,126 @@
+{
+    "id": "i91904",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nationalist",
+    "en_definition": "one who loves and defends his or her country",
+    "tr_word": "milliyetçi",
+    "tr_definition": "kendi ülkesini seven ve savunan kimse",
+    "ru_word": "националист",
+    "ru_definition": "человек, который любит и защищает свою страну",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vatansever",
+                    "vatanperver"
+                ],
+                "Azerbaijani": [
+                    "vətənpərvər",
+                    "vətənsevər"
+                ],
+                "Turkmen": [
+                    "watanperwer",
+                    "watansöýüji",
+                    "watançy"
+                ],
+                "Uzbek": [
+                    "vatanparvar",
+                    "vatansevar",
+                    "vatanfido"
+                ],
+                "Uyghur": [
+                    "ۋەتەنپەرۋەر",
+                    "ۋەتەن سۆيەر"
+                ],
+                "Kazakh": [
+                    "патриот"
+                ],
+                "Kyrgyz": [
+                    "патриот"
+                ],
+                "Karakalpak": [
+                    "oatansúyioshi",
+                    "oatanpadar",
+                    "oatansúyer"
+                ],
+                "Tatar": [
+                    "ватанпәрвәр",
+                    "ватанчы"
+                ],
+                "Bashkir": [
+                    "ватансы",
+                    "ватанпәрүәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "millatparvar"
+                ],
+                "Uyghur": [
+                    "مىللەتپەرۋەر"
+                ],
+                "Tatar": [
+                    "милләтпәрвәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yurtsever"
+                ],
+                "Azerbaijani": [
+                    "yurdsevər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отансүйгіш",
+                    "отаншыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұлтжанды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мекенчил"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ата журтчу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эл сүйгөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "илһөйәр"
+                ]
+            }
+        }
+    ]
+}

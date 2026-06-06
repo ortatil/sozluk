@@ -1,0 +1,163 @@
+# Decision making
+| Field | Detail |
+|---|---|
+| **ID** | i67304 |
+| **English** | decision making |
+| **Type** | noun |
+| **Definition** | the cognitive process of reaching a decision |
+| **Source** | common |
+| **Ortatil** | äzm |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i67304",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "decision making",
+    "en_definition": "the cognitive process of reaching a decision",
+    "tr_word": "karar verme",
+    "tr_definition": "bir karar verme sürecindeki bilişsel aşamaların tamamı",
+    "ru_word": "принятие решений",
+    "ru_definition": "когнитивный процесс выбора определённого курса действий из нескольких альтернатив",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karar verme",
+                    "karar alma"
+                ],
+                "Azerbaijani": [
+                    "qərarvermə",
+                    "qərar qəbulu",
+                    "qərar çıxarma"
+                ],
+                "Turkmen": [
+                    "karar berme",
+                    "karara gelme"
+                ],
+                "Uzbek": [
+                    "qaror qabul qilish"
+                ],
+                "Uyghur": [
+                    "قارار چىقىرىش",
+                    "قارار بېرىش"
+                ],
+                "Karakalpak": [
+                    "qarar qabıllaw"
+                ],
+                "Tatar": [
+                    "карар кабул итү",
+                    "карар чыгару"
+                ],
+                "Bashkir": [
+                    "ҡарар ҡабул итеү",
+                    "ҡарар сығарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hüküm verme"
+                ],
+                "Uzbek": [
+                    "hukm chiqarish"
+                ],
+                "Uyghur": [
+                    "ھۆكۈم قىلىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шешім қабылдау"
+                ],
+                "Kyrgyz": [
+                    "чечим кабыл алуу"
+                ],
+                "Karakalpak": [
+                    "sheshim shıǵarıw"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "to'xtamga kelish"
+                ],
+                "Kyrgyz": [
+                    "токтом кылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәл итү"
+                ],
+                "Bashkir": [
+                    "хәл итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çözgüt kabul etme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "azm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەدبىر بەلگىلەش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "байлам жасау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түйін түю"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бүтүм чыгаруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "pikirge keliw"
+                ]
+            }
+        }
+    ]
+}
+```
+

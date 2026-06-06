@@ -1,0 +1,122 @@
+{
+    "id": "synset-oewn-92447371-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "car carrier",
+    "en_definition": "a cargo ship specially fitted for the transport of large quantities of cars.",
+    "tr_word": "araba taşıyıcı gemi",
+    "tr_definition": "Büyük miktarlarda otomobil taşımak için özel olarak donatılmış kargo gemisi.",
+    "ru_word": "автовоз",
+    "ru_definition": "Грузовое судно, специально оборудованное для перевозки большого количества автомобилей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "awtoulag gämisi"
+                ],
+                "Uzbek": [
+                    "avtomobil tashuvchi kema"
+                ],
+                "Kazakh": [
+                    "автокөлік тасығыш кеме"
+                ],
+                "Kyrgyz": [
+                    "автоунаа ташуучу кеме"
+                ],
+                "Karakalpak": [
+                    "awtomobil tasıytuǵın keme"
+                ],
+                "Tatar": [
+                    "автомобиль ташучы көймә",
+                    "автомобиль ташучы судно"
+                ],
+                "Bashkir": [
+                    "автомобиль ташыусы карап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtomobil daşıyan gəmi",
+                    "maşın daşıyan gəmi"
+                ],
+                "Turkmen": [
+                    "maşyn daşaýan gämi"
+                ],
+                "Uzbek": [
+                    "mashina tashuvchi kema"
+                ],
+                "Uyghur": [
+                    "ماشىنا توشۇش پاراخوتى",
+                    "ماشىنا توشۇغۇچى كېمە"
+                ],
+                "Karakalpak": [
+                    "mashina tasıytuǵın keme"
+                ],
+                "Tatar": [
+                    "машина ташучы көймә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "araç taşıma gemisi"
+                ],
+                "Kyrgyz": [
+                    "машина ташуучу кеме"
+                ],
+                "Bashkir": [
+                    "машина ташыусы карап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araba taşıyıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oto taşıyıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəqliyyat gəmisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yuk kemasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік тасушы кеме",
+                    "көлік тасымалдаушы кеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа ташуучу кеме"
+                ]
+            }
+        }
+    ]
+}

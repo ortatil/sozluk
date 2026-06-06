@@ -1,0 +1,96 @@
+{
+    "id": "i66676",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "accounting",
+    "en_definition": "a system that provides quantitative information about finances",
+    "tr_word": "muhasebe",
+    "tr_definition": "finansal işlemlerin kaydedilmesi, sınıflandırılması ve raporlanması süreci",
+    "ru_word": "бухгалтерский учёт",
+    "ru_definition": "система сбора, регистрации и обобщения информации об активах и обязательствах организации",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesap"
+                ],
+                "Azerbaijani": [
+                    "hesabdarlıq",
+                    "hesabdarhq"
+                ],
+                "Turkmen": [
+                    "hasapçylyk",
+                    "hasabat"
+                ],
+                "Uzbek": [
+                    "hisob-kitob",
+                    "hisobdorlik"
+                ],
+                "Uyghur": [
+                    "ھېسابات",
+                    "ھېساباتچىلىق"
+                ],
+                "Tatar": [
+                    "хисап",
+                    "хисапчылык",
+                    "хисап эше"
+                ],
+                "Bashkir": [
+                    "хисап",
+                    "хисаплау",
+                    "хисап эше",
+                    "хисап-хисап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhasebe"
+                ],
+                "Azerbaijani": [
+                    "mühasibat"
+                ],
+                "Turkmen": [
+                    "muhasybat"
+                ],
+                "Uzbek": [
+                    "muhosaba"
+                ],
+                "Uyghur": [
+                    "مۇھاسىبەت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "есеп",
+                    "есептеу",
+                    "есеп-қисап",
+                    "есепшілік"
+                ],
+                "Kyrgyz": [
+                    "эсеп",
+                    "эсеп-кысап",
+                    "эсепчилик"
+                ],
+                "Karakalpak": [
+                    "esap-sanaq",
+                    "esapshılıq",
+                    "esap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "saymanlık"
+                ]
+            }
+        }
+    ]
+}

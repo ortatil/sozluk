@@ -1,0 +1,115 @@
+{
+    "id": "i117099",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "remembrance day",
+    "en_definition": "the Sunday nearest to November 11 when those who died in World War I and World War II are commemorated",
+    "tr_word": "Anma Günü",
+    "tr_definition": "I. ve II. Dünya Savaşlarında ölenlerin anıldığı, 11 Kasım'a en yakın pazar günü",
+    "ru_word": "День поминовения",
+    "ru_definition": "воскресенье, ближайшее к 11 ноября, когда поминают погибших в Первой и Второй мировых войнах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xatirə günü"
+                ],
+                "Turkmen": [
+                    "hatyra güni"
+                ],
+                "Uzbek": [
+                    "xotira kuni"
+                ],
+                "Uyghur": [
+                    "خاتىرىلەش كۈنى"
+                ],
+                "Tatar": [
+                    "хәтер көне"
+                ],
+                "Bashkir": [
+                    "хәтер көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yad günü"
+                ],
+                "Azerbaijani": [
+                    "yad etmə günü"
+                ],
+                "Turkmen": [
+                    "ýatlama güni"
+                ],
+                "Uzbek": [
+                    "yod etish kuni"
+                ],
+                "Uyghur": [
+                    "ياد ئېتىش كۈنى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "еске алу күні",
+                    "аруақтарды еске алу күні"
+                ],
+                "Kyrgyz": [
+                    "эскерүү күнү"
+                ],
+                "Karakalpak": [
+                    "Esleu kúni",
+                    "Eske alıo kúni"
+                ],
+                "Tatar": [
+                    "искә алу көне"
+                ],
+                "Bashkir": [
+                    "иҫкә алыу көнө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anma günü"
+                ],
+                "Azerbaijani": [
+                    "anım günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şehitleri anma günü"
+                ],
+                "Tatar": [
+                    "шәһитләрне искә алу көне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құрбандарды еске алу күні"
+                ],
+                "Kyrgyz": [
+                    "курман болгондорду эскерүү күнү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эскерүү майрамы"
+                ]
+            }
+        }
+    ]
+}

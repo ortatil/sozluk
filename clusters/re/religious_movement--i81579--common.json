@@ -1,0 +1,92 @@
+{
+    "id": "i81579",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "religious movement",
+    "en_definition": "a movement intended to bring about religious reforms",
+    "tr_word": "dini hareket",
+    "tr_definition": "dini reformlar gerçekleştirmeyi amaçlayan bir hareket",
+    "ru_word": "религиозное движение",
+    "ru_definition": "движение, направленное на проведение религиозных реформ",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dini hareket",
+                    "dini akım"
+                ],
+                "Azerbaijani": [
+                    "dini hərəkat",
+                    "dini cərəyan"
+                ],
+                "Turkmen": [
+                    "dini hereket",
+                    "dini akym",
+                    "dini ugruş"
+                ],
+                "Uzbek": [
+                    "diniy harakat",
+                    "diniy oqim"
+                ],
+                "Uyghur": [
+                    "دىنىي ھەرىكەت",
+                    "دىنىي ئېقىم",
+                    "دىنىي ئىسلاھات ھەرىكىتى"
+                ],
+                "Kazakh": [
+                    "діни қозғалыс",
+                    "діни ағым",
+                    "діни жаңғыру"
+                ],
+                "Kyrgyz": [
+                    "диний агым",
+                    "диний кыймыл",
+                    "диний жамаат"
+                ],
+                "Karakalpak": [
+                    "diniy háreket",
+                    "diniy aǵım"
+                ],
+                "Tatar": [
+                    "дини хәрәкәт",
+                    "дини агым",
+                    "дини җәмгыять"
+                ],
+                "Bashkir": [
+                    "дини хәрәкәт",
+                    "дини ағым",
+                    "дини йүнәлеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "islahat hareketi"
+                ],
+                "Azerbaijani": [
+                    "islahat hərəkatı"
+                ],
+                "Uzbek": [
+                    "islohot harakati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tecdid hareketi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məzhəb hərəkatı"
+                ]
+            }
+        }
+    ]
+}

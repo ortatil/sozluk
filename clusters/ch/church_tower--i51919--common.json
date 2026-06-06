@@ -1,0 +1,111 @@
+{
+    "id": "i51919",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "church tower",
+    "en_definition": "the tower of a church",
+    "tr_word": "kilise kulesi",
+    "tr_definition": "Bir kilisenin genellikle çan içeren yüksek kulesi",
+    "ru_word": "церковная башня",
+    "ru_definition": "высокая башня, являющаяся частью церковного здания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "minara"
+                ],
+                "Uzbek": [
+                    "minor",
+                    "minora"
+                ],
+                "Kazakh": [
+                    "мұнара"
+                ],
+                "Kyrgyz": [
+                    "мунара"
+                ],
+                "Karakalpak": [
+                    "múnara"
+                ],
+                "Tatar": [
+                    "манара"
+                ],
+                "Bashkir": [
+                    "манара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qo'ng'iroqxona"
+                ],
+                "Uyghur": [
+                    "قوڭغۇراق مۇنارى"
+                ],
+                "Kazakh": [
+                    "қоңырау мұнарасы"
+                ],
+                "Kyrgyz": [
+                    "коңгуроо мунарасы"
+                ],
+                "Karakalpak": [
+                    "qońırauxana"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چېركاۋ مۇنارى"
+                ],
+                "Kazakh": [
+                    "шіркеу мұнарасы"
+                ],
+                "Tatar": [
+                    "чиркәү манарасы"
+                ],
+                "Bashkir": [
+                    "сиркәү манараһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kilise kulesi"
+                ],
+                "Azerbaijani": [
+                    "kilsə qülləsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çan kulesi"
+                ],
+                "Azerbaijani": [
+                    "zəng qülləsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "buthana minarasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşgy"
+                ]
+            }
+        }
+    ]
+}

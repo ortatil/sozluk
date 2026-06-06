@@ -1,0 +1,132 @@
+# Owens
+| Field | Detail |
+|---|---|
+| **ID** | i96481 |
+| **English** | owens |
+| **Type** | noun |
+| **Definition** | United States athlete and Black American whose success in the 1936 Olympic Games in Berlin outraged Hitler (1913-1980) |
+| **Source** | common |
+| **Ortatil** | äuens |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **äuens** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.33** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئوۋېنس | ovens |
+| **Kazakh** | |
+| Оуэнс | ouens |
+| **Kyrgyz** | |
+| Оуэнс | ouens |
+| **Tatar** | |
+| Оуэнс | ouens |
+| **Bashkir** | |
+| Оуэнс | ouens |
+
+```json
+{
+    "id": "i96481",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "owens",
+    "en_definition": "United States athlete and Black American whose success in the 1936 Olympic Games in Berlin outraged Hitler (1913-1980)",
+    "tr_word": "Owens",
+    "tr_definition": "1936 Berlin Olimpiyat Oyunları'ndaki başarısı Hitler'i öfkelendiren Amerikalı atlet (1913-1980)",
+    "ru_word": "Оуэнс",
+    "ru_definition": "Американский легкоатлет, чей успех на Олимпийских играх 1936 года в Берлине привел в ярость Гитлера (1913-1980)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Jesse Owens"
+                ],
+                "Azerbaijani": [
+                    "Cessi Ouens",
+                    "Jesse Owens"
+                ],
+                "Turkmen": [
+                    "Jesse Owens"
+                ],
+                "Uzbek": [
+                    "Jessi Ouens"
+                ],
+                "Uyghur": [
+                    "جېسسى ئوۋېنس"
+                ],
+                "Kazakh": [
+                    "Джесси Оуэнс"
+                ],
+                "Kyrgyz": [
+                    "Жесси Оуэнс"
+                ],
+                "Karakalpak": [
+                    "Djessi Ouens"
+                ],
+                "Tatar": [
+                    "Джесси Оуэнс"
+                ],
+                "Bashkir": [
+                    "Джесси Оуэнс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Owens"
+                ],
+                "Uzbek": [
+                    "Ouens"
+                ],
+                "Uyghur": [
+                    "ئوۋېنس"
+                ],
+                "Kazakh": [
+                    "Оуэнс"
+                ],
+                "Kyrgyz": [
+                    "Оуэнс"
+                ],
+                "Karakalpak": [
+                    "Ouens"
+                ],
+                "Tatar": [
+                    "Оуэнс"
+                ],
+                "Bashkir": [
+                    "Оуэнс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "James Cleveland Owens"
+                ]
+            }
+        }
+    ]
+}
+```
+

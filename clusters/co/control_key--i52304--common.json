@@ -1,0 +1,101 @@
+{
+    "id": "i52304",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "control key",
+    "en_definition": "(computer science) the key on a computer keyboard that is used (in combination with some other key) to type control characters",
+    "tr_word": "kontrol tuşu",
+    "tr_definition": "Bilgisayar klavyesinde, kontrol karakterleri yazmak veya kısayolları çalıştırmak için başka bir tuşla birlikte kullanılan tuş.",
+    "ru_word": "клавиша Control",
+    "ru_definition": "Клавиша на клавиатуре компьютера, используемая (в сочетании с другими клавишами) для ввода управляющих символов или выполнения команд.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kontrol tuşu"
+                ],
+                "Turkmen": [
+                    "kontrol düwmesi"
+                ],
+                "Uyghur": [
+                    "كونترول كۇنۇپكىسى"
+                ],
+                "Tatar": [
+                    "контроль төймәсе"
+                ],
+                "Bashkir": [
+                    "контроль төймәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "boshqaruv tugmasi"
+                ],
+                "Uyghur": [
+                    "باشقۇرۇش كۇنۇپكىسى"
+                ],
+                "Kazakh": [
+                    "басқару пернесі",
+                    "басқару түймесі"
+                ],
+                "Kyrgyz": [
+                    "башкаруу баскычы",
+                    "башкаруучу баскыч"
+                ],
+                "Karakalpak": [
+                    "basqarıo pernesi",
+                    "basqarıo túymesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "idarəetmə düyməsi"
+                ],
+                "Uzbek": [
+                    "nazorat tugmasi"
+                ],
+                "Tatar": [
+                    "идарә төймәсе"
+                ],
+                "Bashkir": [
+                    "идара итеү төймәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "denetim tuşu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəzarət düyməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dolandyryş düwmesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تىزگىن كۇنۇپكىسى"
+                ]
+            }
+        }
+    ]
+}

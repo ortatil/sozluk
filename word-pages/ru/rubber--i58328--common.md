@@ -1,0 +1,155 @@
+# Rubber
+| Field | Detail |
+|---|---|
+| **ID** | i58328 |
+| **English** | rubber |
+| **Type** | noun |
+| **Definition** | an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil |
+| **Source** | common |
+| **Ortatil** | öçürüwçü |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **öçürüwçü** | **ḅozguw** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ❌ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 1 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **3.13** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئۆچۈرگۈچ | öçürgüç |
+| ئۆچۈرگۈ | öçürgü |
+| **Kazakh** | |
+| өшіргіш | öşirgiş |
+| **Kyrgyz** | |
+| өчүргүч | öçürgüç |
+| өчүрүүчү | öçürüüçü |
+| **Tatar** | |
+| өтерге | öterge |
+| сызгыч | sızgıç |
+| бетерге | beterge |
+| **Bashkir** | |
+| юйыуғыс | yuyıuğıs |
+| өрткөс | örtkös |
+
+```json
+{
+    "id": "i58328",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rubber",
+    "en_definition": "an eraser made of rubber (or of a synthetic material with properties similar to rubber); commonly mounted at one end of a pencil",
+    "tr_word": "silgi",
+    "tr_definition": "Kurşun kalemle yazılmış yazıları silmeye yarayan, kauçuk veya benzeri maddeden yapılmış araç.",
+    "ru_word": "ластик",
+    "ru_definition": "Канцелярская принадлежность для удаления надписей карандашом или чернилами с бумаги.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öçürgiç"
+                ],
+                "Uzbek": [
+                    "oʻchirgʻich"
+                ],
+                "Uyghur": [
+                    "ئۆچۈرگۈچ",
+                    "ئۆچۈرگۈ"
+                ],
+                "Kazakh": [
+                    "өшіргіш",
+                    "өшіргіш резеңке"
+                ],
+                "Kyrgyz": [
+                    "өчүргүч",
+                    "өчүрүүчү"
+                ],
+                "Karakalpak": [
+                    "óshіrgіsh",
+                    "óshіrme"
+                ],
+                "Tatar": [
+                    "өтерге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bozgu"
+                ],
+                "Azerbaijani": [
+                    "pozan"
+                ],
+                "Turkmen": [
+                    "pozguç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "silgi"
+                ],
+                "Azerbaijani": [
+                    "silgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rezinka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сызгыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бетерге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "юйыуғыс",
+                    "юйыу резинаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өрткөс"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,186 @@
+# Burn down
+| Field | Detail |
+|---|---|
+| **ID** | i23620 |
+| **English** | burn down |
+| **Type** | verb |
+| **Definition** | burn completely; be consumed or destroyed by fire |
+| **Source** | common |
+| **Ortatil** | küymäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **küymäk** | **örtenmäk** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ❌ | ✅ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.33 |
+| *Qarluq Subtotal* | 0 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.60 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* | ✅ | ✅ |
+| **O'TQ** | **1.43** | **1.43** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жану | janu |
+| күю | küyu |
+| өртену | örtenu |
+| **Kyrgyz** | |
+| өрттөнүү | örttönüü |
+| **Tatar** | |
+| көю | köyu |
+
+```json
+{
+    "id": "i23620",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "burn down",
+    "en_definition": "burn completely; be consumed or destroyed by fire",
+    "tr_word": "tamamen yanmak",
+    "tr_definition": "bir yapının veya nesnenin ateşle tamamen yok olması veya kül olması",
+    "ru_word": "сгорать дотла",
+    "ru_definition": "полностью уничтожаться или разрушаться в результате пожара",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanıp kül olmak"
+                ],
+                "Azerbaijani": [
+                    "yanıb kül olmaq",
+                    "yanıb qurtarmaq",
+                    "yanıb məhv olmaq"
+                ],
+                "Turkmen": [
+                    "ýanyp gutarmak",
+                    "ýanyp kül bolmak",
+                    "ýanyp sönmek"
+                ],
+                "Uzbek": [
+                    "yonib bitmoq",
+                    "yonib ketmoq",
+                    "yonib tugamoq"
+                ],
+                "Kazakh": [
+                    "жану",
+                    "жанып кету"
+                ],
+                "Karakalpak": [
+                    "janıp ketio"
+                ],
+                "Tatar": [
+                    "янып бетү",
+                    "янып юкка чыгу"
+                ],
+                "Bashkir": [
+                    "янып бөтөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kavrulmak"
+                ],
+                "Kazakh": [
+                    "күю"
+                ],
+                "Kyrgyz": [
+                    "күйүп кетүү",
+                    "күйүп жок болуу",
+                    "күйүп бүтүү"
+                ],
+                "Karakalpak": [
+                    "kúymek",
+                    "kúydirip jiberio"
+                ],
+                "Tatar": [
+                    "көю"
+                ],
+                "Bashkir": [
+                    "көйөп бөтөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "örtülmek"
+                ],
+                "Kazakh": [
+                    "өртену"
+                ],
+                "Kyrgyz": [
+                    "өрттөнүү"
+                ],
+                "Karakalpak": [
+                    "órtenbek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kul bo'lmoq"
+                ],
+                "Kazakh": [
+                    "күл болу"
+                ],
+                "Tatar": [
+                    "көлгә әйләнү"
+                ],
+                "Bashkir": [
+                    "көлгә әйләнеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tamamen yanmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tutuşup bitmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "od tutub yanmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆيۈپ تۈگىمەك",
+                    "كۆيۈپ كۈل بولماق",
+                    "كۆيۈپ خاراب بولماق",
+                    "كۆيۈپ يوقالماق"
+                ]
+            }
+        }
+    ]
+}
+```
+

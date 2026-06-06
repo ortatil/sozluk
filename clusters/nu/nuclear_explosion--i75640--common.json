@@ -1,0 +1,98 @@
+{
+    "id": "i75640",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nuclear explosion",
+    "en_definition": "the explosion of an atomic bomb",
+    "tr_word": "nükleer patlama",
+    "tr_definition": "bir atom bombasının patlaması",
+    "ru_word": "ядерный взрыв",
+    "ru_definition": "взрыв атомной бомбы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "atomik patlama"
+                ],
+                "Azerbaijani": [
+                    "atom partlayışı"
+                ],
+                "Turkmen": [
+                    "atom partlamasy"
+                ],
+                "Uzbek": [
+                    "atom portlashi"
+                ],
+                "Uyghur": [
+                    "ئاتوم پارتلىشى"
+                ],
+                "Kazakh": [
+                    "атом жарылысы"
+                ],
+                "Kyrgyz": [
+                    "атомдук жарылуу"
+                ],
+                "Karakalpak": [
+                    "atom jarılısı"
+                ],
+                "Tatar": [
+                    "атом шартлавы"
+                ],
+                "Bashkir": [
+                    "атом шартлауы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýadro partlamasy"
+                ],
+                "Uzbek": [
+                    "yadro portlashi"
+                ],
+                "Uyghur": [
+                    "يادرو پارتلىشى"
+                ],
+                "Kazakh": [
+                    "ядролық жарылыс"
+                ],
+                "Kyrgyz": [
+                    "ядролук жарылуу"
+                ],
+                "Karakalpak": [
+                    "yadrolıq jarılıs"
+                ],
+                "Bashkir": [
+                    "яҙра шартлауы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nükleer patlama"
+                ],
+                "Azerbaijani": [
+                    "nüvə partlayışı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekirdek patlaması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төш шартлавы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "i14816",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "avian",
+    "en_definition": "pertaining to or characteristic of birds",
+    "tr_word": "kuşlarla ilgili",
+    "tr_definition": "kuşlara özgü veya kuşlarla bağlantılı olan",
+    "ru_word": "птичий",
+    "ru_definition": "относящийся к птицам или характерный для них",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuş",
+                    "kuşlarla ilgili",
+                    "kuşsu",
+                    "kuşlara dair"
+                ],
+                "Azerbaijani": [
+                    "quşlara aid",
+                    "quş"
+                ],
+                "Turkmen": [
+                    "guşlara degişli",
+                    "guş"
+                ],
+                "Uzbek": [
+                    "qushga oid",
+                    "qushlarga xos"
+                ],
+                "Uyghur": [
+                    "قۇشلارغا ئائىت",
+                    "قۇشلارغا خاس",
+                    "قۇشچىلىق"
+                ],
+                "Kazakh": [
+                    "құс",
+                    "құсқа тән",
+                    "құс тектес"
+                ],
+                "Kyrgyz": [
+                    "куш"
+                ],
+                "Karakalpak": [
+                    "qus",
+                    "quslarǵa tán",
+                    "qusqa baylanıslı"
+                ],
+                "Tatar": [
+                    "кош",
+                    "кош-корт"
+                ],
+                "Bashkir": [
+                    "ҡош",
+                    "ҡоштарға хас",
+                    "ҡош-ҡорт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "parranda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "канаттуу"
+                ]
+            }
+        }
+    ]
+}

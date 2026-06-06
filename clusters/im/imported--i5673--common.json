@@ -1,0 +1,162 @@
+{
+    "id": "i5673",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "imported",
+    "en_definition": "used of especially merchandise brought from a foreign source",
+    "tr_word": "ithal",
+    "tr_definition": "Başka bir ülkeden satın alınarak getirilen, dış alım yoluyla gelen mal.",
+    "ru_word": "импортный",
+    "ru_definition": "Привезенный из-за границы, иностранного производства.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gətirilmə"
+                ],
+                "Turkmen": [
+                    "getirilen"
+                ],
+                "Uzbek": [
+                    "keltirilgan"
+                ],
+                "Kazakh": [
+                    "келтірілген"
+                ],
+                "Kyrgyz": [
+                    "келгин"
+                ],
+                "Karakalpak": [
+                    "keltirilgen"
+                ],
+                "Bashkir": [
+                    "килтерелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ithal"
+                ],
+                "Azerbaijani": [
+                    "idxal",
+                    "idxal edilmiş"
+                ],
+                "Kyrgyz": [
+                    "чет элдик",
+                    "жат"
+                ],
+                "Tatar": [
+                    "чит илнеке",
+                    "чит ил",
+                    "чит ил товарлары",
+                    "чит илнеке булган"
+                ],
+                "Bashkir": [
+                    "сит илдеке",
+                    "ситтеке"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dışarıdan gelme"
+                ],
+                "Turkmen": [
+                    "daşary ýurt",
+                    "daşarky"
+                ],
+                "Uzbek": [
+                    "tashqi"
+                ],
+                "Uyghur": [
+                    "تاشقى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chet"
+                ],
+                "Kazakh": [
+                    "шеттен келген"
+                ],
+                "Karakalpak": [
+                    "shet eldik"
+                ],
+                "Bashkir": [
+                    "ситән килтерелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سىرتتىن كىرگۈزۈلگەن"
+                ],
+                "Kazakh": [
+                    "сырттан келген"
+                ],
+                "Kyrgyz": [
+                    "сырттан келген"
+                ],
+                "Karakalpak": [
+                    "sırttan kelgen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xarici"
+                ],
+                "Uzbek": [
+                    "xorijiy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yabancı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چەتئەلدىن كەلگەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىمپورت قىلىنغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әкелінген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "xalıq aralıq"
+                ]
+            }
+        }
+    ]
+}

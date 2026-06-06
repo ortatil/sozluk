@@ -1,0 +1,105 @@
+{
+    "id": "i110950",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brain disorder",
+    "en_definition": "any disorder or disease of the brain",
+    "tr_word": "beyin bozukluğu",
+    "tr_definition": "beyindeki herhangi bir işlevsel bozukluk veya hastalık",
+    "ru_word": "заболевание головного мозга",
+    "ru_definition": "любое расстройство или болезнь головного мозга",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "miya xastaligi",
+                    "miya kasalligi",
+                    "miya buzilishi",
+                    "miya illati"
+                ],
+                "Uyghur": [
+                    "مېڭە كېسىلى",
+                    "مېڭە ئىللىتى",
+                    "مېڭە زەخمىسى"
+                ],
+                "Kyrgyz": [
+                    "мээ илдети",
+                    "мээ кесели"
+                ],
+                "Karakalpak": [
+                    "miy keselligi"
+                ],
+                "Bashkir": [
+                    "мейе ауырыуы",
+                    "мейе сире",
+                    "мейе боҙолоуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ми дерті",
+                    "ми ауруы",
+                    "ми сырқаты",
+                    "ми зақымы"
+                ],
+                "Kyrgyz": [
+                    "мээ оорусу"
+                ],
+                "Karakalpak": [
+                    "miy naqaslıǵı",
+                    "miy buzılıoı"
+                ],
+                "Tatar": [
+                    "ми чирлелеге",
+                    "ми авыруы",
+                    "ми зәгыйфьлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beyin hastalığı",
+                    "beyin rahatsızlığı"
+                ],
+                "Azerbaijani": [
+                    "beyin xəstəliyi",
+                    "beyin pozuntusu",
+                    "beyin pozğunluğu",
+                    "beyin iltihabı"
+                ],
+                "Turkmen": [
+                    "beýni keseli",
+                    "beýni bozulmasy",
+                    "beýni näsaglygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zihin hastalığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akıl hastalığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мээнин бузулушу"
+                ]
+            }
+        }
+    ]
+}

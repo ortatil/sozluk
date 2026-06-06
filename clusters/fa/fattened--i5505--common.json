@@ -1,0 +1,139 @@
+{
+    "id": "i5505",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "fattened",
+    "en_definition": "(of market animals) made ready for market",
+    "tr_word": "besili",
+    "tr_definition": "Kesilmek veya satılmak üzere özel olarak beslenmiş, semirtilmiş (hayvan)",
+    "ru_word": "откормленный",
+    "ru_definition": "Животное, которое специально кормили для набора веса перед продажей или убоем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "semiz"
+                ],
+                "Turkmen": [
+                    "semiz",
+                    "semredilen"
+                ],
+                "Uzbek": [
+                    "semirtirilgan",
+                    "semiz"
+                ],
+                "Uyghur": [
+                    "سەمىرتىلگەن"
+                ],
+                "Kazakh": [
+                    "семіртілген",
+                    "семіз"
+                ],
+                "Kyrgyz": [
+                    "семиртилген"
+                ],
+                "Karakalpak": [
+                    "semirtilgen",
+                    "semiz"
+                ],
+                "Tatar": [
+                    "симертелгән",
+                    "симергән"
+                ],
+                "Bashkir": [
+                    "һимертелгән",
+                    "һимеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bakylan"
+                ],
+                "Uzbek": [
+                    "boqilgan",
+                    "boquvdagi"
+                ],
+                "Uyghur": [
+                    "بېقىلغان"
+                ],
+                "Kazakh": [
+                    "бағылған"
+                ],
+                "Karakalpak": [
+                    "baǵılǵan"
+                ],
+                "Tatar": [
+                    "бәгыл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "besili",
+                    "beslenmiş",
+                    "besiye çekilmiş"
+                ],
+                "Azerbaijani": [
+                    "bəslənmiş"
+                ],
+                "Turkmen": [
+                    "beslenen"
+                ],
+                "Kyrgyz": [
+                    "байланган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بورداقلانغان"
+                ],
+                "Kazakh": [
+                    "бордақыланған"
+                ],
+                "Kyrgyz": [
+                    "бордолгон"
+                ],
+                "Karakalpak": [
+                    "bordaqılanǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kökəldilmiş",
+                    "kök"
+                ],
+                "Bashkir": [
+                    "көйлө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ашатылган"
+                ],
+                "Bashkir": [
+                    "ашатылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tökümlü"
+                ]
+            }
+        }
+    ]
+}

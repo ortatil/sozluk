@@ -1,0 +1,112 @@
+{
+    "id": "i60166",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "theater stage",
+    "en_definition": "a stage in a theater on which actors can perform",
+    "tr_word": "tiyatro sahnesi",
+    "tr_definition": "oyuncuların üzerinde performans sergilediği tiyatro alanı",
+    "ru_word": "театральная сцена",
+    "ru_definition": "сцена в театре, на которой выступают актеры",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahne"
+                ],
+                "Azerbaijani": [
+                    "səhnə"
+                ],
+                "Turkmen": [
+                    "sahna"
+                ],
+                "Uzbek": [
+                    "sahna"
+                ],
+                "Uyghur": [
+                    "سەھنە"
+                ],
+                "Kazakh": [
+                    "сахна"
+                ],
+                "Kyrgyz": [
+                    "сахна"
+                ],
+                "Karakalpak": [
+                    "saxna"
+                ],
+                "Tatar": [
+                    "сәхнә"
+                ],
+                "Bashkir": [
+                    "сәхнә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "meýdança"
+                ],
+                "Uzbek": [
+                    "maydon"
+                ],
+                "Kazakh": [
+                    "майдан"
+                ],
+                "Kyrgyz": [
+                    "майдан"
+                ],
+                "Karakalpak": [
+                    "maydan"
+                ],
+                "Tatar": [
+                    "мәйдан"
+                ],
+                "Bashkir": [
+                    "майҙан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tamaşa yeri"
+                ],
+                "Uyghur": [
+                    "تەماشاگاھ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oyun alanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sergi yeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ayaqaltı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төр"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "id": "i38022",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "checkers",
+    "en_definition": "a checkerboard game for two players who each have 12 pieces; the object is to jump over and so capture the opponent's pieces",
+    "tr_word": "dama",
+    "tr_definition": "İki kişinin altmış dört kareli bir tahta üzerinde on altışar taşla oynadığı, taşları karşı tarafın alanına geçirerek rakibi yenmeyi amaçlayan oyun.",
+    "ru_word": "шашки",
+    "ru_definition": "Игра на 64-клеточной или 100-клеточной доске для двух игроков специальными круглыми фишками, целью которой является взятие всех шашек противника или лишение их возможности хода.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şaşka"
+                ],
+                "Uzbek": [
+                    "shashka"
+                ],
+                "Kazakh": [
+                    "шашка"
+                ],
+                "Kyrgyz": [
+                    "шашки"
+                ],
+                "Karakalpak": [
+                    "shashka"
+                ],
+                "Tatar": [
+                    "шашка",
+                    "шашка уены"
+                ],
+                "Bashkir": [
+                    "шашка",
+                    "шашка уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dama"
+                ],
+                "Azerbaijani": [
+                    "dama"
+                ],
+                "Turkmen": [
+                    "dama"
+                ],
+                "Uzbek": [
+                    "dama"
+                ],
+                "Uyghur": [
+                    "داما",
+                    "داما ئويۇنى"
+                ],
+                "Karakalpak": [
+                    "dama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тоғызқұмалақ"
+                ],
+                "Kyrgyz": [
+                    "тогуз коргоол"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şahmat-dama"
+                ]
+            }
+        }
+    ]
+}

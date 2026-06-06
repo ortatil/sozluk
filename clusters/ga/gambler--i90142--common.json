@@ -1,0 +1,108 @@
+{
+    "id": "i90142",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gambler",
+    "en_definition": "someone who risks loss or injury in the hope of gain or excitement",
+    "tr_word": "kumarbaz",
+    "tr_definition": "kazanç veya heyecan umuduyla kayıp veya yaralanma riskini göze alan kimse",
+    "ru_word": "азартный игрок",
+    "ru_definition": "человек, который рискует потерей или травмой в надежде на выигрыш или азарт",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kumarbaz",
+                    "kumarcı"
+                ],
+                "Azerbaijani": [
+                    "qumarbaz",
+                    "qumarçı"
+                ],
+                "Turkmen": [
+                    "humarbaz",
+                    "kumarbaz",
+                    "humarçy"
+                ],
+                "Uzbek": [
+                    "qimorboz",
+                    "qimorchi"
+                ],
+                "Uyghur": [
+                    "قۇمارۋاز",
+                    "قۇمارچى"
+                ],
+                "Kazakh": [
+                    "құмарпаз"
+                ],
+                "Kyrgyz": [
+                    "кумарпоз",
+                    "кумарчы"
+                ],
+                "Karakalpak": [
+                    "qumarpaz",
+                    "qumarshı"
+                ],
+                "Tatar": [
+                    "комарбаз"
+                ],
+                "Bashkir": [
+                    "ҡомарлы",
+                    "ҡомарсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyuncu"
+                ],
+                "Kazakh": [
+                    "ойынпаз"
+                ],
+                "Kyrgyz": [
+                    "оюнчу"
+                ],
+                "Tatar": [
+                    "уенчы"
+                ],
+                "Bashkir": [
+                    "уйынсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бәс тігуші"
+                ],
+                "Karakalpak": [
+                    "básshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mütəşəbbis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tavakkalchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәхет сынаучы"
+                ]
+            }
+        }
+    ]
+}

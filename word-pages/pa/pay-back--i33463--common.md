@@ -1,0 +1,279 @@
+# Pay back
+| Field | Detail |
+|---|---|
+| **ID** | i33463 |
+| **English** | pay back |
+| **Type** | verb |
+| **Definition** | act or give recompense in recognition of someone's behavior or actions |
+| **Source** | common |
+| **Ortatil** | qaytarmaq, ödemäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qaytarmaq** | **ödemäk** | **tölämäk** |
+|---|---|---|---|
+| Turkish | ❌ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ |
+| Uyghur | ✅ | ❌ | ✅ |
+| Kazakh | ✅ | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ❌ | ✅ |
+| Bashkir | ✅ | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 1 |
+| *Qipchaq Subtotal* | 1 | 0.40 | 0.80 |
+| *In All* | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **3.67** | **2.90** | **1.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قايتۇرماق | qayturmaq |
+| تۆلىمەك | tölimäk |
+| **Kazakh** | |
+| қайтару | qaytaru |
+| өтеу | öteu |
+| **Kyrgyz** | |
+| кайтаруу | kaytaruu |
+| төлөө | tölöö |
+| актоо | aktoo |
+| **Tatar** | |
+| кайтару | kaytaru |
+| түләү | tüläü |
+| өзмәү | özmäü |
+| **Bashkir** | |
+| ҡайтарыу | qaytarıu |
+| түләү | tüläü |
+
+```json
+{
+    "id": "i33463",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "pay back",
+    "en_definition": "act or give recompense in recognition of someone's behavior or actions",
+    "tr_word": "karşılığını vermek",
+    "tr_definition": "birinin davranışına veya eylemlerine karşılık olarak telafi etmek veya karşılık vermek",
+    "ru_word": "отплачивать",
+    "ru_definition": "совершать действие или давать что-либо в качестве возмездия или признания чьего-либо поведения или поступков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qaytarmaq"
+                ],
+                "Turkmen": [
+                    "gaýtarmak"
+                ],
+                "Uzbek": [
+                    "qaytarmoq"
+                ],
+                "Uyghur": [
+                    "قايتۇرماق"
+                ],
+                "Kazakh": [
+                    "қайтару"
+                ],
+                "Kyrgyz": [
+                    "кайтаруу"
+                ],
+                "Karakalpak": [
+                    "qaytarıo"
+                ],
+                "Tatar": [
+                    "кайтару"
+                ],
+                "Bashkir": [
+                    "ҡайтарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ödemek"
+                ],
+                "Azerbaijani": [
+                    "ödəmək"
+                ],
+                "Turkmen": [
+                    "ödemek"
+                ],
+                "Uzbek": [
+                    "oʻtamoq"
+                ],
+                "Kazakh": [
+                    "өтеу"
+                ],
+                "Karakalpak": [
+                    "óteo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "toʻlamoq"
+                ],
+                "Uyghur": [
+                    "تۆلىمەك"
+                ],
+                "Kyrgyz": [
+                    "төлөө"
+                ],
+                "Karakalpak": [
+                    "tóleo"
+                ],
+                "Tatar": [
+                    "түләү"
+                ],
+                "Bashkir": [
+                    "түләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karşılık vermek"
+                ],
+                "Azerbaijani": [
+                    "qarşılığını vermək"
+                ],
+                "Kyrgyz": [
+                    "карымжысын берүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hakyny bermek"
+                ],
+                "Uyghur": [
+                    "ھەققىنى بەرمەك"
+                ],
+                "Tatar": [
+                    "хакын бирү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "جاۋاب قايتۇرماق"
+                ],
+                "Tatar": [
+                    "җавап бирү"
+                ],
+                "Bashkir": [
+                    "яуап биреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iade etmek"
+                ],
+                "Uyghur": [
+                    "ئادا قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "telafi etmek"
+                ],
+                "Azerbaijani": [
+                    "təlafı etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əvəzini vermək"
+                ],
+                "Turkmen": [
+                    "öwezini dolmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есесін қайтару"
+                ],
+                "Karakalpak": [
+                    "esesin qaytarıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өч алуу"
+                ],
+                "Bashkir": [
+                    "үс алыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "borcunu ödemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "badal bermoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mukofotlamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақысын беру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "актоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өзмәү"
+                ]
+            }
+        }
+    ]
+}
+```
+

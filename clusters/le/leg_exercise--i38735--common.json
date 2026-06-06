@@ -1,0 +1,81 @@
+{
+    "id": "i38735",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "leg exercise",
+    "en_definition": "exercise designed to strengthen the leg muscles",
+    "tr_word": "bacak egzersizi",
+    "tr_definition": "bacak kaslarını güçlendirmek için tasarlanmış egzersiz",
+    "ru_word": "упражнение для ног",
+    "ru_definition": "упражнение, предназначенное для укрепления мышц ног",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bacak egzersizi",
+                    "bacak çalışması",
+                    "bacak idmanı",
+                    "bacak hareketi"
+                ],
+                "Turkmen": [
+                    "aýak maşky",
+                    "aýak türgenleşigi"
+                ],
+                "Uzbek": [
+                    "oyoq mashqi",
+                    "oyoq harakati",
+                    "oyoq tarbiyasi"
+                ],
+                "Kazakh": [
+                    "аяқ жаттығуы",
+                    "аяққа арналған жаттығу",
+                    "аяқ қимылы"
+                ],
+                "Karakalpak": [
+                    "ayaq shınıqtıru",
+                    "ayaq shınıqtırıo",
+                    "ayaq jattıǵıoı",
+                    "ayaq háreketi"
+                ],
+                "Tatar": [
+                    "аяк күнегүе",
+                    "аяк хәрәкәте",
+                    "аякны ныгыту күнегүе"
+                ],
+                "Bashkir": [
+                    "аяҡ күнегеүе",
+                    "аяҡтар өсөн күнегеү",
+                    "аяҡтарҙы нығытыу күнегеүе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت مەشىقى",
+                    "پۇت چېنىقتۇرۇش"
+                ],
+                "Kyrgyz": [
+                    "бут машыгуусу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ayaq hərəkəti",
+                    "ayaq məşqi",
+                    "ayaq təmrinləri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бут көнүгүүсү"
+                ]
+            }
+        }
+    ]
+}

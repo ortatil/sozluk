@@ -1,0 +1,145 @@
+# Garment bag
+| Field | Detail |
+|---|---|
+| **ID** | i54191 |
+| **English** | garment bag |
+| **Type** | noun |
+| **Definition** | a suitcase that unfolds to be hung up |
+| **Source** | common |
+| **Ortatil** | kisä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| киімқап | kiimqap |
+
+```json
+{
+    "id": "i54191",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "garment bag",
+    "en_definition": "a suitcase that unfolds to be hung up",
+    "tr_word": "elbise kılıfı",
+    "tr_definition": "giysilerin asılarak taşınmasını sağlayan, katlanabilir taşıma çantası",
+    "ru_word": "портплед",
+    "ru_definition": "дорожная сумка-чехол для перевозки костюмов и платьев в подвешенном состоянии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kisə"
+                ],
+                "Uyghur": [
+                    "كىيىم سومكىسى",
+                    "كىيىم قېپى",
+                    "كىيىم خالتىسى"
+                ],
+                "Kazakh": [
+                    "киімқап",
+                    "киім салғыш",
+                    "киім дорба"
+                ],
+                "Kyrgyz": [
+                    "кийим кап",
+                    "кийим баштык",
+                    "кийим салгыч"
+                ],
+                "Karakalpak": [
+                    "kiyim qabı",
+                    "kiyim dorbası",
+                    "kiyim salǵısh"
+                ],
+                "Tatar": [
+                    "кием савыты",
+                    "кием капчыгы",
+                    "кием тышлыгы"
+                ],
+                "Bashkir": [
+                    "кейем ҡабы",
+                    "кейем тышы",
+                    "кейем һалғыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "askılı çanta"
+                ],
+                "Turkmen": [
+                    "eşik torbasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "geýim haltasy"
+                ],
+                "Uzbek": [
+                    "kiyim sumkasi",
+                    "kiyim g'ilofi",
+                    "kiyim jomadoni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elbise kılıfı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takım elbise çantası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "portbebe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çanta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "torba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lybas torbasy"
+                ]
+            }
+        }
+    ]
+}
+```
+

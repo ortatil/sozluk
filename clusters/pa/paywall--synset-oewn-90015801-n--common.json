@@ -1,0 +1,111 @@
+{
+    "id": "synset-oewn-90015801-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paywall",
+    "en_definition": "A mechanism used to limit access to only paying users",
+    "tr_word": "ödeme duvarı",
+    "tr_definition": "İnternet sitelerindeki içeriğe erişimi yalnızca ücret ödeyen kullanıcılarla sınırlayan sistem.",
+    "ru_word": "пейволл",
+    "ru_definition": "Система ограничения доступа к контенту на веб-сайте, требующая оформления платной подписки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tölegli böwet",
+                    "tölegli çäklendirme",
+                    "tölegli diwar"
+                ],
+                "Uzbek": [
+                    "toʻlov toʻsigʻi",
+                    "toʻlovli cheklov",
+                    "toʻlov devori"
+                ],
+                "Uyghur": [
+                    "تۆلەملىك توساق"
+                ],
+                "Kazakh": [
+                    "төлем тосқауылы"
+                ],
+                "Kyrgyz": [
+                    "төлөм тосмосу",
+                    "төлөм чектөөсү"
+                ],
+                "Karakalpak": [
+                    "tólem tosqauılı",
+                    "tólem diyoalı"
+                ],
+                "Tatar": [
+                    "түләүле киртә",
+                    "түләүле чикләү",
+                    "түләүле ишек"
+                ],
+                "Bashkir": [
+                    "түләүле кәртә",
+                    "түләүле сикләү",
+                    "түләүле инеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ақылы кедергі",
+                    "ақылы шектеу"
+                ],
+                "Kyrgyz": [
+                    "акылуу кирүү"
+                ],
+                "Karakalpak": [
+                    "aqılı shekteu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ödeme duvarı"
+                ],
+                "Azerbaijani": [
+                    "ödənişli giriş",
+                    "ödəniş səddi",
+                    "ödəniş divarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "abonelik duvarı"
+                ],
+                "Azerbaijani": [
+                    "abunəlik məhdudiyyəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ücretli erişim engeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pullik kirish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەقلىق توساق",
+                    "ھەقلىق زىيارەت چەكلىمىسى"
+                ]
+            }
+        }
+    ]
+}

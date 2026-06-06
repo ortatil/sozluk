@@ -1,0 +1,146 @@
+# Spanish moss
+| Field | Detail |
+|---|---|
+| **ID** | i103144 |
+| **English** | spanish moss |
+| **Type** | noun |
+| **Definition** | dense festoons of greenish-grey hairlike flexuous strands anchored to tree trunks and branches by sparse wiry roots; southeastern United States and West Indies to South America |
+| **Source** | common |
+| **Ortatil** | tillensiyä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| тилленсия | tillensiya |
+
+```json
+{
+    "id": "i103144",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spanish moss",
+    "en_definition": "dense festoons of greenish-grey hairlike flexuous strands anchored to tree trunks and branches by sparse wiry roots; southeastern United States and West Indies to South America",
+    "tr_word": "İspanyol yosunu",
+    "tr_definition": "Ağaç gövdelerine ve dallarına tutunarak sarkan, grimsi yeşil renkli, saç teli benzeri lifli bir epifit bitki türü.",
+    "ru_word": "испанский мох",
+    "ru_definition": "Эпифитное растение семейства Бромелиевые, образующее свисающие с деревьев серо-зелёные бородовидные пряди.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İspanyol yosunu"
+                ],
+                "Azerbaijani": [
+                    "ispan mamırı"
+                ],
+                "Turkmen": [
+                    "ispaniýa mogy"
+                ],
+                "Uzbek": [
+                    "ispan moxi"
+                ],
+                "Uyghur": [
+                    "ئىسپانىيە كاھىشى",
+                    "ئىسپان مۇكى"
+                ],
+                "Kazakh": [
+                    "испан мүгі"
+                ],
+                "Tatar": [
+                    "испан мүге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağaç sakalı"
+                ],
+                "Azerbaijani": [
+                    "ağac mamırı"
+                ],
+                "Turkmen": [
+                    "agajyň sakgaly",
+                    "agajyň saçy"
+                ],
+                "Kazakh": [
+                    "ағаш сақалы"
+                ],
+                "Karakalpak": [
+                    "aǵash múgi"
+                ],
+                "Tatar": [
+                    "агач сакалы"
+                ],
+                "Bashkir": [
+                    "ағас мүге",
+                    "ағас һаҡалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sakallı yosun"
+                ],
+                "Azerbaijani": [
+                    "saqqallı mamır"
+                ],
+                "Kazakh": [
+                    "сақалды мүк"
+                ],
+                "Kyrgyz": [
+                    "сакал сымал мамык"
+                ],
+                "Karakalpak": [
+                    "saqal sımaq múk",
+                    "saqallı múk"
+                ],
+                "Tatar": [
+                    "сакаллы мүк"
+                ],
+                "Bashkir": [
+                    "саҡаллы мүк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "daraxt soqoli"
+                ],
+                "Uyghur": [
+                    "دەرەخ ساقىلى"
+                ],
+                "Kyrgyz": [
+                    "дарак мамыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "osilib turuvchi mox"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тилленсия"
+                ]
+            }
+        }
+    ]
+}
+```
+

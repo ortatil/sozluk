@@ -1,0 +1,76 @@
+{
+    "id": "i53718",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "finger-painting",
+    "en_definition": "a painting produced by spreading paint with the fingers",
+    "tr_word": "parmak boyama",
+    "tr_definition": "boyanın parmaklarla sürülmesiyle yapılan resim",
+    "ru_word": "рисование пальцами",
+    "ru_definition": "картина, созданная путем нанесения краски пальцами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "parmak boyama",
+                    "parmak boyası"
+                ],
+                "Azerbaijani": [
+                    "barmaq boyası",
+                    "barmaq rəsmi"
+                ],
+                "Turkmen": [
+                    "barmak suraty",
+                    "barmak bilen çekilen surat"
+                ],
+                "Uzbek": [
+                    "barmoq rangtasviri",
+                    "barmoq bilan chizish",
+                    "barmoq bo'yog'i"
+                ],
+                "Uyghur": [
+                    "بارماق رەسىمى",
+                    "بارماق بويىقى"
+                ],
+                "Tatar": [
+                    "бармак белән ясалган рәсем",
+                    "бармак рәсеме"
+                ],
+                "Bashkir": [
+                    "бармаҡ менән төшөрөү",
+                    "бармаҡ менән һүрәт яһау",
+                    "бармаҡ һүрәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саусақпен сурет салу",
+                    "саусақ кескіндемесі"
+                ],
+                "Karakalpak": [
+                    "sausaq penen boyau",
+                    "sausaq penen súoret salıo",
+                    "sausaq súoreti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əl rəsmi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "манжа менен сүрөт тартуу",
+                    "манжа боёгу"
+                ]
+            }
+        }
+    ]
+}

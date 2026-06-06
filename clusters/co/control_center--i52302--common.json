@@ -1,0 +1,121 @@
+{
+    "id": "i52302",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "control center",
+    "en_definition": "the operational center for a group of related activities",
+    "tr_word": "kontrol merkezi",
+    "tr_definition": "ilgili faaliyetler grubunun yürütüldüğü operasyonel merkez",
+    "ru_word": "центр управления",
+    "ru_definition": "оперативный центр для группы связанных видов деятельности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "baş dolandyryş merkezi"
+                ],
+                "Uzbek": [
+                    "boshqaruv markazi"
+                ],
+                "Uyghur": [
+                    "باشقۇرۇش مەركىزى"
+                ],
+                "Kazakh": [
+                    "басқару орталығы",
+                    "басқару торабы",
+                    "басқару мекені"
+                ],
+                "Kyrgyz": [
+                    "башкаруу борбору",
+                    "башкаруу түйүнү",
+                    "башкаруу жайы"
+                ],
+                "Karakalpak": [
+                    "basqarıo orayı",
+                    "basqarıo mákemesi",
+                    "basqarıo ornı"
+                ],
+                "Tatar": [
+                    "башкару үзәге"
+                ],
+                "Bashkir": [
+                    "башҡарыу үҙәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "idarəetmə mərkəzi",
+                    "nəzarət mərkəzi",
+                    "idarə mərkəzi"
+                ],
+                "Uzbek": [
+                    "nazorat markazi",
+                    "idora markazi"
+                ],
+                "Tatar": [
+                    "идарә үзәге"
+                ],
+                "Bashkir": [
+                    "идара итеү үҙәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kumanda merkezi"
+                ],
+                "Turkmen": [
+                    "dolandyryş merkezi",
+                    "merkezi dolandyryş"
+                ],
+                "Uyghur": [
+                    "قوماندانلىق مەركىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kontrol merkezi"
+                ],
+                "Uyghur": [
+                    "كونترول مەركىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yönetim merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "harekat merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күзәтү үзәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көйләү үҙәге"
+                ]
+            }
+        }
+    ]
+}

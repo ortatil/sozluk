@@ -1,0 +1,142 @@
+# Brine shrimp
+| Field | Detail |
+|---|---|
+| **ID** | i45849 |
+| **English** | brine shrimp |
+| **Type** | noun |
+| **Definition** | common to saline lakes |
+| **Source** | common |
+| **Ortatil** | artemiya |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **artemiya** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئارتېمىيە | artemiyä |
+| **Kazakh** | |
+| артемия | artemiya |
+| **Kyrgyz** | |
+| артемия | artemiya |
+| **Tatar** | |
+| артемия | artemiya |
+| **Bashkir** | |
+| артемия | artemiya |
+
+```json
+{
+    "id": "i45849",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brine shrimp",
+    "en_definition": "common to saline lakes",
+    "tr_word": "artemia",
+    "tr_definition": "tuzlu göllerde yaygın olarak bulunan küçük bir eklem bacaklı",
+    "ru_word": "артемия",
+    "ru_definition": "небольшой рачок, обитающий в соленых озерах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "artemia"
+                ],
+                "Azerbaijani": [
+                    "artemiya"
+                ],
+                "Turkmen": [
+                    "artemiýa"
+                ],
+                "Uzbek": [
+                    "artemiya"
+                ],
+                "Uyghur": [
+                    "ئارتېمىيە"
+                ],
+                "Kazakh": [
+                    "артемия"
+                ],
+                "Kyrgyz": [
+                    "артемия"
+                ],
+                "Karakalpak": [
+                    "artemiya"
+                ],
+                "Tatar": [
+                    "артемия"
+                ],
+                "Bashkir": [
+                    "артемия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tuzlu su karidesi",
+                    "tuz karidesi"
+                ],
+                "Azerbaijani": [
+                    "duzlu göl xərçəngi"
+                ],
+                "Uyghur": [
+                    "تۇزلۇق سۇ راكى"
+                ],
+                "Kazakh": [
+                    "тұзды су шаяны"
+                ],
+                "Kyrgyz": [
+                    "туздуу суу рагы"
+                ],
+                "Tatar": [
+                    "тозлы су кысласы"
+                ],
+                "Bashkir": [
+                    "тоҙло һыу ҡыҫалаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şorluk leňňeji"
+                ],
+                "Uzbek": [
+                    "sho'r suv qisqichbaqasi"
+                ],
+                "Uyghur": [
+                    "شورلۇق كۆل راكى"
+                ],
+                "Kyrgyz": [
+                    "шор суу рагы"
+                ],
+                "Karakalpak": [
+                    "shortan shayan"
+                ]
+            }
+        }
+    ]
+}
+```
+

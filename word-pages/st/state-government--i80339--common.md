@@ -1,0 +1,136 @@
+# State government
+| Field | Detail |
+|---|---|
+| **ID** | i80339 |
+| **English** | state government |
+| **Type** | noun |
+| **Definition** | the government of a state in the United States |
+| **Source** | common |
+| **Ortatil** | hökümät |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| хөкүмәт | xökümät |
+| идарә | idarä |
+| **Bashkir** | |
+| хөкүмәт | xökümät |
+| идаралыҡ | idaralıq |
+
+```json
+{
+    "id": "i80339",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "state government",
+    "en_definition": "the government of a state in the United States",
+    "tr_word": "eyalet hükümeti",
+    "tr_definition": "Amerika Birleşik Devletleri'ndeki bir eyaletin yönetiminden sorumlu olan hükümet.",
+    "ru_word": "правительство штата",
+    "ru_definition": "орган исполнительной власти отдельного штата в США.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ştat hökuməti",
+                    "ştat idarəçiliyi"
+                ],
+                "Turkmen": [
+                    "ştat hökümeti",
+                    "ştat dolandyryşy"
+                ],
+                "Uzbek": [
+                    "shtat hukumati",
+                    "shtat ma'muriyati",
+                    "shtat boshqaruvi"
+                ],
+                "Uyghur": [
+                    "ئىشتات ھۆكۈمىتى"
+                ],
+                "Kazakh": [
+                    "штат үкіметі",
+                    "штат билігі",
+                    "штат әкімшілігі"
+                ],
+                "Kyrgyz": [
+                    "штаттын өкмөтү"
+                ],
+                "Karakalpak": [
+                    "shtat húkimeti"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eyalet hükümeti",
+                    "eyalet yönetimi",
+                    "eyalet idaresi"
+                ],
+                "Azerbaijani": [
+                    "əyalət hökuməti"
+                ],
+                "Tatar": [
+                    "дәүләт идарәсе"
+                ],
+                "Bashkir": [
+                    "дәүләт идараһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мамлекеттик өкмөт",
+                    "мамлекеттик башкаруу"
+                ],
+                "Karakalpak": [
+                    "mámleketlik húkimet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хөкүмәт"
+                ],
+                "Bashkir": [
+                    "хөкүмәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "идарә"
+                ],
+                "Bashkir": [
+                    "идаралыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىشتاتلىق ھۆكۈمەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "basqarıu uyımı"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,154 @@
+{
+    "id": "i40381",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "quest",
+    "en_definition": "the act of searching for something",
+    "tr_word": "arama",
+    "tr_definition": "bir şeyi bulmaya çalışma eylemi",
+    "ru_word": "поиск",
+    "ru_definition": "действие по поиску чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "istek"
+                ],
+                "Azerbaijani": [
+                    "istək"
+                ],
+                "Uzbek": [
+                    "izlash",
+                    "istash"
+                ],
+                "Uyghur": [
+                    "ئىزدەنمە"
+                ],
+                "Kazakh": [
+                    "ізденіс",
+                    "іздестіру"
+                ],
+                "Kyrgyz": [
+                    "издөө",
+                    "изденүү"
+                ],
+                "Karakalpak": [
+                    "іzdeu",
+                    "іzdenіs",
+                    "іzdestіru"
+                ],
+                "Tatar": [
+                    "эзләнү",
+                    "эзләү"
+                ],
+                "Bashkir": [
+                    "эҙләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "talep"
+                ],
+                "Azerbaijani": [
+                    "tələb"
+                ],
+                "Turkmen": [
+                    "talap"
+                ],
+                "Uzbek": [
+                    "talab"
+                ],
+                "Uyghur": [
+                    "تەلەپ"
+                ],
+                "Kazakh": [
+                    "талап"
+                ],
+                "Kyrgyz": [
+                    "талап",
+                    "тилек"
+                ],
+                "Karakalpak": [
+                    "talap"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arama",
+                    "araştırma"
+                ],
+                "Azerbaijani": [
+                    "arama"
+                ],
+                "Bashkir": [
+                    "ҡарау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "axtarış"
+                ],
+                "Turkmen": [
+                    "agtaryş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىزدەش"
+                ],
+                "Kazakh": [
+                    "іздеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "табу"
+                ],
+                "Bashkir": [
+                    "тәфтиш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gözleg"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qidirish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "justuju"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەتقىق"
+                ]
+            }
+        }
+    ]
+}

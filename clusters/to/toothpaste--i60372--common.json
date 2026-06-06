@@ -1,0 +1,63 @@
+{
+    "id": "i60372",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "toothpaste",
+    "en_definition": "a dentifrice in the form of a paste",
+    "tr_word": "diş macunu",
+    "tr_definition": "dişleri temizlemek için kullanılan macun kıvamındaki madde",
+    "ru_word": "зубная паста",
+    "ru_definition": "средство для чистки зубов в виде мягкой массы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diş macunu"
+                ],
+                "Azerbaijani": [
+                    "diş məcunu",
+                    "diş pastası"
+                ],
+                "Turkmen": [
+                    "diş pastasy"
+                ],
+                "Uzbek": [
+                    "tish pastasi",
+                    "tish malhami"
+                ],
+                "Uyghur": [
+                    "چىش پاستىسى",
+                    "چىش دورىسى"
+                ],
+                "Kazakh": [
+                    "тіс пастасы",
+                    "тіс жақпасы"
+                ],
+                "Kyrgyz": [
+                    "тиш пастасы",
+                    "тиш жуугуч"
+                ],
+                "Karakalpak": [
+                    "tis pastası",
+                    "tis juǵısh"
+                ],
+                "Tatar": [
+                    "теш пастасы",
+                    "теш мәҗүне"
+                ],
+                "Bashkir": [
+                    "теш пастаһы",
+                    "теш таҙартҡыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "diş melhemi"
+                ]
+            }
+        }
+    ]
+}

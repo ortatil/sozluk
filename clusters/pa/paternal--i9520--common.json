@@ -1,0 +1,87 @@
+{
+    "id": "i9520",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "paternal",
+    "en_definition": "characteristic of a father",
+    "tr_word": "babacan",
+    "tr_definition": "babaya özgü, baba gibi davranan",
+    "ru_word": "отцовский",
+    "ru_definition": "свойственный отцу, характерный для отца",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ata",
+                    "atavari",
+                    "ataya məxsus",
+                    "atadan qalma"
+                ],
+                "Turkmen": [
+                    "ata",
+                    "atalyk",
+                    "atadan galan"
+                ],
+                "Uzbek": [
+                    "otaga xos",
+                    "otaviy"
+                ],
+                "Uyghur": [
+                    "ئاتىلارچە",
+                    "ئاتىدارچىلىق",
+                    "ئاتا تەرەپ"
+                ],
+                "Kazakh": [
+                    "аталық"
+                ],
+                "Kyrgyz": [
+                    "аталык",
+                    "атага таандык",
+                    "ата тараптан"
+                ],
+                "Karakalpak": [
+                    "atalıq"
+                ],
+                "Tatar": [
+                    "аталарча",
+                    "ата",
+                    "ата-баба"
+                ],
+                "Bashkir": [
+                    "аталарса",
+                    "атайҙарса",
+                    "аталыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pederane"
+                ],
+                "Uzbek": [
+                    "padarona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әкелік"
+                ],
+                "Karakalpak": [
+                    "ákelik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "babacan",
+                    "babaya ait"
+                ]
+            }
+        }
+    ]
+}

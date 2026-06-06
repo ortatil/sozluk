@@ -1,0 +1,102 @@
+{
+    "id": "i75468",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "caw",
+    "en_definition": "the sound made by corvine birds",
+    "tr_word": "gaklama",
+    "tr_definition": "karga ve benzeri kuşların çıkardığı sert ve boğuk ses",
+    "ru_word": "карканье",
+    "ru_definition": "характерный прерывистый и резкий звук, издаваемый вороной или другими подобными птицами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karga sesi"
+                ],
+                "Azerbaijani": [
+                    "qarıltı",
+                    "qarıldama"
+                ],
+                "Turkmen": [
+                    "gar-gar"
+                ],
+                "Kazakh": [
+                    "қарқ",
+                    "қарқыл"
+                ],
+                "Kyrgyz": [
+                    "каар",
+                    "карк"
+                ],
+                "Karakalpak": [
+                    "qarq",
+                    "qarqıl",
+                    "qarqıldaǵan dauıs"
+                ],
+                "Tatar": [
+                    "каркылдау",
+                    "карк"
+                ],
+                "Bashkir": [
+                    "ҡарҡылдау",
+                    "ҡарҡылдаш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gak",
+                    "gaklama"
+                ],
+                "Turkmen": [
+                    "gagyldy"
+                ],
+                "Uzbek": [
+                    "qag'illash",
+                    "qag'-qag'",
+                    "qag'illash ovozi"
+                ],
+                "Uyghur": [
+                    "قاغ-قۇغ",
+                    "قاغلاش",
+                    "قاغ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тавыш"
+                ],
+                "Bashkir": [
+                    "тауыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ses"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шаңқыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каңк"
+                ]
+            }
+        }
+    ]
+}

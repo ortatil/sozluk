@@ -1,0 +1,270 @@
+# Fluctuation
+| Field | Detail |
+|---|---|
+| **ID** | i75251 |
+| **English** | fluctuation |
+| **Type** | noun |
+| **Definition** | an instance of change; the rate or magnitude of change |
+| **Source** | common |
+| **Ortatil** | dolqunlanma |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **dolqunlanma** | **özgäriş** | **tärädditiş** | **ḍäğişim** | **oynak** | **qubulmaq** | **auıtğuw** | **almaşınuw** |
+|---|---|---|---|---|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| Uzbek | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| Kyrgyz | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| Tatar | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Bashkir | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 0 | 0.33 | 0.67 | 1 | 0 | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 1 | 0 | 0.50 | 0 | 0 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 1 | 0.40 | 0 | 0 | 0.60 | 0.60 | 0.60 |
+| *In All* | ✅ |  |  |  |  |  |  |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ |  |  |  |  |  |
+| **O'TQ** | **2.03** | **2** | **1.23** | **1.17** | **1** | **0.60** | **0.60** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئۆزگىرىش | özgiriş |
+| تەۋرىنىش | tävriniş |
+| دولقۇنلىنىش | dolqunliniş |
+| تۇراقسىزلىق | turaqsizliq |
+| **Kazakh** | |
+| өзгеру | özgeru |
+| толқу | tolqu |
+| құбылу | qubılu |
+| ауытқу | auıtqu |
+| **Kyrgyz** | |
+| өзгөрүү | özgörüü |
+| кубулуу | kubuluu |
+| алмашуу | almaşuu |
+| олку-солкулук | olku-solkuluk |
+| **Tatar** | |
+| үзгәреш | üzgäreş |
+| алмашыну | almaşınu |
+| тибрәнеш | tibräneş |
+| төшү-күтәрелү | töşü-kütärelü |
+| **Bashkir** | |
+| үҙгәреүсәнлек | üzgäreüsänlek |
+| тирбәлеү | tirbäleü |
+| ауыш-төш | auış-töş |
+| алмашыныу | almaşınıu |
+
+```json
+{
+    "id": "i75251",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fluctuation",
+    "en_definition": "an instance of change; the rate or magnitude of change",
+    "tr_word": "dalgalanma",
+    "tr_definition": "bir şeyin miktarında, değerinde veya seviyesinde meydana gelen düzensiz değişme veya inip çıkma durumu.",
+    "ru_word": "колебание",
+    "ru_definition": "непостоянство, изменение в ту или иную сторону, часто повторяющееся движение или отклонение.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻzgarish"
+                ],
+                "Uyghur": [
+                    "ئۆزگىرىش"
+                ],
+                "Kazakh": [
+                    "өзгеру"
+                ],
+                "Kyrgyz": [
+                    "өзгөрүү"
+                ],
+                "Karakalpak": [
+                    "ózgeris"
+                ],
+                "Tatar": [
+                    "үзгәреш"
+                ],
+                "Bashkir": [
+                    "үҙгәреүсәнлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "değişim"
+                ],
+                "Azerbaijani": [
+                    "dəyişkənlik"
+                ],
+                "Uyghur": [
+                    "تەۋرىنىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oynaklık"
+                ],
+                "Azerbaijani": [
+                    "oynama"
+                ],
+                "Turkmen": [
+                    "üýtgeşme",
+                    "üýtgäp durma"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tərəddüd"
+                ],
+                "Karakalpak": [
+                    "terbelis"
+                ],
+                "Bashkir": [
+                    "тирбәлеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tolkunlanma"
+                ],
+                "Uyghur": [
+                    "دولقۇنلىنىش"
+                ],
+                "Kazakh": [
+                    "толқу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "құбылу"
+                ],
+                "Kyrgyz": [
+                    "кубулуу"
+                ],
+                "Karakalpak": [
+                    "qұbılıs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ауытқу"
+                ],
+                "Karakalpak": [
+                    "auıtqu"
+                ],
+                "Bashkir": [
+                    "ауыш-төш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "алмашуу"
+                ],
+                "Tatar": [
+                    "алмашыну"
+                ],
+                "Bashkir": [
+                    "алмашыныу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dalgalanma"
+                ],
+                "Azerbaijani": [
+                    "dalğalanma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tebranish",
+                    "tovlanish"
+                ],
+                "Tatar": [
+                    "тибрәнеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kararsızlık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iniş çıkış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yrgyldy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "beqarorlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇراقسىزلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "олку-солкулук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төшү-күтәрелү"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,158 @@
+{
+    "id": "i88472",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "barrister",
+    "en_definition": "a British or Canadian lawyer who speaks in the higher courts of law on behalf of either the defense or prosecution",
+    "tr_word": "baro avukatı",
+    "tr_definition": "İngiltere ve Kanada gibi ülkelerde, üst mahkemelerde savunma veya iddia makamı adına söz alan uzman avukat.",
+    "ru_word": "барристер",
+    "ru_definition": "адвокат в Великобритании и некоторых других странах Содружества, имеющий право выступать в высших судах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vekil"
+                ],
+                "Azerbaijani": [
+                    "vəkil"
+                ],
+                "Turkmen": [
+                    "wekyl"
+                ],
+                "Uzbek": [
+                    "vakil"
+                ],
+                "Kazakh": [
+                    "уәкіл"
+                ],
+                "Tatar": [
+                    "вәкил"
+                ],
+                "Bashkir": [
+                    "вәкил"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "avukat"
+                ],
+                "Turkmen": [
+                    "aklawçy"
+                ],
+                "Uyghur": [
+                    "ئادۋوكات"
+                ],
+                "Kazakh": [
+                    "адвокат"
+                ],
+                "Karakalpak": [
+                    "adwokat"
+                ],
+                "Tatar": [
+                    "адвокат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hüquqşünas"
+                ],
+                "Uzbek": [
+                    "huquqshunos"
+                ],
+                "Uyghur": [
+                    "ھوقۇقشۇناس"
+                ],
+                "Karakalpak": [
+                    "huqıqtanıoshı"
+                ],
+                "Tatar": [
+                    "хокукчы"
+                ],
+                "Bashkir": [
+                    "хоҡуҡ белгесе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "жактоочу"
+                ],
+                "Karakalpak": [
+                    "jaqlaoshı"
+                ],
+                "Tatar": [
+                    "яклаучы"
+                ],
+                "Bashkir": [
+                    "яҡлаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müdafi"
+                ],
+                "Azerbaijani": [
+                    "müdafiəçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dava vekili"
+                ],
+                "Uyghur": [
+                    "دەۋاگەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "advokat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "himoyachi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қорғаушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "заңгер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өкүл",
+                    "укукчу"
+                ]
+            }
+        }
+    ]
+}

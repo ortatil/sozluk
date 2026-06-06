@@ -1,0 +1,126 @@
+# Deer trail
+| Field | Detail |
+|---|---|
+| **ID** | i52759 |
+| **English** | deer trail |
+| **Type** | noun |
+| **Definition** | a trail worn by the passage of deer |
+| **Source** | common |
+| **Ortatil** | patika |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i52759",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "deer trail",
+    "en_definition": "a trail worn by the passage of deer",
+    "tr_word": "geyik yolu",
+    "tr_definition": "geyiklerin geçişiyle oluşan patika",
+    "ru_word": "оленья тропа",
+    "ru_definition": "тропа, протоптанная оленями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geyik yolu",
+                    "geyik izi",
+                    "keçi yolu"
+                ],
+                "Turkmen": [
+                    "keýik ýoly",
+                    "keýik ýodasy"
+                ],
+                "Uzbek": [
+                    "kiyik yo'li",
+                    "kiyik so'qmog'i",
+                    "kiyik izi"
+                ],
+                "Uyghur": [
+                    "كىيىك يولى"
+                ],
+                "Kazakh": [
+                    "киік соқпағы"
+                ],
+                "Kyrgyz": [
+                    "кийик жолу",
+                    "кийик сокмогу",
+                    "кийик чыйыры"
+                ],
+                "Karakalpak": [
+                    "kiyik soqpaǵı",
+                    "kiyik jolı"
+                ],
+                "Tatar": [
+                    "киек сукмагы",
+                    "киек юлы"
+                ],
+                "Bashkir": [
+                    "кейек һуҡмағы",
+                    "кейек юлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بۆكەن يولى"
+                ],
+                "Tatar": [
+                    "болан сукмагы"
+                ],
+                "Bashkir": [
+                    "болан һуҡмағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maral cığırı",
+                    "maral yolu"
+                ],
+                "Turkmen": [
+                    "maral ýoly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "patika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "heyvan cığırı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جەرەن يولى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аң жолы",
+                    "аң соқпағы"
+                ]
+            }
+        }
+    ]
+}
+```
+

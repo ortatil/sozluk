@@ -1,0 +1,171 @@
+{
+    "id": "i32090",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "whoosh",
+    "en_definition": "move with a whooshing sound",
+    "tr_word": "vınlamak",
+    "tr_definition": "vınlama sesi çıkararak hızla hareket etmek",
+    "ru_word": "пронестись со свистом",
+    "ru_definition": "двигаться быстро с характерным свистящим звуком",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "syzgyrmak"
+                ],
+                "Kazakh": [
+                    "зымырау"
+                ],
+                "Karakalpak": [
+                    "sızıllau"
+                ],
+                "Tatar": [
+                    "сызгыру"
+                ],
+                "Bashkir": [
+                    "һыҙғырыу",
+                    "һыҙғырып осоу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uğuldamak"
+                ],
+                "Uyghur": [
+                    "غۇيۇلداپ ئۆتمەك",
+                    "شۇۋۇلداپ ماڭماق",
+                    "شۇۋۇلداپ ئۆتمەك"
+                ],
+                "Kyrgyz": [
+                    "шуулдоо",
+                    "зуулдоо"
+                ],
+                "Karakalpak": [
+                    "zuuıldau",
+                    "shuuldau"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "g'uvillamoq"
+                ],
+                "Uyghur": [
+                    "غۇيۇلداپ ماڭماق"
+                ],
+                "Kazakh": [
+                    "гуілдеу"
+                ],
+                "Karakalpak": [
+                    "guwilleu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vıyıldamaq",
+                    "vıyıldayıb keçmək",
+                    "fışıldamaq"
+                ],
+                "Uzbek": [
+                    "vizillamoq"
+                ],
+                "Tatar": [
+                    "выжылдау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vınlamak",
+                    "fırlamak"
+                ],
+                "Turkmen": [
+                    "hyzlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şuwlamak",
+                    "şuwlap geçmek"
+                ],
+                "Uzbek": [
+                    "shuvillamoq",
+                    "shuv etmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ысқыру"
+                ],
+                "Kyrgyz": [
+                    "ышкыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гөрләү"
+                ],
+                "Bashkir": [
+                    "гөрөлдәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шаулау"
+                ],
+                "Bashkir": [
+                    "шаулау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hızla geçmek",
+                    "hışırdamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şütümək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зулау",
+                    "суылдау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дуулдоо"
+                ]
+            }
+        }
+    ]
+}

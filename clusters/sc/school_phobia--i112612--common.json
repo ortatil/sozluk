@@ -1,0 +1,76 @@
+{
+    "id": "i112612",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "school phobia",
+    "en_definition": "a child's sudden fear of attending school",
+    "tr_word": "okul fobisi",
+    "tr_definition": "bir çocuğun okula gitmeye karşı duyduğu ani ve aşırı korku",
+    "ru_word": "школьная фобия",
+    "ru_definition": "внезапный страх ребенка перед посещением школы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mektep korkusu"
+                ],
+                "Azerbaijani": [
+                    "məktəb qorxusu",
+                    "məktəb xofu",
+                    "məktəb vahiməsi",
+                    "məktəb hürküsu"
+                ],
+                "Turkmen": [
+                    "mekdep gorkusy",
+                    "mekdepden gorkmak",
+                    "mekdep howsalasy"
+                ],
+                "Uzbek": [
+                    "maktab qo'rquvi",
+                    "maktab vahimasi",
+                    "maktabdan cho'chish"
+                ],
+                "Uyghur": [
+                    "مەكتەپ قورقۇنچىسى",
+                    "مەكتەپتىن قورقۇش",
+                    "مەكتەپ ۋەھىمىسى"
+                ],
+                "Kazakh": [
+                    "мектептен қорқу",
+                    "мектеп үрейі",
+                    "мектеп қорқынышы"
+                ],
+                "Kyrgyz": [
+                    "мектептен коркуу",
+                    "мектеп кооптонуусу",
+                    "мектептен чочулоо"
+                ],
+                "Karakalpak": [
+                    "mektepten qorqınısh",
+                    "mektep úreyi",
+                    "mektepten seskinio"
+                ],
+                "Tatar": [
+                    "мәктәп куркуы",
+                    "мәктәптән курку",
+                    "мәктәп вәсвәсәсе"
+                ],
+                "Bashkir": [
+                    "мәктәптән ҡурҡыу",
+                    "мәктәп хәүефе",
+                    "мәктәп үтене"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "okul korkusu",
+                    "okul fobisi",
+                    "okul kaygısı"
+                ]
+            }
+        }
+    ]
+}

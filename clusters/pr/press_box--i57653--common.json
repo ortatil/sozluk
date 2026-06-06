@@ -1,0 +1,123 @@
+{
+    "id": "i57653",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "press box",
+    "en_definition": "box reserved for reporters (as at a sports event)",
+    "tr_word": "basın tribünü",
+    "tr_definition": "Spor müsabakalarında veya etkinliklerde gazeteciler ve muhabirler için ayrılmış özel bölüm.",
+    "ru_word": "ложа прессы",
+    "ru_definition": "Специально отведенное место для журналистов и репортеров на спортивных или общественных мероприятиях.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "jurnalist lojası"
+                ],
+                "Turkmen": [
+                    "žurnalistler ýeri"
+                ],
+                "Uzbek": [
+                    "jurnalistlar minbari"
+                ],
+                "Kyrgyz": [
+                    "журналисттер орундугу"
+                ],
+                "Karakalpak": [
+                    "jurnalistler ornı"
+                ],
+                "Bashkir": [
+                    "журналистар урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mətbuat lojası",
+                    "mətbuat yeri"
+                ],
+                "Turkmen": [
+                    "metbugat bölümi"
+                ],
+                "Uzbek": [
+                    "matbuot lojasi"
+                ],
+                "Tatar": [
+                    "матбугат урыны",
+                    "матбугат ложасы"
+                ],
+                "Bashkir": [
+                    "матбуғат урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "habarçylar bölümi"
+                ],
+                "Kyrgyz": [
+                    "кабарчылар жайы"
+                ],
+                "Karakalpak": [
+                    "xabarshılar bólmesi"
+                ],
+                "Tatar": [
+                    "хәбәрчеләр бүлмәсе"
+                ],
+                "Bashkir": [
+                    "хәбәрселәр урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basın tribünü",
+                    "basın locası"
+                ],
+                "Kazakh": [
+                    "баспасөз орны",
+                    "баспасөз ложасы"
+                ],
+                "Kyrgyz": [
+                    "басма сөз орду"
+                ],
+                "Karakalpak": [
+                    "baspasóz ornı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muxbirlar joyi"
+                ],
+                "Uyghur": [
+                    "مۇخبىرلار ئورنى",
+                    "مۇخبىرلار مۇنبىرى",
+                    "مۇخبىرلار بۆلۈمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gazeteci yeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тілшілер орны"
+                ]
+            }
+        }
+    ]
+}

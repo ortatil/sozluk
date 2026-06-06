@@ -1,0 +1,132 @@
+{
+    "id": "i71284",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "correspondence",
+    "en_definition": "communication by the exchange of letters",
+    "tr_word": "yazışma",
+    "tr_definition": "mektup veya diğer yazılı araçlar yoluyla yapılan iletişim",
+    "ru_word": "переписка",
+    "ru_definition": "обмен письмами или другими письменными сообщениями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazışma"
+                ],
+                "Azerbaijani": [
+                    "yazışma"
+                ],
+                "Turkmen": [
+                    "yazyşma",
+                    "yazyşyk"
+                ],
+                "Uzbek": [
+                    "yozishma"
+                ],
+                "Kyrgyz": [
+                    "жазышуу"
+                ],
+                "Tatar": [
+                    "язышу"
+                ],
+                "Bashkir": [
+                    "яҙышыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hat-habar",
+                    "hatlaşma"
+                ],
+                "Uzbek": [
+                    "xat-xabar"
+                ],
+                "Uyghur": [
+                    "خەت-ئالاقە",
+                    "خەت-چەك"
+                ],
+                "Kazakh": [
+                    "хат-хабар",
+                    "хат алысу",
+                    "хат жазысу"
+                ],
+                "Karakalpak": [
+                    "xat-xabar",
+                    "xatlasıo",
+                    "xat alısıo"
+                ],
+                "Tatar": [
+                    "хатлашу"
+                ],
+                "Bashkir": [
+                    "хатлашыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhabere"
+                ],
+                "Azerbaijani": [
+                    "müxabirə"
+                ],
+                "Uyghur": [
+                    "مۇخبىرلىشىش"
+                ],
+                "Tatar": [
+                    "мөхәбәрә"
+                ],
+                "Bashkir": [
+                    "мөхәбәрә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mektuplaşma"
+                ],
+                "Azerbaijani": [
+                    "məktublaşma"
+                ],
+                "Uzbek": [
+                    "maktubot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aloqa"
+                ],
+                "Uyghur": [
+                    "ئالاقە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тілдесу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кат алышуу",
+                    "кат-кабар",
+                    "кат-чеки"
+                ]
+            }
+        }
+    ]
+}

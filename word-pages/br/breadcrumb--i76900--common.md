@@ -1,0 +1,168 @@
+# Breadcrumb
+| Field | Detail |
+|---|---|
+| **ID** | i76900 |
+| **English** | breadcrumb |
+| **Type** | noun |
+| **Definition** | crumb of bread; used especially for coating or thickening |
+| **Source** | common |
+| **Ortatil** | talqan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| үгінді | ügindi |
+| **Kyrgyz** | |
+| күкүм | küküm |
+| **Tatar** | |
+| валчык | valçık |
+| **Bashkir** | |
+| валсыҡ | valsıq |
+
+```json
+{
+    "id": "i76900",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "breadcrumb",
+    "en_definition": "crumb of bread; used especially for coating or thickening",
+    "tr_word": "ekmek kırıntısı",
+    "tr_definition": "özellikle kaplama veya kıvam artırma amacıyla kullanılan ufalanmış ekmek parçası",
+    "ru_word": "панировочные сухари",
+    "ru_definition": "крошки хлеба, используемые специально для панировки или загущения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nan owuntygy"
+                ],
+                "Uzbek": [
+                    "non uvoq",
+                    "non uvog'i"
+                ],
+                "Uyghur": [
+                    "نان ئۇۋىقى",
+                    "نان پارچىسى"
+                ],
+                "Kazakh": [
+                    "нан қиқымы",
+                    "нан үгіндісі"
+                ],
+                "Kyrgyz": [
+                    "нандын күкүмү"
+                ],
+                "Karakalpak": [
+                    "nan uoaǵı",
+                    "nannıń uoaǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekmek kırıntısı"
+                ],
+                "Tatar": [
+                    "икмәк валчыгы",
+                    "икмәк оны"
+                ],
+                "Bashkir": [
+                    "икмәк валсығы",
+                    "икмәк онтағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "galeta unu"
+                ],
+                "Uyghur": [
+                    "نان تالقىنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çörək qırıntısı",
+                    "çörək ovuntusu"
+                ],
+                "Turkmen": [
+                    "çörek owuntygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "нан күкүмү"
+                ],
+                "Karakalpak": [
+                    "nan kúlshesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "валчык"
+                ],
+                "Bashkir": [
+                    "валсыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ufalanmış ekmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "suxarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "owuntyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "talqon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үгінді"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күкүм"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,261 @@
+# Change posture
+| Field | Detail |
+|---|---|
+| **ID** | i31655 |
+| **English** | change posture |
+| **Type** | verb |
+| **Definition** | undergo a change in bodily posture |
+| **Source** | common |
+| **Ortatil** | qımıldamaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qımıldamaq** | **qozğalmaq** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ❌ | ✅ |
+| Bashkir | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0 |
+| *Qarluq Subtotal* | 0 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 1 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  |
+| **O'TQ** | **1.57** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қозғалу | qozğalu |
+| қимылдау | qimıldau |
+| бұрылу | burılu |
+| түзелу | tüzelu |
+| ауысу | auısu |
+| **Kyrgyz** | |
+| козголуу | kozgoluu |
+| кыймылдоо | kıymıldoo |
+| өзгөрүү | özgörüü |
+| оңдонуу | oñdonuu |
+| **Tatar** | |
+| хәрәкәтләнү | xäräkätlänü |
+| кузгалу | kuzgalu |
+| борылу | borılu |
+| үзгәрү | üzgärü |
+| **Bashkir** | |
+| ҡуҙғалыу | quzğalıu |
+
+```json
+{
+    "id": "i31655",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "change posture",
+    "en_definition": "undergo a change in bodily posture",
+    "tr_word": "duruşunu değiştirmek",
+    "tr_definition": "vücut duruşunda veya pozisyonunda bir değişiklik yapmak",
+    "ru_word": "сменить позу",
+    "ru_definition": "изменить положение тела или осанку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hareket etmek"
+                ],
+                "Azerbaijani": [
+                    "hərəkət etmək"
+                ],
+                "Turkmen": [
+                    "hereket etmek"
+                ],
+                "Karakalpak": [
+                    "háreket etio"
+                ],
+                "Tatar": [
+                    "хәрәкәтләнү"
+                ],
+                "Bashkir": [
+                    "хәрәкәт итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қозғалу"
+                ],
+                "Kyrgyz": [
+                    "козголуу"
+                ],
+                "Karakalpak": [
+                    "qozǵalıu",
+                    "qozǵalıs jasau"
+                ],
+                "Tatar": [
+                    "кузгалу"
+                ],
+                "Bashkir": [
+                    "ҡуҙғалыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıpırdamak"
+                ],
+                "Turkmen": [
+                    "gymyldamak"
+                ],
+                "Kazakh": [
+                    "қимылдау"
+                ],
+                "Kyrgyz": [
+                    "кыймылдоо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "duruşunu dəyişmək"
+                ],
+                "Turkmen": [
+                    "durşuny üýtgetmek"
+                ],
+                "Uzbek": [
+                    "turishini o'zgartirmoq"
+                ],
+                "Bashkir": [
+                    "торошто үҙгәртеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vaziyet değiştirmek"
+                ],
+                "Azerbaijani": [
+                    "vəziyyətini dəyişmək"
+                ],
+                "Uzbek": [
+                    "vaziyatini o'zgartirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "galybyny üýtgetmek"
+                ],
+                "Uyghur": [
+                    "قىياپەت ئۆزگەرتمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұрылу"
+                ],
+                "Tatar": [
+                    "борылу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өзгөрүү"
+                ],
+                "Tatar": [
+                    "үзгәрү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yer değiştirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğrulmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərpənmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "holatini o'zgartirmoq",
+                    "qomatini o'zgartirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھالەت ئۆزگەرتمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇتۇم ئۆزگەرتمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түзелу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ауысу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оңдонуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "túr-túsin ózgertio"
+                ]
+            }
+        }
+    ]
+}
+```
+

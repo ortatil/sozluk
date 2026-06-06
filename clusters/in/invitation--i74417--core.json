@@ -1,0 +1,125 @@
+{
+    "id": "i74417",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "invitation",
+    "en_definition": "a request (spoken or written) to participate or be present or take part in something",
+    "tr_word": "davet",
+    "tr_definition": "Birini bir yere çağırma, çağırtma veya bir etkinliğe katılmasını isteme.",
+    "ru_word": "приглашение",
+    "ru_definition": "Просьба или предложение явиться куда-либо или принять участие в чём-либо.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çağrı"
+                ],
+                "Azerbaijani": [
+                    "çağırış"
+                ],
+                "Turkmen": [
+                    "çakylyk",
+                    "çagyryş"
+                ],
+                "Uzbek": [
+                    "chorlov"
+                ],
+                "Uyghur": [
+                    "چاقىرىق"
+                ],
+                "Kazakh": [
+                    "шақыру"
+                ],
+                "Kyrgyz": [
+                    "чакыруу",
+                    "чакырык"
+                ],
+                "Karakalpak": [
+                    "shaqırıo"
+                ],
+                "Tatar": [
+                    "чакыру"
+                ],
+                "Bashkir": [
+                    "саҡырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "davet"
+                ],
+                "Azerbaijani": [
+                    "dəvət"
+                ],
+                "Turkmen": [
+                    "dawet"
+                ],
+                "Kyrgyz": [
+                    "даават"
+                ],
+                "Tatar": [
+                    "дәгъвәт"
+                ],
+                "Bashkir": [
+                    "дәғүәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "taklif"
+                ],
+                "Uyghur": [
+                    "تەكلىپ"
+                ],
+                "Karakalpak": [
+                    "tákliپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taklifnoma"
+                ],
+                "Uyghur": [
+                    "تەكلىپنامە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шақырунама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шақыру қағазы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "okuntu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mirát"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "id": "i69377",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "paper",
+    "en_definition": "a medium for written communication",
+    "tr_word": "kağıt",
+    "tr_definition": "yazılı iletişim için kullanılan bir araç",
+    "ru_word": "бумага",
+    "ru_definition": "материал для письма и печати",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kağıt"
+                ],
+                "Azerbaijani": [
+                    "kağız"
+                ],
+                "Turkmen": [
+                    "kagyz"
+                ],
+                "Uzbek": [
+                    "qog'oz"
+                ],
+                "Uyghur": [
+                    "قەغەز"
+                ],
+                "Kazakh": [
+                    "қағаз"
+                ],
+                "Kyrgyz": [
+                    "кагаз"
+                ],
+                "Karakalpak": [
+                    "qaǵaz"
+                ],
+                "Tatar": [
+                    "кәгазь"
+                ],
+                "Bashkir": [
+                    "ҡағыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vark"
+                ],
+                "Azerbaijani": [
+                    "vərəq"
+                ],
+                "Turkmen": [
+                    "warak"
+                ],
+                "Uzbek": [
+                    "varaqa"
+                ],
+                "Uyghur": [
+                    "ۋەرەق"
+                ],
+                "Kazakh": [
+                    "парақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sayfa"
+                ],
+                "Uzbek": [
+                    "sahifa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бит"
+                ],
+                "Bashkir": [
+                    "биттәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәптер"
+                ]
+            }
+        }
+    ]
+}

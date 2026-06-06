@@ -1,0 +1,99 @@
+{
+    "id": "i112228",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "backache",
+    "en_definition": "an ache localized in the back",
+    "tr_word": "bel ağrısı",
+    "tr_definition": "sırt veya bel bölgesinde hissedilen ağrı",
+    "ru_word": "боль в спине",
+    "ru_definition": "неприятное ощущение или боль, локализованная в области спины",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bel ağrısı"
+                ],
+                "Azerbaijani": [
+                    "bel ağrısı",
+                    "bel sızısı"
+                ],
+                "Turkmen": [
+                    "bil agyrysy"
+                ],
+                "Uzbek": [
+                    "bel ogʻrigʻi",
+                    "bel dardi"
+                ],
+                "Uyghur": [
+                    "بەل ئاغرىقى"
+                ],
+                "Kazakh": [
+                    "бел ауруы",
+                    "бел сыздауы"
+                ],
+                "Kyrgyz": [
+                    "бел оору"
+                ],
+                "Karakalpak": [
+                    "bel aoırıoı",
+                    "bel sırqıraoı"
+                ],
+                "Tatar": [
+                    "бил авырту",
+                    "бил сызлау"
+                ],
+                "Bashkir": [
+                    "бил һыҙлауы",
+                    "бил ауыртыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "arka agyrysy"
+                ],
+                "Uzbek": [
+                    "orqa ogʻrigʻi"
+                ],
+                "Uyghur": [
+                    "ئارقا ئاغرىقى"
+                ],
+                "Kazakh": [
+                    "арқа ауруы"
+                ],
+                "Kyrgyz": [
+                    "арка оору"
+                ],
+                "Karakalpak": [
+                    "arqa aoırıoı"
+                ],
+                "Tatar": [
+                    "арка авырту",
+                    "арка сызлау"
+                ],
+                "Bashkir": [
+                    "арҡа һыҙлауы",
+                    "арҡа ауыртыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sırt ağrısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kürək ağrısı"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+# Albert
+| Field | Detail |
+|---|---|
+| **ID** | i94265 |
+| **English** | albert |
+| **Type** | noun |
+| **Definition** | prince consort of Queen Victoria of England (1819-1861) |
+| **Source** | common |
+| **Ortatil** | albert |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **albert** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئالبېرت | albert |
+| **Kazakh** | |
+| Альберт | albert |
+| **Kyrgyz** | |
+| Альберт | albert |
+| ханзада | xanzada |
+| **Tatar** | |
+| Альберт | albert |
+| **Bashkir** | |
+| Альберт | albert |
+
+```json
+{
+    "id": "i94265",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "albert",
+    "en_definition": "prince consort of Queen Victoria of England (1819-1861)",
+    "tr_word": "Prens Albert",
+    "tr_definition": "İngiltere Kraliçesi Victoria'nın eşi olan prens (1819-1861)",
+    "ru_word": "Альберт",
+    "ru_definition": "принц-консорт Великобритании, муж королевы Виктории (1819-1861)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Albert"
+                ],
+                "Turkmen": [
+                    "Albert"
+                ],
+                "Uzbek": [
+                    "Albert"
+                ],
+                "Uyghur": [
+                    "ئالبېرت شاھزادە",
+                    "ئالبېرت"
+                ],
+                "Kazakh": [
+                    "Альберт",
+                    "Альберт ханзада"
+                ],
+                "Kyrgyz": [
+                    "Альберт"
+                ],
+                "Karakalpak": [
+                    "Albert"
+                ],
+                "Tatar": [
+                    "Альберт"
+                ],
+                "Bashkir": [
+                    "Альберт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şahzadə Albert"
+                ],
+                "Turkmen": [
+                    "Şazada Albert"
+                ],
+                "Uzbek": [
+                    "Shahzoda Albert"
+                ],
+                "Kyrgyz": [
+                    "ханзада"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Prens Albert"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Konsort Prens"
+                ]
+            }
+        }
+    ]
+}
+```
+

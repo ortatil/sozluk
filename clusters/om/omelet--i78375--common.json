@@ -1,0 +1,115 @@
+{
+    "id": "i78375",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "omelet",
+    "en_definition": "beaten eggs or an egg mixture cooked until just set; may be folded around e.g. ham or cheese or jelly",
+    "tr_word": "omlet",
+    "tr_definition": "Çırpılmış yumurtaların tavada pişirilmesiyle yapılan, içine peynir, sebze veya et gibi malzemeler eklenebilen yemek.",
+    "ru_word": "омлет",
+    "ru_definition": "Блюдо из взбитых яиц, приготовленное на сковороде, часто с добавлением молока, овощей или сыра.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "guýmak"
+                ],
+                "Uzbek": [
+                    "quymoq"
+                ],
+                "Uyghur": [
+                    "قۇيماق"
+                ],
+                "Kazakh": [
+                    "құймақ"
+                ],
+                "Karakalpak": [
+                    "quymaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жұмыртқа құймағы"
+                ],
+                "Kyrgyz": [
+                    "жумуртка куймак"
+                ],
+                "Karakalpak": [
+                    "jұmırtqa quymaq"
+                ],
+                "Tatar": [
+                    "йомырка тәбәсе"
+                ],
+                "Bashkir": [
+                    "йомортҡа ашы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaygana"
+                ],
+                "Azerbaijani": [
+                    "qayğanaq"
+                ],
+                "Turkmen": [
+                    "heýgenek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kükü"
+                ],
+                "Kyrgyz": [
+                    "куймак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuxum-quymoq"
+                ],
+                "Uyghur": [
+                    "تۇخۇم قۇيمىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "omlet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күмәч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәбә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡаҙан йомортҡаһы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "id": "i11875",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "signed",
+    "en_definition": "having a handwritten signature",
+    "tr_word": "imzalı",
+    "tr_definition": "üzerinde el yazısı ile atılmış bir imza bulunan",
+    "ru_word": "подписанный",
+    "ru_definition": "имеющий собственноручную подпись",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "imzalı"
+                ],
+                "Azerbaijani": [
+                    "imzalı",
+                    "imzalanmış"
+                ],
+                "Turkmen": [
+                    "imzalanan"
+                ],
+                "Uzbek": [
+                    "imzolangan"
+                ],
+                "Uyghur": [
+                    "ئىمزالانغان"
+                ],
+                "Tatar": [
+                    "имзаланган"
+                ],
+                "Bashkir": [
+                    "имзаланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mühürlü"
+                ],
+                "Azerbaijani": [
+                    "möhürlü"
+                ],
+                "Uzbek": [
+                    "muhrlangan"
+                ],
+                "Kazakh": [
+                    "мөрленген"
+                ],
+                "Karakalpak": [
+                    "mórlengen"
+                ],
+                "Tatar": [
+                    "мөһерләнгән"
+                ],
+                "Bashkir": [
+                    "мөһөрләнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gol çekilen",
+                    "gol goýlan"
+                ],
+                "Uyghur": [
+                    "قول قويۇلغان"
+                ],
+                "Kazakh": [
+                    "қол қойылған",
+                    "қолтаңбалы"
+                ],
+                "Kyrgyz": [
+                    "кол коюлган"
+                ],
+                "Karakalpak": [
+                    "qol qoyılǵan"
+                ],
+                "Tatar": [
+                    "кул куелган"
+                ],
+                "Bashkir": [
+                    "ҡул ҡуйылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tasdiqlangan"
+                ],
+                "Kyrgyz": [
+                    "тастыкталган"
+                ],
+                "Karakalpak": [
+                    "tastıyıqlanǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мөөр басылган"
+                ]
+            }
+        }
+    ]
+}

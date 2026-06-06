@@ -1,0 +1,72 @@
+{
+    "id": "i92114",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "political prisoner",
+    "en_definition": "someone who is imprisoned because of their political views",
+    "tr_word": "siyasi mahkum",
+    "tr_definition": "siyasi görüşleri nedeniyle hapsedilen kimse",
+    "ru_word": "политзаключённый",
+    "ru_definition": "человек, находящийся в тюрьме из-за своих политических взглядов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "siyasi mahkum",
+                    "siyasi tutuklu"
+                ],
+                "Azerbaijani": [
+                    "siyasi məhbus",
+                    "siyasi dustaq"
+                ],
+                "Turkmen": [
+                    "syýasy tussag",
+                    "syýasy bendiler",
+                    "syýasy mahbus"
+                ],
+                "Uzbek": [
+                    "siyosiy mahbus",
+                    "siyosiy mahkum",
+                    "siyosiy asir"
+                ],
+                "Uyghur": [
+                    "سىياسىي مەھبۇس",
+                    "سىياسىي تۇتقۇن"
+                ],
+                "Kazakh": [
+                    "саяси тұтқын",
+                    "саяси қамаудағы адам",
+                    "саяси айыпты"
+                ],
+                "Kyrgyz": [
+                    "саясий туткун",
+                    "саясий камактагы",
+                    "саясий камалуучу"
+                ],
+                "Karakalpak": [
+                    "siyasiy tutqın",
+                    "siyasiy qamaqtaǵı adam"
+                ],
+                "Tatar": [
+                    "сәяси тоткын",
+                    "сәясәт тоткыны"
+                ],
+                "Bashkir": [
+                    "сәйәси тотҡон",
+                    "сәйәси мәхбүс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fikir suçlusu"
+                ],
+                "Tatar": [
+                    "фикер тоткыны"
+                ]
+            }
+        }
+    ]
+}

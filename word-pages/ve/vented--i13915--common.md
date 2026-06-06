@@ -1,0 +1,203 @@
+# Vented
+| Field | Detail |
+|---|---|
+| **ID** | i13915 |
+| **English** | vented |
+| **Type** | adjective |
+| **Definition** | supplied with a vent or vents for intake of air or discharge of gases |
+| **Source** | common |
+| **Ortatil** | hawalandır, açıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **hawalandır** | **açıq** | **teşik** | **celdetilgän** |
+|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ | ❌ |
+| Kazakh | ❌ | ✅ | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ | ✅ | ✅ |
+| Karakalpak | ❌ | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ✅ | ❌ | ✅ |
+| Bashkir | ✅ | ✅ | ❌ | ✅ |
+| *Oghuz Subtotal* | 1 | 0.33 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 1 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 1 | 0.40 | 1 |
+| *In All* | ✅ | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |
+| **O'TQ** | **3.40** | **2.83** | **1.40** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ھاۋادانلىق | havadanliq |
+| تۆشۈكلۈك | töşüklük |
+| **Kazakh** | |
+| ашық | aşıq |
+| желдетілген | jeldetilgen |
+| ауаланған | aualanğan |
+| **Kyrgyz** | |
+| ачык | açık |
+| желдетилген | jeldetilgen |
+| тешиктүү | teşiktüü |
+| **Tatar** | |
+| һаваландырылган | havalandırılgan |
+| ачык | açık |
+| җилләтелгән | jillätelgän |
+| **Bashkir** | |
+| һауаландырылған | haualandırılğan |
+| асыҡ | asıq |
+| елләтелгән | yellätelgän |
+
+```json
+{
+    "id": "i13915",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "vented",
+    "en_definition": "supplied with a vent or vents for intake of air or discharge of gases",
+    "tr_word": "havalandırmalı",
+    "tr_definition": "Hava girişi veya gaz çıkışı için bir veya daha fazla açıklığı olan",
+    "ru_word": "вентилируемый",
+    "ru_definition": "снабженный вентиляционным отверстием или отверстиями для впуска воздуха или выпуска газов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "havalandırmalı",
+                    "hava çıkışlı"
+                ],
+                "Azerbaijani": [
+                    "havalandırılmış"
+                ],
+                "Turkmen": [
+                    "howalandyrylan",
+                    "howaly"
+                ],
+                "Uzbek": [
+                    "havodor"
+                ],
+                "Uyghur": [
+                    "ھاۋا ئۆتۈشىدىغان",
+                    "ھاۋا ئالماشتۇرۇلىدىغان",
+                    "ھاۋادانلىق"
+                ],
+                "Tatar": [
+                    "һаваландырылган"
+                ],
+                "Bashkir": [
+                    "һауаландырылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "açyk"
+                ],
+                "Uzbek": [
+                    "ochiq"
+                ],
+                "Kazakh": [
+                    "ашық"
+                ],
+                "Kyrgyz": [
+                    "ачык"
+                ],
+                "Karakalpak": [
+                    "ashıq"
+                ],
+                "Tatar": [
+                    "ачык"
+                ],
+                "Bashkir": [
+                    "асыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "желдетілген"
+                ],
+                "Kyrgyz": [
+                    "желдетилген"
+                ],
+                "Karakalpak": [
+                    "jeldetіlgen"
+                ],
+                "Tatar": [
+                    "җилләтелгән"
+                ],
+                "Bashkir": [
+                    "елләтелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "teshikli"
+                ],
+                "Uyghur": [
+                    "تۆشۈكلۈك"
+                ],
+                "Kyrgyz": [
+                    "тешиктүү"
+                ],
+                "Karakalpak": [
+                    "tesіktі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bacalı"
+                ],
+                "Azerbaijani": [
+                    "bacalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəfəslikli"
+                ],
+                "Turkmen": [
+                    "nefeslikli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "menfezli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shamollatiladigan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ауаланған"
+                ]
+            }
+        }
+    ]
+}
+```
+

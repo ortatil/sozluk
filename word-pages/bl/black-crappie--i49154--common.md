@@ -1,0 +1,94 @@
+# Black crappie
+| Field | Detail |
+|---|---|
+| **ID** | i49154 |
+| **English** | black crappie |
+| **Type** | noun |
+| **Definition** | a crappie that is black |
+| **Source** | common |
+| **Ortatil** | alabıǵa |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i49154",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "black crappie",
+    "en_definition": "a crappie that is black",
+    "tr_word": "kara crappie",
+    "tr_definition": "Kuzey Amerika'ya özgü, üzerinde koyu lekeler bulunan bir tatlı su güneş balığı türü.",
+    "ru_word": "чёрный краппи",
+    "ru_definition": "Вид пресноводных лучепёрых рыб из семейства центрарховых, отличающийся тёмными пятнами на теле.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara tatlı su levreği",
+                    "kara güneş balığı"
+                ],
+                "Azerbaijani": [
+                    "qara durnabalığı",
+                    "qara krapper"
+                ],
+                "Turkmen": [
+                    "gara krap",
+                    "gara tegelek balyk"
+                ],
+                "Uzbek": [
+                    "qora krapper"
+                ],
+                "Uyghur": [
+                    "قارا كراپى بېلىقى",
+                    "قارا كراپى"
+                ],
+                "Kazakh": [
+                    "қара краппи",
+                    "қара алабұға"
+                ],
+                "Kyrgyz": [
+                    "кара краппи",
+                    "кара ала балык"
+                ],
+                "Karakalpak": [
+                    "qara alabұǵa"
+                ],
+                "Tatar": [
+                    "кара краппи",
+                    "кара алабуга"
+                ],
+                "Bashkir": [
+                    "ҡара краппи",
+                    "ҡара алабуға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siyah tatlı su levreği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qora olabugʻa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "alabұǵa"
+                ]
+            }
+        }
+    ]
+}
+```
+

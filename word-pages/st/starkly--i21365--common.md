@@ -1,0 +1,253 @@
+# Starkly
+| Field | Detail |
+|---|---|
+| **ID** | i21365 |
+| **English** | starkly |
+| **Type** | adverb |
+| **Definition** | in sharp outline or contrast |
+| **Source** | common |
+| **Ortatil** | açıq-aydın, keskin |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **açıq-aydın** | **keskin** | **ayqın** | **anıq** |
+|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ✅ |
+| Uyghur | ❌ | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 1 | 0.67 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0.50 | 0 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 0.80 | 0.60 | 0.60 |
+| *In All* | ✅ | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ |  |
+| **O'TQ** | **3.50** | **3.30** | **1.77** | **1.10** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئوچۇق-ئاشكارە | oçuq-aşkarä |
+| بۆلەكچە | böläkçä |
+| **Kazakh** | |
+| ашық | aşıq |
+| айқын | ayqın |
+| анық | anıq |
+| **Kyrgyz** | |
+| ачык | açık |
+| кескин | keskin |
+| айкын | aykın |
+| ананык | ananık |
+| даана | daana |
+| **Tatar** | |
+| ачык | açık |
+| ачыктан-ачык | açıktan-açık |
+| кискен | kisken |
+| **Bashkir** | |
+| асыҡ | asıq |
+| аныҡ | anıq |
+| киҫкен | kisken |
+| ярыҡ | yarıq |
+
+```json
+{
+    "id": "i21365",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "starkly",
+    "en_definition": "in sharp outline or contrast",
+    "tr_word": "belirgin bir şekilde",
+    "tr_definition": "keskin bir hatla veya zıtlıkla",
+    "ru_word": "резко",
+    "ru_definition": "с отчетливыми очертаниями или сильным контрастом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açıkça",
+                    "aşikar"
+                ],
+                "Azerbaijani": [
+                    "aşkar",
+                    "açıq-aydın"
+                ],
+                "Turkmen": [
+                    "açyk-aydın"
+                ],
+                "Uzbek": [
+                    "ochiq-oydin"
+                ],
+                "Kazakh": [
+                    "ашық"
+                ],
+                "Kyrgyz": [
+                    "ачык"
+                ],
+                "Karakalpak": [
+                    "ashıq"
+                ],
+                "Tatar": [
+                    "ачык",
+                    "ачыктан-ачык"
+                ],
+                "Bashkir": [
+                    "асыҡ",
+                    "аныҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "keskinlikle"
+                ],
+                "Azerbaijani": [
+                    "kəskin"
+                ],
+                "Turkmen": [
+                    "kesgin"
+                ],
+                "Uzbek": [
+                    "keskin"
+                ],
+                "Kyrgyz": [
+                    "кескин"
+                ],
+                "Karakalpak": [
+                    "keskin"
+                ],
+                "Tatar": [
+                    "кискен"
+                ],
+                "Bashkir": [
+                    "киҫкен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aydın"
+                ],
+                "Turkmen": [
+                    "aydyň"
+                ],
+                "Kazakh": [
+                    "айқын"
+                ],
+                "Kyrgyz": [
+                    "айкын"
+                ],
+                "Karakalpak": [
+                    "ayqın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "göz-görtele"
+                ],
+                "Uyghur": [
+                    "كۆزگە كۆرۈنەرلىك"
+                ],
+                "Kazakh": [
+                    "көзге ұрып тұрғандай"
+                ],
+                "Tatar": [
+                    "күзгә бәрелеп торырлык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aniq"
+                ],
+                "Kazakh": [
+                    "анық"
+                ],
+                "Kyrgyz": [
+                    "ананык"
+                ],
+                "Karakalpak": [
+                    "anıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "belirgin"
+                ],
+                "Azerbaijani": [
+                    "bəlli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çarpıcı"
+                ],
+                "Bashkir": [
+                    "ярыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yaqqol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ravshan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوچۇق-ئاشكارە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "روشەن ھالدا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۆلەكچە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "даана"
+                ]
+            }
+        }
+    ]
+}
+```
+

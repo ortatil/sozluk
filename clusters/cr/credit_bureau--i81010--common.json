@@ -1,0 +1,104 @@
+{
+    "id": "i81010",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "credit bureau",
+    "en_definition": "a private firm that maintains consumer credit data files and provides credit information to authorized users for a fee",
+    "tr_word": "kredi kayıt bürosu",
+    "tr_definition": "tüketicilerin kredi geçmişi verilerini toplayan ve bu bilgileri ücret karşılığında yetkili kurumlara sunan özel kuruluş",
+    "ru_word": "бюро кредитных историй",
+    "ru_definition": "организация, занимающаяся сбором и хранением информации о кредитной истории заемщиков и предоставлением кредитных отчетов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kredi kayıt bürosu",
+                    "kredi sicil dairesi",
+                    "kredi bilgi merkezi",
+                    "kredi istihbarat merkezi"
+                ],
+                "Azerbaijani": [
+                    "kredit bürosu",
+                    "kredit məlumat mərkəzi",
+                    "kredit reyestri"
+                ],
+                "Uzbek": [
+                    "kredit byurosi",
+                    "kredit ma'lumotlari markazi",
+                    "kredit tarixi idorasi"
+                ],
+                "Kyrgyz": [
+                    "кредиттик бюро"
+                ],
+                "Karakalpak": [
+                    "kredit byurosı",
+                    "kredit tariyxı byurosı",
+                    "kredit maǵlıumatları orayı"
+                ],
+                "Tatar": [
+                    "кредит тарихы идарәсе"
+                ],
+                "Bashkir": [
+                    "кредит бюроһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "karz edarasy",
+                    "karz maglumatlar edarasy",
+                    "karz taryhy gullugy"
+                ],
+                "Uyghur": [
+                    "قەرز ئىناۋەت ئورگىنى",
+                    "قەرز ئىناۋەت تەكشۈرۈش ئورنى"
+                ],
+                "Kazakh": [
+                    "қарыз тарихы орталығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "несие бюросы",
+                    "несие тарихы бюросы"
+                ],
+                "Kyrgyz": [
+                    "насыя бюросу",
+                    "насыя тарыхы бюросу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бурыч тарихы үзәге"
+                ],
+                "Bashkir": [
+                    "бурыс тарихы бюроһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ышаныч белешмәлеге"
+                ],
+                "Bashkir": [
+                    "ышаныс мәғлүмәттәре үҙәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىناۋەت ئۇچۇر مەركىزى"
+                ]
+            }
+        }
+    ]
+}

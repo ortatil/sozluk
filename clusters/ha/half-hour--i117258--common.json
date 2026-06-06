@@ -1,0 +1,86 @@
+{
+    "id": "i117258",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "half-hour",
+    "en_definition": "a half of an hour",
+    "tr_word": "yarım saat",
+    "tr_definition": "otuz dakikalık zaman dilimi",
+    "ru_word": "полчаса",
+    "ru_definition": "промежуток времени в тридцать минут",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarım saat"
+                ],
+                "Azerbaijani": [
+                    "yarım saat"
+                ],
+                "Turkmen": [
+                    "ýarym sagat",
+                    "ýarym"
+                ],
+                "Uzbek": [
+                    "yarim soat"
+                ],
+                "Uyghur": [
+                    "يېرىم سائەت"
+                ],
+                "Kazakh": [
+                    "жарты сағат",
+                    "жарым сағат"
+                ],
+                "Kyrgyz": [
+                    "жарым саат",
+                    "жарым"
+                ],
+                "Karakalpak": [
+                    "jartı saat",
+                    "jarım saat"
+                ],
+                "Tatar": [
+                    "ярты сәгать"
+                ],
+                "Bashkir": [
+                    "ярты сәғәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nim soat"
+                ],
+                "Uyghur": [
+                    "نەق سائەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "нимсәгать"
+                ],
+                "Bashkir": [
+                    "нимсәғәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "buçuk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "otuz dəqiqə"
+                ]
+            }
+        }
+    ]
+}

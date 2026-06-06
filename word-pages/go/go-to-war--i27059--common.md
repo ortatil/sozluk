@@ -1,0 +1,237 @@
+# Go to war
+| Field | Detail |
+|---|---|
+| **ID** | i27059 |
+| **English** | go to war |
+| **Type** | verb |
+| **Definition** | commence hostilities |
+| **Source** | common |
+| **Ortatil** | attanmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **attanmaq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| аттану | attanu |
+| **Kyrgyz** | |
+| аттануу | attanuu |
+| **Bashkir** | |
+| атланыу | atlanıu |
+
+```json
+{
+    "id": "i27059",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "go to war",
+    "en_definition": "commence hostilities",
+    "tr_word": "savaşa girmek",
+    "tr_definition": "çatışmaları başlatmak, savaşa başlamak",
+    "ru_word": "вступить в войну",
+    "ru_definition": "начать военные действия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gazat etmek"
+                ],
+                "Uzbek": [
+                    "g'azot qilmoq"
+                ],
+                "Uyghur": [
+                    "غەزا قىلماق"
+                ],
+                "Kyrgyz": [
+                    "казатка чыгуу"
+                ],
+                "Tatar": [
+                    "гаскәр чыгару"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "savaşa girmek"
+                ],
+                "Azerbaijani": [
+                    "savaşa girmək"
+                ],
+                "Turkmen": [
+                    "söweşe gitmek"
+                ],
+                "Tatar": [
+                    "сугышка чыгу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cihat etmek"
+                ],
+                "Turkmen": [
+                    "jeňe gitmek"
+                ],
+                "Uyghur": [
+                    "جەڭگە كىرمەك"
+                ],
+                "Tatar": [
+                    "җиһад игълан итү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uruşa gitmek"
+                ],
+                "Uzbek": [
+                    "urush boshlamoq"
+                ],
+                "Uyghur": [
+                    "ئۇرۇش باشلىماق",
+                    "ئۇرۇش قوزغىماق"
+                ],
+                "Karakalpak": [
+                    "urıs baslau",
+                    "urısqa atlanıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "соғыс ашу",
+                    "соғыс бастау"
+                ],
+                "Kyrgyz": [
+                    "согуш ачуу",
+                    "согушка кирүү"
+                ],
+                "Tatar": [
+                    "сугыш башлау"
+                ],
+                "Bashkir": [
+                    "һуғыш башлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "аттану"
+                ],
+                "Kyrgyz": [
+                    "аттануу"
+                ],
+                "Karakalpak": [
+                    "atlanıo"
+                ],
+                "Bashkir": [
+                    "атланыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harbe girmek"
+                ],
+                "Azerbaijani": [
+                    "hərbə başlamaq"
+                ],
+                "Bashkir": [
+                    "хәрби хәрәкәттәр башлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müharibəyə başlamaq"
+                ],
+                "Uzbek": [
+                    "muhoraba qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "meydana atılmaq"
+                ],
+                "Kazakh": [
+                    "майданға шығу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jaolasıo"
+                ],
+                "Bashkir": [
+                    "яуға сығыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seferber olmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "döyüşə girmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jang qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жорыққа шығу"
+                ]
+            }
+        }
+    ]
+}
+```
+

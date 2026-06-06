@@ -1,0 +1,107 @@
+{
+    "id": "i81299",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "junior high school",
+    "en_definition": "a secondary school usually including 7th and 8th grades",
+    "tr_word": "ortaokul",
+    "tr_definition": "Genellikle 5. ve 8. sınıflar arasındaki öğrencilere eğitim veren, ilkokul ile lise arasındaki kademe.",
+    "ru_word": "средняя школа",
+    "ru_definition": "Общеобразовательное учебное заведение, охватывающее средние классы обучения (обычно с 5-го по 9-й).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ortaokul"
+                ],
+                "Azerbaijani": [
+                    "orta məktəb"
+                ],
+                "Turkmen": [
+                    "orta mekdep",
+                    "orta bilim mekdebi"
+                ],
+                "Uzbek": [
+                    "o'rta maktab"
+                ],
+                "Kazakh": [
+                    "орта мектеп"
+                ],
+                "Kyrgyz": [
+                    "орто мектеп"
+                ],
+                "Karakalpak": [
+                    "orta mektep"
+                ],
+                "Tatar": [
+                    "урта мәктәп",
+                    "урта баскыч"
+                ],
+                "Bashkir": [
+                    "урта мәктәп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەن دەرىجىلىك ئوتتۇرا مەكتەپ",
+                    "تۆۋەن ئوتتۇرا مەكتەپ",
+                    "تۆۋەن ئوتتۇرا"
+                ],
+                "Karakalpak": [
+                    "tómengi klass"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "негізгі мектеп"
+                ],
+                "Kyrgyz": [
+                    "негизги мектеп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп мәктәп"
+                ],
+                "Bashkir": [
+                    "төп мәктәп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rüştiye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "natamam orta məktəb"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quyi o'rta maktab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tayyorlov maktabi"
+                ]
+            }
+        }
+    ]
+}

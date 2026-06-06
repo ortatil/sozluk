@@ -1,0 +1,181 @@
+# Common roundworm
+| Field | Detail |
+|---|---|
+| **ID** | i45487 |
+| **English** | common roundworm |
+| **Type** | noun |
+| **Definition** | intestinal parasite of humans and pigs |
+| **Source** | common |
+| **Ortatil** | askarit |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **askarit** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئىسكارىدا | iskarida |
+| **Kazakh** | |
+| аскарида | askarida |
+| **Kyrgyz** | |
+| аскарида | askarida |
+| **Tatar** | |
+| аскарида | askarida |
+| **Bashkir** | |
+| аскарида | askarida |
+| эскермән | eskermän |
+
+```json
+{
+    "id": "i45487",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "common roundworm",
+    "en_definition": "intestinal parasite of humans and pigs",
+    "tr_word": "bağırsak solucanı",
+    "tr_definition": "İnsanların ve domuzların ince bağırsağında yaşayan bir parazit türü (Ascaris lumbricoides).",
+    "ru_word": "аскарида человеческая",
+    "ru_definition": "Паразитический круглый червь, обитающий в тонком кишечнике человека и свиней.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "askarit"
+                ],
+                "Azerbaijani": [
+                    "askarid"
+                ],
+                "Turkmen": [
+                    "askarida"
+                ],
+                "Uzbek": [
+                    "askarida"
+                ],
+                "Uyghur": [
+                    "ئىسكارىدا"
+                ],
+                "Kazakh": [
+                    "аскарида",
+                    "ішек құрты"
+                ],
+                "Kyrgyz": [
+                    "аскарида"
+                ],
+                "Karakalpak": [
+                    "askarida",
+                    "іshek qұrtı"
+                ],
+                "Tatar": [
+                    "аскарида"
+                ],
+                "Bashkir": [
+                    "аскарида",
+                    "эскермән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yumru qurd"
+                ],
+                "Uyghur": [
+                    "يۇمىلاق قۇرت"
+                ],
+                "Kazakh": [
+                    "жұмыр құрт"
+                ],
+                "Tatar": [
+                    "йомры суалчан"
+                ],
+                "Bashkir": [
+                    "йомро селәүсен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "içerge gurçugy"
+                ],
+                "Kyrgyz": [
+                    "ичеги курту"
+                ],
+                "Tatar": [
+                    "эчәк суалчаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağırsak solucanı"
+                ],
+                "Azerbaijani": [
+                    "bağırsaq qurdu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karın kurdu"
+                ],
+                "Kyrgyz": [
+                    "кызыл курт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tögelek gurçuk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gijja"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qurt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۈچەي قۇرتى"
+                ]
+            }
+        }
+    ]
+}
+```
+

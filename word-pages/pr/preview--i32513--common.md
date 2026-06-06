@@ -1,0 +1,157 @@
+# Preview
+| Field | Detail |
+|---|---|
+| **ID** | i32513 |
+| **English** | preview |
+| **Type** | verb |
+| **Definition** | watch (a movie or play) before it is released to the general public |
+| **Source** | common |
+| **Ortatil** | tanısıomaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| байкоо | baykoo |
+| **Tatar** | |
+| күзәтү | küzätü |
+| күрү | kürü |
+| **Bashkir** | |
+| танышыу | tanışıu |
+| күрһәтеү | kürhäteü |
+
+```json
+{
+    "id": "i32513",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "preview",
+    "en_definition": "watch (a movie or play) before it is released to the general public",
+    "tr_word": "ön izleme yapmak",
+    "tr_definition": "bir filmi veya oyunu halka sunulmadan önce izlemek",
+    "ru_word": "предварительно просматривать",
+    "ru_definition": "посмотреть (фильм или спектакль) до того, как он станет доступен широкой публике",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oldindan koʻrmoq"
+                ],
+                "Uyghur": [
+                    "ئالدىن كۆرۈش",
+                    "ئالدىن كۆزدىن كەچۈرۈش"
+                ],
+                "Kazakh": [
+                    "алдын ала көру",
+                    "алдын ала тамашалау"
+                ],
+                "Kyrgyz": [
+                    "алдын ала көрүү"
+                ],
+                "Karakalpak": [
+                    "aldın ala kório"
+                ],
+                "Tatar": [
+                    "алдан карау"
+                ],
+                "Bashkir": [
+                    "алдан ҡарау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻzdan kechirmoq"
+                ],
+                "Kyrgyz": [
+                    "көз жүгүртүү"
+                ],
+                "Karakalpak": [
+                    "kózden ótkerio"
+                ],
+                "Tatar": [
+                    "күзәтү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ön izlemek",
+                    "ön gösterim yapmak",
+                    "önceden seyretmek"
+                ],
+                "Azerbaijani": [
+                    "öncədən izləmək"
+                ],
+                "Turkmen": [
+                    "öňünden görmek",
+                    "öňünden synlamak",
+                    "öňünden tomaşa etmek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tanishib chiqmoq"
+                ],
+                "Karakalpak": [
+                    "tanısıo"
+                ],
+                "Bashkir": [
+                    "танышыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көрсетілімге дейін көру"
+                ],
+                "Bashkir": [
+                    "күрһәтеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabaqcadan baxmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nümayiş etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "байкоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күрү"
+                ]
+            }
+        }
+    ]
+}
+```
+

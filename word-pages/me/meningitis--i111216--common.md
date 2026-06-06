@@ -1,0 +1,114 @@
+# Meningitis
+| Field | Detail |
+|---|---|
+| **ID** | i111216 |
+| **English** | meningitis |
+| **Type** | noun |
+| **Definition** | infectious disease characterized by inflammation of the meninges (the tissues that surround the brain or spinal cord) usually caused by a bacterial infection; symptoms include headache and stiff neck and fever and nausea |
+| **Source** | common |
+| **Ortatil** | menencit |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i111216",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "meningitis",
+    "en_definition": "infectious disease characterized by inflammation of the meninges (the tissues that surround the brain or spinal cord) usually caused by a bacterial infection; symptoms include headache and stiff neck and fever and nausea",
+    "tr_word": "menenjit",
+    "tr_definition": "Beyin ve omurilik zarlarının iltihaplanmasıyla karakterize, genellikle bakteri veya virüs kaynaklı, şiddetli baş ağrısı ve ateşle seyreden bulaşıcı hastalık.",
+    "ru_word": "менингит",
+    "ru_definition": "Инфекционное заболевание, характеризующееся воспалением оболочек головного и спинного мозга, обычно вызываемое бактериальной инфекцией.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "menenjit"
+                ],
+                "Azerbaijani": [
+                    "meningit"
+                ],
+                "Uyghur": [
+                    "مېڭە پەردە ياللۇغى",
+                    "مېڭە پەردىسى ياللۇغى"
+                ],
+                "Kyrgyz": [
+                    "мээнин сезгениши"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "miya pardasi yalligʻlanishi",
+                    "miya pardasi kasalligi",
+                    "miya shishi"
+                ],
+                "Karakalpak": [
+                    "miyi qabınıuı"
+                ],
+                "Tatar": [
+                    "мие кабыгы ялкынсынуы"
+                ],
+                "Bashkir": [
+                    "мейе ҡабығы шешеүе",
+                    "мейе шешеүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beyin zarı iltihabı"
+                ],
+                "Azerbaijani": [
+                    "beyin qişası iltihabı"
+                ],
+                "Turkmen": [
+                    "beýni perdesiniň sowuklamasy",
+                    "beýni sowuklamasy",
+                    "beýni perdesi sowuklamasy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ми қабығының қабынуы",
+                    "ми қабынуы"
+                ],
+                "Kyrgyz": [
+                    "мээ кабыгынын сезгениши"
+                ],
+                "Karakalpak": [
+                    "mi qabıǵınıń qabınıuı",
+                    "mi qabıǵınıń keselligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sərsam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "баш мие кабыгы ялкынсынуы"
+                ]
+            }
+        }
+    ]
+}
+```
+

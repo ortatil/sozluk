@@ -1,0 +1,76 @@
+{
+    "id": "i55745",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "liquid soap",
+    "en_definition": "soap in liquid form",
+    "tr_word": "sıvı sabun",
+    "tr_definition": "sıvı formda olan sabun türü",
+    "ru_word": "жидкое мыло",
+    "ru_definition": "мыло в жидком агрегатном состоянии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıvı sabun"
+                ],
+                "Kazakh": [
+                    "сұйық сабын"
+                ],
+                "Kyrgyz": [
+                    "суюк самын"
+                ],
+                "Karakalpak": [
+                    "suyıq sabın"
+                ],
+                "Tatar": [
+                    "сыек сабын"
+                ],
+                "Bashkir": [
+                    "һыйыҡ һабын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwuk sabyn"
+                ],
+                "Uzbek": [
+                    "suyuq sovun",
+                    "suyuq sovin"
+                ],
+                "Uyghur": [
+                    "سۇيۇق سوپۇن",
+                    "سۇيۇقلاندۇرۇلغان سوپۇن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akışkan sabun"
+                ],
+                "Turkmen": [
+                    "akaba sabyn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maye sabun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "duru sabun"
+                ]
+            }
+        }
+    ]
+}

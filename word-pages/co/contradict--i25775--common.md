@@ -1,0 +1,212 @@
+# Contradict
+| Field | Detail |
+|---|---|
+| **ID** | i25775 |
+| **English** | contradict |
+| **Type** | verb |
+| **Definition** | deny the truth of |
+| **Source** | common |
+| **Ortatil** | yalanlamaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| төгүндөө | tögündöö |
+
+```json
+{
+    "id": "i25775",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "contradict",
+    "en_definition": "deny the truth of",
+    "tr_word": "yalanlamak",
+    "tr_definition": "bir şeyin doğru olmadığını bildirmek veya iddia etmek",
+    "ru_word": "опровергать",
+    "ru_definition": "доказывать ложность или ошибочность чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karşı çıkmak"
+                ],
+                "Turkmen": [
+                    "garşy çykmak"
+                ],
+                "Uyghur": [
+                    "قارشى چىقماق"
+                ],
+                "Kazakh": [
+                    "қарсы келу",
+                    "қайшы келу"
+                ],
+                "Kyrgyz": [
+                    "каршы чыгуу"
+                ],
+                "Karakalpak": [
+                    "qarsı shıǵıu"
+                ],
+                "Tatar": [
+                    "каршы килү",
+                    "кире кагу",
+                    "каршы чыгу"
+                ],
+                "Bashkir": [
+                    "кире ҡағыу",
+                    "ҡаршы килеү",
+                    "ҡаршы сығыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "inkär etmek"
+                ],
+                "Uzbek": [
+                    "inkor qilmoq"
+                ],
+                "Uyghur": [
+                    "ئىنكار قىلماق"
+                ],
+                "Tatar": [
+                    "инкарь итү"
+                ],
+                "Bashkir": [
+                    "инҡар итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ters gelmek"
+                ],
+                "Uyghur": [
+                    "تەتۈر كەلمەك"
+                ],
+                "Kazakh": [
+                    "теріске шығару"
+                ],
+                "Karakalpak": [
+                    "tárkileu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yalanlamak",
+                    "çelişmek"
+                ],
+                "Azerbaijani": [
+                    "yalanlamaq"
+                ],
+                "Uzbek": [
+                    "yolg'onga chiqarmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "danmaq"
+                ],
+                "Kyrgyz": [
+                    "тан алуу"
+                ],
+                "Karakalpak": [
+                    "tán almau"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ret etmek"
+                ],
+                "Uzbek": [
+                    "rad etmoq"
+                ],
+                "Uyghur": [
+                    "رەت قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aksini söylemek"
+                ],
+                "Azerbaijani": [
+                    "əksinə demək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekzip etmek"
+                ],
+                "Azerbaijani": [
+                    "təkzib etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zidd çıxmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "teskari chiqmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жоққа шығару"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "төгүндөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "четке кагуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bikarlau"
+                ]
+            }
+        }
+    ]
+}
+```
+

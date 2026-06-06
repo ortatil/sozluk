@@ -1,0 +1,86 @@
+{
+    "id": "i29406",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "dry clean",
+    "en_definition": "clean with chemical agents",
+    "tr_word": "kuru temizleme yapmak",
+    "tr_definition": "giysileri su yerine kimyasal çözücüler kullanarak temizlemek",
+    "ru_word": "подвергать химической чистке",
+    "ru_definition": "чистить одежду с использованием химических реагентов без воды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuru temizleme yapmak",
+                    "kuru temizlemek"
+                ],
+                "Azerbaijani": [
+                    "quru təmizləmək"
+                ],
+                "Turkmen": [
+                    "gurulyga arassalamak"
+                ],
+                "Uzbek": [
+                    "quruq tozalamoq"
+                ],
+                "Uyghur": [
+                    "قۇرۇق يۇيۇش"
+                ],
+                "Kazakh": [
+                    "құрғақ тазалау"
+                ],
+                "Kyrgyz": [
+                    "кургак тазалоо"
+                ],
+                "Karakalpak": [
+                    "qurǵaqlay tazalao"
+                ],
+                "Tatar": [
+                    "корылай чистарту"
+                ],
+                "Bashkir": [
+                    "ҡоролай таҙартыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kimyəvi təmizləmək"
+                ],
+                "Uzbek": [
+                    "kimyoviy tozalamoq"
+                ],
+                "Kazakh": [
+                    "химиялық тазалау"
+                ],
+                "Kyrgyz": [
+                    "химиялык тазалоо"
+                ],
+                "Karakalpak": [
+                    "ximiyalıq tazalao"
+                ],
+                "Tatar": [
+                    "химик чистарту"
+                ],
+                "Bashkir": [
+                    "химия ярҙамында таҙартыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "himiýatizleýiş etmek",
+                    "himiýa arkaly arassalamak"
+                ],
+                "Uyghur": [
+                    "خىمىيىۋى يۇيۇش"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+# Baloney
+| Field | Detail |
+|---|---|
+| **ID** | i71208 |
+| **English** | baloney |
+| **Type** | noun |
+| **Definition** | pretentious or silly talk or writing |
+| **Source** | common |
+| **Ortatil** | yalğan |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **yalğan** | **mänäsizlik** | **safsata** | **laqap** |
+|---|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ❌ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ | ❌ |
+| Kazakh | ❌ | ❌ | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ | ✅ | ✅ |
+| Karakalpak | ❌ | ✅ | ✅ | ✅ |
+| Tatar | ❌ | ✅ | ✅ | ❌ |
+| Bashkir | ✅ | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.67 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 0 | 1 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.80 | 0.80 | 0.60 |
+| *In All* | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |  |
+| **O'TQ** | **2.87** | **1.97** | **1.80** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سەپسەپە | säpsäpä |
+| يالغان-ياۋىداق | yalğan-yavidaq |
+| **Kazakh** | |
+| лақап | laqap |
+| сандырақ | sandıraq |
+| мылжың | mıljıñ |
+| өтірік | ötirik |
+| **Kyrgyz** | |
+| маанисиздик | maanisizdik |
+| сапсата | sapsata |
+| лакап | lakap |
+| калп | kalp |
+| **Tatar** | |
+| мәгънәсезлек | mägnäsezlek |
+| сафсата | safsata |
+| саташу | sataşu |
+| **Bashkir** | |
+| мәғәнәһеҙлек | mäğänähezlek |
+| һафсата | hafsata |
+| ялған | yalğan |
+
+```json
+{
+    "id": "i71208",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "baloney",
+    "en_definition": "pretentious or silly talk or writing",
+    "tr_word": "saçmalık",
+    "tr_definition": "gösterişli veya aptalca konuşma veya yazı",
+    "ru_word": "чепуха",
+    "ru_definition": "претенциозные или глупые разговоры или письма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boş laf"
+                ],
+                "Azerbaijani": [
+                    "boşboğazlıq",
+                    "boş-boş danışıq"
+                ],
+                "Turkmen": [
+                    "boş söz"
+                ],
+                "Kazakh": [
+                    "бос сөз"
+                ],
+                "Kyrgyz": [
+                    "бош сөз"
+                ],
+                "Karakalpak": [
+                    "bos sóz"
+                ],
+                "Tatar": [
+                    "буш сүз"
+                ],
+                "Bashkir": [
+                    "буш һүҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mənasızlıq"
+                ],
+                "Turkmen": [
+                    "manysyzlyk"
+                ],
+                "Kyrgyz": [
+                    "маанисиздик"
+                ],
+                "Karakalpak": [
+                    "mánisizlik"
+                ],
+                "Tatar": [
+                    "мәгънәсезлек"
+                ],
+                "Bashkir": [
+                    "мәғәнәһеҙлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "safsata"
+                ],
+                "Uyghur": [
+                    "سەپسەپە"
+                ],
+                "Kyrgyz": [
+                    "сапсата"
+                ],
+                "Karakalpak": [
+                    "sapsata"
+                ],
+                "Tatar": [
+                    "сафсата"
+                ],
+                "Bashkir": [
+                    "һафсата"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yalan"
+                ],
+                "Turkmen": [
+                    "ýalan"
+                ],
+                "Uzbek": [
+                    "yolg'on"
+                ],
+                "Uyghur": [
+                    "يالغان-ياۋىداق"
+                ],
+                "Bashkir": [
+                    "ялған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "лақап"
+                ],
+                "Kyrgyz": [
+                    "лакап"
+                ],
+                "Karakalpak": [
+                    "laqqı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "saçmalık"
+                ],
+                "Turkmen": [
+                    "samahyl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "palavra"
+                ],
+                "Uzbek": [
+                    "valdirash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zırva"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "martaval"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uydurma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "aldaw"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bo'lmag'ur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "puch"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىمەنە گەپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇرۇق گەپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сандырақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мылжың"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өтірік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "калп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "саташу"
+                ]
+            }
+        }
+    ]
+}
+```
+

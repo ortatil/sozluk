@@ -1,0 +1,107 @@
+{
+    "id": "i14314",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "woven",
+    "en_definition": "made or constructed by interlacing threads or strips of material or other elements into a whole",
+    "tr_word": "dokuma",
+    "tr_definition": "ipliklerin veya şeritlerin birbirinin içinden geçirilmesiyle oluşturulmuş kumaş veya yapı",
+    "ru_word": "тканый",
+    "ru_definition": "изготовленный путем переплетения нитей или полос материала",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dokuma",
+                    "dokunmuş"
+                ],
+                "Azerbaijani": [
+                    "toxunma",
+                    "toxunmuş"
+                ],
+                "Turkmen": [
+                    "dokalan",
+                    "dokma"
+                ],
+                "Uzbek": [
+                    "to'qilgan",
+                    "to'qima"
+                ],
+                "Uyghur": [
+                    "توقۇلغان",
+                    "توقۇلما"
+                ],
+                "Kazakh": [
+                    "тоқылған",
+                    "тоқыма"
+                ],
+                "Kyrgyz": [
+                    "токулган"
+                ],
+                "Karakalpak": [
+                    "toqılǵan"
+                ],
+                "Tatar": [
+                    "тукыган"
+                ],
+                "Bashkir": [
+                    "туҡылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "örülmüş",
+                    "örgü"
+                ],
+                "Azerbaijani": [
+                    "hörülmüş",
+                    "hörülmə"
+                ],
+                "Turkmen": [
+                    "örülip ýasalan",
+                    "örülgi"
+                ],
+                "Uyghur": [
+                    "ئۆرۈلگەن"
+                ],
+                "Kazakh": [
+                    "өрме",
+                    "өрілген"
+                ],
+                "Kyrgyz": [
+                    "өрүлгөн"
+                ],
+                "Karakalpak": [
+                    "órmelengen",
+                    "órme"
+                ],
+                "Tatar": [
+                    "үрелгән",
+                    "үрелмә"
+                ],
+                "Bashkir": [
+                    "үрелгән",
+                    "үреүле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bafanda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чырмалган"
+                ]
+            }
+        }
+    ]
+}

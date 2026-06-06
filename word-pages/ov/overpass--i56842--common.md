@@ -1,0 +1,182 @@
+# Overpass
+| Field | Detail |
+|---|---|
+| **ID** | i56842 |
+| **English** | overpass |
+| **Type** | noun |
+| **Definition** | bridge formed by the upper level of a crossing of two highways at different levels |
+| **Source** | common |
+| **Ortatil** | köpürü |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **köpürü** | **estäkädä** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.67 |
+| *Qarluq Subtotal* | 1 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 0 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كۆۋرۈك | kövrük |
+| **Kazakh** | |
+| көпір | köpir |
+| өткел | ötkel |
+| **Kyrgyz** | |
+| көпүрө | köpürö |
+| өтмөк | ötmök |
+| **Tatar** | |
+| күпер | küper |
+| юлүткәргеч | yulütkärgeç |
+| **Bashkir** | |
+| күпер | küper |
+
+```json
+{
+    "id": "i56842",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "overpass",
+    "en_definition": "bridge formed by the upper level of a crossing of two highways at different levels",
+    "tr_word": "üst geçit",
+    "tr_definition": "İki yolun farklı seviyelerde kesiştiği noktalarda, trafiğin üstten akmasını sağlayan köprü.",
+    "ru_word": "путепровод",
+    "ru_definition": "Мост, по которому одна дорога проходит над другой в разных уровнях.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "köprü"
+                ],
+                "Azerbaijani": [
+                    "körpü"
+                ],
+                "Turkmen": [
+                    "köpri"
+                ],
+                "Uzbek": [
+                    "ko'prik"
+                ],
+                "Uyghur": [
+                    "كۆۋرۈك"
+                ],
+                "Kazakh": [
+                    "көпір"
+                ],
+                "Kyrgyz": [
+                    "көпүрө"
+                ],
+                "Karakalpak": [
+                    "kópіr"
+                ],
+                "Tatar": [
+                    "күпер"
+                ],
+                "Bashkir": [
+                    "күпер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "estakada"
+                ],
+                "Turkmen": [
+                    "estakada"
+                ],
+                "Uzbek": [
+                    "estakada"
+                ],
+                "Uyghur": [
+                    "ئاسما كۆۋرۈك"
+                ],
+                "Kyrgyz": [
+                    "асма жол"
+                ],
+                "Tatar": [
+                    "асма юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üst geçit"
+                ],
+                "Azerbaijani": [
+                    "üstkeçid"
+                ],
+                "Uyghur": [
+                    "ئۈستى كۆۋرۈك"
+                ],
+                "Bashkir": [
+                    "өҫкө юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yo'lo'tkazgich"
+                ],
+                "Karakalpak": [
+                    "jol ótpesі"
+                ],
+                "Tatar": [
+                    "юлүткәргеч"
+                ],
+                "Bashkir": [
+                    "юл үткәргес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аспалы жол"
+                ],
+                "Karakalpak": [
+                    "aspalı jol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өткел"
+                ],
+                "Kyrgyz": [
+                    "өтмөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "geçelge"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,107 @@
+{
+    "id": "i110714",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "thirst",
+    "en_definition": "a physiological need to drink",
+    "tr_word": "susuzluk",
+    "tr_definition": "su içme ihtiyacı veya isteği",
+    "ru_word": "жажда",
+    "ru_definition": "физиологическое ощущение необходимости пить",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "susuzluk"
+                ],
+                "Azerbaijani": [
+                    "susuzluq"
+                ],
+                "Turkmen": [
+                    "suwsuzlyk"
+                ],
+                "Uzbek": [
+                    "suvsizlik"
+                ],
+                "Uyghur": [
+                    "ئۇسسۇزلۇق"
+                ],
+                "Kyrgyz": [
+                    "суусагандык",
+                    "суусоо",
+                    "суусаш"
+                ],
+                "Karakalpak": [
+                    "suosao"
+                ],
+                "Tatar": [
+                    "сусау",
+                    "сусаулык"
+                ],
+                "Bashkir": [
+                    "һыуһау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təşnəlik"
+                ],
+                "Turkmen": [
+                    "teşnelik"
+                ],
+                "Uzbek": [
+                    "tashnalik"
+                ],
+                "Uyghur": [
+                    "تەشنالىق"
+                ],
+                "Karakalpak": [
+                    "táshnelik"
+                ],
+                "Tatar": [
+                    "тәшнәлек"
+                ],
+                "Bashkir": [
+                    "тәшнәлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шөл",
+                    "шөлдеу",
+                    "шөліркеу"
+                ],
+                "Karakalpak": [
+                    "shól"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hararet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "atash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тәмсану"
+                ]
+            }
+        }
+    ]
+}

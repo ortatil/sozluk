@@ -1,0 +1,111 @@
+{
+    "id": "i10781",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "weekly",
+    "en_definition": "of or occurring every seven days",
+    "tr_word": "haftalık",
+    "tr_definition": "yedi günde bir olan veya gerçekleşen",
+    "ru_word": "еженедельный",
+    "ru_definition": "происходящий или появляющийся раз в неделю",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haftalık"
+                ],
+                "Azerbaijani": [
+                    "həftəlik"
+                ],
+                "Turkmen": [
+                    "hepdelik"
+                ],
+                "Uzbek": [
+                    "haftalik"
+                ],
+                "Uyghur": [
+                    "ھەپتىلىك"
+                ],
+                "Kazakh": [
+                    "апталық"
+                ],
+                "Kyrgyz": [
+                    "апталык"
+                ],
+                "Karakalpak": [
+                    "háptelik"
+                ],
+                "Tatar": [
+                    "атналык"
+                ],
+                "Bashkir": [
+                    "аҙналыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "her hepde"
+                ],
+                "Uzbek": [
+                    "har haftalik"
+                ],
+                "Uyghur": [
+                    "ھەر ھەپتىلىك"
+                ],
+                "Karakalpak": [
+                    "hár háptegi"
+                ],
+                "Bashkir": [
+                    "һәр аҙналы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "апта сайынғы"
+                ],
+                "Tatar": [
+                    "атна саен",
+                    "атна саен була торган"
+                ],
+                "Bashkir": [
+                    "аҙна һайынғы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жумалык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ар жумалык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yedi günlük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həftəbəhəftə"
+                ]
+            }
+        }
+    ]
+}

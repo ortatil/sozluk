@@ -1,0 +1,64 @@
+{
+    "id": "i77347",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "banana bread",
+    "en_definition": "moist bread containing banana pulp",
+    "tr_word": "muzlu ekmek",
+    "tr_definition": "ezilmiş muz püresi içeren nemli bir ekmek türü",
+    "ru_word": "банановый хлеб",
+    "ru_definition": "влажный хлеб, приготовленный с добавлением размятых бананов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bananlı çörək",
+                    "bananlı keks"
+                ],
+                "Turkmen": [
+                    "bananly çörek",
+                    "bananly nan"
+                ],
+                "Uzbek": [
+                    "bananli non",
+                    "bananli kulcha"
+                ],
+                "Uyghur": [
+                    "بانان نېنى",
+                    "بانانلىق نان",
+                    "بانانلىق تاتلىق نان"
+                ],
+                "Kazakh": [
+                    "банан наны",
+                    "банан бәліші"
+                ],
+                "Kyrgyz": [
+                    "банан наны",
+                    "банан токочу"
+                ],
+                "Karakalpak": [
+                    "banan nanı",
+                    "bananlı nan"
+                ],
+                "Tatar": [
+                    "банан икмәге",
+                    "бананлы икмәк",
+                    "банан күмәче"
+                ],
+                "Bashkir": [
+                    "банан икмәге",
+                    "бананлы икмәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muzlu ekmek",
+                    "muzlu kek"
+                ]
+            }
+        }
+    ]
+}

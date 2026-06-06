@@ -1,0 +1,105 @@
+{
+    "id": "i4533",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "western",
+    "en_definition": "lying toward or situated in the west",
+    "tr_word": "batı",
+    "tr_definition": "batı yönünde olan veya batıda bulunan",
+    "ru_word": "западный",
+    "ru_definition": "расположенный на западе или направленный к западу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məğrib"
+                ],
+                "Uzbek": [
+                    "mag'ribiy"
+                ],
+                "Uyghur": [
+                    "مەغرىبىي"
+                ],
+                "Kyrgyz": [
+                    "магриб"
+                ],
+                "Karakalpak": [
+                    "maǵrib"
+                ],
+                "Tatar": [
+                    "мәгъриб"
+                ],
+                "Bashkir": [
+                    "мәғриб"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "günbatar"
+                ],
+                "Uzbek": [
+                    "kunbotar"
+                ],
+                "Kazakh": [
+                    "күнбатыс"
+                ],
+                "Kyrgyz": [
+                    "күн батыш"
+                ],
+                "Karakalpak": [
+                    "kúnbatıs"
+                ],
+                "Tatar": [
+                    "көнбатыш"
+                ],
+                "Bashkir": [
+                    "көнбайыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "garbi"
+                ],
+                "Azerbaijani": [
+                    "qərb",
+                    "qərbi"
+                ],
+                "Turkmen": [
+                    "garp"
+                ],
+                "Uzbek": [
+                    "g'arbiy"
+                ],
+                "Uyghur": [
+                    "غەربىي",
+                    "غەرب تەرەپتىكى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "batı",
+                    "batılı"
+                ],
+                "Kazakh": [
+                    "батыс"
+                ],
+                "Kyrgyz": [
+                    "батыш"
+                ],
+                "Karakalpak": [
+                    "batıs"
+                ]
+            }
+        }
+    ]
+}

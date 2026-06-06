@@ -1,0 +1,122 @@
+{
+    "id": "i58475",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sauna",
+    "en_definition": "a Finnish steam bath; steam is produced by pouring water over heated rocks",
+    "tr_word": "sauna",
+    "tr_definition": "Isıtılmış taşların üzerine su dökülerek buhar elde edilen Fin hamamı.",
+    "ru_word": "сауна",
+    "ru_definition": "Финская паровая баня, в которой пар образуется путем обливания водой нагретых камней.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hamam"
+                ],
+                "Turkmen": [
+                    "hammam"
+                ],
+                "Uzbek": [
+                    "hammom"
+                ],
+                "Uyghur": [
+                    "ھاممام"
+                ],
+                "Karakalpak": [
+                    "xamam"
+                ],
+                "Tatar": [
+                    "хамам"
+                ],
+                "Bashkir": [
+                    "хәммәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buhar banyosu"
+                ],
+                "Azerbaijani": [
+                    "buxar hamamı"
+                ],
+                "Turkmen": [
+                    "bug hammamy",
+                    "bugly hammam"
+                ],
+                "Uzbek": [
+                    "bugʻli hammom"
+                ],
+                "Uyghur": [
+                    "بۇغداق",
+                    "بۇغ ھاممام"
+                ],
+                "Kazakh": [
+                    "бухана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "монша"
+                ],
+                "Kyrgyz": [
+                    "мончо"
+                ],
+                "Karakalpak": [
+                    "monsha"
+                ],
+                "Tatar": [
+                    "мунча"
+                ],
+                "Bashkir": [
+                    "мунса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "isti hamam"
+                ],
+                "Uzbek": [
+                    "issiqxona"
+                ],
+                "Kazakh": [
+                    "ыстық монша"
+                ],
+                "Kyrgyz": [
+                    "ысык мончо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıcaklık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərləmə yeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "буу мончосу"
+                ]
+            }
+        }
+    ]
+}

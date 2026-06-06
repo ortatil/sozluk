@@ -1,0 +1,94 @@
+{
+    "id": "i55815",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "looking glass",
+    "en_definition": "a mirror; usually a ladies' dressing mirror",
+    "tr_word": "ayna",
+    "tr_definition": "Işığı yansıtan, genellikle arkası gümüşlenmiş cam yüzey; özellikle tuvalet aynası.",
+    "ru_word": "зеркало",
+    "ru_definition": "Гладкая стеклянная или металлическая поверхность, отражающая свет и предметы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayna"
+                ],
+                "Azerbaijani": [
+                    "ayna"
+                ],
+                "Turkmen": [
+                    "aýna"
+                ],
+                "Uzbek": [
+                    "oyna"
+                ],
+                "Uyghur": [
+                    "ئەينەك"
+                ],
+                "Kazakh": [
+                    "айна"
+                ],
+                "Kyrgyz": [
+                    "айнек"
+                ],
+                "Karakalpak": [
+                    "ayna"
+                ],
+                "Bashkir": [
+                    "айна"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gözgü"
+                ],
+                "Azerbaijani": [
+                    "güzgü"
+                ],
+                "Turkmen": [
+                    "gözgüç"
+                ],
+                "Uzbek": [
+                    "ko'zgu"
+                ],
+                "Kyrgyz": [
+                    "күзгү"
+                ],
+                "Karakalpak": [
+                    "kózge tutar"
+                ],
+                "Tatar": [
+                    "көзге"
+                ],
+                "Bashkir": [
+                    "көҙгө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆرۈنۈش"
+                ],
+                "Kazakh": [
+                    "көрініс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مىرا"
+                ],
+                "Tatar": [
+                    "миръат"
+                ]
+            }
+        }
+    ]
+}

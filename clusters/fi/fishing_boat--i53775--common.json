@@ -1,0 +1,106 @@
+{
+    "id": "i53775",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fishing boat",
+    "en_definition": "a vessel for fishing; often has a well to keep the catch alive",
+    "tr_word": "balıkçı teknesi",
+    "tr_definition": "Balık tutmak için kullanılan, genellikle avlanan balıkları canlı tutmak için bir bölmesi bulunan deniz aracı.",
+    "ru_word": "рыболовное судно",
+    "ru_definition": "Судно, предназначенное для лова рыбы, часто оборудованное специальными емкостями для сохранения улова живым.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balıkçı teknesi",
+                    "balıkçı gemisi"
+                ],
+                "Azerbaijani": [
+                    "balıqçı gəmisi",
+                    "balıqçı qayığı"
+                ],
+                "Turkmen": [
+                    "balykçy gämisi",
+                    "balykçy gaýygy"
+                ],
+                "Uzbek": [
+                    "baliqchi qayig'i",
+                    "baliq ovlash kemasi"
+                ],
+                "Uyghur": [
+                    "بېلىقچى كېمىسى",
+                    "بېلىقچىلىق كېمىسى",
+                    "بېلىق كېمىسى"
+                ],
+                "Kazakh": [
+                    "балықшы қайығы",
+                    "балық аулайтын қайық"
+                ],
+                "Kyrgyz": [
+                    "балыкчы кайыгы",
+                    "балык уулоочу кайык"
+                ],
+                "Karakalpak": [
+                    "balıqshı qayıǵı"
+                ],
+                "Tatar": [
+                    "балык көймәсе",
+                    "балыкчы көймәсе"
+                ],
+                "Bashkir": [
+                    "балыҡсы кәмәһе",
+                    "балыҡ кәмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qayıq"
+                ],
+                "Uzbek": [
+                    "qayiq"
+                ],
+                "Kazakh": [
+                    "қайық"
+                ],
+                "Karakalpak": [
+                    "qayıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кеме"
+                ],
+                "Kyrgyz": [
+                    "кеме"
+                ],
+                "Karakalpak": [
+                    "keme"
+                ],
+                "Tatar": [
+                    "көймә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gırgır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taka"
+                ]
+            }
+        }
+    ]
+}

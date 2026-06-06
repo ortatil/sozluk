@@ -1,0 +1,120 @@
+# Boxing match
+| Field | Detail |
+|---|---|
+| **ID** | i75958 |
+| **English** | boxing match |
+| **Type** | noun |
+| **Definition** | a match between boxers; usually held in a boxing ring |
+| **Source** | common |
+| **Ortatil** | muşta |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жұдырықтасу | judırıqtasu |
+| **Kyrgyz** | |
+| мушташ | muştaş |
+| беттеш | betteş |
+| жекпе-жек | jekpe-jek |
+
+```json
+{
+    "id": "i75958",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "boxing match",
+    "en_definition": "a match between boxers; usually held in a boxing ring",
+    "tr_word": "boks maçı",
+    "tr_definition": "Boksörler arasında genellikle bir boks ringinde yapılan müsabaka.",
+    "ru_word": "боксёрский поединок",
+    "ru_definition": "Матч между боксерами, обычно проводимый на боксерском ринге.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boks maçı",
+                    "boks karşılaşması",
+                    "boks müsabakası"
+                ],
+                "Azerbaijani": [
+                    "boks yarışı",
+                    "boks görüşü",
+                    "boks döyüşü",
+                    "boks müsabiqəsi"
+                ],
+                "Turkmen": [
+                    "boks ýaryşy",
+                    "boks tutluşygy",
+                    "boks bäsleşigi"
+                ],
+                "Uzbek": [
+                    "boks tushuvi",
+                    "boks musobaqasi",
+                    "boks jangi"
+                ],
+                "Uyghur": [
+                    "بوكس مۇسابىقىسى"
+                ],
+                "Kazakh": [
+                    "бокс бәсекесі",
+                    "бокс жекпе-жегі",
+                    "бокс кездесуі"
+                ],
+                "Karakalpak": [
+                    "boks jarısı",
+                    "boks bellesioi",
+                    "boks urısı"
+                ],
+                "Tatar": [
+                    "бокс бәйгесе",
+                    "бокс ярышы",
+                    "бокс алышы"
+                ],
+                "Bashkir": [
+                    "бокс алышы",
+                    "бокс бәйгеһе",
+                    "бокс ярышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇشتلىشىش مۇسابىقىسى"
+                ],
+                "Kyrgyz": [
+                    "мушташ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұдырықтасу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "беттеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жекпе-жек"
+                ]
+            }
+        }
+    ]
+}
+```
+

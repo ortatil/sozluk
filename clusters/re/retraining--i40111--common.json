@@ -1,0 +1,140 @@
+{
+    "id": "i40111",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "retraining",
+    "en_definition": "training for a new occupation",
+    "tr_word": "yeniden eğitim",
+    "tr_definition": "yeni bir meslek veya beceri edinmek amacıyla verilen eğitim",
+    "ru_word": "переподготовка",
+    "ru_definition": "обучение новой профессии или специальности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan taýýarlamak"
+                ],
+                "Uzbek": [
+                    "qayta tayyorlash",
+                    "qayta oʻqitish"
+                ],
+                "Uyghur": [
+                    "قايتا تەربىيىلەش",
+                    "قايتا يېتەكلەش"
+                ],
+                "Kazakh": [
+                    "қайта даярлау",
+                    "қайта оқыту"
+                ],
+                "Kyrgyz": [
+                    "кайра окутуу",
+                    "кайра даярдоо"
+                ],
+                "Karakalpak": [
+                    "qayta oqıtıo",
+                    "qayta tayyarlao"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden eğitim"
+                ],
+                "Azerbaijani": [
+                    "yenidən hazırlama",
+                    "yenidən təhsilalma"
+                ],
+                "Uyghur": [
+                    "يېڭى كەسىپكە تەييارلاش"
+                ],
+                "Tatar": [
+                    "яңадан укыту",
+                    "яңа һөнәргә өйрәтү"
+                ],
+                "Bashkir": [
+                    "яңынан уҡытыу",
+                    "яңы һөнәргә өйрәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kasb oʻzgartirish"
+                ],
+                "Kyrgyz": [
+                    "кесиптик кайра даярдоо"
+                ],
+                "Karakalpak": [
+                    "kásip úyretio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tazeleme eğitimi"
+                ],
+                "Turkmen": [
+                    "täzeden okatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "белемне яңарту"
+                ],
+                "Bashkir": [
+                    "белемде камиллаштырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meslek içi eğitim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yetiştirme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtisasdəyişmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hünär kämilleşdiriş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "malaka oshirish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мамандықты ауыстыру"
+                ]
+            }
+        }
+    ]
+}

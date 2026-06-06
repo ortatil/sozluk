@@ -1,0 +1,96 @@
+{
+    "id": "i59072",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sliding window",
+    "en_definition": "a window that open by sliding horizontally",
+    "tr_word": "sürme pencere",
+    "tr_definition": "yatay olarak kaydırılarak açılan pencere türü",
+    "ru_word": "раздвижное окно",
+    "ru_definition": "окно, которое открывается путем горизонтального сдвига",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürme pencere",
+                    "sürgülü pencere"
+                ],
+                "Azerbaijani": [
+                    "sürüşmə pəncərə",
+                    "sürgülü pəncərə"
+                ],
+                "Turkmen": [
+                    "sürşme penjire",
+                    "sürülýän penjire"
+                ],
+                "Uzbek": [
+                    "surma deraza"
+                ],
+                "Uyghur": [
+                    "سۈرۈلمە دېرىزە",
+                    "سۈرۈلمە كۆزنەك"
+                ],
+                "Kyrgyz": [
+                    "сүрмө терезе"
+                ],
+                "Tatar": [
+                    "сөрелә торган тәрәзә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "jilma deraza",
+                    "koʻchma deraza"
+                ],
+                "Tatar": [
+                    "күчмә тәрәзә"
+                ],
+                "Bashkir": [
+                    "күсмә тәҙрә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жылжымалы терезе"
+                ],
+                "Kyrgyz": [
+                    "жылдырма терезе"
+                ],
+                "Karakalpak": [
+                    "jıljımalı tereze"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сырғымалы терезе"
+                ],
+                "Karakalpak": [
+                    "sırǵımalı tereze"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шудырма тәрәзә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "шыуҙырма тәҙрә"
+                ]
+            }
+        }
+    ]
+}

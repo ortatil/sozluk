@@ -1,0 +1,119 @@
+{
+    "id": "i41023",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "traffic control",
+    "en_definition": "control of the flow of traffic in a building or a city",
+    "tr_word": "trafik kontrolü",
+    "tr_definition": "Bir bina veya şehirdeki trafik akışının denetlenmesi ve yönetilmesi.",
+    "ru_word": "регулирование дорожного движения",
+    "ru_definition": "управление потоком транспорта в здании или городе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərəkətin tənzimlənməsi"
+                ],
+                "Turkmen": [
+                    "hereket dolandyryşy",
+                    "hereket gözegçiligi"
+                ],
+                "Uzbek": [
+                    "harakatni boshqarish",
+                    "harakat tartibi"
+                ],
+                "Karakalpak": [
+                    "háreketti tártipke salıo"
+                ],
+                "Tatar": [
+                    "хәрәкәтне көйләү",
+                    "хәрәкәтне күзәтү"
+                ],
+                "Bashkir": [
+                    "хәрәкәтте көйләү",
+                    "хәрәкәт идараһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýol hereketiniň düzgünleşdirilmegi"
+                ],
+                "Uzbek": [
+                    "yoʻl harakati nazorati"
+                ],
+                "Karakalpak": [
+                    "jol háreketin basqarıo"
+                ],
+                "Tatar": [
+                    "юл хәрәкәтен идарә итү"
+                ],
+                "Bashkir": [
+                    "юл хәрәкәтен көйләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жол қозғалысын басқару"
+                ],
+                "Kyrgyz": [
+                    "жол кыймылын башкаруу"
+                ],
+                "Karakalpak": [
+                    "jol qaǵıydaların qadaǵalao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاتناش باشقۇرۇش",
+                    "قاتناش تىزگىنلەش",
+                    "قاتناش نازارىتى"
+                ],
+                "Kyrgyz": [
+                    "каттамды башкаруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "trafik denetimi",
+                    "trafik kontrolü",
+                    "trafik düzenlemesi",
+                    "trafik idaresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəqliyyatın idarə edilməsi",
+                    "nəqliyyat tənzimləməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қозғалысты реттеу",
+                    "қозғалыс бақылауы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыймылды жөнгө салуу"
+                ]
+            }
+        }
+    ]
+}

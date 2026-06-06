@@ -1,0 +1,190 @@
+{
+    "id": "i110212",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "circumstance",
+    "en_definition": "a condition that accompanies or influences some event or activity",
+    "tr_word": "durum",
+    "tr_definition": "bir olayı veya faaliyeti eşlik eden veya etkileyen koşul",
+    "ru_word": "обстоятельство",
+    "ru_definition": "условие, сопутствующее какому-либо событию или влияющее на него",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hal"
+                ],
+                "Azerbaijani": [
+                    "hal"
+                ],
+                "Kazakh": [
+                    "хал"
+                ],
+                "Karakalpak": [
+                    "xál"
+                ],
+                "Tatar": [
+                    "хәл"
+                ],
+                "Bashkir": [
+                    "хәл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vaziyet"
+                ],
+                "Azerbaijani": [
+                    "vəziyyət"
+                ],
+                "Uzbek": [
+                    "vaziyat"
+                ],
+                "Uyghur": [
+                    "ۋەزىيەت"
+                ],
+                "Tatar": [
+                    "вазгыять"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ahwalat",
+                    "ýagdaý"
+                ],
+                "Uzbek": [
+                    "ahvol"
+                ],
+                "Uyghur": [
+                    "ئەھۋال"
+                ],
+                "Kazakh": [
+                    "ахуал"
+                ],
+                "Kyrgyz": [
+                    "абал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şart"
+                ],
+                "Turkmen": [
+                    "şert"
+                ],
+                "Kyrgyz": [
+                    "шарт"
+                ],
+                "Tatar": [
+                    "шарт"
+                ],
+                "Bashkir": [
+                    "шарт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şərait"
+                ],
+                "Uzbek": [
+                    "sharoit"
+                ],
+                "Uyghur": [
+                    "شارائىت"
+                ],
+                "Karakalpak": [
+                    "sharayat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýagdaý"
+                ],
+                "Kazakh": [
+                    "жағдай"
+                ],
+                "Kyrgyz": [
+                    "жагдай"
+                ],
+                "Karakalpak": [
+                    "jaǵday"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "halat"
+                ],
+                "Uzbek": [
+                    "holat"
+                ],
+                "Uyghur": [
+                    "ھالەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "durum"
+                ],
+                "Azerbaijani": [
+                    "durum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koşul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мән-жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кәмият"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ваҡиға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәл-әтүәр"
+                ]
+            }
+        }
+    ]
+}

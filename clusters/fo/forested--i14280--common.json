@@ -1,0 +1,123 @@
+{
+    "id": "i14280",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "forested",
+    "en_definition": "covered with forest",
+    "tr_word": "ormanlık",
+    "tr_definition": "ormanla kaplı olan yer",
+    "ru_word": "лесистый",
+    "ru_definition": "обильно поросший лесом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ormanlık",
+                    "ormanlı"
+                ],
+                "Uzbek": [
+                    "oʻrmonli",
+                    "oʻrmonzor"
+                ],
+                "Uyghur": [
+                    "ئورمانلىق"
+                ],
+                "Kazakh": [
+                    "орманды"
+                ],
+                "Karakalpak": [
+                    "ormanlı"
+                ],
+                "Tatar": [
+                    "урманлы",
+                    "урманлык"
+                ],
+                "Bashkir": [
+                    "урманлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tokaýlyk",
+                    "tokaýly"
+                ],
+                "Kazakh": [
+                    "тоғайлы"
+                ],
+                "Kyrgyz": [
+                    "токойлуу"
+                ],
+                "Karakalpak": [
+                    "toǵaylı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağaçlık"
+                ],
+                "Bashkir": [
+                    "ағаслы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meşelik"
+                ],
+                "Azerbaijani": [
+                    "meşəli",
+                    "meşəlik",
+                    "meşəzar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jeňňellik"
+                ],
+                "Uyghur": [
+                    "جەڭگاللىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "daraxtzor"
+                ],
+                "Uyghur": [
+                    "دەرەخزارلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нулы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "черлүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "куе урманлы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "id": "i76953",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "birthday cake",
+    "en_definition": "decorated cake served at a birthday party",
+    "tr_word": "doğum günü pastası",
+    "tr_definition": "doğum günü partilerinde ikram edilen süslü pasta",
+    "ru_word": "именинный торт",
+    "ru_definition": "украшенный торт, подаваемый на праздновании дня рождения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doğum günü pastası"
+                ],
+                "Azerbaijani": [
+                    "doğum günü tortu"
+                ],
+                "Turkmen": [
+                    "doglan gün torty",
+                    "doglan gün süýjüligi"
+                ],
+                "Uyghur": [
+                    "تۇغۇلغان كۈن تورتى",
+                    "تۇغۇلغان كۈن شىرنىسى"
+                ],
+                "Kazakh": [
+                    "туған күн торты",
+                    "туған күн бәліші"
+                ],
+                "Kyrgyz": [
+                    "туулган күн торту"
+                ],
+                "Karakalpak": [
+                    "tuoılǵan kún tortı",
+                    "tuoılǵan kún bálishti"
+                ],
+                "Tatar": [
+                    "туган көн бәйрәме",
+                    "туган көн торты"
+                ],
+                "Bashkir": [
+                    "тыуған көн бәлеше",
+                    "тыуған көн торты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaş pasta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ad günü tortu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tugʻilgan kun torti",
+                    "tugʻilgan kun pishirigʻi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "майрамдык торт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "таттуу нан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәйрәм күмәче"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "id": "i81436",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gas line",
+    "en_definition": "a queue of vehicles waiting to purchase gasoline",
+    "tr_word": "benzin kuyruğu",
+    "tr_definition": "benzin satın almak için bekleyen araç sırası",
+    "ru_word": "очередь на заправку",
+    "ru_definition": "очередь из автомобилей, ожидающих покупки бензина",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "benzin kuyruğu"
+                ],
+                "Azerbaijani": [
+                    "benzin növbəsi"
+                ],
+                "Turkmen": [
+                    "benzin nobaty"
+                ],
+                "Uzbek": [
+                    "benzin navbati"
+                ],
+                "Uyghur": [
+                    "بېنزىن ئۆچىرىتى"
+                ],
+                "Kazakh": [
+                    "бензин кезегі"
+                ],
+                "Kyrgyz": [
+                    "бензин кезеги"
+                ],
+                "Karakalpak": [
+                    "benzinge náobet"
+                ],
+                "Tatar": [
+                    "бензин чираты"
+                ],
+                "Bashkir": [
+                    "бензинға сират"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yakıt kuyruğu"
+                ],
+                "Uzbek": [
+                    "yoqilg'i navbati"
+                ],
+                "Tatar": [
+                    "ягулык чираты"
+                ],
+                "Bashkir": [
+                    "яғыулыҡҡа сират"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yanacaq növbəsi"
+                ],
+                "Turkmen": [
+                    "ýangyç nobaty"
+                ],
+                "Kazakh": [
+                    "жанармай кезегі"
+                ],
+                "Karakalpak": [
+                    "janar mayǵa náobet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماي ئۆچىرىتى"
+                ],
+                "Kyrgyz": [
+                    "май кезеги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akaryakıt kuyruğu"
+                ]
+            }
+        }
+    ]
+}

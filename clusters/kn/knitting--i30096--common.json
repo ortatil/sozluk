@@ -1,0 +1,84 @@
+{
+    "id": "i30096",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "knitting",
+    "en_definition": "make (textiles) by knitting",
+    "tr_word": "örmek",
+    "tr_definition": "İplikleri birbirine geçirerek kumaş veya giysi oluşturmak",
+    "ru_word": "вязать",
+    "ru_definition": "изготовлять текстильное изделие из нитей путём образования петель",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "örmek"
+                ],
+                "Azerbaijani": [
+                    "hörmək"
+                ],
+                "Turkmen": [
+                    "örmek"
+                ],
+                "Kazakh": [
+                    "өрмелеу",
+                    "өрнектеу"
+                ],
+                "Kyrgyz": [
+                    "өрүү"
+                ],
+                "Karakalpak": [
+                    "órmeleu"
+                ],
+                "Tatar": [
+                    "үрү"
+                ],
+                "Bashkir": [
+                    "үрү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dokumak"
+                ],
+                "Azerbaijani": [
+                    "toxumaq"
+                ],
+                "Turkmen": [
+                    "dokamak"
+                ],
+                "Uzbek": [
+                    "to'qimoq",
+                    "to'qish"
+                ],
+                "Uyghur": [
+                    "توقۇماق",
+                    "توقۇش"
+                ],
+                "Kazakh": [
+                    "тоқу"
+                ],
+                "Kyrgyz": [
+                    "токуу"
+                ],
+                "Karakalpak": [
+                    "toqıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәйләү"
+                ],
+                "Bashkir": [
+                    "бәйләү"
+                ]
+            }
+        }
+    ]
+}

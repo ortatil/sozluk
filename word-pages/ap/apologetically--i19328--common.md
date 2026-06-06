@@ -1,0 +1,203 @@
+# Apologetically
+| Field | Detail |
+|---|---|
+| **ID** | i19328 |
+| **English** | apologetically |
+| **Type** | adverb |
+| **Definition** | in an apologetic manner |
+| **Source** | common |
+| **Ortatil** | itizären |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| өкінішпен | ökinişpen |
+| **Bashkir** | |
+| оялып | oyalıp |
+
+```json
+{
+    "id": "i19328",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "apologetically",
+    "en_definition": "in an apologetic manner",
+    "tr_word": "özür dilercesine",
+    "tr_definition": "özür dileyen bir tavırla, pişmanlık belirterek",
+    "ru_word": "извиняющимся тоном",
+    "ru_definition": "в манере, выражающей извинение или сожаление",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kechirim soʻrab"
+                ],
+                "Uyghur": [
+                    "كەچۈرۈم سوراش تەرىقىدە"
+                ],
+                "Kazakh": [
+                    "кешірім сұрағандай",
+                    "кешірім өтінгендей"
+                ],
+                "Kyrgyz": [
+                    "кечирим сурап",
+                    "кечирим сурагандай"
+                ],
+                "Karakalpak": [
+                    "keshirim sorap"
+                ],
+                "Bashkir": [
+                    "кисереү һорап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "özür dileyerek"
+                ],
+                "Azerbaijani": [
+                    "üzrxahlıqla"
+                ],
+                "Uzbek": [
+                    "uzr bilan"
+                ],
+                "Uyghur": [
+                    "ئۆزرەخاھلىق بىلەن"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pişmanlıkla"
+                ],
+                "Azerbaijani": [
+                    "peşmanlıqla"
+                ],
+                "Turkmen": [
+                    "puşmanlyk bilen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "айыпты болып"
+                ],
+                "Kyrgyz": [
+                    "айыбын сезип"
+                ],
+                "Karakalpak": [
+                    "ayıpkerlershe",
+                    "ayıbın sezip"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өкінішпен"
+                ],
+                "Karakalpak": [
+                    "ókinish penen"
+                ],
+                "Tatar": [
+                    "үкенеч белән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mahcup bir şekilde"
+                ],
+                "Azerbaijani": [
+                    "məhzun-məhzun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "itizaren"
+                ],
+                "Uzbek": [
+                    "aybdorona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təəssüflə"
+                ],
+                "Uzbek": [
+                    "tazarru bilan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ötünç sorap",
+                    "özüni günäkär duýup"
+                ],
+                "Kyrgyz": [
+                    "өкүнүч менен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "günäsini boýnuna alyp"
+                ],
+                "Bashkir": [
+                    "оялып"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hijolatlik bilan"
+                ],
+                "Uyghur": [
+                    "خىجىللىق بىلەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гафу үтенеп",
+                    "гафу сорап",
+                    "гафу итүне сорап"
+                ],
+                "Bashkir": [
+                    "ғәфү үтенеп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәүбә итеп"
+                ]
+            }
+        }
+    ]
+}
+```
+

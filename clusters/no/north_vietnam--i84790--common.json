@@ -1,0 +1,86 @@
+{
+    "id": "i84790",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north vietnam",
+    "en_definition": "a former country in southeastern Asia that existed from 1954 (after the defeat of the French at Dien Bien Phu) until 1975 when South Vietnam collapsed at the end of the Vietnam War",
+    "tr_word": "Kuzey Vietnam",
+    "tr_definition": "1954'te Fransızların yenilgisinden sonra kurulan ve 1975'te Vietnam Savaşı'nın sonunda Güney Vietnam'ın çöküşüne kadar varlığını sürdüren eski bir Güneydoğu Asya ülkesi.",
+    "ru_word": "Северный Вьетнам",
+    "ru_definition": "бывшее государство в Юго-Восточной Азии, существовавшее с 1954 года (после поражения Франции при Дьенбьенфу) до 1975 года, когда Южный Вьетнам пал в конце войны во Вьетнаме.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimali Vyetnam"
+                ],
+                "Uzbek": [
+                    "Shimoliy Vyetnam"
+                ],
+                "Uyghur": [
+                    "شىمالىي ۋىيېتنام",
+                    "شىمالىي ۋېيتنام"
+                ],
+                "Karakalpak": [
+                    "Shimaliy Wetnam"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "Түндүк Вьетнам"
+                ],
+                "Tatar": [
+                    "Төньяк Вьетнам",
+                    "Төньяк Вьетнам Демократик Республикасы"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Вьетнам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Vyetnam Demokratik Respublikası"
+                ],
+                "Bashkir": [
+                    "Вьетнам Демократик Республикаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Vietnam",
+                    "Kuzey Vietnam Cumhuriyeti",
+                    "Vietnam Demokratik Cumhuriyeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk Wýetnam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Солтүстік Вьетнам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Arqa Wetnam"
+                ]
+            }
+        }
+    ]
+}

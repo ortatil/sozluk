@@ -1,0 +1,103 @@
+{
+    "id": "i98107",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "static electricity",
+    "en_definition": "electricity produced by friction",
+    "tr_word": "statik elektrik",
+    "tr_definition": "sürtünme yoluyla oluşan elektrik",
+    "ru_word": "статическое электричество",
+    "ru_definition": "электричество, возникающее в результате трения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "statik elektrik"
+                ],
+                "Azerbaijani": [
+                    "statik elektrik"
+                ],
+                "Turkmen": [
+                    "statik elektrik"
+                ],
+                "Uzbek": [
+                    "statik elektr"
+                ],
+                "Kazakh": [
+                    "статикалық электр"
+                ],
+                "Kyrgyz": [
+                    "статикалык электр"
+                ],
+                "Karakalpak": [
+                    "statikalıq elektr"
+                ],
+                "Tatar": [
+                    "статик электр"
+                ],
+                "Bashkir": [
+                    "статик электр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sürtünmə elektriki"
+                ],
+                "Uyghur": [
+                    "سۈركىلىش توكى"
+                ],
+                "Kyrgyz": [
+                    "сүрүлүү электрдиги"
+                ],
+                "Tatar": [
+                    "сөртү электры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ishqalanish elektri"
+                ],
+                "Tatar": [
+                    "ышкылу электры"
+                ],
+                "Bashkir": [
+                    "ышҡылыу электры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "durgun elektrik"
+                ],
+                "Uyghur": [
+                    "تۇراقلىق توك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үйкеліс электрі"
+                ],
+                "Karakalpak": [
+                    "úykelіs elektrligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sakyndy elektrik"
+                ]
+            }
+        }
+    ]
+}

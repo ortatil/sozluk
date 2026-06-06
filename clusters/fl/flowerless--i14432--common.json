@@ -1,0 +1,113 @@
+{
+    "id": "i14432",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "flowerless",
+    "en_definition": "without flower or bloom and not producing seeds",
+    "tr_word": "çiçeksiz",
+    "tr_definition": "çiçeği veya tomurcuğu olmayan ve tohum üretmeyen",
+    "ru_word": "бесцветковый",
+    "ru_definition": "не имеющий цветков и не образующий семян",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gülsuz"
+                ],
+                "Turkmen": [
+                    "gülüsiz"
+                ],
+                "Uzbek": [
+                    "gulsiz"
+                ],
+                "Uyghur": [
+                    "گۈلسىز"
+                ],
+                "Kazakh": [
+                    "гүлсіз"
+                ],
+                "Kyrgyz": [
+                    "гүлсүз"
+                ],
+                "Karakalpak": [
+                    "gúlsiz"
+                ],
+                "Tatar": [
+                    "гөлсез"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çiçeksiz"
+                ],
+                "Azerbaijani": [
+                    "çiçəksiz"
+                ],
+                "Uzbek": [
+                    "chechaksiz"
+                ],
+                "Uyghur": [
+                    "چېچەكسىز"
+                ],
+                "Karakalpak": [
+                    "sheshekmigen"
+                ],
+                "Tatar": [
+                    "чәчәксез"
+                ],
+                "Bashkir": [
+                    "сәскәһеҙ",
+                    "сәскә атмаған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "güllemeýän"
+                ],
+                "Kazakh": [
+                    "гүл ашпайтын",
+                    "гүлдемейтін"
+                ],
+                "Kyrgyz": [
+                    "гүл ачпаган",
+                    "гүлдөбөгөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yosunsu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tohumsuz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "begul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۈل ئاچمايدىغان"
+                ]
+            }
+        }
+    ]
+}

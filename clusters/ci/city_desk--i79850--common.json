@@ -1,0 +1,136 @@
+{
+    "id": "i79850",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "city desk",
+    "en_definition": "the editorial department of a newspaper that edits the local news",
+    "tr_word": "yerel haberler servisi",
+    "tr_definition": "bir gazetenin yerel haberlerini düzenleyen yazı işleri bölümü",
+    "ru_word": "отдел городских новостей",
+    "ru_definition": "редакционный отдел газеты, занимающийся подготовкой и редактированием местных новостей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yerel haberler masası",
+                    "yerel haberler birimi"
+                ],
+                "Azerbaijani": [
+                    "yerli xəbərlər şöbəsi",
+                    "yerli xəbərlər masası"
+                ],
+                "Turkmen": [
+                    "ýerli habarlar bölümi"
+                ],
+                "Uyghur": [
+                    "يەرلىك خەۋەرلەر بۆلۈمى",
+                    "يەرلىك خەۋەرلەر تەھرىرى"
+                ],
+                "Kazakh": [
+                    "жергілікті бөлім"
+                ],
+                "Kyrgyz": [
+                    "жергиликтүү кабарлар бөлүмү"
+                ],
+                "Karakalpak": [
+                    "jergilikli xabarlar bólimi"
+                ],
+                "Tatar": [
+                    "җирле хәбәрләр бүлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehir haberleri servisi"
+                ],
+                "Azerbaijani": [
+                    "şəhər xəbərləri redaksiyası"
+                ],
+                "Turkmen": [
+                    "şäher habarlary bölümi"
+                ],
+                "Uzbek": [
+                    "shahar xabarlari boʻlimi"
+                ],
+                "Uyghur": [
+                    "شەھەر خەۋەرلىرى تەھرىر بۆلۈمى"
+                ],
+                "Tatar": [
+                    "шәһәр хәбәрләре бүлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "redaksiýanyň ýerli bölümi"
+                ],
+                "Kazakh": [
+                    "редакция бөлімі"
+                ],
+                "Kyrgyz": [
+                    "редакциялык бөлүм"
+                ],
+                "Karakalpak": [
+                    "redakciya bólimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mahalliy xabarlar boʻlimi"
+                ],
+                "Bashkir": [
+                    "урындағы хәбәрҙәр бүлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қалалық бөлім"
+                ],
+                "Bashkir": [
+                    "ҡала хәбәрҙәре бүлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөхәрририят бүлеге"
+                ],
+                "Bashkir": [
+                    "мөхәрририәт бүлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istihbarat servisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tahririyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаардык кабарлар бөлүмү"
+                ]
+            }
+        }
+    ]
+}

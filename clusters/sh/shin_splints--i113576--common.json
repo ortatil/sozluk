@@ -1,0 +1,118 @@
+{
+    "id": "i113576",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shin splints",
+    "en_definition": "painful inflammation of the muscles around the shins; frequent among runners",
+    "tr_word": "kaval kemiği ağrısı",
+    "tr_definition": "koşucular arasında yaygın olan, kaval kemiği çevresindeki kasların ağrılı iltihabı",
+    "ru_word": "воспаление надкостницы",
+    "ru_definition": "болезненное воспаление мышц и тканей вокруг большеберцовой кости, часто встречающееся у бегунов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "baldır ağrısı"
+                ],
+                "Uzbek": [
+                    "boldir ogʻrigʻi",
+                    "boldir mushaklari yalligʻlanishi",
+                    "boldir qaqshashi"
+                ],
+                "Karakalpak": [
+                    "baltır auırıuı",
+                    "baltır sırqırauı",
+                    "baltırdıń qabınuı"
+                ],
+                "Tatar": [
+                    "балтыр авыртуы",
+                    "балтыр сызлавы",
+                    "балтыр ялкынсынуы"
+                ],
+                "Bashkir": [
+                    "балтыр һыҙлауы",
+                    "балтыр ауыртыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "incik ağrısı"
+                ],
+                "Azerbaijani": [
+                    "incik ağrısı"
+                ],
+                "Turkmen": [
+                    "injik agyrysy",
+                    "injik sökelişi",
+                    "injik myşsalarynyň sowuklamasy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ساق ئاغرىقى"
+                ],
+                "Kazakh": [
+                    "сирақ ауруы"
+                ],
+                "Kyrgyz": [
+                    "шыйрак оорусу",
+                    "шыйрактын сыздашы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پاچاق ئاغرىقى"
+                ],
+                "Bashkir": [
+                    "аяҡ һыҙлауы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaval kemiği ağrısı",
+                    "kaval kemiği iltihabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qamış sümüyü ağrısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ساق مۇسكۇل ياللۇغى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жіліншік ауруы",
+                    "жіліншік қабынуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шыйрактын сезгениши"
+                ]
+            }
+        }
+    ]
+}

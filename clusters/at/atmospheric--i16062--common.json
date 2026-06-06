@@ -1,0 +1,123 @@
+{
+    "id": "i16062",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "atmospheric",
+    "en_definition": "relating to or located in the atmosphere",
+    "tr_word": "atmosferik",
+    "tr_definition": "atmosferle ilgili olan veya atmosferde bulunan",
+    "ru_word": "атмосферный",
+    "ru_definition": "относящийся к атмосфере или находящийся в ней",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "atmosferik",
+                    "atmosfere ait"
+                ],
+                "Azerbaijani": [
+                    "atmosfer"
+                ],
+                "Turkmen": [
+                    "atmosfera"
+                ],
+                "Uzbek": [
+                    "atmosferaviy"
+                ],
+                "Uyghur": [
+                    "ئاتموسفېراغا ئائىت"
+                ],
+                "Kazakh": [
+                    "атмосфералық"
+                ],
+                "Kyrgyz": [
+                    "атмосфералык"
+                ],
+                "Karakalpak": [
+                    "atmosferalıq"
+                ],
+                "Tatar": [
+                    "атмосфералы"
+                ],
+                "Bashkir": [
+                    "атмосфералы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "havai",
+                    "havaî"
+                ],
+                "Azerbaijani": [
+                    "hava"
+                ],
+                "Turkmen": [
+                    "howa",
+                    "howadaky"
+                ],
+                "Uzbek": [
+                    "havo"
+                ],
+                "Uyghur": [
+                    "ھاۋاغا ئائىت"
+                ],
+                "Karakalpak": [
+                    "haoalıq"
+                ],
+                "Tatar": [
+                    "һава"
+                ],
+                "Bashkir": [
+                    "һауа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "göy"
+                ],
+                "Tatar": [
+                    "күк"
+                ],
+                "Bashkir": [
+                    "күк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ауалық",
+                    "аспандық"
+                ],
+                "Kyrgyz": [
+                    "абалык"
+                ],
+                "Karakalpak": [
+                    "aspanlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muhitga oid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھاۋا قاتلىمىغا مۇناسىۋەتلىك"
+                ]
+            }
+        }
+    ]
+}

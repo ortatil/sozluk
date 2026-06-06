@@ -1,0 +1,88 @@
+# Sandbag
+| Field | Detail |
+|---|---|
+| **ID** | i58441 |
+| **English** | sandbag |
+| **Type** | noun |
+| **Definition** | a bag filled with sand; used as a weapon or to build walls or as ballast |
+| **Source** | common |
+| **Ortatil** | qumqap |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| құмқап | qumqap |
+
+```json
+{
+    "id": "i58441",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sandbag",
+    "en_definition": "a bag filled with sand; used as a weapon or to build walls or as ballast",
+    "tr_word": "kum torbası",
+    "tr_definition": "İçine kum doldurulmuş, savunma duvarı yapımında, ağırlık olarak veya silah olarak kullanılan torba.",
+    "ru_word": "мешок с песком",
+    "ru_definition": "Мешок, наполненный песком; используется для возведения укреплений, в качестве балласта или как импровизированное оружие.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kum torbası"
+                ],
+                "Azerbaijani": [
+                    "qum torbası",
+                    "qum kisəsi"
+                ],
+                "Turkmen": [
+                    "gum haltasy",
+                    "gumly halta"
+                ],
+                "Uzbek": [
+                    "qum qop",
+                    "qum xalta"
+                ],
+                "Uyghur": [
+                    "قۇم خالتىسى",
+                    "قۇم قاپ"
+                ],
+                "Kazakh": [
+                    "құм қап",
+                    "құм салынған қап",
+                    "құмқап"
+                ],
+                "Kyrgyz": [
+                    "кум кап",
+                    "кум толтурулган кап"
+                ],
+                "Karakalpak": [
+                    "qum qap",
+                    "qum toltırılǵan qap"
+                ],
+                "Tatar": [
+                    "ком капчыгы",
+                    "комлы капчык"
+                ],
+                "Bashkir": [
+                    "ҡом ҡапсығы",
+                    "ҡомло ҡапсыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siper torbası"
+                ]
+            }
+        }
+    ]
+}
+```
+

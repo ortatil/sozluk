@@ -1,0 +1,139 @@
+# Navy bean
+| Field | Detail |
+|---|---|
+| **ID** | i77626 |
+| **English** | navy bean |
+| **Type** | noun |
+| **Definition** | white-seeded bean; usually dried |
+| **Source** | common |
+| **Ortatil** | läwiyä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| үрмебұршақ | ürmeburşaq |
+
+```json
+{
+    "id": "i77626",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "navy bean",
+    "en_definition": "white-seeded bean; usually dried",
+    "tr_word": "kuru fasulye",
+    "tr_definition": "Genellikle kurutularak tüketilen, beyaz tohumlu bir fasulye türü.",
+    "ru_word": "белая фасоль",
+    "ru_definition": "Разновидность фасоли с белыми семенами, обычно употребляемая в сушеном виде.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak fasulye"
+                ],
+                "Azerbaijani": [
+                    "ağ lobya"
+                ],
+                "Turkmen": [
+                    "ak noýba"
+                ],
+                "Uzbek": [
+                    "oq loviya"
+                ],
+                "Uyghur": [
+                    "ئاق لوبىيا"
+                ],
+                "Kazakh": [
+                    "ақ бұршақ"
+                ],
+                "Kyrgyz": [
+                    "ак буурчак"
+                ],
+                "Karakalpak": [
+                    "aq lowiya",
+                    "aq fasol"
+                ],
+                "Tatar": [
+                    "ак фасоль",
+                    "ак бочак"
+                ],
+                "Bashkir": [
+                    "аҡ фасоль",
+                    "аҡ борсаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuru fasulye"
+                ],
+                "Azerbaijani": [
+                    "quru lobya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "loviya"
+                ],
+                "Karakalpak": [
+                    "lowiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاق پۇرچاق"
+                ],
+                "Kyrgyz": [
+                    "ак төө буурчак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz fasulye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "noýba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақ үрмебұршақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үрмебұршақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "төө буурчак"
+                ]
+            }
+        }
+    ]
+}
+```
+

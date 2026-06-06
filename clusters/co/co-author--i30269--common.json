@@ -1,0 +1,130 @@
+{
+    "id": "i30269",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "co-author",
+    "en_definition": "be a co-author on (a book, a paper)",
+    "tr_word": "ortak yazar olmak",
+    "tr_definition": "bir kitabı veya makaleyi başka biriyle birlikte yazmak",
+    "ru_word": "соавторствовать",
+    "ru_definition": "быть соавтором книги или статьи, писать в соавторстве",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "birlikte kaleme almak"
+                ],
+                "Azerbaijani": [
+                    "birlikdə qələmə almaq"
+                ],
+                "Turkmen": [
+                    "bilelikde ýazmak",
+                    "bilelikde döretmek"
+                ],
+                "Uzbek": [
+                    "birgalikda bitmoq"
+                ],
+                "Uyghur": [
+                    "بىرلەشىپ يازماق"
+                ],
+                "Kazakh": [
+                    "бірлесіп жазу"
+                ],
+                "Kyrgyz": [
+                    "бирге жазуу"
+                ],
+                "Karakalpak": [
+                    "birge jazıo"
+                ],
+                "Tatar": [
+                    "бергә язу"
+                ],
+                "Bashkir": [
+                    "бергә яҙыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "awtorlykdaş bolmak"
+                ],
+                "Kazakh": [
+                    "авторлас болу"
+                ],
+                "Kyrgyz": [
+                    "авторлош болуу"
+                ],
+                "Karakalpak": [
+                    "awtorlas bolıo",
+                    "awtorlıq etio"
+                ],
+                "Tatar": [
+                    "автордаш булу",
+                    "автордашлык итү"
+                ],
+                "Bashkir": [
+                    "авторҙаш булыу",
+                    "авторҙашлыҡ итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ortaklaşa yazmak"
+                ],
+                "Uyghur": [
+                    "ئورتاق يازماق"
+                ],
+                "Kazakh": [
+                    "ортақтасып жазу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həmmüəlliflik etmək"
+                ],
+                "Uzbek": [
+                    "hammualliflik qilmoq"
+                ],
+                "Uyghur": [
+                    "ھەمكارلىشىپ يازماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müştereken yazmak"
+                ],
+                "Azerbaijani": [
+                    "müştərək yazmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şərikli yazmaq"
+                ],
+                "Uzbek": [
+                    "sheriklikda yozmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "калемдеш болуу"
+                ]
+            }
+        }
+    ]
+}

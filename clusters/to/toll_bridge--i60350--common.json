@@ -1,0 +1,116 @@
+{
+    "id": "i60350",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "toll bridge",
+    "en_definition": "a bridge where toll is charged for crossing",
+    "tr_word": "ücretli köprü",
+    "tr_definition": "geçiş için ücret ödenmesi gereken köprü",
+    "ru_word": "платный мост",
+    "ru_definition": "мост, за проезд по которому взимается плата",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tölegli köpri"
+                ],
+                "Uzbek": [
+                    "toʻlovli koʻprik"
+                ],
+                "Karakalpak": [
+                    "tólemli kópir"
+                ],
+                "Tatar": [
+                    "түләүле күпер"
+                ],
+                "Bashkir": [
+                    "түләүле күпер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "boj koʻprigi"
+                ],
+                "Uyghur": [
+                    "باجلىق كۆۋرۈك"
+                ],
+                "Kazakh": [
+                    "баж көпірі"
+                ],
+                "Kyrgyz": [
+                    "бажы көпүрөсү"
+                ],
+                "Tatar": [
+                    "бажлы күпер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "paralı köprü"
+                ],
+                "Kazakh": [
+                    "ақылы көпір"
+                ],
+                "Kyrgyz": [
+                    "акылуу көпүрө"
+                ],
+                "Karakalpak": [
+                    "aqılı kópir"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ھەقلىق كۆۋرۈك"
+                ],
+                "Tatar": [
+                    "хаклы күпер"
+                ],
+                "Bashkir": [
+                    "хаҡлы күпер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "geçişi tölegli köpri"
+                ],
+                "Uzbek": [
+                    "haqli koʻprik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ücretli köprü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pullu körpü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ödənişli körpü",
+                    "haqqı ödənilən körpü"
+                ]
+            }
+        }
+    ]
+}

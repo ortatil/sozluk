@@ -1,0 +1,146 @@
+{
+    "id": "i70565",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "grocery list",
+    "en_definition": "a list of groceries to be purchased",
+    "tr_word": "alışveriş listesi",
+    "tr_definition": "satın alınacak gıda ve ev ihtiyaçlarının listesi",
+    "ru_word": "список продуктов",
+    "ru_definition": "список товаров и продуктов питания, которые необходимо купить",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "азық-түлік тізімі"
+                ],
+                "Kyrgyz": [
+                    "азык-түлүк тизмеси"
+                ],
+                "Karakalpak": [
+                    "azıq-túlik dizimi"
+                ],
+                "Tatar": [
+                    "азык-төлек исемлеге",
+                    "ашамлыклар исемлеге"
+                ],
+                "Bashkir": [
+                    "аҙыҡ-түлек исемлеге",
+                    "ашамлыҡтар исемлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pazar listesi"
+                ],
+                "Azerbaijani": [
+                    "bazarlıq siyahısı"
+                ],
+                "Uzbek": [
+                    "bozorlik roʻyxati",
+                    "bozor-oʻchar roʻyxati"
+                ],
+                "Uyghur": [
+                    "بازارلىق تىزىملىكى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "erzak listesi"
+                ],
+                "Azerbaijani": [
+                    "ərzaq siyahısı"
+                ],
+                "Turkmen": [
+                    "azyk sanawy"
+                ],
+                "Bashkir": [
+                    "аҙыҡ исемлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "haryt sanawy"
+                ],
+                "Uzbek": [
+                    "xaridlar roʻyxati"
+                ],
+                "Uyghur": [
+                    "خىراجەت تىزىملىكى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "керек-жарақ тізімі"
+                ],
+                "Kyrgyz": [
+                    "керектүү тизмеси"
+                ],
+                "Karakalpak": [
+                    "kerek-jaraq dizimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سېتىۋېلىش تىزىملىكى"
+                ],
+                "Kyrgyz": [
+                    "сатып алуу тизмеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сауда тізімі"
+                ],
+                "Karakalpak": [
+                    "saoda dizimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alışveriş listesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ihtiyaç listesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "alynjaklaryň sanawy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сатып алулар исемлеге"
+                ]
+            }
+        }
+    ]
+}

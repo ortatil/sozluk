@@ -1,0 +1,213 @@
+# Slit
+| Field | Detail |
+|---|---|
+| **ID** | i59088 |
+| **English** | slit |
+| **Type** | noun |
+| **Definition** | a long narrow opening |
+| **Source** | common |
+| **Ortatil** | jarıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jarıq** | **ḍesik** | **çatqı** |
+|---|---|---|---|
+| Turkish | ✅ | ❌ | ✅ |
+| Azerbaijani | ✅ | ✅ | ✅ |
+| Turkmen | ✅ | ✅ | ✅ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ❌ |
+| Kyrgyz | ✅ | ✅ | ❌ |
+| Karakalpak | ✅ | ✅ | ❌ |
+| Tatar | ✅ | ✅ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.67 | 1 |
+| *Qarluq Subtotal* | 1 | 0 | 0 |
+| *Qipchaq Subtotal* | 1 | 1 | 0 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |
+| **O'TQ** | **4** | **2.17** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| يېرىق | yeriq |
+| يوچۇق | yoçuq |
+| تېشۇق | teşuq |
+| **Kazakh** | |
+| жырық | jırıq |
+| тілік | tilik |
+| тесік | tesik |
+| саңылау | sañılau |
+| **Kyrgyz** | |
+| жарака | jaraka |
+| тилик | tilik |
+| тешик | teşik |
+| оюк | oyuk |
+| **Tatar** | |
+| ярык | yarık |
+| ертык | yertık |
+| тишек | tişek |
+| кисек | kisek |
+| **Bashkir** | |
+| ярыҡ | yarıq |
+| йырыҡ | yırıq |
+| тишек | tişek |
+| киҫек | kisek |
+
+```json
+{
+    "id": "i59088",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "slit",
+    "en_definition": "a long narrow opening",
+    "tr_word": "yarık",
+    "tr_definition": "uzun ve dar açıklık",
+    "ru_word": "щель",
+    "ru_definition": "длинное узкое отверстие",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarık",
+                    "yırtık"
+                ],
+                "Azerbaijani": [
+                    "yarıq"
+                ],
+                "Turkmen": [
+                    "ýaryk"
+                ],
+                "Uzbek": [
+                    "yoriq"
+                ],
+                "Uyghur": [
+                    "يېرىق"
+                ],
+                "Kazakh": [
+                    "жырық"
+                ],
+                "Kyrgyz": [
+                    "жарака"
+                ],
+                "Karakalpak": [
+                    "jırıq",
+                    "jarıq"
+                ],
+                "Tatar": [
+                    "ярык",
+                    "ертык"
+                ],
+                "Bashkir": [
+                    "ярыҡ",
+                    "йырыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kəsik"
+                ],
+                "Turkmen": [
+                    "deşik"
+                ],
+                "Kazakh": [
+                    "тілік",
+                    "тесік"
+                ],
+                "Kyrgyz": [
+                    "тилик",
+                    "тешик"
+                ],
+                "Karakalpak": [
+                    "tіlіk"
+                ],
+                "Tatar": [
+                    "тишек",
+                    "кисек"
+                ],
+                "Bashkir": [
+                    "тишек",
+                    "киҫек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çatlak"
+                ],
+                "Azerbaijani": [
+                    "çat"
+                ],
+                "Turkmen": [
+                    "çat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يوچۇق"
+                ],
+                "Kyrgyz": [
+                    "оюк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саңылау"
+                ],
+                "Karakalpak": [
+                    "sańılau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aralık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məsamə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tirqish",
+                    "darz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shigʻof"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېشۇق"
+                ]
+            }
+        }
+    ]
+}
+```
+

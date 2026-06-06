@@ -1,0 +1,271 @@
+# Devices
+| Field | Detail |
+|---|---|
+| **ID** | i69105 |
+| **English** | devices |
+| **Type** | noun |
+| **Definition** | an inclination or desire; used in the plural in the phrase `left to your own devices' |
+| **Source** | common |
+| **Ortatil** | ihtiyar, erk, arzuw |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ihtiyar** | **erk** | **arzuw** | **mäyl** | **istäk** | **teläk** |
+|---|---|---|---|---|---|---|
+| Turkish | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Kyrgyz | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Tatar | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Bashkir | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0.67 | 0.67 | 0.67 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0.50 | 1 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.60 | 0.20 | 0 | 0 | 0.60 |
+| *In All* | ✅ | ✅ | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |  |  |
+| **O'TQ** | **3.67** | **2.77** | **2.37** | **1.67** | **1.50** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئىختىيار | ixtiyar |
+| ئارزۇ | arzu |
+| مەيل | mäyl |
+| خاھىش | xahiş |
+| **Kazakh** | |
+| ықтияр | ıqtiyar |
+| ерік | yerik |
+| еркіндік | yerkindik |
+| қалау | qalau |
+| ниет | niyet |
+| **Kyrgyz** | |
+| ыктыяр | ıktıyar |
+| эрк | erk |
+| тилек | tilek |
+| каалоо | kaaloo |
+| мүдөө | müdöö |
+| **Tatar** | |
+| ихтыяр | ixtıyar |
+| ихтыяҗ | ixtıyaj |
+| ихтыяр-ирек | ixtıyar-irek |
+| теләк | teläk |
+| **Bashkir** | |
+| ихтыяр | ixtıyar |
+| ихтыяж | ixtıyaj |
+| ихтыяр-көс | ixtıyar-kös |
+| теләк | teläk |
+
+```json
+{
+    "id": "i69105",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "devices",
+    "en_definition": "an inclination or desire; used in the plural in the phrase `left to your own devices'",
+    "tr_word": "kendi haline bırakılmak",
+    "tr_definition": "birinin kendi istekleri veya kararlarıyla baş başa kalması durumu; genellikle 'kendi haline bırakılmak' deyimi içinde kullanılır",
+    "ru_word": "предоставленность самому себе",
+    "ru_definition": "состояние, при котором человек оставлен действовать по собственному усмотрению или желанию; обычно используется во множественном числе в выражении 'left to one's own devices'",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtiyar"
+                ],
+                "Turkmen": [
+                    "ygtyýar"
+                ],
+                "Uzbek": [
+                    "ixtiyor"
+                ],
+                "Uyghur": [
+                    "ئىختىيار"
+                ],
+                "Kazakh": [
+                    "ықтияр"
+                ],
+                "Kyrgyz": [
+                    "ыктыяр"
+                ],
+                "Karakalpak": [
+                    "ıqtiyar"
+                ],
+                "Tatar": [
+                    "ихтыяр",
+                    "ихтыяҗ",
+                    "ихтыяр-ирек"
+                ],
+                "Bashkir": [
+                    "ихтыяр",
+                    "ихтыяж",
+                    "ихтыяр-көс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "irade"
+                ],
+                "Turkmen": [
+                    "erk"
+                ],
+                "Uzbek": [
+                    "erkinlik"
+                ],
+                "Kazakh": [
+                    "ерік",
+                    "еркіндік"
+                ],
+                "Kyrgyz": [
+                    "эрк"
+                ],
+                "Karakalpak": [
+                    "erіk"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "istek"
+                ],
+                "Azerbaijani": [
+                    "istək"
+                ],
+                "Turkmen": [
+                    "isleg"
+                ],
+                "Uzbek": [
+                    "istak"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arzu"
+                ],
+                "Azerbaijani": [
+                    "arzu"
+                ],
+                "Uyghur": [
+                    "ئارزۇ"
+                ],
+                "Kazakh": [
+                    "қалау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "meyil"
+                ],
+                "Turkmen": [
+                    "meýil"
+                ],
+                "Uzbek": [
+                    "mayl"
+                ],
+                "Uyghur": [
+                    "مەيل"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "тилек"
+                ],
+                "Tatar": [
+                    "теләк"
+                ],
+                "Bashkir": [
+                    "теләк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xohish"
+                ],
+                "Uyghur": [
+                    "خاھىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каалоо"
+                ],
+                "Karakalpak": [
+                    "qáleu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "heves"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "keyif"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "murat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rəy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ниет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мүдөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ıqlas"
+                ]
+            }
+        }
+    ]
+}
+```
+

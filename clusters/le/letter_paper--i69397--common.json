@@ -1,0 +1,95 @@
+{
+    "id": "i69397",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stationery",
+    "en_definition": "paper cut to an appropriate size for writing letters; usually with matching envelopes",
+    "tr_word": "kırtasiye",
+    "tr_definition": "Mektup yazmak için uygun boyutta kesilmiş kağıt; genellikle uygun zarflarla birlikte.",
+    "ru_word": "канцелярские товары",
+    "ru_definition": "Бумага, нарезанная до подходящего размера для написания писем; обычно с соответствующими конвертами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazı kağıdı"
+                ],
+                "Azerbaijani": [
+                    "yazı kağızı"
+                ],
+                "Turkmen": [
+                    "ýazuw kagyzy"
+                ],
+                "Kazakh": [
+                    "жазу қағазы"
+                ],
+                "Kyrgyz": [
+                    "жазуу кагазы"
+                ],
+                "Karakalpak": [
+                    "jazıs qaǵazı"
+                ],
+                "Tatar": [
+                    "язу кәгазе"
+                ],
+                "Bashkir": [
+                    "яҙыу ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hat kagyzy"
+                ],
+                "Uzbek": [
+                    "xat qog'ozi"
+                ],
+                "Uyghur": [
+                    "خەت قەغىزى"
+                ],
+                "Kazakh": [
+                    "хат қағазы"
+                ],
+                "Kyrgyz": [
+                    "кат кагазы"
+                ],
+                "Karakalpak": [
+                    "xat qaǵaz"
+                ],
+                "Tatar": [
+                    "хат кәгазе"
+                ],
+                "Bashkir": [
+                    "хат ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mektup kağıdı"
+                ],
+                "Azerbaijani": [
+                    "məktub kağızı"
+                ],
+                "Uzbek": [
+                    "maktub qog'ozi"
+                ],
+                "Uyghur": [
+                    "مەكتۇپ قەغىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "noma qog'ozi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "id": "i85712",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "loch",
+    "en_definition": "Scottish word for a lake",
+    "tr_word": "loş",
+    "tr_definition": "İskoçya'da göl veya dar deniz körfezi için kullanılan terim.",
+    "ru_word": "лох",
+    "ru_definition": "Шотландское название озера или узкого морского залива.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göl",
+                    "gölet"
+                ],
+                "Azerbaijani": [
+                    "göl"
+                ],
+                "Turkmen": [
+                    "köl"
+                ],
+                "Uzbek": [
+                    "ko'l"
+                ],
+                "Uyghur": [
+                    "كۆل"
+                ],
+                "Kazakh": [
+                    "көл"
+                ],
+                "Kyrgyz": [
+                    "көл"
+                ],
+                "Karakalpak": [
+                    "kól"
+                ],
+                "Tatar": [
+                    "күл"
+                ],
+                "Bashkir": [
+                    "күл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "derya"
+                ],
+                "Azerbaijani": [
+                    "dəryaçə"
+                ],
+                "Turkmen": [
+                    "derýaçy"
+                ],
+                "Uzbek": [
+                    "daryocha"
+                ],
+                "Uyghur": [
+                    "دەرياچە"
+                ],
+                "Kazakh": [
+                    "дария"
+                ],
+                "Kyrgyz": [
+                    "дарыя"
+                ],
+                "Karakalpak": [
+                    "dárya"
+                ],
+                "Tatar": [
+                    "дәрья"
+                ],
+                "Bashkir": [
+                    "дәрүә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "havza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айдын"
+                ]
+            }
+        }
+    ]
+}

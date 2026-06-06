@@ -1,0 +1,116 @@
+{
+    "id": "i81209",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "national guard",
+    "en_definition": "United States military reserves recruited by the states and equipped by the federal government; subject to call by either",
+    "tr_word": "ulusal muhafızlar",
+    "tr_definition": "Amerika Birleşik Devletleri'nde eyaletler tarafından toplanan ve federal hükümet tarafından donatılan, hem eyalet hem de federal düzeyde göreve çağrılabilen askeri yedek kuvvetler.",
+    "ru_word": "национальная гвардия",
+    "ru_definition": "Военный резерв США, формируемый штатами и оснащаемый федеральным правительством; может быть призван на службу как штатом, так и федеральными властями.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milli muhafızlar",
+                    "milli muhafız birliği"
+                ],
+                "Azerbaijani": [
+                    "milli qvardiya",
+                    "milli mühafizə dəstəsi",
+                    "milli qoruyucular"
+                ],
+                "Turkmen": [
+                    "milli gwardiýa",
+                    "milli gorag",
+                    "milli goşun"
+                ],
+                "Uzbek": [
+                    "milliy gvardiya",
+                    "milliy qoʻshin",
+                    "milliy lashkar"
+                ],
+                "Uyghur": [
+                    "مىللىي گۋاردىيە"
+                ],
+                "Karakalpak": [
+                    "milliy gwardiya",
+                    "milliy qorǵaushılar"
+                ],
+                "Tatar": [
+                    "милли гвардия",
+                    "милли сак"
+                ],
+                "Bashkir": [
+                    "милли гвардия",
+                    "милли һаҡ",
+                    "милли ғәскәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ulusal muhafızlar"
+                ],
+                "Kazakh": [
+                    "ұлттық ұлан"
+                ],
+                "Kyrgyz": [
+                    "улуттук гвардия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دۆلەت مۇھاپىزەتچى قىسمى",
+                    "دۆلەت مۇداپىئە قىسمى"
+                ],
+                "Tatar": [
+                    "дәүләт сакчылары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мемлекеттік күзет"
+                ],
+                "Karakalpak": [
+                    "mámleketlik gwardiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ihtiyat kuvvetleri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "халықтық жасақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "элдик кошуун"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коргоочу күчтөр"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "id": "i65936",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "umbilical cord",
+    "en_definition": "membranous duct connecting the fetus with the placenta",
+    "tr_word": "göbek bağı",
+    "tr_definition": "fetüsü plasentaya bağlayan ve besin alışverişini sağlayan kordon",
+    "ru_word": "пуповина",
+    "ru_definition": "канатик, соединяющий плод млекопитающих и человека с плацентой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kindik",
+                    "kindik bogʻi",
+                    "kindik ipi"
+                ],
+                "Uyghur": [
+                    "كىندىك بېغى",
+                    "كىندىك تومۇرى"
+                ],
+                "Kazakh": [
+                    "кіндік",
+                    "кіндік бау"
+                ],
+                "Kyrgyz": [
+                    "киндик",
+                    "киндик боо"
+                ],
+                "Karakalpak": [
+                    "kіndіk",
+                    "kіndіk bau"
+                ],
+                "Tatar": [
+                    "кендек",
+                    "кендек бавы"
+                ],
+                "Bashkir": [
+                    "кендек",
+                    "кендек бауы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göbek bağı",
+                    "göbek kordonu"
+                ],
+                "Azerbaijani": [
+                    "göbək bağı",
+                    "göbək cifti"
+                ],
+                "Turkmen": [
+                    "göbek",
+                    "göbek bagy"
+                ]
+            }
+        }
+    ]
+}

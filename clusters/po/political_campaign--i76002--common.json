@@ -1,0 +1,99 @@
+{
+    "id": "i76002",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "political campaign",
+    "en_definition": "a race between candidates for elective office",
+    "tr_word": "seçim kampanyası",
+    "tr_definition": "seçimle gelinen bir makam için adaylar arasında yürütülen yarış",
+    "ru_word": "политическая кампания",
+    "ru_definition": "гонка между кандидатами на выборную должность",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "propaganda çalışması"
+                ],
+                "Turkmen": [
+                    "saýlaw kampaniýasy"
+                ],
+                "Kyrgyz": [
+                    "шайлоо өнөктүгү",
+                    "шайлоо алдындагы иш-чаралар"
+                ],
+                "Karakalpak": [
+                    "saylao kampaniyası",
+                    "saylao gúresi"
+                ],
+                "Tatar": [
+                    "сайлау кампаниясе",
+                    "сайлау көрәше",
+                    "сайлау алды кампаниясе"
+                ],
+                "Bashkir": [
+                    "һайлау кампанияһы",
+                    "һайлау алды көрәше",
+                    "һайлау ярышы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saýlaw öňi işleri",
+                    "saýlaw göreşi"
+                ],
+                "Uzbek": [
+                    "saylov kampaniyasi",
+                    "saylovoldi kurashi"
+                ],
+                "Uyghur": [
+                    "سايلام پائالىيىتى",
+                    "سايلام كۈرىشى",
+                    "سىياسىي پائالىيەت"
+                ],
+                "Kazakh": [
+                    "сайлау науқаны",
+                    "саяси науқан"
+                ],
+                "Karakalpak": [
+                    "saylao aldı nauqanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seçim kampanyası",
+                    "seçim çalışması",
+                    "seçim yarışı"
+                ],
+                "Azerbaijani": [
+                    "seçki kampaniyası",
+                    "seçki təşviqatı",
+                    "seçki mübarizəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үгіт-насихат жұмысы"
+                ],
+                "Kyrgyz": [
+                    "үгүт иштери"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "targʻibot kampaniyasi",
+                    "targʻibot ishlari"
+                ]
+            }
+        }
+    ]
+}

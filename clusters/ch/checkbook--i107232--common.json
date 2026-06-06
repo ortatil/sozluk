@@ -1,0 +1,85 @@
+{
+    "id": "i107232",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "checkbook",
+    "en_definition": "a book issued to holders of checking accounts",
+    "tr_word": "çek defteri",
+    "tr_definition": "banka hesabı sahiplerine verilen ve ödeme yapmak için kullanılan çek yapraklarını içeren defter",
+    "ru_word": "чековая книжка",
+    "ru_definition": "сброшюрованные в виде книжки бланки чеков, выдаваемые банком владельцу текущего счета",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çek defteri"
+                ],
+                "Azerbaijani": [
+                    "çek dəftərçəsi"
+                ],
+                "Turkmen": [
+                    "çek depderçesi"
+                ],
+                "Uzbek": [
+                    "chek daftarchasi",
+                    "chek kitobchasi"
+                ],
+                "Uyghur": [
+                    "چەك دەپتىرى",
+                    "چەك كىتابچىسى"
+                ],
+                "Kazakh": [
+                    "чек кітапшасы"
+                ],
+                "Kyrgyz": [
+                    "чек китепчеси",
+                    "чек китеби"
+                ],
+                "Karakalpak": [
+                    "chek kitapshası",
+                    "chek dápteri"
+                ],
+                "Tatar": [
+                    "чек кенәгәсе",
+                    "чек дәфтәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çek karnesi"
+                ],
+                "Azerbaijani": [
+                    "çek kitabı"
+                ],
+                "Turkmen": [
+                    "çek kitaby"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төлем кітапшасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "чек кенәгәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хисап кенәгәһе"
+                ]
+            }
+        }
+    ]
+}

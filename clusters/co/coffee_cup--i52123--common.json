@@ -1,0 +1,114 @@
+{
+    "id": "i52123",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coffee cup",
+    "en_definition": "a cup from which coffee is drunk",
+    "tr_word": "kahve fincanı",
+    "tr_definition": "içinden kahve içilen küçük kap",
+    "ru_word": "кофейная чашка",
+    "ru_definition": "чашка, из которой пьют кофе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fincan"
+                ],
+                "Azerbaijani": [
+                    "fincan"
+                ],
+                "Turkmen": [
+                    "finjan"
+                ],
+                "Uzbek": [
+                    "finjon"
+                ],
+                "Karakalpak": [
+                    "finjan"
+                ],
+                "Tatar": [
+                    "финҗан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kahve fincanı"
+                ],
+                "Azerbaijani": [
+                    "qəhvə fincanı"
+                ],
+                "Uzbek": [
+                    "qahva finjoni",
+                    "qahva piyolasi"
+                ],
+                "Uyghur": [
+                    "قەھۋە پىيالىسى",
+                    "قەھۋە چىنىسى"
+                ],
+                "Bashkir": [
+                    "ҡәһүә сынаяғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "käse"
+                ],
+                "Kazakh": [
+                    "кесе"
+                ],
+                "Kyrgyz": [
+                    "кесе",
+                    "када"
+                ],
+                "Karakalpak": [
+                    "kese"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шыны"
+                ],
+                "Kyrgyz": [
+                    "чыны"
+                ],
+                "Tatar": [
+                    "чынаяк"
+                ],
+                "Bashkir": [
+                    "сынаяҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kofe käsesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саптыаяқ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "пыяла"
+                ]
+            }
+        }
+    ]
+}

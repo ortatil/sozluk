@@ -1,0 +1,269 @@
+# Startlingly
+| Field | Detail |
+|---|---|
+| **ID** | i21367 |
+| **English** | startlingly |
+| **Type** | adverb |
+| **Definition** | in a startling manner |
+| **Source** | common |
+| **Ortatil** | kötmägän |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kötmägän** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.30** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تۇيۇقسىز | tuyuqsiz |
+| توساتتىن | tosattin |
+| قورقۇنۇچلۇق | qorqunuçluq |
+| **Kazakh** | |
+| таңғаларлықтай | tañğalarlıqtay |
+| таңсық | tañsıq |
+| таң-тамаша | tañ-tamaşa |
+| ерекше | yerekşe |
+| оқыс | oqıs |
+| **Kyrgyz** | |
+| күтүүсүздөн | kütüüsüzdön |
+| **Tatar** | |
+| көтмәгәндә | kötmägändä |
+| гаҗәпләнерлек | gajäplänerlek |
+| аптырарлык | aptırarlık |
+| кинәт | kinät |
+| **Bashkir** | |
+| көтмәгәндә | kötmägändä |
+| ҡапыл | qapıl |
+| аптыратырлыҡ | aptıratırlıq |
+
+```json
+{
+    "id": "i21367",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "startlingly",
+    "en_definition": "in a startling manner",
+    "tr_word": "şaşırtıcı bir şekilde",
+    "tr_definition": "hayret verici veya beklenmedik bir tarzda",
+    "ru_word": "поразительно",
+    "ru_definition": "в высшей степени удивительно или неожиданно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayret verici bir biçimde"
+                ],
+                "Azerbaijani": [
+                    "heyrətamiz"
+                ],
+                "Turkmen": [
+                    "haýran galdyryjy"
+                ],
+                "Uzbek": [
+                    "hayratlanarli"
+                ],
+                "Uyghur": [
+                    "ھەيران قالارلىق دەرىجىدە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kutilmaganda"
+                ],
+                "Kyrgyz": [
+                    "күтүүсүздөн"
+                ],
+                "Karakalpak": [
+                    "kútpegende"
+                ],
+                "Tatar": [
+                    "көтмәгәндә"
+                ],
+                "Bashkir": [
+                    "көтмәгәндә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "geň galdyryjy"
+                ],
+                "Kyrgyz": [
+                    "таң каларлык",
+                    "таң калтырарлык"
+                ],
+                "Bashkir": [
+                    "таң ҡалырлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəfildən"
+                ],
+                "Bashkir": [
+                    "ҡапыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "duýdansyz"
+                ],
+                "Uyghur": [
+                    "تۇيۇقسىز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ajablanarli"
+                ],
+                "Tatar": [
+                    "гаҗәпләнерлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңғаларлықтай",
+                    "таңсық",
+                    "таң-тамаша"
+                ],
+                "Karakalpak": [
+                    "tańqalarlıqtay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ерекше"
+                ],
+                "Karakalpak": [
+                    "ayrıqsha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оқыс"
+                ],
+                "Karakalpak": [
+                    "oqıstan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аптырарлык"
+                ],
+                "Bashkir": [
+                    "аптыратырлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şaşırtıcı bir şekilde",
+                    "beklenmedik bir şekilde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ansızın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təəccüblü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gözlənilmədən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "garaşylmadyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dahshatli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توساتتىن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قورقۇنۇچلۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айран каларлык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кинәт"
+                ]
+            }
+        }
+    ]
+}
+```
+

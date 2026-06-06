@@ -1,0 +1,82 @@
+{
+    "id": "i87757",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north korean",
+    "en_definition": "a Korean from North Korea",
+    "tr_word": "Kuzey Koreli",
+    "tr_definition": "Kuzey Kore vatandaşı olan kimse",
+    "ru_word": "северокореец",
+    "ru_definition": "житель или гражданин Северной Кореи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Koreli"
+                ],
+                "Azerbaijani": [
+                    "şimali koreya vətəndaşı"
+                ],
+                "Uzbek": [
+                    "shimoliy koreyalik",
+                    "shimoliy koreys"
+                ],
+                "Uyghur": [
+                    "شىمالىي كورىيەلىك",
+                    "شىمالىي كورىيە كىشىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şimali koreyalı"
+                ],
+                "Tatar": [
+                    "төньяк корея кешесе"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Корея кешеһе",
+                    "Төньяҡ Кореялы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түндүк корей",
+                    "түндүк кореялык"
+                ],
+                "Tatar": [
+                    "төньяк кореяле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk Koreýaly",
+                    "Demirgazyk Koreý"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстік корей",
+                    "солтүстік кореялық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "arqa koreyalı",
+                    "arqa korey"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "i84873",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "west africa",
+    "en_definition": "an area of western Africa between the Sahara Desert and the Gulf of Guinea",
+    "tr_word": "Batı Afrika",
+    "tr_definition": "Sahra Çölü ile Gine Körfezi arasında yer alan Afrika'nın batı bölgesi",
+    "ru_word": "Западная Африка",
+    "ru_definition": "регион африканского континента, расположенный между пустыней Сахара и Гвинейским заливом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Batı Afrika"
+                ],
+                "Kazakh": [
+                    "Батыс Африка"
+                ],
+                "Kyrgyz": [
+                    "Батыш Африка"
+                ],
+                "Karakalpak": [
+                    "Batıs Afrika"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Qərbi Afrika"
+                ],
+                "Uzbek": [
+                    "G'arbiy Afrika"
+                ],
+                "Uyghur": [
+                    "غەربىي ئافرىقا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Günbatar Afrika"
+                ],
+                "Tatar": [
+                    "Көнбатыш Африка"
+                ],
+                "Bashkir": [
+                    "Көнбайыш Африка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Мәгъриб Африкасы"
+                ]
+            }
+        }
+    ]
+}

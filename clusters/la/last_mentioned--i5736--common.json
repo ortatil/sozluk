@@ -1,0 +1,155 @@
+{
+    "id": "i5736",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "last mentioned",
+    "en_definition": "the one most recently mentioned",
+    "tr_word": "son anılan",
+    "tr_definition": "en son bahsedilen veya adı en son geçen",
+    "ru_word": "последний упомянутый",
+    "ru_definition": "тот, о ком или о чем говорилось в последнюю очередь",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "son zikredilen"
+                ],
+                "Azerbaijani": [
+                    "sonuncu"
+                ],
+                "Turkmen": [
+                    "soňky agzalan",
+                    "soňky ýatlanan"
+                ],
+                "Uzbek": [
+                    "soʻnggi"
+                ],
+                "Kazakh": [
+                    "соңғы айтылған",
+                    "соңғы"
+                ],
+                "Kyrgyz": [
+                    "соңку айтылган"
+                ],
+                "Karakalpak": [
+                    "sońǵı aytılǵan"
+                ],
+                "Tatar": [
+                    "соңгы",
+                    "соңгы әйтелгән"
+                ],
+                "Bashkir": [
+                    "һуңғы",
+                    "һуңғы телгә алынған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mezkur"
+                ],
+                "Azerbaijani": [
+                    "məzkur"
+                ],
+                "Uzbek": [
+                    "mazkur"
+                ],
+                "Uyghur": [
+                    "مەزكۇر"
+                ],
+                "Karakalpak": [
+                    "mázkúr"
+                ],
+                "Bashkir": [
+                    "мәҙкүр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adı geçen"
+                ],
+                "Azerbaijani": [
+                    "adıçəkilən"
+                ],
+                "Turkmen": [
+                    "ady agzalan",
+                    "ady geçen"
+                ],
+                "Tatar": [
+                    "аталган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "axırıncı"
+                ],
+                "Uzbek": [
+                    "oxirgi aytilgan"
+                ],
+                "Kyrgyz": [
+                    "акыркы айтылган"
+                ],
+                "Karakalpak": [
+                    "aqırǵı aytılǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yuqorida zikr etilgan"
+                ],
+                "Uyghur": [
+                    "يۇقىرىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تىلغا ئېلىنغان"
+                ],
+                "Tatar": [
+                    "телгә алынган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "son anılan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بايان قىلىنغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кейінгі аталған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жогоруда аталган"
+                ]
+            }
+        }
+    ]
+}

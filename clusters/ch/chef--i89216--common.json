@@ -1,0 +1,105 @@
+{
+    "id": "i89216",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chef",
+    "en_definition": "a professional cook",
+    "tr_word": "şef",
+    "tr_definition": "profesyonel bir aşçı",
+    "ru_word": "шеф-повар",
+    "ru_definition": "профессиональный повар",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşçı",
+                    "aşçıbaşı"
+                ],
+                "Azerbaijani": [
+                    "aşpaz"
+                ],
+                "Turkmen": [
+                    "aşpaz"
+                ],
+                "Uzbek": [
+                    "oshpaz",
+                    "oshchi"
+                ],
+                "Uyghur": [
+                    "ئاشپەز",
+                    "ئاشپەز بېشى"
+                ],
+                "Kazakh": [
+                    "аспаз",
+                    "аспазшы"
+                ],
+                "Kyrgyz": [
+                    "ашпоз",
+                    "ашпозчу",
+                    "ашчы"
+                ],
+                "Karakalpak": [
+                    "aspaz",
+                    "aspazshı"
+                ],
+                "Tatar": [
+                    "ашпез",
+                    "аш остасы",
+                    "аш пешерүче"
+                ],
+                "Bashkir": [
+                    "ашнаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təamşünas"
+                ],
+                "Uzbek": [
+                    "taomshunos"
+                ],
+                "Uyghur": [
+                    "تاماقپەز"
+                ],
+                "Bashkir": [
+                    "тәмлебикә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бас аспаз"
+                ],
+                "Bashkir": [
+                    "бешерүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tabbah"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mətbəxçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tagamçy"
+                ]
+            }
+        }
+    ]
+}

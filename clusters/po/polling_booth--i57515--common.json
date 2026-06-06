@@ -1,0 +1,105 @@
+{
+    "id": "i57515",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "polling booth",
+    "en_definition": "a temporary booth in a polling place which people enter to cast their votes",
+    "tr_word": "oy verme kabini",
+    "tr_definition": "seçmenlerin oylarını gizli bir şekilde kullanmaları için ayrılmış kapalı alan",
+    "ru_word": "кабина для голосования",
+    "ru_definition": "специально оборудованное место на избирательном участке для тайного заполнения избирательных бюллетеней",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovoz berish kabinasi",
+                    "ovoz berish xonachasi"
+                ],
+                "Kazakh": [
+                    "дауыс беру кабинасы",
+                    "дауыс беру орны"
+                ],
+                "Kyrgyz": [
+                    "добуш берүүчү кабина"
+                ],
+                "Karakalpak": [
+                    "dauıs berio kabinası"
+                ],
+                "Tatar": [
+                    "тавыш бирү кабинасы"
+                ],
+                "Bashkir": [
+                    "тауыш биреү кабинеты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "saylov kabinasi"
+                ],
+                "Kazakh": [
+                    "сайлау кабинасы"
+                ],
+                "Kyrgyz": [
+                    "шайлоо кабинасы"
+                ],
+                "Karakalpak": [
+                    "saylao kabinası"
+                ],
+                "Tatar": [
+                    "сайлау кабинасы"
+                ],
+                "Bashkir": [
+                    "һайлау кабинеты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seçim kabini"
+                ],
+                "Azerbaijani": [
+                    "səsvermə hücrəsi",
+                    "səsvermə köşkü"
+                ],
+                "Turkmen": [
+                    "ses berilýän kabina",
+                    "ses beriş kabinasy",
+                    "ses berilýän ýer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oy verme kabini",
+                    "oy kabini"
+                ],
+                "Azerbaijani": [
+                    "səsvermə kabinəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېلەت تاشلاش ئورنى",
+                    "بېلەت تاشلاش پونكىتى",
+                    "بېلەت تاشلاش كابىنكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "добуш берүүчү жай"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "i104485",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blue-eyed mary",
+    "en_definition": "eastern United States plant with whorls of blue-and-white flowers",
+    "tr_word": "mavi gözlü meryem çiçeği",
+    "tr_definition": "Doğu Amerika Birleşik Devletleri'ne özgü, mavi ve beyaz çiçekleri halkalar halinde dizilmiş bir bitki.",
+    "ru_word": "коллинсия",
+    "ru_definition": "растение восточной части США с мутовками сине-белых цветков.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gök-ak gül",
+                    "gökçe gül"
+                ],
+                "Uzbek": [
+                    "koʻk koʻzli gul",
+                    "koʻk va oq gulli oʻsimlik"
+                ],
+                "Uyghur": [
+                    "كۆك-ئاق گۈللۈك ئۆسۈملۈك"
+                ],
+                "Kazakh": [
+                    "көккөз гүл",
+                    "көкшіл гүл"
+                ],
+                "Kyrgyz": [
+                    "көк гүл",
+                    "көк-ак гүл"
+                ],
+                "Karakalpak": [
+                    "kók gúl",
+                    "kók gúlli ósimlik"
+                ],
+                "Tatar": [
+                    "күк чәчәк",
+                    "күк күзле чәчәк"
+                ],
+                "Bashkir": [
+                    "күк сәскә",
+                    "күк күҙле сәскә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mavi gözlü meryem çiçeği"
+                ],
+                "Azerbaijani": [
+                    "mavi-ağ çiçək",
+                    "mavi gözlü bitki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mavi beyaz çiçekli ot"
+                ],
+                "Azerbaijani": [
+                    "mavi çiçəkli bitki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆك كۆزلۈك مارىيە گۈلى"
+                ]
+            }
+        }
+    ]
+}

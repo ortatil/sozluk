@@ -1,0 +1,99 @@
+{
+    "id": "i89960",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fireman",
+    "en_definition": "a member of a fire department who tries to extinguish fires",
+    "tr_word": "itfaiyeci",
+    "tr_definition": "Yangınları söndürmekle görevli olan itfaiye teşkilatı üyesi.",
+    "ru_word": "пожарный",
+    "ru_definition": "Работник пожарной охраны, занимающийся тушением пожаров.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yanğınsöndürən"
+                ],
+                "Turkmen": [
+                    "ýangyn söndüriji"
+                ],
+                "Uzbek": [
+                    "yongʻin oʻchiruvchi"
+                ],
+                "Tatar": [
+                    "янгын сүндерүче"
+                ],
+                "Bashkir": [
+                    "янғын һүндереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "od söndürən"
+                ],
+                "Turkmen": [
+                    "ot söndüriji"
+                ],
+                "Uyghur": [
+                    "ئوت ئۆچۈرگۈچى",
+                    "ئوت ئۆچۈرۈش خادىمى"
+                ],
+                "Tatar": [
+                    "ут сүндерүче"
+                ],
+                "Bashkir": [
+                    "ут һүндереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻt oʻchiruvchi"
+                ],
+                "Kazakh": [
+                    "өрт сөндіруші",
+                    "өртші"
+                ],
+                "Kyrgyz": [
+                    "өрт өчүрүүчү",
+                    "өртчү"
+                ],
+                "Karakalpak": [
+                    "órt sóndіrushі",
+                    "órtshі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "itfaiyeci",
+                    "itfaiye eri"
+                ],
+                "Azerbaijani": [
+                    "itfaiyəçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tulumbacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆچۈرگۈچى"
+                ]
+            }
+        }
+    ]
+}

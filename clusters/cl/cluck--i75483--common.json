@@ -1,0 +1,94 @@
+{
+    "id": "i75483",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cluck",
+    "en_definition": "the sound made by a hen (as in calling her chicks)",
+    "tr_word": "gıdaklama",
+    "tr_definition": "tavuğun (özellikle yavrularını çağırırken) çıkardığı ses",
+    "ru_word": "кудахтанье",
+    "ru_definition": "звук, издаваемый курицей (например, когда она созывает цыплят)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gıdaklama",
+                    "gıdak",
+                    "gıt-gıt"
+                ],
+                "Kazakh": [
+                    "қыт-қыт",
+                    "қытқыл"
+                ],
+                "Karakalpak": [
+                    "qıt-qıt",
+                    "qıtqıldau"
+                ],
+                "Tatar": [
+                    "кытаклау",
+                    "кытаклаган тавыш",
+                    "кытаклау тавышы"
+                ],
+                "Bashkir": [
+                    "ҡытаҡлау",
+                    "ҡытаҡ",
+                    "ҡыт-ҡыт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qıqqıltı",
+                    "qaqqıltı",
+                    "qıq-qıq"
+                ],
+                "Turkmen": [
+                    "gygyryş"
+                ],
+                "Uzbek": [
+                    "qaqillash",
+                    "qaq-qaq",
+                    "qaqillash ovozi"
+                ],
+                "Uyghur": [
+                    "قاقاس",
+                    "قاقاسلاش",
+                    "قاق-قاق"
+                ],
+                "Kyrgyz": [
+                    "какылдак",
+                    "какылдоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шақыру"
+                ],
+                "Karakalpak": [
+                    "shaqırıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "wak-wak",
+                    "wakyrdy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күтүр",
+                    "күтүрөө"
+                ]
+            }
+        }
+    ]
+}

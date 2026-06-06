@@ -1,0 +1,111 @@
+{
+    "id": "i78556",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "french toast",
+    "en_definition": "bread slice dipped in egg and milk and fried; topped with sugar or fruit or syrup",
+    "tr_word": "yumurtalı ekmek",
+    "tr_definition": "Yumurta ve süte batırıldıktan sonra tavada kızartılan, üzerine şeker, meyve veya şurup eklenerek servis edilen ekmek dilimi.",
+    "ru_word": "гренки",
+    "ru_definition": "Ломтик хлеба, смоченный в яйце и молоке и обжаренный на сковороде; подается с сахаром, фруктами или сиропом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yumurtalı ekmek",
+                    "yumurtalı ekmek kızartması"
+                ],
+                "Azerbaijani": [
+                    "yumurtalı çörək"
+                ],
+                "Turkmen": [
+                    "ýumurtgaly çörek"
+                ],
+                "Kazakh": [
+                    "жұмыртқаға малынған нан"
+                ],
+                "Kyrgyz": [
+                    "жумурткалуу нан"
+                ],
+                "Karakalpak": [
+                    "jұmırtqalı nan"
+                ],
+                "Tatar": [
+                    "йомыркалы икмәк"
+                ],
+                "Bashkir": [
+                    "йомортҡалы икмәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qızardılmış çörək"
+                ],
+                "Tatar": [
+                    "кыздырылган икмәк"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырылған икмәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қуырылған нан"
+                ],
+                "Kyrgyz": [
+                    "куурулган нан"
+                ],
+                "Karakalpak": [
+                    "quırılǵan nan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuxumli non"
+                ],
+                "Uyghur": [
+                    "تۇخۇملۇق نان",
+                    "تۇخۇملۇق بولكا",
+                    "تۇخۇمغا چىلانغان بولكا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ekmek balığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýtli-ýumurtgaly çörek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qovurilgan non"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shirin non"
+                ]
+            }
+        }
+    ]
+}

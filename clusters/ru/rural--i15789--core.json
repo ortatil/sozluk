@@ -1,0 +1,156 @@
+{
+    "id": "i15789",
+    "type": "unknown",
+    "batch": "core",
+    "en_word": "rural",
+    "en_definition": "of or relating to the countryside as opposed to the city",
+    "tr_word": "kırsal",
+    "tr_definition": "Şehir dışındaki, köye ait veya köyü andıran yerler veya yaşam tarzı ile ilgili olan.",
+    "ru_word": "сельский",
+    "ru_definition": "Относящийся к деревне, к жизни в деревне, не городской.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "oba",
+                    "obalyk"
+                ],
+                "Kazakh": [
+                    "ауылдық"
+                ],
+                "Kyrgyz": [
+                    "айылдык"
+                ],
+                "Karakalpak": [
+                    "aoıllıq"
+                ],
+                "Tatar": [
+                    "авыл"
+                ],
+                "Bashkir": [
+                    "ауыл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "dala"
+                ],
+                "Kazakh": [
+                    "далалық"
+                ],
+                "Kyrgyz": [
+                    "талаалык"
+                ],
+                "Karakalpak": [
+                    "dalalıq"
+                ],
+                "Bashkir": [
+                    "дала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qishloq"
+                ],
+                "Kazakh": [
+                    "қыстақтық"
+                ],
+                "Kyrgyz": [
+                    "кыштактык"
+                ],
+                "Bashkir": [
+                    "ҡышҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sahro"
+                ],
+                "Uyghur": [
+                    "سەھرا"
+                ],
+                "Karakalpak": [
+                    "saxıralıq"
+                ],
+                "Bashkir": [
+                    "сәхрә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşra"
+                ],
+                "Azerbaijani": [
+                    "daşra"
+                ],
+                "Turkmen": [
+                    "daşary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırsal"
+                ],
+                "Tatar": [
+                    "кыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kənd",
+                    "kəndli"
+                ],
+                "Uyghur": [
+                    "كەنت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köysel",
+                    "köy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çöl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېزا",
+                    "يېزىچە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төбәк"
+                ]
+            }
+        }
+    ]
+}

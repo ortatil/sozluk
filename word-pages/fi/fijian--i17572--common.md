@@ -1,0 +1,108 @@
+# Fijian
+| Field | Detail |
+|---|---|
+| **ID** | i17572 |
+| **English** | fijian |
+| **Type** | adjective |
+| **Definition** | of or relating to Fiji or its people or language or culture |
+| **Source** | common |
+| **Ortatil** | fici |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **fici** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| فىجىلىق | fijiliq |
+| **Kazakh** | |
+| фиджилік | ficilik |
+| фиджи | fici |
+| **Kyrgyz** | |
+| фижилик | fijilik |
+| фижи | fiji |
+| **Tatar** | |
+| Фиджи | fici |
+| Фиджиныкы | ficinıkı |
+| **Bashkir** | |
+| Фиджи | fici |
+
+```json
+{
+    "id": "i17572",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "fijian",
+    "en_definition": "of or relating to Fiji or its people or language or culture",
+    "tr_word": "Fijili",
+    "tr_definition": "Fiji'ye, halkına, diline veya kültürüne ait olan",
+    "ru_word": "фиджийский",
+    "ru_definition": "относящийся к Фиджи, его народу, языку или культуре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Fijili",
+                    "Fiji"
+                ],
+                "Azerbaijani": [
+                    "fici",
+                    "ficili"
+                ],
+                "Turkmen": [
+                    "fiji",
+                    "fijili"
+                ],
+                "Uzbek": [
+                    "fijilik",
+                    "fijiga oid"
+                ],
+                "Uyghur": [
+                    "فىجىغا ئائىت",
+                    "فىجىلىق"
+                ],
+                "Kazakh": [
+                    "фиджилік",
+                    "фиджи"
+                ],
+                "Kyrgyz": [
+                    "фижилик",
+                    "фижи"
+                ],
+                "Karakalpak": [
+                    "Fidji",
+                    "Fidjilik"
+                ],
+                "Tatar": [
+                    "Фиджи",
+                    "Фиджиныкы"
+                ],
+                "Bashkir": [
+                    "Фиджи",
+                    "Фиджи утрауҙарына ҡараған"
+                ]
+            }
+        }
+    ]
+}
+```
+

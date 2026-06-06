@@ -1,0 +1,90 @@
+{
+    "id": "i40074",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "piano lesson",
+    "en_definition": "a lesson in playing the piano",
+    "tr_word": "piyano dersi",
+    "tr_definition": "piyano çalmayı öğrenmek için alınan ders",
+    "ru_word": "урок фортепиано",
+    "ru_definition": "занятие по обучению игре на фортепиано",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fortepiano dərsi"
+                ],
+                "Turkmen": [
+                    "fortepiano sapagy",
+                    "fortepiano dersi"
+                ],
+                "Uzbek": [
+                    "fortepiano darsi",
+                    "fortepiano sabog'i",
+                    "fortepiano mashg'uloti"
+                ],
+                "Kazakh": [
+                    "фортепиано сабағы"
+                ],
+                "Kyrgyz": [
+                    "фортепиано сабагы"
+                ],
+                "Karakalpak": [
+                    "fortepiano sabaǵı"
+                ],
+                "Tatar": [
+                    "фортепиано дәресе"
+                ],
+                "Bashkir": [
+                    "фортепиано дәресе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "piyano dersi",
+                    "piyano eğitimi",
+                    "piyano kursu"
+                ],
+                "Azerbaijani": [
+                    "piano dərsi",
+                    "piano məşğələsi"
+                ],
+                "Uyghur": [
+                    "پىئانىنو دەرسى",
+                    "پىئانىنو تەلىمى"
+                ],
+                "Karakalpak": [
+                    "pianino sabaǵı"
+                ],
+                "Bashkir": [
+                    "пианино дәресе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күйсандық сабағы",
+                    "күйсандық үйрену"
+                ],
+                "Kyrgyz": [
+                    "күү сабагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "музыка дәресе"
+                ],
+                "Bashkir": [
+                    "музыка дәресе"
+                ]
+            }
+        }
+    ]
+}

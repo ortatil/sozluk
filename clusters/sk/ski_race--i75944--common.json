@@ -1,0 +1,75 @@
+{
+    "id": "i75944",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ski race",
+    "en_definition": "a race between people wearing skis",
+    "tr_word": "kayak yarışı",
+    "tr_definition": "kayak takımları giymiş kişiler arasında yapılan hız veya beceri yarışı",
+    "ru_word": "лыжная гонка",
+    "ru_definition": "соревнование между людьми на лыжах на скорость прохождения дистанции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chang'i poygasi",
+                    "chang'i musobaqasi"
+                ],
+                "Kazakh": [
+                    "шаңғы жарысы",
+                    "шаңғы бәйгесі"
+                ],
+                "Karakalpak": [
+                    "shańǵı jarısı",
+                    "shańǵı báygesi"
+                ],
+                "Tatar": [
+                    "чаңгы ярышы",
+                    "чаңгы бәйгесе"
+                ],
+                "Bashkir": [
+                    "саңғы ярышы",
+                    "саңғы бәйгеһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lyža ýaryşy",
+                    "lyža bäsleşigi"
+                ],
+                "Kyrgyz": [
+                    "лыжа жарышы",
+                    "лыжа чабышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayak yarışı",
+                    "kayak müsabakası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xizək yarışı",
+                    "xizəksürmə yarışı",
+                    "xizək müsabiqəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قار تېيىلىش مۇسابىقىسى",
+                    "قار تېيىلىش بەيگىسى"
+                ]
+            }
+        }
+    ]
+}

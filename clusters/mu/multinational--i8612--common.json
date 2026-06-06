@@ -1,0 +1,117 @@
+{
+    "id": "i8612",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "multinational",
+    "en_definition": "involving or operating in several nations or nationalities",
+    "tr_word": "çok uluslu",
+    "tr_definition": "Birden fazla ulusu veya milliyeti kapsayan veya birkaç ülkede faaliyet gösteren.",
+    "ru_word": "мультинациональный",
+    "ru_definition": "Относящийся к нескольким нациям или действующий на территории нескольких государств.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köpmilletli"
+                ],
+                "Uzbek": [
+                    "koʻpmillatli"
+                ],
+                "Uyghur": [
+                    "كۆپ مىللەتلىك"
+                ],
+                "Kazakh": [
+                    "көпұлтты",
+                    "көпжұртты"
+                ],
+                "Kyrgyz": [
+                    "көп улуттуу",
+                    "көп элдик"
+                ],
+                "Karakalpak": [
+                    "kóp milletli",
+                    "kóp xalıqlı"
+                ],
+                "Tatar": [
+                    "күпмилләтле",
+                    "күпхалыклы"
+                ],
+                "Bashkir": [
+                    "күп милләтле",
+                    "күп халыҡлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "halkara"
+                ],
+                "Uzbek": [
+                    "xalqaro"
+                ],
+                "Uyghur": [
+                    "خەلقئارالىق"
+                ],
+                "Kazakh": [
+                    "халықаралық"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beynelmilel"
+                ],
+                "Azerbaijani": [
+                    "beynəlmiləl"
+                ],
+                "Uzbek": [
+                    "baynalmilal"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milletlerarası"
+                ],
+                "Karakalpak": [
+                    "milletleraralıq"
+                ],
+                "Tatar": [
+                    "милләтара"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çok uluslu"
+                ],
+                "Azerbaijani": [
+                    "çoxmillətli",
+                    "çoxuluslu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دۆلەتلەر ئارا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эл аралык"
+                ]
+            }
+        }
+    ]
+}

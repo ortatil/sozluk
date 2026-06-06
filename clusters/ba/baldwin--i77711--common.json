@@ -1,0 +1,91 @@
+{
+    "id": "i77711",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "baldwin",
+    "en_definition": "an American eating apple with red or yellow and red skin",
+    "tr_word": "baldwin elması",
+    "tr_definition": "Kırmızı veya sarı-kırmızı kabuklu, Amerika kökenli bir yemeklik elma türü.",
+    "ru_word": "болдуин",
+    "ru_definition": "американский сорт столовых яблок с красной или желто-красной кожицей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "alma"
+                ],
+                "Turkmen": [
+                    "alma"
+                ],
+                "Uzbek": [
+                    "olma"
+                ],
+                "Uyghur": [
+                    "ئالما"
+                ],
+                "Kazakh": [
+                    "алма"
+                ],
+                "Kyrgyz": [
+                    "алма"
+                ],
+                "Karakalpak": [
+                    "alma"
+                ],
+                "Tatar": [
+                    "алма"
+                ],
+                "Bashkir": [
+                    "алма",
+                    "алма сорты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyzyl alma"
+                ],
+                "Uzbek": [
+                    "qizil olma"
+                ],
+                "Uyghur": [
+                    "قىزىل ئالما"
+                ],
+                "Kazakh": [
+                    "қызыл алма"
+                ],
+                "Karakalpak": [
+                    "qızıl alma"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kırmızı elma",
+                    "kışlık elma"
+                ],
+                "Azerbaijani": [
+                    "qırmızı alma"
+                ],
+                "Kyrgyz": [
+                    "кызыл алма"
+                ],
+                "Tatar": [
+                    "кызыл алма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tatlı elma"
+                ]
+            }
+        }
+    ]
+}

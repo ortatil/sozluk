@@ -1,0 +1,61 @@
+{
+    "id": "i115324",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "goose grease",
+    "en_definition": "grease derived from geese",
+    "tr_word": "kaz yağı",
+    "tr_definition": "kazlardan elde edilen hayvansal yağ",
+    "ru_word": "гусиный жир",
+    "ru_definition": "жир, вытопленный из гуся",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaz yağı"
+                ],
+                "Azerbaijani": [
+                    "qaz yağı",
+                    "qaz piyi"
+                ],
+                "Turkmen": [
+                    "gaz ýagy",
+                    "gaz içýagy"
+                ],
+                "Uzbek": [
+                    "gʻoz yogʻi",
+                    "gʻoz moyi"
+                ],
+                "Uyghur": [
+                    "غاز مېيى",
+                    "غازنىڭ مېيى"
+                ],
+                "Kazakh": [
+                    "қаз майы"
+                ],
+                "Kyrgyz": [
+                    "каз майы",
+                    "каздын майы"
+                ],
+                "Karakalpak": [
+                    "qaz mayı"
+                ],
+                "Tatar": [
+                    "каз мае",
+                    "каз эчмае"
+                ],
+                "Bashkir": [
+                    "ҡаҙ майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaz donu"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "i54573",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hallstand",
+    "en_definition": "a piece of furniture where coats and hats and umbrellas can be hung; usually has a mirror",
+    "tr_word": "vestiyer",
+    "tr_definition": "palto, şapka ve şemsiyelerin asılabildiği, genellikle aynalı olan giriş mobilyası",
+    "ru_word": "вешалка в прихожей",
+    "ru_definition": "предмет мебели, на который можно повесить пальто, шляпы и зонты; обычно имеет зеркало",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kiyimolgich",
+                    "kiyim osgich"
+                ],
+                "Uyghur": [
+                    "كىيىم ئاسقۇچ",
+                    "كىيىم-كېچەك ئاسقۇچ"
+                ],
+                "Kazakh": [
+                    "киім ілгіш"
+                ],
+                "Kyrgyz": [
+                    "кийим илгич",
+                    "кийим койгуч"
+                ],
+                "Karakalpak": [
+                    "kiyim ilgish"
+                ],
+                "Tatar": [
+                    "кием элгеч"
+                ],
+                "Bashkir": [
+                    "кейем элгес",
+                    "кейем шкафы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ілгіш"
+                ],
+                "Kyrgyz": [
+                    "илгич"
+                ],
+                "Karakalpak": [
+                    "ilgish"
+                ],
+                "Tatar": [
+                    "элгеч"
+                ],
+                "Bashkir": [
+                    "элгес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dəhliz mebeli"
+                ],
+                "Uzbek": [
+                    "dahliz javoni"
+                ],
+                "Uyghur": [
+                    "دالىز ئاسقۇچى"
+                ],
+                "Kazakh": [
+                    "дәліз жиһазы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "askılık"
+                ],
+                "Azerbaijani": [
+                    "asılqan"
+                ],
+                "Turkmen": [
+                    "asgyç",
+                    "eşik asgyç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vestiyer"
+                ],
+                "Turkmen": [
+                    "vestibýul asgyjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "portmanto"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paltarasan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көзгеле элгеч"
+                ]
+            }
+        }
+    ]
+}

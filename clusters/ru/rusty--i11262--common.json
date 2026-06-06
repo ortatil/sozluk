@@ -1,0 +1,102 @@
+{
+    "id": "i11262",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "rusty",
+    "en_definition": "covered with or consisting of rust",
+    "tr_word": "paslı",
+    "tr_definition": "pasla kaplanmış veya pastan oluşan",
+    "ru_word": "ржавый",
+    "ru_definition": "покрытый ржавчиной или состоящий из неё",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "داتلاشقان",
+                    "دات باسقان",
+                    "داتلىق"
+                ],
+                "Kazakh": [
+                    "тат басқан",
+                    "таттанған"
+                ],
+                "Kyrgyz": [
+                    "дат баскан",
+                    "даттуу",
+                    "даттанган"
+                ],
+                "Karakalpak": [
+                    "tat basqan",
+                    "tatlı",
+                    "tatlanǵan"
+                ],
+                "Bashkir": [
+                    "татлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "paslı",
+                    "paslanmış"
+                ],
+                "Azerbaijani": [
+                    "paslı",
+                    "paslanmış",
+                    "pasyemiş"
+                ],
+                "Turkmen": [
+                    "posly",
+                    "poslan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pos basan"
+                ],
+                "Tatar": [
+                    "тут баскан"
+                ],
+                "Bashkir": [
+                    "тут баҫҡан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тотты"
+                ],
+                "Tatar": [
+                    "тутлы"
+                ],
+                "Bashkir": [
+                    "тутлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "küflü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zanglagan",
+                    "zangli",
+                    "zang bosgan"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "id": "i76670",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hot pot",
+    "en_definition": "a stew of meat and potatoes cooked in a tightly covered pot",
+    "tr_word": "güveç",
+    "tr_definition": "et ve sebzelerin toprak bir kapta, kendi suyunda ağır ağır pişirilmesiyle yapılan yemek.",
+    "ru_word": "рагу",
+    "ru_definition": "блюдо из мелко нарезанного мяса и овощей, тушенных в закрытой посуде.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "buğlama"
+                ],
+                "Turkmen": [
+                    "buglama"
+                ],
+                "Uzbek": [
+                    "bo'g'lama"
+                ],
+                "Uyghur": [
+                    "بۇقتۇرما"
+                ],
+                "Kazakh": [
+                    "бұқтырма"
+                ],
+                "Karakalpak": [
+                    "buqtırma"
+                ],
+                "Tatar": [
+                    "бөккән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qazan kababı"
+                ],
+                "Turkmen": [
+                    "gazanlama"
+                ],
+                "Uzbek": [
+                    "qozonkabob"
+                ],
+                "Kazakh": [
+                    "қазан"
+                ],
+                "Kyrgyz": [
+                    "казан кебап"
+                ],
+                "Karakalpak": [
+                    "qazan káuap"
+                ],
+                "Tatar": [
+                    "казан ашы",
+                    "кыздырма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dimlama"
+                ],
+                "Uzbek": [
+                    "dimlama"
+                ],
+                "Uyghur": [
+                    "دۈملىمە"
+                ],
+                "Kyrgyz": [
+                    "демдеме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قورۇما"
+                ],
+                "Kazakh": [
+                    "қуырдақ"
+                ],
+                "Kyrgyz": [
+                    "куурдак"
+                ],
+                "Karakalpak": [
+                    "quırdaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yahni"
+                ],
+                "Uzbek": [
+                    "yaxna"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "быжы"
+                ],
+                "Bashkir": [
+                    "быҡтырма",
+                    "быҡтырылған аш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güveç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tencere yemeği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "etli sebze yemeği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pörtləmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәлеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "быҡтырылған ит"
+                ]
+            }
+        }
+    ]
+}

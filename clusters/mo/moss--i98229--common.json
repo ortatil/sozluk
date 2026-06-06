@@ -1,0 +1,99 @@
+{
+    "id": "i98229",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "moss",
+    "en_definition": "tiny leafy-stemmed flowerless plants",
+    "tr_word": "yosun",
+    "tr_definition": "Genellikle nemli yerlerde, ağaç gövdelerinde veya kayaların üzerinde yetişen, çiçeksiz, çok küçük yapraklı bitkiler.",
+    "ru_word": "мох",
+    "ru_definition": "Мелкое споровое растение, обычно растущее в сырых местах на земле, деревьях или камнях и образующее сплошной покров.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mük"
+                ],
+                "Uzbek": [
+                    "mox"
+                ],
+                "Uyghur": [
+                    "موس"
+                ],
+                "Kazakh": [
+                    "мүк"
+                ],
+                "Kyrgyz": [
+                    "мүк"
+                ],
+                "Karakalpak": [
+                    "múk"
+                ],
+                "Tatar": [
+                    "мүк",
+                    "мүк үләне"
+                ],
+                "Bashkir": [
+                    "мөх",
+                    "мүк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yosun"
+                ],
+                "Azerbaijani": [
+                    "yosun"
+                ],
+                "Uzbek": [
+                    "yo'sin"
+                ],
+                "Uyghur": [
+                    "يۈسۈن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kara yosunu"
+                ],
+                "Kazakh": [
+                    "қына"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mamır"
+                ],
+                "Karakalpak": [
+                    "balır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "göge"
+                ],
+                "Uyghur": [
+                    "كۆك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мамык",
+                    "мамык чөп"
+                ]
+            }
+        }
+    ]
+}

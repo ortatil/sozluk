@@ -1,0 +1,85 @@
+{
+    "id": "i90195",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "geometry teacher",
+    "en_definition": "someone who teaches geometry",
+    "tr_word": "geometri öğretmeni",
+    "tr_definition": "geometri dersi veren kimse",
+    "ru_word": "учитель геометрии",
+    "ru_definition": "человек, который преподает геометрию",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geometri öğretmeni"
+                ],
+                "Turkmen": [
+                    "geometriýa mugallymy",
+                    "geometriýa öwredijisi"
+                ],
+                "Uzbek": [
+                    "geometriya muallimi",
+                    "geometriya oʻqituvchisi"
+                ],
+                "Uyghur": [
+                    "گېئومېتىرىيە ئوقۇتقۇچىسى"
+                ],
+                "Kazakh": [
+                    "геометрия мұғалімі",
+                    "геометрия ұстазы",
+                    "геометрия оқытушысы"
+                ],
+                "Kyrgyz": [
+                    "геометрия мугалими",
+                    "геометрия окутуучусу"
+                ],
+                "Karakalpak": [
+                    "geometriya muǵallimi",
+                    "geometriya oqıtıoshısı",
+                    "geometriya páni muǵallimi"
+                ],
+                "Bashkir": [
+                    "геометрия уҡытыусыһы",
+                    "геометрия мөғәллиме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hendese muallimi"
+                ],
+                "Azerbaijani": [
+                    "həndəsə müəllimi",
+                    "həndəsə müdərrisi"
+                ],
+                "Turkmen": [
+                    "hendese mugallymy"
+                ],
+                "Uzbek": [
+                    "handasa muallimi",
+                    "handasa oʻqituvchisi"
+                ],
+                "Uyghur": [
+                    "ھەندەسە ئوقۇتقۇچىسى",
+                    "ھەندەسە مۇئەللىمى"
+                ],
+                "Tatar": [
+                    "һәндәсә мөгаллиме",
+                    "һәндәсә укытучысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һынлыҡ уҡытыусыһы",
+                    "һынлыҡ мөғәллиме"
+                ]
+            }
+        }
+    ]
+}

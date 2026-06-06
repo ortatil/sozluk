@@ -1,0 +1,151 @@
+{
+    "id": "i81909",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "housing project",
+    "en_definition": "a housing development that is publicly funded and administered for low-income families",
+    "tr_word": "toplu konut projesi",
+    "tr_definition": "Düşük gelirli aileler için kamu tarafından finanse edilen ve yönetilen konut yerleşkesi.",
+    "ru_word": "социальное жильё",
+    "ru_definition": "Жилой комплекс, финансируемый и управляемый государством для семей с низким доходом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sosyal konut"
+                ],
+                "Azerbaijani": [
+                    "sosial mənzil"
+                ],
+                "Turkmen": [
+                    "sosial jaýlar"
+                ],
+                "Kyrgyz": [
+                    "социалдык турак жай"
+                ],
+                "Tatar": [
+                    "социаль торак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dövlət mənzil fondu"
+                ],
+                "Turkmen": [
+                    "döwlet jaýlary"
+                ],
+                "Uzbek": [
+                    "davlat turar joyi"
+                ],
+                "Uyghur": [
+                    "دۆلەت تۇرالغۇ تۈرى"
+                ],
+                "Tatar": [
+                    "дәүләт торагы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ictimai yaşayış kompleksi"
+                ],
+                "Uzbek": [
+                    "ijtimoiy uy-joy"
+                ],
+                "Kyrgyz": [
+                    "мамлекеттик турак жай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "turar joy majmuasi"
+                ],
+                "Kyrgyz": [
+                    "турак жай долбоору"
+                ],
+                "Karakalpak": [
+                    "turaq jay joybarı",
+                    "turaq jay qurılısı",
+                    "mámleketlik turaq jay"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "arzon uy-joylar"
+                ],
+                "Uyghur": [
+                    "ئەرزان باھالىق ئۆي قۇرۇلۇشى"
+                ],
+                "Kazakh": [
+                    "арзан баспана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toplu konut"
+                ],
+                "Bashkir": [
+                    "торлаҡ комплексы",
+                    "торлаҡ массивы",
+                    "торлаҡ кварталы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kamu konutları"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jemgyýetçilik jaýlary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاممىۋى تۇرالغۇ قۇرۇلۇشى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әлеуметтік тұрғын үй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мемлекеттік баспана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "халык торагы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+# Gandhi
+| Field | Detail |
+|---|---|
+| **ID** | i95204 |
+| **English** | gandhi |
+| **Type** | noun |
+| **Definition** | political and spiritual leader during India's struggle with Great Britain for home rule; an advocate of passive resistance (1869-1948) |
+| **Source** | common |
+| **Ortatil** | gandi |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **gandi** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| گەندى | gändi |
+| **Kazakh** | |
+| Ганди | gandi |
+| **Kyrgyz** | |
+| Ганди | gandi |
+| **Tatar** | |
+| Ганди | gandi |
+| **Bashkir** | |
+| Ганди | gandi |
+
+```json
+{
+    "id": "i95204",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gandhi",
+    "en_definition": "political and spiritual leader during India's struggle with Great Britain for home rule; an advocate of passive resistance (1869-1948)",
+    "tr_word": "Gandhi",
+    "tr_definition": "Hindistan'ın Büyük Britanya'ya karşı bağımsızlık mücadelesinin siyasi ve ruhani lideri; pasif direnişin savunucusu (1869-1948).",
+    "ru_word": "Ганди",
+    "ru_definition": "Политический и духовный лидер Индии в период борьбы за независимость от Великобритании; сторонник пассивного сопротивления (1869-1948).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Qandi"
+                ],
+                "Turkmen": [
+                    "Gandi"
+                ],
+                "Uzbek": [
+                    "Gandi"
+                ],
+                "Uyghur": [
+                    "گەندى"
+                ],
+                "Kazakh": [
+                    "Ганди"
+                ],
+                "Kyrgyz": [
+                    "Ганди"
+                ],
+                "Karakalpak": [
+                    "Gandi"
+                ],
+                "Tatar": [
+                    "Ганди"
+                ],
+                "Bashkir": [
+                    "Ганди"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Mahatma Gandhi",
+                    "Mohandas Karamçand Gandi"
+                ],
+                "Azerbaijani": [
+                    "Mahatma Qandi"
+                ],
+                "Turkmen": [
+                    "Mahatma Gandi"
+                ],
+                "Uzbek": [
+                    "Mahatma"
+                ],
+                "Uyghur": [
+                    "ماخاتما گەندى"
+                ],
+                "Kyrgyz": [
+                    "Махатма Ганди"
+                ],
+                "Karakalpak": [
+                    "Maxatma Gandi"
+                ],
+                "Bashkir": [
+                    "Махатма Ганди"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Hindistan'ın ruhani lideri"
+                ],
+                "Azerbaijani": [
+                    "hind lideri"
+                ],
+                "Bashkir": [
+                    "Һиндстан юлбашсыһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pasif direnişin öncüsü"
+                ],
+                "Uzbek": [
+                    "peshvo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "рухани көсем"
+                ],
+                "Tatar": [
+                    "рухи җитәкче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саяси қайраткер"
+                ],
+                "Tatar": [
+                    "сәяси юлбашчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mənəvi rəhbər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yoʻlboshchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rahnamo"
+                ]
+            }
+        }
+    ]
+}
+```
+

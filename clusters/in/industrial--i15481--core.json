@@ -1,0 +1,113 @@
+{
+    "id": "i15481",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "industrial",
+    "en_definition": "of or relating to or resulting from industry",
+    "tr_word": "endüstriyel",
+    "tr_definition": "sanayi ile ilgili veya sanayiden kaynaklanan",
+    "ru_word": "промышленный",
+    "ru_definition": "относящийся к промышленности или являющийся результатом её деятельности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınai",
+                    "sanayi"
+                ],
+                "Azerbaijani": [
+                    "sənaye"
+                ],
+                "Turkmen": [
+                    "senagat",
+                    "senagatlaşan"
+                ],
+                "Uzbek": [
+                    "sanoat",
+                    "sanoatga oid"
+                ],
+                "Uyghur": [
+                    "سانائەت",
+                    "سانائەتكە ئائىت"
+                ],
+                "Kyrgyz": [
+                    "санааттык"
+                ],
+                "Karakalpak": [
+                    "sanaatlıq"
+                ],
+                "Tatar": [
+                    "сәнәгый",
+                    "сәнәгать"
+                ],
+                "Bashkir": [
+                    "сәнәғәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كەسپىي"
+                ],
+                "Kazakh": [
+                    "кәсіптік"
+                ],
+                "Karakalpak": [
+                    "kásip-ónerlik"
+                ],
+                "Bashkir": [
+                    "кәсеп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өнеркәсіптік"
+                ],
+                "Kyrgyz": [
+                    "өнөр жайлык",
+                    "өнөр жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "endüstriyel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istehsalat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "önümçilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ishlab chiqarish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өндірістік"
+                ]
+            }
+        }
+    ]
+}

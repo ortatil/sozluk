@@ -1,0 +1,150 @@
+{
+    "id": "i113411",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "insurance",
+    "en_definition": "protection against future loss",
+    "tr_word": "sigorta",
+    "tr_definition": "gelecekteki kayıplara karşı koruma sağlayan sistem",
+    "ru_word": "страхование",
+    "ru_definition": "защита от возможных будущих убытков или рисков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kepillik"
+                ],
+                "Uzbek": [
+                    "kafolat"
+                ],
+                "Kazakh": [
+                    "кепілдік"
+                ],
+                "Kyrgyz": [
+                    "кепилдик"
+                ],
+                "Karakalpak": [
+                    "kepillik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sigorta"
+                ],
+                "Azerbaijani": [
+                    "sığorta"
+                ],
+                "Uzbek": [
+                    "sug'urta"
+                ],
+                "Uyghur": [
+                    "سۇغۇرتا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teminat"
+                ],
+                "Azerbaijani": [
+                    "təminat"
+                ],
+                "Uzbek": [
+                    "taminot"
+                ],
+                "Tatar": [
+                    "тәэмин"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "амандық"
+                ],
+                "Kyrgyz": [
+                    "амандык"
+                ],
+                "Karakalpak": [
+                    "amanlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иминләштерү",
+                    "иминлек"
+                ],
+                "Bashkir": [
+                    "иминләтеү",
+                    "иминлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ätiýaçlandyrma",
+                    "ätiýaçlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güvence"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zəmanət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىخەتەرلىك كاپالىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сақтандыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "камсыздандыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "saqlandırıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәүефһеҙлек"
+                ]
+            }
+        }
+    ]
+}

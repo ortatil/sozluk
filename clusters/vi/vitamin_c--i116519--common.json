@@ -1,0 +1,95 @@
+{
+    "id": "i116519",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vitamin c",
+    "en_definition": "a vitamin found in fresh fruits (especially citrus fruits) and vegetables; prevents scurvy",
+    "tr_word": "C vitamini",
+    "tr_definition": "Taze meyvelerde (özellikle narenciyede) ve sebzelerde bulunan, skorbüt hastalığını önleyen bir vitamin.",
+    "ru_word": "витамин C",
+    "ru_definition": "Витамин, содержащийся в свежих фруктах (особенно цитрусовых) и овощах; предотвращает цингу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "askorbik asit"
+                ],
+                "Azerbaijani": [
+                    "askorbin turşusu"
+                ],
+                "Turkmen": [
+                    "askorbin turşusy"
+                ],
+                "Uzbek": [
+                    "askorbin kislotasi"
+                ],
+                "Uyghur": [
+                    "ئاسكوربىن كىسلاتاسى"
+                ],
+                "Kazakh": [
+                    "аскорбин қышқылы"
+                ],
+                "Kyrgyz": [
+                    "аскорбин кислотасы"
+                ],
+                "Karakalpak": [
+                    "askorbin qıshqılı"
+                ],
+                "Tatar": [
+                    "аскорбин кислотасы"
+                ],
+                "Bashkir": [
+                    "аскорбин кислотаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "C vitamini"
+                ],
+                "Azerbaijani": [
+                    "C vitamini"
+                ],
+                "Turkmen": [
+                    "C witamini"
+                ],
+                "Kyrgyz": [
+                    "С витамини"
+                ],
+                "Tatar": [
+                    "С витамины"
+                ],
+                "Bashkir": [
+                    "С витамины"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "S vitamini"
+                ],
+                "Kazakh": [
+                    "С дәрумені"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ۋىتامىن سې"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جىنسىيەتسىز ۋىتامىن"
+                ]
+            }
+        }
+    ]
+}

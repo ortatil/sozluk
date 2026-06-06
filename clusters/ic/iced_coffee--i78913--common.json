@@ -1,0 +1,93 @@
+{
+    "id": "i78913",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "iced coffee",
+    "en_definition": "a strong sweetened coffee served over ice with cream",
+    "tr_word": "buzlu kahve",
+    "tr_definition": "Buz üzerine dökülerek servis edilen, genellikle krema ve şeker içeren soğuk kahve.",
+    "ru_word": "кофе со льдом",
+    "ru_definition": "Крепкий подслащенный кофе, подаваемый со льдом и сливками.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buzlu kahve"
+                ],
+                "Azerbaijani": [
+                    "buzlu qəhvə"
+                ],
+                "Turkmen": [
+                    "buzly kofe"
+                ],
+                "Uzbek": [
+                    "muzli qahva"
+                ],
+                "Uyghur": [
+                    "مۇزلۇق قەھۋە"
+                ],
+                "Kyrgyz": [
+                    "муздак кофе"
+                ],
+                "Karakalpak": [
+                    "muzlı kofe"
+                ],
+                "Tatar": [
+                    "бозлы каһвә"
+                ],
+                "Bashkir": [
+                    "боҙло ҡәһүә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soğuk kahve"
+                ],
+                "Azerbaijani": [
+                    "soyuq qəhvə"
+                ],
+                "Turkmen": [
+                    "sowuk kofe"
+                ],
+                "Uzbek": [
+                    "sovuq qahva"
+                ],
+                "Bashkir": [
+                    "һыуыҡ ҡәһүә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "مۇزلىغان قەھۋە"
+                ],
+                "Kazakh": [
+                    "мұздай кофе"
+                ],
+                "Kyrgyz": [
+                    "муздатылган кофе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "салқын кофе"
+                ],
+                "Karakalpak": [
+                    "salqın kofe"
+                ],
+                "Tatar": [
+                    "салкын каһвә"
+                ]
+            }
+        }
+    ]
+}

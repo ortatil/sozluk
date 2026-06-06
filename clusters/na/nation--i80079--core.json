@@ -1,0 +1,154 @@
+{
+    "id": "i80079",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "commonwealth",
+    "en_definition": "a politically organized body of people under a single government",
+    "tr_word": "topluluk",
+    "tr_definition": "tek bir hükümet altında siyasi olarak örgütlenmiş halk topluluğu",
+    "ru_word": "содружество",
+    "ru_definition": "политически организованная группа людей под единым управлением",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "millet"
+                ],
+                "Azerbaijani": [
+                    "millət"
+                ],
+                "Turkmen": [
+                    "millet"
+                ],
+                "Uzbek": [
+                    "millat"
+                ],
+                "Uyghur": [
+                    "مىللەت"
+                ],
+                "Karakalpak": [
+                    "millet"
+                ],
+                "Tatar": [
+                    "милләт"
+                ],
+                "Bashkir": [
+                    "милләт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xalq"
+                ],
+                "Turkmen": [
+                    "halk"
+                ],
+                "Uzbek": [
+                    "xalq"
+                ],
+                "Uyghur": [
+                    "خەلق"
+                ],
+                "Kazakh": [
+                    "халық"
+                ],
+                "Karakalpak": [
+                    "xalıq"
+                ],
+                "Tatar": [
+                    "халык"
+                ],
+                "Bashkir": [
+                    "халыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "el"
+                ],
+                "Uyghur": [
+                    "ئەل"
+                ],
+                "Kazakh": [
+                    "ел"
+                ],
+                "Kyrgyz": [
+                    "эл"
+                ],
+                "Karakalpak": [
+                    "el"
+                ],
+                "Tatar": [
+                    "ил"
+                ],
+                "Bashkir": [
+                    "ил"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ulus"
+                ],
+                "Azerbaijani": [
+                    "ulus"
+                ],
+                "Turkmen": [
+                    "ulus"
+                ],
+                "Uzbek": [
+                    "ulus"
+                ],
+                "Kazakh": [
+                    "ұлт"
+                ],
+                "Kyrgyz": [
+                    "улут"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұрт"
+                ],
+                "Kyrgyz": [
+                    "журт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мемлекет"
+                ],
+                "Kyrgyz": [
+                    "мамлекет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دۆلەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "budun"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "id": "i57647",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "prescription drug",
+    "en_definition": "a drug that is available only with written instructions from a doctor or dentist to a pharmacist",
+    "tr_word": "reçeteli ilaç",
+    "tr_definition": "sadece bir doktor veya diş hekimi tarafından yazılan yazılı talimatla eczaneden alınabilen ilaç",
+    "ru_word": "рецептурный препарат",
+    "ru_definition": "лекарство, которое можно приобрести в аптеке только по письменному назначению врача или стоматолога",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "reçeteli ilaç",
+                    "reçeteye tabi ilaç"
+                ],
+                "Azerbaijani": [
+                    "reseptli dərman",
+                    "reseptlə satılan dərman"
+                ],
+                "Turkmen": [
+                    "reseptli derman"
+                ],
+                "Uzbek": [
+                    "retseptli dori"
+                ],
+                "Uyghur": [
+                    "رېتسېپلىق دورا",
+                    "رېتسېپ بىلەن بېرىلىدىغان دورا"
+                ],
+                "Kazakh": [
+                    "рецептілік дәрі"
+                ],
+                "Kyrgyz": [
+                    "рецепттик дары",
+                    "рецепт менен берилүүчү дары"
+                ],
+                "Karakalpak": [
+                    "recept penen beriletuǵın dári",
+                    "receptli dári-dármaq"
+                ],
+                "Tatar": [
+                    "рецептлы дару"
+                ],
+                "Bashkir": [
+                    "рецептлы дарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "им-том"
+                ],
+                "Bashkir": [
+                    "им"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дәва"
+                ],
+                "Bashkir": [
+                    "дауа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lukman derman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shifokor ruxsatli dori"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "buyurilgan dori"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нұсқаулық дәрі",
+                    "дәрігерлік нұсқаумен берілетін дәрі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дары-дармек"
+                ]
+            }
+        }
+    ]
+}

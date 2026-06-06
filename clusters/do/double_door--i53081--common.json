@@ -1,0 +1,102 @@
+{
+    "id": "i53081",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "double door",
+    "en_definition": "two vertical doors that meet in the middle of the door frame when closed",
+    "tr_word": "çift kanatlı kapı",
+    "tr_definition": "kapandığında kapı çerçevesinin ortasında birleşen iki dikey kapı kanadı",
+    "ru_word": "двустворчатая дверь",
+    "ru_definition": "две вертикальные дверные створки, которые при закрытии сходятся посередине дверной рамы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşa qapı"
+                ],
+                "Turkmen": [
+                    "goşa gapy"
+                ],
+                "Uzbek": [
+                    "qoʻsh tabaqali eshik",
+                    "qoʻsh tabaqa"
+                ],
+                "Uyghur": [
+                    "قوش قاناتلىق ئىشىك",
+                    "قوش تەبىقلىق ئىشىك",
+                    "قوش قاپلىق ئىشىك"
+                ],
+                "Kazakh": [
+                    "қос қақпақ",
+                    "қос есік"
+                ],
+                "Kyrgyz": [
+                    "кош каалга",
+                    "кош эшик"
+                ],
+                "Karakalpak": [
+                    "qos qanatlı esik",
+                    "qos pallı esik"
+                ],
+                "Tatar": [
+                    "куш ишек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çift kanatlı kapı",
+                    "iki kanatlı kapı"
+                ],
+                "Turkmen": [
+                    "iki ganatly gapy"
+                ],
+                "Uzbek": [
+                    "ikki tabaqali eshik"
+                ],
+                "Kyrgyz": [
+                    "эки канаттуу эшик"
+                ],
+                "Tatar": [
+                    "ике канатлы ишек"
+                ],
+                "Bashkir": [
+                    "ике ҡапҡаслы ишек",
+                    "ике ҡанатлы ишек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ikiqanadlı qapı",
+                    "ikiqat qapı"
+                ],
+                "Kazakh": [
+                    "екі жармалы есік"
+                ],
+                "Karakalpak": [
+                    "ekі qanatlı esik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çiftli kapı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "juft tabaqali eshik"
+                ]
+            }
+        }
+    ]
+}

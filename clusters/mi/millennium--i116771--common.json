@@ -1,0 +1,75 @@
+{
+    "id": "i116771",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "millennium",
+    "en_definition": "a span of 1000 years",
+    "tr_word": "milenyum",
+    "tr_definition": "bin yıllık bir zaman dilimi",
+    "ru_word": "тысячелетие",
+    "ru_definition": "период времени в тысячу лет",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "minillik",
+                    "minil"
+                ],
+                "Uzbek": [
+                    "mingyillik",
+                    "ming yillik"
+                ],
+                "Uyghur": [
+                    "مىڭ يىللىق",
+                    "مىڭ يىل"
+                ],
+                "Kazakh": [
+                    "мыңжылдық",
+                    "мың жыл"
+                ],
+                "Kyrgyz": [
+                    "миң жылдык",
+                    "миң жыл"
+                ],
+                "Karakalpak": [
+                    "mıńjıllıq",
+                    "mıń jıl"
+                ],
+                "Tatar": [
+                    "меңьеллык"
+                ],
+                "Bashkir": [
+                    "мең йыллыҡ",
+                    "меңйыллыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "milenyum"
+                ],
+                "Tatar": [
+                    "мең ел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "binyıl",
+                    "bin sene"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "müňýyllyk",
+                    "müň ýyl"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "id": "i18623",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "below",
+    "en_definition": "in or to a place that is lower",
+    "tr_word": "aşağıda",
+    "tr_definition": "daha alçak bir yerde veya konumda",
+    "ru_word": "внизу",
+    "ru_definition": "в месте, расположенном ниже",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ostda"
+                ],
+                "Uyghur": [
+                    "ئاستىدا"
+                ],
+                "Kazakh": [
+                    "астында"
+                ],
+                "Kyrgyz": [
+                    "астында"
+                ],
+                "Karakalpak": [
+                    "astında"
+                ],
+                "Tatar": [
+                    "аста",
+                    "аска"
+                ],
+                "Bashkir": [
+                    "аҫта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەندە",
+                    "تۆۋەنگە"
+                ],
+                "Kazakh": [
+                    "төмен",
+                    "төменде"
+                ],
+                "Kyrgyz": [
+                    "төмөн"
+                ],
+                "Karakalpak": [
+                    "tómen",
+                    "tómende"
+                ],
+                "Tatar": [
+                    "түбәндә"
+                ],
+                "Bashkir": [
+                    "түбәндә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşağıda",
+                    "aşağıya"
+                ],
+                "Azerbaijani": [
+                    "aşağıda"
+                ],
+                "Turkmen": [
+                    "aşakda",
+                    "aşak",
+                    "aşaky"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "altta"
+                ],
+                "Azerbaijani": [
+                    "altda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pesde"
+                ],
+                "Uzbek": [
+                    "pastda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quyida"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ылдый"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "i39802",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "yawning",
+    "en_definition": "an involuntary intake of breath through a wide open mouth; usually triggered by fatigue or boredom",
+    "tr_word": "esneme",
+    "tr_definition": "yorgunluk veya can sıkıntısı nedeniyle ağzın genişçe açılarak istemsizce nefes alınması",
+    "ru_word": "зевота",
+    "ru_definition": "непроизвольный глубокий вдох с широко открытым ртом, обычно вызванный усталостью или скукой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "esneme",
+                    "esneyiş"
+                ],
+                "Azerbaijani": [
+                    "əsınəmə",
+                    "əsınək"
+                ],
+                "Uzbek": [
+                    "eshnash"
+                ],
+                "Kazakh": [
+                    "есінеу",
+                    "есінеуік"
+                ],
+                "Karakalpak": [
+                    "esineu"
+                ],
+                "Tatar": [
+                    "иснәү",
+                    "иснәүлек"
+                ],
+                "Bashkir": [
+                    "иҫнәү",
+                    "иҫнәүлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "og'iz ochish"
+                ],
+                "Uyghur": [
+                    "ئېغىز ئېچىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pallaw",
+                    "pallama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھاسا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эстөө",
+                    "эстөөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "esinep-qoru"
+                ]
+            }
+        }
+    ]
+}

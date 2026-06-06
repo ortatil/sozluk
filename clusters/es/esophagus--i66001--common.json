@@ -1,0 +1,122 @@
+{
+    "id": "i66001",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "esophagus",
+    "en_definition": "the passage between the pharynx and the stomach",
+    "tr_word": "yemek borusu",
+    "tr_definition": "yutak ile mide arasındaki sindirim kanalı bölümü",
+    "ru_word": "пищевод",
+    "ru_definition": "часть пищеварительного тракта, соединяющая глотку с желудком",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ödek"
+                ],
+                "Kazakh": [
+                    "өңеш"
+                ],
+                "Kyrgyz": [
+                    "өңгөч"
+                ],
+                "Karakalpak": [
+                    "óńesh"
+                ],
+                "Tatar": [
+                    "үңәч"
+                ],
+                "Bashkir": [
+                    "үңәс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyzylödek"
+                ],
+                "Uzbek": [
+                    "qiziloʻngach"
+                ],
+                "Uyghur": [
+                    "قىزىلۆڭگەچ"
+                ],
+                "Kyrgyz": [
+                    "кызыл өңгөч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tamoq"
+                ],
+                "Kazakh": [
+                    "тамақ"
+                ],
+                "Karakalpak": [
+                    "tamaq"
+                ],
+                "Bashkir": [
+                    "тамаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "merî"
+                ],
+                "Azerbaijani": [
+                    "məri"
+                ],
+                "Uyghur": [
+                    "مەرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻngach"
+                ],
+                "Uyghur": [
+                    "ئۆڭگەچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemek borusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qida borusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iýmit ýoly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ашау юлы"
+                ]
+            }
+        }
+    ]
+}

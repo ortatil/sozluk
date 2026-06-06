@@ -1,0 +1,80 @@
+{
+    "id": "i115929",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "plant product",
+    "en_definition": "a product made from plant material",
+    "tr_word": "bitkisel ürün",
+    "tr_definition": "bitki materyalinden yapılmış ürün",
+    "ru_word": "растительный продукт",
+    "ru_definition": "продукт, изготовленный из растительного сырья",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ösümlik önümi"
+                ],
+                "Uzbek": [
+                    "oʻsimlik mahsuloti"
+                ],
+                "Uyghur": [
+                    "ئۆسۈملۈك مەھسۇلاتى"
+                ],
+                "Kazakh": [
+                    "өсімдік өнімі",
+                    "өсімдік заты"
+                ],
+                "Kyrgyz": [
+                    "өсүмдүк азыгы",
+                    "өсүмдүк продукциясы",
+                    "өсүмдүк заты"
+                ],
+                "Karakalpak": [
+                    "ósimlik ónimi",
+                    "ósimlik zatı"
+                ],
+                "Tatar": [
+                    "үсемлек продукциясе",
+                    "үсемлек эшләнмәсе",
+                    "үсемлек матдәсе"
+                ],
+                "Bashkir": [
+                    "үҫемлек продукцияһы",
+                    "үҫемлек матдәһе",
+                    "үҫемлек әйбере"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nebatî mahsul"
+                ],
+                "Azerbaijani": [
+                    "nəbatat məhsulu"
+                ],
+                "Turkmen": [
+                    "nabat önümi"
+                ],
+                "Uzbek": [
+                    "nabotot mahsuloti"
+                ],
+                "Uyghur": [
+                    "نباتات مەھسۇلاتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bitkisel ürün"
+                ],
+                "Azerbaijani": [
+                    "bitki məhsulu"
+                ]
+            }
+        }
+    ]
+}

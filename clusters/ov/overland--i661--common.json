@@ -1,0 +1,108 @@
+{
+    "id": "i661",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "overland",
+    "en_definition": "traveling or passing over land",
+    "tr_word": "karadan",
+    "tr_definition": "Deniz veya hava yolu yerine kara yolu üzerinden yapılan yolculuk.",
+    "ru_word": "сухопутный",
+    "ru_definition": "Передвигающийся или совершаемый по суше, а не по воде или воздуху.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yerüstü"
+                ],
+                "Turkmen": [
+                    "ýerüsti"
+                ],
+                "Uzbek": [
+                    "yer ustidagi"
+                ],
+                "Kazakh": [
+                    "жерүсті"
+                ],
+                "Kyrgyz": [
+                    "жердеги"
+                ],
+                "Karakalpak": [
+                    "jerdegi",
+                    "jer ústindegi"
+                ],
+                "Tatar": [
+                    "җир өсте",
+                    "җир юлы"
+                ],
+                "Bashkir": [
+                    "ер өҫтө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "quru",
+                    "quruluq"
+                ],
+                "Turkmen": [
+                    "gury ýer",
+                    "gury ýoldaky"
+                ],
+                "Uzbek": [
+                    "quruqlikdagi"
+                ],
+                "Uyghur": [
+                    "قۇرۇقلۇقتىكى",
+                    "قۇرۇقلۇق يولى بىلەن",
+                    "قۇرۇقلۇق ئارقىلىق"
+                ],
+                "Kazakh": [
+                    "құрлықтағы",
+                    "құрлық жолымен"
+                ],
+                "Kyrgyz": [
+                    "кургактагы"
+                ],
+                "Karakalpak": [
+                    "qurlıqtaǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karadan",
+                    "kara yoluyla"
+                ],
+                "Kyrgyz": [
+                    "кургак жолдогу"
+                ],
+                "Tatar": [
+                    "коры җир"
+                ],
+                "Bashkir": [
+                    "ҡоро ерҙәге",
+                    "ҡоро ер аша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "berri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yoʻl"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": "synset-oewn-92462963-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "radio dispatch",
+    "en_definition": "a dispatch sent via radio transmission.",
+    "tr_word": "telsiz sevkiyatı",
+    "tr_definition": "Radyo dalgaları aracılığıyla gönderilen talimat veya mesaj.",
+    "ru_word": "радиодиспетчеризация",
+    "ru_definition": "Передача распоряжений или сообщений по радиосвязи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "radio ismarışı",
+                    "radio məlumatı"
+                ],
+                "Turkmen": [
+                    "radio habary",
+                    "radio arkaly habarlaşyk",
+                    "radio maglumaty"
+                ],
+                "Uzbek": [
+                    "radioaloqa",
+                    "radiomuloqot",
+                    "radiouzatma",
+                    "radiomaxsus"
+                ],
+                "Uyghur": [
+                    "رادىئو ئۇقتۇرۇشى",
+                    "رادىئو يوللانمىسى"
+                ],
+                "Kazakh": [
+                    "радиохабар",
+                    "радиомәлімет",
+                    "радиохабарлама"
+                ],
+                "Kyrgyz": [
+                    "радиобилдирүү",
+                    "радиокабар",
+                    "радиожолдомо"
+                ],
+                "Karakalpak": [
+                    "radioxabar",
+                    "radiomálimleme",
+                    "radiojollama"
+                ],
+                "Tatar": [
+                    "радиохәбәр",
+                    "радиотапшыру",
+                    "радиомәгълүмат"
+                ],
+                "Bashkir": [
+                    "радиохәбәр",
+                    "радиотапшырыу",
+                    "радиомәғлүмәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "telsiz anonsu",
+                    "telsiz mesajı",
+                    "telsiz bildirimi",
+                    "telsiz emri"
+                ],
+                "Azerbaijani": [
+                    "telsiz xəbəri",
+                    "telsiz bildirişi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سىمسىز خەۋەر"
+                ]
+            }
+        }
+    ]
+}

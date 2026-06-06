@@ -1,0 +1,99 @@
+{
+    "id": "i103362",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fruit tree",
+    "en_definition": "tree bearing edible fruit",
+    "tr_word": "meyve ağacı",
+    "tr_definition": "yenilebilir meyve veren ağaç",
+    "ru_word": "фруктовое дерево",
+    "ru_definition": "дерево, дающее съедобные плоды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyve ağacı"
+                ],
+                "Azerbaijani": [
+                    "meyvə ağacı"
+                ],
+                "Turkmen": [
+                    "miwe agajy"
+                ],
+                "Uzbek": [
+                    "mevali daraxt",
+                    "mevador daraxt"
+                ],
+                "Uyghur": [
+                    "مېۋىلىك دەرەخ",
+                    "مېۋە دەرىخى"
+                ],
+                "Karakalpak": [
+                    "miyueli terek",
+                    "miueli terek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yemiş ağacı"
+                ],
+                "Turkmen": [
+                    "iýmiş agajy"
+                ],
+                "Kazakh": [
+                    "жеміс ағашы"
+                ],
+                "Kyrgyz": [
+                    "жемиш багы",
+                    "жемиш дарагы"
+                ],
+                "Tatar": [
+                    "җимеш агачы"
+                ],
+                "Bashkir": [
+                    "емеш ағасы",
+                    "емеш-еләк ағасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "barlı ağaç"
+                ],
+                "Azerbaijani": [
+                    "barlı ağac"
+                ],
+                "Uzbek": [
+                    "barli daraxt"
+                ],
+                "Kazakh": [
+                    "бау ағашы"
+                ],
+                "Tatar": [
+                    "бакча агачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мөмө багы",
+                    "мөмөлүү дарак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "baǵ teregi"
+                ]
+            }
+        }
+    ]
+}

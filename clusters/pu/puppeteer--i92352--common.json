@@ -1,0 +1,81 @@
+{
+    "id": "i92352",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "puppeteer",
+    "en_definition": "one who operates puppets or marionettes",
+    "tr_word": "kuklacı",
+    "tr_definition": "kuklaları veya ipli kuklaları oynatan kimse",
+    "ru_word": "кукловод",
+    "ru_definition": "человек, который управляет куклами или марионетками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuklacı"
+                ],
+                "Azerbaijani": [
+                    "kuklaçı"
+                ],
+                "Kyrgyz": [
+                    "куурчакчы",
+                    "куурчак ойнотуучу"
+                ],
+                "Tatar": [
+                    "курчакчы",
+                    "курчак уйнатучы"
+                ],
+                "Bashkir": [
+                    "ҡурсаҡсы",
+                    "ҡурсаҡ уйнатыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gurjakçy",
+                    "gurjak oýnatgyçy"
+                ],
+                "Uyghur": [
+                    "قورچاقچى",
+                    "قورچاق ئويوناتقۇچى",
+                    "قورچاقۋاز"
+                ],
+                "Kazakh": [
+                    "қуыршақшы",
+                    "қуыршақ ойнатушы"
+                ],
+                "Karakalpak": [
+                    "quırshaqpaz",
+                    "quırshaq oynatıoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hayali",
+                    "hayalbaz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "oyunbaz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qo'g'irchoqboz",
+                    "qo'g'irchoq o'ynatuvchi"
+                ]
+            }
+        }
+    ]
+}

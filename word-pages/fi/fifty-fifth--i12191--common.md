@@ -1,0 +1,67 @@
+# Fifty-fifth
+| Field | Detail |
+|---|---|
+| **ID** | i12191 |
+| **English** | fifty-fifth |
+| **Type** | adjective |
+| **Definition** | the ordinal number of fifty-five in counting order |
+| **Source** | common |
+| **Ortatil** | ellibeşinci |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i12191",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "fifty-fifth",
+    "en_definition": "the ordinal number of fifty-five in counting order",
+    "tr_word": "elli beşinci",
+    "tr_definition": "elli beş sayısının sıra sayı hali",
+    "ru_word": "пятьдесят пятый",
+    "ru_definition": "порядковое числительное, соответствующее числу пятьдесят пять",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ellibeşinci",
+                    "elli beşinci"
+                ],
+                "Azerbaijani": [
+                    "əlli beşinci"
+                ],
+                "Turkmen": [
+                    "elli bäşinji"
+                ],
+                "Uzbek": [
+                    "ellik beshinchi"
+                ],
+                "Uyghur": [
+                    "ئەللىك بەشىنچى"
+                ],
+                "Kazakh": [
+                    "елу бесінші"
+                ],
+                "Kyrgyz": [
+                    "элүү бешинчи"
+                ],
+                "Karakalpak": [
+                    "elli besinshi",
+                    "elli besinshisi"
+                ],
+                "Tatar": [
+                    "илле бишенче"
+                ],
+                "Bashkir": [
+                    "илле бишенсе"
+                ]
+            }
+        }
+    ]
+}
+```
+

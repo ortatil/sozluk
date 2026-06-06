@@ -1,0 +1,91 @@
+{
+    "id": "i44714",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hen",
+    "en_definition": "adult female chicken",
+    "tr_word": "tavuk",
+    "tr_definition": "yetişkin dişi tavuk",
+    "ru_word": "курица",
+    "ru_definition": "взрослая самка курицы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavuk"
+                ],
+                "Azerbaijani": [
+                    "toyuq"
+                ],
+                "Turkmen": [
+                    "towuk"
+                ],
+                "Uzbek": [
+                    "tovuq"
+                ],
+                "Uyghur": [
+                    "تۇخۇمچى توخۇ"
+                ],
+                "Kazakh": [
+                    "тауық"
+                ],
+                "Kyrgyz": [
+                    "тоок"
+                ],
+                "Karakalpak": [
+                    "taoıq"
+                ],
+                "Tatar": [
+                    "тавык"
+                ],
+                "Bashkir": [
+                    "тауыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "maki"
+                ],
+                "Turkmen": [
+                    "mäkiýan"
+                ],
+                "Uzbek": [
+                    "moki"
+                ],
+                "Uyghur": [
+                    "مەكىيان"
+                ],
+                "Kazakh": [
+                    "мекиен"
+                ],
+                "Kyrgyz": [
+                    "мекиян"
+                ],
+                "Karakalpak": [
+                    "mákiyan"
+                ],
+                "Bashkir": [
+                    "мәкит"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fərə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ана тавык"
+                ]
+            }
+        }
+    ]
+}

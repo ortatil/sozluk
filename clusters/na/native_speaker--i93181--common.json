@@ -1,0 +1,101 @@
+{
+    "id": "i93181",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "native speaker",
+    "en_definition": "a speaker of a particular language who has spoken that language since earliest childhood",
+    "tr_word": "ana dili konuşucusu",
+    "tr_definition": "Bir dili çocukluğundan beri konuşan ve o dilin içine doğmuş olan kişi.",
+    "ru_word": "носитель языка",
+    "ru_definition": "Человек, для которого данный язык является родным, усвоенным с раннего детства.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ana dili konuşuru",
+                    "ana dili konuşmacısı"
+                ],
+                "Azerbaijani": [
+                    "ana dilli",
+                    "ana dilində danışan"
+                ],
+                "Turkmen": [
+                    "ene dilinde gürleýän",
+                    "ene dili eýesi"
+                ],
+                "Uzbek": [
+                    "ona tili sohibi",
+                    "ona tilida soʻzlashuvchi",
+                    "ona tili egasi"
+                ],
+                "Uyghur": [
+                    "ئانا تىلدا سۆزلىگۈچى",
+                    "ئانا تىل ئىگىسى"
+                ],
+                "Kazakh": [
+                    "ана тілінде сөйлеуші",
+                    "ана тілді"
+                ],
+                "Kyrgyz": [
+                    "эне тилинде сүйлөгөн адам"
+                ],
+                "Karakalpak": [
+                    "ana tilinde sóylesioshi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тіл иесі"
+                ],
+                "Kyrgyz": [
+                    "тил ээси"
+                ],
+                "Karakalpak": [
+                    "til iyesi"
+                ],
+                "Tatar": [
+                    "телне йөртүче",
+                    "тел иясе"
+                ],
+                "Bashkir": [
+                    "тел эйәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "туган телне белүче"
+                ],
+                "Bashkir": [
+                    "туған телдә һөйләшеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yerli konuşmacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "doğma dilli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түпкүлүктүү сүйлөөчү"
+                ]
+            }
+        }
+    ]
+}

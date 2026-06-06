@@ -1,0 +1,81 @@
+{
+    "id": "i20023",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "bloodily",
+    "en_definition": "involving a great bloodshed",
+    "tr_word": "kanlı bir şekilde",
+    "tr_definition": "büyük bir kan dökülmesini içerecek biçimde",
+    "ru_word": "кроваво",
+    "ru_definition": "с большим кровопролитием",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kanlı bir şekilde",
+                    "kan dökerek",
+                    "kanlıca"
+                ],
+                "Azerbaijani": [
+                    "qanlı",
+                    "qanlı-qadalı",
+                    "qan tökərək",
+                    "qan içində"
+                ],
+                "Turkmen": [
+                    "ganly",
+                    "gan döküşikli"
+                ],
+                "Uzbek": [
+                    "qonli",
+                    "qon to'kib"
+                ],
+                "Uyghur": [
+                    "قانلىق",
+                    "قان تۆكۈلگەن ھالدا",
+                    "قانلىق رەۋىشتە"
+                ],
+                "Kazakh": [
+                    "қанды",
+                    "қанды түрде",
+                    "қан төгіспен",
+                    "қан-жоса"
+                ],
+                "Kyrgyz": [
+                    "кандуу",
+                    "кан төгүү менен"
+                ],
+                "Karakalpak": [
+                    "qanlı",
+                    "qan tógip",
+                    "qanlı túrde"
+                ],
+                "Tatar": [
+                    "канлы",
+                    "кан коешлы",
+                    "кан-яшь белән"
+                ],
+                "Bashkir": [
+                    "ҡанлы",
+                    "ҡан ҡойоп",
+                    "ҡанға батып"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shafqatsizlarcha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аёосуз"
+                ]
+            }
+        }
+    ]
+}

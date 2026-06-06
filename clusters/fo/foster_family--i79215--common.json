@@ -1,0 +1,129 @@
+{
+    "id": "i79215",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "foster family",
+    "en_definition": "the family of a fosterling",
+    "tr_word": "koruyucu aile",
+    "tr_definition": "Bir çocuğun öz ailesi dışında, devlet denetiminde bakımını üstlenen aile.",
+    "ru_word": "приёмная семья",
+    "ru_definition": "Семья, принявшая на воспитание ребёнка, оставшегося без попечения родителей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "asrama maşgala"
+                ],
+                "Uzbek": [
+                    "asrab olgan oila"
+                ],
+                "Kazakh": [
+                    "асырап алған отбасы",
+                    "асыраушы отбасы"
+                ],
+                "Kyrgyz": [
+                    "асырап алган үй-бүлө"
+                ],
+                "Karakalpak": [
+                    "asırandı shańaraq"
+                ],
+                "Tatar": [
+                    "асраучы гаилә"
+                ],
+                "Bashkir": [
+                    "аҫрауға алған ғаилә",
+                    "аҫраусы ғаилә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bakıcı aile"
+                ],
+                "Uzbek": [
+                    "boquvchi oila"
+                ],
+                "Uyghur": [
+                    "بېقىۋالغۇچى ئائىلە",
+                    "بېقىۋالغان ئائىلە"
+                ],
+                "Kyrgyz": [
+                    "багып алган үй-бүлө",
+                    "багуучу үй-бүлө"
+                ],
+                "Karakalpak": [
+                    "baqpa shańaraq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tarbiyalovchi oila"
+                ],
+                "Uyghur": [
+                    "تەربىيىلىگۈچى ئائىلە"
+                ],
+                "Karakalpak": [
+                    "tárbiyalap atırǵan shańaraq"
+                ],
+                "Tatar": [
+                    "тәрбиягә алган гаилә",
+                    "тәрбияче гаилә"
+                ],
+                "Bashkir": [
+                    "тәрбиәгә алған ғаилә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ögey ailə"
+                ],
+                "Kazakh": [
+                    "өгей отбасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koruyucu aile"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "himayədar ailə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "südlük ailə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ogullyk maşgalasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyzlyk maşgalasy"
+                ]
+            }
+        }
+    ]
+}

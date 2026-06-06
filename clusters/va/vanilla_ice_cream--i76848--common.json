@@ -1,0 +1,98 @@
+{
+    "id": "i76848",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vanilla ice cream",
+    "en_definition": "ice cream flavored with vanilla extract",
+    "tr_word": "vanilyalı dondurma",
+    "tr_definition": "vanilya özütü ile tatlandırılmış dondurma",
+    "ru_word": "ванильное мороженое",
+    "ru_definition": "мороженое со вкусом ванильного экстракта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vanilyalı dondurma"
+                ],
+                "Azerbaijani": [
+                    "vanilli dondurma"
+                ],
+                "Turkmen": [
+                    "wanilli doňdurma"
+                ],
+                "Uzbek": [
+                    "vanilli muzqaymoq"
+                ],
+                "Uyghur": [
+                    "ۋانىلا ماروژنىسى",
+                    "ۋانىلا مۇزقايماق"
+                ],
+                "Kazakh": [
+                    "ваниль балмұздағы"
+                ],
+                "Kyrgyz": [
+                    "ваниль балмуздагы"
+                ],
+                "Karakalpak": [
+                    "wanilli balqaymaq"
+                ],
+                "Tatar": [
+                    "ванильле туңдырма"
+                ],
+                "Bashkir": [
+                    "ваниль туңдырмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ağ dondurma"
+                ],
+                "Turkmen": [
+                    "ak doňdurma"
+                ],
+                "Uzbek": [
+                    "oq muzqaymoq"
+                ],
+                "Kazakh": [
+                    "ақ балмұздақ"
+                ],
+                "Kyrgyz": [
+                    "ак балмуздак"
+                ],
+                "Karakalpak": [
+                    "aq balqaymaq"
+                ],
+                "Tatar": [
+                    "ак туңдырма"
+                ],
+                "Bashkir": [
+                    "аҡ туңдырма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sade dondurma"
+                ],
+                "Azerbaijani": [
+                    "sadə dondurma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sút balqaymaq"
+                ],
+                "Tatar": [
+                    "сөтле туңдырма"
+                ]
+            }
+        }
+    ]
+}

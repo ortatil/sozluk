@@ -1,0 +1,85 @@
+{
+    "id": "i16056",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "lymphatic",
+    "en_definition": "of or relating to or produced by lymph",
+    "tr_word": "lenfatik",
+    "tr_definition": "lenf ile ilgili veya lenf tarafından üretilen",
+    "ru_word": "лимфатический",
+    "ru_definition": "относящийся к лимфе или вырабатываемый ею",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lenfatik"
+                ],
+                "Azerbaijani": [
+                    "limfatik",
+                    "limfa"
+                ],
+                "Turkmen": [
+                    "limfa",
+                    "limfatik"
+                ],
+                "Uzbek": [
+                    "limfatik",
+                    "limfaga oid"
+                ],
+                "Uyghur": [
+                    "لىمفاغا ئائىت",
+                    "لىمفاۋىي"
+                ],
+                "Kazakh": [
+                    "лимфалық"
+                ],
+                "Kyrgyz": [
+                    "лимфалык",
+                    "лимфага тиешелүү"
+                ],
+                "Karakalpak": [
+                    "limfalıq"
+                ],
+                "Tatar": [
+                    "лимфатик",
+                    "лимфалы",
+                    "лимфага караган"
+                ],
+                "Bashkir": [
+                    "лимфа",
+                    "лимфатик"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akkanlı",
+                    "ak kanla ilgili"
+                ],
+                "Uzbek": [
+                    "oq qonli"
+                ],
+                "Kyrgyz": [
+                    "ак кандуу"
+                ],
+                "Karakalpak": [
+                    "aq qan"
+                ],
+                "Bashkir": [
+                    "аҡ ҡан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сөлдік",
+                    "сөл"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "id": "i53692",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "file folder",
+    "en_definition": "folder that holds papers together in a filing cabinet",
+    "tr_word": "dosya",
+    "tr_definition": "Belgeleri bir arada tutmak ve korumak için kullanılan karton veya plastik kap.",
+    "ru_word": "папка",
+    "ru_definition": "Плотная обложка для хранения и систематизации бумаг и документов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "papka"
+                ],
+                "Uzbek": [
+                    "papka"
+                ],
+                "Uyghur": [
+                    "پاپكا"
+                ],
+                "Kazakh": [
+                    "папка"
+                ],
+                "Kyrgyz": [
+                    "папка"
+                ],
+                "Karakalpak": [
+                    "papka"
+                ],
+                "Tatar": [
+                    "папка"
+                ],
+                "Bashkir": [
+                    "папка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kap"
+                ],
+                "Kyrgyz": [
+                    "кап"
+                ],
+                "Karakalpak": [
+                    "qapshıq"
+                ],
+                "Tatar": [
+                    "кап"
+                ],
+                "Bashkir": [
+                    "ҡап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "jild"
+                ],
+                "Karakalpak": [
+                    "jıldnama"
+                ],
+                "Tatar": [
+                    "җөлт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dosya"
+                ],
+                "Azerbaijani": [
+                    "dosye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bukja"
+                ],
+                "Kazakh": [
+                    "бума"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gʻilof"
+                ],
+                "Kazakh": [
+                    "қалта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "klasör"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qovluq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھۆججەت قاپچۇقى",
+                    "ھۆججەت خالتىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ісқағаз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кагаз кап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыйнак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тыш"
+                ]
+            }
+        }
+    ]
+}

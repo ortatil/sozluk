@@ -1,0 +1,106 @@
+{
+    "id": "i106846",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "life insurance",
+    "en_definition": "insurance paid to named beneficiaries when the insured person dies",
+    "tr_word": "hayat sigortası",
+    "tr_definition": "sigortalı kişinin ölümü durumunda belirlenen lehtarlara ödenen sigorta türü",
+    "ru_word": "страхование жизни",
+    "ru_definition": "страхование, выплачиваемое назначенным бенефициарам в случае смерти застрахованного лица",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "can sigortası"
+                ],
+                "Azerbaijani": [
+                    "can sığortası"
+                ],
+                "Turkmen": [
+                    "jan ätiýaçlandyrmasy"
+                ],
+                "Uzbek": [
+                    "jon sug'urtasi"
+                ],
+                "Uyghur": [
+                    "جان سۇغۇرتىسى"
+                ],
+                "Kazakh": [
+                    "жан сақтандыру"
+                ],
+                "Kyrgyz": [
+                    "жан камсыздандыруу"
+                ],
+                "Karakalpak": [
+                    "jan kamsızlandırıo"
+                ],
+                "Tatar": [
+                    "җан иминияте"
+                ],
+                "Bashkir": [
+                    "йән страховкалау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ömür ätiýaçlandyrmasy"
+                ],
+                "Uyghur": [
+                    "ئۆمۈر سۇغۇرتىسى"
+                ],
+                "Kazakh": [
+                    "өмірді сақтандыру"
+                ],
+                "Kyrgyz": [
+                    "өмүр камсыздандыруу"
+                ],
+                "Karakalpak": [
+                    "ómirdi kamsızlandırıo"
+                ],
+                "Bashkir": [
+                    "ғүмерҙе страховкалау",
+                    "ғүмерҙе хәүефһеҙләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayat sigortası"
+                ],
+                "Azerbaijani": [
+                    "həyat sığortası"
+                ],
+                "Turkmen": [
+                    "haýat ätiýaçlandyrmasy"
+                ],
+                "Uzbek": [
+                    "hayot sug'urtasi"
+                ],
+                "Uyghur": [
+                    "ھاياتلىق سۇغۇرتىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaşam sigortası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гомерне иминиятләштерү"
+                ]
+            }
+        }
+    ]
+}

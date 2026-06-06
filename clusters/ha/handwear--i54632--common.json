@@ -1,0 +1,103 @@
+{
+    "id": "i54632",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "handwear",
+    "en_definition": "clothing for the hands",
+    "tr_word": "el giysisi",
+    "tr_definition": "eller için giyecek",
+    "ru_word": "перчаточные изделия",
+    "ru_definition": "одежда для рук",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "golçap"
+                ],
+                "Uzbek": [
+                    "qo'lqop"
+                ],
+                "Uyghur": [
+                    "قولقاپ"
+                ],
+                "Kazakh": [
+                    "қолғап"
+                ],
+                "Kyrgyz": [
+                    "кол кап"
+                ],
+                "Karakalpak": [
+                    "qolǵap"
+                ],
+                "Tatar": [
+                    "куллык"
+                ],
+                "Bashkir": [
+                    "ҡулсап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "биялай"
+                ],
+                "Karakalpak": [
+                    "biyalay"
+                ],
+                "Tatar": [
+                    "бияләй"
+                ],
+                "Bashkir": [
+                    "бейәләй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eldiven",
+                    "elcek",
+                    "ellik"
+                ],
+                "Azerbaijani": [
+                    "əlcək",
+                    "əlcəklər"
+                ],
+                "Turkmen": [
+                    "ellik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastpo'nak"
+                ],
+                "Uyghur": [
+                    "دەستقاپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "перчатка"
+                ],
+                "Bashkir": [
+                    "персәткә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мээлей"
+                ]
+            }
+        }
+    ]
+}

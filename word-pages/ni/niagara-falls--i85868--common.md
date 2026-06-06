@@ -1,0 +1,72 @@
+# Niagara falls
+| Field | Detail |
+|---|---|
+| **ID** | i85868 |
+| **English** | niagara falls |
+| **Type** | noun |
+| **Definition** | waterfall in Canada is the Horseshoe Falls; in the United States it is the American Falls |
+| **Source** | common |
+| **Ortatil** | sarqırama |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i85868",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "niagara falls",
+    "en_definition": "waterfall in Canada is the Horseshoe Falls; in the United States it is the American Falls",
+    "tr_word": "Niagara Şelalesi",
+    "tr_definition": "Kanada tarafında Horseshoe Şelalesi, Amerika Birleşik Devletleri tarafında ise American Şelalesi'nden oluşan şelale.",
+    "ru_word": "Ниагарский водопад",
+    "ru_definition": "Водопад в Канаде (Подкова) и в США (Американский водопад).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Niagara Şelalesi",
+                    "Niagara Çağlayanı"
+                ],
+                "Azerbaijani": [
+                    "Niaqara şəlaləsi"
+                ],
+                "Turkmen": [
+                    "Niagara şaglawugy"
+                ],
+                "Uzbek": [
+                    "Niagara sharsharasi"
+                ],
+                "Uyghur": [
+                    "نىياگارا شارقىراتمىسى",
+                    "نىياگارا سۇ ئوقۇرى"
+                ],
+                "Kazakh": [
+                    "Ниагара сарқырамасы"
+                ],
+                "Kyrgyz": [
+                    "Ниагара шаркыратмасы"
+                ],
+                "Tatar": [
+                    "Ниагара шарлавыгы"
+                ],
+                "Bashkir": [
+                    "Ниагара шарлауығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sarqırama",
+                    "sharshara"
+                ]
+            }
+        }
+    ]
+}
+```
+

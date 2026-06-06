@@ -1,0 +1,159 @@
+{
+    "id": "i69452",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "news article",
+    "en_definition": "an article reporting news",
+    "tr_word": "haber makalesi",
+    "tr_definition": "güncel olayları veya haberleri bildiren yazılı metin",
+    "ru_word": "новостная статья",
+    "ru_definition": "текст в периодическом издании, сообщающий о текущих новостях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haber",
+                    "haber metni"
+                ],
+                "Azerbaijani": [
+                    "xəbər"
+                ],
+                "Turkmen": [
+                    "habar"
+                ],
+                "Uzbek": [
+                    "xabar"
+                ],
+                "Uyghur": [
+                    "خەۋەر"
+                ],
+                "Kazakh": [
+                    "хабар"
+                ],
+                "Kyrgyz": [
+                    "кабар"
+                ],
+                "Karakalpak": [
+                    "xabar"
+                ],
+                "Tatar": [
+                    "хәбәр"
+                ],
+                "Bashkir": [
+                    "хәбәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "makale"
+                ],
+                "Azerbaijani": [
+                    "məqalə"
+                ],
+                "Turkmen": [
+                    "makala"
+                ],
+                "Uzbek": [
+                    "maqola"
+                ],
+                "Uyghur": [
+                    "ماقالە"
+                ],
+                "Kazakh": [
+                    "мақала"
+                ],
+                "Kyrgyz": [
+                    "макала"
+                ],
+                "Karakalpak": [
+                    "maqala"
+                ],
+                "Tatar": [
+                    "мәкалә"
+                ],
+                "Bashkir": [
+                    "мәҡәлә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazı"
+                ],
+                "Azerbaijani": [
+                    "yazı"
+                ],
+                "Turkmen": [
+                    "ýazgy"
+                ],
+                "Tatar": [
+                    "язма"
+                ],
+                "Bashkir": [
+                    "яҙма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bildirishnoma"
+                ],
+                "Kyrgyz": [
+                    "билдирүү"
+                ],
+                "Karakalpak": [
+                    "bildirio"
+                ],
+                "Tatar": [
+                    "белдерү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məlumat"
+                ],
+                "Kazakh": [
+                    "мәлімет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fıkra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "axborot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەۋەر ماقالىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаңалық"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "i115750",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "natural fiber",
+    "en_definition": "fiber derived from plants or animals",
+    "tr_word": "doğal lif",
+    "tr_definition": "bitkilerden veya hayvanlardan elde edilen lif",
+    "ru_word": "натуральное волокно",
+    "ru_definition": "волокно, полученное из растений или животных",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tabii lif"
+                ],
+                "Azerbaijani": [
+                    "təbii lif",
+                    "təbii tel"
+                ],
+                "Turkmen": [
+                    "tebigy süýüm",
+                    "tebigy süýme"
+                ],
+                "Uzbek": [
+                    "tabiiy tola"
+                ],
+                "Uyghur": [
+                    "تەبىئىي تالا",
+                    "تەبىئىي يىپ"
+                ],
+                "Kazakh": [
+                    "табиғи талшық",
+                    "табиғи қылшық"
+                ],
+                "Kyrgyz": [
+                    "табигый була",
+                    "табигый талча"
+                ],
+                "Karakalpak": [
+                    "tabiyǵıy talshıq",
+                    "tabiyǵıy jip"
+                ],
+                "Tatar": [
+                    "табигый җепсел",
+                    "табигый җеп"
+                ],
+                "Bashkir": [
+                    "тәбиғи сүс",
+                    "тәбиғи епсел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğal lif"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asliy tola"
+                ]
+            }
+        }
+    ]
+}

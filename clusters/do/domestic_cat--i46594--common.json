@@ -1,0 +1,102 @@
+{
+    "id": "i46594",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "domestic cat",
+    "en_definition": "any domesticated member of the genus Felis",
+    "tr_word": "evcil kedi",
+    "tr_definition": "Felis cinsinin evcilleştirilmiş herhangi bir üyesi",
+    "ru_word": "домашняя кошка",
+    "ru_definition": "любой одомашненный представитель рода Felis",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pisipisi"
+                ],
+                "Azerbaijani": [
+                    "pişik"
+                ],
+                "Turkmen": [
+                    "pişik"
+                ],
+                "Uzbek": [
+                    "pishak"
+                ],
+                "Uyghur": [
+                    "پىشاق"
+                ],
+                "Karakalpak": [
+                    "pıshıq"
+                ],
+                "Bashkir": [
+                    "бесәй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "müjek"
+                ],
+                "Uzbek": [
+                    "mushuk"
+                ],
+                "Uyghur": [
+                    "مۈشۈك"
+                ],
+                "Kazakh": [
+                    "мысық"
+                ],
+                "Kyrgyz": [
+                    "мышык"
+                ],
+                "Bashkir": [
+                    "мәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kedi"
+                ],
+                "Tatar": [
+                    "песи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ev kedisi"
+                ],
+                "Azerbaijani": [
+                    "ev pişiyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мәулен"
+                ],
+                "Tatar": [
+                    "мәче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мадыл"
+                ],
+                "Karakalpak": [
+                    "mát"
+                ]
+            }
+        }
+    ]
+}

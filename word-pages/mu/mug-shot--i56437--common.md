@@ -1,0 +1,194 @@
+# Mug shot
+| Field | Detail |
+|---|---|
+| **ID** | i56437 |
+| **English** | mug shot |
+| **Type** | noun |
+| **Definition** | a photograph of someone's face (especially one made for police records) |
+| **Source** | common |
+| **Ortatil** | surat |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| фотосурәт | fotosurät |
+
+```json
+{
+    "id": "i56437",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mug shot",
+    "en_definition": "a photograph of someone's face (especially one made for police records)",
+    "tr_word": "sabıka fotoğrafı",
+    "tr_definition": "Genellikle polis kayıtları için çekilen, bir şüphelinin yüzünü gösteren vesikalık fotoğraf.",
+    "ru_word": "тюремная фотография",
+    "ru_definition": "Фотография лица человека, сделанная для полицейского досье после ареста.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бет-әлпет суреті"
+                ],
+                "Kyrgyz": [
+                    "бет сүрөт",
+                    "бет түзүлүш сүрөтү"
+                ],
+                "Karakalpak": [
+                    "bet-kelbet súoreti"
+                ],
+                "Tatar": [
+                    "бит сурәте"
+                ],
+                "Bashkir": [
+                    "бит һүрәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yuz surati"
+                ],
+                "Karakalpak": [
+                    "júz súoreti"
+                ],
+                "Tatar": [
+                    "йөз сурәте"
+                ],
+                "Bashkir": [
+                    "йөҙ һүрәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəkil"
+                ],
+                "Turkmen": [
+                    "şahsyýet suraty"
+                ],
+                "Uzbek": [
+                    "shaxsiy surat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "surət"
+                ],
+                "Turkmen": [
+                    "surat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұлға суреті",
+                    "кескін-келбет суреті"
+                ],
+                "Karakalpak": [
+                    "tұlǵa súoreti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sabıka fotoğrafı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşkal fotoğrafı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vesikalık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üz şəkli",
+                    "qeydiyyat şəkli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "keşp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qiyofa surati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جىنايەتچى سۈرىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇتقۇن سۈرىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەھقىق سۈرىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каттоо сүрөтү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "фотосурәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төҫ-баш һүрәте"
+                ]
+            }
+        }
+    ]
+}
+```
+

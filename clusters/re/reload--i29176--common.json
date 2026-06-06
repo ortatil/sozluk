@@ -1,0 +1,106 @@
+{
+    "id": "i29176",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "reload",
+    "en_definition": "place a new load on",
+    "tr_word": "yeniden yüklemek",
+    "tr_definition": "bir şeyi tekrar doldurmak veya yeni bir yük yerleştirmek",
+    "ru_word": "перезагружать",
+    "ru_definition": "поместить новый груз или заряд",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan ýüklemek"
+                ],
+                "Uzbek": [
+                    "qayta yuklamoq",
+                    "qayta to‘ldirmoq",
+                    "qayta joylamoq"
+                ],
+                "Uyghur": [
+                    "قايتا قاچىلىماق",
+                    "قايتا يۈكلىمەك"
+                ],
+                "Kazakh": [
+                    "қайта жүктеу",
+                    "қайта оқтау",
+                    "қайта толтыру"
+                ],
+                "Kyrgyz": [
+                    "кайра жүктөө",
+                    "кайра толтуруу",
+                    "кайра октоо"
+                ],
+                "Karakalpak": [
+                    "qayta júkleo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden yüklemek"
+                ],
+                "Azerbaijani": [
+                    "yenidən yükləmək"
+                ],
+                "Karakalpak": [
+                    "jańadan júkleo"
+                ],
+                "Tatar": [
+                    "яңадан йөкләү",
+                    "яңадан тутыру"
+                ],
+                "Bashkir": [
+                    "яңынан тейәү",
+                    "яңынан тултырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doldurmak"
+                ],
+                "Turkmen": [
+                    "doldurmak"
+                ],
+                "Uyghur": [
+                    "تولۇقلىماق"
+                ],
+                "Karakalpak": [
+                    "toltırıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tazelemek"
+                ],
+                "Azerbaijani": [
+                    "təzədən doldurmaq"
+                ],
+                "Turkmen": [
+                    "täzeden ýüklemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат йөкләү"
+                ],
+                "Bashkir": [
+                    "ҡабат тейәү"
+                ]
+            }
+        }
+    ]
+}

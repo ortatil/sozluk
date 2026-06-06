@@ -1,0 +1,182 @@
+{
+    "id": "i41842",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "service call",
+    "en_definition": "a trip made by a repairman to visit the location of something in need of service",
+    "tr_word": "servis ziyareti",
+    "tr_definition": "bir tamircinin servis gerektiren bir şeyin bulunduğu yeri ziyaret etmek için yaptığı yolculuk",
+    "ru_word": "выезд мастера",
+    "ru_definition": "поездка ремонтника к месту нахождения объекта, нуждающегося в обслуживании",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "usta çağırışı"
+                ],
+                "Turkmen": [
+                    "usta çagyryşy"
+                ],
+                "Uzbek": [
+                    "usta chaqiruvi"
+                ],
+                "Karakalpak": [
+                    "usta shaqırıo"
+                ],
+                "Tatar": [
+                    "оста чакыру"
+                ],
+                "Bashkir": [
+                    "оҫтаны саҡыртыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xidmət çağırışı"
+                ],
+                "Uzbek": [
+                    "xizmat safari",
+                    "xizmat ko'rsatish safari"
+                ],
+                "Uyghur": [
+                    "خىزمەت زىيارىتى"
+                ],
+                "Karakalpak": [
+                    "xızmet saparı"
+                ],
+                "Tatar": [
+                    "хезмәт чакыруы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шақырту",
+                    "шақыру"
+                ],
+                "Kyrgyz": [
+                    "чакыруу"
+                ],
+                "Karakalpak": [
+                    "shaqırıo"
+                ],
+                "Bashkir": [
+                    "саҡырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teknik servis çağrısı"
+                ],
+                "Azerbaijani": [
+                    "texniki baxış"
+                ],
+                "Uyghur": [
+                    "تېخنىكىلىق مۇلازىمەت زىيارىتى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hyzmat çagyryşy"
+                ],
+                "Kazakh": [
+                    "қызметтік сапар"
+                ],
+                "Kyrgyz": [
+                    "кызматтык чакыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təmir ziyarəti"
+                ],
+                "Uzbek": [
+                    "ta'mirlash tashrifi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رېمونت زىيارىتى"
+                ],
+                "Bashkir": [
+                    "килеп ремонтлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "килеп хезмәт күрсәтү"
+                ],
+                "Bashkir": [
+                    "килеп хеҙмәтләндереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "servis ziyareti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bakım ziyareti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yerinde servis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "abatlaýyş sapary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бару"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оңдоочуну чакыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төзәтүче чакыру"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "id": "i3389",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "handed-down",
+    "en_definition": "having been passed along from generation to generation",
+    "tr_word": "kuşaktan kuşağa aktarılan",
+    "tr_definition": "nesilden nesile geçen, aile yadigarı olan veya gelenekselleşmiş",
+    "ru_word": "переданный по наследству",
+    "ru_definition": "переходящий от поколения к поколению",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "miras"
+                ],
+                "Turkmen": [
+                    "miras"
+                ],
+                "Uzbek": [
+                    "meros"
+                ],
+                "Uyghur": [
+                    "مىراس"
+                ],
+                "Kazakh": [
+                    "мұра"
+                ],
+                "Kyrgyz": [
+                    "мурас",
+                    "мурасталган"
+                ],
+                "Karakalpak": [
+                    "miyras"
+                ],
+                "Tatar": [
+                    "мирас"
+                ],
+                "Bashkir": [
+                    "мираҫ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "atadan kalma"
+                ],
+                "Turkmen": [
+                    "ata-babalardan galan"
+                ],
+                "Uzbek": [
+                    "ota-bobolardan qolgan"
+                ],
+                "Kazakh": [
+                    "ата-бабадан қалған"
+                ],
+                "Kyrgyz": [
+                    "ата-бабадан калган"
+                ],
+                "Karakalpak": [
+                    "ata-babadan"
+                ],
+                "Tatar": [
+                    "ата-бабадан калган"
+                ],
+                "Bashkir": [
+                    "ата-бабанан ҡалған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "intikal"
+                ],
+                "Azerbaijani": [
+                    "ənənəvi"
+                ],
+                "Uzbek": [
+                    "an'anaviy"
+                ],
+                "Uyghur": [
+                    "ئەنئەنىۋى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qədim"
+                ],
+                "Turkmen": [
+                    "gadymy"
+                ],
+                "Uzbek": [
+                    "qadimiy"
+                ],
+                "Bashkir": [
+                    "ҡәҙимге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yadigar"
+                ],
+                "Azerbaijani": [
+                    "yadigar"
+                ],
+                "Kazakh": [
+                    "жәдігер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəsildən-nəslə"
+                ],
+                "Turkmen": [
+                    "nesilden-nesle"
+                ],
+                "Uyghur": [
+                    "نەسلىدىن نەسلىگە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "avloddan-avlodga"
+                ],
+                "Karakalpak": [
+                    "áoladtan-áoladqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەجدادتىن قالغان"
+                ],
+                "Bashkir": [
+                    "быуындан быуынға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәстүрлі"
+                ],
+                "Karakalpak": [
+                    "dástúriy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geleneksel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "irsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аманат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "муундан муунга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "буыннан-буынга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "традицион"
+                ]
+            }
+        }
+    ]
+}

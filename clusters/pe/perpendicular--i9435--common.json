@@ -1,0 +1,118 @@
+{
+    "id": "i9435",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "perpendicular",
+    "en_definition": "intersecting at or forming right angles",
+    "tr_word": "dik",
+    "tr_definition": "birbirini dik açıyla kesen veya dik açı oluşturan",
+    "ru_word": "перпендикулярный",
+    "ru_definition": "пересекающийся под прямым углом или образующий прямой угол",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dik",
+                    "dikey"
+                ],
+                "Azerbaijani": [
+                    "dik"
+                ],
+                "Turkmen": [
+                    "dik"
+                ],
+                "Uzbek": [
+                    "tik",
+                    "tikka"
+                ],
+                "Uyghur": [
+                    "تىك",
+                    "تىك بۇلۇڭلۇق"
+                ],
+                "Kazakh": [
+                    "тік",
+                    "тікбұрышты"
+                ],
+                "Kyrgyz": [
+                    "тик"
+                ],
+                "Karakalpak": [
+                    "tik",
+                    "tikleme",
+                    "tikles"
+                ],
+                "Tatar": [
+                    "тек"
+                ],
+                "Bashkir": [
+                    "тек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "perpendikulyar"
+                ],
+                "Turkmen": [
+                    "perpendikulýar"
+                ],
+                "Uzbek": [
+                    "perpendikulyar"
+                ],
+                "Kazakh": [
+                    "перпендикуляр"
+                ],
+                "Kyrgyz": [
+                    "перпендикулярдуу"
+                ],
+                "Tatar": [
+                    "перпендикуляр"
+                ],
+                "Bashkir": [
+                    "перпендикуляр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "toʻgʻri burchakli"
+                ],
+                "Tatar": [
+                    "туры"
+                ],
+                "Bashkir": [
+                    "тура"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "amudi"
+                ],
+                "Uyghur": [
+                    "ئامۇد"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şaquli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gönüburçly"
+                ]
+            }
+        }
+    ]
+}

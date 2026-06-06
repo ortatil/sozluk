@@ -1,0 +1,194 @@
+# Sweat bag
+| Field | Detail |
+|---|---|
+| **ID** | i59869 |
+| **English** | sweat bag |
+| **Type** | noun |
+| **Definition** | a porous bag (usually of canvas) that holds water and cools it by evaporation |
+| **Source** | common |
+| **Ortatil** | meşk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **meşk** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.93** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مەشك | mäşk |
+| تۇلۇم | tulum |
+| **Kazakh** | |
+| мес | mes |
+| торсық | torsıq |
+| **Kyrgyz** | |
+| меш | meş |
+| чанач | çanaç |
+
+```json
+{
+    "id": "i59869",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sweat bag",
+    "en_definition": "a porous bag (usually of canvas) that holds water and cools it by evaporation",
+    "tr_word": "terleme torbası",
+    "tr_definition": "suyu buharlaşma yoluyla soğutan gözenekli (genellikle kanvas) torba",
+    "ru_word": "парусиновая сумка-холодильник",
+    "ru_definition": "пористый мешок (обычно из парусины), который удерживает воду и охлаждает ее за счет испарения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su torbası"
+                ],
+                "Azerbaijani": [
+                    "su tuluğu",
+                    "su torbası"
+                ],
+                "Turkmen": [
+                    "suw haltasy",
+                    "suw torbasy"
+                ],
+                "Uzbek": [
+                    "suv xalta"
+                ],
+                "Uyghur": [
+                    "سۇ تۇلۇمى"
+                ],
+                "Kazakh": [
+                    "су қап"
+                ],
+                "Kyrgyz": [
+                    "суу баштык"
+                ],
+                "Karakalpak": [
+                    "su qabı"
+                ],
+                "Tatar": [
+                    "су капчыгы",
+                    "су савыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "meşik"
+                ],
+                "Uzbek": [
+                    "meshk"
+                ],
+                "Uyghur": [
+                    "مەشك"
+                ],
+                "Kazakh": [
+                    "мес"
+                ],
+                "Kyrgyz": [
+                    "меш"
+                ],
+                "Karakalpak": [
+                    "mes"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "торсық"
+                ],
+                "Karakalpak": [
+                    "torsıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күн савыт"
+                ],
+                "Bashkir": [
+                    "күн моҡса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "terleyen torba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kanvas su torbası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "matara torbası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kətan su qabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻza xalta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇلۇم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чанач"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу моҡсаһы",
+                    "һыу ҡапсығы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,154 @@
+# Rock elm
+| Field | Detail |
+|---|---|
+| **ID** | i102199 |
+| **English** | rock elm |
+| **Type** | noun |
+| **Definition** | large ornamental tree with graceful gradually spreading branches common in eastern North America |
+| **Source** | common |
+| **Ortatil** | qarağaç |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qarağaç** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| жыгач | jıgaç |
+| **Bashkir** | |
+| ҡарама | qarama |
+
+```json
+{
+    "id": "i102199",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rock elm",
+    "en_definition": "large ornamental tree with graceful gradually spreading branches common in eastern North America",
+    "tr_word": "Amerikan karaağacı",
+    "tr_definition": "Kuzey Amerika'nın doğusunda yaygın olan, zarif ve yayılan dallara sahip, büyük ve süs amaçlı kullanılan bir karaağaç türü.",
+    "ru_word": "Американский вяз",
+    "ru_definition": "Крупное декоративное дерево с изящными раскидистыми ветвями, распространенное в восточной части Северной Америки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ağ qarağaç"
+                ],
+                "Turkmen": [
+                    "ulugaraagaç"
+                ],
+                "Kazakh": [
+                    "ақ қарағаш"
+                ],
+                "Kyrgyz": [
+                    "ак кара жыгач"
+                ],
+                "Karakalpak": [
+                    "aq qaraǵash"
+                ],
+                "Bashkir": [
+                    "аҡ ҡарама"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Amerikan karaağacı"
+                ],
+                "Azerbaijani": [
+                    "Amerika qarağacı"
+                ],
+                "Uyghur": [
+                    "ئامېرىكا قارىغايى",
+                    "ئامېرىكا سېدە قارىغايى"
+                ],
+                "Kazakh": [
+                    "америкалық қарағаш"
+                ],
+                "Tatar": [
+                    "америка карагачы",
+                    "америка илеме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "garaagaç"
+                ],
+                "Uzbek": [
+                    "qayragʻoch"
+                ],
+                "Kyrgyz": [
+                    "кара жыгач"
+                ],
+                "Karakalpak": [
+                    "qaraǵash"
+                ],
+                "Bashkir": [
+                    "ҡарама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz karaağaç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oq qayragʻoch"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "guzar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыгач"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "киң япраҡлы ҡарама"
+                ]
+            }
+        }
+    ]
+}
+```
+

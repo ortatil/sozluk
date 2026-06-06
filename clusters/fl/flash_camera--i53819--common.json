@@ -1,0 +1,97 @@
+{
+    "id": "i53819",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flash camera",
+    "en_definition": "a camera with a photoflash attachment",
+    "tr_word": "flaşlı fotoğraf makinesi",
+    "tr_definition": "flaş eklentisi olan fotoğraf makinesi",
+    "ru_word": "фотоаппарат со вспышкой",
+    "ru_definition": "фотокамера, оснащенная устройством для создания кратковременной яркой вспышки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "parıltılı fotoaparat"
+                ],
+                "Turkmen": [
+                    "çyraly fotoapparat"
+                ],
+                "Kazakh": [
+                    "жарқылдауық фотоаппарат",
+                    "жарқылдауық камера",
+                    "жарқылдауы бар фотоаппарат"
+                ],
+                "Kyrgyz": [
+                    "жаркылдагы бар фотоаппарат",
+                    "жаркылдагы бар сүрөт аппараты",
+                    "жаркылдактуу камера"
+                ],
+                "Karakalpak": [
+                    "jarqıldaǵıshlı fotoapparat",
+                    "jarıq bergishli fotoapparat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýalkymly fotoapparat"
+                ],
+                "Uyghur": [
+                    "چاقماقلىق فوتوئاپپارات",
+                    "چاقماقلىق كامېرا"
+                ],
+                "Tatar": [
+                    "яктырткычлы фотаппарат"
+                ],
+                "Bashkir": [
+                    "ялтырауыҡлы фотоаппарат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ялкынлы фотаппарат"
+                ],
+                "Bashkir": [
+                    "ялтырауыҡлы фотокамера"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "flaşlı fotoğraf makinesi",
+                    "flaşlı kamera"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "alışqanlı fotoaparat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "işıqlı fotoaparat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chaqnoqli fotoapparat",
+                    "chaqmoqli fotoapparat",
+                    "chaqnoqli suratkash"
+                ]
+            }
+        }
+    ]
+}

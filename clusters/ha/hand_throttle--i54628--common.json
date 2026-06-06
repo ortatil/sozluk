@@ -1,0 +1,108 @@
+{
+    "id": "i54628",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hand throttle",
+    "en_definition": "a hand-operated lever that controls the throttle valve",
+    "tr_word": "el gazı",
+    "tr_definition": "gaz kelebeğini kontrol eden elle kumanda edilen kol",
+    "ru_word": "ручной газ",
+    "ru_definition": "рычаг с ручным управлением, регулирующий положение дроссельной заслонки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻl dastasichi",
+                    "qoʻl gaz dastasichi",
+                    "qoʻl richagi"
+                ],
+                "Uyghur": [
+                    "قول گازى",
+                    "قوللۇق گاز تۇتقۇچى",
+                    "قوللۇق گاز پىشاڭى"
+                ],
+                "Kazakh": [
+                    "қол тетігі",
+                    "қол тұтқасы",
+                    "қол дросселі"
+                ],
+                "Kyrgyz": [
+                    "кол тутка",
+                    "кол рычаг"
+                ],
+                "Karakalpak": [
+                    "qol gaz",
+                    "qol rıchagı"
+                ],
+                "Tatar": [
+                    "кул рычагы",
+                    "кул тоткычы",
+                    "кул идарәсе"
+                ],
+                "Bashkir": [
+                    "ҡул газ рычагы",
+                    "ҡул газ тотҡаһы",
+                    "ҡул газ идараһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "el gazı",
+                    "el kumandalı gaz"
+                ],
+                "Azerbaijani": [
+                    "əl qazı"
+                ],
+                "Turkmen": [
+                    "el gazy",
+                    "el ryçagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əl drosseli"
+                ],
+                "Turkmen": [
+                    "el drosseli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башкаруу туткасы"
+                ],
+                "Karakalpak": [
+                    "basqarıo tutqıshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gaz kolu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əl tənzimləyicisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gaz dastasichi"
+                ]
+            }
+        }
+    ]
+}

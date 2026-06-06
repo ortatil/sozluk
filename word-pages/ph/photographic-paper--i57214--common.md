@@ -1,0 +1,156 @@
+# Photographic paper
+| Field | Detail |
+|---|---|
+| **ID** | i57214 |
+| **English** | photographic paper |
+| **Type** | noun |
+| **Definition** | light-sensitive paper on which photograph can be printed |
+| **Source** | common |
+| **Ortatil** | fotoqaqaz |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **fotoqaqaz** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| фотоқағаз | fotoqağaz |
+| **Tatar** | |
+| фотокәгазь | fotokägaz |
+| **Bashkir** | |
+| фотоҡағыҙ | fotoqağız |
+
+```json
+{
+    "id": "i57214",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "photographic paper",
+    "en_definition": "light-sensitive paper on which photograph can be printed",
+    "tr_word": "fotoğraf kâğıdı",
+    "tr_definition": "üzerine fotoğraf basılabilen ışığa duyarlı kâğıt",
+    "ru_word": "фотобумага",
+    "ru_definition": "светочувствительная бумага, на которой можно печатать фотографии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fotoğraf kâğıdı"
+                ],
+                "Azerbaijani": [
+                    "foto kağızı"
+                ],
+                "Turkmen": [
+                    "fotosurat kagyzy"
+                ],
+                "Uyghur": [
+                    "فوتو قەغىزى"
+                ],
+                "Kazakh": [
+                    "фотоқағаз"
+                ],
+                "Karakalpak": [
+                    "fotoqaǵaz"
+                ],
+                "Tatar": [
+                    "фотокәгазь"
+                ],
+                "Bashkir": [
+                    "фотоҡағыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "surat kagyzy"
+                ],
+                "Uzbek": [
+                    "surat qog'ozi"
+                ],
+                "Uyghur": [
+                    "سۈرەت قەغىزى"
+                ],
+                "Kazakh": [
+                    "сурет қағазы"
+                ],
+                "Kyrgyz": [
+                    "сүрөт кагазы"
+                ],
+                "Karakalpak": [
+                    "súoret qaǵazı"
+                ],
+                "Tatar": [
+                    "сурәт кәгазе"
+                ],
+                "Bashkir": [
+                    "һүрәт ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tab kâğıdı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duyarlı kâğıt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şəkil kağızı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "fotosurat qog'ozi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tasvir qog'ozi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ак кагаз"
+                ]
+            }
+        }
+    ]
+}
+```
+

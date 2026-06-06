@@ -1,0 +1,137 @@
+{
+    "id": "i116950",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "payday",
+    "en_definition": "the day on which you receive pay for your work",
+    "tr_word": "maaş günü",
+    "tr_definition": "çalışılan iş karşılığında ücretin alındığı gün",
+    "ru_word": "день зарплаты",
+    "ru_definition": "день, в который выплачивается заработная плата за выполненную работу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aylık günü"
+                ],
+                "Azerbaijani": [
+                    "aylıq günü"
+                ],
+                "Turkmen": [
+                    "aylyk güni"
+                ],
+                "Uzbek": [
+                    "oylik kuni"
+                ],
+                "Kazakh": [
+                    "айлық күні"
+                ],
+                "Kyrgyz": [
+                    "айлык күнү",
+                    "акы алуу күнү"
+                ],
+                "Karakalpak": [
+                    "aylıq kúni"
+                ],
+                "Tatar": [
+                    "айлык көне"
+                ],
+                "Bashkir": [
+                    "айлыҡ көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "maaş günü"
+                ],
+                "Azerbaijani": [
+                    "maaş günü",
+                    "haqq günü"
+                ],
+                "Turkmen": [
+                    "hak güni"
+                ],
+                "Uyghur": [
+                    "مائاش كۈنى",
+                    "مائاش تارقىتىش كۈنى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töleg güni"
+                ],
+                "Kazakh": [
+                    "төлем күні"
+                ],
+                "Tatar": [
+                    "түләү көне"
+                ],
+                "Bashkir": [
+                    "түләү көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "haq to'lash kuni"
+                ],
+                "Uyghur": [
+                    "ھەق بېرىش كۈنى"
+                ],
+                "Karakalpak": [
+                    "xaqı alıo kúni"
+                ],
+                "Bashkir": [
+                    "хаҡ көнө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "маяна күнү"
+                ],
+                "Karakalpak": [
+                    "máosim kúni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ödeme günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maosh kuni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалақы күні"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хезмәт хакы көне"
+                ]
+            }
+        }
+    ]
+}

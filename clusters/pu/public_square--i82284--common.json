@@ -1,0 +1,87 @@
+{
+    "id": "i82284",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "public square",
+    "en_definition": "an open area at the meeting of two or more streets",
+    "tr_word": "meydan",
+    "tr_definition": "İki veya daha fazla sokağın birleştiği yerde bulunan açık alan.",
+    "ru_word": "площадь",
+    "ru_definition": "Открытое пространство на пересечении двух или более улиц.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meydan"
+                ],
+                "Azerbaijani": [
+                    "meydan"
+                ],
+                "Turkmen": [
+                    "meýdan",
+                    "meýdança"
+                ],
+                "Uzbek": [
+                    "maydon"
+                ],
+                "Uyghur": [
+                    "مەيدان"
+                ],
+                "Kazakh": [
+                    "майдан"
+                ],
+                "Kyrgyz": [
+                    "майдан"
+                ],
+                "Karakalpak": [
+                    "maydan"
+                ],
+                "Tatar": [
+                    "мәйдан",
+                    "мәйданчык"
+                ],
+                "Bashkir": [
+                    "майҙан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alan"
+                ],
+                "Azerbaijani": [
+                    "alan"
+                ],
+                "Kazakh": [
+                    "алаң"
+                ],
+                "Kyrgyz": [
+                    "аянт"
+                ],
+                "Karakalpak": [
+                    "alań"
+                ],
+                "Bashkir": [
+                    "алан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chorsu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جامائەت مەيدانى"
+                ]
+            }
+        }
+    ]
+}

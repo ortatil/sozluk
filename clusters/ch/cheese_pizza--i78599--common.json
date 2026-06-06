@@ -1,0 +1,93 @@
+{
+    "id": "i78599",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cheese pizza",
+    "en_definition": "pizza with lots of cheese",
+    "tr_word": "peynirli pizza",
+    "tr_definition": "bol peynir içeren bir pizza türü",
+    "ru_word": "сырная пицца",
+    "ru_definition": "пицца с большим количеством сыра",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "сыр пиццасы"
+                ],
+                "Karakalpak": [
+                    "sırlı picca"
+                ],
+                "Tatar": [
+                    "сырлы пицца"
+                ],
+                "Bashkir": [
+                    "сырлы пицца"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "peynirli pizza"
+                ],
+                "Azerbaijani": [
+                    "pendirli pitsa"
+                ],
+                "Turkmen": [
+                    "peýnirli pitsa",
+                    "peýnirli çörek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bol peynirli pizza"
+                ],
+                "Azerbaijani": [
+                    "bol pendirli pitsa"
+                ],
+                "Karakalpak": [
+                    "irimshikli picca"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "pishloqli pitsa",
+                    "pishloqli non"
+                ],
+                "Uyghur": [
+                    "پىشلاقلىق پىتسا",
+                    "پىشلاقلىق نان"
+                ],
+                "Kyrgyz": [
+                    "быштактуу пицца"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ірімшік пиццасы",
+                    "ірімшікті пицца"
+                ],
+                "Bashkir": [
+                    "эремсек пиццаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эремчекле пицца"
+                ]
+            }
+        }
+    ]
+}

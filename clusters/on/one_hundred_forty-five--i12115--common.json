@@ -1,0 +1,53 @@
+{
+    "id": "i12115",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one hundred forty-five",
+    "en_definition": "being five more than one hundred forty",
+    "tr_word": "yüz kırk beş",
+    "tr_definition": "yüz kırktan beş fazla olan sayı",
+    "ru_word": "сто сорок пять",
+    "ru_definition": "число, на пять большее, чем сто сорок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz kırk beş"
+                ],
+                "Azerbaijani": [
+                    "yüz qırx beş"
+                ],
+                "Turkmen": [
+                    "ýüz kyrk bäş"
+                ],
+                "Kazakh": [
+                    "жүз қырық бес"
+                ],
+                "Kyrgyz": [
+                    "жүз кырк беш"
+                ],
+                "Karakalpak": [
+                    "júz qırıq bes"
+                ],
+                "Tatar": [
+                    "йөз кырык биш",
+                    "йөз дә кырык биш"
+                ],
+                "Bashkir": [
+                    "йөҙ ҡырҡ биш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bir yuz qirq besh"
+                ],
+                "Uyghur": [
+                    "بىر يۈز قىرىق بەش"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "id": "i61723",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cigarette burn",
+    "en_definition": "a burn mark left by a smoldering cigarette",
+    "tr_word": "sigara yanığı",
+    "tr_definition": "yanan bir sigaranın bıraktığı yanık izi",
+    "ru_word": "прожог от сигареты",
+    "ru_definition": "след от ожога, оставленный тлеющей сигаретой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "temmäki ýanygy"
+                ],
+                "Uzbek": [
+                    "tamaki dogʻi",
+                    "tamaki kuyigi"
+                ],
+                "Uyghur": [
+                    "تاماكا كۆيۈكى",
+                    "تاماكا داغى"
+                ],
+                "Kazakh": [
+                    "темекі күйігі"
+                ],
+                "Kyrgyz": [
+                    "тамеки күйүгү",
+                    "тамекинин тагы"
+                ],
+                "Karakalpak": [
+                    "támpeki kúyigi"
+                ],
+                "Tatar": [
+                    "тәмәке көеге",
+                    "тәмәке эзе"
+                ],
+                "Bashkir": [
+                    "тәмәке көйөгө",
+                    "тәмәке янығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sigara yanığı"
+                ],
+                "Azerbaijani": [
+                    "siqaret yanığı"
+                ],
+                "Uzbek": [
+                    "sigaret kuyigi"
+                ],
+                "Karakalpak": [
+                    "sigaret kúyigi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çilim ýanygy"
+                ],
+                "Kazakh": [
+                    "шылым күйігі",
+                    "шылым дағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ateş yanığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tütün yanığı"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": "i4118",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "dexter",
+    "en_definition": "on or starting from the wearer's right",
+    "tr_word": "sağ",
+    "tr_definition": "armada kalkanı taşıyan kişinin sağ tarafında kalan (izleyiciye göre sol)",
+    "ru_word": "правый",
+    "ru_definition": "расположенный с правой стороны от носителя щита (в геральдике)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "oň"
+                ],
+                "Uzbek": [
+                    "o'ng",
+                    "o'ngdagi"
+                ],
+                "Uyghur": [
+                    "ئوڭ"
+                ],
+                "Kazakh": [
+                    "оң",
+                    "оңшыл"
+                ],
+                "Kyrgyz": [
+                    "оң",
+                    "оң тараптык",
+                    "оң кол"
+                ],
+                "Karakalpak": [
+                    "oń",
+                    "oń jaq"
+                ],
+                "Tatar": [
+                    "уң",
+                    "уң яктагы"
+                ],
+                "Bashkir": [
+                    "уң",
+                    "уң яҡтағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağ",
+                    "sağdaki",
+                    "sağ taraf"
+                ],
+                "Azerbaijani": [
+                    "sağ",
+                    "sağdakı",
+                    "sağ tərəf"
+                ],
+                "Turkmen": [
+                    "sag"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'ng tomon"
+                ],
+                "Kazakh": [
+                    "оң жақ"
+                ],
+                "Karakalpak": [
+                    "oń tárep"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوڭ تەرەپتىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "راست"
+                ]
+            }
+        }
+    ]
+}

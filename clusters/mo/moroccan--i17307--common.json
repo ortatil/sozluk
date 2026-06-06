@@ -1,0 +1,87 @@
+{
+    "id": "i17307",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "moroccan",
+    "en_definition": "of or relating to or characteristic of Morocco or its people",
+    "tr_word": "Faslı",
+    "tr_definition": "Fas ülkesine, halkına veya kültürüne özgü olan",
+    "ru_word": "марокканский",
+    "ru_definition": "относящийся к Марокко, марокканцам или их культуре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mərakeşli",
+                    "mərakeş"
+                ],
+                "Turkmen": [
+                    "marokko",
+                    "marokko degişli",
+                    "marokkolylar"
+                ],
+                "Uzbek": [
+                    "marokashlik"
+                ],
+                "Uyghur": [
+                    "ماراكەشلىك"
+                ],
+                "Kazakh": [
+                    "марокколық"
+                ],
+                "Kyrgyz": [
+                    "марокколук"
+                ],
+                "Karakalpak": [
+                    "marokkolı"
+                ],
+                "Tatar": [
+                    "марокколы"
+                ],
+                "Bashkir": [
+                    "марокко"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Mağribi"
+                ],
+                "Uzbek": [
+                    "magʻriblik"
+                ],
+                "Uyghur": [
+                    "مەغرىبلىك"
+                ],
+                "Kazakh": [
+                    "мағрибтік"
+                ],
+                "Kyrgyz": [
+                    "магрибдик"
+                ],
+                "Karakalpak": [
+                    "maǵrib",
+                    "maǵribli"
+                ],
+                "Tatar": [
+                    "мәгъриб",
+                    "мәгърибле"
+                ],
+                "Bashkir": [
+                    "мәғриб",
+                    "мәғрибтәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Faslı"
+                ]
+            }
+        }
+    ]
+}

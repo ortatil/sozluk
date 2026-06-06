@@ -1,0 +1,88 @@
+{
+    "id": "i37612",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "child abuse",
+    "en_definition": "the physical or emotional or sexual mistreatment of children",
+    "tr_word": "çocuk istismarı",
+    "tr_definition": "çocukların fiziksel, duygusal veya cinsel yollarla kötü muameleye maruz bırakılması",
+    "ru_word": "жестокое обращение с детьми",
+    "ru_definition": "физическое, эмоциональное или сексуальное насилие над детьми",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bolalarga nisbatan zo'ravonlik",
+                    "bolalarni xo'rlash",
+                    "bolalarga yomon munosabatda bo'lish",
+                    "bolalarga jabr qilish"
+                ],
+                "Uyghur": [
+                    "بالىلارغا زۇلۇم قىلىش",
+                    "بالىلارغا ئازار بېرىش",
+                    "بالىلارنى خارلاش",
+                    "بالىلارغا قىلىنغان قەبىھلىك"
+                ],
+                "Kazakh": [
+                    "балаға қиянат",
+                    "балаға зорлық-зомбылық",
+                    "баланы қорлау",
+                    "балаға жәбір көрсету"
+                ],
+                "Kyrgyz": [
+                    "балага кордук көрсөтүү",
+                    "балага жаман мамиле кылуу",
+                    "баланы кордоо",
+                    "балага зомбулук көрсөтүү"
+                ],
+                "Karakalpak": [
+                    "balalarǵa zorlıq-zombılıq",
+                    "balalarǵa jaman mamile",
+                    "balalardı qorlau"
+                ],
+                "Tatar": [
+                    "балаларга карата золым",
+                    "балаларны җәберләү",
+                    "балаларга карата кыерсыту",
+                    "балаларга карата явызлык"
+                ],
+                "Bashkir": [
+                    "балаға ҡарата йәбер",
+                    "балаға ҡарата золом",
+                    "баланы рәнйетеү",
+                    "балаға ҡарата ҡанһыҙлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çocuk istismarı",
+                    "çocuğa kötü muamele",
+                    "çocuk hırpalaması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uşaq istismarı",
+                    "uşağa qarşı zorakılıq",
+                    "uşaq təhqiri",
+                    "uşaq əziyyəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaga sütemi",
+                    "çaga azar bermek",
+                    "çaga zulumy",
+                    "çaga ýaman çemeleşmek"
+                ]
+            }
+        }
+    ]
+}

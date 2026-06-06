@@ -1,0 +1,107 @@
+{
+    "id": "i90232",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "goalkeeper",
+    "en_definition": "the soccer or hockey player assigned to protect the goal",
+    "tr_word": "kaleci",
+    "tr_definition": "futbol veya hokey gibi oyunlarda kaleyi korumakla görevli oyuncu",
+    "ru_word": "вратарь",
+    "ru_definition": "игрок в футболе, хоккее и некоторых других командных играх, защищающий ворота",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaleci"
+                ],
+                "Azerbaijani": [
+                    "qapıçı"
+                ],
+                "Tatar": [
+                    "капкачы"
+                ],
+                "Bashkir": [
+                    "ҡапҡасы",
+                    "ҡапҡа һаҡсыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "derwezeçi"
+                ],
+                "Uzbek": [
+                    "darvozabon"
+                ],
+                "Uyghur": [
+                    "دەرۋازىۋەن",
+                    "دەرۋازا ساقلىغۇچى"
+                ],
+                "Kyrgyz": [
+                    "дарбазачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goragçy"
+                ],
+                "Karakalpak": [
+                    "qorǵaushı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қақпашы"
+                ],
+                "Karakalpak": [
+                    "qaqpashı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сакчы"
+                ],
+                "Tatar": [
+                    "сакчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "file bekçisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mühafizəçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "posbon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күзетші"
+                ]
+            }
+        }
+    ]
+}

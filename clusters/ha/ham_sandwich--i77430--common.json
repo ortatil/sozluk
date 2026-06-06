@@ -1,0 +1,72 @@
+{
+    "id": "i77430",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ham sandwich",
+    "en_definition": "a sandwich made with a filling of sliced ham",
+    "tr_word": "jambonlu sandviç",
+    "tr_definition": "dilimlenmiş jambon dolgusu ile yapılan bir sandviç",
+    "ru_word": "сэндвич с ветчиной",
+    "ru_definition": "бутерброд, приготовленный с начинкой из нарезанной ветчины",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "cho'chqa go'shtli buterbrod",
+                    "cho'chqa go'shtli sendvich"
+                ],
+                "Uyghur": [
+                    "چوشقا گۆشى ساندىۋىچى",
+                    "چوشقا گۆشى بولكىسى"
+                ],
+                "Kazakh": [
+                    "шошқа еті қосылған бәтер",
+                    "шошқа еті қосылған бутерброд",
+                    "шошқа еті салынған нан"
+                ],
+                "Kyrgyz": [
+                    "чочко эти кошулган бутерброд",
+                    "чочко эти менен нан"
+                ],
+                "Karakalpak": [
+                    "shoshqa góshli buterbrod",
+                    "shoshqa góshli nan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "donuz əti buterbrodu",
+                    "donuz əti sandviçi"
+                ],
+                "Turkmen": [
+                    "doňuz etli çörek",
+                    "doňuz etli buterbrod"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "итле икмәк",
+                    "итле бутерброд",
+                    "какланган итле икмәк"
+                ],
+                "Bashkir": [
+                    "итле икмәк",
+                    "итле бутерброд"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "jambonlu sandviç",
+                    "jambonlu ekmek"
+                ]
+            }
+        }
+    ]
+}

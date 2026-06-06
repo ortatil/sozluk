@@ -1,0 +1,83 @@
+{
+    "id": "i31520",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "ride horseback",
+    "en_definition": "ride on horseback",
+    "tr_word": "ata binmek",
+    "tr_definition": "Bir atın üzerine binerek yol almak veya spor yapmak",
+    "ru_word": "ездить верхом",
+    "ru_definition": "передвигаться, сидя на спине лошади",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ata binmek",
+                    "at sürmek",
+                    "at koşturmak"
+                ],
+                "Azerbaijani": [
+                    "at çapmaq",
+                    "at sürmək",
+                    "at minmək"
+                ],
+                "Turkmen": [
+                    "at çapmak",
+                    "at münmek",
+                    "atly gitmek"
+                ],
+                "Uzbek": [
+                    "ot minmoq",
+                    "ot surmoq",
+                    "otda yurmoq"
+                ],
+                "Uyghur": [
+                    "ئات مىنمەك",
+                    "ئاتلانماق"
+                ],
+                "Kazakh": [
+                    "атқа міну",
+                    "атпен жүру"
+                ],
+                "Kyrgyz": [
+                    "атка минүү",
+                    "ат минүү",
+                    "ат чабуу"
+                ],
+                "Karakalpak": [
+                    "atqa mіnu",
+                    "at shabıu",
+                    "at júrgіzіu"
+                ],
+                "Tatar": [
+                    "атлану",
+                    "атта бару",
+                    "атка атлану"
+                ],
+                "Bashkir": [
+                    "атланыу",
+                    "атҡа атланыу",
+                    "атта йөрөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "süvari olmaq"
+                ],
+                "Uzbek": [
+                    "suvoriy bo'lmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "салт жүру"
+                ]
+            }
+        }
+    ]
+}

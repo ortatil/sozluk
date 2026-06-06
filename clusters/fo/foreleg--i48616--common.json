@@ -1,0 +1,71 @@
+{
+    "id": "i48616",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "foreleg",
+    "en_definition": "the forelimb of a quadruped",
+    "tr_word": "ön bacak",
+    "tr_definition": "Dört ayaklı bir hayvanın ön taraftaki bacaklarından her biri.",
+    "ru_word": "передняя нога",
+    "ru_definition": "Передняя конечность четвероногого животного.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oldingi oyoq",
+                    "old oyoq"
+                ],
+                "Uyghur": [
+                    "ئالدى پۇت",
+                    "ئالدى پۇتى"
+                ],
+                "Kazakh": [
+                    "алдыңғы аяқ",
+                    "алдыңғы жілік"
+                ],
+                "Kyrgyz": [
+                    "алдыңкы бут",
+                    "алдыңкы шыйрак"
+                ],
+                "Karakalpak": [
+                    "aldıńǵı ayaq",
+                    "aldıńǵı pásh"
+                ],
+                "Tatar": [
+                    "алгы аяк"
+                ],
+                "Bashkir": [
+                    "алғы аяҡ",
+                    "алғы бот"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ön bacak",
+                    "ön ayak"
+                ],
+                "Azerbaijani": [
+                    "ön ayaq"
+                ],
+                "Turkmen": [
+                    "öňki aýak",
+                    "öň aýak"
+                ],
+                "Tatar": [
+                    "ал аяк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabaq ayaq"
+                ]
+            }
+        }
+    ]
+}

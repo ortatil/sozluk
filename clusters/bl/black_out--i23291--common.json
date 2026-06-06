@@ -1,0 +1,125 @@
+{
+    "id": "i23291",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "black out",
+    "en_definition": "darken completely",
+    "tr_word": "karartmak",
+    "tr_definition": "tamamen karanlık hale getirmek",
+    "ru_word": "затемнять",
+    "ru_definition": "делать совершенно темным",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karartmak",
+                    "karanlığa boğmak"
+                ],
+                "Azerbaijani": [
+                    "qaraltmaq",
+                    "qaranlıqlaşdırmaq"
+                ],
+                "Turkmen": [
+                    "garaltmak",
+                    "garaňkylatmak"
+                ],
+                "Uzbek": [
+                    "qorong'ulatmoq",
+                    "qorong'u qilmoq"
+                ],
+                "Uyghur": [
+                    "قارايتماق",
+                    "قاراڭغۇلاتماق"
+                ],
+                "Kazakh": [
+                    "қараңғылау",
+                    "қараңғылату"
+                ],
+                "Kyrgyz": [
+                    "караңгылатуу"
+                ],
+                "Karakalpak": [
+                    "qarańǵılatıu",
+                    "qarańǵılau"
+                ],
+                "Tatar": [
+                    "карангылату",
+                    "карангыландыру"
+                ],
+                "Bashkir": [
+                    "ҡараңғылатыу",
+                    "ҡараңғылау",
+                    "ҡараңғы итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "zülmətə qərq etmək"
+                ],
+                "Uzbek": [
+                    "zulmat bosmoq"
+                ],
+                "Uyghur": [
+                    "زۇلمەت قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "түнеру",
+                    "түнек басу"
+                ],
+                "Karakalpak": [
+                    "túnertiu"
+                ],
+                "Tatar": [
+                    "сүндерү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tümlendirmek"
+                ],
+                "Kyrgyz": [
+                    "түнөртүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ışıkları söndürmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tira qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өчүрүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "томалау"
+                ]
+            }
+        }
+    ]
+}

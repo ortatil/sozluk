@@ -1,0 +1,195 @@
+# Dizzily
+| Field | Detail |
+|---|---|
+| **ID** | i18644 |
+| **English** | dizzily |
+| **Type** | adverb |
+| **Definition** | in a giddy light-headed manner |
+| **Source** | common |
+| **Ortatil** | sersemce |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sersemce** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تېڭىرقاپ | teñirqap |
+| گاڭگىراپ | gañgirap |
+| **Kazakh** | |
+| есеңгіреп | yeseñgirep |
+| **Kyrgyz** | |
+| делөөрүп | delöörüp |
+| делөөрүгөнсүп | delöörügönsüp |
+| **Tatar** | |
+| хәлсезләнеп | xälsezlänep |
+| **Bashkir** | |
+| иҫергәндәй | isergändäy |
+
+```json
+{
+    "id": "i18644",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "dizzily",
+    "en_definition": "in a giddy light-headed manner",
+    "tr_word": "baş dönmesiyle",
+    "tr_definition": "sersemlemiş ve dengesini kaybetmiş bir şekilde",
+    "ru_word": "головокружительно",
+    "ru_definition": "в состоянии головокружения или легкого замешательства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başı dönerek"
+                ],
+                "Azerbaijani": [
+                    "başgicəlləndirici",
+                    "başgicəllənməylə"
+                ],
+                "Turkmen": [
+                    "başy aýlanyp"
+                ],
+                "Uzbek": [
+                    "boshing aylanib"
+                ],
+                "Uyghur": [
+                    "بېشى قېيىپ"
+                ],
+                "Kazakh": [
+                    "басы айналып"
+                ],
+                "Kyrgyz": [
+                    "башы айланып"
+                ],
+                "Karakalpak": [
+                    "bası aylanıp"
+                ],
+                "Tatar": [
+                    "баш әйләнеп",
+                    "баш әйләнгәнчә"
+                ],
+                "Bashkir": [
+                    "баш әйләнеп",
+                    "баш әйләнгән хәлдә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sersemce",
+                    "sersemleyerek"
+                ],
+                "Azerbaijani": [
+                    "sərsəm-sərsəm"
+                ],
+                "Turkmen": [
+                    "serhoşluk bilen",
+                    "sersemleýin"
+                ],
+                "Uzbek": [
+                    "sarosima bo'lib"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "есеңгіреп"
+                ],
+                "Kyrgyz": [
+                    "эси ооп"
+                ],
+                "Karakalpak": [
+                    "eseńgіrep"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дел-сал болып"
+                ],
+                "Kyrgyz": [
+                    "делөөрүп",
+                    "делөөрүгөнсүп"
+                ],
+                "Karakalpak": [
+                    "del-sal bolıp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "исергән кебек"
+                ],
+                "Bashkir": [
+                    "иҫергәндәй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "baygınca"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "garang bo'lib",
+                    "gangib"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېڭىرقاپ",
+                    "تېڭىرقاش ئىچىدە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گاڭگىراپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәлсезләнеп"
+                ]
+            }
+        }
+    ]
+}
+```
+

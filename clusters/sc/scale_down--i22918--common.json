@@ -1,0 +1,155 @@
+{
+    "id": "i22918",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "reduce",
+    "en_definition": "make smaller",
+    "tr_word": "azaltmak",
+    "tr_definition": "bir şeyi miktar, derece veya boyut olarak daha küçük hale getirmek",
+    "ru_word": "уменьшать",
+    "ru_definition": "делать что-либо меньше по размеру, количеству или степени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "azaltmak",
+                    "daraltmak"
+                ],
+                "Azerbaijani": [
+                    "azaltmaq"
+                ],
+                "Turkmen": [
+                    "azaltmak"
+                ],
+                "Uzbek": [
+                    "ozaytirmoq"
+                ],
+                "Uyghur": [
+                    "ئازايتىش"
+                ],
+                "Kazakh": [
+                    "азайту"
+                ],
+                "Kyrgyz": [
+                    "азайтуу"
+                ],
+                "Karakalpak": [
+                    "azaytpak"
+                ],
+                "Tatar": [
+                    "азайту"
+                ],
+                "Bashkir": [
+                    "аҙайтыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçültmek"
+                ],
+                "Azerbaijani": [
+                    "kiçiltmək"
+                ],
+                "Turkmen": [
+                    "kiçeltmek",
+                    "kemeltmek"
+                ],
+                "Uyghur": [
+                    "كىچىكلىتىش"
+                ],
+                "Kazakh": [
+                    "кішірейту"
+                ],
+                "Kyrgyz": [
+                    "кичирейтүү",
+                    "кыскартуу"
+                ],
+                "Karakalpak": [
+                    "kishireytpek"
+                ],
+                "Tatar": [
+                    "кечерәйтү",
+                    "кыскарту"
+                ],
+                "Bashkir": [
+                    "кесерәйтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kichraytirmoq",
+                    "kamaytirmoq",
+                    "qisqartirmoq"
+                ],
+                "Uyghur": [
+                    "قىسقارتىش"
+                ],
+                "Kazakh": [
+                    "қысқарту"
+                ],
+                "Karakalpak": [
+                    "qısqartpak"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡартыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eksiltmek"
+                ],
+                "Azerbaijani": [
+                    "əskiltmək"
+                ],
+                "Turkmen": [
+                    "peseltmek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەنلىتىش"
+                ],
+                "Kazakh": [
+                    "төмендету"
+                ],
+                "Kyrgyz": [
+                    "төмөндөтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "indirgemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtisar etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "кәметеү"
+                ]
+            }
+        }
+    ]
+}

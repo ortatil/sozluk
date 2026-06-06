@@ -1,0 +1,72 @@
+{
+    "id": "i90152",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gardener",
+    "en_definition": "someone who takes care of a garden",
+    "tr_word": "bahçıvan",
+    "tr_definition": "bahçenin bakımıyla ilgilenen kimse",
+    "ru_word": "садовник",
+    "ru_definition": "человек, который ухаживает за садом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bahçıvan",
+                    "bağban"
+                ],
+                "Azerbaijani": [
+                    "bağban",
+                    "bağçı"
+                ],
+                "Turkmen": [
+                    "bagban",
+                    "bakjaçy"
+                ],
+                "Uzbek": [
+                    "bogʻbon"
+                ],
+                "Uyghur": [
+                    "باغۋەن",
+                    "باغچى",
+                    "باغبان"
+                ],
+                "Kazakh": [
+                    "бағбан",
+                    "бақшашы"
+                ],
+                "Kyrgyz": [
+                    "бакчы",
+                    "багбан"
+                ],
+                "Karakalpak": [
+                    "baǵman",
+                    "baǵban"
+                ],
+                "Tatar": [
+                    "бакчачы",
+                    "бакча караучы"
+                ],
+                "Bashkir": [
+                    "баҡсасы",
+                    "баҡса ҡараусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chamanbon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gulchi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+# Lipstick
+| Field | Detail |
+|---|---|
+| **ID** | i55740 |
+| **English** | lipstick |
+| **Type** | noun |
+| **Definition** | makeup that is used to color the lips |
+| **Source** | common |
+| **Ortatil** | pomada |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| далап | dalap |
+
+```json
+{
+    "id": "i55740",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lipstick",
+    "en_definition": "makeup that is used to color the lips",
+    "tr_word": "ruj",
+    "tr_definition": "dudakları renklendirmek için kullanılan makyaj malzemesi",
+    "ru_word": "помада",
+    "ru_definition": "косметическое средство для окрашивания губ",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ерін бояуы"
+                ],
+                "Kyrgyz": [
+                    "эрдин боёгу"
+                ],
+                "Karakalpak": [
+                    "erіn boyau",
+                    "erіn dalabı"
+                ],
+                "Tatar": [
+                    "ирен буявы"
+                ],
+                "Bashkir": [
+                    "ирен буяуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dudak boyası"
+                ],
+                "Azerbaijani": [
+                    "dodaq boyası"
+                ],
+                "Turkmen": [
+                    "dudak boýagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pomada"
+                ],
+                "Turkmen": [
+                    "pomada"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lab bo'yog'i"
+                ],
+                "Uyghur": [
+                    "لەۋ سۇرۇقى",
+                    "لەۋ بوياق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирен иннеге"
+                ],
+                "Bashkir": [
+                    "ирен инлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ruj"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gülgun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'oza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "لەۋ سۇرۇخ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "далап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ооз боёгу"
+                ]
+            }
+        }
+    ]
+}
+```
+

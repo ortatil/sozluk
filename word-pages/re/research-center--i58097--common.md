@@ -1,0 +1,164 @@
+# Research center
+| Field | Detail |
+|---|---|
+| **ID** | i58097 |
+| **English** | research center |
+| **Type** | noun |
+| **Definition** | a center where research is done |
+| **Source** | common |
+| **Ortatil** | tätqiqgäh |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەتقىقگاھ | tätqiqgah |
+
+```json
+{
+    "id": "i58097",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "research center",
+    "en_definition": "a center where research is done",
+    "tr_word": "araştırma merkezi",
+    "tr_definition": "araştırmaların yapıldığı merkez",
+    "ru_word": "исследовательский центр",
+    "ru_definition": "центр, где проводятся исследования",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "elmi mərkəz"
+                ],
+                "Turkmen": [
+                    "ylmy merkez"
+                ],
+                "Uzbek": [
+                    "ilmiy markaz"
+                ],
+                "Karakalpak": [
+                    "ilmiy oray"
+                ],
+                "Bashkir": [
+                    "ғилми үҙәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tetkik merkezi"
+                ],
+                "Azerbaijani": [
+                    "tədqiqat mərkəzi"
+                ],
+                "Uzbek": [
+                    "tadqiqot markazi"
+                ],
+                "Uyghur": [
+                    "تەتقىقات مەركىزى",
+                    "تەتقىقگاھ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tekshirish markazi"
+                ],
+                "Tatar": [
+                    "тикшеренү үзәге"
+                ],
+                "Bashkir": [
+                    "тикшеренеү үҙәге",
+                    "тикшереү үҙәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araştırma merkezi"
+                ],
+                "Azerbaijani": [
+                    "araşdırma mərkəzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зерттеу орталығы",
+                    "зерттеу мекемесі"
+                ],
+                "Karakalpak": [
+                    "izertleo orayı",
+                    "izertleoxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ғылыми орталық"
+                ],
+                "Tatar": [
+                    "гыйльми үзәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "inceleme merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "barlag merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "derňew merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "изилдөө борбору",
+                    "изилдөө мекемеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илимий борбор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "фәнни үзәк"
+                ]
+            }
+        }
+    ]
+}
+```
+

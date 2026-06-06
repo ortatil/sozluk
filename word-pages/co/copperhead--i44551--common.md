@@ -1,0 +1,120 @@
+# Copperhead
+| Field | Detail |
+|---|---|
+| **ID** | i44551 |
+| **English** | copperhead |
+| **Type** | noun |
+| **Definition** | common coppery brown pit viper of upland eastern United States |
+| **Source** | common |
+| **Ortatil** | baqırbaş |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| баҡырбаш | baqırbaş |
+
+```json
+{
+    "id": "i44551",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "copperhead",
+    "en_definition": "common coppery brown pit viper of upland eastern United States",
+    "tr_word": "bakır kafalı yılan",
+    "tr_definition": "Amerika Birleşik Devletleri'nin doğusundaki yaylalarda yaygın olarak bulunan, bakır kahverengi renkli bir engerek türü",
+    "ru_word": "медноголовый щитомордник",
+    "ru_definition": "обыкновенная ядовитая змея семейства ямкоголовых, обитающая в восточной части США и имеющая медно-коричневую окраску",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "misbaş ilan",
+                    "mis rəngli gürzə"
+                ],
+                "Turkmen": [
+                    "mis kelleli ýylan",
+                    "mis reňkli ýylan"
+                ],
+                "Uzbek": [
+                    "mis boshli ilon",
+                    "mis ilon"
+                ],
+                "Uyghur": [
+                    "مىس باشلىق يىلان",
+                    "مىس رەڭلىك يىلان"
+                ],
+                "Kazakh": [
+                    "мысбас жылан",
+                    "мысбас сұржылан"
+                ],
+                "Karakalpak": [
+                    "mısbas jılan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qalxanbaş ilan"
+                ],
+                "Uzbek": [
+                    "qalqonbosh"
+                ],
+                "Kyrgyz": [
+                    "калкан тумшук жылан"
+                ],
+                "Karakalpak": [
+                    "qalqantұmsıq jılan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bakırbaş",
+                    "bakır kafalı yılan",
+                    "bakır rengi engerek"
+                ],
+                "Tatar": [
+                    "бакыр башлы елан",
+                    "бакыр елан"
+                ],
+                "Bashkir": [
+                    "баҡыр йылан",
+                    "баҡырбаш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyzyl meňli ýylan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жез баш жылан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жез түстүү жылан"
+                ]
+            }
+        }
+    ]
+}
+```
+

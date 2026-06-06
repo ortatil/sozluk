@@ -1,0 +1,124 @@
+{
+    "id": "i36401",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "football score",
+    "en_definition": "the score in a football game",
+    "tr_word": "futbol skoru",
+    "tr_definition": "bir futbol maçındaki sayı durumu",
+    "ru_word": "счет футбольного матча",
+    "ru_definition": "результат игры в футбол, выраженный в количестве забитых голов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hesab"
+                ],
+                "Turkmen": [
+                    "hasap"
+                ],
+                "Uzbek": [
+                    "hisob"
+                ],
+                "Kazakh": [
+                    "есеп"
+                ],
+                "Kyrgyz": [
+                    "эсеп"
+                ],
+                "Karakalpak": [
+                    "esap"
+                ],
+                "Tatar": [
+                    "исәп"
+                ],
+                "Bashkir": [
+                    "иҫәп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyun sonucu"
+                ],
+                "Azerbaijani": [
+                    "oyun hesabı"
+                ],
+                "Turkmen": [
+                    "oýun hasaby"
+                ],
+                "Kazakh": [
+                    "ойын есебі"
+                ],
+                "Tatar": [
+                    "уен исәбе"
+                ],
+                "Bashkir": [
+                    "уйын иҫәбе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəticə"
+                ],
+                "Turkmen": [
+                    "netije"
+                ],
+                "Uzbek": [
+                    "natija"
+                ],
+                "Uyghur": [
+                    "نەتىجە"
+                ],
+                "Karakalpak": [
+                    "nátiyje"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "maç skoru",
+                    "maç sonucu"
+                ],
+                "Tatar": [
+                    "матч исәбе"
+                ],
+                "Bashkir": [
+                    "матч иҫәбе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұпай саны"
+                ],
+                "Kyrgyz": [
+                    "упай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇتبول نەتىجىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نومۇر"
+                ]
+            }
+        }
+    ]
+}

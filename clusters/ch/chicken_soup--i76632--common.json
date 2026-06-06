@@ -1,0 +1,66 @@
+{
+    "id": "i76632",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chicken soup",
+    "en_definition": "soup made from chicken broth",
+    "tr_word": "tavuk suyu çorbası",
+    "tr_definition": "tavuk suyu ile yapılan çorba",
+    "ru_word": "куриный суп",
+    "ru_definition": "суп, приготовленный на курином бульоне",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavuk suyu çorbası",
+                    "tavuk çorbası"
+                ],
+                "Azerbaijani": [
+                    "toyuq şorbası",
+                    "toyuq supu",
+                    "toyuq suyu"
+                ],
+                "Turkmen": [
+                    "towuk çorbasy",
+                    "towukly çorba"
+                ],
+                "Uzbek": [
+                    "tovuq sho'rva",
+                    "tovuq sho'rvasi"
+                ],
+                "Uyghur": [
+                    "توخۇ شورپىسى",
+                    "تۇخۇ شورپىسى"
+                ],
+                "Kazakh": [
+                    "тауық сорпасы",
+                    "тауық шұрпасы"
+                ],
+                "Kyrgyz": [
+                    "тоок шорпо",
+                    "тоок шорпосу"
+                ],
+                "Karakalpak": [
+                    "taoıq sorpa",
+                    "taoıq shorpa"
+                ],
+                "Tatar": [
+                    "тавык шулпасы",
+                    "тавык ашы"
+                ],
+                "Bashkir": [
+                    "тауыҡ һурпаһы",
+                    "тауыҡ шулпаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "parhez sho'rva"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "i38213",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "folk dance",
+    "en_definition": "a style of dancing that originated among ordinary people (not in the royal courts)",
+    "tr_word": "halk oyunu",
+    "tr_definition": "Saray çevrelerinden ziyade, halk arasında doğup gelişen geleneksel dans türü.",
+    "ru_word": "народный танец",
+    "ru_definition": "Традиционный танец, созданный народом и исполняемый в своей естественной среде.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "halk oyunları",
+                    "halk dansı"
+                ],
+                "Azerbaijani": [
+                    "xalq rəqsi"
+                ],
+                "Turkmen": [
+                    "halk tansy"
+                ],
+                "Uzbek": [
+                    "xalq raqsi"
+                ],
+                "Uyghur": [
+                    "خەلق ئۇسسۇلى"
+                ],
+                "Kazakh": [
+                    "халық биі"
+                ],
+                "Karakalpak": [
+                    "xalıq oyını",
+                    "xalıq biyi"
+                ],
+                "Tatar": [
+                    "халык биюе",
+                    "халык раксы"
+                ],
+                "Bashkir": [
+                    "халыҡ бейеүе",
+                    "халыҡ бейеүҙәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "milli rəqs"
+                ],
+                "Turkmen": [
+                    "milli tans"
+                ],
+                "Uzbek": [
+                    "milliy raqs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұлттық би"
+                ],
+                "Kyrgyz": [
+                    "элдик бий",
+                    "улуттук бий"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "raks"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yallı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'yin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاممىۋى ئۇسسۇل"
+                ]
+            }
+        }
+    ]
+}

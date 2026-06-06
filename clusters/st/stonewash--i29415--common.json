@@ -1,0 +1,122 @@
+{
+    "id": "i29415",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "stonewash",
+    "en_definition": "wash with stones to achieve a worn appearance",
+    "tr_word": "taşlamak",
+    "tr_definition": "kumaşa yıpranmış bir görünüm kazandırmak için taşlarla yıkamak",
+    "ru_word": "стирать с камнями",
+    "ru_definition": "стирать ткань с использованием камней для придания ей поношенного вида",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşlamak",
+                    "taş yıkama yapmak"
+                ],
+                "Azerbaijani": [
+                    "daşla yumaq"
+                ],
+                "Turkmen": [
+                    "daş bilen ýuwmak"
+                ],
+                "Uzbek": [
+                    "tosh bilan yuvmoq"
+                ],
+                "Uyghur": [
+                    "تاش بىلەن يۇيۇش",
+                    "تاشتا يۇيۇش",
+                    "تاش چىقىرىپ يۇيۇش"
+                ],
+                "Kazakh": [
+                    "таспен жуу",
+                    "таспен өңдеу"
+                ],
+                "Kyrgyz": [
+                    "таш менен жуу"
+                ],
+                "Karakalpak": [
+                    "tas penen juoıo",
+                    "tasqa salıp juoıo"
+                ],
+                "Tatar": [
+                    "таш белән юу",
+                    "таш белән ышку"
+                ],
+                "Bashkir": [
+                    "таш менән йыуыу",
+                    "таш менән ышҡыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ishqalab yuvmoq",
+                    "eskirtib yuvmoq"
+                ],
+                "Kyrgyz": [
+                    "эскиртүү"
+                ],
+                "Tatar": [
+                    "ишкәртү"
+                ],
+                "Bashkir": [
+                    "иҫкертеп йыуыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "aşındırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "köhnəltmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "köne görnüş bermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sürtüp agartmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үйкеп ағарту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өңүн чыгаруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "eskirtip juoıo"
+                ]
+            }
+        }
+    ]
+}

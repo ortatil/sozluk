@@ -1,0 +1,185 @@
+# Designated driver
+| Field | Detail |
+|---|---|
+| **ID** | i89486 |
+| **English** | designated driver |
+| **Type** | noun |
+| **Definition** | the member of a party who is designated to refrain from alcohol and so is sober when it is time to drive home |
+| **Source** | common |
+| **Ortatil** | häydäwçi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| айдоочу | aydooçu |
+
+```json
+{
+    "id": "i89486",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "designated driver",
+    "en_definition": "the member of a party who is designated to refrain from alcohol and so is sober when it is time to drive home",
+    "tr_word": "gönüllü şoför",
+    "tr_definition": "Bir grupta alkol almayarak dönüş yolunda aracı kullanma görevini üstlenen kişi",
+    "ru_word": "трезвый водитель",
+    "ru_definition": "человек в компании, который добровольно отказывается от алкоголя, чтобы иметь возможность вести машину и развезти остальных по домам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayık sürücü"
+                ],
+                "Azerbaijani": [
+                    "ayıq sürücü"
+                ],
+                "Tatar": [
+                    "айнык шофер",
+                    "айнык йөртүче"
+                ],
+                "Bashkir": [
+                    "айыҡ водитель",
+                    "айыҡ йөрөтөүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məsul sürücü"
+                ],
+                "Uzbek": [
+                    "mas'ul haydovchi"
+                ],
+                "Uyghur": [
+                    "مەس بولمىغان شوپۇر",
+                    "مەسئۇل شوپۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сау жүргізуші"
+                ],
+                "Karakalpak": [
+                    "sao júrgizioshi",
+                    "belgilengen júrgizioshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ичпеген айдоочу"
+                ],
+                "Karakalpak": [
+                    "ishpegen júrgizioshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "билгеләнгән йөртүче"
+                ],
+                "Bashkir": [
+                    "билдәләнгән водитель"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "emanet şoför"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nöbetçi şoför"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sürüji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "serhoş däl sürüji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jogapkärli sürüji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "haydovchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hushyor haydovchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھاراق ئىچمەيدىغان شوپۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кезекші жүргізуші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сенімді жүргізуші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айдоочу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башчы айдоочу"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,133 @@
+{
+    "id": "i74900",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pip",
+    "en_definition": "a mark on a die or on a playing card (shape depending on the suit)",
+    "tr_word": "benek",
+    "tr_definition": "zar veya oyun kağıdı üzerindeki sayıları gösteren işaretlerden her biri",
+    "ru_word": "очко",
+    "ru_definition": "знак на игральной кости или карте, обозначающий числовое значение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz"
+                ],
+                "Azerbaijani": [
+                    "göz"
+                ],
+                "Turkmen": [
+                    "göz"
+                ],
+                "Uzbek": [
+                    "koʻz"
+                ],
+                "Kazakh": [
+                    "көз"
+                ],
+                "Kyrgyz": [
+                    "көз"
+                ],
+                "Karakalpak": [
+                    "kóz"
+                ],
+                "Tatar": [
+                    "күз"
+                ],
+                "Bashkir": [
+                    "күҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nokta"
+                ],
+                "Turkmen": [
+                    "nokat"
+                ],
+                "Uzbek": [
+                    "nuqta"
+                ],
+                "Uyghur": [
+                    "نۇقتا"
+                ],
+                "Karakalpak": [
+                    "noqat"
+                ],
+                "Tatar": [
+                    "нокта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "benek"
+                ],
+                "Uyghur": [
+                    "بەلگە"
+                ],
+                "Kyrgyz": [
+                    "белги"
+                ],
+                "Karakalpak": [
+                    "belgi"
+                ],
+                "Bashkir": [
+                    "билдә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xal"
+                ],
+                "Turkmen": [
+                    "hal"
+                ],
+                "Uzbek": [
+                    "xol"
+                ],
+                "Uyghur": [
+                    "خال"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "таңба"
+                ],
+                "Tatar": [
+                    "тамга"
+                ],
+                "Bashkir": [
+                    "тамға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұпай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чекит"
+                ]
+            }
+        }
+    ]
+}

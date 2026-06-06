@@ -1,0 +1,81 @@
+{
+    "id": "i59051",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sleeping car",
+    "en_definition": "a passenger car that has berths for sleeping",
+    "tr_word": "yataklı vagon",
+    "tr_definition": "Yolcuların gece uyuyabilmesi için içinde yataklar bulunan tren vagonu.",
+    "ru_word": "спальный вагон",
+    "ru_definition": "Железнодорожный вагон, оборудованный спальными местами для пассажиров.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yataklı vagon"
+                ],
+                "Azerbaijani": [
+                    "yataqlı vaqon",
+                    "yataq vaqonu"
+                ],
+                "Turkmen": [
+                    "ýatylýan wagon",
+                    "ýatakly wagon"
+                ],
+                "Uzbek": [
+                    "yotoqli vagon",
+                    "yotoqxona vagoni"
+                ],
+                "Uyghur": [
+                    "ياتاقلىق ۋاگون",
+                    "ياتاقلىق پويىز"
+                ],
+                "Kazakh": [
+                    "жатын вагон"
+                ],
+                "Kyrgyz": [
+                    "жатуучу вагон"
+                ],
+                "Karakalpak": [
+                    "jataq wagon"
+                ],
+                "Tatar": [
+                    "ятма вагон"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "уктоочу вагон"
+                ],
+                "Tatar": [
+                    "йокы вагоны"
+                ],
+                "Bashkir": [
+                    "йоҡо вагоны",
+                    "йоҡо бүлмәле вагон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұйықтайтын вагон"
+                ],
+                "Karakalpak": [
+                    "uyıqlaytın wagon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuşetli vagon"
+                ]
+            }
+        }
+    ]
+}

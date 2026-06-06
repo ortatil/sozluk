@@ -1,0 +1,73 @@
+{
+    "id": "i77431",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chicken sandwich",
+    "en_definition": "a sandwich made with a filling of sliced chicken",
+    "tr_word": "tavuklu sandviç",
+    "tr_definition": "dilimlenmiş tavuk dolgusu ile yapılan sandviç",
+    "ru_word": "сэндвич с курицей",
+    "ru_definition": "бутерброд, приготовленный с начинкой из нарезанной курицы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavuklu sandviç",
+                    "tavuk sandviç"
+                ],
+                "Azerbaijani": [
+                    "toyuq sendviçi",
+                    "toyuqlu sendviç",
+                    "toyuq çörəyi",
+                    "toyuqlu çörək"
+                ],
+                "Turkmen": [
+                    "towukly sendwiç",
+                    "towukly çörek"
+                ],
+                "Uzbek": [
+                    "tovuqli sendvich",
+                    "tovuqli non"
+                ],
+                "Uyghur": [
+                    "تۇخۇ گۆشى ساندىۋىچى",
+                    "تۇخۇ گۆشى نېنى"
+                ],
+                "Karakalpak": [
+                    "taoıqlı nan"
+                ],
+                "Tatar": [
+                    "тавыклы сэндвич",
+                    "тавык ите белән икмәк",
+                    "тавыклы бутерброд"
+                ],
+                "Bashkir": [
+                    "тауыҡ бутерброды",
+                    "тауыҡ ите менән икмәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тауық еті қосылған бәтер",
+                    "тауық бәтері",
+                    "тауық етінен жасалған бәтер"
+                ],
+                "Karakalpak": [
+                    "taoıq góshli nan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоок этинен жасалган бутерброд",
+                    "тоок эти кошулган нан",
+                    "тоок этинен жасалган тамак"
+                ]
+            }
+        }
+    ]
+}

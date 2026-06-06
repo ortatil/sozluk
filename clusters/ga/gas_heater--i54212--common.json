@@ -1,0 +1,94 @@
+{
+    "id": "i54212",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gas heater",
+    "en_definition": "a heater that burns gas for heat",
+    "tr_word": "doğalgaz sobası",
+    "tr_definition": "Isı üretmek için gaz yakan ısıtıcı cihaz",
+    "ru_word": "газовый обогреватель",
+    "ru_definition": "обогреватель, работающий на сжигании газа для получения тепла",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gazlı soba",
+                    "gaz sobası"
+                ],
+                "Azerbaijani": [
+                    "qaz sobası",
+                    "qaz peçi"
+                ],
+                "Turkmen": [
+                    "gaz peji",
+                    "gaz gyzdyryjysy",
+                    "gazly peç"
+                ],
+                "Uzbek": [
+                    "gazli isitgich",
+                    "gaz pechi",
+                    "gazli isitish moslamasi"
+                ],
+                "Uyghur": [
+                    "گاز پېچى",
+                    "گاز ئىسسىتقۇچ",
+                    "گاز ئوچىقى"
+                ],
+                "Kazakh": [
+                    "газ пеші",
+                    "газбен жылытқыш"
+                ],
+                "Kyrgyz": [
+                    "газ меши",
+                    "газ жылыткыч",
+                    "газ очогу"
+                ],
+                "Karakalpak": [
+                    "gaz peshi"
+                ],
+                "Tatar": [
+                    "газ миче",
+                    "газ җылыткыч"
+                ],
+                "Bashkir": [
+                    "газ мейесе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qaz qızdırıcısı"
+                ],
+                "Kazakh": [
+                    "газ жылытқышы"
+                ],
+                "Karakalpak": [
+                    "gaz jılıtqıshı"
+                ],
+                "Tatar": [
+                    "газ җылыткычы"
+                ],
+                "Bashkir": [
+                    "газ йылытҡысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğalgaz sobası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "katalitik soba"
+                ]
+            }
+        }
+    ]
+}

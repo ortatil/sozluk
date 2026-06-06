@@ -1,0 +1,73 @@
+{
+    "id": "i17977",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "oaten",
+    "en_definition": "of or related to or derived from oats",
+    "tr_word": "yulaftan yapılmış",
+    "tr_definition": "yulaftan elde edilen veya yulaf ile ilgili olan",
+    "ru_word": "овсяный",
+    "ru_definition": "сделанный из овса или относящийся к нему",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "süleli",
+                    "süle"
+                ],
+                "Uzbek": [
+                    "suli",
+                    "sulidan tayyorlangan",
+                    "sulili"
+                ],
+                "Kazakh": [
+                    "сұлы",
+                    "сұлыдан жасалған"
+                ],
+                "Kyrgyz": [
+                    "сулудан жасалган",
+                    "сулу"
+                ],
+                "Karakalpak": [
+                    "sұlılı",
+                    "sұlıdan jasalǵan"
+                ],
+                "Tatar": [
+                    "солы",
+                    "солыдан ясалган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yulaflı",
+                    "yulaftan yapılmış"
+                ],
+                "Uyghur": [
+                    "يۇلغۇنلۇق",
+                    "يۇلغۇندىن ياسالغان",
+                    "يۇلغۇنغا ئائىت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vələmir",
+                    "vələmirdən hazırlanmış",
+                    "vələmirli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "олоҡ",
+                    "олоҡло"
+                ]
+            }
+        }
+    ]
+}

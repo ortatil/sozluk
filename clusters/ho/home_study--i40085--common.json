@@ -1,0 +1,140 @@
+{
+    "id": "i40085",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "home study",
+    "en_definition": "a course of study carried out at home rather than in a classroom",
+    "tr_word": "evde eğitim",
+    "tr_definition": "bir sınıfta değil, evde yürütülen eğitim veya çalışma programı",
+    "ru_word": "домашнее обучение",
+    "ru_definition": "курс обучения, проводимый дома, а не в классе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "uyda o'qish"
+                ],
+                "Uyghur": [
+                    "ئۆيدە ئۆگىنىش"
+                ],
+                "Kazakh": [
+                    "үйде оқу"
+                ],
+                "Kyrgyz": [
+                    "үйдөн окуу"
+                ],
+                "Karakalpak": [
+                    "úyde oqıo"
+                ],
+                "Tatar": [
+                    "өйдә уку",
+                    "өй белеме"
+                ],
+                "Bashkir": [
+                    "өйҙә уҡыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzaktan eğitim"
+                ],
+                "Kyrgyz": [
+                    "өз алдынча окуу"
+                ],
+                "Karakalpak": [
+                    "óz betіnshe oqıo"
+                ],
+                "Bashkir": [
+                    "үҙ аллы уҡыу",
+                    "үҙ аллы белем алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müstakil çalışma"
+                ],
+                "Uzbek": [
+                    "mustaqil ta'lim"
+                ],
+                "Tatar": [
+                    "мөстәкыйль уку"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "özbaşdak bilim",
+                    "özbaşdak okuw"
+                ],
+                "Uyghur": [
+                    "ئۆزلىكىدىن ئۆگىنىش"
+                ],
+                "Kazakh": [
+                    "өздігінен оқу",
+                    "өз бетімен білім алу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سىرتتىن ئوقۇش"
+                ],
+                "Kyrgyz": [
+                    "сырттан окуу"
+                ],
+                "Karakalpak": [
+                    "sırttan oqıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "evde eğitim"
+                ],
+                "Azerbaijani": [
+                    "evdə təhsil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fərdi təhsil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qiyabi təhsil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daşky okuw"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "masofaviy ta'lim"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "id": "i60581",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "troopship",
+    "en_definition": "ship for transporting troops",
+    "tr_word": "asker taşıma gemisi",
+    "tr_definition": "Askerleri ve askeri teçhizatı taşımak için tasarlanmış veya bu amaçla kullanılan gemi.",
+    "ru_word": "войсковой транспорт",
+    "ru_definition": "Судно, предназначенное для перевозки войск и военного имущества.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asker taşıma gemisi"
+                ],
+                "Uzbek": [
+                    "askar tashuvchi kema"
+                ],
+                "Uyghur": [
+                    "ئەسكەر توشۇش پاراخوتى"
+                ],
+                "Kazakh": [
+                    "әскер тасушы кеме",
+                    "әскери кеме"
+                ],
+                "Kyrgyz": [
+                    "аскер кемеси",
+                    "аскер ташуучу кеме"
+                ],
+                "Karakalpak": [
+                    "ásker tasıytuǵın keme",
+                    "áskeri keme"
+                ],
+                "Tatar": [
+                    "гаскәр көймәсе"
+                ],
+                "Bashkir": [
+                    "ғәскәр карабы",
+                    "ғәскәр ташыусы карап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşun gəmisi"
+                ],
+                "Turkmen": [
+                    "goşun gämisi"
+                ],
+                "Uzbek": [
+                    "qoʻshin kemasi"
+                ],
+                "Uyghur": [
+                    "قوشۇن توشۇش پاراخوتى"
+                ],
+                "Kyrgyz": [
+                    "кошуун кемеси"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "harby gämi"
+                ],
+                "Uzbek": [
+                    "harbiy kema"
+                ],
+                "Uyghur": [
+                    "ھەربىي پاراخوت"
+                ],
+                "Tatar": [
+                    "хәрби көймә",
+                    "хәрби корабль"
+                ],
+                "Bashkir": [
+                    "хәрби карап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıkarma gemisi"
+                ],
+                "Azerbaijani": [
+                    "hərbi nəqliyyat gəmisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əsgər gəmisi"
+                ],
+                "Turkmen": [
+                    "leşger gämisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nakliye gemisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "десант кемесі"
+                ]
+            }
+        }
+    ]
+}

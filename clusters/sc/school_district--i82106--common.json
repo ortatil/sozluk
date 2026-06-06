@@ -1,0 +1,120 @@
+{
+    "id": "i82106",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "school district",
+    "en_definition": "a district whose public schools are administered together",
+    "tr_word": "okul bölgesi",
+    "tr_definition": "devlet okullarının birlikte yönetildiği idari bölge",
+    "ru_word": "школьный округ",
+    "ru_definition": "административно-территориальная единица, в рамках которой осуществляется управление государственными школами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "okul bölgesi"
+                ],
+                "Turkmen": [
+                    "okuw okrugy"
+                ],
+                "Kazakh": [
+                    "оқу округі"
+                ],
+                "Kyrgyz": [
+                    "окуу округу"
+                ],
+                "Karakalpak": [
+                    "oqıu okrugi"
+                ],
+                "Tatar": [
+                    "уку округы"
+                ],
+                "Bashkir": [
+                    "уҡыу округы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məktəb dairəsi"
+                ],
+                "Uzbek": [
+                    "maktab okrugi"
+                ],
+                "Uyghur": [
+                    "مەكتەپ رايونى"
+                ],
+                "Kazakh": [
+                    "мектеп округі"
+                ],
+                "Kyrgyz": [
+                    "мектеп округу"
+                ],
+                "Karakalpak": [
+                    "mektep okrugi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eğitim bölgesi"
+                ],
+                "Turkmen": [
+                    "bilim bölümi",
+                    "bilim etraby"
+                ],
+                "Kazakh": [
+                    "білім беру аймағы"
+                ],
+                "Kyrgyz": [
+                    "билим берүү аймагы"
+                ],
+                "Karakalpak": [
+                    "bilimlendiruw aymaǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "maarif dairesi"
+                ],
+                "Uzbek": [
+                    "maorif boʻlimi"
+                ],
+                "Uyghur": [
+                    "مائارىپ رايونى"
+                ],
+                "Tatar": [
+                    "мәгариф округы",
+                    "мәгариф өлкәсе"
+                ],
+                "Bashkir": [
+                    "мәғариф округы",
+                    "мәғариф идаралығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təhsil dairəsi",
+                    "təhsil bölgəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taʼlim hududi"
+                ]
+            }
+        }
+    ]
+}

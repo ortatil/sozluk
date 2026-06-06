@@ -1,0 +1,145 @@
+{
+    "id": "i61313",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "yard goods",
+    "en_definition": "merchandise in the form of fabrics sold by the yard",
+    "tr_word": "parça kumaş",
+    "tr_definition": "Yard veya metre ile satılan kumaş türü ürünler.",
+    "ru_word": "мерный лоскут",
+    "ru_definition": "Ткани и текстильные изделия, продаваемые на отрез по длине.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mata",
+                    "mata-marlary"
+                ],
+                "Uzbek": [
+                    "mato"
+                ],
+                "Uyghur": [
+                    "ماتا"
+                ],
+                "Kazakh": [
+                    "мата",
+                    "мата-кездеме"
+                ],
+                "Kyrgyz": [
+                    "мата"
+                ],
+                "Karakalpak": [
+                    "mata",
+                    "mata-matalar"
+                ],
+                "Tatar": [
+                    "матавыш"
+                ],
+                "Bashkir": [
+                    "мата"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bez"
+                ],
+                "Kazakh": [
+                    "бөзі"
+                ],
+                "Kyrgyz": [
+                    "бөз"
+                ],
+                "Karakalpak": [
+                    "bóz"
+                ],
+                "Tatar": [
+                    "бөз"
+                ],
+                "Bashkir": [
+                    "бөз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "toxuma"
+                ],
+                "Turkmen": [
+                    "top mata"
+                ],
+                "Uzbek": [
+                    "to'qima"
+                ],
+                "Tatar": [
+                    "тукыма"
+                ],
+                "Bashkir": [
+                    "туҡыма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "gazlama"
+                ],
+                "Kazakh": [
+                    "кездеме"
+                ],
+                "Kyrgyz": [
+                    "кездеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kumaş",
+                    "top kumaş"
+                ],
+                "Azerbaijani": [
+                    "qumaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "parça"
+                ],
+                "Turkmen": [
+                    "parça"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "manifatura"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رەخت",
+                    "رەخت-ماتا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыркым"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "i9811",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "checked",
+    "en_definition": "patterned with alternating squares of color",
+    "tr_word": "kareli",
+    "tr_definition": "birbirini kesen çizgilerle oluşan kare desenli kumaş veya yüzey",
+    "ru_word": "клетчатый",
+    "ru_definition": "имеющий рисунок в виде чередующихся квадратов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şahmatvari"
+                ],
+                "Turkmen": [
+                    "şahmatly"
+                ],
+                "Uzbek": [
+                    "shaxmatnamo"
+                ],
+                "Uyghur": [
+                    "شاخماتسىمان"
+                ],
+                "Kazakh": [
+                    "шақпақ",
+                    "шақпақталған"
+                ],
+                "Kyrgyz": [
+                    "чакмак",
+                    "чакмактуу"
+                ],
+                "Karakalpak": [
+                    "shaqpaq",
+                    "shaqpaqlı"
+                ],
+                "Tatar": [
+                    "шакмаклы"
+                ],
+                "Bashkir": [
+                    "шаҡмаҡлы",
+                    "шаҡмаҡ-шаҡмаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "damalı"
+                ],
+                "Azerbaijani": [
+                    "damalı",
+                    "xanalı"
+                ],
+                "Turkmen": [
+                    "dama-dama"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "торкөз"
+                ],
+                "Kyrgyz": [
+                    "тор"
+                ],
+                "Karakalpak": [
+                    "tórtkúl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kareli"
+                ],
+                "Uyghur": [
+                    "كاتەكچە",
+                    "كاتەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pötikareli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öýjükli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katak",
+                    "katak-katak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күзелле"
+                ]
+            }
+        }
+    ]
+}

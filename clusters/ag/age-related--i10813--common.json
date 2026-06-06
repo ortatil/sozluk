@@ -1,0 +1,79 @@
+{
+    "id": "i10813",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "age-related",
+    "en_definition": "changing (increasing or decreasing) as an individual's age increases",
+    "tr_word": "yaşa bağlı",
+    "tr_definition": "bir bireyin yaşı ilerledikçe değişen (artan veya azalan)",
+    "ru_word": "возрастной",
+    "ru_definition": "изменяющийся (увеличивающийся или уменьшающийся) по мере увеличения возраста человека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaşa bağlı",
+                    "yaşla ilgili",
+                    "yaşa dayalı",
+                    "yaşla değişen"
+                ],
+                "Azerbaijani": [
+                    "yaşa bağlı",
+                    "yaşla əlaqədar",
+                    "yaşa görə"
+                ],
+                "Turkmen": [
+                    "ýaş bilen bagly",
+                    "ýaşyna görä",
+                    "ýaş aýratynlygyndaky"
+                ],
+                "Uzbek": [
+                    "yoshga doir",
+                    "yoshga bogʻliq",
+                    "yoshga aloqador",
+                    "yoshga nisbatan"
+                ],
+                "Uyghur": [
+                    "يېشىغا مۇناسىۋەتلىك",
+                    "يېشىغا باغلىق",
+                    "يېشىغا قاراپ"
+                ],
+                "Kazakh": [
+                    "жасқа байланысты",
+                    "жасқа тән",
+                    "жас мөлшеріне қатысты"
+                ],
+                "Kyrgyz": [
+                    "жашка байланыштуу",
+                    "жаш курактык",
+                    "жаш өзгөчөлүгүнө жараша"
+                ],
+                "Karakalpak": [
+                    "jasqa baylanıslı",
+                    "jasqa tán"
+                ],
+                "Tatar": [
+                    "яшькә бәйле",
+                    "яшькә карап",
+                    "яшь буенча"
+                ],
+                "Bashkir": [
+                    "йәшкә бәйле",
+                    "йәш үҙенсәлеге",
+                    "йәш менән бәйле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жас ерекшелігіне қарай"
+                ],
+                "Karakalpak": [
+                    "jas ózgesheligine baylanıslı"
+                ]
+            }
+        }
+    ]
+}

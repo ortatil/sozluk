@@ -1,0 +1,123 @@
+{
+    "id": "i70208",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "workbook",
+    "en_definition": "a student's book or booklet containing problems with spaces for solving them",
+    "tr_word": "alıştırma kitabı",
+    "tr_definition": "öğrencilerin üzerinde problem çözebilmeleri için boşluklar içeren kitap veya kitapçık",
+    "ru_word": "рабочая тетрадь",
+    "ru_definition": "учебное пособие, содержащее задачи и упражнения с местом для их выполнения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "iş dəftəri"
+                ],
+                "Turkmen": [
+                    "iş depderi"
+                ],
+                "Uzbek": [
+                    "ish daftari"
+                ],
+                "Kyrgyz": [
+                    "иш дептери"
+                ],
+                "Tatar": [
+                    "эш дәфтәре"
+                ],
+                "Bashkir": [
+                    "эш дәфтәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məşq dəftəri"
+                ],
+                "Uzbek": [
+                    "mashq daftari"
+                ],
+                "Uyghur": [
+                    "مەشىق دەپتىرى",
+                    "مەشىق كىتابى"
+                ],
+                "Karakalpak": [
+                    "máseleler jinaǵı"
+                ],
+                "Tatar": [
+                    "мәшгульят дәфтәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tapşırıq dəftəri"
+                ],
+                "Uyghur": [
+                    "تاپشۇرۇق دەپتىرى"
+                ],
+                "Kazakh": [
+                    "тапсырмалар жинағы"
+                ],
+                "Kyrgyz": [
+                    "тапшырма дептери"
+                ],
+                "Karakalpak": [
+                    "tapsırmalar dápteri"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gönükme depderi"
+                ],
+                "Kyrgyz": [
+                    "көнүгүү дептери"
+                ],
+                "Bashkir": [
+                    "күнегеүҙәр дәфтәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмыс дәптері"
+                ],
+                "Karakalpak": [
+                    "jұmıs dápteri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalışma kitabı",
+                    "alıştırma kitabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uygulama kitabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаттығу кітабы"
+                ]
+            }
+        }
+    ]
+}

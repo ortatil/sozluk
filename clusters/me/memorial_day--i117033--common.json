@@ -1,0 +1,120 @@
+{
+    "id": "i117033",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "memorial day",
+    "en_definition": "legal holiday in the United States, last Monday in May; commemorates the members of the United States armed forces who were killed in war",
+    "tr_word": "Anma Günü",
+    "tr_definition": "Amerika Birleşik Devletleri'nde her yıl Mayıs ayının son Pazartesi günü kutlanan, savaşlarda hayatını kaybeden Amerikan askerlerini anma günü.",
+    "ru_word": "День поминовения",
+    "ru_definition": "Государственный праздник в США, отмечаемый в последний понедельник мая в память о военнослужащих США, погибших во всех войнах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Xatirə günü"
+                ],
+                "Turkmen": [
+                    "hatyra güni"
+                ],
+                "Uzbek": [
+                    "Xotira kuni"
+                ],
+                "Uyghur": [
+                    "خاتىرىلەش كۈنى"
+                ],
+                "Karakalpak": [
+                    "xátire kúni"
+                ],
+                "Tatar": [
+                    "хәтер көне"
+                ],
+                "Bashkir": [
+                    "хәтер көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Şehitleri Anma Günü",
+                    "Şehitler Günü"
+                ],
+                "Azerbaijani": [
+                    "Şəhidləri anma günü"
+                ],
+                "Uyghur": [
+                    "شېھىتلەرنى خاتىرىلەش كۈنى"
+                ],
+                "Kyrgyz": [
+                    "Шейиттерди эскерүү күнү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Yad Etme Günü"
+                ],
+                "Turkmen": [
+                    "ýatlama güni"
+                ],
+                "Uzbek": [
+                    "Yodgorlik kuni"
+                ],
+                "Karakalpak": [
+                    "yadına alıu kúni"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "құрбандарды еске алу күні"
+                ],
+                "Tatar": [
+                    "искә алу көне"
+                ],
+                "Bashkir": [
+                    "иҫкә алыу көнө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еске алу күні",
+                    "аруақтарды еске алу күні"
+                ],
+                "Karakalpak": [
+                    "esleu kúni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Anım günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "Motam kuni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Эскерүү күнү"
+                ]
+            }
+        }
+    ]
+}

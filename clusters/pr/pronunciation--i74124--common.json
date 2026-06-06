@@ -1,0 +1,124 @@
+{
+    "id": "i74124",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pronunciation",
+    "en_definition": "the way a word or a language is customarily spoken",
+    "tr_word": "telaffuz",
+    "tr_definition": "Bir kelimenin veya dilin geleneksel olarak söylenme biçimi",
+    "ru_word": "произношение",
+    "ru_definition": "способ произнесения слова или языка в соответствии с принятыми нормами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telaffuz"
+                ],
+                "Azerbaijani": [
+                    "tələffüz"
+                ],
+                "Turkmen": [
+                    "talaffuz"
+                ],
+                "Uzbek": [
+                    "talaffuz"
+                ],
+                "Uyghur": [
+                    "تەلەپپۇز",
+                    "تەلەپپۇز قىلىش"
+                ],
+                "Kazakh": [
+                    "тәлаффуз"
+                ],
+                "Kyrgyz": [
+                    "талаффуз"
+                ],
+                "Karakalpak": [
+                    "táláppúz"
+                ],
+                "Tatar": [
+                    "тәләффуз"
+                ],
+                "Bashkir": [
+                    "тәләффуз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "söyleyiş",
+                    "sesletim"
+                ],
+                "Azerbaijani": [
+                    "söyləyiş"
+                ],
+                "Uyghur": [
+                    "سۆزلەش شەكلى"
+                ],
+                "Tatar": [
+                    "сөйләм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aytalyş",
+                    "aýdylyş"
+                ],
+                "Kazakh": [
+                    "айтылу"
+                ],
+                "Kyrgyz": [
+                    "айтылыш",
+                    "айтуу"
+                ],
+                "Karakalpak": [
+                    "aytılıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "deyiliş"
+                ],
+                "Tatar": [
+                    "әйтелеш"
+                ],
+                "Bashkir": [
+                    "әйтелеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дыбысталу"
+                ],
+                "Karakalpak": [
+                    "dıbıslanıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aytish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nutq"
+                ]
+            }
+        }
+    ]
+}

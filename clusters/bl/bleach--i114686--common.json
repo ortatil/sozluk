@@ -1,0 +1,83 @@
+{
+    "id": "i114686",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bleach",
+    "en_definition": "an agent that makes things white or colorless",
+    "tr_word": "çamaşır suyu",
+    "tr_definition": "eşyaları beyazlatmak veya rengini açmak için kullanılan kimyasal madde",
+    "ru_word": "отбеливатель",
+    "ru_definition": "средство, делающее вещи белыми или бесцветными",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağartıcı"
+                ],
+                "Azerbaijani": [
+                    "ağardıcı"
+                ],
+                "Turkmen": [
+                    "agardyjy"
+                ],
+                "Uzbek": [
+                    "oqartirgich",
+                    "oqartuvchi"
+                ],
+                "Uyghur": [
+                    "ئاقارتقۇچ",
+                    "ئاقارتقۇچى ماددا"
+                ],
+                "Kazakh": [
+                    "ағартқыш",
+                    "ағартқыш зат"
+                ],
+                "Kyrgyz": [
+                    "агарткыч",
+                    "агартуучу зат"
+                ],
+                "Karakalpak": [
+                    "aǵartqısh",
+                    "aǵartıoshı"
+                ],
+                "Tatar": [
+                    "агарткыч",
+                    "агартучы"
+                ],
+                "Bashkir": [
+                    "ағартыусы",
+                    "ағартыу сараһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "rəngaçan"
+                ],
+                "Turkmen": [
+                    "reňksizlendiriji"
+                ],
+                "Uyghur": [
+                    "رەڭسىزلەندۈرگۈچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyazlatıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çamaşır suyu"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+# Politics
+| Field | Detail |
+|---|---|
+| **ID** | i41299 |
+| **English** | politics |
+| **Type** | noun |
+| **Definition** | the activities and affairs involved in managing a state or a government |
+| **Source** | core |
+| **Ortatil** | siyasät |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **siyasät** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سىياسەت | siyasät |
+| **Kazakh** | |
+| саясат | sayasat |
+| **Kyrgyz** | |
+| саясат | sayasat |
+| башкаруу | başkaruu |
+| **Tatar** | |
+| сәясәт | säyasät |
+| **Bashkir** | |
+| сәйәсәт | säyäsät |
+
+```json
+{
+    "id": "i41299",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "politics",
+    "en_definition": "the activities and affairs involved in managing a state or a government",
+    "tr_word": "siyaset",
+    "tr_definition": "Bir devletin veya hükümetin yönetilmesiyle ilgili faaliyetler ve işlerin bütünü.",
+    "ru_word": "политика",
+    "ru_definition": "Деятельность, связанная с управлением государством или правительством.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "siyaset"
+                ],
+                "Azerbaijani": [
+                    "siyasət"
+                ],
+                "Turkmen": [
+                    "syýasat"
+                ],
+                "Uzbek": [
+                    "siyosat"
+                ],
+                "Uyghur": [
+                    "سىياسەت"
+                ],
+                "Kazakh": [
+                    "саясат"
+                ],
+                "Kyrgyz": [
+                    "саясат"
+                ],
+                "Karakalpak": [
+                    "siyasat"
+                ],
+                "Tatar": [
+                    "сәясәт"
+                ],
+                "Bashkir": [
+                    "сәйәсәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "devlet işleri"
+                ],
+                "Turkmen": [
+                    "döwlet işi"
+                ],
+                "Uzbek": [
+                    "davlat ishlari"
+                ],
+                "Uyghur": [
+                    "دۆلەت ئىشلىرى"
+                ],
+                "Bashkir": [
+                    "дәүләт эштәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мемлекеттік іс"
+                ],
+                "Kyrgyz": [
+                    "мамлекеттик иш"
+                ],
+                "Karakalpak": [
+                    "mámleketlik isler"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "politika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dövlətçilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башкаруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дәүләт идарәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "идарә итеү"
+                ]
+            }
+        }
+    ]
+}
+```
+

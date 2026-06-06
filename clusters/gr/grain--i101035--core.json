@@ -1,0 +1,162 @@
+{
+    "id": "i101035",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "grain",
+    "en_definition": "dry seed-like fruit produced by the cereal grasses: e.g. wheat, barley, Indian corn",
+    "tr_word": "tahıl",
+    "tr_definition": "Buğday, arpa, mısır gibi ekinlerin kurutulmuş tohumu veya bu tohumları veren bitki.",
+    "ru_word": "зерно",
+    "ru_definition": "Плод, семя злаков (пшеницы, ржи, ячменя и т. п.).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dane",
+                    "tane"
+                ],
+                "Azerbaijani": [
+                    "dən",
+                    "dənli"
+                ],
+                "Turkmen": [
+                    "däne"
+                ],
+                "Uzbek": [
+                    "don",
+                    "don-dun"
+                ],
+                "Uyghur": [
+                    "دان",
+                    "دانلىق زىرائەت"
+                ],
+                "Kazakh": [
+                    "дән"
+                ],
+                "Kyrgyz": [
+                    "дан"
+                ],
+                "Karakalpak": [
+                    "dán",
+                    "dán-dun"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئاشلىق"
+                ],
+                "Kazakh": [
+                    "астық"
+                ],
+                "Kyrgyz": [
+                    "аштык"
+                ],
+                "Karakalpak": [
+                    "astıq"
+                ],
+                "Tatar": [
+                    "ашлык"
+                ],
+                "Bashkir": [
+                    "ашлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "urug'"
+                ],
+                "Kazakh": [
+                    "ұрық"
+                ],
+                "Tatar": [
+                    "орлык"
+                ],
+                "Bashkir": [
+                    "орлоҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekin"
+                ],
+                "Kyrgyz": [
+                    "эгин"
+                ],
+                "Bashkir": [
+                    "иген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahıl"
+                ],
+                "Azerbaijani": [
+                    "taxıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "galla"
+                ],
+                "Uzbek": [
+                    "g'alla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "toxum"
+                ],
+                "Turkmen": [
+                    "tohum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бөртек"
+                ],
+                "Bashkir": [
+                    "бөртөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hububat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бидай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кырлыган"
+                ]
+            }
+        }
+    ]
+}

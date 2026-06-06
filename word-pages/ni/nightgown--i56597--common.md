@@ -1,0 +1,150 @@
+# Nightgown
+| Field | Detail |
+|---|---|
+| **ID** | i56597 |
+| **English** | nightgown |
+| **Type** | noun |
+| **Definition** | lingerie consisting of a loose dress designed to be worn in bed by women |
+| **Source** | common |
+| **Ortatil** | gecelik |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **gecelik** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تۈنلۈك | tünlük |
+| خوابلىق | xoabliq |
+
+```json
+{
+    "id": "i56597",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nightgown",
+    "en_definition": "lingerie consisting of a loose dress designed to be worn in bed by women",
+    "tr_word": "gecelik",
+    "tr_definition": "Kadınların yatarken giydikleri hafif ve ince giysi.",
+    "ru_word": "ночная рубашка",
+    "ru_definition": "Женская одежда для сна, напоминающая платье.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tungi ko'ylak"
+                ],
+                "Uyghur": [
+                    "تۈنلۈك"
+                ],
+                "Kazakh": [
+                    "түнгі көйлек"
+                ],
+                "Kyrgyz": [
+                    "түнкү көйнөк"
+                ],
+                "Karakalpak": [
+                    "túngі kóylek"
+                ],
+                "Tatar": [
+                    "төнге күлмәк"
+                ],
+                "Bashkir": [
+                    "төнгө күлдәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gecelik"
+                ],
+                "Azerbaijani": [
+                    "gecəlik",
+                    "gecə paltarı",
+                    "gecə köynəyi"
+                ],
+                "Turkmen": [
+                    "gijelik",
+                    "gije köýnegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zıbın"
+                ],
+                "Uzbek": [
+                    "shabxob"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yotoq kiyim"
+                ],
+                "Uyghur": [
+                    "ياتاق كىيىمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұйықтайтын көйлек"
+                ],
+                "Karakalpak": [
+                    "uyıqtaytın kóylek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уктоочу көйнөк"
+                ],
+                "Bashkir": [
+                    "йоҡо күлдәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خوابلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йокы күлмәге"
+                ]
+            }
+        }
+    ]
+}
+```
+

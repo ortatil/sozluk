@@ -1,0 +1,164 @@
+# Future date
+| Field | Detail |
+|---|---|
+| **ID** | i116880 |
+| **English** | future date |
+| **Type** | noun |
+| **Definition** | a particular day in the future that is specified as the time something will happen |
+| **Source** | common |
+| **Ortatil** | wadä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i116880",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "future date",
+    "en_definition": "a particular day in the future that is specified as the time something will happen",
+    "tr_word": "gelecek tarih",
+    "tr_definition": "gelecekte bir şeyin gerçekleşeceği zaman olarak belirlenen belirli bir gün",
+    "ru_word": "будущая дата",
+    "ru_definition": "определенный день в будущем, установленный как время, когда что-то должно произойти",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gelecek tarih"
+                ],
+                "Azerbaijani": [
+                    "gələcək tarix"
+                ],
+                "Turkmen": [
+                    "geljekki sene",
+                    "geljekki wagt"
+                ],
+                "Uzbek": [
+                    "kelajak sana",
+                    "kelgusi sana",
+                    "kelajakdagi kun"
+                ],
+                "Uyghur": [
+                    "كەلگۈسى كۈن",
+                    "كەلگۈسى ۋاقىت"
+                ],
+                "Kazakh": [
+                    "келешек күн",
+                    "келер күн"
+                ],
+                "Kyrgyz": [
+                    "келечектеги күн",
+                    "келечектеги мөөнөт"
+                ],
+                "Karakalpak": [
+                    "keleshek kún",
+                    "keleshek sáne",
+                    "kelesi kún"
+                ],
+                "Tatar": [
+                    "киләчәк көн",
+                    "киләсе көн"
+                ],
+                "Bashkir": [
+                    "киләсәк көн",
+                    "киләсәк ваҡыт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "алдағы күн"
+                ],
+                "Kyrgyz": [
+                    "алдыдагы күн"
+                ],
+                "Karakalpak": [
+                    "aldaǵı kún"
+                ],
+                "Tatar": [
+                    "алдагы көн"
+                ],
+                "Bashkir": [
+                    "алдағы көн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vade"
+                ],
+                "Azerbaijani": [
+                    "vədə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "belgilangan muddat"
+                ],
+                "Tatar": [
+                    "билгеләнгән көн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ileri bir tarih"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müddət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vaxt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "soňky möhlet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېيىنكى كۈن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "болашақ күн"
+                ]
+            }
+        }
+    ]
+}
+```
+

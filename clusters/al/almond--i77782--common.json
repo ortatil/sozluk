@@ -1,0 +1,78 @@
+{
+    "id": "i77782",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "almond",
+    "en_definition": "oval-shaped edible seed of the almond tree",
+    "tr_word": "badem",
+    "tr_definition": "Gülgillerden, meyvesinin çekirdeği yenen bir ağaç ve bu ağacın yenilebilir tohumu.",
+    "ru_word": "миндаль",
+    "ru_definition": "Съедобное семя миндального дерева овальной формы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "badem",
+                    "payam"
+                ],
+                "Azerbaijani": [
+                    "badam",
+                    "badam ləpəsi"
+                ],
+                "Turkmen": [
+                    "badam"
+                ],
+                "Uzbek": [
+                    "bodom"
+                ],
+                "Uyghur": [
+                    "بادام"
+                ],
+                "Kazakh": [
+                    "бадам",
+                    "бадам дәні"
+                ],
+                "Kyrgyz": [
+                    "бадам"
+                ],
+                "Karakalpak": [
+                    "badam"
+                ],
+                "Tatar": [
+                    "бадәм"
+                ],
+                "Bashkir": [
+                    "баҙам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mag'iz"
+                ],
+                "Uyghur": [
+                    "ماغز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "миндаль"
+                ],
+                "Bashkir": [
+                    "миндаль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бадам жаңгагы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": "i56733",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "one-way street",
+    "en_definition": "a street on which vehicular traffic is allowed to move in only one direction",
+    "tr_word": "tek yönlü yol",
+    "tr_definition": "araç trafiğinin sadece tek bir yönde akmasına izin verilen yol",
+    "ru_word": "улица с односторонним движением",
+    "ru_definition": "улица, по которой движение транспортных средств разрешено только в одном направлении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "biristiqamətli yol"
+                ],
+                "Turkmen": [
+                    "bir taraply ýol",
+                    "bir ugra ýöreýän ýol"
+                ],
+                "Uzbek": [
+                    "bir tomonlama yoʻl",
+                    "bir tomonlama koʻcha"
+                ],
+                "Uyghur": [
+                    "بىر تەرەپلىمە يول"
+                ],
+                "Kazakh": [
+                    "біржақты қозғалыс көшесі",
+                    "біржақты жол"
+                ],
+                "Kyrgyz": [
+                    "бир тараптуу көчө",
+                    "бир багыттуу көчө"
+                ],
+                "Karakalpak": [
+                    "bir táreple jol",
+                    "bir baǵdarlı jol"
+                ],
+                "Tatar": [
+                    "бер яклы юл",
+                    "бер яклы хәрәкәтле юл"
+                ],
+                "Bashkir": [
+                    "бер яҡлы хәрәкәтле урам",
+                    "бер яҡлы юл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tek yönlü yol",
+                    "tek yönlü sokak",
+                    "tek yön"
+                ],
+                "Azerbaijani": [
+                    "təktərəfli yol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىر يۆنىلىشلىك يول"
+                ]
+            }
+        }
+    ]
+}

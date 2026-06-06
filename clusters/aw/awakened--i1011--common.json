@@ -1,0 +1,115 @@
+{
+    "id": "i1011",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "awakened",
+    "en_definition": "(somewhat formal) having been waked up",
+    "tr_word": "uyanmış",
+    "tr_definition": "uykudan kalkmış, uyandırılmış",
+    "ru_word": "пробужденный",
+    "ru_definition": "тот, кого разбудили; вышедший из состояния сна",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uyanık",
+                    "uyandırılmış"
+                ],
+                "Azerbaijani": [
+                    "oyanmış",
+                    "oyanıq"
+                ],
+                "Turkmen": [
+                    "oýanan",
+                    "oýanyk"
+                ],
+                "Uzbek": [
+                    "uyg'ongan",
+                    "uyg'oq"
+                ],
+                "Uyghur": [
+                    "ئويغانغان"
+                ],
+                "Kazakh": [
+                    "оянған",
+                    "ояу"
+                ],
+                "Kyrgyz": [
+                    "ойгонгон",
+                    "ойгоо"
+                ],
+                "Karakalpak": [
+                    "oyanǵan",
+                    "oyau"
+                ],
+                "Tatar": [
+                    "уянган",
+                    "уяу"
+                ],
+                "Bashkir": [
+                    "уянған",
+                    "уяу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bidar"
+                ],
+                "Turkmen": [
+                    "bidar"
+                ],
+                "Uzbek": [
+                    "bedor"
+                ],
+                "Uyghur": [
+                    "بىدار"
+                ],
+                "Tatar": [
+                    "бидар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұрған"
+                ],
+                "Karakalpak": [
+                    "túrgelіp tұrǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "agah"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bیدار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھوشيار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сергек"
+                ]
+            }
+        }
+    ]
+}

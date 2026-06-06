@@ -1,0 +1,189 @@
+# Notepaper
+| Field | Detail |
+|---|---|
+| **ID** | i69399 |
+| **English** | notepaper |
+| **Type** | noun |
+| **Definition** | writing paper intended for writing short notes or letters |
+| **Source** | common |
+| **Ortatil** | ḅaraq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḅaraq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| парақша | paraqşa |
+| **Kyrgyz** | |
+| барак | barak |
+| **Tatar** | |
+| кәгазь | kägaz |
+
+```json
+{
+    "id": "i69399",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "notepaper",
+    "en_definition": "writing paper intended for writing short notes or letters",
+    "tr_word": "mektup kağıdı",
+    "tr_definition": "Kısa notlar veya mektuplar yazmak için tasarlanmış yazı kağıdı.",
+    "ru_word": "почтовая бумага",
+    "ru_definition": "Бумага, предназначенная для написания коротких заметок или писем.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazı kâğıdı"
+                ],
+                "Azerbaijani": [
+                    "yazı kağızı"
+                ],
+                "Turkmen": [
+                    "ýazuw kagyzy"
+                ],
+                "Uzbek": [
+                    "yozuv qog'ozi"
+                ],
+                "Kazakh": [
+                    "жазу қағазы"
+                ],
+                "Kyrgyz": [
+                    "жазуу кагаз"
+                ],
+                "Karakalpak": [
+                    "jazıo qaǵazı"
+                ],
+                "Tatar": [
+                    "язу кәгазе"
+                ],
+                "Bashkir": [
+                    "яҙыу ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hat kagyzy"
+                ],
+                "Uzbek": [
+                    "xat qog'ozi"
+                ],
+                "Uyghur": [
+                    "خەت قەغىزى"
+                ],
+                "Kazakh": [
+                    "хат қағазы"
+                ],
+                "Karakalpak": [
+                    "xat qaǵaz"
+                ],
+                "Tatar": [
+                    "хат кәгазе"
+                ],
+                "Bashkir": [
+                    "хат ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vərəq"
+                ],
+                "Kazakh": [
+                    "парақша"
+                ],
+                "Kyrgyz": [
+                    "барак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mektup kâğıdı"
+                ],
+                "Uzbek": [
+                    "maktub qog'ozi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qeyd kağızı"
+                ],
+                "Kyrgyz": [
+                    "кат кагаз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kagyz"
+                ],
+                "Tatar": [
+                    "кәгазь"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dápter bet"
+                ],
+                "Bashkir": [
+                    "дәфтәр бите"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "not kâğıdı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەسكەرتىش قەغىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نوت قەغىزى"
+                ]
+            }
+        }
+    ]
+}
+```
+

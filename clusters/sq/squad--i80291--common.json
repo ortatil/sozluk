@@ -1,0 +1,152 @@
+{
+    "id": "i80291",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "squad",
+    "en_definition": "a smallest army unit",
+    "tr_word": "manga",
+    "tr_definition": "en küçük askeri birlik",
+    "ru_word": "отделение",
+    "ru_definition": "самое маленькое армейское подразделение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bölüm",
+                    "bölümçe"
+                ],
+                "Uzbek": [
+                    "boʻlinma"
+                ],
+                "Uyghur": [
+                    "بۆلۈم"
+                ],
+                "Kazakh": [
+                    "бөлімше"
+                ],
+                "Kyrgyz": [
+                    "бөлүм"
+                ],
+                "Karakalpak": [
+                    "bólіmshe"
+                ],
+                "Tatar": [
+                    "бүлек",
+                    "бүлекчә"
+                ],
+                "Bashkir": [
+                    "бүлек",
+                    "бүлексә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dəstə"
+                ],
+                "Uzbek": [
+                    "dasta"
+                ],
+                "Uyghur": [
+                    "دەستە"
+                ],
+                "Tatar": [
+                    "дәстә"
+                ],
+                "Bashkir": [
+                    "тәртип"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "topar",
+                    "top"
+                ],
+                "Kazakh": [
+                    "топ"
+                ],
+                "Kyrgyz": [
+                    "топ"
+                ],
+                "Karakalpak": [
+                    "top"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "takım"
+                ],
+                "Tatar": [
+                    "төркем"
+                ],
+                "Bashkir": [
+                    "төркөм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qrup"
+                ],
+                "Uzbek": [
+                    "guruh"
+                ],
+                "Uyghur": [
+                    "گۇرۇپپا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "manga"
+                ],
+                "Azerbaijani": [
+                    "manqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жасақ"
+                ],
+                "Karakalpak": [
+                    "jasaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ekip"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кошуун"
+                ]
+            }
+        }
+    ]
+}

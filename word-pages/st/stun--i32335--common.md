@@ -1,0 +1,225 @@
+# Stun
+| Field | Detail |
+|---|---|
+| **ID** | i32335 |
+| **English** | stun |
+| **Type** | verb |
+| **Definition** | overcome as with astonishment or disbelief |
+| **Source** | common |
+| **Ortatil** | aptıratmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **aptıratmaq** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| таңғалдыру | tañğaldıru |
+| есеңгірету | yeseñgiretu |
+| **Tatar** | |
+| аптырату | aptıratu |
+| **Bashkir** | |
+| аптыратыу | aptıratıu |
+
+```json
+{
+    "id": "i32335",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "stun",
+    "en_definition": "overcome as with astonishment or disbelief",
+    "tr_word": "sersemletmek",
+    "tr_definition": "hayret veya şaşkınlık içinde bırakarak ne yapacağını bilemez hale getirmek",
+    "ru_word": "ошеломлять",
+    "ru_definition": "приводить в состояние крайнего изумления или замешательства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayrete düşürmek",
+                    "hayran bırakmak"
+                ],
+                "Azerbaijani": [
+                    "heyran etmək",
+                    "heyrətləndirmək"
+                ],
+                "Turkmen": [
+                    "haýran galdyrmak",
+                    "haýran etmek"
+                ],
+                "Uzbek": [
+                    "hayratda qoldirmoq",
+                    "hayron qoldirmoq"
+                ],
+                "Uyghur": [
+                    "ھەيران قالدۇرماق"
+                ],
+                "Kazakh": [
+                    "қайран қалдыру"
+                ],
+                "Kyrgyz": [
+                    "айран калтыруу",
+                    "айран кал"
+                ],
+                "Karakalpak": [
+                    "hayran qaldırıu"
+                ],
+                "Tatar": [
+                    "хәйран калдыру"
+                ],
+                "Bashkir": [
+                    "хәйран ҡалдырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mat qoymaq"
+                ],
+                "Uzbek": [
+                    "dong qotirmoq",
+                    "lol qilmoq"
+                ],
+                "Uyghur": [
+                    "تاڭ قالدۇرماق",
+                    "مات قىلماق"
+                ],
+                "Karakalpak": [
+                    "tań qaldırıu"
+                ],
+                "Bashkir": [
+                    "таң ҡалдырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "afallatmak"
+                ],
+                "Tatar": [
+                    "аптырату"
+                ],
+                "Bashkir": [
+                    "аптыратыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "lal-dinməz etmək"
+                ],
+                "Turkmen": [
+                    "lal etmek"
+                ],
+                "Uzbek": [
+                    "lol qoldirmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "geň galdyrmak"
+                ],
+                "Kyrgyz": [
+                    "таң калтыруу",
+                    "таң калтыр"
+                ],
+                "Tatar": [
+                    "таң калдыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şaşırtmak"
+                ],
+                "Azerbaijani": [
+                    "çaşdırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңғалдыру",
+                    "таң-тамаша ету",
+                    "аң-таң қалдыру"
+                ],
+                "Karakalpak": [
+                    "ań-tań etiu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есеңгірету"
+                ],
+                "Karakalpak": [
+                    "esten tandırıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эстен тандыруу"
+                ],
+                "Bashkir": [
+                    "иҫте китереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sersemletmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئالاقزادە قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "һушны алу"
+                ]
+            }
+        }
+    ]
+}
+```
+

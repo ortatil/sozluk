@@ -1,0 +1,238 @@
+# File clerk
+| Field | Detail |
+|---|---|
+| **ID** | i89941 |
+| **English** | file clerk |
+| **Type** | noun |
+| **Definition** | a clerk who is employed to maintain the files of an organization |
+| **Source** | common |
+| **Ortatil** | arhiwçi |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **arhiwçi** | **kätip** | **hatşı** |
+|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ | ✅ |
+| Tatar | ❌ | ❌ | ❌ |
+| Bashkir | ❌ | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0.33 | 0 |
+| *Qarluq Subtotal* | 1 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.40 | 0.60 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |
+| **O'TQ** | **2.87** | **1.23** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئارخىپچى | arxipçi |
+| ھۆججەتچى | höjjätçi |
+| **Kazakh** | |
+| хатшы | xatşı |
+| мұрағатшы | murağatşı |
+| құжатшы | qujatşı |
+| **Kyrgyz** | |
+| катчы | katçı |
+| **Tatar** | |
+| теркәүче | terkäüçe |
+| кәгазьче | kägazçe |
+| хезмәткәр | xezmätkär |
+| язучы | yazuçı |
+| **Bashkir** | |
+| иҫәпсе | isäpse |
+| кәттиб | kättib |
+| хатламасы | xatlaması |
+| теркәүсе | terkäüse |
+
+```json
+{
+    "id": "i89941",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "file clerk",
+    "en_definition": "a clerk who is employed to maintain the files of an organization",
+    "tr_word": "dosyalama memuru",
+    "tr_definition": "Bir kuruluşun dosyalarını düzenlemek ve muhafaza etmekle görevli büro çalışanı.",
+    "ru_word": "архивариус",
+    "ru_definition": "сотрудник, ответственный за ведение и хранение документации и файлов организации.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arşiv memuru"
+                ],
+                "Azerbaijani": [
+                    "arxivçi",
+                    "arxiv işçisi"
+                ],
+                "Turkmen": [
+                    "arhiwçi"
+                ],
+                "Uzbek": [
+                    "arxivchi"
+                ],
+                "Uyghur": [
+                    "ئارخىپچى"
+                ],
+                "Kyrgyz": [
+                    "архив кызматкери"
+                ],
+                "Karakalpak": [
+                    "arxiwshі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "iş ýörediji"
+                ],
+                "Uzbek": [
+                    "ish yurituvchi"
+                ],
+                "Kazakh": [
+                    "іс жүргізуші"
+                ],
+                "Karakalpak": [
+                    "іs júrgіzіoshі"
+                ],
+                "Bashkir": [
+                    "иҫәпсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kätip"
+                ],
+                "Kyrgyz": [
+                    "катчы"
+                ],
+                "Bashkir": [
+                    "кәттиб"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "хатшы"
+                ],
+                "Karakalpak": [
+                    "xatker"
+                ],
+                "Bashkir": [
+                    "хатламасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayıt memuru"
+                ],
+                "Azerbaijani": [
+                    "qeydiyyatçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hujjatshunos"
+                ],
+                "Uyghur": [
+                    "ھۆججەت باشقۇرغۇچى",
+                    "ھۆججەتچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "теркәүче"
+                ],
+                "Bashkir": [
+                    "теркәүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dosya memuru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "evrak memuru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəftərxanaçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұрағатшы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құжатшы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "иш кагазчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кәгазьче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хезмәткәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "язучы"
+                ]
+            }
+        }
+    ]
+}
+```
+

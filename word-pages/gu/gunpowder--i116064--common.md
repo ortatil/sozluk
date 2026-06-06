@@ -1,0 +1,162 @@
+# Gunpowder
+| Field | Detail |
+|---|---|
+| **ID** | i116064 |
+| **English** | gunpowder |
+| **Type** | noun |
+| **Definition** | a mixture of potassium nitrate, charcoal, and sulfur in a 75:15:10 ratio which is used in gunnery, time fuses, and fireworks |
+| **Source** | common |
+| **Ortatil** | dara, barıt |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **dara** | **barıt** | **oq-dari** |
+|---|---|---|---|
+| Turkish | ❌ | ✅ | ❌ |
+| Azerbaijani | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ |
+| Kazakh | ✅ | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.67 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.40 | 0.60 |
+| *In All* | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **3.33** | **3.07** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| دورا | dora |
+| بارۇت | barut |
+| **Kazakh** | |
+| дәрі | däri |
+| оқ-дәрі | oq-däri |
+| **Kyrgyz** | |
+| дары | darı |
+| ок-дары | ok-darı |
+| **Tatar** | |
+| дары | darı |
+| барут | barut |
+| **Bashkir** | |
+| дары | darı |
+| барыт | barıt |
+
+```json
+{
+    "id": "i116064",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gunpowder",
+    "en_definition": "a mixture of potassium nitrate, charcoal, and sulfur in a 75:15:10 ratio which is used in gunnery, time fuses, and fireworks",
+    "tr_word": "barut",
+    "tr_definition": "Ateşli silahlarda mermiyi atmak için kullanılan, potasyum nitrat, kükürt ve odun kömürü karışımından oluşan patlayıcı madde.",
+    "ru_word": "порох",
+    "ru_definition": "Твердая взрывчатая смесь, способная гореть без доступа кислорода, используемая для метания снарядов и в пиротехнике.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dary"
+                ],
+                "Uzbek": [
+                    "dorivor"
+                ],
+                "Uyghur": [
+                    "دورا"
+                ],
+                "Kazakh": [
+                    "дәрі"
+                ],
+                "Kyrgyz": [
+                    "дары"
+                ],
+                "Karakalpak": [
+                    "dári"
+                ],
+                "Tatar": [
+                    "дары"
+                ],
+                "Bashkir": [
+                    "дары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "barut"
+                ],
+                "Azerbaijani": [
+                    "barıt"
+                ],
+                "Uzbek": [
+                    "porox"
+                ],
+                "Uyghur": [
+                    "بارۇت"
+                ],
+                "Tatar": [
+                    "барут"
+                ],
+                "Bashkir": [
+                    "барыт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "miltiq dori"
+                ],
+                "Uyghur": [
+                    "مىلتىق دورىسى"
+                ],
+                "Kazakh": [
+                    "мылтық дәрісі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "оқ-дәрі"
+                ],
+                "Kyrgyz": [
+                    "ок-дары"
+                ],
+                "Karakalpak": [
+                    "oq-dári"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kara barut"
+                ],
+                "Azerbaijani": [
+                    "qara barıt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "poroh"
+                ]
+            }
+        }
+    ]
+}
+```
+

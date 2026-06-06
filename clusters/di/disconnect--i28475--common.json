@@ -1,0 +1,168 @@
+{
+    "id": "i28475",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "disconnect",
+    "en_definition": "make disconnected, disjoin or unfasten",
+    "tr_word": "bağlantısını kesmek",
+    "tr_definition": "bir şeyi bağlı olduğu yerden ayırmak, ilişiğini kesmek veya çözmek",
+    "ru_word": "отсоединять",
+    "ru_definition": "разъединять, нарушать связь или отделять одну часть от другой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayırmak"
+                ],
+                "Azerbaijani": [
+                    "ayırmaq"
+                ],
+                "Turkmen": [
+                    "ayyrmak"
+                ],
+                "Uzbek": [
+                    "ajratmoq",
+                    "ayirmoq"
+                ],
+                "Uyghur": [
+                    "ئايرىش",
+                    "ئاجرىتىش"
+                ],
+                "Kazakh": [
+                    "ажырату",
+                    "айыру"
+                ],
+                "Kyrgyz": [
+                    "ажыратуу"
+                ],
+                "Karakalpak": [
+                    "ajıratıo",
+                    "ayırıo"
+                ],
+                "Tatar": [
+                    "аеру",
+                    "аерып кую"
+                ],
+                "Bashkir": [
+                    "айырыу",
+                    "айырып ҡуйыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çözmek"
+                ],
+                "Azerbaijani": [
+                    "üzmək",
+                    "kəsmək"
+                ],
+                "Turkmen": [
+                    "üzmek",
+                    "çözmek",
+                    "kesmek"
+                ],
+                "Uzbek": [
+                    "uzmoq"
+                ],
+                "Kazakh": [
+                    "үзу"
+                ],
+                "Kyrgyz": [
+                    "үзүү"
+                ],
+                "Tatar": [
+                    "өзү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئۈزۈش",
+                    "ئۈزۈپ تاشلاش"
+                ],
+                "Karakalpak": [
+                    "úzio"
+                ],
+                "Bashkir": [
+                    "өҙөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "чечүү"
+                ],
+                "Tatar": [
+                    "чишү"
+                ],
+                "Bashkir": [
+                    "сисеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koparmak"
+                ],
+                "Azerbaijani": [
+                    "qoparmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бөлу"
+                ],
+                "Kyrgyz": [
+                    "бөлүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kesmek",
+                    "bağlantısını kesmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "parçalamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boʻshatmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tarqatıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәйләнешне өзү"
+                ]
+            }
+        }
+    ]
+}

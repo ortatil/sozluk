@@ -1,0 +1,106 @@
+# Wimbledon
+| Field | Detail |
+|---|---|
+| **ID** | i83394 |
+| **English** | wimbledon |
+| **Type** | noun |
+| **Definition** | a suburb of London and the headquarters of the club where annual international tennis championships are played on grass courts |
+| **Source** | common |
+| **Ortatil** | wimblädon |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **wimblädon** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ۋىمبلېدون | vimbledon |
+| **Kazakh** | |
+| Уимблдон | uimbldon |
+| **Kyrgyz** | |
+| Уимблдон | uimbldon |
+| **Tatar** | |
+| Уимблдон | uimbldon |
+| **Bashkir** | |
+| Уимблдон | uimbldon |
+
+```json
+{
+    "id": "i83394",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wimbledon",
+    "en_definition": "a suburb of London and the headquarters of the club where annual international tennis championships are played on grass courts",
+    "tr_word": "Wimbledon",
+    "tr_definition": "Londra'nın bir semti ve her yıl çim kortlarda düzenlenen uluslararası tenis şampiyonalarına ev sahipliği yapan kulübün merkezi.",
+    "ru_word": "Уимблдон",
+    "ru_definition": "Пригород Лондона и штаб-квартира клуба, где проводятся ежегодные международные чемпионаты по теннису на травяных кортах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Wimbledon",
+                    "Wimbledon Tenis Turnuvası"
+                ],
+                "Azerbaijani": [
+                    "Uimbldon"
+                ],
+                "Turkmen": [
+                    "Wimbldon",
+                    "Wimbldon tennis ýaryşy"
+                ],
+                "Uzbek": [
+                    "Uimbldon"
+                ],
+                "Uyghur": [
+                    "ۋىمبلېدون",
+                    "ۋىمبلېدون تېننىس مۇسابىقىسى"
+                ],
+                "Kazakh": [
+                    "Уимблдон"
+                ],
+                "Kyrgyz": [
+                    "Уимблдон"
+                ],
+                "Karakalpak": [
+                    "Uimbldon"
+                ],
+                "Tatar": [
+                    "Уимблдон"
+                ],
+                "Bashkir": [
+                    "Уимблдон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "теннис ярышы",
+                    "теннис турниры"
+                ]
+            }
+        }
+    ]
+}
+```
+

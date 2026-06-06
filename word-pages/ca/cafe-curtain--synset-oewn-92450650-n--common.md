@@ -1,0 +1,178 @@
+# Cafe curtain
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-92450650-n |
+| **English** | cafe curtain |
+| **Type** | noun |
+| **Definition** | A short, usually sheer curtain hanging from a rod installed in the middle of a window. |
+| **Source** | common |
+| **Ortatil** | yarımparda |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| перде | perde |
+| шымылдық | şımıldıq |
+| жапқыш | japqış |
+| **Tatar** | |
+| ярымпәрдә | yarımpärdä |
+
+```json
+{
+    "id": "synset-oewn-92450650-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cafe curtain",
+    "en_definition": "A short, usually sheer curtain hanging from a rod installed in the middle of a window.",
+    "tr_word": "kafe perdesi",
+    "tr_definition": "Pencerenin orta kısmına takılan bir çubuktan sarkan, genellikle kısa ve ince perde türü.",
+    "ru_word": "штора-кафе",
+    "ru_definition": "Короткая занавеска, закрывающая только нижнюю часть окна и подвешенная на карнизе посередине рамы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kafe perde",
+                    "kısa perde"
+                ],
+                "Azerbaijani": [
+                    "qısa pərdə"
+                ],
+                "Turkmen": [
+                    "gysga perde"
+                ],
+                "Uzbek": [
+                    "qisqa parda"
+                ],
+                "Uyghur": [
+                    "قىسقا پەردە"
+                ],
+                "Kyrgyz": [
+                    "кыска парда"
+                ],
+                "Karakalpak": [
+                    "qısqa perde"
+                ],
+                "Tatar": [
+                    "кыска пәрдә"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡа пәрҙә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarım perde"
+                ],
+                "Azerbaijani": [
+                    "yarım pərdə"
+                ],
+                "Turkmen": [
+                    "ýarym perde"
+                ],
+                "Uyghur": [
+                    "يېرىم پەردە"
+                ],
+                "Kyrgyz": [
+                    "жарым парда"
+                ],
+                "Karakalpak": [
+                    "jartı perde"
+                ],
+                "Tatar": [
+                    "ярымпәрдә"
+                ],
+                "Bashkir": [
+                    "ярым пәрҙә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "دېرىزە پەردىسى"
+                ],
+                "Kyrgyz": [
+                    "терезе пардасы"
+                ],
+                "Karakalpak": [
+                    "tereze perdesi"
+                ],
+                "Tatar": [
+                    "тәрәзә пәрдәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pəncərə pərdəsi"
+                ],
+                "Turkmen": [
+                    "pencire perdesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "briz perde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nim parda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oyna parda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "перде"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шымылдық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жапқыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәҙрә пәрҙәһе"
+                ]
+            }
+        }
+    ]
+}
+```
+

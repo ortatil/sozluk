@@ -1,0 +1,195 @@
+# Luxury liner
+| Field | Detail |
+|---|---|
+| **ID** | i55879 |
+| **English** | luxury liner |
+| **Type** | noun |
+| **Definition** | a liner equipped for sumptuous living |
+| **Source** | common |
+| **Ortatil** | transatlanlıq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| сарай-кораб | saray-korab |
+
+```json
+{
+    "id": "i55879",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "luxury liner",
+    "en_definition": "a liner equipped for sumptuous living",
+    "tr_word": "lüks yolcu gemisi",
+    "tr_definition": "Yolcularına konforlu ve lüks bir yaşam alanı sunan büyük yolcu gemisi.",
+    "ru_word": "роскошный лайнер",
+    "ru_definition": "Крупное пассажирское судно, оборудованное для обеспечения высокого уровня комфорта и роскоши.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sayyohlik kemasi"
+                ],
+                "Uyghur": [
+                    "سەييارە پاراخوت"
+                ],
+                "Karakalpak": [
+                    "sayaxat kemesi"
+                ],
+                "Tatar": [
+                    "зәвыклы көймә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lüks yolcu gemisi"
+                ],
+                "Azerbaijani": [
+                    "lüks gəmi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gezi gemisi"
+                ],
+                "Turkmen": [
+                    "kaşaň gämi",
+                    "kaşaň gämisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sərnişin gəmisi"
+                ],
+                "Tatar": [
+                    "сарай-кораб"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hashamatli kema"
+                ],
+                "Uyghur": [
+                    "ھەشەمەتلىك پاراخوت",
+                    "ھەشەمەتلىك كېمە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muhtasham kema"
+                ],
+                "Kazakh": [
+                    "мұхит кемесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "салтанатты кеме"
+                ],
+                "Kyrgyz": [
+                    "салтанаттуу кеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жайлы кеме"
+                ],
+                "Bashkir": [
+                    "уңайлы карап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "transatlantik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təmtəraqlı gəmi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly ýolagçy gämisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кымбат баалуу кеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кооз кеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jolaoshı kemesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "layner"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыйммәтле кораб"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡулайлы карап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бөйөк карап"
+                ]
+            }
+        }
+    ]
+}
+```
+

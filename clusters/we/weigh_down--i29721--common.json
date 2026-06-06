@@ -1,0 +1,170 @@
+{
+    "id": "i29721",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "drag down",
+    "en_definition": "exert a force with a heavy weight",
+    "tr_word": "aşağı çekmek",
+    "tr_definition": "ağır bir yükle aşağı doğru kuvvet uygulamak",
+    "ru_word": "оттягивать вниз",
+    "ru_definition": "оказывать давление или тянуть вниз тяжелым весом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bastırmak"
+                ],
+                "Azerbaijani": [
+                    "basmaq"
+                ],
+                "Turkmen": [
+                    "basmak"
+                ],
+                "Uzbek": [
+                    "bosmoq"
+                ],
+                "Uyghur": [
+                    "بېسىش"
+                ],
+                "Kazakh": [
+                    "басу"
+                ],
+                "Kyrgyz": [
+                    "басуу",
+                    "бастыруу"
+                ],
+                "Karakalpak": [
+                    "bastırıo",
+                    "basıo"
+                ],
+                "Tatar": [
+                    "бастыру"
+                ],
+                "Bashkir": [
+                    "баҫыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağırlık basmak",
+                    "ağırlaştırmak"
+                ],
+                "Azerbaijani": [
+                    "ağırlaşdırmaq",
+                    "ağırlıq salmaq"
+                ],
+                "Turkmen": [
+                    "agyrlyk salmak"
+                ],
+                "Uzbek": [
+                    "og'irlik qilmoq"
+                ],
+                "Uyghur": [
+                    "ئېغىرلىق قىلىش",
+                    "ئېغىرلىتىش"
+                ],
+                "Kazakh": [
+                    "ауырлату"
+                ],
+                "Karakalpak": [
+                    "aoırlatıo"
+                ],
+                "Tatar": [
+                    "авырайту"
+                ],
+                "Bashkir": [
+                    "ауырлыҡ килтереү",
+                    "ауырлатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüklemek"
+                ],
+                "Azerbaijani": [
+                    "yükləmək"
+                ],
+                "Turkmen": [
+                    "ýüklemek"
+                ],
+                "Uzbek": [
+                    "yuklamoq"
+                ],
+                "Uyghur": [
+                    "يۈك باسماق"
+                ],
+                "Kyrgyz": [
+                    "жүктөө"
+                ],
+                "Karakalpak": [
+                    "júkleo"
+                ],
+                "Tatar": [
+                    "йөкләү"
+                ],
+                "Bashkir": [
+                    "йөктәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sıxmaq"
+                ],
+                "Kazakh": [
+                    "салмақ салу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çökmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "agraltmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ezmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаншу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оордотуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кысу"
+                ]
+            }
+        }
+    ]
+}

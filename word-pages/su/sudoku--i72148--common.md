@@ -1,0 +1,135 @@
+# Sudoku
+| Field | Detail |
+|---|---|
+| **ID** | i72148 |
+| **English** | sudoku |
+| **Type** | noun |
+| **Definition** | a number puzzle in which the numbers 1 through 9 must be placed into a grid of cells so that each row or column contains only one of each number |
+| **Source** | common |
+| **Ortatil** | sancımbaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| санжұмбақ | sanjumbaq |
+
+```json
+{
+    "id": "i72148",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sudoku",
+    "en_definition": "a number puzzle in which the numbers 1 through 9 must be placed into a grid of cells so that each row or column contains only one of each number",
+    "tr_word": "sudoku",
+    "tr_definition": "1'den 9'a kadar olan rakamların her satır, sütun ve bölgede yalnızca bir kez yer alacak şekilde bir kare ızgaraya yerleştirildiği bir sayı bulmacası.",
+    "ru_word": "судоку",
+    "ru_definition": "головоломка с числами, в которой цифры от 1 до 9 должны быть расставлены в сетке так, чтобы в каждой строке и столбце каждое число встречалось только один раз.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sayı bulmacası"
+                ],
+                "Azerbaijani": [
+                    "say tapmacası"
+                ],
+                "Turkmen": [
+                    "san tapmaçasy",
+                    "sanly tapmaça",
+                    "sanly jadyly kwadrat"
+                ],
+                "Uzbek": [
+                    "sonli boshqotirma"
+                ],
+                "Kazakh": [
+                    "санжұмбақ",
+                    "сандық басқатырғыш"
+                ],
+                "Kyrgyz": [
+                    "сан табышмак",
+                    "сандык табышмак",
+                    "сандык баш катырма"
+                ],
+                "Karakalpak": [
+                    "sanlı bas qatırǵısh",
+                    "sanlı jumbaq",
+                    "sanlı logikalıq oyın"
+                ],
+                "Tatar": [
+                    "санлы башваткыч",
+                    "саннар табышмагы",
+                    "санлы мәсьәлә"
+                ],
+                "Bashkir": [
+                    "һанлы башватҡыс",
+                    "һанлы йомаҡ",
+                    "һанлы селтәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rakam yerleştirme"
+                ],
+                "Azerbaijani": [
+                    "rəqəm tapmacası"
+                ],
+                "Uzbek": [
+                    "raqamli jumboq"
+                ],
+                "Uyghur": [
+                    "رەقەملىك تېپىشماق",
+                    "رەقەم ئويۇنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توققۇز كاتەكچە"
+                ],
+                "Kazakh": [
+                    "торкөз жұмбақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akıl oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mantık bulmacası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ədəd tapmacası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katakli jumboq"
+                ]
+            }
+        }
+    ]
+}
+```
+

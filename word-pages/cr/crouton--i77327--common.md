@@ -1,0 +1,171 @@
+# Crouton
+| Field | Detail |
+|---|---|
+| **ID** | i77327 |
+| **English** | crouton |
+| **Type** | noun |
+| **Definition** | a small piece of toasted or fried bread; served in soup or salads |
+| **Source** | common |
+| **Ortatil** | peksimet |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i77327",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "crouton",
+    "en_definition": "a small piece of toasted or fried bread; served in soup or salads",
+    "tr_word": "kruton",
+    "tr_definition": "Çorba veya salatalarda servis edilen, kızartılmış veya fırınlanmış küçük ekmek parçası.",
+    "ru_word": "сухарик",
+    "ru_definition": "небольшой кусочек поджаренного или высушенного хлеба, который подают к супу или в салатах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıtır ekmek"
+                ],
+                "Uzbek": [
+                    "qotirma"
+                ],
+                "Kazakh": [
+                    "қытырлақ нан"
+                ],
+                "Kyrgyz": [
+                    "катырылган нан",
+                    "кытырак нан"
+                ],
+                "Tatar": [
+                    "кыздырылган икмәк"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырылған икмәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "non qotirmasi"
+                ],
+                "Uyghur": [
+                    "نان توغرامىسى"
+                ],
+                "Kazakh": [
+                    "кептірілген нан"
+                ],
+                "Karakalpak": [
+                    "keptіrіlgen nan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кеппе нан"
+                ],
+                "Tatar": [
+                    "кипкән икмәк"
+                ],
+                "Bashkir": [
+                    "кипкән икмәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "peksimet"
+                ],
+                "Turkmen": [
+                    "peksimet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gowrulan çörek"
+                ],
+                "Uzbek": [
+                    "qovurilgan non"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قورۇغان نان"
+                ],
+                "Kyrgyz": [
+                    "кургатылган нан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نان چاچقۇ"
+                ],
+                "Karakalpak": [
+                    "nan qiqımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "икмәк кисәкләре"
+                ],
+                "Bashkir": [
+                    "икмәк киҫәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "galeta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çörək qızartması",
+                    "qızardılmış çörək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "suxarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çörek bölejigi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "quırılǵan nan"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,128 @@
+{
+    "id": "i21805",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "blink",
+    "en_definition": "briefly shut the eyes",
+    "tr_word": "göz kırpmak",
+    "tr_definition": "göz kapaklarını hızla kapatıp açmak",
+    "ru_word": "моргать",
+    "ru_definition": "быстро закрывать и открывать глаза",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz kırpmak"
+                ],
+                "Turkmen": [
+                    "göz gyrpmak",
+                    "gözüňi gyrpmak"
+                ],
+                "Uyghur": [
+                    "كۆز چاقماق",
+                    "كۆز يۇمماق",
+                    "كۆز قىسماق"
+                ],
+                "Kazakh": [
+                    "көз ілу",
+                    "көз қағу"
+                ],
+                "Kyrgyz": [
+                    "көз ирмөө"
+                ],
+                "Tatar": [
+                    "күз йомып алу",
+                    "күз кагу",
+                    "күз йому",
+                    "күз ачып йому"
+                ],
+                "Bashkir": [
+                    "көҙ йомоу",
+                    "көҙ ҡағыу",
+                    "көҙ асып йомоу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kırpmak"
+                ],
+                "Azerbaijani": [
+                    "qırpmaq",
+                    "qırpışdırmaq"
+                ],
+                "Turkmen": [
+                    "gyrpyldatmak"
+                ],
+                "Kazakh": [
+                    "кірпік қағу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yumup açmak"
+                ],
+                "Azerbaijani": [
+                    "yumub-açmaq"
+                ],
+                "Uzbek": [
+                    "yumib-ochmoq"
+                ],
+                "Kyrgyz": [
+                    "жумуп-ачуу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жыпылықтату"
+                ],
+                "Karakalpak": [
+                    "jıpılıqlatıu"
+                ],
+                "Bashkir": [
+                    "йыпылдатыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pirpiratmoq"
+                ],
+                "Karakalpak": [
+                    "pırpıratıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "miltiratmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ирмөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kózdi jumdı-ashtı etiu"
+                ]
+            }
+        }
+    ]
+}

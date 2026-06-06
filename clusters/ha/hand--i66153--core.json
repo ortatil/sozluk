@@ -1,0 +1,97 @@
+{
+    "id": "i66153",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "hand",
+    "en_definition": "the (prehensile) extremity of the superior limb",
+    "tr_word": "el",
+    "tr_definition": "kolun bilekten parmak uçlarına kadar olan, tutmaya ve iş yapmaya yarayan bölümü",
+    "ru_word": "рука",
+    "ru_definition": "конечная часть верхней конечности человека, состоящая из ладони и пальцев",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻl"
+                ],
+                "Uyghur": [
+                    "قول"
+                ],
+                "Kazakh": [
+                    "қол"
+                ],
+                "Kyrgyz": [
+                    "кол"
+                ],
+                "Karakalpak": [
+                    "qol"
+                ],
+                "Tatar": [
+                    "кул"
+                ],
+                "Bashkir": [
+                    "ҡул"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pençe"
+                ],
+                "Azerbaijani": [
+                    "pəncə"
+                ],
+                "Turkmen": [
+                    "penje"
+                ],
+                "Uzbek": [
+                    "panja"
+                ],
+                "Uyghur": [
+                    "پەنچە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "el"
+                ],
+                "Azerbaijani": [
+                    "əl"
+                ],
+                "Turkmen": [
+                    "el"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алақан"
+                ],
+                "Kyrgyz": [
+                    "алакан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kaft"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "уч"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "id": "i67905",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pension plan",
+    "en_definition": "a plan for setting aside money to be spent after retirement",
+    "tr_word": "emeklilik planı",
+    "tr_definition": "emeklilikten sonra harcanmak üzere para biriktirmeye yönelik bir plan",
+    "ru_word": "пенсионный план",
+    "ru_definition": "план накопления денежных средств для использования после выхода на пенсию",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pensiýa meýilnamasy",
+                    "pensiýa ulgamy",
+                    "pensiýa gaznasy"
+                ],
+                "Uyghur": [
+                    "پېنسىيە پىلانى"
+                ],
+                "Kyrgyz": [
+                    "пенсиялык камсыздоо",
+                    "пенсиялык фонд",
+                    "пенсиялык топтоо"
+                ],
+                "Karakalpak": [
+                    "pensiyalıq qor",
+                    "pensiyalıq baǵdarlama",
+                    "pensiyalıq tártip"
+                ],
+                "Tatar": [
+                    "пенсия планы",
+                    "пенсия программасы",
+                    "пенсия җыелмасы"
+                ],
+                "Bashkir": [
+                    "пенсия фонды",
+                    "пенсия тупланмаһы",
+                    "пенсия программаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekaütlük sistemi"
+                ],
+                "Azerbaijani": [
+                    "təqaüd planı",
+                    "təqaüd proqramı",
+                    "təqaüd sistemi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nafaqa jamgʻarmasi",
+                    "nafaqa rejasi"
+                ],
+                "Uyghur": [
+                    "نەپىقە پىلانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "emeklilik planı",
+                    "emeklilik sistemi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bireysel emeklilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "isteʼfo jamgʻarmasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەمىنات پىلانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зейнетақы жоспары",
+                    "зейнетақы жүйесі",
+                    "зейнетақы бағдарламасы"
+                ]
+            }
+        }
+    ]
+}

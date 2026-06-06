@@ -1,0 +1,85 @@
+{
+    "id": "i83261",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "northern territory",
+    "en_definition": "a territory in north central Australia",
+    "tr_word": "Kuzey Toprakları",
+    "tr_definition": "Avustralya'nın kuzey orta kesiminde yer alan bir federal bölge.",
+    "ru_word": "Северная территория",
+    "ru_definition": "субъект в составе Австралии, расположенный в северной части материка.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şimal ərazisi",
+                    "şimal bölgəsi",
+                    "şimal diyarı"
+                ],
+                "Uzbek": [
+                    "shimoliy hudud",
+                    "shimoliy o'lka"
+                ],
+                "Uyghur": [
+                    "شىمالىي تېررىتورىيە",
+                    "شىمالىي رايون"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "түндүк аймак",
+                    "түндүк тарап",
+                    "түндүк өлкө"
+                ],
+                "Tatar": [
+                    "төньяк территория",
+                    "төньяк өлкә",
+                    "төньяк як"
+                ],
+                "Bashkir": [
+                    "Төньяҡ биләмә",
+                    "Төньяҡ территория"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Bölgesi",
+                    "Kuzey Toprakları",
+                    "Kuzey Eyaleti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demirgazyk territoriýasy",
+                    "demirgazyk sebiti",
+                    "demirgazyk ülkedi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстік аймақ",
+                    "солтүстік өлке",
+                    "солтүстік территория"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Arqa aymaǵı",
+                    "Arqa territoriyası"
+                ]
+            }
+        }
+    ]
+}

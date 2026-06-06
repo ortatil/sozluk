@@ -1,0 +1,161 @@
+# Stalin
+| Field | Detail |
+|---|---|
+| **ID** | i96986 |
+| **English** | stalin |
+| **Type** | noun |
+| **Definition** | Russian leader who succeeded Lenin as head of the Communist Party and created a totalitarian state by purging all opposition (1879-1953) |
+| **Source** | common |
+| **Ortatil** | stalin |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **stalin** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ستالىن | stalin |
+| **Kazakh** | |
+| Сталин | stalin |
+| **Kyrgyz** | |
+| Сталин | stalin |
+| **Tatar** | |
+| Сталин | stalin |
+| Джугашвили | cugaşvili |
+| **Bashkir** | |
+| Сталин | stalin |
+| Джугашвили | cugaşvili |
+
+```json
+{
+    "id": "i96986",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stalin",
+    "en_definition": "Russian leader who succeeded Lenin as head of the Communist Party and created a totalitarian state by purging all opposition (1879-1953)",
+    "tr_word": "Stalin",
+    "tr_definition": "Lenin'den sonra Komünist Parti'nin başına geçen ve tüm muhalefeti tasfiye ederek totaliter bir devlet kuran Rus lider (1879-1953).",
+    "ru_word": "Сталин",
+    "ru_definition": "Российский лидер, сменивший Ленина на посту главы Коммунистической партии и создавший тоталитарное государство путем чистки всей оппозиции (1879-1953).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Stalin"
+                ],
+                "Azerbaijani": [
+                    "Stalin"
+                ],
+                "Turkmen": [
+                    "Stalin"
+                ],
+                "Uzbek": [
+                    "Stalin"
+                ],
+                "Uyghur": [
+                    "ستالىن"
+                ],
+                "Kazakh": [
+                    "Сталин"
+                ],
+                "Kyrgyz": [
+                    "Сталин"
+                ],
+                "Karakalpak": [
+                    "Stalin"
+                ],
+                "Tatar": [
+                    "Сталин"
+                ],
+                "Bashkir": [
+                    "Сталин"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Josef Stalin"
+                ],
+                "Azerbaijani": [
+                    "İosif Stalin",
+                    "İosif Vissarionoviç Stalin"
+                ],
+                "Turkmen": [
+                    "Iosif Stalin"
+                ],
+                "Uzbek": [
+                    "Iosif Stalin",
+                    "Iosif Vissarionovich Stalin"
+                ],
+                "Uyghur": [
+                    "يوسىف ستالىن"
+                ],
+                "Kazakh": [
+                    "Иосиф Сталин"
+                ],
+                "Kyrgyz": [
+                    "Иосиф Сталин"
+                ],
+                "Karakalpak": [
+                    "Iosif Wissarionowich Stalin"
+                ],
+                "Tatar": [
+                    "Иосиф Сталин"
+                ],
+                "Bashkir": [
+                    "Иосиф Сталин"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Жозеф Сталин"
+                ],
+                "Kyrgyz": [
+                    "Жусуп Сталин"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Джугашвили"
+                ],
+                "Bashkir": [
+                    "Джугашвили"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Sovyet lideri"
+                ]
+            }
+        }
+    ]
+}
+```
+

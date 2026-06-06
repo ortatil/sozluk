@@ -1,0 +1,73 @@
+{
+    "id": "i86213",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "soap bubble",
+    "en_definition": "a bubble formed by a thin soap film",
+    "tr_word": "sabun köpüğü",
+    "tr_definition": "İnce bir sabun tabakasından oluşan, içi hava dolu küre.",
+    "ru_word": "мыльный пузырь",
+    "ru_definition": "Тонкая многослойная плёнка мыльной воды, наполненная воздухом, обычно в форме сферы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sabun köpüğü",
+                    "sabun baloncuğu"
+                ],
+                "Azerbaijani": [
+                    "sabun köpüyü",
+                    "sabun qabarcığı"
+                ],
+                "Turkmen": [
+                    "sabyn köpürjigi"
+                ],
+                "Uzbek": [
+                    "sovun ko'pigi",
+                    "sovun pufagi"
+                ],
+                "Uyghur": [
+                    "سوپۇن كۆپۈكى"
+                ],
+                "Kazakh": [
+                    "сабын көпіршігі"
+                ],
+                "Kyrgyz": [
+                    "самын көбүгү"
+                ],
+                "Karakalpak": [
+                    "sabın kóbіgі"
+                ],
+                "Tatar": [
+                    "сабын куыгы",
+                    "сабын күбеге"
+                ],
+                "Bashkir": [
+                    "һабын күбеге",
+                    "һабын ҡыуығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köpürjik"
+                ],
+                "Uyghur": [
+                    "كۆپۈكچە"
+                ],
+                "Kazakh": [
+                    "көпіршік"
+                ],
+                "Kyrgyz": [
+                    "көбүкчө"
+                ],
+                "Karakalpak": [
+                    "kóbіkshe"
+                ]
+            }
+        }
+    ]
+}

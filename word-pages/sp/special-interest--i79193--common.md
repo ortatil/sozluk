@@ -1,0 +1,185 @@
+# Special interest
+| Field | Detail |
+|---|---|
+| **ID** | i79193 |
+| **English** | special interest |
+| **Type** | unknown |
+| **Definition** | an individual or group who are concerned with some particular part of the economy and who try to influence legislators or bureaucrats to act in their favor |
+| **Source** | common |
+| **Ortatil** | mäpdär |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i79193",
+    "type": "unknown",
+    "batch": "common",
+    "en_word": "special interest",
+    "en_definition": "an individual or group who are concerned with some particular part of the economy and who try to influence legislators or bureaucrats to act in their favor",
+    "tr_word": "çıkar grubu",
+    "tr_definition": "Ekonominin belirli bir kesimiyle ilgilenen ve yasama organlarını veya bürokratları kendi lehine hareket etmeye ikna etmeye çalışan kişi veya grup.",
+    "ru_word": "группа интересов",
+    "ru_definition": "Лицо или группа лиц, заинтересованных в определенной части экономики и пытающихся повлиять на законодателей или чиновников, чтобы те действовали в их пользу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "menfaat grubu"
+                ],
+                "Azerbaijani": [
+                    "mənafe qrupu"
+                ],
+                "Uzbek": [
+                    "manfaatdor tomon",
+                    "manfaatdor guruh"
+                ],
+                "Uyghur": [
+                    "مەنپەئەتدار تەرەپلەر"
+                ],
+                "Tatar": [
+                    "мәнфәгатьле як",
+                    "мәнфәгать төркеме"
+                ],
+                "Bashkir": [
+                    "мәнфәғәт төркөмө",
+                    "мәнфәғәтле яҡ",
+                    "мәнфәғәтле төркөм",
+                    "мәнфәғәтле кеше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyzyklanýan tarap"
+                ],
+                "Kyrgyz": [
+                    "кызыкдар тарап",
+                    "кызыкчылыгы бар топ"
+                ],
+                "Karakalpak": [
+                    "qızıǵushı tárep"
+                ],
+                "Tatar": [
+                    "кызыксынучы як"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıkar grubu"
+                ],
+                "Azerbaijani": [
+                    "çıxar qrupu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xos manfaat"
+                ],
+                "Uyghur": [
+                    "خاس مەنپەئەتدارلار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maxsus manfaat"
+                ],
+                "Tatar": [
+                    "махсус мәнфәгать"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئالاھىدە مەنپەئەت گۇرۇھى"
+                ],
+                "Kyrgyz": [
+                    "таламдаш тарап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özel çıkar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "baskı grubu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maraq qrupu",
+                    "xüsusi maraq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ähmiýetli tarap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bähbitli tarap",
+                    "hususy bähbitli topar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мүдделі топ",
+                    "мүдделі тарап",
+                    "арнайы мүдде"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ықпал етуші топ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өзгөчө кызыкчылык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mápdar",
+                    "mápdar tárep",
+                    "mápdar topar"
+                ]
+            }
+        }
+    ]
+}
+```
+

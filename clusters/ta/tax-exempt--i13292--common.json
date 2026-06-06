@@ -1,0 +1,113 @@
+{
+    "id": "i13292",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "tax-exempt",
+    "en_definition": "(of goods or funds) not taxed",
+    "tr_word": "vergiden muaf",
+    "tr_definition": "vergi ödeme yükümlülüğü bulunmayan (mal veya fonlar için)",
+    "ru_word": "освобожденный от налогов",
+    "ru_definition": "не подлежащий налогообложению (о товарах или средствах)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salgytsyz",
+                    "salgytdan boşadylan"
+                ],
+                "Uzbek": [
+                    "soliqsiz",
+                    "soliqdan ozod"
+                ],
+                "Kazakh": [
+                    "салықсыз",
+                    "салықтан босатылған",
+                    "салық салынбайтын"
+                ],
+                "Kyrgyz": [
+                    "салыксыз",
+                    "салыктан бошотулган"
+                ],
+                "Karakalpak": [
+                    "salıqsız",
+                    "salıqtan azat"
+                ],
+                "Tatar": [
+                    "салымсыз",
+                    "салымнан азат",
+                    "салым түләнми торган"
+                ],
+                "Bashkir": [
+                    "һалымһыҙ",
+                    "һалымдан азат ителгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muaf"
+                ],
+                "Azerbaijani": [
+                    "müaf"
+                ],
+                "Uzbek": [
+                    "muof"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "paçsyz"
+                ],
+                "Uyghur": [
+                    "باجسىز"
+                ],
+                "Karakalpak": [
+                    "bajsız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vergiden muaf",
+                    "vergisiz"
+                ],
+                "Azerbaijani": [
+                    "vergidən azad",
+                    "vergisiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bojdan ozod"
+                ],
+                "Uyghur": [
+                    "باجدىن خالى",
+                    "باجدىن كەچۈرۈم قىلىنغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "төлөмсүз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "затһыҙ"
+                ]
+            }
+        }
+    ]
+}

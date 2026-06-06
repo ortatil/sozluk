@@ -1,0 +1,96 @@
+{
+    "id": "i77891",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "green olive",
+    "en_definition": "olives picked green and pickled in brine; infrequently stuffed with e.g. pimento",
+    "tr_word": "yeşil zeytin",
+    "tr_definition": "Henüz olgunlaşmadan toplanan ve salamura edilerek hazırlanan zeytin türü.",
+    "ru_word": "зеленая оливка",
+    "ru_definition": "Оливки, собранные до полного созревания и законсервированные в рассоле.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeşil zeytin",
+                    "çizik zeytin"
+                ],
+                "Azerbaijani": [
+                    "yaşıl zeytun"
+                ],
+                "Turkmen": [
+                    "ýaşyl zeýtun"
+                ],
+                "Uzbek": [
+                    "yashil zaytun"
+                ],
+                "Uyghur": [
+                    "يېشىل زەيتۇن"
+                ],
+                "Kazakh": [
+                    "жасыл зәйтүн"
+                ],
+                "Kyrgyz": [
+                    "жашыл зайтун"
+                ],
+                "Karakalpak": [
+                    "jasıl záytún"
+                ],
+                "Tatar": [
+                    "яшел зәйтүн"
+                ],
+                "Bashkir": [
+                    "йәшел зәйтүн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "zaytun"
+                ],
+                "Kazakh": [
+                    "зәйтүн"
+                ],
+                "Kyrgyz": [
+                    "зайтун"
+                ],
+                "Karakalpak": [
+                    "záytún"
+                ],
+                "Tatar": [
+                    "зәйтүн"
+                ],
+                "Bashkir": [
+                    "зәйтүн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xam zeytun"
+                ],
+                "Uyghur": [
+                    "خام زەيتۇن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırma zeytin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gök zeýtun"
+                ]
+            }
+        }
+    ]
+}

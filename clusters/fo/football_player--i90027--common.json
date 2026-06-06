@@ -1,0 +1,89 @@
+{
+    "id": "i90027",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "football player",
+    "en_definition": "an athlete who plays American football",
+    "tr_word": "Amerikan futbolcusu",
+    "tr_definition": "Amerikan futbolu oynayan sporcu",
+    "ru_word": "игрок в американский футбол",
+    "ru_definition": "спортсмен, играющий в американский футбол",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Amerikan futbolcusu",
+                    "Amerikan futbolu oyuncusu"
+                ],
+                "Azerbaijani": [
+                    "amerikan futbolçusu"
+                ],
+                "Turkmen": [
+                    "futbolçy"
+                ],
+                "Uyghur": [
+                    "ئامېرىكا پۇتبولچىسى",
+                    "ئامېرىكا پۇتبول ماھىرى"
+                ],
+                "Kazakh": [
+                    "футболшы",
+                    "америкалық футбол ойыншысы"
+                ],
+                "Kyrgyz": [
+                    "футболчу"
+                ],
+                "Karakalpak": [
+                    "futbolshı"
+                ],
+                "Tatar": [
+                    "футболчы"
+                ],
+                "Bashkir": [
+                    "футболсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "topçy"
+                ],
+                "Uzbek": [
+                    "toʻpchi"
+                ],
+                "Kyrgyz": [
+                    "топчу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "futbolçu"
+                ],
+                "Uzbek": [
+                    "futbolchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "уенчы"
+                ],
+                "Bashkir": [
+                    "уйынсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ayaq dopshı"
+                ]
+            }
+        }
+    ]
+}

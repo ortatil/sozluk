@@ -1,0 +1,150 @@
+{
+    "id": "i107238",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "iou",
+    "en_definition": "an informal debt instrument; representing `I owe you'",
+    "tr_word": "borç senedi",
+    "tr_definition": "bir borcun varlığını kabul eden gayriresmi belge veya yazılı beyan.",
+    "ru_word": "долговая расписка",
+    "ru_definition": "неофициальный документ, подтверждающий наличие долга.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "karz haty"
+                ],
+                "Uzbek": [
+                    "qarznom",
+                    "qarz xati"
+                ],
+                "Uyghur": [
+                    "قەرز خېتى"
+                ],
+                "Kazakh": [
+                    "қарыз хат"
+                ],
+                "Kyrgyz": [
+                    "карыз кат"
+                ],
+                "Karakalpak": [
+                    "qarız xat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tilxat"
+                ],
+                "Uyghur": [
+                    "تىلخەت"
+                ],
+                "Kazakh": [
+                    "қолхат"
+                ],
+                "Kyrgyz": [
+                    "тил кат"
+                ],
+                "Karakalpak": [
+                    "tilxat"
+                ],
+                "Bashkir": [
+                    "теләүнамә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "borç senedi",
+                    "borç belgesi"
+                ],
+                "Azerbaijani": [
+                    "borc sənədi",
+                    "borc kağızı"
+                ],
+                "Turkmen": [
+                    "borçnamasy"
+                ],
+                "Tatar": [
+                    "бурыч хаты",
+                    "бурыч кәгазе"
+                ],
+                "Bashkir": [
+                    "бурыс хаты",
+                    "бурыснамә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "міндеттеме"
+                ],
+                "Kyrgyz": [
+                    "милдеттеме"
+                ],
+                "Karakalpak": [
+                    "milletnama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hujjat"
+                ],
+                "Uyghur": [
+                    "ھۆججەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "senet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "makbuz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vəksel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "öhdəlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bergi haty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "вәгъдәнамә"
+                ]
+            }
+        }
+    ]
+}

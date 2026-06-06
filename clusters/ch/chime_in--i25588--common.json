@@ -1,0 +1,161 @@
+{
+    "id": "i25588",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "chime in",
+    "en_definition": "break into a conversation",
+    "tr_word": "söze karışmak",
+    "tr_definition": "bir konuşmayı bölerek düşüncesini söylemek veya araya girmek",
+    "ru_word": "вступать в разговор",
+    "ru_definition": "прерывать беседу, чтобы высказать свое мнение или присоединиться к обсуждению",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "araya girmek"
+                ],
+                "Azerbaijani": [
+                    "araya girmək"
+                ],
+                "Turkmen": [
+                    "araya girmek"
+                ],
+                "Uzbek": [
+                    "aralashmoq"
+                ],
+                "Uyghur": [
+                    "ئارىلاشماق"
+                ],
+                "Kazakh": [
+                    "араласу",
+                    "араға түсу"
+                ],
+                "Kyrgyz": [
+                    "аралашуу"
+                ],
+                "Karakalpak": [
+                    "aralasıo"
+                ],
+                "Bashkir": [
+                    "аралашыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "söze karışmak"
+                ],
+                "Azerbaijani": [
+                    "sözə qarışmaq",
+                    "söz kəsmək"
+                ],
+                "Turkmen": [
+                    "söze garyşmak"
+                ],
+                "Uyghur": [
+                    "سۆز قوشماق"
+                ],
+                "Kazakh": [
+                    "сөзге араласу",
+                    "сөз қыстыру",
+                    "сөз бөлу"
+                ],
+                "Kyrgyz": [
+                    "сөзгө аралашуу",
+                    "сөз кыстыруу"
+                ],
+                "Karakalpak": [
+                    "sózge aralasıo",
+                    "sóz bólio"
+                ],
+                "Tatar": [
+                    "сүзгә кушылу"
+                ],
+                "Bashkir": [
+                    "һүҙгә ҡыҫылыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşulmak"
+                ],
+                "Uzbek": [
+                    "qoʻshilmoq"
+                ],
+                "Kyrgyz": [
+                    "кошулуу"
+                ],
+                "Tatar": [
+                    "кушылу"
+                ],
+                "Bashkir": [
+                    "ҡушылыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müdahale etmek"
+                ],
+                "Azerbaijani": [
+                    "müdaxilə etmək"
+                ],
+                "Uyghur": [
+                    "مۇداخىلە قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gep goşmak"
+                ],
+                "Uzbek": [
+                    "gapga suqulmoq",
+                    "gap boʻlmoq"
+                ],
+                "Uyghur": [
+                    "گەپ قىستۇرماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "qıstırılısıo"
+                ],
+                "Tatar": [
+                    "кысылу"
+                ],
+                "Bashkir": [
+                    "ҡыҫылыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lafı ağzından almak",
+                    "laf atmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "катнашу"
+                ]
+            }
+        }
+    ]
+}

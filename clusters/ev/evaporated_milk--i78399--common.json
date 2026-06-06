@@ -1,0 +1,108 @@
+{
+    "id": "i78399",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "evaporated milk",
+    "en_definition": "milk concentrated by evaporation",
+    "tr_word": "şekerlenmemiş koyulaştırılmış süt",
+    "tr_definition": "suyunun bir kısmı buharlaştırılarak yoğunlaştırılmış, şeker eklenmemiş süt",
+    "ru_word": "концентрированное молоко",
+    "ru_definition": "молоко, из которого удалена часть воды путём выпаривания, но без добавления сахара",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koyulaştırılmış süt",
+                    "yoğunlaştırılmış süt"
+                ],
+                "Uzbek": [
+                    "quyuqlashtirilgan sut"
+                ],
+                "Uyghur": [
+                    "قويۇلدۇرۇلغان سۈت",
+                    "قويۇق سۈت"
+                ],
+                "Kazakh": [
+                    "қоюлатылған сүт",
+                    "қою сүт"
+                ],
+                "Kyrgyz": [
+                    "коюлтулган сүт"
+                ],
+                "Karakalpak": [
+                    "qoyıtılǵan sút"
+                ],
+                "Tatar": [
+                    "куертылган сөт"
+                ],
+                "Bashkir": [
+                    "ҡуйырытылған һөт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bugardylan süýt"
+                ],
+                "Uzbek": [
+                    "bugʻlatilgan sut"
+                ],
+                "Kazakh": [
+                    "буланған сүт"
+                ],
+                "Kyrgyz": [
+                    "бууланган сүт"
+                ],
+                "Karakalpak": [
+                    "bulandırılǵan sút"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "evapore süt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qatılaşdırılmış süd",
+                    "qatı süd"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bişmiş süd"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goýaldylan süýt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "парландырылган сөт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "быҡтырылған һөт"
+                ]
+            }
+        }
+    ]
+}

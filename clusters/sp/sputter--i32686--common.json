@@ -1,0 +1,134 @@
+{
+    "id": "i32686",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "sputter",
+    "en_definition": "make an explosive sound",
+    "tr_word": "püskürmek",
+    "tr_definition": "kesik kesik ve patlayıcı sesler çıkarmak",
+    "ru_word": "пыхтеть",
+    "ru_definition": "издавать резкие, прерывистые, хлопающие звуки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pıqqıldamaq"
+                ],
+                "Uzbek": [
+                    "pishillamoq"
+                ],
+                "Kazakh": [
+                    "пырылдау",
+                    "бырқылдау",
+                    "быжылдау"
+                ],
+                "Kyrgyz": [
+                    "быркыроо",
+                    "быркыратуу"
+                ],
+                "Karakalpak": [
+                    "pırxıldau"
+                ],
+                "Tatar": [
+                    "пырхылдау",
+                    "пырхылдату"
+                ],
+                "Bashkir": [
+                    "пырҙау",
+                    "пырхылдау",
+                    "тырҡылдау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "püskürmek",
+                    "fışkırmak"
+                ],
+                "Azerbaijani": [
+                    "pısqırmaq",
+                    "püskürmək"
+                ],
+                "Uyghur": [
+                    "پاسىرلاش"
+                ],
+                "Karakalpak": [
+                    "pısıldau"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "patırdamak",
+                    "çatırdamak"
+                ],
+                "Uzbek": [
+                    "shatirlamoq"
+                ],
+                "Tatar": [
+                    "шатырдау"
+                ],
+                "Bashkir": [
+                    "шатырлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tirsillamoq"
+                ],
+                "Kazakh": [
+                    "тарсылдау"
+                ],
+                "Kyrgyz": [
+                    "тарсылдоо",
+                    "тарсылдатуу"
+                ],
+                "Karakalpak": [
+                    "tarsıldau",
+                    "gúrsildeu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çırpınmaq"
+                ],
+                "Uzbek": [
+                    "chirillamoq"
+                ],
+                "Tatar": [
+                    "чыжылдау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pürkülmek",
+                    "pürkmek",
+                    "pürepürlemek",
+                    "pürepür bolmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پاقىراش",
+                    "پاق-پۇق قىلىش",
+                    "پارتلاش"
+                ]
+            }
+        }
+    ]
+}

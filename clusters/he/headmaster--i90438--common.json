@@ -1,0 +1,141 @@
+{
+    "id": "i90438",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "schoolmaster",
+    "en_definition": "presiding officer of a school",
+    "tr_word": "okul müdürü",
+    "tr_definition": "bir okulun yönetiminden sorumlu olan en üst düzey yetkili",
+    "ru_word": "директор школы",
+    "ru_definition": "лицо, руководящее деятельностью школы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başöğretmen"
+                ],
+                "Azerbaijani": [
+                    "baş müəllim"
+                ],
+                "Turkmen": [
+                    "başlyk"
+                ],
+                "Uzbek": [
+                    "boshliq"
+                ],
+                "Uyghur": [
+                    "باشلىق"
+                ],
+                "Kazakh": [
+                    "бас мұғалім"
+                ],
+                "Kyrgyz": [
+                    "башчы"
+                ],
+                "Karakalpak": [
+                    "basshı",
+                    "basqarıoshı"
+                ],
+                "Tatar": [
+                    "башлык"
+                ],
+                "Bashkir": [
+                    "башлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müdür"
+                ],
+                "Azerbaijani": [
+                    "müdir"
+                ],
+                "Turkmen": [
+                    "müdür"
+                ],
+                "Uzbek": [
+                    "mudir"
+                ],
+                "Uyghur": [
+                    "مۇدىر"
+                ],
+                "Kyrgyz": [
+                    "мүдүр"
+                ],
+                "Karakalpak": [
+                    "múdir"
+                ],
+                "Tatar": [
+                    "мөдир"
+                ],
+                "Bashkir": [
+                    "мөдир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məktəb müdiri"
+                ],
+                "Turkmen": [
+                    "mekdep müdiri"
+                ],
+                "Uyghur": [
+                    "مەكتەپ مۇدىرى"
+                ],
+                "Kazakh": [
+                    "мектеп басшысы",
+                    "мектеп меңгерушісі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "жетекчи"
+                ],
+                "Tatar": [
+                    "җитәкче"
+                ],
+                "Bashkir": [
+                    "етәксе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "okul müdürü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yönetici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rahbar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "директор"
+                ]
+            }
+        }
+    ]
+}

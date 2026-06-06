@@ -1,0 +1,66 @@
+{
+    "id": "i17438",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "arabian",
+    "en_definition": "relating to or associated with Arabia or its people",
+    "tr_word": "Arap",
+    "tr_definition": "Arabistan'a veya Araplara özgü olan, onlarla ilgili",
+    "ru_word": "арабский",
+    "ru_definition": "относящийся к Аравии, к арабам, их языку, образу жизни, культуре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Arap",
+                    "Arabî",
+                    "Arabistanlı"
+                ],
+                "Azerbaijani": [
+                    "ərəb",
+                    "ərəbi",
+                    "ərəbcə"
+                ],
+                "Turkmen": [
+                    "arap",
+                    "araby"
+                ],
+                "Uzbek": [
+                    "arab",
+                    "arabiy",
+                    "arabistonlik"
+                ],
+                "Uyghur": [
+                    "ئەرەب",
+                    "ئەرەبچە"
+                ],
+                "Kazakh": [
+                    "араб",
+                    "арап",
+                    "арабтық"
+                ],
+                "Kyrgyz": [
+                    "араб",
+                    "арап"
+                ],
+                "Karakalpak": [
+                    "arab",
+                    "arap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гарәп",
+                    "гарәби"
+                ],
+                "Bashkir": [
+                    "ғәрәп",
+                    "ғәрәби"
+                ]
+            }
+        }
+    ]
+}

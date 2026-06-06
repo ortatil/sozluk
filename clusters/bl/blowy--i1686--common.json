@@ -1,0 +1,129 @@
+{
+    "id": "i1686",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "blowy",
+    "en_definition": "abounding in or exposed to the wind or breezes",
+    "tr_word": "rüzgarlı",
+    "tr_definition": "rüzgarın çok olduğu veya rüzgara açık olan yer",
+    "ru_word": "ветреный",
+    "ru_definition": "сопровождаемый ветром или открытый для ветра",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yel esen"
+                ],
+                "Azerbaijani": [
+                    "yelpi",
+                    "yelli"
+                ],
+                "Turkmen": [
+                    "ýelli"
+                ],
+                "Uzbek": [
+                    "yelvizakli"
+                ],
+                "Uyghur": [
+                    "يەللىك"
+                ],
+                "Kazakh": [
+                    "желді",
+                    "желпінді",
+                    "желдірме",
+                    "желдірмелі"
+                ],
+                "Kyrgyz": [
+                    "желдүү"
+                ],
+                "Karakalpak": [
+                    "jelli"
+                ],
+                "Tatar": [
+                    "җилле",
+                    "җил-яңгырлы",
+                    "җилкәй"
+                ],
+                "Bashkir": [
+                    "елле",
+                    "елпеҙ",
+                    "ел-ямғырлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şemally"
+                ],
+                "Uzbek": [
+                    "shamolli"
+                ],
+                "Uyghur": [
+                    "شاماللىق",
+                    "شامالدار"
+                ],
+                "Kyrgyz": [
+                    "шамалдуу"
+                ],
+                "Karakalpak": [
+                    "samallı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ышкырыктуу"
+                ],
+                "Karakalpak": [
+                    "ashıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rüzgarlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havadar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fırtınalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "küləkli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mehli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bo'ronli"
+                ]
+            }
+        }
+    ]
+}

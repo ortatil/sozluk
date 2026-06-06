@@ -1,0 +1,67 @@
+{
+    "id": "i12116",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one hundred fifty",
+    "en_definition": "being ten more than one hundred forty",
+    "tr_word": "yüz elli",
+    "tr_definition": "yüz kırktan on fazla olan sayı",
+    "ru_word": "сто пятьдесят",
+    "ru_definition": "число, на десять большее, чем сто сорок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz elli"
+                ],
+                "Azerbaijani": [
+                    "yüz əlli"
+                ],
+                "Turkmen": [
+                    "ýüz elli"
+                ],
+                "Uzbek": [
+                    "yuz ellik"
+                ],
+                "Uyghur": [
+                    "يۈز ئەللىك"
+                ],
+                "Kazakh": [
+                    "жүз елу"
+                ],
+                "Kyrgyz": [
+                    "жүз элүү"
+                ],
+                "Karakalpak": [
+                    "júz eli",
+                    "júz elli"
+                ],
+                "Tatar": [
+                    "йөз илле",
+                    "йөз дә илле"
+                ],
+                "Bashkir": [
+                    "йөҙ илле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bir yuz ellik"
+                ],
+                "Uyghur": [
+                    "بىر يۈز ئەللىك"
+                ],
+                "Kazakh": [
+                    "бір жүз елу"
+                ],
+                "Kyrgyz": [
+                    "бир жүз элүү"
+                ]
+            }
+        }
+    ]
+}

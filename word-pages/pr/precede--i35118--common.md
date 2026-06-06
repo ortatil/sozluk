@@ -1,0 +1,182 @@
+# Precede
+| Field | Detail |
+|---|---|
+| **ID** | i35118 |
+| **English** | precede |
+| **Type** | verb |
+| **Definition** | come before |
+| **Source** | common |
+| **Ortatil** | öncelämäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| баштоо | baştoo |
+| **Tatar** | |
+| алдану | aldanu |
+
+```json
+{
+    "id": "i35118",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "precede",
+    "en_definition": "come before",
+    "tr_word": "önce gelmek",
+    "tr_definition": "zaman, sıra veya yer bakımından bir şeyden önce gelmek veya bulunmak",
+    "ru_word": "предшествовать",
+    "ru_definition": "быть или идти перед кем-либо или чем-либо по времени или в пространстве",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oldin kelmoq"
+                ],
+                "Uyghur": [
+                    "ئالدىدا كېلىش",
+                    "ئالدىن يۈز بېرىش"
+                ],
+                "Kazakh": [
+                    "алдында болу"
+                ],
+                "Kyrgyz": [
+                    "алдында болуу",
+                    "алдыга чыгуу"
+                ],
+                "Karakalpak": [
+                    "aldında bolıo",
+                    "aldın kelio",
+                    "aldına ótio"
+                ],
+                "Tatar": [
+                    "алда бару",
+                    "алдан килү",
+                    "алдану"
+                ],
+                "Bashkir": [
+                    "алда барыу",
+                    "алда килеу",
+                    "алда булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "peshqadam bo'lmoq"
+                ],
+                "Kazakh": [
+                    "бастап келу"
+                ],
+                "Kyrgyz": [
+                    "баштоо"
+                ],
+                "Karakalpak": [
+                    "baslap berio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "önce gelmek",
+                    "önde gelmek",
+                    "önünde bulunmak",
+                    "öncelemek"
+                ],
+                "Azerbaijani": [
+                    "öncə gəlmək"
+                ],
+                "Turkmen": [
+                    "öňünden gelmek",
+                    "öňe geçmek",
+                    "öňünde bolmak"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "irəli gəlmək",
+                    "əvvəl gəlmək"
+                ],
+                "Uzbek": [
+                    "avval kelmoq"
+                ],
+                "Bashkir": [
+                    "әүәл булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بۇرۇن كېلىش"
+                ],
+                "Kazakh": [
+                    "бұрын келу"
+                ],
+                "Kyrgyz": [
+                    "мурун келүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىلگىرى كېلىش"
+                ],
+                "Tatar": [
+                    "элек булу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takdim etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabaqlamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ozmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'zidan oldin o'tkazmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ілгері жүру"
+                ]
+            }
+        }
+    ]
+}
+```
+

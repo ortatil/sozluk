@@ -1,0 +1,194 @@
+{
+    "id": "i40040",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "teaching",
+    "en_definition": "the activities of educating or instructing; activities that impart knowledge or skill",
+    "tr_word": "öğretim",
+    "tr_definition": "bilgi ve beceri kazandırma amacıyla yürütülen eğitim ve öğretme faaliyetlerinin bütünü",
+    "ru_word": "преподавание",
+    "ru_definition": "деятельность по передаче знаний и навыков; процесс обучения и инструктирования",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təlim"
+                ],
+                "Turkmen": [
+                    "tälim"
+                ],
+                "Uzbek": [
+                    "taʼlim"
+                ],
+                "Uyghur": [
+                    "تەلىم",
+                    "تەلىم-تەربىيە"
+                ],
+                "Kazakh": [
+                    "тәлім"
+                ],
+                "Kyrgyz": [
+                    "таалим"
+                ],
+                "Karakalpak": [
+                    "tálim"
+                ],
+                "Tatar": [
+                    "тәгълим"
+                ],
+                "Bashkir": [
+                    "тәғлим"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tedrisat",
+                    "ders"
+                ],
+                "Azerbaijani": [
+                    "tədris"
+                ],
+                "Turkmen": [
+                    "ders"
+                ],
+                "Uzbek": [
+                    "dars"
+                ],
+                "Uyghur": [
+                    "دەرس"
+                ],
+                "Kazakh": [
+                    "дәріс"
+                ],
+                "Bashkir": [
+                    "тәрбиә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okatmaklyk"
+                ],
+                "Uyghur": [
+                    "ئوقۇتۇش"
+                ],
+                "Kazakh": [
+                    "оқыту"
+                ],
+                "Kyrgyz": [
+                    "окутуу"
+                ],
+                "Karakalpak": [
+                    "oqıtıo"
+                ],
+                "Tatar": [
+                    "укыту"
+                ],
+                "Bashkir": [
+                    "уҡытыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "öyrətmə"
+                ],
+                "Uzbek": [
+                    "oʻrgatish"
+                ],
+                "Kazakh": [
+                    "үйрету"
+                ],
+                "Kyrgyz": [
+                    "үйрөтүү"
+                ],
+                "Karakalpak": [
+                    "úyretio"
+                ],
+                "Tatar": [
+                    "өйрәтү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "terbiýe"
+                ],
+                "Uyghur": [
+                    "تەربىيە"
+                ],
+                "Kazakh": [
+                    "тәрбие"
+                ],
+                "Kyrgyz": [
+                    "тарбия"
+                ],
+                "Tatar": [
+                    "тәрбия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muallimlik"
+                ],
+                "Turkmen": [
+                    "mugallymçylyk"
+                ],
+                "Uzbek": [
+                    "muallimlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğretim",
+                    "eğitim"
+                ],
+                "Uzbek": [
+                    "oʻqitish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maarif"
+                ],
+                "Tatar": [
+                    "мәгариф"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сабак берүү"
+                ],
+                "Karakalpak": [
+                    "sabaq berio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "белем биреү"
+                ]
+            }
+        }
+    ]
+}

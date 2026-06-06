@@ -1,0 +1,190 @@
+# Rind
+| Field | Detail |
+|---|---|
+| **ID** | i77253 |
+| **English** | rind |
+| **Type** | noun |
+| **Definition** | the natural outer covering of food (usually removed before eating) |
+| **Source** | common |
+| **Ortatil** | qabıq, pöst |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qabıq** | **pöst** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.33 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 1 | 0.20 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **2.53** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قاپاق | qapaq |
+| قاپ | qap |
+| پوست | post |
+| **Kazakh** | |
+| қабық | qabıq |
+| қабыршақ | qabırşaq |
+| аршу | arşu |
+| **Kyrgyz** | |
+| кабык | kabık |
+| кабыкча | kabıkça |
+| арчын | arçın |
+| **Tatar** | |
+| кабык | kabık |
+| тышча | tışça |
+| катлам | katlam |
+| **Bashkir** | |
+| ҡабыҡ | qabıq |
+| ҡабыҡса | qabıqsa |
+| тире | tire |
+
+```json
+{
+    "id": "i77253",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rind",
+    "en_definition": "the natural outer covering of food (usually removed before eating)",
+    "tr_word": "kabuk",
+    "tr_definition": "Yiyeceklerin (genellikle yemeden önce soyulan) doğal dış kaplaması.",
+    "ru_word": "кожура",
+    "ru_definition": "Естественная внешняя оболочка продуктов питания (обычно удаляемая перед употреблением).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kabuk"
+                ],
+                "Azerbaijani": [
+                    "qabıq"
+                ],
+                "Turkmen": [
+                    "gabyk"
+                ],
+                "Uzbek": [
+                    "qobiq"
+                ],
+                "Uyghur": [
+                    "قاپاق",
+                    "قاپ"
+                ],
+                "Kazakh": [
+                    "қабық",
+                    "қабыршақ"
+                ],
+                "Kyrgyz": [
+                    "кабык",
+                    "кабыкча"
+                ],
+                "Karakalpak": [
+                    "qabıq",
+                    "qabıqsha"
+                ],
+                "Tatar": [
+                    "кабык"
+                ],
+                "Bashkir": [
+                    "ҡабыҡ",
+                    "ҡабыҡса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "üst"
+                ],
+                "Uzbek": [
+                    "po'st",
+                    "po'stloq"
+                ],
+                "Uyghur": [
+                    "پوست"
+                ],
+                "Karakalpak": [
+                    "póste"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daşy"
+                ],
+                "Tatar": [
+                    "тышча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аршу"
+                ],
+                "Kyrgyz": [
+                    "арчын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cidar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pərdə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "poçat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "катлам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тире"
+                ]
+            }
+        }
+    ]
+}
+```
+

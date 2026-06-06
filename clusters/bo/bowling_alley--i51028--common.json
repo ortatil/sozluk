@@ -1,0 +1,107 @@
+{
+    "id": "i51028",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bowling alley",
+    "en_definition": "a building that contains several alleys for bowling",
+    "tr_word": "bowling salonu",
+    "tr_definition": "bowling oynamak için özel olarak hazırlanmış kulvarların bulunduğu bina veya alan",
+    "ru_word": "боулинг-клуб",
+    "ru_definition": "здание или помещение, оборудованное дорожками для игры в боулинг",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bowling salonu",
+                    "bowling alanı",
+                    "bowling sahası"
+                ],
+                "Azerbaijani": [
+                    "boulinq zalı",
+                    "boulinq mərkəzi",
+                    "boulinq meydançası"
+                ],
+                "Turkmen": [
+                    "bouling meýdançasy",
+                    "bouling zaly"
+                ],
+                "Uzbek": [
+                    "bouling saroyi",
+                    "bouling maydoni"
+                ],
+                "Uyghur": [
+                    "بولىڭخانا"
+                ],
+                "Karakalpak": [
+                    "bouling orayı",
+                    "bouling zalı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kegelban"
+                ],
+                "Kazakh": [
+                    "кегельбан",
+                    "кегль залы"
+                ],
+                "Kyrgyz": [
+                    "кегельбан"
+                ],
+                "Tatar": [
+                    "кегельбан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "شار ئويناش مەيدانى",
+                    "شارخانا"
+                ],
+                "Kazakh": [
+                    "шар домалату залы"
+                ],
+                "Tatar": [
+                    "шар тәгәрәтү залы"
+                ],
+                "Bashkir": [
+                    "шар тәгәрәтеү залы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шар ойноочу жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "топ тоголотуучу жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shar domalatıo maydanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "уйын залы"
+                ]
+            }
+        }
+    ]
+}

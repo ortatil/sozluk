@@ -1,0 +1,111 @@
+{
+    "id": "i18280",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "not",
+    "en_definition": "negation of a word or group of words",
+    "tr_word": "değil",
+    "tr_definition": "bir kelimenin veya kelime grubunun anlamını olumsuzlaştıran sözcük",
+    "ru_word": "не",
+    "ru_definition": "отрицание слова или группы слов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yok"
+                ],
+                "Azerbaijani": [
+                    "yox"
+                ],
+                "Turkmen": [
+                    "ýok"
+                ],
+                "Uzbek": [
+                    "yo'q"
+                ],
+                "Uyghur": [
+                    "ياق",
+                    "يوق"
+                ],
+                "Kazakh": [
+                    "жоқ"
+                ],
+                "Kyrgyz": [
+                    "жок"
+                ],
+                "Karakalpak": [
+                    "joq"
+                ],
+                "Tatar": [
+                    "юк"
+                ],
+                "Bashkir": [
+                    "юҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "değil"
+                ],
+                "Azerbaijani": [
+                    "deyil"
+                ],
+                "Turkmen": [
+                    "däl"
+                ],
+                "Tatar": [
+                    "төгел"
+                ],
+                "Bashkir": [
+                    "түгел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "emas"
+                ],
+                "Uyghur": [
+                    "ئەمەس"
+                ],
+                "Kazakh": [
+                    "емес"
+                ],
+                "Kyrgyz": [
+                    "эмес"
+                ],
+                "Karakalpak": [
+                    "emes"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mə",
+                    "ma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "na"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hayır"
+                ]
+            }
+        }
+    ]
+}

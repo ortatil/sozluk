@@ -1,0 +1,75 @@
+{
+    "id": "i116291",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "steam",
+    "en_definition": "water at boiling temperature diffused in the atmosphere",
+    "tr_word": "buhar",
+    "tr_definition": "atmosferde yayılan kaynama sıcaklığındaki su",
+    "ru_word": "пар",
+    "ru_definition": "вода при температуре кипения, рассеянная в атмосфере",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buhar",
+                    "buğu"
+                ],
+                "Azerbaijani": [
+                    "buxar",
+                    "buğu"
+                ],
+                "Turkmen": [
+                    "bug",
+                    "bugar"
+                ],
+                "Uzbek": [
+                    "bug'",
+                    "bug'lanish"
+                ],
+                "Uyghur": [
+                    "بۇغ"
+                ],
+                "Kazakh": [
+                    "бу"
+                ],
+                "Kyrgyz": [
+                    "буу",
+                    "буулануу"
+                ],
+                "Karakalpak": [
+                    "buu",
+                    "puu"
+                ],
+                "Tatar": [
+                    "бу"
+                ],
+                "Bashkir": [
+                    "быу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پار"
+                ],
+                "Tatar": [
+                    "пар"
+                ],
+                "Bashkir": [
+                    "пар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "булану"
+                ]
+            }
+        }
+    ]
+}

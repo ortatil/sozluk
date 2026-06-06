@@ -1,0 +1,73 @@
+{
+    "id": "i85464",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "great lakes",
+    "en_definition": "a group of five large, interconnected lakes in central North America",
+    "tr_word": "Büyük Göller",
+    "tr_definition": "Kuzey Amerika'nın merkezinde bulunan, birbirine bağlı beş büyük gölden oluşan grup",
+    "ru_word": "Великие озёра",
+    "ru_definition": "группа из пяти крупных взаимосвязанных озер в центральной части Северной Америки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Büyük Göller"
+                ],
+                "Azerbaijani": [
+                    "Böyük göllər"
+                ],
+                "Turkmen": [
+                    "Beýik köller"
+                ],
+                "Uzbek": [
+                    "Buyuk ko'llar"
+                ],
+                "Uyghur": [
+                    "بۈيۈك كۆللەر"
+                ],
+                "Tatar": [
+                    "Бөек күлләр"
+                ],
+                "Bashkir": [
+                    "Бөйөк күлдәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Ulu Göller"
+                ],
+                "Uzbek": [
+                    "Ulkan ko'llar"
+                ],
+                "Kazakh": [
+                    "Ұлы көлдер",
+                    "Үлкен көлдер"
+                ],
+                "Kyrgyz": [
+                    "Улуу көлдөр"
+                ],
+                "Karakalpak": [
+                    "Ullı kóller"
+                ],
+                "Tatar": [
+                    "Олуг күлләр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ كۆللەر"
+                ],
+                "Kyrgyz": [
+                    "Чоң көлдөр"
+                ]
+            }
+        }
+    ]
+}

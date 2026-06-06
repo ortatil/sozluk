@@ -1,0 +1,187 @@
+{
+    "id": "i40225",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "agriculture",
+    "en_definition": "the practice of cultivating the land or raising stock",
+    "tr_word": "tarım",
+    "tr_definition": "Toprağı işleme, ekme ve hayvan yetiştirme faaliyetlerinin bütünü.",
+    "ru_word": "сельское хозяйство",
+    "ru_definition": "Отрасль экономики, направленная на обеспечение населения продовольствием и получение сырья для промышленности путём выращивания растений и разведения животных.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "daýhançylyk"
+                ],
+                "Uzbek": [
+                    "dehqonchilik",
+                    "dehqonlik"
+                ],
+                "Uyghur": [
+                    "دېھقانچىلىق"
+                ],
+                "Kazakh": [
+                    "диқаншылық"
+                ],
+                "Kyrgyz": [
+                    "дыйканчылык"
+                ],
+                "Karakalpak": [
+                    "dıyqanshılıq"
+                ],
+                "Tatar": [
+                    "диханлык"
+                ],
+                "Bashkir": [
+                    "диһҡансылыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekincilik"
+                ],
+                "Azerbaijani": [
+                    "əkinçilik"
+                ],
+                "Turkmen": [
+                    "ekerançylyk"
+                ],
+                "Kyrgyz": [
+                    "эгинчилик"
+                ],
+                "Tatar": [
+                    "игенчелек"
+                ],
+                "Bashkir": [
+                    "игенселек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ziraat"
+                ],
+                "Azerbaijani": [
+                    "ziraət"
+                ],
+                "Uzbek": [
+                    "ziraat",
+                    "chorvachilik"
+                ],
+                "Uyghur": [
+                    "زېراەتچىلىك"
+                ],
+                "Kyrgyz": [
+                    "чарбачылык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ауыл шаруашылығы"
+                ],
+                "Kyrgyz": [
+                    "айыл чарбасы"
+                ],
+                "Karakalpak": [
+                    "auıl xojalıǵı"
+                ],
+                "Tatar": [
+                    "авыл хуҗалыгы"
+                ],
+                "Bashkir": [
+                    "ауыл хужалығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarım"
+                ],
+                "Uyghur": [
+                    "تېرىقچىلىق"
+                ],
+                "Tatar": [
+                    "терлекчелек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "егіншілік"
+                ],
+                "Karakalpak": [
+                    "egіnshіlіk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çiftçilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kənd təsərrüfatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təsərrüfatçılıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "oba hojalygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mülkdarlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باغۋەنچىلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шаруашылық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәсеүселек"
+                ]
+            }
+        }
+    ]
+}

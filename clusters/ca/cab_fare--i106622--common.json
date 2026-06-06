@@ -1,0 +1,119 @@
+{
+    "id": "i106622",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cab fare",
+    "en_definition": "the fare charged for riding in a taxicab",
+    "tr_word": "taksi ücreti",
+    "tr_definition": "Bir taksiyle yolculuk yapmak için ödenen tutar",
+    "ru_word": "плата за проезд в такси",
+    "ru_definition": "Стоимость поездки на такси",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yol haqqı"
+                ],
+                "Turkmen": [
+                    "ýol haky"
+                ],
+                "Uzbek": [
+                    "yoʻl haqi"
+                ],
+                "Uyghur": [
+                    "يول كىراسى"
+                ],
+                "Kazakh": [
+                    "жолақы"
+                ],
+                "Kyrgyz": [
+                    "жол акы"
+                ],
+                "Karakalpak": [
+                    "jol haqı"
+                ],
+                "Tatar": [
+                    "юл хакы",
+                    "юл бәясе"
+                ],
+                "Bashkir": [
+                    "юл хаҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gediş haqqı"
+                ],
+                "Uzbek": [
+                    "kira haqi"
+                ],
+                "Uyghur": [
+                    "كىرا ھەققى"
+                ],
+                "Kazakh": [
+                    "кіре"
+                ],
+                "Kyrgyz": [
+                    "кире",
+                    "кире акы"
+                ],
+                "Karakalpak": [
+                    "kire haqı",
+                    "kire"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taksi ücreti",
+                    "taksi parası",
+                    "taksi bedeli"
+                ],
+                "Azerbaijani": [
+                    "taksi haqqı",
+                    "taksi pulu"
+                ],
+                "Turkmen": [
+                    "taksi haky",
+                    "taksi tölegi"
+                ],
+                "Uyghur": [
+                    "تاكسى ھەققى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kira"
+                ],
+                "Uzbek": [
+                    "kira"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік ақысы"
+                ],
+                "Tatar": [
+                    "килү хакы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "юл өсөн түләү"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "id": "i45103",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gosling",
+    "en_definition": "young goose",
+    "tr_word": "kaz yavrusu",
+    "tr_definition": "Genç veya yeni doğmuş kaz.",
+    "ru_word": "гусёнок",
+    "ru_definition": "Птенец гуся.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaz yavrusu",
+                    "kaz palazı"
+                ],
+                "Azerbaijani": [
+                    "qaz balası",
+                    "qazça"
+                ],
+                "Turkmen": [
+                    "gaz çagasy",
+                    "gaz jüýjesi",
+                    "gaz palany"
+                ],
+                "Uzbek": [
+                    "gʻozcha",
+                    "gʻoz bolasi"
+                ],
+                "Uyghur": [
+                    "غاز چۆجىسى",
+                    "غاز بالىسى"
+                ],
+                "Kazakh": [
+                    "қаз балапаны"
+                ],
+                "Kyrgyz": [
+                    "каздын балапаны",
+                    "каз балапан"
+                ],
+                "Karakalpak": [
+                    "qaz balapanı",
+                    "qazsha"
+                ],
+                "Tatar": [
+                    "каз бәбкәсе"
+                ],
+                "Bashkir": [
+                    "ҡаҙ бәпкәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәбкә"
+                ],
+                "Bashkir": [
+                    "бәпкә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мамық"
+                ]
+            }
+        }
+    ]
+}

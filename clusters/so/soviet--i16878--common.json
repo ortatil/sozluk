@@ -1,0 +1,91 @@
+{
+    "id": "i16878",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "soviet",
+    "en_definition": "of or relating to or characteristic of the former Soviet Union or its people",
+    "tr_word": "sovyet",
+    "tr_definition": "Eski Sovyetler Birliği'ne veya halkına ait veya onunla ilgili olan",
+    "ru_word": "советский",
+    "ru_definition": "относящийся к бывшему Советскому Союзу или его народу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şura"
+                ],
+                "Azerbaijani": [
+                    "şura"
+                ],
+                "Turkmen": [
+                    "şura"
+                ],
+                "Uzbek": [
+                    "shuro",
+                    "shuroviy"
+                ],
+                "Tatar": [
+                    "шура",
+                    "шуралар",
+                    "шурави"
+                ],
+                "Bashkir": [
+                    "шура"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sovyet"
+                ],
+                "Azerbaijani": [
+                    "sovet"
+                ],
+                "Uyghur": [
+                    "سوۋېت",
+                    "سوۋېت ئىتتىپاقىغا ئائىت"
+                ],
+                "Bashkir": [
+                    "совет"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "geňeş"
+                ],
+                "Kazakh": [
+                    "кеңестік",
+                    "кеңес"
+                ],
+                "Kyrgyz": [
+                    "кеңештик",
+                    "кеңеш"
+                ],
+                "Karakalpak": [
+                    "keńes",
+                    "keńeslik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meclis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ittifoqiy"
+                ]
+            }
+        }
+    ]
+}

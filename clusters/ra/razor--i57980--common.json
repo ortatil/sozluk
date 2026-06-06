@@ -1,0 +1,104 @@
+{
+    "id": "i57980",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "razor",
+    "en_definition": "edge tool used in shaving",
+    "tr_word": "ustura",
+    "tr_definition": "Tıraş olmak için kullanılan, katlanıp kapanabilen, çok keskin bıçak.",
+    "ru_word": "бритва",
+    "ru_definition": "Инструмент для бритья волос на коже.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ustura"
+                ],
+                "Turkmen": [
+                    "ustura"
+                ],
+                "Uzbek": [
+                    "ustara"
+                ],
+                "Uyghur": [
+                    "ئۇستۇرا"
+                ],
+                "Kazakh": [
+                    "ұстара"
+                ],
+                "Kyrgyz": [
+                    "устара"
+                ],
+                "Karakalpak": [
+                    "ustara"
+                ],
+                "Tatar": [
+                    "остара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "päkgi"
+                ],
+                "Uzbek": [
+                    "pokki"
+                ],
+                "Kazakh": [
+                    "бәкі"
+                ],
+                "Karakalpak": [
+                    "báki"
+                ],
+                "Bashkir": [
+                    "бәке"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "кыргыч"
+                ],
+                "Tatar": [
+                    "кыргыч"
+                ],
+                "Bashkir": [
+                    "ҡырығыс",
+                    "ҡырынғыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tıraş bıçağı"
+                ],
+                "Azerbaijani": [
+                    "taraş bıçağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sakgalalgyç"
+                ],
+                "Uyghur": [
+                    "ساقال ئالغۇچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ülgüc"
+                ]
+            }
+        }
+    ]
+}

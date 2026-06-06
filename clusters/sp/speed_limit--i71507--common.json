@@ -1,0 +1,84 @@
+{
+    "id": "i71507",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "speed limit",
+    "en_definition": "regulation establishing the top speed permitted on a given road",
+    "tr_word": "hız sınırı",
+    "tr_definition": "belirli bir yolda izin verilen en yüksek hızı belirleyen düzenleme",
+    "ru_word": "ограничение скорости",
+    "ru_definition": "правило, устанавливающее максимально допустимую скорость на данной дороге",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tizlik çägi",
+                    "tizlik çäklendirmesi"
+                ],
+                "Uzbek": [
+                    "tezlik cheklovi",
+                    "tezlik me'yori",
+                    "tezlik chegarasi"
+                ],
+                "Uyghur": [
+                    "تېزلىك چەكلىمىسى"
+                ],
+                "Karakalpak": [
+                    "tezlik shegarası",
+                    "tezlik shegi"
+                ],
+                "Tatar": [
+                    "тизлек чиге",
+                    "тизлек чикләве"
+                ],
+                "Bashkir": [
+                    "тиҙлек сиге",
+                    "тиҙлек сикләүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürat tahdidi"
+                ],
+                "Azerbaijani": [
+                    "sürət həddi",
+                    "sürət məhdudiyyəti"
+                ],
+                "Uyghur": [
+                    "سۈرەت چەكلىمىسى",
+                    "سۈرەت چەكلىمە نىسبىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жылдамдық шегі",
+                    "жылдамдық шектеуі"
+                ],
+                "Kyrgyz": [
+                    "ылдамдык чеги",
+                    "ылдамдык чектөөсү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hız sınırı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hız limiti"
+                ]
+            }
+        }
+    ]
+}

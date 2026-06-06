@@ -1,0 +1,153 @@
+# Ragged robin
+| Field | Detail |
+|---|---|
+| **ID** | i99365 |
+| **English** | ragged robin |
+| **Type** | noun |
+| **Definition** | common perennial native to Europe and western Asia having usually pink flowers with ragged petals |
+| **Source** | common |
+| **Ortatil** | çämän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| кызгалдак | kızgaldak |
+
+```json
+{
+    "id": "i99365",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ragged robin",
+    "en_definition": "common perennial native to Europe and western Asia having usually pink flowers with ragged petals",
+    "tr_word": "yaka çiçeği",
+    "tr_definition": "Avrupa ve Batı Asya'ya özgü, genellikle pembe renkli ve parçalı taç yapraklı çiçekleri olan çok yıllık bir bitki.",
+    "ru_word": "кукушкин цвет",
+    "ru_definition": "многолетнее травянистое растение семейства Гвоздичные с розовыми цветками, лепестки которых глубоко рассечены на четыре доли.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yırtık yapraklı karanfil"
+                ],
+                "Azerbaijani": [
+                    "cır-cındır çiçəyi"
+                ],
+                "Uyghur": [
+                    "يىرتىق گۈل"
+                ],
+                "Karakalpak": [
+                    "jırtıq gúl"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көкек гүлі",
+                    "көкек шөбі"
+                ],
+                "Kyrgyz": [
+                    "күкүк гүлү"
+                ],
+                "Karakalpak": [
+                    "kókek gúli"
+                ],
+                "Bashkir": [
+                    "күке сәскәһе",
+                    "күке утлыҡайы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaka çiçeği"
+                ],
+                "Uzbek": [
+                    "yovvoyi gul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "parçalı çiçek"
+                ],
+                "Azerbaijani": [
+                    "parçalanmış ləçəkli qərənfil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çemenlik gülü"
+                ],
+                "Uzbek": [
+                    "chaman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çopantelpek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýabany bägül"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چاك-چاك گۈل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айры гүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кызгалдак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бака чәчәге",
+                    "бака үләне",
+                    "бака утүләне"
+                ]
+            }
+        }
+    ]
+}
+```
+

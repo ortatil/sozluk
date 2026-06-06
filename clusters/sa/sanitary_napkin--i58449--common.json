@@ -1,0 +1,135 @@
+{
+    "id": "i58449",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sanitary napkin",
+    "en_definition": "a disposable absorbent pad (trade name Kotex); worn to absorb menstrual flow",
+    "tr_word": "hijyenik ped",
+    "tr_definition": "Adet döneminde sıvıyı emmek için kullanılan tek kullanımlık emici ped.",
+    "ru_word": "гигиеническая прокладка",
+    "ru_definition": "Одноразовая впитывающая прокладка, используемая женщинами во время менструации.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gigiyenik bez"
+                ],
+                "Turkmen": [
+                    "gigiýena esgisi",
+                    "gigiýena prostyşy",
+                    "gigiýena pamygy"
+                ],
+                "Uzbek": [
+                    "gigiyenik vosita"
+                ],
+                "Kazakh": [
+                    "гигиеналық жастықша"
+                ],
+                "Kyrgyz": [
+                    "гигиеналык төшөм"
+                ],
+                "Karakalpak": [
+                    "gigienalıq tóseme"
+                ],
+                "Tatar": [
+                    "гигиена биләве",
+                    "гигиена катламы"
+                ],
+                "Bashkir": [
+                    "гигиена түшәмәһе",
+                    "гигиена сараһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "төсеме"
+                ],
+                "Kyrgyz": [
+                    "төшөм"
+                ],
+                "Karakalpak": [
+                    "tóseme"
+                ],
+                "Bashkir": [
+                    "түшәмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ped"
+                ],
+                "Azerbaijani": [
+                    "bez"
+                ],
+                "Uzbek": [
+                    "bezgak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hijyenik ped"
+                ],
+                "Uyghur": [
+                    "ھەيز پىلاستىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kadın bağı"
+                ],
+                "Azerbaijani": [
+                    "qadın bezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әйелдер жастықшасы"
+                ],
+                "Kyrgyz": [
+                    "аялдардын төшөмү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taglik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پاكىزلىق پىلاستىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ساغلاملىق پىلاستىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "биләү"
+                ]
+            }
+        }
+    ]
+}

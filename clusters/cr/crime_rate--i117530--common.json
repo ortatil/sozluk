@@ -1,0 +1,76 @@
+{
+    "id": "i117530",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "crime rate",
+    "en_definition": "the ratio of crimes in an area to the population of that area; expressed per 1000 population per year",
+    "tr_word": "suç oranı",
+    "tr_definition": "belirli bir bölgedeki suç sayısının o bölgenin nüfusuna oranı; genellikle her 1000 kişi başına yıllık olarak ifade edilir",
+    "ru_word": "уровень преступности",
+    "ru_definition": "отношение количества преступлений в определенном районе к численности населения этого района; выражается на 1000 человек в год",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cinayət nisbəti",
+                    "cinayət dərəcəsi",
+                    "cinayətkarlıq səviyyəsi"
+                ],
+                "Uzbek": [
+                    "jinoyatchilik darajasi",
+                    "jinoyatchilik koʻrsatkichi",
+                    "jinoyat miqdori"
+                ],
+                "Uyghur": [
+                    "جىنايەت نىسبىتى",
+                    "جىنايەت كۆرۈلۈش نىسبىتى"
+                ],
+                "Karakalpak": [
+                    "jınayatshılıq dárejesi",
+                    "jınayatshılıq kórsetkishi",
+                    "jınayatshılıq muǵdarı"
+                ],
+                "Tatar": [
+                    "җинаятьчелек дәрәҗәсе",
+                    "җинаятьчелек күрсәткече"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jenaýatçylyk derejesi",
+                    "jenaýat mukdary",
+                    "jenaýat sany"
+                ],
+                "Bashkir": [
+                    "енәйәтселек кимәле",
+                    "енәйәт кимәле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қылмыс деңгейі",
+                    "қылмыстылық деңгейі",
+                    "қылмыс көрсеткіші"
+                ],
+                "Kyrgyz": [
+                    "кылмыштуулук деңгээли",
+                    "кылмыштуулуктун өлчөмү",
+                    "кылмыштуулук көрсөткүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "suç oranı",
+                    "suçluluk oranı"
+                ]
+            }
+        }
+    ]
+}

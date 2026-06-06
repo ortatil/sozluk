@@ -1,0 +1,59 @@
+{
+    "id": "i85372",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eurasia",
+    "en_definition": "the land mass formed by the continents of Europe and Asia",
+    "tr_word": "Avrasya",
+    "tr_definition": "Avrupa ve Asya kıtalarını kapsayan coğrafi bölge",
+    "ru_word": "Евразия",
+    "ru_definition": "самый большой материк на Земле, состоящий из Европы и Азии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Avrasya",
+                    "Avrupa-Asya"
+                ],
+                "Azerbaijani": [
+                    "Avrasiya"
+                ],
+                "Turkmen": [
+                    "Ýewraziýa"
+                ],
+                "Uzbek": [
+                    "Yevrosiyo",
+                    "Yevropa va Osiyo"
+                ],
+                "Uyghur": [
+                    "ياۋرو-ئاسىيا",
+                    "ياۋروپا ۋە ئاسىيا"
+                ],
+                "Kyrgyz": [
+                    "Евразия",
+                    "Европа жана Азия"
+                ],
+                "Karakalpak": [
+                    "Ewraziya",
+                    "Ewropa hám Aziya"
+                ],
+                "Tatar": [
+                    "Авразия",
+                    "Евразия"
+                ],
+                "Bashkir": [
+                    "Евразия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Еуразия",
+                    "Еуропа мен Азия"
+                ]
+            }
+        }
+    ]
+}

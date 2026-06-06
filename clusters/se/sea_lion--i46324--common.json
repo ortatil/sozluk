@@ -1,0 +1,66 @@
+{
+    "id": "i46324",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sea lion",
+    "en_definition": "any of several large eared seals of the northern Pacific related to fur seals but lacking their valuable coat",
+    "tr_word": "deniz aslanı",
+    "tr_definition": "iri kulaklı fokgillerden, genellikle Pasifik Okyanusu kıyılarında yaşayan bir deniz memelisi",
+    "ru_word": "морской лев",
+    "ru_definition": "крупное морское млекопитающее семейства ушастых тюленей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz aslanı"
+                ],
+                "Azerbaijani": [
+                    "dəniz şiri"
+                ],
+                "Turkmen": [
+                    "deňiz ýolbarsy"
+                ],
+                "Uzbek": [
+                    "dengiz sheri"
+                ],
+                "Uyghur": [
+                    "دېڭىز شىرى",
+                    "دېڭىز ئارسلانى"
+                ],
+                "Kazakh": [
+                    "теңіз арыстаны"
+                ],
+                "Kyrgyz": [
+                    "деңиз арстаны"
+                ],
+                "Karakalpak": [
+                    "teńiz arıslanı"
+                ],
+                "Tatar": [
+                    "диңгез арысланы"
+                ],
+                "Bashkir": [
+                    "диңгеҙ арыҫланы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quloqli tyulen"
+                ],
+                "Kyrgyz": [
+                    "кулактуу түлөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iri fok"
+                ]
+            }
+        }
+    ]
+}

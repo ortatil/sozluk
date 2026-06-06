@@ -1,0 +1,90 @@
+{
+    "id": "i38004",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "table game",
+    "en_definition": "a game that is played on a table",
+    "tr_word": "masa oyunu",
+    "tr_definition": "Masa üzerinde oynanan oyun.",
+    "ru_word": "настольная игра",
+    "ru_definition": "Игра, в которую играют на столе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tablo oyunu"
+                ],
+                "Azerbaijani": [
+                    "taxta oyunu"
+                ],
+                "Turkmen": [
+                    "tagta oýny"
+                ],
+                "Uzbek": [
+                    "taxta o'yini"
+                ],
+                "Uyghur": [
+                    "تاختا ئويۇنى"
+                ],
+                "Kazakh": [
+                    "тақта ойыны"
+                ],
+                "Kyrgyz": [
+                    "такта оюну"
+                ],
+                "Karakalpak": [
+                    "taqta oyını"
+                ],
+                "Tatar": [
+                    "такта уены"
+                ],
+                "Bashkir": [
+                    "таҡта уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "stoluüstü oyun"
+                ],
+                "Turkmen": [
+                    "stol oýny"
+                ],
+                "Uzbek": [
+                    "stol o'yini"
+                ],
+                "Uyghur": [
+                    "ئۈستەل ئويۇنى"
+                ],
+                "Kazakh": [
+                    "үстел ойыны"
+                ],
+                "Kyrgyz": [
+                    "үстөл оюну"
+                ],
+                "Karakalpak": [
+                    "ústel oyını"
+                ],
+                "Tatar": [
+                    "өстәл уены"
+                ],
+                "Bashkir": [
+                    "өҫтәл уйыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "masa oyunu"
+                ],
+                "Azerbaijani": [
+                    "masaüstü oyun"
+                ]
+            }
+        }
+    ]
+}

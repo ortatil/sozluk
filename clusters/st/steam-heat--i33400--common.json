@@ -1,0 +1,86 @@
+{
+    "id": "i33400",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "steam-heat",
+    "en_definition": "heat by means of steam",
+    "tr_word": "buharla ısıtmak",
+    "tr_definition": "buhar kullanarak ısı sağlamak",
+    "ru_word": "отапливать паром",
+    "ru_definition": "обогревать с помощью пара",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buharla ısıtmak",
+                    "buğulamak"
+                ],
+                "Azerbaijani": [
+                    "buxarla qızdırmaq",
+                    "buxar vermək",
+                    "buxar vasitəsilə isitmək"
+                ],
+                "Turkmen": [
+                    "bug bilen gyzdyrmak",
+                    "bugda saklamak"
+                ],
+                "Uzbek": [
+                    "bugʻ bilan isitmoq"
+                ],
+                "Uyghur": [
+                    "بۇغدا قىزىتماق",
+                    "بۇغ بىلەن ئىسسىتماق"
+                ],
+                "Kyrgyz": [
+                    "бууга кармоо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "buglamak"
+                ],
+                "Uzbek": [
+                    "bugʻlamoq"
+                ],
+                "Kazakh": [
+                    "булау"
+                ],
+                "Kyrgyz": [
+                    "буулоо"
+                ],
+                "Karakalpak": [
+                    "bulao",
+                    "buolao",
+                    "buo menen jılıtıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бумен жылыту",
+                    "бумен қыздыру"
+                ],
+                "Kyrgyz": [
+                    "буу менен жылытуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "парлау",
+                    "пар белән җылыту"
+                ],
+                "Bashkir": [
+                    "пар менән йылытыу",
+                    "парлап йылытыу"
+                ]
+            }
+        }
+    ]
+}

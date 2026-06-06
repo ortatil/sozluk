@@ -1,0 +1,92 @@
+{
+    "id": "i83707",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "southern france",
+    "en_definition": "the southern part of France",
+    "tr_word": "Güney Fransa",
+    "tr_definition": "Fransa'nın güney bölgesi",
+    "ru_word": "Южная Франция",
+    "ru_definition": "южная часть Франции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Güney Fransa",
+                    "Fransa'nın güneyi"
+                ],
+                "Azerbaijani": [
+                    "Fransanın cənubu"
+                ],
+                "Turkmen": [
+                    "Fransiýanyň günortasy"
+                ],
+                "Uyghur": [
+                    "فرانسىيەنىڭ جەنۇبى"
+                ],
+                "Kazakh": [
+                    "Францияның оңтүстігі"
+                ],
+                "Kyrgyz": [
+                    "Франциянын түштүгү"
+                ],
+                "Karakalpak": [
+                    "Franciyanıń túsligi",
+                    "Franciyanıń qublası"
+                ],
+                "Tatar": [
+                    "Франциянең көньягы"
+                ],
+                "Bashkir": [
+                    "Францияның көньяғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Cənubi Fransa"
+                ],
+                "Uzbek": [
+                    "Janubiy Fransiya"
+                ],
+                "Uyghur": [
+                    "جەنۇبىي فرانسىيە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Көньяк Франция"
+                ],
+                "Bashkir": [
+                    "Көньяҡ Франция"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Günorta Fransiýa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Оңтүстік Франция"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Түштүк Франция"
+                ]
+            }
+        }
+    ]
+}

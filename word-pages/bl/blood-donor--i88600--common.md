@@ -1,0 +1,140 @@
+# Blood donor
+| Field | Detail |
+|---|---|
+| **ID** | i88600 |
+| **English** | blood donor |
+| **Type** | noun |
+| **Definition** | someone who gives blood to be used for transfusions |
+| **Source** | common |
+| **Ortatil** | donor |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **donor** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.43** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| донор | donor |
+| **Kyrgyz** | |
+| донор | donor |
+
+```json
+{
+    "id": "i88600",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blood donor",
+    "en_definition": "someone who gives blood to be used for transfusions",
+    "tr_word": "kan bağışçısı",
+    "tr_definition": "transfüzyonlarda kullanılmak üzere kan veren kimse",
+    "ru_word": "донор крови",
+    "ru_definition": "человек, который добровольно дает свою кровь для переливания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kan bağışçısı"
+                ],
+                "Azerbaijani": [
+                    "qan bağışlayan"
+                ],
+                "Turkmen": [
+                    "gan beriji"
+                ],
+                "Uzbek": [
+                    "qon beruvchi"
+                ],
+                "Uyghur": [
+                    "قان بەرگۈچى",
+                    "قان تەقدىم قىلغۇچى"
+                ],
+                "Kazakh": [
+                    "қан беруші",
+                    "қан тапсырушы"
+                ],
+                "Kyrgyz": [
+                    "кан берүүчү"
+                ],
+                "Karakalpak": [
+                    "qan tapsırushı",
+                    "qan berushі"
+                ],
+                "Tatar": [
+                    "кан бирүче",
+                    "кан доноры"
+                ],
+                "Bashkir": [
+                    "ҡан биреүсе",
+                    "ҡан доноры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "donor"
+                ],
+                "Uzbek": [
+                    "donor"
+                ],
+                "Kazakh": [
+                    "донор"
+                ],
+                "Kyrgyz": [
+                    "донор"
+                ],
+                "Karakalpak": [
+                    "donor"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kan veren",
+                    "kan donörü"
+                ],
+                "Azerbaijani": [
+                    "qan verən",
+                    "qan donoru"
+                ],
+                "Uzbek": [
+                    "qon hadya qiluvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قان ئىئانە قىلغۇچى"
+                ],
+                "Tatar": [
+                    "кан иганәчесе"
+                ]
+            }
+        }
+    ]
+}
+```
+

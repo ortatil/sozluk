@@ -1,0 +1,83 @@
+{
+    "id": "i79626",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "insurance company",
+    "en_definition": "a financial institution that sells insurance",
+    "tr_word": "sigorta şirketi",
+    "tr_definition": "sigorta poliçeleri satan ve riskleri üstlenen finansal kuruluş",
+    "ru_word": "страховая компания",
+    "ru_definition": "финансовая организация, занимающаяся продажей страховых услуг",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sigorta şirketi",
+                    "sigorta kurumu",
+                    "sigorta kuruluşu"
+                ],
+                "Azerbaijani": [
+                    "sığorta şirkəti",
+                    "sığorta təşkilatı",
+                    "sığorta müəssisəsi"
+                ],
+                "Uzbek": [
+                    "sug'urta shirkati",
+                    "sug'urta tashkiloti",
+                    "sug'urta jamiyati",
+                    "sug'urta muassasasi"
+                ],
+                "Uyghur": [
+                    "سۇغۇرتا شىركىتى",
+                    "سۇغۇرتا جەمئىيىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "камсыздандыруу компаниясы",
+                    "камсыздандыруу мекемеси",
+                    "камсыздандыруу коому"
+                ],
+                "Karakalpak": [
+                    "kamsızlandırıo kompaniyası",
+                    "kamsızlandırıo mekemesi",
+                    "kamsızlandırıo jámiyeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иминиятләштерү оешмасы",
+                    "иминият ширкәте",
+                    "иминият җәмгыяте"
+                ],
+                "Bashkir": [
+                    "иминият ойошмаһы",
+                    "иминият компанияһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ätiýaçlandyryş kompaniýasy",
+                    "ätiýaçlandyryş edarasy",
+                    "ätiýaçlandyryş guramasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сақтандыру компаниясы",
+                    "сақтандыру мекемесі",
+                    "сақтандыру ұйымы"
+                ]
+            }
+        }
+    ]
+}

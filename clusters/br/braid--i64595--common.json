@@ -1,0 +1,131 @@
+{
+    "id": "i64595",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "braid",
+    "en_definition": "a hairdo formed by braiding or twisting the hair",
+    "tr_word": "örgü",
+    "tr_definition": "saçın örülmesi veya bükülmesiyle oluşturulan saç modeli",
+    "ru_word": "коса",
+    "ru_definition": "прическа, созданная путем переплетения или скручивания волос",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "örgü"
+                ],
+                "Turkmen": [
+                    "örümi"
+                ],
+                "Uzbek": [
+                    "oʻrim",
+                    "oʻrilgan soch"
+                ],
+                "Uyghur": [
+                    "ئۆرۈمە",
+                    "ئۆرۈمە چاچ"
+                ],
+                "Kazakh": [
+                    "өрім",
+                    "өрме"
+                ],
+                "Kyrgyz": [
+                    "өрүм",
+                    "өрмө"
+                ],
+                "Karakalpak": [
+                    "órim",
+                    "órilgen shash",
+                    "órimshe"
+                ],
+                "Tatar": [
+                    "үрмә"
+                ],
+                "Bashkir": [
+                    "үрмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saç örgüsü"
+                ],
+                "Turkmen": [
+                    "saç örümi",
+                    "saç"
+                ],
+                "Kyrgyz": [
+                    "чач өрүм"
+                ],
+                "Bashkir": [
+                    "сәс үрмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kokil"
+                ],
+                "Uyghur": [
+                    "كوكۇل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "толым"
+                ],
+                "Bashkir": [
+                    "толом"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hörük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "moruq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bükük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jamalak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұрым"
+                ]
+            }
+        }
+    ]
+}

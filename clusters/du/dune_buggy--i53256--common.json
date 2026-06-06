@@ -1,0 +1,92 @@
+{
+    "id": "i53256",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dune buggy",
+    "en_definition": "a recreational vehicle with large tires used on beaches or sand dunes",
+    "tr_word": "kum arabası",
+    "tr_definition": "Plajlarda veya kum tepelerinde kullanılan, geniş lastikli eğlence aracı.",
+    "ru_word": "багги",
+    "ru_definition": "легкий автомобиль высокой проходимости с большими колесами для езды по бездорожью или песку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kum arabası",
+                    "kum taşıtı"
+                ],
+                "Azerbaijani": [
+                    "qum arabası",
+                    "qum avtomobili"
+                ],
+                "Uzbek": [
+                    "qum arava",
+                    "qumloq mashinasi"
+                ],
+                "Uyghur": [
+                    "قۇملۇق ئاپتوموبىلى",
+                    "قۇم ئاپتوموبىلى",
+                    "قۇم باغگىسى"
+                ],
+                "Kazakh": [
+                    "құм арбасы",
+                    "құм көлігі",
+                    "құмда жүргіш"
+                ],
+                "Kyrgyz": [
+                    "кум унаасы",
+                    "кум арабасы"
+                ],
+                "Karakalpak": [
+                    "qum arba",
+                    "qumlıq kóligi"
+                ],
+                "Tatar": [
+                    "ком арбасы",
+                    "ком йөрткече",
+                    "ком машинасы"
+                ],
+                "Bashkir": [
+                    "ҡом арбаһы",
+                    "ҡом машинаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çöl maşını"
+                ],
+                "Kyrgyz": [
+                    "чөл унаасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çäge ulagy",
+                    "çäge arabasy"
+                ],
+                "Karakalpak": [
+                    "saxra kóligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kum böceği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qum sayyohlik ulovi"
+                ]
+            }
+        }
+    ]
+}

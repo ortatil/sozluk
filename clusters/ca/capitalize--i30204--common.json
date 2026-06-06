@@ -1,0 +1,108 @@
+{
+    "id": "i30204",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "capitalize",
+    "en_definition": "write in capital letters",
+    "tr_word": "büyük harfle yazmak",
+    "tr_definition": "Bir kelimeyi veya metni büyük harfler kullanarak yazmak.",
+    "ru_word": "писать заглавными буквами",
+    "ru_definition": "Писать слово или текст, используя прописные буквы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "baş hərflə yazmaq"
+                ],
+                "Turkmen": [
+                    "baş harp bilen ýazmak"
+                ],
+                "Uzbek": [
+                    "bosh harf bilan yozmoq"
+                ],
+                "Uyghur": [
+                    "باش ھەرپ بىلەن يازماق"
+                ],
+                "Kazakh": [
+                    "бас әріппен жазу"
+                ],
+                "Kyrgyz": [
+                    "баш тамга менен жазуу"
+                ],
+                "Karakalpak": [
+                    "bas hárip penen jazıo"
+                ],
+                "Tatar": [
+                    "баш хәреф белән язу"
+                ],
+                "Bashkir": [
+                    "баш хәреф менән яҙыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uly harp bilen ýazmak"
+                ],
+                "Kazakh": [
+                    "үлкен әріппен жазу"
+                ],
+                "Karakalpak": [
+                    "úlken hárip penen jazıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyük harfle yazmak",
+                    "büyük harf kullanmak"
+                ],
+                "Azerbaijani": [
+                    "böyük hərflə yazmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зур хәреф белән язу"
+                ],
+                "Bashkir": [
+                    "ҙур хәреф менән яҙыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta harf bilan yozmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ ھەرپ بىلەن يازماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чоң тамга менен жазуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "баш хәрефкә күчерү"
+                ]
+            }
+        }
+    ]
+}

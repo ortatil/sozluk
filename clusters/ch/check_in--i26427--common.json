@@ -1,0 +1,155 @@
+{
+    "id": "i26427",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "check in",
+    "en_definition": "announce one's arrival, e.g. at hotels or airports",
+    "tr_word": "giriş yapmak",
+    "tr_definition": "otellerde veya havaalanlarında varışını bildirmek ve kayıt işlemlerini yaptırmak",
+    "ru_word": "регистрироваться",
+    "ru_definition": "сообщать о своем прибытии, например, в гостиницах или аэропортах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gelenini habar bermek"
+                ],
+                "Uzbek": [
+                    "kelganini bildirmoq"
+                ],
+                "Uyghur": [
+                    "كەلگەنلىكىنى مەلۇم قىلماق"
+                ],
+                "Kazakh": [
+                    "келгенін мәлімдеу"
+                ],
+                "Kyrgyz": [
+                    "келгенин билдирүү"
+                ],
+                "Karakalpak": [
+                    "kelgenin bildirio"
+                ],
+                "Tatar": [
+                    "килүне белдерү"
+                ],
+                "Bashkir": [
+                    "килеүҙе белдереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kayıt yaptırmak"
+                ],
+                "Azerbaijani": [
+                    "qeydiyyatdan keçmək",
+                    "qeydiyyat etmək"
+                ],
+                "Uzbek": [
+                    "qayd qilinmoq",
+                    "qayd etilmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тіркелу"
+                ],
+                "Tatar": [
+                    "теркәлү"
+                ],
+                "Bashkir": [
+                    "теркәлеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bildirimde bulunmak"
+                ],
+                "Turkmen": [
+                    "bellige durmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تىزىملاتماق",
+                    "تىزىملىتىش"
+                ],
+                "Karakalpak": [
+                    "dizimge alınıo",
+                    "dizimnen ótio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жазылу"
+                ],
+                "Tatar": [
+                    "язылу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "giriş yapmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "başvurmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəbul olunmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hasaba durmak",
+                    "hasaba alynmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "roʻyxatdan oʻtmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "катталуу",
+                    "каттоодон өтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "иҫәпкә баҫыу"
+                ]
+            }
+        }
+    ]
+}

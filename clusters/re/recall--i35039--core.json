@@ -1,0 +1,143 @@
+{
+    "id": "i35039",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "recall",
+    "en_definition": "call to mind",
+    "tr_word": "hatırlamak",
+    "tr_definition": "bir şeyi zihne geri getirmek, anımsamak",
+    "ru_word": "вспоминать",
+    "ru_definition": "восстанавливать в памяти, вызывать в воображении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yad etmek"
+                ],
+                "Azerbaijani": [
+                    "yad etmək",
+                    "yada salmaq"
+                ],
+                "Turkmen": [
+                    "ýatlamak",
+                    "ýada salmak",
+                    "ýatda saklamak"
+                ],
+                "Uzbek": [
+                    "yodga olmoq",
+                    "yodlamoq"
+                ],
+                "Uyghur": [
+                    "ياد ئەتمەك"
+                ],
+                "Kazakh": [
+                    "жадына түсіру"
+                ],
+                "Kyrgyz": [
+                    "жаттоо"
+                ],
+                "Karakalpak": [
+                    "yadına túsіrіu"
+                ],
+                "Tatar": [
+                    "ядкарьләргә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eslamoq"
+                ],
+                "Uyghur": [
+                    "ئەسكە ئالماق",
+                    "ئەسلەپ چىقماق"
+                ],
+                "Kazakh": [
+                    "еске алу",
+                    "еске түсіру"
+                ],
+                "Kyrgyz": [
+                    "эстөө",
+                    "эске салуу",
+                    "эске түшүрүү"
+                ],
+                "Karakalpak": [
+                    "eske túsіrіu",
+                    "eske alıu",
+                    "esleu"
+                ],
+                "Tatar": [
+                    "искә төшерергә"
+                ],
+                "Bashkir": [
+                    "иҫкә төшөрөү",
+                    "иҫкә алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hatırlamak"
+                ],
+                "Azerbaijani": [
+                    "xatırlamaq"
+                ],
+                "Uzbek": [
+                    "xotirlamoq"
+                ],
+                "Uyghur": [
+                    "خاتىرىلىمەك"
+                ],
+                "Tatar": [
+                    "хәтерләргә"
+                ],
+                "Bashkir": [
+                    "хәтерләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anımsamak"
+                ],
+                "Azerbaijani": [
+                    "anmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zihne getirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zikir etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ойға алу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яңыртыу"
+                ]
+            }
+        }
+    ]
+}

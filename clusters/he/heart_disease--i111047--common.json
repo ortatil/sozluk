@@ -1,0 +1,73 @@
+{
+    "id": "i111047",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "heart disease",
+    "en_definition": "a disease of the heart",
+    "tr_word": "kalp hastalığı",
+    "tr_definition": "kalbin yapısını veya işleyişini etkileyen herhangi bir bozukluk",
+    "ru_word": "сердечное заболевание",
+    "ru_definition": "любое заболевание, поражающее сердце и его функции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ürək xəstəliyi",
+                    "ürək azarı"
+                ],
+                "Turkmen": [
+                    "ýürek keseli",
+                    "ýürek hassalygy",
+                    "ýürek näsaglygy"
+                ],
+                "Uzbek": [
+                    "yurak xastaligi",
+                    "yurak kasalligi",
+                    "yurak dardi"
+                ],
+                "Uyghur": [
+                    "يۈرەك كېسىلى",
+                    "يۈرەك كېسەللىكى"
+                ],
+                "Kazakh": [
+                    "жүрек ауруы",
+                    "жүрек дерті",
+                    "жүрек сырқаты"
+                ],
+                "Kyrgyz": [
+                    "жүрөк оорусу",
+                    "жүрөк илдети",
+                    "жүрөк дарты"
+                ],
+                "Karakalpak": [
+                    "júrek keselligi",
+                    "júrek naqaslıǵı",
+                    "júrek aoırıoı"
+                ],
+                "Tatar": [
+                    "йөрәк авыруы",
+                    "йөрәк чире",
+                    "йөрәк хәстәлеге"
+                ],
+                "Bashkir": [
+                    "йөрәк ауырыуы",
+                    "йөрәк сырхауы",
+                    "йөрәк илләте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kalp hastalığı",
+                    "kalp rahatsızlığı",
+                    "kalp illeti"
+                ],
+                "Azerbaijani": [
+                    "qəlb xəstəliyi"
+                ]
+            }
+        }
+    ]
+}

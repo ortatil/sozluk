@@ -1,0 +1,91 @@
+{
+    "id": "i116912",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lunchtime",
+    "en_definition": "the customary or habitual hour for eating lunch",
+    "tr_word": "öğle yemeği vakti",
+    "tr_definition": "öğle yemeği yemek için alışılmış veya belirlenmiş zaman dilimi",
+    "ru_word": "обеденное время",
+    "ru_definition": "обычное или привычное время для обеда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tushlik vaqti",
+                    "tushlik mahali",
+                    "tushlik payti"
+                ],
+                "Kazakh": [
+                    "түскі ас уақыты",
+                    "түскі мезгіл",
+                    "түскі шақ"
+                ],
+                "Kyrgyz": [
+                    "түшкү тамак убактысы",
+                    "түшкү тыныгуу",
+                    "түш"
+                ],
+                "Karakalpak": [
+                    "túski aoqat oaqtı",
+                    "tús oaqtı",
+                    "tús"
+                ],
+                "Tatar": [
+                    "төшке аш вакыты",
+                    "төш вакыты"
+                ],
+                "Bashkir": [
+                    "төшкө аш ваҡыты",
+                    "төшкө аш мәле",
+                    "төш ваҡыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "günorta yeməyi vaxtı"
+                ],
+                "Turkmen": [
+                    "günorta nahary wagty",
+                    "günortanlyk wagty",
+                    "günorta wagty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğle vakti",
+                    "öğle saati",
+                    "öğle arası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taam vakti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nahar vaxtı",
+                    "nahar çağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چۈشلۈك تاماق ۋاقتى",
+                    "چۈش ۋاقتى"
+                ]
+            }
+        }
+    ]
+}

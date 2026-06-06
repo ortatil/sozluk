@@ -1,0 +1,66 @@
+{
+    "id": "i89761",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "english teacher",
+    "en_definition": "someone who teaches English",
+    "tr_word": "İngilizce öğretmeni",
+    "tr_definition": "İngilizce dilini öğreten kimse",
+    "ru_word": "учитель английского языка",
+    "ru_definition": "человек, который преподает английский язык",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İngilizce öğretmeni",
+                    "İngilizce muallimi"
+                ],
+                "Azerbaijani": [
+                    "ingilis dili müəllimi",
+                    "ingiliscə müəllimi"
+                ],
+                "Turkmen": [
+                    "iňlis dili mugallymy",
+                    "iňlis dili öwredijisi",
+                    "iňlis dili ussady"
+                ],
+                "Uzbek": [
+                    "ingliz tili o'qituvchisi",
+                    "ingliz tili muallimi",
+                    "ingliz tili mudarrisi"
+                ],
+                "Uyghur": [
+                    "ئىنگلىز تىلى ئوقۇتقۇچىسى",
+                    "ئىنگلىز تىلى مۇئەللىمى"
+                ],
+                "Kyrgyz": [
+                    "англис тили мугалими",
+                    "англис тили окутуучусу",
+                    "англис тили устаты"
+                ],
+                "Karakalpak": [
+                    "inglis tili muǵallimi",
+                    "inglis tili oqıtıoshısı"
+                ],
+                "Tatar": [
+                    "инглиз теле мөгаллиме",
+                    "инглиз теле укытучысы"
+                ],
+                "Bashkir": [
+                    "инглиз теле уҡытыусыһы",
+                    "инглиз теле мөғәллиме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ағылшын тілі мұғалімі",
+                    "ағылшын тілі оқытушысы",
+                    "ағылшын тілі ұстазы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "id": "i23781",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "nationalize",
+    "en_definition": "put under state control or ownership",
+    "tr_word": "millileştirmek",
+    "tr_definition": "özel mülkiyetteki bir varlığı veya kuruluşu devlet kontrolüne veya mülkiyetine geçirmek",
+    "ru_word": "национализировать",
+    "ru_definition": "передавать частную собственность в собственность государства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "devletleştirmek"
+                ],
+                "Azerbaijani": [
+                    "dövlətləşdirmək",
+                    "dövlət mülkiyyətinə keçirmək"
+                ],
+                "Turkmen": [
+                    "döwletleşdirmek",
+                    "döwlet eýeçiligine geçirmek"
+                ],
+                "Uzbek": [
+                    "davlatlashtirmoq",
+                    "davlat tasarrufiga o'tkazmoq"
+                ],
+                "Uyghur": [
+                    "دۆلەتلەشتۈرمەك",
+                    "دۆلەت ئىگىلىكىگە ئۆتكۈزمەك",
+                    "دۆلەت مۈلكىگە ئايلاندۇرماق"
+                ],
+                "Tatar": [
+                    "дәүләтләштерү",
+                    "дәүләт милкенә тапшыру"
+                ],
+                "Bashkir": [
+                    "дәүләтләштереү",
+                    "дәүләт милкенә үткәреү",
+                    "дәүләт ҡарамағына алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milleştirmek"
+                ],
+                "Azerbaijani": [
+                    "milliləşdirmək"
+                ],
+                "Turkmen": [
+                    "milleşdirmek"
+                ],
+                "Uzbek": [
+                    "millatlashtirmoq"
+                ],
+                "Tatar": [
+                    "милләтләштерү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мемлекеттендіру",
+                    "мемлекет меншігіне алу",
+                    "мемлекет қарауына өткізу"
+                ],
+                "Kyrgyz": [
+                    "мамлекеттештирүү",
+                    "мамлекеттин менчигине өткөрүү",
+                    "мамлекеттин карамагына алуу"
+                ],
+                "Karakalpak": [
+                    "mámleketlestirio",
+                    "mámleket iyeligine ótkerio",
+                    "mámleketlik etio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kamulaştırmak"
+                ]
+            }
+        }
+    ]
+}

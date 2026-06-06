@@ -1,0 +1,121 @@
+{
+    "id": "i15943",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "theatrical",
+    "en_definition": "of or relating to the theater",
+    "tr_word": "tiyatroyla ilgili",
+    "tr_definition": "tiyatro sanatı veya sahne ile ilgili olan",
+    "ru_word": "театральный",
+    "ru_definition": "относящийся к театру или связанный с ним",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahne"
+                ],
+                "Azerbaijani": [
+                    "səhnəvi"
+                ],
+                "Turkmen": [
+                    "sahna"
+                ],
+                "Uzbek": [
+                    "sahnaviy"
+                ],
+                "Uyghur": [
+                    "سەھنىۋى"
+                ],
+                "Kazakh": [
+                    "сахналық"
+                ],
+                "Kyrgyz": [
+                    "сахналык",
+                    "сахнадагы"
+                ],
+                "Karakalpak": [
+                    "saxnalıq"
+                ],
+                "Tatar": [
+                    "сәхнә"
+                ],
+                "Bashkir": [
+                    "сәхнә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tiyatro"
+                ],
+                "Azerbaijani": [
+                    "teatral"
+                ],
+                "Turkmen": [
+                    "teatr"
+                ],
+                "Uzbek": [
+                    "teatral",
+                    "teatrga oid"
+                ],
+                "Kazakh": [
+                    "театрлық",
+                    "театр"
+                ],
+                "Kyrgyz": [
+                    "театрдык"
+                ],
+                "Karakalpak": [
+                    "teatrlıq"
+                ],
+                "Tatar": [
+                    "театр"
+                ],
+                "Bashkir": [
+                    "театр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "temsili"
+                ],
+                "Azerbaijani": [
+                    "tamaşa"
+                ],
+                "Turkmen": [
+                    "tomaşa"
+                ],
+                "Uzbek": [
+                    "tomoshabop"
+                ],
+                "Tatar": [
+                    "тамаша"
+                ],
+                "Bashkir": [
+                    "тамаша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dramatik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تىياتىرغا ئائىت",
+                    "تىياتىرچە"
+                ]
+            }
+        }
+    ]
+}

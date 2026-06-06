@@ -1,0 +1,164 @@
+{
+    "id": "i2725",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "commercial",
+    "en_definition": "connected with or engaged in or sponsored by or used in commerce or commercial enterprises",
+    "tr_word": "ticari",
+    "tr_definition": "Ticaretle ilgili olan veya ticarete dayanan.",
+    "ru_word": "коммерческий",
+    "ru_definition": "Связанный с торговлей, направленный на получение прибыли.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ticari"
+                ],
+                "Azerbaijani": [
+                    "ticari",
+                    "ticarət"
+                ],
+                "Turkmen": [
+                    "täjirçilik"
+                ],
+                "Uzbek": [
+                    "tijoriy"
+                ],
+                "Uyghur": [
+                    "تىجارىي"
+                ],
+                "Karakalpak": [
+                    "tijárat"
+                ],
+                "Tatar": [
+                    "төҗар"
+                ],
+                "Bashkir": [
+                    "тижәрәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söwda"
+                ],
+                "Uzbek": [
+                    "savdo"
+                ],
+                "Uyghur": [
+                    "سودا"
+                ],
+                "Kazakh": [
+                    "сауда"
+                ],
+                "Kyrgyz": [
+                    "соода"
+                ],
+                "Karakalpak": [
+                    "saoda"
+                ],
+                "Tatar": [
+                    "сәүдә"
+                ],
+                "Bashkir": [
+                    "сауҙа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bazirgani"
+                ],
+                "Azerbaijani": [
+                    "bazarlıq"
+                ],
+                "Uzbek": [
+                    "bozor"
+                ],
+                "Karakalpak": [
+                    "bazar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ykdysady"
+                ],
+                "Uzbek": [
+                    "iqtisodiy"
+                ],
+                "Tatar": [
+                    "икътисади"
+                ],
+                "Bashkir": [
+                    "иҡтисади"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "коммерциялық"
+                ],
+                "Kyrgyz": [
+                    "коммерциялык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәсіби"
+                ],
+                "Tatar": [
+                    "кәсеп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "пайдакүнемдік"
+                ],
+                "Kyrgyz": [
+                    "пайдалуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ticaretle ilgili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سودا-سېتىققا ئائىت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "соода-сатык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кирешелүү"
+                ]
+            }
+        }
+    ]
+}

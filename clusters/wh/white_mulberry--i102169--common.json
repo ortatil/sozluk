@@ -1,0 +1,90 @@
+{
+    "id": "i102169",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white mulberry",
+    "en_definition": "Asiatic mulberry with white to pale red fruit; leaves used to feed silkworms",
+    "tr_word": "ak dut",
+    "tr_definition": "Meyveleri beyaz veya açık kırmızı olan, yaprakları ipek böceği yetiştiriciliğinde kullanılan bir dut türü.",
+    "ru_word": "шелковица белая",
+    "ru_definition": "Азиатское тутовое дерево с белыми или бледно-красными плодами; листья используются для кормления шелкопрядов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak dut"
+                ],
+                "Azerbaijani": [
+                    "ağ tut"
+                ],
+                "Turkmen": [
+                    "ak tut"
+                ],
+                "Uzbek": [
+                    "oq tut"
+                ],
+                "Uyghur": [
+                    "ئاق تۈت"
+                ],
+                "Kazakh": [
+                    "ақ тұт"
+                ],
+                "Kyrgyz": [
+                    "ак тыт"
+                ],
+                "Karakalpak": [
+                    "aq tut"
+                ],
+                "Tatar": [
+                    "ак тут",
+                    "ак тут агачы"
+                ],
+                "Bashkir": [
+                    "аҡ тут",
+                    "аҡ тут ағасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tut"
+                ],
+                "Uzbek": [
+                    "tut"
+                ],
+                "Uyghur": [
+                    "تۈت"
+                ],
+                "Kazakh": [
+                    "тұт ағашы"
+                ],
+                "Kyrgyz": [
+                    "тыт"
+                ],
+                "Karakalpak": [
+                    "tut"
+                ],
+                "Bashkir": [
+                    "тут ағасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz dut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hasylly tut"
+                ]
+            }
+        }
+    ]
+}

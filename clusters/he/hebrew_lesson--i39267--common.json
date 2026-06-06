@@ -1,0 +1,98 @@
+{
+    "id": "i39267",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hebrew lesson",
+    "en_definition": "instruction in the Hebrew language",
+    "tr_word": "İbranice dersi",
+    "tr_definition": "İbranice dilinde verilen eğitim veya ders",
+    "ru_word": "урок иврита",
+    "ru_definition": "обучение или занятие по изучению языка иврит",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İbranice dersi",
+                    "İbranice eğitimi",
+                    "İbranice öğretimi"
+                ],
+                "Azerbaijani": [
+                    "İbrani dili dərsi",
+                    "İbranicə dərsi",
+                    "İbrani dili təlimi"
+                ],
+                "Turkmen": [
+                    "ibrany dili dersi",
+                    "ibranyça sapak"
+                ],
+                "Uzbek": [
+                    "ibroniy tili darsi",
+                    "ibroniycha dars"
+                ],
+                "Uyghur": [
+                    "ئىبرانى تىلى دەرسى",
+                    "ئىبرانىچە دەرس"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "иврит сабағы",
+                    "иврит тілі сабағы",
+                    "иврит дәрісі"
+                ],
+                "Kyrgyz": [
+                    "иврит тили сабагы"
+                ],
+                "Karakalpak": [
+                    "iwrit sabaǵı",
+                    "iwrit tili sabaǵı",
+                    "iwrit tilin úyrenio"
+                ],
+                "Tatar": [
+                    "иврит дәресе"
+                ],
+                "Bashkir": [
+                    "иврит теле дәресе",
+                    "иврит теле һабағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýewreý dili sapagy"
+                ],
+                "Uzbek": [
+                    "yahudiy tili sabog'i"
+                ],
+                "Kyrgyz": [
+                    "еврей тили сабагы",
+                    "еврейче сабак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яһүд теле дәресе"
+                ],
+                "Bashkir": [
+                    "йәһүд теле дәресе",
+                    "йәһүдсә уҡыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гыйбрани теле дәресе"
+                ]
+            }
+        }
+    ]
+}

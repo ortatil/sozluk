@@ -1,0 +1,82 @@
+{
+    "id": "i40292",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "programming",
+    "en_definition": "creating a sequence of instructions to enable the computer to do something",
+    "tr_word": "programlama",
+    "tr_definition": "bilgisayarın belirli bir görevi yerine getirmesini sağlamak için komut dizileri oluşturma süreci",
+    "ru_word": "программирование",
+    "ru_definition": "процесс создания последовательности инструкций, позволяющих компьютеру выполнять определенные задачи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "programlama"
+                ],
+                "Azerbaijani": [
+                    "proqramlaşdırma",
+                    "proqramlama"
+                ],
+                "Turkmen": [
+                    "programmirleme",
+                    "programma düzme",
+                    "programma ýazma"
+                ],
+                "Uyghur": [
+                    "پروگرامما تۈزۈش",
+                    "پروگراممىلاش",
+                    "پروگرامما لايىھەلەش"
+                ],
+                "Kyrgyz": [
+                    "программалоо",
+                    "программа түзүү"
+                ],
+                "Tatar": [
+                    "программалау",
+                    "программа төзү"
+                ],
+                "Bashkir": [
+                    "программалау",
+                    "программа төҙөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бағдарламалау",
+                    "бағдарлама құру",
+                    "бағдарлама түзу"
+                ],
+                "Karakalpak": [
+                    "baǵdarlamalao",
+                    "baǵdarlama dúzio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazılım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kodlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dasturlash",
+                    "dastur tuzish"
+                ]
+            }
+        }
+    ]
+}

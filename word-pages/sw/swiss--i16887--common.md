@@ -1,0 +1,111 @@
+# Swiss
+| Field | Detail |
+|---|---|
+| **ID** | i16887 |
+| **English** | swiss |
+| **Type** | adjective |
+| **Definition** | of or relating to Switzerland or its people or culture |
+| **Source** | common |
+| **Ortatil** | şweytsariyalıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **şweytsariyalıq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.33** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| شىۋېتسىيەلىك | şivetsiyälik |
+| **Kazakh** | |
+| швейцариялық | şveytsariyalıq |
+| швейцар | şveytsar |
+| **Kyrgyz** | |
+| швейцариялык | şveytsariyalık |
+| **Tatar** | |
+| Швейцария | şveytsariya |
+| Швейцарияле | şveytsariyale |
+| **Bashkir** | |
+| Швейцария | şveytsariya |
+| Швейцарияныҡы | şveytsariyanıqı |
+
+```json
+{
+    "id": "i16887",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "swiss",
+    "en_definition": "of or relating to Switzerland or its people or culture",
+    "tr_word": "İsviçreli",
+    "tr_definition": "İsviçre'ye, halkına veya kültürüne özgü olan",
+    "ru_word": "швейцарский",
+    "ru_definition": "относящийся к Швейцарии, её народу или культуре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şweýsar",
+                    "şweýsariýaly"
+                ],
+                "Uzbek": [
+                    "shveytsar",
+                    "shveytsariyalik"
+                ],
+                "Uyghur": [
+                    "شىۋېتسىيەلىك",
+                    "شىۋېتسىيەگە ئائىت"
+                ],
+                "Kazakh": [
+                    "швейцариялық",
+                    "швейцар"
+                ],
+                "Kyrgyz": [
+                    "швейцариялык"
+                ],
+                "Karakalpak": [
+                    "shweycariyalıq",
+                    "shweycariya"
+                ],
+                "Tatar": [
+                    "Швейцария",
+                    "Швейцарияле"
+                ],
+                "Bashkir": [
+                    "Швейцария",
+                    "Швейцарияныҡы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "İsviçreli",
+                    "İsviçre"
+                ],
+                "Azerbaijani": [
+                    "isveçrəli",
+                    "isveçrə"
+                ]
+            }
+        }
+    ]
+}
+```
+

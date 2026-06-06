@@ -1,0 +1,147 @@
+{
+    "id": "i80326",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "parish",
+    "en_definition": "a local church community",
+    "tr_word": "parokya",
+    "tr_definition": "kendi kilisesi ve papazı olan en küçük kilise bölgesi veya bu bölgedeki cemaat",
+    "ru_word": "приход",
+    "ru_definition": "низшая церковно-административная единица, имеющая свой храм и причт, а также совокупность прихожан этого храма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cemaat"
+                ],
+                "Azerbaijani": [
+                    "camaat"
+                ],
+                "Turkmen": [
+                    "jemagat"
+                ],
+                "Uzbek": [
+                    "jamoat"
+                ],
+                "Uyghur": [
+                    "جامائەت"
+                ],
+                "Kazakh": [
+                    "жамағат"
+                ],
+                "Kyrgyz": [
+                    "жамаат"
+                ],
+                "Karakalpak": [
+                    "jámáát"
+                ],
+                "Tatar": [
+                    "җәмәгать"
+                ],
+                "Bashkir": [
+                    "йәмәғәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mahalle"
+                ],
+                "Azerbaijani": [
+                    "məhəllə"
+                ],
+                "Uzbek": [
+                    "mahalla"
+                ],
+                "Uyghur": [
+                    "مەھەللە"
+                ],
+                "Karakalpak": [
+                    "máxálle"
+                ],
+                "Tatar": [
+                    "мәхәллә"
+                ],
+                "Bashkir": [
+                    "мәхәллә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qavm"
+                ],
+                "Uyghur": [
+                    "قەۋم"
+                ],
+                "Kazakh": [
+                    "қауым"
+                ],
+                "Kyrgyz": [
+                    "коом"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dini topluluk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "icma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "metjit jemagaty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "parohiýa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шіркеу қауымы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үммөт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "máshit jámááti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дини йәмәғәт"
+                ]
+            }
+        }
+    ]
+}

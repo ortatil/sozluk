@@ -1,0 +1,154 @@
+{
+    "id": "i6582",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "graded",
+    "en_definition": "arranged in a sequence of grades or ranks",
+    "tr_word": "derecelendirilmiş",
+    "tr_definition": "belirli bir dereceye veya rütbeye göre sıralanmış",
+    "ru_word": "градуированный",
+    "ru_definition": "расположенный в последовательности степеней или рангов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dereceli",
+                    "tedrici"
+                ],
+                "Azerbaijani": [
+                    "dərəcəli"
+                ],
+                "Turkmen": [
+                    "derejeli",
+                    "tertipli"
+                ],
+                "Uzbek": [
+                    "darajalangan",
+                    "tartiblangan"
+                ],
+                "Uyghur": [
+                    "دەرىجىگە ئايرىلغان",
+                    "تەرتىپلىك"
+                ],
+                "Kazakh": [
+                    "дәрежелі"
+                ],
+                "Kyrgyz": [
+                    "даражаланган"
+                ],
+                "Karakalpak": [
+                    "dárejelengen",
+                    "tártiplengen"
+                ],
+                "Tatar": [
+                    "дәрәҗәле",
+                    "тәртипләнгән"
+                ],
+                "Bashkir": [
+                    "тәртипкә һалынған",
+                    "дәрәжәләргә бүленгән",
+                    "тәртипле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basamaklı"
+                ],
+                "Turkmen": [
+                    "basgançakly"
+                ],
+                "Uzbek": [
+                    "bosqichli"
+                ],
+                "Uyghur": [
+                    "باسقۇچلۇق"
+                ],
+                "Kyrgyz": [
+                    "баскычтуу"
+                ],
+                "Karakalpak": [
+                    "basqıshlı"
+                ],
+                "Tatar": [
+                    "баскычлы"
+                ],
+                "Bashkir": [
+                    "баҫҡыслы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıralı"
+                ],
+                "Azerbaijani": [
+                    "sıralanmış"
+                ],
+                "Kazakh": [
+                    "сатылы"
+                ],
+                "Karakalpak": [
+                    "salalanǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təsnifli"
+                ],
+                "Uzbek": [
+                    "tasniflangan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "реттелген",
+                    "жіктелген"
+                ],
+                "Kyrgyz": [
+                    "иреттелген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түркүмдөлгөн"
+                ],
+                "Tatar": [
+                    "төркемләнгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kademeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pilləli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tapgyrlaýyn"
+                ]
+            }
+        }
+    ]
+}

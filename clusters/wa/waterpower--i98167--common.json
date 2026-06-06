@@ -1,0 +1,90 @@
+{
+    "id": "i98167",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "waterpower",
+    "en_definition": "the power to do work that is latent in a head of water",
+    "tr_word": "su gücü",
+    "tr_definition": "suyun akışından veya düşüşünden elde edilen enerji",
+    "ru_word": "гидроэнергия",
+    "ru_definition": "энергия, получаемая от движения воды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su gücü",
+                    "su kuvveti"
+                ],
+                "Azerbaijani": [
+                    "su gücü",
+                    "su enerjisi",
+                    "su qüvvəsi"
+                ],
+                "Turkmen": [
+                    "suw güýji",
+                    "suw kuwwaty",
+                    "suw energiýasy"
+                ],
+                "Uzbek": [
+                    "suv quvvati",
+                    "suv kuchi",
+                    "suv energiyasi"
+                ],
+                "Uyghur": [
+                    "سۇ كۈچى",
+                    "سۇ ئېنېرگىيەسى",
+                    "سۇ قۇۋۋىتى"
+                ],
+                "Kazakh": [
+                    "су қуаты",
+                    "су күші",
+                    "су энергиясы"
+                ],
+                "Kyrgyz": [
+                    "суу күчү",
+                    "суу кубаты"
+                ],
+                "Karakalpak": [
+                    "suo kúshi",
+                    "suo quoatı",
+                    "suo energiyası"
+                ],
+                "Tatar": [
+                    "су көче",
+                    "су куәте",
+                    "су энергиясе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hidrolik güç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "суунун күчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу көсө",
+                    "һыу ҡеүәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу энергияһы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+# White asbestos
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-92363714-n |
+| **English** | white asbestos |
+| **Type** | noun |
+| **Definition** | a grey or green fibrous mineral; an important source of commercial asbestos |
+| **Source** | common |
+| **Ortatil** | krizotil |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **krizotil** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.77** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| خىرزوتىل | xirzotil |
+| **Kazakh** | |
+| хризотил | xrizotil |
+| **Tatar** | |
+| хризотил | xrizotil |
+| **Bashkir** | |
+| хризотил | xrizotil |
+
+```json
+{
+    "id": "synset-oewn-92363714-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white asbestos",
+    "en_definition": "a grey or green fibrous mineral; an important source of commercial asbestos",
+    "tr_word": "krizotil",
+    "tr_definition": "gri veya yeşil lifli bir mineral; ticari asbestin önemli bir kaynağı",
+    "ru_word": "хризотил",
+    "ru_definition": "серый или зеленый волокнистый минерал; важный источник промышленного асбеста",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak asbest"
+                ],
+                "Azerbaijani": [
+                    "ağ asbest"
+                ],
+                "Turkmen": [
+                    "ak asbest",
+                    "ak kars"
+                ],
+                "Uzbek": [
+                    "oq asbest"
+                ],
+                "Uyghur": [
+                    "ئاق ئاسبېست"
+                ],
+                "Kazakh": [
+                    "ақ асбест"
+                ],
+                "Kyrgyz": [
+                    "ак асылташ",
+                    "ак асбест",
+                    "ак таш була"
+                ],
+                "Karakalpak": [
+                    "aq asbest",
+                    "aq tas talshıq"
+                ],
+                "Tatar": [
+                    "ак асбест"
+                ],
+                "Bashkir": [
+                    "аҡ асбест"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "krizotil"
+                ],
+                "Azerbaijani": [
+                    "xrizotil"
+                ],
+                "Uzbek": [
+                    "krizotil"
+                ],
+                "Kazakh": [
+                    "хризотил"
+                ],
+                "Tatar": [
+                    "хризотил"
+                ],
+                "Bashkir": [
+                    "хризотил"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "amyant"
+                ],
+                "Turkmen": [
+                    "amyant"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "daş kətan"
+                ],
+                "Kazakh": [
+                    "тас талшық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oq toshpaxta"
+                ],
+                "Uyghur": [
+                    "ئاق تاشپاختا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тау җепселе"
+                ],
+                "Bashkir": [
+                    "тау етене"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz asbest"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىرزوتىل"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,113 @@
+{
+    "id": "i82047",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dust bowl",
+    "en_definition": "a region subject to dust storms; especially the central region of United States subject to dust storms in the 1930s",
+    "tr_word": "toz çanağı",
+    "tr_definition": "toz fırtınalarına maruz kalan bölge; özellikle 1930'larda Amerika Birleşik Devletleri'nin orta kesiminde yaşanan büyük kuraklık ve toz fırtınası dönemi",
+    "ru_word": "пыльный котёл",
+    "ru_definition": "регион, подверженный пыльным бурям; в частности, центральный регион США, пострадавший от пыльных бурь в 1930-х годах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "toz çanağı",
+                    "toz havzası",
+                    "toz fırtınası bölgesi"
+                ],
+                "Azerbaijani": [
+                    "toz fırtınası bölgəsi",
+                    "tozlu ərazi",
+                    "tozlu çöl"
+                ],
+                "Turkmen": [
+                    "tozanly sebit",
+                    "tozanly meýdan",
+                    "tozanly ýer"
+                ],
+                "Uzbek": [
+                    "to'zonli mintaqa"
+                ],
+                "Uyghur": [
+                    "توزانلىق رايون"
+                ],
+                "Kazakh": [
+                    "тозаңды өлке"
+                ],
+                "Tatar": [
+                    "тузанлы төбәк",
+                    "тузанлы дала",
+                    "тузан бураны өлкәсе"
+                ],
+                "Bashkir": [
+                    "туҙанлы төбәк",
+                    "туҙанлы дала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurak bölge"
+                ],
+                "Azerbaijani": [
+                    "quraqlıq sahəsi"
+                ],
+                "Kyrgyz": [
+                    "кургакчыл аймак"
+                ],
+                "Tatar": [
+                    "корылык төбәге"
+                ],
+                "Bashkir": [
+                    "ҡоролоҡло ер",
+                    "ҡоро ер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chang-to'zonli hudud",
+                    "changli o'lka",
+                    "chang-to'zon makoni"
+                ],
+                "Uyghur": [
+                    "چاڭ-توزانلىق رايون"
+                ],
+                "Kazakh": [
+                    "шаңды аймақ",
+                    "шаңды өлке",
+                    "шаңды дала"
+                ],
+                "Kyrgyz": [
+                    "чаңдуу аймак",
+                    "чаң баскан жер"
+                ],
+                "Karakalpak": [
+                    "shańlı aymaq",
+                    "shań-tozańlı ólke",
+                    "shańlı dala"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çäge basan ýer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇم بورانلىق رايون"
+                ]
+            }
+        }
+    ]
+}

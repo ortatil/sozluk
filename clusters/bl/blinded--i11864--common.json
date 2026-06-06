@@ -1,0 +1,151 @@
+{
+    "id": "i11864",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "blinded",
+    "en_definition": "deprived of sight",
+    "tr_word": "körleşmiş",
+    "tr_definition": "görme yetisini kaybetmiş veya geçici olarak göremez hale gelmiş",
+    "ru_word": "ослепленный",
+    "ru_definition": "лишенный возможности видеть",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kör",
+                    "görmez"
+                ],
+                "Azerbaijani": [
+                    "kor",
+                    "görməz"
+                ],
+                "Turkmen": [
+                    "kör"
+                ],
+                "Uzbek": [
+                    "koʻr"
+                ],
+                "Uyghur": [
+                    "كور"
+                ],
+                "Kazakh": [
+                    "көр"
+                ],
+                "Kyrgyz": [
+                    "көр",
+                    "көрбөгөн"
+                ],
+                "Tatar": [
+                    "күрмәс"
+                ],
+                "Bashkir": [
+                    "күрмәҫ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gözdən məhrum"
+                ],
+                "Turkmen": [
+                    "gözi görmeýän"
+                ],
+                "Uzbek": [
+                    "koʻzi ojiz"
+                ],
+                "Uyghur": [
+                    "كۆزسىز"
+                ],
+                "Kazakh": [
+                    "көзі көрмейтін"
+                ],
+                "Kyrgyz": [
+                    "көзү азиз"
+                ],
+                "Karakalpak": [
+                    "kózi kórmeytuǵın",
+                    "kózi joq"
+                ],
+                "Tatar": [
+                    "күзе бәйләнгән"
+                ],
+                "Bashkir": [
+                    "күҙһеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basiretsiz"
+                ],
+                "Azerbaijani": [
+                    "basirətsiz"
+                ],
+                "Turkmen": [
+                    "basyrgan"
+                ],
+                "Uzbek": [
+                    "basir"
+                ],
+                "Uyghur": [
+                    "بەسەر"
+                ],
+                "Karakalpak": [
+                    "básiretsiz"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "соқыр"
+                ],
+                "Kyrgyz": [
+                    "сокур"
+                ],
+                "Karakalpak": [
+                    "soqır"
+                ],
+                "Tatar": [
+                    "сукырайган"
+                ],
+                "Bashkir": [
+                    "һуҡыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ama"
+                ],
+                "Uyghur": [
+                    "ئەما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nabyş"
+                ],
+                "Uzbek": [
+                    "noʻbin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зағип"
+                ]
+            }
+        }
+    ]
+}

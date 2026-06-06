@@ -1,0 +1,125 @@
+{
+    "id": "i90705",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "inpatient",
+    "en_definition": "a patient who is residing in the hospital where he is being treated",
+    "tr_word": "yatan hasta",
+    "tr_definition": "tedavi gördüğü hastanede konaklayan hasta",
+    "ru_word": "стационарный больной",
+    "ru_definition": "пациент, который находится на лечении в больнице с проживанием в ней",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yatan hasta",
+                    "yataklı hasta"
+                ],
+                "Azerbaijani": [
+                    "yatan xəstə"
+                ],
+                "Turkmen": [
+                    "ýatymlaýyn nasy"
+                ],
+                "Uzbek": [
+                    "yotib davolanuvchi"
+                ],
+                "Uyghur": [
+                    "ياتاقلىق بىمار",
+                    "ياتاقتا داۋالىنىۋاتقان بىمار",
+                    "ياتاقلىق كېسەل"
+                ],
+                "Kazakh": [
+                    "жатқан науқас"
+                ],
+                "Kyrgyz": [
+                    "жаткан оорулуу"
+                ],
+                "Karakalpak": [
+                    "jatqan nauqas"
+                ],
+                "Tatar": [
+                    "яткан авыру"
+                ],
+                "Bashkir": [
+                    "ятҡан ауырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "stasionar xəstə"
+                ],
+                "Turkmen": [
+                    "statsionar nasy"
+                ],
+                "Uzbek": [
+                    "statsionar bemor"
+                ],
+                "Kazakh": [
+                    "стационарлық науқас"
+                ],
+                "Kyrgyz": [
+                    "стационардык бейтап"
+                ],
+                "Karakalpak": [
+                    "stacionarlıq nauqas"
+                ],
+                "Tatar": [
+                    "стационар авыру"
+                ],
+                "Bashkir": [
+                    "стационарҙағы ауырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hassahanada ýatan nasy"
+                ],
+                "Tatar": [
+                    "хастаханәдәге авыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shifoxonada yotgan bemor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ауруханадағы науқас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ооруканада жаткан бейтап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "emxanadaǵı nauqas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дауаханалағы ауырыу"
+                ]
+            }
+        }
+    ]
+}

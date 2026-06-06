@@ -1,0 +1,69 @@
+{
+    "id": "i16897",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "latvian",
+    "en_definition": "of or relating to or characteristic of Latvia or its people or language",
+    "tr_word": "Leton",
+    "tr_definition": "Letonya'ya, halkına veya diline özgü olan veya bunlarla ilgili olan",
+    "ru_word": "латышский",
+    "ru_definition": "относящийся к Латвии, её народу или языку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Leton",
+                    "Letonyalı"
+                ],
+                "Azerbaijani": [
+                    "latış"
+                ],
+                "Turkmen": [
+                    "latyş"
+                ],
+                "Uzbek": [
+                    "latish"
+                ],
+                "Uyghur": [
+                    "لاتۋىيەلىك",
+                    "لاتۋىيەگە ئائىت"
+                ],
+                "Kazakh": [
+                    "латвиялық",
+                    "латыш"
+                ],
+                "Kyrgyz": [
+                    "латвиялык",
+                    "латыш"
+                ],
+                "Karakalpak": [
+                    "latwiyalıq",
+                    "latısh"
+                ],
+                "Tatar": [
+                    "латыш",
+                    "латвия"
+                ],
+                "Bashkir": [
+                    "латыш",
+                    "Латвия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "latviyalı"
+                ],
+                "Turkmen": [
+                    "latwiýaly"
+                ],
+                "Uzbek": [
+                    "latviyalik"
+                ]
+            }
+        }
+    ]
+}

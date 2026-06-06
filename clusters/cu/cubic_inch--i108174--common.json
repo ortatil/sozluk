@@ -1,0 +1,64 @@
+{
+    "id": "i108174",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cubic inch",
+    "en_definition": "the volume equal to a cube one inch on each side",
+    "tr_word": "inç küp",
+    "tr_definition": "kenarları birer inç olan bir küpün hacmine eşit olan hacim birimi",
+    "ru_word": "кубический дюйм",
+    "ru_definition": "единица объёма, равная объёму куба с ребром в один дюйм",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kübik inç",
+                    "küp inç"
+                ],
+                "Azerbaijani": [
+                    "kub düym",
+                    "kubik düym"
+                ],
+                "Turkmen": [
+                    "kub dýuým",
+                    "kub dýuýma"
+                ],
+                "Uzbek": [
+                    "kub dyuym",
+                    "kubik dyuym"
+                ],
+                "Uyghur": [
+                    "كۇب ديۇيم",
+                    "كۇبلىق ديۇيم"
+                ],
+                "Kazakh": [
+                    "кубтық дюйм"
+                ],
+                "Kyrgyz": [
+                    "куб дюйм",
+                    "кубдук дюйм"
+                ],
+                "Karakalpak": [
+                    "kub dyuym",
+                    "kublıq dyuym"
+                ],
+                "Tatar": [
+                    "кубик дюйм",
+                    "куб дюйм"
+                ],
+                "Bashkir": [
+                    "куб дюйм",
+                    "кубик дюйм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "текше дюйм"
+                ]
+            }
+        }
+    ]
+}

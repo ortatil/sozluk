@@ -1,0 +1,183 @@
+{
+    "id": "i69969",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "plot",
+    "en_definition": "the story that is told in a novel or play or movie etc.",
+    "tr_word": "olay örgüsü",
+    "tr_definition": "bir roman, oyun veya filmde anlatılan olaylar dizisi.",
+    "ru_word": "сюжет",
+    "ru_definition": "последовательность событий в художественном произведении.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "süjet"
+                ],
+                "Turkmen": [
+                    "süžet"
+                ],
+                "Uzbek": [
+                    "syujet"
+                ],
+                "Uyghur": [
+                    "سۇژىت"
+                ],
+                "Kazakh": [
+                    "сюжет"
+                ],
+                "Kyrgyz": [
+                    "сюжет"
+                ],
+                "Karakalpak": [
+                    "syujet"
+                ],
+                "Tatar": [
+                    "сюжет"
+                ],
+                "Bashkir": [
+                    "сюжет"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məzmun"
+                ],
+                "Turkmen": [
+                    "mazmun"
+                ],
+                "Uzbek": [
+                    "mazmun"
+                ],
+                "Uyghur": [
+                    "مەزمۇن"
+                ],
+                "Kazakh": [
+                    "мазмұн"
+                ],
+                "Kyrgyz": [
+                    "мазмун"
+                ],
+                "Karakalpak": [
+                    "mazmun"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vakalar dizisi"
+                ],
+                "Turkmen": [
+                    "wakalar ulgamy"
+                ],
+                "Uzbek": [
+                    "voqealar rivoji"
+                ],
+                "Uyghur": [
+                    "ۋەقەلىك"
+                ],
+                "Karakalpak": [
+                    "waqıyalar tizbegi"
+                ],
+                "Tatar": [
+                    "вакыйгалар барышы"
+                ],
+                "Bashkir": [
+                    "ваҡиғалар теҙмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оқиға"
+                ],
+                "Kyrgyz": [
+                    "окуя"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эчтәлек"
+                ],
+                "Bashkir": [
+                    "эстәлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bayon"
+                ],
+                "Kyrgyz": [
+                    "баяндама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "konu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "olay örgüsü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kurgu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hikaye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əhvalat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mövzu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "желі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باغلىنىش"
+                ]
+            }
+        }
+    ]
+}

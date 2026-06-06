@@ -1,0 +1,103 @@
+{
+    "id": "i36894",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stride",
+    "en_definition": "a step in walking or running",
+    "tr_word": "adım",
+    "tr_definition": "yürürken veya koşarken atılan her bir adım",
+    "ru_word": "шаг",
+    "ru_definition": "одно движение ноги при ходьбе или беге",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adım"
+                ],
+                "Azerbaijani": [
+                    "addım"
+                ],
+                "Turkmen": [
+                    "ädim",
+                    "gadam"
+                ],
+                "Uzbek": [
+                    "qadam",
+                    "odim"
+                ],
+                "Uyghur": [
+                    "قەدەم",
+                    "ئاتلام"
+                ],
+                "Kazakh": [
+                    "адым",
+                    "қадам",
+                    "аттам"
+                ],
+                "Kyrgyz": [
+                    "кадам",
+                    "арым",
+                    "аттам"
+                ],
+                "Karakalpak": [
+                    "adım",
+                    "qádem"
+                ],
+                "Tatar": [
+                    "адым",
+                    "атлам",
+                    "кадам"
+                ],
+                "Bashkir": [
+                    "аҙым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yürüyüş"
+                ],
+                "Azerbaijani": [
+                    "yürüş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hatve"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ayaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tashlanish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گام"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡәҙәм"
+                ]
+            }
+        }
+    ]
+}

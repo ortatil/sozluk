@@ -1,0 +1,135 @@
+{
+    "id": "i1408",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "chained",
+    "en_definition": "bound with chains",
+    "tr_word": "zincirlenmiş",
+    "tr_definition": "zincirlerle bağlanmış veya kısıtlanmış",
+    "ru_word": "прикованный",
+    "ru_definition": "связанный или удерживаемый цепями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağlı"
+                ],
+                "Azerbaijani": [
+                    "bağlı"
+                ],
+                "Turkmen": [
+                    "bagly"
+                ],
+                "Uzbek": [
+                    "bogʻlangan"
+                ],
+                "Uyghur": [
+                    "باغلانغان"
+                ],
+                "Kazakh": [
+                    "байлаулы"
+                ],
+                "Kyrgyz": [
+                    "байланган"
+                ],
+                "Karakalpak": [
+                    "baylanǵan"
+                ],
+                "Tatar": [
+                    "бәйләнгән"
+                ],
+                "Bashkir": [
+                    "бығауланған",
+                    "бәйләнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zincirli",
+                    "zincire vurulmuş"
+                ],
+                "Azerbaijani": [
+                    "zəncirlənmiş",
+                    "zəncirli"
+                ],
+                "Turkmen": [
+                    "zynjyrly"
+                ],
+                "Uzbek": [
+                    "zanjirlangan"
+                ],
+                "Uyghur": [
+                    "زەنجىرلەنگەن"
+                ],
+                "Kazakh": [
+                    "шынжырланған"
+                ],
+                "Kyrgyz": [
+                    "чынжырланган"
+                ],
+                "Karakalpak": [
+                    "shınjırlanǵan"
+                ],
+                "Bashkir": [
+                    "сынйырланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kashand"
+                ],
+                "Uyghur": [
+                    "كىشەنلەنگەن"
+                ],
+                "Kazakh": [
+                    "кісенделген"
+                ],
+                "Kyrgyz": [
+                    "кишенделген"
+                ],
+                "Karakalpak": [
+                    "kisenlengen"
+                ],
+                "Tatar": [
+                    "кишәнләнгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayıtlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qandallanmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bend"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чылбырланган",
+                    "чылбырлы"
+                ]
+            }
+        }
+    ]
+}

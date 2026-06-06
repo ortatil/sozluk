@@ -1,0 +1,132 @@
+# Handstand
+| Field | Detail |
+|---|---|
+| **ID** | i37687 |
+| **English** | handstand |
+| **Type** | noun |
+| **Definition** | the act of supporting yourself by your hands alone in an upside down position |
+| **Source** | common |
+| **Ortatil** | amut |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i37687",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "handstand",
+    "en_definition": "the act of supporting yourself by your hands alone in an upside down position",
+    "tr_word": "amut",
+    "tr_definition": "ellerin üzerinde, ayaklar havada durma eylemi",
+    "ru_word": "стойка на руках",
+    "ru_definition": "упражнение, при котором человек удерживает тело в вертикальном положении вниз головой, опираясь только на руки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻlda turish",
+                    "qoʻlda muvozanat saqlash"
+                ],
+                "Uyghur": [
+                    "قولدا تۇرۇش"
+                ],
+                "Kazakh": [
+                    "қолмен тұру",
+                    "қолмен тіреліп тұру"
+                ],
+                "Kyrgyz": [
+                    "колдо туруу",
+                    "кол менен туруу"
+                ],
+                "Karakalpak": [
+                    "qolda turıo",
+                    "qol menen turıo"
+                ],
+                "Tatar": [
+                    "кул өстендә басу",
+                    "кулларда басып тору"
+                ],
+                "Bashkir": [
+                    "ҡулда тороу",
+                    "ҡулға баҫыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "amut"
+                ],
+                "Azerbaijani": [
+                    "amuda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el üstünde duruş"
+                ],
+                "Turkmen": [
+                    "gol üstünde durmak",
+                    "el üstünde durmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ters duruş"
+                ],
+                "Uzbek": [
+                    "teskari turish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "başaşak durmak"
+                ],
+                "Kyrgyz": [
+                    "баш төмөн туруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əllər üstündə dayanma",
+                    "əllər üstündə duruş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەتۈر تۇرۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆرۈلۈپ تۇرۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төңкеріліп тұру"
+                ]
+            }
+        }
+    ]
+}
+```
+

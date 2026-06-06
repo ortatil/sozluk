@@ -1,0 +1,78 @@
+{
+    "id": "i19907",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "semiweekly",
+    "en_definition": "twice a week",
+    "tr_word": "haftada iki kez",
+    "tr_definition": "haftada iki defa gerçekleşen veya yapılan",
+    "ru_word": "дважды в неделю",
+    "ru_definition": "происходящий или совершаемый два раза в неделю",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haftada iki kez",
+                    "haftada iki defa",
+                    "haftada iki kere"
+                ],
+                "Azerbaijani": [
+                    "həftədə iki dəfə",
+                    "həftədə iki yol"
+                ],
+                "Turkmen": [
+                    "hepdede iki gezek",
+                    "hepdede iki marta"
+                ],
+                "Uzbek": [
+                    "haftada ikki marta",
+                    "haftada ikki bor",
+                    "haftasiga ikki bor"
+                ],
+                "Uyghur": [
+                    "ھەپتىدە ئىككى قېتىم",
+                    "ھەپتىدە ئىككى قەتىملىك"
+                ],
+                "Karakalpak": [
+                    "hápteine eki márte",
+                    "hápteine eki ret"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "аптасына екі рет",
+                    "аптасына екі мәрте"
+                ],
+                "Kyrgyz": [
+                    "аптасына эки ирет"
+                ],
+                "Tatar": [
+                    "атнасына ике тапкыр"
+                ],
+                "Bashkir": [
+                    "аҙнаһына ике тапҡыр",
+                    "аҙнаһына ике мәртәбә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жумасына эки жолу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "атнага ике тапкыр",
+                    "атнага ике мәртәбә"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "i16045",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "legislative",
+    "en_definition": "of or relating to or created by legislation",
+    "tr_word": "yasama",
+    "tr_definition": "Yasa yapma ile ilgili olan veya yasa koyma yetkisine dayanan.",
+    "ru_word": "законодательный",
+    "ru_definition": "Относящийся к законодательству, к изданию законов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teşrii"
+                ],
+                "Azerbaijani": [
+                    "təşri"
+                ],
+                "Uzbek": [
+                    "tashriiy"
+                ],
+                "Uyghur": [
+                    "تەشرىئىي"
+                ],
+                "Tatar": [
+                    "тәшригый"
+                ],
+                "Bashkir": [
+                    "тәшриғи"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kanun koyucu"
+                ],
+                "Azerbaijani": [
+                    "qanunverici"
+                ],
+                "Turkmen": [
+                    "kanun çykaryjy",
+                    "kanunçylyk",
+                    "kanuny"
+                ],
+                "Uzbek": [
+                    "qonun chiqaruvchi",
+                    "qonuniy"
+                ],
+                "Uyghur": [
+                    "قانۇن چىقىرىش",
+                    "قانۇن تۈزۈش"
+                ],
+                "Tatar": [
+                    "канун чыгару",
+                    "канун чыгаручы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yasama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "заң шығарушы",
+                    "заңнамалық",
+                    "заңгерлік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мыйзам чыгаруучу",
+                    "мыйзамдык",
+                    "мыйзам чыгаруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "nızam shıǵarıoshı",
+                    "nızamshılıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "закон сығарыу",
+                    "закон сығарыусы"
+                ]
+            }
+        }
+    ]
+}

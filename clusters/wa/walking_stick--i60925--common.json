@@ -1,0 +1,127 @@
+{
+    "id": "i60925",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "walking stick",
+    "en_definition": "a stick carried in the hand for support in walking",
+    "tr_word": "baston",
+    "tr_definition": "Yürürken destek almak için elde taşınan sopa.",
+    "ru_word": "трость",
+    "ru_definition": "Тонкая палка, служащая опорой при ходьбе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asa"
+                ],
+                "Azerbaijani": [
+                    "əsa"
+                ],
+                "Turkmen": [
+                    "hasa"
+                ],
+                "Uzbek": [
+                    "aslo"
+                ],
+                "Uyghur": [
+                    "ھاسا"
+                ],
+                "Kazakh": [
+                    "аса",
+                    "асатаяқ"
+                ],
+                "Kyrgyz": [
+                    "аса"
+                ],
+                "Karakalpak": [
+                    "hassa"
+                ],
+                "Tatar": [
+                    "гаса"
+                ],
+                "Bashkir": [
+                    "ғәсә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "değnek"
+                ],
+                "Azerbaijani": [
+                    "dəyənək"
+                ],
+                "Turkmen": [
+                    "taýak"
+                ],
+                "Uzbek": [
+                    "tayoq",
+                    "tayoqcha"
+                ],
+                "Uyghur": [
+                    "تەياق"
+                ],
+                "Kazakh": [
+                    "таяқ"
+                ],
+                "Kyrgyz": [
+                    "таяк"
+                ],
+                "Karakalpak": [
+                    "tayaq"
+                ],
+                "Tatar": [
+                    "таяк"
+                ],
+                "Bashkir": [
+                    "таяҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "hassa"
+                ],
+                "Uyghur": [
+                    "ھاسا-تەياق"
+                ],
+                "Tatar": [
+                    "хәсә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "baston"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çəlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аса-таяк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һөйәнгес"
+                ]
+            }
+        }
+    ]
+}

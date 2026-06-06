@@ -1,0 +1,112 @@
+{
+    "id": "i91053",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "little brother",
+    "en_definition": "a younger brother",
+    "tr_word": "erkek kardeş",
+    "tr_definition": "bir kimseden yaşça daha küçük olan erkek kardeş",
+    "ru_word": "младший брат",
+    "ru_definition": "брат, который младше по возрасту",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ini"
+                ],
+                "Turkmen": [
+                    "ini"
+                ],
+                "Uzbek": [
+                    "ini"
+                ],
+                "Uyghur": [
+                    "ئىنى",
+                    "ئىنىچاق"
+                ],
+                "Kazakh": [
+                    "іні"
+                ],
+                "Kyrgyz": [
+                    "ини",
+                    "иничек"
+                ],
+                "Karakalpak": [
+                    "ini",
+                    "inishek"
+                ],
+                "Tatar": [
+                    "эне",
+                    "энекәш"
+                ],
+                "Bashkir": [
+                    "эне"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük kardeş"
+                ],
+                "Azerbaijani": [
+                    "kiçik qardaş"
+                ],
+                "Tatar": [
+                    "кече абый"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "erkek kardeş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kardeş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "balaca qardaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dogan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бауыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡусты"
+                ]
+            }
+        }
+    ]
+}

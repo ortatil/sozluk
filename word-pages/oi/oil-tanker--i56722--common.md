@@ -1,0 +1,144 @@
+# Oil tanker
+| Field | Detail |
+|---|---|
+| **ID** | i56722 |
+| **English** | oil tanker |
+| **Type** | noun |
+| **Definition** | a cargo ship designed to carry crude oil in bulk |
+| **Source** | common |
+| **Ortatil** | tanker |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tanker** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| танкер | tanker |
+| **Kyrgyz** | |
+| танкер | tanker |
+
+```json
+{
+    "id": "i56722",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oil tanker",
+    "en_definition": "a cargo ship designed to carry crude oil in bulk",
+    "tr_word": "petrol tankeri",
+    "tr_definition": "Ham petrolü dökme olarak taşımak için tasarlanmış yük gemisi",
+    "ru_word": "нефтяной танкер",
+    "ru_definition": "грузовое судно, предназначенное для перевозки сырой нефти наливом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "neft gəmisi"
+                ],
+                "Turkmen": [
+                    "nebit gämisi"
+                ],
+                "Uzbek": [
+                    "neft tashuvchi kema",
+                    "neft kemasi"
+                ],
+                "Uyghur": [
+                    "نېفىت پاراخوتى",
+                    "نېفىت توشۇش پاراخوتى",
+                    "نېفىت كېمىسى"
+                ],
+                "Karakalpak": [
+                    "neft tasıoshı keme"
+                ],
+                "Tatar": [
+                    "нефть ташучы көймә",
+                    "нефть ташучы кораб",
+                    "нефть көймәсе"
+                ],
+                "Bashkir": [
+                    "нефть ташыусы карап",
+                    "нефть карабы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tanker"
+                ],
+                "Azerbaijani": [
+                    "tanker"
+                ],
+                "Turkmen": [
+                    "tanker"
+                ],
+                "Kazakh": [
+                    "танкер"
+                ],
+                "Kyrgyz": [
+                    "танкер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "moy kemasi"
+                ],
+                "Kazakh": [
+                    "мұнай кемесі"
+                ],
+                "Kyrgyz": [
+                    "мунай ташуучу кеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұнай тасығыш кеме"
+                ],
+                "Karakalpak": [
+                    "may tasıoshı keme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "petrol gemisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akaryakıt gemisi"
+                ]
+            }
+        }
+    ]
+}
+```
+

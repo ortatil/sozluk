@@ -1,0 +1,81 @@
+{
+    "id": "i23120",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "blacken",
+    "en_definition": "make or become black",
+    "tr_word": "karartmak",
+    "tr_definition": "siyah hale getirmek veya siyahlaşmak",
+    "ru_word": "чернить",
+    "ru_definition": "делать черным или становиться черным",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karartmak",
+                    "kararmak"
+                ],
+                "Azerbaijani": [
+                    "qaraltmaq",
+                    "qaralmaq",
+                    "qara etmək"
+                ],
+                "Turkmen": [
+                    "garaltmak",
+                    "garalamak",
+                    "garalmak"
+                ],
+                "Uzbek": [
+                    "qoraytirmoq",
+                    "qoralamoq",
+                    "qora qilmoq"
+                ],
+                "Uyghur": [
+                    "قارايتماق",
+                    "قاراداشماق",
+                    "قارا قىلماق"
+                ],
+                "Kazakh": [
+                    "қарату",
+                    "қарайту",
+                    "қаралау",
+                    "қара бояу"
+                ],
+                "Kyrgyz": [
+                    "карайтуу",
+                    "карартуу",
+                    "карайып калуу"
+                ],
+                "Karakalpak": [
+                    "qaraytıu",
+                    "qarayıu"
+                ],
+                "Tatar": [
+                    "карайту",
+                    "каралу",
+                    "караландыру"
+                ],
+                "Bashkir": [
+                    "ҡарайтыу",
+                    "ҡаралтыу",
+                    "ҡараға буяу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siyahlatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kömürleşmek"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "id": "i115209",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cotton",
+    "en_definition": "soft silky fibers from cotton plants in their raw state",
+    "tr_word": "pamuk",
+    "tr_definition": "Pamuk bitkisinin tohumlarını saran yumuşak, beyaz ve lifli madde.",
+    "ru_word": "хлопок",
+    "ru_definition": "Мягкое белое волокно, покрывающее семена хлопчатника.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pamuk",
+                    "pambuk"
+                ],
+                "Azerbaijani": [
+                    "pambıq"
+                ],
+                "Turkmen": [
+                    "pamyk"
+                ],
+                "Uyghur": [
+                    "پاختا"
+                ],
+                "Kyrgyz": [
+                    "пахта"
+                ],
+                "Karakalpak": [
+                    "paxta"
+                ],
+                "Tatar": [
+                    "памбык"
+                ],
+                "Bashkir": [
+                    "памыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мақта"
+                ],
+                "Karakalpak": [
+                    "maqta"
+                ],
+                "Tatar": [
+                    "мамык"
+                ],
+                "Bashkir": [
+                    "мамыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "penbe"
+                ],
+                "Azerbaijani": [
+                    "pənbə"
+                ],
+                "Uyghur": [
+                    "پەنبە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pagta"
+                ],
+                "Uzbek": [
+                    "paxta",
+                    "paxda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кебез"
+                ]
+            }
+        }
+    ]
+}

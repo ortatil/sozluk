@@ -1,0 +1,95 @@
+{
+    "id": "i57618",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "powdered mustard",
+    "en_definition": "a substance such that one to three tablespoons dissolved in a glass of warm water is a homemade emetic",
+    "tr_word": "hardal tozu",
+    "tr_definition": "bir bardak ılık suda eritilmiş bir ila üç yemek kaşığı miktarının ev yapımı bir kusturucu olarak kullanıldığı madde",
+    "ru_word": "горчичный порошок",
+    "ru_definition": "вещество, от одной до трех столовых ложек которого, растворенных в стакане теплой воды, представляют собой домашнее рвотное средство",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қыша ұнтағы"
+                ],
+                "Kyrgyz": [
+                    "кычы күкүмү",
+                    "кычы порошогу",
+                    "кычы"
+                ],
+                "Karakalpak": [
+                    "qısha untaǵı"
+                ],
+                "Tatar": [
+                    "кычыткан порошогы",
+                    "кычы порошогы",
+                    "кычыткан оны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gorçisa tozany",
+                    "gorçisa uny"
+                ],
+                "Uzbek": [
+                    "gorchitsa talqoni"
+                ],
+                "Bashkir": [
+                    "горчица порошогы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hardal tozu",
+                    "toz hardal"
+                ],
+                "Azerbaijani": [
+                    "xardal tozu",
+                    "toz xardal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xardal kukuni"
+                ],
+                "Uyghur": [
+                    "خردال تالقىنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қыша"
+                ],
+                "Karakalpak": [
+                    "qısha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قورۇق خردال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡыуаҡлыҡ онтағы"
+                ]
+            }
+        }
+    ]
+}

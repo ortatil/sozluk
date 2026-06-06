@@ -1,0 +1,84 @@
+{
+    "id": "i108182",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "metric unit",
+    "en_definition": "a decimal unit of measurement of the metric system (based on meters and kilograms and seconds)",
+    "tr_word": "metrik birim",
+    "tr_definition": "Metre, kilogram ve saniye temelli metrik ölçüm sistemine ait ondalık birim.",
+    "ru_word": "метрическая единица",
+    "ru_definition": "Десятичная единица измерения метрической системы, основанная на метрах, килограммах и секундах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ölçü birimi",
+                    "ölçek"
+                ],
+                "Azerbaijani": [
+                    "ölçü vahidi"
+                ],
+                "Turkmen": [
+                    "ölçeg birligi",
+                    "ölçew birligi"
+                ],
+                "Uzbek": [
+                    "oʻlchov birligi",
+                    "oʻlcham"
+                ],
+                "Uyghur": [
+                    "ئۆلچەم بىرلىكى"
+                ],
+                "Kazakh": [
+                    "өлшем бірлігі",
+                    "өлшем"
+                ],
+                "Kyrgyz": [
+                    "өлчөм бирдиги",
+                    "өлчөө бирдиги"
+                ],
+                "Karakalpak": [
+                    "ólshem birligi",
+                    "ólshem"
+                ],
+                "Tatar": [
+                    "үлчәү берәмлеге",
+                    "үлчәм берәмлеге"
+                ],
+                "Bashkir": [
+                    "үлсәү берәмеге",
+                    "үлсәм берәмеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "metrik birim"
+                ],
+                "Azerbaijani": [
+                    "metrik vahid"
+                ],
+                "Uyghur": [
+                    "مېتىرلىق ئۆلچەم بىرلىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "meʼyor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мөлшер"
+                ]
+            }
+        }
+    ]
+}

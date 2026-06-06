@@ -1,0 +1,108 @@
+{
+    "id": "i53208",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pharmacy",
+    "en_definition": "a retail shop where medicine and other articles are sold",
+    "tr_word": "eczane",
+    "tr_definition": "ilaçların ve tıbbi malzemelerin satıldığı perakende dükkan",
+    "ru_word": "аптека",
+    "ru_definition": "розничный магазин, где продаются лекарства и другие товары медицинского назначения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "darüşşifa"
+                ],
+                "Azerbaijani": [
+                    "dərmanxana"
+                ],
+                "Turkmen": [
+                    "dermanhana"
+                ],
+                "Uzbek": [
+                    "dorixona"
+                ],
+                "Kazakh": [
+                    "дәріхана"
+                ],
+                "Kyrgyz": [
+                    "дарыкана"
+                ],
+                "Karakalpak": [
+                    "dárixana"
+                ],
+                "Tatar": [
+                    "даруханә"
+                ],
+                "Bashkir": [
+                    "дарыухана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shifoxona"
+                ],
+                "Karakalpak": [
+                    "shipaxana"
+                ],
+                "Tatar": [
+                    "шифаханә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "емхана"
+                ],
+                "Kyrgyz": [
+                    "эмкана"
+                ],
+                "Bashkir": [
+                    "имхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eczane"
+                ],
+                "Azerbaijani": [
+                    "əczaxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "aptek"
+                ],
+                "Turkmen": [
+                    "aptek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ispençiyari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دوراخانا",
+                    "دورا-دەرمانخانا"
+                ]
+            }
+        }
+    ]
+}

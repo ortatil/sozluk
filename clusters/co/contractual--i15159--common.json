@@ -1,0 +1,143 @@
+{
+    "id": "i15159",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "contractual",
+    "en_definition": "relating to or part of a binding legal agreement",
+    "tr_word": "sözleşmeye dayalı",
+    "tr_definition": "bağlayıcı bir yasal anlaşma ile ilgili veya onun bir parçası olan",
+    "ru_word": "контрактный",
+    "ru_definition": "относящийся к юридически обязывающему соглашению или являющийся его частью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şərtnaməli"
+                ],
+                "Turkmen": [
+                    "şertnamalaýyn",
+                    "şertnama esasyndaky"
+                ],
+                "Uzbek": [
+                    "shartnomaviy"
+                ],
+                "Uyghur": [
+                    "شەرتنامىلىك"
+                ],
+                "Kazakh": [
+                    "шарттық"
+                ],
+                "Karakalpak": [
+                    "shártnamalıq",
+                    "shártli"
+                ],
+                "Tatar": [
+                    "шартнамәле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "келісімшарттық"
+                ],
+                "Kyrgyz": [
+                    "келишимдик",
+                    "келишимдүү"
+                ],
+                "Tatar": [
+                    "килешүле"
+                ],
+                "Bashkir": [
+                    "килешеүле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akitli",
+                    "ahdi"
+                ],
+                "Turkmen": [
+                    "akytlaýyn"
+                ],
+                "Karakalpak": [
+                    "axıtlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əhdnaməli"
+                ],
+                "Uzbek": [
+                    "ahdnoma asosidagi"
+                ],
+                "Uyghur": [
+                    "ئەھدىنامىلىك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "уағдалы"
+                ],
+                "Tatar": [
+                    "вәгъдәле"
+                ],
+                "Bashkir": [
+                    "вәғәҙәле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mukaveleli"
+                ],
+                "Azerbaijani": [
+                    "müqaviləvi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bitimga oid"
+                ],
+                "Kyrgyz": [
+                    "бүтүмдүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sözleşmeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆختاملىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "шртлө"
+                ]
+            }
+        }
+    ]
+}

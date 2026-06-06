@@ -1,0 +1,107 @@
+{
+    "id": "i93585",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "teller",
+    "en_definition": "an employee of a bank who receives and pays out money",
+    "tr_word": "veznedar",
+    "tr_definition": "bir bankada para alıp verme işlemlerini yürüten görevli",
+    "ru_word": "кассир",
+    "ru_definition": "сотрудник банка, принимающий и выдающий деньги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gişe memuru"
+                ],
+                "Turkmen": [
+                    "kassir"
+                ],
+                "Uyghur": [
+                    "كاسسىر"
+                ],
+                "Kazakh": [
+                    "қазынашы",
+                    "кассир"
+                ],
+                "Kyrgyz": [
+                    "кассир"
+                ],
+                "Karakalpak": [
+                    "qassashı",
+                    "qassa"
+                ],
+                "Tatar": [
+                    "кассир"
+                ],
+                "Bashkir": [
+                    "кассасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xəzinədar"
+                ],
+                "Turkmen": [
+                    "hazynaçy"
+                ],
+                "Uzbek": [
+                    "xazinachi",
+                    "hisobchi"
+                ],
+                "Uyghur": [
+                    "خەزىنىچى"
+                ],
+                "Tatar": [
+                    "хәзинәче",
+                    "хисапчы"
+                ],
+                "Bashkir": [
+                    "хазинасы",
+                    "хисапсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "veznedar"
+                ],
+                "Azerbaijani": [
+                    "vəznədar"
+                ],
+                "Uzbek": [
+                    "g'aznachi"
+                ],
+                "Kyrgyz": [
+                    "казначы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bankacı"
+                ],
+                "Uyghur": [
+                    "بانكا خادىمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есепші"
+                ],
+                "Kyrgyz": [
+                    "эсепчи"
+                ]
+            }
+        }
+    ]
+}

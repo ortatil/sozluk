@@ -1,0 +1,117 @@
+{
+    "id": "i74768",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "newspaper ad",
+    "en_definition": "a printed advertisement that is published in a newspaper",
+    "tr_word": "gazete ilanı",
+    "tr_definition": "Bir gazetede yayımlanan basılı reklam veya duyuru.",
+    "ru_word": "газетное объявление",
+    "ru_definition": "Печатное рекламное объявление, опубликованное в газете.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gazete ilanı",
+                    "gazete reklamı"
+                ],
+                "Azerbaijani": [
+                    "qəzet elanı",
+                    "qəzet reklamı"
+                ],
+                "Turkmen": [
+                    "gazet bildirişi",
+                    "gazet mahabaty"
+                ],
+                "Uzbek": [
+                    "gazeta e'loni",
+                    "gazetadagi e'lon"
+                ],
+                "Uyghur": [
+                    "گېزىت ئېلانى"
+                ],
+                "Kazakh": [
+                    "газет жарнамасы",
+                    "газет хабарландыруы"
+                ],
+                "Karakalpak": [
+                    "gazeta daǵazası",
+                    "gazeta iǵlanı"
+                ],
+                "Tatar": [
+                    "гәҗит игъланы"
+                ],
+                "Bashkir": [
+                    "гәзит белдереүе",
+                    "гәзит иғланы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "elan"
+                ],
+                "Tatar": [
+                    "игълан"
+                ],
+                "Bashkir": [
+                    "иғлан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bildiriş"
+                ],
+                "Kyrgyz": [
+                    "билдирүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "matbuot e'loni"
+                ],
+                "Uyghur": [
+                    "مەتبۇئات ئېلانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "баспасөз жарнамасы"
+                ],
+                "Karakalpak": [
+                    "baspa sóz daǵazası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "reklam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жарнама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кулактандыруу"
+                ]
+            }
+        }
+    ]
+}

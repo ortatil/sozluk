@@ -1,0 +1,78 @@
+{
+    "id": "i16952",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "hindustani",
+    "en_definition": "of or relating to or characteristic of Hindustan or its people or language",
+    "tr_word": "hindustani",
+    "tr_definition": "Hindustan'a, halkına veya diline özgü olan veya bunlarla ilgili olan",
+    "ru_word": "индустанский",
+    "ru_definition": "относящийся к Индостану, его народу или языку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Hint",
+                    "Hindistanlı",
+                    "Hintli"
+                ],
+                "Azerbaijani": [
+                    "hind",
+                    "hindistanlı",
+                    "hindli"
+                ],
+                "Turkmen": [
+                    "hindi",
+                    "hindistanly",
+                    "hind"
+                ],
+                "Uzbek": [
+                    "hindistonlik",
+                    "hindiy",
+                    "hind"
+                ],
+                "Uyghur": [
+                    "ھىندىستانلىق",
+                    "ھىندىستانغا ئائىت",
+                    "ھىندىستانچە"
+                ],
+                "Kazakh": [
+                    "хүнді"
+                ],
+                "Kyrgyz": [
+                    "инди"
+                ],
+                "Karakalpak": [
+                    "indistanlıq",
+                    "indi"
+                ],
+                "Tatar": [
+                    "һинд",
+                    "һиндстан"
+                ],
+                "Bashkir": [
+                    "һинд",
+                    "һинди",
+                    "һиндостан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үнді",
+                    "үндістандық"
+                ],
+                "Kyrgyz": [
+                    "индиялык",
+                    "индустандык"
+                ],
+                "Karakalpak": [
+                    "indiyalıq"
+                ]
+            }
+        }
+    ]
+}

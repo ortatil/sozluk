@@ -1,0 +1,133 @@
+{
+    "id": "i40210",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mass production",
+    "en_definition": "the production of large quantities of a standardized article (often using assembly line techniques)",
+    "tr_word": "seri üretim",
+    "tr_definition": "Standart bir ürünün, genellikle montaj hattı teknikleri kullanılarak büyük miktarlarda üretilmesi.",
+    "ru_word": "массовое производство",
+    "ru_definition": "Производство стандартизированных товаров в больших количествах, часто с использованием сборочных линий.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köpçülikleýin önümçilik",
+                    "köp mukdardaky önümçilik"
+                ],
+                "Uzbek": [
+                    "koʻplab ishlab chiqarish"
+                ],
+                "Uyghur": [
+                    "كۆپلەپ ئىشلەپچىقىرىش"
+                ],
+                "Kazakh": [
+                    "көптеп шығару"
+                ],
+                "Kyrgyz": [
+                    "көптөп өндүрүү"
+                ],
+                "Karakalpak": [
+                    "kóp mólsherde óndіru"
+                ],
+                "Tatar": [
+                    "күпләп җитештерү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kitle üretimi"
+                ],
+                "Azerbaijani": [
+                    "kütləvi istehsal"
+                ],
+                "Tatar": [
+                    "күпләп ясау"
+                ],
+                "Bashkir": [
+                    "күпләп етештереү",
+                    "күпләп сығарыу",
+                    "күпләп яһау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "umumy önümçilik"
+                ],
+                "Uyghur": [
+                    "ئومۇمىي ئىشلەپچىقىرىش"
+                ],
+                "Tatar": [
+                    "гомуми җитештерү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жаппай өндіріс",
+                    "жаппай өндіру"
+                ],
+                "Kyrgyz": [
+                    "жапырт өндүрүш"
+                ],
+                "Karakalpak": [
+                    "jappay óndіrіs",
+                    "jappay shıǵaru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seri üretim"
+                ],
+                "Azerbaijani": [
+                    "seriyalı istehsal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toplu üretim"
+                ],
+                "Azerbaijani": [
+                    "topdan istehsal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yalpi ishlab chiqarish"
+                ],
+                "Kyrgyz": [
+                    "жалпы өндүрүш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ommaviy ishlab chiqarish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈركۈملەپ ئىشلەپچىقىرىش"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "id": "i67901",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vocational program",
+    "en_definition": "a program of vocational education",
+    "tr_word": "mesleki eğitim programı",
+    "tr_definition": "belirli bir meslek dalında beceri ve bilgi kazandırmayı amaçlayan eğitim programı",
+    "ru_word": "программа профессионального обучения",
+    "ru_definition": "образовательная программа, направленная на получение навыков и знаний в определенной профессиональной области",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kasb-hunar dasturi"
+                ],
+                "Uyghur": [
+                    "كەسپىي تەربىيەلەش پىلانى",
+                    "كەسپىي مائارىپ پروگراممىسى",
+                    "كەسپىي كۇرس"
+                ],
+                "Kazakh": [
+                    "кәсіптік бағдарлама",
+                    "кәсіптік оқыту бағдарламасы"
+                ],
+                "Kyrgyz": [
+                    "кесиптик программа",
+                    "кесиптик билим берүү программасы"
+                ],
+                "Karakalpak": [
+                    "kásip-óner baǵdarlaması",
+                    "kásiplik baǵdarlama",
+                    "kásip úyretio baǵdarlaması"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hünär maksatnamasy",
+                    "hünär bilimi",
+                    "hünär öwrediş maksatnamasy"
+                ],
+                "Uzbek": [
+                    "hunar ta'limi",
+                    "hunar o'rgatish tizimi"
+                ],
+                "Tatar": [
+                    "һөнәри белем бирү программасы",
+                    "һөнәр өйрәтү программасы",
+                    "һөнәри укыту программасы"
+                ],
+                "Bashkir": [
+                    "һөнәр программаһы",
+                    "һөнәр биреү программаһы",
+                    "һөнәри белем биреү программаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mesleki eğitim programı",
+                    "meslek programı",
+                    "mesleki öğretim programı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşə təhsili proqramı",
+                    "peşə hazırlığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtisas kursu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мамандық бағдарламасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өнөр үйрөтүүчү программа"
+                ]
+            }
+        }
+    ]
+}

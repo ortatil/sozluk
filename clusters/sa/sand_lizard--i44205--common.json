@@ -1,0 +1,116 @@
+{
+    "id": "i44205",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sand lizard",
+    "en_definition": "a common and widely distributed lizard of Europe and central Asia",
+    "tr_word": "kum kertenkelesi",
+    "tr_definition": "Avrupa ve Orta Asya'da yaygın olarak bulunan, Lacerta agilis türünden bir kertenkele.",
+    "ru_word": "прыткая ящерица",
+    "ru_definition": "вид ящериц из семейства настоящих ящериц, широко распространенный в Европе и Центральной Азии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kum kertenkelesi"
+                ],
+                "Azerbaijani": [
+                    "qum kərtənkələsi"
+                ],
+                "Turkmen": [
+                    "gum keltegesi"
+                ],
+                "Uzbek": [
+                    "qum kaltakesagi"
+                ],
+                "Uyghur": [
+                    "قۇم كېسىرتكىسى"
+                ],
+                "Kazakh": [
+                    "құм кесірткесі"
+                ],
+                "Kyrgyz": [
+                    "кум кескелдириги"
+                ],
+                "Karakalpak": [
+                    "qum kesіrtkesi"
+                ],
+                "Bashkir": [
+                    "ҡом кеҫерткәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kertenkele"
+                ],
+                "Turkmen": [
+                    "kelte",
+                    "keltege"
+                ],
+                "Uzbek": [
+                    "kaltakesak"
+                ],
+                "Tatar": [
+                    "кәлтә",
+                    "кәлтә елан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кесіртке"
+                ],
+                "Kyrgyz": [
+                    "кескелдирик"
+                ],
+                "Karakalpak": [
+                    "kesіrtke"
+                ],
+                "Bashkir": [
+                    "кеҫерткә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çöl kərtənkələsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "echkemar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇم چاشقىنچىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жүйрік кесіртке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыр кәлтәсе"
+                ]
+            }
+        }
+    ]
+}

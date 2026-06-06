@@ -1,0 +1,101 @@
+{
+    "id": "i69718",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pronoun",
+    "en_definition": "a function word that is used in place of a noun or noun phrase",
+    "tr_word": "zamir",
+    "tr_definition": "ismin yerini tutan, isim gibi kullanılan sözcük",
+    "ru_word": "местоимение",
+    "ru_definition": "часть речи, которая указывает на предметы, признаки или количества, но не называет их",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zamir"
+                ],
+                "Azerbaijani": [
+                    "zamir"
+                ],
+                "Turkmen": [
+                    "zamyr"
+                ],
+                "Uzbek": [
+                    "zamir"
+                ],
+                "Uyghur": [
+                    "زەمىر"
+                ],
+                "Kyrgyz": [
+                    "замир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "olmosh"
+                ],
+                "Uyghur": [
+                    "ئالماش"
+                ],
+                "Kazakh": [
+                    "алмасу"
+                ],
+                "Karakalpak": [
+                    "almasıq"
+                ],
+                "Tatar": [
+                    "алмашлык"
+                ],
+                "Bashkir": [
+                    "алмаш",
+                    "алмашлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "adıl"
+                ],
+                "Kyrgyz": [
+                    "ат атооч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есімдік"
+                ],
+                "Karakalpak": [
+                    "esіmdіk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əvəzlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çalyşma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "исми-алмаш"
+                ]
+            }
+        }
+    ]
+}

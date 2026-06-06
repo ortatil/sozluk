@@ -1,0 +1,96 @@
+{
+    "id": "i44009",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sheep frog",
+    "en_definition": "mostly of Central America",
+    "tr_word": "koyun kurbağası",
+    "tr_definition": "Genellikle Orta Amerika'da bulunan, dar ağızlı kurbağalar (Microhylidae) familyasına ait bir kurbağa türü.",
+    "ru_word": "овечья узкоротая квакша",
+    "ru_definition": "Вид бесхвостых земноводных из семейства узкоротов, обитающий в основном в Центральной Америке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koyun kurbağası"
+                ],
+                "Azerbaijani": [
+                    "qoyun qurbağası"
+                ],
+                "Uyghur": [
+                    "قوي پاقىسى"
+                ],
+                "Kyrgyz": [
+                    "кой-бака"
+                ],
+                "Karakalpak": [
+                    "qoy baqa",
+                    "qoy dauıslı baqa"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dar ağızlı kurbağa"
+                ],
+                "Azerbaijani": [
+                    "darboğaz qurbağa"
+                ],
+                "Tatar": [
+                    "тар авызлы бака"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻy-baqa",
+                    "qoʻybaqa"
+                ],
+                "Uyghur": [
+                    "قوي ئاۋازلىق پاقا"
+                ],
+                "Kazakh": [
+                    "қой-бақа",
+                    "қой тәрізді бақа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "таргыл бака"
+                ],
+                "Bashkir": [
+                    "тәрәкә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gurlawuk",
+                    "gurlawuk gurbagasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сарык-бака"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "баҡа"
+                ]
+            }
+        }
+    ]
+}

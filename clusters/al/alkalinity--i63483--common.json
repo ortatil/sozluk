@@ -1,0 +1,100 @@
+{
+    "id": "i63483",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "alkalinity",
+    "en_definition": "pH values above 7",
+    "tr_word": "alkalinite",
+    "tr_definition": "7'den yüksek pH değerleri; bir çözeltinin asitleri nötralize etme kapasitesi.",
+    "ru_word": "щелочность",
+    "ru_definition": "значения pH выше 7; способность раствора нейтрализовать кислоты.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əsaslılıq"
+                ],
+                "Turkmen": [
+                    "aşgarlylyk"
+                ],
+                "Uzbek": [
+                    "ishqoriylik",
+                    "asoslilik"
+                ],
+                "Uyghur": [
+                    "ئىشقارلىق",
+                    "ئىشقارلىق دەرىجىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сілтілік",
+                    "сілтілілік"
+                ],
+                "Karakalpak": [
+                    "sіltіlіlіk",
+                    "sіltіlіk"
+                ],
+                "Tatar": [
+                    "селтелелек",
+                    "селтелек"
+                ],
+                "Bashkir": [
+                    "һелтлелек",
+                    "һелтлелек дәрәжәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alkalilik",
+                    "alkalite"
+                ],
+                "Turkmen": [
+                    "alkallylyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "baziklik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qələvilik",
+                    "qələvili dərəcəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шакардуулук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "негиздик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жегичтүүлүк"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "id": "i117317",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "holiday season",
+    "en_definition": "a time when many people take holidays",
+    "tr_word": "tatil sezonu",
+    "tr_definition": "birçok insanın tatile çıktığı zaman dilimi",
+    "ru_word": "сезон отпусков",
+    "ru_definition": "время, когда многие люди уходят в отпуск",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bayram dönemi"
+                ],
+                "Azerbaijani": [
+                    "bayram günləri"
+                ],
+                "Turkmen": [
+                    "baýramçylyk döwri"
+                ],
+                "Uzbek": [
+                    "bayram mavsumi",
+                    "bayram kunlari"
+                ],
+                "Kyrgyz": [
+                    "майрам мезгили"
+                ],
+                "Karakalpak": [
+                    "bayram kúnleri"
+                ],
+                "Tatar": [
+                    "бәйрәмнәр вакыты",
+                    "бәйрәм көннәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tatil dönemi",
+                    "tatil mevsimi",
+                    "tatil zamanı"
+                ],
+                "Azerbaijani": [
+                    "tətil mövsümü",
+                    "tətil vaxtı"
+                ],
+                "Uzbek": [
+                    "ta'til mavsumi",
+                    "ta'til davri"
+                ],
+                "Uyghur": [
+                    "تەتىل مەزگىلى",
+                    "تەتىل ۋاقتى"
+                ],
+                "Karakalpak": [
+                    "tátil máosimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istirahət mövsümü"
+                ],
+                "Kyrgyz": [
+                    "эс алуу мезгили",
+                    "эс алуу убагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dynç alyş möwsümi",
+                    "dynç alyş wagty"
+                ],
+                "Bashkir": [
+                    "тәнәфес осоро"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دەم ئېلىش مەزگىلى"
+                ],
+                "Kazakh": [
+                    "демалыс маусымы",
+                    "демалыс кезеңі",
+                    "демалыс уақыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ял вакыты"
+                ],
+                "Bashkir": [
+                    "ял ваҡыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dem alıs máosimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ял миҙгеле"
+                ]
+            }
+        }
+    ]
+}

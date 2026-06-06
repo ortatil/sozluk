@@ -1,0 +1,69 @@
+{
+    "id": "i47767",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rabbit ears",
+    "en_definition": "the long ears of a rabbit",
+    "tr_word": "tavşan kulağı",
+    "tr_definition": "bir tavşanın uzun kulakları",
+    "ru_word": "заячьи уши",
+    "ru_definition": "длинные уши кролика или зайца",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quyon quloqlari",
+                    "quyonning quloqlari"
+                ],
+                "Kazakh": [
+                    "қоян құлағы",
+                    "қоянның құлағы"
+                ],
+                "Kyrgyz": [
+                    "коён кулак",
+                    "коёндун кулагы"
+                ],
+                "Karakalpak": [
+                    "qoyan qulaq",
+                    "qoyannıń qulaqları"
+                ],
+                "Tatar": [
+                    "куян колаклары"
+                ],
+                "Bashkir": [
+                    "ҡуян ҡолаҡтары",
+                    "ҡуян ҡолағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavşan kulağı",
+                    "tavşan kulakları"
+                ],
+                "Azerbaijani": [
+                    "dovşan qulaqları",
+                    "dovşan qulağı"
+                ],
+                "Turkmen": [
+                    "towşanyň gulaklary",
+                    "towşan gulagy"
+                ],
+                "Uyghur": [
+                    "توشقان قۇلىقى",
+                    "توشقاننىڭ قۇلىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "озын колаклар"
+                ]
+            }
+        }
+    ]
+}

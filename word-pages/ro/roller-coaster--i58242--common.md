@@ -1,0 +1,209 @@
+# Roller coaster
+| Field | Detail |
+|---|---|
+| **ID** | i58242 |
+| **English** | roller coaster |
+| **Type** | noun |
+| **Definition** | elevated railway in an amusement park (usually with sharp curves and steep inclines) |
+| **Source** | common |
+| **Ortatil** | atılgan |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **atılgan** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| аттракцион | attraktsion |
+| селкинчек | selkinçek |
+| дөңгөлөк | döñgölök |
+| **Tatar** | |
+| таучыклар | tauçıklar |
+
+```json
+{
+    "id": "i58242",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "roller coaster",
+    "en_definition": "elevated railway in an amusement park (usually with sharp curves and steep inclines)",
+    "tr_word": "hız treni",
+    "tr_definition": "Eğlence parklarında bulunan, dik inişleri ve keskin virajları olan raylı eğlence aracı.",
+    "ru_word": "американские горки",
+    "ru_definition": "Аттракцион в виде железной дороги с крутыми подъёмами, спусками и резкими поворотами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dəmiryol karuseli"
+                ],
+                "Tatar": [
+                    "тимер юл таулары"
+                ],
+                "Bashkir": [
+                    "тимер юллы аттракцион"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "atylgan",
+                    "atylgan oýun"
+                ],
+                "Kyrgyz": [
+                    "аттракцион"
+                ],
+                "Karakalpak": [
+                    "attrakcion"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "taolı tóbeshikler"
+                ],
+                "Tatar": [
+                    "таучыклар"
+                ],
+                "Bashkir": [
+                    "таулы юл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eğlence treni"
+                ],
+                "Azerbaijani": [
+                    "əyləncə qatarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "beýik oýun"
+                ],
+                "Kazakh": [
+                    "биік жол"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tezyurar charxpalak"
+                ],
+                "Uyghur": [
+                    "تېز سۈرئەتلىك كۆڭۈل ئېچىش پويىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاسمان پويىزى"
+                ],
+                "Kazakh": [
+                    "аспалы жол",
+                    "аспалы пойыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "селкинчек"
+                ],
+                "Karakalpak": [
+                    "sekirtpe jol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күңел ачу таулары"
+                ],
+                "Bashkir": [
+                    "күңел асыу тауы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hızlı tren"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lunapark treni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "karusel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shovqinli tepalik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ajoyibotlar poyezdi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەگرى-بۈگرى تۆمۈر يول"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дөңгөлөк"
+                ]
+            }
+        }
+    ]
+}
+```
+

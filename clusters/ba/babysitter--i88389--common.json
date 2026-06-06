@@ -1,0 +1,145 @@
+{
+    "id": "i88389",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "babysitter",
+    "en_definition": "a person engaged to care for children when the parents are not home",
+    "tr_word": "bebek bakıcısı",
+    "tr_definition": "ebeveynler evde yokken çocuklara bakmakla görevlendirilen kişi",
+    "ru_word": "няня",
+    "ru_definition": "человек, нанятый для присмотра за детьми в отсутствие родителей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çaga bakyjy"
+                ],
+                "Uyghur": [
+                    "بالا باققۇچى",
+                    "بالا باقار"
+                ],
+                "Kazakh": [
+                    "бала күтуші"
+                ],
+                "Kyrgyz": [
+                    "бала багуучу",
+                    "бала кароочу"
+                ],
+                "Karakalpak": [
+                    "bala baǵıushı"
+                ],
+                "Tatar": [
+                    "бала караучы",
+                    "бала багучы"
+                ],
+                "Bashkir": [
+                    "бала ҡараусы",
+                    "бала бағыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тәрбиеші"
+                ],
+                "Kyrgyz": [
+                    "тарбиячы"
+                ],
+                "Karakalpak": [
+                    "tárbiyashı"
+                ],
+                "Tatar": [
+                    "тәрбияче"
+                ],
+                "Bashkir": [
+                    "тәрбиәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dayı"
+                ],
+                "Azerbaijani": [
+                    "dayə"
+                ],
+                "Turkmen": [
+                    "daya"
+                ],
+                "Uyghur": [
+                    "دادە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mürəbbi"
+                ],
+                "Uzbek": [
+                    "murabbiy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eneke"
+                ],
+                "Uzbek": [
+                    "enaga"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күтуші"
+                ],
+                "Karakalpak": [
+                    "kútushi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bakıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çocuk bakıcısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "abla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uşaq baxıcısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bolaboqar"
+                ]
+            }
+        }
+    ]
+}

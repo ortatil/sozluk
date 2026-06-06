@@ -1,0 +1,158 @@
+{
+    "id": "i15870",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "spousal",
+    "en_definition": "relating to a spouse",
+    "tr_word": "eşle ilgili",
+    "tr_definition": "Bir eş veya evlilik partneri ile ilgili olan",
+    "ru_word": "супружеский",
+    "ru_definition": "относящийся к супругу или супружеству",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nikah"
+                ],
+                "Turkmen": [
+                    "nikaly"
+                ],
+                "Uzbek": [
+                    "nikohga oid"
+                ],
+                "Uyghur": [
+                    "نىكاھلىق"
+                ],
+                "Kazakh": [
+                    "некелік"
+                ],
+                "Kyrgyz": [
+                    "никелик"
+                ],
+                "Karakalpak": [
+                    "nekelik"
+                ],
+                "Tatar": [
+                    "никах"
+                ],
+                "Bashkir": [
+                    "никах"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ər-arvad"
+                ],
+                "Turkmen": [
+                    "är-hatynlyk"
+                ],
+                "Uzbek": [
+                    "er-xotinlik"
+                ],
+                "Uyghur": [
+                    "ئەر-خوتۇنلۇق"
+                ],
+                "Kyrgyz": [
+                    "эр-катындык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "juftlik"
+                ],
+                "Uyghur": [
+                    "جۈپتىگە ئائىت"
+                ],
+                "Kazakh": [
+                    "жұбайлық"
+                ],
+                "Kyrgyz": [
+                    "жубайлык"
+                ],
+                "Karakalpak": [
+                    "jubaylıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oilaviy"
+                ],
+                "Tatar": [
+                    "гаилә"
+                ],
+                "Bashkir": [
+                    "ғаилә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşle ilgili",
+                    "eşe dair"
+                ],
+                "Azerbaijani": [
+                    "izdivac"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ерлі-зайыптылық"
+                ],
+                "Karakalpak": [
+                    "erlі-zayıptılıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ире-хатынлык"
+                ],
+                "Bashkir": [
+                    "ире-ҡатынлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zevci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "evlilikle ilgili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həyat yoldaşına aid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maşgala"
+                ]
+            }
+        }
+    ]
+}

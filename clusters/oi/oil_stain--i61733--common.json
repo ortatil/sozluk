@@ -1,0 +1,83 @@
+{
+    "id": "i61733",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oil stain",
+    "en_definition": "a stain produced by oil",
+    "tr_word": "yağ lekesi",
+    "tr_definition": "yağdan kaynaklanan, yüzeyde kalan iz veya kir",
+    "ru_word": "масляное пятно",
+    "ru_definition": "пятно, оставленное маслом на какой-либо поверхности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "moy dog'i"
+                ],
+                "Uyghur": [
+                    "ماي داغ",
+                    "ماي داغلىرى"
+                ],
+                "Kazakh": [
+                    "май дағы",
+                    "майлы дақ"
+                ],
+                "Kyrgyz": [
+                    "май тагы",
+                    "майдын тагы"
+                ],
+                "Karakalpak": [
+                    "may daǵı",
+                    "maylı daq"
+                ],
+                "Tatar": [
+                    "май табы",
+                    "майлы тап"
+                ],
+                "Bashkir": [
+                    "май табы",
+                    "майлы тап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağ izi"
+                ],
+                "Azerbaijani": [
+                    "yağ izi"
+                ],
+                "Turkmen": [
+                    "ýag yzy"
+                ],
+                "Uyghur": [
+                    "ماي ئىزى"
+                ],
+                "Kazakh": [
+                    "май ізі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağ lekesi"
+                ],
+                "Azerbaijani": [
+                    "yağ ləkəsi"
+                ],
+                "Turkmen": [
+                    "ýag tegmili",
+                    "ýagly tegmil"
+                ],
+                "Uzbek": [
+                    "yog' dog'i"
+                ]
+            }
+        }
+    ]
+}

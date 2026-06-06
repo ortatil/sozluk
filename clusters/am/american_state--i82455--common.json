@@ -1,0 +1,107 @@
+{
+    "id": "i82455",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "american state",
+    "en_definition": "one of the 50 states of the United States",
+    "tr_word": "ABD eyaleti",
+    "tr_definition": "Amerika Birleşik Devletleri'ni oluşturan 50 federe devletten her biri",
+    "ru_word": "штат США",
+    "ru_definition": "одна из 50 административно-политических единиц, входящих в состав Соединенных Штатов Америки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ştat"
+                ],
+                "Turkmen": [
+                    "ştat"
+                ],
+                "Uzbek": [
+                    "shtat"
+                ],
+                "Uyghur": [
+                    "شىتات",
+                    "ئىشتات"
+                ],
+                "Kazakh": [
+                    "штат"
+                ],
+                "Kyrgyz": [
+                    "штат"
+                ],
+                "Karakalpak": [
+                    "shtat"
+                ],
+                "Tatar": [
+                    "штат"
+                ],
+                "Bashkir": [
+                    "штат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ülke"
+                ],
+                "Uzbek": [
+                    "o'lka"
+                ],
+                "Kazakh": [
+                    "өлке"
+                ],
+                "Kyrgyz": [
+                    "өлкө"
+                ],
+                "Tatar": [
+                    "өлкә"
+                ],
+                "Bashkir": [
+                    "өлкә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "welaýat"
+                ],
+                "Uzbek": [
+                    "viloyat"
+                ],
+                "Karakalpak": [
+                    "uálayat"
+                ],
+                "Tatar": [
+                    "виләят"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eyalet",
+                    "devlet"
+                ],
+                "Azerbaijani": [
+                    "əyalət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аймақ"
+                ],
+                "Kyrgyz": [
+                    "аймак"
+                ]
+            }
+        }
+    ]
+}

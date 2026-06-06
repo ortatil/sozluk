@@ -1,0 +1,92 @@
+{
+    "id": "i54726",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "headset",
+    "en_definition": "receiver consisting of a pair of headphones",
+    "tr_word": "kulaklık",
+    "tr_definition": "bir çift kulaklıktan oluşan ve genellikle bir mikrofonu da bulunan ses alıcısı",
+    "ru_word": "гарнитура",
+    "ru_definition": "устройство, состоящее из наушников и часто микрофона, предназначенное для прослушивания звука и связи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kulaklık"
+                ],
+                "Azerbaijani": [
+                    "qulaqlıq"
+                ],
+                "Turkmen": [
+                    "gulaklyk"
+                ],
+                "Uzbek": [
+                    "quloqchin"
+                ],
+                "Uyghur": [
+                    "قۇلاقچىن"
+                ],
+                "Kazakh": [
+                    "құлаққап"
+                ],
+                "Kyrgyz": [
+                    "кулакчын"
+                ],
+                "Karakalpak": [
+                    "qulaqqap"
+                ],
+                "Tatar": [
+                    "колакчын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dinleme cihazı"
+                ],
+                "Turkmen": [
+                    "diňleýiş guraly"
+                ],
+                "Uyghur": [
+                    "تىڭشىغۇچ"
+                ],
+                "Kazakh": [
+                    "тыңдауыш"
+                ],
+                "Kyrgyz": [
+                    "тыңшагыч"
+                ],
+                "Karakalpak": [
+                    "tıńlaǵısh"
+                ],
+                "Tatar": [
+                    "тыңлагыч"
+                ],
+                "Bashkir": [
+                    "тыңлағыс",
+                    "тыңлау ҡорамалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "başlık"
+                ],
+                "Azerbaijani": [
+                    "başlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "eshitgich"
+                ]
+            }
+        }
+    ]
+}

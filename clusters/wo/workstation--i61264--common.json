@@ -1,0 +1,128 @@
+{
+    "id": "i61264",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "workstation",
+    "en_definition": "a desktop digital computer that is conventionally considered to be more powerful than a microcomputer",
+    "tr_word": "iş istasyonu",
+    "tr_definition": "genellikle bir mikrobilgisayardan daha güçlü olduğu kabul edilen, masaüstü dijital bilgisayar",
+    "ru_word": "рабочая станция",
+    "ru_definition": "настольный цифровой компьютер, который традиционно считается более мощным, чем микрокомпьютер",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iş istasyonu"
+                ],
+                "Azerbaijani": [
+                    "iş stansiyası",
+                    "iş yeri"
+                ],
+                "Turkmen": [
+                    "iş bekedi",
+                    "iş stansiýasy"
+                ],
+                "Uzbek": [
+                    "ish stansiyasi",
+                    "ish oʻrni"
+                ],
+                "Uyghur": [
+                    "ئىش پونكىتى"
+                ],
+                "Kyrgyz": [
+                    "иш орду",
+                    "иш бекети"
+                ],
+                "Tatar": [
+                    "эш станциясе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hesablama mərkəzi"
+                ],
+                "Uzbek": [
+                    "hisoblash mashinasi"
+                ],
+                "Karakalpak": [
+                    "esaplau mashinası"
+                ],
+                "Tatar": [
+                    "хисаплау җайланмасы"
+                ],
+                "Bashkir": [
+                    "хисаплау ҡулайламаһы",
+                    "хисаплау машинаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "iş orny"
+                ],
+                "Tatar": [
+                    "эш урыны"
+                ],
+                "Bashkir": [
+                    "эш урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмыс бекеті",
+                    "жұмыс орны"
+                ],
+                "Karakalpak": [
+                    "jұmıs ornı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есептеуіш кешені"
+                ],
+                "Kyrgyz": [
+                    "эсептөөчү жабдык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iş bilgisayarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ana bilgisayar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىزمەت پونكىتى",
+                    "خىزمەت كومپيۇتېرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kompyuter stanciyası"
+                ]
+            }
+        }
+    ]
+}

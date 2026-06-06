@@ -1,0 +1,160 @@
+# Sodium chloride
+| Field | Detail |
+|---|---|
+| **ID** | i114077 |
+| **English** | sodium chloride |
+| **Type** | noun |
+| **Definition** | a white crystalline solid consisting mainly of sodium chloride (NaCl) |
+| **Source** | common |
+| **Ortatil** | ḍuz |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍuz** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تۇز | tuz |
+| **Kazakh** | |
+| тұз | tuz |
+| **Kyrgyz** | |
+| туз | tuz |
+| **Tatar** | |
+| тоз | toz |
+| **Bashkir** | |
+| тоҙ | toz |
+
+```json
+{
+    "id": "i114077",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sodium chloride",
+    "en_definition": "a white crystalline solid consisting mainly of sodium chloride (NaCl)",
+    "tr_word": "sodyum klorür",
+    "tr_definition": "esas olarak sodyum klorürden (NaCl) oluşan beyaz kristal bir katı",
+    "ru_word": "хлорид натрия",
+    "ru_definition": "белое кристаллическое твердое вещество, состоящее в основном из хлорида натрия (NaCl)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tuz"
+                ],
+                "Azerbaijani": [
+                    "duz"
+                ],
+                "Turkmen": [
+                    "duz"
+                ],
+                "Uzbek": [
+                    "tuz"
+                ],
+                "Uyghur": [
+                    "تۇز"
+                ],
+                "Kazakh": [
+                    "тұз"
+                ],
+                "Kyrgyz": [
+                    "туз"
+                ],
+                "Karakalpak": [
+                    "tұz"
+                ],
+                "Tatar": [
+                    "тоз"
+                ],
+                "Bashkir": [
+                    "тоҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "osh tuzi"
+                ],
+                "Uyghur": [
+                    "ئاش تۇزى"
+                ],
+                "Kazakh": [
+                    "ас тұзы",
+                    "асқаттық тұз"
+                ],
+                "Kyrgyz": [
+                    "аш тузу"
+                ],
+                "Karakalpak": [
+                    "as tұzı"
+                ],
+                "Tatar": [
+                    "аш тозы"
+                ],
+                "Bashkir": [
+                    "аш тоҙо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sofra tuzu"
+                ],
+                "Azerbaijani": [
+                    "süfrə duzu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemek tuzu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xörək duzu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nahar duzy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "namak"
+                ]
+            }
+        }
+    ]
+}
+```
+

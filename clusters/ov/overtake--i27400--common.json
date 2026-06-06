@@ -1,0 +1,158 @@
+{
+    "id": "i27400",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "overtake",
+    "en_definition": "catch up with and possibly overtake",
+    "tr_word": "sollamak",
+    "tr_definition": "Aynı yönde giden bir aracın yanından geçip önüne geçmek.",
+    "ru_word": "обгонять",
+    "ru_definition": "Двигаясь быстрее другого транспортного средства или человека, опередить его.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quvib yetmoq"
+                ],
+                "Uyghur": [
+                    "قوغلىشىپ يېتىۋېلىش"
+                ],
+                "Kazakh": [
+                    "қуып жету"
+                ],
+                "Kyrgyz": [
+                    "кууп жетүү"
+                ],
+                "Karakalpak": [
+                    "quoıp jetio"
+                ],
+                "Tatar": [
+                    "куып җитү",
+                    "куып узу"
+                ],
+                "Bashkir": [
+                    "ҡыуып етеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'zib ketmoq",
+                    "o'tib ketmoq"
+                ],
+                "Uyghur": [
+                    "ئېشىپ كېتىش",
+                    "ئۆتۈپ كېتىش"
+                ],
+                "Karakalpak": [
+                    "ozıp ketio"
+                ],
+                "Tatar": [
+                    "узып китү"
+                ],
+                "Bashkir": [
+                    "уҙып китеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "озу"
+                ],
+                "Kyrgyz": [
+                    "озуу",
+                    "ашуу"
+                ],
+                "Karakalpak": [
+                    "ozıo"
+                ],
+                "Tatar": [
+                    "уздыру"
+                ],
+                "Bashkir": [
+                    "уҙыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geçmek"
+                ],
+                "Azerbaijani": [
+                    "keçmək"
+                ],
+                "Turkmen": [
+                    "geçmek",
+                    "ýetmek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşmak"
+                ],
+                "Azerbaijani": [
+                    "ötmək"
+                ],
+                "Turkmen": [
+                    "ozmak"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yetişmek"
+                ],
+                "Azerbaijani": [
+                    "yetişmək"
+                ],
+                "Bashkir": [
+                    "етеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geride bırakmak"
+                ],
+                "Azerbaijani": [
+                    "geridə qoymaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ortda qoldirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "асып түсу",
+                    "басып озу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өтүү"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "id": "i71323",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "greeting",
+    "en_definition": "(usually plural) an acknowledgment or expression of good will (especially on meeting)",
+    "tr_word": "selamlama",
+    "tr_definition": "Bir kimseyle karşılaşıldığında veya birinin yanına gidildiğinde yapılan esenleşme eylemi.",
+    "ru_word": "приветствие",
+    "ru_definition": "Обращение к кому-либо при встрече для выражения добрых чувств или признания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "selam",
+                    "selamlama"
+                ],
+                "Azerbaijani": [
+                    "salam",
+                    "salamlaşma"
+                ],
+                "Turkmen": [
+                    "salam",
+                    "salamlaşyk"
+                ],
+                "Uzbek": [
+                    "salom",
+                    "salomlashish"
+                ],
+                "Uyghur": [
+                    "سالام",
+                    "سالاملىشىش"
+                ],
+                "Kazakh": [
+                    "сәлем",
+                    "сәлемдесу",
+                    "сәлем-сауқат"
+                ],
+                "Kyrgyz": [
+                    "салам",
+                    "саламдашуу"
+                ],
+                "Karakalpak": [
+                    "sálem",
+                    "sálemlesio",
+                    "sálem-saoat"
+                ],
+                "Tatar": [
+                    "сәлам",
+                    "сәламләү",
+                    "сәламнамә"
+                ],
+                "Bashkir": [
+                    "сәләм",
+                    "сәләмләү",
+                    "сәләм биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "esenleme"
+                ],
+                "Uyghur": [
+                    "ئەسسالام"
+                ],
+                "Bashkir": [
+                    "иҫәнләшеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təbrik"
+                ],
+                "Uzbek": [
+                    "tabrik"
+                ],
+                "Uyghur": [
+                    "تەبرىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gutlag"
+                ],
+                "Kyrgyz": [
+                    "куттуктоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "alik"
+                ],
+                "Kyrgyz": [
+                    "алик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "амандасу",
+                    "амандық"
+                ],
+                "Karakalpak": [
+                    "amanlasıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "merhaba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahiyye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ehtiram"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "istقبال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәер-фатиха"
+                ]
+            }
+        }
+    ]
+}

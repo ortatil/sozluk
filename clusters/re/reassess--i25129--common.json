@@ -1,0 +1,135 @@
+{
+    "id": "i25129",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "reassess",
+    "en_definition": "revise or renew one's assessment",
+    "tr_word": "yeniden değerlendirmek",
+    "tr_definition": "bir durum veya konu hakkındaki görüşü gözden geçirip tekrar ele almak",
+    "ru_word": "переоценивать",
+    "ru_definition": "пересматривать или обновлять свою оценку чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "täzeden gözden geçirmek",
+                    "gaýtadan baha bermek",
+                    "gaýtadan garamak"
+                ],
+                "Uzbek": [
+                    "qayta baholamoq"
+                ],
+                "Uyghur": [
+                    "قايتا باھالاش",
+                    "قايتا كۆرۈپ چىقماق",
+                    "قايتا مۇلاھىزە قىلماق"
+                ],
+                "Kazakh": [
+                    "қайта қарау",
+                    "қайта бағалау",
+                    "қайта саралау",
+                    "қайта зерделеу"
+                ],
+                "Kyrgyz": [
+                    "кайра карап чыгуу",
+                    "кайра баалоо",
+                    "кайра талдоо"
+                ],
+                "Karakalpak": [
+                    "qayta qarap shıǵıu",
+                    "qayta bahalao",
+                    "qayta tekserio"
+                ],
+                "Tatar": [
+                    "кайтадан бәяләү"
+                ],
+                "Bashkir": [
+                    "ҡайтанан ҡарау",
+                    "ҡайтанан тикшереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden değerlendirmek"
+                ],
+                "Azerbaijani": [
+                    "yenidən qiymətləndirmək",
+                    "yenidən baxmaq"
+                ],
+                "Tatar": [
+                    "яңадан карап чыгу",
+                    "яңадан тикшерү"
+                ],
+                "Bashkir": [
+                    "яңынан баһалау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekrar ele almak"
+                ],
+                "Uyghur": [
+                    "تەكرار تەكشۈرمەك"
+                ],
+                "Kyrgyz": [
+                    "кайра текшерүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təftiş etmək"
+                ],
+                "Uzbek": [
+                    "taftish qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəzərdən keçirmək"
+                ],
+                "Uzbek": [
+                    "nazardan o'tkazmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gözden geçirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzeden seljermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qayta ko'rib chiqmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төзәтү"
+                ]
+            }
+        }
+    ]
+}

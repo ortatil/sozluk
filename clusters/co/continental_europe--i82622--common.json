@@ -1,0 +1,98 @@
+{
+    "id": "i82622",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "continental europe",
+    "en_definition": "the European mainland",
+    "tr_word": "Kıta Avrupası",
+    "tr_definition": "Avrupa'nın ana karası",
+    "ru_word": "Континентальная Европа",
+    "ru_definition": "Материковая часть Европы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "materik Avropası"
+                ],
+                "Uzbek": [
+                    "materik Yevropa"
+                ],
+                "Kazakh": [
+                    "материктік Еуропа"
+                ],
+                "Kyrgyz": [
+                    "материктик Европа"
+                ],
+                "Tatar": [
+                    "материк Европасы"
+                ],
+                "Bashkir": [
+                    "материк Европаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Kıta Avrupası",
+                    "Avrupa anakarası"
+                ],
+                "Karakalpak": [
+                    "Ewropa qurıqlıǵı"
+                ],
+                "Bashkir": [
+                    "ҡитға Европаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qitə Avropası"
+                ],
+                "Uzbek": [
+                    "qit'a Yevropasi"
+                ],
+                "Tatar": [
+                    "кыйтга Европасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Gury ýer Ýewropasy",
+                    "Kontinental Ýewropa"
+                ],
+                "Kazakh": [
+                    "құрлықтық Еуропа"
+                ],
+                "Karakalpak": [
+                    "Ewropa kontineti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياۋروپا چوڭ قۇرۇقلۇقى",
+                    "ياۋروپا چوڭ قۇرۇقلۇق قىسمى"
+                ],
+                "Karakalpak": [
+                    "Ewropa materigi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "континенттик Европа"
+                ]
+            }
+        }
+    ]
+}

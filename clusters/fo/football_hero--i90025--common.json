@@ -1,0 +1,95 @@
+{
+    "id": "i90025",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "football hero",
+    "en_definition": "a football player who has achieved a reputation for success",
+    "tr_word": "futbol kahramanı",
+    "tr_definition": "başarılarıyla ün kazanmış, hayranlık duyulan futbolcu",
+    "ru_word": "звезда футбола",
+    "ru_definition": "футболист, добившийся выдающихся успехов и широкого признания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "futbol kahramanı",
+                    "futbol yıldızı"
+                ],
+                "Azerbaijani": [
+                    "futbol qəhrəmanı",
+                    "futbol ulduzu",
+                    "məşhur futbolçu"
+                ],
+                "Turkmen": [
+                    "meşhur futbolçy",
+                    "at gazanan futbolçy",
+                    "futbol ýyldyzy",
+                    "futbol gahrymany"
+                ],
+                "Uzbek": [
+                    "futbol yulduzi",
+                    "futbol qahramoni"
+                ],
+                "Uyghur": [
+                    "پۇتبول قەھرىمانى",
+                    "پۇتبول چولپىنى"
+                ],
+                "Kazakh": [
+                    "футбол жұлдызы",
+                    "футбол саңлағы",
+                    "футбол тарланы",
+                    "футбол майталманы"
+                ],
+                "Kyrgyz": [
+                    "футбол жылдызы",
+                    "футбол баатыры"
+                ],
+                "Karakalpak": [
+                    "futbol juldızı",
+                    "futbol qaharmanı"
+                ],
+                "Tatar": [
+                    "футбол йолдызы",
+                    "футбол каһарманы"
+                ],
+                "Bashkir": [
+                    "футбол йондоҙо",
+                    "футбол ҡаһарманы",
+                    "футбол батыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "داڭلىق پۇتبولچى"
+                ],
+                "Tatar": [
+                    "танылган футболчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "efsane futbolcu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mashhur futbolchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "атактуу футболчу"
+                ]
+            }
+        }
+    ]
+}

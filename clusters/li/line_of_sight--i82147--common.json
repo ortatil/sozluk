@@ -1,0 +1,115 @@
+{
+    "id": "i82147",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "line of sight",
+    "en_definition": "an imaginary straight line along which an observer looks",
+    "tr_word": "bakış çizgisi",
+    "tr_definition": "bir gözlemcinin baktığı hayali düz çizgi; görüş hattı",
+    "ru_word": "линия прямой видимости",
+    "ru_definition": "воображаемая прямая линия, вдоль которой смотрит наблюдатель",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "görüş çizgisi",
+                    "görüş alanı"
+                ],
+                "Azerbaijani": [
+                    "görüş xətti",
+                    "görmə xətti"
+                ],
+                "Turkmen": [
+                    "görüş çyzygy"
+                ],
+                "Uzbek": [
+                    "koʻrish chizigʻi"
+                ],
+                "Uyghur": [
+                    "كۆرۈش سىزىقى",
+                    "كۆرۈش لىنىيەسى"
+                ],
+                "Kazakh": [
+                    "көру сызығы",
+                    "көру бағыты"
+                ],
+                "Kyrgyz": [
+                    "көрүү сызыгы"
+                ],
+                "Karakalpak": [
+                    "kórinio sızıǵı"
+                ],
+                "Tatar": [
+                    "күрү сызыгы",
+                    "күрү юлы"
+                ],
+                "Bashkir": [
+                    "күрү һыҙығы",
+                    "күрү йүнәлеше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bakış hattı",
+                    "bakış açısı"
+                ],
+                "Azerbaijani": [
+                    "baxış xətti"
+                ],
+                "Turkmen": [
+                    "bakyş ugry"
+                ],
+                "Tatar": [
+                    "караш сызыгы"
+                ],
+                "Bashkir": [
+                    "ҡараш һыҙығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gözýetim çyzygy"
+                ],
+                "Uzbek": [
+                    "koʻz yoʻnalishi"
+                ],
+                "Kazakh": [
+                    "көз ұшы"
+                ],
+                "Kyrgyz": [
+                    "көз караш багыты"
+                ],
+                "Karakalpak": [
+                    "kóz jeter jer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nazar chizigʻi"
+                ],
+                "Uyghur": [
+                    "نەزەر سىزىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көз чабыты"
+                ],
+                "Karakalpak": [
+                    "kóz qarası"
+                ]
+            }
+        }
+    ]
+}

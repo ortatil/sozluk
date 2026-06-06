@@ -1,0 +1,87 @@
+{
+    "id": "i71044",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "windows",
+    "en_definition": "(trademark) an operating system with a graphical user interface",
+    "tr_word": "Windows",
+    "tr_definition": "Grafiksel kullanıcı arayüzüne sahip bir işletim sistemi markası.",
+    "ru_word": "Windows",
+    "ru_definition": "Операционная система с графическим пользовательским интерфейсом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pencereler"
+                ],
+                "Azerbaijani": [
+                    "pəncərələr"
+                ],
+                "Uyghur": [
+                    "ۋىندوز"
+                ],
+                "Karakalpak": [
+                    "Windows"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Windows amaly ulgamy",
+                    "Windows operasion ulgamy"
+                ],
+                "Uyghur": [
+                    "ۋىندوز مەشغۇلات سىستېمىسى"
+                ],
+                "Kazakh": [
+                    "Windows амалдық жүйесі",
+                    "Windows операциялық жүйесі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "терезелер"
+                ],
+                "Tatar": [
+                    "тәрәзәләр"
+                ],
+                "Bashkir": [
+                    "тәҙрәләр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "işletim sistemi"
+                ],
+                "Azerbaijani": [
+                    "əməliyyat sistemi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "operatsion tizim"
+                ],
+                "Karakalpak": [
+                    "operaciyalıq sistema"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oynalar"
+                ]
+            }
+        }
+    ]
+}

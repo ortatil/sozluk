@@ -1,0 +1,256 @@
+# One-liner
+| Field | Detail |
+|---|---|
+| **ID** | i72115 |
+| **English** | one-liner |
+| **Type** | noun |
+| **Definition** | a one-line joke |
+| **Source** | common |
+| **Ortatil** | lätifä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **lätifä** | **şaka** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ❌ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ❌ | ❌ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.67 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.20 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **2.77** | **1.37** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چاقچاق | çaqçaq |
+| **Kyrgyz** | |
+| лакап | lakap |
+| тамаша | tamaşa |
+| **Tatar** | |
+| ләтифә | lätifä |
+| мәзәк | mäzäk |
+| **Bashkir** | |
+| ләтифә | lätifä |
+
+```json
+{
+    "id": "i72115",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "one-liner",
+    "en_definition": "a one-line joke",
+    "tr_word": "tek satırlık espri",
+    "tr_definition": "Genellikle kısa, öz ve tek bir cümleden oluşan şaka veya espri.",
+    "ru_word": "короткая шутка",
+    "ru_definition": "Остроумная шутка или реплика, состоящая из одного предложения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "latife"
+                ],
+                "Azerbaijani": [
+                    "lətifə"
+                ],
+                "Uzbek": [
+                    "latifa"
+                ],
+                "Karakalpak": [
+                    "latipa"
+                ],
+                "Tatar": [
+                    "ләтифә"
+                ],
+                "Bashkir": [
+                    "ләтифә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قىسقا لەتىپە"
+                ],
+                "Kazakh": [
+                    "қысқа әзіл"
+                ],
+                "Karakalpak": [
+                    "qısqa sóz"
+                ],
+                "Tatar": [
+                    "кыска сүз"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡа мәҙәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şaka"
+                ],
+                "Turkmen": [
+                    "lakam"
+                ],
+                "Kyrgyz": [
+                    "лакап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өткір сөз"
+                ],
+                "Tatar": [
+                    "үткен сүз"
+                ],
+                "Bashkir": [
+                    "үткер һүҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nükte"
+                ],
+                "Azerbaijani": [
+                    "nüktə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "espri"
+                ],
+                "Uzbek": [
+                    "askiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məzəli söz"
+                ],
+                "Tatar": [
+                    "мәзәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hazırcavablıq"
+                ],
+                "Uzbek": [
+                    "hazil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "orta söz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "degishme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pikir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mutoyiba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىر ئېغىزلىق لەتىپە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چاقچاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұтымды сөз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түйінді сөз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тамаша",
+                    "таамай сөз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "куудул сөз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "anekdot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tapqır sóz"
+                ]
+            }
+        }
+    ]
+}
+```
+

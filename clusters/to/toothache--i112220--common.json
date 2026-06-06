@@ -1,0 +1,66 @@
+{
+    "id": "i112220",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "toothache",
+    "en_definition": "an ache localized in or around a tooth",
+    "tr_word": "diş ağrısı",
+    "tr_definition": "bir dişin içinde veya çevresinde hissedilen ağrı",
+    "ru_word": "зубная боль",
+    "ru_definition": "боль, локализованная в зубе или вокруг него",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diş ağrısı",
+                    "diş sızısı"
+                ],
+                "Azerbaijani": [
+                    "diş ağrısı",
+                    "diş sızısı"
+                ],
+                "Turkmen": [
+                    "diş agyrysy",
+                    "diş agyry"
+                ],
+                "Uzbek": [
+                    "tish ogʻrigʻi",
+                    "tish dardi"
+                ],
+                "Uyghur": [
+                    "چىش ئاغرىقى",
+                    "چىش ئاغرىش"
+                ],
+                "Kazakh": [
+                    "тіс ауруы",
+                    "тістің қақсауы"
+                ],
+                "Kyrgyz": [
+                    "тиш оору",
+                    "тиштин сыздашы",
+                    "тиштин какшашы"
+                ],
+                "Karakalpak": [
+                    "tis aoırıoı",
+                    "tis sırqıraoı"
+                ],
+                "Tatar": [
+                    "теш сызлавы",
+                    "теш авыртуы"
+                ],
+                "Bashkir": [
+                    "теш һыҙлауы",
+                    "теш ауыртыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тістің сыздауы"
+                ]
+            }
+        }
+    ]
+}

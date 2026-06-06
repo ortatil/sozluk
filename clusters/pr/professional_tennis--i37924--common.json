@@ -1,0 +1,98 @@
+{
+    "id": "i37924",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "professional tennis",
+    "en_definition": "playing tennis for money",
+    "tr_word": "profesyonel tenis",
+    "tr_definition": "tenis sporunu para karşılığında, bir meslek olarak icra etme",
+    "ru_word": "профессиональный теннис",
+    "ru_definition": "игра в теннис за деньги в качестве основного рода занятий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kasbiy tennis"
+                ],
+                "Uyghur": [
+                    "كەسپىي تېننىس توپ",
+                    "كەسپىي تېننىس"
+                ],
+                "Kazakh": [
+                    "кәсіби теннис",
+                    "кәсіптік теннис"
+                ],
+                "Kyrgyz": [
+                    "кесипкөй теннис",
+                    "кесиптик теннис"
+                ],
+                "Karakalpak": [
+                    "kásiplik tennis",
+                    "kásipdar tennis"
+                ],
+                "Tatar": [
+                    "кәсепчел теннис"
+                ],
+                "Bashkir": [
+                    "кәсепби теннис"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hünärli tennis"
+                ],
+                "Tatar": [
+                    "һөнәри теннис"
+                ],
+                "Bashkir": [
+                    "һөнәри теннис"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "profesyonel tenis"
+                ],
+                "Uzbek": [
+                    "professional tennis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşəkar tennis"
+                ],
+                "Turkmen": [
+                    "peşekar tennis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ücretli tenis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mesleki tenis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtisaslı tennis"
+                ]
+            }
+        }
+    ]
+}

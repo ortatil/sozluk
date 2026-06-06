@@ -1,0 +1,102 @@
+{
+    "id": "i48522",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wolverine",
+    "en_definition": "stocky shaggy-coated North American carnivorous mammal",
+    "tr_word": "porsuk",
+    "tr_definition": "Kuzey Amerika'ya özgü, tıknaz ve gür tüylü, etçil bir memeli hayvan.",
+    "ru_word": "росомаха",
+    "ru_definition": "коренастое североамериканское хищное млекопитающее с густой шерстью.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qunduz"
+                ],
+                "Uzbek": [
+                    "qunduzsimon"
+                ],
+                "Uyghur": [
+                    "قۇندۇزئېيىق"
+                ],
+                "Kazakh": [
+                    "құну"
+                ],
+                "Kyrgyz": [
+                    "куну",
+                    "куну аюу"
+                ],
+                "Karakalpak": [
+                    "qundız ayı"
+                ],
+                "Tatar": [
+                    "коны"
+                ],
+                "Bashkir": [
+                    "ҡоно",
+                    "ҡоно айыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "porsuk faresi"
+                ],
+                "Azerbaijani": [
+                    "porsuq"
+                ],
+                "Turkmen": [
+                    "porsy",
+                    "porsyşekilli"
+                ],
+                "Uzbek": [
+                    "boʻriayiq"
+                ],
+                "Uyghur": [
+                    "بۆرىئېيىق"
+                ],
+                "Karakalpak": [
+                    "bórіsart"
+                ],
+                "Tatar": [
+                    "бүре аюы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayı porsuğu"
+                ],
+                "Azerbaijani": [
+                    "ayıporsuğu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "obur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gulan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бөрібасар"
+                ]
+            }
+        }
+    ]
+}

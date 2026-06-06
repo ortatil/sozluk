@@ -1,0 +1,164 @@
+# Vest pocket
+| Field | Detail |
+|---|---|
+| **ID** | i60838 |
+| **English** | vest pocket |
+| **Type** | noun |
+| **Definition** | a small pocket in a man's vest |
+| **Source** | common |
+| **Ortatil** | cübü |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| чөнтөк | çöntök |
+| **Tatar** | |
+| кесә | kesä |
+
+```json
+{
+    "id": "i60838",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vest pocket",
+    "en_definition": "a small pocket in a man's vest",
+    "tr_word": "yelek cebi",
+    "tr_definition": "Bir yeleğin üzerinde bulunan küçük cep.",
+    "ru_word": "жилетный карман",
+    "ru_definition": "Маленький карман на мужском жилете.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük cep"
+                ],
+                "Azerbaijani": [
+                    "kiçik cib"
+                ],
+                "Turkmen": [
+                    "kiçi jübi"
+                ],
+                "Uzbek": [
+                    "kichik cho'ntak"
+                ],
+                "Uyghur": [
+                    "كىچىك يانچۇق"
+                ],
+                "Kazakh": [
+                    "кішкене қалта"
+                ],
+                "Kyrgyz": [
+                    "кичи чөнтөк"
+                ],
+                "Karakalpak": [
+                    "kіshkene qalta"
+                ],
+                "Tatar": [
+                    "кысык кесә"
+                ],
+                "Bashkir": [
+                    "кәзәкә кеҫәһе",
+                    "кәзәкәй кеҫәһе",
+                    "кескәй кеҫә",
+                    "кесе кеҫә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yelek cebi"
+                ],
+                "Azerbaijani": [
+                    "jilet cibi"
+                ],
+                "Turkmen": [
+                    "ýelek jübi"
+                ],
+                "Uyghur": [
+                    "جىلىتكە يانچۇقى"
+                ],
+                "Karakalpak": [
+                    "jelet qalta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nimtənə cibi"
+                ],
+                "Uzbek": [
+                    "nimcha cho'ntak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko'krak cho'ntak"
+                ],
+                "Tatar": [
+                    "күкрәк кесәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ішкі қалта"
+                ],
+                "Kyrgyz": [
+                    "ички чөнтөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кеудеше қалтасы"
+                ],
+                "Karakalpak": [
+                    "keudeshe qalta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "saat cebi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jübi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чөнтөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кесә"
+                ]
+            }
+        }
+    ]
+}
+```
+

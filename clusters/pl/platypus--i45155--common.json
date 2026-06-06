@@ -1,0 +1,87 @@
+{
+    "id": "i45155",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "platypus",
+    "en_definition": "small densely furred aquatic monotreme of Australia and Tasmania having a broad bill and tail and webbed feet; only species in the family Ornithorhynchidae",
+    "tr_word": "ornitorenk",
+    "tr_definition": "Avustralya ve Tazmanya'da yaşayan, gagalı, yumurtlayan, yarı sucul bir memeli türü.",
+    "ru_word": "утконос",
+    "ru_definition": "Водоплавающее млекопитающее отряда однопроходных, обитающее в Австралии, имеющее клюв, подобный утиному.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ördəkburun"
+                ],
+                "Turkmen": [
+                    "ýördakburun"
+                ],
+                "Uzbek": [
+                    "oʻrdakburun"
+                ],
+                "Uyghur": [
+                    "ئۆردەك تۇمشۇق سۈت ئەمگۈچى",
+                    "ئۆردەك تۇمشۇق ھايۋان"
+                ],
+                "Kyrgyz": [
+                    "өрдөк тумшук",
+                    "өрдөк тумшуктуу жаныбар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үйректұмсық"
+                ],
+                "Karakalpak": [
+                    "úyrekburın"
+                ],
+                "Bashkir": [
+                    "өйрәкморон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ornitorenk"
+                ],
+                "Tatar": [
+                    "үрдәкборын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gagalı memeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "su köstebeği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "su-ördəyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "suwgunduz"
+                ]
+            }
+        }
+    ]
+}

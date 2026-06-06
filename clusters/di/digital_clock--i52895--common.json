@@ -1,0 +1,99 @@
+{
+    "id": "i52895",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "digital clock",
+    "en_definition": "a clock that displays the time of day digitally",
+    "tr_word": "dijital saat",
+    "tr_definition": "günün saatini rakamlarla gösteren saat",
+    "ru_word": "цифровые часы",
+    "ru_definition": "часы, отображающие время суток в цифровом виде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sayısal saat"
+                ],
+                "Turkmen": [
+                    "sanly sagat"
+                ],
+                "Kazakh": [
+                    "сандық сағат"
+                ],
+                "Kyrgyz": [
+                    "санарип саат"
+                ],
+                "Karakalpak": [
+                    "sanlı saat"
+                ],
+                "Tatar": [
+                    "санлы сәгать"
+                ],
+                "Bashkir": [
+                    "һанлы сәғәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektronik saat"
+                ],
+                "Azerbaijani": [
+                    "elektron saat"
+                ],
+                "Turkmen": [
+                    "elektron sagat"
+                ],
+                "Uzbek": [
+                    "elektron soat"
+                ],
+                "Uyghur": [
+                    "ئېلېكترونلۇق سائەت"
+                ],
+                "Kazakh": [
+                    "электронды сағат"
+                ],
+                "Kyrgyz": [
+                    "электрондук саат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "rəqəmsal saat"
+                ],
+                "Uzbek": [
+                    "raqamli soat"
+                ],
+                "Uyghur": [
+                    "رەقەملىك سائەت"
+                ],
+                "Tatar": [
+                    "рәкамле сәгать"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "cifrlı saat"
+                ],
+                "Bashkir": [
+                    "цифрлы сәғәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dijital saat"
+                ]
+            }
+        }
+    ]
+}

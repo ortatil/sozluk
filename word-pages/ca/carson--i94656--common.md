@@ -1,0 +1,87 @@
+# Carson
+| Field | Detail |
+|---|---|
+| **ID** | i94656 |
+| **English** | carson |
+| **Type** | noun |
+| **Definition** | United States biologist remembered for her opposition to the use of pesticides that were hazardous to wildlife (1907-1964) |
+| **Source** | common |
+| **Ortatil** | karson |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كارسون | karson |
+| **Kazakh** | |
+| Карсон | karson |
+
+```json
+{
+    "id": "i94656",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "carson",
+    "en_definition": "United States biologist remembered for her opposition to the use of pesticides that were hazardous to wildlife (1907-1964)",
+    "tr_word": "Carson",
+    "tr_definition": "Yaban hayatı için tehlikeli olan pestisitlerin kullanımına karşı çıkmasıyla tanınan Amerikalı biyolog (1907-1964).",
+    "ru_word": "Карсон",
+    "ru_definition": "Американский биолог, известная своей борьбой против использования пестицидов, опасных для дикой природы (1907-1964).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Rachel Carson"
+                ],
+                "Uzbek": [
+                    "Reychel Karson"
+                ],
+                "Uyghur": [
+                    "راچېل كارسون"
+                ],
+                "Kazakh": [
+                    "Рэйчел Карсон"
+                ],
+                "Kyrgyz": [
+                    "Рэйчел Карсон"
+                ],
+                "Karakalpak": [
+                    "Reychel Karson"
+                ],
+                "Tatar": [
+                    "Рэйчел Карсон"
+                ],
+                "Bashkir": [
+                    "Рэйчел Карсон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Reyçel Karson"
+                ],
+                "Turkmen": [
+                    "Reýçel Karson"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كارسون"
+                ],
+                "Kazakh": [
+                    "Карсон"
+                ]
+            }
+        }
+    ]
+}
+```
+

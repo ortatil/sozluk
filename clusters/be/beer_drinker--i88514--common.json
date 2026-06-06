@@ -1,0 +1,72 @@
+{
+    "id": "i88514",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "beer drinker",
+    "en_definition": "someone whose favorite drink is beer or ale",
+    "tr_word": "biracı",
+    "tr_definition": "en sevdiği içecek bira olan veya düzenli olarak bira içen kimse",
+    "ru_word": "любитель пива",
+    "ru_definition": "человек, чьим любимым напитком является пиво",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сырашы",
+                    "сыра құмар",
+                    "сыра ішкіш"
+                ],
+                "Kyrgyz": [
+                    "сыра ичүүчү",
+                    "сыракор"
+                ],
+                "Karakalpak": [
+                    "sıraxor",
+                    "sıra ishioshi"
+                ],
+                "Tatar": [
+                    "сыра эчүче",
+                    "сыра яратучы"
+                ],
+                "Bashkir": [
+                    "һырасы",
+                    "һыра эсеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pivəxor",
+                    "pivə içən",
+                    "pivəpərəst"
+                ],
+                "Turkmen": [
+                    "piwo içýän",
+                    "piwohor"
+                ],
+                "Uzbek": [
+                    "pivochi",
+                    "pivoxoʻr"
+                ],
+                "Uyghur": [
+                    "پىۋىخور"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "biracı",
+                    "bira içicisi",
+                    "bira müptelası"
+                ],
+                "Uyghur": [
+                    "پىۋە ئىچكۈچى"
+                ]
+            }
+        }
+    ]
+}

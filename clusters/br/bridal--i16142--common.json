@@ -1,0 +1,80 @@
+{
+    "id": "i16142",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "bridal",
+    "en_definition": "of or pertaining to a bride",
+    "tr_word": "gelinlik",
+    "tr_definition": "gelinle ilgili veya geline ait olan",
+    "ru_word": "свадебный",
+    "ru_definition": "относящийся к невесте или к свадьбе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gelinlik",
+                    "gelinle ilgili",
+                    "geline ait"
+                ],
+                "Azerbaijani": [
+                    "gəlinlik",
+                    "gəlinə aid",
+                    "gəlin"
+                ],
+                "Turkmen": [
+                    "gelinlik"
+                ],
+                "Uzbek": [
+                    "kelinlik",
+                    "kelinga oid",
+                    "kelinona"
+                ],
+                "Uyghur": [
+                    "كېلىنچەككە ئائىت",
+                    "كېلىنلىك"
+                ],
+                "Kazakh": [
+                    "келін",
+                    "қалыңдық",
+                    "келіндік"
+                ],
+                "Kyrgyz": [
+                    "келиндик",
+                    "келинге таандык"
+                ],
+                "Karakalpak": [
+                    "kelinlik",
+                    "kelinshektiń"
+                ],
+                "Tatar": [
+                    "кәләш",
+                    "кәләшнеке"
+                ],
+                "Bashkir": [
+                    "кәләш",
+                    "кәләшлек",
+                    "килен",
+                    "киленлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "toý"
+                ],
+                "Uyghur": [
+                    "توي"
+                ],
+                "Karakalpak": [
+                    "toylıq"
+                ],
+                "Tatar": [
+                    "туй"
+                ]
+            }
+        }
+    ]
+}

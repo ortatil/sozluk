@@ -1,0 +1,84 @@
+{
+    "id": "i54235",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gas well",
+    "en_definition": "a well that yields or has yielded natural gas",
+    "tr_word": "doğal gaz kuyusu",
+    "tr_definition": "doğal gaz üreten veya üretmiş olan kuyu",
+    "ru_word": "газовая скважина",
+    "ru_definition": "скважина, предназначенная для добычи природного газа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gaz kuyusu"
+                ],
+                "Azerbaijani": [
+                    "qaz quyusu",
+                    "qaz quyu"
+                ],
+                "Turkmen": [
+                    "gaz guýusy",
+                    "gaz çykarylýan guýy"
+                ],
+                "Uzbek": [
+                    "gaz qudug'i",
+                    "gaz koni",
+                    "gaz manbai"
+                ],
+                "Uyghur": [
+                    "گاز قۇدۇقى"
+                ],
+                "Kazakh": [
+                    "газ ұңғымасы",
+                    "газ құдығы"
+                ],
+                "Kyrgyz": [
+                    "газ кудугу"
+                ],
+                "Karakalpak": [
+                    "gaz qudıǵı"
+                ],
+                "Tatar": [
+                    "газ коесы"
+                ],
+                "Bashkir": [
+                    "газ ҡоҙоғо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "газ скважинасы"
+                ],
+                "Karakalpak": [
+                    "gaz skwajinası"
+                ],
+                "Tatar": [
+                    "газ скважинасы"
+                ],
+                "Bashkir": [
+                    "газ скважинаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğalgaz kuyusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەبىئىي گاز قۇدۇقى"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "i5431",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "oily",
+    "en_definition": "containing an unusual amount of grease or oil",
+    "tr_word": "yağlı",
+    "tr_definition": "olağandışı miktarda gres veya yağ içeren",
+    "ru_word": "маслянистый",
+    "ru_definition": "содержащий необычное количество жира или масла",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağlı",
+                    "yağlıca",
+                    "yağlımsı"
+                ],
+                "Azerbaijani": [
+                    "yağlı"
+                ],
+                "Turkmen": [
+                    "ýagly"
+                ],
+                "Uzbek": [
+                    "yogʻli",
+                    "moyli"
+                ],
+                "Uyghur": [
+                    "ياغلىق"
+                ],
+                "Kazakh": [
+                    "майлы"
+                ],
+                "Karakalpak": [
+                    "maylı",
+                    "jaǵlı"
+                ],
+                "Tatar": [
+                    "майлы",
+                    "майлылы"
+                ],
+                "Bashkir": [
+                    "майлы",
+                    "майланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "piyli"
+                ],
+                "Uyghur": [
+                    "مايلىق"
+                ],
+                "Kyrgyz": [
+                    "майлуу",
+                    "май",
+                    "майдай"
+                ],
+                "Tatar": [
+                    "майланган"
+                ],
+                "Bashkir": [
+                    "майлы-һыулы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şireli"
+                ],
+                "Uzbek": [
+                    "ser yogʻ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təsirli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mesge"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "майланған",
+                    "майсақ"
+                ]
+            }
+        }
+    ]
+}

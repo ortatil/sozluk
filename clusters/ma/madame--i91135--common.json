@@ -1,0 +1,116 @@
+{
+    "id": "i91135",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "madame",
+    "en_definition": "title used for a married Frenchwoman",
+    "tr_word": "madam",
+    "tr_definition": "Fransızca konuşan evli kadınlar için kullanılan bir saygı unvanı",
+    "ru_word": "мадам",
+    "ru_definition": "титул или форма обращения к замужней французской женщине",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hanımefendi",
+                    "hanım"
+                ],
+                "Azerbaijani": [
+                    "xanım"
+                ],
+                "Turkmen": [
+                    "hanym"
+                ],
+                "Uzbek": [
+                    "xonim"
+                ],
+                "Uyghur": [
+                    "خانىم"
+                ],
+                "Kazakh": [
+                    "ханым"
+                ],
+                "Kyrgyz": [
+                    "айым",
+                    "ханым"
+                ],
+                "Karakalpak": [
+                    "xanım"
+                ],
+                "Tatar": [
+                    "ханым"
+                ],
+                "Bashkir": [
+                    "ханым"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bayan"
+                ],
+                "Azerbaijani": [
+                    "bəyim"
+                ],
+                "Turkmen": [
+                    "bika"
+                ],
+                "Uzbek": [
+                    "beka"
+                ],
+                "Kazakh": [
+                    "бикеш"
+                ],
+                "Kyrgyz": [
+                    "бийке"
+                ],
+                "Karakalpak": [
+                    "biyke"
+                ],
+                "Tatar": [
+                    "бикә"
+                ],
+                "Bashkir": [
+                    "бикә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hatun"
+                ],
+                "Turkmen": [
+                    "hatyn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "banu"
+                ],
+                "Uzbek": [
+                    "bonu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىبى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әйел"
+                ]
+            }
+        }
+    ]
+}

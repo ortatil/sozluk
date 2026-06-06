@@ -1,0 +1,68 @@
+{
+    "id": "i78972",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ginger ale",
+    "en_definition": "ginger-flavored carbonated drink",
+    "tr_word": "zencefilli gazoz",
+    "tr_definition": "zencefil aromalı, alkolsüz ve karbonatlı içecek",
+    "ru_word": "имбирный эль",
+    "ru_definition": "сильногазированный напиток с ароматом имбиря",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zencefilli gazoz",
+                    "zencefilli içecek"
+                ],
+                "Azerbaijani": [
+                    "zəncəfil qazlı suyu",
+                    "zəncəfilli qazlı içki",
+                    "zəncəfil şərbəti"
+                ],
+                "Turkmen": [
+                    "zencefilli içgi",
+                    "zencefilli şerbet"
+                ],
+                "Uzbek": [
+                    "zanjabilli ichimlik",
+                    "zanjabilli sharbat",
+                    "zanjabilli suv"
+                ],
+                "Uyghur": [
+                    "زەنجىۋىل سۈيى",
+                    "زەنجىۋىل گازلىق سۈيى",
+                    "زەنجىۋىل ئىچىملىكى"
+                ],
+                "Tatar": [
+                    "занҗабил суы",
+                    "занҗабил эчемлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "зімбір сусыны",
+                    "зімбір шырыны",
+                    "зімбірден жасалған сусын"
+                ],
+                "Kyrgyz": [
+                    "имбирь суусу",
+                    "имбирь ичимдиги",
+                    "имбирь ширеси"
+                ],
+                "Karakalpak": [
+                    "imbir susını",
+                    "imbirli ishimlik"
+                ],
+                "Bashkir": [
+                    "имбирле эсемлек",
+                    "имбирле һыу"
+                ]
+            }
+        }
+    ]
+}

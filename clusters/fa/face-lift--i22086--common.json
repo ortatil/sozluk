@@ -1,0 +1,74 @@
+{
+    "id": "i22086",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "face-lift",
+    "en_definition": "perform cosmetic surgery on someone's face",
+    "tr_word": "yüz gerdirmek",
+    "tr_definition": "birinin yüzüne estetik cerrahi uygulamak",
+    "ru_word": "делать подтяжку лица",
+    "ru_definition": "выполнять косметическую операцию на лице человека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz gerdirmek",
+                    "yüz germek",
+                    "yüz estetiği yapmak"
+                ],
+                "Azerbaijani": [
+                    "üz gərmək",
+                    "üzü dartmaq",
+                    "üzdə estetik əməliyyat etmək"
+                ],
+                "Turkmen": [
+                    "ýüzüni ýaşartmak",
+                    "ýüzüni dartdyrmak",
+                    "ýüzüni bejertmek"
+                ],
+                "Uzbek": [
+                    "yuzni tortmoq",
+                    "yuzni yoshartirmoq",
+                    "yuz terisini taranglamoq"
+                ],
+                "Uyghur": [
+                    "يۈز تېرىسىنى تارتتۇرۇش",
+                    "يۈزنى گۈزەللەشتۈرۈش",
+                    "يۈزنى ياشارتىش"
+                ],
+                "Tatar": [
+                    "йөз тарттыру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бетті жасарту",
+                    "бетті тарту",
+                    "бетті түзету"
+                ],
+                "Kyrgyz": [
+                    "бетти жашартуу",
+                    "бетти тарттыруу",
+                    "бетти оңдоо"
+                ],
+                "Karakalpak": [
+                    "betti jasartu",
+                    "betti tartıu",
+                    "betti túzleu"
+                ],
+                "Tatar": [
+                    "бит тарттыру",
+                    "бит тиресен тарттыру"
+                ],
+                "Bashkir": [
+                    "бит тиреһен тарттырыу",
+                    "битте йәшәртеү"
+                ]
+            }
+        }
+    ]
+}

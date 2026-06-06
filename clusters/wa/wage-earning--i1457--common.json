@@ -1,0 +1,160 @@
+{
+    "id": "i1457",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "wage-earning",
+    "en_definition": "of those who work for wages especially manual or industrial laborers",
+    "tr_word": "ücretli",
+    "tr_definition": "özellikle el emeği veya sanayi işçisi olarak bir ücret karşılığında çalışan kimse",
+    "ru_word": "наемный",
+    "ru_definition": "относящийся к тем, кто работает за заработную плату, особенно к рабочим физического или промышленного труда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yollanma"
+                ],
+                "Kazakh": [
+                    "жалдамалы"
+                ],
+                "Kyrgyz": [
+                    "жалданма"
+                ],
+                "Karakalpak": [
+                    "jallanba",
+                    "jallanbalı"
+                ],
+                "Tatar": [
+                    "ялланып эшләүче",
+                    "ялланучы"
+                ],
+                "Bashkir": [
+                    "ялланып эшләгән",
+                    "ялланыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işçi"
+                ],
+                "Turkmen": [
+                    "işçi"
+                ],
+                "Uzbek": [
+                    "ishchi"
+                ],
+                "Uyghur": [
+                    "ئىشچىلار"
+                ],
+                "Bashkir": [
+                    "эшсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "maaşlı"
+                ],
+                "Azerbaijani": [
+                    "muzlu",
+                    "maaşlı"
+                ],
+                "Uyghur": [
+                    "مائاشلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ücretli"
+                ],
+                "Azerbaijani": [
+                    "ücrətli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "emekçi"
+                ],
+                "Kyrgyz": [
+                    "эмгек акылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hakly",
+                    "hakyna tutma"
+                ],
+                "Uyghur": [
+                    "ھەقلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақылы"
+                ],
+                "Kyrgyz": [
+                    "акы төлөнүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хезмәт хакына эшләүче"
+                ],
+                "Bashkir": [
+                    "хеҙмәт итеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zähmetkeş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mehnatkash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇزتەجىر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еңбекақылы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "minet haqılı"
+                ]
+            }
+        }
+    ]
+}

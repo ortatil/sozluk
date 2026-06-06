@@ -1,0 +1,103 @@
+{
+    "id": "i37599",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "embrace",
+    "en_definition": "the act of clasping another person in the arms (as in greeting or affection)",
+    "tr_word": "kucaklama",
+    "tr_definition": "Birini sevgi veya selamlama amacıyla kolların arasına alıp sarılma eylemi.",
+    "ru_word": "объятие",
+    "ru_definition": "Действие по значению глагола обнимать; охватывание кого-либо руками в знак любви, дружбы или при приветствии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kucaklama",
+                    "kucak"
+                ],
+                "Azerbaijani": [
+                    "qucaq",
+                    "qucaqlama"
+                ],
+                "Turkmen": [
+                    "guçak",
+                    "guçaklaşma",
+                    "guçaklaşyk"
+                ],
+                "Uzbek": [
+                    "quchoq"
+                ],
+                "Uyghur": [
+                    "قۇچاق",
+                    "قۇچاقلاش"
+                ],
+                "Kazakh": [
+                    "құшақ",
+                    "құшақтау",
+                    "құшақтасу"
+                ],
+                "Kyrgyz": [
+                    "кучактоо",
+                    "кучак",
+                    "кучакташуу"
+                ],
+                "Karakalpak": [
+                    "qұshaq",
+                    "qұshaqtasu"
+                ],
+                "Tatar": [
+                    "кочак",
+                    "кочаклау",
+                    "кочаклашу"
+                ],
+                "Bashkir": [
+                    "ҡосаҡ",
+                    "ҡосаҡлау",
+                    "ҡосаҡлашыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bagra basyş"
+                ],
+                "Uzbek": [
+                    "bag'ir"
+                ],
+                "Uyghur": [
+                    "باغرىغا بېسىش"
+                ],
+                "Karakalpak": [
+                    "bauırǵa basu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ağuş"
+                ],
+                "Uzbek": [
+                    "og'ush"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sarılma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deraguş"
+                ]
+            }
+        }
+    ]
+}

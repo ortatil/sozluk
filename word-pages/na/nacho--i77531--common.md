@@ -1,0 +1,164 @@
+# Nacho
+| Field | Detail |
+|---|---|
+| **ID** | i77531 |
+| **English** | nacho |
+| **Type** | noun |
+| **Definition** | a tortilla chip topped with cheese and chili-pepper and broiled |
+| **Source** | common |
+| **Ortatil** | naços |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **naços** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ناچو | naço |
+| **Tatar** | |
+| начос | naços |
+| **Bashkir** | |
+| начос | naços |
+
+```json
+{
+    "id": "i77531",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nacho",
+    "en_definition": "a tortilla chip topped with cheese and chili-pepper and broiled",
+    "tr_word": "naço",
+    "tr_definition": "Üzerine peynir ve acı biber eklenerek fırınlanmış mısır cipsi.",
+    "ru_word": "начос",
+    "ru_definition": "Закуска из кукурузных чипсов, запеченных с сыром и перцем чили.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "peynirli cips"
+                ],
+                "Azerbaijani": [
+                    "pendirli çips"
+                ],
+                "Turkmen": [
+                    "peýnirli meze"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ناچو"
+                ],
+                "Tatar": [
+                    "начос"
+                ],
+                "Bashkir": [
+                    "начос"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жүгері қытырлағы",
+                    "жүгері чипсы"
+                ],
+                "Kyrgyz": [
+                    "жүгөрү чипси",
+                    "жүгөрү наны"
+                ],
+                "Karakalpak": [
+                    "júoeri chipsısı",
+                    "júoeri nanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mekgejöwen çipsisi"
+                ],
+                "Uzbek": [
+                    "makkajo'xori chipslari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кукуруз чипсысы"
+                ],
+                "Bashkir": [
+                    "кукуруз чипсыһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "peynirli mısır cipsi",
+                    "mısır cipsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarğıdalı çipsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qovurilgan makkajo'xori noni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پىشلاقلىق قوناق بولكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوناق چىپسىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыздырылган кукуруз телеме"
+                ]
+            }
+        }
+    ]
+}
+```
+

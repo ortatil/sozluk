@@ -1,0 +1,142 @@
+{
+    "id": "i75477",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "clack",
+    "en_definition": "a sharp abrupt noise as if two objects hit together; may be repeated",
+    "tr_word": "tıkırtı",
+    "tr_definition": "İki nesnenin birbirine çarpmasıyla çıkan keskin ve kısa ses.",
+    "ru_word": "стук",
+    "ru_definition": "Резкий отрывистый звук, возникающий при ударе двух предметов друг о друга.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tıkırtı",
+                    "takırtı",
+                    "çatırtı",
+                    "şakırtı"
+                ],
+                "Azerbaijani": [
+                    "taqqıltı",
+                    "tıqqıltı",
+                    "şaqqıltı",
+                    "çıqqıltı"
+                ],
+                "Turkmen": [
+                    "şarkyldy",
+                    "tykyrdy",
+                    "takyrdy"
+                ],
+                "Uzbek": [
+                    "taqillash",
+                    "tiqirlash"
+                ],
+                "Kazakh": [
+                    "тықыл"
+                ],
+                "Kyrgyz": [
+                    "тыкыр",
+                    "шакылдак",
+                    "такылдак",
+                    "тыкыроо"
+                ],
+                "Karakalpak": [
+                    "tıqıl"
+                ],
+                "Tatar": [
+                    "шакылдау",
+                    "тыкырдау"
+                ],
+                "Bashkir": [
+                    "тыҡылдау",
+                    "шаҡылдау",
+                    "тыҡ-тыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تاراق-تۇرۇق",
+                    "تاراقلىغان ئاۋاز",
+                    "تاراقشىغان ئاۋاز"
+                ],
+                "Kazakh": [
+                    "тарсыл"
+                ],
+                "Kyrgyz": [
+                    "тарсылдак"
+                ],
+                "Karakalpak": [
+                    "tarsıl"
+                ],
+                "Tatar": [
+                    "тырт-тырт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şark-şurk"
+                ],
+                "Uyghur": [
+                    "شاكىر-شۇكۇر"
+                ],
+                "Kazakh": [
+                    "сарт-сұрт"
+                ],
+                "Karakalpak": [
+                    "sırt",
+                    "shart"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shiqillash"
+                ],
+                "Kazakh": [
+                    "шықыл"
+                ],
+                "Tatar": [
+                    "шак-шок"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tık"
+                ],
+                "Uzbek": [
+                    "taq-tuq",
+                    "taq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кетер-кетер"
+                ],
+                "Bashkir": [
+                    "кетерләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сатыр"
+                ]
+            }
+        }
+    ]
+}

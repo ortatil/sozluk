@@ -1,0 +1,114 @@
+{
+    "id": "i5476",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "congratulatory",
+    "en_definition": "expressive of sympathetic pleasure or joy on account of someone's success or good fortune",
+    "tr_word": "tebrik edici",
+    "tr_definition": "Birinin başarısı veya iyi şansı nedeniyle duyulan memnuniyeti veya sevinci ifade eden",
+    "ru_word": "поздравительный",
+    "ru_definition": "выражающий сочувственную радость или удовольствие по поводу чьего-либо успеха или удачи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tebrik",
+                    "tebrikamiz",
+                    "tebriki"
+                ],
+                "Azerbaijani": [
+                    "təbrikedici",
+                    "təbriknamə"
+                ],
+                "Turkmen": [
+                    "tebrik"
+                ],
+                "Uzbek": [
+                    "tabrik"
+                ],
+                "Uyghur": [
+                    "تەبرىك",
+                    "تەبرىكلەش"
+                ],
+                "Karakalpak": [
+                    "tábrik"
+                ],
+                "Tatar": [
+                    "тәбрикләү"
+                ],
+                "Bashkir": [
+                    "тәбрикләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kutlama"
+                ],
+                "Turkmen": [
+                    "gutlag"
+                ],
+                "Uzbek": [
+                    "qutlov"
+                ],
+                "Kazakh": [
+                    "құттықтау",
+                    "құтты"
+                ],
+                "Kyrgyz": [
+                    "куттуктоо",
+                    "куттуктоочу",
+                    "куттук"
+                ],
+                "Karakalpak": [
+                    "qutlıqlao"
+                ],
+                "Tatar": [
+                    "котлау"
+                ],
+                "Bashkir": [
+                    "ҡотлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mübarəkbadlıq"
+                ],
+                "Turkmen": [
+                    "mübärek"
+                ],
+                "Uzbek": [
+                    "muborakbod"
+                ],
+                "Uyghur": [
+                    "مۇبارەك"
+                ],
+                "Kazakh": [
+                    "мүбәрак"
+                ],
+                "Karakalpak": [
+                    "múbárek"
+                ],
+                "Tatar": [
+                    "мөбарәкләү"
+                ],
+                "Bashkir": [
+                    "мөбәрәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ак тилек"
+                ]
+            }
+        }
+    ]
+}

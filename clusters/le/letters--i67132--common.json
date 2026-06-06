@@ -1,0 +1,148 @@
+{
+    "id": "i67132",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "letters",
+    "en_definition": "the literary culture",
+    "tr_word": "edebiyat",
+    "tr_definition": "edebî kültür ve yazı dünyası",
+    "ru_word": "словесность",
+    "ru_definition": "литературная культура и совокупность произведений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "edebiyat"
+                ],
+                "Azerbaijani": [
+                    "ədəbiyyat"
+                ],
+                "Turkmen": [
+                    "edebiýat"
+                ],
+                "Uzbek": [
+                    "adabiyot"
+                ],
+                "Uyghur": [
+                    "ئەدەبىيات",
+                    "ئەدەبىي پائالىيەت",
+                    "ئەدەبىي ساھە"
+                ],
+                "Kazakh": [
+                    "әдебиет"
+                ],
+                "Kyrgyz": [
+                    "адабият"
+                ],
+                "Karakalpak": [
+                    "ádebiyat"
+                ],
+                "Tatar": [
+                    "әдәбият"
+                ],
+                "Bashkir": [
+                    "әҙәбиәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazın"
+                ],
+                "Azerbaijani": [
+                    "yazın"
+                ],
+                "Kazakh": [
+                    "жазу-сызу"
+                ],
+                "Tatar": [
+                    "язма мәдәният"
+                ],
+                "Bashkir": [
+                    "яҙма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilim"
+                ],
+                "Turkmen": [
+                    "ylmy-edebiýat"
+                ],
+                "Uzbek": [
+                    "ilm-fan"
+                ],
+                "Kyrgyz": [
+                    "илим-билим"
+                ],
+                "Karakalpak": [
+                    "ilm-ádep"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məktubat"
+                ],
+                "Tatar": [
+                    "мәгърифәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hat-sowat"
+                ],
+                "Kyrgyz": [
+                    "кат-сабат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қаламгерлік"
+                ],
+                "Bashkir": [
+                    "ғилем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kültür"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maʼrifat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sóz óneri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гыйлем"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "id": "i28424",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "click open",
+    "en_definition": "open with a clicking sound",
+    "tr_word": "tıklayarak açmak",
+    "tr_definition": "tık sesi çıkararak açmak",
+    "ru_word": "открываться со щелчком",
+    "ru_definition": "открываться, издавая характерный щелкающий звук",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tık diye açmak",
+                    "tıklatarak açmak"
+                ],
+                "Azerbaijani": [
+                    "tıqqıltı ilə açmaq"
+                ],
+                "Turkmen": [
+                    "tykyldadyp açmak"
+                ],
+                "Kyrgyz": [
+                    "чыкылдатып ачуу"
+                ],
+                "Tatar": [
+                    "чыкылдатып ачу",
+                    "чык итеп ачылу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıtlatarak açmak"
+                ],
+                "Azerbaijani": [
+                    "çıtladaraq açmaq"
+                ],
+                "Karakalpak": [
+                    "sırtlatıp ashıo"
+                ],
+                "Bashkir": [
+                    "сыртлатып асыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şaqqıltı ilə açmaq"
+                ],
+                "Turkmen": [
+                    "şyrkyldadyp açmak",
+                    "şarkyldadyp açmak"
+                ],
+                "Uzbek": [
+                    "shiqillatib ochmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chiqillatib ochmoq",
+                    "shiq etib ochilmoq"
+                ],
+                "Uyghur": [
+                    "چېكىپ ئېچىش",
+                    "چىكىلدىتىپ ئېچىش"
+                ],
+                "Kyrgyz": [
+                    "чык этип ачылуу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چىرت قىلىپ ئېچىش"
+                ],
+                "Kazakh": [
+                    "сырт етіп ашылу",
+                    "сырт еткізіп ашу",
+                    "шырт етіп ашылу"
+                ],
+                "Bashkir": [
+                    "сырт итеп асылыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sırt etip ashılıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "келт итеп ачылу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "id": "i19680",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "up and down",
+    "en_definition": "alternately upward and downward",
+    "tr_word": "aşağı yukarı",
+    "tr_definition": "sırayla yukarıya ve aşağıya doğru",
+    "ru_word": "вверх и вниз",
+    "ru_definition": "поочередно вверх и вниз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yukarı aşağı"
+                ],
+                "Azerbaijani": [
+                    "yuxarı-aşağı",
+                    "gah yuxarı, gah aşağı"
+                ],
+                "Turkmen": [
+                    "ýokary-aşak"
+                ],
+                "Uzbek": [
+                    "yuqori-past",
+                    "yuqoriga va pastga"
+                ],
+                "Uyghur": [
+                    "يۇقىرى-تۆۋەن"
+                ],
+                "Kazakh": [
+                    "жоғары-төмен"
+                ],
+                "Kyrgyz": [
+                    "жогору-төмөн"
+                ],
+                "Karakalpak": [
+                    "joqarı-tómen"
+                ],
+                "Tatar": [
+                    "югары-түбән"
+                ],
+                "Bashkir": [
+                    "юғары-түбән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئۆرلەپ-چۈشۈپ"
+                ],
+                "Kazakh": [
+                    "өрі-төмен"
+                ],
+                "Kyrgyz": [
+                    "өйдө-төмөн"
+                ],
+                "Karakalpak": [
+                    "óre-tómen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşağı yukarı"
+                ],
+                "Turkmen": [
+                    "aşak-ýokary"
+                ],
+                "Kazakh": [
+                    "асты-үсті"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "inişli çıkışlı"
+                ],
+                "Azerbaijani": [
+                    "enib-qalxaraq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öňe-yza"
+                ],
+                "Kyrgyz": [
+                    "өйдө-ылдый"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өскә-аска"
+                ],
+                "Bashkir": [
+                    "өҫкә-түбән",
+                    "өҫкә-аҫҡа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tepa-past",
+                    "tepaga va pastga"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاستى-ئۈستى"
+                ]
+            }
+        }
+    ]
+}

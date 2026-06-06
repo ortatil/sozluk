@@ -1,0 +1,130 @@
+# Middle age
+| Field | Detail |
+|---|---|
+| **ID** | i116850 |
+| **English** | middle age |
+| **Type** | noun |
+| **Definition** | the time of life between youth and old age (e.g., between 40 and 60 years of age) |
+| **Source** | common |
+| **Ortatil** | kemäl |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i116850",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "middle age",
+    "en_definition": "the time of life between youth and old age (e.g., between 40 and 60 years of age)",
+    "tr_word": "orta yaş",
+    "tr_definition": "Gençlik ile yaşlılık arasındaki dönem (genellikle 40 ile 60 yaş arası).",
+    "ru_word": "средний возраст",
+    "ru_definition": "Период жизни между молодостью и старостью (обычно от 40 до 60 лет).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orta yaş"
+                ],
+                "Azerbaijani": [
+                    "orta yaş",
+                    "orta yaş dövrü"
+                ],
+                "Turkmen": [
+                    "orta ýaş"
+                ],
+                "Uzbek": [
+                    "o'rta yosh",
+                    "o'rta yasharlik"
+                ],
+                "Kazakh": [
+                    "орта жас"
+                ],
+                "Kyrgyz": [
+                    "орто жаш",
+                    "орто курак"
+                ],
+                "Karakalpak": [
+                    "orta jas"
+                ],
+                "Tatar": [
+                    "урта яшь"
+                ],
+                "Bashkir": [
+                    "урта йәш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kemal yaşı"
+                ],
+                "Azerbaijani": [
+                    "kamillik yaşı"
+                ],
+                "Turkmen": [
+                    "kemal",
+                    "kemal ýaş"
+                ],
+                "Uzbek": [
+                    "kamolot yoshi"
+                ],
+                "Uyghur": [
+                    "كامالەت يېشى"
+                ],
+                "Kazakh": [
+                    "кемел жас"
+                ],
+                "Kyrgyz": [
+                    "кемел курак"
+                ],
+                "Karakalpak": [
+                    "kemel jas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өлкән яшь"
+                ],
+                "Bashkir": [
+                    "өлкән йәш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "картлык алды"
+                ],
+                "Bashkir": [
+                    "ҡартлыҡ алды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرا ياش",
+                    "ئوتتۇرا ياشلىق دەۋرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "егде жас"
+                ]
+            }
+        }
+    ]
+}
+```
+

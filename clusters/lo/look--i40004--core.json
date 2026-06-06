@@ -1,0 +1,168 @@
+{
+    "id": "i40004",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "look",
+    "en_definition": "the act of directing the eyes toward something and perceiving it visually",
+    "tr_word": "bakış",
+    "tr_definition": "gözleri bir şeye yöneltme ve onu görsel olarak algılama eylemi",
+    "ru_word": "взгляд",
+    "ru_definition": "акт направления глаз на что-либо и его визуальное восприятие",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nazar"
+                ],
+                "Azerbaijani": [
+                    "nəzər"
+                ],
+                "Turkmen": [
+                    "nazar"
+                ],
+                "Uzbek": [
+                    "nazar"
+                ],
+                "Uyghur": [
+                    "نەزەر"
+                ],
+                "Kazakh": [
+                    "назар"
+                ],
+                "Kyrgyz": [
+                    "назар"
+                ],
+                "Karakalpak": [
+                    "názer"
+                ],
+                "Tatar": [
+                    "нәзар"
+                ],
+                "Bashkir": [
+                    "нәзар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "garayış"
+                ],
+                "Uzbek": [
+                    "qarash"
+                ],
+                "Uyghur": [
+                    "قاراش"
+                ],
+                "Kazakh": [
+                    "қарау"
+                ],
+                "Kyrgyz": [
+                    "кароо"
+                ],
+                "Karakalpak": [
+                    "qarau"
+                ],
+                "Tatar": [
+                    "караш",
+                    "карау"
+                ],
+                "Bashkir": [
+                    "ҡараш",
+                    "ҡарау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bakış",
+                    "bakma"
+                ],
+                "Azerbaijani": [
+                    "baxış"
+                ],
+                "Turkmen": [
+                    "bakyş"
+                ],
+                "Uzbek": [
+                    "boqish"
+                ],
+                "Uyghur": [
+                    "بېقىش"
+                ],
+                "Kazakh": [
+                    "бақылау"
+                ],
+                "Karakalpak": [
+                    "baǵıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көз салу"
+                ],
+                "Kyrgyz": [
+                    "көз салуу"
+                ],
+                "Bashkir": [
+                    "күҙ һалыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temaşa"
+                ],
+                "Azerbaijani": [
+                    "tamaşa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆرۈش"
+                ],
+                "Karakalpak": [
+                    "kório"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻz tashlash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "serediş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "байкоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шолу"
+                ]
+            }
+        }
+    ]
+}

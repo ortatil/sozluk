@@ -1,0 +1,162 @@
+{
+    "id": "i9084",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "boxed",
+    "en_definition": "enclosed in or as if in a box",
+    "tr_word": "kutulanmış",
+    "tr_definition": "bir kutunun içine yerleştirilmiş veya kutuyla çevrelenmiş",
+    "ru_word": "упакованный",
+    "ru_definition": "помещенный в коробку или упакованный как в коробку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qablaşdırılmış"
+                ],
+                "Turkmen": [
+                    "gaplanan",
+                    "gaply"
+                ],
+                "Kazakh": [
+                    "қапталған"
+                ],
+                "Kyrgyz": [
+                    "капталган"
+                ],
+                "Karakalpak": [
+                    "qaptalǵan"
+                ],
+                "Tatar": [
+                    "капланган"
+                ],
+                "Bashkir": [
+                    "ҡапланған",
+                    "ҡапҡа һалынған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kutulanmış",
+                    "kutulu"
+                ],
+                "Azerbaijani": [
+                    "qutulanmış"
+                ],
+                "Turkmen": [
+                    "gutulanan"
+                ],
+                "Uzbek": [
+                    "qutilangan",
+                    "qutiga solingan"
+                ],
+                "Uyghur": [
+                    "قۇتىلانغان",
+                    "قۇتىلىق"
+                ],
+                "Kyrgyz": [
+                    "кутуланган",
+                    "кутудагы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qadoqlangan"
+                ],
+                "Kazakh": [
+                    "қорапталған"
+                ],
+                "Karakalpak": [
+                    "qoraplanǵan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жәшіктелген"
+                ],
+                "Karakalpak": [
+                    "jáshiklengen"
+                ],
+                "Bashkir": [
+                    "йәшниккә һалынған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paketlenmiş"
+                ],
+                "Azerbaijani": [
+                    "bağlanmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻralgan"
+                ],
+                "Karakalpak": [
+                    "oralǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "таңгакталган"
+                ],
+                "Bashkir": [
+                    "төргәкләнгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mahfuz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daşlanan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاچىلانغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тартмадагы",
+                    "тартмага салынган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ябык"
+                ]
+            }
+        }
+    ]
+}

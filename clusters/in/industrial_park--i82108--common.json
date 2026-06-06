@@ -1,0 +1,106 @@
+{
+    "id": "i82108",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "industrial park",
+    "en_definition": "a tract of land at a distance from city center that is designed for a cluster of businesses and factories",
+    "tr_word": "organize sanayi bölgesi",
+    "tr_definition": "şehir merkezinden uzakta, işletme ve fabrikaların bir arada bulunması için tasarlanmış arazi parçası",
+    "ru_word": "промышленный парк",
+    "ru_definition": "территория, удаленная от центра города, предназначенная для размещения группы предприятий и заводов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanayi sitesi",
+                    "sanayi alanı"
+                ],
+                "Azerbaijani": [
+                    "sənaye parkı",
+                    "sənaye məhəlləsi",
+                    "sənaye zonası",
+                    "sənaye kompleksi"
+                ],
+                "Turkmen": [
+                    "senagat zolagy",
+                    "senagat meýdançasy",
+                    "senagat toplumy"
+                ],
+                "Uzbek": [
+                    "sanoat hududi",
+                    "sanoat zonasi",
+                    "sanoat majmuasi"
+                ],
+                "Uyghur": [
+                    "سانائەت رايونى",
+                    "سانائەت باغچىسى",
+                    "سانائەت مەيدانى"
+                ],
+                "Karakalpak": [
+                    "sanaat aymaǵı",
+                    "sanaat parki"
+                ],
+                "Tatar": [
+                    "сәнәгать паркы",
+                    "сәнәгать зонасы"
+                ],
+                "Bashkir": [
+                    "сәнәғәт паркы",
+                    "сәнәғәт майҙансығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өндірістік аймақ",
+                    "өнеркәсіптік аймақ",
+                    "өнеркәсіптік алаң",
+                    "өндіріс орны"
+                ],
+                "Kyrgyz": [
+                    "өнөр жай аймагы",
+                    "өнөр жай паркы",
+                    "өнөр жай тилкеси",
+                    "өндүрүш аймагы"
+                ],
+                "Karakalpak": [
+                    "óndiris zonası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җитештерү паркы"
+                ],
+                "Bashkir": [
+                    "етештереү паркы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "organize sanayi bölgesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "üretim bölgesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ishlab chiqarish hududi"
+                ]
+            }
+        }
+    ]
+}

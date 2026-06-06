@@ -1,0 +1,196 @@
+# Sinking
+| Field | Detail |
+|---|---|
+| **ID** | i75390 |
+| **English** | sinking |
+| **Type** | noun |
+| **Definition** | a descent as through liquid (especially through water) |
+| **Source** | common |
+| **Ortatil** | ḅatış, çökmä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḅatış** | **çökmä** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.67 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 1 | 0.60 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **3.27** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پېتىش | petiş |
+| چۆكۈش | çöküş |
+| **Kazakh** | |
+| бату | batu |
+| шөгу | şögu |
+| **Kyrgyz** | |
+| батыш | batış |
+| чөгүү | çögüü |
+| чөгүүчүлүк | çögüüçülük |
+| **Tatar** | |
+| бату | batu |
+| чуму | çumu |
+| төшү | töşü |
+| **Bashkir** | |
+| батыу | batıu |
+| сумыу | sumıu |
+| төшөү | töşöü |
+
+```json
+{
+    "id": "i75390",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sinking",
+    "en_definition": "a descent as through liquid (especially through water)",
+    "tr_word": "batma",
+    "tr_definition": "Sıvı içinde, özellikle suyun içinde aşağı doğru inme eylemi.",
+    "ru_word": "погружение",
+    "ru_definition": "Спуск сквозь жидкость (особенно сквозь воду).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "batma",
+                    "batış"
+                ],
+                "Azerbaijani": [
+                    "batma"
+                ],
+                "Turkmen": [
+                    "batma"
+                ],
+                "Uzbek": [
+                    "botish"
+                ],
+                "Uyghur": [
+                    "پېتىش"
+                ],
+                "Kazakh": [
+                    "бату"
+                ],
+                "Kyrgyz": [
+                    "батыш"
+                ],
+                "Karakalpak": [
+                    "batıo"
+                ],
+                "Tatar": [
+                    "бату"
+                ],
+                "Bashkir": [
+                    "батыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çökme"
+                ],
+                "Turkmen": [
+                    "çökme",
+                    "çökgünlik"
+                ],
+                "Uzbek": [
+                    "cho'kish"
+                ],
+                "Uyghur": [
+                    "چۆكۈش"
+                ],
+                "Kazakh": [
+                    "шөгу"
+                ],
+                "Kyrgyz": [
+                    "чөгүү"
+                ],
+                "Karakalpak": [
+                    "shógio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qərq olma"
+                ],
+                "Uzbek": [
+                    "g'arq bo'lish"
+                ],
+                "Uyghur": [
+                    "غەرق بولۇش"
+                ],
+                "Karakalpak": [
+                    "ǵarq bolıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чуму"
+                ],
+                "Bashkir": [
+                    "сумыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төшү"
+                ],
+                "Bashkir": [
+                    "төшөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dalma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "enmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "суға кету"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чөгүүчүлүк"
+                ]
+            }
+        }
+    ]
+}
+```
+

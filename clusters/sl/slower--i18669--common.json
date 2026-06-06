@@ -1,0 +1,130 @@
+{
+    "id": "i18669",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "slower",
+    "en_definition": "more slowly",
+    "tr_word": "daha yavaş",
+    "tr_definition": "daha düşük bir hızda, daha ağır bir şekilde",
+    "ru_word": "медленнее",
+    "ru_definition": "с меньшей скоростью, более медленно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "akymlyrak"
+                ],
+                "Kazakh": [
+                    "ақырынырақ"
+                ],
+                "Kyrgyz": [
+                    "акырыныраак",
+                    "акырын"
+                ],
+                "Karakalpak": [
+                    "aqırınıraq"
+                ],
+                "Tatar": [
+                    "әкренрәк"
+                ],
+                "Bashkir": [
+                    "аҡрыныраҡ",
+                    "аҡрын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "haýallyrak"
+                ],
+                "Kazakh": [
+                    "баяуырақ"
+                ],
+                "Kyrgyz": [
+                    "жайыраак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýuwaşrak"
+                ],
+                "Tatar": [
+                    "якрак"
+                ],
+                "Bashkir": [
+                    "яйыраҡ",
+                    "яй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "daha yavaş",
+                    "daha ağır",
+                    "daha ağırbaşlı"
+                ],
+                "Azerbaijani": [
+                    "daha yavaş",
+                    "daha ağır",
+                    "daha ləng"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oshshiqmasdan"
+                ],
+                "Uyghur": [
+                    "ئاستىراق",
+                    "ئاستا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жайырақ"
+                ],
+                "Karakalpak": [
+                    "jayıraq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sekinroq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "imillabroq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "báseńіrek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "салмаграк"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "id": "synset-oewn-90002921-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snow day",
+    "en_definition": "a day on which school or other events are cancelled due to snow",
+    "tr_word": "kar tatili",
+    "tr_definition": "kar yağışı nedeniyle okul veya diğer etkinliklerin iptal edildiği gün",
+    "ru_word": "день снежных заносов",
+    "ru_definition": "день, когда занятия в школах или другие мероприятия отменяются из-за сильного снегопада",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar tatili",
+                    "kar günü"
+                ],
+                "Azerbaijani": [
+                    "qar günü",
+                    "qar tətili"
+                ],
+                "Turkmen": [
+                    "gar güni",
+                    "gar dynç güni",
+                    "gar sebäpli dynç"
+                ],
+                "Uzbek": [
+                    "qor kuni",
+                    "qorli kun",
+                    "qor tufayli dam olish kuni"
+                ],
+                "Uyghur": [
+                    "قار كۈنى"
+                ],
+                "Kazakh": [
+                    "қарлы күн"
+                ],
+                "Kyrgyz": [
+                    "кар күнү",
+                    "кар токтоо"
+                ],
+                "Karakalpak": [
+                    "qarlı kún",
+                    "qarlı dem alıs"
+                ],
+                "Tatar": [
+                    "кар көне"
+                ],
+                "Bashkir": [
+                    "ҡарлы көн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قار سەۋەبلىك دەم ئېلىش كۈنى"
+                ],
+                "Kyrgyz": [
+                    "кар жааган күн"
+                ],
+                "Karakalpak": [
+                    "qar dem alısı"
+                ],
+                "Bashkir": [
+                    "ҡар яуған көн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "боранды күн"
+                ],
+                "Tatar": [
+                    "буран көне"
+                ],
+                "Bashkir": [
+                    "буранлы көн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "демалыс күні"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кар яуган көн"
+                ]
+            }
+        }
+    ]
+}

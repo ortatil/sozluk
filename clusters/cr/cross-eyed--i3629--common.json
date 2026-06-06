@@ -1,0 +1,117 @@
+{
+    "id": "i3629",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "cross-eyed",
+    "en_definition": "having convergent strabismus",
+    "tr_word": "şaşı",
+    "tr_definition": "Gözleri aynı noktaya bakamayan, bakışları birbirine paralel olmayan",
+    "ru_word": "косоглазый",
+    "ru_definition": "Страдающий косоглазием, имеющий глаза, направленные в разные стороны или к носу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "g'ilay"
+                ],
+                "Kazakh": [
+                    "қыли"
+                ],
+                "Kyrgyz": [
+                    "кылый"
+                ],
+                "Karakalpak": [
+                    "qıli",
+                    "qıli kóz"
+                ],
+                "Tatar": [
+                    "кылый"
+                ],
+                "Bashkir": [
+                    "ҡылый"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyşyk",
+                    "gyşyk gözli"
+                ],
+                "Kyrgyz": [
+                    "кыйшык",
+                    "кылый көз"
+                ],
+                "Tatar": [
+                    "кылый күзле"
+                ],
+                "Bashkir": [
+                    "ҡылый күҙле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şaşı"
+                ],
+                "Azerbaijani": [
+                    "şaşı"
+                ],
+                "Turkmen": [
+                    "çasy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çapraz bakışlı"
+                ],
+                "Azerbaijani": [
+                    "çəp",
+                    "çəpgöz"
+                ],
+                "Uyghur": [
+                    "چەپەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qiyshiq"
+                ],
+                "Uyghur": [
+                    "قىيىق",
+                    "قىيىق كۆز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "moshguruch"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көзі қыли"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қитар"
+                ]
+            }
+        }
+    ]
+}

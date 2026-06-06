@@ -1,0 +1,88 @@
+{
+    "id": "i117436",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "industrial revolution",
+    "en_definition": "the transformation from an agricultural to an industrial nation",
+    "tr_word": "sanayi devrimi",
+    "tr_definition": "tarıma dayalı bir toplumdan sanayileşmiş bir ulusa geçiş süreci",
+    "ru_word": "промышленная революция",
+    "ru_definition": "переход от аграрной экономики к промышленному производству",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanayi devrimi",
+                    "sanayi inkılabı"
+                ],
+                "Azerbaijani": [
+                    "sənaye inqilabı",
+                    "sənaye çevrilişi"
+                ],
+                "Turkmen": [
+                    "senagat öwrülişigi",
+                    "senagat rewolýusiýasy"
+                ],
+                "Uzbek": [
+                    "sanoat toʻntarishi",
+                    "sanoat inqilobi"
+                ],
+                "Uyghur": [
+                    "سانائەت ئىنقىلابى",
+                    "سانائەت بۇرۇلۇشى"
+                ],
+                "Karakalpak": [
+                    "sanaat tóńkerisi"
+                ],
+                "Tatar": [
+                    "сәнәгать инкыйлабы",
+                    "сәнәгать борылышы"
+                ],
+                "Bashkir": [
+                    "сәнәғәт түңкәрелеше",
+                    "сәнәғәт революцияһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "endüstri devrimi"
+                ],
+                "Uzbek": [
+                    "industrial inqilob"
+                ],
+                "Kazakh": [
+                    "индустриялық төңкеріс"
+                ],
+                "Kyrgyz": [
+                    "индустриялык төңкөрүш"
+                ],
+                "Bashkir": [
+                    "индустриаль түңкәрелеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өнеркәсіп төңкерісі",
+                    "өнеркәсіптік революция"
+                ],
+                "Kyrgyz": [
+                    "өнөр жай төңкөрүшү",
+                    "өнөр жай ыңкылабы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kásip-óner tóńkerisi"
+                ]
+            }
+        }
+    ]
+}

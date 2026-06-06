@@ -1,0 +1,95 @@
+# Memphis
+| Field | Detail |
+|---|---|
+| **ID** | i84673 |
+| **English** | memphis |
+| **Type** | noun |
+| **Definition** | largest city of Tennessee; located in southwestern Tennessee on bluffs overlooking the Mississippi River |
+| **Source** | common |
+| **Ortatil** | memfis |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **memfis** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مەمفىس | mämfis |
+| **Kazakh** | |
+| Мемфис | memfis |
+| **Kyrgyz** | |
+| Мемфис | memfis |
+| **Tatar** | |
+| Мемфис | memfis |
+| **Bashkir** | |
+| Мемфис | memfis |
+
+```json
+{
+    "id": "i84673",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "memphis",
+    "en_definition": "largest city of Tennessee; located in southwestern Tennessee on bluffs overlooking the Mississippi River",
+    "tr_word": "Memphis",
+    "tr_definition": "Tennessee eyaletinin en büyük şehri; Mississippi Nehri'ne bakan tepeler üzerinde, Tennessee'nin güneybatısında yer alır.",
+    "ru_word": "Мемфис",
+    "ru_definition": "крупнейший город штата Теннесси; расположен на юго-западе штата на береговых уступах реки Миссисипи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Memphis"
+                ],
+                "Azerbaijani": [
+                    "Memfis"
+                ],
+                "Turkmen": [
+                    "Memfis"
+                ],
+                "Uzbek": [
+                    "Memfis"
+                ],
+                "Uyghur": [
+                    "مەمفىس"
+                ],
+                "Kazakh": [
+                    "Мемфис"
+                ],
+                "Kyrgyz": [
+                    "Мемфис"
+                ],
+                "Karakalpak": [
+                    "Memfis"
+                ],
+                "Tatar": [
+                    "Мемфис"
+                ],
+                "Bashkir": [
+                    "Мемфис"
+                ]
+            }
+        }
+    ]
+}
+```
+

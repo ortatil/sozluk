@@ -1,0 +1,138 @@
+{
+    "id": "i94065",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "webmaster",
+    "en_definition": "a technician who designs or maintains a website",
+    "tr_word": "web yöneticisi",
+    "tr_definition": "Bir web sitesini tasarlayan veya bakımını yapan teknisyen.",
+    "ru_word": "веб-мастер",
+    "ru_definition": "специалист, занимающийся разработкой или поддержкой веб-сайта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sayt rəhbəri",
+                    "sayt idarəçisi"
+                ],
+                "Turkmen": [
+                    "saýt dolandyryjysy",
+                    "saýt eýesi"
+                ],
+                "Uzbek": [
+                    "sayt boshqaruvchisi",
+                    "sayt mutaxassisi"
+                ],
+                "Kyrgyz": [
+                    "сайт адиси"
+                ],
+                "Karakalpak": [
+                    "sayt basqarıoshısı",
+                    "sayt iyesi"
+                ],
+                "Bashkir": [
+                    "сайт идарасы",
+                    "сайт төҙөүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tor hünärmeni"
+                ],
+                "Kazakh": [
+                    "торапшы",
+                    "торап әкімшісі"
+                ],
+                "Kyrgyz": [
+                    "торбекетчи",
+                    "торбашчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tarmoqboshi",
+                    "tarmoq ma'muri"
+                ],
+                "Karakalpak": [
+                    "tarmaq basqarıoshısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "желібасшы"
+                ],
+                "Bashkir": [
+                    "селтәр идарасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağ yöneticisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "site yöneticisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağ uzmanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "site sorumlusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şəbəkəşünas",
+                    "şəbəkə ustası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تور باشقۇرغۇچى",
+                    "تور بېكەت باشقۇرغۇچىسى",
+                    "تور بېكەت مەسئۇلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сәхифәче",
+                    "сәхифә иясе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төенче"
+                ]
+            }
+        }
+    ]
+}

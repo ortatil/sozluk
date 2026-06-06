@@ -1,0 +1,90 @@
+{
+    "id": "i56847",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "over-the-counter drug",
+    "en_definition": "a drug that is sold without a prescription",
+    "tr_word": "reçetesiz satılan ilaç",
+    "tr_definition": "doktor reçetesi olmadan eczanelerden satın alınabilen ilaç",
+    "ru_word": "безрецептурный препарат",
+    "ru_definition": "лекарственное средство, которое можно приобрести в аптеке без рецепта врача",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "reçetesiz ilaç"
+                ],
+                "Azerbaijani": [
+                    "reseptsiz dərman",
+                    "reseptsiz satılan dərman"
+                ],
+                "Turkmen": [
+                    "reseptsiz derman"
+                ],
+                "Uzbek": [
+                    "retseptsiz dori"
+                ],
+                "Uyghur": [
+                    "رېتسىپسىز دورا"
+                ],
+                "Kazakh": [
+                    "рецептсіз дәрі",
+                    "рецептсіз босатылатын дәрі"
+                ],
+                "Kyrgyz": [
+                    "рецептсиз дары"
+                ],
+                "Karakalpak": [
+                    "receptsiz dári"
+                ],
+                "Tatar": [
+                    "рецептсыз дару"
+                ],
+                "Bashkir": [
+                    "рецептһыҙ дарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "erkin satylýan derman"
+                ],
+                "Uzbek": [
+                    "erkin sotiladigan dori"
+                ],
+                "Uyghur": [
+                    "ئەركىن سېتىلىدىغان دورا"
+                ],
+                "Kazakh": [
+                    "еркін сатылатын дәрі"
+                ],
+                "Kyrgyz": [
+                    "эркин сатылуучу дары"
+                ],
+                "Karakalpak": [
+                    "erkin satılatuǵın dári"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирекле сатыла торган дару"
+                ],
+                "Bashkir": [
+                    "ирекле һатыуҙағы дарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "serbest satılan ilaç"
+                ]
+            }
+        }
+    ]
+}

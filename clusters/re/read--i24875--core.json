@@ -1,0 +1,122 @@
+{
+    "id": "i24875",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "read",
+    "en_definition": "interpret something that is written or printed",
+    "tr_word": "okumak",
+    "tr_definition": "yazılmış veya basılmış bir şeyi yorumlamak",
+    "ru_word": "читать",
+    "ru_definition": "воспринимать и понимать написанный или напечатанный текст",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "okumak"
+                ],
+                "Azerbaijani": [
+                    "oxumaq"
+                ],
+                "Turkmen": [
+                    "okamak"
+                ],
+                "Uzbek": [
+                    "o'qimoq"
+                ],
+                "Uyghur": [
+                    "ئوقۇماق"
+                ],
+                "Kazakh": [
+                    "оқу"
+                ],
+                "Kyrgyz": [
+                    "окуу"
+                ],
+                "Karakalpak": [
+                    "oqıu"
+                ],
+                "Tatar": [
+                    "укырга"
+                ],
+                "Bashkir": [
+                    "уҡыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mütalaa etmek"
+                ],
+                "Azerbaijani": [
+                    "mütaliə etmək"
+                ],
+                "Turkmen": [
+                    "mutalaa etmek"
+                ],
+                "Uzbek": [
+                    "mutolaa qilmoq"
+                ],
+                "Uyghur": [
+                    "مۇتالىئە قىلماق"
+                ],
+                "Karakalpak": [
+                    "mútáláá etiu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıraat etmek"
+                ],
+                "Azerbaijani": [
+                    "qiraət etmək"
+                ],
+                "Kazakh": [
+                    "қырағаттау"
+                ],
+                "Kyrgyz": [
+                    "кыраат кылуу"
+                ],
+                "Tatar": [
+                    "кыйраәт кылырга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gözden geçirmek"
+                ],
+                "Bashkir": [
+                    "күҙ йөрөтөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡарау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەتقىق قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тилге алуу"
+                ]
+            }
+        }
+    ]
+}

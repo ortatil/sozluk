@@ -1,0 +1,87 @@
+{
+    "id": "i29859",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "self-destruct",
+    "en_definition": "do away with oneself or itself",
+    "tr_word": "kendi kendini imha etmek",
+    "tr_definition": "kendi varlığına veya işleyişine son vermek",
+    "ru_word": "самоликвидироваться",
+    "ru_definition": "уничтожить самого себя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "özünü məhv etmək",
+                    "özünü yox etmək",
+                    "özünü dağıtmaq",
+                    "özünü aradan qaldırmaq"
+                ],
+                "Turkmen": [
+                    "özüni ýok etmek",
+                    "özüni heläk etmek",
+                    "özüni mahv etmek",
+                    "öz-özüni dargatmak"
+                ],
+                "Uzbek": [
+                    "oʻzini yoʻq qilmoq",
+                    "oʻzini mahv etmoq",
+                    "oʻzini halok qilmoq",
+                    "oʻzini barbod qilmoq"
+                ],
+                "Uyghur": [
+                    "ئۆزىنى ۋەيران قىلماق",
+                    "ئۆزىنى يوقاتماق",
+                    "ئۆزىنى ھالاك قىلماق",
+                    "ئۆزىنى ئۆلتۈرمەك"
+                ],
+                "Kazakh": [
+                    "өзін-өзі жою",
+                    "өзін-өзі құрту",
+                    "өзін-өзі талқандау",
+                    "өзін-өзі опат ету"
+                ],
+                "Kyrgyz": [
+                    "өзүн-өзү жок кылуу",
+                    "өзүн-өзү кыйратуу",
+                    "өзүн-өзү талкалоо",
+                    "өзүн-өзү маку кылуу"
+                ],
+                "Karakalpak": [
+                    "ózin-ózi joq etio",
+                    "ózin-ózi qurtıo",
+                    "ózin-ózi pánt etio",
+                    "ózin-ózi talqanlao"
+                ],
+                "Tatar": [
+                    "үзен-үзе юк итү",
+                    "үзен-үзе бетерү",
+                    "үзен-үзе җимерү"
+                ],
+                "Bashkir": [
+                    "үҙ-үҙен юҡ итеү",
+                    "үҙ-үҙен һәләк итеү",
+                    "үҙ-үҙен емереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendini imha etmek",
+                    "kendini yok etmek",
+                    "kendi kendini bitirmek",
+                    "kendi kendini mahvetmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "һәлак итү"
+                ]
+            }
+        }
+    ]
+}

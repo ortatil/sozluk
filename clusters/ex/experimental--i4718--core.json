@@ -1,0 +1,127 @@
+{
+    "id": "i4718",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "experimental",
+    "en_definition": "of the nature of or undergoing an experiment",
+    "tr_word": "deneysel",
+    "tr_definition": "deney niteliğinde olan veya deneye dayanan",
+    "ru_word": "экспериментальный",
+    "ru_definition": "относящийся к эксперименту или основанный на опыте",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tecrübi"
+                ],
+                "Azerbaijani": [
+                    "təcrübi"
+                ],
+                "Turkmen": [
+                    "tejribe"
+                ],
+                "Uzbek": [
+                    "tajribaviy"
+                ],
+                "Uyghur": [
+                    "تەجرىبىۋى"
+                ],
+                "Kazakh": [
+                    "тәжірибелік"
+                ],
+                "Kyrgyz": [
+                    "тажрыйбалык"
+                ],
+                "Karakalpak": [
+                    "tájіribelіk"
+                ],
+                "Tatar": [
+                    "тәҗрибәви"
+                ],
+                "Bashkir": [
+                    "тәжрибә",
+                    "тәжрибәүи"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınamalı"
+                ],
+                "Azerbaijani": [
+                    "sınaq"
+                ],
+                "Turkmen": [
+                    "synag"
+                ],
+                "Uzbek": [
+                    "sinovli"
+                ],
+                "Uyghur": [
+                    "سىناق"
+                ],
+                "Kazakh": [
+                    "сынақ",
+                    "сынамалы"
+                ],
+                "Kyrgyz": [
+                    "сыноочу",
+                    "сынамык"
+                ],
+                "Karakalpak": [
+                    "sınaq",
+                    "sınamalı"
+                ],
+                "Tatar": [
+                    "сынау",
+                    "сынаулы"
+                ],
+                "Bashkir": [
+                    "һынау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tejribe-synag"
+                ],
+                "Uzbek": [
+                    "tajriba-sinov"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deneyimsel",
+                    "denemeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سىناق خاراكتېرلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەجرىبە خاراكتېرلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "eksperimental"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "id": "i39022",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "major surgery",
+    "en_definition": "any surgical procedure that involves anesthesia or respiratory assistance",
+    "tr_word": "büyük cerrahi müdahale",
+    "tr_definition": "anestezi veya solunum desteği gerektiren herhangi bir cerrahi prosedür",
+    "ru_word": "полостная операция",
+    "ru_definition": "любая хирургическая процедура, требующая анестезии или искусственной вентиляции легких",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağır ameliyat"
+                ],
+                "Azerbaijani": [
+                    "ağır cərrahiyyə",
+                    "ağır əməliyyat"
+                ],
+                "Turkmen": [
+                    "agyr operasiýa"
+                ],
+                "Uzbek": [
+                    "ogʻir operatsiya"
+                ],
+                "Uyghur": [
+                    "ئېغىر ئوپېراتسىيە"
+                ],
+                "Kazakh": [
+                    "ауыр ота"
+                ],
+                "Karakalpak": [
+                    "auır operaciya"
+                ],
+                "Tatar": [
+                    "авыр операция"
+                ],
+                "Bashkir": [
+                    "ауыр операция"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ ئوپېراتسىيە"
+                ],
+                "Kyrgyz": [
+                    "чоң операция"
+                ],
+                "Tatar": [
+                    "зур операция"
+                ],
+                "Bashkir": [
+                    "ҙур операция"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "katta jarrohlik"
+                ],
+                "Tatar": [
+                    "катлаулы операция"
+                ],
+                "Bashkir": [
+                    "ҡатмарлы операция"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyük ameliyat"
+                ],
+                "Azerbaijani": [
+                    "böyük əməliyyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly operasiýa",
+                    "çylşyrymly operasiýa"
+                ],
+                "Kyrgyz": [
+                    "оор операция"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "murakkab jarrohlik amaliyoti"
+                ],
+                "Uyghur": [
+                    "مۇرەككەپ ئوپېراتسىيە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күрделі ота",
+                    "күрделі хирургиялық амал"
+                ],
+                "Karakalpak": [
+                    "kúrdeli operaciya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үлкен ота"
+                ],
+                "Karakalpak": [
+                    "úlken operaciya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "esaslı cerrahi müdahale"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "татаал операция"
+                ]
+            }
+        }
+    ]
+}

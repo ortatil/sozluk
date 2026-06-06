@@ -1,0 +1,290 @@
+# Obsessed
+| Field | Detail |
+|---|---|
+| **ID** | i3050 |
+| **English** | obsessed |
+| **Type** | adjective |
+| **Definition** | having or showing excessive or compulsive concern with something |
+| **Source** | common |
+| **Ortatil** | müptälä, berilgän, mäcnun, şäydä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **müptälä** | **berilgän** | **mäcnun** | **şäydä** | **aşıq** | **ıntızar** |
+|---|---|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Turkmen | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.33 | 0.67 | 0.33 | 0.33 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 0.50 | 1 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.80 | 0.40 | 0.20 | 0.40 | 0.60 |
+| *In All* | ✅ | ✅ | ✅ | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |  |  |
+| **O'TQ** | **3.27** | **3.13** | **2.57** | **2.53** | **2.23** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بېرىلگەن | berilgän |
+| مۇپتالا | muptala |
+| مەپتۇن | mäptun |
+| شەيدا | şäyda |
+| **Kazakh** | |
+| ынтық | ıntıq |
+| құмар | qumar |
+| құныққан | qunıqqan |
+| **Kyrgyz** | |
+| берилген | berilgen |
+| мажнун | majnun |
+| ашык | aşık |
+| ынтызар | ıntızar |
+| кумар | kumar |
+| **Tatar** | |
+| бирелгән | birelgän |
+| мөбтәлә | möbtälä |
+| мәҗнүн | mäjnün |
+| гашыйк | gaşıyk |
+| тарафдар | tarafdar |
+| **Bashkir** | |
+| бирелгән | birelgän |
+| мөбтәлә | möbtälä |
+| ғашиҡ | ğaşiq |
+| тарафдар | tarafdar |
+
+```json
+{
+    "id": "i3050",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "obsessed",
+    "en_definition": "having or showing excessive or compulsive concern with something",
+    "tr_word": "takıntılı",
+    "tr_definition": "bir şeye karşı aşırı veya saplantılı bir ilgi gösteren",
+    "ru_word": "одержимый",
+    "ru_definition": "проявляющий чрезмерную или навязчивую озабоченность чем-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "berlen"
+                ],
+                "Uzbek": [
+                    "berilgan"
+                ],
+                "Uyghur": [
+                    "بېرىلگەن"
+                ],
+                "Kazakh": [
+                    "беріліп кеткен"
+                ],
+                "Kyrgyz": [
+                    "берилген"
+                ],
+                "Karakalpak": [
+                    "berilgen"
+                ],
+                "Tatar": [
+                    "бирелгән"
+                ],
+                "Bashkir": [
+                    "бирелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müptela"
+                ],
+                "Azerbaijani": [
+                    "mübtəla"
+                ],
+                "Uzbek": [
+                    "mubtalo"
+                ],
+                "Uyghur": [
+                    "مۇپتالا"
+                ],
+                "Karakalpak": [
+                    "mubtala"
+                ],
+                "Tatar": [
+                    "мөбтәлә"
+                ],
+                "Bashkir": [
+                    "мөбтәлә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meşgul"
+                ],
+                "Turkmen": [
+                    "mejnun"
+                ],
+                "Uyghur": [
+                    "مەپتۇن"
+                ],
+                "Kyrgyz": [
+                    "мажнун"
+                ],
+                "Tatar": [
+                    "мәҗнүн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aşyk"
+                ],
+                "Uzbek": [
+                    "asir"
+                ],
+                "Kazakh": [
+                    "есі кеткен"
+                ],
+                "Kyrgyz": [
+                    "ашык"
+                ],
+                "Karakalpak": [
+                    "ashıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şeýda"
+                ],
+                "Uzbek": [
+                    "shaydo"
+                ],
+                "Uyghur": [
+                    "شەيدا"
+                ],
+                "Karakalpak": [
+                    "shaydo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ынтық"
+                ],
+                "Kyrgyz": [
+                    "ынтызар"
+                ],
+                "Karakalpak": [
+                    "ıntızar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tutkulu"
+                ],
+                "Azerbaijani": [
+                    "tutqun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "heyran"
+                ],
+                "Turkmen": [
+                    "haýran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məftun"
+                ],
+                "Uzbek": [
+                    "maftun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құмар"
+                ],
+                "Kyrgyz": [
+                    "кумар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гашыйк"
+                ],
+                "Bashkir": [
+                    "ғашиҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тарафдар"
+                ],
+                "Bashkir": [
+                    "тарафдар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "saplantılı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takıntılı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vurğun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құныққан"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,149 @@
+# Tassel flower
+| Field | Detail |
+|---|---|
+| **ID** | i100098 |
+| **English** | tassel flower |
+| **Type** | noun |
+| **Definition** | tropical Asiatic annual cultivated for its small tassel-shaped heads of scarlet flowers |
+| **Source** | common |
+| **Ortatil** | päpukgul |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پۆپۈكگۈل | pöpükgül |
+| **Kazakh** | |
+| шашақгүл | şaşaqgül |
+| **Bashkir** | |
+| суҡсәскә | suqsäskä |
+
+```json
+{
+    "id": "i100098",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tassel flower",
+    "en_definition": "tropical Asiatic annual cultivated for its small tassel-shaped heads of scarlet flowers",
+    "tr_word": "püskül çiçeği",
+    "tr_definition": "Küçük, kırmızı ve püskül şeklindeki çiçek başları için yetiştirilen, tropikal Asya kökenli tek yıllık bir bitki.",
+    "ru_word": "эмилия",
+    "ru_definition": "Тропическое азиатское однолетнее растение, культивируемое из-за его небольших алых соцветий в форме кисточек.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "püskül çiçeği"
+                ],
+                "Azerbaijani": [
+                    "püsküllü çiçək",
+                    "püskülçiçək"
+                ],
+                "Turkmen": [
+                    "pürçüli gül",
+                    "pürçükgül"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шашақгүл",
+                    "шашақты гүл"
+                ],
+                "Kyrgyz": [
+                    "чачы гүл"
+                ],
+                "Karakalpak": [
+                    "shashaq gúl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "popukgul"
+                ],
+                "Uyghur": [
+                    "پۆپۈكگۈل",
+                    "پۆپۈكچە گۈل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чулпы чәчәк",
+                    "чулпылы чәчәк"
+                ],
+                "Bashkir": [
+                    "суҡлы сәскә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fırça çiçeği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qotazlı çiçək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "paxmoqgul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shokilagul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кызыл чачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "gúl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәскәле суҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "суҡсәскә"
+                ]
+            }
+        }
+    ]
+}
+```
+

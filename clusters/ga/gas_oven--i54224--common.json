@@ -1,0 +1,69 @@
+{
+    "id": "i54224",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gas oven",
+    "en_definition": "a domestic oven fueled by gas",
+    "tr_word": "gazlı fırın",
+    "tr_definition": "Gaz yakıtıyla çalışan ev tipi fırın.",
+    "ru_word": "газовая духовка",
+    "ru_definition": "Бытовая духовка, работающая на газе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gazlı fırın"
+                ],
+                "Azerbaijani": [
+                    "qaz sobası",
+                    "qaz peçi",
+                    "qaz kürəsi"
+                ],
+                "Turkmen": [
+                    "gaz peji",
+                    "gaz duhowkasy",
+                    "gaz ojagy"
+                ],
+                "Uzbek": [
+                    "gaz pechi",
+                    "gaz o'chog'i",
+                    "gazli pech"
+                ],
+                "Uyghur": [
+                    "گاز ئوچىقى",
+                    "گاز پېچى"
+                ],
+                "Kazakh": [
+                    "газ пеші",
+                    "газ плитасы",
+                    "газ ошағы"
+                ],
+                "Kyrgyz": [
+                    "газ меши",
+                    "газ меш",
+                    "газ очогу"
+                ],
+                "Karakalpak": [
+                    "gaz peshi",
+                    "gaz plitası"
+                ],
+                "Tatar": [
+                    "газ миче",
+                    "газлы мич"
+                ],
+                "Bashkir": [
+                    "газ мейесе",
+                    "газ плитаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğalgazlı fırın"
+                ]
+            }
+        }
+    ]
+}

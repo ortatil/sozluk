@@ -1,0 +1,90 @@
+{
+    "id": "i61168",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "windmill",
+    "en_definition": "a mill that is powered by the wind",
+    "tr_word": "yel değirmeni",
+    "tr_definition": "rüzgâr gücüyle çalışan değirmen",
+    "ru_word": "ветряная мельница",
+    "ru_definition": "мельница, работающая на силе ветра",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yel değirmeni"
+                ],
+                "Azerbaijani": [
+                    "yel dəyirmanı"
+                ],
+                "Turkmen": [
+                    "ýel degirmeni",
+                    "ýeldegirmen"
+                ],
+                "Uzbek": [
+                    "yeltegirmon"
+                ],
+                "Uyghur": [
+                    "يەل تۈگمىنى"
+                ],
+                "Kazakh": [
+                    "жел диірмен",
+                    "желдиірмен"
+                ],
+                "Kyrgyz": [
+                    "жел тегирмен"
+                ],
+                "Karakalpak": [
+                    "jel tirmen",
+                    "jeldi tirmen"
+                ],
+                "Tatar": [
+                    "җил тегермәне",
+                    "җилтегермән"
+                ],
+                "Bashkir": [
+                    "ел тирмәне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شامال تۈگمىنى"
+                ],
+                "Kyrgyz": [
+                    "шамал тегирмен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rüzgar değirmeni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "külək dəyirmanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bodgard"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тирмән"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "id": "i71384",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "news",
+    "en_definition": "information about recent and important events",
+    "tr_word": "haber",
+    "tr_definition": "yeni ve önemli olaylar hakkında bilgi",
+    "ru_word": "новости",
+    "ru_definition": "информация о недавних и важных событиях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haber"
+                ],
+                "Azerbaijani": [
+                    "xəbər"
+                ],
+                "Turkmen": [
+                    "habar"
+                ],
+                "Uzbek": [
+                    "xabar"
+                ],
+                "Uyghur": [
+                    "خەۋەر"
+                ],
+                "Kazakh": [
+                    "хабар"
+                ],
+                "Kyrgyz": [
+                    "кабар"
+                ],
+                "Karakalpak": [
+                    "xabar"
+                ],
+                "Tatar": [
+                    "хәбәр"
+                ],
+                "Bashkir": [
+                    "хәбәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "malumat"
+                ],
+                "Azerbaijani": [
+                    "məlumat"
+                ],
+                "Turkmen": [
+                    "maglumat"
+                ],
+                "Uzbek": [
+                    "ma'lumot"
+                ],
+                "Kazakh": [
+                    "мәлімет"
+                ],
+                "Kyrgyz": [
+                    "маалымат"
+                ],
+                "Tatar": [
+                    "мәгълүмат"
+                ],
+                "Bashkir": [
+                    "мәғлүмәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yangilik"
+                ],
+                "Uyghur": [
+                    "يېڭىلىق"
+                ],
+                "Kazakh": [
+                    "жаңалық"
+                ],
+                "Kyrgyz": [
+                    "жаңылык"
+                ],
+                "Karakalpak": [
+                    "jańalıq"
+                ],
+                "Tatar": [
+                    "яңалык"
+                ],
+                "Bashkir": [
+                    "яңылыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bildiriş"
+                ],
+                "Kyrgyz": [
+                    "билдирүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havadis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "haşiyə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzelik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "darak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېشارەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇچۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "málimleme"
+                ]
+            }
+        }
+    ]
+}

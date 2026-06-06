@@ -1,0 +1,105 @@
+{
+    "id": "i82285",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "plaza",
+    "en_definition": "a public square with room for pedestrians",
+    "tr_word": "meydan",
+    "tr_definition": "yayalar için ayrılmış geniş, açık alan veya alan",
+    "ru_word": "площадь",
+    "ru_definition": "открытое, специально приведенное в порядок пространство в населенном пункте",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meydan"
+                ],
+                "Azerbaijani": [
+                    "meydan",
+                    "meydança"
+                ],
+                "Turkmen": [
+                    "meýdan",
+                    "meýdança"
+                ],
+                "Uzbek": [
+                    "maydon"
+                ],
+                "Uyghur": [
+                    "مەيدان"
+                ],
+                "Kazakh": [
+                    "майдан"
+                ],
+                "Kyrgyz": [
+                    "майдан"
+                ],
+                "Karakalpak": [
+                    "maydan"
+                ],
+                "Tatar": [
+                    "мәйдан",
+                    "мәйданчык"
+                ],
+                "Bashkir": [
+                    "майҙан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alan"
+                ],
+                "Azerbaijani": [
+                    "alan"
+                ],
+                "Kazakh": [
+                    "алаң"
+                ],
+                "Kyrgyz": [
+                    "аянт"
+                ],
+                "Karakalpak": [
+                    "alań"
+                ],
+                "Bashkir": [
+                    "алаң"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "seýilgäh"
+                ],
+                "Uzbek": [
+                    "sayilgoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çarşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xiyobon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "راستا"
+                ]
+            }
+        }
+    ]
+}

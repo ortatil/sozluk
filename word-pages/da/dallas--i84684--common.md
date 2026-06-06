@@ -1,0 +1,95 @@
+# Dallas
+| Field | Detail |
+|---|---|
+| **ID** | i84684 |
+| **English** | dallas |
+| **Type** | noun |
+| **Definition** | a large commercial and industrial city in northeastern Texas located in the heart of the northern Texas oil fields |
+| **Source** | common |
+| **Ortatil** | dallas |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **dallas** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| داللاس | dallas |
+| **Kazakh** | |
+| Даллас | dallas |
+| **Kyrgyz** | |
+| Даллас | dallas |
+| **Tatar** | |
+| Даллас | dallas |
+| **Bashkir** | |
+| Даллас | dallas |
+
+```json
+{
+    "id": "i84684",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dallas",
+    "en_definition": "a large commercial and industrial city in northeastern Texas located in the heart of the northern Texas oil fields",
+    "tr_word": "Dallas",
+    "tr_definition": "Teksas'ın kuzeydoğusunda, petrol sahalarının merkezinde yer alan büyük bir ticari ve endüstriyel şehir.",
+    "ru_word": "Даллас",
+    "ru_definition": "Крупный коммерческий и промышленный город на северо-востоке Техаса, расположенный в центре нефтяных месторождений северного Техаса.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Dallas"
+                ],
+                "Azerbaijani": [
+                    "Dallas"
+                ],
+                "Turkmen": [
+                    "Dallas"
+                ],
+                "Uzbek": [
+                    "Dallas"
+                ],
+                "Uyghur": [
+                    "داللاس"
+                ],
+                "Kazakh": [
+                    "Даллас"
+                ],
+                "Kyrgyz": [
+                    "Даллас"
+                ],
+                "Karakalpak": [
+                    "Dallas"
+                ],
+                "Tatar": [
+                    "Даллас"
+                ],
+                "Bashkir": [
+                    "Даллас"
+                ]
+            }
+        }
+    ]
+}
+```
+

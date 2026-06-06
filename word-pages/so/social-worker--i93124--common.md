@@ -1,0 +1,202 @@
+# Social worker
+| Field | Detail |
+|---|---|
+| **ID** | i93124 |
+| **English** | social worker |
+| **Type** | noun |
+| **Definition** | someone employed to provide social services (especially to the disadvantaged) |
+| **Source** | common |
+| **Ortatil** | jardamçı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jardamçı** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.83** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жәрдемші | järdemşi |
+| қамқоршы | qamqorşı |
+| **Kyrgyz** | |
+| жардамчы | jardamçı |
+| **Tatar** | |
+| ярдәмче | yardämçe |
+| **Bashkir** | |
+| ярҙамсы | yarzamsı |
+
+```json
+{
+    "id": "i93124",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "social worker",
+    "en_definition": "someone employed to provide social services (especially to the disadvantaged)",
+    "tr_word": "sosyal hizmet uzmanı",
+    "tr_definition": "özellikle dezavantajlı kişilere sosyal hizmet sağlamakla görevli kişi",
+    "ru_word": "социальный работник",
+    "ru_definition": "лицо, нанятое для оказания социальных услуг (особенно малообеспеченным или уязвимым слоям населения)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sosyal hizmet uzmanı",
+                    "sosyal çalışmacı",
+                    "sosyal hizmetli"
+                ],
+                "Azerbaijani": [
+                    "sosial işçi"
+                ],
+                "Turkmen": [
+                    "sosial işgär"
+                ],
+                "Kyrgyz": [
+                    "социалдык кызматкер"
+                ],
+                "Karakalpak": [
+                    "sociallıq xızmetker"
+                ],
+                "Bashkir": [
+                    "социаль хеҙмәткәр",
+                    "социаль хеҙмәтсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yardımçı"
+                ],
+                "Kazakh": [
+                    "жәрдемші"
+                ],
+                "Kyrgyz": [
+                    "жардамчы"
+                ],
+                "Karakalpak": [
+                    "járdemshi"
+                ],
+                "Tatar": [
+                    "ярдәмче"
+                ],
+                "Bashkir": [
+                    "ярҙамсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ictimai xadim"
+                ],
+                "Uzbek": [
+                    "ijtimoiy xodim"
+                ],
+                "Uyghur": [
+                    "ئىجتىمائىي خىزمەتچى",
+                    "ئىجتىمائىي خىزمەتكار"
+                ],
+                "Tatar": [
+                    "иҗтимагый хезмәткәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jemgyýetçilik işgäri"
+                ],
+                "Uyghur": [
+                    "جامائەت خىزمەتچىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko'makchi"
+                ],
+                "Kyrgyz": [
+                    "коомдук кызматкер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xeyriyyəçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hyzmatdaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howandarlyk ediji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "madadkor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әлеуметтік қызметкер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қамқоршы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qoldaushı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "халыкка хезмәт күрсәтүче"
+                ]
+            }
+        }
+    ]
+}
+```
+

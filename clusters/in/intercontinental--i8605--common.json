@@ -1,0 +1,90 @@
+{
+    "id": "i8605",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "intercontinental",
+    "en_definition": "extending or taking place between or among continents",
+    "tr_word": "kıtalararası",
+    "tr_definition": "kıtalar arasında uzanan veya gerçekleşen",
+    "ru_word": "межконтинентальный",
+    "ru_definition": "проходящий или осуществляемый между континентами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "materiklər arası"
+                ],
+                "Turkmen": [
+                    "materiklerara"
+                ],
+                "Uzbek": [
+                    "materiklararo"
+                ],
+                "Kazakh": [
+                    "материкаралық"
+                ],
+                "Kyrgyz": [
+                    "материктер аралык"
+                ],
+                "Karakalpak": [
+                    "materikleraralıq"
+                ],
+                "Bashkir": [
+                    "материк-ара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıtalararası",
+                    "kıtalar arası"
+                ],
+                "Azerbaijani": [
+                    "qitələrarası"
+                ],
+                "Uzbek": [
+                    "qit'alararo"
+                ],
+                "Uyghur": [
+                    "قىتئەلەر ئارا",
+                    "قىتئەلەر ئارىلىق"
+                ],
+                "Bashkir": [
+                    "ҡитға-ара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kontinentara"
+                ],
+                "Kyrgyz": [
+                    "континенттер аралык"
+                ],
+                "Karakalpak": [
+                    "kontinentleraralıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құрлықаралық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыйтгаара",
+                    "кыйтгаларара"
+                ]
+            }
+        }
+    ]
+}

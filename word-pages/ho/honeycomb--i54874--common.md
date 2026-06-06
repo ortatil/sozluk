@@ -1,0 +1,177 @@
+# Honeycomb
+| Field | Detail |
+|---|---|
+| **ID** | i54874 |
+| **English** | honeycomb |
+| **Type** | noun |
+| **Definition** | a framework of hexagonal cells resembling the honeycomb built by bees |
+| **Source** | common |
+| **Ortatil** | öycük |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **petek** | **käräz** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ❌ | ✅ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ❌ | ❌ |
+| Tatar | ❌ | ✅ |
+| Bashkir | ❌ | ✅ |
+| *Oghuz Subtotal* | 1 | 0 |
+| *Qarluq Subtotal* | 0 | 0 |
+| *Qipchaq Subtotal* | 0 | 0.60 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **1** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مۇم | mum |
+| **Kazakh** | |
+| кәріз | käriz |
+| **Tatar** | |
+| кәрәз | käräz |
+| **Bashkir** | |
+| кәрәҙ | käräz |
+
+```json
+{
+    "id": "i54874",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "honeycomb",
+    "en_definition": "a framework of hexagonal cells resembling the honeycomb built by bees",
+    "tr_word": "petek",
+    "tr_definition": "arıların bal depolamak ve yumurta bırakmak için balmumundan yaptığı altıgen bölmelerden oluşan yapı",
+    "ru_word": "соты",
+    "ru_definition": "ряд шестигранных ячеек, сделанных пчелами из воска для хранения меда и личинок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bal peteği"
+                ],
+                "Uzbek": [
+                    "bolari uyasi"
+                ],
+                "Kazakh": [
+                    "балауыз ұяшықтары"
+                ],
+                "Kyrgyz": [
+                    "бал челек",
+                    "балдын уясы",
+                    "бал кабы",
+                    "бал аягы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "petek"
+                ],
+                "Azerbaijani": [
+                    "pətək"
+                ],
+                "Turkmen": [
+                    "petek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öýjük"
+                ],
+                "Uzbek": [
+                    "uyali mum"
+                ],
+                "Karakalpak": [
+                    "uya"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кәріз"
+                ],
+                "Tatar": [
+                    "кәрәз",
+                    "кәрәзле бал"
+                ],
+                "Bashkir": [
+                    "кәрәҙ",
+                    "кәрәҙле бал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şam"
+                ],
+                "Uzbek": [
+                    "shon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "arı şanı"
+                ],
+                "Kazakh": [
+                    "ара ұясы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mumparda"
+                ],
+                "Uyghur": [
+                    "مۇم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەرە كۆنىكى",
+                    "ھەرە ئۇۋىسى"
+                ],
+                "Karakalpak": [
+                    "hárre uyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bal öýjügi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mort"
+                ]
+            }
+        }
+    ]
+}
+```
+

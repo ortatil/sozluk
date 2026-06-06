@@ -1,0 +1,83 @@
+{
+    "id": "i69504",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "high-definition television",
+    "en_definition": "a television system that has more than the usual number of lines per frame so its pictures show more detail",
+    "tr_word": "yüksek çözünürlüklü televizyon",
+    "tr_definition": "Görüntülerin daha fazla ayrıntı göstermesi için kare başına normalden daha fazla satıra sahip olan televizyon sistemi.",
+    "ru_word": "телевидение высокой чёткости",
+    "ru_definition": "Телевизионная система с увеличенным количеством строк в кадре, обеспечивающая более высокую детализацию изображения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüksek çözünürlüklü televizyon",
+                    "yüksek tanımlı televizyon"
+                ],
+                "Azerbaijani": [
+                    "yüksək dəqiqlikli televiziya",
+                    "yüksək keyfiyyətli televiziya"
+                ],
+                "Turkmen": [
+                    "ýokary durulykdaky telewideniýe",
+                    "ýokary hilli telewideniýe"
+                ],
+                "Uzbek": [
+                    "yuqori aniqlikdagi televideniye",
+                    "tiniq tasvirli televideniye"
+                ],
+                "Uyghur": [
+                    "يۇقىرى ئېنىقلىقتىكى تېلېۋىزور"
+                ],
+                "Kazakh": [
+                    "жоғары айқындықты теледидар"
+                ],
+                "Karakalpak": [
+                    "joqarı anıqlıqtaǵı telekórinis"
+                ],
+                "Tatar": [
+                    "югары ачыклыктагы телевидение",
+                    "югары сыйфатлы телевидение"
+                ],
+                "Bashkir": [
+                    "юғары асыҡлыҡтағы телевидение",
+                    "юғары сифатлы телевидение"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "анықтығы жоғары теледидар"
+                ],
+                "Karakalpak": [
+                    "anıqlıq dárejesi joqarı telekórinis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۈزۈك تېلېۋىزور"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айқын бейнелі теледидар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жогорку тактыктагы телекөрсөтүү",
+                    "жогорку сапаттагы телекөрсөтүү"
+                ]
+            }
+        }
+    ]
+}

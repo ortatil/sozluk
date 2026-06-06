@@ -1,0 +1,113 @@
+# Process cheese
+| Field | Detail |
+|---|---|
+| **ID** | i78435 |
+| **English** | process cheese |
+| **Type** | noun |
+| **Definition** | made by blending several lots of cheese |
+| **Source** | common |
+| **Ortatil** | bıştak |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| быштак | bıştak |
+
+```json
+{
+    "id": "i78435",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "process cheese",
+    "en_definition": "made by blending several lots of cheese",
+    "tr_word": "eritme peyniri",
+    "tr_definition": "Bir veya birkaç çeşit peynirin, emülsifiye edici tuzlar yardımıyla ısıtılarak harmanlanmasıyla elde edilen peynir türü.",
+    "ru_word": "плавленый сыр",
+    "ru_definition": "Молочный продукт, который вырабатывается из сычужных сыров, сыров для плавления, творога, масла и других молочных продуктов с добавлением специй и наполнителей путем плавления сырной массы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eritme peyniri",
+                    "işlenmiş peynir"
+                ],
+                "Azerbaijani": [
+                    "əridilmiş pendir"
+                ],
+                "Turkmen": [
+                    "eredilen peýnir"
+                ],
+                "Uzbek": [
+                    "eritilgan pishloq"
+                ],
+                "Uyghur": [
+                    "ئېرىتىلگەن پىشلاق",
+                    "ئارىلاشما پىشلاق"
+                ],
+                "Kyrgyz": [
+                    "эритилген сыр"
+                ],
+                "Karakalpak": [
+                    "erіtіlgen іrіmshіk"
+                ],
+                "Tatar": [
+                    "эретелгән сыр",
+                    "эретелгән катык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarışıq pendir"
+                ],
+                "Kazakh": [
+                    "қорытылған ірімшік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bişirilen peýnir"
+                ],
+                "Kyrgyz": [
+                    "быштак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "балқытылған ірімшік"
+                ],
+                "Karakalpak": [
+                    "balqıtılǵan іrіmshіk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qayta ishlangan pishloq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "иретелгән сыр",
+                    "иретелгән ҡорот"
+                ]
+            }
+        }
+    ]
+}
+```
+

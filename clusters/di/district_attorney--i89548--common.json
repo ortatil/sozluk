@@ -1,0 +1,146 @@
+{
+    "id": "i89548",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "district attorney",
+    "en_definition": "an official prosecutor for a judicial district",
+    "tr_word": "bölge savcısı",
+    "tr_definition": "belirli bir yargı bölgesinden sorumlu olan resmi savcı",
+    "ru_word": "окружной прокурор",
+    "ru_definition": "официальный обвинитель в определенном судебном округе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "prokuror"
+                ],
+                "Turkmen": [
+                    "prokuror"
+                ],
+                "Uzbek": [
+                    "prokuror"
+                ],
+                "Kazakh": [
+                    "прокурор"
+                ],
+                "Kyrgyz": [
+                    "прокурор"
+                ],
+                "Karakalpak": [
+                    "prokuror"
+                ],
+                "Tatar": [
+                    "прокурор"
+                ],
+                "Bashkir": [
+                    "прокурор"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ayblovchi"
+                ],
+                "Uyghur": [
+                    "ئەيىبلىگۈچى"
+                ],
+                "Kazakh": [
+                    "айыптаушы"
+                ],
+                "Kyrgyz": [
+                    "айыптоочу"
+                ],
+                "Karakalpak": [
+                    "ayıplaushı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мемлекеттік айыптаушы"
+                ],
+                "Kyrgyz": [
+                    "мамлекеттик айыптоочу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дәүләт гаепләүчесе"
+                ],
+                "Bashkir": [
+                    "дәүләт ғәйепләүсеһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "savcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cumhuriyet savcısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müddeiumumi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müstəntiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ittihamçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "derňewçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kazyýet wekili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qonun himoyachisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەپتىش",
+                    "تەپتىش ئەمەلدارى"
+                ]
+            }
+        }
+    ]
+}

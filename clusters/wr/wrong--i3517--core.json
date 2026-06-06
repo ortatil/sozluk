@@ -1,0 +1,167 @@
+{
+    "id": "i3517",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "incorrect",
+    "en_definition": "not correct; not in conformity with fact or truth",
+    "tr_word": "yanlış",
+    "tr_definition": "doğru olmayan; gerçeğe veya kurala uygun olmayan",
+    "ru_word": "неправильный",
+    "ru_definition": "не соответствующий истине, фактам или правилам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hatalı"
+                ],
+                "Azerbaijani": [
+                    "xətalı"
+                ],
+                "Turkmen": [
+                    "hataly"
+                ],
+                "Uzbek": [
+                    "xato"
+                ],
+                "Uyghur": [
+                    "خاتا"
+                ],
+                "Kazakh": [
+                    "қате"
+                ],
+                "Kyrgyz": [
+                    "ката"
+                ],
+                "Karakalpak": [
+                    "qáte"
+                ],
+                "Tatar": [
+                    "хата"
+                ],
+                "Bashkir": [
+                    "хата"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanlış"
+                ],
+                "Azerbaijani": [
+                    "yanlış"
+                ],
+                "Turkmen": [
+                    "ýalňyş"
+                ],
+                "Uzbek": [
+                    "yanglish"
+                ],
+                "Kyrgyz": [
+                    "жаңылыш"
+                ],
+                "Karakalpak": [
+                    "jańlıs"
+                ],
+                "Bashkir": [
+                    "яңылыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nädogry"
+                ],
+                "Uzbek": [
+                    "noto'g'ri"
+                ],
+                "Karakalpak": [
+                    "nadurıs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жалған"
+                ],
+                "Kyrgyz": [
+                    "жалган"
+                ],
+                "Tatar": [
+                    "ялган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дөрес түгел"
+                ],
+                "Bashkir": [
+                    "дөрөҫ түгел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ters"
+                ],
+                "Kazakh": [
+                    "теріс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gayrisahih"
+                ],
+                "Uyghur": [
+                    "غەيرىي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səhv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұрыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "туура эмес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ناموغۇن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "батыл"
+                ]
+            }
+        }
+    ]
+}

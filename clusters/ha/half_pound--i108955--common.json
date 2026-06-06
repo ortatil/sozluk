@@ -1,0 +1,79 @@
+{
+    "id": "i108955",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "half pound",
+    "en_definition": "8 ounces avoirdupois",
+    "tr_word": "yarım pound",
+    "tr_definition": "Yaklaşık 226 grama denk gelen, 8 onsluk ağırlık birimi.",
+    "ru_word": "полфунта",
+    "ru_definition": "Единица веса, равная 8 унциям (примерно 226,8 грамма).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarım libre"
+                ],
+                "Azerbaijani": [
+                    "yarım funt"
+                ],
+                "Turkmen": [
+                    "ýarym funt"
+                ],
+                "Uzbek": [
+                    "yarim funt"
+                ],
+                "Uyghur": [
+                    "يېرىم قاداق",
+                    "يېرىم فوند"
+                ],
+                "Kazakh": [
+                    "жарты қадақ",
+                    "жарты пұт"
+                ],
+                "Kyrgyz": [
+                    "жарым фунт"
+                ],
+                "Karakalpak": [
+                    "jartı qadaq",
+                    "jartı funt"
+                ],
+                "Tatar": [
+                    "ярты кадак"
+                ],
+                "Bashkir": [
+                    "ярты фунт",
+                    "ярты ҡаҙаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "iki yüz iyirmi yeddi qram"
+                ],
+                "Turkmen": [
+                    "iki ýüz ýigrimi ýedi gram"
+                ],
+                "Uzbek": [
+                    "ikki yuz yigirma yetti gramm"
+                ],
+                "Tatar": [
+                    "ике йөз грамм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sekiz ons"
+                ],
+                "Kyrgyz": [
+                    "сегиз унция"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+# Sportswear
+| Field | Detail |
+|---|---|
+| **ID** | i59374 |
+| **English** | sportswear |
+| **Type** | noun |
+| **Definition** | attire worn for sport or for casual wear |
+| **Source** | common |
+| **Ortatil** | eşofmän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i59374",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sportswear",
+    "en_definition": "attire worn for sport or for casual wear",
+    "tr_word": "spor giyim",
+    "tr_definition": "spor yaparken veya günlük hayatta rahatlık amacıyla giyilen kıyafetler",
+    "ru_word": "спортивная одежда",
+    "ru_definition": "одежда, предназначенная для занятий спортом или повседневного ношения в свободном стиле",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "spor giyim",
+                    "spor kıyafeti"
+                ],
+                "Turkmen": [
+                    "sport eşigi",
+                    "sport lybasy"
+                ],
+                "Uzbek": [
+                    "sport kiyimi"
+                ],
+                "Kazakh": [
+                    "спорттық киім"
+                ],
+                "Kyrgyz": [
+                    "спорт кийими"
+                ],
+                "Karakalpak": [
+                    "sport kiyimi"
+                ],
+                "Tatar": [
+                    "спорт киеме"
+                ],
+                "Bashkir": [
+                    "спорт кейеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maşk eşigi"
+                ],
+                "Kyrgyz": [
+                    "машыгуу кийими"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşofman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "idman geyimi",
+                    "idman paltarı",
+                    "idman libası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "badantarbiya kiyimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەنھەرىكەت كىيىمى",
+                    "تەنھەرىكەتچە كىيىم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "баптық киім"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shınıǵıu kiyimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәрәкәт киеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "уйын кейеме"
+                ]
+            }
+        }
+    ]
+}
+```
+

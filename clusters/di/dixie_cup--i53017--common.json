@@ -1,0 +1,82 @@
+{
+    "id": "i53017",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dixie cup",
+    "en_definition": "a disposable cup made of paper; for holding drinks",
+    "tr_word": "karton bardak",
+    "tr_definition": "İçecekler için kullanılan, kağıttan yapılmış tek kullanımlık bardak.",
+    "ru_word": "одноразовый бумажный стаканчик",
+    "ru_definition": "Одноразовая емкость из бумаги, предназначенная для напитков.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karton bardak",
+                    "kağıt bardak"
+                ],
+                "Azerbaijani": [
+                    "kağız stəkan"
+                ],
+                "Turkmen": [
+                    "kagyz käse",
+                    "kagyz stakan"
+                ],
+                "Uzbek": [
+                    "qog'oz stakan",
+                    "qog'oz idish"
+                ],
+                "Uyghur": [
+                    "قەغەز ئىستاكان",
+                    "قەغەز پىيالە"
+                ],
+                "Kazakh": [
+                    "қағаз стақан",
+                    "қағаз кесе"
+                ],
+                "Kyrgyz": [
+                    "кагаз чөйчөк",
+                    "кагаз стакан"
+                ],
+                "Karakalpak": [
+                    "qaǵaz ıdıs",
+                    "qaǵaz stakan",
+                    "qaǵaz kese"
+                ],
+                "Tatar": [
+                    "кәгазь стакан",
+                    "кәгазь савыт"
+                ],
+                "Bashkir": [
+                    "ҡағыҙ сынаяҡ",
+                    "ҡағыҙ стакан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "birdəfəlik stəkan"
+                ],
+                "Turkmen": [
+                    "bir gezeklik käse"
+                ],
+                "Uzbek": [
+                    "bir martalik stakan"
+                ],
+                "Kazakh": [
+                    "бір реттік стақан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бер тапҡыр ҡулланыла торған сынаяҡ"
+                ]
+            }
+        }
+    ]
+}

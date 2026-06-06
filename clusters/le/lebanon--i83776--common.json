@@ -1,0 +1,68 @@
+{
+    "id": "i83776",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lebanon",
+    "en_definition": "an Asian republic at east end of Mediterranean",
+    "tr_word": "Lübnan",
+    "tr_definition": "Akdeniz'in doğu ucunda yer alan bir Asya cumhuriyeti",
+    "ru_word": "Ливан",
+    "ru_definition": "азиатская республика в восточной части Средиземного моря",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Livan",
+                    "Livan Respublikası"
+                ],
+                "Turkmen": [
+                    "Liwan",
+                    "Liwan Respublikasy"
+                ],
+                "Uzbek": [
+                    "Livan"
+                ],
+                "Uyghur": [
+                    "لىۋان",
+                    "لىۋان جۇمھۇرىيىتى"
+                ],
+                "Kazakh": [
+                    "Ливан",
+                    "Ливан Республикасы"
+                ],
+                "Kyrgyz": [
+                    "Ливан"
+                ],
+                "Karakalpak": [
+                    "Liwan"
+                ],
+                "Tatar": [
+                    "Ливан"
+                ],
+                "Bashkir": [
+                    "Ливан",
+                    "Ливан Республикаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Lübnan",
+                    "Lübnan Cumhuriyeti"
+                ],
+                "Uzbek": [
+                    "Lubnan"
+                ],
+                "Kyrgyz": [
+                    "Лубнан"
+                ],
+                "Tatar": [
+                    "Лөбнан"
+                ]
+            }
+        }
+    ]
+}

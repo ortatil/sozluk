@@ -1,0 +1,118 @@
+{
+    "id": "i7456",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "juicy",
+    "en_definition": "full of juice",
+    "tr_word": "sulu",
+    "tr_definition": "bol miktarda su veya özsu içeren",
+    "ru_word": "сочный",
+    "ru_definition": "содержащий много сока",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sulu",
+                    "özlü"
+                ],
+                "Azerbaijani": [
+                    "sulu"
+                ],
+                "Turkmen": [
+                    "suwly"
+                ],
+                "Uzbek": [
+                    "suvli"
+                ],
+                "Uyghur": [
+                    "سۇلۇق"
+                ],
+                "Kazakh": [
+                    "сөлді"
+                ],
+                "Kyrgyz": [
+                    "суулуу"
+                ],
+                "Karakalpak": [
+                    "suolı"
+                ],
+                "Tatar": [
+                    "сулы"
+                ],
+                "Bashkir": [
+                    "һутлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şerbetli"
+                ],
+                "Azerbaijani": [
+                    "şirəli",
+                    "şirədar"
+                ],
+                "Turkmen": [
+                    "şireli",
+                    "şerbetli"
+                ],
+                "Uzbek": [
+                    "seryog'",
+                    "shirali"
+                ],
+                "Uyghur": [
+                    "شىرەلىك",
+                    "شەربەتلىك"
+                ],
+                "Kazakh": [
+                    "шырынды"
+                ],
+                "Kyrgyz": [
+                    "ширелүү",
+                    "ширелүү-ширелүү",
+                    "ширеси көп"
+                ],
+                "Karakalpak": [
+                    "shireli"
+                ],
+                "Tatar": [
+                    "ширбәтле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нәрлі"
+                ],
+                "Karakalpak": [
+                    "násilli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәмле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һутлы-тәмле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыулы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": "i73365",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "arabic",
+    "en_definition": "the Semitic language of the Arabs; spoken in a variety of dialects",
+    "tr_word": "Arapça",
+    "tr_definition": "Arapların konuştuğu, çeşitli lehçeleri olan Sami dili.",
+    "ru_word": "арабский язык",
+    "ru_definition": "Семитский язык арабов, представленный множеством диалектов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Arapça"
+                ],
+                "Azerbaijani": [
+                    "ərəb dili",
+                    "ərəbcə"
+                ],
+                "Turkmen": [
+                    "arap dili",
+                    "arapça"
+                ],
+                "Uzbek": [
+                    "arab tili",
+                    "arabcha"
+                ],
+                "Uyghur": [
+                    "ئەرەبچە",
+                    "ئەرەب تىلى"
+                ],
+                "Kazakh": [
+                    "араб тілі",
+                    "арапша"
+                ],
+                "Kyrgyz": [
+                    "араб тили",
+                    "арабча"
+                ],
+                "Karakalpak": [
+                    "arab tili",
+                    "arapsha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гарәп теле",
+                    "гарәпчә"
+                ],
+                "Bashkir": [
+                    "ғәрәп теле",
+                    "ғәрәпчә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Lisan-ı Arabi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "id": "i70887",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hunting license",
+    "en_definition": "a license authorizing the bearer to kill a certain type of animal during a specified period of time",
+    "tr_word": "avcılık belgesi",
+    "tr_definition": "belirli bir hayvan türünü belirli bir süre içinde avlama yetkisi veren resmi belge",
+    "ru_word": "охотничий билет",
+    "ru_definition": "официальный документ, дающий право на охоту в течение определенного периода времени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "av tezkeresi",
+                    "avcılık belgesi",
+                    "av ruhsatı"
+                ],
+                "Turkmen": [
+                    "aw rugsatnamasy",
+                    "aw rugsady"
+                ],
+                "Uzbek": [
+                    "ov ruxsatnomasi",
+                    "ovchilik guvohnomasi",
+                    "ov ijozatnomasi"
+                ],
+                "Tatar": [
+                    "ау рөхсәтнамәсе",
+                    "ау билеты",
+                    "аулау хокукы"
+                ],
+                "Bashkir": [
+                    "ау рөхсәтнамәһе",
+                    "ау билеты",
+                    "ау ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "awçylyk şahadatnamasy"
+                ],
+                "Kazakh": [
+                    "аңшылық билеті"
+                ],
+                "Kyrgyz": [
+                    "аңчылык күбөлүгү",
+                    "аңчылык уруксаты"
+                ],
+                "Karakalpak": [
+                    "ańshılıq gúwonaması",
+                    "ańshılıq ruxsatnaması",
+                    "ańshılıq bileti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ov icazəsi",
+                    "ovçuluq vəsiqəsi",
+                    "ov biletı"
+                ],
+                "Uyghur": [
+                    "ئوۋچىلىق رۇخسەتنامىسى",
+                    "ئوۋچىلىق كىنىشكىسى",
+                    "ئوۋ ئىجازەتنامىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аңшылық куәлігі",
+                    "аң аулау рұқсаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уулоо уруксаты",
+                    "уулоо билети"
+                ]
+            }
+        }
+    ]
+}

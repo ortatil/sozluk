@@ -1,0 +1,188 @@
+# Herb pepper
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-92414331-n |
+| **English** | herb pepper |
+| **Type** | noun |
+| **Definition** | seasoning that consists of a mix of pepper and various herbs (usually basil, marjoram, oregano, sage, parsley, thyme and pepper). |
+| **Source** | common |
+| **Ortatil** | kök |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كۆك-بۇرت | kök-burt |
+| **Bashkir** | |
+| тәмләткес | tämlätkes |
+
+```json
+{
+    "id": "synset-oewn-92414331-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "herb pepper",
+    "en_definition": "seasoning that consists of a mix of pepper and various herbs (usually basil, marjoram, oregano, sage, parsley, thyme and pepper).",
+    "tr_word": "bitkili biber çeşnisi",
+    "tr_definition": "karabiber ile fesleğen, mercanköşk, kekik, adaçayı ve maydanoz gibi çeşitli bitkilerin karışımından oluşan bir baharat çeşnisi.",
+    "ru_word": "травяной перец",
+    "ru_definition": "приправа, состоящая из смеси перца и различных трав (обычно базилика, майорана, орегано, шалфея, петрушки и тимьяна).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дәмдеуіш бұрыш"
+                ],
+                "Karakalpak": [
+                    "dámdeuіsh"
+                ],
+                "Tatar": [
+                    "тәмләткечле борыч"
+                ],
+                "Bashkir": [
+                    "тәмләткес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otlu biber"
+                ],
+                "Azerbaijani": [
+                    "otlu istiot"
+                ],
+                "Turkmen": [
+                    "otly burç",
+                    "otly garyndy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qarışıq istiot"
+                ],
+                "Kazakh": [
+                    "хош иісті бұрыш"
+                ],
+                "Tatar": [
+                    "хуш исле борыч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шөп бұрыш"
+                ],
+                "Kyrgyz": [
+                    "чөп татымал"
+                ],
+                "Karakalpak": [
+                    "shóp dámdeuіsh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "baharatlı biber"
+                ],
+                "Turkmen": [
+                    "baharat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻkatli murch"
+                ],
+                "Uyghur": [
+                    "كۆك-بۇرت",
+                    "كۆكتاتلىق بۇرچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خۇشبۇي بۇرچ"
+                ],
+                "Bashkir": [
+                    "хуш еҫле борос"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үләнле борыч"
+                ],
+                "Bashkir": [
+                    "үләнле борос"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çeşnili biber"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ədviyyatlı istiot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ziravorlar aralashmasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "murchli ziravor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыпар жыттуу татымал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аралаш татымал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "táttі dámdeuіsh"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,134 @@
+{
+    "id": "i36736",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "wash",
+    "en_definition": "the work of cleansing (usually with soap and water)",
+    "tr_word": "yıkama",
+    "tr_definition": "Genellikle sabun ve su kullanarak temizleme işi.",
+    "ru_word": "стирка",
+    "ru_definition": "Процесс очистки вещей (обычно с использованием мыла и воды).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yuma",
+                    "yuyulma",
+                    "yuyunma"
+                ],
+                "Turkmen": [
+                    "ýuwuş",
+                    "ýuwulma",
+                    "ýuwundy"
+                ],
+                "Uzbek": [
+                    "yuvish",
+                    "yuvuv"
+                ],
+                "Uyghur": [
+                    "يۇيۇش"
+                ],
+                "Tatar": [
+                    "юу",
+                    "юыну"
+                ],
+                "Bashkir": [
+                    "йыуыу",
+                    "йыуыныу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жуу",
+                    "жуыну"
+                ],
+                "Kyrgyz": [
+                    "жуу",
+                    "жуунуу",
+                    "жууш"
+                ],
+                "Karakalpak": [
+                    "juıu",
+                    "juınıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "poklash"
+                ],
+                "Uyghur": [
+                    "پاكىزلاش"
+                ],
+                "Tatar": [
+                    "пакьләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tathir"
+                ],
+                "Uzbek": [
+                    "tahorat"
+                ],
+                "Tatar": [
+                    "тәһارәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temizlik"
+                ],
+                "Azerbaijani": [
+                    "təmizləmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тазалоо"
+                ],
+                "Bashkir": [
+                    "таҙартыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шаю"
+                ],
+                "Karakalpak": [
+                    "shayıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yıkama",
+                    "yıkayış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۇيۇپ-تاراش"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "id": "i78743",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "jug wine",
+    "en_definition": "inexpensive wine sold in large bottles or jugs",
+    "tr_word": "sofra şarabı",
+    "tr_definition": "Büyük şişelerde veya damacanalarda satılan, genellikle düşük kaliteli ve ucuz şarap.",
+    "ru_word": "столовое вино",
+    "ru_definition": "Недорогое вино, продаваемое в больших бутылках или кувшинах, предназначенное для повседневного употребления.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "arzan şerap"
+                ],
+                "Uzbek": [
+                    "arzon sharob"
+                ],
+                "Uyghur": [
+                    "ئەرزان شاراب"
+                ],
+                "Kazakh": [
+                    "арзан шарап"
+                ],
+                "Kyrgyz": [
+                    "арзан шарап"
+                ],
+                "Karakalpak": [
+                    "arzan sharap"
+                ],
+                "Tatar": [
+                    "арзан шәраб"
+                ],
+                "Bashkir": [
+                    "арзан шарап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oddiy may"
+                ],
+                "Uyghur": [
+                    "ئادەتتىكى شاراب"
+                ],
+                "Kyrgyz": [
+                    "идиш шарабы"
+                ],
+                "Karakalpak": [
+                    "ıdıs sharabı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قۇمغان شارابى"
+                ],
+                "Kazakh": [
+                    "құмыра шарабы"
+                ],
+                "Kyrgyz": [
+                    "кумура шарабы"
+                ],
+                "Bashkir": [
+                    "күмәртә шарап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "adi şərab"
+                ],
+                "Turkmen": [
+                    "gap şeraby"
+                ],
+                "Kazakh": [
+                    "жай шарап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sofra şarabı"
+                ],
+                "Azerbaijani": [
+                    "süfrə şərabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ucuz şarap"
+                ],
+                "Azerbaijani": [
+                    "ucuz şərab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "küýze şeraby"
+                ],
+                "Uzbek": [
+                    "koʻza sharobi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dökme şarap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күпләп сатыла торган шәраб",
+                    "савыт шәрабы"
+                ]
+            }
+        }
+    ]
+}

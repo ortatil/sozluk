@@ -1,0 +1,102 @@
+{
+    "id": "i40976",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "insurance claim",
+    "en_definition": "demand for payment in accordance with an insurance policy",
+    "tr_word": "sigorta tazminat talebi",
+    "tr_definition": "bir sigorta poliçesi uyarınca yapılan ödeme talebi",
+    "ru_word": "страховое требование",
+    "ru_definition": "требование о выплате в соответствии со страховым полисом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sigorta alacak talebi"
+                ],
+                "Azerbaijani": [
+                    "sığorta tələbi",
+                    "sığorta iddiası"
+                ],
+                "Uzbek": [
+                    "sug'urta talabi",
+                    "sug'urta da'vosi"
+                ],
+                "Uyghur": [
+                    "سۇغۇرتا تۆلىمى تەلىپى",
+                    "سۇغۇرتا دەۋاسى",
+                    "سۇغۇرتا تۆلەم تەلىپى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sigorta tazminat talebi",
+                    "tazminat talebi"
+                ],
+                "Azerbaijani": [
+                    "təzminat tələbi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "камсыздандыруу талабы",
+                    "камсыздандыруу доосу",
+                    "камсыздандыруу төлөмү жөнүндө талап"
+                ],
+                "Karakalpak": [
+                    "kamsızlandırıo talabı",
+                    "kamsızlandırıo dáoası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иминият таләбе",
+                    "иминият дәгъвасы"
+                ],
+                "Bashkir": [
+                    "иминият талабы",
+                    "иминият дәғүәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hasar talebi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ätiýaçlandyryş talaby",
+                    "ätiýaçlandyryş arzasy",
+                    "ätiýaçlandyryş töleg talaby"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tovon talabi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сақтандыру талабы",
+                    "сақтандыру төлемі туралы өтініш",
+                    "сақтандыру талап-арызы"
+                ]
+            }
+        }
+    ]
+}

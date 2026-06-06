@@ -1,0 +1,207 @@
+# Metropolitan
+| Field | Detail |
+|---|---|
+| **ID** | i16280 |
+| **English** | metropolitan |
+| **Type** | adjective |
+| **Definition** | relating to or characteristic of a metropolis |
+| **Source** | common |
+| **Ortatil** | şähärlik |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **şähärlik** | **märkäziy** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 1 |
+| *Qarluq Subtotal* | 1 | 0.50 |
+| *Qipchaq Subtotal* | 0.60 | 0 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **3.27** | **1.50** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| شەھەرلىك | şähärlik |
+| **Kazakh** | |
+| шаһарлық | şaharlıq |
+| астаналық | astanalıq |
+| **Kyrgyz** | |
+| башкы | başkı |
+| борбордук | borborduk |
+| шаардык | şaardık |
+| **Tatar** | |
+| шәһәр | şähär |
+| башкала | başkala |
+| **Bashkir** | |
+| үҙәк | üzäk |
+
+```json
+{
+    "id": "i16280",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "metropolitan",
+    "en_definition": "relating to or characteristic of a metropolis",
+    "tr_word": "metropoliten",
+    "tr_definition": "bir metropol ile ilgili veya bir metropole özgü olan",
+    "ru_word": "метрополитенский",
+    "ru_definition": "относящийся к мегаполису или характерный для него",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəhər"
+                ],
+                "Turkmen": [
+                    "şäher"
+                ],
+                "Uzbek": [
+                    "shaharli"
+                ],
+                "Uyghur": [
+                    "شەھەرلىك"
+                ],
+                "Kazakh": [
+                    "шаһарлық"
+                ],
+                "Karakalpak": [
+                    "sháhárlik"
+                ],
+                "Tatar": [
+                    "шәһәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "merkezi"
+                ],
+                "Azerbaijani": [
+                    "mərkəzi"
+                ],
+                "Turkmen": [
+                    "merkezi"
+                ],
+                "Uzbek": [
+                    "markaziy"
+                ],
+                "Uyghur": [
+                    "مەركىزىي شەھەرگە خاس"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бас қалалық"
+                ],
+                "Kyrgyz": [
+                    "башкы"
+                ],
+                "Karakalpak": [
+                    "bas qalalıq"
+                ],
+                "Tatar": [
+                    "башкала"
+                ],
+                "Bashkir": [
+                    "баш ҡала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "paytaxt"
+                ],
+                "Turkmen": [
+                    "paýtagt"
+                ],
+                "Uzbek": [
+                    "poytaxtga oid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anakentsel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyükşehir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ شەھەرگە ئائىت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "астаналық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борбордук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаардык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "oraylıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үҙәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҙур ҡала"
+                ]
+            }
+        }
+    ]
+}
+```
+

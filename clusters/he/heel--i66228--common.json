@@ -1,0 +1,96 @@
+{
+    "id": "i66228",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "heel",
+    "en_definition": "the back part of the human foot",
+    "tr_word": "topuk",
+    "tr_definition": "insan ayağının arka kısmı",
+    "ru_word": "пятка",
+    "ru_definition": "задняя часть стопы человека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ökçe"
+                ],
+                "Azerbaijani": [
+                    "ökçə"
+                ],
+                "Turkmen": [
+                    "ökje"
+                ],
+                "Uyghur": [
+                    "ئۆكچە"
+                ],
+                "Kazakh": [
+                    "өкше"
+                ],
+                "Kyrgyz": [
+                    "өкшө"
+                ],
+                "Karakalpak": [
+                    "ókshe"
+                ],
+                "Tatar": [
+                    "үкчә"
+                ],
+                "Bashkir": [
+                    "үксә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "daban"
+                ],
+                "Uzbek": [
+                    "tovon"
+                ],
+                "Uyghur": [
+                    "تاپان"
+                ],
+                "Kazakh": [
+                    "табан"
+                ],
+                "Tatar": [
+                    "табан"
+                ],
+                "Bashkir": [
+                    "табан үксәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "topuk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "soňky"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oshig'ich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "согончок"
+                ]
+            }
+        }
+    ]
+}

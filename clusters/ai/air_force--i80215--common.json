@@ -1,0 +1,80 @@
+{
+    "id": "i80215",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "air force",
+    "en_definition": "the airborne branch of a country's armed forces",
+    "tr_word": "hava kuvvetleri",
+    "tr_definition": "bir ülkenin silahlı kuvvetlerinin hava operasyonlarından sorumlu kolu",
+    "ru_word": "военно-воздушные силы",
+    "ru_definition": "вид вооружённых сил государства, предназначенный для ведения боевых действий в воздухе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hava kuvvetleri",
+                    "hava ordusu"
+                ],
+                "Azerbaijani": [
+                    "hava qüvvələri",
+                    "hava ordusu"
+                ],
+                "Turkmen": [
+                    "howa güýçleri"
+                ],
+                "Uzbek": [
+                    "havo kuchlari",
+                    "havo qo'shini"
+                ],
+                "Uyghur": [
+                    "ھاۋا ئارمىيە",
+                    "ھاۋا قوشۇنى"
+                ],
+                "Karakalpak": [
+                    "haoa kúshleri",
+                    "haoa flotı"
+                ],
+                "Tatar": [
+                    "һава көчләре",
+                    "һава гаскәрләре"
+                ],
+                "Bashkir": [
+                    "һауа көстәре",
+                    "һауа ғәскәрҙәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbi hava qüvvələri"
+                ],
+                "Turkmen": [
+                    "harby-howa güýçleri"
+                ],
+                "Uzbek": [
+                    "harbiy havo kuchlari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуе күштері",
+                    "әуе қорғаныс күштері",
+                    "әуе әскері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аба күчтөрү",
+                    "аба аскерлери"
+                ]
+            }
+        }
+    ]
+}

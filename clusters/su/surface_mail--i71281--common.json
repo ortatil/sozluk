@@ -1,0 +1,107 @@
+{
+    "id": "i71281",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "surface mail",
+    "en_definition": "mail that is sent by land or sea",
+    "tr_word": "yüzey postası",
+    "tr_definition": "Kara veya deniz yoluyla gönderilen posta.",
+    "ru_word": "наземная почта",
+    "ru_definition": "Почта, отправляемая наземным или водным транспортом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yerüstü poçt"
+                ],
+                "Turkmen": [
+                    "ýerüsti poçta"
+                ],
+                "Uzbek": [
+                    "yer usti pochtasi"
+                ],
+                "Kazakh": [
+                    "жерүсті поштасы"
+                ],
+                "Kyrgyz": [
+                    "жер үстүндөгү почта"
+                ],
+                "Karakalpak": [
+                    "jer ústi pochtası"
+                ],
+                "Tatar": [
+                    "җир почтасы"
+                ],
+                "Bashkir": [
+                    "ер почтаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara yolu postası"
+                ],
+                "Turkmen": [
+                    "gury ýer poçtasy"
+                ],
+                "Kyrgyz": [
+                    "кургактык почтасы"
+                ],
+                "Tatar": [
+                    "коры җир почтасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "quru poçtu"
+                ],
+                "Uzbek": [
+                    "quruqlik pochtasi"
+                ],
+                "Uyghur": [
+                    "قۇرۇقلۇق پوچتىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yüzey postası"
+                ],
+                "Bashkir": [
+                    "ер өҫтө почтаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жай пошта"
+                ],
+                "Karakalpak": [
+                    "júk pochtası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deniz yolu postası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئادەتتىكى پوچتا"
+                ]
+            }
+        }
+    ]
+}

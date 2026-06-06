@@ -1,0 +1,119 @@
+{
+    "id": "i69537",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "sentence",
+    "en_definition": "a string of words satisfying the grammatical rules of a language",
+    "tr_word": "cümle",
+    "tr_definition": "bir dilin dilbilgisi kurallarına uygun, anlamlı kelimeler dizisi",
+    "ru_word": "предложение",
+    "ru_definition": "грамматически оформленное сочетание слов, выражающее законченную мысль",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ibarə"
+                ],
+                "Turkmen": [
+                    "ybarat"
+                ],
+                "Uzbek": [
+                    "ibora"
+                ],
+                "Kazakh": [
+                    "ибара"
+                ],
+                "Kyrgyz": [
+                    "ибарат"
+                ],
+                "Karakalpak": [
+                    "ibara"
+                ],
+                "Tatar": [
+                    "гыбарә"
+                ],
+                "Bashkir": [
+                    "ғибәрә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cümle"
+                ],
+                "Azerbaijani": [
+                    "cümlə"
+                ],
+                "Turkmen": [
+                    "jümle"
+                ],
+                "Uzbek": [
+                    "jumla"
+                ],
+                "Uyghur": [
+                    "جۈملە"
+                ],
+                "Tatar": [
+                    "җөмлә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sözlem"
+                ],
+                "Kazakh": [
+                    "сөйлем"
+                ],
+                "Kyrgyz": [
+                    "сүйлөм"
+                ],
+                "Karakalpak": [
+                    "sóylem"
+                ],
+                "Bashkir": [
+                    "һөйләм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gap"
+                ],
+                "Kyrgyz": [
+                    "кеп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كالام"
+                ],
+                "Bashkir": [
+                    "кәлимә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tümce"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сөз тіркесі"
+                ]
+            }
+        }
+    ]
+}

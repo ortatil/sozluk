@@ -1,0 +1,106 @@
+{
+    "id": "i36684",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "baking",
+    "en_definition": "cooking by dry heat in an oven",
+    "tr_word": "fırınlama",
+    "tr_definition": "fırında kuru ısı ile pişirme işlemi",
+    "ru_word": "выпекание",
+    "ru_definition": "приготовление пищи сухим жаром в духовке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pişirme"
+                ],
+                "Azerbaijani": [
+                    "bişirmə",
+                    "bişirilmə",
+                    "biş-düş"
+                ],
+                "Turkmen": [
+                    "bişirme",
+                    "bişirim",
+                    "bişiriliş"
+                ],
+                "Uzbek": [
+                    "pishirish",
+                    "pazandalik"
+                ],
+                "Uyghur": [
+                    "پىشۇرۇش"
+                ],
+                "Kazakh": [
+                    "пісіру",
+                    "пісірме"
+                ],
+                "Kyrgyz": [
+                    "бышыруу"
+                ],
+                "Karakalpak": [
+                    "pіsіru",
+                    "pіsіrme"
+                ],
+                "Tatar": [
+                    "пешерү",
+                    "пешерүчелек"
+                ],
+                "Bashkir": [
+                    "бешереү",
+                    "бешереү-төшөрөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نان يېقىش"
+                ],
+                "Kyrgyz": [
+                    "нан бышыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыздыру"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fırınlama",
+                    "fırında pişirme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yopish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بولكا پىشۇرۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нан пісіру"
+                ]
+            }
+        }
+    ]
+}

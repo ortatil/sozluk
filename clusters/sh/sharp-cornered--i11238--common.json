@@ -1,0 +1,147 @@
+{
+    "id": "i11238",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sharp-cornered",
+    "en_definition": "having sharp corners",
+    "tr_word": "keskin köşeli",
+    "tr_definition": "keskin veya sivri köşeleri olan",
+    "ru_word": "остроугольный",
+    "ru_definition": "имеющий острые углы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyraňly",
+                    "gyraň"
+                ],
+                "Uzbek": [
+                    "qirrali"
+                ],
+                "Uyghur": [
+                    "قىرلىق"
+                ],
+                "Kazakh": [
+                    "қырлы"
+                ],
+                "Kyrgyz": [
+                    "кырдуу"
+                ],
+                "Karakalpak": [
+                    "qırılı",
+                    "qırlı"
+                ],
+                "Tatar": [
+                    "кырлы"
+                ],
+                "Bashkir": [
+                    "ҡырлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻtkir burchakli"
+                ],
+                "Uyghur": [
+                    "ئۆتكۈر بۇلۇڭلۇق"
+                ],
+                "Kazakh": [
+                    "өткір бұрышты",
+                    "үшкір"
+                ],
+                "Karakalpak": [
+                    "ótkіr qırlı"
+                ],
+                "Tatar": [
+                    "үткен почмаклы",
+                    "үткен кырлы"
+                ],
+                "Bashkir": [
+                    "үткер мөйөшлө",
+                    "үткер ҡырлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iti künclü",
+                    "iti bucaqlı"
+                ],
+                "Turkmen": [
+                    "ýiti burçly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆت قىرلىق"
+                ],
+                "Karakalpak": [
+                    "kóp qırlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "keskin köşeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sivri köşeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köşeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "künclü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bucaqlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tiz burchakli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "курч бурчтуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "учтуу"
+                ]
+            }
+        }
+    ]
+}

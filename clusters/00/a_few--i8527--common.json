@@ -1,0 +1,100 @@
+{
+    "id": "i8527",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "a few",
+    "en_definition": "more than one but indefinitely small in number",
+    "tr_word": "birkaç",
+    "tr_definition": "birden fazla olan ancak sayısı kesin olarak belirtilmeyen az miktarda şey",
+    "ru_word": "несколько",
+    "ru_definition": "неопределенное, но небольшое количество, больше одного",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "birkaç",
+                    "biraz"
+                ],
+                "Azerbaijani": [
+                    "bir neçə",
+                    "bir az",
+                    "bir qədər"
+                ],
+                "Turkmen": [
+                    "birnäçe",
+                    "biraz"
+                ],
+                "Uzbek": [
+                    "birnecha",
+                    "birqancha",
+                    "biroz"
+                ],
+                "Uyghur": [
+                    "بىرنەچچە",
+                    "بىرئاز"
+                ],
+                "Kazakh": [
+                    "бірнеше",
+                    "біраз",
+                    "біршама"
+                ],
+                "Kyrgyz": [
+                    "бир нече",
+                    "бир аз",
+                    "бир канча"
+                ],
+                "Karakalpak": [
+                    "birneshe",
+                    "bir-eki"
+                ],
+                "Tatar": [
+                    "берничә",
+                    "беркадәр"
+                ],
+                "Bashkir": [
+                    "бер аҙ",
+                    "бер нисә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "az"
+                ],
+                "Azerbaijani": [
+                    "az"
+                ],
+                "Turkmen": [
+                    "az-kem",
+                    "az-owlak"
+                ],
+                "Uzbek": [
+                    "ozgina"
+                ],
+                "Uyghur": [
+                    "ئازراق"
+                ],
+                "Kazakh": [
+                    "аз-маз"
+                ],
+                "Kyrgyz": [
+                    "аздыр-көптүр"
+                ],
+                "Karakalpak": [
+                    "azǵantay",
+                    "az-maz"
+                ],
+                "Tatar": [
+                    "аз-маз",
+                    "азрак"
+                ],
+                "Bashkir": [
+                    "аҙ-маҙ"
+                ]
+            }
+        }
+    ]
+}

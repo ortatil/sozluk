@@ -1,0 +1,101 @@
+{
+    "id": "i59753",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "suction pump",
+    "en_definition": "a pump for raising fluids by suction",
+    "tr_word": "emme pompası",
+    "tr_definition": "sıvıları emme yoluyla yükseltmek için kullanılan bir pompa türü",
+    "ru_word": "всасывающий насос",
+    "ru_definition": "насос для подъема жидкостей путем всасывания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sorucu nasos",
+                    "sorucu tuluq"
+                ],
+                "Turkmen": [
+                    "sorujy nasos",
+                    "sorujy"
+                ],
+                "Uzbek": [
+                    "soʻrgʻich",
+                    "soʻruvchi nasos"
+                ],
+                "Kazakh": [
+                    "сорғы",
+                    "сорушы сорғы",
+                    "сору құралы"
+                ],
+                "Kyrgyz": [
+                    "сордурма",
+                    "соргуч",
+                    "соруучу насос"
+                ],
+                "Karakalpak": [
+                    "sorǵısh",
+                    "sorǵı"
+                ],
+                "Tatar": [
+                    "суыру насосы",
+                    "суырткыч",
+                    "суыргыч"
+                ],
+                "Bashkir": [
+                    "һурғыс",
+                    "һурҙырғыс",
+                    "һурҙырыу насосы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "emme pompası",
+                    "emme tulumbası",
+                    "çekme pompası"
+                ],
+                "Azerbaijani": [
+                    "əmmə nasosu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "suw sorujy"
+                ],
+                "Karakalpak": [
+                    "su sorǵısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tortuvchi asbob"
+                ],
+                "Uyghur": [
+                    "تارتىش پومپىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vakum pompası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۈمۈرگۈچ پومپا",
+                    "سۈمۈرۈش پومپىسى"
+                ]
+            }
+        }
+    ]
+}

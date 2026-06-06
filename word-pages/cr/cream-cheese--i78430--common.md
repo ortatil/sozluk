@@ -1,0 +1,150 @@
+# Cream cheese
+| Field | Detail |
+|---|---|
+| **ID** | i78430 |
+| **English** | cream cheese |
+| **Type** | noun |
+| **Definition** | soft unripened cheese made of sweet milk and cream |
+| **Source** | common |
+| **Ortatil** | labne |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i78430",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cream cheese",
+    "en_definition": "soft unripened cheese made of sweet milk and cream",
+    "tr_word": "taze peynir",
+    "tr_definition": "tatlı süt ve kremadan yapılan, olgunlaştırılmamış yumuşak peynir",
+    "ru_word": "сливочный сыр",
+    "ru_definition": "мягкий невыдержанный сыр, приготовленный из молока и сливок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qaymaqlı pendir"
+                ],
+                "Turkmen": [
+                    "gaýmakly peýnir"
+                ],
+                "Uzbek": [
+                    "qaymoqli pishloq"
+                ],
+                "Uyghur": [
+                    "قايماقلىق پىشلاق"
+                ],
+                "Kazakh": [
+                    "қаймақ ірімшік"
+                ],
+                "Kyrgyz": [
+                    "каймак быштак"
+                ],
+                "Karakalpak": [
+                    "qaymaqlı súzbe"
+                ],
+                "Tatar": [
+                    "каймаклы эремчек"
+                ],
+                "Bashkir": [
+                    "ҡаймаҡлы эремсек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yumşaq pendir"
+                ],
+                "Turkmen": [
+                    "ýumşak peýnir"
+                ],
+                "Uzbek": [
+                    "yumshoq pishloq"
+                ],
+                "Uyghur": [
+                    "يۇمشاق پىشلاق"
+                ],
+                "Kazakh": [
+                    "жұмсақ ірімшік"
+                ],
+                "Kyrgyz": [
+                    "жумшак быштак"
+                ],
+                "Karakalpak": [
+                    "jumsaq irimshik"
+                ],
+                "Tatar": [
+                    "йомшак сыр"
+                ],
+                "Bashkir": [
+                    "йомшаҡ эремсек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürme peynir",
+                    "krem peynir"
+                ],
+                "Turkmen": [
+                    "süzme peýnir"
+                ],
+                "Uzbek": [
+                    "suzma pishloq"
+                ],
+                "Kazakh": [
+                    "сүзбе ірімшік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "süzmə pendir"
+                ],
+                "Karakalpak": [
+                    "súzbe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taze peynir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "labne"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сөтле эремчек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "майлы эремсек"
+                ]
+            }
+        }
+    ]
+}
+```
+

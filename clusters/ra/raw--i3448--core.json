@@ -1,0 +1,98 @@
+{
+    "id": "i3448",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "raw",
+    "en_definition": "not treated with heat to prepare it for eating",
+    "tr_word": "çiğ",
+    "tr_definition": "pişirilmemiş veya ısıl işlem görmemiş (yiyecek)",
+    "ru_word": "сырой",
+    "ru_definition": "не подвергшийся термической обработке для употребления в пищу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pişmemiş"
+                ],
+                "Azerbaijani": [
+                    "bişməmiş"
+                ],
+                "Turkmen": [
+                    "bişmedik"
+                ],
+                "Uzbek": [
+                    "pishmagan"
+                ],
+                "Uyghur": [
+                    "پىشمىغان"
+                ],
+                "Kazakh": [
+                    "піспеген"
+                ],
+                "Kyrgyz": [
+                    "быша элек"
+                ],
+                "Karakalpak": [
+                    "pispegen"
+                ],
+                "Tatar": [
+                    "пешмәгән"
+                ],
+                "Bashkir": [
+                    "бешмәгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çiğ"
+                ],
+                "Azerbaijani": [
+                    "çiy"
+                ],
+                "Turkmen": [
+                    "çig"
+                ],
+                "Kazakh": [
+                    "шикі"
+                ],
+                "Kyrgyz": [
+                    "чийки"
+                ],
+                "Karakalpak": [
+                    "shiyki"
+                ],
+                "Tatar": [
+                    "чи"
+                ],
+                "Bashkir": [
+                    "сеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ham"
+                ],
+                "Uzbek": [
+                    "xom"
+                ],
+                "Uyghur": [
+                    "خام"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәтфә"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+# Eight ball
+| Field | Detail |
+|---|---|
+| **ID** | i53314 |
+| **English** | eight ball |
+| **Type** | noun |
+| **Definition** | a black pool ball bearing the number 8; should be the last to go in certain pool games |
+| **Source** | common |
+| **Ortatil** | sekizlik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| сегіздік | segizdik |
+
+```json
+{
+    "id": "i53314",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eight ball",
+    "en_definition": "a black pool ball bearing the number 8; should be the last to go in certain pool games",
+    "tr_word": "sekiz numara",
+    "tr_definition": "bilardo oyununda üzerinde 8 rakamı bulunan ve genellikle en son deliğe sokulması gereken siyah top",
+    "ru_word": "восьмёрка",
+    "ru_definition": "черный бильярдный шар с номером 8, который должен быть забит последним в определенных видах игры",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sekiz numara",
+                    "siyah top",
+                    "sekizli"
+                ],
+                "Azerbaijani": [
+                    "səkkiz nömrəli kürə",
+                    "səkkiz nömrəli şar"
+                ],
+                "Turkmen": [
+                    "sekizinji şar"
+                ],
+                "Uzbek": [
+                    "sakkizinchi shar"
+                ],
+                "Uyghur": [
+                    "سەككىزىنچى نومۇرلۇق شار"
+                ],
+                "Kazakh": [
+                    "сегізінші шар"
+                ],
+                "Kyrgyz": [
+                    "сегизинчи шар"
+                ],
+                "Karakalpak": [
+                    "segizlik",
+                    "segiz sanlı shar"
+                ],
+                "Tatar": [
+                    "сигезенче шар",
+                    "сигезле шар"
+                ],
+                "Bashkir": [
+                    "һигеҙенсе шар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qara kürə"
+                ],
+                "Turkmen": [
+                    "gara şar"
+                ],
+                "Uzbek": [
+                    "qora shar"
+                ],
+                "Uyghur": [
+                    "قارا شار"
+                ],
+                "Kazakh": [
+                    "қара шар"
+                ],
+                "Kyrgyz": [
+                    "кара шар"
+                ],
+                "Tatar": [
+                    "кара шар"
+                ],
+                "Bashkir": [
+                    "ҡара шар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сегіздік"
+                ]
+            }
+        }
+    ]
+}
+```
+

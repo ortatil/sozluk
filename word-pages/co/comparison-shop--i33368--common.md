@@ -1,0 +1,155 @@
+# Comparison-shop
+| Field | Detail |
+|---|---|
+| **ID** | i33368 |
+| **English** | comparison-shop |
+| **Type** | verb |
+| **Definition** | compare prices for a given item |
+| **Source** | common |
+| **Ortatil** | bahalaşmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i33368",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "comparison-shop",
+    "en_definition": "compare prices for a given item",
+    "tr_word": "fiyat araştırması yapmak",
+    "tr_definition": "Belirli bir ürün için en uygun fiyatı bulmak amacıyla farklı mağazaların fiyatlarını karşılaştırmak",
+    "ru_word": "сравнивать цены",
+    "ru_definition": "сравнивать цены на определенный товар в разных магазинах перед покупкой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bazar araşdırmaq"
+                ],
+                "Turkmen": [
+                    "baha soraşmak"
+                ],
+                "Uzbek": [
+                    "bozor ko'rmoq"
+                ],
+                "Uyghur": [
+                    "باھا سېلىشتۇرماق",
+                    "باھا تەكشۈرمەك",
+                    "باھا كۆرمەك"
+                ],
+                "Kazakh": [
+                    "баға өлшеу"
+                ],
+                "Kyrgyz": [
+                    "баа бычуу",
+                    "базар кыдыруу"
+                ],
+                "Karakalpak": [
+                    "baha salıstırıo",
+                    "bahasın kório",
+                    "bahasın teksermek",
+                    "bahasın ólshemek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fiyat araştırmak",
+                    "fiyat karşılaştırmak",
+                    "piyasa yoklamak"
+                ],
+                "Kazakh": [
+                    "баға салыстыру",
+                    "баға қарастыру"
+                ],
+                "Kyrgyz": [
+                    "баа салыштыруу",
+                    "баа сураштыруу"
+                ],
+                "Tatar": [
+                    "бәя чагыштыру",
+                    "бәя караштыру",
+                    "бәя тикшерү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nyrh deňeşdirmek"
+                ],
+                "Uzbek": [
+                    "narx solishtirmoq",
+                    "narx qiyoslamoq",
+                    "narx-navo surishtirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çarşı pazar gezmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qiymət araşdırmaq",
+                    "qiymət tutuşdurmaq",
+                    "qiymət müqayisə etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bahalaşmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sorag-ideg etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңдап алу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хаҡ сағыштырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хаҡ белешеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һайлап алыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

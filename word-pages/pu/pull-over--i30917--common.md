@@ -1,0 +1,202 @@
+# Pull over
+| Field | Detail |
+|---|---|
+| **ID** | i30917 |
+| **English** | pull over |
+| **Type** | verb |
+| **Definition** | steer a vehicle to the side of the road |
+| **Source** | common |
+| **Ortatil** | tohtatmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tohtatmaq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.30** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| тоқтау | toqtau |
+| іркілу | irkilu |
+| **Kyrgyz** | |
+| токтотуу | toktotuu |
+| **Bashkir** | |
+| туҡтау | tuqtau |
+
+```json
+{
+    "id": "i30917",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "pull over",
+    "en_definition": "steer a vehicle to the side of the road",
+    "tr_word": "kenara çekmek",
+    "tr_definition": "bir aracı yolun kenarına yönlendirip durdurmak",
+    "ru_word": "притормозить у обочины",
+    "ru_definition": "направить транспортное средство к краю дороги и остановиться",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chetga olmoq",
+                    "chetga chiqmoq"
+                ],
+                "Uyghur": [
+                    "چەتكە ئالماق"
+                ],
+                "Kazakh": [
+                    "шетке шығу",
+                    "шетке тоқтау"
+                ],
+                "Kyrgyz": [
+                    "четке чыгуу"
+                ],
+                "Karakalpak": [
+                    "shetke toqtau"
+                ],
+                "Tatar": [
+                    "читкә туктау"
+                ],
+                "Bashkir": [
+                    "ситкә сығыу",
+                    "ситтәрәк туҡтау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýoluň gyrasyna sürmek"
+                ],
+                "Uzbek": [
+                    "yo'l chetiga to'xtatmoq"
+                ],
+                "Uyghur": [
+                    "يول چىتىغا توختاتماق",
+                    "يول بويىغا توختاتماق"
+                ],
+                "Kyrgyz": [
+                    "жолдун четине токтотуу"
+                ],
+                "Tatar": [
+                    "юл читенә чыгу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'xtatmoq"
+                ],
+                "Kazakh": [
+                    "тоқтау"
+                ],
+                "Kyrgyz": [
+                    "токтотуу"
+                ],
+                "Karakalpak": [
+                    "toqtau"
+                ],
+                "Bashkir": [
+                    "туҡтау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağa çekmek"
+                ],
+                "Azerbaijani": [
+                    "saxlamaq"
+                ],
+                "Turkmen": [
+                    "saklanmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kenara çekmek"
+                ],
+                "Azerbaijani": [
+                    "kənara çəkmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yanaşmak"
+                ],
+                "Azerbaijani": [
+                    "yanaşmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "durdurmak"
+                ],
+                "Turkmen": [
+                    "durmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyra çekmek"
+                ],
+                "Tatar": [
+                    "кырыйга туктау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dayandırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іркілу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jol shetіne shıǵu"
+                ]
+            }
+        }
+    ]
+}
+```
+

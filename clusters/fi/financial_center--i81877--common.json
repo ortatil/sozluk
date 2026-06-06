@@ -1,0 +1,122 @@
+{
+    "id": "i81877",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "financial center",
+    "en_definition": "the part of a city where financial institutions are centered",
+    "tr_word": "finans merkezi",
+    "tr_definition": "bir şehrin finansal kurumlarının yoğunlaştığı bölge",
+    "ru_word": "финансовый центр",
+    "ru_definition": "часть города, где сосредоточены финансовые институты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mali merkez"
+                ],
+                "Azerbaijani": [
+                    "maliyyə mərkəzi"
+                ],
+                "Turkmen": [
+                    "maliýe merkezi"
+                ],
+                "Uzbek": [
+                    "moliya markazi",
+                    "moliya maskani"
+                ],
+                "Uyghur": [
+                    "مالىيە مەركىزى"
+                ],
+                "Kyrgyz": [
+                    "малие борбору"
+                ],
+                "Karakalpak": [
+                    "maliye orayı"
+                ],
+                "Tatar": [
+                    "мал үзәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iktisat merkezi"
+                ],
+                "Azerbaijani": [
+                    "iqtisadi mərkəz"
+                ],
+                "Turkmen": [
+                    "ykdysady merkez"
+                ],
+                "Uzbek": [
+                    "iqtisodiy markaz"
+                ],
+                "Uyghur": [
+                    "ئىقتىساد مەركىزى"
+                ],
+                "Bashkir": [
+                    "аҡса үҙәге",
+                    "иҡтисад үҙәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "finans merkezi"
+                ],
+                "Tatar": [
+                    "финанс үзәге"
+                ],
+                "Bashkir": [
+                    "финанс үҙәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سودا-مالىيە مەركىزى"
+                ],
+                "Kazakh": [
+                    "қаржы орталығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каржы борбору"
+                ],
+                "Karakalpak": [
+                    "qarjı orayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мамон орталығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақша орталығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "акча үзәге"
+                ]
+            }
+        }
+    ]
+}

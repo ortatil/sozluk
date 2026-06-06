@@ -1,0 +1,128 @@
+{
+    "id": "i88393",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bachelor",
+    "en_definition": "a man who has never been married",
+    "tr_word": "bekâr",
+    "tr_definition": "hiç evlenmemiş erkek",
+    "ru_word": "холостяк",
+    "ru_definition": "мужчина, не состоящий в браке и никогда в нём не бывший",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "boýdak"
+                ],
+                "Uzbek": [
+                    "bo'ydoq"
+                ],
+                "Uyghur": [
+                    "بويتاق",
+                    "سويتاڭ"
+                ],
+                "Kazakh": [
+                    "бойдақ"
+                ],
+                "Kyrgyz": [
+                    "бойдок"
+                ],
+                "Karakalpak": [
+                    "boydaq"
+                ],
+                "Tatar": [
+                    "буйдак"
+                ],
+                "Bashkir": [
+                    "буйҙаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "uylanmagan"
+                ],
+                "Uyghur": [
+                    "ئۆيلەنمىگەن"
+                ],
+                "Kazakh": [
+                    "үйленбеген"
+                ],
+                "Tatar": [
+                    "өйләнмәгән"
+                ],
+                "Bashkir": [
+                    "өйләнмәгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "subay"
+                ],
+                "Turkmen": [
+                    "subaý"
+                ],
+                "Kyrgyz": [
+                    "субай"
+                ],
+                "Tatar": [
+                    "субай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yalnız"
+                ],
+                "Kyrgyz": [
+                    "жалгыз бой"
+                ],
+                "Bashkir": [
+                    "яңғыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bekâr"
+                ],
+                "Azerbaijani": [
+                    "bekar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сүрбойдақ"
+                ],
+                "Karakalpak": [
+                    "súrboydaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ergen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mubarrad"
+                ]
+            }
+        }
+    ]
+}

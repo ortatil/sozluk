@@ -1,0 +1,75 @@
+{
+    "id": "i32235",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "island hop",
+    "en_definition": "travel from one island to the next",
+    "tr_word": "adadan adaya gezmek",
+    "tr_definition": "bir adadan diğerine seyahat etmek",
+    "ru_word": "путешествовать с острова на остров",
+    "ru_definition": "перемещаться от одного острова к другому",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ada ada gezmek",
+                    "adadan adaya geçmek",
+                    "adaları dolaşmak"
+                ],
+                "Azerbaijani": [
+                    "adadan adaya keçmək",
+                    "adaları gəzmək",
+                    "adaları dolaşmaq"
+                ],
+                "Turkmen": [
+                    "adadan ada geçmek",
+                    "adama-ada gezmek",
+                    "adalar arasynda syýahat etmek"
+                ],
+                "Kazakh": [
+                    "аралдан аралға өту",
+                    "арал аралау",
+                    "аралдарды кезу"
+                ],
+                "Kyrgyz": [
+                    "аралдан аралга өтүү",
+                    "арал кыдыруу",
+                    "аралдарды кезип жүрүү"
+                ],
+                "Karakalpak": [
+                    "aralap júrio",
+                    "araldan aralǵa ótio",
+                    "arallardı kezio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oroldan orolga o'tmoq",
+                    "orolma-orol kezmoq",
+                    "orollar bo'ylab sayohat qilmoq"
+                ],
+                "Uyghur": [
+                    "ئارالدىن ئارالغا ئۆتمەك",
+                    "ئاراللارنى كېزىپ يۈرمەك",
+                    "ئاراللار ئارا سەپەر قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "утраудан утрауга йөрү",
+                    "утраулар буйлап сәяхәт итү",
+                    "утрауларны гизү"
+                ],
+                "Bashkir": [
+                    "утрауҙан утрауға йөрөү",
+                    "утрауҙар буйлап сәйәхәт итеү"
+                ]
+            }
+        }
+    ]
+}

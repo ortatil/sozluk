@@ -1,0 +1,93 @@
+{
+    "id": "i60639",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "turban",
+    "en_definition": "a traditional Muslim headdress consisting of a long scarf wrapped around the head",
+    "tr_word": "türban",
+    "tr_definition": "Başı örtecek biçimde sarılan uzun kumaş parçası, geleneksel bir başlık.",
+    "ru_word": "тюрбан",
+    "ru_definition": "Мужской и женский головной убор в виде куска ткани, обмотанного вокруг головы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "səllə"
+                ],
+                "Turkmen": [
+                    "selle",
+                    "çalma"
+                ],
+                "Uzbek": [
+                    "salla"
+                ],
+                "Uyghur": [
+                    "سەللە"
+                ],
+                "Kazakh": [
+                    "сәлде"
+                ],
+                "Kyrgyz": [
+                    "селде",
+                    "чалма"
+                ],
+                "Karakalpak": [
+                    "sálle"
+                ],
+                "Tatar": [
+                    "сәллә",
+                    "чалма"
+                ],
+                "Bashkir": [
+                    "сәлмә",
+                    "чалма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "destar"
+                ],
+                "Azerbaijani": [
+                    "dəstər"
+                ],
+                "Uzbek": [
+                    "dastor"
+                ],
+                "Uyghur": [
+                    "دەستار"
+                ],
+                "Kazakh": [
+                    "дастар"
+                ],
+                "Karakalpak": [
+                    "dastar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sarık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tülbent"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əmmamə"
+                ]
+            }
+        }
+    ]
+}

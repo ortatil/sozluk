@@ -1,0 +1,90 @@
+{
+    "id": "i75712",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brake failure",
+    "en_definition": "brakes fail to stop a vehicle",
+    "tr_word": "fren arızası",
+    "tr_definition": "bir aracın frenlerinin aracı durduramaması durumu",
+    "ru_word": "отказ тормозов",
+    "ru_definition": "состояние, при котором тормозная система не может остановить транспортное средство",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tormoz bozulmagy",
+                    "tormoz hatardan çykmagy",
+                    "tormoz tutmazlygy"
+                ],
+                "Uzbek": [
+                    "tormoz buzilishi",
+                    "tormoz ishdan chiqishi",
+                    "tormoz tutmasligi"
+                ],
+                "Uyghur": [
+                    "تورمۇز كاشىلىسى",
+                    "تورمۇز ئىشلىمەسلىك",
+                    "تورمۇز تۇتماسلىق"
+                ],
+                "Kyrgyz": [
+                    "тормоздун иштебей калышы",
+                    "тормоздун бузулушу"
+                ],
+                "Tatar": [
+                    "тормоз бозылу",
+                    "тормоз эшләмәү"
+                ],
+                "Bashkir": [
+                    "тормоз боҙолоу",
+                    "тормоз эшләмәү",
+                    "тормоз тотмау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тежегіштің істен шығуы",
+                    "тежегіштің бұзылуы",
+                    "тежегіштің ұстамауы"
+                ],
+                "Karakalpak": [
+                    "tejegish buzılıoı",
+                    "tejegish isten shıǵıoı",
+                    "tejegishtiń tutpay qalıoı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "токтоткучтун иштебей калышы"
+                ],
+                "Tatar": [
+                    "туктаткыч бозылу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fren patlaması",
+                    "fren boşalması",
+                    "fren arızası",
+                    "fren tutmaması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əyləc nasazlığı",
+                    "əyləcin tutmaması",
+                    "əyləc pozuntusu",
+                    "əyləc xarablığı"
+                ]
+            }
+        }
+    ]
+}

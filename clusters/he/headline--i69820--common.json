@@ -1,0 +1,150 @@
+{
+    "id": "i69820",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "headline",
+    "en_definition": "the heading or caption of a newspaper article",
+    "tr_word": "manşet",
+    "tr_definition": "gazete haberlerinin en başına büyük harflerle konulan başlık",
+    "ru_word": "заголовок",
+    "ru_definition": "название газетной или журнальной статьи, напечатанное крупным шрифтом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başlık"
+                ],
+                "Azerbaijani": [
+                    "başlıq"
+                ],
+                "Turkmen": [
+                    "başlyk"
+                ],
+                "Kazakh": [
+                    "бас тақырып"
+                ],
+                "Kyrgyz": [
+                    "баш сөз",
+                    "башкы бет",
+                    "башкы макала"
+                ],
+                "Karakalpak": [
+                    "baslı sóz",
+                    "bas taqırıp"
+                ],
+                "Tatar": [
+                    "баш исем",
+                    "башлык"
+                ],
+                "Bashkir": [
+                    "баш",
+                    "баш исем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "serlevha"
+                ],
+                "Azerbaijani": [
+                    "sərlövhə"
+                ],
+                "Turkmen": [
+                    "serlewha"
+                ],
+                "Uzbek": [
+                    "sarlavha"
+                ],
+                "Uyghur": [
+                    "سەرلەۋھە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тақырып"
+                ],
+                "Karakalpak": [
+                    "taqırıp"
+                ],
+                "Bashkir": [
+                    "тәүисем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ünvan"
+                ],
+                "Uzbek": [
+                    "unvon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "исем"
+                ],
+                "Bashkir": [
+                    "исем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "manşet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sözbaşy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nom"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماۋزۇ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айдар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аталыш"
+                ]
+            }
+        }
+    ]
+}

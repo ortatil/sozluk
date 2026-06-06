@@ -1,0 +1,116 @@
+{
+    "id": "i71644",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "boarding card",
+    "en_definition": "a pass that allows you to board a ship or plane",
+    "tr_word": "biniş kartı",
+    "tr_definition": "bir uçağa veya gemiye binmenizi sağlayan belge",
+    "ru_word": "посадочный талон",
+    "ru_definition": "документ, дающий право на посадку в самолет или на судно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "отырғызу талоны",
+                    "отырғызу билеті"
+                ],
+                "Kyrgyz": [
+                    "отургузуу талону",
+                    "отургузуу билети"
+                ],
+                "Karakalpak": [
+                    "otırǵızu talonı",
+                    "otırǵızu qaǵazı"
+                ],
+                "Tatar": [
+                    "утыру талоны",
+                    "утыру билеты"
+                ],
+                "Bashkir": [
+                    "ултырыу билеты",
+                    "ултырыу талоны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yoʻllanma"
+                ],
+                "Kazakh": [
+                    "жолдама"
+                ],
+                "Kyrgyz": [
+                    "жолдомо"
+                ],
+                "Karakalpak": [
+                    "jol qaǵazı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "biniş kartı",
+                    "biniş belgesi"
+                ],
+                "Azerbaijani": [
+                    "minik vəsiqəsi",
+                    "minik talonu",
+                    "minik kartı"
+                ],
+                "Turkmen": [
+                    "münüş petegi",
+                    "münüş kartasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uçuş kartı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "petek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qoʻnish taloni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chipta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئايروپىلانغا چىقىش بېلىتى",
+                    "ئايروپىلانغا چىقىش كارتىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چىقىش كارتىسى"
+                ]
+            }
+        }
+    ]
+}

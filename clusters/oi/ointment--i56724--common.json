@@ -1,0 +1,126 @@
+{
+    "id": "i56724",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ointment",
+    "en_definition": "semisolid preparation (usually containing a medicine) applied externally as a remedy or for soothing an irritation",
+    "tr_word": "merhem",
+    "tr_definition": "Deriye sürülerek kullanılan, içinde ilaç bulunan, yumuşak ve yağlı madde.",
+    "ru_word": "мазь",
+    "ru_definition": "Мягкое лекарственное средство для наружного применения, имеющее вязкую консистенцию.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "merhem"
+                ],
+                "Azerbaijani": [
+                    "məlhəm"
+                ],
+                "Turkmen": [
+                    "melhem"
+                ],
+                "Uzbek": [
+                    "malham"
+                ],
+                "Uyghur": [
+                    "مەلھەم"
+                ],
+                "Kazakh": [
+                    "мәлһәм"
+                ],
+                "Karakalpak": [
+                    "málhem"
+                ],
+                "Tatar": [
+                    "мәлһәм"
+                ],
+                "Bashkir": [
+                    "мәлхәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağ",
+                    "yakı"
+                ],
+                "Azerbaijani": [
+                    "yağ",
+                    "yaxma"
+                ],
+                "Kazakh": [
+                    "жақпа",
+                    "жақпа май"
+                ],
+                "Kyrgyz": [
+                    "жакпа"
+                ],
+                "Karakalpak": [
+                    "jaqpa"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "maz"
+                ],
+                "Uzbek": [
+                    "moy"
+                ],
+                "Kyrgyz": [
+                    "май"
+                ],
+                "Tatar": [
+                    "май"
+                ],
+                "Bashkir": [
+                    "май"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "derman"
+                ],
+                "Uyghur": [
+                    "دورا"
+                ],
+                "Karakalpak": [
+                    "dári"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "surma"
+                ],
+                "Uyghur": [
+                    "سۈرتمە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pomat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сыпалма"
+                ]
+            }
+        }
+    ]
+}

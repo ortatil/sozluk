@@ -1,0 +1,116 @@
+{
+    "id": "i109093",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "i",
+    "en_definition": "the smallest whole number or a numeral representing this number",
+    "tr_word": "bir",
+    "tr_definition": "en küçük tam sayı veya bu sayıyı temsil eden rakam",
+    "ru_word": "единица",
+    "ru_definition": "самое маленькое целое число или цифра, представляющая это число",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bir",
+                    "birlik"
+                ],
+                "Azerbaijani": [
+                    "bir"
+                ],
+                "Turkmen": [
+                    "bir",
+                    "birlik"
+                ],
+                "Uzbek": [
+                    "bir"
+                ],
+                "Uyghur": [
+                    "بىر",
+                    "بىرلىك"
+                ],
+                "Kazakh": [
+                    "бір",
+                    "бірлік"
+                ],
+                "Kyrgyz": [
+                    "бир",
+                    "бирдик"
+                ],
+                "Karakalpak": [
+                    "bir",
+                    "birlik"
+                ],
+                "Tatar": [
+                    "бер",
+                    "берлек"
+                ],
+                "Bashkir": [
+                    "бер",
+                    "берле",
+                    "берәмек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tek"
+                ],
+                "Turkmen": [
+                    "ýeke"
+                ],
+                "Uyghur": [
+                    "يەككە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vahid"
+                ],
+                "Uzbek": [
+                    "vohid"
+                ],
+                "Tatar": [
+                    "вахит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жалғыз"
+                ],
+                "Kyrgyz": [
+                    "жалгыз"
+                ],
+                "Karakalpak": [
+                    "jalǵız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yeganə"
+                ],
+                "Uzbek": [
+                    "yagona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "as"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "id": "i1287",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "two-way",
+    "en_definition": "operating or permitting operation in either of two opposite directions",
+    "tr_word": "çift yönlü",
+    "tr_definition": "iki zıt yönde de çalışabilen veya çalışmaya izin veren",
+    "ru_word": "двусторонний",
+    "ru_definition": "действующий или допускающий действие в любом из двух противоположных направлений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki yönlü",
+                    "iki taraflı"
+                ],
+                "Azerbaijani": [
+                    "ikitərəfli"
+                ],
+                "Turkmen": [
+                    "iki taraplaýyn",
+                    "iki ugra"
+                ],
+                "Uzbek": [
+                    "ikki tomonlama",
+                    "ikki yoqlama"
+                ],
+                "Uyghur": [
+                    "ئىككى تەرەپلىمە",
+                    "ئىككى يۆنىلىشلىك"
+                ],
+                "Kazakh": [
+                    "екіжақты"
+                ],
+                "Kyrgyz": [
+                    "эки тараптуу",
+                    "эки жактуу"
+                ],
+                "Karakalpak": [
+                    "eki táreple",
+                    "eki jaqlı"
+                ],
+                "Tatar": [
+                    "ике яклы",
+                    "ике юнәлешле"
+                ],
+                "Bashkir": [
+                    "ике яҡлы",
+                    "ике яҡҡа ла"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karşılıklı"
+                ],
+                "Azerbaijani": [
+                    "qarşılıqlı"
+                ],
+                "Tatar": [
+                    "каршылыклы"
+                ],
+                "Bashkir": [
+                    "ҡаршылы-торло"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "özara"
+                ],
+                "Uzbek": [
+                    "o'zaro"
+                ],
+                "Uyghur": [
+                    "ئۆزئارا"
+                ],
+                "Karakalpak": [
+                    "óz-ara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қайтармалы"
+                ],
+                "Kyrgyz": [
+                    "кайтарма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift yönlü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қосбағытты"
+                ]
+            }
+        }
+    ]
+}

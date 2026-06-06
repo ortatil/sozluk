@@ -1,0 +1,204 @@
+# Taps
+| Field | Detail |
+|---|---|
+| **ID** | i72248 |
+| **English** | taps |
+| **Type** | noun |
+| **Definition** | (military) signal to turn the lights out |
+| **Source** | common |
+| **Ortatil** | belgi |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **belgi** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| белгі | belgi |
+| **Kyrgyz** | |
+| белги | belgi |
+| коңгуроо | koñguroo |
+| **Tatar** | |
+| билге | bilge |
+| сигнал | signal |
+| хәбәр | xäbär |
+
+```json
+{
+    "id": "i72248",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "taps",
+    "en_definition": "(military) signal to turn the lights out",
+    "tr_word": "yat borusu",
+    "tr_definition": "Askerlikte ışıkların söndürülmesi ve yatılması gerektiğini bildiren boru sesi.",
+    "ru_word": "отбой",
+    "ru_definition": "Военный сигнал, подаваемый для того, чтобы ложиться спать и гасить свет.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yat borusu",
+                    "yat komutu"
+                ],
+                "Azerbaijani": [
+                    "yat komandası"
+                ],
+                "Turkmen": [
+                    "ýat buýrugy"
+                ],
+                "Uzbek": [
+                    "yotish buyrug'i"
+                ],
+                "Uyghur": [
+                    "ياتاق سىگنالى"
+                ],
+                "Karakalpak": [
+                    "jatıo signalı"
+                ],
+                "Bashkir": [
+                    "ятыу сигналы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uýky signaly"
+                ],
+                "Uzbek": [
+                    "uyqu signali"
+                ],
+                "Kazakh": [
+                    "ұйқы сигналы"
+                ],
+                "Karakalpak": [
+                    "uyıqlao belgisi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "karnay sadosi"
+                ],
+                "Kazakh": [
+                    "керней дабылы"
+                ],
+                "Karakalpak": [
+                    "kerney dabılı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئۇخلاش سىگنالى"
+                ],
+                "Kyrgyz": [
+                    "уктоо белгиси"
+                ],
+                "Bashkir": [
+                    "йоҡо сигналы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "белгі"
+                ],
+                "Kyrgyz": [
+                    "белги"
+                ],
+                "Tatar": [
+                    "билге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çyra öçürmek buýrugy"
+                ],
+                "Uyghur": [
+                    "چىراغ ئۆچۈرۈش سىگنالى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ışık söndürme işareti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yat siqnalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təbil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коңгуроо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сигнал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәбәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йоҡоға бирелеү сигналы"
+                ]
+            }
+        }
+    ]
+}
+```
+

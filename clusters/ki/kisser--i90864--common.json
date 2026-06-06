@@ -1,0 +1,92 @@
+{
+    "id": "i90864",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "kisser",
+    "en_definition": "someone who kisses",
+    "tr_word": "öpücük veren kimse",
+    "tr_definition": "öpüşen veya birini öpen kişi",
+    "ru_word": "целующийся",
+    "ru_definition": "тот, кто целует или целуется",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öpen",
+                    "öpücü"
+                ],
+                "Azerbaijani": [
+                    "öpən",
+                    "öpüşən"
+                ],
+                "Turkmen": [
+                    "öpýän",
+                    "öpüji"
+                ],
+                "Uzbek": [
+                    "oʻpuvchi"
+                ],
+                "Kyrgyz": [
+                    "өбүүчү"
+                ],
+                "Karakalpak": [
+                    "óbіsushі"
+                ],
+                "Tatar": [
+                    "үбүче",
+                    "үбүче кеше"
+                ],
+                "Bashkir": [
+                    "үбеүсе",
+                    "үбешеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buseci"
+                ],
+                "Uzbek": [
+                    "boʻsa oluvchi"
+                ],
+                "Uyghur": [
+                    "بوسە بەرگۈچى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سۆيگۈچى"
+                ],
+                "Kazakh": [
+                    "сүйгіш"
+                ],
+                "Kyrgyz": [
+                    "сүйүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сүйісуші"
+                ],
+                "Karakalpak": [
+                    "súyіsushі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "беттен сүйгіш"
+                ]
+            }
+        }
+    ]
+}

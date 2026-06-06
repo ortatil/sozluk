@@ -1,0 +1,122 @@
+{
+    "id": "i58030",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "recycling plant",
+    "en_definition": "a plant for reprocessing used or abandoned materials",
+    "tr_word": "geri dönüşüm tesisi",
+    "tr_definition": "kullanılmış veya atılmış malzemelerin yeniden işlenmesi için kurulan tesis",
+    "ru_word": "мусороперерабатывающий завод",
+    "ru_definition": "предприятие по переработке использованных или заброшенных материалов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan işleýän kärhana",
+                    "gaýtadan işleýän zawod",
+                    "galyndylary gaýtadan işleýän kärhana"
+                ],
+                "Uzbek": [
+                    "qayta ishlash zavodi",
+                    "qayta ishlash maskani"
+                ],
+                "Uyghur": [
+                    "قايتا پىششىقلاپ ئىشلەش زاۋۇتى",
+                    "قايتا پايدىلىنىش زاۋۇتى"
+                ],
+                "Kazakh": [
+                    "қайта өңдеу зауыты"
+                ],
+                "Kyrgyz": [
+                    "кайра иштетүүчү ишкана",
+                    "кайра иштетүүчү завод"
+                ],
+                "Karakalpak": [
+                    "qayta isleo zawodı",
+                    "qayta isleo kárxanası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "калдыктарды иштетүүчү жай"
+                ],
+                "Tatar": [
+                    "калдыкларны эшкәртү заводы"
+                ],
+                "Bashkir": [
+                    "ҡалдыҡтарҙы эшкәртеү заводы",
+                    "ҡалдыҡтарҙы эшкәртеү предприятиеһы",
+                    "икенсел сеймалды эшкәртеү заводы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tullantıların emalı zavodu"
+                ],
+                "Uyghur": [
+                    "تاشلاندۇقلارنى قايتا بىر تەرەپ قىلىش زاۋۇتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chiqindini qayta ishlash korxonasi"
+                ],
+                "Kazakh": [
+                    "шикізатты қайта өңдеу орны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geri dönüşüm tesisi",
+                    "geri kazanım tesisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "işleme merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təkrar emal zavodu",
+                    "təkrar emal müəssisəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәдеге жарату кәсіпорны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эшкәртү заводы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат эшкәртү заводы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "id": "i58032",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "red carpet",
+    "en_definition": "a strip of red carpeting laid down for dignitaries to walk on",
+    "tr_word": "kırmızı halı",
+    "tr_definition": "önemli kişilerin geçmesi için yere serilen kırmızı renkli halı",
+    "ru_word": "красная дорожка",
+    "ru_definition": "длинный узкий ковер красного цвета, расстилаемый для торжественного приема почетных гостей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyzyl haly",
+                    "gyzyl düşek"
+                ],
+                "Uzbek": [
+                    "qizil poyandoz",
+                    "qizil gilam"
+                ],
+                "Uyghur": [
+                    "قىزىل گىلەم",
+                    "قىزىل پايانداز"
+                ],
+                "Kazakh": [
+                    "қызыл кілем",
+                    "қызыл төсеніш",
+                    "қызыл алаша"
+                ],
+                "Kyrgyz": [
+                    "кызыл килем",
+                    "кызыл төшөнчү"
+                ],
+                "Karakalpak": [
+                    "qızıl gilem",
+                    "qızıl tóseme",
+                    "qızıl palas"
+                ],
+                "Tatar": [
+                    "кызыл келәм",
+                    "кызыл палас",
+                    "кызыл җәймә"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл балаҫ",
+                    "ҡыҙыл келәм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırmızı halı"
+                ],
+                "Azerbaijani": [
+                    "qırmızı xalça",
+                    "qırmızı gəbə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "protokol halısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tören halısı"
+                ]
+            }
+        }
+    ]
+}

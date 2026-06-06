@@ -1,0 +1,255 @@
+# Humbly
+| Field | Detail |
+|---|---|
+| **ID** | i18836 |
+| **English** | humbly |
+| **Type** | adverb |
+| **Definition** | in a humble manner |
+| **Source** | common |
+| **Ortatil** | müynlü |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| кішіпейілділікпен | kişipeyildilikpen |
+| мүләйімсіп | müläyimsip |
+| төменшіктеп | tömenşiktep |
+| ізетпен | izetpen |
+| ибамен | ibamen |
+
+```json
+{
+    "id": "i18836",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "humbly",
+    "en_definition": "in a humble manner",
+    "tr_word": "mütevazı bir şekilde",
+    "tr_definition": "alçakgönüllülükle, kibirden uzak bir tavırla",
+    "ru_word": "смиренно",
+    "ru_definition": "скромно, без гордости или высокомерия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tevazuyla"
+                ],
+                "Azerbaijani": [
+                    "təvazökarlıqla",
+                    "təvazökarcasına"
+                ],
+                "Uzbek": [
+                    "tavoze bilan"
+                ],
+                "Uyghur": [
+                    "تەۋەززۇ بىلەن"
+                ],
+                "Tatar": [
+                    "тыйнаклык белән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kiçigöwünlilik bilen"
+                ],
+                "Kazakh": [
+                    "кішіпейілділікпен"
+                ],
+                "Kyrgyz": [
+                    "кичипейилдик менен"
+                ],
+                "Karakalpak": [
+                    "kishipeyillik penen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "müýnli"
+                ],
+                "Kazakh": [
+                    "мүләйімсіп"
+                ],
+                "Karakalpak": [
+                    "múláyimlik penen"
+                ],
+                "Bashkir": [
+                    "мөләйемлек менән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "itaətkarlıqla"
+                ],
+                "Turkmen": [
+                    "edep bilen"
+                ],
+                "Uzbek": [
+                    "odob bilan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "مۆمىنلىك بىلەن"
+                ],
+                "Kazakh": [
+                    "төменшіктеп"
+                ],
+                "Karakalpak": [
+                    "tómenshilik penen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pespallyk bilen"
+                ],
+                "Bashkir": [
+                    "баҫалҡылыҡ менән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kamtarona"
+                ],
+                "Uyghur": [
+                    "كەمتەرلىك بىلەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ізетпен"
+                ],
+                "Kyrgyz": [
+                    "ызаат менен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ихласлык белән"
+                ],
+                "Bashkir": [
+                    "ихласлыҡ менән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alçakgönüllülükle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mahviyetle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mütevazıca"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həlimliklə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məzlumcasına"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hokisorlik bilan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خۇشۇ بىلەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ибамен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "моюн сунуу менен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жумшактык менен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sıpayılıq penen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәүбә белән",
+                    "түбәнчелек белән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәүфиҡ менән"
+                ]
+            }
+        }
+    ]
+}
+```
+

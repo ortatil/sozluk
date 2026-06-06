@@ -1,0 +1,85 @@
+{
+    "id": "i37713",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "high jump",
+    "en_definition": "the act of jumping as high as possible over a horizontal bar",
+    "tr_word": "yüksek atlama",
+    "tr_definition": "Yatay bir çıtanın üzerinden mümkün olduğunca yükseğe atlama eylemi.",
+    "ru_word": "прыжки в высоту",
+    "ru_definition": "вид спорта или упражнение, заключающееся в прыжке через горизонтальную планку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "beýiklige bökmek",
+                    "beýiklige böküş"
+                ],
+                "Kazakh": [
+                    "биіктікке секіру",
+                    "биікке секіру"
+                ],
+                "Kyrgyz": [
+                    "бийиктикке секирүү",
+                    "бийик секирүү"
+                ],
+                "Karakalpak": [
+                    "biyiklikke sekirio",
+                    "biyiklikke qarǵıo"
+                ],
+                "Tatar": [
+                    "биеклеккә сикерү"
+                ],
+                "Bashkir": [
+                    "бейеклеккә һикереү",
+                    "бейеккә һикереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüksek atlama"
+                ],
+                "Azerbaijani": [
+                    "yüksəkliyə tullanma"
+                ],
+                "Uzbek": [
+                    "yuqoriga sakrash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hündürlüyə tullanma",
+                    "hündürlüyə atılma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "balandlikka sakrash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېگىزلىككە سەكرەش",
+                    "ئېگىزگە سەكرەش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "югарыга сикерү"
+                ]
+            }
+        }
+    ]
+}

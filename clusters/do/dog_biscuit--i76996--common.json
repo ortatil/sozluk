@@ -1,0 +1,85 @@
+{
+    "id": "i76996",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dog biscuit",
+    "en_definition": "a hard biscuit for dogs",
+    "tr_word": "köpek bisküvisi",
+    "tr_definition": "köpekler için hazırlanmış sert bisküvi",
+    "ru_word": "галета для собак",
+    "ru_definition": "твердое печенье, предназначенное для кормления собак",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "it biskviti",
+                    "it peçenyesi"
+                ],
+                "Turkmen": [
+                    "it kökesi"
+                ],
+                "Uzbek": [
+                    "it pechenyesi",
+                    "it kulchasi",
+                    "it yemagi"
+                ],
+                "Uyghur": [
+                    "ئىت پېچىنە-پىرەنىكى",
+                    "ئىت پېچىنىسى",
+                    "ئىتنىڭ قاتتىق نېنى"
+                ],
+                "Kazakh": [
+                    "ит печеньесі",
+                    "итке арналған нан",
+                    "иттің кептірілген наны"
+                ],
+                "Kyrgyz": [
+                    "иттин печеньеси",
+                    "иттин наны",
+                    "иттин токочу"
+                ],
+                "Karakalpak": [
+                    "iyt pechenesi",
+                    "iyt gúrbikesi"
+                ],
+                "Tatar": [
+                    "эт печеньесы"
+                ],
+                "Bashkir": [
+                    "эт печеньеһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "it çörəyi"
+                ],
+                "Turkmen": [
+                    "it nançygy"
+                ],
+                "Karakalpak": [
+                    "iyt nanı"
+                ],
+                "Tatar": [
+                    "эт ризыгы"
+                ],
+                "Bashkir": [
+                    "эт ризығы",
+                    "эт ашамлығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köpek bisküvisi",
+                    "köpek kurabiyesi",
+                    "köpek ödül maması"
+                ]
+            }
+        }
+    ]
+}

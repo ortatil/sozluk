@@ -1,0 +1,158 @@
+{
+    "id": "i5688",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "municipal",
+    "en_definition": "of or relating to the government of a municipality",
+    "tr_word": "belediye",
+    "tr_definition": "bir belediye yönetimi ile ilgili olan",
+    "ru_word": "муниципальный",
+    "ru_definition": "относящийся к местному самоуправлению или муниципалитету",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehre ait"
+                ],
+                "Azerbaijani": [
+                    "şəhər"
+                ],
+                "Turkmen": [
+                    "şäher"
+                ],
+                "Uzbek": [
+                    "shahar"
+                ],
+                "Uyghur": [
+                    "شەھەرلىك",
+                    "شەھەرگە ئائىت"
+                ],
+                "Tatar": [
+                    "шәһәр"
+                ],
+                "Bashkir": [
+                    "шәһәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yerli"
+                ],
+                "Turkmen": [
+                    "ýerli"
+                ],
+                "Kazakh": [
+                    "жергілікті"
+                ],
+                "Kyrgyz": [
+                    "жергиликтүү"
+                ],
+                "Karakalpak": [
+                    "járdem",
+                    "jergilikli"
+                ],
+                "Tatar": [
+                    "җирле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "belediye",
+                    "belediyesel"
+                ],
+                "Azerbaijani": [
+                    "bələdiyyə"
+                ],
+                "Turkmen": [
+                    "belediýe"
+                ],
+                "Uzbek": [
+                    "baladiya"
+                ],
+                "Uyghur": [
+                    "بەلدىيە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mahalliy"
+                ],
+                "Karakalpak": [
+                    "máhállelik"
+                ],
+                "Bashkir": [
+                    "мәхәллә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қалалық"
+                ],
+                "Karakalpak": [
+                    "qalalıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әкімшілік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мәслихаттық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаардык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коомдук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аймактык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "идарә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "урындағы"
+                ]
+            }
+        }
+    ]
+}

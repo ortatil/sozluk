@@ -1,0 +1,186 @@
+{
+    "id": "i32364",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "hurt",
+    "en_definition": "feel physical pain",
+    "tr_word": "acımak",
+    "tr_definition": "vücudun bir yerinde ağrı veya sızı hissetmek",
+    "ru_word": "болеть",
+    "ru_definition": "ощущать физическую боль в какой-либо части тела",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağrımak",
+                    "acımak"
+                ],
+                "Azerbaijani": [
+                    "ağrımaq",
+                    "incimək"
+                ],
+                "Turkmen": [
+                    "agyrmak",
+                    "ynjamak"
+                ],
+                "Uzbek": [
+                    "og'rimoq"
+                ],
+                "Uyghur": [
+                    "ئاغرىماق"
+                ],
+                "Kazakh": [
+                    "ауыру"
+                ],
+                "Karakalpak": [
+                    "aoırıo"
+                ],
+                "Tatar": [
+                    "авырту"
+                ],
+                "Bashkir": [
+                    "ауыртыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sızlamak"
+                ],
+                "Azerbaijani": [
+                    "sızıldamaq"
+                ],
+                "Turkmen": [
+                    "syzlamak"
+                ],
+                "Uzbek": [
+                    "sizlamoq"
+                ],
+                "Kazakh": [
+                    "сыздау"
+                ],
+                "Kyrgyz": [
+                    "сызда-"
+                ],
+                "Tatar": [
+                    "сызлау",
+                    "чәчрәү"
+                ],
+                "Bashkir": [
+                    "һыҙлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "zirqiramoq"
+                ],
+                "Uyghur": [
+                    "سىقىراماق"
+                ],
+                "Kyrgyz": [
+                    "зыкыра-"
+                ],
+                "Karakalpak": [
+                    "sırqırao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қақсау"
+                ],
+                "Karakalpak": [
+                    "qaqsao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тызылда-"
+                ],
+                "Karakalpak": [
+                    "zıńıldao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "göynəmək",
+                    "göynətmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zowlatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lo'qillamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زەخمىلەنمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұздау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дірілдеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оору-"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "әрнү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәнсеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ғазапланыу"
+                ]
+            }
+        }
+    ]
+}

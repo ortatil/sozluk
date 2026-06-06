@@ -1,0 +1,95 @@
+# Dakar
+| Field | Detail |
+|---|---|
+| **ID** | i83957 |
+| **English** | dakar |
+| **Type** | noun |
+| **Definition** | the capital and chief port and largest city of Senegal |
+| **Source** | common |
+| **Ortatil** | dakar |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **dakar** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| داكار | dakar |
+| **Kazakh** | |
+| Дакар | dakar |
+| **Kyrgyz** | |
+| Дакар | dakar |
+| **Tatar** | |
+| Дакар | dakar |
+| **Bashkir** | |
+| Дакар | dakar |
+
+```json
+{
+    "id": "i83957",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dakar",
+    "en_definition": "the capital and chief port and largest city of Senegal",
+    "tr_word": "Dakar",
+    "tr_definition": "Senegal'in başkenti, en büyük şehri ve ana limanı",
+    "ru_word": "Дакар",
+    "ru_definition": "столица, крупнейший город и главный порт Сенегала",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Dakar"
+                ],
+                "Azerbaijani": [
+                    "Dakar"
+                ],
+                "Turkmen": [
+                    "Dakar"
+                ],
+                "Uzbek": [
+                    "Dakar"
+                ],
+                "Uyghur": [
+                    "داكار"
+                ],
+                "Kazakh": [
+                    "Дакар"
+                ],
+                "Kyrgyz": [
+                    "Дакар"
+                ],
+                "Karakalpak": [
+                    "Dakar"
+                ],
+                "Tatar": [
+                    "Дакар"
+                ],
+                "Bashkir": [
+                    "Дакар"
+                ]
+            }
+        }
+    ]
+}
+```
+

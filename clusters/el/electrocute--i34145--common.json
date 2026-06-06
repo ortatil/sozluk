@@ -1,0 +1,89 @@
+{
+    "id": "i34145",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "electrocute",
+    "en_definition": "kill by electric shock",
+    "tr_word": "elektrikle idam etmek",
+    "tr_definition": "elektrik şoku vererek öldürmek",
+    "ru_word": "казнить на электрическом стуле",
+    "ru_definition": "убить путем поражения электрическим током",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrikle öldürmek",
+                    "elektrik çarpmak"
+                ],
+                "Azerbaijani": [
+                    "elektrik vurmaq"
+                ],
+                "Turkmen": [
+                    "elektrik urmak"
+                ],
+                "Uzbek": [
+                    "elektr urmoq"
+                ],
+                "Kazakh": [
+                    "электрмен өлтіру"
+                ],
+                "Kyrgyz": [
+                    "электр тогу менен өлтүрүү"
+                ],
+                "Karakalpak": [
+                    "elektr togınan qaza tabıu"
+                ],
+                "Tatar": [
+                    "электр белән үтерү"
+                ],
+                "Bashkir": [
+                    "электр менән үлтереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tok urmak",
+                    "tok bilen öldürmek"
+                ],
+                "Uzbek": [
+                    "tok urmoq",
+                    "tok bilan o'ldirmoq"
+                ],
+                "Uyghur": [
+                    "توك سوقۇپ ئۆلتۈرۈش",
+                    "توك سوقۇپ ئۆلۈش",
+                    "توكتا ئۆلتۈرۈش"
+                ],
+                "Kazakh": [
+                    "тоқ соғу",
+                    "тоққа түсу"
+                ],
+                "Kyrgyz": [
+                    "токко урунуу",
+                    "токко уруу"
+                ],
+                "Karakalpak": [
+                    "toq soǵıp óltіrіu"
+                ],
+                "Tatar": [
+                    "ток сугу",
+                    "ток белән үтерү"
+                ],
+                "Bashkir": [
+                    "ток һуғып үлтереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cərəyan vurmaq"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "id": "i64858",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tonsil",
+    "en_definition": "either of two masses of lymphatic tissue one on each side of the oral pharynx",
+    "tr_word": "bademcik",
+    "tr_definition": "Boğazın her iki yanında bulunan, lenf dokusundan oluşan organlardan her biri.",
+    "ru_word": "миндалина",
+    "ru_definition": "скопление лимфоидной ткани, расположенное в области носоглотки и ротовой полости.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beze"
+                ],
+                "Azerbaijani": [
+                    "vəzə"
+                ],
+                "Uzbek": [
+                    "bez"
+                ],
+                "Uyghur": [
+                    "بېز"
+                ],
+                "Kazakh": [
+                    "без"
+                ],
+                "Kyrgyz": [
+                    "без"
+                ],
+                "Karakalpak": [
+                    "bez"
+                ],
+                "Tatar": [
+                    "биз"
+                ],
+                "Bashkir": [
+                    "биҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bademcik"
+                ],
+                "Azerbaijani": [
+                    "badamcıq"
+                ],
+                "Turkmen": [
+                    "badamjyk"
+                ],
+                "Uzbek": [
+                    "bodomcha"
+                ],
+                "Kazakh": [
+                    "бадамша",
+                    "бадамша без"
+                ],
+                "Kyrgyz": [
+                    "бадамча"
+                ],
+                "Karakalpak": [
+                    "badamsha bez"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "тамак бези"
+                ],
+                "Karakalpak": [
+                    "tamaq bezi"
+                ],
+                "Tatar": [
+                    "тамак бизе"
+                ],
+                "Bashkir": [
+                    "тамаҡ биҙе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bokurdak mäzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "murtak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاڭلاي بېزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گال بېزى"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "id": "i93766",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tree surgeon",
+    "en_definition": "a specialist in treating damaged trees",
+    "tr_word": "ağaç cerrahı",
+    "tr_definition": "hasar görmüş veya hasta ağaçların bakımı ve tedavisi konusunda uzmanlaşmış kişi",
+    "ru_word": "арборист",
+    "ru_definition": "специалист по лечению и уходу за деревьями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bağban"
+                ],
+                "Turkmen": [
+                    "bagban",
+                    "bag hünärmeni",
+                    "bag lukmany"
+                ],
+                "Uzbek": [
+                    "bogʻbon"
+                ],
+                "Uyghur": [
+                    "باغۋەنچىلىك مۇتەخەسسىسى"
+                ],
+                "Kazakh": [
+                    "бағбан"
+                ],
+                "Kyrgyz": [
+                    "бакчы",
+                    "бак дарыгери",
+                    "бак адиси"
+                ],
+                "Karakalpak": [
+                    "baǵman"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağaç cerrahı",
+                    "ağaç uzmanı",
+                    "ağaç bakım uzmanı",
+                    "ağaç doktoru"
+                ],
+                "Azerbaijani": [
+                    "ağac həkimi",
+                    "ağac mütəxəssisi"
+                ],
+                "Kazakh": [
+                    "ағаш күтуші",
+                    "ағаш маманы"
+                ],
+                "Tatar": [
+                    "агач белгече",
+                    "агач табибы",
+                    "агач дәвалаучы"
+                ],
+                "Bashkir": [
+                    "ағас белгесе",
+                    "ағас табибы",
+                    "ағас дауалаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "daraxtshunos",
+                    "daraxt tabibi"
+                ],
+                "Uyghur": [
+                    "دەرەخ دوختۇرى",
+                    "دەرەخ شاپتۇلى"
+                ],
+                "Karakalpak": [
+                    "terek kútimi qánigesi",
+                    "terek emleoshi"
+                ]
+            }
+        }
+    ]
+}

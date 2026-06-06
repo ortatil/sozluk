@@ -1,0 +1,89 @@
+{
+    "id": "i48296",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lamb",
+    "en_definition": "young sheep",
+    "tr_word": "kuzu",
+    "tr_definition": "Koyunun yavrusu.",
+    "ru_word": "ягнёнок",
+    "ru_definition": "Детёныш овцы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuzu"
+                ],
+                "Azerbaijani": [
+                    "quzu"
+                ],
+                "Turkmen": [
+                    "guzy"
+                ],
+                "Uzbek": [
+                    "qo'zi",
+                    "qo'zichoq"
+                ],
+                "Uyghur": [
+                    "قوزا",
+                    "قوزىچاق"
+                ],
+                "Kazakh": [
+                    "қозы"
+                ],
+                "Kyrgyz": [
+                    "козу",
+                    "козучак"
+                ],
+                "Karakalpak": [
+                    "qozı"
+                ],
+                "Tatar": [
+                    "кузы"
+                ],
+                "Bashkir": [
+                    "ҡуҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "toklu"
+                ],
+                "Azerbaijani": [
+                    "toğlu"
+                ],
+                "Turkmen": [
+                    "tokly"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "barra"
+                ],
+                "Tatar": [
+                    "бәрән"
+                ],
+                "Bashkir": [
+                    "бәрәс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "марқа"
+                ],
+                "Karakalpak": [
+                    "marqa"
+                ]
+            }
+        }
+    ]
+}

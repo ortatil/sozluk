@@ -1,0 +1,88 @@
+{
+    "id": "i59526",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "steam shovel",
+    "en_definition": "a power shovel that is driven by steam",
+    "tr_word": "buharlı ekskavatör",
+    "tr_definition": "Buhar gücüyle çalışan, toprak kazmak ve taşımak için kullanılan büyük iş makinesi.",
+    "ru_word": "паровой экскаватор",
+    "ru_definition": "Землеройная машина, приводимая в действие паровым двигателем.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buharlı ekskavatör",
+                    "buharlı kazıcı",
+                    "buharlı kepçe"
+                ],
+                "Azerbaijani": [
+                    "buxar ekskavatoru",
+                    "buxar qazanı",
+                    "buxarlı qazıcı"
+                ],
+                "Turkmen": [
+                    "bugly ekskawator",
+                    "bugly gazgyç",
+                    "bugly kündük"
+                ],
+                "Uzbek": [
+                    "bugʻli ekskavator",
+                    "bugʻli kavlagich",
+                    "bugʻli qozuvchi"
+                ],
+                "Karakalpak": [
+                    "buulı ekskawator"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پار قازغۇچ",
+                    "پار كولىغۇچ",
+                    "پارلىق قازغۇچ"
+                ],
+                "Tatar": [
+                    "парлы экскаватор"
+                ],
+                "Bashkir": [
+                    "парлы экскаватор",
+                    "парлы ҡаҙғыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бу қазғышы",
+                    "бу экскаваторы"
+                ],
+                "Kyrgyz": [
+                    "буу күрөгү",
+                    "буу экскаватору"
+                ],
+                "Karakalpak": [
+                    "buu kúshli qazǵısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qazǵısh mashina"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "парлы казу машинасы"
+                ]
+            }
+        }
+    ]
+}

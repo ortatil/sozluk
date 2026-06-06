@@ -1,0 +1,138 @@
+{
+    "id": "i91888",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "passerby",
+    "en_definition": "a person who passes by casually or by chance",
+    "tr_word": "yoldan geçen",
+    "tr_definition": "tesadüfen veya sıradan bir şekilde oradan geçmekte olan kimse",
+    "ru_word": "прохожий",
+    "ru_definition": "человек, который проходит мимо чего-либо или кого-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yolcu",
+                    "yoldan geçen"
+                ],
+                "Azerbaijani": [
+                    "yolçu"
+                ],
+                "Turkmen": [
+                    "ýolagçy"
+                ],
+                "Uzbek": [
+                    "yoʻlovchi"
+                ],
+                "Uyghur": [
+                    "يولۇچى"
+                ],
+                "Kazakh": [
+                    "жолаушы"
+                ],
+                "Kyrgyz": [
+                    "жолоочу"
+                ],
+                "Karakalpak": [
+                    "jolaoshı"
+                ],
+                "Tatar": [
+                    "юлчы"
+                ],
+                "Bashkir": [
+                    "юлсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ötəri"
+                ],
+                "Uzbek": [
+                    "oʻtkinchi"
+                ],
+                "Uyghur": [
+                    "ئۆتكۈنچى"
+                ],
+                "Kazakh": [
+                    "өткінші"
+                ],
+                "Kyrgyz": [
+                    "өткүнчү"
+                ],
+                "Karakalpak": [
+                    "ótkinshi"
+                ],
+                "Tatar": [
+                    "үткенче"
+                ],
+                "Bashkir": [
+                    "үткенсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gelip geçen"
+                ],
+                "Azerbaijani": [
+                    "gəlib-gedən"
+                ],
+                "Turkmen": [
+                    "gelip-geçiji",
+                    "geçip barýan"
+                ],
+                "Bashkir": [
+                    "килеүсе-китеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئۆتۈپ كېتىۋاتقان كىشى"
+                ],
+                "Kyrgyz": [
+                    "өтүп бара жаткан киши"
+                ],
+                "Karakalpak": [
+                    "ótip baratırǵan adam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "keçən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rahrav"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жүргінші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "узгынчы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": "i88310",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "art historian",
+    "en_definition": "a historian of art",
+    "tr_word": "sanat tarihçisi",
+    "tr_definition": "Sanatın tarihsel gelişimini, sanatçıları ve eserlerini inceleyen uzman.",
+    "ru_word": "искусствовед",
+    "ru_definition": "Специалист по истории и теории изобразительных искусств.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanat tarihçisi",
+                    "sanat müverrihi"
+                ],
+                "Azerbaijani": [
+                    "sənətşünas",
+                    "sənət tarixçisi"
+                ],
+                "Turkmen": [
+                    "sungatşynas",
+                    "sungat taryhçysy"
+                ],
+                "Uzbek": [
+                    "sanatshunos",
+                    "sanat tariyxchisi"
+                ],
+                "Uyghur": [
+                    "سەنئەت تارىخچىسى",
+                    "سەنئەت تارىخى مۇتەخەسسىسى"
+                ],
+                "Tatar": [
+                    "сәнгать белгече",
+                    "сәнгать тарихчысы"
+                ],
+                "Bashkir": [
+                    "сәнғәт белгесе",
+                    "сәнғәт тарихсыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өнертанушы",
+                    "өнер тарихшысы"
+                ],
+                "Kyrgyz": [
+                    "өнөр таануучу",
+                    "өнөр тарыхчысы"
+                ],
+                "Karakalpak": [
+                    "óner tanıushı",
+                    "óner tariyxshısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "incəsənət tarixçisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "искусство таануучу"
+                ]
+            }
+        }
+    ]
+}

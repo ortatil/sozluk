@@ -1,0 +1,82 @@
+{
+    "id": "i39191",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sewing",
+    "en_definition": "joining or attaching by stitches",
+    "tr_word": "dikiş",
+    "tr_definition": "dikiş dikme işi veya dikilen yer",
+    "ru_word": "шитьё",
+    "ru_definition": "процесс соединения или скрепления материалов с помощью стежков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dikiş",
+                    "dikme",
+                    "dikim"
+                ],
+                "Azerbaijani": [
+                    "tikiş",
+                    "tikişçilik"
+                ],
+                "Turkmen": [
+                    "tikiniş",
+                    "tikin",
+                    "tikinçilik"
+                ],
+                "Uzbek": [
+                    "tikuv",
+                    "tikish",
+                    "tikuvchilik"
+                ],
+                "Uyghur": [
+                    "تىكىش",
+                    "تىكىمچىلىك",
+                    "تىكىش-بىچىش"
+                ],
+                "Kazakh": [
+                    "тігін",
+                    "тігу",
+                    "тігіншілік"
+                ],
+                "Kyrgyz": [
+                    "тигүү",
+                    "тикмечилик",
+                    "тигиш"
+                ],
+                "Karakalpak": [
+                    "tigis",
+                    "tigio",
+                    "tigin"
+                ],
+                "Tatar": [
+                    "тегү",
+                    "тегүчелек",
+                    "тегү-сыру"
+                ],
+                "Bashkir": [
+                    "тегеү",
+                    "тегенселек",
+                    "тегеү-һыҙыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dərzi",
+                    "dərziçilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "duzandachilik"
+                ]
+            }
+        }
+    ]
+}

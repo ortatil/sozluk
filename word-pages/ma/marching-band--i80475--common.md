@@ -1,0 +1,178 @@
+# Marching band
+| Field | Detail |
+|---|---|
+| **ID** | i80475 |
+| **English** | marching band |
+| **Type** | noun |
+| **Definition** | a band that marches (as in a parade) and plays music at the same time |
+| **Source** | common |
+| **Ortatil** | mızıka |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| оркестр | orkestr |
+| **Tatar** | |
+| нәүбәт | näübät |
+
+```json
+{
+    "id": "i80475",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "marching band",
+    "en_definition": "a band that marches (as in a parade) and plays music at the same time",
+    "tr_word": "bando takımı",
+    "tr_definition": "Genellikle geçit törenlerinde hem yürüyen hem de müzik aletleri çalan müzisyenler topluluğu.",
+    "ru_word": "марширующий оркестр",
+    "ru_definition": "Музыкальный коллектив, исполняющий музыку во время движения, обычно на парадах или спортивных мероприятиях.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbi orkestr"
+                ],
+                "Turkmen": [
+                    "harby orkestr"
+                ],
+                "Uzbek": [
+                    "harbiy orkestr"
+                ],
+                "Uyghur": [
+                    "ھەربىي مۇزىكا ئۆمىكى"
+                ],
+                "Tatar": [
+                    "хәрби оркестр"
+                ],
+                "Bashkir": [
+                    "хәрби оркестр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mızıka"
+                ],
+                "Azerbaijani": [
+                    "musiqi dəstəsi"
+                ],
+                "Uyghur": [
+                    "مۇزىكا ئۆمىكى"
+                ],
+                "Bashkir": [
+                    "музыкаль төркөм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үрмелі аспаптар оркестрі",
+                    "шеру оркестрі"
+                ],
+                "Karakalpak": [
+                    "úrmeli saz áspapları orkestri"
+                ],
+                "Bashkir": [
+                    "өрмәле оркестр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "әскери оркестр"
+                ],
+                "Kyrgyz": [
+                    "аскердик оркестр"
+                ],
+                "Karakalpak": [
+                    "áskeriy orkestr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəfəsli orkestr"
+                ],
+                "Kyrgyz": [
+                    "үрмө аспаптар оркестри"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "damli cholgʻular orkestri"
+                ],
+                "Kyrgyz": [
+                    "оркестр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bando",
+                    "bando takımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mehter"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýöriş orkestri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sazandalar topary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "musiqachilar dastas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەغمە-ناۋا ئۆمىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "нәүбәт",
+                    "нәүбәтчеләр төркеме"
+                ]
+            }
+        }
+    ]
+}
+```
+

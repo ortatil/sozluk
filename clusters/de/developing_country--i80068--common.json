@@ -1,0 +1,105 @@
+{
+    "id": "i80068",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "developing country",
+    "en_definition": "a country that is poor and whose citizens are mostly agricultural workers but that wants to become more advanced socially and economically",
+    "tr_word": "gelişmekte olan ülke",
+    "tr_definition": "sosyal ve ekonomik açıdan daha ileri bir düzeye ulaşmaya çalışan, sanayileşmesi henüz tamamlanmamış ülke",
+    "ru_word": "развивающаяся страна",
+    "ru_definition": "государство с низким уровнем экономического развития, стремящееся к индустриализации и социальному прогрессу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ösüp barýan ýurt",
+                    "ösüş ýolundaky ýurt"
+                ],
+                "Tatar": [
+                    "үсә баручы ил",
+                    "үсештәге ил"
+                ],
+                "Bashkir": [
+                    "үҫешеүсе ил",
+                    "үҫеш юлындағы ил",
+                    "үҫеш кимәле түбән булған ил"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "rivojlanayotgan mamlakat",
+                    "rivojlanayotgan yurt"
+                ],
+                "Uyghur": [
+                    "تەرەققىي قىلىۋاتقان دۆلەت"
+                ],
+                "Karakalpak": [
+                    "raoajlanıp atırǵan mámleket",
+                    "raoajlanıp kiyatırǵan mámleket"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gelişmekte olan ülke"
+                ],
+                "Uyghur": [
+                    "تەرەققىي قىلىۋاتقان ئەل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "az gelişmiş ülke"
+                ],
+                "Azerbaijani": [
+                    "az inkişaf etmiş ölkə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "inkişaf etməkdə olan ölkə",
+                    "inkişafda olan ölkə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taraqqiy etayotgan davlat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дамушы ел",
+                    "дамушы мемлекет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өнүгүп келе жаткан өлкө",
+                    "өнүгүп жаткан мамлекет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "алга баручы ил"
+                ]
+            }
+        }
+    ]
+}

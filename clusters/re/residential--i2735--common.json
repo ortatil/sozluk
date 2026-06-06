@@ -1,0 +1,149 @@
+{
+    "id": "i2735",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "residential",
+    "en_definition": "used or designed for residence or limited to residences",
+    "tr_word": "yerleşim",
+    "tr_definition": "İnsanların oturmasına ayrılmış veya oturmaya elverişli olan yer.",
+    "ru_word": "жилой",
+    "ru_definition": "Предназначенный для жилья, связанный с проживанием людей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meskun"
+                ],
+                "Azerbaijani": [
+                    "məskun"
+                ],
+                "Turkmen": [
+                    "mesgen"
+                ],
+                "Uzbek": [
+                    "maskan"
+                ],
+                "Kazakh": [
+                    "мекендік"
+                ],
+                "Karakalpak": [
+                    "mákánlıq"
+                ],
+                "Tatar": [
+                    "мәскән"
+                ],
+                "Bashkir": [
+                    "мәскән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "turar joy"
+                ],
+                "Uyghur": [
+                    "تۇرالغۇ",
+                    "تۇرالغۇغا ئائىت"
+                ],
+                "Kazakh": [
+                    "тұрғын",
+                    "тұрғын жайлық"
+                ],
+                "Kyrgyz": [
+                    "турак",
+                    "турак жайлык"
+                ],
+                "Karakalpak": [
+                    "turaq jaylıq"
+                ],
+                "Tatar": [
+                    "торак"
+                ],
+                "Bashkir": [
+                    "торлаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yaşayış"
+                ],
+                "Turkmen": [
+                    "ýaşaýyş"
+                ],
+                "Uzbek": [
+                    "yashash"
+                ],
+                "Karakalpak": [
+                    "jasao jaylıq"
+                ],
+                "Tatar": [
+                    "яшәү"
+                ],
+                "Bashkir": [
+                    "йәшәү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konut"
+                ],
+                "Turkmen": [
+                    "konak"
+                ],
+                "Kazakh": [
+                    "қоныстық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ikamet"
+                ],
+                "Azerbaijani": [
+                    "iqamət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئولتۇراق"
+                ],
+                "Kyrgyz": [
+                    "отуруктуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yerleşim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "istiqomat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماكانلىق"
+                ]
+            }
+        }
+    ]
+}

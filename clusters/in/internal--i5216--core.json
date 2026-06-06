@@ -1,0 +1,100 @@
+{
+    "id": "i5216",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "internal",
+    "en_definition": "located inward",
+    "tr_word": "içsel",
+    "tr_definition": "içte bulunan, içeriye ait olan",
+    "ru_word": "внутренний",
+    "ru_definition": "находящийся внутри чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iç",
+                    "içsel"
+                ],
+                "Azerbaijani": [
+                    "iç"
+                ],
+                "Turkmen": [
+                    "içki",
+                    "içerki"
+                ],
+                "Uzbek": [
+                    "ichki"
+                ],
+                "Uyghur": [
+                    "ئىچكى",
+                    "ئىچكىرى"
+                ],
+                "Kazakh": [
+                    "ішкі",
+                    "ішкері",
+                    "ішіндегі"
+                ],
+                "Kyrgyz": [
+                    "ички",
+                    "ички тараптагы",
+                    "ичиндеги"
+                ],
+                "Karakalpak": [
+                    "ishki",
+                    "ishkerki",
+                    "ishtey"
+                ],
+                "Tatar": [
+                    "эчке",
+                    "эчтәге"
+                ],
+                "Bashkir": [
+                    "эске",
+                    "эске яҡтағы",
+                    "эскелек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dahili"
+                ],
+                "Azerbaijani": [
+                    "daxili"
+                ],
+                "Uzbek": [
+                    "daxiliy"
+                ],
+                "Tatar": [
+                    "дахили"
+                ],
+                "Bashkir": [
+                    "дахили"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "batıni"
+                ],
+                "Azerbaijani": [
+                    "batini"
+                ],
+                "Turkmen": [
+                    "batyny"
+                ],
+                "Uzbek": [
+                    "botiniy"
+                ],
+                "Uyghur": [
+                    "باتىنى"
+                ]
+            }
+        }
+    ]
+}

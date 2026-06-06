@@ -1,0 +1,124 @@
+# One-humped
+| Field | Detail |
+|---|---|
+| **ID** | i15651 |
+| **English** | one-humped |
+| **Type** | adjective |
+| **Definition** | having one hump |
+| **Source** | common |
+| **Ortatil** | tögörkä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تۆگۆركە | tögörkä |
+| **Kazakh** | |
+| нар | nar |
+
+```json
+{
+    "id": "i15651",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one-humped",
+    "en_definition": "having one hump",
+    "tr_word": "tek hörgüçlü",
+    "tr_definition": "tek bir hörgücü olan",
+    "ru_word": "одногорбый",
+    "ru_definition": "имеющий один горб",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "birhürgüclü"
+                ],
+                "Turkmen": [
+                    "bir örküçli"
+                ],
+                "Uzbek": [
+                    "bir o'rkachli"
+                ],
+                "Uyghur": [
+                    "بىر ئۆركەشلىك"
+                ],
+                "Kazakh": [
+                    "бір өркешті"
+                ],
+                "Kyrgyz": [
+                    "бир өркөчтүү"
+                ],
+                "Karakalpak": [
+                    "bir órkeshli"
+                ],
+                "Tatar": [
+                    "бер өркәчле",
+                    "бер өркәчле дөя"
+                ],
+                "Bashkir": [
+                    "бер үркәсле",
+                    "бер өркәсле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tek hörgüçlü"
+                ],
+                "Azerbaijani": [
+                    "təkhürgüclü"
+                ],
+                "Uyghur": [
+                    "تەك өركەشلىك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жалғыз өркешті"
+                ],
+                "Kyrgyz": [
+                    "жалгыз өркөчтүү"
+                ],
+                "Karakalpak": [
+                    "jalǵız órkeshli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýeke örküçli"
+                ],
+                "Uzbek": [
+                    "yakka o'rkachli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆگۆركە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нар"
+                ]
+            }
+        }
+    ]
+}
+```
+

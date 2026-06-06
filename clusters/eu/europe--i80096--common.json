@@ -1,0 +1,93 @@
+{
+    "id": "i80096",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "europe",
+    "en_definition": "the nations of the European continent collectively",
+    "tr_word": "Avrupa",
+    "tr_definition": "Avrupa kıtasındaki ülkelerin tamamı",
+    "ru_word": "Европа",
+    "ru_definition": "совокупность стран европейского континента",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Avrupa"
+                ],
+                "Azerbaijani": [
+                    "Avropa"
+                ],
+                "Turkmen": [
+                    "Ýewropa"
+                ],
+                "Uzbek": [
+                    "Ovrupa",
+                    "Yevropa"
+                ],
+                "Uyghur": [
+                    "ياۋروپا"
+                ],
+                "Kazakh": [
+                    "Еуропа",
+                    "Еуропа құрлығы"
+                ],
+                "Kyrgyz": [
+                    "Европа"
+                ],
+                "Karakalpak": [
+                    "Ewropa"
+                ],
+                "Tatar": [
+                    "Аурупа",
+                    "Европа"
+                ],
+                "Bashkir": [
+                    "Европа",
+                    "Аурупа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Garp"
+                ],
+                "Azerbaijani": [
+                    "Qərb"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Batı"
+                ],
+                "Kyrgyz": [
+                    "Батыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Günbatar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "فەرەڭگىستان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Maǵrib"
+                ]
+            }
+        }
+    ]
+}

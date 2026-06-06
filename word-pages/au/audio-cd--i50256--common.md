@@ -1,0 +1,186 @@
+# Audio cd
+| Field | Detail |
+|---|---|
+| **ID** | i50256 |
+| **English** | audio cd |
+| **Type** | noun |
+| **Definition** | compact discs used to reproduce sound (voice and music) |
+| **Source** | common |
+| **Ortatil** | kompakt-disk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| үнтаспа | üntaspa |
+| күйтабақ | küytabaq |
+| **Tatar** | |
+| компакт-диск | kompakt-disk |
+| аудиодиск | audiodisk |
+| **Bashkir** | |
+| компакт-диск | kompakt-disk |
+
+```json
+{
+    "id": "i50256",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "audio cd",
+    "en_definition": "compact discs used to reproduce sound (voice and music)",
+    "tr_word": "ses CD'si",
+    "tr_definition": "ses ve müzik çalmak için kullanılan kompakt disk",
+    "ru_word": "аудио-диск",
+    "ru_definition": "компакт-диск, используемый для воспроизведения звука (голоса и музыки)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ses diski"
+                ],
+                "Azerbaijani": [
+                    "səs diski"
+                ],
+                "Turkmen": [
+                    "ses diski"
+                ],
+                "Karakalpak": [
+                    "sazlı disk"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kompakt disk"
+                ],
+                "Turkmen": [
+                    "kompakt disk"
+                ],
+                "Tatar": [
+                    "компакт-диск"
+                ],
+                "Bashkir": [
+                    "компакт-диск"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müzik diski"
+                ],
+                "Azerbaijani": [
+                    "musiqi diski"
+                ],
+                "Uzbek": [
+                    "musiqiy disk"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovozli disk"
+                ],
+                "Uyghur": [
+                    "ئاۋاز پلاستىنكىسى"
+                ],
+                "Tatar": [
+                    "аудиодиск"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үнтаспа"
+                ],
+                "Kyrgyz": [
+                    "үн табагы",
+                    "үн дискси"
+                ],
+                "Karakalpak": [
+                    "ún taspası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "тыгыз диск"
+                ],
+                "Tatar": [
+                    "тавыш дискы"
+                ],
+                "Bashkir": [
+                    "тауыш яҙмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күйтабақ"
+                ],
+                "Bashkir": [
+                    "көй яҙмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yoğun disk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "plastinka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ixcham disk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۈن پلاستىنكىسى",
+                    "لازېرلىق ئۈن پلاستىنكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дыбыстық диск"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "disk"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,57 @@
+{
+    "id": "i116900",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "monday",
+    "en_definition": "the second day of the week; the first working day",
+    "tr_word": "pazartesi",
+    "tr_definition": "haftanın ikinci günü; ilk iş günü",
+    "ru_word": "понедельник",
+    "ru_definition": "второй день недели; первый рабочий день",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "duşenbe"
+                ],
+                "Uzbek": [
+                    "dushanba"
+                ],
+                "Uyghur": [
+                    "دۈشەنبە"
+                ],
+                "Kazakh": [
+                    "дүйсенбі"
+                ],
+                "Kyrgyz": [
+                    "дүйшөмбү"
+                ],
+                "Karakalpak": [
+                    "dúyshembi",
+                    "dúyshembi kúni"
+                ],
+                "Tatar": [
+                    "дүшәмбе"
+                ],
+                "Bashkir": [
+                    "дүшәмбе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pazartesi"
+                ],
+                "Azerbaijani": [
+                    "bazar ertəsi"
+                ],
+                "Turkmen": [
+                    "başgün"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "id": "i88609",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "boatman",
+    "en_definition": "someone who drives or rides in a boat",
+    "tr_word": "kayıkçı",
+    "tr_definition": "Kayık kullanan veya kayıkla yolcu, eşya taşıyan kimse.",
+    "ru_word": "лодочник",
+    "ru_definition": "Человек, который управляет лодкой или занимается перевозкой на лодке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gəmiçi"
+                ],
+                "Turkmen": [
+                    "gämiçi"
+                ],
+                "Uzbek": [
+                    "kemachi"
+                ],
+                "Uyghur": [
+                    "كېمىچى",
+                    "كېمە ھەيدىگۈچى",
+                    "كېمە يولۇچىسى"
+                ],
+                "Kazakh": [
+                    "кемеші"
+                ],
+                "Kyrgyz": [
+                    "кемечи"
+                ],
+                "Karakalpak": [
+                    "kemeshi"
+                ],
+                "Bashkir": [
+                    "кәмәсе",
+                    "кәмә йөрөтөүсе",
+                    "кәмәләге кеше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kayıkçı"
+                ],
+                "Azerbaijani": [
+                    "qayıqçı"
+                ],
+                "Turkmen": [
+                    "gaýykçy"
+                ],
+                "Uzbek": [
+                    "qayiqchi"
+                ],
+                "Kazakh": [
+                    "қайықшы"
+                ],
+                "Kyrgyz": [
+                    "кайыкчы"
+                ],
+                "Karakalpak": [
+                    "qayıqshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "denizci"
+                ],
+                "Uzbek": [
+                    "daryochi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sandalcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "malla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көймәче",
+                    "көймә йөртүче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "диңгезче"
+                ]
+            }
+        }
+    ]
+}

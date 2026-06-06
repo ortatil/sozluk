@@ -1,0 +1,121 @@
+{
+    "id": "i76714",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "corn sugar",
+    "en_definition": "dextrose used as sweetening agent",
+    "tr_word": "mısır şekeri",
+    "tr_definition": "tatlandırıcı olarak kullanılan dekstroz",
+    "ru_word": "кукурузный сахар",
+    "ru_definition": "декстроза, используемая в качестве подсластителя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dekstroz"
+                ],
+                "Azerbaijani": [
+                    "dekstroza"
+                ],
+                "Turkmen": [
+                    "dekstroza"
+                ],
+                "Uzbek": [
+                    "dekstroza"
+                ],
+                "Uyghur": [
+                    "دېكستروزا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üzüm şekeri"
+                ],
+                "Azerbaijani": [
+                    "üzüm şəkəri"
+                ],
+                "Turkmen": [
+                    "üzüm şekeri"
+                ],
+                "Uzbek": [
+                    "uzum qandi"
+                ],
+                "Bashkir": [
+                    "йөҙөм шәкәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "glýukoza"
+                ],
+                "Karakalpak": [
+                    "glyukoza"
+                ],
+                "Tatar": [
+                    "глюкоза"
+                ],
+                "Bashkir": [
+                    "глюкоза"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жүгері қанты",
+                    "жүгері шәрбаты",
+                    "жүгері сірнесі"
+                ],
+                "Kyrgyz": [
+                    "жүгөрү канты",
+                    "жүгөрү шириндиги",
+                    "жүгөрү шекери"
+                ],
+                "Karakalpak": [
+                    "júgerі qantı",
+                    "júgerі shekerі"
+                ],
+                "Tatar": [
+                    "йөгермә шикәре",
+                    "йөгермә канды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mısır şekeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarğıdalı şəkəri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "makkajoʻxori qandi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوناق شېكىرى"
+                ]
+            }
+        }
+    ]
+}

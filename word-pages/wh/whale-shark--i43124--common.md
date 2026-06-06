@@ -1,0 +1,106 @@
+# Whale shark
+| Field | Detail |
+|---|---|
+| **ID** | i43124 |
+| **English** | whale shark |
+| **Type** | noun |
+| **Definition** | large spotted shark of warm surface waters worldwide; resembles a whale and feeds chiefly on plankton |
+| **Source** | common |
+| **Ortatil** | nähäñ |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i43124",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "whale shark",
+    "en_definition": "large spotted shark of warm surface waters worldwide; resembles a whale and feeds chiefly on plankton",
+    "tr_word": "balina köpekbalığı",
+    "tr_definition": "Dünya genelindeki sıcak yüzey sularında yaşayan, balinaya benzeyen ve esas olarak planktonla beslenen büyük, benekli bir köpekbalığı türü.",
+    "ru_word": "китовая акула",
+    "ru_definition": "Крупная пятнистая акула, обитающая в теплых поверхностных водах по всему миру; напоминает кита и питается в основном планктоном.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kit akulasy"
+                ],
+                "Uzbek": [
+                    "kit akulasi"
+                ],
+                "Uyghur": [
+                    "كېتسىمان لەھەڭ",
+                    "كېتە لەھەڭ"
+                ],
+                "Kazakh": [
+                    "кит тәрізді акула",
+                    "кит акуласы"
+                ],
+                "Kyrgyz": [
+                    "кит сымал акула"
+                ],
+                "Karakalpak": [
+                    "kit sıyaqlı akula"
+                ],
+                "Tatar": [
+                    "кит акуласы"
+                ],
+                "Bashkir": [
+                    "кит акулаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "balina köpek balığı",
+                    "balina köpekbalığı"
+                ],
+                "Azerbaijani": [
+                    "balina köpəkbalığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəhəng köpəkbalığı"
+                ],
+                "Uzbek": [
+                    "nahang"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dáu akula"
+                ],
+                "Bashkir": [
+                    "ҙур акула"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kit köpekbalygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "алп акула"
+                ]
+            }
+        }
+    ]
+}
+```
+

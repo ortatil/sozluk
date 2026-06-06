@@ -1,0 +1,109 @@
+# Ankle brace
+| Field | Detail |
+|---|---|
+| **ID** | i50026 |
+| **English** | ankle brace |
+| **Type** | noun |
+| **Definition** | a brace worn to strengthen the ankle |
+| **Source** | common |
+| **Ortatil** | topiqbäğ |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| тубыклык | tubıklık |
+
+```json
+{
+    "id": "i50026",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ankle brace",
+    "en_definition": "a brace worn to strengthen the ankle",
+    "tr_word": "ayak bilekliği",
+    "tr_definition": "ayak bileğini güçlendirmek veya desteklemek için takılan bir tür destekleyici aparat",
+    "ru_word": "голеностопный ортез",
+    "ru_definition": "ортопедическое приспособление для фиксации и защиты голеностопного сустава",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "topuq sarğısı",
+                    "topuq bəndi",
+                    "topuq dəstəyi"
+                ],
+                "Turkmen": [
+                    "topuk goraýjy",
+                    "topuk sargysy",
+                    "topuk goldawy"
+                ],
+                "Uzbek": [
+                    "toʻpiqbogʻ",
+                    "toʻpiq bogʻlagichi",
+                    "toʻpiq ushlagichi"
+                ],
+                "Kazakh": [
+                    "тобық таңғышы",
+                    "тобық бекіткіші",
+                    "тобық қорғанышы"
+                ],
+                "Karakalpak": [
+                    "tobıq tańǵıshı",
+                    "tobıq bekemlegishi",
+                    "tobıq qorǵaǵıshı"
+                ],
+                "Tatar": [
+                    "тубыклык",
+                    "тубык бәйләвече",
+                    "тубык терәге"
+                ],
+                "Bashkir": [
+                    "тубыҡ терәге",
+                    "тубыҡ бәйләме",
+                    "тубыҡ ҡыҫҡысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayak bilekliği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilek desteği",
+                    "bilek koruyucu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "وشۇق تاسمىسى",
+                    "وشۇق تىرەگۈچى",
+                    "وشۇق قوغدىغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кызыл ашык таңгычы",
+                    "кызыл ашык курчоосу",
+                    "кызыл ашык бекиткичи"
+                ]
+            }
+        }
+    ]
+}
+```
+

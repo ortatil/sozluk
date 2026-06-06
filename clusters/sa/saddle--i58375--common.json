@@ -1,0 +1,102 @@
+{
+    "id": "i58375",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "saddle",
+    "en_definition": "a seat for the rider of a horse or camel",
+    "tr_word": "eyer",
+    "tr_definition": "At veya deve gibi binek hayvanlarının sırtına yerleştirilen, üzerine oturmaya yarayan nesne.",
+    "ru_word": "седло",
+    "ru_definition": "Приспособление для езды верхом, укрепляемое на спине лошади или другого животного.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eyer",
+                    "semer"
+                ],
+                "Turkmen": [
+                    "eyer"
+                ],
+                "Uzbek": [
+                    "egar"
+                ],
+                "Uyghur": [
+                    "ئېگەر"
+                ],
+                "Kazakh": [
+                    "ер"
+                ],
+                "Kyrgyz": [
+                    "ээр"
+                ],
+                "Karakalpak": [
+                    "er"
+                ],
+                "Tatar": [
+                    "ияр"
+                ],
+                "Bashkir": [
+                    "эйәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'qim"
+                ],
+                "Uyghur": [
+                    "توقۇم"
+                ],
+                "Kyrgyz": [
+                    "токум"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "palan"
+                ],
+                "Turkmen": [
+                    "paltar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ер-тоқым"
+                ],
+                "Karakalpak": [
+                    "er-toqım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yəhər",
+                    "yəhər-qaltaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ат ияре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ыңғырсаҡ"
+                ]
+            }
+        }
+    ]
+}

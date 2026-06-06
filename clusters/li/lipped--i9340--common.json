@@ -1,0 +1,98 @@
+{
+    "id": "i9340",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "lipped",
+    "en_definition": "having a lip or lips",
+    "tr_word": "dudaklı",
+    "tr_definition": "dudağı veya dudak benzeri bir kenarı olan",
+    "ru_word": "губчатый",
+    "ru_definition": "имеющий губы или губообразные края",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dudaklı"
+                ],
+                "Azerbaijani": [
+                    "dodaqlı"
+                ],
+                "Turkmen": [
+                    "dodakly"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ləbli"
+                ],
+                "Uzbek": [
+                    "labli",
+                    "labdor"
+                ],
+                "Uyghur": [
+                    "لەۋلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "erňekli"
+                ],
+                "Kyrgyz": [
+                    "эрдүү",
+                    "эрди бар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ерінді",
+                    "еріндік"
+                ],
+                "Karakalpak": [
+                    "erіnlі",
+                    "erіndі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иренле",
+                    "иренле-иренле"
+                ],
+                "Bashkir": [
+                    "иренле",
+                    "ирендәрле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kenarlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağızlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "لەۋدار"
+                ]
+            }
+        }
+    ]
+}

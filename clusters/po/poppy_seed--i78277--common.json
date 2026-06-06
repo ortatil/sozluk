@@ -1,0 +1,77 @@
+{
+    "id": "i78277",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "poppy seed",
+    "en_definition": "small grey seed of a poppy flower; used whole or ground in baked items",
+    "tr_word": "haşhaş tohumu",
+    "tr_definition": "haşhaş çiçeğinin fırın ürünlerinde bütün veya öğütülmüş olarak kullanılan küçük gri tohumu",
+    "ru_word": "семена мака",
+    "ru_definition": "мелкие серые семена мака, используемые целиком или в молотом виде в выпечке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haşhaş",
+                    "haşhaş tohumu"
+                ],
+                "Azerbaijani": [
+                    "xaşxaş",
+                    "xaşxaş toxumu"
+                ],
+                "Turkmen": [
+                    "haşhaş tohumy",
+                    "haşhaş dänesi"
+                ],
+                "Uzbek": [
+                    "hashhash"
+                ],
+                "Uyghur": [
+                    "خەشخاش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ko'knori urug'i",
+                    "ko'knor"
+                ],
+                "Uyghur": [
+                    "كۆكنار ئۇرۇقى",
+                    "كۆكنار دانىسى"
+                ],
+                "Kazakh": [
+                    "көкнәр",
+                    "көкнәр дәні",
+                    "көкнәр тұқымы"
+                ],
+                "Kyrgyz": [
+                    "көкнар"
+                ],
+                "Karakalpak": [
+                    "kóknar tuqımı",
+                    "kóknar dáni"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "мак"
+                ],
+                "Tatar": [
+                    "мәк",
+                    "мәк орлыгы"
+                ],
+                "Bashkir": [
+                    "мәк",
+                    "мәк орлоғо"
+                ]
+            }
+        }
+    ]
+}

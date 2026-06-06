@@ -1,0 +1,165 @@
+# Strong breeze
+| Field | Detail |
+|---|---|
+| **ID** | i97665 |
+| **English** | strong breeze |
+| **Type** | noun |
+| **Definition** | wind moving 25-31 knots; 6 on the Beaufort scale |
+| **Source** | common |
+| **Ortatil** | yel |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i97665",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "strong breeze",
+    "en_definition": "wind moving 25-31 knots; 6 on the Beaufort scale",
+    "tr_word": "sert rüzgâr",
+    "tr_definition": "Beaufort ölçeğinde 6 kuvvetinde, hızı saatte 25-31 deniz mili olan rüzgâr.",
+    "ru_word": "сильный ветер",
+    "ru_definition": "ветер скоростью 25–31 узел; 6 баллов по шкале Бофорта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaty şemal"
+                ],
+                "Uyghur": [
+                    "قاتتىق شامال"
+                ],
+                "Kazakh": [
+                    "қатты жел"
+                ],
+                "Kyrgyz": [
+                    "катуу шамал"
+                ],
+                "Karakalpak": [
+                    "qattı samal"
+                ],
+                "Tatar": [
+                    "каты җил"
+                ],
+                "Bashkir": [
+                    "ҡаты ел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "güclü külək"
+                ],
+                "Turkmen": [
+                    "güýçli şemal"
+                ],
+                "Karakalpak": [
+                    "kúshli samal"
+                ],
+                "Tatar": [
+                    "көчле җил"
+                ],
+                "Bashkir": [
+                    "көслө ел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kuchli shamol"
+                ],
+                "Uyghur": [
+                    "كۈچلۈك شامال"
+                ],
+                "Kazakh": [
+                    "күшті жел"
+                ],
+                "Kyrgyz": [
+                    "күчтүү шамал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sert rüzgar",
+                    "sert meltem"
+                ],
+                "Azerbaijani": [
+                    "sərt külək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şiddətli külək"
+                ],
+                "Uzbek": [
+                    "shiddatli shamol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýel"
+                ],
+                "Karakalpak": [
+                    "jel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tezkor shamol"
+                ],
+                "Uyghur": [
+                    "تېز شامال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "давыллы җил"
+                ],
+                "Bashkir": [
+                    "дауыллы ел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuvvetli rüzgar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "екпінді жел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ыкчам шамал"
+                ]
+            }
+        }
+    ]
+}
+```
+

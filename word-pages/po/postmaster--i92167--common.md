@@ -1,0 +1,80 @@
+# Postmaster
+| Field | Detail |
+|---|---|
+| **ID** | i92167 |
+| **English** | postmaster |
+| **Type** | noun |
+| **Definition** | the person in charge of a post office |
+| **Source** | common |
+| **Ortatil** | postabaşı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i92167",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "postmaster",
+    "en_definition": "the person in charge of a post office",
+    "tr_word": "postane müdürü",
+    "tr_definition": "bir postanenin yönetiminden sorumlu olan en üst düzey görevli",
+    "ru_word": "почтмейстер",
+    "ru_definition": "начальник почтового отделения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "postane müdürü",
+                    "posta müdürü",
+                    "postabaşı"
+                ],
+                "Azerbaijani": [
+                    "poçt müdiri",
+                    "poçtxana rəisi"
+                ],
+                "Turkmen": [
+                    "poçta müdiri",
+                    "poçtahana başlygy",
+                    "poçta başlygy"
+                ],
+                "Uzbek": [
+                    "pochta mudiri",
+                    "pochta boshlig'i"
+                ],
+                "Uyghur": [
+                    "پوچتا باشلىقى",
+                    "پوچتىخانا مەسئۇلى"
+                ],
+                "Kazakh": [
+                    "пошта бастығы",
+                    "пошта меңгерушісі"
+                ],
+                "Kyrgyz": [
+                    "почта башчысы",
+                    "почтакана башчысы",
+                    "почта башкысы"
+                ],
+                "Karakalpak": [
+                    "poshta bastıǵı",
+                    "poshta meńgerushisi"
+                ],
+                "Tatar": [
+                    "почта мөдире",
+                    "почта башлыгы",
+                    "почтаханә мөдире"
+                ],
+                "Bashkir": [
+                    "почта башлығы",
+                    "почта идарасыһы",
+                    "почта мөдире"
+                ]
+            }
+        }
+    ]
+}
+```
+

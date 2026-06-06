@@ -1,0 +1,189 @@
+# Hydroplane
+| Field | Detail |
+|---|---|
+| **ID** | i55005 |
+| **English** | hydroplane |
+| **Type** | noun |
+| **Definition** | a speedboat that is equipped with winglike structures that lift it so that it skims the water at high speeds |
+| **Source** | common |
+| **Ortatil** | hidroplan |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **hidroplan** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.70** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| гидроұшақ | gidrouşaq |
+| суұшақ | suuşaq |
+
+```json
+{
+    "id": "i55005",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hydroplane",
+    "en_definition": "a speedboat that is equipped with winglike structures that lift it so that it skims the water at high speeds",
+    "tr_word": "hidroplan",
+    "tr_definition": "Yüksek hızlarda suyun üzerinde kaymasını sağlayan kanat benzeri yapılara sahip sürat teknesi.",
+    "ru_word": "гидроплан",
+    "ru_definition": "Скоростной катер, оснащенный крыловидными конструкциями, которые приподнимают его так, что он скользит по воде на высоких скоростях.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su uçağı"
+                ],
+                "Azerbaijani": [
+                    "su təyyarəsi"
+                ],
+                "Turkmen": [
+                    "suw uçary"
+                ],
+                "Uyghur": [
+                    "سۇ ئۈستى تېز كېمىسى",
+                    "سۇ ئۈستى ئايروپىلان-كېمىسى"
+                ],
+                "Kyrgyz": [
+                    "суу кемеси"
+                ],
+                "Karakalpak": [
+                    "suo ústi qayıǵı"
+                ],
+                "Tatar": [
+                    "су өсте көймәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "uçan qayıq"
+                ],
+                "Turkmen": [
+                    "uçar gämi"
+                ],
+                "Uzbek": [
+                    "uchuvchi qayiq"
+                ],
+                "Kyrgyz": [
+                    "учуучу кайык"
+                ],
+                "Karakalpak": [
+                    "ushar qayıq"
+                ],
+                "Tatar": [
+                    "очучы көймә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hidroplan"
+                ],
+                "Azerbaijani": [
+                    "hidroplan"
+                ],
+                "Turkmen": [
+                    "gidroplan"
+                ],
+                "Kazakh": [
+                    "гидроұшақ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tezurar qayiq"
+                ],
+                "Kyrgyz": [
+                    "тез жүрүүчү кайык"
+                ],
+                "Karakalpak": [
+                    "tez júrer qayıq"
+                ],
+                "Bashkir": [
+                    "тиҙ йөрөшлө кәмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاناتلىق كېمە"
+                ],
+                "Bashkir": [
+                    "ҡанатлы кәмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deniz uçağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suvosti qanotli kema"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "суұшақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұшатын қайық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тиз йөрешле көймә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу өҫтө кәмәһе"
+                ]
+            }
+        }
+    ]
+}
+```
+

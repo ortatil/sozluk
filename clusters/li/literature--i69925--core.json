@@ -1,0 +1,113 @@
+{
+    "id": "i69925",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "literature",
+    "en_definition": "published writings in a particular style on a particular subject",
+    "tr_word": "literatür",
+    "tr_definition": "belirli bir konu veya bilim dalındaki yayınlanmış yazıların tamamı, kaynakça.",
+    "ru_word": "литература",
+    "ru_definition": "совокупность опубликованных произведений по какому-либо специальному вопросу или отрасли знаний.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "edebiyat"
+                ],
+                "Azerbaijani": [
+                    "ədəbiyyat"
+                ],
+                "Turkmen": [
+                    "edebiýat"
+                ],
+                "Uzbek": [
+                    "adabiyot"
+                ],
+                "Uyghur": [
+                    "ئەدەبىيات"
+                ],
+                "Kazakh": [
+                    "әдебиет"
+                ],
+                "Kyrgyz": [
+                    "адабият"
+                ],
+                "Karakalpak": [
+                    "ádebiyat"
+                ],
+                "Tatar": [
+                    "әдәбият"
+                ],
+                "Bashkir": [
+                    "әҙәбиәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сөз өнері"
+                ],
+                "Kyrgyz": [
+                    "сөз өнөрү"
+                ],
+                "Karakalpak": [
+                    "sóz óneri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazın"
+                ],
+                "Azerbaijani": [
+                    "yazın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eserler"
+                ],
+                "Uzbek": [
+                    "asarlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "язмалар"
+                ],
+                "Bashkir": [
+                    "яҙма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yozuvlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жазбалар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەدەبىي ئەسەرلەر"
+                ]
+            }
+        }
+    ]
+}

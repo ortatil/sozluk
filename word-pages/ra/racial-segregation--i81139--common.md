@@ -1,0 +1,108 @@
+# Racial segregation
+| Field | Detail |
+|---|---|
+| **ID** | i81139 |
+| **English** | racial segregation |
+| **Type** | noun |
+| **Definition** | segregation by race |
+| **Source** | common |
+| **Ortatil** | tefrik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i81139",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "racial segregation",
+    "en_definition": "segregation by race",
+    "tr_word": "ırk ayrımı",
+    "tr_definition": "İnsanların ırklarına göre toplumsal hayatta birbirinden ayrılması.",
+    "ru_word": "расовая сегрегация",
+    "ru_definition": "принудительное разделение людей на расовые группы в повседневной жизни.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ırk ayrımı",
+                    "ırk ayrımcılığı",
+                    "ırksal ayrıştırma"
+                ],
+                "Azerbaijani": [
+                    "irqi ayrı-seçkilik",
+                    "irqi təcrid",
+                    "irqi ayrılma"
+                ],
+                "Turkmen": [
+                    "irky aýry-seçkilik"
+                ],
+                "Uzbek": [
+                    "irqiy ayirmachilik",
+                    "irqiy kamsitish",
+                    "irqiy ajratish"
+                ],
+                "Uyghur": [
+                    "ئىرقىي ئايرىمىچىلىق",
+                    "ئىرقىي ئايرىش",
+                    "ئىرقىي كەمسىتىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "нәсілдік кемсітушілік",
+                    "нәсілдік алалау",
+                    "нәсілдік бөлінушілік"
+                ],
+                "Karakalpak": [
+                    "násildarlıq kemsitio",
+                    "násilge bólip qarao",
+                    "násilshilik",
+                    "násillerdi ajıratıo"
+                ],
+                "Bashkir": [
+                    "нәҫел айырыу",
+                    "нәҫел буйынса айырымлау",
+                    "нәҫел айырмалығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "расалык бөлүнүү",
+                    "расалык обочолонуу",
+                    "расалык жиктөө"
+                ],
+                "Tatar": [
+                    "расачыл аеру",
+                    "расачыл чикләү",
+                    "расачыл аерымлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tefrik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jyns aýry-seçkiligi",
+                    "jyns bölünişigi"
+                ]
+            }
+        }
+    ]
+}
+```
+

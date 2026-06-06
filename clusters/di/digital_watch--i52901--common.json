@@ -1,0 +1,95 @@
+{
+    "id": "i52901",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "digital watch",
+    "en_definition": "a watch with a digital display",
+    "tr_word": "dijital saat",
+    "tr_definition": "zamanı rakamlarla gösteren bir ekranı olan kol saati",
+    "ru_word": "электронные часы",
+    "ru_definition": "часы с цифровым дисплеем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektronik saat"
+                ],
+                "Azerbaijani": [
+                    "elektron saat"
+                ],
+                "Turkmen": [
+                    "elektron sagat"
+                ],
+                "Uzbek": [
+                    "elektron soat"
+                ],
+                "Uyghur": [
+                    "ئېلېكترونلۇق سائەت"
+                ],
+                "Kazakh": [
+                    "электронды сағат"
+                ],
+                "Kyrgyz": [
+                    "электрондук саат"
+                ],
+                "Karakalpak": [
+                    "elektron saat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sayısal saat"
+                ],
+                "Turkmen": [
+                    "sanly sagat"
+                ],
+                "Kazakh": [
+                    "сандық сағат"
+                ],
+                "Kyrgyz": [
+                    "санарип саат"
+                ],
+                "Karakalpak": [
+                    "sanlı saat"
+                ],
+                "Tatar": [
+                    "санлы сәгать"
+                ],
+                "Bashkir": [
+                    "һанлы сәғәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rakamlı saat"
+                ],
+                "Azerbaijani": [
+                    "rəqəmsal saat"
+                ],
+                "Uzbek": [
+                    "raqamli soat"
+                ],
+                "Uyghur": [
+                    "رەقەملىك سائەت"
+                ],
+                "Tatar": [
+                    "рәкымле сәгать"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "цифрлы сәғәт"
+                ]
+            }
+        }
+    ]
+}

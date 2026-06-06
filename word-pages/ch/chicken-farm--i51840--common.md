@@ -1,0 +1,146 @@
+# Chicken farm
+| Field | Detail |
+|---|---|
+| **ID** | i51840 |
+| **English** | chicken farm |
+| **Type** | noun |
+| **Definition** | farm where chickens are raised for sale |
+| **Source** | common |
+| **Ortatil** | tawıqhana |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tawıqhana** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| тооккана | tookkana |
+| **Tatar** | |
+| тавыкханә | tavıkxanä |
+
+```json
+{
+    "id": "i51840",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chicken farm",
+    "en_definition": "farm where chickens are raised for sale",
+    "tr_word": "tavuk çiftliği",
+    "tr_definition": "Tavukların yumurta veya et üretimi amacıyla yetiştirildiği ticari işletme.",
+    "ru_word": "птицеферма",
+    "ru_definition": "Сельскохозяйственное предприятие, занимающееся разведением кур для получения мяса или яиц.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavuk çiftliği",
+                    "tavuk hane"
+                ],
+                "Azerbaijani": [
+                    "toyuq damı"
+                ],
+                "Turkmen": [
+                    "towukçylyk hojalygy",
+                    "towukçylyk fermasy"
+                ],
+                "Uzbek": [
+                    "tovuqchilik xo'jaligi",
+                    "tovuqxona"
+                ],
+                "Kazakh": [
+                    "тауық фермасы",
+                    "тауық қора"
+                ],
+                "Karakalpak": [
+                    "taoıq ferması",
+                    "taoıqxana"
+                ],
+                "Tatar": [
+                    "тавык фермасы",
+                    "тавыкханә"
+                ],
+                "Bashkir": [
+                    "тауыҡ фермаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "quşçuluq təsərrüfatı",
+                    "quşçuluq fabriki"
+                ],
+                "Turkmen": [
+                    "guşçulyk hojalygy"
+                ],
+                "Kazakh": [
+                    "құс фабрикасы",
+                    "құс фермасы"
+                ],
+                "Tatar": [
+                    "кош-корт фермасы"
+                ],
+                "Bashkir": [
+                    "ҡош-ҡон фермаһы",
+                    "ҡош-ҡон заводы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توقاچىلىق مەيدانى",
+                    "توقاچىلىق فېرمىسى",
+                    "توقاچىلىق بازىسى"
+                ],
+                "Kyrgyz": [
+                    "тоок фермасы",
+                    "тооккана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kümes hayvancılığı tesisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "toyuqçuluq təsərrüfatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "parrandachilik xo'jaligi"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,154 @@
+{
+    "id": "i10891",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "bookable",
+    "en_definition": "subject to being reserved or booked",
+    "tr_word": "rezervasyon yapılabilir",
+    "tr_definition": "önceden ayırtılmaya veya rezerve edilmeye uygun olan",
+    "ru_word": "бронируемый",
+    "ru_definition": "доступный для предварительного заказа или бронирования",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bron edilə bilən"
+                ],
+                "Turkmen": [
+                    "bron edilip bilinýän"
+                ],
+                "Kazakh": [
+                    "брондалатын"
+                ],
+                "Kyrgyz": [
+                    "брондолуучу"
+                ],
+                "Tatar": [
+                    "броньлана торган"
+                ],
+                "Bashkir": [
+                    "броньлана торған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئالدىن زاكاز قىلغىلى بولىدىغان"
+                ],
+                "Kazakh": [
+                    "алдын ала тапсырыс берілетін"
+                ],
+                "Kyrgyz": [
+                    "алдын ала ээленүүчү"
+                ],
+                "Tatar": [
+                    "алдан алына торган"
+                ],
+                "Bashkir": [
+                    "алдан алына торған",
+                    "алдан һаҡлана торған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "band qilinadigan",
+                    "band qilsa bo'ladigan"
+                ],
+                "Uyghur": [
+                    "بەند قىلغىلى بولىدىغان"
+                ],
+                "Karakalpak": [
+                    "bántleoge boladı",
+                    "bántlenetuǵın",
+                    "bántleo múmkin",
+                    "bántleoge jaramlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rezerve edilebilir"
+                ],
+                "Azerbaijani": [
+                    "rezerv edilə bilən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayırtılabilir"
+                ],
+                "Kyrgyz": [
+                    "ээленүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "buyurtma beriladigan"
+                ],
+                "Uyghur": [
+                    "بۇيرۇتقىلى بولىدىغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müsait"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tutulabilir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sifariş edilə bilən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ätiýaçlandyryp bolýan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zakaz edilip bilinýän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бекітілетін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чиратка куела торган"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+# Bomb shelter
+| Field | Detail |
+|---|---|
+| **ID** | i50944 |
+| **English** | bomb shelter |
+| **Type** | noun |
+| **Definition** | a chamber (often underground) reinforced against bombing and provided with food and living facilities; used during air raids |
+| **Source** | common |
+| **Ortatil** | panahana |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **panahana** | **sıqınaq** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ❌ | ✅ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 0.67 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.20 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **2.73** | **1.37** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پاناھگاھ | panahgah |
+| **Kazakh** | |
+| бомбапана | bombapana |
+| жерқора | jerqora |
+| панажай | panajay |
+| **Bashkir** | |
+| һаҡлағыс | haqlağıs |
+
+```json
+{
+    "id": "i50944",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bomb shelter",
+    "en_definition": "a chamber (often underground) reinforced against bombing and provided with food and living facilities; used during air raids",
+    "tr_word": "sığınak",
+    "tr_definition": "Hava saldırılarından korunmak amacıyla inşa edilmiş, genellikle yer altında bulunan ve temel yaşam ihtiyaçlarını karşılayan korunaklı yer.",
+    "ru_word": "бомбоубежище",
+    "ru_definition": "Специальное защитное сооружение (обычно подземное), предназначенное для защиты людей от воздействия авиабомб и снарядов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bomba sığınacağı"
+                ],
+                "Turkmen": [
+                    "bomba goranhanasy"
+                ],
+                "Uyghur": [
+                    "بومبىدىن مۇداپىئەلىنىش ئورنى",
+                    "بومبىدىن پاناھلىنىش ئورنى"
+                ],
+                "Kazakh": [
+                    "бомбапана"
+                ],
+                "Kyrgyz": [
+                    "бомбадан коргонуу жайы"
+                ],
+                "Karakalpak": [
+                    "bombapana"
+                ],
+                "Tatar": [
+                    "бомбадан сыену урыны"
+                ],
+                "Bashkir": [
+                    "бомбанан һаҡлағыс",
+                    "бомбанан һыйыныу урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yer altı sığınağı"
+                ],
+                "Azerbaijani": [
+                    "yeraltı sığınacaq"
+                ],
+                "Turkmen": [
+                    "ýerasty goranhana"
+                ],
+                "Uzbek": [
+                    "yerosti boshpanasi"
+                ],
+                "Kazakh": [
+                    "жерқора"
+                ],
+                "Karakalpak": [
+                    "jertóle"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "korunak"
+                ],
+                "Turkmen": [
+                    "goranhana"
+                ],
+                "Kazakh": [
+                    "қорғаныс орны"
+                ],
+                "Kyrgyz": [
+                    "коргонуу жайы"
+                ],
+                "Tatar": [
+                    "куркынычсызлык урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "penahana"
+                ],
+                "Uzbek": [
+                    "panohgoh"
+                ],
+                "Uyghur": [
+                    "پاناھگاھ"
+                ],
+                "Kazakh": [
+                    "панажай"
+                ],
+                "Karakalpak": [
+                    "panaxana"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sığınak"
+                ],
+                "Azerbaijani": [
+                    "sığınacaq"
+                ],
+                "Tatar": [
+                    "сыену урыны"
+                ],
+                "Bashkir": [
+                    "һаҡлағыс",
+                    "һыйыныу урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boshpana"
+                ],
+                "Kyrgyz": [
+                    "баш калкалоочу жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھاۋا ھۇجۇمىدىن مۇداپىئەلىنىش ئورنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яшерен урын"
+                ]
+            }
+        }
+    ]
+}
+```
+

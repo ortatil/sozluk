@@ -1,0 +1,213 @@
+{
+    "id": "i26202",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "predict",
+    "en_definition": "make a prediction about; tell in advance",
+    "tr_word": "tahmin etmek",
+    "tr_definition": "bir şeyin gelecekte ne olacağını önceden söylemek veya kestirmek",
+    "ru_word": "предсказывать",
+    "ru_definition": "сообщать заранее о том, что должно произойти в будущем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oldindan aytmoq"
+                ],
+                "Uyghur": [
+                    "ئالدىن ئېيتماق"
+                ],
+                "Kazakh": [
+                    "алдын ала айту"
+                ],
+                "Kyrgyz": [
+                    "алдын ала айтуу"
+                ],
+                "Karakalpak": [
+                    "aldın ala aytıu"
+                ],
+                "Tatar": [
+                    "алдан әйтү"
+                ],
+                "Bashkir": [
+                    "алдан әйтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fallaşmaq"
+                ],
+                "Turkmen": [
+                    "pala bakmak"
+                ],
+                "Uzbek": [
+                    "fol ochmoq"
+                ],
+                "Uyghur": [
+                    "پال سالماق"
+                ],
+                "Kazakh": [
+                    "бал ашу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yordamak"
+                ],
+                "Kyrgyz": [
+                    "жоромолдоо"
+                ],
+                "Tatar": [
+                    "юрамал ясау"
+                ],
+                "Bashkir": [
+                    "юрамал итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tahmin etmek"
+                ],
+                "Azerbaijani": [
+                    "təxmin etmək"
+                ],
+                "Uyghur": [
+                    "تەخمىن قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qabaqcadan xəbər vermək"
+                ],
+                "Kyrgyz": [
+                    "кабарлоо"
+                ],
+                "Tatar": [
+                    "хәбәр итү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "болжау"
+                ],
+                "Kyrgyz": [
+                    "болжолдоо"
+                ],
+                "Karakalpak": [
+                    "boljau"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көріпкелдік ету"
+                ],
+                "Karakalpak": [
+                    "kórip biliu"
+                ],
+                "Bashkir": [
+                    "күрәҙәлек итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bashorat qilmoq"
+                ],
+                "Uyghur": [
+                    "بېشارەت بەرمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öngörmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kehanette bulunmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "öncədən demək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "proqnozlaşdırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaklamak",
+                    "çak etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öňünden aýtmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "karomat qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "basqarıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "приндау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "фараз итеү"
+                ]
+            }
+        }
+    ]
+}

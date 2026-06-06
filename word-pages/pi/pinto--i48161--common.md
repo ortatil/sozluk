@@ -1,0 +1,156 @@
+# Pinto
+| Field | Detail |
+|---|---|
+| **ID** | i48161 |
+| **English** | pinto |
+| **Type** | noun |
+| **Definition** | a spotted or calico horse or pony |
+| **Source** | common |
+| **Ortatil** | ala |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ala** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.50** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چاشقالا | çaşqala |
+| **Kazakh** | |
+| ала | ala |
+| шұбар | şubar |
+| **Kyrgyz** | |
+| ала | ala |
+| чаар | çaar |
+| **Tatar** | |
+| ала | ala |
+| **Bashkir** | |
+| ала | ala |
+
+```json
+{
+    "id": "i48161",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pinto",
+    "en_definition": "a spotted or calico horse or pony",
+    "tr_word": "alaca at",
+    "tr_definition": "üzerinde beyaz ve başka renklerden oluşan lekeler bulunan at veya midilli",
+    "ru_word": "пинто",
+    "ru_definition": "лошадь или пони пегой масти, имеющая крупные пятна белого и другого цвета",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ala",
+                    "alaca",
+                    "alaca at"
+                ],
+                "Azerbaijani": [
+                    "ala",
+                    "alaca",
+                    "ala-bula",
+                    "çil"
+                ],
+                "Turkmen": [
+                    "ala",
+                    "alaja",
+                    "ala-mula"
+                ],
+                "Uzbek": [
+                    "ola",
+                    "olacha"
+                ],
+                "Uyghur": [
+                    "ئالا ئات"
+                ],
+                "Kazakh": [
+                    "ала",
+                    "ала ат"
+                ],
+                "Kyrgyz": [
+                    "ала",
+                    "ала ат"
+                ],
+                "Karakalpak": [
+                    "ala",
+                    "alasha"
+                ],
+                "Tatar": [
+                    "ала",
+                    "ала ат"
+                ],
+                "Bashkir": [
+                    "ала",
+                    "ала ат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шұбар",
+                    "шұбар ат"
+                ],
+                "Tatar": [
+                    "чуар ат"
+                ],
+                "Bashkir": [
+                    "сыбар ат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چاشقالا"
+                ],
+                "Kyrgyz": [
+                    "чаар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ablah"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pesh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tarǵıl"
+                ]
+            }
+        }
+    ]
+}
+```
+

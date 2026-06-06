@@ -1,0 +1,76 @@
+{
+    "id": "i78166",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "orange zest",
+    "en_definition": "tiny bits of orange peel",
+    "tr_word": "portakal kabuğu rendesi",
+    "tr_definition": "portakal kabuğunun en dıştaki renkli kısmının küçük parçaları",
+    "ru_word": "цедра апельсина",
+    "ru_definition": "мелко натертый верхний слой кожуры апельсина",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "apelsin poʻstlogʻi",
+                    "apelsin qobigʻi",
+                    "apelsin qirindisi"
+                ],
+                "Uyghur": [
+                    "ئاپېلسىن پوستى",
+                    "ئاپېلسىن قىپى",
+                    "ئاپېلسىن پوستىنىڭ قىرىندىسى"
+                ],
+                "Kazakh": [
+                    "апельсин қабығы",
+                    "апельсиннің үгітілген қабығы",
+                    "апельсиннің сыртқы қабығы"
+                ],
+                "Kyrgyz": [
+                    "апельсин кабыгы",
+                    "апельсиндин кыртышы",
+                    "апельсиндин кабыкчасы"
+                ],
+                "Karakalpak": [
+                    "apelsin qabıǵı",
+                    "apelsin qırtısı"
+                ],
+                "Tatar": [
+                    "әфлисун кабыгы",
+                    "әфлисунның тышкы кабыгы"
+                ],
+                "Bashkir": [
+                    "апельсин ҡабығы",
+                    "апельсин юнысҡыһы",
+                    "апельсин ҡырындыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "portakal kabuğu rendesi",
+                    "portakal kabuğu"
+                ],
+                "Azerbaijani": [
+                    "portağal qabığı",
+                    "portağal rəndəsi",
+                    "portağal qabığının rəndəsi"
+                ],
+                "Turkmen": [
+                    "pyrtykal gabygy",
+                    "pyrtykal gabygynyň gyryndysy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кырылган әфлисун кабыгы"
+                ]
+            }
+        }
+    ]
+}

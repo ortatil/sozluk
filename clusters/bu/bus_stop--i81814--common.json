@@ -1,0 +1,100 @@
+{
+    "id": "i81814",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bus stop",
+    "en_definition": "a place on a bus route where buses stop to discharge and take on passengers",
+    "tr_word": "otobüs durağı",
+    "tr_definition": "otobüslerin yolcu indirmek ve bindirmek için durduğu yer",
+    "ru_word": "автобусная остановка",
+    "ru_definition": "место на автобусном маршруте, где автобусы останавливаются для высадки и посадки пассажиров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'xtash joyi"
+                ],
+                "Kazakh": [
+                    "тоқтау орны"
+                ],
+                "Kyrgyz": [
+                    "токтомо"
+                ],
+                "Karakalpak": [
+                    "toqtamıs"
+                ],
+                "Tatar": [
+                    "тукталыш",
+                    "туктау урыны"
+                ],
+                "Bashkir": [
+                    "туҡталыш",
+                    "туҡтау урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dayanacaq"
+                ],
+                "Kazakh": [
+                    "аялдама"
+                ],
+                "Kyrgyz": [
+                    "аялдама"
+                ],
+                "Karakalpak": [
+                    "ayaldama"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "durak"
+                ],
+                "Azerbaijani": [
+                    "duracaq"
+                ],
+                "Turkmen": [
+                    "duralga"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bekleme yeri"
+                ],
+                "Uzbek": [
+                    "bekat"
+                ],
+                "Uyghur": [
+                    "بېكەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "awtobus duralgasy"
+                ],
+                "Uyghur": [
+                    "ئاپتوبۇس بېكىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otobüs durağı"
+                ]
+            }
+        }
+    ]
+}

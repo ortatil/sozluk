@@ -1,0 +1,96 @@
+{
+    "id": "i70390",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "evening prayer",
+    "en_definition": "(Anglican Church) a daily evening service with prayers prescribed in the Book of Common Prayer",
+    "tr_word": "akşam duası",
+    "tr_definition": "Anglikan Kilisesi'nde Book of Common Prayer kitabında belirtilen günlük akşam ibadeti",
+    "ru_word": "вечерня",
+    "ru_definition": "ежедневное вечернее богослужение в Англиканской церкви, предписанное Книгой общих молитв",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akşam duası",
+                    "akşam ibadeti",
+                    "akşam servisi"
+                ],
+                "Azerbaijani": [
+                    "axşam namazı",
+                    "axşam ibadəti"
+                ],
+                "Turkmen": [
+                    "agşam namazy"
+                ],
+                "Uzbek": [
+                    "oqshom duosi"
+                ],
+                "Kazakh": [
+                    "ақшам",
+                    "ақшам намазы"
+                ],
+                "Kyrgyz": [
+                    "акшам"
+                ],
+                "Karakalpak": [
+                    "aqsham"
+                ],
+                "Tatar": [
+                    "ахшам",
+                    "ахшам намазы"
+                ],
+                "Bashkir": [
+                    "ахшам",
+                    "ахшам намаҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şam namazy"
+                ],
+                "Uzbek": [
+                    "shom",
+                    "shom namozi"
+                ],
+                "Uyghur": [
+                    "شام نامىزى",
+                    "شام"
+                ],
+                "Kazakh": [
+                    "шам намазы",
+                    "шам"
+                ],
+                "Kyrgyz": [
+                    "шам",
+                    "шам намазы"
+                ],
+                "Karakalpak": [
+                    "sham",
+                    "sham namazı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məğrib namazı"
+                ],
+                "Uyghur": [
+                    "مەغرىب نامىزى"
+                ],
+                "Tatar": [
+                    "мәгъриб"
+                ],
+                "Bashkir": [
+                    "мәғриб"
+                ]
+            }
+        }
+    ]
+}

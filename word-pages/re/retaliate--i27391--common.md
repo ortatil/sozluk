@@ -1,0 +1,190 @@
+# Retaliate
+| Field | Detail |
+|---|---|
+| **ID** | i27391 |
+| **English** | retaliate |
+| **Type** | verb |
+| **Definition** | take revenge for a perceived wrong |
+| **Source** | common |
+| **Ortatil** | qaytarmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қайтару | qaytaru |
+
+```json
+{
+    "id": "i27391",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "retaliate",
+    "en_definition": "take revenge for a perceived wrong",
+    "tr_word": "misilleme yapmak",
+    "tr_definition": "yapılan bir kötülüğe veya saldırıya aynı şekilde karşılık vermek, öç almak",
+    "ru_word": "отплатить",
+    "ru_definition": "ответить тем же на какой-либо поступок, обычно совершить ответное действие в качестве мести",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öç almak"
+                ],
+                "Turkmen": [
+                    "ar almak",
+                    "öç almak"
+                ],
+                "Uzbek": [
+                    "o'ch olmoq"
+                ],
+                "Uyghur": [
+                    "ئۆچ ئالماق"
+                ],
+                "Kazakh": [
+                    "өш алу"
+                ],
+                "Kyrgyz": [
+                    "өч алуу"
+                ],
+                "Karakalpak": [
+                    "ósh alıu"
+                ],
+                "Tatar": [
+                    "үч алу"
+                ],
+                "Bashkir": [
+                    "үс алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cavab vermək"
+                ],
+                "Turkmen": [
+                    "jogap bermek"
+                ],
+                "Uzbek": [
+                    "javob qaytarmoq"
+                ],
+                "Kazakh": [
+                    "жауап қайтару"
+                ],
+                "Tatar": [
+                    "җавап бирү"
+                ],
+                "Bashkir": [
+                    "яуап биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtargy bermek"
+                ],
+                "Uyghur": [
+                    "قايتۇرما زەربە بەرمەك"
+                ],
+                "Kazakh": [
+                    "қайтару"
+                ],
+                "Kyrgyz": [
+                    "кайтарып берүү"
+                ],
+                "Karakalpak": [
+                    "qaytarıs beriu"
+                ],
+                "Tatar": [
+                    "кайтарма ясау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "intikam almak"
+                ],
+                "Azerbaijani": [
+                    "intiqam almaq"
+                ],
+                "Uzbek": [
+                    "intiqom olmoq"
+                ],
+                "Uyghur": [
+                    "ئىنتىقام ئالماق"
+                ],
+                "Tatar": [
+                    "интикам алу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кек алу"
+                ],
+                "Kyrgyz": [
+                    "кек алуу"
+                ],
+                "Karakalpak": [
+                    "kek alıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karşılık vermek"
+                ],
+                "Bashkir": [
+                    "ҡарымта яһау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qisas almaq"
+                ],
+                "Uzbek": [
+                    "qasos olmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mukabele etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əvəzini çıxmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жооп кайтаруу"
+                ]
+            }
+        }
+    ]
+}
+```
+

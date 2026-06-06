@@ -1,0 +1,195 @@
+# Organized crime
+| Field | Detail |
+|---|---|
+| **ID** | i80451 |
+| **English** | organized crime |
+| **Type** | noun |
+| **Definition** | underworld organizations |
+| **Source** | common |
+| **Ortatil** | mafiya |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **mafiya** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.17** |
+
+```json
+{
+    "id": "i80451",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "organized crime",
+    "en_definition": "underworld organizations",
+    "tr_word": "organize suç",
+    "tr_definition": "Yasa dışı faaliyetleri sistematik ve hiyerarşik bir yapı içinde yürüten suç örgütleri.",
+    "ru_word": "организованная преступность",
+    "ru_definition": "Преступная деятельность, осуществляемая иерархическими структурами в корыстных целях.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cinayətkar dəstə"
+                ],
+                "Turkmen": [
+                    "jenaýat dünýäsi"
+                ],
+                "Uzbek": [
+                    "jinoyat olami"
+                ],
+                "Uyghur": [
+                    "جىنايى گۇرۇھ"
+                ],
+                "Tatar": [
+                    "җинаятьчел төркем",
+                    "җинаятьчел дөнья"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "uyushgan jinoyatchilik"
+                ],
+                "Kyrgyz": [
+                    "уюшкан кылмыштуулук",
+                    "уюшкан кылмыштуу топ"
+                ],
+                "Karakalpak": [
+                    "uyısqan qılmıs"
+                ],
+                "Tatar": [
+                    "оешкан җинаятьчелек"
+                ],
+                "Bashkir": [
+                    "ойошҡан енәйәтселек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mafya"
+                ],
+                "Azerbaijani": [
+                    "mafiya"
+                ],
+                "Uzbek": [
+                    "mafiya"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қылмыстық топ",
+                    "қылмыстық қауымдастық"
+                ],
+                "Kyrgyz": [
+                    "кылмыштуу топ"
+                ],
+                "Karakalpak": [
+                    "qılmıstıq top",
+                    "qılmıstıq jámiyet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yeraltı dünyası"
+                ],
+                "Azerbaijani": [
+                    "yeraltı dünya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jenaýatçylykly topar"
+                ],
+                "Bashkir": [
+                    "енәйәтсел төркөм",
+                    "енәйәт донъяһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "organize suç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çete"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şebeke"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mütəşəkkil cinayətkarlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "guramaçylykly jenaýat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەشكىللىك جىنايەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قارا جەمئىيەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұйымдасқан қылмыс"
+                ]
+            }
+        }
+    ]
+}
+```
+

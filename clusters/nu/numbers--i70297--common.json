@@ -1,0 +1,81 @@
+{
+    "id": "i70297",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "numbers",
+    "en_definition": "the fourth book of the Old Testament; contains a record of the number of Israelites who followed Moses out of Egypt",
+    "tr_word": "Sayılar",
+    "tr_definition": "Eski Ahit'in dördüncü kitabı; Mısır'dan çıkan İsraillilerin sayımını içerir.",
+    "ru_word": "Числа",
+    "ru_definition": "четвертая книга Ветхого Завета; содержит записи о численности израильтян, вышедших из Египта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Sayılar"
+                ],
+                "Azerbaijani": [
+                    "Sayılar"
+                ],
+                "Turkmen": [
+                    "Sanlar"
+                ],
+                "Uzbek": [
+                    "Sonlar"
+                ],
+                "Uyghur": [
+                    "سانلار",
+                    "سانلار كىتابى"
+                ],
+                "Kazakh": [
+                    "Сандар",
+                    "Сандар кітабы"
+                ],
+                "Kyrgyz": [
+                    "Сандар",
+                    "Сандар китеби"
+                ],
+                "Karakalpak": [
+                    "Sanlar",
+                    "Sanlar kitabı"
+                ],
+                "Tatar": [
+                    "Саннар",
+                    "Саннар китабы"
+                ],
+                "Bashkir": [
+                    "Һандар",
+                    "Һандар китабы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Çölde Sayım"
+                ],
+                "Kyrgyz": [
+                    "Чөл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Ədədlər"
+                ],
+                "Uzbek": [
+                    "Adadlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Sifrler"
+                ]
+            }
+        }
+    ]
+}

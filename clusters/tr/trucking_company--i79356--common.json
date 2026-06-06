@@ -1,0 +1,126 @@
+{
+    "id": "i79356",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trucking company",
+    "en_definition": "a company that ships goods or possessions by truck",
+    "tr_word": "nakliye şirketi",
+    "tr_definition": "malları veya eşyaları kamyonla taşıyan şirket",
+    "ru_word": "грузовая автотранспортная компания",
+    "ru_definition": "компания, занимающаяся перевозкой грузов или имущества на грузовых автомобилях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yükdaşıma şirkəti"
+                ],
+                "Turkmen": [
+                    "ýük daşaýan kärhana"
+                ],
+                "Uzbek": [
+                    "yuk tashish korxonasi",
+                    "yuk tashuvchi tashkilot"
+                ],
+                "Uyghur": [
+                    "يۈك توشۇش شىركىتى",
+                    "يۈك تىرانسپورت شىركىتى"
+                ],
+                "Kazakh": [
+                    "жүк тасымалдау кәсіпорны"
+                ],
+                "Kyrgyz": [
+                    "жүк ташуучу ишкана",
+                    "жүк ташуучу компания"
+                ],
+                "Karakalpak": [
+                    "júk tasımallau kárxanası",
+                    "júk tasımallaushı"
+                ],
+                "Tatar": [
+                    "йөк ташу оешмасы",
+                    "йөк ташу ширкәте",
+                    "йөк ташучы"
+                ],
+                "Bashkir": [
+                    "йөк ташыу ойошмаһы",
+                    "йөк ташыу предприятиеһы",
+                    "йөк ташыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşımacılık firması"
+                ],
+                "Azerbaijani": [
+                    "daşıma şirkəti"
+                ],
+                "Kazakh": [
+                    "тасымалдаушы компания",
+                    "тасымал мекемесі"
+                ],
+                "Karakalpak": [
+                    "tasımal mekemesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "transport shirkati",
+                    "transport korxonasi"
+                ],
+                "Uyghur": [
+                    "ترانسپورت شىركىتى"
+                ],
+                "Kyrgyz": [
+                    "транспорттук ишкана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nakliyat şirketi",
+                    "nakliye firması"
+                ],
+                "Azerbaijani": [
+                    "nəqliyyat müəssisəsi",
+                    "nəqliyyat firması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lojistik şirketi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ulag kärhanasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gatnaw kärhanasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік мекемесі"
+                ]
+            }
+        }
+    ]
+}

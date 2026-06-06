@@ -1,0 +1,88 @@
+{
+    "id": "i40190",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "casting",
+    "en_definition": "the act of creating something by casting it in a mold",
+    "tr_word": "döküm",
+    "tr_definition": "Erimiş bir maddeyi bir kalıba dökerek biçimlendirme işi.",
+    "ru_word": "литьё",
+    "ru_definition": "Процесс изготовления изделий путём заливки расплавленного материала в форму.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "guýma",
+                    "guýuş"
+                ],
+                "Uzbek": [
+                    "quyish",
+                    "quyma"
+                ],
+                "Uyghur": [
+                    "قۇيۇش",
+                    "قۇيما",
+                    "قۇيۇلمىچىلىق"
+                ],
+                "Kazakh": [
+                    "құю",
+                    "құйма"
+                ],
+                "Kyrgyz": [
+                    "куюу",
+                    "куюлма",
+                    "куюп жасоо"
+                ],
+                "Karakalpak": [
+                    "quyu",
+                    "quyma"
+                ],
+                "Tatar": [
+                    "кую",
+                    "койма"
+                ],
+                "Bashkir": [
+                    "ҡойоу",
+                    "ҡойорға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kalıba dökme"
+                ],
+                "Azerbaijani": [
+                    "qəlibləmə"
+                ],
+                "Turkmen": [
+                    "galyp"
+                ],
+                "Kazakh": [
+                    "қалыптау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "döküm",
+                    "dökme"
+                ],
+                "Azerbaijani": [
+                    "tökmə",
+                    "tökməçilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "reza"
+                ]
+            }
+        }
+    ]
+}

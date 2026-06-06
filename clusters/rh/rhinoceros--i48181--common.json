@@ -1,0 +1,67 @@
+{
+    "id": "i48181",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rhinoceros",
+    "en_definition": "massive powerful herbivorous odd-toed ungulate of southeast Asia and Africa having very thick skin and one or two horns on the snout",
+    "tr_word": "gergedan",
+    "tr_definition": "Güneydoğu Asya ve Afrika'da yaşayan, burnunun üstünde bir veya iki boynuzu bulunan, çok kalın derili, otçul ve iri bir memeli hayvan.",
+    "ru_word": "носорог",
+    "ru_definition": "Крупное непарнокопытное млекопитающее южных стран с одним или двумя рогами на переносице и толстой кожей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gergedan",
+                    "kerkedan"
+                ],
+                "Azerbaijani": [
+                    "kərgədan",
+                    "gərgədan"
+                ],
+                "Turkmen": [
+                    "kerkedan",
+                    "gergedan"
+                ],
+                "Uzbek": [
+                    "karkidon",
+                    "kark"
+                ],
+                "Uyghur": [
+                    "كەركىدان",
+                    "كەرك"
+                ],
+                "Kazakh": [
+                    "керік"
+                ],
+                "Kyrgyz": [
+                    "керик"
+                ],
+                "Karakalpak": [
+                    "kárkádan"
+                ],
+                "Bashkir": [
+                    "кәркәҙән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мүйізтұмсық"
+                ],
+                "Karakalpak": [
+                    "múyіztumsıq"
+                ],
+                "Tatar": [
+                    "мөгезборын"
+                ],
+                "Bashkir": [
+                    "мөгөҙморон"
+                ]
+            }
+        }
+    ]
+}

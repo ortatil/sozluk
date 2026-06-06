@@ -1,0 +1,144 @@
+{
+    "id": "i94213",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "yardmaster",
+    "en_definition": "a railroad employer who is in charge of a railway yard",
+    "tr_word": "manevra amiri",
+    "tr_definition": "bir demiryolu garındaki veya istasyonundaki manevra işlerini ve personeli yöneten görevli",
+    "ru_word": "начальник станции",
+    "ru_definition": "должностное лицо, распоряжающееся приемом, отправлением и движением поездов, а также маневровыми работами на железнодорожной станции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "istasyon şefi"
+                ],
+                "Azerbaijani": [
+                    "stansiya rəisi"
+                ],
+                "Kazakh": [
+                    "станция бастығы"
+                ],
+                "Karakalpak": [
+                    "stanciya bastıǵı"
+                ],
+                "Tatar": [
+                    "станция башлыгы"
+                ],
+                "Bashkir": [
+                    "станция начальнигы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yol rəisi"
+                ],
+                "Kazakh": [
+                    "жол бастығы"
+                ],
+                "Karakalpak": [
+                    "jolbasshı"
+                ],
+                "Tatar": [
+                    "юл башлыгы"
+                ],
+                "Bashkir": [
+                    "юл хужаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bekat boshligʻi",
+                    "bekat mirzosi"
+                ],
+                "Uyghur": [
+                    "بېكەت باشلىقى"
+                ],
+                "Kazakh": [
+                    "бекет бастығы"
+                ],
+                "Kyrgyz": [
+                    "бекет башчысы",
+                    "бекеттин жетекчиси"
+                ],
+                "Karakalpak": [
+                    "beket bastıǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "demir ýol menziliniň başlygy"
+                ],
+                "Uzbek": [
+                    "temir yoʻl bekati noziri"
+                ],
+                "Kyrgyz": [
+                    "темир жол бекетинин башчысы"
+                ],
+                "Tatar": [
+                    "тимер юл хуҗасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "manevra amiri"
+                ],
+                "Turkmen": [
+                    "menzilbaşy",
+                    "menzil dolandyryjysy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vağzal rəisi"
+                ],
+                "Uyghur": [
+                    "ۋوگزال باشلىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gar müdürü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hareket memuru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆمۈريول بېكەت باشلىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төйөн етәксеһе"
+                ]
+            }
+        }
+    ]
+}

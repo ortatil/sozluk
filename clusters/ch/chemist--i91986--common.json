@@ -1,0 +1,121 @@
+{
+    "id": "i91986",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pharmacist",
+    "en_definition": "a health professional trained in the art of preparing and dispensing drugs",
+    "tr_word": "eczacı",
+    "tr_definition": "ilaçların hazırlanması ve dağıtılması konusunda eğitim almış sağlık uzmanı",
+    "ru_word": "фармацевт",
+    "ru_definition": "специалист с медицинским образованием, занимающийся изготовлением и отпуском лекарственных средств",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "dorishunos"
+                ],
+                "Kazakh": [
+                    "дәрігер",
+                    "дәріханашы"
+                ],
+                "Kyrgyz": [
+                    "дарыгер",
+                    "дарыканачы"
+                ],
+                "Karakalpak": [
+                    "dáripaz",
+                    "dárixanashı"
+                ],
+                "Tatar": [
+                    "даручы"
+                ],
+                "Bashkir": [
+                    "дарыу белгесе",
+                    "дарыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aptekçi"
+                ],
+                "Turkmen": [
+                    "aptekçi"
+                ],
+                "Kyrgyz": [
+                    "аптекачы"
+                ],
+                "Tatar": [
+                    "аптекачы"
+                ],
+                "Bashkir": [
+                    "аптекасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dermançy",
+                    "farmasewt"
+                ],
+                "Uzbek": [
+                    "farmatsevt"
+                ],
+                "Kazakh": [
+                    "фармацевт"
+                ],
+                "Karakalpak": [
+                    "farmacewt"
+                ],
+                "Tatar": [
+                    "фармацевт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eczacı"
+                ],
+                "Azerbaijani": [
+                    "əczaçı",
+                    "əczaxanaçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ispençiyar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "attor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دوراگەر",
+                    "دورا ياسىغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سەيدانە"
+                ]
+            }
+        }
+    ]
+}

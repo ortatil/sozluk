@@ -1,0 +1,146 @@
+{
+    "id": "i36405",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "field goal",
+    "en_definition": "a score in American football; a score made by kicking the ball between the opponents' goal posts",
+    "tr_word": "alan golü",
+    "tr_definition": "Amerikan futbolunda topun rakip kale direkleri arasından vurularak geçirilmesiyle kazanılan sayı",
+    "ru_word": "филд-гол",
+    "ru_definition": "очко в американском футболе, забитое ударом мяча ногой между штангами ворот соперника",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "derweze urgusy"
+                ],
+                "Uzbek": [
+                    "darvoza zarbasi"
+                ],
+                "Uyghur": [
+                    "دەرۋازىغا تېپىش"
+                ],
+                "Kyrgyz": [
+                    "дарбазага сокку",
+                    "дарбазага тебүү"
+                ],
+                "Karakalpak": [
+                    "darbazaǵa soqqı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "meydan qolu"
+                ],
+                "Turkmen": [
+                    "meýdan gol"
+                ],
+                "Uzbek": [
+                    "maydon goli"
+                ],
+                "Uyghur": [
+                    "مەيدان نىشانى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "top urgusy"
+                ],
+                "Uzbek": [
+                    "tepma ochko"
+                ],
+                "Kyrgyz": [
+                    "тепме упай"
+                ],
+                "Karakalpak": [
+                    "tebis upayı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alan golü",
+                    "ayak golü"
+                ],
+                "Azerbaijani": [
+                    "ayaq zərbəsi xalı"
+                ],
+                "Tatar": [
+                    "аяк белән бәрү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "توپ كىرگۈزۈش"
+                ],
+                "Tatar": [
+                    "туп кертү"
+                ],
+                "Bashkir": [
+                    "тупты ҡапҡаға тибеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қақпаға соққы"
+                ],
+                "Bashkir": [
+                    "ҡапҡаға һуғыу",
+                    "ҡапҡаға туп индереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұпай соққысы"
+                ],
+                "Karakalpak": [
+                    "upay soqqısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vuruş golü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zərbə xalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тебу арқылы ұпай жинау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "капкага тибү"
+                ]
+            }
+        }
+    ]
+}

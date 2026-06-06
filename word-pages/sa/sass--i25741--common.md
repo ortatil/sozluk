@@ -1,0 +1,264 @@
+# Sass
+| Field | Detail |
+|---|---|
+| **ID** | i25741 |
+| **English** | sass |
+| **Type** | verb |
+| **Definition** | answer back in an impudent or insolent manner |
+| **Source** | common |
+| **Ortatil** | telläşiomaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **telläşiomaq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.10** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| шапшаңдау | şapşañdau |
+| **Kyrgyz** | |
+| айтыш | aytış |
+| **Tatar** | |
+| телләшү | telläşü |
+| каршылашу | karşılaşu |
+| **Bashkir** | |
+| телләшеү | telläşeü |
+
+```json
+{
+    "id": "i25741",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "sass",
+    "en_definition": "answer back in an impudent or insolent manner",
+    "tr_word": "küstahça cevap vermek",
+    "tr_definition": "birine saygısızca veya arsızca karşılık vermek",
+    "ru_word": "дерзить",
+    "ru_definition": "отвечать кому-либо в грубой, дерзкой или неуважительной форме",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dil qaytarmaq"
+                ],
+                "Turkmen": [
+                    "dil gaýtarmak"
+                ],
+                "Uzbek": [
+                    "tilingillatmoq"
+                ],
+                "Kazakh": [
+                    "тіл тигізу"
+                ],
+                "Karakalpak": [
+                    "tillesio"
+                ],
+                "Tatar": [
+                    "телләшү",
+                    "тел кайтару"
+                ],
+                "Bashkir": [
+                    "телләшеү",
+                    "тел биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cevap yetiştirmek"
+                ],
+                "Azerbaijani": [
+                    "cavab qaytarmaq"
+                ],
+                "Turkmen": [
+                    "jogap gaýtarmak"
+                ],
+                "Uyghur": [
+                    "جاۋاب قايتۇرماق"
+                ],
+                "Bashkir": [
+                    "яуап биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karşılık vermek"
+                ],
+                "Kazakh": [
+                    "қарсы келу"
+                ],
+                "Karakalpak": [
+                    "qarsılasıo"
+                ],
+                "Tatar": [
+                    "каршылашу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сөз қайтару"
+                ],
+                "Karakalpak": [
+                    "sóz qaytarıo"
+                ],
+                "Tatar": [
+                    "сүз кайтару"
+                ],
+                "Bashkir": [
+                    "һүҙ ҡайтарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "terslemek"
+                ],
+                "Uyghur": [
+                    "تەرسلىك قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "diklenmek"
+                ],
+                "Azerbaijani": [
+                    "dikbaşlıq etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hörmətsizlik etmək"
+                ],
+                "Uyghur": [
+                    "ھۆرمەتسىزلىك قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "haýasyzlyk etmek"
+                ],
+                "Kyrgyz": [
+                    "каяша айт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "beodoblik qilmoq"
+                ],
+                "Karakalpak": [
+                    "betpaqlıq etio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бетінен алу"
+                ],
+                "Kyrgyz": [
+                    "беттен ал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "küstahlık etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "laf yetiştirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "edepsizlik etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gap qaytarmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shakkoklik qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاغىز تالاشماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шапшаңдау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айтыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жооп кайтар"
+                ]
+            }
+        }
+    ]
+}
+```
+

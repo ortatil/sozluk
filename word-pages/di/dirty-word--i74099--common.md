@@ -1,0 +1,281 @@
+# Dirty word
+| Field | Detail |
+|---|---|
+| **ID** | i74099 |
+| **English** | dirty word |
+| **Type** | noun |
+| **Definition** | an offensive or indecent word or phrase |
+| **Source** | common |
+| **Ortatil** | söwgü |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **söwgü** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تىل-ھاقتارەت | til-haqtarät |
+
+```json
+{
+    "id": "i74099",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dirty word",
+    "en_definition": "an offensive or indecent word or phrase",
+    "tr_word": "küfür",
+    "tr_definition": "sövgü içeren, kaba veya müstehcen söz",
+    "ru_word": "ругательство",
+    "ru_definition": "грубое, оскорбительное или непристойное слово",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ədəbsiz kəlmə"
+                ],
+                "Turkmen": [
+                    "edepsiz söz"
+                ],
+                "Uzbek": [
+                    "uyatsiz so'z"
+                ],
+                "Uyghur": [
+                    "ئەدەپسىز سۆز"
+                ],
+                "Kazakh": [
+                    "әдепсіз сөз"
+                ],
+                "Kyrgyz": [
+                    "адепсиз сөз"
+                ],
+                "Karakalpak": [
+                    "ádepsiz sóz"
+                ],
+                "Tatar": [
+                    "әдәпсез сүз"
+                ],
+                "Bashkir": [
+                    "әҙәпһеҙ һүҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yomon so'z"
+                ],
+                "Uyghur": [
+                    "يامان سۆز"
+                ],
+                "Kyrgyz": [
+                    "жаман сөз"
+                ],
+                "Karakalpak": [
+                    "jaman sóz"
+                ],
+                "Tatar": [
+                    "яман сүз"
+                ],
+                "Bashkir": [
+                    "яман һүҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ұят сөз"
+                ],
+                "Kyrgyz": [
+                    "уят сөз"
+                ],
+                "Karakalpak": [
+                    "uyat sóz"
+                ],
+                "Bashkir": [
+                    "оятһыҙ һүҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sövgü"
+                ],
+                "Azerbaijani": [
+                    "söyüş"
+                ],
+                "Turkmen": [
+                    "sögünç"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pis söz"
+                ],
+                "Uzbek": [
+                    "fahsh so'z"
+                ],
+                "Uyghur": [
+                    "پەس سۆز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "paýyş söz"
+                ],
+                "Karakalpak": [
+                    "bassız sóz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تىل-ھاقتارەت"
+                ],
+                "Kyrgyz": [
+                    "тил тийгизүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пычрак сүз"
+                ],
+                "Bashkir": [
+                    "бысраҡ һүҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "küfür"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "argo",
+                    "çirkin söz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müstehcen kelime"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nalayiq söz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təhqir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hapa söz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "haqorat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "beadab so'z"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قەبىھ سۆز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "балағат сөз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "боқтық сөз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ыплас сөз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сүгенү сүзе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "насар һүҙ"
+                ]
+            }
+        }
+    ]
+}
+```
+

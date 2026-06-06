@@ -1,0 +1,115 @@
+{
+    "id": "i19353",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "vice versa",
+    "en_definition": "with the order reversed",
+    "tr_word": "tersine",
+    "tr_definition": "sıranın veya durumun tam tersi şekilde, aksine",
+    "ru_word": "наоборот",
+    "ru_definition": "в обратном порядке или в противоположном значении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aksine",
+                    "tersine"
+                ],
+                "Azerbaijani": [
+                    "əksinə",
+                    "tərsinə"
+                ],
+                "Turkmen": [
+                    "tersine",
+                    "tersine-gezekli",
+                    "tersine-gezek",
+                    "aksine"
+                ],
+                "Uyghur": [
+                    "ئەكسىچە"
+                ],
+                "Kyrgyz": [
+                    "керсинче"
+                ],
+                "Karakalpak": [
+                    "terіsіnshe"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "керісінше",
+                    "кері бағытта",
+                    "кері ретпен"
+                ],
+                "Karakalpak": [
+                    "kerіsіnshe"
+                ],
+                "Tatar": [
+                    "киресенчә",
+                    "киресенә",
+                    "кире таба",
+                    "киресенчәсенә"
+                ],
+                "Bashkir": [
+                    "киреһенсә",
+                    "кире яғына",
+                    "киреһенә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilakis"
+                ],
+                "Azerbaijani": [
+                    "biləks"
+                ],
+                "Uzbek": [
+                    "bilaks"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aksicha"
+                ],
+                "Uyghur": [
+                    "ئەكسىچە بولغاندا"
+                ],
+                "Karakalpak": [
+                    "aksinshe"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "teskarisicha"
+                ],
+                "Uyghur": [
+                    "تەتۈرىسىچە"
+                ],
+                "Kyrgyz": [
+                    "тескерисинче",
+                    "тескери"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tam tersi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "id": "i21950",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "lather",
+    "en_definition": "rub soap all over, usually with the purpose of cleaning",
+    "tr_word": "sabunlamak",
+    "tr_definition": "temizlemek amacıyla her tarafına sabun sürmek",
+    "ru_word": "намыливать",
+    "ru_definition": "натирать мылом для образования пены с целью очистки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "köpürtmek"
+                ],
+                "Azerbaijani": [
+                    "köpükləndirmək"
+                ],
+                "Turkmen": [
+                    "köpürtmek"
+                ],
+                "Uzbek": [
+                    "ko'pirtirmoq",
+                    "ko'piklamoq"
+                ],
+                "Uyghur": [
+                    "كۆپۈكلەتمەك",
+                    "كۆپۈك چىقارماق"
+                ],
+                "Kazakh": [
+                    "көбіктендіру",
+                    "көбірту"
+                ],
+                "Kyrgyz": [
+                    "көбүктө-",
+                    "көбүрт-"
+                ],
+                "Karakalpak": [
+                    "kóbirtio"
+                ],
+                "Tatar": [
+                    "күбекләү"
+                ],
+                "Bashkir": [
+                    "күбекләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sabunlamak"
+                ],
+                "Azerbaijani": [
+                    "sabunlamaq"
+                ],
+                "Turkmen": [
+                    "sabynlamak"
+                ],
+                "Uzbek": [
+                    "sovunlamoq"
+                ],
+                "Uyghur": [
+                    "سوپۇنلىماق"
+                ],
+                "Kazakh": [
+                    "сабындау"
+                ],
+                "Karakalpak": [
+                    "sabınlao"
+                ],
+                "Tatar": [
+                    "сабынлау"
+                ],
+                "Bashkir": [
+                    "һабынлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "самында-"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "id": "i106580",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "installment",
+    "en_definition": "a payment of part of a debt; usually paid at regular intervals",
+    "tr_word": "taksit",
+    "tr_definition": "bir borcun belirli zamanlarda ödenmesi gereken parçalarından her biri",
+    "ru_word": "рассрочка",
+    "ru_definition": "способ оплаты товаров или услуг, при котором платёж производится не в полной сумме, а по частям через определённые промежутки времени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bölek-bölek töleg"
+                ],
+                "Uzbek": [
+                    "boʻlib toʻlash"
+                ],
+                "Uyghur": [
+                    "بۆلۈپ تۆلەش",
+                    "بۆلەك"
+                ],
+                "Kazakh": [
+                    "бөліп төлеу"
+                ],
+                "Kyrgyz": [
+                    "бөлүп төлөө"
+                ],
+                "Karakalpak": [
+                    "bólep tóleo"
+                ],
+                "Tatar": [
+                    "бүлеп түләү"
+                ],
+                "Bashkir": [
+                    "бүлеп түләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısım"
+                ],
+                "Azerbaijani": [
+                    "qist"
+                ],
+                "Turkmen": [
+                    "gysym"
+                ],
+                "Uzbek": [
+                    "qist"
+                ],
+                "Kyrgyz": [
+                    "кезектүү төлөм"
+                ],
+                "Tatar": [
+                    "кыстык"
+                ],
+                "Bashkir": [
+                    "ҡыҫып түләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ödem"
+                ],
+                "Kazakh": [
+                    "төлем"
+                ],
+                "Kyrgyz": [
+                    "төлөм"
+                ],
+                "Karakalpak": [
+                    "tólem"
+                ],
+                "Tatar": [
+                    "түләү өлеше"
+                ],
+                "Bashkir": [
+                    "түләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ulush"
+                ],
+                "Kyrgyz": [
+                    "үлүш"
+                ],
+                "Karakalpak": [
+                    "úles"
+                ],
+                "Bashkir": [
+                    "өлөш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taksit"
+                ],
+                "Azerbaijani": [
+                    "təksit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "töleg"
+                ],
+                "Uzbek": [
+                    "toʻlov"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قەرز بۆلىكى"
+                ],
+                "Karakalpak": [
+                    "qarjı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hissə-hissə ödəniş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "paý"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жарна"
+                ]
+            }
+        }
+    ]
+}

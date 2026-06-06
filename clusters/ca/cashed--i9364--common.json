@@ -1,0 +1,148 @@
+{
+    "id": "i9364",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "cashed",
+    "en_definition": "for which money has been paid",
+    "tr_word": "bozdurulmuş",
+    "tr_definition": "karşılığında para ödenmiş olan",
+    "ru_word": "обналиченный",
+    "ru_definition": "за который были выплачены деньги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tölendi",
+                    "tölenen"
+                ],
+                "Uzbek": [
+                    "toʻlangan"
+                ],
+                "Uyghur": [
+                    "تۆلەنگەن"
+                ],
+                "Kazakh": [
+                    "төленген"
+                ],
+                "Kyrgyz": [
+                    "төлөнгөн"
+                ],
+                "Karakalpak": [
+                    "tólengen"
+                ],
+                "Tatar": [
+                    "түләнгән",
+                    "түләнелгән"
+                ],
+                "Bashkir": [
+                    "түләнгән",
+                    "түләүле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nakde çevrilmiş"
+                ],
+                "Azerbaijani": [
+                    "nağdlaşdırılmış"
+                ],
+                "Turkmen": [
+                    "nagtlanan"
+                ],
+                "Uzbek": [
+                    "naqdlashtirilgan"
+                ],
+                "Uyghur": [
+                    "نەقلەشتۈرۈلگەن"
+                ],
+                "Kyrgyz": [
+                    "накталанган"
+                ],
+                "Karakalpak": [
+                    "naqlanǵan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ödenmiş"
+                ],
+                "Azerbaijani": [
+                    "ödənilmiş"
+                ],
+                "Kazakh": [
+                    "өтелген"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ھېسابلانغان"
+                ],
+                "Karakalpak": [
+                    "esaplasqan"
+                ],
+                "Tatar": [
+                    "хисапланган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahsil edilmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bozdurulmuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "verilmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ado etilgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қайтарылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "акчаланган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хаҡы бирелгән"
+                ]
+            }
+        }
+    ]
+}

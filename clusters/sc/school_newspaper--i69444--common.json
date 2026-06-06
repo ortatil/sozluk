@@ -1,0 +1,71 @@
+{
+    "id": "i69444",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "school newspaper",
+    "en_definition": "a newspaper written and published by students in a school",
+    "tr_word": "okul gazetesi",
+    "tr_definition": "bir okuldaki öğrenciler tarafından yazılan ve yayımlanan gazete",
+    "ru_word": "школьная газета",
+    "ru_definition": "газета, написанная и изданная учащимися школы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mektep gazetesi"
+                ],
+                "Azerbaijani": [
+                    "məktəb qəzeti",
+                    "məktəb dərgisi"
+                ],
+                "Turkmen": [
+                    "mekdep gazeti",
+                    "mekdep neşiri"
+                ],
+                "Uzbek": [
+                    "maktab gazetasi",
+                    "maktab ro'znomasi"
+                ],
+                "Uyghur": [
+                    "مەكتەپ گېزىتى",
+                    "مەكتەپ ژۇرنىلى"
+                ],
+                "Kazakh": [
+                    "мектеп газеті",
+                    "мектеп басылымы"
+                ],
+                "Kyrgyz": [
+                    "мектеп гезити",
+                    "мектеп дубал гезити"
+                ],
+                "Karakalpak": [
+                    "mektep gazetası",
+                    "mektep gázeti"
+                ],
+                "Tatar": [
+                    "мәктәп гәзите",
+                    "мәктәп матбугаты"
+                ],
+                "Bashkir": [
+                    "мәктәп гәзите",
+                    "мәктәп баҫмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "okul gazetesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğrenci gazetesi"
+                ]
+            }
+        }
+    ]
+}

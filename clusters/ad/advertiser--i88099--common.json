@@ -1,0 +1,125 @@
+{
+    "id": "i88099",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "advertiser",
+    "en_definition": "someone whose business is advertising",
+    "tr_word": "reklamcı",
+    "tr_definition": "işi reklam yapmak veya reklam vermek olan kimse",
+    "ru_word": "рекламодатель",
+    "ru_definition": "лицо или организация, заказывающие и оплачивающие рекламу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilan sahibi"
+                ],
+                "Azerbaijani": [
+                    "elanverən"
+                ],
+                "Uzbek": [
+                    "eʼlon beruvchi"
+                ],
+                "Uyghur": [
+                    "ئېلانچى"
+                ],
+                "Tatar": [
+                    "игъланчы"
+                ],
+                "Bashkir": [
+                    "иғлан биреүсе",
+                    "иғлансы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "reklamcı"
+                ],
+                "Azerbaijani": [
+                    "reklamçı"
+                ],
+                "Uzbek": [
+                    "reklamachi"
+                ],
+                "Tatar": [
+                    "рекламалаучы"
+                ],
+                "Bashkir": [
+                    "реклама биреүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jarçy"
+                ],
+                "Kazakh": [
+                    "жарнамашы",
+                    "жарнама беруші"
+                ],
+                "Kyrgyz": [
+                    "жарнамачы",
+                    "жарнама берүүчү"
+                ],
+                "Karakalpak": [
+                    "jarnamashı",
+                    "jarnama berioshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təbliğatçı"
+                ],
+                "Uzbek": [
+                    "targʻibotchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bildirişçi"
+                ],
+                "Tatar": [
+                    "белдерүче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "münadi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duyurucu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mahabatçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەشۋىقاتچى"
+                ]
+            }
+        }
+    ]
+}

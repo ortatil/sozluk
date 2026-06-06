@@ -1,0 +1,175 @@
+# Crown jewels
+| Field | Detail |
+|---|---|
+| **ID** | i52554 |
+| **English** | crown jewels |
+| **Type** | noun |
+| **Definition** | regalia (jewelry and other paraphernalia) worn by a sovereign on state occasions |
+| **Source** | common |
+| **Ortatil** | hazına |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i52554",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "crown jewels",
+    "en_definition": "regalia (jewelry and other paraphernalia) worn by a sovereign on state occasions",
+    "tr_word": "hanedan mücevherleri",
+    "tr_definition": "Bir hükümdarın törenlerde taktığı mücevherler ve diğer saltanat simgeleri.",
+    "ru_word": "коронационные регалии",
+    "ru_definition": "Драгоценности и другие атрибуты власти, которые монарх носит во время торжественных церемоний.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "patyşalyk şaý-sepleri"
+                ],
+                "Kazakh": [
+                    "патшалық регалиялар"
+                ],
+                "Kyrgyz": [
+                    "падышалык асыл таштар"
+                ],
+                "Karakalpak": [
+                    "patshalıq zıyanetleri"
+                ],
+                "Tatar": [
+                    "патшалык регалияләре"
+                ],
+                "Bashkir": [
+                    "батшалыҡ билдәләре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "täç-tagt şaý-sepleri"
+                ],
+                "Uyghur": [
+                    "تاج-تەخت زىبۇ-زىننەتلىرى"
+                ],
+                "Kazakh": [
+                    "тәж-тақ асылдары",
+                    "тәж-тақ мүліктері"
+                ],
+                "Kyrgyz": [
+                    "таажы асылдары",
+                    "таажы зыйнаттары"
+                ],
+                "Karakalpak": [
+                    "táj-taqıt gáuharları",
+                    "táj gáuharları"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saltanat mücevherleri"
+                ],
+                "Azerbaijani": [
+                    "səltənət zinətləri"
+                ],
+                "Uzbek": [
+                    "shohona taqinchoqlar",
+                    "saltanat nishonlari"
+                ],
+                "Uyghur": [
+                    "سەلتەنەت جەۋھەرلىرى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hanedan mücevherleri"
+                ],
+                "Uyghur": [
+                    "خانلىق زىبۇ-زىننەتلىرى"
+                ],
+                "Kazakh": [
+                    "хандық белгілер"
+                ],
+                "Tatar": [
+                    "ханлык бизәкләре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tac cəvahiratı",
+                    "dövlət ləl-cəvahiratı"
+                ],
+                "Uzbek": [
+                    "davlat javohirlari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәхет бизәкләре"
+                ],
+                "Bashkir": [
+                    "тәхет биҙәүестәре",
+                    "тәхет яраҡтары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hükümdarlık nişanları"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şahlıq xəzinəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hazyna"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "regaliýalar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toju taxt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мамлекеттик регалиялар"
+                ]
+            }
+        }
+    ]
+}
+```
+

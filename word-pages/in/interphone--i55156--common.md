@@ -1,0 +1,175 @@
+# Interphone
+| Field | Detail |
+|---|---|
+| **ID** | i55156 |
+| **English** | interphone |
+| **Type** | noun |
+| **Definition** | a telephonic intercommunication system linking different rooms in a building or ship etc |
+| **Source** | common |
+| **Ortatil** | diyäfon |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سۆزلەشكۈچ | sözläşküç |
+| **Kyrgyz** | |
+| сүйлөшмө | süylöşmö |
+| байланышкыч | baylanışkıç |
+| **Tatar** | |
+| элемтә | elemtä |
+
+```json
+{
+    "id": "i55156",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "interphone",
+    "en_definition": "a telephonic intercommunication system linking different rooms in a building or ship etc",
+    "tr_word": "diafon",
+    "tr_definition": "Bir bina veya gemi içindeki farklı odaları birbirine bağlayan dahili telefon sistemi.",
+    "ru_word": "домофон",
+    "ru_definition": "система внутренней телефонной связи, соединяющая различные помещения в здании или на судне.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iç hat"
+                ],
+                "Turkmen": [
+                    "içki telefon"
+                ],
+                "Uzbek": [
+                    "ichki aloqa vositasi"
+                ],
+                "Uyghur": [
+                    "ئىچكى تېلېفون"
+                ],
+                "Kazakh": [
+                    "ішкі телефон"
+                ],
+                "Kyrgyz": [
+                    "ички байланыш"
+                ],
+                "Karakalpak": [
+                    "іshkі telefon"
+                ],
+                "Tatar": [
+                    "эчке телефон"
+                ],
+                "Bashkir": [
+                    "эске телефон"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "soʻzlashuv qurilmasi"
+                ],
+                "Uyghur": [
+                    "سۆزلەشكۈچ"
+                ],
+                "Kazakh": [
+                    "сөйлесу құрылғысы"
+                ],
+                "Kyrgyz": [
+                    "сүйлөшмө"
+                ],
+                "Karakalpak": [
+                    "sóylesu qұralı"
+                ],
+                "Tatar": [
+                    "сөйләшү җайланмасы"
+                ],
+                "Bashkir": [
+                    "һөйләшеү ҡоролмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "байланыс құралы"
+                ],
+                "Kyrgyz": [
+                    "байланышкыч"
+                ],
+                "Karakalpak": [
+                    "baylanıs qұralı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "diyafon"
+                ],
+                "Uzbek": [
+                    "domofon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dahili telefon"
+                ],
+                "Azerbaijani": [
+                    "daxili telefon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "domofon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "danışıq qurğusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "habarlaşyk enjamy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئالاقە تېلېفونى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "элемтә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аралашыу ҡоролмаһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

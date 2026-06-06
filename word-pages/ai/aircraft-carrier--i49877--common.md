@@ -1,0 +1,161 @@
+# Aircraft carrier
+| Field | Detail |
+|---|---|
+| **ID** | i49877 |
+| **English** | aircraft carrier |
+| **Type** | noun |
+| **Definition** | a large warship that carries planes and has a long flat deck for takeoffs and landings |
+| **Source** | common |
+| **Ortatil** | awianosets |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **awianosets** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.97** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاۋىئاماتكا | aviamatka |
+| **Kazakh** | |
+| авиатасығыш | aviatasığış |
+| **Kyrgyz** | |
+| авианосец | avianosets |
+| **Tatar** | |
+| авиаташучы | aviataşuçı |
+| **Bashkir** | |
+| авианосец | avianosets |
+
+```json
+{
+    "id": "i49877",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "aircraft carrier",
+    "en_definition": "a large warship that carries planes and has a long flat deck for takeoffs and landings",
+    "tr_word": "uçak gemisi",
+    "tr_definition": "üzerinde uçakların iniş ve kalkış yapabileceği geniş, düz bir güvertesi bulunan büyük savaş gemisi",
+    "ru_word": "авианосец",
+    "ru_definition": "крупный военный корабль, предназначенный для базирования, взлета и посадки самолетов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aviadaşıyıcı"
+                ],
+                "Turkmen": [
+                    "awianosets"
+                ],
+                "Uzbek": [
+                    "aviataşuvchi kema"
+                ],
+                "Uyghur": [
+                    "ئاۋىئاماتكا"
+                ],
+                "Kazakh": [
+                    "авиатасығыш"
+                ],
+                "Kyrgyz": [
+                    "авианосец"
+                ],
+                "Karakalpak": [
+                    "awiatasıǵısh keme"
+                ],
+                "Tatar": [
+                    "авиаташучы"
+                ],
+                "Bashkir": [
+                    "авианосец"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uçak gemisi",
+                    "uçak ana gemisi"
+                ],
+                "Turkmen": [
+                    "uçar göteriji gämi"
+                ],
+                "Kazakh": [
+                    "ұшақ тасығыш кеме",
+                    "ұшақ тасығыш"
+                ],
+                "Kyrgyz": [
+                    "учак ташуучу кеме",
+                    "учак ташыгыч кеме"
+                ],
+                "Karakalpak": [
+                    "ushaq tasıǵısh keme"
+                ],
+                "Tatar": [
+                    "очкыч ташучы көймә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təyyarədaşıyan gəmi",
+                    "təyyarədaşıyan"
+                ],
+                "Uzbek": [
+                    "tayyoratashuvchi kema"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "samolyottashuvchi kema"
+                ],
+                "Bashkir": [
+                    "самолёт йөрөтөүсе карап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئايروپىلان توشۇغۇچى پاراخوت",
+                    "ئايروپىلان توشۇغۇچى كېمە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "очкыч ташучы хәрби кораб"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "осоу аппараттарын йөрөтөүсе карап"
+                ]
+            }
+        }
+    ]
+}
+```
+

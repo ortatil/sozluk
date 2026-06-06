@@ -1,0 +1,102 @@
+{
+    "id": "i58958",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "single bed",
+    "en_definition": "a bed for one occupant",
+    "tr_word": "tek kişilik yatak",
+    "tr_definition": "tek bir kişinin yatması için tasarlanmış yatak",
+    "ru_word": "односпальная кровать",
+    "ru_definition": "кровать, предназначенная для сна одного человека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "biradamlyk düşek",
+                    "biradamlyk krowat"
+                ],
+                "Uzbek": [
+                    "bir kishilik karovot",
+                    "bir kishilik oʻrin"
+                ],
+                "Uyghur": [
+                    "بىر كىشىلىك كارىۋات"
+                ],
+                "Kazakh": [
+                    "бір кісілік төсек"
+                ],
+                "Kyrgyz": [
+                    "бир кишилик керебет",
+                    "бир орундуу керебет"
+                ],
+                "Karakalpak": [
+                    "bir kisilik kereuet"
+                ],
+                "Tatar": [
+                    "бер кешелек карават",
+                    "бер урынлы карават",
+                    "бер кешелек йокы урыны"
+                ],
+                "Bashkir": [
+                    "бер урынлы карауат",
+                    "бер кешелек карауат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жалғыз кісілік орын"
+                ],
+                "Kyrgyz": [
+                    "жалгыз кишилик төшөк"
+                ],
+                "Karakalpak": [
+                    "jalǵız kisilik tósek"
+                ],
+                "Bashkir": [
+                    "яңғыҙ карауат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tek kişilik yatak",
+                    "tekli yatak"
+                ],
+                "Azerbaijani": [
+                    "təkadamlıq çarpayı",
+                    "təkadamlıq yataq",
+                    "təkli çarpayı"
+                ],
+                "Uyghur": [
+                    "تەك كىشىلىك كارىۋات"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýekelik düşek"
+                ],
+                "Uzbek": [
+                    "yakka oʻrinli joy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бір орындық төсек"
+                ],
+                "Karakalpak": [
+                    "bir adamlıq kereuet"
+                ]
+            }
+        }
+    ]
+}

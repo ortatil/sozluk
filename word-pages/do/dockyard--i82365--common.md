@@ -1,0 +1,156 @@
+# Dockyard
+| Field | Detail |
+|---|---|
+| **ID** | i82365 |
+| **English** | dockyard |
+| **Type** | noun |
+| **Definition** | an establishment on the waterfront where vessels are built or fitted out or repaired |
+| **Source** | common |
+| **Ortatil** | tersanä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tersanä** | **kemekana** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ❌ | ✅ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 0 |
+| *Qarluq Subtotal* | 0 | 0.50 |
+| *Qipchaq Subtotal* | 0.20 | 0.60 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  |
+| **O'TQ** | **1.70** | **1.10** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| кемежай | kemejay |
+| **Kyrgyz** | |
+| кемекана | kemekana |
+| **Tatar** | |
+| терсәнә | tersänä |
+| көймәханә | köymäxanä |
+
+```json
+{
+    "id": "i82365",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dockyard",
+    "en_definition": "an establishment on the waterfront where vessels are built or fitted out or repaired",
+    "tr_word": "tersane",
+    "tr_definition": "gemilerin inşa edildiği, onarıldığı veya donatıldığı su kenarındaki tesis",
+    "ru_word": "верфь",
+    "ru_definition": "предприятие для постройки, ремонта и оснащения судов, расположенное на берегу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gemi yapım yeri"
+                ],
+                "Azerbaijani": [
+                    "gəmiqayırma zavodu"
+                ],
+                "Turkmen": [
+                    "gämi gurluşyk meýdançasy",
+                    "gämi zawody",
+                    "gämi abatlaýyş kärhanasy"
+                ],
+                "Uzbek": [
+                    "kemasozlik",
+                    "kemasozlik zavodi"
+                ],
+                "Uyghur": [
+                    "كېمىسازلىق زاۋۇتى",
+                    "كېمىسازلىق ئورنى",
+                    "كېمە رېمونتخانىسى"
+                ],
+                "Kazakh": [
+                    "кемежай",
+                    "кеме жөндеу орны",
+                    "кеме жасау орны"
+                ],
+                "Kyrgyz": [
+                    "кемекана",
+                    "кеме оңдоочу жай",
+                    "кеме куруучу жай"
+                ],
+                "Karakalpak": [
+                    "keme sazlao ornı",
+                    "keme jasao ornı",
+                    "kemexana"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tersane",
+                    "tezgah"
+                ],
+                "Azerbaijani": [
+                    "tərsanə"
+                ],
+                "Turkmen": [
+                    "tersana"
+                ],
+                "Tatar": [
+                    "терсәнә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kema ta’mirlash joyi"
+                ],
+                "Tatar": [
+                    "көймә ясау урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "liman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bandargoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көймәханә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "караптар эшләү урыны",
+                    "караптар төҙөү урыны",
+                    "караптар йүнәтеү урыны",
+                    "караптар заводы"
+                ]
+            }
+        }
+    ]
+}
+```
+

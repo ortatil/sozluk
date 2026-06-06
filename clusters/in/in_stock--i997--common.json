@@ -1,0 +1,183 @@
+{
+    "id": "i997",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "in stock",
+    "en_definition": "available for use or sale",
+    "tr_word": "stokta",
+    "tr_definition": "kullanım veya satış için mevcut olan",
+    "ru_word": "в наличии",
+    "ru_definition": "доступный для использования или продажи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bar"
+                ],
+                "Uzbek": [
+                    "bor"
+                ],
+                "Kazakh": [
+                    "бар"
+                ],
+                "Kyrgyz": [
+                    "бар"
+                ],
+                "Karakalpak": [
+                    "bar"
+                ],
+                "Tatar": [
+                    "бар"
+                ],
+                "Bashkir": [
+                    "бар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýýar"
+                ],
+                "Uzbek": [
+                    "tayyor"
+                ],
+                "Uyghur": [
+                    "تەييار"
+                ],
+                "Kazakh": [
+                    "дайын"
+                ],
+                "Kyrgyz": [
+                    "даяр"
+                ],
+                "Karakalpak": [
+                    "tayın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قامدا بار"
+                ],
+                "Kazakh": [
+                    "қолда бар",
+                    "қоймада бар"
+                ],
+                "Karakalpak": [
+                    "qolda bar"
+                ],
+                "Tatar": [
+                    "кулда"
+                ],
+                "Bashkir": [
+                    "ҡулда"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mevcut"
+                ],
+                "Azerbaijani": [
+                    "mövcud"
+                ],
+                "Uzbek": [
+                    "mavjud"
+                ],
+                "Uyghur": [
+                    "مەۋجۇت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazır"
+                ],
+                "Azerbaijani": [
+                    "hazır"
+                ],
+                "Tatar": [
+                    "әзер"
+                ],
+                "Bashkir": [
+                    "әҙер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elde"
+                ],
+                "Azerbaijani": [
+                    "əldə olan"
+                ],
+                "Turkmen": [
+                    "eldede bar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "anbarda"
+                ],
+                "Uyghur": [
+                    "ئامباردا بار"
+                ],
+                "Kyrgyz": [
+                    "кампада"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "satılımda bar"
+                ],
+                "Tatar": [
+                    "сатуда"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "stokta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ätiýaçda bar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muhayyo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "запаста"
+                ]
+            }
+        }
+    ]
+}

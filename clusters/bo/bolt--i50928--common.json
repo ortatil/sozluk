@@ -1,0 +1,119 @@
+{
+    "id": "i50928",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bolt",
+    "en_definition": "a screw that screws into a nut to form a fastener",
+    "tr_word": "cıvata",
+    "tr_definition": "Bir somunla birlikte kullanılan, metal parçaları birbirine bağlamaya yarayan vidalı bağlantı elemanı.",
+    "ru_word": "болт",
+    "ru_definition": "Крепежное изделие в виде стержня с наружной резьбой, обычно с шестигранной головкой, под навинчивающуюся гайку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "burğu"
+                ],
+                "Turkmen": [
+                    "burma"
+                ],
+                "Uzbek": [
+                    "burama"
+                ],
+                "Uyghur": [
+                    "بۇراندى"
+                ],
+                "Kazakh": [
+                    "бұранда",
+                    "бұрандама",
+                    "бұрама"
+                ],
+                "Kyrgyz": [
+                    "бурама"
+                ],
+                "Karakalpak": [
+                    "burama",
+                    "bұrama",
+                    "bұranda"
+                ],
+                "Tatar": [
+                    "боргыч",
+                    "борып беркеткеч"
+                ],
+                "Bashkir": [
+                    "борма",
+                    "бөрмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bulon"
+                ],
+                "Turkmen": [
+                    "bolt"
+                ],
+                "Uyghur": [
+                    "بولت"
+                ],
+                "Kyrgyz": [
+                    "болт"
+                ],
+                "Tatar": [
+                    "болт"
+                ],
+                "Bashkir": [
+                    "болт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nurbat"
+                ],
+                "Uzbek": [
+                    "murvat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cıvata"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vint"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mismar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mix"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бекиткич"
+                ]
+            }
+        }
+    ]
+}

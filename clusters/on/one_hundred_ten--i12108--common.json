@@ -1,0 +1,63 @@
+{
+    "id": "i12108",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one hundred ten",
+    "en_definition": "being ten more than one hundred",
+    "tr_word": "yüz on",
+    "tr_definition": "yüzden on fazla olan sayı",
+    "ru_word": "сто десять",
+    "ru_definition": "число, на десять большее, чем сто",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz on"
+                ],
+                "Azerbaijani": [
+                    "yüz on"
+                ],
+                "Turkmen": [
+                    "ýüz on"
+                ],
+                "Uzbek": [
+                    "yuz o'n"
+                ],
+                "Uyghur": [
+                    "يۈز ئون"
+                ],
+                "Kazakh": [
+                    "жүз он"
+                ],
+                "Kyrgyz": [
+                    "жүз он"
+                ],
+                "Karakalpak": [
+                    "júz on"
+                ],
+                "Tatar": [
+                    "йөз ун",
+                    "йөз дә ун"
+                ],
+                "Bashkir": [
+                    "йөҙ ун"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bir yuz o'n"
+                ],
+                "Kazakh": [
+                    "бір жүз он"
+                ],
+                "Kyrgyz": [
+                    "бир жүз он"
+                ]
+            }
+        }
+    ]
+}

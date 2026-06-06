@@ -1,0 +1,108 @@
+{
+    "id": "i38243",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hula",
+    "en_definition": "a Polynesian rain dance performed by a woman",
+    "tr_word": "hula",
+    "tr_definition": "Bir kadın tarafından icra edilen Polinezya kökenli bir dans.",
+    "ru_word": "хула",
+    "ru_definition": "Полинезийский танец, исполняемый женщиной.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "rəqs"
+                ],
+                "Turkmen": [
+                    "raks"
+                ],
+                "Uzbek": [
+                    "raqs"
+                ],
+                "Karakalpak": [
+                    "raqs"
+                ],
+                "Tatar": [
+                    "ракыс"
+                ],
+                "Bashkir": [
+                    "ракс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "би",
+                    "билеу"
+                ],
+                "Kyrgyz": [
+                    "бий"
+                ],
+                "Karakalpak": [
+                    "biy"
+                ],
+                "Tatar": [
+                    "бию"
+                ],
+                "Bashkir": [
+                    "бейеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Polinezya dansı"
+                ],
+                "Uyghur": [
+                    "پولىنېزىيە ئۇسسۇلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hula dansı"
+                ],
+                "Uyghur": [
+                    "ھۇلا ئۇسسۇلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "oyun"
+                ],
+                "Uzbek": [
+                    "o'yin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yağmur dansı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tans"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "салттуу бий"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "id": "i55401",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "kitchen island",
+    "en_definition": "an unattached counter in a kitchen that permits access from all sides",
+    "tr_word": "mutfak adası",
+    "tr_definition": "mutfağın ortasında bulunan ve her yönden erişilebilen bağımsız tezgah ünitesi",
+    "ru_word": "кухонный остров",
+    "ru_definition": "отдельно стоящий элемент кухонного гарнитура, расположенный в центре помещения и обеспечивающий доступ со всех сторон",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orta tezgah"
+                ],
+                "Azerbaijani": [
+                    "orta dəzgah"
+                ],
+                "Turkmen": [
+                    "orta stol"
+                ],
+                "Uzbek": [
+                    "oʻrta stol"
+                ],
+                "Kazakh": [
+                    "ортаңғы үстел"
+                ],
+                "Kyrgyz": [
+                    "орто үстөл"
+                ],
+                "Karakalpak": [
+                    "ortalıq ústel"
+                ],
+                "Tatar": [
+                    "урта өстәл"
+                ],
+                "Bashkir": [
+                    "урта өҫтәл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aşhana adajygy",
+                    "aşhana adasy"
+                ],
+                "Uzbek": [
+                    "oshxona orolchasi",
+                    "oshxona oroli"
+                ],
+                "Uyghur": [
+                    "ئاشخانا ئارىلى",
+                    "ئاشخانا ئوتتۇرا ئۈستىلى"
+                ],
+                "Kyrgyz": [
+                    "ашкана ортосундагы үстөл",
+                    "ашкана аралы"
+                ],
+                "Karakalpak": [
+                    "asxana ortalıǵı",
+                    "asxana ústeli"
+                ],
+                "Tatar": [
+                    "ашханә утравы"
+                ],
+                "Bashkir": [
+                    "аш-һыу өҫтәле",
+                    "аш-һыу утрауы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ada mutfak",
+                    "mutfak adası"
+                ],
+                "Azerbaijani": [
+                    "ada dəzgahı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "асүй аралы",
+                    "асүй орталығы"
+                ],
+                "Tatar": [
+                    "аш бүлмәсе утравы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mətbəx adası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇستەقىل ئاشخانا ئۈستىلى"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "id": "i78194",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white pepper",
+    "en_definition": "pepper ground from husked peppercorns",
+    "tr_word": "beyaz biber",
+    "tr_definition": "kabuğu soyulmuş karabiber tanelerinden elde edilen baharat",
+    "ru_word": "белый перец",
+    "ru_definition": "пряность, получаемая из очищенных от оболочки зрелых семян перечной лианы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak biber"
+                ],
+                "Azerbaijani": [
+                    "ağ bibər"
+                ],
+                "Turkmen": [
+                    "ak burç",
+                    "ak mürç"
+                ],
+                "Uzbek": [
+                    "oq murch"
+                ],
+                "Uyghur": [
+                    "ئاق بۇرچ",
+                    "ئاق مۇچ"
+                ],
+                "Kazakh": [
+                    "ақ бұрыш"
+                ],
+                "Kyrgyz": [
+                    "ак мурч"
+                ],
+                "Karakalpak": [
+                    "aq burısh"
+                ],
+                "Tatar": [
+                    "ак борыч"
+                ],
+                "Bashkir": [
+                    "аҡ борос"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ağ istiot"
+                ],
+                "Kyrgyz": [
+                    "ак калемпир"
+                ],
+                "Karakalpak": [
+                    "aq pіlpіl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz biber"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oq qalampir"
+                ]
+            }
+        }
+    ]
+}

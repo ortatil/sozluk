@@ -1,0 +1,119 @@
+{
+    "id": "i41115",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "primary health care",
+    "en_definition": "health care that is provided by a health care professional in the first contact of a patient with the health care system",
+    "tr_word": "birinci basamak sağlık hizmetleri",
+    "tr_definition": "hastanın sağlık sistemiyle ilk temasında bir sağlık uzmanı tarafından sunulan temel sağlık hizmeti",
+    "ru_word": "первичная медико-санитарная помощь",
+    "ru_definition": "медицинская помощь, оказываемая медицинским работником при первом контакте пациента с системой здравоохранения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "birinci dərəcəli tibbi yardım"
+                ],
+                "Uzbek": [
+                    "birlamchi tibbiy yordam"
+                ],
+                "Uyghur": [
+                    "بىرىنچى باسقۇچلۇق داۋالاش"
+                ],
+                "Kyrgyz": [
+                    "биринчи медициналык жардам"
+                ],
+                "Karakalpak": [
+                    "birinshi medicinalıq járdem"
+                ],
+                "Tatar": [
+                    "беренчел медицина ярдәме",
+                    "беренчел сәламәтлек саклау"
+                ],
+                "Bashkir": [
+                    "беренсел медицина ярҙамы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ilkin tibbi yardım",
+                    "ilkin səhiyyə xidməti"
+                ],
+                "Turkmen": [
+                    "ilkinji lukmançylyk kömegi",
+                    "ilkinji saglygy goraýyş"
+                ],
+                "Uzbek": [
+                    "ilk tibbiy yordam"
+                ],
+                "Kazakh": [
+                    "алғашқы медициналық-санитарлық көмек",
+                    "алғашқы медициналық жәрдем"
+                ],
+                "Kyrgyz": [
+                    "алгачкы медициналык жардам",
+                    "алгачкы саламаттык сактоо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бастапқы медициналық көмек"
+                ],
+                "Karakalpak": [
+                    "aldınǵı medicinalıq járdem",
+                    "aldınǵı medicinalıq xızmet"
+                ],
+                "Bashkir": [
+                    "тәүге медицина-санитария ярҙамы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asosiy tibbiy xizmat"
+                ],
+                "Uyghur": [
+                    "ئاساسىي تىببىي مۇلازىمەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "birinci basamak sağlık hizmetleri",
+                    "temel sağlık hizmetleri",
+                    "ilk basamak sağlık hizmeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دەسلەپكى ساقلىقنى ساقلاش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп медицина ярдәме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәүге медицина ярҙамы"
+                ]
+            }
+        }
+    ]
+}

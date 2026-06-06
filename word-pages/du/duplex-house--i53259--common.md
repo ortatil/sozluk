@@ -1,0 +1,132 @@
+# Duplex house
+| Field | Detail |
+|---|---|
+| **ID** | i53259 |
+| **English** | duplex house |
+| **Type** | noun |
+| **Definition** | a house with two units sharing a common wall |
+| **Source** | common |
+| **Ortatil** | dubleks |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i53259",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "duplex house",
+    "en_definition": "a house with two units sharing a common wall",
+    "tr_word": "dubleks ev",
+    "tr_definition": "ortak bir duvarı paylaşan iki ayrı birimden oluşan ev",
+    "ru_word": "дуплекс",
+    "ru_definition": "дом, состоящий из двух квартир с отдельными входами, имеющих общую стену",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki katlı ev",
+                    "ikiz ev"
+                ],
+                "Azerbaijani": [
+                    "iki mənzilli ev"
+                ],
+                "Turkmen": [
+                    "iki gatly jaý"
+                ],
+                "Uzbek": [
+                    "ikki xonadonli uy"
+                ],
+                "Uyghur": [
+                    "ئىككى يۈرۈشلۈك ئۆي"
+                ],
+                "Kazakh": [
+                    "екі пәтерлі үй"
+                ],
+                "Kyrgyz": [
+                    "эки кабаттуу үй",
+                    "эки батирлүү үй"
+                ],
+                "Karakalpak": [
+                    "eki jaylı úy",
+                    "eki úyli jay"
+                ],
+                "Tatar": [
+                    "ике гаиләлек йорт",
+                    "ике хуҗалыклы йорт"
+                ],
+                "Bashkir": [
+                    "ике фатирлы өй",
+                    "ике ғаиләлек өй",
+                    "ике хужалыҡлы өй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşa ev"
+                ],
+                "Turkmen": [
+                    "goşa jaý"
+                ],
+                "Uzbek": [
+                    "qoʻshaloq uy"
+                ],
+                "Uyghur": [
+                    "قوشما ئۆي",
+                    "قوشما ھويلا"
+                ],
+                "Kazakh": [
+                    "қос үй"
+                ],
+                "Kyrgyz": [
+                    "кош үй"
+                ],
+                "Karakalpak": [
+                    "qospa úy"
+                ],
+                "Tatar": [
+                    "куш йорт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bitişik ev"
+                ],
+                "Turkmen": [
+                    "bitewi jaý"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dubleks"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "juft uy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ортақ қабырғалы үй"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,64 @@
+{
+    "id": "i78479",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "garlic butter",
+    "en_definition": "butter seasoned with mashed garlic",
+    "tr_word": "sarımsaklı tereyağı",
+    "tr_definition": "ezilmiş sarımsak ile tatlandırılmış tereyağı",
+    "ru_word": "чесночное масло",
+    "ru_definition": "сливочное масло, приправленное измельченным чесноком",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarımsaklı tereyağı",
+                    "sarımsaklı yağ"
+                ],
+                "Azerbaijani": [
+                    "sarımsaqlı kərə yağı",
+                    "sarımsaqlı yağ"
+                ],
+                "Turkmen": [
+                    "sarymsakly mesge",
+                    "sarymsakly ýag"
+                ],
+                "Uzbek": [
+                    "sarimsoqli sariyog'",
+                    "sarimsoqpiyozli sariyog'"
+                ],
+                "Uyghur": [
+                    "سامساقلىق ماي"
+                ],
+                "Kazakh": [
+                    "сарымсақ майы",
+                    "сарымсақты сары май"
+                ],
+                "Kyrgyz": [
+                    "сарымсактуу май",
+                    "сарымсак кошулган май"
+                ],
+                "Karakalpak": [
+                    "sarımsaq mayı",
+                    "sarımsaqlı sarı may"
+                ],
+                "Tatar": [
+                    "сарымсаклы май",
+                    "сарымсак майы"
+                ],
+                "Bashkir": [
+                    "һарымһаҡлы май",
+                    "һарымһаҡ майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سامساقلىق سېرىق ماي"
+                ]
+            }
+        }
+    ]
+}

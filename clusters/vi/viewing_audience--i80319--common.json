@@ -1,0 +1,125 @@
+{
+    "id": "i80319",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "viewing audience",
+    "en_definition": "the audience reached by television",
+    "tr_word": "izleyici kitlesi",
+    "tr_definition": "televizyon aracılığıyla ulaşılan izleyici topluluğu",
+    "ru_word": "телеаудитория",
+    "ru_definition": "аудитория, охватываемая телевидением",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tamaşaçılar"
+                ],
+                "Turkmen": [
+                    "tomaşaçylar",
+                    "tomaşaçy köpçüligi"
+                ],
+                "Uzbek": [
+                    "tomoshabinlar"
+                ],
+                "Uyghur": [
+                    "تاماشىبىنلار"
+                ],
+                "Karakalpak": [
+                    "tamashagóyler"
+                ],
+                "Tatar": [
+                    "тамашачылар"
+                ],
+                "Bashkir": [
+                    "тамашасылар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "görüjiler"
+                ],
+                "Uzbek": [
+                    "koʻruvchilar"
+                ],
+                "Uyghur": [
+                    "كۆرۈرمەنلەر",
+                    "كۆرۈرمەن"
+                ],
+                "Kazakh": [
+                    "көрермен",
+                    "көрермендер",
+                    "көрермен қауым",
+                    "көрермен жұртшылық"
+                ],
+                "Kyrgyz": [
+                    "көрүүчүлөр",
+                    "көрүүчүлөр тобу",
+                    "көрүүчүлөр жамааты"
+                ],
+                "Karakalpak": [
+                    "kórioshiler"
+                ],
+                "Bashkir": [
+                    "күрһәтеүҙе ҡараусылар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "izleyici",
+                    "izleyenler",
+                    "izleyici kitlesi"
+                ],
+                "Azerbaijani": [
+                    "izləyicilər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kütlə"
+                ],
+                "Bashkir": [
+                    "күҙәтеүселәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jámáát"
+                ],
+                "Tatar": [
+                    "җәмәгать"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seyirci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ahli tomosha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "караучылар"
+                ]
+            }
+        }
+    ]
+}

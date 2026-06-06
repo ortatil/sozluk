@@ -1,0 +1,135 @@
+# Cow shark
+| Field | Detail |
+|---|---|
+| **ID** | i43095 |
+| **English** | cow shark |
+| **Type** | noun |
+| **Definition** | large primitive shark widely distributed in warm seas |
+| **Source** | common |
+| **Ortatil** | tarakıla |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i43095",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cow shark",
+    "en_definition": "large primitive shark widely distributed in warm seas",
+    "tr_word": "boz köpekbalığı",
+    "tr_definition": "sıcak denizlerde yaygın olarak bulunan, altı veya yedi solungaç yarığına sahip ilkel bir köpekbalığı türü",
+    "ru_word": "многожаберная акула",
+    "ru_definition": "крупная примитивная акула, широко распространенная в теплых морях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sigir akula"
+                ],
+                "Kazakh": [
+                    "сиыр акула"
+                ],
+                "Karakalpak": [
+                    "siyir akulası"
+                ],
+                "Tatar": [
+                    "сыер акуласы"
+                ],
+                "Bashkir": [
+                    "һыйыр акулаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çoxqəlsəməli akula",
+                    "tarakula"
+                ],
+                "Turkmen": [
+                    "ýedi žabra akulasy"
+                ],
+                "Kazakh": [
+                    "көпжелбезекті акула"
+                ],
+                "Karakalpak": [
+                    "kóp jelpezekli akula"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "altı yarıklı köpek balığı"
+                ],
+                "Turkmen": [
+                    "alty žabra akulasy"
+                ],
+                "Uzbek": [
+                    "olti jabrali akula"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كۆپ كېلترەكلەردەك بېلىق"
+                ],
+                "Kyrgyz": [
+                    "көп бакалоордуу акула"
+                ],
+                "Tatar": [
+                    "күпсаңаклы акула"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öküz akulasy"
+                ],
+                "Bashkir": [
+                    "күп айғайлы акула"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boz köpek balığı",
+                    "yedi yarıklı köpek balığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yetti jabrali akula"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كالا لەھەڭ بېلىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уй акуласы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,148 @@
+{
+    "id": "i9449",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "inexcusable",
+    "en_definition": "without excuse or justification",
+    "tr_word": "affedilemez",
+    "tr_definition": "özrü veya haklı bir gerekçesi olmayan, bağışlanamaz",
+    "ru_word": "непростительный",
+    "ru_definition": "не имеющий оправдания или извинения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kechirib bo'lmas",
+                    "kechirilmas"
+                ],
+                "Uyghur": [
+                    "كەچۈرگۈسىز",
+                    "كەچۈرۈلگۈسىز"
+                ],
+                "Kazakh": [
+                    "кешірілмес",
+                    "кешіруге болмайтын",
+                    "кешірілмейтін"
+                ],
+                "Kyrgyz": [
+                    "кечирилгис",
+                    "кечирилбес"
+                ],
+                "Karakalpak": [
+                    "keshirilmes",
+                    "keshirip bolmaytuǵın"
+                ],
+                "Tatar": [
+                    "кичерелмәслек"
+                ],
+                "Bashkir": [
+                    "кисереп булмаҫлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aklap bolmajak"
+                ],
+                "Kazakh": [
+                    "ақтауға келмейтін"
+                ],
+                "Kyrgyz": [
+                    "актоого болбогон",
+                    "актоого мүмкүн эмес"
+                ],
+                "Karakalpak": [
+                    "aqlap bolmaytuǵın"
+                ],
+                "Tatar": [
+                    "акланмаслык"
+                ],
+                "Bashkir": [
+                    "аҡлауһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "affedilemez"
+                ],
+                "Azerbaijani": [
+                    "əfvedilməz"
+                ],
+                "Uzbek": [
+                    "afv etib bo'lmas"
+                ],
+                "Uyghur": [
+                    "ئەپۇ قىلغۇسىز"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağışlanamaz"
+                ],
+                "Azerbaijani": [
+                    "bağışlanmaz"
+                ],
+                "Turkmen": [
+                    "bagyşlanmaz"
+                ],
+                "Uyghur": [
+                    "باھانىسىز"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "özür kabul etmez"
+                ],
+                "Azerbaijani": [
+                    "üzrsüz"
+                ],
+                "Uzbek": [
+                    "uzrsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гафу ителмәслек"
+                ],
+                "Bashkir": [
+                    "ғәфү ителмәҫлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mazeretsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ötülmez"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "günäsi geçilmez"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "i57631",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "excavator",
+    "en_definition": "a machine for excavating",
+    "tr_word": "ekskavatör",
+    "tr_definition": "Toprak kazmak ve taşımak için kullanılan ağır iş makinesi.",
+    "ru_word": "экскаватор",
+    "ru_definition": "Землеройная машина, предназначенная для выемки и перемещения грунта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kazıcı",
+                    "kazma makinesi"
+                ],
+                "Azerbaijani": [
+                    "qazıcı",
+                    "qazma maşını",
+                    "qazıyan"
+                ],
+                "Turkmen": [
+                    "gazgyç",
+                    "gazýan maşyn",
+                    "gazmaçy"
+                ],
+                "Uzbek": [
+                    "qazigich",
+                    "qazuvchi mashina"
+                ],
+                "Uyghur": [
+                    "قازغۇچ",
+                    "قېزىش ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "қазғыш",
+                    "қазушы",
+                    "қазғыш машина"
+                ],
+                "Kyrgyz": [
+                    "казуучу",
+                    "казуучу машина"
+                ],
+                "Karakalpak": [
+                    "qazıǵısh",
+                    "qazıushı"
+                ],
+                "Tatar": [
+                    "казучы",
+                    "казу машинасы"
+                ],
+                "Bashkir": [
+                    "ҡаҙығыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yerqazar"
+                ],
+                "Kyrgyz": [
+                    "жер казгыч"
+                ],
+                "Bashkir": [
+                    "ер ҡаҙыу машинаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ekskavatör"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kepçe"
+                ]
+            }
+        }
+    ]
+}

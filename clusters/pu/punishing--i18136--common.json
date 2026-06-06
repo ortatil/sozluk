@@ -1,0 +1,115 @@
+{
+    "id": "i18136",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "punishing",
+    "en_definition": "resulting in punishment",
+    "tr_word": "cezalandırıcı",
+    "tr_definition": "ceza verilmesine yol açan veya ceza niteliği taşıyan",
+    "ru_word": "карательный",
+    "ru_definition": "приводящий к наказанию или служащий наказанием",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cezalandırıcı",
+                    "cezai"
+                ],
+                "Azerbaijani": [
+                    "cəzalandırıcı"
+                ],
+                "Turkmen": [
+                    "jezalandyryjy"
+                ],
+                "Uzbek": [
+                    "jazolovchi"
+                ],
+                "Uyghur": [
+                    "جازالايدىغان"
+                ],
+                "Kazakh": [
+                    "жазалаушы",
+                    "жазалайтын",
+                    "жазалы"
+                ],
+                "Kyrgyz": [
+                    "жазалоочу",
+                    "жаза берүүчү",
+                    "жазалоо"
+                ],
+                "Karakalpak": [
+                    "jazalaoshı",
+                    "jazalaytuǵın",
+                    "jaza"
+                ],
+                "Tatar": [
+                    "җәзалаучы",
+                    "җәзалы"
+                ],
+                "Bashkir": [
+                    "язалаусы",
+                    "язалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təzirli"
+                ],
+                "Uzbek": [
+                    "azobli"
+                ],
+                "Uyghur": [
+                    "تەزىرلىك"
+                ],
+                "Bashkir": [
+                    "тәғзирле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "azaply"
+                ],
+                "Tatar": [
+                    "газаплы"
+                ],
+                "Bashkir": [
+                    "ғазапты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "te'dib edici"
+                ],
+                "Turkmen": [
+                    "temmi beriji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uqubatli"
+                ],
+                "Uyghur": [
+                    "ئۇقۇبەتلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qiynovchi"
+                ]
+            }
+        }
+    ]
+}

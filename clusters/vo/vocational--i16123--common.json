@@ -1,0 +1,125 @@
+{
+    "id": "i16123",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "vocational",
+    "en_definition": "of or relating to a vocation or occupation; especially providing or undergoing training in special skills",
+    "tr_word": "mesleki",
+    "tr_definition": "Bir meslekle ilgili olan veya belirli bir meslek dalında beceri kazandırmayı amaçlayan",
+    "ru_word": "профессиональный",
+    "ru_definition": "Относящийся к профессии или направленный на обучение специальным трудовым навыкам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kasbiy"
+                ],
+                "Uyghur": [
+                    "كەسپىي",
+                    "كەسىپكە ئائىت"
+                ],
+                "Kazakh": [
+                    "кәсіби",
+                    "кәсіптік"
+                ],
+                "Kyrgyz": [
+                    "кесиптик",
+                    "кесипкөйлүк"
+                ],
+                "Karakalpak": [
+                    "kásiplik",
+                    "kásip-ónerlik",
+                    "kásipke baylanıslı"
+                ],
+                "Tatar": [
+                    "кәсепчелек"
+                ],
+                "Bashkir": [
+                    "кәсепселек",
+                    "кәсеп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hünär"
+                ],
+                "Uzbek": [
+                    "hunar"
+                ],
+                "Uyghur": [
+                    "ھۈنەر-سەنئەتكە دائىر"
+                ],
+                "Tatar": [
+                    "һөнәри",
+                    "һөнәр"
+                ],
+                "Bashkir": [
+                    "һөнәри"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sanatla ilgili"
+                ],
+                "Azerbaijani": [
+                    "sənət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşə"
+                ],
+                "Turkmen": [
+                    "pese"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "amaly"
+                ],
+                "Uzbek": [
+                    "amaliy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mesleki",
+                    "meslekle ilgili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtisas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мамандық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өнөрлүк"
+                ]
+            }
+        }
+    ]
+}

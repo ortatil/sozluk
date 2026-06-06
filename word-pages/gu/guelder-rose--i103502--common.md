@@ -1,0 +1,175 @@
+# Guelder rose
+| Field | Detail |
+|---|---|
+| **ID** | i103502 |
+| **English** | guelder rose |
+| **Type** | noun |
+| **Definition** | deciduous thicket-forming Old World shrub with clusters of white flowers and small bright red berries |
+| **Source** | common |
+| **Ortatil** | märcän |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **märcän** | **şeten** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ❌ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.33 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.40 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **2.23** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| маржангүл | marjangül |
+| шетен | şeten |
+| **Kyrgyz** | |
+| бадам | badam |
+| шилби | şilbi |
+| **Tatar** | |
+| балан | balan |
+| **Bashkir** | |
+| марйен | maryen |
+| бөрлөгән | börlögän |
+
+```json
+{
+    "id": "i103502",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "guelder rose",
+    "en_definition": "deciduous thicket-forming Old World shrub with clusters of white flowers and small bright red berries",
+    "tr_word": "kartopu çalısı",
+    "tr_definition": "beyaz çiçek salkımları ve küçük parlak kırmızı meyveleri olan, yaprak döken, çalılık oluşturan bir Eski Dünya bitkisi",
+    "ru_word": "калина обыкновенная",
+    "ru_definition": "листопадный кустарник Старого Света с гроздьями белых цветов и мелкими ярко-красными ягодами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mərəçöçə",
+                    "mərəçöyçə"
+                ],
+                "Uzbek": [
+                    "marjon",
+                    "marjon daraxti",
+                    "marjonmeva"
+                ],
+                "Kazakh": [
+                    "маржангүл"
+                ],
+                "Karakalpak": [
+                    "marjan sheten"
+                ],
+                "Bashkir": [
+                    "марйен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şatut"
+                ],
+                "Kazakh": [
+                    "шетен"
+                ],
+                "Karakalpak": [
+                    "sheten"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gilaburu"
+                ],
+                "Turkmen": [
+                    "kalina"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kartopu"
+                ],
+                "Azerbaijani": [
+                    "qartopu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қызыл шетен"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл бөрлөгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бадам"
+                ],
+                "Tatar": [
+                    "балан",
+                    "балан куагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dağdağan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "itüzümi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاق گۈللۈك چىلان",
+                    "ئاق گۈللۈك مارجان دەرىخى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шилби"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бөрлөгән"
+                ]
+            }
+        }
+    ]
+}
+```
+

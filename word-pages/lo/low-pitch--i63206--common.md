@@ -1,0 +1,148 @@
+# Low pitch
+| Field | Detail |
+|---|---|
+| **ID** | i63206 |
+| **English** | low pitch |
+| **Type** | noun |
+| **Definition** | a pitch that is perceived as below other pitches |
+| **Source** | common |
+| **Ortatil** | bäm |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| бас | bas |
+
+```json
+{
+    "id": "i63206",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "low pitch",
+    "en_definition": "a pitch that is perceived as below other pitches",
+    "tr_word": "pes ses",
+    "tr_definition": "diğer seslere göre daha kalın ve düşük frekanslı algılanan ses",
+    "ru_word": "низкий тон",
+    "ru_definition": "звук, который воспринимается как более низкий по частоте по сравнению с другими звуками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pes ses",
+                    "bas ses"
+                ],
+                "Azerbaijani": [
+                    "bəm səs"
+                ],
+                "Turkmen": [
+                    "pes ses",
+                    "peseň ses"
+                ],
+                "Uzbek": [
+                    "past ovoz",
+                    "past ohang"
+                ],
+                "Kyrgyz": [
+                    "пас үн"
+                ],
+                "Karakalpak": [
+                    "pás dauıs"
+                ],
+                "Tatar": [
+                    "бас"
+                ],
+                "Bashkir": [
+                    "баҫ тауыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەن ئاۋاز",
+                    "تۆۋەن رېتىم",
+                    "تۆۋەن تون"
+                ],
+                "Kazakh": [
+                    "төменгі дыбыс",
+                    "төменгі үн"
+                ],
+                "Kyrgyz": [
+                    "төмөнкү үн"
+                ],
+                "Karakalpak": [
+                    "tómengi ses"
+                ],
+                "Tatar": [
+                    "түбән тавыш"
+                ],
+                "Bashkir": [
+                    "түбән тауыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жуан дауыс"
+                ],
+                "Kyrgyz": [
+                    "жоон үн"
+                ],
+                "Karakalpak": [
+                    "juan dauıs"
+                ],
+                "Tatar": [
+                    "юан тавыш"
+                ],
+                "Bashkir": [
+                    "йыуан тауыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kalın ses"
+                ],
+                "Azerbaijani": [
+                    "qalın səs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alçak perde"
+                ],
+                "Azerbaijani": [
+                    "alçaq səs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yogyn ses"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bam"
+                ]
+            }
+        }
+    ]
+}
+```
+

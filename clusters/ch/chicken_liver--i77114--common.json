@@ -1,0 +1,68 @@
+{
+    "id": "i77114",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chicken liver",
+    "en_definition": "liver of a chicken used as meat",
+    "tr_word": "tavuk ciğeri",
+    "tr_definition": "Et olarak kullanılan tavuk karaciğeri",
+    "ru_word": "куриная печень",
+    "ru_definition": "печень курицы, используемая в качестве мяса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavuk ciğeri"
+                ],
+                "Azerbaijani": [
+                    "toyuq qaraciyəri",
+                    "toyuq ciyəri"
+                ],
+                "Turkmen": [
+                    "towuk bagry",
+                    "towugyň bagry"
+                ],
+                "Uzbek": [
+                    "tovuq jigari",
+                    "tovuq jigar"
+                ],
+                "Uyghur": [
+                    "توقۇ جىگىرى",
+                    "توقۇ جىگەر"
+                ],
+                "Kazakh": [
+                    "тауық бауыры",
+                    "тауық бауыр"
+                ],
+                "Kyrgyz": [
+                    "тоок боору"
+                ],
+                "Karakalpak": [
+                    "taoıq baoırı",
+                    "taoıq jigeri"
+                ],
+                "Tatar": [
+                    "тавык бавыры"
+                ],
+                "Bashkir": [
+                    "тауыҡ бауыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "piliç ciğeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тооктун боору"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "i58565",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "screwdriver",
+    "en_definition": "a hand tool for driving screws; has a tip that fits into the head of a screw",
+    "tr_word": "tornavida",
+    "tr_definition": "Vidaları sıkıştırmak veya gevşetmek için kullanılan, ucu vidanın başına uygun alet.",
+    "ru_word": "отвёртка",
+    "ru_definition": "Ручной инструмент, предназначенный для завинчивания и отвинчивания винтов и шурупов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "burğuaçan"
+                ],
+                "Turkmen": [
+                    "buraw"
+                ],
+                "Uzbek": [
+                    "buragich"
+                ],
+                "Uyghur": [
+                    "بۇرۇندا",
+                    "بۇرغۇچ"
+                ],
+                "Kazakh": [
+                    "бұрауыш",
+                    "бұрағыш"
+                ],
+                "Kyrgyz": [
+                    "бурамаач",
+                    "бурагыч"
+                ],
+                "Karakalpak": [
+                    "burama",
+                    "burama suırǵısh",
+                    "burama tartqısh"
+                ],
+                "Tatar": [
+                    "борыгыч",
+                    "борып керткеч"
+                ],
+                "Bashkir": [
+                    "бороғоч",
+                    "бороп сығарғыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tornavida"
+                ],
+                "Turkmen": [
+                    "towlaýjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "atwyrtka"
+                ],
+                "Uzbek": [
+                    "otvyortka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vintaçan"
+                ]
+            }
+        }
+    ]
+}

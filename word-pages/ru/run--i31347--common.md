@@ -1,0 +1,197 @@
+# Run
+| Field | Detail |
+|---|---|
+| **ID** | i31347 |
+| **English** | run |
+| **Type** | verb |
+| **Definition** | move fast by using one's feet, with one foot off the ground at any given time |
+| **Source** | common |
+| **Ortatil** | jüğürmäk, çapmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jüğürmäk** | **çapmaq** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 0.67 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 1 | 0.80 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **3.47** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| يۈگۈرمەك | yügürmäk |
+| يۈگۈرۈش | yügürüş |
+| چاپماق | çapmaq |
+| **Kazakh** | |
+| жүгіру | jügiru |
+| жүйтку | jüytku |
+| шабу | şabu |
+| зымырау | zımırau |
+| **Kyrgyz** | |
+| жүгүрүү | jügürüü |
+| желүү | jelüü |
+| чуркоо | çurkoo |
+| **Tatar** | |
+| йөгерергә | yögerergä |
+| чабарга | çabarga |
+| җилдерергә | jilderergä |
+| **Bashkir** | |
+| йүгереү | yügereü |
+| сабыу | sabıu |
+| елдереү | yeldereü |
+
+```json
+{
+    "id": "i31347",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "run",
+    "en_definition": "move fast by using one's feet, with one foot off the ground at any given time",
+    "tr_word": "koşmak",
+    "tr_definition": "ayaklarını kullanarak, her adımda bir an için her iki ayağı da yerden kesilecek şekilde hızlıca ilerlemek",
+    "ru_word": "бежать",
+    "ru_definition": "быстро передвигаться на ногах, при этом в определенный момент обе ноги отрываются от земли",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüğürmek"
+                ],
+                "Azerbaijani": [
+                    "yüyürmək"
+                ],
+                "Turkmen": [
+                    "yügürmek"
+                ],
+                "Uzbek": [
+                    "yugurmoq"
+                ],
+                "Uyghur": [
+                    "يۈگۈرمەك",
+                    "يۈگۈرۈش"
+                ],
+                "Kazakh": [
+                    "жүгіру",
+                    "жүйтку"
+                ],
+                "Kyrgyz": [
+                    "жүгүрүү"
+                ],
+                "Karakalpak": [
+                    "jugırıu",
+                    "júytkiu"
+                ],
+                "Tatar": [
+                    "йөгерергә"
+                ],
+                "Bashkir": [
+                    "йүгереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qaçmaq"
+                ],
+                "Turkmen": [
+                    "çapmak"
+                ],
+                "Uzbek": [
+                    "chopmoq"
+                ],
+                "Uyghur": [
+                    "چاپماق"
+                ],
+                "Kazakh": [
+                    "шабу"
+                ],
+                "Karakalpak": [
+                    "shabıu"
+                ],
+                "Tatar": [
+                    "чабарга"
+                ],
+                "Bashkir": [
+                    "сабыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seğirtmek"
+                ],
+                "Azerbaijani": [
+                    "səyirtmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ylgamak",
+                    "ylgaw"
+                ],
+                "Kyrgyz": [
+                    "желүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җилдерергә"
+                ],
+                "Bashkir": [
+                    "елдереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koşmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "duvillamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зымырау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чуркоо"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,199 @@
+# Civil rights leader
+| Field | Detail |
+|---|---|
+| **ID** | i89004 |
+| **English** | civil rights leader |
+| **Type** | noun |
+| **Definition** | a leader of the political movement dedicated to securing equal opportunity for members of minority groups |
+| **Source** | common |
+| **Ortatil** | huquqban |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i89004",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "civil rights leader",
+    "en_definition": "a leader of the political movement dedicated to securing equal opportunity for members of minority groups",
+    "tr_word": "sivil haklar lideri",
+    "tr_definition": "azınlık gruplarının üyeleri için fırsat eşitliği sağlamaya adanmış siyasi hareketin lideri",
+    "ru_word": "лидер движения за гражданские права",
+    "ru_definition": "лидер политического движения, посвященного обеспечению равных возможностей для представителей групп меньшинств",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hukuk goraýjy"
+                ],
+                "Uzbek": [
+                    "huquqbon"
+                ],
+                "Uyghur": [
+                    "ھوقۇق قوغدىغۇچىلار رەھبىرى"
+                ],
+                "Karakalpak": [
+                    "huqıq qorǵaoshı"
+                ],
+                "Tatar": [
+                    "хокук яклаучы",
+                    "хокук сакчысы"
+                ],
+                "Bashkir": [
+                    "хоҡуҡ яҡлаусы",
+                    "хоҡуҡ һаҡлаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eşitlik savunucusu"
+                ],
+                "Uzbek": [
+                    "ozodlik kurashchisi"
+                ],
+                "Kazakh": [
+                    "азаматтық құқықтар жолындағы күрескер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ictimai xadim"
+                ],
+                "Uyghur": [
+                    "ئىجتىمائىي ھوقۇق يولباشچىسى"
+                ],
+                "Tatar": [
+                    "иҗтимагый эшлекле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "insan hakları önderi"
+                ],
+                "Uzbek": [
+                    "inson huquqlari himoyachisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hürriyet mücadelesi lideri"
+                ],
+                "Uzbek": [
+                    "fuqarolik huquqlari yetakchisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vətəndaş haqları rəhbəri"
+                ],
+                "Turkmen": [
+                    "raýat hukuklaryny goraýjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jámiyetlik ǵayratker"
+                ],
+                "Bashkir": [
+                    "йәмәғәт эшмәкәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "xalıq jetekshisi"
+                ],
+                "Bashkir": [
+                    "халыҡ юлбашсыһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hak savunucusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vətəndaş hüquqları müdafiəçisi",
+                    "hüquq müdafiəçisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "raýat azatlyklarynyň ýolbaşçysy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇقرالار ھوقۇقى رەھبىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құқық қорғаушы",
+                    "қоғам қайраткері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "укук коргоочу",
+                    "укук талашуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жарандык укук коргоочу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "адилеттик үчүн күрөшүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гражданлык хокуклары өчен көрәшче"
+                ]
+            }
+        }
+    ]
+}
+```
+

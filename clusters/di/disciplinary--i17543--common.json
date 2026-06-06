@@ -1,0 +1,114 @@
+{
+    "id": "i17543",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "disciplinary",
+    "en_definition": "relating to discipline in behavior",
+    "tr_word": "disiplin",
+    "tr_definition": "davranış disiplini ile ilgili olan, disipline dair",
+    "ru_word": "дисциплинарный",
+    "ru_definition": "относящийся к соблюдению дисциплины или порядка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "disiplin",
+                    "tedibi"
+                ],
+                "Uzbek": [
+                    "tartibiy"
+                ],
+                "Kazakh": [
+                    "тәртіптік",
+                    "тәртіпке қатысты"
+                ],
+                "Kyrgyz": [
+                    "тартиптик",
+                    "тартипке салуучу"
+                ],
+                "Karakalpak": [
+                    "tártip",
+                    "tártip-intizam"
+                ],
+                "Tatar": [
+                    "тәртип",
+                    "тәртип-интизам"
+                ],
+                "Bashkir": [
+                    "тәрбиәүи",
+                    "тәртип"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "inzibati"
+                ],
+                "Azerbaijani": [
+                    "intizam",
+                    "intizamlı"
+                ],
+                "Uzbek": [
+                    "intizomiy"
+                ],
+                "Uyghur": [
+                    "ئىنتىزامچان",
+                    "ئىنتىزامغا ئائىت"
+                ],
+                "Karakalpak": [
+                    "intizamlı"
+                ],
+                "Tatar": [
+                    "интизам"
+                ],
+                "Bashkir": [
+                    "интизам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tərbiyəvi"
+                ],
+                "Turkmen": [
+                    "terbiýeçilik"
+                ],
+                "Uyghur": [
+                    "تەرتىپ-ئىنتىزاملىق"
+                ],
+                "Kazakh": [
+                    "тәртіп сақтаушы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "edep-terbiýe"
+                ],
+                "Uzbek": [
+                    "odobiy"
+                ],
+                "Uyghur": [
+                    "ئەدەپ-ئەخلاققا دائىر"
+                ],
+                "Kyrgyz": [
+                    "адептик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "düzgün-nyzamly"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "id": "i69434",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bulk mail",
+    "en_definition": "mail consisting of large numbers of identical items (circulars or advertisements) sent to individual addresses at less than 1st-class rates and paid for in one lot",
+    "tr_word": "toplu posta",
+    "tr_definition": "Aynı içeriğe sahip çok sayıda gönderinin (reklam, broşür vb.) indirimli tarifeyle tek seferde gönderilmesi.",
+    "ru_word": "массовая рассылка",
+    "ru_definition": "Отправка большого количества идентичных отправлений (рекламы или циркуляров) по сниженному тарифу с единовременной оплатой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "toplu posta"
+                ],
+                "Azerbaijani": [
+                    "toplu poçt",
+                    "toplu göndəriş"
+                ],
+                "Turkmen": [
+                    "toplumlaýyn hatlar"
+                ],
+                "Uzbek": [
+                    "toʻp-toʻp maktublar"
+                ],
+                "Uyghur": [
+                    "توپلانغان پوچتا يوللانمىسى",
+                    "توپ پوچتا"
+                ],
+                "Kazakh": [
+                    "топтық жөнелтілім"
+                ],
+                "Kyrgyz": [
+                    "топ кат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köpçülikleýin poçta",
+                    "köp sanly ugratmalar"
+                ],
+                "Uyghur": [
+                    "كۆپ مىقدارلىق پوچتا"
+                ],
+                "Kazakh": [
+                    "көпшілік хат"
+                ],
+                "Kyrgyz": [
+                    "көптөгөн кат"
+                ],
+                "Karakalpak": [
+                    "kóp muǵdardaǵı xat-xabar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жаппай хат",
+                    "жаппай таратылым"
+                ],
+                "Kyrgyz": [
+                    "жапырт кат",
+                    "жапырт жөнөтмө"
+                ],
+                "Karakalpak": [
+                    "jappay jollama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kitlesel gönderi"
+                ],
+                "Bashkir": [
+                    "күпләп ебәрелгән хат-хәбәр",
+                    "күпләп таратыу",
+                    "күпләп ебәреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kütləvi poçt"
+                ],
+                "Tatar": [
+                    "күпләп җибәрелүче хатлар",
+                    "күпләп тарату",
+                    "күпләп җибәрү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yığın posta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ommaviy joʻnatma",
+                    "ommaviy pochta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻp miqdordagi xat-xabarlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "túrkúm xatlar"
+                ]
+            }
+        }
+    ]
+}

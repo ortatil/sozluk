@@ -1,0 +1,151 @@
+{
+    "id": "i32953",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "sell",
+    "en_definition": "exchange or deliver for money or its equivalent",
+    "tr_word": "satmak",
+    "tr_definition": "bir malı veya hizmeti para karşılığında başkasına devretmek",
+    "ru_word": "продавать",
+    "ru_definition": "передавать товар или услугу другому лицу в обмен на деньги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satmak"
+                ],
+                "Azerbaijani": [
+                    "satmaq"
+                ],
+                "Turkmen": [
+                    "satmak"
+                ],
+                "Uzbek": [
+                    "sotmoq"
+                ],
+                "Uyghur": [
+                    "ساتماق"
+                ],
+                "Kazakh": [
+                    "сату"
+                ],
+                "Kyrgyz": [
+                    "сатуу"
+                ],
+                "Karakalpak": [
+                    "satıo"
+                ],
+                "Tatar": [
+                    "сату",
+                    "сату итү"
+                ],
+                "Bashkir": [
+                    "һатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "savdo qilmoq"
+                ],
+                "Uyghur": [
+                    "سودا قىلماق"
+                ],
+                "Kazakh": [
+                    "саудалау"
+                ],
+                "Kyrgyz": [
+                    "соодалоо"
+                ],
+                "Bashkir": [
+                    "сауҙа итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pullaşdyrmak"
+                ],
+                "Uzbek": [
+                    "pullamoq"
+                ],
+                "Uyghur": [
+                    "پۇللىماق"
+                ],
+                "Karakalpak": [
+                    "pullao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "satışa çıxarmaq"
+                ],
+                "Turkmen": [
+                    "satuwa çykarmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elden çıkarmak"
+                ],
+                "Azerbaijani": [
+                    "əldən çıxarmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өткізу"
+                ],
+                "Kyrgyz": [
+                    "өткөрүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pazarlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "devretmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bay qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәкъдим итү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "биреү"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "i102700",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chickpea",
+    "en_definition": "the seed of the chickpea plant",
+    "tr_word": "nohut",
+    "tr_definition": "baklagillerden, sarımsı renkli, yuvarlak taneli bir bitki ve bu bitkinin tohumu",
+    "ru_word": "нут",
+    "ru_definition": "растение семейства бобовых, а также его семена, используемые в пищу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nohut"
+                ],
+                "Azerbaijani": [
+                    "noxud"
+                ],
+                "Turkmen": [
+                    "nohut",
+                    "nohut däneleri"
+                ],
+                "Uzbek": [
+                    "no'xat",
+                    "naxud"
+                ],
+                "Uyghur": [
+                    "نوقۇت",
+                    "نوقۇت دانىسى"
+                ],
+                "Kazakh": [
+                    "нұт",
+                    "ноқат"
+                ],
+                "Kyrgyz": [
+                    "нокот",
+                    "нахут"
+                ],
+                "Karakalpak": [
+                    "noqıt",
+                    "noqat"
+                ],
+                "Tatar": [
+                    "ногыт",
+                    "ногыт борчагы"
+                ],
+                "Bashkir": [
+                    "нот"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "leblebi"
+                ],
+                "Azerbaijani": [
+                    "ləbləbi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұршақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "нот борсағы"
+                ]
+            }
+        }
+    ]
+}

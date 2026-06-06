@@ -1,0 +1,85 @@
+{
+    "id": "i29417",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "machine wash",
+    "en_definition": "wash by machine",
+    "tr_word": "makinede yıkamak",
+    "tr_definition": "çamaşır makinesi kullanarak temizlemek",
+    "ru_word": "стирать в машине",
+    "ru_definition": "осуществлять стирку с помощью стиральной машины",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "makinede yıkamak",
+                    "makineyle yıkamak"
+                ],
+                "Uzbek": [
+                    "mashinada yuvmoq"
+                ],
+                "Uyghur": [
+                    "ماشىنىدا يۇيماق"
+                ],
+                "Kazakh": [
+                    "машинамен жуу"
+                ],
+                "Kyrgyz": [
+                    "машина менен жуу",
+                    "машинада жуу"
+                ],
+                "Karakalpak": [
+                    "mashinada juıu",
+                    "mashina menen juıu"
+                ],
+                "Tatar": [
+                    "машинада юу"
+                ],
+                "Bashkir": [
+                    "машина менән йыуыу",
+                    "машинала йыуыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kir yuvish mashinasida yuvmoq"
+                ],
+                "Kazakh": [
+                    "кір жуғыш машинамен жуу"
+                ],
+                "Tatar": [
+                    "кер юу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maşında yumaq"
+                ],
+                "Turkmen": [
+                    "maşynda ýuwmak",
+                    "kir ýuwujy maşynda ýuwmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paltaryuyanla yumaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كىر ماشىنىسىدا يۇيماق"
+                ]
+            }
+        }
+    ]
+}

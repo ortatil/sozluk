@@ -1,0 +1,133 @@
+# Plant material
+| Field | Detail |
+|---|---|
+| **ID** | i115928 |
+| **English** | plant material |
+| **Type** | noun |
+| **Definition** | material derived from plants |
+| **Source** | common |
+| **Ortatil** | näbätät |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **näbätät** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.33** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| نباتات | nbatat |
+
+```json
+{
+    "id": "i115928",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "plant material",
+    "en_definition": "material derived from plants",
+    "tr_word": "bitkisel materyal",
+    "tr_definition": "bitkilerden elde edilen malzeme",
+    "ru_word": "растительный материал",
+    "ru_definition": "материал, полученный из растений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ösümlik maddasy",
+                    "ösümlik önümi",
+                    "ösümlik çig maly"
+                ],
+                "Uzbek": [
+                    "o'simlik ashyosi",
+                    "o'simlik xomashyosi",
+                    "o'simlik moddasi"
+                ],
+                "Uyghur": [
+                    "ئۆسۈملۈك ماددىسى",
+                    "ئۆسۈملۈك ماتېرىيالى"
+                ],
+                "Kazakh": [
+                    "өсімдік заты",
+                    "өсімдік шикізаты",
+                    "өсімдік тектес зат"
+                ],
+                "Kyrgyz": [
+                    "өсүмдүк заты",
+                    "өсүмдүк чийки заты",
+                    "өсүмдүк калдыгы"
+                ],
+                "Karakalpak": [
+                    "ósimlik zatı",
+                    "ósimlik materialı",
+                    "ósimlik dúnyası"
+                ],
+                "Tatar": [
+                    "үсемлек матдәсе",
+                    "үсемлек чималы",
+                    "үсемлек дөньясы"
+                ],
+                "Bashkir": [
+                    "үҫемлек материалы",
+                    "үҫемлек сеймалы",
+                    "үҫемлек матдәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nebatat"
+                ],
+                "Azerbaijani": [
+                    "nəbatat materialı"
+                ],
+                "Uzbek": [
+                    "nabotot"
+                ],
+                "Uyghur": [
+                    "نباتات"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bitkisel madde",
+                    "bitki materyali",
+                    "bitkisel doku"
+                ],
+                "Azerbaijani": [
+                    "bitki mənşəli maddə",
+                    "bitki materialı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shóp-shar"
+                ]
+            }
+        }
+    ]
+}
+```
+

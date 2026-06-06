@@ -1,0 +1,71 @@
+{
+    "id": "i23119",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "whiten",
+    "en_definition": "turn white",
+    "tr_word": "beyazlatmak",
+    "tr_definition": "bir şeyi beyaz duruma getirmek veya beyazlaşmasını sağlamak",
+    "ru_word": "отбеливать",
+    "ru_definition": "делать что-либо белым или более светлым",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağarmak",
+                    "ağartmak"
+                ],
+                "Azerbaijani": [
+                    "ağartmaq",
+                    "ağarmaq"
+                ],
+                "Turkmen": [
+                    "agartmak",
+                    "aklamak"
+                ],
+                "Uzbek": [
+                    "oqarmoq",
+                    "oqlamoq",
+                    "oqartirmoq"
+                ],
+                "Uyghur": [
+                    "ئاقارماق"
+                ],
+                "Kazakh": [
+                    "ағарту",
+                    "ақ қылу",
+                    "аққа айналдыру"
+                ],
+                "Kyrgyz": [
+                    "агартуу",
+                    "актоо"
+                ],
+                "Karakalpak": [
+                    "aǵartıu",
+                    "aq qılıu",
+                    "aqqa aylandırıu"
+                ],
+                "Tatar": [
+                    "агарту",
+                    "агару"
+                ],
+                "Bashkir": [
+                    "ағартыу",
+                    "ағарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyazlamak",
+                    "beyazlatmak"
+                ],
+                "Azerbaijani": [
+                    "bəyazlatmaq"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+# Great seal
+| Field | Detail |
+|---|---|
+| **ID** | i54425 |
+| **English** | great seal |
+| **Type** | noun |
+| **Definition** | the principal seal of a government, symbolizing authority or sovereignty |
+| **Source** | common |
+| **Ortatil** | tañba |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| таңба | tañba |
+
+```json
+{
+    "id": "i54425",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "great seal",
+    "en_definition": "the principal seal of a government, symbolizing authority or sovereignty",
+    "tr_word": "devlet mührü",
+    "tr_definition": "Bir devletin otoritesini veya egemenliğini simgeleyen ana mühür.",
+    "ru_word": "государственная печать",
+    "ru_definition": "главная печать правительства, символизирующая власть или суверенитет.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "devlet mührü"
+                ],
+                "Azerbaijani": [
+                    "dövlət möhürü"
+                ],
+                "Turkmen": [
+                    "döwlet möhüri"
+                ],
+                "Uzbek": [
+                    "davlat muhri"
+                ],
+                "Uyghur": [
+                    "دۆلەت تامغىسى"
+                ],
+                "Tatar": [
+                    "дәүләт мөһере"
+                ],
+                "Bashkir": [
+                    "дәүләт мөһөрө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uly möhür"
+                ],
+                "Uzbek": [
+                    "oliy muhr"
+                ],
+                "Uyghur": [
+                    "ئالىي تامغا"
+                ],
+                "Kazakh": [
+                    "ұлы мөр"
+                ],
+                "Kyrgyz": [
+                    "улуу мөөр"
+                ],
+                "Bashkir": [
+                    "оло мөһөр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "baş möhür"
+                ],
+                "Turkmen": [
+                    "baş möhür"
+                ],
+                "Kyrgyz": [
+                    "башкы мөөр"
+                ],
+                "Tatar": [
+                    "патша мөһере"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "büyük mühür"
+                ],
+                "Azerbaijani": [
+                    "böyük möhür"
+                ],
+                "Tatar": [
+                    "бөек мөһер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mühr-ü hümayun"
+                ],
+                "Karakalpak": [
+                    "mór",
+                    "mór-tańba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səltənət möhürü"
+                ],
+                "Uzbek": [
+                    "saltanat muhri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мемлекеттік мөр"
+                ],
+                "Kyrgyz": [
+                    "мамлекеттик мөөр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңба"
+                ],
+                "Karakalpak": [
+                    "tańba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tuğra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta muhr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پادىشاھلىق تامغىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хақандық мөр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төп мөһөр"
+                ]
+            }
+        }
+    ]
+}
+```
+

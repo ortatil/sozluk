@@ -1,0 +1,128 @@
+{
+    "id": "i15922",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "terrestrial",
+    "en_definition": "of or relating to or inhabiting the land as opposed to the sea or air",
+    "tr_word": "karasal",
+    "tr_definition": "Deniz veya hava yerine karaya ait olan veya karada yaşayan",
+    "ru_word": "земной",
+    "ru_definition": "относящийся к суше или обитающий на суше, в отличие от воды или воздуха",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arzî"
+                ],
+                "Azerbaijani": [
+                    "yerüstü"
+                ],
+                "Turkmen": [
+                    "ýerüsti"
+                ],
+                "Uzbek": [
+                    "yerlik"
+                ],
+                "Uyghur": [
+                    "يەر يۈزىدىكى"
+                ],
+                "Kazakh": [
+                    "жердегі",
+                    "жерүсті"
+                ],
+                "Kyrgyz": [
+                    "жердеги",
+                    "жер үстүндөгү"
+                ],
+                "Karakalpak": [
+                    "jerdegi",
+                    "jer ústindegi"
+                ],
+                "Tatar": [
+                    "җир",
+                    "җир өсте"
+                ],
+                "Bashkir": [
+                    "ер",
+                    "ерҙәге",
+                    "ер өҫтө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "quru"
+                ],
+                "Turkmen": [
+                    "gury ýer"
+                ],
+                "Uzbek": [
+                    "quruqlikdagi"
+                ],
+                "Uyghur": [
+                    "قۇرۇقلۇقتىكى"
+                ],
+                "Kazakh": [
+                    "құрлықтық"
+                ],
+                "Kyrgyz": [
+                    "кургактыктагы"
+                ],
+                "Karakalpak": [
+                    "qurılıqtaǵı"
+                ],
+                "Tatar": [
+                    "коры җир"
+                ],
+                "Bashkir": [
+                    "ҡоро ер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "toprak"
+                ],
+                "Azerbaijani": [
+                    "torpaq"
+                ],
+                "Turkmen": [
+                    "toprak"
+                ],
+                "Uyghur": [
+                    "تۇپراقتىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bərri"
+                ],
+                "Uzbek": [
+                    "barriy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karasal",
+                    "kara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yerga oid"
+                ]
+            }
+        }
+    ]
+}

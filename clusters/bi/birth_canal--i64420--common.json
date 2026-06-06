@@ -1,0 +1,95 @@
+{
+    "id": "i64420",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "birth canal",
+    "en_definition": "a passage in the uterus and vagina through which a fetus passes during vaginal birth",
+    "tr_word": "doğum kanalı",
+    "tr_definition": "vajinal doğum sırasında fetüsün içinden geçtiği rahim ve vajina yolu",
+    "ru_word": "родовые пути",
+    "ru_definition": "путь, по которому плод проходит во время вагинальных родов, включающий матку и влагалище",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doğum kanalı",
+                    "doğum yolu"
+                ],
+                "Azerbaijani": [
+                    "doğuş yolu",
+                    "doğum yolu"
+                ],
+                "Turkmen": [
+                    "doguş ýoly",
+                    "dogrum ýoly"
+                ],
+                "Uzbek": [
+                    "tugʻruq yoʻli",
+                    "tugʻish yoʻli"
+                ],
+                "Uyghur": [
+                    "تۇغۇت يولى",
+                    "تۇغۇت يوللىرى"
+                ],
+                "Karakalpak": [
+                    "tuoıo jolı"
+                ],
+                "Tatar": [
+                    "туу юлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ту жолдары"
+                ],
+                "Kyrgyz": [
+                    "төрөт жолу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жатын жолу"
+                ],
+                "Karakalpak": [
+                    "jatır jolı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бала туу юлы"
+                ],
+                "Bashkir": [
+                    "бала табыу юлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tenasül yolu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "босану жолдары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тыуҙырыу юлы"
+                ]
+            }
+        }
+    ]
+}

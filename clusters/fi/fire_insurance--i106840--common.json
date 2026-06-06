@@ -1,0 +1,80 @@
+{
+    "id": "i106840",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fire insurance",
+    "en_definition": "insurance against loss due to fire",
+    "tr_word": "yangın sigortası",
+    "tr_definition": "Yangın nedeniyle meydana gelebilecek maddi zararları karşılayan sigorta türü.",
+    "ru_word": "страхование от огня",
+    "ru_definition": "страхование имущества от ущерба, причиненного пожаром.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yangın sigortası"
+                ],
+                "Azerbaijani": [
+                    "yanğın sığortası"
+                ],
+                "Turkmen": [
+                    "ýangyn ätiýaçlandyrmasy",
+                    "ýangyndan ätiýaçlandyrma"
+                ],
+                "Uzbek": [
+                    "yong'in sug'urtasi"
+                ],
+                "Tatar": [
+                    "янгыннан иминият",
+                    "янгыннан иминиятләштерү"
+                ],
+                "Bashkir": [
+                    "янғындан һаҡландырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ateş sigortası"
+                ],
+                "Azerbaijani": [
+                    "atəş sığortası"
+                ],
+                "Uzbek": [
+                    "otash sug'urtasi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өрттен сақтандыру",
+                    "өрт қаупінен сақтандыру"
+                ],
+                "Kyrgyz": [
+                    "өрттөн камсыздандыруу",
+                    "өрткө каршы камсыздандыруу"
+                ],
+                "Karakalpak": [
+                    "órtten saqlandırıo",
+                    "órt qáopinen saqlandırıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوت ئاپىتى سۇغۇرتىسى",
+                    "ئوتتىن مۇداپىئەلىنىش سۇغۇرتىسى"
+                ],
+                "Bashkir": [
+                    "уттан һаҡландырыу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "id": "i90154",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "garmentmaker",
+    "en_definition": "a person who makes garments",
+    "tr_word": "konfeksiyoncu",
+    "tr_definition": "giysi yapan veya diken kimse",
+    "ru_word": "портной",
+    "ru_definition": "человек, который занимается изготовлением одежды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dikici"
+                ],
+                "Turkmen": [
+                    "tikiniçi"
+                ],
+                "Uzbek": [
+                    "tikuvchi"
+                ],
+                "Uyghur": [
+                    "تىككۈچى"
+                ],
+                "Kazakh": [
+                    "тігінші"
+                ],
+                "Kyrgyz": [
+                    "тигүүчү"
+                ],
+                "Karakalpak": [
+                    "tiginshi"
+                ],
+                "Tatar": [
+                    "тегүче"
+                ],
+                "Bashkir": [
+                    "тегенсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "terzi",
+                    "derzi"
+                ],
+                "Azerbaijani": [
+                    "dərzi"
+                ],
+                "Turkmen": [
+                    "derzi"
+                ],
+                "Uzbek": [
+                    "darzduz"
+                ],
+                "Uyghur": [
+                    "دەرزى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "kiimshi"
+                ],
+                "Tatar": [
+                    "киемче"
+                ],
+                "Bashkir": [
+                    "кейемсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paltartikən",
+                    "paltarçı"
+                ],
+                "Turkmen": [
+                    "pilleçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىياۋەتچى"
+                ],
+                "Tatar": [
+                    "хәят"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шебер"
+                ],
+                "Kyrgyz": [
+                    "чебер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "libossoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ісмер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бычмачы"
+                ]
+            }
+        }
+    ]
+}

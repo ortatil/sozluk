@@ -1,0 +1,120 @@
+{
+    "id": "i70232",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pocket dictionary",
+    "en_definition": "a dictionary that is small enough to carry in your pocket",
+    "tr_word": "cep sözlüğü",
+    "tr_definition": "cebe sığacak kadar küçük boyutta olan sözlük",
+    "ru_word": "карманный словарь",
+    "ru_definition": "словарь небольшого формата, который удобно носить с собой в кармане",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kiçik lüğət"
+                ],
+                "Turkmen": [
+                    "kiçi sözlük"
+                ],
+                "Uzbek": [
+                    "kichik lug'at"
+                ],
+                "Uyghur": [
+                    "كىچىك لۇغەت"
+                ],
+                "Kyrgyz": [
+                    "кичи сөздүк"
+                ],
+                "Karakalpak": [
+                    "kishkene sózlik"
+                ],
+                "Tatar": [
+                    "кесә сүзлеге",
+                    "кечкенә сүзлек"
+                ],
+                "Bashkir": [
+                    "кеҫә һүҙлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "cho'ntak lug'ati"
+                ],
+                "Uyghur": [
+                    "چەنتە لۇغىتى"
+                ],
+                "Kyrgyz": [
+                    "чөнтөк сөздүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cep sözlüğü",
+                    "cep lügati"
+                ],
+                "Azerbaijani": [
+                    "cib lüğəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қалта сөздігі"
+                ],
+                "Karakalpak": [
+                    "qalta sózligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yığcam lüğət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jübi sözlügi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ixcham lug'at"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يان لۇغەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шағын сөздік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәй һүҙлек"
+                ]
+            }
+        }
+    ]
+}

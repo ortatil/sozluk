@@ -1,0 +1,169 @@
+# Momentarily
+| Field | Detail |
+|---|---|
+| **ID** | i18716 |
+| **English** | momentarily |
+| **Type** | adverb |
+| **Definition** | for an instant or moment |
+| **Source** | common |
+| **Ortatil** | birsellemgä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қас-қағымда | qas-qağımda |
+| лезде | lezde |
+| сәтте | sätte |
+
+```json
+{
+    "id": "i18716",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "momentarily",
+    "en_definition": "for an instant or moment",
+    "tr_word": "bir anlığına",
+    "tr_definition": "çok kısa bir süre için, bir an süresince",
+    "ru_word": "на мгновение",
+    "ru_definition": "на очень короткий промежуток времени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bir anlık",
+                    "bir an için"
+                ],
+                "Azerbaijani": [
+                    "bir anlıq",
+                    "bir an"
+                ],
+                "Turkmen": [
+                    "birsellem",
+                    "birsalym",
+                    "biražyk",
+                    "bir demde"
+                ],
+                "Uzbek": [
+                    "bir zumga",
+                    "bir lahzaga",
+                    "bir damga"
+                ],
+                "Uyghur": [
+                    "بىر دەم",
+                    "بىر پەس",
+                    "بىر ئان",
+                    "بىر دەقىقە"
+                ],
+                "Kazakh": [
+                    "бір сәтке",
+                    "бір демде"
+                ],
+                "Kyrgyz": [
+                    "бир азга",
+                    "бир саамга",
+                    "бир ирмемге"
+                ],
+                "Karakalpak": [
+                    "birpasqa",
+                    "birdemge",
+                    "birlahzaǵa",
+                    "birmáhelge"
+                ],
+                "Tatar": [
+                    "бер мәлгә",
+                    "бер мизгелгә",
+                    "бер адымга"
+                ],
+                "Bashkir": [
+                    "бер мәлгә",
+                    "бер аҙға",
+                    "бер минутҡа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geçici olarak"
+                ],
+                "Azerbaijani": [
+                    "qısaca"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kısa bir süre için"
+                ],
+                "Kazakh": [
+                    "қас-қағымда"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müvəqqəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "derrew"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oniy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "лезде"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сәтте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аз убакытка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тиз арада"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "күҙ асып йомғансы"
+                ]
+            }
+        }
+    ]
+}
+```
+

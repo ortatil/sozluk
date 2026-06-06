@@ -1,0 +1,109 @@
+{
+    "id": "i53943",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "folk art",
+    "en_definition": "genre of art of unknown origin that reflects traditional values of a society",
+    "tr_word": "halk sanatı",
+    "tr_definition": "Bir toplumun geleneksel değerlerini yansıtan ve genellikle kaynağı bilinmeyen sanat türü.",
+    "ru_word": "народное искусство",
+    "ru_definition": "Жанр искусства неизвестного происхождения, отражающий традиционные ценности общества.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "halk sanatı",
+                    "halk sanatları"
+                ],
+                "Azerbaijani": [
+                    "xalq sənəti",
+                    "xalq yaradıcılığı"
+                ],
+                "Turkmen": [
+                    "halk döredijiligi",
+                    "halk sungaty"
+                ],
+                "Uzbek": [
+                    "xalq san'ati",
+                    "xalq ijodi"
+                ],
+                "Uyghur": [
+                    "خەلق سەنئىتى"
+                ],
+                "Kazakh": [
+                    "халық өнері",
+                    "халық шығармашылығы"
+                ],
+                "Karakalpak": [
+                    "xalıq óneri",
+                    "xalıq shıǵarmashılıǵı",
+                    "xalıq miyrası"
+                ],
+                "Tatar": [
+                    "халык иҗаты",
+                    "халык сәнгате",
+                    "халык һөнәрчелеге"
+                ],
+                "Bashkir": [
+                    "халыҡ ижады",
+                    "халыҡ сәнғәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "el sənəti"
+                ],
+                "Uyghur": [
+                    "ئەل سەنئىتى"
+                ],
+                "Kyrgyz": [
+                    "элдик өнөр",
+                    "элдик чыгармачылык",
+                    "элдик искусство"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "milliy hunarmandchilik"
+                ],
+                "Uyghur": [
+                    "مىللىي سەنئەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geleneksel sanat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "folklory"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұлттық өнер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кол өнөрчүлүк"
+                ]
+            }
+        }
+    ]
+}

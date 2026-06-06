@@ -1,0 +1,78 @@
+# Redford
+| Field | Detail |
+|---|---|
+| **ID** | i96679 |
+| **English** | redford |
+| **Type** | noun |
+| **Definition** | United States actor and filmmaker who starred with Paul Newman in several films (born in 1936) |
+| **Source** | common |
+| **Ortatil** | redfort |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| رېدفورد | redford |
+
+```json
+{
+    "id": "i96679",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "redford",
+    "en_definition": "United States actor and filmmaker who starred with Paul Newman in several films (born in 1936)",
+    "tr_word": "Redford",
+    "tr_definition": "Paul Newman ile birlikte birçok filmde rol alan Amerikalı aktör ve yönetmen (1936 doğumlu).",
+    "ru_word": "Редфорд",
+    "ru_definition": "Американский актер и режиссер, снявшийся вместе с Полом Ньюманом в нескольких фильмах (родился в 1936 году).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Robert Redford"
+                ],
+                "Azerbaijani": [
+                    "Robert Redford"
+                ],
+                "Turkmen": [
+                    "Robert Redford"
+                ],
+                "Uzbek": [
+                    "Robert Redford"
+                ],
+                "Uyghur": [
+                    "روبېرت رېدفورد"
+                ],
+                "Kazakh": [
+                    "Роберт Редфорд"
+                ],
+                "Kyrgyz": [
+                    "Роберт Редфорд"
+                ],
+                "Karakalpak": [
+                    "Robert Redford"
+                ],
+                "Tatar": [
+                    "Роберт Редфорд"
+                ],
+                "Bashkir": [
+                    "Роберт Редфорд"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رېدفورد"
+                ]
+            }
+        }
+    ]
+}
+```
+

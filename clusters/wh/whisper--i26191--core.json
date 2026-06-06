@@ -1,0 +1,113 @@
+{
+    "id": "i26191",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "whisper",
+    "en_definition": "speak softly; in a low voice",
+    "tr_word": "fısıldamak",
+    "tr_definition": "alçak sesle konuşmak",
+    "ru_word": "шептать",
+    "ru_definition": "говорить очень тихо, вполголоса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fısıldamak",
+                    "fısıldaşmak"
+                ],
+                "Azerbaijani": [
+                    "pıçıldamaq",
+                    "pıçıltı ilə demək"
+                ],
+                "Turkmen": [
+                    "pyşyrdamak",
+                    "pyşyrdy bilen aýtmak"
+                ],
+                "Uzbek": [
+                    "pichirlamoq",
+                    "pichirlab gapirmoq"
+                ],
+                "Uyghur": [
+                    "پىچىرلىماق",
+                    "پىچىرلاشماق"
+                ],
+                "Karakalpak": [
+                    "pısırlao"
+                ],
+                "Tatar": [
+                    "пышылдарга"
+                ],
+                "Bashkir": [
+                    "пышылдау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shivirlamoq"
+                ],
+                "Kazakh": [
+                    "сыбырлау",
+                    "сыбырласу"
+                ],
+                "Kyrgyz": [
+                    "шыбыроо",
+                    "шыбырашуу",
+                    "шыбырдоо"
+                ],
+                "Karakalpak": [
+                    "sıbırlao",
+                    "sıbırlasıo"
+                ],
+                "Tatar": [
+                    "сыбырдарга"
+                ],
+                "Bashkir": [
+                    "шыбырлау",
+                    "шыбырлап һөйләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pys-pys etmek"
+                ],
+                "Tatar": [
+                    "пыш-пыш килергә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alçak sesle konuşmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yavaşca danışmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاستا سۆزلىمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күбірлеу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "id": "i5185",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "fingerless",
+    "en_definition": "not having or having lost fingers",
+    "tr_word": "parmaksız",
+    "tr_definition": "parmakları olmayan veya parmaklarını kaybetmiş olan",
+    "ru_word": "беспалый",
+    "ru_definition": "не имеющий пальцев или лишившийся их",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "parmaksız"
+                ],
+                "Azerbaijani": [
+                    "barmaqsız"
+                ],
+                "Turkmen": [
+                    "barmaksyz"
+                ],
+                "Uzbek": [
+                    "barmoqsiz",
+                    "bebarmoq"
+                ],
+                "Uyghur": [
+                    "بارماقسىز"
+                ],
+                "Kyrgyz": [
+                    "бармаксыз"
+                ],
+                "Tatar": [
+                    "бармаксыз"
+                ],
+                "Bashkir": [
+                    "бармаҡһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çolak"
+                ],
+                "Azerbaijani": [
+                    "çolaq"
+                ],
+                "Uyghur": [
+                    "چولاق"
+                ],
+                "Kazakh": [
+                    "шолақ"
+                ],
+                "Karakalpak": [
+                    "sholaq"
+                ],
+                "Tatar": [
+                    "чулак"
+                ],
+                "Bashkir": [
+                    "сулаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "саусақсыз"
+                ],
+                "Kyrgyz": [
+                    "салаасыз"
+                ],
+                "Karakalpak": [
+                    "sausaqsız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şonky"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+# Petty cash
+| Field | Detail |
+|---|---|
+| **ID** | i107275 |
+| **English** | petty cash |
+| **Type** | noun |
+| **Definition** | a small fund of cash that a firm keeps for the payment of incidental expenses |
+| **Source** | common |
+| **Ortatil** | harcırah |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i107275",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "petty cash",
+    "en_definition": "a small fund of cash that a firm keeps for the payment of incidental expenses",
+    "tr_word": "küçük kasa",
+    "tr_definition": "bir firmanın küçük ve beklenmedik harcamaları karşılamak için elinde bulundurduğu nakit para fonu",
+    "ru_word": "мелкие расходы",
+    "ru_definition": "небольшая сумма наличных денег, хранящаяся в компании для оплаты мелких текущих расходов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қолма-қол ақша қоры"
+                ],
+                "Karakalpak": [
+                    "qoldaǵı naq pul"
+                ],
+                "Tatar": [
+                    "кулдагы акча"
+                ],
+                "Bashkir": [
+                    "ҡул аҡсаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mayda xarajatlar jamg'armasi",
+                    "mayda pul"
+                ],
+                "Kyrgyz": [
+                    "майда акча"
+                ],
+                "Karakalpak": [
+                    "mayda pul",
+                    "mayda-shúyde qárejetler ushın pul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "küçük kasa"
+                ],
+                "Kazakh": [
+                    "ұсақ-түйек шығындар кассасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bozuk para kasası"
+                ],
+                "Kyrgyz": [
+                    "күнүмдүк каражат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "harcırah"
+                ],
+                "Azerbaijani": [
+                    "xırda xərclik",
+                    "xırda pul fondu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "naqd xarajatlar puli"
+                ],
+                "Uyghur": [
+                    "نەق پۇل زاپىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇششاق چىقىم پۇلى",
+                    "ئۇششاق خىراجەت پۇلى"
+                ],
+                "Kazakh": [
+                    "ұсақ ақша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чыгым кассасы"
+                ],
+                "Tatar": [
+                    "чыгым акчасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ваклак акча"
+                ],
+                "Bashkir": [
+                    "ваҡ аҡса",
+                    "ваҡ-төйәк сығымдар фонды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "avans"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cib xərcliyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ownuk harajat",
+                    "ownuk pul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kassa"
+                ]
+            }
+        }
+    ]
+}
+```
+

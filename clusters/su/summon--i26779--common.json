@@ -1,0 +1,148 @@
+{
+    "id": "i26779",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "summon",
+    "en_definition": "ask to come",
+    "tr_word": "çağırmak",
+    "tr_definition": "birinin gelmesini istemek, davet etmek veya huzura çağırmak",
+    "ru_word": "вызывать",
+    "ru_definition": "просить или приказывать кому-либо прийти",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çağırmak"
+                ],
+                "Azerbaijani": [
+                    "çağırmaq"
+                ],
+                "Turkmen": [
+                    "çagyrmak",
+                    "çakyrmak"
+                ],
+                "Uzbek": [
+                    "chaqirmoq",
+                    "chorlamoq"
+                ],
+                "Uyghur": [
+                    "چاقىرماق"
+                ],
+                "Kazakh": [
+                    "шақыру"
+                ],
+                "Kyrgyz": [
+                    "чакыруу",
+                    "чакыртып алуу"
+                ],
+                "Karakalpak": [
+                    "shaqırıo"
+                ],
+                "Tatar": [
+                    "чакыру",
+                    "чакырып китерү"
+                ],
+                "Bashkir": [
+                    "саҡырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "davet etmek"
+                ],
+                "Azerbaijani": [
+                    "dəvət etmək"
+                ],
+                "Turkmen": [
+                    "dawet etmek"
+                ],
+                "Uzbek": [
+                    "da'vat qilmoq"
+                ],
+                "Uyghur": [
+                    "دەۋەت قىلماق"
+                ],
+                "Bashkir": [
+                    "дәүәт итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үндеу"
+                ],
+                "Kyrgyz": [
+                    "үнөө",
+                    "үн катуу"
+                ],
+                "Karakalpak": [
+                    "úndeo"
+                ],
+                "Bashkir": [
+                    "өндәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "huzura çağırmak"
+                ],
+                "Azerbaijani": [
+                    "hüzura çağırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "келтіру"
+                ],
+                "Karakalpak": [
+                    "keltirio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "celbetmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səsləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەكلىپ قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يوقلىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дәшү"
+                ]
+            }
+        }
+    ]
+}

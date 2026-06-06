@@ -1,0 +1,123 @@
+# Skateboarding
+| Field | Detail |
+|---|---|
+| **ID** | i37767 |
+| **English** | skateboarding |
+| **Type** | noun |
+| **Definition** | the sport of skating on a skateboard |
+| **Source** | common |
+| **Ortatil** | skeytbordiñ |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **skeytbordiñ** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| скейтбординг | skeytbording |
+| **Kyrgyz** | |
+| скейтбординг | skeytbording |
+| **Tatar** | |
+| скейтбординг | skeytbording |
+| **Bashkir** | |
+| скейтбординг | skeytbording |
+
+```json
+{
+    "id": "i37767",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "skateboarding",
+    "en_definition": "the sport of skating on a skateboard",
+    "tr_word": "kaykay",
+    "tr_definition": "kaykay üzerinde kayma sporu",
+    "ru_word": "скейтбординг",
+    "ru_definition": "вид спорта, заключающийся в катании на скейтборде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "skeytbordinq",
+                    "skeyt sürmə"
+                ],
+                "Turkmen": [
+                    "skeýtbordçylyk"
+                ],
+                "Uzbek": [
+                    "skeytbording",
+                    "skeyt uchish",
+                    "skeytda uchish"
+                ],
+                "Kazakh": [
+                    "скейтбординг",
+                    "скейт тебу"
+                ],
+                "Kyrgyz": [
+                    "скейтбординг",
+                    "скейт тебүү"
+                ],
+                "Karakalpak": [
+                    "skeytbording",
+                    "skeytbord tebio",
+                    "skeytbord sportı"
+                ],
+                "Tatar": [
+                    "скейтбординг",
+                    "скейтбордта шуу"
+                ],
+                "Bashkir": [
+                    "скейтбординг",
+                    "скейтбордта шыуыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tigirli tagtada typmak"
+                ],
+                "Uyghur": [
+                    "تېيىلىش تاختىسى تەنھەرىكىتى",
+                    "تېيىلىش تاختىسىدا تېيىلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaykay",
+                    "kaykaycılık",
+                    "kaykay sporu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тақтаймен сырғанау"
+                ]
+            }
+        }
+    ]
+}
+```
+

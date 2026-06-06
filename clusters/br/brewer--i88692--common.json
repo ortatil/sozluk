@@ -1,0 +1,82 @@
+{
+    "id": "i88692",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brewer",
+    "en_definition": "someone who brews beer or ale from malt and hops and water",
+    "tr_word": "biracı",
+    "tr_definition": "malt, şerbetçiotu ve sudan bira yapan kimse",
+    "ru_word": "пивовар",
+    "ru_definition": "человек, который занимается изготовлением пива",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сыра қайнатушы",
+                    "сырашы"
+                ],
+                "Kyrgyz": [
+                    "сырачы"
+                ],
+                "Karakalpak": [
+                    "sırapaz",
+                    "sırashı"
+                ],
+                "Tatar": [
+                    "сырачы",
+                    "сыра кайнатучы"
+                ],
+                "Bashkir": [
+                    "һырасы",
+                    "һыра ҡайнатыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pivəçi",
+                    "pivəbişirən"
+                ],
+                "Turkmen": [
+                    "piwoçy",
+                    "piwo gaýnadyjy"
+                ],
+                "Uzbek": [
+                    "pivochi",
+                    "pivo pishiruvchi",
+                    "pivo tayyorlovchi"
+                ],
+                "Uyghur": [
+                    "پىۋاچى",
+                    "پىۋا تەييارلىغۇچى",
+                    "پىۋا پىشۇرغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "biracı",
+                    "bira imalatçısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mayalayıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бозочу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+# Cracker crumbs
+| Field | Detail |
+|---|---|
+| **ID** | i76901 |
+| **English** | cracker crumbs |
+| **Type** | noun |
+| **Definition** | crumbs of crackers used especially for coating or thickening |
+| **Source** | common |
+| **Ortatil** | talqan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| талкан | talkan |
+| күрпө | kürpö |
+| күкүм | küküm |
+| **Tatar** | |
+| ватык | vatık |
+
+```json
+{
+    "id": "i76901",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cracker crumbs",
+    "en_definition": "crumbs of crackers used especially for coating or thickening",
+    "tr_word": "kraker kırıntısı",
+    "tr_definition": "özellikle kaplama veya kıvam artırma amacıyla kullanılan ufalanmış kraker parçaları",
+    "ru_word": "крошки крекера",
+    "ru_definition": "измельченные кусочки крекера, используемые в основном для панировки или загущения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "peýni kükümi",
+                    "peýni owuntygy"
+                ],
+                "Karakalpak": [
+                    "pechene untıǵı",
+                    "pechene kúltesі",
+                    "pechene qiqımı"
+                ],
+                "Tatar": [
+                    "печенье ватыгы",
+                    "печенье оны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nan kükümi"
+                ],
+                "Uzbek": [
+                    "non uvoqlari"
+                ],
+                "Kazakh": [
+                    "нан ұнтағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pechenye uvoqlari"
+                ],
+                "Uyghur": [
+                    "پېچىنە ئۇۋىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "talqon"
+                ],
+                "Kyrgyz": [
+                    "талкан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇرۇق نان ئۇۋىقى"
+                ],
+                "Kazakh": [
+                    "қиыршық нан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kraker kırıntısı",
+                    "kraker tozu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "galeta unu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "suxarı qırıntısı",
+                    "suxarı tozu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çörək qırıntısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بولكا ئۇۋىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кептірілген нан ұнтағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күрпө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күкүм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ватык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡалас валсығы",
+                    "ҡаҡланған икмәк валсығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "икмәк валсығы"
+                ]
+            }
+        }
+    ]
+}
+```
+

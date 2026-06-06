@@ -1,0 +1,86 @@
+{
+    "id": "i91043",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lip reader",
+    "en_definition": "someone who can understand spoken words by watching the movements of a speaker's lips",
+    "tr_word": "dudak okuyucusu",
+    "tr_definition": "konuşan birinin dudak hareketlerini izleyerek ne söylediğini anlayabilen kişi",
+    "ru_word": "чтец по губам",
+    "ru_definition": "человек, способный понимать произносимые слова, наблюдая за движениями губ говорящего",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dudak okuyucusu",
+                    "dudak okuyan"
+                ],
+                "Azerbaijani": [
+                    "dodaq oxuyan",
+                    "dodaqdan oxuyan"
+                ],
+                "Turkmen": [
+                    "dodak okaýjy",
+                    "dodakdan okaýan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еріннен оқушы",
+                    "ерін қимылын түсінуші"
+                ],
+                "Karakalpak": [
+                    "erіnnen oqıoshı",
+                    "erіn qıymılınan túsinioshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иреннән укучы",
+                    "ирен хәрәкәтеннән аңлаучы"
+                ],
+                "Bashkir": [
+                    "ирен уҡыусы",
+                    "ирен хәрәкәтенән аңлаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "labdan oʻquvchi",
+                    "lab harakatidan tushunuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "لەۋ ئوقۇغۇچى",
+                    "لەۋ ھەرىكىتىنى ئوقۇغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "لەۋ تىلىنى چۈشەنگۈچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ооз кыймылынан окуган адам",
+                    "ооздон окуган адам",
+                    "ооздон окуучу"
+                ]
+            }
+        }
+    ]
+}

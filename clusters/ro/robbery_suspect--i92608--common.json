@@ -1,0 +1,130 @@
+{
+    "id": "i92608",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "robbery suspect",
+    "en_definition": "someone suspected of committing robbery",
+    "tr_word": "soygun şüphelisi",
+    "tr_definition": "bir soygun gerçekleştirdiğinden şüphelenilen kişi",
+    "ru_word": "подозреваемый в ограблении",
+    "ru_definition": "лицо, подозреваемое в совершении ограбления",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qarət şübhəlisi"
+                ],
+                "Turkmen": [
+                    "garakçylykda güman edilýän"
+                ],
+                "Kazakh": [
+                    "қарақшылыққа күдікті"
+                ],
+                "Kyrgyz": [
+                    "каракчылыкка шектүү",
+                    "каракчылыкка шектелүүчү"
+                ],
+                "Karakalpak": [
+                    "qaraqshılıqta gúmanlanıoshı"
+                ],
+                "Tatar": [
+                    "караклыкта шикләнелүче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "talançylykda güman edilýän"
+                ],
+                "Uzbek": [
+                    "talan-torojda gumonlanuvchi"
+                ],
+                "Karakalpak": [
+                    "talan-tarajlıqta gúmanlanıoshı"
+                ],
+                "Tatar": [
+                    "талауда шикләнелүче",
+                    "талаучы дип шикләнелүче"
+                ],
+                "Bashkir": [
+                    "талауҙа шикләнелеүсе",
+                    "талаусы тип шикләнелеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soygun şüphelisi",
+                    "soygun zanlısı"
+                ],
+                "Azerbaijani": [
+                    "soyğunçuluq şübhəlisi",
+                    "soyğun şübhəlisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۇلاڭچىلىق گۇماندارى",
+                    "بۇلاڭچىلىققا چېتىشلىق گۇماندار",
+                    "بۇلاڭچىلىق بىلەن ئەيىبلەنگۈچى"
+                ],
+                "Karakalpak": [
+                    "bulap-talaoda gúmanlanıoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тонаушы күдікті",
+                    "тонауға күдікті"
+                ],
+                "Kyrgyz": [
+                    "тоноочулукка шектүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gasp şüphelisi",
+                    "gasp zanlısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ogurlykda güman edilýän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bosqinchilikda gumonlanuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻgʻrilikda gumonlanuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "юлбаҫарлыҡта шикләнелеүсе"
+                ]
+            }
+        }
+    ]
+}

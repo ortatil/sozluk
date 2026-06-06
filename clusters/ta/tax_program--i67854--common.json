@@ -1,0 +1,82 @@
+{
+    "id": "i67854",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tax program",
+    "en_definition": "a program for setting taxes",
+    "tr_word": "vergi programı",
+    "tr_definition": "vergileri belirlemek veya düzenlemek için kullanılan bir program",
+    "ru_word": "налоговая программа",
+    "ru_definition": "программа для установления или регулирования налогов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salgyt maksatnamasy",
+                    "salgyt meýilnamasy",
+                    "salgyt programmasy"
+                ],
+                "Uzbek": [
+                    "soliq dasturi",
+                    "soliq rejasi",
+                    "soliq tizimi"
+                ],
+                "Kazakh": [
+                    "салық бағдарламасы",
+                    "салық жоспары",
+                    "салық жүйесі"
+                ],
+                "Kyrgyz": [
+                    "салык программасы",
+                    "салык тутуму",
+                    "салык тартиби"
+                ],
+                "Karakalpak": [
+                    "salıq baǵdarlaması",
+                    "salıq jobası",
+                    "salıq rejesi"
+                ],
+                "Tatar": [
+                    "салым программасы",
+                    "салым планы",
+                    "салым низамы"
+                ],
+                "Bashkir": [
+                    "һалым программаһы",
+                    "һалым планы",
+                    "һалым нигеҙҙәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vergi programı",
+                    "vergi planı",
+                    "vergi düzenlemesi"
+                ],
+                "Azerbaijani": [
+                    "vergi proqramı",
+                    "vergi planı",
+                    "vergi layihəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باج پىلانى",
+                    "باج لايىھىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باج پروگراممىسى"
+                ]
+            }
+        }
+    ]
+}

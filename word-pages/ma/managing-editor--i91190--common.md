@@ -1,0 +1,141 @@
+# Managing editor
+| Field | Detail |
+|---|---|
+| **ID** | i91190 |
+| **English** | managing editor |
+| **Type** | noun |
+| **Definition** | the editor in charge of all editorial activities of a newspaper or magazine |
+| **Source** | common |
+| **Ortatil** | başmıharrir |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i91190",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "managing editor",
+    "en_definition": "the editor in charge of all editorial activities of a newspaper or magazine",
+    "tr_word": "yazı işleri müdürü",
+    "tr_definition": "bir gazete veya derginin tüm yazı işleri faaliyetlerinden sorumlu olan editör",
+    "ru_word": "ответственный редактор",
+    "ru_definition": "редактор, отвечающий за всю редакционную деятельность газеты или журнала",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başmuharrir"
+                ],
+                "Azerbaijani": [
+                    "baş redaktor"
+                ],
+                "Turkmen": [
+                    "baş redaktor"
+                ],
+                "Uzbek": [
+                    "bosh muharrir muovini"
+                ],
+                "Uyghur": [
+                    "باش مۇھەررىر"
+                ],
+                "Kazakh": [
+                    "бас редактордың орынбасары",
+                    "басқарушы редактор"
+                ],
+                "Kyrgyz": [
+                    "башкы редактор",
+                    "башкаруучу редактор"
+                ],
+                "Karakalpak": [
+                    "bas redaktor",
+                    "basqarıoshı redaktor"
+                ],
+                "Tatar": [
+                    "баш мөхәррир"
+                ],
+                "Bashkir": [
+                    "баш мөхәррир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jogapkär kätip",
+                    "jogapkär redaktor"
+                ],
+                "Kazakh": [
+                    "жауапты редактор"
+                ],
+                "Karakalpak": [
+                    "juoaplı xatker"
+                ],
+                "Tatar": [
+                    "җаваплы мөхәррир"
+                ],
+                "Bashkir": [
+                    "яуаплы мөхәррир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məsul redaktor"
+                ],
+                "Uzbek": [
+                    "mas'ul muharrir"
+                ],
+                "Uyghur": [
+                    "مەسئۇل مۇھەررىر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "idarəedici redaktor"
+                ],
+                "Kyrgyz": [
+                    "жооптуу редактор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazı işleri müdürü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "genel yayın yönetmeni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tahririyat mudiri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "идарәче мөхәррир"
+                ]
+            }
+        }
+    ]
+}
+```
+

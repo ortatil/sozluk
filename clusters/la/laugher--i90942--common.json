@@ -1,0 +1,115 @@
+{
+    "id": "i90942",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "laugher",
+    "en_definition": "a person who is laughing or who laughs easily",
+    "tr_word": "gülen kimse",
+    "tr_definition": "gülen veya kolayca gülen kişi",
+    "ru_word": "смеющийся",
+    "ru_definition": "человек, который смеется или который легко рассмешить",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kuluvchi"
+                ],
+                "Uyghur": [
+                    "كۈلكىچى"
+                ],
+                "Kazakh": [
+                    "күлкіші",
+                    "күлкішіл"
+                ],
+                "Kyrgyz": [
+                    "күлгөн киши"
+                ],
+                "Karakalpak": [
+                    "kúlkishi",
+                    "kúlip turıoshı",
+                    "kúlgen adam"
+                ],
+                "Tatar": [
+                    "көлкөче",
+                    "көлүче",
+                    "көлкесөяр"
+                ],
+                "Bashkir": [
+                    "көлөүсе",
+                    "көлкөсө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gülen",
+                    "güleryüzlü"
+                ],
+                "Azerbaijani": [
+                    "gülən",
+                    "güləyən",
+                    "gülərüz"
+                ],
+                "Turkmen": [
+                    "gülýän",
+                    "gülkiçi",
+                    "gülgen"
+                ],
+                "Uyghur": [
+                    "كۈلگۈچى"
+                ],
+                "Kazakh": [
+                    "күлуші"
+                ],
+                "Kyrgyz": [
+                    "күлкүчү",
+                    "күлүмсүрөгөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xushchaqchaq"
+                ],
+                "Uyghur": [
+                    "خۇشچاقچاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shodon"
+                ],
+                "Bashkir": [
+                    "шаян"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kahkahacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "handadon"
+                ]
+            }
+        }
+    ]
+}

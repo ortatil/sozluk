@@ -1,0 +1,133 @@
+# Drug bust
+| Field | Detail |
+|---|---|
+| **ID** | i35859 |
+| **English** | drug bust |
+| **Type** | noun |
+| **Definition** | seizure of illegal drugs by the police |
+| **Source** | common |
+| **Ortatil** | müsadara |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i35859",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "drug bust",
+    "en_definition": "seizure of illegal drugs by the police",
+    "tr_word": "uyuşturucu baskını",
+    "tr_definition": "polisin yasa dışı uyuşturuculara el koyması",
+    "ru_word": "облава на наркоторговцев",
+    "ru_definition": "изъятие полицией незаконных наркотиков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "narkotik baskını",
+                    "narkotik operasyonu"
+                ],
+                "Azerbaijani": [
+                    "narkotik əməliyyatı",
+                    "narkotik müsadirəsi",
+                    "narkotik tuthatutu"
+                ],
+                "Karakalpak": [
+                    "nárkes tárkileo",
+                    "nárkes tutıo",
+                    "nárkes qolǵa túsirio"
+                ],
+                "Tatar": [
+                    "наркотикларны тартып алу",
+                    "наркотикларны кулга төшерү",
+                    "наркотикларны мөсадәрә итү"
+                ],
+                "Bashkir": [
+                    "наркотиктарҙы тартып алыу",
+                    "наркотиктарҙы ҡулға алыу",
+                    "наркотиктарҙы мөсәҙәрә итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "neşekeşlik amalyýeti",
+                    "neşe tutulmasy",
+                    "neşe ele salynmasy"
+                ],
+                "Uyghur": [
+                    "نەشە تۇتۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uyuşturucu operasyonu",
+                    "uyuşturucu baskını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "musodara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qoʻlga olish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tintuv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "fosh etish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زەھەرلىك چېكىملىك مۇسادىرە قىلىش",
+                    "زەھەر تۇتۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есірткі тәркілеу",
+                    "есірткіні қолға түсіру",
+                    "есірткі құрықтау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "баңгизатты колго түшүрүү",
+                    "баңгизатты тартып алуу",
+                    "баңгизатты кармоо"
+                ]
+            }
+        }
+    ]
+}
+```
+

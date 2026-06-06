@@ -1,0 +1,123 @@
+{
+    "id": "i15257",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "economic",
+    "en_definition": "of or relating to an economy, the system of production and management of material wealth",
+    "tr_word": "ekonomik",
+    "tr_definition": "Ekonomiyle ilgili olan, üretim ve maddi zenginliğin yönetimi sistemine dair.",
+    "ru_word": "экономический",
+    "ru_definition": "Относящийся к экономике, системе производства и управления материальными благами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iktisadi"
+                ],
+                "Azerbaijani": [
+                    "iqtisadi"
+                ],
+                "Turkmen": [
+                    "ykdysady"
+                ],
+                "Uzbek": [
+                    "iqtisodiy"
+                ],
+                "Uyghur": [
+                    "ئىقتىسادىي"
+                ],
+                "Karakalpak": [
+                    "ıqtısadıy"
+                ],
+                "Tatar": [
+                    "икътисади"
+                ],
+                "Bashkir": [
+                    "иҡтиساди"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hojalyk"
+                ],
+                "Uzbek": [
+                    "xo'jalik"
+                ],
+                "Karakalpak": [
+                    "xojalıq"
+                ],
+                "Tatar": [
+                    "хуҗалык"
+                ],
+                "Bashkir": [
+                    "хужалыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekonomik"
+                ],
+                "Kazakh": [
+                    "экономикалық"
+                ],
+                "Kyrgyz": [
+                    "экономикалык"
+                ],
+                "Karakalpak": [
+                    "ekonomikalıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mali"
+                ],
+                "Turkmen": [
+                    "maly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шаруашылық"
+                ],
+                "Kyrgyz": [
+                    "чарбалык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үнемді"
+                ],
+                "Kyrgyz": [
+                    "үнөмдүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təsərrüfat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېجەشلىك"
+                ]
+            }
+        }
+    ]
+}

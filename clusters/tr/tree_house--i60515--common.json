@@ -1,0 +1,71 @@
+{
+    "id": "i60515",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tree house",
+    "en_definition": "a playhouse built in the branches of a tree",
+    "tr_word": "ağaç ev",
+    "tr_definition": "bir ağacın dalları arasına inşa edilmiş oyun evi",
+    "ru_word": "домик на дереве",
+    "ru_definition": "игровой домик, построенный в ветвях дерева",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağaç ev",
+                    "ağaç kulübe"
+                ],
+                "Azerbaijani": [
+                    "ağac evi",
+                    "ağacüstü ev",
+                    "ağacda ev"
+                ],
+                "Turkmen": [
+                    "agaç öýi",
+                    "agaçdaky öý"
+                ],
+                "Kazakh": [
+                    "ағаш үй",
+                    "ағаш үстіндегі үй",
+                    "ағаш басындағы үй"
+                ],
+                "Karakalpak": [
+                    "aǵash úyi"
+                ],
+                "Tatar": [
+                    "агач өе",
+                    "агачтагы өй",
+                    "агач өйчеге"
+                ],
+                "Bashkir": [
+                    "ағас өй",
+                    "ағас башындағы өй",
+                    "ағас өйө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "daraxt uy",
+                    "daraxtdagi uy",
+                    "daraxt uychasi"
+                ],
+                "Uyghur": [
+                    "دەرەخ ئۆي",
+                    "دەرەخ ئۈستىدىكى ئۆي"
+                ],
+                "Kyrgyz": [
+                    "дарак үй",
+                    "дарактагы үй",
+                    "дарак үстүндөгү үй"
+                ],
+                "Karakalpak": [
+                    "terek úyi"
+                ]
+            }
+        }
+    ]
+}

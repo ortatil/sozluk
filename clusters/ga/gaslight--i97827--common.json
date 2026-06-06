@@ -1,0 +1,73 @@
+{
+    "id": "i97827",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gaslight",
+    "en_definition": "light yielded by the combustion of illuminating gas",
+    "tr_word": "havagazı lambası",
+    "tr_definition": "aydınlatma gazının yanmasıyla elde edilen ışık",
+    "ru_word": "газовый свет",
+    "ru_definition": "свет, получаемый при сгорании осветительного газа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gaz lambası",
+                    "gaz ışığı"
+                ],
+                "Azerbaijani": [
+                    "qaz işığı",
+                    "qaz çırağı"
+                ],
+                "Turkmen": [
+                    "gaz çyrasy",
+                    "gaz yşygy"
+                ],
+                "Uzbek": [
+                    "gaz chirog'i",
+                    "gaz nuri",
+                    "gazli fonus"
+                ],
+                "Uyghur": [
+                    "گاز چىرىغى",
+                    "گاز نۇرى"
+                ],
+                "Kazakh": [
+                    "газ жарығы",
+                    "газ сәулесі"
+                ],
+                "Kyrgyz": [
+                    "газ жарыгы",
+                    "газ чырагы"
+                ],
+                "Karakalpak": [
+                    "gaz jarıǵı",
+                    "gaz shıraǵı"
+                ],
+                "Tatar": [
+                    "газ яктысы",
+                    "газ нуры"
+                ],
+                "Bashkir": [
+                    "газ яҡтылығы",
+                    "газ нуры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havagazı ışığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qaz nuru"
+                ]
+            }
+        }
+    ]
+}

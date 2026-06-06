@@ -1,0 +1,82 @@
+{
+    "id": "i47284",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bedbug",
+    "en_definition": "bug of temperate regions that infests especially beds and feeds on human blood",
+    "tr_word": "tahtakurusu",
+    "tr_definition": "Yataklarda yaşayan ve insan kanıyla beslenen, yarım kanatlılar takımından bir böcek.",
+    "ru_word": "клоп",
+    "ru_definition": "Мелкое кровососущее насекомое, паразитирующее в жилище человека.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gandala"
+                ],
+                "Uzbek": [
+                    "qandala"
+                ],
+                "Uyghur": [
+                    "قاندالا",
+                    "قاندىلا"
+                ],
+                "Kazakh": [
+                    "қандала"
+                ],
+                "Kyrgyz": [
+                    "кандала"
+                ],
+                "Karakalpak": [
+                    "qandala"
+                ],
+                "Tatar": [
+                    "кандала"
+                ],
+                "Bashkir": [
+                    "ҡандала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tahtakurusu",
+                    "tahtabiti"
+                ],
+                "Azerbaijani": [
+                    "taxtabit",
+                    "taxtabiti"
+                ],
+                "Turkmen": [
+                    "tagtabiti"
+                ],
+                "Uzbek": [
+                    "taxtabit"
+                ],
+                "Karakalpak": [
+                    "taqtay bit"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "төсек қандаласы"
+                ],
+                "Kyrgyz": [
+                    "төшөк кандаласы"
+                ],
+                "Tatar": [
+                    "төш кандаласы"
+                ],
+                "Bashkir": [
+                    "төнгө ҡандала"
+                ]
+            }
+        }
+    ]
+}

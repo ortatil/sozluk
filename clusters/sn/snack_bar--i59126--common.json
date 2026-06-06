@@ -1,0 +1,163 @@
+{
+    "id": "i59126",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snack bar",
+    "en_definition": "usually inexpensive bar",
+    "tr_word": "büfe",
+    "tr_definition": "genellikle ayaküstü yemek yenen, hafif yiyecekler ve içecekler satılan yer",
+    "ru_word": "закусочная",
+    "ru_definition": "небольшое предприятие общественного питания с ограниченным ассортиментом блюд несложного приготовления",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aşxana"
+                ],
+                "Turkmen": [
+                    "aşhana"
+                ],
+                "Uzbek": [
+                    "oshxona",
+                    "choyxona"
+                ],
+                "Uyghur": [
+                    "ئاشخانا"
+                ],
+                "Kazakh": [
+                    "асхана"
+                ],
+                "Kyrgyz": [
+                    "ашкана"
+                ],
+                "Karakalpak": [
+                    "asxana",
+                    "shayxana"
+                ],
+                "Tatar": [
+                    "ашханә"
+                ],
+                "Bashkir": [
+                    "ашхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tamaddixona"
+                ],
+                "Uyghur": [
+                    "تائامخانا"
+                ],
+                "Kazakh": [
+                    "дәмхана",
+                    "тамақтану орны"
+                ],
+                "Kyrgyz": [
+                    "тамактануучу жай"
+                ],
+                "Karakalpak": [
+                    "tamaqxana"
+                ],
+                "Tatar": [
+                    "тамак ялгау урыны"
+                ],
+                "Bashkir": [
+                    "тәм-томхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "büfe"
+                ],
+                "Azerbaijani": [
+                    "bufet"
+                ],
+                "Turkmen": [
+                    "büfet"
+                ],
+                "Uzbek": [
+                    "bufet"
+                ],
+                "Bashkir": [
+                    "буфет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "atıştırmalık"
+                ],
+                "Turkmen": [
+                    "atygulak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чайкана"
+                ],
+                "Tatar": [
+                    "чәйханә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayaküstü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kantin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəlyanaltıxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "naharhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېنىك تاماقخانا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тіскебасар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "каһвәханә"
+                ]
+            }
+        }
+    ]
+}

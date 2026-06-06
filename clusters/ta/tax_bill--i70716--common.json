@@ -1,0 +1,76 @@
+{
+    "id": "i70716",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tax bill",
+    "en_definition": "money owed for taxes",
+    "tr_word": "vergi borcu",
+    "tr_definition": "ödenmesi gereken vergi tutarı",
+    "ru_word": "налоговый счёт",
+    "ru_definition": "сумма денег, подлежащая уплате в качестве налогов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salgyt borjy",
+                    "salgyt bergisi",
+                    "salgyt tölegi"
+                ],
+                "Uzbek": [
+                    "soliq qarzi",
+                    "soliq toʻlovi",
+                    "soliq hisobi"
+                ],
+                "Kazakh": [
+                    "салық төлемі",
+                    "салық қарызы",
+                    "салық шоты"
+                ],
+                "Kyrgyz": [
+                    "салык карызы",
+                    "салык төлөмү",
+                    "салык милдеттенмеси"
+                ],
+                "Karakalpak": [
+                    "salıq qarızı",
+                    "salıq tólemi",
+                    "salıq borshı"
+                ],
+                "Tatar": [
+                    "салым бурычы",
+                    "салым хисабы",
+                    "салым түләве"
+                ],
+                "Bashkir": [
+                    "һалым бурысы",
+                    "һалым иҫәбе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vergi borcu",
+                    "vergi tahakkuku",
+                    "vergi pusulası",
+                    "vergi ihbarnamesi"
+                ],
+                "Azerbaijani": [
+                    "vergi borcu",
+                    "vergi hesabı",
+                    "vergi öhdəliyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باج تالونى",
+                    "باج ھۆججىتى",
+                    "باج قەرزى"
+                ]
+            }
+        }
+    ]
+}

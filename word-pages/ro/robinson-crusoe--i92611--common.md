@@ -1,0 +1,178 @@
+# Robinson crusoe
+| Field | Detail |
+|---|---|
+| **ID** | i92611 |
+| **English** | robinson crusoe |
+| **Type** | noun |
+| **Definition** | the hero of Daniel Defoe's novel about a shipwrecked English sailor who survives on a small tropical island |
+| **Source** | common |
+| **Ortatil** | robinzon |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| روبىنزون | robinzon |
+| **Tatar** | |
+| Робинзон | robinzon |
+| **Bashkir** | |
+| килмешәк | kilmeşäk |
+
+```json
+{
+    "id": "i92611",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "robinson crusoe",
+    "en_definition": "the hero of Daniel Defoe's novel about a shipwrecked English sailor who survives on a small tropical island",
+    "tr_word": "Robinson Crusoe",
+    "tr_definition": "Daniel Defoe'nun, ıssız bir adada mahsur kalan bir denizcinin hayatta kalma mücadelesini anlatan romanının başkahramanı.",
+    "ru_word": "Робинзон Крузо",
+    "ru_definition": "Главный герой романа Даниэля Дефо о моряке, который выжил после кораблекрушения на необитаемом тропическом острове.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Robinzon Kruzo"
+                ],
+                "Uzbek": [
+                    "Robinzon Kruzo"
+                ],
+                "Uyghur": [
+                    "روبىنزون كرۇزو",
+                    "روبىنزون"
+                ],
+                "Kazakh": [
+                    "Робинзон Крузо"
+                ],
+                "Kyrgyz": [
+                    "Робинзон Крузо"
+                ],
+                "Karakalpak": [
+                    "Robinzon Kruzo"
+                ],
+                "Tatar": [
+                    "Робинзон Крузо",
+                    "Робинзон"
+                ],
+                "Bashkir": [
+                    "Робинзон Крузо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kimsəsiz ada sakini"
+                ],
+                "Uzbek": [
+                    "kimsasiz orol asiri"
+                ],
+                "Kazakh": [
+                    "кеме апатына ұшыраған адам"
+                ],
+                "Kyrgyz": [
+                    "кемеси кыйраган адам"
+                ],
+                "Karakalpak": [
+                    "kemesi qiyraǵan adam"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ada sakini"
+                ],
+                "Turkmen": [
+                    "adada galan"
+                ],
+                "Kyrgyz": [
+                    "аралда калган киши"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yalnız adam"
+                ],
+                "Turkmen": [
+                    "ýalňyz ýaşaýjy"
+                ],
+                "Karakalpak": [
+                    "jalǵız araldaǵı adam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kazazede"
+                ],
+                "Azerbaijani": [
+                    "qəzaya uğramış dənizçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "münzevi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sergezdan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pany"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dengiz sayyohi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аралдағы жалғыз адам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "утрауҙағы кеше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "килмешәк"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,101 @@
+{
+    "id": "i70724",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "plane ticket",
+    "en_definition": "a ticket good for a trip on an airplane",
+    "tr_word": "uçak bileti",
+    "tr_definition": "bir uçak yolculuğu için geçerli olan bilet",
+    "ru_word": "авиабилет",
+    "ru_definition": "билет, дающий право на полет на самолете",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uçak bileti"
+                ],
+                "Azerbaijani": [
+                    "uçuş bileti"
+                ],
+                "Turkmen": [
+                    "uçar bileti"
+                ],
+                "Uzbek": [
+                    "uchoq chiptasi"
+                ],
+                "Kazakh": [
+                    "ұшақ билеті"
+                ],
+                "Kyrgyz": [
+                    "учак билети"
+                ],
+                "Karakalpak": [
+                    "ushaq bileti"
+                ],
+                "Tatar": [
+                    "очак билеты"
+                ],
+                "Bashkir": [
+                    "осош билеты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tayyare bileti"
+                ],
+                "Azerbaijani": [
+                    "təyyarə bileti"
+                ],
+                "Uzbek": [
+                    "tayyora chiptasi"
+                ],
+                "Karakalpak": [
+                    "tayyara bileti"
+                ],
+                "Tatar": [
+                    "тәйярә билеты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howa ýoly bileti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئايروپىلان بېلىتى",
+                    "ئايروپىلان بېلىت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуе билеті"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аба билети"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "самолёт билеты"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "id": "i116206",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "siding",
+    "en_definition": "material applied to the outside of a building to make it weatherproof",
+    "tr_word": "dış cephe kaplaması",
+    "tr_definition": "Bir binanın dış yüzeyine hava koşullarına karşı koruma sağlamak amacıyla uygulanan malzeme.",
+    "ru_word": "сайдинг",
+    "ru_definition": "материал для облицовки стен зданий, выполняющий защитную и эстетическую функции.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaplama"
+                ],
+                "Azerbaijani": [
+                    "qabıq"
+                ],
+                "Turkmen": [
+                    "gaplama"
+                ],
+                "Uzbek": [
+                    "qoplama",
+                    "qobiq"
+                ],
+                "Uyghur": [
+                    "قاپلىما"
+                ],
+                "Kazakh": [
+                    "қаптама",
+                    "қап"
+                ],
+                "Kyrgyz": [
+                    "каптоо",
+                    "каптама"
+                ],
+                "Karakalpak": [
+                    "qaptama",
+                    "qap"
+                ],
+                "Tatar": [
+                    "каплау",
+                    "каплама"
+                ],
+                "Bashkir": [
+                    "ҡаплау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dış cephe kaplaması"
+                ],
+                "Turkmen": [
+                    "daşky örtük",
+                    "daşky gaplama"
+                ],
+                "Uzbek": [
+                    "tashqi qoplama"
+                ],
+                "Uyghur": [
+                    "تاشقى تام قاپلىمىسى",
+                    "تاشقى يۈز قاپلىمىسى"
+                ],
+                "Kyrgyz": [
+                    "тышкы каптама"
+                ],
+                "Tatar": [
+                    "тышлау",
+                    "тышлык"
+                ],
+                "Bashkir": [
+                    "тышлау",
+                    "тышлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сыртқы қаптама"
+                ],
+                "Kyrgyz": [
+                    "сырткы каптама"
+                ],
+                "Karakalpak": [
+                    "sırtqı qaptama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzlük",
+                    "örtük"
+                ],
+                "Turkmen": [
+                    "örtük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "giydirme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yalıtım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fasad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pardoz"
+                ]
+            }
+        }
+    ]
+}

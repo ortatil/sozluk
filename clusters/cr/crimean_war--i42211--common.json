@@ -1,0 +1,73 @@
+{
+    "id": "i42211",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "crimean war",
+    "en_definition": "a war in Crimea between Russia and a group of nations including England and France and Turkey and Sardinia; 1853-1856",
+    "tr_word": "Kırım Savaşı",
+    "tr_definition": "1853-1856 yılları arasında Rusya ile Osmanlı İmparatorluğu, Birleşik Krallık, Fransa ve Sardinya Krallığı ittifakı arasında gerçekleşen savaş.",
+    "ru_word": "Крымская война",
+    "ru_definition": "Война между Российской империей и коалицией в составе Британской, Французской, Османской империй и Сардинского королевства в 1853–1856 годах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Kırım Savaşı",
+                    "Kırım Harbi",
+                    "Kırım Seferi"
+                ],
+                "Azerbaijani": [
+                    "Krım müharibəsi",
+                    "Krım hərbi"
+                ],
+                "Turkmen": [
+                    "Grym urşy",
+                    "Grym söweşi"
+                ],
+                "Uzbek": [
+                    "Qrim urushi",
+                    "Qrim muhorabasi"
+                ],
+                "Uyghur": [
+                    "قىرىم ئۇرۇشى",
+                    "قىرىم جېڭى"
+                ],
+                "Kazakh": [
+                    "Қырым соғысы"
+                ],
+                "Kyrgyz": [
+                    "Крым согушу",
+                    "Кырым согушу"
+                ],
+                "Karakalpak": [
+                    "Qırım urısı",
+                    "Qırım soǵısı"
+                ],
+                "Tatar": [
+                    "Кырым сугышы"
+                ],
+                "Bashkir": [
+                    "Ҡырым һуғышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Шәрекъ сугышы"
+                ],
+                "Bashkir": [
+                    "Шәрҡи һуғыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Шығыс соғысы"
+                ]
+            }
+        }
+    ]
+}

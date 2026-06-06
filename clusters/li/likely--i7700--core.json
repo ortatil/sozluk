@@ -1,0 +1,144 @@
+{
+    "id": "i7700",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "likely",
+    "en_definition": "has a good chance of being the case or of coming about",
+    "tr_word": "muhtemel",
+    "tr_definition": "olması veya gerçekleşmesi beklenen, olası",
+    "ru_word": "вероятный",
+    "ru_definition": "такой, который может произойти или оказаться правдой с большой долей возможности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mümkün"
+                ],
+                "Azerbaijani": [
+                    "mümkün"
+                ],
+                "Turkmen": [
+                    "mümkin"
+                ],
+                "Uzbek": [
+                    "mumkin"
+                ],
+                "Uyghur": [
+                    "مۇمكىن"
+                ],
+                "Kazakh": [
+                    "мүмкін"
+                ],
+                "Kyrgyz": [
+                    "мүмкүн"
+                ],
+                "Karakalpak": [
+                    "múmkіn"
+                ],
+                "Tatar": [
+                    "мөмкин"
+                ],
+                "Bashkir": [
+                    "мөмкин"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ehtimal"
+                ],
+                "Turkmen": [
+                    "ähtimal"
+                ],
+                "Uzbek": [
+                    "ehtimol"
+                ],
+                "Uyghur": [
+                    "ئېھتىمال"
+                ],
+                "Kazakh": [
+                    "ықтимал"
+                ],
+                "Kyrgyz": [
+                    "ыктымал"
+                ],
+                "Karakalpak": [
+                    "itimal",
+                    "ıqtimal"
+                ],
+                "Tatar": [
+                    "ихтимал"
+                ],
+                "Bashkir": [
+                    "ихтимал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kutilgan"
+                ],
+                "Tatar": [
+                    "көтелгән"
+                ],
+                "Bashkir": [
+                    "көтөлгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bolmagy ahmal"
+                ],
+                "Uyghur": [
+                    "بولغۇدەك"
+                ],
+                "Kyrgyz": [
+                    "болушунча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muhtemel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "olası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gözlənilən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gumonli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "лайықты"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "i78615",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sauerkraut",
+    "en_definition": "shredded cabbage fermented in brine",
+    "tr_word": "lahana turşusu",
+    "tr_definition": "tuzlu suda fermente edilmiş ince kıyılmış lahana",
+    "ru_word": "квашеная капуста",
+    "ru_definition": "мелко нарезанная капуста, ферментированная в рассоле",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "duzlanan kelem"
+                ],
+                "Uzbek": [
+                    "tuzlangan karam"
+                ],
+                "Uyghur": [
+                    "تۇزلانغان كاپۇستا",
+                    "تۇزلانغان يېسىۋىلەك"
+                ],
+                "Kazakh": [
+                    "тұздалған қырыққабат"
+                ],
+                "Kyrgyz": [
+                    "туздалган капуста"
+                ],
+                "Karakalpak": [
+                    "tұzdalǵan kapusta"
+                ],
+                "Tatar": [
+                    "тозланган кәбестә"
+                ],
+                "Bashkir": [
+                    "тоҙло кәбеҫтә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "achitilgan karam"
+                ],
+                "Kazakh": [
+                    "ашытылған қырыққабат"
+                ],
+                "Kyrgyz": [
+                    "ачытылган капуста",
+                    "ачыган капуста"
+                ],
+                "Tatar": [
+                    "ачытылган кәбестә"
+                ],
+                "Bashkir": [
+                    "әсетелгән кәбеҫтә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lahana turşusu",
+                    "kurutulmuş lahana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kələm turşusu",
+                    "şoraba kələm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "turşadylan kelem",
+                    "kelem turşusy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاچچىق كاپۇستا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ashıtılǵan kapusta"
+                ]
+            }
+        }
+    ]
+}

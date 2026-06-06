@@ -1,0 +1,104 @@
+{
+    "id": "i47227",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snowy tree cricket",
+    "en_definition": "pale yellowish tree cricket widely distributed in North America",
+    "tr_word": "kar ağacı cırcır böceği",
+    "tr_definition": "Kuzey Amerika'da yaygın olarak bulunan, soluk sarımsı renkli bir ağaç cırcır böceği türü.",
+    "ru_word": "снежный древесный сверчок",
+    "ru_definition": "бледно-желтоватый древесный сверчок, широко распространенный в Северной Америке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ağca cırcırama",
+                    "ağca çəyirtkə",
+                    "ağca cırcırov"
+                ],
+                "Turkmen": [
+                    "agaç çekirgesi"
+                ],
+                "Uzbek": [
+                    "oq chigirtka"
+                ],
+                "Uyghur": [
+                    "ئاق چىكىتكە"
+                ],
+                "Kazakh": [
+                    "ақшыл шегіртке",
+                    "ағаш шегірткесі"
+                ],
+                "Kyrgyz": [
+                    "ак чырылдак",
+                    "ак чегиртке"
+                ],
+                "Tatar": [
+                    "агач чикерткәсе",
+                    "агач чикерткә",
+                    "аксыл чикерткә"
+                ],
+                "Bashkir": [
+                    "ағас сиңерткәһе",
+                    "аҡ сиңерткә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "daraxt chigirtkasi"
+                ],
+                "Uyghur": [
+                    "دەرەخ چىكىتكىسى"
+                ],
+                "Kyrgyz": [
+                    "дарак чырылдагы"
+                ],
+                "Karakalpak": [
+                    "terek shegіrtkesі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çekirge"
+                ],
+                "Karakalpak": [
+                    "shegіrtke"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kar ağaç cırcırı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz ağaç cırcır böceği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soluk ağaç cırcırı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sarı shegіrtke"
+                ]
+            }
+        }
+    ]
+}

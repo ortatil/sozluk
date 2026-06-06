@@ -1,0 +1,121 @@
+{
+    "id": "i23359",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "fry",
+    "en_definition": "cook on a hot surface using fat",
+    "tr_word": "kızartmak",
+    "tr_definition": "yağ kullanarak sıcak bir yüzeyde pişirmek",
+    "ru_word": "жарить",
+    "ru_definition": "готовить на горячей поверхности с использованием жира",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızartmak",
+                    "kavurmak"
+                ],
+                "Azerbaijani": [
+                    "qızartmaq"
+                ],
+                "Turkmen": [
+                    "gyzdyrmak"
+                ],
+                "Uzbek": [
+                    "qovurmoq"
+                ],
+                "Tatar": [
+                    "кыздыру"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырыу",
+                    "ҡыҙырыу",
+                    "ҡыҙҙырып бешереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qovurmaq"
+                ],
+                "Turkmen": [
+                    "gowurmak"
+                ],
+                "Uyghur": [
+                    "قورۇماق"
+                ],
+                "Kyrgyz": [
+                    "кууруу"
+                ],
+                "Karakalpak": [
+                    "quırıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dağlamaq"
+                ],
+                "Turkmen": [
+                    "daglamak"
+                ],
+                "Uzbek": [
+                    "dogʻlamoq"
+                ],
+                "Uyghur": [
+                    "داغلىماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қуыру"
+                ],
+                "Karakalpak": [
+                    "quırıp pіsіrіu"
+                ],
+                "Tatar": [
+                    "куыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pishirmoq"
+                ],
+                "Kazakh": [
+                    "пісіру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sotelemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىريان قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бышыруу"
+                ]
+            }
+        }
+    ]
+}

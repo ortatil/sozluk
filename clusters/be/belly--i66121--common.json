@@ -1,0 +1,129 @@
+{
+    "id": "i66121",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stomach",
+    "en_definition": "the region of the body of a vertebrate between the thorax and the pelvis",
+    "tr_word": "karın",
+    "tr_definition": "Omurgalı bir canlının göğüs ile kalça arasındaki vücut bölgesi.",
+    "ru_word": "живот",
+    "ru_definition": "Область тела позвоночного животного между грудной клеткой и тазом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karın",
+                    "batın"
+                ],
+                "Azerbaijani": [
+                    "qarın"
+                ],
+                "Turkmen": [
+                    "garyn"
+                ],
+                "Uzbek": [
+                    "qorin"
+                ],
+                "Kazakh": [
+                    "қарын"
+                ],
+                "Kyrgyz": [
+                    "карын"
+                ],
+                "Karakalpak": [
+                    "qarın"
+                ],
+                "Tatar": [
+                    "карын"
+                ],
+                "Bashkir": [
+                    "ҡарын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kursak"
+                ],
+                "Uyghur": [
+                    "قورساق",
+                    "قورساق قىسمى"
+                ],
+                "Kazakh": [
+                    "құрсақ"
+                ],
+                "Kyrgyz": [
+                    "курсак"
+                ],
+                "Bashkir": [
+                    "ҡорһаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "іш"
+                ],
+                "Kyrgyz": [
+                    "ич"
+                ],
+                "Karakalpak": [
+                    "іsh"
+                ],
+                "Tatar": [
+                    "эч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məidə"
+                ],
+                "Uzbek": [
+                    "mi'da"
+                ],
+                "Uyghur": [
+                    "مەيدە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bətin"
+                ],
+                "Uzbek": [
+                    "batn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göbek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şatyr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәүел"
+                ]
+            }
+        }
+    ]
+}

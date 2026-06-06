@@ -1,0 +1,124 @@
+{
+    "id": "i55795",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "loft",
+    "en_definition": "floor consisting of open space at the top of a house just below roof; often used for storage",
+    "tr_word": "tavan arası",
+    "tr_definition": "Bir evin en üst katında, çatının hemen altında bulunan ve genellikle depolama için kullanılan açık alan.",
+    "ru_word": "чердак",
+    "ru_definition": "Пространство между потолком верхнего этажа и крышей дома, часто используемое для хранения вещей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çatı katı",
+                    "çatı arası"
+                ],
+                "Azerbaijani": [
+                    "çardaq"
+                ],
+                "Turkmen": [
+                    "çardak"
+                ],
+                "Uzbek": [
+                    "chordoq"
+                ],
+                "Kyrgyz": [
+                    "чатыр",
+                    "чердак"
+                ],
+                "Karakalpak": [
+                    "shatırqat"
+                ],
+                "Tatar": [
+                    "чарлак"
+                ],
+                "Bashkir": [
+                    "сарҙаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "boloxona"
+                ],
+                "Uyghur": [
+                    "بالىخانا"
+                ],
+                "Kazakh": [
+                    "баспана"
+                ],
+                "Kyrgyz": [
+                    "балкана"
+                ],
+                "Karakalpak": [
+                    "balaxana"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چاتما"
+                ],
+                "Kazakh": [
+                    "шатыр",
+                    "шатыр асты"
+                ],
+                "Karakalpak": [
+                    "shatır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tavan arası"
+                ],
+                "Azerbaijani": [
+                    "tavan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mansarda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "üçek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆگزە ئاستى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "түбә асты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "башы"
+                ]
+            }
+        }
+    ]
+}

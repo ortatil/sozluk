@@ -1,0 +1,92 @@
+{
+    "id": "i81019",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "travel agency",
+    "en_definition": "an agency that arranges personal travel",
+    "tr_word": "seyahat acentesi",
+    "tr_definition": "kişisel seyahat düzenlemeleri yapan kuruluş",
+    "ru_word": "туристическое агентство",
+    "ru_definition": "агентство, занимающееся организацией поездок для частных лиц",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seyahat acentesi"
+                ],
+                "Azerbaijani": [
+                    "səyahət agentliyi",
+                    "səyahət bürosu"
+                ],
+                "Turkmen": [
+                    "syýahatçylyk agentligi",
+                    "syýahat edarasy",
+                    "syýahat kärhanasy"
+                ],
+                "Uzbek": [
+                    "sayyohlik agentligi",
+                    "sayohat agentligi",
+                    "sayyohlik korxonasi"
+                ],
+                "Uyghur": [
+                    "ساياھەت ئاگېنتلىقى",
+                    "ساياھەت شىركىتى",
+                    "ساياھەت ئىدارىسى"
+                ],
+                "Kazakh": [
+                    "саяхат агенттігі",
+                    "саяхат мекемесі"
+                ],
+                "Kyrgyz": [
+                    "саякат агенттиги",
+                    "саякат мекемеси"
+                ],
+                "Karakalpak": [
+                    "sayaxat agentligi",
+                    "sayaxat mekemesi",
+                    "sayaxat byurosı"
+                ],
+                "Tatar": [
+                    "сәяхәт агентлыгы",
+                    "сәяхәтханә"
+                ],
+                "Bashkir": [
+                    "сәйәхәт агентлығы",
+                    "сәйәхәт бюроһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сапар орталығы"
+                ],
+                "Kyrgyz": [
+                    "сапар агенттиги"
+                ],
+                "Tatar": [
+                    "сәфәр агентлыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "turizm acentesi"
+                ],
+                "Azerbaijani": [
+                    "turizm agentliyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gezi yazhanesi"
+                ]
+            }
+        }
+    ]
+}

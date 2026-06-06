@@ -1,0 +1,74 @@
+{
+    "id": "i12492",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sleeveless",
+    "en_definition": "having no sleeves",
+    "tr_word": "kolsuz",
+    "tr_definition": "giysinin kollarının olmaması durumu",
+    "ru_word": "безрукавный",
+    "ru_definition": "не имеющий рукавов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýeňsiz",
+                    "ýeňi ýok"
+                ],
+                "Uzbek": [
+                    "yengsiz",
+                    "yengi yo'q"
+                ],
+                "Uyghur": [
+                    "يەڭسىز",
+                    "يەڭسىز كىيىم"
+                ],
+                "Kazakh": [
+                    "жеңсіз",
+                    "жеңі жоқ"
+                ],
+                "Kyrgyz": [
+                    "жеңсиз",
+                    "жеңи жок"
+                ],
+                "Karakalpak": [
+                    "jeńsiz",
+                    "jeńi joq"
+                ],
+                "Tatar": [
+                    "җиңсез",
+                    "җиңе булмаган"
+                ],
+                "Bashkir": [
+                    "еңһеҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kolsuz"
+                ],
+                "Azerbaijani": [
+                    "qolsuz",
+                    "qoluolmayan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıfır kol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡыҫҡа еңле"
+                ]
+            }
+        }
+    ]
+}

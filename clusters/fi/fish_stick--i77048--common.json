@@ -1,0 +1,74 @@
+{
+    "id": "i77048",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fish stick",
+    "en_definition": "a long fillet of fish breaded and fried",
+    "tr_word": "balık kroket",
+    "tr_definition": "pane edilip kızartılmış uzun balık filetosu parçası",
+    "ru_word": "рыбная палочка",
+    "ru_definition": "продолговатый кусочек рыбного филе в панировке, обжаренный во фритюре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balık çubuğu",
+                    "balık kroket"
+                ],
+                "Azerbaijani": [
+                    "balıq çubuğu",
+                    "balıq barmağı"
+                ],
+                "Turkmen": [
+                    "balyk taýajygy",
+                    "balyk kotleti"
+                ],
+                "Uzbek": [
+                    "baliq tayoqchasi",
+                    "baliq bo'lagi"
+                ],
+                "Uyghur": [
+                    "بېلىق تاياقچىسى",
+                    "بېلىق كۇتلىتى"
+                ],
+                "Kazakh": [
+                    "балық таяқшасы"
+                ],
+                "Kyrgyz": [
+                    "балык таякчасы",
+                    "балык кесими"
+                ],
+                "Karakalpak": [
+                    "balıq tayaqshası",
+                    "balıq kesegi"
+                ],
+                "Tatar": [
+                    "балык таякчыгы",
+                    "балык кисәге"
+                ],
+                "Bashkir": [
+                    "балыҡ таяҡсаһы",
+                    "балыҡ киҫәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pane balık"
+                ],
+                "Azerbaijani": [
+                    "paneli balıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қуырылған балық кесегі"
+                ]
+            }
+        }
+    ]
+}

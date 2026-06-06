@@ -1,0 +1,117 @@
+{
+    "id": "i38018",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "anagrams",
+    "en_definition": "a game whose object is to form words from a group of randomly chosen letters",
+    "tr_word": "anagram",
+    "tr_definition": "rastgele seçilen harf gruplarından kelimeler türetme esasına dayanan bir oyun",
+    "ru_word": "анаграммы",
+    "ru_definition": "игра, целью которой является составление слов из набора букв, выбранных случайным образом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "söz oyunu"
+                ],
+                "Turkmen": [
+                    "söz ýasama oýny"
+                ],
+                "Uzbek": [
+                    "so'z yasash o'yini",
+                    "so'z o'yini"
+                ],
+                "Uyghur": [
+                    "سۆز ياساش ئويۇنى"
+                ],
+                "Kazakh": [
+                    "сөзжұмбақ"
+                ],
+                "Kyrgyz": [
+                    "сөз курамай",
+                    "сөз жасоо оюну"
+                ],
+                "Karakalpak": [
+                    "sózjasam",
+                    "sóz oyını"
+                ],
+                "Tatar": [
+                    "сүз ясау уены"
+                ],
+                "Bashkir": [
+                    "һүҙ уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harf oyunu",
+                    "harf çevirmece"
+                ],
+                "Azerbaijani": [
+                    "hərf oyunu"
+                ],
+                "Turkmen": [
+                    "harp oýny"
+                ],
+                "Uzbek": [
+                    "harf o'yini"
+                ],
+                "Uyghur": [
+                    "ھەرپ ئويۇنى",
+                    "ھەرپ تىزىش ئويۇنى"
+                ],
+                "Tatar": [
+                    "хәреф уены"
+                ],
+                "Bashkir": [
+                    "хәреф уйыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kelime oyunu"
+                ],
+                "Azerbaijani": [
+                    "kəlmə oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әріп ойыны"
+                ],
+                "Karakalpak": [
+                    "árіp oyını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "anagramma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сөз құрау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тамга оюну"
+                ]
+            }
+        }
+    ]
+}

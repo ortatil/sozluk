@@ -1,0 +1,113 @@
+# Lightly armored
+| Field | Detail |
+|---|---|
+| **ID** | i779 |
+| **English** | lightly armored |
+| **Type** | adjective |
+| **Definition** | equipped with armor heavy enough to provide protection against fire from light arms |
+| **Source** | common |
+| **Ortatil** | qallı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| ҡалҡанлы | qalqanlı |
+
+```json
+{
+    "id": "i779",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "lightly armored",
+    "en_definition": "equipped with armor heavy enough to provide protection against fire from light arms",
+    "tr_word": "hafif zırhlı",
+    "tr_definition": "hafif silahlardan gelen ateşe karşı koruma sağlayacak kadar zırhla donatılmış",
+    "ru_word": "легкобронированный",
+    "ru_definition": "оснащенный броней, достаточной для защиты от огня из легкого стрелкового оружия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yüngül zirehli"
+                ],
+                "Turkmen": [
+                    "ýeňil sowutly",
+                    "ýeňil ýaraglandyrylan"
+                ],
+                "Uzbek": [
+                    "yengil zirhli",
+                    "yengil sovutli"
+                ],
+                "Uyghur": [
+                    "يېنىك ساۋۇتلانغان",
+                    "يېنىك ساۋۇتلۇق",
+                    "يېنىك قوراللانغان"
+                ],
+                "Kazakh": [
+                    "жеңіл сауытталған",
+                    "жеңіл сауытты"
+                ],
+                "Kyrgyz": [
+                    "жеңил сооттолгон",
+                    "жеңил куралданган"
+                ],
+                "Karakalpak": [
+                    "jeńil sauıtlanǵan",
+                    "jeńil qorǵalǵan"
+                ],
+                "Tatar": [
+                    "җиңелчә броньланган",
+                    "җиңелчә сакланган",
+                    "җиңелчә коралланган"
+                ],
+                "Bashkir": [
+                    "еңел бронялы",
+                    "еңел һаҡлаулы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hafif zırhlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ince zırhlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "az zirehli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жука сооттуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡалҡанлы"
+                ]
+            }
+        }
+    ]
+}
+```
+

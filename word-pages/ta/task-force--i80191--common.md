@@ -1,0 +1,222 @@
+# Task force
+| Field | Detail |
+|---|---|
+| **ID** | i80191 |
+| **English** | task force |
+| **Type** | noun |
+| **Definition** | a temporary military unit formed to accomplish a particular objective |
+| **Source** | common |
+| **Ortatil** | koşunmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| кошуун | koşuun |
+| кошуу | koşuu |
+| топ | top |
+| бөлүк | bölük |
+
+```json
+{
+    "id": "i80191",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "task force",
+    "en_definition": "a temporary military unit formed to accomplish a particular objective",
+    "tr_word": "görev gücü",
+    "tr_definition": "belirli bir hedefi gerçekleştirmek için oluşturulan geçici askeri birim",
+    "ru_word": "оперативная группа",
+    "ru_definition": "временное военное формирование, созданное для выполнения конкретной задачи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vəzifə qrupu"
+                ],
+                "Turkmen": [
+                    "wezipeli topar"
+                ],
+                "Uzbek": [
+                    "vazifador guruh"
+                ],
+                "Uyghur": [
+                    "ۋەزىپە گۇرۇپپىسى"
+                ],
+                "Karakalpak": [
+                    "wazıypalı top"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "maxsus guruh",
+                    "maxsus boʻlinma"
+                ],
+                "Uyghur": [
+                    "مەخسۇس ۋەزىپە ئۆمىكى",
+                    "مەخسۇس قوشۇن"
+                ],
+                "Tatar": [
+                    "махсус төркем",
+                    "махсус бүлек"
+                ],
+                "Bashkir": [
+                    "махсус төркөм",
+                    "махсус отряд"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арнайы топ",
+                    "арнайы жасақ"
+                ],
+                "Karakalpak": [
+                    "arnaolı top",
+                    "arnaolı bólim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жедел топ"
+                ],
+                "Karakalpak": [
+                    "jedel top"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәрби төркем"
+                ],
+                "Bashkir": [
+                    "хәрби төркөм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "вакытлы төркем"
+                ],
+                "Bashkir": [
+                    "ваҡытлы төркөм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "görev kuvveti",
+                    "görev birliği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özel birlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "harekat birliği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əməliyyat qrupu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xüsusi dəstə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müvəqqəti birləşmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýörite topar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çalt hereket edýän topar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iş topary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tezkor guruh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шұғыл топ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кошуун",
+                    "кошуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "топ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бөлүк"
+                ]
+            }
+        }
+    ]
+}
+```
+

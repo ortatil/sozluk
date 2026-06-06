@@ -1,0 +1,98 @@
+{
+    "id": "i112599",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "photophobia",
+    "en_definition": "a morbid fear of light",
+    "tr_word": "fotofobi",
+    "tr_definition": "ışığa karşı duyulan aşırı hassasiyet veya ışıktan korkma durumu",
+    "ru_word": "фотофобия",
+    "ru_definition": "болезненная чувствительность глаза к свету, вызывающая неприятные ощущения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nurdan gorkma"
+                ],
+                "Uzbek": [
+                    "nurdan qo'rqish"
+                ],
+                "Uyghur": [
+                    "نۇردىن قورقۇش"
+                ],
+                "Karakalpak": [
+                    "nurdan qorqınısh"
+                ],
+                "Tatar": [
+                    "нурдан курку"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýagtylykdan gorkma"
+                ],
+                "Karakalpak": [
+                    "jaqtılıqtan qorqınısh",
+                    "jaqtılıqtı jek kório"
+                ],
+                "Tatar": [
+                    "яктылыктан курку",
+                    "яктылык куркуы"
+                ],
+                "Bashkir": [
+                    "яҡтылыҡтан ҡурҡыу",
+                    "яҡтылыҡтан биҙеү",
+                    "яҡтылыҡҡа түҙмәүсәнлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yorug'likdan qo'rqish",
+                    "yorug'likka chidamsizlik"
+                ],
+                "Uyghur": [
+                    "يورۇقلۇقتىن قورقۇش",
+                    "يورۇقلۇقتىن بىزارلىق"
+                ],
+                "Kazakh": [
+                    "жарықтан қорқу",
+                    "жарыққа сезімталдық",
+                    "жарықсүймеушілік"
+                ],
+                "Kyrgyz": [
+                    "жарыктан коркуу",
+                    "жарык коркунучу",
+                    "жарыктан үркүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ışık korkusu",
+                    "ışık hassasiyeti",
+                    "ışığa duyarlılık"
+                ],
+                "Azerbaijani": [
+                    "işıq qorxusu",
+                    "işıqdan qorxma",
+                    "işıqsevmazlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fotofobi"
+                ]
+            }
+        }
+    ]
+}

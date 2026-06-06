@@ -1,0 +1,105 @@
+{
+    "id": "i13669",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "tubeless",
+    "en_definition": "of a tire; not needing an inner tube",
+    "tr_word": "dıştan lastikli",
+    "tr_definition": "iç lastiği olmayan, hava sızdırmaz jant üzerine doğrudan takılan lastik türü",
+    "ru_word": "бескамерный",
+    "ru_definition": "относящийся к шине, не требующей использования внутренней камеры",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kamerasız"
+                ],
+                "Turkmen": [
+                    "kamerasiz"
+                ],
+                "Uzbek": [
+                    "kamerasiz"
+                ],
+                "Uyghur": [
+                    "كامېرسىز"
+                ],
+                "Kazakh": [
+                    "камерасыз"
+                ],
+                "Kyrgyz": [
+                    "камерасыз"
+                ],
+                "Karakalpak": [
+                    "kamerasız"
+                ],
+                "Tatar": [
+                    "камерасыз"
+                ],
+                "Bashkir": [
+                    "камераһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "içsiz"
+                ],
+                "Azerbaijani": [
+                    "içsiz"
+                ],
+                "Turkmen": [
+                    "içliksiz"
+                ],
+                "Uzbek": [
+                    "ichaksiz"
+                ],
+                "Uyghur": [
+                    "ئىچكى تۇرۇبىسىز"
+                ],
+                "Kyrgyz": [
+                    "ички түтүксүз"
+                ],
+                "Tatar": [
+                    "эчке камерасыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dubless"
+                ],
+                "Uyghur": [
+                    "تۇبسىز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ishki tútikshesiz"
+                ],
+                "Bashkir": [
+                    "эске камераһыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şambrelsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түтіксіз"
+                ]
+            }
+        }
+    ]
+}

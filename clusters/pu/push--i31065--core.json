@@ -1,0 +1,142 @@
+{
+    "id": "i31065",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "push",
+    "en_definition": "move with force",
+    "tr_word": "itmek",
+    "tr_definition": "bir şeyi güç kullanarak ileriye veya uzağa doğru hareket ettirmek",
+    "ru_word": "толкать",
+    "ru_definition": "перемещать что-либо, прилагая силу в направлении от себя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "itmek",
+                    "ittirmek"
+                ],
+                "Azerbaijani": [
+                    "itələmək",
+                    "itələmək"
+                ],
+                "Turkmen": [
+                    "itermek",
+                    "itmek",
+                    "itermeklik"
+                ],
+                "Uzbek": [
+                    "itarmoq"
+                ],
+                "Uyghur": [
+                    "ئىتتىرمەك"
+                ],
+                "Kazakh": [
+                    "итеру"
+                ],
+                "Karakalpak": [
+                    "iterio",
+                    "itermeleo"
+                ],
+                "Tatar": [
+                    "этәргә",
+                    "этәргечләргә"
+                ],
+                "Bashkir": [
+                    "этәреү",
+                    "этәү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürmek"
+                ],
+                "Uzbek": [
+                    "surmoq"
+                ],
+                "Uyghur": [
+                    "سۈرمەك"
+                ],
+                "Kyrgyz": [
+                    "сүрүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "turtmoq"
+                ],
+                "Kyrgyz": [
+                    "түртүү",
+                    "түрткүлөө"
+                ],
+                "Tatar": [
+                    "төртергә"
+                ],
+                "Bashkir": [
+                    "төртөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوزغاتماق"
+                ],
+                "Kazakh": [
+                    "қозғау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жылжыту"
+                ],
+                "Karakalpak": [
+                    "jıljıtıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zorlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təkan vermək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sıxmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "siltamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "басу"
+                ]
+            }
+        }
+    ]
+}

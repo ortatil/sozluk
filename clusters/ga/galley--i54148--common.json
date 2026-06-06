@@ -1,0 +1,103 @@
+{
+    "id": "i54148",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "galley",
+    "en_definition": "the area for food preparation on a ship",
+    "tr_word": "kuzine",
+    "tr_definition": "Gemilerde yemek pişirilen yer, gemi mutfağı.",
+    "ru_word": "камбуз",
+    "ru_definition": "Кухня на судне или на корабле.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gemi mutfağı",
+                    "kamara"
+                ],
+                "Azerbaijani": [
+                    "gəmi mətbəxi"
+                ],
+                "Turkmen": [
+                    "gämidegi aşhana"
+                ],
+                "Uyghur": [
+                    "كېمە ئاشخانىسى",
+                    "كېمە مەتبىخى"
+                ],
+                "Kazakh": [
+                    "кеме асханасы"
+                ],
+                "Kyrgyz": [
+                    "кеме ашканасы"
+                ],
+                "Karakalpak": [
+                    "keme asxanası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aşxana"
+                ],
+                "Turkmen": [
+                    "aşhana"
+                ],
+                "Uzbek": [
+                    "oshxona"
+                ],
+                "Kazakh": [
+                    "асхана",
+                    "ас үй"
+                ],
+                "Kyrgyz": [
+                    "ашкана"
+                ],
+                "Karakalpak": [
+                    "asxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mutfak"
+                ],
+                "Tatar": [
+                    "матбах"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mətbəx"
+                ],
+                "Uzbek": [
+                    "matbax"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "карап ашханәсе"
+                ],
+                "Bashkir": [
+                    "карап ашханаһы",
+                    "карап аш бүлмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көймә ашханәсе"
+                ]
+            }
+        }
+    ]
+}

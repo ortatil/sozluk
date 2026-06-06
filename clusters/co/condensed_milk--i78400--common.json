@@ -1,0 +1,97 @@
+{
+    "id": "i78400",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "condensed milk",
+    "en_definition": "sweetened evaporated milk",
+    "tr_word": "yoğunlaştırılmış süt",
+    "tr_definition": "şeker eklenmiş ve suyu uçurulmuş koyu kıvamlı süt",
+    "ru_word": "сгущённое молоко",
+    "ru_definition": "концентрированное молоко с добавлением сахара",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yoğunlaştırılmış süt",
+                    "koyulaştırılmış süt"
+                ],
+                "Uzbek": [
+                    "quyuqlashtirilgan sut"
+                ],
+                "Uyghur": [
+                    "قويۇلدۇرۇلغان سۈت"
+                ],
+                "Kazakh": [
+                    "қоюлатылған сүт"
+                ],
+                "Kyrgyz": [
+                    "коюлтулган сүт"
+                ],
+                "Karakalpak": [
+                    "qoyulatılǵan sút"
+                ],
+                "Tatar": [
+                    "куертылган сөт",
+                    "куертылган татлы сөт"
+                ],
+                "Bashkir": [
+                    "ҡуйырытылған һөт",
+                    "ҡуйы һөт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تاتلىق سۈت"
+                ],
+                "Kazakh": [
+                    "тәтті сүт"
+                ],
+                "Kyrgyz": [
+                    "таттуу сүт"
+                ],
+                "Karakalpak": [
+                    "táttі sút"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şekerli süt"
+                ],
+                "Turkmen": [
+                    "şireli süýt"
+                ],
+                "Uzbek": [
+                    "shirin sut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qatılaşdırılmış süd"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şirin süd"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goýaldylan süýt"
+                ]
+            }
+        }
+    ]
+}

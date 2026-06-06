@@ -1,0 +1,72 @@
+{
+    "id": "i16278",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "millennial",
+    "en_definition": "relating to a millennium or span of a thousand years",
+    "tr_word": "binyıllık",
+    "tr_definition": "bin yıllık bir süreyle ilgili olan veya bin yıl süren",
+    "ru_word": "тысячелетний",
+    "ru_definition": "относящийся к периоду в тысячу лет или длящийся тысячу лет",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bin yıllık"
+                ],
+                "Uzbek": [
+                    "ming yillik",
+                    "ming yillikka oid"
+                ],
+                "Uyghur": [
+                    "مىڭ يىللىق",
+                    "مىڭ يىلغا ئائىت"
+                ],
+                "Kazakh": [
+                    "мыңжылдық",
+                    "мыңжылдыққа қатысты"
+                ],
+                "Kyrgyz": [
+                    "миң жылдык",
+                    "миң жылдыкка таандык"
+                ],
+                "Karakalpak": [
+                    "mıńjıllıq",
+                    "mıńjıllıqqa tiyisli"
+                ],
+                "Tatar": [
+                    "меңьеллык",
+                    "мең еллык"
+                ],
+                "Bashkir": [
+                    "мең йыллыҡ",
+                    "мең йыллы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "milenyum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "minillik",
+                    "minilliyə aid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "müňýyllyk",
+                    "müňýyllyga degişli"
+                ]
+            }
+        }
+    ]
+}

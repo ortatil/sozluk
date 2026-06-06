@@ -1,0 +1,92 @@
+{
+    "id": "i45234",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "calf",
+    "en_definition": "young of domestic cattle",
+    "tr_word": "buzağı",
+    "tr_definition": "evcil sığırın yavrusu",
+    "ru_word": "телёнок",
+    "ru_definition": "детёныш домашней коровы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buzağı"
+                ],
+                "Azerbaijani": [
+                    "buzov"
+                ],
+                "Turkmen": [
+                    "buzaw"
+                ],
+                "Uzbek": [
+                    "buzoq",
+                    "buzoqcha"
+                ],
+                "Kazakh": [
+                    "бұзау"
+                ],
+                "Karakalpak": [
+                    "buzau"
+                ],
+                "Tatar": [
+                    "бозау"
+                ],
+                "Bashkir": [
+                    "быҙау",
+                    "быҙауҡай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dana"
+                ],
+                "Azerbaijani": [
+                    "dana"
+                ],
+                "Karakalpak": [
+                    "tana"
+                ],
+                "Tatar": [
+                    "тана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "توزاق"
+                ],
+                "Kazakh": [
+                    "торпақ"
+                ],
+                "Kyrgyz": [
+                    "торпок"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "موزاي"
+                ],
+                "Kyrgyz": [
+                    "музоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "göle"
+                ]
+            }
+        }
+    ]
+}

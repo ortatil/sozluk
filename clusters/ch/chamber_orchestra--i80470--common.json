@@ -1,0 +1,98 @@
+{
+    "id": "i80470",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chamber orchestra",
+    "en_definition": "small orchestra; usually plays classical music",
+    "tr_word": "oda orkestrası",
+    "tr_definition": "Genellikle klasik müzik çalan, az sayıda müzisyenden oluşan küçük orkestra.",
+    "ru_word": "камерный оркестр",
+    "ru_definition": "Небольшой коллектив музыкантов, исполняющий преимущественно классическую музыку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kamera orkestri"
+                ],
+                "Turkmen": [
+                    "kamer orkestri"
+                ],
+                "Uzbek": [
+                    "kamer orkestri"
+                ],
+                "Uyghur": [
+                    "كامېرا ئوركېستىرى"
+                ],
+                "Kazakh": [
+                    "камералық оркестр"
+                ],
+                "Kyrgyz": [
+                    "камералык оркестр"
+                ],
+                "Karakalpak": [
+                    "kameralıq orkestr"
+                ],
+                "Tatar": [
+                    "камера оркестры"
+                ],
+                "Bashkir": [
+                    "камера оркестры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük orkestra"
+                ],
+                "Azerbaijani": [
+                    "kiçik orkestr"
+                ],
+                "Turkmen": [
+                    "kiçi orkestr"
+                ],
+                "Uzbek": [
+                    "kichik orkestr"
+                ],
+                "Kyrgyz": [
+                    "кичи оркестр"
+                ],
+                "Karakalpak": [
+                    "kishi orkestr"
+                ],
+                "Tatar": [
+                    "кече оркестр"
+                ],
+                "Bashkir": [
+                    "кесе оркестр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oda orkestrası"
+                ],
+                "Uyghur": [
+                    "كىچىك تىپتىكى ئوركېستىر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шағын оркестр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "saz toparı"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "id": "i117113",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fiscal year",
+    "en_definition": "any accounting period of 12 months",
+    "tr_word": "mali yıl",
+    "tr_definition": "12 aylık bir dönemi kapsayan muhasebe ve bütçe yılı.",
+    "ru_word": "финансовый год",
+    "ru_definition": "отчётный период продолжительностью 12 месяцев для составления годовой финансовой отчётности.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesap dönemi"
+                ],
+                "Azerbaijani": [
+                    "hesabat ili"
+                ],
+                "Turkmen": [
+                    "hasabat ýyly"
+                ],
+                "Uzbek": [
+                    "hisob yili"
+                ],
+                "Uyghur": [
+                    "ھېسابات يىلى"
+                ],
+                "Tatar": [
+                    "хисап елы"
+                ],
+                "Bashkir": [
+                    "хисап йылы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mali yıl"
+                ],
+                "Azerbaijani": [
+                    "maliyyə ili"
+                ],
+                "Turkmen": [
+                    "maliýe ýyly"
+                ],
+                "Uzbek": [
+                    "moliya yili"
+                ],
+                "Uyghur": [
+                    "مالىيە يىلى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bütçe yılı"
+                ],
+                "Azerbaijani": [
+                    "büdcə ili"
+                ],
+                "Kazakh": [
+                    "бюджет жылы"
+                ],
+                "Kyrgyz": [
+                    "бюджеттик жыл"
+                ],
+                "Karakalpak": [
+                    "byudjet jılı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қаржы жылы"
+                ],
+                "Kyrgyz": [
+                    "каржы жылы"
+                ],
+                "Karakalpak": [
+                    "qarjı jılı"
+                ],
+                "Tatar": [
+                    "казна елы"
+                ],
+                "Bashkir": [
+                    "ҡаҙна йылы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есепті жыл"
+                ],
+                "Kyrgyz": [
+                    "эсеп жылы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "финанс елы"
+                ],
+                "Bashkir": [
+                    "финанс йылы"
+                ]
+            }
+        }
+    ]
+}

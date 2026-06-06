@@ -1,0 +1,83 @@
+{
+    "id": "i115676",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "maple sugar",
+    "en_definition": "sugar made from the sap of the sugar maple tree",
+    "tr_word": "akçaağaç şekeri",
+    "tr_definition": "şeker akçaağacı ağacının özsuyundan elde edilen şeker",
+    "ru_word": "кленовый сахар",
+    "ru_definition": "сахар, полученный из сока сахарного клена",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akçaağaç şekeri"
+                ],
+                "Azerbaijani": [
+                    "ağcaqayın şəkəri",
+                    "ağcaqayın qəndi"
+                ],
+                "Turkmen": [
+                    "akgaýyň şekeri",
+                    "akgaýyň şiresi"
+                ],
+                "Kyrgyz": [
+                    "ак чечек канты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үйеңкі қанты",
+                    "үйеңкі шекері"
+                ],
+                "Karakalpak": [
+                    "úyeńkі shekerі",
+                    "úyeńkі qantı"
+                ],
+                "Tatar": [
+                    "өйәңке шикәре",
+                    "өйәңке канды"
+                ],
+                "Bashkir": [
+                    "өйәңке шәкәре",
+                    "өйәңке ҡанты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ispendam şekeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zarang shakari",
+                    "zarang qandi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېلەن شېكىرى",
+                    "كېلەن دەرىخى شېكىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ак чечектен алынган кант"
+                ]
+            }
+        }
+    ]
+}

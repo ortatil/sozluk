@@ -1,0 +1,238 @@
+# Heartily
+| Field | Detail |
+|---|---|
+| **ID** | i19652 |
+| **English** | heartily |
+| **Type** | adverb |
+| **Definition** | in a hearty manner |
+| **Source** | common |
+| **Ortatil** | ıhlas |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ıhlas** | **canıgönülden** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ❌ | ✅ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ❌ | ✅ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ❌ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.67 |
+| *Qarluq Subtotal* | 0 | 0.50 |
+| *Qipchaq Subtotal* | 0.60 | 0 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  |
+| **O'TQ** | **1.43** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ықыласпен | ıqılaspen |
+| мейірлене | meyirlene |
+| **Tatar** | |
+| ихлас | ixlas |
+| **Bashkir** | |
+| ихластан | ixlastan |
+| ихлас | ixlas |
+| күңелдән | küñeldän |
+
+```json
+{
+    "id": "i19652",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "heartily",
+    "en_definition": "in a hearty manner",
+    "tr_word": "içtenlikle",
+    "tr_definition": "samimi ve candan bir şekilde",
+    "ru_word": "от души",
+    "ru_definition": "искренне, сердечно, с полным усердием",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "canıgönülden",
+                    "candostane"
+                ],
+                "Azerbaijani": [
+                    "can-başla"
+                ],
+                "Turkmen": [
+                    "çyn ýürekden",
+                    "jany-dili bilen"
+                ],
+                "Uzbek": [
+                    "chin dildan",
+                    "jon-dildan"
+                ],
+                "Uyghur": [
+                    "چىن دىلىدىن",
+                    "جان-دىل بىلەن",
+                    "چىن يۈرەكتىن"
+                ],
+                "Kyrgyz": [
+                    "чын жүрөктөн",
+                    "чын дилден"
+                ],
+                "Karakalpak": [
+                    "janı ashıp"
+                ],
+                "Tatar": [
+                    "чын күңелдән",
+                    "җан-тән белән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "yhlasly"
+                ],
+                "Uzbek": [
+                    "ixlos bilan"
+                ],
+                "Kazakh": [
+                    "ықыласпен"
+                ],
+                "Tatar": [
+                    "ихлас",
+                    "ихласлык белән"
+                ],
+                "Bashkir": [
+                    "ихластан",
+                    "ихлас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "samimiyetle"
+                ],
+                "Azerbaijani": [
+                    "səmimiyyətlə"
+                ],
+                "Uzbek": [
+                    "samimiyat bilan"
+                ],
+                "Uyghur": [
+                    "سەمىمىيلىك بىلەن"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ak ýürekden"
+                ],
+                "Kazakh": [
+                    "ақ ниетпен",
+                    "ақ көңілмен"
+                ],
+                "Kyrgyz": [
+                    "ак дилден",
+                    "ыклас менен"
+                ],
+                "Karakalpak": [
+                    "ıqılas penen",
+                    "aq keuilden"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "könüldən"
+                ],
+                "Tatar": [
+                    "күңел биреп"
+                ],
+                "Bashkir": [
+                    "күңелдән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шын жүректен"
+                ],
+                "Karakalpak": [
+                    "shın júrekten",
+                    "shın keuilden"
+                ],
+                "Bashkir": [
+                    "ысын күңелдән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yürekten"
+                ],
+                "Azerbaijani": [
+                    "ürəkdən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sidq-i ürəkdən"
+                ],
+                "Uzbek": [
+                    "sidqidildan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "içtenlikle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "höwes bilen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قىزغىنلىق بىلەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мейірлене"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "берилүү менен"
+                ]
+            }
+        }
+    ]
+}
+```
+

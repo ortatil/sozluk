@@ -1,0 +1,90 @@
+{
+    "id": "i60670",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "twenty-two pistol",
+    "en_definition": "a .22-caliber pistol",
+    "tr_word": "yirmi ikilik tabanca",
+    "tr_definition": "0.22 kalibrelik mermi atan küçük çaplı bir tabanca türü",
+    "ru_word": "пистолет двадцать второго калибра",
+    "ru_definition": "пистолет калибра .22 (5,6 мм), обычно используемый для спортивной стрельбы или охоты на мелкую дичь",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yirmi ikilik tabanca",
+                    "yirmi iki kalibre tabanca"
+                ],
+                "Azerbaijani": [
+                    "iyirmi iki çaplı tapança"
+                ],
+                "Turkmen": [
+                    "ýigrimi iki kalibrli pistolet",
+                    "ýigrimi ikilik pistolet"
+                ],
+                "Uzbek": [
+                    "yigirma ikkinchi kalibrli to'pponcha"
+                ],
+                "Uyghur": [
+                    "يىگىرمە ئىككى كالىبىرلىق تاپانچا"
+                ],
+                "Kazakh": [
+                    "жиырма екі калибрлі тапанша"
+                ],
+                "Kyrgyz": [
+                    "жыйырма экинчи калибрдеги тапанча"
+                ],
+                "Tatar": [
+                    "егерме икеле пистолет"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kiçikçaplı tapança"
+                ],
+                "Turkmen": [
+                    "kiçi kalibrli pistolet"
+                ],
+                "Uzbek": [
+                    "kichik kalibrli to'pponcha"
+                ],
+                "Uyghur": [
+                    "كىچىك كالىبىرلىق تاپانچا"
+                ],
+                "Kazakh": [
+                    "кіші калибрлі тапанша"
+                ],
+                "Karakalpak": [
+                    "kishi kalibrli tapansha"
+                ],
+                "Tatar": [
+                    "кече калибрлы пистолет"
+                ],
+                "Bashkir": [
+                    "кесе калибрлы пистолет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "майда калибрлүү тапанча"
+                ],
+                "Karakalpak": [
+                    "mayda kalibrli tapansha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәй калибрлы пистолет"
+                ]
+            }
+        }
+    ]
+}

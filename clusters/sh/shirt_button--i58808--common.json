@@ -1,0 +1,82 @@
+{
+    "id": "i58808",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shirt button",
+    "en_definition": "a button on a shirt",
+    "tr_word": "gömlek düğmesi",
+    "tr_definition": "Bir gömleğin önünü veya kollarını iliklemek için kullanılan küçük düğme",
+    "ru_word": "пуговица рубашки",
+    "ru_definition": "небольшая застежка на рубашке, продеваемая в петлю",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düğme"
+                ],
+                "Azerbaijani": [
+                    "düymə"
+                ],
+                "Turkmen": [
+                    "düwme"
+                ],
+                "Uzbek": [
+                    "tugma",
+                    "tugmacha"
+                ],
+                "Uyghur": [
+                    "تۈگمە",
+                    "تۈگمىچە"
+                ],
+                "Kazakh": [
+                    "түйме",
+                    "түймешік"
+                ],
+                "Kyrgyz": [
+                    "түймө"
+                ],
+                "Karakalpak": [
+                    "túyme",
+                    "túymeshe"
+                ],
+                "Tatar": [
+                    "төймә",
+                    "төймәчек"
+                ],
+                "Bashkir": [
+                    "төймә",
+                    "төймәсә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gömlek düğmesi"
+                ],
+                "Azerbaijani": [
+                    "köynək düyməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ilik"
+                ],
+                "Turkmen": [
+                    "ilme",
+                    "iljek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "топчу"
+                ]
+            }
+        }
+    ]
+}

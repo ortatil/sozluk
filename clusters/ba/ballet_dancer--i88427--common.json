@@ -1,0 +1,106 @@
+{
+    "id": "i88427",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ballet dancer",
+    "en_definition": "a trained dancer who is a member of a ballet company",
+    "tr_word": "balerin / balet",
+    "tr_definition": "Bir bale topluluğunun üyesi olan, eğitimli dansçı.",
+    "ru_word": "артист балета / балерина",
+    "ru_definition": "Профессиональный танцовщик или танцовщица, выступающие в балетных спектаклях.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balerin",
+                    "balet"
+                ],
+                "Azerbaijani": [
+                    "balet rəqqası",
+                    "balet ustası"
+                ],
+                "Turkmen": [
+                    "balet tansçysy"
+                ],
+                "Uzbek": [
+                    "balet ustasi"
+                ],
+                "Uyghur": [
+                    "بالېت ئۇسسۇلچىسى",
+                    "بالېتچى",
+                    "بالېت ئۇسسۇل ماھىرى"
+                ],
+                "Kazakh": [
+                    "балет бишісі"
+                ],
+                "Kyrgyz": [
+                    "балет бийчиси"
+                ],
+                "Karakalpak": [
+                    "baletshi"
+                ],
+                "Tatar": [
+                    "балет биючесе"
+                ],
+                "Bashkir": [
+                    "балет бейеүсеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "биші"
+                ],
+                "Kyrgyz": [
+                    "бийчи"
+                ],
+                "Karakalpak": [
+                    "biyshi"
+                ],
+                "Tatar": [
+                    "биюче",
+                    "бию остасы"
+                ],
+                "Bashkir": [
+                    "бейеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "raksçı"
+                ],
+                "Azerbaijani": [
+                    "rəqqas"
+                ],
+                "Uzbek": [
+                    "raqqos",
+                    "raqqosa"
+                ],
+                "Bashkir": [
+                    "раҡҡас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oyuncu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tansçy",
+                    "tans ediji"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "id": "i57799",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "push-button radio",
+    "en_definition": "a radio receiver that can be tuned by pressing buttons",
+    "tr_word": "tuşlu radyo",
+    "tr_definition": "Düğmelere basılarak ayarlanan bir radyo alıcısı",
+    "ru_word": "кнопочный радиоприёмник",
+    "ru_definition": "радиоприемник, настройка которого осуществляется нажатием кнопок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düğmeli radyo"
+                ],
+                "Azerbaijani": [
+                    "düyməli radio",
+                    "düyməli qəbuledici",
+                    "düyməli radioqəbuledici"
+                ],
+                "Turkmen": [
+                    "düwmeli radio",
+                    "düwmeli radiopriýomnik"
+                ],
+                "Uzbek": [
+                    "tugmali radio",
+                    "tugmali radiopriyomnik"
+                ],
+                "Uyghur": [
+                    "تۈگمىلىك رادىئو"
+                ],
+                "Kazakh": [
+                    "түймелі радио"
+                ],
+                "Kyrgyz": [
+                    "түймөлүү үналгы"
+                ],
+                "Karakalpak": [
+                    "túymeli radio",
+                    "túymeli radioqabıllaǵısh"
+                ],
+                "Tatar": [
+                    "төймәле радио",
+                    "төймәле радиоалгыч"
+                ],
+                "Bashkir": [
+                    "төймәле радио",
+                    "төймәле радиоалғыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باسما تۈگمىلىك رادىئو"
+                ],
+                "Kyrgyz": [
+                    "баскычтуу үналгы",
+                    "баскычтуу радио"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tuşlu radyo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "батырмалы радиоқабылдағыш",
+                    "батырмалы радио"
+                ]
+            }
+        }
+    ]
+}

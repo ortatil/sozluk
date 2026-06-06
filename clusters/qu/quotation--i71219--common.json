@@ -1,0 +1,161 @@
+{
+    "id": "i71219",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "quotation",
+    "en_definition": "a passage or expression that is quoted or cited",
+    "tr_word": "alıntı",
+    "tr_definition": "Bir yazıdan veya konuşmadan olduğu gibi aktarılan parça",
+    "ru_word": "цитата",
+    "ru_definition": "Дословная выдержка из какого-либо текста или чьих-либо слов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iktibas",
+                    "aktarma"
+                ],
+                "Azerbaijani": [
+                    "iqtibas"
+                ],
+                "Uzbek": [
+                    "iqtibos"
+                ],
+                "Uyghur": [
+                    "ئىقتىباس"
+                ],
+                "Karakalpak": [
+                    "iqtibas"
+                ],
+                "Tatar": [
+                    "икътибас"
+                ],
+                "Bashkir": [
+                    "иҡтибас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəql"
+                ],
+                "Turkmen": [
+                    "nakyl"
+                ],
+                "Uyghur": [
+                    "نەقىل",
+                    "نەقىل كەلتۈرۈش"
+                ],
+                "Kyrgyz": [
+                    "накыл"
+                ],
+                "Karakalpak": [
+                    "násil"
+                ],
+                "Bashkir": [
+                    "нәҡел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sitat"
+                ],
+                "Turkmen": [
+                    "sitata"
+                ],
+                "Kazakh": [
+                    "цитата"
+                ],
+                "Kyrgyz": [
+                    "цитата"
+                ],
+                "Tatar": [
+                    "цитата"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үзінді"
+                ],
+                "Kyrgyz": [
+                    "үзүндү"
+                ],
+                "Tatar": [
+                    "өзек"
+                ],
+                "Bashkir": [
+                    "өҙөмтә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "söz"
+                ],
+                "Karakalpak": [
+                    "sóz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alıntı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "getirme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻchirma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "parcha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәйексөз",
+                    "дәйек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шилтеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dálil"
+                ]
+            }
+        }
+    ]
+}

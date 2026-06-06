@@ -1,0 +1,91 @@
+{
+    "id": "i117124",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "century",
+    "en_definition": "a period of 100 years",
+    "tr_word": "yüzyıl",
+    "tr_definition": "yüz yıllık bir zaman dilimi",
+    "ru_word": "век",
+    "ru_definition": "промежуток времени в сто лет",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüzyıl"
+                ],
+                "Azerbaijani": [
+                    "yüzillik"
+                ],
+                "Turkmen": [
+                    "ýüzýyllyk"
+                ],
+                "Uzbek": [
+                    "yuzillik"
+                ],
+                "Uyghur": [
+                    "يۈز يىل"
+                ],
+                "Kazakh": [
+                    "жүзжылдық"
+                ],
+                "Kyrgyz": [
+                    "жүз жылдык"
+                ],
+                "Karakalpak": [
+                    "júzjıllıq"
+                ],
+                "Tatar": [
+                    "йөзъеллык"
+                ],
+                "Bashkir": [
+                    "йөҙ йыллыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asır"
+                ],
+                "Azerbaijani": [
+                    "əsr"
+                ],
+                "Turkmen": [
+                    "asyr"
+                ],
+                "Uzbek": [
+                    "asr"
+                ],
+                "Uyghur": [
+                    "ئەسىر"
+                ],
+                "Kazakh": [
+                    "ғасыр"
+                ],
+                "Karakalpak": [
+                    "ásir"
+                ],
+                "Tatar": [
+                    "гасыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кылым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "быуат"
+                ]
+            }
+        }
+    ]
+}

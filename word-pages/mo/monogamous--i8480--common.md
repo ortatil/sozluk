@@ -1,0 +1,150 @@
+# Monogamous
+| Field | Detail |
+|---|---|
+| **ID** | i8480 |
+| **English** | monogamous |
+| **Type** | adjective |
+| **Definition** | (used of relationships and of individuals) having one mate |
+| **Source** | common |
+| **Ortatil** | wäfalı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| бірнекелі | birnekeli |
+| бірәйелді | biräyeldi |
+| біркүйеулі | birküyeuli |
+| адал | adal |
+
+```json
+{
+    "id": "i8480",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "monogamous",
+    "en_definition": "(used of relationships and of individuals) having one mate",
+    "tr_word": "tek eşli",
+    "tr_definition": "Aynı anda sadece bir kişiyle evli veya ilişkisi olan kişi veya ilişki türü.",
+    "ru_word": "моногамный",
+    "ru_definition": "Состоящий в браке или имеющий половую связь только с одним партнером.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bir nika bilen çäklenen",
+                    "bir aýally",
+                    "bir ärli"
+                ],
+                "Uzbek": [
+                    "bir nikohli"
+                ],
+                "Uyghur": [
+                    "بىر خوتۇنلۇق",
+                    "بىر ئەرلىك"
+                ],
+                "Kazakh": [
+                    "бірнекелі",
+                    "бірәйелді",
+                    "біркүйеулі"
+                ],
+                "Kyrgyz": [
+                    "бир никелүү",
+                    "бир аялдуу",
+                    "бир күйөөлүү"
+                ],
+                "Karakalpak": [
+                    "bir nekeli",
+                    "bir hayallı",
+                    "bir erli"
+                ],
+                "Tatar": [
+                    "бер хатынлы",
+                    "бер ирле",
+                    "бер никахлы"
+                ],
+                "Bashkir": [
+                    "бер никахлы",
+                    "бер ҡатынлы",
+                    "бер ирле",
+                    "бер ишле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tek eşli"
+                ],
+                "Azerbaijani": [
+                    "təkzövcəli",
+                    "təkarvadlı",
+                    "təkərli"
+                ],
+                "Uyghur": [
+                    "تەك نىكاھلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vəfalı"
+                ],
+                "Turkmen": [
+                    "wekaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "monogam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yakka nikohli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vafodor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sodiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "адал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жалгыз никелүү"
+                ]
+            }
+        }
+    ]
+}
+```
+

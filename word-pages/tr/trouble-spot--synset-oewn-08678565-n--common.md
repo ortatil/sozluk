@@ -1,0 +1,249 @@
+# Trouble spot
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-08678565-n |
+| **English** | trouble spot |
+| **Type** | noun |
+| **Definition** | a place where trouble exists or occurs regularly |
+| **Source** | common |
+| **Ortatil** | çatrıgım |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| очок | oçok |
+
+```json
+{
+    "id": "synset-oewn-08678565-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trouble spot",
+    "en_definition": "a place where trouble exists or occurs regularly",
+    "tr_word": "sorunlu bölge",
+    "tr_definition": "sorunların veya çatışmaların düzenli olarak ortaya çıktığı yer",
+    "ru_word": "горячая точка",
+    "ru_definition": "место, где регулярно возникают проблемы, беспорядки или конфликты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dertli yer"
+                ],
+                "Turkmen": [
+                    "dartgynly nokat"
+                ],
+                "Karakalpak": [
+                    "tártipsizlik oshaǵı"
+                ],
+                "Tatar": [
+                    "тәртипсезлек учагы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qaynar nöqtə"
+                ],
+                "Kyrgyz": [
+                    "кыйын аймак"
+                ],
+                "Bashkir": [
+                    "ғауғалы урын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karışık yer"
+                ],
+                "Azerbaijani": [
+                    "gərginlik ocağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tehlikeli nokta"
+                ],
+                "Azerbaijani": [
+                    "təhlükəli yer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çatrygym"
+                ],
+                "Uyghur": [
+                    "جېدەللىك جاي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xatarli hudud"
+                ],
+                "Uyghur": [
+                    "خەتەرلىك جاي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مەسىلىلىك نۇقتا"
+                ],
+                "Tatar": [
+                    "мәшәкатьле урын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қауіпті аймақ",
+                    "қауіпті орын"
+                ],
+                "Karakalpak": [
+                    "qáuipli orın",
+                    "qáuipli aymaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жанжал ошағы"
+                ],
+                "Kyrgyz": [
+                    "жаңжал очогу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "куркыныч урын"
+                ],
+                "Bashkir": [
+                    "ҡурҡыныс урын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sorunlu bölge"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıcak bölge"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "münaqişə zonası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howply nokat",
+                    "howply ýer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "notinch joy",
+                    "notinch hudud"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tashvishli nuqta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توقۇنۇش رايونى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шиеленіс ошағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кооптуу жер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "очок"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kelispewshilik oshaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "низаг учагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәүефле урын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тынғыһыҙ урын"
+                ]
+            }
+        }
+    ]
+}
+```
+

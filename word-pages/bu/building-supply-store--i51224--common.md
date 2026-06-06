@@ -1,0 +1,120 @@
+# Building supply store
+| Field | Detail |
+|---|---|
+| **ID** | i51224 |
+| **English** | building supply store |
+| **Type** | noun |
+| **Definition** | a store where builders can purchase materials for building houses and related structures |
+| **Source** | common |
+| **Ortatil** | nalbır |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i51224",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "building supply store",
+    "en_definition": "a store where builders can purchase materials for building houses and related structures",
+    "tr_word": "yapı market",
+    "tr_definition": "ev ve benzeri yapıların inşaatında kullanılan malzemelerin satıldığı mağaza",
+    "ru_word": "магазин строительных материалов",
+    "ru_definition": "магазин, в котором строители могут приобрести материалы для строительства домов и сопутствующих конструкций",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yapı market"
+                ],
+                "Azerbaijani": [
+                    "tikinti materialları mağazası"
+                ],
+                "Turkmen": [
+                    "gurluşyk materiallary dükany"
+                ],
+                "Kazakh": [
+                    "құрылыс материалдары дүкені"
+                ],
+                "Kyrgyz": [
+                    "курулуш материалдар дүкөнү",
+                    "курулуш базары"
+                ],
+                "Karakalpak": [
+                    "qurılıs materialları dúkanı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gurluşyk harytlary dükany",
+                    "gurluşyk dükany"
+                ],
+                "Uzbek": [
+                    "qurilish mollari do'koni",
+                    "qurilish ashyolari do'koni",
+                    "qurilish materiallari do'koni"
+                ],
+                "Uyghur": [
+                    "قۇرۇلۇش ماتېرىياللىرى دۇكىنى",
+                    "قۇرۇلۇش ئەشيالىرى دۇكىنى",
+                    "قۇرۇلۇش بويۇملىرى دۇكىنى"
+                ],
+                "Kazakh": [
+                    "құрылыс дүкені",
+                    "құрылыс базары"
+                ],
+                "Kyrgyz": [
+                    "курулуш дүкөнү"
+                ],
+                "Karakalpak": [
+                    "qurılıs dúkanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "inşaat malzemeleri satıcısı"
+                ],
+                "Azerbaijani": [
+                    "inşaat materialları mağazası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төзелеш кибете",
+                    "төзелеш материаллары кибете",
+                    "төзелеш товарлары кибете"
+                ],
+                "Bashkir": [
+                    "төҙөлөш кәрәк-яраҡтары магазины",
+                    "төҙөлөш материалдары магазины"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nalbur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hırdavatçı"
+                ]
+            }
+        }
+    ]
+}
+```
+

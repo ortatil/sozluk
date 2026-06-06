@@ -1,0 +1,107 @@
+{
+    "id": "i91685",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rower",
+    "en_definition": "someone who rows a boat",
+    "tr_word": "kürekçi",
+    "tr_definition": "tekne veya botu kürek çekerek ilerleten kimse",
+    "ru_word": "гребец",
+    "ru_definition": "человек, который занимается греблей или управляет лодкой с помощью весел",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýykçy"
+                ],
+                "Uzbek": [
+                    "qayiqchi"
+                ],
+                "Kazakh": [
+                    "қайықшы"
+                ],
+                "Kyrgyz": [
+                    "кайыкчы"
+                ],
+                "Karakalpak": [
+                    "qayıqshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eshkakchi"
+                ],
+                "Kazakh": [
+                    "ескекші"
+                ],
+                "Karakalpak": [
+                    "eskekshi"
+                ],
+                "Tatar": [
+                    "ишкәкче"
+                ],
+                "Bashkir": [
+                    "ишкәксе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kürekçi"
+                ],
+                "Turkmen": [
+                    "kürekçi"
+                ],
+                "Uyghur": [
+                    "كېمە كەش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېمىچى",
+                    "كېمە ھەيدىگۈچى"
+                ],
+                "Bashkir": [
+                    "кәмәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hamlacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "avarçəkən",
+                    "avarçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эшүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көймәче"
+                ]
+            }
+        }
+    ]
+}

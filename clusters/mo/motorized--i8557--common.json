@@ -1,0 +1,111 @@
+{
+    "id": "i8557",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "motorized",
+    "en_definition": "equipped with a motor or motors",
+    "tr_word": "motorlu",
+    "tr_definition": "bir motor veya motorlarla donatılmış olan",
+    "ru_word": "моторизованный",
+    "ru_definition": "оснащенный двигателем или двигателями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "motorlu",
+                    "motorize"
+                ],
+                "Azerbaijani": [
+                    "motorlu"
+                ],
+                "Turkmen": [
+                    "motorly"
+                ],
+                "Uzbek": [
+                    "motorli"
+                ],
+                "Uyghur": [
+                    "موتورلۇق",
+                    "موتورلاشتۇرۇلغان"
+                ],
+                "Kazakh": [
+                    "моторлы"
+                ],
+                "Kyrgyz": [
+                    "моторлуу"
+                ],
+                "Karakalpak": [
+                    "motorlı"
+                ],
+                "Tatar": [
+                    "моторлы"
+                ],
+                "Bashkir": [
+                    "моторлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mühərrikli"
+                ],
+                "Uzbek": [
+                    "muharrikli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hereketlendirijili"
+                ],
+                "Tatar": [
+                    "хәрәкәтле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dvigatelli"
+                ],
+                "Bashkir": [
+                    "двигателле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қозғалтқышты"
+                ],
+                "Karakalpak": [
+                    "qozǵaltqıshlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлікті"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыймылдаткычтуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "куәтле"
+                ]
+            }
+        }
+    ]
+}

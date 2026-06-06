@@ -1,0 +1,236 @@
+# Cross examine
+| Field | Detail |
+|---|---|
+| **ID** | i25617 |
+| **English** | cross examine |
+| **Type** | verb |
+| **Definition** | question closely, or question a witness that has already been questioned by the opposing side |
+| **Source** | common |
+| **Ortatil** | ḍergemäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍergemäk** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.43** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| тергеу | tergeu |
+| **Kyrgyz** | |
+| тергөө | tergöö |
+| беттештирүү | betteştirüü |
+| **Tatar** | |
+| сораштыру | soraştıru |
+| тикшерү | tikşerü |
+| **Bashkir** | |
+| тикшереү | tikşereü |
+
+```json
+{
+    "id": "i25617",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "cross examine",
+    "en_definition": "question closely, or question a witness that has already been questioned by the opposing side",
+    "tr_word": "çapraz sorguya çekmek",
+    "tr_definition": "Bir tanığı veya kişiyi, özellikle karşı tarafın sorgusundan sonra, ifadesindeki tutarsızlıkları ortaya çıkarmak amacıyla ayrıntılı bir şekilde sorgulamak.",
+    "ru_word": "подвергать перекрестному допросу",
+    "ru_definition": "Допрашивать свидетеля, уже давшего показания противной стороне, с целью проверки их достоверности или уточнения деталей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sorguya çekmek"
+                ],
+                "Turkmen": [
+                    "soraga çekmek"
+                ],
+                "Uzbek": [
+                    "soʻroq qilmoq"
+                ],
+                "Kazakh": [
+                    "сұраққа алу"
+                ],
+                "Kyrgyz": [
+                    "суракка алуу"
+                ],
+                "Karakalpak": [
+                    "sorastırıo",
+                    "sorao-juoapqa tartıo"
+                ],
+                "Tatar": [
+                    "сораштыру",
+                    "сорау алу"
+                ],
+                "Bashkir": [
+                    "һорау алыу",
+                    "һорауға тартыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan soramak"
+                ],
+                "Uzbek": [
+                    "qayta soʻramoq"
+                ],
+                "Uyghur": [
+                    "قايتا سوراق قىلماق"
+                ],
+                "Kazakh": [
+                    "қайта сұрау"
+                ],
+                "Kyrgyz": [
+                    "кайра суроо"
+                ],
+                "Karakalpak": [
+                    "qayta sorao"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "derňemek"
+                ],
+                "Kazakh": [
+                    "тергеу"
+                ],
+                "Kyrgyz": [
+                    "тергөө"
+                ],
+                "Karakalpak": [
+                    "tergeo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "istintak etmek"
+                ],
+                "Azerbaijani": [
+                    "istintaq etmək"
+                ],
+                "Uzbek": [
+                    "istintoq qilmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çatryklayyn soramak"
+                ],
+                "Uyghur": [
+                    "تەپسىلىي سوراق قىلماق"
+                ],
+                "Tatar": [
+                    "тәфсилләп сорау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تەكرار سوراق قىلماق"
+                ],
+                "Tatar": [
+                    "тикшерү"
+                ],
+                "Bashkir": [
+                    "тикшереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çapraz sorgulamak"
+                ],
+                "Azerbaijani": [
+                    "çarpaz sual vermək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıkıştırmak"
+                ],
+                "Uzbek": [
+                    "savol-javob qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzləşdirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sual-cavab etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىچكىرىلەپ سوراق قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айқас сұрақ қою"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "беттештирүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәфтиш итеү"
+                ]
+            }
+        }
+    ]
+}
+```
+

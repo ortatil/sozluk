@@ -1,0 +1,121 @@
+{
+    "id": "i112246",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sick headache",
+    "en_definition": "a headache accompanied by nausea",
+    "tr_word": "safra kesesi ağrısı ile birlikte gelen şiddetli baş ağrısı",
+    "tr_definition": "mide bulantısının eşlik ettiği şiddetli baş ağrısı; migren",
+    "ru_word": "мигрень",
+    "ru_definition": "сильная головная боль, сопровождающаяся тошнотой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "migren"
+                ],
+                "Azerbaijani": [
+                    "miqren"
+                ],
+                "Turkmen": [
+                    "migren"
+                ],
+                "Uzbek": [
+                    "migren"
+                ],
+                "Uyghur": [
+                    "مىگرېن"
+                ],
+                "Karakalpak": [
+                    "migren"
+                ],
+                "Tatar": [
+                    "мигрень"
+                ],
+                "Bashkir": [
+                    "мигрень"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "başagyry"
+                ],
+                "Uyghur": [
+                    "باش ئاغرىقى"
+                ],
+                "Kazakh": [
+                    "бас сақинасы",
+                    "бас ауруы"
+                ],
+                "Kyrgyz": [
+                    "баш оору",
+                    "баш айлануу"
+                ],
+                "Karakalpak": [
+                    "bas aoırıo",
+                    "bas saqiy"
+                ],
+                "Tatar": [
+                    "баш авырту",
+                    "баш сызлау"
+                ],
+                "Bashkir": [
+                    "баш ауырыуы",
+                    "баш һыҙлауы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarım baş ağrısı"
+                ],
+                "Azerbaijani": [
+                    "yarımbaş ağrısı"
+                ],
+                "Turkmen": [
+                    "ýarymbaş"
+                ],
+                "Uzbek": [
+                    "yarim bosh ogʻrigʻi"
+                ],
+                "Uyghur": [
+                    "يېرىم باش ئاغرىقى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şakika"
+                ],
+                "Kazakh": [
+                    "сақина"
+                ],
+                "Kyrgyz": [
+                    "шакый"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şiddətli baş ağrısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dard"
+                ]
+            }
+        }
+    ]
+}

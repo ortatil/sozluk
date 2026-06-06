@@ -1,0 +1,128 @@
+{
+    "id": "i81918",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "disaster area",
+    "en_definition": "a region whose population is affected by a general disaster",
+    "tr_word": "afet bölgesi",
+    "tr_definition": "genel bir felaketten etkilenen nüfusun bulunduğu bölge",
+    "ru_word": "зона бедствия",
+    "ru_definition": "регион, население которого пострадало от масштабной катастрофы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "afet bölgesi"
+                ],
+                "Azerbaijani": [
+                    "afət bölgəsi"
+                ],
+                "Uzbek": [
+                    "ofat hududi",
+                    "ofat zonasi"
+                ],
+                "Uyghur": [
+                    "ئاپەت رايونى"
+                ],
+                "Kazakh": [
+                    "апат аймағы",
+                    "апатты өңір",
+                    "апат болған жер"
+                ],
+                "Kyrgyz": [
+                    "апаат болгон жер"
+                ],
+                "Karakalpak": [
+                    "apat aymaǵı",
+                    "apatlı aymaq",
+                    "apat bolǵan jer"
+                ],
+                "Tatar": [
+                    "афәт зонасы"
+                ],
+                "Bashkir": [
+                    "афәт зонаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "felaket bölgesi"
+                ],
+                "Azerbaijani": [
+                    "fəlakət bölgəsi",
+                    "fəlakət zonası"
+                ],
+                "Uzbek": [
+                    "falokat hududi",
+                    "talofat ko'rgan hudud"
+                ],
+                "Uyghur": [
+                    "بالايىئاپەت رايونى"
+                ],
+                "Tatar": [
+                    "фәлкәт зонасы",
+                    "бәла-каза төбәге"
+                ],
+                "Bashkir": [
+                    "бәлә-ҡаза төбәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "betbagtçylyk zolagy",
+                    "betbagtçylyk meýdany"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "heläkçilik zolagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pajyga meýdany"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇسىبەت رايونى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зобалаң аймағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кырсык болгон аймак",
+                    "кырсыктуу аймак",
+                    "кырсыкка учураган аймак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәхетһеҙлек урыны"
+                ]
+            }
+        }
+    ]
+}

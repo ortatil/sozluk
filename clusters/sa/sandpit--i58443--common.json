@@ -1,0 +1,77 @@
+{
+    "id": "i58443",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sandpit",
+    "en_definition": "a plaything consisting of a pile of sand or a box filled with sand for children to play in",
+    "tr_word": "kum havuzu",
+    "tr_definition": "çocukların oynaması için kumla doldurulmuş kutu veya alan",
+    "ru_word": "песочница",
+    "ru_definition": "специальное место или ящик с песком, предназначенный для игр детей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kum havuzu",
+                    "kum alanı",
+                    "kum parkı"
+                ],
+                "Azerbaijani": [
+                    "qumluq",
+                    "qum meydançası",
+                    "qum qutusu"
+                ],
+                "Uzbek": [
+                    "qumloq",
+                    "qumloq joy"
+                ],
+                "Uyghur": [
+                    "قۇم دان",
+                    "قۇملۇق",
+                    "قۇم ساندۇقى"
+                ],
+                "Kazakh": [
+                    "құмсалғыш",
+                    "құм алаңы",
+                    "құм жәшігі"
+                ],
+                "Kyrgyz": [
+                    "кумдук",
+                    "кум аянтчасы",
+                    "кум секи"
+                ],
+                "Karakalpak": [
+                    "qumlaq",
+                    "qum alańshası",
+                    "qumxana"
+                ],
+                "Tatar": [
+                    "комлык",
+                    "ком бакчасы",
+                    "ком ящигы"
+                ],
+                "Bashkir": [
+                    "ҡомлоҡ",
+                    "ҡом майҙансығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çägelik",
+                    "çäge meýdançasy",
+                    "çäge gutusy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qum maydonchasi"
+                ]
+            }
+        }
+    ]
+}

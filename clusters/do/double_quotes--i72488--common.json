@@ -1,0 +1,99 @@
+{
+    "id": "i72488",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "double quotes",
+    "en_definition": "a pair of quotation marks",
+    "tr_word": "çift tırnak",
+    "tr_definition": "bir metnin başlangıcını ve sonunu belirtmek için kullanılan bir çift tırnak işareti",
+    "ru_word": "двойные кавычки",
+    "ru_definition": "парный знак препинания, используемый для выделения прямой речи или цитат",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tırnak işareti"
+                ],
+                "Azerbaijani": [
+                    "dırnaq",
+                    "dırnaq işarəsi"
+                ],
+                "Turkmen": [
+                    "dyrnak"
+                ],
+                "Uzbek": [
+                    "tirnoq"
+                ],
+                "Kazakh": [
+                    "тырнақша"
+                ],
+                "Kyrgyz": [
+                    "тырмакча"
+                ],
+                "Karakalpak": [
+                    "tırnaqsha"
+                ],
+                "Tatar": [
+                    "тырнаклар"
+                ],
+                "Bashkir": [
+                    "тырнаҡ",
+                    "тырнаҡтар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşa dyrnak"
+                ],
+                "Uzbek": [
+                    "qoʻshtirnoq"
+                ],
+                "Uyghur": [
+                    "قوش تىرناق",
+                    "قوش پەش"
+                ],
+                "Kazakh": [
+                    "қос тырнақша"
+                ],
+                "Kyrgyz": [
+                    "кош тырмакча"
+                ],
+                "Karakalpak": [
+                    "qos tırnaqsha"
+                ],
+                "Tatar": [
+                    "куштырнаклар"
+                ],
+                "Bashkir": [
+                    "ҡуш тырнаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift tırnak",
+                    "çift tırnak işareti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cüt dırnaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sitata belgisi"
+                ]
+            }
+        }
+    ]
+}

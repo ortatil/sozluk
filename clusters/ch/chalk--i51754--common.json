@@ -1,0 +1,91 @@
+{
+    "id": "i51754",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chalk",
+    "en_definition": "a piece of calcite or a similar substance, usually in the shape of a crayon, that is used to write or draw on blackboards or other flat surfaces",
+    "tr_word": "tebeşir",
+    "tr_definition": "kara tahta veya diğer yüzeylere yazı yazmak için kullanılan, kalsit veya benzeri maddelerden yapılmış beyaz veya renkli çubuk.",
+    "ru_word": "мел",
+    "ru_definition": "мягкий белый известняк или искусственное вещество в виде палочек, используемое для письма и рисования на досках или других поверхностях.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aktaş"
+                ],
+                "Uzbek": [
+                    "oqtosh"
+                ],
+                "Kazakh": [
+                    "ақ бор"
+                ],
+                "Kyrgyz": [
+                    "актөш"
+                ],
+                "Karakalpak": [
+                    "aq bor"
+                ],
+                "Tatar": [
+                    "акбур"
+                ],
+                "Bashkir": [
+                    "аҡбур"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bo'r"
+                ],
+                "Uyghur": [
+                    "بور",
+                    "بور تاش"
+                ],
+                "Kazakh": [
+                    "бор"
+                ],
+                "Kyrgyz": [
+                    "бор"
+                ],
+                "Karakalpak": [
+                    "bor"
+                ],
+                "Tatar": [
+                    "бур"
+                ],
+                "Bashkir": [
+                    "бур"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tebeşir"
+                ],
+                "Azerbaijani": [
+                    "təbaşir",
+                    "təbaşir qələmi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hek"
+                ]
+            }
+        }
+    ]
+}

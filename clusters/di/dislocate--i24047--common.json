@@ -1,0 +1,157 @@
+{
+    "id": "i24047",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "dislocate",
+    "en_definition": "move out of position",
+    "tr_word": "çıkarmak",
+    "tr_definition": "bir kemiği eklem yerinden oynatmak veya yerinden çıkarmak",
+    "ru_word": "вывихнуть",
+    "ru_definition": "сместить кость из её нормального положения в суставе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıkarmak",
+                    "çıkık yapmak"
+                ],
+                "Azerbaijani": [
+                    "çıxarmaq"
+                ],
+                "Turkmen": [
+                    "çykarmak"
+                ],
+                "Uzbek": [
+                    "chiqarmoq"
+                ],
+                "Uyghur": [
+                    "چىقىرىۋەتمەك",
+                    "چىقىپ كەتمەك"
+                ],
+                "Kyrgyz": [
+                    "чыгуу",
+                    "чыгаруу"
+                ],
+                "Karakalpak": [
+                    "shıǵaru"
+                ],
+                "Tatar": [
+                    "чыгару"
+                ],
+                "Bashkir": [
+                    "сығарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýdyrmak"
+                ],
+                "Uzbek": [
+                    "toyilmoq"
+                ],
+                "Kazakh": [
+                    "тайдыру",
+                    "тайып кету"
+                ],
+                "Kyrgyz": [
+                    "тайдыруу"
+                ],
+                "Karakalpak": [
+                    "taydıru"
+                ],
+                "Tatar": [
+                    "тайдыру"
+                ],
+                "Bashkir": [
+                    "тайҙырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئورنىدىن قوزغىماق",
+                    "ئورنىدىن يۆتكىمەك"
+                ],
+                "Kazakh": [
+                    "орнынан қозғау"
+                ],
+                "Kyrgyz": [
+                    "ордунан жылдыруу"
+                ],
+                "Karakalpak": [
+                    "ornınan qozǵaltu"
+                ],
+                "Tatar": [
+                    "урыныннан чыгару"
+                ],
+                "Bashkir": [
+                    "урынынан күсереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yerinden oynatmak",
+                    "yerinden etmek"
+                ],
+                "Azerbaijani": [
+                    "yerindən oynatmaq",
+                    "yerini dəyişmək"
+                ],
+                "Turkmen": [
+                    "ýerinden gozgamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "oynatmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "siljitmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "joyidan qo'zg'atmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шығу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ығыстыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кузгату"
+                ]
+            }
+        }
+    ]
+}

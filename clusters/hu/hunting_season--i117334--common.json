@@ -1,0 +1,106 @@
+{
+    "id": "i117334",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hunting season",
+    "en_definition": "the season during which it is legal to kill a particular species",
+    "tr_word": "av sezonu",
+    "tr_definition": "belirli bir türün avlanmasının yasal olduğu dönem",
+    "ru_word": "сезон охоты",
+    "ru_definition": "период времени, в течение которого разрешена охота на определенные виды животных",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "av mevsimi",
+                    "av zamanı",
+                    "av dönemi"
+                ],
+                "Azerbaijani": [
+                    "ov mövsümü",
+                    "ov vaxtı"
+                ],
+                "Turkmen": [
+                    "aw möwsümi"
+                ],
+                "Uzbek": [
+                    "ov mavsumi",
+                    "ov fasli",
+                    "ov vaqti"
+                ],
+                "Uyghur": [
+                    "ئوۋ مەۋسۈمى"
+                ],
+                "Tatar": [
+                    "ау сезоны",
+                    "ау вакыты"
+                ],
+                "Bashkir": [
+                    "ау миҙгеле",
+                    "ау ваҡыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "аңшылық маусымы",
+                    "аң аулау кезеңі",
+                    "аңшылық кезеңі"
+                ],
+                "Kyrgyz": [
+                    "аңчылык мезгили"
+                ],
+                "Karakalpak": [
+                    "ańshılıq máosimi",
+                    "ańshılıq dáoiri"
+                ],
+                "Tatar": [
+                    "аучылык сезоны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ov fəsli"
+                ],
+                "Uyghur": [
+                    "ئوۋ پەسلى",
+                    "ئوۋچىلىق پەسلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "aw wagty",
+                    "aw pasly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уу мезгили"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уучулук маалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ań máosimi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "id": "i54964",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "house of cards",
+    "en_definition": "an unstable construction with playing cards",
+    "tr_word": "iskambil evi",
+    "tr_definition": "oyun kâğıtlarından yapılmış, her an yıkılabilecek dayanıksız yapı",
+    "ru_word": "карточный домик",
+    "ru_definition": "непрочное, легко разрушающееся сооружение из игральных карт",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kağıttan kule",
+                    "kağıttan ev"
+                ],
+                "Azerbaijani": [
+                    "kağız evi"
+                ],
+                "Kazakh": [
+                    "карта үйшігі",
+                    "карта үйі"
+                ],
+                "Kyrgyz": [
+                    "карта үйү",
+                    "картадан жасалган үй"
+                ],
+                "Karakalpak": [
+                    "karta úyshigi"
+                ],
+                "Tatar": [
+                    "кәрт йорты",
+                    "кәрт өе"
+                ],
+                "Bashkir": [
+                    "кәрт өйө",
+                    "кәрттән яһалған өй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kart evi"
+                ],
+                "Turkmen": [
+                    "kart öýi",
+                    "kartdan gurlan öý"
+                ],
+                "Uzbek": [
+                    "qarta uyi",
+                    "qartadan yasalgan uy"
+                ],
+                "Uyghur": [
+                    "قارتىدىن ياسالغان ئۆي",
+                    "قارت ئۆيى"
+                ],
+                "Karakalpak": [
+                    "kartalardan qurılǵan úy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iskambil kulesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "omonat bino"
+                ]
+            }
+        }
+    ]
+}

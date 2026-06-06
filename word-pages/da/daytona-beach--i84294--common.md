@@ -1,0 +1,94 @@
+# Daytona beach
+| Field | Detail |
+|---|---|
+| **ID** | i84294 |
+| **English** | daytona beach |
+| **Type** | noun |
+| **Definition** | a resort town in northeast Florida on the Atlantic coast; hard white beaches have been used for automobile speed trials |
+| **Source** | common |
+| **Ortatil** | deytona-biç |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **deytona-biç** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| Дейтона-Бич | deytona-biç |
+| **Kyrgyz** | |
+| Дейтона-Бич | deytona-biç |
+| **Tatar** | |
+| Дейтона-Бич | deytona-biç |
+| **Bashkir** | |
+| Дейтона-Бич | deytona-biç |
+
+```json
+{
+    "id": "i84294",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "daytona beach",
+    "en_definition": "a resort town in northeast Florida on the Atlantic coast; hard white beaches have been used for automobile speed trials",
+    "tr_word": "Daytona Beach",
+    "tr_definition": "Florida'nın kuzeydoğusunda, Atlantik kıyısında yer alan; sert beyaz kumsalları otomobil hız denemeleri için kullanılan bir tatil kenti.",
+    "ru_word": "Дейтона-Бич",
+    "ru_definition": "курортный город на северо-востоке Флориды на побережье Атлантического океана; твердые белые пляжи которого использовались для испытаний автомобилей на скорость.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Daytona Beach"
+                ],
+                "Azerbaijani": [
+                    "Daytona-Biç"
+                ],
+                "Turkmen": [
+                    "Deýtona-Biç"
+                ],
+                "Uzbek": [
+                    "Daytona-Bich"
+                ],
+                "Uyghur": [
+                    "دەيتونا ساھىلى",
+                    "دەيتونا بېچ"
+                ],
+                "Kazakh": [
+                    "Дейтона-Бич"
+                ],
+                "Kyrgyz": [
+                    "Дейтона-Бич"
+                ],
+                "Karakalpak": [
+                    "Daytona-Bich"
+                ],
+                "Tatar": [
+                    "Дейтона-Бич"
+                ],
+                "Bashkir": [
+                    "Дейтона-Бич"
+                ]
+            }
+        }
+    ]
+}
+```
+

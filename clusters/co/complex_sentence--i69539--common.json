@@ -1,0 +1,126 @@
+{
+    "id": "i69539",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "complex sentence",
+    "en_definition": "a sentence composed of at least one main clause and one subordinate clause",
+    "tr_word": "birleşik cümle",
+    "tr_definition": "en az bir ana cümle ve bir yan cümleden oluşan cümle yapısı",
+    "ru_word": "сложноподчинённое предложение",
+    "ru_definition": "предложение, состоящее из главного и одного или нескольких придаточных предложений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşma sözlem"
+                ],
+                "Uyghur": [
+                    "قوشما جۈملە"
+                ],
+                "Karakalpak": [
+                    "qұrama sóylem"
+                ],
+                "Tatar": [
+                    "кушма җөмлә"
+                ],
+                "Bashkir": [
+                    "ҡушма һөйләм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mürekkep cümle"
+                ],
+                "Azerbaijani": [
+                    "mürəkkəb cümlə"
+                ],
+                "Uzbek": [
+                    "murakkab gap"
+                ],
+                "Uyghur": [
+                    "مۇرەككەپ جۈملە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tabeli mürəkkəb cümlə"
+                ],
+                "Turkmen": [
+                    "tabynly goşma sözlem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сабақтас құрмалас сөйлем",
+                    "құрмалас сөйлем"
+                ],
+                "Karakalpak": [
+                    "sabaqtas qұrmalas sóylem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "багыныңкы байланыштагы татаал сүйлөм"
+                ],
+                "Karakalpak": [
+                    "baǵınıńqılı sabaqtas sóylem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "катлаулы җөмлә"
+                ],
+                "Bashkir": [
+                    "ҡатмарлы һөйләм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "birleşik cümle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çylşyrymly sözlem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ergashgan qoʻshma gap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "татаал сүйлөм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төзелмә җөмлә"
+                ]
+            }
+        }
+    ]
+}

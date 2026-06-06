@@ -1,0 +1,85 @@
+# Seahorse
+| Field | Detail |
+|---|---|
+| **ID** | i42959 |
+| **English** | seahorse |
+| **Type** | noun |
+| **Definition** | small fish with horse-like heads bent sharply downward and curled tails; swim in upright position |
+| **Source** | common |
+| **Ortatil** | atbaliq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i42959",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "seahorse",
+    "en_definition": "small fish with horse-like heads bent sharply downward and curled tails; swim in upright position",
+    "tr_word": "denizatı",
+    "tr_definition": "Başı at başına benzeyen, dik yüzen ve kuyruğu kıvrılabilen küçük bir deniz balığı.",
+    "ru_word": "морской конёк",
+    "ru_definition": "Небольшая морская костистая рыба с головой, похожей на лошадиную, и цепким хвостом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "denizatı",
+                    "deniz aygırı"
+                ],
+                "Azerbaijani": [
+                    "dəniz atı"
+                ],
+                "Turkmen": [
+                    "deňiz atjygy",
+                    "deňiz aty"
+                ],
+                "Uzbek": [
+                    "dengiz oti"
+                ],
+                "Uyghur": [
+                    "دېڭىز ئېتى"
+                ],
+                "Kazakh": [
+                    "теңіз аты",
+                    "теңіз жылқысы"
+                ],
+                "Kyrgyz": [
+                    "деңиз аты"
+                ],
+                "Karakalpak": [
+                    "teńiz atı"
+                ],
+                "Tatar": [
+                    "диңгез аты"
+                ],
+                "Bashkir": [
+                    "диңгеҙ аты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "otbaliq"
+                ],
+                "Uyghur": [
+                    "ئات بېلىق"
+                ],
+                "Kyrgyz": [
+                    "ат балык"
+                ],
+                "Tatar": [
+                    "атбаш балык"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,70 @@
+{
+    "id": "i91714",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oiler",
+    "en_definition": "a worker who oils engines or machinery",
+    "tr_word": "yağcı",
+    "tr_definition": "motorları veya makineleri yağlayan işçi",
+    "ru_word": "смазчик",
+    "ru_definition": "рабочий, занимающийся смазкой двигателей или механизмов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "moylovchi",
+                    "moychi"
+                ],
+                "Uyghur": [
+                    "مايلايدىغان كىشى",
+                    "مايلىغۇچى",
+                    "مايچى"
+                ],
+                "Kazakh": [
+                    "майлаушы",
+                    "майлау жұмысшысы"
+                ],
+                "Kyrgyz": [
+                    "майлоочу",
+                    "майчы"
+                ],
+                "Karakalpak": [
+                    "maylaoshı",
+                    "maylao xızmetkeri"
+                ],
+                "Tatar": [
+                    "майлаучы",
+                    "май бирүче"
+                ],
+                "Bashkir": [
+                    "майлаусы",
+                    "майлау эшсеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağlayıcı",
+                    "yağcı"
+                ],
+                "Azerbaijani": [
+                    "yağlayıcı",
+                    "yağvuran"
+                ],
+                "Turkmen": [
+                    "ýaglaýjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maşyn ýaglaýjy"
+                ]
+            }
+        }
+    ]
+}

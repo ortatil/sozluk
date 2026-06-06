@@ -1,0 +1,104 @@
+{
+    "id": "i3741",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "ready-made",
+    "en_definition": "made for purchase and immediate use",
+    "tr_word": "hazır",
+    "tr_definition": "Satın alınmaya ve hemen kullanılmaya uygun şekilde önceden üretilmiş",
+    "ru_word": "готовый",
+    "ru_definition": "Сделанный заранее для продажи и немедленного использования",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýýar",
+                    "taýýarja"
+                ],
+                "Uzbek": [
+                    "tayyor"
+                ],
+                "Uyghur": [
+                    "تەييار",
+                    "تەييارلانغان"
+                ],
+                "Kazakh": [
+                    "дайын",
+                    "даяр"
+                ],
+                "Kyrgyz": [
+                    "даяр",
+                    "даярдалган"
+                ],
+                "Karakalpak": [
+                    "dayar",
+                    "tayın"
+                ],
+                "Bashkir": [
+                    "тәйәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazır",
+                    "hazıryapım",
+                    "hazırca"
+                ],
+                "Azerbaijani": [
+                    "hazır",
+                    "hazırlanmış"
+                ],
+                "Tatar": [
+                    "хәзер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پۈتكەن"
+                ],
+                "Kyrgyz": [
+                    "бүткөн"
+                ],
+                "Karakalpak": [
+                    "pútken"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "әзір"
+                ],
+                "Tatar": [
+                    "әзер"
+                ],
+                "Bashkir": [
+                    "әҙер",
+                    "әҙерләнгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "quraşdırılmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muhayyo"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "id": "i70730",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "round-trip ticket",
+    "en_definition": "a ticket to a place and back (usually over the same route)",
+    "tr_word": "gidiş-dönüş bileti",
+    "tr_definition": "Bir yere gidip tekrar geri dönmeyi sağlayan, genellikle aynı güzergahı kapsayan bilet.",
+    "ru_word": "билет туда и обратно",
+    "ru_definition": "Билет, дающий право на проезд до места назначения и обратно.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "iki tərəfli bilet"
+                ],
+                "Turkmen": [
+                    "iki taraplaýyn bilet"
+                ],
+                "Uzbek": [
+                    "ikki tomonlama chipta"
+                ],
+                "Kazakh": [
+                    "екі жақты билет"
+                ],
+                "Kyrgyz": [
+                    "эки тараптуу билет"
+                ],
+                "Karakalpak": [
+                    "eki tárepli bilet"
+                ],
+                "Tatar": [
+                    "ике яклы билет"
+                ],
+                "Bashkir": [
+                    "ике яҡҡа билет"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "baryş-geliş bileti"
+                ],
+                "Kazakh": [
+                    "барып-қайту билеті"
+                ],
+                "Kyrgyz": [
+                    "барып-келүү билети"
+                ],
+                "Karakalpak": [
+                    "barıp-kelio bileti"
+                ],
+                "Bashkir": [
+                    "барып ҡайтыу билеты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gidiş-dönüş bileti"
+                ],
+                "Azerbaijani": [
+                    "gediş-dönüş bileti",
+                    "gediş-gəliş bileti"
+                ],
+                "Uzbek": [
+                    "borish-kelish chiptasi"
+                ],
+                "Uyghur": [
+                    "بېرىپ-كېلىش بېلىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift yönlü bilet"
+                ],
+                "Tatar": [
+                    "барыш-кайтыш билеты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قايتىش بېلىتى"
+                ]
+            }
+        }
+    ]
+}

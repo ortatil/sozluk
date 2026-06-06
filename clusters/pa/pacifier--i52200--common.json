@@ -1,0 +1,90 @@
+{
+    "id": "i52200",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pacifier",
+    "en_definition": "device used for an infant to suck or bite on",
+    "tr_word": "emzik",
+    "tr_definition": "bebeklerin emmesi için yapılan kauçuk veya plastik meme",
+    "ru_word": "соска-пустышка",
+    "ru_definition": "предмет, имитирующий материнскую грудь, предназначенный для удовлетворения сосательного рефлекса у младенцев",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "emzik"
+                ],
+                "Azerbaijani": [
+                    "əmzik",
+                    "əmcək"
+                ],
+                "Turkmen": [
+                    "emzik",
+                    "emdirgiç"
+                ],
+                "Uzbek": [
+                    "emzik"
+                ],
+                "Uyghur": [
+                    "ئېمىزگۈ",
+                    "ئېمىزگۈچ"
+                ],
+                "Kazakh": [
+                    "емізік"
+                ],
+                "Kyrgyz": [
+                    "эмчек"
+                ],
+                "Karakalpak": [
+                    "emezik"
+                ],
+                "Tatar": [
+                    "имчәк",
+                    "имгеч"
+                ],
+                "Bashkir": [
+                    "имсәк",
+                    "имгес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "алдарқаш"
+                ],
+                "Kyrgyz": [
+                    "алдооч"
+                ],
+                "Karakalpak": [
+                    "aldarǵısh"
+                ],
+                "Tatar": [
+                    "алдавыч"
+                ],
+                "Bashkir": [
+                    "алдауыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "soʻrgʻich"
+                ],
+                "Kyrgyz": [
+                    "соска"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yalancı meme"
+                ]
+            }
+        }
+    ]
+}

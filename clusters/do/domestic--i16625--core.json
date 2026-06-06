@@ -1,0 +1,179 @@
+{
+    "id": "i16625",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "domestic",
+    "en_definition": "of or relating to the home",
+    "tr_word": "evcil",
+    "tr_definition": "ev veya aile yaşamıyla ilgili olan",
+    "ru_word": "домашний",
+    "ru_definition": "относящийся к дому или семье",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "evcil"
+                ],
+                "Azerbaijani": [
+                    "ev"
+                ],
+                "Turkmen": [
+                    "öý"
+                ],
+                "Uzbek": [
+                    "uy"
+                ],
+                "Uyghur": [
+                    "ئۆي"
+                ],
+                "Kazakh": [
+                    "үй"
+                ],
+                "Kyrgyz": [
+                    "үй"
+                ],
+                "Karakalpak": [
+                    "úy",
+                    "úydegi"
+                ],
+                "Tatar": [
+                    "өй"
+                ],
+                "Bashkir": [
+                    "өй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "içerki"
+                ],
+                "Uzbek": [
+                    "ichki"
+                ],
+                "Kazakh": [
+                    "ішкі"
+                ],
+                "Kyrgyz": [
+                    "ички"
+                ],
+                "Karakalpak": [
+                    "ishki"
+                ],
+                "Tatar": [
+                    "эчке"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ailevi"
+                ],
+                "Azerbaijani": [
+                    "ailəvi"
+                ],
+                "Uyghur": [
+                    "ئائىلىۋى",
+                    "ئائىلە"
+                ],
+                "Tatar": [
+                    "гаилә"
+                ],
+                "Bashkir": [
+                    "ғаилә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dahili"
+                ],
+                "Azerbaijani": [
+                    "daxili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йорт"
+                ],
+                "Bashkir": [
+                    "йорт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұрмыстық"
+                ],
+                "Karakalpak": [
+                    "turmıslıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maşgala"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hojalyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xonadon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "roʻzgʻor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məişət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ошақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үй-бүлөлүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "evle ilgili"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "id": "i83946",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "saudi arabia",
+    "en_definition": "an absolute monarchy occupying most of the Arabian Peninsula in southwest Asia; vast oil reserves dominate the economy",
+    "tr_word": "Suudi Arabistan",
+    "tr_definition": "Güneybatı Asya'da, Arap Yarımadası'nın büyük bir kısmını kaplayan ve ekonomisi geniş petrol rezervlerine dayanan mutlak monarşi.",
+    "ru_word": "Саудовская Аравия",
+    "ru_definition": "Абсолютная монархия, занимающая большую часть Аравийского полуострова в Юго-Западной Азии; экономика страны основана на огромных запасах нефти.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Suudi Arabistan",
+                    "Suudi Arabistan Krallığı"
+                ],
+                "Azerbaijani": [
+                    "Səudiyyə Ərəbistanı",
+                    "Səudiyyə Ərəbistanı Krallığı"
+                ],
+                "Turkmen": [
+                    "Saud Arabystany",
+                    "Saud Arabystany Patyşalygy"
+                ],
+                "Uzbek": [
+                    "Saudiya Arabistoni",
+                    "Saudiya"
+                ],
+                "Uyghur": [
+                    "سەئۇدى ئەرەبىستان",
+                    "سەئۇدىيە"
+                ],
+                "Kazakh": [
+                    "Сауд Арабстан",
+                    "Сауд Арабия Патшалығы"
+                ],
+                "Kyrgyz": [
+                    "Сауд Арабиясы",
+                    "Сауд Араб Падышалыгы"
+                ],
+                "Karakalpak": [
+                    "Saud Arabstanı",
+                    "Saudiya"
+                ],
+                "Tatar": [
+                    "Сәгуд Гарәбстаны",
+                    "Согуд Гарәбстаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Сауд Арабиясы"
+                ],
+                "Bashkir": [
+                    "Сәғүд Ғәрәбстаны",
+                    "Сәғүдиә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Гарәбстан"
+                ]
+            }
+        }
+    ]
+}

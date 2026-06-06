@@ -1,0 +1,66 @@
+{
+    "id": "i108287",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "milliliter",
+    "en_definition": "a metric unit of volume equal to one thousandth of a liter",
+    "tr_word": "mililitre",
+    "tr_definition": "bir litrenin binde birine eşit olan hacim ölçü birimi",
+    "ru_word": "миллилитр",
+    "ru_definition": "метрическая единица объема, равная одной тысячной части литра",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mililitre"
+                ],
+                "Azerbaijani": [
+                    "millilitr"
+                ],
+                "Turkmen": [
+                    "millilitr"
+                ],
+                "Uzbek": [
+                    "millilitr"
+                ],
+                "Uyghur": [
+                    "مىللىلىتىر",
+                    "مىللىلىتر"
+                ],
+                "Kazakh": [
+                    "миллилитр"
+                ],
+                "Kyrgyz": [
+                    "миллилитр"
+                ],
+                "Karakalpak": [
+                    "millilitr"
+                ],
+                "Tatar": [
+                    "миллилитр"
+                ],
+                "Bashkir": [
+                    "миллилитр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "santimetreküp"
+                ],
+                "Kazakh": [
+                    "текше сантиметр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kub santimetr"
+                ]
+            }
+        }
+    ]
+}

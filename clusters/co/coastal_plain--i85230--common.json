@@ -1,0 +1,124 @@
+{
+    "id": "i85230",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coastal plain",
+    "en_definition": "a plain adjacent to a coast",
+    "tr_word": "kıyı ovası",
+    "tr_definition": "deniz kıyısına bitişik olan düzlük",
+    "ru_word": "прибрежная равнина",
+    "ru_definition": "равнина, прилегающая к морскому побережью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dənizkənarı düzənlik"
+                ],
+                "Turkmen": [
+                    "deňizýaka düzlügi"
+                ],
+                "Uzbek": [
+                    "dengizboʻyi tekisligi"
+                ],
+                "Uyghur": [
+                    "دېڭىز بويى تۈزلەڭلىكى"
+                ],
+                "Kazakh": [
+                    "теңіз жағалауындағы жазық"
+                ],
+                "Kyrgyz": [
+                    "деңиз жээгиндеги түздүк"
+                ],
+                "Tatar": [
+                    "диңгез буе тигезлеге"
+                ],
+                "Bashkir": [
+                    "диңгеҙ буйы тигеҙлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahil ovası"
+                ],
+                "Azerbaijani": [
+                    "sahilyanı düzənlik",
+                    "sahil düzənliyi"
+                ],
+                "Uzbek": [
+                    "sohil tekisligi"
+                ],
+                "Uyghur": [
+                    "ساھىل تۈزلەڭلىكى"
+                ],
+                "Tatar": [
+                    "сахил тигезлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yalı ovası"
+                ],
+                "Karakalpak": [
+                    "teńiz jaǵası jazıqlıǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жағалау жазығы",
+                    "жағалық жазық"
+                ],
+                "Karakalpak": [
+                    "jaǵalau jazıqlıǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яр буе тигезлеге"
+                ],
+                "Bashkir": [
+                    "яр буйы тигеҙлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kıyı ovası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kenarýaka düzlügi",
+                    "kenarýaka pesligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qirgʻoqboʻyi tekisligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жээк түздүгү",
+                    "жээк түздүк"
+                ]
+            }
+        }
+    ]
+}

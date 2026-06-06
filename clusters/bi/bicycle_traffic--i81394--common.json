@@ -1,0 +1,64 @@
+{
+    "id": "i81394",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bicycle traffic",
+    "en_definition": "bicycles coming and going",
+    "tr_word": "bisiklet trafiği",
+    "tr_definition": "gelip giden bisikletlerin oluşturduğu yoğunluk",
+    "ru_word": "велосипедное движение",
+    "ru_definition": "движение велосипедов по дорогам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "velosiped hərəkəti",
+                    "velosiped gediş-gəlişi"
+                ],
+                "Turkmen": [
+                    "welosiped gatnawy",
+                    "welosiped hereketi"
+                ],
+                "Uzbek": [
+                    "velosiped harakati",
+                    "velosiped qatnovi"
+                ],
+                "Uyghur": [
+                    "ۋېلىسپىت قاتنىشى",
+                    "ۋېلىسپىت ئېقىمى"
+                ],
+                "Kazakh": [
+                    "велосипед қозғалысы",
+                    "велосипед қатынасы",
+                    "велосипед ағыны"
+                ],
+                "Kyrgyz": [
+                    "велосипед кыймылы",
+                    "велосипед каттамы"
+                ],
+                "Karakalpak": [
+                    "welosiped háreketi",
+                    "welosipedler qatnası"
+                ],
+                "Tatar": [
+                    "велосипед хәрәкәте",
+                    "велосипед йөреше"
+                ],
+                "Bashkir": [
+                    "велосипед хәрәкәте",
+                    "велосипедтар йөрөшө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bisiklet trafiği",
+                    "bisiklet akışı",
+                    "bisiklet gidiş gelişi"
+                ]
+            }
+        }
+    ]
+}

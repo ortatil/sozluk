@@ -1,0 +1,80 @@
+{
+    "id": "i2178",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "blackish",
+    "en_definition": "of something that is somewhat black",
+    "tr_word": "siyahımsı",
+    "tr_definition": "rengi siyaha çalan, tam siyah olmayan",
+    "ru_word": "черноватый",
+    "ru_definition": "имеющий темный оттенок, близкий к черному",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karamsı",
+                    "karamtırak"
+                ],
+                "Azerbaijani": [
+                    "qarayanız",
+                    "qaramtıl",
+                    "qarayaçalar",
+                    "qaramtıraq"
+                ],
+                "Turkmen": [
+                    "garamtyl",
+                    "garasow",
+                    "gararak"
+                ],
+                "Uzbek": [
+                    "qoramtir",
+                    "qoraroq",
+                    "qorachiroq"
+                ],
+                "Uyghur": [
+                    "قارامتۇل",
+                    "قارامتىل",
+                    "قارىغا مايىل"
+                ],
+                "Kazakh": [
+                    "қаралау",
+                    "қараш",
+                    "қара сұр",
+                    "қара қошқыл"
+                ],
+                "Kyrgyz": [
+                    "карагыш",
+                    "карамтыл",
+                    "кара сымал",
+                    "карараак"
+                ],
+                "Karakalpak": [
+                    "qaraǵımtıl",
+                    "qaralau",
+                    "qarash",
+                    "qarasu"
+                ],
+                "Tatar": [
+                    "карасу",
+                    "карамса",
+                    "карагылт"
+                ],
+                "Bashkir": [
+                    "ҡараһыу",
+                    "ҡарағусҡыл",
+                    "ҡарағалт",
+                    "ҡараһыулау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siyahımsı",
+                    "siyahımtırak"
+                ]
+            }
+        }
+    ]
+}

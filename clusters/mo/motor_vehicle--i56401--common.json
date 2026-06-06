@@ -1,0 +1,169 @@
+{
+    "id": "i56401",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "motor vehicle",
+    "en_definition": "a self-propelled wheeled vehicle that does not run on rails",
+    "tr_word": "motorlu taşıt",
+    "tr_definition": "Raylar üzerinde gitmeyen, kendi gücüyle hareket eden tekerlekli araç",
+    "ru_word": "автотранспортное средство",
+    "ru_definition": "самоходное колесное транспортное средство, не передвигающееся по рельсам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "maşın"
+                ],
+                "Turkmen": [
+                    "maşyn"
+                ],
+                "Uyghur": [
+                    "ماشىنا"
+                ],
+                "Kazakh": [
+                    "мәшине"
+                ],
+                "Karakalpak": [
+                    "mashina"
+                ],
+                "Tatar": [
+                    "машина"
+                ],
+                "Bashkir": [
+                    "машина"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtomobil"
+                ],
+                "Turkmen": [
+                    "awtoulag"
+                ],
+                "Uyghur": [
+                    "ئاپتوموبىل"
+                ],
+                "Kazakh": [
+                    "автокөлік"
+                ],
+                "Tatar": [
+                    "автомобиль"
+                ],
+                "Bashkir": [
+                    "автомобиль"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ulag"
+                ],
+                "Uzbek": [
+                    "ulov"
+                ],
+                "Uyghur": [
+                    "ئۇلاغ"
+                ],
+                "Kyrgyz": [
+                    "унаа"
+                ],
+                "Karakalpak": [
+                    "ulaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "araç"
+                ],
+                "Uzbek": [
+                    "aroba"
+                ],
+                "Kyrgyz": [
+                    "араба"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көлік"
+                ],
+                "Kyrgyz": [
+                    "көлүк"
+                ],
+                "Karakalpak": [
+                    "kólik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vasıta"
+                ],
+                "Azerbaijani": [
+                    "vasitə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taşıt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otomobil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəqliyyat vasitəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "markab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "transport"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзйөрешле транспорт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көймәле арба"
+                ]
+            }
+        }
+    ]
+}

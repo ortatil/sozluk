@@ -1,0 +1,136 @@
+{
+    "id": "i109482",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "leftover",
+    "en_definition": "a small part or portion that remains after the main part no longer exists",
+    "tr_word": "artık",
+    "tr_definition": "bir şeyden artan, geriye kalan miktar veya parça",
+    "ru_word": "остаток",
+    "ru_definition": "часть, оставшаяся от чего-либо после использования или потребления основной массы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kalıntı"
+                ],
+                "Azerbaijani": [
+                    "qalıq",
+                    "qalıntı"
+                ],
+                "Turkmen": [
+                    "galyndy",
+                    "galan-gaçan"
+                ],
+                "Uzbek": [
+                    "qoldiq"
+                ],
+                "Uyghur": [
+                    "قالدۇق",
+                    "قالدۇق-پالدۇق"
+                ],
+                "Kazakh": [
+                    "қалдық",
+                    "қалдық-құттық"
+                ],
+                "Kyrgyz": [
+                    "калдык",
+                    "калган-каткан"
+                ],
+                "Karakalpak": [
+                    "qaldıq",
+                    "qalǵan-qutqan"
+                ],
+                "Tatar": [
+                    "калдык",
+                    "калган-колган"
+                ],
+                "Bashkir": [
+                    "ҡалдыҡ",
+                    "ҡалған-ҡотҡан",
+                    "ҡалдыҡ-боҙоҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "artık"
+                ],
+                "Azerbaijani": [
+                    "artıq"
+                ],
+                "Turkmen": [
+                    "artykmaç"
+                ],
+                "Uzbek": [
+                    "ortiqcha"
+                ],
+                "Kyrgyz": [
+                    "арткан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сарқыт"
+                ],
+                "Kyrgyz": [
+                    "саркыт"
+                ],
+                "Karakalpak": [
+                    "sarqıt"
+                ],
+                "Tatar": [
+                    "саркыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bakiye"
+                ],
+                "Uzbek": [
+                    "baqiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sarp"
+                ],
+                "Kazakh": [
+                    "жұрнақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fazlalık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاشقان-تاشقان",
+                    "ئاشتى-پاشتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өлеш"
+                ]
+            }
+        }
+    ]
+}

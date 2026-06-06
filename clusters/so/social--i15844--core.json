@@ -1,0 +1,119 @@
+{
+    "id": "i15844",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "social",
+    "en_definition": "relating to human society and its members",
+    "tr_word": "sosyal",
+    "tr_definition": "toplumla ve toplumun üyeleriyle ilgili olan",
+    "ru_word": "социальный",
+    "ru_definition": "относящийся к человеческому обществу и его членам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "içtimai"
+                ],
+                "Azerbaijani": [
+                    "ictimai"
+                ],
+                "Turkmen": [
+                    "ijtimai"
+                ],
+                "Uzbek": [
+                    "ijtimoiy"
+                ],
+                "Uyghur": [
+                    "ئىجتىمائىي"
+                ],
+                "Kyrgyz": [
+                    "ижтимаий"
+                ],
+                "Karakalpak": [
+                    "ijtimaiy"
+                ],
+                "Tatar": [
+                    "иҗтимагый"
+                ],
+                "Bashkir": [
+                    "ижтимағи"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jemgyýetçilik"
+                ],
+                "Uzbek": [
+                    "jamiyatga oid"
+                ],
+                "Uyghur": [
+                    "جامائەتچىلىك"
+                ],
+                "Karakalpak": [
+                    "jámiyetlik"
+                ],
+                "Tatar": [
+                    "җәмгыяви"
+                ],
+                "Bashkir": [
+                    "йәмғиәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sosyal"
+                ],
+                "Azerbaijani": [
+                    "sosial"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "köpçülikleýin"
+                ],
+                "Kazakh": [
+                    "көпшілік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоғамдық"
+                ],
+                "Kyrgyz": [
+                    "коомдук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toplumsal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "madaniy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әлеуметтік"
+                ]
+            }
+        }
+    ]
+}

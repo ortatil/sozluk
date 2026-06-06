@@ -1,0 +1,148 @@
+# Public address system
+| Field | Detail |
+|---|---|
+| **ID** | i57747 |
+| **English** | public address system |
+| **Type** | noun |
+| **Definition** | an electronic amplification system used as a communication system in public areas |
+| **Source** | common |
+| **Ortatil** | kärnäy |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i57747",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "public address system",
+    "en_definition": "an electronic amplification system used as a communication system in public areas",
+    "tr_word": "anons sistemi",
+    "tr_definition": "kamu alanlarında iletişim kurmak için kullanılan elektronik ses yükseltme sistemi",
+    "ru_word": "система оповещения",
+    "ru_definition": "электронная система усиления звука, используемая для связи в общественных местах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дауыс зорайтқыш",
+                    "дауыс күшейткіш"
+                ],
+                "Karakalpak": [
+                    "dauıs kúsheytkish",
+                    "dauıs zoraytqısh"
+                ],
+                "Tatar": [
+                    "тавышландыру системасы",
+                    "тавыш көчәйткеч"
+                ],
+                "Bashkir": [
+                    "тауыш көсәйткес",
+                    "тауыш биреү ҡоролмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ses sistemi",
+                    "seslendirme sistemi"
+                ],
+                "Azerbaijani": [
+                    "səsucaldıcı sistem",
+                    "səsyayıcı qurğu",
+                    "səsucaldan",
+                    "səs sistemi"
+                ],
+                "Turkmen": [
+                    "ses gataldyjy",
+                    "ses ulaldyjy",
+                    "ses ýaýradyjy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үн зорайтқыш"
+                ],
+                "Kyrgyz": [
+                    "үн жабдыгы"
+                ],
+                "Karakalpak": [
+                    "ún zoraytqısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anons sistemi"
+                ],
+                "Bashkir": [
+                    "хәбәр итеү системаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hoparlör sistemi"
+                ],
+                "Uyghur": [
+                    "ئاممىۋى ئاۋاز سىستېمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ovoz kuchaytirgich",
+                    "ovoz tarqatish tizimi"
+                ],
+                "Uyghur": [
+                    "ئاۋاز كۈچەيتكۈچ سىستېمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хабарлау жүйесі"
+                ],
+                "Tatar": [
+                    "хәбәр итү җайланмасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "karnay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياڭراتقۇ سىستېمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үн күчөткүч",
+                    "үн күчөтүүчү жабдык"
+                ]
+            }
+        }
+    ]
+}
+```
+

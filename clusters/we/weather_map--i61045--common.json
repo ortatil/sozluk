@@ -1,0 +1,94 @@
+{
+    "id": "i61045",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "weather map",
+    "en_definition": "(meteorology) a map showing the principal meteorological elements at a given time and over an extended region",
+    "tr_word": "hava durumu haritası",
+    "tr_definition": "Belirli bir zamanda ve geniş bir bölgedeki temel meteorolojik unsurları gösteren harita.",
+    "ru_word": "синоптическая карта",
+    "ru_definition": "Географическая карта, на которой цифрами и символами нанесены результаты метеорологических наблюдений.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hava haritası",
+                    "hava durumu haritası"
+                ],
+                "Azerbaijani": [
+                    "hava xəritəsi"
+                ],
+                "Turkmen": [
+                    "howa kartasy"
+                ],
+                "Uyghur": [
+                    "ھاۋا رايى خەرىتىسى"
+                ],
+                "Kazakh": [
+                    "ауа райы картасы"
+                ],
+                "Karakalpak": [
+                    "aoa rayı kartası"
+                ],
+                "Tatar": [
+                    "һава торышы картасы",
+                    "һава картасы"
+                ],
+                "Bashkir": [
+                    "һауа торошо картаһы",
+                    "һауа торошо һүрәтләмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meteoroloji haritası"
+                ],
+                "Uzbek": [
+                    "meteorologik xarita"
+                ],
+                "Uyghur": [
+                    "مېتېئورولوگىيە خەرىتىسى"
+                ],
+                "Karakalpak": [
+                    "meteorologiyalıq karta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sinoptik xəritə"
+                ],
+                "Uzbek": [
+                    "ob-havo xaritasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howa ýagdaýynyň kartasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "синоптикалық карта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аба ырайы картасы",
+                    "аба ырайынын картасы"
+                ]
+            }
+        }
+    ]
+}

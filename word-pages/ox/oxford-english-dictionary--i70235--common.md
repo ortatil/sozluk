@@ -1,0 +1,198 @@
+# Oxford english dictionary
+| Field | Detail |
+|---|---|
+| **ID** | i70235 |
+| **English** | oxford english dictionary |
+| **Type** | noun |
+| **Definition** | an unabridged dictionary constructed on historical principles |
+| **Source** | common |
+| **Ortatil** | kattalığat |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i70235",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oxford english dictionary",
+    "en_definition": "an unabridged dictionary constructed on historical principles",
+    "tr_word": "Oxford İngilizce Sözlüğü",
+    "tr_definition": "Tarihsel ilkelere dayalı olarak hazırlanmış, İngilizcenin en kapsamlı ve geniş kapsamlı sözlüğü.",
+    "ru_word": "Оксфордский словарь английского языка",
+    "ru_definition": "Главный исторический словарь английского языка, составленный на основе исторических принципов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarihsel sözlük",
+                    "tarihî sözlük"
+                ],
+                "Azerbaijani": [
+                    "tarixi lüğət"
+                ],
+                "Turkmen": [
+                    "taryhy sözlük"
+                ],
+                "Uzbek": [
+                    "tarixiy lugʻat"
+                ],
+                "Uyghur": [
+                    "تارىخىي لۇغەت"
+                ],
+                "Kazakh": [
+                    "тарихи сөздік"
+                ],
+                "Kyrgyz": [
+                    "тарыхый сөздүк"
+                ],
+                "Tatar": [
+                    "тарихи сүзлек"
+                ],
+                "Bashkir": [
+                    "тарихи һүҙлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "düşündirişli sözlük"
+                ],
+                "Kazakh": [
+                    "түсіндірме сөздік"
+                ],
+                "Kyrgyz": [
+                    "түшүндүрмө сөздүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "izahlı lüğət"
+                ],
+                "Uzbek": [
+                    "izohli lugʻat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mukammal lugʻat"
+                ],
+                "Uyghur": [
+                    "مۇكەممەل لۇغەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ لۇغەت"
+                ],
+                "Kyrgyz": [
+                    "чоң сөздүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "akademiyalıq sózlik"
+                ],
+                "Tatar": [
+                    "академик сүзлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зур аңлатмалы сүзлек"
+                ],
+                "Bashkir": [
+                    "ҙур һүҙлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kapsamlı sözlük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyük lügat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müfəssəl lüğət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "külliyyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly sözlük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kattalugʻat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "толық сөздік",
+                    "тіл қазынасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "úlken túsindirme sózlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kóp tomlıq sózlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аңлатмалы һүҙлек"
+                ]
+            }
+        }
+    ]
+}
+```
+

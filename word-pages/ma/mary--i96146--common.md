@@ -1,0 +1,156 @@
+# Mary
+| Field | Detail |
+|---|---|
+| **ID** | i96146 |
+| **English** | mary |
+| **Type** | noun |
+| **Definition** | the mother of Jesus; Christians refer to her as the Virgin Mary; she is especially honored by Roman Catholics |
+| **Source** | common |
+| **Ortatil** | märyäm |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **märyäm** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| Мәриям | märiyam |
+| **Kyrgyz** | |
+| Мариям | mariyam |
+| **Tatar** | |
+| Мәрьям | märyam |
+| **Bashkir** | |
+| Мәрйәм | märyäm |
+
+```json
+{
+    "id": "i96146",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mary",
+    "en_definition": "the mother of Jesus; Christians refer to her as the Virgin Mary; she is especially honored by Roman Catholics",
+    "tr_word": "Meryem Ana",
+    "tr_definition": "İsa'nın annesi; Hristiyanlıkta Bakire Meryem olarak anılan ve özellikle Katolikler tarafından saygı duyulan kişi.",
+    "ru_word": "Мадонна",
+    "ru_definition": "Мать Иисуса Христа; в христианстве известна как Дева Мария, особо почитаемая в католицизме.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Meryem Ana"
+                ],
+                "Azerbaijani": [
+                    "Məryəm",
+                    "Məryəm ana"
+                ],
+                "Turkmen": [
+                    "Merýem",
+                    "Merýem ene"
+                ],
+                "Uzbek": [
+                    "Maryam"
+                ],
+                "Uyghur": [
+                    "مەريەم ئانا"
+                ],
+                "Kazakh": [
+                    "Мәриям",
+                    "Мәриям ана"
+                ],
+                "Kyrgyz": [
+                    "Мариям",
+                    "Мариям эне"
+                ],
+                "Karakalpak": [
+                    "Máriyam",
+                    "Máriyam ana"
+                ],
+                "Tatar": [
+                    "Мәрьям",
+                    "Мәрьям ана"
+                ],
+                "Bashkir": [
+                    "Мәрйәм",
+                    "Мәрйәм ана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "Bibi Maryam"
+                ],
+                "Uyghur": [
+                    "بىبى مەريەم"
+                ],
+                "Kazakh": [
+                    "Бибі Мәриям"
+                ],
+                "Kyrgyz": [
+                    "Биби Мариям"
+                ],
+                "Karakalpak": [
+                    "Bibi Máriyam"
+                ],
+                "Tatar": [
+                    "Биби Мәрьям"
+                ],
+                "Bashkir": [
+                    "Биби Мәрйәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Hazreti Meryem"
+                ],
+                "Azerbaijani": [
+                    "Həzrəti Məryəm"
+                ],
+                "Turkmen": [
+                    "Hezreti Merýem"
+                ],
+                "Uzbek": [
+                    "Hazrati Maryam"
+                ],
+                "Uyghur": [
+                    "ھەزرىتى مەريەم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Bakire Meryem"
+                ],
+                "Azerbaijani": [
+                    "Bakirə Məryəm"
+                ]
+            }
+        }
+    ]
+}
+```
+

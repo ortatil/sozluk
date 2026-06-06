@@ -1,0 +1,71 @@
+{
+    "id": "i76879",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fruit custard",
+    "en_definition": "a custard containing fruit",
+    "tr_word": "meyveli muhallebi",
+    "tr_definition": "İçinde çeşitli meyve parçaları bulunan, süt ve yumurta ile hazırlanan bir tatlı türü.",
+    "ru_word": "фруктовый заварной крем",
+    "ru_definition": "Десерт на основе заварного крема с добавлением кусочков свежих или консервированных фруктов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyveli muhallebi",
+                    "meyveli sütlü tatlı",
+                    "meyveli krema"
+                ],
+                "Azerbaijani": [
+                    "meyvəli muhalləbi",
+                    "meyvəli pudinq",
+                    "meyvəli südlü şirniyyat"
+                ],
+                "Turkmen": [
+                    "miweli muhallebi",
+                    "miweli süýtli aş"
+                ],
+                "Uzbek": [
+                    "mevali quyultirilgan sut",
+                    "mevali shirinlik",
+                    "mevali qayla"
+                ],
+                "Uyghur": [
+                    "مېۋىلىك كۇستارد",
+                    "مېۋىلىك سۈت ئۇيۇتمىسى",
+                    "مېۋىلىك تاتلىق تۈرۈم"
+                ],
+                "Karakalpak": [
+                    "miyueli krem",
+                    "miyueli musellem"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жеміс қосылған сүт ботқасы",
+                    "жеміс қосылған тәтті тағам",
+                    "жеміс десерті"
+                ],
+                "Kyrgyz": [
+                    "жемиш маңызы",
+                    "жемиш шириндиги",
+                    "жемиш коюртмасы"
+                ],
+                "Tatar": [
+                    "җимешле каймак",
+                    "җимешле сөтле татлы",
+                    "җимешле десерт"
+                ],
+                "Bashkir": [
+                    "емешле һөтлө десерт",
+                    "емешле ҡатыҡ",
+                    "емешле татлы ризыҡ"
+                ]
+            }
+        }
+    ]
+}

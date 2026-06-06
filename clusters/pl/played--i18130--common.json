@@ -1,0 +1,79 @@
+{
+    "id": "i18130",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "played",
+    "en_definition": "(of games) engaged in",
+    "tr_word": "oynanmış",
+    "tr_definition": "oyun olarak icra edilmiş veya gerçekleştirilmiş",
+    "ru_word": "сыгранный",
+    "ru_definition": "тот, в который сыграли; проведенный (о матче или игре)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oynanmış",
+                    "oynanan"
+                ],
+                "Azerbaijani": [
+                    "oynanılmış",
+                    "oynanan"
+                ],
+                "Turkmen": [
+                    "oýnalan"
+                ],
+                "Uzbek": [
+                    "oʻynalgan"
+                ],
+                "Uyghur": [
+                    "ئوينالغان",
+                    "ئوينالماقتا بولغان"
+                ],
+                "Kazakh": [
+                    "ойналған"
+                ],
+                "Kyrgyz": [
+                    "ойнолгон",
+                    "ойнолуучу"
+                ],
+                "Karakalpak": [
+                    "oynalǵan",
+                    "oynalǵan-kúlgen"
+                ],
+                "Tatar": [
+                    "уйналган",
+                    "уйнала торган"
+                ],
+                "Bashkir": [
+                    "уйналған",
+                    "уйнатылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "icra edilmiş"
+                ],
+                "Uzbek": [
+                    "ijro etilgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "keçirilmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өткізілген"
+                ]
+            }
+        }
+    ]
+}

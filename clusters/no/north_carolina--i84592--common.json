@@ -1,0 +1,72 @@
+{
+    "id": "i84592",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north carolina",
+    "en_definition": "a state in southeastern United States; one of the original 13 colonies",
+    "tr_word": "Kuzey Karolina",
+    "tr_definition": "Güneydoğu Amerika Birleşik Devletleri'nde bir eyalet; orijinal 13 koloniden biri",
+    "ru_word": "Северная Каролина",
+    "ru_definition": "штат на юго-востоке США; одна из первоначальных 13 колоний",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimali Karolina"
+                ],
+                "Uzbek": [
+                    "Shimoliy Karolina"
+                ],
+                "Uyghur": [
+                    "شىمالىي كارولىنا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "Түндүк Каролина"
+                ],
+                "Tatar": [
+                    "Төньяк Каролина"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Каролина"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Karolina"
+                ],
+                "Uyghur": [
+                    "شىمالىي كارولىنا شتاتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk Karolina"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Солтүстік Каролина"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Arqa Karolina"
+                ]
+            }
+        }
+    ]
+}

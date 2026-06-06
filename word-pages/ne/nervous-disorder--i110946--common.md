@@ -1,0 +1,150 @@
+# Nervous disorder
+| Field | Detail |
+|---|---|
+| **ID** | i110946 |
+| **English** | nervous disorder |
+| **Type** | noun |
+| **Definition** | a disorder of the nervous system |
+| **Source** | common |
+| **Ortatil** | asabilik |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **asabilik** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.57** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| асабилык | asabilık |
+| **Bashkir** | |
+| аһәңһеҙлек | ahäñhezlek |
+
+```json
+{
+    "id": "i110946",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nervous disorder",
+    "en_definition": "a disorder of the nervous system",
+    "tr_word": "sinir bozukluğu",
+    "tr_definition": "Sinir sisteminin işleyişindeki aksaklık veya rahatsızlık.",
+    "ru_word": "нервное расстройство",
+    "ru_definition": "Нарушение нормальной деятельности нервной системы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asabiyet",
+                    "asabiye"
+                ],
+                "Azerbaijani": [
+                    "əsəb xəstəliyi",
+                    "əsəb pozuntusu"
+                ],
+                "Turkmen": [
+                    "asabylyk"
+                ],
+                "Uzbek": [
+                    "asab kasalligi",
+                    "asab xastaligi",
+                    "asab buzilishi"
+                ],
+                "Uyghur": [
+                    "ئەسەب كېسىلى",
+                    "ئەسەبىي كېسەللىك"
+                ],
+                "Kyrgyz": [
+                    "асаб оорусу"
+                ],
+                "Karakalpak": [
+                    "asabiylesio"
+                ],
+                "Tatar": [
+                    "асабилык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nerw keseli",
+                    "nerw bozulmasy"
+                ],
+                "Uyghur": [
+                    "نېرۋا كېسىلى"
+                ],
+                "Kyrgyz": [
+                    "нерв оорусу",
+                    "нерв бузулушу"
+                ],
+                "Karakalpak": [
+                    "nerw keselligi",
+                    "nerw buzılıoı"
+                ],
+                "Tatar": [
+                    "нерв чире",
+                    "нерв авыруы"
+                ],
+                "Bashkir": [
+                    "нервы ауырыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sinir bozukluğu",
+                    "sinir hastalığı"
+                ],
+                "Azerbaijani": [
+                    "sinir xəstəliyi",
+                    "sinir pozuntusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жүйке ауруы",
+                    "жүйке бұзылуы",
+                    "жүйке сырқаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "күңел ауырыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аһәңһеҙлек"
+                ]
+            }
+        }
+    ]
+}
+```
+

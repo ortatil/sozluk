@@ -1,0 +1,97 @@
+{
+    "id": "i14553",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "alphabetic",
+    "en_definition": "relating to or expressed by a writing system that uses an alphabet",
+    "tr_word": "alfabetik",
+    "tr_definition": "bir alfabeyi kullanan bir yazı sistemiyle ilgili olan veya bu sistemle ifade edilen",
+    "ru_word": "алфавитный",
+    "ru_definition": "относящийся к системе письма, использующей алфавит, или выраженный ею",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alfabetik",
+                    "elifba sırasına göre"
+                ],
+                "Azerbaijani": [
+                    "əlifba",
+                    "əlifba sırası ilə"
+                ],
+                "Turkmen": [
+                    "elipbiý",
+                    "elipbiýli",
+                    "elipbiýe degişli"
+                ],
+                "Uzbek": [
+                    "alifbo",
+                    "alifboviy"
+                ],
+                "Uyghur": [
+                    "ئېلىپبەلىك",
+                    "ئېلىپبەگە ئائىت"
+                ],
+                "Kazakh": [
+                    "әліпбилік",
+                    "әліпбилі",
+                    "әліпби бойынша"
+                ],
+                "Kyrgyz": [
+                    "алфавиттик",
+                    "алиппелик"
+                ],
+                "Karakalpak": [
+                    "álipbelik",
+                    "álipbe boyınsha"
+                ],
+                "Tatar": [
+                    "әлифбалы"
+                ],
+                "Bashkir": [
+                    "әлифба",
+                    "әлифбалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərfli"
+                ],
+                "Uyghur": [
+                    "ھەرپلىك"
+                ],
+                "Karakalpak": [
+                    "xáriplik"
+                ],
+                "Tatar": [
+                    "хәрефле",
+                    "хәреф-хәрефләп"
+                ],
+                "Bashkir": [
+                    "хәреф"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "abecesel"
+                ],
+                "Uzbek": [
+                    "abjad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тамгалык"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "i51585",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "car wheel",
+    "en_definition": "a wheel that has a tire and rim and hubcap; used to propel the car",
+    "tr_word": "araba tekerleği",
+    "tr_definition": "Lastik, jant ve jant kapağından oluşan, otomobili hareket ettirmek için kullanılan tekerlek.",
+    "ru_word": "автомобильное колесо",
+    "ru_definition": "Колесо, состоящее из шины, обода и ступицы, используемое для приведения автомобиля в движение.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çark"
+                ],
+                "Azerbaijani": [
+                    "çarx"
+                ],
+                "Turkmen": [
+                    "çarh"
+                ],
+                "Uzbek": [
+                    "charx"
+                ],
+                "Uyghur": [
+                    "چاق"
+                ],
+                "Kazakh": [
+                    "шарх"
+                ],
+                "Kyrgyz": [
+                    "чарх"
+                ],
+                "Karakalpak": [
+                    "sharx"
+                ],
+                "Tatar": [
+                    "чарх"
+                ],
+                "Bashkir": [
+                    "чар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekerlek",
+                    "teker"
+                ],
+                "Azerbaijani": [
+                    "təkər"
+                ],
+                "Turkmen": [
+                    "tigir"
+                ],
+                "Tatar": [
+                    "тәгәрмәч"
+                ],
+                "Bashkir": [
+                    "тәгәрмәс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дөңгелек"
+                ],
+                "Kyrgyz": [
+                    "дөңгөлөк"
+                ],
+                "Karakalpak": [
+                    "dóńgelek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'ildirak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماشىنا چاقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төрткіл"
+                ]
+            }
+        }
+    ]
+}

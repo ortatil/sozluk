@@ -1,0 +1,97 @@
+{
+    "id": "i113300",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water pollution",
+    "en_definition": "pollution of the water in rivers and lakes",
+    "tr_word": "su kirliliği",
+    "tr_definition": "nehirlerdeki ve göllerdeki suyun kirlenmesi",
+    "ru_word": "загрязнение воды",
+    "ru_definition": "загрязнение воды в реках и озерах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su kirliliği",
+                    "su kirlenmesi"
+                ],
+                "Azerbaijani": [
+                    "su çirkliliyi"
+                ],
+                "Turkmen": [
+                    "suw hapalygy"
+                ],
+                "Uzbek": [
+                    "suv ifloslanishi",
+                    "suvning bulgʻanishi",
+                    "suv nopokligi"
+                ],
+                "Uyghur": [
+                    "سۇ بۇلغىنىشى",
+                    "سۇ كىرلىنىشى"
+                ],
+                "Kyrgyz": [
+                    "суу булгануусу"
+                ],
+                "Tatar": [
+                    "су пычрануы",
+                    "су пычрану"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwuň hapalanmagy"
+                ],
+                "Uyghur": [
+                    "سۇنىڭ بۇلغىنىشى"
+                ],
+                "Kazakh": [
+                    "судың ластануы",
+                    "судың былғануы",
+                    "судың арамдануы"
+                ],
+                "Kyrgyz": [
+                    "суунун булганышы",
+                    "суунун булганы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "suyun çirklənməsi",
+                    "suların kirlənməsi"
+                ],
+                "Turkmen": [
+                    "suwuň hapalanmasy"
+                ],
+                "Karakalpak": [
+                    "suodıń paslanıoı",
+                    "suodıń paslasıoı",
+                    "suodıń bulǵanıoı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "суларның пычрануы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу бысраныуы",
+                    "һыу бысратылыуы",
+                    "һыуҙың бысраныуы"
+                ]
+            }
+        }
+    ]
+}

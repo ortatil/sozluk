@@ -1,0 +1,99 @@
+{
+    "id": "i67649",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "average",
+    "en_definition": "an intermediate scale value regarded as normal or usual",
+    "tr_word": "ortalama",
+    "tr_definition": "normal veya olağan kabul edilen ara ölçek değeri",
+    "ru_word": "среднее значение",
+    "ru_definition": "промежуточное значение шкалы, рассматриваемое как нормальное или обычное",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ortalama"
+                ],
+                "Azerbaijani": [
+                    "orta",
+                    "ortalama"
+                ],
+                "Turkmen": [
+                    "orta",
+                    "ortalyk",
+                    "ortaçalyk"
+                ],
+                "Uzbek": [
+                    "oʻrtacha"
+                ],
+                "Uyghur": [
+                    "ئوتتۇرىچە",
+                    "ئوتتۇراھال"
+                ],
+                "Kazakh": [
+                    "орташа",
+                    "орта"
+                ],
+                "Kyrgyz": [
+                    "орточо",
+                    "орто",
+                    "ортолук"
+                ],
+                "Karakalpak": [
+                    "ortasha",
+                    "ortalıq",
+                    "orta"
+                ],
+                "Tatar": [
+                    "уртачалык",
+                    "уртача сан",
+                    "уртача дәрәҗә"
+                ],
+                "Bashkir": [
+                    "уртасалыҡ",
+                    "урталыҡ",
+                    "уртаса кимәл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vasat"
+                ],
+                "Azerbaijani": [
+                    "vəsət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "meʼyor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "moʻtadil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇۋاپىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қалыпты"
+                ]
+            }
+        }
+    ]
+}

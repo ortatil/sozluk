@@ -1,0 +1,79 @@
+{
+    "id": "i16771",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "east african",
+    "en_definition": "of or relating to or located in East Africa",
+    "tr_word": "Doğu Afrikalı",
+    "tr_definition": "Doğu Afrika ile ilgili veya Doğu Afrika'da bulunan",
+    "ru_word": "восточноафриканский",
+    "ru_definition": "относящийся к Восточной Африке или находящийся в ней",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şərqi afrikalı",
+                    "şərqi afrika"
+                ],
+                "Uzbek": [
+                    "sharqiy afrikalik",
+                    "sharqiy afrika"
+                ],
+                "Uyghur": [
+                    "شەرقىي ئافرىقىلىق"
+                ],
+                "Kazakh": [
+                    "шығыс африкалық",
+                    "шығыс африка"
+                ],
+                "Karakalpak": [
+                    "Shıǵıs Afrikalıq",
+                    "Shıǵıs Afrikaǵa tán"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Doğu Afrikalı",
+                    "Doğu Afrika ile ilgili"
+                ],
+                "Uyghur": [
+                    "شەرقىي ئافرىقىغا تەۋە"
+                ],
+                "Tatar": [
+                    "шәркый африка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көнчыгыш африка"
+                ],
+                "Bashkir": [
+                    "Көнсығыш Африка",
+                    "Көнсығыш Африканыҡы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Gündogar Afrika",
+                    "Gündogar Afrikaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Чыгыш Африкалык",
+                    "Чыгыш Африкага таандык"
+                ]
+            }
+        }
+    ]
+}

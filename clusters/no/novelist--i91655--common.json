@@ -1,0 +1,116 @@
+{
+    "id": "i91655",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "novelist",
+    "en_definition": "one who writes novels",
+    "tr_word": "romancı",
+    "tr_definition": "roman yazan kimse",
+    "ru_word": "романист",
+    "ru_definition": "автор романов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "romancı",
+                    "roman yazarı"
+                ],
+                "Azerbaijani": [
+                    "romançı",
+                    "roman yazarı"
+                ],
+                "Turkmen": [
+                    "romançy"
+                ],
+                "Uzbek": [
+                    "romannavis",
+                    "romanchi"
+                ],
+                "Uyghur": [
+                    "رومانچى",
+                    "رومان يازغۇچىسى"
+                ],
+                "Kazakh": [
+                    "романист"
+                ],
+                "Kyrgyz": [
+                    "романчы"
+                ],
+                "Karakalpak": [
+                    "romanshı"
+                ],
+                "Tatar": [
+                    "романчы",
+                    "роман язучы"
+                ],
+                "Bashkir": [
+                    "романсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ədib"
+                ],
+                "Uzbek": [
+                    "adib"
+                ],
+                "Uyghur": [
+                    "ئەدىب"
+                ],
+                "Kyrgyz": [
+                    "адип"
+                ],
+                "Karakalpak": [
+                    "ádip"
+                ],
+                "Tatar": [
+                    "әдип"
+                ],
+                "Bashkir": [
+                    "әҙип"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýazyjy"
+                ],
+                "Kazakh": [
+                    "жазушы"
+                ],
+                "Kyrgyz": [
+                    "жазуучу"
+                ],
+                "Karakalpak": [
+                    "jazıoshı"
+                ],
+                "Bashkir": [
+                    "яҙыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қаламгер"
+                ],
+                "Kyrgyz": [
+                    "калемгер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muharrir"
+                ]
+            }
+        }
+    ]
+}

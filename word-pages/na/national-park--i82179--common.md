@@ -1,0 +1,131 @@
+# National park
+| Field | Detail |
+|---|---|
+| **ID** | i82179 |
+| **English** | national park |
+| **Type** | noun |
+| **Definition** | a tract of land declared by the national government to be public property |
+| **Source** | common |
+| **Ortatil** | koruw |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i82179",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "national park",
+    "en_definition": "a tract of land declared by the national government to be public property",
+    "tr_word": "milli park",
+    "tr_definition": "devlet tarafından koruma altına alınan, doğal güzelliği veya tarihi önemi olan arazi parçası",
+    "ru_word": "национальный парк",
+    "ru_definition": "территория, где в целях охраны окружающей среды ограничена деятельность человека",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milli park"
+                ],
+                "Azerbaijani": [
+                    "milli park",
+                    "milli qoruq"
+                ],
+                "Turkmen": [
+                    "milli seýilgäh",
+                    "milli bag"
+                ],
+                "Uzbek": [
+                    "milliy bog'",
+                    "milliy park"
+                ],
+                "Karakalpak": [
+                    "milliy baǵ",
+                    "milliy parki"
+                ],
+                "Tatar": [
+                    "милли парк",
+                    "милли тыюлык"
+                ],
+                "Bashkir": [
+                    "милли парк",
+                    "милли баҡса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dövlət qoruğu"
+                ],
+                "Turkmen": [
+                    "döwlet goraghanasy"
+                ],
+                "Uzbek": [
+                    "davlat qo'riqxonasi"
+                ],
+                "Uyghur": [
+                    "دۆلەت باغچىسى",
+                    "دۆلەتلىك باغچا",
+                    "دۆلەتلىك ئارامگاھ"
+                ],
+                "Tatar": [
+                    "дәүләт тыюлыгы"
+                ],
+                "Bashkir": [
+                    "дәүләт ҡурсаулығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ulusal park"
+                ],
+                "Kazakh": [
+                    "ұлттық саябақ",
+                    "ұлттық бақ"
+                ],
+                "Kyrgyz": [
+                    "улуттук парк",
+                    "улуттук бак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мемлекеттік бақ"
+                ],
+                "Kyrgyz": [
+                    "мамлекеттик корук"
+                ],
+                "Karakalpak": [
+                    "mámleketlik baǵ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tabiat parkı"
+                ]
+            }
+        }
+    ]
+}
+```
+

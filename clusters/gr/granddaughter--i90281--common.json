@@ -1,0 +1,101 @@
+{
+    "id": "i90281",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "granddaughter",
+    "en_definition": "a female grandchild",
+    "tr_word": "kız torun",
+    "tr_definition": "Bir kimsenin çocuğunun kız çocuğu",
+    "ru_word": "внучка",
+    "ru_definition": "дочь сына или дочери",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qız nəvə"
+                ],
+                "Turkmen": [
+                    "gyz agtyk"
+                ],
+                "Uzbek": [
+                    "qiz nabira"
+                ],
+                "Kazakh": [
+                    "қыз немере"
+                ],
+                "Kyrgyz": [
+                    "кыз небере"
+                ],
+                "Karakalpak": [
+                    "qız nábere"
+                ],
+                "Tatar": [
+                    "кыз онык"
+                ],
+                "Bashkir": [
+                    "ҡыҙ ейән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəvə"
+                ],
+                "Uzbek": [
+                    "nabira"
+                ],
+                "Uyghur": [
+                    "نەۋرە قىز",
+                    "نەۋرە"
+                ],
+                "Kyrgyz": [
+                    "небере кыз"
+                ],
+                "Karakalpak": [
+                    "nábere qız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kız torun",
+                    "torun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "agtyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "немере",
+                    "немере қыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "онык",
+                    "оныкчык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ейәнсәр"
+                ]
+            }
+        }
+    ]
+}

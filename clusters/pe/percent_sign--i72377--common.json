@@ -1,0 +1,83 @@
+{
+    "id": "i72377",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "percent sign",
+    "en_definition": "a sign (`%') used to indicate that the number preceding it should be understood as a proportion multiplied by 100",
+    "tr_word": "yüzde işareti",
+    "tr_definition": "Önündeki sayının 100 ile çarpılan bir oranı temsil ettiğini belirtmek için kullanılan (%) işareti.",
+    "ru_word": "знак процента",
+    "ru_definition": "Символ (%) для обозначения доли, выраженной в сотых частях целого.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پىرسەنت بەلگىسى",
+                    "پىرسەنت ئىشارىتى",
+                    "پىرسەنت نامى"
+                ],
+                "Karakalpak": [
+                    "procent belgisi"
+                ],
+                "Tatar": [
+                    "процент билгесе"
+                ],
+                "Bashkir": [
+                    "процент билдәһе",
+                    "процент тамғаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "faiz işarəsi",
+                    "faiz rəmzi"
+                ],
+                "Turkmen": [
+                    "faiz belgisi"
+                ],
+                "Uzbek": [
+                    "foiz belgisi",
+                    "foiz ishorasi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "пайыз белгісі",
+                    "пайыз таңбасы"
+                ],
+                "Kyrgyz": [
+                    "пайыз белгиси",
+                    "пайыздык белги"
+                ],
+                "Karakalpak": [
+                    "payız belgisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yüzde işareti",
+                    "yüzde simgesi"
+                ],
+                "Tatar": [
+                    "йөзлек билгесе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "göterim belgisi"
+                ]
+            }
+        }
+    ]
+}

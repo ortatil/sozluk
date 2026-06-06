@@ -1,0 +1,162 @@
+# Stringed instrument
+| Field | Detail |
+|---|---|
+| **ID** | i59691 |
+| **English** | stringed instrument |
+| **Type** | noun |
+| **Definition** | a musical instrument in which taut strings provide the source of sound |
+| **Source** | common |
+| **Ortatil** | saz |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **saz** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| шертер | şerter |
+| **Kyrgyz** | |
+| саз | saz |
+| **Bashkir** | |
+| саз | saz |
+
+```json
+{
+    "id": "i59691",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stringed instrument",
+    "en_definition": "a musical instrument in which taut strings provide the source of sound",
+    "tr_word": "telli çalgı",
+    "tr_definition": "sesin gerilmiş teller aracılığıyla üretildiği müzik aleti",
+    "ru_word": "струнный инструмент",
+    "ru_definition": "музыкальный инструмент, в котором источником звука являются натянутые струны",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telli çalgı",
+                    "telli enstrüman"
+                ],
+                "Azerbaijani": [
+                    "telli alət"
+                ],
+                "Turkmen": [
+                    "tarly saz guraly",
+                    "tarly gural"
+                ],
+                "Uzbek": [
+                    "torli cholgʻu",
+                    "torli soz"
+                ],
+                "Uyghur": [
+                    "تارلىق چالغۇ",
+                    "تارلىق ساز",
+                    "تارلىق مۇزىكا قورالى"
+                ],
+                "Karakalpak": [
+                    "tarlı saz ásbabı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saz"
+                ],
+                "Turkmen": [
+                    "saz guraly"
+                ],
+                "Kyrgyz": [
+                    "саз"
+                ],
+                "Karakalpak": [
+                    "saz ásbabı"
+                ],
+                "Bashkir": [
+                    "саз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қылды аспап"
+                ],
+                "Kyrgyz": [
+                    "кылдуу аспап"
+                ],
+                "Tatar": [
+                    "кыллы уен коралы",
+                    "кыллы саз",
+                    "кыллы инструмент"
+                ],
+                "Bashkir": [
+                    "ҡыллы ҡорал",
+                    "ҡыллы музыка ҡоралы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шертер"
+                ],
+                "Kyrgyz": [
+                    "чертме аспап"
+                ],
+                "Karakalpak": [
+                    "shertpeli saz ásbabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çalğı aləti"
+                ],
+                "Uzbek": [
+                    "cholgʻu asbobi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "simli alət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ішекті аспап"
+                ]
+            }
+        }
+    ]
+}
+```
+

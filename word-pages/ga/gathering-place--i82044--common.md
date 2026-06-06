@@ -1,0 +1,264 @@
+# Gathering place
+| Field | Detail |
+|---|---|
+| **ID** | i82044 |
+| **English** | gathering place |
+| **Type** | noun |
+| **Definition** | a favorite haunt where people gather |
+| **Source** | common |
+| **Ortatil** | mäkan, mäclisgäh |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **mäkan** | **mäclisgäh** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 1 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 0.60 | 0.40 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **3.60** | **3.40** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مەجلىسگاھ | mäjlisgah |
+| مەيدان | mäydan |
+| جامائەتگاھ | jamaätgah |
+| سورۇن | sorun |
+| **Kazakh** | |
+| мәжмә | mäjmä |
+| орталық | ortalıq |
+| **Kyrgyz** | |
+| мейманкана | meymankana |
+| жыйын | jıyın |
+| жай | jay |
+| ордо | ordo |
+| чогулуш | çoguluş |
+| **Tatar** | |
+| мәйдан | mäydan |
+| **Bashkir** | |
+| туҡталҡа | tuqtalqa |
+
+```json
+{
+    "id": "i82044",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gathering place",
+    "en_definition": "a favorite haunt where people gather",
+    "tr_word": "toplanma yeri",
+    "tr_definition": "insanların bir araya geldiği veya sıkça uğradığı yer",
+    "ru_word": "место сбора",
+    "ru_definition": "излюбленное место, где собираются люди",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meclis"
+                ],
+                "Azerbaijani": [
+                    "məclisgah"
+                ],
+                "Turkmen": [
+                    "mejlis"
+                ],
+                "Uzbek": [
+                    "majlisgoh"
+                ],
+                "Uyghur": [
+                    "مەجلىسگاھ"
+                ],
+                "Kazakh": [
+                    "мәжіліс орны",
+                    "мәжмә"
+                ],
+                "Karakalpak": [
+                    "másláhátxana"
+                ],
+                "Tatar": [
+                    "мәҗлес урыны"
+                ],
+                "Bashkir": [
+                    "мәжлес урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mekân",
+                    "mahfil"
+                ],
+                "Azerbaijani": [
+                    "məhfil",
+                    "məkan"
+                ],
+                "Turkmen": [
+                    "mekan"
+                ],
+                "Uzbek": [
+                    "maskan"
+                ],
+                "Uyghur": [
+                    "مەيدان"
+                ],
+                "Kyrgyz": [
+                    "мейманкана"
+                ],
+                "Karakalpak": [
+                    "mákan"
+                ],
+                "Tatar": [
+                    "мәйдан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yığıncaq yeri"
+                ],
+                "Turkmen": [
+                    "ýygnanyşylýan ýer"
+                ],
+                "Uzbek": [
+                    "yigʻinjoy"
+                ],
+                "Uyghur": [
+                    "يىغىلىش ئورنى"
+                ],
+                "Kyrgyz": [
+                    "жыйын",
+                    "жай"
+                ],
+                "Tatar": [
+                    "җыен урыны"
+                ],
+                "Bashkir": [
+                    "йыйын урыны",
+                    "йыйылыш урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jem bolunýan ýer"
+                ],
+                "Uzbek": [
+                    "jamgoh"
+                ],
+                "Uyghur": [
+                    "جامائەتگاھ"
+                ],
+                "Karakalpak": [
+                    "jámlesetuǵın jer"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "toplanma yeri"
+                ],
+                "Azerbaijani": [
+                    "toplantı yeri"
+                ],
+                "Tatar": [
+                    "туплану урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ojak"
+                ],
+                "Kyrgyz": [
+                    "ордо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uğrak yeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oshiyon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سورۇن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жиын орны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бас қосатын жер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "орталық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чогулуш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "otırıs ornı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "туҡталҡа"
+                ]
+            }
+        }
+    ]
+}
+```
+

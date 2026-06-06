@@ -1,0 +1,71 @@
+{
+    "id": "i108692",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "british monetary unit",
+    "en_definition": "monetary unit in Great Britain",
+    "tr_word": "İngiliz para birimi",
+    "tr_definition": "Büyük Britanya'da kullanılan resmi para birimi",
+    "ru_word": "британская денежная единица",
+    "ru_definition": "денежная единица Великобритании",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "paund"
+                ],
+                "Azerbaijani": [
+                    "funt",
+                    "funt sterlinq"
+                ],
+                "Turkmen": [
+                    "funt",
+                    "funt sterling"
+                ],
+                "Uzbek": [
+                    "funt",
+                    "funt sterling"
+                ],
+                "Uyghur": [
+                    "فوندستېرلىڭ",
+                    "فوند"
+                ],
+                "Kazakh": [
+                    "фунт",
+                    "фунт стерлинг"
+                ],
+                "Kyrgyz": [
+                    "фунт",
+                    "фунт стерлинг"
+                ],
+                "Karakalpak": [
+                    "funt",
+                    "funt sterling"
+                ],
+                "Tatar": [
+                    "фунт",
+                    "фунт стерлинг"
+                ],
+                "Bashkir": [
+                    "фунт",
+                    "фунт стерлинг"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sterlin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ingiliz lirası"
+                ]
+            }
+        }
+    ]
+}

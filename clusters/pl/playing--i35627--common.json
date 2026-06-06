@@ -1,0 +1,88 @@
+{
+    "id": "i35627",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "playing",
+    "en_definition": "the action of taking part in a game or sport or other recreation",
+    "tr_word": "oynama",
+    "tr_definition": "Bir oyun, spor veya eğlence etkinliğinde yer alma eylemi",
+    "ru_word": "игра",
+    "ru_definition": "действие по участию в игре, спорте или другом развлечении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyun",
+                    "oynama"
+                ],
+                "Azerbaijani": [
+                    "oyun",
+                    "oynama",
+                    "oynamaq"
+                ],
+                "Turkmen": [
+                    "oýun",
+                    "oýnama",
+                    "oýnamaklyk"
+                ],
+                "Uzbek": [
+                    "o'yin",
+                    "o'ynash"
+                ],
+                "Uyghur": [
+                    "ئويناش",
+                    "ئويۇن"
+                ],
+                "Kazakh": [
+                    "ойын",
+                    "ойнау"
+                ],
+                "Kyrgyz": [
+                    "оюн",
+                    "ойноо",
+                    "ойноочулук"
+                ],
+                "Karakalpak": [
+                    "oyın",
+                    "oynau"
+                ],
+                "Tatar": [
+                    "уйнау",
+                    "уен"
+                ],
+                "Bashkir": [
+                    "уйын",
+                    "уйнау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eğlence"
+                ],
+                "Azerbaijani": [
+                    "əyləncə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko'ngilochar"
+                ],
+                "Bashkir": [
+                    "күңел асыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ермек"
+                ]
+            }
+        }
+    ]
+}

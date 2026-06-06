@@ -1,0 +1,141 @@
+{
+    "id": "i31376",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "test drive",
+    "en_definition": "test a vehicle by driving it",
+    "tr_word": "test sürüşü yapmak",
+    "tr_definition": "bir aracı performansını kontrol etmek amacıyla sürmek",
+    "ru_word": "совершать пробную поездку",
+    "ru_definition": "протестировать транспортное средство, управляя им",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sınaq yürüşü etmək",
+                    "sınaqdan keçirmək"
+                ],
+                "Turkmen": [
+                    "synap görmek"
+                ],
+                "Uzbek": [
+                    "sinab ko'rmoq"
+                ],
+                "Uyghur": [
+                    "سىناپ ھەيدەش"
+                ],
+                "Kazakh": [
+                    "сынап көру"
+                ],
+                "Kyrgyz": [
+                    "сынап көрүү"
+                ],
+                "Karakalpak": [
+                    "sınap kório",
+                    "sınao"
+                ],
+                "Tatar": [
+                    "сынап карау"
+                ],
+                "Bashkir": [
+                    "һынап ҡарау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "айдап көру"
+                ],
+                "Kyrgyz": [
+                    "айдап көрүү",
+                    "айдап текшерүү"
+                ],
+                "Karakalpak": [
+                    "aydap kório"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жүргізіп көру"
+                ],
+                "Tatar": [
+                    "йөртеп карау"
+                ],
+                "Bashkir": [
+                    "йөрөтөп ҡарау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "haydab ko'rmoq"
+                ],
+                "Uyghur": [
+                    "ھەيدەپ سىناپ كۆرۈش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "minib ko'rmoq"
+                ],
+                "Uyghur": [
+                    "مىنىپ سىناش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тикшереп карау"
+                ],
+                "Bashkir": [
+                    "тикшереп ҡарау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deneme sürüşü yapmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "test sürüşü yapmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yoxlama sürüşü etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sürüp görmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "barlap görmek"
+                ]
+            }
+        }
+    ]
+}

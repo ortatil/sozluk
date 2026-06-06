@@ -1,0 +1,184 @@
+{
+    "id": "i93430",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sultan",
+    "en_definition": "the ruler of a Muslim country (especially of the former Ottoman Empire)",
+    "tr_word": "sultan",
+    "tr_definition": "Müslüman bir ülkenin, özellikle de eski Osmanlı İmparatorluğu'nun hükümdarı.",
+    "ru_word": "султан",
+    "ru_definition": "титул мусульманского правителя, особенно в бывшей Османской империи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "padişah"
+                ],
+                "Azerbaijani": [
+                    "padşah"
+                ],
+                "Turkmen": [
+                    "patyşa"
+                ],
+                "Uzbek": [
+                    "podshoh"
+                ],
+                "Uyghur": [
+                    "پادىشاھ"
+                ],
+                "Kazakh": [
+                    "патша"
+                ],
+                "Kyrgyz": [
+                    "падыша"
+                ],
+                "Karakalpak": [
+                    "patsha"
+                ],
+                "Tatar": [
+                    "патша"
+                ],
+                "Bashkir": [
+                    "батша"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sultan"
+                ],
+                "Turkmen": [
+                    "soltan"
+                ],
+                "Uzbek": [
+                    "sulton"
+                ],
+                "Uyghur": [
+                    "سۇلتان"
+                ],
+                "Kazakh": [
+                    "сұлтан"
+                ],
+                "Kyrgyz": [
+                    "султан"
+                ],
+                "Karakalpak": [
+                    "sultan"
+                ],
+                "Tatar": [
+                    "солтан"
+                ],
+                "Bashkir": [
+                    "солтан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hükümdar"
+                ],
+                "Azerbaijani": [
+                    "hökmdar"
+                ],
+                "Turkmen": [
+                    "hökümdar"
+                ],
+                "Uzbek": [
+                    "hukmdor"
+                ],
+                "Uyghur": [
+                    "ھۆكۈمدار"
+                ],
+                "Kyrgyz": [
+                    "өкүмдар"
+                ],
+                "Tatar": [
+                    "хөкүмәтдар"
+                ],
+                "Bashkir": [
+                    "хөкөмдар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hakan",
+                    "han"
+                ],
+                "Azerbaijani": [
+                    "xaqan"
+                ],
+                "Turkmen": [
+                    "han"
+                ],
+                "Uzbek": [
+                    "xoqon"
+                ],
+                "Uyghur": [
+                    "خان"
+                ],
+                "Kazakh": [
+                    "хан"
+                ],
+                "Kyrgyz": [
+                    "хан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "билеуші"
+                ],
+                "Karakalpak": [
+                    "bileushi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хаким"
+                ],
+                "Bashkir": [
+                    "хаким"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "melik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şah"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "amir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "xámme"
+                ]
+            }
+        }
+    ]
+}

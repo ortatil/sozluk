@@ -1,0 +1,100 @@
+{
+    "id": "i78235",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "turmeric",
+    "en_definition": "ground dried rhizome of the turmeric plant used as seasoning",
+    "tr_word": "zerdeçal",
+    "tr_definition": "Zencefilgillerden, kök saplarından safran renginde bir boya çıkarılan, baharat olarak da kullanılan çok yıllık bir bitki.",
+    "ru_word": "куркума",
+    "ru_definition": "Травянистое растение семейства имбирных, а также порошок из его корня, используемый как пряность и краситель.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zerdeçal",
+                    "zerdeçöp"
+                ],
+                "Azerbaijani": [
+                    "sarıkök",
+                    "zərdəçal"
+                ],
+                "Turkmen": [
+                    "zerdeçawa",
+                    "saryköp"
+                ],
+                "Uzbek": [
+                    "zarchava"
+                ],
+                "Uyghur": [
+                    "زەرچىۋە"
+                ],
+                "Kazakh": [
+                    "сары тамыр",
+                    "зәрде"
+                ],
+                "Kyrgyz": [
+                    "зарча"
+                ],
+                "Karakalpak": [
+                    "sarı tamır",
+                    "zarchawa"
+                ],
+                "Tatar": [
+                    "сары тамыр"
+                ],
+                "Bashkir": [
+                    "һары тамыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kurkuma"
+                ],
+                "Uzbek": [
+                    "kurkuma"
+                ],
+                "Kazakh": [
+                    "күркума"
+                ],
+                "Kyrgyz": [
+                    "куркума"
+                ],
+                "Karakalpak": [
+                    "kurkuma"
+                ],
+                "Tatar": [
+                    "куркума"
+                ],
+                "Bashkir": [
+                    "куркума"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hint safranı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چۆچۈت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зәгъфран"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "id": "i78148",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "potato salad",
+    "en_definition": "any of various salads having chopped potatoes as the base",
+    "tr_word": "patates salatası",
+    "tr_definition": "Haşlanmış patateslerin doğranarak çeşitli sebze ve soslarla karıştırılmasıyla hazırlanan bir salata türü.",
+    "ru_word": "картофельный салат",
+    "ru_definition": "Блюдо, приготовленное из варёного картофеля с добавлением овощей, яиц и заправки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kartof salatı"
+                ],
+                "Turkmen": [
+                    "kartofelli salat"
+                ],
+                "Uzbek": [
+                    "kartoshkali salat",
+                    "kartoshka salati"
+                ],
+                "Kazakh": [
+                    "картоп салаты",
+                    "картоп қосылған салат"
+                ],
+                "Kyrgyz": [
+                    "картошка салаты",
+                    "картошка чайытмасы"
+                ],
+                "Karakalpak": [
+                    "kartoshkalı salat",
+                    "kartoshka salatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yer alması salatı"
+                ],
+                "Turkmen": [
+                    "ýerarmytly salat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәрәңге салаты"
+                ],
+                "Bashkir": [
+                    "бәрәңге салаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "patates salatası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياڭيۇ سالاتى",
+                    "ياڭيۇ سالات"
+                ]
+            }
+        }
+    ]
+}

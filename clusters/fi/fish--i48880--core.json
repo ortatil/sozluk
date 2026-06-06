@@ -1,0 +1,72 @@
+{
+    "id": "i48880",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "fish",
+    "en_definition": "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills",
+    "tr_word": "balık",
+    "tr_definition": "Genellikle pullu, solungaçla nefes alan, soğukkanlı, suda yaşayan omurgalı hayvanların genel adı.",
+    "ru_word": "рыба",
+    "ru_definition": "Холоднокровное водное позвоночное животное с жабрами и обычно покрытое чешуей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balık"
+                ],
+                "Azerbaijani": [
+                    "balıq"
+                ],
+                "Turkmen": [
+                    "balyk"
+                ],
+                "Uzbek": [
+                    "baliq"
+                ],
+                "Uyghur": [
+                    "بېلىق"
+                ],
+                "Kazakh": [
+                    "балық"
+                ],
+                "Kyrgyz": [
+                    "балык"
+                ],
+                "Karakalpak": [
+                    "balıq"
+                ],
+                "Tatar": [
+                    "балык"
+                ],
+                "Bashkir": [
+                    "балыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mahi"
+                ],
+                "Uyghur": [
+                    "ماھى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "su heyvanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hut"
+                ]
+            }
+        }
+    ]
+}

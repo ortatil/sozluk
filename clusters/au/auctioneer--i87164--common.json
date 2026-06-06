@@ -1,0 +1,137 @@
+{
+    "id": "i87164",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "auctioneer",
+    "en_definition": "an agent who conducts an auction",
+    "tr_word": "müzayedeci",
+    "tr_definition": "açık artırmayı yöneten ve satış yapan görevli kişi",
+    "ru_word": "аукционист",
+    "ru_definition": "лицо, проводящее аукцион и объявляющее цены",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jarçy"
+                ],
+                "Uzbek": [
+                    "jarchi"
+                ],
+                "Uyghur": [
+                    "جارچى"
+                ],
+                "Kazakh": [
+                    "жариялаушы"
+                ],
+                "Kyrgyz": [
+                    "жарыялоочу"
+                ],
+                "Karakalpak": [
+                    "jariyalaushı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müzayedeci",
+                    "münadi"
+                ],
+                "Azerbaijani": [
+                    "münadi",
+                    "müzayidəçi"
+                ],
+                "Turkmen": [
+                    "müzayedeçi"
+                ],
+                "Tatar": [
+                    "мөнади"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dellal"
+                ],
+                "Uzbek": [
+                    "dallol"
+                ],
+                "Uyghur": [
+                    "دەللال"
+                ],
+                "Karakalpak": [
+                    "deldal"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "аукциончу"
+                ],
+                "Tatar": [
+                    "аукциончы"
+                ],
+                "Bashkir": [
+                    "аукционсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mezatçı"
+                ],
+                "Uzbek": [
+                    "mizob"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hərracçı"
+                ],
+                "Uyghur": [
+                    "ھەراجچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бәсші"
+                ],
+                "Karakalpak": [
+                    "báslásperushi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саудагер"
+                ],
+                "Bashkir": [
+                    "сауҙа ойоштороусы",
+                    "сауҙа башлығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сатуучу"
+                ],
+                "Tatar": [
+                    "сатучы"
+                ]
+            }
+        }
+    ]
+}

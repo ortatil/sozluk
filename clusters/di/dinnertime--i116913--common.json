@@ -1,0 +1,113 @@
+{
+    "id": "i116913",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dinnertime",
+    "en_definition": "the customary or habitual hour for the evening meal",
+    "tr_word": "akşam yemeği vakti",
+    "tr_definition": "akşam yemeğinin yendiği alışılmış veya geleneksel zaman",
+    "ru_word": "время ужина",
+    "ru_definition": "привычное или традиционное время для вечернего приема пищи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kechki ovqat vaqti"
+                ],
+                "Uyghur": [
+                    "كەچلىك تاماق ۋاقتى"
+                ],
+                "Kazakh": [
+                    "кешкі ас уақыты",
+                    "кешкі ас мезгілі",
+                    "кешкі ас"
+                ],
+                "Kyrgyz": [
+                    "кечки тамак убактысы",
+                    "кечки оокат маалы",
+                    "кечки тамак маалы"
+                ],
+                "Karakalpak": [
+                    "keshki as oaqtı"
+                ],
+                "Tatar": [
+                    "кичке аш вакыты",
+                    "кичке аш"
+                ],
+                "Bashkir": [
+                    "киске аш ваҡыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taam vakti"
+                ],
+                "Azerbaijani": [
+                    "şam vaxtı",
+                    "şam çağı"
+                ],
+                "Uzbek": [
+                    "shom vaqti",
+                    "taom vaqti"
+                ],
+                "Uyghur": [
+                    "شام تاماق ۋاقتى"
+                ],
+                "Karakalpak": [
+                    "sham oaqtı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akşam yemeği vakti",
+                    "akşam yemeği saati"
+                ],
+                "Azerbaijani": [
+                    "axşam yeməyi vaxtı"
+                ],
+                "Turkmen": [
+                    "agşamlyk wagty",
+                    "agşam naharynyň wagty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аш вакыты"
+                ],
+                "Bashkir": [
+                    "аш ваҡыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nahar wagty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاماق ۋاقتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aoqat oaqtı"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "id": "i56236",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "military vehicle",
+    "en_definition": "vehicle used by the armed forces",
+    "tr_word": "askeri araç",
+    "tr_definition": "silahlı kuvvetler tarafından kullanılan araç",
+    "ru_word": "военная машина",
+    "ru_definition": "транспортное средство, используемое вооруженными силами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harp vasıtası"
+                ],
+                "Azerbaijani": [
+                    "hərbi nəqliyyat vasitəsi",
+                    "hərbi texnika"
+                ],
+                "Turkmen": [
+                    "harby ulag"
+                ],
+                "Uzbek": [
+                    "harbiy ulov",
+                    "harbiy texnika"
+                ],
+                "Uyghur": [
+                    "ھەربىي ماشىنا"
+                ],
+                "Tatar": [
+                    "хәрби машина",
+                    "хәрби техника"
+                ],
+                "Bashkir": [
+                    "хәрби техника",
+                    "хәрби улау",
+                    "хәрби күсеү сараһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "askeri araç"
+                ],
+                "Kazakh": [
+                    "әскери көлік",
+                    "әскери техника"
+                ],
+                "Kyrgyz": [
+                    "аскердик унаа",
+                    "аскер унаасы"
+                ],
+                "Karakalpak": [
+                    "asker kóligi",
+                    "asker texnikası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söweşjeň ulag"
+                ],
+                "Kyrgyz": [
+                    "согуштук унаа"
+                ],
+                "Tatar": [
+                    "сугыш машинасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jangovar ulov"
+                ],
+                "Uyghur": [
+                    "جەڭگىۋار ماشىنا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ordu taşıtı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "döyüş maşını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşun ulagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوراللىق ماشىنا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "соғыс көлігі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jaoıngerlik kólik"
+                ]
+            }
+        }
+    ]
+}

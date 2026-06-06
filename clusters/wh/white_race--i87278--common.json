@@ -1,0 +1,74 @@
+{
+    "id": "i87278",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white race",
+    "en_definition": "a light-skinned race",
+    "tr_word": "beyaz ırk",
+    "tr_definition": "açık tenli insanlardan oluşan ırk",
+    "ru_word": "белая раса",
+    "ru_definition": "раса людей со светлой кожей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak ırk"
+                ],
+                "Azerbaijani": [
+                    "ağ irq",
+                    "ağ dərili"
+                ],
+                "Turkmen": [
+                    "ak jyns"
+                ],
+                "Uzbek": [
+                    "oq tanli",
+                    "oq irq"
+                ],
+                "Uyghur": [
+                    "ئاق نەسلى",
+                    "ئاق تەنلىك ئىرقى"
+                ],
+                "Kazakh": [
+                    "ақ нәсіл",
+                    "ақ түсті нәсіл"
+                ],
+                "Kyrgyz": [
+                    "ак раса",
+                    "ак түстүү адамдар",
+                    "ак терилүүлөр"
+                ],
+                "Karakalpak": [
+                    "aq násil",
+                    "aq tánliler"
+                ],
+                "Tatar": [
+                    "ак тәнлеләр",
+                    "ак нәсел"
+                ],
+                "Bashkir": [
+                    "аҡ раса",
+                    "аҡ тәнлеләр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ak tenliler"
+                ],
+                "Uyghur": [
+                    "ئاق تەنلىكلەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz ırk"
+                ]
+            }
+        }
+    ]
+}

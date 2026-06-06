@@ -1,0 +1,66 @@
+{
+    "id": "i36023",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "belching",
+    "en_definition": "a reflex that expels gas noisily from the stomach through the mouth",
+    "tr_word": "geğirme",
+    "tr_definition": "midede biriken gazın ağızdan gürültülü bir şekilde dışarı atılması",
+    "ru_word": "отрыжка",
+    "ru_definition": "непроизвольное выделение газа из желудка через рот, часто сопровождающееся характерным звуком",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geğirme",
+                    "geğirti",
+                    "geğiriş"
+                ],
+                "Azerbaijani": [
+                    "gəyirmə",
+                    "gəyirti"
+                ],
+                "Turkmen": [
+                    "gägiriş",
+                    "gägirmeklik"
+                ],
+                "Uzbek": [
+                    "kekirik",
+                    "kekirish"
+                ],
+                "Kazakh": [
+                    "кекірік",
+                    "кекіру"
+                ],
+                "Kyrgyz": [
+                    "кекирүү",
+                    "кекирик"
+                ],
+                "Karakalpak": [
+                    "kekіrіk",
+                    "kekіru"
+                ],
+                "Tatar": [
+                    "кикерү"
+                ],
+                "Bashkir": [
+                    "кикереү",
+                    "кикертеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كىرەك",
+                    "كىرەك ئېتىش",
+                    "كىرەك كېلىش"
+                ],
+                "Tatar": [
+                    "керекү"
+                ]
+            }
+        }
+    ]
+}

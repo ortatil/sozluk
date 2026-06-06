@@ -1,0 +1,96 @@
+# Farmington
+| Field | Detail |
+|---|---|
+| **ID** | i84534 |
+| **English** | farmington |
+| **Type** | noun |
+| **Definition** | a town in northwestern New Mexico |
+| **Source** | common |
+| **Ortatil** | farmiñtoñ |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **farmiñtoñ** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| فارمىڭتون | farmiñton |
+| **Kazakh** | |
+| Фармингтон | farmington |
+| **Kyrgyz** | |
+| Фармингтон | farmington |
+| **Tatar** | |
+| Фармингтон | farmington |
+| **Bashkir** | |
+| Фармингтон | farmington |
+
+```json
+{
+    "id": "i84534",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "farmington",
+    "en_definition": "a town in northwestern New Mexico",
+    "tr_word": "Farmington",
+    "tr_definition": "New Mexico'nun kuzeybatısında yer alan bir kasaba",
+    "ru_word": "Фармингтон",
+    "ru_definition": "город на северо-западе штата Нью-Мексико",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Farmington şehri",
+                    "Farmington kasabası"
+                ],
+                "Azerbaijani": [
+                    "Farmington"
+                ],
+                "Turkmen": [
+                    "Farmington"
+                ],
+                "Uzbek": [
+                    "Farmington"
+                ],
+                "Uyghur": [
+                    "فارمىڭتون"
+                ],
+                "Kazakh": [
+                    "Фармингтон"
+                ],
+                "Kyrgyz": [
+                    "Фармингтон"
+                ],
+                "Karakalpak": [
+                    "Farmington"
+                ],
+                "Tatar": [
+                    "Фармингтон"
+                ],
+                "Bashkir": [
+                    "Фармингтон"
+                ]
+            }
+        }
+    ]
+}
+```
+

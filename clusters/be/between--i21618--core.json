@@ -1,0 +1,109 @@
+{
+    "id": "i21618",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "between",
+    "en_definition": "in the interval",
+    "tr_word": "arada",
+    "tr_definition": "iki şeyin veya zamanın ortasında, aralıkta",
+    "ru_word": "между",
+    "ru_definition": "в промежутке времени или пространства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arada",
+                    "arasında"
+                ],
+                "Azerbaijani": [
+                    "arasında",
+                    "arada"
+                ],
+                "Turkmen": [
+                    "arasynda"
+                ],
+                "Uzbek": [
+                    "orada",
+                    "orasida"
+                ],
+                "Uyghur": [
+                    "ئارا"
+                ],
+                "Kazakh": [
+                    "арасында"
+                ],
+                "Kyrgyz": [
+                    "арасында"
+                ],
+                "Karakalpak": [
+                    "arasında"
+                ],
+                "Tatar": [
+                    "арасында",
+                    "арада"
+                ],
+                "Bashkir": [
+                    "араһында",
+                    "арала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aralykda"
+                ],
+                "Uyghur": [
+                    "ئارىلىقتا"
+                ],
+                "Kazakh": [
+                    "аралықта"
+                ],
+                "Karakalpak": [
+                    "aralıqta"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'rtada",
+                    "o'rtasida"
+                ],
+                "Uyghur": [
+                    "ئوتتۇرىدا"
+                ],
+                "Kazakh": [
+                    "ортасында"
+                ],
+                "Kyrgyz": [
+                    "ортосунда"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mabeyninde"
+                ],
+                "Azerbaijani": [
+                    "mabeynində"
+                ],
+                "Uzbek": [
+                    "mabaynida"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "araçäkde"
+                ]
+            }
+        }
+    ]
+}

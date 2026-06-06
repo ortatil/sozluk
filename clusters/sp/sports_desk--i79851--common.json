@@ -1,0 +1,71 @@
+{
+    "id": "i79851",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sports desk",
+    "en_definition": "the editorial department of a newspaper that edits the sports news",
+    "tr_word": "spor servisi",
+    "tr_definition": "bir gazetenin spor haberlerini düzenleyen yazı işleri bölümü",
+    "ru_word": "отдел спорта",
+    "ru_definition": "редакционный отдел газеты, занимающийся подготовкой и редактированием спортивных новостей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "spor servisi",
+                    "spor masası",
+                    "spor bölümü",
+                    "spor dairesi"
+                ],
+                "Turkmen": [
+                    "sport bölümi",
+                    "sport redaksiýasy"
+                ],
+                "Uzbek": [
+                    "sport tahririyati",
+                    "sport boʻlimi",
+                    "sport xizmati"
+                ],
+                "Kazakh": [
+                    "спорт бөлімі",
+                    "спорт редакциясы"
+                ],
+                "Kyrgyz": [
+                    "спорт бөлүмү",
+                    "спорт редакциясы"
+                ],
+                "Karakalpak": [
+                    "sport bólimi",
+                    "sport redakciyası"
+                ],
+                "Tatar": [
+                    "спорт бүлеге",
+                    "спорт мөхәрририяте"
+                ],
+                "Bashkir": [
+                    "спорт бүлеге",
+                    "спорт мөхәрририәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "idman şöbəsi",
+                    "idman redaksiyası",
+                    "idman masası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەنتەربىيە تەھرىر بۆلۈمى",
+                    "تەنتەربىيە خەۋەرلىرى بۆلۈمى",
+                    "تەنتەربىيە قىسمى"
+                ]
+            }
+        }
+    ]
+}

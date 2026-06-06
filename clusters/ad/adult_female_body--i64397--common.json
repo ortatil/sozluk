@@ -1,0 +1,89 @@
+{
+    "id": "i64397",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "adult female body",
+    "en_definition": "the body of an adult woman",
+    "tr_word": "yetişkin kadın vücudu",
+    "tr_definition": "yetişkin bir kadının bedeni",
+    "ru_word": "тело взрослой женщины",
+    "ru_definition": "тело взрослой женщины",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aýal göwresi",
+                    "aýal endamy"
+                ],
+                "Uzbek": [
+                    "ayol tanasi",
+                    "ayol vujudi",
+                    "ayol jasadi"
+                ],
+                "Uyghur": [
+                    "ئايال تېنى",
+                    "ئايال بەدىنى",
+                    "ئايال جەسىتى"
+                ],
+                "Kazakh": [
+                    "әйел денесі",
+                    "әйел тұлғасы",
+                    "әйел бітімі",
+                    "әйел мүсіні"
+                ],
+                "Kyrgyz": [
+                    "аялдын денеси",
+                    "аял затынын тулкусу",
+                    "аялдын тулку-бою"
+                ],
+                "Karakalpak": [
+                    "áyel denesі",
+                    "áyel tán",
+                    "áyel wujudı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kadın vücudu",
+                    "kadın bedeni",
+                    "kadın teni"
+                ],
+                "Azerbaijani": [
+                    "qadın bədəni",
+                    "qadın vücudu",
+                    "qadın cəsədi"
+                ],
+                "Tatar": [
+                    "хатын-кыз тәне"
+                ],
+                "Bashkir": [
+                    "ҡатын-ҡыҙ тәне",
+                    "ҡатын-ҡыҙ кәүҙәһе",
+                    "ҡатын-ҡыҙ заты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خاتۇن كىشى بەدىنى"
+                ],
+                "Tatar": [
+                    "хатын-кыз гәүдәсе",
+                    "хатын-кыз заты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zenan bedeni"
+                ]
+            }
+        }
+    ]
+}

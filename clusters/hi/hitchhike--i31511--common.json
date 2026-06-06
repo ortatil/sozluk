@@ -1,0 +1,133 @@
+{
+    "id": "i31511",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "hitchhike",
+    "en_definition": "travel by getting free rides from motorists",
+    "tr_word": "otostop çekmek",
+    "tr_definition": "yoldan geçen araçlara binerek bedava yolculuk yapmak",
+    "ru_word": "путешествовать автостопом",
+    "ru_definition": "передвигаться на попутных машинах без оплаты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yol kesmek"
+                ],
+                "Azerbaijani": [
+                    "yolüstü getmək"
+                ],
+                "Turkmen": [
+                    "ýolugruçy bolmak",
+                    "ýolugruçy gitmek"
+                ],
+                "Uzbek": [
+                    "yoʻlovchi boʻlmoq",
+                    "yoʻlda toʻxtatmoq"
+                ],
+                "Uyghur": [
+                    "يولدىن ماشىنا توسماق"
+                ],
+                "Kazakh": [
+                    "жолай жүру"
+                ],
+                "Kyrgyz": [
+                    "жолдон тосуу",
+                    "жолдон чыгуу"
+                ],
+                "Karakalpak": [
+                    "joldan toqtatıp júru",
+                    "jolay kólіkke mіnu"
+                ],
+                "Tatar": [
+                    "юлдаш булып бару",
+                    "юлдагы машина белән бару"
+                ],
+                "Bashkir": [
+                    "юлдаш булыу",
+                    "юл ыңғайында барыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tekinga ketmoq"
+                ],
+                "Kazakh": [
+                    "тегін жүру"
+                ],
+                "Karakalpak": [
+                    "tegіn kólіk kútu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otostop çekmek",
+                    "otostop yapmak"
+                ],
+                "Azerbaijani": [
+                    "otostop çəkmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maşın saxlamaq"
+                ],
+                "Turkmen": [
+                    "maşyn saklamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el kaldırmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەقسىز ماشىنىغا چىقماق",
+                    "ھەقسىز ئاپتوموبىلغا چىقماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік тоқтату",
+                    "қол жаю"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа тосуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "түләүсез бару"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ыңғай машинаға ултырыу"
+                ]
+            }
+        }
+    ]
+}

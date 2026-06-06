@@ -1,0 +1,104 @@
+{
+    "id": "i26665",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "swear in",
+    "en_definition": "administer on oath to",
+    "tr_word": "yemin ettirmek",
+    "tr_definition": "birine resmi bir görev veya tanıklık öncesinde yemin içirmek",
+    "ru_word": "приводить к присяге",
+    "ru_definition": "официально вводить в должность или принимать показания через принесение присяги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ant içirmek"
+                ],
+                "Azerbaijani": [
+                    "and içirmək",
+                    "and içirtmək",
+                    "and vermək"
+                ],
+                "Turkmen": [
+                    "ant içirmek"
+                ],
+                "Uzbek": [
+                    "ont ichirish"
+                ],
+                "Kazakh": [
+                    "ант бергізу",
+                    "ант қабылдаттыру"
+                ],
+                "Kyrgyz": [
+                    "ант бердирүү",
+                    "ант ичирүү"
+                ],
+                "Karakalpak": [
+                    "ant bergizio",
+                    "ant qabıl ettirio"
+                ],
+                "Tatar": [
+                    "ант иттерү",
+                    "ант бирдерү"
+                ],
+                "Bashkir": [
+                    "ант биреү",
+                    "ант иттереү",
+                    "ант килтереү",
+                    "ант иттерттереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kasam etdirmek",
+                    "kasam kabul etdirmek"
+                ],
+                "Uzbek": [
+                    "qasamyod qildirish",
+                    "qasam ichirish"
+                ],
+                "Uyghur": [
+                    "قەسەم بەرمەك",
+                    "قەسەم ئىچكۈزمەك",
+                    "قەسەم ياد قىلدۇرماق"
+                ],
+                "Karakalpak": [
+                    "qasam ishkizio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemin ettirmek",
+                    "yemin vermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "серт бергізу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "убада алдыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "вәгъдә алдыру"
+                ]
+            }
+        }
+    ]
+}

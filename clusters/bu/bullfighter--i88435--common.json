@@ -1,0 +1,71 @@
+{
+    "id": "i88435",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bullfighter",
+    "en_definition": "someone who fights bulls",
+    "tr_word": "boğa güreşçisi",
+    "tr_definition": "boğalarla dövüşen kimse",
+    "ru_word": "тореро",
+    "ru_definition": "человек, сражающийся с быками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boğa güreşçisi"
+                ],
+                "Azerbaijani": [
+                    "buğa döyüşçüsü",
+                    "buğa güləşçisi"
+                ],
+                "Uzbek": [
+                    "buqaboz",
+                    "buqa kurashchisi"
+                ],
+                "Uyghur": [
+                    "بۇقا جەڭچىسى",
+                    "بۇقا بىلەن ئېلىشۇچى"
+                ],
+                "Kazakh": [
+                    "бұқашы",
+                    "бұқамен айқасушы",
+                    "бұқа жеңуші"
+                ],
+                "Kyrgyz": [
+                    "бука менен салгышуучу",
+                    "бука менен күрөшүүчү",
+                    "букачы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öküz uruşdyryjy",
+                    "öküzbaz"
+                ],
+                "Karakalpak": [
+                    "ógiz soǵıstırıoshı",
+                    "ógiz benen alısıoshı"
+                ],
+                "Tatar": [
+                    "үгез сугышучы",
+                    "үгез көрәшчесе"
+                ],
+                "Bashkir": [
+                    "үгеҙ менән алышыусы",
+                    "үгеҙ менән көрәшеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "matador"
+                ]
+            }
+        }
+    ]
+}

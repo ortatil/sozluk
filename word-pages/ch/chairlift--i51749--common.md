@@ -1,0 +1,144 @@
+# Chairlift
+| Field | Detail |
+|---|---|
+| **ID** | i51749 |
+| **English** | chairlift |
+| **Type** | noun |
+| **Definition** | a ski lift on which riders (skiers or sightseers) are seated and carried up or down a mountainside; seats are hung from an endless overhead cable |
+| **Source** | common |
+| **Ortatil** | telesiyeç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| күтәргеч | kütärgeç |
+
+```json
+{
+    "id": "i51749",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chairlift",
+    "en_definition": "a ski lift on which riders (skiers or sightseers) are seated and carried up or down a mountainside; seats are hung from an endless overhead cable",
+    "tr_word": "telesiyej",
+    "tr_definition": "Kayakçıları veya turistleri bir dağın yamacına yukarı veya aşağı taşıyan, havada asılı bir kabloya bağlı koltuklardan oluşan taşıma sistemi.",
+    "ru_word": "кресельный подъемник",
+    "ru_definition": "Тип подъемника, на котором лыжники или туристы сидят на сиденьях, подвешенных к бесконечному тросу, для перемещения по склону горы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "askılı koltuk"
+                ],
+                "Azerbaijani": [
+                    "asmalı oturacaq"
+                ],
+                "Turkmen": [
+                    "asma ýol",
+                    "asylgy oturgyç"
+                ],
+                "Uzbek": [
+                    "osma yoʻl"
+                ],
+                "Uyghur": [
+                    "ئاسما ئورۇندۇق",
+                    "ئاسما يول",
+                    "ئاسما ھارۋا"
+                ],
+                "Kazakh": [
+                    "аспалы жол",
+                    "аспалы орындық"
+                ],
+                "Kyrgyz": [
+                    "асма жол",
+                    "асма отургуч",
+                    "асма көтөргүч"
+                ],
+                "Karakalpak": [
+                    "aspalı jol",
+                    "aspalı orındıq"
+                ],
+                "Tatar": [
+                    "асылмалы юл"
+                ],
+                "Bashkir": [
+                    "аҫмалы күтәргес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kanat yolu"
+                ],
+                "Turkmen": [
+                    "kanat ýoly"
+                ],
+                "Uzbek": [
+                    "kanat yoʻli"
+                ],
+                "Karakalpak": [
+                    "kanat jolı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oturaklı teleferik"
+                ],
+                "Azerbaijani": [
+                    "kanatlı oturacaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арқанды жол"
+                ],
+                "Tatar": [
+                    "арканлы юл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "telesiyej"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dor yoʻli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күтәргеч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ултырғыслы күтәргес",
+                    "ултырғыслы канат юлы"
+                ]
+            }
+        }
+    ]
+}
+```
+

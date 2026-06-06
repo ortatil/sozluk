@@ -1,0 +1,213 @@
+# Reuters dispatch
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-92462964-n |
+| **English** | reuters dispatch |
+| **Type** | noun |
+| **Definition** | a news dispatch from the international news agency Reuters. |
+| **Source** | common |
+| **Ortatil** | habar, mälumät, bildirüw |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **habar** | **mälumät** | **bildirüw** | **cañalıq** |
+|---|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ | ❌ |
+| Uyghur | ❌ | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ❌ | ✅ |
+| Kyrgyz | ✅ | ✅ | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ✅ | ✅ | ✅ |
+| Bashkir | ✅ | ✅ | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0.67 | 0.67 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0.50 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 1 | 1 | 0.80 | 1 |
+| *In All* | ✅ | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |
+| **O'TQ** | **3.17** | **3.17** | **2.97** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| хабар | xabar |
+| мәлімет | mälimet |
+| жаңалық | jañalıq |
+| ақпарат | aqparat |
+| **Kyrgyz** | |
+| кабар | kabar |
+| маалымат | maalımat |
+| билдирүү | bildirüü |
+| жаңылык | jañılık |
+| **Tatar** | |
+| хәбәр | xäbär |
+| мәгълүмат | mäglümat |
+| белдерү | belderü |
+| яңалык | yañalık |
+| **Bashkir** | |
+| хәбәр | xäbär |
+| мәғлүмәт | mäğlümät |
+| белдереү | beldereü |
+| яңылыҡ | yañılıq |
+
+```json
+{
+    "id": "synset-oewn-92462964-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "reuters dispatch",
+    "en_definition": "a news dispatch from the international news agency Reuters.",
+    "tr_word": "Reuters haberi",
+    "tr_definition": "Uluslararası haber ajansı Reuters'tan gelen bir haber bülteni veya telgrafı.",
+    "ru_word": "депеша Рейтер",
+    "ru_definition": "Информационное сообщение или сводка новостей от международного агентства Рейтер.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xəbər"
+                ],
+                "Turkmen": [
+                    "habar"
+                ],
+                "Uzbek": [
+                    "xabar"
+                ],
+                "Kazakh": [
+                    "хабар"
+                ],
+                "Kyrgyz": [
+                    "кабар"
+                ],
+                "Karakalpak": [
+                    "xabar"
+                ],
+                "Tatar": [
+                    "хәбәр"
+                ],
+                "Bashkir": [
+                    "хәбәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məlumat"
+                ],
+                "Turkmen": [
+                    "maglumat"
+                ],
+                "Uzbek": [
+                    "ma'lumot"
+                ],
+                "Kazakh": [
+                    "мәлімет"
+                ],
+                "Kyrgyz": [
+                    "маалымат"
+                ],
+                "Karakalpak": [
+                    "málimleme"
+                ],
+                "Tatar": [
+                    "мәгълүмат"
+                ],
+                "Bashkir": [
+                    "мәғлүмәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bildiriş"
+                ],
+                "Turkmen": [
+                    "bildiriş"
+                ],
+                "Uzbek": [
+                    "bildirishnoma"
+                ],
+                "Kyrgyz": [
+                    "билдирүү"
+                ],
+                "Karakalpak": [
+                    "bildirio"
+                ],
+                "Tatar": [
+                    "белдерү"
+                ],
+                "Bashkir": [
+                    "белдереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жаңалық"
+                ],
+                "Kyrgyz": [
+                    "жаңылык"
+                ],
+                "Karakalpak": [
+                    "jańalıq"
+                ],
+                "Tatar": [
+                    "яңалык"
+                ],
+                "Bashkir": [
+                    "яңылыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Reuters haberi",
+                    "Reuters bülteni",
+                    "Reuters bildirisi",
+                    "Reuters ajans haberi"
+                ],
+                "Uyghur": [
+                    "رويتېرس خەۋىرى",
+                    "رويتېرس ئاگېنتلىقى خەۋىرى",
+                    "رويتېرس مەلۇماتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "axborot"
+                ],
+                "Kazakh": [
+                    "ақпарат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "agentlik xəbəri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hasabat"
+                ]
+            }
+        }
+    ]
+}
+```
+

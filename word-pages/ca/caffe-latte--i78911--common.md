@@ -1,0 +1,105 @@
+# Caffe latte
+| Field | Detail |
+|---|---|
+| **ID** | i78911 |
+| **English** | caffe latte |
+| **Type** | noun |
+| **Definition** | strong espresso coffee with a topping of frothed steamed milk |
+| **Source** | common |
+| **Ortatil** | şirqähwä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| ҡәһүә-һөт | qähüä-höt |
+
+```json
+{
+    "id": "i78911",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "caffe latte",
+    "en_definition": "strong espresso coffee with a topping of frothed steamed milk",
+    "tr_word": "latte",
+    "tr_definition": "espresso ve bol miktarda sıcak sütün üzerine süt köpüğü eklenmesiyle hazırlanan kahve türü",
+    "ru_word": "латте",
+    "ru_definition": "кофейный напиток, состоящий из порции эспрессо и горячего вспененного молока",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sütlü kahve"
+                ],
+                "Azerbaijani": [
+                    "südli qəhvə",
+                    "südlü qəhvə"
+                ],
+                "Turkmen": [
+                    "süýtli kofe",
+                    "süýtli gähwe"
+                ],
+                "Uzbek": [
+                    "sutli qahva"
+                ],
+                "Uyghur": [
+                    "سۈتلۈك قەھۋە"
+                ],
+                "Kazakh": [
+                    "сүтті кофе",
+                    "сүт қосылған кофе"
+                ],
+                "Kyrgyz": [
+                    "сүттүү кофе",
+                    "сүт кошулган кофе"
+                ],
+                "Karakalpak": [
+                    "sút qosılǵan kofe",
+                    "sútlі kofe"
+                ],
+                "Tatar": [
+                    "сөтле каһвә",
+                    "сөтле кофе"
+                ],
+                "Bashkir": [
+                    "һөтлө ҡәһүә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köpüklü sütlü kahve"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shirqahva"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "لاتتې قەھۋەسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡәһүә-һөт"
+                ]
+            }
+        }
+    ]
+}
+```
+

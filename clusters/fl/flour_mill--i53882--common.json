@@ -1,0 +1,99 @@
+{
+    "id": "i53882",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flour mill",
+    "en_definition": "a mill for grinding grain into flour",
+    "tr_word": "un değirmeni",
+    "tr_definition": "Tahılı öğütüp un haline getiren tesis veya düzenek.",
+    "ru_word": "мукомольная мельница",
+    "ru_definition": "Предприятие или устройство для размола зерна в муку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "değirmen"
+                ],
+                "Azerbaijani": [
+                    "dəyirman"
+                ],
+                "Turkmen": [
+                    "degirmen"
+                ],
+                "Uzbek": [
+                    "tegirmon"
+                ],
+                "Kazakh": [
+                    "диірмен"
+                ],
+                "Kyrgyz": [
+                    "тегирмен"
+                ],
+                "Karakalpak": [
+                    "digirmen",
+                    "tegirmen"
+                ],
+                "Tatar": [
+                    "тегермән"
+                ],
+                "Bashkir": [
+                    "тирмән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "un değirmeni"
+                ],
+                "Azerbaijani": [
+                    "un dəyirmanı"
+                ],
+                "Turkmen": [
+                    "un degirmeni"
+                ],
+                "Uzbek": [
+                    "un tegirmoni"
+                ],
+                "Uyghur": [
+                    "ئۇن تۈگمىنى"
+                ],
+                "Kazakh": [
+                    "ұн диірмені"
+                ],
+                "Kyrgyz": [
+                    "ун тегирмен"
+                ],
+                "Tatar": [
+                    "он тегермәне"
+                ],
+                "Bashkir": [
+                    "он тирмәне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahıl değirmeni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "osiyo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈگمەن"
+                ]
+            }
+        }
+    ]
+}

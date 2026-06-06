@@ -1,0 +1,152 @@
+# Track meet
+| Field | Detail |
+|---|---|
+| **ID** | i75975 |
+| **English** | track meet |
+| **Type** | noun |
+| **Definition** | a track and field competition between two or more teams |
+| **Source** | common |
+| **Ortatil** | yarış |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| ярыш | yarış |
+| бәйге | bäyge |
+
+```json
+{
+    "id": "i75975",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "track meet",
+    "en_definition": "a track and field competition between two or more teams",
+    "tr_word": "atletizm yarışması",
+    "tr_definition": "İki veya daha fazla takım arasında düzenlenen atletizm müsabakası.",
+    "ru_word": "соревнования по легкой атлетике",
+    "ru_definition": "состязание по легкой атлетике между двумя или более командами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yüngül atletika yarışı"
+                ],
+                "Turkmen": [
+                    "ýeňil atletika ýaryşy"
+                ],
+                "Uzbek": [
+                    "yengil atletika musobaqasi"
+                ],
+                "Uyghur": [
+                    "يېنىك ئاتلېتىكا مۇسابىقىسى"
+                ],
+                "Kazakh": [
+                    "жеңіл атлетика жарысы",
+                    "жеңіл атлетика сайысы"
+                ],
+                "Kyrgyz": [
+                    "жеңил атлетика боюнча мелдеш",
+                    "жеңил атлетика боюнча жарыш"
+                ],
+                "Karakalpak": [
+                    "jeńil atletika jarısı"
+                ],
+                "Tatar": [
+                    "җиңел атлетика ярышы",
+                    "җиңел атлетика турниры"
+                ],
+                "Bashkir": [
+                    "еңел атлетика ярышы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "atletizm yarışması",
+                    "atletizm müsabakası"
+                ],
+                "Azerbaijani": [
+                    "atletika yarışı",
+                    "atletika müsabiqəsi"
+                ],
+                "Turkmen": [
+                    "atletika bäsleşigi"
+                ],
+                "Kazakh": [
+                    "атлетикалық турнир"
+                ],
+                "Kyrgyz": [
+                    "атлетикалык мелдеш"
+                ],
+                "Karakalpak": [
+                    "atletikalıq bellesio",
+                    "atletikalıq jarıs"
+                ],
+                "Tatar": [
+                    "атлетика бәйгесе"
+                ],
+                "Bashkir": [
+                    "атлетика бәйгеһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýaryş"
+                ],
+                "Bashkir": [
+                    "ярыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yugurish musobaqasi"
+                ],
+                "Uyghur": [
+                    "يۈگۈرۈش-سەكرەش مۇسابىقىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koşu yarışı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bellashuv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەنھەرىكەت يىغىنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәйге"
+                ]
+            }
+        }
+    ]
+}
+```
+

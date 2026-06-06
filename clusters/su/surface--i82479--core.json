@@ -1,0 +1,151 @@
+{
+    "id": "i82479",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "surface",
+    "en_definition": "the extended two-dimensional outer boundary of a three-dimensional object",
+    "tr_word": "yüzey",
+    "tr_definition": "bir nesnenin dış tarafı veya en dış tabakası",
+    "ru_word": "поверхность",
+    "ru_definition": "наружная сторона чего-либо, верхний слой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüzey",
+                    "yüz"
+                ],
+                "Azerbaijani": [
+                    "üz"
+                ],
+                "Turkmen": [
+                    "ýüz"
+                ],
+                "Uzbek": [
+                    "yuz",
+                    "yuza"
+                ],
+                "Uyghur": [
+                    "يۈز",
+                    "يۈزى"
+                ],
+                "Karakalpak": [
+                    "júzi"
+                ],
+                "Tatar": [
+                    "йөз"
+                ],
+                "Bashkir": [
+                    "йөҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satıh"
+                ],
+                "Azerbaijani": [
+                    "səth"
+                ],
+                "Turkmen": [
+                    "sath"
+                ],
+                "Uzbek": [
+                    "sath"
+                ],
+                "Uyghur": [
+                    "سەتھى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "üst"
+                ],
+                "Turkmen": [
+                    "üst"
+                ],
+                "Kazakh": [
+                    "үсті"
+                ],
+                "Kyrgyz": [
+                    "үстү"
+                ],
+                "Karakalpak": [
+                    "ústi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бет",
+                    "беті"
+                ],
+                "Kyrgyz": [
+                    "бет",
+                    "бети"
+                ],
+                "Karakalpak": [
+                    "bet"
+                ],
+                "Tatar": [
+                    "бит"
+                ],
+                "Bashkir": [
+                    "бит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сырты"
+                ],
+                "Kyrgyz": [
+                    "сырты"
+                ],
+                "Karakalpak": [
+                    "sırtı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тыш"
+                ],
+                "Bashkir": [
+                    "тыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өс"
+                ],
+                "Bashkir": [
+                    "өҫ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tashqi tomon"
+                ],
+                "Uyghur": [
+                    "تاشقى يۈزى"
+                ]
+            }
+        }
+    ]
+}

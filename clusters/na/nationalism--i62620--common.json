@@ -1,0 +1,122 @@
+{
+    "id": "i62620",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "patriotism",
+    "en_definition": "love of country and willingness to sacrifice for it",
+    "tr_word": "vatanseverlik",
+    "tr_definition": "vatan sevgisi ve vatanı için her türlü fedakarlığı yapma isteği",
+    "ru_word": "патриотизм",
+    "ru_definition": "любовь к отечеству и готовность пожертвовать собой ради него",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vatanseverlik"
+                ],
+                "Azerbaijani": [
+                    "vətənpərvərlik",
+                    "vətənsevərlik"
+                ],
+                "Turkmen": [
+                    "watansöýüjilik",
+                    "watanperwerlik"
+                ],
+                "Uzbek": [
+                    "vatanparvarlik"
+                ],
+                "Uyghur": [
+                    "ۋەتەنپەرۋەرلىك"
+                ],
+                "Kyrgyz": [
+                    "патриоттук"
+                ],
+                "Karakalpak": [
+                    "oatansúyioshilik",
+                    "oatanparwarlıq"
+                ],
+                "Tatar": [
+                    "ватанпәрвәрлек"
+                ],
+                "Bashkir": [
+                    "ватансылыҡ",
+                    "ватан һөйөүселек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milliyetçilik"
+                ],
+                "Azerbaijani": [
+                    "millətçilik",
+                    "millətpərvərlik"
+                ],
+                "Turkmen": [
+                    "milletçilik",
+                    "milletperwerlik"
+                ],
+                "Uzbek": [
+                    "millatparvarlik",
+                    "milliyatchilik"
+                ],
+                "Uyghur": [
+                    "مىللەتپەرۋەرلىك",
+                    "مىللىيەتچىلىك"
+                ],
+                "Karakalpak": [
+                    "milletshillik"
+                ],
+                "Tatar": [
+                    "милләтчелек",
+                    "милләтпәрвәрлек"
+                ],
+                "Bashkir": [
+                    "милләтселек",
+                    "милләт һөйөүселек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ulusçuluk"
+                ],
+                "Kazakh": [
+                    "ұлтшылдық",
+                    "ұлтжандылық"
+                ],
+                "Kyrgyz": [
+                    "улутчулдук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yurtseverlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отансүйгіштік",
+                    "отаншылдық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мекенчилдик",
+                    "мекен сүйүүчүлүк"
+                ]
+            }
+        }
+    ]
+}

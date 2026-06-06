@@ -1,0 +1,143 @@
+# Butcher shop
+| Field | Detail |
+|---|---|
+| **ID** | i51304 |
+| **English** | butcher shop |
+| **Type** | noun |
+| **Definition** | a shop in which meat and poultry (and sometimes fish) are sold |
+| **Source** | common |
+| **Ortatil** | qassaphana |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qassaphana** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قاسساپخانا | qassapxana |
+| گۆشخانا | göşxana |
+| **Kazakh** | |
+| қасапхана | qasapxana |
+| **Kyrgyz** | |
+| касапкана | kasapkana |
+| **Tatar** | |
+| кассапханә | kassapxanä |
+| итханә | itxanä |
+
+```json
+{
+    "id": "i51304",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "butcher shop",
+    "en_definition": "a shop in which meat and poultry (and sometimes fish) are sold",
+    "tr_word": "kasap",
+    "tr_definition": "Et ve kümes hayvanlarının satıldığı dükkân.",
+    "ru_word": "мясная лавка",
+    "ru_definition": "Магазин, в котором продается мясо и птица.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kasap",
+                    "kasaphane"
+                ],
+                "Azerbaijani": [
+                    "qəssabxana",
+                    "qəssab dükanı"
+                ],
+                "Turkmen": [
+                    "gassaphana"
+                ],
+                "Uzbek": [
+                    "qassobxona"
+                ],
+                "Uyghur": [
+                    "قاسساپخانا"
+                ],
+                "Kazakh": [
+                    "қасапхана"
+                ],
+                "Kyrgyz": [
+                    "касапкана"
+                ],
+                "Karakalpak": [
+                    "qassapxana"
+                ],
+                "Tatar": [
+                    "кассапханә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "etçi"
+                ],
+                "Azerbaijani": [
+                    "ət dükanı"
+                ],
+                "Turkmen": [
+                    "et dükani"
+                ],
+                "Kazakh": [
+                    "ет дүкені"
+                ],
+                "Kyrgyz": [
+                    "эт дүкөнү"
+                ],
+                "Karakalpak": [
+                    "et dúkanı"
+                ],
+                "Tatar": [
+                    "ит кибете",
+                    "итханә"
+                ],
+                "Bashkir": [
+                    "ит кибете",
+                    "ит магазины"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "go'sht do'koni"
+                ],
+                "Uyghur": [
+                    "گۆشخانا",
+                    "گۆش دۇكىنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ит һатыу урыны"
+                ]
+            }
+        }
+    ]
+}
+```
+

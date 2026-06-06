@@ -1,0 +1,88 @@
+{
+    "id": "i60898",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "voting booth",
+    "en_definition": "a booth in which a person can cast a private vote",
+    "tr_word": "oy verme kabini",
+    "tr_definition": "bir kişinin gizli oy kullanabileceği küçük bölme",
+    "ru_word": "кабина для голосования",
+    "ru_definition": "небольшое помещение или отгороженное место, где избиратель может проголосовать тайно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovoz berish kabinasi",
+                    "ovoz berish xonachasi"
+                ],
+                "Kazakh": [
+                    "дауыс беру кабинасы",
+                    "дауыс беру орны"
+                ],
+                "Karakalpak": [
+                    "dauıs berio kabinası"
+                ],
+                "Tatar": [
+                    "тавыш бирү бүлмәсе",
+                    "тавыш бирү кабинеты"
+                ],
+                "Bashkir": [
+                    "тауыш биреү кабинаһы",
+                    "тауыш биреү бүлмәсәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seçim kabini"
+                ],
+                "Azerbaijani": [
+                    "səsvermə hücrəsi",
+                    "səsvermə otağı"
+                ],
+                "Turkmen": [
+                    "ses beriş kabinasy",
+                    "ses berilýän ýer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oy kabini",
+                    "oy verme kabini"
+                ],
+                "Azerbaijani": [
+                    "səsvermə kabinəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېلەت تاشلاش ئورنى",
+                    "بېلەت تاشلاش پونكىتى",
+                    "بېلەت تاشلاش ئۆيچىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "добуш берүүчү кабина",
+                    "добуш берүүчү жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "saylao kabinası"
+                ]
+            }
+        }
+    ]
+}

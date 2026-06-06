@@ -1,0 +1,133 @@
+{
+    "id": "i52971",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "disinfectant",
+    "en_definition": "an agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease",
+    "tr_word": "dezenfektan",
+    "tr_definition": "Hastalık yapıcı mikroorganizmaları yok eden kimyasal madde veya fiziksel ajan.",
+    "ru_word": "дезинфицирующее средство",
+    "ru_definition": "Химическое вещество или физический агент, используемый для уничтожения болезнетворных микроорганизмов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mikropkıran"
+                ],
+                "Azerbaijani": [
+                    "mikroböldürən"
+                ],
+                "Turkmen": [
+                    "mikropsyzlandyryjy"
+                ],
+                "Uzbek": [
+                    "mikrob o'ldiruvchi"
+                ],
+                "Uyghur": [
+                    "مىكروبسىزلاندۇرغۇچ",
+                    "مىكروب ئۆلتۈرگۈچى"
+                ],
+                "Kazakh": [
+                    "микробжойғыш"
+                ],
+                "Kyrgyz": [
+                    "микроб өлтүргүч"
+                ],
+                "Karakalpak": [
+                    "mikrob óltirgish"
+                ],
+                "Tatar": [
+                    "микробсызландыргыч"
+                ],
+                "Bashkir": [
+                    "микробтарҙы үлтереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dezenfektan"
+                ],
+                "Uzbek": [
+                    "tozalovchi"
+                ],
+                "Uyghur": [
+                    "دېزىنفېكسىيەلىگۈچى"
+                ],
+                "Kazakh": [
+                    "тазартқыш"
+                ],
+                "Kyrgyz": [
+                    "тазалагыч"
+                ],
+                "Karakalpak": [
+                    "tazalaǵısh"
+                ],
+                "Bashkir": [
+                    "таҙартыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "zararsizlantiruvchi"
+                ],
+                "Kazakh": [
+                    "залалсыздандырғыш"
+                ],
+                "Kyrgyz": [
+                    "зыянсыздандыргыч"
+                ],
+                "Karakalpak": [
+                    "zararsızdandırǵısh"
+                ],
+                "Tatar": [
+                    "зарарсызландыргыч"
+                ],
+                "Bashkir": [
+                    "зарарһыҙландырыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "temizleyici"
+                ],
+                "Azerbaijani": [
+                    "təmizləyici"
+                ],
+                "Turkmen": [
+                    "tämizleýji"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arındırıcı"
+                ],
+                "Azerbaijani": [
+                    "arındırıcı"
+                ],
+                "Turkmen": [
+                    "arassalaýjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чистарткыч"
+                ]
+            }
+        }
+    ]
+}

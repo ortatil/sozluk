@@ -1,0 +1,98 @@
+{
+    "id": "i12287",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "medium-sized",
+    "en_definition": "intermediate in size",
+    "tr_word": "orta büyüklükte",
+    "tr_definition": "boyut olarak ne çok büyük ne de çok küçük olan, orta boy",
+    "ru_word": "среднего размера",
+    "ru_definition": "имеющий промежуточную величину между большим и маленьким",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orta",
+                    "orta boy",
+                    "orta halli"
+                ],
+                "Azerbaijani": [
+                    "orta",
+                    "ortaboy",
+                    "ortahəcmli",
+                    "ortaölçülü"
+                ],
+                "Turkmen": [
+                    "orta",
+                    "ortaca"
+                ],
+                "Uzbek": [
+                    "oʻrtacha"
+                ],
+                "Uyghur": [
+                    "ئوتتۇراھال",
+                    "ئوتتۇراچە",
+                    "ئوتتۇرا"
+                ],
+                "Kazakh": [
+                    "орташа",
+                    "орта"
+                ],
+                "Kyrgyz": [
+                    "орто",
+                    "орточо",
+                    "орто бойлуу"
+                ],
+                "Karakalpak": [
+                    "ortasha",
+                    "orta",
+                    "orta boylı"
+                ],
+                "Tatar": [
+                    "уртача",
+                    "урта"
+                ],
+                "Bashkir": [
+                    "уртаса",
+                    "уртаса ҙурлыҡтағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aralyk"
+                ],
+                "Kazakh": [
+                    "аралық"
+                ],
+                "Bashkir": [
+                    "аралыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vasat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "miyona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "moʻtadil"
+                ]
+            }
+        }
+    ]
+}

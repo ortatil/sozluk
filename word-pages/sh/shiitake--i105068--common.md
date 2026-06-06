@@ -1,0 +1,181 @@
+# Shiitake
+| Field | Detail |
+|---|---|
+| **ID** | i105068 |
+| **English** | shiitake |
+| **Type** | noun |
+| **Definition** | edible east Asian mushroom having a golden or dark brown to blackish cap and an inedible stipe |
+| **Source** | common |
+| **Ortatil** | qozıqarın |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| خۇاڭگۇ | xuañgu |
+| خۇاگۇ | xuagu |
+| **Kazakh** | |
+| шиитаке | şiitake |
+| **Bashkir** | |
+| шиитаке | şiitake |
+
+```json
+{
+    "id": "i105068",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shiitake",
+    "en_definition": "edible east Asian mushroom having a golden or dark brown to blackish cap and an inedible stipe",
+    "tr_word": "şitaki mantarı",
+    "tr_definition": "Doğu Asya'ya özgü, altın sarısı veya koyu kahverengi şapkalı ve yenmeyen saplı bir mantar türü.",
+    "ru_word": "шиитаке",
+    "ru_definition": "съедобный гриб родом из Восточной Азии с золотистой или темно-коричневой шляпкой и несъедобной ножкой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şitaki mantarı"
+                ],
+                "Azerbaijani": [
+                    "şitaki göbələyi"
+                ],
+                "Turkmen": [
+                    "şitaki kömelegi"
+                ],
+                "Uyghur": [
+                    "شىتاكې موگۇسى"
+                ],
+                "Kazakh": [
+                    "шиитаке"
+                ],
+                "Tatar": [
+                    "шиитаке гөмбәсе"
+                ],
+                "Bashkir": [
+                    "шиитаке"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qo'ziqorin"
+                ],
+                "Kyrgyz": [
+                    "козу карын"
+                ],
+                "Karakalpak": [
+                    "qozıqarın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kara orman mantarı"
+                ],
+                "Kyrgyz": [
+                    "дарак козу карыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meşe mantarı"
+                ],
+                "Azerbaijani": [
+                    "meşə göbələyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yapon göbələyi"
+                ],
+                "Kazakh": [
+                    "жапон саңырауқұлағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hytaý kömelegi"
+                ],
+                "Kyrgyz": [
+                    "кытай козу карыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "имән гөмбәсе"
+                ],
+                "Bashkir": [
+                    "имән бәшәрмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "agaç kömelegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shiyitake"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "daraxt qo'ziqorini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خۇاڭگۇ",
+                    "خۇاگۇ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хош иісті саңырауқұлақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sańırauqұlaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хуш еҫле бәшәрмә"
+                ]
+            }
+        }
+    ]
+}
+```
+

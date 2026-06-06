@@ -1,0 +1,107 @@
+{
+    "id": "i28003",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "whitewash",
+    "en_definition": "cover with whitewash",
+    "tr_word": "badana yapmak",
+    "tr_definition": "bir yeri kireç veya boya ile beyaza boyamak",
+    "ru_word": "белить",
+    "ru_definition": "покрывать поверхность известью или мелом для придания белого цвета",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aklamak"
+                ],
+                "Azerbaijani": [
+                    "ağartmaq"
+                ],
+                "Turkmen": [
+                    "aklamak"
+                ],
+                "Uzbek": [
+                    "oqlamoq"
+                ],
+                "Uyghur": [
+                    "ئاقلىماق",
+                    "ھاكلىماق",
+                    "ئاقارتماق"
+                ],
+                "Kazakh": [
+                    "ақтау",
+                    "әк жағу"
+                ],
+                "Kyrgyz": [
+                    "агартуу",
+                    "акиташтоо"
+                ],
+                "Karakalpak": [
+                    "aqlao",
+                    "aq sırlao"
+                ],
+                "Tatar": [
+                    "агарту",
+                    "аклау"
+                ],
+                "Bashkir": [
+                    "аҡлау",
+                    "аҡ буяу",
+                    "аҡбурлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "badana yapmak",
+                    "badalamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kireçlemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əhəngləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "heklemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boʻyamoq",
+                    "suvamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әкпен бояу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бордоо"
+                ]
+            }
+        }
+    ]
+}

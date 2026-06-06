@@ -1,0 +1,68 @@
+# Atacama desert
+| Field | Detail |
+|---|---|
+| **ID** | i84812 |
+| **English** | atacama desert |
+| **Type** | noun |
+| **Definition** | a desert in northern Chile rich in nitrate and copper deposits |
+| **Source** | common |
+| **Ortatil** | atakama |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i84812",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "atacama desert",
+    "en_definition": "a desert in northern Chile rich in nitrate and copper deposits",
+    "tr_word": "Atacama Çölü",
+    "tr_definition": "Şili'nin kuzeyinde bulunan, nitrat ve bakır yatakları bakımından zengin olan bir çöl.",
+    "ru_word": "пустыня Атакама",
+    "ru_definition": "пустыня в северной части Чили, богатая месторождениями селитры и меди.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Atacama Çölü"
+                ],
+                "Azerbaijani": [
+                    "Atakama səhrası",
+                    "Atakama"
+                ],
+                "Turkmen": [
+                    "Atakama çöli"
+                ],
+                "Uzbek": [
+                    "Atakama sahrosi",
+                    "Atakama cho'li"
+                ],
+                "Uyghur": [
+                    "ئاتاماكا چۆللۈكى",
+                    "ئاتاماكا باياۋانى"
+                ],
+                "Kazakh": [
+                    "Атакама шөлі"
+                ],
+                "Kyrgyz": [
+                    "Атакама чөлү"
+                ],
+                "Karakalpak": [
+                    "Atakama shóli"
+                ],
+                "Tatar": [
+                    "Атакама чүле"
+                ],
+                "Bashkir": [
+                    "Атакама сүле"
+                ]
+            }
+        }
+    ]
+}
+```
+

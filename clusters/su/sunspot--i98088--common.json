@@ -1,0 +1,83 @@
+{
+    "id": "i98088",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sunspot",
+    "en_definition": "a cooler darker spot appearing periodically on the sun's photosphere; associated with a strong magnetic field",
+    "tr_word": "güneş lekesi",
+    "tr_definition": "Güneş'in ışık küresinde periyodik olarak görülen, güçlü bir manyetik alanla ilişkili, çevresine göre daha soğuk ve karanlık bölge.",
+    "ru_word": "солнечное пятно",
+    "ru_definition": "темная область на поверхности Солнца, характеризующаяся пониженной температурой и сильным магнитным полем.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güneş lekesi",
+                    "güneş beneği"
+                ],
+                "Azerbaijani": [
+                    "günəş ləkəsi",
+                    "günəş xalı"
+                ],
+                "Turkmen": [
+                    "gün tegmili",
+                    "gün menekleri"
+                ],
+                "Kazakh": [
+                    "күн дағы"
+                ],
+                "Kyrgyz": [
+                    "күн тагы"
+                ],
+                "Karakalpak": [
+                    "kún daǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quyosh dogʻi"
+                ],
+                "Uyghur": [
+                    "قۇياش داغلىرى",
+                    "قۇياش دېغى"
+                ],
+                "Tatar": [
+                    "кояш табы",
+                    "кояш карасы"
+                ],
+                "Bashkir": [
+                    "ҡояш табы",
+                    "ҡояш таптары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كۈن داغلىرى"
+                ],
+                "Kazakh": [
+                    "күндегі дақ"
+                ],
+                "Kyrgyz": [
+                    "күн бетиндеги так"
+                ],
+                "Karakalpak": [
+                    "kúndegi daǵ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dogʻ"
+                ]
+            }
+        }
+    ]
+}

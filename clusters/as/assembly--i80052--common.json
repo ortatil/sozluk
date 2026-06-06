@@ -1,0 +1,218 @@
+{
+    "id": "i80052",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "assembly",
+    "en_definition": "a group of persons who are gathered together for a common purpose",
+    "tr_word": "meclis",
+    "tr_definition": "ortak bir amaç için bir araya gelmiş kişiler topluluğu",
+    "ru_word": "собрание",
+    "ru_definition": "группа людей, собравшихся вместе для общей цели",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meclis"
+                ],
+                "Azerbaijani": [
+                    "məclis"
+                ],
+                "Turkmen": [
+                    "mejlis"
+                ],
+                "Uzbek": [
+                    "majlis"
+                ],
+                "Uyghur": [
+                    "مەجلىس"
+                ],
+                "Kazakh": [
+                    "мәжіліс"
+                ],
+                "Kyrgyz": [
+                    "мажилис"
+                ],
+                "Karakalpak": [
+                    "májilis"
+                ],
+                "Tatar": [
+                    "мәҗлес"
+                ],
+                "Bashkir": [
+                    "мәжлес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurul"
+                ],
+                "Azerbaijani": [
+                    "qurultay"
+                ],
+                "Turkmen": [
+                    "gurultaý"
+                ],
+                "Uzbek": [
+                    "qurultoy"
+                ],
+                "Uyghur": [
+                    "قۇرۇلتاي"
+                ],
+                "Kazakh": [
+                    "құрылтай"
+                ],
+                "Kyrgyz": [
+                    "курултай"
+                ],
+                "Karakalpak": [
+                    "qurıltay"
+                ],
+                "Tatar": [
+                    "корылтай"
+                ],
+                "Bashkir": [
+                    "ҡоролтай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yığıncaq"
+                ],
+                "Turkmen": [
+                    "ýygnak"
+                ],
+                "Uzbek": [
+                    "yigʻilish"
+                ],
+                "Uyghur": [
+                    "يىغىن"
+                ],
+                "Kyrgyz": [
+                    "жыйын"
+                ],
+                "Karakalpak": [
+                    "jıyın"
+                ],
+                "Tatar": [
+                    "җыен",
+                    "җыелыш"
+                ],
+                "Bashkir": [
+                    "йыйын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cemiyet"
+                ],
+                "Azerbaijani": [
+                    "cəmiyyət"
+                ],
+                "Turkmen": [
+                    "jemgyýet"
+                ],
+                "Uzbek": [
+                    "jamiyat"
+                ],
+                "Uyghur": [
+                    "جەمئىيەت"
+                ],
+                "Karakalpak": [
+                    "jámáát"
+                ],
+                "Bashkir": [
+                    "йәмғиәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "toplantı"
+                ],
+                "Azerbaijani": [
+                    "toplantı"
+                ],
+                "Turkmen": [
+                    "toplum"
+                ],
+                "Karakalpak": [
+                    "topar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "anjuman"
+                ],
+                "Uyghur": [
+                    "ئەنجۈمەن"
+                ],
+                "Kazakh": [
+                    "жиын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şura"
+                ],
+                "Tatar": [
+                    "шүрә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кеңес"
+                ],
+                "Kyrgyz": [
+                    "кеңеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "heyet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қауым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чогулуш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төркөм"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+# Harness horse
+| Field | Detail |
+|---|---|
+| **ID** | i48136 |
+| **English** | harness horse |
+| **Type** | noun |
+| **Definition** | horse used for pulling vehicles |
+| **Source** | common |
+| **Ortatil** | kölük |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| унаа | unaa |
+
+```json
+{
+    "id": "i48136",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "harness horse",
+    "en_definition": "horse used for pulling vehicles",
+    "tr_word": "koşu atı",
+    "tr_definition": "Araba veya yük çekmek için kullanılan, koşum takımı giydirilmiş at.",
+    "ru_word": "упряжная лошадь",
+    "ru_definition": "Лошадь, предназначенная для работы в упряжи, то есть для перевозки грузов или людей в повозках.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "araba atı"
+                ],
+                "Azerbaijani": [
+                    "araba atı"
+                ],
+                "Turkmen": [
+                    "araba aty"
+                ],
+                "Uzbek": [
+                    "arava ot"
+                ],
+                "Uyghur": [
+                    "ھارۋا ئېتى"
+                ],
+                "Kazakh": [
+                    "арба ат"
+                ],
+                "Kyrgyz": [
+                    "араба ат"
+                ],
+                "Karakalpak": [
+                    "arba at"
+                ],
+                "Tatar": [
+                    "арба аты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çekim atı"
+                ],
+                "Turkmen": [
+                    "çekiji at"
+                ],
+                "Kazakh": [
+                    "жегін ат"
+                ],
+                "Kyrgyz": [
+                    "чегилме ат"
+                ],
+                "Karakalpak": [
+                    "jegis atı"
+                ],
+                "Tatar": [
+                    "җигүле ат",
+                    "җигү аты"
+                ],
+                "Bashkir": [
+                    "егелгән ат",
+                    "егеү аты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koşu atı"
+                ],
+                "Azerbaijani": [
+                    "qoşqu atı"
+                ],
+                "Turkmen": [
+                    "goşun aty"
+                ],
+                "Uzbek": [
+                    "qoʻsh ot"
+                ],
+                "Uyghur": [
+                    "قوشقۇ ئات",
+                    "قوشۇن ئات"
+                ],
+                "Bashkir": [
+                    "күсер аты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yük atı"
+                ],
+                "Uzbek": [
+                    "yuk oti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік ат"
+                ],
+                "Karakalpak": [
+                    "kólik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа"
+                ]
+            }
+        }
+    ]
+}
+```
+

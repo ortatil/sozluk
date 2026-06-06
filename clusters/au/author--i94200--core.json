@@ -1,0 +1,176 @@
+{
+    "id": "i94200",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "author",
+    "en_definition": "writes (books or stories or articles or the like) professionally (for pay)",
+    "tr_word": "yazar",
+    "tr_definition": "Mesleği kitap, hikaye veya makale yazmak olan kimse.",
+    "ru_word": "автор",
+    "ru_definition": "Человек, который профессионально пишет книги, рассказы или статьи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yazıçı"
+                ],
+                "Turkmen": [
+                    "ýazyjy"
+                ],
+                "Uzbek": [
+                    "yozuvchi"
+                ],
+                "Uyghur": [
+                    "يازغۇچى"
+                ],
+                "Kazakh": [
+                    "жазушы"
+                ],
+                "Kyrgyz": [
+                    "жазуучу"
+                ],
+                "Karakalpak": [
+                    "jazıoshı"
+                ],
+                "Tatar": [
+                    "язучы"
+                ],
+                "Bashkir": [
+                    "яҙыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müellif"
+                ],
+                "Azerbaijani": [
+                    "müəllif"
+                ],
+                "Turkmen": [
+                    "müellif"
+                ],
+                "Uzbek": [
+                    "muallif"
+                ],
+                "Uyghur": [
+                    "مۇئەللىف"
+                ],
+                "Karakalpak": [
+                    "muallif"
+                ],
+                "Tatar": [
+                    "мөаллиف"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "edip"
+                ],
+                "Azerbaijani": [
+                    "ədib"
+                ],
+                "Uzbek": [
+                    "adib"
+                ],
+                "Uyghur": [
+                    "ئەدىب"
+                ],
+                "Kyrgyz": [
+                    "адип"
+                ],
+                "Tatar": [
+                    "әдип"
+                ],
+                "Bashkir": [
+                    "әҙип"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "awtor"
+                ],
+                "Kazakh": [
+                    "автор"
+                ],
+                "Kyrgyz": [
+                    "автор"
+                ],
+                "Karakalpak": [
+                    "awtor"
+                ],
+                "Bashkir": [
+                    "автор"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qalamkash"
+                ],
+                "Uyghur": [
+                    "قەلەمكەش"
+                ],
+                "Karakalpak": [
+                    "qálemkesh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қаламгер"
+                ],
+                "Kyrgyz": [
+                    "калемгер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qələm sahibi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "каләм әһле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡәләм оҫтаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұсаниф"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "id": "i32983",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "log out",
+    "en_definition": "exit a computer",
+    "tr_word": "oturum kapatmak",
+    "tr_definition": "bir bilgisayar sisteminden veya uygulamadan çıkış yapmak",
+    "ru_word": "выйти из системы",
+    "ru_definition": "завершить сеанс работы в компьютерной системе или приложении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıkış yapmak"
+                ],
+                "Azerbaijani": [
+                    "çıxış etmək"
+                ],
+                "Turkmen": [
+                    "çykmak"
+                ],
+                "Uzbek": [
+                    "chiqmoq"
+                ],
+                "Uyghur": [
+                    "چىقىش"
+                ],
+                "Kazakh": [
+                    "шығу"
+                ],
+                "Kyrgyz": [
+                    "чыгуу",
+                    "чыгып кетүү"
+                ],
+                "Karakalpak": [
+                    "shıǵıu"
+                ],
+                "Tatar": [
+                    "чыгу"
+                ],
+                "Bashkir": [
+                    "сығыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayrılmak"
+                ],
+                "Azerbaijani": [
+                    "ayrılmaq"
+                ],
+                "Karakalpak": [
+                    "ayırılıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hasapdan çykmak"
+                ],
+                "Uyghur": [
+                    "ھېساباتتىن چىقىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سېستىمىدىن چىقىش"
+                ],
+                "Tatar": [
+                    "системадан чыгу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oturumu kapatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərk etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ulgamdan çykmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tizimdan chiqmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yakunlamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жүйеден шығу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сығып китеү"
+                ]
+            }
+        }
+    ]
+}

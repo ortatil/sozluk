@@ -1,0 +1,106 @@
+{
+    "id": "i63358",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coolness",
+    "en_definition": "the property of being moderately cold",
+    "tr_word": "serinlik",
+    "tr_definition": "havanın veya bir şeyin hafifçe soğuk olması durumu",
+    "ru_word": "прохлада",
+    "ru_definition": "умеренно низкая температура воздуха, приятный холод",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salkynlyk"
+                ],
+                "Uyghur": [
+                    "سالقىنلىق"
+                ],
+                "Kazakh": [
+                    "салқындық",
+                    "салқын"
+                ],
+                "Kyrgyz": [
+                    "салкындык",
+                    "салкын"
+                ],
+                "Karakalpak": [
+                    "salqınlıq"
+                ],
+                "Tatar": [
+                    "салкынчалык",
+                    "салкынлык"
+                ],
+                "Bashkir": [
+                    "һалҡынсалыҡ",
+                    "һалҡынлыҡ",
+                    "сафлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "serinlik"
+                ],
+                "Azerbaijani": [
+                    "sərinlik",
+                    "sərinliklik"
+                ],
+                "Turkmen": [
+                    "serinlik"
+                ],
+                "Uzbek": [
+                    "salqinlik"
+                ],
+                "Kyrgyz": [
+                    "серүүн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soğukluk"
+                ],
+                "Azerbaijani": [
+                    "soyuqluq"
+                ],
+                "Uzbek": [
+                    "sovuklik"
+                ],
+                "Uyghur": [
+                    "سوغۇقلۇق"
+                ],
+                "Tatar": [
+                    "суыклык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muzdaylik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тоңазытқыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "saya"
+                ]
+            }
+        }
+    ]
+}

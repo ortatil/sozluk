@@ -1,0 +1,280 @@
+# Trailblazer
+| Field | Detail |
+|---|---|
+| **ID** | i92037 |
+| **English** | trailblazer |
+| **Type** | noun |
+| **Definition** | someone who helps to open up a new line of research or technology or art |
+| **Source** | common |
+| **Ortatil** | başlamçı, jolbaşçı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **başlamçı** | **jolbaşçı** | **pioner** | **täşäbbiskär** |
+|---|---|---|---|---|
+| Turkish | ❌ | ❌ | ✅ | ❌ |
+| Azerbaijani | ❌ | ❌ | ✅ | ✅ |
+| Turkmen | ✅ | ✅ | ✅ | ✅ |
+| Uzbek | ✅ | ✅ | ❌ | ✅ |
+| Uyghur | ✅ | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ❌ | ❌ |
+| Kyrgyz | ✅ | ❌ | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ | ✅ | ❌ |
+| Tatar | ❌ | ✅ | ❌ | ❌ |
+| Bashkir | ❌ | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.33 | 1 | 0.67 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0 | 0.50 |
+| *Qipchaq Subtotal* | 0.60 | 0.60 | 0.20 | 0 |
+| *In All* | ✅ | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ |  |
+| **O'TQ** | **2.93** | **2.43** | **1.70** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پېشۋا | peşva |
+| باشلامچى | başlamçi |
+| يېتەكچى | yetäkçi |
+| **Kazakh** | |
+| жолбасшы | jolbasşı |
+| бастамашы | bastamaşı |
+| ізашар | izaşar |
+| тұңғыш | tuñğış |
+| **Kyrgyz** | |
+| баштоочу | baştooçu |
+| алгачкы | algaçkı |
+| негиздөөчү | negizdööçü |
+| **Tatar** | |
+| юлбашчы | yulbaşçı |
+| алдынгы | aldıngı |
+| әүвәлге | äüvälge |
+| **Bashkir** | |
+| юлбашсы | yulbaşsı |
+| әүәлге | äüälge |
+
+```json
+{
+    "id": "i92037",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trailblazer",
+    "en_definition": "someone who helps to open up a new line of research or technology or art",
+    "tr_word": "öncü",
+    "tr_definition": "yeni bir araştırma, teknoloji veya sanat dalının açılmasına yardımcı olan kimse",
+    "ru_word": "первопроходец",
+    "ru_definition": "человек, который помогает открыть новое направление в исследованиях, технологиях или искусстве",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yol açan"
+                ],
+                "Azerbaijani": [
+                    "yol açan"
+                ],
+                "Turkmen": [
+                    "ýolbaşçy"
+                ],
+                "Uzbek": [
+                    "yoʻlboshchi"
+                ],
+                "Uyghur": [
+                    "يول ئاچقۇچى"
+                ],
+                "Kazakh": [
+                    "жолбасшы"
+                ],
+                "Kyrgyz": [
+                    "жол баштоочу"
+                ],
+                "Karakalpak": [
+                    "jol baslaoshı"
+                ],
+                "Tatar": [
+                    "юлбашчы"
+                ],
+                "Bashkir": [
+                    "юлбашсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "başlaýjy"
+                ],
+                "Uzbek": [
+                    "peshqadam"
+                ],
+                "Uyghur": [
+                    "پېشۋا",
+                    "باشلامچى"
+                ],
+                "Kazakh": [
+                    "бастамашы"
+                ],
+                "Kyrgyz": [
+                    "баштоочу"
+                ],
+                "Karakalpak": [
+                    "baslamashı"
+                ],
+                "Tatar": [
+                    "башлап җибәрүче"
+                ],
+                "Bashkir": [
+                    "башлап ебәреүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pişdar"
+                ],
+                "Azerbaijani": [
+                    "pioner"
+                ],
+                "Turkmen": [
+                    "pioner"
+                ],
+                "Karakalpak": [
+                    "pioner"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təşəbbüskar"
+                ],
+                "Turkmen": [
+                    "täzeçi"
+                ],
+                "Uzbek": [
+                    "tashabbuskor"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "jańalıq ashıoshı"
+                ],
+                "Tatar": [
+                    "яңалык кертүче"
+                ],
+                "Bashkir": [
+                    "яңылыҡ индереүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asoschi"
+                ],
+                "Kazakh": [
+                    "ізашар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "алгачкы"
+                ],
+                "Tatar": [
+                    "алдынгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "әүвәлге"
+                ],
+                "Bashkir": [
+                    "әүәлге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öncü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çığır açan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rehber"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabaqcıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "banı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öňdebaryjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ijodkor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېتەكچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұңғыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "негиздөөчү"
+                ]
+            }
+        }
+    ]
+}
+```
+

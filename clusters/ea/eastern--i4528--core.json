@@ -1,0 +1,105 @@
+{
+    "id": "i4528",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "eastern",
+    "en_definition": "lying toward or situated in the east",
+    "tr_word": "doğu",
+    "tr_definition": "doğu yönünde olan veya doğuda bulunan",
+    "ru_word": "восточный",
+    "ru_definition": "расположенный на востоке или обращенный к востоку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şarki"
+                ],
+                "Azerbaijani": [
+                    "şərqi",
+                    "şərq"
+                ],
+                "Turkmen": [
+                    "şarky"
+                ],
+                "Uzbek": [
+                    "sharqiy"
+                ],
+                "Uyghur": [
+                    "شەرقىي"
+                ],
+                "Tatar": [
+                    "шәркый"
+                ],
+                "Bashkir": [
+                    "шәрҡи"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күншығыс"
+                ],
+                "Kyrgyz": [
+                    "күн чыгыш"
+                ],
+                "Karakalpak": [
+                    "kúnshıǵıs"
+                ],
+                "Tatar": [
+                    "көнчыгыш"
+                ],
+                "Bashkir": [
+                    "көнсығыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шығыс"
+                ],
+                "Kyrgyz": [
+                    "чыгыш",
+                    "чыгыштагы"
+                ],
+                "Karakalpak": [
+                    "shıǵıs",
+                    "shıǵıslıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğu",
+                    "doğulu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mashriqiy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gündogar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شەرق تەرەпتىكى"
+                ]
+            }
+        }
+    ]
+}

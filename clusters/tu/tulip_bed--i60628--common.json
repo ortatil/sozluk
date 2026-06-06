@@ -1,0 +1,76 @@
+{
+    "id": "i60628",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tulip bed",
+    "en_definition": "a flowerbed in which tulips are growing",
+    "tr_word": "lale tarhı",
+    "tr_definition": "lalelerin yetiştirildiği çiçek tarhı",
+    "ru_word": "клумба с тюльпанами",
+    "ru_definition": "цветочная клумба, на которой растут тюльпаны",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lale bahçesi",
+                    "lalezar",
+                    "lale tarlası"
+                ],
+                "Azerbaijani": [
+                    "laləlik",
+                    "laləzarlıq",
+                    "lalə ləki"
+                ],
+                "Turkmen": [
+                    "lälezarlyk",
+                    "lälelik",
+                    "läle meýdançasy"
+                ],
+                "Uzbek": [
+                    "lolazor",
+                    "lolaxona",
+                    "lola gulzori"
+                ],
+                "Uyghur": [
+                    "لالىزار",
+                    "لالەزار",
+                    "لالە باغچىسى"
+                ],
+                "Tatar": [
+                    "лаләлек",
+                    "лалә бакчасы",
+                    "лалә түтәле"
+                ],
+                "Bashkir": [
+                    "ләлә сәскәлеге",
+                    "ләлә баҡсаһы",
+                    "ләлә түтәле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қызғалдақзар",
+                    "қызғалдақ гүлзары",
+                    "қызғалдақ бағы"
+                ],
+                "Karakalpak": [
+                    "qızǵaldaqzar",
+                    "qızǵaldaq baǵı",
+                    "qızǵaldaq atızı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жоогазынзар",
+                    "жоогазын талаасы",
+                    "жоогазын бакчасы"
+                ]
+            }
+        }
+    ]
+}

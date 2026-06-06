@@ -1,0 +1,123 @@
+{
+    "id": "i89325",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "crown prince",
+    "en_definition": "a male heir apparent to a throne",
+    "tr_word": "veliaht prens",
+    "tr_definition": "bir hükümdarın ölümünden veya çekilmesinden sonra tahta geçmeye aday olan erkek evlat",
+    "ru_word": "престолонаследник",
+    "ru_definition": "лицо, имеющее право на наследование престола",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "veliaht",
+                    "veliaht prens"
+                ],
+                "Azerbaijani": [
+                    "vəliəhd"
+                ],
+                "Turkmen": [
+                    "weliat"
+                ],
+                "Uzbek": [
+                    "valiahd"
+                ],
+                "Uyghur": [
+                    "ۋەلىئەھد"
+                ],
+                "Kazakh": [
+                    "уәлиаһд"
+                ],
+                "Karakalpak": [
+                    "uáliyat"
+                ],
+                "Tatar": [
+                    "вәлиәһед"
+                ],
+                "Bashkir": [
+                    "вәлиәһед"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehzade"
+                ],
+                "Azerbaijani": [
+                    "şahzadə"
+                ],
+                "Turkmen": [
+                    "şazada"
+                ],
+                "Uzbek": [
+                    "shahzoda"
+                ],
+                "Uyghur": [
+                    "شاھزادە"
+                ],
+                "Tatar": [
+                    "ханзадә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "taxt vorisi"
+                ],
+                "Uyghur": [
+                    "تەخت ۋارىسى"
+                ],
+                "Kazakh": [
+                    "тақ мұрагері"
+                ],
+                "Kyrgyz": [
+                    "так мураскери"
+                ],
+                "Tatar": [
+                    "тәхет варисы"
+                ],
+                "Bashkir": [
+                    "тәхет вариҫы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mirasdüşer"
+                ],
+                "Kazakh": [
+                    "мұрагер"
+                ],
+                "Kyrgyz": [
+                    "мураскер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ханзада"
+                ],
+                "Karakalpak": [
+                    "xanzada"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "miyrasxor"
+                ]
+            }
+        }
+    ]
+}

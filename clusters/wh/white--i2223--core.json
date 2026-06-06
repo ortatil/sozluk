@@ -1,0 +1,96 @@
+{
+    "id": "i2223",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "white",
+    "en_definition": "being of the achromatic color of maximum lightness; having little or no hue owing to reflection of almost all incident light",
+    "tr_word": "beyaz",
+    "tr_definition": "Kar, süt ve pamuk gibi maddelerin rengi; ak, siyahın karşıtı.",
+    "ru_word": "белый",
+    "ru_definition": "Имеющий цвет снега, молока, мела; самый светлый из всех цветов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak"
+                ],
+                "Azerbaijani": [
+                    "ağ"
+                ],
+                "Turkmen": [
+                    "ak"
+                ],
+                "Uzbek": [
+                    "oq"
+                ],
+                "Uyghur": [
+                    "ئاق"
+                ],
+                "Kazakh": [
+                    "ақ"
+                ],
+                "Kyrgyz": [
+                    "ак"
+                ],
+                "Karakalpak": [
+                    "aq"
+                ],
+                "Tatar": [
+                    "ак"
+                ],
+                "Bashkir": [
+                    "аҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "аппақ"
+                ],
+                "Kyrgyz": [
+                    "аппак"
+                ],
+                "Karakalpak": [
+                    "appaq"
+                ],
+                "Tatar": [
+                    "ап-ак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beyaz"
+                ],
+                "Azerbaijani": [
+                    "bəyaz"
+                ],
+                "Turkmen": [
+                    "beýaz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "safid"
+                ],
+                "Bashkir": [
+                    "саф"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақшыл"
+                ]
+            }
+        }
+    ]
+}

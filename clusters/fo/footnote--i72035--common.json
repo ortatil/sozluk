@@ -1,0 +1,162 @@
+{
+    "id": "i72035",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "footnote",
+    "en_definition": "a printed note placed below the text on a printed page",
+    "tr_word": "dipnot",
+    "tr_definition": "Bir sayfanın altına metinle ilgili ek bilgi veya kaynak belirtmek amacıyla konulan açıklama.",
+    "ru_word": "сноска",
+    "ru_definition": "Дополнительный текст, помещаемый внизу страницы под основным текстом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haşiye"
+                ],
+                "Azerbaijani": [
+                    "haşiyə"
+                ],
+                "Turkmen": [
+                    "haşyýa"
+                ],
+                "Uyghur": [
+                    "ھاشىيە"
+                ],
+                "Tatar": [
+                    "хәшия"
+                ],
+                "Bashkir": [
+                    "хәшиә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "izoh"
+                ],
+                "Uyghur": [
+                    "ئىزاھات"
+                ],
+                "Kyrgyz": [
+                    "эскертме"
+                ],
+                "Tatar": [
+                    "искәрмә"
+                ],
+                "Bashkir": [
+                    "иҫкәрмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "düşündiriş"
+                ],
+                "Kazakh": [
+                    "түсініктеме"
+                ],
+                "Kyrgyz": [
+                    "түшүндүрмө"
+                ],
+                "Karakalpak": [
+                    "túsіnіkteme"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сілтеме"
+                ],
+                "Kyrgyz": [
+                    "шилтеме"
+                ],
+                "Karakalpak": [
+                    "sіlteme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dipnot"
+                ],
+                "Azerbaijani": [
+                    "dipnot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tagsoʻz"
+                ],
+                "Uyghur": [
+                    "تەگئىزاھ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "астыңғы ескертпе"
+                ],
+                "Karakalpak": [
+                    "astırtın eskertpe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аңлатма"
+                ],
+                "Bashkir": [
+                    "аңлатма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "açıklama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qeyd"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çykgy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "havola"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sharh"
+                ]
+            }
+        }
+    ]
+}

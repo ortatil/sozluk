@@ -1,0 +1,200 @@
+# Shopaholic
+| Field | Detail |
+|---|---|
+| **ID** | i92958 |
+| **English** | shopaholic |
+| **Type** | noun |
+| **Definition** | a compulsive shopper |
+| **Source** | common |
+| **Ortatil** | isräfçı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **isräfçı** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.63** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ысырапшыл | ısırapşıl |
+| саудақұмар | saudaqumar |
+| дүкенқұмар | dükenqumar |
+| **Kyrgyz** | |
+| ысырапкор | ısırapkor |
+| **Tatar** | |
+| исрафчы | israfçı |
+| **Bashkir** | |
+| сауҙасыл | sauzasıl |
+| донъясыл | donyasıl |
+
+```json
+{
+    "id": "i92958",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shopaholic",
+    "en_definition": "a compulsive shopper",
+    "tr_word": "alışverişkolik",
+    "tr_definition": "alışveriş yapma dürtüsüne engel olamayan, sürekli bir şeyler satın alma tutkusu olan kimse",
+    "ru_word": "шопоголик",
+    "ru_definition": "человек, испытывающий непреодолимое желание покупать что-либо без необходимости, ради самого процесса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "israfçı"
+                ],
+                "Uzbek": [
+                    "isrofchi"
+                ],
+                "Kazakh": [
+                    "ысырапшыл"
+                ],
+                "Kyrgyz": [
+                    "ысырапкор"
+                ],
+                "Karakalpak": [
+                    "ısırapker"
+                ],
+                "Tatar": [
+                    "исрафчы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bazarlıq həvəskarı"
+                ],
+                "Turkmen": [
+                    "bazarcyl"
+                ],
+                "Uzbek": [
+                    "bozorchi"
+                ],
+                "Uyghur": [
+                    "بازار خۇمارى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söwdahor"
+                ],
+                "Karakalpak": [
+                    "saodakesh",
+                    "saodapaz"
+                ],
+                "Bashkir": [
+                    "сауҙаға әүәҫ",
+                    "сауҙаға мөбтәлә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alışveriş tutkunu",
+                    "alışveriş meraklısı",
+                    "alışveriş hastası"
+                ],
+                "Azerbaijani": [
+                    "alış-veriş düşgünü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "harythumar"
+                ],
+                "Uzbek": [
+                    "xarid ishqibozi",
+                    "xarid shaydosi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سودا خۇمارى"
+                ],
+                "Kyrgyz": [
+                    "соодага берилген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саудақұмар"
+                ],
+                "Bashkir": [
+                    "сауҙасыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сатып алууга кумар",
+                    "сатып алууга маш"
+                ],
+                "Tatar": [
+                    "сатып алуга хирыс",
+                    "сатып алуга һәвәс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müsrif"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەرسە-كېرەك سېتىۋېلىش خۇمارى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дүкенқұмар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "донъясыл"
+                ]
+            }
+        }
+    ]
+}
+```
+

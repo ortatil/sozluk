@@ -1,0 +1,100 @@
+{
+    "id": "i38923",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "skin care",
+    "en_definition": "care for the skin",
+    "tr_word": "cilt bakımı",
+    "tr_definition": "Cildin sağlığını ve görünümünü korumak veya iyileştirmek için yapılan işlemlerin bütünü.",
+    "ru_word": "уход за кожей",
+    "ru_definition": "Комплекс процедур, направленных на поддержание здоровья и улучшение внешнего вида кожи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deri bakımı"
+                ],
+                "Azerbaijani": [
+                    "dəri qulluğu",
+                    "dəriyə qulluq",
+                    "dəri baxımı"
+                ],
+                "Turkmen": [
+                    "deri idegi"
+                ],
+                "Uzbek": [
+                    "teri parvarishi"
+                ],
+                "Uyghur": [
+                    "تېرە كۈتۈنۈشى",
+                    "تېرە ئاسراش",
+                    "تېرە پەرۋىشى"
+                ],
+                "Kazakh": [
+                    "тері күтімі",
+                    "теріні күту"
+                ],
+                "Kyrgyz": [
+                    "териге кам көрүү",
+                    "тери күтүү"
+                ],
+                "Karakalpak": [
+                    "terі kútіmі",
+                    "terіnі kútu"
+                ],
+                "Tatar": [
+                    "тире тәрбиясе",
+                    "тирене карау"
+                ],
+                "Bashkir": [
+                    "тире тәрбиәләү",
+                    "тирене ҡарау",
+                    "тире тәрбиәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ten bakımı"
+                ],
+                "Turkmen": [
+                    "ten idegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бет күтімі"
+                ],
+                "Kyrgyz": [
+                    "бет күтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cilt bakımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yuz parvarishi",
+                    "tan parvarishi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тән тәрбиясе"
+                ]
+            }
+        }
+    ]
+}

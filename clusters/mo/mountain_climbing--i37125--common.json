@@ -1,0 +1,92 @@
+{
+    "id": "i37125",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mountain climbing",
+    "en_definition": "the activity of climbing a mountain",
+    "tr_word": "dağcılık",
+    "tr_definition": "Dağlara tırmanma sporu veya etkinliği.",
+    "ru_word": "альпинизм",
+    "ru_definition": "Вид спорта и активного отдыха, целью которого является восхождение на вершины гор.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağcılık",
+                    "dağa tırmanma"
+                ],
+                "Azerbaijani": [
+                    "dağçılıq",
+                    "dağa dırmanma"
+                ],
+                "Turkmen": [
+                    "dagçylyk",
+                    "daga dyrmaşmak",
+                    "dag syýahaty"
+                ],
+                "Uzbek": [
+                    "togʻga chiqish",
+                    "togʻga koʻtarilish",
+                    "togʻchilik"
+                ],
+                "Uyghur": [
+                    "تاغقا چىقىش",
+                    "تاغقا ئۆرلەش",
+                    "تاغچىلىق"
+                ],
+                "Kazakh": [
+                    "тауға шығу",
+                    "тау өрлеу"
+                ],
+                "Karakalpak": [
+                    "taoǵa shıǵıo",
+                    "taoǵa órleo",
+                    "taoǵa órmeleo"
+                ],
+                "Tatar": [
+                    "тауга менү",
+                    "тауга менүчелек",
+                    "таучылык"
+                ],
+                "Bashkir": [
+                    "тауға менү",
+                    "тауға күтәрелеү",
+                    "тауға үрмәләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tırmanış"
+                ],
+                "Kyrgyz": [
+                    "тоо ашуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "alpinizm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шыңға шығу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоого чыгуу",
+                    "тоо өрлөө"
+                ]
+            }
+        }
+    ]
+}

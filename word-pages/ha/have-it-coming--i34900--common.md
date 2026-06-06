@@ -1,0 +1,211 @@
+# Have it coming
+| Field | Detail |
+|---|---|
+| **ID** | i34900 |
+| **English** | have it coming |
+| **Type** | verb |
+| **Definition** | deserve (either good or bad) |
+| **Source** | common |
+| **Ortatil** | kazanmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| казанырга | kazanırga |
+
+```json
+{
+    "id": "i34900",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "have it coming",
+    "en_definition": "deserve (either good or bad)",
+    "tr_word": "hak etmek",
+    "tr_definition": "bir davranışın veya durumun karşılığını (iyi veya kötü) almaya layık olmak",
+    "ru_word": "заслуживать",
+    "ru_definition": "быть достойным чего-либо (как хорошего, так и плохого) в соответствии со своими поступками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "layık olmak"
+                ],
+                "Azerbaijani": [
+                    "layiq olmaq",
+                    "layiq görülmək"
+                ],
+                "Uzbek": [
+                    "loyiq bo'lmoq"
+                ],
+                "Uyghur": [
+                    "لايىق بولماق"
+                ],
+                "Kazakh": [
+                    "лайық болу"
+                ],
+                "Kyrgyz": [
+                    "ылайык болуу"
+                ],
+                "Karakalpak": [
+                    "layıq bolıu"
+                ],
+                "Tatar": [
+                    "лаек булырга"
+                ],
+                "Bashkir": [
+                    "лайыҡ булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hak etmek"
+                ],
+                "Azerbaijani": [
+                    "haqq etmək"
+                ],
+                "Turkmen": [
+                    "hak etmek"
+                ],
+                "Uzbek": [
+                    "haqli bo'lmoq"
+                ],
+                "Uyghur": [
+                    "ھەقلىق بولماق"
+                ],
+                "Karakalpak": [
+                    "haqılı bolıu"
+                ],
+                "Tatar": [
+                    "хаклы булырга"
+                ],
+                "Bashkir": [
+                    "хаҡлы булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "miýesser etmek"
+                ],
+                "Karakalpak": [
+                    "tiyisli bolıu"
+                ],
+                "Tatar": [
+                    "тиешлесен алырга"
+                ],
+                "Bashkir": [
+                    "тейешлеһен алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mynasyp bolmak"
+                ],
+                "Uzbek": [
+                    "munosib bo'lmoq"
+                ],
+                "Karakalpak": [
+                    "miyasar bolıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qazanmaq"
+                ],
+                "Tatar": [
+                    "казанырга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nesip etmek"
+                ],
+                "Kyrgyz": [
+                    "насип болуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sazovor bo'lmoq"
+                ],
+                "Uyghur": [
+                    "سەزاوار بولماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жазылған болу"
+                ],
+                "Kyrgyz": [
+                    "жазасын алуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müstahak olmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bulmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېگىشلىك بولماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тиісті болу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көресісі болу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "татыктуу болуу"
+                ]
+            }
+        }
+    ]
+}
+```
+

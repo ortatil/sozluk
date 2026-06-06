@@ -1,0 +1,108 @@
+{
+    "id": "i69447",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "article",
+    "en_definition": "nonfictional prose forming an independent part of a publication",
+    "tr_word": "makale",
+    "tr_definition": "Bir yayın organının bağımsız bir parçasını oluşturan kurgusal olmayan düzyazı",
+    "ru_word": "статья",
+    "ru_definition": "нехудожественное прозаическое произведение, являющееся самостоятельной частью публикации",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "makale"
+                ],
+                "Azerbaijani": [
+                    "məqalə"
+                ],
+                "Turkmen": [
+                    "makala"
+                ],
+                "Uzbek": [
+                    "maqola"
+                ],
+                "Uyghur": [
+                    "ماقالە"
+                ],
+                "Kazakh": [
+                    "мақала"
+                ],
+                "Kyrgyz": [
+                    "макала"
+                ],
+                "Karakalpak": [
+                    "maqala"
+                ],
+                "Tatar": [
+                    "мәкалә"
+                ],
+                "Bashkir": [
+                    "мәҡәлә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazı"
+                ],
+                "Azerbaijani": [
+                    "yazı"
+                ],
+                "Turkmen": [
+                    "ýazgy"
+                ],
+                "Uyghur": [
+                    "يازما"
+                ],
+                "Kazakh": [
+                    "жазба"
+                ],
+                "Kyrgyz": [
+                    "жазуу"
+                ],
+                "Tatar": [
+                    "язма"
+                ],
+                "Bashkir": [
+                    "яҙма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "баяндама"
+                ],
+                "Kyrgyz": [
+                    "баяндама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fıkra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "risola"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەسەر"
+                ]
+            }
+        }
+    ]
+}

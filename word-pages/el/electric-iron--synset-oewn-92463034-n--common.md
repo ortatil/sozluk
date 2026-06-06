@@ -1,0 +1,114 @@
+# Electric iron
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-92463034-n |
+| **English** | electric iron |
+| **Type** | noun |
+| **Definition** | an iron which uses resistive heating from an electric current. |
+| **Source** | common |
+| **Ortatil** | ülük |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ülük** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئۈتۈك | ütük |
+| **Kazakh** | |
+| үтік | ütik |
+| **Kyrgyz** | |
+| үтүк | ütük |
+| **Tatar** | |
+| үтүк | ütük |
+| үтүкләүче | ütükläüçe |
+| **Bashkir** | |
+| үтек | ütek |
+
+```json
+{
+    "id": "synset-oewn-92463034-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "electric iron",
+    "en_definition": "an iron which uses resistive heating from an electric current.",
+    "tr_word": "ütü",
+    "tr_definition": "Elektrik akımıyla ısınan ve kumaşların kırışıklıklarını düzeltmeye yarayan ev aleti.",
+    "ru_word": "утюг",
+    "ru_definition": "Электрический прибор для разглаживания складок и заминов на одежде с помощью нагретой подошвы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ütü"
+                ],
+                "Azerbaijani": [
+                    "ütü",
+                    "ütü cihazı"
+                ],
+                "Turkmen": [
+                    "ütü",
+                    "ütük"
+                ],
+                "Uzbek": [
+                    "o'tmol"
+                ],
+                "Uyghur": [
+                    "ئۈتۈك"
+                ],
+                "Kazakh": [
+                    "үтік"
+                ],
+                "Kyrgyz": [
+                    "үтүк"
+                ],
+                "Karakalpak": [
+                    "útik",
+                    "útiklegish"
+                ],
+                "Tatar": [
+                    "үтүк",
+                    "үтүкләүче"
+                ],
+                "Bashkir": [
+                    "үтек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dazmol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېلېكتر ئۈتۈكى"
+                ]
+            }
+        }
+    ]
+}
+```
+

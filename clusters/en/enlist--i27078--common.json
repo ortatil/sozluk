@@ -1,0 +1,161 @@
+{
+    "id": "i27078",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "enlist",
+    "en_definition": "join the military",
+    "tr_word": "askere yazılmak",
+    "tr_definition": "orduya katılmak veya askerlik hizmetine gönüllü olarak girmek",
+    "ru_word": "зачисляться",
+    "ru_definition": "вступать в ряды вооруженных сил",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "askere gitmek",
+                    "askere yazılmak"
+                ],
+                "Turkmen": [
+                    "askerlige ýazylmak"
+                ],
+                "Uzbek": [
+                    "askarlikka bormoq"
+                ],
+                "Uyghur": [
+                    "ئەسكەرلىككە كىرمەك",
+                    "ئەسكەر بولماق"
+                ],
+                "Kazakh": [
+                    "әскерге алыну",
+                    "әскерге бару"
+                ],
+                "Kyrgyz": [
+                    "аскерге кирүү"
+                ],
+                "Karakalpak": [
+                    "áskerge kirio",
+                    "áskerge barıo"
+                ],
+                "Tatar": [
+                    "гаскәргә язылу"
+                ],
+                "Bashkir": [
+                    "ғәскәргә инеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xizmatga kirmoq"
+                ],
+                "Uyghur": [
+                    "خىزمەتكە كىرمەك"
+                ],
+                "Kazakh": [
+                    "қызметке тұру"
+                ],
+                "Kyrgyz": [
+                    "кызматка туруу"
+                ],
+                "Karakalpak": [
+                    "xızmetke alınıo"
+                ],
+                "Tatar": [
+                    "хезмәткә керү"
+                ],
+                "Bashkir": [
+                    "хеҙмәткә инеү",
+                    "хеҙмәткә алыныу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbi xidmətə girmək"
+                ],
+                "Turkmen": [
+                    "harby gulluga girmek"
+                ],
+                "Uzbek": [
+                    "harbiy xizmatga o'tmoq"
+                ],
+                "Uyghur": [
+                    "ھەربىي سەپكە كىرمەك"
+                ],
+                "Tatar": [
+                    "хәрби хезмәткә басу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "səfərbər olmaq"
+                ],
+                "Uzbek": [
+                    "safga qo'shilmoq"
+                ],
+                "Karakalpak": [
+                    "sapqa qosılıo"
+                ],
+                "Tatar": [
+                    "сафка басу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "orduya katılmak"
+                ],
+                "Azerbaijani": [
+                    "orduya yazılmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тізімге жазылу"
+                ],
+                "Kyrgyz": [
+                    "тизмеге жазылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "silah altına alınmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əsgər getmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşuna girmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яуға баҫыу"
+                ]
+            }
+        }
+    ]
+}

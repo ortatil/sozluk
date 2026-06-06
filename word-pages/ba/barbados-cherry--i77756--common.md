@@ -1,0 +1,144 @@
+# Barbados cherry
+| Field | Detail |
+|---|---|
+| **ID** | i77756 |
+| **English** | barbados cherry |
+| **Type** | noun |
+| **Definition** | acid red or yellow cherry-like fruit of a tropical American shrub very rich in vitamin C |
+| **Source** | common |
+| **Ortatil** | atserola |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **atserola** | **pitanga** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ❌ | ✅ |
+| Turkmen | ❌ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0 | 1 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 1 | 0 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **2** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاسېرولا | aserola |
+| **Kazakh** | |
+| ацерола | atserola |
+| **Kyrgyz** | |
+| ацерола | atserola |
+| **Tatar** | |
+| ацерола | atserola |
+| **Bashkir** | |
+| ацерола | atserola |
+
+```json
+{
+    "id": "i77756",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "barbados cherry",
+    "en_definition": "acid red or yellow cherry-like fruit of a tropical American shrub very rich in vitamin C",
+    "tr_word": "Surinam kirazı",
+    "tr_definition": "C vitamini açısından çok zengin, tropikal bir Amerikan çalısının asitli kırmızı veya sarı kiraz benzeri meyvesi.",
+    "ru_word": "суринамская вишня",
+    "ru_definition": "кислый красный или желтый вишнеподобный плод тропического американского кустарника, очень богатый витамином С.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aserola"
+                ],
+                "Uyghur": [
+                    "ئاسېرولا"
+                ],
+                "Kazakh": [
+                    "ацерола"
+                ],
+                "Kyrgyz": [
+                    "ацерола"
+                ],
+                "Karakalpak": [
+                    "acerola"
+                ],
+                "Tatar": [
+                    "ацерола"
+                ],
+                "Bashkir": [
+                    "ацерола"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "باربادوس گىلاسى"
+                ],
+                "Kazakh": [
+                    "барбадос шиесі"
+                ],
+                "Kyrgyz": [
+                    "барбадос алчасы"
+                ],
+                "Karakalpak": [
+                    "barbados shiesi"
+                ],
+                "Tatar": [
+                    "барбадос чиясе"
+                ],
+                "Bashkir": [
+                    "барбадос сейәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Surinam kirazı"
+                ],
+                "Azerbaijani": [
+                    "Surinam gilas"
+                ],
+                "Turkmen": [
+                    "surinam alçasy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Pitanga"
+                ],
+                "Azerbaijani": [
+                    "Pitanga"
+                ],
+                "Turkmen": [
+                    "pitanga"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tropik gilos"
+                ]
+            }
+        }
+    ]
+}
+```
+

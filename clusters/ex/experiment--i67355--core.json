@@ -1,0 +1,98 @@
+{
+    "id": "i67355",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "experiment",
+    "en_definition": "the testing of an idea",
+    "tr_word": "deney",
+    "tr_definition": "bir fikrin veya varsayımın doğruluğunu kanıtlamak için yapılan test",
+    "ru_word": "эксперимент",
+    "ru_definition": "проверка идеи или гипотезы опытным путем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tecrübe"
+                ],
+                "Azerbaijani": [
+                    "təcrübə"
+                ],
+                "Turkmen": [
+                    "tejribe"
+                ],
+                "Uzbek": [
+                    "tajriba"
+                ],
+                "Uyghur": [
+                    "تەجرىبە"
+                ],
+                "Kazakh": [
+                    "тәжірибе"
+                ],
+                "Kyrgyz": [
+                    "тажрыйба"
+                ],
+                "Karakalpak": [
+                    "tájriybe"
+                ],
+                "Tatar": [
+                    "тәҗрибә"
+                ],
+                "Bashkir": [
+                    "тәжрибә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınama"
+                ],
+                "Azerbaijani": [
+                    "sınaq"
+                ],
+                "Turkmen": [
+                    "synag"
+                ],
+                "Uzbek": [
+                    "sinov"
+                ],
+                "Uyghur": [
+                    "سىناق"
+                ],
+                "Kazakh": [
+                    "сынақ"
+                ],
+                "Kyrgyz": [
+                    "сыноо",
+                    "сынамык"
+                ],
+                "Karakalpak": [
+                    "sınaq"
+                ],
+                "Tatar": [
+                    "сынау"
+                ],
+                "Bashkir": [
+                    "һынау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deney"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "байқау"
+                ]
+            }
+        }
+    ]
+}

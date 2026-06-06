@@ -1,0 +1,66 @@
+{
+    "id": "i56739",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "opener",
+    "en_definition": "a hand tool used for opening sealed containers (bottles or cans)",
+    "tr_word": "açacak",
+    "tr_definition": "Şişe veya konserve gibi kapalı kapları açmaya yarayan el aleti.",
+    "ru_word": "открывалка",
+    "ru_definition": "Ручное приспособление для открывания бутылок или консервных банок.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açacak",
+                    "açkı"
+                ],
+                "Azerbaijani": [
+                    "açan",
+                    "açanar",
+                    "açqı"
+                ],
+                "Turkmen": [
+                    "açgyç",
+                    "açary"
+                ],
+                "Uzbek": [
+                    "ochqich",
+                    "ochgich"
+                ],
+                "Uyghur": [
+                    "ئاچقۇچ",
+                    "ئاچقۇ"
+                ],
+                "Kazakh": [
+                    "ашқыш",
+                    "ашар"
+                ],
+                "Kyrgyz": [
+                    "ачкыч",
+                    "ачкыч курал"
+                ],
+                "Karakalpak": [
+                    "ashqısh",
+                    "ashar"
+                ],
+                "Tatar": [
+                    "ачкыч",
+                    "ачкыч-корал"
+                ],
+                "Bashkir": [
+                    "асҡыс",
+                    "асыҡыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "асыусы"
+                ]
+            }
+        }
+    ]
+}

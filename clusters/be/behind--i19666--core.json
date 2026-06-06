@@ -1,0 +1,121 @@
+{
+    "id": "i19666",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "behind",
+    "en_definition": "in or to or toward the rear",
+    "tr_word": "geride",
+    "tr_definition": "arkada veya arka tarafa doğru",
+    "ru_word": "сзади",
+    "ru_definition": "в задней части или по направлению к ней",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ortda"
+                ],
+                "Kazakh": [
+                    "артта"
+                ],
+                "Kyrgyz": [
+                    "артында",
+                    "артта"
+                ],
+                "Karakalpak": [
+                    "artında"
+                ],
+                "Tatar": [
+                    "артта",
+                    "артка",
+                    "арттан"
+                ],
+                "Bashkir": [
+                    "артта",
+                    "артҡа",
+                    "арттан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arkada",
+                    "arkaya"
+                ],
+                "Azerbaijani": [
+                    "arxada"
+                ],
+                "Turkmen": [
+                    "arkada"
+                ],
+                "Uzbek": [
+                    "orqada"
+                ],
+                "Uyghur": [
+                    "ئارقىدا",
+                    "ئارقىغا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "keyinda"
+                ],
+                "Uyghur": [
+                    "كەينىدە",
+                    "كەينىگە"
+                ],
+                "Kazakh": [
+                    "кейін"
+                ],
+                "Kyrgyz": [
+                    "кийин"
+                ],
+                "Karakalpak": [
+                    "keyinde"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geride",
+                    "geriye"
+                ],
+                "Azerbaijani": [
+                    "geridə"
+                ],
+                "Karakalpak": [
+                    "kerіde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzda",
+                    "yzynda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dalda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "соңында"
+                ]
+            }
+        }
+    ]
+}

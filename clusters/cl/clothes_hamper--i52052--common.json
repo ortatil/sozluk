@@ -1,0 +1,103 @@
+{
+    "id": "i52052",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "clothes hamper",
+    "en_definition": "a hamper that holds dirty clothes to be washed or wet clothes to be dried",
+    "tr_word": "kirli sepeti",
+    "tr_definition": "Yıkanacak kirli çamaşırları biriktirmek için kullanılan sepet.",
+    "ru_word": "корзина для белья",
+    "ru_definition": "Корзина, предназначенная для хранения грязной одежды перед стиркой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kirli sepeti"
+                ],
+                "Azerbaijani": [
+                    "kirli səbəti"
+                ],
+                "Turkmen": [
+                    "kir sebedi"
+                ],
+                "Uzbek": [
+                    "kir savat",
+                    "kir idishi"
+                ],
+                "Uyghur": [
+                    "كىر سېۋىتى",
+                    "كىر سېۋەت",
+                    "كىر قاچىسى"
+                ],
+                "Kazakh": [
+                    "кір себеті",
+                    "кір салатын себет"
+                ],
+                "Kyrgyz": [
+                    "кир себет",
+                    "кир салгыч"
+                ],
+                "Karakalpak": [
+                    "kir sebet",
+                    "kir idisi"
+                ],
+                "Tatar": [
+                    "кер кәрзине",
+                    "кер савыты",
+                    "кәрзин"
+                ],
+                "Bashkir": [
+                    "кер кәрзине",
+                    "кәрзин",
+                    "кәрзинкә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çamaşır sepeti",
+                    "çamaşır selesi"
+                ],
+                "Azerbaijani": [
+                    "çamaşır səbəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "savat"
+                ],
+                "Kazakh": [
+                    "себет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кийим себет"
+                ],
+                "Karakalpak": [
+                    "kiyim sebet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paltar səbəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eşik sebedi"
+                ]
+            }
+        }
+    ]
+}

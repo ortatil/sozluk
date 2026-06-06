@@ -1,0 +1,146 @@
+{
+    "id": "i75318",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rebound",
+    "en_definition": "a movement back from an impact",
+    "tr_word": "geri sıçrama",
+    "tr_definition": "bir çarpışma veya darbe sonrası ters yönde hareket etme",
+    "ru_word": "отскок",
+    "ru_definition": "движение назад или в сторону после удара о поверхность",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tepme"
+                ],
+                "Azerbaijani": [
+                    "təpmə"
+                ],
+                "Turkmen": [
+                    "tepki"
+                ],
+                "Uzbek": [
+                    "tepish"
+                ],
+                "Uyghur": [
+                    "تەپكۈ",
+                    "تەپكۈچ"
+                ],
+                "Kazakh": [
+                    "тебіс"
+                ],
+                "Kyrgyz": [
+                    "тебүү"
+                ],
+                "Karakalpak": [
+                    "tebis"
+                ],
+                "Tatar": [
+                    "тибү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geri tepme"
+                ],
+                "Azerbaijani": [
+                    "geriyə təpmə",
+                    "geri çəkilmə"
+                ],
+                "Kazakh": [
+                    "кері серпіліс"
+                ],
+                "Karakalpak": [
+                    "kerі soqqı"
+                ],
+                "Tatar": [
+                    "кире кагу",
+                    "кире кайту"
+                ],
+                "Bashkir": [
+                    "кире ҡағыу",
+                    "кире тибеү",
+                    "кире ҡайтыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarsıntı"
+                ],
+                "Uzbek": [
+                    "zarba"
+                ],
+                "Kazakh": [
+                    "серпін"
+                ],
+                "Kyrgyz": [
+                    "серпилүү"
+                ],
+                "Karakalpak": [
+                    "serpіlіs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qaytish"
+                ],
+                "Uyghur": [
+                    "قايتىش"
+                ],
+                "Kazakh": [
+                    "қайту"
+                ],
+                "Kyrgyz": [
+                    "кайтуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "irtica"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sıçrayış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzyna urgy",
+                    "yzyna gaýdyş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "silkinish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чигенү"
+                ]
+            }
+        }
+    ]
+}

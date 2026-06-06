@@ -1,0 +1,128 @@
+{
+    "id": "i78410",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "heavy cream",
+    "en_definition": "contains more than 36% butterfat",
+    "tr_word": "krema",
+    "tr_definition": "en az %36 oranında süt yağı içeren yoğun kıvamlı süt ürünü",
+    "ru_word": "жирные сливки",
+    "ru_definition": "сливки с содержанием молочного жира более 36%",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaymak"
+                ],
+                "Azerbaijani": [
+                    "qaymaq"
+                ],
+                "Turkmen": [
+                    "gaýmak"
+                ],
+                "Uzbek": [
+                    "qaymoq"
+                ],
+                "Uyghur": [
+                    "قايماق"
+                ],
+                "Kazakh": [
+                    "қаймақ"
+                ],
+                "Kyrgyz": [
+                    "каймак"
+                ],
+                "Karakalpak": [
+                    "qaymaq"
+                ],
+                "Tatar": [
+                    "каймак"
+                ],
+                "Bashkir": [
+                    "ҡаймаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goýy gaýmak"
+                ],
+                "Uzbek": [
+                    "quyuq qaymoq"
+                ],
+                "Uyghur": [
+                    "قويۇق قايماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yogʻli qaymoq"
+                ],
+                "Kazakh": [
+                    "майлы кілегей"
+                ],
+                "Tatar": [
+                    "майлы каймак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "süt kaymağı"
+                ],
+                "Karakalpak": [
+                    "sút qaymaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "krema"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kəsmə qaymaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кілегей"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сүзмө каймак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өстен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һөт өҫтө"
+                ]
+            }
+        }
+    ]
+}

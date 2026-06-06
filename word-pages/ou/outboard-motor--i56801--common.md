@@ -1,0 +1,128 @@
+# Outboard motor
+| Field | Detail |
+|---|---|
+| **ID** | i56801 |
+| **English** | outboard motor |
+| **Type** | noun |
+| **Definition** | internal-combustion engine that mounts at stern of small boat |
+| **Source** | common |
+| **Ortatil** | kıymıldatkıç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| кыймылдаткыч | kıymıldatkıç |
+
+```json
+{
+    "id": "i56801",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "outboard motor",
+    "en_definition": "internal-combustion engine that mounts at stern of small boat",
+    "tr_word": "dıştan takma motor",
+    "tr_definition": "Küçük teknelerin kıç tarafına monte edilen içten yanmalı motor.",
+    "ru_word": "лодочный мотор",
+    "ru_definition": "Двигатель внутреннего сгорания, устанавливаемый на корме маломерного судна.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qayıq mühərriki"
+                ],
+                "Turkmen": [
+                    "gaýyk motory"
+                ],
+                "Uzbek": [
+                    "qayiq motori",
+                    "qayiq dvigateli"
+                ],
+                "Kazakh": [
+                    "қайық моторы"
+                ],
+                "Kyrgyz": [
+                    "кайык мотору",
+                    "кыймылдаткыч"
+                ],
+                "Karakalpak": [
+                    "qayıq dwigateli",
+                    "qayıq motorı"
+                ],
+                "Bashkir": [
+                    "ҡайыҡ моторы",
+                    "ҡайыҡ двигателе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "asma mühərrik",
+                    "asma motor"
+                ],
+                "Uzbek": [
+                    "osma motor"
+                ],
+                "Kazakh": [
+                    "аспалы қозғалтқыш",
+                    "аспалы мотор"
+                ],
+                "Tatar": [
+                    "асылмалы мотор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daşky motor"
+                ],
+                "Uyghur": [
+                    "تاشقى ماتور"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېمە ماتورى"
+                ],
+                "Tatar": [
+                    "көймә моторы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dıştan takma motor",
+                    "kıçtan takma motor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deniz motoru",
+                    "tekne motoru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көймә двигателе"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,134 @@
+{
+    "id": "i14123",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "nauseated",
+    "en_definition": "feeling nausea; feeling about to vomit",
+    "tr_word": "midesi bulanmış",
+    "tr_definition": "mide bulantısı hisseden; kusmak üzereymiş gibi hisseden",
+    "ru_word": "испытывающий тошноту",
+    "ru_definition": "чувствующий тошноту; состояние, когда хочется вырвать",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻngli aynigan",
+                    "koʻngli behuzur",
+                    "koʻngli ozgan",
+                    "koʻngli buzuq"
+                ],
+                "Uyghur": [
+                    "كۆڭلى ئېلىشقان",
+                    "كۆڭلى ئاينىغان"
+                ],
+                "Kazakh": [
+                    "көңілі айныған"
+                ],
+                "Kyrgyz": [
+                    "көңүлү айланган"
+                ],
+                "Karakalpak": [
+                    "kóńli aynıǵan"
+                ],
+                "Tatar": [
+                    "күңел болганган",
+                    "күңел болганулы",
+                    "күңеле болганучы"
+                ],
+                "Bashkir": [
+                    "күңел болғаныу",
+                    "күңел болғанған",
+                    "күңел болғаныулы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bulanık"
+                ],
+                "Turkmen": [
+                    "ýüregi bulanyp duran",
+                    "ýüregi bulanan"
+                ],
+                "Uyghur": [
+                    "يۈرىكى ئېلىشقان"
+                ],
+                "Kazakh": [
+                    "жүрегі айныған"
+                ],
+                "Kyrgyz": [
+                    "жүрөгү айланган"
+                ],
+                "Karakalpak": [
+                    "júregi aynıǵan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "құсқысы келген"
+                ],
+                "Kyrgyz": [
+                    "кускусу келген"
+                ],
+                "Tatar": [
+                    "косасы килгән"
+                ],
+                "Bashkir": [
+                    "ҡоҫҡоһо килгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "midesi bulanmış"
+                ],
+                "Azerbaijani": [
+                    "mədəsi bulanan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mütekebbi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ürəkbulanan",
+                    "ürəyi bulanan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "naxoş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ynjalyksyz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ishi pısqan"
+                ]
+            }
+        }
+    ]
+}

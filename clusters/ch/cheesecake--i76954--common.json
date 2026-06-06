@@ -1,0 +1,96 @@
+{
+    "id": "i76954",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cheesecake",
+    "en_definition": "made with sweetened cream cheese and eggs and cream baked in a crumb crust",
+    "tr_word": "peynirli kek",
+    "tr_definition": "Şekerli krem peynir, yumurta ve krema ile hazırlanan, genellikle bisküvi tabanlı bir tatlı.",
+    "ru_word": "чизкейк",
+    "ru_definition": "Десерт из творога или мягкого сыра на основе из печенья или теста.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "peynirli pasta",
+                    "peynir keki",
+                    "peynir tatlısı"
+                ],
+                "Azerbaijani": [
+                    "pendir piroqu",
+                    "pendirli tort"
+                ],
+                "Turkmen": [
+                    "peýnirli tort",
+                    "peýnirli pişme",
+                    "peýnirli süýjülik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "pishloqli pirog"
+                ],
+                "Uyghur": [
+                    "پىشلاق تورتى",
+                    "پىشلاقلىق تورت"
+                ],
+                "Kyrgyz": [
+                    "быштак торту",
+                    "быштак пирогу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сүзбелі бәліш",
+                    "сүзбелі тәтті"
+                ],
+                "Karakalpak": [
+                    "súzbeli bálish",
+                    "súzbeli pirog"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ірімшік бәліші"
+                ],
+                "Bashkir": [
+                    "эремсек бәлеше",
+                    "эремсек кәсәһе",
+                    "эремсек торты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kəsmikli piroq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tvorogli pirog",
+                    "tvorogli shirinlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эремчек пирогы",
+                    "эремчекле бәлеш",
+                    "эремчекле татлы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "i46162",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "loon",
+    "en_definition": "large somewhat primitive fish-eating diving bird of the northern hemisphere having webbed feet placed far back; related to the grebes",
+    "tr_word": "dalgıç kuşu",
+    "tr_definition": "Kuzey Yarımküre'de yaşayan, perdeli ayakları vücudunun oldukça gerisinde bulunan, balıkla beslenen ve suya çok iyi dalan iri bir kuş türü.",
+    "ru_word": "гагара",
+    "ru_definition": "Крупная водоплавающая птица северных широт с перепончатыми лапами, приспособленная к нырянию и питающаяся рыбой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karabatak"
+                ],
+                "Turkmen": [
+                    "gabara",
+                    "gagara"
+                ],
+                "Kyrgyz": [
+                    "гагара"
+                ],
+                "Karakalpak": [
+                    "qaraǵaǵa"
+                ],
+                "Tatar": [
+                    "гагара"
+                ],
+                "Bashkir": [
+                    "ғағара",
+                    "ҡағара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qaqar"
+                ],
+                "Uzbek": [
+                    "g'ovur",
+                    "g'ovur o'rdak",
+                    "g'ovvos"
+                ],
+                "Uyghur": [
+                    "غەۋۋاس قۇش",
+                    "غەۋۋاس"
+                ],
+                "Kazakh": [
+                    "қағаз",
+                    "қағаз үйрек"
+                ],
+                "Karakalpak": [
+                    "ǵaǵa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dalgıç kuşu"
+                ],
+                "Azerbaijani": [
+                    "dalğıc quşu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чумкуур"
+                ],
+                "Tatar": [
+                    "чумгыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "buz dalgıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұжық"
+                ]
+            }
+        }
+    ]
+}

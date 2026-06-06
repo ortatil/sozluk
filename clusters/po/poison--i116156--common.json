@@ -1,0 +1,101 @@
+{
+    "id": "i116156",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "poison",
+    "en_definition": "any substance that causes injury or illness or death of a living organism",
+    "tr_word": "zehir",
+    "tr_definition": "canlı bir organizmaya zarar veren, hastalık yapan veya ölüme neden olan her türlü madde",
+    "ru_word": "яд",
+    "ru_definition": "любое вещество, вызывающее повреждение, болезнь или смерть живого организма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zehir"
+                ],
+                "Azerbaijani": [
+                    "zəhər"
+                ],
+                "Turkmen": [
+                    "zäher"
+                ],
+                "Uzbek": [
+                    "zahar"
+                ],
+                "Uyghur": [
+                    "زەھەر"
+                ],
+                "Kazakh": [
+                    "зәр"
+                ],
+                "Kyrgyz": [
+                    "заар"
+                ],
+                "Karakalpak": [
+                    "záhár"
+                ],
+                "Tatar": [
+                    "зәһәр"
+                ],
+                "Bashkir": [
+                    "зәһәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "agu"
+                ],
+                "Azerbaijani": [
+                    "ağı"
+                ],
+                "Turkmen": [
+                    "agu"
+                ],
+                "Uzbek": [
+                    "og'u"
+                ],
+                "Uyghur": [
+                    "ئاغۇ"
+                ],
+                "Kyrgyz": [
+                    "уу"
+                ],
+                "Tatar": [
+                    "агу"
+                ],
+                "Bashkir": [
+                    "ағыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "у"
+                ],
+                "Karakalpak": [
+                    "u"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мәкәр"
+                ]
+            }
+        }
+    ]
+}

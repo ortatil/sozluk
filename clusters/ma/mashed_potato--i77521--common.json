@@ -1,0 +1,112 @@
+{
+    "id": "i77521",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mashed potato",
+    "en_definition": "potato that has been peeled and boiled and then mashed",
+    "tr_word": "patates püresi",
+    "tr_definition": "Haşlanmış patateslerin ezilip süt, tereyağı veya krema ile karıştırılmasıyla hazırlanan yemek.",
+    "ru_word": "картофельное пюре",
+    "ru_definition": "Блюдо из отварного и растолченного картофеля, обычно с добавлением молока и масла.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ezme patates"
+                ],
+                "Azerbaijani": [
+                    "əzilmiş kartof"
+                ],
+                "Turkmen": [
+                    "ezilen kartoşka"
+                ],
+                "Uzbek": [
+                    "ezilgan kartoshka"
+                ],
+                "Uyghur": [
+                    "ئېزىلگەن ياڭيۇ"
+                ],
+                "Kazakh": [
+                    "езілген картоп"
+                ],
+                "Kyrgyz": [
+                    "эзилген картошка"
+                ],
+                "Bashkir": [
+                    "иҙелгән бәрәңге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kartof püresi"
+                ],
+                "Turkmen": [
+                    "kartoşka pýuresi"
+                ],
+                "Uzbek": [
+                    "kartoshka pyuresi"
+                ],
+                "Kazakh": [
+                    "картоп езбесі"
+                ],
+                "Kyrgyz": [
+                    "картошка пюреси"
+                ],
+                "Karakalpak": [
+                    "kartoshka ezbesi",
+                    "kartoshka pyuresi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýenjilen kartoşka"
+                ],
+                "Uyghur": [
+                    "ياڭيۇ پۈرىسى"
+                ],
+                "Kyrgyz": [
+                    "жанчылган картошка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәрәңге измәсе",
+                    "бәрәңге пюресы"
+                ],
+                "Bashkir": [
+                    "бәрәңге иҙмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "patates püresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuyilgan kartoshka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياڭيۇ ئېزىمىسى"
+                ]
+            }
+        }
+    ]
+}

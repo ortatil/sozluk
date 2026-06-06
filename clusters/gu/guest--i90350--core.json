@@ -1,0 +1,95 @@
+{
+    "id": "i90350",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "guest",
+    "en_definition": "a visitor to whom hospitality is extended",
+    "tr_word": "misafir",
+    "tr_definition": "bir yere veya birinin evine kısa bir süre kalmak için gelen kimse, konuk",
+    "ru_word": "гость",
+    "ru_definition": "человек, посещающий кого-либо с целью общения или пребывания в гостях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konuk"
+                ],
+                "Azerbaijani": [
+                    "qonaq"
+                ],
+                "Turkmen": [
+                    "gonak"
+                ],
+                "Kazakh": [
+                    "қонақ"
+                ],
+                "Kyrgyz": [
+                    "конок"
+                ],
+                "Karakalpak": [
+                    "qonaq"
+                ],
+                "Tatar": [
+                    "кунак"
+                ],
+                "Bashkir": [
+                    "ҡунаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "misafir"
+                ],
+                "Azerbaijani": [
+                    "müsafir"
+                ],
+                "Uzbek": [
+                    "musofir"
+                ],
+                "Uyghur": [
+                    "مۇساپىر"
+                ],
+                "Tatar": [
+                    "мөсафир"
+                ],
+                "Bashkir": [
+                    "мөсәфир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "myhman"
+                ],
+                "Uzbek": [
+                    "mehmon"
+                ],
+                "Uyghur": [
+                    "مېھمان"
+                ],
+                "Kazakh": [
+                    "мейман"
+                ],
+                "Kyrgyz": [
+                    "мейман"
+                ],
+                "Karakalpak": [
+                    "miyman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жолаушы"
+                ]
+            }
+        }
+    ]
+}

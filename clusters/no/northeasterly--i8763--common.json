@@ -1,0 +1,86 @@
+{
+    "id": "i8763",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "northeasterly",
+    "en_definition": "coming from the northeast",
+    "tr_word": "kuzeydoğudan esen",
+    "tr_definition": "kuzeydoğu yönünden gelen (genellikle rüzgar için kullanılır)",
+    "ru_word": "северо-восточный",
+    "ru_definition": "дующий или направленный с северо-востока",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şimal-şərqi",
+                    "şimal-şərqdən əsən"
+                ],
+                "Uzbek": [
+                    "shimoli-sharqiy",
+                    "shimoli-sharqdan esuvchi"
+                ],
+                "Uyghur": [
+                    "شىمالىي شەرقتىن كەلگەن",
+                    "شىمالىي شەرق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "түндүк-чыгыштан соккон",
+                    "түндүк-чыгыш"
+                ],
+                "Tatar": [
+                    "төньяк-көнчыгыштан",
+                    "төньяк-көнчыгыш"
+                ],
+                "Bashkir": [
+                    "төньяҡ-көнсығыштан",
+                    "төньяҡ-көнсығыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "poyrazdan esen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuzeydoğudan esen",
+                    "kuzeydoğulu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demirgazyk-gündogar",
+                    "demirgazyk-gündogardan öwüsýän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстік-шығыстан соққан",
+                    "солтүстік-шығыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "arqa-shıǵıs",
+                    "arqa-shıǵıstan soqqan"
+                ]
+            }
+        }
+    ]
+}

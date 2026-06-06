@@ -1,0 +1,87 @@
+{
+    "id": "i14047",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "warm-blooded",
+    "en_definition": "having warm blood (in animals whose body temperature is internally regulated)",
+    "tr_word": "sıcakkanlı",
+    "tr_definition": "Vücut ısısı çevre sıcaklığından bağımsız olarak sabit kalan (hayvanlar için).",
+    "ru_word": "теплокровный",
+    "ru_definition": "Обладающий постоянной температурой тела, не зависящей от температуры окружающей среды.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "istiqanlı",
+                    "istiqan"
+                ],
+                "Uzbek": [
+                    "issiq qonli",
+                    "issiq qonli hayvonlar"
+                ],
+                "Uyghur": [
+                    "ئىسسىق قانلىق",
+                    "ئىسسىق قان"
+                ],
+                "Kazakh": [
+                    "ыстық қанды"
+                ],
+                "Kyrgyz": [
+                    "ысык кандуу"
+                ],
+                "Karakalpak": [
+                    "ıssı qanlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "yly ganly"
+                ],
+                "Kazakh": [
+                    "жылы қанды"
+                ],
+                "Kyrgyz": [
+                    "жылуу кандуу"
+                ],
+                "Karakalpak": [
+                    "jılı qanlı"
+                ],
+                "Tatar": [
+                    "җылы канлы"
+                ],
+                "Bashkir": [
+                    "йылы ҡанлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кайнар канлы"
+                ],
+                "Bashkir": [
+                    "ҡайнар ҡанлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıcakkanlı",
+                    "sıcak kanlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyzgyn ganly"
+                ]
+            }
+        }
+    ]
+}

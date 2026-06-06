@@ -1,0 +1,123 @@
+{
+    "id": "i51463",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "canteen",
+    "en_definition": "sells food and personal items to personnel at an institution or school or camp etc.",
+    "tr_word": "kantin",
+    "tr_definition": "Okul, kışla, kurum gibi yerlerde yiyecek, içecek ve çeşitli ihtiyaç maddelerinin satıldığı yer.",
+    "ru_word": "столовая",
+    "ru_definition": "Предприятие общественного питания при учреждении, школе или лагере, где продаются еда и предметы первой необходимости.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşevi"
+                ],
+                "Azerbaijani": [
+                    "aşxana"
+                ],
+                "Turkmen": [
+                    "aşhana"
+                ],
+                "Uzbek": [
+                    "oshxona",
+                    "oshxona-bufet"
+                ],
+                "Uyghur": [
+                    "ئاشخانا"
+                ],
+                "Kazakh": [
+                    "асхана"
+                ],
+                "Kyrgyz": [
+                    "ашкана"
+                ],
+                "Karakalpak": [
+                    "asxana"
+                ],
+                "Tatar": [
+                    "ашханә",
+                    "аш бүлмәсе"
+                ],
+                "Bashkir": [
+                    "ашхана",
+                    "аш-һыу бүлмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "taomxona"
+                ],
+                "Uyghur": [
+                    "تاماقخانا"
+                ],
+                "Kazakh": [
+                    "тамақтану орны",
+                    "дәмхана"
+                ],
+                "Kyrgyz": [
+                    "тамаккана"
+                ],
+                "Karakalpak": [
+                    "tamaqxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kantin"
+                ],
+                "Turkmen": [
+                    "kantin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemekhane"
+                ],
+                "Azerbaijani": [
+                    "yeməkxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bufet"
+                ],
+                "Uyghur": [
+                    "بۇفېت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kumanya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "naharhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аш-су бүлмәсе"
+                ]
+            }
+        }
+    ]
+}

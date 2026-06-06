@@ -1,0 +1,99 @@
+{
+    "id": "i69689",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "adverb",
+    "en_definition": "the word class that qualifies verbs or clauses",
+    "tr_word": "zarf",
+    "tr_definition": "fiilleri, sıfatları veya diğer zarfları niteleyen sözcük türü",
+    "ru_word": "наречие",
+    "ru_definition": "часть речи, обозначающая признак действия, состояния или качества",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hal"
+                ],
+                "Uzbek": [
+                    "holat"
+                ],
+                "Uyghur": [
+                    "ھالەت سۆز"
+                ],
+                "Tatar": [
+                    "хәл"
+                ],
+                "Bashkir": [
+                    "хәл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ravish"
+                ],
+                "Uyghur": [
+                    "رەۋىش"
+                ],
+                "Karakalpak": [
+                    "ráwish",
+                    "ráoish"
+                ],
+                "Tatar": [
+                    "рәвеш"
+                ],
+                "Bashkir": [
+                    "рәүеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zarf"
+                ],
+                "Azerbaijani": [
+                    "zərf"
+                ],
+                "Turkmen": [
+                    "zarf"
+                ],
+                "Kyrgyz": [
+                    "зарп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "belirteç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үстеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "пысықтауыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тактооч"
+                ]
+            }
+        }
+    ]
+}

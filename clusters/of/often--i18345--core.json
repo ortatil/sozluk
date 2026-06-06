@@ -1,0 +1,176 @@
+{
+    "id": "i18345",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "often",
+    "en_definition": "many times at short intervals",
+    "tr_word": "sık sık",
+    "tr_definition": "kısa aralıklarla birçok kez",
+    "ru_word": "часто",
+    "ru_definition": "много раз через короткие промежутки времени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sık",
+                    "sıkça"
+                ],
+                "Azerbaijani": [
+                    "sıx-sıx"
+                ],
+                "Turkmen": [
+                    "ýygy-ýygydan"
+                ],
+                "Kazakh": [
+                    "жиі",
+                    "жиі-жиі"
+                ],
+                "Kyrgyz": [
+                    "жийи"
+                ],
+                "Karakalpak": [
+                    "jiyi"
+                ],
+                "Tatar": [
+                    "еш",
+                    "еш-еш"
+                ],
+                "Bashkir": [
+                    "йыш",
+                    "йыш-йыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köplenç"
+                ],
+                "Uzbek": [
+                    "koʻp"
+                ],
+                "Uyghur": [
+                    "كۆپ قېتىم"
+                ],
+                "Kazakh": [
+                    "көп"
+                ],
+                "Kyrgyz": [
+                    "көп"
+                ],
+                "Karakalpak": [
+                    "kóp"
+                ],
+                "Tatar": [
+                    "күپ тапкыр",
+                    "күп мәртәбә"
+                ],
+                "Bashkir": [
+                    "күп тапҡыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tez-tez"
+                ],
+                "Turkmen": [
+                    "tez-tez"
+                ],
+                "Uzbek": [
+                    "tez-tez"
+                ],
+                "Uyghur": [
+                    "تېز-تېز"
+                ],
+                "Kyrgyz": [
+                    "тез-тез"
+                ],
+                "Karakalpak": [
+                    "tez-tez"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekseriyetle"
+                ],
+                "Azerbaijani": [
+                    "əksərən"
+                ],
+                "Uzbek": [
+                    "aksar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "әрдайым"
+                ],
+                "Karakalpak": [
+                    "hár dayım"
+                ],
+                "Bashkir": [
+                    "һәр ваҡыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çoğu kez",
+                    "çoğu zaman"
+                ],
+                "Azerbaijani": [
+                    "çox vaxt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پات-پات"
+                ],
+                "Kyrgyz": [
+                    "бат-бат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دائىم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "takror-takror"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hamisha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ençeme gezek"
+                ]
+            }
+        }
+    ]
+}

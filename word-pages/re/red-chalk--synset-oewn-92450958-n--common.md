@@ -1,0 +1,116 @@
+# Red chalk
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-92450958-n |
+| **English** | red chalk |
+| **Type** | noun |
+| **Definition** | chalk of a reddish-brown colour that resembles dried blood |
+| **Source** | common |
+| **Ortatil** | säñiñä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سېغىز | seğiz |
+
+```json
+{
+    "id": "synset-oewn-92450958-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "red chalk",
+    "en_definition": "chalk of a reddish-brown colour that resembles dried blood",
+    "tr_word": "kızıl tebeşir",
+    "tr_definition": "kurumuş kanı andıran, kırmızımsı kahverengi bir renge sahip tebeşir",
+    "ru_word": "сангина",
+    "ru_definition": "мел красно-коричневого цвета, напоминающий запекшуюся кровь",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızıl tebeşir",
+                    "kızıl kalem"
+                ],
+                "Turkmen": [
+                    "gyzyl hek",
+                    "gyzyl tebeşir",
+                    "gyzyl toprak"
+                ],
+                "Uzbek": [
+                    "qizil bo'r",
+                    "qizil kesak"
+                ],
+                "Uyghur": [
+                    "قىزىل تاش",
+                    "قىزىل بور"
+                ],
+                "Kazakh": [
+                    "қызыл бор",
+                    "қызыл топырақ",
+                    "қызыл тас"
+                ],
+                "Kyrgyz": [
+                    "кызыл бор",
+                    "кызыл абра",
+                    "кызыл топурак"
+                ],
+                "Karakalpak": [
+                    "qızıl bor",
+                    "qızıl kesek",
+                    "qızıl topıraq"
+                ],
+                "Tatar": [
+                    "кызыл акбур",
+                    "кызыл таш",
+                    "кызыл балчык"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл аҡбур",
+                    "ҡыҙыл буяу",
+                    "ҡыҙыл балсыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırmızı tebeşir"
+                ],
+                "Azerbaijani": [
+                    "qırmızı təbaşir",
+                    "qırmızı gil",
+                    "qırmızı təbaşir daşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kan taşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sangina"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سېغىز"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,70 @@
+{
+    "id": "i78949",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lime juice",
+    "en_definition": "usually freshly squeezed juice of limes",
+    "tr_word": "misket limonu suyu",
+    "tr_definition": "genellikle taze sıkılmış misket limonu suyu",
+    "ru_word": "сок лайма",
+    "ru_definition": "обычно свежевыжатый сок лайма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "laym suyu"
+                ],
+                "Azerbaijani": [
+                    "laym şirəsi",
+                    "laym suyu"
+                ],
+                "Turkmen": [
+                    "laým suwy",
+                    "laým şiresi"
+                ],
+                "Uzbek": [
+                    "laymun sharbati",
+                    "laymun suvi"
+                ],
+                "Kazakh": [
+                    "лайм шырыны",
+                    "лайм суы"
+                ],
+                "Kyrgyz": [
+                    "лайм ширеси"
+                ],
+                "Karakalpak": [
+                    "laym shiresi",
+                    "laym suoı"
+                ],
+                "Tatar": [
+                    "лайм суы",
+                    "лайм шәрабәсе"
+                ],
+                "Bashkir": [
+                    "лайм һуты",
+                    "лайм шәбәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "misket limonu suyu"
+                ],
+                "Kyrgyz": [
+                    "ачуу лимон ширеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "لىمون سۈيى",
+                    "لىمون شەربىتى"
+                ]
+            }
+        }
+    ]
+}

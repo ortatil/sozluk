@@ -1,0 +1,151 @@
+{
+    "id": "i36509",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "write-in",
+    "en_definition": "a vote cast by writing in the name of a candidate who is not listed on the ballot",
+    "tr_word": "yazılı aday",
+    "tr_definition": "oy pusulasında adı bulunmayan bir adayın isminin seçmen tarafından elle yazılarak verilmesi veya bu şekilde verilen oy",
+    "ru_word": "вписанный кандидат",
+    "ru_definition": "голос, поданный за кандидата, имя которого не было напечатано в избирательном бюллетене, но было вписано избирателем вручную",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazılı oy"
+                ],
+                "Azerbaijani": [
+                    "yazılı səs"
+                ],
+                "Turkmen": [
+                    "ýazmaça ses"
+                ],
+                "Uzbek": [
+                    "yozma ovoz"
+                ],
+                "Uyghur": [
+                    "يېزىپ كىرگۈزۈلگەن ئاۋاز"
+                ],
+                "Kyrgyz": [
+                    "жазып кошуу"
+                ],
+                "Karakalpak": [
+                    "jazbasha dauıs"
+                ],
+                "Tatar": [
+                    "язма тавыш"
+                ],
+                "Bashkir": [
+                    "яҙып бирелгән тауыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşmaça ses"
+                ],
+                "Uzbek": [
+                    "qoʻshimcha nomzod"
+                ],
+                "Uyghur": [
+                    "قوشۇمچە نامزاتقا بېرىلگەن ئاۋاز"
+                ],
+                "Kazakh": [
+                    "қосымша жазылған есім"
+                ],
+                "Kyrgyz": [
+                    "кошумча добуш"
+                ],
+                "Karakalpak": [
+                    "qosımsha dauıs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تىزىملىكتىن تاشقىرى ئاۋاز"
+                ],
+                "Kazakh": [
+                    "тізімнен тыс дауыс беру"
+                ],
+                "Kyrgyz": [
+                    "тизмеден тышкары добуш"
+                ],
+                "Karakalpak": [
+                    "tіzіmnen tıs dauıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өстәмә тавыш"
+                ],
+                "Bashkir": [
+                    "өҫтәмә тауыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "liste dışı oy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "serbest oy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əlavə səs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qeyd olunmamış namizədə səs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sanawdan daşary ses"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "erkin nomzod"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өз бетінше жазылған үміткер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "исемлек тышындагы тавыш"
+                ]
+            }
+        }
+    ]
+}

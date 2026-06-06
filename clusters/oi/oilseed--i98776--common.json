@@ -1,0 +1,72 @@
+{
+    "id": "i98776",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oilseed",
+    "en_definition": "any of several seeds that yield oil",
+    "tr_word": "yağlı tohum",
+    "tr_definition": "yağ elde edilen çeşitli tohumların her biri",
+    "ru_word": "масличное семя",
+    "ru_definition": "семена растений, из которых получают растительное масло",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağlı tohum",
+                    "yağ bitkisi",
+                    "yağlı dane"
+                ],
+                "Azerbaijani": [
+                    "yağlı toxum",
+                    "yağlı bitki toxumu",
+                    "yağlı dən"
+                ],
+                "Turkmen": [
+                    "ýagly tohum",
+                    "ýagly däne"
+                ],
+                "Uzbek": [
+                    "moyli urug'",
+                    "yog'li urug'",
+                    "moyli don"
+                ],
+                "Kazakh": [
+                    "майлы дақыл",
+                    "майлы тұқым"
+                ],
+                "Kyrgyz": [
+                    "майлуу урук"
+                ],
+                "Karakalpak": [
+                    "maylı tuqım",
+                    "maylı dán"
+                ],
+                "Tatar": [
+                    "майлы орлык"
+                ],
+                "Bashkir": [
+                    "майлы орлоҡ",
+                    "майлы үҫемлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "مايلىق زىرائەت",
+                    "ماي دانلىرى",
+                    "ماي ئۇرۇقى"
+                ],
+                "Kyrgyz": [
+                    "май өсүмдүгү",
+                    "май өсүмдүк уругу"
+                ],
+                "Tatar": [
+                    "май орлыгы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "id": "i48256",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dairy cattle",
+    "en_definition": "cattle that are reared for their milk",
+    "tr_word": "süt sığırı",
+    "tr_definition": "Sütü için yetiştirilen, süt verimi yüksek sığır cinsi.",
+    "ru_word": "молочный скот",
+    "ru_definition": "Крупный рогатый скот, разводимый специально для получения молока.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "süt sığırı",
+                    "süt ineği"
+                ],
+                "Azerbaijani": [
+                    "südlik mal",
+                    "südverən mal",
+                    "südlik qaramal"
+                ],
+                "Uzbek": [
+                    "sutdor mol",
+                    "sut beradigan mol"
+                ],
+                "Uyghur": [
+                    "سۈت كالىسى",
+                    "سۈتلۈك كالا"
+                ],
+                "Kazakh": [
+                    "сүтті сиыр",
+                    "сүт бағытындағы ірі қара"
+                ],
+                "Kyrgyz": [
+                    "сүттүү уй"
+                ],
+                "Karakalpak": [
+                    "sút baǵıtındaǵı mal",
+                    "sútti mal"
+                ],
+                "Tatar": [
+                    "сөт сыеры",
+                    "сөтле терлек"
+                ],
+                "Bashkir": [
+                    "һөтлө һыйырҙар",
+                    "һөт малдары",
+                    "һөтлө мал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağımlık inek"
+                ],
+                "Azerbaijani": [
+                    "sağılan mal"
+                ],
+                "Turkmen": [
+                    "sagylýan sygyrlar"
+                ],
+                "Uzbek": [
+                    "sogʻin sigir"
+                ],
+                "Kazakh": [
+                    "сауын сиыр"
+                ],
+                "Karakalpak": [
+                    "sauın sıyır"
+                ],
+                "Tatar": [
+                    "савым сыеры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýtli sygyrlar",
+                    "süýt berýän mallar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "саан уй",
+                    "саан мал"
+                ]
+            }
+        }
+    ]
+}

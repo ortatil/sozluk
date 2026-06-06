@@ -1,0 +1,124 @@
+{
+    "id": "i62019",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "odds",
+    "en_definition": "the likelihood of a thing occurring rather than not occurring",
+    "tr_word": "ihtimal",
+    "tr_definition": "bir şeyin gerçekleşme olasılığı",
+    "ru_word": "шансы",
+    "ru_definition": "вероятность того, что событие произойдет, а не не произойдет",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ihtimal"
+                ],
+                "Azerbaijani": [
+                    "ehtimal"
+                ],
+                "Turkmen": [
+                    "ähtimallyk"
+                ],
+                "Uzbek": [
+                    "ehtimol",
+                    "ehtimollik"
+                ],
+                "Uyghur": [
+                    "ئېھتىماللىق",
+                    "ئېھتىمال"
+                ],
+                "Kazakh": [
+                    "ықтималдық"
+                ],
+                "Kyrgyz": [
+                    "ыктымалдык",
+                    "ыктымал"
+                ],
+                "Karakalpak": [
+                    "ıqtimallıq"
+                ],
+                "Tatar": [
+                    "ихтималлык"
+                ],
+                "Bashkir": [
+                    "ихтималлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mümkinçilik"
+                ],
+                "Uyghur": [
+                    "مۇمكىنچىلىك"
+                ],
+                "Kazakh": [
+                    "мүмкіндік",
+                    "мүмкіншілік"
+                ],
+                "Kyrgyz": [
+                    "мүмкүндүк"
+                ],
+                "Karakalpak": [
+                    "múmkinshilik",
+                    "múmkinlik"
+                ],
+                "Tatar": [
+                    "мөмкинлек"
+                ],
+                "Bashkir": [
+                    "мөмкинлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şans"
+                ],
+                "Azerbaijani": [
+                    "şans"
+                ],
+                "Bashkir": [
+                    "ышаныс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "imkan"
+                ],
+                "Uzbek": [
+                    "imkoniyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "olasılık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өмет"
+                ]
+            }
+        }
+    ]
+}

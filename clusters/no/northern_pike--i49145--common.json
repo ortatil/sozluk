@@ -1,0 +1,80 @@
+{
+    "id": "i49145",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "northern pike",
+    "en_definition": "voracious piscivorous pike of waters of northern hemisphere",
+    "tr_word": "turna balığı",
+    "tr_definition": "Kuzey Yarımküre'nin tatlı sularında yaşayan, çok yırtıcı ve etçil bir balık türü.",
+    "ru_word": "щука обыкновенная",
+    "ru_definition": "хищная пресноводная рыба северного полушария, отличающаяся большой прожорливостью.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çortan"
+                ],
+                "Uzbek": [
+                    "shurta",
+                    "shurta baliq",
+                    "cho'rtan",
+                    "cho'rtan baliq"
+                ],
+                "Uyghur": [
+                    "چورتان بېلىق",
+                    "چورتان"
+                ],
+                "Kazakh": [
+                    "шортан",
+                    "шортан балық"
+                ],
+                "Kyrgyz": [
+                    "чортон",
+                    "чортон балык"
+                ],
+                "Karakalpak": [
+                    "shortan",
+                    "shortan balıq"
+                ],
+                "Tatar": [
+                    "чуртан"
+                ],
+                "Bashkir": [
+                    "суртан",
+                    "суртан балығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "turna balığı",
+                    "turna"
+                ],
+                "Azerbaijani": [
+                    "turna balığı"
+                ],
+                "Turkmen": [
+                    "turna balygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çay turnası",
+                    "adi turna"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "акбалык"
+                ]
+            }
+        }
+    ]
+}

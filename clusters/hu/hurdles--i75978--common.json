@@ -1,0 +1,87 @@
+{
+    "id": "i75978",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hurdles",
+    "en_definition": "a footrace in which contestants must negotiate a series of hurdles",
+    "tr_word": "engelli koşu",
+    "tr_definition": "Yarışmacıların bir dizi engelin üzerinden atlamasını gerektiren bir koşu yarışı.",
+    "ru_word": "бег с барьерами",
+    "ru_definition": "Вид легкой атлетики, в котором участники должны преодолевать серию барьеров на дистанции.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "böwetli ylgaw",
+                    "pökgerili ylgaw"
+                ],
+                "Kazakh": [
+                    "бөгеттер арқылы жүгіру"
+                ],
+                "Kyrgyz": [
+                    "бөгөттөр менен чуркоо"
+                ],
+                "Karakalpak": [
+                    "bógetler arqalı júgirio",
+                    "bógetli júgiris"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'siqlar osha yugurish",
+                    "to'siqli yugurish"
+                ],
+                "Uyghur": [
+                    "توساقلىق يۈگۈرۈش",
+                    "توساقلاردىن ئۆتۈش مۇسابىقىسى",
+                    "توساقلىق بەيگە"
+                ],
+                "Kyrgyz": [
+                    "тоскоолдуктар менен чуркоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "engelli koşu",
+                    "engelli yarış"
+                ],
+                "Azerbaijani": [
+                    "maneəli qaçış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "киртәле йөгерү",
+                    "киртәле ярыш"
+                ],
+                "Bashkir": [
+                    "кәртәле йүгереү",
+                    "кәртәләр аша йүгереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sədlərlə qaçış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кедергілер арқылы жүгіру",
+                    "кедергілі жарыс"
+                ]
+            }
+        }
+    ]
+}

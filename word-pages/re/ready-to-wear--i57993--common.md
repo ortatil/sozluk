@@ -1,0 +1,100 @@
+# Ready-to-wear
+| Field | Detail |
+|---|---|
+| **ID** | i57993 |
+| **English** | ready-to-wear |
+| **Type** | noun |
+| **Definition** | ready-made clothing |
+| **Source** | common |
+| **Ortatil** | konfeksiyon |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i57993",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ready-to-wear",
+    "en_definition": "ready-made clothing",
+    "tr_word": "hazır giyim",
+    "tr_definition": "Standart ölçülere göre seri olarak üretilmiş, hemen giyilmeye hazır giysi.",
+    "ru_word": "готовое платье",
+    "ru_definition": "Одежда стандартных размеров, изготовленная в массовом производстве для немедленной продажи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýýar eşik",
+                    "taýýar lybas",
+                    "taýýar geýim"
+                ],
+                "Uzbek": [
+                    "tayyor kiyim",
+                    "tayyor libos"
+                ],
+                "Uyghur": [
+                    "تەييار كىيىم",
+                    "تەييار كىيىم-كېچەك"
+                ],
+                "Kazakh": [
+                    "дайын киім",
+                    "тігілген киім"
+                ],
+                "Kyrgyz": [
+                    "даяр кийим"
+                ],
+                "Karakalpak": [
+                    "dayar kiyim",
+                    "tayın kiyim"
+                ],
+                "Tatar": [
+                    "тегелгән кием"
+                ],
+                "Bashkir": [
+                    "тегелгән кейем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hazır giyim"
+                ],
+                "Azerbaijani": [
+                    "hazır geyim",
+                    "hazır paltar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "әзер кием"
+                ],
+                "Bashkir": [
+                    "әҙер кейем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "konfeksiyon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тигилген кийим"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,86 @@
+{
+    "id": "i51528",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cargo hatch",
+    "en_definition": "hatch opening into the cargo compartment",
+    "tr_word": "kargo kapağı",
+    "tr_definition": "kargo bölmesine açılan kapak",
+    "ru_word": "грузовой люк",
+    "ru_definition": "люк, открывающийся в грузовой отсек",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yük kapağı"
+                ],
+                "Azerbaijani": [
+                    "yük qapağı",
+                    "yük lükü",
+                    "yük anbarı ağzı"
+                ],
+                "Turkmen": [
+                    "ýük gapysy",
+                    "ýük lýugy",
+                    "ýük agzy"
+                ],
+                "Uzbek": [
+                    "yuk darchasi",
+                    "yuk tuynugi",
+                    "yuk qopqog'i"
+                ],
+                "Uyghur": [
+                    "يۈك ئېغىزى",
+                    "يۈك قاپقىقى"
+                ],
+                "Kazakh": [
+                    "жүк люгі",
+                    "жүк есігі",
+                    "жүк қақпағы"
+                ],
+                "Kyrgyz": [
+                    "жүк капкагы",
+                    "жүк эшиги",
+                    "жүк люгу"
+                ],
+                "Karakalpak": [
+                    "júk auzı",
+                    "júk esigi",
+                    "júk qaqpaǵı"
+                ],
+                "Tatar": [
+                    "йөк капкачы",
+                    "йөк ишеге",
+                    "йөк люгы"
+                ],
+                "Bashkir": [
+                    "йөк люгы",
+                    "йөк ишеге",
+                    "йөк тишеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ambar kapağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kargo kapağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۈك بۆلمىسى ئېغىزى"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+# Pear-shaped
+| Field | Detail |
+|---|---|
+| **ID** | i11192 |
+| **English** | pear-shaped |
+| **Type** | adjective |
+| **Definition** | having a round shape tapered at one end |
+| **Source** | common |
+| **Ortatil** | almurut |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **almurut** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **2.10** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| نەشپۈتسىمان | näşpütsiman |
+| **Kyrgyz** | |
+| алмуруттай | almuruttay |
+| **Tatar** | |
+| армутсыман | armutsıman |
+
+```json
+{
+    "id": "i11192",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "pear-shaped",
+    "en_definition": "having a round shape tapered at one end",
+    "tr_word": "armut biçimli",
+    "tr_definition": "bir ucu geniş ve yuvarlak, diğer ucu daha dar olan şekil",
+    "ru_word": "грушевидный",
+    "ru_definition": "имеющий форму груши, расширяющийся к одному концу и сужающийся к другому",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "armudi",
+                    "armut biçimli",
+                    "armut şeklinde"
+                ],
+                "Azerbaijani": [
+                    "armudvari",
+                    "armudşəkilli"
+                ],
+                "Turkmen": [
+                    "armyt şekilli",
+                    "armytpisint",
+                    "armytmeňzeş"
+                ],
+                "Kazakh": [
+                    "алмұрт пішінді",
+                    "алмұрт тәрізді",
+                    "алмұрт мүсінді"
+                ],
+                "Kyrgyz": [
+                    "алмурут сымал",
+                    "алмуруттай",
+                    "алмурут формасындагы"
+                ],
+                "Karakalpak": [
+                    "almurttay",
+                    "almurt tárizli",
+                    "almurt pishindegi"
+                ],
+                "Tatar": [
+                    "армутсыман",
+                    "армут рәвешендәге",
+                    "армут формасындагы"
+                ],
+                "Bashkir": [
+                    "армут һымаҡ",
+                    "армут рәүешле",
+                    "армут формаһындағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "noksimon",
+                    "nokshakl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەشپۈتسىمان",
+                    "نەشپۈت شەكىللىك"
+                ]
+            }
+        }
+    ]
+}
+```
+

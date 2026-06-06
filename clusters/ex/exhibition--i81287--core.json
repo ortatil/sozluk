@@ -1,0 +1,128 @@
+{
+    "id": "i81287",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "exhibition",
+    "en_definition": "a collection of things (goods or works of art etc.) for public display",
+    "tr_word": "sergi",
+    "tr_definition": "Halkın görmesi için bir araya getirilmiş nesneler veya sanat eserleri topluluğu.",
+    "ru_word": "выставка",
+    "ru_definition": "Собрание предметов (товаров, произведений искусства и т. д.) для публичного показа.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "görkezme"
+                ],
+                "Uzbek": [
+                    "ko'rgazma"
+                ],
+                "Uyghur": [
+                    "كۆرگەزمە"
+                ],
+                "Kazakh": [
+                    "көрме"
+                ],
+                "Kyrgyz": [
+                    "көргөзмө",
+                    "көргөзүү"
+                ],
+                "Karakalpak": [
+                    "kórgizbe"
+                ],
+                "Tatar": [
+                    "күргәзмә"
+                ],
+                "Bashkir": [
+                    "күрһәтмә",
+                    "күргәҙмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sergi"
+                ],
+                "Azerbaijani": [
+                    "sərgi"
+                ],
+                "Turkmen": [
+                    "sergi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nümayiş"
+                ],
+                "Uzbek": [
+                    "namoyish"
+                ],
+                "Uyghur": [
+                    "نەمايىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meşher"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "teşhir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жәдігер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қойылым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жармаңке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tamasha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәкъдим"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мәжлес"
+                ]
+            }
+        }
+    ]
+}

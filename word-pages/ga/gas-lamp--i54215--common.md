@@ -1,0 +1,89 @@
+# Gas lamp
+| Field | Detail |
+|---|---|
+| **ID** | i54215 |
+| **English** | gas lamp |
+| **Type** | noun |
+| **Definition** | a lamp that burns illuminating gas |
+| **Source** | common |
+| **Ortatil** | fener |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i54215",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gas lamp",
+    "en_definition": "a lamp that burns illuminating gas",
+    "tr_word": "gaz lambası",
+    "tr_definition": "Aydınlatma gazı yakarak ışık veren lamba.",
+    "ru_word": "газовая лампа",
+    "ru_definition": "Лампа, в которой свет получается путём сжигания газообразного топлива.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gaz lambası"
+                ],
+                "Azerbaijani": [
+                    "qaz çırağı",
+                    "qaz fənəri",
+                    "qaz lampası"
+                ],
+                "Turkmen": [
+                    "gaz çyrasy",
+                    "gaz feneri"
+                ],
+                "Uzbek": [
+                    "gaz chiroq",
+                    "gaz fano"
+                ],
+                "Uyghur": [
+                    "گاز چىرىغى",
+                    "گاز لامپىسى"
+                ],
+                "Kazakh": [
+                    "газ шамы",
+                    "газ фонары"
+                ],
+                "Kyrgyz": [
+                    "газ чырак",
+                    "газ лампа"
+                ],
+                "Karakalpak": [
+                    "gaz shıra",
+                    "gaz lampa"
+                ],
+                "Tatar": [
+                    "газ лампасы",
+                    "газ яктырткычы"
+                ],
+                "Bashkir": [
+                    "газ лампаһы",
+                    "газ фонары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fener"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kandil"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,98 @@
+{
+    "id": "i10756",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "repeatable",
+    "en_definition": "able or fit to be repeated or quoted",
+    "tr_word": "tekrarlanabilir",
+    "tr_definition": "tekrarlanmaya veya alıntılanmaya uygun olan",
+    "ru_word": "повторяемый",
+    "ru_definition": "пригодный для повторения или цитирования",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekrarlanabilir"
+                ],
+                "Azerbaijani": [
+                    "təkrarlanan",
+                    "təkrarlana bilən",
+                    "təkrarolunan"
+                ],
+                "Uzbek": [
+                    "takrorlanuvchi",
+                    "takrorlanadigan"
+                ],
+                "Uyghur": [
+                    "تەكرارلىنىدىغان",
+                    "تەكرارلاشقا بولىدىغان"
+                ],
+                "Karakalpak": [
+                    "tákirarlanatuǵın"
+                ],
+                "Tatar": [
+                    "тәкрарланучан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtalanýan",
+                    "gaýtalanmaly",
+                    "gaýtalamaga degişli",
+                    "gaýtalamaga laýyk"
+                ],
+                "Uzbek": [
+                    "qaytariladigan"
+                ],
+                "Uyghur": [
+                    "قايتىلىنىدىغان"
+                ],
+                "Kazakh": [
+                    "қайталанбалы",
+                    "қайталанатын",
+                    "қайталауға болатын"
+                ],
+                "Kyrgyz": [
+                    "кайталануучу",
+                    "кайталанма",
+                    "кайталанмалуу"
+                ],
+                "Karakalpak": [
+                    "qaytalanbalı",
+                    "qaytalanatuǵın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабатланучан",
+                    "кабатланырлык"
+                ],
+                "Bashkir": [
+                    "ҡабатланыусан",
+                    "ҡабатланыусы",
+                    "ҡабатларлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yinelenebilir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mükerrer"
+                ]
+            }
+        }
+    ]
+}

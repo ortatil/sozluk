@@ -1,0 +1,83 @@
+{
+    "id": "i79171",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "woodpile",
+    "en_definition": "a pile or stack of wood to be used for fuel",
+    "tr_word": "odun yığını",
+    "tr_definition": "yakacak olarak kullanılmak üzere üst üste dizilmiş odun kümesi",
+    "ru_word": "поленница",
+    "ru_definition": "ровно сложенная куча дров для хранения и сушки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "odun yığını",
+                    "odunluk",
+                    "odun kümesi"
+                ],
+                "Azerbaijani": [
+                    "odunluq",
+                    "odun yığını",
+                    "odun qalağı"
+                ],
+                "Turkmen": [
+                    "odun üýşmegi",
+                    "odun gatlamy",
+                    "odun desdesi"
+                ],
+                "Uzbek": [
+                    "o'tin qalami",
+                    "o'tin dasta",
+                    "o'tin g'arami",
+                    "o'tin uyumi"
+                ],
+                "Uyghur": [
+                    "ئوتۇن دۆۋىسى",
+                    "ئوتۇنلۇق",
+                    "ئوتۇن قەلىمى"
+                ],
+                "Kazakh": [
+                    "отын",
+                    "отын үйіндісі",
+                    "отын қалауы",
+                    "отындық"
+                ],
+                "Kyrgyz": [
+                    "отун",
+                    "отун-суу"
+                ],
+                "Karakalpak": [
+                    "otın",
+                    "otın-shop",
+                    "otın qalandısı"
+                ],
+                "Tatar": [
+                    "утын өеме",
+                    "утынлык",
+                    "утын калагы"
+                ],
+                "Bashkir": [
+                    "утын өйөмө",
+                    "утынлыҡ",
+                    "утын кәбәне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кырман"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үймөк отун"
+                ]
+            }
+        }
+    ]
+}

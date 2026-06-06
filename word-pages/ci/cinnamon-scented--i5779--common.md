@@ -1,0 +1,92 @@
+# Cinnamon-scented
+| Field | Detail |
+|---|---|
+| **ID** | i5779 |
+| **English** | cinnamon-scented |
+| **Type** | adjective |
+| **Definition** | smelling of cinnamon |
+| **Source** | common |
+| **Ortatil** | dölçünlü |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i5779",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "cinnamon-scented",
+    "en_definition": "smelling of cinnamon",
+    "tr_word": "tarçın kokulu",
+    "tr_definition": "tarçın gibi kokan",
+    "ru_word": "с ароматом корицы",
+    "ru_definition": "имеющий запах корицы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarçın kokulu",
+                    "tarçın kokan",
+                    "tarçın ıtriyetli"
+                ],
+                "Azerbaijani": [
+                    "darçın qoxulu",
+                    "darçın ətirli",
+                    "darçın iyli"
+                ],
+                "Turkmen": [
+                    "darçyn ysly",
+                    "darçyn ysy gelýän",
+                    "darçyn hoşboýly"
+                ],
+                "Uzbek": [
+                    "dolchin bo'yli",
+                    "dolchin hidli",
+                    "dolchin iforli"
+                ],
+                "Uyghur": [
+                    "دارچىن پۇراقلىق",
+                    "دارچىن پۇرىقى كېلىدىغان",
+                    "دارچىن ھىدلىق"
+                ],
+                "Kazakh": [
+                    "даршын иісті",
+                    "даршын жұпарлы",
+                    "даршын аңқыған"
+                ],
+                "Kyrgyz": [
+                    "дарчын жыттуу",
+                    "дарчын жыты аңкыган",
+                    "дарчын жыттанган"
+                ],
+                "Karakalpak": [
+                    "darshın iyisli",
+                    "darshın jıslı",
+                    "darshın muńlı"
+                ],
+                "Tatar": [
+                    "дарчин исле",
+                    "дарчин хуш исле",
+                    "дарчин анкыган"
+                ],
+                "Bashkir": [
+                    "дарсын еҫле",
+                    "дарсын еҫе килгән",
+                    "дарсын еҫе аңҡыған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dolchinli"
+                ]
+            }
+        }
+    ]
+}
+```
+

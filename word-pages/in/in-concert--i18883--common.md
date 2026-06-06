@@ -1,0 +1,281 @@
+# In concert
+| Field | Detail |
+|---|---|
+| **ID** | i18883 |
+| **English** | in concert |
+| **Type** | adverb |
+| **Definition** | with a common plan |
+| **Source** | common |
+| **Ortatil** | birliktä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **birliktä** | **ittifaqla** | **hämahänktä** | **kelişip** |
+|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ | ❌ |
+| Kazakh | ✅ | ❌ | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ❌ | ✅ |
+| Bashkir | ✅ | ❌ | ❌ | ✅ |
+| *Oghuz Subtotal* | 1 | 0.33 | 0.33 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 1 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.20 | 0 | 1 |
+| *In All* | ✅ | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |
+| **O'TQ** | **4** | **2.03** | **1.33** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بىرلىكتە | birliktä |
+| ھەمكارلىشىپ | hämkarlişip |
+| ماسلىشىپ | maslişip |
+| **Kazakh** | |
+| бірлесіп | birlesip |
+| келісіп | kelisip |
+| ортақтасып | ortaqtasıp |
+| ұйымдасып | uyımdasıp |
+| жұмыла | jumıla |
+| **Kyrgyz** | |
+| биргелешип | birgeleşip |
+| бирдикте | birdikte |
+| кеңешип | keñeşip |
+| ынтымакта | ıntımakta |
+| макулдашып | makuldaşıp |
+| **Tatar** | |
+| бергәләп | bergäläp |
+| бердәм | berdäm |
+| берлектә | berlektä |
+| килешеп | kileşep |
+| иттифакъ | ittifak |
+| **Bashkir** | |
+| бергәләп | bergäläp |
+| берҙәм | berzäm |
+| берлектә | berlektä |
+| килешеп | kileşep |
+
+```json
+{
+    "id": "i18883",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "in concert",
+    "en_definition": "with a common plan",
+    "tr_word": "el birliğiyle",
+    "tr_definition": "ortak bir plan dahilinde, birlikte hareket ederek",
+    "ru_word": "согласованно",
+    "ru_definition": "действуя по общему плану или в согласии друг с другом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "birlikte",
+                    "beraberce"
+                ],
+                "Azerbaijani": [
+                    "birlikdə"
+                ],
+                "Turkmen": [
+                    "birleşip"
+                ],
+                "Uzbek": [
+                    "birgalikda"
+                ],
+                "Uyghur": [
+                    "بىرلىكتە",
+                    "بىر نىيەتتە"
+                ],
+                "Kazakh": [
+                    "бірлесіп"
+                ],
+                "Kyrgyz": [
+                    "биргелешип",
+                    "бирдикте"
+                ],
+                "Karakalpak": [
+                    "birgelikte",
+                    "birlesip",
+                    "bir aoızdan"
+                ],
+                "Tatar": [
+                    "бергәләп",
+                    "бердәм",
+                    "берлектә"
+                ],
+                "Bashkir": [
+                    "бергәләп",
+                    "берҙәм",
+                    "берлектә",
+                    "бер ауыҙҙан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kelishilgan holda"
+                ],
+                "Kazakh": [
+                    "келісіп"
+                ],
+                "Kyrgyz": [
+                    "кеңешип"
+                ],
+                "Karakalpak": [
+                    "kelisimli"
+                ],
+                "Tatar": [
+                    "килешеп"
+                ],
+                "Bashkir": [
+                    "килешеп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ittifakla"
+                ],
+                "Uzbek": [
+                    "ittifoqlikda"
+                ],
+                "Tatar": [
+                    "иттифакъ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həmahəng"
+                ],
+                "Uzbek": [
+                    "hamjihatlikda",
+                    "hamkorlikda"
+                ],
+                "Uyghur": [
+                    "ھەمكارلىشىپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ortaklaşa"
+                ],
+                "Kazakh": [
+                    "ортақтасып"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uyum içinde"
+                ],
+                "Kazakh": [
+                    "ұйымдасып"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماسلىشىپ"
+                ],
+                "Karakalpak": [
+                    "másláhátli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el birliğiyle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müştərək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əl-ələ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vahid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "agzybir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hyzmatdaşlykda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arkalaşyp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "özara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмыла"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ынтымакта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "макулдашып"
+                ]
+            }
+        }
+    ]
+}
+```
+

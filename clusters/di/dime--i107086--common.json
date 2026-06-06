@@ -1,0 +1,111 @@
+{
+    "id": "i107086",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dime",
+    "en_definition": "a United States coin worth one tenth of a dollar",
+    "tr_word": "on sentlik madeni para",
+    "tr_definition": "Amerika Birleşik Devletleri'nde bir doların onda birine eşit olan madeni para",
+    "ru_word": "дайм",
+    "ru_definition": "монета США достоинством в десять центов (одна десятая доллара)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "on sentlik madeni para",
+                    "onluk",
+                    "on sent"
+                ],
+                "Azerbaijani": [
+                    "on sentlik",
+                    "onluq",
+                    "on sentlik sikkə"
+                ],
+                "Turkmen": [
+                    "onluk"
+                ],
+                "Uyghur": [
+                    "ئون سېنتلىق تەڭگە",
+                    "ئون سېنت"
+                ],
+                "Tatar": [
+                    "ун тиенлек"
+                ],
+                "Bashkir": [
+                    "ун центлыҡ тәңкә",
+                    "ун центлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "teňňe"
+                ],
+                "Uzbek": [
+                    "tangacha"
+                ],
+                "Uyghur": [
+                    "تەڭگە"
+                ],
+                "Kazakh": [
+                    "тиын",
+                    "теңге"
+                ],
+                "Tatar": [
+                    "тәңкә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chaqa"
+                ],
+                "Kazakh": [
+                    "ақша"
+                ],
+                "Kyrgyz": [
+                    "акча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pul"
+                ],
+                "Uzbek": [
+                    "pul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тыйын"
+                ],
+                "Karakalpak": [
+                    "tıyın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dime"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ун тиенлек тәңкә"
+                ]
+            }
+        }
+    ]
+}

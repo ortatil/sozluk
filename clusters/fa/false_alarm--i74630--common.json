@@ -1,0 +1,129 @@
+{
+    "id": "i74630",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "false alarm",
+    "en_definition": "a warning that is given about something that fails to occur",
+    "tr_word": "asılsız ihbar",
+    "tr_definition": "gerçekleşmeyen bir durum hakkında verilen yanıltıcı uyarı",
+    "ru_word": "ложная тревога",
+    "ru_definition": "предупреждение о чем-либо, что на самом деле не произошло",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yalancı alarm",
+                    "yanlış alarm"
+                ],
+                "Azerbaijani": [
+                    "yalançı həyəcan",
+                    "yalançı xəbərdarlıq"
+                ],
+                "Turkmen": [
+                    "ýalan duýduryş",
+                    "ýalan habar"
+                ],
+                "Uzbek": [
+                    "yolg'on xabar",
+                    "yolg'on bong"
+                ],
+                "Uyghur": [
+                    "يالغان سىگنال",
+                    "يالغان خەۋەر"
+                ],
+                "Kazakh": [
+                    "жалған дабыл"
+                ],
+                "Kyrgyz": [
+                    "жалган коңгуроо",
+                    "жалган кабар"
+                ],
+                "Karakalpak": [
+                    "jalǵan dabıl",
+                    "jalǵan xabar"
+                ],
+                "Tatar": [
+                    "ялган хәвеф",
+                    "ялган тревога"
+                ],
+                "Bashkir": [
+                    "ялған хәүеф",
+                    "ялған сигнал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boş alarm"
+                ],
+                "Azerbaijani": [
+                    "boş həyəcan"
+                ],
+                "Kazakh": [
+                    "бос дабыл"
+                ],
+                "Tatar": [
+                    "буш хәвеф"
+                ],
+                "Bashkir": [
+                    "буш хәүеф"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇرۇق سىگنال"
+                ],
+                "Kyrgyz": [
+                    "куру коңгуроо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "asılsız ihbar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "boş howp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "behuda tashvish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خاتا سىگنال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "негізсіз үрей"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "biykarǵı dabıl"
+                ]
+            }
+        }
+    ]
+}

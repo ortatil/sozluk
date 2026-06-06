@@ -1,0 +1,182 @@
+# Cockpit
+| Field | Detail |
+|---|---|
+| **ID** | i52111 |
+| **English** | cockpit |
+| **Type** | noun |
+| **Definition** | compartment where the pilot sits while flying the aircraft |
+| **Source** | common |
+| **Ortatil** | kabina |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kabina** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.73** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كابىنا | kabina |
+| **Tatar** | |
+| кабина | kabina |
+| **Bashkir** | |
+| кабина | kabina |
+
+```json
+{
+    "id": "i52111",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cockpit",
+    "en_definition": "compartment where the pilot sits while flying the aircraft",
+    "tr_word": "kokpit",
+    "tr_definition": "Hava taşıtlarında pilotun oturduğu ve uçağı yönettiği bölme.",
+    "ru_word": "кабина",
+    "ru_definition": "Специальное помещение в передней части самолета, где находятся пилоты и приборы управления.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "başqar"
+                ],
+                "Uzbek": [
+                    "boshqaruvxona"
+                ],
+                "Uyghur": [
+                    "باشقۇرۇش ئۆيى"
+                ],
+                "Kazakh": [
+                    "басқару бөлмесі"
+                ],
+                "Kyrgyz": [
+                    "башкаруу кабинасы"
+                ],
+                "Karakalpak": [
+                    "basqaru kabinası",
+                    "basqaru bólmesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uçuş kabini"
+                ],
+                "Uzbek": [
+                    "uchuvchixona"
+                ],
+                "Uyghur": [
+                    "ئۇچقۇچىلار ئۆيى"
+                ],
+                "Kyrgyz": [
+                    "учкучтун орду"
+                ],
+                "Tatar": [
+                    "очучы бүлмәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kabina"
+                ],
+                "Uzbek": [
+                    "kabina"
+                ],
+                "Uyghur": [
+                    "كابىنا"
+                ],
+                "Tatar": [
+                    "кабина"
+                ],
+                "Bashkir": [
+                    "кабина"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "idarəetmə otağı"
+                ],
+                "Tatar": [
+                    "идарә бүлмәсе"
+                ],
+                "Bashkir": [
+                    "идара итеү урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pilot kabini"
+                ],
+                "Azerbaijani": [
+                    "pilot kabini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұшқыш кабинасы"
+                ],
+                "Karakalpak": [
+                    "ushqısh ornı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kokpit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uçarmanyň ýeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dolandyryş bölümi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "осоусы бүлмәһе"
+                ]
+            }
+        }
+    ]
+}
+```
+

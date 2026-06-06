@@ -1,0 +1,110 @@
+{
+    "id": "i16488",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "architectural",
+    "en_definition": "of or pertaining to the art and science of architecture",
+    "tr_word": "mimari",
+    "tr_definition": "mimarlık sanatı ve bilimi ile ilgili olan",
+    "ru_word": "архитектурный",
+    "ru_definition": "относящийся к архитектуре, искусству и науке проектирования зданий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mimari",
+                    "mimarlıkla ilgili"
+                ],
+                "Azerbaijani": [
+                    "memarlıq",
+                    "memari"
+                ],
+                "Turkmen": [
+                    "mimarlyk"
+                ],
+                "Uzbek": [
+                    "meʼmoriy"
+                ],
+                "Uyghur": [
+                    "مىمارلىققا ئائىت",
+                    "مىمارلىق"
+                ],
+                "Kazakh": [
+                    "ғимараттық"
+                ],
+                "Tatar": [
+                    "мигъмари"
+                ],
+                "Bashkir": [
+                    "миғмари"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "binagärlik"
+                ],
+                "Uzbek": [
+                    "binokorlikka oid"
+                ],
+                "Uyghur": [
+                    "بىناكارلىققا ئائىت",
+                    "بىناكارلىق"
+                ],
+                "Bashkir": [
+                    "бина"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сәулеттік",
+                    "сәулет"
+                ],
+                "Karakalpak": [
+                    "sáulet",
+                    "sáuletshilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "архитектуралык",
+                    "имараттык"
+                ],
+                "Karakalpak": [
+                    "imaratshılıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төзелеш"
+                ],
+                "Bashkir": [
+                    "төҙөлөш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yapısal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "курулуштук"
+                ]
+            }
+        }
+    ]
+}

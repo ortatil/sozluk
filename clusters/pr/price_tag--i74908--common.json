@@ -1,0 +1,104 @@
+{
+    "id": "i74908",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "price tag",
+    "en_definition": "a tag showing the price of the article it is attached to",
+    "tr_word": "fiyat etiketi",
+    "tr_definition": "üzerine iliştirildiği ürünün fiyatını gösteren etiket",
+    "ru_word": "ценник",
+    "ru_definition": "ярлык на товаре с указанием его цены",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bahasy"
+                ],
+                "Uzbek": [
+                    "bahonoma"
+                ],
+                "Uyghur": [
+                    "باھا خېتى",
+                    "باھا بەلگىسى",
+                    "باھا يارلىقى"
+                ],
+                "Kazakh": [
+                    "баға көрсеткіш",
+                    "бағалық",
+                    "баға қағазы"
+                ],
+                "Kyrgyz": [
+                    "баа белгиси",
+                    "баа кагазы"
+                ],
+                "Karakalpak": [
+                    "baha belgisi",
+                    "baha kórsetkishi"
+                ],
+                "Tatar": [
+                    "бәя язуы",
+                    "бәя кәгазе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nyrhnamasy",
+                    "nyrh haty"
+                ],
+                "Uzbek": [
+                    "narxnoma"
+                ],
+                "Kyrgyz": [
+                    "нарк белгиси"
+                ],
+                "Karakalpak": [
+                    "nırxnama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fiyat etiketi"
+                ],
+                "Azerbaijani": [
+                    "qiymət nişanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "etiket"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qiymət etiketi",
+                    "qiymət kağızı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәянамә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хаҡнамә",
+                    "хаҡ билдәһе"
+                ]
+            }
+        }
+    ]
+}

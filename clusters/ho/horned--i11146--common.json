@@ -1,0 +1,82 @@
+{
+    "id": "i11146",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "horned",
+    "en_definition": "having a horn or horns or hornlike parts or horns of a particular kind",
+    "tr_word": "boynuzlu",
+    "tr_definition": "boynuzu veya boynuz benzeri çıkıntıları olan",
+    "ru_word": "рогатый",
+    "ru_definition": "имеющий рога или роговидные выросты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "مۈڭگۈزلۈك",
+                    "مۈڭگۈزى بار"
+                ],
+                "Kazakh": [
+                    "мүйізді",
+                    "мүйізшелі"
+                ],
+                "Kyrgyz": [
+                    "мүйүздүү",
+                    "мүйүзү бар"
+                ],
+                "Karakalpak": [
+                    "múyizdar"
+                ],
+                "Tatar": [
+                    "мөгезле"
+                ],
+                "Bashkir": [
+                    "мөгөҙлө",
+                    "мөгөҙбикә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boynuzlu",
+                    "boynuzsu"
+                ],
+                "Azerbaijani": [
+                    "buynuzlu",
+                    "buynuzvari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şahly",
+                    "şahlyja",
+                    "şahly-pudakly"
+                ],
+                "Uzbek": [
+                    "shoxli",
+                    "shoxdor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "múyizli"
+                ],
+                "Tatar": [
+                    "мөгезле-сырлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qoçbuynuzlu"
+                ]
+            }
+        }
+    ]
+}

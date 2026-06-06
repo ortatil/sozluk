@@ -1,0 +1,142 @@
+{
+    "id": "i5879",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "canned",
+    "en_definition": "sealed in a can or jar",
+    "tr_word": "konserve",
+    "tr_definition": "Bir kutu veya kavanoz içinde mühürlenmiş, bozulmaması için hazırlanmış yiyecek",
+    "ru_word": "консервированный",
+    "ru_definition": "Запечатанный в жестяную или стеклянную банку для длительного хранения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konserve"
+                ],
+                "Azerbaijani": [
+                    "konservləşdirilmiş"
+                ],
+                "Turkmen": [
+                    "konserwirlenen"
+                ],
+                "Uzbek": [
+                    "konservalangan"
+                ],
+                "Uyghur": [
+                    "كونسېرۋالانغان"
+                ],
+                "Kazakh": [
+                    "консервіленген"
+                ],
+                "Kyrgyz": [
+                    "консерваланган"
+                ],
+                "Karakalpak": [
+                    "konserwlegen"
+                ],
+                "Tatar": [
+                    "консервланган"
+                ],
+                "Bashkir": [
+                    "консервланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saklanmış"
+                ],
+                "Azerbaijani": [
+                    "bağlanmış"
+                ],
+                "Turkmen": [
+                    "gaplanan"
+                ],
+                "Karakalpak": [
+                    "saqlanǵan"
+                ],
+                "Tatar": [
+                    "сакланган"
+                ],
+                "Bashkir": [
+                    "һаҡланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yopilgan"
+                ],
+                "Kazakh": [
+                    "жабылған"
+                ],
+                "Kyrgyz": [
+                    "жабылган"
+                ],
+                "Karakalpak": [
+                    "jabılǵan"
+                ],
+                "Tatar": [
+                    "ябылган"
+                ],
+                "Bashkir": [
+                    "ябылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "saqlangan"
+                ],
+                "Kazakh": [
+                    "сақталған"
+                ],
+                "Kyrgyz": [
+                    "сакталган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kutulanmış"
+                ],
+                "Kazakh": [
+                    "құтыланған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qablaşdırılmış"
+                ],
+                "Turkmen": [
+                    "gaply"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاچىلانغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەييارلانغان"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "id": "i59622",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stone wall",
+    "en_definition": "a fence built of rough stones; used to separate fields",
+    "tr_word": "taş duvar",
+    "tr_definition": "tarlaları ayırmak için kaba taşlardan örülmüş çit veya engel",
+    "ru_word": "каменная стена",
+    "ru_definition": "забор, построенный из необработанных камней; используется для разделения полей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taş duvar"
+                ],
+                "Azerbaijani": [
+                    "daş hasar",
+                    "daş divar",
+                    "daş çəpər"
+                ],
+                "Turkmen": [
+                    "daş diwar",
+                    "daş haýat",
+                    "daş germew"
+                ],
+                "Uzbek": [
+                    "toshdevor",
+                    "tosh devor"
+                ],
+                "Uyghur": [
+                    "تاش تام",
+                    "تاش قورۇق",
+                    "تاش توسۇق"
+                ],
+                "Kazakh": [
+                    "тас қорған",
+                    "тас дуал",
+                    "тас шарбак"
+                ],
+                "Kyrgyz": [
+                    "таш дубал",
+                    "таш коргон",
+                    "таш тосмо"
+                ],
+                "Karakalpak": [
+                    "tas duoal",
+                    "tas qorǵan",
+                    "tas sherebe"
+                ],
+                "Tatar": [
+                    "таш койма",
+                    "таш дивар",
+                    "таш киртә"
+                ],
+                "Bashkir": [
+                    "таш ҡойма",
+                    "таш диуар",
+                    "таш кәртә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taş örgü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taş çit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hörgü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "paxsa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "devor"
+                ]
+            }
+        }
+    ]
+}

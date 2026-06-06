@@ -1,0 +1,156 @@
+{
+    "id": "i27455",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "eat out",
+    "en_definition": "eat at a restaurant or at somebody else's home",
+    "tr_word": "dışarıda yemek",
+    "tr_definition": "bir restoranda veya başka birinin evinde yemek yemek",
+    "ru_word": "есть вне дома",
+    "ru_definition": "питаться в ресторане или в гостях, а не дома",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qonaq getmək"
+                ],
+                "Kazakh": [
+                    "қонақта болу"
+                ],
+                "Kyrgyz": [
+                    "конокто болуу"
+                ],
+                "Karakalpak": [
+                    "qonaqta bolıo"
+                ],
+                "Tatar": [
+                    "кунакта ашау"
+                ],
+                "Bashkir": [
+                    "ҡунаҡта ашау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dışarıda yemek",
+                    "dışarıda yemek yemek"
+                ],
+                "Turkmen": [
+                    "daşarda iýmek"
+                ],
+                "Uzbek": [
+                    "tashqarida ovqatlanmoq"
+                ],
+                "Tatar": [
+                    "тышта ашау"
+                ],
+                "Bashkir": [
+                    "тышта ашау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تاماقتىن سىرتتا بولماق",
+                    "سىرتتا تاماقلانماق",
+                    "سىرتتا تاماق يېمەك"
+                ],
+                "Kazakh": [
+                    "сырттан тамақтану"
+                ],
+                "Kyrgyz": [
+                    "сырттан тамактануу"
+                ],
+                "Karakalpak": [
+                    "sırtta aoqatlanıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "myhmançylykda iýmek"
+                ],
+                "Uzbek": [
+                    "mehmonda bo'lmoq"
+                ],
+                "Kyrgyz": [
+                    "мейманга баруу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oshxonada ovqatlanmoq"
+                ],
+                "Tatar": [
+                    "ашханәдә ашау"
+                ],
+                "Bashkir": [
+                    "ашханала ашау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "naharhanada iýmek"
+                ],
+                "Kazakh": [
+                    "дәмханада тамақтану"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lokantada yemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çöldə yemək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bayırda yemək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "restoranda yemək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түзде тамақтану"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aoqatqa barıo"
+                ]
+            }
+        }
+    ]
+}

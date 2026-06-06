@@ -1,0 +1,118 @@
+{
+    "id": "i82410",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "churchyard",
+    "en_definition": "the yard associated with a church",
+    "tr_word": "kilise bahçesi",
+    "tr_definition": "bir kilisenin etrafındaki arazi, genellikle mezarlık olarak kullanılan alan",
+    "ru_word": "церковный двор",
+    "ru_definition": "участок земли, прилегающий к церкви, часто используемый как кладбище",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "cherkov hovlisi"
+                ],
+                "Uyghur": [
+                    "چېركاۋ ھويلىسى",
+                    "چېركاۋ مەيدانى",
+                    "چېركاۋ قورۇسى"
+                ],
+                "Kazakh": [
+                    "шіркеу ауласы",
+                    "шіркеу маңы"
+                ],
+                "Karakalpak": [
+                    "zirat"
+                ],
+                "Tatar": [
+                    "чиркәү ишегалды",
+                    "чиркәү бакчасы",
+                    "чиркәү яны"
+                ],
+                "Bashkir": [
+                    "сиркәү ихатаһы",
+                    "сиркәү баҡсаһы",
+                    "сиркәү алды"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məzarlıq"
+                ],
+                "Uzbek": [
+                    "mozoriston"
+                ],
+                "Karakalpak": [
+                    "mazar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kilise bahçesi",
+                    "kilise avlusu",
+                    "kilise haziresi"
+                ],
+                "Azerbaijani": [
+                    "kilsə həyəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəbiristanlıq"
+                ],
+                "Uzbek": [
+                    "qabriston"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "короо"
+                ],
+                "Karakalpak": [
+                    "qorım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "buthana howlusy",
+                    "buthana mellegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ibodatxona hovlisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айлана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бакча"
+                ]
+            }
+        }
+    ]
+}

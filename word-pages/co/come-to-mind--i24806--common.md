@@ -1,0 +1,215 @@
+# Come to mind
+| Field | Detail |
+|---|---|
+| **ID** | i24806 |
+| **English** | come to mind |
+| **Type** | verb |
+| **Definition** | be remembered |
+| **Source** | common |
+| **Ortatil** | hatırlanmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| эстөө | estöö |
+
+```json
+{
+    "id": "i24806",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "come to mind",
+    "en_definition": "be remembered",
+    "tr_word": "aklına gelmek",
+    "tr_definition": "bir şeyi aniden hatırlamak veya bir düşüncenin zihinde belirmesi",
+    "ru_word": "приходить на ум",
+    "ru_definition": "вспомниться или внезапно возникнуть в сознании",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "esga tushmoq"
+                ],
+                "Uyghur": [
+                    "ئەسكە چۈشمەك"
+                ],
+                "Kazakh": [
+                    "еске түсу",
+                    "еске оралу"
+                ],
+                "Kyrgyz": [
+                    "эске түшүү",
+                    "эске келүү"
+                ],
+                "Karakalpak": [
+                    "eske túsio"
+                ],
+                "Tatar": [
+                    "искә төшү"
+                ],
+                "Bashkir": [
+                    "иҫкә төшөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yad edilmek"
+                ],
+                "Azerbaijani": [
+                    "yada düşmək",
+                    "yadına düşmək"
+                ],
+                "Turkmen": [
+                    "ýada düşmek"
+                ],
+                "Uzbek": [
+                    "yodga tushmoq",
+                    "yodga kelmoq"
+                ],
+                "Uyghur": [
+                    "يادقا كەلمەك"
+                ],
+                "Karakalpak": [
+                    "yadına túsio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köňle gelmek"
+                ],
+                "Uyghur": [
+                    "كۆڭلىگە كەلمەك"
+                ],
+                "Kyrgyz": [
+                    "көңүлгө келүү"
+                ],
+                "Tatar": [
+                    "күңелгә килү"
+                ],
+                "Bashkir": [
+                    "күңелгә килеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ойға келу"
+                ],
+                "Kyrgyz": [
+                    "ойго келүү"
+                ],
+                "Karakalpak": [
+                    "oyǵa kelio"
+                ],
+                "Tatar": [
+                    "уйга килү"
+                ],
+                "Bashkir": [
+                    "уйға килеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hatırlanmak"
+                ],
+                "Azerbaijani": [
+                    "xatırlanmaq"
+                ],
+                "Tatar": [
+                    "хәтергә килү"
+                ],
+                "Bashkir": [
+                    "хәтергә килеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akla gelmek"
+                ],
+                "Azerbaijani": [
+                    "ağıla gəlmək"
+                ],
+                "Turkmen": [
+                    "akla gelmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zihne gelmek"
+                ],
+                "Turkmen": [
+                    "zikir edilmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xayolga kelmoq"
+                ],
+                "Uyghur": [
+                    "خىيالىغا كەلمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anımsanmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fikrinə gəlmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көкейге қону"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эстөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "esine túsio"
+                ]
+            }
+        }
+    ]
+}
+```
+

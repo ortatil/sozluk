@@ -1,0 +1,159 @@
+# Pogo stick
+| Field | Detail |
+|---|---|
+| **ID** | i57491 |
+| **English** | pogo stick |
+| **Type** | noun |
+| **Definition** | plaything consisting of a pole with foot rests and a strong spring; propelled by jumping |
+| **Source** | common |
+| **Ortatil** | säkeregiç |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **säkeregiç** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| сикергеч | sikergeç |
+| **Bashkir** | |
+| һикергес | hikerges |
+
+```json
+{
+    "id": "i57491",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pogo stick",
+    "en_definition": "plaything consisting of a pole with foot rests and a strong spring; propelled by jumping",
+    "tr_word": "pogo çubuğu",
+    "tr_definition": "üzerinde ayak koyma yerleri ve güçlü bir yay bulunan, zıplayarak hareket ettirilen bir oyun aracı",
+    "ru_word": "пого-стик",
+    "ru_definition": "устройство для прыжков, состоящее из вертикального стержня с подножками и пружиной",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sakragich",
+                    "sakrash moslamasi"
+                ],
+                "Uyghur": [
+                    "سەكرەش كالتىكى"
+                ],
+                "Kazakh": [
+                    "секіргіш таяқ"
+                ],
+                "Kyrgyz": [
+                    "секирме таяк"
+                ],
+                "Karakalpak": [
+                    "sekіrgіsh tayaq"
+                ],
+                "Tatar": [
+                    "сикергеч",
+                    "сикерү таягы"
+                ],
+                "Bashkir": [
+                    "һикергес",
+                    "һикергес таяҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pružinaly taýak"
+                ],
+                "Uzbek": [
+                    "prujinali tayoq"
+                ],
+                "Kyrgyz": [
+                    "пружиналуу таяк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pogo çubuğu"
+                ],
+                "Turkmen": [
+                    "bökmek üçin taýak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaylı zıpzıp"
+                ],
+                "Azerbaijani": [
+                    "yaylı tullanma çubuğu",
+                    "yaylı oyuncaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pogo taýagy"
+                ],
+                "Uyghur": [
+                    "پوگو كالتىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "серіппелі таяқ"
+                ],
+                "Karakalpak": [
+                    "serіppelі tayaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zıplama çubuğu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tullanma çubuğu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۇلاقلىق سەكرەش كالتىكى"
+                ]
+            }
+        }
+    ]
+}
+```
+

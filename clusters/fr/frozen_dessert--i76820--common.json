@@ -1,0 +1,119 @@
+{
+    "id": "i76820",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "frozen dessert",
+    "en_definition": "any of various desserts prepared by freezing",
+    "tr_word": "dondurulmuş tatlı",
+    "tr_definition": "dondurularak hazırlanan çeşitli tatlıların genel adı",
+    "ru_word": "замороженный десерт",
+    "ru_definition": "любой из различных десертов, приготовленных путем замораживания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dondurma"
+                ],
+                "Azerbaijani": [
+                    "dondurma"
+                ],
+                "Turkmen": [
+                    "doňdurma"
+                ],
+                "Kyrgyz": [
+                    "тоңдурма"
+                ],
+                "Tatar": [
+                    "туңдырма"
+                ],
+                "Bashkir": [
+                    "туңдырма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muzqaymoq"
+                ],
+                "Uyghur": [
+                    "مۇز قايماق"
+                ],
+                "Kazakh": [
+                    "мұздақ",
+                    "мұз кәмпит"
+                ],
+                "Kyrgyz": [
+                    "муздак таттуу",
+                    "муздак шириндик"
+                ],
+                "Karakalpak": [
+                    "mұzdaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buzlu tatlı"
+                ],
+                "Azerbaijani": [
+                    "buzlu şirniyyat",
+                    "buzlu təam"
+                ],
+                "Turkmen": [
+                    "buzly süýjülik"
+                ],
+                "Bashkir": [
+                    "боҙло ашамлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "توڭلىتىلغان تاتلىق تۈرۈم"
+                ],
+                "Kazakh": [
+                    "тоңазытпа"
+                ],
+                "Karakalpak": [
+                    "tońazıtpa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soğuk tatlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yaxna",
+                    "yaxshirinlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇز تاتلىقلىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "суытма"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "id": "i70227",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bilingual dictionary",
+    "en_definition": "a dictionary giving equivalent words in two languages",
+    "tr_word": "iki dilli sözlük",
+    "tr_definition": "iki farklı dildeki kelimelerin karşılıklarını veren sözlük",
+    "ru_word": "двуязычный словарь",
+    "ru_definition": "словарь, содержащий перевод слов с одного языка на другой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki dilli sözlük",
+                    "iki lisanlı lügat"
+                ],
+                "Azerbaijani": [
+                    "iki dilli lüğət"
+                ],
+                "Turkmen": [
+                    "iki dilli sözlük"
+                ],
+                "Uzbek": [
+                    "ikki tilli lugʻat"
+                ],
+                "Uyghur": [
+                    "ئىككى تىللىق لۇغەت"
+                ],
+                "Kazakh": [
+                    "екі тілді сөздік"
+                ],
+                "Kyrgyz": [
+                    "эки тилдүү сөздүк"
+                ],
+                "Karakalpak": [
+                    "ekі tilli sózlik"
+                ],
+                "Tatar": [
+                    "ике телле сүзлек"
+                ],
+                "Bashkir": [
+                    "ике телле һүҙлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tərcümə lüğəti"
+                ],
+                "Turkmen": [
+                    "terjime sözlügi"
+                ],
+                "Uzbek": [
+                    "tarjima lugʻati"
+                ],
+                "Karakalpak": [
+                    "tárjime sózlik"
+                ],
+                "Tatar": [
+                    "тәрҗемә сүзлеге"
+                ],
+                "Bashkir": [
+                    "тәржемә һүҙлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوش تىللىق لۇغەت"
+                ],
+                "Kyrgyz": [
+                    "кош тилдүү сөздүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аударма сөздік"
+                ]
+            }
+        }
+    ]
+}

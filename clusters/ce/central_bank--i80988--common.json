@@ -1,0 +1,117 @@
+{
+    "id": "i80988",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "central bank",
+    "en_definition": "a government monetary authority that issues currency and regulates the supply of credit and holds the reserves of other banks and sells new issues of securities for the government",
+    "tr_word": "merkez bankası",
+    "tr_definition": "Bir ülkenin para politikasını yöneten, para basan ve bankacılık sistemini denetleyen devlet kurumu.",
+    "ru_word": "центральный банк",
+    "ru_definition": "Государственный орган, отвечающий за денежно-кредитную политику, эмиссию денег и надзор за банковской системой страны.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ana banka"
+                ],
+                "Azerbaijani": [
+                    "baş bank"
+                ],
+                "Turkmen": [
+                    "baş bank"
+                ],
+                "Uzbek": [
+                    "bosh bank"
+                ],
+                "Tatar": [
+                    "төп банк"
+                ],
+                "Bashkir": [
+                    "төп банк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "merkez bankası"
+                ],
+                "Azerbaijani": [
+                    "mərkəzi bank"
+                ],
+                "Turkmen": [
+                    "merkezi bank"
+                ],
+                "Uzbek": [
+                    "markaziy bank"
+                ],
+                "Uyghur": [
+                    "مەركىزىي بانكا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "devlet bankası"
+                ],
+                "Azerbaijani": [
+                    "dövlət bankı"
+                ],
+                "Uzbek": [
+                    "davlat banki"
+                ],
+                "Uyghur": [
+                    "دۆلەت بانكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "орталық банк"
+                ],
+                "Karakalpak": [
+                    "Oraylıq bank"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұлттық банк"
+                ],
+                "Kyrgyz": [
+                    "улуттук банк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзәк банк"
+                ],
+                "Bashkir": [
+                    "үҙәк банк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борбордук банк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Mámleketlik bank"
+                ]
+            }
+        }
+    ]
+}

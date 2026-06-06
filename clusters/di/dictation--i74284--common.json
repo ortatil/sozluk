@@ -1,0 +1,111 @@
+{
+    "id": "i74284",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dictation",
+    "en_definition": "speech intended for reproduction in writing",
+    "tr_word": "dikte",
+    "tr_definition": "bir başkası tarafından yazılmak üzere söylenen sözler",
+    "ru_word": "диктовка",
+    "ru_definition": "произнесение текста вслух для того, чтобы слушающий его записывал",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dikte"
+                ],
+                "Azerbaijani": [
+                    "diktə"
+                ],
+                "Turkmen": [
+                    "diktant"
+                ],
+                "Uzbek": [
+                    "diktant"
+                ],
+                "Uyghur": [
+                    "تەقرىر"
+                ],
+                "Kazakh": [
+                    "диктант"
+                ],
+                "Kyrgyz": [
+                    "диктант"
+                ],
+                "Karakalpak": [
+                    "diktowka"
+                ],
+                "Tatar": [
+                    "диктовка"
+                ],
+                "Bashkir": [
+                    "диктовка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "imla"
+                ],
+                "Azerbaijani": [
+                    "imla"
+                ],
+                "Turkmen": [
+                    "amla"
+                ],
+                "Uzbek": [
+                    "imlo"
+                ],
+                "Uyghur": [
+                    "ئىملا"
+                ],
+                "Karakalpak": [
+                    "imla"
+                ],
+                "Tatar": [
+                    "имля"
+                ],
+                "Bashkir": [
+                    "имля"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazdırım"
+                ],
+                "Turkmen": [
+                    "ýazdyrma"
+                ],
+                "Kazakh": [
+                    "жазба"
+                ],
+                "Kyrgyz": [
+                    "жазуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айту"
+                ],
+                "Kyrgyz": [
+                    "айтып жаздыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tahrir"
+                ]
+            }
+        }
+    ]
+}

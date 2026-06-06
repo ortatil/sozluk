@@ -1,0 +1,68 @@
+{
+    "id": "i53340",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "electric furnace",
+    "en_definition": "any furnace in which the heat is provided by an electric current",
+    "tr_word": "elektrikli fırın",
+    "tr_definition": "Isının elektrik akımıyla sağlandığı her türlü fırın",
+    "ru_word": "электропечь",
+    "ru_definition": "Любая печь, в которой тепло вырабатывается электрическим током",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrikli ocak",
+                    "elektrikli fırın",
+                    "elektrikli döküm ocağı"
+                ],
+                "Azerbaijani": [
+                    "elektrik sobası",
+                    "elektrik kürəsi"
+                ],
+                "Turkmen": [
+                    "elektrik peji",
+                    "elektrik ojagy"
+                ],
+                "Uzbek": [
+                    "elektr pechi",
+                    "elektr o'chog'i",
+                    "elektr xumdoni"
+                ],
+                "Uyghur": [
+                    "ئېلېكتر ئوچىقى",
+                    "ئېلېكتر پېچى"
+                ],
+                "Kazakh": [
+                    "электр пеші",
+                    "электрлі пеш"
+                ],
+                "Kyrgyz": [
+                    "электр меши",
+                    "электр меш",
+                    "электр мешиси"
+                ],
+                "Karakalpak": [
+                    "elektr peshi",
+                    "elektr oshaǵı"
+                ],
+                "Tatar": [
+                    "электр миче",
+                    "электр учагы"
+                ],
+                "Bashkir": [
+                    "электр мейесе",
+                    "электр усағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توق ئوچىقى"
+                ]
+            }
+        }
+    ]
+}

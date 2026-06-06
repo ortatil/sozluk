@@ -1,0 +1,133 @@
+{
+    "id": "i91490",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "muffin man",
+    "en_definition": "formerly an itinerant peddler of muffins",
+    "tr_word": "muffin satıcısı",
+    "tr_definition": "eskiden sokaklarda dolaşarak muffin veya çörek satan seyyar satıcı",
+    "ru_word": "торговец маффинами",
+    "ru_definition": "в прошлом — странствующий уличный торговец маффинами или кексами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nanpaz",
+                    "nan satyjy"
+                ],
+                "Uzbek": [
+                    "nonvoy",
+                    "non sotuvchi"
+                ],
+                "Uyghur": [
+                    "نانچى"
+                ],
+                "Kazakh": [
+                    "нан сатушы"
+                ],
+                "Kyrgyz": [
+                    "нан сатуучу",
+                    "нанчы"
+                ],
+                "Karakalpak": [
+                    "nanpaz",
+                    "nan satıoshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çörekçi"
+                ],
+                "Azerbaijani": [
+                    "çörəkçi"
+                ],
+                "Turkmen": [
+                    "çörekçi"
+                ],
+                "Karakalpak": [
+                    "bórekshi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekmekçi"
+                ],
+                "Tatar": [
+                    "икмәк сатучы"
+                ],
+                "Bashkir": [
+                    "икмәк һатыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "توقاچچى",
+                    "توقاچ ساتقۇچى"
+                ],
+                "Kazakh": [
+                    "тоқашшы",
+                    "тоқаш сатушы"
+                ],
+                "Kyrgyz": [
+                    "токоч сатуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seyyar çörek satıcısı"
+                ],
+                "Azerbaijani": [
+                    "səyyar çörəkçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pazanda"
+                ],
+                "Kazakh": [
+                    "базаршы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күмәч сатучы",
+                    "күмәчче"
+                ],
+                "Bashkir": [
+                    "күмәс һатыусы",
+                    "күмәссе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "un məmulatı satıcısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shirinlikpaz"
+                ]
+            }
+        }
+    ]
+}

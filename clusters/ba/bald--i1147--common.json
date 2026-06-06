@@ -1,0 +1,135 @@
+{
+    "id": "i1147",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "bald",
+    "en_definition": "lacking hair on all or most of the scalp",
+    "tr_word": "kel",
+    "tr_definition": "başında saçı olmayan veya dökülmüş olan kimse",
+    "ru_word": "лысый",
+    "ru_definition": "человек, имеющий на голове плешь, лишенный волос",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kel"
+                ],
+                "Azerbaijani": [
+                    "keçəl"
+                ],
+                "Turkmen": [
+                    "kel"
+                ],
+                "Uzbek": [
+                    "kal"
+                ],
+                "Uyghur": [
+                    "كال"
+                ],
+                "Kazakh": [
+                    "кел"
+                ],
+                "Bashkir": [
+                    "келәтәй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tazy"
+                ],
+                "Uyghur": [
+                    "تاقىر",
+                    "تاس"
+                ],
+                "Kazakh": [
+                    "тақыр",
+                    "таз"
+                ],
+                "Kyrgyz": [
+                    "таз"
+                ],
+                "Karakalpak": [
+                    "taz"
+                ],
+                "Tatar": [
+                    "таз"
+                ],
+                "Bashkir": [
+                    "таҡыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıplak"
+                ],
+                "Kyrgyz": [
+                    "жылаңач"
+                ],
+                "Tatar": [
+                    "яланбаш"
+                ],
+                "Bashkir": [
+                    "яланбаш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saçsyz"
+                ],
+                "Uzbek": [
+                    "sochsiz"
+                ],
+                "Tatar": [
+                    "чәчсез"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tüysüz"
+                ],
+                "Azerbaijani": [
+                    "tüysüz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təpəl"
+                ],
+                "Uzbek": [
+                    "toshkal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кашка"
+                ],
+                "Karakalpak": [
+                    "qasqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалаңбас"
+                ]
+            }
+        }
+    ]
+}

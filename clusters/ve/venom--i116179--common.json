@@ -1,0 +1,88 @@
+{
+    "id": "i116179",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "venom",
+    "en_definition": "toxin secreted by animals; secreted by certain snakes and poisonous insects (e.g., spiders and scorpions)",
+    "tr_word": "zehir",
+    "tr_definition": "Bazı yılanlar, örümcekler ve akrepler gibi hayvanlar tarafından salgılanan toksik madde.",
+    "ru_word": "яд",
+    "ru_definition": "токсин, выделяемый животными, такими как змеи, пауки или скорпионы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zehir"
+                ],
+                "Azerbaijani": [
+                    "zəhər"
+                ],
+                "Turkmen": [
+                    "zäher"
+                ],
+                "Uzbek": [
+                    "zahar"
+                ],
+                "Uyghur": [
+                    "زەھەر"
+                ],
+                "Kazakh": [
+                    "зәр"
+                ],
+                "Kyrgyz": [
+                    "заар"
+                ],
+                "Karakalpak": [
+                    "záhár"
+                ],
+                "Tatar": [
+                    "зәһәр"
+                ],
+                "Bashkir": [
+                    "зәһәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "agu"
+                ],
+                "Azerbaijani": [
+                    "ağı"
+                ],
+                "Turkmen": [
+                    "agu"
+                ],
+                "Uzbek": [
+                    "og'u"
+                ],
+                "Uyghur": [
+                    "ئاغۇ"
+                ],
+                "Kyrgyz": [
+                    "уу"
+                ],
+                "Tatar": [
+                    "агу"
+                ],
+                "Bashkir": [
+                    "ағыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "у",
+                    "уыт"
+                ],
+                "Karakalpak": [
+                    "u"
+                ]
+            }
+        }
+    ]
+}

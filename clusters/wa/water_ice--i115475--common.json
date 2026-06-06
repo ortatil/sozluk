@@ -1,0 +1,58 @@
+{
+    "id": "i115475",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water ice",
+    "en_definition": "water frozen in the solid state",
+    "tr_word": "su buzu",
+    "tr_definition": "suyun katı haldeki donmuş formu",
+    "ru_word": "водяной лёд",
+    "ru_definition": "вода в твёрдом агрегатном состоянии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buz"
+                ],
+                "Azerbaijani": [
+                    "buz"
+                ],
+                "Turkmen": [
+                    "buz"
+                ],
+                "Uzbek": [
+                    "muz"
+                ],
+                "Uyghur": [
+                    "مۇز"
+                ],
+                "Kazakh": [
+                    "мұз"
+                ],
+                "Kyrgyz": [
+                    "муз"
+                ],
+                "Karakalpak": [
+                    "muz"
+                ],
+                "Tatar": [
+                    "боз"
+                ],
+                "Bashkir": [
+                    "боҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "donmuş su"
+                ],
+                "Bashkir": [
+                    "туң"
+                ]
+            }
+        }
+    ]
+}

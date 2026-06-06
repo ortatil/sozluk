@@ -1,0 +1,92 @@
+{
+    "id": "i76003",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "governor's race",
+    "en_definition": "a race for election to the governorship",
+    "tr_word": "valilik yarışı",
+    "tr_definition": "Valilik makamı için yapılan seçim mücadelesi",
+    "ru_word": "губернаторская гонка",
+    "ru_definition": "предвыборная кампания или борьба за пост губернатора",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "valilik yarışı",
+                    "valilik seçimi",
+                    "valilik mücadelesi"
+                ],
+                "Azerbaijani": [
+                    "valilik seçkiləri",
+                    "valilik mübarizəsi"
+                ],
+                "Uyghur": [
+                    "ۋالىي سايلىمى",
+                    "ۋالىيلىق سايلىمى",
+                    "ۋالىي تاللىشى"
+                ],
+                "Tatar": [
+                    "вәли сайлаулары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hakimlik yarışı"
+                ],
+                "Turkmen": [
+                    "häkimlik saýlawlary",
+                    "häkim saýlawlary",
+                    "häkimlik ugrundaky bäsleşik"
+                ],
+                "Uzbek": [
+                    "hokimlik saylovi",
+                    "hokimlik poygasi",
+                    "hokimlik uchun kurash"
+                ],
+                "Karakalpak": [
+                    "hákim saylaoı",
+                    "hákimlikke saylao",
+                    "hákimlik ushın gúres"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "губернаторлук шайлоо",
+                    "губернаторлук үчүн жарыш",
+                    "губернаторлук орун үчүн күрөш"
+                ],
+                "Tatar": [
+                    "губернатор сайлаулары"
+                ],
+                "Bashkir": [
+                    "губернатор һайлауҙары",
+                    "губернаторлыҡ өсөн көрәш",
+                    "губернаторлыҡҡа һайлау ярышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әкім сайлауы",
+                    "әкімдікке талас",
+                    "әкімдік бәйгесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "башлык сайлаулары"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": "i94121",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "widow",
+    "en_definition": "a woman whose husband is dead especially one who has not remarried",
+    "tr_word": "dul",
+    "tr_definition": "kocası ölmüş ve yeniden evlenmemiş kadın",
+    "ru_word": "вдова",
+    "ru_definition": "женщина, у которой умер муж и которая не вступила в новый брак",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dul",
+                    "dul kadın"
+                ],
+                "Azerbaijani": [
+                    "dul",
+                    "dul qadın"
+                ],
+                "Turkmen": [
+                    "dul",
+                    "dul hatyn"
+                ],
+                "Uzbek": [
+                    "tul"
+                ],
+                "Uyghur": [
+                    "تۇل",
+                    "تۇل خوتۇن",
+                    "تۇل ئايال"
+                ],
+                "Kazakh": [
+                    "тұл"
+                ],
+                "Kyrgyz": [
+                    "тул"
+                ],
+                "Karakalpak": [
+                    "tul"
+                ],
+                "Tatar": [
+                    "тол хатын",
+                    "тол"
+                ],
+                "Bashkir": [
+                    "тол ҡатын",
+                    "тол"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жесір"
+                ],
+                "Kyrgyz": [
+                    "жесир"
+                ],
+                "Karakalpak": [
+                    "jesir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "äri ölen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "beva"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+# Powder keg
+| Field | Detail |
+|---|---|
+| **ID** | i113428 |
+| **English** | powder keg |
+| **Type** | noun |
+| **Definition** | a potentially explosive state |
+| **Source** | common |
+| **Ortatil** | barıthana |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بارۇتخانە | barutxanä |
+| **Kyrgyz** | |
+| очогу | oçogu |
+| уясы | uyası |
+| кырдаал | kırdaal |
+
+```json
+{
+    "id": "i113428",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "powder keg",
+    "en_definition": "a potentially explosive state",
+    "tr_word": "barut fıçısı",
+    "tr_definition": "her an patlamaya veya büyük bir çatışmaya hazır, tehlikeli durum veya yer",
+    "ru_word": "пороховая бочка",
+    "ru_definition": "крайне опасная, взрывоопасная ситуация, грозящая внезапным конфликтом или катастрофой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "barut fıçısı"
+                ],
+                "Azerbaijani": [
+                    "barıt çəlləyi",
+                    "partlayış təhlükəsi"
+                ],
+                "Turkmen": [
+                    "partlama howply ýagdaý"
+                ],
+                "Uzbek": [
+                    "porox bochkasi",
+                    "portlovchi holat"
+                ],
+                "Uyghur": [
+                    "پارتلىغۇچى ماددا ئامبىرى",
+                    "بارۇتخانە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tehlikeli ortam"
+                ],
+                "Azerbaijani": [
+                    "təhlükəli vəziyyət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xatarli vaziyat"
+                ],
+                "Uyghur": [
+                    "خەتەرلىك ۋەزىيەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оқ-дәрі бөшкесі"
+                ],
+                "Karakalpak": [
+                    "oq-dári bóshkesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жарылыс қаупі"
+                ],
+                "Karakalpak": [
+                    "jarılıs aldındaǵı jaǵday"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қауіпті жағдай"
+                ],
+                "Karakalpak": [
+                    "qáuipli jaǵday"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дару мичкәсе"
+                ],
+                "Bashkir": [
+                    "дары мискәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шартлау алдындагы халәт"
+                ],
+                "Bashkir": [
+                    "шартлаулы хәл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "patlamaya hazır durum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "poroh çelegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "otly çelek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "очогу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уясы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кырдаал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "куркыныч хәл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәүефле хәл"
+                ]
+            }
+        }
+    ]
+}
+```
+

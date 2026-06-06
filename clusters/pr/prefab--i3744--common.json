@@ -1,0 +1,142 @@
+{
+    "id": "i3744",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "prefab",
+    "en_definition": "manufactured in standard sizes to be shipped and assembled elsewhere",
+    "tr_word": "prefabrik",
+    "tr_definition": "parçaları önceden hazırlanmış ve kurulacağı yerde birleştirilecek biçimde yapılmış",
+    "ru_word": "сборный",
+    "ru_definition": "изготовленный из заранее подготовленных стандартных деталей для последующей сборки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurma"
+                ],
+                "Azerbaijani": [
+                    "quraşdırma"
+                ],
+                "Turkmen": [
+                    "gurnama"
+                ],
+                "Uzbek": [
+                    "qurama"
+                ],
+                "Uyghur": [
+                    "قۇراشتۇرما"
+                ],
+                "Kazakh": [
+                    "құрама"
+                ],
+                "Kyrgyz": [
+                    "курама"
+                ],
+                "Karakalpak": [
+                    "qurama"
+                ],
+                "Tatar": [
+                    "корылмалы"
+                ],
+                "Bashkir": [
+                    "ҡоролмалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yığma"
+                ],
+                "Uzbek": [
+                    "yigʻma"
+                ],
+                "Kazakh": [
+                    "жинамалы"
+                ],
+                "Kyrgyz": [
+                    "жыйналма"
+                ],
+                "Karakalpak": [
+                    "jıynalmalı"
+                ],
+                "Tatar": [
+                    "җыелма"
+                ],
+                "Bashkir": [
+                    "йыйылмалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýýar"
+                ],
+                "Uzbek": [
+                    "tayyor"
+                ],
+                "Uyghur": [
+                    "تەييار قۇراشتۇرۇلغان"
+                ],
+                "Kazakh": [
+                    "дайын"
+                ],
+                "Kyrgyz": [
+                    "даяр"
+                ],
+                "Karakalpak": [
+                    "dayar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazır"
+                ],
+                "Azerbaijani": [
+                    "hazır"
+                ],
+                "Tatar": [
+                    "әзер"
+                ],
+                "Bashkir": [
+                    "әҙер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "parçalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geçmeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jemleme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۆلەكلىك"
+                ]
+            }
+        }
+    ]
+}

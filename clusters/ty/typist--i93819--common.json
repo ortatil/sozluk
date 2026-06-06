@@ -1,0 +1,104 @@
+{
+    "id": "i93819",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "typist",
+    "en_definition": "someone paid to operate a typewriter",
+    "tr_word": "daktilo",
+    "tr_definition": "Daktilo ile yazı yazan kimse.",
+    "ru_word": "машинистка",
+    "ru_definition": "Сотрудница, занимающаяся перепечаткой текстов на пишущей машинке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "makinaçı"
+                ],
+                "Turkmen": [
+                    "maşinist",
+                    "maşynkaçy"
+                ],
+                "Uzbek": [
+                    "mashinist"
+                ],
+                "Uyghur": [
+                    "ماشىنكا باسقۇچى"
+                ],
+                "Kazakh": [
+                    "машинкашы"
+                ],
+                "Kyrgyz": [
+                    "машинкачы"
+                ],
+                "Tatar": [
+                    "машинкачы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hatdat"
+                ],
+                "Uyghur": [
+                    "خەت باسقۇچى"
+                ],
+                "Kazakh": [
+                    "хатшы"
+                ],
+                "Karakalpak": [
+                    "xatker"
+                ],
+                "Tatar": [
+                    "хаттат"
+                ],
+                "Bashkir": [
+                    "хатсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazıcı"
+                ],
+                "Azerbaijani": [
+                    "yazıçı"
+                ],
+                "Uzbek": [
+                    "yozuvchi"
+                ],
+                "Karakalpak": [
+                    "jazıoshı"
+                ],
+                "Bashkir": [
+                    "яҙыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kotib"
+                ],
+                "Kyrgyz": [
+                    "катчы"
+                ],
+                "Tatar": [
+                    "кәтиб"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "daktilo"
+                ]
+            }
+        }
+    ]
+}

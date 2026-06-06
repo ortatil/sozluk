@@ -1,0 +1,98 @@
+{
+    "id": "i71485",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "foreign policy",
+    "en_definition": "a policy governing international relations",
+    "tr_word": "dış politika",
+    "tr_definition": "bir devletin diğer devletlerle olan ilişkilerini düzenleyen ilkeler bütünü",
+    "ru_word": "внешняя политика",
+    "ru_definition": "общий курс государства в международных делах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dış siyaset",
+                    "dış politika"
+                ],
+                "Turkmen": [
+                    "daşary syýasat"
+                ],
+                "Uzbek": [
+                    "tashqi siyosat"
+                ],
+                "Uyghur": [
+                    "تاشقى سىياسەت"
+                ],
+                "Kyrgyz": [
+                    "тышкы саясат"
+                ],
+                "Tatar": [
+                    "тышкы сәясәт"
+                ],
+                "Bashkir": [
+                    "тышҡы сәйәсәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "halkara syýasaty"
+                ],
+                "Uyghur": [
+                    "خەلقئارالىق سىياسەت"
+                ],
+                "Kazakh": [
+                    "халықаралық саясат"
+                ],
+                "Karakalpak": [
+                    "xalıq aralıq siyasat"
+                ],
+                "Tatar": [
+                    "халыкара сәясәт"
+                ],
+                "Bashkir": [
+                    "халыҡ-ара сәйәсәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hariciye siyaseti"
+                ],
+                "Azerbaijani": [
+                    "xarici siyasət",
+                    "xarici məşğuliyyət"
+                ],
+                "Uzbek": [
+                    "xorijiy siyosat"
+                ],
+                "Uyghur": [
+                    "خارىجى سىياسەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сыртқы саясат"
+                ],
+                "Karakalpak": [
+                    "sırtqı siyasat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эл аралык саясат"
+                ]
+            }
+        }
+    ]
+}

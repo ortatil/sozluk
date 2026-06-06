@@ -1,0 +1,82 @@
+{
+    "id": "i78219",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mustard",
+    "en_definition": "pungent powder or paste prepared from ground mustard seeds",
+    "tr_word": "hardal",
+    "tr_definition": "öğütülmüş hardal tohumlarından hazırlanan keskin kokulu toz veya macun",
+    "ru_word": "горчица",
+    "ru_definition": "острая приправа, приготовленная из молотых семян горчицы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hardal"
+                ],
+                "Azerbaijani": [
+                    "xardal"
+                ],
+                "Turkmen": [
+                    "hardal"
+                ],
+                "Uzbek": [
+                    "xardal"
+                ],
+                "Uyghur": [
+                    "خردال"
+                ],
+                "Karakalpak": [
+                    "xardal"
+                ],
+                "Bashkir": [
+                    "ҡардал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gorçisa"
+                ],
+                "Uzbek": [
+                    "gorchitsa"
+                ],
+                "Kyrgyz": [
+                    "горчица"
+                ],
+                "Bashkir": [
+                    "горчица"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қыша",
+                    "қышабас"
+                ],
+                "Kyrgyz": [
+                    "кычы"
+                ],
+                "Karakalpak": [
+                    "qısha"
+                ],
+                "Tatar": [
+                    "кычы",
+                    "кычыткан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قېتېقسۇ"
+                ]
+            }
+        }
+    ]
+}

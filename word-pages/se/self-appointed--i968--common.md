@@ -1,0 +1,172 @@
+# Self-appointed
+| Field | Detail |
+|---|---|
+| **ID** | i968 |
+| **English** | self-appointed |
+| **Type** | adjective |
+| **Definition** | designated or chosen by yourself |
+| **Source** | common |
+| **Ortatil** | özbaşımçä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **özbaşımçä** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.97** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ерікті | yerikti |
+| **Kyrgyz** | |
+| өзүмдүк | özümdük |
+| **Tatar** | |
+| үзбаш | üzbaş |
+| үзбашлы | üzbaşlı |
+| үзлегеннән | üzlegennän |
+| **Bashkir** | |
+| үҙбашлы | üzbaşlı |
+
+```json
+{
+    "id": "i968",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "self-appointed",
+    "en_definition": "designated or chosen by yourself",
+    "tr_word": "kendi kendini atayan",
+    "tr_definition": "başkaları tarafından seçilmediği halde bir görevi veya unvanı kendi kendine üstlenen",
+    "ru_word": "самозваный",
+    "ru_definition": "присвоивший себе какое-либо звание, имя или права без законных на то оснований",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "öz-özünə",
+                    "özü-özünü",
+                    "öz-özünə təyin olunmuş"
+                ],
+                "Turkmen": [
+                    "öz-özüni bellän",
+                    "öz-özüne ygtyýar beren",
+                    "öz-özüni saýlan"
+                ],
+                "Uzbek": [
+                    "oʻz-oʻzini tayinlagan"
+                ],
+                "Uyghur": [
+                    "ئۆز-ئۆزىنى بەلگىلىگەن"
+                ],
+                "Kazakh": [
+                    "өздігінен тағайындалған",
+                    "өзін-өзі тағайындаған"
+                ],
+                "Kyrgyz": [
+                    "өзүн-өзү дайындаган"
+                ],
+                "Karakalpak": [
+                    "óz-ózin tayınlaǵan",
+                    "óz-ózin qoyǵan",
+                    "óz-ózin ataǵan"
+                ],
+                "Tatar": [
+                    "үз-үзен билгеләгән"
+                ],
+                "Bashkir": [
+                    "үҙ-үҙен тәғәйенләгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "özbaşına"
+                ],
+                "Turkmen": [
+                    "özbaşdak"
+                ],
+                "Uzbek": [
+                    "oʻzboshimcha",
+                    "oʻzicha"
+                ],
+                "Kazakh": [
+                    "өз бетінше"
+                ],
+                "Kyrgyz": [
+                    "өзүм билем",
+                    "өзүмдүк",
+                    "өз алдынча"
+                ],
+                "Karakalpak": [
+                    "ózbasımsha"
+                ],
+                "Tatar": [
+                    "үзбаш",
+                    "үзбашлы",
+                    "үзлегеннән"
+                ],
+                "Bashkir": [
+                    "үҙбашлы",
+                    "үҙе теләгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendinden menkul",
+                    "kendi kendini atamış",
+                    "kendi kendine gelin güvey olan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sözde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mustaqil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆزىنى ئۆزى تەيىنلىگەن",
+                    "ئۆزلىكىدىن تەيىنلەنگەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ерікті"
+                ]
+            }
+        }
+    ]
+}
+```
+

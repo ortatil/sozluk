@@ -1,0 +1,83 @@
+{
+    "id": "i85410",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "foam",
+    "en_definition": "a mass of small bubbles formed in or on a liquid",
+    "tr_word": "köpük",
+    "tr_definition": "bir sıvının içinde veya üzerinde oluşan küçük kabarcıklar yığını",
+    "ru_word": "пена",
+    "ru_definition": "масса мелких пузырьков, образующихся в жидкости или на её поверхности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "köpük"
+                ],
+                "Azerbaijani": [
+                    "köpük"
+                ],
+                "Turkmen": [
+                    "köpürjik",
+                    "köpük"
+                ],
+                "Uzbek": [
+                    "koʻpik"
+                ],
+                "Uyghur": [
+                    "كۆپۈك",
+                    "كۆپۈكچە"
+                ],
+                "Kazakh": [
+                    "көбік",
+                    "көпіршік"
+                ],
+                "Kyrgyz": [
+                    "көбүк",
+                    "көбүктөр"
+                ],
+                "Karakalpak": [
+                    "kóbik",
+                    "kópirshik"
+                ],
+                "Tatar": [
+                    "күбек",
+                    "күбекчек"
+                ],
+                "Bashkir": [
+                    "күбек",
+                    "күбе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kabarcık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fısqırıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "habba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qaymoq"
+                ]
+            }
+        }
+    ]
+}

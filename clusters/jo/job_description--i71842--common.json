@@ -1,0 +1,129 @@
+{
+    "id": "i71842",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "job description",
+    "en_definition": "description of the responsibilities associated with a given job",
+    "tr_word": "iş tanımı",
+    "tr_definition": "belirli bir işle ilgili sorumlulukların ve görevlerin açıklaması",
+    "ru_word": "должностная инструкция",
+    "ru_definition": "описание обязанностей и ответственности, связанных с определенной должностью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iş tanımı"
+                ],
+                "Azerbaijani": [
+                    "iş təlimatı",
+                    "işin təsviri"
+                ],
+                "Turkmen": [
+                    "iş borçlary",
+                    "iş häsiýetnamasy"
+                ],
+                "Uzbek": [
+                    "ish tavsifi"
+                ],
+                "Kyrgyz": [
+                    "иш милдеттери",
+                    "иштин маңызы"
+                ],
+                "Tatar": [
+                    "эш тасвирламасы"
+                ],
+                "Bashkir": [
+                    "эш тасуирламаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vazife tanımı"
+                ],
+                "Azerbaijani": [
+                    "vəzifə təlimatı",
+                    "vəzifə öhdəlikləri"
+                ],
+                "Turkmen": [
+                    "wezipe borçlary",
+                    "wezipe beýany"
+                ],
+                "Uzbek": [
+                    "vazifalar yoʻriqnomasi"
+                ],
+                "Uyghur": [
+                    "ۋەزىپە چۈشەندۈرۈشى"
+                ],
+                "Tatar": [
+                    "вазыйфа тасвирламасы",
+                    "вазыйфалар исемлеге"
+                ],
+                "Bashkir": [
+                    "вазифа тасуирламаһы",
+                    "вазифа йөкмәткеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xizmat vazifalari"
+                ],
+                "Uyghur": [
+                    "خىزمەت مەسئۇلىيىتى",
+                    "خىزمەت دائىرىسى"
+                ],
+                "Kazakh": [
+                    "қызметтік нұсқаулық"
+                ],
+                "Kyrgyz": [
+                    "кызматтык нускама",
+                    "кызматтык милдеттер"
+                ],
+                "Karakalpak": [
+                    "xızmet oazıypaları",
+                    "xızmetlik kórsetpe"
+                ],
+                "Tatar": [
+                    "хезмәт тасвирламасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмыс сипаттамасы"
+                ],
+                "Karakalpak": [
+                    "jumıs bayanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "görev tanımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lavozim yoʻriqnomasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "міндеттемелер тізімі"
+                ]
+            }
+        }
+    ]
+}

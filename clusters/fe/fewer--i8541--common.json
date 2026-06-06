@@ -1,0 +1,111 @@
+{
+    "id": "i8541",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "fewer",
+    "en_definition": "(comparative of `few' used with count nouns) quantifier meaning a smaller number of",
+    "tr_word": "daha az",
+    "tr_definition": "sayılabilen isimlerle kullanılan, bir şeyin miktarının veya sayısının daha düşük olduğunu belirten sözcük",
+    "ru_word": "меньше",
+    "ru_definition": "сравнительная степень слова «мало», используемая с исчисляемыми существительными для обозначения меньшего количества",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "az"
+                ],
+                "Turkmen": [
+                    "az"
+                ],
+                "Uzbek": [
+                    "ozroq"
+                ],
+                "Uyghur": [
+                    "ئازراق"
+                ],
+                "Kazakh": [
+                    "азырақ",
+                    "аз"
+                ],
+                "Kyrgyz": [
+                    "азыраак",
+                    "аз"
+                ],
+                "Karakalpak": [
+                    "azıraq"
+                ],
+                "Tatar": [
+                    "азрак"
+                ],
+                "Bashkir": [
+                    "аҙыраҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kem"
+                ],
+                "Uzbek": [
+                    "kamroq"
+                ],
+                "Uyghur": [
+                    "كەم"
+                ],
+                "Kazakh": [
+                    "кем"
+                ],
+                "Kyrgyz": [
+                    "кем"
+                ],
+                "Karakalpak": [
+                    "kemіrek"
+                ],
+                "Tatar": [
+                    "кимрәк"
+                ],
+                "Bashkir": [
+                    "кәмерәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "daha az",
+                    "daha az sayıda"
+                ],
+                "Azerbaijani": [
+                    "daha az"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eksik"
+                ],
+                "Azerbaijani": [
+                    "əskik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "has az"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېخىمۇ ئاز"
+                ]
+            }
+        }
+    ]
+}

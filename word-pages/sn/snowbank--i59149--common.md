@@ -1,0 +1,149 @@
+# Snowbank
+| Field | Detail |
+|---|---|
+| **ID** | i59149 |
+| **English** | snowbank |
+| **Type** | noun |
+| **Definition** | a mound or heap of snow |
+| **Source** | common |
+| **Ortatil** | kürtkü |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kürtkü** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| күртік | kürtik |
+| **Kyrgyz** | |
+| күрткү | kürtkü |
+| **Tatar** | |
+| көрт | kört |
+| өем | öyem |
+| **Bashkir** | |
+| көрт | kört |
+| көртөк | körtök |
+
+```json
+{
+    "id": "i59149",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snowbank",
+    "en_definition": "a mound or heap of snow",
+    "tr_word": "kar yığını",
+    "tr_definition": "birikmiş veya yığılmış kar kütlesi",
+    "ru_word": "сугроб",
+    "ru_definition": "наметённая ветром большая куча снега",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar yığını"
+                ],
+                "Azerbaijani": [
+                    "qar yığını",
+                    "qar təpəsi",
+                    "qar topası",
+                    "qar kütləsi"
+                ],
+                "Turkmen": [
+                    "gar üýşmegi",
+                    "gar depejigi",
+                    "gar süýremi"
+                ],
+                "Uzbek": [
+                    "qor uyumi",
+                    "qor tepasi",
+                    "qor dasti"
+                ],
+                "Uyghur": [
+                    "قار دۆۋىسى",
+                    "قار دۆۋە",
+                    "قار دۆڭى"
+                ],
+                "Kazakh": [
+                    "қар үйіндісі",
+                    "қар үйінді",
+                    "қар белесі"
+                ],
+                "Karakalpak": [
+                    "qar kúrtkіsі",
+                    "qar úyіndіsі",
+                    "qar boranı"
+                ],
+                "Tatar": [
+                    "кар көрте",
+                    "кар өеме"
+                ],
+                "Bashkir": [
+                    "ҡар көртө",
+                    "ҡар өйөмө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar kümesi",
+                    "kar tepeciği"
+                ],
+                "Kyrgyz": [
+                    "күрткү",
+                    "күрткү кар"
+                ],
+                "Tatar": [
+                    "көрт"
+                ],
+                "Bashkir": [
+                    "көрт",
+                    "көртөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күртік",
+                    "күртік қар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дөбө кар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өем"
+                ]
+            }
+        }
+    ]
+}
+```
+

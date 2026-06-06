@@ -1,0 +1,73 @@
+{
+    "id": "i108407",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "watt",
+    "en_definition": "a unit of power equal to 1 joule per second; the power dissipated by a current of 1 ampere flowing across a resistance of 1 ohm",
+    "tr_word": "vat",
+    "tr_definition": "Saniyede 1 jullük enerji üreten güç birimi; 1 ohmluk direnç üzerinden geçen 1 amperlik akımın harcadığı güç.",
+    "ru_word": "ватт",
+    "ru_definition": "Единица измерения мощности, равная 1 джоулю в секунду; мощность, выделяемая током силой в 1 ампер при напряжении в 1 вольт.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vat"
+                ],
+                "Azerbaijani": [
+                    "vat"
+                ],
+                "Turkmen": [
+                    "watt"
+                ],
+                "Uzbek": [
+                    "vatt"
+                ],
+                "Uyghur": [
+                    "ۋات",
+                    "ۋاتت"
+                ],
+                "Kazakh": [
+                    "уатт"
+                ],
+                "Kyrgyz": [
+                    "ватт"
+                ],
+                "Karakalpak": [
+                    "watt"
+                ],
+                "Tatar": [
+                    "ватт"
+                ],
+                "Bashkir": [
+                    "ватт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quvvat birligi"
+                ],
+                "Kazakh": [
+                    "қуат бірлігі"
+                ],
+                "Kyrgyz": [
+                    "кубат бирдиги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güç birimi"
+                ],
+                "Azerbaijani": [
+                    "güc vahidi"
+                ]
+            }
+        }
+    ]
+}

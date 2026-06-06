@@ -1,0 +1,215 @@
+# Breakfast
+| Field | Detail |
+|---|---|
+| **ID** | i76564 |
+| **English** | breakfast |
+| **Type** | noun |
+| **Definition** | the first meal of the day (usually in the morning) |
+| **Source** | core |
+| **Ortatil** | nanuşta |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **nanuşta** | **erteñkilik** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ❌ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0 | 0.33 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.40 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **1.40** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ناشتىلىق | naştiliq |
+| ناشتا | naşta |
+| **Kazakh** | |
+| нанушта | nanuşta |
+| сәресі | säresi |
+| **Kyrgyz** | |
+| эртеңкилик | erteñkilik |
+| **Tatar** | |
+| наһар | nahar |
+| **Bashkir** | |
+| завтрак | zavtrak |
+
+```json
+{
+    "id": "i76564",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "breakfast",
+    "en_definition": "the first meal of the day (usually in the morning)",
+    "tr_word": "kahvaltı",
+    "tr_definition": "Günün ilk öğünü (genellikle sabahları yenir)",
+    "ru_word": "завтрак",
+    "ru_definition": "Первый прием пищи в течение дня (обычно утром)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "nonushta"
+                ],
+                "Uyghur": [
+                    "ناشتىلىق",
+                    "ناشتا"
+                ],
+                "Kazakh": [
+                    "нанушта"
+                ],
+                "Karakalpak": [
+                    "nanushta"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ertirlik"
+                ],
+                "Kyrgyz": [
+                    "эртеңкилик"
+                ],
+                "Karakalpak": [
+                    "erteńgilik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "erteńgi as"
+                ],
+                "Tatar": [
+                    "иртәнге аш"
+                ],
+                "Bashkir": [
+                    "иртәнге аш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nahar"
+                ],
+                "Tatar": [
+                    "наһар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эртең мененки тамак"
+                ],
+                "Bashkir": [
+                    "иртәнге тамаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эртең мененки чай"
+                ],
+                "Tatar": [
+                    "иртәнге чәй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەتىگەنلىك تاماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңғы ас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kahvaltı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəlyanaltı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səhər yeməyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuşluk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bomdodlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "choy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сәресі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "завтрак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ertirlik nahary"
+                ]
+            }
+        }
+    ]
+}
+```
+

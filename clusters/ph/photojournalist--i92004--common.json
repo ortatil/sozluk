@@ -1,0 +1,91 @@
+{
+    "id": "i92004",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "photojournalist",
+    "en_definition": "a journalist who presents a story primarily through the use of photographs",
+    "tr_word": "foto muhabiri",
+    "tr_definition": "Haberleri veya olayları öncelikle fotoğraflar aracılığıyla sunan gazeteci.",
+    "ru_word": "фотожурналист",
+    "ru_definition": "Журналист, представляющий историю или новость преимущественно с помощью фотографий.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "foto muhabiri"
+                ],
+                "Azerbaijani": [
+                    "fotojurnalist",
+                    "fotomüxbir"
+                ],
+                "Turkmen": [
+                    "fotoshabarçy",
+                    "fotožurnalist",
+                    "fotosuratçy-habarçy"
+                ],
+                "Uzbek": [
+                    "fotomuxbir",
+                    "fotojurnalist"
+                ],
+                "Uyghur": [
+                    "فوتوگراف مۇخبىر",
+                    "فوتو-مۇخبىر"
+                ],
+                "Kazakh": [
+                    "фототілші",
+                    "фотожурналист"
+                ],
+                "Kyrgyz": [
+                    "фотокабарчы"
+                ],
+                "Karakalpak": [
+                    "fotoxabarshı",
+                    "fototіlshі"
+                ],
+                "Tatar": [
+                    "фотохәбәрче",
+                    "фотожурналист",
+                    "фотохәбәрдар"
+                ],
+                "Bashkir": [
+                    "фотохәбәрсе",
+                    "фотожурналист",
+                    "фотохәбәр йыйыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۈرەتلىك خەۋەرچى"
+                ],
+                "Kyrgyz": [
+                    "сүрөт кабарчы",
+                    "сүрөт кабарчысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "basın fotoğrafçısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haber fotoğrafçısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tasviriy muxbir"
+                ]
+            }
+        }
+    ]
+}

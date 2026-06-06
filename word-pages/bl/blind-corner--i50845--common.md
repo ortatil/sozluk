@@ -1,0 +1,158 @@
+# Blind corner
+| Field | Detail |
+|---|---|
+| **ID** | i50845 |
+| **English** | blind corner |
+| **Type** | noun |
+| **Definition** | a street corner that you cannot see around as you are driving |
+| **Source** | common |
+| **Ortatil** | çatrık |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i50845",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blind corner",
+    "en_definition": "a street corner that you cannot see around as you are driving",
+    "tr_word": "kör köşe",
+    "tr_definition": "sürücülerin arkasını göremediği, görüş açısı kapalı olan yol virajı veya köşesi",
+    "ru_word": "закрытый поворот",
+    "ru_definition": "поворот дороги, за которым водителю не видно встречного движения или препятствий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kör nokta",
+                    "görüşü olmayan köşe"
+                ],
+                "Azerbaijani": [
+                    "görünməyən döngə",
+                    "kor döngə"
+                ],
+                "Turkmen": [
+                    "görünmeýän öwrüm"
+                ],
+                "Uzbek": [
+                    "koʻrinmas burilish"
+                ],
+                "Uyghur": [
+                    "كۆرۈنمەس بۇلۇڭ"
+                ],
+                "Kazakh": [
+                    "көрінбейтін бұрылыс",
+                    "көру шектелген бұрылыс"
+                ],
+                "Kyrgyz": [
+                    "көрүнбөгөн бурулуш"
+                ],
+                "Karakalpak": [
+                    "kórinbes burılıs"
+                ],
+                "Tatar": [
+                    "күренмәс борылыш",
+                    "куркыныч борылыш"
+                ],
+                "Bashkir": [
+                    "күренмәгән боролош"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yopiq burilish"
+                ],
+                "Tatar": [
+                    "ябык борылыш"
+                ],
+                "Bashkir": [
+                    "ябыҡ боролош"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kapalı viraj"
+                ],
+                "Azerbaijani": [
+                    "qapalı döngə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xatarli burilish"
+                ],
+                "Uyghur": [
+                    "خەتەرلىك دوقمۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توسۇق دوقمۇش"
+                ],
+                "Kyrgyz": [
+                    "туюк бурулуш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таса бұрылыс"
+                ],
+                "Karakalpak": [
+                    "tar burılıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çatryk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öwrüm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кооптуу бурулуш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qauipli burılıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәүефле боролош"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,137 @@
+# Car manufacturer
+| Field | Detail |
+|---|---|
+| **ID** | i79599 |
+| **English** | car manufacturer |
+| **Type** | noun |
+| **Definition** | a business engaged in the manufacture of automobiles |
+| **Source** | common |
+| **Ortatil** | mäşinäsäz |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i79599",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "car manufacturer",
+    "en_definition": "a business engaged in the manufacture of automobiles",
+    "tr_word": "otomobil üreticisi",
+    "tr_definition": "otomobil üretimi ile uğraşan işletme",
+    "ru_word": "автопроизводитель",
+    "ru_definition": "предприятие, занимающееся производством автомобилей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşıt üreticisi"
+                ],
+                "Azerbaijani": [
+                    "maşın istehsalçısı"
+                ],
+                "Turkmen": [
+                    "maşyn öndürijisi"
+                ],
+                "Uzbek": [
+                    "mashinasoz"
+                ],
+                "Uyghur": [
+                    "ماشىنا زاۋۇتى",
+                    "ماشىنا ئىشلەپچىقارغۇچى",
+                    "ماشىنا كارخانىسى"
+                ],
+                "Karakalpak": [
+                    "mashina islep shıǵarıoshı"
+                ],
+                "Tatar": [
+                    "машина ясаучы",
+                    "машина җитештерүче"
+                ],
+                "Bashkir": [
+                    "машина етештереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otomobil üreticisi",
+                    "otomobil fabrikası"
+                ],
+                "Azerbaijani": [
+                    "avtomobil istehsalçısı",
+                    "avtomobil zavodu"
+                ],
+                "Kyrgyz": [
+                    "автоунаа өндүрүүчү"
+                ],
+                "Karakalpak": [
+                    "awtomobil islep shıǵarıoshı"
+                ],
+                "Tatar": [
+                    "автомобиль ясаучы",
+                    "автомобиль җитештерүче"
+                ],
+                "Bashkir": [
+                    "автомобиль эшләүсе",
+                    "автомобиль етештереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "awtoulag öndürijisi",
+                    "awtoulag kärhanasy"
+                ],
+                "Uzbek": [
+                    "avtomobilsoz"
+                ],
+                "Kazakh": [
+                    "автокөлік өндіруші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік өндіруші",
+                    "көлік жасаушы"
+                ],
+                "Karakalpak": [
+                    "kólik óndirioshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araba üreticisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "avtomobil ishlab chiqaruvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа өндүрүүчү",
+                    "унаа чыгаруучу"
+                ]
+            }
+        }
+    ]
+}
+```
+

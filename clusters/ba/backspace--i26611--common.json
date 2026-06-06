@@ -1,0 +1,156 @@
+{
+    "id": "i26611",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "backspace",
+    "en_definition": "hit the backspace key on a computer or typewriter keyboard",
+    "tr_word": "geri silmek",
+    "tr_definition": "bir bilgisayar veya daktilo klavyesinde geri tuşuna basarak karakter silmek",
+    "ru_word": "удалять",
+    "ru_definition": "нажимать клавишу возврата на клавиатуре компьютера или пишущей машинки для удаления символа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öçürmek"
+                ],
+                "Uzbek": [
+                    "o'chirmoq"
+                ],
+                "Uyghur": [
+                    "ئۆچۈرۈش"
+                ],
+                "Kazakh": [
+                    "өшіру"
+                ],
+                "Kyrgyz": [
+                    "өчүрүү"
+                ],
+                "Karakalpak": [
+                    "óshirio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qaytarmoq"
+                ],
+                "Uyghur": [
+                    "كەينىگە ئۆچۈرۈش",
+                    "قايتۇرۇش"
+                ],
+                "Kazakh": [
+                    "қайтару"
+                ],
+                "Kyrgyz": [
+                    "кайтаруу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ortga qaytarmoq"
+                ],
+                "Kyrgyz": [
+                    "артка кайтуу"
+                ],
+                "Karakalpak": [
+                    "artqa qaytarıo"
+                ],
+                "Tatar": [
+                    "артка кайту"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geri silmek",
+                    "geriye silmek",
+                    "geri tuşuna basmak"
+                ],
+                "Azerbaijani": [
+                    "geriyə silmək"
+                ],
+                "Bashkir": [
+                    "кире ҡайтарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pozmaq"
+                ],
+                "Turkmen": [
+                    "pozmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tazalao"
+                ],
+                "Bashkir": [
+                    "таҙартыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "silmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzyna süpürmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шегіндіру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бетерү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сызу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "юйыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өҙөү"
+                ]
+            }
+        }
+    ]
+}

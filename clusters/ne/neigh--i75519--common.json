@@ -1,0 +1,72 @@
+{
+    "id": "i75519",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "neigh",
+    "en_definition": "the characteristic sounds made by a horse",
+    "tr_word": "kişneme",
+    "tr_definition": "atın çıkardığı karakteristik ses",
+    "ru_word": "ржание",
+    "ru_definition": "характерные звуки, издаваемые лошадью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kişneme",
+                    "kişneyiş"
+                ],
+                "Azerbaijani": [
+                    "kişnəmə",
+                    "kişnərti"
+                ],
+                "Turkmen": [
+                    "kişňeme",
+                    "kişňewüş"
+                ],
+                "Uzbek": [
+                    "kishnash"
+                ],
+                "Uyghur": [
+                    "كىشنەش",
+                    "كىشنەرتى"
+                ],
+                "Kazakh": [
+                    "кісінеу",
+                    "кісінеген дыбыс"
+                ],
+                "Kyrgyz": [
+                    "кишине",
+                    "кишинеген үн",
+                    "кишинеши"
+                ],
+                "Karakalpak": [
+                    "kіsіneu",
+                    "kіsіnegen dauıs"
+                ],
+                "Tatar": [
+                    "кешнәү",
+                    "кешнәгән тавыш"
+                ],
+                "Bashkir": [
+                    "кешнәү",
+                    "кешнәү тауышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hangrash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арқырау"
+                ]
+            }
+        }
+    ]
+}

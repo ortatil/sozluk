@@ -1,0 +1,72 @@
+{
+    "id": "i116447",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tuna oil",
+    "en_definition": "an oil obtained from tuna",
+    "tr_word": "ton balığı yağı",
+    "tr_definition": "ton balığından elde edilen bir yağ",
+    "ru_word": "жир тунца",
+    "ru_definition": "масло, полученное из тунца",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ton balığı yağı"
+                ],
+                "Azerbaijani": [
+                    "tuna yağı",
+                    "ton balığı yağı"
+                ],
+                "Turkmen": [
+                    "tun balygynyň ýagy",
+                    "tun ýagy"
+                ],
+                "Uzbek": [
+                    "tunets yog'i",
+                    "tunets balig'i yog'i"
+                ],
+                "Uyghur": [
+                    "تون بېلىقى مېيى",
+                    "تون بېلىق مېيى"
+                ],
+                "Kazakh": [
+                    "түнец майы",
+                    "түнец балық майы"
+                ],
+                "Kyrgyz": [
+                    "тунец майы",
+                    "тунец балыгынын майы"
+                ],
+                "Karakalpak": [
+                    "tunec mayı"
+                ],
+                "Tatar": [
+                    "тюн майы"
+                ],
+                "Bashkir": [
+                    "тунец майы",
+                    "тунец балығы майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "balıq mayı"
+                ],
+                "Tatar": [
+                    "балык майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "orkinos yağı"
+                ]
+            }
+        }
+    ]
+}

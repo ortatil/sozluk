@@ -1,0 +1,151 @@
+{
+    "id": "i5849",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "infrequent",
+    "en_definition": "not frequent; not occurring regularly or at short intervals",
+    "tr_word": "seyrek",
+    "tr_definition": "Sık olmayan, düzenli aralıklarla gerçekleşmeyen veya nadiren olan.",
+    "ru_word": "редкий",
+    "ru_definition": "Происходящий нечасто, через большие промежутки времени или в небольшом количестве.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seyrek"
+                ],
+                "Azerbaijani": [
+                    "seyrək"
+                ],
+                "Turkmen": [
+                    "seýrek"
+                ],
+                "Uzbek": [
+                    "siyrak"
+                ],
+                "Uyghur": [
+                    "سەيرەك"
+                ],
+                "Kazakh": [
+                    "сирек"
+                ],
+                "Kyrgyz": [
+                    "сейрек"
+                ],
+                "Karakalpak": [
+                    "sirek"
+                ],
+                "Tatar": [
+                    "сирәк",
+                    "сирәк-мирәк"
+                ],
+                "Bashkir": [
+                    "һирәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "az"
+                ],
+                "Azerbaijani": [
+                    "az-az"
+                ],
+                "Turkmen": [
+                    "az-az"
+                ],
+                "Uzbek": [
+                    "oz"
+                ],
+                "Uyghur": [
+                    "ئاز"
+                ],
+                "Kyrgyz": [
+                    "аз"
+                ],
+                "Karakalpak": [
+                    "az-maz"
+                ],
+                "Tatar": [
+                    "аз"
+                ],
+                "Bashkir": [
+                    "аҙ-маҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kem-kem"
+                ],
+                "Uzbek": [
+                    "kam",
+                    "kamdan-kam"
+                ],
+                "Uyghur": [
+                    "كەم"
+                ],
+                "Kazakh": [
+                    "кемде-кем"
+                ],
+                "Karakalpak": [
+                    "kem-kem"
+                ],
+                "Bashkir": [
+                    "кәм-кәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nadir",
+                    "ender"
+                ],
+                "Azerbaijani": [
+                    "nadir"
+                ],
+                "Uzbek": [
+                    "nodir"
+                ],
+                "Uyghur": [
+                    "نادېر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tək-tük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "некен-саяқ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ара-тұра"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кез-кездеги"
+                ]
+            }
+        }
+    ]
+}

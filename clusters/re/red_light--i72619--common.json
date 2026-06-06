@@ -1,0 +1,84 @@
+{
+    "id": "i72619",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "red light",
+    "en_definition": "the signal to stop",
+    "tr_word": "kırmızı ışık",
+    "tr_definition": "trafikte durma sinyali",
+    "ru_word": "красный свет",
+    "ru_definition": "сигнал светофора, запрещающий движение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyzyl yşyk",
+                    "gyzyl çyra"
+                ],
+                "Uzbek": [
+                    "qizil chiroq"
+                ],
+                "Uyghur": [
+                    "قىزىل چىراغ",
+                    "قىزىل نۇر"
+                ],
+                "Kazakh": [
+                    "қызыл жарық",
+                    "қызыл от"
+                ],
+                "Kyrgyz": [
+                    "кызыл от",
+                    "кызыл жарык",
+                    "кызыл чырак"
+                ],
+                "Karakalpak": [
+                    "qızıl shıraq",
+                    "qızıl ot"
+                ],
+                "Tatar": [
+                    "кызыл ут",
+                    "кызыл сигнал"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл ут",
+                    "ҡыҙыл сигнал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırmızı ışık"
+                ],
+                "Azerbaijani": [
+                    "qırmızı işıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toʻxtash ishorasi"
+                ],
+                "Kazakh": [
+                    "тоқтау белгісі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dur işareti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dayan işığı"
+                ]
+            }
+        }
+    ]
+}

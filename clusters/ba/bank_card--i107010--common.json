@@ -1,0 +1,112 @@
+{
+    "id": "i107010",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bank card",
+    "en_definition": "a credit card issued by a bank",
+    "tr_word": "banka kartı",
+    "tr_definition": "Bir banka tarafından verilen ve ödeme yapmak veya nakit çekmek için kullanılan kart.",
+    "ru_word": "банковская карта",
+    "ru_definition": "Пластиковая карта, выпущенная банком для проведения платежей и снятия наличных.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "banka kartı"
+                ],
+                "Azerbaijani": [
+                    "bank kartı"
+                ],
+                "Turkmen": [
+                    "bank kartasy"
+                ],
+                "Uzbek": [
+                    "bank kartasi"
+                ],
+                "Uyghur": [
+                    "بانكا كارتىسى"
+                ],
+                "Kazakh": [
+                    "банк картасы"
+                ],
+                "Kyrgyz": [
+                    "банктык карта"
+                ],
+                "Karakalpak": [
+                    "bank kartası"
+                ],
+                "Tatar": [
+                    "банк картасы"
+                ],
+                "Bashkir": [
+                    "банк картаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töleg kartasy"
+                ],
+                "Uzbek": [
+                    "to'lov kartasi"
+                ],
+                "Kazakh": [
+                    "төлем картасы"
+                ],
+                "Kyrgyz": [
+                    "төлөм картасы"
+                ],
+                "Karakalpak": [
+                    "tólem kartası"
+                ],
+                "Tatar": [
+                    "түләү картасы"
+                ],
+                "Bashkir": [
+                    "түләү картаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hesap kartı"
+                ],
+                "Bashkir": [
+                    "аҡса картаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kredi kartı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ödəniş kartı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئامانەت كارتىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇل كارتىسى"
+                ]
+            }
+        }
+    ]
+}

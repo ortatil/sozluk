@@ -1,0 +1,116 @@
+{
+    "id": "i8924",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "defending",
+    "en_definition": "attempting to or designed to prevent an opponent from winning or scoring",
+    "tr_word": "savunma",
+    "tr_definition": "bir rakibin kazanmasını veya sayı yapmasını engellemeye yönelik olan",
+    "ru_word": "защищающий",
+    "ru_definition": "направленный на предотвращение победы или набора очков противником",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koruyucu"
+                ],
+                "Azerbaijani": [
+                    "qoruyucu"
+                ],
+                "Turkmen": [
+                    "gorag",
+                    "goranyş"
+                ],
+                "Uzbek": [
+                    "qo'riqlovchi"
+                ],
+                "Kazakh": [
+                    "қорғаныс",
+                    "қорғаушы",
+                    "қорғанушы"
+                ],
+                "Kyrgyz": [
+                    "коргоочу",
+                    "коргонуучу"
+                ],
+                "Karakalpak": [
+                    "qorǵanıs",
+                    "qorǵaushı"
+                ],
+                "Bashkir": [
+                    "ҡорғаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müdafaa",
+                    "müdafi"
+                ],
+                "Azerbaijani": [
+                    "müdafiəedici",
+                    "müdafiəvi"
+                ],
+                "Turkmen": [
+                    "müdafiýe"
+                ],
+                "Uzbek": [
+                    "mudofaa"
+                ],
+                "Uyghur": [
+                    "مۇداپىئەلىنىش",
+                    "مۇداپىئەچى"
+                ],
+                "Tatar": [
+                    "мөдафәгать"
+                ],
+                "Bashkir": [
+                    "мөҙәфиғ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "savunmacı"
+                ],
+                "Karakalpak": [
+                    "saqlaoshı"
+                ],
+                "Tatar": [
+                    "саклану",
+                    "саклаучы"
+                ],
+                "Bashkir": [
+                    "һаҡлаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "himoyalovchi",
+                    "himoyaviy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوغدىنىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сактоочу"
+                ]
+            }
+        }
+    ]
+}

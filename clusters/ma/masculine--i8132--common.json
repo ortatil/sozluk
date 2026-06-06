@@ -1,0 +1,122 @@
+{
+    "id": "i8132",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "masculine",
+    "en_definition": "associated with men and not with women",
+    "tr_word": "eril",
+    "tr_definition": "erkeklere özgü olan, erkekle ilgili",
+    "ru_word": "мужской",
+    "ru_definition": "связанный с мужчинами, а не с женщинами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eril",
+                    "erkeksi",
+                    "erkekçe"
+                ],
+                "Azerbaijani": [
+                    "ər"
+                ],
+                "Turkmen": [
+                    "erkek",
+                    "erkekçe",
+                    "är"
+                ],
+                "Uzbek": [
+                    "erkakcha",
+                    "erkaklarga xos"
+                ],
+                "Uyghur": [
+                    "ئەرچە",
+                    "ئەرلەرچە",
+                    "ئەرانە"
+                ],
+                "Kazakh": [
+                    "еркек",
+                    "ер",
+                    "еркекше"
+                ],
+                "Kyrgyz": [
+                    "эркекче",
+                    "эркекке мүнөздүү",
+                    "эр",
+                    "эркек"
+                ],
+                "Karakalpak": [
+                    "erkekshe",
+                    "er",
+                    "erkek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mert"
+                ],
+                "Azerbaijani": [
+                    "mərd"
+                ],
+                "Turkmen": [
+                    "mert"
+                ],
+                "Uzbek": [
+                    "mardona"
+                ],
+                "Uyghur": [
+                    "مەردانە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ерлерге тән"
+                ],
+                "Karakalpak": [
+                    "erlerge tán"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ир-ат",
+                    "ир"
+                ],
+                "Bashkir": [
+                    "ирҙәр",
+                    "ир-ат",
+                    "ирҙәрсә",
+                    "ир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kişi",
+                    "kişiyanə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирләрчә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөзәккәр"
+                ]
+            }
+        }
+    ]
+}

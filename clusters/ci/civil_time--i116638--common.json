@@ -1,0 +1,132 @@
+{
+    "id": "i116638",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "civil time",
+    "en_definition": "the official time in a local region (adjusted for location around the Earth); established by law or custom",
+    "tr_word": "resmi saat",
+    "tr_definition": "Bir bölgede yasalar veya gelenekler tarafından belirlenen, konuma göre ayarlanan resmi zaman dilimi.",
+    "ru_word": "гражданское время",
+    "ru_definition": "Официальное время, принятое в данном регионе в соответствии с законом или обычаем и скорректированное по часовым поясам.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "resmî saat"
+                ],
+                "Azerbaijani": [
+                    "rəsmi vaxt"
+                ],
+                "Turkmen": [
+                    "resmi wagt"
+                ],
+                "Uzbek": [
+                    "rasmiy vaqt"
+                ],
+                "Uyghur": [
+                    "رەسمىي ۋاقىت"
+                ],
+                "Kazakh": [
+                    "ресми уақыт"
+                ],
+                "Kyrgyz": [
+                    "расмий убакыт"
+                ],
+                "Karakalpak": [
+                    "rásmiy oaqıt"
+                ],
+                "Tatar": [
+                    "рәсми вакыт"
+                ],
+                "Bashkir": [
+                    "рәсми ваҡыт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yerel saat"
+                ],
+                "Azerbaijani": [
+                    "yerli vaxt"
+                ],
+                "Turkmen": [
+                    "ýerli wagt"
+                ],
+                "Uyghur": [
+                    "يەرلىك ۋاقىت"
+                ],
+                "Kazakh": [
+                    "жергілікті уақыт"
+                ],
+                "Kyrgyz": [
+                    "жергиликтүү убакыт"
+                ],
+                "Karakalpak": [
+                    "jergilikli oaqıt"
+                ],
+                "Tatar": [
+                    "җирле вакыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mahallî saat"
+                ],
+                "Uzbek": [
+                    "mahalliy vaqt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قانۇنىي ۋاقىت"
+                ],
+                "Bashkir": [
+                    "ҡануни ваҡыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mülki vaxt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "fuqarolik vaqti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "белдеулік уақыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "алкак убактысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "урындағы ваҡыт"
+                ]
+            }
+        }
+    ]
+}

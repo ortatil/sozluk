@@ -1,0 +1,91 @@
+{
+    "id": "i54082",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "frying pan",
+    "en_definition": "a pan used for frying foods",
+    "tr_word": "tava",
+    "tr_definition": "Yiyecekleri kızartmak için kullanılan metal kap",
+    "ru_word": "сковорода",
+    "ru_definition": "Металлическая посуда для жарки пищи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tava"
+                ],
+                "Azerbaijani": [
+                    "tava"
+                ],
+                "Turkmen": [
+                    "towa"
+                ],
+                "Uzbek": [
+                    "tova",
+                    "tovoq"
+                ],
+                "Uyghur": [
+                    "تاۋا"
+                ],
+                "Kazakh": [
+                    "таба",
+                    "табақ"
+                ],
+                "Kyrgyz": [
+                    "таба"
+                ],
+                "Karakalpak": [
+                    "taba"
+                ],
+                "Tatar": [
+                    "таба"
+                ],
+                "Bashkir": [
+                    "таба"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızartma tavası"
+                ],
+                "Uyghur": [
+                    "قازانچە"
+                ],
+                "Karakalpak": [
+                    "qazansha"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырғыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "skoworodka"
+                ],
+                "Uzbek": [
+                    "skovoroda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sac"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көмөч казан"
+                ]
+            }
+        }
+    ]
+}

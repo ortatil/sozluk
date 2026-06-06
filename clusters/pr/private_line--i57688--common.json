@@ -1,0 +1,136 @@
+{
+    "id": "i57688",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "private line",
+    "en_definition": "a telephone line serving a single subscriber",
+    "tr_word": "özel hat",
+    "tr_definition": "tek bir aboneye hizmet veren telefon hattı",
+    "ru_word": "выделенная линия",
+    "ru_definition": "телефонная линия, обслуживающая одного абонента",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şahsi hat"
+                ],
+                "Azerbaijani": [
+                    "şəxsi xətt"
+                ],
+                "Turkmen": [
+                    "şahsy liniýa"
+                ],
+                "Uzbek": [
+                    "shaxsiy tarmoq"
+                ],
+                "Uyghur": [
+                    "شەخسىي لىنىيە"
+                ],
+                "Tatar": [
+                    "шәхси линия"
+                ],
+                "Bashkir": [
+                    "шәхси линия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ayrılmış xətt"
+                ],
+                "Karakalpak": [
+                    "ayrıqsha baylanıs"
+                ],
+                "Tatar": [
+                    "аерым линия"
+                ],
+                "Bashkir": [
+                    "айырым линия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "özel hat"
+                ],
+                "Azerbaijani": [
+                    "özəl xətt"
+                ],
+                "Kyrgyz": [
+                    "өздүк байланыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hususy liniýa",
+                    "hususy hat"
+                ],
+                "Uzbek": [
+                    "xususiy liniya"
+                ],
+                "Uyghur": [
+                    "خۇسۇسىي لىنىيە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "maxsus aloqa"
+                ],
+                "Uyghur": [
+                    "مەخسۇس لىنىيە"
+                ],
+                "Tatar": [
+                    "махсус линия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жеке желі"
+                ],
+                "Kyrgyz": [
+                    "жекече байланыш",
+                    "жеке линия"
+                ],
+                "Karakalpak": [
+                    "jeke tarmaq",
+                    "jeke baylanıs jolı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müstakil hat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оқшау желі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арнайы желі"
+                ]
+            }
+        }
+    ]
+}

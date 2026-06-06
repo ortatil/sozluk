@@ -1,0 +1,100 @@
+{
+    "id": "i13601",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "tracked",
+    "en_definition": "having tracks",
+    "tr_word": "paletli",
+    "tr_definition": "paletleri olan, paletle donatılmış",
+    "ru_word": "гусеничный",
+    "ru_definition": "имеющий гусеничный ход или снабжённый гусеницами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "zəncirli"
+                ],
+                "Turkmen": [
+                    "zynjyrly"
+                ],
+                "Uzbek": [
+                    "zanjirli"
+                ],
+                "Uyghur": [
+                    "زەنجىر تاپانلىق",
+                    "زەنجىرلىك"
+                ],
+                "Kazakh": [
+                    "шынжыр табанды",
+                    "шынжырлы"
+                ],
+                "Kyrgyz": [
+                    "чынжыр тамандуу"
+                ],
+                "Karakalpak": [
+                    "shınjır tabanlı",
+                    "shınjırlı"
+                ],
+                "Bashkir": [
+                    "сынйырлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paletli"
+                ],
+                "Turkmen": [
+                    "palytly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәгәрмәчсез"
+                ],
+                "Bashkir": [
+                    "тәгәрмәсһеҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "izli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tırtıllı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "galtakli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тамандуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чылбырлы"
+                ]
+            }
+        }
+    ]
+}

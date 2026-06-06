@@ -1,0 +1,78 @@
+{
+    "id": "i37265",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tax cut",
+    "en_definition": "the act of reducing taxation",
+    "tr_word": "vergi indirimi",
+    "tr_definition": "vergilendirme oranlarının veya miktarının düşürülmesi eylemi",
+    "ru_word": "снижение налогов",
+    "ru_definition": "акт уменьшения налогообложения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salgyt kemeltmesi",
+                    "salgyt azaldylmasy",
+                    "salgyt ýeňilligi"
+                ],
+                "Uzbek": [
+                    "soliq kamaytirilishi",
+                    "soliq qisqartirilishi",
+                    "soliq imtiyozi",
+                    "soliq tushirilishi"
+                ],
+                "Kazakh": [
+                    "салықты азайту",
+                    "салықты төмендету",
+                    "салық жеңілдігі"
+                ],
+                "Kyrgyz": [
+                    "салыкты азайтуу",
+                    "салыкты жеңилдетүү",
+                    "салыкты төмөндөтүү"
+                ],
+                "Karakalpak": [
+                    "salıqtı azaytıo",
+                    "salıqtı kemytio",
+                    "salıq jeńilligi"
+                ],
+                "Tatar": [
+                    "салым киметү",
+                    "салымны азайту",
+                    "салым ташламасы"
+                ],
+                "Bashkir": [
+                    "һалымды кәметеү",
+                    "һалымды төшөрөү",
+                    "һалым еңелләтеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vergi indirimi",
+                    "vergi tenzilatı",
+                    "vergi düşürülmesi"
+                ],
+                "Azerbaijani": [
+                    "vergi endirimi",
+                    "vergi güzəşti",
+                    "vergi ixtisarı",
+                    "vergi azaldılması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باج كېمەيتىش",
+                    "باجنى ئازايتىش",
+                    "باج كەچۈرۈم قىلىش"
+                ]
+            }
+        }
+    ]
+}

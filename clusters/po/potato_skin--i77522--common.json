@@ -1,0 +1,76 @@
+{
+    "id": "i77522",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "potato skin",
+    "en_definition": "crisp fried potato peeling",
+    "tr_word": "patates kabuğu",
+    "tr_definition": "kızartılmış çıtır patates kabuğu",
+    "ru_word": "картофельная кожура",
+    "ru_definition": "обжаренная до хруста кожура картофеля",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kartof qabığı",
+                    "kartof soyuğu"
+                ],
+                "Turkmen": [
+                    "kartoşka gabygy",
+                    "kartoşka paçagy"
+                ],
+                "Uzbek": [
+                    "kartoshka poʻstlogʻi",
+                    "kartoshka poʻsti",
+                    "kartoshka qobigʻi"
+                ],
+                "Kazakh": [
+                    "картоп қабығы",
+                    "картоп аршуы"
+                ],
+                "Kyrgyz": [
+                    "картошканын кабыгы",
+                    "картошканын аарчындысы"
+                ],
+                "Karakalpak": [
+                    "kartoshka qabıǵı",
+                    "kartoshka artıǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بەرەڭگە پوستى"
+                ],
+                "Tatar": [
+                    "бәрәңге кабыгы",
+                    "бәрәңге тышчасы"
+                ],
+                "Bashkir": [
+                    "бәрәңге ҡабығы",
+                    "бәрәңге әрсеүе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "patates kabuğu",
+                    "patates soyuntusu",
+                    "patates yongası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياڭيۇ پوستى",
+                    "ياڭيۇ شاكىلى"
+                ]
+            }
+        }
+    ]
+}

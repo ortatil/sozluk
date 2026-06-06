@@ -1,0 +1,85 @@
+{
+    "id": "i84838",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sub-saharan africa",
+    "en_definition": "the region of Africa to the south of the Sahara Desert",
+    "tr_word": "Sahra Altı Afrikası",
+    "tr_definition": "Afrika kıtasının Sahra Çölü'nün güneyinde kalan bölgesi",
+    "ru_word": "Африка к югу от Сахары",
+    "ru_definition": "регион африканского континента, расположенный к югу от пустыни Сахара",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Sahra Altı Afrika",
+                    "Kara Afrika"
+                ],
+                "Azerbaijani": [
+                    "Səhraaltı Afrika",
+                    "Qara Afrika"
+                ],
+                "Turkmen": [
+                    "Saharaasty Afrika",
+                    "Gara Afrika"
+                ],
+                "Uzbek": [
+                    "Qora Afrika"
+                ],
+                "Karakalpak": [
+                    "Qara Afrika"
+                ],
+                "Tatar": [
+                    "Сахарадан көньяктагы Африка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Tropik Afrika"
+                ],
+                "Uyghur": [
+                    "سەھرايى كەبىرنىڭ جەنۇبىدىكى ئافرىقا"
+                ],
+                "Kazakh": [
+                    "Сахараның оңтүстігіндегі Африка",
+                    "Тропиктік Африка"
+                ],
+                "Kyrgyz": [
+                    "Сахарадан түштүк тараптагы Африка",
+                    "Тропиктик Африка"
+                ],
+                "Tatar": [
+                    "Тропик Африка"
+                ],
+                "Bashkir": [
+                    "Тропик Африка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "Sahroi Kabirdan janubdagi Afrika"
+                ],
+                "Uyghur": [
+                    "سەھرايى كەبىرنىڭ جەنۇبى"
+                ],
+                "Karakalpak": [
+                    "Saxaranıń qublasındaǵı Afrika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "Сахаранан көньяҡтағы Африка"
+                ]
+            }
+        }
+    ]
+}

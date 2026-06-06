@@ -1,0 +1,81 @@
+{
+    "id": "i66337",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chin",
+    "en_definition": "the protruding part of the lower jaw",
+    "tr_word": "çene",
+    "tr_definition": "alt çenenin öne doğru çıkan uç kısmı",
+    "ru_word": "подбородок",
+    "ru_definition": "выступающая вперед часть нижней челюсти",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "iyak",
+                    "jag'"
+                ],
+                "Kazakh": [
+                    "иек"
+                ],
+                "Kyrgyz": [
+                    "ээк"
+                ],
+                "Karakalpak": [
+                    "iyek",
+                    "iyek súyek"
+                ],
+                "Tatar": [
+                    "ияк",
+                    "ияк асты"
+                ],
+                "Bashkir": [
+                    "эйәк",
+                    "эйәк аҫты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çene",
+                    "çene ucu"
+                ],
+                "Azerbaijani": [
+                    "çənə"
+                ],
+                "Turkmen": [
+                    "äň",
+                    "eňek"
+                ],
+                "Uyghur": [
+                    "ئېڭەك",
+                    "سەڭەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "buçaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "алкым"
+                ]
+            }
+        }
+    ]
+}

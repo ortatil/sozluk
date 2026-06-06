@@ -1,0 +1,154 @@
+# Coronavirus disease
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-85935644-n |
+| **English** | coronavirus disease |
+| **Type** | noun |
+| **Definition** | acute disease caused by a virus of the family Orthocoronavirinae |
+| **Source** | common |
+| **Ortatil** | illät |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| таажывирус | taajıvirus |
+| илдет | ildet |
+
+```json
+{
+    "id": "synset-oewn-85935644-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coronavirus disease",
+    "en_definition": "acute disease caused by a virus of the family Orthocoronavirinae",
+    "tr_word": "koronavirüs hastalığı",
+    "tr_definition": "Orthocoronavirinae familyasından bir virüsün neden olduğu akut hastalık",
+    "ru_word": "коронавирусная инфекция",
+    "ru_definition": "острое заболевание, вызываемое вирусом из семейства Orthocoronavirinae",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "taclı virus xəstəliyi"
+                ],
+                "Turkmen": [
+                    "täze görnüşli täçli wirus ýokanjy",
+                    "täçli wirus keseli"
+                ],
+                "Uzbek": [
+                    "tojli virus"
+                ],
+                "Uyghur": [
+                    "تاجسىمان ۋىرۇس كېسىلى",
+                    "تاجسىمان ۋىرۇسلۇق ئۆپكە ياللۇغى"
+                ],
+                "Kazakh": [
+                    "тәжді вирус",
+                    "тәжді вирус дерті",
+                    "тәжді вирус індеті"
+                ],
+                "Kyrgyz": [
+                    "таажы сымал вирус",
+                    "таажывирус"
+                ],
+                "Karakalpak": [
+                    "tájsiman wirus",
+                    "tájsiman wirus keselligi"
+                ],
+                "Tatar": [
+                    "таҗлы вирус"
+                ],
+                "Bashkir": [
+                    "тәжле вирус",
+                    "тәжле вирус ауырыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koronavirüs hastalığı",
+                    "korona"
+                ],
+                "Azerbaijani": [
+                    "koronavirus xəstəliyi",
+                    "koronavirus infeksiyası"
+                ],
+                "Turkmen": [
+                    "koronawirus ýokanjy"
+                ],
+                "Tatar": [
+                    "коронавируслы чир",
+                    "коронавируслы авыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "illet"
+                ],
+                "Kyrgyz": [
+                    "илдет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yuqumli xastalik"
+                ],
+                "Karakalpak": [
+                    "juqpalı kesellik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жугуштуу дарт"
+                ],
+                "Bashkir": [
+                    "йоғошло ауырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "salgın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vabo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻlat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېڭى تىپتىكى تاجسىمان ۋىرۇس"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,114 @@
+{
+    "id": "i7170",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "nurtural",
+    "en_definition": "resulting from nurture",
+    "tr_word": "yetiştirilme kaynaklı",
+    "tr_definition": "doğuştan gelen özelliklerin aksine, çevresel faktörler ve eğitim yoluyla kazanılan",
+    "ru_word": "обусловленный воспитанием",
+    "ru_definition": "возникающий в результате воспитания, обучения или влияния окружающей среды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "terbiye"
+                ],
+                "Azerbaijani": [
+                    "tərbiyəvi",
+                    "tərbiyəvi-əxlaqi",
+                    "tərbiyəyə aid",
+                    "tərbiyəvi xarakterli"
+                ],
+                "Turkmen": [
+                    "terbiýeçilik",
+                    "terbiýewi"
+                ],
+                "Uzbek": [
+                    "tarbiyaviy",
+                    "tarbiya topgan"
+                ],
+                "Uyghur": [
+                    "تەربىيىۋى",
+                    "تەربىيەۋى",
+                    "تەربىيە ئارقىلىق يېتىلگەن",
+                    "تەربىيە كۆرگەن"
+                ],
+                "Kazakh": [
+                    "тәрбиелік",
+                    "тәрбиеден туған",
+                    "тәрбие арқылы қалыптасқан"
+                ],
+                "Kyrgyz": [
+                    "тарбиялык",
+                    "тарбияланган"
+                ],
+                "Karakalpak": [
+                    "tárbiyalıq",
+                    "tárbiyalanǵan",
+                    "tárbiya nátiyjesindegi"
+                ],
+                "Tatar": [
+                    "тәрбияви",
+                    "тәрбияләнгән",
+                    "тәрбияле"
+                ],
+                "Bashkir": [
+                    "тәрбиәүи",
+                    "тәрбиәләнгән",
+                    "тәрбиәле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bakım"
+                ],
+                "Kyrgyz": [
+                    "багып-өстүрүлгөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'stirilgan"
+                ],
+                "Kyrgyz": [
+                    "өстүрүлгөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yetiştirme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "besleyici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "idewli",
+                    "idew-terbiýe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "parvarishlangan"
+                ]
+            }
+        }
+    ]
+}

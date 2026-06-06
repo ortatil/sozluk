@@ -1,0 +1,93 @@
+{
+    "id": "i50889",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "boathouse",
+    "en_definition": "a shed at the edge of a river or lake; used to store boats",
+    "tr_word": "kayıkhane",
+    "tr_definition": "Teknelerin barındırılması ve korunması için su kenarına yapılmış bina.",
+    "ru_word": "эллинг",
+    "ru_definition": "Помещение на берегу для хранения, ремонта и обслуживания лодок и других судов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kayıkhane"
+                ],
+                "Azerbaijani": [
+                    "qayıqxana",
+                    "qayıq damı",
+                    "qayıq anbarı"
+                ],
+                "Turkmen": [
+                    "gaýykhan",
+                    "gaýyk duralgasy",
+                    "gaýyk saklanýan jaý"
+                ],
+                "Uzbek": [
+                    "qayiqxona"
+                ],
+                "Kazakh": [
+                    "қайықжай",
+                    "қайық қора",
+                    "қайық тұрағы"
+                ],
+                "Kyrgyz": [
+                    "кайыккана"
+                ],
+                "Karakalpak": [
+                    "qayıqxana"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kemaxona"
+                ],
+                "Uyghur": [
+                    "كېمىخانا",
+                    "كېمە ئىسكىلاتى"
+                ],
+                "Kyrgyz": [
+                    "кемекана"
+                ],
+                "Karakalpak": [
+                    "kemexana"
+                ],
+                "Tatar": [
+                    "көймәханә"
+                ],
+                "Bashkir": [
+                    "кәмә һарайы",
+                    "кәмә өйө",
+                    "кәмә торағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekne barınağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көймә сарае",
+                    "көймә торагы"
+                ]
+            }
+        }
+    ]
+}

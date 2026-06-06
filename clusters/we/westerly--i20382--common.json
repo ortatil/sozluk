@@ -1,0 +1,97 @@
+{
+    "id": "i20382",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "westerly",
+    "en_definition": "toward the west",
+    "tr_word": "batıya doğru",
+    "tr_definition": "batı yönüne doğru olan",
+    "ru_word": "на запад",
+    "ru_definition": "в западном направлении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "günbatısına"
+                ],
+                "Turkmen": [
+                    "günbatara",
+                    "günbatar tarapa"
+                ],
+                "Uzbek": [
+                    "kunbotar tomonga"
+                ],
+                "Kazakh": [
+                    "күнбатысқа қарай"
+                ],
+                "Karakalpak": [
+                    "kúnbatısqa qaray",
+                    "kúnbatısqa"
+                ],
+                "Tatar": [
+                    "көнбатышка",
+                    "көнбатыш таба"
+                ],
+                "Bashkir": [
+                    "көнбайышҡа",
+                    "көнбайышҡа табан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məğribə"
+                ],
+                "Karakalpak": [
+                    "maǵribqa qaray"
+                ],
+                "Tatar": [
+                    "мәгърибкә"
+                ],
+                "Bashkir": [
+                    "мәғрибкә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "batıya",
+                    "batı yönünde"
+                ],
+                "Kazakh": [
+                    "батысқа қарай",
+                    "батысқа"
+                ],
+                "Kyrgyz": [
+                    "батышка",
+                    "батышты көздөй",
+                    "батыш тарапка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qərbə",
+                    "qərbə doğru",
+                    "qərb tərəfə"
+                ],
+                "Uzbek": [
+                    "g'arbga",
+                    "g'arbga qarab"
+                ],
+                "Uyghur": [
+                    "غەربكە قاراپ",
+                    "غەرب تەرەپكە",
+                    "غەربكە"
+                ]
+            }
+        }
+    ]
+}

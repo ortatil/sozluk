@@ -1,0 +1,126 @@
+{
+    "id": "i10425",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "punished",
+    "en_definition": "subjected to a penalty (as pain or shame or restraint or loss) for an offense or fault or in order to coerce some behavior (as a confession or obedience)",
+    "tr_word": "cezalandırılmış",
+    "tr_definition": "Bir suç veya hata nedeniyle acı, utanç, kısıtlama veya kayıp gibi bir yaptırıma maruz bırakılmış.",
+    "ru_word": "наказанный",
+    "ru_definition": "Подвергнутый какому-либо взысканию или каре за совершенный проступок или преступление.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cezalı",
+                    "cezalandırılmış"
+                ],
+                "Azerbaijani": [
+                    "cəzalandırılmış",
+                    "cəzalı"
+                ],
+                "Turkmen": [
+                    "jezalandyrylan"
+                ],
+                "Uzbek": [
+                    "jazolangan",
+                    "jazo olgan"
+                ],
+                "Uyghur": [
+                    "جازالانغان"
+                ],
+                "Kazakh": [
+                    "жазаланған",
+                    "жазалы",
+                    "жаза кесілген"
+                ],
+                "Kyrgyz": [
+                    "жазаланган",
+                    "жаза алган",
+                    "жазалуу"
+                ],
+                "Karakalpak": [
+                    "jazalanǵan",
+                    "jazalı"
+                ],
+                "Tatar": [
+                    "җәзаланган",
+                    "җәзалы"
+                ],
+                "Bashkir": [
+                    "язаланған",
+                    "яза бирелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təzirli"
+                ],
+                "Uzbek": [
+                    "ta'zirini yegan"
+                ],
+                "Uyghur": [
+                    "تەزىر يېگەن"
+                ],
+                "Karakalpak": [
+                    "tázirlengen"
+                ],
+                "Tatar": [
+                    "тәгзирләнгән"
+                ],
+                "Bashkir": [
+                    "тәғзирләнгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mücazatlı"
+                ],
+                "Uzbek": [
+                    "mujozotlangan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "temmi berlen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "günäkärlenen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇقۇباتلانغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айыпталған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хөкөм ителгән"
+                ]
+            }
+        }
+    ]
+}

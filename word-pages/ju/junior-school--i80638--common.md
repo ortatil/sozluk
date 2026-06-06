@@ -1,0 +1,109 @@
+# Junior school
+| Field | Detail |
+|---|---|
+| **ID** | i80638 |
+| **English** | junior school |
+| **Type** | noun |
+| **Definition** | British school for children aged 7-11 |
+| **Source** | common |
+| **Ortatil** | iptidäi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i80638",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "junior school",
+    "en_definition": "British school for children aged 7-11",
+    "tr_word": "ilkokul",
+    "tr_definition": "7-11 yaş arası çocuklar için eğitim veren okul",
+    "ru_word": "начальная школа",
+    "ru_definition": "британская школа для детей в возрасте от 7 до 11 лет",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "başlangyç mekdep"
+                ],
+                "Uzbek": [
+                    "boshlangʻich maktab"
+                ],
+                "Uyghur": [
+                    "باشلانغۇچ مەكتەپ"
+                ],
+                "Kazakh": [
+                    "бастауыш мектеп",
+                    "бастауыш сыныптар"
+                ],
+                "Kyrgyz": [
+                    "башталгыч мектеп",
+                    "башталгыч окуу жайы"
+                ],
+                "Karakalpak": [
+                    "baslaoısh mektep",
+                    "baslaoısh bilimlendirio"
+                ],
+                "Tatar": [
+                    "башлангыч мәктәп"
+                ],
+                "Bashkir": [
+                    "башланғыс мәктәп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iptidai"
+                ],
+                "Azerbaijani": [
+                    "ibtidai məktəb"
+                ],
+                "Turkmen": [
+                    "ibtidai mekdep"
+                ],
+                "Uzbek": [
+                    "ibtidoiy maktab"
+                ],
+                "Uyghur": [
+                    "ئىبتىدائىي مەكتەپ"
+                ],
+                "Tatar": [
+                    "ибтидаи мәктәп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ilkokul"
+                ],
+                "Azerbaijani": [
+                    "ilk məktəb"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mektep"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәүге мәктәп"
+                ]
+            }
+        }
+    ]
+}
+```
+

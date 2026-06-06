@@ -1,0 +1,113 @@
+{
+    "id": "i56532",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "navy base",
+    "en_definition": "base of operations for a naval fleet",
+    "tr_word": "deniz üssü",
+    "tr_definition": "bir donanmanın operasyonlarını yürüttüğü askeri merkez",
+    "ru_word": "военно-морская база",
+    "ru_definition": "пункт базирования и обеспечения сил военно-морского флота",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz üssü"
+                ],
+                "Azerbaijani": [
+                    "dəniz bazası"
+                ],
+                "Turkmen": [
+                    "deňiz güýçleriniň bazasy",
+                    "deňiz duralgasy"
+                ],
+                "Uzbek": [
+                    "dengiz floti bazasi",
+                    "dengiz qarorgohi"
+                ],
+                "Uyghur": [
+                    "دېڭىز ئارمىيە بازىسى",
+                    "دېڭىز ئارمىيە قارارگاھى"
+                ],
+                "Kazakh": [
+                    "теңіз базасы"
+                ],
+                "Kyrgyz": [
+                    "деңиз аскердик базасы"
+                ],
+                "Karakalpak": [
+                    "teńiz bazası",
+                    "teńiz portı"
+                ],
+                "Tatar": [
+                    "диңгез хәрби базасы",
+                    "диңгез хәрби пункты"
+                ],
+                "Bashkir": [
+                    "диңгеҙ хәрби базаһы",
+                    "диңгеҙ флоты базаһы",
+                    "диңгеҙ хәрби үҙәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "флот базасы"
+                ],
+                "Kyrgyz": [
+                    "флот базасы"
+                ],
+                "Karakalpak": [
+                    "flot bazası"
+                ],
+                "Tatar": [
+                    "флот базасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbi dəniz bazası"
+                ],
+                "Turkmen": [
+                    "harby-deňiz bazasy"
+                ],
+                "Uzbek": [
+                    "harbiy dengiz bazasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "donanma üssü"
+                ],
+                "Azerbaijani": [
+                    "donanma bazası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әскери-теңіз базасы"
+                ],
+                "Kyrgyz": [
+                    "аскер-деңиз базасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bahriye üssü"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "id": "i3428",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "fried",
+    "en_definition": "cooked by frying in fat",
+    "tr_word": "kızarmış",
+    "tr_definition": "yağda pişirilmiş",
+    "ru_word": "жареный",
+    "ru_definition": "приготовленный путем жарки в жире или масле",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qovrulmuş"
+                ],
+                "Turkmen": [
+                    "gowrulan"
+                ],
+                "Uzbek": [
+                    "qovurilgan"
+                ],
+                "Uyghur": [
+                    "قورۇلغان"
+                ],
+                "Kazakh": [
+                    "қуырылған"
+                ],
+                "Kyrgyz": [
+                    "куурулган"
+                ],
+                "Karakalpak": [
+                    "quırılǵan",
+                    "quırdaq"
+                ],
+                "Tatar": [
+                    "куырылган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızarmış",
+                    "kızartılmış",
+                    "kavrulmuş"
+                ],
+                "Azerbaijani": [
+                    "qızarmış",
+                    "qızardılmış"
+                ],
+                "Turkmen": [
+                    "gyzdyrylan"
+                ],
+                "Tatar": [
+                    "кыздырылган",
+                    "кызган"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырылған",
+                    "ҡыҙған",
+                    "ҡыҙыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "büryan"
+                ],
+                "Uzbek": [
+                    "biryoni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daglanan"
+                ],
+                "Uyghur": [
+                    "داغلانغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پىشۇرۇلغان"
+                ],
+                "Kyrgyz": [
+                    "бышырылган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yağda pişmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қуырған"
+                ]
+            }
+        }
+    ]
+}

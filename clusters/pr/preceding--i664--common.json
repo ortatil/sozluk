@@ -1,0 +1,168 @@
+{
+    "id": "i664",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "preceding",
+    "en_definition": "existing or coming before",
+    "tr_word": "önceki",
+    "tr_definition": "zaman veya sıra bakımından daha önce gelen",
+    "ru_word": "предшествующий",
+    "ru_definition": "существующий или происходящий перед чем-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "evvelki"
+                ],
+                "Azerbaijani": [
+                    "əvvəlki"
+                ],
+                "Uzbek": [
+                    "avvalgi"
+                ],
+                "Kazakh": [
+                    "әуелгі"
+                ],
+                "Karakalpak": [
+                    "ázelgi"
+                ],
+                "Tatar": [
+                    "әүвәлге"
+                ],
+                "Bashkir": [
+                    "әүәлге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oldingi"
+                ],
+                "Uyghur": [
+                    "ئالدىنقى",
+                    "ئىلگىرىكى"
+                ],
+                "Kazakh": [
+                    "алдыңғы"
+                ],
+                "Kyrgyz": [
+                    "алдыңкы"
+                ],
+                "Karakalpak": [
+                    "aldınǵı"
+                ],
+                "Tatar": [
+                    "алдагы"
+                ],
+                "Bashkir": [
+                    "алдағы",
+                    "алда килеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "burungi"
+                ],
+                "Uyghur": [
+                    "بۇرۇنقى"
+                ],
+                "Kazakh": [
+                    "бұрынғы"
+                ],
+                "Karakalpak": [
+                    "burınǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "önceki"
+                ],
+                "Azerbaijani": [
+                    "öncəki"
+                ],
+                "Turkmen": [
+                    "öňki",
+                    "öňürdäki"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geçen"
+                ],
+                "Azerbaijani": [
+                    "keçmiş"
+                ],
+                "Turkmen": [
+                    "geçen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sabık"
+                ],
+                "Azerbaijani": [
+                    "qabaqkı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ozalky"
+                ],
+                "Kyrgyz": [
+                    "абалкы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ілгері"
+                ],
+                "Kyrgyz": [
+                    "илгерки"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "элекке",
+                    "элеккеге"
+                ],
+                "Bashkir": [
+                    "элекке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muqaddam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мурунку"
+                ]
+            }
+        }
+    ]
+}

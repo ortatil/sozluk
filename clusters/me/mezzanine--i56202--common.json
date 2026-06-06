@@ -1,0 +1,125 @@
+{
+    "id": "i56202",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mezzanine",
+    "en_definition": "intermediate floor just above the ground floor",
+    "tr_word": "asma kat",
+    "tr_definition": "bir binanın zemin katı ile birinci katı arasında bulunan yarım kat",
+    "ru_word": "антресоль",
+    "ru_definition": "верхний полуэтаж, встроенный в объем основного этажа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asma kat",
+                    "ara kat"
+                ],
+                "Azerbaijani": [
+                    "asma qat",
+                    "ara qat"
+                ],
+                "Turkmen": [
+                    "ara gat"
+                ],
+                "Uyghur": [
+                    "ئارا قەۋەت"
+                ],
+                "Kazakh": [
+                    "аралық қабат",
+                    "жарты қабат"
+                ],
+                "Kyrgyz": [
+                    "жарым кабат"
+                ],
+                "Karakalpak": [
+                    "aralıq qabat"
+                ],
+                "Tatar": [
+                    "аракат",
+                    "асма кат"
+                ],
+                "Bashkir": [
+                    "араҡат",
+                    "ярымҡат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nimqat"
+                ],
+                "Turkmen": [
+                    "nim-gat"
+                ],
+                "Uzbek": [
+                    "nimqavat"
+                ],
+                "Uyghur": [
+                    "نىم قەۋەت"
+                ],
+                "Karakalpak": [
+                    "nimqabat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "антресоль"
+                ],
+                "Kyrgyz": [
+                    "антресоль"
+                ],
+                "Karakalpak": [
+                    "antresol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yarım kat"
+                ],
+                "Tatar": [
+                    "ярымкат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'rta qavat"
+                ],
+                "Kyrgyz": [
+                    "орто кабат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mezonin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bolaxona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بوشلۇق قەۋەت"
+                ]
+            }
+        }
+    ]
+}

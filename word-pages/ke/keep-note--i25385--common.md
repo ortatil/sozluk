@@ -1,0 +1,211 @@
+# Keep note
+| Field | Detail |
+|---|---|
+| **ID** | i25385 |
+| **English** | keep note |
+| **Type** | verb |
+| **Definition** | maintain in the forefront of one's awareness |
+| **Source** | common |
+| **Ortatil** | hatıralamaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ескеру | yeskeru |
+| **Kyrgyz** | |
+| унутпоо | unutpoo |
+
+```json
+{
+    "id": "i25385",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "keep note",
+    "en_definition": "maintain in the forefront of one's awareness",
+    "tr_word": "aklında tutmak",
+    "tr_definition": "bir şeyi bilincin ön planında tutmak, unutmamak",
+    "ru_word": "иметь в виду",
+    "ru_definition": "сохранять что-либо в центре внимания или в памяти",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "esda tutmoq"
+                ],
+                "Uyghur": [
+                    "ئېسىدە تۇتماق",
+                    "ئېسىدە ساقلىماق"
+                ],
+                "Kazakh": [
+                    "есте сақтау"
+                ],
+                "Kyrgyz": [
+                    "эсте сактоо",
+                    "эске алуу"
+                ],
+                "Karakalpak": [
+                    "este saqlao"
+                ],
+                "Tatar": [
+                    "истә тоту",
+                    "истә калдыру"
+                ],
+                "Bashkir": [
+                    "иҫтә тотоу",
+                    "иҫтә ҡалдырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yadda saxlamaq",
+                    "yadında saxlamaq"
+                ],
+                "Turkmen": [
+                    "ýatda saklamak"
+                ],
+                "Uzbek": [
+                    "yodda tutmoq",
+                    "yodda saqlamoq"
+                ],
+                "Uyghur": [
+                    "يادىدا تۇتماق"
+                ],
+                "Kazakh": [
+                    "жадында ұстау"
+                ],
+                "Karakalpak": [
+                    "jadta tutıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hatyralamak"
+                ],
+                "Uzbek": [
+                    "xotirada saqlamoq"
+                ],
+                "Uyghur": [
+                    "خاتىرىسىدە ساقلىماق"
+                ],
+                "Tatar": [
+                    "хәтердә калдыру"
+                ],
+                "Bashkir": [
+                    "хәтерҙә тотоу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көңілде түю"
+                ],
+                "Kyrgyz": [
+                    "көңүлдө тутуу"
+                ],
+                "Karakalpak": [
+                    "kóńilde tutıo"
+                ],
+                "Tatar": [
+                    "күңелдә тоту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaydetmek"
+                ],
+                "Azerbaijani": [
+                    "qeyd etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "göz öňünde tutmak"
+                ],
+                "Bashkir": [
+                    "күҙ уңында тотоу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ескеру"
+                ],
+                "Karakalpak": [
+                    "eske alıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "not etmek",
+                    "not almak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akılda tutmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zihnine yazmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəzərə almaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fikrində tutmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bellige almak",
+                    "bellemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унутпоо"
+                ]
+            }
+        }
+    ]
+}
+```
+

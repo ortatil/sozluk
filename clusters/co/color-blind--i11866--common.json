@@ -1,0 +1,95 @@
+{
+    "id": "i11866",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "color-blind",
+    "en_definition": "unable to distinguish one or more chromatic colors",
+    "tr_word": "renk körü",
+    "tr_definition": "bir veya daha fazla rengi birbirinden ayırt edemeyen",
+    "ru_word": "дальтоник",
+    "ru_definition": "неспособный различать один или несколько хроматических цветов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "renk körü"
+                ],
+                "Azerbaijani": [
+                    "rəngkor",
+                    "rəngseçməz"
+                ],
+                "Turkmen": [
+                    "reňk saýgarmaýan",
+                    "reňk körüligi",
+                    "reňk saýlap bilmeýän"
+                ],
+                "Uzbek": [
+                    "rang ajratolmas",
+                    "rang koʻr",
+                    "rang tanimas"
+                ],
+                "Uyghur": [
+                    "رەڭ ئايرىيالماسلىق",
+                    "رەڭ كورى",
+                    "رەڭ پەرقلەندۈرەلمەسلىك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "түс ажырата алмайтын",
+                    "түс танымайтын"
+                ],
+                "Kyrgyz": [
+                    "түс ажырата албаган"
+                ],
+                "Karakalpak": [
+                    "tús ajırata almaytuǵın",
+                    "tús tanımaytuǵın"
+                ],
+                "Tatar": [
+                    "төс аермаучы",
+                    "төс сукыры"
+                ],
+                "Bashkir": [
+                    "төҫ айырмаусы",
+                    "төҫ һуҡыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түс соқырлығы"
+                ],
+                "Kyrgyz": [
+                    "түс сокурдугу бар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "daltonist"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өң тааныбаган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kózinde nuqsanı bar"
+                ]
+            }
+        }
+    ]
+}

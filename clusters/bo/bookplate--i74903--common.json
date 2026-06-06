@@ -1,0 +1,97 @@
+{
+    "id": "i74903",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bookplate",
+    "en_definition": "a label identifying the owner of a book in which it is pasted",
+    "tr_word": "eks libris",
+    "tr_definition": "Bir kitabın kapağının içine yapıştırılan ve kitabın kime ait olduğunu belirten etiket.",
+    "ru_word": "экслибрис",
+    "ru_definition": "Книжный знак, наклеиваемый владельцами библиотек на внутреннюю сторону переплета.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kitap etiketi",
+                    "kitap mühürü",
+                    "kitap damgası"
+                ],
+                "Azerbaijani": [
+                    "kitab nişanı",
+                    "kitab möhürü"
+                ],
+                "Turkmen": [
+                    "kitap nyşany",
+                    "kitap möhüri"
+                ],
+                "Uzbek": [
+                    "kitob belgisi"
+                ],
+                "Uyghur": [
+                    "كىتاب تامغىسى",
+                    "كىتاب بەلگىسى"
+                ],
+                "Kazakh": [
+                    "кітап белгісі",
+                    "кітап таңбасы",
+                    "кітап иесінің белгісі"
+                ],
+                "Kyrgyz": [
+                    "китеп белгиси",
+                    "китеп мөөрү"
+                ],
+                "Karakalpak": [
+                    "kitap belgisi",
+                    "kitap iyesiniń belgisi"
+                ],
+                "Tatar": [
+                    "китап тамгасы",
+                    "китап билгесе"
+                ],
+                "Bashkir": [
+                    "китап тамғаһы",
+                    "китап билдәһе",
+                    "китап мөһөрө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eks libris"
+                ],
+                "Azerbaijani": [
+                    "ekslibris"
+                ],
+                "Turkmen": [
+                    "eks-libris"
+                ],
+                "Uyghur": [
+                    "ئەكسلىبرىس"
+                ],
+                "Kyrgyz": [
+                    "ээлик белгиси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muhr"
+                ],
+                "Tatar": [
+                    "мөһер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tamgʻa"
+                ]
+            }
+        }
+    ]
+}

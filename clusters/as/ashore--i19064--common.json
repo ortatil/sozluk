@@ -1,0 +1,120 @@
+{
+    "id": "i19064",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "ashore",
+    "en_definition": "towards the shore from the water",
+    "tr_word": "karaya",
+    "tr_definition": "sudan kıyıya doğru",
+    "ru_word": "на берег",
+    "ru_definition": "по направлению к берегу из воды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gury ýere"
+                ],
+                "Uzbek": [
+                    "quruqlikka"
+                ],
+                "Uyghur": [
+                    "قۇرۇقلۇققا"
+                ],
+                "Kazakh": [
+                    "құрлыққа"
+                ],
+                "Kyrgyz": [
+                    "кургакка"
+                ],
+                "Karakalpak": [
+                    "qurǵaqlıqqa"
+                ],
+                "Bashkir": [
+                    "ҡоро ергә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahile"
+                ],
+                "Azerbaijani": [
+                    "sahilə"
+                ],
+                "Uzbek": [
+                    "sohilga"
+                ],
+                "Uyghur": [
+                    "ساھىلغا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karaya",
+                    "kıyıya"
+                ],
+                "Azerbaijani": [
+                    "quruya"
+                ],
+                "Tatar": [
+                    "корыга",
+                    "кырыйга"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жағаға"
+                ],
+                "Kyrgyz": [
+                    "жээкке",
+                    "жээкке карай",
+                    "жээк көздөй"
+                ],
+                "Karakalpak": [
+                    "jaǵaǵa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kənara"
+                ],
+                "Turkmen": [
+                    "kenara",
+                    "kenar tarapa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qirg'oqqa"
+                ],
+                "Uyghur": [
+                    "قىرغاققا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ярга"
+                ],
+                "Bashkir": [
+                    "ярга",
+                    "ярға"
+                ]
+            }
+        }
+    ]
+}

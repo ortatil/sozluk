@@ -1,0 +1,76 @@
+{
+    "id": "i59157",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snow tire",
+    "en_definition": "an automobile pneumatic tire with deep tread to give traction in snow",
+    "tr_word": "kar lastiği",
+    "tr_definition": "karda çekiş sağlamak için derin dişlere sahip otomobil lastiği",
+    "ru_word": "зимняя шина",
+    "ru_definition": "автомобильная пневматическая шина с глубоким протектором для обеспечения сцепления на снегу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar lastiği",
+                    "kış lastiği"
+                ],
+                "Azerbaijani": [
+                    "qış təkəri",
+                    "qış şini"
+                ],
+                "Turkmen": [
+                    "gyş tekeri",
+                    "gyşky teker",
+                    "gar tekeri"
+                ],
+                "Uzbek": [
+                    "qishki shina",
+                    "qishki g'ildirak"
+                ],
+                "Uyghur": [
+                    "قىشلىق بالون"
+                ],
+                "Kazakh": [
+                    "қысқы дөңгелек",
+                    "қысқы шина",
+                    "қысқы қаптама"
+                ],
+                "Kyrgyz": [
+                    "кышкы дөңгөлөк",
+                    "кышкы шина"
+                ],
+                "Karakalpak": [
+                    "qısqı shina",
+                    "qısqı dóńgelek"
+                ],
+                "Tatar": [
+                    "кышкы шина",
+                    "кышкы тәгәрмәч"
+                ],
+                "Bashkir": [
+                    "ҡышҡы шина",
+                    "ҡышҡы тәгәрмәс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قار بالونى"
+                ],
+                "Kyrgyz": [
+                    "кар дөңгөлөгү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قار چاقى"
+                ]
+            }
+        }
+    ]
+}

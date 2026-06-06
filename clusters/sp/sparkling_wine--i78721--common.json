@@ -1,0 +1,83 @@
+{
+    "id": "i78721",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sparkling wine",
+    "en_definition": "effervescent wine",
+    "tr_word": "köpüklü şarap",
+    "tr_definition": "içinde karbondioksit gazı bulunan ve bardağa döküldüğünde köpüren şarap türü",
+    "ru_word": "игристое вино",
+    "ru_definition": "вино, насыщенное углекислым газом, который делает его шипучим",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "köpüklü şarap"
+                ],
+                "Azerbaijani": [
+                    "köpüklü şərab"
+                ],
+                "Turkmen": [
+                    "köpürjikli şerap"
+                ],
+                "Uzbek": [
+                    "koʻpikli may",
+                    "koʻpikli sharob"
+                ],
+                "Uyghur": [
+                    "كۆپۈكلىك شاراب",
+                    "كۆپۈكلىك مەي"
+                ],
+                "Kazakh": [
+                    "көпіршікті шарап"
+                ],
+                "Kyrgyz": [
+                    "көбүктүү шарап",
+                    "көбүрмө шарап"
+                ],
+                "Karakalpak": [
+                    "kópirshikli sharap"
+                ],
+                "Tatar": [
+                    "күбекләнгән шәраб",
+                    "күбекләнгән май"
+                ],
+                "Bashkir": [
+                    "күбекле шарап",
+                    "күбекле май"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qazlı şərab"
+                ],
+                "Turkmen": [
+                    "gazly şerap"
+                ],
+                "Uzbek": [
+                    "gazli sharob"
+                ],
+                "Kazakh": [
+                    "газдалған шарап"
+                ],
+                "Kyrgyz": [
+                    "газдалган шарап"
+                ],
+                "Karakalpak": [
+                    "gazlanǵan sharap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fışkıran şarap"
+                ]
+            }
+        }
+    ]
+}

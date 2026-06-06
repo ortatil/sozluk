@@ -1,0 +1,94 @@
+{
+    "id": "i109004",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "integer",
+    "en_definition": "any of the natural numbers (positive or negative) or zero",
+    "tr_word": "tam sayı",
+    "tr_definition": "sıfır, pozitif ve negatif doğal sayıların tamamını kapsayan sayı kümesi",
+    "ru_word": "целое число",
+    "ru_definition": "любое из натуральных чисел, их отрицательных эквивалентов или ноль",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bitin san"
+                ],
+                "Uzbek": [
+                    "butun son"
+                ],
+                "Uyghur": [
+                    "پۈتۈن سان"
+                ],
+                "Kazakh": [
+                    "бүтін сан",
+                    "бүтін"
+                ],
+                "Kyrgyz": [
+                    "бүтүн сан",
+                    "бүтүн"
+                ],
+                "Karakalpak": [
+                    "bútin san",
+                    "bútin"
+                ],
+                "Tatar": [
+                    "бөтен сан",
+                    "бөтен"
+                ],
+                "Bashkir": [
+                    "бөтөн һан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tam sayı"
+                ],
+                "Azerbaijani": [
+                    "tam"
+                ],
+                "Turkmen": [
+                    "tam san"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "adet"
+                ],
+                "Uzbek": [
+                    "adad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تولۇق سان"
+                ],
+                "Bashkir": [
+                    "тулы һан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tam ədəd"
+                ]
+            }
+        }
+    ]
+}

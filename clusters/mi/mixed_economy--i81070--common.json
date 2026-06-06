@@ -1,0 +1,74 @@
+{
+    "id": "i81070",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mixed economy",
+    "en_definition": "an economic system that combines private and state enterprises",
+    "tr_word": "karma ekonomi",
+    "tr_definition": "özel sektör ve devlet teşebbüslerinin bir arada bulunduğu ekonomik sistem",
+    "ru_word": "смешанная экономика",
+    "ru_definition": "экономическая система, сочетающая в себе частные и государственные предприятия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aralash iqtisodiyot"
+                ],
+                "Uyghur": [
+                    "ئارىلاش ئىقتىساد",
+                    "ئارىلاشما ئىقتىساد"
+                ],
+                "Kazakh": [
+                    "аралас экономика",
+                    "аралас шаруашылық"
+                ],
+                "Kyrgyz": [
+                    "аралаш экономика",
+                    "аралаш чарба"
+                ],
+                "Karakalpak": [
+                    "aralas ekonomika",
+                    "aralas xojalıq sisteması"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karma ekonomi",
+                    "karma iktisat",
+                    "karma düzen"
+                ],
+                "Azerbaijani": [
+                    "qarışıq iqtisadiyyat",
+                    "qarışıq iqtisadi sistem"
+                ],
+                "Turkmen": [
+                    "garyşyk ykdysadyýet",
+                    "garyşyk ykdysady ulgam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "катнаш икътисад",
+                    "катнаш хуҗалык"
+                ],
+                "Bashkir": [
+                    "ҡатнаш иҡтисад",
+                    "ҡатнаш хужалыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qoʻshma iqtisodiyot"
+                ]
+            }
+        }
+    ]
+}

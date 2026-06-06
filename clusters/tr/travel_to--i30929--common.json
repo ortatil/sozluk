@@ -1,0 +1,178 @@
+{
+    "id": "i30929",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "travel to",
+    "en_definition": "go to certain places as for sightseeing",
+    "tr_word": "seyahat etmek",
+    "tr_definition": "gezip görmek amacıyla belirli yerlere gitmek",
+    "ru_word": "путешествовать",
+    "ru_definition": "отправляться в определенные места с целью осмотра достопримечательностей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seyahat etmek",
+                    "ziyaret etmek"
+                ],
+                "Azerbaijani": [
+                    "səyahət etmək"
+                ],
+                "Turkmen": [
+                    "syýahat etmek"
+                ],
+                "Uzbek": [
+                    "sayohat qilmoq"
+                ],
+                "Uyghur": [
+                    "سەياھەت قىلماق",
+                    "ساياھەت قىلماق"
+                ],
+                "Kazakh": [
+                    "саяхаттау"
+                ],
+                "Kyrgyz": [
+                    "саякаттоо"
+                ],
+                "Karakalpak": [
+                    "sayaxatlao"
+                ],
+                "Tatar": [
+                    "сәяхәт итү"
+                ],
+                "Bashkir": [
+                    "сәйәхәт итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gezmek"
+                ],
+                "Azerbaijani": [
+                    "gəzmək"
+                ],
+                "Turkmen": [
+                    "gezelenç etmek",
+                    "gezmek"
+                ],
+                "Uzbek": [
+                    "kezmoq"
+                ],
+                "Uyghur": [
+                    "كەزمەك"
+                ],
+                "Kyrgyz": [
+                    "кезүү"
+                ],
+                "Karakalpak": [
+                    "kezio"
+                ],
+                "Tatar": [
+                    "гизү"
+                ],
+                "Bashkir": [
+                    "гиҙеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dolaşmak"
+                ],
+                "Azerbaijani": [
+                    "dolanmaq"
+                ],
+                "Turkmen": [
+                    "dolanmak"
+                ],
+                "Uyghur": [
+                    "ئايلانماق"
+                ],
+                "Kyrgyz": [
+                    "айлануу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "səfər etmək"
+                ],
+                "Uzbek": [
+                    "safar qilmoq"
+                ],
+                "Uyghur": [
+                    "سەپەر قىلماق"
+                ],
+                "Kazakh": [
+                    "сапар шегу"
+                ],
+                "Tatar": [
+                    "сәфәр кылу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қыдыру"
+                ],
+                "Kyrgyz": [
+                    "кыдыруу"
+                ],
+                "Karakalpak": [
+                    "qıdırıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аралау"
+                ],
+                "Karakalpak": [
+                    "aralao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йөрү"
+                ],
+                "Bashkir": [
+                    "йөрөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aylanmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жол жүру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "күрә барыу"
+                ]
+            }
+        }
+    ]
+}

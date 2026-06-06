@@ -1,0 +1,117 @@
+{
+    "id": "i78142",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "green salad",
+    "en_definition": "tossed salad composed primarily of salad greens",
+    "tr_word": "yeşil salata",
+    "tr_definition": "başlıca marul ve diğer yeşil yapraklı sebzelerden oluşan salata",
+    "ru_word": "зелёный салат",
+    "ru_definition": "салат, состоящий преимущественно из листовых овощей и зелени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeşil salata"
+                ],
+                "Azerbaijani": [
+                    "yaşıl salat"
+                ],
+                "Kazakh": [
+                    "жасыл салат"
+                ],
+                "Kyrgyz": [
+                    "жашыл салат"
+                ],
+                "Karakalpak": [
+                    "jasıl salat"
+                ],
+                "Tatar": [
+                    "яшел салат"
+                ],
+                "Bashkir": [
+                    "йәшел салат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "göyərti salatı"
+                ],
+                "Turkmen": [
+                    "gök salat"
+                ],
+                "Uzbek": [
+                    "ko'katli salat",
+                    "ko'k salat"
+                ],
+                "Uyghur": [
+                    "كۆك سالات",
+                    "كۆكتات سالاتى"
+                ],
+                "Kazakh": [
+                    "көкөніс салаты",
+                    "көк салат"
+                ],
+                "Kyrgyz": [
+                    "көк салат"
+                ],
+                "Karakalpak": [
+                    "kók salat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "marul salatası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mevsim salatası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çoban salatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gök işdäaçary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bargli salat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яфрак салаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үлән салаты"
+                ]
+            }
+        }
+    ]
+}

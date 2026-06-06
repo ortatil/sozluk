@@ -1,0 +1,72 @@
+{
+    "id": "i78175",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "salt",
+    "en_definition": "white crystalline form of especially sodium chloride used to season and preserve food",
+    "tr_word": "tuz",
+    "tr_definition": "Yiyecekleri tatlandırmak ve korumak için kullanılan, özellikle sodyum klorürden oluşan beyaz kristal madde.",
+    "ru_word": "соль",
+    "ru_definition": "Белое кристаллическое вещество, представляющее собой хлорид натрия, используемое для приправы и консервирования пищи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tuz"
+                ],
+                "Azerbaijani": [
+                    "duz"
+                ],
+                "Turkmen": [
+                    "duz"
+                ],
+                "Uzbek": [
+                    "tuz"
+                ],
+                "Uyghur": [
+                    "تۇز"
+                ],
+                "Kazakh": [
+                    "тұз"
+                ],
+                "Kyrgyz": [
+                    "туз"
+                ],
+                "Karakalpak": [
+                    "tuz"
+                ],
+                "Tatar": [
+                    "тоз"
+                ],
+                "Bashkir": [
+                    "тоҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nemək"
+                ],
+                "Uzbek": [
+                    "namak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "milih"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şor"
+                ]
+            }
+        }
+    ]
+}

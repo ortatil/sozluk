@@ -1,0 +1,99 @@
+{
+    "id": "i19821",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "northerly",
+    "en_definition": "in a northern direction",
+    "tr_word": "kuzeye doğru",
+    "tr_definition": "kuzey yönünde, kuzeye bakacak şekilde",
+    "ru_word": "на север",
+    "ru_definition": "в северном направлении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şimalen"
+                ],
+                "Azerbaijani": [
+                    "şimala",
+                    "şimal tərəfə",
+                    "şimal istiqamətində"
+                ],
+                "Uzbek": [
+                    "shimolga",
+                    "shimolga qarab",
+                    "shimoliy tomonga"
+                ],
+                "Uyghur": [
+                    "شىمالغا",
+                    "شىمال تەرەپكە",
+                    "شىمالغا قاراپ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "түндүккө",
+                    "түндүккө карай",
+                    "түндүк тарапка"
+                ],
+                "Karakalpak": [
+                    "túndіkke qaray"
+                ],
+                "Tatar": [
+                    "төньякка",
+                    "төньякка таба",
+                    "төньяк юнәлешендә"
+                ],
+                "Bashkir": [
+                    "төньяҡҡа",
+                    "төньяҡҡа табан",
+                    "төньяҡ йүнәлешендә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuzeye doğru",
+                    "kuzey yönünde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demirgazyga",
+                    "demirgazyk tarapa",
+                    "demirgazyga tarap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстікке қарай",
+                    "солтүстікке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "теріскейге қарай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "arqaǵa qaray",
+                    "arqalay"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "i8387",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "metallic",
+    "en_definition": "containing or made of or resembling or characteristic of a metal",
+    "tr_word": "metalik",
+    "tr_definition": "metalle ilgili, metali andıran veya metalden yapılmış olan",
+    "ru_word": "металлический",
+    "ru_definition": "содержащий металл, сделанный из металла или напоминающий его по свойствам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "madeni",
+                    "metalik",
+                    "metal",
+                    "madensel"
+                ],
+                "Azerbaijani": [
+                    "metal",
+                    "metali"
+                ],
+                "Turkmen": [
+                    "metal",
+                    "metally"
+                ],
+                "Uzbek": [
+                    "metallik",
+                    "ma'danli",
+                    "ma'daniy"
+                ],
+                "Uyghur": [
+                    "مېتاللىق",
+                    "مېتالسىمان",
+                    "مادەنلىك"
+                ],
+                "Kazakh": [
+                    "металды",
+                    "металл тектес"
+                ],
+                "Kyrgyz": [
+                    "металлдык"
+                ],
+                "Karakalpak": [
+                    "metall"
+                ],
+                "Tatar": [
+                    "металл"
+                ],
+                "Bashkir": [
+                    "металл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "demir"
+                ],
+                "Uzbek": [
+                    "temirsimon"
+                ],
+                "Uyghur": [
+                    "تۆمۈرسىمان"
+                ],
+                "Kazakh": [
+                    "темірдей"
+                ],
+                "Kyrgyz": [
+                    "темирдей",
+                    "темир сыяктуу"
+                ],
+                "Karakalpak": [
+                    "temir",
+                    "temirdey"
+                ],
+                "Tatar": [
+                    "тимерсыман"
+                ],
+                "Bashkir": [
+                    "тимер",
+                    "тимерҙәй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "filiz",
+                    "filizi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәгъдәни"
+                ]
+            }
+        }
+    ]
+}

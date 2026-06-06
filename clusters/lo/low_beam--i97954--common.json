@@ -1,0 +1,90 @@
+{
+    "id": "i97954",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "low beam",
+    "en_definition": "the beam of a car's headlights that provides illumination for a short distance",
+    "tr_word": "kısa far",
+    "tr_definition": "Bir otomobilin farlarının kısa mesafeyi aydınlatmak için kullanılan ayarı",
+    "ru_word": "ближний свет",
+    "ru_definition": "режим работы фар автомобиля, предназначенный для освещения дороги на небольшом расстоянии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yakın far"
+                ],
+                "Azerbaijani": [
+                    "yaxın işıq",
+                    "yaxın vuran işıqlar"
+                ],
+                "Turkmen": [
+                    "ýakyn çyra"
+                ],
+                "Uzbek": [
+                    "yaqin chiroq",
+                    "yaqinni yorituvchi chiroq"
+                ],
+                "Uyghur": [
+                    "يېقىن يورۇقلۇق",
+                    "يېقىننى يورۇتۇش چىرىغى"
+                ],
+                "Kazakh": [
+                    "жақын жарық",
+                    "жақын шам"
+                ],
+                "Kyrgyz": [
+                    "жакын жарык",
+                    "жакынкы жарык"
+                ],
+                "Karakalpak": [
+                    "jaqın jarıq"
+                ],
+                "Tatar": [
+                    "якын ут"
+                ],
+                "Bashkir": [
+                    "яҡын ут",
+                    "яҡын яҡтылыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısa far",
+                    "kısa ışıklar"
+                ],
+                "Azerbaijani": [
+                    "qısa işıq"
+                ],
+                "Turkmen": [
+                    "gysga çyra"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەن چىراغ"
+                ],
+                "Karakalpak": [
+                    "tómengi jarıq"
+                ],
+                "Tatar": [
+                    "түбән ут"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pastki chiroq"
+                ]
+            }
+        }
+    ]
+}

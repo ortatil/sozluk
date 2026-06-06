@@ -1,0 +1,154 @@
+# Roundhouse
+| Field | Detail |
+|---|---|
+| **ID** | i36132 |
+| **English** | roundhouse |
+| **Type** | noun |
+| **Definition** | a hook delivered with an exaggerated swing |
+| **Source** | common |
+| **Ortatil** | kroça |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i36132",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "roundhouse",
+    "en_definition": "a hook delivered with an exaggerated swing",
+    "tr_word": "kroşe",
+    "tr_definition": "Geniş bir kavisle savrularak atılan yumruk.",
+    "ru_word": "хук с размаха",
+    "ru_definition": "Удар кулаком, наносимый с широким замахом по дуге.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yan yumruk"
+                ],
+                "Turkmen": [
+                    "ýan urgy"
+                ],
+                "Uzbek": [
+                    "yondan zarba"
+                ],
+                "Uyghur": [
+                    "يانچە مۇشت"
+                ],
+                "Karakalpak": [
+                    "janama soqqı"
+                ],
+                "Tatar": [
+                    "ян сугу"
+                ],
+                "Bashkir": [
+                    "ян һуғыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aýlawly urgy"
+                ],
+                "Uzbek": [
+                    "aylanma zarba"
+                ],
+                "Uyghur": [
+                    "ئايلانما مۇشت"
+                ],
+                "Kazakh": [
+                    "айналма соққы"
+                ],
+                "Kyrgyz": [
+                    "айланма сокку"
+                ],
+                "Karakalpak": [
+                    "aylanba soqqı"
+                ],
+                "Tatar": [
+                    "айкап сугу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yan zərbə"
+                ],
+                "Kyrgyz": [
+                    "жаа сокку"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gapdal urgy"
+                ],
+                "Kyrgyz": [
+                    "каптал сокку"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сілтей соғу"
+                ],
+                "Bashkir": [
+                    "һелтәп һуғыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kroşe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geniş yumruk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "savurma yumruk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dairəvi zərbə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qövsvarı zərbə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бүйірден соғу"
+                ]
+            }
+        }
+    ]
+}
+```
+

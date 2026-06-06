@@ -1,0 +1,94 @@
+{
+    "id": "i71246",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "silent movie",
+    "en_definition": "a movie without a soundtrack",
+    "tr_word": "sessiz film",
+    "tr_definition": "ses kaydı veya diyaloğu olmayan, genellikle altyazılarla desteklenen film türü",
+    "ru_word": "немое кино",
+    "ru_definition": "кинофильм, не имеющий записанного звукового сопровождения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sessiz film",
+                    "sözsüz film"
+                ],
+                "Azerbaijani": [
+                    "səssiz film",
+                    "səssiz kino"
+                ],
+                "Turkmen": [
+                    "sessiz kino",
+                    "sessiz film"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovozsiz film",
+                    "ovozsiz kino"
+                ],
+                "Uyghur": [
+                    "ئاۋازسىز كىنو"
+                ],
+                "Tatar": [
+                    "тавышсыз кино"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تىلسىز كىنو"
+                ],
+                "Tatar": [
+                    "телсез кино"
+                ],
+                "Bashkir": [
+                    "телһеҙ кино"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дыбыссыз фильм"
+                ],
+                "Karakalpak": [
+                    "taoıssız film"
+                ],
+                "Bashkir": [
+                    "тауышһыҙ кино"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мылқау кино"
+                ],
+                "Karakalpak": [
+                    "mılqau kino"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үнсүз тасма",
+                    "үнсүз кино"
+                ],
+                "Karakalpak": [
+                    "únsiz film"
+                ]
+            }
+        }
+    ]
+}

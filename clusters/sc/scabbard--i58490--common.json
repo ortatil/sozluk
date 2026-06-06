@@ -1,0 +1,103 @@
+{
+    "id": "i58490",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "scabbard",
+    "en_definition": "a sheath for a sword or dagger or bayonet",
+    "tr_word": "kın",
+    "tr_definition": "Kılıç, bıçak gibi kesici araçların içine sokulduğu kap.",
+    "ru_word": "ножны",
+    "ru_definition": "Футляр для вкладывания холодного оружия (меча, кинжала, сабли).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kın"
+                ],
+                "Azerbaijani": [
+                    "qın"
+                ],
+                "Turkmen": [
+                    "gyn"
+                ],
+                "Uzbek": [
+                    "qin"
+                ],
+                "Kazakh": [
+                    "қынап"
+                ],
+                "Kyrgyz": [
+                    "кыр",
+                    "кыны"
+                ],
+                "Karakalpak": [
+                    "qınap"
+                ],
+                "Tatar": [
+                    "кын"
+                ],
+                "Bashkir": [
+                    "ҡын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kılıf"
+                ],
+                "Azerbaijani": [
+                    "qılaf"
+                ],
+                "Turkmen": [
+                    "gylap"
+                ],
+                "Uzbek": [
+                    "g'ilof"
+                ],
+                "Uyghur": [
+                    "غىلاپ"
+                ],
+                "Bashkir": [
+                    "ҡылыс ҡыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قاپ"
+                ],
+                "Kazakh": [
+                    "қап"
+                ],
+                "Kyrgyz": [
+                    "кап"
+                ],
+                "Karakalpak": [
+                    "qap"
+                ],
+                "Tatar": [
+                    "кап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېشى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сауыт"
+                ]
+            }
+        }
+    ]
+}

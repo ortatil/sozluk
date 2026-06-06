@@ -1,0 +1,178 @@
+{
+    "id": "i7492",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "best-known",
+    "en_definition": "most familiar or renowned",
+    "tr_word": "en çok bilinen",
+    "tr_definition": "en çok tanınan veya en meşhur olan",
+    "ru_word": "самый известный",
+    "ru_definition": "наиболее знакомый или прославленный",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məşhur"
+                ],
+                "Turkmen": [
+                    "meşhur"
+                ],
+                "Uzbek": [
+                    "mashhur"
+                ],
+                "Kazakh": [
+                    "мәшһүр"
+                ],
+                "Kyrgyz": [
+                    "машүр"
+                ],
+                "Karakalpak": [
+                    "máshһúr"
+                ],
+                "Tatar": [
+                    "мәшһүр"
+                ],
+                "Bashkir": [
+                    "мәшһүр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tanınmış"
+                ],
+                "Turkmen": [
+                    "tanymal"
+                ],
+                "Uzbek": [
+                    "taniqli"
+                ],
+                "Kazakh": [
+                    "танымал"
+                ],
+                "Kyrgyz": [
+                    "таанымал"
+                ],
+                "Karakalpak": [
+                    "tanımal"
+                ],
+                "Tatar": [
+                    "танылган"
+                ],
+                "Bashkir": [
+                    "танылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bəlli"
+                ],
+                "Turkmen": [
+                    "belli"
+                ],
+                "Kazakh": [
+                    "белгілі"
+                ],
+                "Kyrgyz": [
+                    "белгилүү"
+                ],
+                "Karakalpak": [
+                    "belgili"
+                ],
+                "Tatar": [
+                    "билгеле"
+                ],
+                "Bashkir": [
+                    "билдәле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "adlı-sanlı"
+                ],
+                "Turkmen": [
+                    "adygan"
+                ],
+                "Kyrgyz": [
+                    "атактуу"
+                ],
+                "Karakalpak": [
+                    "atı shıqqan"
+                ],
+                "Tatar": [
+                    "атаклы"
+                ],
+                "Bashkir": [
+                    "атаҡлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "en meşhur",
+                    "en bilinen"
+                ],
+                "Uyghur": [
+                    "ئەڭ مەشھۇر",
+                    "ئەڭ نامدار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "en tanınmış",
+                    "en namlı"
+                ],
+                "Uyghur": [
+                    "ئەڭ داڭلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nomdor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shuhratli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ma'lum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەڭ تونۇلغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әйгілі"
+                ]
+            }
+        }
+    ]
+}

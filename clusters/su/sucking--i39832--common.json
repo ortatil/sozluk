@@ -1,0 +1,100 @@
+{
+    "id": "i39832",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "suction",
+    "en_definition": "the act of sucking",
+    "tr_word": "emiş",
+    "tr_definition": "emme eylemi veya emme gücü",
+    "ru_word": "всасывание",
+    "ru_definition": "действие по значению глагола всасывать",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "emme",
+                    "emiş",
+                    "emilme"
+                ],
+                "Azerbaijani": [
+                    "əmmə"
+                ],
+                "Turkmen": [
+                    "emme",
+                    "emmeklik"
+                ],
+                "Uzbek": [
+                    "emish"
+                ],
+                "Uyghur": [
+                    "ئېمىش"
+                ],
+                "Kazakh": [
+                    "еміру"
+                ],
+                "Kyrgyz": [
+                    "эмүү"
+                ],
+                "Karakalpak": [
+                    "emio"
+                ],
+                "Tatar": [
+                    "имү",
+                    "имүлек"
+                ],
+                "Bashkir": [
+                    "имеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sorulma",
+                    "sorma"
+                ],
+                "Turkmen": [
+                    "soruş"
+                ],
+                "Uzbek": [
+                    "so'rish"
+                ],
+                "Uyghur": [
+                    "شوراش"
+                ],
+                "Kazakh": [
+                    "сору",
+                    "сорғылау"
+                ],
+                "Kyrgyz": [
+                    "соруу"
+                ],
+                "Karakalpak": [
+                    "sorıo"
+                ],
+                "Tatar": [
+                    "суыру"
+                ],
+                "Bashkir": [
+                    "һурыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shimish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۈمۈرۈش"
+                ]
+            }
+        }
+    ]
+}

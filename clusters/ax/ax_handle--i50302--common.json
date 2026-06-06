@@ -1,0 +1,88 @@
+{
+    "id": "i50302",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ax handle",
+    "en_definition": "the handle of an ax",
+    "tr_word": "balta sapı",
+    "tr_definition": "Bir baltanın tutulmasını sağlayan uzun sap kısmı.",
+    "ru_word": "топорище",
+    "ru_definition": "Деревянная или иная рукоятка топора.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balta sapı"
+                ],
+                "Azerbaijani": [
+                    "balta sapı",
+                    "balta dəstəyi"
+                ],
+                "Turkmen": [
+                    "paltasap",
+                    "paltanyň sapy"
+                ],
+                "Uzbek": [
+                    "bolta dasta"
+                ],
+                "Uyghur": [
+                    "پالتا سېپى",
+                    "پالتا دەستىسى"
+                ],
+                "Kazakh": [
+                    "балтасап"
+                ],
+                "Kyrgyz": [
+                    "балта сап"
+                ],
+                "Karakalpak": [
+                    "balta sap"
+                ],
+                "Tatar": [
+                    "балта сабы"
+                ],
+                "Bashkir": [
+                    "балта һабы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sap"
+                ],
+                "Uzbek": [
+                    "sop"
+                ],
+                "Kazakh": [
+                    "сап"
+                ],
+                "Kyrgyz": [
+                    "сап"
+                ],
+                "Karakalpak": [
+                    "sap"
+                ],
+                "Tatar": [
+                    "сап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nacak sapı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dasta"
+                ]
+            }
+        }
+    ]
+}

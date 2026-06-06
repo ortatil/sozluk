@@ -1,0 +1,101 @@
+{
+    "id": "i1421",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "knotted",
+    "en_definition": "tied with a knot",
+    "tr_word": "düğümlü",
+    "tr_definition": "düğüm atılmış olan, üzerinde düğüm bulunan",
+    "ru_word": "узловатый",
+    "ru_definition": "завязанный узлом или имеющий много узлов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düğümlü",
+                    "düğümlenmiş"
+                ],
+                "Azerbaijani": [
+                    "düyünlü",
+                    "düyünlənmiş"
+                ],
+                "Turkmen": [
+                    "düwünli",
+                    "düwlen"
+                ],
+                "Uyghur": [
+                    "تۈگۈلگەن",
+                    "تۈگۈنلۈك"
+                ],
+                "Kazakh": [
+                    "түйілген",
+                    "түйінді"
+                ],
+                "Kyrgyz": [
+                    "түйүлгөн",
+                    "түйүндүү"
+                ],
+                "Karakalpak": [
+                    "túyіlgen",
+                    "túyіnshektelgen"
+                ],
+                "Tatar": [
+                    "төенле",
+                    "төенләнгән"
+                ],
+                "Bashkir": [
+                    "төйөнлө",
+                    "төйөлгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağlı"
+                ],
+                "Azerbaijani": [
+                    "bağlı"
+                ],
+                "Uzbek": [
+                    "bogʻlangan"
+                ],
+                "Uyghur": [
+                    "باغلانغان"
+                ],
+                "Kazakh": [
+                    "байланған"
+                ],
+                "Kyrgyz": [
+                    "байланган"
+                ],
+                "Karakalpak": [
+                    "baylanǵan"
+                ],
+                "Tatar": [
+                    "бәйләнгән"
+                ],
+                "Bashkir": [
+                    "бәйләнгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çigilen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tugilgan",
+                    "tugunli"
+                ]
+            }
+        }
+    ]
+}

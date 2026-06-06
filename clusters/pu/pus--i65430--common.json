@@ -1,0 +1,90 @@
+{
+    "id": "i65430",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pus",
+    "en_definition": "a fluid product of inflammation",
+    "tr_word": "irin",
+    "tr_definition": "iltihaplanma sonucu oluşan, içinde ölü hücreler ve bakteriler bulunan sarımsı veya beyazımsı sıvı",
+    "ru_word": "гной",
+    "ru_definition": "мутная жидкость, образующаяся в результате воспаления",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "irin"
+                ],
+                "Azerbaijani": [
+                    "irin"
+                ],
+                "Turkmen": [
+                    "iriň"
+                ],
+                "Uzbek": [
+                    "yiring",
+                    "irim"
+                ],
+                "Uyghur": [
+                    "يىرىڭ",
+                    "چىرىڭ"
+                ],
+                "Kazakh": [
+                    "ірің",
+                    "іріңдік"
+                ],
+                "Kyrgyz": [
+                    "ириң"
+                ],
+                "Karakalpak": [
+                    "iriń",
+                    "iriń-shiriń"
+                ],
+                "Tatar": [
+                    "эрен"
+                ],
+                "Bashkir": [
+                    "эрен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cerahat"
+                ],
+                "Azerbaijani": [
+                    "çirk"
+                ],
+                "Turkmen": [
+                    "çirk"
+                ],
+                "Kyrgyz": [
+                    "сары суу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akıntı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "эрен-маҙар"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": "i52560",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "crucifix",
+    "en_definition": "representation of the cross on which Jesus died",
+    "tr_word": "istavroz",
+    "tr_definition": "İsa'nın çarmıha gerilişini temsil eden haç şeklindeki nesne",
+    "ru_word": "распятие",
+    "ru_definition": "изображение креста, на котором был распят Иисус Христос",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haç"
+                ],
+                "Azerbaijani": [
+                    "xaç"
+                ],
+                "Turkmen": [
+                    "haç",
+                    "haç şekili"
+                ],
+                "Uzbek": [
+                    "xoch"
+                ],
+                "Karakalpak": [
+                    "xash"
+                ],
+                "Tatar": [
+                    "хач"
+                ],
+                "Bashkir": [
+                    "хас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "salip"
+                ],
+                "Azerbaijani": [
+                    "salib"
+                ],
+                "Uzbek": [
+                    "salib"
+                ],
+                "Uyghur": [
+                    "سەلىب"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كرېست"
+                ],
+                "Kazakh": [
+                    "крест",
+                    "крест бейнесі"
+                ],
+                "Kyrgyz": [
+                    "крест"
+                ],
+                "Karakalpak": [
+                    "krest"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айқыш"
+                ],
+                "Kyrgyz": [
+                    "айкаш жыгач"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәре"
+                ],
+                "Bashkir": [
+                    "тәре"
+                ]
+            }
+        }
+    ]
+}

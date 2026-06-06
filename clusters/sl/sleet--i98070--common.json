@@ -1,0 +1,145 @@
+{
+    "id": "i98070",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sleet",
+    "en_definition": "partially melted snow (or a mixture of rain and snow)",
+    "tr_word": "sulu sepken",
+    "tr_definition": "yağmurla karışık yağan kar",
+    "ru_word": "мокрый снег",
+    "ru_definition": "осадки в виде смеси дождя и тающего снега",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karla karışık yağmur"
+                ],
+                "Azerbaijani": [
+                    "qar-yağış"
+                ],
+                "Turkmen": [
+                    "gar-ýagyn"
+                ],
+                "Uzbek": [
+                    "qor-yomgʻir"
+                ],
+                "Uyghur": [
+                    "قار-يامغۇر"
+                ],
+                "Kyrgyz": [
+                    "кар аралаш жамгыр"
+                ],
+                "Bashkir": [
+                    "ҡарлы ямғыр",
+                    "ҡарлы-буран"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "laýyk"
+                ],
+                "Kazakh": [
+                    "лайсаң"
+                ],
+                "Kyrgyz": [
+                    "лайсаң"
+                ],
+                "Karakalpak": [
+                    "laysań"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sulu sepken",
+                    "sulu kar"
+                ],
+                "Azerbaijani": [
+                    "sulu qar"
+                ],
+                "Karakalpak": [
+                    "sulı qar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "аралас қар"
+                ],
+                "Kyrgyz": [
+                    "аралаш кар"
+                ],
+                "Karakalpak": [
+                    "aralas qar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shilliq",
+                    "shilta"
+                ],
+                "Uyghur": [
+                    "شىلىۋەش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жылбысқа"
+                ],
+                "Kyrgyz": [
+                    "жылбыска"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җепшек кар"
+                ],
+                "Bashkir": [
+                    "епшек ҡар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çygyl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көктайғақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яңгырлы кар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "буранлы яңгыр"
+                ]
+            }
+        }
+    ]
+}

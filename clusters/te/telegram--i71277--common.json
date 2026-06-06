@@ -1,0 +1,146 @@
+{
+    "id": "i71277",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "telegram",
+    "en_definition": "a message transmitted by telegraph",
+    "tr_word": "telgraf",
+    "tr_definition": "Telgraf aracılığıyla gönderilen yazılı ileti",
+    "ru_word": "телеграмма",
+    "ru_definition": "Сообщение, переданное по телеграфу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haber"
+                ],
+                "Turkmen": [
+                    "habar"
+                ],
+                "Uzbek": [
+                    "xabar"
+                ],
+                "Uyghur": [
+                    "خەۋەر"
+                ],
+                "Kazakh": [
+                    "хабарлама"
+                ],
+                "Kyrgyz": [
+                    "кабар"
+                ],
+                "Karakalpak": [
+                    "xabarlama"
+                ],
+                "Tatar": [
+                    "хәбәр"
+                ],
+                "Bashkir": [
+                    "хәбәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telgraf"
+                ],
+                "Azerbaijani": [
+                    "teleqram",
+                    "teleqramma"
+                ],
+                "Turkmen": [
+                    "telegramma"
+                ],
+                "Uyghur": [
+                    "تېلېگرامما"
+                ],
+                "Tatar": [
+                    "белдерү"
+                ],
+                "Bashkir": [
+                    "белдереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "namat"
+                ],
+                "Uzbek": [
+                    "noma"
+                ],
+                "Bashkir": [
+                    "намә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məktub"
+                ],
+                "Tatar": [
+                    "мәгълүмат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жеделхат",
+                    "жедел хабар"
+                ],
+                "Karakalpak": [
+                    "jedelxat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ileti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tegrama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېشارەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "билдирүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "málimleme"
+                ]
+            }
+        }
+    ]
+}

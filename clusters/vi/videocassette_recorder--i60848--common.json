@@ -1,0 +1,71 @@
+{
+    "id": "i60848",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "videocassette recorder",
+    "en_definition": "a magnetic tape recorder for recording (and playing back) TV programs",
+    "tr_word": "video kaydedici",
+    "tr_definition": "Televizyon programlarını kaydetmek ve oynatmak için kullanılan manyetik bantlı cihaz.",
+    "ru_word": "видеомагнитофон",
+    "ru_definition": "Устройство для записи телевизионного сигнала на магнитную ленту и его последующего воспроизведения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "video",
+                    "video oynatıcı",
+                    "video kaydedici"
+                ],
+                "Azerbaijani": [
+                    "videomaqnitofon",
+                    "videoyazıcı"
+                ],
+                "Turkmen": [
+                    "wideomagnitofon",
+                    "wideoyazgyjy"
+                ],
+                "Uzbek": [
+                    "videomagnitofon"
+                ],
+                "Uyghur": [
+                    "ۋىدېئو ئاپپاراتى",
+                    "ۋىدېئو قويغۇچ"
+                ],
+                "Kyrgyz": [
+                    "видеомагнитофон",
+                    "видеожазгыч"
+                ],
+                "Karakalpak": [
+                    "wideomagnitofon"
+                ],
+                "Tatar": [
+                    "видеомагнитофон",
+                    "видеоязма җайланмасы"
+                ],
+                "Bashkir": [
+                    "видеомагнитофон",
+                    "видеояҙғыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнетаспа ойнатқыш",
+                    "бейнемагнитофон"
+                ],
+                "Karakalpak": [
+                    "beynemagnitofon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tasviryozgich"
+                ]
+            }
+        }
+    ]
+}

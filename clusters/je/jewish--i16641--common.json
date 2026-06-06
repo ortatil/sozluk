@@ -1,0 +1,108 @@
+{
+    "id": "i16641",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "jewish",
+    "en_definition": "of or relating to Jews or their culture or religion",
+    "tr_word": "Yahudi",
+    "tr_definition": "Yahudilerle, onların kültürüyle veya diniyle ilgili olan",
+    "ru_word": "еврейский",
+    "ru_definition": "относящийся к евреям, их культуре или религии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Yahudi"
+                ],
+                "Azerbaijani": [
+                    "yəhudi"
+                ],
+                "Turkmen": [
+                    "ýehudy"
+                ],
+                "Uzbek": [
+                    "yahudiy"
+                ],
+                "Uyghur": [
+                    "يەھۇدىي",
+                    "يەھۇدىيچە"
+                ],
+                "Kazakh": [
+                    "яһуди",
+                    "жөһіт"
+                ],
+                "Kyrgyz": [
+                    "яхудий"
+                ],
+                "Karakalpak": [
+                    "yaxudıy"
+                ],
+                "Tatar": [
+                    "яһүд",
+                    "яһүди"
+                ],
+                "Bashkir": [
+                    "йәһүд",
+                    "йәһүди"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İbrani"
+                ],
+                "Azerbaijani": [
+                    "ibrani"
+                ],
+                "Uzbek": [
+                    "isroiliy",
+                    "ibroniy"
+                ],
+                "Tatar": [
+                    "исраил"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Musevi"
+                ],
+                "Azerbaijani": [
+                    "musəvi"
+                ],
+                "Uyghur": [
+                    "مۇساۋىي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "juhut"
+                ],
+                "Karakalpak": [
+                    "juoıt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "иудей"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жөөт"
+                ]
+            }
+        }
+    ]
+}

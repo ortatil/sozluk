@@ -1,0 +1,86 @@
+{
+    "id": "i101913",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mangrove",
+    "en_definition": "a tropical tree or shrub bearing fruit that germinates while still on the tree and having numerous prop roots that eventually form an impenetrable mass and are important in land building",
+    "tr_word": "mangrov",
+    "tr_definition": "Tropikal bölgelerde, sığ kıyılarda ve bataklıklarda yetişen, gövdesinden çıkan hava kökleri sayesinde sık ormanlar oluşturan bir ağaç veya çalı türü.",
+    "ru_word": "мангр",
+    "ru_definition": "Тропическое дерево или кустарник, растущее в приливно-отливной полосе морских побережий и имеющее многочисленные придаточные корни.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mangrov",
+                    "mangrov ağacı"
+                ],
+                "Azerbaijani": [
+                    "manqrov",
+                    "manqrov ağacı",
+                    "manqrov meşəsi"
+                ],
+                "Turkmen": [
+                    "mangrow agajy",
+                    "mangrow tokaýy"
+                ],
+                "Uzbek": [
+                    "mangra",
+                    "mangra daraxti"
+                ],
+                "Uyghur": [
+                    "مانگرو دەرىخى"
+                ],
+                "Kazakh": [
+                    "мангр",
+                    "мангр ағашы",
+                    "мангр тоғайы"
+                ],
+                "Kyrgyz": [
+                    "мангр дарагы",
+                    "мангр бадалдары"
+                ],
+                "Karakalpak": [
+                    "mangr",
+                    "mangr toǵayı"
+                ],
+                "Tatar": [
+                    "мангр",
+                    "мангр агачы"
+                ],
+                "Bashkir": [
+                    "мангр ағасы",
+                    "мангр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bataklık ağacı"
+                ],
+                "Turkmen": [
+                    "batgaçlyk agajy"
+                ],
+                "Uyghur": [
+                    "باتقاقلىق ئورمانلىقى"
+                ],
+                "Karakalpak": [
+                    "batpaq aǵashı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sho'rxokzor daraxti"
+                ],
+                "Uyghur": [
+                    "شورا دەرىخى"
+                ]
+            }
+        }
+    ]
+}

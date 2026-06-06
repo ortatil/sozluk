@@ -1,0 +1,101 @@
+{
+    "id": "i50686",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bell tower",
+    "en_definition": "a tower that supports or shelters a bell",
+    "tr_word": "çan kulesi",
+    "tr_definition": "İçinde bir veya daha fazla çan bulunan, genellikle bir kilise veya kamu binasının parçası olan kule.",
+    "ru_word": "колокольня",
+    "ru_definition": "Башня с установленными на ней колоколами, обычно являющаяся частью церковного здания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "minarə"
+                ],
+                "Turkmen": [
+                    "minara"
+                ],
+                "Uzbek": [
+                    "minor",
+                    "minorai qo'ng'iroq"
+                ],
+                "Kazakh": [
+                    "мұнара"
+                ],
+                "Kyrgyz": [
+                    "мунара"
+                ],
+                "Karakalpak": [
+                    "múnara"
+                ],
+                "Tatar": [
+                    "манара"
+                ],
+                "Bashkir": [
+                    "манара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qo'ng'iroqxona"
+                ],
+                "Uyghur": [
+                    "قوڭغۇراق مۇنارى",
+                    "قوڭغۇراقخانا"
+                ],
+                "Kazakh": [
+                    "қоңырау мұнарасы"
+                ],
+                "Kyrgyz": [
+                    "коңгуроо мунарасы"
+                ],
+                "Tatar": [
+                    "кыңгырау манарасы"
+                ],
+                "Bashkir": [
+                    "ҡыңғырау манараһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "азанчы мунарасы"
+                ],
+                "Karakalpak": [
+                    "azanshıxana"
+                ],
+                "Tatar": [
+                    "азан манарасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çan kulesi",
+                    "çanlık"
+                ],
+                "Azerbaijani": [
+                    "zəng qülləsi",
+                    "zəngxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jaň minarasy",
+                    "jaňhana"
+                ]
+            }
+        }
+    ]
+}

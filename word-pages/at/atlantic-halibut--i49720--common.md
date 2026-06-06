@@ -1,0 +1,160 @@
+# Atlantic halibut
+| Field | Detail |
+|---|---|
+| **ID** | i49720 |
+| **English** | atlantic halibut |
+| **Type** | noun |
+| **Definition** | largest United States flatfish |
+| **Source** | common |
+| **Ortatil** | paltus |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **paltus** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| палтус | paltus |
+| **Kyrgyz** | |
+| палтус | paltus |
+| камбала | kambala |
+| **Tatar** | |
+| палтус | paltus |
+| **Bashkir** | |
+| палтус | paltus |
+
+```json
+{
+    "id": "i49720",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "atlantic halibut",
+    "en_definition": "largest United States flatfish",
+    "tr_word": "Atlantik pisi balığı",
+    "tr_definition": "Amerika Birleşik Devletleri'ndeki en büyük yassı balık türü.",
+    "ru_word": "атлантический палтус",
+    "ru_definition": "самая крупная камбалообразная рыба в водах Соединенных Штатов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "paltus"
+                ],
+                "Turkmen": [
+                    "paltus"
+                ],
+                "Uzbek": [
+                    "paltus"
+                ],
+                "Kazakh": [
+                    "палтус"
+                ],
+                "Kyrgyz": [
+                    "палтус"
+                ],
+                "Karakalpak": [
+                    "paltus"
+                ],
+                "Tatar": [
+                    "палтус"
+                ],
+                "Bashkir": [
+                    "палтус"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "atlantik kalkanı",
+                    "atlantik pisi balığı"
+                ],
+                "Azerbaijani": [
+                    "atlantik paltusu"
+                ],
+                "Uzbek": [
+                    "atlantika paltusi"
+                ],
+                "Uyghur": [
+                    "ئاتلانتىك پالتا بېلىقى"
+                ],
+                "Kazakh": [
+                    "атлант палтусы"
+                ],
+                "Karakalpak": [
+                    "atlantika paltusı"
+                ],
+                "Bashkir": [
+                    "атлантик палтусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yastıbalıq"
+                ],
+                "Uzbek": [
+                    "yassi baliq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyük pisi balığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly ýasy balyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ پالتا بېلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "камбала"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ак палтус"
+                ]
+            }
+        }
+    ]
+}
+```
+

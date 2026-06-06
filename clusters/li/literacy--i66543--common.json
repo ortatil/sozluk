@@ -1,0 +1,129 @@
+{
+    "id": "i66543",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "literacy",
+    "en_definition": "the ability to read and write",
+    "tr_word": "okuryazarlık",
+    "tr_definition": "okuma ve yazma yeteneği",
+    "ru_word": "грамотность",
+    "ru_definition": "способность читать и писать",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "savad",
+                    "savadlılıq"
+                ],
+                "Turkmen": [
+                    "sowatlylyk"
+                ],
+                "Uzbek": [
+                    "savod",
+                    "savodxonlik"
+                ],
+                "Uyghur": [
+                    "ساۋات",
+                    "ساۋاتلىق"
+                ],
+                "Kazakh": [
+                    "сауаттылық"
+                ],
+                "Kyrgyz": [
+                    "сабаттуулук",
+                    "сабат"
+                ],
+                "Karakalpak": [
+                    "saoatlılıq",
+                    "saoat"
+                ],
+                "Tatar": [
+                    "саваплылык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hat-sowat"
+                ],
+                "Uyghur": [
+                    "خەت-ساۋات"
+                ],
+                "Kazakh": [
+                    "хат тану"
+                ],
+                "Kyrgyz": [
+                    "кат-таануу"
+                ],
+                "Bashkir": [
+                    "хат таныу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "okuma yazma"
+                ],
+                "Karakalpak": [
+                    "oqımıslılıq"
+                ],
+                "Tatar": [
+                    "укымышлылык"
+                ],
+                "Bashkir": [
+                    "уҡымышлылыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bilimlilik"
+                ],
+                "Kazakh": [
+                    "білімділік"
+                ],
+                "Tatar": [
+                    "белемлелек"
+                ],
+                "Bashkir": [
+                    "ғилемлелек",
+                    "белемлелек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "okuryazarlık"
+                ],
+                "Azerbaijani": [
+                    "oxuyub-yazma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "maarif"
+                ],
+                "Uzbek": [
+                    "maorif"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гыйлемлелек"
+                ]
+            }
+        }
+    ]
+}

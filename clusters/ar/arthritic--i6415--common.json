@@ -1,0 +1,131 @@
+{
+    "id": "i6415",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "rheumatic",
+    "en_definition": "of or pertaining to arthritis",
+    "tr_word": "romatizmal",
+    "tr_definition": "romatizma ile ilgili veya romatizmadan kaynaklanan",
+    "ru_word": "ревматический",
+    "ru_definition": "относящийся к ревматизму или вызванный им",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "romatizmalı"
+                ],
+                "Azerbaijani": [
+                    "revmatizmalı"
+                ],
+                "Uzbek": [
+                    "revmatizmga oid"
+                ],
+                "Uyghur": [
+                    "رېماتىزملىق"
+                ],
+                "Karakalpak": [
+                    "rewmatizmli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bogun agyryly",
+                    "bogun keselli"
+                ],
+                "Uzbek": [
+                    "boʻgʻim kasalligiga xos"
+                ],
+                "Uyghur": [
+                    "بوغۇم ياللۇغىغا ئائىت"
+                ],
+                "Tatar": [
+                    "буын авырулы"
+                ],
+                "Bashkir": [
+                    "быуын ауырыулы",
+                    "быуын һыҙлаулы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mafsal ağrılı"
+                ],
+                "Uzbek": [
+                    "boʻgʻim ogʻrigʻiga oid"
+                ],
+                "Uyghur": [
+                    "بوغۇم ئاغرىقى بار"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "буын ауруы",
+                    "буын қабынуы"
+                ],
+                "Karakalpak": [
+                    "buın aurulı",
+                    "buın sırqatı bar"
+                ],
+                "Tatar": [
+                    "буыннар сызлаулы",
+                    "буыннары сызлаган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eklem iltihaplı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "oynaq ağrılı",
+                    "oynaq xəstəliyi olan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "guragyly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құяңды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "муун оорулуу",
+                    "мууну ооруган",
+                    "муун сезгенүүсү бар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "быуынлы"
+                ]
+            }
+        }
+    ]
+}

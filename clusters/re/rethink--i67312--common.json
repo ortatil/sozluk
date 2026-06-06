@@ -1,0 +1,149 @@
+{
+    "id": "i67312",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "reconsideration",
+    "en_definition": "thinking again about a choice previously made",
+    "tr_word": "yeniden değerlendirme",
+    "tr_definition": "daha önce verilmiş bir kararın veya yapılan bir seçimin tekrar gözden geçirilmesi",
+    "ru_word": "пересмотрение",
+    "ru_definition": "повторное рассмотрение или обдумывание ранее принятого решения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan oýlanma"
+                ],
+                "Uzbek": [
+                    "qayta o'ylash",
+                    "qayta ko'rib chiqish"
+                ],
+                "Uyghur": [
+                    "قايتا ئويلىنىش",
+                    "قايتا پىكىر قىلىش",
+                    "قايتا مۇلاھىزە"
+                ],
+                "Kazakh": [
+                    "қайта ойлану",
+                    "қайта қарау",
+                    "қайта пайымдау"
+                ],
+                "Kyrgyz": [
+                    "кайра ойлонуу",
+                    "кайра карап чыгуу"
+                ],
+                "Karakalpak": [
+                    "qayta oylanu",
+                    "qayta qarau"
+                ],
+                "Bashkir": [
+                    "ҡайтанан уйлау",
+                    "ҡайтанан ҡарау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden değerlendirme"
+                ],
+                "Azerbaijani": [
+                    "yenidən düşünmə",
+                    "yenidən dəyərləndirmə"
+                ],
+                "Tatar": [
+                    "яңадан уйлау"
+                ],
+                "Bashkir": [
+                    "яңынан уйлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ой елегінен өткізу"
+                ],
+                "Kyrgyz": [
+                    "ойлонуу"
+                ],
+                "Karakalpak": [
+                    "oylanıp kórіo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekrar düşünme"
+                ],
+                "Azerbaijani": [
+                    "təkrar baxış",
+                    "təkrar mülahizə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pikir üýtgetme"
+                ],
+                "Tatar": [
+                    "фикерне яңарту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gözden geçirme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzeden oýlanma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mulohaza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tafakkur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кеңешүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат уйлану"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төҙәтмә"
+                ]
+            }
+        }
+    ]
+}

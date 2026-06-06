@@ -1,0 +1,90 @@
+{
+    "id": "i75899",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "decathlon",
+    "en_definition": "an athletic contest consisting of ten different events",
+    "tr_word": "dekathlon",
+    "tr_definition": "on farklı daldan oluşan bir atletizm yarışması",
+    "ru_word": "десятиборье",
+    "ru_definition": "спортивное соревнование, состоящее из десяти различных видов упражнений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "onlu yarış",
+                    "onlu atletizm"
+                ],
+                "Azerbaijani": [
+                    "on növçülük",
+                    "on növ yarışı"
+                ],
+                "Turkmen": [
+                    "onluk ýaryş",
+                    "on görnüşli ýaryş"
+                ],
+                "Uzbek": [
+                    "o'nkurash"
+                ],
+                "Uyghur": [
+                    "ئون تۈرلۈك مۇسابىقە",
+                    "ئون تۈرلۈك تەنھەرىكەت"
+                ],
+                "Kyrgyz": [
+                    "он төркүм",
+                    "ондук мелдеш",
+                    "ондук жарыш"
+                ],
+                "Karakalpak": [
+                    "ontúrli jarıs"
+                ],
+                "Tatar": [
+                    "ун төрле ярыш"
+                ],
+                "Bashkir": [
+                    "ун төрлө ярыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "onçäre"
+                ],
+                "Kazakh": [
+                    "онсайыс",
+                    "онтөрт"
+                ],
+                "Karakalpak": [
+                    "onsayıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "унбәйге"
+                ],
+                "Bashkir": [
+                    "унбәйге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dekatlon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'n turli musobaqa"
+                ]
+            }
+        }
+    ]
+}

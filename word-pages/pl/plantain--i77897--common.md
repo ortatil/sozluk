@@ -1,0 +1,185 @@
+# Plantain
+| Field | Detail |
+|---|---|
+| **ID** | i77897 |
+| **English** | plantain |
+| **Type** | noun |
+| **Definition** | starchy banana-like fruit; eaten (always cooked) as a staple vegetable throughout the tropics |
+| **Source** | common |
+| **Ortatil** | piläntäyn |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **piläntäyn** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پىلانتاين | pilantayn |
+| **Kazakh** | |
+| көкбанан | kökbanan |
+| **Kyrgyz** | |
+| банан | banan |
+| **Bashkir** | |
+| плантан | plantan |
+
+```json
+{
+    "id": "i77897",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "plantain",
+    "en_definition": "starchy banana-like fruit; eaten (always cooked) as a staple vegetable throughout the tropics",
+    "tr_word": "plantain",
+    "tr_definition": "Tropikal bölgelerde yetişen, genellikle pişirilerek sebze gibi tüketilen, nişasta oranı yüksek bir muz türü.",
+    "ru_word": "плантайн",
+    "ru_definition": "Крахмалистый плод, похожий на банан; употребляется в пищу (всегда в приготовленном виде) как основной овощ в тропиках.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pişirme muzu"
+                ],
+                "Azerbaijani": [
+                    "bişirilən banan"
+                ],
+                "Turkmen": [
+                    "bişirilýän banan"
+                ],
+                "Uzbek": [
+                    "pishiriladigan banan"
+                ],
+                "Uyghur": [
+                    "پىشۇرۇلىدىغان بانان"
+                ],
+                "Kyrgyz": [
+                    "бышырылуучу банан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gök banan"
+                ],
+                "Uyghur": [
+                    "كۆكتات بانان"
+                ],
+                "Kazakh": [
+                    "көк банан",
+                    "көкбанан",
+                    "көк банан жемісі"
+                ],
+                "Karakalpak": [
+                    "kók banan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "жашыл банан"
+                ],
+                "Karakalpak": [
+                    "as banan"
+                ],
+                "Tatar": [
+                    "яшел банан",
+                    "яшел моз",
+                    "яшел банан җимеше"
+                ],
+                "Bashkir": [
+                    "йәшел банан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پىلانتاين"
+                ],
+                "Karakalpak": [
+                    "planteyn"
+                ],
+                "Bashkir": [
+                    "плантан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sebze muzu"
+                ],
+                "Uzbek": [
+                    "sabzavotli banan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nişastalı muz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərəvəz bananı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "unlu banan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iýmitlik banan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kraxmalli banan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "банан"
+                ]
+            }
+        }
+    ]
+}
+```
+

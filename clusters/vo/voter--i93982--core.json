@@ -1,0 +1,110 @@
+{
+    "id": "i93982",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "voter",
+    "en_definition": "a citizen who has a legal right to vote",
+    "tr_word": "seçmen",
+    "tr_definition": "oy verme hakkına sahip olan vatandaş",
+    "ru_word": "избиратель",
+    "ru_definition": "гражданин, обладающий законным правом голоса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saýlawçy"
+                ],
+                "Uzbek": [
+                    "saylovchi"
+                ],
+                "Uyghur": [
+                    "سايلامچى"
+                ],
+                "Kazakh": [
+                    "сайлаушы"
+                ],
+                "Kyrgyz": [
+                    "шайлоочу"
+                ],
+                "Karakalpak": [
+                    "saylaoshı"
+                ],
+                "Tatar": [
+                    "сайлаучы"
+                ],
+                "Bashkir": [
+                    "һайлаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дауыс беруші"
+                ],
+                "Kyrgyz": [
+                    "добуш берүүчү"
+                ],
+                "Karakalpak": [
+                    "dauıs berioshi"
+                ],
+                "Tatar": [
+                    "тавыш бирүче"
+                ],
+                "Bashkir": [
+                    "тауыш биреүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seçmen"
+                ],
+                "Azerbaijani": [
+                    "seçici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səsverən"
+                ],
+                "Turkmen": [
+                    "ses beriji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oy veren"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ovoz beruvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müntehip"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېلەت تاشلىغۇچى"
+                ]
+            }
+        }
+    ]
+}

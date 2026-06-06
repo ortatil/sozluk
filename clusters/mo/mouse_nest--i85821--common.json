@@ -1,0 +1,73 @@
+{
+    "id": "i85821",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mouse nest",
+    "en_definition": "where mice bear and raise their young",
+    "tr_word": "fare yuvası",
+    "tr_definition": "farelerin yavrularını doğurup büyüttükleri yer",
+    "ru_word": "мышиное гнездо",
+    "ru_definition": "место, где мыши рожают и выращивают свое потомство",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "siçan yuvası",
+                    "siçan oylağı"
+                ],
+                "Turkmen": [
+                    "syçan höwürtgesi",
+                    "syçan hininiň öýjügi",
+                    "syçan ýatagy"
+                ],
+                "Uzbek": [
+                    "sichqon ini",
+                    "sichqon uyasi"
+                ],
+                "Uyghur": [
+                    "چاشقان ئۇۋىسى",
+                    "چاشقان ئۇۋىقى"
+                ],
+                "Kyrgyz": [
+                    "чычкандын уясы",
+                    "чычкан уя"
+                ],
+                "Tatar": [
+                    "тычкан оясы",
+                    "тычкан ятагы"
+                ],
+                "Bashkir": [
+                    "сысҡан ояһы",
+                    "сысҡан ятағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тышқан ұясы",
+                    "тышқан іні"
+                ],
+                "Karakalpak": [
+                    "tıshqan uyası",
+                    "tıshqannıń uyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fare yuvası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fare deliği"
+                ]
+            }
+        }
+    ]
+}

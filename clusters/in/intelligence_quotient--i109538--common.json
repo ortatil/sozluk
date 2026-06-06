@@ -1,0 +1,130 @@
+{
+    "id": "i109538",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "intelligence quotient",
+    "en_definition": "a measure of a person's intelligence as indicated by an intelligence test; the ratio of a person's mental age to their chronological age (multiplied by 100)",
+    "tr_word": "zeka katsayısı",
+    "tr_definition": "Bir kişinin zekasını ölçmek için yapılan testler sonucunda elde edilen, zihinsel yaşın takvim yaşına bölünmesiyle hesaplanan değer.",
+    "ru_word": "коэффициент интеллекта",
+    "ru_definition": "Количественная оценка уровня интеллекта человека, определяемая с помощью специальных тестов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zeka katsayısı",
+                    "zeka derecesi",
+                    "zeka puanı"
+                ],
+                "Azerbaijani": [
+                    "zeka dərəcəsi",
+                    "zeka əmsalı"
+                ],
+                "Turkmen": [
+                    "zehin derejesi"
+                ],
+                "Uzbek": [
+                    "zakovat darajasi",
+                    "zehn darajasi"
+                ],
+                "Uyghur": [
+                    "زېھىن كۆرسەتكۈچى"
+                ],
+                "Kazakh": [
+                    "зейін деңгейі"
+                ],
+                "Kyrgyz": [
+                    "зейин деңгээли"
+                ],
+                "Karakalpak": [
+                    "zeyin dárejesi"
+                ],
+                "Tatar": [
+                    "зиһен дәрәҗәсе"
+                ],
+                "Bashkir": [
+                    "зиһен кимәле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zeka düzeyi"
+                ],
+                "Turkmen": [
+                    "akyl derejesi"
+                ],
+                "Uyghur": [
+                    "ئەقىل كۆرسەتكۈچى",
+                    "ئەقىل-پاراسەت دەرىجىسى"
+                ],
+                "Kazakh": [
+                    "ақыл-ой деңгейі"
+                ],
+                "Kyrgyz": [
+                    "акыл-эс деңгээли",
+                    "акыл-эс көрсөткүчү",
+                    "акыл ченеми"
+                ],
+                "Karakalpak": [
+                    "aqıl-oy dárejesi",
+                    "aqıl ólshemi"
+                ],
+                "Tatar": [
+                    "акыл дәрәҗәсе",
+                    "акыл күрсәткече"
+                ],
+                "Bashkir": [
+                    "аҡыл кимәле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ağıl dərəcəsi"
+                ],
+                "Uzbek": [
+                    "aql koeffitsiyenti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "idrak səviyyəsi"
+                ],
+                "Uzbek": [
+                    "idrok darajasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "paýhas derejesi"
+                ],
+                "Kazakh": [
+                    "парасат деңгейі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ой-өріс көрсеткіші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аң кимәле"
+                ]
+            }
+        }
+    ]
+}

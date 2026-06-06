@@ -1,0 +1,146 @@
+{
+    "id": "i112490",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fever",
+    "en_definition": "a rise in the temperature of the body; frequently a symptom of infection",
+    "tr_word": "ateş",
+    "tr_definition": "vücut ısısının yükselmesi; genellikle bir enfeksiyon belirtisidir",
+    "ru_word": "лихорадка",
+    "ru_definition": "повышение температуры тела; часто является симптомом инфекции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qızdırma"
+                ],
+                "Turkmen": [
+                    "gyzdyrma",
+                    "gyzgyn"
+                ],
+                "Uyghur": [
+                    "قىزىتما"
+                ],
+                "Kazakh": [
+                    "қызу"
+                ],
+                "Kyrgyz": [
+                    "кызуу"
+                ],
+                "Karakalpak": [
+                    "qızu"
+                ],
+                "Tatar": [
+                    "кызу"
+                ],
+                "Bashkir": [
+                    "ҡыҙыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "istilik"
+                ],
+                "Uzbek": [
+                    "isitma"
+                ],
+                "Uyghur": [
+                    "ئىسسىتما"
+                ],
+                "Kazakh": [
+                    "ыстық"
+                ],
+                "Kyrgyz": [
+                    "ысытма"
+                ],
+                "Karakalpak": [
+                    "ıstıq",
+                    "ıstıǵı kóterіlu"
+                ],
+                "Bashkir": [
+                    "эҫе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hararet"
+                ],
+                "Azerbaijani": [
+                    "hərarət"
+                ],
+                "Uzbek": [
+                    "harorat"
+                ],
+                "Tatar": [
+                    "хәсрәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "безгек"
+                ],
+                "Tatar": [
+                    "бизгәк"
+                ],
+                "Bashkir": [
+                    "биҙгәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ateş"
+                ],
+                "Uyghur": [
+                    "تەپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "humma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ysytma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дене табы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ут"
+                ]
+            }
+        }
+    ]
+}

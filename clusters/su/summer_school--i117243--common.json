@@ -1,0 +1,83 @@
+{
+    "id": "i117243",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "summer school",
+    "en_definition": "an academic session during the summer; usually for remedial or supplementary study",
+    "tr_word": "yaz okulu",
+    "tr_definition": "Yaz tatili sırasında telafi veya ek eğitim amacıyla düzenlenen akademik dönem.",
+    "ru_word": "летняя школа",
+    "ru_definition": "Академическая сессия в летний период, обычно для дополнительного обучения или пересдачи предметов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaz okulu",
+                    "yaz kursu"
+                ],
+                "Azerbaijani": [
+                    "yay məktəbi",
+                    "yay kursu",
+                    "yay təhsili"
+                ],
+                "Uzbek": [
+                    "yozgi maktab",
+                    "yozgi darslar",
+                    "yozgi oʻquv"
+                ],
+                "Uyghur": [
+                    "يازلىق كۇرس",
+                    "يازلىق مەكتەپ",
+                    "يازلىق تەربىيەلەش"
+                ],
+                "Kazakh": [
+                    "жазғы мектеп",
+                    "жазғы оқу",
+                    "жазғы дәріс"
+                ],
+                "Kyrgyz": [
+                    "жайкы мектеп",
+                    "жайкы окуу"
+                ],
+                "Karakalpak": [
+                    "jazǵı mektep",
+                    "jazǵı oqıtu",
+                    "jazǵı sabaqlar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "жайкы сабактар"
+                ],
+                "Tatar": [
+                    "җәйге мәктәп",
+                    "җәйге укулар"
+                ],
+                "Bashkir": [
+                    "йәйге мәктәп",
+                    "йәйге уҡыуҙар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaz eğitimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tomusky okuw",
+                    "tomusky dersler",
+                    "tomusky tapgyr"
+                ]
+            }
+        }
+    ]
+}

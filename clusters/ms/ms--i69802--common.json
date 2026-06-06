@@ -1,0 +1,105 @@
+{
+    "id": "i69802",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ms",
+    "en_definition": "a form of address for a woman",
+    "tr_word": "hanım",
+    "tr_definition": "kadınlar için kullanılan bir hitap şekli",
+    "ru_word": "госпожа",
+    "ru_definition": "форма вежливого обращения к женщине",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hanım",
+                    "hanımefendi"
+                ],
+                "Azerbaijani": [
+                    "xanım"
+                ],
+                "Turkmen": [
+                    "hanym"
+                ],
+                "Uzbek": [
+                    "xonim"
+                ],
+                "Uyghur": [
+                    "خانىم",
+                    "خانىمجىم"
+                ],
+                "Kazakh": [
+                    "ханым"
+                ],
+                "Kyrgyz": [
+                    "айым",
+                    "ханым"
+                ],
+                "Karakalpak": [
+                    "xanım"
+                ],
+                "Tatar": [
+                    "ханым"
+                ],
+                "Bashkir": [
+                    "ханым"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bayan"
+                ],
+                "Azerbaijani": [
+                    "bəyim"
+                ],
+                "Uzbek": [
+                    "beka"
+                ],
+                "Uyghur": [
+                    "بىكە"
+                ],
+                "Kazakh": [
+                    "бикеш"
+                ],
+                "Kyrgyz": [
+                    "бийке"
+                ],
+                "Karakalpak": [
+                    "biykesh",
+                    "bike"
+                ],
+                "Tatar": [
+                    "бикә"
+                ],
+                "Bashkir": [
+                    "бикә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hatyn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bonu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "татарбикә"
+                ]
+            }
+        }
+    ]
+}

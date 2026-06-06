@@ -1,0 +1,80 @@
+{
+    "id": "i44040",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "green turtle",
+    "en_definition": "large tropical turtle with greenish flesh used for turtle soup",
+    "tr_word": "çorba kaplumbağası",
+    "tr_definition": "çorba yapımında kullanılan, eti yeşilimsi olan büyük bir tropikal deniz kaplumbağası türü",
+    "ru_word": "зелёная черепаха",
+    "ru_definition": "крупная морская черепаха, обитающая в тропических водах, мясо которой используется для приготовления супа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeşil kaplumbağa",
+                    "yeşil deniz kaplumbağası"
+                ],
+                "Azerbaijani": [
+                    "yaşıl tısbağa"
+                ],
+                "Turkmen": [
+                    "ýaşyl pyşbaga",
+                    "ýaşyl deňiz pyşbagasy"
+                ],
+                "Uzbek": [
+                    "yashil toshbaqa"
+                ],
+                "Uyghur": [
+                    "يېشىل تاشپاقا"
+                ],
+                "Kazakh": [
+                    "жасыл тасбақа"
+                ],
+                "Kyrgyz": [
+                    "жашыл таш бака"
+                ],
+                "Karakalpak": [
+                    "jasıl tasbaqa"
+                ],
+                "Tatar": [
+                    "яшел ташбака"
+                ],
+                "Bashkir": [
+                    "йәшел гөбөргәйел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "dengiz toshbaqasi"
+                ],
+                "Uyghur": [
+                    "دېڭىز تاشپاقىسى"
+                ],
+                "Kazakh": [
+                    "теңіз тасбақасы"
+                ],
+                "Kyrgyz": [
+                    "деңиз таш бакасы"
+                ],
+                "Tatar": [
+                    "диңгез ташбакасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çorba kaplumbağası"
+                ],
+                "Azerbaijani": [
+                    "şorba tısbağası"
+                ]
+            }
+        }
+    ]
+}

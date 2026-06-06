@@ -1,0 +1,139 @@
+{
+    "id": "i107812",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "overheating",
+    "en_definition": "excessive heating",
+    "tr_word": "aşırı ısınma",
+    "tr_definition": "bir sistemin veya cihazın normal çalışma sıcaklığının üzerine çıkması durumu",
+    "ru_word": "перегрев",
+    "ru_definition": "нагрев выше допустимого или нормального уровня",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qızma",
+                    "qızışma"
+                ],
+                "Turkmen": [
+                    "gyzgy",
+                    "gyzyşma"
+                ],
+                "Uzbek": [
+                    "qizish"
+                ],
+                "Uyghur": [
+                    "قىزىپ كېتىش"
+                ],
+                "Kazakh": [
+                    "қызып кету"
+                ],
+                "Kyrgyz": [
+                    "кызуу"
+                ],
+                "Karakalpak": [
+                    "qızıp ketio"
+                ],
+                "Tatar": [
+                    "кызу",
+                    "кызып китү",
+                    "кыздыру"
+                ],
+                "Bashkir": [
+                    "ҡыҙыу",
+                    "ҡыҙып китеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşırı ısınma"
+                ],
+                "Uyghur": [
+                    "ئىسسىپ كېتىش"
+                ],
+                "Kazakh": [
+                    "асыра қызу",
+                    "ысу"
+                ],
+                "Kyrgyz": [
+                    "ысуу",
+                    "ысып кетүү"
+                ],
+                "Karakalpak": [
+                    "asıra qızıo",
+                    "ısıp ketio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həddindən artıq qızma"
+                ],
+                "Turkmen": [
+                    "artykmaç gyzma"
+                ],
+                "Bashkir": [
+                    "артыҡ ҡыҙыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "haddan tashqari qizish"
+                ],
+                "Uyghur": [
+                    "ھەددىدىن زىيادە قىزىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hararet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fazla ısınma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çendenaşa gyzma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qizib ketish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "катуу ысуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "артык кызу"
+                ]
+            }
+        }
+    ]
+}

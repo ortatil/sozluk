@@ -1,0 +1,76 @@
+{
+    "id": "i70487",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tax form",
+    "en_definition": "a form to use when paying your taxes",
+    "tr_word": "vergi beyannamesi",
+    "tr_definition": "vergilerinizi öderken kullanacağınız bir form",
+    "ru_word": "налоговая декларация",
+    "ru_definition": "форма, используемая при уплате налогов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salgyt beyannamasynyň blankasy",
+                    "salgyt beyannamasynyň kagyzy",
+                    "salgyt kagyzy"
+                ],
+                "Uzbek": [
+                    "soliq deklaratsiyasi",
+                    "soliq varaqasi",
+                    "soliq bayonnomasi"
+                ],
+                "Kazakh": [
+                    "салық мағлұмдамасы",
+                    "салық декларациясы",
+                    "салық есептемесі"
+                ],
+                "Kyrgyz": [
+                    "салык декларациясы",
+                    "салык барагы",
+                    "салык кагазы"
+                ],
+                "Karakalpak": [
+                    "salıq deklaraciyası",
+                    "salıq qaǵazı",
+                    "salıq esabı"
+                ],
+                "Tatar": [
+                    "салым кәгазе",
+                    "салым бәйанамнамәсе",
+                    "салым декларациясе"
+                ],
+                "Bashkir": [
+                    "һалым декларацияһы",
+                    "һалым ҡағыҙы",
+                    "һалым белешмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vergi beyannamesi",
+                    "vergi formu",
+                    "vergi bildirgesi"
+                ],
+                "Azerbaijani": [
+                    "vergi bəyannaməsi",
+                    "vergi forması",
+                    "vergi vərəqəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باج جەدۋىلى",
+                    "باج مەلۇم قىلىش جەدۋىلى",
+                    "باج جەدۋەللىرى"
+                ]
+            }
+        }
+    ]
+}

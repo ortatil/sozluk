@@ -1,0 +1,90 @@
+{
+    "id": "i57310",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pincushion",
+    "en_definition": "a small stiff cushion into which pins are stuck ready for use",
+    "tr_word": "iğnelik",
+    "tr_definition": "İğnelerin kaybolmaması için üzerine saplandığı, içi yumuşak dolgu malzemesiyle dolu küçük yastık.",
+    "ru_word": "игольница",
+    "ru_definition": "Футляр или подушечка для хранения иголок и булавок, используемая в шитье.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iğnelik",
+                    "iğne yastığı"
+                ],
+                "Azerbaijani": [
+                    "iynədan",
+                    "iynə qabı",
+                    "iynə yastıqçası"
+                ],
+                "Turkmen": [
+                    "iňňe ýassygy"
+                ],
+                "Uzbek": [
+                    "ignadon",
+                    "ignaqab",
+                    "ignatutqich"
+                ],
+                "Kyrgyz": [
+                    "ийнелик",
+                    "ийне салгыч",
+                    "ийне жаздыкча"
+                ],
+                "Karakalpak": [
+                    "iyne qadaǵısh",
+                    "iyne qap",
+                    "iyne jastıqsha"
+                ],
+                "Tatar": [
+                    "энә савыты"
+                ],
+                "Bashkir": [
+                    "энә һауыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "iňňegap",
+                    "iňňedan"
+                ],
+                "Uyghur": [
+                    "يىڭنەدان",
+                    "يىڭنە ياستۇقچىسى"
+                ],
+                "Kazakh": [
+                    "инеқап",
+                    "ине жастықша"
+                ],
+                "Tatar": [
+                    "энәлек",
+                    "энә мендәрчеге"
+                ],
+                "Bashkir": [
+                    "энәлек",
+                    "энә мендәрсеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يىڭنىلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түйреуіш жастықша"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "id": "i114817",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pasteboard",
+    "en_definition": "stiff cardboard made by pasting together layers of paper",
+    "tr_word": "mukavva",
+    "tr_definition": "Kağıt tabakalarının birbirine yapıştırılmasıyla elde edilen sert ve kalın kağıt türü.",
+    "ru_word": "картон",
+    "ru_definition": "Плотный материал, изготовленный путем склеивания нескольких слоев бумаги.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qalın kağız"
+                ],
+                "Turkmen": [
+                    "gaty kagyz"
+                ],
+                "Uzbek": [
+                    "qog'oz",
+                    "qalin qog'oz"
+                ],
+                "Uyghur": [
+                    "قاتتىق قەغەز"
+                ],
+                "Kazakh": [
+                    "қатырма",
+                    "қатырма қағаз",
+                    "қалың қағаз"
+                ],
+                "Karakalpak": [
+                    "qatırma",
+                    "qatırma qaǵaz"
+                ],
+                "Tatar": [
+                    "катыргы"
+                ],
+                "Bashkir": [
+                    "ҡаты ҡағыҙ",
+                    "ҡатырға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karton"
+                ],
+                "Azerbaijani": [
+                    "karton"
+                ],
+                "Turkmen": [
+                    "karton"
+                ],
+                "Uzbek": [
+                    "karton"
+                ],
+                "Uyghur": [
+                    "كارتون"
+                ],
+                "Kyrgyz": [
+                    "картон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mukavva"
+                ],
+                "Azerbaijani": [
+                    "mukavva"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قەغەز تاختا"
+                ],
+                "Tatar": [
+                    "кәгазь катыргы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "калың кагаз"
+                ]
+            }
+        }
+    ]
+}

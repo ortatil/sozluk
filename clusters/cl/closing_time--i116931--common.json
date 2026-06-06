@@ -1,0 +1,109 @@
+{
+    "id": "i116931",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "closing time",
+    "en_definition": "the regular time of day when an establishment closes to the public",
+    "tr_word": "kapanış saati",
+    "tr_definition": "bir işletmenin halka kapandığı günün düzenli saati",
+    "ru_word": "время закрытия",
+    "ru_definition": "регулярное время суток, когда заведение закрывается для публики",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kapanış saati",
+                    "kapanış vakti"
+                ],
+                "Azerbaijani": [
+                    "qapanış vaxtı"
+                ],
+                "Turkmen": [
+                    "ýapylyş wagty",
+                    "ýapylýan wagty"
+                ],
+                "Uzbek": [
+                    "yopilish vaqti",
+                    "yopilish soati"
+                ],
+                "Uyghur": [
+                    "يېپىلىش ۋاقتى"
+                ],
+                "Kazakh": [
+                    "жабылу уақыты",
+                    "жабылу сағаты"
+                ],
+                "Kyrgyz": [
+                    "жабылуу убактысы",
+                    "жабылуу сааты"
+                ],
+                "Karakalpak": [
+                    "jabılıo oaqtı",
+                    "jabılıo saatı"
+                ],
+                "Tatar": [
+                    "ябылу вакыты",
+                    "ябылу сәгате"
+                ],
+                "Bashkir": [
+                    "ябылыу ваҡыты",
+                    "ябылыу сәғәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paydos saati"
+                ],
+                "Azerbaijani": [
+                    "bağlanış vaxtı",
+                    "bağlanma saatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "soňky wagt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ish yakuni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاقاش ۋاقتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاخىرلىشىش ۋاقتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "біткен кезі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бүтүү убактысы"
+                ]
+            }
+        }
+    ]
+}

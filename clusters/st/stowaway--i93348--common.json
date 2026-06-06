@@ -1,0 +1,99 @@
+{
+    "id": "i93348",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stowaway",
+    "en_definition": "a person who hides aboard a ship or plane in the hope of getting free passage",
+    "tr_word": "kaçak yolcu",
+    "tr_definition": "bir gemiye veya uçağa gizlice binerek ücretsiz seyahat etmeye çalışan kimse",
+    "ru_word": "безбилетник",
+    "ru_definition": "человек, который тайно пробирается на судно или самолет с целью бесплатного проезда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "biletiz ýolagçy"
+                ],
+                "Uzbek": [
+                    "biletiz yo'lovchi"
+                ],
+                "Uyghur": [
+                    "بېلەتسىز يولۇچى"
+                ],
+                "Kazakh": [
+                    "билетсіз жолаушы"
+                ],
+                "Kyrgyz": [
+                    "билетсиз жүргүнчү"
+                ],
+                "Karakalpak": [
+                    "biletsiz jolashı"
+                ],
+                "Tatar": [
+                    "билетсыз юлчы"
+                ],
+                "Bashkir": [
+                    "билетһыҙ юлсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yashirin yo'lovchi"
+                ],
+                "Uyghur": [
+                    "يوشۇرۇن يولۇچى"
+                ],
+                "Kazakh": [
+                    "жасырын жолаушы"
+                ],
+                "Kyrgyz": [
+                    "жашырын жүргүнчү"
+                ],
+                "Karakalpak": [
+                    "jasırın jolashı"
+                ],
+                "Tatar": [
+                    "яшерен юлчы"
+                ],
+                "Bashkir": [
+                    "йәшерен юлсы",
+                    "йәшеренеп барыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaçak yolcu",
+                    "gizli yolcu"
+                ],
+                "Azerbaijani": [
+                    "qaçaq yolçu",
+                    "gizli yolçu"
+                ],
+                "Turkmen": [
+                    "gizlin ýolagçy",
+                    "gaçak ýolagçy"
+                ],
+                "Uyghur": [
+                    "قاچاق يولۇچى"
+                ],
+                "Tatar": [
+                    "качкын юлчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chiptasiz yo'lovchi"
+                ]
+            }
+        }
+    ]
+}

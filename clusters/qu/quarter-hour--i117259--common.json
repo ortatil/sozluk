@@ -1,0 +1,78 @@
+{
+    "id": "i117259",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "quarter-hour",
+    "en_definition": "a quarter of an hour",
+    "tr_word": "çeyrek saat",
+    "tr_definition": "bir saatin dörtte biri olan on beş dakikalık zaman dilimi",
+    "ru_word": "четверть часа",
+    "ru_definition": "промежуток времени, равный пятнадцати минутам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çeyrek saat"
+                ],
+                "Azerbaijani": [
+                    "çərək"
+                ],
+                "Turkmen": [
+                    "çärýek",
+                    "çärýek sagat"
+                ],
+                "Uzbek": [
+                    "chorak",
+                    "chorak soat"
+                ],
+                "Uyghur": [
+                    "چارەك",
+                    "چارەك سائەت"
+                ],
+                "Kazakh": [
+                    "ширек сағат"
+                ],
+                "Kyrgyz": [
+                    "чейрек саат"
+                ],
+                "Karakalpak": [
+                    "shirek",
+                    "shirek saat"
+                ],
+                "Tatar": [
+                    "чирек",
+                    "чирек сәгать"
+                ],
+                "Bashkir": [
+                    "сирек сәғәт",
+                    "сирек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "on beş dakika"
+                ],
+                "Uyghur": [
+                    "ئون بەش مىنۇت"
+                ],
+                "Kazakh": [
+                    "он бес минут"
+                ],
+                "Kyrgyz": [
+                    "он беш мүнөт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rüb"
+                ]
+            }
+        }
+    ]
+}

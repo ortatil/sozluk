@@ -1,0 +1,98 @@
+{
+    "id": "i64208",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "right to the pursuit of happiness",
+    "en_definition": "the right to try to find happiness",
+    "tr_word": "mutluluğu arama hakkı",
+    "tr_definition": "kişinin kendi mutluluğunu bulma ve bunun için çaba gösterme hakkı",
+    "ru_word": "право на стремление к счастью",
+    "ru_definition": "право человека пытаться найти счастье и благополучие",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bagta ymtylmak hukugy",
+                    "bagtly bolmaga bolan hukuk",
+                    "bagtlylyga ymtylma hukugy",
+                    "bagt gözlemek hukugy"
+                ],
+                "Uzbek": [
+                    "baxtga intilish huquqi",
+                    "baxt-saodat izlash huquqi"
+                ],
+                "Uyghur": [
+                    "بەخت-سائادەتكە ئېرىشىش ھوقۇقى",
+                    "بەخت قوغلىشىش ھوقۇقى"
+                ],
+                "Kazakh": [
+                    "бақытқа ұмтылу құқығы",
+                    "бақыт іздеу құқығы",
+                    "бақытқа жету құқығы"
+                ],
+                "Kyrgyz": [
+                    "бакытка умтулуу укугу",
+                    "бактылуу болууга укук",
+                    "бакыт издөө укугу"
+                ],
+                "Karakalpak": [
+                    "baqıtqa umtılıo huqıqı",
+                    "baqıt izleo huqıqı"
+                ],
+                "Tatar": [
+                    "бәхеткә омтылу хокукы",
+                    "бәхет эзләү хокукы",
+                    "бәхеткә ирешү хокукы"
+                ],
+                "Bashkir": [
+                    "бәхеткә ынтылыу хоҡуғы",
+                    "бәхет эҙләү хоҡуғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saadet arama hakkı"
+                ],
+                "Azerbaijani": [
+                    "səadət axtarışı hüququ"
+                ],
+                "Uzbek": [
+                    "saodatga erishish huquqi"
+                ],
+                "Uyghur": [
+                    "سائادەت تەلەپ قىلىش ھوقۇقى"
+                ],
+                "Karakalpak": [
+                    "saadetke umtılıo huqıqı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mutluluğu arama hakkı",
+                    "mutluluk peşinde koşma hakkı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xoşbəxtlik hüququ",
+                    "xoşbəxtliyə nail olmaq hüququ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәғәҙәткә ынтылыу хоҡуғы"
+                ]
+            }
+        }
+    ]
+}

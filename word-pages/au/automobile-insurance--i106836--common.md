@@ -1,0 +1,165 @@
+# Automobile insurance
+| Field | Detail |
+|---|---|
+| **ID** | i106836 |
+| **English** | automobile insurance |
+| **Type** | noun |
+| **Definition** | insurance against loss due to theft or traffic accidents |
+| **Source** | common |
+| **Ortatil** | awtasığırta |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| автосақтандыру | avtosaqtandıru |
+
+```json
+{
+    "id": "i106836",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "automobile insurance",
+    "en_definition": "insurance against loss due to theft or traffic accidents",
+    "tr_word": "kasko",
+    "tr_definition": "Hırsızlık veya trafik kazalarından kaynaklanan kayıplara karşı yapılan sigorta türü.",
+    "ru_word": "автострахование",
+    "ru_definition": "Страхование от убытков, вызванных кражей или дорожно-транспортными происшествиями.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otomobil sigortası"
+                ],
+                "Azerbaijani": [
+                    "avtomobil sığortası"
+                ],
+                "Uyghur": [
+                    "ئاپتوموبىل سۇغۇرتىسى"
+                ],
+                "Kyrgyz": [
+                    "автоунаа камсыздандыруу"
+                ],
+                "Karakalpak": [
+                    "awtomobil qamsızlandırıoı"
+                ],
+                "Tatar": [
+                    "автомобиль иминияте"
+                ],
+                "Bashkir": [
+                    "автомобиль страховкалау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşıt sigortası"
+                ],
+                "Azerbaijani": [
+                    "maşın sığortası"
+                ],
+                "Uzbek": [
+                    "mashina sugʻurtasi"
+                ],
+                "Uyghur": [
+                    "ماشىنا سۇغۇرتىسى"
+                ],
+                "Tatar": [
+                    "машина иминияте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəqliyyat sığortası"
+                ],
+                "Turkmen": [
+                    "ulag ätiýaçlandyrmasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "awtoulag ätiýaçlandyrmasy"
+                ],
+                "Kazakh": [
+                    "автосақтандыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік сақтандыруы"
+                ],
+                "Karakalpak": [
+                    "kólik qamsızlandırıoı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көймә иминияте"
+                ],
+                "Bashkir": [
+                    "көймә страховкалау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araç sigortası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kasko"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "avtosugʻurta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ulov sugʻurtasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа камсыздандыруу",
+                    "унаа камсыздоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәүефһеҙлек страховкаһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

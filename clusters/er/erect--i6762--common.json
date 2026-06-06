@@ -1,0 +1,138 @@
+{
+    "id": "i6762",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "erect",
+    "en_definition": "upright in position or posture",
+    "tr_word": "dik",
+    "tr_definition": "Dikey bir konumda veya duruşta olan, eğik olmayan.",
+    "ru_word": "вертикальный",
+    "ru_definition": "Находящийся в вертикальном положении или осанке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dik",
+                    "düz"
+                ],
+                "Azerbaijani": [
+                    "dik",
+                    "düz"
+                ],
+                "Turkmen": [
+                    "dik",
+                    "tik"
+                ],
+                "Uzbek": [
+                    "tik",
+                    "tikka",
+                    "tik turgan"
+                ],
+                "Uyghur": [
+                    "تىك"
+                ],
+                "Kazakh": [
+                    "тік",
+                    "тікше",
+                    "тіктелген"
+                ],
+                "Kyrgyz": [
+                    "тик",
+                    "тикчи",
+                    "тиктелген"
+                ],
+                "Karakalpak": [
+                    "tik",
+                    "tikke",
+                    "tiklengen"
+                ],
+                "Tatar": [
+                    "текә"
+                ],
+                "Bashkir": [
+                    "тик"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doğru"
+                ],
+                "Turkmen": [
+                    "dogry"
+                ],
+                "Karakalpak": [
+                    "tuorı"
+                ],
+                "Tatar": [
+                    "туры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "түзу"
+                ],
+                "Kyrgyz": [
+                    "түз"
+                ],
+                "Bashkir": [
+                    "төҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayakta"
+                ],
+                "Azerbaijani": [
+                    "ayaqüstə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rast"
+                ],
+                "Uyghur": [
+                    "راست"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şaquli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇدۇل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кадаулы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "вертикаль"
+                ]
+            }
+        }
+    ]
+}

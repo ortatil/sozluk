@@ -1,0 +1,123 @@
+{
+    "id": "i72795",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "natural language",
+    "en_definition": "a human written or spoken language used by a community; opposed to e.g. a computer language",
+    "tr_word": "doğal dil",
+    "tr_definition": "İnsanlar tarafından iletişim kurmak amacıyla kullanılan, bilgisayar dillerinden farklı olarak kendiliğinden gelişmiş dil.",
+    "ru_word": "естественный язык",
+    "ru_definition": "Язык, используемый для общения людей и возникший естественным путем, в отличие от искусственных языков программирования.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tabii lisan"
+                ],
+                "Azerbaijani": [
+                    "təbii dil"
+                ],
+                "Turkmen": [
+                    "tebigy dil"
+                ],
+                "Uzbek": [
+                    "tabiiy til"
+                ],
+                "Uyghur": [
+                    "تەبىئىي تىل"
+                ],
+                "Kazakh": [
+                    "табиғи тіл"
+                ],
+                "Kyrgyz": [
+                    "табигый тил"
+                ],
+                "Karakalpak": [
+                    "tabiyǵıy til"
+                ],
+                "Tatar": [
+                    "табигый тел"
+                ],
+                "Bashkir": [
+                    "тәбиғи тел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "insan dili",
+                    "ana dili"
+                ],
+                "Turkmen": [
+                    "ynsan dili"
+                ],
+                "Uzbek": [
+                    "inson tili"
+                ],
+                "Uyghur": [
+                    "ئىنسان تىلى"
+                ],
+                "Kazakh": [
+                    "ана тілі"
+                ],
+                "Karakalpak": [
+                    "insanıy til"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "adam dili"
+                ],
+                "Kazakh": [
+                    "адам тілі"
+                ],
+                "Kyrgyz": [
+                    "адам тили"
+                ],
+                "Karakalpak": [
+                    "adam tili"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "jonli til"
+                ],
+                "Kyrgyz": [
+                    "жандуу тил"
+                ],
+                "Tatar": [
+                    "җанлы тел"
+                ],
+                "Bashkir": [
+                    "йәнле тел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кеше теле"
+                ],
+                "Bashkir": [
+                    "кеше теле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğal dil"
+                ]
+            }
+        }
+    ]
+}

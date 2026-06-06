@@ -1,0 +1,112 @@
+{
+    "id": "i47976",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "marmot",
+    "en_definition": "stocky coarse-furred burrowing rodent with a short bushy tail found throughout the northern hemisphere; hibernates in winter",
+    "tr_word": "dağ sıçanı",
+    "tr_definition": "Kuzey Yarımküre'de yaşayan, kısa gür kuyruklu, tıknaz, kaba tüylü ve kış uykusuna yatan bir kemirgen türü.",
+    "ru_word": "сурок",
+    "ru_definition": "Млекопитающее семейства беличьих отряда грызунов, обитающее в норах и впадающее в зимнюю спячку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sudaq"
+                ],
+                "Kazakh": [
+                    "суыр"
+                ],
+                "Kyrgyz": [
+                    "суур"
+                ],
+                "Karakalpak": [
+                    "suır"
+                ],
+                "Tatar": [
+                    "суыр"
+                ],
+                "Bashkir": [
+                    "һыуыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağ sıçanı"
+                ],
+                "Azerbaijani": [
+                    "dağsiçanı"
+                ],
+                "Turkmen": [
+                    "dağsugury"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sugur"
+                ],
+                "Uzbek": [
+                    "sug'ur"
+                ],
+                "Uyghur": [
+                    "سۇغۇر"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تارباغان"
+                ],
+                "Kazakh": [
+                    "тарбаған"
+                ],
+                "Kyrgyz": [
+                    "тарбаган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "marmot"
+                ],
+                "Azerbaijani": [
+                    "marmot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "байбак"
+                ],
+                "Bashkir": [
+                    "байбак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ıslıkçı tavşan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tosh sug'uri"
+                ]
+            }
+        }
+    ]
+}

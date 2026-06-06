@@ -1,0 +1,183 @@
+# Homing pigeon
+| Field | Detail |
+|---|---|
+| **ID** | i44856 |
+| **English** | homing pigeon |
+| **Type** | noun |
+| **Definition** | pigeon trained to return home |
+| **Source** | common |
+| **Ortatil** | bağdadi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| кептер | kepter |
+| кептерқұс | kepterqus |
+
+```json
+{
+    "id": "i44856",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "homing pigeon",
+    "en_definition": "pigeon trained to return home",
+    "tr_word": "posta güvercini",
+    "tr_definition": "Eğitildiği yere geri dönme yeteneğine sahip, haberleşmede kullanılan güvercin türü.",
+    "ru_word": "почтовый голубь",
+    "ru_definition": "Голубь, обученный возвращаться домой и используемый для доставки сообщений.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "posta güvercini"
+                ],
+                "Azerbaijani": [
+                    "poçt göyərçini"
+                ],
+                "Turkmen": [
+                    "poçta kepderisi"
+                ],
+                "Tatar": [
+                    "почта күгәрчене"
+                ],
+                "Bashkir": [
+                    "почта күгәрсене"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xat tashuvchi kabutar"
+                ],
+                "Uyghur": [
+                    "خەت-چەك كەپتىرى"
+                ],
+                "Kazakh": [
+                    "хат тасушы кептер"
+                ],
+                "Karakalpak": [
+                    "xat tasıoshı kepter",
+                    "xatshı kepter"
+                ],
+                "Bashkir": [
+                    "хат ташыусы күгәрсен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haberci güvercin"
+                ],
+                "Turkmen": [
+                    "habarçy kepderi"
+                ],
+                "Kyrgyz": [
+                    "кабарчы көгүчкөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "namaber kepderi"
+                ],
+                "Uzbek": [
+                    "nomabardor kabutar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yoʻlchi kabutar"
+                ],
+                "Uyghur": [
+                    "يولبوشلىغۇچى كەپتەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağdadi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məktub göyərçini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rabitə göyərçini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chopar kabutar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئالاقە كەپتىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кептер",
+                    "кептерқұс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "катчы көгүчкөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үйүрчүл көгүчкөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "úyshi kepter"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хат күгәрчене"
+                ]
+            }
+        }
+    ]
+}
+```
+

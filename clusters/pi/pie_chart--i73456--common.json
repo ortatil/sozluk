@@ -1,0 +1,105 @@
+{
+    "id": "i73456",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pie chart",
+    "en_definition": "a circular chart divided into triangular areas proportional to the percentages of the whole",
+    "tr_word": "pasta grafiği",
+    "tr_definition": "verilerin bütün içindeki oranlarını göstermek için kullanılan, dilimlere ayrılmış daire şeklindeki grafik",
+    "ru_word": "круговая диаграмма",
+    "ru_definition": "способ графического представления данных в виде круга, разделенного на сектора, пропорциональные значениям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tegelek diagramma"
+                ],
+                "Kazakh": [
+                    "дөңгелек диаграмма"
+                ],
+                "Kyrgyz": [
+                    "тегерек диаграмма",
+                    "тегерек чийме"
+                ],
+                "Karakalpak": [
+                    "dóńgelek diagramma"
+                ],
+                "Tatar": [
+                    "түгәрәк диаграмма",
+                    "түгәрәк сызым"
+                ],
+                "Bashkir": [
+                    "түңәрәк диаграмма",
+                    "түңәрәк һүрәтләмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "daire grafiği"
+                ],
+                "Azerbaijani": [
+                    "dairəvi diaqram",
+                    "dairəvi qrafik"
+                ],
+                "Turkmen": [
+                    "dairewi diagramma"
+                ],
+                "Uzbek": [
+                    "doiraviy diagramma"
+                ],
+                "Uyghur": [
+                    "دائىرىلىك دىئاگرامما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шеңберлік диаграмма"
+                ],
+                "Karakalpak": [
+                    "sheńberli diagramma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pasta grafiği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dilimli grafik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pay diaqramı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aylanma diagramma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توقاچسىمان دىئاگرامما"
+                ]
+            }
+        }
+    ]
+}

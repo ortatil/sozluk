@@ -1,0 +1,72 @@
+{
+    "id": "i14516",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "air-breathing",
+    "en_definition": "deriving oxygen from the air",
+    "tr_word": "hava soluyan",
+    "tr_definition": "oksijeni doğrudan havadan alan",
+    "ru_word": "дышащий воздухом",
+    "ru_definition": "получающий кислород из атмосферного воздуха",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hava soluyan",
+                    "havayla solunum yapan"
+                ],
+                "Azerbaijani": [
+                    "hava ilə tənəffüs edən",
+                    "hava tənəffüslü"
+                ],
+                "Uzbek": [
+                    "havodan nafas oluvchi",
+                    "havo bilan nafas oladigan"
+                ],
+                "Uyghur": [
+                    "ھاۋادىن نەپەسلىنىدىغان",
+                    "ھاۋا بىلەن تىنىق ئالىدىغان"
+                ],
+                "Tatar": [
+                    "һава сулышлы",
+                    "һава сулаучы"
+                ],
+                "Bashkir": [
+                    "һауа һулышлы",
+                    "һауа менән һулыш алыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howadan dem alýan",
+                    "howa bilen dem alýan"
+                ],
+                "Karakalpak": [
+                    "haoadan dem alıoshı",
+                    "haoa menen dem alıoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ауамен тыныс алатын",
+                    "ауамен тыныстайтын"
+                ],
+                "Kyrgyz": [
+                    "аба менен дем алуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "абадан дем алуучу"
+                ]
+            }
+        }
+    ]
+}

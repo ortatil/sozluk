@@ -1,0 +1,83 @@
+{
+    "id": "i42880",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "goldfish",
+    "en_definition": "small golden or orange-red freshwater fishes of Eurasia used as pond or aquarium fishes",
+    "tr_word": "japon balığı",
+    "tr_definition": "Sazangillerden, genellikle turuncu veya kırmızımsı renkli, akvaryumlarda beslenen bir süs balığı.",
+    "ru_word": "золотая рыбка",
+    "ru_definition": "Пресноводная рыба из рода карасей, отличающаяся золотистой или красноватой окраской, часто содержащаяся в аквариумах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "altın balık"
+                ],
+                "Turkmen": [
+                    "altyn balyk",
+                    "altynsow balyk"
+                ],
+                "Uzbek": [
+                    "oltin baliq"
+                ],
+                "Uyghur": [
+                    "ئالتۇن بېلىق"
+                ],
+                "Kazakh": [
+                    "алтын балық"
+                ],
+                "Kyrgyz": [
+                    "алтын балык"
+                ],
+                "Karakalpak": [
+                    "altın balıq"
+                ],
+                "Tatar": [
+                    "алтын балык",
+                    "алтынча балык"
+                ],
+                "Bashkir": [
+                    "алтын балыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "japon balığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havuz balığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qızıl balıq",
+                    "qızılı balıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tilla baliq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سېرىق بېلىق"
+                ]
+            }
+        }
+    ]
+}

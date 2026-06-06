@@ -1,0 +1,113 @@
+{
+    "id": "i91090",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "loser",
+    "en_definition": "a contestant who loses the contest",
+    "tr_word": "kaybeden",
+    "tr_definition": "bir yarışmayı veya mücadeleyi kazanamayan taraf",
+    "ru_word": "проигравший",
+    "ru_definition": "участник состязания, потерпевший поражение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mağlup"
+                ],
+                "Azerbaijani": [
+                    "məğlub"
+                ],
+                "Turkmen": [
+                    "maglup"
+                ],
+                "Uzbek": [
+                    "mag'lub"
+                ],
+                "Uyghur": [
+                    "مەغلۇب بولغۇچى",
+                    "مەغلۇبىيەتچى"
+                ],
+                "Kyrgyz": [
+                    "маглуп"
+                ],
+                "Karakalpak": [
+                    "maǵlub"
+                ],
+                "Tatar": [
+                    "мәгълүп"
+                ],
+                "Bashkir": [
+                    "мәғлүп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yenilen"
+                ],
+                "Azerbaijani": [
+                    "yenilən"
+                ],
+                "Turkmen": [
+                    "ýeňilen"
+                ],
+                "Uyghur": [
+                    "يېڭىلگۈچى"
+                ],
+                "Kazakh": [
+                    "жеңіліс тапқан",
+                    "жеңілген"
+                ],
+                "Kyrgyz": [
+                    "жеңилүүчү"
+                ],
+                "Karakalpak": [
+                    "jeńilioshi"
+                ],
+                "Tatar": [
+                    "җиңелүче"
+                ],
+                "Bashkir": [
+                    "еңелеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "uduzan"
+                ],
+                "Turkmen": [
+                    "utulan"
+                ],
+                "Kazakh": [
+                    "ұтылған"
+                ],
+                "Kyrgyz": [
+                    "утулуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaybeden"
+                ],
+                "Uzbek": [
+                    "boy beruvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yutqazuvchi"
+                ]
+            }
+        }
+    ]
+}

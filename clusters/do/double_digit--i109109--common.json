@@ -1,0 +1,75 @@
+{
+    "id": "i109109",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "double digit",
+    "en_definition": "a two-digit integer; from 10 to 99",
+    "tr_word": "çift haneli sayı",
+    "tr_definition": "10 ile 99 arasındaki iki basamaklı tam sayı",
+    "ru_word": "двузначное число",
+    "ru_definition": "целое число от 10 до 99, состоящее из двух цифр",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki basamaklı sayı"
+                ],
+                "Azerbaijani": [
+                    "iki rəqəmli",
+                    "iki rəqəmli ədəd"
+                ],
+                "Turkmen": [
+                    "iki belgili san",
+                    "iki hanaly san"
+                ],
+                "Uzbek": [
+                    "ikki xonali son",
+                    "ikki raqamli son"
+                ],
+                "Uyghur": [
+                    "ئىككى خانىلىق سان"
+                ],
+                "Kazakh": [
+                    "екі таңбалы сан"
+                ],
+                "Kyrgyz": [
+                    "эки орундуу сан",
+                    "эки орундуу"
+                ],
+                "Karakalpak": [
+                    "ekі tańbalı san"
+                ],
+                "Tatar": [
+                    "ике урынлы сан",
+                    "ике тамгалы сан"
+                ],
+                "Bashkir": [
+                    "ике урынлы һан",
+                    "ике тамғалы һан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قوش خانىلىق سان"
+                ],
+                "Kazakh": [
+                    "қос таңбалы сан"
+                ],
+                "Karakalpak": [
+                    "qos tańbalı san"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift haneli sayı"
+                ]
+            }
+        }
+    ]
+}

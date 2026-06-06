@@ -1,0 +1,184 @@
+# Cohabitation
+| Field | Detail |
+|---|---|
+| **ID** | i40936 |
+| **English** | cohabitation |
+| **Type** | noun |
+| **Definition** | the act of living together and having a sexual relationship (especially without being married) |
+| **Source** | common |
+| **Ortatil** | istiqämätdäşlik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ھەمراھلىق | hämrahliq |
+| **Kazakh** | |
+| отақтасу | otaqtasu |
+
+```json
+{
+    "id": "i40936",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cohabitation",
+    "en_definition": "the act of living together and having a sexual relationship (especially without being married)",
+    "tr_word": "birlikte yaşama",
+    "tr_definition": "Evli olmadan aynı evde yaşama ve cinsel birliktelik sürdürme durumu.",
+    "ru_word": "сожительство",
+    "ru_definition": "Проживание двух людей вместе и ведение общего хозяйства без официальной регистрации брака.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "birlikte yaşama",
+                    "beraber yaşama"
+                ],
+                "Azerbaijani": [
+                    "birgəyaşayış"
+                ],
+                "Uzbek": [
+                    "birga yashash"
+                ],
+                "Uyghur": [
+                    "بىرگە تۇرۇش",
+                    "بىرگە ياشاش"
+                ],
+                "Kazakh": [
+                    "бірге тұру",
+                    "бірге өмір сүру"
+                ],
+                "Kyrgyz": [
+                    "бирге жашоо"
+                ],
+                "Karakalpak": [
+                    "birge jasau",
+                    "birge turıu"
+                ],
+                "Tatar": [
+                    "бергә яшәү"
+                ],
+                "Bashkir": [
+                    "бергә йәшәү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nikâhsız birliktelik"
+                ],
+                "Turkmen": [
+                    "nikasyz ýaşamak"
+                ],
+                "Uzbek": [
+                    "nikohsiz yashash"
+                ],
+                "Uyghur": [
+                    "نىكاھسىز بىرگە تۇرۇش"
+                ],
+                "Kyrgyz": [
+                    "никесиз жашоо"
+                ],
+                "Karakalpak": [
+                    "nekesiz jasau"
+                ],
+                "Tatar": [
+                    "никахсыз яшәү"
+                ],
+                "Bashkir": [
+                    "никахһыҙ йәшәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hayat ortaklığı"
+                ],
+                "Azerbaijani": [
+                    "həyat yoldaşlığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vətəndaş nikahı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kəbinsiz yaşama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bile ýaşamaklyk",
+                    "bilelikde ýaşamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "istiqomatdoshlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەمراھلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "азаматтық неке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отақтасу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жарандык нике"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көнкүреш берлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "уртаҡ тормош"
+                ]
+            }
+        }
+    ]
+}
+```
+

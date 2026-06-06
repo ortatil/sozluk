@@ -1,0 +1,133 @@
+{
+    "id": "i61250",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "work camp",
+    "en_definition": "a camp for trustworthy prisoners employed in government projects",
+    "tr_word": "açık cezaevi kampı",
+    "tr_definition": "güvenilir mahkumların hükümet projelerinde çalıştırıldığı kamp",
+    "ru_word": "исправительно-трудовой лагерь",
+    "ru_definition": "лагерь для заслуживающих доверия заключенных, занятых на государственных объектах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iş kampı",
+                    "ıslah kampı"
+                ],
+                "Azerbaijani": [
+                    "islah-əmək düşərgəsi"
+                ],
+                "Turkmen": [
+                    "iş lageri"
+                ],
+                "Uyghur": [
+                    "ئىشلەمچىلەر لاگېرى"
+                ],
+                "Tatar": [
+                    "эш лагере"
+                ],
+                "Bashkir": [
+                    "эш лагеры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "düzediş lageri"
+                ],
+                "Kazakh": [
+                    "түзеу лагері"
+                ],
+                "Kyrgyz": [
+                    "түзөтүү лагери"
+                ],
+                "Karakalpak": [
+                    "túzetu lageri"
+                ],
+                "Bashkir": [
+                    "төҙөү лагеры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mehnat lageri",
+                    "mehnat maskani"
+                ],
+                "Karakalpak": [
+                    "miynet lageri",
+                    "miynet penen túzetu lageri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەمگەك بىلەن ئۆزگەرتىش مەيدانى",
+                    "ئەمگەك لاگېرى"
+                ],
+                "Kyrgyz": [
+                    "эмгек лагери",
+                    "эмгек колониясы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хезмәт лагере"
+                ],
+                "Bashkir": [
+                    "хеҙмәт лагеры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalışma kampı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əmək düşərgəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zähmet lageri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ish lageri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еңбек лагері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмыс лагері"
+                ]
+            }
+        }
+    ]
+}

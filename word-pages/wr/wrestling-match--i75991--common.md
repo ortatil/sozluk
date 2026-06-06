@@ -1,0 +1,209 @@
+# Wrestling match
+| Field | Detail |
+|---|---|
+| **ID** | i75991 |
+| **English** | wrestling match |
+| **Type** | noun |
+| **Definition** | a match between wrestlers |
+| **Source** | common |
+| **Ortatil** | güreş |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **güreş** | **pelwenişlik** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.33 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.40 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **3.17** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كۈرەش | küräş |
+| چېلىشىش | çelişiş |
+| **Kazakh** | |
+| күрес | küres |
+| белдесу | beldesu |
+| сайыс | sayıs |
+| жарыс | jarıs |
+| **Kyrgyz** | |
+| күрөш | küröş |
+| **Tatar** | |
+| көрәш | köräş |
+| **Bashkir** | |
+| көрәш | köräş |
+| ярыш | yarış |
+| бәйге | bäyge |
+
+```json
+{
+    "id": "i75991",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wrestling match",
+    "en_definition": "a match between wrestlers",
+    "tr_word": "güreş müsabakası",
+    "tr_definition": "güreşçiler arasında yapılan karşılaşma",
+    "ru_word": "матч по борьбе",
+    "ru_definition": "соревнование между борцами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güreş",
+                    "güreş müsabakası",
+                    "güreş karşılaşması"
+                ],
+                "Azerbaijani": [
+                    "güləş tutması"
+                ],
+                "Turkmen": [
+                    "göreş"
+                ],
+                "Uyghur": [
+                    "كۈرەش"
+                ],
+                "Kazakh": [
+                    "күрес"
+                ],
+                "Kyrgyz": [
+                    "күрөш"
+                ],
+                "Karakalpak": [
+                    "gúres"
+                ],
+                "Tatar": [
+                    "көрәш"
+                ],
+                "Bashkir": [
+                    "көрәш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pälwanlyk"
+                ],
+                "Uyghur": [
+                    "پالۋانلىق مۇسابىقىسى"
+                ],
+                "Kazakh": [
+                    "белдесу"
+                ],
+                "Kyrgyz": [
+                    "балбан күрөш"
+                ],
+                "Karakalpak": [
+                    "bellesio",
+                    "paloanlıq"
+                ],
+                "Tatar": [
+                    "бил алышу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "güləş",
+                    "güləş yarışı"
+                ],
+                "Uzbek": [
+                    "kurash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сайыс",
+                    "жарыс"
+                ],
+                "Bashkir": [
+                    "ярыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pehlivanlık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "meydan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tutluşyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bellashuv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "musobaqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چېلىشىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эр сайыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көрәш бәйгесе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәйге"
+                ]
+            }
+        }
+    ]
+}
+```
+

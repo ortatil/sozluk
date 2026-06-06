@@ -1,0 +1,86 @@
+{
+    "id": "i19221",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "for short",
+    "en_definition": "as an abbreviation",
+    "tr_word": "kısaca",
+    "tr_definition": "bir ismin veya ifadenin kısaltılmış hali olarak",
+    "ru_word": "сокращённо",
+    "ru_definition": "в качестве аббревиатуры или краткой формы имени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısaca",
+                    "kısa adıyla"
+                ],
+                "Azerbaijani": [
+                    "qısaca",
+                    "qısa olaraq"
+                ],
+                "Turkmen": [
+                    "gysgaça",
+                    "gysgaldylyp",
+                    "gysgaldylan görnüşde"
+                ],
+                "Uzbek": [
+                    "qisqacha",
+                    "qisqartirib"
+                ],
+                "Uyghur": [
+                    "قىسقارتىپ",
+                    "قىسقارتما قىلىپ",
+                    "قىسقىچە قىلىپ"
+                ],
+                "Kazakh": [
+                    "қысқаша",
+                    "қысқартып"
+                ],
+                "Kyrgyz": [
+                    "кыскача",
+                    "кыскартып"
+                ],
+                "Karakalpak": [
+                    "qısqasha",
+                    "qısqartıp",
+                    "qısqasha aytqanda"
+                ],
+                "Tatar": [
+                    "кыскача",
+                    "кыскартып",
+                    "кыскартылган"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡаса",
+                    "ҡыҫҡартып"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müxtəsər"
+                ],
+                "Uzbek": [
+                    "muxtasar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özetle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түйіндеп"
+                ]
+            }
+        }
+    ]
+}

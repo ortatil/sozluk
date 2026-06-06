@@ -1,0 +1,110 @@
+{
+    "id": "i54644",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hardback",
+    "en_definition": "a book with cardboard or cloth or leather covers",
+    "tr_word": "ciltli kitap",
+    "tr_definition": "karton, bez veya deri kapaklı kitap",
+    "ru_word": "книга в твердом переплете",
+    "ru_definition": "книга с обложкой из картона, ткани или кожи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qalın cild"
+                ],
+                "Turkmen": [
+                    "gaty jilt"
+                ],
+                "Uzbek": [
+                    "qattiq jild"
+                ],
+                "Uyghur": [
+                    "قاتتىق مۇقاۋا"
+                ],
+                "Kazakh": [
+                    "қатты мұқаба",
+                    "қатты түптеме"
+                ],
+                "Kyrgyz": [
+                    "катуу мукаба",
+                    "катуу тыш"
+                ],
+                "Karakalpak": [
+                    "qattı mұqaba",
+                    "qattı mұqabalı kitap"
+                ],
+                "Tatar": [
+                    "каты тышлы китап",
+                    "каты тыш"
+                ],
+                "Bashkir": [
+                    "ҡаты тышлы китап",
+                    "ҡаты тышлыҡлы китап",
+                    "ҡаты тыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaty jiltli kitap"
+                ],
+                "Uzbek": [
+                    "qattiq muqova"
+                ],
+                "Uyghur": [
+                    "قاتتىق مۇقاۋىلىق كىتاب"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ciltli kitap"
+                ],
+                "Turkmen": [
+                    "jiltli kitap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sert kapak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mukavva cilt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bərk cild"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "karton cild"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тышлы китап"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "id": "i74661",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "naming",
+    "en_definition": "the verbal act of naming",
+    "tr_word": "adlandırma",
+    "tr_definition": "bir kimseye veya bir şeye ad verme eylemi",
+    "ru_word": "именование",
+    "ru_definition": "словесный акт присвоения имени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adlandırma",
+                    "ad koyma"
+                ],
+                "Azerbaijani": [
+                    "adlandırma",
+                    "adqoyma"
+                ],
+                "Turkmen": [
+                    "atlandyrma",
+                    "at dakma",
+                    "atlandyryş"
+                ],
+                "Uyghur": [
+                    "ئاتاش"
+                ],
+                "Kazakh": [
+                    "атау",
+                    "ат қою",
+                    "аталу"
+                ],
+                "Kyrgyz": [
+                    "ат коюу",
+                    "ат берүү",
+                    "атоо"
+                ],
+                "Karakalpak": [
+                    "at qoyıo",
+                    "atama",
+                    "atao",
+                    "at berio"
+                ],
+                "Tatar": [
+                    "атау"
+                ],
+                "Bashkir": [
+                    "атау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "isimlendirme",
+                    "isim verme"
+                ],
+                "Azerbaijani": [
+                    "isimləndirmə"
+                ],
+                "Uzbek": [
+                    "ism qo'yish"
+                ],
+                "Uyghur": [
+                    "ئىسىم قويۇش"
+                ],
+                "Kazakh": [
+                    "есім беру"
+                ],
+                "Kyrgyz": [
+                    "ысым берүү"
+                ],
+                "Tatar": [
+                    "исем кушу",
+                    "исемләү"
+                ],
+                "Bashkir": [
+                    "исемләү",
+                    "исем биреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nomlash",
+                    "nom berish"
+                ],
+                "Uyghur": [
+                    "نام بېرىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təsim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "atash"
+                ]
+            }
+        }
+    ]
+}

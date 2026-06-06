@@ -1,0 +1,114 @@
+{
+    "id": "i22816",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "blow-dry",
+    "en_definition": "dry hair with a hair dryer",
+    "tr_word": "fön çekmek",
+    "tr_definition": "saçları saç kurutma makinesi kullanarak kurutmak ve şekillendirmek",
+    "ru_word": "сушить феном",
+    "ru_definition": "сушить волосы с помощью фена",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fön çekmek",
+                    "fönlemek"
+                ],
+                "Azerbaijani": [
+                    "fenləmək",
+                    "fenlə qurutmaq"
+                ],
+                "Turkmen": [
+                    "fenlemek"
+                ],
+                "Uzbek": [
+                    "fenlamoq"
+                ],
+                "Uyghur": [
+                    "فېن بىلەن قۇرۇتۇش"
+                ],
+                "Kazakh": [
+                    "фенмен кептіру"
+                ],
+                "Kyrgyz": [
+                    "фендөө"
+                ],
+                "Karakalpak": [
+                    "fenleo"
+                ],
+                "Tatar": [
+                    "фен белән киптерү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurutmak"
+                ],
+                "Azerbaijani": [
+                    "qurutmaq"
+                ],
+                "Turkmen": [
+                    "guratmak"
+                ],
+                "Uzbek": [
+                    "quritmoq"
+                ],
+                "Kazakh": [
+                    "құрғату"
+                ],
+                "Kyrgyz": [
+                    "кургатуу"
+                ],
+                "Karakalpak": [
+                    "qurıtıo"
+                ],
+                "Bashkir": [
+                    "ҡоротоу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кептіру"
+                ],
+                "Karakalpak": [
+                    "keptirio"
+                ],
+                "Tatar": [
+                    "киптерү"
+                ],
+                "Bashkir": [
+                    "киптереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howa bilen guratmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چاچ قۇرۇتۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өттөрөү"
+                ]
+            }
+        }
+    ]
+}

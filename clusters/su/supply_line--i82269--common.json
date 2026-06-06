@@ -1,0 +1,141 @@
+{
+    "id": "i82269",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "supply line",
+    "en_definition": "a route over which supplies can be delivered",
+    "tr_word": "ikmal hattı",
+    "tr_definition": "malzemelerin teslim edilebileceği bir güzergah",
+    "ru_word": "линия снабжения",
+    "ru_definition": "маршрут, по которому могут доставляться припасы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təchizat yolu"
+                ],
+                "Uzbek": [
+                    "ta'minot yo'li",
+                    "ta'minot tarmog'i"
+                ],
+                "Uyghur": [
+                    "تەمىنات يولى",
+                    "تەمىنلەش لىنىيەسى"
+                ],
+                "Karakalpak": [
+                    "támiynat jolı",
+                    "támiynat baǵıtı"
+                ],
+                "Tatar": [
+                    "тәэминат юлы",
+                    "тәэмин итү юлы"
+                ],
+                "Bashkir": [
+                    "тәьминәт юлы",
+                    "тәьмин итеү юлы",
+                    "тәьминәт юлдары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yetkazib berish yo'li"
+                ],
+                "Kazakh": [
+                    "жеткізу жолы"
+                ],
+                "Karakalpak": [
+                    "jetkerip beriu jolı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lojistik hattı"
+                ],
+                "Azerbaijani": [
+                    "loqistika xətti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tedarik yolu"
+                ],
+                "Azerbaijani": [
+                    "tədarük yolu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жабдықтау жолы"
+                ],
+                "Kyrgyz": [
+                    "жабдуу жолу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қамтамасыз ету жолы"
+                ],
+                "Kyrgyz": [
+                    "каттам жолу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ikmal yolu",
+                    "ikmal hattı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təminat yolu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "üpjünçilik ýoly",
+                    "üpjün ediş ýoly",
+                    "üpjünçilik ulgamy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئارقا سەپ يولى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "камсыздоо жолу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ярдәм юлы"
+                ]
+            }
+        }
+    ]
+}

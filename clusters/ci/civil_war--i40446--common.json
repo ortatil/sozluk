@@ -1,0 +1,140 @@
+{
+    "id": "i40446",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "civil war",
+    "en_definition": "a war between factions in the same country",
+    "tr_word": "iç savaş",
+    "tr_definition": "aynı ülkenin vatandaşları veya grupları arasında gerçekleşen savaş",
+    "ru_word": "гражданская война",
+    "ru_definition": "война между организованными группами внутри одного государства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iç savaş",
+                    "iç harp",
+                    "iç kargaşa"
+                ],
+                "Azerbaijani": [
+                    "iç savaş"
+                ],
+                "Turkmen": [
+                    "içerki uruş"
+                ],
+                "Uzbek": [
+                    "ichki urush"
+                ],
+                "Uyghur": [
+                    "ئىچكى ئۇرۇش",
+                    "ئىچكى نىزا",
+                    "ئىچكى جەڭ"
+                ],
+                "Kazakh": [
+                    "ішкі соғыс"
+                ],
+                "Kyrgyz": [
+                    "ички согуш"
+                ],
+                "Karakalpak": [
+                    "ishki urıs"
+                ],
+                "Tatar": [
+                    "эчке сугыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'zaro urush"
+                ],
+                "Kyrgyz": [
+                    "өз ара согуш"
+                ],
+                "Karakalpak": [
+                    "óz-ara urıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vətəndaş müharibəsi"
+                ],
+                "Tatar": [
+                    "ватандашлар сугышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "fuqarolar urushi"
+                ],
+                "Karakalpak": [
+                    "puqaralıq urıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "daxili müharibə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "raýat urşy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "азамат соғысы",
+                    "азаматтық соғыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жарандык согуш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "вакытлы сугыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "граждандар һуғышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ил эсе һуғышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "әүҙәни һуғыш"
+                ]
+            }
+        }
+    ]
+}

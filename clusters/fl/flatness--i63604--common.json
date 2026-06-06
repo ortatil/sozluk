@@ -1,0 +1,128 @@
+{
+    "id": "i63604",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flatness",
+    "en_definition": "the property of having two dimensions",
+    "tr_word": "düzlük",
+    "tr_definition": "iki boyutlu olma özelliği",
+    "ru_word": "плоскостность",
+    "ru_definition": "свойство наличия двух измерений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yassılık"
+                ],
+                "Azerbaijani": [
+                    "yastılıq"
+                ],
+                "Turkmen": [
+                    "ýazylyk"
+                ],
+                "Uzbek": [
+                    "yassi",
+                    "yassilik"
+                ],
+                "Kazakh": [
+                    "жазықтық"
+                ],
+                "Kyrgyz": [
+                    "жазылык"
+                ],
+                "Karakalpak": [
+                    "jazıqlıq"
+                ],
+                "Tatar": [
+                    "яссылык"
+                ],
+                "Bashkir": [
+                    "яҫылыҡ",
+                    "яҙыҡлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tekizlik"
+                ],
+                "Uzbek": [
+                    "tekislik"
+                ],
+                "Uyghur": [
+                    "تەكشىلىك"
+                ],
+                "Kazakh": [
+                    "тегістік",
+                    "тақырлық"
+                ],
+                "Kyrgyz": [
+                    "тегиздик"
+                ],
+                "Karakalpak": [
+                    "tegislik"
+                ],
+                "Tatar": [
+                    "тигезлек"
+                ],
+                "Bashkir": [
+                    "тигеҙлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düzlük"
+                ],
+                "Azerbaijani": [
+                    "düzlük"
+                ],
+                "Turkmen": [
+                    "düzlük"
+                ],
+                "Uyghur": [
+                    "تۈزلۈك"
+                ],
+                "Kyrgyz": [
+                    "түзтүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hamarlıq"
+                ],
+                "Uzbek": [
+                    "hamvorlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "satıhlık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pürüzsüzlük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياپىلاقلىق"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "id": "i74830",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "grade point average",
+    "en_definition": "a measure of a student's academic achievement at a college or university; calculated by dividing the total number of grade points received by the total number attempted",
+    "tr_word": "not ortalaması",
+    "tr_definition": "bir öğrencinin aldığı toplam puanların, aldığı toplam ders sayısına veya kredi saatine bölünmesiyle elde edilen başarı puanı.",
+    "ru_word": "средний балл",
+    "ru_definition": "показатель успеваемости учащегося, рассчитываемый как сумма всех оценок, деленная на их количество.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "genel not ortalaması"
+                ],
+                "Turkmen": [
+                    "ortaça bahalandyrma",
+                    "ortaça baha"
+                ],
+                "Uzbek": [
+                    "oʻrtacha baho",
+                    "oʻrtacha koʻrsatkich",
+                    "oʻrtacha ball"
+                ],
+                "Kazakh": [
+                    "орташа балл",
+                    "орташа көрсеткіш"
+                ],
+                "Kyrgyz": [
+                    "орточо баа",
+                    "орточо көрсөткүч"
+                ],
+                "Karakalpak": [
+                    "ortasha ball"
+                ],
+                "Tatar": [
+                    "уртача балл",
+                    "уртача күрсәткеч"
+                ],
+                "Bashkir": [
+                    "уртаса баһа",
+                    "уртаса күрһәткес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ümumi orta müvəffəqiyyət göstəricisi"
+                ],
+                "Turkmen": [
+                    "umumy ortaça baha"
+                ],
+                "Uyghur": [
+                    "ئومۇمىي ئوتتۇرىچە نومۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "not ortalaması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "başarı ortalaması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akademik ortalama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "orta bal",
+                    "orta qiymət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرىچە نومۇر",
+                    "ئوتتۇرىچە نەتىجە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үлгерім көрсеткіші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жетишүү деңгээли"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "oqıu kórsetkishi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bilim dárejesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзләштерү дәрәҗәсе"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "id": "i19859",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "internally",
+    "en_definition": "on or from the inside",
+    "tr_word": "dahilen",
+    "tr_definition": "içeriden veya iç kısımdan",
+    "ru_word": "внутренне",
+    "ru_definition": "внутри или изнутри",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "içten",
+                    "içeriden"
+                ],
+                "Azerbaijani": [
+                    "içəridən",
+                    "içdən"
+                ],
+                "Turkmen": [
+                    "içeriden",
+                    "içinden",
+                    "içki",
+                    "içerleýin"
+                ],
+                "Uzbek": [
+                    "ichkaridan",
+                    "ichki",
+                    "ichida"
+                ],
+                "Uyghur": [
+                    "ئىچكىرىدىن",
+                    "ئىچىدىن",
+                    "ئىچكى تەرەپتىن",
+                    "ئىچىدە"
+                ],
+                "Kyrgyz": [
+                    "ичинен",
+                    "ичтен",
+                    "ички"
+                ],
+                "Tatar": [
+                    "эчтән",
+                    "эчкәре",
+                    "эчтә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "іштей",
+                    "іштен",
+                    "ішкі жағынан"
+                ],
+                "Karakalpak": [
+                    "ishtey",
+                    "ishinen",
+                    "ishkiley"
+                ],
+                "Bashkir": [
+                    "эстән",
+                    "эске яҡтан",
+                    "эскеләй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dahilen"
+                ],
+                "Azerbaijani": [
+                    "daxilən",
+                    "daxildə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "botinan"
+                ]
+            }
+        }
+    ]
+}

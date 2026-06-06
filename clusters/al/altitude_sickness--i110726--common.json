@@ -1,0 +1,114 @@
+{
+    "id": "i110726",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "altitude sickness",
+    "en_definition": "effects (as nosebleed or nausea) of oxygen deficiency in the blood and tissues at high altitudes",
+    "tr_word": "irtifa hastalığı",
+    "tr_definition": "Yüksek rakımlarda kandaki ve dokulardaki oksijen eksikliğinden kaynaklanan burun kanaması veya mide bulantısı gibi etkiler.",
+    "ru_word": "высотная болезнь",
+    "ru_definition": "болезненное состояние, возникающее вследствие кислородного голодания при подъеме на значительную высоту.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağ tutması"
+                ],
+                "Turkmen": [
+                    "dag keseli"
+                ],
+                "Uzbek": [
+                    "tog' kasalligi",
+                    "tog' xastaligi"
+                ],
+                "Uyghur": [
+                    "تاغ كېسىلى",
+                    "تاغ تۇتۇش"
+                ],
+                "Kazakh": [
+                    "тау ауруы"
+                ],
+                "Karakalpak": [
+                    "tau keselligi",
+                    "tau tiyioi"
+                ],
+                "Tatar": [
+                    "тау чире"
+                ],
+                "Bashkir": [
+                    "тау ауырыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "биіктік ауруы"
+                ],
+                "Kyrgyz": [
+                    "бийиктик оорусу"
+                ],
+                "Karakalpak": [
+                    "biyiklik keselligi"
+                ],
+                "Tatar": [
+                    "биеклек чире"
+                ],
+                "Bashkir": [
+                    "бейеклек ауырыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yükseklik hastalığı"
+                ],
+                "Azerbaijani": [
+                    "yüksəklik xəstəliyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "belentlik keseli"
+                ],
+                "Uzbek": [
+                    "balandlik xastaligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "irtifa hastalığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dağ xəstəliyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېگىزلىك كېسىلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоо оорусу",
+                    "тоо тийүү"
+                ]
+            }
+        }
+    ]
+}

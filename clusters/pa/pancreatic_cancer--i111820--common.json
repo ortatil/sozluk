@@ -1,0 +1,82 @@
+{
+    "id": "i111820",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pancreatic cancer",
+    "en_definition": "cancer of the pancreas",
+    "tr_word": "pankreas kanseri",
+    "tr_definition": "pankreasta gelişen kötü huylu tümör",
+    "ru_word": "рак поджелудочной железы",
+    "ru_definition": "злокачественное новообразование, исходящее из эпителия железистой ткани или протоков поджелудочной железы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mədəaltı vəzi xərçəngi"
+                ],
+                "Uzbek": [
+                    "me'da osti bezi saratoni"
+                ],
+                "Kazakh": [
+                    "ұйқы безінің қатерлі ісігі"
+                ],
+                "Kyrgyz": [
+                    "уйку безинин рагы",
+                    "уйку безинин залалдуу шишиги"
+                ],
+                "Karakalpak": [
+                    "ұyqı bezі ragı",
+                    "ұyqı bezі qaterlі isigi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aşgazanasty mäziniň ragy",
+                    "aşgazanasty mäziniň seretany"
+                ],
+                "Uzbek": [
+                    "oshqozon osti bezi saratoni",
+                    "oshqozon osti bezi rak kasalligi"
+                ],
+                "Uyghur": [
+                    "ئاشقازان ئاستى بېزى راكى"
+                ],
+                "Tatar": [
+                    "ашказаны асты бизе рагы",
+                    "ашказаны асты бизе шеше"
+                ],
+                "Bashkir": [
+                    "ашҡаҙан аҫты биҙе яман шеше",
+                    "ашҡаҙан аҫты биҙе рагы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pankreas kanseri",
+                    "pankreas tümörü",
+                    "pankreas uru"
+                ],
+                "Azerbaijani": [
+                    "pankreas xərçəngi"
+                ],
+                "Uyghur": [
+                    "پەنكرېئاس راكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұйқы безінің рагы"
+                ]
+            }
+        }
+    ]
+}

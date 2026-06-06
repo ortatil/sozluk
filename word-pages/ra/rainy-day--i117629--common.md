@@ -1,0 +1,187 @@
+# Rainy day
+| Field | Detail |
+|---|---|
+| **ID** | i117629 |
+| **English** | rainy day |
+| **Type** | noun |
+| **Definition** | a (future) time of financial need |
+| **Source** | common |
+| **Ortatil** | mütäclik |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i117629",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rainy day",
+    "en_definition": "a (future) time of financial need",
+    "tr_word": "kara gün",
+    "tr_definition": "maddi sıkıntı çekilen veya çekileceği öngörülen gelecek zaman",
+    "ru_word": "черный день",
+    "ru_definition": "будущий период финансовых трудностей или нужды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dar gün",
+                    "kara gün",
+                    "zor gün"
+                ],
+                "Azerbaijani": [
+                    "dar gün",
+                    "qara gün"
+                ],
+                "Turkmen": [
+                    "gara gün",
+                    "dar gün"
+                ],
+                "Uzbek": [
+                    "qora kun"
+                ],
+                "Uyghur": [
+                    "تار كۈن"
+                ],
+                "Kyrgyz": [
+                    "кара күн"
+                ],
+                "Tatar": [
+                    "кара көн"
+                ],
+                "Bashkir": [
+                    "ҡара көн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muhtojlik kuni"
+                ],
+                "Uyghur": [
+                    "مۇھتاجلىق كۈنى"
+                ],
+                "Kazakh": [
+                    "мұқтаждық кезі"
+                ],
+                "Karakalpak": [
+                    "mútájlik"
+                ],
+                "Bashkir": [
+                    "мохтажлыҡ көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıtlık zamanı"
+                ],
+                "Tatar": [
+                    "тарлык вакыты"
+                ],
+                "Bashkir": [
+                    "тарлыҡ көнө",
+                    "тарлыҡ ваҡыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "agyr gün"
+                ],
+                "Uzbek": [
+                    "ogʻir kun"
+                ],
+                "Karakalpak": [
+                    "auır kún"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قىيىن كۈن"
+                ],
+                "Kyrgyz": [
+                    "кыйын кезең"
+                ],
+                "Tatar": [
+                    "кыен көн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "таршылық кезең",
+                    "тар заман"
+                ],
+                "Kyrgyz": [
+                    "тар заман"
+                ],
+                "Karakalpak": [
+                    "tarlıq",
+                    "tar zaman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ehtiyac vaxtı"
+                ],
+                "Uyghur": [
+                    "ئېھتىياجلىق كۈن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çətin gün"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tanglik vaqti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қиын-қыстау күн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оор күн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qısıltayań kún"
+                ]
+            }
+        }
+    ]
+}
+```
+

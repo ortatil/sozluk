@@ -1,0 +1,134 @@
+{
+    "id": "i77290",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bologna",
+    "en_definition": "large smooth-textured smoked sausage of beef and veal and pork",
+    "tr_word": "bolonya sucuğu",
+    "tr_definition": "sığır, dana ve domuz etinden yapılan, pürüzsüz dokulu, büyük ve tütsülenmiş bir sosis türü",
+    "ru_word": "болонская колбаса",
+    "ru_definition": "большая варено-копченая колбаса с гладкой текстурой, изготовленная из говядины, телятины и свинины",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sucuk"
+                ],
+                "Kazakh": [
+                    "шұжық"
+                ],
+                "Kyrgyz": [
+                    "шұжық"
+                ],
+                "Karakalpak": [
+                    "shұjıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kolbasa"
+                ],
+                "Uyghur": [
+                    "كالباس"
+                ],
+                "Kyrgyz": [
+                    "колбаса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قېزا"
+                ],
+                "Karakalpak": [
+                    "qazı"
+                ],
+                "Bashkir": [
+                    "ҡаҙы",
+                    "ҡаҙылыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bişmiş kolbasa"
+                ],
+                "Turkmen": [
+                    "bişirilen şöhlat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "go'shtli taom"
+                ],
+                "Uyghur": [
+                    "گۆش كالباسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қайнатылған шұжық"
+                ],
+                "Tatar": [
+                    "кайнатылган колбаса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ит ризыгы"
+                ],
+                "Bashkir": [
+                    "ит ризығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "salam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "füme et"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "doktor kolbasası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yumşaq kolbasa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şöhlat"
+                ]
+            }
+        }
+    ]
+}

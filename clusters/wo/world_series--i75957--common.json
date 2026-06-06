@@ -1,0 +1,95 @@
+{
+    "id": "i75957",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "world series",
+    "en_definition": "series that constitutes the playoff for the baseball championship",
+    "tr_word": "Dünya Serisi",
+    "tr_definition": "Beyzbol şampiyonluğu için yapılan final maçları serisi",
+    "ru_word": "Мировая серия",
+    "ru_definition": "Серия игр, определяющая чемпиона главной лиги бейсбола",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dünya serisi",
+                    "dünya beyzbol şampiyonası"
+                ],
+                "Azerbaijani": [
+                    "dünya seriyası",
+                    "dünya çempionatı silsiləsi"
+                ],
+                "Turkmen": [
+                    "dünýä çempionaty",
+                    "dünýä birinjiligi",
+                    "dünýä kubogy"
+                ],
+                "Uzbek": [
+                    "dunyo birinchiligi"
+                ],
+                "Uyghur": [
+                    "دۇنيا بېيسبول چېمپىيونلۇق مۇسابىقىسى",
+                    "دۇنيا بېيسبول ھەل قىلغۇچ مۇسابىقىسى"
+                ],
+                "Kazakh": [
+                    "дүниежүзілік серия"
+                ],
+                "Karakalpak": [
+                    "dúnyalıq seriya",
+                    "dúnya chempionatı"
+                ],
+                "Tatar": [
+                    "дөнья сериясе",
+                    "дөнья беренчелеге",
+                    "дөнья чемпионаты"
+                ],
+                "Bashkir": [
+                    "донъя серияһы",
+                    "донъя беренселеге",
+                    "донъя чемпионаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyzbol şampiyonluk serisi"
+                ],
+                "Azerbaijani": [
+                    "beynəlxalq final mərhələsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jahon chempionati"
+                ],
+                "Karakalpak": [
+                    "jáhán seriyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "olam musobaqasi"
+                ],
+                "Kazakh": [
+                    "әлемдік серия",
+                    "әлемдік біріншілік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дүйнөлүк серия",
+                    "дүйнөлүк биринчилик",
+                    "дүйнөлүк чемпионат"
+                ]
+            }
+        }
+    ]
+}

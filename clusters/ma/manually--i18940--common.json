@@ -1,0 +1,91 @@
+{
+    "id": "i18940",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "manually",
+    "en_definition": "by hand",
+    "tr_word": "elle",
+    "tr_definition": "makine veya otomatik araçlar kullanmadan, insan eli yardımıyla yapılan",
+    "ru_word": "вручную",
+    "ru_definition": "с помощью рук, без использования автоматических средств",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qo'lda",
+                    "qo'l bilan"
+                ],
+                "Uyghur": [
+                    "قولدا",
+                    "قول بىلەن",
+                    "قول كۈچى بىلەن"
+                ],
+                "Kazakh": [
+                    "қолмен",
+                    "қолдап",
+                    "қол күшімен"
+                ],
+                "Kyrgyz": [
+                    "кол менен",
+                    "колдоп"
+                ],
+                "Karakalpak": [
+                    "qoldan",
+                    "qol menen",
+                    "qol kúshi menen"
+                ],
+                "Tatar": [
+                    "кул белән",
+                    "куллап"
+                ],
+                "Bashkir": [
+                    "ҡул менән",
+                    "ҡулдан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elle",
+                    "el ile",
+                    "el yordamıyla"
+                ],
+                "Azerbaijani": [
+                    "əllə",
+                    "əl ilə"
+                ],
+                "Turkmen": [
+                    "elde",
+                    "el bilen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өз колу менен"
+                ],
+                "Tatar": [
+                    "үз кулы белән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "manuel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastaki"
+                ]
+            }
+        }
+    ]
+}

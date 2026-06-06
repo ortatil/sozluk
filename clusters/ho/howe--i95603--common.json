@@ -1,0 +1,128 @@
+{
+    "id": "i95603",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "howe",
+    "en_definition": "United States editor (1920-1993)",
+    "tr_word": "Howe",
+    "tr_definition": "Amerika Birleşik Devletleri doğumlu editör ve edebiyat eleştirmeni (1920-1993).",
+    "ru_word": "Хау",
+    "ru_definition": "Американский редактор и литературный критик (1920-1993).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yayıncı"
+                ],
+                "Azerbaijani": [
+                    "yazıçı"
+                ],
+                "Uzbek": [
+                    "yozuvchi"
+                ],
+                "Tatar": [
+                    "язучы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazar"
+                ],
+                "Azerbaijani": [
+                    "naşir"
+                ],
+                "Tatar": [
+                    "нәшир"
+                ],
+                "Bashkir": [
+                    "нәшерсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "redaktor"
+                ],
+                "Kazakh": [
+                    "редактор"
+                ],
+                "Kyrgyz": [
+                    "редактор"
+                ],
+                "Karakalpak": [
+                    "redaktor"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muharrir"
+                ],
+                "Tatar": [
+                    "мөхәррир"
+                ],
+                "Bashkir": [
+                    "мөхәррир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "баспагер"
+                ],
+                "Kyrgyz": [
+                    "башкы редактор",
+                    "басмачы"
+                ],
+                "Karakalpak": [
+                    "baspager"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Irwing Hou",
+                    "Irwing How"
+                ],
+                "Uyghur": [
+                    "ئىرۋىڭ خاۋ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "журналист"
+                ],
+                "Karakalpak": [
+                    "jurnalist"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "editör"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nashriyotchi"
+                ]
+            }
+        }
+    ]
+}

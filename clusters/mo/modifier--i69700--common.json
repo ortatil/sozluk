@@ -1,0 +1,158 @@
+{
+    "id": "i69700",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "modifier",
+    "en_definition": "a content word that qualifies the meaning of a noun or verb",
+    "tr_word": "belirteç",
+    "tr_definition": "bir ismin veya fiilin anlamını niteleyen veya sınırlayan sözcük",
+    "ru_word": "определитель",
+    "ru_definition": "слово, которое уточняет или ограничивает значение существительного или глагола",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aniqlovchi",
+                    "izohlovchi"
+                ],
+                "Uyghur": [
+                    "ئېنىقلىغۇچ"
+                ],
+                "Kazakh": [
+                    "анықтауыш"
+                ],
+                "Kyrgyz": [
+                    "аныктооч"
+                ],
+                "Karakalpak": [
+                    "anıqlaoısh"
+                ],
+                "Tatar": [
+                    "ачыклагыч"
+                ],
+                "Bashkir": [
+                    "аныҡлаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سۈپەتلىگۈچى"
+                ],
+                "Kazakh": [
+                    "сипаттауыш"
+                ],
+                "Kyrgyz": [
+                    "сыпаттооч"
+                ],
+                "Karakalpak": [
+                    "sıpatlaoısh"
+                ],
+                "Bashkir": [
+                    "сифатлаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aýdyňlaşdyryjy"
+                ],
+                "Kazakh": [
+                    "айқындауыш"
+                ],
+                "Kyrgyz": [
+                    "айкаштыруучу"
+                ],
+                "Karakalpak": [
+                    "ayqındaoısh"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "belirteç"
+                ],
+                "Tatar": [
+                    "билгеләгеч"
+                ],
+                "Bashkir": [
+                    "билдәләүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vasıflandırıcı"
+                ],
+                "Azerbaijani": [
+                    "vəsfedici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təyin",
+                    "təyinedici",
+                    "dəqiqləşdirici"
+                ],
+                "Uzbek": [
+                    "tavsiflovchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تولۇقلىغۇچ"
+                ],
+                "Kyrgyz": [
+                    "толуктооч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "niteleyici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tamamlayıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kesgitleýji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "häsiýetlendiriji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сыйфатлагыч"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "id": "i54616",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hand lotion",
+    "en_definition": "lotion used to soften the hands",
+    "tr_word": "el losyonu",
+    "tr_definition": "elleri yumuşatmak için kullanılan losyon",
+    "ru_word": "лосьон для рук",
+    "ru_definition": "лосьон, используемый для смягчения кожи рук",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qo'l malhami",
+                    "qo'l surtmasi"
+                ],
+                "Uyghur": [
+                    "قول مەلھىمى",
+                    "قول مېيى",
+                    "قول يۇمشىتىش مەلھىمى"
+                ],
+                "Kazakh": [
+                    "қол майы"
+                ],
+                "Kyrgyz": [
+                    "кол май",
+                    "кол майы",
+                    "кол үчүн май"
+                ],
+                "Karakalpak": [
+                    "qol mayı"
+                ],
+                "Tatar": [
+                    "кул мае",
+                    "кул кремы"
+                ],
+                "Bashkir": [
+                    "ҡул майы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "el kremi",
+                    "el merhemi"
+                ],
+                "Azerbaijani": [
+                    "əl kremi",
+                    "əl məlhəmi"
+                ],
+                "Turkmen": [
+                    "el melhemi",
+                    "el kremi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қол жақпасы"
+                ],
+                "Karakalpak": [
+                    "qol jaqpası"
+                ],
+                "Bashkir": [
+                    "ҡул һөрткөсө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el losyonu"
+                ],
+                "Turkmen": [
+                    "el ýagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қолға арналған май"
+                ],
+                "Tatar": [
+                    "кул йомшарткыч"
+                ]
+            }
+        }
+    ]
+}

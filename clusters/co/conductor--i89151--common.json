@@ -1,0 +1,113 @@
+{
+    "id": "i89151",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "conductor",
+    "en_definition": "the person who collects fares on a public conveyance",
+    "tr_word": "biletçi",
+    "tr_definition": "toplu taşıma araçlarında bilet kesen veya ücret toplayan görevli",
+    "ru_word": "кондуктор",
+    "ru_definition": "работник общественного транспорта, в обязанности которого входит сбор платы за проезд",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "biletçi"
+                ],
+                "Azerbaijani": [
+                    "biletçi"
+                ],
+                "Turkmen": [
+                    "petekçi"
+                ],
+                "Uyghur": [
+                    "بېلەتچى"
+                ],
+                "Kazakh": [
+                    "билетші"
+                ],
+                "Kyrgyz": [
+                    "билетчи"
+                ],
+                "Karakalpak": [
+                    "biletshi"
+                ],
+                "Tatar": [
+                    "билетчы"
+                ],
+                "Bashkir": [
+                    "билетсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýolbelet"
+                ],
+                "Uzbek": [
+                    "yoʻllovchi"
+                ],
+                "Kazakh": [
+                    "жолсерік"
+                ],
+                "Kyrgyz": [
+                    "жол акы жыйноочу"
+                ],
+                "Karakalpak": [
+                    "jolbasshı"
+                ],
+                "Tatar": [
+                    "юлчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kondüktör"
+                ],
+                "Uyghur": [
+                    "كوندۇكتور"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahsildar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəzarətçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chiptachi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бақылаушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "юл йөрөү хаҡын йыйыусы"
+                ]
+            }
+        }
+    ]
+}

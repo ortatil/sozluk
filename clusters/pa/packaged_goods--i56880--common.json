@@ -1,0 +1,137 @@
+{
+    "id": "i56880",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "packaged goods",
+    "en_definition": "groceries that are packaged for sale",
+    "tr_word": "paketlenmiş ürünler",
+    "tr_definition": "satış için paketlenmiş bakkaliye ürünleri",
+    "ru_word": "фасованные товары",
+    "ru_definition": "продукты питания, упакованные для продажи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qablaşdırılmış mallar",
+                    "qablaşdırılmış məhsullar"
+                ],
+                "Turkmen": [
+                    "gaplanan harytlar",
+                    "gaplanan önümler"
+                ],
+                "Uyghur": [
+                    "قاپلانغان ماللار",
+                    "قاپلانغان تاۋارلار"
+                ],
+                "Kazakh": [
+                    "қапталған өнімдер"
+                ],
+                "Karakalpak": [
+                    "qaplanǵan ónimler",
+                    "qaptalǵan towarlar"
+                ],
+                "Bashkir": [
+                    "ҡапланған тауарҙар",
+                    "ҡапланған аҙыҡ-түлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻralgan mollar"
+                ],
+                "Karakalpak": [
+                    "oralǵan zatlar"
+                ],
+                "Tatar": [
+                    "төрелгән товарлар",
+                    "төрелгән азык-төлек",
+                    "төрелгән маллар"
+                ],
+                "Bashkir": [
+                    "төйөлгән тауарҙар",
+                    "төйөлгән аҙыҡ-түлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tayyor mahsulotlar"
+                ],
+                "Uyghur": [
+                    "تەييار ماللار"
+                ],
+                "Kyrgyz": [
+                    "даяр товарлар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paketli ürünler",
+                    "paketlenmiş mallar"
+                ],
+                "Azerbaijani": [
+                    "bağlamalı məhsullar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ambalajlı gıdalar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hazır gıda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "buklanan harytlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qadoqlangan mollar",
+                    "qadoqlangan mahsulotlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оралған тауарлар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "буып-түйілген заттар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "таңгакталган товарлар",
+                    "таңгакталган азыктар"
+                ]
+            }
+        }
+    ]
+}

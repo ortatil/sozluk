@@ -1,0 +1,113 @@
+{
+    "id": "i91236",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "martyr",
+    "en_definition": "one who suffers for the sake of principle",
+    "tr_word": "şehit",
+    "tr_definition": "Kutsal bir ülkü veya inanç uğruna canını veren kimse.",
+    "ru_word": "мученик",
+    "ru_definition": "Человек, который подвергается страданиям или принимает смерть за свои убеждения или веру.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehit"
+                ],
+                "Azerbaijani": [
+                    "şəhid"
+                ],
+                "Turkmen": [
+                    "şehit"
+                ],
+                "Uzbek": [
+                    "shahid"
+                ],
+                "Uyghur": [
+                    "شېھىت"
+                ],
+                "Kazakh": [
+                    "шәһит"
+                ],
+                "Kyrgyz": [
+                    "шейит"
+                ],
+                "Karakalpak": [
+                    "sháyit"
+                ],
+                "Tatar": [
+                    "шәһит"
+                ],
+                "Bashkir": [
+                    "шәһит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurban"
+                ],
+                "Uzbek": [
+                    "qurbon"
+                ],
+                "Uyghur": [
+                    "قۇربان"
+                ],
+                "Kazakh": [
+                    "құрбан"
+                ],
+                "Kyrgyz": [
+                    "курман",
+                    "курмандык"
+                ],
+                "Karakalpak": [
+                    "kurban"
+                ],
+                "Tatar": [
+                    "корбан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fədai"
+                ],
+                "Turkmen": [
+                    "pida",
+                    "pidaýy"
+                ],
+                "Uzbek": [
+                    "fidoiy"
+                ],
+                "Karakalpak": [
+                    "pidáker"
+                ],
+                "Tatar": [
+                    "фидаи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "can feda"
+                ],
+                "Kazakh": [
+                    "жанкешті"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "фиҙаҡар"
+                ]
+            }
+        }
+    ]
+}

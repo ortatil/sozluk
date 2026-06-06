@@ -1,0 +1,136 @@
+{
+    "id": "i71561",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "course catalog",
+    "en_definition": "a catalog listing the courses offered by a college or university",
+    "tr_word": "ders kataloğu",
+    "tr_definition": "bir kolej veya üniversite tarafından sunulan dersleri listeleyen katalog",
+    "ru_word": "каталог курсов",
+    "ru_definition": "каталог, содержащий список курсов, предлагаемых колледжем или университетом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ders kataloğu",
+                    "ders rehberi",
+                    "ders listesi"
+                ],
+                "Azerbaijani": [
+                    "dərs kataloqu",
+                    "kurs kataloqu"
+                ],
+                "Turkmen": [
+                    "ders sanawy",
+                    "ders katalogy"
+                ],
+                "Uzbek": [
+                    "darslar majmuasi"
+                ],
+                "Uyghur": [
+                    "دەرس جەدۋىلى",
+                    "دەرسلىك تىزىملىكى",
+                    "دەرس پىلانى",
+                    "دەرس كاتالوگى"
+                ],
+                "Tatar": [
+                    "дәреслекләр исемлеге"
+                ],
+                "Bashkir": [
+                    "дәрестәр теҙмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okuw meýilnamasy"
+                ],
+                "Uzbek": [
+                    "oʻquv dasturi",
+                    "oʻquv rejasi"
+                ],
+                "Kazakh": [
+                    "оқу бағдарламасы",
+                    "оқу жоспары"
+                ],
+                "Kyrgyz": [
+                    "окуу программаларынын жыйнагы"
+                ],
+                "Karakalpak": [
+                    "oqıo baǵdarlaması"
+                ],
+                "Tatar": [
+                    "уку программалары җыентыгы"
+                ],
+                "Bashkir": [
+                    "уҡыу программалары исемлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fənn kataloqu"
+                ],
+                "Kazakh": [
+                    "пәндер тізбесі",
+                    "пәндер каталогы"
+                ],
+                "Karakalpak": [
+                    "pánler dizimi"
+                ],
+                "Tatar": [
+                    "фәннәр исемлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kurslar roʻyxati"
+                ],
+                "Kyrgyz": [
+                    "курстардын тизмеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сабактардын тизмеси"
+                ],
+                "Karakalpak": [
+                    "sabaqlıq baǵdarlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "белем бирү программасы"
+                ],
+                "Bashkir": [
+                    "белем биреү программалары каталогы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğretim kılavuzu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tədris proqramı"
+                ]
+            }
+        }
+    ]
+}

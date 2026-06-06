@@ -1,0 +1,133 @@
+{
+    "id": "i70195",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "leaflet",
+    "en_definition": "a small book usually having a paper cover",
+    "tr_word": "broşür",
+    "tr_definition": "genellikle kağıt kapaklı, az sayfalı küçük kitapçık",
+    "ru_word": "брошюра",
+    "ru_definition": "небольшая книга, обычно в бумажной обложке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kitapçık"
+                ],
+                "Azerbaijani": [
+                    "kitabça"
+                ],
+                "Turkmen": [
+                    "kitapça"
+                ],
+                "Uzbek": [
+                    "kitobcha"
+                ],
+                "Uyghur": [
+                    "كىتابچە"
+                ],
+                "Kazakh": [
+                    "кітапша"
+                ],
+                "Kyrgyz": [
+                    "китепче"
+                ],
+                "Karakalpak": [
+                    "kitapsha"
+                ],
+                "Tatar": [
+                    "китапчык"
+                ],
+                "Bashkir": [
+                    "китапсыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "risale"
+                ],
+                "Azerbaijani": [
+                    "risalə"
+                ],
+                "Turkmen": [
+                    "risala"
+                ],
+                "Uzbek": [
+                    "risola"
+                ],
+                "Uyghur": [
+                    "رەسالە"
+                ],
+                "Karakalpak": [
+                    "risala"
+                ],
+                "Tatar": [
+                    "рисалә"
+                ],
+                "Bashkir": [
+                    "рисалә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوللانما"
+                ],
+                "Bashkir": [
+                    "ҡулланма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "баянхат"
+                ],
+                "Kyrgyz": [
+                    "баракча",
+                    "баяндама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "broşür"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fasikül"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "buklet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toʻplam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нұсқаулық"
+                ]
+            }
+        }
+    ]
+}

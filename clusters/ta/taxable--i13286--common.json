@@ -1,0 +1,96 @@
+{
+    "id": "i13286",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "taxable",
+    "en_definition": "(of goods or funds) subject to taxation",
+    "tr_word": "vergiye tabi",
+    "tr_definition": "vergilendirilmesi gereken mal veya kazanç",
+    "ru_word": "подлежащий налогообложению",
+    "ru_definition": "облагаемый налогом (о товарах или средствах)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salgytly",
+                    "salgyt salynýan",
+                    "salgyda degişli"
+                ],
+                "Uzbek": [
+                    "soliqqa tortiladigan",
+                    "soliq olinadigan"
+                ],
+                "Kazakh": [
+                    "салық салынатын",
+                    "салықтық",
+                    "салыққа жататын"
+                ],
+                "Kyrgyz": [
+                    "салык салынуучу",
+                    "салык алынуучу",
+                    "салыкка тийиштүү"
+                ],
+                "Karakalpak": [
+                    "salıq salınatuǵın",
+                    "salıqqa tartılatuǵın",
+                    "salıqlı"
+                ],
+                "Tatar": [
+                    "салымлы",
+                    "салым салына торган",
+                    "салымга дучар"
+                ],
+                "Bashkir": [
+                    "һалымлы",
+                    "һалым һалына торған",
+                    "һалымға дусар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vergiye tabi",
+                    "vergilendirilebilir"
+                ],
+                "Azerbaijani": [
+                    "vergiyə cəlb olunan",
+                    "vergi tutulan",
+                    "vergi qoyulan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bojga tortiladigan"
+                ],
+                "Uyghur": [
+                    "باج تاپشۇرۇلىدىغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mükellef"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باجغا تېگىشلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باج ئېلىنىدىغان"
+                ]
+            }
+        }
+    ]
+}

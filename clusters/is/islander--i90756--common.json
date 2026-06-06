@@ -1,0 +1,74 @@
+{
+    "id": "i90756",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "islander",
+    "en_definition": "an inhabitant of an island",
+    "tr_word": "adalı",
+    "tr_definition": "bir adada yaşayan kimse",
+    "ru_word": "островитянин",
+    "ru_definition": "житель острова",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adalı"
+                ],
+                "Azerbaijani": [
+                    "adalı",
+                    "ada sakini"
+                ],
+                "Turkmen": [
+                    "adaly",
+                    "ada ýaşaýjysy"
+                ],
+                "Uzbek": [
+                    "orollik"
+                ],
+                "Uyghur": [
+                    "ئاراللىق",
+                    "ئارال ئاھالىسى"
+                ],
+                "Kazakh": [
+                    "аралық",
+                    "аралдық",
+                    "арал тұрғыны"
+                ],
+                "Kyrgyz": [
+                    "аралдык",
+                    "арал тургуну",
+                    "арал жашоочусу"
+                ],
+                "Karakalpak": [
+                    "aralshı",
+                    "aral turǵını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cezireli"
+                ],
+                "Uzbek": [
+                    "jazira ahli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "утраучы",
+                    "утрау кешесе",
+                    "утрау яшәүчесе"
+                ],
+                "Bashkir": [
+                    "утраусы",
+                    "утрау кешеһе",
+                    "утраулы"
+                ]
+            }
+        }
+    ]
+}

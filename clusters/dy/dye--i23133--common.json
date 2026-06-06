@@ -1,0 +1,98 @@
+{
+    "id": "i23133",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "dye",
+    "en_definition": "color with dye",
+    "tr_word": "boyamak",
+    "tr_definition": "bir şeyi boya kullanarak renklendirmek",
+    "ru_word": "красить",
+    "ru_definition": "придавать какой-либо цвет чему-либо при помощи краски",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boyamak"
+                ],
+                "Azerbaijani": [
+                    "boyamaq"
+                ],
+                "Turkmen": [
+                    "boýamak"
+                ],
+                "Uzbek": [
+                    "bo'yamoq"
+                ],
+                "Uyghur": [
+                    "بويىماق"
+                ],
+                "Kazakh": [
+                    "бояу"
+                ],
+                "Kyrgyz": [
+                    "боё"
+                ],
+                "Karakalpak": [
+                    "boyaw"
+                ],
+                "Tatar": [
+                    "буяу"
+                ],
+                "Bashkir": [
+                    "буяу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "renklendirmek"
+                ],
+                "Azerbaijani": [
+                    "rəngləmək"
+                ],
+                "Turkmen": [
+                    "reňklemek"
+                ],
+                "Uzbek": [
+                    "rang bermoq",
+                    "ranglamoq"
+                ],
+                "Uyghur": [
+                    "رەڭلىمەك",
+                    "رەڭ بەرمەك"
+                ],
+                "Kazakh": [
+                    "реңдеу"
+                ],
+                "Karakalpak": [
+                    "reńlew"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "түстеу"
+                ],
+                "Tatar": [
+                    "төс бирү"
+                ],
+                "Bashkir": [
+                    "төҫләү",
+                    "төҫ биреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өңдө"
+                ]
+            }
+        }
+    ]
+}

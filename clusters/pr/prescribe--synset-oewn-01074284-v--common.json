@@ -1,0 +1,159 @@
+{
+    "id": "synset-oewn-01074284-v",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "prescribe",
+    "en_definition": "(medicine) order the use of (a treatment, medicine, etc.), usually by written prescription",
+    "tr_word": "reçete yazmak",
+    "tr_definition": "Bir doktorun hastasına kullanması gereken ilaçları ve tedavi yöntemini yazılı olarak bildirmesi.",
+    "ru_word": "выписывать рецепт",
+    "ru_definition": "Официально назначать лекарство или лечение в письменной форме.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazmak"
+                ],
+                "Azerbaijani": [
+                    "yazmaq"
+                ],
+                "Turkmen": [
+                    "ýazmak",
+                    "ýazyp bermek"
+                ],
+                "Uzbek": [
+                    "yozib bermoq"
+                ],
+                "Uyghur": [
+                    "يېزىپ بەرمەك"
+                ],
+                "Kazakh": [
+                    "жазып беру"
+                ],
+                "Kyrgyz": [
+                    "жазып берүү"
+                ],
+                "Karakalpak": [
+                    "jazıp berio"
+                ],
+                "Tatar": [
+                    "язу"
+                ],
+                "Bashkir": [
+                    "яҙып биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buyurmak"
+                ],
+                "Azerbaijani": [
+                    "buyurmaq"
+                ],
+                "Uzbek": [
+                    "buyurmoq"
+                ],
+                "Uyghur": [
+                    "بۇيرۇماق"
+                ],
+                "Kazakh": [
+                    "бұйыру"
+                ],
+                "Kyrgyz": [
+                    "буйруу"
+                ],
+                "Karakalpak": [
+                    "buyurıo"
+                ],
+                "Bashkir": [
+                    "бойороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tayin etmek"
+                ],
+                "Azerbaijani": [
+                    "təyin etmək"
+                ],
+                "Uzbek": [
+                    "tavsiya qilmoq"
+                ],
+                "Kazakh": [
+                    "тағайындау"
+                ],
+                "Kyrgyz": [
+                    "дайындао"
+                ],
+                "Tatar": [
+                    "тәкъдим итү"
+                ],
+                "Bashkir": [
+                    "тәғәйенләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bellemek"
+                ],
+                "Karakalpak": [
+                    "belgileo"
+                ],
+                "Tatar": [
+                    "билгеләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "reçete yazmak"
+                ],
+                "Uyghur": [
+                    "رېتسېپ يازماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məsləhət görmək"
+                ],
+                "Turkmen": [
+                    "maslahat bermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нұсқау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көрсөтмө берүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кушу"
+                ]
+            }
+        }
+    ]
+}

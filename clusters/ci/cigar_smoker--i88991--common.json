@@ -1,0 +1,81 @@
+{
+    "id": "i88991",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cigar smoker",
+    "en_definition": "a smoker of cigars",
+    "tr_word": "puro içicisi",
+    "tr_definition": "puro içen kimse",
+    "ru_word": "курильщик сигар",
+    "ru_definition": "человек, который курит сигары",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "siqar çəkən",
+                    "siqarxor"
+                ],
+                "Uzbek": [
+                    "sigara chekuvchi",
+                    "sigarakash"
+                ],
+                "Uyghur": [
+                    "سىگار چېككۈچى",
+                    "سىگاركەش"
+                ],
+                "Kazakh": [
+                    "сигара шегуші",
+                    "сигара тартушы"
+                ],
+                "Tatar": [
+                    "сигара тартучы",
+                    "сигарачы"
+                ],
+                "Bashkir": [
+                    "сигара тартыусы",
+                    "сигарасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çilimkeş"
+                ],
+                "Kyrgyz": [
+                    "чылымкеш",
+                    "чылым чегүүчү"
+                ],
+                "Karakalpak": [
+                    "shılımkesh"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "temmäkikeş"
+                ],
+                "Kyrgyz": [
+                    "тамекичи"
+                ],
+                "Karakalpak": [
+                    "támpekіshі",
+                    "támpekі shegіoshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "purocu",
+                    "puro içicisi",
+                    "puro tiryakisi"
+                ]
+            }
+        }
+    ]
+}

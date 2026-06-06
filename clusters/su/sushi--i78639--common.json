@@ -1,0 +1,82 @@
+{
+    "id": "i78639",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sushi",
+    "en_definition": "rice (with raw fish) wrapped in seaweed",
+    "tr_word": "suşi",
+    "tr_definition": "Deniz yosununa sarılmış, genellikle çiğ balık içeren sirkeli pirinç yemeği.",
+    "ru_word": "суши",
+    "ru_definition": "Блюдо японской кухни из риса и морепродуктов, часто завернутых в водоросли.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "suşi"
+                ],
+                "Azerbaijani": [
+                    "suşi"
+                ],
+                "Turkmen": [
+                    "suşi"
+                ],
+                "Uzbek": [
+                    "sushi"
+                ],
+                "Uyghur": [
+                    "سۇشى"
+                ],
+                "Kazakh": [
+                    "сүши"
+                ],
+                "Kyrgyz": [
+                    "суши"
+                ],
+                "Karakalpak": [
+                    "sushi"
+                ],
+                "Tatar": [
+                    "суши"
+                ],
+                "Bashkir": [
+                    "суши"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بېلىقلىق گۈرۈچ تامىقى"
+                ],
+                "Karakalpak": [
+                    "balıqlı gúrіsh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күріш орамасы"
+                ],
+                "Kyrgyz": [
+                    "күрүчтүү балык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pirinçli balık dürümü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дөгө ризығы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "synset-oewn-92450680-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cheese knife",
+    "en_definition": "a type of kitchen knife specialized for the cutting of cheese.",
+    "tr_word": "peynir bıçağı",
+    "tr_definition": "Peynir kesmek için özel olarak tasarlanmış bir mutfak bıçağı türü.",
+    "ru_word": "нож для сыра",
+    "ru_definition": "Специализированный кухонный нож, предназначенный для нарезки сыра.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "peynir bıçağı",
+                    "peynir kesme bıçağı"
+                ],
+                "Azerbaijani": [
+                    "pendir bıçağı"
+                ],
+                "Turkmen": [
+                    "peýnir pyçagy",
+                    "peýnir kesiji"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "pishloq pichog'i",
+                    "pishloq kesgich"
+                ],
+                "Uyghur": [
+                    "پىشلاق پىچىقى",
+                    "پىشلاق كېسىش پىچىقى"
+                ],
+                "Kyrgyz": [
+                    "быштак бычак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ірімшік пышағы",
+                    "ірімшік кесетін пышақ"
+                ],
+                "Karakalpak": [
+                    "іrіmshіk pıshaq"
+                ],
+                "Bashkir": [
+                    "эремсек бысағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "сыр бычагы"
+                ],
+                "Tatar": [
+                    "сыр пычагы"
+                ],
+                "Bashkir": [
+                    "сыр бысағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sır pıshaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эремчек пычагы"
+                ]
+            }
+        }
+    ]
+}

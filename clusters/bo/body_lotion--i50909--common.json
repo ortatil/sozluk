@@ -1,0 +1,84 @@
+{
+    "id": "i50909",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "body lotion",
+    "en_definition": "lotion applied to the body after bathing",
+    "tr_word": "vücut losyonu",
+    "tr_definition": "banyodan sonra vücuda uygulanan losyon",
+    "ru_word": "лосьон для тела",
+    "ru_definition": "лосьон, наносимый на тело после купания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ten losyonu"
+                ],
+                "Uzbek": [
+                    "tan malhami"
+                ],
+                "Uyghur": [
+                    "تەن مەلھىمى"
+                ],
+                "Kazakh": [
+                    "дене майы",
+                    "дене жақпасы",
+                    "дене сусабыны"
+                ],
+                "Kyrgyz": [
+                    "дене майы",
+                    "денеге сүйкөлүүчү май",
+                    "денеге арналган май"
+                ],
+                "Karakalpak": [
+                    "dene mayı",
+                    "dene kremi",
+                    "dene maylaǵıshı"
+                ],
+                "Tatar": [
+                    "тән мае",
+                    "тән сөте",
+                    "тән өчен май"
+                ],
+                "Bashkir": [
+                    "тән майы",
+                    "тән һөртмәһе",
+                    "тән кремы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bədən losyonu",
+                    "bədən südü",
+                    "bədən kremi"
+                ],
+                "Turkmen": [
+                    "beden melhemi",
+                    "beden ýagy",
+                    "beden kremi"
+                ],
+                "Uzbek": [
+                    "badan malhami",
+                    "badan surtmasi"
+                ],
+                "Uyghur": [
+                    "بەدەن مەلھىمى",
+                    "بەدەن سۇيۇقلۇقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vücut losyonu",
+                    "vücut sütü",
+                    "vücut nemlendiricisi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "id": "i105643",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "beanstalk",
+    "en_definition": "stem of a bean plant",
+    "tr_word": "fasulye sırığı",
+    "tr_definition": "fasulye bitkisinin gövdesi",
+    "ru_word": "стебель боба",
+    "ru_definition": "стебель бобового растения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پۇرچاق غولى",
+                    "پۇرچاق سېپى",
+                    "پۇرچاق پېلىكى"
+                ],
+                "Kazakh": [
+                    "бұршақ сабағы",
+                    "бұршақ сағағы"
+                ],
+                "Kyrgyz": [
+                    "буурчак сабагы"
+                ],
+                "Tatar": [
+                    "борчак сабагы"
+                ],
+                "Bashkir": [
+                    "борсаҡ һабағы",
+                    "борсаҡ ҡолағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "lobiya gövdəsi",
+                    "lobiya saplağı",
+                    "lobiya çubuğu"
+                ],
+                "Uzbek": [
+                    "loviya poyasi"
+                ],
+                "Karakalpak": [
+                    "lowiya sabaǵı",
+                    "lowiya payası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poya",
+                    "novda"
+                ],
+                "Karakalpak": [
+                    "paya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сабак"
+                ],
+                "Bashkir": [
+                    "һабаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fasulye sapı",
+                    "fasulye sırığı",
+                    "fasulye gövdesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "noýba baldagy",
+                    "noýba poyasy",
+                    "noýba şahasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "төө буурчактын сабагы"
+                ]
+            }
+        }
+    ]
+}

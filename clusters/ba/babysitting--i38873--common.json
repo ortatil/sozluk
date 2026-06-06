@@ -1,0 +1,118 @@
+{
+    "id": "i38873",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "babysitting",
+    "en_definition": "the work of a baby sitter; caring for children when their parents are not home",
+    "tr_word": "bebek bakıcılığı",
+    "tr_definition": "Anne ve baba evde yokken çocuklara bakma işi.",
+    "ru_word": "присмотр за детьми",
+    "ru_definition": "работа няни; уход за детьми в отсутствие их родителей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bolaga qarash",
+                    "bola parvarishi"
+                ],
+                "Uyghur": [
+                    "بالا بېقىش",
+                    "بالا قاراش",
+                    "بالا پەرۋىش قىلىش"
+                ],
+                "Kazakh": [
+                    "бала күтімі",
+                    "бала бағу",
+                    "бала қарау"
+                ],
+                "Kyrgyz": [
+                    "бала багуу",
+                    "бала кароо",
+                    "бала тарбиялоо"
+                ],
+                "Karakalpak": [
+                    "bala baǵıu",
+                    "bala kútimi",
+                    "balaǵa qarau"
+                ],
+                "Tatar": [
+                    "бала карау",
+                    "бала тәрбияләү",
+                    "бала саклау"
+                ],
+                "Bashkir": [
+                    "бала ҡарау",
+                    "бала бағыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çocuk bakıcılığı",
+                    "çocuk bakımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bebek bakıcılığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uşaq baxıcılığı",
+                    "uşaq baxımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dayəlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaga seretmek",
+                    "çaga bakmak",
+                    "çaga idegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaga hossarlygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "enagalik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tarbiyachilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бала тәрбиәләү"
+                ]
+            }
+        }
+    ]
+}

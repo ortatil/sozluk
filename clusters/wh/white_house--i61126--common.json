@@ -1,0 +1,68 @@
+{
+    "id": "i61126",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "white house",
+    "en_definition": "the government building that serves as the residence and office of the President of the United States",
+    "tr_word": "Beyaz Saray",
+    "tr_definition": "Amerika Birleşik Devletleri başkanının resmi ikametgahı ve çalışma ofisi olan hükümet binası",
+    "ru_word": "Белый дом",
+    "ru_definition": "правительственное здание, служащее резиденцией и офисом президента Соединенных Штатов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Ak Saray"
+                ],
+                "Azerbaijani": [
+                    "Ağ saray"
+                ],
+                "Turkmen": [
+                    "Ak öý",
+                    "Ak saraý"
+                ],
+                "Uzbek": [
+                    "Oq uy",
+                    "Oq saroy"
+                ],
+                "Uyghur": [
+                    "ئاق ساراي",
+                    "ئاق قەسىر"
+                ],
+                "Kazakh": [
+                    "Ақ үй"
+                ],
+                "Kyrgyz": [
+                    "Ак үй",
+                    "Ак ордо"
+                ],
+                "Karakalpak": [
+                    "Aq úy"
+                ],
+                "Tatar": [
+                    "Ак йорт",
+                    "Ак сарай"
+                ],
+                "Bashkir": [
+                    "Аҡ йорт",
+                    "Аҡ һарай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Beyaz Saray"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Ağ ev"
+                ]
+            }
+        }
+    ]
+}

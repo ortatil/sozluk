@@ -1,0 +1,85 @@
+{
+    "id": "i117175",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mid-december",
+    "en_definition": "the middle part of December",
+    "tr_word": "aralık ortası",
+    "tr_definition": "Aralık ayının orta kısmı",
+    "ru_word": "середина декабря",
+    "ru_definition": "средняя часть декабря",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dekabrın ortası",
+                    "dekabrın on beşinci günü",
+                    "dekabrın orta vaxtı"
+                ],
+                "Turkmen": [
+                    "dekabryň ortasy",
+                    "dekabr aýynyň ortasy"
+                ],
+                "Uzbek": [
+                    "dekabr o'rtasi",
+                    "dekabrning o'rtasi"
+                ],
+                "Uyghur": [
+                    "دېكابىرنىڭ ئوتتۇرىلىرى"
+                ],
+                "Kyrgyz": [
+                    "декабрдын ортосу"
+                ],
+                "Tatar": [
+                    "декабрь уртасы",
+                    "декабрьнең уртасы"
+                ],
+                "Bashkir": [
+                    "декабрь уртаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "желтоқсанның ортасы",
+                    "желтоқсан ортасы"
+                ],
+                "Karakalpak": [
+                    "jeltoqsannıń ortası",
+                    "jeltoqsan ortası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aralık ortası",
+                    "aralık ayının ortası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئون ئىككىنچى ئاينىڭ ئوتتۇرىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бештин айынын ортосу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аҡъюл уртаһы"
+                ]
+            }
+        }
+    ]
+}

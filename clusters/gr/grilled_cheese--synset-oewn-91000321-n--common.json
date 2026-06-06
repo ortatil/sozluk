@@ -1,0 +1,111 @@
+{
+    "id": "synset-oewn-91000321-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "grilled cheese",
+    "en_definition": "A grilled sandwich whose principal filling is cheese",
+    "tr_word": "tost",
+    "tr_definition": "İçinde peynir bulunan ve ızgarada veya tost makinesinde pişirilen sıcak sandviç.",
+    "ru_word": "горячий бутерброд с сыром",
+    "ru_definition": "Обжаренный с двух сторон сэндвич, основной начинкой которого является расплавленный сыр.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaşarlı tost"
+                ],
+                "Uyghur": [
+                    "قىزارتىلغان پىشلاقلىق نان"
+                ],
+                "Tatar": [
+                    "кыздырылган сырлы икмәк"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырылған сырлы икмәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "peynirli tost",
+                    "sıcak peynirli sandviç"
+                ],
+                "Azerbaijani": [
+                    "pendirli tost",
+                    "pendirli qızardılmış çörək",
+                    "pendirli sendviç"
+                ],
+                "Turkmen": [
+                    "peýnirli sandwiç",
+                    "peýnirli çörek",
+                    "peýnirli tost"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "pishloqli sendvich",
+                    "pishloqli non"
+                ],
+                "Uyghur": [
+                    "پىشلاقلىق نان",
+                    "پىشلاقلىق ساندىۋىچ"
+                ],
+                "Kyrgyz": [
+                    "быштактуу нан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "сырдуу нан"
+                ],
+                "Tatar": [
+                    "сырлы сэндвич",
+                    "сырлы кайнар икмәк"
+                ],
+                "Bashkir": [
+                    "сырлы ҡыҙҙырылған сэндвич",
+                    "сырлы ҡыҙҙырылған телмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қуырылған ірімшік наны",
+                    "ірімшік қосылған қуырылған нан",
+                    "ірімшікті сэндвич"
+                ],
+                "Karakalpak": [
+                    "іrіmshіktі sendwich",
+                    "іrіmshіktі ıstıq nan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "куурулган сырдуу нан"
+                ],
+                "Karakalpak": [
+                    "quırılǵan іrіmshіktі nan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qovurilgan pishloqli non"
+                ]
+            }
+        }
+    ]
+}

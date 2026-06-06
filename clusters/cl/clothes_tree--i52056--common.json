@@ -1,0 +1,108 @@
+{
+    "id": "i52056",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "clothes tree",
+    "en_definition": "an upright pole with pegs or hooks on which to hang clothing",
+    "tr_word": "elbise askısı",
+    "tr_definition": "üzerine giysi asmak için kancaları veya mandalları olan dik duran bir direk",
+    "ru_word": "вешалка-стойка",
+    "ru_definition": "вертикальная стойка с крючками для подвешивания одежды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kiyim ilgich",
+                    "kiyim osqich"
+                ],
+                "Uyghur": [
+                    "كىيىم ئاسقۇچ",
+                    "كىيىم ئاسقۇ"
+                ],
+                "Kazakh": [
+                    "киім ілгіш"
+                ],
+                "Kyrgyz": [
+                    "кийим илгич"
+                ],
+                "Karakalpak": [
+                    "kiyim ilgish"
+                ],
+                "Tatar": [
+                    "кием элгеч"
+                ],
+                "Bashkir": [
+                    "кейем элгес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "asılqan"
+                ],
+                "Turkmen": [
+                    "asgyç",
+                    "eşik asgyç"
+                ],
+                "Uzbek": [
+                    "osqich"
+                ],
+                "Uyghur": [
+                    "ئاسقۇچ"
+                ],
+                "Kazakh": [
+                    "аспа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elbise askısı"
+                ],
+                "Tatar": [
+                    "элгеч"
+                ],
+                "Bashkir": [
+                    "элгес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ілгіш"
+                ],
+                "Kyrgyz": [
+                    "илгич"
+                ],
+                "Karakalpak": [
+                    "ilgish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "askılık",
+                    "ayaklı askı"
+                ],
+                "Tatar": [
+                    "асып куйгыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paltarasan"
+                ]
+            }
+        }
+    ]
+}

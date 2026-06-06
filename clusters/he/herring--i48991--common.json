@@ -1,0 +1,99 @@
+{
+    "id": "i48991",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "herring",
+    "en_definition": "commercially important food fish of northern waters of both Atlantic and Pacific",
+    "tr_word": "mersin balığı",
+    "tr_definition": "Atlantik ve Pasifik'in kuzey sularında bulunan, ticari açıdan önemli bir gıda balığı.",
+    "ru_word": "сельдь",
+    "ru_definition": "промысловая съедобная рыба северных вод Атлантического и Тихого океанов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "selýodka"
+                ],
+                "Uzbek": [
+                    "seld"
+                ],
+                "Kazakh": [
+                    "сельд"
+                ],
+                "Kyrgyz": [
+                    "сельд"
+                ],
+                "Karakalpak": [
+                    "seld"
+                ],
+                "Tatar": [
+                    "сильдь"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "майшабақ"
+                ],
+                "Kyrgyz": [
+                    "май балык"
+                ],
+                "Karakalpak": [
+                    "mayshabaq"
+                ],
+                "Tatar": [
+                    "май балыгы"
+                ],
+                "Bashkir": [
+                    "май балығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "siyənək",
+                    "siyənək balığı"
+                ],
+                "Bashkir": [
+                    "сөләймән балығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "balyk"
+                ],
+                "Uzbek": [
+                    "baliq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ringa",
+                    "ringa balığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سېلد بېلىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شور بېلىق"
+                ]
+            }
+        }
+    ]
+}

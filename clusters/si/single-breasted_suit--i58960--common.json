@@ -1,0 +1,86 @@
+{
+    "id": "i58960",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "single-breasted suit",
+    "en_definition": "a suit having a single-breasted jacket",
+    "tr_word": "tek düğmeli takım elbise",
+    "tr_definition": "Önü tek sıra düğmeli ceketten oluşan takım elbise.",
+    "ru_word": "однобортный костюм",
+    "ru_definition": "Костюм, пиджак которого имеет один ряд пуговиц и узкий нахлест.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bir ilikli penjek"
+                ],
+                "Kyrgyz": [
+                    "бир катар топчулуу костюм"
+                ],
+                "Karakalpak": [
+                    "bir qatar túymeli kostyum"
+                ],
+                "Tatar": [
+                    "бер яклы костюм",
+                    "бер рәт төймәле костюм"
+                ],
+                "Bashkir": [
+                    "бер бортлы костюм",
+                    "бер рәт төймәле костюм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bir hatar ilikli kostýum"
+                ],
+                "Uzbek": [
+                    "bir tugmali kostyum"
+                ],
+                "Uyghur": [
+                    "بىر قاتار تۈگمىلىك كاستيۇم"
+                ],
+                "Kazakh": [
+                    "бір қатарлы костюм",
+                    "бір түймелі костюм"
+                ],
+                "Kyrgyz": [
+                    "бир топчулуу костюм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tek düğmeli takım elbise",
+                    "tek sıra düğmeli takım"
+                ],
+                "Azerbaijani": [
+                    "təkdüyməli kostyum",
+                    "təksıralı kostyum"
+                ],
+                "Uyghur": [
+                    "تاق تۈگمىلىك كاستيۇم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bir qatorli kostyum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jalǵız túymelі kostyum"
+                ]
+            }
+        }
+    ]
+}

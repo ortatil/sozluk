@@ -1,0 +1,224 @@
+# Valentine
+| Field | Detail |
+|---|---|
+| **ID** | i71312 |
+| **English** | valentine |
+| **Type** | noun |
+| **Definition** | a card sent or given (as to a sweetheart) on Saint Valentine's Day |
+| **Source** | common |
+| **Ortatil** | täbriknämä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **täbriknämä** | **säläm** | **hat** |
+|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ |
+| Turkmen | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ❌ | ✅ | ✅ |
+| Kyrgyz | ❌ | ❌ | ❌ |
+| Karakalpak | ❌ | ❌ | ❌ |
+| Tatar | ❌ | ✅ | ✅ |
+| Bashkir | ❌ | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 0 | 0 |
+| *Qipchaq Subtotal* | 0 | 0.60 | 0.60 |
+| *In All* |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **1.33** | **0.60** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەبرىكنامە | täbriknamä |
+| **Kazakh** | |
+| сәлемхат | sälemxat |
+| хат | xat |
+| **Tatar** | |
+| котлау | kotlau |
+| сәлам | sälam |
+| хат | xat |
+| язу | yazu |
+| **Bashkir** | |
+| асылма | asılma |
+| сәләм | säläm |
+| хат | xat |
+| бүләк | büläk |
+
+```json
+{
+    "id": "i71312",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "valentine",
+    "en_definition": "a card sent or given (as to a sweetheart) on Saint Valentine's Day",
+    "tr_word": "sevgililer günü kartı",
+    "tr_definition": "Sevgililer Günü'nde birine (genellikle bir sevgiliye) gönderilen veya verilen tebrik kartı.",
+    "ru_word": "валентинка",
+    "ru_definition": "Открытка, посылаемая или даримая (обычно возлюбленному или возлюбленной) в День святого Валентина.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gutlag haty"
+                ],
+                "Kazakh": [
+                    "құттықтау хат"
+                ],
+                "Kyrgyz": [
+                    "куттуктоо баракчасы"
+                ],
+                "Karakalpak": [
+                    "qutlıqlao qaǵazı"
+                ],
+                "Tatar": [
+                    "котлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tebrik kartı"
+                ],
+                "Azerbaijani": [
+                    "təbrik"
+                ],
+                "Uzbek": [
+                    "tabriknoma"
+                ],
+                "Uyghur": [
+                    "تەبرىكنامە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məktub"
+                ],
+                "Uzbek": [
+                    "muhabbatnomah",
+                    "maktub"
+                ],
+                "Karakalpak": [
+                    "maxabbat xatı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söýgi haty",
+                    "söýgi buşlugy"
+                ],
+                "Kyrgyz": [
+                    "сүйүү каты"
+                ],
+                "Karakalpak": [
+                    "súyіspenshіlіk xatı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ishqnomah"
+                ],
+                "Uyghur": [
+                    "ئاشىق-مەشۇقلار تەبرىكنامىسى"
+                ],
+                "Bashkir": [
+                    "асылма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сәлемхат"
+                ],
+                "Tatar": [
+                    "сәлам"
+                ],
+                "Bashkir": [
+                    "сәләм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "хат"
+                ],
+                "Tatar": [
+                    "хат"
+                ],
+                "Bashkir": [
+                    "хат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sevgililer günü kartı",
+                    "kutlama kartı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "namə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vərəqə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇھەببەت خېتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ачык кат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "язу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бүләк"
+                ]
+            }
+        }
+    ]
+}
+```
+

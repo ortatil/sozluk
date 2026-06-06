@@ -1,0 +1,126 @@
+{
+    "id": "i34174",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "remarry",
+    "en_definition": "marry, not for the first time",
+    "tr_word": "tekrar evlenmek",
+    "tr_definition": "ilk kez olmayacak şekilde yeniden evlilik yapmak",
+    "ru_word": "повторно вступить в брак",
+    "ru_definition": "жениться или выйти замуж еще раз, не в первый раз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ikinci kez evlenmek"
+                ],
+                "Azerbaijani": [
+                    "ikinci dəfə evlənmək"
+                ],
+                "Uzbek": [
+                    "ikkinchi bor uylanmoq",
+                    "ikkinchi bor turmushga chiqmoq"
+                ],
+                "Kazakh": [
+                    "екінші рет некелесу"
+                ],
+                "Kyrgyz": [
+                    "экинчи ирет баш кошуу"
+                ],
+                "Bashkir": [
+                    "икенсе тапҡыр никахлашыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan öýlenmek",
+                    "gaýtadan durmuş gurmak"
+                ],
+                "Uzbek": [
+                    "qayta uylanmoq",
+                    "qayta turmush qurmoq"
+                ],
+                "Uyghur": [
+                    "قايتا توي قىلماق",
+                    "قايتا نىكاھلانماق"
+                ],
+                "Kazakh": [
+                    "қайта үйлену",
+                    "қайта тұрмысқа шығу"
+                ],
+                "Kyrgyz": [
+                    "кайра үйлөнүү",
+                    "кайра турмушка чыгуу"
+                ],
+                "Karakalpak": [
+                    "qayta úylenio",
+                    "qayta turmısqa shıǵıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden evlenmek"
+                ],
+                "Azerbaijani": [
+                    "yenidən evlənmək"
+                ],
+                "Uyghur": [
+                    "يېڭىدىن ئۆيلەنمەك",
+                    "يېڭىدىن ياتلىق بولماق"
+                ],
+                "Tatar": [
+                    "яңадан өйләнү",
+                    "яңадан кияүгә чыгу"
+                ],
+                "Bashkir": [
+                    "яңынан өйләнеү",
+                    "яңынан кейәүгә сығыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekrar evlenmek"
+                ],
+                "Azerbaijani": [
+                    "təkrar evlənmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат никахлашу",
+                    "кабат өйләнү"
+                ],
+                "Bashkir": [
+                    "ҡабаттан өйләнеү",
+                    "ҡабаттан кейәүгә сығыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzeden öýlenmek",
+                    "täzeden durmuş gurmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bas qosıo"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "id": "i19569",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "financially",
+    "en_definition": "from a financial point of view",
+    "tr_word": "mali açıdan",
+    "tr_definition": "finansal bir bakış açısıyla",
+    "ru_word": "финансово",
+    "ru_definition": "с финансовой точки зрения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mali açıdan",
+                    "maddi olarak"
+                ],
+                "Azerbaijani": [
+                    "maliyyəcə",
+                    "maliyyə baxımından",
+                    "maliyyə cəhətdən"
+                ],
+                "Turkmen": [
+                    "maliýe taýdan"
+                ],
+                "Uzbek": [
+                    "moliyaviy",
+                    "moliya jihatidan"
+                ],
+                "Uyghur": [
+                    "مالىيە جەھەتتىن",
+                    "مالىيەۋى"
+                ],
+                "Kazakh": [
+                    "мүліктік"
+                ],
+                "Karakalpak": [
+                    "maliy",
+                    "maliyatlay"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "iqtisadi cəhətdən"
+                ],
+                "Turkmen": [
+                    "ykdysady taýdan"
+                ],
+                "Uzbek": [
+                    "iqtisodiy"
+                ],
+                "Uyghur": [
+                    "ئىقتىسادىي جەھەتتىن"
+                ],
+                "Tatar": [
+                    "икътисади яктан"
+                ],
+                "Bashkir": [
+                    "иҡтисади яҡтан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "maddy taýdan"
+                ],
+                "Kazakh": [
+                    "материалдық тұрғыдан"
+                ],
+                "Kyrgyz": [
+                    "материалдык жактан"
+                ],
+                "Tatar": [
+                    "матди яктан"
+                ],
+                "Bashkir": [
+                    "матди яҡтан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қаржылай",
+                    "қаржы жағынан"
+                ],
+                "Kyrgyz": [
+                    "каржылык жактан",
+                    "каржылай"
+                ],
+                "Karakalpak": [
+                    "qarjılay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ekonomik yönden"
+                ],
+                "Kyrgyz": [
+                    "экономикалык жактан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "финанс ягыннан"
+                ],
+                "Bashkir": [
+                    "финанс яғынан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "parasal olarak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mablag' jihatidan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "акчалата"
+                ]
+            }
+        }
+    ]
+}

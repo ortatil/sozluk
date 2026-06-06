@@ -1,0 +1,104 @@
+{
+    "id": "i48330",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cashmere goat",
+    "en_definition": "Himalayan goat having a silky undercoat highly prized as cashmere wool",
+    "tr_word": "Keşmir keçisi",
+    "tr_definition": "Kaşmir yünü olarak bilinen, ipeksi alt kürkü için yetiştirilen bir Himalaya keçisi türü.",
+    "ru_word": "кашемировая коза",
+    "ru_definition": "Гималайская коза с шелковистым подшерстком, который высоко ценится как кашемировая шерсть.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Keşmir keçisi"
+                ],
+                "Azerbaijani": [
+                    "keşmir keçisi"
+                ],
+                "Turkmen": [
+                    "kaşmir geçisi"
+                ],
+                "Uzbek": [
+                    "kashmir echkisi"
+                ],
+                "Kyrgyz": [
+                    "пашми тоо эчкиси",
+                    "кашмир эчкиси"
+                ],
+                "Tatar": [
+                    "кәшмир кәҗәсе"
+                ],
+                "Bashkir": [
+                    "кәшмир кәзәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Tiftik keçisi"
+                ],
+                "Azerbaijani": [
+                    "tiftik keçisi"
+                ],
+                "Uzbek": [
+                    "tivit echkisi",
+                    "tivitli echki"
+                ],
+                "Uyghur": [
+                    "تىۋىتلىق ئۆچكە",
+                    "تىۋىت ئۆچكىسى"
+                ],
+                "Kazakh": [
+                    "түбіт ешкі",
+                    "түбітті ешкі"
+                ],
+                "Karakalpak": [
+                    "tıbıt eshkі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pamyk geçisi"
+                ],
+                "Tatar": [
+                    "мамык кәҗәсе"
+                ],
+                "Bashkir": [
+                    "мамыҡ кәзәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ангор ешкісі"
+                ],
+                "Karakalpak": [
+                    "angor eshkіsі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tüýli geçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жүн эчки"
+                ]
+            }
+        }
+    ]
+}

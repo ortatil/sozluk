@@ -1,0 +1,85 @@
+{
+    "id": "i80919",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "family court",
+    "en_definition": "a court in some states in the United States that has jurisdiction over family disputes (especially those involving children)",
+    "tr_word": "aile mahkemesi",
+    "tr_definition": "Aile hukukundan doğan uyuşmazlıkları ve özellikle çocukları ilgilendiren davaları karara bağlayan ihtisas mahkemesi.",
+    "ru_word": "суд по семейным делам",
+    "ru_definition": "Суд, обладающий юрисдикцией в отношении семейных споров, особенно тех, которые касаются детей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aile mahkemesi"
+                ],
+                "Azerbaijani": [
+                    "ailə məhkəməsi",
+                    "ailə işləri üzrə məhkəmə"
+                ],
+                "Uzbek": [
+                    "oila sudi",
+                    "oilaviy sud"
+                ],
+                "Uyghur": [
+                    "ئائىلە سوت مەھكىمىسى",
+                    "ئائىلە سوتى"
+                ],
+                "Tatar": [
+                    "гаилә суды",
+                    "гаилә эшләре суды"
+                ],
+                "Bashkir": [
+                    "ғаилә суды",
+                    "ғаилә эштәре суды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maşgala kazyýeti",
+                    "maşgala sudy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отбасылық сот"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жанұя соты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үй-бүлөлүк сот",
+                    "үй-бүлө соту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shańaraq sudı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ayırım sudı"
+                ]
+            }
+        }
+    ]
+}

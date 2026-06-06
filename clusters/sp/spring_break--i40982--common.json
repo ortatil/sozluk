@@ -1,0 +1,80 @@
+{
+    "id": "i40982",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spring break",
+    "en_definition": "a week or more of recess during the spring term at school",
+    "tr_word": "bahar tatili",
+    "tr_definition": "Okullarda bahar döneminde verilen bir haftalık veya daha uzun süreli ara.",
+    "ru_word": "весенние каникулы",
+    "ru_definition": "Недельный или более длительный перерыв в занятиях в течение весеннего семестра в учебных заведениях.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bahar tatili",
+                    "bahar fasılası"
+                ],
+                "Azerbaijani": [
+                    "bahar tətili"
+                ],
+                "Turkmen": [
+                    "bahar dynç alyşy",
+                    "bahar tatili"
+                ],
+                "Uzbek": [
+                    "bahorgi ta'til",
+                    "bahorgi tanaffus"
+                ],
+                "Uyghur": [
+                    "باھارلىق تەتىل",
+                    "باھار تەتىلى"
+                ],
+                "Karakalpak": [
+                    "báһárgi dem alıs",
+                    "báһárgi kanikul"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýazky dynç alyş"
+                ],
+                "Kyrgyz": [
+                    "жазгы тыныгуу",
+                    "жазгы эс алуу"
+                ],
+                "Tatar": [
+                    "язгы каникул",
+                    "язгы тәнәфес",
+                    "язгы ял"
+                ],
+                "Bashkir": [
+                    "яҙғы каникул",
+                    "яҙғы ял"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ara tatil"
+                ],
+                "Azerbaijani": [
+                    "yaz tətili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көктемгі демалыс",
+                    "көктемгі үзіліс"
+                ]
+            }
+        }
+    ]
+}

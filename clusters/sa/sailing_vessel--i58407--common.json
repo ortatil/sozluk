@@ -1,0 +1,104 @@
+{
+    "id": "i58407",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sailing vessel",
+    "en_definition": "a vessel that is powered by the wind; often having several masts",
+    "tr_word": "yelkenli gemi",
+    "tr_definition": "Rüzgar gücüyle hareket eden, genellikle birden fazla direği olan deniz taşıtı.",
+    "ru_word": "парусное судно",
+    "ru_definition": "судно, приводимое в движение силой ветра и обычно имеющее несколько мачт.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yelkenli"
+                ],
+                "Azerbaijani": [
+                    "yelkənli gəmi",
+                    "yelkənli"
+                ],
+                "Turkmen": [
+                    "ýelkenli gämi",
+                    "ýelkenli"
+                ],
+                "Uzbek": [
+                    "yelkanli kema",
+                    "yelkanli"
+                ],
+                "Uyghur": [
+                    "يەلكەنلىك كېمە",
+                    "يەلكەنلىك پاراخوت"
+                ],
+                "Kazakh": [
+                    "желкенді кеме",
+                    "желкенді қайық"
+                ],
+                "Kyrgyz": [
+                    "желкендүү кеме"
+                ],
+                "Karakalpak": [
+                    "jelkenli keme",
+                    "jelkenli qayıq"
+                ],
+                "Tatar": [
+                    "җилкәнле көймә",
+                    "җилкәнле кораб",
+                    "җилкәнле савыт"
+                ],
+                "Bashkir": [
+                    "елкәнле карап",
+                    "елкәнле кәмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gemi"
+                ],
+                "Turkmen": [
+                    "gämi"
+                ],
+                "Uyghur": [
+                    "كېمە"
+                ],
+                "Kazakh": [
+                    "кеме"
+                ],
+                "Kyrgyz": [
+                    "кеме"
+                ],
+                "Karakalpak": [
+                    "keme"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sefine"
+                ],
+                "Azerbaijani": [
+                    "səfinə"
+                ],
+                "Uzbek": [
+                    "safina"
+                ],
+                "Bashkir": [
+                    "сәфәр карабы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayık"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "id": "i92758",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "schoolfriend",
+    "en_definition": "a friend who attends the same school",
+    "tr_word": "okul arkadaşı",
+    "tr_definition": "Aynı okula giden veya gitmiş olan arkadaş.",
+    "ru_word": "школьный друг",
+    "ru_definition": "Друг, с которым человек вместе учится или учился в школе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mektep arkadaşı"
+                ],
+                "Azerbaijani": [
+                    "məktəb yoldaşı"
+                ],
+                "Turkmen": [
+                    "mekdepdeş"
+                ],
+                "Uzbek": [
+                    "maktabdosh"
+                ],
+                "Uyghur": [
+                    "مەكتەپداش"
+                ],
+                "Kazakh": [
+                    "мектептес"
+                ],
+                "Kyrgyz": [
+                    "мектептеш"
+                ],
+                "Karakalpak": [
+                    "mekteples"
+                ],
+                "Tatar": [
+                    "мәктәптәш"
+                ],
+                "Bashkir": [
+                    "мәктәптәш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınıf arkadaşı"
+                ],
+                "Azerbaijani": [
+                    "sinif yoldaşı"
+                ],
+                "Turkmen": [
+                    "synpdaş"
+                ],
+                "Uzbek": [
+                    "sinfdosh"
+                ],
+                "Kazakh": [
+                    "сыныптас"
+                ],
+                "Tatar": [
+                    "сыйныфташ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "saboqdosh"
+                ],
+                "Uyghur": [
+                    "ساۋاقداش"
+                ],
+                "Kazakh": [
+                    "сабақтас"
+                ],
+                "Karakalpak": [
+                    "sabaqlas"
+                ],
+                "Tatar": [
+                    "сабакташ"
+                ],
+                "Bashkir": [
+                    "сабаҡташ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "okul arkadaşı"
+                ],
+                "Turkmen": [
+                    "okuwdaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "классташ",
+                    "курсташ"
+                ],
+                "Bashkir": [
+                    "класташ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dərs yoldaşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "partalas"
+                ]
+            }
+        }
+    ]
+}

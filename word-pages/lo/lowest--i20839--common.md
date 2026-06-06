@@ -1,0 +1,183 @@
+# Lowest
+| Field | Detail |
+|---|---|
+| **ID** | i20839 |
+| **English** | lowest |
+| **Type** | adverb |
+| **Definition** | in the lowest position; nearest the ground |
+| **Source** | common |
+| **Ortatil** | ḍüyptä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍüyptä** | **tömen** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.60 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **2.73** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تۆۋەندە | tövändä |
+| **Kazakh** | |
+| төмен | tömen |
+| төменде | tömende |
+| төменгі | tömengi |
+| **Kyrgyz** | |
+| төмөн | tömön |
+| төмөнкү | tömönkü |
+| ылдый | ıldıy |
+| **Tatar** | |
+| түбәнрәк | tübänräk |
+| **Bashkir** | |
+| түбән | tübän |
+| аҫта | asta |
+
+```json
+{
+    "id": "i20839",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "lowest",
+    "en_definition": "in the lowest position; nearest the ground",
+    "tr_word": "en aşağıda",
+    "tr_definition": "en alt konumda; yere en yakın şekilde",
+    "ru_word": "ниже всего",
+    "ru_definition": "в самом низком положении; ближе всего к земле",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "en altta",
+                    "en aşağıda",
+                    "en dipte"
+                ],
+                "Azerbaijani": [
+                    "ən aşağıda",
+                    "ən dibdə",
+                    "ən altda"
+                ],
+                "Turkmen": [
+                    "iň aşakda",
+                    "iň aşaky"
+                ],
+                "Uyghur": [
+                    "ئەڭ ئاستىدا"
+                ],
+                "Kazakh": [
+                    "ең төмен"
+                ],
+                "Karakalpak": [
+                    "eń tómen"
+                ],
+                "Tatar": [
+                    "иң аста"
+                ],
+                "Bashkir": [
+                    "иң түбән",
+                    "иң аҫта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "düýpde"
+                ],
+                "Uzbek": [
+                    "tubda"
+                ],
+                "Uyghur": [
+                    "تۆۋەندە"
+                ],
+                "Tatar": [
+                    "түбәнрәк"
+                ],
+                "Bashkir": [
+                    "түбән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئەڭ تۆۋەن"
+                ],
+                "Kyrgyz": [
+                    "эң төмөн"
+                ],
+                "Tatar": [
+                    "иң түбән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "төмен",
+                    "төменде",
+                    "төменгі"
+                ],
+                "Kyrgyz": [
+                    "төмөн",
+                    "төмөнкү"
+                ],
+                "Karakalpak": [
+                    "tómende",
+                    "tómengі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iň pesde"
+                ],
+                "Uzbek": [
+                    "eng pastda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "eng quyida"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ылдый"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аҫта"
+                ]
+            }
+        }
+    ]
+}
+```
+

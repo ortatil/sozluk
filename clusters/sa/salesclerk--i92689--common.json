@@ -1,0 +1,134 @@
+{
+    "id": "i92689",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "salesclerk",
+    "en_definition": "a salesperson in a store",
+    "tr_word": "tezgahtar",
+    "tr_definition": "Mağazada müşterilerle ilgilenen ve satış yapan görevli.",
+    "ru_word": "продавец",
+    "ru_definition": "Работник магазина, отпускающий товар покупателям.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satıcı"
+                ],
+                "Azerbaijani": [
+                    "satıcı"
+                ],
+                "Turkmen": [
+                    "satyjy"
+                ],
+                "Uzbek": [
+                    "sotuvchi"
+                ],
+                "Uyghur": [
+                    "سېتىقچى"
+                ],
+                "Kazakh": [
+                    "сатушы"
+                ],
+                "Kyrgyz": [
+                    "сатуучу"
+                ],
+                "Karakalpak": [
+                    "satıoshı"
+                ],
+                "Tatar": [
+                    "сатучы"
+                ],
+                "Bashkir": [
+                    "һатыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dükançy"
+                ],
+                "Uyghur": [
+                    "دۇكانچى"
+                ],
+                "Kazakh": [
+                    "дүкенші"
+                ],
+                "Karakalpak": [
+                    "dúkánshi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "savdogar"
+                ],
+                "Kazakh": [
+                    "саудагер"
+                ],
+                "Kyrgyz": [
+                    "соодагер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tezgahtar"
+                ],
+                "Azerbaijani": [
+                    "tezgahdar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mağaza görevlisi"
+                ],
+                "Azerbaijani": [
+                    "mağazaçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kasiyer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "peshtaxtachi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سودىگەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәэминче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "биреүсе"
+                ]
+            }
+        }
+    ]
+}

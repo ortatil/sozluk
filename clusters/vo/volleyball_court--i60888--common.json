@@ -1,0 +1,75 @@
+{
+    "id": "i60888",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "volleyball court",
+    "en_definition": "the court on which volleyball is played",
+    "tr_word": "voleybol sahası",
+    "tr_definition": "voleybol oyununun oynandığı, belirli ölçülere sahip alan",
+    "ru_word": "волейбольная площадка",
+    "ru_definition": "специально размеченная площадка для игры в волейбол",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "voleybol sahası",
+                    "voleybol alanı"
+                ],
+                "Azerbaijani": [
+                    "voleybol meydançası",
+                    "voleybol meydanı"
+                ],
+                "Turkmen": [
+                    "wolleýbol meýdançasy"
+                ],
+                "Uzbek": [
+                    "voleybol maydonchasi",
+                    "voleybol maydoni"
+                ],
+                "Uyghur": [
+                    "ۋولېيبول مەيدانى"
+                ],
+                "Kazakh": [
+                    "волейбол алаңы",
+                    "волейбол алаңқайы"
+                ],
+                "Kyrgyz": [
+                    "волейбол аянтчасы",
+                    "волейбол талаасы"
+                ],
+                "Karakalpak": [
+                    "woleybol maydanshası",
+                    "woleybol maydanı"
+                ],
+                "Tatar": [
+                    "волейбол мәйданчыгы"
+                ],
+                "Bashkir": [
+                    "волейбол майҙансығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "oýun meýdançasy"
+                ],
+                "Tatar": [
+                    "уен мәйданы"
+                ],
+                "Bashkir": [
+                    "уйын майҙаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توردوپ مەيدانى"
+                ]
+            }
+        }
+    ]
+}

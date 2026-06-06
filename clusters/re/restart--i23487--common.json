@@ -1,0 +1,126 @@
+{
+    "id": "i23487",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "restart",
+    "en_definition": "take up or begin anew",
+    "tr_word": "yeniden başlatmak",
+    "tr_definition": "bir şeyi durduktan sonra tekrar başlatmak veya yeni baştan ele almak",
+    "ru_word": "перезапускать",
+    "ru_definition": "начать или возобновить что-либо заново",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden başlatmak",
+                    "yinelemek"
+                ],
+                "Azerbaijani": [
+                    "yenidən başlamaq",
+                    "yeniləmək"
+                ],
+                "Uzbek": [
+                    "yangidan boshlamoq"
+                ],
+                "Uyghur": [
+                    "يېڭىدىن باشلىماق"
+                ],
+                "Kazakh": [
+                    "жаңарту"
+                ],
+                "Kyrgyz": [
+                    "жаңылоо",
+                    "жаңыдан баштоо"
+                ],
+                "Karakalpak": [
+                    "jańadan baslau"
+                ],
+                "Tatar": [
+                    "яңадан башлау",
+                    "яңарту"
+                ],
+                "Bashkir": [
+                    "яңынан башлау",
+                    "яңыртыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan başlamak"
+                ],
+                "Uzbek": [
+                    "qaytadan boshlamoq"
+                ],
+                "Uyghur": [
+                    "قايتا باشلىماق"
+                ],
+                "Kazakh": [
+                    "қайта бастау",
+                    "қайта жаңғырту"
+                ],
+                "Kyrgyz": [
+                    "кайра баштоо",
+                    "кайрадан баштоо"
+                ],
+                "Karakalpak": [
+                    "qayta baslau"
+                ],
+                "Bashkir": [
+                    "ҡабаттан башлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekrarlamak"
+                ],
+                "Uzbek": [
+                    "tiklamoq",
+                    "takrorlamoq"
+                ],
+                "Uyghur": [
+                    "تەكرارلىماق"
+                ],
+                "Karakalpak": [
+                    "tákirarlao"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tazelemek"
+                ],
+                "Azerbaijani": [
+                    "təzələmək",
+                    "təzədən başlamaq"
+                ],
+                "Turkmen": [
+                    "täzeden başlamak",
+                    "täzelemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түлету"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат башлау"
+                ]
+            }
+        }
+    ]
+}

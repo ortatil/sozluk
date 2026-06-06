@@ -1,0 +1,97 @@
+{
+    "id": "i109610",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "southwest",
+    "en_definition": "the compass point midway between south and west; at 225 degrees",
+    "tr_word": "güneybatı",
+    "tr_definition": "güney ile batı arasındaki yön; 225 derecelik pusula noktası",
+    "ru_word": "юго-запад",
+    "ru_definition": "точка компаса, находящаяся посередине между югом и западом; на 225 градусах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cenubugarbi"
+                ],
+                "Azerbaijani": [
+                    "cənub-qərb"
+                ],
+                "Uzbek": [
+                    "janubi-g'arb"
+                ],
+                "Uyghur": [
+                    "جەنۇبىي غەرب"
+                ],
+                "Tatar": [
+                    "җәнүби-гарыб"
+                ],
+                "Bashkir": [
+                    "йәнүби-ғәрби"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qubla-g'arb"
+                ],
+                "Uyghur": [
+                    "قۇبلە غەرب"
+                ],
+                "Kazakh": [
+                    "құбыла-батыс"
+                ],
+                "Karakalpak": [
+                    "qubla-batıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güneybatı"
+                ],
+                "Azerbaijani": [
+                    "günbatan-qiblə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оңтүстік-батыс"
+                ],
+                "Karakalpak": [
+                    "ońtústіk-batıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көньяк-көнбатыш"
+                ],
+                "Bashkir": [
+                    "көньяҡ-көнбайыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "günorta-günbatar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түштүк-батыш"
+                ]
+            }
+        }
+    ]
+}

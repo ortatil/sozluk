@@ -1,0 +1,100 @@
+{
+    "id": "i116987",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "arrival time",
+    "en_definition": "the time at which a public conveyance is scheduled to arrive at a given destination",
+    "tr_word": "varış saati",
+    "tr_definition": "bir toplu taşıma aracının belirli bir varış noktasına ulaşmasının planlandığı zaman",
+    "ru_word": "время прибытия",
+    "ru_definition": "время, в которое общественный транспорт должен прибыть в пункт назначения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gelme zamanı"
+                ],
+                "Azerbaijani": [
+                    "gəliş vaxtı"
+                ],
+                "Turkmen": [
+                    "geljek wagty",
+                    "gelýän wagty",
+                    "gelmeli wagty"
+                ],
+                "Uzbek": [
+                    "kelish vaqti"
+                ],
+                "Uyghur": [
+                    "كېلىش ۋاقتى"
+                ],
+                "Kazakh": [
+                    "келу уақыты",
+                    "келу мерзімі"
+                ],
+                "Kyrgyz": [
+                    "келүү убактысы",
+                    "келүү мөөнөтү",
+                    "келүү сааты"
+                ],
+                "Karakalpak": [
+                    "kelio oaqtı",
+                    "kelio zamanı"
+                ],
+                "Tatar": [
+                    "килү вакыты"
+                ],
+                "Bashkir": [
+                    "килеү ваҡыты",
+                    "килеп етеү ваҡыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çatma vaxtı"
+                ],
+                "Uzbek": [
+                    "yetib kelish vaqti"
+                ],
+                "Uyghur": [
+                    "يېتىپ كېلىش ۋاقتى"
+                ],
+                "Kazakh": [
+                    "жету уақыты"
+                ],
+                "Tatar": [
+                    "җитү вакыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "varış saati",
+                    "varış vakti"
+                ],
+                "Azerbaijani": [
+                    "vürud vaxtı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muvasalat vakti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tashrif vaqti"
+                ]
+            }
+        }
+    ]
+}

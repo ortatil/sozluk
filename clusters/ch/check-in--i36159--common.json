@@ -1,0 +1,145 @@
+{
+    "id": "i36159",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "check-in",
+    "en_definition": "the act of reporting your presence (as at an airport or a hotel)",
+    "tr_word": "kayıt",
+    "tr_definition": "Havalimanı veya otel gibi yerlere varışta yapılan giriş işlemi.",
+    "ru_word": "регистрация",
+    "ru_definition": "Процедура оформления прибытия (например, в аэропорту или гостинице).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тіркелу",
+                    "тіркеу"
+                ],
+                "Kyrgyz": [
+                    "тиркелүү"
+                ],
+                "Tatar": [
+                    "теркәлү"
+                ],
+                "Bashkir": [
+                    "теркәлеү",
+                    "теркәү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kayıt"
+                ],
+                "Azerbaijani": [
+                    "qeydiyyat"
+                ],
+                "Uzbek": [
+                    "qayd",
+                    "qayd etish"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "giriş kaydı"
+                ],
+                "Azerbaijani": [
+                    "giriş"
+                ],
+                "Uyghur": [
+                    "كىرىش تىزىمى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tescil"
+                ],
+                "Uyghur": [
+                    "تىزىملىتىش",
+                    "تىزىمغا ئالدۇرۇش"
+                ],
+                "Karakalpak": [
+                    "dizimge alınıo",
+                    "dizimnen ótio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "есепке тұру"
+                ],
+                "Tatar": [
+                    "язылу"
+                ],
+                "Bashkir": [
+                    "яҙылыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hasaba alyş",
+                    "hasaba durmak"
+                ],
+                "Tatar": [
+                    "хисапка басу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "başvuru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəbul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bellige alyş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "roʻyxatdan oʻtish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каттоо",
+                    "катталуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kelgenin bildirio"
+                ]
+            }
+        }
+    ]
+}

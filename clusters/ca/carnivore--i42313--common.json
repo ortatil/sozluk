@@ -1,0 +1,100 @@
+{
+    "id": "i42313",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "carnivore",
+    "en_definition": "any animal that feeds on flesh",
+    "tr_word": "etçil",
+    "tr_definition": "besin olarak yalnızca veya çoğunlukla et tüketen canlı",
+    "ru_word": "плотоядное",
+    "ru_definition": "животное, питающееся преимущественно мясом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yırtıcı"
+                ],
+                "Azerbaijani": [
+                    "yırtıcı"
+                ],
+                "Turkmen": [
+                    "ýyrtyjy"
+                ],
+                "Uzbek": [
+                    "yirtqich"
+                ],
+                "Uyghur": [
+                    "يىرتقۇچ"
+                ],
+                "Kazakh": [
+                    "жыртқыш"
+                ],
+                "Kyrgyz": [
+                    "жырткыч"
+                ],
+                "Karakalpak": [
+                    "jırtqısh"
+                ],
+                "Tatar": [
+                    "ерткыч"
+                ],
+                "Bashkir": [
+                    "йыртҡыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "etçil",
+                    "etobur"
+                ],
+                "Azerbaijani": [
+                    "ətçil",
+                    "ətyeyən"
+                ],
+                "Turkmen": [
+                    "etçil"
+                ],
+                "Kazakh": [
+                    "ет жегіш"
+                ],
+                "Kyrgyz": [
+                    "эт жегич"
+                ],
+                "Tatar": [
+                    "ит ашаучы",
+                    "итчел"
+                ],
+                "Bashkir": [
+                    "ит ашаусы",
+                    "итсел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "go'shtxo'r"
+                ],
+                "Uyghur": [
+                    "گۆشخور ھايۋان",
+                    "گۆشخور"
+                ],
+                "Karakalpak": [
+                    "góshxor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "етқоректі"
+                ]
+            }
+        }
+    ]
+}

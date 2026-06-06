@@ -1,0 +1,241 @@
+# Stand guard
+| Field | Detail |
+|---|---|
+| **ID** | i33998 |
+| **English** | stand guard |
+| **Type** | verb |
+| **Definition** | watch over so as to protect |
+| **Source** | common |
+| **Ortatil** | ḳüzätmäk, qorumaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḳüzätmäk** | **qorumaq** | **saqlimäk** |
+|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ |
+| Azerbaijani | ❌ | ✅ | ❌ |
+| Turkmen | ❌ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ✅ |
+| Kazakh | ✅ | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ❌ | ✅ |
+| Bashkir | ✅ | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 0.60 | 1 |
+| *In All* | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **3.33** | **3.10** | **1.50** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كۆزەتمەك | közätmäk |
+| ساقلىماق | saqlimaq |
+| **Kazakh** | |
+| күзету | küzetu |
+| қорғау | qorğau |
+| сақтау | saqtau |
+| **Kyrgyz** | |
+| күзөтүү | küzötüü |
+| сактоо | saktoo |
+| кайтаруу | kaytaruu |
+| **Tatar** | |
+| күзәтү | küzätü |
+| саклау | saklau |
+| каравыллау | karavıllau |
+| **Bashkir** | |
+| көҙәтеү | közäteü |
+| ҡарауыллау | qarauıllau |
+| һаҡлау | haqlau |
+
+```json
+{
+    "id": "i33998",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "stand guard",
+    "en_definition": "watch over so as to protect",
+    "tr_word": "nöbet tutmak",
+    "tr_definition": "korumak amacıyla gözetlemek veya beklemek",
+    "ru_word": "стоять на страже",
+    "ru_definition": "охранять или наблюдать с целью защиты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gözetlemek"
+                ],
+                "Azerbaijani": [
+                    "gözətçilik etmək"
+                ],
+                "Turkmen": [
+                    "gözegçilik etmek"
+                ],
+                "Uzbek": [
+                    "kuzatmoq"
+                ],
+                "Uyghur": [
+                    "كۆزەتمەك"
+                ],
+                "Kazakh": [
+                    "күзету",
+                    "күзетте тұру"
+                ],
+                "Kyrgyz": [
+                    "күзөтүү",
+                    "күзөттө туруу"
+                ],
+                "Karakalpak": [
+                    "kúzetіu",
+                    "kúzette turıo"
+                ],
+                "Tatar": [
+                    "күзәтү"
+                ],
+                "Bashkir": [
+                    "көҙәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "korumak"
+                ],
+                "Azerbaijani": [
+                    "qorumaq"
+                ],
+                "Turkmen": [
+                    "goramak"
+                ],
+                "Uzbek": [
+                    "qo'riqlamoq"
+                ],
+                "Kazakh": [
+                    "қорғау"
+                ],
+                "Karakalpak": [
+                    "qarao"
+                ],
+                "Bashkir": [
+                    "ҡарауыллау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sakçylyk etmek"
+                ],
+                "Uyghur": [
+                    "ساقلىماق"
+                ],
+                "Kazakh": [
+                    "сақтау"
+                ],
+                "Kyrgyz": [
+                    "сактоо"
+                ],
+                "Karakalpak": [
+                    "saqlao"
+                ],
+                "Tatar": [
+                    "саклау"
+                ],
+                "Bashkir": [
+                    "һаҡлау",
+                    "һаҡта тороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mühafizə etmək"
+                ],
+                "Uzbek": [
+                    "muhofaza qilmoq"
+                ],
+                "Uyghur": [
+                    "مۇھاپىزەت قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "garawul durmak"
+                ],
+                "Uyghur": [
+                    "قاراۋۇللۇق قىلماق"
+                ],
+                "Tatar": [
+                    "каравыллау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "posbonlik qilmoq"
+                ],
+                "Uyghur": [
+                    "پاسبانلىق قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nöbet tutmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beklemek",
+                    "bekçilik etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "keşik çəkmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəzarət etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poylamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кайтаруу"
+                ]
+            }
+        }
+    ]
+}
+```
+

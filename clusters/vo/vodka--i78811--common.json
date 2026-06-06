@@ -1,0 +1,107 @@
+{
+    "id": "i78811",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vodka",
+    "en_definition": "unaged colorless liquor originating in Russia",
+    "tr_word": "votka",
+    "tr_definition": "Rusya menşeli, renksiz ve dinlendirilmemiş sert alkollü içki",
+    "ru_word": "водка",
+    "ru_definition": "крепкий алкогольный напиток, представляющий собой смесь очищенного этилового спирта с водой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak rakı"
+                ],
+                "Azerbaijani": [
+                    "araq"
+                ],
+                "Turkmen": [
+                    "arak"
+                ],
+                "Uzbek": [
+                    "aroq"
+                ],
+                "Uyghur": [
+                    "ھاراق"
+                ],
+                "Kazakh": [
+                    "арақ"
+                ],
+                "Kyrgyz": [
+                    "арак"
+                ],
+                "Karakalpak": [
+                    "araq"
+                ],
+                "Tatar": [
+                    "аракы"
+                ],
+                "Bashkir": [
+                    "араҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ak arak"
+                ],
+                "Uyghur": [
+                    "ئاق ھاراق"
+                ],
+                "Kazakh": [
+                    "ақ арақ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ichkilik"
+                ],
+                "Kyrgyz": [
+                    "ичимдик"
+                ],
+                "Karakalpak": [
+                    "ishimlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәмер"
+                ],
+                "Bashkir": [
+                    "хәмер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "votka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "badi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "may"
+                ]
+            }
+        }
+    ]
+}

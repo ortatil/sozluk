@@ -1,0 +1,91 @@
+{
+    "id": "i89326",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "crown princess",
+    "en_definition": "a female heir apparent to a throne",
+    "tr_word": "veliaht prenses",
+    "tr_definition": "bir tahtın kadın varisi",
+    "ru_word": "кронпринцесса",
+    "ru_definition": "наследница престола",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "veliaht prenses",
+                    "veliaht hanım",
+                    "veliaht"
+                ],
+                "Azerbaijani": [
+                    "vəliəhd şahzadə",
+                    "vəliəhd xanım"
+                ],
+                "Turkmen": [
+                    "weliat hanym"
+                ],
+                "Uzbek": [
+                    "valiahd malika",
+                    "valiahda"
+                ],
+                "Uyghur": [
+                    "ۋەلىئەھد مەلىكە"
+                ],
+                "Kazakh": [
+                    "уәлиахд"
+                ],
+                "Karakalpak": [
+                    "ualiyat xansha"
+                ],
+                "Tatar": [
+                    "вәлиәһед"
+                ],
+                "Bashkir": [
+                    "вәлиәһед"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تەخت ۋارىسى مەلىكە"
+                ],
+                "Kazakh": [
+                    "тақ мұрагері"
+                ],
+                "Tatar": [
+                    "тәхет вәрисе"
+                ],
+                "Bashkir": [
+                    "тәхет вәриҫе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mirasdüşer hanym",
+                    "mirasdüşer şahzada"
+                ],
+                "Kyrgyz": [
+                    "мураскер каншайым",
+                    "мураскер каныша",
+                    "мураскер бийкеч"
+                ],
+                "Karakalpak": [
+                    "miyrasxor xansha",
+                    "miyrasxor biyke"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұрагер ханшайым"
+                ]
+            }
+        }
+    ]
+}

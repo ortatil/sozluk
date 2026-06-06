@@ -1,0 +1,105 @@
+{
+    "id": "i38622",
+    "type": "unknown",
+    "batch": "common",
+    "en_word": "interior design",
+    "en_definition": "the trade of planning the layout and furnishings of an architectural interior",
+    "tr_word": "iç mimarlık",
+    "tr_definition": "bir mimari yapının iç mekanlarının düzenlenmesi ve döşenmesi sanatı veya mesleği",
+    "ru_word": "дизайн интерьера",
+    "ru_definition": "отрасль дизайна, направленная на интерьер помещений с целью обеспечить удобство и эстетически приятное взаимодействие среды с людьми",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iç mimari",
+                    "iç tasarım"
+                ],
+                "Azerbaijani": [
+                    "iç dizayn",
+                    "iç memarlıq"
+                ],
+                "Turkmen": [
+                    "içki bezeg",
+                    "içki dizaýn",
+                    "içki gurluş",
+                    "içki tertip"
+                ],
+                "Uzbek": [
+                    "ichki bezak",
+                    "ichki tartib",
+                    "ichki oroyish",
+                    "ichki dizayn"
+                ],
+                "Uyghur": [
+                    "ئىچكى بېزەكچىلىك",
+                    "ئىچكى لايىھە"
+                ],
+                "Kazakh": [
+                    "ішкі көрініс",
+                    "ішкі безендіру",
+                    "ішкі әрлеу",
+                    "ішкі жабдықтау"
+                ],
+                "Kyrgyz": [
+                    "ички жасалга",
+                    "ички жасалгалоо",
+                    "ички көркөмдөө"
+                ],
+                "Karakalpak": [
+                    "ishki jasau",
+                    "ishki bezeu",
+                    "ishki kórinis",
+                    "ishki jasalǵı"
+                ],
+                "Tatar": [
+                    "эчке бизәлеш",
+                    "эчке төзелеш"
+                ],
+                "Bashkir": [
+                    "эске биҙәү",
+                    "эске йыһазландырыу",
+                    "эске төҙөлөш",
+                    "эске биҙәлеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iç düzenleme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mekân tasarımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "daxili tərtibat",
+                    "daxili bəzək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆي بېزەش سەنئىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бизәү сәнгате"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "id": "i116633",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "trial period",
+    "en_definition": "a period of time during which someone or something is tested",
+    "tr_word": "deneme süresi",
+    "tr_definition": "bir kişinin veya bir şeyin test edildiği zaman dilimi",
+    "ru_word": "испытательный срок",
+    "ru_definition": "период времени, в течение которого кто-то или что-то подвергается проверке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınama süresi"
+                ],
+                "Azerbaijani": [
+                    "sınaq müddəti"
+                ],
+                "Turkmen": [
+                    "synag möhleti"
+                ],
+                "Uzbek": [
+                    "sinov muddati",
+                    "sinov davri"
+                ],
+                "Uyghur": [
+                    "سىناق مۇددىتى",
+                    "سىناق ۋاقتى"
+                ],
+                "Kazakh": [
+                    "сынақ мерзімі",
+                    "сынау кезеңі"
+                ],
+                "Kyrgyz": [
+                    "сыноо мөөнөтү",
+                    "сыноо убактысы"
+                ],
+                "Karakalpak": [
+                    "sınaq múddeti",
+                    "sınaq dáoiri",
+                    "sınaq oaqtı"
+                ],
+                "Tatar": [
+                    "сынау мөддәте",
+                    "сынау вакыты"
+                ],
+                "Bashkir": [
+                    "һынау мөҙҙәте",
+                    "һынау ваҡыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tecrübe müddeti"
+                ],
+                "Azerbaijani": [
+                    "təcrübə müddəti"
+                ],
+                "Turkmen": [
+                    "tejribe möhleti"
+                ],
+                "Uzbek": [
+                    "tajriba muddati"
+                ],
+                "Uyghur": [
+                    "تەجرىبە مۇددىتى"
+                ],
+                "Kyrgyz": [
+                    "тажрыйба мөөнөтү"
+                ],
+                "Tatar": [
+                    "тәҗрибә мөддәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "barlag möhleti"
+                ],
+                "Kazakh": [
+                    "байқау уақыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deneme süresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yoxlama dövrü"
+                ]
+            }
+        }
+    ]
+}

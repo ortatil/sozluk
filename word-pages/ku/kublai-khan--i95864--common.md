@@ -1,0 +1,87 @@
+# Kublai khan
+| Field | Detail |
+|---|---|
+| **ID** | i95864 |
+| **English** | kublai khan |
+| **Type** | noun |
+| **Definition** | Mongolian emperor of China and grandson of Genghis Khan who completed his grandfather's conquest of China; he establish the Yuan dynasty and built a great capital on the site of modern Beijing where he received Marco Polo (1216-1294) |
+| **Source** | common |
+| **Ortatil** | hubülayhan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i95864",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "kublai khan",
+    "en_definition": "Mongolian emperor of China and grandson of Genghis Khan who completed his grandfather's conquest of China; he establish the Yuan dynasty and built a great capital on the site of modern Beijing where he received Marco Polo (1216-1294)",
+    "tr_word": "Kubilay Han",
+    "tr_definition": "Cengiz Han'ın torunu, Çin'deki Yuan Hanedanlığı'nın kurucusu ve Moğol İmparatorluğu'nun beşinci kağanı.",
+    "ru_word": "Хубилай",
+    "ru_definition": "Монгольский хан, внук Чингисхана, основатель династии Юань в Китае, при котором империя достигла своего расцвета.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Kubilay Han",
+                    "Kubilay Kağan"
+                ],
+                "Azerbaijani": [
+                    "Xubilay xan",
+                    "Qubilay xan",
+                    "Xubilay qağan"
+                ],
+                "Turkmen": [
+                    "Hubyla han",
+                    "Kubla han",
+                    "Hubyla kagan"
+                ],
+                "Uzbek": [
+                    "Xubilayxon",
+                    "Qubiloy qoon",
+                    "Qubiloyxon"
+                ],
+                "Uyghur": [
+                    "قۇبلاي خان",
+                    "قۇبلاي قاغان"
+                ],
+                "Kazakh": [
+                    "Құбылай хан",
+                    "Құбылай қаған"
+                ],
+                "Kyrgyz": [
+                    "Кублай хан",
+                    "Хубилай хан",
+                    "Кубылай хан"
+                ],
+                "Karakalpak": [
+                    "Qubılay xan",
+                    "Qұbılay xan"
+                ],
+                "Tatar": [
+                    "Хубилай хан",
+                    "Хубилай каган"
+                ],
+                "Bashkir": [
+                    "Ҡобилай ҡаған",
+                    "Ҡобилай хан",
+                    "Хубилай ҡаған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Колай хан"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,90 @@
+{
+    "id": "i5641",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "footed",
+    "en_definition": "having feet",
+    "tr_word": "ayaklı",
+    "tr_definition": "ayağı olan, ayakları bulunan",
+    "ru_word": "ногастый",
+    "ru_definition": "имеющий ноги или определенное количество ног",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayaklı",
+                    "ayak sahibi"
+                ],
+                "Azerbaijani": [
+                    "ayaqlı",
+                    "ayağı olan"
+                ],
+                "Turkmen": [
+                    "aýakly"
+                ],
+                "Uzbek": [
+                    "oyoqli"
+                ],
+                "Kazakh": [
+                    "аяқты"
+                ],
+                "Kyrgyz": [
+                    "аяктуу"
+                ],
+                "Karakalpak": [
+                    "ayaqlı"
+                ],
+                "Tatar": [
+                    "аяклы",
+                    "аяклы-куллы"
+                ],
+                "Bashkir": [
+                    "аяҡлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "paly"
+                ],
+                "Karakalpak": [
+                    "páyli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇتلۇق",
+                    "پۇتلىرى بار"
+                ],
+                "Kyrgyz": [
+                    "буттуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poydor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сирақты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәпәйле"
+                ]
+            }
+        }
+    ]
+}

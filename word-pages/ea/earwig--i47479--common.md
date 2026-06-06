@@ -1,0 +1,124 @@
+# Earwig
+| Field | Detail |
+|---|---|
+| **ID** | i47479 |
+| **English** | earwig |
+| **Type** | noun |
+| **Definition** | any of numerous insects of the order Dermaptera having elongate bodies and slender many-jointed antennae and a pair of large pincers at the rear of the abdomen |
+| **Source** | common |
+| **Ortatil** | qulaqçi |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qulaqçi** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قۇلاقچى | qulaqçi |
+| **Kazakh** | |
+| құлақкесті | qulaqkesti |
+| құлақкіргіш | qulaqkirgiş |
+| **Tatar** | |
+| колакчын | kolakçın |
+| **Bashkir** | |
+| ҡолаҡҡаса | qolaqqasa |
+
+```json
+{
+    "id": "i47479",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "earwig",
+    "en_definition": "any of numerous insects of the order Dermaptera having elongate bodies and slender many-jointed antennae and a pair of large pincers at the rear of the abdomen",
+    "tr_word": "kulağakaçan",
+    "tr_definition": "Dermaptera takımından, vücudu uzunca, karnının sonunda kıskaçları olan bir böcek türü.",
+    "ru_word": "уховёртка",
+    "ru_definition": "насекомое отряда кожистокрылых с удлиненным телом и парой клещей на задней части брюшка.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kulağakaçan"
+                ],
+                "Azerbaijani": [
+                    "qulağagirən",
+                    "qulağagirən böcək"
+                ],
+                "Turkmen": [
+                    "gulakçy",
+                    "gulakgirer"
+                ],
+                "Uzbek": [
+                    "quloqkirar",
+                    "quloqchi"
+                ],
+                "Uyghur": [
+                    "قۇلاقچى",
+                    "قۇلاق چىشلەيدىغان ھاشارات"
+                ],
+                "Kazakh": [
+                    "құлақкесті",
+                    "құлақкіргіш"
+                ],
+                "Kyrgyz": [
+                    "кулак кести",
+                    "кулак киргич"
+                ],
+                "Karakalpak": [
+                    "qulaqkeser"
+                ],
+                "Tatar": [
+                    "колакчын",
+                    "колак ашаучы"
+                ],
+                "Bashkir": [
+                    "ҡолаҡҡаса",
+                    "ҡолаҡҡа кергес",
+                    "ҡолаҡҡа кермә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çatal kuyruk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çəngəlquyruq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shayanquyrıq"
+                ]
+            }
+        }
+    ]
+}
+```
+

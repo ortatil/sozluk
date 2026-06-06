@@ -1,0 +1,113 @@
+{
+    "id": "i3099",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "conditional",
+    "en_definition": "imposing or depending on or containing a condition",
+    "tr_word": "koşullu",
+    "tr_definition": "bir şarta veya koşula bağlı olan",
+    "ru_word": "условный",
+    "ru_definition": "зависящий от какого-либо условия или содержащий его",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şartlı"
+                ],
+                "Azerbaijani": [
+                    "şərti"
+                ],
+                "Turkmen": [
+                    "şertli"
+                ],
+                "Uzbek": [
+                    "shartli"
+                ],
+                "Uyghur": [
+                    "شەرتلىك",
+                    "شەرت قىلىنغان"
+                ],
+                "Kazakh": [
+                    "шартты",
+                    "шартталған"
+                ],
+                "Kyrgyz": [
+                    "шарттуу",
+                    "шартталган"
+                ],
+                "Karakalpak": [
+                    "shártli",
+                    "shártle"
+                ],
+                "Tatar": [
+                    "шартлы"
+                ],
+                "Bashkir": [
+                    "шартлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bağlı"
+                ],
+                "Turkmen": [
+                    "bagly"
+                ],
+                "Uzbek": [
+                    "bog'liq"
+                ],
+                "Uyghur": [
+                    "باغلىنىشلىق"
+                ],
+                "Kyrgyz": [
+                    "байланыштуу"
+                ],
+                "Tatar": [
+                    "бәйле"
+                ],
+                "Bashkir": [
+                    "бәйле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koşullu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meşrut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "asılı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muayyan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "міндетті"
+                ]
+            }
+        }
+    ]
+}

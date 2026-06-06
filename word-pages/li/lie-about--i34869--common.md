@@ -1,0 +1,255 @@
+# Lie about
+| Field | Detail |
+|---|---|
+| **ID** | i34869 |
+| **English** | lie about |
+| **Type** | verb |
+| **Definition** | hang around idly |
+| **Source** | common |
+| **Ortatil** | qañğırmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қаңғыру | qañğıru |
+| ерігу | yerigu |
+| **Kyrgyz** | |
+| тентирөө | tentiröö |
+| сандалуу | sandaluu |
+| кыдыруу | kıdıruu |
+| **Bashkir** | |
+| һөйрәлеү | höyräleü |
+| ятыу | yatıu |
+
+```json
+{
+    "id": "i34869",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "lie about",
+    "en_definition": "hang around idly",
+    "tr_word": "aylak aylak dolaşmak",
+    "tr_definition": "boş boş vakit geçirmek, hiçbir şey yapmadan etrafta dolanmak",
+    "ru_word": "слоняться без дела",
+    "ru_definition": "проводить время в праздности, бродить без определенной цели",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boş gezmek"
+                ],
+                "Azerbaijani": [
+                    "boş-boş gəzmək"
+                ],
+                "Kazakh": [
+                    "бос жүру",
+                    "бос сенделу"
+                ],
+                "Kyrgyz": [
+                    "бош жүрүү"
+                ],
+                "Karakalpak": [
+                    "bos júrio"
+                ],
+                "Tatar": [
+                    "буш йөрү"
+                ],
+                "Bashkir": [
+                    "буш йөрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bekar gəzmək",
+                    "veylənmək"
+                ],
+                "Uzbek": [
+                    "bekorchilik qilmoq"
+                ],
+                "Uyghur": [
+                    "بىكار يۈرمەك"
+                ],
+                "Kazakh": [
+                    "бекер жүру"
+                ],
+                "Kyrgyz": [
+                    "бекер жүрүү"
+                ],
+                "Karakalpak": [
+                    "beker júrio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "avarelik etmek"
+                ],
+                "Azerbaijani": [
+                    "avaralanmaq"
+                ],
+                "Karakalpak": [
+                    "ayaq súyrep júrio"
+                ],
+                "Tatar": [
+                    "аунап яту"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tentiramoq"
+                ],
+                "Uyghur": [
+                    "تەنتەكلىك قىلماق"
+                ],
+                "Kyrgyz": [
+                    "тентирөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aylaklık etmek"
+                ],
+                "Uzbek": [
+                    "aylanib yurmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sürtmek"
+                ],
+                "Azerbaijani": [
+                    "sürünmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kaňkamak"
+                ],
+                "Kazakh": [
+                    "қаңғыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sergezdan bolmak"
+                ],
+                "Uyghur": [
+                    "سەرسان بولماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sang'imoq"
+                ],
+                "Kyrgyz": [
+                    "сандалуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىشسىز يۈرمەك"
+                ],
+                "Tatar": [
+                    "эшсез йөрү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ерігу"
+                ],
+                "Karakalpak": [
+                    "ernigip júrio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тик йөрү"
+                ],
+                "Bashkir": [
+                    "тик йөрөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yayılmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "selpemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gezmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "loqaydlik qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыдыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һөйрәлеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ятыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

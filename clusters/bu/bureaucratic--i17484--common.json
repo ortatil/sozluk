@@ -1,0 +1,158 @@
+{
+    "id": "i17484",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "bureaucratic",
+    "en_definition": "of or relating to or resembling a bureaucrat or bureaucracy",
+    "tr_word": "bürokratik",
+    "tr_definition": "bürokrasi ile ilgili veya bürokrasiye özgü olan",
+    "ru_word": "бюрократический",
+    "ru_definition": "относящийся к бюрократии или бюрократам, характерный для них",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "төрешіл"
+                ],
+                "Kyrgyz": [
+                    "төрөчүл",
+                    "төрөчүлүк"
+                ],
+                "Karakalpak": [
+                    "tóreshil",
+                    "tóreshillik"
+                ],
+                "Tatar": [
+                    "түрәләрчә",
+                    "түрәлек"
+                ],
+                "Bashkir": [
+                    "түрәләрчә",
+                    "түрәлек",
+                    "түрә-ҡараларса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "idari"
+                ],
+                "Turkmen": [
+                    "edara-gurluş"
+                ],
+                "Uzbek": [
+                    "idoraviy"
+                ],
+                "Uyghur": [
+                    "ئىدارىۋازلىق",
+                    "ئىدارىۋازچە",
+                    "ئىدارە-ئورگانغا خاس"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кеңсешіл"
+                ],
+                "Kyrgyz": [
+                    "кеңсечил",
+                    "кеңсечилик"
+                ],
+                "Karakalpak": [
+                    "keńseshilik"
+                ],
+                "Bashkir": [
+                    "кәнсәләр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bürokratik"
+                ],
+                "Azerbaijani": [
+                    "bürokratik"
+                ],
+                "Uyghur": [
+                    "بيۇروكراتلىق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "resmi"
+                ],
+                "Turkmen": [
+                    "resmiýetçi"
+                ],
+                "Uzbek": [
+                    "rasmiyatchilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məmur"
+                ],
+                "Uzbek": [
+                    "ma'muriy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "diwan"
+                ],
+                "Uzbek": [
+                    "devoniy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kırtasiyeci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəftərxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kagyzy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әкімшіл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "канцелярия"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+# Betrayal
+| Field | Detail |
+|---|---|
+| **ID** | i39376 |
+| **English** | betrayal |
+| **Type** | noun |
+| **Definition** | an act of deliberate betrayal |
+| **Source** | common |
+| **Ortatil** | hıyanat |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **hıyanat** | **satqınlıq** | **wäfasızlıq** | **opasızlıq** |
+|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ✅ | ✅ | ❌ |
+| Kazakh | ✅ | ✅ | ❌ | ✅ |
+| Kyrgyz | ✅ | ✅ | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 0 | 0.67 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 1 | 1 | 0 | 0.60 |
+| *In All* | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |
+| **O'TQ** | **4** | **2** | **1.17** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| خىيانەت | xiyanät |
+| ساتقۇنلۇق | satqunluq |
+| ۋاپاسىزلىق | vapasizliq |
+| خائىنلىق | xainliq |
+| **Kazakh** | |
+| қиянат | qiyanat |
+| сатқындық | satqındıq |
+| опасыздық | opasızdıq |
+| **Kyrgyz** | |
+| кыянаттык | kıyanattık |
+| саткындык | satkındık |
+| опасыздык | opasızdık |
+| чыккынчылык | çıkkınçılık |
+| **Tatar** | |
+| хыянәт | xıyanät |
+| сатлыклык | satlıklık |
+| алдау | aldau |
+| **Bashkir** | |
+| хыянат | xıyanat |
+| хыянатсылыҡ | xıyanatsılıq |
+| сатлыҡ | satlıq |
+| алдау | aldau |
+
+```json
+{
+    "id": "i39376",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "betrayal",
+    "en_definition": "an act of deliberate betrayal",
+    "tr_word": "ihanet",
+    "tr_definition": "Birine veya bir şeye karşı duyulan güveni kötüye kullanma, sadakatsizlik.",
+    "ru_word": "предательство",
+    "ru_definition": "Нарушение верности кому-либо или неисполнение долга перед кем-либо.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ihanet",
+                    "hıyanet"
+                ],
+                "Azerbaijani": [
+                    "xəyanət"
+                ],
+                "Turkmen": [
+                    "hyýanat"
+                ],
+                "Uzbek": [
+                    "xiyonat"
+                ],
+                "Uyghur": [
+                    "خىيانەت"
+                ],
+                "Kazakh": [
+                    "қиянат"
+                ],
+                "Kyrgyz": [
+                    "кыянаттык"
+                ],
+                "Karakalpak": [
+                    "xıyanat"
+                ],
+                "Tatar": [
+                    "хыянәт"
+                ],
+                "Bashkir": [
+                    "хыянат",
+                    "хыянатсылыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sotqinlik"
+                ],
+                "Uyghur": [
+                    "ساتقۇنلۇق"
+                ],
+                "Kazakh": [
+                    "сатқындық"
+                ],
+                "Kyrgyz": [
+                    "саткындык"
+                ],
+                "Karakalpak": [
+                    "satqınlıq"
+                ],
+                "Tatar": [
+                    "сатлыклык"
+                ],
+                "Bashkir": [
+                    "сатлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vefasızlık"
+                ],
+                "Azerbaijani": [
+                    "vəfasızlıq"
+                ],
+                "Uyghur": [
+                    "ۋاپاسىزلىق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "опасыздық"
+                ],
+                "Kyrgyz": [
+                    "опасыздык"
+                ],
+                "Karakalpak": [
+                    "opasızlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dönüklük"
+                ],
+                "Turkmen": [
+                    "dönüklik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "biwepalyk"
+                ],
+                "Uzbek": [
+                    "bevafolik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "алдау"
+                ],
+                "Bashkir": [
+                    "алдау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kahpelik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mekirlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خائىنلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чыккынчылык"
+                ]
+            }
+        }
+    ]
+}
+```
+

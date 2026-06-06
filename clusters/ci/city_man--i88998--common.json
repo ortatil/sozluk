@@ -1,0 +1,125 @@
+{
+    "id": "i88998",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "city man",
+    "en_definition": "a financier who works in one of the banks in the City of London",
+    "tr_word": "Londra borsacısı",
+    "tr_definition": "Londra'nın finans merkezi olan 'City' bölgesindeki bankalarda çalışan finansçı veya banker.",
+    "ru_word": "сити-мэн",
+    "ru_definition": "финансист или банкир, работающий в лондонском Сити.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bankacı",
+                    "finansçı"
+                ],
+                "Azerbaijani": [
+                    "bankir"
+                ],
+                "Turkmen": [
+                    "bankir"
+                ],
+                "Uzbek": [
+                    "bankir"
+                ],
+                "Uyghur": [
+                    "بانكىچى"
+                ],
+                "Kazakh": [
+                    "банк қызметкері",
+                    "банкир"
+                ],
+                "Kyrgyz": [
+                    "банкир",
+                    "байгер"
+                ],
+                "Karakalpak": [
+                    "bank xızmetkeri",
+                    "bankir"
+                ],
+                "Tatar": [
+                    "финансчы",
+                    "банкчы"
+                ],
+                "Bashkir": [
+                    "финансист",
+                    "банк хеҙмәткәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarraf"
+                ],
+                "Azerbaijani": [
+                    "sərmayədar"
+                ],
+                "Turkmen": [
+                    "sermayedary"
+                ],
+                "Uzbek": [
+                    "sarrof"
+                ],
+                "Uyghur": [
+                    "سەرمايىدار"
+                ],
+                "Tatar": [
+                    "сарраф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "maliyyəçi"
+                ],
+                "Turkmen": [
+                    "maliýeçi"
+                ],
+                "Uzbek": [
+                    "moliyachi"
+                ],
+                "Uyghur": [
+                    "مالىيىچى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қаржыгер"
+                ],
+                "Kyrgyz": [
+                    "каржыгер"
+                ],
+                "Karakalpak": [
+                    "qarjıger"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "акча белгече"
+                ],
+                "Bashkir": [
+                    "аҡса белгесе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "borsacı"
+                ]
+            }
+        }
+    ]
+}

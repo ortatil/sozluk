@@ -1,0 +1,164 @@
+# Scampi
+| Field | Detail |
+|---|---|
+| **ID** | i78618 |
+| **English** | scampi |
+| **Type** | noun |
+| **Definition** | large shrimp sauteed in oil or butter and garlic |
+| **Source** | common |
+| **Ortatil** | krewetkä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **krewetkä** | **şayan** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0 | 0.60 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **1.50** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| шаян | şayan |
+| асшаян | asşayan |
+| **Kyrgyz** | |
+| шаян | şayan |
+| асшаян | asşayan |
+| **Bashkir** | |
+| ҡыҫала | qısala |
+
+```json
+{
+    "id": "i78618",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "scampi",
+    "en_definition": "large shrimp sauteed in oil or butter and garlic",
+    "tr_word": "karides tava",
+    "tr_definition": "Sarımsaklı tereyağı veya yağda sotelenmiş iri karides yemeği.",
+    "ru_word": "скампи",
+    "ru_definition": "Крупные креветки, обжаренные в масле с чесноком.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz böceği"
+                ],
+                "Azerbaijani": [
+                    "dəniz xərçəngi"
+                ],
+                "Turkmen": [
+                    "deňiz leňňeji"
+                ],
+                "Uzbek": [
+                    "dengiz qisqichbaqasi"
+                ],
+                "Uyghur": [
+                    "دېڭىز راكى"
+                ],
+                "Karakalpak": [
+                    "teńiz shayanı"
+                ],
+                "Tatar": [
+                    "диңгез кысласы"
+                ],
+                "Bashkir": [
+                    "диңгеҙ ҡыҫалаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karides"
+                ],
+                "Azerbaijani": [
+                    "krevet"
+                ],
+                "Turkmen": [
+                    "krewetka"
+                ],
+                "Uzbek": [
+                    "krevetka"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iri karides"
+                ],
+                "Azerbaijani": [
+                    "iri krevet"
+                ],
+                "Tatar": [
+                    "зур креветка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шаян"
+                ],
+                "Kyrgyz": [
+                    "шаян"
+                ],
+                "Karakalpak": [
+                    "shayan",
+                    "shayansha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "асшаян"
+                ],
+                "Kyrgyz": [
+                    "асшаян"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ راك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قورۇلغان راك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡыҫала"
+                ]
+            }
+        }
+    ]
+}
+```
+

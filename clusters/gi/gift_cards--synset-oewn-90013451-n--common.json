@@ -1,0 +1,100 @@
+{
+    "id": "synset-oewn-90013451-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gift cards",
+    "en_definition": "A card with store credit given as a gift",
+    "tr_word": "hediye kartları",
+    "tr_definition": "Hediye olarak verilen ve içinde mağaza kredisi bulunan kart",
+    "ru_word": "подарочные карты",
+    "ru_definition": "Карта с определенным денежным номиналом, предназначенная для оплаты товаров или услуг в магазинах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hediye kartı",
+                    "hediye çeki"
+                ],
+                "Azerbaijani": [
+                    "hədiyyə kartı",
+                    "hədiyyə talonu",
+                    "hədiyyə vəsiqəsi"
+                ],
+                "Uzbek": [
+                    "hadya kartasi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sowgat kartasy"
+                ],
+                "Uyghur": [
+                    "سوۋغات كارتىسى",
+                    "سوۋغاتلىق كارتا"
+                ],
+                "Karakalpak": [
+                    "saoǵa kartası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sovg'a kartasi"
+                ],
+                "Kazakh": [
+                    "сыйлық картасы",
+                    "сыйлық куәлігі",
+                    "сыйлық сертификаты"
+                ],
+                "Karakalpak": [
+                    "sıylıq kartası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "белек картасы",
+                    "белек талону",
+                    "белек күбөлүгү"
+                ],
+                "Tatar": [
+                    "бүләк картасы",
+                    "бүләк таныклыгы"
+                ],
+                "Bashkir": [
+                    "бүләк сертификаты",
+                    "бүләк картаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alışveriş kartı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "peşgeş kartasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuhfa kartasi"
+                ]
+            }
+        }
+    ]
+}

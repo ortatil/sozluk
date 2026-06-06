@@ -1,0 +1,71 @@
+{
+    "id": "i82641",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "afghanistan",
+    "en_definition": "a mountainous landlocked country in central Asia; bordered by Iran to the west and Russia to the north and Pakistan to the east and south",
+    "tr_word": "Afganistan",
+    "tr_definition": "Orta Asya'da, batıda İran, kuzeyde Türkmenistan, Özbekistan ve Tacikistan, doğuda ve güneyde Pakistan ile çevrili, denize kıyısı olmayan dağlık bir ülke.",
+    "ru_word": "Афганистан",
+    "ru_definition": "Горная страна в Центральной Азии, не имеющая выхода к морю; граничит с Ираном на западе, Пакистаном на востоке и юге, а также с Туркменистаном, Узбекистаном и Таджикистаном на севере.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Afganistan",
+                    "Afganistan İslam Emirliği",
+                    "Afganistan Devleti"
+                ],
+                "Azerbaijani": [
+                    "Əfqanıstan",
+                    "Əfqanıstan İslam Əmirliyi"
+                ],
+                "Uzbek": [
+                    "Afgʻoniston",
+                    "Afgʻoniston Islom Amirligi"
+                ],
+                "Uyghur": [
+                    "ئافغانىستان",
+                    "ئافغانىستان ئىسلام ئەمىرلىكى"
+                ],
+                "Kyrgyz": [
+                    "Афганистан"
+                ],
+                "Tatar": [
+                    "Әфганстан",
+                    "Әфганистан"
+                ],
+                "Bashkir": [
+                    "Афғанстан",
+                    "Афғанстан Ислам Әмирлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Owganystan",
+                    "Owgan"
+                ],
+                "Kazakh": [
+                    "Ауғанстан",
+                    "Ауған елі",
+                    "Ауған"
+                ],
+                "Karakalpak": [
+                    "Aoǵanstan",
+                    "Aoǵan eli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Ооганстан"
+                ]
+            }
+        }
+    ]
+}

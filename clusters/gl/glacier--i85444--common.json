@@ -1,0 +1,93 @@
+{
+    "id": "i85444",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "glacier",
+    "en_definition": "a slowly moving mass of ice",
+    "tr_word": "buzul",
+    "tr_definition": "yavaş hareket eden büyük buz kütlesi",
+    "ru_word": "ледник",
+    "ru_definition": "медленно движущаяся масса льда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buzul"
+                ],
+                "Azerbaijani": [
+                    "buzlaq",
+                    "buzluq"
+                ],
+                "Turkmen": [
+                    "buzluk"
+                ],
+                "Uzbek": [
+                    "muzloq"
+                ],
+                "Uyghur": [
+                    "مۇزلۇق",
+                    "مۇزتاغ"
+                ],
+                "Kazakh": [
+                    "мұздық",
+                    "мұзтау"
+                ],
+                "Kyrgyz": [
+                    "муздук"
+                ],
+                "Karakalpak": [
+                    "muzlıq"
+                ],
+                "Tatar": [
+                    "бозлык"
+                ],
+                "Bashkir": [
+                    "боҙлоҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "мөңгү"
+                ],
+                "Karakalpak": [
+                    "móńgúú"
+                ],
+                "Bashkir": [
+                    "мәңгелек боҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yalamık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "doňaklyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muzlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "боз тавы"
+                ]
+            }
+        }
+    ]
+}

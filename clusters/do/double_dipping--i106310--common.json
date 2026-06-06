@@ -1,0 +1,96 @@
+{
+    "id": "i106310",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "double dipping",
+    "en_definition": "two incomes received from the same source (as by holding a government job and receiving a government pension)",
+    "tr_word": "çifte maaş alma",
+    "tr_definition": "Aynı kaynaktan (örneğin hem devlet memurluğu yapıp hem de devlet emekli maaşı alarak) iki ayrı gelir elde etme durumu.",
+    "ru_word": "получение двойного дохода",
+    "ru_definition": "Получение двух доходов из одного и того же источника (например, работа на государственной службе при одновременном получении государственной пенсии).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki maaşlılık"
+                ],
+                "Azerbaijani": [
+                    "ikiqat gəlir",
+                    "iki yerdən qazanc"
+                ],
+                "Turkmen": [
+                    "iki taraplaýyn peýda"
+                ],
+                "Uzbek": [
+                    "ikki tomonlama daromad",
+                    "ikkiyoqlama foyda"
+                ],
+                "Kazakh": [
+                    "екі жақты кіріс"
+                ],
+                "Karakalpak": [
+                    "ekі jaqlı payda"
+                ],
+                "Tatar": [
+                    "икеләтә керем",
+                    "икеләтә файда",
+                    "ике яклы табыш"
+                ],
+                "Bashkir": [
+                    "икеләтә килем",
+                    "икеләтә табыш",
+                    "икеләтә файҙа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşa maaş"
+                ],
+                "Turkmen": [
+                    "goşa girdeji",
+                    "goşa hak"
+                ],
+                "Uzbek": [
+                    "qoʻshma maosh"
+                ],
+                "Uyghur": [
+                    "قوش مائاش",
+                    "قوش كىرىم",
+                    "قوش تەمىنات"
+                ],
+                "Kazakh": [
+                    "қосарланған табыс",
+                    "қосарлы жалақы"
+                ],
+                "Kyrgyz": [
+                    "кош киреше",
+                    "кош айлык",
+                    "кош төлөм"
+                ],
+                "Karakalpak": [
+                    "qosarlı dárimet",
+                    "qosarlı tabıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çifte maaş",
+                    "çift maaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mükerrer ödeme"
+                ]
+            }
+        }
+    ]
+}

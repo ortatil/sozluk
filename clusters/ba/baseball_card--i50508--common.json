@@ -1,0 +1,94 @@
+{
+    "id": "i50508",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "baseball card",
+    "en_definition": "a trading card with a picture of a baseball player and information about his playing record",
+    "tr_word": "beyzbol kartı",
+    "tr_definition": "üzerinde bir beyzbol oyuncusunun resmi ve oyun istatistikleri bulunan koleksiyon kartı",
+    "ru_word": "бейсбольная карточка",
+    "ru_definition": "коллекционная карточка с изображением бейсболиста и информацией о его спортивных достижениях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beyzbol kartı"
+                ],
+                "Azerbaijani": [
+                    "beysbol kartı",
+                    "beysbolçu kartı"
+                ],
+                "Turkmen": [
+                    "beýsbol kartoçkasy",
+                    "beýsbol suraty",
+                    "beýsbolçy kartasy"
+                ],
+                "Uzbek": [
+                    "beysbol kartochkasi",
+                    "beysbolchi surati",
+                    "beysbol kartasi"
+                ],
+                "Uyghur": [
+                    "بېيسبول كارتىسى",
+                    "بېيسبول رەسىملىك كارتىسى"
+                ],
+                "Kazakh": [
+                    "бейсбол картасы",
+                    "бейсболшы картасы"
+                ],
+                "Kyrgyz": [
+                    "бейсбол картасы",
+                    "бейсболчунун сүрөтү"
+                ],
+                "Karakalpak": [
+                    "beysbol kartochkası",
+                    "beysbolshı súoreti"
+                ],
+                "Tatar": [
+                    "бейсбол карточкасы"
+                ],
+                "Bashkir": [
+                    "бейсбол карточкаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyuncu kartı"
+                ],
+                "Kazakh": [
+                    "ойыншы картасы"
+                ],
+                "Kyrgyz": [
+                    "оюнчу картасы"
+                ],
+                "Karakalpak": [
+                    "oyınshı kartochkası"
+                ],
+                "Tatar": [
+                    "уенчы карточкасы"
+                ],
+                "Bashkir": [
+                    "уйын карточкаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sporcu kartı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kolleksiya kartı"
+                ]
+            }
+        }
+    ]
+}

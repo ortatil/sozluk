@@ -1,0 +1,118 @@
+{
+    "id": "i41239",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "retail",
+    "en_definition": "the selling of goods to consumers; usually in small quantities and not for resale",
+    "tr_word": "perakende",
+    "tr_definition": "malların doğrudan tüketiciye, genellikle küçük miktarlarda satılması işi",
+    "ru_word": "розница",
+    "ru_definition": "продажа товаров непосредственно потребителю, обычно в небольших количествах и не для перепродажи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bölek söwda",
+                    "bölekleýin söwda"
+                ],
+                "Kazakh": [
+                    "бөлшек сауда"
+                ],
+                "Karakalpak": [
+                    "bólshek sauda"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сауда",
+                    "сауда-саттық"
+                ],
+                "Karakalpak": [
+                    "sauda",
+                    "sauda-sattıq"
+                ],
+                "Bashkir": [
+                    "сауҙа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "perakende",
+                    "perakendecilik"
+                ],
+                "Azerbaijani": [
+                    "pərakəndə",
+                    "pərakəndə satış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chakana",
+                    "chakana savdo"
+                ],
+                "Kyrgyz": [
+                    "чекене",
+                    "чекене соода"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ваклап сату",
+                    "ваклап сату сәүдәсе",
+                    "ваклап сату эше"
+                ],
+                "Bashkir": [
+                    "ваҡлап һатыу",
+                    "ваҡлап сауҙа итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پارچە سېتىش",
+                    "پارچە سودا",
+                    "پارچە-پۇرات سېتىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сатык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xırda satış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ownuk söwda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mayda savdo"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "id": "i19110",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "awhile",
+    "en_definition": "for a short time",
+    "tr_word": "bir süre",
+    "tr_definition": "kısa bir zaman için",
+    "ru_word": "ненадолго",
+    "ru_definition": "на короткое время",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "biraz",
+                    "bir süre",
+                    "bir müddet"
+                ],
+                "Azerbaijani": [
+                    "bir az",
+                    "bir müddət",
+                    "bir qədər"
+                ],
+                "Turkmen": [
+                    "biraz",
+                    "birsalym",
+                    "birazajyk"
+                ],
+                "Uzbek": [
+                    "bir oz",
+                    "bir muddat",
+                    "bir pas",
+                    "biroz",
+                    "bir lahza"
+                ],
+                "Uyghur": [
+                    "بىر دەم",
+                    "بىر ئاز",
+                    "بىر ھازا",
+                    "بىر مەھەل"
+                ],
+                "Kazakh": [
+                    "біраз",
+                    "біршама"
+                ],
+                "Kyrgyz": [
+                    "бир аз",
+                    "бир азга",
+                    "бир аз убакыт",
+                    "бир аз мөөнөткө"
+                ],
+                "Karakalpak": [
+                    "biraz",
+                    "bir az",
+                    "birshama"
+                ],
+                "Tatar": [
+                    "берникадәр",
+                    "беркадәр",
+                    "бераз"
+                ],
+                "Bashkir": [
+                    "бер аҙ",
+                    "бер аҙға",
+                    "бер аҙ ваҡыт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "azıcık"
+                ],
+                "Azerbaijani": [
+                    "azacıq"
+                ],
+                "Turkmen": [
+                    "az wagtlyk"
+                ],
+                "Kazakh": [
+                    "аз уақыт"
+                ],
+                "Tatar": [
+                    "азрак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сәл"
+                ],
+                "Karakalpak": [
+                    "sál"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bir vakit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көндә-көнгә"
+                ]
+            }
+        }
+    ]
+}

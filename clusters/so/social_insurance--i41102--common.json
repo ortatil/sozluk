@@ -1,0 +1,107 @@
+{
+    "id": "i41102",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "social insurance",
+    "en_definition": "government provision for unemployed, injured, or aged people; financed by contributions from employers and employees as well as by government revenue",
+    "tr_word": "sosyal sigorta",
+    "tr_definition": "İşsiz, yaralı veya yaşlı kişilere yönelik, işveren ve çalışan katkılarının yanı sıra devlet gelirleriyle finanse edilen devlet yardımı.",
+    "ru_word": "социальное страхование",
+    "ru_definition": "Государственная система обеспечения безработных, нетрудоспособных или пожилых людей, финансируемая за счет взносов работодателей и работников, а также государственных доходов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "içtimai sigorta"
+                ],
+                "Azerbaijani": [
+                    "ictimai sığorta"
+                ],
+                "Uzbek": [
+                    "ijtimoiy sugʻurta",
+                    "ijtimoiy taʼminot",
+                    "ijtimoiy himoya"
+                ],
+                "Uyghur": [
+                    "ئىجتىمائىي سۇغۇرتا",
+                    "ئىجتىمائىي كاپالەت"
+                ],
+                "Tatar": [
+                    "иҗтимагый иминләштерү",
+                    "иҗтимагый иминият"
+                ],
+                "Bashkir": [
+                    "ижтимағи страховкалау",
+                    "ижтимағи тәьминәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sosyal sigorta",
+                    "sosyal güvenlik"
+                ],
+                "Azerbaijani": [
+                    "sosial sığorta"
+                ],
+                "Turkmen": [
+                    "sosial ätiýaçlandyryş"
+                ],
+                "Kyrgyz": [
+                    "социалдык камсыздоо"
+                ],
+                "Karakalpak": [
+                    "sociallıq támiynat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jemgyýetçilik ätiýaçlandyrmasy"
+                ],
+                "Karakalpak": [
+                    "jámiyetlik qamsızlandırıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әлеуметтік сақтандыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоғамдық сақтандыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коомдук камсыздандыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мамлекеттик камсыздандыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "халыкны иминләштерү"
+                ]
+            }
+        }
+    ]
+}

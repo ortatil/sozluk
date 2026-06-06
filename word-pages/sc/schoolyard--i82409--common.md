@@ -1,0 +1,91 @@
+# Schoolyard
+| Field | Detail |
+|---|---|
+| **ID** | i82409 |
+| **English** | schoolyard |
+| **Type** | noun |
+| **Definition** | the yard associated with a school |
+| **Source** | common |
+| **Ortatil** | sähn |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i82409",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "schoolyard",
+    "en_definition": "the yard associated with a school",
+    "tr_word": "okul bahçesi",
+    "tr_definition": "Bir okulun çevresindeki, öğrencilerin teneffüslerde kullandığı açık alan.",
+    "ru_word": "школьный двор",
+    "ru_definition": "территория, прилегающая к зданию школы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mektep avlusu"
+                ],
+                "Azerbaijani": [
+                    "məktəb həyəti",
+                    "məktəb meydançası"
+                ],
+                "Turkmen": [
+                    "mekdep howlusy",
+                    "mekdep meýdançasy"
+                ],
+                "Uzbek": [
+                    "maktab hovlisi",
+                    "maktab maydoni"
+                ],
+                "Uyghur": [
+                    "مەكتەپ ھويلىسى",
+                    "مەكتەپ مەيدانى"
+                ],
+                "Kazakh": [
+                    "мектеп ауласы",
+                    "мектеп алаңы"
+                ],
+                "Kyrgyz": [
+                    "мектеп короосу",
+                    "мектептин короосу",
+                    "мектеп аянты"
+                ],
+                "Karakalpak": [
+                    "mektep aulası",
+                    "mektep maydanshası"
+                ],
+                "Tatar": [
+                    "мәктәп ишегалды",
+                    "мәктәп бакчасы",
+                    "мәктәп мәйданы"
+                ],
+                "Bashkir": [
+                    "мәктәп ихатаһы",
+                    "мәктәп баҡсаһы",
+                    "мәктәп майҙансығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "okul bahçesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sahn"
+                ]
+            }
+        }
+    ]
+}
+```
+

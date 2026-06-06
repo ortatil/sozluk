@@ -1,0 +1,99 @@
+{
+    "id": "i107499",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "digestion",
+    "en_definition": "the organic process by which food is converted into substances that can be absorbed into the body",
+    "tr_word": "sindirim",
+    "tr_definition": "besinlerin vücut tarafından emilebilecek maddelere dönüştürüldüğü organik süreç",
+    "ru_word": "пищеварение",
+    "ru_definition": "органический процесс, при котором пища превращается в вещества, способные усваиваться организмом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazım"
+                ],
+                "Azerbaijani": [
+                    "həzm",
+                    "həzmetmə"
+                ],
+                "Turkmen": [
+                    "hazm",
+                    "hazm ediş"
+                ],
+                "Uzbek": [
+                    "hazm",
+                    "hazm qilish"
+                ],
+                "Uyghur": [
+                    "ھەزىم",
+                    "ھەزىم قىلىش"
+                ],
+                "Kazakh": [
+                    "хазм"
+                ],
+                "Karakalpak": [
+                    "hazm"
+                ],
+                "Tatar": [
+                    "һазем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sindirim"
+                ],
+                "Turkmen": [
+                    "siňdiriş"
+                ],
+                "Uzbek": [
+                    "singdirish"
+                ],
+                "Kyrgyz": [
+                    "сиңирүү"
+                ],
+                "Bashkir": [
+                    "һеңдереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "as sińirio",
+                    "as sińirim"
+                ],
+                "Tatar": [
+                    "аш сеңдерү",
+                    "аш эшкәртү"
+                ],
+                "Bashkir": [
+                    "аш һеңдереү",
+                    "аш эшкәртеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ас қорыту",
+                    "қорыту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аш кылуу",
+                    "аш болуу"
+                ]
+            }
+        }
+    ]
+}

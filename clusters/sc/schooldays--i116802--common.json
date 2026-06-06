@@ -1,0 +1,107 @@
+{
+    "id": "i116802",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "schooldays",
+    "en_definition": "the time of life when you are going to school",
+    "tr_word": "okul yılları",
+    "tr_definition": "bir kişinin hayatında okula gittiği dönem",
+    "ru_word": "школьные годы",
+    "ru_definition": "период жизни, когда человек посещает школу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "okul yılları",
+                    "okul günleri"
+                ],
+                "Turkmen": [
+                    "okuw döwri"
+                ],
+                "Uzbek": [
+                    "o'quvchilik davri"
+                ],
+                "Uyghur": [
+                    "ئوقۇش دەۋرى"
+                ],
+                "Kazakh": [
+                    "оқу кезеңі"
+                ],
+                "Kyrgyz": [
+                    "окуучулук кез"
+                ],
+                "Karakalpak": [
+                    "oqıo dáoiri"
+                ],
+                "Tatar": [
+                    "уку еллары"
+                ],
+                "Bashkir": [
+                    "уҡыу йылдары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məktəb illəri",
+                    "məktəb dövrü",
+                    "məktəb vaxtı"
+                ],
+                "Turkmen": [
+                    "mekdep ýyllary",
+                    "mekdep döwri"
+                ],
+                "Uzbek": [
+                    "maktab davri",
+                    "maktab yillari"
+                ],
+                "Uyghur": [
+                    "مەكتەپ دەۋرى",
+                    "مەكتەپ كۈنلىرى"
+                ],
+                "Kazakh": [
+                    "мектеп кезі",
+                    "мектеп шағы",
+                    "мектеп жылдары"
+                ],
+                "Kyrgyz": [
+                    "мектеп күндөрү",
+                    "мектеп кези",
+                    "мектеп курагы"
+                ],
+                "Karakalpak": [
+                    "mektep dáoiri",
+                    "mektep jılları"
+                ],
+                "Tatar": [
+                    "мәктәп еллары",
+                    "мәктәп чоры"
+                ],
+                "Bashkir": [
+                    "мәктәп йылдары",
+                    "мәктәп осоро"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahsil hayatı"
+                ],
+                "Azerbaijani": [
+                    "təhsil illəri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğrencilik yılları"
+                ]
+            }
+        }
+    ]
+}

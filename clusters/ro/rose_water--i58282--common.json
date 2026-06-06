@@ -1,0 +1,83 @@
+{
+    "id": "i58282",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rose water",
+    "en_definition": "perfume consisting of water scented with oil of roses",
+    "tr_word": "gül suyu",
+    "tr_definition": "Gül yapraklarının damıtılmasıyla elde edilen, hoş kokulu su.",
+    "ru_word": "розовая вода",
+    "ru_definition": "Водный раствор компонентов эфирного масла розы, используемый в парфюмерии и кулинарии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gül suyu",
+                    "gülsuyu"
+                ],
+                "Azerbaijani": [
+                    "gül suyu",
+                    "gülab"
+                ],
+                "Turkmen": [
+                    "gül suwy",
+                    "gülaby"
+                ],
+                "Uzbek": [
+                    "gul suvi"
+                ],
+                "Uyghur": [
+                    "گۈلاب",
+                    "گۈل سۈيى"
+                ],
+                "Kazakh": [
+                    "гүл суы"
+                ],
+                "Kyrgyz": [
+                    "гүл суу",
+                    "гүл суусу"
+                ],
+                "Karakalpak": [
+                    "gúl suoı",
+                    "gúlap"
+                ],
+                "Tatar": [
+                    "гөлсу",
+                    "гөл суы"
+                ],
+                "Bashkir": [
+                    "гөл һыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gulob"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "раушан суы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "атыр гүл суусу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "гөлкәйеп"
+                ]
+            }
+        }
+    ]
+}

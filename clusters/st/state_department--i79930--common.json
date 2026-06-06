@@ -1,0 +1,92 @@
+{
+    "id": "i79930",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "state department",
+    "en_definition": "the federal department in the United States that sets and maintains foreign policies",
+    "tr_word": "Dışişleri Bakanlığı",
+    "tr_definition": "Amerika Birleşik Devletleri'nde dış politikaları belirleyen ve yürüten federal departman.",
+    "ru_word": "Государственный департамент",
+    "ru_definition": "федеральное ведомство в США, которое определяет и проводит внешнюю политику.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Dışişleri Bakanlığı",
+                    "Dışişleri Teşkilatı"
+                ],
+                "Turkmen": [
+                    "daşary işler ministrligi",
+                    "daşary syýasat edarasy"
+                ],
+                "Uzbek": [
+                    "tashqi ishlar vazirligi",
+                    "tashqi siyosat mahkamasi"
+                ],
+                "Uyghur": [
+                    "تاشقى ئىشلار مىنىستىرلىقى",
+                    "تاشقى ئىشلار مەھكىمىسى"
+                ],
+                "Kyrgyz": [
+                    "тышкы иштер министрлиги",
+                    "тышкы саясат мекемеси",
+                    "тышкы иштер башкармалыгы"
+                ],
+                "Tatar": [
+                    "тышкы эшләр министрлыгы"
+                ],
+                "Bashkir": [
+                    "тышҡы эштәр министрлығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "davlat departamenti"
+                ],
+                "Tatar": [
+                    "дәүләт департаменты"
+                ],
+                "Bashkir": [
+                    "дәүләт департаменты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Hariciye Nezareti"
+                ],
+                "Azerbaijani": [
+                    "xarici işlər nazirliyi",
+                    "xariciyyə nəzarəti",
+                    "xariciyyə vəzarəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мемлекеттік департамент",
+                    "сыртқы саясат мекемесі"
+                ],
+                "Karakalpak": [
+                    "mámleketlik departament"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сыртқы істер министрлігі"
+                ],
+                "Karakalpak": [
+                    "sırtqı isler ministrligi"
+                ]
+            }
+        }
+    ]
+}

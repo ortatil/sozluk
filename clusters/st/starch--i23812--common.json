@@ -1,0 +1,105 @@
+{
+    "id": "i23812",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "starch",
+    "en_definition": "stiffen with starch",
+    "tr_word": "kolalamak",
+    "tr_definition": "Çamaşırları daha diri ve düzgün durması için kolalı suya batırıp kurutmak",
+    "ru_word": "крахмалить",
+    "ru_definition": "Пропитывать крахмалом для придания жесткости",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "krahmallamak"
+                ],
+                "Kazakh": [
+                    "крахмалдау"
+                ],
+                "Kyrgyz": [
+                    "крахмалдоо"
+                ],
+                "Karakalpak": [
+                    "kraxmallau"
+                ],
+                "Tatar": [
+                    "крахмаллау"
+                ],
+                "Bashkir": [
+                    "крахмаллау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قاتۇرۇش"
+                ],
+                "Kazakh": [
+                    "қатыру"
+                ],
+                "Kyrgyz": [
+                    "катыруу"
+                ],
+                "Karakalpak": [
+                    "qatıru"
+                ],
+                "Tatar": [
+                    "катыру"
+                ],
+                "Bashkir": [
+                    "ҡатырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kolalamak"
+                ],
+                "Azerbaijani": [
+                    "kolalamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nişastalamaq"
+                ],
+                "Uyghur": [
+                    "نشاستىلاش",
+                    "نشاستا سۈركەش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oxorlamoq",
+                    "oxor bermoq"
+                ],
+                "Kazakh": [
+                    "ағарту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sertleştirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "petlemek"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "id": "i88557",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bidder",
+    "en_definition": "someone who makes an offer",
+    "tr_word": "teklif sahibi",
+    "tr_definition": "bir açık artırmada veya ihalede fiyat teklifi veren kimse",
+    "ru_word": "участник торгов",
+    "ru_definition": "лицо, предлагающее цену на аукционе или в процессе торгов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teklif sahibi",
+                    "talip"
+                ],
+                "Azerbaijani": [
+                    "təklifçi"
+                ],
+                "Turkmen": [
+                    "teklipçi"
+                ],
+                "Uyghur": [
+                    "تەكلىپ بەرگۈچى"
+                ],
+                "Tatar": [
+                    "тәкъдим итүче"
+                ],
+                "Bashkir": [
+                    "тәҡдим итеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "talabgor"
+                ],
+                "Kazakh": [
+                    "талапкер"
+                ],
+                "Kyrgyz": [
+                    "талапкер"
+                ],
+                "Karakalpak": [
+                    "talapker"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müşteri"
+                ],
+                "Azerbaijani": [
+                    "müştəri"
+                ],
+                "Turkmen": [
+                    "müşderi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xaridor"
+                ],
+                "Uyghur": [
+                    "خېرىدار"
+                ],
+                "Kyrgyz": [
+                    "кардар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қатысушы"
+                ],
+                "Tatar": [
+                    "катнашучы"
+                ],
+                "Bashkir": [
+                    "ҡатнашыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "satıp alıoshı"
+                ],
+                "Tatar": [
+                    "сатып алучы"
+                ],
+                "Bashkir": [
+                    "һатып алырға теләүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istekli"
+                ],
+                "Uzbek": [
+                    "ishtirokchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "alıcı"
+                ],
+                "Kyrgyz": [
+                    "алуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "namizəd"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hödürleýji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mijoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باھا قويغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұсынушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үміткер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "соодалашуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dáoager"
+                ]
+            }
+        }
+    ]
+}

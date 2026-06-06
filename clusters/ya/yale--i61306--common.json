@@ -1,0 +1,59 @@
+{
+    "id": "i61306",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "yale",
+    "en_definition": "a university in Connecticut",
+    "tr_word": "Yale",
+    "tr_definition": "Connecticut'ta bulunan bir üniversite",
+    "ru_word": "Йель",
+    "ru_definition": "университет в Коннектикуте",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Yale Üniversitesi",
+                    "Yale"
+                ],
+                "Uyghur": [
+                    "يېل ئۇنىۋېرسىتېتى",
+                    "يېل دارىلفۇنۇنى"
+                ],
+                "Kazakh": [
+                    "Йель университеті",
+                    "Йель"
+                ],
+                "Kyrgyz": [
+                    "Йель университети"
+                ],
+                "Karakalpak": [
+                    "Yel uniwersiteti"
+                ],
+                "Tatar": [
+                    "Йель университеты",
+                    "Йель"
+                ],
+                "Bashkir": [
+                    "Йель университеты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Yeyl Universiteti",
+                    "Yeyl"
+                ],
+                "Turkmen": [
+                    "Ýeýl uniwersiteti"
+                ],
+                "Uzbek": [
+                    "Yeyl universiteti",
+                    "Yeyl"
+                ]
+            }
+        }
+    ]
+}

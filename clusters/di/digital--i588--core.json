@@ -1,0 +1,87 @@
+{
+    "id": "i588",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "digital",
+    "en_definition": "of a circuit or device that represents magnitudes in digits",
+    "tr_word": "dijital",
+    "tr_definition": "verileri rakamlar veya sayılarla temsil eden devre veya cihaz",
+    "ru_word": "цифровой",
+    "ru_definition": "относящийся к устройству или схеме, представляющей величины в виде цифр",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rakamsal"
+                ],
+                "Azerbaijani": [
+                    "rəqəmsal"
+                ],
+                "Turkmen": [
+                    "rakamly"
+                ],
+                "Uzbek": [
+                    "raqamli"
+                ],
+                "Uyghur": [
+                    "رەقەملىك"
+                ],
+                "Karakalpak": [
+                    "raqamlı"
+                ],
+                "Tatar": [
+                    "рәкыймле"
+                ],
+                "Bashkir": [
+                    "рәҡәмле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sanly"
+                ],
+                "Uzbek": [
+                    "sonli"
+                ],
+                "Uyghur": [
+                    "سانلىق"
+                ],
+                "Kazakh": [
+                    "сандық",
+                    "санаулы"
+                ],
+                "Karakalpak": [
+                    "sanlı"
+                ],
+                "Tatar": [
+                    "санлы"
+                ],
+                "Bashkir": [
+                    "һанлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sayısal"
+                ],
+                "Azerbaijani": [
+                    "sayısal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "санариптик",
+                    "санарип"
+                ]
+            }
+        }
+    ]
+}

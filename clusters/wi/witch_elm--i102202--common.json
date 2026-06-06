@@ -1,0 +1,114 @@
+{
+    "id": "i102202",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "witch elm",
+    "en_definition": "Eurasian elm often planted as a shade tree",
+    "tr_word": "dağ karaağacı",
+    "tr_definition": "Genellikle gölge ağacı olarak dikilen, Avrasya'ya özgü bir karaağaç türü",
+    "ru_word": "вяз шершавый",
+    "ru_definition": "Евразийский ильм, часто высаживаемый в качестве тенистого дерева",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karaağaç"
+                ],
+                "Azerbaijani": [
+                    "qarağac"
+                ],
+                "Turkmen": [
+                    "daşagaç",
+                    "garaagaç"
+                ],
+                "Uzbek": [
+                    "qayragʻoch"
+                ],
+                "Uyghur": [
+                    "قاراياغاچ"
+                ],
+                "Kazakh": [
+                    "қарағаш"
+                ],
+                "Kyrgyz": [
+                    "кара жыгач"
+                ],
+                "Karakalpak": [
+                    "qaraǵash"
+                ],
+                "Tatar": [
+                    "карагач"
+                ],
+                "Bashkir": [
+                    "ҡарама"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağ karaağacı"
+                ],
+                "Azerbaijani": [
+                    "dağ qarağacı"
+                ],
+                "Uzbek": [
+                    "togʻ qayragʻochi"
+                ],
+                "Uyghur": [
+                    "تاغ قارىغايى",
+                    "تاغ ئارچىسى"
+                ],
+                "Kazakh": [
+                    "тау қарағашы"
+                ],
+                "Karakalpak": [
+                    "tau qaraǵashı"
+                ],
+                "Tatar": [
+                    "тау карагачы"
+                ],
+                "Bashkir": [
+                    "тау ҡарамаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ulmus"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gujum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоо кара жыгачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыгач"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "нарван"
+                ]
+            }
+        }
+    ]
+}

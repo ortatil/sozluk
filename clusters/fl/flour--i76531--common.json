@@ -1,0 +1,88 @@
+{
+    "id": "i76531",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flour",
+    "en_definition": "fine powdery foodstuff obtained by grinding and sifting the meal of a cereal grain",
+    "tr_word": "un",
+    "tr_definition": "tahıl tanelerinin öğütülüp elenmesiyle elde edilen ince toz halindeki gıda maddesi",
+    "ru_word": "мука",
+    "ru_definition": "продукт питания, получаемый путем измельчения и просеивания зерен злаков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "un"
+                ],
+                "Azerbaijani": [
+                    "un"
+                ],
+                "Turkmen": [
+                    "un"
+                ],
+                "Uzbek": [
+                    "un"
+                ],
+                "Uyghur": [
+                    "ئۇن"
+                ],
+                "Kazakh": [
+                    "ұн"
+                ],
+                "Kyrgyz": [
+                    "ун"
+                ],
+                "Karakalpak": [
+                    "un"
+                ],
+                "Tatar": [
+                    "он"
+                ],
+                "Bashkir": [
+                    "он"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "talqon"
+                ],
+                "Kazakh": [
+                    "талқан"
+                ],
+                "Kyrgyz": [
+                    "талкан"
+                ],
+                "Karakalpak": [
+                    "talqan"
+                ],
+                "Tatar": [
+                    "талкан"
+                ],
+                "Bashkir": [
+                    "талҡан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toz"
+                ],
+                "Turkmen": [
+                    "toz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ard"
+                ]
+            }
+        }
+    ]
+}

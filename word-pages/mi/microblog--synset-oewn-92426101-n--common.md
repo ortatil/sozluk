@@ -1,0 +1,149 @@
+# Microblog
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-92426101-n |
+| **English** | microblog |
+| **Type** | noun |
+| **Definition** | a blog in which there is a limitation on the length of individual postings. |
+| **Source** | common |
+| **Ortatil** | mikrobloq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **mikrobloq** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1** |
+
+```json
+{
+    "id": "synset-oewn-92426101-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "microblog",
+    "en_definition": "a blog in which there is a limitation on the length of individual postings.",
+    "tr_word": "mikroblog",
+    "tr_definition": "bireysel gönderilerin uzunluğu üzerinde bir sınırlamanın olduğu bir blog türü.",
+    "ru_word": "микроблог",
+    "ru_definition": "блог, в котором существует ограничение на длину отдельных сообщений.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısa günlük"
+                ],
+                "Azerbaijani": [
+                    "qısa gündəlik",
+                    "kiçik qeyd"
+                ],
+                "Turkmen": [
+                    "kiçi gündelik"
+                ],
+                "Uzbek": [
+                    "kichik kundalik",
+                    "qisqa bitik"
+                ],
+                "Uyghur": [
+                    "قىسقا يازما بلوگى"
+                ],
+                "Kazakh": [
+                    "қысқа жазба"
+                ],
+                "Kyrgyz": [
+                    "кыска жазуу",
+                    "кыска билдирүү"
+                ],
+                "Karakalpak": [
+                    "qısqa jazba",
+                    "qısqa xabarlama"
+                ],
+                "Tatar": [
+                    "кыска язма",
+                    "кече блог",
+                    "кыска блог"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡа яҙма",
+                    "ҡыҫҡа блог"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mikrogünlük"
+                ],
+                "Azerbaijani": [
+                    "mikrobloq"
+                ],
+                "Turkmen": [
+                    "mikroblog"
+                ],
+                "Uyghur": [
+                    "مىكرو بلوگ",
+                    "مىكرو خاتىرە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шағын блог",
+                    "шағын күнделік"
+                ],
+                "Kyrgyz": [
+                    "чакан күндөлүк"
+                ],
+                "Karakalpak": [
+                    "shaǵın kúndelik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özgünlük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gysga ýazgy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muxtasar kundalik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәй көндәлек"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,139 @@
+{
+    "id": "i52515",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "crockery",
+    "en_definition": "tableware (eating and serving dishes) collectively",
+    "tr_word": "çanak çömlek",
+    "tr_definition": "Yemek yemek ve servis yapmak için kullanılan tabak, kase gibi mutfak eşyalarının genel adı.",
+    "ru_word": "фаянсовая посуда",
+    "ru_definition": "Коллективное название столовой посуды, предназначенной для приема и подачи пищи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tabak-çanak"
+                ],
+                "Kyrgyz": [
+                    "аяк-табак"
+                ],
+                "Karakalpak": [
+                    "qazan-tabaq"
+                ],
+                "Bashkir": [
+                    "ҡаҙан-аяҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "idish-tovoq",
+                    "idishlar"
+                ],
+                "Kazakh": [
+                    "ыдыс-аяқ",
+                    "ыдыс"
+                ],
+                "Kyrgyz": [
+                    "идиш-аяк",
+                    "идиш"
+                ],
+                "Karakalpak": [
+                    "ıdıs-ayaq",
+                    "ıdıs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kap kacak"
+                ],
+                "Azerbaijani": [
+                    "qab-qacaq",
+                    "qablar"
+                ],
+                "Turkmen": [
+                    "gap-gaç",
+                    "gaplar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takım"
+                ],
+                "Uzbek": [
+                    "tovoq-qoshiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sofra takımı"
+                ],
+                "Azerbaijani": [
+                    "süfrə qabları"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çanak çömlek"
+                ],
+                "Azerbaijani": [
+                    "çini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "савыт-саба",
+                    "савыт",
+                    "савытлар"
+                ],
+                "Bashkir": [
+                    "һауыт-һаба",
+                    "һауыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mutfak eşyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاچا-قۇچا",
+                    "قاچا-چۆمۈچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ساپال قاچىلار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аспаздық ыдыстар"
+                ]
+            }
+        }
+    ]
+}

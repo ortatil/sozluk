@@ -1,0 +1,216 @@
+# Wild sage
+| Field | Detail |
+|---|---|
+| **ID** | i104411 |
+| **English** | wild sage |
+| **Type** | noun |
+| **Definition** | Eurasian sage with blue flowers and foliage like verbena; naturalized in United States |
+| **Source** | common |
+| **Ortatil** | şälfey |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **şälfey** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.10** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سەدەپئوت | sädäpot |
+| **Kazakh** | |
+| сәлбен | sälben |
+| **Kyrgyz** | |
+| эрмен | ermen |
+| шыбак | şıbak |
+| **Bashkir** | |
+| шалфей | şalfey |
+| мәтрүшкә | mätrüşkä |
+
+```json
+{
+    "id": "i104411",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wild sage",
+    "en_definition": "Eurasian sage with blue flowers and foliage like verbena; naturalized in United States",
+    "tr_word": "yabani adaçayı",
+    "tr_definition": "Mavi çiçekli ve mine çiçeğine benzer yapraklı, Avrasya kökenli bir adaçayı türü.",
+    "ru_word": "шалфей луговой",
+    "ru_definition": "Евразийский шалфей с синими цветками и листвой, похожей на вербену; натурализован в США.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yabani adaçayı"
+                ],
+                "Azerbaijani": [
+                    "yabanı adaçayı"
+                ],
+                "Turkmen": [
+                    "ýabany şalfeý"
+                ],
+                "Kazakh": [
+                    "жабайы сәлбен"
+                ],
+                "Bashkir": [
+                    "ялан шалфейы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shalfey"
+                ],
+                "Kazakh": [
+                    "сәлбен"
+                ],
+                "Karakalpak": [
+                    "sálben"
+                ],
+                "Bashkir": [
+                    "шалфей"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meryemana otu"
+                ],
+                "Azerbaijani": [
+                    "məryəmnoxudu"
+                ],
+                "Karakalpak": [
+                    "márt",
+                    "márt shóp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dag şalfeýi"
+                ],
+                "Tatar": [
+                    "кыр шалфее"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mavrak"
+                ],
+                "Bashkir": [
+                    "мәтрүшкә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çayır adaçayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "adaçayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mürze"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tog'rayhon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياۋا مەرۋە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سەدەپئوت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆك مەرۋە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дала сәлбені"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эрмен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шыбак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көк шыбак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыр мәтрүшкәсе"
+                ]
+            }
+        }
+    ]
+}
+```
+

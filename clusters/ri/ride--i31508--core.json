@@ -1,0 +1,154 @@
+{
+    "id": "i31508",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "ride",
+    "en_definition": "be carried or travel on or in a vehicle",
+    "tr_word": "binmek",
+    "tr_definition": "bir taşıtla veya hayvanla bir yere gitmek",
+    "ru_word": "ехать",
+    "ru_definition": "передвигаться с помощью какого-либо средства передвижения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "binmek"
+                ],
+                "Azerbaijani": [
+                    "minmək"
+                ],
+                "Turkmen": [
+                    "münmek"
+                ],
+                "Uzbek": [
+                    "minmoq"
+                ],
+                "Uyghur": [
+                    "مىنمەك"
+                ],
+                "Kazakh": [
+                    "міну"
+                ],
+                "Kyrgyz": [
+                    "минүү"
+                ],
+                "Karakalpak": [
+                    "miniw"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yurmoq"
+                ],
+                "Kazakh": [
+                    "жүру"
+                ],
+                "Kyrgyz": [
+                    "жүрүү"
+                ],
+                "Karakalpak": [
+                    "júriw"
+                ],
+                "Tatar": [
+                    "йөрү"
+                ],
+                "Bashkir": [
+                    "йөрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürmek"
+                ],
+                "Azerbaijani": [
+                    "sürmək"
+                ],
+                "Turkmen": [
+                    "sürmek"
+                ],
+                "Uyghur": [
+                    "سۆرىمەك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "haydamoq"
+                ],
+                "Kazakh": [
+                    "айдау"
+                ],
+                "Kyrgyz": [
+                    "айдоо"
+                ],
+                "Karakalpak": [
+                    "aydaw"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gitmek"
+                ],
+                "Azerbaijani": [
+                    "getmək"
+                ],
+                "Turkmen": [
+                    "gitmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бару"
+                ],
+                "Bashkir": [
+                    "барыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "атлану"
+                ],
+                "Bashkir": [
+                    "атланыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماڭماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "атланып бару"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ултырып барыу"
+                ]
+            }
+        }
+    ]
+}

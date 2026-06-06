@@ -1,0 +1,261 @@
+# Intolerant
+| Field | Detail |
+|---|---|
+| **ID** | i13491 |
+| **English** | intolerant |
+| **Type** | adjective |
+| **Definition** | unwilling to tolerate difference of opinion |
+| **Source** | common |
+| **Ortatil** | çıdamsız |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **çıdamsız** | **tahammilsiz** | **ḍözümsüz** | **sabırsız** | **ḍarfikirli** | **ḳeşirsiz** |
+|---|---|---|---|---|---|---|
+| Turkish | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Azerbaijani | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| Uzbek | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| Karakalpak | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| Tatar | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ |
+| Bashkir | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.67 | 0.33 | 0.33 | 0.67 | 0.33 |
+| *Qarluq Subtotal* | 1 | 1 | 0 | 0 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0 | 0.80 | 0.80 | 0.40 | 0.40 |
+| *In All* | ✅ |  |  |  |  |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ | ✅ | ✅ | ✅ |
+| **O'TQ** | **2.73** | **1.67** | **1.63** | **1.63** | **1.57** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چىدامسىز | çidamsiz |
+| تەخەرسىز | täxärsiz |
+| تەھەممۇلسىز | tähämmulsiz |
+| **Kazakh** | |
+| тар | tar |
+| төзімсіз | tözimsiz |
+| шыдамсыз | şıdamsız |
+| кешірімсіз | keşirimsiz |
+| қатал | qatal |
+| **Kyrgyz** | |
+| чыдамсыз | çıdamsız |
+| сабырсыз | sabırsız |
+| келишпес | kelişpes |
+| **Tatar** | |
+| түземсез | tüzemsez |
+| сабырсыз | sabırsız |
+| кырыс | kırıs |
+| **Bashkir** | |
+| түҙемһеҙ | tüzemhez |
+| сабырһыҙ | sabırhız |
+| килешмәүсән | kileşmäüsän |
+
+```json
+{
+    "id": "i13491",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "intolerant",
+    "en_definition": "unwilling to tolerate difference of opinion",
+    "tr_word": "hoşgörüsüz",
+    "tr_definition": "farklı görüşlere veya inançlara karşı tahammül göstermeyen kimse",
+    "ru_word": "нетерпимый",
+    "ru_definition": "не желающий принимать или уважать чужие мнения, взгляды или поведение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dar kafalı"
+                ],
+                "Azerbaijani": [
+                    "darfikirli"
+                ],
+                "Turkmen": [
+                    "darhöwes"
+                ],
+                "Uyghur": [
+                    "تار قورساق"
+                ],
+                "Kazakh": [
+                    "тар"
+                ],
+                "Karakalpak": [
+                    "tarpeyil"
+                ],
+                "Tatar": [
+                    "тар күңелле"
+                ],
+                "Bashkir": [
+                    "тар күңелле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dözümsüz"
+                ],
+                "Kazakh": [
+                    "төзімсіз"
+                ],
+                "Kyrgyz": [
+                    "төшүнө албаган"
+                ],
+                "Karakalpak": [
+                    "tózimsiz"
+                ],
+                "Tatar": [
+                    "түземсез"
+                ],
+                "Bashkir": [
+                    "түҙемһеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çydamsyz"
+                ],
+                "Uzbek": [
+                    "chidamsiz"
+                ],
+                "Uyghur": [
+                    "چىدامسىز"
+                ],
+                "Kazakh": [
+                    "шыдамсыз"
+                ],
+                "Kyrgyz": [
+                    "чыдамсыз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sabyrsyz"
+                ],
+                "Kyrgyz": [
+                    "сабырсыз"
+                ],
+                "Karakalpak": [
+                    "sabırsız"
+                ],
+                "Tatar": [
+                    "сабырсыз"
+                ],
+                "Bashkir": [
+                    "сабырһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tahammülsüz"
+                ],
+                "Azerbaijani": [
+                    "təhəmmülsüz"
+                ],
+                "Uzbek": [
+                    "toqatsiz"
+                ],
+                "Uyghur": [
+                    "تەخەرسىز",
+                    "تەھەممۇلسىز"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "geçirimsiz"
+                ],
+                "Kazakh": [
+                    "кешірімсіз"
+                ],
+                "Karakalpak": [
+                    "keshirimsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağnaz"
+                ],
+                "Uzbek": [
+                    "bagʻritosh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gaharly"
+                ],
+                "Kazakh": [
+                    "қатал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "келишпес"
+                ],
+                "Bashkir": [
+                    "килешмәүсән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hoşgörüsüz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müsamahasız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mütəəssib"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "murosasiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кырыс"
+                ]
+            }
+        }
+    ]
+}
+```
+

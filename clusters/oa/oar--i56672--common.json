@@ -1,0 +1,109 @@
+{
+    "id": "i56672",
+    "type": "unknown",
+    "batch": "common",
+    "en_word": "oar",
+    "en_definition": "unealtă de lemn cu ajutorul căreia se conduce o ambarcație, formată dintr-o parte mai lată, care lovește apa, și dintr-o coadă lungă de care ține vâslașul",
+    "tr_word": "kürek",
+    "tr_definition": "Bir tekneyi yürütmeye veya yönlendirmeye yarayan, uç tarafı yassı, uzun saplı araç.",
+    "ru_word": "весло",
+    "ru_definition": "Приспособление для приведения лодки в движение, состоящее из длинной рукоятки и широкой лопасти.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eshkak"
+                ],
+                "Uyghur": [
+                    "ئەشكەك"
+                ],
+                "Kazakh": [
+                    "ескек"
+                ],
+                "Karakalpak": [
+                    "eskek"
+                ],
+                "Tatar": [
+                    "ишкәк"
+                ],
+                "Bashkir": [
+                    "ишкәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kürek"
+                ],
+                "Azerbaijani": [
+                    "kürək"
+                ],
+                "Turkmen": [
+                    "kürek"
+                ],
+                "Kyrgyz": [
+                    "калак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pala"
+                ],
+                "Turkmen": [
+                    "pala"
+                ],
+                "Kazakh": [
+                    "қалақ"
+                ],
+                "Karakalpak": [
+                    "qalaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көймә ишкәге"
+                ],
+                "Bashkir": [
+                    "көймә ишкәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "avar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "parrak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كەتمەن",
+                    "كەتمەنچە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эшүүр"
+                ]
+            }
+        }
+    ]
+}

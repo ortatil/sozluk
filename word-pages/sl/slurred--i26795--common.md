@@ -1,0 +1,266 @@
+# Slurred
+| Field | Detail |
+|---|---|
+| **ID** | i26795 |
+| **English** | slurred |
+| **Type** | verb |
+| **Definition** | utter indistinctly |
+| **Source** | common |
+| **Ortatil** | hübürdemäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **buldıratu** | **kümülcumaq** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ❌ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.60 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **0.90** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| دۇدۇقلىماق | duduqlimaq |
+| غۇتۇرلىماق | ğuturlimaq |
+| **Kazakh** | |
+| бұлдырату | buldıratu |
+| күмілжу | kümilju |
+| мүдіру | müdiru |
+| шатысу | şatısu |
+| **Kyrgyz** | |
+| күңкүлдөө | küñküldöö |
+| күбүрөө | kübüröö |
+| чалынуу | çalınuu |
+| **Tatar** | |
+| болгату | bolgatu |
+
+```json
+{
+    "id": "i26795",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "slurred",
+    "en_definition": "utter indistinctly",
+    "tr_word": "gevelemek",
+    "tr_definition": "kelimeleri birbirine karıştırarak, anlaşılmaz bir biçimde söylemek",
+    "ru_word": "произносить невнятно",
+    "ru_definition": "говорить нечетко, смазывая звуки, часто из-за усталости или опьянения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "g'o'ldiramoq"
+                ],
+                "Kazakh": [
+                    "бұлдырату"
+                ],
+                "Karakalpak": [
+                    "bұldıratu"
+                ],
+                "Bashkir": [
+                    "болдорлап һөйләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күмілжу"
+                ],
+                "Kyrgyz": [
+                    "күңкүлдөө"
+                ],
+                "Karakalpak": [
+                    "kúńіrenu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mırıldanmak"
+                ],
+                "Azerbaijani": [
+                    "mızıldamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarışdırmaq"
+                ],
+                "Turkmen": [
+                    "samyrdamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hübürdemek",
+                    "küpürdemek"
+                ],
+                "Kyrgyz": [
+                    "күбүрөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chala gapirmoq"
+                ],
+                "Kyrgyz": [
+                    "чалынуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tutilib gapirmoq"
+                ],
+                "Uyghur": [
+                    "دۇدۇقلىماق",
+                    "تۇتۇق سۆزلىمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мүдіру"
+                ],
+                "Karakalpak": [
+                    "múdіru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шатысу"
+                ],
+                "Karakalpak": [
+                    "shatısu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аңлаешсыз сөйләшү"
+                ],
+                "Bashkir": [
+                    "аңлайышһыҙ һөйләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "телгә килү"
+                ],
+                "Bashkir": [
+                    "телгә килмәү",
+                    "тел бәйләнеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gevelemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yuvarlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaymak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pəltəkləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "aydın deməmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gepini ýuwdunmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "noaniq gapirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چۈشىنىكسىز سۆزلىمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "غۇتۇرلىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бүдөмүк айтуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "болгату",
+                    "болгап сөйләшү"
+                ]
+            }
+        }
+    ]
+}
+```
+

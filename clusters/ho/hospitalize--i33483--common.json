@@ -1,0 +1,133 @@
+{
+    "id": "i33483",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "hospitalize",
+    "en_definition": "admit into a hospital",
+    "tr_word": "hastaneye yatırmak",
+    "tr_definition": "birini tedavi amacıyla hastaneye kabul etmek",
+    "ru_word": "госпитализировать",
+    "ru_definition": "поместить кого-либо в больницу для лечения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hastaneye yatırmak"
+                ],
+                "Azerbaijani": [
+                    "xəstəxanaya yerləşdirmək",
+                    "xəstəxanaya yatırmaq"
+                ],
+                "Turkmen": [
+                    "hassahanada ýerleşdirmek",
+                    "hassahana ýatyrmak",
+                    "hassahana salmak"
+                ],
+                "Tatar": [
+                    "хастаханәгә салу",
+                    "хастаханәгә урнаштыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shifoxonaga yotqizmoq",
+                    "shifoxonaga joylashtirmoq"
+                ],
+                "Bashkir": [
+                    "шифаханаға һалыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kasalxonaga yotqizmoq"
+                ],
+                "Bashkir": [
+                    "дауаханаға ятҡырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ауруханаға жатқызу",
+                    "ауруханаға қою"
+                ],
+                "Karakalpak": [
+                    "auruxanaǵa jatqızıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "емханаға жатқызу",
+                    "емдеуге жатқызу"
+                ],
+                "Karakalpak": [
+                    "emleuxanaǵa jatqızıu",
+                    "emleuxanaǵa qoyıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дәвалауханәгә салу"
+                ],
+                "Bashkir": [
+                    "дауаханаға һалыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müşahede altına almak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tedaviye almak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müalicəyə götürmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دوختۇرخانىغا ياتقۇزماق",
+                    "دوختۇرخانىغا ئورۇنلاشتۇرماق",
+                    "دوختۇرخانىغا كىرگۈزمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ооруканага жаткыруу",
+                    "ооруканага алуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бейтапканага жаткыруу"
+                ]
+            }
+        }
+    ]
+}

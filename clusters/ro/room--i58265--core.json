@@ -1,0 +1,150 @@
+{
+    "id": "i58265",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "room",
+    "en_definition": "an area within a building enclosed by walls and floor and ceiling",
+    "tr_word": "oda",
+    "tr_definition": "bir binanın duvar, yer ve tavanla çevrili her bir bölümü",
+    "ru_word": "комната",
+    "ru_definition": "часть помещения внутри здания, отделенная от других частей стенами или перегородками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hücre"
+                ],
+                "Azerbaijani": [
+                    "hücrə"
+                ],
+                "Turkmen": [
+                    "hüjre"
+                ],
+                "Uzbek": [
+                    "hujra"
+                ],
+                "Uyghur": [
+                    "ھۇجرا"
+                ],
+                "Kazakh": [
+                    "хұжыра"
+                ],
+                "Kyrgyz": [
+                    "хужра"
+                ],
+                "Karakalpak": [
+                    "xujıra"
+                ],
+                "Tatar": [
+                    "хөҗрә"
+                ],
+                "Bashkir": [
+                    "хөжрә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бөлме"
+                ],
+                "Kyrgyz": [
+                    "бөлмө"
+                ],
+                "Karakalpak": [
+                    "bólme"
+                ],
+                "Tatar": [
+                    "бүлмә"
+                ],
+                "Bashkir": [
+                    "бүлмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oda"
+                ],
+                "Azerbaijani": [
+                    "otaq"
+                ],
+                "Turkmen": [
+                    "otag"
+                ],
+                "Kazakh": [
+                    "отау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hane"
+                ],
+                "Uzbek": [
+                    "xona"
+                ],
+                "Uyghur": [
+                    "خانا"
+                ],
+                "Karakalpak": [
+                    "xana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mekan"
+                ],
+                "Azerbaijani": [
+                    "məkan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jaý"
+                ],
+                "Kyrgyz": [
+                    "жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xonadon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пулат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хужалы"
+                ]
+            }
+        }
+    ]
+}

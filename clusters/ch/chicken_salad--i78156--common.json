@@ -1,0 +1,64 @@
+{
+    "id": "i78156",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chicken salad",
+    "en_definition": "salad composed primarily of chopped chicken meat",
+    "tr_word": "tavuk salatası",
+    "tr_definition": "temel olarak doğranmış tavuk etinden oluşan salata",
+    "ru_word": "куриный салат",
+    "ru_definition": "салат, состоящий в основном из нарезанного куриного мяса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavuk salatası",
+                    "tavuklu salata"
+                ],
+                "Azerbaijani": [
+                    "toyuq salatı",
+                    "toyuq əti salatı"
+                ],
+                "Turkmen": [
+                    "towuk salaty",
+                    "towukly salat"
+                ],
+                "Uzbek": [
+                    "tovuqli salat",
+                    "tovuq go'shtli salat"
+                ],
+                "Uyghur": [
+                    "توخۇ گۆشى سالاتى",
+                    "توخۇ سالاتى"
+                ],
+                "Kazakh": [
+                    "тауық салаты",
+                    "тауық етінен жасалған салат"
+                ],
+                "Kyrgyz": [
+                    "тоок салаты"
+                ],
+                "Karakalpak": [
+                    "taoıq salatı",
+                    "taoıq góshi salatı"
+                ],
+                "Tatar": [
+                    "тавык салаты",
+                    "тавык ите салаты"
+                ],
+                "Bashkir": [
+                    "тауыҡ салаты",
+                    "тауыҡ итле салат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоок этинен жасалган салат"
+                ]
+            }
+        }
+    ]
+}

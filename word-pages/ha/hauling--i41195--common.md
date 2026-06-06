@@ -1,0 +1,216 @@
+# Hauling
+| Field | Detail |
+|---|---|
+| **ID** | i41195 |
+| **English** | hauling |
+| **Type** | noun |
+| **Definition** | the activity of transporting goods by truck |
+| **Source** | common |
+| **Ortatil** | ḍaşıma |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍaşıma** | **naql** | **cettirmäk** |
+|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ |
+| Uyghur | ❌ | ✅ | ✅ |
+| Kazakh | ✅ | ❌ | ❌ |
+| Kyrgyz | ✅ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 1 | 0 |
+| *Qarluq Subtotal* | 0.50 | 1 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 0 | 0.40 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **3.50** | **2** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| نەقىل | näqil |
+| يۆتكەش | yötkäş |
+| توشۇش | toşuş |
+| **Kazakh** | |
+| тасымал | tasımal |
+| тасымалдау | tasımaldau |
+| **Kyrgyz** | |
+| ташуу | taşuu |
+| ташуучулук | taşuuçuluk |
+| жеткирүү | jetkirüü |
+| **Tatar** | |
+| ташу | taşu |
+| илтү | iltü |
+| йөртү | yörtü |
+| күчерү | küçerü |
+| **Bashkir** | |
+| ташыу | taşıu |
+| илтеү | ilteü |
+| йөрөтөү | yörötöü |
+| күсереү | küsereü |
+
+```json
+{
+    "id": "i41195",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hauling",
+    "en_definition": "the activity of transporting goods by truck",
+    "tr_word": "nakliyecilik",
+    "tr_definition": "Malların kamyon veya benzeri araçlarla bir yerden başka bir yere taşınması işi.",
+    "ru_word": "грузоперевозки",
+    "ru_definition": "Деятельность по транспортировке товаров или грузов с помощью грузовых автомобилей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşımacılık",
+                    "taşıma"
+                ],
+                "Azerbaijani": [
+                    "daşıma",
+                    "daşınma"
+                ],
+                "Turkmen": [
+                    "daşama"
+                ],
+                "Uzbek": [
+                    "tashish"
+                ],
+                "Kazakh": [
+                    "тасымал",
+                    "тасымалдау"
+                ],
+                "Kyrgyz": [
+                    "ташуу",
+                    "ташуучулук"
+                ],
+                "Karakalpak": [
+                    "tasıo",
+                    "tasımal"
+                ],
+                "Tatar": [
+                    "ташу"
+                ],
+                "Bashkir": [
+                    "ташыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yükdaşıma"
+                ],
+                "Turkmen": [
+                    "ýük daşama"
+                ],
+                "Uzbek": [
+                    "yuk tashish"
+                ],
+                "Uyghur": [
+                    "يۈك توشۇش"
+                ],
+                "Kazakh": [
+                    "жүк тасу"
+                ],
+                "Kyrgyz": [
+                    "жүк ташуу"
+                ],
+                "Karakalpak": [
+                    "júk tasıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nakliyecilik",
+                    "nakliye"
+                ],
+                "Azerbaijani": [
+                    "nəqliyyat"
+                ],
+                "Turkmen": [
+                    "nakliýat"
+                ],
+                "Uzbek": [
+                    "naql"
+                ],
+                "Uyghur": [
+                    "نەقىل"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "يۆتكەش"
+                ],
+                "Kyrgyz": [
+                    "жеткирүү"
+                ],
+                "Karakalpak": [
+                    "jetkerio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eltme"
+                ],
+                "Uzbek": [
+                    "eltish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "илтү"
+                ],
+                "Bashkir": [
+                    "илтеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йөртү"
+                ],
+                "Bashkir": [
+                    "йөрөтөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күчерү"
+                ],
+                "Bashkir": [
+                    "күсереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توشۇش"
+                ]
+            }
+        }
+    ]
+}
+```
+

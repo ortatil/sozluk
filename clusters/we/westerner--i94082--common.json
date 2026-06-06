@@ -1,0 +1,82 @@
+{
+    "id": "i94082",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "westerner",
+    "en_definition": "an inhabitant of a western area; especially of the U.S.",
+    "tr_word": "batılı",
+    "tr_definition": "Batı ülkelerinde veya bir bölgenin batısında yaşayan kimse.",
+    "ru_word": "западник",
+    "ru_definition": "житель западной страны или западного региона.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "garplı"
+                ],
+                "Azerbaijani": [
+                    "qərbli",
+                    "qərb sakini"
+                ],
+                "Turkmen": [
+                    "garply"
+                ],
+                "Uzbek": [
+                    "gʻarblik"
+                ],
+                "Uyghur": [
+                    "غەربلىك",
+                    "غەرب ئەھلى"
+                ],
+                "Karakalpak": [
+                    "ǵarblı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "batılı"
+                ],
+                "Kazakh": [
+                    "батыстық",
+                    "батыс адамы",
+                    "батыс тұрғыны"
+                ],
+                "Kyrgyz": [
+                    "батыштык",
+                    "батыш адамы",
+                    "батыш тургуну"
+                ],
+                "Karakalpak": [
+                    "batıslı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "günbatarly"
+                ],
+                "Tatar": [
+                    "көнбатыш кешесе",
+                    "көнбатышлы"
+                ],
+                "Bashkir": [
+                    "көнбайыш кешеһе",
+                    "көнбайышлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "magʻriblik"
+                ]
+            }
+        }
+    ]
+}

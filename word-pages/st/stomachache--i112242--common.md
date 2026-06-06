@@ -1,0 +1,158 @@
+# Stomachache
+| Field | Detail |
+|---|---|
+| **ID** | i112242 |
+| **English** | stomachache |
+| **Type** | noun |
+| **Definition** | an ache localized in the stomach or abdominal region |
+| **Source** | common |
+| **Ortatil** | sancı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i112242",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stomachache",
+    "en_definition": "an ache localized in the stomach or abdominal region",
+    "tr_word": "karın ağrısı",
+    "tr_definition": "mide veya karın bölgesinde hissedilen ağrı",
+    "ru_word": "боль в животе",
+    "ru_definition": "неприятное или болезненное ощущение в области желудка или брюшной полости",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "iç agrysy"
+                ],
+                "Uyghur": [
+                    "ئىچ ئاغرىقى"
+                ],
+                "Kazakh": [
+                    "іш ауруы"
+                ],
+                "Kyrgyz": [
+                    "ич оору"
+                ],
+                "Karakalpak": [
+                    "іsh auırıoı",
+                    "іsh túyіlіoі"
+                ],
+                "Tatar": [
+                    "эч авырту"
+                ],
+                "Bashkir": [
+                    "эс ауыртыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karın ağrısı",
+                    "karın sancısı"
+                ],
+                "Azerbaijani": [
+                    "qarın ağrısı"
+                ],
+                "Turkmen": [
+                    "garyn agrysy"
+                ],
+                "Uzbek": [
+                    "qorin ogʻrigʻi",
+                    "qorin sanchigʻi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئاشقازان ئاغرىقى"
+                ],
+                "Kazakh": [
+                    "асқазан ауруы"
+                ],
+                "Kyrgyz": [
+                    "ашказан оору"
+                ],
+                "Karakalpak": [
+                    "asqazan auırıoı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قورساق ئاغرىقى"
+                ],
+                "Kyrgyz": [
+                    "курсак оору"
+                ],
+                "Bashkir": [
+                    "ҡорһаҡ ауыртыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mide ağrısı"
+                ],
+                "Azerbaijani": [
+                    "mədə ağrısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sancı"
+                ],
+                "Azerbaijani": [
+                    "sancı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эч сызлау"
+                ],
+                "Bashkir": [
+                    "эс сәнсеүе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dard"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іштің ауруы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эч чәнчү"
+                ]
+            }
+        }
+    ]
+}
+```
+

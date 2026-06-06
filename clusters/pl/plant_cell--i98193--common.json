@@ -1,0 +1,74 @@
+{
+    "id": "i98193",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "plant cell",
+    "en_definition": "a cell that is a structural and functional unit of a plant",
+    "tr_word": "bitki hücresi",
+    "tr_definition": "bir bitkinin yapısal ve işlevsel birimi olan hücre",
+    "ru_word": "растительная клетка",
+    "ru_definition": "клетка, являющаяся структурной и функциональной единицей растения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ösümlik öýjügi"
+                ],
+                "Uzbek": [
+                    "o'simlik hujayrasi"
+                ],
+                "Uyghur": [
+                    "ئۆسۈملۈك ھۈجەيرىسى"
+                ],
+                "Kazakh": [
+                    "өсімдік жасушасы",
+                    "өсімдік клеткасы"
+                ],
+                "Kyrgyz": [
+                    "өсүмдүк клеткасы",
+                    "өсүмдүк уячасы"
+                ],
+                "Karakalpak": [
+                    "ósimlik kletkası",
+                    "ósimlik uyashıǵı"
+                ],
+                "Tatar": [
+                    "үсемлек күзәнәге",
+                    "үсемлек хөҗәйрәсе"
+                ],
+                "Bashkir": [
+                    "үҫемлек күҙәнәге",
+                    "үҫемлек күҙәнәктәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nebat hücresi"
+                ],
+                "Turkmen": [
+                    "nabat öýjügi"
+                ],
+                "Uzbek": [
+                    "nabotot hujayrasi"
+                ],
+                "Uyghur": [
+                    "نباتات ھۈجەيرىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bitki hücresi"
+                ],
+                "Azerbaijani": [
+                    "bitki hüceyrəsi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "id": "i71629",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "visa",
+    "en_definition": "an endorsement made in a passport that allows the bearer to enter the country issuing it",
+    "tr_word": "vize",
+    "tr_definition": "bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan pasaporta konulan onay",
+    "ru_word": "виза",
+    "ru_definition": "разрешение, проставляемое в паспорте, дающее право на въезд в страну, выдавшую его",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vize"
+                ],
+                "Azerbaijani": [
+                    "viza"
+                ],
+                "Turkmen": [
+                    "wiza"
+                ],
+                "Uzbek": [
+                    "viza"
+                ],
+                "Uyghur": [
+                    "ۋىزا"
+                ],
+                "Kazakh": [
+                    "виза"
+                ],
+                "Kyrgyz": [
+                    "виза"
+                ],
+                "Tatar": [
+                    "виза"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "rugsatnama"
+                ],
+                "Uzbek": [
+                    "ruxsatnoma"
+                ],
+                "Uyghur": [
+                    "رۇخسەتنامە"
+                ],
+                "Kazakh": [
+                    "рұқсат",
+                    "рұқсаттама"
+                ],
+                "Kyrgyz": [
+                    "уруксат кагаз"
+                ],
+                "Karakalpak": [
+                    "róxsát"
+                ],
+                "Tatar": [
+                    "рөхсәтнамә"
+                ],
+                "Bashkir": [
+                    "рөхсәтнамә",
+                    "рөхсәт ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "giriş izni",
+                    "geçiş belgesi"
+                ],
+                "Azerbaijani": [
+                    "giriş icazəsi"
+                ],
+                "Uyghur": [
+                    "كىرىش رۇخسىتى"
+                ],
+                "Kyrgyz": [
+                    "кириш уруксаты"
+                ],
+                "Tatar": [
+                    "керү рөхсәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ijozatnoma"
+                ],
+                "Karakalpak": [
+                    "ijazat",
+                    "ijazatnama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rəsmi icazə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "инеү рөхсәте"
+                ]
+            }
+        }
+    ]
+}

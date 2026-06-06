@@ -1,0 +1,112 @@
+{
+    "id": "i12346",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "smoky",
+    "en_definition": "marked by or emitting or filled with smoke",
+    "tr_word": "dumanlı",
+    "tr_definition": "dumanla dolu olan veya duman çıkaran",
+    "ru_word": "дымный",
+    "ru_definition": "наполненный дымом или выделяющий дым",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tüstülü"
+                ],
+                "Turkmen": [
+                    "tüsseli",
+                    "tüsse basan"
+                ],
+                "Uyghur": [
+                    "تۈتۈنلۈك",
+                    "تۈتۈن باسقان"
+                ],
+                "Kazakh": [
+                    "түтінді",
+                    "түтінге толған",
+                    "түтіндеген"
+                ],
+                "Kyrgyz": [
+                    "түтүндүү",
+                    "түтүн"
+                ],
+                "Karakalpak": [
+                    "tútinli",
+                    "tútinlegen"
+                ],
+                "Tatar": [
+                    "төтенле",
+                    "төтенле-корымлы",
+                    "төтен баскан"
+                ],
+                "Bashkir": [
+                    "төтөнлө",
+                    "төтөн баҫҡан",
+                    "төтөнлө-иҫле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dumanlı"
+                ],
+                "Azerbaijani": [
+                    "dumanlı"
+                ],
+                "Turkmen": [
+                    "dumanly"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "isli"
+                ],
+                "Azerbaijani": [
+                    "hisli"
+                ],
+                "Karakalpak": [
+                    "ıslı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ысты"
+                ],
+                "Kyrgyz": [
+                    "ыштуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "puslu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tutunli",
+                    "dudli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'uborli"
+                ]
+            }
+        }
+    ]
+}

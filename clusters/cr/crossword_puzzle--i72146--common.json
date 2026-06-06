@@ -1,0 +1,114 @@
+{
+    "id": "i72146",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "crossword puzzle",
+    "en_definition": "a puzzle in which words corresponding to numbered clues are to be found and written in to squares in the puzzle",
+    "tr_word": "kare bulmaca",
+    "tr_definition": "numaralandırılmış ipuçlarına karşılık gelen kelimelerin bulunduğu ve karelere yazıldığı bir bulmaca türü",
+    "ru_word": "кроссворд",
+    "ru_definition": "игра-задача, в которой фигуру из пустых клеток нужно заполнить буквами, чтобы по горизонтали и вертикали получились искомые слова",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "söz tapmacası"
+                ],
+                "Turkmen": [
+                    "söz tapmaçasy"
+                ],
+                "Uzbek": [
+                    "soʻz topishmoq"
+                ],
+                "Uyghur": [
+                    "سۆز تېپىشمىقى"
+                ],
+                "Kazakh": [
+                    "сөзжұмбақ",
+                    "сөзтабыш"
+                ],
+                "Kyrgyz": [
+                    "сөз табышмак",
+                    "сөз катырма",
+                    "сөзжумбак"
+                ],
+                "Karakalpak": [
+                    "sózjұmbaq",
+                    "sóztabıshmaq"
+                ],
+                "Tatar": [
+                    "сүзваткыч"
+                ],
+                "Bashkir": [
+                    "һүҙбәйләм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tapmaca"
+                ],
+                "Turkmen": [
+                    "tapmaça"
+                ],
+                "Uzbek": [
+                    "topishmoq"
+                ],
+                "Uyghur": [
+                    "تېپىشماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "krossvord"
+                ],
+                "Turkmen": [
+                    "krossword"
+                ],
+                "Uyghur": [
+                    "كروسوورد"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kare bulmaca"
+                ],
+                "Uzbek": [
+                    "krossvord"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "башваткыч"
+                ],
+                "Bashkir": [
+                    "башватҡыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bulmaca"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çengel bulmaca"
+                ]
+            }
+        }
+    ]
+}

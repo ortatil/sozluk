@@ -1,0 +1,88 @@
+{
+    "id": "i67142",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "language learning",
+    "en_definition": "learning to use a language",
+    "tr_word": "dil öğrenimi",
+    "tr_definition": "bir dili kullanmayı öğrenme süreci",
+    "ru_word": "изучение языка",
+    "ru_definition": "процесс освоения навыков использования языка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dil öğrenimi",
+                    "dil tahsili"
+                ],
+                "Azerbaijani": [
+                    "dil öyrənmə",
+                    "dil öyrənilməsi",
+                    "dil təhsili"
+                ],
+                "Turkmen": [
+                    "dil öwrenmek",
+                    "dil öwreniş"
+                ],
+                "Uzbek": [
+                    "til o'rganish",
+                    "til o'zlashtirish"
+                ],
+                "Uyghur": [
+                    "تىل ئۆگىنىش",
+                    "تىل ئۆگىنىشى"
+                ],
+                "Kazakh": [
+                    "тіл үйрену",
+                    "тіл меңгеру",
+                    "тіл оқу"
+                ],
+                "Kyrgyz": [
+                    "тил үйрөнүү",
+                    "тил таануу",
+                    "тил өздөштүрүү"
+                ],
+                "Karakalpak": [
+                    "til úyrenio",
+                    "til meńgerio"
+                ],
+                "Tatar": [
+                    "тел өйрәнү",
+                    "тел үзләштерү"
+                ],
+                "Bashkir": [
+                    "тел өйрәнеү",
+                    "тел белеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lisan öğrenme"
+                ],
+                "Uzbek": [
+                    "lison o'rganish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тел белемен алу"
+                ],
+                "Bashkir": [
+                    "тел үҙләштереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "til saoatı"
+                ]
+            }
+        }
+    ]
+}

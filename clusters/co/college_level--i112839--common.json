@@ -1,0 +1,101 @@
+{
+    "id": "i112839",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "college level",
+    "en_definition": "the level of education that college students are assumed to have attained",
+    "tr_word": "üniversite düzeyi",
+    "tr_definition": "üniversite öğrencilerinin sahip olduğu varsayılan eğitim ve bilgi seviyesi",
+    "ru_word": "университетский уровень",
+    "ru_definition": "уровень образования, который, как предполагается, достигнут студентами высших учебных заведений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yükseköğretim düzeyi",
+                    "yüksek tahsil derecesi"
+                ],
+                "Turkmen": [
+                    "ýokary bilim derejesi",
+                    "ýokary okuw derejesi"
+                ],
+                "Kazakh": [
+                    "жоғары білім деңгейі"
+                ],
+                "Kyrgyz": [
+                    "жогорку билим деңгээли"
+                ],
+                "Karakalpak": [
+                    "joqarı bilim",
+                    "joqarı oqıo ornı dárejesi"
+                ],
+                "Tatar": [
+                    "югары белем дәрәҗәсе",
+                    "югары уку дәрәҗәсе"
+                ],
+                "Bashkir": [
+                    "юғары белем кимәле",
+                    "юғары уҡыу йорто кимәле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akademi düzeyi"
+                ],
+                "Kazakh": [
+                    "академиялық деңгей"
+                ],
+                "Karakalpak": [
+                    "akademiyalıq dáreje"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ali təhsil səviyyəsi",
+                    "ali məktəb dərəcəsi"
+                ],
+                "Uzbek": [
+                    "oliy ta'lim darajasi",
+                    "oliy ma'lumot darajasi",
+                    "oliy bosqich"
+                ],
+                "Uyghur": [
+                    "ئالىي مائارىپ سەۋىيىسى",
+                    "ئالىي مەكتەپ سەۋىيىسى",
+                    "ئالىي بىلىم سەۋىيىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "üniversite seviyesi"
+                ],
+                "Azerbaijani": [
+                    "universitet səviyyəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "окуу деңгээли"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гыйлем дәрәҗәсе"
+                ]
+            }
+        }
+    ]
+}

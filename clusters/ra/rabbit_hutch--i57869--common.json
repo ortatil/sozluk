@@ -1,0 +1,90 @@
+{
+    "id": "i57869",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rabbit hutch",
+    "en_definition": "a hutch for rabbits",
+    "tr_word": "tavşan kümesi",
+    "tr_definition": "Tavşanların barınması için özel olarak yapılmış kafes veya kulübe.",
+    "ru_word": "крольчатник",
+    "ru_definition": "Специально оборудованная клетка или помещение для содержания кроликов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quyonxona"
+                ],
+                "Kazakh": [
+                    "қоян қора",
+                    "қоян ұясы",
+                    "қоянхана"
+                ],
+                "Kyrgyz": [
+                    "коён капас",
+                    "коёнкана"
+                ],
+                "Karakalpak": [
+                    "qoyanxana",
+                    "qoyan kategi",
+                    "qoyan uyası"
+                ],
+                "Tatar": [
+                    "куян оясы",
+                    "куян читлеге"
+                ],
+                "Bashkir": [
+                    "ҡуян ояһы",
+                    "ҡуян ситлеге",
+                    "ҡуян һарайы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavşan kümesi",
+                    "tavşan kafesi",
+                    "tavşan yuvası"
+                ],
+                "Azerbaijani": [
+                    "dovşan damı",
+                    "dovşan qəfəsi",
+                    "dovşan yuvası"
+                ],
+                "Turkmen": [
+                    "towşan ketegi"
+                ],
+                "Uyghur": [
+                    "توشقان كاتىكى",
+                    "توشقانخانا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gapy"
+                ],
+                "Uzbek": [
+                    "qafas"
+                ],
+                "Kyrgyz": [
+                    "капас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ketek"
+                ],
+                "Uzbek": [
+                    "katak"
+                ]
+            }
+        }
+    ]
+}

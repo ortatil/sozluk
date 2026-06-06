@@ -1,0 +1,93 @@
+{
+    "id": "i66964",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "piano music",
+    "en_definition": "the sound of music produced by a piano",
+    "tr_word": "piyano müziği",
+    "tr_definition": "bir piyano tarafından üretilen müzik sesi",
+    "ru_word": "фортепианная музыка",
+    "ru_definition": "звучание музыки, исполняемой на пианино или фортепиано",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fortepiano musiqisi",
+                    "fortepiano sədaları"
+                ],
+                "Turkmen": [
+                    "fortepiano sazy",
+                    "fortepiano owazy"
+                ],
+                "Uzbek": [
+                    "fortepiano musiqasi",
+                    "fortepiano navosi",
+                    "fortepiano kuyi"
+                ],
+                "Kyrgyz": [
+                    "фортепиано күүсү"
+                ],
+                "Karakalpak": [
+                    "fortepiano sazı",
+                    "fortepiano naǵısı",
+                    "fortepiano muzıkası"
+                ],
+                "Tatar": [
+                    "фортепиано музыкасы"
+                ],
+                "Bashkir": [
+                    "фортепиано көйө",
+                    "фортепиано музыкаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "piyano müziği",
+                    "piyano sesi",
+                    "piyano nağmesi"
+                ],
+                "Azerbaijani": [
+                    "piano musiqisi",
+                    "piano sədaları"
+                ],
+                "Turkmen": [
+                    "piano sazy"
+                ],
+                "Uyghur": [
+                    "پىئانىنو مۇزىكىسى",
+                    "پىئانىنو ئاۋازى",
+                    "پىئانىنو كۈيى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "рояль күүсү",
+                    "рояль музыкасы"
+                ],
+                "Tatar": [
+                    "рояль көе",
+                    "рояль музыкасы"
+                ],
+                "Bashkir": [
+                    "рояль көйө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күйсандық әуені",
+                    "күйсандық музыкасы",
+                    "күйсандық үні"
+                ]
+            }
+        }
+    ]
+}

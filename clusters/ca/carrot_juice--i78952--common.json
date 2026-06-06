@@ -1,0 +1,77 @@
+{
+    "id": "i78952",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "carrot juice",
+    "en_definition": "usually freshly squeezed juice of carrots",
+    "tr_word": "havuç suyu",
+    "tr_definition": "genellikle taze sıkılmış havuçlardan elde edilen içecek",
+    "ru_word": "морковный сок",
+    "ru_definition": "обычно свежевыжатый сок из моркови",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sabzi sharbati",
+                    "sabzi suvi"
+                ],
+                "Uyghur": [
+                    "سەۋزە شەربىتى",
+                    "سەۋزە سۈيى"
+                ],
+                "Kazakh": [
+                    "сәбіз шырыны",
+                    "сәбіз сусыны"
+                ],
+                "Kyrgyz": [
+                    "сабиз ширеси",
+                    "сабиз суусу"
+                ],
+                "Karakalpak": [
+                    "sábiz shiresi",
+                    "sábiz suwı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "käşir şiresi",
+                    "käşir suwy"
+                ],
+                "Tatar": [
+                    "кишер суы",
+                    "кишер шәрбәте"
+                ],
+                "Bashkir": [
+                    "кишер һуты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havuç suyu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yerkökü şirəsi",
+                    "yerkökü suyu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kök şirəsi",
+                    "kök suyu"
+                ]
+            }
+        }
+    ]
+}

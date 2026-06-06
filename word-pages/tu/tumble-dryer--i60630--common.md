@@ -1,0 +1,150 @@
+# Tumble-dryer
+| Field | Detail |
+|---|---|
+| **ID** | i60630 |
+| **English** | tumble-dryer |
+| **Type** | noun |
+| **Definition** | a clothes dryer that spins wet clothes inside a cylinder with heated air |
+| **Source** | common |
+| **Ortatil** | qurutuwçu |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qurutuwçu** | **keptirgiş** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ❌ | ❌ |
+| Tatar | ❌ | ✅ |
+| Bashkir | ❌ | ✅ |
+| *Oghuz Subtotal* | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.60 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **3.20** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قۇرۇتقۇچ | qurutquç |
+| **Kazakh** | |
+| кептіргіш | keptirgiş |
+| **Kyrgyz** | |
+| кургаткыч | kurgatkıç |
+| **Tatar** | |
+| киптергеч | kiptergeç |
+| **Bashkir** | |
+| кип-киптергес | kip-kipterges |
+
+```json
+{
+    "id": "i60630",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tumble-dryer",
+    "en_definition": "a clothes dryer that spins wet clothes inside a cylinder with heated air",
+    "tr_word": "kurutma makinesi",
+    "tr_definition": "ıslak çamaşırları sıcak hava ile dönen bir tambur içinde kurutan cihaz",
+    "ru_word": "сушильная машина",
+    "ru_definition": "устройство для сушки белья путем вращения в барабане с потоком горячего воздуха",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kiyim quritgich"
+                ],
+                "Uyghur": [
+                    "كىيىم قۇرۇتقۇچ"
+                ],
+                "Kazakh": [
+                    "киім кептіргіш"
+                ],
+                "Kyrgyz": [
+                    "кийим кургаткыч"
+                ],
+                "Karakalpak": [
+                    "kiim keptirgish"
+                ],
+                "Tatar": [
+                    "кием киптергеч"
+                ],
+                "Bashkir": [
+                    "кейем киптергес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurutma makinesi",
+                    "çamaşır kurutma makinesi",
+                    "kurutucu"
+                ],
+                "Azerbaijani": [
+                    "quruducu",
+                    "qurutma maşını"
+                ],
+                "Turkmen": [
+                    "guradyjy",
+                    "guradyjy maşyn"
+                ],
+                "Uzbek": [
+                    "quritgich",
+                    "quritish mashinasi"
+                ],
+                "Uyghur": [
+                    "قۇرۇتقۇچ",
+                    "قۇرۇتۇش ماشىنىسى"
+                ],
+                "Kyrgyz": [
+                    "кургаткыч",
+                    "кургатуучу машина"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кептіргіш",
+                    "кептіргіш машина"
+                ],
+                "Karakalpak": [
+                    "keptirioshi mashina"
+                ],
+                "Tatar": [
+                    "киптерү машинасы",
+                    "киптергеч"
+                ],
+                "Bashkir": [
+                    "кип-киптергес",
+                    "киптереү машинаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paltarqurudan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eşik guradyjy"
+                ]
+            }
+        }
+    ]
+}
+```
+

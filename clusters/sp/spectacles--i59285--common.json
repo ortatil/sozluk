@@ -1,0 +1,85 @@
+{
+    "id": "i59285",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spectacles",
+    "en_definition": "optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision",
+    "tr_word": "gözlük",
+    "tr_definition": "Görme bozukluklarını düzeltmek veya gözü korumak için bir çerçeveye yerleştirilmiş çift camdan oluşan araç.",
+    "ru_word": "очки",
+    "ru_definition": "Оптический прибор из двух линз в оправе, предназначенный для коррекции зрения или защиты глаз.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gözlük"
+                ],
+                "Azerbaijani": [
+                    "gözlük"
+                ],
+                "Turkmen": [
+                    "gözlük"
+                ],
+                "Uzbek": [
+                    "ko'zoynak"
+                ],
+                "Uyghur": [
+                    "كۆزەينەك",
+                    "كۆزەينەكچە"
+                ],
+                "Kazakh": [
+                    "көзілдірік"
+                ],
+                "Kyrgyz": [
+                    "көз айнек"
+                ],
+                "Karakalpak": [
+                    "kózáynek",
+                    "kózlik"
+                ],
+                "Tatar": [
+                    "күзлек"
+                ],
+                "Bashkir": [
+                    "күҙлек",
+                    "күҙлек-баш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "eynək"
+                ],
+                "Turkmen": [
+                    "äýnek"
+                ],
+                "Uzbek": [
+                    "aynaki"
+                ],
+                "Kazakh": [
+                    "айна"
+                ],
+                "Kyrgyz": [
+                    "айнек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çeşm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "миръя"
+                ]
+            }
+        }
+    ]
+}

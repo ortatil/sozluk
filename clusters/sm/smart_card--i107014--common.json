@@ -1,0 +1,140 @@
+{
+    "id": "i107014",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "smart card",
+    "en_definition": "a plastic card containing a microprocessor that enables the holder to perform operations requiring data that is stored in the microprocessor; typically used to perform financial transactions",
+    "tr_word": "akıllı kart",
+    "tr_definition": "İçindeki mikroişlemci sayesinde veri depolayabilen ve genellikle finansal işlemler veya kimlik doğrulama için kullanılan plastik kart.",
+    "ru_word": "смарт-карта",
+    "ru_definition": "Пластиковая карта со встроенным микропроцессором, предназначенная для хранения данных и выполнения финансовых или идентификационных операций.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akıllı kart"
+                ],
+                "Azerbaijani": [
+                    "ağıllı kart"
+                ],
+                "Turkmen": [
+                    "akylly kart"
+                ],
+                "Uzbek": [
+                    "aqlli karta"
+                ],
+                "Uyghur": [
+                    "ئەقلىي ئىقتىدارلىق كارتا",
+                    "ئەقلىي كارتا"
+                ],
+                "Kazakh": [
+                    "ақылды карта"
+                ],
+                "Kyrgyz": [
+                    "акылдуу карта"
+                ],
+                "Karakalpak": [
+                    "aqıllı karta"
+                ],
+                "Tatar": [
+                    "акыллы карта"
+                ],
+                "Bashkir": [
+                    "аҡыллы карта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çipli kart"
+                ],
+                "Azerbaijani": [
+                    "çipli kart"
+                ],
+                "Turkmen": [
+                    "çipli kart"
+                ],
+                "Uyghur": [
+                    "چىپلىق كارتا"
+                ],
+                "Kazakh": [
+                    "чипті карта"
+                ],
+                "Kyrgyz": [
+                    "чиптүү карта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektronik kart"
+                ],
+                "Uzbek": [
+                    "elektron karta"
+                ],
+                "Kyrgyz": [
+                    "электрондук карта"
+                ],
+                "Karakalpak": [
+                    "elektronlıq karta"
+                ],
+                "Bashkir": [
+                    "электрон карта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mikroprotsessorli karta"
+                ],
+                "Kazakh": [
+                    "микропроцессорлық карта"
+                ],
+                "Karakalpak": [
+                    "mikroprocessorlı karta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maglumat karty"
+                ],
+                "Bashkir": [
+                    "микросхемалы карта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hisob kartasi"
+                ],
+                "Tatar": [
+                    "хисап картасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yaddaşlı kart"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "белемле карта"
+                ]
+            }
+        }
+    ]
+}

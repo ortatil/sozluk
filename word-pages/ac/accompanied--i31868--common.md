@@ -1,0 +1,250 @@
+# Accompanied
+| Field | Detail |
+|---|---|
+| **ID** | i31868 |
+| **English** | accompanied |
+| **Type** | verb |
+| **Definition** | go or travel along with |
+| **Source** | common |
+| **Ortatil** | qoşulunmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئەگەشمەك | ägäşmäk |
+| **Kazakh** | |
+| ілесу | ilesu |
+| **Kyrgyz** | |
+| коштоо | koştoo |
+| кошулуу | koşuluu |
+| **Tatar** | |
+| иярү | iyarü |
+| **Bashkir** | |
+| оҙатыу | ozatıu |
+| эйәреү | eyäreü |
+
+```json
+{
+    "id": "i31868",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "accompanied",
+    "en_definition": "go or travel along with",
+    "tr_word": "eşlik etmek",
+    "tr_definition": "bir kimseyle veya bir şeyle birlikte gitmek",
+    "ru_word": "сопровождать",
+    "ru_definition": "идти или ехать вместе с кем-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yoldaşlıq etmək"
+                ],
+                "Turkmen": [
+                    "ýoldaş bolmak"
+                ],
+                "Uzbek": [
+                    "yoʻldosh boʻlmoq"
+                ],
+                "Uyghur": [
+                    "يولداش بولماق"
+                ],
+                "Kazakh": [
+                    "жолдас болу"
+                ],
+                "Karakalpak": [
+                    "joldas bolu"
+                ],
+                "Tatar": [
+                    "юлдаш булу"
+                ],
+                "Bashkir": [
+                    "юлдаш булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bile gitmek"
+                ],
+                "Uyghur": [
+                    "بىللە بارماق"
+                ],
+                "Kazakh": [
+                    "бірге бару"
+                ],
+                "Kyrgyz": [
+                    "бирге баруу"
+                ],
+                "Karakalpak": [
+                    "bіrge baru"
+                ],
+                "Tatar": [
+                    "бергә бару"
+                ],
+                "Bashkir": [
+                    "бергә барыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşulmaq"
+                ],
+                "Kyrgyz": [
+                    "коштоо",
+                    "кошулуу"
+                ],
+                "Karakalpak": [
+                    "qosılıp júru"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hemra bolmak"
+                ],
+                "Uzbek": [
+                    "hamrohlik qilmoq"
+                ],
+                "Uyghur": [
+                    "ھەمراھ بولماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "еріп жүру"
+                ],
+                "Kyrgyz": [
+                    "шерик болуу"
+                ],
+                "Karakalpak": [
+                    "erіp júru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beraber gitmek"
+                ],
+                "Azerbaijani": [
+                    "bərabər getmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yanında gitmek"
+                ],
+                "Kazakh": [
+                    "қасында болу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ergashmoq"
+                ],
+                "Uyghur": [
+                    "ئەگەشمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "озата бару"
+                ],
+                "Bashkir": [
+                    "оҙатыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иярү"
+                ],
+                "Bashkir": [
+                    "эйәреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşlik etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "refakat etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "katılmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müşayiət etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ugurdaş bolmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "birga bormoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kuzatib bormoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ілесу"
+                ]
+            }
+        }
+    ]
+}
+```
+

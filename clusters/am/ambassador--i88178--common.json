@@ -1,0 +1,113 @@
+{
+    "id": "i88178",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ambassador",
+    "en_definition": "a diplomat of the highest rank; accredited as representative from one country to another",
+    "tr_word": "büyükelçi",
+    "tr_definition": "Bir devleti başka bir devlet katında temsil eden en üst düzey diplomat.",
+    "ru_word": "посол",
+    "ru_definition": "Дипломатический представитель высшего ранга, представляющий своё государство в другом государстве.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elçi"
+                ],
+                "Azerbaijani": [
+                    "elçi"
+                ],
+                "Turkmen": [
+                    "ilçi"
+                ],
+                "Uzbek": [
+                    "elchi"
+                ],
+                "Uyghur": [
+                    "ئەلچى"
+                ],
+                "Kazakh": [
+                    "елші"
+                ],
+                "Kyrgyz": [
+                    "элчи"
+                ],
+                "Karakalpak": [
+                    "elshi"
+                ],
+                "Tatar": [
+                    "илче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sefir"
+                ],
+                "Azerbaijani": [
+                    "səfir"
+                ],
+                "Uzbek": [
+                    "safir"
+                ],
+                "Uyghur": [
+                    "سەپىر"
+                ],
+                "Tatar": [
+                    "сәфир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "wekil"
+                ],
+                "Kazakh": [
+                    "уәкіл"
+                ],
+                "Kyrgyz": [
+                    "өкүл"
+                ],
+                "Karakalpak": [
+                    "uákil"
+                ],
+                "Bashkir": [
+                    "вәкил"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyükelçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "namoyanda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дипломат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "илсе"
+                ]
+            }
+        }
+    ]
+}

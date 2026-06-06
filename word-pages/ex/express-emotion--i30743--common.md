@@ -1,0 +1,220 @@
+# Express emotion
+| Field | Detail |
+|---|---|
+| **ID** | i30743 |
+| **English** | express emotion |
+| **Type** | verb |
+| **Definition** | give verbal or other expression to one's feelings |
+| **Source** | common |
+| **Ortatil** | ifädälämäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ақтарылу | aqtarılu |
+
+```json
+{
+    "id": "i30743",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "express emotion",
+    "en_definition": "give verbal or other expression to one's feelings",
+    "tr_word": "duygularını ifade etmek",
+    "tr_definition": "birinin hislerini sözlü veya başka bir yolla dışa vurması",
+    "ru_word": "выражать чувства",
+    "ru_definition": "давать словесное или иное выражение своим чувствам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hissiyatını belirtmek"
+                ],
+                "Azerbaijani": [
+                    "hisslərini ifadə etmək",
+                    "hisslərini büruzə vermək"
+                ],
+                "Uyghur": [
+                    "ھېسسىياتىنى ئىپادىلىمەك",
+                    "ھېسسىياتىنى ئىزھار قىلماق",
+                    "ھېسسىياتىنى بايان قىلماق"
+                ],
+                "Tatar": [
+                    "хисләрен тышка чыгару"
+                ],
+                "Bashkir": [
+                    "хистәрҙе сығарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "duygularını ifade etmek",
+                    "duygularını dile getirmek",
+                    "duygularını açığa vurmak"
+                ],
+                "Azerbaijani": [
+                    "duyğularını bildirmək",
+                    "duyğularını izhar etmək"
+                ],
+                "Turkmen": [
+                    "duýgy bildirmek"
+                ],
+                "Bashkir": [
+                    "тойғоларҙы күрһәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كۆڭلىنى ئاشكارىلىماق"
+                ],
+                "Kazakh": [
+                    "көңіл-күйін жеткізу"
+                ],
+                "Tatar": [
+                    "күңел ачу"
+                ],
+                "Bashkir": [
+                    "күңелде асыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "izhor qilmoq"
+                ],
+                "Kazakh": [
+                    "ішін ақтару"
+                ],
+                "Karakalpak": [
+                    "ishki dúnyasın ashıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сезімін білдіру"
+                ],
+                "Kyrgyz": [
+                    "сезимдерин билдирүү",
+                    "сезимин ачуу",
+                    "сезимин сыртка чыгаруу"
+                ],
+                "Karakalpak": [
+                    "sezimlerin bildirio",
+                    "sezimge berilio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "içini dökmek"
+                ],
+                "Turkmen": [
+                    "açyp görkezmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "beýan etmek"
+                ],
+                "Uzbek": [
+                    "bayon etmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хис белдерү"
+                ],
+                "Bashkir": [
+                    "хис белдереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "paş etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ifodalamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻrsatmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "namoyon qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сырын ашу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақтарылу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ички дүйнөсүн көрсөтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "keoil-kúyіn kórsetio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәэсир итү"
+                ]
+            }
+        }
+    ]
+}
+```
+

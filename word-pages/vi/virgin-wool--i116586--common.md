@@ -1,0 +1,181 @@
+# Virgin wool
+| Field | Detail |
+|---|---|
+| **ID** | i116586 |
+| **English** | virgin wool |
+| **Type** | noun |
+| **Definition** | wool not used before; wool not processed or woven before |
+| **Source** | common |
+| **Ortatil** | tübüt |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| түбіт | tübit |
+| жабағы | jabağı |
+
+```json
+{
+    "id": "i116586",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "virgin wool",
+    "en_definition": "wool not used before; wool not processed or woven before",
+    "tr_word": "saf yün",
+    "tr_definition": "daha önce işlenmemiş veya dokunmamış, doğrudan koyundan elde edilen yeni yün",
+    "ru_word": "натуральная шерсть",
+    "ru_definition": "шерсть, которая ранее не подвергалась переработке и не была в употреблении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işlenmemiş yün"
+                ],
+                "Azerbaijani": [
+                    "işlənməmiş yun"
+                ],
+                "Turkmen": [
+                    "işlenmedik ýüň"
+                ],
+                "Uzbek": [
+                    "ishlov berilmagan jun"
+                ],
+                "Uyghur": [
+                    "ئىشلىتىلمىگەن يۇڭ"
+                ],
+                "Kyrgyz": [
+                    "иштетилбеген жүн"
+                ],
+                "Tatar": [
+                    "эшкәртелмәгән йон"
+                ],
+                "Bashkir": [
+                    "эшкәртелмәгән йөн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saf yün",
+                    "has yün",
+                    "taze yün"
+                ],
+                "Turkmen": [
+                    "tiz ýüň"
+                ],
+                "Uzbek": [
+                    "toza jun"
+                ],
+                "Kazakh": [
+                    "таза жүн"
+                ],
+                "Kyrgyz": [
+                    "таза жүн"
+                ],
+                "Karakalpak": [
+                    "taza jún"
+                ],
+                "Bashkir": [
+                    "таҙа йөн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xalis yun"
+                ],
+                "Uzbek": [
+                    "xom jun"
+                ],
+                "Uyghur": [
+                    "خام يۇڭ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ساپ يۇڭ"
+                ],
+                "Tatar": [
+                    "саф йон"
+                ],
+                "Bashkir": [
+                    "яңы йөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təmiz yun",
+                    "təbii yun"
+                ],
+                "Kazakh": [
+                    "түбіт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өңделмеген жүн"
+                ],
+                "Karakalpak": [
+                    "óńdelmegen jún"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чийки жүн"
+                ],
+                "Tatar": [
+                    "чи йон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arassa ýüň"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yuvilmagan jun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жабағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "iylenbegen jún"
+                ]
+            }
+        }
+    ]
+}
+```
+

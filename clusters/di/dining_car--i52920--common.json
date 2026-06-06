@@ -1,0 +1,97 @@
+{
+    "id": "i52920",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dining car",
+    "en_definition": "a passenger car where food is served in transit",
+    "tr_word": "yemekli vagon",
+    "tr_definition": "trenlerde yolcuların yemek yiyebilmesi için özel olarak düzenlenmiş vagon",
+    "ru_word": "вагон-ресторан",
+    "ru_definition": "железнодорожный вагон, оборудованный как ресторан для питания пассажиров в пути",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oshxona vagoni"
+                ],
+                "Uyghur": [
+                    "ئاشخانا ۋاگونى"
+                ],
+                "Kazakh": [
+                    "асхана-вагон"
+                ],
+                "Kyrgyz": [
+                    "ашкана-вагон"
+                ],
+                "Karakalpak": [
+                    "asxana-wagon"
+                ],
+                "Tatar": [
+                    "ашханә-вагон",
+                    "аш-су вагоны"
+                ],
+                "Bashkir": [
+                    "ашхана-вагон",
+                    "аш-һыу вагоны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "restoran vagonu"
+                ],
+                "Azerbaijani": [
+                    "vaqon-restoran"
+                ],
+                "Turkmen": [
+                    "restoran-wagon"
+                ],
+                "Kazakh": [
+                    "вагон-мейрамхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تاماقخانا ۋاگونى"
+                ],
+                "Kyrgyz": [
+                    "тамактануучу вагон"
+                ],
+                "Karakalpak": [
+                    "tamaqlanıo wagonı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemekli vagon"
+                ],
+                "Azerbaijani": [
+                    "yemək vaqonu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "naharhana wagon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vagon-oshxona",
+                    "vagon-restoran"
+                ]
+            }
+        }
+    ]
+}

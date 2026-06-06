@@ -1,0 +1,129 @@
+{
+    "id": "i33749",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "vote in",
+    "en_definition": "elect in a voting process",
+    "tr_word": "oyla seçmek",
+    "tr_definition": "birini oylama yoluyla bir göreve veya makama getirmek",
+    "ru_word": "избирать",
+    "ru_definition": "выбирать кого-либо на должность или в орган власти путем голосования",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saýlamak"
+                ],
+                "Uzbek": [
+                    "saylamoq",
+                    "tanlamoq"
+                ],
+                "Uyghur": [
+                    "سايلام ئارقىلىق كىرگۈزۈش",
+                    "سايلامدا ئۇتۇپ چىقىش",
+                    "سايلاپ چىقىرىش",
+                    "سايلامدا غەلىبە قىلىش"
+                ],
+                "Kazakh": [
+                    "сайлау"
+                ],
+                "Kyrgyz": [
+                    "шайлоо"
+                ],
+                "Karakalpak": [
+                    "saylao",
+                    "saylap qoyıo"
+                ],
+                "Tatar": [
+                    "сайлау",
+                    "сайлап кую",
+                    "сайлап алу"
+                ],
+                "Bashkir": [
+                    "һайлау",
+                    "һайлап ҡуйыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seçmek"
+                ],
+                "Azerbaijani": [
+                    "seçmək",
+                    "səs verməklə seçmək",
+                    "səs verib seçmək"
+                ],
+                "Turkmen": [
+                    "ses bermek",
+                    "ses berip saýlamak"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дауыс беру"
+                ],
+                "Karakalpak": [
+                    "daoıs berip saylao"
+                ],
+                "Bashkir": [
+                    "тауыш биреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "intihap etmek"
+                ],
+                "Uzbek": [
+                    "intihob qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңдау"
+                ],
+                "Kyrgyz": [
+                    "тандап алуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oyla seçmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göreve getirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ovoz bermoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "добуш берүү менен шайлоо"
+                ]
+            }
+        }
+    ]
+}

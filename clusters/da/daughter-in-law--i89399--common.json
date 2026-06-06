@@ -1,0 +1,62 @@
+{
+    "id": "i89399",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "daughter-in-law",
+    "en_definition": "the wife of your son",
+    "tr_word": "gelin",
+    "tr_definition": "bir kimsenin oğlunun karısı",
+    "ru_word": "невестка",
+    "ru_definition": "жена сына по отношению к его родителям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gelin"
+                ],
+                "Azerbaijani": [
+                    "gəlin"
+                ],
+                "Turkmen": [
+                    "gelin"
+                ],
+                "Uzbek": [
+                    "kelin",
+                    "kelinchak"
+                ],
+                "Uyghur": [
+                    "كېلىن",
+                    "كېلىنچەك"
+                ],
+                "Kazakh": [
+                    "келін",
+                    "келіншек"
+                ],
+                "Kyrgyz": [
+                    "келин",
+                    "келинчек"
+                ],
+                "Karakalpak": [
+                    "kelin",
+                    "kelinshek"
+                ],
+                "Tatar": [
+                    "килен",
+                    "килендәш"
+                ],
+                "Bashkir": [
+                    "килен",
+                    "киленсәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ogul gelni"
+                ]
+            }
+        }
+    ]
+}

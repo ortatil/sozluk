@@ -1,0 +1,79 @@
+{
+    "id": "i116531",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vegetable wax",
+    "en_definition": "a waxy substance obtained from plants (especially from the trunks of certain palms)",
+    "tr_word": "bitkisel mum",
+    "tr_definition": "Bitkilerden (özellikle belirli palmiye türlerinin gövdelerinden) elde edilen mumsu madde.",
+    "ru_word": "растительный воск",
+    "ru_definition": "Воскоподобное вещество, получаемое из растений (особенно из стволов некоторых видов пальм).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ösümlik mumu",
+                    "ösümlik bazy"
+                ],
+                "Uzbek": [
+                    "oʻsimlik mumi"
+                ],
+                "Uyghur": [
+                    "ئۆسۈملۈك مومى"
+                ],
+                "Kazakh": [
+                    "өсімдік балауызы",
+                    "өсімдік момы"
+                ],
+                "Kyrgyz": [
+                    "өсүмдүк мому",
+                    "өсүмдүк чайыры"
+                ],
+                "Karakalpak": [
+                    "ósimlik balauızı",
+                    "ósimlik momı"
+                ],
+                "Tatar": [
+                    "үсемлек балавызы"
+                ],
+                "Bashkir": [
+                    "үҫемлек балауыҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nebatî mum"
+                ],
+                "Azerbaijani": [
+                    "nəbati mum"
+                ],
+                "Uzbek": [
+                    "nabotot mumi"
+                ],
+                "Uyghur": [
+                    "نباتات مومى"
+                ],
+                "Tatar": [
+                    "нәбәти балавыз"
+                ],
+                "Bashkir": [
+                    "нәбәти балауыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bitkisel mum"
+                ],
+                "Azerbaijani": [
+                    "bitki mumu"
+                ]
+            }
+        }
+    ]
+}

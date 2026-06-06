@@ -1,0 +1,84 @@
+{
+    "id": "i17225",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "salivary",
+    "en_definition": "of or relating to saliva",
+    "tr_word": "tükürükle ilgili",
+    "tr_definition": "tükürük veya tükürük bezleri ile ilgili olan",
+    "ru_word": "слюнный",
+    "ru_definition": "относящийся к слюне или слюнным железам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "salya"
+                ],
+                "Uzbek": [
+                    "so'lak",
+                    "so'lakka oid"
+                ],
+                "Kazakh": [
+                    "сілекей",
+                    "сілекейлі",
+                    "сілекей бөлетін"
+                ],
+                "Kyrgyz": [
+                    "ширекей",
+                    "ширекейлик",
+                    "ширекейге тиешелүү"
+                ],
+                "Karakalpak": [
+                    "sіlekey",
+                    "sіlekeylі"
+                ],
+                "Tatar": [
+                    "селәгәй"
+                ],
+                "Bashkir": [
+                    "һеләгәй",
+                    "һеләгәйле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tükürükle ilgili",
+                    "tükürük"
+                ],
+                "Azerbaijani": [
+                    "tüpürcək"
+                ],
+                "Turkmen": [
+                    "tüýkülik",
+                    "tüýkülikli"
+                ],
+                "Uyghur": [
+                    "تۈكۈرۈككە ئائىت",
+                    "تۈكۈرۈك بېزى"
+                ],
+                "Tatar": [
+                    "төкерү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ağız suyu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tupuk",
+                    "tupukka oid"
+                ]
+            }
+        }
+    ]
+}

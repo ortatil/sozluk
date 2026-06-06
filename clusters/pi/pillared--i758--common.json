@@ -1,0 +1,110 @@
+{
+    "id": "i758",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "pillared",
+    "en_definition": "having pillars",
+    "tr_word": "sütunlu",
+    "tr_definition": "sütunları olan veya sütunlarla desteklenen",
+    "ru_word": "колонный",
+    "ru_definition": "имеющий колонны или поддерживаемый колоннами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sütunlu"
+                ],
+                "Azerbaijani": [
+                    "sütunlu"
+                ],
+                "Turkmen": [
+                    "sütünli"
+                ],
+                "Uzbek": [
+                    "ustunli",
+                    "ustun-ustunli",
+                    "ustun-ravoqli"
+                ],
+                "Uyghur": [
+                    "ئىستونلۇق"
+                ],
+                "Karakalpak": [
+                    "ústinli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "direkli"
+                ],
+                "Azerbaijani": [
+                    "dirəkli"
+                ],
+                "Turkmen": [
+                    "diregli"
+                ],
+                "Kazakh": [
+                    "тіреулі",
+                    "діңгекті"
+                ],
+                "Bashkir": [
+                    "терәүле",
+                    "терәклы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бағаналы"
+                ],
+                "Karakalpak": [
+                    "baǵanalı"
+                ],
+                "Tatar": [
+                    "баганалы"
+                ],
+                "Bashkir": [
+                    "бағаналы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈۋرۈكلۈك",
+                    "تۈۋرۈكلىك"
+                ],
+                "Kyrgyz": [
+                    "түркүктүү",
+                    "түркүк орнотулган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мамылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сөенле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аркалы"
+                ]
+            }
+        }
+    ]
+}

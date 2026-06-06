@@ -1,0 +1,109 @@
+{
+    "id": "i4892",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "tied",
+    "en_definition": "of the score in a contest",
+    "tr_word": "berabere",
+    "tr_definition": "bir yarışmada veya oyunda skorların eşit olması durumu",
+    "ru_word": "ничейный",
+    "ru_definition": "имеющий равный счет в соревновании или игре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "berabere"
+                ],
+                "Azerbaijani": [
+                    "bərabər"
+                ],
+                "Uzbek": [
+                    "barobar"
+                ],
+                "Kyrgyz": [
+                    "барабар"
+                ],
+                "Karakalpak": [
+                    "birdey"
+                ],
+                "Tatar": [
+                    "бертигез"
+                ],
+                "Bashkir": [
+                    "бер тигеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "deň",
+                    "deňme-deň"
+                ],
+                "Uzbek": [
+                    "teng"
+                ],
+                "Uyghur": [
+                    "تەڭ",
+                    "تەڭمۇتەڭ",
+                    "تەڭلىشىپ قالغان"
+                ],
+                "Kazakh": [
+                    "тең",
+                    "теңбе-тең"
+                ],
+                "Kyrgyz": [
+                    "тең",
+                    "теңме-тең"
+                ],
+                "Karakalpak": [
+                    "teń",
+                    "teńbe-teń"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "heç-heçə"
+                ],
+                "Turkmen": [
+                    "hasaby deň"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тигез"
+                ],
+                "Bashkir": [
+                    "тигеҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müsavi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "durang"
+                ]
+            }
+        }
+    ]
+}

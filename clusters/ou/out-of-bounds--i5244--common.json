@@ -1,0 +1,163 @@
+{
+    "id": "i5244",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "out-of-bounds",
+    "en_definition": "outside the foul lines",
+    "tr_word": "saha dışı",
+    "tr_definition": "oyun alanının sınırlarının dışında kalan bölge",
+    "ru_word": "за пределами поля",
+    "ru_definition": "находящийся за ограничительными линиями игровой площадки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dışarıda"
+                ],
+                "Turkmen": [
+                    "daşary",
+                    "daşky"
+                ],
+                "Uzbek": [
+                    "tashqari"
+                ],
+                "Kazakh": [
+                    "тыс"
+                ],
+                "Kyrgyz": [
+                    "тышкары"
+                ],
+                "Karakalpak": [
+                    "tısqarı"
+                ],
+                "Tatar": [
+                    "тышкы"
+                ],
+                "Bashkir": [
+                    "тышҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xətdən kənar"
+                ],
+                "Turkmen": [
+                    "çäkden daşary"
+                ],
+                "Kyrgyz": [
+                    "чектен тышкары"
+                ],
+                "Tatar": [
+                    "чиктән тыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سىرتتا"
+                ],
+                "Kazakh": [
+                    "сырт"
+                ],
+                "Kyrgyz": [
+                    "сырткы"
+                ],
+                "Karakalpak": [
+                    "sırtqı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "meydançadan kənar"
+                ],
+                "Uzbek": [
+                    "maydon tashqarisi"
+                ],
+                "Uyghur": [
+                    "مەيدان سىرتى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chetdagi"
+                ],
+                "Karakalpak": [
+                    "shetkі"
+                ],
+                "Bashkir": [
+                    "ситтәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "saha dışı"
+                ],
+                "Kazakh": [
+                    "шекарадан тыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hariç"
+                ],
+                "Azerbaijani": [
+                    "xaric"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چەك سىرتى"
+                ],
+                "Bashkir": [
+                    "сиктән тыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çizgi dışı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kənar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алаңнан тыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кырдагы"
+                ]
+            }
+        }
+    ]
+}

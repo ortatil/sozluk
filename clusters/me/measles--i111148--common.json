@@ -1,0 +1,77 @@
+{
+    "id": "i111148",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "measles",
+    "en_definition": "an acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children",
+    "tr_word": "kızamık",
+    "tr_definition": "Genellikle çocuklarda görülen, vücutta kırmızı lekeler ve döküntülerle kendini gösteren, bulaşıcı ve ateşli bir virüs hastalığı.",
+    "ru_word": "корь",
+    "ru_definition": "Острое инфекционное вирусное заболевание, характеризующееся высокой температурой, сыпью и поражением слизистых оболочек, встречающееся преимущественно у детей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızamık"
+                ],
+                "Azerbaijani": [
+                    "qızılca"
+                ],
+                "Turkmen": [
+                    "gyzamyk"
+                ],
+                "Uzbek": [
+                    "qizamiq"
+                ],
+                "Uyghur": [
+                    "قىزىلچا",
+                    "قىزىل"
+                ],
+                "Kazakh": [
+                    "қызылша",
+                    "қызыл"
+                ],
+                "Kyrgyz": [
+                    "кызылча",
+                    "кызамык"
+                ],
+                "Karakalpak": [
+                    "qızılsha"
+                ],
+                "Tatar": [
+                    "кызылча",
+                    "кызыл"
+                ],
+                "Bashkir": [
+                    "ҡыҙылса",
+                    "ҡыҙамыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hasbe"
+                ],
+                "Turkmen": [
+                    "hasba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məxmərək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "surxcha"
+                ]
+            }
+        }
+    ]
+}

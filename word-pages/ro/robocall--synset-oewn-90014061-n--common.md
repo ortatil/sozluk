@@ -1,0 +1,175 @@
+# Robocall
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-90014061-n |
+| **English** | robocall |
+| **Type** | noun |
+| **Definition** | An phone call made by an automated service |
+| **Source** | common |
+| **Ortatil** | awtaqönğuraq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **robot-şaltıratuw** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| авточалуу | avtoçaluu |
+| **Tatar** | |
+| робот-шалтырату | robot-şaltıratu |
+| **Bashkir** | |
+| робот-шылтыратыу | robot-şıltıratıu |
+
+```json
+{
+    "id": "synset-oewn-90014061-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "robocall",
+    "en_definition": "An phone call made by an automated service",
+    "tr_word": "otomatik arama",
+    "tr_definition": "Otomatik bir sistem tarafından yapılan telefon araması",
+    "ru_word": "автоматический звонок",
+    "ru_definition": "Телефонный звонок, совершаемый автоматизированной службой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otomatik arama"
+                ],
+                "Azerbaijani": [
+                    "avtomatik zəng"
+                ],
+                "Turkmen": [
+                    "awtomatik jaň",
+                    "awtomatlaşdyrylan jaň"
+                ],
+                "Uzbek": [
+                    "avtoqo‘ng‘iroq",
+                    "avtomatik qo‘ng‘iroq"
+                ],
+                "Uyghur": [
+                    "ئاپتوماتىك تېلېفون",
+                    "ئاپتوماتىك چاقىرىق"
+                ],
+                "Kazakh": [
+                    "автоматты қоңырау",
+                    "автоматтандырылған қоңырау"
+                ],
+                "Kyrgyz": [
+                    "авточалуу",
+                    "автоматтык чалуу"
+                ],
+                "Karakalpak": [
+                    "awtomatlastırılǵan qońırau",
+                    "awtomattı qońırau"
+                ],
+                "Tatar": [
+                    "автоматик шалтырату"
+                ],
+                "Bashkir": [
+                    "автоматик шылтыратыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "robotik arama"
+                ],
+                "Azerbaijani": [
+                    "robot zəngi"
+                ],
+                "Kazakh": [
+                    "роботты қоңырау"
+                ],
+                "Karakalpak": [
+                    "robot-qońırau"
+                ],
+                "Tatar": [
+                    "робот-шалтырату"
+                ],
+                "Bashkir": [
+                    "робот-шылтыратыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "avtozəng"
+                ],
+                "Uzbek": [
+                    "ovozli xabar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "программалы шалтырату"
+                ],
+                "Bashkir": [
+                    "программалы шылтыратыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bant kaydı araması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "telesatış araması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sesli habar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماشىنا تېلېفونى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үн каты"
+                ]
+            }
+        }
+    ]
+}
+```
+

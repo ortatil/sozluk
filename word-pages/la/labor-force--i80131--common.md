@@ -1,0 +1,156 @@
+# Labor force
+| Field | Detail |
+|---|---|
+| **ID** | i80131 |
+| **English** | labor force |
+| **Type** | noun |
+| **Definition** | the source of trained people from which workers can be hired |
+| **Source** | common |
+| **Ortatil** | ämgäkçilär |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئەمگەكچىلەر | ämgäkçilär |
+| **Bashkir** | |
+| эшселәр | eşselär |
+
+```json
+{
+    "id": "i80131",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "labor force",
+    "en_definition": "the source of trained people from which workers can be hired",
+    "tr_word": "iş gücü",
+    "tr_definition": "bir ülkede veya bölgede çalışabilecek durumda olan ve iş arayan nüfusun tamamı",
+    "ru_word": "рабочая сила",
+    "ru_definition": "общее число людей, способных и желающих работать, включая как занятых, так и безработных",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iş gücü"
+                ],
+                "Azerbaijani": [
+                    "işçi qüvvəsi"
+                ],
+                "Turkmen": [
+                    "iş güýji"
+                ],
+                "Uzbek": [
+                    "ishchi kuchi",
+                    "ishchi kadrlar"
+                ],
+                "Uyghur": [
+                    "ئىشچىلار كۈچى"
+                ],
+                "Tatar": [
+                    "эш көче"
+                ],
+                "Bashkir": [
+                    "эш көсө",
+                    "эшселәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "emek gücü"
+                ],
+                "Azerbaijani": [
+                    "əmək qüvvəsi",
+                    "əmək ehtiyatları"
+                ],
+                "Uyghur": [
+                    "ئەمگەك كۈچى",
+                    "ئەمگەكچىلەر"
+                ],
+                "Kyrgyz": [
+                    "эмгек күчү",
+                    "эмгек ресурстары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "zähmet güýji",
+                    "zähmet resurslary"
+                ],
+                "Tatar": [
+                    "хезмәт көче",
+                    "хезмәт ресурслары"
+                ],
+                "Bashkir": [
+                    "хеҙмәт көсө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жұмыс күші"
+                ],
+                "Kyrgyz": [
+                    "жумушчу күчү"
+                ],
+                "Karakalpak": [
+                    "jumısshı kúshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mehnat kuchi",
+                    "mehnat resurslari"
+                ],
+                "Karakalpak": [
+                    "minet kúshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalışan nüfus"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "faal nüfus"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еңбек күші",
+                    "еңбек ресурстары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "xızmetkerler"
+                ]
+            }
+        }
+    ]
+}
+```
+

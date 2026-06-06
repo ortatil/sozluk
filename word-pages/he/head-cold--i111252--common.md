@@ -1,0 +1,212 @@
+# Head cold
+| Field | Detail |
+|---|---|
+| **ID** | i111252 |
+| **English** | head cold |
+| **Type** | noun |
+| **Definition** | a common cold affecting the nasal passages and resulting in congestion and sneezing and headache |
+| **Source** | common |
+| **Ortatil** | tumuw |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tumuw** | **zükam** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ❌ | ✅ |
+| Turkmen | ❌ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0 | 1 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 1 | 0 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **2** | **2** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تۇمۇ | tumu |
+| تۇمۇ-زۇكام | tumu-zukam |
+| زۇكام | zukam |
+| **Kazakh** | |
+| тұмау | tumau |
+| **Kyrgyz** | |
+| тумоо | tumoo |
+| **Tatar** | |
+| туңу | tuñu |
+| зәхмәт | zäxmät |
+| чир | çir |
+| **Bashkir** | |
+| төмау | tömau |
+| зәхмәт | zäxmät |
+
+```json
+{
+    "id": "i111252",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "head cold",
+    "en_definition": "a common cold affecting the nasal passages and resulting in congestion and sneezing and headache",
+    "tr_word": "nezle",
+    "tr_definition": "Burun tıkanıklığı, hapşırma ve bazen baş ağrısı ile seyreden, üst solunum yollarını etkileyen hafif enfeksiyon.",
+    "ru_word": "насморк",
+    "ru_definition": "Воспаление слизистой оболочки носа, сопровождающееся заложенностью, чиханием и иногда головной болью.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tuman"
+                ],
+                "Uyghur": [
+                    "تۇمۇ",
+                    "تۇمۇ-زۇكام"
+                ],
+                "Kazakh": [
+                    "тұмау"
+                ],
+                "Kyrgyz": [
+                    "тумоо"
+                ],
+                "Karakalpak": [
+                    "tumau",
+                    "tұmau"
+                ],
+                "Tatar": [
+                    "туңу"
+                ],
+                "Bashkir": [
+                    "төмау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soğuk algınlığı",
+                    "zükam"
+                ],
+                "Azerbaijani": [
+                    "zökəm"
+                ],
+                "Turkmen": [
+                    "zökem"
+                ],
+                "Uzbek": [
+                    "zukom"
+                ],
+                "Uyghur": [
+                    "زۇكام"
+                ],
+                "Kyrgyz": [
+                    "суук тийүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "burun axıntısı"
+                ],
+                "Uzbek": [
+                    "burun bitishi"
+                ],
+                "Kazakh": [
+                    "мұрын бітелу"
+                ],
+                "Kyrgyz": [
+                    "мурун бүтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nezle"
+                ],
+                "Azerbaijani": [
+                    "nəzlə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "soyuqdəymə"
+                ],
+                "Turkmen": [
+                    "sowuklama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "салқын тию"
+                ],
+                "Tatar": [
+                    "салкын тию"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сасык тумоо"
+                ],
+                "Bashkir": [
+                    "һыуыҡ тейеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зәхмәт"
+                ],
+                "Bashkir": [
+                    "зәхмәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dümew"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shamollash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "suıq tiyu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чир"
+                ]
+            }
+        }
+    ]
+}
+```
+

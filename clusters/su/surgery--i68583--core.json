@@ -1,0 +1,128 @@
+{
+    "id": "i68583",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "surgery",
+    "en_definition": "the branch of medical science that treats disease or injury by operative procedures",
+    "tr_word": "cerrahi",
+    "tr_definition": "hastalık veya yaralanmaların ameliyatla tedavi edildiği tıp dalı",
+    "ru_word": "хирургия",
+    "ru_definition": "область медицины, изучающая болезни, лечимые при помощи оперативного вмешательства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cerrahi"
+                ],
+                "Azerbaijani": [
+                    "cərrahlıq",
+                    "cərrahiyyə"
+                ],
+                "Uzbek": [
+                    "jarrohlik"
+                ],
+                "Uyghur": [
+                    "جەرراھىيە"
+                ],
+                "Tatar": [
+                    "җәррахлык",
+                    "җәррахият"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "operasyon"
+                ],
+                "Turkmen": [
+                    "operassiýa"
+                ],
+                "Uyghur": [
+                    "ئوپېراتسىيە"
+                ],
+                "Kyrgyz": [
+                    "операция"
+                ],
+                "Tatar": [
+                    "операция"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hirurgiýa"
+                ],
+                "Kazakh": [
+                    "хирургия"
+                ],
+                "Kyrgyz": [
+                    "хирургия"
+                ],
+                "Karakalpak": [
+                    "xirurgiya"
+                ],
+                "Bashkir": [
+                    "хирургия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ameliyat"
+                ],
+                "Azerbaijani": [
+                    "əməliyyat"
+                ],
+                "Turkmen": [
+                    "amalyýet"
+                ],
+                "Uzbek": [
+                    "amaliyot"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كېسىپ داۋالاش"
+                ],
+                "Kyrgyz": [
+                    "кесүү"
+                ],
+                "Bashkir": [
+                    "киҫеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ота",
+                    "оташылық"
+                ],
+                "Karakalpak": [
+                    "otashılıq",
+                    "ota"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жараат"
+                ],
+                "Bashkir": [
+                    "йәрәхәтләү"
+                ]
+            }
+        }
+    ]
+}

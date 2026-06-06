@@ -1,0 +1,86 @@
+{
+    "id": "i60510",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "treadmill",
+    "en_definition": "an exercise device consisting of an endless belt on which a person can walk or jog without changing place",
+    "tr_word": "koşu bandı",
+    "tr_definition": "üzerinde yürüyerek veya koşarak yer değiştirmeden egzersiz yapmaya yarayan, dönen bir banttan oluşan spor aleti",
+    "ru_word": "беговая дорожка",
+    "ru_definition": "спортивный тренажёр для бега или ходьбы на одном месте, представляющий собой движущееся полотно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yugurish yo‘lakchasi",
+                    "yugurish moslamasi"
+                ],
+                "Uyghur": [
+                    "يۈگۈرۈش ماشىنىسى",
+                    "يۈگۈرۈش ئۈسكۈنىسى"
+                ],
+                "Kazakh": [
+                    "жүгіру жолы",
+                    "жүгіру жолағы"
+                ],
+                "Karakalpak": [
+                    "júgіrіs jolı",
+                    "júgіrіs jolaǵı"
+                ],
+                "Tatar": [
+                    "йөгерү юлы",
+                    "йөгерү җайланмасы"
+                ],
+                "Bashkir": [
+                    "йүгереү юлы",
+                    "йүгереү һуҡмағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yürüme bandı"
+                ],
+                "Kyrgyz": [
+                    "чуркоо жолу",
+                    "чуркоочу жол",
+                    "чуркоо тренажеру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koşu bandı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qaçış aparatı",
+                    "qaçış yolu",
+                    "qaçış zolağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ylgaýyş ýodajygy",
+                    "ylgaýyş guraly",
+                    "ylgaýyş enjamy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قەدەم باسقۇچ"
+                ]
+            }
+        }
+    ]
+}

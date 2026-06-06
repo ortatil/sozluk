@@ -1,0 +1,297 @@
+# Discredit
+| Field | Detail |
+|---|---|
+| **ID** | i25153 |
+| **English** | discredit |
+| **Type** | verb |
+| **Definition** | cause to be distrusted or disbelieved |
+| **Source** | common |
+| **Ortatil** | itibarsızlaştırmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **yamanlamaq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қаралау | qaralau |
+| **Tatar** | |
+| ышанычсызландыру | ışanıçsızlandıru |
+| яманлау | yamanlau |
+| хурлау | xurlau |
+| **Bashkir** | |
+| яманлау | yamanlau |
+| хурлау | xurlau |
+
+```json
+{
+    "id": "i25153",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "discredit",
+    "en_definition": "cause to be distrusted or disbelieved",
+    "tr_word": "itibarını sarsmak",
+    "tr_definition": "birinin veya bir şeyin güvenilirliğini veya saygınlığını zayıflatmak, gözden düşürmek",
+    "ru_word": "дискредитировать",
+    "ru_definition": "подорвать доверие к кому-либо или чему-либо, умалить чей-либо авторитет",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ishonchdan chiqarmoq"
+                ],
+                "Uyghur": [
+                    "ئىشەنچسىز قىلماق"
+                ],
+                "Kyrgyz": [
+                    "ишенимден чыгаруу"
+                ],
+                "Karakalpak": [
+                    "isenimnen shıǵarıo"
+                ],
+                "Tatar": [
+                    "ышанычсызландыру",
+                    "исемне пычрату"
+                ],
+                "Bashkir": [
+                    "ышанысты бөтөрөү",
+                    "исемде бысратыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "abraýdan düşürmek",
+                    "ynamdan düşürmek"
+                ],
+                "Karakalpak": [
+                    "abıroyın túsirio"
+                ],
+                "Tatar": [
+                    "абруен төшерү"
+                ],
+                "Bashkir": [
+                    "абруйҙы төшөрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şerepden düşürmek"
+                ],
+                "Uzbek": [
+                    "sharmanda qilmoq"
+                ],
+                "Karakalpak": [
+                    "shármende qılıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "badnom qilmoq"
+                ],
+                "Kazakh": [
+                    "беделін түсіру"
+                ],
+                "Karakalpak": [
+                    "betin qara qılıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қаралау"
+                ],
+                "Tatar": [
+                    "яманлау"
+                ],
+                "Bashkir": [
+                    "яманлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "itibarsızlaştırmak",
+                    "itibarını sarsmak"
+                ],
+                "Azerbaijani": [
+                    "etibarsızlaşdırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lekelemek"
+                ],
+                "Azerbaijani": [
+                    "ləkələmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "biabır etmək"
+                ],
+                "Turkmen": [
+                    "biabraý etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "obro'sizlantirmoq"
+                ],
+                "Kazakh": [
+                    "абыройын түсіру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shon-shuhratiga putur yetkazmoq"
+                ],
+                "Kazakh": [
+                    "сенімсіздік тудыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хурлау"
+                ],
+                "Bashkir": [
+                    "хурлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gözden düşürmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güvenini kırmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nüfuzdan salmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hörmətdən salmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "masgara etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىناۋەتسىز قىلماق",
+                    "ئىناۋىتىنى چۈشۈرمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شۆھرىتىگە داغ چۈشۈرمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رەت قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күдік келтіру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жаманатты кылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "абийирин төгүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кадырын кетирүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шек келтирүү"
+                ]
+            }
+        }
+    ]
+}
+```
+

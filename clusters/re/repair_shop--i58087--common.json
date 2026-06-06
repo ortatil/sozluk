@@ -1,0 +1,147 @@
+{
+    "id": "i58087",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "repair shop",
+    "en_definition": "a shop specializing in repairs and maintenance",
+    "tr_word": "tamirhane",
+    "tr_definition": "Onarım ve bakım işlerinin yapıldığı yer.",
+    "ru_word": "ремонтная мастерская",
+    "ru_definition": "Предприятие, специализирующееся на ремонте и техническом обслуживании.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ussahana"
+                ],
+                "Uzbek": [
+                    "ustaxona"
+                ],
+                "Uyghur": [
+                    "ئۇستاخانا"
+                ],
+                "Kyrgyz": [
+                    "устакана"
+                ],
+                "Tatar": [
+                    "остаханә"
+                ],
+                "Bashkir": [
+                    "оҫтахана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tamirhane"
+                ],
+                "Azerbaijani": [
+                    "təmirxana",
+                    "təmir yeri"
+                ],
+                "Uzbek": [
+                    "ta'mirlash ustaxonasi",
+                    "ta'mirxona"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۈزەتخانا"
+                ],
+                "Tatar": [
+                    "төзәтүханә",
+                    "төзәтү остаханәсе"
+                ],
+                "Bashkir": [
+                    "төҙәтеүхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "onarım yeri"
+                ],
+                "Karakalpak": [
+                    "ońlaoxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "remont ussahanasy"
+                ],
+                "Uyghur": [
+                    "رېمونتخانا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шеберхана"
+                ],
+                "Karakalpak": [
+                    "sheberxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "atölye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bakımevi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "emalatxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "abatlaýyş ussahanasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жөндеу шеберханасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оңдоочу жай",
+                    "оңдоокана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tómenleoxana"
+                ]
+            }
+        }
+    ]
+}

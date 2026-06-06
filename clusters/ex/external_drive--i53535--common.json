@@ -1,0 +1,81 @@
+{
+    "id": "i53535",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "external drive",
+    "en_definition": "a drive with its own power supply and fan mounted outside the computer system enclosure and connected to the computer by a cable",
+    "tr_word": "harici sürücü",
+    "tr_definition": "bilgisayar kasasının dışına yerleştirilen ve bir kablo aracılığıyla bilgisayara bağlanan, kendi güç kaynağına sahip depolama birimi",
+    "ru_word": "внешний накопитель",
+    "ru_definition": "устройство хранения данных, расположенное вне корпуса компьютера и подключаемое к нему с помощью кабеля",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dış sürücü",
+                    "taşınabilir disk"
+                ],
+                "Azerbaijani": [
+                    "daşınan yaddaş"
+                ],
+                "Turkmen": [
+                    "daşky ýat",
+                    "daşky disk",
+                    "daşky ammar"
+                ],
+                "Uzbek": [
+                    "tashqi xotira",
+                    "tashqi disk",
+                    "tashqi qurilma"
+                ],
+                "Kyrgyz": [
+                    "тышкы диск",
+                    "тышкы эс тутум",
+                    "тышкы сактагыч"
+                ],
+                "Tatar": [
+                    "тышкы диск",
+                    "тышкы саклагыч",
+                    "тышкы хәтер"
+                ],
+                "Bashkir": [
+                    "тышҡы диск",
+                    "тышҡы хәтер",
+                    "тышҡы йөрөтөүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سىرتقى دىسكا",
+                    "سىرتقى ساقلىغۇچ",
+                    "سىرتقى قاتتىق دىسكا"
+                ],
+                "Kazakh": [
+                    "сыртқы жинақтауыш",
+                    "сыртқы диск",
+                    "сыртқы жад"
+                ],
+                "Karakalpak": [
+                    "sırtqı disk",
+                    "sırtqı saqlaǵısh",
+                    "sırtqı toplaǵısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "harici sürücü"
+                ],
+                "Azerbaijani": [
+                    "xarici yaddaş qurğusu",
+                    "xarici disk"
+                ]
+            }
+        }
+    ]
+}

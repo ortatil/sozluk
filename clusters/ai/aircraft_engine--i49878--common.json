@@ -1,0 +1,114 @@
+{
+    "id": "i49878",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "aircraft engine",
+    "en_definition": "the engine that powers and aircraft",
+    "tr_word": "uçak motoru",
+    "tr_definition": "bir uçağa güç sağlayan motor",
+    "ru_word": "авиационный двигатель",
+    "ru_definition": "двигатель, который приводит в движение воздушное судно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uçak motoru"
+                ],
+                "Azerbaijani": [
+                    "uçuş mühərriki"
+                ],
+                "Turkmen": [
+                    "uçar dwigateli",
+                    "uçar motory"
+                ],
+                "Uzbek": [
+                    "uchqich dvigateli"
+                ],
+                "Kazakh": [
+                    "ұшақ моторы"
+                ],
+                "Kyrgyz": [
+                    "учак кыймылдаткычы",
+                    "учак мотору"
+                ],
+                "Karakalpak": [
+                    "ushaq qozǵaltqıshı",
+                    "ushaq motorı"
+                ],
+                "Tatar": [
+                    "очкыч двигателе",
+                    "очкыч моторы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tayyare motoru"
+                ],
+                "Azerbaijani": [
+                    "təyyarə mühərriki"
+                ],
+                "Uzbek": [
+                    "tayyora dvigateli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hava gəmisi mühərriki"
+                ],
+                "Uzbek": [
+                    "havo kemasi dvigateli"
+                ],
+                "Tatar": [
+                    "һава көймәсе двигателе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұшақ қозғалтқышы"
+                ],
+                "Bashkir": [
+                    "осош двигателе",
+                    "осош моторы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئايروپىلان ماتورى",
+                    "ئايروپىلان قوزغاتقۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуе кемесінің қозғалтқышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аба кемесинин кыймылдаткычы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көс ҡулайламаһы"
+                ]
+            }
+        }
+    ]
+}

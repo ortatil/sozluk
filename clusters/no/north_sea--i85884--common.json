@@ -1,0 +1,75 @@
+{
+    "id": "i85884",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north sea",
+    "en_definition": "an arm of the North Atlantic between the British Isles and Scandinavia; oil was discovered under the North Sea in 1970",
+    "tr_word": "Kuzey Denizi",
+    "tr_definition": "Britanya Adaları ile İskandinavya arasında yer alan, Atlas Okyanusu'nun bir kolu.",
+    "ru_word": "Северное море",
+    "ru_definition": "часть Атлантического океана, расположенная между Британскими островами и Скандинавией.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimal dənizi"
+                ],
+                "Uzbek": [
+                    "Shimoliy dengiz"
+                ],
+                "Uyghur": [
+                    "شىمالىي دېڭىز"
+                ],
+                "Karakalpak": [
+                    "Shimal teńizi"
+                ],
+                "Tatar": [
+                    "Шималь диңгезе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "Түндүк деңизи"
+                ],
+                "Tatar": [
+                    "Төньяк диңгезе"
+                ],
+                "Bashkir": [
+                    "Төньяҡ диңгеҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Denizi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk deňzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Солтүстік теңізі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Arqa teńizi"
+                ]
+            }
+        }
+    ]
+}

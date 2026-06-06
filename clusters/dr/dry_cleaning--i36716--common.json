@@ -1,0 +1,85 @@
+{
+    "id": "i36716",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dry cleaning",
+    "en_definition": "the act of cleaning (fabrics) with a solvent other than water",
+    "tr_word": "kuru temizleme",
+    "tr_definition": "Giysilerin su yerine özel kimyasal çözücüler kullanılarak temizlenmesi işlemi.",
+    "ru_word": "химчистка",
+    "ru_definition": "Процесс очистки одежды и тканей с использованием органических растворителей вместо воды.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuru temizleme",
+                    "kuru temizlik"
+                ],
+                "Azerbaijani": [
+                    "quru təmizləmə"
+                ],
+                "Turkmen": [
+                    "gury arassalama"
+                ],
+                "Uzbek": [
+                    "quruq tozalash"
+                ],
+                "Uyghur": [
+                    "قۇرۇق يۇيۇش"
+                ],
+                "Kazakh": [
+                    "құрғақ тазалау"
+                ],
+                "Kyrgyz": [
+                    "кургак тазалоо"
+                ],
+                "Karakalpak": [
+                    "qurǵaq tazalao"
+                ],
+                "Tatar": [
+                    "коры чистарту"
+                ],
+                "Bashkir": [
+                    "ҡоро таҙартыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kimyəvi təmizləmə"
+                ],
+                "Uzbek": [
+                    "kimyoviy tozalash"
+                ],
+                "Kazakh": [
+                    "химиялық тазалау"
+                ],
+                "Kyrgyz": [
+                    "химиялык тазалоо"
+                ],
+                "Karakalpak": [
+                    "ximiyalıq tazalao"
+                ],
+                "Tatar": [
+                    "химик чистарту"
+                ],
+                "Bashkir": [
+                    "химик таҙартыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "himiýawy arassalama"
+                ],
+                "Uyghur": [
+                    "خىمىيىۋى يۇيۇش"
+                ]
+            }
+        }
+    ]
+}

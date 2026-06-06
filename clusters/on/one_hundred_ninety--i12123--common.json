@@ -1,0 +1,61 @@
+{
+    "id": "i12123",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one hundred ninety",
+    "en_definition": "being ten more than one hundred eighty",
+    "tr_word": "yüz doksan",
+    "tr_definition": "yüz seksen sayısından on fazla olan",
+    "ru_word": "сто девяносто",
+    "ru_definition": "число, на десять большее, чем сто восемьдесят",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz doksan"
+                ],
+                "Azerbaijani": [
+                    "yüz doxsan",
+                    "yüz doqsan"
+                ],
+                "Turkmen": [
+                    "ýüz togsan"
+                ],
+                "Uzbek": [
+                    "yuz to'qson"
+                ],
+                "Kazakh": [
+                    "жүз тоқсан"
+                ],
+                "Kyrgyz": [
+                    "жүз токсон"
+                ],
+                "Karakalpak": [
+                    "júz toqsan"
+                ],
+                "Tatar": [
+                    "йөз туксан",
+                    "йөз туксанлы"
+                ],
+                "Bashkir": [
+                    "йөҙ туҡһан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bir ýüz togsan"
+                ],
+                "Uzbek": [
+                    "bir yuz to'qson"
+                ],
+                "Uyghur": [
+                    "بىر يۈز توقسان"
+                ]
+            }
+        }
+    ]
+}

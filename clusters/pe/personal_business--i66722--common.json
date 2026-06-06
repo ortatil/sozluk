@@ -1,0 +1,122 @@
+{
+    "id": "i66722",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "affairs",
+    "en_definition": "matters of personal concern",
+    "tr_word": "meseleler",
+    "tr_definition": "kişisel ilgi veya endişe konusu olan durumlar",
+    "ru_word": "дела",
+    "ru_definition": "вопросы личного характера или личные интересы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "özel işler"
+                ],
+                "Azerbaijani": [
+                    "özəl iş"
+                ],
+                "Turkmen": [
+                    "öz işi"
+                ],
+                "Uzbek": [
+                    "o'z ishi"
+                ],
+                "Uyghur": [
+                    "ئۆز ئىشى"
+                ],
+                "Kazakh": [
+                    "өзіндік іс"
+                ],
+                "Kyrgyz": [
+                    "өз иши"
+                ],
+                "Karakalpak": [
+                    "óziniń isi"
+                ],
+                "Tatar": [
+                    "үз эше"
+                ],
+                "Bashkir": [
+                    "үҙ эше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şahsi işler",
+                    "zati meseleler"
+                ],
+                "Turkmen": [
+                    "şahsy iş"
+                ],
+                "Uzbek": [
+                    "shaxsiy ish"
+                ],
+                "Uyghur": [
+                    "شەخسىي ئىش"
+                ],
+                "Tatar": [
+                    "шәхси эш",
+                    "шәхси мәсьәлә"
+                ],
+                "Bashkir": [
+                    "шәхси эш",
+                    "шәхси мәсьәлә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xüsusi məsələ"
+                ],
+                "Turkmen": [
+                    "hususy iş"
+                ],
+                "Uzbek": [
+                    "xususiy ish"
+                ],
+                "Uyghur": [
+                    "خۇسۇسىي ئىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жеке іс",
+                    "жеке шаруа"
+                ],
+                "Kyrgyz": [
+                    "жеке иш",
+                    "жеке маселе"
+                ],
+                "Karakalpak": [
+                    "jeke jumıs",
+                    "jeke is"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şəxsi iş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төл шаруа"
+                ]
+            }
+        }
+    ]
+}

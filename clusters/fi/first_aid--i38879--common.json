@@ -1,0 +1,126 @@
+{
+    "id": "i38879",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "first aid",
+    "en_definition": "emergency care given before regular medical aid can be obtained",
+    "tr_word": "ilk yardım",
+    "tr_definition": "tıbbi yardım sağlanana kadar yapılan acil müdahale",
+    "ru_word": "первая помощь",
+    "ru_definition": "срочная медицинская помощь, оказываемая до прибытия врачей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilk yardım",
+                    "ilk imdat"
+                ],
+                "Azerbaijani": [
+                    "ilk yardım",
+                    "ilk tibbi yardım"
+                ],
+                "Turkmen": [
+                    "ilkinji kömek",
+                    "ilkinji lukmançylyk kömegi"
+                ],
+                "Uzbek": [
+                    "ilk yordam"
+                ],
+                "Kazakh": [
+                    "алғашқы жәрдем",
+                    "алғашқы көмек"
+                ],
+                "Kyrgyz": [
+                    "алгачкы жардам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "birinchi yordam"
+                ],
+                "Kyrgyz": [
+                    "биринчи жардам"
+                ],
+                "Karakalpak": [
+                    "birinshi járdem"
+                ],
+                "Tatar": [
+                    "беренче ярдәм"
+                ],
+                "Bashkir": [
+                    "беренсе ярҙам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tez yordam"
+                ],
+                "Uyghur": [
+                    "دەسلەپكى قۇتقۇزۇش"
+                ],
+                "Kyrgyz": [
+                    "тез жардам"
+                ],
+                "Karakalpak": [
+                    "dáslepki járdem",
+                    "tez járdem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جىددىي قۇتقۇزۇش"
+                ],
+                "Kazakh": [
+                    "жедел жәрдем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ашыгыч ярдәм"
+                ],
+                "Bashkir": [
+                    "ашығыс ярҙам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "acil müdahale"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇنجى ياردەم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иң беренче ярдәм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәүге ярҙам"
+                ]
+            }
+        }
+    ]
+}

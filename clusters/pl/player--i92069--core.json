@@ -1,0 +1,110 @@
+{
+    "id": "i92069",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "player",
+    "en_definition": "a person who participates in or is skilled at some game",
+    "tr_word": "oyuncu",
+    "tr_definition": "bir oyuna katılan veya bir oyunda yetenekli olan kişi",
+    "ru_word": "игрок",
+    "ru_definition": "человек, который участвует в какой-либо игре или искусен в ней",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyuncu"
+                ],
+                "Azerbaijani": [
+                    "oyunçu"
+                ],
+                "Turkmen": [
+                    "oýunçy"
+                ],
+                "Uzbek": [
+                    "oʻyinchi"
+                ],
+                "Uyghur": [
+                    "ئويۇنچى"
+                ],
+                "Kazakh": [
+                    "ойыншы"
+                ],
+                "Kyrgyz": [
+                    "оюнчу"
+                ],
+                "Karakalpak": [
+                    "oyınshı"
+                ],
+                "Tatar": [
+                    "уенчы"
+                ],
+                "Bashkir": [
+                    "уйынсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gatnaşyjy"
+                ],
+                "Kazakh": [
+                    "қатысушы"
+                ],
+                "Kyrgyz": [
+                    "катышуучу"
+                ],
+                "Karakalpak": [
+                    "qatınasıoshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئوينىغۇچى"
+                ],
+                "Tatar": [
+                    "уйнаучы"
+                ],
+                "Bashkir": [
+                    "уйнаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iştirakçı"
+                ],
+                "Uzbek": [
+                    "ishtirokchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oyunbaz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sohibkor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماھىر"
+                ]
+            }
+        }
+    ]
+}

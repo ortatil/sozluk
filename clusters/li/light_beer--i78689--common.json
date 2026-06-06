@@ -1,0 +1,128 @@
+{
+    "id": "i78689",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "light beer",
+    "en_definition": "lager with reduced alcohol content",
+    "tr_word": "hafif bira",
+    "tr_definition": "alkol oranı düşürülmüş lager tipi bira",
+    "ru_word": "светлое пиво",
+    "ru_definition": "лагер с пониженным содержанием алкоголя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yüngül pivə"
+                ],
+                "Turkmen": [
+                    "ýeňil piwo"
+                ],
+                "Uzbek": [
+                    "yengil pivo"
+                ],
+                "Uyghur": [
+                    "يېنىك پىۋا"
+                ],
+                "Kazakh": [
+                    "жеңіл сыра"
+                ],
+                "Kyrgyz": [
+                    "жеңил сыра"
+                ],
+                "Karakalpak": [
+                    "jeńil sıra"
+                ],
+                "Tatar": [
+                    "җиңел сыра"
+                ],
+                "Bashkir": [
+                    "еңел һыра"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gowşak piwo"
+                ],
+                "Tatar": [
+                    "йомшак сыра"
+                ],
+                "Bashkir": [
+                    "йомшаҡ һыра"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kuchsiz pivo"
+                ],
+                "Karakalpak": [
+                    "kúshsiz sıra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yumshoq pivo"
+                ],
+                "Kyrgyz": [
+                    "жумшак сыра"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hafif bira"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "düşük alkollü bira"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seyreltik bira"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zəif pivə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "açıq pivə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەن ئالكوگوللۇق پىۋا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақ сыра"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "id": "i113672",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ragweed pollen",
+    "en_definition": "pollen of the ragweed plant is a common allergen",
+    "tr_word": "yakup otu poleni",
+    "tr_definition": "yaygın bir alerjen olan yakup otu bitkisinin poleni",
+    "ru_word": "пыльца амброзии",
+    "ru_definition": "пыльца растения амброзия, являющаяся распространенным аллергеном",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ambroziya tozu",
+                    "ambroziya tozcuğu"
+                ],
+                "Turkmen": [
+                    "ambroziýa tozanjygy",
+                    "ambroziýa tozany"
+                ],
+                "Uzbek": [
+                    "ambroziya gulchangi"
+                ],
+                "Uyghur": [
+                    "ئامبىرىزىيە چاڭلىرى",
+                    "ئامبىرىزىيە گۈل چېڭى"
+                ],
+                "Kazakh": [
+                    "амброзия тозаңы",
+                    "амброзия гүлтозаңы"
+                ],
+                "Kyrgyz": [
+                    "амброзия чаңы",
+                    "амброзия гүл чаңы"
+                ],
+                "Karakalpak": [
+                    "ambroziya tozańı",
+                    "ambroziya gúl tozańı"
+                ],
+                "Tatar": [
+                    "амброзия серкәсе",
+                    "амброзия тузаны"
+                ],
+                "Bashkir": [
+                    "амброзия һеркәһе",
+                    "амброзия туҙаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yakup otu poleni",
+                    "yakup otu tozu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kanarya otu poleni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "achchiqshuvoq gulchangi"
+                ]
+            }
+        }
+    ]
+}

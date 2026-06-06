@@ -1,0 +1,147 @@
+# Housewife
+| Field | Detail |
+|---|---|
+| **ID** | i90599 |
+| **English** | housewife |
+| **Type** | noun |
+| **Definition** | a wife who manages a household while her husband earns the family income |
+| **Source** | common |
+| **Ortatil** | hucabikä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| отанасы | otanası |
+| **Tatar** | |
+| хуҗабикә | xujabikä |
+| **Bashkir** | |
+| хужабикә | xujabikä |
+
+```json
+{
+    "id": "i90599",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "housewife",
+    "en_definition": "a wife who manages a household while her husband earns the family income",
+    "tr_word": "ev hanımı",
+    "tr_definition": "ailenin geçimini sağlayan kocası çalışırken evin yönetimini ve işlerini üstlenen kadın",
+    "ru_word": "домохозяйка",
+    "ru_definition": "женщина, которая не работает по найму, а занимается ведением домашнего хозяйства и воспитанием детей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "uy bekasi"
+                ],
+                "Kazakh": [
+                    "үй бикесі"
+                ],
+                "Kyrgyz": [
+                    "үй кожойкеси",
+                    "үй кызматкери",
+                    "үй ээси"
+                ],
+                "Karakalpak": [
+                    "úy biykesi",
+                    "úy iyesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öý hojalykçy",
+                    "öý hanymy"
+                ],
+                "Uyghur": [
+                    "ئۆي ئايالى",
+                    "ئۆي خېنىمى",
+                    "ئۆي تۇتقۇچى"
+                ],
+                "Karakalpak": [
+                    "úy xatını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ev hanımı",
+                    "ev kadını",
+                    "ev hatunu"
+                ],
+                "Azerbaijani": [
+                    "evdar qadın",
+                    "ev xanımı",
+                    "evdar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йорт хуҗабикәсе",
+                    "йорт хатыны"
+                ],
+                "Bashkir": [
+                    "йорт хужабикәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хуҗабикә"
+                ],
+                "Bashkir": [
+                    "хужабикә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ro'zg'or bekasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xonadon bekasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үй шаруасындағы әйел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отанасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өй хужабикәһе"
+                ]
+            }
+        }
+    ]
+}
+```
+

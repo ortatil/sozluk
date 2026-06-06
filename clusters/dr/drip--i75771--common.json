@@ -1,0 +1,88 @@
+{
+    "id": "i75771",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "drip",
+    "en_definition": "flowing in drops; the formation and falling of drops of liquid",
+    "tr_word": "damlama",
+    "tr_definition": "sıvının damlalar halinde akması veya düşmesi",
+    "ru_word": "капанье",
+    "ru_definition": "процесс падения или стекания жидкости каплями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "damla",
+                    "damlama",
+                    "damlayış"
+                ],
+                "Azerbaijani": [
+                    "damcı",
+                    "damla"
+                ],
+                "Turkmen": [
+                    "damja",
+                    "damçy",
+                    "damgy"
+                ],
+                "Uzbek": [
+                    "tomchi",
+                    "tomish",
+                    "tomchilash"
+                ],
+                "Uyghur": [
+                    "تامچە",
+                    "تېمىم",
+                    "تېمىش"
+                ],
+                "Kazakh": [
+                    "тамшы",
+                    "тамызғы",
+                    "таму"
+                ],
+                "Kyrgyz": [
+                    "тамчы",
+                    "тамчылоо",
+                    "тамызгы"
+                ],
+                "Karakalpak": [
+                    "tamshı",
+                    "tamızǵı",
+                    "tamız"
+                ],
+                "Tatar": [
+                    "тамчы",
+                    "тамчылау",
+                    "таму"
+                ],
+                "Bashkir": [
+                    "тамсы",
+                    "тамсылау",
+                    "тамыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sızıntı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təpirti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сарқырама"
+                ]
+            }
+        }
+    ]
+}

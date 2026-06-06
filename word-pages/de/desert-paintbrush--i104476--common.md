@@ -1,0 +1,158 @@
+# Desert paintbrush
+| Field | Detail |
+|---|---|
+| **ID** | i104476 |
+| **English** | desert paintbrush |
+| **Type** | noun |
+| **Definition** | most common paintbrush of western United States dry lands; having erect stems ending in dense spikes of bright orange to red flowers |
+| **Source** | common |
+| **Ortatil** | boyaqotu |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| бояушөп | boyauşöp |
+
+```json
+{
+    "id": "i104476",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "desert paintbrush",
+    "en_definition": "most common paintbrush of western United States dry lands; having erect stems ending in dense spikes of bright orange to red flowers",
+    "tr_word": "çöl boya fırçası",
+    "tr_definition": "Batı Amerika Birleşik Devletleri'nin kurak topraklarında yaygın olarak yetişen, dik gövdeli ve parlak turuncu ile kırmızı çiçekli yoğun başaklara sahip bir bitki türü.",
+    "ru_word": "пустынная кастиллея",
+    "ru_definition": "самый распространенный вид кастиллеи в засушливых районах западной части США; растение с прямостоячими стеблями, заканчивающимися густыми колосьями ярко-оранжевых или красных цветков.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boya fırçası çiçeği",
+                    "kızılderili boya fırçası"
+                ],
+                "Kazakh": [
+                    "қызыл бояушөп"
+                ],
+                "Kyrgyz": [
+                    "кызыл гүл"
+                ],
+                "Karakalpak": [
+                    "qızıl gúl"
+                ],
+                "Tatar": [
+                    "кызыл чәчәкле кастиллея"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл сәскәле үлән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çöl boya fırçası"
+                ],
+                "Turkmen": [
+                    "çöl güli",
+                    "çöl ösümligi"
+                ],
+                "Uzbek": [
+                    "cho'l gul"
+                ],
+                "Karakalpak": [
+                    "shól gúlі"
+                ],
+                "Tatar": [
+                    "чүл кастиллеясы"
+                ],
+                "Bashkir": [
+                    "сүл үләне"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "boyaqotu"
+                ],
+                "Kazakh": [
+                    "бояушөп"
+                ],
+                "Kyrgyz": [
+                    "боёк гүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyzyl gül"
+                ],
+                "Uzbek": [
+                    "qizil gul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səhra fırçası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "al-qırmızı çiçək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yovvoyi gul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇملۇق گۈلى",
+                    "قۇملۇق چوتكا گۈلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дала бояушөбі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жалын гүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "утлы сәскә"
+                ]
+            }
+        }
+    ]
+}
+```
+

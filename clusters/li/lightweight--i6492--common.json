@@ -1,0 +1,96 @@
+{
+    "id": "i6492",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "lightweight",
+    "en_definition": "weighing relatively little compared with another item or object of similar use",
+    "tr_word": "hafif",
+    "tr_definition": "benzer kullanımdaki diğer eşyalara veya nesnelere kıyasla nispeten daha az ağırlığı olan",
+    "ru_word": "легкий",
+    "ru_definition": "имеющий относительно небольшой вес по сравнению с другими предметами или объектами аналогичного назначения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeğni"
+                ],
+                "Turkmen": [
+                    "ýeňil",
+                    "ýeňiljek",
+                    "ýeňil-ýelpi"
+                ],
+                "Uzbek": [
+                    "yengil",
+                    "yengilgina"
+                ],
+                "Uyghur": [
+                    "يېنىك",
+                    "يەڭگىل"
+                ],
+                "Kazakh": [
+                    "жеңіл",
+                    "жеңіл-желпі"
+                ],
+                "Kyrgyz": [
+                    "жеңил",
+                    "жеңил-желпи"
+                ],
+                "Karakalpak": [
+                    "jeńil",
+                    "jeńiltek"
+                ],
+                "Tatar": [
+                    "җиңел",
+                    "җиңелчә"
+                ],
+                "Bashkir": [
+                    "еңел",
+                    "еңелсә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vəznisiz"
+                ],
+                "Uzbek": [
+                    "vaznsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "авыр түгел"
+                ],
+                "Bashkir": [
+                    "ауыр түгел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hafif"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yüngül",
+                    "yüngülçəkili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "салмақсыз"
+                ]
+            }
+        }
+    ]
+}

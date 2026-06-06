@@ -1,0 +1,177 @@
+# Key fob
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-92448803-n |
+| **English** | key fob |
+| **Type** | noun |
+| **Definition** | A small object fastened to a key chain or key ring and designed to be comfortably grasped. |
+| **Source** | common |
+| **Ortatil** | asılğan |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **asılğan** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| салпыншақ | salpınşaq |
+| тұмарша | tumarşa |
+| ілгек | ilgek |
+| **Tatar** | |
+| асма | asma |
+| асылма | asılma |
+| төймә | töymä |
+| **Bashkir** | |
+| аҫҡыслыҡ | asqıslıq |
+| брелок | brelok |
+
+```json
+{
+    "id": "synset-oewn-92448803-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "key fob",
+    "en_definition": "A small object fastened to a key chain or key ring and designed to be comfortably grasped.",
+    "tr_word": "anahtarlık",
+    "tr_definition": "Anahtarlara takılan ve kolayca tutulmasını sağlayan küçük nesne.",
+    "ru_word": "брелок",
+    "ru_definition": "Небольшой предмет, прикрепляемый к кольцу для ключей для удобства или в качестве украшения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "asılqan"
+                ],
+                "Uzbek": [
+                    "osma"
+                ],
+                "Tatar": [
+                    "асма",
+                    "асылма"
+                ],
+                "Bashkir": [
+                    "аҫҡыслыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "açarlıq"
+                ],
+                "Turkmen": [
+                    "açargözenek",
+                    "açargözenegi",
+                    "açarlyk",
+                    "açaryň asgyjy"
+                ],
+                "Kyrgyz": [
+                    "ачкыч салгыч",
+                    "ачкыч илгич",
+                    "ачкыч боо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "brelok"
+                ],
+                "Bashkir": [
+                    "брелок"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tumar"
+                ],
+                "Tatar": [
+                    "төймә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاچقۇچ ئاسقۇچ",
+                    "ئاچقۇچ بېزەك",
+                    "ئاچقۇچ تۇتقۇچ"
+                ],
+                "Bashkir": [
+                    "аҫҡыс биҙәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "салпыншақ"
+                ],
+                "Karakalpak": [
+                    "salpınshaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұмарша"
+                ],
+                "Karakalpak": [
+                    "túymeshe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ілгек"
+                ],
+                "Karakalpak": [
+                    "іlgek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anahtarlık",
+                    "anahtar ucu",
+                    "anahtar başlığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kalitbog‘",
+                    "kalitdon"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,104 @@
+{
+    "id": "i70714",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "phone bill",
+    "en_definition": "statement of charges for telephone service",
+    "tr_word": "telefon faturası",
+    "tr_definition": "telefon hizmeti için alınan ücretlerin dökümü",
+    "ru_word": "счет за телефон",
+    "ru_definition": "выписка о расходах за услуги телефонной связи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telefon faturası",
+                    "telefon borcu",
+                    "telefon hesap özeti"
+                ],
+                "Azerbaijani": [
+                    "telefon borcu",
+                    "telefon hesabı"
+                ],
+                "Turkmen": [
+                    "telefon tölegi",
+                    "telefon hasaby"
+                ],
+                "Uzbek": [
+                    "telefon hisobi",
+                    "telefon xarajati"
+                ],
+                "Uyghur": [
+                    "تېلېفون ھەققى",
+                    "تېلېفون چىقىمى",
+                    "تېلېفون ھېساباتى"
+                ],
+                "Kazakh": [
+                    "телефон шоты"
+                ],
+                "Kyrgyz": [
+                    "телефон акысы",
+                    "телефон төлөмү"
+                ],
+                "Karakalpak": [
+                    "telefon tólemi",
+                    "telefon esap-sanaǵı"
+                ],
+                "Tatar": [
+                    "телефон хисабы",
+                    "телефон түләве",
+                    "телефон өчен хисап"
+                ],
+                "Bashkir": [
+                    "телефон иҫәбе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "байланыс шоты"
+                ],
+                "Kyrgyz": [
+                    "байланыш акысы"
+                ],
+                "Karakalpak": [
+                    "baylanıs haqısı"
+                ],
+                "Bashkir": [
+                    "бәйләнеш өсөн түләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rabitə haqqı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aloqa to'lovi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төлем шоты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сүйлөшүү акысы"
+                ]
+            }
+        }
+    ]
+}

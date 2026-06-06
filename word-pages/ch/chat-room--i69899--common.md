@@ -1,0 +1,190 @@
+# Chat room
+| Field | Detail |
+|---|---|
+| **ID** | i69899 |
+| **English** | chat room |
+| **Type** | noun |
+| **Definition** | a site on the internet where a number of users can communicate in real time (typically one dedicated to a particular topic) |
+| **Source** | common |
+| **Ortatil** | suhbathana |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سۆھبەتخانا | söhbätxana |
+| مۇڭداشخانا | muñdaşxana |
+| چايخانا | çayxana |
+| **Tatar** | |
+| мәҗлесханә | mäjlesxanä |
+
+```json
+{
+    "id": "i69899",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chat room",
+    "en_definition": "a site on the internet where a number of users can communicate in real time (typically one dedicated to a particular topic)",
+    "tr_word": "sohbet odası",
+    "tr_definition": "İnternet üzerinde birden fazla kullanıcının genellikle belirli bir konu etrafında gerçek zamanlı olarak iletişim kurabildiği alan.",
+    "ru_word": "чат",
+    "ru_definition": "сайт или сервис в интернете, где пользователи могут общаться в режиме реального времени, обычно на определенные темы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sohbet odası"
+                ],
+                "Azerbaijani": [
+                    "söhbət otağı"
+                ],
+                "Turkmen": [
+                    "söhbetdeşlik otagy"
+                ],
+                "Uzbek": [
+                    "suhbatxona"
+                ],
+                "Uyghur": [
+                    "سۆھبەتخانا"
+                ],
+                "Kazakh": [
+                    "сұхбат бөлмесі"
+                ],
+                "Karakalpak": [
+                    "sáubetlesio bólmesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "söyleşi odası"
+                ],
+                "Kazakh": [
+                    "сөйлесу бөлмесі"
+                ],
+                "Kyrgyz": [
+                    "сүйлөшүү бөлмөсү"
+                ],
+                "Karakalpak": [
+                    "sóylesu bólmesi"
+                ],
+                "Tatar": [
+                    "сөйләшү бүлмәсе"
+                ],
+                "Bashkir": [
+                    "һөйләшеү бүлмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "баарлашуу бөлмөсү"
+                ],
+                "Tatar": [
+                    "аралашу бүлмәсе"
+                ],
+                "Bashkir": [
+                    "аралашыу бүлмәһе",
+                    "аралашыу майҙансығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müzakirə otağı"
+                ],
+                "Kyrgyz": [
+                    "маектешүү бөлмөсү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muloqotxona"
+                ],
+                "Uyghur": [
+                    "مۇڭداشخانا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "пікірлесу алаңы"
+                ],
+                "Karakalpak": [
+                    "pikirlesip otıratuǵın orın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muhabbet odası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "danışıq otağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gürrüňdeşlik meýdançasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çat otagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gurungxona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چايخانا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тілдесу орны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәҗлесханә"
+                ]
+            }
+        }
+    ]
+}
+```
+

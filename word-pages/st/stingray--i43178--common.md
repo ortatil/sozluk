@@ -1,0 +1,186 @@
+# Stingray
+| Field | Detail |
+|---|---|
+| **ID** | i43178 |
+| **English** | stingray |
+| **Type** | noun |
+| **Definition** | large venomous ray with large barbed spines near the base of a thin whiplike tail capable of inflicting severe wounds |
+| **Source** | common |
+| **Ortatil** | skat |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **skat** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.43** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| тікенқұйрық | tikenquyrıq |
+| тұтасқанат | tutasqanat |
+| **Kyrgyz** | |
+| скат | skat |
+| **Tatar** | |
+| скат | skat |
+
+```json
+{
+    "id": "i43178",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stingray",
+    "en_definition": "large venomous ray with large barbed spines near the base of a thin whiplike tail capable of inflicting severe wounds",
+    "tr_word": "vatoz",
+    "tr_definition": "Kuyruğunda zehirli bir diken bulunan, yassı gövdeli bir kıkırdaklı balık türü.",
+    "ru_word": "скат-хвостокол",
+    "ru_definition": "Хрящевая рыба отряда скатов, имеющая на хвосте один или несколько острых ядовитых шипов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iğneli vatoz",
+                    "dikenli vatoz"
+                ],
+                "Turkmen": [
+                    "tikenli skat"
+                ],
+                "Uzbek": [
+                    "tikanli baliq"
+                ],
+                "Uyghur": [
+                    "تىكەنلىك بېلىق"
+                ],
+                "Kazakh": [
+                    "тікенқұйрық"
+                ],
+                "Kyrgyz": [
+                    "тикендүү балык"
+                ],
+                "Karakalpak": [
+                    "tikenli skat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "quyruğu iynəli"
+                ],
+                "Turkmen": [
+                    "guýrukly balyk"
+                ],
+                "Uyghur": [
+                    "قۇيرۇقلۇق بېلىق"
+                ],
+                "Kazakh": [
+                    "құйрықты балық"
+                ],
+                "Kyrgyz": [
+                    "куйруктуу скат"
+                ],
+                "Bashkir": [
+                    "ҡойроҡло скат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "skat"
+                ],
+                "Uzbek": [
+                    "skat"
+                ],
+                "Kyrgyz": [
+                    "скат"
+                ],
+                "Karakalpak": [
+                    "skat"
+                ],
+                "Tatar": [
+                    "скат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dumli baliq"
+                ],
+                "Karakalpak": [
+                    "uolı skat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "электр скаты"
+                ],
+                "Bashkir": [
+                    "электр скаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "диңгез мәчесе"
+                ],
+                "Bashkir": [
+                    "диңгеҙ бесәйе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vatoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iynəquyruq",
+                    "iynəli skat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سكات بېلىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұтасқанат"
+                ]
+            }
+        }
+    ]
+}
+```
+

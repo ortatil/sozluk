@@ -1,0 +1,120 @@
+{
+    "id": "i56881",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "package store",
+    "en_definition": "a store that sells alcoholic beverages for consumption elsewhere",
+    "tr_word": "tekel bayii",
+    "tr_definition": "alkollü içeceklerin başka bir yerde tüketilmek üzere satıldığı dükkan",
+    "ru_word": "магазин спиртных напитков",
+    "ru_definition": "магазин, продающий алкогольные напитки для употребления вне заведения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şərab evi"
+                ],
+                "Turkmen": [
+                    "şerap dükany"
+                ],
+                "Uzbek": [
+                    "sharob do'koni"
+                ],
+                "Uyghur": [
+                    "شارابخانا"
+                ],
+                "Kazakh": [
+                    "шарап дүкені"
+                ],
+                "Kyrgyz": [
+                    "шарапкана"
+                ],
+                "Karakalpak": [
+                    "sháráp dúkánı"
+                ],
+                "Tatar": [
+                    "шәрәбханә"
+                ],
+                "Bashkir": [
+                    "шәрәп магазины"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "içki dükkanı"
+                ],
+                "Azerbaijani": [
+                    "içki mağazası"
+                ],
+                "Turkmen": [
+                    "içgi dükany"
+                ],
+                "Uzbek": [
+                    "ichimliklar do'koni"
+                ],
+                "Kazakh": [
+                    "ішімдік дүкені"
+                ],
+                "Kyrgyz": [
+                    "ичимдик дүкөнү"
+                ],
+                "Karakalpak": [
+                    "ishimlik dúkánı"
+                ],
+                "Tatar": [
+                    "эчемлекләр кибете"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "meyxana"
+                ],
+                "Turkmen": [
+                    "meyhana"
+                ],
+                "Uzbek": [
+                    "mayxona"
+                ],
+                "Tatar": [
+                    "мәйханә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekel bayii"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büfe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھاراقخانە",
+                    "ھاراق دۇكىنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "эсемлек магазины"
+                ]
+            }
+        }
+    ]
+}

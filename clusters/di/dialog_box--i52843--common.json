@@ -1,0 +1,138 @@
+{
+    "id": "i52843",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dialog box",
+    "en_definition": "(computer science) a small temporary window in a graphical user interface that appears in order to request information from the user; after the information has been provided the user dismisses the box with `okay' or `cancel'",
+    "tr_word": "diyalog kutusu",
+    "tr_definition": "Grafik kullanıcı arayüzünde, kullanıcıdan bilgi almak veya seçenek sunmak için geçici olarak açılan küçük pencere.",
+    "ru_word": "диалоговое окно",
+    "ru_definition": "Специальный элемент интерфейса, предназначенный для вывода информации и получения ответа от пользователя.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diyalog penceresi"
+                ],
+                "Azerbaijani": [
+                    "dialoq pəncərəsi",
+                    "dialoq qutusu"
+                ],
+                "Turkmen": [
+                    "dialog penjiresi"
+                ],
+                "Uyghur": [
+                    "دىئالوگ كۆزنىكى"
+                ],
+                "Kazakh": [
+                    "тілдесу терезесі",
+                    "диалогтық терезе"
+                ],
+                "Kyrgyz": [
+                    "диалог терезеси"
+                ],
+                "Karakalpak": [
+                    "dialog terezesi"
+                ],
+                "Tatar": [
+                    "диалог тәрәзәсе"
+                ],
+                "Bashkir": [
+                    "диалог тәҙрәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سۆزلىشىش كۆزنىكى"
+                ],
+                "Karakalpak": [
+                    "sóylesu terezesi"
+                ],
+                "Tatar": [
+                    "сөйләшү тәрәзәсе"
+                ],
+                "Bashkir": [
+                    "һөйләшеү тәҙрәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sorğu pəncərəsi"
+                ],
+                "Turkmen": [
+                    "sorag penjiresi"
+                ],
+                "Kyrgyz": [
+                    "суроо-жооп терезеси"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söhbetdeşlik penjiresi"
+                ],
+                "Uzbek": [
+                    "suhbat oynasi"
+                ],
+                "Kazakh": [
+                    "сұхбат терезесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muloqot oynasi"
+                ],
+                "Uyghur": [
+                    "مۇنازىرە كۆزنىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iletişim kutusu",
+                    "ileti kutusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "savol-javob oynasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "билдирүү терезеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "xabarlama terezesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аралашу тәрәзәсе"
+                ]
+            }
+        }
+    ]
+}

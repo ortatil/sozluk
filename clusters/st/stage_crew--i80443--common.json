@@ -1,0 +1,80 @@
+{
+    "id": "i80443",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stage crew",
+    "en_definition": "crew of workers who move scenery or handle properties in a theatrical production",
+    "tr_word": "sahne arkası ekibi",
+    "tr_definition": "Bir tiyatro oyununda dekorları taşıyan veya aksesuarları yöneten çalışanlar grubu.",
+    "ru_word": "сценическая группа",
+    "ru_definition": "группа работников, которые перемещают декорации или управляют реквизитом в театральной постановке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahne arkası ekibi",
+                    "sahne çalışanları",
+                    "sahne kadrosu"
+                ],
+                "Azerbaijani": [
+                    "səhnə işçiləri",
+                    "səhnə heyəti",
+                    "səhnə xidmətçiləri"
+                ],
+                "Turkmen": [
+                    "sahna işçileri",
+                    "sahna hyzmatdaşlary"
+                ],
+                "Uzbek": [
+                    "sahna xodimlari",
+                    "sahna ishchilari",
+                    "sahna jamoasi"
+                ],
+                "Uyghur": [
+                    "سەھنە خادىملىرى",
+                    "سەھنە ئىشچىلىرى",
+                    "سەھنە ئۆمىكى"
+                ],
+                "Kazakh": [
+                    "сахна қызметкерлері",
+                    "сахна жұмысшылары",
+                    "сахна тобы"
+                ],
+                "Kyrgyz": [
+                    "сахна кызматкерлери",
+                    "сахна жумушчулары",
+                    "сахна тобу"
+                ],
+                "Karakalpak": [
+                    "saxna xızmetkerleri",
+                    "saxna jumısshıları",
+                    "saxna járdemshileri"
+                ],
+                "Tatar": [
+                    "сәхнә хезмәткәрләре",
+                    "сәхнә эшчеләре",
+                    "сәхнә төркеме"
+                ],
+                "Bashkir": [
+                    "сәхнә хеҙмәткәрҙәре",
+                    "сәхнә эшселәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "teknik ekip"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "teatr işgärleri"
+                ]
+            }
+        }
+    ]
+}

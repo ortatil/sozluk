@@ -1,0 +1,91 @@
+{
+    "id": "i39025",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "minor surgery",
+    "en_definition": "any surgical procedure that does not involve anesthesia or respiratory assistance",
+    "tr_word": "küçük cerrahi müdahale",
+    "tr_definition": "anestezi veya solunum desteği gerektirmeyen herhangi bir cerrahi prosedür",
+    "ru_word": "малая хирургическая операция",
+    "ru_definition": "любая хирургическая процедура, не требующая общей анестезии или искусственной вентиляции легких",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük cerrahi müdahale",
+                    "küçük ameliyat"
+                ],
+                "Azerbaijani": [
+                    "kiçik cərrahiyyə",
+                    "kiçik əməliyyat"
+                ],
+                "Turkmen": [
+                    "kiçi operasiýa",
+                    "kiçi hirurgiýa"
+                ],
+                "Uzbek": [
+                    "kichik jarrohlik",
+                    "kichik amaliyot"
+                ],
+                "Uyghur": [
+                    "كىچىك جەرراھىيە",
+                    "كىچىك ئوپېراتسىيە"
+                ],
+                "Kazakh": [
+                    "кіші ота",
+                    "кіші хирургиялық ем"
+                ],
+                "Kyrgyz": [
+                    "кичи операция",
+                    "кичи хирургиялык кийлигишүү"
+                ],
+                "Karakalpak": [
+                    "kishi xirurgiyalıq is",
+                    "kishi operaciya"
+                ],
+                "Tatar": [
+                    "кече җәррахлык",
+                    "кече операция"
+                ],
+                "Bashkir": [
+                    "кесе операция",
+                    "кесе хирургия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýeňil operasiýa"
+                ],
+                "Uzbek": [
+                    "yengil jarrohlik"
+                ],
+                "Kazakh": [
+                    "жеңіл ота"
+                ],
+                "Kyrgyz": [
+                    "жеңил операция"
+                ],
+                "Karakalpak": [
+                    "jeńil operaciya"
+                ],
+                "Tatar": [
+                    "җиңел җәррахлык"
+                ],
+                "Bashkir": [
+                    "еңел операция"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "basit cerrahi"
+                ]
+            }
+        }
+    ]
+}

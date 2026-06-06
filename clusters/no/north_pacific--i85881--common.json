@@ -1,0 +1,77 @@
+{
+    "id": "i85881",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north pacific",
+    "en_definition": "that part of the Pacific Ocean to the north of the equator",
+    "tr_word": "Kuzey Pasifik",
+    "tr_definition": "Büyük Okyanus'un ekvatorun kuzeyinde kalan kısmı",
+    "ru_word": "Северная часть Тихого океана",
+    "ru_definition": "часть Тихого океана, расположенная к северу от экватора",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimali Sakit okean",
+                    "Şimali Sakit okeanı"
+                ],
+                "Uzbek": [
+                    "Shimoliy Tinch okeani"
+                ],
+                "Uyghur": [
+                    "شىمالىي تىنچ ئوكيان",
+                    "شىمالىي تىنچ ئوكيان رايونى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk Ýuwaş okeany",
+                    "Demirgazyk Arkaýyn okeany"
+                ],
+                "Tatar": [
+                    "Төньяк Тын океан",
+                    "Төньяк Тын океаны"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Тымыҡ океан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Pasifik",
+                    "Kuzey Büyük Okyanus"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Солтүстік Тынық мұхиты",
+                    "Солтүстік Тынық мұхит"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Түндүк Тынч океаны",
+                    "Түндүк Тынч океан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Arqa Tınısh múxitı",
+                    "Arqa Tınısh okeanı"
+                ]
+            }
+        }
+    ]
+}

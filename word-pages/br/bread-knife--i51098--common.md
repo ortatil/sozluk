@@ -1,0 +1,104 @@
+# Bread knife
+| Field | Detail |
+|---|---|
+| **ID** | i51098 |
+| **English** | bread knife |
+| **Type** | noun |
+| **Definition** | a knife used to cut bread |
+| **Source** | common |
+| **Ortatil** | nänkesär |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i51098",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bread knife",
+    "en_definition": "a knife used to cut bread",
+    "tr_word": "ekmek bıçağı",
+    "tr_definition": "Ekmek kesmek için kullanılan, genellikle tırtıklı bir bıçak türü.",
+    "ru_word": "нож для хлеба",
+    "ru_definition": "Специальный нож с зазубренным лезвием, предназначенный для нарезки хлеба.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nan pyçagy"
+                ],
+                "Uzbek": [
+                    "non pichog'i",
+                    "nonkesar"
+                ],
+                "Uyghur": [
+                    "نان پىچىقى",
+                    "نان كېسىدىغان پىچاق"
+                ],
+                "Kazakh": [
+                    "нан пышақ",
+                    "нан кесетін пышақ"
+                ],
+                "Kyrgyz": [
+                    "нан бычак",
+                    "нан кескич"
+                ],
+                "Karakalpak": [
+                    "nan pıshaq",
+                    "nan kesetun pıshaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekmek bıçağı"
+                ],
+                "Tatar": [
+                    "икмәк пычагы"
+                ],
+                "Bashkir": [
+                    "икмәк бысағы",
+                    "икмәк турағыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çörək bıçağı"
+                ],
+                "Turkmen": [
+                    "çörek pyçagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tırtıklı bıçak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dişli bıçaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күмәч пычагы"
+                ]
+            }
+        }
+    ]
+}
+```
+

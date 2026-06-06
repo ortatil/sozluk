@@ -1,0 +1,108 @@
+# Scottish highlands
+| Field | Detail |
+|---|---|
+| **ID** | i83473 |
+| **English** | scottish highlands |
+| **Type** | noun |
+| **Definition** | a mountainous region of northern Scotland famous for its rugged beauty; known for the style of dress (the kilt and tartan) and the clan system (now in disuse) |
+| **Source** | common |
+| **Ortatil** | haylent |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| Хайленд | xaylend |
+
+```json
+{
+    "id": "i83473",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "scottish highlands",
+    "en_definition": "a mountainous region of northern Scotland famous for its rugged beauty; known for the style of dress (the kilt and tartan) and the clan system (now in disuse)",
+    "tr_word": "İskoç Yaylaları",
+    "tr_definition": "Kuzey İskoçya'da engebeli güzelliği, kilt ve tartan gibi giyim tarzları ve klan sistemiyle tanınan dağlık bölge.",
+    "ru_word": "Шотландское высокогорье",
+    "ru_definition": "Гористая местность на севере Шотландии, известная своей суровой красотой, традиционной одеждой (килт и тартан) и клановой системой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şotlandiya dağlıqları",
+                    "Şotlandiya yaylası",
+                    "Şotlandiya yüksəklikləri"
+                ],
+                "Turkmen": [
+                    "Şotlandiýanyň daglyk sebitleri",
+                    "Şotlandiýanyň belentlikleri",
+                    "Şotlandiýanyň daglygy"
+                ],
+                "Uzbek": [
+                    "Shotlandiya togʻlari",
+                    "Shotlandiya togʻligi",
+                    "Shotlandiya balandliklari"
+                ],
+                "Uyghur": [
+                    "شوتلاندىيە ئېگىزلىكى",
+                    "شوتلاندىيە تاغلىق رايونى"
+                ],
+                "Kazakh": [
+                    "Шотланд таулы өлкесі",
+                    "Шотландия таулары"
+                ],
+                "Kyrgyz": [
+                    "Шотландия тоолору",
+                    "Шотландия бийик тоолуу аймагы",
+                    "Шотландиянын тоолуу өлкөсү"
+                ],
+                "Karakalpak": [
+                    "Shotlandiya taoları",
+                    "Shotlandiya taolı ólkesi",
+                    "Shotlandiyanıń biyik taolı aymaǵı"
+                ],
+                "Tatar": [
+                    "Шотландия таулыгы",
+                    "Шотландия таулары"
+                ],
+                "Bashkir": [
+                    "Шотландия тауҙары",
+                    "Шотландия таулығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Төньяк Шотландия таулары"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Шотландия тауҙары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "İskoçya Yaylaları",
+                    "İskoç Dağlık Bölgesi",
+                    "İskoçya Dağları"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Хайленд"
+                ]
+            }
+        }
+    ]
+}
+```
+

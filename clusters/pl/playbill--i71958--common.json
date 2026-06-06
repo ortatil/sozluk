@@ -1,0 +1,149 @@
+{
+    "id": "i71958",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "playbill",
+    "en_definition": "a theatrical program",
+    "tr_word": "tiyatro programı",
+    "tr_definition": "Bir tiyatro oyununun oyuncu kadrosunu, sahnelerini ve diğer bilgilerini içeren kitapçık veya ilan.",
+    "ru_word": "театральная программка",
+    "ru_definition": "Печатное издание или листок с информацией о театральном представлении, составе исполнителей и создателях спектакля.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "afiş"
+                ],
+                "Azerbaijani": [
+                    "afişa"
+                ],
+                "Turkmen": [
+                    "afişa"
+                ],
+                "Uzbek": [
+                    "afisha"
+                ],
+                "Kazakh": [
+                    "афиша"
+                ],
+                "Kyrgyz": [
+                    "афиша"
+                ],
+                "Karakalpak": [
+                    "afisha"
+                ],
+                "Tatar": [
+                    "афиша"
+                ],
+                "Bashkir": [
+                    "афиша"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "proqram"
+                ],
+                "Turkmen": [
+                    "programma"
+                ],
+                "Uyghur": [
+                    "پروگرامما"
+                ],
+                "Tatar": [
+                    "программа"
+                ],
+                "Bashkir": [
+                    "программа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bildiriş"
+                ],
+                "Kazakh": [
+                    "бағдарлама"
+                ],
+                "Karakalpak": [
+                    "baǵdarlama",
+                    "bildirio"
+                ],
+                "Tatar": [
+                    "белдерү"
+                ],
+                "Bashkir": [
+                    "белдереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tiyatro programı"
+                ],
+                "Uyghur": [
+                    "تىياتىر پروگراممىسى",
+                    "تىياتىر ئېلانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "elan"
+                ],
+                "Uzbek": [
+                    "e'lon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oyun el ilanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temsil broşürü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хабарлама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кулактандыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жарыя"
+                ]
+            }
+        }
+    ]
+}

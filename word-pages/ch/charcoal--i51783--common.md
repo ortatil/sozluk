@@ -1,0 +1,147 @@
+# Charcoal
+| Field | Detail |
+|---|---|
+| **ID** | i51783 |
+| **English** | charcoal |
+| **Type** | noun |
+| **Definition** | a stick of black carbon material used for drawing |
+| **Source** | common |
+| **Ortatil** | kömür |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kömür** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كۆمۈر | kömür |
+| **Kazakh** | |
+| көмір | kömir |
+| көмірқалам | kömirqalam |
+| қаракөмір | qarakömir |
+| **Kyrgyz** | |
+| көмүр | kömür |
+| **Tatar** | |
+| күмер | kümer |
+| **Bashkir** | |
+| күмер | kümer |
+
+```json
+{
+    "id": "i51783",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "charcoal",
+    "en_definition": "a stick of black carbon material used for drawing",
+    "tr_word": "füzen",
+    "tr_definition": "Resim çizmekte kullanılan, kömürleştirilmiş bitki dallarından yapılan kalem.",
+    "ru_word": "уголь",
+    "ru_definition": "Палочка из обожженного дерева, используемая как материал для рисования.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kömür kalem"
+                ],
+                "Azerbaijani": [
+                    "kömür",
+                    "kömür qələm"
+                ],
+                "Turkmen": [
+                    "kömür",
+                    "kömür galam"
+                ],
+                "Uzbek": [
+                    "ko'mir",
+                    "ko'mirqalam"
+                ],
+                "Uyghur": [
+                    "كۆمۈر قەلەم",
+                    "كۆمۈر"
+                ],
+                "Kazakh": [
+                    "көмір",
+                    "көмірқалам"
+                ],
+                "Kyrgyz": [
+                    "көмүр",
+                    "көмүр калем",
+                    "көмүр таякча"
+                ],
+                "Karakalpak": [
+                    "kómir"
+                ],
+                "Tatar": [
+                    "күмер",
+                    "күмер каләм"
+                ],
+                "Bashkir": [
+                    "күмер",
+                    "күмер ҡәләм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karakalem"
+                ],
+                "Turkmen": [
+                    "gara kömür"
+                ],
+                "Kazakh": [
+                    "қаракөмір"
+                ],
+                "Karakalpak": [
+                    "qara kómir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rəsm kömürü"
+                ],
+                "Tatar": [
+                    "рәсем күмере"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "füzen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qalamko'mir"
+                ]
+            }
+        }
+    ]
+}
+```
+

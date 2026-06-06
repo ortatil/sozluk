@@ -1,0 +1,139 @@
+# Health hazard
+| Field | Detail |
+|---|---|
+| **ID** | i113423 |
+| **English** | health hazard |
+| **Type** | noun |
+| **Definition** | hazard to the health of those exposed to it |
+| **Source** | common |
+| **Ortatil** | qaıip-qater |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қауіп-қатер | qauip-qater |
+
+```json
+{
+    "id": "i113423",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "health hazard",
+    "en_definition": "hazard to the health of those exposed to it",
+    "tr_word": "sağlık riski",
+    "tr_definition": "maruz kalanların sağlığına yönelik tehlike veya risk",
+    "ru_word": "опасность для здоровья",
+    "ru_definition": "угроза или риск для здоровья людей, подвергающихся воздействию чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağlık tehlikesi",
+                    "sağlık riski"
+                ],
+                "Azerbaijani": [
+                    "sağlamlıq üçün təhlükə",
+                    "sağlamlıq riski",
+                    "ziyanlı amil"
+                ],
+                "Turkmen": [
+                    "saglyga zyýan",
+                    "saglyk üçin howp",
+                    "saglyga howp",
+                    "saglyga zeper"
+                ],
+                "Uzbek": [
+                    "sogʻliq uchun xatar"
+                ],
+                "Uyghur": [
+                    "ساغلاملىق خەتىرى"
+                ],
+                "Tatar": [
+                    "саулыкка хәтәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "salomatlikka xavf"
+                ],
+                "Uyghur": [
+                    "سالامەتلىككە زىيانلىق ئامىل"
+                ],
+                "Kyrgyz": [
+                    "саламаттыкка зыян"
+                ],
+                "Karakalpak": [
+                    "salamatlıqqa zıyan"
+                ],
+                "Tatar": [
+                    "сәламәтлеккә куркыныч",
+                    "сәламәтлеккә зыян"
+                ],
+                "Bashkir": [
+                    "сәләмәтлеккә хәүеф",
+                    "сәләмәтлеккә зыян",
+                    "сәләмәтлеккә ҡурҡыныс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıhhi tehlike"
+                ],
+                "Azerbaijani": [
+                    "səhhətə zərər"
+                ],
+                "Uzbek": [
+                    "zaharli omil"
+                ],
+                "Uyghur": [
+                    "سەھىيە خەۋپى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "денсаулыққа қауіп",
+                    "денсаулыққа зиян"
+                ],
+                "Kyrgyz": [
+                    "ден соолукка коркунуч",
+                    "ден соолукка зыян"
+                ],
+                "Karakalpak": [
+                    "densaolıqqa qáoip",
+                    "densaolıqqa qáter"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zararli taʼsir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қауіп-қатер"
+                ]
+            }
+        }
+    ]
+}
+```
+

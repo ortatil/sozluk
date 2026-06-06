@@ -1,0 +1,129 @@
+{
+    "id": "i10043",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "battery-powered",
+    "en_definition": "powered by one or more electric batteries",
+    "tr_word": "pilli",
+    "tr_definition": "bir veya daha fazla elektrik pili ile çalışan",
+    "ru_word": "работающий от батареек",
+    "ru_definition": "питающийся от одного или нескольких электрических аккумуляторов или батареек",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bataryalı"
+                ],
+                "Azerbaijani": [
+                    "batareyalı",
+                    "batareya ilə işləyən"
+                ],
+                "Turkmen": [
+                    "batareýaly",
+                    "batareýa bilen işleýän"
+                ],
+                "Uzbek": [
+                    "batareyali"
+                ],
+                "Uyghur": [
+                    "باتارېيىلىك",
+                    "باتارېيە بىلەن ھەرىكەتلىنىدىغان"
+                ],
+                "Kazakh": [
+                    "батареямен жұмыс істейтін"
+                ],
+                "Kyrgyz": [
+                    "батареялуу",
+                    "батарея менен иштөөчү"
+                ],
+                "Karakalpak": [
+                    "batareyalı",
+                    "batareya menen isleytuǵın"
+                ],
+                "Tatar": [
+                    "батареялы"
+                ],
+                "Bashkir": [
+                    "батареялы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қуаттағышпен жұмыс істейтін",
+                    "қуат жинағышты"
+                ],
+                "Kyrgyz": [
+                    "кубаттагычтуу"
+                ],
+                "Karakalpak": [
+                    "quatlaǵıshlı"
+                ],
+                "Tatar": [
+                    "куәт туплагычлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tokly"
+                ],
+                "Uyghur": [
+                    "توقدانلىق"
+                ],
+                "Bashkir": [
+                    "туҡландырғыслы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akülü"
+                ],
+                "Uzbek": [
+                    "tokli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quvvatlagichli"
+                ],
+                "Bashkir": [
+                    "ҡеүәтләгесле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "электрлі"
+                ],
+                "Tatar": [
+                    "электр туплагычлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pilli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zaryadkalı"
+                ]
+            }
+        }
+    ]
+}

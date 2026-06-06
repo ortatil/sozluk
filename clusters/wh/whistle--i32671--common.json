@@ -1,0 +1,102 @@
+{
+    "id": "i32671",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "whistle",
+    "en_definition": "make whistling sounds",
+    "tr_word": "ıslık çalmak",
+    "tr_definition": "dudakları büzerek veya bir alet kullanarak tiz bir ses çıkarmak",
+    "ru_word": "свистеть",
+    "ru_definition": "издавать характерный резкий и высокий звук",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ıslık çalmak",
+                    "ıslıklamak"
+                ],
+                "Turkmen": [
+                    "islik çalmak"
+                ],
+                "Uzbek": [
+                    "isqirmoq"
+                ],
+                "Uyghur": [
+                    "ئىسقىرتماق",
+                    "ئىسقىرماق"
+                ],
+                "Kazakh": [
+                    "ысқыру",
+                    "ысқырық шалу"
+                ],
+                "Kyrgyz": [
+                    "ышкыруу",
+                    "ышкырык салуу"
+                ],
+                "Karakalpak": [
+                    "ısqırıq shalu",
+                    "ısqıru"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fısqırtmaq"
+                ],
+                "Tatar": [
+                    "сызгыру"
+                ],
+                "Bashkir": [
+                    "һыҙғырыу",
+                    "һыҙғырып ебәреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sykylyk atmak",
+                    "sykylyklamak"
+                ],
+                "Karakalpak": [
+                    "sıbızǵılau"
+                ],
+                "Tatar": [
+                    "сыбызгылау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fit çalmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çalgy çalmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hushtak chalmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھۇۋلىماق"
+                ]
+            }
+        }
+    ]
+}

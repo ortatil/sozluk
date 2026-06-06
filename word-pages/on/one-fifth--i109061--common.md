@@ -1,0 +1,85 @@
+# One-fifth
+| Field | Detail |
+|---|---|
+| **ID** | i109061 |
+| **English** | one-fifth |
+| **Type** | noun |
+| **Definition** | one part in five equal parts |
+| **Source** | common |
+| **Ortatil** | humus |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i109061",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "one-fifth",
+    "en_definition": "one part in five equal parts",
+    "tr_word": "beşte bir",
+    "tr_definition": "beş eşit parçadan biri",
+    "ru_word": "одна пятая",
+    "ru_definition": "одна часть из пяти равных частей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beşte bir"
+                ],
+                "Azerbaijani": [
+                    "beşdə bir",
+                    "beşdəbir",
+                    "beşdə bir hissə"
+                ],
+                "Turkmen": [
+                    "bäşden bir",
+                    "bäşde bir"
+                ],
+                "Uzbek": [
+                    "beshdan bir",
+                    "beshda bir"
+                ],
+                "Uyghur": [
+                    "بەشتىن بىر",
+                    "بەشتە بىر"
+                ],
+                "Kazakh": [
+                    "бестен бір",
+                    "бес бөліктің бірі"
+                ],
+                "Kyrgyz": [
+                    "бештен бир",
+                    "бештен бир бөлүк"
+                ],
+                "Karakalpak": [
+                    "besten bir",
+                    "bes bólektiń biri"
+                ],
+                "Tatar": [
+                    "биштән бер",
+                    "биш бер"
+                ],
+                "Bashkir": [
+                    "биштән бер",
+                    "биш бер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "humus"
+                ],
+                "Uzbek": [
+                    "xums"
+                ]
+            }
+        }
+    ]
+}
+```
+

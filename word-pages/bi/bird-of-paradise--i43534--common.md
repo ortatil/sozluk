@@ -1,0 +1,123 @@
+# Bird of paradise
+| Field | Detail |
+|---|---|
+| **ID** | i43534 |
+| **English** | bird of paradise |
+| **Type** | noun |
+| **Definition** | any of numerous brilliantly colored plumed birds of the New Guinea area |
+| **Source** | common |
+| **Ortatil** | humäkışı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| жөндөлө | jöndölö |
+
+```json
+{
+    "id": "i43534",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bird of paradise",
+    "en_definition": "any of numerous brilliantly colored plumed birds of the New Guinea area",
+    "tr_word": "cennet kuşu",
+    "tr_definition": "Yeni Gine ve çevresinde yaşayan, genellikle çok renkli ve gösterişli tüylere sahip olan kuş türlerinin ortak adı.",
+    "ru_word": "райская птица",
+    "ru_definition": "птица из семейства воробьинообразных, обитающая преимущественно в Новой Гвинее и отличающаяся необычайно ярким и красивым оперением.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cennet kuşu"
+                ],
+                "Azerbaijani": [
+                    "cənnət quşu"
+                ],
+                "Turkmen": [
+                    "jennet guşy"
+                ],
+                "Uzbek": [
+                    "jannat qushi"
+                ],
+                "Uyghur": [
+                    "جەننەت قۇشى"
+                ],
+                "Karakalpak": [
+                    "jánnet qusı"
+                ],
+                "Tatar": [
+                    "җәннәт кошы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hümakuşu"
+                ],
+                "Azerbaijani": [
+                    "huma quşu"
+                ],
+                "Uzbek": [
+                    "humo"
+                ],
+                "Uyghur": [
+                    "ھۇما قۇشى"
+                ],
+                "Kazakh": [
+                    "жұмақ құсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "behişt guşy"
+                ],
+                "Kazakh": [
+                    "пейіш құсы"
+                ],
+                "Kyrgyz": [
+                    "бейиш кушу"
+                ],
+                "Karakalpak": [
+                    "peyish qusı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "оҗмах кошы"
+                ],
+                "Bashkir": [
+                    "ожмах ҡошо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жөндөлө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "фирҙәүес ҡошо"
+                ]
+            }
+        }
+    ]
+}
+```
+

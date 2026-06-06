@@ -1,0 +1,75 @@
+{
+    "id": "i76683",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chicken stew",
+    "en_definition": "a stew made with chicken",
+    "tr_word": "tavuk yahnisi",
+    "tr_definition": "Tavuk eti ve çeşitli sebzelerle yapılan sulu yemek.",
+    "ru_word": "тушёная курица",
+    "ru_definition": "Блюдо из курицы, приготовленное путем медленного тушения с овощами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavuk yahnisi",
+                    "tavuk haşlama",
+                    "tavuk sote"
+                ],
+                "Azerbaijani": [
+                    "toyuq bozbajı",
+                    "toyuq şorbajı",
+                    "toyuq xörəyi",
+                    "toyuq sulusu"
+                ],
+                "Turkmen": [
+                    "towukly nahar",
+                    "towukly çorba",
+                    "towukly buglama"
+                ],
+                "Uzbek": [
+                    "tovuq dimlama",
+                    "tovuq sho'rva",
+                    "tovuq xurush"
+                ],
+                "Uyghur": [
+                    "توخۇ قورۇمىسى",
+                    "توخۇ شورپىسى",
+                    "توخۇ سۇيۇقئېشى"
+                ],
+                "Kazakh": [
+                    "тауық сорпасы",
+                    "тауық қуырдағы"
+                ],
+                "Kyrgyz": [
+                    "тоок шилеси",
+                    "тоок куурдагы",
+                    "тоок сорпосу"
+                ],
+                "Karakalpak": [
+                    "taoıq sorpa",
+                    "taoıq shorpa",
+                    "taoıq quoırma"
+                ],
+                "Tatar": [
+                    "тавык шулпасы",
+                    "тавык ашы",
+                    "тавык кайнатмасы"
+                ],
+                "Bashkir": [
+                    "тауыҡ быҡтырмаһы",
+                    "тауыҡ шулпаһы",
+                    "тауыҡ ашы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тауық бұқтырмасы"
+                ]
+            }
+        }
+    ]
+}

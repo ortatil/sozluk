@@ -1,0 +1,100 @@
+{
+    "id": "i43116",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "carpet shark",
+    "en_definition": "shark of the western Pacific with flattened body and mottled skin",
+    "tr_word": "halı köpekbalığı",
+    "tr_definition": "Batı Pasifik'te yaşayan, yassı gövdeli ve benekli derili bir köpekbalığı türü",
+    "ru_word": "ковровая акула",
+    "ru_definition": "акула западной части Тихого океана с уплощенным телом и пятнистой кожей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "halı köpek balığı"
+                ],
+                "Azerbaijani": [
+                    "xalça köpəkbalığı",
+                    "xalçavari köpəkbalığı"
+                ],
+                "Turkmen": [
+                    "haly akulasy",
+                    "haly görnüşli akula"
+                ],
+                "Kazakh": [
+                    "ала акула"
+                ],
+                "Kyrgyz": [
+                    "ала акула"
+                ],
+                "Karakalpak": [
+                    "ala akula"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "gilam akulasi"
+                ],
+                "Uyghur": [
+                    "گىلەم بېلىقى",
+                    "گىلەم شەكىللىك لەھەڭ"
+                ],
+                "Kazakh": [
+                    "кілем акуласы"
+                ],
+                "Kyrgyz": [
+                    "килем сымал акула"
+                ],
+                "Tatar": [
+                    "келәм акуласы"
+                ],
+                "Bashkir": [
+                    "келәм акулаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "benekli köpek balığı"
+                ],
+                "Bashkir": [
+                    "биҙәкле акула"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "naqshli akula"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yassi akula"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jalpaq akula"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чуар акула"
+                ]
+            }
+        }
+    ]
+}

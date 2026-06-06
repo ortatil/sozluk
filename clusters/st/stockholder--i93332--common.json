@@ -1,0 +1,130 @@
+{
+    "id": "i93332",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stockholder",
+    "en_definition": "someone who holds shares of stock in a corporation",
+    "tr_word": "hissedar",
+    "tr_definition": "bir şirketin hisse senetlerine sahip olan kimse",
+    "ru_word": "акционер",
+    "ru_definition": "лицо, владеющее акциями какой-либо корпорации или компании",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "paydaş"
+                ],
+                "Azerbaijani": [
+                    "payçı"
+                ],
+                "Turkmen": [
+                    "paýdar"
+                ],
+                "Uzbek": [
+                    "paychi"
+                ],
+                "Uyghur": [
+                    "پايچى",
+                    "پاي چەكدار",
+                    "پاي ھېسسىدارى"
+                ],
+                "Kazakh": [
+                    "пайшы"
+                ],
+                "Kyrgyz": [
+                    "пайчы"
+                ],
+                "Karakalpak": [
+                    "payshı"
+                ],
+                "Tatar": [
+                    "пайчы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aksiyador"
+                ],
+                "Kazakh": [
+                    "акционер"
+                ],
+                "Kyrgyz": [
+                    "акционер",
+                    "акциячы"
+                ],
+                "Karakalpak": [
+                    "akcioner"
+                ],
+                "Tatar": [
+                    "акциядар",
+                    "акция тотучы"
+                ],
+                "Bashkir": [
+                    "акционер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hissedar"
+                ],
+                "Azerbaijani": [
+                    "hissədar"
+                ],
+                "Turkmen": [
+                    "hissedar"
+                ],
+                "Uzbek": [
+                    "hissador"
+                ],
+                "Bashkir": [
+                    "хәссаҙар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үлескер"
+                ],
+                "Kyrgyz": [
+                    "үлүшкер"
+                ],
+                "Karakalpak": [
+                    "úlesshі"
+                ],
+                "Bashkir": [
+                    "өлөшсө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ortak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səhmdar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құрылтайшы"
+                ]
+            }
+        }
+    ]
+}

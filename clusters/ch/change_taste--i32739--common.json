@@ -1,0 +1,104 @@
+{
+    "id": "i32739",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "change taste",
+    "en_definition": "alter the flavor of",
+    "tr_word": "tadını değiştirmek",
+    "tr_definition": "bir şeyin lezzetini başkalaştırmak veya farklı bir aroma katmak",
+    "ru_word": "изменять вкус",
+    "ru_definition": "менять или модифицировать вкусовые качества чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ta'mini o'zgartirmoq",
+                    "ta'm bermoq"
+                ],
+                "Uyghur": [
+                    "تەمىنى ئۆزگەرتمەك",
+                    "تەم كىرگۈزمەك",
+                    "تەمىنى باشقىچە قىلماق"
+                ],
+                "Kazakh": [
+                    "дәмін өзгерту",
+                    "дәмін бұру",
+                    "дәмін құбылту",
+                    "дәмін жаңарту"
+                ],
+                "Kyrgyz": [
+                    "даамын өзгөртүү",
+                    "даамдандыруу",
+                    "даам берүү"
+                ],
+                "Karakalpak": [
+                    "dámin ózgertio",
+                    "dámin basqalastırıo",
+                    "dámin túrlendirio"
+                ],
+                "Tatar": [
+                    "тәмләндерү",
+                    "тәмен үзгәртү",
+                    "тәм кертү"
+                ],
+                "Bashkir": [
+                    "тәмләндереү",
+                    "тәмен үҙгәртеү",
+                    "тәм биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tatlandırmak",
+                    "tadını değiştirmek"
+                ],
+                "Azerbaijani": [
+                    "dadını dəyişmək",
+                    "tamını dəyişmək"
+                ],
+                "Turkmen": [
+                    "dadyny üýtgetmek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lezzetini değiştirmek"
+                ],
+                "Azerbaijani": [
+                    "ləzzətini dəyişmək"
+                ],
+                "Turkmen": [
+                    "lezzetini üýtgetmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çeşnilendirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tagamyny üýtgetmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mazasini o'zgartirmoq"
+                ]
+            }
+        }
+    ]
+}

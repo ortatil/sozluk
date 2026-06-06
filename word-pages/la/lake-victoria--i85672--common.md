@@ -1,0 +1,67 @@
+# Lake victoria
+| Field | Detail |
+|---|---|
+| **ID** | i85672 |
+| **English** | lake victoria |
+| **Type** | noun |
+| **Definition** | the largest lake in Africa and the 2nd largest fresh water lake in the world; a headwaters reservoir for the Nile River |
+| **Source** | common |
+| **Ortatil** | wiktäriyä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i85672",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lake victoria",
+    "en_definition": "the largest lake in Africa and the 2nd largest fresh water lake in the world; a headwaters reservoir for the Nile River",
+    "tr_word": "Victoria Gölü",
+    "tr_definition": "Afrika'nın en büyük gölü ve dünyanın en büyük ikinci tatlı su gölü; Nil Nehri'nin ana su kaynağı.",
+    "ru_word": "Виктория",
+    "ru_definition": "Самое большое озеро в Африке и второе по величине пресноводное озеро в мире; один из главных истоков реки Нил.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Victoria Gölü",
+                    "Viktorya Gölü"
+                ],
+                "Azerbaijani": [
+                    "Viktoriya gölü"
+                ],
+                "Turkmen": [
+                    "Wiktoriýa köli"
+                ],
+                "Uzbek": [
+                    "Viktoriya ko'li",
+                    "Viktoriya"
+                ],
+                "Uyghur": [
+                    "ۋىكتورىيە كۆلى"
+                ],
+                "Kazakh": [
+                    "Виктория көлі"
+                ],
+                "Kyrgyz": [
+                    "Виктория көлү"
+                ],
+                "Karakalpak": [
+                    "Wiktoriya kóli"
+                ],
+                "Tatar": [
+                    "Виктория күле"
+                ],
+                "Bashkir": [
+                    "Виктория күле"
+                ]
+            }
+        }
+    ]
+}
+```
+

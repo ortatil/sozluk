@@ -1,0 +1,105 @@
+{
+    "id": "i56102",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "meat counter",
+    "en_definition": "counter where meats are displayed for sale",
+    "tr_word": "et reyonu",
+    "tr_definition": "etlerin satış için sergilendiği tezgah veya bölüm",
+    "ru_word": "мясной отдел",
+    "ru_definition": "прилавок или отдел в магазине, где мясо выставлено на продажу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "et reyonu",
+                    "et tezgahı"
+                ],
+                "Azerbaijani": [
+                    "ət vitrini"
+                ],
+                "Turkmen": [
+                    "et dükany",
+                    "et tekjesi",
+                    "et bölümi"
+                ],
+                "Kazakh": [
+                    "ет сөресі",
+                    "ет дүкені",
+                    "ет жаймасы"
+                ],
+                "Kyrgyz": [
+                    "эт текчеси",
+                    "эт дүкөнү"
+                ],
+                "Tatar": [
+                    "ит киштәсе",
+                    "ит бүлеге"
+                ],
+                "Bashkir": [
+                    "ит кәштәһе",
+                    "ит киштәһе",
+                    "ит бүлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ət piştaxtası"
+                ],
+                "Tatar": [
+                    "ит сату урыны"
+                ],
+                "Bashkir": [
+                    "ит һатыу урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "go'sht rastasi",
+                    "go'sht do'koni"
+                ],
+                "Uyghur": [
+                    "گۆش پېشتاختىسى",
+                    "گۆش جازىسى",
+                    "گۆش سېتىش ئورنى"
+                ],
+                "Karakalpak": [
+                    "gósh dúkónú",
+                    "gósh rastası",
+                    "gósh bólimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kasap reyonu"
+                ],
+                "Uzbek": [
+                    "qassobxona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ət şöbəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эт сатуучу жай"
+                ]
+            }
+        }
+    ]
+}

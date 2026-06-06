@@ -1,0 +1,189 @@
+# University
+| Field | Detail |
+|---|---|
+| **ID** | i80692 |
+| **English** | university |
+| **Type** | noun |
+| **Definition** | a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees |
+| **Source** | core |
+| **Ortatil** | uniwersitet, darülfünun |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **uniwersitet** | **darülfünun** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 1 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 1 | 0.40 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **3.40** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئۇنىۋېرسىتېت | universitet |
+| دارىلفۇنۇن | darilfunun |
+| **Kazakh** | |
+| университет | universitet |
+| **Kyrgyz** | |
+| университет | universitet |
+| **Tatar** | |
+| университет | universitet |
+| дарельфөнүн | darelfönün |
+| **Bashkir** | |
+| университет | universitet |
+| дарулфөнүн | darulfönün |
+
+```json
+{
+    "id": "i80692",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "university",
+    "en_definition": "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees",
+    "tr_word": "üniversite",
+    "tr_definition": "Bilimsel özerkliğe ve kamu tüzel kişiliğine sahip, yüksek düzeyde eğitim, öğretim, bilimsel araştırma ve yayın yapan yükseköğretim kurumu.",
+    "ru_word": "университет",
+    "ru_definition": "Высшее учебное заведение, которое проводит обучение по многим направлениям и специальностям, а также занимается научной деятельностью.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üniversite"
+                ],
+                "Azerbaijani": [
+                    "universitet"
+                ],
+                "Turkmen": [
+                    "uniwersitet"
+                ],
+                "Uzbek": [
+                    "universitet"
+                ],
+                "Uyghur": [
+                    "ئۇنىۋېرسىتېت"
+                ],
+                "Kazakh": [
+                    "университет"
+                ],
+                "Kyrgyz": [
+                    "университет"
+                ],
+                "Karakalpak": [
+                    "uniwersitet"
+                ],
+                "Tatar": [
+                    "университет"
+                ],
+                "Bashkir": [
+                    "университет"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "darülfünun"
+                ],
+                "Azerbaijani": [
+                    "darülfünun"
+                ],
+                "Turkmen": [
+                    "darülfünun"
+                ],
+                "Uzbek": [
+                    "dorilfunun"
+                ],
+                "Uyghur": [
+                    "دارىلفۇنۇن"
+                ],
+                "Tatar": [
+                    "дарельфөнүн"
+                ],
+                "Bashkir": [
+                    "дарулфөнүн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýokary okuw mekdebi"
+                ],
+                "Kyrgyz": [
+                    "жогорку окуу жайы"
+                ],
+                "Karakalpak": [
+                    "joqarı oqıo ornı"
+                ],
+                "Tatar": [
+                    "югары уку йорты"
+                ],
+                "Bashkir": [
+                    "юғары уҡыу йорто"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ali məktəb"
+                ],
+                "Uzbek": [
+                    "oliygoh"
+                ],
+                "Uyghur": [
+                    "ئالىي بىلىم يۇرتى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "білім ордасы"
+                ],
+                "Kyrgyz": [
+                    "билим ордосу"
+                ],
+                "Karakalpak": [
+                    "bilimlendirio mákemesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оқу орны"
+                ],
+                "Kyrgyz": [
+                    "окуу жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yüksekokul"
+                ]
+            }
+        }
+    ]
+}
+```
+

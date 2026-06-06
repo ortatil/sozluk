@@ -1,0 +1,174 @@
+{
+    "id": "i71597",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "newsletter",
+    "en_definition": "report or open letter giving informal or confidential news of interest to a special group",
+    "tr_word": "bülten",
+    "tr_definition": "belirli bir topluluğu ilgilendiren haberleri içeren, düzenli veya düzensiz aralıklarla yayımlanan yazı.",
+    "ru_word": "информационный бюллетень",
+    "ru_definition": "периодическое издание, содержащее информацию для узкого круга людей или подписчиков.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haber bülteni"
+                ],
+                "Azerbaijani": [
+                    "xəbərnamə",
+                    "xəbər bülleteni"
+                ],
+                "Turkmen": [
+                    "habarnama"
+                ],
+                "Uzbek": [
+                    "xabarnoma"
+                ],
+                "Uyghur": [
+                    "خەۋەرنامە"
+                ],
+                "Kazakh": [
+                    "хабаршы",
+                    "хабарлама"
+                ],
+                "Karakalpak": [
+                    "xabarnama",
+                    "xabarshı"
+                ],
+                "Tatar": [
+                    "хәбәрнамә"
+                ],
+                "Bashkir": [
+                    "хәбәрнамә",
+                    "хәбәрлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bülten"
+                ],
+                "Azerbaijani": [
+                    "bülleten"
+                ],
+                "Turkmen": [
+                    "bülleten"
+                ],
+                "Karakalpak": [
+                    "byulleten"
+                ],
+                "Tatar": [
+                    "бюллетень"
+                ],
+                "Bashkir": [
+                    "бюллетень"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məlumatnamə"
+                ],
+                "Kyrgyz": [
+                    "маалымат баракчасы"
+                ],
+                "Karakalpak": [
+                    "málimleme"
+                ],
+                "Tatar": [
+                    "мәгълүматнамә"
+                ],
+                "Bashkir": [
+                    "мәғлүмәтнамә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "axborotnoma"
+                ],
+                "Uyghur": [
+                    "ئاخباراتنامە"
+                ],
+                "Kazakh": [
+                    "ақпараттық хат",
+                    "ақпараттық парақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "risale"
+                ],
+                "Uzbek": [
+                    "risola"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duyuru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ilan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maglumatnama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "noma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇچۇرنامە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кабарлама",
+                    "кабар баракчасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "билдирме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яңалык кәгазе"
+                ]
+            }
+        }
+    ]
+}

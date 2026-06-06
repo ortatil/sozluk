@@ -1,0 +1,126 @@
+{
+    "id": "i31829",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "get on",
+    "en_definition": "get on board of (trains, buses, ships, aircraft, etc.)",
+    "tr_word": "binmek",
+    "tr_definition": "Tren, otobüs, gemi veya uçak gibi bir taşıta giriş yapmak.",
+    "ru_word": "садиться",
+    "ru_definition": "Входить в транспортное средство (поезд, автобус, корабль, самолет и т. д.).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "binmek"
+                ],
+                "Azerbaijani": [
+                    "minmək"
+                ],
+                "Turkmen": [
+                    "münmek"
+                ],
+                "Uzbek": [
+                    "minmoq"
+                ],
+                "Uyghur": [
+                    "مىنمەك"
+                ],
+                "Kazakh": [
+                    "міну"
+                ],
+                "Kyrgyz": [
+                    "минүү"
+                ],
+                "Karakalpak": [
+                    "minu"
+                ],
+                "Tatar": [
+                    "менү"
+                ],
+                "Bashkir": [
+                    "менеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "oturmak"
+                ],
+                "Uzbek": [
+                    "oʻtirmoq"
+                ],
+                "Kazakh": [
+                    "отыру"
+                ],
+                "Kyrgyz": [
+                    "отуруу"
+                ],
+                "Karakalpak": [
+                    "otırıu"
+                ],
+                "Tatar": [
+                    "утыру"
+                ],
+                "Bashkir": [
+                    "ултырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chiqmoq"
+                ],
+                "Uyghur": [
+                    "چىقماق"
+                ],
+                "Kyrgyz": [
+                    "чыгуу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көтерілу"
+                ],
+                "Tatar": [
+                    "кереп утыру"
+                ],
+                "Bashkir": [
+                    "күтәрелеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dahil olmak"
+                ],
+                "Azerbaijani": [
+                    "daxil olmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kurulmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qalxmaq"
+                ]
+            }
+        }
+    ]
+}

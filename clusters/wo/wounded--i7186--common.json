@@ -1,0 +1,115 @@
+{
+    "id": "i7186",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "wounded",
+    "en_definition": "suffering from physical injury especially that suffered in battle",
+    "tr_word": "yaralı",
+    "tr_definition": "vücudunda yarası olan, özellikle savaşta fiziksel zarar görmüş kimse",
+    "ru_word": "раненый",
+    "ru_definition": "получивший физическое повреждение, особенно в ходе сражения или боевых действий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaralı"
+                ],
+                "Azerbaijani": [
+                    "yaralı"
+                ],
+                "Turkmen": [
+                    "ýaraly"
+                ],
+                "Uzbek": [
+                    "yarador",
+                    "jarohatlangan"
+                ],
+                "Uyghur": [
+                    "يارىدار"
+                ],
+                "Kazakh": [
+                    "жаралы",
+                    "жарақатты"
+                ],
+                "Kyrgyz": [
+                    "жарадар",
+                    "жаралуу",
+                    "жаракаттуу"
+                ],
+                "Karakalpak": [
+                    "jaradar",
+                    "jaralı"
+                ],
+                "Tatar": [
+                    "яралы",
+                    "җәрәхәтле",
+                    "яраланган"
+                ],
+                "Bashkir": [
+                    "яралы",
+                    "яраланған",
+                    "йәрәхәтле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mecruh"
+                ],
+                "Azerbaijani": [
+                    "məcruh"
+                ],
+                "Uzbek": [
+                    "majruh"
+                ],
+                "Uyghur": [
+                    "مەجرۇھ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zedelenmiş"
+                ],
+                "Turkmen": [
+                    "zedelenen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زەخمىدار"
+                ],
+                "Karakalpak": [
+                    "zaqımdalǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xəsarətli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "keselli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мертіккен"
+                ]
+            }
+        }
+    ]
+}

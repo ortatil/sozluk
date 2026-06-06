@@ -1,0 +1,184 @@
+# Webcam
+| Field | Detail |
+|---|---|
+| **ID** | i61056 |
+| **English** | webcam |
+| **Type** | noun |
+| **Definition** | a digital camera designed to take digital photographs and transmit them over the internet |
+| **Source** | common |
+| **Ortatil** | web-kamera |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **web-kamera** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.77** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| торкамера | torkamera |
+| бейнекамера | beynekamera |
+| **Kyrgyz** | |
+| интернет-камера | internet-kamera |
+| тор-камера | tor-kamera |
+| желе-камера | jele-kamera |
+| **Tatar** | |
+| веб-камера | veb-kamera |
+| **Bashkir** | |
+| веб-камера | veb-kamera |
+
+```json
+{
+    "id": "i61056",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "webcam",
+    "en_definition": "a digital camera designed to take digital photographs and transmit them over the internet",
+    "tr_word": "web kamerası",
+    "tr_definition": "İnternet üzerinden görüntü aktarmak amacıyla kullanılan dijital kamera.",
+    "ru_word": "веб-камера",
+    "ru_definition": "цифровая видео- или фотокамера, способная в реальном времени фиксировать изображения, предназначенные для дальнейшей передачи по сети Интернет.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "web kamerası"
+                ],
+                "Azerbaijani": [
+                    "veb-kamera"
+                ],
+                "Turkmen": [
+                    "web-kamera"
+                ],
+                "Uzbek": [
+                    "veb-kamera"
+                ],
+                "Karakalpak": [
+                    "web-kamera"
+                ],
+                "Tatar": [
+                    "веб-камера"
+                ],
+                "Bashkir": [
+                    "веб-камера"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "internet kamerası"
+                ],
+                "Azerbaijani": [
+                    "internet kamerası"
+                ],
+                "Turkmen": [
+                    "internet kamerasy"
+                ],
+                "Kyrgyz": [
+                    "интернет-камера"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tor kamerasy"
+                ],
+                "Uyghur": [
+                    "تور كامېراسى",
+                    "تور سىنئالغۇسى"
+                ],
+                "Kazakh": [
+                    "торкамера"
+                ],
+                "Kyrgyz": [
+                    "тор-камера"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "желілік камера"
+                ],
+                "Kyrgyz": [
+                    "желе-камера"
+                ],
+                "Tatar": [
+                    "челтәр камерасы"
+                ],
+                "Bashkir": [
+                    "селтәр камераһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tarmoq kamerasi"
+                ],
+                "Karakalpak": [
+                    "tarmaq kamerası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağ kamerası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şəbəkə kamerası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tasvir kamerasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнекамера"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sanlı kamera"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,207 @@
+# American revolutionary leader
+| Field | Detail |
+|---|---|
+| **ID** | i87892 |
+| **English** | american revolutionary leader |
+| **Type** | noun |
+| **Definition** | a nationalist leader in the American Revolution and in the creation of the United States |
+| **Source** | common |
+| **Ortatil** | colbaşçı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| күрөшчү | küröşçü |
+| төңкөрүшчү | töñkörüşçü |
+| жолбашчы | jolbaşçı |
+| жетекчи | jetekçi |
+| **Bashkir** | |
+| юлбашсы | yulbaşsı |
+
+```json
+{
+    "id": "i87892",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "american revolutionary leader",
+    "en_definition": "a nationalist leader in the American Revolution and in the creation of the United States",
+    "tr_word": "Amerikan devrimci lideri",
+    "tr_definition": "Amerikan Devrimi'nde ve Amerika Birleşik Devletleri'nin kurulmasında rol oynayan milliyetçi lider",
+    "ru_word": "лидер Американской революции",
+    "ru_definition": "националистический лидер времен Американской революции и периода создания Соединенных Штатов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "istiqlal mübarizi"
+                ],
+                "Uzbek": [
+                    "istiqloliyat yetakchisi"
+                ],
+                "Kazakh": [
+                    "азаттық жолындағы көшбасшы"
+                ],
+                "Karakalpak": [
+                    "azatlıq gúresi basshısı"
+                ],
+                "Tatar": [
+                    "азатлык көрәшчесе"
+                ],
+                "Bashkir": [
+                    "азатлыҡ көрәшсеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "milli öndər"
+                ],
+                "Uzbek": [
+                    "milliy yoʻlboshchi"
+                ],
+                "Karakalpak": [
+                    "milliy jetekshi"
+                ],
+                "Tatar": [
+                    "милли юлбашчы"
+                ],
+                "Bashkir": [
+                    "милли юлбашсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "davlat asoschisi"
+                ],
+                "Kazakh": [
+                    "тәуелсіздік күрескері"
+                ],
+                "Tatar": [
+                    "дәүләткә нигез салучы"
+                ],
+                "Bashkir": [
+                    "дәүләт эшмәкәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Amerikan devrimci lideri",
+                    "Amerikan bağımsızlık önderi",
+                    "Amerikan ihtilal lideri"
+                ],
+                "Turkmen": [
+                    "Amerikan rewolýusiýasynyň ýolbaşçysy",
+                    "Amerikan garaşsyzlyk hereketiniň serdary",
+                    "Amerikan döwletini esaslandyryjy"
+                ],
+                "Uyghur": [
+                    "ئامېرىكا ئىنقىلابى رەھبىرى",
+                    "ئامېرىكا مۇستەقىللىق ئىنقىلابىنىڭ داھىيسى",
+                    "ئامېرىكا قۇرغۇچى رەھبىرى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurucu baba"
+                ],
+                "Azerbaijani": [
+                    "qurucu rəhbər"
+                ],
+                "Kyrgyz": [
+                    "күрөшчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "azadlıq hərəkatı rəhbəri"
+                ],
+                "Uzbek": [
+                    "ozodlik kurashi rahbari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төңкеріс басшысы"
+                ],
+                "Kyrgyz": [
+                    "төңкөрүшчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жолбашчы"
+                ],
+                "Bashkir": [
+                    "юлбашсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұлттық қайраткер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жетекчи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эркиндик күрөшчүсү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "rewolyuciya jetekshisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mámleket tiykarın salıoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "инкыйлаб җитәкчесе"
+                ]
+            }
+        }
+    ]
+}
+```
+

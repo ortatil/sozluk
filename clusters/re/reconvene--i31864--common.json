@@ -1,0 +1,98 @@
+{
+    "id": "i31864",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "reconvene",
+    "en_definition": "meet again",
+    "tr_word": "yeniden toplanmak",
+    "tr_definition": "ara verdikten sonra tekrar bir araya gelmek",
+    "ru_word": "снова собраться",
+    "ru_definition": "собраться еще раз после перерыва",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden toplanmak",
+                    "yeniden bir araya gelmek"
+                ],
+                "Azerbaijani": [
+                    "yenidən toplanmaq",
+                    "yenidən bir araya gəlmək",
+                    "yenidən yığışmaq"
+                ],
+                "Turkmen": [
+                    "täzeden ýygnanmak",
+                    "täzeden duşuşmak"
+                ],
+                "Uzbek": [
+                    "yana to'planmoq"
+                ],
+                "Tatar": [
+                    "яңадан җыелу",
+                    "яңадан очрашу"
+                ],
+                "Bashkir": [
+                    "яңынан йыйылыу",
+                    "яңынан осрашыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan jemlenmek"
+                ],
+                "Uzbek": [
+                    "qayta yig'ilmoq",
+                    "qayta majlis qilmoq"
+                ],
+                "Uyghur": [
+                    "قايتا جەم بولماق",
+                    "قايتا يىغىلماق"
+                ],
+                "Kazakh": [
+                    "қайта жиналу",
+                    "қайта бас қосу",
+                    "қайта қауышу",
+                    "қайта мәжілістеу"
+                ],
+                "Kyrgyz": [
+                    "кайра чогулуу",
+                    "кайра жыйналуу",
+                    "кайра биригүү"
+                ],
+                "Karakalpak": [
+                    "qayta jıynalıo",
+                    "qayta bas qosıo",
+                    "qayta toplanıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekrar toplanmak"
+                ],
+                "Azerbaijani": [
+                    "təkrar iclas etmək"
+                ],
+                "Uyghur": [
+                    "تەكرار جەم بولماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат җыелу"
+                ],
+                "Bashkir": [
+                    "ҡабат йыйылыу"
+                ]
+            }
+        }
+    ]
+}

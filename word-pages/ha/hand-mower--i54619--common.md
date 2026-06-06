@@ -1,0 +1,133 @@
+# Hand mower
+| Field | Detail |
+|---|---|
+| **ID** | i54619 |
+| **English** | hand mower |
+| **Type** | noun |
+| **Definition** | a lawn mower that is operated by hand |
+| **Source** | common |
+| **Ortatil** | öräq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i54619",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hand mower",
+    "en_definition": "a lawn mower that is operated by hand",
+    "tr_word": "el çim biçme makinesi",
+    "tr_definition": "elle itilerek veya yönlendirilerek çalıştırılan çim biçme aleti",
+    "ru_word": "ручная газонокосилка",
+    "ru_definition": "газонокосилка, приводимая в движение вручную",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻl oʻroq"
+                ],
+                "Uyghur": [
+                    "قول ئوت ئورغۇچ",
+                    "قول چىم ئورغۇچ",
+                    "قول ئوت كېسىش ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "қол шалғы",
+                    "қол орақ"
+                ],
+                "Kyrgyz": [
+                    "кол чалгы",
+                    "кол орок"
+                ],
+                "Karakalpak": [
+                    "qol shalǵı",
+                    "qol oraq",
+                    "qol shópshapqısh"
+                ],
+                "Tatar": [
+                    "кул чапкычы",
+                    "кул чапкыч"
+                ],
+                "Bashkir": [
+                    "ҡул салғыһы",
+                    "ҡул сапҡысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el çim biçme makinesi",
+                    "el biçeri"
+                ],
+                "Azerbaijani": [
+                    "əl biçəni",
+                    "əl otbiçəni",
+                    "əl dırpanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шөп шапқыш"
+                ],
+                "Kyrgyz": [
+                    "чөп чапкыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үлән чапкыч"
+                ],
+                "Bashkir": [
+                    "үлән сапҡыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mekanik çim biçme makinesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ot orak",
+                    "el oragy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ot gyrkyjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qoʻl maysazor oʻrgichi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻroq"
+                ]
+            }
+        }
+    ]
+}
+```
+

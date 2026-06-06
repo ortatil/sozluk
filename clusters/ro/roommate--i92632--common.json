@@ -1,0 +1,136 @@
+{
+    "id": "i92632",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "roommate",
+    "en_definition": "an associate who shares a room with you",
+    "tr_word": "oda arkadaşı",
+    "tr_definition": "aynı odayı veya evi paylaşan kimse",
+    "ru_word": "сосед по комнате",
+    "ru_definition": "человек, который живет в одной комнате с кем-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бөлмелес"
+                ],
+                "Kyrgyz": [
+                    "бөлмөлөш",
+                    "бөлмөдөш"
+                ],
+                "Karakalpak": [
+                    "bólmeles",
+                    "bólmeles joldas"
+                ],
+                "Tatar": [
+                    "бүлмәдәш"
+                ],
+                "Bashkir": [
+                    "бүлмәләш",
+                    "бүлмәҙәш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yoldaş"
+                ],
+                "Turkmen": [
+                    "ýoldaş"
+                ],
+                "Kazakh": [
+                    "жолдас"
+                ],
+                "Karakalpak": [
+                    "joldas"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oda arkadaşı"
+                ],
+                "Azerbaijani": [
+                    "otaq yoldaşı"
+                ],
+                "Turkmen": [
+                    "otagdaş"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həmotaq"
+                ],
+                "Turkmen": [
+                    "hemotag"
+                ],
+                "Uzbek": [
+                    "hamxona"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көрші"
+                ],
+                "Kyrgyz": [
+                    "курдаш"
+                ],
+                "Tatar": [
+                    "күрше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xonadosh"
+                ],
+                "Uyghur": [
+                    "خانىداش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иптәш"
+                ],
+                "Bashkir": [
+                    "иптәш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ev arkadaşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھۇجراداش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياتاقداش"
+                ]
+            }
+        }
+    ]
+}

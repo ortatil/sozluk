@@ -1,0 +1,120 @@
+{
+    "id": "i64205",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "right to privacy",
+    "en_definition": "right to be free of unsanctioned intrusion",
+    "tr_word": "özel hayatın gizliliği hakkı",
+    "tr_definition": "kişinin izinsiz müdahalelerden uzak kalma hakkı",
+    "ru_word": "право на неприкосновенность частной жизни",
+    "ru_definition": "право быть свободным от несанкционированного вмешательства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "özel hayatın gizliliği"
+                ],
+                "Azerbaijani": [
+                    "şəxsi həyatın toxunulmazlığı"
+                ],
+                "Uzbek": [
+                    "shaxsiy daxlsizlik huquqi",
+                    "shaxsiy hayot daxlsizligi"
+                ],
+                "Uyghur": [
+                    "شەخسىيەت ھوقۇقى"
+                ],
+                "Tatar": [
+                    "шәхси тормыш кагылгысызлыгы",
+                    "шәхси тормыш иреге",
+                    "шәхсият хокукы"
+                ],
+                "Bashkir": [
+                    "шәхси тормош тейелгеһеҙлеге хоҡуғы",
+                    "шәхси сер хоҡуғы",
+                    "шәхси тормошҡа ҡыҫылышмау хоҡуғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mahremiyet hakkı"
+                ],
+                "Azerbaijani": [
+                    "məhrəmiyyət hüququ"
+                ],
+                "Uyghur": [
+                    "مەھرەمىيەت ھوقۇقى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şahsi dokunulmazlık"
+                ],
+                "Azerbaijani": [
+                    "şəxsi toxunulmazlıq"
+                ],
+                "Turkmen": [
+                    "şahsy durmuşyň eldegrilmesizligi",
+                    "şahsy durmuşyň goragy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жеке өмірге қолсұғылмаушылық",
+                    "жеке өмірдің құпиялығы",
+                    "жеке өмірге тиіспеушілік"
+                ],
+                "Kyrgyz": [
+                    "жеке турмуштун кол тийбестиги",
+                    "жеке сырды сактоо укугу"
+                ],
+                "Karakalpak": [
+                    "jeke turmıs qol sұǵılmaushılıǵı",
+                    "jeke sır saqlao huqıqı",
+                    "jeke ómir erkinligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xüsusi həyatın toxunulmazlığı"
+                ],
+                "Uyghur": [
+                    "خۇسۇسىيەت ھوقۇقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gizlinlik hukugy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xoslik huquqi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "купуялуулук укугу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "id": "i91505",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "murder suspect",
+    "en_definition": "someone suspected of committing murder",
+    "tr_word": "cinayet zanlısı",
+    "tr_definition": "cinayet işlediğinden şüphelenilen kişi",
+    "ru_word": "подозреваемый в убийстве",
+    "ru_definition": "лицо, подозреваемое в совершении убийства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "katil zanlısı"
+                ],
+                "Azerbaijani": [
+                    "qətl şübhəlisi",
+                    "qatillikdə şübhəli bilinən şəxs"
+                ],
+                "Uzbek": [
+                    "qotillikda gumonlanuvchi",
+                    "qotillikda gumon qilinuvchi"
+                ],
+                "Uyghur": [
+                    "قاتىللىق گۇماندارى",
+                    "قاتىللىق بىلەن ئەيىبلەنگۈچى"
+                ],
+                "Karakalpak": [
+                    "qatil gúmonlanıushı"
+                ],
+                "Tatar": [
+                    "катл кылуда шикләнелүче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cinayet zanlısı",
+                    "cinayet şüphelisi"
+                ],
+                "Azerbaijani": [
+                    "cinayət şübhəlisi"
+                ],
+                "Uyghur": [
+                    "جىنايەت گۇماندارى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ganhorlukda güman edilýän",
+                    "adam öldürmekde güman edilýän"
+                ],
+                "Kazakh": [
+                    "қан төгуші деп танылған күдікті"
+                ],
+                "Kyrgyz": [
+                    "кан төгүүгө шектүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ganhorlukda şübheli"
+                ],
+                "Tatar": [
+                    "кан коюда шикләнелүче"
+                ],
+                "Bashkir": [
+                    "ҡан ҡойоуҙа шикләнелеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кісі өлтірді деген күдікті",
+                    "кісі өлтіруші деп айыпталушы"
+                ],
+                "Kyrgyz": [
+                    "киши өлтүрүүгө шектүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үтерүдә шикләнелүче"
+                ],
+                "Bashkir": [
+                    "үлтереүҙә ғәйепләнеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gumondor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кылмышка шектүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "adam óltiriude gúmonlanıushı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ayıplanıushı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "кеше үлтереүҙә шикләнелеүсе"
+                ]
+            }
+        }
+    ]
+}

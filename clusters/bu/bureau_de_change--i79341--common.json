@@ -1,0 +1,134 @@
+{
+    "id": "i79341",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bureau de change",
+    "en_definition": "(French) an establishment where you can exchange foreign money",
+    "tr_word": "döviz bürosu",
+    "tr_definition": "yabancı paraların alınıp satıldığı veya değiştirildiği yer",
+    "ru_word": "пункт обмена валюты",
+    "ru_definition": "учреждение, в котором можно обменять иностранную валюту",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarraf"
+                ],
+                "Azerbaijani": [
+                    "sərrafxana"
+                ],
+                "Uzbek": [
+                    "sarrofxona"
+                ],
+                "Uyghur": [
+                    "ساراپخانا"
+                ],
+                "Tatar": [
+                    "сарыфханә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "valyuta mübadiləsi məntəqəsi"
+                ],
+                "Turkmen": [
+                    "walýuta çalşygy"
+                ],
+                "Karakalpak": [
+                    "walyuta almastırıo ornı",
+                    "walyuta ayırbaslao ornı"
+                ],
+                "Tatar": [
+                    "валюта алмаштыру урыны"
+                ],
+                "Bashkir": [
+                    "валюта алыштырыу пункты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ақша айырбастау орны"
+                ],
+                "Kyrgyz": [
+                    "акча алмаштыруу жайы"
+                ],
+                "Karakalpak": [
+                    "aqsha almastırıo ornı"
+                ],
+                "Tatar": [
+                    "акча алмаштыру пункты"
+                ],
+                "Bashkir": [
+                    "аҡса алыштырыу пункты",
+                    "аҡса алыштырыу урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pul çalyşýan nokat",
+                    "pul çalşygy"
+                ],
+                "Uyghur": [
+                    "پۇل ئالماشتۇرۇش ئورنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ayirboshlash shoxobchasi"
+                ],
+                "Kazakh": [
+                    "айырбас орны",
+                    "айырбастау пункті"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "döviz bürosu",
+                    "dövizci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəyişmə məntəqəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pul almashtirish joyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇل تېگىشىش نۇقتىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "алмаштыруу жайы",
+                    "алмаштыруу пункту"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "i69585",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "plural",
+    "en_definition": "the form of a word that is used to denote more than one",
+    "tr_word": "çoğul",
+    "tr_definition": "Bir kelimenin birden fazla varlığı veya kavramı ifade eden biçimi.",
+    "ru_word": "множественное число",
+    "ru_definition": "Форма слова, обозначающая более одного предмета или лица.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köplük"
+                ],
+                "Uzbek": [
+                    "koʻplik"
+                ],
+                "Uyghur": [
+                    "كۆپلۈك"
+                ],
+                "Kazakh": [
+                    "көпше",
+                    "көптік",
+                    "көпше түрі"
+                ],
+                "Kyrgyz": [
+                    "көптүк",
+                    "көптүк сан"
+                ],
+                "Karakalpak": [
+                    "kóplik",
+                    "kópshe"
+                ],
+                "Tatar": [
+                    "күплек",
+                    "күплек саны"
+                ],
+                "Bashkir": [
+                    "күплек",
+                    "күплек һаны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cem"
+                ],
+                "Azerbaijani": [
+                    "cəm"
+                ],
+                "Turkmen": [
+                    "jem"
+                ],
+                "Uzbek": [
+                    "jam"
+                ],
+                "Uyghur": [
+                    "جەم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çoğul",
+                    "çokluk"
+                ],
+                "Azerbaijani": [
+                    "çoxluq"
+                ]
+            }
+        }
+    ]
+}

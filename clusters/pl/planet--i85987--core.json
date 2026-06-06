@@ -1,0 +1,109 @@
+{
+    "id": "i85987",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "planet",
+    "en_definition": "any celestial body (other than comets or satellites) that revolves around a star",
+    "tr_word": "gezegen",
+    "tr_definition": "Güneş veya başka bir yıldız çevresinde dolanan, ondan aldığı ışığı yansıtan gök cismi.",
+    "ru_word": "планета",
+    "ru_definition": "Небесное тело, вращающееся по орбите вокруг звезды и светящееся отражённым от неё светом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seyyare"
+                ],
+                "Azerbaijani": [
+                    "səyyarə"
+                ],
+                "Turkmen": [
+                    "syýara"
+                ],
+                "Uzbek": [
+                    "sayyora"
+                ],
+                "Uyghur": [
+                    "سەييارە"
+                ],
+                "Kyrgyz": [
+                    "сайяра"
+                ],
+                "Karakalpak": [
+                    "sayyara"
+                ],
+                "Tatar": [
+                    "сәйярә"
+                ],
+                "Bashkir": [
+                    "сәйәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "planet"
+                ],
+                "Turkmen": [
+                    "planeta"
+                ],
+                "Uyghur": [
+                    "پىلانېتا"
+                ],
+                "Kazakh": [
+                    "планета"
+                ],
+                "Kyrgyz": [
+                    "планета"
+                ],
+                "Karakalpak": [
+                    "planeta"
+                ],
+                "Tatar": [
+                    "планета"
+                ],
+                "Bashkir": [
+                    "планета"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yulduz"
+                ],
+                "Kazakh": [
+                    "жұлдыз"
+                ],
+                "Tatar": [
+                    "йолдызчык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gezegen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ғаламшар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аалам"
+                ]
+            }
+        }
+    ]
+}

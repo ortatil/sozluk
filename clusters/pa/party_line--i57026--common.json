@@ -1,0 +1,132 @@
+{
+    "id": "i57026",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "party line",
+    "en_definition": "a telephone line serving two or more subscribers",
+    "tr_word": "ortak hat",
+    "tr_definition": "İki veya daha fazla abonenin aynı telefon hattını paylaştığı sistem",
+    "ru_word": "спаренная линия",
+    "ru_definition": "телефонная линия, обслуживающая двух или более абонентов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ortak hat"
+                ],
+                "Azerbaijani": [
+                    "ortaq telefon xətti"
+                ],
+                "Turkmen": [
+                    "ortak telefon liniýasy"
+                ],
+                "Uyghur": [
+                    "ئورتاق تېلېفون لىنىيىسى"
+                ],
+                "Kazakh": [
+                    "ортақ желі"
+                ],
+                "Kyrgyz": [
+                    "орток телефондук линия",
+                    "орток байланыш"
+                ],
+                "Karakalpak": [
+                    "ortaq telefon jelіsі"
+                ],
+                "Tatar": [
+                    "уртак линия"
+                ],
+                "Bashkir": [
+                    "уртаҡ телефон линияһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "paralel hat"
+                ],
+                "Kazakh": [
+                    "біріккен желі"
+                ],
+                "Karakalpak": [
+                    "birlesken baylanıs jelіsі"
+                ],
+                "Bashkir": [
+                    "берлектәге линия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müşterek hat"
+                ],
+                "Azerbaijani": [
+                    "müştərək xətt"
+                ],
+                "Uzbek": [
+                    "mushtarak telefon tarmog'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "umumy telefon liniýasy"
+                ],
+                "Uzbek": [
+                    "umumiy aloqa tarmog'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko'p abonentli tarmoq"
+                ],
+                "Kazakh": [
+                    "көпшілік желісі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paylaşılan xətt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەمبەھىر لىنىيە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жалпы байланыш линиясы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "járdemshi jelі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күмәк линия"
+                ]
+            }
+        }
+    ]
+}

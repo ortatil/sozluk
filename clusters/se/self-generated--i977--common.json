@@ -1,0 +1,138 @@
+{
+    "id": "i977",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "self-generated",
+    "en_definition": "originating from the self",
+    "tr_word": "kendi kendine oluşan",
+    "tr_definition": "dış bir etki olmadan, kişinin veya nesnenin kendisinden kaynaklanan",
+    "ru_word": "самопроизвольный",
+    "ru_definition": "возникающий сам по себе, без внешнего воздействия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "özgün"
+                ],
+                "Azerbaijani": [
+                    "öz-özünə",
+                    "özbaşına",
+                    "özündən"
+                ],
+                "Turkmen": [
+                    "öz-özünden",
+                    "özbaşdak",
+                    "özünden",
+                    "öz-özüne"
+                ],
+                "Uzbek": [
+                    "o'z-o'zidan",
+                    "o'zicha"
+                ],
+                "Uyghur": [
+                    "ئۆزلۈكىدىن",
+                    "ئۆزىدىن"
+                ],
+                "Kazakh": [
+                    "өздігінен",
+                    "өзіндік",
+                    "өздік"
+                ],
+                "Kyrgyz": [
+                    "өзүнөн",
+                    "өзүнөн-өзү",
+                    "өзүнөн жаралган",
+                    "өз алдынча"
+                ],
+                "Karakalpak": [
+                    "ózliginen",
+                    "óz-ózinen",
+                    "óz-ózinen payda bolǵan"
+                ],
+                "Tatar": [
+                    "үзлегеннән",
+                    "үзеннән-үзе"
+                ],
+                "Bashkir": [
+                    "үҙенән-үҙе",
+                    "үҙлегенән",
+                    "үҙенән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təbii"
+                ],
+                "Uzbek": [
+                    "tabiiy"
+                ],
+                "Karakalpak": [
+                    "tábiyǵıy"
+                ],
+                "Bashkir": [
+                    "тәбиғи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zatî"
+                ],
+                "Uzbek": [
+                    "zoti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müstakil"
+                ],
+                "Uzbek": [
+                    "mustaqil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "içten"
+                ],
+                "Kazakh": [
+                    "іштей"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆزلىكىدىن بولغان",
+                    "ئۆزلىكىدىن چىققان"
+                ],
+                "Tatar": [
+                    "үзлегеннән булган",
+                    "үзлегеннән туган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendiliğinden"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "daxili"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "i106958",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "seed corn",
+    "en_definition": "good quality seeds (as kernels of corn) that are reserved for planting",
+    "tr_word": "tohumluk mısır",
+    "tr_definition": "Gelecek yıl ekim yapmak için ayrılan, yüksek kaliteli mısır taneleri.",
+    "ru_word": "семенная кукуруза",
+    "ru_definition": "Отборные зерна кукурузы, предназначенные для посева в будущем сезоне.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tohumluk",
+                    "tohumluk mısır",
+                    "tohum"
+                ],
+                "Azerbaijani": [
+                    "toxumluq",
+                    "toxum",
+                    "toxumluq dən"
+                ],
+                "Turkmen": [
+                    "tohum",
+                    "tohumlyk"
+                ],
+                "Uzbek": [
+                    "tuxm"
+                ],
+                "Kazakh": [
+                    "тұқым",
+                    "тұқымдық",
+                    "тұқымдық дән"
+                ],
+                "Kyrgyz": [
+                    "тукумдук"
+                ],
+                "Karakalpak": [
+                    "tuqım",
+                    "tuqımlıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "urug'lik",
+                    "urug'lik don"
+                ],
+                "Uyghur": [
+                    "ئۇرۇقلۇق دان",
+                    "ئۇرۇقلۇق"
+                ],
+                "Kyrgyz": [
+                    "үрөн",
+                    "үрөндүк"
+                ],
+                "Tatar": [
+                    "орлык",
+                    "орлыклык"
+                ],
+                "Bashkir": [
+                    "орлоҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "däne"
+                ],
+                "Kazakh": [
+                    "дән"
+                ],
+                "Karakalpak": [
+                    "dán"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чәчүлек"
+                ],
+                "Bashkir": [
+                    "сәсеүлек",
+                    "сәсеүлек орлоҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېرىقلىق دان",
+                    "تېرىقلىق"
+                ]
+            }
+        }
+    ]
+}

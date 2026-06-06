@@ -1,0 +1,106 @@
+{
+    "id": "i49119",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "yellow perch",
+    "en_definition": "North American perch",
+    "tr_word": "sarı levrek",
+    "tr_definition": "Kuzey Amerika'ya özgü, tatlı suda yaşayan bir levrek türü.",
+    "ru_word": "жёлтый окунь",
+    "ru_definition": "Вид пресноводных лучепёрых рыб из семейства окуневых, обитающий в Северной Америке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarı levrek"
+                ],
+                "Azerbaijani": [
+                    "sarı xanı balığı"
+                ],
+                "Uzbek": [
+                    "sariq olaboʻgʻa"
+                ],
+                "Uyghur": [
+                    "سېرىق ئالا بېلىق"
+                ],
+                "Kyrgyz": [
+                    "сары алабуга"
+                ],
+                "Karakalpak": [
+                    "sarı alabұǵa"
+                ],
+                "Tatar": [
+                    "сары алабуга"
+                ],
+                "Bashkir": [
+                    "һары алабуға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "alabalyk"
+                ],
+                "Uzbek": [
+                    "olaboʻgʻa"
+                ],
+                "Uyghur": [
+                    "ئالا بېلىق"
+                ],
+                "Kazakh": [
+                    "алабұға"
+                ],
+                "Kyrgyz": [
+                    "алабуга"
+                ],
+                "Karakalpak": [
+                    "alabұǵa"
+                ],
+                "Tatar": [
+                    "алабуга"
+                ],
+                "Bashkir": [
+                    "алабуға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tatlı su levreği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Amerika xanı balığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "okun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "perç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өзен алабұғасы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "id": "i12966",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "middle-level",
+    "en_definition": "intermediate in rank or position",
+    "tr_word": "orta düzey",
+    "tr_definition": "rütbe veya konum bakımından orta seviyede olan",
+    "ru_word": "среднего звена",
+    "ru_definition": "занимающий промежуточное положение в иерархии или структуре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orta",
+                    "orta düzey",
+                    "orta seviye"
+                ],
+                "Azerbaijani": [
+                    "orta",
+                    "orta dərəcəli",
+                    "orta səviyyəli"
+                ],
+                "Turkmen": [
+                    "orta",
+                    "ortaky"
+                ],
+                "Uzbek": [
+                    "oʻrta",
+                    "oʻrtacha"
+                ],
+                "Uyghur": [
+                    "ئوتتۇراھال"
+                ],
+                "Kazakh": [
+                    "орташа",
+                    "орта"
+                ],
+                "Kyrgyz": [
+                    "орто",
+                    "орточо"
+                ],
+                "Karakalpak": [
+                    "ortasha",
+                    "orta"
+                ],
+                "Tatar": [
+                    "уртача",
+                    "урта"
+                ],
+                "Bashkir": [
+                    "уртаса",
+                    "урта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ara"
+                ],
+                "Azerbaijani": [
+                    "ara"
+                ],
+                "Turkmen": [
+                    "aralyk"
+                ],
+                "Uzbek": [
+                    "oraliq"
+                ],
+                "Kazakh": [
+                    "аралық"
+                ],
+                "Kyrgyz": [
+                    "аралык"
+                ],
+                "Karakalpak": [
+                    "aralıq"
+                ],
+                "Tatar": [
+                    "арадаш"
+                ],
+                "Bashkir": [
+                    "аралыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "miyona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرا دەرىجىلىك",
+                    "ئوتتۇرا قاتلام"
+                ]
+            }
+        }
+    ]
+}

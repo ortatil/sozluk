@@ -1,0 +1,107 @@
+{
+    "id": "i18544",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "ahead",
+    "en_definition": "at or in the front",
+    "tr_word": "ileride",
+    "tr_definition": "ön tarafta veya daha ileride olan",
+    "ru_word": "впереди",
+    "ru_definition": "впереди, на некотором расстоянии перед кем-либо или чем-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ileri",
+                    "ileride",
+                    "ileriye"
+                ],
+                "Azerbaijani": [
+                    "irəli",
+                    "irəlidə"
+                ],
+                "Turkmen": [
+                    "ileride"
+                ],
+                "Uzbek": [
+                    "ilgari"
+                ],
+                "Kazakh": [
+                    "ілгері"
+                ],
+                "Kyrgyz": [
+                    "илгери"
+                ],
+                "Karakalpak": [
+                    "ilgeri"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oldinga",
+                    "oldinda"
+                ],
+                "Uyghur": [
+                    "ئالدىدا",
+                    "ئالدىن",
+                    "ئالدىنقى تەرەپتە"
+                ],
+                "Kazakh": [
+                    "алда",
+                    "алдында"
+                ],
+                "Kyrgyz": [
+                    "алдыда",
+                    "алдыга"
+                ],
+                "Karakalpak": [
+                    "alda",
+                    "aldıda"
+                ],
+                "Tatar": [
+                    "алда",
+                    "алга",
+                    "алдарак"
+                ],
+                "Bashkir": [
+                    "алда",
+                    "алға",
+                    "алдағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "önde"
+                ],
+                "Azerbaijani": [
+                    "öndə"
+                ],
+                "Turkmen": [
+                    "öňde",
+                    "öňe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabaqda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pesh"
+                ]
+            }
+        }
+    ]
+}

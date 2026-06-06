@@ -1,0 +1,270 @@
+# Come to light
+| Field | Detail |
+|---|---|
+| **ID** | i23841 |
+| **English** | come to light |
+| **Type** | verb |
+| **Definition** | be revealed or disclosed |
+| **Source** | common |
+| **Ortatil** | belinmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **belinmäk** | **açılmaq** | **açıklanmaq** |
+|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ | ❌ |
+| Turkmen | ❌ | ❌ | ❌ |
+| Uzbek | ❌ | ✅ | ❌ |
+| Uyghur | ❌ | ❌ | ✅ |
+| Kazakh | ❌ | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ | ❌ |
+| Karakalpak | ❌ | ❌ | ❌ |
+| Tatar | ✅ | ✅ | ✅ |
+| Bashkir | ✅ | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 0 | 0 |
+| *Qarluq Subtotal* | 0 | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 0.40 | 0.60 | 0.40 |
+| *In All* |  |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  |  |
+| **O'TQ** | **1.23** | **1.10** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاشكارىلىنىش | aşkariliniş |
+| **Kazakh** | |
+| айқындалу | ayqındalu |
+| ашылу | aşılu |
+| **Tatar** | |
+| ачыклану | açıklanu |
+| беленү | belenü |
+| ачылу | açılu |
+| **Bashkir** | |
+| асыҡланыу | asıqlanıu |
+| беленеү | beleneü |
+| асылыу | asılıu |
+| күренеү | küreneü |
+
+```json
+{
+    "id": "i23841",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "come to light",
+    "en_definition": "be revealed or disclosed",
+    "tr_word": "gün ışığına çıkmak",
+    "tr_definition": "gizli kalmış bir durumun veya bilginin herkesçe bilinir hale gelmesi, ortaya çıkması",
+    "ru_word": "обнаружиться",
+    "ru_definition": "стать известным, открыться для всеобщего сведения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açığa çıkmak",
+                    "aşikar olmak"
+                ],
+                "Azerbaijani": [
+                    "aşkar olmaq"
+                ],
+                "Turkmen": [
+                    "äşgär bolmak"
+                ],
+                "Uzbek": [
+                    "oshkor bo'lmoq"
+                ],
+                "Uyghur": [
+                    "ئاشكارىلىنىش"
+                ],
+                "Kyrgyz": [
+                    "ачыкка чыгуу",
+                    "ашкере болуу"
+                ],
+                "Karakalpak": [
+                    "ashkara bolıo"
+                ],
+                "Tatar": [
+                    "ачыклану"
+                ],
+                "Bashkir": [
+                    "асыҡланыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "belirmek"
+                ],
+                "Azerbaijani": [
+                    "bəlli olmaq"
+                ],
+                "Turkmen": [
+                    "mälim bolmak"
+                ],
+                "Kazakh": [
+                    "белгілі болу"
+                ],
+                "Kyrgyz": [
+                    "белгилүү болуу"
+                ],
+                "Karakalpak": [
+                    "belgili bolıo"
+                ],
+                "Tatar": [
+                    "беленү"
+                ],
+                "Bashkir": [
+                    "беленеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aydınlaşmaq"
+                ],
+                "Turkmen": [
+                    "aýan bolmak"
+                ],
+                "Uzbek": [
+                    "ayon bo'lmoq"
+                ],
+                "Kazakh": [
+                    "айқындалу"
+                ],
+                "Kyrgyz": [
+                    "айкын болуу"
+                ],
+                "Karakalpak": [
+                    "ayan bolıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ochilmoq"
+                ],
+                "Kazakh": [
+                    "ашылу"
+                ],
+                "Tatar": [
+                    "ачылу"
+                ],
+                "Bashkir": [
+                    "асылыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ma'lum bo'lmoq"
+                ],
+                "Uyghur": [
+                    "مەلۇم بولۇش"
+                ],
+                "Kazakh": [
+                    "мәлім болу"
+                ],
+                "Karakalpak": [
+                    "málim bolıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meydana çıkmak"
+                ],
+                "Azerbaijani": [
+                    "meydana çıxmaq"
+                ],
+                "Tatar": [
+                    "мәгълүм булу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پاش بولۇش"
+                ],
+                "Tatar": [
+                    "фаш булу"
+                ],
+                "Bashkir": [
+                    "фаш булыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzə çıxmaq"
+                ],
+                "Uzbek": [
+                    "yuzaga chiqmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ortada çykmak"
+                ],
+                "Kazakh": [
+                    "ортаға шығу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жария болу"
+                ],
+                "Karakalpak": [
+                    "járiya bolıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gün yüzüne çıkmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرىغا چىقىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "روشەن بولۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "күренеү"
+                ]
+            }
+        }
+    ]
+}
+```
+

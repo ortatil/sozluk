@@ -1,0 +1,124 @@
+{
+    "id": "i7409",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "smoothed",
+    "en_definition": "made smooth by ironing",
+    "tr_word": "ütülü",
+    "tr_definition": "ütülenerek düzgün hale getirilmiş",
+    "ru_word": "выглаженный",
+    "ru_definition": "сделанный гладким с помощью утюга",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ütülü"
+                ],
+                "Azerbaijani": [
+                    "ütülü"
+                ],
+                "Turkmen": [
+                    "ütüklenen",
+                    "ütükli"
+                ],
+                "Uyghur": [
+                    "ئۈتۈكلەنگەن"
+                ],
+                "Kazakh": [
+                    "үтіктелген"
+                ],
+                "Kyrgyz": [
+                    "үтүктөлгөн"
+                ],
+                "Karakalpak": [
+                    "útiklengen"
+                ],
+                "Tatar": [
+                    "үтүкләнгән"
+                ],
+                "Bashkir": [
+                    "үтүкләнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tekizlenen"
+                ],
+                "Uzbek": [
+                    "tekislangan"
+                ],
+                "Karakalpak": [
+                    "tegislengen"
+                ],
+                "Tatar": [
+                    "тигезләнгән"
+                ],
+                "Bashkir": [
+                    "тигеҙләнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düzlenmiş",
+                    "düzgün"
+                ],
+                "Azerbaijani": [
+                    "düzləndirilmiş"
+                ],
+                "Uyghur": [
+                    "دۈملەنگەن",
+                    "تۈزلەنگەن"
+                ],
+                "Kyrgyz": [
+                    "түздөлгөн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "басылған",
+                    "жазылған"
+                ],
+                "Kyrgyz": [
+                    "жазылган"
+                ],
+                "Karakalpak": [
+                    "jazılǵan"
+                ],
+                "Bashkir": [
+                    "яҙылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hamarlanmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dazmollangan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яньчелгән"
+                ]
+            }
+        }
+    ]
+}

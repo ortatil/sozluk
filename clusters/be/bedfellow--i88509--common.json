@@ -1,0 +1,125 @@
+{
+    "id": "i88509",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bedfellow",
+    "en_definition": "a person with whom you share a bed",
+    "tr_word": "yatak arkadaşı",
+    "tr_definition": "aynı yatağı paylaşan kimse",
+    "ru_word": "сожитель",
+    "ru_definition": "человек, с которым делят постель",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýoldaş"
+                ],
+                "Kazakh": [
+                    "жолдас"
+                ],
+                "Kyrgyz": [
+                    "жолдош"
+                ],
+                "Karakalpak": [
+                    "joldas"
+                ],
+                "Tatar": [
+                    "йокыдаш"
+                ],
+                "Bashkir": [
+                    "йоҡоҙаш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yatak arkadaşı",
+                    "yatak ortağı"
+                ],
+                "Azerbaijani": [
+                    "yataq yoldaşı"
+                ],
+                "Uzbek": [
+                    "yostiqdosh"
+                ],
+                "Karakalpak": [
+                    "jataqlas"
+                ],
+                "Tatar": [
+                    "якташ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hemhâb"
+                ],
+                "Azerbaijani": [
+                    "həmçarpayı",
+                    "həmbister"
+                ],
+                "Turkmen": [
+                    "hemra"
+                ],
+                "Uzbek": [
+                    "hamyostiq",
+                    "hamxona"
+                ],
+                "Uyghur": [
+                    "ھەمكارتاق",
+                    "ھەمكارىۋات",
+                    "ھەمكارىۋاتداش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "төсектес"
+                ],
+                "Kyrgyz": [
+                    "төшөктөш"
+                ],
+                "Karakalpak": [
+                    "tósekles"
+                ],
+                "Tatar": [
+                    "түшәкдәш"
+                ],
+                "Bashkir": [
+                    "түшәктәш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жастықтас"
+                ],
+                "Kyrgyz": [
+                    "жаздыкташ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arkadaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "иптәш"
+                ]
+            }
+        }
+    ]
+}

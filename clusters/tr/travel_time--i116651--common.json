@@ -1,0 +1,94 @@
+{
+    "id": "i116651",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "travel time",
+    "en_definition": "a period of time spent traveling",
+    "tr_word": "seyahat süresi",
+    "tr_definition": "yolculuk yaparak geçirilen zaman dilimi",
+    "ru_word": "время в пути",
+    "ru_definition": "период времени, затраченный на поездку или перемещение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yol süresi",
+                    "yolculuk süresi"
+                ],
+                "Azerbaijani": [
+                    "yol vaxtı",
+                    "yol müddəti"
+                ],
+                "Turkmen": [
+                    "ýol wagty"
+                ],
+                "Uzbek": [
+                    "yoʻl vaqti"
+                ],
+                "Uyghur": [
+                    "يول ۋاقتى"
+                ],
+                "Kazakh": [
+                    "жол уақыты",
+                    "жол мерзімі"
+                ],
+                "Kyrgyz": [
+                    "жол убактысы",
+                    "жол мөөнөтү"
+                ],
+                "Karakalpak": [
+                    "jol oaqtı"
+                ],
+                "Tatar": [
+                    "юл вакыты"
+                ],
+                "Bashkir": [
+                    "юл ваҡыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "səfər müddəti"
+                ],
+                "Turkmen": [
+                    "sapar wagty"
+                ],
+                "Uzbek": [
+                    "safar vaqti"
+                ],
+                "Uyghur": [
+                    "سەپەر ۋاقتى"
+                ],
+                "Kazakh": [
+                    "сапар уақыты"
+                ],
+                "Kyrgyz": [
+                    "сапар убактысы"
+                ],
+                "Karakalpak": [
+                    "sápár oaqtı"
+                ],
+                "Tatar": [
+                    "сәфәр вакыты"
+                ],
+                "Bashkir": [
+                    "сәфәр ваҡыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seyahat süresi"
+                ],
+                "Uzbek": [
+                    "sayohat vaqti"
+                ]
+            }
+        }
+    ]
+}

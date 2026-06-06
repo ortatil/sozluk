@@ -1,0 +1,85 @@
+{
+    "id": "i93115",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "soccer player",
+    "en_definition": "an athlete who plays soccer",
+    "tr_word": "futbolcu",
+    "tr_definition": "Futbol oynayan sporcu.",
+    "ru_word": "футболист",
+    "ru_definition": "Спортсмен, играющий в футбол.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "futbolcu"
+                ],
+                "Azerbaijani": [
+                    "futbolçu"
+                ],
+                "Turkmen": [
+                    "futbolçy"
+                ],
+                "Uzbek": [
+                    "futbolchi"
+                ],
+                "Uyghur": [
+                    "پۇتبولچى",
+                    "پۇتبول ماھىرى"
+                ],
+                "Kazakh": [
+                    "футболшы"
+                ],
+                "Kyrgyz": [
+                    "футболчу"
+                ],
+                "Karakalpak": [
+                    "futbolshı"
+                ],
+                "Tatar": [
+                    "футболчы"
+                ],
+                "Bashkir": [
+                    "футболсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "topçu"
+                ],
+                "Turkmen": [
+                    "topçy"
+                ],
+                "Uzbek": [
+                    "to'pchi"
+                ],
+                "Kazakh": [
+                    "допшы"
+                ],
+                "Kyrgyz": [
+                    "топчу"
+                ],
+                "Tatar": [
+                    "тупчы"
+                ],
+                "Bashkir": [
+                    "тупсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayaktopçu"
+                ],
+                "Karakalpak": [
+                    "ayaq dopshı"
+                ]
+            }
+        }
+    ]
+}

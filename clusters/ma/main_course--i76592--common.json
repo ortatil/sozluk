@@ -1,0 +1,116 @@
+{
+    "id": "i76592",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "entree",
+    "en_definition": "the principal dish of a meal",
+    "tr_word": "ana yemek",
+    "tr_definition": "Bir öğünün en önemli ve doyurucu olan temel yemeği.",
+    "ru_word": "основное блюдо",
+    "ru_definition": "Главное блюдо во время приема пищи, подаваемое после закусок.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "baş nahar"
+                ],
+                "Uyghur": [
+                    "باش تاماق"
+                ],
+                "Kazakh": [
+                    "бас тағам"
+                ],
+                "Karakalpak": [
+                    "baslı taam"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ana yemek",
+                    "asıl yemek"
+                ],
+                "Azerbaijani": [
+                    "əsas yemək",
+                    "baş yemək"
+                ],
+                "Uyghur": [
+                    "ئاساسىي تاماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "esasy nahar"
+                ],
+                "Uzbek": [
+                    "asosiy taom",
+                    "issiq taom"
+                ],
+                "Kyrgyz": [
+                    "ысык тамак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "негізгі ас",
+                    "негізгі тағам"
+                ],
+                "Kyrgyz": [
+                    "негизги тамак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп аш"
+                ],
+                "Bashkir": [
+                    "төп аш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп ризык"
+                ],
+                "Bashkir": [
+                    "төп ризыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "икенче аш"
+                ],
+                "Bashkir": [
+                    "икенсе аш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tikarǵı aoqat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aoqat"
+                ]
+            }
+        }
+    ]
+}

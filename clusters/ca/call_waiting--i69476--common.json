@@ -1,0 +1,143 @@
+{
+    "id": "i69476",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "call waiting",
+    "en_definition": "a way of letting you know that someone else is calling when you are using your telephone",
+    "tr_word": "beklemedeki arama",
+    "tr_definition": "telefonla konuşurken başka birinin aradığını bildiren özellik",
+    "ru_word": "ожидание вызова",
+    "ru_definition": "функция, позволяющая узнать о поступлении нового вызова во время текущего разговора",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kutish xizmati"
+                ],
+                "Uyghur": [
+                    "كۈتۈش تېلېفونى",
+                    "كۈتۈش مۇلازىمىتى"
+                ],
+                "Kazakh": [
+                    "күту режимі"
+                ],
+                "Kyrgyz": [
+                    "күтүү режими"
+                ],
+                "Karakalpak": [
+                    "kútiodegi qońırao"
+                ],
+                "Tatar": [
+                    "көттерү",
+                    "көтү режимы"
+                ],
+                "Bashkir": [
+                    "көтөү режимы",
+                    "көтөү хеҙмәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çağrı bekletme"
+                ],
+                "Uyghur": [
+                    "چاقىرىق كۈتۈش"
+                ],
+                "Bashkir": [
+                    "саҡырыуҙы көтөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "növbəli zəng"
+                ],
+                "Uzbek": [
+                    "navbatdagi qo'ng'iroq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "желідегі күту"
+                ],
+                "Kyrgyz": [
+                    "чалууну күтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "экинчи линия"
+                ],
+                "Tatar": [
+                    "икенче линия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arama bekletme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gözləmədə olan zəng"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zəng gözlətmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "garaşdyrma hyzmaty",
+                    "garaşdyrma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nobatdaky jaň"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aloqani kutish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоңырауды күту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ekenshi qońıraodı kútio"
+                ]
+            }
+        }
+    ]
+}

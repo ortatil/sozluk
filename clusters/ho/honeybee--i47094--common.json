@@ -1,0 +1,99 @@
+{
+    "id": "i47094",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "honeybee",
+    "en_definition": "social bee often domesticated for the honey it produces",
+    "tr_word": "bal arısı",
+    "tr_definition": "bal üreten ve genellikle evcilleştirilen sosyal bir arı türü",
+    "ru_word": "медоносная пчела",
+    "ru_definition": "общественное насекомое, разводимое для получения мёда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bal arısı"
+                ],
+                "Azerbaijani": [
+                    "bal arısı"
+                ],
+                "Turkmen": [
+                    "balary"
+                ],
+                "Uyghur": [
+                    "بال ھەرىسى"
+                ],
+                "Kazakh": [
+                    "бал ара"
+                ],
+                "Kyrgyz": [
+                    "бал аары"
+                ],
+                "Karakalpak": [
+                    "bal hárre"
+                ],
+                "Tatar": [
+                    "бал корты"
+                ],
+                "Bashkir": [
+                    "бал ҡорто"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arı"
+                ],
+                "Azerbaijani": [
+                    "arı"
+                ],
+                "Turkmen": [
+                    "ary"
+                ],
+                "Uzbek": [
+                    "ari"
+                ],
+                "Kazakh": [
+                    "ара"
+                ],
+                "Kyrgyz": [
+                    "аары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "корт"
+                ],
+                "Bashkir": [
+                    "ҡорт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asalari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەسەل ھەرىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "hárre"
+                ]
+            }
+        }
+    ]
+}

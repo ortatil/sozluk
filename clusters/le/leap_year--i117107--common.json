@@ -1,0 +1,82 @@
+{
+    "id": "i117107",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "leap year",
+    "en_definition": "in the Gregorian calendar: any year divisible by 4 except centenary years divisible by 400",
+    "tr_word": "artık yıl",
+    "tr_definition": "Miladi takvimde, Şubat ayının 29 gün sürdüğü ve toplamda 366 gün içeren yıl.",
+    "ru_word": "високосный год",
+    "ru_definition": "Год в юлианском и григорианском календарях, продолжительность которого равна 366 дням.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kabisa yili"
+                ],
+                "Uyghur": [
+                    "كەبىسە يىلى",
+                    "كەبىسە"
+                ],
+                "Kazakh": [
+                    "кібісе жыл"
+                ],
+                "Kyrgyz": [
+                    "кибисе жылы"
+                ],
+                "Karakalpak": [
+                    "kábisá jılı",
+                    "kábisá"
+                ],
+                "Tatar": [
+                    "кәбисә елы",
+                    "кәбисә"
+                ],
+                "Bashkir": [
+                    "кәбисә йылы",
+                    "кәбисә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "artık yıl",
+                    "artık sene"
+                ],
+                "Azerbaijani": [
+                    "artıq il"
+                ],
+                "Turkmen": [
+                    "artykmaç ýyl"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "toʻliq yil"
+                ],
+                "Kazakh": [
+                    "толық жыл"
+                ],
+                "Kyrgyz": [
+                    "толук жыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uzun il"
+                ],
+                "Turkmen": [
+                    "toýun ýyly"
+                ]
+            }
+        }
+    ]
+}

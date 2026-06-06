@@ -1,0 +1,160 @@
+# Chavez
+| Field | Detail |
+|---|---|
+| **ID** | i94707 |
+| **English** | chavez |
+| **Type** | noun |
+| **Definition** | United States labor leader who organized farm workers (born 1927) |
+| **Source** | common |
+| **Ortatil** | sendikäcı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i94707",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chavez",
+    "en_definition": "United States labor leader who organized farm workers (born 1927)",
+    "tr_word": "Chavez",
+    "tr_definition": "Tarım işçilerini örgütleyen Amerikalı işçi lideri (1927 doğumlu)",
+    "ru_word": "Чавес",
+    "ru_definition": "Американский профсоюзный лидер, организовавший сельскохозяйственных рабочих (родился в 1927 году)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Cesar Chavez"
+                ],
+                "Azerbaijani": [
+                    "Sezar Çaves"
+                ],
+                "Turkmen": [
+                    "Sezar Çawes"
+                ],
+                "Uzbek": [
+                    "Sezar Chaves"
+                ],
+                "Uyghur": [
+                    "سېزار چاۋېز"
+                ],
+                "Kazakh": [
+                    "Сезар Чавес"
+                ],
+                "Kyrgyz": [
+                    "Сесар Чавес"
+                ],
+                "Karakalpak": [
+                    "Sesar Chawes"
+                ],
+                "Tatar": [
+                    "Сезар Чавес"
+                ],
+                "Bashkir": [
+                    "Сесар Чавес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işçi lideri"
+                ],
+                "Turkmen": [
+                    "işçi lideri"
+                ],
+                "Uzbek": [
+                    "ishchilar rahnamosi"
+                ],
+                "Uyghur": [
+                    "ئىشچىلار رەھبىرى"
+                ],
+                "Tatar": [
+                    "эшчеләр лидеры"
+                ],
+                "Bashkir": [
+                    "эшселәр юлбашсыһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kasaba uyushmasi yetakchisi"
+                ],
+                "Kazakh": [
+                    "кәсіподақ жетекшісі"
+                ],
+                "Kyrgyz": [
+                    "кесиптик бирлик лидери"
+                ],
+                "Karakalpak": [
+                    "kásiplik aoqam baslıǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hünär arkalaşygy ýolbaşçysy"
+                ],
+                "Kyrgyz": [
+                    "жумушчулардын башчысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "профсоюз җитәкчесе"
+                ],
+                "Bashkir": [
+                    "профсоюз эшмәкәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sendikacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həmkarlar ittifaqı rəhbəri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fəhlə hərəkatı lideri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еңбек қозғалысының қайраткері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jumısshılar jetekshisi"
+                ]
+            }
+        }
+    ]
+}
+```
+

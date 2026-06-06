@@ -1,0 +1,161 @@
+# Executive secretary
+| Field | Detail |
+|---|---|
+| **ID** | i89836 |
+| **English** | executive secretary |
+| **Type** | noun |
+| **Definition** | a secretary having administrative duties and responsibilities |
+| **Source** | common |
+| **Ortatil** | başkatip |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i89836",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "executive secretary",
+    "en_definition": "a secretary having administrative duties and responsibilities",
+    "tr_word": "yönetici sekreteri",
+    "tr_definition": "idari görev ve sorumluluklara sahip olan sekreter",
+    "ru_word": "исполнительный секретарь",
+    "ru_definition": "секретарь, наделенный административными обязанностями и полномочиями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başkatip"
+                ],
+                "Turkmen": [
+                    "baş kätip"
+                ],
+                "Uzbek": [
+                    "bosh kotib"
+                ],
+                "Uyghur": [
+                    "باش كاتىپ"
+                ],
+                "Kyrgyz": [
+                    "башкы катчы"
+                ],
+                "Tatar": [
+                    "башкарма сәркәтип",
+                    "баш сәркәтип"
+                ],
+                "Bashkir": [
+                    "баш сәркәтип"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məsul katib"
+                ],
+                "Uzbek": [
+                    "mas'ul kotib"
+                ],
+                "Uyghur": [
+                    "مەسئۇل كاتىپ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "icraçı katib"
+                ],
+                "Uzbek": [
+                    "ijrochi kotib"
+                ],
+                "Uyghur": [
+                    "ئىجرائىيە كاتىپ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jogapkär kätip"
+                ],
+                "Tatar": [
+                    "җаваплы сәркәтип"
+                ],
+                "Bashkir": [
+                    "яуаплы сәркәтип"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "атқарушы хатшы"
+                ],
+                "Kyrgyz": [
+                    "аткаруучу катчы"
+                ],
+                "Karakalpak": [
+                    "atqarıoshı xatker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "idari sekreter"
+                ],
+                "Bashkir": [
+                    "идара сәркәтибе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жауапты хатшы"
+                ],
+                "Karakalpak": [
+                    "jauaplı xatker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yönetici sekreteri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özel kalem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dolandyryjy kätip"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жооптуу катчы"
+                ]
+            }
+        }
+    ]
+}
+```
+

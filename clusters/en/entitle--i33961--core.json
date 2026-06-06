@@ -1,0 +1,200 @@
+{
+    "id": "i33961",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "entitle",
+    "en_definition": "give the right to",
+    "tr_word": "yetkilendirmek",
+    "tr_definition": "birine bir şeyi yapma veya alma hakkını vermek",
+    "ru_word": "давать право",
+    "ru_definition": "предоставлять кому-либо законное основание или право на что-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hüquq vermək"
+                ],
+                "Turkmen": [
+                    "hukuk bermek"
+                ],
+                "Uzbek": [
+                    "huquq bermoq"
+                ],
+                "Uyghur": [
+                    "ھوقۇق بەرمەك"
+                ],
+                "Kazakh": [
+                    "құқық беру"
+                ],
+                "Kyrgyz": [
+                    "укук берүү"
+                ],
+                "Karakalpak": [
+                    "huqıq berio"
+                ],
+                "Tatar": [
+                    "хокук бирү"
+                ],
+                "Bashkir": [
+                    "хоҡуҡ биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtiyar vermək"
+                ],
+                "Turkmen": [
+                    "ygtyýar bermek"
+                ],
+                "Karakalpak": [
+                    "ıqtıيار berio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hakly etmek"
+                ],
+                "Karakalpak": [
+                    "haqılı qılıo"
+                ],
+                "Tatar": [
+                    "хаклы итү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ерік беру"
+                ],
+                "Tatar": [
+                    "ирек бирү"
+                ],
+                "Bashkir": [
+                    "ирек биреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "haqq vermək"
+                ],
+                "Uzbek": [
+                    "haq bermoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səlahiyyət vermək"
+                ],
+                "Uyghur": [
+                    "سالاھىيەت بەرمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vakolat bermoq"
+                ],
+                "Tatar": [
+                    "вәкаләт бирү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "рұқсат ету"
+                ],
+                "Bashkir": [
+                    "рөхсәт итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эркиндик берүү"
+                ],
+                "Karakalpak": [
+                    "erkinlik berio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hak tanımak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yetki vermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hak kazandırmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mezun kılmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "loyiq ko'rmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھوقۇقدار قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ие қылу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "укуктуу кылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ыйгаруу"
+                ]
+            }
+        }
+    ]
+}

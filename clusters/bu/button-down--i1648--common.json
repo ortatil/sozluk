@@ -1,0 +1,93 @@
+{
+    "id": "i1648",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "button-down",
+    "en_definition": "of a shirt; having the ends of the collar fastened down by buttons",
+    "tr_word": "düğmeli yakalı",
+    "tr_definition": "yakasının uçları düğmelerle gömleğe sabitlenmiş olan (gömlek)",
+    "ru_word": "с воротником на пуговицах",
+    "ru_definition": "о рубашке; имеющая воротник, концы которого пристегиваются к ткани пуговицами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düğmeli"
+                ],
+                "Azerbaijani": [
+                    "düyməli"
+                ],
+                "Uyghur": [
+                    "تۈگمىلىك ياقىلىق"
+                ],
+                "Kazakh": [
+                    "түймелі",
+                    "түймеленетін"
+                ],
+                "Karakalpak": [
+                    "túymelі",
+                    "túymelengen",
+                    "túymelenetіn"
+                ],
+                "Tatar": [
+                    "төймәле",
+                    "төймәләнмәле",
+                    "төймәләнгән"
+                ],
+                "Bashkir": [
+                    "төймәле",
+                    "төймәләнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yakası düğmeli"
+                ],
+                "Azerbaijani": [
+                    "yaxası düyməli"
+                ],
+                "Turkmen": [
+                    "ýakasy ilikli"
+                ],
+                "Uzbek": [
+                    "yoqasi tugmali"
+                ],
+                "Uyghur": [
+                    "ياقىسى تۈگمىلىك"
+                ],
+                "Kazakh": [
+                    "жағасы түймелі"
+                ],
+                "Kyrgyz": [
+                    "жакасы топчулуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ilikli ýakaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tugmali"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "топчулуу",
+                    "топчулануучу"
+                ]
+            }
+        }
+    ]
+}

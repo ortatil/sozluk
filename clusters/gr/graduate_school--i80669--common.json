@@ -1,0 +1,138 @@
+{
+    "id": "i80669",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "graduate school",
+    "en_definition": "a school in a university offering study leading to degrees beyond the bachelor's degree",
+    "tr_word": "lisansüstü eğitim enstitüsü",
+    "tr_definition": "bir üniversitede lisans derecesinin ötesinde dereceler sağlayan eğitim kurumu",
+    "ru_word": "аспирантура",
+    "ru_definition": "учебное заведение или подразделение в университете, предлагающее обучение для получения степеней выше бакалавра",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aspirantura"
+                ],
+                "Turkmen": [
+                    "aspirantura"
+                ],
+                "Uzbek": [
+                    "aspirantura"
+                ],
+                "Uyghur": [
+                    "ئاسپىرانتلىق ئىنستىتۇتى",
+                    "ئاسپىرانتلىق مەكتىپى"
+                ],
+                "Kazakh": [
+                    "аспирантура"
+                ],
+                "Kyrgyz": [
+                    "аспирантура"
+                ],
+                "Karakalpak": [
+                    "aspirantura"
+                ],
+                "Tatar": [
+                    "аспирантура"
+                ],
+                "Bashkir": [
+                    "аспирантура"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "magistratura"
+                ],
+                "Turkmen": [
+                    "magistratura"
+                ],
+                "Uzbek": [
+                    "magistratura"
+                ],
+                "Kazakh": [
+                    "магистратура"
+                ],
+                "Kyrgyz": [
+                    "магистратура"
+                ],
+                "Karakalpak": [
+                    "magistratura"
+                ],
+                "Bashkir": [
+                    "магистратура"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýokary okuw mekdebi"
+                ],
+                "Kazakh": [
+                    "жоғары оқу орнынан кейінгі білім"
+                ],
+                "Kyrgyz": [
+                    "жогорку окуу жайынан кийинки билим берүү"
+                ],
+                "Karakalpak": [
+                    "joqarı oqıo ornınan keyingi bilimlendirio"
+                ],
+                "Tatar": [
+                    "югары уку йорты"
+                ],
+                "Bashkir": [
+                    "юғары уҡыу йортонан һуңғы белем биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ali təhsilin növbəti pilləsi"
+                ],
+                "Uzbek": [
+                    "oliy oʻquv yurtidan keyingi taʼlim"
+                ],
+                "Uyghur": [
+                    "ئالىي تەتقىقات ئورنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lisansüstü eğitim",
+                    "yüksek lisans okulu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "enstitü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ғылыми мектеп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гыйлем үзәге"
+                ]
+            }
+        }
+    ]
+}

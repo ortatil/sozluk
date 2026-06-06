@@ -1,0 +1,78 @@
+{
+    "id": "i90159",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gas fitter",
+    "en_definition": "a workman who installs and repairs gas fixtures and appliances",
+    "tr_word": "gaz tesisatçısı",
+    "tr_definition": "gaz armatürlerini ve cihazlarını kuran ve onaran işçi",
+    "ru_word": "газовщик",
+    "ru_definition": "рабочий, занимающийся установкой и ремонтом газового оборудования и приборов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gaz tesisatçısı"
+                ],
+                "Azerbaijani": [
+                    "qaz ustası",
+                    "qazçı",
+                    "qaz quraşdırıcısı"
+                ],
+                "Turkmen": [
+                    "gazçy",
+                    "gaz ussasy"
+                ],
+                "Uzbek": [
+                    "gazchi",
+                    "gaz ustasi",
+                    "gaz mutaxassisi"
+                ],
+                "Uyghur": [
+                    "گازچى",
+                    "گاز ئۇستىسى",
+                    "گاز تۇرۇبا ئۇستىسى"
+                ],
+                "Kazakh": [
+                    "газ маманы",
+                    "газ шебері",
+                    "газ орнатушы"
+                ],
+                "Kyrgyz": [
+                    "газчы",
+                    "газ устасы",
+                    "газ адиси"
+                ],
+                "Karakalpak": [
+                    "gazshı",
+                    "gaz ustası"
+                ],
+                "Tatar": [
+                    "газчы",
+                    "газ остасы",
+                    "газ белгече"
+                ],
+                "Bashkir": [
+                    "газсы",
+                    "газ оҫтаһы",
+                    "газ белгесе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğalgaz tesisatçısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tesisatçı"
+                ]
+            }
+        }
+    ]
+}

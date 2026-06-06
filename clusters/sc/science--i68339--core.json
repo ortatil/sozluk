@@ -1,0 +1,111 @@
+{
+    "id": "i68339",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "science",
+    "en_definition": "a particular branch of scientific knowledge",
+    "tr_word": "bilim",
+    "tr_definition": "bilimsel bilginin belirli bir dalı",
+    "ru_word": "наука",
+    "ru_definition": "определенная область научных знаний",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilim"
+                ],
+                "Azerbaijani": [
+                    "elm"
+                ],
+                "Turkmen": [
+                    "ylym"
+                ],
+                "Uzbek": [
+                    "ilm"
+                ],
+                "Uyghur": [
+                    "ئىلىم"
+                ],
+                "Kazakh": [
+                    "ғылым",
+                    "ілім"
+                ],
+                "Kyrgyz": [
+                    "илим"
+                ],
+                "Karakalpak": [
+                    "ilim"
+                ],
+                "Tatar": [
+                    "гыйлем"
+                ],
+                "Bashkir": [
+                    "ғилем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilim"
+                ],
+                "Azerbaijani": [
+                    "bilik"
+                ],
+                "Turkmen": [
+                    "bilim"
+                ],
+                "Uzbek": [
+                    "bilim"
+                ],
+                "Uyghur": [
+                    "بىلىم"
+                ],
+                "Kazakh": [
+                    "білім"
+                ],
+                "Kyrgyz": [
+                    "билим"
+                ],
+                "Karakalpak": [
+                    "bilim"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fen"
+                ],
+                "Azerbaijani": [
+                    "fənn"
+                ],
+                "Turkmen": [
+                    "fen"
+                ],
+                "Uzbek": [
+                    "fan"
+                ],
+                "Uyghur": [
+                    "پەن"
+                ],
+                "Tatar": [
+                    "фән"
+                ],
+                "Bashkir": [
+                    "фән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىلىم-پەن"
+                ]
+            }
+        }
+    ]
+}

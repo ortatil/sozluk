@@ -1,0 +1,97 @@
+{
+    "id": "i30096",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "knitting",
+    "en_definition": "make (textiles) by knitting",
+    "tr_word": "örmek",
+    "tr_definition": "İplikleri birbirine geçirerek kumaş veya giysi oluşturmak",
+    "ru_word": "вязать",
+    "ru_definition": "изготовлять текстильное изделие из нитей путём образования петель",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "örmek"
+                ],
+                "Azerbaijani": [
+                    "hörmək"
+                ],
+                "Turkmen": [
+                    "örmek"
+                ],
+                "Uyghur": [
+                    "ئۆرمەك"
+                ],
+                "Kazakh": [
+                    "өрнектеу"
+                ],
+                "Kyrgyz": [
+                    "өрүү"
+                ],
+                "Karakalpak": [
+                    "órmeleu"
+                ],
+                "Tatar": [
+                    "үрелгән"
+                ],
+                "Bashkir": [
+                    "үрмәләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dokumak"
+                ],
+                "Azerbaijani": [
+                    "toxumaq"
+                ],
+                "Turkmen": [
+                    "dokamak"
+                ],
+                "Uzbek": [
+                    "to'qimoq"
+                ],
+                "Uyghur": [
+                    "توخۇماق",
+                    "توقۇماق"
+                ],
+                "Kazakh": [
+                    "тоқу"
+                ],
+                "Kyrgyz": [
+                    "токуу"
+                ],
+                "Karakalpak": [
+                    "toqıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "байлау"
+                ],
+                "Tatar": [
+                    "бәйләнгән"
+                ],
+                "Bashkir": [
+                    "бәйләү",
+                    "бәйләп сығарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "to'qib tayyorlamoq"
+                ]
+            }
+        }
+    ]
+}

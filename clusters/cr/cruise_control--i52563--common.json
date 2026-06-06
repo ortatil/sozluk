@@ -1,0 +1,113 @@
+{
+    "id": "i52563",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cruise control",
+    "en_definition": "control mechanism for keeping an automobile at a set speed",
+    "tr_word": "hız sabitleyici",
+    "tr_definition": "bir otomobili belirli bir hızda tutmak için kullanılan kontrol mekanizması",
+    "ru_word": "круиз-контроль",
+    "ru_definition": "устройство, поддерживающее постоянную скорость автомобиля",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tizlik saklaýjy",
+                    "tizlik sazlaýjy"
+                ],
+                "Uzbek": [
+                    "tezlik nazorati",
+                    "tezlikni saqlash tizimi"
+                ],
+                "Uyghur": [
+                    "تېزلىكنى تۇراقلاشتۇرغۇچ",
+                    "تېزلىكنى كونترول قىلغۇچ"
+                ],
+                "Karakalpak": [
+                    "tezlikni saqlaǵısh",
+                    "tezlikni basqarıo mexanizmi"
+                ],
+                "Tatar": [
+                    "тизлекне көйләүче",
+                    "тизлекне саклаучы"
+                ],
+                "Bashkir": [
+                    "тиҙлекте көйләгес",
+                    "тиҙлекте һаҡлағыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtopilot"
+                ],
+                "Turkmen": [
+                    "awtomatiki tizlik dolandyryşy"
+                ],
+                "Uzbek": [
+                    "avtonazorat"
+                ],
+                "Tatar": [
+                    "автоматик тизлек көйләгеч"
+                ],
+                "Bashkir": [
+                    "автоматик тиҙлек көйләгес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жылдамдықты бақылау",
+                    "жылдамдықты ұстау",
+                    "тұрақты жылдамдық жүйесі"
+                ],
+                "Kyrgyz": [
+                    "ылдамдыкты жөнгө салгыч",
+                    "ылдамдыкты турукташтыргыч",
+                    "ылдамдыкты сактагыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hız sabitleyici",
+                    "hız denetleyici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hız kontrol sistemi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sürət tənzimləyicisi",
+                    "sürət sabitleyicisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاپتوماتىك سۈرئەت تەڭشىگۈچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "turaqlı tezlik sisteması"
+                ]
+            }
+        }
+    ]
+}

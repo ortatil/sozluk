@@ -1,0 +1,107 @@
+{
+    "id": "i91057",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "little sister",
+    "en_definition": "a younger sister",
+    "tr_word": "kız kardeş",
+    "tr_definition": "bir kimseden yaşça daha küçük olan kız kardeş",
+    "ru_word": "младшая сестра",
+    "ru_definition": "сестра, которая младше по возрасту",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "singil",
+                    "singilcha"
+                ],
+                "Uyghur": [
+                    "سىڭىل",
+                    "سىڭلىم"
+                ],
+                "Kazakh": [
+                    "сіңлі"
+                ],
+                "Kyrgyz": [
+                    "сиңди"
+                ],
+                "Karakalpak": [
+                    "sińli"
+                ],
+                "Tatar": [
+                    "сеңел",
+                    "сеңелкәш"
+                ],
+                "Bashkir": [
+                    "һеңле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kız kardeş"
+                ],
+                "Azerbaijani": [
+                    "kiçik bacı"
+                ],
+                "Turkmen": [
+                    "gyz jigisi"
+                ],
+                "Tatar": [
+                    "кече сеңел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қарындас"
+                ],
+                "Kyrgyz": [
+                    "карындаш"
+                ],
+                "Karakalpak": [
+                    "qarındas"
+                ],
+                "Bashkir": [
+                    "ҡарындаш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bacı"
+                ],
+                "Azerbaijani": [
+                    "balaca bacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "küçük kız kardeş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hemşire"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uýa"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": "i41227",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "exporting",
+    "en_definition": "the commercial activity of selling and shipping goods to a foreign country",
+    "tr_word": "ihracat",
+    "tr_definition": "Malların yabancı bir ülkeye satılması ve gönderilmesi ticari faaliyeti",
+    "ru_word": "экспорт",
+    "ru_definition": "коммерческая деятельность по продаже и отправке товаров в зарубежную страну",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "eksport"
+                ],
+                "Uzbek": [
+                    "eksport"
+                ],
+                "Uyghur": [
+                    "ئېكسپورت"
+                ],
+                "Kazakh": [
+                    "экспорт",
+                    "экспорттау"
+                ],
+                "Kyrgyz": [
+                    "экспорт"
+                ],
+                "Karakalpak": [
+                    "eksportlao"
+                ],
+                "Tatar": [
+                    "экспортлау"
+                ],
+                "Bashkir": [
+                    "экспортлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dışsatım"
+                ],
+                "Azerbaijani": [
+                    "dışsatım"
+                ],
+                "Turkmen": [
+                    "daşary çykaryş",
+                    "daşary çykarmaklyk"
+                ],
+                "Uzbek": [
+                    "tashqi savdo"
+                ],
+                "Uyghur": [
+                    "تاشقى سودا"
+                ],
+                "Tatar": [
+                    "тышка сату"
+                ],
+                "Bashkir": [
+                    "тышҡа сығарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chiqarish"
+                ],
+                "Uyghur": [
+                    "چىقىرىش"
+                ],
+                "Kyrgyz": [
+                    "чыгаруу"
+                ],
+                "Tatar": [
+                    "чыгару"
+                ],
+                "Bashkir": [
+                    "сығарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сыртқа шығару"
+                ],
+                "Kyrgyz": [
+                    "сыртка сатуу",
+                    "сыртка чыгаруу"
+                ],
+                "Karakalpak": [
+                    "sırtqa shıǵarıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ihracat"
+                ],
+                "Azerbaijani": [
+                    "ixrac",
+                    "ixracat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chetga sotish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مال چىقىرىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "satıo"
+                ]
+            }
+        }
+    ]
+}

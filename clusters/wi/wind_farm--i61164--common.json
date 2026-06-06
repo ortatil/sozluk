@@ -1,0 +1,94 @@
+{
+    "id": "i61164",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wind farm",
+    "en_definition": "a power plant that uses wind turbines to generate electricity",
+    "tr_word": "rüzgâr santrali",
+    "tr_definition": "elektrik üretmek için rüzgâr türbinlerini kullanan bir güç tesisi",
+    "ru_word": "ветряная электростанция",
+    "ru_definition": "электростанция, использующая ветряные турбины для выработки электроэнергии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rüzgar santrali",
+                    "rüzgar enerjisi santrali",
+                    "rüzgar tarlası",
+                    "rüzgar parkı"
+                ],
+                "Kazakh": [
+                    "жел электр станциясы"
+                ],
+                "Kyrgyz": [
+                    "жел электр станциясы"
+                ],
+                "Karakalpak": [
+                    "jel elektr stanciyası"
+                ],
+                "Tatar": [
+                    "җил электр станциясе",
+                    "җил энергиясе станциясе"
+                ],
+                "Bashkir": [
+                    "ел электр станцияһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýel elektrik bekedi",
+                    "ýel elektrik stansiýasy",
+                    "ýel energiýa toplumy"
+                ],
+                "Kazakh": [
+                    "жел паркі",
+                    "жел қуат кешені"
+                ],
+                "Kyrgyz": [
+                    "жел паркы"
+                ],
+                "Karakalpak": [
+                    "jel parkı"
+                ],
+                "Tatar": [
+                    "җил паркы"
+                ],
+                "Bashkir": [
+                    "ел паркы",
+                    "ел энергетикаһы ҡоролмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shamol elektr stansiyasi",
+                    "shamol bog‘i",
+                    "shamol qurilmalari majmuasi"
+                ],
+                "Uyghur": [
+                    "شامال ئېلېكتر ئىستانسىسى",
+                    "شامال كۈچى بىلەن توك چىقىرىش مەيدانى",
+                    "شامال ئېنېرگىيە بازىسى"
+                ],
+                "Kyrgyz": [
+                    "шамал электр станциясы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "külək elektrik stansiyası",
+                    "külək parkı",
+                    "külək tarlası"
+                ]
+            }
+        }
+    ]
+}

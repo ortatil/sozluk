@@ -1,0 +1,113 @@
+{
+    "id": "i89422",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "deaf person",
+    "en_definition": "a person with a severe auditory impairment",
+    "tr_word": "sağır",
+    "tr_definition": "işitme duyusundan tamamen veya kısmen yoksun olan kimse",
+    "ru_word": "глухой",
+    "ru_definition": "человек с полной или значительной потерей слуха",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağır"
+                ],
+                "Turkmen": [
+                    "saňňy"
+                ],
+                "Kazakh": [
+                    "саңырау"
+                ],
+                "Karakalpak": [
+                    "sańǵırau"
+                ],
+                "Tatar": [
+                    "саңгырау",
+                    "саңгырау кеше"
+                ],
+                "Bashkir": [
+                    "һаңғырау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kar"
+                ],
+                "Turkmen": [
+                    "ker"
+                ],
+                "Uzbek": [
+                    "kar"
+                ],
+                "Kazakh": [
+                    "керең"
+                ],
+                "Kyrgyz": [
+                    "кер"
+                ],
+                "Karakalpak": [
+                    "ker"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işitme engelli"
+                ],
+                "Azerbaijani": [
+                    "eşitmə qüsurlu"
+                ],
+                "Turkmen": [
+                    "eşitmýän"
+                ],
+                "Uzbek": [
+                    "eshitmaydigan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "og'irquloq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گاس",
+                    "گاس ئادەم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇلىقى ئېغىر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дүлөй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дөңгәк"
+                ]
+            }
+        }
+    ]
+}

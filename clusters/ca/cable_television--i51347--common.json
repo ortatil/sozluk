@@ -1,0 +1,76 @@
+{
+    "id": "i51347",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cable television",
+    "en_definition": "a television system that transmits over cables",
+    "tr_word": "kablolu televizyon",
+    "tr_definition": "Televizyon yayınlarının kablo şebekesi üzerinden iletildiği sistem.",
+    "ru_word": "кабельное телевидение",
+    "ru_definition": "система телевизионного вещания, в которой сигнал передаётся по кабелю.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kablolu televizyon",
+                    "kablolu yayın"
+                ],
+                "Azerbaijani": [
+                    "kabel televiziyası",
+                    "kabel yayımı"
+                ],
+                "Turkmen": [
+                    "kabel telewideniýesi",
+                    "kabel arkaly gepleşik",
+                    "kabel tory"
+                ],
+                "Uzbek": [
+                    "kabelli televideniye"
+                ],
+                "Uyghur": [
+                    "كابېللىق تېلېۋىزىيە"
+                ],
+                "Kazakh": [
+                    "кабельдік теледидар",
+                    "кабельдік телеарна"
+                ],
+                "Kyrgyz": [
+                    "кабелдик телекөрсөтүү",
+                    "кабелдик телекөрсөтүү тармагы"
+                ],
+                "Karakalpak": [
+                    "kabel tele-kórsetui",
+                    "kabel tele-kórinisi",
+                    "kabel telewiziyası"
+                ],
+                "Tatar": [
+                    "кабельле телевидение"
+                ],
+                "Bashkir": [
+                    "кабель телевидениеһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "simli televideniye"
+                ],
+                "Uyghur": [
+                    "سىملىق تېلېۋىزىيە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үткәргечле телевидение"
+                ],
+                "Bashkir": [
+                    "үткәргес телевидениеһы"
+                ]
+            }
+        }
+    ]
+}

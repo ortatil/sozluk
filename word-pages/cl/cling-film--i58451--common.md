@@ -1,0 +1,213 @@
+# Cling film
+| Field | Detail |
+|---|---|
+| **ID** | i58451 |
+| **English** | cling film |
+| **Type** | noun |
+| **Definition** | a thin plastic film made of saran (trade name Saran Wrap) that sticks to itself; used for wrapping food |
+| **Source** | common |
+| **Ortatil** | törgäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| орооч | orooç |
+| **Tatar** | |
+| төргәк | törgäk |
+| **Bashkir** | |
+| төргәк | törgäk |
+| ҡап | qap |
+
+```json
+{
+    "id": "i58451",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cling film",
+    "en_definition": "a thin plastic film made of saran (trade name Saran Wrap) that sticks to itself; used for wrapping food",
+    "tr_word": "streç film",
+    "tr_definition": "yiyecekleri taze tutmak için üzerlerine sarılan, kendiliğinden yapışan ince ve şeffaf plastik folyo",
+    "ru_word": "пищевая плёнка",
+    "ru_definition": "тонкая полиэтиленовая плёнка, используемая для упаковки и хранения пищевых продуктов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oziq-ovqat plyonkasi"
+                ],
+                "Karakalpak": [
+                    "azıq-túlіk qabıqshası"
+                ],
+                "Tatar": [
+                    "азык-төлек пленкасы"
+                ],
+                "Bashkir": [
+                    "аҙыҡ-түлек тышлығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "streç film"
+                ],
+                "Turkmen": [
+                    "streç plýonka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yopishqoq plyonka",
+                    "yupqa qobiq"
+                ],
+                "Karakalpak": [
+                    "jabısqaq qabıqsha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "орауыш үлдір"
+                ],
+                "Karakalpak": [
+                    "orauısh qabıqsha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төргәк",
+                    "төрү пленкасы"
+                ],
+                "Bashkir": [
+                    "төргәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sarma filmi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mutfak folyosu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şeffaf folyo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "streç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qida plyonkası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bükmə plyonkası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iýmit plýonkasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gaplaýyş plýonkasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېمەكلىك پىلاستىنكىسى",
+                    "يېمەكلىك ئوراش پىلاستىنكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇلياۋ يوپۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "асханалық үлдір"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тағамдық үлдір"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тамак-аш плёнкасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "орооч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жука орооч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡап"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,109 @@
+# Llama
+| Field | Detail |
+|---|---|
+| **ID** | i48454 |
+| **English** | llama |
+| **Type** | noun |
+| **Definition** | wild or domesticated South American cud-chewing animal related to camels but smaller and lacking a hump |
+| **Source** | common |
+| **Ortatil** | lama |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **lama** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| لاما | lama |
+| **Kazakh** | |
+| лама | lama |
+| **Kyrgyz** | |
+| лама | lama |
+| **Tatar** | |
+| лама | lama |
+| **Bashkir** | |
+| лама | lama |
+
+```json
+{
+    "id": "i48454",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "llama",
+    "en_definition": "wild or domesticated South American cud-chewing animal related to camels but smaller and lacking a hump",
+    "tr_word": "lama",
+    "tr_definition": "Güney Amerika'da yaşayan, hörgüçsüz, devegillerden evcil veya yabani bir memeli hayvan.",
+    "ru_word": "лама",
+    "ru_definition": "Южноамериканское млекопитающее семейства верблюдовых, одомашненное и используемое как вьючное животное, не имеющее горба.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lama"
+                ],
+                "Azerbaijani": [
+                    "lama"
+                ],
+                "Turkmen": [
+                    "lama"
+                ],
+                "Uzbek": [
+                    "lama"
+                ],
+                "Uyghur": [
+                    "لاما"
+                ],
+                "Kazakh": [
+                    "лама"
+                ],
+                "Kyrgyz": [
+                    "лама"
+                ],
+                "Karakalpak": [
+                    "lama"
+                ],
+                "Tatar": [
+                    "лама"
+                ],
+                "Bashkir": [
+                    "лама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuyasimon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "لاما تۆگىسى"
+                ]
+            }
+        }
+    ]
+}
+```
+

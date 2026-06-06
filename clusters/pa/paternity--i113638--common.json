@@ -1,0 +1,84 @@
+{
+    "id": "i113638",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paternity",
+    "en_definition": "the state of being a father",
+    "tr_word": "babalık",
+    "tr_definition": "baba olma durumu",
+    "ru_word": "отцовство",
+    "ru_definition": "состояние или факт бытия отцом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "babalık"
+                ],
+                "Azerbaijani": [
+                    "atalıq"
+                ],
+                "Turkmen": [
+                    "atalyk",
+                    "atadarlyk"
+                ],
+                "Uzbek": [
+                    "otalik"
+                ],
+                "Uyghur": [
+                    "ئاتىلىق"
+                ],
+                "Kyrgyz": [
+                    "аталык",
+                    "ата болуу"
+                ],
+                "Karakalpak": [
+                    "atalıq"
+                ],
+                "Tatar": [
+                    "аталык",
+                    "ата булу"
+                ],
+                "Bashkir": [
+                    "аталыҡ",
+                    "ата булыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "padarlik"
+                ],
+                "Uyghur": [
+                    "پەدەرسالارلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әкелік",
+                    "әке болу"
+                ],
+                "Karakalpak": [
+                    "ákelik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ebuvvet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "valideynlik"
+                ]
+            }
+        }
+    ]
+}

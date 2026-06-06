@@ -1,0 +1,116 @@
+{
+    "id": "i28440",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "wring out",
+    "en_definition": "extract (liquid) by squeezing or pressing",
+    "tr_word": "sıkmak",
+    "tr_definition": "bir şeyi bükerek veya bastırarak içindeki sıvıyı çıkarmak",
+    "ru_word": "выжимать",
+    "ru_definition": "удалять влагу из чего-либо путём сильного сжатия или скручивания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıkmak",
+                    "süzmek"
+                ],
+                "Azerbaijani": [
+                    "sıxmaq"
+                ],
+                "Turkmen": [
+                    "sykmak"
+                ],
+                "Uzbek": [
+                    "siqmoq"
+                ],
+                "Uyghur": [
+                    "سىقماق",
+                    "سىقىپ چىقارماق"
+                ],
+                "Kazakh": [
+                    "сығу",
+                    "сығымдау"
+                ],
+                "Kyrgyz": [
+                    "сыгуу",
+                    "сыгып чыгаруу"
+                ],
+                "Karakalpak": [
+                    "sıǵıu"
+                ],
+                "Tatar": [
+                    "сыгу"
+                ],
+                "Bashkir": [
+                    "һығыу",
+                    "һығып алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "burmak"
+                ],
+                "Azerbaijani": [
+                    "burub-sıxmaq"
+                ],
+                "Turkmen": [
+                    "burmak"
+                ],
+                "Uzbek": [
+                    "buramoq"
+                ],
+                "Uyghur": [
+                    "بۇرىماق"
+                ],
+                "Kazakh": [
+                    "бұрап сығу"
+                ],
+                "Kyrgyz": [
+                    "буроо"
+                ],
+                "Karakalpak": [
+                    "bұrap sıǵıu"
+                ],
+                "Tatar": [
+                    "боргычлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кысу"
+                ],
+                "Bashkir": [
+                    "ҡыҫыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "eşmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "towlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "siqib chiqarmoq"
+                ]
+            }
+        }
+    ]
+}

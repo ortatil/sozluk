@@ -1,0 +1,142 @@
+{
+    "id": "i110058",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bottleneck",
+    "en_definition": "a narrowing that reduces the flow through a channel",
+    "tr_word": "darboğaz",
+    "tr_definition": "bir kanal boyunca akışı azaltan daralma",
+    "ru_word": "узкое место",
+    "ru_definition": "сужение, которое уменьшает поток через канал",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "darboğaz",
+                    "daralma"
+                ],
+                "Azerbaijani": [
+                    "dar boğaz",
+                    "daralma"
+                ],
+                "Turkmen": [
+                    "daralma",
+                    "dar ýer"
+                ],
+                "Uzbek": [
+                    "torlik",
+                    "torayish"
+                ],
+                "Uyghur": [
+                    "تار بوغۇز",
+                    "تار ئۆتكەل",
+                    "تارايغان جاي"
+                ],
+                "Kazakh": [
+                    "тар жер",
+                    "тар саға"
+                ],
+                "Kyrgyz": [
+                    "тар жер"
+                ],
+                "Karakalpak": [
+                    "tar jer",
+                    "tartıs"
+                ],
+                "Tatar": [
+                    "тарлавык",
+                    "тар урын"
+                ],
+                "Bashkir": [
+                    "тарлауыҡ",
+                    "тар урын",
+                    "тарлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geçit"
+                ],
+                "Turkmen": [
+                    "geçelge"
+                ],
+                "Kazakh": [
+                    "қыспақ"
+                ],
+                "Kyrgyz": [
+                    "кысык"
+                ],
+                "Karakalpak": [
+                    "qıspaq"
+                ],
+                "Tatar": [
+                    "кысык"
+                ],
+                "Bashkir": [
+                    "ҡыҫыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bogaz"
+                ],
+                "Uzbek": [
+                    "boʻgʻiz"
+                ],
+                "Kazakh": [
+                    "бөгесін"
+                ],
+                "Kyrgyz": [
+                    "бөгөт"
+                ],
+                "Karakalpak": [
+                    "bóget"
+                ],
+                "Tatar": [
+                    "бугаз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tıkanıklık"
+                ],
+                "Azerbaijani": [
+                    "tıxac"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toʻsiq"
+                ],
+                "Uyghur": [
+                    "توسالغۇ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məngənə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кептелүү"
+                ]
+            }
+        }
+    ]
+}

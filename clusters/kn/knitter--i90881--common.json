@@ -1,0 +1,88 @@
+{
+    "id": "i90881",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "knitter",
+    "en_definition": "someone who makes garments (or fabrics) by intertwining yarn or thread",
+    "tr_word": "örgücü",
+    "tr_definition": "ipliği veya yünü birbirine dolayarak giysi veya kumaş yapan kimse",
+    "ru_word": "вязальщик",
+    "ru_definition": "человек, который изготавливает одежду или ткани путем переплетения пряжи или нитей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "örgücü",
+                    "ören"
+                ],
+                "Azerbaijani": [
+                    "hörücü"
+                ],
+                "Turkmen": [
+                    "örüji"
+                ],
+                "Kazakh": [
+                    "өрмекші"
+                ],
+                "Kyrgyz": [
+                    "өрмөчү"
+                ],
+                "Karakalpak": [
+                    "órmeshі"
+                ],
+                "Tatar": [
+                    "үрүче"
+                ],
+                "Bashkir": [
+                    "үрмексе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "toxucu"
+                ],
+                "Turkmen": [
+                    "dokmaçy"
+                ],
+                "Uzbek": [
+                    "toʻquvchi",
+                    "toʻquvchi usta"
+                ],
+                "Uyghur": [
+                    "توقۇغۇچى",
+                    "توقۇمىچى"
+                ],
+                "Kazakh": [
+                    "тоқушы"
+                ],
+                "Kyrgyz": [
+                    "токуучу"
+                ],
+                "Karakalpak": [
+                    "toqımashı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәйләүче"
+                ],
+                "Bashkir": [
+                    "бәйләүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "trikocu"
+                ]
+            }
+        }
+    ]
+}

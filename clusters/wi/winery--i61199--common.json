@@ -1,0 +1,79 @@
+{
+    "id": "i61199",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "winery",
+    "en_definition": "distillery where wine is made",
+    "tr_word": "şaraphane",
+    "tr_definition": "Şarap üretilen ve genellikle tadım yapılan tesis.",
+    "ru_word": "винодельня",
+    "ru_definition": "Предприятие, занимающееся производством вина.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şaraphane",
+                    "şarap imalathanesi"
+                ],
+                "Azerbaijani": [
+                    "şərabxana",
+                    "şərab zavodu"
+                ],
+                "Turkmen": [
+                    "şerap kärhanasy",
+                    "şerap zawody"
+                ],
+                "Uzbek": [
+                    "sharabxona"
+                ],
+                "Uyghur": [
+                    "شارابخانا"
+                ],
+                "Kazakh": [
+                    "шарапхана",
+                    "шарап зауыты"
+                ],
+                "Kyrgyz": [
+                    "шарапкана",
+                    "шарап заводу"
+                ],
+                "Karakalpak": [
+                    "sharapxana"
+                ],
+                "Tatar": [
+                    "шәрабханә",
+                    "шәраб заводы"
+                ],
+                "Bashkir": [
+                    "шәрәпхана",
+                    "шәрәп заводы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyhane"
+                ],
+                "Azerbaijani": [
+                    "meyxana"
+                ],
+                "Turkmen": [
+                    "meýhana"
+                ],
+                "Uzbek": [
+                    "mayxona",
+                    "may zavodi"
+                ],
+                "Uyghur": [
+                    "مەيخانا"
+                ],
+                "Karakalpak": [
+                    "máyxana"
+                ]
+            }
+        }
+    ]
+}

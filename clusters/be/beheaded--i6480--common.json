@@ -1,0 +1,112 @@
+{
+    "id": "i6480",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "beheaded",
+    "en_definition": "having had the head cut off",
+    "tr_word": "başsız",
+    "tr_definition": "kafası kesilmiş olan",
+    "ru_word": "обезглавленный",
+    "ru_definition": "тот, у которого отсечена голова",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başsız"
+                ],
+                "Azerbaijani": [
+                    "başı kəsilmiş",
+                    "başsız"
+                ],
+                "Turkmen": [
+                    "başsyz"
+                ],
+                "Uzbek": [
+                    "boshi kesilgan"
+                ],
+                "Uyghur": [
+                    "بېشى كېسىلگەن"
+                ],
+                "Kazakh": [
+                    "басы кесілген",
+                    "бассыз",
+                    "басы шабылған"
+                ],
+                "Kyrgyz": [
+                    "башы кесилген",
+                    "башы алынган",
+                    "башсыз"
+                ],
+                "Karakalpak": [
+                    "bası kesilgen",
+                    "bassız"
+                ],
+                "Tatar": [
+                    "башсыз",
+                    "башы киселгән"
+                ],
+                "Bashkir": [
+                    "башы киҫелгән",
+                    "башһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "maktu"
+                ],
+                "Azerbaijani": [
+                    "məqtul"
+                ],
+                "Uyghur": [
+                    "مەقتۇل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boynu vurulmuş"
+                ],
+                "Turkmen": [
+                    "boýny kesilen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kafası kesik"
+                ],
+                "Uyghur": [
+                    "كاللىسى ئېلىنغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kellesiz",
+                    "kellesi kesilen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sarkashta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bebos"
+                ]
+            }
+        }
+    ]
+}

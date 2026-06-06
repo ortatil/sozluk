@@ -1,0 +1,157 @@
+{
+    "id": "i70066",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "indentation",
+    "en_definition": "the space left between the margin and the start of an indented line",
+    "tr_word": "girinti",
+    "tr_definition": "Bir satırın başında bırakılan boşluk.",
+    "ru_word": "отступ",
+    "ru_definition": "Пробел в начале строки текста.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "boşluq"
+                ],
+                "Turkmen": [
+                    "boşluk"
+                ],
+                "Uzbek": [
+                    "boʻshliq"
+                ],
+                "Uyghur": [
+                    "بوشلۇق"
+                ],
+                "Karakalpak": [
+                    "bos orın"
+                ],
+                "Tatar": [
+                    "бушлык"
+                ],
+                "Bashkir": [
+                    "бушлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chekinish"
+                ],
+                "Uyghur": [
+                    "چېكىنىش"
+                ],
+                "Kazakh": [
+                    "шегініс"
+                ],
+                "Kyrgyz": [
+                    "чегинүү"
+                ],
+                "Karakalpak": [
+                    "shegіnіs"
+                ],
+                "Tatar": [
+                    "чигенү"
+                ],
+                "Bashkir": [
+                    "сиген"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ara"
+                ],
+                "Kazakh": [
+                    "азат жол"
+                ],
+                "Kyrgyz": [
+                    "аралык"
+                ],
+                "Karakalpak": [
+                    "aralıq"
+                ],
+                "Tatar": [
+                    "ара"
+                ],
+                "Bashkir": [
+                    "ара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "girinti"
+                ],
+                "Azerbaijani": [
+                    "girinti"
+                ],
+                "Kyrgyz": [
+                    "кертик"
+                ],
+                "Tatar": [
+                    "кырый"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kenar boşluğu"
+                ],
+                "Azerbaijani": [
+                    "kənar"
+                ],
+                "Turkmen": [
+                    "kenar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ойық"
+                ],
+                "Kyrgyz": [
+                    "оюк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paragraf başı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "baş setir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xatboshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىچكىرى بوشلۇق"
+                ]
+            }
+        }
+    ]
+}

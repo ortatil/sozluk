@@ -1,0 +1,120 @@
+# Mountain fern
+| Field | Detail |
+|---|---|
+| **ID** | i106167 |
+| **English** | mountain fern |
+| **Type** | noun |
+| **Definition** | common European mountain fern having fragrant lemon or balsam scented fronds |
+| **Source** | common |
+| **Ortatil** | qırıqqulaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қырыққұлақ | qırıqqulaq |
+
+```json
+{
+    "id": "i106167",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mountain fern",
+    "en_definition": "common European mountain fern having fragrant lemon or balsam scented fronds",
+    "tr_word": "dağ eğreltisi",
+    "tr_definition": "Limon veya balsam kokulu yapraklara sahip, yaygın bir Avrupa dağ eğrelti otu türü.",
+    "ru_word": "горный папоротник",
+    "ru_definition": "Обычный европейский горный папоротник с ароматными вайями, пахнущими лимоном или бальзамом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağ eğreltisi",
+                    "dağ eğrelti otu"
+                ],
+                "Turkmen": [
+                    "dag çopantelpegi",
+                    "dag paratysy"
+                ],
+                "Uzbek": [
+                    "tog' parandasi",
+                    "tog' sarxi"
+                ],
+                "Uyghur": [
+                    "تاغ پېپرۇچىسى",
+                    "تاغ پېپرۇچى",
+                    "تاغ سېرىقئوتى"
+                ],
+                "Kazakh": [
+                    "тау папоротнигі",
+                    "тау қырыққұлағы"
+                ],
+                "Karakalpak": [
+                    "tau paporotnigi",
+                    "tau qırıqbuını"
+                ],
+                "Tatar": [
+                    "тау папоротьнигы",
+                    "тау абагасы"
+                ],
+                "Bashkir": [
+                    "тау ҡырҡҡолағы",
+                    "тау папоротнигы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қырыққұлақ"
+                ],
+                "Kyrgyz": [
+                    "кырк кулак"
+                ],
+                "Karakalpak": [
+                    "qırıqbuın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dağ qıjısı"
+                ],
+                "Uzbek": [
+                    "tog' qirqqulog'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kokulu eğrelti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ətirli qıjı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоо папоротниги",
+                    "тоо папоротни"
+                ]
+            }
+        }
+    ]
+}
+```
+

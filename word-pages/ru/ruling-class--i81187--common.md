@@ -1,0 +1,249 @@
+# Ruling class
+| Field | Detail |
+|---|---|
+| **ID** | i81187 |
+| **English** | ruling class |
+| **Type** | noun |
+| **Definition** | the class of people exerting power or authority |
+| **Source** | common |
+| **Ortatil** | iqtödärlär |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **iqtödärlär** | **törelär** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ❌ | ❌ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.60 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **2.03** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاقسۆڭەكلەر | aqsöñäklär |
+| ئېلىت | elit |
+| **Kazakh** | |
+| ақсүйектер | aqsüyekter |
+| төрелер | töreler |
+| **Kyrgyz** | |
+| төрөлөр | törölör |
+| бийликтегилер | biyliktegiler |
+
+```json
+{
+    "id": "i81187",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ruling class",
+    "en_definition": "the class of people exerting power or authority",
+    "tr_word": "egemen sınıf",
+    "tr_definition": "gücü veya otoriteyi elinde bulunduran toplumsal sınıf",
+    "ru_word": "правящий класс",
+    "ru_definition": "социальный класс, обладающий властью или авторитетом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hâkim zümre"
+                ],
+                "Azerbaijani": [
+                    "hakim təbəqə",
+                    "hakim sinif"
+                ],
+                "Turkmen": [
+                    "hökümet",
+                    "häkimiyet"
+                ],
+                "Uzbek": [
+                    "hukmron sinf",
+                    "hokim tabaqa"
+                ],
+                "Uyghur": [
+                    "ھۆكۈمران سىنىپ",
+                    "ھاكىم سىنىپ"
+                ],
+                "Karakalpak": [
+                    "hákimdarlar",
+                    "hákimlik etioshiler"
+                ],
+                "Tatar": [
+                    "хаким сыйныф",
+                    "хакимнәр катламы"
+                ],
+                "Bashkir": [
+                    "хаким синыф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "idareci sınıf"
+                ],
+                "Azerbaijani": [
+                    "idarəedən sinif"
+                ],
+                "Tatar": [
+                    "идарә итүче катлам",
+                    "идарәче сыйныф"
+                ],
+                "Bashkir": [
+                    "идарә итеүсе синыф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "iqtidar"
+                ],
+                "Uyghur": [
+                    "ئاقسۆڭەكلەر"
+                ],
+                "Kazakh": [
+                    "ақсүйектер"
+                ],
+                "Kyrgyz": [
+                    "ак сөөктөр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "төрелер"
+                ],
+                "Kyrgyz": [
+                    "төрөлөр"
+                ],
+                "Karakalpak": [
+                    "tóreler"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "begler"
+                ],
+                "Kyrgyz": [
+                    "бийликтегилер",
+                    "бийлик ээлери"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "билеуші тап",
+                    "билік басындағылар"
+                ],
+                "Karakalpak": [
+                    "bilik iyeleri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yönetici sınıf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "erkân"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seçkinler"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əyanlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "aksakallar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "serdarlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hukmron tabaqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zodagonlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aslzodalar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېلىت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башкаруучу тап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өҫтөн синыф"
+                ]
+            }
+        }
+    ]
+}
+```
+

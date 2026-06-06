@@ -1,0 +1,105 @@
+{
+    "id": "i49901",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "airplane",
+    "en_definition": "an aircraft that has a fixed wing and is powered by propellers or jets",
+    "tr_word": "uçak",
+    "tr_definition": "sabit kanatlı, pervaneli veya jet motorlu hava taşıtı",
+    "ru_word": "самолёт",
+    "ru_definition": "воздушное судно с неподвижным крылом, приводимое в движение пропеллерами или реактивными двигателями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uçak"
+                ],
+                "Azerbaijani": [
+                    "uçaq"
+                ],
+                "Turkmen": [
+                    "uçar"
+                ],
+                "Uzbek": [
+                    "uchoq"
+                ],
+                "Uyghur": [
+                    "ئۇچار"
+                ],
+                "Kazakh": [
+                    "ұшақ"
+                ],
+                "Kyrgyz": [
+                    "учак"
+                ],
+                "Karakalpak": [
+                    "ushaq"
+                ],
+                "Tatar": [
+                    "очкыч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tayyare"
+                ],
+                "Azerbaijani": [
+                    "təyyarə"
+                ],
+                "Turkmen": [
+                    "taýýara"
+                ],
+                "Uzbek": [
+                    "tayyora"
+                ],
+                "Uyghur": [
+                    "تەييارە"
+                ],
+                "Kyrgyz": [
+                    "тайяра"
+                ],
+                "Karakalpak": [
+                    "tayyara"
+                ],
+                "Tatar": [
+                    "тәйярә"
+                ],
+                "Bashkir": [
+                    "тәйәрә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئايروپىلان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуекеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "осоусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "оса торған машина"
+                ]
+            }
+        }
+    ]
+}

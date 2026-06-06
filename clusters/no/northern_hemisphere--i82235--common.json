@@ -1,0 +1,82 @@
+{
+    "id": "i82235",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "northern hemisphere",
+    "en_definition": "the hemisphere that is to the north of the equator",
+    "tr_word": "kuzey yarımküre",
+    "tr_definition": "Ekvator'un kuzeyinde kalan yarımküre",
+    "ru_word": "северное полушарие",
+    "ru_definition": "часть Земли, расположенная к северу от экватора",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "түндүк жарым шар",
+                    "түндүк жарым тоголок"
+                ],
+                "Karakalpak": [
+                    "túndіk yarım shar"
+                ],
+                "Tatar": [
+                    "төньяк ярымшар",
+                    "төньяк ярымшара"
+                ],
+                "Bashkir": [
+                    "төньяҡ ярымшар",
+                    "төньяҡ ярым шар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şimal yarımkürəsi",
+                    "şimal yarımkürə"
+                ],
+                "Uzbek": [
+                    "shimoliy yarim shar",
+                    "shimoliy yarim kurra"
+                ],
+                "Uyghur": [
+                    "شىمالىي يېرىم شار",
+                    "شىمالىي يېرىم كۇرە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuzey yarımküre",
+                    "kuzey yarım küre",
+                    "kuzey nısf-ı küresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demirgazyk ýarym şary",
+                    "demirgazyk ýarym şar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстік жарты шар",
+                    "солтүстік жарты бөлік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "arqa yarım shar"
+                ]
+            }
+        }
+    ]
+}

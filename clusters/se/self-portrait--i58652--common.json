@@ -1,0 +1,96 @@
+{
+    "id": "i58652",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "self-portrait",
+    "en_definition": "a portrait of yourself created by yourself",
+    "tr_word": "otoportre",
+    "tr_definition": "bir sanatçının kendi yaptığı portresi",
+    "ru_word": "автопортрет",
+    "ru_definition": "портрет самого себя, выполненный автором",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "özportre"
+                ],
+                "Azerbaijani": [
+                    "özportret",
+                    "öz şəkli"
+                ],
+                "Turkmen": [
+                    "öz suratyny çekme",
+                    "öz keşbi",
+                    "öz şekili"
+                ],
+                "Uzbek": [
+                    "oʻzsurat",
+                    "oʻz-oʻzini tasvirlash"
+                ],
+                "Uyghur": [
+                    "ئۆز سۈرىتى",
+                    "ئۆز تەسۋىرى",
+                    "ئۆز ئوبرازى"
+                ],
+                "Kyrgyz": [
+                    "өзүнүн сүрөтү",
+                    "өз сүрөтү"
+                ],
+                "Karakalpak": [
+                    "óz-ózin sızıo",
+                    "óz súoreti"
+                ],
+                "Tatar": [
+                    "үзсурәт"
+                ],
+                "Bashkir": [
+                    "үҙһүрәт",
+                    "үҙ-үҙеңдең һүрәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtoportret"
+                ],
+                "Uzbek": [
+                    "avtoportret"
+                ],
+                "Kazakh": [
+                    "автопортрет"
+                ],
+                "Kyrgyz": [
+                    "автопортрет"
+                ],
+                "Karakalpak": [
+                    "awtoportret"
+                ],
+                "Tatar": [
+                    "автопортрет"
+                ],
+                "Bashkir": [
+                    "автопортрет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendi resmi",
+                    "kendi portresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өзін-өзі бейнелеу",
+                    "өзіндік бейне"
+                ]
+            }
+        }
+    ]
+}

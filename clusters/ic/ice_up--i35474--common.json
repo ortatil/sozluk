@@ -1,0 +1,127 @@
+{
+    "id": "i35474",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "ice up",
+    "en_definition": "become covered with a layer of ice; of a surface such as a window",
+    "tr_word": "buz tutmak",
+    "tr_definition": "bir yüzeyin, örneğin bir pencerenin, bir buz tabakasıyla kaplanması",
+    "ru_word": "обледенеть",
+    "ru_definition": "покрыться слоем льда; о поверхности, например, об окне",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buz tutmak",
+                    "buzlanmak"
+                ],
+                "Azerbaijani": [
+                    "buz bağlamaq",
+                    "buzlaşmaq"
+                ],
+                "Turkmen": [
+                    "buzlamak",
+                    "buz baglamak"
+                ],
+                "Uzbek": [
+                    "muz bogʻlamoq"
+                ],
+                "Kazakh": [
+                    "мұз басу",
+                    "мұз қату"
+                ],
+                "Kyrgyz": [
+                    "муз басуу"
+                ],
+                "Karakalpak": [
+                    "muzlao",
+                    "muz basıo",
+                    "muzlap qalıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "donmak"
+                ],
+                "Azerbaijani": [
+                    "donmaq"
+                ],
+                "Turkmen": [
+                    "doňmak"
+                ],
+                "Kyrgyz": [
+                    "тоңуу"
+                ],
+                "Karakalpak": [
+                    "tońıo"
+                ],
+                "Bashkir": [
+                    "туңыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muzlamoq",
+                    "muz bilan qoplanmoq"
+                ],
+                "Uyghur": [
+                    "مۇز تۇتماق",
+                    "مۇزلىماق",
+                    "مۇز بىلەن قاپلانماق"
+                ],
+                "Kazakh": [
+                    "мұздану"
+                ],
+                "Kyrgyz": [
+                    "муздоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qotmoq"
+                ],
+                "Tatar": [
+                    "катлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қыраулану"
+                ],
+                "Kyrgyz": [
+                    "кыроо басуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бозлану",
+                    "боз белән каплану"
+                ],
+                "Bashkir": [
+                    "боҙланыу",
+                    "боҙ менән ҡапланыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өшү"
+                ]
+            }
+        }
+    ]
+}

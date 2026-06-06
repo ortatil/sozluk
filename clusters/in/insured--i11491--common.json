@@ -1,0 +1,112 @@
+{
+    "id": "i11491",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "insured",
+    "en_definition": "covered by insurance",
+    "tr_word": "sigortalı",
+    "tr_definition": "sigorta kapsamında olan, sigortası yapılmış olan",
+    "ru_word": "застрахованный",
+    "ru_definition": "защищенный договором страхования",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sigortalı"
+                ],
+                "Azerbaijani": [
+                    "sığortalı"
+                ],
+                "Uzbek": [
+                    "sugʻurtalangan",
+                    "sugʻurta qilingan"
+                ],
+                "Uyghur": [
+                    "سۇغۇرتىلانغان",
+                    "سۇغۇرتىلىق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kepillendirilen"
+                ],
+                "Uzbek": [
+                    "kafolatlangan"
+                ],
+                "Kazakh": [
+                    "кепілдендірілген"
+                ],
+                "Karakalpak": [
+                    "kepillengen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teminatlı"
+                ],
+                "Azerbaijani": [
+                    "təminatlı",
+                    "zəmanətli"
+                ],
+                "Tatar": [
+                    "тәэмин ителгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сақтандырылған"
+                ],
+                "Bashkir": [
+                    "һаҡландырылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "камсыздандырылган",
+                    "камсыздалган"
+                ],
+                "Karakalpak": [
+                    "kamsızlandırılǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иминиятләштерелгән",
+                    "иминиятле"
+                ],
+                "Bashkir": [
+                    "именләтелгән",
+                    "именләнгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güvenceli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ätiýaçlandyrylan",
+                    "ätiýaçly"
+                ]
+            }
+        }
+    ]
+}

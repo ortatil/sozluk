@@ -1,0 +1,126 @@
+# Wedding ring
+| Field | Detail |
+|---|---|
+| **ID** | i61058 |
+| **English** | wedding ring |
+| **Type** | noun |
+| **Definition** | a ring (usually plain gold) given to the bride (and sometimes one is also given to the groom) at the wedding |
+| **Source** | common |
+| **Ortatil** | alyans |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i61058",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wedding ring",
+    "en_definition": "a ring (usually plain gold) given to the bride (and sometimes one is also given to the groom) at the wedding",
+    "tr_word": "alyans",
+    "tr_definition": "Evlilik bağıyla birbirine bağlanmış olanların taktığı, genellikle altın halka.",
+    "ru_word": "обручальное кольцо",
+    "ru_definition": "Кольцо, которое жених и невеста надевают друг другу на палец во время свадебного обряда.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nikah yüzüğü"
+                ],
+                "Azerbaijani": [
+                    "nişan üzüyü",
+                    "nikah üzüyü"
+                ],
+                "Turkmen": [
+                    "nikah ýüzügi"
+                ],
+                "Uzbek": [
+                    "nikoh uzugi"
+                ],
+                "Uyghur": [
+                    "نىكاھ ئۈزۈكى"
+                ],
+                "Kazakh": [
+                    "неке сақинасы",
+                    "неке жүзігі"
+                ],
+                "Kyrgyz": [
+                    "нике шакек",
+                    "нике шакеги",
+                    "нике жүзүк"
+                ],
+                "Karakalpak": [
+                    "neke júzigi",
+                    "neke saqiynesi"
+                ],
+                "Tatar": [
+                    "никах йөзеге"
+                ],
+                "Bashkir": [
+                    "никах балдағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "toý ýüzügi"
+                ],
+                "Uyghur": [
+                    "توي ئۈزۈكى"
+                ],
+                "Bashkir": [
+                    "туй балдағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alyans"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "evlilik yüzüğü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kəbin üzüyü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "unashuv uzugi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кәләш йөзеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өйләнү йөзеге"
+                ]
+            }
+        }
+    ]
+}
+```
+

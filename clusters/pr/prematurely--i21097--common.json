@@ -1,0 +1,162 @@
+{
+    "id": "i21097",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "prematurely",
+    "en_definition": "too soon; in a premature manner",
+    "tr_word": "vaktinden önce",
+    "tr_definition": "beklenen veya normal zamandan daha erken bir şekilde",
+    "ru_word": "преждевременно",
+    "ru_definition": "слишком рано; раньше положенного или ожидаемого времени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vaktinden önce",
+                    "vakitli vakitsiz"
+                ],
+                "Azerbaijani": [
+                    "vaxtsız",
+                    "vaxtından əvvəl"
+                ],
+                "Turkmen": [
+                    "wagtyndan öň",
+                    "biwagt"
+                ],
+                "Uzbek": [
+                    "vaqtidan oldin"
+                ],
+                "Uyghur": [
+                    "ۋاقتىدىن بۇرۇن",
+                    "بىۋاقىت"
+                ],
+                "Kazakh": [
+                    "уақытынан бұрын"
+                ],
+                "Karakalpak": [
+                    "oaqtınan burın"
+                ],
+                "Tatar": [
+                    "вакытсыз",
+                    "вакытыннан алда"
+                ],
+                "Bashkir": [
+                    "ваҡытһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "erken"
+                ],
+                "Turkmen": [
+                    "ertiräk",
+                    "ir"
+                ],
+                "Uzbek": [
+                    "erta"
+                ],
+                "Kazakh": [
+                    "ерте",
+                    "ертерек"
+                ],
+                "Kyrgyz": [
+                    "эрте",
+                    "эртелеп"
+                ],
+                "Karakalpak": [
+                    "erte",
+                    "erterek"
+                ],
+                "Tatar": [
+                    "иртә"
+                ],
+                "Bashkir": [
+                    "иртә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мезгілсіз"
+                ],
+                "Kyrgyz": [
+                    "мезгилсиз"
+                ],
+                "Karakalpak": [
+                    "mezgilsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zamansız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tez",
+                    "təcil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bişməmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bevaqt",
+                    "barvaqt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۇرۇن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بالدۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "убактысынан мурда"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иртәрәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "алдан"
+                ]
+            }
+        }
+    ]
+}

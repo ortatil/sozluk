@@ -1,0 +1,308 @@
+# Able
+| Field | Detail |
+|---|---|
+| **ID** | i1695 |
+| **English** | able |
+| **Type** | adjective |
+| **Definition** | having inherent physical or mental ability or capacity |
+| **Source** | core |
+| **Ortatil** | qadir, qabiliyatlı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qadir** | **qabiliyatlı** | **bacarıklı** |
+|---|---|---|---|
+| Turkish | ✅ | ❌ | ✅ |
+| Azerbaijani | ✅ | ✅ | ✅ |
+| Turkmen | ✅ | ❌ | ✅ |
+| Uzbek | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ |
+| Kazakh | ❌ | ✅ | ❌ |
+| Kyrgyz | ✅ | ✅ | ❌ |
+| Karakalpak | ❌ | ✅ | ❌ |
+| Tatar | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.33 | 1 |
+| *Qarluq Subtotal* | 1 | 1 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.60 | 0 |
+| *In All* | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **3.60** | **2.93** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قادىر | qadir |
+| قابىلىيەتلىك | qabiliyätlik |
+| ماھىر | mahir |
+| ئىقتىدارلىق | iqtidarliq |
+| **Kazakh** | |
+| қабілетті | qabiletti |
+| икемді | ikemdi |
+| бейім | beyim |
+| жарамды | jaramdı |
+| **Kyrgyz** | |
+| кудуреттүү | kudurettüü |
+| кабилеттүү | kabilettüü |
+| жөндөмдүү | jöndömdüü |
+| шыктуу | şıktuu |
+| эптүү | eptüü |
+| **Tatar** | |
+| кадир | kadir |
+| кодрәтле | kodrätle |
+| мөктәдир | möktädir |
+| сәләтле | sälätle |
+| **Bashkir** | |
+| ҡөҙрәтле | qözrätle |
+| һәләтле | hälätle |
+
+```json
+{
+    "id": "i1695",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "able",
+    "en_definition": "having inherent physical or mental ability or capacity",
+    "tr_word": "muktedir",
+    "tr_definition": "bir şeyi yapmaya gücü yeten, becerikli, yetenekli",
+    "ru_word": "способный",
+    "ru_definition": "обладающий необходимыми физическими или умственными силами, навыками для выполнения чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kadir"
+                ],
+                "Azerbaijani": [
+                    "qadir"
+                ],
+                "Turkmen": [
+                    "kadyr"
+                ],
+                "Uzbek": [
+                    "qodir"
+                ],
+                "Uyghur": [
+                    "قادىر"
+                ],
+                "Kyrgyz": [
+                    "кудуреттүү"
+                ],
+                "Tatar": [
+                    "кадир",
+                    "кодрәтле"
+                ],
+                "Bashkir": [
+                    "ҡөҙрәтле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qabiliyyətli"
+                ],
+                "Uzbek": [
+                    "qobiliyatli"
+                ],
+                "Uyghur": [
+                    "قابىلىيەتلىك"
+                ],
+                "Kazakh": [
+                    "қабілетті"
+                ],
+                "Kyrgyz": [
+                    "кабилеттүү"
+                ],
+                "Karakalpak": [
+                    "qabıletli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "becerikli"
+                ],
+                "Azerbaijani": [
+                    "bacarıqlı",
+                    "bacaran"
+                ],
+                "Turkmen": [
+                    "başarnykly"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қолынан келетін"
+                ],
+                "Karakalpak": [
+                    "qolınan keletuǵın"
+                ],
+                "Tatar": [
+                    "кулыннан килүче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muktedir"
+                ],
+                "Tatar": [
+                    "мөктәдир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ukyply"
+                ],
+                "Karakalpak": [
+                    "uqıplı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сәләтле"
+                ],
+                "Bashkir": [
+                    "һәләтле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məharətli"
+                ],
+                "Uyghur": [
+                    "ماھىر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yetenekli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ehil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uzy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "layoqatli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "iste'dodli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yaroqli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىقتىدارلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "икемді"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейім"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жарамды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жөндөмдүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шыктуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эптүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sheber"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "мөмкинлеге булған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көсө еткән"
+                ]
+            }
+        }
+    ]
+}
+```
+

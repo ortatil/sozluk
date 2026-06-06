@@ -1,0 +1,120 @@
+{
+    "id": "i64207",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "right to liberty",
+    "en_definition": "the right to be free",
+    "tr_word": "özgürlük hakkı",
+    "tr_definition": "kişinin hür ve serbest olma hakkı",
+    "ru_word": "право на свободу",
+    "ru_definition": "право человека быть свободным",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "azadlıq hüququ"
+                ],
+                "Turkmen": [
+                    "azatlyk hukugy"
+                ],
+                "Uzbek": [
+                    "ozodlik huquqi"
+                ],
+                "Kazakh": [
+                    "азаттық құқығы"
+                ],
+                "Kyrgyz": [
+                    "азаттык укугу"
+                ],
+                "Karakalpak": [
+                    "azatlıq huqıqı"
+                ],
+                "Tatar": [
+                    "азатлык хокукы"
+                ],
+                "Bashkir": [
+                    "азатлыҡ хоҡуғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hürriyet hakkı"
+                ],
+                "Azerbaijani": [
+                    "hürriyyət haqqı"
+                ],
+                "Uzbek": [
+                    "hurriyat huquqi"
+                ],
+                "Uyghur": [
+                    "ھۆرلۈك ھوقۇقى"
+                ],
+                "Tatar": [
+                    "хөррият хокукы"
+                ],
+                "Bashkir": [
+                    "хөрриәт хоҡуғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "erkinlik hukugy"
+                ],
+                "Uzbek": [
+                    "erkinlik huquqi"
+                ],
+                "Uyghur": [
+                    "ئەركىنلىك ھوقۇقى"
+                ],
+                "Kazakh": [
+                    "еркіндік құқығы"
+                ],
+                "Kyrgyz": [
+                    "эркиндик укугу",
+                    "эркин болуу укугу"
+                ],
+                "Karakalpak": [
+                    "erkinlik huqıqı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирек хокукы"
+                ],
+                "Bashkir": [
+                    "ирек хоҡуғы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özgürlük hakkı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sərbəstlik hüququ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бостандық құқығы"
+                ]
+            }
+        }
+    ]
+}

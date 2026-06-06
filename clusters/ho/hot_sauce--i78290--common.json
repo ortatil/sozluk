@@ -1,0 +1,89 @@
+{
+    "id": "i78290",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hot sauce",
+    "en_definition": "a pungent peppery sauce",
+    "tr_word": "acı sos",
+    "tr_definition": "keskin ve biberli bir sos",
+    "ru_word": "острый соус",
+    "ru_definition": "пикантный соус на основе перца",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "acı sos",
+                    "acı biber sosu"
+                ],
+                "Azerbaijani": [
+                    "acı sous",
+                    "acı tamlı sous",
+                    "acı tamlı qatışıq"
+                ],
+                "Turkmen": [
+                    "ajy sous",
+                    "ajy goşundy",
+                    "ajy tagam"
+                ],
+                "Uzbek": [
+                    "achchiq qayla",
+                    "achchiq sous",
+                    "achchiq maza"
+                ],
+                "Uyghur": [
+                    "ئاچچىق كۆكتات قىيامى",
+                    "ئاچچىق قىيام",
+                    "ئاچچىق تېتىتقۇ"
+                ],
+                "Kazakh": [
+                    "ащы тұздық",
+                    "ащы дәмдеуіш",
+                    "ащы соус"
+                ],
+                "Kyrgyz": [
+                    "ачуу татымал",
+                    "ачуу чык",
+                    "ачуу соус"
+                ],
+                "Karakalpak": [
+                    "ashchı tuzlıq",
+                    "ashchı sous"
+                ],
+                "Tatar": [
+                    "ачы соус",
+                    "ачы тәмләткеч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "biber sosu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "борычлы соус"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "әсе соус",
+                    "әсе тәмләткес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "утлы соус"
+                ]
+            }
+        }
+    ]
+}

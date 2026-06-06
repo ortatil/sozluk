@@ -1,0 +1,172 @@
+# Meat safe
+| Field | Detail |
+|---|---|
+| **ID** | i56106 |
+| **English** | meat safe |
+| **Type** | noun |
+| **Definition** | a safe for storing meat |
+| **Source** | common |
+| **Ortatil** | göştdän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| گۆشخانە | göşxanä |
+| **Kazakh** | |
+| кептер | kepter |
+| кептерхана | kepterxana |
+
+```json
+{
+    "id": "i56106",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "meat safe",
+    "en_definition": "a safe for storing meat",
+    "tr_word": "tel dolap",
+    "tr_definition": "Yiyecekleri sineklerden ve haşerelerden korumak için kullanılan, her yanı tel kafesli dolap.",
+    "ru_word": "шкаф для мяса",
+    "ru_definition": "Проветриваемый шкаф или ящик с сетчатыми стенками для хранения мяса и защиты его от насекомых.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "et saklanýan dolap"
+                ],
+                "Kazakh": [
+                    "ет сақтағыш"
+                ],
+                "Kyrgyz": [
+                    "эт салгыч",
+                    "эт сактагыч"
+                ],
+                "Tatar": [
+                    "ит саклагыч",
+                    "ит шкафы"
+                ],
+                "Bashkir": [
+                    "ит һаҡлағыс",
+                    "ит шкафы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tel dolap"
+                ],
+                "Azerbaijani": [
+                    "teldolab"
+                ],
+                "Turkmen": [
+                    "et dolaby"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemek dolabı"
+                ],
+                "Kazakh": [
+                    "ет қоймасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "erzak dolabı"
+                ],
+                "Azerbaijani": [
+                    "ərzaq dolabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "go'shtdon"
+                ],
+                "Uyghur": [
+                    "گۆشخانە",
+                    "گۆش ساندۇقى",
+                    "گۆش ئىشكاپى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кептер",
+                    "кептерхана"
+                ],
+                "Karakalpak": [
+                    "kepterxana",
+                    "kápter"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ит келәте"
+                ],
+                "Bashkir": [
+                    "ит келәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dolab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "serpikli dolap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "javon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sandig'cha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эт идиш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "azıq-túlik saqlaǵısh"
+                ]
+            }
+        }
+    ]
+}
+```
+

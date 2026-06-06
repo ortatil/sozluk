@@ -1,0 +1,71 @@
+{
+    "id": "i51035",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bow tie",
+    "en_definition": "a man's tie that ties in a bow",
+    "tr_word": "papyon",
+    "tr_definition": "Erkeklerin gömlek yakasına taktıkları, fiyonk biçimindeki kravat.",
+    "ru_word": "галстук-бабочка",
+    "ru_definition": "Тип мужского галстука, завязываемого в виде банта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kelebek kravat"
+                ],
+                "Turkmen": [
+                    "kebelek galstuk",
+                    "kebelek"
+                ],
+                "Uzbek": [
+                    "kapalak nusxa bo'yinbog'",
+                    "kapalak bo'yinbog'",
+                    "kapalak-galstuk"
+                ],
+                "Uyghur": [
+                    "كېپىنەك گالستۇك",
+                    "كېپىنەكسىمان گالستۇك"
+                ],
+                "Kazakh": [
+                    "көбелек-галстук",
+                    "көбелек-байлауыш",
+                    "көбелек"
+                ],
+                "Kyrgyz": [
+                    "көпөлөк галстук",
+                    "көпөлөк-галстук"
+                ],
+                "Karakalpak": [
+                    "kóbelek-galstuk",
+                    "kóbelek-baylaǵısh"
+                ],
+                "Tatar": [
+                    "күбәләк-галстук",
+                    "күбәләк"
+                ],
+                "Bashkir": [
+                    "күбәләк-галстук",
+                    "күбәләк-бәйләүес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "papyon",
+                    "papyon kravat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kəpənək qalstuk",
+                    "kəpənək"
+                ]
+            }
+        }
+    ]
+}

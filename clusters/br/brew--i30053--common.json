@@ -1,0 +1,152 @@
+{
+    "id": "i30053",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "brew",
+    "en_definition": "prepare by brewing",
+    "tr_word": "demlemek",
+    "tr_definition": "Çay veya kahve gibi içecekleri sıcak suda bekleterek hazırlamak",
+    "ru_word": "заваривать",
+    "ru_definition": "Приготовлять напиток путем настаивания в горячей воде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "demlemek"
+                ],
+                "Azerbaijani": [
+                    "dəmləmək"
+                ],
+                "Turkmen": [
+                    "demlemek"
+                ],
+                "Uzbek": [
+                    "damlamoq"
+                ],
+                "Uyghur": [
+                    "دەملىمەك"
+                ],
+                "Kazakh": [
+                    "демдеу"
+                ],
+                "Kyrgyz": [
+                    "демдөө"
+                ],
+                "Karakalpak": [
+                    "demleu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaynatmak"
+                ],
+                "Turkmen": [
+                    "gaýnatmak"
+                ],
+                "Uyghur": [
+                    "قايناتماق"
+                ],
+                "Kazakh": [
+                    "қайнату"
+                ],
+                "Kyrgyz": [
+                    "кайнатуу"
+                ],
+                "Karakalpak": [
+                    "qaynatıu"
+                ],
+                "Tatar": [
+                    "кайнату"
+                ],
+                "Bashkir": [
+                    "ҡайнатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pişirmek"
+                ],
+                "Azerbaijani": [
+                    "bişirmək"
+                ],
+                "Turkmen": [
+                    "bişirmek"
+                ],
+                "Uzbek": [
+                    "pishirmoq"
+                ],
+                "Kazakh": [
+                    "пісіру"
+                ],
+                "Kyrgyz": [
+                    "бышыруу"
+                ],
+                "Tatar": [
+                    "пешерү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazırlamak"
+                ],
+                "Azerbaijani": [
+                    "hazırlamaq"
+                ],
+                "Tatar": [
+                    "әзерләү"
+                ],
+                "Bashkir": [
+                    "әҙерләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ашыту"
+                ],
+                "Kyrgyz": [
+                    "ачытуу"
+                ],
+                "Karakalpak": [
+                    "ashıtıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tayyorlamoq"
+                ],
+                "Uyghur": [
+                    "تەييارلىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төнәтү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дегәтләү"
+                ]
+            }
+        }
+    ]
+}

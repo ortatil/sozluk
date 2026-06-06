@@ -1,0 +1,92 @@
+{
+    "id": "i56800",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "out-basket",
+    "en_definition": "a wood or metal receptacle placed on your desk to hold your outgoing material",
+    "tr_word": "giden evrak sepeti",
+    "tr_definition": "Masada giden evrakları veya postaları koymak için kullanılan ahşap veya metal kap.",
+    "ru_word": "лоток для исходящей почты",
+    "ru_definition": "Деревянный или металлический контейнер на рабочем столе для документов, предназначенных к отправке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çıxan sənədlər qutusu",
+                    "çıxış qutusu"
+                ],
+                "Turkmen": [
+                    "çykyş sebedi",
+                    "çykyş gutusy"
+                ],
+                "Uzbek": [
+                    "chiqish qutisi",
+                    "chiqish savatchasi"
+                ],
+                "Uyghur": [
+                    "چىقىش ھۆججەت قۇتىسى",
+                    "چىقىرىش ساندۇقچىسى",
+                    "چىقىش قۇتىسى"
+                ],
+                "Kazakh": [
+                    "шығыс жәшігі",
+                    "шығыс науасы",
+                    "шығыс қоржыны"
+                ],
+                "Kyrgyz": [
+                    "чыгыш куржуну",
+                    "чыгыш кутусу",
+                    "чыгыш кагаздар кутусу"
+                ],
+                "Karakalpak": [
+                    "shıǵıs jáshіgі",
+                    "shıǵıs qaltası",
+                    "shıǵıs sebetі"
+                ],
+                "Tatar": [
+                    "чыгыш кәгазьләре савыты",
+                    "чыгыш кәгазьләре өчен кәрзин",
+                    "чыгыш кәгазьләре өчен тартма"
+                ],
+                "Bashkir": [
+                    "сығыш кәрзине",
+                    "сығыш йәшниге",
+                    "сығыш ҡағыҙҙар һауыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "giden evrak kutusu",
+                    "giden kutusu"
+                ],
+                "Azerbaijani": [
+                    "gedən sənədlər qabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "evrak tepsisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iberilýänler sebedi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jo'natmalar qutisi"
+                ]
+            }
+        }
+    ]
+}

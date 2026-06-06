@@ -1,0 +1,101 @@
+{
+    "id": "i54544",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hairbrush",
+    "en_definition": "a brush used to groom a person's hair",
+    "tr_word": "saç fırçası",
+    "tr_definition": "Saçları düzeltmek ve taramak için kullanılan fırça.",
+    "ru_word": "расчёска",
+    "ru_definition": "Инструмент в виде щётки для расчёсывания и укладки волос.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarak"
+                ],
+                "Azerbaijani": [
+                    "darax"
+                ],
+                "Turkmen": [
+                    "darak"
+                ],
+                "Uzbek": [
+                    "taroq"
+                ],
+                "Uyghur": [
+                    "تاراق"
+                ],
+                "Kazakh": [
+                    "тарақ"
+                ],
+                "Kyrgyz": [
+                    "тарак"
+                ],
+                "Karakalpak": [
+                    "taraq"
+                ],
+                "Tatar": [
+                    "тарак"
+                ],
+                "Bashkir": [
+                    "тараҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saç fırçası"
+                ],
+                "Azerbaijani": [
+                    "saç fırçası"
+                ],
+                "Turkmen": [
+                    "saç daragy"
+                ],
+                "Uyghur": [
+                    "چاچ چوتكىسى"
+                ],
+                "Kazakh": [
+                    "шаш тарақ"
+                ],
+                "Karakalpak": [
+                    "shash taraq"
+                ],
+                "Tatar": [
+                    "чәч тарагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shchyotka-taroq"
+                ],
+                "Kyrgyz": [
+                    "щетка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кылкай"
+                ],
+                "Bashkir": [
+                    "ҡылтараҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fırça"
+                ]
+            }
+        }
+    ]
+}

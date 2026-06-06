@@ -1,0 +1,113 @@
+{
+    "id": "i75751",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "earthquake",
+    "en_definition": "shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity",
+    "tr_word": "deprem",
+    "tr_definition": "Yer kabuğunun derin katmanlarının kırılıp yer değiştirmesiyle oluşan sarsıntı.",
+    "ru_word": "землетрясение",
+    "ru_definition": "Подземные толчки и колебания земной поверхности, возникающие в результате внезапных смещений и разрывов в земной коре.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zelzele"
+                ],
+                "Azerbaijani": [
+                    "zəlzələ"
+                ],
+                "Turkmen": [
+                    "zelzele"
+                ],
+                "Uzbek": [
+                    "zilzila"
+                ],
+                "Uyghur": [
+                    "زىلزىلە"
+                ],
+                "Kazakh": [
+                    "зілзала",
+                    "зәлзәлә"
+                ],
+                "Kyrgyz": [
+                    "зилзала"
+                ],
+                "Karakalpak": [
+                    "zilzila"
+                ],
+                "Tatar": [
+                    "зилзилә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yeraltı təkan"
+                ],
+                "Turkmen": [
+                    "ýertitreme"
+                ],
+                "Uzbek": [
+                    "yer qimirlashi"
+                ],
+                "Uyghur": [
+                    "يەر تەۋرەش"
+                ],
+                "Kazakh": [
+                    "жер сілкінісі"
+                ],
+                "Kyrgyz": [
+                    "жер титирөө"
+                ],
+                "Karakalpak": [
+                    "jer silkinisi"
+                ],
+                "Tatar": [
+                    "җир тетрәү"
+                ],
+                "Bashkir": [
+                    "ер тетрәү",
+                    "ер һелкенеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deprem"
+                ],
+                "Azerbaijani": [
+                    "deprem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lerze"
+                ],
+                "Uzbek": [
+                    "larza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sarsıntı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыймыл"
+                ]
+            }
+        }
+    ]
+}

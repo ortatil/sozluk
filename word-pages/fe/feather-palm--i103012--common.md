@@ -1,0 +1,123 @@
+# Feather palm
+| Field | Detail |
+|---|---|
+| **ID** | i103012 |
+| **English** | feather palm |
+| **Type** | noun |
+| **Definition** | palm having pinnate or featherlike leaves |
+| **Source** | common |
+| **Ortatil** | kurma |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| курма | kurma |
+
+```json
+{
+    "id": "i103012",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "feather palm",
+    "en_definition": "palm having pinnate or featherlike leaves",
+    "tr_word": "tüysü yapraklı palmiye",
+    "tr_definition": "Tüysü veya kuş tüyüne benzeyen yapraklara sahip palmiye türü.",
+    "ru_word": "перистолистная пальма",
+    "ru_definition": "Пальма с перистыми или похожими на перья листьями.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tüysü yapraklı palmiye"
+                ],
+                "Kazakh": [
+                    "қауырсын жапырақты пальма",
+                    "қауырсынды пальма"
+                ],
+                "Tatar": [
+                    "каурый яфраклы пальма",
+                    "каурыйсыман пальма"
+                ],
+                "Bashkir": [
+                    "ҡауырһын япраҡлы пальма",
+                    "ҡауырһынлы пальма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "perli palma"
+                ],
+                "Uzbek": [
+                    "patli palma",
+                    "parsimon palma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "курма дарагы",
+                    "курма"
+                ],
+                "Karakalpak": [
+                    "qurama japıraqlı palma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kanatlı palmiye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lələkvari xurma",
+                    "lələkyarpaqlı xurma",
+                    "lələkvari palma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýelekli palma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پەيسىمان خورما دەرىخى",
+                    "پەيسىمان يوپۇرماقلىق خورما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "куш канаттуу курма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "palma"
+                ]
+            }
+        }
+    ]
+}
+```
+

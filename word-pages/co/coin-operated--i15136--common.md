@@ -1,0 +1,164 @@
+# Coin-operated
+| Field | Detail |
+|---|---|
+| **ID** | i15136 |
+| **English** | coin-operated |
+| **Type** | adjective |
+| **Definition** | of devices that do not operate without the prior insertion of one or more coins |
+| **Source** | common |
+| **Ortatil** | täñgili |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **täñgili** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەڭگىلىك | täñgilik |
+| **Tatar** | |
+| тәңкәле | täñkäle |
+| **Bashkir** | |
+| тәңкәле | täñkäle |
+| аҡсалы | aqsalı |
+
+```json
+{
+    "id": "i15136",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "coin-operated",
+    "en_definition": "of devices that do not operate without the prior insertion of one or more coins",
+    "tr_word": "madeni parayla çalışan",
+    "tr_definition": "bir veya daha fazla madeni para yerleştirilmeden çalışmayan cihazlar için kullanılır",
+    "ru_word": "автомат",
+    "ru_definition": "описание устройств, которые не работают без предварительной вставки одной или нескольких монет",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "teňňe bilen işleýän",
+                    "teňňeli"
+                ],
+                "Uzbek": [
+                    "tanga bilan ishlaydigan",
+                    "tanga orqali harakatlanadigan",
+                    "tanga bilan yurgiziladigan"
+                ],
+                "Uyghur": [
+                    "تەڭگە بىلەن ئىشلەيدىغان",
+                    "تەڭگە ئارقىلىق باشقۇرۇلىدىغان",
+                    "تەڭگىلىك"
+                ],
+                "Kazakh": [
+                    "тиынмен істейтін",
+                    "тиынмен жұмыс істейтін",
+                    "тиын қабылдайтын"
+                ],
+                "Tatar": [
+                    "тәңкәле",
+                    "тәңкә белән эшләүче"
+                ],
+                "Bashkir": [
+                    "тәңкә менән эшләгән",
+                    "тәңкәле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paralı"
+                ],
+                "Bashkir": [
+                    "аҡсалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "jetonlu"
+                ],
+                "Azerbaijani": [
+                    "jetonlu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pullu"
+                ],
+                "Turkmen": [
+                    "pul bilen işleýän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тыйын менен иштөөчү",
+                    "тыйын аркылуу иштөөчү",
+                    "тыйын салгычтуу"
+                ],
+                "Karakalpak": [
+                    "tıyın menen isleytuǵın",
+                    "tıyın arqalı isleytuǵın",
+                    "tıyın salınatuǵın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "акча белән эшләүче"
+                ],
+                "Bashkir": [
+                    "аҡса менән эшләгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "madeni para ile çalışan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bozuk para ile çalışan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəpiklə işləyən"
+                ]
+            }
+        }
+    ]
+}
+```
+

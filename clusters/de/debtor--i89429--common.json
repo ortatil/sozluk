@@ -1,0 +1,102 @@
+{
+    "id": "i89429",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "debtor",
+    "en_definition": "a person who owes a creditor; someone who has the obligation of paying a debt",
+    "tr_word": "borçlu",
+    "tr_definition": "bir alacaklıya karşı borcu olan, bir şeyi ödemekle yükümlü olan kimse",
+    "ru_word": "должник",
+    "ru_definition": "лицо, которое имеет обязательство выплатить долг кредитору",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "borçlu"
+                ],
+                "Azerbaijani": [
+                    "borclu"
+                ],
+                "Turkmen": [
+                    "borçly"
+                ],
+                "Uzbek": [
+                    "bo'rchdor"
+                ],
+                "Kazakh": [
+                    "борышкер"
+                ],
+                "Tatar": [
+                    "бурычлы",
+                    "бурычдар"
+                ],
+                "Bashkir": [
+                    "бурыслы",
+                    "бурыслы кеше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "medyun"
+                ],
+                "Azerbaijani": [
+                    "mədyun"
+                ],
+                "Uyghur": [
+                    "مەديۇن"
+                ],
+                "Tatar": [
+                    "мәдиен"
+                ],
+                "Bashkir": [
+                    "мәҙйүн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bergidar"
+                ],
+                "Uyghur": [
+                    "قەرزدار",
+                    "بەرەمدار"
+                ],
+                "Kazakh": [
+                    "берешек"
+                ],
+                "Kyrgyz": [
+                    "бересе"
+                ],
+                "Karakalpak": [
+                    "bereshekdar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qarzdor",
+                    "qarzdor shaxs"
+                ],
+                "Kazakh": [
+                    "қарыздар"
+                ],
+                "Kyrgyz": [
+                    "карыздар",
+                    "карызкор"
+                ],
+                "Karakalpak": [
+                    "qarızdar",
+                    "qarızlı"
+                ]
+            }
+        }
+    ]
+}

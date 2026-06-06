@@ -1,0 +1,106 @@
+{
+    "id": "i76477",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fast food",
+    "en_definition": "inexpensive food (hamburgers or chicken or milkshakes) prepared and served quickly",
+    "tr_word": "hazır yemek",
+    "tr_definition": "Restoranlarda çok çabuk hazırlanan ve servis edilen, genellikle paketlenmiş olan yiyecekler.",
+    "ru_word": "фастфуд",
+    "ru_definition": "Пища, приготовленная для быстрого употребления, обычно в специализированных заведениях.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tezbazar yemək"
+                ],
+                "Uzbek": [
+                    "tezpishar taom",
+                    "tezkor taom"
+                ],
+                "Uyghur": [
+                    "تېز تاماق",
+                    "تېز تەييارلىنىدىغان تاماق"
+                ],
+                "Kazakh": [
+                    "тез тағам"
+                ],
+                "Kyrgyz": [
+                    "тез татым",
+                    "тез даярдалуучу тамак"
+                ],
+                "Karakalpak": [
+                    "tez tayarlanatuǵın aoqat",
+                    "tez aoqat"
+                ],
+                "Tatar": [
+                    "тиз ашамлык",
+                    "тиз әзерләнүче ризык"
+                ],
+                "Bashkir": [
+                    "тиҙ аш",
+                    "тиҙ ашамлыҡ",
+                    "тиҙ әҙерләнгән аш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayaküstü yemek"
+                ],
+                "Azerbaijani": [
+                    "ayaqüstü yemək"
+                ],
+                "Tatar": [
+                    "аяк өсте ашамлык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taýýar nahar"
+                ],
+                "Uzbek": [
+                    "tayyor taom"
+                ],
+                "Kazakh": [
+                    "дайын ас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hazır yemek",
+                    "hızlı yemek"
+                ],
+                "Azerbaijani": [
+                    "hazır yemək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жедел тағам"
+                ],
+                "Kyrgyz": [
+                    "жеңил тамак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çalt iýmit",
+                    "çalt nahar"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "id": "i40523",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bombardment",
+    "en_definition": "an attack by dropping bombs",
+    "tr_word": "bombardıman",
+    "tr_definition": "bomba atarak yapılan saldırı",
+    "ru_word": "бомбардировка",
+    "ru_definition": "атака с использованием сброса бомб",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bombardıman",
+                    "bombalama"
+                ],
+                "Azerbaijani": [
+                    "bombardman",
+                    "bombalama"
+                ],
+                "Turkmen": [
+                    "bombalama"
+                ],
+                "Uzbek": [
+                    "bombardimon"
+                ],
+                "Uyghur": [
+                    "بومباردىمان",
+                    "بومبا يېغدۇرۇش",
+                    "بومبا ھۇجۇمى"
+                ],
+                "Kazakh": [
+                    "бомбалау"
+                ],
+                "Kyrgyz": [
+                    "бомбалоо"
+                ],
+                "Karakalpak": [
+                    "bombalao"
+                ],
+                "Tatar": [
+                    "бомбалау",
+                    "бомба яудыру"
+                ],
+                "Bashkir": [
+                    "бомбалау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "atəşə tutma"
+                ],
+                "Turkmen": [
+                    "atylşyk"
+                ],
+                "Kazakh": [
+                    "атқылау"
+                ],
+                "Kyrgyz": [
+                    "аткылоо"
+                ],
+                "Karakalpak": [
+                    "atqılao"
+                ],
+                "Bashkir": [
+                    "атҡылау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "topa tutma"
+                ],
+                "Turkmen": [
+                    "topa tutma"
+                ],
+                "Uzbek": [
+                    "to'pga tutish"
+                ],
+                "Bashkir": [
+                    "утҡа тотоу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'qqa tutish"
+                ],
+                "Tatar": [
+                    "уткә тоту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "соққы"
+                ],
+                "Kyrgyz": [
+                    "сокку"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bombardimon qilish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "hújim"
+                ]
+            }
+        }
+    ]
+}

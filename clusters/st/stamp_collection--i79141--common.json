@@ -1,0 +1,75 @@
+{
+    "id": "i79141",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stamp collection",
+    "en_definition": "a collection of stamps",
+    "tr_word": "pul koleksiyonu",
+    "tr_definition": "posta pullarının biriktirilmesi ve düzenlenmesiyle oluşturulan koleksiyon",
+    "ru_word": "коллекция марок",
+    "ru_definition": "собрание почтовых марок, систематизированное по определенным признакам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "marka kolleksiyası"
+                ],
+                "Turkmen": [
+                    "marka ýygyndysy",
+                    "marka kolleksiýasy"
+                ],
+                "Uzbek": [
+                    "markalar to'plami",
+                    "markalar majmuasi"
+                ],
+                "Uyghur": [
+                    "ماركا توپلاش",
+                    "ماركا يىغىش",
+                    "ماركا ساقلاش"
+                ],
+                "Kazakh": [
+                    "марка жинағы",
+                    "маркалар жиынтығы"
+                ],
+                "Kyrgyz": [
+                    "марка жыйнагы",
+                    "маркалар жыйнагы"
+                ],
+                "Karakalpak": [
+                    "markalar jıynaǵı",
+                    "markalar kollekciyası"
+                ],
+                "Tatar": [
+                    "маркалар җыелмасы",
+                    "маркалар коллекциясе"
+                ],
+                "Bashkir": [
+                    "маркалар йыйылмаһы",
+                    "маркалар коллекцияһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pul koleksiyonu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pul biriktirme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "poçt markası kolleksiyası"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+# Graduate nurse
+| Field | Detail |
+|---|---|
+| **ID** | i90276 |
+| **English** | graduate nurse |
+| **Type** | noun |
+| **Definition** | someone who has completed the course of study (including hospital practice) at a nurses training school |
+| **Source** | common |
+| **Ortatil** | hämşirä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| емшібике | yemşibike |
+| мейірбике | meyirbike |
+| мейірбан | meyirban |
+| **Kyrgyz** | |
+| медайым | medayım |
+
+```json
+{
+    "id": "i90276",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "graduate nurse",
+    "en_definition": "someone who has completed the course of study (including hospital practice) at a nurses training school",
+    "tr_word": "diplomalı hemşire",
+    "tr_definition": "Bir hemşirelik okulundaki eğitimini ve hastane stajını başarıyla tamamlamış kişi.",
+    "ru_word": "дипломированная медсестра",
+    "ru_definition": "Лицо, успешно окончившее курс обучения в школе медицинских сестер, включая больничную практику.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şepagat uýasy"
+                ],
+                "Uzbek": [
+                    "shafqat hamshirasi"
+                ],
+                "Karakalpak": [
+                    "shápáátker"
+                ],
+                "Tatar": [
+                    "шәфкать туташы"
+                ],
+                "Bashkir": [
+                    "шәфҡәт туташы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "medisina uýasy"
+                ],
+                "Kyrgyz": [
+                    "медайым"
+                ],
+                "Karakalpak": [
+                    "medicina biykesi"
+                ],
+                "Tatar": [
+                    "медицина туташы"
+                ],
+                "Bashkir": [
+                    "медицина туташы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diplomalı hemşire"
+                ],
+                "Azerbaijani": [
+                    "diplomlu tibb bacısı"
+                ],
+                "Uzbek": [
+                    "tibbiyot hamshirasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "akylly uýa"
+                ],
+                "Kyrgyz": [
+                    "ак халатчан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hamshira"
+                ],
+                "Kazakh": [
+                    "емшібике"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мейірбике",
+                    "мейірбан"
+                ],
+                "Karakalpak": [
+                    "miyirbiyke"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mezun hemşire"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təhsilli tibb bacısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtisaslı tibb bacısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۈتتۈرگەن سېسترا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇتەخەسسىس سېسترا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەربىيەلەنگەن سېسترا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мээрман айым"
+                ]
+            }
+        }
+    ]
+}
+```
+

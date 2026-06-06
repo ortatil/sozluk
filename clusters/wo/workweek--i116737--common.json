@@ -1,0 +1,82 @@
+{
+    "id": "i116737",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "workweek",
+    "en_definition": "hours or days of work in a calendar week",
+    "tr_word": "çalışma haftası",
+    "tr_definition": "bir takvim haftası içindeki çalışma saatleri veya günleri",
+    "ru_word": "рабочая неделя",
+    "ru_definition": "количество рабочих часов или дней в календарной неделе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iş haftası"
+                ],
+                "Azerbaijani": [
+                    "iş həftəsi",
+                    "iş günləri"
+                ],
+                "Turkmen": [
+                    "iş hepdesi",
+                    "iş günleri"
+                ],
+                "Uzbek": [
+                    "ish haftasi",
+                    "ish kunlari"
+                ],
+                "Uyghur": [
+                    "ئىش ھەپتىسى"
+                ],
+                "Kyrgyz": [
+                    "иш жумасы",
+                    "иш аптасы"
+                ],
+                "Karakalpak": [
+                    "is háptesi"
+                ],
+                "Tatar": [
+                    "эш атнасы",
+                    "эш атналыгы"
+                ],
+                "Bashkir": [
+                    "эш аҙнаһы",
+                    "эш көндәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмыс аптасы"
+                ],
+                "Karakalpak": [
+                    "jұmıs háptesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalışma haftası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىزمەت ھەپتىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еңбек аптасы"
+                ]
+            }
+        }
+    ]
+}

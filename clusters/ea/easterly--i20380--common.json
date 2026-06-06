@@ -1,0 +1,98 @@
+{
+    "id": "i20380",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "easterly",
+    "en_definition": "from the east",
+    "tr_word": "doğudan",
+    "tr_definition": "doğu yönünden gelen",
+    "ru_word": "с востока",
+    "ru_definition": "с восточной стороны",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şarktan"
+                ],
+                "Azerbaijani": [
+                    "şərqdən"
+                ],
+                "Turkmen": [
+                    "şarkdan"
+                ],
+                "Uzbek": [
+                    "sharqdan"
+                ],
+                "Uyghur": [
+                    "شەرقتىن",
+                    "شەرق تەرەپتىن"
+                ],
+                "Tatar": [
+                    "шәрекътан"
+                ],
+                "Bashkir": [
+                    "шәрҡитән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kun chiqishdan"
+                ],
+                "Kazakh": [
+                    "күншығыстан"
+                ],
+                "Karakalpak": [
+                    "kúnshıǵıstan"
+                ],
+                "Tatar": [
+                    "көнчыгыштан"
+                ],
+                "Bashkir": [
+                    "көнсығыштан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gün doğusundan"
+                ],
+                "Azerbaijani": [
+                    "günçıxandan"
+                ],
+                "Turkmen": [
+                    "gündogardan"
+                ],
+                "Kyrgyz": [
+                    "күн чыгыштан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шығыстан"
+                ],
+                "Kyrgyz": [
+                    "чыгыштан"
+                ],
+                "Karakalpak": [
+                    "shıǵıstan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğudan"
+                ]
+            }
+        }
+    ]
+}

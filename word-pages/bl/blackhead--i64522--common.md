@@ -1,0 +1,145 @@
+# Blackhead
+| Field | Detail |
+|---|---|
+| **ID** | i64522 |
+| **English** | blackhead |
+| **Type** | noun |
+| **Definition** | a black-tipped plug clogging a pore of the skin |
+| **Source** | common |
+| **Ortatil** | komedon |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| безеу | bezeu |
+| **Kyrgyz** | |
+| бүдүр | büdür |
+
+```json
+{
+    "id": "i64522",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blackhead",
+    "en_definition": "a black-tipped plug clogging a pore of the skin",
+    "tr_word": "siyah nokta",
+    "tr_definition": "Ciltteki bir gözenek içinde biriken ve ucu hava ile temas ederek kararan yağ ve kir birikintisi.",
+    "ru_word": "черная точка",
+    "ru_definition": "Скопление кожного сала и грязи в поре кожи, имеющее темную головку из-за окисления.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qara nöqtə",
+                    "qara sızanaq"
+                ],
+                "Turkmen": [
+                    "gara nokat",
+                    "gara düwürtik"
+                ],
+                "Uzbek": [
+                    "qora nuqta"
+                ],
+                "Uyghur": [
+                    "قارا دانىخورەك",
+                    "قارا چىيقان",
+                    "قارا دانچە"
+                ],
+                "Kazakh": [
+                    "қара нүкте",
+                    "қара безеу"
+                ],
+                "Kyrgyz": [
+                    "кара чекит",
+                    "кара так"
+                ],
+                "Karakalpak": [
+                    "qara núkte",
+                    "qara daq"
+                ],
+                "Tatar": [
+                    "кара нокта",
+                    "кара бетчә"
+                ],
+                "Bashkir": [
+                    "ҡара нөктә",
+                    "ҡара һытҡы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "komedon"
+                ],
+                "Azerbaijani": [
+                    "komedon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siyah nokta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "husnbuzar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ugri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "безеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бүдүр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bórtpe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "майлы тыгын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бит тишеге"
+                ]
+            }
+        }
+    ]
+}
+```
+

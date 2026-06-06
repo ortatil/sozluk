@@ -1,0 +1,114 @@
+# Bob
+| Field | Detail |
+|---|---|
+| **ID** | i64592 |
+| **English** | bob |
+| **Type** | noun |
+| **Definition** | a hair style for women and children; a short haircut all around |
+| **Source** | common |
+| **Ortatil** | kältäsäç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i64592",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bob",
+    "en_definition": "a hair style for women and children; a short haircut all around",
+    "tr_word": "küt saç",
+    "tr_definition": "kadınlar ve çocuklar için her tarafı kısa kesilmiş bir saç modeli",
+    "ru_word": "каре",
+    "ru_definition": "женская или детская стрижка, при которой волосы подстрижены коротко и ровно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısa kesim"
+                ],
+                "Azerbaijani": [
+                    "qısa saç düzümü"
+                ],
+                "Turkmen": [
+                    "kese kesim",
+                    "gysga saç"
+                ],
+                "Kazakh": [
+                    "қысқа шаш",
+                    "кесілген шаш"
+                ],
+                "Kyrgyz": [
+                    "кыска чач",
+                    "кесилген чач"
+                ],
+                "Karakalpak": [
+                    "kesilgen shash",
+                    "qısqa shash"
+                ],
+                "Tatar": [
+                    "кыска чәч",
+                    "киселгән чәч"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡа сәс",
+                    "киҫелгән сәс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "küt kesim"
+                ],
+                "Azerbaijani": [
+                    "küt kəsim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kaltasoch"
+                ],
+                "Uyghur": [
+                    "كالتە چاچ",
+                    "كالتە كېسىلگەن چاچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "küt saç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çogdam saç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qirqma soch"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tekis kesilgan soch"
+                ]
+            }
+        }
+    ]
+}
+```
+

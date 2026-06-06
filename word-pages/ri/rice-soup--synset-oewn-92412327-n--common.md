@@ -1,0 +1,125 @@
+# Rice soup
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-92412327-n |
+| **English** | rice soup |
+| **Type** | noun |
+| **Definition** | soup containing rice and vegetables. |
+| **Source** | common |
+| **Ortatil** | şäwlä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سۇيۇقاش | suyuqaş |
+
+```json
+{
+    "id": "synset-oewn-92412327-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rice soup",
+    "en_definition": "soup containing rice and vegetables.",
+    "tr_word": "pirinç çorbası",
+    "tr_definition": "Pirinç ve sebze içeren çorba.",
+    "ru_word": "рисовый суп",
+    "ru_definition": "Суп, содержащий рис и овощи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "düyü şorbası",
+                    "düyü supu",
+                    "düyülü aş"
+                ],
+                "Turkmen": [
+                    "tüwi çorbasy",
+                    "tüwili çorba"
+                ],
+                "Tatar": [
+                    "дөге ашы",
+                    "дөгеле аш"
+                ],
+                "Bashkir": [
+                    "дөгө ашы",
+                    "дөгөлө аш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "guruchli sho'rva"
+                ],
+                "Kazakh": [
+                    "күріш сорпа",
+                    "күріш көже"
+                ],
+                "Kyrgyz": [
+                    "күрүч шорпо",
+                    "күрүчтүү шорпо",
+                    "күрүч ботко"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shovla"
+                ],
+                "Karakalpak": [
+                    "shaole"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۈرۈچ شورپىسى",
+                    "گۈرۈچ ئېشى"
+                ],
+                "Karakalpak": [
+                    "gúrіsh sorpa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pirinç çorbası",
+                    "yoğurtlu pirinç çorbası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yayla çorbası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mastava"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇيۇقاش"
+                ]
+            }
+        }
+    ]
+}
+```
+

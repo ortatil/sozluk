@@ -1,0 +1,188 @@
+# Threatened
+| Field | Detail |
+|---|---|
+| **ID** | i14002 |
+| **English** | threatened |
+| **Type** | adjective |
+| **Definition** | (of flora or fauna) likely in the near future to become endangered |
+| **Source** | common |
+| **Ortatil** | tehlikedä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қатерлі | qaterli |
+| **Kyrgyz** | |
+| коркунучтагы | korkunuçtagı |
+| кооптуу | kooptuu |
+| **Bashkir** | |
+| хәүефле | xäüyefle |
+
+```json
+{
+    "id": "i14002",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "threatened",
+    "en_definition": "(of flora or fauna) likely in the near future to become endangered",
+    "tr_word": "tehdit altındaki",
+    "tr_definition": "(flora veya fauna için) yakın gelecekte nesli tükenme tehlikesiyle karşı karşıya kalması muhtemel olan",
+    "ru_word": "находящийся под угрозой исчезновения",
+    "ru_definition": "(о флоре или фауне) вид, который в ближайшем будущем может оказаться под угрозой вымирания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yoʻqolish arafasidagi"
+                ],
+                "Uyghur": [
+                    "يوقىلىش گىردابىغا بېرىپ قالغان"
+                ],
+                "Kazakh": [
+                    "жойылу алдындағы"
+                ],
+                "Kyrgyz": [
+                    "жоголуу алдындагы"
+                ],
+                "Karakalpak": [
+                    "joǵalıp baratırǵan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tehdit altında",
+                    "tehlikede"
+                ],
+                "Azerbaijani": [
+                    "təhlükədə olan"
+                ],
+                "Uzbek": [
+                    "tahdid ostidagi"
+                ],
+                "Uyghur": [
+                    "تەھدىتكە ئۇچرىغان"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "howp astyndaky",
+                    "howp abanýan",
+                    "howply ýagdaýdaky"
+                ],
+                "Uzbek": [
+                    "xavf ostidagi"
+                ],
+                "Uyghur": [
+                    "خەۋپ ئاستىدىكى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "коркунучтагы"
+                ],
+                "Tatar": [
+                    "куркыныч астындагы",
+                    "куркыныч янаган"
+                ],
+                "Bashkir": [
+                    "ҡурҡыныс аҫтындағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қауіп төнген"
+                ],
+                "Karakalpak": [
+                    "qáuіp astındaǵı",
+                    "qáuіp tóngen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "азайып бара жатқан"
+                ],
+                "Kyrgyz": [
+                    "азайып бараткан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "risk altında"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəsli kəsilmək üzrə olan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məhv olmaq təhlükəsi olan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýitmek howpy bar bolan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қатерлі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кооптуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "юкка чыгу алдындагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәүеф аҫтындағы",
+                    "хәүефле"
+                ]
+            }
+        }
+    ]
+}
+```
+

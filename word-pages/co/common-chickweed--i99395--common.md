@@ -1,0 +1,180 @@
+# Common chickweed
+| Field | Detail |
+|---|---|
+| **ID** | i99395 |
+| **English** | common chickweed |
+| **Type** | noun |
+| **Definition** | a common low-growing annual garden weed with small white flowers; cosmopolitan; so-called because it is eaten by chickens |
+| **Source** | common |
+| **Ortatil** | juldızsha |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **juldızsha** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.30** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жұлдызшөп | juldızşöp |
+| тауықшөп | tauıqşöp |
+| шымшықшөп | şımşıqşöp |
+| **Tatar** | |
+| йолдызчык | yoldızçık |
+| **Bashkir** | |
+| йолдыҙҡай | yoldızqay |
+
+```json
+{
+    "id": "i99395",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "common chickweed",
+    "en_definition": "a common low-growing annual garden weed with small white flowers; cosmopolitan; so-called because it is eaten by chickens",
+    "tr_word": "serçe dili",
+    "tr_definition": "küçük beyaz çiçekli, bahçelerde sıkça rastlanan ve tavukların yemesiyle bilinen bir yıllık otsu bitki",
+    "ru_word": "звездчатка средняя",
+    "ru_definition": "распространенный однолетний сорняк с мелкими белыми цветками, часто используемый в качестве корма для птиц",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yulduzo't"
+                ],
+                "Uyghur": [
+                    "يۇلتۇز ئوت"
+                ],
+                "Kazakh": [
+                    "жұлдызшөп"
+                ],
+                "Karakalpak": [
+                    "jұldızsha"
+                ],
+                "Tatar": [
+                    "йолдызчык",
+                    "йолдыз үләне"
+                ],
+                "Bashkir": [
+                    "йолдыҙҡай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "toyuqotu",
+                    "toyuq mürvəsi"
+                ],
+                "Turkmen": [
+                    "towukot"
+                ],
+                "Uyghur": [
+                    "تۇخۇ كۆكى"
+                ],
+                "Kyrgyz": [
+                    "тоок чөп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тауықшөп"
+                ],
+                "Karakalpak": [
+                    "tauıq ot"
+                ],
+                "Tatar": [
+                    "тавык үләне"
+                ],
+                "Bashkir": [
+                    "тауыҡ үләне"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "serçe dili",
+                    "serçe otu"
+                ],
+                "Turkmen": [
+                    "serçegöz"
+                ],
+                "Uzbek": [
+                    "shirao't"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuş otu"
+                ],
+                "Uyghur": [
+                    "تۇخۇ ئوتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шымшықшөп"
+                ],
+                "Kyrgyz": [
+                    "чымчык чөбү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mürvə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jo'jao't"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ак гүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сыпсыҡ үләне"
+                ]
+            }
+        }
+    ]
+}
+```
+

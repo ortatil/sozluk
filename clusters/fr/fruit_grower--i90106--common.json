@@ -1,0 +1,102 @@
+{
+    "id": "i90106",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fruit grower",
+    "en_definition": "someone who grows fruit commercially",
+    "tr_word": "meyve yetiştiricisi",
+    "tr_definition": "ticari amaçla meyve yetiştiren kimse",
+    "ru_word": "плодовод",
+    "ru_definition": "человек, занимающийся промышленным выращиванием фруктов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bahçıvan"
+                ],
+                "Azerbaijani": [
+                    "bağban"
+                ],
+                "Turkmen": [
+                    "bagban"
+                ],
+                "Uzbek": [
+                    "bogʻbon"
+                ],
+                "Uyghur": [
+                    "باغۋەن",
+                    "باغدار"
+                ],
+                "Kazakh": [
+                    "бағбан",
+                    "бағдар",
+                    "бақшашы"
+                ],
+                "Kyrgyz": [
+                    "багбан",
+                    "бакчы"
+                ],
+                "Karakalpak": [
+                    "baǵban"
+                ],
+                "Tatar": [
+                    "бакчачы"
+                ],
+                "Bashkir": [
+                    "баҡсасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meyveci",
+                    "meyve yetiştiricisi"
+                ],
+                "Azerbaijani": [
+                    "meyvəçi",
+                    "meyvədar"
+                ],
+                "Turkmen": [
+                    "miweçi"
+                ],
+                "Uzbek": [
+                    "mevachilik mutaxassisi",
+                    "mevakor"
+                ],
+                "Uyghur": [
+                    "مېۋىچى"
+                ],
+                "Karakalpak": [
+                    "miyoeshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җимешче"
+                ],
+                "Bashkir": [
+                    "емешсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sohibkor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мөмөчү"
+                ]
+            }
+        }
+    ]
+}

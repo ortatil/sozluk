@@ -1,0 +1,72 @@
+{
+    "id": "i80535",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "democratic party",
+    "en_definition": "the older of two major political parties in the United States",
+    "tr_word": "Demokrat Parti",
+    "tr_definition": "Amerika Birleşik Devletleri'ndeki iki ana siyasi partiden daha eski olanı",
+    "ru_word": "Демократическая партия",
+    "ru_definition": "старейшая из двух основных политических партий в США",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "demokrat parti",
+                    "demokratlar partisi"
+                ],
+                "Azerbaijani": [
+                    "demokratik partiya",
+                    "demokratlar partiyası"
+                ],
+                "Turkmen": [
+                    "demokratik partiýa",
+                    "demokratlar partiýasy"
+                ],
+                "Uzbek": [
+                    "demokratik partiya",
+                    "demokratlar firqasi"
+                ],
+                "Uyghur": [
+                    "دېموكراتلار پارتىيىسى",
+                    "دېموكراتىك پارتىيە"
+                ],
+                "Kazakh": [
+                    "демократиялық партия"
+                ],
+                "Kyrgyz": [
+                    "демократиялык партия"
+                ],
+                "Karakalpak": [
+                    "demokratiyalıq partiya",
+                    "demokratlar partiyası"
+                ],
+                "Tatar": [
+                    "демократлар партиясе",
+                    "демократик партия"
+                ],
+                "Bashkir": [
+                    "демократик партия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "халықтық партия"
+                ],
+                "Bashkir": [
+                    "халыҡ партияһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "элдик партия"
+                ]
+            }
+        }
+    ]
+}

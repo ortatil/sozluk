@@ -1,0 +1,167 @@
+{
+    "id": "i71106",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "periodical",
+    "en_definition": "a publication that appears at fixed intervals",
+    "tr_word": "süreli yayın",
+    "tr_definition": "belirli aralıklarla yayımlanan gazete veya dergi gibi yayınların genel adı",
+    "ru_word": "периодическое издание",
+    "ru_definition": "печатное издание, выходящее через определённые промежутки времени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gazete"
+                ],
+                "Turkmen": [
+                    "gazet"
+                ],
+                "Uzbek": [
+                    "gazeta"
+                ],
+                "Kazakh": [
+                    "газет"
+                ],
+                "Kyrgyz": [
+                    "гезит"
+                ],
+                "Karakalpak": [
+                    "gazeta"
+                ],
+                "Bashkir": [
+                    "гәзит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "žurnal"
+                ],
+                "Uzbek": [
+                    "jurnal"
+                ],
+                "Uyghur": [
+                    "ژۇرنال"
+                ],
+                "Kazakh": [
+                    "журнал"
+                ],
+                "Kyrgyz": [
+                    "журнал"
+                ],
+                "Karakalpak": [
+                    "jurnal"
+                ],
+                "Bashkir": [
+                    "журнал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mecmua"
+                ],
+                "Azerbaijani": [
+                    "məcmuə"
+                ],
+                "Turkmen": [
+                    "metbugat"
+                ],
+                "Uzbek": [
+                    "majalla"
+                ],
+                "Uyghur": [
+                    "مەتبۇئات"
+                ],
+                "Karakalpak": [
+                    "mátbuat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dövri mətbuat"
+                ],
+                "Uzbek": [
+                    "davriy nashr"
+                ],
+                "Karakalpak": [
+                    "dáoirli baspa"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəşr"
+                ],
+                "Turkmen": [
+                    "neşir"
+                ],
+                "Tatar": [
+                    "нәшер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ۋاقىتلىق نەشرىيات"
+                ],
+                "Tatar": [
+                    "вакытлы матбугат"
+                ],
+                "Bashkir": [
+                    "ваҡытлы матбуғат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dergi"
+                ],
+                "Azerbaijani": [
+                    "dərgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мерзімді басылым"
+                ],
+                "Kyrgyz": [
+                    "мезгилдүү басылма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "басма"
+                ],
+                "Bashkir": [
+                    "баҫма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "süreli yayın"
+                ]
+            }
+        }
+    ]
+}

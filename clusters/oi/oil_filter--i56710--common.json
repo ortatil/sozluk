@@ -1,0 +1,82 @@
+{
+    "id": "i56710",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oil filter",
+    "en_definition": "a filter that removes impurities from the oil used to lubricate an internal-combustion engine",
+    "tr_word": "yağ filtresi",
+    "tr_definition": "içten yanmalı bir motoru yağlamak için kullanılan yağdaki yabancı maddeleri temizleyen filtre",
+    "ru_word": "масляный фильтр",
+    "ru_definition": "фильтр, удаляющий загрязнения из масла, используемого для смазки двигателя внутреннего сгорания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağ filtresi",
+                    "yağ süzgeci"
+                ],
+                "Azerbaijani": [
+                    "yağ süzgəci",
+                    "yağ filtri"
+                ],
+                "Turkmen": [
+                    "ýag süzgüji",
+                    "ýag süzgüç"
+                ],
+                "Uzbek": [
+                    "moy süzgüchi",
+                    "yog' süzgüchi"
+                ],
+                "Uyghur": [
+                    "ماي سۈزگۈچ",
+                    "ماي سۈزگۈچى"
+                ],
+                "Kazakh": [
+                    "май сүзгісі",
+                    "май сүзгіш"
+                ],
+                "Kyrgyz": [
+                    "май сүзгүчү"
+                ],
+                "Karakalpak": [
+                    "may súzgish"
+                ],
+                "Tatar": [
+                    "май сөзгече"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "moy filtri"
+                ],
+                "Tatar": [
+                    "май фильтры"
+                ],
+                "Bashkir": [
+                    "май фильтры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "май чыпкасы"
+                ],
+                "Bashkir": [
+                    "май һөҙгөсө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "may tazalaǵısh"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+# Signal fire
+| Field | Detail |
+|---|---|
+| **ID** | i74851 |
+| **English** | signal fire |
+| **Type** | noun |
+| **Definition** | a fire set as a signal |
+| **Source** | common |
+| **Ortatil** | mäşälä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **mäşälä** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مەشئەل | mäşäl |
+| **Kazakh** | |
+| алау | alau |
+| **Tatar** | |
+| маяк | mayak |
+| учак | uçak |
+| **Bashkir** | |
+| маяҡ | mayaq |
+
+```json
+{
+    "id": "i74851",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "signal fire",
+    "en_definition": "a fire set as a signal",
+    "tr_word": "işaret ateşi",
+    "tr_definition": "haberleşme veya işaret verme amacıyla yakılan ateş",
+    "ru_word": "сигнальный костёр",
+    "ru_definition": "костёр, разжигаемый для передачи сообщения или сигнала",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "işaret ateşi"
+                ],
+                "Azerbaijani": [
+                    "işarə tonqalı"
+                ],
+                "Turkmen": [
+                    "işarat ody"
+                ],
+                "Uzbek": [
+                    "ishora olovi"
+                ],
+                "Uyghur": [
+                    "ئىشارەت ئوتى",
+                    "بېشارەت ئوتى"
+                ],
+                "Bashkir": [
+                    "иҫкәртеү уты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haber ateşi"
+                ],
+                "Kazakh": [
+                    "дабыл оты"
+                ],
+                "Kyrgyz": [
+                    "кабар оту"
+                ],
+                "Tatar": [
+                    "хәбәр учагы"
+                ],
+                "Bashkir": [
+                    "хәбәр уты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meşale"
+                ],
+                "Azerbaijani": [
+                    "məşəl"
+                ],
+                "Turkmen": [
+                    "meşal"
+                ],
+                "Uzbek": [
+                    "mash'al"
+                ],
+                "Uyghur": [
+                    "مەشئەل"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "belgi ody"
+                ],
+                "Kazakh": [
+                    "белгі оты"
+                ],
+                "Kyrgyz": [
+                    "белги оту"
+                ],
+                "Karakalpak": [
+                    "ot jaǵıp belgі beru",
+                    "belgі otı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ot"
+                ],
+                "Tatar": [
+                    "ут билгесе"
+                ],
+                "Bashkir": [
+                    "утлы маяҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "atəş"
+                ],
+                "Uzbek": [
+                    "otash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "от белгі"
+                ],
+                "Kyrgyz": [
+                    "от белги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алау"
+                ],
+                "Karakalpak": [
+                    "alau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "маяк"
+                ],
+                "Bashkir": [
+                    "маяҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fener"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tonqal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gulxan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көз от"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "учак"
+                ]
+            }
+        }
+    ]
+}
+```
+

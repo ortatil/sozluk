@@ -1,0 +1,138 @@
+{
+    "id": "i5915",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "frozen",
+    "en_definition": "turned into ice; affected by freezing or by long and severe cold",
+    "tr_word": "donmuş",
+    "tr_definition": "buz haline gelmiş; dondurucu veya uzun süreli şiddetli soğuktan etkilenmiş",
+    "ru_word": "замороженный",
+    "ru_definition": "превращенный в лед; пострадавший от замерзания или долгого и сильного холода",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "donmuş"
+                ],
+                "Azerbaijani": [
+                    "donmuş",
+                    "donuq"
+                ],
+                "Turkmen": [
+                    "doňan",
+                    "doň",
+                    "doňdurylan"
+                ],
+                "Uyghur": [
+                    "تۇڭلاپ قالغان"
+                ],
+                "Kazakh": [
+                    "тоңған"
+                ],
+                "Kyrgyz": [
+                    "тоңгон",
+                    "тоңдурулган",
+                    "тоң"
+                ],
+                "Karakalpak": [
+                    "tońǵan",
+                    "toń"
+                ],
+                "Tatar": [
+                    "туңган",
+                    "туң"
+                ],
+                "Bashkir": [
+                    "туңған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buz tutmuş"
+                ],
+                "Azerbaijani": [
+                    "buzlamış",
+                    "buzlu"
+                ],
+                "Turkmen": [
+                    "buzlan"
+                ],
+                "Tatar": [
+                    "бозланган"
+                ],
+                "Bashkir": [
+                    "боҙланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muzlagan",
+                    "muz",
+                    "muzdek"
+                ],
+                "Uyghur": [
+                    "مۇزلىغان",
+                    "مۇز تۇتقان"
+                ],
+                "Kazakh": [
+                    "мұздаған",
+                    "мұзды"
+                ],
+                "Kyrgyz": [
+                    "муздаган"
+                ],
+                "Karakalpak": [
+                    "mұzlaǵan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qotgan"
+                ],
+                "Uyghur": [
+                    "قاتقان"
+                ],
+                "Kazakh": [
+                    "қатып қалған"
+                ],
+                "Karakalpak": [
+                    "qatıp qalǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өшегән"
+                ],
+                "Bashkir": [
+                    "өшөгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müncemid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sovqotgan"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "i28099",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "chain up",
+    "en_definition": "tie up with chains",
+    "tr_word": "zincirlemek",
+    "tr_definition": "bir şeyi veya birini zincirle bağlamak veya sabitlemek",
+    "ru_word": "приковывать",
+    "ru_definition": "связывать или удерживать кого-либо или что-либо с помощью цепей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zincirlemek",
+                    "zincire vurmak"
+                ],
+                "Azerbaijani": [
+                    "zəncirləmək",
+                    "zəncirə vurmaq"
+                ],
+                "Turkmen": [
+                    "zynjyr bilen baglamak",
+                    "zynjyrly baglamak",
+                    "zynjyrlamak"
+                ],
+                "Uzbek": [
+                    "zanjirlamoq",
+                    "zanjirband qilmoq"
+                ],
+                "Uyghur": [
+                    "زەنجىرلەش",
+                    "زەنجىرلىمەك"
+                ],
+                "Kazakh": [
+                    "шынжырлау"
+                ],
+                "Kyrgyz": [
+                    "чынжырлоо",
+                    "чынжырлап байлоо"
+                ],
+                "Karakalpak": [
+                    "shınjırlao"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağlamak"
+                ],
+                "Azerbaijani": [
+                    "bağlamaq"
+                ],
+                "Uzbek": [
+                    "bogʻlamoq"
+                ],
+                "Uyghur": [
+                    "باغلىماق"
+                ],
+                "Kazakh": [
+                    "байлау"
+                ],
+                "Kyrgyz": [
+                    "байлоо"
+                ],
+                "Karakalpak": [
+                    "baylao"
+                ],
+                "Bashkir": [
+                    "бығаулау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кісендеу"
+                ],
+                "Karakalpak": [
+                    "kisenleo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чылбырлау",
+                    "чылбыр белән бәйләү",
+                    "чылбырга салу",
+                    "чылбырлап кую"
+                ],
+                "Bashkir": [
+                    "сылбырлау",
+                    "сылбыр менән бәйләү"
+                ]
+            }
+        }
+    ]
+}

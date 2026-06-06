@@ -1,0 +1,170 @@
+# Numeracy
+| Field | Detail |
+|---|---|
+| **ID** | i66549 |
+| **English** | numeracy |
+| **Type** | noun |
+| **Definition** | skill with numbers and mathematics |
+| **Source** | common |
+| **Ortatil** | hasap-hesip |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| эсептөөчүлүк | eseptööçülük |
+| эсеп-кысап | esep-kısap |
+
+```json
+{
+    "id": "i66549",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "numeracy",
+    "en_definition": "skill with numbers and mathematics",
+    "tr_word": "sayısal okuryazarlık",
+    "tr_definition": "sayılarla ve matematikle işlem yapabilme yeteneği",
+    "ru_word": "математическая грамотность",
+    "ru_definition": "способность понимать и использовать числа и математические методы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "matematiksel okuryazarlık"
+                ],
+                "Turkmen": [
+                    "matematika sowatlylygy"
+                ],
+                "Uzbek": [
+                    "matematik savodxonlik"
+                ],
+                "Uyghur": [
+                    "ماتېماتىكا ساۋادى"
+                ],
+                "Kazakh": [
+                    "математикалық сауаттылық"
+                ],
+                "Karakalpak": [
+                    "matematikalıq bilim"
+                ],
+                "Tatar": [
+                    "математик белем"
+                ],
+                "Bashkir": [
+                    "математик белем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesap yeteneği"
+                ],
+                "Azerbaijani": [
+                    "hesablama bacarığı"
+                ],
+                "Turkmen": [
+                    "hasap-hesip",
+                    "hasapçylyk",
+                    "hasap sowatlylygy"
+                ],
+                "Uzbek": [
+                    "hisob-kitob",
+                    "hisobdonlik"
+                ],
+                "Uyghur": [
+                    "ھېسابلاش قابىلىيىتى",
+                    "ھېسابات بىلىمى"
+                ],
+                "Tatar": [
+                    "хисап белү",
+                    "хисаплау осталыгы"
+                ],
+                "Bashkir": [
+                    "хисап белеме",
+                    "хисаплау оҫталығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сандық сауаттылық"
+                ],
+                "Kyrgyz": [
+                    "сандык сабаттуулук"
+                ],
+                "Karakalpak": [
+                    "sanlı saoatlılıq"
+                ],
+                "Tatar": [
+                    "сан белеме"
+                ],
+                "Bashkir": [
+                    "һан белеме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "есеп білу",
+                    "есепке жүйріктік"
+                ],
+                "Kyrgyz": [
+                    "эсептөөчүлүк",
+                    "эсеп-кысап",
+                    "эсеп билгичтик"
+                ],
+                "Karakalpak": [
+                    "esap-qisap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sayısal beceri",
+                    "sayısal yetkinlik"
+                ],
+                "Azerbaijani": [
+                    "sayma qabiliyyəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rəqəmsal savadlılıq"
+                ],
+                "Uzbek": [
+                    "raqamlar bilan ishlash mahorati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "riyazi savad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "saoatlılıq"
+                ]
+            }
+        }
+    ]
+}
+```
+

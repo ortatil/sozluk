@@ -1,0 +1,137 @@
+{
+    "id": "i74892",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "postmark",
+    "en_definition": "a cancellation mark stamped on mail by postal officials; indicates the post office and date of mailing",
+    "tr_word": "posta damgası",
+    "tr_definition": "Posta yetkilileri tarafından postanın üzerine basılan, gönderildiği postaneyi ve tarihi gösteren damga.",
+    "ru_word": "почтовый штемпель",
+    "ru_definition": "Официальная отметка на почтовом отправлении, указывающая место и дату отправки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mühür"
+                ],
+                "Azerbaijani": [
+                    "möhür"
+                ],
+                "Turkmen": [
+                    "möhür"
+                ],
+                "Uzbek": [
+                    "muhr"
+                ],
+                "Kazakh": [
+                    "мөр"
+                ],
+                "Kyrgyz": [
+                    "мөөр"
+                ],
+                "Karakalpak": [
+                    "mór"
+                ],
+                "Tatar": [
+                    "мөһер"
+                ],
+                "Bashkir": [
+                    "мөһөр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "damğa"
+                ],
+                "Turkmen": [
+                    "tamga"
+                ],
+                "Uzbek": [
+                    "tamgʻa"
+                ],
+                "Uyghur": [
+                    "تامغا"
+                ],
+                "Kazakh": [
+                    "таңба"
+                ],
+                "Kyrgyz": [
+                    "тамга"
+                ],
+                "Karakalpak": [
+                    "tańba"
+                ],
+                "Tatar": [
+                    "тамга"
+                ],
+                "Bashkir": [
+                    "тамға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "posta damgası"
+                ],
+                "Azerbaijani": [
+                    "poçt möhürü",
+                    "poçt damğası"
+                ],
+                "Turkmen": [
+                    "poçta möhüri"
+                ],
+                "Uzbek": [
+                    "pochta tamgʻasi",
+                    "pochta muhri"
+                ],
+                "Uyghur": [
+                    "پوچتا تامغىسى"
+                ],
+                "Kyrgyz": [
+                    "почта мөөрү",
+                    "почта тамгасы"
+                ],
+                "Karakalpak": [
+                    "pochta móri"
+                ],
+                "Tatar": [
+                    "почта мөһере"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tarih damgası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мөртаңба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хат таңбасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "баҫма"
+                ]
+            }
+        }
+    ]
+}

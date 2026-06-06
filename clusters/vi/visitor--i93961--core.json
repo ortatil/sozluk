@@ -1,0 +1,129 @@
+{
+    "id": "i93961",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "visitor",
+    "en_definition": "someone who visits",
+    "tr_word": "ziyaretçi",
+    "tr_definition": "bir yeri veya bir kimseyi görmeye gelen kimse",
+    "ru_word": "посетитель",
+    "ru_definition": "тот, кто приходит с целью посещения, осмотра чего-либо или встречи с кем-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konuk"
+                ],
+                "Azerbaijani": [
+                    "qonaq"
+                ],
+                "Turkmen": [
+                    "gonak"
+                ],
+                "Kazakh": [
+                    "қонақ"
+                ],
+                "Kyrgyz": [
+                    "конок"
+                ],
+                "Karakalpak": [
+                    "qonaq"
+                ],
+                "Tatar": [
+                    "кунак"
+                ],
+                "Bashkir": [
+                    "ҡунаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "myhman"
+                ],
+                "Uzbek": [
+                    "mehmon"
+                ],
+                "Uyghur": [
+                    "مېھمان"
+                ],
+                "Kazakh": [
+                    "мейман"
+                ],
+                "Kyrgyz": [
+                    "мейман"
+                ],
+                "Karakalpak": [
+                    "miyman"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ziyaretçi"
+                ],
+                "Azerbaijani": [
+                    "ziyarətçi"
+                ],
+                "Uzbek": [
+                    "ziyoratchi"
+                ],
+                "Uyghur": [
+                    "زىيارەتچى"
+                ],
+                "Tatar": [
+                    "зиратчы"
+                ],
+                "Bashkir": [
+                    "зыяратсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كەلگۈچى"
+                ],
+                "Kazakh": [
+                    "келуші"
+                ],
+                "Kyrgyz": [
+                    "келүүчү"
+                ],
+                "Tatar": [
+                    "килүче"
+                ],
+                "Bashkir": [
+                    "килеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "misafir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gələnlər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tashrif buyuruvchi"
+                ]
+            }
+        }
+    ]
+}

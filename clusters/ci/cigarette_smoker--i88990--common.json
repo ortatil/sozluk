@@ -1,0 +1,107 @@
+{
+    "id": "i88990",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cigarette smoker",
+    "en_definition": "a smoker of cigarettes",
+    "tr_word": "sigara tiryakisi",
+    "tr_definition": "düzenli olarak sigara içen kimse",
+    "ru_word": "курильщик",
+    "ru_definition": "человек, который курит сигареты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tiryaki"
+                ],
+                "Uzbek": [
+                    "tamakiхur"
+                ],
+                "Uyghur": [
+                    "تاماكا چەككۈچى",
+                    "تاماكىكەش",
+                    "تاماكاخور"
+                ],
+                "Kazakh": [
+                    "темекіші"
+                ],
+                "Kyrgyz": [
+                    "тамекичи"
+                ],
+                "Karakalpak": [
+                    "támpekikesh",
+                    "támpeki tartıoshı"
+                ],
+                "Tatar": [
+                    "тәмәкече",
+                    "тәмәке тартучы"
+                ],
+                "Bashkir": [
+                    "тәмәкесе",
+                    "тәмәке тартыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çilimkeş",
+                    "çilim çekiji"
+                ],
+                "Kazakh": [
+                    "шылымқор",
+                    "шылымкеш"
+                ],
+                "Kyrgyz": [
+                    "чылымкеш",
+                    "чылымчы"
+                ],
+                "Karakalpak": [
+                    "shılımkesh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sigara içicisi",
+                    "sigara tiryakisi"
+                ],
+                "Azerbaijani": [
+                    "siqaret çəkən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "içici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tütünçü",
+                    "tütün çəkən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chekuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kashanda"
+                ]
+            }
+        }
+    ]
+}

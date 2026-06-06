@@ -1,0 +1,66 @@
+{
+    "id": "i85351",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "east china sea",
+    "en_definition": "part of the Pacific Ocean near eastern Asia",
+    "tr_word": "Doğu Çin Denizi",
+    "tr_definition": "Pasifik Okyanusu'nun doğu Asya kıyılarında bulunan bir kolu",
+    "ru_word": "Восточно-Китайское море",
+    "ru_definition": "часть Тихого океана, расположенная между побережьем Китая и японскими островами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şərqi Çin dənizi"
+                ],
+                "Uzbek": [
+                    "Sharqiy Xitoy dengizi"
+                ],
+                "Uyghur": [
+                    "شەرقىي جۇڭگو دېڭىزى",
+                    "شەرقىي جۇڭگو بويى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "Шығыс Қытай теңізі"
+                ],
+                "Kyrgyz": [
+                    "Чыгыш Кытай деңизи"
+                ],
+                "Karakalpak": [
+                    "Shıǵıs Qıtay teńizi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Көнчыгыш Кытай диңгезе"
+                ],
+                "Bashkir": [
+                    "Көнсығыш Ҡытай диңгеҙе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Doğu Çin Denizi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Gündogar Hytaý deňzi"
+                ]
+            }
+        }
+    ]
+}

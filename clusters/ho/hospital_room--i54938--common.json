@@ -1,0 +1,134 @@
+{
+    "id": "i54938",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hospital room",
+    "en_definition": "a room in a hospital for the care of patients",
+    "tr_word": "hasta odası",
+    "tr_definition": "hastanede hastaların bakımı için ayrılmış oda",
+    "ru_word": "больничная палата",
+    "ru_definition": "помещение в больнице, предназначенное для размещения и лечения пациентов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "palata"
+                ],
+                "Turkmen": [
+                    "palata"
+                ],
+                "Uzbek": [
+                    "palata"
+                ],
+                "Uyghur": [
+                    "پالاتا"
+                ],
+                "Kazakh": [
+                    "палата"
+                ],
+                "Kyrgyz": [
+                    "палата"
+                ],
+                "Karakalpak": [
+                    "palata"
+                ],
+                "Tatar": [
+                    "палата"
+                ],
+                "Bashkir": [
+                    "палата"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бөлме"
+                ],
+                "Kyrgyz": [
+                    "бөлмө"
+                ],
+                "Karakalpak": [
+                    "bólme"
+                ],
+                "Tatar": [
+                    "бүлмә"
+                ],
+                "Bashkir": [
+                    "бүлмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hasta odası"
+                ],
+                "Azerbaijani": [
+                    "xəstə otağı"
+                ],
+                "Turkmen": [
+                    "hassahana otagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xona"
+                ],
+                "Tatar": [
+                    "хөҗрә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kasalxona xonasi"
+                ],
+                "Uyghur": [
+                    "كېسەلخانا ئۆيى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koğuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bakım odası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "otag"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shifoxona xonasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "داۋالاش ئۆيى"
+                ]
+            }
+        }
+    ]
+}

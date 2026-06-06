@@ -1,0 +1,144 @@
+{
+    "id": "i28474",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "put through",
+    "en_definition": "connect by telephone",
+    "tr_word": "bağlamak",
+    "tr_definition": "birini telefonla başka birine veya bir yere ulaştırmak",
+    "ru_word": "соединять",
+    "ru_definition": "устанавливать телефонную связь между кем-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağlamak"
+                ],
+                "Azerbaijani": [
+                    "bağlamaq"
+                ],
+                "Turkmen": [
+                    "baglaşdyrmak"
+                ],
+                "Uzbek": [
+                    "bogʻlamoq",
+                    "bogʻlab bermoq"
+                ],
+                "Uyghur": [
+                    "باغلاپ بەرمەك"
+                ],
+                "Kazakh": [
+                    "байланыстыру"
+                ],
+                "Kyrgyz": [
+                    "байланыштыруу"
+                ],
+                "Karakalpak": [
+                    "baylanıstırıu"
+                ],
+                "Tatar": [
+                    "бәйләү"
+                ],
+                "Bashkir": [
+                    "бәйләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ulaştırmak"
+                ],
+                "Uzbek": [
+                    "ulamoq",
+                    "ulab bermoq"
+                ],
+                "Uyghur": [
+                    "ئۇلاپ بەرمەك"
+                ],
+                "Kyrgyz": [
+                    "улоо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жалғау"
+                ],
+                "Karakalpak": [
+                    "jalǵau"
+                ],
+                "Tatar": [
+                    "ялгау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қосу"
+                ],
+                "Kyrgyz": [
+                    "кошуу"
+                ],
+                "Karakalpak": [
+                    "qosıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "birləşdirmək"
+                ],
+                "Turkmen": [
+                    "birleşdirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тоташтыру"
+                ],
+                "Bashkir": [
+                    "табыштырыу",
+                    "тоташтырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aktarmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əlaqələndirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېلېفوننى ئۇلىماق"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "id": "i117173",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mid-november",
+    "en_definition": "the middle part of November",
+    "tr_word": "kasım ortası",
+    "tr_definition": "Kasım ayının orta kısmı",
+    "ru_word": "середина ноября",
+    "ru_definition": "средняя часть ноября",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "noyabrın ortası",
+                    "noyabrın ortaları"
+                ],
+                "Turkmen": [
+                    "noýabr aýynyň ortasy"
+                ],
+                "Uzbek": [
+                    "noyabr o'rtasi",
+                    "noyabrning o'rtasi"
+                ],
+                "Uyghur": [
+                    "نويابىر ئوتتۇرىلىرى",
+                    "نويابىرنىڭ ئوتتۇرىسى"
+                ],
+                "Kyrgyz": [
+                    "ноябрь ортосу",
+                    "ноябрь айынын ортосу"
+                ],
+                "Karakalpak": [
+                    "noyabr ortası"
+                ],
+                "Tatar": [
+                    "ноябрь уртасы"
+                ],
+                "Bashkir": [
+                    "ноябрь уртаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sanjar aýynyň ortasy"
+                ],
+                "Kazakh": [
+                    "қараша айының орта шені"
+                ],
+                "Karakalpak": [
+                    "qarasha ortası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kasım ortası"
+                ],
+                "Tatar": [
+                    "кәсләш уртасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "teşrinisani ortası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қарашаның ортасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡырпағай уртаһы"
+                ]
+            }
+        }
+    ]
+}

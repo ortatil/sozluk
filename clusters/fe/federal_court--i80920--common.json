@@ -1,0 +1,115 @@
+{
+    "id": "i80920",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "federal court",
+    "en_definition": "a court establish by the authority of a federal government",
+    "tr_word": "federal mahkeme",
+    "tr_definition": "federal bir hükümetin yetkisiyle kurulmuş olan mahkeme",
+    "ru_word": "федеральный суд",
+    "ru_definition": "суд, созданный властями федерального правительства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "federal mahkeme"
+                ],
+                "Azerbaijani": [
+                    "federal məhkəmə"
+                ],
+                "Turkmen": [
+                    "federal kazyýeti"
+                ],
+                "Uzbek": [
+                    "federal sud"
+                ],
+                "Uyghur": [
+                    "فېدېراتسىيە مەھكىمىسى",
+                    "فېدېراتسىيە سوت مەھكىمىسى"
+                ],
+                "Kazakh": [
+                    "федералдық сот",
+                    "федерация соты"
+                ],
+                "Kyrgyz": [
+                    "федералдык сот"
+                ],
+                "Karakalpak": [
+                    "federallıq sud",
+                    "federaciya sudı"
+                ],
+                "Tatar": [
+                    "федераль мәхкәмә",
+                    "федераль суды"
+                ],
+                "Bashkir": [
+                    "федераль суд",
+                    "федерация суды"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ittifak mahkemesi"
+                ],
+                "Azerbaijani": [
+                    "ittifaq məhkəməsi"
+                ],
+                "Uzbek": [
+                    "ittifoq sudi"
+                ],
+                "Uyghur": [
+                    "ئىتتىپاقداش سوت مەھكىمىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "merkezi mahkeme"
+                ],
+                "Turkmen": [
+                    "merkezi kazyýet"
+                ],
+                "Uzbek": [
+                    "markaziy sud"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мамлекеттик сот"
+                ],
+                "Karakalpak": [
+                    "mámleketlik joqarǵı sud"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "одақтық сот"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борбордук сот"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дәүләт суды"
+                ]
+            }
+        }
+    ]
+}

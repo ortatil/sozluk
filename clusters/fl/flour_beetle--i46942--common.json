@@ -1,0 +1,104 @@
+{
+    "id": "i46942",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flour beetle",
+    "en_definition": "an insect that infests flour and stored grains",
+    "tr_word": "un biti",
+    "tr_definition": "un ve depolanmış tahıllara dadanan bir böcek",
+    "ru_word": "мучной хрущак",
+    "ru_definition": "насекомое, которое заражает муку и хранящееся зерно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "un böceği",
+                    "un biti"
+                ],
+                "Azerbaijani": [
+                    "un böcəyi",
+                    "un böcəyi qurdu"
+                ],
+                "Uzbek": [
+                    "un qo'ng'izi",
+                    "un biti",
+                    "un qurti"
+                ],
+                "Uyghur": [
+                    "ئۇن قوڭغۇزى",
+                    "ئۇن قۇرتى"
+                ],
+                "Kazakh": [
+                    "ұн жегіш",
+                    "ұн биті"
+                ],
+                "Kyrgyz": [
+                    "ун курту",
+                    "унчул коңуз"
+                ],
+                "Karakalpak": [
+                    "un jegishi"
+                ],
+                "Bashkir": [
+                    "он ҡорто"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "un kurdu"
+                ],
+                "Azerbaijani": [
+                    "un qurdu"
+                ],
+                "Turkmen": [
+                    "un goňzy"
+                ],
+                "Kazakh": [
+                    "ұн қоңызы"
+                ],
+                "Kyrgyz": [
+                    "ун коңузу"
+                ],
+                "Karakalpak": [
+                    "un qońızı"
+                ],
+                "Tatar": [
+                    "он корты",
+                    "он коңгызы",
+                    "он корткычы"
+                ],
+                "Bashkir": [
+                    "он ҡуңыҙы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "däne goňzy"
+                ],
+                "Karakalpak": [
+                    "dán qońızı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "un tomusy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاشلىق قوڭغۇزى"
+                ]
+            }
+        }
+    ]
+}

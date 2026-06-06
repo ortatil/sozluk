@@ -1,0 +1,105 @@
+{
+    "id": "i55564",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "latin cross",
+    "en_definition": "a cross with the lowest arm being longer than the others",
+    "tr_word": "latin haçı",
+    "tr_definition": "dikey kolu yatay kolundan daha uzun olan, Hristiyanlıkta en yaygın kullanılan haç biçimi",
+    "ru_word": "латинский крест",
+    "ru_definition": "тип креста, у которого вертикальная перекладина длиннее горизонтальной и пересекается ею выше середины",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haç"
+                ],
+                "Azerbaijani": [
+                    "xaç",
+                    "düz xaç"
+                ],
+                "Turkmen": [
+                    "haç",
+                    "haç nyşany"
+                ],
+                "Uzbek": [
+                    "xoch"
+                ],
+                "Kazakh": [
+                    "хаш"
+                ],
+                "Karakalpak": [
+                    "xash"
+                ],
+                "Tatar": [
+                    "хач"
+                ],
+                "Bashkir": [
+                    "хас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كرېست"
+                ],
+                "Kazakh": [
+                    "крест"
+                ],
+                "Kyrgyz": [
+                    "крест"
+                ],
+                "Karakalpak": [
+                    "krest"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "salip"
+                ],
+                "Uzbek": [
+                    "salib"
+                ],
+                "Uyghur": [
+                    "سەلىب"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Latin haçı"
+                ],
+                "Azerbaijani": [
+                    "latin xaçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айқыш"
+                ],
+                "Kyrgyz": [
+                    "айкаш жыгач"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәре"
+                ],
+                "Bashkir": [
+                    "тәре"
+                ]
+            }
+        }
+    ]
+}

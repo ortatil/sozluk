@@ -1,0 +1,72 @@
+{
+    "id": "i90506",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "highlander",
+    "en_definition": "a native of the Highlands of Scotland",
+    "tr_word": "İskoçyalı dağlı",
+    "tr_definition": "İskoçya'nın dağlık bölgelerinde (Highlands) yaşayan kimse",
+    "ru_word": "хайлендер",
+    "ru_definition": "уроженец горной части Шотландии (Хайленда)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağlı"
+                ],
+                "Azerbaijani": [
+                    "dağlı",
+                    "dağ sakini",
+                    "dağ adamı"
+                ],
+                "Turkmen": [
+                    "dagly",
+                    "dag adamy"
+                ],
+                "Uzbek": [
+                    "togʻlik",
+                    "togʻ odami"
+                ],
+                "Uyghur": [
+                    "تاغلىق",
+                    "تاغ ئادىمى",
+                    "تاغلىق كىشى"
+                ],
+                "Kazakh": [
+                    "таулық",
+                    "тау адамы",
+                    "тау тұрғыны"
+                ],
+                "Karakalpak": [
+                    "taolı",
+                    "taolıq"
+                ],
+                "Tatar": [
+                    "таулы",
+                    "тау кешесе"
+                ],
+                "Bashkir": [
+                    "таулы",
+                    "тау кешеһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaylacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоолук",
+                    "тоо кишиси",
+                    "тоо тургуну"
+                ]
+            }
+        }
+    ]
+}

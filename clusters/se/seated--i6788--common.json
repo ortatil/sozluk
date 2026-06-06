@@ -1,0 +1,73 @@
+{
+    "id": "i6788",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "seated",
+    "en_definition": "(of persons) having the torso erect and legs bent with the body supported on the buttocks",
+    "tr_word": "oturan",
+    "tr_definition": "vücudun kalça kısmıyla bir yere dayandığı, gövdenin dik ve bacakların bükülü olduğu pozisyonda bulunan kişi",
+    "ru_word": "сидячий",
+    "ru_definition": "находящийся в положении, при котором туловище расположено вертикально, а вес тела приходится на ягодицы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oturmuş",
+                    "oturan",
+                    "oturur"
+                ],
+                "Azerbaijani": [
+                    "oturaq",
+                    "oturmuş"
+                ],
+                "Turkmen": [
+                    "oturan",
+                    "oturgyçly"
+                ],
+                "Uzbek": [
+                    "oʻtirgan",
+                    "oʻtiriqli"
+                ],
+                "Uyghur": [
+                    "ئولتۇرغان",
+                    "ئولتۇرۇشلۇق"
+                ],
+                "Kazakh": [
+                    "отырған",
+                    "отырықты"
+                ],
+                "Kyrgyz": [
+                    "олтурган",
+                    "отурган"
+                ],
+                "Karakalpak": [
+                    "otırǵan",
+                    "otırıqshı"
+                ],
+                "Tatar": [
+                    "утырган",
+                    "утыручы"
+                ],
+                "Bashkir": [
+                    "ултырған",
+                    "ултырыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mukim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maskun"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": "i89945",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "film director",
+    "en_definition": "the person who directs the making of a film",
+    "tr_word": "film yönetmeni",
+    "tr_definition": "bir filmin yapımını yöneten kişi",
+    "ru_word": "кинорежиссёр",
+    "ru_definition": "человек, который руководит процессом создания фильма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rejisör"
+                ],
+                "Azerbaijani": [
+                    "rejissor"
+                ],
+                "Turkmen": [
+                    "režissýor"
+                ],
+                "Uzbek": [
+                    "rejissyor"
+                ],
+                "Uyghur": [
+                    "رېژىسسور"
+                ],
+                "Kazakh": [
+                    "режиссер"
+                ],
+                "Kyrgyz": [
+                    "режиссёр"
+                ],
+                "Karakalpak": [
+                    "rejissyor"
+                ],
+                "Tatar": [
+                    "режиссер"
+                ],
+                "Bashkir": [
+                    "режиссёр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қоюшы"
+                ],
+                "Kyrgyz": [
+                    "коюучу"
+                ],
+                "Karakalpak": [
+                    "qoyıoshı"
+                ],
+                "Tatar": [
+                    "куючы"
+                ],
+                "Bashkir": [
+                    "ҡуйыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sahnalaşdyryjy"
+                ],
+                "Uzbek": [
+                    "sahnalashtiruvchi"
+                ],
+                "Tatar": [
+                    "сәхнәләштерүче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "boshqaruvchi"
+                ],
+                "Kazakh": [
+                    "басқарушы"
+                ],
+                "Kyrgyz": [
+                    "башкаруучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yönetmen"
+                ],
+                "Azerbaijani": [
+                    "yönetmən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "film režissýory"
+                ],
+                "Uyghur": [
+                    "فىلىم رېژىسسورى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "quruluşçu rejissor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كىنو رېژىسسورى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "етәксе"
+                ]
+            }
+        }
+    ]
+}

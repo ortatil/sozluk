@@ -1,0 +1,198 @@
+# Geoduck
+| Field | Detail |
+|---|---|
+| **ID** | i45635 |
+| **English** | geoduck |
+| **Type** | noun |
+| **Definition** | a large edible clam found burrowing deeply in sandy mud along the Pacific coast of North America; weighs up to six pounds; has siphons that can extend to several feet and cannot be withdrawn into the shell |
+| **Source** | common |
+| **Ortatil** | mollyuska |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| моллюска | mollyuska |
+| үлүл | ülül |
+
+```json
+{
+    "id": "i45635",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "geoduck",
+    "en_definition": "a large edible clam found burrowing deeply in sandy mud along the Pacific coast of North America; weighs up to six pounds; has siphons that can extend to several feet and cannot be withdrawn into the shell",
+    "tr_word": "geoduck",
+    "tr_definition": "Kuzey Amerika'nın Pasifik kıyılarında yaşayan, çok uzun bir sifona sahip olan ve kabuğuna çekilemeyen, dünyanın en büyük kazıcı deniz minaresi türlerinden biri.",
+    "ru_word": "гуидак",
+    "ru_definition": "Крупный съедобный морской моллюск, обитающий у тихоокеанского побережья Северной Америки, отличающийся очень длинным сифоном, который не помещается в раковину.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "uzunboyunlu mollyusk"
+                ],
+                "Turkmen": [
+                    "uzun sýifonly gabykly"
+                ],
+                "Uzbek": [
+                    "uzun boʻyinli mollyuska"
+                ],
+                "Tatar": [
+                    "озын сифонлы кабырчык"
+                ],
+                "Bashkir": [
+                    "оҙон сифонлы ҡабырсаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "deňiz jandary"
+                ],
+                "Karakalpak": [
+                    "teńiz jánioarı"
+                ],
+                "Bashkir": [
+                    "диңгеҙ ҡабырсағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dev midye"
+                ],
+                "Uzbek": [
+                    "dev chigʻanoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fil hortumu midyesi"
+                ],
+                "Uyghur": [
+                    "پىل تۇمشۇقلۇق قۇلۇلە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly deňiz mollýuskasy"
+                ],
+                "Kyrgyz": [
+                    "деңиз үлүлү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "моллюска"
+                ],
+                "Karakalpak": [
+                    "mollyuska"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зур диңгез кабырчыгы"
+                ],
+                "Bashkir": [
+                    "ҙур ҡабырсаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hortumlu midye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəhəng dəniz ilbizi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qaz boyunlu ilbiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yirik dengiz chigʻanogʻi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گېئوداك قۇلۇلىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ قۇلۇلە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қосжақтаулы ұлу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ірі теңіз ұлуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құмдауық ұлу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үлүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "baqalshaq"
+                ]
+            }
+        }
+    ]
+}
+```
+

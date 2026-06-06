@@ -1,0 +1,140 @@
+{
+    "id": "i32989",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "prepay",
+    "en_definition": "pay for something before receiving it",
+    "tr_word": "önceden ödemek",
+    "tr_definition": "bir şeyi teslim almadan veya hizmeti kullanmadan önce ödemesini yapmak",
+    "ru_word": "вносить предоплату",
+    "ru_definition": "оплачивать что-либо заранее, до получения товара или услуги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "avans vermek"
+                ],
+                "Azerbaijani": [
+                    "avans vermək"
+                ],
+                "Uyghur": [
+                    "ئالدىن پۇل بەرمەك"
+                ],
+                "Kazakh": [
+                    "алдын ала ақы төлеу"
+                ],
+                "Kyrgyz": [
+                    "алдын ала төлөө",
+                    "алдын ала берүү"
+                ],
+                "Karakalpak": [
+                    "aldın ala tóleu",
+                    "aldın tóleu"
+                ],
+                "Tatar": [
+                    "алдан түләү",
+                    "алдан биреп кую"
+                ],
+                "Bashkir": [
+                    "алдан түләү",
+                    "алдалап түләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ön ödeme yapmak"
+                ],
+                "Azerbaijani": [
+                    "öncədən ödəmək"
+                ],
+                "Turkmen": [
+                    "öňünden tölemek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "peşin ödemek"
+                ],
+                "Azerbaijani": [
+                    "beş vermək"
+                ],
+                "Turkmen": [
+                    "beýe bermek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oldindan to'lamoq"
+                ],
+                "Uyghur": [
+                    "ئالدىن تۆلىمەك"
+                ],
+                "Kazakh": [
+                    "алдын ала төлеу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "peshaki to'lamoq"
+                ],
+                "Kyrgyz": [
+                    "белги төлөө"
+                ],
+                "Karakalpak": [
+                    "belgi tóleu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bo'nak bermoq"
+                ],
+                "Uyghur": [
+                    "بۆنەك بەرمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabaqcadan ödəmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "deslapky töleg etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "avvaldan to'lamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейне төлеу"
+                ]
+            }
+        }
+    ]
+}

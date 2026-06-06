@@ -1,0 +1,134 @@
+# Bce
+| Field | Detail |
+|---|---|
+| **ID** | i18161 |
+| **English** | bce |
+| **Type** | adverb |
+| **Definition** | of the period before the Common Era; preferred by some writers who are not Christians |
+| **Source** | common |
+| **Ortatil** | m |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i18161",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "bce",
+    "en_definition": "of the period before the Common Era; preferred by some writers who are not Christians",
+    "tr_word": "MÖ",
+    "tr_definition": "Milattan Önce; Hristiyan olmayan yazarlar tarafından tercih edilen, Ortak Çağ öncesi dönemi belirten kısaltma.",
+    "ru_word": "до н. э.",
+    "ru_definition": "до нашей эры; обозначение периода времени до начала летоисчисления по григорианскому календарю.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milattan önce"
+                ],
+                "Azerbaijani": [
+                    "miladdan öncə"
+                ],
+                "Turkmen": [
+                    "milatdan öň"
+                ],
+                "Uzbek": [
+                    "miloddan avvalgi"
+                ],
+                "Uyghur": [
+                    "مىلادىدىن بۇرۇن",
+                    "مىلادىدىن ئىلگىرى"
+                ],
+                "Tatar": [
+                    "миладтан элек"
+                ],
+                "Bashkir": [
+                    "миладтан алда"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "біздің заманымызға дейін"
+                ],
+                "Kyrgyz": [
+                    "биздин заманга чейин"
+                ],
+                "Karakalpak": [
+                    "bizdiń eramızǵa shekem",
+                    "bizdiń dáoirimizge shekem"
+                ],
+                "Tatar": [
+                    "безең эрага кадәр"
+                ],
+                "Bashkir": [
+                    "беҙҙең эраға тиклем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "eramızdan əvvəl"
+                ],
+                "Turkmen": [
+                    "eradan öň"
+                ],
+                "Uzbek": [
+                    "eradan avvalgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "m.ö."
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çağımızdan önce"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "günümüzden önce"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qədim era"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәуірімізге дейін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "заманга чейин"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,134 @@
+{
+    "id": "i111253",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "asthma",
+    "en_definition": "respiratory disorder characterized by wheezing; usually of allergic origin",
+    "tr_word": "astım",
+    "tr_definition": "Hırıltılı solunumla karakterize, genellikle alerjik kökenli solunum yolu bozukluğu.",
+    "ru_word": "астма",
+    "ru_definition": "Респираторное заболевание, характеризующееся свистящим дыханием, обычно аллергического происхождения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "astım"
+                ],
+                "Azerbaijani": [
+                    "astma"
+                ],
+                "Turkmen": [
+                    "astma"
+                ],
+                "Uzbek": [
+                    "asmo"
+                ],
+                "Tatar": [
+                    "астма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tıknefes"
+                ],
+                "Azerbaijani": [
+                    "təngnəfəslik"
+                ],
+                "Tatar": [
+                    "тын кысылу"
+                ],
+                "Bashkir": [
+                    "тын ҡыҫылыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "demgysma",
+                    "demgysyş"
+                ],
+                "Kazakh": [
+                    "демікпе",
+                    "деммікпе"
+                ],
+                "Kyrgyz": [
+                    "дем кыстыгуу",
+                    "дем алуунун кыйындашы",
+                    "дем кыстыкма"
+                ],
+                "Karakalpak": [
+                    "demikpe",
+                    "dem qıspa"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nefes darlığı"
+                ],
+                "Azerbaijani": [
+                    "nəfəs darlığı"
+                ],
+                "Uyghur": [
+                    "نەپەس سىقىلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ziqnafas"
+                ],
+                "Uyghur": [
+                    "زىققا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "буылу"
+                ],
+                "Bashkir": [
+                    "быуылыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boʻgʻma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەڭقىسەنەپەس"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көкірек ауруы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "быуын"
+                ]
+            }
+        }
+    ]
+}

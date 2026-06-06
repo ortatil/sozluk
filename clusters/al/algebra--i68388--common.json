@@ -1,0 +1,83 @@
+{
+    "id": "i68388",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "algebra",
+    "en_definition": "the mathematics of generalized arithmetical operations",
+    "tr_word": "cebir",
+    "tr_definition": "genelleştirilmiş aritmetik işlemlerin matematiği",
+    "ru_word": "алгебра",
+    "ru_definition": "раздел математики, изучающий обобщенные арифметические операции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aljebra"
+                ],
+                "Uzbek": [
+                    "aljabr"
+                ],
+                "Uyghur": [
+                    "ئالجېبرا",
+                    "ئەلجەبىر"
+                ],
+                "Kazakh": [
+                    "әл-жәбір",
+                    "алгебра"
+                ],
+                "Kyrgyz": [
+                    "алгебра",
+                    "алжабр"
+                ],
+                "Karakalpak": [
+                    "algebra",
+                    "ál-jabr"
+                ],
+                "Tatar": [
+                    "әлҗәбер"
+                ],
+                "Bashkir": [
+                    "әлжәбрә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesap"
+                ],
+                "Turkmen": [
+                    "hasap ylmy"
+                ],
+                "Uzbek": [
+                    "hisob"
+                ],
+                "Tatar": [
+                    "хисап"
+                ],
+                "Bashkir": [
+                    "хисап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cebir"
+                ],
+                "Azerbaijani": [
+                    "cəbr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "riyaziyyat"
+                ]
+            }
+        }
+    ]
+}

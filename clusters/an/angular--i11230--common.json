@@ -1,0 +1,130 @@
+{
+    "id": "i11230",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "angular",
+    "en_definition": "having angles or an angular shape",
+    "tr_word": "açılı",
+    "tr_definition": "açıları olan veya köşeli bir şekle sahip olan",
+    "ru_word": "угловатый",
+    "ru_definition": "имеющий углы или угловатую форму",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyraňly",
+                    "gyraň"
+                ],
+                "Uzbek": [
+                    "qirrali"
+                ],
+                "Uyghur": [
+                    "قىرلىق"
+                ],
+                "Kazakh": [
+                    "қырлы"
+                ],
+                "Kyrgyz": [
+                    "кырдуу",
+                    "кырлуу"
+                ],
+                "Karakalpak": [
+                    "qırılı"
+                ],
+                "Tatar": [
+                    "кырлы",
+                    "кырлы-почмаклы"
+                ],
+                "Bashkir": [
+                    "ҡырлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bucaqlı"
+                ],
+                "Turkmen": [
+                    "burçly"
+                ],
+                "Uzbek": [
+                    "burchakli"
+                ],
+                "Kazakh": [
+                    "бұрышты",
+                    "бұрыштық"
+                ],
+                "Kyrgyz": [
+                    "бурчтуу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zaviyeli"
+                ],
+                "Azerbaijani": [
+                    "zaviyəli"
+                ],
+                "Uyghur": [
+                    "زاۋىيىلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köşeli"
+                ],
+                "Azerbaijani": [
+                    "guşəli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "múyeshli",
+                    "múyeshi bar"
+                ],
+                "Bashkir": [
+                    "мөйөшлө",
+                    "мөйөш-мөйөш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "künclü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shakldor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۇلۇڭلۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "почмаклы"
+                ]
+            }
+        }
+    ]
+}

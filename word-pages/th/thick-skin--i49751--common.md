@@ -1,0 +1,118 @@
+# Thick skin
+| Field | Detail |
+|---|---|
+| **ID** | i49751 |
+| **English** | thick skin |
+| **Type** | noun |
+| **Definition** | skin that is very thick (as an elephant or rhinoceros) |
+| **Source** | common |
+| **Ortatil** | köseli |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| көбе | köbe |
+| сауыт | sauıt |
+
+```json
+{
+    "id": "i49751",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "thick skin",
+    "en_definition": "skin that is very thick (as an elephant or rhinoceros)",
+    "tr_word": "kalın deri",
+    "tr_definition": "Fil veya gergedan gibi hayvanlarda bulunan çok kalın cilt tabakası.",
+    "ru_word": "толстая кожа",
+    "ru_definition": "Очень плотный и толстый кожный покров, характерный для таких животных, как слоны или носороги.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kalın deri",
+                    "kaba deri"
+                ],
+                "Azerbaijani": [
+                    "qalın dəri"
+                ],
+                "Turkmen": [
+                    "galyň deri"
+                ],
+                "Uzbek": [
+                    "qalin teri"
+                ],
+                "Uyghur": [
+                    "قېلىن تېرە"
+                ],
+                "Kazakh": [
+                    "қалың тері"
+                ],
+                "Kyrgyz": [
+                    "калың тери",
+                    "калың кабык"
+                ],
+                "Karakalpak": [
+                    "qalıń teri",
+                    "qalıń qabıq"
+                ],
+                "Tatar": [
+                    "калын тире",
+                    "калын катлам"
+                ],
+                "Bashkir": [
+                    "ҡалын тире",
+                    "ҡаты тире"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kösele"
+                ],
+                "Kazakh": [
+                    "көбе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gatlakly deri"
+                ],
+                "Uyghur": [
+                    "قاتتىق تېرە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gön"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dag'al teri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сауыт"
+                ]
+            }
+        }
+    ]
+}
+```
+

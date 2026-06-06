@@ -1,0 +1,102 @@
+{
+    "id": "i59123",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "smoking room",
+    "en_definition": "room in a hotel or club set apart for smokers",
+    "tr_word": "sigara içme odası",
+    "tr_definition": "bir otel veya kulüpte sigara içenler için ayrılmış oda",
+    "ru_word": "курилка",
+    "ru_definition": "комната в гостинице или клубе, отведенная для курильщиков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تاماكا چېكىش ئۆيى",
+                    "تاماكاخانا"
+                ],
+                "Kazakh": [
+                    "темекіхана"
+                ],
+                "Kyrgyz": [
+                    "тамекикана"
+                ],
+                "Karakalpak": [
+                    "támpekixana"
+                ],
+                "Tatar": [
+                    "тәмәке тарту бүлмәсе",
+                    "тәмәке бүлмәсе"
+                ],
+                "Bashkir": [
+                    "тәмәке тартыу бүлмәһе",
+                    "тәмәкехана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çilimhana",
+                    "çilim çekilýän otag"
+                ],
+                "Kazakh": [
+                    "шылымхана"
+                ],
+                "Kyrgyz": [
+                    "чылымкана"
+                ],
+                "Karakalpak": [
+                    "shılımxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sigara odası"
+                ],
+                "Azerbaijani": [
+                    "siqaret otağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tütün odası"
+                ],
+                "Azerbaijani": [
+                    "tütün otağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çəkmə otağı"
+                ],
+                "Uzbek": [
+                    "chekish xonasi",
+                    "chekxona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "içme odası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тарту бүлмәсе"
+                ]
+            }
+        }
+    ]
+}

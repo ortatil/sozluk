@@ -1,0 +1,97 @@
+{
+    "id": "i71015",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "text editor",
+    "en_definition": "(computer science) an application that can be used to create and view and edit text files",
+    "tr_word": "metin düzenleyici",
+    "tr_definition": "metin dosyaları oluşturmak, görüntülemek ve düzenlemek için kullanılan bir bilgisayar uygulaması",
+    "ru_word": "текстовый редактор",
+    "ru_definition": "компьютерная программа, предназначенная для создания, просмотра и редактирования текстовых файлов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "metin düzenleyici",
+                    "metin işlemci"
+                ],
+                "Azerbaijani": [
+                    "mətn redaktoru",
+                    "mətn düzənləyicisi"
+                ],
+                "Turkmen": [
+                    "metin redaktory"
+                ],
+                "Uzbek": [
+                    "matn tahrirchisi",
+                    "matn muharriri"
+                ],
+                "Kazakh": [
+                    "мәтін өңдегіш",
+                    "мәтіндік редактор",
+                    "мәтін түзеткіш"
+                ],
+                "Karakalpak": [
+                    "mátin redaktorı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tekst redaktory"
+                ],
+                "Uyghur": [
+                    "تېكىست تەھرىرلىگۈچ",
+                    "تېكىست تەھرىرلىگۈچى",
+                    "تېكىست تەھرىرلەش قورالى"
+                ],
+                "Kyrgyz": [
+                    "тексттик редактор",
+                    "текст түзөткүч"
+                ],
+                "Karakalpak": [
+                    "tekst redaktorı"
+                ],
+                "Tatar": [
+                    "текст мөхәррире"
+                ],
+                "Bashkir": [
+                    "текст мөхәррирләүсе",
+                    "текст төҙәтеүсе",
+                    "текст яҙыу программаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazı düzenleyici"
+                ],
+                "Kyrgyz": [
+                    "жазуу түзөткүч"
+                ],
+                "Tatar": [
+                    "язу мөхәррире"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yazı redaktoru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýazuw guraly"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "id": "i89438",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "defaulter",
+    "en_definition": "someone who fails to meet a financial obligation",
+    "tr_word": "mütemerrit",
+    "tr_definition": "borcunu veya finansal yükümlülüğünü zamanında yerine getirmeyen kimse",
+    "ru_word": "неплательщик",
+    "ru_definition": "лицо, не выполняющее свои финансовые обязательства в срок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "borçlu"
+                ],
+                "Azerbaijani": [
+                    "borclu",
+                    "borcunu ödəməyən"
+                ],
+                "Turkmen": [
+                    "borçly"
+                ],
+                "Kazakh": [
+                    "борышкер"
+                ],
+                "Tatar": [
+                    "бурычлы"
+                ],
+                "Bashkir": [
+                    "бурыслы",
+                    "бурысын түләмәүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mütemerrit"
+                ],
+                "Kazakh": [
+                    "төлемеуші"
+                ],
+                "Karakalpak": [
+                    "tólemsiz"
+                ],
+                "Tatar": [
+                    "түләмәүче"
+                ],
+                "Bashkir": [
+                    "түләмәүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "karzdar"
+                ],
+                "Uzbek": [
+                    "qarzdor"
+                ],
+                "Kazakh": [
+                    "қарыздар"
+                ],
+                "Kyrgyz": [
+                    "карыздар",
+                    "карызкор"
+                ],
+                "Karakalpak": [
+                    "qarızdar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bergidar"
+                ],
+                "Uyghur": [
+                    "قەرزدار",
+                    "بەرەمدار"
+                ],
+                "Kyrgyz": [
+                    "бересе"
+                ],
+                "Karakalpak": [
+                    "bershekli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'lovchi"
+                ],
+                "Uyghur": [
+                    "تۆلىمىگۈچى"
+                ],
+                "Kyrgyz": [
+                    "төлөбөс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müflis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ödemeyen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "öhdəsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müqəssir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "majburiyatdor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ۋەدىسىگە خىلاپلىق قىلغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "вазифасын үтәмәүче"
+                ]
+            }
+        }
+    ]
+}

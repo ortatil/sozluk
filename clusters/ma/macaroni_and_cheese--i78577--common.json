@@ -1,0 +1,80 @@
+{
+    "id": "i78577",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "macaroni and cheese",
+    "en_definition": "macaroni prepared in a cheese sauce",
+    "tr_word": "peynirli makarna",
+    "tr_definition": "Peynir sosuyla hazırlanan bir tür makarna yemeği.",
+    "ru_word": "макароны с сыром",
+    "ru_definition": "Блюдо из макарон, приготовленное в сырном соусе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "peynirli makarna",
+                    "peynirli erişte"
+                ],
+                "Azerbaijani": [
+                    "pendirli makaron",
+                    "pendirli xəmir xörəyi"
+                ],
+                "Turkmen": [
+                    "peýnirli makaron",
+                    "peýnirli hamyraş"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "сыр кошулган кесме"
+                ],
+                "Karakalpak": [
+                    "sır qosılǵan makaron"
+                ],
+                "Bashkir": [
+                    "сырлы макарон",
+                    "сыр менән макарон"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "сырдуу макарон"
+                ],
+                "Karakalpak": [
+                    "sırlı makaron"
+                ],
+                "Tatar": [
+                    "сырлы макарон",
+                    "сырлы камыр ашы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pishloqli makaron",
+                    "pishloqli xamir ovqat"
+                ],
+                "Uyghur": [
+                    "پىشلاقلىق ماكارون",
+                    "پىشلاقلىق خېمىر تائام"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ірімшік қосылған кеспе",
+                    "ірімшік қосылған макарон"
+                ]
+            }
+        }
+    ]
+}

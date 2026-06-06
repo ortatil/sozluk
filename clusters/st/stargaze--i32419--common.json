@@ -1,0 +1,86 @@
+{
+    "id": "i32419",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "stargaze",
+    "en_definition": "observe the stars",
+    "tr_word": "yıldızları seyretmek",
+    "tr_definition": "yıldızları gözlemlemek veya onlara bakmak",
+    "ru_word": "созерцать звёзды",
+    "ru_definition": "наблюдать за звёздами или смотреть на них",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yıldızları izlemek",
+                    "yıldızları seyretmek"
+                ],
+                "Turkmen": [
+                    "ýyldyzlary synlamak",
+                    "ýyldyzlara bakmak",
+                    "ýyldyzlary gözlemek"
+                ],
+                "Uzbek": [
+                    "yulduz kuzatmoq",
+                    "yulduzlarga boqmoq",
+                    "yulduz tomosha qilmoq"
+                ],
+                "Uyghur": [
+                    "يۇلتۇز كۆزەتمەك",
+                    "يۇلتۇزلارغا قارىماق",
+                    "يۇلتۇز تاماشا قىلماق"
+                ],
+                "Kazakh": [
+                    "жұлдыз бақылау",
+                    "жұлдызға қарау"
+                ],
+                "Kyrgyz": [
+                    "жылдыз кароо",
+                    "жылдыз байкоо",
+                    "жылдыз тиктөө"
+                ],
+                "Karakalpak": [
+                    "jұldız baqılau",
+                    "jұldız tamashalau",
+                    "jұldızǵa qarau"
+                ],
+                "Tatar": [
+                    "йолдыз күзәтү",
+                    "йолдызларга карау",
+                    "йолдыз тамаша кылу"
+                ],
+                "Bashkir": [
+                    "йондоҙ күҙәтеү",
+                    "йондоҙҙарға ҡарау",
+                    "йондоҙҙарҙы тамаша ҡылыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gökyüzünü gözlemek"
+                ],
+                "Azerbaijani": [
+                    "göyə baxmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ulduzları seyr etmək",
+                    "ulduzlara baxmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аспанға қарау"
+                ]
+            }
+        }
+    ]
+}

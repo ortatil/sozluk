@@ -1,0 +1,96 @@
+{
+    "id": "i65275",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gallbladder",
+    "en_definition": "a muscular sac attached to the liver that stores bile (secreted by the liver) until it is needed for digestion",
+    "tr_word": "safra kesesi",
+    "tr_definition": "Karaciğerin altında bulunan ve karaciğerden salgılanan safrayı depolayan torba şeklindeki organ.",
+    "ru_word": "желчный пузырь",
+    "ru_definition": "Орган, в котором накапливается желчь, вырабатываемая печенью, перед её поступлением в двенадцатиперстную кишку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öt"
+                ],
+                "Uzbek": [
+                    "oʻt"
+                ],
+                "Uyghur": [
+                    "ئۆت"
+                ],
+                "Kazakh": [
+                    "өт"
+                ],
+                "Kyrgyz": [
+                    "өт"
+                ],
+                "Karakalpak": [
+                    "ót"
+                ],
+                "Tatar": [
+                    "үт"
+                ],
+                "Bashkir": [
+                    "үт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öd kesesi"
+                ],
+                "Azerbaijani": [
+                    "öd kisəsi"
+                ],
+                "Turkmen": [
+                    "öt haltasy"
+                ],
+                "Uzbek": [
+                    "oʻt pufagi",
+                    "oʻt xaltasi"
+                ],
+                "Uyghur": [
+                    "ئۆت خالتىسى"
+                ],
+                "Kazakh": [
+                    "өт қалтасы"
+                ],
+                "Kyrgyz": [
+                    "өт баштыкчасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өт қабы"
+                ],
+                "Karakalpak": [
+                    "ót qabı"
+                ],
+                "Tatar": [
+                    "үт куыгы"
+                ],
+                "Bashkir": [
+                    "үт ҡыуығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "safra kesesi"
+                ],
+                "Azerbaijani": [
+                    "safra kisəsi"
+                ]
+            }
+        }
+    ]
+}

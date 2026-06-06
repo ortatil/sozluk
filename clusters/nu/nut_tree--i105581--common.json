@@ -1,0 +1,87 @@
+{
+    "id": "i105581",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nut tree",
+    "en_definition": "tree bearing edible nuts",
+    "tr_word": "fındık ağacı",
+    "tr_definition": "Yenilebilir sert kabuklu meyveler veren ağaç türü.",
+    "ru_word": "ореховое дерево",
+    "ru_definition": "Дерево, приносящее съедобные орехи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yong'oqdoshlar",
+                    "yong'oq daraxti"
+                ],
+                "Uyghur": [
+                    "ياڭاق دەرىخى",
+                    "ياڭاقلىق"
+                ],
+                "Kazakh": [
+                    "жаңғақ ағашы",
+                    "жаңғақ"
+                ],
+                "Kyrgyz": [
+                    "жаңгак",
+                    "жаңгак дарагы"
+                ],
+                "Karakalpak": [
+                    "jańǵaq teregi",
+                    "jańǵaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemiş ağacı",
+                    "ceviz ağacı"
+                ],
+                "Tatar": [
+                    "чиләк агачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fındık ağacı"
+                ],
+                "Azerbaijani": [
+                    "fındıq ağacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qoz ağacı"
+                ],
+                "Turkmen": [
+                    "hoz agajy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чикләвек агачы"
+                ],
+                "Bashkir": [
+                    "сәтләүек ағасы",
+                    "сәтләүеклек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hozy"
+                ]
+            }
+        }
+    ]
+}

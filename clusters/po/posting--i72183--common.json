@@ -1,0 +1,169 @@
+{
+    "id": "i72183",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "posting",
+    "en_definition": "a sign posted in a public place as an advertisement",
+    "tr_word": "ilan",
+    "tr_definition": "Halka açık bir yere asılan reklam veya duyuru levhası.",
+    "ru_word": "объявление",
+    "ru_definition": "Рекламный или информационный листок, вывешенный в общественном месте.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bildiriş"
+                ],
+                "Turkmen": [
+                    "bildiriş"
+                ],
+                "Uzbek": [
+                    "bildirishnoma"
+                ],
+                "Uyghur": [
+                    "بىلدۈرۈش"
+                ],
+                "Kyrgyz": [
+                    "билдирүү"
+                ],
+                "Karakalpak": [
+                    "bildirio"
+                ],
+                "Tatar": [
+                    "белдерү"
+                ],
+                "Bashkir": [
+                    "белдереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilan"
+                ],
+                "Azerbaijani": [
+                    "elan"
+                ],
+                "Uzbek": [
+                    "e'lon"
+                ],
+                "Uyghur": [
+                    "ئېلان"
+                ],
+                "Karakalpak": [
+                    "ilanat"
+                ],
+                "Tatar": [
+                    "игълан"
+                ],
+                "Bashkir": [
+                    "иғлан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jar"
+                ],
+                "Uzbek": [
+                    "jar"
+                ],
+                "Kazakh": [
+                    "жарнама",
+                    "жарияланым"
+                ],
+                "Kyrgyz": [
+                    "жарыя"
+                ],
+                "Karakalpak": [
+                    "járnam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "afiş"
+                ],
+                "Azerbaijani": [
+                    "afişa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хабарландыру",
+                    "хабарлама"
+                ],
+                "Tatar": [
+                    "хәбәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "язу"
+                ],
+                "Bashkir": [
+                    "яҙыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duyuru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tebliğ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mahabat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lavha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇقتۇرۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кулактандыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "daǵaza"
+                ]
+            }
+        }
+    ]
+}

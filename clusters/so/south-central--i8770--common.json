@@ -1,0 +1,114 @@
+{
+    "id": "i8770",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "south-central",
+    "en_definition": "situated in the southern part of a centrally located area in some geographical region",
+    "tr_word": "güney-orta",
+    "tr_definition": "bir coğrafi bölgenin merkezi kısmının güneyinde yer alan",
+    "ru_word": "южно-центральный",
+    "ru_definition": "расположенный в южной части центрального района какого-либо географического региона",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orta güney"
+                ],
+                "Azerbaijani": [
+                    "orta cənub"
+                ],
+                "Turkmen": [
+                    "orta-günorta"
+                ],
+                "Uzbek": [
+                    "oʻrta janubiy"
+                ],
+                "Kazakh": [
+                    "орталық-оңтүстік"
+                ],
+                "Kyrgyz": [
+                    "ортоңку түштүк"
+                ],
+                "Karakalpak": [
+                    "oraylıq-qubla"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cənub-mərkəzi"
+                ],
+                "Uzbek": [
+                    "janubiy-markaziy"
+                ],
+                "Uyghur": [
+                    "جەنۇبىي مەركىزىي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көньяк-үзәк",
+                    "үзәк-көньяк"
+                ],
+                "Bashkir": [
+                    "көньяҡ-үҙәк",
+                    "үҙәк-көньяҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güney iç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iç güney"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "günorta-merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرا جەنۇب"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оңтүстік-орталық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түштүк-борбордук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qubla-oraylıq"
+                ]
+            }
+        }
+    ]
+}

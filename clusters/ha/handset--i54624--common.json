@@ -1,0 +1,142 @@
+{
+    "id": "i54624",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "handset",
+    "en_definition": "telephone set with the mouthpiece and earpiece mounted on a single handle",
+    "tr_word": "ahize",
+    "tr_definition": "Telefonun ağza ve kulağa gelen parçalarının bir sap üzerinde birleştiği kısım.",
+    "ru_word": "телефонная трубка",
+    "ru_definition": "Часть телефонного аппарата, объединяющая микрофон и динамик в одном корпусе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telefon"
+                ],
+                "Azerbaijani": [
+                    "telefon dəstəyi"
+                ],
+                "Turkmen": [
+                    "telefon"
+                ],
+                "Uyghur": [
+                    "تېلېفون دەستىسى",
+                    "تېلېفون قوبۇللىغۇچ"
+                ],
+                "Kazakh": [
+                    "телефон тұтқасы"
+                ],
+                "Karakalpak": [
+                    "telefon tұtqası"
+                ],
+                "Tatar": [
+                    "телефон трубкасы"
+                ],
+                "Bashkir": [
+                    "телефон көпшәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "trubka"
+                ],
+                "Kazakh": [
+                    "тұтқа"
+                ],
+                "Kyrgyz": [
+                    "тутка"
+                ],
+                "Karakalpak": [
+                    "tұtqa"
+                ],
+                "Tatar": [
+                    "трубка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "destek"
+                ],
+                "Azerbaijani": [
+                    "dəstək"
+                ],
+                "Uzbek": [
+                    "dasta"
+                ],
+                "Uyghur": [
+                    "دەستە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qulaqlıq"
+                ],
+                "Kazakh": [
+                    "құлаққап"
+                ],
+                "Kyrgyz": [
+                    "кулакчын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "go'shak"
+                ],
+                "Bashkir": [
+                    "көпшә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тыңлагыч"
+                ],
+                "Bashkir": [
+                    "тыңлағыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ahize"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "el telefony"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tutqich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сүйлөшүүчү тутка"
+                ]
+            }
+        }
+    ]
+}

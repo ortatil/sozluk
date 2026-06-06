@@ -1,0 +1,191 @@
+{
+    "id": "i71841",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "description",
+    "en_definition": "a statement that represents something in words",
+    "tr_word": "betimleme",
+    "tr_definition": "bir şeyi kelimelerle temsil eden ifade",
+    "ru_word": "описание",
+    "ru_definition": "высказывание, представляющее что-либо словами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bəyan"
+                ],
+                "Turkmen": [
+                    "beýan",
+                    "beýannama"
+                ],
+                "Uzbek": [
+                    "bayon"
+                ],
+                "Uyghur": [
+                    "بايان"
+                ],
+                "Kazakh": [
+                    "баяндау"
+                ],
+                "Kyrgyz": [
+                    "баяндама"
+                ],
+                "Karakalpak": [
+                    "bayandama"
+                ],
+                "Tatar": [
+                    "бәян"
+                ],
+                "Bashkir": [
+                    "бәйән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tasvir"
+                ],
+                "Azerbaijani": [
+                    "təsvir"
+                ],
+                "Uzbek": [
+                    "tasvir"
+                ],
+                "Uyghur": [
+                    "تەسۋىر"
+                ],
+                "Tatar": [
+                    "тасвир",
+                    "тасвирлама"
+                ],
+                "Bashkir": [
+                    "тасуир",
+                    "тасуирлама"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarif"
+                ],
+                "Turkmen": [
+                    "taryp"
+                ],
+                "Uzbek": [
+                    "ta'rif"
+                ],
+                "Uyghur": [
+                    "تەرىپ"
+                ],
+                "Karakalpak": [
+                    "tárip"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سۈپەتلەش"
+                ],
+                "Kazakh": [
+                    "сипаттама"
+                ],
+                "Kyrgyz": [
+                    "сыпаттоо"
+                ],
+                "Tatar": [
+                    "сыйфатлама"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "сүрөттөмө"
+                ],
+                "Karakalpak": [
+                    "súrátleme"
+                ],
+                "Bashkir": [
+                    "һүрәтләмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vəsf"
+                ],
+                "Turkmen": [
+                    "wasp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "izah"
+                ],
+                "Azerbaijani": [
+                    "izah"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tavsif"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "betimleme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tanım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аныктама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түсініктеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнелеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tápsir"
+                ]
+            }
+        }
+    ]
+}

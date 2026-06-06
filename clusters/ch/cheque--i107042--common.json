@@ -1,0 +1,114 @@
+{
+    "id": "i107042",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cheque",
+    "en_definition": "a written order directing a bank to pay money",
+    "tr_word": "çek",
+    "tr_definition": "bir bankaya, belirli bir miktarın ödenmesi için verilen yazılı emir",
+    "ru_word": "чек",
+    "ru_definition": "письменное распоряжение банку выплатить указанную сумму",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çek"
+                ],
+                "Azerbaijani": [
+                    "çek"
+                ],
+                "Turkmen": [
+                    "çek"
+                ],
+                "Uzbek": [
+                    "chek"
+                ],
+                "Uyghur": [
+                    "چەك"
+                ],
+                "Kazakh": [
+                    "чек"
+                ],
+                "Kyrgyz": [
+                    "чек",
+                    "акча кагазы"
+                ],
+                "Karakalpak": [
+                    "chek"
+                ],
+                "Tatar": [
+                    "чек",
+                    "акча кәгазе"
+                ],
+                "Bashkir": [
+                    "чек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töleg haty"
+                ],
+                "Uzbek": [
+                    "to'lov varaqasi"
+                ],
+                "Kazakh": [
+                    "төлем қағазы"
+                ],
+                "Kyrgyz": [
+                    "төлөм кагазы"
+                ],
+                "Karakalpak": [
+                    "tólem qaǵazı"
+                ],
+                "Bashkir": [
+                    "түләү ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ödeme emri"
+                ],
+                "Azerbaijani": [
+                    "ödəmə sənədi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақшалай құжат"
+                ],
+                "Bashkir": [
+                    "аҡса ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havale"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pul hujjati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بانكا چىكى"
+                ]
+            }
+        }
+    ]
+}

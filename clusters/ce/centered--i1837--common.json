@@ -1,0 +1,108 @@
+{
+    "id": "i1837",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "centered",
+    "en_definition": "being or placed in the center",
+    "tr_word": "merkezlenmiş",
+    "tr_definition": "merkezde bulunan veya merkeze yerleştirilmiş olan",
+    "ru_word": "центрированный",
+    "ru_definition": "находящийся или расположенный в центре",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ortalanmış",
+                    "ortada"
+                ],
+                "Azerbaijani": [
+                    "ortalanmış"
+                ],
+                "Turkmen": [
+                    "ortaky"
+                ],
+                "Uzbek": [
+                    "oʻrtadagi"
+                ],
+                "Kazakh": [
+                    "орталықтанған",
+                    "ортадағы"
+                ],
+                "Kyrgyz": [
+                    "ортодогу",
+                    "ортолук"
+                ],
+                "Karakalpak": [
+                    "ortalıqtaǵı",
+                    "ortalıqtanǵan",
+                    "ortadaǵı"
+                ],
+                "Tatar": [
+                    "уртадагы"
+                ],
+                "Bashkir": [
+                    "урталағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "merkezlenmiş",
+                    "merkezi"
+                ],
+                "Azerbaijani": [
+                    "mərkəzləşmiş",
+                    "mərkəzi"
+                ],
+                "Turkmen": [
+                    "merkezi",
+                    "merkezleşdirilen"
+                ],
+                "Uzbek": [
+                    "markaziy",
+                    "markazlashgan"
+                ],
+                "Uyghur": [
+                    "مەركەزلىك",
+                    "مەركەزلەشكەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзәкләштерелгән",
+                    "үзәктәге"
+                ],
+                "Bashkir": [
+                    "үҙәктәге",
+                    "үҙәкләштерелгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرىدىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кіндіктелген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борбордук"
+                ]
+            }
+        }
+    ]
+}

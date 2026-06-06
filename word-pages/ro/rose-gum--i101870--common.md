@@ -1,0 +1,144 @@
+# Rose gum
+| Field | Detail |
+|---|---|
+| **ID** | i101870 |
+| **English** | rose gum |
+| **Type** | noun |
+| **Definition** | very tall tree of Queensland and New South Wales |
+| **Source** | common |
+| **Ortatil** | ewkälipt |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i101870",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rose gum",
+    "en_definition": "very tall tree of Queensland and New South Wales",
+    "tr_word": "pembe okaliptüs",
+    "tr_definition": "Queensland ve Yeni Güney Galler'e özgü, çok uzun boylu bir okaliptüs ağacı türü.",
+    "ru_word": "эвкалипт большой",
+    "ru_definition": "очень высокое дерево семейства Миртовые, произрастающее в Квинсленде и Новом Южном Уэльсе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "okaliptüs ağacı"
+                ],
+                "Uyghur": [
+                    "ئېۋكالىپت دەرىخى"
+                ],
+                "Kazakh": [
+                    "биік эвкалипт"
+                ],
+                "Karakalpak": [
+                    "ewkalipt"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəhəng evkalipt"
+                ],
+                "Uyghur": [
+                    "قىزىل يېلىملىق ئېۋكالىپت"
+                ],
+                "Tatar": [
+                    "алсу сумалалы эвкалипт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қызғылт эвкалипт"
+                ],
+                "Kyrgyz": [
+                    "кызгылт эвкалипт"
+                ],
+                "Karakalpak": [
+                    "qızıl ewkalipt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pembe okaliptüs"
+                ],
+                "Bashkir": [
+                    "бейек эвкалипт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "алсу эвкалипт"
+                ],
+                "Bashkir": [
+                    "алһыу эвкалипт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gül okaliptüsü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çəhrayı evkalipt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "rozagum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "rozagum ewkalipti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "evkalipt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pushti evkalipt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бийик эвкалипт"
+                ]
+            }
+        }
+    ]
+}
+```
+

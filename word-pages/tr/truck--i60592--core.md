@@ -1,0 +1,154 @@
+# Truck
+| Field | Detail |
+|---|---|
+| **ID** | i60592 |
+| **English** | truck |
+| **Type** | noun |
+| **Definition** | an automotive vehicle suitable for hauling |
+| **Source** | core |
+| **Ortatil** | ulaw |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| көлік | kölik |
+
+```json
+{
+    "id": "i60592",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "truck",
+    "en_definition": "an automotive vehicle suitable for hauling",
+    "tr_word": "kamyon",
+    "tr_definition": "Yük taşımaya yarayan, motorlu büyük araç.",
+    "ru_word": "грузовик",
+    "ru_definition": "Автомобиль, предназначенный для перевозки грузов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yük maşını"
+                ],
+                "Turkmen": [
+                    "ýük maşyny"
+                ],
+                "Uzbek": [
+                    "yuk mashinasi"
+                ],
+                "Uyghur": [
+                    "يۈك ماشىنىسى"
+                ],
+                "Karakalpak": [
+                    "júk mashinası"
+                ],
+                "Tatar": [
+                    "йөк машинасы"
+                ],
+                "Bashkir": [
+                    "йөк машинаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yük avtomobili"
+                ],
+                "Uzbek": [
+                    "yuk avtomobili"
+                ],
+                "Uyghur": [
+                    "يۈك ئاپتوموبىلى"
+                ],
+                "Bashkir": [
+                    "йөк автомобиле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yük arabası"
+                ],
+                "Kazakh": [
+                    "жүк арба"
+                ],
+                "Tatar": [
+                    "йөк арбасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жүк көлігі"
+                ],
+                "Karakalpak": [
+                    "júk kóligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kamyon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taşıt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yükdaşıyan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýük ulagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ulov"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жүк ташуучу унаа",
+                    "жүк ташуучу машина",
+                    "жүк ташуучу"
+                ]
+            }
+        }
+    ]
+}
+```
+

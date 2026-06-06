@@ -1,0 +1,124 @@
+{
+    "id": "i90108",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fry cook",
+    "en_definition": "a cook who specializes in fried foods",
+    "tr_word": "kızartma aşçısı",
+    "tr_definition": "kızarmış yiyecekler konusunda uzmanlaşmış aşçı",
+    "ru_word": "повар на фритюре",
+    "ru_definition": "повар, специализирующийся на приготовлении блюд во фритюре или на жарке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aşpaz"
+                ],
+                "Turkmen": [
+                    "aşpez"
+                ],
+                "Uzbek": [
+                    "oshpaz"
+                ],
+                "Uyghur": [
+                    "ئاشپەز"
+                ],
+                "Kazakh": [
+                    "аспаз"
+                ],
+                "Kyrgyz": [
+                    "ашпоз",
+                    "ашпозчу"
+                ],
+                "Karakalpak": [
+                    "aspaz"
+                ],
+                "Tatar": [
+                    "ашчы"
+                ],
+                "Bashkir": [
+                    "ашнаҡсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gowuryjy"
+                ],
+                "Uyghur": [
+                    "قورۇمىچى"
+                ],
+                "Kazakh": [
+                    "қуырушы",
+                    "қуырма аспазы"
+                ],
+                "Kyrgyz": [
+                    "кууруучу"
+                ],
+                "Karakalpak": [
+                    "quoırmashı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızartmacı",
+                    "ızgaracı"
+                ],
+                "Azerbaijani": [
+                    "qızartma aşpazı",
+                    "qızartma ustası"
+                ],
+                "Tatar": [
+                    "кыздыручы"
+                ],
+                "Bashkir": [
+                    "ҡыҙырыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavacı"
+                ],
+                "Turkmen": [
+                    "tagamçy"
+                ],
+                "Uyghur": [
+                    "تائامپەز"
+                ],
+                "Karakalpak": [
+                    "taǵampaz"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "pazanda"
+                ],
+                "Tatar": [
+                    "пешерүче"
+                ],
+                "Bashkir": [
+                    "бешерсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qovurdoqchi"
+                ]
+            }
+        }
+    ]
+}

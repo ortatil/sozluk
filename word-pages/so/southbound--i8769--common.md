@@ -1,0 +1,113 @@
+# Southbound
+| Field | Detail |
+|---|---|
+| **ID** | i8769 |
+| **English** | southbound |
+| **Type** | adjective |
+| **Definition** | moving toward the south |
+| **Source** | common |
+| **Ortatil** | cänubyönlü |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i8769",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "southbound",
+    "en_definition": "moving toward the south",
+    "tr_word": "güneye giden",
+    "tr_definition": "güney yönünde ilerleyen",
+    "ru_word": "направляющийся на юг",
+    "ru_definition": "движущийся в южном направлении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cenup yönlü"
+                ],
+                "Azerbaijani": [
+                    "cənuba doğru",
+                    "cənub istiqamətli",
+                    "cənubyönlü"
+                ],
+                "Uzbek": [
+                    "janubga yo'nalgan",
+                    "janubiy",
+                    "janub tomon"
+                ],
+                "Uyghur": [
+                    "جەنۇبقا قاراپ ماڭغان",
+                    "جەنۇبقا يۆنەلگەن",
+                    "جەنۇب تەرەپكە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güneye giden",
+                    "güney yönlü"
+                ],
+                "Turkmen": [
+                    "günorta ugraýan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көньякка юнәлгән",
+                    "көньякка таба",
+                    "көньяк юнәлешендәге"
+                ],
+                "Bashkir": [
+                    "көньяҡҡа йүнәлгән",
+                    "көньяҡҡа табан",
+                    "көньяҡ йүнәлешендәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "günorta tarapa",
+                    "günorta ugrunda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оңтүстікке бағытталған",
+                    "оңтүстікке бет алған",
+                    "оңтүстікке қарай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түштүккө багытталган",
+                    "түштүккө карай",
+                    "түштүк тарапка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qublaǵa baǵıttalǵan",
+                    "qublaǵa qaray",
+                    "qubla betke"
+                ]
+            }
+        }
+    ]
+}
+```
+

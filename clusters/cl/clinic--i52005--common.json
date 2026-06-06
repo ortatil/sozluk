@@ -1,0 +1,165 @@
+{
+    "id": "i52005",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "clinic",
+    "en_definition": "a healthcare facility for outpatient care",
+    "tr_word": "klinik",
+    "tr_definition": "Ayakta tedavi gören hastaların bakıldığı sağlık kuruluşu.",
+    "ru_word": "клиника",
+    "ru_definition": "Лечебно-профилактическое учреждение для амбулаторного лечения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şifahane"
+                ],
+                "Azerbaijani": [
+                    "şəfa ocağı"
+                ],
+                "Uzbek": [
+                    "shifoxona",
+                    "shifomaskan"
+                ],
+                "Kazakh": [
+                    "шипажай"
+                ],
+                "Kyrgyz": [
+                    "шыпакана"
+                ],
+                "Karakalpak": [
+                    "shipaxana"
+                ],
+                "Tatar": [
+                    "шифаханә"
+                ],
+                "Bashkir": [
+                    "шифахана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağlık ocağı"
+                ],
+                "Turkmen": [
+                    "saglyk öýi"
+                ],
+                "Uyghur": [
+                    "ساقلىقنى ساقلاش ئورنى"
+                ],
+                "Kazakh": [
+                    "сауықтыру орны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "emhana"
+                ],
+                "Uyghur": [
+                    "ئامبۇلاتورىيە"
+                ],
+                "Kyrgyz": [
+                    "эмкана"
+                ],
+                "Bashkir": [
+                    "имхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "davolash maskani"
+                ],
+                "Uyghur": [
+                    "داۋالاشخانە"
+                ],
+                "Tatar": [
+                    "дәвалауханә"
+                ],
+                "Bashkir": [
+                    "дауахана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "klinik"
+                ],
+                "Azerbaijani": [
+                    "klinika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muayenehane"
+                ],
+                "Azerbaijani": [
+                    "müalicəxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tibb mərkəzi"
+                ],
+                "Uzbek": [
+                    "tibbiyot markazi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "емхана"
+                ],
+                "Karakalpak": [
+                    "emleuxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "salamatlıq orayı"
+                ],
+                "Tatar": [
+                    "сәламәтлек үзәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "poliklinik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bejerişhana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бейтапкана"
+                ]
+            }
+        }
+    ]
+}

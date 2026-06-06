@@ -1,0 +1,117 @@
+{
+    "id": "i70686",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "credit application",
+    "en_definition": "an application for a line of credit",
+    "tr_word": "kredi başvurusu",
+    "tr_definition": "bir kredi hattı veya borç almak için yapılan resmi başvuru",
+    "ru_word": "заявка на кредит",
+    "ru_definition": "официальный запрос на получение кредитной линии или займа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kredi başvurusu",
+                    "kredi talebi"
+                ],
+                "Azerbaijani": [
+                    "kredit müraciəti",
+                    "kredit sorğusu"
+                ],
+                "Uzbek": [
+                    "kredit arizasi"
+                ],
+                "Kyrgyz": [
+                    "кредиттик арыз"
+                ],
+                "Karakalpak": [
+                    "kredit soranısı"
+                ],
+                "Tatar": [
+                    "кредит гаризасы"
+                ],
+                "Bashkir": [
+                    "кредит алыуға ғариза"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "nasiya soʻrovi"
+                ],
+                "Uyghur": [
+                    "نەسىيە ئىلتىماسى"
+                ],
+                "Kazakh": [
+                    "несие өтініші",
+                    "несие сұранымы"
+                ],
+                "Kyrgyz": [
+                    "насыя арызы",
+                    "насыя сурамы"
+                ],
+                "Karakalpak": [
+                    "nesie soranısı",
+                    "nesie arzası"
+                ],
+                "Tatar": [
+                    "насия гаризасы"
+                ],
+                "Bashkir": [
+                    "насиә һорау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "karz arzasy",
+                    "karz ýüzlenmesi",
+                    "karz soragnamasy"
+                ],
+                "Uzbek": [
+                    "qarz arizasi"
+                ],
+                "Uyghur": [
+                    "قەرز ئىلتىماسى"
+                ],
+                "Kazakh": [
+                    "қарыз өтініші"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "borc müraciəti"
+                ],
+                "Tatar": [
+                    "бурыч соравы"
+                ],
+                "Bashkir": [
+                    "бурыс алыуға үтенес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istikraz müracaatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىناۋەت ئىلتىماسى"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "id": "i87269",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "colored person",
+    "en_definition": "a United States term for Blacks that is now considered offensive",
+    "tr_word": "renkli kişi",
+    "tr_definition": "Amerika Birleşik Devletleri'nde siyahiler için kullanılan ve günümüzde aşağılayıcı kabul edilen bir terim",
+    "ru_word": "цветной",
+    "ru_definition": "термин, использовавшийся в США для обозначения чернокожих людей, который в настоящее время считается оскорбительным",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara"
+                ],
+                "Azerbaijani": [
+                    "qaradərili"
+                ],
+                "Turkmen": [
+                    "garaýagyz",
+                    "gara"
+                ],
+                "Uzbek": [
+                    "qora tanli"
+                ],
+                "Uyghur": [
+                    "قارا تەنلىك",
+                    "قارا تەنلىك كىشى",
+                    "قارا تەنلىكلەر"
+                ],
+                "Kazakh": [
+                    "қара нәсілді",
+                    "қара түсті",
+                    "қара"
+                ],
+                "Kyrgyz": [
+                    "кара",
+                    "кара терилүү",
+                    "кара киши"
+                ],
+                "Karakalpak": [
+                    "qara tánli",
+                    "qara násil"
+                ],
+                "Tatar": [
+                    "кара тәнле",
+                    "кара тәнле кеше",
+                    "кара тәнле зат"
+                ],
+                "Bashkir": [
+                    "ҡара тәнле кеше",
+                    "ҡара тәнле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zenci"
+                ],
+                "Azerbaijani": [
+                    "zənci"
+                ],
+                "Bashkir": [
+                    "зәнги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "renkli"
+                ],
+                "Azerbaijani": [
+                    "rəngli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siyahi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "habash"
+                ]
+            }
+        }
+    ]
+}

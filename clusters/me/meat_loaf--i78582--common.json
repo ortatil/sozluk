@@ -1,0 +1,107 @@
+{
+    "id": "i78582",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "meat loaf",
+    "en_definition": "a baked loaf of ground meat",
+    "tr_word": "fırın köfte",
+    "tr_definition": "fırında pişirilmiş, somun şeklinde büyük köfte",
+    "ru_word": "мясной рулет",
+    "ru_definition": "запеченное блюдо из мясного фарша в форме буханки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ət ruleti",
+                    "ət köftəsi"
+                ],
+                "Turkmen": [
+                    "etli çörek",
+                    "etli nan",
+                    "etli rulo"
+                ],
+                "Kazakh": [
+                    "ет наны",
+                    "ет рулеті"
+                ],
+                "Kyrgyz": [
+                    "эт нан",
+                    "эт рулети"
+                ],
+                "Karakalpak": [
+                    "et nanı",
+                    "et ruleti"
+                ],
+                "Tatar": [
+                    "ит рулеты",
+                    "ит икмәге"
+                ],
+                "Bashkir": [
+                    "ит рулеты",
+                    "ит икмәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qiymə ruleti"
+                ],
+                "Uzbek": [
+                    "qiymali non",
+                    "qiymali rulet"
+                ],
+                "Uyghur": [
+                    "قىيما نان",
+                    "قىيما گۆش نېنى"
+                ],
+                "Tatar": [
+                    "кыйма рулеты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fırın köfte"
+                ],
+                "Kyrgyz": [
+                    "фарш нан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "go'shtli non"
+                ],
+                "Uyghur": [
+                    "گۆش نېنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dalyan köfte"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rulo köfte"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тартылған еттен жасалған нан"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "id": "i55478",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ladies' room",
+    "en_definition": "a woman's restroom in a public (or semipublic) building",
+    "tr_word": "kadınlar tuvaleti",
+    "tr_definition": "Halka açık veya yarı açık bir binada kadınlara ayrılmış tuvalet.",
+    "ru_word": "женский туалет",
+    "ru_definition": "Уборная для женщин в общественном или полуобщественном здании.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ayallar hajathanasy",
+                    "ayallar otagy"
+                ],
+                "Uzbek": [
+                    "ayollar hojatxonasi",
+                    "ayollar tahoratxonasi",
+                    "ayollar xonasi"
+                ],
+                "Uyghur": [
+                    "ئاياللار ھاجەتخانىسى",
+                    "ئاياللار تەرەتخانىسى"
+                ],
+                "Kazakh": [
+                    "әйелдер дәретханасы",
+                    "әйелдер бөлмесі"
+                ],
+                "Kyrgyz": [
+                    "аялдар дааратканасы",
+                    "аялдардын ажатканасы"
+                ],
+                "Karakalpak": [
+                    "áyeller ayaqjolı",
+                    "áyeller dáretxanası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kadınlar tuvaleti",
+                    "bayanlar tuvaleti",
+                    "kadınlar helası",
+                    "kadınlar abdesthanesi"
+                ],
+                "Azerbaijani": [
+                    "qadın ayaqyolu",
+                    "qadın tualeti",
+                    "qadınlar otağı"
+                ],
+                "Bashkir": [
+                    "ҡатын-ҡыҙҙар бәҙрәфе",
+                    "ҡатын-ҡыҙҙар бүлмәһе",
+                    "ҡатын-ҡыҙҙар йыуынғысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zenanlar hajathanasy"
+                ],
+                "Tatar": [
+                    "хатын-кызлар бәдрәфе",
+                    "хатын-кызлар бүлмәсе",
+                    "хатын-кызлар аяк юлы"
+                ]
+            }
+        }
+    ]
+}

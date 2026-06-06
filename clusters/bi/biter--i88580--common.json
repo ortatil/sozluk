@@ -1,0 +1,88 @@
+{
+    "id": "i88580",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "biter",
+    "en_definition": "someone who bites",
+    "tr_word": "isıran",
+    "tr_definition": "isırma eylemini gerçekleştiren kimse veya canlı",
+    "ru_word": "кусака",
+    "ru_definition": "тот, кто кусается",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dişləyən"
+                ],
+                "Turkmen": [
+                    "dişleýji"
+                ],
+                "Uzbek": [
+                    "tishlovchi"
+                ],
+                "Uyghur": [
+                    "چىشلىگۈچى"
+                ],
+                "Kazakh": [
+                    "тістеуік",
+                    "тістеуші"
+                ],
+                "Kyrgyz": [
+                    "тиштегич",
+                    "тиштөөчү"
+                ],
+                "Karakalpak": [
+                    "tіsteuіk"
+                ],
+                "Tatar": [
+                    "тешләүче"
+                ],
+                "Bashkir": [
+                    "тешләүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qapan"
+                ],
+                "Turkmen": [
+                    "gapjyýjy"
+                ],
+                "Uzbek": [
+                    "qopagʻon"
+                ],
+                "Uyghur": [
+                    "قاپقۇچى"
+                ],
+                "Kazakh": [
+                    "қапқыш",
+                    "қабушы"
+                ],
+                "Kyrgyz": [
+                    "капкыч"
+                ],
+                "Karakalpak": [
+                    "qabushı"
+                ],
+                "Tatar": [
+                    "кабучы"
+                ],
+                "Bashkir": [
+                    "ҡабыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ısırıcı",
+                    "ısıran"
+                ]
+            }
+        }
+    ]
+}

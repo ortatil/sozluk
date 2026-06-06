@@ -1,0 +1,161 @@
+{
+    "id": "i94199",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "write-in candidate",
+    "en_definition": "a candidate for public office whose name does not appear on the ballot and so must be written on the ballot by the voters",
+    "tr_word": "yazılarak eklenen aday",
+    "tr_definition": "oy pusulasında adı bulunmayan ancak seçmenler tarafından pusulaya elle yazılarak oy verilen aday",
+    "ru_word": "вписанный кандидат",
+    "ru_definition": "кандидат, чье имя отсутствует в избирательном бюллетене, но вписывается туда избирателем самостоятельно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تىزىملىكتىن تاشقىرى نامزات"
+                ],
+                "Kazakh": [
+                    "тізімнен тыс үміткер"
+                ],
+                "Kyrgyz": [
+                    "тизмеден тышкары талапкер"
+                ],
+                "Karakalpak": [
+                    "tizimnen tıs talaban"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazılı aday"
+                ],
+                "Uyghur": [
+                    "يېزىپ قوشۇلغان نامزات"
+                ],
+                "Karakalpak": [
+                    "jazıp qosılatuǵın kandidat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sanawa girizilmedik dalaşgär"
+                ],
+                "Uzbek": [
+                    "oʻzi yoziladigan nomzod"
+                ],
+                "Karakalpak": [
+                    "ózi jazılatuǵın talaban"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pusulada olmayan aday",
+                    "haricen yazılan aday"
+                ],
+                "Bashkir": [
+                    "өҫтәп яҙылған кандидат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əlavə edilən namizəd"
+                ],
+                "Uzbek": [
+                    "roʻyxatdan tashqari nomzod"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşmaça dalaşgär"
+                ],
+                "Kyrgyz": [
+                    "кошумча талапкер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "özbaşdak dalaşgär"
+                ],
+                "Kazakh": [
+                    "өздігінен ұсынылған үміткер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆزلۈكىدىن كۆرسىتىلگەن نامزات"
+                ],
+                "Tatar": [
+                    "үзлегеннән тәкъдим ителгән кандидат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "исемлеккә кертелмәгән кандидат"
+                ],
+                "Bashkir": [
+                    "исемлеккә индерелмәгән кандидат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qeydiyyatdan kənar namizəd"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "adı bülletendə olmayan namizəd"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "saylovchi tomonidan kiritilgan nomzod"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бюллетеньге енгізілмеген кандидат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өзүн-өзү көрсөткөн талапкер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өстәмә кандидат"
+                ]
+            }
+        }
+    ]
+}

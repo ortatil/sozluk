@@ -1,0 +1,85 @@
+{
+    "id": "i90933",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "latecomer",
+    "en_definition": "someone who arrives late",
+    "tr_word": "geç gelen kimse",
+    "tr_definition": "belirlenen zamandan sonra gelen kişi",
+    "ru_word": "опоздавший",
+    "ru_definition": "человек, который пришел позже назначенного времени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gecikmiş",
+                    "geç gelen",
+                    "geciken"
+                ],
+                "Azerbaijani": [
+                    "gecikən",
+                    "gec gələn"
+                ],
+                "Turkmen": [
+                    "giç galan",
+                    "giç gelen"
+                ],
+                "Uzbek": [
+                    "kechikuvchi",
+                    "kechikkan",
+                    "kech qoluvchi"
+                ],
+                "Uyghur": [
+                    "كېچىكىپ كەلگۈچى",
+                    "كېچىككۈچى",
+                    "كېچىكىپ كەلگەن كىشى"
+                ],
+                "Kazakh": [
+                    "кешігуші",
+                    "кешіккен адам",
+                    "кеш келуші"
+                ],
+                "Kyrgyz": [
+                    "кечиккен",
+                    "кечигүүчү",
+                    "кечиккен киши"
+                ],
+                "Karakalpak": [
+                    "keshigioshi",
+                    "keshikken"
+                ],
+                "Tatar": [
+                    "кичегүче"
+                ],
+                "Bashkir": [
+                    "кисегеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "sońlaǵan"
+                ],
+                "Tatar": [
+                    "соңга калучы"
+                ],
+                "Bashkir": [
+                    "һуңлаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təxirçi"
+                ],
+                "Turkmen": [
+                    "tahyr"
+                ]
+            }
+        }
+    ]
+}

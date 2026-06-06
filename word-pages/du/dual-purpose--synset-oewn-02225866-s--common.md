@@ -1,0 +1,126 @@
+# Dual-purpose
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-02225866-s |
+| **English** | dual-purpose |
+| **Type** | adjective |
+| **Definition** | designed for or serving two purposes |
+| **Source** | common |
+| **Ortatil** | ikitäyinätli |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| ҡатнаш | qatnaş |
+
+```json
+{
+    "id": "synset-oewn-02225866-s",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "dual-purpose",
+    "en_definition": "designed for or serving two purposes",
+    "tr_word": "çift amaçlı",
+    "tr_definition": "iki farklı amaca hizmet etmek üzere tasarlanmış olan",
+    "ru_word": "двухцелевой",
+    "ru_definition": "предназначенный для выполнения двух различных задач или функций",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki amaçlı",
+                    "iki işlevli",
+                    "iki maksatlı"
+                ],
+                "Azerbaijani": [
+                    "ikitəyinatlı",
+                    "ikiməqsədli",
+                    "ikifunksiyalı"
+                ],
+                "Turkmen": [
+                    "iki maksatly",
+                    "iki taraply"
+                ],
+                "Uzbek": [
+                    "ikki maqsadli",
+                    "ikki vazifali",
+                    "ikki yoqlama",
+                    "ikki tomonlama"
+                ],
+                "Uyghur": [
+                    "ئىككى خىل ئىشلىتىلىدىغان"
+                ],
+                "Kazakh": [
+                    "екі жақты",
+                    "екі қызметті"
+                ],
+                "Kyrgyz": [
+                    "эки максаттуу"
+                ],
+                "Karakalpak": [
+                    "ekі maqsetli",
+                    "ekі tárepleme"
+                ],
+                "Tatar": [
+                    "ике төрле максатлы",
+                    "ике яклы"
+                ],
+                "Bashkir": [
+                    "ике төрлө тәғәйенләнешле",
+                    "ике төрлө маҡсатлы",
+                    "ике яҡлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşa maksatly"
+                ],
+                "Uyghur": [
+                    "قوش مەقسەتلىك",
+                    "قوش ئىقتىدارلىق"
+                ],
+                "Kazakh": [
+                    "қос мақсатты",
+                    "қос бағытты"
+                ],
+                "Kyrgyz": [
+                    "кош багыттуу",
+                    "кош кызматтуу"
+                ],
+                "Karakalpak": [
+                    "qos maqsetli",
+                    "qos xızmetli"
+                ],
+                "Tatar": [
+                    "куш максатлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift amaçlı",
+                    "çift işlevli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡатнаш"
+                ]
+            }
+        }
+    ]
+}
+```
+

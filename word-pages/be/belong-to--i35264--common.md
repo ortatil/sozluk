@@ -1,0 +1,204 @@
+# Belong to
+| Field | Detail |
+|---|---|
+| **ID** | i35264 |
+| **English** | belong to |
+| **Type** | verb |
+| **Definition** | be a part or adjunct |
+| **Source** | common |
+| **Ortatil** | karmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| карау | karau |
+| керү | kerü |
+| саналу | sanalu |
+| **Bashkir** | |
+| ҡарау | qarau |
+| инеү | ineü |
+
+```json
+{
+    "id": "i35264",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "belong to",
+    "en_definition": "be a part or adjunct",
+    "tr_word": "ait olmak",
+    "tr_definition": "bir şeyin parçası veya eklentisi olmak",
+    "ru_word": "принадлежать",
+    "ru_definition": "быть частью или дополнением чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dahil olmak"
+                ],
+                "Azerbaijani": [
+                    "daxil olmaq"
+                ],
+                "Turkmen": [
+                    "degishli bolmak",
+                    "degişli bolmak",
+                    "dahylly bolmak"
+                ],
+                "Uzbek": [
+                    "tegishli bo'lmoq"
+                ],
+                "Kyrgyz": [
+                    "тиешелүү болуу"
+                ],
+                "Karakalpak": [
+                    "tiesi bolmaq"
+                ],
+                "Tatar": [
+                    "тиешле булу"
+                ],
+                "Bashkir": [
+                    "тиешле булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "parçası olmak"
+                ],
+                "Uyghur": [
+                    "قاراشلىق بولماق"
+                ],
+                "Kazakh": [
+                    "қарасты болу"
+                ],
+                "Karakalpak": [
+                    "qaraslı bolmaq",
+                    "qaraslı bolıo"
+                ],
+                "Tatar": [
+                    "карау",
+                    "керү"
+                ],
+                "Bashkir": [
+                    "ҡарау",
+                    "ҡараған булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mensup olmak"
+                ],
+                "Azerbaijani": [
+                    "məxsus olmaq"
+                ],
+                "Uzbek": [
+                    "mansub bo'lmoq"
+                ],
+                "Uyghur": [
+                    "مەنسۇپ بولماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tabelikdə olmaq"
+                ],
+                "Turkmen": [
+                    "tabeli bolmak"
+                ],
+                "Kazakh": [
+                    "тиесілі болу"
+                ],
+                "Karakalpak": [
+                    "tiesi bolıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ait olmak"
+                ],
+                "Azerbaijani": [
+                    "aid olmaq"
+                ],
+                "Uzbek": [
+                    "oid bo'lmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мүше болу"
+                ],
+                "Kyrgyz": [
+                    "мүчө болуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құрамына кіру"
+                ],
+                "Kyrgyz": [
+                    "курамына кирүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "таандык болуу"
+                ],
+                "Karakalpak": [
+                    "tán bolmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qarashli bo'lmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەۋە بولماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "саналу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "инеү"
+                ]
+            }
+        }
+    ]
+}
+```
+

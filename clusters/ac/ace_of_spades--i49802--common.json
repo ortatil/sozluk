@@ -1,0 +1,79 @@
+{
+    "id": "i49802",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ace of spades",
+    "en_definition": "the ace in the spade suit; sometimes taken as a portent of death",
+    "tr_word": "maça ası",
+    "tr_definition": "iskambil oyunlarında maça serisinin en değerli kartı; bazen ölüm belirtisi veya uğursuzluk sembolü olarak kabul edilir",
+    "ru_word": "пиковый туз",
+    "ru_definition": "карта с изображением туза в масти пик; в некоторых культурах считается предзнаменованием смерти",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qara qarğa ası"
+                ],
+                "Uzbek": [
+                    "qargʻa tuzi",
+                    "qargʻa as"
+                ],
+                "Uyghur": [
+                    "قارا چىتەك تۇز",
+                    "قارا چىتەك بىرلىك",
+                    "قارا چىتەك ئاس"
+                ],
+                "Kazakh": [
+                    "қарғаның тұзы",
+                    "қарға тұз"
+                ],
+                "Kyrgyz": [
+                    "карга асы",
+                    "карга тузу"
+                ],
+                "Karakalpak": [
+                    "qarǵa tuz",
+                    "qarǵa tuzı"
+                ],
+                "Tatar": [
+                    "кара карга тузы"
+                ],
+                "Bashkir": [
+                    "ҡара ҡарға тузы",
+                    "ҡара туҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "maça ası",
+                    "maça birli",
+                    "maça as"
+                ],
+                "Turkmen": [
+                    "gara as"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pika ası"
+                ],
+                "Turkmen": [
+                    "pikir asy",
+                    "pikir tuzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "вино тузы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+# Open-collared
+| Field | Detail |
+|---|---|
+| **ID** | i1650 |
+| **English** | open-collared |
+| **Type** | adjective |
+| **Definition** | of a shirt; not buttoned at the neck |
+| **Source** | common |
+| **Ortatil** | tugmälänmägän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i1650",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "open-collared",
+    "en_definition": "of a shirt; not buttoned at the neck",
+    "tr_word": "açık yakalı",
+    "tr_definition": "gömlek için; boyun kısmı düğmelenmemiş",
+    "ru_word": "с расстегнутым воротником",
+    "ru_definition": "о рубашке; не застегнутая на шее",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yakası açık"
+                ],
+                "Azerbaijani": [
+                    "yaxasıaçıq",
+                    "yaxası açılmış"
+                ],
+                "Turkmen": [
+                    "ýakasy açyk"
+                ],
+                "Uzbek": [
+                    "yoqasi ochiq"
+                ],
+                "Uyghur": [
+                    "ياقىسى ئوچۇق"
+                ],
+                "Kazakh": [
+                    "жағасы ашық"
+                ],
+                "Kyrgyz": [
+                    "жакасы ачык"
+                ],
+                "Karakalpak": [
+                    "jaǵası ashıq"
+                ],
+                "Tatar": [
+                    "якасы ачык"
+                ],
+                "Bashkir": [
+                    "яғаһы асыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açık yakalı"
+                ],
+                "Azerbaijani": [
+                    "açıq yaxalı"
+                ],
+                "Turkmen": [
+                    "açyk ýakaly"
+                ],
+                "Uzbek": [
+                    "ochiq yoqali"
+                ],
+                "Uyghur": [
+                    "ئوچۇق ياقىلىق"
+                ],
+                "Kazakh": [
+                    "ашық жағалы"
+                ],
+                "Kyrgyz": [
+                    "ачык жака"
+                ],
+                "Tatar": [
+                    "ачык якалы"
+                ],
+                "Bashkir": [
+                    "асыҡ яғалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tugmalanmagan"
+                ],
+                "Karakalpak": [
+                    "túymelenbegen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağrı açık"
+                ]
+            }
+        }
+    ]
+}
+```
+

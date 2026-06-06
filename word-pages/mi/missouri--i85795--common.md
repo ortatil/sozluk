@@ -1,0 +1,101 @@
+# Missouri
+| Field | Detail |
+|---|---|
+| **ID** | i85795 |
+| **English** | missouri |
+| **Type** | noun |
+| **Definition** | the longest river in the United States; arises in Montana and flows southeastward to become a tributary of the Mississippi at Saint Louis |
+| **Source** | common |
+| **Ortatil** | missuri |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **missuri** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مىسسۇرى | missuri |
+| **Kazakh** | |
+| Миссури | missuri |
+| **Kyrgyz** | |
+| Миссури | missuri |
+| **Tatar** | |
+| Миссури | missuri |
+| **Bashkir** | |
+| Миссури | missuri |
+
+```json
+{
+    "id": "i85795",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "missouri",
+    "en_definition": "the longest river in the United States; arises in Montana and flows southeastward to become a tributary of the Mississippi at Saint Louis",
+    "tr_word": "Missouri Nehri",
+    "tr_definition": "Amerika Birleşik Devletleri'nin en uzun nehri; Montana'da doğan ve Saint Louis'de Mississippi'nin bir kolu olmak üzere güneydoğuya akan nehir.",
+    "ru_word": "Миссури",
+    "ru_definition": "самая длинная река в Соединенных Штатах; берет начало в Монтане и течет на юго-восток, становясь притоком Миссисипи в Сент-Луисе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Missouri Nehri",
+                    "Missouri Irmağı"
+                ],
+                "Azerbaijani": [
+                    "Missuri",
+                    "Missuri çayı"
+                ],
+                "Turkmen": [
+                    "Missuri"
+                ],
+                "Uzbek": [
+                    "Missuri",
+                    "Missuri daryosi"
+                ],
+                "Uyghur": [
+                    "مىسسۇرى دەرياسى",
+                    "مىسسۇرى"
+                ],
+                "Kazakh": [
+                    "Миссури",
+                    "Миссури өзені"
+                ],
+                "Kyrgyz": [
+                    "Миссури",
+                    "Миссури дарыясы"
+                ],
+                "Karakalpak": [
+                    "Missuri"
+                ],
+                "Tatar": [
+                    "Миссури"
+                ],
+                "Bashkir": [
+                    "Миссури"
+                ]
+            }
+        }
+    ]
+}
+```
+

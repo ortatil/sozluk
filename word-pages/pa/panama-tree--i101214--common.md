@@ -1,0 +1,128 @@
+# Panama tree
+| Field | Detail |
+|---|---|
+| **ID** | i101214 |
+| **English** | panama tree |
+| **Type** | noun |
+| **Definition** | large deciduous tree native to Panama and from which the country takes its name; having densely leafy crown and naked trunk |
+| **Source** | common |
+| **Ortatil** | sterkuliya |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sterkuliya** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| стеркулия | sterkuliya |
+| **Kyrgyz** | |
+| стеркулия | sterkuliya |
+| **Tatar** | |
+| стеркулия | sterkuliya |
+| **Bashkir** | |
+| стеркулия | sterkuliya |
+
+```json
+{
+    "id": "i101214",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "panama tree",
+    "en_definition": "large deciduous tree native to Panama and from which the country takes its name; having densely leafy crown and naked trunk",
+    "tr_word": "panama ağacı",
+    "tr_definition": "Panama'ya özgü, ülkenin adını aldığı, yoğun yapraklı bir taca ve çıplak bir gövdeye sahip büyük yaprak döken ağaç (Sterculia apetala).",
+    "ru_word": "панамское дерево",
+    "ru_definition": "Крупное листопадное дерево, произрастающее в Панаме, в честь которого названа страна; имеет густую облиственную крону и голый ствол.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "panama ağacı"
+                ],
+                "Azerbaijani": [
+                    "panama ağacı"
+                ],
+                "Turkmen": [
+                    "panama agajy"
+                ],
+                "Uzbek": [
+                    "panama daraxti"
+                ],
+                "Uyghur": [
+                    "پاناما دەرىخى"
+                ],
+                "Kazakh": [
+                    "панама ағашы"
+                ],
+                "Kyrgyz": [
+                    "панама дарагы"
+                ],
+                "Karakalpak": [
+                    "panama teregi"
+                ],
+                "Tatar": [
+                    "панама агачы"
+                ],
+                "Bashkir": [
+                    "панама ағасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sterkulyagiller ağacı"
+                ],
+                "Azerbaijani": [
+                    "sterkuliya"
+                ],
+                "Turkmen": [
+                    "sterkuliýa"
+                ],
+                "Uzbek": [
+                    "sterkuliya"
+                ],
+                "Uyghur": [
+                    "ئىستېركۇلىيە دەرىخى"
+                ],
+                "Kazakh": [
+                    "стеркулия"
+                ],
+                "Kyrgyz": [
+                    "стеркулия"
+                ],
+                "Karakalpak": [
+                    "sterkuliya"
+                ],
+                "Tatar": [
+                    "стеркулия"
+                ],
+                "Bashkir": [
+                    "стеркулия"
+                ]
+            }
+        }
+    ]
+}
+```
+

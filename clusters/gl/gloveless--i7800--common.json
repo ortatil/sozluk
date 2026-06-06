@@ -1,0 +1,98 @@
+{
+    "id": "i7800",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "gloveless",
+    "en_definition": "devoid of gloves",
+    "tr_word": "eldivensiz",
+    "tr_definition": "eldiven giymemiş olan, eldiveni olmayan",
+    "ru_word": "без перчаток",
+    "ru_definition": "не имеющий или не носящий перчаток",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qo'lqopsiz",
+                    "qo'lqopi yo'q"
+                ],
+                "Uyghur": [
+                    "قولقاپسىز",
+                    "قولقاپ كىيمىگەن"
+                ],
+                "Kazakh": [
+                    "қолғапсыз"
+                ],
+                "Kyrgyz": [
+                    "кол капсыз"
+                ],
+                "Karakalpak": [
+                    "qolǵapsız"
+                ],
+                "Tatar": [
+                    "куллыксыз"
+                ],
+                "Bashkir": [
+                    "ҡулсаһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eldivensiz"
+                ],
+                "Azerbaijani": [
+                    "əlcəksiz"
+                ],
+                "Turkmen": [
+                    "ellikiz",
+                    "elliksiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıplak elli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалаңқол"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мээлейсиз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "biyalaysız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "перчаткасыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бишмәтһеҙ"
+                ]
+            }
+        }
+    ]
+}

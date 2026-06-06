@@ -1,0 +1,88 @@
+{
+    "id": "i63352",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "room temperature",
+    "en_definition": "the normal temperature of room in which people live",
+    "tr_word": "oda sıcaklığı",
+    "tr_definition": "insanların yaşadığı bir odanın normal sıcaklığı",
+    "ru_word": "комнатная температура",
+    "ru_definition": "нормальная температура в помещении, где живут люди",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бөлме температурасы",
+                    "бөлме жылылығы"
+                ],
+                "Kyrgyz": [
+                    "бөлмө температурасы",
+                    "бөлмө жылуулугу"
+                ],
+                "Karakalpak": [
+                    "bólme haroratı",
+                    "bólme jılılıǵı"
+                ],
+                "Tatar": [
+                    "бүлмә җылылыгы",
+                    "бүлмә температурасы"
+                ],
+                "Bashkir": [
+                    "бүлмә йылылығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oda sıcaklığı",
+                    "oda ısısı"
+                ],
+                "Azerbaijani": [
+                    "otaq temperaturu",
+                    "otaq hərarəti"
+                ],
+                "Turkmen": [
+                    "otag temperaturasy",
+                    "otag ýylylygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uy harorati"
+                ],
+                "Uyghur": [
+                    "ئۆي ھارارىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆي تېمپېراتۇرىسى"
+                ],
+                "Bashkir": [
+                    "бүлмә температураһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xona harorati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "moʻtadil harorat"
+                ]
+            }
+        }
+    ]
+}

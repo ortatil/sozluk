@@ -1,0 +1,70 @@
+{
+    "id": "i56595",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "night bell",
+    "en_definition": "a doorbell to be used at night",
+    "tr_word": "gece zili",
+    "tr_definition": "geceleri kullanılmak üzere tasarlanmış kapı zili",
+    "ru_word": "ночной звонок",
+    "ru_definition": "дверной звонок, предназначенный для использования в ночное время",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tungi qoʻngʻiroq",
+                    "tun qoʻngʻirogʻi"
+                ],
+                "Uyghur": [
+                    "تۈن قوڭغۇرىقى"
+                ],
+                "Kazakh": [
+                    "түнгі қоңырау",
+                    "түнгі дабыл"
+                ],
+                "Kyrgyz": [
+                    "түнкү коңгуроо",
+                    "түнкү коңгуроочу"
+                ],
+                "Karakalpak": [
+                    "tún qońıraoı",
+                    "túngi qońırao"
+                ],
+                "Tatar": [
+                    "төнге кыңгырау",
+                    "төнге чакыру"
+                ],
+                "Bashkir": [
+                    "төнге ҡыңғырау",
+                    "төнге ҡыңғыраулыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gece zili"
+                ],
+                "Azerbaijani": [
+                    "gecə zəngi"
+                ],
+                "Turkmen": [
+                    "gije jaňy",
+                    "gijeki jaň"
+                ],
+                "Uyghur": [
+                    "كېچىلىك قوڭغۇراق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nöbetçi zili"
+                ]
+            }
+        }
+    ]
+}

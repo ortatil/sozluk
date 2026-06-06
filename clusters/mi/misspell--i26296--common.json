@@ -1,0 +1,117 @@
+{
+    "id": "i26296",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "misspell",
+    "en_definition": "spell incorrectly",
+    "tr_word": "yanlış yazmak",
+    "tr_definition": "bir kelimeyi yazım kurallarına aykırı veya hatalı harflerle yazmak",
+    "ru_word": "писать с ошибками",
+    "ru_definition": "делать орфографические ошибки при написании слова",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hatalı yazmak"
+                ],
+                "Turkmen": [
+                    "hataly ýazmak"
+                ],
+                "Uzbek": [
+                    "xato yozmoq"
+                ],
+                "Uyghur": [
+                    "خاتا يازماق",
+                    "خاتا ھەرپ بىلەن يازماق"
+                ],
+                "Kyrgyz": [
+                    "ката жазуу"
+                ],
+                "Tatar": [
+                    "хаталы язу"
+                ],
+                "Bashkir": [
+                    "хаталы яҙыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanlış yazmak"
+                ],
+                "Azerbaijani": [
+                    "yanlış yazmaq"
+                ],
+                "Turkmen": [
+                    "ýalňyş ýazmak"
+                ],
+                "Kyrgyz": [
+                    "жаңылыш жазуу"
+                ],
+                "Tatar": [
+                    "ялгыш язу"
+                ],
+                "Bashkir": [
+                    "ялғыш яҙыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "imla hatası yapmak"
+                ],
+                "Azerbaijani": [
+                    "imla xətası etmək"
+                ],
+                "Uzbek": [
+                    "imlo xatosi qilmoq"
+                ],
+                "Uyghur": [
+                    "ئىملاسىنى خاتا يازماق"
+                ],
+                "Karakalpak": [
+                    "imlalıq qate jiberio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yozuvda adashmoq"
+                ],
+                "Karakalpak": [
+                    "jazıoda qátelesio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қате жазу"
+                ],
+                "Karakalpak": [
+                    "qate jazıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səhv yazmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаңсақ жазу"
+                ]
+            }
+        }
+    ]
+}

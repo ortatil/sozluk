@@ -1,0 +1,84 @@
+{
+    "id": "i83321",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "arabian peninsula",
+    "en_definition": "a peninsula between the Red Sea and the Persian Gulf; strategically important for its oil resources",
+    "tr_word": "Arap Yarımadası",
+    "tr_definition": "Kızıldeniz ile Basra Körfezi arasında yer alan, petrol kaynakları nedeniyle stratejik öneme sahip yarımada.",
+    "ru_word": "Аравийский полуостров",
+    "ru_definition": "Полуостров между Красным морем и Персидским заливом; имеет стратегическое значение благодаря своим запасам нефти.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Arap Yarımadası"
+                ],
+                "Azerbaijani": [
+                    "Ərəbistan yarımadası",
+                    "Ərəbistan"
+                ],
+                "Turkmen": [
+                    "Arap ýarym adasy"
+                ],
+                "Uzbek": [
+                    "Arabiston yarim oroli"
+                ],
+                "Uyghur": [
+                    "ئەرەب يېرىم ئارىلى"
+                ],
+                "Kazakh": [
+                    "Арабия түбегі",
+                    "Араб түбегі"
+                ],
+                "Kyrgyz": [
+                    "Араб жарым аралы",
+                    "Арабия жарым аралы"
+                ],
+                "Karakalpak": [
+                    "Arabstan túbegi",
+                    "Arab túbegi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Ceziretü'l-Arab"
+                ],
+                "Azerbaijani": [
+                    "Cəzirətül-ərəb"
+                ],
+                "Turkmen": [
+                    "Jeziretül-arap"
+                ],
+                "Uzbek": [
+                    "Jazirat al-Arab"
+                ],
+                "Uyghur": [
+                    "جەزىرەتۇل ئەرەب"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Гарәп ярымутравы",
+                    "Гарәпстан"
+                ],
+                "Bashkir": [
+                    "Ғәрәп ярымутрауы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "Ғәрәбстан"
+                ]
+            }
+        }
+    ]
+}

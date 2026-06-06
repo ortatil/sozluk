@@ -1,0 +1,81 @@
+{
+    "id": "i117169",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mid-september",
+    "en_definition": "the middle part of September",
+    "tr_word": "eylül ortası",
+    "tr_definition": "Eylül ayının orta kısmı",
+    "ru_word": "середина сентября",
+    "ru_definition": "средняя часть сентября",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sentyabrın ortası",
+                    "sentyabrın ortaları"
+                ],
+                "Turkmen": [
+                    "sentýabr aýynyň ortasy",
+                    "sentýabr ortalary"
+                ],
+                "Uzbek": [
+                    "sentabr oʻrtasi",
+                    "sentabrning oʻrtalari"
+                ],
+                "Uyghur": [
+                    "سېنتەبىر ئوتتۇرىلىرى",
+                    "سېنتەبىرنىڭ ئوتتۇرىسى"
+                ],
+                "Kyrgyz": [
+                    "сентябрдын ортосу"
+                ],
+                "Karakalpak": [
+                    "sentyabr ortası",
+                    "sentyabrdiń ortası"
+                ],
+                "Tatar": [
+                    "сентябрь уртасы",
+                    "сентябрьнең уртасы",
+                    "сентябрь урталары"
+                ],
+                "Bashkir": [
+                    "сентябрь уртаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Eylül ortası",
+                    "Eylül'ün ortası"
+                ],
+                "Bashkir": [
+                    "ай уртаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қыркүйектің ортасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мизанның ортасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аяк оонанын ортосу"
+                ]
+            }
+        }
+    ]
+}

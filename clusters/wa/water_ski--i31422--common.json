@@ -1,0 +1,75 @@
+{
+    "id": "i31422",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "water ski",
+    "en_definition": "ride water skis",
+    "tr_word": "su kayağı yapmak",
+    "tr_definition": "Su üzerinde kayaklarla kaymak",
+    "ru_word": "кататься на водных лыжах",
+    "ru_definition": "передвигаться по поверхности воды на специальных лыжах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su kayağı yapmak"
+                ],
+                "Azerbaijani": [
+                    "su xizəyi sürmək",
+                    "su xizəyində sürüşmək"
+                ],
+                "Turkmen": [
+                    "suw lyžasynda typmak"
+                ],
+                "Uzbek": [
+                    "suv chang'isida uchmoq"
+                ],
+                "Uyghur": [
+                    "سۇ چاڭغىسى تېيىلىش"
+                ],
+                "Kazakh": [
+                    "су шаңғысымен сырғанау",
+                    "су шаңғысын тебу"
+                ],
+                "Kyrgyz": [
+                    "суу лыжасында тебүү",
+                    "суу лыжасы менен жүрүү"
+                ],
+                "Karakalpak": [
+                    "suo shańǵısında tebio",
+                    "suo shańǵısında sırǵanao"
+                ],
+                "Tatar": [
+                    "су чаңгысында шуу",
+                    "су чаңгысы белән шуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "suwda typmak"
+                ],
+                "Uyghur": [
+                    "سۇدا تېيىلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suv chang'isida sirpanmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу саңғыһында шыуыу",
+                    "һыу өҫтөндә шыуыу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+# Detergent
+| Field | Detail |
+|---|---|
+| **ID** | i52824 |
+| **English** | detergent |
+| **Type** | noun |
+| **Definition** | a cleansing agent that differs from soap but can also emulsify oils and hold dirt in suspension |
+| **Source** | common |
+| **Ortatil** | juguç |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **juguç** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| жуугуч | juuguç |
+| тазалагыч | tazalagıç |
+| **Tatar** | |
+| югыч | yugıç |
+| чистарткыч | çistartkıç |
+
+```json
+{
+    "id": "i52824",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "detergent",
+    "en_definition": "a cleansing agent that differs from soap but can also emulsify oils and hold dirt in suspension",
+    "tr_word": "deterjan",
+    "tr_definition": "Sabundan farklı olan, yağları emülsifiye edebilen ve kiri süspansiyon halinde tutabilen temizleyici madde.",
+    "ru_word": "моющее средство",
+    "ru_definition": "Очищающее средство, которое отличается от мыла, но также способно эмульгировать жиры и удерживать грязь во взвешенном состоянии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yuyucu",
+                    "yuyucu vasitə"
+                ],
+                "Turkmen": [
+                    "ýuwujy serişde"
+                ],
+                "Uzbek": [
+                    "yuvish vositasi"
+                ],
+                "Uyghur": [
+                    "يۇيۇش سۇيۇقلۇقى",
+                    "يۇيۇش پاراشوكى"
+                ],
+                "Kazakh": [
+                    "жуғыш зат"
+                ],
+                "Kyrgyz": [
+                    "жуугуч"
+                ],
+                "Karakalpak": [
+                    "juoǵısh zat"
+                ],
+                "Tatar": [
+                    "югыч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tozalash vositasi"
+                ],
+                "Uyghur": [
+                    "تازىلاش بويىمى"
+                ],
+                "Kazakh": [
+                    "тазартқыш құрал"
+                ],
+                "Kyrgyz": [
+                    "тазалагыч"
+                ],
+                "Karakalpak": [
+                    "tazalaǵısh zat"
+                ],
+                "Bashkir": [
+                    "таҙартыу сараһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kir yuvish vositasi"
+                ],
+                "Kazakh": [
+                    "кір жуғыш ұнтақ"
+                ],
+                "Kyrgyz": [
+                    "кир жуугуч каражат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temizleyici"
+                ],
+                "Azerbaijani": [
+                    "təmizləyici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arıtıcı"
+                ],
+                "Turkmen": [
+                    "arassalaýjy madda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "юу чарасы"
+                ],
+                "Bashkir": [
+                    "йыуыу сараһы",
+                    "йыуыу матдәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deterjan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чистарткыч"
+                ]
+            }
+        }
+    ]
+}
+```
+

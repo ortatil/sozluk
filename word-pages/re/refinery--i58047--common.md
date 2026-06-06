@@ -1,0 +1,180 @@
+# Refinery
+| Field | Detail |
+|---|---|
+| **ID** | i58047 |
+| **English** | refinery |
+| **Type** | noun |
+| **Definition** | an industrial plant for purifying a crude substance |
+| **Source** | common |
+| **Ortatil** | tasfiyähana |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i58047",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "refinery",
+    "en_definition": "an industrial plant for purifying a crude substance",
+    "tr_word": "rafineri",
+    "tr_definition": "ham bir maddeyi saflaştırmak için kullanılan endüstriyel tesis",
+    "ru_word": "рафинировочный завод",
+    "ru_definition": "промышленное предприятие по очистке сырья",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tasfiyehane"
+                ],
+                "Azerbaijani": [
+                    "təsfiyəxana"
+                ],
+                "Uzbek": [
+                    "tozalash korxonasi"
+                ],
+                "Kazakh": [
+                    "тазарту зауыты"
+                ],
+                "Kyrgyz": [
+                    "тазалоочу завод",
+                    "тазалоочу жай"
+                ],
+                "Karakalpak": [
+                    "tazalao zawodı"
+                ],
+                "Bashkir": [
+                    "таҙартыу заводы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ayırma zavodu"
+                ],
+                "Kazakh": [
+                    "айыру зауыты"
+                ],
+                "Karakalpak": [
+                    "ayırıo zawodı"
+                ],
+                "Tatar": [
+                    "айыру заводы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan işleýän zawod"
+                ],
+                "Uzbek": [
+                    "qayta ishlash korxonasi"
+                ],
+                "Kyrgyz": [
+                    "кайра иштетүүчү ишкана"
+                ],
+                "Karakalpak": [
+                    "qayta isleo zawodı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arıtımevi"
+                ],
+                "Turkmen": [
+                    "arassalaýjy zawod"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təmizləmə zavodu"
+                ],
+                "Uyghur": [
+                    "پىششىقلاپ ئىشلەش زاۋۇتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "saflaşdırma müəssisəsi"
+                ],
+                "Uyghur": [
+                    "ساپلاشتۇرۇش زاۋۇتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эшкәртү заводы"
+                ],
+                "Bashkir": [
+                    "эшкәртеү заводы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rafineri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nebiti gaýtadan işleýän zawod"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zavod"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "moyjuvoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەكرار پىششىقلاش زاۋۇتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өңдеу зауыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чистарту заводы"
+                ]
+            }
+        }
+    ]
+}
+```
+

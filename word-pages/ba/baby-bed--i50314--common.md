@@ -1,0 +1,170 @@
+# Baby bed
+| Field | Detail |
+|---|---|
+| **ID** | i50314 |
+| **English** | baby bed |
+| **Type** | noun |
+| **Definition** | a small bed for babies; enclosed by sides to prevent the baby from falling |
+| **Source** | common |
+| **Ortatil** | beşik |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **beşik** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بۆشۈك | böşük |
+| **Kazakh** | |
+| бесік | besik |
+| бөбекжай | böbekjay |
+| **Kyrgyz** | |
+| бешик | beşik |
+| манеж | manej |
+| **Tatar** | |
+| бишек | bişek |
+| **Bashkir** | |
+| бишек | bişek |
+| сәңгелдәк | säñgeldäk |
+
+```json
+{
+    "id": "i50314",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "baby bed",
+    "en_definition": "a small bed for babies; enclosed by sides to prevent the baby from falling",
+    "tr_word": "bebek karyolası",
+    "tr_definition": "bebeklerin yatması için tasarlanmış, düşmeyi önlemek amacıyla kenarları parmaklıklarla çevrili küçük yatak",
+    "ru_word": "детская кроватка",
+    "ru_definition": "небольшая кровать для младенцев, имеющая бортики для предотвращения падения ребенка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beşik",
+                    "bebek yatağı"
+                ],
+                "Azerbaijani": [
+                    "beşik"
+                ],
+                "Turkmen": [
+                    "bäbek sallançagy"
+                ],
+                "Uzbek": [
+                    "beshik"
+                ],
+                "Uyghur": [
+                    "بۆشۈك"
+                ],
+                "Kazakh": [
+                    "бесік",
+                    "бөбекжай"
+                ],
+                "Kyrgyz": [
+                    "бешик"
+                ],
+                "Karakalpak": [
+                    "besik"
+                ],
+                "Tatar": [
+                    "бишек"
+                ],
+                "Bashkir": [
+                    "бишек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çaga krowaty"
+                ],
+                "Kazakh": [
+                    "бала кереуеті"
+                ],
+                "Tatar": [
+                    "бәби караваты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karyola"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "körpə çarpayısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sallançak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bolalar karavoti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بوۋاقلار كارىۋىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "манеж"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bópe tósegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәңгелдәк"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,74 @@
+{
+    "id": "i37721",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water sport",
+    "en_definition": "sports that involve bodies of water",
+    "tr_word": "su sporu",
+    "tr_definition": "Su üzerinde veya içinde yapılan spor dallarının genel adı.",
+    "ru_word": "водный вид спорта",
+    "ru_definition": "Вид спорта, связанный с водой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su sporu",
+                    "su sporları"
+                ],
+                "Azerbaijani": [
+                    "su idmanı",
+                    "su idman növləri"
+                ],
+                "Turkmen": [
+                    "suw sporty",
+                    "suw oýunlary"
+                ],
+                "Uzbek": [
+                    "suv sporti",
+                    "suv o'yinlari"
+                ],
+                "Uyghur": [
+                    "سۇ تەنھەرىكىتى",
+                    "سۇ ئۈستى تەنھەرىكىتى"
+                ],
+                "Kazakh": [
+                    "су спорты"
+                ],
+                "Kyrgyz": [
+                    "суу спорту",
+                    "суу оюндары"
+                ],
+                "Karakalpak": [
+                    "suo sportı"
+                ],
+                "Tatar": [
+                    "су спорт төрләре",
+                    "су спорты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "судағы спорт"
+                ],
+                "Kyrgyz": [
+                    "суудагы оюн"
+                ],
+                "Karakalpak": [
+                    "suodaǵı sport"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу спорты",
+                    "һыу спорт төрҙәре"
+                ]
+            }
+        }
+    ]
+}

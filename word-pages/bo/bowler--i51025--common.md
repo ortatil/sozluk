@@ -1,0 +1,189 @@
+# Bowler
+| Field | Detail |
+|---|---|
+| **ID** | i51025 |
+| **English** | bowler |
+| **Type** | noun |
+| **Definition** | a felt hat that is round and hard with a narrow brim |
+| **Source** | common |
+| **Ortatil** | şlyapa |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **şlyapa** | **qalpaq** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ❌ | ❌ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 0 | 0.40 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **1.17** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| калпак | kalpak |
+| бөрк | börk |
+| топу | topu |
+
+```json
+{
+    "id": "i51025",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bowler",
+    "en_definition": "a felt hat that is round and hard with a narrow brim",
+    "tr_word": "fötr şapka",
+    "tr_definition": "yuvarlak tepeli, sert ve dar kenarlı bir tür erkek şapkası",
+    "ru_word": "котелок",
+    "ru_definition": "мужская шляпа с округлым верхом и узкими полями, сделанная из твердого фетра",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaty telpek"
+                ],
+                "Uyghur": [
+                    "قاتتىق قالپاق"
+                ],
+                "Kazakh": [
+                    "қатты қалпақ",
+                    "қазан қалпақ"
+                ],
+                "Tatar": [
+                    "каты эшләпә"
+                ],
+                "Bashkir": [
+                    "ҡаты эшләпә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "togalak telpek"
+                ],
+                "Kazakh": [
+                    "дөңгелек қалпақ"
+                ],
+                "Tatar": [
+                    "түгәрәк эшләпә"
+                ],
+                "Bashkir": [
+                    "түңәрәк эшләпә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şlyapa"
+                ],
+                "Turkmen": [
+                    "şlýapa"
+                ],
+                "Uzbek": [
+                    "shlyapa"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qalpoq"
+                ],
+                "Kyrgyz": [
+                    "калпак"
+                ],
+                "Karakalpak": [
+                    "qalpaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yuvarlak şapka"
+                ],
+                "Uyghur": [
+                    "دومباق قالپاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бөрк"
+                ],
+                "Karakalpak": [
+                    "bórіk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "melon şapka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dar kenarlı şapka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "papaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəyirmi papaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bosh kiyim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېگى يۇمىلاق قالپاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "топу"
+                ]
+            }
+        }
+    ]
+}
+```
+

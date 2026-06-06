@@ -1,0 +1,145 @@
+# Box spring
+| Field | Detail |
+|---|---|
+| **ID** | i51052 |
+| **English** | box spring |
+| **Type** | noun |
+| **Definition** | a coiled bedspring in a frame that is covered with cloth |
+| **Source** | common |
+| **Ortatil** | baza |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| төшөкпружина | töşökprujina |
+| **Tatar** | |
+| төплелек | töplelek |
+
+```json
+{
+    "id": "i51052",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "box spring",
+    "en_definition": "a coiled bedspring in a frame that is covered with cloth",
+    "tr_word": "baza",
+    "tr_definition": "Yatağın altına yerleştirilen, kumaş kaplı ve yaylı çerçeve.",
+    "ru_word": "пружинный блок",
+    "ru_definition": "Основание для матраса, состоящее из деревянного каркаса с установленными в нем пружинами, обтянутое тканью.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pružinaly düşek",
+                    "pružinaly karkas",
+                    "pružinaly esas"
+                ],
+                "Uzbek": [
+                    "karavot prujinasi",
+                    "prujinali asos"
+                ],
+                "Uyghur": [
+                    "پۇرژىنلىق تەشتەك",
+                    "پۇرژىنلىق ئاساس"
+                ],
+                "Kyrgyz": [
+                    "пружиналуу негиз"
+                ],
+                "Tatar": [
+                    "пружиналы нигез"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'shak asosi"
+                ],
+                "Kazakh": [
+                    "төсек серіппесі"
+                ],
+                "Kyrgyz": [
+                    "төшөкпружина"
+                ],
+                "Karakalpak": [
+                    "tósek serіppesі"
+                ],
+                "Bashkir": [
+                    "төшәк пружинаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كارىۋات پۇرژىنى"
+                ],
+                "Kyrgyz": [
+                    "керебеттин пружинасы"
+                ],
+                "Karakalpak": [
+                    "kereuet serіppesі"
+                ],
+                "Tatar": [
+                    "карават нигезе"
+                ],
+                "Bashkir": [
+                    "карауат пружинаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaylı yatak altlığı"
+                ],
+                "Azerbaijani": [
+                    "yaylı döşək",
+                    "yaylı altlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çərçivəli döşək"
+                ],
+                "Kazakh": [
+                    "серіппелі негіз",
+                    "серіппелі жақтау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "baza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yatak şiltesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төплелек"
+                ]
+            }
+        }
+    ]
+}
+```
+

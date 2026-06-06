@@ -1,0 +1,90 @@
+{
+    "id": "i2370",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "dry-cleaned",
+    "en_definition": "cleaned with chemical solvents",
+    "tr_word": "kuru temizleme yapılmış",
+    "tr_definition": "kimyasal çözücüler kullanılarak temizlenmiş",
+    "ru_word": "подвергнутый химической чистке",
+    "ru_definition": "очищенный с использованием химических растворителей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuru temizleme yapılmış",
+                    "kuru temizlenmiş"
+                ],
+                "Azerbaijani": [
+                    "quru təmizlənmiş"
+                ],
+                "Uzbek": [
+                    "quruq tozalanagan"
+                ],
+                "Uyghur": [
+                    "قۇرۇق يۇيۇلغان"
+                ],
+                "Kazakh": [
+                    "құрғақ тазаланған"
+                ],
+                "Kyrgyz": [
+                    "кургак тазалоодон өткөн"
+                ],
+                "Karakalpak": [
+                    "qұrǵaq tazalanǵan"
+                ],
+                "Tatar": [
+                    "корыча чистартылган"
+                ],
+                "Bashkir": [
+                    "ҡоролай таҙартылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kimyəvi təmizlənmiş"
+                ],
+                "Uzbek": [
+                    "kimyoviy tozalanagan"
+                ],
+                "Uyghur": [
+                    "خىمىيىۋى تازىلانغان"
+                ],
+                "Kyrgyz": [
+                    "химиялык жол менен тазаланган"
+                ],
+                "Karakalpak": [
+                    "ximiyalıq tazalanǵan"
+                ],
+                "Tatar": [
+                    "химик чистартылган"
+                ],
+                "Bashkir": [
+                    "химик таҙартылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "himiki usulda arassalanan",
+                    "himiki arassalanan"
+                ],
+                "Kazakh": [
+                    "химиялық тазалаудан өткен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "suwsuz arassalanan"
+                ]
+            }
+        }
+    ]
+}

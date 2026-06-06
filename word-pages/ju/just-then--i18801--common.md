@@ -1,0 +1,164 @@
+# Just then
+| Field | Detail |
+|---|---|
+| **ID** | i18801 |
+| **English** | just then |
+| **Type** | adverb |
+| **Definition** | at a particular time in the past |
+| **Source** | common |
+| **Ortatil** | derhäl |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i18801",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "just then",
+    "en_definition": "at a particular time in the past",
+    "tr_word": "tam o sırada",
+    "tr_definition": "geçmişteki belirli bir anda, tam o vakitte",
+    "ru_word": "как раз в это время",
+    "ru_definition": "в определенный момент в прошлом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şol wagt",
+                    "şol pursat"
+                ],
+                "Uzbek": [
+                    "shu paytda",
+                    "shu zahoti"
+                ],
+                "Uyghur": [
+                    "شۇ چاغدا",
+                    "شۇ دەمدە",
+                    "شۇ پەيتتە"
+                ],
+                "Kazakh": [
+                    "сол сәтте",
+                    "сол уақытта",
+                    "сол мезетте",
+                    "сол заматта"
+                ],
+                "Karakalpak": [
+                    "sol oaqıtta",
+                    "sol zamatta",
+                    "sol demde"
+                ],
+                "Tatar": [
+                    "шул ук вакытта",
+                    "шул мизгелдә",
+                    "шул арада"
+                ],
+                "Bashkir": [
+                    "шул ваҡытта",
+                    "шул мәлдә",
+                    "шул арала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şol dem"
+                ],
+                "Kyrgyz": [
+                    "ошол маалда",
+                    "ошол кезде",
+                    "ошол заматта"
+                ],
+                "Karakalpak": [
+                    "sol mezgilde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "o sırada",
+                    "o vakit"
+                ],
+                "Azerbaijani": [
+                    "o dəm",
+                    "o vaxt",
+                    "o əsnada"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tam o anda",
+                    "tam o esnada"
+                ],
+                "Kyrgyz": [
+                    "дал ошол убакта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aynan o'sha damda"
+                ],
+                "Uyghur": [
+                    "ئەينى ۋاقىتتا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "нәкъ шул чакта"
+                ],
+                "Bashkir": [
+                    "нәҡ шул саҡта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "derhal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həmin an"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "elə o zaman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şol mahal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'sha vaqtda"
+                ]
+            }
+        }
+    ]
+}
+```
+

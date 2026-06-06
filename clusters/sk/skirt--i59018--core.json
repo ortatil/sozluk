@@ -1,0 +1,111 @@
+{
+    "id": "i59018",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "skirt",
+    "en_definition": "cloth covering that forms the part of a garment below the waist",
+    "tr_word": "etek",
+    "tr_definition": "belden aşağıya sarkan, vücudun alt kısmını örten giysi",
+    "ru_word": "юбка",
+    "ru_definition": "женская одежда, закрывающая нижнюю часть тела от талии вниз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "etek"
+                ],
+                "Azerbaijani": [
+                    "ətək"
+                ],
+                "Turkmen": [
+                    "etek"
+                ],
+                "Uzbek": [
+                    "etak"
+                ],
+                "Uyghur": [
+                    "ئېتەك"
+                ],
+                "Kazakh": [
+                    "етек"
+                ],
+                "Kyrgyz": [
+                    "этек"
+                ],
+                "Karakalpak": [
+                    "etek"
+                ],
+                "Tatar": [
+                    "итәк"
+                ],
+                "Bashkir": [
+                    "итәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yubka"
+                ],
+                "Turkmen": [
+                    "yubka"
+                ],
+                "Uzbek": [
+                    "yubka"
+                ],
+                "Uyghur": [
+                    "يوبكا"
+                ],
+                "Kyrgyz": [
+                    "юбка"
+                ],
+                "Karakalpak": [
+                    "yubka"
+                ],
+                "Tatar": [
+                    "юбка"
+                ],
+                "Bashkir": [
+                    "юбка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fistan"
+                ],
+                "Azerbaijani": [
+                    "fistan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "белдемше"
+                ],
+                "Kyrgyz": [
+                    "белдемчи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "belbog'"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "fartuk"
+                ]
+            }
+        }
+    ]
+}

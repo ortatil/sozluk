@@ -1,0 +1,95 @@
+{
+    "id": "i87262",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "black person",
+    "en_definition": "a person with dark skin who comes from Africa (or whose ancestors came from Africa)",
+    "tr_word": "siyahi",
+    "tr_definition": "Afrika kökenli, koyu renkli cilde sahip olan kimse",
+    "ru_word": "чернокожий",
+    "ru_definition": "человек с тёмным цветом кожи, происходящий из Африки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara yağız"
+                ],
+                "Azerbaijani": [
+                    "qara dərili",
+                    "qaraşın"
+                ],
+                "Turkmen": [
+                    "garaýagyz"
+                ],
+                "Uzbek": [
+                    "qora tanli"
+                ],
+                "Uyghur": [
+                    "قارا تەنلىك",
+                    "قارا تەنلىك كىشى",
+                    "قارا تەنلىك ئادەم"
+                ],
+                "Kazakh": [
+                    "қара нәсілді адам",
+                    "қара нәсілді",
+                    "қара терілі адам"
+                ],
+                "Kyrgyz": [
+                    "кара терилүү адам",
+                    "кара киши"
+                ],
+                "Karakalpak": [
+                    "qara tánli",
+                    "qara násil"
+                ],
+                "Tatar": [
+                    "кара тәнле кеше",
+                    "кара тәнле"
+                ],
+                "Bashkir": [
+                    "ҡара тәнле кеше",
+                    "ҡара тәнле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "habaş"
+                ],
+                "Uzbek": [
+                    "habash"
+                ],
+                "Tatar": [
+                    "хәбәши"
+                ],
+                "Bashkir": [
+                    "хәбәш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zenci"
+                ],
+                "Azerbaijani": [
+                    "zənci"
+                ],
+                "Turkmen": [
+                    "zenci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siyahi"
+                ]
+            }
+        }
+    ]
+}

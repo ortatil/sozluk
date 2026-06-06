@@ -1,0 +1,145 @@
+{
+    "id": "i81679",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "box number",
+    "en_definition": "a mailing address to which answers to a newspaper ad can be sent",
+    "tr_word": "ilan kutusu numarası",
+    "tr_definition": "gazete ilanlarına verilen cevapların gönderilebileceği posta adresi veya numarası",
+    "ru_word": "номер абонементного ящика",
+    "ru_definition": "почтовый адрес, по которому можно направлять ответы на газетное объявление",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "posta kutusu numarası"
+                ],
+                "Azerbaijani": [
+                    "poçt qutusu nömrəsi"
+                ],
+                "Turkmen": [
+                    "poçta gutusynyň belgisi"
+                ],
+                "Uzbek": [
+                    "pochta qutisi raqami"
+                ],
+                "Uyghur": [
+                    "پوچتا ساندۇق نومۇرى"
+                ],
+                "Kazakh": [
+                    "пошта жәшігінің нөмірі"
+                ],
+                "Karakalpak": [
+                    "pochta jáshigi"
+                ],
+                "Tatar": [
+                    "почта тартмасы саны"
+                ],
+                "Bashkir": [
+                    "почта йәшниге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kutusu numarası"
+                ],
+                "Azerbaijani": [
+                    "qutu nömrəsi"
+                ],
+                "Turkmen": [
+                    "gutu belgisi"
+                ],
+                "Uzbek": [
+                    "quti raqami"
+                ],
+                "Kyrgyz": [
+                    "кутуча номери"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "абоненттік жәшік"
+                ],
+                "Karakalpak": [
+                    "abonent jáshigi"
+                ],
+                "Tatar": [
+                    "абонент тартмасы"
+                ],
+                "Bashkir": [
+                    "абонент йәшниге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ilan kutusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məktub qutusu nömrəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "salgy belgisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "manzil raqami"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئادرېس نومۇرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жәшік нөмірі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кат кутусунун номери"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дарек кутучасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "xat-xabar jáshigi"
+                ]
+            }
+        }
+    ]
+}

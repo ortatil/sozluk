@@ -1,0 +1,105 @@
+{
+    "id": "i39834",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "drinking",
+    "en_definition": "the act of consuming liquids",
+    "tr_word": "içme",
+    "tr_definition": "sıvı tüketme eylemi",
+    "ru_word": "питьё",
+    "ru_definition": "процесс употребления жидкости",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "içme",
+                    "içiş"
+                ],
+                "Azerbaijani": [
+                    "içmə",
+                    "içiş"
+                ],
+                "Turkmen": [
+                    "içiş",
+                    "içgi",
+                    "içmeklik"
+                ],
+                "Uzbek": [
+                    "ichish"
+                ],
+                "Uyghur": [
+                    "ئىچىش"
+                ],
+                "Kyrgyz": [
+                    "ичүү",
+                    "ичим"
+                ],
+                "Karakalpak": [
+                    "ishio",
+                    "ishimlik"
+                ],
+                "Tatar": [
+                    "эчү",
+                    "эчемлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şürp"
+                ],
+                "Azerbaijani": [
+                    "şürb"
+                ],
+                "Tatar": [
+                    "шөреп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "iste'mol"
+                ],
+                "Kazakh": [
+                    "ішу"
+                ],
+                "Bashkir": [
+                    "эсеү",
+                    "эсем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nosh"
+                ],
+                "Uyghur": [
+                    "نوش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сусын"
+                ],
+                "Kyrgyz": [
+                    "суусун"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нәр"
+                ]
+            }
+        }
+    ]
+}

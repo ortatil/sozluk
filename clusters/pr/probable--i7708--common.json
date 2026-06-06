@@ -1,0 +1,139 @@
+{
+    "id": "i7708",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "probable",
+    "en_definition": "likely but not certain to be or become true or real",
+    "tr_word": "olası",
+    "tr_definition": "gerçekleşmesi beklenen ancak kesin olmayan, muhtemel",
+    "ru_word": "вероятный",
+    "ru_definition": "такой, который может произойти или оказаться верным, но не с полной уверенностью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mümkün"
+                ],
+                "Azerbaijani": [
+                    "mümkün"
+                ],
+                "Turkmen": [
+                    "mümkin"
+                ],
+                "Uzbek": [
+                    "mumkin"
+                ],
+                "Uyghur": [
+                    "مۇمكىن"
+                ],
+                "Kazakh": [
+                    "мүмкін"
+                ],
+                "Kyrgyz": [
+                    "мүмкүн"
+                ],
+                "Karakalpak": [
+                    "múmkin"
+                ],
+                "Tatar": [
+                    "мөмкин"
+                ],
+                "Bashkir": [
+                    "мөмкин"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ehtimal olunan"
+                ],
+                "Turkmen": [
+                    "ähtimal"
+                ],
+                "Uzbek": [
+                    "ehtimoliy"
+                ],
+                "Uyghur": [
+                    "ئېھتىمال"
+                ],
+                "Kazakh": [
+                    "ықтимал"
+                ],
+                "Kyrgyz": [
+                    "ыктымал"
+                ],
+                "Karakalpak": [
+                    "ıqtimal"
+                ],
+                "Tatar": [
+                    "ихтимал"
+                ],
+                "Bashkir": [
+                    "ихтимал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bolmagy ähtimal"
+                ],
+                "Uyghur": [
+                    "بولغۇسى"
+                ],
+                "Kyrgyz": [
+                    "болушунча"
+                ],
+                "Karakalpak": [
+                    "bolıoı itimal"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күтілетін"
+                ],
+                "Tatar": [
+                    "көтелгән"
+                ],
+                "Bashkir": [
+                    "көтөлгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muhtemel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "olası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gözlənilən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gumonli"
+                ]
+            }
+        }
+    ]
+}

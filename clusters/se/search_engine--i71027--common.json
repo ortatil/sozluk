@@ -1,0 +1,87 @@
+{
+    "id": "i71027",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "search engine",
+    "en_definition": "a computer program that retrieves documents or files or data from a database or from a computer network (especially from the internet)",
+    "tr_word": "arama motoru",
+    "tr_definition": "İnternet üzerindeki içerikleri tarayarak belirli anahtar kelimelerle ilgili sonuçları listeleyen yazılım sistemi.",
+    "ru_word": "поисковая система",
+    "ru_definition": "Программный комплекс, предназначенный для поиска информации в компьютерных сетях, прежде всего во Всемирной паутине.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "izlash tizimi"
+                ],
+                "Uyghur": [
+                    "ئىزدەش ماتورى",
+                    "ئىزدەش سىستېمىسى"
+                ],
+                "Kazakh": [
+                    "іздеу жүйесі",
+                    "іздеу тетігі",
+                    "іздеу құралы"
+                ],
+                "Kyrgyz": [
+                    "издөө тутуму",
+                    "издөө системасы",
+                    "издөөчү кызмат"
+                ],
+                "Karakalpak": [
+                    "izleo sisteması",
+                    "izleo mexanizmi"
+                ],
+                "Tatar": [
+                    "эзләү системасы",
+                    "эзләгеч"
+                ],
+                "Bashkir": [
+                    "эҙләү системаһы",
+                    "эҙләү ҡоралы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arama motoru",
+                    "arama düzeneği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bulma aracı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "axtarış sistemi",
+                    "axtarış mühərriki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gözleg ulgamy",
+                    "gözleg motory",
+                    "gözleg guraly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qidiruv tizimi",
+                    "qidiruv vositasi"
+                ]
+            }
+        }
+    ]
+}

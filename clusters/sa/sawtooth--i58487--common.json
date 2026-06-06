@@ -1,0 +1,131 @@
+{
+    "id": "i58487",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sawtooth",
+    "en_definition": "a serration on a saw blade",
+    "tr_word": "testere dişi",
+    "tr_definition": "testere bıçağı üzerindeki çentiklerden her biri",
+    "ru_word": "зубец пилы",
+    "ru_definition": "один из острых выступов на режущей кромке пилы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kertik"
+                ],
+                "Azerbaijani": [
+                    "kərtik"
+                ],
+                "Turkmen": [
+                    "kertik"
+                ],
+                "Uzbek": [
+                    "kertik"
+                ],
+                "Kazakh": [
+                    "кертік"
+                ],
+                "Kyrgyz": [
+                    "кертик"
+                ],
+                "Tatar": [
+                    "киртә"
+                ],
+                "Bashkir": [
+                    "киртләс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "testere dişi"
+                ],
+                "Kazakh": [
+                    "тіс"
+                ],
+                "Kyrgyz": [
+                    "тиш"
+                ],
+                "Karakalpak": [
+                    "tіs"
+                ],
+                "Tatar": [
+                    "теш"
+                ],
+                "Bashkir": [
+                    "теш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diş"
+                ],
+                "Azerbaijani": [
+                    "diş"
+                ],
+                "Turkmen": [
+                    "diş"
+                ],
+                "Uzbek": [
+                    "tish",
+                    "tishcha"
+                ],
+                "Uyghur": [
+                    "چىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "arra tishi"
+                ],
+                "Kazakh": [
+                    "ара тісі"
+                ],
+                "Kyrgyz": [
+                    "араа тиши"
+                ],
+                "Karakalpak": [
+                    "ara tіsі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "byçgy dişi"
+                ],
+                "Tatar": [
+                    "пычкы теше"
+                ],
+                "Bashkir": [
+                    "бысҡы теше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mişar dişi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەرە چىشى"
+                ]
+            }
+        }
+    ]
+}

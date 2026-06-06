@@ -1,0 +1,100 @@
+# Tax income
+| Field | Detail |
+|---|---|
+| **ID** | i106345 |
+| **English** | tax income |
+| **Type** | noun |
+| **Definition** | government income due to taxation |
+| **Source** | common |
+| **Ortatil** | bäç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i106345",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tax income",
+    "en_definition": "government income due to taxation",
+    "tr_word": "vergi geliri",
+    "tr_definition": "devletin vergilendirme yoluyla elde ettiği gelir",
+    "ru_word": "налоговые доходы",
+    "ru_definition": "доходы государства, получаемые за счет налогообложения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salgyt girdejisi",
+                    "salgyt girdejileri",
+                    "salgyt tölegleri"
+                ],
+                "Uzbek": [
+                    "soliq tushumi",
+                    "soliq daromadi"
+                ],
+                "Kazakh": [
+                    "салық түсімі",
+                    "салық табысы",
+                    "салықтық кіріс"
+                ],
+                "Kyrgyz": [
+                    "салык кирешеси",
+                    "салык түшүмү"
+                ],
+                "Karakalpak": [
+                    "salıq túsimi",
+                    "salıq dáramadı",
+                    "salıq paydası"
+                ],
+                "Tatar": [
+                    "салым кереме",
+                    "салым табышы"
+                ],
+                "Bashkir": [
+                    "һалым килеме",
+                    "һалым килемдәре",
+                    "һалым төшөмө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vergi geliri",
+                    "vergi hasılatı",
+                    "vergi iradı"
+                ],
+                "Azerbaijani": [
+                    "vergi gəliri",
+                    "vergi mədaxili",
+                    "vergi gəlirləri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boj"
+                ],
+                "Uyghur": [
+                    "باج كىرىمى",
+                    "باج تاپاشى",
+                    "باج كىرىملىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xiroj"
+                ]
+            }
+        }
+    ]
+}
+```
+

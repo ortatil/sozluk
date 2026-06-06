@@ -1,0 +1,91 @@
+{
+    "id": "i49918",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "alarm clock",
+    "en_definition": "a clock that wakes a sleeper at some preset time",
+    "tr_word": "çalar saat",
+    "tr_definition": "belirli bir zamanda çalmak üzere ayarlanabilen, uyandırma amaçlı saat",
+    "ru_word": "будильник",
+    "ru_definition": "часы, снабженные механизмом, который в заданный момент подает звуковой сигнал",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uyandırma saati"
+                ],
+                "Azerbaijani": [
+                    "oyadıcı saat"
+                ],
+                "Turkmen": [
+                    "oýandyryjy",
+                    "oýandyryjy sagat"
+                ],
+                "Uzbek": [
+                    "uyg'otkich"
+                ],
+                "Uyghur": [
+                    "ئويغاتقۇچ سائەت"
+                ],
+                "Kazakh": [
+                    "оятқыш",
+                    "оятқыш сағат"
+                ],
+                "Kyrgyz": [
+                    "ойготкуч"
+                ],
+                "Karakalpak": [
+                    "oyatar",
+                    "oyatar saat"
+                ],
+                "Tatar": [
+                    "уяткыч",
+                    "уяту сәгате"
+                ],
+                "Bashkir": [
+                    "уятҡыс",
+                    "уятыусы сәғәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qo'ng'iroqli soat"
+                ],
+                "Uyghur": [
+                    "قوڭغۇراقلىق سائەت"
+                ],
+                "Kyrgyz": [
+                    "коңгуроолуу саат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zəngli saat"
+                ],
+                "Uzbek": [
+                    "zangli soat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalar saat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "zoguly sagat"
+                ]
+            }
+        }
+    ]
+}

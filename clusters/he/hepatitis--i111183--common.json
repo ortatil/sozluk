@@ -1,0 +1,102 @@
+{
+    "id": "i111183",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hepatitis",
+    "en_definition": "inflammation of the liver caused by a virus or a toxin",
+    "tr_word": "hepatit",
+    "tr_definition": "karaciğerin virüs veya toksinler nedeniyle iltihaplanması",
+    "ru_word": "гепатит",
+    "ru_definition": "воспаление печени, вызванное вирусом или токсином",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarılık"
+                ],
+                "Azerbaijani": [
+                    "sarılıq"
+                ],
+                "Turkmen": [
+                    "sarylama",
+                    "sarylyk"
+                ],
+                "Uzbek": [
+                    "sariq",
+                    "sariq kasalligi"
+                ],
+                "Uyghur": [
+                    "سېرىقلىق كېسىلى"
+                ],
+                "Kazakh": [
+                    "сары ауру",
+                    "сары"
+                ],
+                "Kyrgyz": [
+                    "сарык",
+                    "сары оору"
+                ],
+                "Karakalpak": [
+                    "sarı kesel",
+                    "sarı aoırıo"
+                ],
+                "Tatar": [
+                    "сары",
+                    "сары чире"
+                ],
+                "Bashkir": [
+                    "һары",
+                    "һары ауырыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bagyr sowuklamasy"
+                ],
+                "Kazakh": [
+                    "бауыр қабынуы"
+                ],
+                "Karakalpak": [
+                    "baoır qabınıoı"
+                ],
+                "Tatar": [
+                    "бавыр ялкынсынуы"
+                ],
+                "Bashkir": [
+                    "бауыр шешеүе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karaciğer iltihabı"
+                ],
+                "Azerbaijani": [
+                    "qaraciyər iltihabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jigar yalligʻlanishi"
+                ],
+                "Uyghur": [
+                    "جىگەر ياللۇغى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hepatit"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "id": "i103919",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "poison oak",
+    "en_definition": "climbing plant common in eastern and central United States with ternate leaves and greenish flowers followed by white berries; yields an irritating oil that causes a rash on contact",
+    "tr_word": "zehirli meşe",
+    "tr_definition": "Kuzey Amerika'ya özgü, temas edildiğinde ciltte şiddetli kaşıntı ve döküntüye neden olan, üç yapraklı ve beyaz meyveli bir tür zehirli bitki.",
+    "ru_word": "ядовитый дуб",
+    "ru_definition": "Североамериканское растение семейства Сумаховые, содержащее раздражающее масло урушиол, которое вызывает сильный дерматит при контакте с кожей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zehirli meşe",
+                    "zehirli sarmaşık"
+                ],
+                "Azerbaijani": [
+                    "zəhərli sarmaşıq",
+                    "zəhərli palıd",
+                    "zəhərli bitki"
+                ],
+                "Turkmen": [
+                    "zäherli sarmaşyk",
+                    "zäherli derman ösümligi",
+                    "zäherli ösümlik"
+                ],
+                "Uzbek": [
+                    "zaharli pechak",
+                    "zaharli buta",
+                    "zaharli o'simlik"
+                ],
+                "Uyghur": [
+                    "زەھەرلىك دۇب",
+                    "زەھەرلىك پېچەكگۈل"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "улы шырмауық",
+                    "улы емен",
+                    "улы өсімдік"
+                ],
+                "Kyrgyz": [
+                    "уулуу өсүмдүк",
+                    "уулуу чырмалгыч",
+                    "уулуу бадал"
+                ],
+                "Karakalpak": [
+                    "ulı ósіmdіk",
+                    "ulı shırmauıq"
+                ],
+                "Tatar": [
+                    "агулы имән",
+                    "агулы үсемлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaşındıran sarmaşık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ағыулы имән",
+                    "ағыулы үҫемлек"
+                ]
+            }
+        }
+    ]
+}

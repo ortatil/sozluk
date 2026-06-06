@@ -1,0 +1,68 @@
+{
+    "id": "i64970",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sweat gland",
+    "en_definition": "any of the glands in the skin that secrete perspiration",
+    "tr_word": "ter bezi",
+    "tr_definition": "deride bulunan ve ter salgılayan bezlerin her biri",
+    "ru_word": "потовая железа",
+    "ru_definition": "любая из желез в коже, выделяющая пот",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ter bezi"
+                ],
+                "Azerbaijani": [
+                    "tər vəzisi",
+                    "tər vəziləri"
+                ],
+                "Turkmen": [
+                    "der mäzi",
+                    "derleýji mäz"
+                ],
+                "Uzbek": [
+                    "ter bezi",
+                    "ter chiqaruvchi bez"
+                ],
+                "Uyghur": [
+                    "تەر بېزى",
+                    "تەر چىقىرىش بېزى"
+                ],
+                "Kazakh": [
+                    "тер безі"
+                ],
+                "Kyrgyz": [
+                    "тер бездери"
+                ],
+                "Karakalpak": [
+                    "ter bezi"
+                ],
+                "Tatar": [
+                    "тир бизе",
+                    "тир чыгаручы биз"
+                ],
+                "Bashkir": [
+                    "тир биҙе",
+                    "тир сығарыу биҙе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ter guddesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тер чыгаруучу бездер"
+                ]
+            }
+        }
+    ]
+}

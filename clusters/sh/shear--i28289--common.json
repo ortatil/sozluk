@@ -1,0 +1,108 @@
+{
+    "id": "i28289",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "shear",
+    "en_definition": "cut with shears",
+    "tr_word": "kırkmak",
+    "tr_definition": "Yün, tüy veya saç gibi şeyleri makasla kesmek.",
+    "ru_word": "стричь",
+    "ru_definition": "Срезать волосы, шерсть или другой покров с помощью ножниц или специальной машинки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kırkmak"
+                ],
+                "Azerbaijani": [
+                    "qırxmaq",
+                    "qırxıb-təmizləmək"
+                ],
+                "Turkmen": [
+                    "gyrkmak",
+                    "gyrmak"
+                ],
+                "Uzbek": [
+                    "qirqmoq",
+                    "kesmoq",
+                    "qirqib olmoq"
+                ],
+                "Uyghur": [
+                    "قىرقىماق",
+                    "قىرقىپ ئالماق"
+                ],
+                "Kazakh": [
+                    "қырқу"
+                ],
+                "Kyrgyz": [
+                    "кырк-",
+                    "кыркып ал-"
+                ],
+                "Karakalpak": [
+                    "qırqıu"
+                ],
+                "Tatar": [
+                    "кыркырга",
+                    "кырырга"
+                ],
+                "Bashkir": [
+                    "ҡырҡыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kesmek"
+                ],
+                "Azerbaijani": [
+                    "kəsmək"
+                ],
+                "Turkmen": [
+                    "kesmek"
+                ],
+                "Uyghur": [
+                    "كەسمەك"
+                ],
+                "Kazakh": [
+                    "кесу"
+                ],
+                "Kyrgyz": [
+                    "кес-"
+                ],
+                "Karakalpak": [
+                    "kesiu"
+                ],
+                "Tatar": [
+                    "кисәргә"
+                ],
+                "Bashkir": [
+                    "киҫеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "biçmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күзеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йөн алыу"
+                ]
+            }
+        }
+    ]
+}

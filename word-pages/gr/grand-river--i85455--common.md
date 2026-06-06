@@ -1,0 +1,149 @@
+# Grand river
+| Field | Detail |
+|---|---|
+| **ID** | i85455 |
+| **English** | grand river |
+| **Type** | noun |
+| **Definition** | a river in southern Michigan that flows northwest to empty into Lake Michigan |
+| **Source** | common |
+| **Ortatil** | özen |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| өзен | özen |
+| дария | dariya |
+
+```json
+{
+    "id": "i85455",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "grand river",
+    "en_definition": "a river in southern Michigan that flows northwest to empty into Lake Michigan",
+    "tr_word": "Grand Nehri",
+    "tr_definition": "Güney Michigan'da bulunan ve Michigan Gölü'ne dökülmek üzere kuzeybatıya akan bir nehir.",
+    "ru_word": "Гранд-Ривер",
+    "ru_definition": "Река в южной части штата Мичиган, текущая на северо-запад и впадающая в озеро Мичиган.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ulu ırmak"
+                ],
+                "Azerbaijani": [
+                    "ulu çay"
+                ],
+                "Turkmen": [
+                    "uly derýa"
+                ],
+                "Uzbek": [
+                    "ulug' daryo"
+                ],
+                "Kazakh": [
+                    "үлкен өзен"
+                ],
+                "Kyrgyz": [
+                    "улуу дарыя"
+                ],
+                "Karakalpak": [
+                    "úlken dárya",
+                    "ullı dárya"
+                ],
+                "Tatar": [
+                    "олуг елга"
+                ],
+                "Bashkir": [
+                    "оло йылға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "büyük nehir"
+                ],
+                "Azerbaijani": [
+                    "böyük çay"
+                ],
+                "Turkmen": [
+                    "beýik derýa"
+                ],
+                "Tatar": [
+                    "бөек елга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ دەريا"
+                ],
+                "Kyrgyz": [
+                    "чоң дарыя"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зур елга"
+                ],
+                "Bashkir": [
+                    "ҙур йылға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koca çay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta daryo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "azim daryo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گراند دەرياسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өзен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дария"
+                ]
+            }
+        }
+    ]
+}
+```
+

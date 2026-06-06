@@ -1,0 +1,118 @@
+{
+    "id": "i70198",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "textbook",
+    "en_definition": "a book prepared for use in schools or colleges",
+    "tr_word": "ders kitabı",
+    "tr_definition": "Okullarda veya üniversitelerde kullanılmak üzere hazırlanan kitap",
+    "ru_word": "учебник",
+    "ru_definition": "Книга, предназначенная для обучения какому-либо предмету в школах или вузах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ders kitabı"
+                ],
+                "Azerbaijani": [
+                    "dərslik",
+                    "dərs kitabı"
+                ],
+                "Turkmen": [
+                    "derslik"
+                ],
+                "Uzbek": [
+                    "darslik"
+                ],
+                "Uyghur": [
+                    "دەرسلىك",
+                    "دەرسلىك كىتاب"
+                ],
+                "Tatar": [
+                    "дәреслек"
+                ],
+                "Bashkir": [
+                    "дәреслек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "okul kitabı"
+                ],
+                "Turkmen": [
+                    "okuw kitaby"
+                ],
+                "Uzbek": [
+                    "oʻquv kitobi"
+                ],
+                "Kazakh": [
+                    "оқулық"
+                ],
+                "Kyrgyz": [
+                    "окуулук"
+                ],
+                "Karakalpak": [
+                    "oqıolıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кітап"
+                ],
+                "Kyrgyz": [
+                    "китеби"
+                ],
+                "Tatar": [
+                    "китап"
+                ],
+                "Bashkir": [
+                    "китап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "talimname"
+                ],
+                "Uyghur": [
+                    "تەلىملىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qoʻllanma"
+                ],
+                "Bashkir": [
+                    "ҡулланма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сабаклык"
+                ],
+                "Karakalpak": [
+                    "sabaqlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нұсқаулық"
+                ]
+            }
+        }
+    ]
+}

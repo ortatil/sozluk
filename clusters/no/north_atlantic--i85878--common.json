@@ -1,0 +1,81 @@
+{
+    "id": "i85878",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north atlantic",
+    "en_definition": "that part of the Atlantic Ocean to the north of the equator",
+    "tr_word": "Kuzey Atlantik",
+    "tr_definition": "Atlantik Okyanusu'nun ekvatorun kuzeyinde kalan kısmı",
+    "ru_word": "Северная Атлантика",
+    "ru_definition": "часть Атлантического океана, расположенная к северу от экватора",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Atlantik",
+                    "Kuzey Atlas Okyanusu"
+                ],
+                "Azerbaijani": [
+                    "Şimali Atlantik okeanı"
+                ],
+                "Uyghur": [
+                    "شىمالىي ئاتلانتىك ئوكيان",
+                    "شىمالىي ئاتلانتىك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk Atlantika",
+                    "Demirgazyk Atlantik ummany"
+                ],
+                "Tatar": [
+                    "Төньяк Атлантика",
+                    "Төньяк Атлантик океан"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Атлантика",
+                    "Төньяҡ Атлантик океан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimali Atlantika"
+                ],
+                "Uzbek": [
+                    "Shimoliy Atlantika",
+                    "Shimoliy Atlantika okeani"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Солтүстік Атлант мұхиты",
+                    "Солтүстік Атлант"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Түндүк Атлантика",
+                    "Түндүк Атлантика океаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Arqa Atlantika",
+                    "Arqa Atlant múxitı"
+                ]
+            }
+        }
+    ]
+}

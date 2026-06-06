@@ -1,0 +1,100 @@
+{
+    "id": "i60211",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "three-piece suit",
+    "en_definition": "a business suit consisting of a jacket and vest and trousers",
+    "tr_word": "üç parçalı takım elbise",
+    "tr_definition": "ceket, yelek ve pantolondan oluşan takım elbise",
+    "ru_word": "костюм-тройка",
+    "ru_definition": "мужской костюм, состоящий из пиджака, жилета и брюк",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "üçlü takım",
+                    "üç parçalı takım"
+                ],
+                "Azerbaijani": [
+                    "üçlük kostyum",
+                    "üçlü dəst"
+                ],
+                "Turkmen": [
+                    "üçlük kostýum"
+                ],
+                "Uzbek": [
+                    "uchlik kiyim",
+                    "uchlik kostyum"
+                ],
+                "Uyghur": [
+                    "ئۈچ پارچە كاستيۇم-بۇرۇلكا",
+                    "ئۈچ پارچە كىيىم"
+                ],
+                "Kyrgyz": [
+                    "үчилтик костюм",
+                    "үчтүк костюм"
+                ],
+                "Tatar": [
+                    "өчле костюм",
+                    "өч кисәкле костюм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "üç bölekli kostýum"
+                ],
+                "Uyghur": [
+                    "كاستيۇم-بۇرۇلكا ۋە جىلىتكە"
+                ],
+                "Kyrgyz": [
+                    "үч бөлүктүү костюм"
+                ],
+                "Karakalpak": [
+                    "úsh bólekli kostyum"
+                ],
+                "Bashkir": [
+                    "өс өлөшлө костюм",
+                    "өс киҫәкле костюм",
+                    "өс киҫәктән торған костюм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yelekli takım elbise"
+                ],
+                "Azerbaijani": [
+                    "jiletli kostyum"
+                ],
+                "Turkmen": [
+                    "žiletli kostýum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үштік костюм",
+                    "үштік киім"
+                ],
+                "Karakalpak": [
+                    "úshtik kostyum",
+                    "úshtik kiyim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nimchali kostyum-shim"
+                ]
+            }
+        }
+    ]
+}

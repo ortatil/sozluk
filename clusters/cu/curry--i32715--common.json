@@ -1,0 +1,123 @@
+{
+    "id": "i32715",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "curry",
+    "en_definition": "season with a mixture of spices; typical of Indian cooking",
+    "tr_word": "köri ile tatlandırmak",
+    "tr_definition": "Hint mutfağına özgü baharat karışımıyla çeşnilendirmek",
+    "ru_word": "приправлять карри",
+    "ru_definition": "приправлять смесью специй, характерной для индийской кухни",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tatlandırmak"
+                ],
+                "Turkmen": [
+                    "tagamlandyrmak"
+                ],
+                "Kazakh": [
+                    "тәттілеу"
+                ],
+                "Kyrgyz": [
+                    "татымалда-"
+                ],
+                "Karakalpak": [
+                    "tátileu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дәмдеу",
+                    "дәмдендіру",
+                    "дәм-тұз қосу"
+                ],
+                "Kyrgyz": [
+                    "даамда-"
+                ],
+                "Karakalpak": [
+                    "dámleu",
+                    "dámlendiriu"
+                ],
+                "Tatar": [
+                    "тәмләткечләү",
+                    "тәмләтү"
+                ],
+                "Bashkir": [
+                    "тәмләтеү",
+                    "тәмләткестәр ҡушыу",
+                    "тәм биреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "baharatlamak"
+                ],
+                "Turkmen": [
+                    "baharatlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çeşnilendirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ədviyyatlamaq",
+                    "ədviyyat vurmaq",
+                    "ədviyyat qatmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ysly-atyrly etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ziravorlamoq",
+                    "ziravorlar bilan boyitmoq",
+                    "ziravorlar qo'shmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېتىتقۇ سالماق",
+                    "تېتىتقۇ بىلەن تەملىگۈچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыпар жыттуу заттарды кош-"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "борычлау"
+                ]
+            }
+        }
+    ]
+}

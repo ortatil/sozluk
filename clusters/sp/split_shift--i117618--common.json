@@ -1,0 +1,126 @@
+{
+    "id": "i117618",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "split shift",
+    "en_definition": "a working shift divided into two periods of time with several hours in between",
+    "tr_word": "bölünmüş vardiya",
+    "tr_definition": "günlük çalışma süresinin arada birkaç saatlik boşluk bırakılarak iki ayrı bölüme ayrıldığı çalışma düzeni",
+    "ru_word": "разрывной график",
+    "ru_definition": "режим рабочего времени, при котором рабочий день разделен на две части с перерывом в несколько часов между ними",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bölünmüş mesai"
+                ],
+                "Azerbaijani": [
+                    "bölünmüş növbə"
+                ],
+                "Turkmen": [
+                    "bölünen iş wagty"
+                ],
+                "Uzbek": [
+                    "boʻlingan ish vaqti",
+                    "boʻlaklangan ish tartibi"
+                ],
+                "Uyghur": [
+                    "بۆلۈنمە ئىسمېنا",
+                    "بۆلۈنگەن خىزمەت ۋاقتى"
+                ],
+                "Kazakh": [
+                    "бөлінген ауысым",
+                    "бөлшектенген ауысым"
+                ],
+                "Kyrgyz": [
+                    "бөлүнмө нөөмөт",
+                    "бөлүнгөн иш убактысы"
+                ],
+                "Karakalpak": [
+                    "bólіngen jұmıs kúnі",
+                    "bólіngen smena"
+                ],
+                "Tatar": [
+                    "бүленгән смена"
+                ],
+                "Bashkir": [
+                    "бүленгән эш көнө",
+                    "бүленгән смена"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "üzül-kesil iş tertibi"
+                ],
+                "Uyghur": [
+                    "ئۈزۈك ئىسمېنا"
+                ],
+                "Kazakh": [
+                    "үзілісті жұмыс күні"
+                ],
+                "Kyrgyz": [
+                    "үзгүлтүктүү иш күнү"
+                ],
+                "Tatar": [
+                    "өзелгән эш көне"
+                ],
+                "Bashkir": [
+                    "өҙөклө эш көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "parçalı mesai"
+                ],
+                "Azerbaijani": [
+                    "parçalanmış növbə"
+                ],
+                "Tatar": [
+                    "аралы эш сменасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aralıklı çalışma"
+                ],
+                "Turkmen": [
+                    "aralykly iş"
+                ],
+                "Karakalpak": [
+                    "aralıqlı jұmıs uaqtı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kesintili çalışma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fasiləli iş rejimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uzilishli ish kuni"
+                ]
+            }
+        }
+    ]
+}

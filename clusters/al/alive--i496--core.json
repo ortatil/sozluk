@@ -1,0 +1,151 @@
+{
+    "id": "i496",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "alive",
+    "en_definition": "possessing life",
+    "tr_word": "canlı",
+    "tr_definition": "yaşamakta olan, hayatı devam eden",
+    "ru_word": "живой",
+    "ru_definition": "обладающий жизнью, не мертвый",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diri"
+                ],
+                "Azerbaijani": [
+                    "diri"
+                ],
+                "Turkmen": [
+                    "diri"
+                ],
+                "Uzbek": [
+                    "tirik"
+                ],
+                "Uyghur": [
+                    "تيرىك"
+                ],
+                "Kazakh": [
+                    "тірі"
+                ],
+                "Kyrgyz": [
+                    "тирүү",
+                    "тирүүлүк"
+                ],
+                "Karakalpak": [
+                    "tiri"
+                ],
+                "Tatar": [
+                    "тере"
+                ],
+                "Bashkir": [
+                    "тере"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "canlı"
+                ],
+                "Azerbaijani": [
+                    "canlı"
+                ],
+                "Turkmen": [
+                    "janly"
+                ],
+                "Uzbek": [
+                    "jonli"
+                ],
+                "Uyghur": [
+                    "جانلىق"
+                ],
+                "Kazakh": [
+                    "жанды"
+                ],
+                "Kyrgyz": [
+                    "жандуу"
+                ],
+                "Karakalpak": [
+                    "janlı"
+                ],
+                "Bashkir": [
+                    "йәнле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağ"
+                ],
+                "Azerbaijani": [
+                    "sağ"
+                ],
+                "Turkmen": [
+                    "sag"
+                ],
+                "Kazakh": [
+                    "сау"
+                ],
+                "Kyrgyz": [
+                    "сак"
+                ],
+                "Karakalpak": [
+                    "sao"
+                ],
+                "Tatar": [
+                    "сау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayatta"
+                ],
+                "Uzbek": [
+                    "hayot"
+                ],
+                "Uyghur": [
+                    "ھايات"
+                ],
+                "Tatar": [
+                    "хай"
+                ],
+                "Bashkir": [
+                    "хай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "исән"
+                ],
+                "Bashkir": [
+                    "иҫән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "barhayot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аман"
+                ]
+            }
+        }
+    ]
+}

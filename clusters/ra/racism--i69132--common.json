@@ -1,0 +1,128 @@
+{
+    "id": "i69132",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "racism",
+    "en_definition": "the prejudice that members of one race are intrinsically superior to members of other races",
+    "tr_word": "ırkçılık",
+    "tr_definition": "Bir ırkın diğerlerinden üstün olduğu inancına dayanan ayrımcılık ve ön yargı.",
+    "ru_word": "расизм",
+    "ru_definition": "Идеология и предубеждение, основанные на представлении о превосходстве одной расы над другими.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "نەسەبچىلىك"
+                ],
+                "Kazakh": [
+                    "нәсілшілдік",
+                    "нәсілдік кемсітушілік",
+                    "нәсілдік алауыздық"
+                ],
+                "Kyrgyz": [
+                    "насилчилик"
+                ],
+                "Karakalpak": [
+                    "násilshillik",
+                    "násil ayırmashılıǵı",
+                    "násilge bólinioshilik"
+                ],
+                "Tatar": [
+                    "нәселчелек"
+                ],
+                "Bashkir": [
+                    "нәҫелселек",
+                    "нәҫел айырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ırkçılık"
+                ],
+                "Azerbaijani": [
+                    "irqçilik"
+                ],
+                "Turkmen": [
+                    "irkyçilik"
+                ],
+                "Uzbek": [
+                    "irqchilik",
+                    "irqiy kamsitish",
+                    "irqiy ayirmachilik"
+                ],
+                "Uyghur": [
+                    "ئىرقىيەتچىلىك",
+                    "ئىرقىي ئايرىمىچىلىق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "расизм",
+                    "расачылдык"
+                ],
+                "Tatar": [
+                    "расачылык"
+                ],
+                "Bashkir": [
+                    "расасылыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kavmiyetçilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "asabiyet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəjadpərəstlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jynsparazlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "milletçilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "улутчулдук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иркенчелек"
+                ]
+            }
+        }
+    ]
+}

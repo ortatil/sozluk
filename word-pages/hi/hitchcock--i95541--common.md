@@ -1,0 +1,149 @@
+# Hitchcock
+| Field | Detail |
+|---|---|
+| **ID** | i95541 |
+| **English** | hitchcock |
+| **Type** | noun |
+| **Definition** | English film director noted for his skill in creating suspense (1899-1980) |
+| **Source** | common |
+| **Ortatil** | hiçkok |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **hiçkok** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ھىچكوك | hiçkok |
+| **Kazakh** | |
+| Хичкок | xiçkok |
+| **Kyrgyz** | |
+| Хичкок | xiçkok |
+| **Tatar** | |
+| Хичкок | xiçkok |
+| **Bashkir** | |
+| Хичкок | xiçkok |
+
+```json
+{
+    "id": "i95541",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hitchcock",
+    "en_definition": "English film director noted for his skill in creating suspense (1899-1980)",
+    "tr_word": "Hitchcock",
+    "tr_definition": "Gerilim yaratmadaki ustalığıyla tanınan İngiliz film yönetmeni (1899-1980)",
+    "ru_word": "Хичкок",
+    "ru_definition": "Английский кинорежиссер, известный своим мастерством в создании саспенса (1899-1980)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Alfred Hitchcock"
+                ],
+                "Azerbaijani": [
+                    "Alfred Hiçkok"
+                ],
+                "Turkmen": [
+                    "Alfred Hiçkok"
+                ],
+                "Uyghur": [
+                    "ئالفرېد ھىچكوك"
+                ],
+                "Kazakh": [
+                    "Альфред Хичкок"
+                ],
+                "Kyrgyz": [
+                    "Альфред Хичкок"
+                ],
+                "Karakalpak": [
+                    "Alfred Xichkok"
+                ],
+                "Tatar": [
+                    "Альфред Хичкок"
+                ],
+                "Bashkir": [
+                    "Альфред Хичкок"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Hiçkok"
+                ],
+                "Turkmen": [
+                    "Hiçkok"
+                ],
+                "Uyghur": [
+                    "ھىچكوك"
+                ],
+                "Kazakh": [
+                    "Хичкок"
+                ],
+                "Kyrgyz": [
+                    "Хичкок"
+                ],
+                "Karakalpak": [
+                    "Xichkok"
+                ],
+                "Tatar": [
+                    "Хичкок"
+                ],
+                "Bashkir": [
+                    "Хичкок"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Hitchcock"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rejissyor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kinochi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ijodkor"
+                ]
+            }
+        }
+    ]
+}
+```
+

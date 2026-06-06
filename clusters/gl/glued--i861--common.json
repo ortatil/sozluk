@@ -1,0 +1,104 @@
+{
+    "id": "i861",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "glued",
+    "en_definition": "affixed or as if affixed with glue or paste",
+    "tr_word": "yapıştırılmış",
+    "tr_definition": "tutkal veya yapıştırıcı ile bir yere tutturulmuş olan",
+    "ru_word": "приклеенный",
+    "ru_definition": "прикрепленный или зафиксированный с помощью клея",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yapışık",
+                    "yapıştırılmış",
+                    "yapışmış"
+                ],
+                "Azerbaijani": [
+                    "yapışdırılmış",
+                    "yapışıq"
+                ],
+                "Uzbek": [
+                    "yopishtirilgan",
+                    "yopishgan"
+                ],
+                "Uyghur": [
+                    "چاپلانغان",
+                    "چاپلاغلىق"
+                ],
+                "Kazakh": [
+                    "жапсырылған",
+                    "жабысқан"
+                ],
+                "Kyrgyz": [
+                    "чапталган",
+                    "жабыштырылган",
+                    "жабышкан"
+                ],
+                "Karakalpak": [
+                    "jabıstırılǵan",
+                    "jabısqan"
+                ],
+                "Tatar": [
+                    "ябыштырылган",
+                    "ябышкан"
+                ],
+                "Bashkir": [
+                    "йәбештерелгән",
+                    "йәбешкән",
+                    "йәбештереүле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýelmenen",
+                    "ýelmeşdirilen",
+                    "ýelmeşik"
+                ],
+                "Uyghur": [
+                    "يەلىملەنگەن"
+                ],
+                "Kazakh": [
+                    "желімделген"
+                ],
+                "Karakalpak": [
+                    "jelimlengen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bərkidilmiş"
+                ],
+                "Turkmen": [
+                    "birleşdirilen"
+                ],
+                "Tatar": [
+                    "беркетелгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muttasıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mustahkamlangan"
+                ]
+            }
+        }
+    ]
+}

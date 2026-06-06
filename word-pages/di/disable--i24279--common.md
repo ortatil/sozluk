@@ -1,0 +1,323 @@
+# Disable
+| Field | Detail |
+|---|---|
+| **ID** | i24279 |
+| **English** | disable |
+| **Type** | verb |
+| **Definition** | make unable to perform a certain action |
+| **Source** | common |
+| **Ortatil** | tohtatmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tohtatmaq** | **söndürmäk** | **ayırmaq** |
+|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ❌ |
+| Bashkir | ✅ | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.60 | 0.60 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **2.83** | **0.60** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاجىزلاشتۇرماق | ajizlaşturmaq |
+| **Kazakh** | |
+| тоқтату | toqtatu |
+| сөндіру | söndiru |
+| айыру | ayıru |
+| **Kyrgyz** | |
+| токтотуу | toktotuu |
+| бөгөттөө | bögöttöö |
+| **Tatar** | |
+| туктату | tuktatu |
+| сүндерү | sünderü |
+| ябу | yabu |
+| өзү | özü |
+| **Bashkir** | |
+| туҡтатыу | tuqtatıu |
+| һүндереү | hündereü |
+| айырыу | ayırıu |
+| ябыу | yabıu |
+| сиҡлау | siqlau |
+
+```json
+{
+    "id": "i24279",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "disable",
+    "en_definition": "make unable to perform a certain action",
+    "tr_word": "devre dışı bırakmak",
+    "tr_definition": "belirli bir eylemi gerçekleştiremez hale getirmek",
+    "ru_word": "отключать",
+    "ru_definition": "сделать неспособным выполнять определенное действие",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "togtatmak"
+                ],
+                "Uzbek": [
+                    "to'xtatmoq"
+                ],
+                "Kazakh": [
+                    "тоқтату"
+                ],
+                "Kyrgyz": [
+                    "токтотуу"
+                ],
+                "Karakalpak": [
+                    "toqtatıo"
+                ],
+                "Tatar": [
+                    "туктату"
+                ],
+                "Bashkir": [
+                    "туҡтатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "işləməz hala gətirmək"
+                ],
+                "Uzbek": [
+                    "ishdan chiqarmoq"
+                ],
+                "Kazakh": [
+                    "істен шығару"
+                ],
+                "Kyrgyz": [
+                    "иштен чыгаруу"
+                ],
+                "Karakalpak": [
+                    "isten shıǵarıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mümkinçilikden mahrum etmek"
+                ],
+                "Kazakh": [
+                    "мүмкіндік бермеу"
+                ],
+                "Kyrgyz": [
+                    "мүмкүнчүлүгүнөн ажыратуу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сөндіру"
+                ],
+                "Tatar": [
+                    "сүндерү"
+                ],
+                "Bashkir": [
+                    "һүндереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "айыру"
+                ],
+                "Karakalpak": [
+                    "ayırıo"
+                ],
+                "Bashkir": [
+                    "айырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "engellemek"
+                ],
+                "Azerbaijani": [
+                    "əngəlləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məhrum etmək"
+                ],
+                "Uyghur": [
+                    "مەھرۇم قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bökdemek"
+                ],
+                "Kyrgyz": [
+                    "бөгөттөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "to'smoq"
+                ],
+                "Uyghur": [
+                    "توسۇپ قويماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жараксыз кылуу"
+                ],
+                "Karakalpak": [
+                    "jaramsız etio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ябу"
+                ],
+                "Bashkir": [
+                    "ябыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "etkisizleştirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "devre dışı bırakmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bozmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alıkoymak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sıradan çıxarmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dayandırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "işden çykarmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "güýçden düşürmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "man etmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "cheklamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاجىزلاشتۇرماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىقتىدارسىز قالدۇرماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өзү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәрәкәтсез калдыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сиҡлау"
+                ]
+            }
+        }
+    ]
+}
+```
+

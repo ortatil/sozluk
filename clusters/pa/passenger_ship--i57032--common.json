@@ -1,0 +1,118 @@
+{
+    "id": "i57032",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "passenger ship",
+    "en_definition": "a ship built to carry passengers",
+    "tr_word": "yolcu gemisi",
+    "tr_definition": "yolcu taşımak amacıyla inşa edilmiş gemi",
+    "ru_word": "пассажирское судно",
+    "ru_definition": "судно, предназначенное для перевозки пассажиров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yolcu gemisi"
+                ],
+                "Turkmen": [
+                    "ýolagçy gämisi"
+                ],
+                "Uzbek": [
+                    "yo'lovchi kemasi"
+                ],
+                "Uyghur": [
+                    "يولۇچىلار پاراخوتى",
+                    "يولۇچىلار كېمىسى"
+                ],
+                "Kazakh": [
+                    "жолаушылар кемесі"
+                ],
+                "Karakalpak": [
+                    "jolaoshı kemesi"
+                ],
+                "Tatar": [
+                    "юлчы көймәсе",
+                    "юлчы корабы"
+                ],
+                "Bashkir": [
+                    "юлсылар карабы",
+                    "юлсылар кәмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gemi"
+                ],
+                "Kazakh": [
+                    "кеме"
+                ],
+                "Kyrgyz": [
+                    "кеме"
+                ],
+                "Karakalpak": [
+                    "keme"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "müsafir gəmisi"
+                ],
+                "Uzbek": [
+                    "musofir kemasi"
+                ],
+                "Tatar": [
+                    "мөсафир корабы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vapur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sefine"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sərnişin gəmisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жүргүнчү кемеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "пароход"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "пассажирҙар карабы"
+                ]
+            }
+        }
+    ]
+}

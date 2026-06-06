@@ -1,0 +1,100 @@
+{
+    "id": "i57133",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "penny arcade",
+    "en_definition": "an arcade with coin-operated devices for entertainment",
+    "tr_word": "atari salonu",
+    "tr_definition": "jetonla çalışan oyun makinelerinin bulunduğu eğlence merkezi",
+    "ru_word": "зал игровых автоматов",
+    "ru_definition": "помещение, оборудованное игровыми автоматами, работающими от монет или жетонов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyun salonu"
+                ],
+                "Azerbaijani": [
+                    "oyun salonu",
+                    "oyun yeri"
+                ],
+                "Turkmen": [
+                    "oýunhanasy",
+                    "oýun meýdançasy",
+                    "oýun merkezi"
+                ],
+                "Uzbek": [
+                    "oʻyinlar xonasi",
+                    "oʻyinlar uyi"
+                ],
+                "Uyghur": [
+                    "ئويۇنخانا",
+                    "ئويۇن مەيدانى"
+                ],
+                "Kazakh": [
+                    "ойынхана",
+                    "ойын залы",
+                    "ойын орны"
+                ],
+                "Kyrgyz": [
+                    "оюнкана",
+                    "оюн жайы",
+                    "оюн залы"
+                ],
+                "Karakalpak": [
+                    "oyınxana"
+                ],
+                "Tatar": [
+                    "уен залы",
+                    "уенханә"
+                ],
+                "Bashkir": [
+                    "уйын залы",
+                    "уйынхана"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻngilochar maskan"
+                ],
+                "Uyghur": [
+                    "كۆڭۈل ئېچىش مەيدانى"
+                ],
+                "Tatar": [
+                    "күңел ачу үзәге"
+                ],
+                "Bashkir": [
+                    "күңел асыу урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eğlence merkezi"
+                ],
+                "Azerbaijani": [
+                    "əyləncə mərkəzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "atari salonu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tamashaxana"
+                ]
+            }
+        }
+    ]
+}

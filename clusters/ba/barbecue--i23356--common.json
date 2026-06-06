@@ -1,0 +1,147 @@
+{
+    "id": "i23356",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "barbecue",
+    "en_definition": "cook outdoors on a barbecue grill",
+    "tr_word": "mangal yapmak",
+    "tr_definition": "açık havada mangal ızgarası üzerinde yemek pişirmek",
+    "ru_word": "жарить на гриле",
+    "ru_definition": "готовить еду на открытом воздухе на гриле или мангале",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kabab çəkmək",
+                    "kabab bişirmək"
+                ],
+                "Turkmen": [
+                    "kebap etmek"
+                ],
+                "Uzbek": [
+                    "kabob qilmoq"
+                ],
+                "Uyghur": [
+                    "كاۋاپ قىلماق",
+                    "كاۋاپ پىشۇرماق",
+                    "كاۋاپلىماق"
+                ],
+                "Kazakh": [
+                    "кәуап пісіру",
+                    "кәуап жасау"
+                ],
+                "Karakalpak": [
+                    "káoap pіsіrіo",
+                    "káoap etio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bişirmek"
+                ],
+                "Uzbek": [
+                    "pishirmoq"
+                ],
+                "Kyrgyz": [
+                    "бышыруу"
+                ],
+                "Tatar": [
+                    "пешерү"
+                ],
+                "Bashkir": [
+                    "бешереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "отқа қақтау",
+                    "отқа пісіру"
+                ],
+                "Karakalpak": [
+                    "otqa qaqtao"
+                ],
+                "Tatar": [
+                    "утта пешерү"
+                ],
+                "Bashkir": [
+                    "утта бешереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mangal yapmak"
+                ],
+                "Azerbaijani": [
+                    "manqal qalamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "közlemek"
+                ],
+                "Turkmen": [
+                    "közlemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыздыру"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күмердә пешерү"
+                ],
+                "Bashkir": [
+                    "күмерҙә бешереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ızgara yapmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qovurmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "куурдак кылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шишкебек жасоо"
+                ]
+            }
+        }
+    ]
+}

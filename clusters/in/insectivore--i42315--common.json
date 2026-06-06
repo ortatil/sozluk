@@ -1,0 +1,91 @@
+{
+    "id": "i42315",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "insectivore",
+    "en_definition": "any organism that feeds mainly on insects",
+    "tr_word": "böcekçil",
+    "tr_definition": "temel olarak böceklerle beslenen canlı",
+    "ru_word": "насекомоядное",
+    "ru_definition": "организм, питающийся преимущественно насекомыми",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "böcekçil",
+                    "böcekyiyen"
+                ],
+                "Azerbaijani": [
+                    "böcəkyeyən"
+                ],
+                "Tatar": [
+                    "бөҗәк ашаучы",
+                    "бөҗәк ашаучы хайван"
+                ],
+                "Bashkir": [
+                    "бөжәк ашаусы",
+                    "бөжәк менән туҡланыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həşəratyeyən"
+                ],
+                "Uzbek": [
+                    "hasharotxoʻr",
+                    "hasharotxoʻr hayvon"
+                ],
+                "Uyghur": [
+                    "ھاشاراتخور",
+                    "ھاشارات يېگۈچى",
+                    "ھاشاراتخور ھايۋان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жәндікқоректі",
+                    "жәндікжегіш"
+                ],
+                "Karakalpak": [
+                    "jándіk jegіsh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mör-möjek iýiji",
+                    "mör-möjek iýýän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бунақденелілермен қоректенуші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "курт-кумурска жегич",
+                    "курт-кумурска менен азыктануучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shıbın-shіrkey jegіsh"
+                ]
+            }
+        }
+    ]
+}

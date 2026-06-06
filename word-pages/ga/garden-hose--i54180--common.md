@@ -1,0 +1,139 @@
+# Garden hose
+| Field | Detail |
+|---|---|
+| **ID** | i54180 |
+| **English** | garden hose |
+| **Type** | noun |
+| **Definition** | a hose used for watering a lawn or garden |
+| **Source** | common |
+| **Ortatil** | şlank |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| шланг | şlang |
+
+```json
+{
+    "id": "i54180",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "garden hose",
+    "en_definition": "a hose used for watering a lawn or garden",
+    "tr_word": "bahçe hortumu",
+    "tr_definition": "bahçeyi veya çimleri sulamak için kullanılan esnek boru",
+    "ru_word": "садовый шланг",
+    "ru_definition": "гибкая трубка, используемая для полива сада или газона",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "su şlanqı",
+                    "su borusu"
+                ],
+                "Turkmen": [
+                    "suw şlangy"
+                ],
+                "Uzbek": [
+                    "suv shlangi",
+                    "suv quvuri"
+                ],
+                "Uyghur": [
+                    "سۇ شلانسى"
+                ],
+                "Kyrgyz": [
+                    "суу түтүгү"
+                ],
+                "Karakalpak": [
+                    "suoǵarıo shlangı",
+                    "suoǵarıo tútigi"
+                ],
+                "Tatar": [
+                    "су сиптергеч",
+                    "су сиптерү көпшәсе",
+                    "су сиптергеч көпшә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bahçe hortumu"
+                ],
+                "Azerbaijani": [
+                    "bağ şlanqı"
+                ],
+                "Uzbek": [
+                    "bog' shlangi"
+                ],
+                "Uyghur": [
+                    "باغچا شلانسى",
+                    "باغچا سۇغىرىش تۇرۇبىسى"
+                ],
+                "Kazakh": [
+                    "бақша шлангісі"
+                ],
+                "Karakalpak": [
+                    "baǵ shlangı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwaryş turbasy"
+                ],
+                "Kazakh": [
+                    "суарғыш түтік",
+                    "суарғыш шланг"
+                ],
+                "Kyrgyz": [
+                    "сугаруучу түтүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şlang"
+                ],
+                "Kyrgyz": [
+                    "шланг"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sulama hortumu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hortum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу һибеү шлангы",
+                    "һыу һибеү торбаһы",
+                    "һыу һипкес"
+                ]
+            }
+        }
+    ]
+}
+```
+

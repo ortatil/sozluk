@@ -1,0 +1,75 @@
+{
+    "id": "i76931",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "squash pie",
+    "en_definition": "similar to pumpkin pie but made with winter squash instead of pumpkin",
+    "tr_word": "kabaklı turta",
+    "tr_definition": "bal kabağı yerine kış kabağı ile yapılan, bal kabağı turtasına benzer bir tatlı türü",
+    "ru_word": "тыквенный пирог",
+    "ru_definition": "десерт, похожий на классический тыквенный пирог, но приготовленный из зимних сортов кабачка или мускатной тыквы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kabak böreği",
+                    "kabaklı çörek",
+                    "kabaklı pay"
+                ],
+                "Uzbek": [
+                    "qovoqli somsa",
+                    "qovoq somsa",
+                    "qovoqli pirog",
+                    "qovoq manti"
+                ],
+                "Uyghur": [
+                    "كاۋا پۆرە",
+                    "كاۋا سامسىسى",
+                    "كاۋا نېنى"
+                ],
+                "Tatar": [
+                    "кабак бәлеше",
+                    "кабак пирогы"
+                ],
+                "Bashkir": [
+                    "ҡабаҡ бәлеше",
+                    "ҡабаҡ пирогы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "balqabaq piroqu",
+                    "balqabaq börəyi",
+                    "balqabaq şirniyyatı"
+                ],
+                "Kazakh": [
+                    "асқабақ бәліші",
+                    "асқабақ пирогы"
+                ],
+                "Kyrgyz": [
+                    "ашкабак нан",
+                    "ашкабак пирог",
+                    "ашкабак самса"
+                ],
+                "Karakalpak": [
+                    "asqabaq bálish",
+                    "asqabaq púrme",
+                    "asqabaq somsa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kädi böregi",
+                    "kädi gutaby",
+                    "kädi pisse"
+                ]
+            }
+        }
+    ]
+}

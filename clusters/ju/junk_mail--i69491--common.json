@@ -1,0 +1,182 @@
+{
+    "id": "i69491",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "junk mail",
+    "en_definition": "third-class mail consisting of advertising and often addressed to `resident' or `occupant'",
+    "tr_word": "istenmeyen posta",
+    "tr_definition": "genellikle reklam içeren ve alıcının ismine özel olmayan, toplu olarak gönderilen değersiz posta",
+    "ru_word": "спам",
+    "ru_definition": "нежелательная почтовая рассылка, содержащая рекламу и рассылаемая массово без согласия получателя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gereksiz posta"
+                ],
+                "Turkmen": [
+                    "gereksiz hat"
+                ],
+                "Uzbek": [
+                    "keraksiz xat"
+                ],
+                "Uyghur": [
+                    "كېرەكسىز خەت"
+                ],
+                "Kazakh": [
+                    "керексіз хат"
+                ],
+                "Kyrgyz": [
+                    "керексиз кат"
+                ],
+                "Karakalpak": [
+                    "kereksiz xat"
+                ],
+                "Tatar": [
+                    "кирәксез хатлар"
+                ],
+                "Bashkir": [
+                    "кәрәкмәгән хаттар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "reklam postası"
+                ],
+                "Azerbaijani": [
+                    "reklam məktubu"
+                ],
+                "Uzbek": [
+                    "reklama xati"
+                ],
+                "Karakalpak": [
+                    "reklama xatı"
+                ],
+                "Tatar": [
+                    "реклама хатлары"
+                ],
+                "Bashkir": [
+                    "реклама хаттары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istenmeyen posta"
+                ],
+                "Uzbek": [
+                    "istalmagan xat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жарнамалық хат"
+                ],
+                "Kyrgyz": [
+                    "жарнамалык кат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чүп-чар хатлар"
+                ],
+                "Bashkir": [
+                    "сүп-сар хаттар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yığın ileti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lazımsız məktub"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "arzuolunmaz poçt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "boş məktub"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mahabat haty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "boş hat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېلان خەتلىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىھۇدە پوچتا يوللانمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоқыс хат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "пайдасыз кат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bikar xat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "спәм"
+                ]
+            }
+        }
+    ]
+}

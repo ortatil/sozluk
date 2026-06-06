@@ -1,0 +1,81 @@
+{
+    "id": "i105635",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tuberous plant",
+    "en_definition": "plant growing from a tuber",
+    "tr_word": "yumrulu bitki",
+    "tr_definition": "Yumru kökten yetişen bitki türü.",
+    "ru_word": "клубневое растение",
+    "ru_definition": "Растение, развивающееся из клубня.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tüýnekli ösümlik"
+                ],
+                "Uzbek": [
+                    "tugunakli o'simlik",
+                    "tugunakli"
+                ],
+                "Uyghur": [
+                    "تۈگۈنەكلىك ئۆسۈملۈك",
+                    "تۈگۈنەك تومۇرلۇق ئۆسۈملۈك"
+                ],
+                "Kazakh": [
+                    "түйнекті өсімдік",
+                    "түйнекөсімдік"
+                ],
+                "Kyrgyz": [
+                    "түймөктүү өсүмдүк",
+                    "түймөк тамырлуу өсүмдүк"
+                ],
+                "Karakalpak": [
+                    "túynekli ósimlik",
+                    "túynekpayalı ósimlik"
+                ],
+                "Tatar": [
+                    "төерле үсемлек"
+                ],
+                "Bashkir": [
+                    "төйөнлө үҫемлек",
+                    "төйөнлө сәскә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yumrulu bitki",
+                    "yumru köklü bitki"
+                ],
+                "Azerbaijani": [
+                    "yumrulu bitki",
+                    "köküyumrulu bitki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pöshme ösümlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ildizmevali o'simlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәрәңгеле үсемлек"
+                ]
+            }
+        }
+    ]
+}

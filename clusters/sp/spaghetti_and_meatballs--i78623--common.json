@@ -1,0 +1,105 @@
+{
+    "id": "i78623",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spaghetti and meatballs",
+    "en_definition": "spaghetti with meatballs in a tomato sauce",
+    "tr_word": "köfteli makarna",
+    "tr_definition": "domates soslu köfte ile servis edilen spagetti",
+    "ru_word": "спагетти с фрикадельками",
+    "ru_definition": "спагетти с мясными шариками в томатном соусе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "köfteli makarna",
+                    "köfteli spagetti",
+                    "salçalı köfteli makarna"
+                ],
+                "Azerbaijani": [
+                    "küftəli makaron",
+                    "küftəli əriştə"
+                ],
+                "Turkmen": [
+                    "köfteli makaron",
+                    "köfteli hamyr aşy"
+                ],
+                "Uzbek": [
+                    "ko'ftali makaron"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кеспе мен тефтели",
+                    "кеспе мен домалақ ет"
+                ],
+                "Kyrgyz": [
+                    "кесме жана фаршталган тоголоктор",
+                    "кесме жана тоголок эт",
+                    "кесме жана тефтели"
+                ],
+                "Karakalpak": [
+                    "kespe hám gósh",
+                    "kespe hám kotlet",
+                    "kespe hám tefteli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ұзын кеспе мен ет шарлары"
+                ],
+                "Tatar": [
+                    "ит шарчыклары белән токмач"
+                ],
+                "Bashkir": [
+                    "ит шариктары менән туҡмас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qiyməli spagetti"
+                ],
+                "Uzbek": [
+                    "qiymali makaron",
+                    "qiymali xamir ovqat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "итле токмач"
+                ],
+                "Bashkir": [
+                    "итле туҡмас",
+                    "итле макарон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۆش پېلىمىنىلىق پاستا",
+                    "گۆش كۇمىچى بىلەن پاستا",
+                    "گۆش كۇمىچى بىلەن ئۈگرە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кызыл соуслы токмач"
+                ]
+            }
+        }
+    ]
+}

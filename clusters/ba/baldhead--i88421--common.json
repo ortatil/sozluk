@@ -1,0 +1,128 @@
+{
+    "id": "i88421",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "baldhead",
+    "en_definition": "a person whose head is bald or shaved",
+    "tr_word": "kel",
+    "tr_definition": "başında saçı olmayan veya dökülmüş olan kimse",
+    "ru_word": "лысый",
+    "ru_definition": "человек, у которого на голове нет волос",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dazlak"
+                ],
+                "Uzbek": [
+                    "toshbosh"
+                ],
+                "Uyghur": [
+                    "تاس باش"
+                ],
+                "Kazakh": [
+                    "таз"
+                ],
+                "Kyrgyz": [
+                    "таз"
+                ],
+                "Karakalpak": [
+                    "taz",
+                    "tazbas"
+                ],
+                "Tatar": [
+                    "таз",
+                    "тазбаш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kel",
+                    "kel kafalı"
+                ],
+                "Azerbaijani": [
+                    "keçəl"
+                ],
+                "Turkmen": [
+                    "kel"
+                ],
+                "Uzbek": [
+                    "kal"
+                ],
+                "Uyghur": [
+                    "كەل باش"
+                ],
+                "Kazakh": [
+                    "кел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "takyrbaş"
+                ],
+                "Uyghur": [
+                    "تاقىر باش"
+                ],
+                "Kazakh": [
+                    "тақырбас"
+                ],
+                "Bashkir": [
+                    "таҡырбаш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қасқа"
+                ],
+                "Kyrgyz": [
+                    "кашка",
+                    "кашка баш"
+                ],
+                "Karakalpak": [
+                    "qasqa"
+                ],
+                "Bashkir": [
+                    "ҡасҡа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "saçsyz"
+                ],
+                "Uzbek": [
+                    "shishabosh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яланбаш"
+                ],
+                "Bashkir": [
+                    "яланбаш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təpəl",
+                    "təpəltaz"
+                ]
+            }
+        }
+    ]
+}

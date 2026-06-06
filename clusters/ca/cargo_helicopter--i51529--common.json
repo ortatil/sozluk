@@ -1,0 +1,88 @@
+{
+    "id": "i51529",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cargo helicopter",
+    "en_definition": "a helicopter that carries cargo",
+    "tr_word": "yük helikopteri",
+    "tr_definition": "Yük veya eşya taşımak amacıyla tasarlanmış helikopter.",
+    "ru_word": "грузовой вертолёт",
+    "ru_definition": "Вертолёт, предназначенный для перевозки грузов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yük helikopteri"
+                ],
+                "Azerbaijani": [
+                    "yük helikopteri",
+                    "yük daşıyan helikopter"
+                ],
+                "Turkmen": [
+                    "ýük dikuçary"
+                ],
+                "Uzbek": [
+                    "yuk vertolyoti"
+                ],
+                "Uyghur": [
+                    "يۈك تىك ئۇچار ئايروپىلانى",
+                    "يۈك تىك ئۇچارى"
+                ],
+                "Kazakh": [
+                    "жүк тікұшағы",
+                    "жүк тікұшақ"
+                ],
+                "Kyrgyz": [
+                    "жүк тик учагы",
+                    "жүк ташуучу тик учак"
+                ],
+                "Karakalpak": [
+                    "júk tikұshaǵı",
+                    "júk tasıytushı tikұshaq"
+                ],
+                "Tatar": [
+                    "йөк боралагы",
+                    "йөк вертолеты"
+                ],
+                "Bashkir": [
+                    "йөк вертолеты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nakliye helikopteri"
+                ],
+                "Azerbaijani": [
+                    "nəqliyyat helikopteri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yuk uchqichi"
+                ],
+                "Bashkir": [
+                    "йөк күтәреүсе вертолет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taşıma helikopteri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýük wertolýoty"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "i116901",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tuesday",
+    "en_definition": "the third day of the week; the second working day",
+    "tr_word": "salı",
+    "tr_definition": "haftanın üçüncü günü; pazartesiden sonra gelen gün",
+    "ru_word": "вторник",
+    "ru_definition": "второй день недели, следующий за понедельником",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sişenbe"
+                ],
+                "Uzbek": [
+                    "seshanba"
+                ],
+                "Uyghur": [
+                    "سەيشەنبە"
+                ],
+                "Kazakh": [
+                    "сейсенбі"
+                ],
+                "Kyrgyz": [
+                    "шейшемби"
+                ],
+                "Karakalpak": [
+                    "siyshembi",
+                    "seyshembi"
+                ],
+                "Tatar": [
+                    "сишәмбе"
+                ],
+                "Bashkir": [
+                    "шишәмбе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "salı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çərşənbə axşamı"
+                ]
+            }
+        }
+    ]
+}

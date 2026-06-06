@@ -1,0 +1,133 @@
+{
+    "id": "i13291",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "duty-free",
+    "en_definition": "exempt from duty",
+    "tr_word": "gümrüksüz",
+    "tr_definition": "Gümrük vergisinden muaf olan",
+    "ru_word": "беспошлинный",
+    "ru_definition": "Освобожденный от уплаты таможенных пошлин",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "paçsyz"
+                ],
+                "Uzbek": [
+                    "bojsiz",
+                    "boj olinmaydigan"
+                ],
+                "Uyghur": [
+                    "باجسىز",
+                    "باژسىز"
+                ],
+                "Kazakh": [
+                    "бажсыз",
+                    "баж салығынан босатылған"
+                ],
+                "Kyrgyz": [
+                    "бажысыз"
+                ],
+                "Karakalpak": [
+                    "bajısız"
+                ],
+                "Tatar": [
+                    "бажысыз"
+                ],
+                "Bashkir": [
+                    "бажһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salgytsyz"
+                ],
+                "Kazakh": [
+                    "салықсыз"
+                ],
+                "Kyrgyz": [
+                    "салыксыз"
+                ],
+                "Karakalpak": [
+                    "salıqsız"
+                ],
+                "Tatar": [
+                    "салымсыз"
+                ],
+                "Bashkir": [
+                    "һалымһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "төлөмсүз"
+                ],
+                "Karakalpak": [
+                    "tólemsiz"
+                ],
+                "Tatar": [
+                    "түләүсез"
+                ],
+                "Bashkir": [
+                    "түләүһеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gümrüksüz"
+                ],
+                "Azerbaijani": [
+                    "gömrüksüz"
+                ],
+                "Turkmen": [
+                    "gümrüksiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vergiden muaf"
+                ],
+                "Azerbaijani": [
+                    "vergisiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rüsumsuz"
+                ],
+                "Azerbaijani": [
+                    "rüsumsuz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bojdan ozod"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاموژنا بېجى كەچۈرۈم قىلىنغان"
+                ]
+            }
+        }
+    ]
+}

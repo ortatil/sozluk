@@ -1,0 +1,169 @@
+# Double-hung window
+| Field | Detail |
+|---|---|
+| **ID** | i53083 |
+| **English** | double-hung window |
+| **Type** | noun |
+| **Definition** | a window having two sashes that slide up and down |
+| **Source** | common |
+| **Ortatil** | tereze |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| терезе | tereze |
+
+```json
+{
+    "id": "i53083",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "double-hung window",
+    "en_definition": "a window having two sashes that slide up and down",
+    "tr_word": "giyotin pencere",
+    "tr_definition": "Dikey olarak aşağı ve yukarı hareket eden iki kanatlı pencere sistemi.",
+    "ru_word": "подъёмное окно",
+    "ru_definition": "Окно с двумя створками, которые перемещаются вертикально вверх и вниз.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürmeli pencere"
+                ],
+                "Azerbaijani": [
+                    "sürgülü pəncərə"
+                ],
+                "Turkmen": [
+                    "sürüşmeli penjire"
+                ],
+                "Uzbek": [
+                    "surma deraza"
+                ],
+                "Uyghur": [
+                    "سۈرمە دېرىزە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ko'tarma deraza"
+                ],
+                "Kazakh": [
+                    "көтермелі терезе"
+                ],
+                "Tatar": [
+                    "күтәрмәле тәрәзә"
+                ],
+                "Bashkir": [
+                    "күтәрмәле тәҙрә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ikki tabaqali deraza"
+                ],
+                "Karakalpak": [
+                    "ekі qabatlı tereze"
+                ],
+                "Tatar": [
+                    "ике катлы тәрәзә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жылжымалы терезе"
+                ],
+                "Kyrgyz": [
+                    "жылдырма терезе"
+                ],
+                "Karakalpak": [
+                    "jıljımalı tereze"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қос жақтаулы терезе"
+                ],
+                "Kyrgyz": [
+                    "терезе",
+                    "кош кабаттуу терезе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "giyotin pencere"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hareketli kanatlı pencere"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şaquli sürgülü pəncərə",
+                    "iki laylı sürgülü pəncərə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dikleýin süýşürilýän penjire"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆرە سۈرمە دېرىزە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوش سۈرمە دېرىزە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сөйрәлмә тәрәзә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "шыуҙырмалы тәҙрә"
+                ]
+            }
+        }
+    ]
+}
+```
+

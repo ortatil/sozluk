@@ -1,0 +1,99 @@
+{
+    "id": "i67458",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "scientific fact",
+    "en_definition": "an observation that has been confirmed repeatedly and is accepted as true (although its truth is never final)",
+    "tr_word": "bilimsel gerçek",
+    "tr_definition": "Tekrar tekrar doğrulanmış ve doğru olarak kabul edilen bir gözlem.",
+    "ru_word": "научный факт",
+    "ru_definition": "наблюдение, которое было неоднократно подтверждено и признано истинным.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilmî hakikat"
+                ],
+                "Azerbaijani": [
+                    "elmi həqiqət",
+                    "elmi fakt",
+                    "elmi sübut",
+                    "elmi gerçəklik"
+                ],
+                "Turkmen": [
+                    "ylmy hakykat",
+                    "ylmy maglumat",
+                    "ylmy delil"
+                ],
+                "Uzbek": [
+                    "ilmiy dalil",
+                    "ilmiy haqiqat",
+                    "ilmiy isbot",
+                    "ilmiy ashyo"
+                ],
+                "Uyghur": [
+                    "ئىلمىي پاكىت",
+                    "ئىلمىي ھەقىقەت",
+                    "ئىلمىي دەلىل"
+                ],
+                "Karakalpak": [
+                    "ilmiy dálil",
+                    "ilmiy haqıyqat",
+                    "ilmiy maǵlıumat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ғылыми дерек",
+                    "ғылыми айғақ",
+                    "ғылыми мәлімет",
+                    "ғылыми шындық"
+                ],
+                "Tatar": [
+                    "гыйльми хакыйкать",
+                    "гыйльми факт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "фәнни хакыйкать"
+                ],
+                "Bashkir": [
+                    "фәнни дәлил",
+                    "фәнни хаҡлыҡ",
+                    "фәнни иҫбат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilimsel gerçek",
+                    "bilimsel olgu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илимий чындык",
+                    "илимий маалымат",
+                    "илимий далил",
+                    "илимий акыйкат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "исбатланган чынлык"
+                ]
+            }
+        }
+    ]
+}

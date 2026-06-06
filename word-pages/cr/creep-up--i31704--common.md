@@ -1,0 +1,234 @@
+# Creep up
+| Field | Detail |
+|---|---|
+| **ID** | i31704 |
+| **English** | creep up |
+| **Type** | verb |
+| **Definition** | advance stealthily or unnoticed |
+| **Source** | common |
+| **Ortatil** | yaqınlaşmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жасырыну | jasırınu |
+| ұрлану | urlanu |
+| жылыстау | jılıstau |
+| еңбектеу | yeñbekteu |
+| **Tatar** | |
+| якынлашу | yakınlaşu |
+| **Bashkir** | |
+| яҡынлашыу | yaqınlaşıu |
+
+```json
+{
+    "id": "i31704",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "creep up",
+    "en_definition": "advance stealthily or unnoticed",
+    "tr_word": "sessizce yaklaşmak",
+    "tr_definition": "fark edilmeden veya gizlice birine veya bir şeye doğru ilerlemek",
+    "ru_word": "подкрадываться",
+    "ru_definition": "незаметно или скрытно приближаться к кому-либо или чему-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bildirmədən gəlmək"
+                ],
+                "Turkmen": [
+                    "bildirmän gelmek"
+                ],
+                "Uzbek": [
+                    "bildirmay yaqinlashmoq"
+                ],
+                "Uyghur": [
+                    "بىلدۈرمەي يېقىنلىشىش"
+                ],
+                "Kazakh": [
+                    "білдіртпей келу"
+                ],
+                "Kyrgyz": [
+                    "билдирбей келүү"
+                ],
+                "Karakalpak": [
+                    "bildirmey kelio"
+                ],
+                "Tatar": [
+                    "сиздермичә килү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "يوشۇرۇن كېلىش"
+                ],
+                "Kazakh": [
+                    "жасырыну"
+                ],
+                "Karakalpak": [
+                    "jasırın jaqınlasıo"
+                ],
+                "Tatar": [
+                    "яшеренеп килү"
+                ],
+                "Bashkir": [
+                    "йәшеренеп килеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'g'rincha kelmoq"
+                ],
+                "Kyrgyz": [
+                    "уурданып келүү"
+                ],
+                "Karakalpak": [
+                    "urtınıp kelio"
+                ],
+                "Bashkir": [
+                    "урлап килеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "asta yaqinlashmoq"
+                ],
+                "Uyghur": [
+                    "ئاستا ئوغرىلىقچە كېلىش"
+                ],
+                "Kyrgyz": [
+                    "аста келүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sokulmak",
+                    "süzülmek"
+                ],
+                "Azerbaijani": [
+                    "sürünmək",
+                    "soxulmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yanaşmak"
+                ],
+                "Bashkir": [
+                    "яҡынлашыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gizlice yaklaşmak"
+                ],
+                "Azerbaijani": [
+                    "gizlicə yaxınlaşmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýuwaşlyk bilen süýşmek"
+                ],
+                "Tatar": [
+                    "якынлашу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұрлану"
+                ],
+                "Tatar": [
+                    "урлап килү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sezilmey kelio"
+                ],
+                "Bashkir": [
+                    "һиҙҙермәй килеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ogrynça golaýlaşmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pysyrdap gelmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poylab kelmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇخاداپ كېلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жылыстау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еңбектеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "акырын келүү"
+                ]
+            }
+        }
+    ]
+}
+```
+

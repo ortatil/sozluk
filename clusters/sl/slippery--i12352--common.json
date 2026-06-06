@@ -1,0 +1,121 @@
+{
+    "id": "i12352",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "slippery",
+    "en_definition": "causing or tending to cause things to slip or slide",
+    "tr_word": "kaygan",
+    "tr_definition": "üzerinde kolayca kayılan, kaymaya neden olan",
+    "ru_word": "скользкий",
+    "ru_definition": "такой, на котором трудно удержаться, вызывающий скольжение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaygan",
+                    "kaypak"
+                ],
+                "Turkmen": [
+                    "taýgak"
+                ],
+                "Uzbek": [
+                    "toyg'oq"
+                ],
+                "Kazakh": [
+                    "тайғақ",
+                    "тайғанақ"
+                ],
+                "Kyrgyz": [
+                    "тайгак"
+                ],
+                "Karakalpak": [
+                    "tayǵaq"
+                ],
+                "Tatar": [
+                    "тайгак",
+                    "тайгын",
+                    "тайгыч"
+                ],
+                "Bashkir": [
+                    "тайғаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sirpanchiq"
+                ],
+                "Uyghur": [
+                    "سىيرىلغاق"
+                ],
+                "Karakalpak": [
+                    "sırǵanaq"
+                ],
+                "Bashkir": [
+                    "шыуғалаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýylmanak"
+                ],
+                "Kazakh": [
+                    "жылтыр"
+                ],
+                "Kyrgyz": [
+                    "жылма",
+                    "жылмакай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sürüşkən",
+                    "sürüşən",
+                    "sürüşək"
+                ],
+                "Turkmen": [
+                    "sürçek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سىلىق"
+                ],
+                "Bashkir": [
+                    "шыуаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lüzucetli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lirr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېيىلغاق"
+                ]
+            }
+        }
+    ]
+}

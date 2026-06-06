@@ -1,0 +1,94 @@
+{
+    "id": "i70141",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "signature",
+    "en_definition": "your name written in your own handwriting",
+    "tr_word": "imza",
+    "tr_definition": "bir kimsenin herhangi bir belgeyi onayladığını belirtmek için her zaman aynı biçimde kullandığı işaret",
+    "ru_word": "подпись",
+    "ru_definition": "собственноручно написанная фамилия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "imza"
+                ],
+                "Azerbaijani": [
+                    "imza"
+                ],
+                "Turkmen": [
+                    "imza"
+                ],
+                "Uzbek": [
+                    "imzo"
+                ],
+                "Uyghur": [
+                    "ئىمزا"
+                ],
+                "Kyrgyz": [
+                    "имза"
+                ],
+                "Karakalpak": [
+                    "imza"
+                ],
+                "Tatar": [
+                    "имза"
+                ],
+                "Bashkir": [
+                    "имза"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gol"
+                ],
+                "Uyghur": [
+                    "قول قويۇش"
+                ],
+                "Kazakh": [
+                    "қол",
+                    "қолтаңба"
+                ],
+                "Kyrgyz": [
+                    "кол",
+                    "кол тамга"
+                ],
+                "Karakalpak": [
+                    "qol"
+                ],
+                "Tatar": [
+                    "култамга"
+                ],
+                "Bashkir": [
+                    "ҡултамға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dəstxətt"
+                ],
+                "Uzbek": [
+                    "dastxat"
+                ],
+                "Uyghur": [
+                    "دەستخەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pençe"
+                ]
+            }
+        }
+    ]
+}

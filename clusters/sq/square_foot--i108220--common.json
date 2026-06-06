@@ -1,0 +1,77 @@
+{
+    "id": "i108220",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "square foot",
+    "en_definition": "a unit of area equal to one foot by one foot square",
+    "tr_word": "ayak kare",
+    "tr_definition": "bir kenarı bir ayak uzunluğunda olan bir karenin alanına eşit olan alan birimi",
+    "ru_word": "квадратный фут",
+    "ru_definition": "единица измерения площади, равная площади квадрата со стороной в один фут",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kvadrat fut"
+                ],
+                "Turkmen": [
+                    "kwadrat fut"
+                ],
+                "Uzbek": [
+                    "kvadrat fut"
+                ],
+                "Uyghur": [
+                    "كۋادرات فۇت"
+                ],
+                "Kazakh": [
+                    "квадрат фут"
+                ],
+                "Kyrgyz": [
+                    "квадраттык фут"
+                ],
+                "Karakalpak": [
+                    "kwadrat fut"
+                ],
+                "Tatar": [
+                    "квадрат фут"
+                ],
+                "Bashkir": [
+                    "квадрат фут"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шаршы фут"
+                ],
+                "Kyrgyz": [
+                    "чарчы фут"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayak kare",
+                    "kare ayak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "inedördül fut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇرەببە فۇت"
+                ]
+            }
+        }
+    ]
+}

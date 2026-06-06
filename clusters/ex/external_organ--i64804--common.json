@@ -1,0 +1,97 @@
+{
+    "id": "i64804",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "external organ",
+    "en_definition": "an organ that is situated on or near the surface of the body",
+    "tr_word": "dış organ",
+    "tr_definition": "vücudun yüzeyinde veya yüzeyine yakın bir yerde bulunan organ",
+    "ru_word": "наружный орган",
+    "ru_definition": "орган, расположенный на поверхности или вблизи поверхности тела",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dış organ"
+                ],
+                "Turkmen": [
+                    "daşky agza",
+                    "daşky beden agzasy"
+                ],
+                "Uzbek": [
+                    "tashqi a'zo",
+                    "tashqi uzv"
+                ],
+                "Uyghur": [
+                    "تاشقى ئەزا",
+                    "تاشقى ئورگان"
+                ],
+                "Kyrgyz": [
+                    "тышкы мүчө"
+                ],
+                "Tatar": [
+                    "тышкы әгъза"
+                ],
+                "Bashkir": [
+                    "тышҡы ағза"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сыртқы мүше",
+                    "сыртқы ағза"
+                ],
+                "Kyrgyz": [
+                    "сырткы мүчө"
+                ],
+                "Karakalpak": [
+                    "sırtqı aǵza",
+                    "sırtqı múshe"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "дене мүчөсү"
+                ],
+                "Tatar": [
+                    "тән әгъзасы"
+                ],
+                "Bashkir": [
+                    "тән ағзаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "harici uzuv"
+                ],
+                "Azerbaijani": [
+                    "xarici üzv",
+                    "xarici orqan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yüzeyel organ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zahiri üzv"
+                ]
+            }
+        }
+    ]
+}

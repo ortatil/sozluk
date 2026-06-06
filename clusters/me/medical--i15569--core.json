@@ -1,0 +1,140 @@
+{
+    "id": "i15569",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "medical",
+    "en_definition": "relating to the study or practice of medicine",
+    "tr_word": "tıbbi",
+    "tr_definition": "tıp bilimi veya uygulaması ile ilgili olan",
+    "ru_word": "медицинский",
+    "ru_definition": "относящийся к медицине или к врачебной практике",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tıbbi"
+                ],
+                "Azerbaijani": [
+                    "tibbi"
+                ],
+                "Turkmen": [
+                    "tebiplik"
+                ],
+                "Uzbek": [
+                    "tibbiy"
+                ],
+                "Uyghur": [
+                    "تېببىي"
+                ],
+                "Tatar": [
+                    "тибби"
+                ],
+                "Bashkir": [
+                    "тибби"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shifokorlik"
+                ],
+                "Kazakh": [
+                    "шипагерлік"
+                ],
+                "Kyrgyz": [
+                    "шипалык"
+                ],
+                "Karakalpak": [
+                    "shipagerlіk"
+                ],
+                "Bashkir": [
+                    "шифа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tababet"
+                ],
+                "Azerbaijani": [
+                    "təbabətə aid"
+                ],
+                "Uzbek": [
+                    "tabobatga oid"
+                ],
+                "Uyghur": [
+                    "تېبابەتچىلىككە ئائىت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "медициналық"
+                ],
+                "Kyrgyz": [
+                    "медициналык"
+                ],
+                "Karakalpak": [
+                    "medicinalıq"
+                ],
+                "Tatar": [
+                    "медицина"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sağlık"
+                ],
+                "Turkmen": [
+                    "saglygy goraýyş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәрігерлік"
+                ],
+                "Kyrgyz": [
+                    "дарыгерлик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "емдік"
+                ],
+                "Karakalpak": [
+                    "emleu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "داۋالاشقا مۇناسىۋەتلىك"
+                ],
+                "Bashkir": [
+                    "дауалау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lukmançylyk"
+                ]
+            }
+        }
+    ]
+}

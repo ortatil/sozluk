@@ -1,0 +1,79 @@
+{
+    "id": "i40075",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "violin lesson",
+    "en_definition": "a less in playing the violin",
+    "tr_word": "keman dersi",
+    "tr_definition": "keman çalmayı öğrenmek için alınan ders",
+    "ru_word": "урок скрипки",
+    "ru_definition": "занятие по обучению игре на скрипке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "skripka dərsi"
+                ],
+                "Turkmen": [
+                    "skripka sapagy",
+                    "skripka dersi"
+                ],
+                "Uzbek": [
+                    "skripka darsi",
+                    "skripka sabog'i",
+                    "skripka o'rganish"
+                ],
+                "Uyghur": [
+                    "سىكریپكا دەرسى"
+                ],
+                "Kazakh": [
+                    "скрипка сабағы",
+                    "скрипка үйрену",
+                    "скрипка дәрісі"
+                ],
+                "Kyrgyz": [
+                    "скрипка сабагы",
+                    "скрипка үйрөнүү",
+                    "скрипка дарсы"
+                ],
+                "Karakalpak": [
+                    "skripka sabaǵı",
+                    "skripka dárisi"
+                ],
+                "Tatar": [
+                    "скрипка дәресе",
+                    "скрипка сабагы"
+                ],
+                "Bashkir": [
+                    "скрипка дәресе",
+                    "скрипка уҡыуы",
+                    "скрипка өйрәнеүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "keman dersi",
+                    "keman eğitimi",
+                    "keman talimi"
+                ],
+                "Azerbaijani": [
+                    "kamança dərsi"
+                ],
+                "Uyghur": [
+                    "كامانچە دەرسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "غىجەك دەرسى"
+                ]
+            }
+        }
+    ]
+}

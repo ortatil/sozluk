@@ -1,0 +1,170 @@
+# Inner city
+| Field | Detail |
+|---|---|
+| **ID** | i81880 |
+| **English** | inner city |
+| **Type** | noun |
+| **Definition** | the older and more populated and (usually) poorer central section of a city |
+| **Source** | common |
+| **Ortatil** | çarşı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i81880",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "inner city",
+    "en_definition": "the older and more populated and (usually) poorer central section of a city",
+    "tr_word": "kent merkezi",
+    "tr_definition": "bir şehrin genellikle daha eski, yoğun nüfuslu ve bazen bakımsız olan merkezi bölgesi",
+    "ru_word": "центр города",
+    "ru_definition": "центральная, густонаселенная и часто более старая часть города, иногда характеризующаяся социальными проблемами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iç şehir"
+                ],
+                "Azerbaijani": [
+                    "içəri şəhər"
+                ],
+                "Turkmen": [
+                    "içerki şäher"
+                ],
+                "Uzbek": [
+                    "ichki shahar",
+                    "eski shahar"
+                ],
+                "Uyghur": [
+                    "ئىچكى شەھەر"
+                ],
+                "Kazakh": [
+                    "ішкі қала"
+                ],
+                "Kyrgyz": [
+                    "эски шаар"
+                ],
+                "Karakalpak": [
+                    "ishki qala"
+                ],
+                "Tatar": [
+                    "иске шәһәр",
+                    "эчке шәһәр"
+                ],
+                "Bashkir": [
+                    "иҫке ҡала"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehir merkezi"
+                ],
+                "Azerbaijani": [
+                    "şəhər mərkəzi"
+                ],
+                "Turkmen": [
+                    "şäher merkezi"
+                ],
+                "Uzbek": [
+                    "shahar markazi"
+                ],
+                "Uyghur": [
+                    "شەھەر مەركىزى"
+                ],
+                "Tatar": [
+                    "шәһәр үзәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kent merkezi"
+                ],
+                "Turkmen": [
+                    "köne şäher"
+                ],
+                "Uyghur": [
+                    "كونا شەھەر"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қала орталығы"
+                ],
+                "Karakalpak": [
+                    "qala orayı"
+                ],
+                "Bashkir": [
+                    "ҡала эсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ескі қала"
+                ],
+                "Karakalpak": [
+                    "eski qala"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çarşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "köhnə şəhər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mərkəz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаардын борбору"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борбордук бөлүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡала үҙәге"
+                ]
+            }
+        }
+    ]
+}
+```
+

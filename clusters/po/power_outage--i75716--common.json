@@ -1,0 +1,149 @@
+{
+    "id": "i75716",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "power outage",
+    "en_definition": "equipment failure resulting when the supply of power fails",
+    "tr_word": "elektrik kesintisi",
+    "tr_definition": "güç kaynağının arızalanması sonucu oluşan ekipman hatası",
+    "ru_word": "отключение электроэнергии",
+    "ru_definition": "отказ оборудования в результате прекращения подачи электроэнергии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrik kesintisi",
+                    "elektrik arızası"
+                ],
+                "Azerbaijani": [
+                    "elektrik kəsilməsi"
+                ],
+                "Turkmen": [
+                    "elektrik kesilmegi"
+                ],
+                "Uzbek": [
+                    "elektr uzilishi"
+                ],
+                "Kazakh": [
+                    "электрдің үзілуі"
+                ],
+                "Kyrgyz": [
+                    "электрдин өчүшү"
+                ],
+                "Bashkir": [
+                    "электр туҡтатылыуы",
+                    "электр өҙөлөүө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tok kesilmegi"
+                ],
+                "Uzbek": [
+                    "tok o'chishi"
+                ],
+                "Uyghur": [
+                    "توك ئۈزۈلۈش",
+                    "توك كېسىلىش"
+                ],
+                "Kazakh": [
+                    "тоқтың өшуі"
+                ],
+                "Kyrgyz": [
+                    "токтун өчүшү"
+                ],
+                "Karakalpak": [
+                    "tok óshioi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quvvat uzilishi"
+                ],
+                "Kazakh": [
+                    "қуаттың үзілуі"
+                ],
+                "Karakalpak": [
+                    "quat úzilisi"
+                ],
+                "Tatar": [
+                    "куәт өзелү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cərəyan kəsilməsi"
+                ],
+                "Turkmen": [
+                    "çyra öçmegi"
+                ],
+                "Kyrgyz": [
+                    "жарыктын өчүшү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "enerji kəsintisi"
+                ],
+                "Tatar": [
+                    "энергия өзелү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жарықтың өшуі"
+                ],
+                "Karakalpak": [
+                    "jaqtılıq óshioi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ут сүнү",
+                    "ут бетү"
+                ],
+                "Bashkir": [
+                    "ут һүндереү",
+                    "ут һүнеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güç kesintisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "işıq kəsilməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توك توختاش"
+                ]
+            }
+        }
+    ]
+}

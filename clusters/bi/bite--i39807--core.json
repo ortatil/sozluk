@@ -1,0 +1,131 @@
+{
+    "id": "i39807",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "bite",
+    "en_definition": "the act of gripping or chewing off with the teeth and jaws",
+    "tr_word": "ısırık",
+    "tr_definition": "Dişlerle veya çenelerle kavrama veya çiğneme eylemi",
+    "ru_word": "укус",
+    "ru_definition": "Акт захвата или откусывания зубами и челюстями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dişleme"
+                ],
+                "Azerbaijani": [
+                    "dişləm",
+                    "dişləmə"
+                ],
+                "Turkmen": [
+                    "dişleme"
+                ],
+                "Uzbek": [
+                    "tishlam",
+                    "tishlash"
+                ],
+                "Uyghur": [
+                    "چىشلەم",
+                    "چىشلەش"
+                ],
+                "Kazakh": [
+                    "тістеу"
+                ],
+                "Kyrgyz": [
+                    "тиштөө",
+                    "тиштем"
+                ],
+                "Karakalpak": [
+                    "tіsteu"
+                ],
+                "Tatar": [
+                    "тешләм",
+                    "тешләү"
+                ],
+                "Bashkir": [
+                    "тешләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qapma"
+                ],
+                "Turkmen": [
+                    "gapma"
+                ],
+                "Uzbek": [
+                    "qopish"
+                ],
+                "Uyghur": [
+                    "قاپلام"
+                ],
+                "Kazakh": [
+                    "қабу"
+                ],
+                "Kyrgyz": [
+                    "кабуу"
+                ],
+                "Karakalpak": [
+                    "qabu"
+                ],
+                "Tatar": [
+                    "кабым"
+                ],
+                "Bashkir": [
+                    "ҡабым",
+                    "ҡапҡам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lokma"
+                ],
+                "Azerbaijani": [
+                    "loğma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ısırık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çebşeme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uzum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "асау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shaǵu"
+                ]
+            }
+        }
+    ]
+}

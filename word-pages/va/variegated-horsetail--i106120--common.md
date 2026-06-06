@@ -1,0 +1,130 @@
+# Variegated horsetail
+| Field | Detail |
+|---|---|
+| **ID** | i106120 |
+| **English** | variegated horsetail |
+| **Type** | noun |
+| **Definition** | northern North America; Greenland; northern and central Europe |
+| **Source** | common |
+| **Ortatil** | buğumçöp |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بۇغۇمچۆپ | buğumçöp |
+
+```json
+{
+    "id": "i106120",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "variegated horsetail",
+    "en_definition": "northern North America; Greenland; northern and central Europe",
+    "tr_word": "alaca atkuyruğu",
+    "tr_definition": "Kuzey Kuzey Amerika, Grönland, kuzey ve orta Avrupa'da yetişen bir atkuyruğu türü (Equisetum variegatum).",
+    "ru_word": "хвощ пёстрый",
+    "ru_definition": "Вид многолетних травянистых растений рода Хвощ, произрастающий в северной части Северной Америки, Гренландии, а также в Северной и Центральной Европе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alaca atkuyruğu"
+                ],
+                "Azerbaijani": [
+                    "ala-bəzək qatırquyruğu"
+                ],
+                "Turkmen": [
+                    "ala garyşgyr"
+                ],
+                "Uzbek": [
+                    "olachipor qirqbo'g'in"
+                ],
+                "Kazakh": [
+                    "ала қырықбуын"
+                ],
+                "Kyrgyz": [
+                    "ала кырк муун"
+                ],
+                "Karakalpak": [
+                    "ala-bula qırıqbuın",
+                    "ala qırıqbuın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шұбар қырықбуын"
+                ],
+                "Tatar": [
+                    "чуар наратбаш",
+                    "чуар кырыкбуын"
+                ],
+                "Bashkir": [
+                    "сыбар ҡырҡбыуын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boğumlu ot"
+                ],
+                "Uyghur": [
+                    "بۇغۇمچۆپ",
+                    "بۇغۇملۇق چۆپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rəngbərəng qatırquyruğu"
+                ],
+                "Bashkir": [
+                    "сыбар ҡырҡбыуын үләне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qirqbo'g'in"
+                ],
+                "Kyrgyz": [
+                    "кырк муун"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zemberek otu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ala garyşyk garyşgyr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئات قۇيرۇقى"
+                ]
+            }
+        }
+    ]
+}
+```
+

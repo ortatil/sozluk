@@ -1,0 +1,202 @@
+# Honk
+| Field | Detail |
+|---|---|
+| **ID** | i32669 |
+| **English** | honk |
+| **Type** | verb |
+| **Definition** | make a loud noise |
+| **Source** | common |
+| **Ortatil** | haykırmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| айқайлау | ayqaylau |
+| **Kyrgyz** | |
+| кыйкыруу | kıykıruu |
+| чакыруу | çakıruu |
+| **Tatar** | |
+| кычкырту | kıçkırtu |
+| **Bashkir** | |
+| ҡысҡыртыу | qısqırtıu |
+
+```json
+{
+    "id": "i32669",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "honk",
+    "en_definition": "make a loud noise",
+    "tr_word": "korna çalmak",
+    "tr_definition": "yüksek sesli bir gürültü çıkarmak, genellikle bir aracın kornasını kullanmak",
+    "ru_word": "сигналить",
+    "ru_definition": "издавать громкий звук, обычно с помощью автомобильного гудка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "siqnal vermək"
+                ],
+                "Turkmen": [
+                    "signal bermek"
+                ],
+                "Uzbek": [
+                    "signal bermoq"
+                ],
+                "Kazakh": [
+                    "сигнал беру"
+                ],
+                "Karakalpak": [
+                    "signal berio"
+                ],
+                "Tatar": [
+                    "сигнал бирү"
+                ],
+                "Bashkir": [
+                    "сигнал биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovoz bermoq"
+                ],
+                "Uyghur": [
+                    "ئاۋاز چىقارماق"
+                ],
+                "Tatar": [
+                    "тавыш чыгару"
+                ],
+                "Bashkir": [
+                    "тауыш биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ses çıkarmak"
+                ],
+                "Azerbaijani": [
+                    "səs çıxarmaq"
+                ],
+                "Turkmen": [
+                    "seslenmek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дыбыс беру",
+                    "дабыл қағу"
+                ],
+                "Kyrgyz": [
+                    "добуш берүү"
+                ],
+                "Karakalpak": [
+                    "dabıs shıǵarıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gygyrmak"
+                ],
+                "Uzbek": [
+                    "baqirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "haýkyrmak"
+                ],
+                "Kyrgyz": [
+                    "кыйкыруу",
+                    "чакыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кычкырту"
+                ],
+                "Bashkir": [
+                    "ҡысҡыртыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "korna çalmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ötmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "buynuz çalmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇناي چالماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۈدۈك چالماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айқайлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үн чыгаруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "belgi berio"
+                ]
+            }
+        }
+    ]
+}
+```
+

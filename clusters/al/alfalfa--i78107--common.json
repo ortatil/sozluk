@@ -1,0 +1,113 @@
+{
+    "id": "i78107",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "alfalfa",
+    "en_definition": "leguminous plant grown for hay or forage",
+    "tr_word": "yonca",
+    "tr_definition": "Hayvan yemi veya otlak olarak yetiştirilen, baklagiller familyasından bir bitki.",
+    "ru_word": "люцерна",
+    "ru_definition": "Травянистое растение семейства бобовых, выращиваемое на сено или корм скоту.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "belo"
+                ],
+                "Uzbek": [
+                    "beda"
+                ],
+                "Uyghur": [
+                    "بېدە",
+                    "بېدە ئوت"
+                ],
+                "Kazakh": [
+                    "беде"
+                ],
+                "Kyrgyz": [
+                    "беде"
+                ],
+                "Karakalpak": [
+                    "bede"
+                ],
+                "Bashkir": [
+                    "бедә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yonca",
+                    "has yonca"
+                ],
+                "Azerbaijani": [
+                    "yonca"
+                ],
+                "Turkmen": [
+                    "ýorunja"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaba yonca"
+                ],
+                "Azerbaijani": [
+                    "qarayonca"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жоңышқа"
+                ],
+                "Karakalpak": [
+                    "jońıshqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "люцерна"
+                ],
+                "Bashkir": [
+                    "люцерна"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sebarga"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көк беде"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тугай тукранбашы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күк тукранбаш"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+# Probate court
+| Field | Detail |
+|---|---|
+| **ID** | i80934 |
+| **English** | probate court |
+| **Type** | noun |
+| **Definition** | a court having jurisdiction over the probate of wills and the administration of estates |
+| **Source** | common |
+| **Ortatil** | miräshänä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| мирасханә | mirasxanä |
+
+```json
+{
+    "id": "i80934",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "probate court",
+    "en_definition": "a court having jurisdiction over the probate of wills and the administration of estates",
+    "tr_word": "veraset mahkemesi",
+    "tr_definition": "vasiyetnamelerin onaylanması ve miras kalan mülklerin idaresi ile ilgilenen mahkeme",
+    "ru_word": "суд по делам о наследстве",
+    "ru_definition": "суд, обладающий юрисдикцией в отношении утверждения завещаний и управления наследственным имуществом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "miras məhkəməsi"
+                ],
+                "Turkmen": [
+                    "miras kazyýeti",
+                    "miras we wesýet işleri kazyýeti"
+                ],
+                "Uzbek": [
+                    "meros sudi"
+                ],
+                "Uyghur": [
+                    "مىراس سوتى",
+                    "مىراس باشقۇرۇش مەھكىمىسى"
+                ],
+                "Kyrgyz": [
+                    "мурас соту",
+                    "мурас иштери боюнча сот"
+                ],
+                "Karakalpak": [
+                    "miraslıq isler sudı",
+                    "miras sudı",
+                    "miras islerin kórip shıǵıoshı sud"
+                ],
+                "Tatar": [
+                    "мирас суды",
+                    "мирасханә"
+                ],
+                "Bashkir": [
+                    "мираҫ суды",
+                    "мираҫ эштәре суды"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vərəsəlik məhkəməsi",
+                    "vəsiyyətnamə məhkəməsi"
+                ],
+                "Uzbek": [
+                    "vasiyatnoma sudi",
+                    "vasiyat va meros mahkamasi"
+                ],
+                "Uyghur": [
+                    "ۋەسەت سوتى"
+                ],
+                "Tatar": [
+                    "васыять суды"
+                ],
+                "Bashkir": [
+                    "васыятнамә суды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sulh hukuk mahkemesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tereke mahkemesi",
+                    "veraset mahkemesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "wesýetnama kazyýeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұрагерлік соты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өсиетнама соты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мүлік бөлу соты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "керээз соту"
+                ]
+            }
+        }
+    ]
+}
+```
+

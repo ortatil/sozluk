@@ -1,0 +1,149 @@
+{
+    "id": "i116988",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "departure time",
+    "en_definition": "the time at which a public conveyance is scheduled to depart from a given point of origin",
+    "tr_word": "kalkış saati",
+    "tr_definition": "bir toplu taşıma aracının belirli bir noktadan ayrılmasının planlandığı zaman",
+    "ru_word": "время отправления",
+    "ru_definition": "время, в которое общественное транспортное средство должно отправиться из заданного пункта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ketish vaqti"
+                ],
+                "Kyrgyz": [
+                    "кетүү убактысы"
+                ],
+                "Karakalpak": [
+                    "ketio oaqtı"
+                ],
+                "Tatar": [
+                    "китү вакыты"
+                ],
+                "Bashkir": [
+                    "китеү ваҡыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "аттану уақыты"
+                ],
+                "Kyrgyz": [
+                    "аттануу убактысы"
+                ],
+                "Karakalpak": [
+                    "atlanıo oaqtı"
+                ],
+                "Tatar": [
+                    "атлану вакыты"
+                ],
+                "Bashkir": [
+                    "атланыу ваҡыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "jo'nash vaqti"
+                ],
+                "Kazakh": [
+                    "жүру уақыты"
+                ],
+                "Kyrgyz": [
+                    "жөнөө убактысы"
+                ],
+                "Karakalpak": [
+                    "jóneu oaqtı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قوزغىلىش ۋاقتى"
+                ],
+                "Kazakh": [
+                    "қозғалу уақыты"
+                ],
+                "Tatar": [
+                    "кузгалу вакыты"
+                ],
+                "Bashkir": [
+                    "ҡуҙғалыу ваҡыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hareket saati",
+                    "hareket vakti"
+                ],
+                "Azerbaijani": [
+                    "hərəkət vaxtı"
+                ],
+                "Uzbek": [
+                    "harakatlanish vaqti"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çıxış vaxtı"
+                ],
+                "Turkmen": [
+                    "çykyş wagty"
+                ],
+                "Kazakh": [
+                    "шығу уақыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yola düşmə vaxtı"
+                ],
+                "Uyghur": [
+                    "يولغا چىقىش ۋاقتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kalkış saati",
+                    "kalkış vakti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ugramak wagty",
+                    "ugraýyş wagty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماڭىدىغان ۋاقتى"
+                ]
+            }
+        }
+    ]
+}

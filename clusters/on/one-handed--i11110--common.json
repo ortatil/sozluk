@@ -1,0 +1,92 @@
+{
+    "id": "i11110",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one-handed",
+    "en_definition": "having or using a single hand",
+    "tr_word": "tek elli",
+    "tr_definition": "tek bir eli olan veya tek bir elini kullanan",
+    "ru_word": "однорукий",
+    "ru_definition": "имеющий только одну руку или использующий только одну руку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "birəlli"
+                ],
+                "Turkmen": [
+                    "bir elli"
+                ],
+                "Uzbek": [
+                    "bir qo'lli"
+                ],
+                "Uyghur": [
+                    "بىر قوللۇق"
+                ],
+                "Kazakh": [
+                    "бір қолды"
+                ],
+                "Kyrgyz": [
+                    "бир колдуу"
+                ],
+                "Karakalpak": [
+                    "bir qollap",
+                    "bir qollı"
+                ],
+                "Tatar": [
+                    "бер куллап",
+                    "бер кулы булган",
+                    "бер куллы"
+                ],
+                "Bashkir": [
+                    "бер ҡуллы",
+                    "бер ҡуллап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tek elli",
+                    "tek el",
+                    "tek elle yapılan"
+                ],
+                "Azerbaijani": [
+                    "təkəlli"
+                ],
+                "Uyghur": [
+                    "تەك قوللۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýeke elli"
+                ],
+                "Uzbek": [
+                    "yakka qo'lli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалғыз қолды"
+                ],
+                "Kyrgyz": [
+                    "жалгыз колдуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сыңар қолды"
+                ]
+            }
+        }
+    ]
+}

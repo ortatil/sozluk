@@ -1,0 +1,78 @@
+{
+    "id": "i50535",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bass guitar",
+    "en_definition": "the guitar with six strings that has the lowest pitch",
+    "tr_word": "bas gitar",
+    "tr_definition": "En düşük ses perdesine sahip olan, genellikle dört veya beş telli, ritim ve armoni sağlayan gitar türü.",
+    "ru_word": "бас-гитара",
+    "ru_definition": "Струнно-щипковый музыкальный инструмент, предназначенный для игры в басовом диапазоне.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bas gitar",
+                    "bas"
+                ],
+                "Azerbaijani": [
+                    "bas gitara",
+                    "bəm gitara"
+                ],
+                "Turkmen": [
+                    "bas gitara",
+                    "pes sesli gitara"
+                ],
+                "Uzbek": [
+                    "bas gitara",
+                    "past ovozli gitara"
+                ],
+                "Uyghur": [
+                    "باس گىتار"
+                ],
+                "Kazakh": [
+                    "бас-домбыра",
+                    "бас-қобыз",
+                    "бас-гитара"
+                ],
+                "Kyrgyz": [
+                    "бас-гитара"
+                ],
+                "Karakalpak": [
+                    "bas-gitara"
+                ],
+                "Tatar": [
+                    "бас-гитара"
+                ],
+                "Bashkir": [
+                    "бас-гитара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەن ئاۋازلىق گىتار"
+                ],
+                "Karakalpak": [
+                    "tómengi gitara"
+                ],
+                "Tatar": [
+                    "түбән тавышлы гитара"
+                ],
+                "Bashkir": [
+                    "түбән тауышлы гитара"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "төмөнкү үндүү гитара"
+                ]
+            }
+        }
+    ]
+}

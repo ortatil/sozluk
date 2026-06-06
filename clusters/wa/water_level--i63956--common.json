@@ -1,0 +1,77 @@
+{
+    "id": "i63956",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water level",
+    "en_definition": "the level of the surface of a body of water",
+    "tr_word": "su seviyesi",
+    "tr_definition": "bir su kütlesinin yüzeyinin yüksekliği",
+    "ru_word": "уровень воды",
+    "ru_definition": "высота поверхности воды в водоёме",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su seviyesi",
+                    "su düzeyi",
+                    "su yüksekliği"
+                ],
+                "Azerbaijani": [
+                    "su səviyyəsi",
+                    "su qatı",
+                    "su hündürlüyü"
+                ],
+                "Turkmen": [
+                    "suw derejesi",
+                    "suw gaty"
+                ],
+                "Uzbek": [
+                    "suv sathi",
+                    "suv darajasi"
+                ],
+                "Uyghur": [
+                    "سۇ ئورنى",
+                    "سۇ يۈزى ئېگىزلىكى",
+                    "سۇ تەكشىلىكى"
+                ],
+                "Kazakh": [
+                    "су деңгейі",
+                    "су мөлшері",
+                    "су беті"
+                ],
+                "Kyrgyz": [
+                    "суу деңгээли"
+                ],
+                "Karakalpak": [
+                    "suo dárejesi",
+                    "suo qádimi",
+                    "suo sathi"
+                ],
+                "Tatar": [
+                    "су дәрәҗәсе",
+                    "су биеклеге",
+                    "су каты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "suwuň derejesi"
+                ],
+                "Kyrgyz": [
+                    "суунун деңгээли"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу кимәле",
+                    "һыу дәрәжәһе"
+                ]
+            }
+        }
+    ]
+}

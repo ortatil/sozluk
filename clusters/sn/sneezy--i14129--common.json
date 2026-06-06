@@ -1,0 +1,84 @@
+{
+    "id": "i14129",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sneezy",
+    "en_definition": "inclined to sneeze",
+    "tr_word": "aksırıklı",
+    "tr_definition": "hapşırmaya meyilli olan veya sık sık hapşıran",
+    "ru_word": "чихающий",
+    "ru_definition": "склонный к чиханию или часто чихающий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چۈشكۈرىدىغان",
+                    "چۈشكۈرۈشچان"
+                ],
+                "Kazakh": [
+                    "түшкіргіш",
+                    "түшкірмелі"
+                ],
+                "Kyrgyz": [
+                    "чүчкүрүк",
+                    "чүчкүрмө"
+                ],
+                "Karakalpak": [
+                    "túshkіrshek",
+                    "túshkіrgіsh"
+                ],
+                "Tatar": [
+                    "төчкерүчән",
+                    "төчкергесе килгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aksırıklı"
+                ],
+                "Azerbaijani": [
+                    "asqıran",
+                    "asqırıqlı"
+                ],
+                "Turkmen": [
+                    "asgyryjy",
+                    "asgyrmaga ýykgyn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hapşırıklı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aksiruvchi",
+                    "aksiradigan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوقچۇيدىغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сөскөрөк",
+                    "сөскөрөүсән"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+# Bargain rate
+| Field | Detail |
+|---|---|
+| **ID** | i64032 |
+| **English** | bargain rate |
+| **Type** | noun |
+| **Definition** | a price below the standard price |
+| **Source** | common |
+| **Ortatil** | ucuzluq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жеңілдік | jeñildik |
+
+```json
+{
+    "id": "i64032",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bargain rate",
+    "en_definition": "a price below the standard price",
+    "tr_word": "kelepir fiyat",
+    "tr_definition": "standart fiyatın altındaki fiyat",
+    "ru_word": "льготный тариф",
+    "ru_definition": "цена ниже стандартной",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "arzan bahaly",
+                    "arzanladyş"
+                ],
+                "Uzbek": [
+                    "arzon narx"
+                ],
+                "Uyghur": [
+                    "ئەرزان باھا"
+                ],
+                "Kazakh": [
+                    "арзан баға"
+                ],
+                "Kyrgyz": [
+                    "арзан баа"
+                ],
+                "Karakalpak": [
+                    "arzan baha"
+                ],
+                "Tatar": [
+                    "арзан бәя"
+                ],
+                "Bashkir": [
+                    "арзан хаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەن باھا"
+                ],
+                "Kazakh": [
+                    "төмен баға"
+                ],
+                "Kyrgyz": [
+                    "төмөн баа"
+                ],
+                "Karakalpak": [
+                    "tómen baha"
+                ],
+                "Bashkir": [
+                    "түбән хаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýeňillikli baha"
+                ],
+                "Kazakh": [
+                    "жеңілдік"
+                ],
+                "Kyrgyz": [
+                    "жеңилдетилген баа"
+                ],
+                "Karakalpak": [
+                    "jeńilletilgen baha"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tenzilatlı fiyat"
+                ],
+                "Tatar": [
+                    "ташламалы бәя"
+                ],
+                "Bashkir": [
+                    "ташламалы хаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "indirimli fiyat"
+                ],
+                "Azerbaijani": [
+                    "endirimli qiymət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ucuzluk"
+                ],
+                "Azerbaijani": [
+                    "ucuzluq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "münasib qiymət"
+                ],
+                "Uzbek": [
+                    "munosib narx"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "amatly baha"
+                ],
+                "Tatar": [
+                    "уңайлы бәя"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kelepir fiyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uygun fiyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sərfəli qiymət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tushirilgan narx"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chegirma narx"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چۈشۈرۈلگەن باھا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тиімді баға"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,164 @@
+{
+    "id": "i7199",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "at fault",
+    "en_definition": "deserving blame",
+    "tr_word": "hatalı",
+    "tr_definition": "suçlanmayı hak eden, kusurlu olan",
+    "ru_word": "виноватый",
+    "ru_definition": "заслуживающий порицания или обвинения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "günahkar"
+                ],
+                "Turkmen": [
+                    "günäkär"
+                ],
+                "Uzbek": [
+                    "gunohkor"
+                ],
+                "Uyghur": [
+                    "گۇناھكار"
+                ],
+                "Kazakh": [
+                    "күнәлі"
+                ],
+                "Kyrgyz": [
+                    "күнөөлүү"
+                ],
+                "Karakalpak": [
+                    "kúnáli"
+                ],
+                "Tatar": [
+                    "гөнаһлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taksirli"
+                ],
+                "Azerbaijani": [
+                    "təqsirkar"
+                ],
+                "Turkmen": [
+                    "teksir"
+                ],
+                "Uzbek": [
+                    "taqsirli"
+                ],
+                "Uyghur": [
+                    "تەقسىرلىك"
+                ],
+                "Tatar": [
+                    "тәкъсирле"
+                ],
+                "Bashkir": [
+                    "тәҡсирле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aybdor"
+                ],
+                "Uyghur": [
+                    "ئەيىبلىك"
+                ],
+                "Kazakh": [
+                    "айыпты"
+                ],
+                "Kyrgyz": [
+                    "айыптуу"
+                ],
+                "Karakalpak": [
+                    "ayıplı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жазықты"
+                ],
+                "Kyrgyz": [
+                    "жазыктуу"
+                ],
+                "Karakalpak": [
+                    "jazıqlı"
+                ],
+                "Bashkir": [
+                    "яҙыҡлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "müqəssir"
+                ],
+                "Turkmen": [
+                    "müýnli"
+                ],
+                "Uzbek": [
+                    "muqassir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гаепле"
+                ],
+                "Bashkir": [
+                    "ғәйепле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "suçlu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kusurlu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kabahatli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "azyban"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خاتالاشقان"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "i12111",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one hundred twenty-five",
+    "en_definition": "being five more than one hundred twenty",
+    "tr_word": "yüz yirmi beş",
+    "tr_definition": "yüz yirmiden beş fazla olan sayı",
+    "ru_word": "сто двадцать пять",
+    "ru_definition": "число, на пять большее, чем сто двадцать",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz yirmi beş"
+                ],
+                "Azerbaijani": [
+                    "yüz iyirmi beş"
+                ],
+                "Turkmen": [
+                    "ýüz ýigrimi bäş"
+                ],
+                "Uyghur": [
+                    "يۈز يىگىرمە بەش"
+                ],
+                "Kazakh": [
+                    "жүз жиырма бес"
+                ],
+                "Kyrgyz": [
+                    "жүз жыйырма беш"
+                ],
+                "Karakalpak": [
+                    "júz jigirma bes"
+                ],
+                "Tatar": [
+                    "йөз егерме биш",
+                    "йөз егерме бишле"
+                ],
+                "Bashkir": [
+                    "йөҙ егерме биш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bir yuz yigirma besh"
+                ]
+            }
+        }
+    ]
+}

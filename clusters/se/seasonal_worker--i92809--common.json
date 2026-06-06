@@ -1,0 +1,119 @@
+{
+    "id": "i92809",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "seasonal worker",
+    "en_definition": "a worker who finds employment only in certain seasons",
+    "tr_word": "mevsimlik işçi",
+    "tr_definition": "Sadece yılın belirli dönemlerinde veya mevsimlerinde çalışan işçi.",
+    "ru_word": "сезонный рабочий",
+    "ru_definition": "Работник, нанимаемый для выполнения работ в течение определённого периода (сезона).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mevsimlik işçi"
+                ],
+                "Azerbaijani": [
+                    "mövsümi işçi"
+                ],
+                "Turkmen": [
+                    "möwsümleýin işçi",
+                    "möwsüm işçisi"
+                ],
+                "Uzbek": [
+                    "mavsumiy ishchi",
+                    "mavsumiy xizmatchi"
+                ],
+                "Uyghur": [
+                    "مەۋسۇملۇق ئىشچى",
+                    "مەۋسۇملۇق ئەمگەكچى"
+                ],
+                "Kazakh": [
+                    "маусымдық жұмысшы"
+                ],
+                "Karakalpak": [
+                    "máosimlik jumısshı",
+                    "máosimlik xızmetker"
+                ],
+                "Tatar": [
+                    "мәүсүмлек эшче",
+                    "мәүсүмлек хезмәткәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fəsl işçisi"
+                ],
+                "Uyghur": [
+                    "پەسىللىك ئىشچى"
+                ],
+                "Tatar": [
+                    "фасыллык эшче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "wagtlaýyn işçi"
+                ],
+                "Uzbek": [
+                    "vaqtinchalik ishchi"
+                ],
+                "Kazakh": [
+                    "уақытша жұмысшы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geçici işçi",
+                    "gezici işçi"
+                ],
+                "Kazakh": [
+                    "кезеңдік жұмысшы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мезгилдик жумушчу"
+                ],
+                "Bashkir": [
+                    "миҙгелле эшсе",
+                    "миҙгел эшсеһе",
+                    "миҙгеллек эшсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müvəqqəti işçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "маалдык жумушчу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "убактылуу жумушчу"
+                ]
+            }
+        }
+    ]
+}

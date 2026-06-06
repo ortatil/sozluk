@@ -1,0 +1,71 @@
+{
+    "id": "i82569",
+    "type": "unknown",
+    "batch": "common",
+    "en_word": "western hemisphere",
+    "en_definition": "the hemisphere that includes North America and South America",
+    "tr_word": "Batı Yarımküre",
+    "tr_definition": "Kuzey ve Güney Amerika kıtalarını kapsayan yarımküre.",
+    "ru_word": "Западное полушарие",
+    "ru_definition": "Полушарие Земли, включающее Северную и Южную Америку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Batı Yarımküre",
+                    "Batı Yarımküresi"
+                ],
+                "Kazakh": [
+                    "батыс жарты шар",
+                    "батыс жартышар"
+                ],
+                "Kyrgyz": [
+                    "батыш жарым шар",
+                    "батыш жарым шары"
+                ],
+                "Karakalpak": [
+                    "batıs yarım shar",
+                    "batıs jartı shar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Garp Yarımküresi"
+                ],
+                "Azerbaijani": [
+                    "qərb yarımkürəsi",
+                    "qərb yarımşarı"
+                ],
+                "Uzbek": [
+                    "g'arbiy yarim shar",
+                    "g'arbiy nimkurra"
+                ],
+                "Uyghur": [
+                    "غەربىي يېرىم شار",
+                    "غەربىي كۇره"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "günbatar ýarymşary",
+                    "günbatar ýarymşar"
+                ],
+                "Tatar": [
+                    "көнбатыш ярымшар",
+                    "көнбатыш нимшар"
+                ],
+                "Bashkir": [
+                    "көнбайыш ярымшар",
+                    "көнбайыш ярымтуп"
+                ]
+            }
+        }
+    ]
+}

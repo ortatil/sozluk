@@ -1,0 +1,102 @@
+{
+    "id": "i72239",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "air alert",
+    "en_definition": "the warning signal that begins a period of preparation for an enemy air attack",
+    "tr_word": "hava saldırısı alarmı",
+    "tr_definition": "düşman hava saldırısına karşı hazırlık dönemini başlatan uyarı sinyali",
+    "ru_word": "воздушная тревога",
+    "ru_definition": "сигнал оповещения населения о непосредственной угрозе нападения противника с воздуха",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hava alarmı",
+                    "hava taarruz ikazı",
+                    "hava baskını uyarısı",
+                    "hava tehlikesi işareti"
+                ],
+                "Azerbaijani": [
+                    "hava həyəcanı",
+                    "hava təhlükəsi",
+                    "hava xəbərdarlığı"
+                ],
+                "Uzbek": [
+                    "havo xavfi",
+                    "havo tashvishi"
+                ],
+                "Uyghur": [
+                    "ھاۋا ھۇجۇمىدىن ئاگاھلاندۇرۇش",
+                    "ھاۋا سىگنالى"
+                ],
+                "Karakalpak": [
+                    "haoa qáoipi",
+                    "haoa dabılı"
+                ],
+                "Tatar": [
+                    "һава куркынычы",
+                    "һава хәвефе",
+                    "һава тревогасы"
+                ],
+                "Bashkir": [
+                    "һауа хәүефе",
+                    "һауа тревогаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howa duýduryşy"
+                ],
+                "Karakalpak": [
+                    "haoadan qorǵanıo signalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەتەرلىك سىگنال"
+                ],
+                "Bashkir": [
+                    "хәүеф сигналы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howa howpy",
+                    "howa trewogasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ogohlantirish signali"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуе дабылы",
+                    "әуе қаупі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аба кооптуулугу",
+                    "аба тынчсыздыгы",
+                    "аба чабуулу белгиси"
+                ]
+            }
+        }
+    ]
+}

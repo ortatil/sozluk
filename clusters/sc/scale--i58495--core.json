@@ -1,0 +1,114 @@
+{
+    "id": "i58495",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "scale",
+    "en_definition": "a measuring instrument for weighing; shows amount of mass",
+    "tr_word": "terazi",
+    "tr_definition": "Ağırlık ölçmek için kullanılan, kütle miktarını gösteren ölçü aleti.",
+    "ru_word": "весы",
+    "ru_definition": "измерительный прибор для взвешивания, показывающий массу тела",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "terazi"
+                ],
+                "Azerbaijani": [
+                    "tərəzi"
+                ],
+                "Turkmen": [
+                    "terezi"
+                ],
+                "Uzbek": [
+                    "tarozi"
+                ],
+                "Uyghur": [
+                    "تارازا"
+                ],
+                "Kazakh": [
+                    "таразы"
+                ],
+                "Kyrgyz": [
+                    "тараза"
+                ],
+                "Karakalpak": [
+                    "tarazı"
+                ],
+                "Tatar": [
+                    "тәрәзә"
+                ],
+                "Bashkir": [
+                    "тәрәзә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mizan"
+                ],
+                "Turkmen": [
+                    "mizan"
+                ],
+                "Uzbek": [
+                    "mizon"
+                ],
+                "Uyghur": [
+                    "مىزان"
+                ],
+                "Karakalpak": [
+                    "mizan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ölçek"
+                ],
+                "Tatar": [
+                    "үлчәү"
+                ],
+                "Bashkir": [
+                    "үлсәү",
+                    "үлсәүес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "baskül"
+                ],
+                "Kazakh": [
+                    "басқұр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kantar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бизмән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бадам"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "id": "i2390",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "greasy",
+    "en_definition": "smeared or soiled with grease or oil",
+    "tr_word": "yağlı",
+    "tr_definition": "üzerine yağ bulaşmış veya yağ ile kirlenmiş",
+    "ru_word": "жирный",
+    "ru_definition": "испачканный или покрытый жиром или маслом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "moyli"
+                ],
+                "Uyghur": [
+                    "مايلىق",
+                    "مايلاشقان"
+                ],
+                "Kazakh": [
+                    "майлы",
+                    "майланған"
+                ],
+                "Kyrgyz": [
+                    "майлуу",
+                    "майланган"
+                ],
+                "Karakalpak": [
+                    "maylı",
+                    "maylanǵan"
+                ],
+                "Tatar": [
+                    "майлы",
+                    "майланган"
+                ],
+                "Bashkir": [
+                    "майлы",
+                    "майланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kir"
+                ],
+                "Kazakh": [
+                    "кір"
+                ],
+                "Kyrgyz": [
+                    "кир"
+                ],
+                "Karakalpak": [
+                    "kir"
+                ],
+                "Tatar": [
+                    "керле"
+                ],
+                "Bashkir": [
+                    "керле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağlı",
+                    "yağlanmış"
+                ],
+                "Azerbaijani": [
+                    "yağlı",
+                    "yağlanmış",
+                    "yağlı-paxırlı"
+                ],
+                "Turkmen": [
+                    "ýagly",
+                    "ýaglanan",
+                    "ýaglyja"
+                ],
+                "Uzbek": [
+                    "yogʻli"
+                ],
+                "Uyghur": [
+                    "ياغلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vıcık vıcık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "serquyosh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "лас"
+                ]
+            }
+        }
+    ]
+}

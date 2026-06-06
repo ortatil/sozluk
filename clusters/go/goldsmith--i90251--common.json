@@ -1,0 +1,107 @@
+{
+    "id": "i90251",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "goldsmith",
+    "en_definition": "an artisan who makes jewelry and other objects out of gold",
+    "tr_word": "kuyumcu",
+    "tr_definition": "Altın ve gümüş gibi değerli metallerden takı ve eşya yapan veya satan usta.",
+    "ru_word": "ювелир",
+    "ru_definition": "Мастер по изготовлению и ремонту изделий из золота и других драгоценных металлов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarraf",
+                    "zerger"
+                ],
+                "Azerbaijani": [
+                    "zərgər"
+                ],
+                "Turkmen": [
+                    "zerger"
+                ],
+                "Uzbek": [
+                    "zargar"
+                ],
+                "Uyghur": [
+                    "زەرگەر"
+                ],
+                "Kazakh": [
+                    "зергер"
+                ],
+                "Kyrgyz": [
+                    "зергер"
+                ],
+                "Karakalpak": [
+                    "zerger"
+                ],
+                "Tatar": [
+                    "зәргәр"
+                ],
+                "Bashkir": [
+                    "зәргәр",
+                    "зәргәрсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "altıncı"
+                ],
+                "Azerbaijani": [
+                    "altunçu"
+                ],
+                "Turkmen": [
+                    "altynçy"
+                ],
+                "Uyghur": [
+                    "ئالتۇنچى"
+                ],
+                "Kazakh": [
+                    "алтыншы"
+                ],
+                "Kyrgyz": [
+                    "алтынчы"
+                ],
+                "Karakalpak": [
+                    "altınshı"
+                ],
+                "Tatar": [
+                    "алтынчы"
+                ],
+                "Bashkir": [
+                    "алтынсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuyumcu"
+                ],
+                "Azerbaijani": [
+                    "quyumçu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tillaqo'sh",
+                    "tilla-zargar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җәүһәрче"
+                ]
+            }
+        }
+    ]
+}

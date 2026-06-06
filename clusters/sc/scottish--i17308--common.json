@@ -1,0 +1,62 @@
+{
+    "id": "i17308",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "scottish",
+    "en_definition": "of or relating to or characteristic of Scotland or its people or culture or its English dialect or Gaelic language",
+    "tr_word": "İskoç",
+    "tr_definition": "İskoçya'ya, İskoç halkına veya kültürüne özgü olan veya bunlarla ilgili olan",
+    "ru_word": "шотландский",
+    "ru_definition": "относящийся к Шотландии, её народу, культуре, диалекту или языку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şotland",
+                    "şotlandiyalı"
+                ],
+                "Turkmen": [
+                    "şotland",
+                    "şotlandiýaly"
+                ],
+                "Uzbek": [
+                    "shotland",
+                    "shotlandcha"
+                ],
+                "Uyghur": [
+                    "شوتلاندىيەلىك",
+                    "شوتلاندىيەگە ئائىت"
+                ],
+                "Kazakh": [
+                    "шотланд",
+                    "шотландық"
+                ],
+                "Kyrgyz": [
+                    "шотландиялык",
+                    "шотланд"
+                ],
+                "Karakalpak": [
+                    "shotlandiyalıq",
+                    "shotland"
+                ],
+                "Tatar": [
+                    "шотланд",
+                    "шотландияле"
+                ],
+                "Bashkir": [
+                    "шотланд",
+                    "шотландия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "İskoç",
+                    "İskoçyalı"
+                ]
+            }
+        }
+    ]
+}

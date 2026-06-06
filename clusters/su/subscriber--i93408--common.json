@@ -1,0 +1,124 @@
+{
+    "id": "i93408",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "subscriber",
+    "en_definition": "someone who contracts to receive and pay for a service or a certain number of issues of a publication",
+    "tr_word": "abone",
+    "tr_definition": "bir hizmeti veya yayını belirli bir süre boyunca almayı ve ücretini ödemeyi taahhüt eden kimse",
+    "ru_word": "абонент",
+    "ru_definition": "лицо, имеющее право на пользование какой-либо услугой или получение периодического издания по предварительному заказу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "müştəri"
+                ],
+                "Turkmen": [
+                    "müşderi"
+                ],
+                "Uzbek": [
+                    "mushtariy"
+                ],
+                "Uyghur": [
+                    "مۇشتەرى"
+                ],
+                "Kazakh": [
+                    "мүше"
+                ],
+                "Kyrgyz": [
+                    "мүчө"
+                ],
+                "Karakalpak": [
+                    "mushtariy"
+                ],
+                "Bashkir": [
+                    "мөштәри"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýazylyşykçy"
+                ],
+                "Uzbek": [
+                    "a'zo"
+                ],
+                "Uyghur": [
+                    "ئەزا"
+                ],
+                "Kazakh": [
+                    "жазылушы"
+                ],
+                "Kyrgyz": [
+                    "жазылуучу"
+                ],
+                "Karakalpak": [
+                    "jazılıoshı"
+                ],
+                "Tatar": [
+                    "язылучы"
+                ],
+                "Bashkir": [
+                    "яҙылыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "abone"
+                ],
+                "Azerbaijani": [
+                    "abunəçi"
+                ],
+                "Uzbek": [
+                    "obunachi"
+                ],
+                "Kazakh": [
+                    "абонент"
+                ],
+                "Kyrgyz": [
+                    "абонент"
+                ],
+                "Tatar": [
+                    "абунәче"
+                ],
+                "Bashkir": [
+                    "абонент"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "üye"
+                ],
+                "Azerbaijani": [
+                    "üzv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "agza"
+                ],
+                "Karakalpak": [
+                    "aǵza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayıtlı"
+                ]
+            }
+        }
+    ]
+}

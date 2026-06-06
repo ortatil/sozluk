@@ -1,0 +1,119 @@
+{
+    "id": "i50003",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "anchor",
+    "en_definition": "a mechanical device that prevents a vessel from moving",
+    "tr_word": "çapa",
+    "tr_definition": "bir geminin hareket etmesini önleyen mekanik cihaz",
+    "ru_word": "якорь",
+    "ru_definition": "механическое устройство, предотвращающее движение судна",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "lenger"
+                ],
+                "Uzbek": [
+                    "langar"
+                ],
+                "Uyghur": [
+                    "لەڭگەر",
+                    "لەڭگەرچە"
+                ],
+                "Kyrgyz": [
+                    "лакыр"
+                ],
+                "Karakalpak": [
+                    "lańgar"
+                ],
+                "Tatar": [
+                    "ләнгәр"
+                ],
+                "Bashkir": [
+                    "зәңгер",
+                    "лангар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "demir"
+                ],
+                "Azerbaijani": [
+                    "dəmir"
+                ],
+                "Turkmen": [
+                    "demir"
+                ],
+                "Tatar": [
+                    "тимер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çapa"
+                ],
+                "Kazakh": [
+                    "табан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lövbər"
+                ],
+                "Turkmen": [
+                    "labyr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yakor"
+                ],
+                "Kazakh": [
+                    "зәкір"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "анкер"
+                ],
+                "Tatar": [
+                    "anchor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "лақтырма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башкыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "záńgi"
+                ]
+            }
+        }
+    ]
+}

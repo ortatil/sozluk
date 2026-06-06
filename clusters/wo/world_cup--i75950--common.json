@@ -1,0 +1,76 @@
+{
+    "id": "i75950",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "world cup",
+    "en_definition": "a soccer tournament held every four years between national soccer teams to determine a world champion",
+    "tr_word": "Dünya Kupası",
+    "tr_definition": "Dünya şampiyonunu belirlemek için her dört yılda bir ulusal futbol takımları arasında düzenlenen futbol turnuvası.",
+    "ru_word": "Чемпионат мира по футболу",
+    "ru_definition": "Футбольный турнир, проводимый каждые четыре года между национальными сборными для определения чемпиона мира.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dünya kupası",
+                    "dünya şampiyonası"
+                ],
+                "Azerbaijani": [
+                    "dünya kuboku",
+                    "dünya çempionatı"
+                ],
+                "Turkmen": [
+                    "dünýä çempionaty",
+                    "dünýä kubogy"
+                ],
+                "Uzbek": [
+                    "dunyo kubogi"
+                ],
+                "Uyghur": [
+                    "دۇنيا لوڭقىسى",
+                    "دۇنيا لوڭقىسى پۇتبول مۇسابىقىسى"
+                ],
+                "Kazakh": [
+                    "дүниежүзілік кубок"
+                ],
+                "Kyrgyz": [
+                    "дүйнө кубогу",
+                    "дүйнө чемпионаты"
+                ],
+                "Karakalpak": [
+                    "dúnya kubogı",
+                    "dúnya chempionatı"
+                ],
+                "Tatar": [
+                    "дөнья кубогы",
+                    "дөнья беренчелеге",
+                    "дөнья чемпионаты"
+                ],
+                "Bashkir": [
+                    "донъя кубогы",
+                    "донъя беренселеге",
+                    "донъя чемпионаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "olam kubogi"
+                ],
+                "Kazakh": [
+                    "әлем кубогы",
+                    "әлем чемпионаты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jahon kubogi"
+                ]
+            }
+        }
+    ]
+}

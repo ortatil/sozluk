@@ -1,0 +1,116 @@
+# Bocce
+| Field | Detail |
+|---|---|
+| **ID** | i37852 |
+| **English** | bocce |
+| **Type** | noun |
+| **Definition** | Italian bowling played on a long narrow dirt court |
+| **Source** | common |
+| **Ortatil** | bocça |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i37852",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bocce",
+    "en_definition": "Italian bowling played on a long narrow dirt court",
+    "tr_word": "boçe",
+    "tr_definition": "Uzun ve dar bir toprak sahada oynanan, İtalyan kökenli bir tür lobut oyunu.",
+    "ru_word": "бочче",
+    "ru_definition": "Итальянская игра в шары, в которую играют на длинной и узкой грунтовой площадке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "top oyunu"
+                ],
+                "Azerbaijani": [
+                    "top oyunu"
+                ],
+                "Turkmen": [
+                    "top oýny"
+                ],
+                "Uzbek": [
+                    "to'p o'yini"
+                ],
+                "Uyghur": [
+                    "توپ ئويۇنى"
+                ],
+                "Kazakh": [
+                    "доп ойыны"
+                ],
+                "Kyrgyz": [
+                    "топ оюну"
+                ],
+                "Karakalpak": [
+                    "top oyını"
+                ],
+                "Tatar": [
+                    "туп уены"
+                ],
+                "Bashkir": [
+                    "туп уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şar oýny"
+                ],
+                "Uzbek": [
+                    "sharlar o'yini"
+                ],
+                "Uyghur": [
+                    "شار ئويۇنى",
+                    "شارچە ئويۇنى"
+                ],
+                "Kazakh": [
+                    "шар ойыны"
+                ],
+                "Kyrgyz": [
+                    "шар оюну"
+                ],
+                "Karakalpak": [
+                    "shar oyını"
+                ],
+                "Tatar": [
+                    "шар уены"
+                ],
+                "Bashkir": [
+                    "шар уйыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gülle oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bocce"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çöl boulinqi"
+                ]
+            }
+        }
+    ]
+}
+```
+

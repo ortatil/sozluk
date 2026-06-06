@@ -1,0 +1,85 @@
+{
+    "id": "i53729",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fire alarm",
+    "en_definition": "an alarm that is tripped off by fire or smoke",
+    "tr_word": "yangın alarmı",
+    "tr_definition": "yangın veya duman tarafından tetiklenen bir alarm sistemi",
+    "ru_word": "пожарная сигнализация",
+    "ru_definition": "сигнализация, срабатывающая при возникновении огня или дыма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yangın alarmı",
+                    "yangın ihbarı",
+                    "yangın ikazı"
+                ],
+                "Azerbaijani": [
+                    "yanğın həyəcanı",
+                    "yanğın siqnalı",
+                    "yanğın xəbərdarlığı"
+                ],
+                "Turkmen": [
+                    "ýangyn duýduryşy",
+                    "ýangyn habarçysy",
+                    "ýangyn dabyly"
+                ],
+                "Uzbek": [
+                    "yongʻin xabarchisi",
+                    "yongʻin bong-urishi",
+                    "yongʻin ogohlantirgichi"
+                ],
+                "Tatar": [
+                    "янгын хәбәрчесе",
+                    "янгын белдергече",
+                    "янгын сигналы"
+                ],
+                "Bashkir": [
+                    "янғын хәүефе сигналы",
+                    "янғын белдереүсе",
+                    "янғын хәбәрсеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئوت خەۋەرچىسى"
+                ],
+                "Kazakh": [
+                    "өрт дабылы",
+                    "өрт белгісі",
+                    "өрт хабарлағышы"
+                ],
+                "Kyrgyz": [
+                    "өрт белгиси",
+                    "өрт коңгуроосу",
+                    "өрт кабары"
+                ],
+                "Karakalpak": [
+                    "órt belgisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوت ئاگاھلاندۇرۇش سىگنالى",
+                    "ئوتتىن ئاگاھلاندۇرۇش قوڭغۇرىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "órt dabılı",
+                    "órt xabarlaǵıshı"
+                ]
+            }
+        }
+    ]
+}

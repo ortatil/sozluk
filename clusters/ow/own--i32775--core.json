@@ -1,0 +1,143 @@
+{
+    "id": "i32775",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "possess",
+    "en_definition": "have ownership or possession of",
+    "tr_word": "sahip olmak",
+    "tr_definition": "bir şeye mülkiyet veya tasarruf yoluyla sahip bulunmak",
+    "ru_word": "обладать",
+    "ru_definition": "иметь в собственности или в распоряжении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iyelik etmek"
+                ],
+                "Azerbaijani": [
+                    "yiyələnmək"
+                ],
+                "Turkmen": [
+                    "eýe bolmak",
+                    "eýelemek"
+                ],
+                "Uzbek": [
+                    "egalik qilmoq"
+                ],
+                "Uyghur": [
+                    "ئىگىلىمەك",
+                    "ئىگىدارلىق قىلماق"
+                ],
+                "Kazakh": [
+                    "иелену",
+                    "ие болу",
+                    "иелік ету"
+                ],
+                "Kyrgyz": [
+                    "ээ болуу",
+                    "ээлик кылуу"
+                ],
+                "Karakalpak": [
+                    "iyelik etio",
+                    "iye bolıo",
+                    "iyeleo"
+                ],
+                "Tatar": [
+                    "ия булу"
+                ],
+                "Bashkir": [
+                    "эйә булыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahip olmak"
+                ],
+                "Azerbaijani": [
+                    "sahib olmaq"
+                ],
+                "Turkmen": [
+                    "sahyp bolmak"
+                ],
+                "Uzbek": [
+                    "sohib bo'lmoq"
+                ],
+                "Uyghur": [
+                    "ساھىب بولماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۇتماق"
+                ],
+                "Tatar": [
+                    "тоту"
+                ],
+                "Bashkir": [
+                    "тотоу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mülkiyetinde bulundurmak"
+                ],
+                "Uzbek": [
+                    "mulk qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "malik olmaq"
+                ],
+                "Turkmen": [
+                    "maly bolmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "меншіктену"
+                ],
+                "Kyrgyz": [
+                    "менчиктөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "биләп тору"
+                ],
+                "Bashkir": [
+                    "биләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bor bo'lmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хужа булыу"
+                ]
+            }
+        }
+    ]
+}

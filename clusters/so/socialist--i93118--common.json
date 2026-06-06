@@ -1,0 +1,117 @@
+{
+    "id": "i93118",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "socialist",
+    "en_definition": "a political advocate of socialism",
+    "tr_word": "sosyalist",
+    "tr_definition": "sosyalizm yanlısı olan, toplumcu kimse",
+    "ru_word": "социалист",
+    "ru_definition": "сторонник социализма, приверженец социалистических идей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sosyalist"
+                ],
+                "Azerbaijani": [
+                    "sosialist"
+                ],
+                "Turkmen": [
+                    "sosialist"
+                ],
+                "Uyghur": [
+                    "سوتسىيالىست"
+                ],
+                "Kazakh": [
+                    "социалист"
+                ],
+                "Kyrgyz": [
+                    "социалист"
+                ],
+                "Karakalpak": [
+                    "socialist"
+                ],
+                "Tatar": [
+                    "социалист"
+                ],
+                "Bashkir": [
+                    "социалист"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ictimaiyyətçi"
+                ],
+                "Uzbek": [
+                    "ijtimoiyatchi"
+                ],
+                "Uyghur": [
+                    "ئىجتىمائىيەتچى"
+                ],
+                "Tatar": [
+                    "иҗтимагыятьче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jemgyýetçi"
+                ],
+                "Karakalpak": [
+                    "jámáátshi"
+                ],
+                "Bashkir": [
+                    "йәмғиәтсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toplumcu"
+                ],
+                "Azerbaijani": [
+                    "toplumçu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "теңдикчи"
+                ],
+                "Karakalpak": [
+                    "teńlikshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sotsialist"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әлеуметшіл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коомчул"
+                ]
+            }
+        }
+    ]
+}

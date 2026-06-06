@@ -1,0 +1,191 @@
+{
+    "id": "i36620",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "abortion",
+    "en_definition": "termination of pregnancy",
+    "tr_word": "kürtaj",
+    "tr_definition": "gebeliğin tıbbi veya cerrahi yöntemlerle sonlandırılması",
+    "ru_word": "аборт",
+    "ru_definition": "искусственное прерывание беременности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bola oldirish"
+                ],
+                "Kyrgyz": [
+                    "баланы алдыруу"
+                ],
+                "Karakalpak": [
+                    "balanı aldırıo"
+                ],
+                "Bashkir": [
+                    "бала алдырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бала тастау"
+                ],
+                "Karakalpak": [
+                    "bala taslao"
+                ],
+                "Tatar": [
+                    "бала ташлау"
+                ],
+                "Bashkir": [
+                    "бала ташлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "abort"
+                ],
+                "Turkmen": [
+                    "abort"
+                ],
+                "Uzbek": [
+                    "abort"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بالا چۈشۈرۈش"
+                ],
+                "Tatar": [
+                    "бала төшерү",
+                    "бала төшертү"
+                ],
+                "Bashkir": [
+                    "бала төшөрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iskat-ı cenin"
+                ],
+                "Uzbek": [
+                    "isqot"
+                ],
+                "Uyghur": [
+                    "ئىسقات"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "düşük yapma"
+                ],
+                "Kazakh": [
+                    "түсік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kürtaj"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çocuk aldırma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaga düşürme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaga aýyrtma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uşaqsalma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uşaqtökmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бойдон алдыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бойдон түшүрүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "boydan taslao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hamiləliyin pozulması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھامىلىدارلىقنى توختىتىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "homilani tushirish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іш тастау"
+                ]
+            }
+        }
+    ]
+}

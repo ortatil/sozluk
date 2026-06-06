@@ -1,0 +1,87 @@
+{
+    "id": "i80365",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rowing club",
+    "en_definition": "a club for rowers",
+    "tr_word": "kürek kulübü",
+    "tr_definition": "kürek sporcuları için kurulmuş bir spor kulübü",
+    "ru_word": "гребной клуб",
+    "ru_definition": "спортивный клуб для людей, занимающихся греблей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eshkakchilik klubi",
+                    "eshkakchilar uyushmasi",
+                    "eshkakchilik jamiyati"
+                ],
+                "Tatar": [
+                    "ишкәкчеләр клубы",
+                    "ишкәкчеләр җәмгыяте",
+                    "ишкәк ишү клубы"
+                ],
+                "Bashkir": [
+                    "ишкәкселәр клубы",
+                    "ишкәкселәр йәмғиәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kürek kulübü",
+                    "kürek derneği",
+                    "kürek cemiyeti"
+                ],
+                "Turkmen": [
+                    "kürekçilik kluby",
+                    "kürekçiler jemgyýeti",
+                    "kürekçilik birleşigi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есу клубы",
+                    "есушілер бірлестігі",
+                    "есушілер қоғамы"
+                ],
+                "Karakalpak": [
+                    "eskekshiler klubı",
+                    "eskekshiler jámááti",
+                    "eskekshiler birlespesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "avarçılıq klubu",
+                    "avarçılıq dərnəyi",
+                    "avarçılıq cəmiyyəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېمە ھەيدەش كۇلۇبى",
+                    "كېمىچىلىك جەمئىيىتى",
+                    "كېمە ھەيدەش جەمئىيىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кайыкчылар клубу",
+                    "кайык айдоочулар коому",
+                    "кайыкчылар бирикмеси"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+# Local road
+| Field | Detail |
+|---|---|
+| **ID** | i55772 |
+| **English** | local road |
+| **Type** | noun |
+| **Definition** | a street that is primarily used to gain access to the property bordering it |
+| **Source** | common |
+| **Ortatil** | köçe |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **köçe** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| көше | köşe |
+| **Kyrgyz** | |
+| көчө | köçö |
+| **Bashkir** | |
+| урам | uram |
+
+```json
+{
+    "id": "i55772",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "local road",
+    "en_definition": "a street that is primarily used to gain access to the property bordering it",
+    "tr_word": "yerel yol",
+    "tr_definition": "öncelikle çevresindeki mülklere erişim sağlamak amacıyla kullanılan cadde veya yol",
+    "ru_word": "дорога местного значения",
+    "ru_definition": "улица, предназначенная в первую очередь для подъезда к прилегающим к ней объектам недвижимости",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ara yol",
+                    "yan yol",
+                    "tali yol"
+                ],
+                "Azerbaijani": [
+                    "ara yol"
+                ],
+                "Turkmen": [
+                    "ýerli ýol",
+                    "araýol"
+                ],
+                "Uyghur": [
+                    "تار كوچا"
+                ],
+                "Kazakh": [
+                    "тар жол"
+                ],
+                "Kyrgyz": [
+                    "тар жол"
+                ],
+                "Tatar": [
+                    "ара юл",
+                    "тар юл"
+                ],
+                "Bashkir": [
+                    "тар юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kənd yolu"
+                ],
+                "Turkmen": [
+                    "içki ýol"
+                ],
+                "Uzbek": [
+                    "ichki yo'l"
+                ],
+                "Uyghur": [
+                    "ئىچكى يول"
+                ],
+                "Kazakh": [
+                    "ішкі жол"
+                ],
+                "Kyrgyz": [
+                    "ички жол"
+                ],
+                "Karakalpak": [
+                    "іshkі jol"
+                ],
+                "Bashkir": [
+                    "эске юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mahalle yolu"
+                ],
+                "Azerbaijani": [
+                    "məhəllə yolu"
+                ],
+                "Uzbek": [
+                    "mahalla yo'li"
+                ],
+                "Uyghur": [
+                    "مەھەللە يولى"
+                ],
+                "Karakalpak": [
+                    "máhelle jolı"
+                ],
+                "Tatar": [
+                    "мәхәллә юлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köçe"
+                ],
+                "Kazakh": [
+                    "көше"
+                ],
+                "Kyrgyz": [
+                    "көчө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tor ko'cha"
+                ],
+                "Karakalpak": [
+                    "tar kóshe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жергілікті жол"
+                ],
+                "Tatar": [
+                    "җирле юл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айылдык жол"
+                ],
+                "Bashkir": [
+                    "аралыҡ юл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sokak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "daxili yol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "урам"
+                ]
+            }
+        }
+    ]
+}
+```
+

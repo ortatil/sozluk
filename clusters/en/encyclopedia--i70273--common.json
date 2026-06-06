@@ -1,0 +1,146 @@
+{
+    "id": "i70273",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "encyclopedia",
+    "en_definition": "a reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty",
+    "tr_word": "ansiklopedi",
+    "tr_definition": "Bütün bilim ve sanat dallarını veya belirli bir konuyu kapsayan, maddeleri genellikle alfabetik sıraya göre dizilmiş olan başvuru kaynağı.",
+    "ru_word": "энциклопедия",
+    "ru_definition": "Справочное издание, содержащее свод знаний по всем или отдельным отраслям науки и практической деятельности, обычно расположенных в алфавитном порядке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ansiklopedi"
+                ],
+                "Azerbaijani": [
+                    "ensiklopediya"
+                ],
+                "Turkmen": [
+                    "ensiklopediýa"
+                ],
+                "Uzbek": [
+                    "ensiklopediya"
+                ],
+                "Uyghur": [
+                    "ئېنسىكلوپېدىيە"
+                ],
+                "Kazakh": [
+                    "энциклопедия"
+                ],
+                "Kyrgyz": [
+                    "энциклопедия"
+                ],
+                "Karakalpak": [
+                    "enciklopediya"
+                ],
+                "Bashkir": [
+                    "энциклопедия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilgi külliyatı"
+                ],
+                "Azerbaijani": [
+                    "biliklik"
+                ],
+                "Kazakh": [
+                    "білімдік жинақ"
+                ],
+                "Kyrgyz": [
+                    "билимдер жыйнагы"
+                ],
+                "Karakalpak": [
+                    "bilimler toplamı"
+                ],
+                "Tatar": [
+                    "белешмәлек"
+                ],
+                "Bashkir": [
+                    "белешмәлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kamus"
+                ],
+                "Uzbek": [
+                    "qomus"
+                ],
+                "Uyghur": [
+                    "قامۇس"
+                ],
+                "Tatar": [
+                    "камус"
+                ],
+                "Bashkir": [
+                    "ҡамус"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məlumat kitabı"
+                ],
+                "Turkmen": [
+                    "maglumatnama"
+                ],
+                "Kazakh": [
+                    "мәліметнама"
+                ],
+                "Tatar": [
+                    "мәгълүматлык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "maarifname"
+                ],
+                "Kyrgyz": [
+                    "маалыматнаама"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ylymlar ýygyndysy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "анықтамалық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ар тараптуу сөздүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "maǵlıumatnama"
+                ]
+            }
+        }
+    ]
+}

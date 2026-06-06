@@ -1,0 +1,94 @@
+{
+    "id": "i55862",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "luggage compartment",
+    "en_definition": "compartment in an automobile that carries luggage or shopping or tools",
+    "tr_word": "bagaj bölmesi",
+    "tr_definition": "bir otomobilde bagaj, alışveriş eşyaları veya aletlerin taşındığı bölme",
+    "ru_word": "багажное отделение",
+    "ru_definition": "отсек в автомобиле, предназначенный для перевозки багажа, покупок или инструментов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yük yeri"
+                ],
+                "Azerbaijani": [
+                    "yük yeri",
+                    "yük bölməsi"
+                ],
+                "Turkmen": [
+                    "ýük bölümi"
+                ],
+                "Uzbek": [
+                    "yukxona"
+                ],
+                "Uyghur": [
+                    "يۈكخانا"
+                ],
+                "Kazakh": [
+                    "жүксалғыш",
+                    "жүк қоймасы",
+                    "жүк орны"
+                ],
+                "Kyrgyz": [
+                    "жүк салгыч",
+                    "жүк бөлүмү",
+                    "жүк орду"
+                ],
+                "Karakalpak": [
+                    "júkxana",
+                    "júk bólimi"
+                ],
+                "Tatar": [
+                    "йөклек",
+                    "йөк бүлеге"
+                ],
+                "Bashkir": [
+                    "йөк бүлкәте",
+                    "йөк урыны",
+                    "йөк һандығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bagaj"
+                ],
+                "Azerbaijani": [
+                    "baqaj"
+                ],
+                "Turkmen": [
+                    "bagaj"
+                ],
+                "Uzbek": [
+                    "bagajxona"
+                ],
+                "Uyghur": [
+                    "باغاجخانا"
+                ],
+                "Tatar": [
+                    "багаж бүлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşya gözü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýük goýulýan ýer"
+                ]
+            }
+        }
+    ]
+}

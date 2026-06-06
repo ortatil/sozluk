@@ -1,0 +1,144 @@
+{
+    "id": "i39977",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "subtraction",
+    "en_definition": "an arithmetic operation in which the difference between two numbers is calculated",
+    "tr_word": "çıkarma",
+    "tr_definition": "iki sayının farkının hesaplandığı aritmetik işlem",
+    "ru_word": "вычитание",
+    "ru_definition": "арифметическое действие, при котором вычисляется разность между двумя числами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kemeltmek"
+                ],
+                "Uzbek": [
+                    "kamaytirish"
+                ],
+                "Kazakh": [
+                    "кеміту"
+                ],
+                "Kyrgyz": [
+                    "кемитүү"
+                ],
+                "Karakalpak": [
+                    "kemeytúú"
+                ],
+                "Tatar": [
+                    "кимү"
+                ],
+                "Bashkir": [
+                    "кәметеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "алу"
+                ],
+                "Kyrgyz": [
+                    "алынуу"
+                ],
+                "Karakalpak": [
+                    "alıu"
+                ],
+                "Tatar": [
+                    "алу"
+                ],
+                "Bashkir": [
+                    "алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarh"
+                ],
+                "Azerbaijani": [
+                    "tərh"
+                ],
+                "Uyghur": [
+                    "تېرىق"
+                ],
+                "Karakalpak": [
+                    "tartıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıkarma"
+                ],
+                "Azerbaijani": [
+                    "çıxma"
+                ],
+                "Kazakh": [
+                    "шегеру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eksi"
+                ],
+                "Uyghur": [
+                    "ئېلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ayyrmak"
+                ],
+                "Kyrgyz": [
+                    "айырма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "manfiy"
+                ],
+                "Uyghur": [
+                    "مەنپىي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тискәре"
+                ],
+                "Bashkir": [
+                    "тиҫкәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "minus"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ayirish"
+                ]
+            }
+        }
+    ]
+}

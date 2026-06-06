@@ -1,0 +1,148 @@
+# Canary
+| Field | Detail |
+|---|---|
+| **ID** | i43306 |
+| **English** | canary |
+| **Type** | noun |
+| **Definition** | any of several small Old World finches |
+| **Source** | common |
+| **Ortatil** | kanareyka |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kanareyka** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كانارىيە | kanariyä |
+| **Kazakh** | |
+| кенар | kenar |
+| кенария | kenariya |
+| **Kyrgyz** | |
+| канарейка | kanareyka |
+| **Tatar** | |
+| канар | kanar |
+| **Bashkir** | |
+| ҡанарейка | qanareyka |
+
+```json
+{
+    "id": "i43306",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "canary",
+    "en_definition": "any of several small Old World finches",
+    "tr_word": "kanarya",
+    "tr_definition": "Eski Dünya'ya özgü, genellikle sarı tüyleriyle bilinen küçük bir ispinoz türü",
+    "ru_word": "канарейка",
+    "ru_definition": "небольшая певчая птица семейства вьюрковых, часто с ярко-жёлтым оперением",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kanarya"
+                ],
+                "Azerbaijani": [
+                    "kanarya"
+                ],
+                "Turkmen": [
+                    "kanareýka"
+                ],
+                "Uzbek": [
+                    "kanareyka"
+                ],
+                "Uyghur": [
+                    "كانارىيە"
+                ],
+                "Kazakh": [
+                    "кенар",
+                    "кенария"
+                ],
+                "Kyrgyz": [
+                    "канарейка"
+                ],
+                "Karakalpak": [
+                    "kanareyka"
+                ],
+                "Tatar": [
+                    "канар",
+                    "канар кошы"
+                ],
+                "Bashkir": [
+                    "ҡанарейка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarı kuş"
+                ],
+                "Azerbaijani": [
+                    "sarı bülbül"
+                ],
+                "Uyghur": [
+                    "سېرىق قۇش"
+                ],
+                "Kazakh": [
+                    "сары шымшық"
+                ],
+                "Kyrgyz": [
+                    "сары чымчык"
+                ],
+                "Bashkir": [
+                    "һары һайрар ҡош"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "saýraýan guş"
+                ],
+                "Uzbek": [
+                    "sayroqi qush"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sarı sanduǵash"
+                ],
+                "Tatar": [
+                    "сары сандугач"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bilbil"
+                ]
+            }
+        }
+    ]
+}
+```
+

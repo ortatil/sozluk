@@ -1,0 +1,90 @@
+{
+    "id": "i59713",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "student union",
+    "en_definition": "a building on a college campus dedicated to social and organizational activities of the student body",
+    "tr_word": "öğrenci birliği binası",
+    "tr_definition": "Bir üniversite kampüsünde öğrencilerin sosyal ve organizasyonel faaliyetlerine ayrılmış bina.",
+    "ru_word": "студенческий центр",
+    "ru_definition": "Здание в студенческом городке, предназначенное для социальной и организационной деятельности студентов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "студенттер орталығы",
+                    "студенттер үйі",
+                    "студенттер қауымдастығы"
+                ],
+                "Kyrgyz": [
+                    "студенттер кеңеши",
+                    "студенттер биримдиги",
+                    "студенттер уюму"
+                ],
+                "Karakalpak": [
+                    "studentler birlespesi",
+                    "studentler orayı",
+                    "studentler jámiyeti"
+                ],
+                "Tatar": [
+                    "студентлар берлеге",
+                    "студентлар оешмасы"
+                ],
+                "Bashkir": [
+                    "студенттар йорто",
+                    "студенттар үҙәге",
+                    "студенттар ойошмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tələbə birliyi",
+                    "tələbə təşkilatı",
+                    "tələbə şurası",
+                    "tələbə evi"
+                ],
+                "Turkmen": [
+                    "talyplar birleşigi",
+                    "talyplar guramasy",
+                    "talyplar jemgyýeti"
+                ],
+                "Uzbek": [
+                    "talabalar uyushmasi",
+                    "talabalar kengashi",
+                    "talabalar markazi",
+                    "talabalar ittifoqi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğrenci birliği",
+                    "öğrenci cemiyeti",
+                    "öğrenci lokali",
+                    "öğrenci derneği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوقۇغۇچىلار ئۇيۇشمىسى",
+                    "ئوقۇغۇچىلار جەمئىيىتى",
+                    "ئوقۇغۇچىلار مەركىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шәкертләр җәмгыяте"
+                ]
+            }
+        }
+    ]
+}

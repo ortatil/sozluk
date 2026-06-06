@@ -1,0 +1,183 @@
+# Camera angle
+| Field | Detail |
+|---|---|
+| **ID** | i63670 |
+| **English** | camera angle |
+| **Type** | noun |
+| **Definition** | the point of view of a camera |
+| **Source** | common |
+| **Ortatil** | rakurs |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **rakurs** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.03** |
+
+```json
+{
+    "id": "i63670",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "camera angle",
+    "en_definition": "the point of view of a camera",
+    "tr_word": "kamera açısı",
+    "tr_definition": "kameranın bakış açısı",
+    "ru_word": "ракурс",
+    "ru_definition": "точка зрения камеры",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "görüş burçy"
+                ],
+                "Uzbek": [
+                    "koʻrinish burchagi"
+                ],
+                "Uyghur": [
+                    "كۆرۈش بۇلۇڭى"
+                ],
+                "Kazakh": [
+                    "көру нүктесі",
+                    "көру бұрышы"
+                ],
+                "Kyrgyz": [
+                    "көрүү бурчу"
+                ],
+                "Karakalpak": [
+                    "kórinis burıshı"
+                ],
+                "Tatar": [
+                    "күрү ноктасы",
+                    "күрү почмагы"
+                ],
+                "Bashkir": [
+                    "күрше мөйөшө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bakış açısı"
+                ],
+                "Azerbaijani": [
+                    "baxış bucağı"
+                ],
+                "Turkmen": [
+                    "bakyş burçy"
+                ],
+                "Tatar": [
+                    "караш почмагы"
+                ],
+                "Bashkir": [
+                    "ҡараш мөйөшө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kamera açısı"
+                ],
+                "Azerbaijani": [
+                    "kamera bucağı"
+                ],
+                "Turkmen": [
+                    "kamera burçy"
+                ],
+                "Uyghur": [
+                    "كامېرا بۇلۇڭى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tasvir burchagi"
+                ],
+                "Uyghur": [
+                    "تەسۋىر بۇلۇڭى"
+                ],
+                "Kazakh": [
+                    "түсіру бұрышы"
+                ],
+                "Karakalpak": [
+                    "túsirio burıshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "rakurs"
+                ],
+                "Uzbek": [
+                    "rakurs"
+                ],
+                "Karakalpak": [
+                    "rakurs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekim açısı"
+                ],
+                "Azerbaijani": [
+                    "çəkiliş bucağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nazar burchagi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тартуу бурчу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көз караш бурчу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төшөрөү мөйөшө"
+                ]
+            }
+        }
+    ]
+}
+```
+

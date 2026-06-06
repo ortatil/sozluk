@@ -1,0 +1,130 @@
+{
+    "id": "i73472",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "learning curve",
+    "en_definition": "a graph showing the rate of learning (especially a graph showing the amount recalled as a function of the number of attempts to recall)",
+    "tr_word": "öğrenme eğrisi",
+    "tr_definition": "öğrenme hızını, özellikle de deneme sayısı ile hatırlanan miktar arasındaki ilişkiyi gösteren grafik",
+    "ru_word": "кривая обучения",
+    "ru_definition": "график, отображающий скорость обучения, в частности зависимость объема усвоенной информации от количества попыток ее воспроизведения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öğrenme eğrisi",
+                    "öğrenme hızı",
+                    "öğrenme süreci"
+                ],
+                "Azerbaijani": [
+                    "öyrənmə əyrisi"
+                ],
+                "Turkmen": [
+                    "öwreniş depgini"
+                ],
+                "Kazakh": [
+                    "үйрену қисығы"
+                ],
+                "Kyrgyz": [
+                    "үйрөнүү ийриси"
+                ],
+                "Karakalpak": [
+                    "úyrenio barısı"
+                ],
+                "Tatar": [
+                    "өйрәнү сызыгы"
+                ],
+                "Bashkir": [
+                    "өйрәнеү һыҙығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təlim əyrisi"
+                ],
+                "Turkmen": [
+                    "bilim ösüşi"
+                ],
+                "Uzbek": [
+                    "bilim egallash surʼati"
+                ],
+                "Kyrgyz": [
+                    "билим алуу графиги"
+                ],
+                "Karakalpak": [
+                    "bilim alıo dárejesi"
+                ],
+                "Tatar": [
+                    "белем алу графигы"
+                ],
+                "Bashkir": [
+                    "белем алыу барышы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "özleşdiriş derejesi"
+                ],
+                "Uzbek": [
+                    "oʻzlashtirish egrisi"
+                ],
+                "Kyrgyz": [
+                    "өздөштүрүү ийриси"
+                ],
+                "Tatar": [
+                    "үзләштерү сызыгы"
+                ],
+                "Bashkir": [
+                    "үҙләштереү графигы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻrganish darajasi"
+                ],
+                "Uyghur": [
+                    "ئۆگىنىش ئەگرى سىزىقى",
+                    "ئۆگىنىش سۈرئىتى",
+                    "ئۆگىنىش جەريانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mənimsəmə əyrisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оқу қисығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "меңгеру қарқыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tájiriybe toplao jolı"
+                ]
+            }
+        }
+    ]
+}

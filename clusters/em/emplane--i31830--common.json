@@ -1,0 +1,109 @@
+{
+    "id": "i31830",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "emplane",
+    "en_definition": "board a plane",
+    "tr_word": "uçağa binmek",
+    "tr_definition": "bir uçağa giriş yapmak veya yerleşmek",
+    "ru_word": "садиться в самолёт",
+    "ru_definition": "подниматься на борт воздушного судна",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uçağa binmek",
+                    "uçağa giriş yapmak"
+                ],
+                "Turkmen": [
+                    "uçara münmek",
+                    "uçara girmek"
+                ],
+                "Uzbek": [
+                    "uchoqqa chiqmoq"
+                ],
+                "Kazakh": [
+                    "ұшаққа міну",
+                    "ұшаққа отыру"
+                ],
+                "Kyrgyz": [
+                    "учакка түшүү",
+                    "учакка отуруу"
+                ],
+                "Karakalpak": [
+                    "ushaqqa mіnu",
+                    "ushaqqa otırıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "samolyotga chiqmoq"
+                ],
+                "Karakalpak": [
+                    "samolyotqa mіnu"
+                ],
+                "Tatar": [
+                    "самолётка утыру"
+                ],
+                "Bashkir": [
+                    "самолётҡа ултырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təyyarəyə minmək",
+                    "təyyarəyə əyləşmək",
+                    "təyyarəyə daxil olmaq"
+                ],
+                "Uzbek": [
+                    "tayyoraga minmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "һава көймәсенә утыру"
+                ],
+                "Bashkir": [
+                    "осошҡа ултырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئايروپىلانغا چىقماق",
+                    "ئايروپىلانغا ئولتۇرماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуе кемесіне міну"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кемеге түшүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "очкычка утыру"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": "i11107",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "red-rimmed",
+    "en_definition": "rimmed with red",
+    "tr_word": "kızarmış",
+    "tr_definition": "kenarları veya çevresi kırmızılaşmış (genellikle gözler için kullanılır)",
+    "ru_word": "покрасневший",
+    "ru_definition": "с красными краями или каймой (обычно о глазах)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızarmış",
+                    "kızıl",
+                    "kızarık"
+                ],
+                "Azerbaijani": [
+                    "qızarmış",
+                    "qızartılı"
+                ],
+                "Turkmen": [
+                    "gyzaran",
+                    "gyzaranyp duran"
+                ],
+                "Uzbek": [
+                    "qizargan",
+                    "qizil",
+                    "qizishgan"
+                ],
+                "Uyghur": [
+                    "قىزارغان",
+                    "قىزىل گىرۋەكلىك",
+                    "قىزىل جىيەكلىك"
+                ],
+                "Kazakh": [
+                    "қызарған",
+                    "қызыл",
+                    "қызыл жиекті",
+                    "қызыл көмкерілген"
+                ],
+                "Kyrgyz": [
+                    "кызарган",
+                    "кызыл"
+                ],
+                "Karakalpak": [
+                    "qızarǵan",
+                    "qızıl",
+                    "qızıl jiektі"
+                ],
+                "Tatar": [
+                    "кызарган",
+                    "кызыл",
+                    "кызыл каймалы"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл ҡаймалы",
+                    "ҡыҙыл ситле",
+                    "ҡыҙыл ҡырылы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kanlanmış"
+                ],
+                "Azerbaijani": [
+                    "qanlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyrmyzy"
+                ]
+            }
+        }
+    ]
+}

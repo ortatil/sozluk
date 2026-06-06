@@ -1,0 +1,148 @@
+{
+    "id": "i89390",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dark horse",
+    "en_definition": "a political candidate who is not well known but could win unexpectedly",
+    "tr_word": "beklenmedik aday",
+    "tr_definition": "pek tanınmayan ancak beklenmedik bir şekilde seçim kazanma potansiyeli olan siyasi aday",
+    "ru_word": "тёмная лошадка",
+    "ru_definition": "малоизвестный политический кандидат, который может неожиданно одержать победу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kutilmagan nomzod"
+                ],
+                "Uyghur": [
+                    "كۈتۈلمىگەن نامزات"
+                ],
+                "Kazakh": [
+                    "күтпеген үміткер"
+                ],
+                "Kyrgyz": [
+                    "күтүүсүз талапкер"
+                ],
+                "Karakalpak": [
+                    "kútilmegen talaban"
+                ],
+                "Tatar": [
+                    "көтелмәгән җиңүче"
+                ],
+                "Bashkir": [
+                    "көтөлмәгән кандидат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yashirin kuch"
+                ],
+                "Uyghur": [
+                    "يوشۇرۇن كۈچ"
+                ],
+                "Kyrgyz": [
+                    "жашыруун күч"
+                ],
+                "Karakalpak": [
+                    "jasırın kúsh"
+                ],
+                "Tatar": [
+                    "яшерен көч"
+                ],
+                "Bashkir": [
+                    "йәшерен көс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "belli däl dalaşgär"
+                ],
+                "Kyrgyz": [
+                    "белгисиз талапкер"
+                ],
+                "Karakalpak": [
+                    "belgisiz talaban"
+                ],
+                "Tatar": [
+                    "билгесез кандидат"
+                ],
+                "Bashkir": [
+                    "билдәһеҙ кандидат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gizli favori"
+                ],
+                "Azerbaijani": [
+                    "gizli namizəd",
+                    "gözlənilməz namizəd"
+                ],
+                "Turkmen": [
+                    "gizlin güýç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beklenmedik aday"
+                ],
+                "Kazakh": [
+                    "беймәлім үміткер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tanınmamış namizəd"
+                ],
+                "Kazakh": [
+                    "танылмаған үміткер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "noma'lum g'olib"
+                ],
+                "Uyghur": [
+                    "نامەلۇم نامزات"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sürpriz aday"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kapalı kutu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "garaşylmadyk dalaşgär"
+                ]
+            }
+        }
+    ]
+}

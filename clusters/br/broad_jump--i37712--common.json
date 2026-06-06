@@ -1,0 +1,77 @@
+{
+    "id": "i37712",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "broad jump",
+    "en_definition": "the act of jumping as far as possible from a running start",
+    "tr_word": "uzun atlama",
+    "tr_definition": "koşarak hız alıp mümkün olan en uzak mesafeye atlama eylemi",
+    "ru_word": "прыжок в длину",
+    "ru_definition": "прыжок с разбега на максимально возможное расстояние",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzun atlama",
+                    "uzağa atlama"
+                ],
+                "Azerbaijani": [
+                    "uzunluğa tullanma",
+                    "uzunluğa atılma"
+                ],
+                "Turkmen": [
+                    "uzynlygyna bökmek",
+                    "uzynlygyna böküş"
+                ],
+                "Uzbek": [
+                    "uzunlikka sakrash",
+                    "uzoqqa sakrash"
+                ],
+                "Uyghur": [
+                    "ئۇزۇنغا سەكرەش"
+                ],
+                "Kazakh": [
+                    "ұзындыққа секіру"
+                ],
+                "Kyrgyz": [
+                    "узундукка секирүү"
+                ],
+                "Karakalpak": [
+                    "uzınlıqqa sekirio",
+                    "uzınnan sekirio"
+                ],
+                "Tatar": [
+                    "озынлыкка сикерү"
+                ],
+                "Bashkir": [
+                    "оҙонлоҡҡа һикереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "алысқа секіру"
+                ],
+                "Kyrgyz": [
+                    "алыска секирүү"
+                ],
+                "Bashkir": [
+                    "алыҫҡа һикереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يىراققا سەكرەش"
+                ],
+                "Tatar": [
+                    "еракка сикерү"
+                ]
+            }
+        }
+    ]
+}

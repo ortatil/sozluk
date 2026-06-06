@@ -1,0 +1,105 @@
+{
+    "id": "i97668",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "candlelight",
+    "en_definition": "the light provided by a burning candle",
+    "tr_word": "mum ışığı",
+    "tr_definition": "yanan bir mumun sağladığı ışık",
+    "ru_word": "свет свечи",
+    "ru_definition": "свет, исходящий от горящей свечи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şam işığı"
+                ],
+                "Turkmen": [
+                    "şem yşygy",
+                    "şem nury",
+                    "şem çyrasy"
+                ],
+                "Uzbek": [
+                    "sham nuri",
+                    "sham yorug'i"
+                ],
+                "Uyghur": [
+                    "شەم يورۇقى",
+                    "شەم نۇرى",
+                    "شەم چىرىغى"
+                ],
+                "Kazakh": [
+                    "шам жарығы"
+                ],
+                "Kyrgyz": [
+                    "шамдын жарыгы",
+                    "шам жарыгы"
+                ],
+                "Karakalpak": [
+                    "sham jarıǵı",
+                    "shamnıń nurı"
+                ],
+                "Tatar": [
+                    "шәм яктысы",
+                    "шәм нуры"
+                ],
+                "Bashkir": [
+                    "шәм яҡтыһы",
+                    "шәм нуры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mum ışığı",
+                    "mum şulesi"
+                ],
+                "Uzbek": [
+                    "sham shu'lasi"
+                ],
+                "Tatar": [
+                    "шәм шәүләсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шырақ сәулесі"
+                ],
+                "Kyrgyz": [
+                    "чырактын жарыгы"
+                ],
+                "Karakalpak": [
+                    "shıraq sáulesі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mum alevi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şam nuru",
+                    "şam ziyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "майшам жарығы"
+                ]
+            }
+        }
+    ]
+}

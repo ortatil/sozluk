@@ -1,0 +1,68 @@
+{
+    "id": "i37812",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "day game",
+    "en_definition": "a game played in daylight",
+    "tr_word": "gündüz maçı",
+    "tr_definition": "Gün ışığında oynanan maç",
+    "ru_word": "дневная игра",
+    "ru_definition": "игра, проводимая при дневном свете",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gündüz maçı",
+                    "gündüz oyunu"
+                ],
+                "Azerbaijani": [
+                    "gündüz oyunu",
+                    "günorta oyunu"
+                ],
+                "Turkmen": [
+                    "gündizki oýun",
+                    "gündizki ýaryş"
+                ],
+                "Uyghur": [
+                    "كۈندۈزلۈك مۇسابىقە",
+                    "كۈندۈزدىكى ئويۇن"
+                ],
+                "Kazakh": [
+                    "күндізгі ойын",
+                    "күндізгі бәсеке",
+                    "күндізгі сайыс"
+                ],
+                "Kyrgyz": [
+                    "күндүзгү оюн",
+                    "күн алдындагы оюн"
+                ],
+                "Karakalpak": [
+                    "kúndіzgі oyın"
+                ],
+                "Tatar": [
+                    "көндезге уен",
+                    "көндезге ярыш"
+                ],
+                "Bashkir": [
+                    "көндөҙгө уйын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kunduzgi o'yin",
+                    "kunlik o'yin"
+                ],
+                "Karakalpak": [
+                    "kún jarıǵındaǵı oyın"
+                ],
+                "Bashkir": [
+                    "көн уйыны"
+                ]
+            }
+        }
+    ]
+}

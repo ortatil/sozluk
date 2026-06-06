@@ -1,0 +1,108 @@
+{
+    "id": "i9451",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "parental",
+    "en_definition": "relating to or characteristic of or befitting a parent",
+    "tr_word": "ebeveynsel",
+    "tr_definition": "anne veya babaya özgü olan veya onlarla ilgili olan",
+    "ru_word": "родительский",
+    "ru_definition": "относящийся к родителям или свойственный им",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ata-ana",
+                    "atavari"
+                ],
+                "Turkmen": [
+                    "atalyk"
+                ],
+                "Uzbek": [
+                    "ota-onalik",
+                    "ota-onaga oid"
+                ],
+                "Uyghur": [
+                    "ئاتا-ئانىلارغا خاس",
+                    "ئاتا-ئانىلىق"
+                ],
+                "Kazakh": [
+                    "ата-аналық",
+                    "ата-анаға тән"
+                ],
+                "Kyrgyz": [
+                    "ата-энелик",
+                    "ата-энеге таандык"
+                ],
+                "Karakalpak": [
+                    "ata-analıq"
+                ],
+                "Tatar": [
+                    "ата-ана",
+                    "ата-ананыкы"
+                ],
+                "Bashkir": [
+                    "ата-әсәлек",
+                    "ата-әсә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "valideyn"
+                ],
+                "Azerbaijani": [
+                    "valideyn"
+                ],
+                "Turkmen": [
+                    "walideýin"
+                ],
+                "Uzbek": [
+                    "validatayn"
+                ],
+                "Uyghur": [
+                    "ۋالىدەين"
+                ],
+                "Tatar": [
+                    "вәли"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "anaç",
+                    "anne baba"
+                ],
+                "Azerbaijani": [
+                    "anavari"
+                ],
+                "Turkmen": [
+                    "ene-atalyk",
+                    "enelik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "babacan"
+                ],
+                "Karakalpak": [
+                    "ualdayın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ebeveyn"
+                ]
+            }
+        }
+    ]
+}

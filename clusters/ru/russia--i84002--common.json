@@ -1,0 +1,78 @@
+{
+    "id": "i84002",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "russia",
+    "en_definition": "a federation in northeastern Europe and northern Asia; formerly Soviet Russia; since 1991 an independent state",
+    "tr_word": "Rusya",
+    "tr_definition": "Kuzeydoğu Avrupa ve kuzey Asya'da yer alan bir federasyon; eski Sovyet Rusya; 1991'den beri bağımsız bir devlet.",
+    "ru_word": "Россия",
+    "ru_definition": "Федерация в северо-восточной Европе и северной Азии; бывшая Советская Россия; с 1991 года независимое государство.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Rusya",
+                    "Rusya Federasyonu"
+                ],
+                "Azerbaijani": [
+                    "Rusiya",
+                    "Rus"
+                ],
+                "Turkmen": [
+                    "Russiýa"
+                ],
+                "Uzbek": [
+                    "Rossiya",
+                    "Rus"
+                ],
+                "Uyghur": [
+                    "روسىيە",
+                    "رۇسىيە"
+                ],
+                "Kazakh": [
+                    "Ресей"
+                ],
+                "Kyrgyz": [
+                    "Орусия"
+                ],
+                "Karakalpak": [
+                    "Rossiya"
+                ],
+                "Tatar": [
+                    "Россия",
+                    "Рәсәй"
+                ],
+                "Bashkir": [
+                    "Рәсәй",
+                    "Русия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Orsýet"
+                ],
+                "Kazakh": [
+                    "Орыс елі"
+                ],
+                "Kyrgyz": [
+                    "Орус өлкөсү"
+                ],
+                "Karakalpak": [
+                    "Urısstan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Ресей Федерациясы"
+                ]
+            }
+        }
+    ]
+}

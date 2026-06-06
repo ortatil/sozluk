@@ -1,0 +1,80 @@
+{
+    "id": "i77494",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "corn flake",
+    "en_definition": "crisp flake made from corn",
+    "tr_word": "mısır gevreği",
+    "tr_definition": "mısırdan yapılan çıtır gevrek",
+    "ru_word": "кукурузные хлопья",
+    "ru_definition": "хрустящие хлопья, приготовленные из кукурузы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жүгері үлпегі",
+                    "жүгері қауызы"
+                ],
+                "Kyrgyz": [
+                    "жүгөрү бүртүкчөлөрү",
+                    "жүгөрү күлчөлөрү"
+                ],
+                "Karakalpak": [
+                    "júgerі úlpegі",
+                    "júgerі qauızı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mekgejöwen kiselisi",
+                    "mekgejöwen pökgeni"
+                ],
+                "Uzbek": [
+                    "makkajoʻxori yormasi",
+                    "makkajoʻxori parraklari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кукуруз кабырчыклары",
+                    "кукуруз яфраклары"
+                ],
+                "Bashkir": [
+                    "кукуруз ярыһы",
+                    "кукуруз киҫәктәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mısır gevreği",
+                    "mısır pulu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarğıdalı lopa",
+                    "qarğıdalı lopası",
+                    "qarğıdalı pırtlağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوناق پېچىنە-پىرەنىكى",
+                    "قوناق پارچىسى",
+                    "قوناق تالقىنى"
+                ]
+            }
+        }
+    ]
+}

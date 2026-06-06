@@ -1,0 +1,133 @@
+{
+    "id": "i52796",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "departure gate",
+    "en_definition": "gate where passengers embark",
+    "tr_word": "biniş kapısı",
+    "tr_definition": "yolcuların uçağa binmek için kullandığı kapı",
+    "ru_word": "выход на посадку",
+    "ru_definition": "ворота, через которые пассажиры проходят на посадку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıkış kapısı"
+                ],
+                "Azerbaijani": [
+                    "çıxış qapısı"
+                ],
+                "Turkmen": [
+                    "çykyş derwezesi",
+                    "çykyş gapysy"
+                ],
+                "Uzbek": [
+                    "chiqish darvozasi",
+                    "chiqish eshigi"
+                ],
+                "Uyghur": [
+                    "چىقىش ئېغىزى"
+                ],
+                "Kyrgyz": [
+                    "чыгуу дарбазасы"
+                ],
+                "Karakalpak": [
+                    "shıǵıs esigi"
+                ],
+                "Tatar": [
+                    "чыгу ишеге"
+                ],
+                "Bashkir": [
+                    "сығыу ҡапҡаһы",
+                    "сығыу ишеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "аттану қақпасы"
+                ],
+                "Kyrgyz": [
+                    "аттануу дарбазасы"
+                ],
+                "Karakalpak": [
+                    "atlanıs esigi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "biniş kapısı"
+                ],
+                "Azerbaijani": [
+                    "miniş qapısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "утырту капкасы"
+                ],
+                "Bashkir": [
+                    "ултырыу ҡапҡаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yolcu kapısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ugraş derwezesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jo'nash darvozasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئايرىلىش ئېغىزى",
+                    "ئايروپىلانغا چىقىش ئېغىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шығу қақпасы",
+                    "ұшу қақпасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "учуу дарбазасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "китү капкасы"
+                ]
+            }
+        }
+    ]
+}

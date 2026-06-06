@@ -1,0 +1,118 @@
+{
+    "id": "i81307",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "private school",
+    "en_definition": "a school established and controlled privately and supported by endowment and tuition",
+    "tr_word": "özel okul",
+    "tr_definition": "devletten bağımsız olarak kurulan, yönetilen ve gelirini öğrenim ücretleri ile bağışlardan sağlayan eğitim kurumu",
+    "ru_word": "частная школа",
+    "ru_definition": "учебное заведение, которое не контролируется государством и финансируется за счет платы за обучение и частных пожертвований",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hususi mektep"
+                ],
+                "Azerbaijani": [
+                    "xüsusi məktəb"
+                ],
+                "Turkmen": [
+                    "hususy mekdep"
+                ],
+                "Uzbek": [
+                    "xususiy maktab"
+                ],
+                "Uyghur": [
+                    "خۇسۇسىي مەكتەپ"
+                ],
+                "Tatar": [
+                    "хосусый мәктәп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şahsy mekdep"
+                ],
+                "Uzbek": [
+                    "shaxsiy maktab"
+                ],
+                "Uyghur": [
+                    "شەخسىي مەكتەپ"
+                ],
+                "Tatar": [
+                    "шәхси мәктәп"
+                ],
+                "Bashkir": [
+                    "шәхси мәктәп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жекеменшік мектеп",
+                    "жеке мектеп"
+                ],
+                "Kyrgyz": [
+                    "жеке мектеп",
+                    "жекече мектеп"
+                ],
+                "Karakalpak": [
+                    "jeke menshik mektep",
+                    "jeke mektep"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özel okul"
+                ],
+                "Azerbaijani": [
+                    "özəl məktəb"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kolej"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дербес мектеп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "менчик мектеп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөстәкыйль мәктәп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "айырым мәктәп"
+                ]
+            }
+        }
+    ]
+}

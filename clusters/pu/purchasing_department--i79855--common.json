@@ -1,0 +1,128 @@
+{
+    "id": "i79855",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "purchasing department",
+    "en_definition": "the division of a business that is responsible for purchases",
+    "tr_word": "satın alma departmanı",
+    "tr_definition": "bir işletmenin satın alma işlemlerinden sorumlu olan bölümü",
+    "ru_word": "отдел закупок",
+    "ru_definition": "подразделение предприятия, отвечающее за осуществление закупок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satın alma birimi",
+                    "satın alma dairesi",
+                    "satın alma müdürlüğü"
+                ],
+                "Azerbaijani": [
+                    "satınalma şöbəsi"
+                ],
+                "Turkmen": [
+                    "satyn alyş bölümi"
+                ],
+                "Uyghur": [
+                    "سېتىۋېلىش بۆلۈمى",
+                    "سېتىۋېلىش ئىدارىسى"
+                ],
+                "Kazakh": [
+                    "сатып алу бөлімі"
+                ],
+                "Kyrgyz": [
+                    "сатып алуу бөлүмү"
+                ],
+                "Karakalpak": [
+                    "satıp alıo bólimi"
+                ],
+                "Tatar": [
+                    "сатып алу бүлеге"
+                ],
+                "Bashkir": [
+                    "һатып алыу бүлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tedarik birimi"
+                ],
+                "Azerbaijani": [
+                    "tədarük şöbəsi",
+                    "tədarük bölməsi"
+                ],
+                "Uzbek": [
+                    "ta'minot bo'limi"
+                ],
+                "Uyghur": [
+                    "تەمىنات بۆلۈمى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "támiynleo bólimi"
+                ],
+                "Tatar": [
+                    "тәэминат бүлеге",
+                    "тәэмин итү бүлеге"
+                ],
+                "Bashkir": [
+                    "тәьмин итеү бүлеге",
+                    "тәьминәт бүлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жабдықтау бөлімі"
+                ],
+                "Kyrgyz": [
+                    "жабдуу бөлүмү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təchizat şöbəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "üpjünçilik bölümi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xarid bo'limi",
+                    "xaridlar bo'limi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сауда бөлімі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "камсыздоо бөлүмү"
+                ]
+            }
+        }
+    ]
+}

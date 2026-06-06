@@ -1,0 +1,281 @@
+# Silenced
+| Field | Detail |
+|---|---|
+| **ID** | i11899 |
+| **English** | silenced |
+| **Type** | adjective |
+| **Definition** | reduced to silence |
+| **Source** | common |
+| **Ortatil** | ḍındırılğan |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍındırılğan** | **sessizläştirilmiş** | **ünmägän** |
+|---|---|---|---|
+| Turkish | ❌ | ✅ | ❌ |
+| Azerbaijani | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ❌ | ❌ | ❌ |
+| Uyghur | ❌ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ✅ |
+| Kyrgyz | ❌ | ❌ | ✅ |
+| Karakalpak | ❌ | ❌ | ✅ |
+| Tatar | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 1 | 0 |
+| *Qarluq Subtotal* | 0 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0 | 0.60 |
+| *In All* |  |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  |  |
+| **O'TQ** | **1.23** | **1** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| جىمىقتۇرۇلغان | jimiqturulğan |
+| تۇتۇق | tutuq |
+| **Kazakh** | |
+| үнсіз | ünsiz |
+| үнсіздендірілген | ünsizdendirilgen |
+| тұншықтырылған | tunşıqtırılğan |
+| дыбыссыз | dıbıssız |
+| **Kyrgyz** | |
+| унчукпаган | unçukpagan |
+| үнсүз | ünsüz |
+| тынчытылган | tınçıtılgan |
+| ооздукталган | oozduktalgan |
+| басылган | basılgan |
+| **Tatar** | |
+| тындырылган | tındırılgan |
+| дәшмәс | däşmäs |
+| сөйләшмәс | söyläşmäs |
+| **Bashkir** | |
+| тындырылған | tındırılğan |
+| өндәшмәҫ | öndäşmäs |
+
+```json
+{
+    "id": "i11899",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "silenced",
+    "en_definition": "reduced to silence",
+    "tr_word": "susturulmuş",
+    "tr_definition": "sessiz kalması sağlanmış, sesi kesilmiş",
+    "ru_word": "заглушенный",
+    "ru_definition": "приведенный к молчанию или лишенный возможности говорить",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovozi o'chirilgan"
+                ],
+                "Uyghur": [
+                    "ئاۋازسىز قالدۇرۇلغان"
+                ],
+                "Kazakh": [
+                    "аузы буылған"
+                ],
+                "Karakalpak": [
+                    "aozı baylanǵan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sessizleştirilmiş",
+                    "sesi kesilmiş"
+                ],
+                "Azerbaijani": [
+                    "səssizləşdirilmiş"
+                ],
+                "Turkmen": [
+                    "sessiz",
+                    "sesi kesilen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dilsiz edilmiş"
+                ],
+                "Tatar": [
+                    "телсез калдырылган"
+                ],
+                "Bashkir": [
+                    "телһеҙ ҡалдырылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dymdyrylan"
+                ],
+                "Tatar": [
+                    "тындырылган"
+                ],
+                "Bashkir": [
+                    "тындырылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sukutga cho'mgan"
+                ],
+                "Uyghur": [
+                    "سۈكۈتكە چۆكتۈرۈلگەن"
+                ],
+                "Karakalpak": [
+                    "sóyletilmegen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "үнсіз",
+                    "үнсіздендірілген"
+                ],
+                "Kyrgyz": [
+                    "унчукпаган"
+                ],
+                "Karakalpak": [
+                    "únsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "susturulmuş"
+                ],
+                "Azerbaijani": [
+                    "susdurulmuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sakitləşdirilmiş"
+                ],
+                "Uzbek": [
+                    "sokin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lal edilmiş"
+                ],
+                "Turkmen": [
+                    "lal edilen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ümsüm"
+                ],
+                "Kyrgyz": [
+                    "үнсүз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jim"
+                ],
+                "Uyghur": [
+                    "جىمىقتۇرۇلغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tindirilgan"
+                ],
+                "Kyrgyz": [
+                    "тынчытылган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұншықтырылған"
+                ],
+                "Karakalpak": [
+                    "tınıshlandırılǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇتۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дыбыссыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ооздукталган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "басылган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дәшмәс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сөйләшмәс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өндәшмәҫ",
+                    "өндәшмәҫкә мәжбүр ителгән"
+                ]
+            }
+        }
+    ]
+}
+```
+

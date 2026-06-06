@@ -1,0 +1,81 @@
+{
+    "id": "i65345",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mother's milk",
+    "en_definition": "milk secreted by a woman who has recently given birth",
+    "tr_word": "anne sütü",
+    "tr_definition": "yeni doğum yapmış bir kadının salgıladığı süt",
+    "ru_word": "грудное молоко",
+    "ru_definition": "молоко, вырабатываемое женщиной после родов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "anne sütü",
+                    "ana sütü"
+                ],
+                "Azerbaijani": [
+                    "ana südü"
+                ],
+                "Turkmen": [
+                    "ene süýdi",
+                    "ene süýdi-emjegi"
+                ],
+                "Uzbek": [
+                    "ona suti",
+                    "ona shiri"
+                ],
+                "Uyghur": [
+                    "ئانا سۈتى"
+                ],
+                "Kazakh": [
+                    "ана сүті",
+                    "ананың ақ сүті"
+                ],
+                "Kyrgyz": [
+                    "эне сүтү",
+                    "апа сүтү"
+                ],
+                "Karakalpak": [
+                    "ana súti"
+                ],
+                "Tatar": [
+                    "ана сөте"
+                ],
+                "Bashkir": [
+                    "инә һөтө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئەمچەك سۈتى"
+                ],
+                "Karakalpak": [
+                    "emshek súti"
+                ],
+                "Tatar": [
+                    "имчәк сөте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "döş südü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "әсә һөтө"
+                ]
+            }
+        }
+    ]
+}

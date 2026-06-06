@@ -1,0 +1,150 @@
+{
+    "id": "i89825",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "examiner",
+    "en_definition": "someone who administers a test to determine your qualifications",
+    "tr_word": "sınav görevlisi",
+    "tr_definition": "yeterliliğinizi belirlemek için bir testi yöneten kişi",
+    "ru_word": "экзаменатор",
+    "ru_definition": "лицо, принимающее экзамен и проверяющее знания или квалификацию",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "imtihancı"
+                ],
+                "Azerbaijani": [
+                    "imtahançı"
+                ],
+                "Turkmen": [
+                    "imtahançy"
+                ],
+                "Uzbek": [
+                    "imtihonchi"
+                ],
+                "Uyghur": [
+                    "ئىمتىھان ئالغۇچى"
+                ],
+                "Kazakh": [
+                    "емтихан алушы"
+                ],
+                "Karakalpak": [
+                    "imtixan alıoshı"
+                ],
+                "Tatar": [
+                    "имтихан алучы"
+                ],
+                "Bashkir": [
+                    "имтихан алыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınavcı"
+                ],
+                "Azerbaijani": [
+                    "sınaqçı"
+                ],
+                "Turkmen": [
+                    "synagçy"
+                ],
+                "Kazakh": [
+                    "сынаушы"
+                ],
+                "Kyrgyz": [
+                    "сынактоочу",
+                    "сынак алуучу"
+                ],
+                "Karakalpak": [
+                    "sınaushı"
+                ],
+                "Tatar": [
+                    "сынаучы"
+                ],
+                "Bashkir": [
+                    "һынаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tekshiruvchi"
+                ],
+                "Uyghur": [
+                    "تەكشۈرگۈچى"
+                ],
+                "Kazakh": [
+                    "тексеруші"
+                ],
+                "Kyrgyz": [
+                    "текшерүүчү"
+                ],
+                "Karakalpak": [
+                    "tekserioshi"
+                ],
+                "Bashkir": [
+                    "тикшереүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mümeyyiz"
+                ],
+                "Uzbek": [
+                    "mumtahin"
+                ],
+                "Uyghur": [
+                    "مۇمتەھىن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müfəttiş"
+                ],
+                "Tatar": [
+                    "мөфәттиш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "denetmen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "barlagçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nazoratchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "муктасиб"
+                ]
+            }
+        }
+    ]
+}

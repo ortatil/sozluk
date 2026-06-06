@@ -1,0 +1,109 @@
+{
+    "id": "i49801",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ace of hearts",
+    "en_definition": "the ace in the heart suit",
+    "tr_word": "kupa ası",
+    "tr_definition": "kupa serisindeki as kartı",
+    "ru_word": "червовый туз",
+    "ru_definition": "туз в масти червей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ürək ası",
+                    "ürək tuzu"
+                ],
+                "Uzbek": [
+                    "yurak tuzi",
+                    "yurak as"
+                ],
+                "Uyghur": [
+                    "يۈرەك تۇز",
+                    "يۈرەك بىرلىك"
+                ],
+                "Kazakh": [
+                    "жүрек асы"
+                ],
+                "Kyrgyz": [
+                    "жүрөк тузу"
+                ],
+                "Karakalpak": [
+                    "júrek tuzı"
+                ],
+                "Tatar": [
+                    "йөрәк тузы"
+                ],
+                "Bashkir": [
+                    "йөрәк тузы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qizil tuzi"
+                ],
+                "Tatar": [
+                    "кызыллы тузы"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл туҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kupa ası",
+                    "kupa as"
+                ],
+                "Karakalpak": [
+                    "kórpe tuzı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çanak asy"
+                ],
+                "Kyrgyz": [
+                    "чыны туз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lal ası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lal tuzu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "körpük asy",
+                    "körpük tuzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тасжүрек асы"
+                ]
+            }
+        }
+    ]
+}

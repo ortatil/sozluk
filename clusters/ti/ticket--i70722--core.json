@@ -1,0 +1,120 @@
+{
+    "id": "i70722",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "ticket",
+    "en_definition": "a commercial document showing that the holder is entitled to something (as to ride on public transportation or to enter a public entertainment)",
+    "tr_word": "bilet",
+    "tr_definition": "Bir ulaşım aracına binmek veya bir eğlence yerine girmek için alınan, hak sahibi olunduğunu gösteren belge.",
+    "ru_word": "билет",
+    "ru_definition": "Документ, удостоверяющий право пользоваться чем-либо (проездом в транспорте, посещением зрелищного мероприятия).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilet"
+                ],
+                "Azerbaijani": [
+                    "bilet"
+                ],
+                "Turkmen": [
+                    "bilet"
+                ],
+                "Uzbek": [
+                    "bilet"
+                ],
+                "Uyghur": [
+                    "بېلەت"
+                ],
+                "Kazakh": [
+                    "билет"
+                ],
+                "Kyrgyz": [
+                    "билет"
+                ],
+                "Karakalpak": [
+                    "bilet"
+                ],
+                "Tatar": [
+                    "билет"
+                ],
+                "Bashkir": [
+                    "билет"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жолдама"
+                ],
+                "Kyrgyz": [
+                    "жолдомо"
+                ],
+                "Karakalpak": [
+                    "jollama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vəsiqə"
+                ],
+                "Uyghur": [
+                    "وەسىقە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "таныклык"
+                ],
+                "Bashkir": [
+                    "таныҡлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кәгазь"
+                ],
+                "Bashkir": [
+                    "ҡағыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "giriş belgesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geçiş belgesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "petek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chipta"
+                ]
+            }
+        }
+    ]
+}

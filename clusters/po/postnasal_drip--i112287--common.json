@@ -1,0 +1,104 @@
+{
+    "id": "i112287",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "postnasal drip",
+    "en_definition": "chronic secretion of mucus from the rear of the nasal cavity into the nasopharynx",
+    "tr_word": "geniz akıntısı",
+    "tr_definition": "burun boşluğunun arkasından nazofarenkse doğru kronik mukus salgılanması",
+    "ru_word": "постназальный затек",
+    "ru_definition": "хроническое стекание слизи из задней части носовой полости в носоглотку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "burun arkası akıntısı"
+                ],
+                "Azerbaijani": [
+                    "burun-udlaq axıntısı",
+                    "burun arxası axıntı"
+                ],
+                "Turkmen": [
+                    "burun akmasy"
+                ],
+                "Uzbek": [
+                    "burun orti oqmasi",
+                    "burun-halqum shillig‘i",
+                    "burun oqmasi"
+                ],
+                "Uyghur": [
+                    "بۇرۇن ئارقا ئېقىمى",
+                    "بۇرۇن ئارقا ئاجراتمىسى",
+                    "بۇرۇن سۇيۇقلۇقىنىڭ بوغۇزغا چۈشۈشى"
+                ],
+                "Kyrgyz": [
+                    "мурундун артынан былжыр агуу",
+                    "мурун-тамак былжыры"
+                ],
+                "Karakalpak": [
+                    "mұrın artınan shırısh aǵu"
+                ],
+                "Tatar": [
+                    "борындагы лайланың тамакка төшүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мұрыннан тамаққа шырыш ағу",
+                    "мұрын-жұтқыншақ шырышы",
+                    "мұрыннан тамаққа қақыршақ түсу"
+                ],
+                "Kyrgyz": [
+                    "тамакка былжыр агуу"
+                ],
+                "Karakalpak": [
+                    "mұrınnan tamaqqa shırısh aǵu",
+                    "tamaqqa shırısh jinalu"
+                ],
+                "Tatar": [
+                    "тамак арты лайласы"
+                ],
+                "Bashkir": [
+                    "тамаҡҡа лайла ағыуы",
+                    "морон-тамаҡ лайлаһы",
+                    "тамаҡҡа лайла йыйылыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geniz akıntısı"
+                ],
+                "Azerbaijani": [
+                    "geniz axıntısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bokurdak akmasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nem akmasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тамакка лайла агу"
+                ]
+            }
+        }
+    ]
+}

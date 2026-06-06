@@ -1,0 +1,128 @@
+{
+    "id": "i91301",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "member",
+    "en_definition": "one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)",
+    "tr_word": "üye",
+    "tr_definition": "Bir topluluğu, bir örgütü oluşturan bireylerden her biri.",
+    "ru_word": "член",
+    "ru_definition": "Лицо, входящее в состав какой-либо организации, общества или группы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aza"
+                ],
+                "Turkmen": [
+                    "agza"
+                ],
+                "Uzbek": [
+                    "a'zo"
+                ],
+                "Uyghur": [
+                    "ئەزا",
+                    "ئەزالار"
+                ],
+                "Kazakh": [
+                    "ағза"
+                ],
+                "Kyrgyz": [
+                    "агза"
+                ],
+                "Karakalpak": [
+                    "aǵza"
+                ],
+                "Tatar": [
+                    "әгъза"
+                ],
+                "Bashkir": [
+                    "ағза"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "müçe"
+                ],
+                "Kazakh": [
+                    "мүше"
+                ],
+                "Kyrgyz": [
+                    "мүчө"
+                ],
+                "Karakalpak": [
+                    "múshe"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қатысушы"
+                ],
+                "Kyrgyz": [
+                    "катышуучу"
+                ],
+                "Tatar": [
+                    "катнашучы"
+                ],
+                "Bashkir": [
+                    "ҡатнашыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iştirakçı"
+                ],
+                "Uzbek": [
+                    "ishtirokchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mensup"
+                ],
+                "Azerbaijani": [
+                    "mənsub"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "üye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "буын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "әүәз"
+                ]
+            }
+        }
+    ]
+}

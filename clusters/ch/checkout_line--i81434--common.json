@@ -1,0 +1,126 @@
+{
+    "id": "i81434",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "checkout line",
+    "en_definition": "a queue of people waiting to pay for purchases",
+    "tr_word": "kasa kuyruğu",
+    "tr_definition": "satın alınan ürünlerin ödemesini yapmak için bekleyen insan sırası",
+    "ru_word": "очередь на кассу",
+    "ru_definition": "очередь людей, ожидающих оплаты покупок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kasa kuyruğu",
+                    "kasa sırası"
+                ],
+                "Azerbaijani": [
+                    "kassa növbəsi"
+                ],
+                "Turkmen": [
+                    "kassa nobaty"
+                ],
+                "Uzbek": [
+                    "kassa navbati"
+                ],
+                "Uyghur": [
+                    "كاسسا ئۆچىرىتى"
+                ],
+                "Bashkir": [
+                    "касса сираты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töleg nobaty"
+                ],
+                "Kazakh": [
+                    "төлем кезегі"
+                ],
+                "Kyrgyz": [
+                    "төлөм кезеги"
+                ],
+                "Tatar": [
+                    "түләү чираты"
+                ],
+                "Bashkir": [
+                    "түләү сираты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nobat"
+                ],
+                "Uzbek": [
+                    "navbat"
+                ],
+                "Karakalpak": [
+                    "nóret"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кезек"
+                ],
+                "Kyrgyz": [
+                    "кезек"
+                ],
+                "Karakalpak": [
+                    "gezek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ödeme sırası"
+                ],
+                "Azerbaijani": [
+                    "ödəniş növbəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сатып алуу кезеги"
+                ],
+                "Tatar": [
+                    "сатып алучылар чираты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھېسابات ئۆچىرىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇل تۆلەش ئۆچىرىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чират"
+                ]
+            }
+        }
+    ]
+}

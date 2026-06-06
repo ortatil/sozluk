@@ -1,0 +1,95 @@
+# Calgary
+| Field | Detail |
+|---|---|
+| **ID** | i83199 |
+| **English** | calgary |
+| **Type** | noun |
+| **Definition** | the largest city in southern Alberta; an oil and gas center and a technology center for Alberta and most of western Canada |
+| **Source** | common |
+| **Ortatil** | kalğari |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kalğari** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كالغارى | kalğari |
+| **Kazakh** | |
+| Калгари | kalgari |
+| **Kyrgyz** | |
+| Калгари | kalgari |
+| **Tatar** | |
+| Калгари | kalgari |
+| **Bashkir** | |
+| Калгари | kalgari |
+
+```json
+{
+    "id": "i83199",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "calgary",
+    "en_definition": "the largest city in southern Alberta; an oil and gas center and a technology center for Alberta and most of western Canada",
+    "tr_word": "Calgary",
+    "tr_definition": "Güney Alberta'nın en büyük şehri; Alberta ve Batı Kanada'nın çoğu için bir petrol, gaz ve teknoloji merkezi.",
+    "ru_word": "Калгари",
+    "ru_definition": "Крупнейший город в южной части провинции Альберта; центр нефтегазовой промышленности и технологий для Альберты и большей части Западной Канады.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Calgary"
+                ],
+                "Azerbaijani": [
+                    "Kalqari"
+                ],
+                "Turkmen": [
+                    "Kalgari"
+                ],
+                "Uzbek": [
+                    "Kalgari"
+                ],
+                "Uyghur": [
+                    "كالغارى"
+                ],
+                "Kazakh": [
+                    "Калгари"
+                ],
+                "Kyrgyz": [
+                    "Калгари"
+                ],
+                "Karakalpak": [
+                    "Kalgari"
+                ],
+                "Tatar": [
+                    "Калгари"
+                ],
+                "Bashkir": [
+                    "Калгари"
+                ]
+            }
+        }
+    ]
+}
+```
+

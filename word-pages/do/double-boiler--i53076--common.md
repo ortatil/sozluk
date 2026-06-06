@@ -1,0 +1,131 @@
+# Double boiler
+| Field | Detail |
+|---|---|
+| **ID** | i53076 |
+| **English** | double boiler |
+| **Type** | noun |
+| **Definition** | two saucepans, one fitting inside the other |
+| **Source** | common |
+| **Ortatil** | mantıqazan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i53076",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "double boiler",
+    "en_definition": "two saucepans, one fitting inside the other",
+    "tr_word": "benmari",
+    "tr_definition": "İç içe geçen iki tencereden oluşan, alttakinde kaynayan suyun buharıyla üsttekinin içindeki yiyeceği pişirmeye yarayan mutfak gereci.",
+    "ru_word": "пароварка",
+    "ru_definition": "Кухонное устройство, состоящее из двух кастрюль, вставленных одна в другую, для приготовления пищи на водяной бане.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "buxar qazanı",
+                    "buxar qabı",
+                    "buxar vannası"
+                ],
+                "Turkmen": [
+                    "bug gazany"
+                ],
+                "Uzbek": [
+                    "bugʻqozon"
+                ],
+                "Uyghur": [
+                    "بۇغ قازىنى"
+                ],
+                "Kazakh": [
+                    "бу қазаны"
+                ],
+                "Kyrgyz": [
+                    "буу казан"
+                ],
+                "Karakalpak": [
+                    "buu qazan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşa gazan"
+                ],
+                "Uyghur": [
+                    "قوش قازان"
+                ],
+                "Kazakh": [
+                    "қос қазан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mantiqozon"
+                ],
+                "Kyrgyz": [
+                    "манты казан"
+                ],
+                "Karakalpak": [
+                    "mantıqazan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "su banyosu"
+                ],
+                "Uzbek": [
+                    "suv hammomi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "пар казаны",
+                    "парлы кәстрүл",
+                    "пар савыты"
+                ],
+                "Bashkir": [
+                    "пар ҡаҙаны",
+                    "парлы ҡаҙан",
+                    "парлы һауыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "benmari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift tencere"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бу пісіргіш"
+                ]
+            }
+        }
+    ]
+}
+```
+

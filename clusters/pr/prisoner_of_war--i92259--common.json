@@ -1,0 +1,123 @@
+{
+    "id": "i92259",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "prisoner of war",
+    "en_definition": "a person who surrenders to (or is taken by) the enemy in time of war",
+    "tr_word": "savaş esiri",
+    "tr_definition": "Savaş sırasında düşman kuvvetleri tarafından ele geçirilen veya onlara teslim olan kişi.",
+    "ru_word": "военнопленный",
+    "ru_definition": "Лицо, захваченное противником во время войны или сдавшееся ему.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əsir"
+                ],
+                "Turkmen": [
+                    "ýesir"
+                ],
+                "Uzbek": [
+                    "asir"
+                ],
+                "Uyghur": [
+                    "ئەسىر"
+                ],
+                "Kazakh": [
+                    "әскери тұтқын"
+                ],
+                "Kyrgyz": [
+                    "асир"
+                ],
+                "Karakalpak": [
+                    "ásir"
+                ],
+                "Tatar": [
+                    "әсир"
+                ],
+                "Bashkir": [
+                    "әсир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tutsak"
+                ],
+                "Uyghur": [
+                    "تۇتقۇن"
+                ],
+                "Kazakh": [
+                    "тұтқын"
+                ],
+                "Kyrgyz": [
+                    "туткун"
+                ],
+                "Karakalpak": [
+                    "tutqın"
+                ],
+                "Tatar": [
+                    "тоткын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harp esiri"
+                ],
+                "Azerbaijani": [
+                    "hərbi əsir"
+                ],
+                "Turkmen": [
+                    "harby ýesir"
+                ],
+                "Uzbek": [
+                    "harbiy asir"
+                ],
+                "Tatar": [
+                    "хәрби әсир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "savaş esiri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tushqun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جەڭ ئەسىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жау қолындағы тұтқын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һуғыш әсире"
+                ]
+            }
+        }
+    ]
+}

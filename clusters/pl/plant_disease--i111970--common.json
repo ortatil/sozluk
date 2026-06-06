@@ -1,0 +1,100 @@
+{
+    "id": "i111970",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "plant disease",
+    "en_definition": "a disease that affects plants",
+    "tr_word": "bitki hastalığı",
+    "tr_definition": "bitkilerin normal gelişimini engelleyen veya onlara zarar veren hastalık",
+    "ru_word": "болезнь растений",
+    "ru_definition": "нарушение нормального обмена веществ и физиологических функций растений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ösümlik keseli"
+                ],
+                "Uzbek": [
+                    "oʻsimlik kasalligi",
+                    "oʻsimlik xastaligi",
+                    "oʻsimlik dardi",
+                    "oʻsimlik illati"
+                ],
+                "Uyghur": [
+                    "ئۆسۈملۈك كېسەللىكى",
+                    "ئۆسۈملۈك ئاپىتى"
+                ],
+                "Kazakh": [
+                    "өсімдік ауруы",
+                    "өсімдік дерті",
+                    "өсімдік кеселі"
+                ],
+                "Kyrgyz": [
+                    "өсүмдүк илдети",
+                    "өсүмдүк оорусу"
+                ],
+                "Karakalpak": [
+                    "ósimlik keselligi",
+                    "ósimlik kesellenioi",
+                    "ósimlik dertleri"
+                ],
+                "Tatar": [
+                    "үсемлек чире",
+                    "үсемлек авыруы"
+                ],
+                "Bashkir": [
+                    "үҫемлек ауырыуы",
+                    "үҫемлек сире"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bitki hastalığı",
+                    "bitki illeti"
+                ],
+                "Azerbaijani": [
+                    "bitki xəstəliyi",
+                    "bitki azarı",
+                    "bitki mərəzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dert"
+                ],
+                "Kyrgyz": [
+                    "дарт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илдет"
+                ],
+                "Tatar": [
+                    "илләт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nebat marazı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maraz"
+                ]
+            }
+        }
+    ]
+}

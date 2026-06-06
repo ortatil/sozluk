@@ -1,0 +1,75 @@
+{
+    "id": "i115635",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "liquid nitrogen",
+    "en_definition": "nitrogen in a liquid state",
+    "tr_word": "sıvı azot",
+    "tr_definition": "azotun sıvı haldeki formu",
+    "ru_word": "жидкий азот",
+    "ru_definition": "азот в жидком состоянии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıvı azot"
+                ],
+                "Kazakh": [
+                    "сұйық азот"
+                ],
+                "Kyrgyz": [
+                    "суюк азот"
+                ],
+                "Karakalpak": [
+                    "suyıq azot"
+                ],
+                "Tatar": [
+                    "сыек азот"
+                ],
+                "Bashkir": [
+                    "һыйыҡ азот"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwuk azot"
+                ],
+                "Uzbek": [
+                    "suyuq azot"
+                ],
+                "Uyghur": [
+                    "سۇيۇق ئازوت",
+                    "سۇيۇقلاندۇرۇلغان ئازوت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maye azot"
+                ],
+                "Turkmen": [
+                    "maýe azot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "likit azot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "duru azot"
+                ]
+            }
+        }
+    ]
+}

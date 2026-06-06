@@ -1,0 +1,155 @@
+{
+    "id": "i22197",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "overdose",
+    "en_definition": "dose too heavily",
+    "tr_word": "aşırı doz almak",
+    "tr_definition": "bir ilacı veya maddeyi vücudun tolere edebileceğinden fazla miktarda kullanmak",
+    "ru_word": "передозировать",
+    "ru_definition": "ввести слишком большую дозу лекарства или иного вещества",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşırı doz almak"
+                ],
+                "Azerbaijani": [
+                    "artıq dozada qəbul etmək"
+                ],
+                "Turkmen": [
+                    "artykmaç bermek"
+                ],
+                "Uzbek": [
+                    "oshirib yubormoq"
+                ],
+                "Kazakh": [
+                    "асыра мөлшерлеу",
+                    "артық мөлшерлеу"
+                ],
+                "Karakalpak": [
+                    "artıqsha berio"
+                ],
+                "Tatar": [
+                    "артык үлчәү"
+                ],
+                "Bashkir": [
+                    "артыҡ эсеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "həddindən artıq içmək"
+                ],
+                "Uzbek": [
+                    "haddidan oshirmoq"
+                ],
+                "Uyghur": [
+                    "ھەددىدىن زىيادە دورا ئىچمەك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ko'p bermoq"
+                ],
+                "Tatar": [
+                    "күп бирү"
+                ],
+                "Bashkir": [
+                    "күп эсеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dozu kaçırmak"
+                ],
+                "Azerbaijani": [
+                    "dozanı aşmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çenden aşa bermek"
+                ],
+                "Karakalpak": [
+                    "mólsherden asırıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ölçegden geçirmek"
+                ],
+                "Karakalpak": [
+                    "ólshemnen asırıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чамадан тыш бирү"
+                ],
+                "Bashkir": [
+                    "саманан ашыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fazla doz almak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "me'yordan oshirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دورا مىقدارىنى ئاشۇرۇۋەتمەك",
+                    "دورا مىقدارىدىن ئېشىپ كەتمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мөлшерден асыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ашыкча ич",
+                    "ашыкча колдон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ченемден ашыр"
+                ]
+            }
+        }
+    ]
+}

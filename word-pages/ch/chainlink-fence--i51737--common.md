@@ -1,0 +1,164 @@
+# Chainlink fence
+| Field | Detail |
+|---|---|
+| **ID** | i51737 |
+| **English** | chainlink fence |
+| **Type** | noun |
+| **Definition** | a fence of steel wires woven into a diamond pattern |
+| **Source** | common |
+| **Ortatil** | simtör |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i51737",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chainlink fence",
+    "en_definition": "a fence of steel wires woven into a diamond pattern",
+    "tr_word": "tel örgü çit",
+    "tr_definition": "baklava desenli örülmüş çelik tellerden yapılan çit",
+    "ru_word": "забор из сетки-рабицы",
+    "ru_definition": "забор из стальной проволоки, сплетенной в виде ромбовидной сетки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çit teli"
+                ],
+                "Turkmen": [
+                    "sim germew"
+                ],
+                "Uzbek": [
+                    "simtoʻr"
+                ],
+                "Uyghur": [
+                    "سىم تور"
+                ],
+                "Kazakh": [
+                    "сым тор"
+                ],
+                "Kyrgyz": [
+                    "зым тор"
+                ],
+                "Karakalpak": [
+                    "sım qorshau",
+                    "sım sharbaq"
+                ],
+                "Bashkir": [
+                    "сым кәртә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tor çəpər"
+                ],
+                "Uzbek": [
+                    "toʻrtoʻsiq",
+                    "toʻrdevor"
+                ],
+                "Uyghur": [
+                    "تورلۇق توساق"
+                ],
+                "Kazakh": [
+                    "тор қоршау",
+                    "торлы шарбак"
+                ],
+                "Kyrgyz": [
+                    "тор тосмо",
+                    "тор дубал"
+                ],
+                "Karakalpak": [
+                    "tórtkúl sım"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dəmir tor"
+                ],
+                "Uyghur": [
+                    "تۆمۈر تور توساق"
+                ],
+                "Tatar": [
+                    "тимер койма"
+                ],
+                "Bashkir": [
+                    "тимер селтәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "челтәр койма"
+                ],
+                "Bashkir": [
+                    "селтәр кәртә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tel örgü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kafes tel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "örgü tel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məftil çəpər",
+                    "məftil hörgü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gözenekli haýat",
+                    "gözenekli germew"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sim haýat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чыбыклы койма"
+                ]
+            }
+        }
+    ]
+}
+```
+

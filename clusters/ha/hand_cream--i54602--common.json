@@ -1,0 +1,86 @@
+{
+    "id": "i54602",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hand cream",
+    "en_definition": "moisturizing cream for the hands",
+    "tr_word": "el kremi",
+    "tr_definition": "elleri nemlendirmek ve yumuşatmak için kullanılan krem",
+    "ru_word": "крем для рук",
+    "ru_definition": "увлажняющий крем, предназначенный для ухода за кожей рук",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qo'l malhami",
+                    "qo'l kremi"
+                ],
+                "Uyghur": [
+                    "قول مېيى",
+                    "قول مەلھىمى",
+                    "قول يۇمشىتىش مېيى"
+                ],
+                "Kazakh": [
+                    "қол майы"
+                ],
+                "Kyrgyz": [
+                    "кол май",
+                    "кол үчүн май"
+                ],
+                "Karakalpak": [
+                    "qol mayı"
+                ],
+                "Tatar": [
+                    "кул мае",
+                    "кул кремы"
+                ],
+                "Bashkir": [
+                    "ҡул майы",
+                    "ҡул кремы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "el kremi",
+                    "el merhemi"
+                ],
+                "Azerbaijani": [
+                    "əl kremi",
+                    "əl məlhəmi"
+                ],
+                "Turkmen": [
+                    "el kremi",
+                    "el melhemi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қол жақпасы"
+                ],
+                "Karakalpak": [
+                    "qol jaqpası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "el yumuşatıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қолға арналған жақпа"
+                ]
+            }
+        }
+    ]
+}

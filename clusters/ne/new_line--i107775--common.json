@@ -1,0 +1,109 @@
+{
+    "id": "i107775",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "new line",
+    "en_definition": "the operation that prepares for the next character to be printed or displayed as the first character on the next line",
+    "tr_word": "yeni satır",
+    "tr_definition": "bir sonraki karakterin bir alt satırın başında yazdırılmasını veya görüntülenmesini sağlayan işlem",
+    "ru_word": "новая строка",
+    "ru_definition": "операция, подготавливающая печать или отображение следующего символа в качестве первого символа следующей строки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeni satır"
+                ],
+                "Azerbaijani": [
+                    "yeni sətir"
+                ],
+                "Uzbek": [
+                    "yangi satr",
+                    "yangi qator"
+                ],
+                "Uyghur": [
+                    "يېڭى قۇر"
+                ],
+                "Kazakh": [
+                    "жаңа жол"
+                ],
+                "Kyrgyz": [
+                    "жаңы сап"
+                ],
+                "Karakalpak": [
+                    "jańa qatar",
+                    "jańa jol"
+                ],
+                "Tatar": [
+                    "яңа юл"
+                ],
+                "Bashkir": [
+                    "яңы юл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قۇر بېشى"
+                ],
+                "Tatar": [
+                    "юл башы"
+                ],
+                "Bashkir": [
+                    "юл башы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "satır başı"
+                ],
+                "Turkmen": [
+                    "setirbaşy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alt satır"
+                ],
+                "Azerbaijani": [
+                    "alt sətir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täze setir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇر ئالماشتۇرۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "келесі жол"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сап башы"
+                ]
+            }
+        }
+    ]
+}

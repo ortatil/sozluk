@@ -1,0 +1,143 @@
+{
+    "id": "i67178",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "remembrance",
+    "en_definition": "the ability to recall past occurrences",
+    "tr_word": "hatırlama",
+    "tr_definition": "geçmişteki olayları zihinde canlandırma yeteneği veya eylemi",
+    "ru_word": "воспоминание",
+    "ru_definition": "способность вызывать в памяти события прошлого",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yad"
+                ],
+                "Azerbaijani": [
+                    "yaddaş",
+                    "yad"
+                ],
+                "Turkmen": [
+                    "ýat",
+                    "ýatlama",
+                    "ýadygärlik"
+                ],
+                "Uzbek": [
+                    "yod",
+                    "yodnoma"
+                ],
+                "Uyghur": [
+                    "ياد"
+                ],
+                "Kazakh": [
+                    "жады"
+                ],
+                "Kyrgyz": [
+                    "жады"
+                ],
+                "Karakalpak": [
+                    "yadında tutıo"
+                ],
+                "Tatar": [
+                    "ядкарь"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hatıra",
+                    "hafıza"
+                ],
+                "Azerbaijani": [
+                    "xatirə"
+                ],
+                "Uzbek": [
+                    "xotira"
+                ],
+                "Uyghur": [
+                    "خاتىرە"
+                ],
+                "Karakalpak": [
+                    "xátira"
+                ],
+                "Tatar": [
+                    "хәтер"
+                ],
+                "Bashkir": [
+                    "хәтер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "es"
+                ],
+                "Uyghur": [
+                    "ئەسلەش",
+                    "ئەستە تۇتۇش"
+                ],
+                "Kazakh": [
+                    "естелік",
+                    "ес"
+                ],
+                "Kyrgyz": [
+                    "эстөө",
+                    "эстелик",
+                    "эсте калуу",
+                    "эсте тутуу"
+                ],
+                "Karakalpak": [
+                    "es",
+                    "este saqlao"
+                ],
+                "Tatar": [
+                    "истәлек"
+                ],
+                "Bashkir": [
+                    "иҫ",
+                    "иҫтәлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zikir"
+                ],
+                "Azerbaijani": [
+                    "zikr"
+                ],
+                "Turkmen": [
+                    "zikir"
+                ],
+                "Kazakh": [
+                    "зікір"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anı"
+                ],
+                "Azerbaijani": [
+                    "anma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яҙмыш"
+                ]
+            }
+        }
+    ]
+}

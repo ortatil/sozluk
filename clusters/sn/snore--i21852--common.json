@@ -1,0 +1,79 @@
+{
+    "id": "i21852",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "snore",
+    "en_definition": "breathe noisily during one's sleep",
+    "tr_word": "horlamak",
+    "tr_definition": "uyku sırasında gürültülü bir şekilde nefes alıp vermek",
+    "ru_word": "храпеть",
+    "ru_definition": "издавать во сне хриплый, шумный звук при дыхании",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "horlamak",
+                    "horultu çıkarmak"
+                ],
+                "Azerbaijani": [
+                    "xoruldamaq",
+                    "xorultu salmaq"
+                ],
+                "Turkmen": [
+                    "hor çekmek",
+                    "horlamak"
+                ],
+                "Uzbek": [
+                    "hurrak otmoq",
+                    "hurrak otish"
+                ],
+                "Uyghur": [
+                    "خورەك تارتماق",
+                    "خورەك سالماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қорылдау",
+                    "қорыл жасау"
+                ],
+                "Karakalpak": [
+                    "qorıldau",
+                    "qorıl shıǵarıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хырылдарга",
+                    "хырлавыкларга",
+                    "хыр-хыр килергә"
+                ],
+                "Bashkir": [
+                    "хырылдау",
+                    "хырыллау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pishillamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коңурук тартуу",
+                    "коңурук атуу",
+                    "коңурук"
+                ]
+            }
+        }
+    ]
+}

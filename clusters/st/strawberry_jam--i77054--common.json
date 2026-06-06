@@ -1,0 +1,88 @@
+{
+    "id": "i77054",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "strawberry jam",
+    "en_definition": "made with strawberries",
+    "tr_word": "çilek reçeli",
+    "tr_definition": "Çilek meyvesinden yapılan tatlı bir kahvaltılık yiyecek.",
+    "ru_word": "клубничное варенье",
+    "ru_definition": "Сладкое кушанье, приготовленное из клубники, сваренной в сахаре.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çilek reçeli",
+                    "çilek tatlısı"
+                ],
+                "Azerbaijani": [
+                    "çiyələk cemı"
+                ],
+                "Tatar": [
+                    "җиләк кайнатмасы",
+                    "җиләк вареньесы",
+                    "җиләк мөраббәсе"
+                ],
+                "Bashkir": [
+                    "еләк ҡайнатмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qulupnay murabbosi",
+                    "qulupnay qiyomi"
+                ],
+                "Kazakh": [
+                    "құлпынай тосабы",
+                    "құлпынай шәрбаты"
+                ],
+                "Kyrgyz": [
+                    "кулпунай кыямы",
+                    "кулпунай шириндиги",
+                    "кулпунай мураббасы"
+                ],
+                "Karakalpak": [
+                    "qұlpınay warenesi",
+                    "qұlpınay murabbası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýertutan mürepbesi",
+                    "ýertutan şiresi"
+                ],
+                "Bashkir": [
+                    "ер еләге ҡайнатмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çiyələk mürəbbəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۆلجۈرگەن مۇرابباسى",
+                    "بۆلجۈرگەن مۇراببىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡайын еләге ҡайнатмаһы"
+                ]
+            }
+        }
+    ]
+}

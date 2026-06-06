@@ -1,0 +1,96 @@
+{
+    "id": "i18752",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "at home",
+    "en_definition": "at, to, or toward the place where you reside",
+    "tr_word": "evde",
+    "tr_definition": "ikamet edilen yerde veya konutta bulunma durumu",
+    "ru_word": "дома",
+    "ru_definition": "в своём доме, в месте своего постоянного проживания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "evde",
+                    "evine",
+                    "evinde"
+                ],
+                "Azerbaijani": [
+                    "evdə"
+                ],
+                "Turkmen": [
+                    "öýde"
+                ],
+                "Uzbek": [
+                    "uyda"
+                ],
+                "Uyghur": [
+                    "ئۆيدە",
+                    "ئۆيگە"
+                ],
+                "Kazakh": [
+                    "үйде",
+                    "үйге"
+                ],
+                "Kyrgyz": [
+                    "үйдө",
+                    "үйгө"
+                ],
+                "Karakalpak": [
+                    "úyde",
+                    "úyge"
+                ],
+                "Tatar": [
+                    "өйдә",
+                    "өйгә"
+                ],
+                "Bashkir": [
+                    "өйҙә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "içəridə"
+                ],
+                "Turkmen": [
+                    "içeride"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йортта"
+                ],
+                "Bashkir": [
+                    "йортта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mənzildə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "honaladonda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماكاندا"
+                ]
+            }
+        }
+    ]
+}

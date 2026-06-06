@@ -1,0 +1,91 @@
+{
+    "id": "i6574",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "transgender",
+    "en_definition": "involving a partial or full reversal of gender",
+    "tr_word": "transseksüel",
+    "tr_definition": "cinsiyet kimliğinin doğumda atanan cinsiyetten farklı olması durumuyla ilgili olan",
+    "ru_word": "трансгендерный",
+    "ru_definition": "относящийся к человеку, чья гендерная идентичность не совпадает с полом, приписанным при рождении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cinsiyet değiştiren"
+                ],
+                "Azerbaijani": [
+                    "cinsiyyətini dəyişmiş"
+                ],
+                "Turkmen": [
+                    "jynsyny üýtgeden"
+                ],
+                "Uzbek": [
+                    "jinsi oʻzgargan"
+                ],
+                "Uyghur": [
+                    "جىنسىيىتى ئۆزگەرگەن",
+                    "جىنسىي كىملىكى ئۆزگەرگەن"
+                ],
+                "Kazakh": [
+                    "жынысын ауыстырған",
+                    "жыныс ауыстырушы"
+                ],
+                "Kyrgyz": [
+                    "жынысын алмаштырган"
+                ],
+                "Karakalpak": [
+                    "jınısın ózgertken"
+                ],
+                "Tatar": [
+                    "җенес алыштырган",
+                    "җенес үзгәрткән"
+                ],
+                "Bashkir": [
+                    "енес алмаштырған",
+                    "енесен үҙгәрткән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "transseksüel",
+                    "trans"
+                ],
+                "Azerbaijani": [
+                    "transgender"
+                ],
+                "Turkmen": [
+                    "transgender"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башка жыныстуу"
+                ],
+                "Karakalpak": [
+                    "basqa jınısqa ótken"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xunasa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muxannas"
+                ]
+            }
+        }
+    ]
+}

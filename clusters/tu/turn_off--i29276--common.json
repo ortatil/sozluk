@@ -1,0 +1,138 @@
+{
+    "id": "i29276",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "switch off",
+    "en_definition": "cause to stop operating by disengaging a switch",
+    "tr_word": "kapatmak",
+    "tr_definition": "bir anahtarı devre dışı bırakarak çalışmasını durdurmak",
+    "ru_word": "выключать",
+    "ru_definition": "прекращать работу устройства путем размыкания выключателя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýapmak"
+                ],
+                "Uyghur": [
+                    "ياپماق"
+                ],
+                "Kazakh": [
+                    "жабу"
+                ],
+                "Kyrgyz": [
+                    "жабуу"
+                ],
+                "Karakalpak": [
+                    "jabıo"
+                ],
+                "Tatar": [
+                    "ябу"
+                ],
+                "Bashkir": [
+                    "ябыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "toʻxtatmoq"
+                ],
+                "Uyghur": [
+                    "توختاتماق"
+                ],
+                "Kazakh": [
+                    "тоқтату"
+                ],
+                "Kyrgyz": [
+                    "токтотуу"
+                ],
+                "Karakalpak": [
+                    "toqtatıo"
+                ],
+                "Tatar": [
+                    "туктату"
+                ],
+                "Bashkir": [
+                    "туҡтатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "söndürmek"
+                ],
+                "Azerbaijani": [
+                    "söndürmək"
+                ],
+                "Uzbek": [
+                    "soʻndirmoq"
+                ],
+                "Kazakh": [
+                    "сөндіру"
+                ],
+                "Tatar": [
+                    "сүндерү"
+                ],
+                "Bashkir": [
+                    "һүндереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öçürmek"
+                ],
+                "Uzbek": [
+                    "oʻchirmoq"
+                ],
+                "Uyghur": [
+                    "ئۆچۈرمەك"
+                ],
+                "Kazakh": [
+                    "өшіру"
+                ],
+                "Kyrgyz": [
+                    "өчүрүү"
+                ],
+                "Karakalpak": [
+                    "óshirio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kapatmak"
+                ],
+                "Azerbaijani": [
+                    "qapatmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kesmek"
+                ],
+                "Turkmen": [
+                    "kesmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bağlamaq"
+                ]
+            }
+        }
+    ]
+}

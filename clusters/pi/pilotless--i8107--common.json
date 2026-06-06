@@ -1,0 +1,121 @@
+{
+    "id": "i8107",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "pilotless",
+    "en_definition": "lacking a pilot",
+    "tr_word": "insansız",
+    "tr_definition": "bir pilotu veya sürücüsü olmayan",
+    "ru_word": "беспилотный",
+    "ru_definition": "не имеющий на борту пилота",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "boshqaruvchisiz"
+                ],
+                "Uyghur": [
+                    "باشقۇرغۇچىسىز"
+                ],
+                "Kazakh": [
+                    "басқарусыз"
+                ],
+                "Kyrgyz": [
+                    "башкаруучусуз"
+                ],
+                "Karakalpak": [
+                    "basqarılmaytın"
+                ],
+                "Bashkir": [
+                    "башҡарыусыһыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uçarmansyz"
+                ],
+                "Uzbek": [
+                    "uchuvchisiz"
+                ],
+                "Uyghur": [
+                    "ئۇچقۇچىسىز"
+                ],
+                "Kyrgyz": [
+                    "учкучсуз"
+                ],
+                "Tatar": [
+                    "очучысыз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pilotsuz"
+                ],
+                "Azerbaijani": [
+                    "pilotsuz"
+                ],
+                "Turkmen": [
+                    "pilotly däl"
+                ],
+                "Tatar": [
+                    "пилотсыз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ұшқышсыз"
+                ],
+                "Karakalpak": [
+                    "ushqıshsız"
+                ],
+                "Bashkir": [
+                    "осоусыһыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "insansız"
+                ],
+                "Azerbaijani": [
+                    "insansız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "идарәчесез"
+                ],
+                "Bashkir": [
+                    "идарасыһыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sürücüsüz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dolandyryjysyz"
+                ]
+            }
+        }
+    ]
+}

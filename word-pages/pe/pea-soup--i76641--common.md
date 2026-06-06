@@ -1,0 +1,96 @@
+# Pea soup
+| Field | Detail |
+|---|---|
+| **ID** | i76641 |
+| **English** | pea soup |
+| **Type** | noun |
+| **Definition** | a thick soup made of dried peas (usually made into a puree) |
+| **Source** | common |
+| **Ortatil** | nöhäthör |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i76641",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pea soup",
+    "en_definition": "a thick soup made of dried peas (usually made into a puree)",
+    "tr_word": "bezelye çorbası",
+    "tr_definition": "Kuru bezelyeden yapılan, genellikle püre kıvamında olan koyu bir çorba türü.",
+    "ru_word": "гороховый суп",
+    "ru_definition": "густой суп, приготовленный из сушеного гороха (обычно в виде пюре).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бұршақ сорпа",
+                    "бұршақ көже"
+                ],
+                "Kyrgyz": [
+                    "бурчак шорпо"
+                ],
+                "Karakalpak": [
+                    "búrshaq shorpa",
+                    "búrshaqlı shorpa"
+                ],
+                "Tatar": [
+                    "борчак ашы",
+                    "борчак шулпасы"
+                ],
+                "Bashkir": [
+                    "борсаҡ ашы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "noxud şorbası",
+                    "noxud aşı"
+                ],
+                "Turkmen": [
+                    "nohut çorbasy",
+                    "nohutly çorba"
+                ],
+                "Uzbek": [
+                    "no'xat sho'rva",
+                    "no'xatxo'r",
+                    "no'xatli sho'rva"
+                ],
+                "Uyghur": [
+                    "نوقۇت شورپىسى",
+                    "نوقۇت ئېشى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بۇغداي شورپىسى"
+                ],
+                "Kyrgyz": [
+                    "бурчак шорпосу"
+                ],
+                "Bashkir": [
+                    "борсаҡ шүрпәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bezelye çorbası"
+                ]
+            }
+        }
+    ]
+}
+```
+

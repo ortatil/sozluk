@@ -1,0 +1,95 @@
+{
+    "id": "i41678",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "divorce",
+    "en_definition": "the legal dissolution of a marriage",
+    "tr_word": "boşanma",
+    "tr_definition": "bir evliliğin yasal olarak sona ermesi",
+    "ru_word": "развод",
+    "ru_definition": "расторжение брака в установленном законом порядке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayrılık"
+                ],
+                "Turkmen": [
+                    "ajrylyşyk"
+                ],
+                "Uzbek": [
+                    "ajrim",
+                    "ajralish"
+                ],
+                "Uyghur": [
+                    "ئاجرىشىش"
+                ],
+                "Kazakh": [
+                    "ажырасу"
+                ],
+                "Kyrgyz": [
+                    "ажырашуу"
+                ],
+                "Karakalpak": [
+                    "ajırasıu"
+                ],
+                "Tatar": [
+                    "аерылышу"
+                ],
+                "Bashkir": [
+                    "айырылышыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "talaq"
+                ],
+                "Turkmen": [
+                    "talak"
+                ],
+                "Uzbek": [
+                    "taloq"
+                ],
+                "Uyghur": [
+                    "تالاق"
+                ],
+                "Kazakh": [
+                    "талақ"
+                ],
+                "Kyrgyz": [
+                    "талак"
+                ],
+                "Karakalpak": [
+                    "talaq"
+                ],
+                "Tatar": [
+                    "талак"
+                ],
+                "Bashkir": [
+                    "талаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boşanma"
+                ],
+                "Azerbaijani": [
+                    "boşanma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tefrik"
+                ]
+            }
+        }
+    ]
+}

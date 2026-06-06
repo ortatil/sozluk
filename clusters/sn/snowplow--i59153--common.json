@@ -1,0 +1,97 @@
+{
+    "id": "i59153",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snowplow",
+    "en_definition": "a vehicle used to push snow from roads",
+    "tr_word": "kar küreme aracı",
+    "tr_definition": "yollardaki karları temizlemek için kullanılan araç",
+    "ru_word": "снегоочиститель",
+    "ru_definition": "машина, предназначенная для очистки дорог от снега",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar küreme aracı",
+                    "kar kürüme makinesi",
+                    "kar küreyici"
+                ],
+                "Azerbaijani": [
+                    "qar kürəyən"
+                ],
+                "Turkmen": [
+                    "gar süpüriji",
+                    "gar kürüji"
+                ],
+                "Uzbek": [
+                    "qor kuragich",
+                    "qor suruvchi"
+                ],
+                "Uyghur": [
+                    "قار سۈرگۈچ",
+                    "قار سۈرۈش ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "қар күрегіш"
+                ],
+                "Kyrgyz": [
+                    "кар сүргүч",
+                    "кар күрөгүч"
+                ],
+                "Karakalpak": [
+                    "qar kúreuish"
+                ],
+                "Tatar": [
+                    "кар эттергеч",
+                    "кар сөрткеч"
+                ],
+                "Bashkir": [
+                    "ҡар таҙартыу машинаһы",
+                    "ҡар һөрөүсе",
+                    "ҡар эттергес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar temizleme aracı"
+                ],
+                "Azerbaijani": [
+                    "qar təmizləyən",
+                    "qar təmizləyici"
+                ],
+                "Turkmen": [
+                    "gar arassalaýjy"
+                ],
+                "Uzbek": [
+                    "qor tozalagich"
+                ],
+                "Uyghur": [
+                    "قار تازىلىغۇچ"
+                ],
+                "Kazakh": [
+                    "қар тазалағыш"
+                ],
+                "Kyrgyz": [
+                    "кар тазалагыч"
+                ],
+                "Karakalpak": [
+                    "qar tazalaǵısh"
+                ],
+                "Tatar": [
+                    "кар чистарткыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қар сырғытқыш"
+                ]
+            }
+        }
+    ]
+}

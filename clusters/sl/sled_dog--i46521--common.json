@@ -1,0 +1,93 @@
+{
+    "id": "i46521",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sled dog",
+    "en_definition": "a dog trained to draw a sled usually in a team",
+    "tr_word": "kızak köpeği",
+    "tr_definition": "Genellikle bir ekip halinde kızak çekmek üzere eğitilmiş köpek.",
+    "ru_word": "ездовая собака",
+    "ru_definition": "Собака, обученная для работы в упряжке для перевозки грузов или людей на санях.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çana it",
+                    "çana çekýän it"
+                ],
+                "Uzbek": [
+                    "chana iti"
+                ],
+                "Uyghur": [
+                    "چانىچى ئىت",
+                    "چانا ئىتى"
+                ],
+                "Kazakh": [
+                    "шана иті"
+                ],
+                "Kyrgyz": [
+                    "чана ит",
+                    "чаначы ит"
+                ],
+                "Karakalpak": [
+                    "shana iyti"
+                ],
+                "Tatar": [
+                    "чана эте"
+                ],
+                "Bashkir": [
+                    "сана эте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "koşu köpeği"
+                ],
+                "Azerbaijani": [
+                    "qoşqu iti"
+                ],
+                "Uzbek": [
+                    "qoʻshma it"
+                ],
+                "Kyrgyz": [
+                    "кошмо ит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жегулі ит"
+                ],
+                "Karakalpak": [
+                    "jegis iyti"
+                ],
+                "Tatar": [
+                    "җигүле эт"
+                ],
+                "Bashkir": [
+                    "егеү эте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kızak köpeği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xizək iti"
+                ]
+            }
+        }
+    ]
+}

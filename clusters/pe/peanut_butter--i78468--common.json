@@ -1,0 +1,86 @@
+{
+    "id": "i78468",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "peanut butter",
+    "en_definition": "a spread made from ground peanuts",
+    "tr_word": "fıstık ezmesi",
+    "tr_definition": "ezilmiş yer fıstığından yapılan sürülebilir bir yiyecek",
+    "ru_word": "арахисовое масло",
+    "ru_definition": "пастообразная еда, приготовленная из измельченного арахиса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yer fıstığı ezmesi"
+                ],
+                "Azerbaijani": [
+                    "yerfıstığı əzməsi"
+                ],
+                "Turkmen": [
+                    "ýer hoz ýagy"
+                ],
+                "Uyghur": [
+                    "يەر ياڭىقى مېيى"
+                ],
+                "Kazakh": [
+                    "жер жаңғақ майы",
+                    "жер жаңғақ пастасы"
+                ],
+                "Kyrgyz": [
+                    "жер жаңгак майы",
+                    "жер жаңгак пастасы"
+                ],
+                "Karakalpak": [
+                    "jer jańǵaq mayı",
+                    "jer jańǵaq pastası"
+                ],
+                "Bashkir": [
+                    "ер сәтләүеге пастаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fıstık ezmesi"
+                ],
+                "Azerbaijani": [
+                    "fıstıq əzməsi",
+                    "fıstıq yağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arahis ýagy",
+                    "arahis pastasy"
+                ],
+                "Uzbek": [
+                    "eryong'oq moyi",
+                    "eryong'oq pastasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җир чикләвеге пастасы",
+                    "җир чикләвеге мае"
+                ],
+                "Bashkir": [
+                    "ер сәтләүеге майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يەر ياڭىقى قىيامى"
+                ]
+            }
+        }
+    ]
+}

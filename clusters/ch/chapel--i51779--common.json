@@ -1,0 +1,155 @@
+{
+    "id": "i51779",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chapel",
+    "en_definition": "a place of worship that has its own altar",
+    "tr_word": "şapel",
+    "tr_definition": "kendi sunağı olan küçük ibadethane",
+    "ru_word": "часовня",
+    "ru_definition": "небольшое здание для молитв, обычно без алтаря или с собственным алтарем в составе более крупного здания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mescit"
+                ],
+                "Azerbaijani": [
+                    "məscid"
+                ],
+                "Turkmen": [
+                    "metjit"
+                ],
+                "Uyghur": [
+                    "مەسجىد"
+                ],
+                "Kazakh": [
+                    "мешіт"
+                ],
+                "Kyrgyz": [
+                    "мечит"
+                ],
+                "Karakalpak": [
+                    "meshit"
+                ],
+                "Tatar": [
+                    "мәсҗед"
+                ],
+                "Bashkir": [
+                    "мәсет"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ibadethane"
+                ],
+                "Azerbaijani": [
+                    "ibadətgah"
+                ],
+                "Turkmen": [
+                    "ybadathana"
+                ],
+                "Uzbek": [
+                    "ibodatxona"
+                ],
+                "Uyghur": [
+                    "ئىبادەتخانا"
+                ],
+                "Kazakh": [
+                    "ғибадатхана"
+                ],
+                "Kyrgyz": [
+                    "ибадаткана"
+                ],
+                "Karakalpak": [
+                    "ibadatxana"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "namazhana"
+                ],
+                "Uzbek": [
+                    "namozgoh"
+                ],
+                "Uyghur": [
+                    "نامازگاھ"
+                ],
+                "Kazakh": [
+                    "намазхана"
+                ],
+                "Kyrgyz": [
+                    "намазкана"
+                ],
+                "Karakalpak": [
+                    "namazxana"
+                ],
+                "Tatar": [
+                    "намазлык"
+                ],
+                "Bashkir": [
+                    "намаҙхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dua odası"
+                ],
+                "Azerbaijani": [
+                    "dua evi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "küçük kilise"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məkan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sajdagoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құлшылықхана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гыйбадәтханә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ғибәҙәтхана"
+                ]
+            }
+        }
+    ]
+}

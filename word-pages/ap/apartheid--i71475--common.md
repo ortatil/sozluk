@@ -1,0 +1,192 @@
+# Apartheid
+| Field | Detail |
+|---|---|
+| **ID** | i71475 |
+| **English** | apartheid |
+| **Type** | noun |
+| **Definition** | a social policy or racial segregation involving political and economic and legal discrimination against people who are not Whites; the former official policy in South Africa |
+| **Source** | common |
+| **Ortatil** | ayırımaçilik |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ayırımaçilik** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.77** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| нәсілшілдік | näsilşildik |
+| **Tatar** | |
+| аеру | ayeru |
+| аерымлау | ayerımlau |
+| кысрыклау | kısrıklau |
+| хокуксызлык | xokuksızlık |
+| **Bashkir** | |
+| айырымлау | ayırımlau |
+| айырмалыҡ | ayırmalıq |
+| ҡыҫырыҡлау | qısırıqlau |
+| сикләү | sikläü |
+
+```json
+{
+    "id": "i71475",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "apartheid",
+    "en_definition": "a social policy or racial segregation involving political and economic and legal discrimination against people who are not Whites; the former official policy in South Africa",
+    "tr_word": "apartheid",
+    "tr_definition": "Güney Afrika Cumhuriyeti'nde 1948-1994 yılları arasında uygulanan, beyaz olmayan halka karşı siyasi, ekonomik ve yasal ayrımcılığı öngören ırkçı sistem.",
+    "ru_word": "апартеид",
+    "ru_definition": "политика расовой сегрегации, проводившаяся в Южно-Африканской Республике, основанная на дискриминации групп населения по расовому признаку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayrımcılık"
+                ],
+                "Azerbaijani": [
+                    "ayrı-seçkilik",
+                    "ayrımçılıq"
+                ],
+                "Uzbek": [
+                    "ayirmachilik"
+                ],
+                "Karakalpak": [
+                    "ayırmashılıq"
+                ],
+                "Tatar": [
+                    "аеру",
+                    "аерымлау"
+                ],
+                "Bashkir": [
+                    "айырымлау",
+                    "айырмалыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ırk ayrımcılığı",
+                    "ırk ayrımı"
+                ],
+                "Azerbaijani": [
+                    "irqi ayrı-seçkilik"
+                ],
+                "Turkmen": [
+                    "irkyçylyk"
+                ],
+                "Uzbek": [
+                    "irqchilik",
+                    "irqiy kamsitish",
+                    "irqiy ajratish"
+                ],
+                "Uyghur": [
+                    "ئىرقىي ئايرىمىچىلىق",
+                    "ئىرقىي كەمسىتىش",
+                    "ئىرقىي ئايرىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tefrik"
+                ],
+                "Azerbaijani": [
+                    "təcrid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нәсілдік кемсітушілік",
+                    "нәсілдік алалаушылық",
+                    "нәсілдік бөлектеу",
+                    "нәсілшілдік"
+                ],
+                "Karakalpak": [
+                    "násilshillik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кысрыклау"
+                ],
+                "Bashkir": [
+                    "ҡыҫырыҡлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jynsy kemsitme",
+                    "jynsy aýry-seçkilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "расалык бөлүү",
+                    "расалык басмырлоо",
+                    "расалык чектөө",
+                    "расалык ажырым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bólekleu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kemsitio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хокуксызлык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сикләү"
+                ]
+            }
+        }
+    ]
+}
+```
+

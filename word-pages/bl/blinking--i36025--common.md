@@ -1,0 +1,149 @@
+# Blinking
+| Field | Detail |
+|---|---|
+| **ID** | i36025 |
+| **English** | blinking |
+| **Type** | noun |
+| **Definition** | a reflex that closes and opens the eyes rapidly |
+| **Source** | common |
+| **Ortatil** | qırpıma |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жыпылықтату | jıpılıqtatu |
+| жыпылық | jıpılıq |
+| **Kyrgyz** | |
+| ирмөө | irmöö |
+| имек | imek |
+| **Bashkir** | |
+| ҡағыу | qağıu |
+
+```json
+{
+    "id": "i36025",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blinking",
+    "en_definition": "a reflex that closes and opens the eyes rapidly",
+    "tr_word": "göz kırpma",
+    "tr_definition": "gözleri hızla kapatıp açan bir refleks",
+    "ru_word": "мигание",
+    "ru_definition": "рефлекс, при котором глаза быстро закрываются и открываются",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz kırpma",
+                    "göz kırpış",
+                    "göz kırpıştırma"
+                ],
+                "Azerbaijani": [
+                    "gözqırpma"
+                ],
+                "Turkmen": [
+                    "göz gyrpma"
+                ],
+                "Uzbek": [
+                    "ko'z qisish"
+                ],
+                "Uyghur": [
+                    "كۆز قىسىش",
+                    "كۆز پىلدىتلاش"
+                ],
+                "Kazakh": [
+                    "көз қағу",
+                    "көз ілу"
+                ],
+                "Kyrgyz": [
+                    "көз ирмөө"
+                ],
+                "Karakalpak": [
+                    "kóz qaǵıs",
+                    "kóz jumǵansha",
+                    "kóz ilme"
+                ],
+                "Tatar": [
+                    "күз кагу",
+                    "күз йому"
+                ],
+                "Bashkir": [
+                    "көҙ ҡағыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ko'z yumib-ochish"
+                ],
+                "Uyghur": [
+                    "كۆز يۇمۇپ ئېچىش"
+                ],
+                "Tatar": [
+                    "күз йомып-ачу"
+                ],
+                "Bashkir": [
+                    "көҙ йомоп-асыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qırpma",
+                    "qırpım"
+                ],
+                "Turkmen": [
+                    "gyrpym",
+                    "gyrpyş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kiprik qoqish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жыпылықтату",
+                    "жыпылық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ирмөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "имек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡағыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

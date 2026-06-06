@@ -1,0 +1,118 @@
+{
+    "id": "i12479",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "seeded",
+    "en_definition": "having or supplied with seeds",
+    "tr_word": "tohumlu",
+    "tr_definition": "tohumu olan veya tohum içeren",
+    "ru_word": "семенной",
+    "ru_definition": "имеющий семена или снабженный семенами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dənəli"
+                ],
+                "Turkmen": [
+                    "däneli"
+                ],
+                "Uzbek": [
+                    "danakli"
+                ],
+                "Uyghur": [
+                    "دانلىق"
+                ],
+                "Kazakh": [
+                    "дәнді"
+                ],
+                "Kyrgyz": [
+                    "данектүү"
+                ],
+                "Karakalpak": [
+                    "dánli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "urugʻli"
+                ],
+                "Uyghur": [
+                    "ئۇرۇقلۇق",
+                    "ئۇرۇقى بار"
+                ],
+                "Kazakh": [
+                    "ұрықты"
+                ],
+                "Kyrgyz": [
+                    "уруктуу"
+                ],
+                "Tatar": [
+                    "орлыклы",
+                    "орлык салынган"
+                ],
+                "Bashkir": [
+                    "орлоҡло"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tohumlu"
+                ],
+                "Azerbaijani": [
+                    "toxumlu"
+                ],
+                "Turkmen": [
+                    "tohumly"
+                ],
+                "Kazakh": [
+                    "тұқымды"
+                ],
+                "Karakalpak": [
+                    "tuqımlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekirdekli"
+                ],
+                "Azerbaijani": [
+                    "çəyirdəkli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бөртекле"
+                ],
+                "Bashkir": [
+                    "бөртөклө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "magʻizli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәселгән"
+                ]
+            }
+        }
+    ]
+}

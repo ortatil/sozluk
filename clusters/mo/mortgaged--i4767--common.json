@@ -1,0 +1,163 @@
+{
+    "id": "i4767",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "mortgaged",
+    "en_definition": "burdened with legal or financial obligations",
+    "tr_word": "ipotekli",
+    "tr_definition": "Yasal veya mali yükümlülükler altına girmiş, üzerinde ipotek bulunan.",
+    "ru_word": "заложенный",
+    "ru_definition": "Отягощенный юридическими или финансовыми обязательствами, находящийся под залогом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rehinli"
+                ],
+                "Azerbaijani": [
+                    "rəhnli"
+                ],
+                "Turkmen": [
+                    "rehinli"
+                ],
+                "Uzbek": [
+                    "rehn qilingan"
+                ],
+                "Uyghur": [
+                    "رەنىلىك"
+                ],
+                "Tatar": [
+                    "рәхенле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "girov",
+                    "girovlu"
+                ],
+                "Turkmen": [
+                    "girewe goýlan",
+                    "girewdäki"
+                ],
+                "Uzbek": [
+                    "garovga qo'yilgan",
+                    "garovdagi"
+                ],
+                "Karakalpak": [
+                    "gireoge qoyılǵan",
+                    "gireoli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "borçlu"
+                ],
+                "Azerbaijani": [
+                    "borclu"
+                ],
+                "Turkmen": [
+                    "borçly"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yükümlü"
+                ],
+                "Tatar": [
+                    "йөкләмәле"
+                ],
+                "Bashkir": [
+                    "йөкләмәле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bog'langan"
+                ],
+                "Kyrgyz": [
+                    "байланган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۆرۈگە قويۇلغان"
+                ],
+                "Kyrgyz": [
+                    "күрөөгө коюлган",
+                    "күрөөдөгү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кепілге қойылған",
+                    "кепілді",
+                    "кепілдегі"
+                ],
+                "Karakalpak": [
+                    "kepillikke berilgen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "залоглы"
+                ],
+                "Bashkir": [
+                    "залоглы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ipotekli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "öhdəlikli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رەنىگە قويۇلغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "милдеттендирилген"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аманатлы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+# Genoa
+| Field | Detail |
+|---|---|
+| **ID** | i83133 |
+| **English** | genoa |
+| **Type** | noun |
+| **Definition** | a seaport in northwestern Italy; provincial capital of Liguria |
+| **Source** | common |
+| **Ortatil** | genuya |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **genuya** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| گېنۇئا | genua |
+| گېنۇيە | genuyä |
+| **Kazakh** | |
+| Генуя | genuya |
+| Женоа | jenoa |
+| **Kyrgyz** | |
+| Генуя | genuya |
+| **Tatar** | |
+| Генуя | genuya |
+| Җенуя | jenuya |
+| **Bashkir** | |
+| Генуя | genuya |
+
+```json
+{
+    "id": "i83133",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "genoa",
+    "en_definition": "a seaport in northwestern Italy; provincial capital of Liguria",
+    "tr_word": "Cenova",
+    "tr_definition": "Kuzeybatı İtalya'da bir liman kenti; Ligurya bölgesinin başkenti",
+    "ru_word": "Генуя",
+    "ru_definition": "портовый город на северо-западе Италии; административный центр региона Лигурия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Cenova"
+                ],
+                "Azerbaijani": [
+                    "Genova",
+                    "Cenova"
+                ],
+                "Turkmen": [
+                    "Genowa"
+                ],
+                "Uzbek": [
+                    "Genuya"
+                ],
+                "Uyghur": [
+                    "گېنۇئا",
+                    "گېنۇيە"
+                ],
+                "Kazakh": [
+                    "Генуя",
+                    "Женоа"
+                ],
+                "Kyrgyz": [
+                    "Генуя"
+                ],
+                "Karakalpak": [
+                    "Genuya"
+                ],
+                "Tatar": [
+                    "Генуя",
+                    "Җенуя"
+                ],
+                "Bashkir": [
+                    "Генуя"
+                ]
+            }
+        }
+    ]
+}
+```
+

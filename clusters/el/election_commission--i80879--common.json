@@ -1,0 +1,67 @@
+{
+    "id": "i80879",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "election commission",
+    "en_definition": "a commission delegated to supervise an election",
+    "tr_word": "seçim kurulu",
+    "tr_definition": "bir seçimin yönetiminden ve denetlenmesinden sorumlu olan kurul",
+    "ru_word": "избирательная комиссия",
+    "ru_definition": "орган, осуществляющий подготовку и проведение выборов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saýlaw topary",
+                    "saýlaw komissiýasy",
+                    "saýlaw geňeşi"
+                ],
+                "Uzbek": [
+                    "saylov komissiyasi",
+                    "saylov hay'ati"
+                ],
+                "Uyghur": [
+                    "سايلام كومىتېتى",
+                    "سايلام ھەيئىتى"
+                ],
+                "Kazakh": [
+                    "сайлау комиссиясы",
+                    "сайлау алқасы"
+                ],
+                "Kyrgyz": [
+                    "шайлоо комиссиясы",
+                    "шайлоо кеңеши",
+                    "шайлоо комитети"
+                ],
+                "Karakalpak": [
+                    "saylao komissiyası",
+                    "saylao hayatı"
+                ],
+                "Tatar": [
+                    "сайлау комиссиясе",
+                    "сайлаулар комиссиясе",
+                    "сайлаулар идарәсе"
+                ],
+                "Bashkir": [
+                    "һайлау комиссияһы",
+                    "һайлау идараһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "seçim kurulu",
+                    "seçim komisyonu",
+                    "seçim heyeti"
+                ],
+                "Azerbaijani": [
+                    "seçki komissiyası",
+                    "seçki heyəti",
+                    "seçki qurumu"
+                ]
+            }
+        }
+    ]
+}

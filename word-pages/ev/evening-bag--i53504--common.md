@@ -1,0 +1,142 @@
+# Evening bag
+| Field | Detail |
+|---|---|
+| **ID** | i53504 |
+| **English** | evening bag |
+| **Type** | noun |
+| **Definition** | a handbag used with evening wear |
+| **Source** | common |
+| **Ortatil** | torba |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i53504",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "evening bag",
+    "en_definition": "a handbag used with evening wear",
+    "tr_word": "gece çantası",
+    "tr_definition": "Gece kıyafetleriyle birlikte kullanılan küçük ve şık el çantası.",
+    "ru_word": "вечерняя сумочка",
+    "ru_definition": "Небольшая нарядная сумка, предназначенная для ношения с вечерним нарядом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gece çantası"
+                ],
+                "Azerbaijani": [
+                    "gecə çantası",
+                    "kiçik çanta"
+                ],
+                "Turkmen": [
+                    "kiçi sumka"
+                ],
+                "Uzbek": [
+                    "kichik sumka"
+                ],
+                "Uyghur": [
+                    "كەچلىك سومكا"
+                ],
+                "Kazakh": [
+                    "кешкі сөмке",
+                    "кешкі қоржын"
+                ],
+                "Kyrgyz": [
+                    "кечки баштык",
+                    "кечки баштыкча",
+                    "кечки капчык"
+                ],
+                "Karakalpak": [
+                    "keshki súmke",
+                    "keshki qolsúmke"
+                ],
+                "Tatar": [
+                    "кичке сумка",
+                    "кичке янчык",
+                    "кечкенә сумка"
+                ],
+                "Bashkir": [
+                    "киске сумка",
+                    "киске ҡул сумкаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əl çantası"
+                ],
+                "Turkmen": [
+                    "el sumkasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qoʻl sumka"
+                ],
+                "Uyghur": [
+                    "قول سومكا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "abiye çanta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "portföy çanta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "torba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bazm sumkasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زىياپەت سومكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сән сөмкесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәй сумка"
+                ]
+            }
+        }
+    ]
+}
+```
+

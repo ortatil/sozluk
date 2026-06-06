@@ -1,0 +1,263 @@
+# Bear up
+| Field | Detail |
+|---|---|
+| **ID** | i25067 |
+| **English** | bear up |
+| **Type** | verb |
+| **Definition** | endure cheerfully |
+| **Source** | common |
+| **Ortatil** | çıdamaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **çıdamaq** | **ḍözmäk** | **ködürmäk** |
+|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ |
+| Azerbaijani | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ | ❌ |
+| Karakalpak | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ✅ |
+| Bashkir | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.67 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.80 | 0.60 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |
+| **O'TQ** | **2.83** | **1.97** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| шыдау | şıdau |
+| төзу | tözu |
+| көтеру | köteru |
+| **Kyrgyz** | |
+| чыдоо | çıdoo |
+| төзүү | tözüü |
+| **Tatar** | |
+| чыдау | çıdau |
+| түзү | tüzü |
+| күтәрү | kütärü |
+| **Bashkir** | |
+| сыҙау | sızau |
+| түҙеү | tüzeü |
+| бирешмәү | bireşmäü |
+
+```json
+{
+    "id": "i25067",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "bear up",
+    "en_definition": "endure cheerfully",
+    "tr_word": "metanetini korumak",
+    "tr_definition": "zorluklara karşı neşesini veya cesaretini kaybetmeden dayanmak",
+    "ru_word": "держаться бодро",
+    "ru_definition": "стойко и оптимистично переносить трудности или испытания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sabretmek"
+                ],
+                "Azerbaijani": [
+                    "səbr etmək"
+                ],
+                "Turkmen": [
+                    "sabyr etmek"
+                ],
+                "Uzbek": [
+                    "sabr qilmoq"
+                ],
+                "Uyghur": [
+                    "سەبىر قىلماق"
+                ],
+                "Kazakh": [
+                    "сабыр ету"
+                ],
+                "Kyrgyz": [
+                    "сабыр кылуу"
+                ],
+                "Karakalpak": [
+                    "sabır etiu"
+                ],
+                "Tatar": [
+                    "сабыр итү"
+                ],
+                "Bashkir": [
+                    "сабыр итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çydamak"
+                ],
+                "Uzbek": [
+                    "chidamoq"
+                ],
+                "Uyghur": [
+                    "چىدام قىلماق"
+                ],
+                "Kazakh": [
+                    "шыдау"
+                ],
+                "Kyrgyz": [
+                    "чыдоо"
+                ],
+                "Karakalpak": [
+                    "shıdau"
+                ],
+                "Tatar": [
+                    "чыдау"
+                ],
+                "Bashkir": [
+                    "сыҙау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dözmək"
+                ],
+                "Turkmen": [
+                    "dözmek"
+                ],
+                "Kazakh": [
+                    "төзу"
+                ],
+                "Kyrgyz": [
+                    "төзүү"
+                ],
+                "Karakalpak": [
+                    "tózіmdіlіk etu"
+                ],
+                "Tatar": [
+                    "түзү"
+                ],
+                "Bashkir": [
+                    "түҙеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bardosh bermoq"
+                ],
+                "Uyghur": [
+                    "بەرداشلىق بەرمەك"
+                ],
+                "Karakalpak": [
+                    "bárine kóniu"
+                ],
+                "Bashkir": [
+                    "бирешмәү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dayanmak"
+                ],
+                "Azerbaijani": [
+                    "dayanmaq"
+                ],
+                "Turkmen": [
+                    "takat getirmek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tahammül etmek"
+                ],
+                "Uzbek": [
+                    "toqat qilmoq"
+                ],
+                "Uyghur": [
+                    "تاقەت قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "metanet göstermek"
+                ],
+                "Azerbaijani": [
+                    "mətanət göstərmək"
+                ],
+                "Uzbek": [
+                    "matonat ko'rsatmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көтеру"
+                ],
+                "Karakalpak": [
+                    "kóteriu"
+                ],
+                "Tatar": [
+                    "күтәрү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göğüs germek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tab gətirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қажырлылық таныту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кайрат кылуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бекем болуу"
+                ]
+            }
+        }
+    ]
+}
+```
+

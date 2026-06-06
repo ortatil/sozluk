@@ -1,0 +1,130 @@
+# Northern flying squirrel
+| Field | Detail |
+|---|---|
+| **ID** | i47974 |
+| **English** | northern flying squirrel |
+| **Type** | noun |
+| **Definition** | large flying squirrel; chiefly of Canada |
+| **Source** | common |
+| **Ortatil** | uç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ұшар | uşar |
+
+```json
+{
+    "id": "i47974",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "northern flying squirrel",
+    "en_definition": "large flying squirrel; chiefly of Canada",
+    "tr_word": "kuzey uçan sincabı",
+    "tr_definition": "Genellikle Kanada'da bulunan, süzülerek uçma yeteneğine sahip iri bir sincap türü.",
+    "ru_word": "северная летяга",
+    "ru_definition": "Крупная белка-летяга, обитающая преимущественно в Канаде и северных районах США.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uçan sincap"
+                ],
+                "Azerbaijani": [
+                    "uçan sincab"
+                ],
+                "Turkmen": [
+                    "uçar",
+                    "uçýan belka",
+                    "uçar tylla"
+                ],
+                "Uzbek": [
+                    "uchma olmaxon"
+                ],
+                "Uyghur": [
+                    "ئۇچار تىيىن"
+                ],
+                "Kazakh": [
+                    "ұшар тиін"
+                ],
+                "Karakalpak": [
+                    "ushar tıshqan",
+                    "ushar tiyin"
+                ],
+                "Tatar": [
+                    "очар тиен"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kanatlı sincap"
+                ],
+                "Azerbaijani": [
+                    "qanadlı sincab"
+                ],
+                "Uyghur": [
+                    "قاناتلىق تىيىن"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "uchuvchi olmaxon"
+                ],
+                "Kyrgyz": [
+                    "учуучу тыйын чычкан",
+                    "учуучу чычкан"
+                ],
+                "Tatar": [
+                    "очучы тиен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şimal uçan sincabı"
+                ],
+                "Uzbek": [
+                    "shimoil uchuvchi olmaxoni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuzey uçan sincabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұшар",
+                    "ұшатын тиін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "осоусы тейен",
+                    "осма тейен"
+                ]
+            }
+        }
+    ]
+}
+```
+

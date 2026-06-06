@@ -1,0 +1,107 @@
+# Coral snake
+| Field | Detail |
+|---|---|
+| **ID** | i44497 |
+| **English** | coral snake |
+| **Type** | noun |
+| **Definition** | any of several venomous New World snakes brilliantly banded in red and black and either yellow or white; widely distributed in South America and Central America |
+| **Source** | common |
+| **Ortatil** | aspit |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| аспид | aspid |
+
+```json
+{
+    "id": "i44497",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coral snake",
+    "en_definition": "any of several venomous New World snakes brilliantly banded in red and black and either yellow or white; widely distributed in South America and Central America",
+    "tr_word": "mercan yılanı",
+    "tr_definition": "kırmızı, siyah ve sarı veya beyaz halkalı, oldukça zehirli bir yılan türü",
+    "ru_word": "коралловый аспид",
+    "ru_definition": "род ядовитых змей с яркой окраской из красных, чёрных и жёлтых колец",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mercan yılanı"
+                ],
+                "Azerbaijani": [
+                    "mərcan ilanı",
+                    "mərcanvari ilan"
+                ],
+                "Turkmen": [
+                    "merjen ýylany"
+                ],
+                "Uzbek": [
+                    "marjon ilon"
+                ],
+                "Uyghur": [
+                    "مارجان يىلان"
+                ],
+                "Kazakh": [
+                    "маржан жылан"
+                ],
+                "Karakalpak": [
+                    "marjan jılan"
+                ],
+                "Tatar": [
+                    "мәрҗән еланы",
+                    "мәрҗән елан"
+                ],
+                "Bashkir": [
+                    "мәрйен йыланы",
+                    "мәрйен йылан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "reňkli ýylan"
+                ],
+                "Uzbek": [
+                    "rangdor ilon"
+                ],
+                "Uyghur": [
+                    "رەڭدار يىلان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аспид"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коралл жыланы",
+                    "коралл чаар жылан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ala jılan"
+                ]
+            }
+        }
+    ]
+}
+```
+

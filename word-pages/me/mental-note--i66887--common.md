@@ -1,0 +1,200 @@
+# Mental note
+| Field | Detail |
+|---|---|
+| **ID** | i66887 |
+| **English** | mental note |
+| **Type** | noun |
+| **Definition** | special attention with intent to remember |
+| **Source** | common |
+| **Ortatil** | hatira |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i66887",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mental note",
+    "en_definition": "special attention with intent to remember",
+    "tr_word": "zihinsel not",
+    "tr_definition": "hatırlamak amacıyla bir şeyi akılda tutma eylemi",
+    "ru_word": "заметка в уме",
+    "ru_definition": "особое внимание к чему-либо с намерением запомнить это без записи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zihin notu"
+                ],
+                "Azerbaijani": [
+                    "zehni qeyd"
+                ],
+                "Turkmen": [
+                    "zehin belligi"
+                ],
+                "Uzbek": [
+                    "zehn"
+                ],
+                "Uyghur": [
+                    "زېھىندە تۇتۇش"
+                ],
+                "Kazakh": [
+                    "зейін қою"
+                ],
+                "Karakalpak": [
+                    "zeyin"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eslatma"
+                ],
+                "Uyghur": [
+                    "ئېسىدە ساقلاش"
+                ],
+                "Kazakh": [
+                    "есте сақтау"
+                ],
+                "Kyrgyz": [
+                    "эсте тутуу",
+                    "эске сактоо"
+                ],
+                "Karakalpak": [
+                    "este saqlao"
+                ],
+                "Tatar": [
+                    "истә калдыру",
+                    "истә тоту"
+                ],
+                "Bashkir": [
+                    "иҫтә ҡалдырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xatirə"
+                ],
+                "Uzbek": [
+                    "xotira"
+                ],
+                "Uyghur": [
+                    "خاتىرىدە تۇتۇش"
+                ],
+                "Tatar": [
+                    "хәтергә алу"
+                ],
+                "Bashkir": [
+                    "хәтергә алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كۆڭۈلگە پۈكۈش"
+                ],
+                "Kazakh": [
+                    "көңілге түю"
+                ],
+                "Kyrgyz": [
+                    "көңүлгө түйүү"
+                ],
+                "Tatar": [
+                    "күңелгә салу"
+                ],
+                "Bashkir": [
+                    "күңелгә төйөү",
+                    "күңелгә һалыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yaddaş",
+                    "yad"
+                ],
+                "Turkmen": [
+                    "ýatda saklama"
+                ],
+                "Uzbek": [
+                    "yod"
+                ],
+                "Kazakh": [
+                    "жадында ұстау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akıl notu",
+                    "akılda tutma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hafıza kaydı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qeyd"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bellik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dykgat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дилге түйүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "itibar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kókirekke túyio"
+                ]
+            }
+        }
+    ]
+}
+```
+

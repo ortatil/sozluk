@@ -1,0 +1,130 @@
+# Reignite
+| Field | Detail |
+|---|---|
+| **ID** | i35482 |
+| **English** | reignite |
+| **Type** | verb |
+| **Definition** | ignite anew, as of something burning |
+| **Source** | common |
+| **Ortatil** | canlandırmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i35482",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "reignite",
+    "en_definition": "ignite anew, as of something burning",
+    "tr_word": "yeniden alevlendirmek",
+    "tr_definition": "yanan bir şeyi tekrar tutuşturmak veya bir duyguyu yeniden canlandırmak",
+    "ru_word": "вновь разжечь",
+    "ru_definition": "зажечь снова, как в случае с чем-то горящим, или возобновить интерес/чувство",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan tutaşdyrmak",
+                    "gaýtadan ýakmak"
+                ],
+                "Uzbek": [
+                    "qayta yoqmoq",
+                    "qayta tutashtirmoq",
+                    "qayta alangalantirmoq",
+                    "qayta yondirmoq"
+                ],
+                "Uyghur": [
+                    "قايتا تۇتاشتۇرماق",
+                    "قايتا ياندۇرماق",
+                    "قايتا ئوت ئالدۇرماق"
+                ],
+                "Kazakh": [
+                    "қайта тұтату",
+                    "қайта жағу",
+                    "қайта жандыру",
+                    "қайта лапылдату"
+                ],
+                "Kyrgyz": [
+                    "кайра тутантуу",
+                    "кайра жандыруу",
+                    "кайра жагуу"
+                ],
+                "Karakalpak": [
+                    "qayta jaǵu",
+                    "qayta tutandırıo",
+                    "qayta lap ettirio",
+                    "qayta jandırıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden yakmak",
+                    "canlandırmak"
+                ],
+                "Azerbaijani": [
+                    "yenidən alışdırmaq",
+                    "yenidən tutuşdurmaq"
+                ],
+                "Kyrgyz": [
+                    "жаңыдан тутантуу"
+                ],
+                "Tatar": [
+                    "яңадан кабызу",
+                    "яңадан яндыру"
+                ],
+                "Bashkir": [
+                    "яңынан тоҡандырыу",
+                    "яңынан ялҡынландырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təzədən yandırmaq",
+                    "təzələmək"
+                ],
+                "Turkmen": [
+                    "täzeden ýakmak",
+                    "täzeden tutaşdyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат кабызу",
+                    "кабат яндыру"
+                ],
+                "Bashkir": [
+                    "ҡабат тоҡандырыу",
+                    "ҡабаттан яндырып ебәреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tazelemek",
+                    "alevlendirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tutuşturmak"
+                ]
+            }
+        }
+    ]
+}
+```
+

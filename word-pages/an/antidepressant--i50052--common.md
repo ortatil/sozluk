@@ -1,0 +1,181 @@
+# Antidepressant
+| Field | Detail |
+|---|---|
+| **ID** | i50052 |
+| **English** | antidepressant |
+| **Type** | noun |
+| **Definition** | any of a class of drugs used to treat depression; often have undesirable side effects |
+| **Source** | common |
+| **Ortatil** | antidepresan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i50052",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "antidepressant",
+    "en_definition": "any of a class of drugs used to treat depression; often have undesirable side effects",
+    "tr_word": "antidepresan",
+    "tr_definition": "depresyonu tedavi etmek için kullanılan, genellikle istenmeyen yan etkileri olan bir ilaç sınıfı",
+    "ru_word": "антидепрессант",
+    "ru_definition": "любой из класса препаратов, используемых для лечения депрессии; часто имеют нежелательные побочные эффекты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ruhsal canlandırıcı"
+                ],
+                "Azerbaijani": [
+                    "ruh düşkünlüyü əleyhinə vasitə"
+                ],
+                "Turkmen": [
+                    "ruhlandyryjy derman"
+                ],
+                "Uzbek": [
+                    "ruhiy quvvat beruvchi dori"
+                ],
+                "Uyghur": [
+                    "روھلاندۇرۇش دورىسى"
+                ],
+                "Karakalpak": [
+                    "ruxıy sergekletkish"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көңіл-күйді көтеретін дәрі"
+                ],
+                "Kyrgyz": [
+                    "көңүл көтөрүүчү дары"
+                ],
+                "Karakalpak": [
+                    "kóńil-kúydi kóterioshi dári"
+                ],
+                "Tatar": [
+                    "күңел күтәргеч",
+                    "күңел ачкыч"
+                ],
+                "Bashkir": [
+                    "күңел төшөнкөлөгөнән дарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "antidepresan"
+                ],
+                "Azerbaijani": [
+                    "depressiya əleyhinə dərman"
+                ],
+                "Turkmen": [
+                    "depressiýa garşy derman"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "göwün açyjy derman"
+                ],
+                "Kazakh": [
+                    "күйзеліске қарсы дәрі"
+                ],
+                "Bashkir": [
+                    "көйһөҙлөктән дарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tushkunlikka qarshi dori"
+                ],
+                "Uyghur": [
+                    "چۈشكۈنلۈككە قارشى دورا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кайгыны басуучу дары"
+                ],
+                "Bashkir": [
+                    "ҡайғы-хәсрәткә ҡаршы дарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тынчтандыруучу дары"
+                ],
+                "Karakalpak": [
+                    "tınıshlandırıoshı dári"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çöküntü giderici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kədər əleyhinə dərman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asabni tinchlantiruvchi dori"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خاپىلىققا قارشى دورا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұң басатын дәрі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сагыш даруы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәсрәт даруы"
+                ]
+            }
+        }
+    ]
+}
+```
+

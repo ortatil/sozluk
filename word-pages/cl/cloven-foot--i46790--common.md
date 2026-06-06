@@ -1,0 +1,136 @@
+# Cloven foot
+| Field | Detail |
+|---|---|
+| **ID** | i46790 |
+| **English** | cloven foot |
+| **Type** | noun |
+| **Definition** | a hoof divided into two parts at its distal extremity (as of ruminants or swine) |
+| **Source** | common |
+| **Ortatil** | toynak |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i46790",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cloven foot",
+    "en_definition": "a hoof divided into two parts at its distal extremity (as of ruminants or swine)",
+    "tr_word": "çatal tırnak",
+    "tr_definition": "Geviş getirenlerde ve domuzlarda olduğu gibi, ucu ikiye bölünmüş olan tırnak yapısı.",
+    "ru_word": "раздвоенное копыто",
+    "ru_definition": "Копыто, разделенное на две части у жвачных животных и свиней.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ayri tuyoq"
+                ],
+                "Kazakh": [
+                    "айыр тұяқ"
+                ],
+                "Karakalpak": [
+                    "ayır tuyaq",
+                    "ayrı tuyaq"
+                ],
+                "Tatar": [
+                    "аерма тояк"
+                ],
+                "Bashkir": [
+                    "айыр тояҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşa dırnaq"
+                ],
+                "Turkmen": [
+                    "goşa toýnak"
+                ],
+                "Kazakh": [
+                    "қос тұяқ"
+                ],
+                "Tatar": [
+                    "куш тояк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çatal tırnak"
+                ],
+                "Azerbaijani": [
+                    "çatal dırnaq"
+                ],
+                "Uyghur": [
+                    "ئچا تۇياق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئچا پۇت",
+                    "ئاچا تۇياق"
+                ],
+                "Kazakh": [
+                    "аша тұяқ"
+                ],
+                "Kyrgyz": [
+                    "ача туяк",
+                    "ача туяктуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift tırnak"
+                ],
+                "Uzbek": [
+                    "juft tuyoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "parçalanmış dırnaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "toýnak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ярык тояк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ике айырлы тояҡ"
+                ]
+            }
+        }
+    ]
+}
+```
+

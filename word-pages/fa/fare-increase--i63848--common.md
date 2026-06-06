@@ -1,0 +1,133 @@
+# Fare increase
+| Field | Detail |
+|---|---|
+| **ID** | i63848 |
+| **English** | fare increase |
+| **Type** | noun |
+| **Definition** | increase in the sum charged for riding in a public conveyance |
+| **Source** | common |
+| **Ortatil** | zam |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i63848",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fare increase",
+    "en_definition": "increase in the sum charged for riding in a public conveyance",
+    "tr_word": "ücret artışı",
+    "tr_definition": "toplu taşıma araçlarında yolculuk için alınan ücretin artırılması",
+    "ru_word": "повышение стоимости проезда",
+    "ru_definition": "увеличение суммы, взимаемой за проезд в общественном транспорте",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yol haqqının artırılması",
+                    "qiymət artımı"
+                ],
+                "Turkmen": [
+                    "ýol hakynyň artmagy"
+                ],
+                "Uyghur": [
+                    "يول ھەققىنىڭ ئۆسۈشى"
+                ],
+                "Kazakh": [
+                    "жолақының қымбаттауы",
+                    "жолақының өсуі",
+                    "жолақының көтерілуі"
+                ],
+                "Kyrgyz": [
+                    "жол акынын кымбатташы",
+                    "жол акынын жогорулашы"
+                ],
+                "Karakalpak": [
+                    "jol haqınıń qımbatlasıuı",
+                    "jol haqınıń ósiui"
+                ],
+                "Tatar": [
+                    "юл хакы арту",
+                    "юл хакы күтәрелү",
+                    "юл хакы өстәлү"
+                ],
+                "Bashkir": [
+                    "юл хаҡы артыуы",
+                    "юл хаҡы күтәрелеүе",
+                    "юл хаҡы ҡиммәтләнеүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýol kireýiniň gymmatlamagy",
+                    "ýol kireýiniň ýokarlanmagy"
+                ],
+                "Uyghur": [
+                    "يول كىراسىنىڭ ئۆسۈشى",
+                    "يول كىراسىنىڭ ئۆرلىشى"
+                ],
+                "Kyrgyz": [
+                    "жол киренин өсүшү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kirakashlik narxi oshishi"
+                ],
+                "Karakalpak": [
+                    "kire haqınıń kóteriliui"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fiyat artışı",
+                    "bilet zammı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ücret artışı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gediş haqqının artımı",
+                    "gediş haqqı artımı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yoʻl haqi oshishi",
+                    "yoʻl haqi koʻtarilishi",
+                    "yoʻl haqi qimmatlashishi"
+                ]
+            }
+        }
+    ]
+}
+```
+

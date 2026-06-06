@@ -1,0 +1,228 @@
+# Sneak in
+| Field | Detail |
+|---|---|
+| **ID** | i27768 |
+| **English** | sneak in |
+| **Type** | verb |
+| **Definition** | enter surreptitiously |
+| **Source** | common |
+| **Ortatil** | sokulmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| сұғыну | suğınu |
+
+```json
+{
+    "id": "i27768",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "sneak in",
+    "en_definition": "enter surreptitiously",
+    "tr_word": "gizlice girmek",
+    "tr_definition": "fark edilmeden veya gizlice bir yere girmek",
+    "ru_word": "прокрасться",
+    "ru_definition": "незаметно или тайно войти куда-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bildirmän girmek"
+                ],
+                "Uzbek": [
+                    "bildirmay kirmoq"
+                ],
+                "Uyghur": [
+                    "بىلدۈرمەي كىرىش"
+                ],
+                "Kazakh": [
+                    "білдіртпей кіру"
+                ],
+                "Kyrgyz": [
+                    "билдирбей кирүү"
+                ],
+                "Karakalpak": [
+                    "bildirmey kirio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yashirincha kirmoq"
+                ],
+                "Uyghur": [
+                    "يوشۇرۇن كىرىش"
+                ],
+                "Kazakh": [
+                    "жасырын кіру"
+                ],
+                "Karakalpak": [
+                    "jasırın kirio"
+                ],
+                "Tatar": [
+                    "яшерен керергә"
+                ],
+                "Bashkir": [
+                    "йәшерен инеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sızmak"
+                ],
+                "Karakalpak": [
+                    "sezilmey kirio"
+                ],
+                "Tatar": [
+                    "сиздермичә керергә"
+                ],
+                "Bashkir": [
+                    "һиҙҙермәйенсә инеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ұрланып кіру"
+                ],
+                "Kyrgyz": [
+                    "уурданып кирүү"
+                ],
+                "Karakalpak": [
+                    "urlap kirio"
+                ],
+                "Tatar": [
+                    "урлап керергә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "süzülmek",
+                    "sokulmak"
+                ],
+                "Azerbaijani": [
+                    "soxulmaq"
+                ],
+                "Uzbek": [
+                    "suqulib kirmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ogrynça girmek"
+                ],
+                "Uyghur": [
+                    "ئوغرىلىقچە كىرىش"
+                ],
+                "Bashkir": [
+                    "уғрылап инеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gizlice girmek"
+                ],
+                "Azerbaijani": [
+                    "gizlicə girmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sypyp girmek"
+                ],
+                "Bashkir": [
+                    "быҫып инеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sivişmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xəlvətcə girmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bukulyp girmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'g'rincha kirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pinhona kirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сұғыну"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тымызын кирүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "акырын кирүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәйлә белән керергә"
+                ]
+            }
+        }
+    ]
+}
+```
+

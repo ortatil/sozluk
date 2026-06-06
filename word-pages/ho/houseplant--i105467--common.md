@@ -1,0 +1,151 @@
+# Houseplant
+| Field | Detail |
+|---|---|
+| **ID** | i105467 |
+| **English** | houseplant |
+| **Type** | noun |
+| **Definition** | any of a variety of plants grown indoors for decorative purposes |
+| **Source** | common |
+| **Ortatil** | göl |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| гөл | göl |
+
+```json
+{
+    "id": "i105467",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "houseplant",
+    "en_definition": "any of a variety of plants grown indoors for decorative purposes",
+    "tr_word": "ev bitkisi",
+    "tr_definition": "dekoratif amaçlarla iç mekanlarda yetiştirilen çeşitli bitkilerden herhangi biri",
+    "ru_word": "комнатное растение",
+    "ru_definition": "любое из множества растений, выращиваемых в помещении в декоративных целях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ev gülü"
+                ],
+                "Uzbek": [
+                    "uy guli"
+                ],
+                "Uyghur": [
+                    "ئۆي گۈلى",
+                    "ئۆي ئۆسۈملۈكى"
+                ],
+                "Kazakh": [
+                    "үй гүлі"
+                ],
+                "Kyrgyz": [
+                    "үй гүлү"
+                ],
+                "Karakalpak": [
+                    "úy gúli"
+                ],
+                "Tatar": [
+                    "өй гөле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бөлме өсімдігі",
+                    "бөлме гүлі"
+                ],
+                "Kyrgyz": [
+                    "бөлмө гүлү",
+                    "бөлмө өсүмдүгү"
+                ],
+                "Karakalpak": [
+                    "bólme gúli"
+                ],
+                "Tatar": [
+                    "бүлмә гөле",
+                    "бүлмә үсемлеге"
+                ],
+                "Bashkir": [
+                    "бүлмә үҫемлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ev bitkisi"
+                ],
+                "Azerbaijani": [
+                    "ev bitkisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "otaq bitkisi",
+                    "otaq gülü"
+                ],
+                "Turkmen": [
+                    "otag ösümligi",
+                    "otag güli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öý ösümligi"
+                ],
+                "Bashkir": [
+                    "өй үҫемлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xona guli",
+                    "xonaki o'simlik"
+                ],
+                "Uyghur": [
+                    "خانا گۈلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "salon bitkisi",
+                    "saksı çiçeği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iç mekan bitkisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "гөл"
+                ]
+            }
+        }
+    ]
+}
+```
+

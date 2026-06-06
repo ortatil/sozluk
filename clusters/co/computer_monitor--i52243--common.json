@@ -1,0 +1,108 @@
+{
+    "id": "i52243",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "computer monitor",
+    "en_definition": "a device that displays signals on a computer screen",
+    "tr_word": "bilgisayar monitörü",
+    "tr_definition": "bilgisayar sinyallerini ekranda görüntüleyen cihaz",
+    "ru_word": "монитор",
+    "ru_definition": "устройство для вывода визуальной информации с компьютера на экран",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekran"
+                ],
+                "Azerbaijani": [
+                    "ekran"
+                ],
+                "Turkmen": [
+                    "ekran"
+                ],
+                "Uzbek": [
+                    "ekran"
+                ],
+                "Uyghur": [
+                    "ئېكران"
+                ],
+                "Kazakh": [
+                    "экран"
+                ],
+                "Kyrgyz": [
+                    "экран"
+                ],
+                "Karakalpak": [
+                    "ekran"
+                ],
+                "Tatar": [
+                    "экран"
+                ],
+                "Bashkir": [
+                    "экран"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "görüntüleyici"
+                ],
+                "Azerbaijani": [
+                    "görüntü qurğusu"
+                ],
+                "Turkmen": [
+                    "görkeziji"
+                ],
+                "Uzbek": [
+                    "koʻrsatkich"
+                ],
+                "Uyghur": [
+                    "كۆرسەتكۈچ"
+                ],
+                "Kazakh": [
+                    "көрсеткіш"
+                ],
+                "Kyrgyz": [
+                    "көрсөткүч"
+                ],
+                "Karakalpak": [
+                    "kórsetkish"
+                ],
+                "Tatar": [
+                    "күрүлек",
+                    "күрсәткеч"
+                ],
+                "Bashkir": [
+                    "күрһәткес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "monitör"
+                ],
+                "Azerbaijani": [
+                    "monitor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oyna"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бейнебет"
+                ]
+            }
+        }
+    ]
+}

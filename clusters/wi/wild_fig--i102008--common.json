@@ -1,0 +1,101 @@
+{
+    "id": "i102008",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wild fig",
+    "en_definition": "a West Indies clusia having fig-shaped fruit",
+    "tr_word": "yabani incir",
+    "tr_definition": "Batı Hint Adaları'nda yetişen, incir şeklinde meyveleri olan bir clusia türü.",
+    "ru_word": "дикий инжир",
+    "ru_definition": "вид клузии из Вест-Индии, имеющий плоды в форме инжира.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaban inciri"
+                ],
+                "Azerbaijani": [
+                    "yabanı əncir"
+                ],
+                "Turkmen": [
+                    "ýabany injir"
+                ],
+                "Uzbek": [
+                    "yovvoyi anjir"
+                ],
+                "Uyghur": [
+                    "ياۋا ئەنجۈر"
+                ],
+                "Kazakh": [
+                    "жабайы інжір"
+                ],
+                "Kyrgyz": [
+                    "жапайы анжыр"
+                ],
+                "Karakalpak": [
+                    "jabayı injir"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağ inciri"
+                ],
+                "Azerbaijani": [
+                    "dağ ənciri"
+                ],
+                "Turkmen": [
+                    "dag injiri"
+                ],
+                "Uzbek": [
+                    "tog' anjiri"
+                ],
+                "Kazakh": [
+                    "тағы інжір"
+                ],
+                "Karakalpak": [
+                    "dala injiri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئورمان ئەنجۈرى"
+                ],
+                "Kyrgyz": [
+                    "тоо анжыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыргый инҗир",
+                    "кыргый фикус"
+                ],
+                "Bashkir": [
+                    "ҡырағай инжир",
+                    "ҡырағай фиғил"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "erkek incir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çöl ənciri"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "id": "i77106",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "raw meat",
+    "en_definition": "uncooked meat",
+    "tr_word": "çiğ et",
+    "tr_definition": "pişirilmemiş et",
+    "ru_word": "сырое мясо",
+    "ru_definition": "мясо, не подвергшееся термической обработке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çiğ et"
+                ],
+                "Azerbaijani": [
+                    "çiy ət"
+                ],
+                "Turkmen": [
+                    "çig et"
+                ],
+                "Kazakh": [
+                    "шикі ет"
+                ],
+                "Kyrgyz": [
+                    "чийки эт"
+                ],
+                "Tatar": [
+                    "чи ит"
+                ],
+                "Bashkir": [
+                    "сей ит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bişməmiş ət"
+                ],
+                "Uzbek": [
+                    "pishmagan go'sht"
+                ],
+                "Tatar": [
+                    "пешмәгән ит"
+                ],
+                "Bashkir": [
+                    "бешмәгән ит"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xom go'sht"
+                ],
+                "Uyghur": [
+                    "خام گۆش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жас ет"
+                ],
+                "Kyrgyz": [
+                    "жаш эт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shiyki gósh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "taza gósh"
+                ]
+            }
+        }
+    ]
+}

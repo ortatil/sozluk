@@ -1,0 +1,120 @@
+# Hand pump
+| Field | Detail |
+|---|---|
+| **ID** | i54620 |
+| **English** | hand pump |
+| **Type** | noun |
+| **Definition** | a pump worked by hand |
+| **Source** | common |
+| **Ortatil** | tulumba |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| тулум | tulum |
+
+```json
+{
+    "id": "i54620",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hand pump",
+    "en_definition": "a pump worked by hand",
+    "tr_word": "el pompası",
+    "tr_definition": "el gücüyle çalıştırılan bir pompa türü",
+    "ru_word": "ручной насос",
+    "ru_definition": "насос, приводимый в действие вручную",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻl nasosi",
+                    "qoʻl tulumpi"
+                ],
+                "Uyghur": [
+                    "قول پومپىسى",
+                    "قول تۇلۇمبىسى"
+                ],
+                "Kazakh": [
+                    "қол сорғы",
+                    "қол сорғыш",
+                    "қол тұлба"
+                ],
+                "Kyrgyz": [
+                    "кол насос",
+                    "кол соргуч"
+                ],
+                "Karakalpak": [
+                    "qol nasos",
+                    "qol sutartısh",
+                    "qol tulumba"
+                ],
+                "Tatar": [
+                    "кул насосы",
+                    "кул помпасы"
+                ],
+                "Bashkir": [
+                    "ҡул һурғысы",
+                    "ҡул насосы",
+                    "ҡул тултырғысы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "el pompası"
+                ],
+                "Azerbaijani": [
+                    "əl nasosu",
+                    "əl tuluqu",
+                    "əl tuluğu"
+                ],
+                "Turkmen": [
+                    "el tulumby",
+                    "el nasosy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tulumba"
+                ],
+                "Kyrgyz": [
+                    "тулум"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "basma tulumba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suv tulumpi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кул белән суырткыч"
+                ]
+            }
+        }
+    ]
+}
+```
+

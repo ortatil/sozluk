@@ -1,0 +1,108 @@
+# Flies
+| Field | Detail |
+|---|---|
+| **ID** | i82032 |
+| **English** | flies |
+| **Type** | noun |
+| **Definition** | (theater) the space over the stage (out of view of the audience) used to store scenery (drop curtains) |
+| **Source** | common |
+| **Ortatil** | sähnäisti |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i82032",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flies",
+    "en_definition": "(theater) the space over the stage (out of view of the audience) used to store scenery (drop curtains)",
+    "tr_word": "sofitler",
+    "tr_definition": "Tiyatroda sahnenin üst kısmında bulunan, dekorların ve perdelerin asıldığı, seyirci tarafından görülmeyen boşluk.",
+    "ru_word": "колосники",
+    "ru_definition": "Верхняя часть театральной сцены, скрытая от зрителей, предназначенная для размещения и смены декораций.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahne üstü"
+                ],
+                "Azerbaijani": [
+                    "səhnəüstü",
+                    "səhnə boşluğu",
+                    "səhnə yuxarısı"
+                ],
+                "Turkmen": [
+                    "sahna ýokarsy",
+                    "sahna depesi"
+                ],
+                "Uzbek": [
+                    "sahna tepasi",
+                    "sahna shifti"
+                ],
+                "Uyghur": [
+                    "سەھنە ئۈستى بوشلۇقى"
+                ],
+                "Kazakh": [
+                    "сахна үсті",
+                    "сахна төбесі"
+                ],
+                "Kyrgyz": [
+                    "сахна үстү"
+                ],
+                "Karakalpak": [
+                    "saxna ústi",
+                    "saxna tóbesi"
+                ],
+                "Tatar": [
+                    "сәхнә өсте",
+                    "сәхнә югарысы"
+                ],
+                "Bashkir": [
+                    "сәхнә өҫтө",
+                    "сәхнә түбәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sofit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tavan boşluğu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پەردە ئۈستى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "асма жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жогорку мейкиндик"
+                ]
+            }
+        }
+    ]
+}
+```
+

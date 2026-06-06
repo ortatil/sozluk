@@ -1,0 +1,263 @@
+# Bandanna
+| Field | Detail |
+|---|---|
+| **ID** | i50430 |
+| **English** | bandanna |
+| **Type** | noun |
+| **Definition** | large and brightly colored handkerchief; often used as a neckerchief |
+| **Source** | common |
+| **Ortatil** | jaılıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jaılıq** | **qulyauluq** | **oramal** |
+|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ |
+| Uzbek | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ✅ |
+| Kyrgyz | ❌ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ✅ | ❌ |
+| Bashkir | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.33 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0.40 | 0.60 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |
+| **O'TQ** | **2.97** | **1.23** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ياغلىق | yağliq |
+| رۇمال | rumal |
+| چۇمبەل | çumbäl |
+| **Kazakh** | |
+| жаулық | jaulıq |
+| орамал | oramal |
+| шәлі | şäli |
+| **Kyrgyz** | |
+| оромол | oromol |
+| чалма | çalma |
+| жоолук | jooluk |
+| **Tatar** | |
+| яулык | yaulık |
+| кулъяулык | kulyaulık |
+| бәйләвеч | bäyläveç |
+| **Bashkir** | |
+| яулыҡ | yaulıq |
+| ҡулъяулыҡ | qulyaulıq |
+| бәйләмес | bäylämes |
+
+```json
+{
+    "id": "i50430",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bandanna",
+    "en_definition": "large and brightly colored handkerchief; often used as a neckerchief",
+    "tr_word": "bandana",
+    "tr_definition": "Başa veya boyna bağlanan, genellikle parlak renkli ve desenli büyük kare mendil.",
+    "ru_word": "бандана",
+    "ru_definition": "Большой разноцветный платок, который повязывают на голову или на шею.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yaylıq"
+                ],
+                "Turkmen": [
+                    "ýaglyk"
+                ],
+                "Uyghur": [
+                    "ياغلىق"
+                ],
+                "Kazakh": [
+                    "жаулық"
+                ],
+                "Karakalpak": [
+                    "jaolıq"
+                ],
+                "Tatar": [
+                    "яулык"
+                ],
+                "Bashkir": [
+                    "яулыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kəlağayı"
+                ],
+                "Tatar": [
+                    "кулъяулык"
+                ],
+                "Bashkir": [
+                    "ҡулъяулыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "орамал"
+                ],
+                "Kyrgyz": [
+                    "оромол"
+                ],
+                "Karakalpak": [
+                    "oramal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yazma"
+                ],
+                "Kyrgyz": [
+                    "чалма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ro'mol",
+                    "ro'molcha"
+                ],
+                "Uyghur": [
+                    "رۇمال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мойын орамал"
+                ],
+                "Karakalpak": [
+                    "moyın oramal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәйләвеч"
+                ],
+                "Bashkir": [
+                    "бәйләмес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemeni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşarp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mendil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "poşu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ləçək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çərmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "elýaglyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "desmal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "guldor ro'mol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bo'yinbog'"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چۇمبەل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шәлі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жоолук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бет аарчы"
+                ]
+            }
+        }
+    ]
+}
+```
+

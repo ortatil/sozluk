@@ -1,0 +1,105 @@
+{
+    "id": "i30463",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "republish",
+    "en_definition": "publish again",
+    "tr_word": "yeniden yayımlamak",
+    "tr_definition": "bir eseri veya yazıyı ikinci kez veya tekrar basmak",
+    "ru_word": "переиздавать",
+    "ru_definition": "публиковать или выпускать печатное издание повторно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan çap etmek"
+                ],
+                "Uzbek": [
+                    "qayta chop etmoq"
+                ],
+                "Uyghur": [
+                    "قايتا بېسىش",
+                    "قايتا نەشر قىلىش"
+                ],
+                "Kazakh": [
+                    "қайта басу",
+                    "қайта шығару",
+                    "қайта жариялау"
+                ],
+                "Kyrgyz": [
+                    "кайра басуу",
+                    "кайра чыгаруу",
+                    "кайра жарыялоо"
+                ],
+                "Karakalpak": [
+                    "qayta baspadan shıǵarıo",
+                    "qayta basıp shıǵarıo",
+                    "qayta járdemleo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden yayımlamak",
+                    "yeniden neşretmek"
+                ],
+                "Azerbaijani": [
+                    "yenidən nəşr etmək",
+                    "yenidən dərc etmək"
+                ],
+                "Turkmen": [
+                    "täzeden neşir etmek"
+                ],
+                "Tatar": [
+                    "яңадан бастыру",
+                    "яңадан нәшер итү"
+                ],
+                "Bashkir": [
+                    "яңынан нәшер итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekrar basmak"
+                ],
+                "Azerbaijani": [
+                    "təkrar çap etmək"
+                ],
+                "Uzbek": [
+                    "takror nashr qilmoq"
+                ],
+                "Uyghur": [
+                    "تەكرار نەشر قىلىش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qayta nashr qilmoq"
+                ],
+                "Tatar": [
+                    "кабат нәшер итү"
+                ],
+                "Bashkir": [
+                    "ҡабаттан баҫтырыу",
+                    "ҡабаттан сығарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат бастыру"
+                ]
+            }
+        }
+    ]
+}

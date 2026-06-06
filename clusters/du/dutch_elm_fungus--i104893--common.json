@@ -1,0 +1,71 @@
+{
+    "id": "i104893",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dutch elm fungus",
+    "en_definition": "fungus causing Dutch elm disease",
+    "tr_word": "Hollanda karaağaç mantarı",
+    "tr_definition": "Karaağaç hastalığına neden olan mantar türü",
+    "ru_word": "гриб голландской болезни ильмовых",
+    "ru_definition": "грибок, вызывающий голландскую болезнь вязов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karaağaç mantarı",
+                    "karaağaç hastalığı mantarı"
+                ],
+                "Azerbaijani": [
+                    "qarağac göbələyi",
+                    "qarağac xərçəngi göbələyi",
+                    "qarağac soluxması göbələyi"
+                ],
+                "Turkmen": [
+                    "garaagaç kömelegi",
+                    "garaagaç porusy"
+                ],
+                "Uyghur": [
+                    "قاراياغاچ زەمبۇرۇغى",
+                    "قاراياغاچ كېسىلى زەمبۇرۇغى"
+                ],
+                "Kazakh": [
+                    "қарағаш саңырауқұлағы",
+                    "қарағаш кеселінің қоздырғышы"
+                ],
+                "Kyrgyz": [
+                    "кара жыгач грибогу",
+                    "кара жыгач кычыткысы",
+                    "кара жыгач козу карыны"
+                ],
+                "Karakalpak": [
+                    "qaraǵash sańırauqұlaǵı",
+                    "qaraǵash keselliginiń qozdırıoshısı"
+                ],
+                "Tatar": [
+                    "карагач гөмбәсе"
+                ],
+                "Bashkir": [
+                    "ҡарама бәшәрмәһе",
+                    "ҡарама ауырыуы бәшәрмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qayragʻoch zamburugʻi",
+                    "qayragʻoch qoʻziqorini",
+                    "qayragʻoch kasalligi qoʻzgʻatuvchisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "илм гөмбәсе"
+                ]
+            }
+        }
+    ]
+}

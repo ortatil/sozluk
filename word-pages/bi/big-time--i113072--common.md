@@ -1,0 +1,280 @@
+# Big time
+| Field | Detail |
+|---|---|
+| **ID** | i113072 |
+| **English** | big time |
+| **Type** | noun |
+| **Definition** | the highest level of an occupation (especially in entertainment) |
+| **Source** | common |
+| **Ortatil** | märtäbä, därece |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **märtäbä** | **därece** | **şöhrät** | **şıñ** |
+|---|---|---|---|---|
+| Turkish | ❌ | ❌ | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ✅ |
+| Uyghur | ❌ | ❌ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ | ❌ | ❌ |
+| Karakalpak | ✅ | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ❌ | ✅ | ❌ |
+| Bashkir | ✅ | ❌ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.33 | 0.33 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0.50 | 0 | 0.50 |
+| *Qipchaq Subtotal* | 0.80 | 0.60 | 0.40 | 0.40 |
+| *In All* | ✅ | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ |  |
+| **O'TQ** | **2.63** | **2.43** | **1.23** | **0.90** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| мәртебе | märtebe |
+| дәреже | däreje |
+| шың | şıñ |
+| биік | biik |
+| абырой | abıroy |
+| **Kyrgyz** | |
+| даража | daraja |
+| бийиктик | biyiktik |
+| кадыр-барк | kadır-bark |
+| атак-даңк | atak-dañk |
+| **Tatar** | |
+| мәртәбә | märtäbä |
+| шөһрәт | şöhrät |
+| дан | dan |
+| **Bashkir** | |
+| мәртәбә | märtäbä |
+| шөһрәт | şöhrät |
+| абруй | abruy |
+
+```json
+{
+    "id": "i113072",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "big time",
+    "en_definition": "the highest level of an occupation (especially in entertainment)",
+    "tr_word": "zirve",
+    "tr_definition": "Bir mesleğin, özellikle eğlence sektörünün en üst düzeyi.",
+    "ru_word": "высшая лига",
+    "ru_definition": "самый высокий уровень в какой-либо сфере деятельности, особенно в шоу-бизнесе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mertebe"
+                ],
+                "Uzbek": [
+                    "martaba"
+                ],
+                "Kazakh": [
+                    "мәртебе"
+                ],
+                "Karakalpak": [
+                    "mártebe"
+                ],
+                "Tatar": [
+                    "мәртәбә"
+                ],
+                "Bashkir": [
+                    "мәртәбә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şöhret basamağı"
+                ],
+                "Azerbaijani": [
+                    "şöhrət"
+                ],
+                "Uyghur": [
+                    "شۆھرەت چوققىسى"
+                ],
+                "Tatar": [
+                    "шөһрәт"
+                ],
+                "Bashkir": [
+                    "шөһрәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dereje"
+                ],
+                "Uzbek": [
+                    "daraja"
+                ],
+                "Kazakh": [
+                    "дәреже"
+                ],
+                "Kyrgyz": [
+                    "даража"
+                ],
+                "Karakalpak": [
+                    "dáreje"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shon-sharaf"
+                ],
+                "Kazakh": [
+                    "шың"
+                ],
+                "Karakalpak": [
+                    "shıń"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zirve"
+                ],
+                "Azerbaijani": [
+                    "zirvə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doruk"
+                ],
+                "Kyrgyz": [
+                    "туу чоку"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məşhurluq"
+                ],
+                "Turkmen": [
+                    "meşhurlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "belentlik"
+                ],
+                "Kyrgyz": [
+                    "бийиктик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "биік"
+                ],
+                "Karakalpak": [
+                    "biyiklik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "абырой"
+                ],
+                "Bashkir": [
+                    "абруй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "югары дәрәҗә"
+                ],
+                "Bashkir": [
+                    "юғары кимәл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "en üst seviye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yüksəklik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ən yüksək mərtəbə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "cho'qqi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kamolot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەڭ يۇقىرى پەللە",
+                    "ئەڭ يۇقىرى دەرىجە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кадыр-барк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "атак-даңк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дан"
+                ]
+            }
+        }
+    ]
+}
+```
+

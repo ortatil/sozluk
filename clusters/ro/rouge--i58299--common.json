@@ -1,0 +1,113 @@
+{
+    "id": "i58299",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rouge",
+    "en_definition": "makeup consisting of a pink or red powder applied to the cheeks",
+    "tr_word": "allık",
+    "tr_definition": "Yanakları renklendirmek için sürülen pembe veya kırmızımsı kozmetik ürün.",
+    "ru_word": "румяна",
+    "ru_definition": "Косметическое средство для придания лицу румянца, обычно розового или красного цвета.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "allık"
+                ],
+                "Azerbaijani": [
+                    "ənlik"
+                ],
+                "Turkmen": [
+                    "allyk",
+                    "enlik"
+                ],
+                "Uzbek": [
+                    "elik"
+                ],
+                "Uyghur": [
+                    "ئەڭلىك"
+                ],
+                "Kazakh": [
+                    "еңлік"
+                ],
+                "Tatar": [
+                    "аллык"
+                ],
+                "Bashkir": [
+                    "иннек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "upa-elik"
+                ],
+                "Uyghur": [
+                    "ئوپپا-ئەڭلىك"
+                ],
+                "Kazakh": [
+                    "опа-еңлік"
+                ],
+                "Kyrgyz": [
+                    "упа"
+                ],
+                "Karakalpak": [
+                    "opa-dalap",
+                    "opa"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "g'oza"
+                ],
+                "Uyghur": [
+                    "غازا"
+                ],
+                "Kyrgyz": [
+                    "кызгылт упа"
+                ],
+                "Bashkir": [
+                    "ҡыҙыллыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qırmızı"
+                ],
+                "Tatar": [
+                    "кершән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "düzgün",
+                    "gülgun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бет упа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dalap"
+                ]
+            }
+        }
+    ]
+}

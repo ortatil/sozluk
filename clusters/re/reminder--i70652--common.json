@@ -1,0 +1,118 @@
+{
+    "id": "i70652",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "reminder",
+    "en_definition": "a message that helps you remember something",
+    "tr_word": "hatırlatıcı",
+    "tr_definition": "bir şeyi hatırlamanıza yardımcı olan mesaj veya işaret",
+    "ru_word": "напоминание",
+    "ru_definition": "сообщение, помогающее вспомнить что-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eslatma"
+                ],
+                "Uyghur": [
+                    "ئەسكەرتىش"
+                ],
+                "Kazakh": [
+                    "ескертпе",
+                    "ескерту",
+                    "естелік"
+                ],
+                "Kyrgyz": [
+                    "эскертме",
+                    "эскертүү",
+                    "эстетме"
+                ],
+                "Karakalpak": [
+                    "esletpe",
+                    "eske salıo",
+                    "esletpe xat"
+                ],
+                "Bashkir": [
+                    "иҫкә төшөрөү",
+                    "иҫкәртеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hatırlatıcı",
+                    "hatırlatma"
+                ],
+                "Azerbaijani": [
+                    "xatırlatma"
+                ],
+                "Turkmen": [
+                    "ýatlatma"
+                ],
+                "Uyghur": [
+                    "خاتىرىلىمە"
+                ],
+                "Tatar": [
+                    "хәтерләтү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yadigar"
+                ],
+                "Azerbaijani": [
+                    "yadigar",
+                    "yaddaş"
+                ],
+                "Turkmen": [
+                    "ýatlama",
+                    "ýatlatgy"
+                ],
+                "Uzbek": [
+                    "yodnoma"
+                ],
+                "Uyghur": [
+                    "يادنامە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tənbeh"
+                ],
+                "Uzbek": [
+                    "tanbeh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muhtıra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "истәлек",
+                    "искәртү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәбәр"
+                ]
+            }
+        }
+    ]
+}

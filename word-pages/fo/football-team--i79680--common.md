@@ -1,0 +1,92 @@
+# Football team
+| Field | Detail |
+|---|---|
+| **ID** | i79680 |
+| **English** | football team |
+| **Type** | noun |
+| **Definition** | a team that plays football |
+| **Source** | common |
+| **Ortatil** | topar |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i79680",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "football team",
+    "en_definition": "a team that plays football",
+    "tr_word": "futbol takımı",
+    "tr_definition": "futbol oynayan bir takım",
+    "ru_word": "футбольная команда",
+    "ru_definition": "команда, играющая в футбол",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "futbol takımı"
+                ],
+                "Azerbaijani": [
+                    "futbol komandası",
+                    "futbol dəstəsi"
+                ],
+                "Turkmen": [
+                    "futbol topary"
+                ],
+                "Uzbek": [
+                    "futbol jamoasi",
+                    "futbol dastasi"
+                ],
+                "Uyghur": [
+                    "پۇتبول كوماندىسى",
+                    "پۇتبول ئۆمىكى"
+                ],
+                "Kazakh": [
+                    "футбол командасы",
+                    "футбол ұжымы",
+                    "футбол құрамасы"
+                ],
+                "Kyrgyz": [
+                    "футбол командасы",
+                    "футбол тобу"
+                ],
+                "Karakalpak": [
+                    "futbol komandası",
+                    "futbol toparı"
+                ],
+                "Tatar": [
+                    "футбол командасы",
+                    "футбол төркеме"
+                ],
+                "Bashkir": [
+                    "футбол командаһы",
+                    "футбол төркөмө",
+                    "футбол йыйылмаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "top takımı"
+                ],
+                "Turkmen": [
+                    "topar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayak topu takımı"
+                ]
+            }
+        }
+    ]
+}
+```
+

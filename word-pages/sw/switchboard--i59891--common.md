@@ -1,0 +1,158 @@
+# Switchboard
+| Field | Detail |
+|---|---|
+| **ID** | i59891 |
+| **English** | switchboard |
+| **Type** | noun |
+| **Definition** | telephone central where circuits are completed with patchcords |
+| **Source** | common |
+| **Ortatil** | kommutator |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| аралаштырғыс | aralaştırğıs |
+
+```json
+{
+    "id": "i59891",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "switchboard",
+    "en_definition": "telephone central where circuits are completed with patchcords",
+    "tr_word": "santral",
+    "tr_definition": "Telefon devrelerinin fişli kordonlar yardımıyla birbirine bağlandığı merkez.",
+    "ru_word": "коммутатор",
+    "ru_definition": "Устройство для ручного или автоматического соединения телефонных линий.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telefon santrali"
+                ],
+                "Azerbaijani": [
+                    "telefon mərkəzi"
+                ],
+                "Turkmen": [
+                    "telefon merkezi",
+                    "telefon stansiýasy"
+                ],
+                "Uyghur": [
+                    "تېلېفون مەركىزى",
+                    "تېلېفون پونكىتى"
+                ],
+                "Kazakh": [
+                    "телефон станциясы"
+                ],
+                "Kyrgyz": [
+                    "телефон станциясы"
+                ],
+                "Karakalpak": [
+                    "telefon stanciyası"
+                ],
+                "Tatar": [
+                    "телефон станциясе",
+                    "телефон үзәге"
+                ],
+                "Bashkir": [
+                    "телефон станцияһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağlantı masası"
+                ],
+                "Uzbek": [
+                    "bogʻlama"
+                ],
+                "Kazakh": [
+                    "байланыс торабы",
+                    "байланыс орталығы"
+                ],
+                "Kyrgyz": [
+                    "байланыш түйүнү",
+                    "байланыш борбору"
+                ],
+                "Karakalpak": [
+                    "baylanıs túyіnі"
+                ],
+                "Bashkir": [
+                    "бәйләнеш үҙәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aloqa markazi"
+                ],
+                "Uyghur": [
+                    "ئالاقە مەركىزى"
+                ],
+                "Tatar": [
+                    "элемтә төймәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "santral"
+                ],
+                "Azerbaijani": [
+                    "santral"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kommutator"
+                ],
+                "Karakalpak": [
+                    "kommutator"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rabitə qovşağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "aragatnaşyk merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tarmoq tuguni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аралаштырғыс"
+                ]
+            }
+        }
+    ]
+}
+```
+

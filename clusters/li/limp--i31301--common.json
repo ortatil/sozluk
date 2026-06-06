@@ -1,0 +1,119 @@
+{
+    "id": "i31301",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "limp",
+    "en_definition": "walk impeded by some physical limitation or injury",
+    "tr_word": "topallamak",
+    "tr_definition": "bir sakatlık veya fiziksel engel nedeniyle aksayarak yürümek",
+    "ru_word": "хромать",
+    "ru_definition": "ходить с трудом, припадая на одну ногу из-за травмы или физического недостатка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aksamak"
+                ],
+                "Azerbaijani": [
+                    "axsamaq"
+                ],
+                "Turkmen": [
+                    "aksamak",
+                    "agtyklamak"
+                ],
+                "Uzbek": [
+                    "oqsamoq"
+                ],
+                "Uyghur": [
+                    "ئاقساپ ماڭماق",
+                    "ئاقسىماق"
+                ],
+                "Kazakh": [
+                    "ақсау"
+                ],
+                "Kyrgyz": [
+                    "аксоо",
+                    "аксаңдоо",
+                    "аксаңдап басуу"
+                ],
+                "Karakalpak": [
+                    "aqsau"
+                ],
+                "Tatar": [
+                    "аксау",
+                    "аксаклау",
+                    "аксап атлау"
+                ],
+                "Bashkir": [
+                    "аҡһау",
+                    "аҡһап атлау",
+                    "аҡһаҡлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "topallamak"
+                ],
+                "Azerbaijani": [
+                    "topallamaq"
+                ],
+                "Turkmen": [
+                    "topallamak"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ləngimək"
+                ],
+                "Uzbek": [
+                    "langlamoq"
+                ],
+                "Uyghur": [
+                    "لەڭشىمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сылти басу",
+                    "сылту"
+                ],
+                "Karakalpak": [
+                    "sıltu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "маймақтау"
+                ],
+                "Karakalpak": [
+                    "maymaqtau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sekmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "cho'loqlanmoq"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "i69391",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sports page",
+    "en_definition": "any page in the sports section of a newspaper",
+    "tr_word": "spor sayfası",
+    "tr_definition": "bir gazetenin spor haberlerine ayrılmış herhangi bir sayfası",
+    "ru_word": "спортивная страница",
+    "ru_definition": "любая страница в спортивном разделе газеты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "spor sayfası",
+                    "spor haberleri",
+                    "spor sütunu"
+                ],
+                "Turkmen": [
+                    "sport sahypasy",
+                    "sport bölümi"
+                ],
+                "Uzbek": [
+                    "sport sahifasi",
+                    "sport bo'limi"
+                ],
+                "Kazakh": [
+                    "спорт беті",
+                    "спорт айдары",
+                    "спорт парағы"
+                ],
+                "Kyrgyz": [
+                    "спорт бети",
+                    "спорт барагы"
+                ],
+                "Karakalpak": [
+                    "sport beti",
+                    "sport bólimi"
+                ],
+                "Tatar": [
+                    "спорт бите",
+                    "спорт сәхифәсе"
+                ],
+                "Bashkir": [
+                    "спорт бите",
+                    "спорт сәхифәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "idman səhifəsi",
+                    "idman bölməsi",
+                    "idman guşəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەنتەربىيە بېتى",
+                    "تەنتەربىيە سەھىپىسى"
+                ]
+            }
+        }
+    ]
+}

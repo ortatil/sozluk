@@ -1,0 +1,85 @@
+{
+    "id": "i78364",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "egg yolk",
+    "en_definition": "the yellow spherical part of an egg that is surrounded by the albumen",
+    "tr_word": "yumurta sarısı",
+    "tr_definition": "yumurtanın akıyla çevrili olan sarı ve küresel bölümü",
+    "ru_word": "яичный желток",
+    "ru_definition": "желтая сферическая часть яйца, окруженная белком",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sarısı"
+                ],
+                "Turkmen": [
+                    "sarysy"
+                ],
+                "Uzbek": [
+                    "sarig'"
+                ],
+                "Uyghur": [
+                    "سېرىق"
+                ],
+                "Kazakh": [
+                    "сарыуыз"
+                ],
+                "Kyrgyz": [
+                    "сары"
+                ],
+                "Karakalpak": [
+                    "sarı"
+                ],
+                "Tatar": [
+                    "сары"
+                ],
+                "Bashkir": [
+                    "һары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yumurta sarısı",
+                    "yumurta göbeği"
+                ],
+                "Azerbaijani": [
+                    "yumurta sarısı"
+                ],
+                "Turkmen": [
+                    "ýumurtganyň sarysy"
+                ],
+                "Kazakh": [
+                    "жұмыртқаның сарысы"
+                ],
+                "Kyrgyz": [
+                    "жумуртканын сарысы"
+                ],
+                "Karakalpak": [
+                    "jұmırtqanıń sarısı"
+                ],
+                "Tatar": [
+                    "йомырка сарысы"
+                ],
+                "Bashkir": [
+                    "йомортҡа һарыһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuxum sarig'i"
+                ],
+                "Uyghur": [
+                    "تۇخۇم سېرىقى"
+                ]
+            }
+        }
+    ]
+}

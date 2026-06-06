@@ -1,0 +1,69 @@
+{
+    "id": "i56220",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "microwave",
+    "en_definition": "kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food",
+    "tr_word": "mikrodalga fırın",
+    "tr_definition": "Yiyecekleri içinden elektromanyetik dalgalar geçirerek pişiren veya ısıtan mutfak aleti.",
+    "ru_word": "микроволновая печь",
+    "ru_definition": "Бытовой электроприбор, предназначенный для быстрого приготовления или разогрева пищи с помощью электромагнитных волн.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mikrodalga fırın",
+                    "mikrodalga"
+                ],
+                "Azerbaijani": [
+                    "mikrodalğalı soba",
+                    "mikrodalğalı"
+                ],
+                "Turkmen": [
+                    "mikrotolkunly peç",
+                    "mikrotolkunly ojak"
+                ],
+                "Uzbek": [
+                    "mikroto'lqinli pech",
+                    "mikroto'lqinli o'choq"
+                ],
+                "Uyghur": [
+                    "مىكرو دولقۇنلۇق ئوچاق",
+                    "مىكرو دولقۇنلۇق پېچ"
+                ],
+                "Kazakh": [
+                    "микротолқынды пеш"
+                ],
+                "Kyrgyz": [
+                    "микротолкундуу меш"
+                ],
+                "Karakalpak": [
+                    "mikrotolqınlı pesh"
+                ],
+                "Tatar": [
+                    "микродулкынлы мич",
+                    "микродулкынлы җылыткыч"
+                ],
+                "Bashkir": [
+                    "микротулҡынлы мейес",
+                    "микротулҡынлы мейес-шкаф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қысқатолқынды пеш"
+                ],
+                "Kyrgyz": [
+                    "кыска толкундуу меш"
+                ],
+                "Karakalpak": [
+                    "qısqa tolqınlı pesh"
+                ]
+            }
+        }
+    ]
+}

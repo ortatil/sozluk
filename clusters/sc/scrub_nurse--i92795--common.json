@@ -1,0 +1,119 @@
+{
+    "id": "i92795",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "scrub nurse",
+    "en_definition": "a nurse who helps a surgeon prepare for surgery",
+    "tr_word": "ameliyat hemşiresi",
+    "tr_definition": "cerraha ameliyat sırasında yardım eden ve steril ortamın korunmasından sorumlu olan hemşire",
+    "ru_word": "операционная сестра",
+    "ru_definition": "медсестра, помогающая хирургу во время операции и отвечающая за стерильность инструментов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "operatsiya hamshirasi"
+                ],
+                "Uyghur": [
+                    "ئوپېراتسىيە سېستىراسى",
+                    "ئوپېراتسىيەخانا سېستىراسى"
+                ],
+                "Kyrgyz": [
+                    "операциялык медайым"
+                ],
+                "Karakalpak": [
+                    "operaciyalıq miyirbiyke"
+                ],
+                "Tatar": [
+                    "операция шәфкать туташы"
+                ],
+                "Bashkir": [
+                    "операция шәфҡәт туташы",
+                    "операция яһаусы шәфҡәт туташы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cerrahi hemşiresi"
+                ],
+                "Azerbaijani": [
+                    "cərrah köməkçisi"
+                ],
+                "Uzbek": [
+                    "jarrohlik hamshirasi"
+                ],
+                "Kyrgyz": [
+                    "жардамчы медайым"
+                ],
+                "Karakalpak": [
+                    "járdemshi miyirbiyke"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hirurgiýa şepagat uýasy"
+                ],
+                "Kazakh": [
+                    "хирургиялық мейірбике"
+                ],
+                "Karakalpak": [
+                    "xirurgiyalıq miyirbiyke"
+                ],
+                "Tatar": [
+                    "хирургия шәфкать туташы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ameliyathane hemşiresi"
+                ],
+                "Azerbaijani": [
+                    "əməliyyat bacısı",
+                    "əməliyyat tibb bacısı"
+                ],
+                "Turkmen": [
+                    "amalyýet şepagat uýasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "steril hemşire"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياردەمچى سېستىرا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оталық мейірбике",
+                    "оталық бике"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җөйләүче шәфкать туташы"
+                ]
+            }
+        }
+    ]
+}

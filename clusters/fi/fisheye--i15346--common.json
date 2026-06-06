@@ -1,0 +1,108 @@
+{
+    "id": "i15346",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "fisheye",
+    "en_definition": "of or relating to a fisheye lens",
+    "tr_word": "balıkgözü",
+    "tr_definition": "balıkgözü mercek ile ilgili veya bu mercek kullanılarak çekilmiş",
+    "ru_word": "рыбий глаз",
+    "ru_definition": "относящийся к объективу типа «рыбий глаз» или сделанный с его помощью",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balıkgözü"
+                ],
+                "Azerbaijani": [
+                    "balıqgözü"
+                ],
+                "Turkmen": [
+                    "balyk gözli"
+                ],
+                "Uzbek": [
+                    "baliq ko'zi"
+                ],
+                "Uyghur": [
+                    "بېلىق كۆزى",
+                    "بېلىق كۆزى شەكلىدىكى"
+                ],
+                "Kazakh": [
+                    "балықкөз"
+                ],
+                "Kyrgyz": [
+                    "балык көз"
+                ],
+                "Karakalpak": [
+                    "balıq kóz"
+                ],
+                "Tatar": [
+                    "балык күзле"
+                ],
+                "Bashkir": [
+                    "балыҡ күҙе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geniş açılı"
+                ],
+                "Azerbaijani": [
+                    "genişbucaqlı"
+                ],
+                "Turkmen": [
+                    "giň burçly"
+                ],
+                "Uzbek": [
+                    "keng burchakli"
+                ],
+                "Uyghur": [
+                    "كەڭ بۇلۇڭلۇق"
+                ],
+                "Kazakh": [
+                    "кеңбұрышты"
+                ],
+                "Kyrgyz": [
+                    "кең бурчтуу"
+                ],
+                "Karakalpak": [
+                    "keń kólemli"
+                ],
+                "Tatar": [
+                    "киң почмаклы"
+                ],
+                "Bashkir": [
+                    "киң мөйөшлө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дөңес"
+                ],
+                "Karakalpak": [
+                    "dóńes"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "güberçek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'ta keng burchakli"
+                ]
+            }
+        }
+    ]
+}

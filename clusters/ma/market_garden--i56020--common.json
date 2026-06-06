@@ -1,0 +1,161 @@
+{
+    "id": "i56020",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "market garden",
+    "en_definition": "a garden where fruit and vegetables are grown for marketing",
+    "tr_word": "ticari sebze bahçesi",
+    "tr_definition": "meyve ve sebzelerin satış amacıyla yetiştirildiği bahçe",
+    "ru_word": "товарное огородничество",
+    "ru_definition": "хозяйство, где выращивают овощи и фрукты для продажи на рынке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bakja"
+                ],
+                "Uzbek": [
+                    "bog'"
+                ],
+                "Uyghur": [
+                    "باغچە"
+                ],
+                "Kazakh": [
+                    "бақша",
+                    "бау-бақша"
+                ],
+                "Kyrgyz": [
+                    "бакча"
+                ],
+                "Karakalpak": [
+                    "baqsha",
+                    "baǵ"
+                ],
+                "Tatar": [
+                    "бакча"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bostan"
+                ],
+                "Azerbaijani": [
+                    "bostan"
+                ],
+                "Turkmen": [
+                    "bossan"
+                ],
+                "Tatar": [
+                    "бастан"
+                ],
+                "Bashkir": [
+                    "баҡса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "poliz"
+                ],
+                "Uyghur": [
+                    "پالەكلىك"
+                ],
+                "Kyrgyz": [
+                    "полиз"
+                ],
+                "Karakalpak": [
+                    "palız"
+                ],
+                "Bashkir": [
+                    "полиз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "жашылча бакчасы"
+                ],
+                "Tatar": [
+                    "яшелчә бакчасы"
+                ],
+                "Bashkir": [
+                    "йәшелсә баҡсаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sebze bahçesi"
+                ],
+                "Uzbek": [
+                    "sabzavotzor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meyve bahçesi"
+                ],
+                "Azerbaijani": [
+                    "meyvə-tərəvəz bağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆكتاتلىق",
+                    "كۆكتات بېغى"
+                ],
+                "Kazakh": [
+                    "көкөніс бақшасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tərəvəz bağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mellek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ekinzärlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tomorqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җимеш бакчасы"
+                ]
+            }
+        }
+    ]
+}

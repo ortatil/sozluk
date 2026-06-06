@@ -1,0 +1,68 @@
+{
+    "id": "i61013",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water meter",
+    "en_definition": "meter for measuring the quantity of water passing through a particular outlet",
+    "tr_word": "su sayacı",
+    "tr_definition": "belirli bir çıkıştan geçen su miktarını ölçen alet",
+    "ru_word": "водомер",
+    "ru_definition": "прибор для измерения количества воды, проходящей через определенный выход",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su saati",
+                    "su sayacı"
+                ],
+                "Azerbaijani": [
+                    "su sayğacı",
+                    "su ölçəni"
+                ],
+                "Turkmen": [
+                    "suw ölçegiji",
+                    "suw hasaplaýjy"
+                ],
+                "Uzbek": [
+                    "suv oʻlchagich",
+                    "suv hisoblagichi"
+                ],
+                "Uyghur": [
+                    "سۇ ئۆلچىگۈچ",
+                    "سۇ سائىتى"
+                ],
+                "Kazakh": [
+                    "су өлшегіш",
+                    "су есептегіш"
+                ],
+                "Kyrgyz": [
+                    "суу өлчөгүч",
+                    "суу эсептегич"
+                ],
+                "Karakalpak": [
+                    "suo ólshegish",
+                    "suo esaplaǵısh"
+                ],
+                "Tatar": [
+                    "су үлчәгеч",
+                    "су исәпләгеч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу үлсәгес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу иҫәпләгес"
+                ]
+            }
+        }
+    ]
+}

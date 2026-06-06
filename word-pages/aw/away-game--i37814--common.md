@@ -1,0 +1,155 @@
+# Away game
+| Field | Detail |
+|---|---|
+| **ID** | i37814 |
+| **English** | away game |
+| **Type** | noun |
+| **Definition** | a game played away from home |
+| **Source** | common |
+| **Ortatil** | depläsmän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i37814",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "away game",
+    "en_definition": "a game played away from home",
+    "tr_word": "deplasman maçı",
+    "tr_definition": "Bir takımın kendi sahası veya şehri dışında, rakip takımın sahasında oynadığı maç.",
+    "ru_word": "выездной матч",
+    "ru_definition": "Спортивная игра, проводимая на поле или площадке соперника.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "səfər oyunu",
+                    "kənar oyun"
+                ],
+                "Turkmen": [
+                    "seper oýny"
+                ],
+                "Uzbek": [
+                    "safar oʻyini"
+                ],
+                "Karakalpak": [
+                    "sapardaǵı oyın"
+                ],
+                "Tatar": [
+                    "сәфәр уены"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qonaq oyunu"
+                ],
+                "Kazakh": [
+                    "қонақтағы ойын"
+                ],
+                "Kyrgyz": [
+                    "коноктогу оюн"
+                ],
+                "Tatar": [
+                    "кунак уены"
+                ],
+                "Bashkir": [
+                    "ҡунаҡтағы уйын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "myhmançylyk oýny"
+                ],
+                "Uzbek": [
+                    "mehmon uchrashuvi"
+                ],
+                "Uyghur": [
+                    "مېھمان مەيدان مۇسابىقىسى"
+                ],
+                "Karakalpak": [
+                    "miymandaǵı oyın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سىرتتىكى مۇسابىقە"
+                ],
+                "Kazakh": [
+                    "сырт алаңдағы ойын",
+                    "сырттағы ойын"
+                ],
+                "Kyrgyz": [
+                    "сырттагы оюн"
+                ],
+                "Karakalpak": [
+                    "sırttaǵı oyın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dış saha maçı"
+                ],
+                "Turkmen": [
+                    "daşarky oýun"
+                ],
+                "Uzbek": [
+                    "tashqi oʻyin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deplasman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "misafirlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башка жердеги оюн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чит уен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ситкә сығып уйнау"
+                ]
+            }
+        }
+    ]
+}
+```
+

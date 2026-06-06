@@ -1,0 +1,156 @@
+{
+    "id": "i50953",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "volume",
+    "en_definition": "physical objects consisting of a number of pages bound together",
+    "tr_word": "cilt",
+    "tr_definition": "Birbirine bağlanmış sayfalar topluluğundan oluşan fiziksel nesne, kitap.",
+    "ru_word": "том",
+    "ru_definition": "Отдельная книга из какого-либо издания, состоящая из сброшюрованных листов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kitap"
+                ],
+                "Azerbaijani": [
+                    "kitab"
+                ],
+                "Turkmen": [
+                    "kitap"
+                ],
+                "Uzbek": [
+                    "kitob"
+                ],
+                "Uyghur": [
+                    "كىتاب"
+                ],
+                "Kazakh": [
+                    "кітап"
+                ],
+                "Kyrgyz": [
+                    "китеп"
+                ],
+                "Karakalpak": [
+                    "kitap"
+                ],
+                "Tatar": [
+                    "китап"
+                ],
+                "Bashkir": [
+                    "китап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tom"
+                ],
+                "Uyghur": [
+                    "توم"
+                ],
+                "Kazakh": [
+                    "том"
+                ],
+                "Kyrgyz": [
+                    "том"
+                ],
+                "Karakalpak": [
+                    "tom"
+                ],
+                "Tatar": [
+                    "том"
+                ],
+                "Bashkir": [
+                    "том"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cilt"
+                ],
+                "Azerbaijani": [
+                    "cild"
+                ],
+                "Turkmen": [
+                    "jilt"
+                ],
+                "Uzbek": [
+                    "jild"
+                ],
+                "Uyghur": [
+                    "جىلد"
+                ],
+                "Tatar": [
+                    "җилд"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nüsxə"
+                ],
+                "Kazakh": [
+                    "нұсқа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eser"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asarlar to'plami"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "баспа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бөлүм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түрмөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jıynaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дәфтәр"
+                ]
+            }
+        }
+    ]
+}

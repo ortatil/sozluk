@@ -1,0 +1,144 @@
+{
+    "id": "i89835",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "executive officer",
+    "en_definition": "the officer second in command",
+    "tr_word": "ikinci komutan",
+    "tr_definition": "bir askeri birlikte veya gemide komutandan sonra gelen en kıdemli subay",
+    "ru_word": "старший помощник",
+    "ru_definition": "второе по старшинству должностное лицо на корабле или в воинской части",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "orunbasar"
+                ],
+                "Uzbek": [
+                    "oʻrinbosar"
+                ],
+                "Kazakh": [
+                    "орынбасар"
+                ],
+                "Kyrgyz": [
+                    "орун басар"
+                ],
+                "Karakalpak": [
+                    "orınbasar"
+                ],
+                "Tatar": [
+                    "урынбасар"
+                ],
+                "Bashkir": [
+                    "урынбаҫар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "naib"
+                ],
+                "Turkmen": [
+                    "naýyp"
+                ],
+                "Uzbek": [
+                    "noib"
+                ],
+                "Kazakh": [
+                    "наиб"
+                ],
+                "Kyrgyz": [
+                    "наиб"
+                ],
+                "Bashkir": [
+                    "наиб"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yardımcı subay"
+                ],
+                "Kyrgyz": [
+                    "жардамчы"
+                ],
+                "Karakalpak": [
+                    "járdemshi"
+                ],
+                "Tatar": [
+                    "ярдәмче"
+                ],
+                "Bashkir": [
+                    "ярҙамсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "müavin"
+                ],
+                "Uzbek": [
+                    "muovin"
+                ],
+                "Uyghur": [
+                    "مۇئاۋىن قوماندان"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "köməkçi"
+                ],
+                "Turkmen": [
+                    "kömekçi"
+                ],
+                "Kazakh": [
+                    "көмекші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ikinci komutan"
+                ],
+                "Uyghur": [
+                    "ئىككىنچى باشلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "icra subayı"
+                ],
+                "Uyghur": [
+                    "ئىجرائىيە ئەمەلدارى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "nóker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "вәкил"
+                ]
+            }
+        }
+    ]
+}

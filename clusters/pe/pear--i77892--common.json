@@ -1,0 +1,84 @@
+{
+    "id": "i77892",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pear",
+    "en_definition": "sweet juicy gritty-textured fruit available in many varieties",
+    "tr_word": "armut",
+    "tr_definition": "Gülillerden, çiçekleri beyaz, yemişi tatlı, sulu ve kumlu bir meyve ağacı ve bu ağacın meyvesi.",
+    "ru_word": "груша",
+    "ru_definition": "Сладкий сочный плод с зернистой мякотью, имеющий форму расширяющегося книзу конуса.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "armut"
+                ],
+                "Azerbaijani": [
+                    "armud"
+                ],
+                "Turkmen": [
+                    "armyt",
+                    "armyt miwesi"
+                ],
+                "Uyghur": [
+                    "ئامۇت"
+                ],
+                "Kazakh": [
+                    "алмұрт"
+                ],
+                "Kyrgyz": [
+                    "алмурут"
+                ],
+                "Karakalpak": [
+                    "almұrt"
+                ],
+                "Tatar": [
+                    "армут"
+                ],
+                "Bashkir": [
+                    "армут"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "груша"
+                ],
+                "Bashkir": [
+                    "груша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kertme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nok"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "murud"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نەشپۈت"
+                ]
+            }
+        }
+    ]
+}

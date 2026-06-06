@@ -1,0 +1,161 @@
+{
+    "id": "i72692",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "personal identification number",
+    "en_definition": "a number you choose and use to gain access to various accounts",
+    "tr_word": "kişisel kimlik numarası",
+    "tr_definition": "çeşitli hesaplara erişim sağlamak için seçtiğiniz ve kullandığınız numara",
+    "ru_word": "персональный идентификационный номер",
+    "ru_definition": "номер, который вы выбираете и используете для получения доступа к различным учетным записям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəxsi kod"
+                ],
+                "Turkmen": [
+                    "şahsy belgi",
+                    "şahsy kody"
+                ],
+                "Uzbek": [
+                    "shaxsiy raqam",
+                    "shaxsiy kod"
+                ],
+                "Uyghur": [
+                    "شەخسىي كود"
+                ],
+                "Tatar": [
+                    "шәхси код"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gizli numara",
+                    "kimlik numarası"
+                ],
+                "Azerbaijani": [
+                    "gizli kod"
+                ],
+                "Turkmen": [
+                    "gizlin san",
+                    "gizlin belgi"
+                ],
+                "Uyghur": [
+                    "كىملىك نومۇرى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "жашыруун сан"
+                ],
+                "Karakalpak": [
+                    "jasırın san"
+                ],
+                "Tatar": [
+                    "яшерен сан"
+                ],
+                "Bashkir": [
+                    "йәшерен һан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "құпия код"
+                ],
+                "Kyrgyz": [
+                    "купуя сан"
+                ],
+                "Karakalpak": [
+                    "qұpiya san"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "сыр сөз"
+                ],
+                "Tatar": [
+                    "серле сан"
+                ],
+                "Bashkir": [
+                    "сер һүҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şifre"
+                ],
+                "Azerbaijani": [
+                    "şifrə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maxfiy raqam",
+                    "maxfiy kod"
+                ],
+                "Uyghur": [
+                    "مەخپىي نومۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жеке код"
+                ],
+                "Karakalpak": [
+                    "jeke san"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "таныклау коды"
+                ],
+                "Bashkir": [
+                    "танытыу һаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "parola"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сәйкестендіру нөмірі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өздүк код"
+                ]
+            }
+        }
+    ]
+}

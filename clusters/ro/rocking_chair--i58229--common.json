@@ -1,0 +1,86 @@
+{
+    "id": "i58229",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rocking chair",
+    "en_definition": "a chair mounted on rockers",
+    "tr_word": "sallanan sandalye",
+    "tr_definition": "Kavisli ayakları sayesinde ileri geri sallanabilen koltuk türü.",
+    "ru_word": "кресло-качалка",
+    "ru_definition": "Стул или кресло на изогнутых опорах, позволяющих качаться вперед и назад.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тербелмелі орындық",
+                    "тербелме орындық"
+                ],
+                "Kyrgyz": [
+                    "термелме отургуч",
+                    "термелме кресло"
+                ],
+                "Karakalpak": [
+                    "termeli orındıq",
+                    "termelmeli orındıq"
+                ],
+                "Tatar": [
+                    "тирбәлмә кәнәфи",
+                    "тирбәлүче кәнәфи"
+                ],
+                "Bashkir": [
+                    "тирбәлмә ултырғыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sallanan sandalye",
+                    "sallanan koltuk"
+                ],
+                "Azerbaijani": [
+                    "yellənən kürsü",
+                    "yelləncəkli kürsü",
+                    "yellənən stul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tebranma kursi",
+                    "tebranadigan kursi",
+                    "tebranma o'rindiq"
+                ],
+                "Uyghur": [
+                    "تەۋرەنمە ئورۇندۇق",
+                    "تەۋرەنمە كۈرۈسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yrgyldaýan oturgyç",
+                    "yrgyldyly oturgyç",
+                    "yranýan oturgyç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "маятникті орындық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәүелмә ултырғыс"
+                ]
+            }
+        }
+    ]
+}

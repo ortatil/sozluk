@@ -1,0 +1,117 @@
+{
+    "id": "i23608",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "boil",
+    "en_definition": "bring to, or maintain at, the boiling point",
+    "tr_word": "kaynatmak",
+    "tr_definition": "Bir sıvıyı kaynama noktasına getirmek veya bu noktada tutmak",
+    "ru_word": "кипятить",
+    "ru_definition": "доводить жидкость до кипения или поддерживать её в состоянии кипения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaynatmak"
+                ],
+                "Azerbaijani": [
+                    "qaynatmaq"
+                ],
+                "Turkmen": [
+                    "gaýnatmak"
+                ],
+                "Uzbek": [
+                    "qaynatmoq",
+                    "qaynamoq"
+                ],
+                "Uyghur": [
+                    "قايناتماق"
+                ],
+                "Kazakh": [
+                    "қайнату"
+                ],
+                "Kyrgyz": [
+                    "кайнатуу"
+                ],
+                "Karakalpak": [
+                    "qaynatıu"
+                ],
+                "Tatar": [
+                    "кайнату"
+                ],
+                "Bashkir": [
+                    "ҡайнатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "coşturmak"
+                ],
+                "Azerbaijani": [
+                    "coşdurmaq"
+                ],
+                "Turkmen": [
+                    "joşdurmak"
+                ],
+                "Uzbek": [
+                    "joʻshurmoq"
+                ],
+                "Uyghur": [
+                    "جوشۇرماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bişirmək"
+                ],
+                "Kazakh": [
+                    "пісіру"
+                ],
+                "Tatar": [
+                    "пешерү"
+                ],
+                "Bashkir": [
+                    "бешереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұрқылдату"
+                ],
+                "Karakalpak": [
+                    "búlkildetiu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haşlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pürepürlemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бышыруу"
+                ]
+            }
+        }
+    ]
+}

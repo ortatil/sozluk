@@ -1,0 +1,72 @@
+{
+    "id": "i80098",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north america",
+    "en_definition": "the nations of the North American continent collectively",
+    "tr_word": "Kuzey Amerika",
+    "tr_definition": "Kuzey Amerika kıtasındaki ülkelerin tamamı",
+    "ru_word": "Северная Америка",
+    "ru_definition": "совокупность стран североамериканского континента",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimali Amerika"
+                ],
+                "Uzbek": [
+                    "Shimoliy Amerika"
+                ],
+                "Uyghur": [
+                    "شىمالىي ئامېرىكا"
+                ],
+                "Karakalpak": [
+                    "Shimal Amerika"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "Түндүк Америка"
+                ],
+                "Tatar": [
+                    "Төньяк Америка"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Америка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Amerika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk Amerika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Солтүстік Америка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Arqa Amerika"
+                ]
+            }
+        }
+    ]
+}

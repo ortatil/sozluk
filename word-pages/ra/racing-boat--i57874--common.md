@@ -1,0 +1,178 @@
+# Racing boat
+| Field | Detail |
+|---|---|
+| **ID** | i57874 |
+| **English** | racing boat |
+| **Type** | noun |
+| **Definition** | a boat propelled by oarsmen and designed for racing |
+| **Source** | common |
+| **Ortatil** | filikä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i57874",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "racing boat",
+    "en_definition": "a boat propelled by oarsmen and designed for racing",
+    "tr_word": "yarış teknesi",
+    "tr_definition": "kürekçiler tarafından yürütülen ve yarış için tasarlanmış tekne",
+    "ru_word": "гоночное судно",
+    "ru_definition": "лодка, приводимая в движение гребцами и предназначенная для гонок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarış teknesi",
+                    "yarış kayığı"
+                ],
+                "Azerbaijani": [
+                    "yarış qayığı"
+                ],
+                "Turkmen": [
+                    "ýaryş gämisi",
+                    "ýaryş gaýygy"
+                ],
+                "Kazakh": [
+                    "жарыс қайығы"
+                ],
+                "Kyrgyz": [
+                    "жарыш кайыгы"
+                ],
+                "Karakalpak": [
+                    "jarıs qayıǵı"
+                ],
+                "Tatar": [
+                    "ярыш көймәсе"
+                ],
+                "Bashkir": [
+                    "ярыш кәмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sport qayig'i"
+                ],
+                "Kyrgyz": [
+                    "спорттук кайык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "eshkakli qayiq"
+                ],
+                "Tatar": [
+                    "ишкәкле көймә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۈگۈرۈك كېمە"
+                ],
+                "Kazakh": [
+                    "жүйрік қайық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "узыш көймәсе"
+                ],
+                "Bashkir": [
+                    "уҙыш кәмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "filika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pazar kayığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "idman qayığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "avarçəkmə qayığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kürekli gaýyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poyga qayig'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇسابىقە كېمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېز كېمە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ескекті қайық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чапкыч кайык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "keme"
+                ]
+            }
+        }
+    ]
+}
+```
+

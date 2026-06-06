@@ -1,0 +1,159 @@
+# Smooth dogfish
+| Field | Detail |
+|---|---|
+| **ID** | i43146 |
+| **English** | smooth dogfish |
+| **Type** | noun |
+| **Definition** | small bottom-dwelling shark found along both Atlantic coasts |
+| **Source** | common |
+| **Ortatil** | itbalıq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| акула | akula |
+| **Bashkir** | |
+| акула | akula |
+
+```json
+{
+    "id": "i43146",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "smooth dogfish",
+    "en_definition": "small bottom-dwelling shark found along both Atlantic coasts",
+    "tr_word": "adi köpekbalığı",
+    "tr_definition": "Atlantik kıyılarında yaşayan, dipte beslenen küçük bir köpekbalığı türü",
+    "ru_word": "обыкновенная кунья акула",
+    "ru_definition": "небольшая донная акула, обитающая вдоль обоих побережий Атлантического океана",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adi camgöz"
+                ],
+                "Azerbaijani": [
+                    "adi köpəkbalığı"
+                ],
+                "Kyrgyz": [
+                    "ит балык"
+                ],
+                "Tatar": [
+                    "эт акуласы"
+                ],
+                "Bashkir": [
+                    "эт акулаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "köpek balığı"
+                ],
+                "Azerbaijani": [
+                    "kiçik köpəkbalığı"
+                ],
+                "Turkmen": [
+                    "kiçi akula"
+                ],
+                "Uzbek": [
+                    "kichik akula"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "itbalyk"
+                ],
+                "Uzbek": [
+                    "itbaliq"
+                ],
+                "Kazakh": [
+                    "итбалық акула"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тегіс акула"
+                ],
+                "Karakalpak": [
+                    "tegis akula"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "акула"
+                ],
+                "Bashkir": [
+                    "акула"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "camgöz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hamar köpəkbalığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qum akulasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سىلىق تېرىلىق لەھەڭ",
+                    "سىلىق ئىت بېلىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәдімгі акула"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kunya akulası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шома акула"
+                ]
+            }
+        }
+    ]
+}
+```
+

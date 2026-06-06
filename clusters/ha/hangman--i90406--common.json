@@ -1,0 +1,113 @@
+{
+    "id": "i90406",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hangman",
+    "en_definition": "an executioner who hangs the condemned person",
+    "tr_word": "cellat",
+    "tr_definition": "ölüm cezasına çarptırılanları asarak infaz eden görevli",
+    "ru_word": "палач",
+    "ru_definition": "лицо, приводящее в исполнение приговор о смертной казни через повешение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cellat"
+                ],
+                "Azerbaijani": [
+                    "cəllad"
+                ],
+                "Turkmen": [
+                    "jellat"
+                ],
+                "Uzbek": [
+                    "jallod"
+                ],
+                "Uyghur": [
+                    "جاللات"
+                ],
+                "Karakalpak": [
+                    "jállat"
+                ],
+                "Tatar": [
+                    "җәлләт"
+                ],
+                "Bashkir": [
+                    "йәлләт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asıcı"
+                ],
+                "Turkmen": [
+                    "asjy"
+                ],
+                "Kazakh": [
+                    "асушы"
+                ],
+                "Karakalpak": [
+                    "asıushı"
+                ],
+                "Tatar": [
+                    "асып үтерүче"
+                ],
+                "Bashkir": [
+                    "аҫыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "darğaçı"
+                ],
+                "Uzbek": [
+                    "dorboz"
+                ],
+                "Uyghur": [
+                    "دارغا ئاسقۇچى"
+                ],
+                "Kyrgyz": [
+                    "дарга асуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жазалаушы"
+                ],
+                "Kyrgyz": [
+                    "жазалоочу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆلۈم جازاسى ئىجرا قىلغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жендет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өлтүрүүчү"
+                ]
+            }
+        }
+    ]
+}

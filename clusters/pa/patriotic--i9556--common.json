@@ -1,0 +1,106 @@
+{
+    "id": "i9556",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "patriotic",
+    "en_definition": "inspired by love for your country",
+    "tr_word": "vatansever",
+    "tr_definition": "vatanına karşı sevgi ve bağlılık duyan",
+    "ru_word": "патриотический",
+    "ru_definition": "проникнутый любовью к своей родине",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vatansever",
+                    "vatanperver"
+                ],
+                "Azerbaijani": [
+                    "vətənpərvər",
+                    "vətənsevər",
+                    "vətənpərəst"
+                ],
+                "Turkmen": [
+                    "watanperwer",
+                    "watansöýüji",
+                    "watançy"
+                ],
+                "Uzbek": [
+                    "vatanparvar",
+                    "vatansevar",
+                    "vatanparast"
+                ],
+                "Uyghur": [
+                    "ۋەتەنپەرۋەر",
+                    "ۋەتەننى سۆيىدىغان",
+                    "ۋەتەنپەرۋەرلىك"
+                ],
+                "Kazakh": [
+                    "патриоттық"
+                ],
+                "Kyrgyz": [
+                    "патриоттук"
+                ],
+                "Karakalpak": [
+                    "oatansúyioshi",
+                    "oatanpároar",
+                    "oatanshıl"
+                ],
+                "Tatar": [
+                    "ватанпәрвәр",
+                    "ватансөюче"
+                ],
+                "Bashkir": [
+                    "ватансыл",
+                    "ватанпәрүәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milliyetperver"
+                ],
+                "Uzbek": [
+                    "millatparvar"
+                ],
+                "Tatar": [
+                    "милләтпәрвәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yurtsever"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отансүйгіш",
+                    "отаншыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мекенчил",
+                    "ата-мекенчил",
+                    "мекенди сүйүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "илһөйәр"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "id": "i106472",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "alimony",
+    "en_definition": "court-ordered support paid by one spouse to another after they are separated",
+    "tr_word": "nafaka",
+    "tr_definition": "Boşanma veya ayrılık durumunda mahkeme kararıyla bir eşin diğerine ödediği geçim parası.",
+    "ru_word": "алименты",
+    "ru_definition": "Денежные средства на содержание, выплачиваемые по решению суда одним из супругов другому после развода или раздельного проживания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nafaka"
+                ],
+                "Azerbaijani": [
+                    "nəfəqə"
+                ],
+                "Turkmen": [
+                    "nafaka"
+                ],
+                "Uzbek": [
+                    "nafaqa"
+                ],
+                "Uyghur": [
+                    "نەپەقە"
+                ],
+                "Kazakh": [
+                    "нәпақа"
+                ],
+                "Kyrgyz": [
+                    "напака"
+                ],
+                "Karakalpak": [
+                    "nápáqa"
+                ],
+                "Tatar": [
+                    "нәфәка"
+                ],
+                "Bashkir": [
+                    "нәфәҡә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aliment"
+                ],
+                "Turkmen": [
+                    "aliment"
+                ],
+                "Kazakh": [
+                    "алимент"
+                ],
+                "Kyrgyz": [
+                    "алимент"
+                ],
+                "Tatar": [
+                    "алимент"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "taʼminot"
+                ],
+                "Uyghur": [
+                    "تەمىنات"
+                ],
+                "Karakalpak": [
+                    "támiyinleo"
+                ],
+                "Tatar": [
+                    "тәэминат"
+                ],
+                "Bashkir": [
+                    "тәьминәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geçimlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eklenç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "асырау ақысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "багуу акысы"
+                ]
+            }
+        }
+    ]
+}

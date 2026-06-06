@@ -1,0 +1,145 @@
+# People of color
+| Field | Detail |
+|---|---|
+| **ID** | i79190 |
+| **English** | people of color |
+| **Type** | noun |
+| **Definition** | a race with skin pigmentation different from the white race (especially Blacks) |
+| **Source** | common |
+| **Ortatil** | garayagızlar |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i79190",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "people of color",
+    "en_definition": "a race with skin pigmentation different from the white race (especially Blacks)",
+    "tr_word": "beyaz olmayan insanlar",
+    "tr_definition": "beyaz ırktan farklı ten rengine sahip olan ırklar (özellikle siyahiler)",
+    "ru_word": "цветное население",
+    "ru_definition": "раса с пигментацией кожи, отличной от белой расы (особенно чернокожие)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qeyri-ağ irqlər"
+                ],
+                "Uzbek": [
+                    "qora tanlilar"
+                ],
+                "Kazakh": [
+                    "қара нәсілділер"
+                ],
+                "Kyrgyz": [
+                    "кара терилүү элдер"
+                ],
+                "Karakalpak": [
+                    "qara násiller"
+                ],
+                "Tatar": [
+                    "кара тәнлеләр"
+                ],
+                "Bashkir": [
+                    "ҡара тәнлеләр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "renkli halklar"
+                ],
+                "Azerbaijani": [
+                    "rəngli insanlar",
+                    "rəngli irqlər"
+                ],
+                "Turkmen": [
+                    "reňkli halklar"
+                ],
+                "Uzbek": [
+                    "rangli xalqlar"
+                ],
+                "Uyghur": [
+                    "رەڭلىك ئىرقلار",
+                    "رەڭلىك تەنلىكلەر"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "түрлі-түсті халықтар"
+                ],
+                "Karakalpak": [
+                    "túrli túsli xalıqlar",
+                    "túrli túsli adamlar"
+                ],
+                "Tatar": [
+                    "төсле халыклар"
+                ],
+                "Bashkir": [
+                    "төҫлө халыҡтар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz olmayanlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "esmer tenliler"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "garaýagyzlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bugʻdoyrang xalqlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоңыр нәсілділер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түстүү элдер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башка расалар"
+                ]
+            }
+        }
+    ]
+}
+```
+

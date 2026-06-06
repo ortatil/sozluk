@@ -1,0 +1,100 @@
+{
+    "id": "i53033",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dollhouse",
+    "en_definition": "a small model of a house used as a toy by children",
+    "tr_word": "oyuncak bebek evi",
+    "tr_definition": "çocukların oynaması için yapılmış, gerçek bir evin küçük ölçekli modeli",
+    "ru_word": "кукольный домик",
+    "ru_definition": "игрушечная модель дома в миниатюре, предназначенная для игр с куклами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyuncak ev"
+                ],
+                "Azerbaijani": [
+                    "oyuncaq evi"
+                ],
+                "Turkmen": [
+                    "oýunjak öýi"
+                ],
+                "Uzbek": [
+                    "o'yinchoq uy"
+                ],
+                "Uyghur": [
+                    "ئويۇنچۇق ئۆي"
+                ],
+                "Kazakh": [
+                    "ойыншық үй"
+                ],
+                "Karakalpak": [
+                    "oyınshıq úy"
+                ],
+                "Tatar": [
+                    "уенчык өй"
+                ],
+                "Bashkir": [
+                    "уйынсыҡ өй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gurjak öýi"
+                ],
+                "Uyghur": [
+                    "قورچاق ئۆيى"
+                ],
+                "Kazakh": [
+                    "қуыршақ үйі"
+                ],
+                "Kyrgyz": [
+                    "куурчак үйү",
+                    "куурчактын үйү"
+                ],
+                "Karakalpak": [
+                    "quırshaq úy"
+                ],
+                "Tatar": [
+                    "курчак өе"
+                ],
+                "Bashkir": [
+                    "курсаҡ өйө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bebek evi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "maket ev"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gəlincik evi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qo'g'irchoq uyi"
+                ]
+            }
+        }
+    ]
+}

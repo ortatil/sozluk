@@ -1,0 +1,182 @@
+{
+    "id": "i28920",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "deliver",
+    "en_definition": "bring to a destination, make a delivery",
+    "tr_word": "teslim etmek",
+    "tr_definition": "bir şeyi bir yere veya bir kimseye ulaştırmak, elden vermek",
+    "ru_word": "доставлять",
+    "ru_definition": "приносить или привозить что-либо в назначенное место",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yetirmək"
+                ],
+                "Turkmen": [
+                    "ýetirmek"
+                ],
+                "Uzbek": [
+                    "yetkazmoq"
+                ],
+                "Uyghur": [
+                    "يەتكۈزمەك"
+                ],
+                "Kazakh": [
+                    "жеткізу"
+                ],
+                "Kyrgyz": [
+                    "жеткирүү"
+                ],
+                "Karakalpak": [
+                    "jetkizio"
+                ],
+                "Tatar": [
+                    "җиткерү"
+                ],
+                "Bashkir": [
+                    "еткереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tabşyrmak"
+                ],
+                "Uzbek": [
+                    "topshirmoq"
+                ],
+                "Uyghur": [
+                    "تاپشۇرماق"
+                ],
+                "Kazakh": [
+                    "тапсыру",
+                    "табыстау"
+                ],
+                "Kyrgyz": [
+                    "тапшыруу"
+                ],
+                "Karakalpak": [
+                    "tapsırıo"
+                ],
+                "Tatar": [
+                    "тапшыру"
+                ],
+                "Bashkir": [
+                    "тапшырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iletmek"
+                ],
+                "Turkmen": [
+                    "eltmek"
+                ],
+                "Uzbek": [
+                    "eltmoq"
+                ],
+                "Tatar": [
+                    "илтү"
+                ],
+                "Bashkir": [
+                    "илтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vermek"
+                ],
+                "Kazakh": [
+                    "беру"
+                ],
+                "Kyrgyz": [
+                    "берүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yetkazib bermoq"
+                ],
+                "Uyghur": [
+                    "يەتكۈزۈپ بەرمەك"
+                ],
+                "Karakalpak": [
+                    "jetkizip berio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "teslim etmek"
+                ],
+                "Azerbaijani": [
+                    "təslim etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ulaştırmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "götürmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çatdırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paylamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gowşurmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېلىپ بارماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "berip jiberio"
+                ]
+            }
+        }
+    ]
+}

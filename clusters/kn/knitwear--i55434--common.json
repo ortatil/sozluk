@@ -1,0 +1,100 @@
+{
+    "id": "i55434",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "knitwear",
+    "en_definition": "knitted clothing",
+    "tr_word": "triko",
+    "tr_definition": "Örme kumaştan yapılmış giysi.",
+    "ru_word": "трикотаж",
+    "ru_definition": "Вязаные изделия или трикотажная одежда.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "triko"
+                ],
+                "Azerbaijani": [
+                    "trikotaj"
+                ],
+                "Turkmen": [
+                    "trikotaž"
+                ],
+                "Uzbek": [
+                    "trikotaj"
+                ],
+                "Kyrgyz": [
+                    "трикотаж"
+                ],
+                "Tatar": [
+                    "трикотаж"
+                ],
+                "Bashkir": [
+                    "трикотаж"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "toxunma",
+                    "toxuma"
+                ],
+                "Turkmen": [
+                    "dokama"
+                ],
+                "Uzbek": [
+                    "to'qilma",
+                    "to'qilgan kiyim"
+                ],
+                "Uyghur": [
+                    "توقۇلما كىيىم",
+                    "توقۇلما",
+                    "توقۇلغان كىيىم"
+                ],
+                "Kazakh": [
+                    "тоқыма",
+                    "тоқылған киім",
+                    "тоқыма бұйымдары"
+                ],
+                "Kyrgyz": [
+                    "токулган кийим",
+                    "токулма"
+                ],
+                "Karakalpak": [
+                    "toqıma",
+                    "toqılǵan kiyim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәйләм",
+                    "бәйләнгән кием"
+                ],
+                "Bashkir": [
+                    "бәйләм",
+                    "бәйләнгән кейем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "örgü",
+                    "örgü giysi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "örülen eşik"
+                ]
+            }
+        }
+    ]
+}

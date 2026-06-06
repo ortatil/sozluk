@@ -1,0 +1,111 @@
+{
+    "id": "i91882",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "party man",
+    "en_definition": "a member of a political party who follows strictly the party line",
+    "tr_word": "parti adamı",
+    "tr_definition": "parti politikasına ve disiplinine sıkı sıkıya bağlı olan siyasetçi",
+    "ru_word": "партиец",
+    "ru_definition": "человек, строго придерживающийся линии своей политической партии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "partili",
+                    "fırkacı",
+                    "parti adamı"
+                ],
+                "Azerbaijani": [
+                    "partiyaçı",
+                    "partiya üzvü"
+                ],
+                "Turkmen": [
+                    "partiýaçy"
+                ],
+                "Uzbek": [
+                    "partiyadosh",
+                    "partiya a'zosi",
+                    "firqadosh"
+                ],
+                "Uyghur": [
+                    "پارتىيە ئەزاسى",
+                    "پارتىيىچى",
+                    "پارتىيە ئەھلى"
+                ],
+                "Kazakh": [
+                    "партия мүшесі",
+                    "партияшыл",
+                    "партиялық"
+                ],
+                "Kyrgyz": [
+                    "партиячы",
+                    "партия мүчөсү"
+                ],
+                "Karakalpak": [
+                    "partiya aǵzası",
+                    "partiyashı"
+                ],
+                "Tatar": [
+                    "фиркаче",
+                    "фирка әгъзасы",
+                    "фирка тарафдары"
+                ],
+                "Bashkir": [
+                    "партия ағзаһы",
+                    "партиялы",
+                    "партия кешеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məsləkdaş"
+                ],
+                "Uzbek": [
+                    "maslakdosh"
+                ],
+                "Karakalpak": [
+                    "máslákdas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "teşkilatçı"
+                ],
+                "Azerbaijani": [
+                    "təşkilatçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pikirdeş"
+                ],
+                "Kyrgyz": [
+                    "пикирлеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "agza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тилектеш"
+                ]
+            }
+        }
+    ]
+}

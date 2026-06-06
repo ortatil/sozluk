@@ -1,0 +1,99 @@
+{
+    "id": "i71309",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "greeting card",
+    "en_definition": "a card sent to express personal greetings",
+    "tr_word": "tebrik kartı",
+    "tr_definition": "kişisel kutlamaları veya iyi dilekleri iletmek için gönderilen kart",
+    "ru_word": "поздравительная открытка",
+    "ru_definition": "открытка, посылаемая для выражения личных поздравлений или пожеланий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kutlama kartı"
+                ],
+                "Turkmen": [
+                    "gutlag haty",
+                    "gutlag kartoçkasy"
+                ],
+                "Uzbek": [
+                    "qutlovnoma"
+                ],
+                "Kazakh": [
+                    "құттықтау хат",
+                    "құттықтау қағазы"
+                ],
+                "Kyrgyz": [
+                    "куттуктоо баракчасы",
+                    "куттуктоо каты",
+                    "куттуктоо"
+                ],
+                "Karakalpak": [
+                    "qutlıqlao xatı"
+                ],
+                "Tatar": [
+                    "котлау кәгазе"
+                ],
+                "Bashkir": [
+                    "ҡотлау открыткаһы",
+                    "ҡотлау хаты",
+                    "ҡотлаунамә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tebrik kartı"
+                ],
+                "Azerbaijani": [
+                    "təbrik kartı",
+                    "təbriknamə"
+                ],
+                "Uzbek": [
+                    "tabriknoma"
+                ],
+                "Uyghur": [
+                    "تەبرىك كارتىسى",
+                    "تەبرىكنامە"
+                ],
+                "Tatar": [
+                    "тәбрикнамә",
+                    "тәбрик кәгазе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سالام كارتىسى"
+                ],
+                "Kazakh": [
+                    "сәлемхат"
+                ],
+                "Karakalpak": [
+                    "sálemnama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kartpostal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "açıqca"
+                ]
+            }
+        }
+    ]
+}

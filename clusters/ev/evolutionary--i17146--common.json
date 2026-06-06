@@ -1,0 +1,140 @@
+{
+    "id": "i17146",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "evolutionary",
+    "en_definition": "of or relating to or produced by evolution",
+    "tr_word": "evrimsel",
+    "tr_definition": "evrim ile ilgili veya evrim sonucu ortaya çıkan",
+    "ru_word": "эволюционный",
+    "ru_definition": "относящийся к эволюции или произведенный в результате эволюции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ösuşli",
+                    "özgerişli"
+                ],
+                "Kazakh": [
+                    "өзгеру"
+                ],
+                "Kyrgyz": [
+                    "өсүү",
+                    "өзгөрүү"
+                ],
+                "Karakalpak": [
+                    "ózgeriwshi"
+                ],
+                "Tatar": [
+                    "үзгәрешле",
+                    "үсешле"
+                ],
+                "Bashkir": [
+                    "үҫешле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tədrici"
+                ],
+                "Uzbek": [
+                    "tadrijiy"
+                ],
+                "Uyghur": [
+                    "تەدرىجىي تەرەققىياتقا ئائىت",
+                    "تەدرىجىي تەرەققىيات خاراكتېرلىك",
+                    "تەدرىجىي"
+                ],
+                "Tatar": [
+                    "тәдриҗи"
+                ],
+                "Bashkir": [
+                    "тәрәккияти",
+                    "тәдрижи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "evrimsel",
+                    "evrimle ilgili"
+                ],
+                "Turkmen": [
+                    "ewolýusion"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekamülsel"
+                ],
+                "Azerbaijani": [
+                    "təkamül",
+                    "təkamüli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kemala geliş"
+                ],
+                "Kazakh": [
+                    "кемелдену"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rivojlanishga oid"
+                ],
+                "Karakalpak": [
+                    "rawajlanıwshı",
+                    "rawajlanıw"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taraqqiyotga oid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "даму"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сатылы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өнүгүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "баскычтуу"
+                ]
+            }
+        }
+    ]
+}

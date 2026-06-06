@@ -1,0 +1,72 @@
+{
+    "id": "i65378",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "perspiration",
+    "en_definition": "salty fluid secreted by sweat glands",
+    "tr_word": "ter",
+    "tr_definition": "ter bezleri tarafından salgılanan tuzlu sıvı",
+    "ru_word": "пот",
+    "ru_definition": "соленая жидкость, выделяемая потовыми железами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ter",
+                    "terleme"
+                ],
+                "Azerbaijani": [
+                    "tər",
+                    "tərləmə"
+                ],
+                "Turkmen": [
+                    "der",
+                    "ter"
+                ],
+                "Uzbek": [
+                    "ter",
+                    "terlash"
+                ],
+                "Uyghur": [
+                    "تەر",
+                    "تەرلەش"
+                ],
+                "Kazakh": [
+                    "тер",
+                    "тершеңдік"
+                ],
+                "Kyrgyz": [
+                    "тер",
+                    "тердөө"
+                ],
+                "Karakalpak": [
+                    "ter",
+                    "terleo"
+                ],
+                "Tatar": [
+                    "тир",
+                    "тирләү"
+                ],
+                "Bashkir": [
+                    "тир",
+                    "тирләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shira"
+                ]
+            }
+        }
+    ]
+}

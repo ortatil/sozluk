@@ -1,0 +1,159 @@
+{
+    "id": "i21670",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "in full",
+    "en_definition": "referring to a quantity",
+    "tr_word": "tamamen",
+    "tr_definition": "miktarın tamamını ifade edecek şekilde, eksiksiz olarak",
+    "ru_word": "полностью",
+    "ru_definition": "в полном объеме, без остатка или сокращений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bütünüyle"
+                ],
+                "Azerbaijani": [
+                    "bütövlüklə"
+                ],
+                "Turkmen": [
+                    "bütinleý"
+                ],
+                "Uzbek": [
+                    "butunlay"
+                ],
+                "Uyghur": [
+                    "پۈتۈنلەي"
+                ],
+                "Kyrgyz": [
+                    "бүтүндөй"
+                ],
+                "Karakalpak": [
+                    "pútinley"
+                ],
+                "Tatar": [
+                    "бөтенләй"
+                ],
+                "Bashkir": [
+                    "бөтөнләй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "doly"
+                ],
+                "Uzbek": [
+                    "to'liq"
+                ],
+                "Uyghur": [
+                    "تولۇق",
+                    "تولۇقى بىلەن"
+                ],
+                "Kazakh": [
+                    "толық",
+                    "толықтай"
+                ],
+                "Kyrgyz": [
+                    "толугу менен",
+                    "толук"
+                ],
+                "Karakalpak": [
+                    "tolıq",
+                    "tolıǵı menen"
+                ],
+                "Tatar": [
+                    "тулысынча",
+                    "тулы килеш"
+                ],
+                "Bashkir": [
+                    "тулыһынса",
+                    "тулы килеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tamamen",
+                    "tam"
+                ],
+                "Azerbaijani": [
+                    "tamamilə",
+                    "tam"
+                ],
+                "Turkmen": [
+                    "tamam"
+                ],
+                "Uzbek": [
+                    "tamoman"
+                ],
+                "Uyghur": [
+                    "تامامەن"
+                ],
+                "Tatar": [
+                    "тәмәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "түгел",
+                    "түгелдей"
+                ],
+                "Kyrgyz": [
+                    "түгөл"
+                ],
+                "Karakalpak": [
+                    "túgel",
+                    "túgeli menen"
+                ],
+                "Bashkir": [
+                    "төгәл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eksiksiz"
+                ],
+                "Azerbaijani": [
+                    "əskiksiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tutuşlygyna"
+                ],
+                "Kazakh": [
+                    "тұтас",
+                    "тұтастай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mukammal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "barcha"
+                ]
+            }
+        }
+    ]
+}

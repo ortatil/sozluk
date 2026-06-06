@@ -1,0 +1,116 @@
+{
+    "id": "i69421",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "print media",
+    "en_definition": "a medium that disseminates printed matter",
+    "tr_word": "yazılı basın",
+    "tr_definition": "Gazete, dergi ve kitap gibi basılı materyaller aracılığıyla bilgi yayan medya türü.",
+    "ru_word": "печатные СМИ",
+    "ru_definition": "Средства массовой информации, распространяющие информацию в виде печатных изданий, таких как газеты и журналы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "matbuat"
+                ],
+                "Azerbaijani": [
+                    "mətbuat"
+                ],
+                "Turkmen": [
+                    "metbugat"
+                ],
+                "Uzbek": [
+                    "matbuot"
+                ],
+                "Uyghur": [
+                    "مەتبۇئات"
+                ],
+                "Kyrgyz": [
+                    "матбуат"
+                ],
+                "Karakalpak": [
+                    "mátbuat"
+                ],
+                "Tatar": [
+                    "матбугат"
+                ],
+                "Bashkir": [
+                    "матбуғат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "basın",
+                    "yazılı basın",
+                    "basılı medya"
+                ],
+                "Uzbek": [
+                    "bosma nashrlar"
+                ],
+                "Uyghur": [
+                    "باسمىچىلىق"
+                ],
+                "Kazakh": [
+                    "баспасөз",
+                    "баспа"
+                ],
+                "Kyrgyz": [
+                    "басма сөз",
+                    "басылма"
+                ],
+                "Karakalpak": [
+                    "baspasóz"
+                ],
+                "Tatar": [
+                    "басма сүз"
+                ],
+                "Bashkir": [
+                    "баҫма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəşriyyat"
+                ],
+                "Turkmen": [
+                    "neşirýat"
+                ],
+                "Uzbek": [
+                    "nashriyot"
+                ],
+                "Uyghur": [
+                    "نەشرىياتچىلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çap mediası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çap neşirleri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мерзімді басылым"
+                ]
+            }
+        }
+    ]
+}

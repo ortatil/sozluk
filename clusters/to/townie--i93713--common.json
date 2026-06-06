@@ -1,0 +1,131 @@
+{
+    "id": "i93713",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "townie",
+    "en_definition": "resident of a college town not affiliated with the college",
+    "tr_word": "kasabalı",
+    "tr_definition": "bir üniversite kasabasında yaşayan ancak üniversite ile bağlantısı olmayan yerel sakin.",
+    "ru_word": "горожанин",
+    "ru_definition": "житель университетского городка, не имеющий отношения к университету.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yerli"
+                ],
+                "Azerbaijani": [
+                    "yerli"
+                ],
+                "Uyghur": [
+                    "يەرلىك ئاھالە",
+                    "يەرلىك كىشى"
+                ],
+                "Kazakh": [
+                    "жергілікті тұрғын"
+                ],
+                "Kyrgyz": [
+                    "жергиликтүү"
+                ],
+                "Karakalpak": [
+                    "jergіlіktі turǵın"
+                ],
+                "Tatar": [
+                    "җирле кеше"
+                ],
+                "Bashkir": [
+                    "ерле кеше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehirli"
+                ],
+                "Azerbaijani": [
+                    "şəhərli",
+                    "sakin"
+                ],
+                "Turkmen": [
+                    "şäherli",
+                    "şäher sakyny"
+                ],
+                "Uzbek": [
+                    "shaharli",
+                    "shahar fuqarosi"
+                ],
+                "Uyghur": [
+                    "شەھەرلىك"
+                ],
+                "Tatar": [
+                    "шәһәрле",
+                    "шәһәр кешесе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қалалық"
+                ],
+                "Karakalpak": [
+                    "qalalıq",
+                    "qala turǵını"
+                ],
+                "Bashkir": [
+                    "ҡала кешеһе",
+                    "ҡалалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұрғылықты адам"
+                ],
+                "Kyrgyz": [
+                    "тургун"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kasabalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ahali"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýerli ýaşaýjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mahalliy aholi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаардык"
+                ]
+            }
+        }
+    ]
+}

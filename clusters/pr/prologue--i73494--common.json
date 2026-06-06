@@ -1,0 +1,146 @@
+{
+    "id": "i73494",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "prologue",
+    "en_definition": "an introduction to a play",
+    "tr_word": "prolog",
+    "tr_definition": "bir oyunun veya edebi eserin giriş bölümü",
+    "ru_word": "пролог",
+    "ru_definition": "вступительная часть театрального или литературного произведения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mukaddime"
+                ],
+                "Azerbaijani": [
+                    "müqəddimə"
+                ],
+                "Turkmen": [
+                    "mukaddeme"
+                ],
+                "Uzbek": [
+                    "muqaddima"
+                ],
+                "Uyghur": [
+                    "مۇقەددىمە"
+                ],
+                "Kazakh": [
+                    "мұқаддима"
+                ],
+                "Kyrgyz": [
+                    "мукаддама"
+                ],
+                "Karakalpak": [
+                    "muqaddeme"
+                ],
+                "Tatar": [
+                    "мөкаддимә"
+                ],
+                "Bashkir": [
+                    "мөҡәддимә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "giriş"
+                ],
+                "Azerbaijani": [
+                    "giriş"
+                ],
+                "Turkmen": [
+                    "giriş"
+                ],
+                "Uzbek": [
+                    "kirish"
+                ],
+                "Uyghur": [
+                    "كىرىش سۆز"
+                ],
+                "Kazakh": [
+                    "кіріспе"
+                ],
+                "Kyrgyz": [
+                    "киришүү"
+                ],
+                "Karakalpak": [
+                    "kiris",
+                    "kirispe"
+                ],
+                "Tatar": [
+                    "кереш"
+                ],
+                "Bashkir": [
+                    "кириш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başlangıç"
+                ],
+                "Azerbaijani": [
+                    "başlanğıc"
+                ],
+                "Uzbek": [
+                    "peshguftor"
+                ],
+                "Uyghur": [
+                    "بېشى"
+                ],
+                "Kazakh": [
+                    "бастау"
+                ],
+                "Kyrgyz": [
+                    "баш сөз",
+                    "беш сөз"
+                ],
+                "Tatar": [
+                    "башлам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "önsöz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sözbaşy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "debocha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алғысөз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "инеш"
+                ]
+            }
+        }
+    ]
+}

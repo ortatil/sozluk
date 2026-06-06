@@ -1,0 +1,100 @@
+{
+    "id": "i64785",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "quadriceps",
+    "en_definition": "a muscle of the thigh that extends the leg",
+    "tr_word": "kuadriseps",
+    "tr_definition": "uyluğun ön kısmında bulunan ve bacağı germeye yarayan dört başlı büyük kas",
+    "ru_word": "квадрицепс",
+    "ru_definition": "четырехглавая мышца бедра, которая разгибает ногу в колене",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dört başlı uyluk kası"
+                ],
+                "Azerbaijani": [
+                    "dördbaşlı əzələ"
+                ],
+                "Turkmen": [
+                    "dörtbaşly but myşsasy"
+                ],
+                "Uzbek": [
+                    "toʻrt boshli mushak"
+                ],
+                "Uyghur": [
+                    "تۆت باشلىق مۇسكۇل",
+                    "تۆت باشلىق پۇت مۇسكۇلى"
+                ],
+                "Kazakh": [
+                    "төрт басты бұлшықет"
+                ],
+                "Kyrgyz": [
+                    "төрт баштуу булчуң"
+                ],
+                "Karakalpak": [
+                    "tórt balı bulshıq et"
+                ],
+                "Tatar": [
+                    "дүрт башлы бот мускулы",
+                    "дүрт башлы бот мускуласы",
+                    "дүрт башлы бот ите"
+                ],
+                "Bashkir": [
+                    "дүрт башлы бот мускулы",
+                    "дүрт башлы бот мускулаты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sonning toʻrt boshli mushagi"
+                ],
+                "Uyghur": [
+                    "ساننىڭ تۆت باشلىق مۇسكۇلى"
+                ],
+                "Kazakh": [
+                    "санның төрт басты бұлшықеті"
+                ],
+                "Kyrgyz": [
+                    "сан булчуңу"
+                ],
+                "Karakalpak": [
+                    "san bulshıq eti"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "budun dördbaşlı əzələsi"
+                ],
+                "Turkmen": [
+                    "but myşsasy"
+                ],
+                "Bashkir": [
+                    "бот мускулы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uyluk kası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ön uyluk kası"
+                ]
+            }
+        }
+    ]
+}

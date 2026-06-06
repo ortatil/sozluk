@@ -1,0 +1,161 @@
+# Custard
+| Field | Detail |
+|---|---|
+| **ID** | i76875 |
+| **English** | custard |
+| **Type** | noun |
+| **Definition** | sweetened mixture of milk and eggs baked or boiled or frozen |
+| **Source** | common |
+| **Ortatil** | mühallebi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i76875",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "custard",
+    "en_definition": "sweetened mixture of milk and eggs baked or boiled or frozen",
+    "tr_word": "muhallebi",
+    "tr_definition": "süt ve yumurta ile hazırlanan, genellikle şekerle tatlandırılmış bir tür tatlı veya krema",
+    "ru_word": "заварной крем",
+    "ru_definition": "сладкая смесь из молока и яиц, приготовленная путем кипячения или запекания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sütlü tatlı"
+                ],
+                "Azerbaijani": [
+                    "südlü aş"
+                ],
+                "Turkmen": [
+                    "süýtli aş"
+                ],
+                "Uzbek": [
+                    "sutli quyqa"
+                ],
+                "Uyghur": [
+                    "سۈت پىشۇرمىسى"
+                ],
+                "Kazakh": [
+                    "сүт ботқасы"
+                ],
+                "Kyrgyz": [
+                    "сүт ботко"
+                ],
+                "Karakalpak": [
+                    "sút botqa",
+                    "sút palau"
+                ],
+                "Tatar": [
+                    "сөтле крем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тәтті крем"
+                ],
+                "Kyrgyz": [
+                    "таттуу маңыз"
+                ],
+                "Karakalpak": [
+                    "táttі botqa"
+                ],
+                "Tatar": [
+                    "татлы ботка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жұмыртқалы сүт"
+                ],
+                "Kyrgyz": [
+                    "жумуртка-сүт аралашмасы"
+                ],
+                "Tatar": [
+                    "йомыркалы крем"
+                ],
+                "Bashkir": [
+                    "йомортҡалы һөт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muhallebi"
+                ],
+                "Azerbaijani": [
+                    "muhallebi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şireli süýt"
+                ],
+                "Uzbek": [
+                    "shirin quyqa",
+                    "shirin bo'tqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "krema"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "palanuza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fırni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pudin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇخۇملۇق سۈت پىشۇرمىسى",
+                    "تۇخۇملۇق پىشۇرما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡайнатма крем"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,171 @@
+# Brace wrench
+| Field | Detail |
+|---|---|
+| **ID** | i51064 |
+| **English** | brace wrench |
+| **Type** | noun |
+| **Definition** | a wrench shaped like a brace (has a handle shaped like a crank) and a socket head |
+| **Source** | common |
+| **Ortatil** | girägiç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| گىرەگۈچ | girägüç |
+
+```json
+{
+    "id": "i51064",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brace wrench",
+    "en_definition": "a wrench shaped like a brace (has a handle shaped like a crank) and a socket head",
+    "tr_word": "kollu lokma anahtarı",
+    "tr_definition": "Krank şeklinde bir kola ve bir soket kafasına sahip olan, hızlı döndürme sağlayan bir anahtar türü.",
+    "ru_word": "коловоротный торцевой ключ",
+    "ru_definition": "Торцевой ключ с рукояткой в форме коленчатого вала (как у коловорота) для быстрого вращения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aylanma kalit"
+                ],
+                "Kazakh": [
+                    "иінді кілт"
+                ],
+                "Kyrgyz": [
+                    "иймек ачкыч"
+                ],
+                "Karakalpak": [
+                    "iymek kilt",
+                    "iymek saplı kilt"
+                ],
+                "Bashkir": [
+                    "игенле асҡыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dirsəkli açar"
+                ],
+                "Turkmen": [
+                    "tirsekli açar"
+                ],
+                "Uzbek": [
+                    "tirsakli kalit"
+                ],
+                "Tatar": [
+                    "терсәкле ачкыч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "buraw açar"
+                ],
+                "Kazakh": [
+                    "бұрама кілт"
+                ],
+                "Kyrgyz": [
+                    "бурама ачкыч"
+                ],
+                "Bashkir": [
+                    "боролмалы асҡыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kollu lokma anahtarı",
+                    "kollu anahtar"
+                ],
+                "Azerbaijani": [
+                    "qollu açar"
+                ],
+                "Kyrgyz": [
+                    "кол ачкыч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fırdöndü kol"
+                ],
+                "Azerbaijani": [
+                    "fırlanan açar"
+                ],
+                "Bashkir": [
+                    "бырау асҡыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "egri açar"
+                ],
+                "Uyghur": [
+                    "گىرە ئاچقۇچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastaki kalit"
+                ],
+                "Uyghur": [
+                    "دەستىلىك ئاچقۇچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айналмалы кілт"
+                ],
+                "Karakalpak": [
+                    "aylandırma kilt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıkrıklı anahtar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گىرەگۈچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бөгелгән ачкыч"
+                ]
+            }
+        }
+    ]
+}
+```
+

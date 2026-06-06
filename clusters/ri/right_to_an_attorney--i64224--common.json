@@ -1,0 +1,146 @@
+{
+    "id": "i64224",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "right to an attorney",
+    "en_definition": "a civil right guaranteed by the 6th amendment to the US Constitution",
+    "tr_word": "avukat tutma hakkı",
+    "tr_definition": "ABD Anayasası'nın 6. maddesi tarafından garanti altına alınan, sanığın hukuki yardım alma hakkını ifade eden sivil hak.",
+    "ru_word": "право на адвоката",
+    "ru_definition": "гражданское право, гарантированное 6-й поправкой к Конституции США, обеспечивающее помощь защитника в суде.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "avukat tutma hakkı"
+                ],
+                "Turkmen": [
+                    "adwokata bolan hukuk"
+                ],
+                "Uzbek": [
+                    "advokat olish huquqi"
+                ],
+                "Kazakh": [
+                    "адвокат алу құқығы"
+                ],
+                "Karakalpak": [
+                    "adwokat iye bolıo huqıqı",
+                    "adwokat penen támiyinlenio huqıqı"
+                ],
+                "Tatar": [
+                    "адвокат хокукы"
+                ],
+                "Bashkir": [
+                    "адвокат хоҡуғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hukuki yardım alma hakkı"
+                ],
+                "Azerbaijani": [
+                    "hüquqi yardım almaq hüququ"
+                ],
+                "Turkmen": [
+                    "hukuk kömegine bolan hukuk"
+                ],
+                "Uzbek": [
+                    "huquqiy yordam olish huquqi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vəkil hüququ"
+                ],
+                "Uyghur": [
+                    "ۋەكىل تەكلىپ قىلىش ھوقۇقى"
+                ],
+                "Tatar": [
+                    "вәкил хокукы"
+                ],
+                "Bashkir": [
+                    "вәкил хоҡуғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goragça bolan hukuk"
+                ],
+                "Kazakh": [
+                    "қорғаушы алу құқығы",
+                    "қорғалу құқығы"
+                ],
+                "Kyrgyz": [
+                    "коргоочуга болгон укук"
+                ],
+                "Karakalpak": [
+                    "qorǵaoshı alıo huqıqı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "жактоочуга болгон укук",
+                    "жактоочу алуу укугу"
+                ],
+                "Tatar": [
+                    "яклаучы хокукы"
+                ],
+                "Bashkir": [
+                    "яҡлаусы хоҡуғы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "himoyachi huquqi"
+                ],
+                "Uyghur": [
+                    "ئاقلىغۇچى تەكلىپ قىلىش ھوقۇقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müdafi yardımından yararlanma hakkı",
+                    "savunma hakkı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müdafiəçi hüququ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاقلىغۇچىغا ئېرىشىش ھوقۇقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "заңгер көмегіне құқық"
+                ]
+            }
+        }
+    ]
+}

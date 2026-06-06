@@ -1,0 +1,97 @@
+{
+    "id": "i37554",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rescue operation",
+    "en_definition": "an operation organized to free from danger or confinement",
+    "tr_word": "kurtarma operasyonu",
+    "tr_definition": "Tehlike altındaki veya mahsur kalmış kişileri kurtarmak amacıyla düzenlenen faaliyet.",
+    "ru_word": "спасательная операция",
+    "ru_definition": "Мероприятие, организованное для освобождения из опасности или из заточения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurtarma operasyonu",
+                    "kurtarma harekâtı",
+                    "kurtarma faaliyeti"
+                ],
+                "Azerbaijani": [
+                    "qurtarma əməliyyatı",
+                    "qurtarma"
+                ],
+                "Kazakh": [
+                    "құтқару жұмысы",
+                    "құтқару шарасы",
+                    "құтқару амалы"
+                ],
+                "Kyrgyz": [
+                    "куткаруу иши",
+                    "куткаруу амалы",
+                    "куткаруу чарасы"
+                ],
+                "Karakalpak": [
+                    "qutqarıo ilajı",
+                    "qutqarıo háreketi",
+                    "qutqarıo jumısı"
+                ],
+                "Tatar": [
+                    "коткару чарасы",
+                    "коткару эше",
+                    "коткару хәрәкәте"
+                ],
+                "Bashkir": [
+                    "ҡотҡарыу сараһы",
+                    "ҡотҡарыу эше",
+                    "ҡотҡарыу хәрәкәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gutaryş çäresi"
+                ],
+                "Uzbek": [
+                    "qutqaruv amaliyoti",
+                    "qutqaruv ishlari"
+                ],
+                "Uyghur": [
+                    "قۇتقۇزۇش ھەرىكىتى",
+                    "قۇتقۇزۇش مەشغۇلاتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xilasetmə əməliyyatı",
+                    "xilas etmə"
+                ],
+                "Turkmen": [
+                    "halas ediş çäresi",
+                    "halas ediş işi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "najot amaliyoti"
+                ],
+                "Uyghur": [
+                    "نىجاتلىق ھەرىكىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahlisiye"
+                ]
+            }
+        }
+    ]
+}

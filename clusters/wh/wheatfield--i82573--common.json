@@ -1,0 +1,78 @@
+{
+    "id": "i82573",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wheatfield",
+    "en_definition": "a field planted with wheat",
+    "tr_word": "buğday tarlası",
+    "tr_definition": "buğday ekilmiş arazi",
+    "ru_word": "пшеничное поле",
+    "ru_definition": "поле, засеянное пшеницей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buğday tarlası"
+                ],
+                "Azerbaijani": [
+                    "buğda zəmisi",
+                    "buğda tarlası"
+                ],
+                "Turkmen": [
+                    "bugdaý meýdany",
+                    "bugdaýlyk",
+                    "bugdaý atyzy"
+                ],
+                "Uzbek": [
+                    "bugʻdoyzor",
+                    "bugʻdoy dalasi"
+                ],
+                "Uyghur": [
+                    "بۇغدايلىق",
+                    "بۇغداي ئېتىزى"
+                ],
+                "Kazakh": [
+                    "бидай алқабы",
+                    "бидай даласы",
+                    "бидайлық"
+                ],
+                "Kyrgyz": [
+                    "буудай талаасы",
+                    "буудайлык"
+                ],
+                "Karakalpak": [
+                    "bidaylıq",
+                    "biday atızı",
+                    "biday egіstіgі"
+                ],
+                "Tatar": [
+                    "бодай басуы",
+                    "бодай кыры"
+                ],
+                "Bashkir": [
+                    "бойҙай баҫыуы",
+                    "бойҙайлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ekin tarlası",
+                    "ekinlik"
+                ],
+                "Tatar": [
+                    "иген басуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zəmi"
+                ]
+            }
+        }
+    ]
+}

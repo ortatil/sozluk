@@ -1,0 +1,71 @@
+{
+    "id": "i104102",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "black currant",
+    "en_definition": "widely cultivated current bearing edible black aromatic berries",
+    "tr_word": "siyah frenk üzümü",
+    "tr_definition": "Yenilebilir, siyah ve aromatik meyveleri olan, yaygın olarak yetiştirilen bir frenk üzümü türü.",
+    "ru_word": "чёрная смородина",
+    "ru_definition": "Широко культивируемый кустарник, дающий съедобные чёрные ароматные ягоды.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara frenk üzümü"
+                ],
+                "Azerbaijani": [
+                    "qara qarağat",
+                    "qarağat"
+                ],
+                "Turkmen": [
+                    "gara smorodina",
+                    "gara üzümjik"
+                ],
+                "Uzbek": [
+                    "qora smorodina",
+                    "qora qat"
+                ],
+                "Uyghur": [
+                    "قارا قارىقات",
+                    "قارا مېۋىلىك قارىقات"
+                ],
+                "Kazakh": [
+                    "қара қарақат",
+                    "қарақат"
+                ],
+                "Kyrgyz": [
+                    "кара карагат",
+                    "карагат"
+                ],
+                "Karakalpak": [
+                    "qara qaraqat",
+                    "qaraqat"
+                ],
+                "Tatar": [
+                    "кара карлыган",
+                    "карлыган"
+                ],
+                "Bashkir": [
+                    "ҡара ҡарағат",
+                    "ҡарағат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siyah frenk üzümü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "frenk üzümü"
+                ]
+            }
+        }
+    ]
+}

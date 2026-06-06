@@ -1,0 +1,93 @@
+{
+    "id": "i108031",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "urbanization",
+    "en_definition": "the social process whereby cities grow and societies become more urban",
+    "tr_word": "kentleşme",
+    "tr_definition": "şehirlerin büyümesi ve toplumların daha kentsel hale gelmesi süreci",
+    "ru_word": "урбанизация",
+    "ru_definition": "социальный процесс, при котором растут города и общество становится более городским",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şehirleşme"
+                ],
+                "Azerbaijani": [
+                    "şəhərləşmə"
+                ],
+                "Turkmen": [
+                    "şäherleşme",
+                    "şäherleşmek"
+                ],
+                "Uzbek": [
+                    "shaharlashuv"
+                ],
+                "Uyghur": [
+                    "شەھەرلىشىش",
+                    "شەھەرلىشىش جەريانى",
+                    "شەھەرگە ئايلىنىش"
+                ],
+                "Kazakh": [
+                    "шаһарлану"
+                ],
+                "Tatar": [
+                    "шәһәрләшү",
+                    "шәһәрләнү",
+                    "шәһәрләштерү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қалалану",
+                    "қалалық өмір салтының таралуы"
+                ],
+                "Karakalpak": [
+                    "qalalasıo",
+                    "qalalasıo procesi"
+                ],
+                "Bashkir": [
+                    "ҡалалашыу",
+                    "ҡалалашыу процесы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kentleşme"
+                ],
+                "Uzbek": [
+                    "kentlashuv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "urbanizasiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məskunlaşma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шаарлашуу",
+                    "шаарлануу"
+                ]
+            }
+        }
+    ]
+}

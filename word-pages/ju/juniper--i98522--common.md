@@ -1,0 +1,135 @@
+# Juniper
+| Field | Detail |
+|---|---|
+| **ID** | i98522 |
+| **English** | juniper |
+| **Type** | noun |
+| **Definition** | coniferous shrub or small tree with berrylike cones |
+| **Source** | common |
+| **Ortatil** | arça |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **arça** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.50** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئارچا | arça |
+| سەرۋى | särvi |
+| **Kazakh** | |
+| арша | arşa |
+| **Kyrgyz** | |
+| арча | arça |
+| арча-карагай | arça-karagay |
+| **Tatar** | |
+| артыш | artış |
+| **Bashkir** | |
+| артыш | artış |
+
+```json
+{
+    "id": "i98522",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "juniper",
+    "en_definition": "coniferous shrub or small tree with berrylike cones",
+    "tr_word": "ardıç",
+    "tr_definition": "servigillerden, yaprakları güzel kokulu, yuvarlak meyveleri olan bir tür çalı veya ağaççık",
+    "ru_word": "можжевельник",
+    "ru_definition": "род вечнозелёных хвойных кустарников и деревьев семейства Кипарисовые",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ardıç",
+                    "ardıç ağacı"
+                ],
+                "Azerbaijani": [
+                    "ardıc",
+                    "ardıc ağacı"
+                ],
+                "Turkmen": [
+                    "arça"
+                ],
+                "Uyghur": [
+                    "ئارچا"
+                ],
+                "Kazakh": [
+                    "арша"
+                ],
+                "Kyrgyz": [
+                    "арча",
+                    "арча-карагай"
+                ],
+                "Karakalpak": [
+                    "arsha"
+                ],
+                "Tatar": [
+                    "артыш",
+                    "артыш агачы"
+                ],
+                "Bashkir": [
+                    "артыш",
+                    "артыш ағасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dag arçasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "archa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "savur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سەرۋى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қара арша",
+                    "сары арша"
+                ]
+            }
+        }
+    ]
+}
+```
+

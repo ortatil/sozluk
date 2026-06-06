@@ -1,0 +1,93 @@
+{
+    "id": "i112591",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hydrophobia",
+    "en_definition": "a morbid fear of water",
+    "tr_word": "hidrofobi",
+    "tr_definition": "suya karşı duyulan aşırı ve mantıksız korku",
+    "ru_word": "гидрофобия",
+    "ru_definition": "болезненная боязнь воды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su korkusu"
+                ],
+                "Azerbaijani": [
+                    "su qorxusu"
+                ],
+                "Turkmen": [
+                    "suwgorkulyk"
+                ],
+                "Uzbek": [
+                    "suv qo'rquvi"
+                ],
+                "Uyghur": [
+                    "سۇ ۋەھىمىسى"
+                ],
+                "Kazakh": [
+                    "су үрейі"
+                ],
+                "Kyrgyz": [
+                    "суу коркунучу"
+                ],
+                "Tatar": [
+                    "су куркуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwdan gorkma"
+                ],
+                "Uzbek": [
+                    "suvdan qo'rqish"
+                ],
+                "Uyghur": [
+                    "سۇدىن قورقۇش",
+                    "سۇدىن ھەزەر قىلىش"
+                ],
+                "Kazakh": [
+                    "судан қорқу",
+                    "судан үрейлену"
+                ],
+                "Kyrgyz": [
+                    "суудан коркуу"
+                ],
+                "Karakalpak": [
+                    "suodan qorqıo",
+                    "suodan úrkio"
+                ],
+                "Tatar": [
+                    "судан курку"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hidrofobi"
+                ],
+                "Azerbaijani": [
+                    "hidrofobiya"
+                ],
+                "Uzbek": [
+                    "gidrofobiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыуҙан ҡурҡыу",
+                    "һыу ҡурҡыуы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+# Pond scum
+| Field | Detail |
+|---|---|
+| **ID** | i42738 |
+| **English** | pond scum |
+| **Type** | noun |
+| **Definition** | free-floating freshwater green algae |
+| **Source** | common |
+| **Ortatil** | suwot |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| балдыр | baldır |
+| **Kyrgyz** | |
+| балыр | balır |
+| **Bashkir** | |
+| ҡау | qau |
+
+```json
+{
+    "id": "i42738",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pond scum",
+    "en_definition": "free-floating freshwater green algae",
+    "tr_word": "su yosunu",
+    "tr_definition": "tatlı su yüzeyinde yüzen yeşil alg tabakası",
+    "ru_word": "тина",
+    "ru_definition": "скопление водорослей, плавающих на поверхности или у берегов пресных водоёмов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su yosunu",
+                    "su çiçeği"
+                ],
+                "Azerbaijani": [
+                    "su yosunu"
+                ],
+                "Uyghur": [
+                    "سۇ يۈسۈنى",
+                    "سۇ چىبىقى"
+                ],
+                "Kazakh": [
+                    "су балдыры"
+                ],
+                "Kyrgyz": [
+                    "суу балыры"
+                ],
+                "Karakalpak": [
+                    "su baldırı"
+                ],
+                "Tatar": [
+                    "су өсте бака үләне",
+                    "су өсте яшеллеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göl yosunu"
+                ],
+                "Azerbaijani": [
+                    "gölməçə yosunu"
+                ],
+                "Uzbek": [
+                    "ko'lmak o'ti"
+                ],
+                "Uyghur": [
+                    "كۆلچەك يۈسۈنى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "балдыр"
+                ],
+                "Kyrgyz": [
+                    "балыр"
+                ],
+                "Bashkir": [
+                    "балыҡ үләне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yosun"
+                ],
+                "Azerbaijani": [
+                    "yosun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yaşıl yosun"
+                ],
+                "Uzbek": [
+                    "yashil suvo't"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "suwoty"
+                ],
+                "Uzbek": [
+                    "suvo't"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "batga"
+                ],
+                "Kazakh": [
+                    "батпақ балдыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gök suwoty"
+                ],
+                "Kyrgyz": [
+                    "көк балыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "baqapashsha",
+                    "baqashóp"
+                ],
+                "Tatar": [
+                    "бака үләне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shilimshiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу үләне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу ҡауы"
+                ]
+            }
+        }
+    ]
+}
+```
+

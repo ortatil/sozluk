@@ -1,0 +1,106 @@
+# Black eye
+| Field | Detail |
+|---|---|
+| **ID** | i112047 |
+| **English** | black eye |
+| **Type** | noun |
+| **Definition** | a swollen bruise caused by a blow to the eye |
+| **Source** | common |
+| **Ortatil** | kökärişsän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i112047",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "black eye",
+    "en_definition": "a swollen bruise caused by a blow to the eye",
+    "tr_word": "göz morarması",
+    "tr_definition": "göze alınan bir darbe sonucu oluşan şişlik ve morluk",
+    "ru_word": "синяк под глазом",
+    "ru_definition": "опухший кровоподтек, вызванный ударом в область глаза",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz morarması",
+                    "göz kararması"
+                ],
+                "Azerbaijani": [
+                    "gözaltı qaralma",
+                    "göz göyərməsi",
+                    "gözaltı göyərmə"
+                ],
+                "Turkmen": [
+                    "gözüň gögermegi",
+                    "gözüň garalmagy",
+                    "gözüň mawy bolmagy"
+                ],
+                "Uzbek": [
+                    "koʻz koʻkarishi",
+                    "koʻz osti koʻkarishi"
+                ],
+                "Uyghur": [
+                    "كۆز كۆكىرىش",
+                    "كۆز كۆكۈرۈكى",
+                    "كۆز كۆكىرىپ قېلىش"
+                ],
+                "Kazakh": [
+                    "көздің көгеруі",
+                    "көздің айналасының көгеруі"
+                ],
+                "Kyrgyz": [
+                    "көздүн көгөрүшү",
+                    "көзүнүн асты көгөрүү"
+                ],
+                "Karakalpak": [
+                    "kóz kógeru",
+                    "kózdіń kógeruі",
+                    "kózdіń aynalası kógeru"
+                ],
+                "Tatar": [
+                    "күз төбе күгәрү",
+                    "күз асты күгәрү"
+                ],
+                "Bashkir": [
+                    "күҙ күгәреүе",
+                    "күҙ төбө күгәреүе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻkarish"
+                ],
+                "Kazakh": [
+                    "көгерген көз"
+                ],
+                "Kyrgyz": [
+                    "көгөргөн көз"
+                ],
+                "Tatar": [
+                    "күгәргән күз"
+                ],
+                "Bashkir": [
+                    "күгәргән күҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "morarmış göz"
+                ]
+            }
+        }
+    ]
+}
+```
+

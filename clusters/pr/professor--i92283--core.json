@@ -1,0 +1,170 @@
+{
+    "id": "i92283",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "professor",
+    "en_definition": "someone who is a member of the faculty at a college or university",
+    "tr_word": "profesör",
+    "tr_definition": "bir yükseköğretim kurumunda en üst düzeydeki akademik unvana sahip olan öğretim üyesi",
+    "ru_word": "профессор",
+    "ru_definition": "учёное звание и должность преподавателя высшего учебного заведения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "müəllim"
+                ],
+                "Turkmen": [
+                    "mugallym"
+                ],
+                "Uzbek": [
+                    "muallim"
+                ],
+                "Kazakh": [
+                    "мұғалім"
+                ],
+                "Kyrgyz": [
+                    "мугалим"
+                ],
+                "Karakalpak": [
+                    "muǵallim"
+                ],
+                "Tatar": [
+                    "мөгаллим"
+                ],
+                "Bashkir": [
+                    "мөғәллим"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ustoz"
+                ],
+                "Uyghur": [
+                    "ئۇستاز"
+                ],
+                "Kazakh": [
+                    "ұстаз"
+                ],
+                "Kyrgyz": [
+                    "устат"
+                ],
+                "Karakalpak": [
+                    "ustaz"
+                ],
+                "Tatar": [
+                    "остаз"
+                ],
+                "Bashkir": [
+                    "остаз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okudyjy"
+                ],
+                "Kazakh": [
+                    "оқытушы"
+                ],
+                "Kyrgyz": [
+                    "окутуучу"
+                ],
+                "Karakalpak": [
+                    "oqıtıushı"
+                ],
+                "Tatar": [
+                    "укытучы"
+                ],
+                "Bashkir": [
+                    "уҡытыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "profesör"
+                ],
+                "Azerbaijani": [
+                    "professor"
+                ],
+                "Turkmen": [
+                    "professor"
+                ],
+                "Uyghur": [
+                    "پروفېسسور"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müderris"
+                ],
+                "Azerbaijani": [
+                    "müdərris"
+                ],
+                "Uzbek": [
+                    "mudarris"
+                ],
+                "Uyghur": [
+                    "مۇدەررىس"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "alim"
+                ],
+                "Kazakh": [
+                    "ғалым"
+                ],
+                "Tatar": [
+                    "галим"
+                ],
+                "Bashkir": [
+                    "ғалим"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hoca"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğretim üyesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mugallym-alym"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илимпоз"
+                ]
+            }
+        }
+    ]
+}

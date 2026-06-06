@@ -1,0 +1,118 @@
+{
+    "id": "i108048",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "word processing",
+    "en_definition": "rapid and efficient processing (storage and printing) of linguistic data for composition and editing",
+    "tr_word": "kelime işlem",
+    "tr_definition": "metinlerin bilgisayar yardımıyla yazılması, düzenlenmesi, saklanması ve yazdırılması süreci",
+    "ru_word": "обработка текстов",
+    "ru_definition": "быстрая и эффективная обработка (хранение и печать) лингвистических данных для составления и редактирования",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "metin işleme"
+                ],
+                "Azerbaijani": [
+                    "mətn emalı",
+                    "mətn işləmə"
+                ],
+                "Uzbek": [
+                    "matnni qayta ishlash",
+                    "matn tahriri",
+                    "matn ustida ishlash"
+                ],
+                "Kazakh": [
+                    "мәтінді өңдеу",
+                    "мәтінмен жұмыс"
+                ],
+                "Karakalpak": [
+                    "mátindi islep shıǵıu",
+                    "mátindi qayta isleu",
+                    "mátinlik jumıs"
+                ],
+                "Tatar": [
+                    "мәтен эшкәртү",
+                    "мәтен төзү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yazı emalı"
+                ],
+                "Uyghur": [
+                    "يېزىق بىر تەرەپ قىلىش"
+                ],
+                "Kyrgyz": [
+                    "жазуу иштетүү"
+                ],
+                "Tatar": [
+                    "язу эшкәртү"
+                ],
+                "Bashkir": [
+                    "яҙма эшкәртеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sözcük işlem"
+                ],
+                "Turkmen": [
+                    "söz işleme"
+                ],
+                "Kazakh": [
+                    "сөз өңдеу"
+                ],
+                "Kyrgyz": [
+                    "сөз иштетүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tekst işleme"
+                ],
+                "Uyghur": [
+                    "تېكىست بىر تەرەپ قىلىش"
+                ],
+                "Kyrgyz": [
+                    "текстти иштетүү"
+                ],
+                "Bashkir": [
+                    "текст эшкәртеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kelime işlem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýazuw işleme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەت بىر تەرەپ قىلىش"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "id": "i22192",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "medicate",
+    "en_definition": "treat medicinally, treat with medicine",
+    "tr_word": "ilaçla tedavi etmek",
+    "tr_definition": "birine veya bir şeye tıbbi ilaç vermek veya uygulamak",
+    "ru_word": "лечить лекарствами",
+    "ru_definition": "давать лекарство или лечить кого-либо с помощью медикаментов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şypa bermek"
+                ],
+                "Uzbek": [
+                    "shifolamoq"
+                ],
+                "Kazakh": [
+                    "шипа беру"
+                ],
+                "Kyrgyz": [
+                    "шыпаа берүү"
+                ],
+                "Karakalpak": [
+                    "shipalao"
+                ],
+                "Tatar": [
+                    "шифалау"
+                ],
+                "Bashkir": [
+                    "шифалау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dərman vermək",
+                    "dərmanlamaq"
+                ],
+                "Turkmen": [
+                    "derman bermek"
+                ],
+                "Uzbek": [
+                    "dori bermoq"
+                ],
+                "Uyghur": [
+                    "دورا بېرىش",
+                    "دورا قىلىش"
+                ],
+                "Kazakh": [
+                    "дәрілеу"
+                ],
+                "Kyrgyz": [
+                    "дарылоо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "davolamoq"
+                ],
+                "Uyghur": [
+                    "داۋالاش"
+                ],
+                "Karakalpak": [
+                    "daoalau"
+                ],
+                "Tatar": [
+                    "дәвалау"
+                ],
+                "Bashkir": [
+                    "дауалау",
+                    "дауа биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "emlemek"
+                ],
+                "Karakalpak": [
+                    "emleu"
+                ],
+                "Tatar": [
+                    "имләү"
+                ],
+                "Bashkir": [
+                    "имләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağaltmak"
+                ],
+                "Azerbaijani": [
+                    "sağaltmaq"
+                ],
+                "Kazakh": [
+                    "сауықтыру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "müalicə etmək"
+                ],
+                "Uzbek": [
+                    "muolaja qilmoq"
+                ],
+                "Uyghur": [
+                    "مۇئالىجە قىلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "iyileştirmek"
+                ],
+                "Kyrgyz": [
+                    "айыктыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "емдеу"
+                ],
+                "Kyrgyz": [
+                    "эмдөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tedavi etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ilaç vermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bejermek"
+                ]
+            }
+        }
+    ]
+}

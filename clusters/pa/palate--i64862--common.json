@@ -1,0 +1,95 @@
+{
+    "id": "i64862",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "palate",
+    "en_definition": "the upper surface of the mouth that separates the oral and nasal cavities",
+    "tr_word": "damak",
+    "tr_definition": "Ağız boşluğunun tavanını oluşturan, ağız ve burun boşluklarını birbirinden ayıran yapı.",
+    "ru_word": "нёбо",
+    "ru_definition": "Верхняя стенка ротовой полости у позвоночных животных и человека, отделяющая её от носовой полости.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "damak"
+                ],
+                "Azerbaijani": [
+                    "damaq"
+                ],
+                "Turkmen": [
+                    "damak"
+                ],
+                "Uzbek": [
+                    "dimog'"
+                ],
+                "Kyrgyz": [
+                    "даам сезүү"
+                ],
+                "Tatar": [
+                    "тәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tanglay"
+                ],
+                "Uyghur": [
+                    "تاڭلاي",
+                    "تاڭلاغ"
+                ],
+                "Kazakh": [
+                    "таңдай"
+                ],
+                "Kyrgyz": [
+                    "таңдай"
+                ],
+                "Karakalpak": [
+                    "tańlay",
+                    "tańlaysha"
+                ],
+                "Bashkir": [
+                    "таңҡай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kentlewük"
+                ],
+                "Kazakh": [
+                    "кеңірдек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аңкау"
+                ],
+                "Bashkir": [
+                    "аңҡау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hanek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tavan"
+                ]
+            }
+        }
+    ]
+}

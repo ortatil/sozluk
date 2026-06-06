@@ -1,0 +1,100 @@
+# Whipped cream
+| Field | Detail |
+|---|---|
+| **ID** | i76893 |
+| **English** | whipped cream |
+| **Type** | noun |
+| **Definition** | cream that has been beaten until light and fluffy |
+| **Source** | common |
+| **Ortatil** | kaymaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i76893",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "whipped cream",
+    "en_definition": "cream that has been beaten until light and fluffy",
+    "tr_word": "çırpılmış krema",
+    "tr_definition": "hafif ve kabarık olana kadar çırpılmış süt kreması",
+    "ru_word": "взбитые сливки",
+    "ru_definition": "сливки, взбитые до состояния легкой и пышной массы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "köpürtülmüş krema"
+                ],
+                "Azerbaijani": [
+                    "köpürtülmüş qaymaq"
+                ],
+                "Turkmen": [
+                    "köpürdilen gaýmak"
+                ],
+                "Uzbek": [
+                    "koʻpirtirilgan qaymoq",
+                    "koʻpirtirilgan sut"
+                ],
+                "Uyghur": [
+                    "كۆپتۈرۈلگەن قايماق",
+                    "كۆپۈك قايماق"
+                ],
+                "Kazakh": [
+                    "көпіртілген қаймақ",
+                    "көпіршітілген қаймақ",
+                    "көпіртілген сүт беті"
+                ],
+                "Kyrgyz": [
+                    "көбүртүлгөн каймак"
+                ],
+                "Karakalpak": [
+                    "kópirtilgen qaymaq",
+                    "kópirshitilgen qaymaq"
+                ],
+                "Tatar": [
+                    "күпертелгән каймак",
+                    "күбекләнгән каймак"
+                ],
+                "Bashkir": [
+                    "күпертелгән ҡаймаҡ",
+                    "күбекләнгән ҡаймаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çalınmış qaymaq"
+                ],
+                "Turkmen": [
+                    "çalnan gaýmak"
+                ],
+                "Kyrgyz": [
+                    "чалынган каймак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaymak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çırpılmış krema"
+                ]
+            }
+        }
+    ]
+}
+```
+

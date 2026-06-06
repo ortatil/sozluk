@@ -1,0 +1,110 @@
+{
+    "id": "i13912",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "ventilated",
+    "en_definition": "exposed to air",
+    "tr_word": "havalandırılmış",
+    "tr_definition": "havaya maruz bırakılmış veya hava akımı sağlanmış",
+    "ru_word": "вентилируемый",
+    "ru_definition": "подвергнутый воздействию воздуха или снабженный системой циркуляции воздуха",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "havadar",
+                    "havalandırılmış",
+                    "hava alan"
+                ],
+                "Azerbaijani": [
+                    "havalı",
+                    "havalandırılmış",
+                    "havadar"
+                ],
+                "Turkmen": [
+                    "howaly",
+                    "howalandyrylan"
+                ],
+                "Uzbek": [
+                    "havodor"
+                ],
+                "Uyghur": [
+                    "ھاۋالىق",
+                    "ھاۋا ئۆتۈشىدىغان",
+                    "ھاۋا ئالماشتۇرۇلغان"
+                ],
+                "Karakalpak": [
+                    "haoalı"
+                ],
+                "Tatar": [
+                    "һавалы"
+                ],
+                "Bashkir": [
+                    "һауаландырылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ochiq"
+                ],
+                "Kazakh": [
+                    "ашық"
+                ],
+                "Kyrgyz": [
+                    "ачык"
+                ],
+                "Karakalpak": [
+                    "ashıq"
+                ],
+                "Tatar": [
+                    "ачык"
+                ],
+                "Bashkir": [
+                    "асыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýelli"
+                ],
+                "Kazakh": [
+                    "желдетілген"
+                ],
+                "Kyrgyz": [
+                    "желдетилген",
+                    "желдүү"
+                ],
+                "Tatar": [
+                    "җилләтелгән"
+                ],
+                "Bashkir": [
+                    "елләтелгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shamollatilgan"
+                ],
+                "Karakalpak": [
+                    "samallı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ауаланған"
+                ]
+            }
+        }
+    ]
+}

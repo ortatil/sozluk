@@ -1,0 +1,164 @@
+# Flash-frozen
+| Field | Detail |
+|---|---|
+| **ID** | i5883 |
+| **English** | flash-frozen |
+| **Type** | adjective |
+| **Definition** | (used of foods) preserved by freezing sufficiently rapidly to retain flavor and nutritional value |
+| **Source** | common |
+| **Ortatil** | şoklanmış |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| катырылган | katırılgan |
+
+```json
+{
+    "id": "i5883",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "flash-frozen",
+    "en_definition": "(used of foods) preserved by freezing sufficiently rapidly to retain flavor and nutritional value",
+    "tr_word": "şoklanmış",
+    "tr_definition": "Besin değerini ve tadını korumak amacıyla gıdaların çok hızlı bir şekilde dondurulması yöntemiyle korunmuş.",
+    "ru_word": "быстрозамороженный",
+    "ru_definition": "Подвергнутый быстрой заморозке для сохранения вкусовых качеств и питательной ценности продуктов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tez muzlatilgan"
+                ],
+                "Uyghur": [
+                    "تېز توڭلىتىلغان",
+                    "تېز مۇزلىتىلغان"
+                ],
+                "Kazakh": [
+                    "тез қатырылған"
+                ],
+                "Kyrgyz": [
+                    "тез тоңдурулган"
+                ],
+                "Karakalpak": [
+                    "tez muzdatılǵan"
+                ],
+                "Tatar": [
+                    "тиз туңдырылган"
+                ],
+                "Bashkir": [
+                    "тиҙ туңдырылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şoklanmış",
+                    "şok dondurulmuş"
+                ],
+                "Azerbaijani": [
+                    "şoklanmış"
+                ],
+                "Turkmen": [
+                    "şok doňdurylan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ani dondurulmuş"
+                ],
+                "Turkmen": [
+                    "çalt doňdurylan",
+                    "çalt doňan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sürətli dondurulmuş"
+                ],
+                "Uzbek": [
+                    "shiddatli muzlatilgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жедел қатырылған"
+                ],
+                "Karakalpak": [
+                    "jedel muzdatılǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қас-қағымда қатырылған"
+                ],
+                "Tatar": [
+                    "кискен туңдырылган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sháptik muzdatılǵan"
+                ],
+                "Bashkir": [
+                    "шәп туңдырылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hızlı dondurulmuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "darhol muzlatilgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ылдам тоңдурулган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "катырылган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡапыл туңдырылған"
+                ]
+            }
+        }
+    ]
+}
+```
+

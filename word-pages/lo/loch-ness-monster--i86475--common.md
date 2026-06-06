@@ -1,0 +1,174 @@
+# Loch ness monster
+| Field | Detail |
+|---|---|
+| **ID** | i86475 |
+| **English** | loch ness monster |
+| **Type** | noun |
+| **Definition** | a large aquatic animal supposed to resemble a serpent or plesiosaur of Loch Ness in Scotland |
+| **Source** | common |
+| **Ortatil** | mahlıq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| айдаһар | aydahar |
+| құбыжық | qubıjıq |
+
+```json
+{
+    "id": "i86475",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "loch ness monster",
+    "en_definition": "a large aquatic animal supposed to resemble a serpent or plesiosaur of Loch Ness in Scotland",
+    "tr_word": "Loch Ness canavarı",
+    "tr_definition": "İskoçya'daki Loch Ness gölünde yaşadığına inanılan, yılana veya pleziyozora benzediği varsayılan efsanevi su yaratığı.",
+    "ru_word": "Лох-несское чудовище",
+    "ru_definition": "легендарное существо, которое, согласно преданиям, обитает в шотландском озере Лох-Несс и внешне напоминает змея или плезиозавра.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su canavarı"
+                ],
+                "Turkmen": [
+                    "suw aždarhasy",
+                    "suw haýwany",
+                    "suw jandary"
+                ],
+                "Uzbek": [
+                    "suv maxluqi"
+                ],
+                "Uyghur": [
+                    "سۇ ئالۋاستىسى"
+                ],
+                "Kazakh": [
+                    "су құбыжығы",
+                    "су перісі"
+                ],
+                "Kyrgyz": [
+                    "суу периси",
+                    "суу ажыдаары",
+                    "суу желмогузу"
+                ],
+                "Karakalpak": [
+                    "suo perisi"
+                ],
+                "Tatar": [
+                    "су аждаһасы",
+                    "су җенлеге",
+                    "су җанвары",
+                    "су аты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Loch Ness canavarı"
+                ],
+                "Azerbaijani": [
+                    "Lox-Ness əjdahası",
+                    "Lox-Ness canavarı"
+                ],
+                "Uyghur": [
+                    "لوخ نېس مەخلۇقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maxluq"
+                ],
+                "Karakalpak": [
+                    "maqluq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айдаһар"
+                ],
+                "Karakalpak": [
+                    "aydaһar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göl canavarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Lox-Ness bədheybəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ajdarho"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hayvoni azim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دېڭىز مەخلۇقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құбыжық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dáo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу аждаһаһы",
+                    "һыу аты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу бәрейе",
+                    "һыу имбәйе"
+                ]
+            }
+        }
+    ]
+}
+```
+

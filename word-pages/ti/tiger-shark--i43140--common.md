@@ -1,0 +1,81 @@
+# Tiger shark
+| Field | Detail |
+|---|---|
+| **ID** | i43140 |
+| **English** | tiger shark |
+| **Type** | noun |
+| **Definition** | large dangerous warm-water shark with striped or spotted body |
+| **Source** | common |
+| **Ortatil** | yölbärs-äkıla |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i43140",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tiger shark",
+    "en_definition": "large dangerous warm-water shark with striped or spotted body",
+    "tr_word": "kaplan köpekbalığı",
+    "tr_definition": "vücudunda koyu renkli şeritler veya benekler bulunan, sıcak sularda yaşayan büyük ve tehlikeli bir köpekbalığı türü",
+    "ru_word": "тигровая акула",
+    "ru_definition": "крупная опасная акула теплых вод с полосатым или пятнистым телом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yo'lbars akula",
+                    "yo'lbars-akula"
+                ],
+                "Uyghur": [
+                    "يولبارس لەھەڭ",
+                    "يولبارس بېلىق"
+                ],
+                "Kazakh": [
+                    "жолбарыс акула",
+                    "жолбарыс акуласы"
+                ],
+                "Kyrgyz": [
+                    "жолборс акула",
+                    "жолборс сымал акула"
+                ],
+                "Karakalpak": [
+                    "jolbarıs akula",
+                    "jolbarıs sıyaqtı akula"
+                ],
+                "Tatar": [
+                    "юлбарыс акуласы"
+                ],
+                "Bashkir": [
+                    "юлбарыҫ акулаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaplan köpek balığı",
+                    "kaplan balığı"
+                ],
+                "Turkmen": [
+                    "gaplaň akulasy",
+                    "gaplaň köpekbalygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pələng köpəkbalığı",
+                    "pələng akulası"
+                ]
+            }
+        }
+    ]
+}
+```
+

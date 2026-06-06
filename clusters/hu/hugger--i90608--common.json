@@ -1,0 +1,88 @@
+{
+    "id": "i90608",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hugger",
+    "en_definition": "a person who hugs",
+    "tr_word": "kucaklayan",
+    "tr_definition": "birine sarılan veya kucaklayan kimse",
+    "ru_word": "обнимающий",
+    "ru_definition": "человек, который обнимает кого-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kucaklayan"
+                ],
+                "Azerbaijani": [
+                    "qucaqlayan"
+                ],
+                "Turkmen": [
+                    "guçaklaýjy",
+                    "guçaklaşýan",
+                    "guçaklaýan"
+                ],
+                "Uzbek": [
+                    "quchoqlovchi",
+                    "quchoqchi"
+                ],
+                "Uyghur": [
+                    "قۇچاقلىغۇچى"
+                ],
+                "Kazakh": [
+                    "құшақтаушы",
+                    "құшақ жаюшы"
+                ],
+                "Kyrgyz": [
+                    "кучакташуучу",
+                    "кучактоочу"
+                ],
+                "Karakalpak": [
+                    "qushaqlaoshı",
+                    "qushaqlaǵısh"
+                ],
+                "Tatar": [
+                    "кочаклаучы",
+                    "кочаклашучы"
+                ],
+                "Bashkir": [
+                    "ҡосаҡлаусы",
+                    "ҡосаҡлашыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bag'riga bosuvchi"
+                ],
+                "Uyghur": [
+                    "باغرىغا باسقۇچى"
+                ],
+                "Karakalpak": [
+                    "baoırına basıoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sarılgan",
+                    "sarılıcı"
+                ],
+                "Azerbaijani": [
+                    "sarılqan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ağuşuna alan"
+                ]
+            }
+        }
+    ]
+}

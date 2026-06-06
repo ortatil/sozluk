@@ -1,0 +1,75 @@
+{
+    "id": "i6478",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "headless",
+    "en_definition": "not having a head or formed without a head",
+    "tr_word": "başsız",
+    "tr_definition": "başı olmayan veya başı olmadan oluşmuş",
+    "ru_word": "безголовый",
+    "ru_definition": "не имеющий головы или созданный без головы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başsız",
+                    "kafasız"
+                ],
+                "Azerbaijani": [
+                    "başsız"
+                ],
+                "Turkmen": [
+                    "başsyz"
+                ],
+                "Uzbek": [
+                    "boshsiz"
+                ],
+                "Uyghur": [
+                    "باشسىز",
+                    "بېشى يوق"
+                ],
+                "Kazakh": [
+                    "бассыз",
+                    "басы жоқ"
+                ],
+                "Kyrgyz": [
+                    "башсыз",
+                    "башы жок"
+                ],
+                "Karakalpak": [
+                    "bassız"
+                ],
+                "Tatar": [
+                    "башсыз",
+                    "башы булмаган"
+                ],
+                "Bashkir": [
+                    "башһыҙ",
+                    "башһыҙ-кәүҙәһеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kəlləsiz"
+                ],
+                "Turkmen": [
+                    "kellesiz"
+                ],
+                "Karakalpak": [
+                    "kellesiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bebosh"
+                ]
+            }
+        }
+    ]
+}

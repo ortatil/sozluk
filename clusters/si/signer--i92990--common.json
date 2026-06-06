@@ -1,0 +1,96 @@
+{
+    "id": "i92990",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "signer",
+    "en_definition": "someone who signs and is bound by a document",
+    "tr_word": "imzalayan",
+    "tr_definition": "bir belgeyi imzalayan ve o belgenin şartlarıyla bağlı olan kimse",
+    "ru_word": "подписант",
+    "ru_definition": "лицо, подписавшее документ и принявшее на себя обязательства по нему",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "imzacı",
+                    "imzalayan"
+                ],
+                "Azerbaijani": [
+                    "imzalayan",
+                    "imzaçı",
+                    "imza qoyan"
+                ],
+                "Uzbek": [
+                    "imzo qoʻyuvchi",
+                    "imzolaguvchi",
+                    "imzo chekuvchi"
+                ],
+                "Uyghur": [
+                    "ئىمزا قويغۇچى",
+                    "ئىمزا چەككۈچى",
+                    "ئىمزا ئىگىسى"
+                ],
+                "Karakalpak": [
+                    "imzalaushı"
+                ],
+                "Tatar": [
+                    "имзалаучы",
+                    "имза куючы"
+                ],
+                "Bashkir": [
+                    "имзалаусы",
+                    "имза ҡуйыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gol çekiji"
+                ],
+                "Kazakh": [
+                    "қол қоюшы",
+                    "қол қоюшы тарап",
+                    "қол қоюшы тұлға"
+                ],
+                "Kyrgyz": [
+                    "кол коюучу",
+                    "кол койгон тарап",
+                    "кол койгон киши"
+                ],
+                "Karakalpak": [
+                    "qol qoyushı"
+                ],
+                "Tatar": [
+                    "кул куючы"
+                ],
+                "Bashkir": [
+                    "ҡул ҡуйыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müstahzır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gol goýujy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tarap"
+                ]
+            }
+        }
+    ]
+}

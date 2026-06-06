@@ -1,0 +1,128 @@
+{
+    "id": "i75480",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "click-clack",
+    "en_definition": "a succession of clicks",
+    "tr_word": "tıkırtı",
+    "tr_definition": "birbirini izleyen kısa ve keskin sesler dizisi",
+    "ru_word": "стук",
+    "ru_definition": "последовательность коротких, отчетливых звуков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tıkırtı",
+                    "tıkırtılar",
+                    "çıtırtı",
+                    "takırtı"
+                ],
+                "Azerbaijani": [
+                    "tıqqıltı",
+                    "taqqıltı"
+                ],
+                "Turkmen": [
+                    "tykyrdy",
+                    "tyk-tyk"
+                ],
+                "Uzbek": [
+                    "taq-tuq",
+                    "taqillash"
+                ],
+                "Kazakh": [
+                    "тықыл",
+                    "тық-тық"
+                ],
+                "Karakalpak": [
+                    "tıqıl",
+                    "tıq-tıq",
+                    "tıqıldau"
+                ],
+                "Tatar": [
+                    "тыкыр-тыкыр",
+                    "тыкырдау"
+                ],
+                "Bashkir": [
+                    "тыҡылдау",
+                    "тыҡ-тыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şaqqıltı",
+                    "çıqqıltı"
+                ],
+                "Turkmen": [
+                    "şarkyldy"
+                ],
+                "Uzbek": [
+                    "shiq-shiq",
+                    "shiqillash"
+                ],
+                "Tatar": [
+                    "шак-шок"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şark-şurk"
+                ],
+                "Uyghur": [
+                    "شاراق-شۇرۇق"
+                ],
+                "Kazakh": [
+                    "сырт-сырт",
+                    "сарт-сұрт"
+                ],
+                "Karakalpak": [
+                    "sırt-sırt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاراق-تۇرۇق",
+                    "تاراقلىغان ئاۋاز"
+                ],
+                "Kyrgyz": [
+                    "тарсылдак",
+                    "тырсылдак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "келт-келт",
+                    "келтердәү"
+                ],
+                "Bashkir": [
+                    "келт-келт",
+                    "келтерләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шылдырак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыртылдак"
+                ]
+            }
+        }
+    ]
+}

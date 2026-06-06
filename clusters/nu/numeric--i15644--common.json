@@ -1,0 +1,105 @@
+{
+    "id": "i15644",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "numeric",
+    "en_definition": "of or relating to or denoting numbers",
+    "tr_word": "sayısal",
+    "tr_definition": "sayılara dayanan veya sayılarla ilgili olan",
+    "ru_word": "числовой",
+    "ru_definition": "относящийся к числам или выраженный в числах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sanly",
+                    "sana degişli"
+                ],
+                "Uzbek": [
+                    "sonli"
+                ],
+                "Uyghur": [
+                    "سانلىق",
+                    "سانغا ئائىت"
+                ],
+                "Kazakh": [
+                    "сандық",
+                    "сандарға қатысты",
+                    "сандықша"
+                ],
+                "Kyrgyz": [
+                    "сандык",
+                    "сандарга тиешелүү",
+                    "сандар менен туюнтулган"
+                ],
+                "Karakalpak": [
+                    "sanlı",
+                    "sanaqlı"
+                ],
+                "Tatar": [
+                    "санлы",
+                    "сани"
+                ],
+                "Bashkir": [
+                    "һанлы",
+                    "һан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rakamsal"
+                ],
+                "Azerbaijani": [
+                    "rəqəmsal"
+                ],
+                "Turkmen": [
+                    "rakamly"
+                ],
+                "Uzbek": [
+                    "raqamli"
+                ],
+                "Uyghur": [
+                    "رەقەملىك"
+                ],
+                "Karakalpak": [
+                    "raqamlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adedi"
+                ],
+                "Azerbaijani": [
+                    "ədədi"
+                ],
+                "Uzbek": [
+                    "adadiy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sayısal"
+                ],
+                "Azerbaijani": [
+                    "say"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хисаплы"
+                ]
+            }
+        }
+    ]
+}

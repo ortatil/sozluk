@@ -1,0 +1,141 @@
+{
+    "id": "i54865",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "home room",
+    "en_definition": "a classroom in which all students in a particular grade (or in a division of a grade) meet at certain times under the supervision of a teacher who takes attendance and does other administrative business",
+    "tr_word": "sınıf öğretmenliği odası",
+    "tr_definition": "Belirli bir sınıftaki tüm öğrencilerin yoklama ve diğer idari işler için bir öğretmenin gözetiminde toplandığı derslik.",
+    "ru_word": "классный кабинет",
+    "ru_definition": "учебное помещение, закрепленное за определенным классом, где проводятся организационные собрания, проверка посещаемости и другие административные мероприятия под руководством классного руководителя.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sınıf"
+                ],
+                "Azerbaijani": [
+                    "sinif otağı"
+                ],
+                "Turkmen": [
+                    "synp otagy"
+                ],
+                "Uzbek": [
+                    "sinf xonasi"
+                ],
+                "Uyghur": [
+                    "سىنىپخانا"
+                ],
+                "Kazakh": [
+                    "сынып бөлмесі"
+                ],
+                "Karakalpak": [
+                    "sınıp bólmesi"
+                ],
+                "Tatar": [
+                    "сыйныф бүлмәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "derslik"
+                ],
+                "Azerbaijani": [
+                    "dərs otağı"
+                ],
+                "Turkmen": [
+                    "dershanasy"
+                ],
+                "Uzbek": [
+                    "darsxona"
+                ],
+                "Kazakh": [
+                    "дәрісхана"
+                ],
+                "Karakalpak": [
+                    "dársxana"
+                ],
+                "Tatar": [
+                    "дәрес бүлмәсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okuw otagy"
+                ],
+                "Uzbek": [
+                    "oʻquv xonasi"
+                ],
+                "Kazakh": [
+                    "оқу бөлмесі"
+                ],
+                "Kyrgyz": [
+                    "окуу бөлмөсү"
+                ],
+                "Karakalpak": [
+                    "oqıo bólmesi"
+                ],
+                "Tatar": [
+                    "уку бүлмәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ana sınıf"
+                ],
+                "Uyghur": [
+                    "ئاساسىي سىنىپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toplanma odası"
+                ],
+                "Bashkir": [
+                    "төп класс",
+                    "төп бүлмә",
+                    "төп кабинет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məşğələ otağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇقىم سىنىپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "класс бөлмөсү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сабаккана"
+                ]
+            }
+        }
+    ]
+}

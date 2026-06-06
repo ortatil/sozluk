@@ -1,0 +1,86 @@
+{
+    "id": "i79844",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "music department",
+    "en_definition": "the academic department responsible for teaching music and music appreciation",
+    "tr_word": "müzik bölümü",
+    "tr_definition": "müzik ve müzik takdiri öğretiminden sorumlu akademik bölüm",
+    "ru_word": "музыкальный факультет",
+    "ru_definition": "академическое подразделение, отвечающее за преподавание музыки и музыковедения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müzik bölümü",
+                    "musiki bölümü",
+                    "müzik anabilim dalı"
+                ],
+                "Azerbaijani": [
+                    "musiqi şöbəsi",
+                    "musiqi kafedrası",
+                    "musiqi bölməsi"
+                ],
+                "Uzbek": [
+                    "musiqa bo'limi",
+                    "musiqa kafedrasi",
+                    "musiqa fakulteti",
+                    "musiqa shu'basi"
+                ],
+                "Uyghur": [
+                    "مۇزىكا فاكۇلتېتى",
+                    "مۇزىكا بۆلۈمى",
+                    "مۇزىكا كافېدراسى"
+                ],
+                "Kazakh": [
+                    "музыка кафедрасы",
+                    "музыка бөлімі",
+                    "музыка факультеті"
+                ],
+                "Kyrgyz": [
+                    "музыка бөлүмү",
+                    "музыка кафедрасы",
+                    "музыка факультети"
+                ],
+                "Karakalpak": [
+                    "muzıka bólimi"
+                ],
+                "Tatar": [
+                    "музыка бүлеге",
+                    "музыка кафедрасы",
+                    "музыка факультеты"
+                ],
+                "Bashkir": [
+                    "музыка бүлеге",
+                    "музыка кафедраһы",
+                    "музыка факультеты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "saz bölümi"
+                ],
+                "Karakalpak": [
+                    "saz bólimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "saz kafedrasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "nazım bólimi"
+                ]
+            }
+        }
+    ]
+}

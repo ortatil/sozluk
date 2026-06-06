@@ -1,0 +1,111 @@
+{
+    "id": "i107767",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "natural childbirth",
+    "en_definition": "labor and childbirth without medical intervention; no drugs are given to relieve pain or aid the birth process",
+    "tr_word": "doğal doğum",
+    "tr_definition": "Tıbbi müdahale, ağrı kesici ilaçlar veya doğumu hızlandırıcı yöntemler kullanılmadan gerçekleştirilen doğum süreci.",
+    "ru_word": "естественные роды",
+    "ru_definition": "Процесс родов без медицинского вмешательства, использования обезболивающих препаратов или стимуляции.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təbii doğum",
+                    "təbii doğuş"
+                ],
+                "Turkmen": [
+                    "tebigy dogum"
+                ],
+                "Uzbek": [
+                    "tabiiy tugʻruq",
+                    "tabiiy tugʻilish"
+                ],
+                "Uyghur": [
+                    "تەبىئىي تۇغۇت",
+                    "تەبىئىي تۇغۇلۇش"
+                ],
+                "Kazakh": [
+                    "табиғи босану",
+                    "табиғи туу"
+                ],
+                "Kyrgyz": [
+                    "табигый төрөт",
+                    "табигый жол менен төрөө"
+                ],
+                "Karakalpak": [
+                    "tábiiy bosanıo",
+                    "tábiiy tuoıo"
+                ],
+                "Tatar": [
+                    "табигый тулгак",
+                    "табигый бала табу"
+                ],
+                "Bashkir": [
+                    "тәбиғи бала табыу",
+                    "тәбиғи тыуым"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻz-oʻzidan tugʻilish"
+                ],
+                "Uyghur": [
+                    "ئۆزلىكىدىن تۇغۇت"
+                ],
+                "Kazakh": [
+                    "өздігінен босану"
+                ],
+                "Karakalpak": [
+                    "ózliginen bosanıo"
+                ],
+                "Tatar": [
+                    "үзлегеннән бала табу"
+                ],
+                "Bashkir": [
+                    "үҙлегенән бала табыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğal doğum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "normal doğum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müdahalesiz doğum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "adaty dogum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өзү төрөө"
+                ]
+            }
+        }
+    ]
+}

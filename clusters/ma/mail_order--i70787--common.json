@@ -1,0 +1,116 @@
+{
+    "id": "i70787",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mail order",
+    "en_definition": "a purchase negotiated by mail",
+    "tr_word": "posta ile sipariş",
+    "tr_definition": "Posta yoluyla yapılan alışveriş veya sipariş yöntemi.",
+    "ru_word": "заказ по почте",
+    "ru_definition": "Способ покупки товаров, при котором заказ и доставка осуществляются через почтовую службу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "posta ile sipariş"
+                ],
+                "Azerbaijani": [
+                    "poçtla sifariş"
+                ],
+                "Turkmen": [
+                    "poçta arkaly sargyt",
+                    "poçta söwdasy"
+                ],
+                "Uzbek": [
+                    "pochta orqali buyurtma",
+                    "pochta savdosi"
+                ],
+                "Uyghur": [
+                    "پوچتا ئارقىلىق زاكاز قىلىش",
+                    "پوچتا زاكازى"
+                ],
+                "Kazakh": [
+                    "пошталық тапсырыс"
+                ],
+                "Karakalpak": [
+                    "pochta arqalı buyırtpa"
+                ],
+                "Tatar": [
+                    "почта аша заказ"
+                ],
+                "Bashkir": [
+                    "почта аша заказ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hat üsti bilen sargyt"
+                ],
+                "Kyrgyz": [
+                    "кат аркылуу буйрутма",
+                    "кат аркылуу соода"
+                ],
+                "Karakalpak": [
+                    "xat arqalı buyırtpa"
+                ],
+                "Tatar": [
+                    "хат аша заказ"
+                ],
+                "Bashkir": [
+                    "хат аша заказ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mektupla sipariş"
+                ],
+                "Azerbaijani": [
+                    "məktubla sifariş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məsafəli sifariş"
+                ],
+                "Uzbek": [
+                    "masofaviy xarid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەت ئارقىلىق زاكاز قىلىش"
+                ],
+                "Kazakh": [
+                    "хат арқылы тапсырыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сырттай тапсырыс"
+                ],
+                "Kyrgyz": [
+                    "сырттан буйрутма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uzaktan sipariş"
+                ]
+            }
+        }
+    ]
+}

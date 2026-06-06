@@ -1,0 +1,118 @@
+{
+    "id": "i19427",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "uptown",
+    "en_definition": "toward or in the upper part of town",
+    "tr_word": "şehrin üst kısmına doğru",
+    "tr_definition": "şehrin merkezinden uzak, üst veya yerleşim bölgelerine doğru olan",
+    "ru_word": "в верхнюю часть города",
+    "ru_definition": "в направлении или внутри жилых или северных районов города, вдали от центра",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yukarıya",
+                    "yukarı mahallede",
+                    "yukarı tarafa",
+                    "yukarı semte"
+                ],
+                "Azerbaijani": [
+                    "yuxarı məhəlləyə",
+                    "yuxarı tərəfə"
+                ],
+                "Turkmen": [
+                    "ýokaryk",
+                    "ýokary tarapa"
+                ],
+                "Uzbek": [
+                    "yuqori tomonga",
+                    "yuqori qismga"
+                ],
+                "Uyghur": [
+                    "يۇقىرى شەھەرگە",
+                    "يۇقىرى تەرەپكە"
+                ],
+                "Kazakh": [
+                    "жоғары қарай",
+                    "жоғарыда"
+                ],
+                "Kyrgyz": [
+                    "жогору",
+                    "жогору жакта"
+                ],
+                "Karakalpak": [
+                    "joqarıǵa",
+                    "joqarıda"
+                ],
+                "Tatar": [
+                    "югарыга",
+                    "югары очка"
+                ],
+                "Bashkir": [
+                    "юғарыға",
+                    "юғарыла"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəhərin yuxarı hissəsinə"
+                ],
+                "Turkmen": [
+                    "şäheriň ýokarsyna"
+                ],
+                "Uyghur": [
+                    "شەھەرنىڭ يۇقىرى قىسمىدا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қаланың жоғарғы жағына"
+                ],
+                "Karakalpak": [
+                    "qalanıń joqarı jaǵına",
+                    "qalanıń joqarı jaǵında"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өскә"
+                ],
+                "Bashkir": [
+                    "өҫкә",
+                    "өҫтә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tepaga"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өйдө",
+                    "өйдө жакта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өске өлешкә"
+                ]
+            }
+        }
+    ]
+}

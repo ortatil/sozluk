@@ -1,0 +1,89 @@
+{
+    "id": "i40355",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "excavation",
+    "en_definition": "the act of digging",
+    "tr_word": "kazı",
+    "tr_definition": "Toprağı kazma işi veya bu yolla ortaya çıkarılan yer.",
+    "ru_word": "раскопки",
+    "ru_definition": "Процесс извлечения земли для поиска археологических находок или строительства.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kazı"
+                ],
+                "Azerbaijani": [
+                    "qazıntı",
+                    "qazma"
+                ],
+                "Turkmen": [
+                    "gazuw",
+                    "gazma",
+                    "gazuw-agtaryş"
+                ],
+                "Uzbek": [
+                    "qazish",
+                    "qazilma",
+                    "qazuv"
+                ],
+                "Uyghur": [
+                    "قېزىش",
+                    "قېزىلما",
+                    "قېزىش خىزمىتى"
+                ],
+                "Kazakh": [
+                    "қазу",
+                    "қазба",
+                    "қазынды"
+                ],
+                "Kyrgyz": [
+                    "казуу",
+                    "казып алуу",
+                    "казынды"
+                ],
+                "Karakalpak": [
+                    "qazıo",
+                    "qazılma",
+                    "qazıp alıo"
+                ],
+                "Tatar": [
+                    "казу",
+                    "казылма",
+                    "казып чыгару"
+                ],
+                "Bashkir": [
+                    "ҡаҙыу",
+                    "ҡаҙыныу",
+                    "ҡаҙыу эше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hafriyat"
+                ],
+                "Azerbaijani": [
+                    "hafriyat"
+                ],
+                "Uzbek": [
+                    "hafr"
+                ],
+                "Uyghur": [
+                    "ھەفرىيات"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşme"
+                ]
+            }
+        }
+    ]
+}

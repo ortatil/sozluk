@@ -1,0 +1,220 @@
+# Master plan
+| Field | Detail |
+|---|---|
+| **ID** | i67844 |
+| **English** | master plan |
+| **Type** | noun |
+| **Definition** | a long-term outline of a project or government function |
+| **Source** | common |
+| **Ortatil** | kulliyat |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жоба | joba |
+
+```json
+{
+    "id": "i67844",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "master plan",
+    "en_definition": "a long-term outline of a project or government function",
+    "tr_word": "ana plan",
+    "tr_definition": "bir projenin veya hükümet işlevinin uzun vadeli taslağı",
+    "ru_word": "генеральный план",
+    "ru_definition": "долгосрочный план реализации проекта или государственной функции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ana plan"
+                ],
+                "Azerbaijani": [
+                    "baş plan",
+                    "ana plan"
+                ],
+                "Uyghur": [
+                    "باش پىلان"
+                ],
+                "Kazakh": [
+                    "бас жоспар"
+                ],
+                "Kyrgyz": [
+                    "башкы план"
+                ],
+                "Karakalpak": [
+                    "bas joybar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əsas layihə"
+                ],
+                "Turkmen": [
+                    "esasy meýilnama"
+                ],
+                "Uzbek": [
+                    "asosiy loyiha"
+                ],
+                "Uyghur": [
+                    "ئاساسىي پىلان"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "baş meýilnama"
+                ],
+                "Uzbek": [
+                    "bosh reja"
+                ],
+                "Kyrgyz": [
+                    "башкы долбоор"
+                ],
+                "Karakalpak": [
+                    "bas reje"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "umumy meýilnama"
+                ],
+                "Uzbek": [
+                    "umumiy reja"
+                ],
+                "Uyghur": [
+                    "ئومۇمىي پىلان"
+                ],
+                "Tatar": [
+                    "гомуми план"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "stratejik plan"
+                ],
+                "Kyrgyz": [
+                    "стратегиялык план"
+                ],
+                "Tatar": [
+                    "стратегик план"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "master plan"
+                ],
+                "Kazakh": [
+                    "басты жоспар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "негізгі жоспар"
+                ],
+                "Kyrgyz": [
+                    "негизги долбоор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп план",
+                    "төп проект"
+                ],
+                "Bashkir": [
+                    "төп план",
+                    "төп проект"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temel plan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kapsamlı plan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly taslama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kulliyot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇزۇن مۇددەتلىك پىلان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жоба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tiykarǵı baǵdarlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "генераль план"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төп һыҙма"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,124 @@
+{
+    "id": "i55574",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "laundry",
+    "en_definition": "garments or white goods that can be cleaned by laundering",
+    "tr_word": "çamaşır",
+    "tr_definition": "Yıkanacak veya yıkanmış giyecek ve ev tekstili ürünlerinin genel adı.",
+    "ru_word": "бельё",
+    "ru_definition": "Одежда и другие изделия из ткани, предназначенные для стирки или уже выстиранные.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kir"
+                ],
+                "Uzbek": [
+                    "kir",
+                    "kir-chir"
+                ],
+                "Uyghur": [
+                    "كىر-قات",
+                    "كىر"
+                ],
+                "Kazakh": [
+                    "кір",
+                    "кір-қоң"
+                ],
+                "Kyrgyz": [
+                    "кир",
+                    "кир-кок"
+                ],
+                "Karakalpak": [
+                    "kir",
+                    "kir-qoń"
+                ],
+                "Tatar": [
+                    "кер",
+                    "кер-кат"
+                ],
+                "Bashkir": [
+                    "кер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yuyulası"
+                ],
+                "Uzbek": [
+                    "yuviladigan kiyimlar"
+                ],
+                "Uyghur": [
+                    "يۇيۇندى"
+                ],
+                "Karakalpak": [
+                    "juoındı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çamaşır"
+                ],
+                "Azerbaijani": [
+                    "çamaşır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yıkanacaklar"
+                ],
+                "Bashkir": [
+                    "йыуылған кер",
+                    "йыуыла торған кер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жуылатын киім"
+                ],
+                "Kyrgyz": [
+                    "жуула турган кийим"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paltar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eşik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "geyim-gejim"
+                ]
+            }
+        }
+    ]
+}

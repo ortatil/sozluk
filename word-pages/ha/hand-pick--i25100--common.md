@@ -1,0 +1,222 @@
+# Hand-pick
+| Field | Detail |
+|---|---|
+| **ID** | i25100 |
+| **English** | hand-pick |
+| **Type** | verb |
+| **Definition** | pick personally and very carefully |
+| **Source** | common |
+| **Ortatil** | ayırmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ayırmaq** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.37** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تاللاش | tallaş |
+| **Kazakh** | |
+| таңдау | tañdau |
+| талғау | talğau |
+| іріктеу | irikteu |
+| сұрыптау | surıptau |
+| **Tatar** | |
+| айыру | ayıru |
+| сайлау | saylau |
+
+```json
+{
+    "id": "i25100",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "hand-pick",
+    "en_definition": "pick personally and very carefully",
+    "tr_word": "özenle seçmek",
+    "tr_definition": "bir şeyi veya birini bizzat ve büyük bir dikkatle seçmek",
+    "ru_word": "тщательно отбирать",
+    "ru_definition": "выбирать лично и очень внимательно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayırmak"
+                ],
+                "Azerbaijani": [
+                    "ayırmaq"
+                ],
+                "Tatar": [
+                    "айырып алу",
+                    "айыру"
+                ],
+                "Bashkir": [
+                    "айырып алыу",
+                    "айырып-һайлап алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saýlap-seçmek",
+                    "saýlamak"
+                ],
+                "Karakalpak": [
+                    "saylap alıu"
+                ],
+                "Tatar": [
+                    "сайлап алу",
+                    "сайлау"
+                ],
+                "Bashkir": [
+                    "һайлап алыу",
+                    "һайлап-айырып алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tanlab olmoq"
+                ],
+                "Kazakh": [
+                    "таңдау"
+                ],
+                "Kyrgyz": [
+                    "тандап алуу",
+                    "тандап терүү",
+                    "тандап жыйноо"
+                ],
+                "Karakalpak": [
+                    "tańlap alıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seçip ayırmak"
+                ],
+                "Azerbaijani": [
+                    "seçmək",
+                    "seçib-ayırmaq"
+                ],
+                "Turkmen": [
+                    "seçmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əllə seçmək"
+                ],
+                "Turkmen": [
+                    "el bilen saýlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاللاپ ئالماق",
+                    "تاللاش",
+                    "تاللاپ چىقماق"
+                ],
+                "Kazakh": [
+                    "талғау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۈزۈپ ئالماق"
+                ],
+                "Karakalpak": [
+                    "súzip alıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özenle seçmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "titizlikle seçmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "müntehap kılmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "saralamoq",
+                    "saralab olmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ajratib olmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "іріктеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сұрыптау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ылгап алуу"
+                ]
+            }
+        }
+    ]
+}
+```
+

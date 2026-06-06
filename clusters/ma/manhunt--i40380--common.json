@@ -1,0 +1,154 @@
+{
+    "id": "i40380",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "manhunt",
+    "en_definition": "an organized search (by police) for a person (charged with a crime)",
+    "tr_word": "insan avı",
+    "tr_definition": "Polis veya güvenlik güçleri tarafından bir suçluyu yakalamak için başlatılan geniş çaplı arama faaliyeti.",
+    "ru_word": "облава",
+    "ru_definition": "Организованный поиск и преследование преступника или подозреваемого силами полиции или других органов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "izləmə"
+                ],
+                "Uzbek": [
+                    "izlash"
+                ],
+                "Uyghur": [
+                    "ئىزدەپ تۇتۇش",
+                    "ئىز قوغلاش"
+                ],
+                "Kazakh": [
+                    "іздестіру",
+                    "іздеу"
+                ],
+                "Kyrgyz": [
+                    "издөө"
+                ],
+                "Karakalpak": [
+                    "іzdestіrіo",
+                    "іzdeo"
+                ],
+                "Tatar": [
+                    "эзләү",
+                    "эзәрлекләү",
+                    "эзгә төшү"
+                ],
+                "Bashkir": [
+                    "эҙләү",
+                    "эҙәрләү",
+                    "эҙенә төшөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quvgin"
+                ],
+                "Uyghur": [
+                    "قوغلاپ تۇتۇش"
+                ],
+                "Kazakh": [
+                    "қуғын",
+                    "қуғындау"
+                ],
+                "Kyrgyz": [
+                    "куугун",
+                    "куугунтук"
+                ],
+                "Karakalpak": [
+                    "quoǵın",
+                    "quoǵın-súrgin"
+                ],
+                "Tatar": [
+                    "куу"
+                ],
+                "Bashkir": [
+                    "ҡыуыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "takip"
+                ],
+                "Azerbaijani": [
+                    "təqib"
+                ],
+                "Uzbek": [
+                    "ta'qib"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "axtarış"
+                ],
+                "Turkmen": [
+                    "agtaryş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tutmaklyk"
+                ],
+                "Uyghur": [
+                    "تۇتۇش بۇيرۇقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "insan avı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yakalama emri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gözleg"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qidiruv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аңдуу"
+                ]
+            }
+        }
+    ]
+}

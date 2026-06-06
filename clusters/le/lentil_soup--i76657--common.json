@@ -1,0 +1,78 @@
+{
+    "id": "i76657",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lentil soup",
+    "en_definition": "made of stock and lentils with onions carrots and celery",
+    "tr_word": "mercimek çorbası",
+    "tr_definition": "Et veya sebze suyu, mercimek, soğan, havuç ve kereviz ile yapılan bir çorba türü.",
+    "ru_word": "чечевичный суп",
+    "ru_definition": "суп, приготовленный из бульона и чечевицы с добавлением лука, моркови и сельдерея.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mercimek çorbası"
+                ],
+                "Azerbaijani": [
+                    "mərcimək şorbası",
+                    "mərcimək aşı",
+                    "mərcimək supu"
+                ],
+                "Turkmen": [
+                    "merjimek çorbasy",
+                    "merjimek şorbasy"
+                ],
+                "Uzbek": [
+                    "marjumak sho'rva"
+                ],
+                "Uyghur": [
+                    "مەرجىمەك شورپىسى",
+                    "مەرجىمەك ئېشى"
+                ],
+                "Tatar": [
+                    "мәрҗимәк ашы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yasmiq sho'rva"
+                ],
+                "Kazakh": [
+                    "жасымық сорпасы",
+                    "жасымық көже"
+                ],
+                "Kyrgyz": [
+                    "жасмык шорпо",
+                    "жасмык шорпосу"
+                ],
+                "Tatar": [
+                    "ясмык ашы"
+                ],
+                "Bashkir": [
+                    "яҫмыҡ ашы",
+                    "яҫмыҡ шүрпәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "süzme mercimek çorbası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "másxek shorpa",
+                    "másxekli shorpa"
+                ]
+            }
+        }
+    ]
+}

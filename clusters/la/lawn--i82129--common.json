@@ -1,0 +1,128 @@
+{
+    "id": "i82129",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lawn",
+    "en_definition": "a field of cultivated and mowed grass",
+    "tr_word": "çim",
+    "tr_definition": "ekilmiş ve biçilmiş çimlerden oluşan alan",
+    "ru_word": "газон",
+    "ru_definition": "участок земли с искусственно созданным травяным покровом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çimenlik",
+                    "çim"
+                ],
+                "Azerbaijani": [
+                    "çəmən",
+                    "çəmənlik"
+                ],
+                "Turkmen": [
+                    "çemenlik"
+                ],
+                "Uzbek": [
+                    "chaman"
+                ],
+                "Uyghur": [
+                    "چىمەن",
+                    "چىمەنزار",
+                    "چىملىق"
+                ],
+                "Tatar": [
+                    "чирәмлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻklamzor"
+                ],
+                "Kazakh": [
+                    "көгал",
+                    "көкорай",
+                    "көк"
+                ],
+                "Kyrgyz": [
+                    "көк",
+                    "көк шибер",
+                    "көктөм"
+                ],
+                "Karakalpak": [
+                    "kóklem"
+                ],
+                "Tatar": [
+                    "күгал"
+                ],
+                "Bashkir": [
+                    "күклек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "meýdança"
+                ],
+                "Uzbek": [
+                    "maysazor"
+                ],
+                "Karakalpak": [
+                    "maysazar"
+                ],
+                "Tatar": [
+                    "мәйданчык"
+                ],
+                "Bashkir": [
+                    "майҙансыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yeşillik"
+                ],
+                "Tatar": [
+                    "яшелчәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "otluq"
+                ],
+                "Turkmen": [
+                    "otluk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "шалбаа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shópzar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үләнлек"
+                ]
+            }
+        }
+    ]
+}

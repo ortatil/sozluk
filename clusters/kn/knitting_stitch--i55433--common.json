@@ -1,0 +1,120 @@
+{
+    "id": "i55433",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "knitting stitch",
+    "en_definition": "a stitch taken in knitting",
+    "tr_word": "örgü ilmeği",
+    "tr_definition": "Örgü sırasında şiş veya tığ ile oluşturulan halkalardan her biri.",
+    "ru_word": "вязальная петля",
+    "ru_definition": "Элемент вязания, образуемый при помощи спиц или крючка.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilmek",
+                    "ilmik"
+                ],
+                "Azerbaijani": [
+                    "ilmə",
+                    "ilmək"
+                ],
+                "Turkmen": [
+                    "ilmek"
+                ],
+                "Uyghur": [
+                    "ئىلەك"
+                ],
+                "Kazakh": [
+                    "ілмек"
+                ],
+                "Kyrgyz": [
+                    "илмек"
+                ],
+                "Karakalpak": [
+                    "іlmek"
+                ],
+                "Tatar": [
+                    "элмәк"
+                ],
+                "Bashkir": [
+                    "элмәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düğüm"
+                ],
+                "Uzbek": [
+                    "toʻqima"
+                ],
+                "Uyghur": [
+                    "توقۇلما ئىلەك",
+                    "توقۇلما كۆزى"
+                ],
+                "Kazakh": [
+                    "тоқыма ілмегі"
+                ],
+                "Karakalpak": [
+                    "toqıma іlmegi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "göz"
+                ],
+                "Kazakh": [
+                    "көз"
+                ],
+                "Tatar": [
+                    "күз"
+                ],
+                "Bashkir": [
+                    "күҙәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "toxuma ilməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "petle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chok"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "halqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түйүн"
+                ]
+            }
+        }
+    ]
+}

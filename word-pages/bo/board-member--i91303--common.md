@@ -1,0 +1,188 @@
+# Board member
+| Field | Detail |
+|---|---|
+| **ID** | i91303 |
+| **English** | board member |
+| **Type** | noun |
+| **Definition** | a member of a governing board |
+| **Source** | common |
+| **Ortatil** | ökül |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| өкүл | ökül |
+
+```json
+{
+    "id": "i91303",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "board member",
+    "en_definition": "a member of a governing board",
+    "tr_word": "yönetim kurulu üyesi",
+    "tr_definition": "bir kurumun veya şirketin yönetim kurulunda yer alan kişi",
+    "ru_word": "член совета директоров",
+    "ru_definition": "лицо, входящее в состав руководящего органа организации",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "geňeş agzasy"
+                ],
+                "Uzbek": [
+                    "kengash a'zosi"
+                ],
+                "Uyghur": [
+                    "كېڭەش ئەزاسى"
+                ],
+                "Kazakh": [
+                    "кеңес мүшесі"
+                ],
+                "Kyrgyz": [
+                    "кеңеш мүчөсү"
+                ],
+                "Karakalpak": [
+                    "keńes aǵzası",
+                    "keńes múshesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "meclis üyesi"
+                ],
+                "Azerbaijani": [
+                    "məclis üzvü"
+                ],
+                "Uzbek": [
+                    "majlis a'zosi"
+                ],
+                "Tatar": [
+                    "мәҗлес әгъзасы"
+                ],
+                "Bashkir": [
+                    "мәжлес ағзаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "idare heyeti azası"
+                ],
+                "Azerbaijani": [
+                    "idarə heyətinin üzvü"
+                ],
+                "Tatar": [
+                    "идарә әгъзасы"
+                ],
+                "Bashkir": [
+                    "идарә ағзаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "heyət üzvü"
+                ],
+                "Uzbek": [
+                    "hay'at a'zosi"
+                ],
+                "Uyghur": [
+                    "ھەيئەت ئەزاسى"
+                ],
+                "Bashkir": [
+                    "һәйәт ағзаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şura üzvü"
+                ],
+                "Tatar": [
+                    "шура әгъзасы"
+                ],
+                "Bashkir": [
+                    "шура ағзаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "басқарма мүшесі"
+                ],
+                "Kyrgyz": [
+                    "башкарма мүчөсү"
+                ],
+                "Karakalpak": [
+                    "basqarma aǵzası",
+                    "basqarma múshesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "müdiriýet agzasy"
+                ],
+                "Uyghur": [
+                    "مۇدىرىيەت ئەزاسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yönetim kurulu üyesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kurul üyesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dolandyryş agzasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алқа мүшесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өкүл"
+                ]
+            }
+        }
+    ]
+}
+```
+

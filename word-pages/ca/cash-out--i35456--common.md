@@ -1,0 +1,255 @@
+# Cash out
+| Field | Detail |
+|---|---|
+| **ID** | i35456 |
+| **English** | cash out |
+| **Type** | verb |
+| **Definition** | choose a simpler life style after questioning personal and career satisfaction goals |
+| **Source** | common |
+| **Ortatil** | sadalaşmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sadalaşmaq** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| тынышталу | tınıştalu |
+| қанағаттану | qanağattanu |
+| тұрақтандыру | turaqtandıru |
+| оңашалану | oñaşalanu |
+| саябырлау | sayabırlau |
+| **Tatar** | |
+| тынычлану | tınıçlanu |
+
+```json
+{
+    "id": "i35456",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "cash out",
+    "en_definition": "choose a simpler life style after questioning personal and career satisfaction goals",
+    "tr_word": "hayatını sadeleştirmek",
+    "tr_definition": "kişisel ve kariyer hedeflerini sorguladıktan sonra daha basit bir yaşam tarzını seçmek",
+    "ru_word": "дауншифтинг",
+    "ru_definition": "выбор более простого образа жизни после пересмотра личных и карьерных целей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dynç almak"
+                ],
+                "Kazakh": [
+                    "тынышталу"
+                ],
+                "Kyrgyz": [
+                    "тынчтыкка умтулуу"
+                ],
+                "Karakalpak": [
+                    "tınıshlıq izleo"
+                ],
+                "Tatar": [
+                    "тынычлану"
+                ],
+                "Bashkir": [
+                    "тыныслыҡҡа ынтылыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qanoat qilmoq"
+                ],
+                "Uyghur": [
+                    "قەناەت قىلىش"
+                ],
+                "Kazakh": [
+                    "қанағаттану"
+                ],
+                "Kyrgyz": [
+                    "канааттануу издөө"
+                ],
+                "Karakalpak": [
+                    "qanaat etio"
+                ],
+                "Tatar": [
+                    "канәгатьлек эзләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tərki-dünya olmaq"
+                ],
+                "Uzbek": [
+                    "tarkidunyo qilmoq"
+                ],
+                "Uyghur": [
+                    "تەركىدۇنيا بولۇش"
+                ],
+                "Kazakh": [
+                    "тұрақтандыру"
+                ],
+                "Karakalpak": [
+                    "tárkidúnyalıq etio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "دۇنيادىن ۋاز كېچىش"
+                ],
+                "Kyrgyz": [
+                    "дүнүйөдөн кечүү"
+                ],
+                "Karakalpak": [
+                    "dúnyadan keshio"
+                ],
+                "Tatar": [
+                    "дөньядан читләшү"
+                ],
+                "Bashkir": [
+                    "донъя ҡыуыуҙан туҡтау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sadeleşmek"
+                ],
+                "Azerbaijani": [
+                    "sadələşmək",
+                    "asudələşmək"
+                ],
+                "Turkmen": [
+                    "sadalaşmak"
+                ],
+                "Tatar": [
+                    "гадилеккә кайту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "inzivaya çekilmek"
+                ],
+                "Azerbaijani": [
+                    "inzivaya çəkilmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "özüňe çekilmek"
+                ],
+                "Uzbek": [
+                    "uzlatga chekinmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاددىيلىققا قايتىش"
+                ],
+                "Bashkir": [
+                    "ябайлыҡҡа ҡайтыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kabuğuna çekilmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elini eteğini çekmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "huzura ermek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "parahatlyga ýetmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sokin hayotga qaytmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оңашалану"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саябырлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жөнөкөй жашоого өтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тормош рәүешен үҙгәртеү"
+                ]
+            }
+        }
+    ]
+}
+```
+

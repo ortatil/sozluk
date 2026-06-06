@@ -1,0 +1,77 @@
+{
+    "id": "i98083",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "solar flare",
+    "en_definition": "a sudden eruption of intense high-energy radiation from the sun's surface; associated with sunspots and radio interference",
+    "tr_word": "güneş patlaması",
+    "tr_definition": "Güneş'in atmosferinde gerçekleşen, yoğun radyasyon ve enerji açığa çıkaran şiddetli patlama.",
+    "ru_word": "солнечная вспышка",
+    "ru_definition": "Взрывной процесс выделения энергии в атмосфере Солнца, сопровождающийся интенсивным излучением.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quyosh chaqnashi",
+                    "quyosh portlashi",
+                    "quyosh alangasining otilishi"
+                ],
+                "Uyghur": [
+                    "قۇياش چاقنىشى",
+                    "قۇياش پارتلىشى"
+                ],
+                "Tatar": [
+                    "кояш кабынуы",
+                    "кояш шартлавы",
+                    "кояш нурланышы"
+                ],
+                "Bashkir": [
+                    "ҡояш ҡабыныуы",
+                    "ҡояш шартлауы",
+                    "ҡояш ялҡыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güneş parlaması",
+                    "güneş patlaması",
+                    "güneş püskürmesi"
+                ],
+                "Azerbaijani": [
+                    "günəş püskürməsi",
+                    "günəş alovlanması",
+                    "günəş partlayışı"
+                ],
+                "Turkmen": [
+                    "gün lowurdamasy",
+                    "gün partlamasy",
+                    "gün uçguny"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күн жарқылы",
+                    "күннің жарқ етуі",
+                    "күн бетіндегі жарылыс"
+                ],
+                "Kyrgyz": [
+                    "күн жаркыроосу",
+                    "күн жарылуусу",
+                    "күндүн атырылуусу"
+                ],
+                "Karakalpak": [
+                    "kún jarqılı",
+                    "kún jalını",
+                    "kúndegi jarqıl"
+                ]
+            }
+        }
+    ]
+}

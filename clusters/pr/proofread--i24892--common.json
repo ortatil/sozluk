@@ -1,0 +1,177 @@
+{
+    "id": "i24892",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "proofread",
+    "en_definition": "read for errors",
+    "tr_word": "düzeltme yapmak",
+    "tr_definition": "Hataları bulmak ve düzeltmek için bir metni dikkatlice okumak.",
+    "ru_word": "корректировать",
+    "ru_definition": "Читать текст с целью обнаружения и исправления ошибок.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düzeltmek",
+                    "denetlemek"
+                ],
+                "Azerbaijani": [
+                    "düzəltmək"
+                ],
+                "Turkmen": [
+                    "düzediş bermek"
+                ],
+                "Uzbek": [
+                    "tuzatmoq"
+                ],
+                "Uyghur": [
+                    "تۈزەتمەك"
+                ],
+                "Kazakh": [
+                    "түзету"
+                ],
+                "Kyrgyz": [
+                    "түзөтүү"
+                ],
+                "Karakalpak": [
+                    "túzetu"
+                ],
+                "Tatar": [
+                    "төзәтү"
+                ],
+                "Bashkir": [
+                    "төҙәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tahrir qilmoq"
+                ],
+                "Uyghur": [
+                    "تەھرىرلىمەك",
+                    "تەكرار ئوقۇماق"
+                ],
+                "Kazakh": [
+                    "тексеру"
+                ],
+                "Kyrgyz": [
+                    "текшерүү"
+                ],
+                "Karakalpak": [
+                    "tekserip shıǵıu"
+                ],
+                "Bashkir": [
+                    "тикшереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gözden geçirmek"
+                ],
+                "Turkmen": [
+                    "gözden geçirmek"
+                ],
+                "Uzbek": [
+                    "koʻzdan kechirmoq"
+                ],
+                "Uyghur": [
+                    "كۆزدىن كەچۈرمەك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қарап шығу"
+                ],
+                "Karakalpak": [
+                    "qarap shıǵıu"
+                ],
+                "Tatar": [
+                    "карап чыгу"
+                ],
+                "Bashkir": [
+                    "ҡарап сығыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tashih etmek"
+                ],
+                "Azerbaijani": [
+                    "təshih etmək"
+                ],
+                "Turkmen": [
+                    "tashyh etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yoxlamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəzərdən keçirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "barlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "isloh qilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оқып шығу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оңдоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хаталарын барлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "игътибар белән уку"
+                ]
+            }
+        }
+    ]
+}

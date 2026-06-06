@@ -1,0 +1,123 @@
+{
+    "id": "i67158",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vocational training",
+    "en_definition": "training for a specific vocation in industry or agriculture or trade",
+    "tr_word": "mesleki eğitim",
+    "tr_definition": "belirli bir meslek, sanayi veya ticaret dalında gerekli bilgi ve becerileri kazandırmayı amaçlayan eğitim",
+    "ru_word": "профессиональное обучение",
+    "ru_definition": "подготовка специалистов для работы в определенной сфере промышленности, сельского хозяйства или торговли",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hünär tälimi",
+                    "hünär öwreniş",
+                    "hünär taýýarlygy"
+                ],
+                "Uzbek": [
+                    "hunar o'rganish",
+                    "hunar ta'limi"
+                ],
+                "Uyghur": [
+                    "ھۈنەر-سەنئەت تەربىيەسى"
+                ],
+                "Tatar": [
+                    "һөнәри белем",
+                    "һөнәр өйрәнү",
+                    "һөнәр белеме",
+                    "һөнәри тәрбия"
+                ],
+                "Bashkir": [
+                    "һөнәри белем биреү",
+                    "һөнәр өйрәтеү",
+                    "һөнәр биреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kasbiy ta'lim",
+                    "kasb-hunar ta'limi"
+                ],
+                "Uyghur": [
+                    "كەسپىي تەربىيەلەش",
+                    "كەسپىي مائارىپ",
+                    "كەسپىي يېتەكلەش"
+                ],
+                "Kazakh": [
+                    "кәсіптік оқыту",
+                    "кәсіби даярлық",
+                    "кәсіптік білім"
+                ],
+                "Kyrgyz": [
+                    "кесиптик даярдык",
+                    "кесиптик окутуу",
+                    "кесиптик билим берүү"
+                ],
+                "Karakalpak": [
+                    "kásiplik bilim",
+                    "kásip úyretio",
+                    "kásip-óner úyretio",
+                    "kásiplik tálim"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zanaat eğitimi"
+                ],
+                "Azerbaijani": [
+                    "sənət təhsili"
+                ],
+                "Turkmen": [
+                    "senet öwreniş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mesleki eğitim",
+                    "meslek eğitimi",
+                    "meslek terbiyesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşə təhsili",
+                    "peşə öyrətimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşə hazırlığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мамандыққа баулу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өнөр үйрөтүү"
+                ]
+            }
+        }
+    ]
+}

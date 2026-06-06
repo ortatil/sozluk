@@ -1,0 +1,88 @@
+{
+    "id": "i83389",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "buckingham palace",
+    "en_definition": "the London residence of the British sovereign",
+    "tr_word": "Buckingham Sarayı",
+    "tr_definition": "İngiliz hükümdarının Londra'daki resmi ikametgahı",
+    "ru_word": "Букингемский дворец",
+    "ru_definition": "официальная лондонская резиденция британских монархов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Buckingham Sarayı"
+                ],
+                "Azerbaijani": [
+                    "Bakingem sarayı",
+                    "Bakingem qəsri"
+                ],
+                "Turkmen": [
+                    "Bakingem köşgi"
+                ],
+                "Uzbek": [
+                    "Bakingem saroyi",
+                    "Bakingem qasri"
+                ],
+                "Uyghur": [
+                    "باكىنگهام سارىيى",
+                    "باكىنگھام قەسرى"
+                ],
+                "Kazakh": [
+                    "Бакингем сарайы",
+                    "Бакингем ордасы"
+                ],
+                "Kyrgyz": [
+                    "Бакингем сарайы"
+                ],
+                "Karakalpak": [
+                    "Bakingem sarayı",
+                    "Bakingem qásiri"
+                ],
+                "Tatar": [
+                    "Бакингем сарае"
+                ],
+                "Bashkir": [
+                    "Бакингем һарайы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "падыша сарайы"
+                ],
+                "Tatar": [
+                    "патша сарае"
+                ],
+                "Bashkir": [
+                    "Батша һарайы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Iňlis patyşasynyň köşgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "хан сарай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "король сарае"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+# Flame tree
+| Field | Detail |
+|---|---|
+| **ID** | i102613 |
+| **English** | flame tree |
+| **Type** | noun |
+| **Definition** | showy tropical tree or shrub native to Madagascar; widely planted in tropical regions for its immense racemes of scarlet and orange flowers; sometimes placed in genus Poinciana |
+| **Source** | common |
+| **Ortatil** | gul |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i102613",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flame tree",
+    "en_definition": "showy tropical tree or shrub native to Madagascar; widely planted in tropical regions for its immense racemes of scarlet and orange flowers; sometimes placed in genus Poinciana",
+    "tr_word": "ateş ağacı",
+    "tr_definition": "Madagaskar'a özgü, büyük salkımlar halinde kırmızı ve turuncu çiçekler açan, tropikal bölgelerde yaygın olarak yetiştirilen gösterişli bir ağaç.",
+    "ru_word": "делоникс королевский",
+    "ru_definition": "тропическое дерево родом из Мадагаскара с ярко-красными или оранжевыми цветами, широко культивируемое в теплых странах как декоративное растение.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "otly agaç"
+                ],
+                "Uyghur": [
+                    "ئوت دەرىخى"
+                ],
+                "Kazakh": [
+                    "от ағашы"
+                ],
+                "Kyrgyz": [
+                    "от дарагы"
+                ],
+                "Karakalpak": [
+                    "otlı terek"
+                ],
+                "Tatar": [
+                    "ут агачы"
+                ],
+                "Bashkir": [
+                    "ут ағасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жалын ағашы"
+                ],
+                "Kyrgyz": [
+                    "жалын дарагы"
+                ],
+                "Karakalpak": [
+                    "jalınlı terek"
+                ],
+                "Tatar": [
+                    "ялкын агачы"
+                ],
+                "Bashkir": [
+                    "ялҡын ағасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alev ağacı",
+                    "ateş ağacı"
+                ],
+                "Azerbaijani": [
+                    "alov ağacı"
+                ],
+                "Turkmen": [
+                    "alaw agajy"
+                ],
+                "Uzbek": [
+                    "olov daraxti",
+                    "alanga daraxti"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gül ağacı"
+                ],
+                "Uzbek": [
+                    "gul-olov"
+                ],
+                "Uyghur": [
+                    "گۈلخان دەرىخى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قىزىل گۈللۈك دەرەخ"
+                ],
+                "Kazakh": [
+                    "қызыл ағаш"
+                ],
+                "Kyrgyz": [
+                    "кызыл гүлдүү дарак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "atəş ağacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qırmızı çiçəkli ağac"
+                ]
+            }
+        }
+    ]
+}
+```
+

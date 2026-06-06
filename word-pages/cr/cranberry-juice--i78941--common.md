@@ -1,0 +1,108 @@
+# Cranberry juice
+| Field | Detail |
+|---|---|
+| **ID** | i78941 |
+| **English** | cranberry juice |
+| **Type** | noun |
+| **Definition** | the juice of cranberries (always diluted and sweetened) |
+| **Source** | common |
+| **Ortatil** | märs |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i78941",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cranberry juice",
+    "en_definition": "the juice of cranberries (always diluted and sweetened)",
+    "tr_word": "turna yemişi suyu",
+    "tr_definition": "turna yemişi meyvelerinden elde edilen, genellikle seyreltilmiş ve tatlandırılmış içecek",
+    "ru_word": "клюквенный сок",
+    "ru_definition": "сок из ягод клюквы, обычно разбавленный и подслащенный",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızılcık şerbeti"
+                ],
+                "Turkmen": [
+                    "gyzylymsyk miwe şiresi",
+                    "gyzylymsyk şiresi"
+                ],
+                "Kyrgyz": [
+                    "кызылгат ширеси",
+                    "кызылгат суусу"
+                ],
+                "Karakalpak": [
+                    "qızıl irek shiresi",
+                    "qızıl irek suwı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мүкжидек шырыны",
+                    "мүкжидек сусыны"
+                ],
+                "Tatar": [
+                    "мүк җиләге согы",
+                    "мүк җиләге суы"
+                ],
+                "Bashkir": [
+                    "мүк еләге һуты",
+                    "мүк еләге эсемлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "klukva sharbati",
+                    "klukva suvi"
+                ],
+                "Kyrgyz": [
+                    "клюква ширеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "turna yemişi suyu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "moruq şirəsi",
+                    "moruq suyu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mors"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆكمۇچ شەربىتى",
+                    "كۆكمۇچ سۈيى"
+                ]
+            }
+        }
+    ]
+}
+```
+

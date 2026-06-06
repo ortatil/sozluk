@@ -1,0 +1,147 @@
+# American crow
+| Field | Detail |
+|---|---|
+| **ID** | i43583 |
+| **English** | american crow |
+| **Type** | noun |
+| **Definition** | common crow of North America |
+| **Source** | common |
+| **Ortatil** | qarğa |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qarğa** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قاغا | qağa |
+| **Kazakh** | |
+| қарға | qarğa |
+| құзғын | quzğın |
+| **Kyrgyz** | |
+| карга | karga |
+| **Tatar** | |
+| карга | karga |
+| **Bashkir** | |
+| ҡарға | qarğa |
+
+```json
+{
+    "id": "i43583",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "american crow",
+    "en_definition": "common crow of North America",
+    "tr_word": "Amerikan kargası",
+    "tr_definition": "Kuzey Amerika'da yaygın olarak bulunan bir karga türü",
+    "ru_word": "американский ворон",
+    "ru_definition": "вид птиц из рода воронов, широко распространённый в Северной Америке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara karga"
+                ],
+                "Azerbaijani": [
+                    "qarğa",
+                    "qara qarğa"
+                ],
+                "Turkmen": [
+                    "gara garga",
+                    "garga"
+                ],
+                "Uzbek": [
+                    "qargʻa",
+                    "qora qargʻa"
+                ],
+                "Uyghur": [
+                    "قاغا",
+                    "قارا قاغا"
+                ],
+                "Kazakh": [
+                    "қарға"
+                ],
+                "Kyrgyz": [
+                    "карга"
+                ],
+                "Karakalpak": [
+                    "qarǵa"
+                ],
+                "Tatar": [
+                    "карга"
+                ],
+                "Bashkir": [
+                    "ҡарға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "alaqarğa"
+                ],
+                "Kazakh": [
+                    "ала қарға"
+                ],
+                "Kyrgyz": [
+                    "ала карга"
+                ],
+                "Karakalpak": [
+                    "ala qarǵa"
+                ],
+                "Tatar": [
+                    "ала карга"
+                ],
+                "Bashkir": [
+                    "ала ҡарға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuzgun"
+                ],
+                "Kazakh": [
+                    "құзғын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Amerikan kargası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zogʻcha"
+                ]
+            }
+        }
+    ]
+}
+```
+

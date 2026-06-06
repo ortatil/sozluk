@@ -1,0 +1,145 @@
+{
+    "id": "i671",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "preparatory",
+    "en_definition": "preceding and preparing for something",
+    "tr_word": "hazırlık",
+    "tr_definition": "bir şeyden önce gelen ve ona hazırlık niteliğinde olan",
+    "ru_word": "подготовительный",
+    "ru_definition": "предшествующий чему-либо и служащий подготовкой к нему",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tedariki"
+                ],
+                "Azerbaijani": [
+                    "tədarüki"
+                ],
+                "Uzbek": [
+                    "tayyorgarlik"
+                ],
+                "Uyghur": [
+                    "تەييارلىق",
+                    "تەييارلىق خاراكتېرلىك"
+                ],
+                "Kyrgyz": [
+                    "даярдоочу",
+                    "даярдык"
+                ],
+                "Karakalpak": [
+                    "dayarlıq",
+                    "tayınlıq"
+                ],
+                "Bashkir": [
+                    "тәүге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazırlık",
+                    "hazırlayıcı"
+                ],
+                "Azerbaijani": [
+                    "hazırlıq"
+                ],
+                "Uzbek": [
+                    "hozirlik"
+                ],
+                "Kazakh": [
+                    "әзірлік"
+                ],
+                "Tatar": [
+                    "әзерлек",
+                    "әзерләү"
+                ],
+                "Bashkir": [
+                    "әҙерлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mukaddem"
+                ],
+                "Azerbaijani": [
+                    "müqəddimə"
+                ],
+                "Uzbek": [
+                    "muqaddimaviy"
+                ],
+                "Uyghur": [
+                    "مۇقەددىمە"
+                ],
+                "Tatar": [
+                    "мөкаддимә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ön"
+                ],
+                "Turkmen": [
+                    "öňünden"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "taýýarlyk"
+                ],
+                "Kazakh": [
+                    "дайындық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алдын ала"
+                ],
+                "Kyrgyz": [
+                    "алдын ала"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "deslapky"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باشلانغۇچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ázellik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "инеш"
+                ]
+            }
+        }
+    ]
+}

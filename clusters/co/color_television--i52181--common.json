@@ -1,0 +1,68 @@
+{
+    "id": "i52181",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "color television",
+    "en_definition": "a television that transmits images in color",
+    "tr_word": "renkli televizyon",
+    "tr_definition": "görüntüleri renkli olarak ileten televizyon",
+    "ru_word": "цветной телевизор",
+    "ru_definition": "телевизор, передающий изображения в цвете",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "renkli televizyon",
+                    "renkli TV"
+                ],
+                "Azerbaijani": [
+                    "rəngli televiziya",
+                    "rəngli televizor"
+                ],
+                "Turkmen": [
+                    "reňkli telewizor",
+                    "reňkli telewideniýe"
+                ],
+                "Uzbek": [
+                    "rangli televizor",
+                    "rangli oyna"
+                ],
+                "Uyghur": [
+                    "رەڭلىك تېلېۋىزور",
+                    "رەڭلىك تېلېۋىزىيە"
+                ],
+                "Karakalpak": [
+                    "reńli telewizor"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "түстүү сыналгы",
+                    "түстүү телевизор"
+                ],
+                "Tatar": [
+                    "төсле телевизор",
+                    "төсле телетапшыргыч"
+                ],
+                "Bashkir": [
+                    "төҫлө телевизор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түрлі-түсті теледидар",
+                    "түрлі-түсті телебейне"
+                ],
+                "Karakalpak": [
+                    "túrli-túsli telewizor"
+                ]
+            }
+        }
+    ]
+}

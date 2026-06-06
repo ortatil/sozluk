@@ -1,0 +1,110 @@
+{
+    "id": "i27632",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "swallow",
+    "en_definition": "pass through the esophagus as part of eating or drinking",
+    "tr_word": "yutmak",
+    "tr_definition": "yiyecek veya içeceği yemek borusundan geçirmek",
+    "ru_word": "глотать",
+    "ru_definition": "пропускать пищу или питье через пищевод",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yutmak",
+                    "yutkunmak"
+                ],
+                "Turkmen": [
+                    "ýuwutmak"
+                ],
+                "Uzbek": [
+                    "yutmoq",
+                    "yutunmoq"
+                ],
+                "Uyghur": [
+                    "يۇتۇش",
+                    "يۇتماق"
+                ],
+                "Kazakh": [
+                    "жұту"
+                ],
+                "Kyrgyz": [
+                    "жутуу",
+                    "жутунуу"
+                ],
+                "Karakalpak": [
+                    "jutıu",
+                    "jutınıu"
+                ],
+                "Tatar": [
+                    "йоту"
+                ],
+                "Bashkir": [
+                    "йотоу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йотып җибәрү"
+                ],
+                "Bashkir": [
+                    "йотоп ебәреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bel'etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "udmaq",
+                    "udqunmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "boğazından keçirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "damakdan geçirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ichmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қылғыту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "асау"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+# Dog fennel
+| Field | Detail |
+|---|---|
+| **ID** | i99882 |
+| **English** | dog fennel |
+| **Type** | noun |
+| **Definition** | widespread rank-smelling weed having white-rayed flower heads with yellow discs |
+| **Source** | common |
+| **Ortatil** | itpapatyası |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **itpapatyası** | **papatya** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ❌ | ✅ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.67 |
+| *Qarluq Subtotal* | 0 | 0.50 |
+| *Qipchaq Subtotal* | 0.40 | 0 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* | ✅ |  |
+| **O'TQ** | **1.57** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پاپاشكا | papaşka |
+| بابۇنە | babunä |
+| **Kazakh** | |
+| иттүймедақ | ittüymedaq |
+| түймедақ | tüymedaq |
+
+```json
+{
+    "id": "i99882",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dog fennel",
+    "en_definition": "widespread rank-smelling weed having white-rayed flower heads with yellow discs",
+    "tr_word": "köpek papatyası",
+    "tr_definition": "beyaz dilli ve sarı diskli çiçek başlarına sahip, yaygın ve ağır kokulu bir yabani ot",
+    "ru_word": "пупавка собачья",
+    "ru_definition": "широко распространенный сорняк с неприятным запахом, имеющий соцветия с белыми лепестками и желтым диском",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "itpapatyası",
+                    "itçobanyastığı"
+                ],
+                "Turkmen": [
+                    "itpapatyasy",
+                    "itçopantelpegi"
+                ],
+                "Uzbek": [
+                    "it moychechagi"
+                ],
+                "Kazakh": [
+                    "иттүймедақ"
+                ],
+                "Kyrgyz": [
+                    "ит азуу",
+                    "ит ромашкасы"
+                ],
+                "Karakalpak": [
+                    "itmiya"
+                ],
+                "Tatar": [
+                    "эт ромашкасы",
+                    "эт какысы"
+                ],
+                "Bashkir": [
+                    "эт ромашкаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sassiq moychechak"
+                ],
+                "Kazakh": [
+                    "сасық түймедақ"
+                ],
+                "Kyrgyz": [
+                    "сасык ромашка"
+                ],
+                "Tatar": [
+                    "сасы ромашка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "papatya"
+                ],
+                "Turkmen": [
+                    "papatya"
+                ],
+                "Uyghur": [
+                    "پاپاشكا",
+                    "بابۇنە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaban papatyası"
+                ],
+                "Azerbaijani": [
+                    "yabanı çobanyastığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاق بابۇنە"
+                ],
+                "Karakalpak": [
+                    "aqbas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түймедақ"
+                ],
+                "Karakalpak": [
+                    "túyetaban"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köpek papatyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşek papatyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dala moychechagi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аҡ сәскә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "эт үләне"
+                ]
+            }
+        }
+    ]
+}
+```
+

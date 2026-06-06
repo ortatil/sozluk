@@ -1,0 +1,122 @@
+{
+    "id": "i35483",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "put out",
+    "en_definition": "put out, as of a candle or a light",
+    "tr_word": "söndürmek",
+    "tr_definition": "bir ışığı veya ateşi yanmaz duruma getirmek",
+    "ru_word": "тушить",
+    "ru_definition": "прекращать горение или свечение чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "söndürmek"
+                ],
+                "Azerbaijani": [
+                    "söndürmək"
+                ],
+                "Turkmen": [
+                    "söndürmek"
+                ],
+                "Uzbek": [
+                    "so'ndirmoq"
+                ],
+                "Uyghur": [
+                    "سۆندۈرمەك"
+                ],
+                "Kazakh": [
+                    "сөндіру"
+                ],
+                "Kyrgyz": [
+                    "сөндүрүү"
+                ],
+                "Karakalpak": [
+                    "sóndirio"
+                ],
+                "Tatar": [
+                    "сүндерү"
+                ],
+                "Bashkir": [
+                    "һүндереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öçürmek"
+                ],
+                "Uzbek": [
+                    "o'chirmoq"
+                ],
+                "Uyghur": [
+                    "ئۆچۈرمەك"
+                ],
+                "Kazakh": [
+                    "өшіру"
+                ],
+                "Kyrgyz": [
+                    "өчүрүү"
+                ],
+                "Karakalpak": [
+                    "óshirio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "itfa etmek"
+                ],
+                "Azerbaijani": [
+                    "itirmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "басу"
+                ],
+                "Bashkir": [
+                    "баҫыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бетерү"
+                ],
+                "Bashkir": [
+                    "бөтөрөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kapamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məhv etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұншықтыру"
+                ]
+            }
+        }
+    ]
+}

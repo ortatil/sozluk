@@ -1,0 +1,180 @@
+# Sos
+| Field | Detail |
+|---|---|
+| **ID** | i72243 |
+| **English** | sos |
+| **Type** | noun |
+| **Definition** | an internationally recognized distress signal in radio code |
+| **Source** | common |
+| **Ortatil** | pälsäpä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| дабыл | dabıl |
+
+```json
+{
+    "id": "i72243",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sos",
+    "en_definition": "an internationally recognized distress signal in radio code",
+    "tr_word": "sos",
+    "tr_definition": "radyo kodunda uluslararası kabul görmüş bir imdat sinyali",
+    "ru_word": "сос",
+    "ru_definition": "международный сигнал бедствия в радиотелеграфной связи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yardım çağrısı"
+                ],
+                "Azerbaijani": [
+                    "yardım çağırışı"
+                ],
+                "Uzbek": [
+                    "yordam signali"
+                ],
+                "Uyghur": [
+                    "ياردەم سىگنالى"
+                ],
+                "Kyrgyz": [
+                    "жардам белгиси"
+                ],
+                "Karakalpak": [
+                    "járdem signalı"
+                ],
+                "Tatar": [
+                    "ярдәм сигналы"
+                ],
+                "Bashkir": [
+                    "ярҙам сигналы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قۇتقۇزۇش سىگنالى"
+                ],
+                "Kazakh": [
+                    "құтқару белгісі"
+                ],
+                "Kyrgyz": [
+                    "куткаруу белгиси"
+                ],
+                "Karakalpak": [
+                    "qutqarıo signalı"
+                ],
+                "Tatar": [
+                    "коткару сигналы"
+                ],
+                "Bashkir": [
+                    "ҡотҡарыу сигналы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xatar signali"
+                ],
+                "Uyghur": [
+                    "خەتەر سىگنالى"
+                ],
+                "Tatar": [
+                    "хәвеф сигналы"
+                ],
+                "Bashkir": [
+                    "хәүеф сигналы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "imdat çağrısı"
+                ],
+                "Azerbaijani": [
+                    "imdad siqnalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tehlike sinyali"
+                ],
+                "Azerbaijani": [
+                    "təhlükə siqnalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fəlakət siqnalı"
+                ],
+                "Karakalpak": [
+                    "pálsapa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kömek çagyryşy"
+                ],
+                "Kazakh": [
+                    "көмек сигналы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howp duýduryşy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "halas ediş signaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "najot signali"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дабыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кооптуулук белгиси"
+                ]
+            }
+        }
+    ]
+}
+```
+

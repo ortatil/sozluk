@@ -1,0 +1,139 @@
+# Reinterpretation
+| Field | Detail |
+|---|---|
+| **ID** | i35933 |
+| **English** | reinterpretation |
+| **Type** | noun |
+| **Definition** | a new or different interpretation |
+| **Source** | common |
+| **Ortatil** | täcidit |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i35933",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "reinterpretation",
+    "en_definition": "a new or different interpretation",
+    "tr_word": "yeniden yorumlama",
+    "tr_definition": "bir şeyi yeni veya farklı bir şekilde yorumlama eylemi",
+    "ru_word": "переосмысление",
+    "ru_definition": "новое или иное толкование чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden yorumlama",
+                    "yeni yorum",
+                    "yeniden anlamlandırma"
+                ],
+                "Azerbaijani": [
+                    "yenidən yozma",
+                    "yenidən şərh"
+                ],
+                "Uzbek": [
+                    "yangi talqin"
+                ],
+                "Uyghur": [
+                    "يېڭىچە چۈشەندۈرۈش"
+                ],
+                "Kyrgyz": [
+                    "жаңыча түшүндүрмө"
+                ],
+                "Tatar": [
+                    "яңача аңлатма",
+                    "яңача шәрехләү",
+                    "яңача тәфсир",
+                    "яңача аңлау"
+                ],
+                "Bashkir": [
+                    "яңыса аңлатыу",
+                    "яңыса аңлатма",
+                    "яңыса төшөндөрөү",
+                    "яңыса тасуирлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qayta talqin",
+                    "qayta sharh",
+                    "qayta izoh"
+                ],
+                "Uyghur": [
+                    "قايتا تەپسىر",
+                    "قايتا تەۋىل"
+                ],
+                "Kazakh": [
+                    "қайта түсіндіру",
+                    "қайта жору"
+                ],
+                "Kyrgyz": [
+                    "кайра чечмелөө",
+                    "кайра жоруу"
+                ],
+                "Karakalpak": [
+                    "qayta túsindirio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təzədən yozum",
+                    "təzə şərh"
+                ],
+                "Turkmen": [
+                    "täzeden düşündiriş",
+                    "täzeçe düşündiriş",
+                    "täzeden teswirleme",
+                    "täzeçe teswirleme"
+                ],
+                "Karakalpak": [
+                    "tájidid"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "басқаша түсіну"
+                ],
+                "Kyrgyz": [
+                    "башкача талдоо"
+                ],
+                "Karakalpak": [
+                    "basqasha talqılao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаңаша пайымдау"
+                ],
+                "Karakalpak": [
+                    "jańasha túsinik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "farklı yorum"
+                ]
+            }
+        }
+    ]
+}
+```
+

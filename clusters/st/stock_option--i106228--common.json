@@ -1,0 +1,113 @@
+{
+    "id": "i106228",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stock option",
+    "en_definition": "a benefit given by a company to an employee in the form of an option to buy stock in the company at a discount or at a fixed price",
+    "tr_word": "hisse senedi opsiyonu",
+    "tr_definition": "Bir şirketin çalışanlarına, şirket hisselerini belirli bir süre içinde, önceden belirlenmiş sabit bir fiyattan satın alma hakkı veren bir yan hak.",
+    "ru_word": "фондовый опцион",
+    "ru_definition": "право сотрудника компании купить определенное количество акций этой компании по фиксированной цене в течение определенного периода времени.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aksiyadorlik imtiyozi"
+                ],
+                "Kazakh": [
+                    "акция опционы",
+                    "акция сатып алу құқығы"
+                ],
+                "Kyrgyz": [
+                    "акция опциону",
+                    "акция сатып алуу укугу"
+                ],
+                "Karakalpak": [
+                    "akciya opcionı",
+                    "akciya satıp alıo imkaniyatı"
+                ],
+                "Tatar": [
+                    "акция хокукы",
+                    "акция сатып алу хокукы",
+                    "акция опционы"
+                ],
+                "Bashkir": [
+                    "акция алыу хоҡуғы",
+                    "акция һатып алыу мөмкинлеге",
+                    "акцияға хоҡуҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pay senedi opsiyonu"
+                ],
+                "Azerbaijani": [
+                    "pay seçimi"
+                ],
+                "Turkmen": [
+                    "paýnama hukugy",
+                    "paýnama satyn almak hukugy",
+                    "paýnama opsiýony"
+                ],
+                "Uyghur": [
+                    "پايچېك تاللاش ھوقۇقى",
+                    "پاي ھوقۇقى تاللىشى",
+                    "پايچېك سېتىۋېلىش ھوقۇقى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ulush sotib olish ixtiyori"
+                ],
+                "Kazakh": [
+                    "үлес құқығы"
+                ],
+                "Kyrgyz": [
+                    "үлүш тандоо укугу"
+                ],
+                "Karakalpak": [
+                    "úles satıp alıo huqıqı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hisse senedi opsiyonu"
+                ],
+                "Uzbek": [
+                    "hissa sotib olish huquqi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hisse alım hakkı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pay alım hakkı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səhm seçimi",
+                    "səhm opsionu"
+                ]
+            }
+        }
+    ]
+}

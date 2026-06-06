@@ -1,0 +1,83 @@
+{
+    "id": "i76851",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "frozen yogurt",
+    "en_definition": "a soft frozen dessert of sweetened flavored yogurt",
+    "tr_word": "dondurulmuş yoğurt",
+    "tr_definition": "Tatlandırılmış ve aromalı yoğurttan yapılan, dondurmaya benzeyen yumuşak bir tatlı.",
+    "ru_word": "замороженный йогурт",
+    "ru_definition": "Мягкий замороженный десерт, приготовленный из подслащенного ароматизированного йогурта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dondurulmuş yoğurt"
+                ],
+                "Azerbaijani": [
+                    "dondurulmuş qatıq"
+                ],
+                "Turkmen": [
+                    "doňdurylan gatyk"
+                ],
+                "Uyghur": [
+                    "تۇڭلاتما قېتىق"
+                ],
+                "Kyrgyz": [
+                    "тоңдурулган айран"
+                ],
+                "Tatar": [
+                    "туңдырылган катык",
+                    "туңдырылган йогурт"
+                ],
+                "Bashkir": [
+                    "туңдырылған ҡатыҡ",
+                    "туңдырылған йогурт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muzlatilgan qatiq",
+                    "muzlatilgan yogurt",
+                    "muzlatilgan suzma"
+                ],
+                "Uyghur": [
+                    "مۇزلىتىلغان قېتىق"
+                ],
+                "Kazakh": [
+                    "мұздатылған қатық",
+                    "мұздатылған айран",
+                    "мұздатылған йогурт"
+                ],
+                "Kyrgyz": [
+                    "муздатылган айран"
+                ],
+                "Karakalpak": [
+                    "mұzdatılǵan qatıq",
+                    "mұzdatılǵan yogurt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "buzlu qatıq"
+                ],
+                "Turkmen": [
+                    "buzly gatyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yoğurtlu dondurma"
+                ]
+            }
+        }
+    ]
+}

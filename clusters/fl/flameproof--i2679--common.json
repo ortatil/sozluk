@@ -1,0 +1,128 @@
+{
+    "id": "i2679",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "flameproof",
+    "en_definition": "resistant to catching fire",
+    "tr_word": "ateşe dayanıklı",
+    "tr_definition": "ateş almayan veya yanmaya karşı dirençli olan",
+    "ru_word": "огнестойкий",
+    "ru_definition": "устойчивый к воздействию огня и не поддающийся возгоранию",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "odadavamlı"
+                ],
+                "Turkmen": [
+                    "otda ýanmaz",
+                    "oda çydamly",
+                    "oda durnukly"
+                ],
+                "Uzbek": [
+                    "o'tga chidamli",
+                    "o'tga chidovli"
+                ],
+                "Uyghur": [
+                    "ئوت ئۆتمەس",
+                    "ئوت چىداملىق"
+                ],
+                "Kazakh": [
+                    "отқа төзімді",
+                    "отқа берік"
+                ],
+                "Kyrgyz": [
+                    "отко чыдамдуу"
+                ],
+                "Karakalpak": [
+                    "otqa tózimli",
+                    "otqa shıdamlı"
+                ],
+                "Tatar": [
+                    "ут үтмәс",
+                    "уттан сакланган",
+                    "ут чыдамлы"
+                ],
+                "Bashkir": [
+                    "утҡа сыҙам",
+                    "утҡа бирешмәүсән",
+                    "утҡа тотороҡло"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanmaz"
+                ],
+                "Azerbaijani": [
+                    "yanmaz"
+                ],
+                "Uzbek": [
+                    "yonmaydigan"
+                ],
+                "Kazakh": [
+                    "жанбайтын"
+                ],
+                "Karakalpak": [
+                    "janbaytuǵın"
+                ],
+                "Tatar": [
+                    "янмый торган"
+                ],
+                "Bashkir": [
+                    "янмай торған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ateşe dayanıklı"
+                ],
+                "Azerbaijani": [
+                    "atəşədavamlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alev almaz"
+                ],
+                "Uzbek": [
+                    "olovbardosh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆيمەس"
+                ],
+                "Kyrgyz": [
+                    "күйбөс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өртке төзімді"
+                ],
+                "Kyrgyz": [
+                    "өрткө туруктуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tutuşmaz"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "i56708",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oilcan",
+    "en_definition": "a can with a long nozzle to apply oil to machinery",
+    "tr_word": "yağdanlık",
+    "tr_definition": "makineleri yağlamak için kullanılan, genellikle uzun emzikli kap",
+    "ru_word": "масленка",
+    "ru_definition": "сосуд с длинным носиком для подачи смазочного масла к деталям машин",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "moydon",
+                    "moyish",
+                    "moylagich"
+                ],
+                "Uyghur": [
+                    "ماي قاچىسى",
+                    "ماي قۇتۇسى",
+                    "ماي پۈركۈگۈچ"
+                ],
+                "Kazakh": [
+                    "майсауыт",
+                    "майлағыш",
+                    "майқұйғыш"
+                ],
+                "Kyrgyz": [
+                    "май идиш",
+                    "май куйгуч",
+                    "майлагыч"
+                ],
+                "Karakalpak": [
+                    "maylaǵısh",
+                    "may sauıt"
+                ],
+                "Tatar": [
+                    "майлагыч",
+                    "май савыты"
+                ],
+                "Bashkir": [
+                    "майлауыс",
+                    "май һауыты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağdanlık",
+                    "yağ kabı",
+                    "yağ kutusu"
+                ],
+                "Azerbaijani": [
+                    "yağdan",
+                    "yağ qabı"
+                ],
+                "Turkmen": [
+                    "ýaglaýjy",
+                    "ýag gap",
+                    "ýagdan"
+                ]
+            }
+        }
+    ]
+}

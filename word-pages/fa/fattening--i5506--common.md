@@ -1,0 +1,202 @@
+# Fattening
+| Field | Detail |
+|---|---|
+| **ID** | i5506 |
+| **English** | fattening |
+| **Type** | adjective |
+| **Definition** | subject to or used in the process of finishing or fattening up for slaughter |
+| **Source** | common |
+| **Ortatil** | semirtiwçi |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **semirtiwçi** | **besili** | **bordaqı** |
+|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ |
+| Azerbaijani | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ❌ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 0 | 0 |
+| *Qipchaq Subtotal* | 1 | 0 | 0.80 |
+| *In All* | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **3.67** | **1** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سەمىرتىلىدىغان | sämirtilidiğan |
+| بېقىلىدىغان | beqilidiğan |
+| باقما | baqma |
+| گۆشلۈك | göşlük |
+| **Kazakh** | |
+| семіртуші | semirtuşi |
+| семіртетін | semirtetin |
+| бордақы | bordaqı |
+| құнарлы | qunarlı |
+| **Kyrgyz** | |
+| семиртүүчү | semirtüüçü |
+| бордоп | bordop |
+| бордолуучу | bordoluuçu |
+| **Tatar** | |
+| симертү | simertü |
+| симерткеч | simertkeç |
+| азыклы | azıklı |
+| куәтле | kuätle |
+| **Bashkir** | |
+| һимертеүсе | himerteüse |
+| һимертеү | himerteü |
+| борҙаҡ | borzaq |
+
+```json
+{
+    "id": "i5506",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "fattening",
+    "en_definition": "subject to or used in the process of finishing or fattening up for slaughter",
+    "tr_word": "besili",
+    "tr_definition": "kesimden önce semirtilmiş veya besiye çekilmiş olan",
+    "ru_word": "откормочный",
+    "ru_definition": "предназначенный для откорма скота перед убоем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "semirtilmiş"
+                ],
+                "Turkmen": [
+                    "semizlediji",
+                    "semizletmek üçin"
+                ],
+                "Uzbek": [
+                    "semirtiruvchi",
+                    "semirtirish"
+                ],
+                "Uyghur": [
+                    "سەمىرتىلىدىغان"
+                ],
+                "Kazakh": [
+                    "семіртуші",
+                    "семіртетін"
+                ],
+                "Kyrgyz": [
+                    "семиртүүчү"
+                ],
+                "Karakalpak": [
+                    "semіrtіletіn",
+                    "semіrtushі"
+                ],
+                "Tatar": [
+                    "симертү",
+                    "симерткеч"
+                ],
+                "Bashkir": [
+                    "һимертеүсе",
+                    "һимертеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бордақы"
+                ],
+                "Kyrgyz": [
+                    "бордоп",
+                    "бордолуучу",
+                    "бордолуп жаткан"
+                ],
+                "Karakalpak": [
+                    "bordaqı"
+                ],
+                "Bashkir": [
+                    "борҙаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "besili",
+                    "besiye çekilmiş",
+                    "besilik"
+                ],
+                "Azerbaijani": [
+                    "bəsləmə"
+                ],
+                "Turkmen": [
+                    "besleýji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boquv",
+                    "boqiladigan"
+                ],
+                "Uyghur": [
+                    "بېقىلىدىغان",
+                    "باقما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kökəltmə",
+                    "kökəldici",
+                    "kökəldilən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "horakly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۆشلۈك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құнарлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "азыклы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "куәтле"
+                ]
+            }
+        }
+    ]
+}
+```
+

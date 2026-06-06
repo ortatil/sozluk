@@ -1,0 +1,92 @@
+{
+    "id": "i61005",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water heater",
+    "en_definition": "a heater and storage tank to supply heated water",
+    "tr_word": "şofben",
+    "tr_definition": "Sıcak su sağlamak için kullanılan, genellikle banyolarda bulunan ısıtıcı cihaz.",
+    "ru_word": "водонагреватель",
+    "ru_definition": "Устройство для непрерывного нагрева воды в системе водоснабжения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su ısıtıcısı"
+                ],
+                "Azerbaijani": [
+                    "su qızdırıcısı",
+                    "su qızdıran",
+                    "su çəni"
+                ],
+                "Turkmen": [
+                    "suv gyzdyryjy",
+                    "suv gyzdyrgyç"
+                ],
+                "Uzbek": [
+                    "suv isitgich",
+                    "suv isitish uskunasi",
+                    "suv isitish moslamasi"
+                ],
+                "Uyghur": [
+                    "سۇ ئىسسىتقۇچ",
+                    "سۇ قايناتقۇچ"
+                ],
+                "Kazakh": [
+                    "су жылытқыш",
+                    "су ысытқыш",
+                    "су қайнатқыш"
+                ],
+                "Kyrgyz": [
+                    "суу жылыткыч",
+                    "суу ысыткыч"
+                ],
+                "Karakalpak": [
+                    "suo ısıtqısh",
+                    "suo ısıtıoshı"
+                ],
+                "Tatar": [
+                    "су җылыткыч",
+                    "су җылыту җайланмасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şofben"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "termosifon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boyler"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىسسىق سۇ تانكىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу йылытҡыс",
+                    "һыу йылытыу ҡоролмаһы"
+                ]
+            }
+        }
+    ]
+}

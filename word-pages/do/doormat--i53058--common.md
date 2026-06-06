@@ -1,0 +1,197 @@
+# Doormat
+| Field | Detail |
+|---|---|
+| **ID** | i53058 |
+| **English** | doormat |
+| **Type** | noun |
+| **Definition** | a mat placed outside an exterior door for wiping the shoes before entering |
+| **Source** | common |
+| **Ortatil** | palas |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **palas** | **kiläm** | **gilämçä** | **tösenmäş** |
+|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ | ❌ |
+| Uzbek | ❌ | ❌ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ✅ | ✅ |
+| Kyrgyz | ❌ | ✅ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ✅ | ✅ |
+| Tatar | ✅ | ❌ | ❌ | ❌ |
+| Bashkir | ❌ | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.33 | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.40 | 0.40 | 0.60 |
+| *In All* | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |  |  |
+| **O'TQ** | **2.90** | **1.23** | **0.90** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پايانداز | payandaz |
+| **Kazakh** | |
+| кілемше | kilemşe |
+| төсеніш | töseniş |
+| табалдырық | tabaldırıq |
+| **Kyrgyz** | |
+| килемче | kilemçe |
+| төшөнчү | töşönçü |
+| **Tatar** | |
+| палас | palas |
+| **Bashkir** | |
+| килемсә | kilemsä |
+
+```json
+{
+    "id": "i53058",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "doormat",
+    "en_definition": "a mat placed outside an exterior door for wiping the shoes before entering",
+    "tr_word": "paspas",
+    "tr_definition": "Ayakkabıların altını temizlemek için kapı önlerine konulan hasır, plastik veya kauçuktan yapılmış örtü.",
+    "ru_word": "коврик для ног",
+    "ru_definition": "Небольшой коврик, который кладут перед входом в помещение для вытирания ног.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "paspas"
+                ],
+                "Azerbaijani": [
+                    "paspas"
+                ],
+                "Turkmen": [
+                    "palas",
+                    "paspas"
+                ],
+                "Uyghur": [
+                    "پايانداز"
+                ],
+                "Karakalpak": [
+                    "palas"
+                ],
+                "Tatar": [
+                    "палас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayakçak",
+                    "ayak silecek"
+                ],
+                "Azerbaijani": [
+                    "ayaqaltı"
+                ],
+                "Tatar": [
+                    "аяк сөрткеч"
+                ],
+                "Bashkir": [
+                    "аяҡ һөрткөс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "keçe"
+                ],
+                "Kyrgyz": [
+                    "килемче"
+                ],
+                "Bashkir": [
+                    "килемсә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "gilamcha"
+                ],
+                "Kazakh": [
+                    "кілемше"
+                ],
+                "Karakalpak": [
+                    "kilemshe"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "بوسۇغا پايانداز",
+                    "بوسۇغا گىلىمى"
+                ],
+                "Kyrgyz": [
+                    "бут аарчыгыч"
+                ],
+                "Tatar": [
+                    "бусага келәме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "төсеніш"
+                ],
+                "Kyrgyz": [
+                    "төшөнчү"
+                ],
+                "Karakalpak": [
+                    "tóseme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həsir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poyandoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bo'yra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "табалдырық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тупһа япмаһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

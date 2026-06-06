@@ -1,0 +1,78 @@
+{
+    "id": "i77379",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cinnamon toast",
+    "en_definition": "buttered toast with sugar and cinnamon (and nutmeg and grated lemon peel)",
+    "tr_word": "tarçınlı ekmek",
+    "tr_definition": "üzerine tereyağı, şeker ve tarçın (bazen muskat ve limon kabuğu rendesi) sürülerek kızartılmış ekmek",
+    "ru_word": "тост с корицей",
+    "ru_definition": "поджаренный хлеб с маслом, сахаром и корицей (иногда с добавлением мускатного ореха и лимонной цедры)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarçınlı ekmek",
+                    "tarçınlı kızarmış ekmek",
+                    "tarçınlı şekerli ekmek"
+                ],
+                "Azerbaijani": [
+                    "darçınlı çörək",
+                    "darçınlı qızarmış çörək",
+                    "darçınlı tost"
+                ],
+                "Turkmen": [
+                    "darçynly çörek",
+                    "darçynly nan"
+                ],
+                "Uzbek": [
+                    "dorchinli non"
+                ],
+                "Uyghur": [
+                    "دارچىنلىق نان",
+                    "دارچىنلىق توست نېنى",
+                    "دارچىنلىق قاقلانغان نان"
+                ],
+                "Kazakh": [
+                    "дәршін қосылған нан",
+                    "дәршін себілген нан",
+                    "дәршін наны"
+                ],
+                "Kyrgyz": [
+                    "дарчындуу нан",
+                    "дарчын кошулган куурулган нан",
+                    "дарчындуу тост"
+                ],
+                "Karakalpak": [
+                    "darshınlı nan",
+                    "darshınlı qatlama",
+                    "darshın sebilgen nan"
+                ],
+                "Tatar": [
+                    "дарчинлы икмәк",
+                    "дарчинлы кыздырылган икмәк"
+                ],
+                "Bashkir": [
+                    "дарсынлы икмәк",
+                    "дарсынлы ҡыҙҙырылған икмәк",
+                    "дарсынлы тост"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dolchinli qovurilgan non"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shirin dorchinli non"
+                ]
+            }
+        }
+    ]
+}

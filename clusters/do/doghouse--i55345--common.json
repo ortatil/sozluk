@@ -1,0 +1,109 @@
+{
+    "id": "i55345",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "doghouse",
+    "en_definition": "outbuilding that serves as a shelter for a dog",
+    "tr_word": "köpek kulübesi",
+    "tr_definition": "Bir köpeğin barınması için yapılmış küçük dış yapı.",
+    "ru_word": "конура",
+    "ru_definition": "небольшая постройка, служащая укрытием для собаки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "it damı",
+                    "it yuvası",
+                    "it qulubəsi"
+                ],
+                "Turkmen": [
+                    "it ýatagy",
+                    "it hanasy"
+                ],
+                "Uzbek": [
+                    "itxona",
+                    "it uyi",
+                    "it katagi"
+                ],
+                "Uyghur": [
+                    "ئىتخانا",
+                    "ئىت ئۇۋىسى"
+                ],
+                "Kazakh": [
+                    "итқора",
+                    "ит үйшігі"
+                ],
+                "Kyrgyz": [
+                    "ит кепе",
+                    "ит уя"
+                ],
+                "Karakalpak": [
+                    "iyt uyası"
+                ],
+                "Tatar": [
+                    "эт оясы"
+                ],
+                "Bashkir": [
+                    "эт ояһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ұя"
+                ],
+                "Tatar": [
+                    "оя"
+                ],
+                "Bashkir": [
+                    "оя"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köpek kulübesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kulübe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "barınak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "it ketegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кепе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "iytxana"
+                ]
+            }
+        }
+    ]
+}

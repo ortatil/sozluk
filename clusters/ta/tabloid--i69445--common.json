@@ -1,0 +1,178 @@
+{
+    "id": "i69445",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tabloid",
+    "en_definition": "newspaper with half-size pages",
+    "tr_word": "bulvar gazetesi",
+    "tr_definition": "Normal gazete boyutunun yarısı büyüklüğünde olan, genellikle magazin ve sansasyonel haberlere yer veren gazete türü.",
+    "ru_word": "таблоид",
+    "ru_definition": "Газета с половинным форматом страницы, обычно отличающаяся обилием иллюстраций и сенсационным характером новостей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gazet"
+                ],
+                "Kyrgyz": [
+                    "гезит"
+                ],
+                "Karakalpak": [
+                    "gazeta"
+                ],
+                "Tatar": [
+                    "гәҗит"
+                ],
+                "Bashkir": [
+                    "гәзит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük gazete"
+                ],
+                "Azerbaijani": [
+                    "kiçik qəzet"
+                ],
+                "Uzbek": [
+                    "kichik gazeta"
+                ],
+                "Uyghur": [
+                    "كىچىك گېزىت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sarı mətbuat"
+                ],
+                "Uzbek": [
+                    "sariq matbuot"
+                ],
+                "Kazakh": [
+                    "сары басылым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bulvar gazetesi"
+                ],
+                "Azerbaijani": [
+                    "bulvar qəzeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "metbugat"
+                ],
+                "Tatar": [
+                    "мәҗмуга"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "басылма"
+                ],
+                "Bashkir": [
+                    "баҫма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "magazin gazetesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "neşir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ixcham gazeta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پارچە گېزىت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەلقچىل گېزىت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шағын газет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жеңіл газет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жарчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dáoirli baspa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "xabarshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "язма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "китапсыҡ"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+# Athletic supporter
+| Field | Detail |
+|---|---|
+| **ID** | i50232 |
+| **English** | athletic supporter |
+| **Type** | noun |
+| **Definition** | a support for the genitals worn by men engaging in strenuous exercise |
+| **Source** | common |
+| **Ortatil** | belbäğ |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **belbäğ** | **qorğanış** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 0.33 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.80 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **2.23** | **1.63** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қорғаныш | qorğanış |
+| белбеу | belbeu |
+| таңғыш | tañğış |
+| **Kyrgyz** | |
+| кур | kur |
+| байлам | baylam |
+| кап | kap |
+| **Tatar** | |
+| бәйләвеч | bäyläveç |
+| терәк | teräk |
+| саклагыч | saklagıç |
+| **Bashkir** | |
+| ҡурсалаусы | qursalausı |
+| бандаж | bandaj |
+| терәк | teräk |
+
+```json
+{
+    "id": "i50232",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "athletic supporter",
+    "en_definition": "a support for the genitals worn by men engaging in strenuous exercise",
+    "tr_word": "suspansuar",
+    "tr_definition": "Erkeklerin spor yaparken cinsel organlarını korumak ve desteklemek için giydikleri destekleyici iç çamaşırı.",
+    "ru_word": "суспензорий",
+    "ru_definition": "Специальная поддерживающая повязка для мошонки, используемая спортсменами для защиты и фиксации половых органов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goraglygy"
+                ],
+                "Kazakh": [
+                    "қорғаныш"
+                ],
+                "Kyrgyz": [
+                    "кур"
+                ],
+                "Karakalpak": [
+                    "qorǵanısh"
+                ],
+                "Bashkir": [
+                    "ҡурсалаусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bilbag"
+                ],
+                "Uzbek": [
+                    "belbog'"
+                ],
+                "Kazakh": [
+                    "белбеу"
+                ],
+                "Karakalpak": [
+                    "belbeu",
+                    "belbau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "suspansuar"
+                ],
+                "Turkmen": [
+                    "suspenzor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koruyucu kuşak"
+                ],
+                "Azerbaijani": [
+                    "idmançı qoruyucusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bandaj"
+                ],
+                "Bashkir": [
+                    "бандаж"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "байлам"
+                ],
+                "Tatar": [
+                    "бәйләвеч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "терәк"
+                ],
+                "Bashkir": [
+                    "терәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hayalar koruyucusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qasıqbağı",
+                    "qasıq qoruyucusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "himoya bog'ichi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەنھەرىكەت ئاسرىغۇچ",
+                    "تەنھەرىكەت بەلبېغى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوغدىغۇچى بەلباغ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңғыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "саклагыч"
+                ]
+            }
+        }
+    ]
+}
+```
+

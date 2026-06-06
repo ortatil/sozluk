@@ -1,0 +1,108 @@
+{
+    "id": "i88051",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "accountant",
+    "en_definition": "someone who maintains and audits business accounts",
+    "tr_word": "muhasebeci",
+    "tr_definition": "işletme hesaplarını tutan ve denetleyen kişi",
+    "ru_word": "бухгалтер",
+    "ru_definition": "лицо, ведущее и проверяющее финансовую отчетность предприятия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhasebeci"
+                ],
+                "Azerbaijani": [
+                    "mühasib"
+                ],
+                "Turkmen": [
+                    "muhasib"
+                ],
+                "Uzbek": [
+                    "muhosib"
+                ],
+                "Uyghur": [
+                    "مۇھاسىب"
+                ],
+                "Kyrgyz": [
+                    "мухасиб"
+                ],
+                "Karakalpak": [
+                    "muxasib"
+                ],
+                "Tatar": [
+                    "мөһасиб"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hesabdar"
+                ],
+                "Turkmen": [
+                    "hasapçy"
+                ],
+                "Uzbek": [
+                    "hisobchi"
+                ],
+                "Uyghur": [
+                    "ھېساباتچى",
+                    "ھېسابچى"
+                ],
+                "Kyrgyz": [
+                    "эсепчи"
+                ],
+                "Tatar": [
+                    "хисапчы",
+                    "хисапдар"
+                ],
+                "Bashkir": [
+                    "хисапсы",
+                    "хисап башлығы",
+                    "хисап эштәре белгесе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "есепші",
+                    "есеп жүргізуші"
+                ],
+                "Kyrgyz": [
+                    "эсеп-кысапчы"
+                ],
+                "Karakalpak": [
+                    "esapshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sayman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "defterdar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қазынашы"
+                ]
+            }
+        }
+    ]
+}

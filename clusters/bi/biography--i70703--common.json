@@ -1,0 +1,144 @@
+{
+    "id": "i70703",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "biography",
+    "en_definition": "an account of the series of events making up a person's life",
+    "tr_word": "biyografi",
+    "tr_definition": "bir kişinin yaşamını konu alan, yaşamındaki olayların sırasını içeren anlatı",
+    "ru_word": "биография",
+    "ru_definition": "описание жизни человека, последовательность событий, составляющих его жизненный путь",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tercümeihâl"
+                ],
+                "Azerbaijani": [
+                    "tərcümeyi-hal"
+                ],
+                "Turkmen": [
+                    "terjimehal"
+                ],
+                "Uzbek": [
+                    "tarjimai hol"
+                ],
+                "Uyghur": [
+                    "تەرجىمىھال"
+                ],
+                "Kazakh": [
+                    "тәржімеихал"
+                ],
+                "Kyrgyz": [
+                    "таржымал"
+                ],
+                "Karakalpak": [
+                    "tárjіmai-xal"
+                ],
+                "Tatar": [
+                    "тәрҗемәи хәл"
+                ],
+                "Bashkir": [
+                    "тәржемәи хәл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "biyografi"
+                ],
+                "Azerbaijani": [
+                    "bioqrafiya"
+                ],
+                "Uzbek": [
+                    "biografiya"
+                ],
+                "Tatar": [
+                    "биография"
+                ],
+                "Bashkir": [
+                    "биография"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ömürbayany",
+                    "ömür ýoly"
+                ],
+                "Kazakh": [
+                    "өмірбаян",
+                    "ғұмырнама"
+                ],
+                "Kyrgyz": [
+                    "өмүр баян",
+                    "өмүр таржымалы"
+                ],
+                "Karakalpak": [
+                    "ómіrbayan"
+                ],
+                "Bashkir": [
+                    "ғүмер юлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hayat hikayesi"
+                ],
+                "Azerbaijani": [
+                    "həyat yolu",
+                    "həyatnamə"
+                ],
+                "Uzbek": [
+                    "hayotnoma"
+                ],
+                "Uyghur": [
+                    "ھاياتنامە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaşam öyküsü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "özgeçmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sira"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سەۋانە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гомер юлы"
+                ]
+            }
+        }
+    ]
+}

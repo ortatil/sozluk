@@ -1,0 +1,115 @@
+{
+    "id": "i91858",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "parent",
+    "en_definition": "a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian",
+    "tr_word": "ebeveyn",
+    "tr_definition": "Anne veya babadan her biri; bir çocuğu dünyaya getiren veya yetiştirip büyüten kişi.",
+    "ru_word": "родитель",
+    "ru_definition": "Отец или мать; человек, который рождает или воспитывает и растит ребенка.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ana baba"
+                ],
+                "Azerbaijani": [
+                    "ata-ana"
+                ],
+                "Turkmen": [
+                    "ene-ata",
+                    "at-ene"
+                ],
+                "Uzbek": [
+                    "ota-ona"
+                ],
+                "Uyghur": [
+                    "ئاتا-ئانا"
+                ],
+                "Kazakh": [
+                    "ата-ана"
+                ],
+                "Kyrgyz": [
+                    "ата-эне"
+                ],
+                "Karakalpak": [
+                    "ata-ana"
+                ],
+                "Tatar": [
+                    "ата-ана"
+                ],
+                "Bashkir": [
+                    "ата-әсә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "valideyn"
+                ],
+                "Azerbaijani": [
+                    "valideyn"
+                ],
+                "Turkmen": [
+                    "walideýn"
+                ],
+                "Uyghur": [
+                    "ۋالىدەين"
+                ],
+                "Karakalpak": [
+                    "ualdayın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "volid",
+                    "volida"
+                ],
+                "Kyrgyz": [
+                    "валиде"
+                ],
+                "Tatar": [
+                    "вәли"
+                ],
+                "Bashkir": [
+                    "вәли"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ebeveyn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "murabbiy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тәрбиеші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "туған"
+                ]
+            }
+        }
+    ]
+}

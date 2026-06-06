@@ -1,0 +1,109 @@
+{
+    "id": "i36754",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "turkish bath",
+    "en_definition": "you sweat in a steam room before getting a rubdown and cold shower",
+    "tr_word": "hamam",
+    "tr_definition": "İçinde yıkanılan, sıcak ve soğuk suyun bulunduğu, buharlı ve sıcak yer.",
+    "ru_word": "хаммам",
+    "ru_definition": "Общественная баня с горячим паром, где после распаривания делают массаж и принимают холодный душ.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hamam"
+                ],
+                "Azerbaijani": [
+                    "hamam"
+                ],
+                "Turkmen": [
+                    "hammam"
+                ],
+                "Uzbek": [
+                    "hammom"
+                ],
+                "Uyghur": [
+                    "ھاممام"
+                ],
+                "Kazakh": [
+                    "хамам"
+                ],
+                "Kyrgyz": [
+                    "хамам"
+                ],
+                "Karakalpak": [
+                    "xamam"
+                ],
+                "Tatar": [
+                    "хәммам"
+                ],
+                "Bashkir": [
+                    "хәммәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "monça"
+                ],
+                "Uyghur": [
+                    "مونچا"
+                ],
+                "Kazakh": [
+                    "монша"
+                ],
+                "Kyrgyz": [
+                    "мончо"
+                ],
+                "Karakalpak": [
+                    "monsha"
+                ],
+                "Tatar": [
+                    "мунча"
+                ],
+                "Bashkir": [
+                    "мунса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ısıdam"
+                ],
+                "Azerbaijani": [
+                    "isti hamam"
+                ],
+                "Uzbek": [
+                    "issiq hammom"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yunak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "türk hamamı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бу моншасы"
+                ]
+            }
+        }
+    ]
+}

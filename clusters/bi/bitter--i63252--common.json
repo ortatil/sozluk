@@ -1,0 +1,95 @@
+{
+    "id": "i63252",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bitter",
+    "en_definition": "the property of having a harsh unpleasant taste",
+    "tr_word": "acı",
+    "tr_definition": "sert ve hoş olmayan bir tat alma özelliği",
+    "ru_word": "горечь",
+    "ru_definition": "свойство иметь резкий неприятный вкус",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "acı",
+                    "acılık"
+                ],
+                "Azerbaijani": [
+                    "acı",
+                    "acılıq"
+                ],
+                "Turkmen": [
+                    "ajylyk",
+                    "ajy"
+                ],
+                "Kazakh": [
+                    "ащылық"
+                ],
+                "Kyrgyz": [
+                    "ачуулук",
+                    "ачуу"
+                ],
+                "Karakalpak": [
+                    "ashchılıq"
+                ],
+                "Tatar": [
+                    "ачылык",
+                    "ачы"
+                ],
+                "Bashkir": [
+                    "асылыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kekrelik"
+                ],
+                "Kazakh": [
+                    "кермектік"
+                ],
+                "Karakalpak": [
+                    "kermeklik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təlxlik"
+                ],
+                "Uzbek": [
+                    "taxirlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "achchiqlik"
+                ],
+                "Uyghur": [
+                    "ئاچچىقلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاماغ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "әселек"
+                ]
+            }
+        }
+    ]
+}

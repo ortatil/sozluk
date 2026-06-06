@@ -1,0 +1,110 @@
+{
+    "id": "i55985",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "manger",
+    "en_definition": "a container (usually in a barn or stable) from which cattle or horses feed",
+    "tr_word": "yemlik",
+    "tr_definition": "ahırlarda hayvanların yem yemesi için yapılmış bölme veya kap",
+    "ru_word": "кормушка",
+    "ru_definition": "приспособление для кормления скота или птиц в виде ящика или корыта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ahır yalağı"
+                ],
+                "Azerbaijani": [
+                    "axur"
+                ],
+                "Turkmen": [
+                    "ahyr"
+                ],
+                "Uzbek": [
+                    "oxur",
+                    "oxura"
+                ],
+                "Uyghur": [
+                    "ئوقۇر",
+                    "ئاخۇر"
+                ],
+                "Kazakh": [
+                    "ақыр"
+                ],
+                "Kyrgyz": [
+                    "акыр",
+                    "окур"
+                ],
+                "Karakalpak": [
+                    "aqır"
+                ],
+                "Tatar": [
+                    "ахыр"
+                ],
+                "Bashkir": [
+                    "аҡыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yemlik",
+                    "yalak"
+                ],
+                "Azerbaijani": [
+                    "yemlik"
+                ],
+                "Turkmen": [
+                    "iýmlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yemdon"
+                ],
+                "Kyrgyz": [
+                    "жем салгыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ясле"
+                ],
+                "Bashkir": [
+                    "ялаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "утлык"
+                ],
+                "Bashkir": [
+                    "улаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "науа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "orın"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "i54763",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "helicopter",
+    "en_definition": "an aircraft without wings that obtains its lift from the rotation of overhead blades",
+    "tr_word": "helikopter",
+    "tr_definition": "havada tutunmasını ve ilerlemesini döner kanatlar aracılığıyla sağlayan kanatsız hava taşıtı",
+    "ru_word": "вертолёт",
+    "ru_definition": "летательный аппарат тяжелее воздуха с вертикальным взлётом и посадкой, подъемная сила которого создается одним или несколькими несущими винтами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dikuçan"
+                ],
+                "Turkmen": [
+                    "dikuçar"
+                ],
+                "Uzbek": [
+                    "tikuchar"
+                ],
+                "Uyghur": [
+                    "تىك ئۇچار",
+                    "تىك ئۇچار ئايروپىلان"
+                ],
+                "Kazakh": [
+                    "тікұшақ"
+                ],
+                "Kyrgyz": [
+                    "тик учак"
+                ],
+                "Karakalpak": [
+                    "tіkұshaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "vertolyot"
+                ],
+                "Turkmen": [
+                    "perli uçar"
+                ],
+                "Uzbek": [
+                    "vertolyot"
+                ],
+                "Karakalpak": [
+                    "wertolyot"
+                ],
+                "Tatar": [
+                    "вертолёт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айналмақанат"
+                ],
+                "Kyrgyz": [
+                    "айланма учак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "helikopter"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "döner kanatlı hava aracı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "боралак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "өйөрмәлет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төрткөс"
+                ]
+            }
+        }
+    ]
+}

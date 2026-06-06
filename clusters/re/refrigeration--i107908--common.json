@@ -1,0 +1,125 @@
+{
+    "id": "i107908",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "refrigeration",
+    "en_definition": "the process of cooling or freezing (e.g., food) for preservative purposes",
+    "tr_word": "soğutma",
+    "tr_definition": "Gıdaları koruma amacıyla dondurma veya soğuk tutma işlemi.",
+    "ru_word": "охлаждение",
+    "ru_definition": "Процесс понижения температуры или замораживания (например, продуктов питания) в целях консервации.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dondurma"
+                ],
+                "Azerbaijani": [
+                    "dondurma"
+                ],
+                "Turkmen": [
+                    "doňdurma"
+                ],
+                "Uyghur": [
+                    "تۇڭلىتىش"
+                ],
+                "Kyrgyz": [
+                    "тоңдуруу"
+                ],
+                "Tatar": [
+                    "туңдыру"
+                ],
+                "Bashkir": [
+                    "туңдырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soğutma",
+                    "soğuk tutma"
+                ],
+                "Azerbaijani": [
+                    "soyutma",
+                    "soyuqlatma"
+                ],
+                "Turkmen": [
+                    "sowatma",
+                    "sowadyş"
+                ],
+                "Uzbek": [
+                    "sovutish",
+                    "sovutilish"
+                ],
+                "Uyghur": [
+                    "سوۋۇتۇش"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muzlatish"
+                ],
+                "Uyghur": [
+                    "مۇزلىتىش"
+                ],
+                "Kazakh": [
+                    "мұздату"
+                ],
+                "Kyrgyz": [
+                    "муздатуу"
+                ],
+                "Karakalpak": [
+                    "muzlatıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "суутуу"
+                ],
+                "Karakalpak": [
+                    "suıtıu"
+                ],
+                "Tatar": [
+                    "суыту",
+                    "суыткычлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "салқындату"
+                ],
+                "Bashkir": [
+                    "һалҡынайтыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тоңазыту"
+                ],
+                "Karakalpak": [
+                    "tońazıtıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыуытыу"
+                ]
+            }
+        }
+    ]
+}

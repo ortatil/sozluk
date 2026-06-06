@@ -1,0 +1,86 @@
+{
+    "id": "i111821",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "prostate cancer",
+    "en_definition": "cancer of the prostate gland",
+    "tr_word": "prostat kanseri",
+    "tr_definition": "prostat bezinde gelişen kötü huylu tümör",
+    "ru_word": "рак предстательной железы",
+    "ru_definition": "злокачественное новообразование, возникающее из эпителия желез предстательной железы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "prostat kanseri",
+                    "prostat tümörü",
+                    "prostat habis uru"
+                ],
+                "Azerbaijani": [
+                    "prostat xərçəngi",
+                    "prostat vəzinin xərçəngi",
+                    "prostat vəzinin bədxassəli şişi"
+                ],
+                "Turkmen": [
+                    "prostata mäziniň ragy",
+                    "prostata mäziniň täze döremesi",
+                    "prostata mäziniň howply çişi"
+                ],
+                "Uzbek": [
+                    "prostata bezi saratoni",
+                    "prostata saratoni"
+                ],
+                "Uyghur": [
+                    "پروستات راكى",
+                    "پروستات بېزى راكى"
+                ],
+                "Kyrgyz": [
+                    "простата рагы",
+                    "простата безинин рагы",
+                    "простата безинин шишиги"
+                ],
+                "Karakalpak": [
+                    "prostata ragı"
+                ],
+                "Tatar": [
+                    "простата бизе рагы"
+                ],
+                "Bashkir": [
+                    "простата яман шеше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қуықасты безінің қатерлі ісігі",
+                    "қуықасты безінің рагы"
+                ],
+                "Karakalpak": [
+                    "quıq astı bezі ragı",
+                    "quıq astı bezі qaterlі isigi"
+                ],
+                "Bashkir": [
+                    "ҡыуыҡ аҫты биҙе яман шеше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gudda saratoni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәни бизе рагы",
+                    "мәни бизе шеше"
+                ]
+            }
+        }
+    ]
+}

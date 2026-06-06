@@ -1,0 +1,173 @@
+{
+    "id": "i12737",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "well-fed",
+    "en_definition": "properly nourished",
+    "tr_word": "besili",
+    "tr_definition": "iyi beslenmiş, gürbüz",
+    "ru_word": "упитанный",
+    "ru_definition": "хорошо питающийся, имеющий здоровый вид и достаточный вес",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tok"
+                ],
+                "Azerbaijani": [
+                    "tox",
+                    "doymuş"
+                ],
+                "Turkmen": [
+                    "dok"
+                ],
+                "Uzbek": [
+                    "to'q"
+                ],
+                "Uyghur": [
+                    "توق",
+                    "توق-پاراغەت"
+                ],
+                "Kazakh": [
+                    "тоқ",
+                    "толық"
+                ],
+                "Kyrgyz": [
+                    "ток"
+                ],
+                "Karakalpak": [
+                    "toq"
+                ],
+                "Tatar": [
+                    "тук",
+                    "тукланган"
+                ],
+                "Bashkir": [
+                    "туҡ",
+                    "туҡланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "semiz"
+                ],
+                "Uzbek": [
+                    "semiz"
+                ],
+                "Kazakh": [
+                    "семіз"
+                ],
+                "Kyrgyz": [
+                    "семиз"
+                ],
+                "Karakalpak": [
+                    "semiz"
+                ],
+                "Tatar": [
+                    "симез"
+                ],
+                "Bashkir": [
+                    "һимеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bakımlı"
+                ],
+                "Uzbek": [
+                    "boqilgan"
+                ],
+                "Uyghur": [
+                    "بېقىلغان"
+                ],
+                "Kyrgyz": [
+                    "бай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "besili",
+                    "beslenmiş"
+                ],
+                "Azerbaijani": [
+                    "bəslənmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قورسىقى توق"
+                ],
+                "Kyrgyz": [
+                    "курсагы ток"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarnıtox"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "doyun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bol-telki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sergo'sht"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нәрлі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "búrkіt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tórt-túgel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сыйлы"
+                ]
+            }
+        }
+    ]
+}

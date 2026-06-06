@@ -1,0 +1,109 @@
+{
+    "id": "i87297",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oriental person",
+    "en_definition": "a member of an Oriental race; the term is regarded as offensive by Asians (especially by Asian Americans)",
+    "tr_word": "Doğulu",
+    "tr_definition": "Doğu ülkelerinden olan kimse; bu terim günümüzde bazı bağlamlarda aşağılayıcı kabul edilebilir.",
+    "ru_word": "азиат",
+    "ru_definition": "Представитель восточных народов; в современном английском языке термин «oriental» считается оскорбительным по отношению к азиатам.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asyalı"
+                ],
+                "Azerbaijani": [
+                    "asiyalı"
+                ],
+                "Turkmen": [
+                    "asialy"
+                ],
+                "Uzbek": [
+                    "osiyolik"
+                ],
+                "Kazakh": [
+                    "азиялық"
+                ],
+                "Kyrgyz": [
+                    "азиялык"
+                ],
+                "Karakalpak": [
+                    "aziyalı"
+                ],
+                "Tatar": [
+                    "азияле"
+                ],
+                "Bashkir": [
+                    "азиялы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şarklı"
+                ],
+                "Azerbaijani": [
+                    "şərqli"
+                ],
+                "Uzbek": [
+                    "sharqlik"
+                ],
+                "Uyghur": [
+                    "شەرقىي ئاسىيالىق",
+                    "شەرقلىق"
+                ],
+                "Tatar": [
+                    "шәркыятьче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шығыстық"
+                ],
+                "Kyrgyz": [
+                    "чыгыштык",
+                    "чыгыш адамы"
+                ],
+                "Karakalpak": [
+                    "shıǵıs adamı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күншығыстық"
+                ],
+                "Tatar": [
+                    "көнчыгыш кешесе"
+                ],
+                "Bashkir": [
+                    "көнсығыш кешеһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğulu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gündogarly"
+                ]
+            }
+        }
+    ]
+}

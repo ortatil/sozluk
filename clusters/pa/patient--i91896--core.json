@@ -1,0 +1,136 @@
+{
+    "id": "i91896",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "patient",
+    "en_definition": "a person who requires medical care",
+    "tr_word": "hasta",
+    "tr_definition": "tıbbi bakım veya tedavi gören kimse",
+    "ru_word": "пациент",
+    "ru_definition": "человек, получающий медицинскую помощь или лечение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hasta"
+                ],
+                "Azerbaijani": [
+                    "xəstə"
+                ],
+                "Turkmen": [
+                    "hassa"
+                ],
+                "Uzbek": [
+                    "xasta"
+                ],
+                "Tatar": [
+                    "хәстә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئاغرىق"
+                ],
+                "Kazakh": [
+                    "ауру"
+                ],
+                "Kyrgyz": [
+                    "оорулуу"
+                ],
+                "Tatar": [
+                    "авыру"
+                ],
+                "Bashkir": [
+                    "ауырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sayrı"
+                ],
+                "Turkmen": [
+                    "syrkaw"
+                ],
+                "Bashkir": [
+                    "сирле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "науқас"
+                ],
+                "Kyrgyz": [
+                    "накас"
+                ],
+                "Karakalpak": [
+                    "naoqas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bemor"
+                ],
+                "Uyghur": [
+                    "بىمار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كېسەل"
+                ],
+                "Karakalpak": [
+                    "kesel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "näsag"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mərəzli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бейтап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "biymazar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хәлһеҙ"
+                ]
+            }
+        }
+    ]
+}

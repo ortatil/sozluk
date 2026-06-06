@@ -1,0 +1,83 @@
+{
+    "id": "i37799",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fishing",
+    "en_definition": "the act of someone who fishes as a diversion",
+    "tr_word": "balıkçılık",
+    "tr_definition": "Eğlence veya hobi amacıyla balık tutma eylemi.",
+    "ru_word": "рыбалка",
+    "ru_definition": "Занятие по ловле рыбы в качестве хобби или развлечения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balıkçılık",
+                    "balık avı",
+                    "balık avlama"
+                ],
+                "Azerbaijani": [
+                    "balıqçılıq",
+                    "balıq ovu"
+                ],
+                "Turkmen": [
+                    "balykçylyk",
+                    "balyk tutmak",
+                    "balyk awy"
+                ],
+                "Uzbek": [
+                    "baliq ovi",
+                    "baliq ovlash"
+                ],
+                "Uyghur": [
+                    "بېلىق تۇتۇش",
+                    "بېلىقچىلىق",
+                    "بېلىق ئوۋلاش"
+                ],
+                "Kazakh": [
+                    "балық аулау",
+                    "балықшылық"
+                ],
+                "Kyrgyz": [
+                    "балык уулоо",
+                    "балыкчылык"
+                ],
+                "Karakalpak": [
+                    "balıqshılıq",
+                    "balıq aolao"
+                ],
+                "Tatar": [
+                    "балык тоту",
+                    "балыкчылык"
+                ],
+                "Bashkir": [
+                    "балыҡ тотоу",
+                    "балыҡсылыҡ",
+                    "балыҡҡа йөрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "аулау"
+                ],
+                "Kyrgyz": [
+                    "уулоо"
+                ],
+                "Tatar": [
+                    "аучылык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sayyodlik"
+                ]
+            }
+        }
+    ]
+}

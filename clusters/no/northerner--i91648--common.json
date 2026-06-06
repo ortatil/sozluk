@@ -1,0 +1,90 @@
+{
+    "id": "i91648",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "northerner",
+    "en_definition": "an inhabitant of the North",
+    "tr_word": "kuzeyli",
+    "tr_definition": "Kuzey bölgesinde yaşayan veya oralı olan kimse.",
+    "ru_word": "северянин",
+    "ru_definition": "Житель или уроженец севера.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şimali"
+                ],
+                "Azerbaijani": [
+                    "şimal sakini",
+                    "şimallı"
+                ],
+                "Uzbek": [
+                    "shimollik",
+                    "shimoliy"
+                ],
+                "Uyghur": [
+                    "شىماللىق",
+                    "شىمال ئەھلى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "түндүктүк",
+                    "түндүк кишиси"
+                ],
+                "Karakalpak": [
+                    "túndіkshі"
+                ],
+                "Tatar": [
+                    "төньяк кешесе",
+                    "төньяклы"
+                ],
+                "Bashkir": [
+                    "төньяҡ кешеһе",
+                    "төньяҡлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuzeyli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demirgazykly",
+                    "demirgazyk ýaşaýjysy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстіктік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "теріскейлік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "arqalıq",
+                    "arqalı"
+                ]
+            }
+        }
+    ]
+}

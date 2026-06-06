@@ -1,0 +1,77 @@
+{
+    "id": "i115344",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "clove oil",
+    "en_definition": "essential oil obtained from cloves and used to flavor medicines",
+    "tr_word": "karanfil yağı",
+    "tr_definition": "karanfilden elde edilen ve ilaçları tatlandırmak için kullanılan uçucu yağ",
+    "ru_word": "гвоздичное масло",
+    "ru_definition": "эфирное масло, получаемое из гвоздики и используемое для ароматизации лекарств",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karanfil yağı",
+                    "karanfil ruhu"
+                ],
+                "Turkmen": [
+                    "garypyl ýagy"
+                ],
+                "Kazakh": [
+                    "қалампыр майы"
+                ],
+                "Karakalpak": [
+                    "qalampır mayı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mixək yağı",
+                    "mixək cövhəri"
+                ],
+                "Turkmen": [
+                    "mühek ýagy"
+                ],
+                "Uzbek": [
+                    "mixak moyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qalampirmunchoq moyi"
+                ],
+                "Uyghur": [
+                    "قەلەمپۇر مېيى",
+                    "قەلەمپۇر يېغى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "канәфер мае",
+                    "канәфер чәчәге мае"
+                ],
+                "Bashkir": [
+                    "ҡәнәфер майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чеге гүл майы",
+                    "чеге гүлдүн майы",
+                    "чеге гүл эфир майы"
+                ]
+            }
+        }
+    ]
+}

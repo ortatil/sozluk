@@ -1,0 +1,123 @@
+{
+    "id": "i78452",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "grated cheese",
+    "en_definition": "hard or semihard cheese grated",
+    "tr_word": "rendelenmiş peynir",
+    "tr_definition": "rendelenerek küçük parçalara ayrılmış sert veya yarı sert peynir",
+    "ru_word": "тёртый сыр",
+    "ru_definition": "твёрдый или полутвёрдый сыр, измельчённый на тёрке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qirilgan pishloq",
+                    "qirg'ichdan o'tkazilgan pishloq"
+                ],
+                "Uyghur": [
+                    "قىرىلغان پىشلاق"
+                ],
+                "Kyrgyz": [
+                    "кырылган сыр"
+                ],
+                "Karakalpak": [
+                    "qırǵıshtan ótkerіlgen sır"
+                ],
+                "Tatar": [
+                    "кырылган сыр"
+                ],
+                "Bashkir": [
+                    "ҡырғыс аша үткәрелгән сыр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rendelenmiş peynir",
+                    "rende peynir"
+                ],
+                "Azerbaijani": [
+                    "rəndələnmiş pendir"
+                ],
+                "Turkmen": [
+                    "rendelenen peýnir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sürtgəcdən keçirilmiş pendir"
+                ],
+                "Kyrgyz": [
+                    "сүртүлгөн сыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үгітілген ірімшік",
+                    "үгілген ірімшік"
+                ],
+                "Karakalpak": [
+                    "úgitilgen sır",
+                    "úgilgen sır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "owradylan peýnir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ishqalangan pishloq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تارتىلغان پىشلاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұсақталған ірімшік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "майдаланган сыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "уылган сыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ырылған сыр"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "id": "i108183",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "miles per gallon",
+    "en_definition": "the distance traveled in a vehicle powered by one gallon of gasoline or diesel fuel",
+    "tr_word": "galon başına mil",
+    "tr_definition": "bir aracın bir galon yakıtla katettiği mesafeyi belirten yakıt tüketimi ölçü birimi",
+    "ru_word": "миль на галлон",
+    "ru_definition": "единица измерения расхода топлива, показывающая расстояние, которое автомобиль может проехать на одном галлоне топлива",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yakıt tüketimi",
+                    "yakıt sarfiyatı",
+                    "yakıt verimliliği"
+                ],
+                "Uzbek": [
+                    "yoqilg'i sarfi",
+                    "yoqilg'i tejamkorligi",
+                    "yoqilg'i iste'moli"
+                ],
+                "Uyghur": [
+                    "يېقىلغۇ سەرپىياتى",
+                    "يېقىلغۇ سەرپ قىلىش نىسبىتى"
+                ],
+                "Tatar": [
+                    "ягулык чыгымы",
+                    "ягулык куллану",
+                    "ягулык сарыф итү"
+                ],
+                "Bashkir": [
+                    "яғыулыҡ сығымы",
+                    "яғыулыҡ тотоноу",
+                    "яғыулыҡ сарыф итеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yanacaq sərfi",
+                    "yanacaq sərfiyyatı",
+                    "yanacaq işlətmə"
+                ],
+                "Turkmen": [
+                    "ýangyç sarp edilişi",
+                    "ýangyç sarpasy",
+                    "ýangyç tygşytlylygy"
+                ],
+                "Kazakh": [
+                    "жанармай шығыны",
+                    "жанармай үнемділігі"
+                ],
+                "Karakalpak": [
+                    "janılǵı sarplanıuı",
+                    "janılǵı jumsalıuı",
+                    "janılǵı tutınılıuı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отын шығыны"
+                ],
+                "Kyrgyz": [
+                    "отундун сарпталышы",
+                    "отундун чыгымы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماي سەرپىياتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күйүүчү майдын чыгымы"
+                ]
+            }
+        }
+    ]
+}

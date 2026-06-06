@@ -1,0 +1,116 @@
+# Clothesbrush
+| Field | Detail |
+|---|---|
+| **ID** | i52049 |
+| **English** | clothesbrush |
+| **Type** | noun |
+| **Definition** | a brush used for cleaning clothing |
+| **Source** | common |
+| **Ortatil** | çotka |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چوتكا | çotka |
+
+```json
+{
+    "id": "i52049",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "clothesbrush",
+    "en_definition": "a brush used for cleaning clothing",
+    "tr_word": "elbise fırçası",
+    "tr_definition": "giysileri temizlemek için kullanılan fırça",
+    "ru_word": "платяная щётка",
+    "ru_definition": "щётка, предназначенная для чистки одежды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "giysi fırçası"
+                ],
+                "Uzbek": [
+                    "kiyim choʻtkasi",
+                    "kiyim tozalagich"
+                ],
+                "Uyghur": [
+                    "كىيىم چوتكىسى"
+                ],
+                "Kazakh": [
+                    "киім щеткасы",
+                    "киім тазалағыш"
+                ],
+                "Kyrgyz": [
+                    "кийим щеткасы",
+                    "кийим тазалагыч"
+                ],
+                "Karakalpak": [
+                    "kiyim shchetkası",
+                    "kiyim tazalaǵısh"
+                ],
+                "Tatar": [
+                    "кием щеткасы",
+                    "кием пумаласы"
+                ],
+                "Bashkir": [
+                    "кейем щеткаһы",
+                    "кейем таҙартҡыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "libas fırçası"
+                ],
+                "Turkmen": [
+                    "lybas çotgasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elbise fırçası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paltar fırçası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eşik çotgasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "geyim çotgasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوتكا"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,159 @@
+{
+    "id": "i79071",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "country people",
+    "en_definition": "people raised in or living in a rural environment; rustics",
+    "tr_word": "köylü",
+    "tr_definition": "Kırsal kesimde yaşayan veya orada yetişmiş olan kimse; taşralı.",
+    "ru_word": "сельские жители",
+    "ru_definition": "Люди, выросшие или живущие в сельской местности; деревенские жители.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ауылдықтар",
+                    "ауыл халқы"
+                ],
+                "Kyrgyz": [
+                    "айылдыктар"
+                ],
+                "Karakalpak": [
+                    "aoıl xalqı",
+                    "aoıl adamları"
+                ],
+                "Tatar": [
+                    "авыл халкы",
+                    "авыл кешеләре"
+                ],
+                "Bashkir": [
+                    "ауыл халҡы",
+                    "ауыл кешеләре",
+                    "ауылдаштар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taşralı"
+                ],
+                "Uyghur": [
+                    "سەھرالىقلار"
+                ],
+                "Karakalpak": [
+                    "saxralıqlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ahali"
+                ],
+                "Turkmen": [
+                    "obaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kəndli",
+                    "kənd əhli",
+                    "kənd camaatı"
+                ],
+                "Uyghur": [
+                    "كەنتلىكلەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "oba əhli"
+                ],
+                "Turkmen": [
+                    "oba adamlary",
+                    "oba halky",
+                    "oba ilaty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qishloq ahli",
+                    "qishloqliklar"
+                ],
+                "Kyrgyz": [
+                    "кыштактыктар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "далалықтар"
+                ],
+                "Karakalpak": [
+                    "dalalıqlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ел-жұрт"
+                ],
+                "Kyrgyz": [
+                    "эл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köylü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "halk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sahroyilar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېزىلىقلار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دېھقانلار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыр кешеләре"
+                ]
+            }
+        }
+    ]
+}

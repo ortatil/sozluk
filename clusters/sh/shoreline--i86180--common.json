@@ -1,0 +1,151 @@
+{
+    "id": "i86180",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shoreline",
+    "en_definition": "a boundary line between land and water",
+    "tr_word": "kıyı şeridi",
+    "tr_definition": "kara ile su arasındaki sınır çizgisi",
+    "ru_word": "береговая линия",
+    "ru_definition": "линия пересечения поверхности суши с поверхностью водоёма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yalı"
+                ],
+                "Turkmen": [
+                    "ýaka"
+                ],
+                "Uyghur": [
+                    "ياقا"
+                ],
+                "Kazakh": [
+                    "жаға",
+                    "жағалау",
+                    "жиек"
+                ],
+                "Kyrgyz": [
+                    "жээк",
+                    "жээк-бел"
+                ],
+                "Karakalpak": [
+                    "jaǵa",
+                    "jaǵalau"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kıyı"
+                ],
+                "Kyrgyz": [
+                    "кылаат"
+                ],
+                "Tatar": [
+                    "кырый"
+                ],
+                "Bashkir": [
+                    "ҡырый"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahil"
+                ],
+                "Azerbaijani": [
+                    "sahil",
+                    "sahil xətti"
+                ],
+                "Uzbek": [
+                    "sohil"
+                ],
+                "Uyghur": [
+                    "ساھىل"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qıraq"
+                ],
+                "Uzbek": [
+                    "qirg'oq",
+                    "qirg'oq chizig'i"
+                ],
+                "Uyghur": [
+                    "قىرغاق"
+                ],
+                "Karakalpak": [
+                    "qırań"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kenar"
+                ],
+                "Azerbaijani": [
+                    "kənar"
+                ],
+                "Turkmen": [
+                    "kenar",
+                    "kenarýaka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "су жиегі"
+                ],
+                "Kyrgyz": [
+                    "суу жээги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яр",
+                    "яр буе"
+                ],
+                "Bashkir": [
+                    "яр",
+                    "яр буйы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بوي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сикә"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "id": "i55243",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "jeep",
+    "en_definition": "a car suitable for traveling over rough terrain",
+    "tr_word": "cip",
+    "tr_definition": "Engebeli arazide gitmeye uygun, güçlü ve dayanıklı motorlu araç.",
+    "ru_word": "джип",
+    "ru_definition": "Автомобиль повышенной проходимости для езды по бездорожью.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yolsuzluq avtomobili",
+                    "yolsuzluq maşını"
+                ],
+                "Turkmen": [
+                    "ýolsuzlyk awtoulagy"
+                ],
+                "Uyghur": [
+                    "يول تاللىماس ئاپتوموبىل"
+                ],
+                "Kazakh": [
+                    "жол талғамайтын көлік"
+                ],
+                "Kyrgyz": [
+                    "жол тандабас"
+                ],
+                "Karakalpak": [
+                    "jol tandamas"
+                ],
+                "Tatar": [
+                    "юлсызлык машинасы",
+                    "юлсыз җир машинасы"
+                ],
+                "Bashkir": [
+                    "юлһыҙ ерҙән йөрөүсе машина",
+                    "юлһыҙ ерҙән үтеүсе машина"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dag awtoulagy"
+                ],
+                "Uzbek": [
+                    "togʻ mashinasi"
+                ],
+                "Uyghur": [
+                    "تاغ ئاپتوموبىلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arazi aracı"
+                ],
+                "Azerbaijani": [
+                    "ərazi avtomobili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cip"
+                ],
+                "Uyghur": [
+                    "جىپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік"
+                ],
+                "Kyrgyz": [
+                    "көлүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "awtomobil"
+                ],
+                "Bashkir": [
+                    "юғары үтеүсәнлекле автомобиль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "beýik awtoulag"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yoʻltanlamas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "җиңел йөк машинасы"
+                ]
+            }
+        }
+    ]
+}

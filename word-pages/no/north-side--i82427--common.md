@@ -1,0 +1,132 @@
+# North side
+| Field | Detail |
+|---|---|
+| **ID** | i82427 |
+| **English** | north side |
+| **Type** | noun |
+| **Definition** | the side that is on the north |
+| **Source** | common |
+| **Ortatil** | şimäl |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| теріскей | teriskey |
+| **Kyrgyz** | |
+| арка | arka |
+
+```json
+{
+    "id": "i82427",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "north side",
+    "en_definition": "the side that is on the north",
+    "tr_word": "kuzey tarafı",
+    "tr_definition": "kuzeyde bulunan taraf",
+    "ru_word": "северная сторона",
+    "ru_definition": "сторона, расположенная на севере",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şimal tarafı"
+                ],
+                "Azerbaijani": [
+                    "şimal tərəf",
+                    "şimal yanı"
+                ],
+                "Uzbek": [
+                    "shimoliy tomon",
+                    "shimoliy taraf",
+                    "shimol"
+                ],
+                "Uyghur": [
+                    "شىمال تەرەپ",
+                    "شىمالىي تەرەپ",
+                    "شىمال تەرىپى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "түндүк тарап",
+                    "түндүк жак"
+                ],
+                "Tatar": [
+                    "төньяк як",
+                    "төньяк тараф"
+                ],
+                "Bashkir": [
+                    "төньяҡ яҡ",
+                    "төньяҡ тараф"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuzey tarafı",
+                    "kuzey yanı",
+                    "kuzey ciheti"
+                ],
+                "Azerbaijani": [
+                    "quzey"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "арка"
+                ],
+                "Karakalpak": [
+                    "arqa tárep",
+                    "arqa bet",
+                    "arqa jaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demirgazyk tarap",
+                    "demirgazyk bölek",
+                    "demirgazyk gapdal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстік жақ",
+                    "солтүстік бет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "теріскей"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күнгөй эмес бет"
+                ]
+            }
+        }
+    ]
+}
+```
+

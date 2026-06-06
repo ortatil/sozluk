@@ -1,0 +1,148 @@
+# Refinance
+| Field | Detail |
+|---|---|
+| **ID** | i32837 |
+| **English** | refinance |
+| **Type** | verb |
+| **Definition** | renew the financing of |
+| **Source** | common |
+| **Ortatil** | cañartmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жаңарту | jañartu |
+| **Kyrgyz** | |
+| жаңылоо | jañıloo |
+
+```json
+{
+    "id": "i32837",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "refinance",
+    "en_definition": "renew the financing of",
+    "tr_word": "yeniden finanse etmek",
+    "tr_definition": "mevcut bir borcun veya finansman yapısının yeni bir kredi veya sermaye ile yenilenmesi",
+    "ru_word": "рефинансировать",
+    "ru_definition": "заменить существующее долговое обязательство новым на других условиях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qayta moliyalashtirmoq"
+                ],
+                "Uyghur": [
+                    "قايتا مەبلەغ سېلىش",
+                    "قايتا مەبلەغ يۈرۈشتۈرۈش",
+                    "قايتا قەرز بېرىش"
+                ],
+                "Kazakh": [
+                    "қайта қаржыландыру",
+                    "қайта несиелеу"
+                ],
+                "Kyrgyz": [
+                    "кайра каржылоо",
+                    "кайрадан каражат берүү"
+                ],
+                "Karakalpak": [
+                    "qayta qarjılandırıo",
+                    "qayta qarjı berio"
+                ],
+                "Bashkir": [
+                    "ҡайтанан финанслау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden yapılandırmak",
+                    "yeniden finanse etmek"
+                ],
+                "Azerbaijani": [
+                    "yenidən maliyyələşdirmək"
+                ],
+                "Turkmen": [
+                    "täzeden maliýeleşdirmek"
+                ],
+                "Tatar": [
+                    "яңадан финанслау",
+                    "яңадан акча бирү",
+                    "яңадан кредитлау"
+                ],
+                "Bashkir": [
+                    "яңынан финанслау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "karzy täzelemek"
+                ],
+                "Uzbek": [
+                    "qarzni yangilamoq"
+                ],
+                "Karakalpak": [
+                    "qarjını jańalao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "borç yapılandırmak",
+                    "borç yenilemek"
+                ],
+                "Azerbaijani": [
+                    "borcu yeniləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "maliyyələşdirməni yeniləmək"
+                ],
+                "Turkmen": [
+                    "maliýe şertlerini täzelemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаңарту"
+                ],
+                "Kyrgyz": [
+                    "жаңылоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mablag'ni yangilamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аҡсаландырыуҙы яңыртыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,140 @@
+# Hairline
+| Field | Detail |
+|---|---|
+| **ID** | i72233 |
+| **English** | hairline |
+| **Type** | noun |
+| **Definition** | a very thin line |
+| **Source** | common |
+| **Ortatil** | qiltiriq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i72233",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hairline",
+    "en_definition": "a very thin line",
+    "tr_word": "kıl payı",
+    "tr_definition": "çok ince bir çizgi veya çok dar bir aralık",
+    "ru_word": "волосяная линия",
+    "ru_definition": "очень тонкая линия, толщиной с волос",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kılcal çizgi"
+                ],
+                "Turkmen": [
+                    "gyldan inçe"
+                ],
+                "Uzbek": [
+                    "qiltiriq"
+                ],
+                "Uyghur": [
+                    "قىل سىزىق"
+                ],
+                "Kazakh": [
+                    "қылдай сызық"
+                ],
+                "Kyrgyz": [
+                    "кылдай сызык"
+                ],
+                "Karakalpak": [
+                    "qılday sızıq"
+                ],
+                "Tatar": [
+                    "кылдай сызык"
+                ],
+                "Bashkir": [
+                    "ҡылдай һыҙыҡ",
+                    "ҡылдай нәҙек һыҙыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ince çizgi"
+                ],
+                "Azerbaijani": [
+                    "incə xətt"
+                ],
+                "Turkmen": [
+                    "inçe çyzyk"
+                ],
+                "Uzbek": [
+                    "ingichka chiziq"
+                ],
+                "Uyghur": [
+                    "ئىنچىكە سىزىق"
+                ],
+                "Kyrgyz": [
+                    "ичке сызык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nazik xətt"
+                ],
+                "Uzbek": [
+                    "nozik chiziq"
+                ],
+                "Kazakh": [
+                    "нәзік сызық"
+                ],
+                "Kyrgyz": [
+                    "назик сызык"
+                ],
+                "Tatar": [
+                    "нечкә сызык"
+                ],
+                "Bashkir": [
+                    "нәҙек һыҙыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жіңішке сызық"
+                ],
+                "Karakalpak": [
+                    "jіńіshke sızıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "saç teli kadar ince çizgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tük kimi xətt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ylga"
+                ]
+            }
+        }
+    ]
+}
+```
+

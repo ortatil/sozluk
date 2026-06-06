@@ -1,0 +1,191 @@
+# Walk out of
+| Field | Detail |
+|---|---|
+| **ID** | i31780 |
+| **English** | walk out of |
+| **Type** | verb |
+| **Definition** | leave, usually as an expression of disapproval |
+| **Source** | common |
+| **Ortatil** | çıkmaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i31780",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "walk out of",
+    "en_definition": "leave, usually as an expression of disapproval",
+    "tr_word": "terk etmek",
+    "tr_definition": "genellikle bir protesto veya onaylamama ifadesi olarak bir yerden ayrılmak",
+    "ru_word": "демонстративно уйти",
+    "ru_definition": "покинуть место, обычно в знак протеста или неодобрения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıkıp gitmek"
+                ],
+                "Azerbaijani": [
+                    "çıxıb getmək"
+                ],
+                "Turkmen": [
+                    "çykmak",
+                    "çykyp gitmek"
+                ],
+                "Uzbek": [
+                    "chiqib ketmoq"
+                ],
+                "Uyghur": [
+                    "چىقىپ كېتىش"
+                ],
+                "Kazakh": [
+                    "шығып кету"
+                ],
+                "Kyrgyz": [
+                    "чыгып кетүү"
+                ],
+                "Karakalpak": [
+                    "shıǵıp ketu"
+                ],
+                "Tatar": [
+                    "чыгып китү"
+                ],
+                "Bashkir": [
+                    "сығып китеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "taşlap gitmek"
+                ],
+                "Uzbek": [
+                    "tashlab chiqmoq"
+                ],
+                "Kazakh": [
+                    "тастап кету"
+                ],
+                "Kyrgyz": [
+                    "таштап кетүү"
+                ],
+                "Karakalpak": [
+                    "taslap shıǵıo"
+                ],
+                "Tatar": [
+                    "ташлап чыгу"
+                ],
+                "Bashkir": [
+                    "ташлап сығыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "terk etmek"
+                ],
+                "Azerbaijani": [
+                    "tərk etmək"
+                ],
+                "Turkmen": [
+                    "terk etmek"
+                ],
+                "Uzbek": [
+                    "tark etmoq"
+                ],
+                "Uyghur": [
+                    "تەرك ئېتىش"
+                ],
+                "Karakalpak": [
+                    "tárk etio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "voz kechmoq"
+                ],
+                "Kazakh": [
+                    "бас тарту"
+                ],
+                "Kyrgyz": [
+                    "баш тартуу"
+                ],
+                "Tatar": [
+                    "ваз кичү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кетіп қалу"
+                ],
+                "Bashkir": [
+                    "китеп барыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayrılmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boykot etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bırakıp gitmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "etiraz olaraq tərk etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uzaqlaşmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نارازىلىق بىلدۈرۈپ چىقىپ كېتىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төшеп калу"
+                ]
+            }
+        }
+    ]
+}
+```
+

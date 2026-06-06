@@ -1,0 +1,154 @@
+# Toll plaza
+| Field | Detail |
+|---|---|
+| **ID** | i82286 |
+| **English** | toll plaza |
+| **Type** | noun |
+| **Definition** | an area where tollbooths are located |
+| **Source** | common |
+| **Ortatil** | bachana |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| бекет | beket |
+
+```json
+{
+    "id": "i82286",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "toll plaza",
+    "en_definition": "an area where tollbooths are located",
+    "tr_word": "gişeler",
+    "tr_definition": "otoyol veya köprü geçiş ücretlerinin ödendiği, gişelerin bulunduğu alan",
+    "ru_word": "пункт взимания платы",
+    "ru_definition": "специально оборудованное место на платной дороге, где расположены кабины для оплаты проезда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tölegli geçelge",
+                    "töleg nokady"
+                ],
+                "Uzbek": [
+                    "toʻlov maskani",
+                    "toʻlov punkti"
+                ],
+                "Kazakh": [
+                    "төлем бекеті"
+                ],
+                "Kyrgyz": [
+                    "төлөм пункту"
+                ],
+                "Tatar": [
+                    "түләү пункты",
+                    "түләү урыны"
+                ],
+                "Bashkir": [
+                    "түләү пункты",
+                    "түләү урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýol tölegi nokady"
+                ],
+                "Karakalpak": [
+                    "jol haqı tóleo ornı"
+                ],
+                "Tatar": [
+                    "юл хакы алу урыны"
+                ],
+                "Bashkir": [
+                    "юл хаҡын алыу пункты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bojxona",
+                    "boj maskani"
+                ],
+                "Uyghur": [
+                    "باج ئېلىش ئورنى",
+                    "باج پونكىتى"
+                ],
+                "Karakalpak": [
+                    "bajıxana",
+                    "bajı ornı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gişeler",
+                    "geçiş noktası"
+                ],
+                "Azerbaijani": [
+                    "keçid məntəqəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ödeme noktası"
+                ],
+                "Azerbaijani": [
+                    "ödəniş məntəqəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəzarət-buraxılış məntəqəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يول ھەققى ئېلىش پونكىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақы алу бекеті",
+                    "бақылау-өткізу бекеті"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "акы алуучу жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бекет"
+                ]
+            }
+        }
+    ]
+}
+```
+

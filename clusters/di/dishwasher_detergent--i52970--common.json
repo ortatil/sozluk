@@ -1,0 +1,81 @@
+{
+    "id": "i52970",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dishwasher detergent",
+    "en_definition": "a low-sudsing detergent designed for use in dishwashers",
+    "tr_word": "bulaşık makinesi deterjanı",
+    "tr_definition": "bulaşık makinelerinde kullanılmak üzere tasarlanmış, az köpüren bir deterjan",
+    "ru_word": "средство для посудомоечных машин",
+    "ru_definition": "малопенящееся моющее средство, предназначенное для использования в посудомоечных машинах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "idish yuvish vositasi",
+                    "idish yuvish suyuqligi",
+                    "idish yuvish kukuni"
+                ],
+                "Kazakh": [
+                    "ыдыс жуғыш зат",
+                    "ыдыс жуатын құрал",
+                    "ыдыс жуғыш ұнтақ"
+                ],
+                "Kyrgyz": [
+                    "идиш жуугуч каражат",
+                    "идиш жуучу каражат",
+                    "идиш жуугуч суюктук"
+                ],
+                "Karakalpak": [
+                    "ıdıs juǵısh zat",
+                    "ıdıs juatın qұral"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabyuyan yuyucu",
+                    "qabyuyan maddə",
+                    "qabyuyan vasitə"
+                ],
+                "Turkmen": [
+                    "gap-gaç ýuwujy serişde",
+                    "gap-gaç ýuwujy madda",
+                    "gap-gaç ýuwujy poroşok"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "савыт-саба юу чарасы",
+                    "савыт юу сыеклыгы",
+                    "савыт юу порошогы"
+                ],
+                "Bashkir": [
+                    "һауыт-һаба йыуыу сараһы",
+                    "һауыт-һаба йыуыу өсөн матдә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bulaşık makinesi deterjanı",
+                    "bulaşık deterjanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاچا يۇيۇش سۇيۇقلۇقى",
+                    "قاچا يۇيۇش پاراشوكى",
+                    "قاچا يۇيۇش ماشىنىسى يۇيۇش سۇيۇقلۇقى"
+                ]
+            }
+        }
+    ]
+}

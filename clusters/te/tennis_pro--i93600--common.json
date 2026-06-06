@@ -1,0 +1,83 @@
+{
+    "id": "i93600",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tennis pro",
+    "en_definition": "someone who earns a living playing or teaching tennis",
+    "tr_word": "tenis profesyoneli",
+    "tr_definition": "geçimini tenis oynayarak veya tenis dersi vererek sağlayan kimse",
+    "ru_word": "теннисный профи",
+    "ru_definition": "человек, который зарабатывает на жизнь игрой в теннис или обучением теннису",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tenis hocası",
+                    "tenis antrenörü",
+                    "tenis öğretmeni"
+                ],
+                "Azerbaijani": [
+                    "tennis mütəxəssisi",
+                    "tennis ustası",
+                    "tennis müəllimi"
+                ],
+                "Turkmen": [
+                    "tennis hünärmeni",
+                    "tennis ussady",
+                    "tennis tälimçisi"
+                ],
+                "Uzbek": [
+                    "tennis ustasi",
+                    "tennis murabbiyi",
+                    "tennis mutaxassisi"
+                ],
+                "Uyghur": [
+                    "تېننىس توپ ئۇستىسى",
+                    "تېننىس توپ مەشقاۋۇلى",
+                    "تېننىس توپ ماھىرى"
+                ],
+                "Kazakh": [
+                    "теннис маманы",
+                    "теннис шебері",
+                    "теннис жаттықтырушысы"
+                ],
+                "Kyrgyz": [
+                    "теннис устаты",
+                    "теннис адиси",
+                    "теннис чебери"
+                ],
+                "Karakalpak": [
+                    "tennis ustası",
+                    "tennis bapkeri",
+                    "tennis qánigesi"
+                ],
+                "Tatar": [
+                    "теннис остасы",
+                    "теннис белгече",
+                    "теннис мөгаллиме"
+                ],
+                "Bashkir": [
+                    "теннис оҫтаһы",
+                    "теннис белгесе",
+                    "теннис уҡытыусыһы",
+                    "теннис тренеры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "profesyonel tenisçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşəkar tennisçi"
+                ]
+            }
+        }
+    ]
+}

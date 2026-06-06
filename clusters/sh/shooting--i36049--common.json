@@ -1,0 +1,92 @@
+{
+    "id": "i36049",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shooting",
+    "en_definition": "the act of firing a projectile",
+    "tr_word": "atış",
+    "tr_definition": "Bir merminin veya silahın ateşlenmesi eylemi",
+    "ru_word": "стрельба",
+    "ru_definition": "действие по значению глагола стрелять; ведение огня из оружия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "atış",
+                    "ateş",
+                    "ateşleme"
+                ],
+                "Azerbaijani": [
+                    "atış",
+                    "atəş"
+                ],
+                "Turkmen": [
+                    "atyş",
+                    "atmaklyk",
+                    "atylşyk"
+                ],
+                "Uzbek": [
+                    "otish",
+                    "otishma"
+                ],
+                "Uyghur": [
+                    "ئېتىش"
+                ],
+                "Kazakh": [
+                    "ату",
+                    "атыс"
+                ],
+                "Kyrgyz": [
+                    "атуу"
+                ],
+                "Karakalpak": [
+                    "atıs",
+                    "atıu"
+                ],
+                "Tatar": [
+                    "ату",
+                    "атыш"
+                ],
+                "Bashkir": [
+                    "атыу",
+                    "атыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'q otish"
+                ],
+                "Uyghur": [
+                    "ئوق چىقىرىش"
+                ],
+                "Kazakh": [
+                    "оқ ату"
+                ],
+                "Kyrgyz": [
+                    "ок атуу"
+                ],
+                "Karakalpak": [
+                    "oq atıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "güllələmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مەرگەنلىك"
+                ]
+            }
+        }
+    ]
+}

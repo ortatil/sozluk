@@ -1,0 +1,125 @@
+{
+    "id": "i74946",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "order",
+    "en_definition": "a request for something to be made, supplied, or served",
+    "tr_word": "sipariş",
+    "tr_definition": "bir şeyin yapılmasını, sağlanmasını veya sunulmasını isteme işi",
+    "ru_word": "заказ",
+    "ru_definition": "просьба о изготовлении, поставке или подаче чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "buýruk"
+                ],
+                "Uzbek": [
+                    "buyurtma"
+                ],
+                "Uyghur": [
+                    "بۇيرۇق"
+                ],
+                "Kazakh": [
+                    "бұйрық"
+                ],
+                "Kyrgyz": [
+                    "буйрутма"
+                ],
+                "Karakalpak": [
+                    "buyırtpa",
+                    "buyırıq"
+                ],
+                "Tatar": [
+                    "боерык"
+                ],
+                "Bashkir": [
+                    "бойороҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "talep"
+                ],
+                "Azerbaijani": [
+                    "tələb"
+                ],
+                "Turkmen": [
+                    "talap"
+                ],
+                "Uyghur": [
+                    "تەلىپ"
+                ],
+                "Tatar": [
+                    "таләп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "زاكاز"
+                ],
+                "Tatar": [
+                    "заказ"
+                ],
+                "Bashkir": [
+                    "заказ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sipariş"
+                ],
+                "Azerbaijani": [
+                    "sifariş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тапсырыс"
+                ],
+                "Kyrgyz": [
+                    "тапшырык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ısmarlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sargyt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "farmoyish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәҡдим"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "id": "i18093",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": ".22 caliber",
+    "en_definition": "of or relating to the bore of a gun (or its ammunition) that measures twenty-two hundredths of an inch in diameter",
+    "tr_word": "22 kalibrelik",
+    "tr_definition": "çapı inç'in yüzde yirmi ikisi olan bir silahın namlusu veya mühimmatı ile ilgili olan",
+    "ru_word": "22-го калибра",
+    "ru_definition": "относящийся к диаметру канала ствола оружия или патрона, равному 0,22 дюйма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yirmi ikilik",
+                    "yirmi iki kalibre",
+                    "yirmi iki çapında"
+                ],
+                "Azerbaijani": [
+                    "iyirmi iki kalibrli",
+                    "iyirmi ikilik"
+                ],
+                "Turkmen": [
+                    "ýigrimi iki kalibrli",
+                    "ýigrimi iki ölçegli"
+                ],
+                "Uzbek": [
+                    "yigirma ikki kalibrli"
+                ],
+                "Uyghur": [
+                    "يىگىرمە ئىككى كالىبىرلىق",
+                    "نۆل پۈتۈن يىگىرمە ئىككى كالىبىرلىق"
+                ],
+                "Kazakh": [
+                    "жиырма екі калибрлі"
+                ],
+                "Kyrgyz": [
+                    "жыйырма экинчи калибрдеги"
+                ],
+                "Karakalpak": [
+                    "jigirma eki kalibrli"
+                ],
+                "Tatar": [
+                    "егерме икеле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kichik kalibrli"
+                ],
+                "Kazakh": [
+                    "кіші калибрлі"
+                ],
+                "Karakalpak": [
+                    "kishi kalibrli"
+                ],
+                "Tatar": [
+                    "кече калибрлы"
+                ],
+                "Bashkir": [
+                    "кесе калибрлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "майда калибрлүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәй калибрлы"
+                ]
+            }
+        }
+    ]
+}

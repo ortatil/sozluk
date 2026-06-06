@@ -1,0 +1,106 @@
+# Uruguay
+| Field | Detail |
+|---|---|
+| **ID** | i84775 |
+| **English** | uruguay |
+| **Type** | noun |
+| **Definition** | a South American republic on the southeast coast of South America; achieved independence from Brazil in 1825 |
+| **Source** | common |
+| **Ortatil** | urugway |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **urugway** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئۇرۇگۋاي | urugvay |
+| **Kazakh** | |
+| Уругвай | urugvay |
+| **Kyrgyz** | |
+| Уругвай | urugvay |
+| **Tatar** | |
+| Уругвай | urugvay |
+| **Bashkir** | |
+| Уругвай | urugvay |
+
+```json
+{
+    "id": "i84775",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "uruguay",
+    "en_definition": "a South American republic on the southeast coast of South America; achieved independence from Brazil in 1825",
+    "tr_word": "Uruguay",
+    "tr_definition": "Güney Amerika'nın güneydoğu kıyısında yer alan ve 1825 yılında Brezilya'dan bağımsızlığını kazanan bir cumhuriyet.",
+    "ru_word": "Уругвай",
+    "ru_definition": "Республика на юго-восточном побережье Южной Америки, получившая независимость от Бразилии в 1825 году.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Uruguay",
+                    "Uruguay Cumhuriyeti",
+                    "Uruguay Şark Cumhuriyeti"
+                ],
+                "Azerbaijani": [
+                    "Uruqvay",
+                    "Uruqvay Şərq Respublikası"
+                ],
+                "Turkmen": [
+                    "Urugwaý",
+                    "Urugwaý Respublikasy"
+                ],
+                "Uzbek": [
+                    "Urugvay",
+                    "Urugvay Respublikasi"
+                ],
+                "Uyghur": [
+                    "ئۇرۇگۋاي",
+                    "ئۇرۇگۋاي جۇمھۇرىيىتى"
+                ],
+                "Kazakh": [
+                    "Уругвай",
+                    "Уругвай Шығыс Республикасы"
+                ],
+                "Kyrgyz": [
+                    "Уругвай",
+                    "Уругвай Чыгыш Республикасы"
+                ],
+                "Karakalpak": [
+                    "Urugway",
+                    "Urugway Respublikası"
+                ],
+                "Tatar": [
+                    "Уругвай",
+                    "Уругвай Җөмһүрияте"
+                ],
+                "Bashkir": [
+                    "Уругвай",
+                    "Уругвай Республикаһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

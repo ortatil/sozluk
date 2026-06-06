@@ -1,0 +1,153 @@
+# Writing desk
+| Field | Detail |
+|---|---|
+| **ID** | i61293 |
+| **English** | writing desk |
+| **Type** | noun |
+| **Definition** | a desk for writing (usually with a sloping top) |
+| **Source** | common |
+| **Ortatil** | parta |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| мәктәп | mäktäp |
+
+```json
+{
+    "id": "i61293",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "writing desk",
+    "en_definition": "a desk for writing (usually with a sloping top)",
+    "tr_word": "yazı masası",
+    "tr_definition": "üzerinde yazı yazmak için kullanılan, genellikle çekmeceli masa",
+    "ru_word": "письменный стол",
+    "ru_definition": "стол, предназначенный для письма и других канцелярских работ",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazı masası"
+                ],
+                "Azerbaijani": [
+                    "yazı masası",
+                    "yazı stolu"
+                ],
+                "Turkmen": [
+                    "ýazuw stoly"
+                ],
+                "Uzbek": [
+                    "yozuv stoli",
+                    "yozuv kursi"
+                ],
+                "Uyghur": [
+                    "يېزىق ئۈستىلى",
+                    "يېزىقچىلىق ئۈستىلى"
+                ],
+                "Kazakh": [
+                    "жазу үстелі"
+                ],
+                "Kyrgyz": [
+                    "жазуу столу"
+                ],
+                "Karakalpak": [
+                    "jazıu ústeli"
+                ],
+                "Tatar": [
+                    "язу өстәле"
+                ],
+                "Bashkir": [
+                    "яҙыу өҫтәле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "parta"
+                ],
+                "Karakalpak": [
+                    "parta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iş stoly"
+                ],
+                "Kyrgyz": [
+                    "иш столу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مەكتەپ ئۈستىلى"
+                ],
+                "Tatar": [
+                    "мәктәп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rahle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büro"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dərs masası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastgoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хат үстелі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кәгазь өстәле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дәфтәр өҫтәле"
+                ]
+            }
+        }
+    ]
+}
+```
+

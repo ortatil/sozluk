@@ -1,0 +1,142 @@
+{
+    "id": "i90916",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "landlady",
+    "en_definition": "a landlord who is a woman",
+    "tr_word": "ev sahibi kadın",
+    "tr_definition": "Bir mülkü veya evi kiraya veren kadın",
+    "ru_word": "хозяйка",
+    "ru_definition": "женщина, сдающая в аренду жилье или владеющая домом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ev sahibi",
+                    "ev sahibi kadın"
+                ],
+                "Azerbaijani": [
+                    "ev sahibi"
+                ],
+                "Turkmen": [
+                    "eýe"
+                ],
+                "Kyrgyz": [
+                    "ээси"
+                ],
+                "Karakalpak": [
+                    "iyesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mülk sahibi"
+                ],
+                "Azerbaijani": [
+                    "mülkiyyətçi"
+                ],
+                "Turkmen": [
+                    "mülkdär aýal"
+                ],
+                "Uzbek": [
+                    "mulkdor ayol"
+                ],
+                "Uyghur": [
+                    "مۈلۈكدار ئايال"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hojaýyn aýal"
+                ],
+                "Uyghur": [
+                    "خوجايىن ئايال"
+                ],
+                "Kazakh": [
+                    "қожайын әйел"
+                ],
+                "Kyrgyz": [
+                    "кожойке"
+                ],
+                "Karakalpak": [
+                    "qojayın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "beka"
+                ],
+                "Kazakh": [
+                    "бикеш"
+                ],
+                "Karakalpak": [
+                    "bikesh",
+                    "bike"
+                ],
+                "Tatar": [
+                    "бикә"
+                ],
+                "Bashkir": [
+                    "бикә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "uy bekasi"
+                ],
+                "Uyghur": [
+                    "ئۆي ئىگىسى"
+                ],
+                "Kazakh": [
+                    "үй иесі"
+                ],
+                "Kyrgyz": [
+                    "үй ээси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sahibə"
+                ],
+                "Uzbek": [
+                    "sohibjamol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хуҗабикә"
+                ],
+                "Bashkir": [
+                    "хужабикә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йорт хуҗасы"
+                ],
+                "Bashkir": [
+                    "йорт хужаһы"
+                ]
+            }
+        }
+    ]
+}

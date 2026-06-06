@@ -1,0 +1,150 @@
+{
+    "id": "i29694",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "yank",
+    "en_definition": "pull, or move with a sudden movement",
+    "tr_word": "birden çekmek",
+    "tr_definition": "bir şeyi aniden ve sertçe kendine doğru çekmek veya hareket ettirmek",
+    "ru_word": "дергать",
+    "ru_definition": "резко, с силой тянуть или перемещать что-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarsmak",
+                    "silkmek"
+                ],
+                "Azerbaijani": [
+                    "silkmək"
+                ],
+                "Turkmen": [
+                    "silkip çekmek",
+                    "silkimek",
+                    "silkmek"
+                ],
+                "Uzbek": [
+                    "siltamoq",
+                    "siltab tortmoq"
+                ],
+                "Uyghur": [
+                    "سىلكىمەك"
+                ],
+                "Kazakh": [
+                    "сілку"
+                ],
+                "Kyrgyz": [
+                    "силкүү"
+                ],
+                "Karakalpak": [
+                    "sіlku"
+                ],
+                "Tatar": [
+                    "селкетү"
+                ],
+                "Bashkir": [
+                    "һелтәү",
+                    "һелкеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dartmaq",
+                    "dartışdırmaq"
+                ],
+                "Turkmen": [
+                    "dartmak"
+                ],
+                "Uzbek": [
+                    "turtmoq"
+                ],
+                "Uyghur": [
+                    "تارتماق"
+                ],
+                "Kazakh": [
+                    "тартып қалу"
+                ],
+                "Kyrgyz": [
+                    "тартып алуу"
+                ],
+                "Karakalpak": [
+                    "tartıp qalu"
+                ],
+                "Tatar": [
+                    "тартып алу"
+                ],
+                "Bashkir": [
+                    "тартып ебәреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yulqimoq"
+                ],
+                "Uyghur": [
+                    "يۇلقۇماق",
+                    "يۇلقۇپ تارتماق"
+                ],
+                "Kazakh": [
+                    "жұлқу"
+                ],
+                "Kyrgyz": [
+                    "жулкуу",
+                    "жулкуп алуу"
+                ],
+                "Karakalpak": [
+                    "jұlqu",
+                    "jұlqıp alu"
+                ],
+                "Tatar": [
+                    "йолку"
+                ],
+                "Bashkir": [
+                    "йолҡоу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çekmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fırlatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "silkələmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ырғыту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сикертү"
+                ]
+            }
+        }
+    ]
+}

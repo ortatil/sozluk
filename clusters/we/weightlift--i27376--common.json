@@ -1,0 +1,107 @@
+{
+    "id": "i27376",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "weightlift",
+    "en_definition": "lift weights",
+    "tr_word": "halter kaldırmak",
+    "tr_definition": "ağırlık kaldırma sporu yapmak",
+    "ru_word": "поднимать штангу",
+    "ru_definition": "заниматься тяжелой атлетикой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağırlık kaldırmak"
+                ],
+                "Azerbaijani": [
+                    "ağırlıq qaldırmaq",
+                    "çəki qaldırmaq"
+                ],
+                "Turkmen": [
+                    "agyrlyk götermek"
+                ],
+                "Uzbek": [
+                    "ogʻirlik koʻtarmoq"
+                ],
+                "Uyghur": [
+                    "ئېغىرلىق كۆتۈرمەك"
+                ],
+                "Kazakh": [
+                    "ауырлық көтеру"
+                ],
+                "Karakalpak": [
+                    "aoırlıq kóterio"
+                ],
+                "Tatar": [
+                    "авырлык күтәрү"
+                ],
+                "Bashkir": [
+                    "ауырлыҡ күтәреү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "daş götermek"
+                ],
+                "Uzbek": [
+                    "tosh koʻtarmoq"
+                ],
+                "Uyghur": [
+                    "تاش كۆتۈرمەك"
+                ],
+                "Karakalpak": [
+                    "tas kóterio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "halter kaldırmak"
+                ],
+                "Kazakh": [
+                    "зілтемір көтеру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "салмақ көтеру"
+                ],
+                "Kyrgyz": [
+                    "салмак көтөрүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гер күтәрү"
+                ],
+                "Bashkir": [
+                    "гер күтәреү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vazn koʻtarmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оордук көтөрүү"
+                ]
+            }
+        }
+    ]
+}

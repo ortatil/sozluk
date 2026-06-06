@@ -1,0 +1,180 @@
+# Luck it
+| Field | Detail |
+|---|---|
+| **ID** | i34422 |
+| **English** | luck it |
+| **Type** | verb |
+| **Definition** | act by relying on one's luck |
+| **Source** | common |
+| **Ortatil** | täwäkkällämäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| тәвәккәлләү | täväkkälläü |
+| **Bashkir** | |
+| тәүәккәлләү | täüäkkälläü |
+
+```json
+{
+    "id": "i34422",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "luck it",
+    "en_definition": "act by relying on one's luck",
+    "tr_word": "şansına güvenmek",
+    "tr_definition": "kendi şansına güvenerek hareket etmek",
+    "ru_word": "полагаться на удачу",
+    "ru_definition": "действовать, полагаясь на свое везение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bahtına bırakmak"
+                ],
+                "Azerbaijani": [
+                    "bəxtini sınamaq"
+                ],
+                "Turkmen": [
+                    "bagtyna bil baglamak"
+                ],
+                "Uzbek": [
+                    "baxtini sinamoq"
+                ],
+                "Uyghur": [
+                    "بېختىنى سىنىماق"
+                ],
+                "Kazakh": [
+                    "бағын сынау"
+                ],
+                "Kyrgyz": [
+                    "бактысына ишенүү"
+                ],
+                "Karakalpak": [
+                    "baǵın sınap kóriu"
+                ],
+                "Tatar": [
+                    "бәхеткә таяну",
+                    "бәхетне сынау"
+                ],
+                "Bashkir": [
+                    "бәхет һынау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tavakkal qilmoq"
+                ],
+                "Uyghur": [
+                    "تەۋەككۈل قىلماق",
+                    "تەقدىرگە تاشلىماق"
+                ],
+                "Kazakh": [
+                    "тәуекел ету"
+                ],
+                "Tatar": [
+                    "тәвәккәлләү",
+                    "тәвәккәл итү"
+                ],
+                "Bashkir": [
+                    "тәүәккәлләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "talihine güvenmek"
+                ],
+                "Azerbaijani": [
+                    "taleyinə güvənmək"
+                ],
+                "Turkmen": [
+                    "talaýyna ynanmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şansını denemek"
+                ],
+                "Azerbaijani": [
+                    "şansına inanmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жолына сену"
+                ],
+                "Bashkir": [
+                    "юлға таяныу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaderine razı olmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nesibesine görä görmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "omadiga tayanmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сәтіне сену"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тобокел кылуу",
+                    "тобокелге салуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "táuekel etiu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ıǵbalına iseniu"
+                ]
+            }
+        }
+    ]
+}
+```
+

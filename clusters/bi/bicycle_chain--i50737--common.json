@@ -1,0 +1,95 @@
+{
+    "id": "i50737",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bicycle chain",
+    "en_definition": "a chain that transmits the power from the pedals to the rear wheel of a bicycle",
+    "tr_word": "bisiklet zinciri",
+    "tr_definition": "pedallardan gelen gücü bisikletin arka tekerleğine ileten zincir",
+    "ru_word": "велосипедная цепь",
+    "ru_definition": "цепь, передающая усилие с педалей на заднее колесо велосипеда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zincir"
+                ],
+                "Azerbaijani": [
+                    "zəncir"
+                ],
+                "Turkmen": [
+                    "zynjyr"
+                ],
+                "Uzbek": [
+                    "zanjir"
+                ],
+                "Uyghur": [
+                    "زەنجىر"
+                ],
+                "Kazakh": [
+                    "шынжыр"
+                ],
+                "Kyrgyz": [
+                    "чынжыр"
+                ],
+                "Karakalpak": [
+                    "shınjır"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "velosiped zənciri"
+                ],
+                "Uzbek": [
+                    "velosiped zanjiri"
+                ],
+                "Kazakh": [
+                    "велосипед шынжыры"
+                ],
+                "Kyrgyz": [
+                    "велосипед чынжыры"
+                ],
+                "Karakalpak": [
+                    "welosiped shınjırı"
+                ],
+                "Tatar": [
+                    "велосипед чылбыры"
+                ],
+                "Bashkir": [
+                    "велосипед сылбыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bisiklet zinciri"
+                ],
+                "Uyghur": [
+                    "ۋېلىسپىت زەنجىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чылбыр"
+                ],
+                "Bashkir": [
+                    "сылбыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tigir zynjyry"
+                ]
+            }
+        }
+    ]
+}

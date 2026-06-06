@@ -1,0 +1,68 @@
+{
+    "id": "synset-oewn-92406618-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rye flour",
+    "en_definition": "flour made from ground rye grain.",
+    "tr_word": "çavdar unu",
+    "tr_definition": "Öğütülmüş çavdar tanelerinden elde edilen un.",
+    "ru_word": "ржаная мука",
+    "ru_definition": "Мука, полученная путём измельчения зёрен ржи.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qora un"
+                ],
+                "Uyghur": [
+                    "قارا بۇغداي ئۇنى",
+                    "قارا بۇغداي تالقىنى"
+                ],
+                "Kazakh": [
+                    "қара бидай ұны",
+                    "қара ұн"
+                ],
+                "Kyrgyz": [
+                    "кара буудай уну"
+                ],
+                "Karakalpak": [
+                    "qarabiday unı",
+                    "qarabiday talqanı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çavdar unu"
+                ],
+                "Azerbaijani": [
+                    "çovdar unu"
+                ],
+                "Turkmen": [
+                    "çowdary uny"
+                ],
+                "Uzbek": [
+                    "javdar uni"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "аштык уну"
+                ],
+                "Tatar": [
+                    "арыш оны"
+                ],
+                "Bashkir": [
+                    "арыш оно",
+                    "арыш он"
+                ]
+            }
+        }
+    ]
+}

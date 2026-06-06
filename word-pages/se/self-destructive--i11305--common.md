@@ -1,0 +1,164 @@
+# Self-destructive
+| Field | Detail |
+|---|---|
+| **ID** | i11305 |
+| **English** | self-destructive |
+| **Type** | adjective |
+| **Definition** | dangerous to yourself or your interests |
+| **Source** | common |
+| **Ortatil** | mahwedici |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| қауіпті | qauipti |
+| зиянкес | ziyankes |
+| **Kyrgyz** | |
+| кыйраткыч | kıyratkıç |
+
+```json
+{
+    "id": "i11305",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "self-destructive",
+    "en_definition": "dangerous to yourself or your interests",
+    "tr_word": "öz yıkımsal",
+    "tr_definition": "kişinin kendisine veya kendi çıkarlarına zarar vermesi durumu",
+    "ru_word": "саморазрушительный",
+    "ru_definition": "направленный на разрушение самого себя или своих интересов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "özünəməxsus",
+                    "özünəqəsd"
+                ],
+                "Turkmen": [
+                    "özüne zyýanly",
+                    "özüni heläk ediji",
+                    "özüni weýran ediji",
+                    "özüne kast ediji"
+                ],
+                "Uzbek": [
+                    "oʻziga ziyon yetkazuvchi",
+                    "oʻzini halok qiluvchi",
+                    "oʻziga zararli",
+                    "oʻzini barbod etuvchi"
+                ],
+                "Uyghur": [
+                    "ئۆزىگە زىيانكەش",
+                    "ئۆزىنى ھالاك قىلغۇچى",
+                    "ئۆزىگە زىيانلىق",
+                    "ئۆزىنى ۋەيران قىلغۇچى"
+                ],
+                "Kazakh": [
+                    "өзін-өзі құртушы",
+                    "өзіне зиянды",
+                    "өзін-өзі жоюшы"
+                ],
+                "Kyrgyz": [
+                    "өзүн-өзү кыйратуучу",
+                    "өзүнө зыян келтирүүчү",
+                    "өзүн-өзү жок кылуучу",
+                    "өзүнө кас"
+                ],
+                "Karakalpak": [
+                    "ózin-ózi qurtıoshı",
+                    "ózine zıyan keltirioshi",
+                    "ózin-ózi joq etioshi",
+                    "ózine qáoipli"
+                ],
+                "Tatar": [
+                    "үз-үзенә зыян китерүче",
+                    "үз-үзен һәлак итүче",
+                    "үз-үзен бетерүче",
+                    "үз-үзенә дошман"
+                ],
+                "Bashkir": [
+                    "үҙ-үҙенә зыян килтереүсе",
+                    "үҙ-үҙен һәләк итеүсе",
+                    "үҙ-үҙен емереүсе",
+                    "үҙенә ҡаршы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mahvedici"
+                ],
+                "Azerbaijani": [
+                    "məhvedici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қауіпті"
+                ],
+                "Kyrgyz": [
+                    "кыйраткыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendine zararlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yıkıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "helak edici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "intiharvari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zərərverici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fəlakətli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зиянкес"
+                ]
+            }
+        }
+    ]
+}
+```
+

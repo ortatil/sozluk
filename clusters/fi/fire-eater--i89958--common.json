@@ -1,0 +1,88 @@
+{
+    "id": "i89958",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fire-eater",
+    "en_definition": "a performer who pretends to swallow fire",
+    "tr_word": "ateş yutan",
+    "tr_definition": "gösteri amacıyla ağzına yanan nesneler alan veya ateş yutuyormuş gibi yapan sanatçı",
+    "ru_word": "пожиратель огня",
+    "ru_definition": "артист цирка или уличный исполнитель, который делает вид, что глотает огонь",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "od udan",
+                    "odla oynayan"
+                ],
+                "Turkmen": [
+                    "ot ýuwdujy",
+                    "otbaz",
+                    "otly oýunçy"
+                ],
+                "Uyghur": [
+                    "ئوت يۇتقۇچى",
+                    "ئوتخور"
+                ],
+                "Kazakh": [
+                    "от жұтушы",
+                    "отпен ойнаушы",
+                    "от жұтқыш"
+                ],
+                "Kyrgyz": [
+                    "от жуткуч",
+                    "от жегич"
+                ],
+                "Karakalpak": [
+                    "ot jutıushı",
+                    "ot penen oynaushı"
+                ],
+                "Tatar": [
+                    "ут йотучы"
+                ],
+                "Bashkir": [
+                    "ут йотоусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ateşbaz",
+                    "ateş yutan",
+                    "ateş yiyen"
+                ],
+                "Azerbaijani": [
+                    "atəşbaz"
+                ],
+                "Uzbek": [
+                    "otashparast"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "от менен ойноочу"
+                ],
+                "Tatar": [
+                    "ут белән уйнаучы"
+                ],
+                "Bashkir": [
+                    "ут менән уйнаусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'tyutar",
+                    "o'txo'r"
+                ]
+            }
+        }
+    ]
+}

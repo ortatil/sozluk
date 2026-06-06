@@ -1,0 +1,119 @@
+# Eastbound
+| Field | Detail |
+|---|---|
+| **ID** | i4525 |
+| **English** | eastbound |
+| **Type** | adjective |
+| **Definition** | moving toward the east |
+| **Source** | common |
+| **Ortatil** | şarqiy |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| шәрҡи | şärqi |
+
+```json
+{
+    "id": "i4525",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "eastbound",
+    "en_definition": "moving toward the east",
+    "tr_word": "doğuya giden",
+    "tr_definition": "doğu yönünde hareket eden",
+    "ru_word": "направляющийся на восток",
+    "ru_definition": "движущийся в восточном направлении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şarka giden"
+                ],
+                "Azerbaijani": [
+                    "şərqə doğru",
+                    "şərq istiqamətində",
+                    "şərqə gedən",
+                    "şərq yönümlü"
+                ],
+                "Uzbek": [
+                    "sharqqa yo'nalgan",
+                    "sharq tomon",
+                    "sharqiy"
+                ],
+                "Uyghur": [
+                    "شەرققە يۈزلەنگەن",
+                    "شەرققە قارىغان",
+                    "شەرق تەرەپكە ماڭىدىغان"
+                ],
+                "Bashkir": [
+                    "шәрҡи"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күншығысқа қарай"
+                ],
+                "Karakalpak": [
+                    "kúnshıǵısqa baǵıttalǵan",
+                    "kúnshıǵıs betke"
+                ],
+                "Tatar": [
+                    "көнчыгышка таба",
+                    "көнчыгыш юнәлешле",
+                    "көнчыгышка юнәлгән"
+                ],
+                "Bashkir": [
+                    "көнсығышҡа табан",
+                    "көнсығышҡа йүнәлгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шығысқа бағытталған",
+                    "шығысқа бет алған"
+                ],
+                "Kyrgyz": [
+                    "чыгышты көздөй",
+                    "чыгыш тарапка",
+                    "чыгыш багытындагы"
+                ],
+                "Karakalpak": [
+                    "shıǵısqa qaray"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğuya giden",
+                    "doğu yönlü",
+                    "doğu istikametli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gündogara tarap",
+                    "gündogara ugrugan",
+                    "gündogar ugruna"
+                ]
+            }
+        }
+    ]
+}
+```
+

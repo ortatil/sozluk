@@ -1,0 +1,160 @@
+# Teaching reading
+| Field | Detail |
+|---|---|
+| **ID** | i40063 |
+| **English** | teaching reading |
+| **Type** | noun |
+| **Definition** | teaching beginners to read |
+| **Source** | common |
+| **Ortatil** | tälim |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tälim** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.03** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| тәғлим | täğlim |
+
+```json
+{
+    "id": "i40063",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "teaching reading",
+    "en_definition": "teaching beginners to read",
+    "tr_word": "okuma öğretimi",
+    "tr_definition": "yeni başlayanlara okuma becerisi kazandırma süreci",
+    "ru_word": "обучение чтению",
+    "ru_definition": "процесс обучения начинающих навыкам чтения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "okuma öğretimi",
+                    "okuma yazma öğretimi"
+                ],
+                "Azerbaijani": [
+                    "oxu təlimi"
+                ],
+                "Turkmen": [
+                    "okamagy öwretmek"
+                ],
+                "Uyghur": [
+                    "ئوقۇش ئۆگىتىش"
+                ],
+                "Kazakh": [
+                    "оқуға үйрету"
+                ],
+                "Kyrgyz": [
+                    "окууга үйрөтүү"
+                ],
+                "Karakalpak": [
+                    "oqıoǵa úyretio"
+                ],
+                "Tatar": [
+                    "укырга өйрәтү",
+                    "укырга өйрәтү эше",
+                    "укырга өйрәтү методикасы"
+                ],
+                "Bashkir": [
+                    "уҡырға өйрәтеү",
+                    "уҡыуға өйрәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "savad təlimi"
+                ],
+                "Turkmen": [
+                    "sowat öwretmek"
+                ],
+                "Uzbek": [
+                    "savod oʻrgatish",
+                    "savodxonlik"
+                ],
+                "Uyghur": [
+                    "ساۋات چىقىرىش"
+                ],
+                "Kazakh": [
+                    "сауат ашу"
+                ],
+                "Kyrgyz": [
+                    "сабат ачуу"
+                ],
+                "Karakalpak": [
+                    "saoat ashıo",
+                    "saoat úyretio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elifba dersi"
+                ],
+                "Azerbaijani": [
+                    "əlifba təlimi"
+                ],
+                "Turkmen": [
+                    "elipbiý öwretmek"
+                ],
+                "Uyghur": [
+                    "ئېلىپبە تەلىمى"
+                ],
+                "Kazakh": [
+                    "әліппе үйрету"
+                ],
+                "Kyrgyz": [
+                    "алиппе үйрөтүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "talim"
+                ],
+                "Uzbek": [
+                    "taʼlim"
+                ],
+                "Bashkir": [
+                    "тәғлим"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻqishga oʻrgatish"
+                ]
+            }
+        }
+    ]
+}
+```
+

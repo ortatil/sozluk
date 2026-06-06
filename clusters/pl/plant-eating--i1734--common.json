@@ -1,0 +1,103 @@
+{
+    "id": "i1734",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "plant-eating",
+    "en_definition": "(of animals) feeding on plants",
+    "tr_word": "otçul",
+    "tr_definition": "bitkilerle beslenen (hayvanlar için)",
+    "ru_word": "травоядный",
+    "ru_definition": "питающийся растительной пищей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otçul",
+                    "otobur",
+                    "ot yiyen"
+                ],
+                "Azerbaijani": [
+                    "otxor",
+                    "otyeyən",
+                    "otcul"
+                ],
+                "Turkmen": [
+                    "ot iýýän",
+                    "otçul"
+                ],
+                "Uyghur": [
+                    "ئوتخور"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئۆسۈملۈكخور"
+                ],
+                "Kazakh": [
+                    "өсімдікқоректі"
+                ],
+                "Kyrgyz": [
+                    "өсүмдүк жеген"
+                ],
+                "Karakalpak": [
+                    "ósimlik jeytuǵın"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шөпқоректі",
+                    "шөпшіл"
+                ],
+                "Kyrgyz": [
+                    "чөп жеген",
+                    "чөп жегич"
+                ],
+                "Karakalpak": [
+                    "shóp jeytuǵın",
+                    "shópxor"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үлән ашаучы",
+                    "үлән белән тукланучы",
+                    "үләнчел"
+                ],
+                "Bashkir": [
+                    "үлән ашаусы",
+                    "үлән менән туҡланыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "o'txo'r"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "giyohxo'r"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nabototxo'r"
+                ]
+            }
+        }
+    ]
+}

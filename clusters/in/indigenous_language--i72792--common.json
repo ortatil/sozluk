@@ -1,0 +1,147 @@
+{
+    "id": "i72792",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "indigenous language",
+    "en_definition": "a language that originated in a specified place and was not brought to that place from elsewhere",
+    "tr_word": "yerli dil",
+    "tr_definition": "Belirli bir bölgede ortaya çıkan ve başka bir yerden getirilmemiş olan dil.",
+    "ru_word": "коренной язык",
+    "ru_definition": "Язык, возникший в определенном месте и не принесенный туда извне.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yerli dil"
+                ],
+                "Azerbaijani": [
+                    "yerli dil"
+                ],
+                "Turkmen": [
+                    "ýerli dil"
+                ],
+                "Uzbek": [
+                    "yerli til"
+                ],
+                "Uyghur": [
+                    "يەرلىك تىل",
+                    "ئەسلى تىل"
+                ],
+                "Kazakh": [
+                    "жергілікті тіл"
+                ],
+                "Kyrgyz": [
+                    "жергиликтүү тил"
+                ],
+                "Karakalpak": [
+                    "jergilikli til"
+                ],
+                "Tatar": [
+                    "җирле тел"
+                ],
+                "Bashkir": [
+                    "ерле тел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öz dil"
+                ],
+                "Azerbaijani": [
+                    "öz dil"
+                ],
+                "Kazakh": [
+                    "төл тіл"
+                ],
+                "Kyrgyz": [
+                    "төл тил"
+                ],
+                "Tatar": [
+                    "төп тел"
+                ],
+                "Bashkir": [
+                    "төп тел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ana dil"
+                ],
+                "Turkmen": [
+                    "ene dili"
+                ],
+                "Uzbek": [
+                    "ona til"
+                ],
+                "Kyrgyz": [
+                    "эне тил"
+                ],
+                "Tatar": [
+                    "ана теле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tub til"
+                ],
+                "Uyghur": [
+                    "تۈپ تىل"
+                ],
+                "Karakalpak": [
+                    "túpkilikli til"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mahalli lisan"
+                ],
+                "Uzbek": [
+                    "mahalliy til"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "doğma dil"
+                ],
+                "Karakalpak": [
+                    "tuoma til"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "asyl dili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "байырғы тіл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ата-бабалар теле"
+                ]
+            }
+        }
+    ]
+}

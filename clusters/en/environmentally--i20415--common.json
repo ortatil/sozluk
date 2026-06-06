@@ -1,0 +1,131 @@
+{
+    "id": "i20415",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "environmentally",
+    "en_definition": "for the environment",
+    "tr_word": "çevresel olarak",
+    "tr_definition": "çevre ile ilgili bir şekilde",
+    "ru_word": "экологически",
+    "ru_definition": "с точки зрения экологии или окружающей среды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təbiət baxımından"
+                ],
+                "Turkmen": [
+                    "tebigy taýdan"
+                ],
+                "Uzbek": [
+                    "tabiatga ko'ra"
+                ],
+                "Kazakh": [
+                    "табиғи тұрғыдан"
+                ],
+                "Kyrgyz": [
+                    "табият үчүн"
+                ],
+                "Karakalpak": [
+                    "tabiyatqa",
+                    "tabiyat ushın"
+                ],
+                "Tatar": [
+                    "табигатьчә",
+                    "табигатькә карата"
+                ],
+                "Bashkir": [
+                    "тәбиғәт өсөн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ekoloji cəhətdən",
+                    "ekoloji olaraq"
+                ],
+                "Turkmen": [
+                    "ekologik taýdan"
+                ],
+                "Uzbek": [
+                    "ekologik jihatdan"
+                ],
+                "Kazakh": [
+                    "экологиялық тұрғыдан"
+                ],
+                "Kyrgyz": [
+                    "экологиялык жактан"
+                ],
+                "Tatar": [
+                    "экологик яктан"
+                ],
+                "Bashkir": [
+                    "экологик йәһәттән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "atrof-muhit bo'yicha"
+                ],
+                "Karakalpak": [
+                    "atirap-oralıqqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тирә-юнь өчен"
+                ],
+                "Bashkir": [
+                    "тирә-яҡ мөхит өсөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çevresel olarak",
+                    "çevre bakımından",
+                    "çevre yönünden",
+                    "çevrece"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daşky gurşaw taýdan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇھىت جەھەتتىن",
+                    "مۇھىت ئۈچۈن",
+                    "مۇھىت نۇقتىسىدىن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоршаған орта үшін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айлана-чөйрө үчүн"
+                ]
+            }
+        }
+    ]
+}

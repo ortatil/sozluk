@@ -1,0 +1,90 @@
+{
+    "id": "i70415",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sura",
+    "en_definition": "one of the sections (or chapters) in the Koran",
+    "tr_word": "sure",
+    "tr_definition": "Kur'an'ın ayrıldığı yüz on dört bölümden her biri",
+    "ru_word": "сура",
+    "ru_definition": "одна из глав Корана",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sure"
+                ],
+                "Azerbaijani": [
+                    "surə"
+                ],
+                "Turkmen": [
+                    "süre"
+                ],
+                "Uzbek": [
+                    "sura"
+                ],
+                "Uyghur": [
+                    "سۈرە",
+                    "سۈرە-ئايەت"
+                ],
+                "Kazakh": [
+                    "сүре"
+                ],
+                "Kyrgyz": [
+                    "сүрө"
+                ],
+                "Karakalpak": [
+                    "súre"
+                ],
+                "Tatar": [
+                    "сүрә"
+                ],
+                "Bashkir": [
+                    "сүрә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bölüm"
+                ],
+                "Azerbaijani": [
+                    "bölüm"
+                ],
+                "Kyrgyz": [
+                    "бөлүм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fəsil"
+                ],
+                "Uzbek": [
+                    "fasl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bap"
+                ],
+                "Uzbek": [
+                    "bob"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kısım"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+# Intake
+| Field | Detail |
+|---|---|
+| **ID** | i39800 |
+| **English** | intake |
+| **Type** | noun |
+| **Definition** | the act of inhaling; the drawing in of air (or other gases) as in breathing |
+| **Source** | common |
+| **Ortatil** | sörüşsän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سۈمۈرۈش | sümürüş |
+| **Kazakh** | |
+| жұту | jutu |
+| **Kyrgyz** | |
+| жутуу | jutuu |
+| **Tatar** | |
+| сулыш | sulış |
+
+```json
+{
+    "id": "i39800",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "intake",
+    "en_definition": "the act of inhaling; the drawing in of air (or other gases) as in breathing",
+    "tr_word": "nefes alma",
+    "tr_definition": "Soluk alma; havayı veya diğer gazları ciğerlere çekme eylemi.",
+    "ru_word": "вдох",
+    "ru_definition": "Акт вдыхания; втягивание воздуха (или других газов) при дыхании.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nefes alma"
+                ],
+                "Azerbaijani": [
+                    "nəfəsalma"
+                ],
+                "Turkmen": [
+                    "nefes alyş"
+                ],
+                "Uzbek": [
+                    "nafas olish"
+                ],
+                "Uyghur": [
+                    "نەپەس ئېلىش"
+                ],
+                "Karakalpak": [
+                    "nápás alıs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "içe çekme",
+                    "istنشak"
+                ],
+                "Turkmen": [
+                    "içine çekme"
+                ],
+                "Uzbek": [
+                    "ichga tortish"
+                ],
+                "Uyghur": [
+                    "ئىچىگە تارتىش"
+                ],
+                "Kazakh": [
+                    "ішке тарту"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tənəffüs"
+                ],
+                "Kazakh": [
+                    "тыныс алу"
+                ],
+                "Tatar": [
+                    "тын алу"
+                ],
+                "Bashkir": [
+                    "тын алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dem alyş"
+                ],
+                "Kazakh": [
+                    "дем алу"
+                ],
+                "Kyrgyz": [
+                    "дем алуу",
+                    "дем тартуу"
+                ],
+                "Karakalpak": [
+                    "dem alıs",
+                    "dem tartıs"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soluk alma"
+                ],
+                "Tatar": [
+                    "сулыш алу",
+                    "сулыш"
+                ],
+                "Bashkir": [
+                    "һулыш алыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "soʻrish"
+                ],
+                "Uyghur": [
+                    "سۈمۈرۈش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұту"
+                ],
+                "Kyrgyz": [
+                    "жутуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "içəçəkmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "эскә һулыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

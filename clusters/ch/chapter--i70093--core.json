@@ -1,0 +1,135 @@
+{
+    "id": "i70093",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "chapter",
+    "en_definition": "a subdivision of a written work; usually numbered and titled",
+    "tr_word": "bölüm",
+    "tr_definition": "Yazılı bir eserin genellikle numaralandırılmış ve başlıklandırılmış alt bölümlerinden her biri.",
+    "ru_word": "глава",
+    "ru_definition": "Раздел книги или другого письменного произведения, обычно имеющий свой номер или заголовок.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bab"
+                ],
+                "Azerbaijani": [
+                    "bab"
+                ],
+                "Turkmen": [
+                    "bap"
+                ],
+                "Uzbek": [
+                    "bob"
+                ],
+                "Uyghur": [
+                    "باب"
+                ],
+                "Kazakh": [
+                    "бап"
+                ],
+                "Kyrgyz": [
+                    "бап"
+                ],
+                "Karakalpak": [
+                    "bap"
+                ],
+                "Tatar": [
+                    "баб"
+                ],
+                "Bashkir": [
+                    "баб"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bölüm"
+                ],
+                "Azerbaijani": [
+                    "bölüm"
+                ],
+                "Turkmen": [
+                    "bölüm"
+                ],
+                "Kazakh": [
+                    "бөлім"
+                ],
+                "Kyrgyz": [
+                    "бөлүм"
+                ],
+                "Karakalpak": [
+                    "bólúm"
+                ],
+                "Tatar": [
+                    "бөлүм"
+                ],
+                "Bashkir": [
+                    "бөлүм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fasıl"
+                ],
+                "Azerbaijani": [
+                    "fəsil"
+                ],
+                "Turkmen": [
+                    "fasyl"
+                ],
+                "Uzbek": [
+                    "fasl"
+                ],
+                "Tatar": [
+                    "фәсыл"
+                ],
+                "Bashkir": [
+                    "фасыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тарау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qism"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "hissa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бөлүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پەسىل"
+                ]
+            }
+        }
+    ]
+}

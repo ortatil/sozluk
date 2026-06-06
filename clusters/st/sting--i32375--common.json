@@ -1,0 +1,160 @@
+{
+    "id": "i32375",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "prick",
+    "en_definition": "cause a stinging pain",
+    "tr_word": "batmak",
+    "tr_definition": "Acı verecek şekilde sivri bir şeyle delmek veya sızlatmak",
+    "ru_word": "колоть",
+    "ru_definition": "Причинять острую, жалящую боль чем-то острым",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sokmak",
+                    "yakmak"
+                ],
+                "Turkmen": [
+                    "çakmak",
+                    "sancmak"
+                ],
+                "Uzbek": [
+                    "chaqmoq",
+                    "sanchmoq"
+                ],
+                "Uyghur": [
+                    "چاقماق"
+                ],
+                "Kyrgyz": [
+                    "чагуу"
+                ],
+                "Tatar": [
+                    "чагу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "acıtmak"
+                ],
+                "Uzbek": [
+                    "achishtirmoq"
+                ],
+                "Uyghur": [
+                    "ئېچىشتۇرماق"
+                ],
+                "Kyrgyz": [
+                    "ачыштыруу"
+                ],
+                "Tatar": [
+                    "ачыттыру"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "göynətmək"
+                ],
+                "Kazakh": [
+                    "күйдіру"
+                ],
+                "Kyrgyz": [
+                    "күйгүзүү"
+                ],
+                "Tatar": [
+                    "көйдерү"
+                ],
+                "Bashkir": [
+                    "көйҙөрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шағу",
+                    "ашыту"
+                ],
+                "Kyrgyz": [
+                    "саюу"
+                ],
+                "Karakalpak": [
+                    "shaǵu",
+                    "shaǵıp alıu"
+                ],
+                "Bashkir": [
+                    "сағыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dalamaq"
+                ],
+                "Turkmen": [
+                    "dalatmak"
+                ],
+                "Uzbek": [
+                    "talamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sancmaq"
+                ],
+                "Uyghur": [
+                    "سانجىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ashıtıu"
+                ],
+                "Bashkir": [
+                    "асыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sızlatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yandırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сұғу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡаҙау"
+                ]
+            }
+        }
+    ]
+}

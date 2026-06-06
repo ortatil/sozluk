@@ -1,0 +1,61 @@
+{
+    "id": "i91056",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "little red riding hood",
+    "en_definition": "a girl in a fairy tale who meets a wolf while going to visit her grandmother",
+    "tr_word": "Kırmızı Başlıklı Kız",
+    "tr_definition": "Büyükannesini ziyarete giderken kurda rastlayan masal kahramanı kız.",
+    "ru_word": "Красная Шапочка",
+    "ru_definition": "Девочка, героиня сказки, которая встречает волка по дороге к своей бабушке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "Gyzyl telpekli gyz",
+                    "Gyzyl telpek"
+                ],
+                "Uzbek": [
+                    "Qizil qalpoqcha",
+                    "Qizil doʻppi"
+                ],
+                "Uyghur": [
+                    "قىزىل دوپپىلىق قىزچاق",
+                    "قىزىل بۆرۈكلۈك قىز"
+                ],
+                "Kazakh": [
+                    "Қызыл телпек",
+                    "Қызыл бөрік",
+                    "Қызыл қалпақ"
+                ],
+                "Kyrgyz": [
+                    "Кызыл телпек",
+                    "Кызыл топучан кыз"
+                ],
+                "Karakalpak": [
+                    "Qızıl telpek",
+                    "Qızıl qalpaqsha"
+                ],
+                "Tatar": [
+                    "Кызыл Калфак",
+                    "Кызыл Башлык"
+                ],
+                "Bashkir": [
+                    "Ҡыҙыл Кәпәс",
+                    "Ҡыҙыл Кәпәсле ҡыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kırmızı Başlıklı Kız"
+                ],
+                "Azerbaijani": [
+                    "Qırmızı Papaq"
+                ]
+            }
+        }
+    ]
+}

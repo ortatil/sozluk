@@ -1,0 +1,71 @@
+{
+    "id": "i76526",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oatmeal",
+    "en_definition": "meal made from rolled or ground oats",
+    "tr_word": "yulaf ezmesi",
+    "tr_definition": "ezilmiş veya öğütülmüş yulaftan yapılan yiyecek",
+    "ru_word": "овсянка",
+    "ru_definition": "крупа или каша из овсяных зерен",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "süle ýarmasy",
+                    "süle uny",
+                    "süle bulamagy"
+                ],
+                "Kazakh": [
+                    "сұлы ботқасы",
+                    "сұлы жармасы"
+                ],
+                "Kyrgyz": [
+                    "сулу ботко",
+                    "сулу акшагы"
+                ],
+                "Karakalpak": [
+                    "sұlı botqası",
+                    "sұlı jarması"
+                ],
+                "Tatar": [
+                    "солы ярмасы",
+                    "солы боткасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yulaf ezmesi",
+                    "yulaf lapası",
+                    "yulaf unu"
+                ],
+                "Azerbaijani": [
+                    "yulaf yarması",
+                    "yulaf sıyığı",
+                    "yulaf unu"
+                ],
+                "Uzbek": [
+                    "yulaf yormasi",
+                    "yulaf bo'tqasi"
+                ],
+                "Uyghur": [
+                    "يۇلغۇن يارمىسى",
+                    "يۇلغۇن بوتقىسى",
+                    "يۇلغۇن تالقىنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "олоҡ ярмаһы",
+                    "олоҡ бутҡаһы"
+                ]
+            }
+        }
+    ]
+}

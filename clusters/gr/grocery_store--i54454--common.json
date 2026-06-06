@@ -1,0 +1,146 @@
+{
+    "id": "i54454",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "grocery store",
+    "en_definition": "a marketplace where groceries are sold",
+    "tr_word": "bakkal",
+    "tr_definition": "Yiyecek, içecek ve diğer ev ihtiyaçlarının satıldığı küçük dükkân.",
+    "ru_word": "продуктовый магазин",
+    "ru_definition": "Магазин, в котором продаются продукты питания и сопутствующие товары.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bakkal",
+                    "pazar"
+                ],
+                "Azerbaijani": [
+                    "baqqal"
+                ],
+                "Turkmen": [
+                    "bakalýa"
+                ],
+                "Uzbek": [
+                    "baqqollik do'koni",
+                    "baqqolxona"
+                ],
+                "Uyghur": [
+                    "باققاللىق",
+                    "باققال دۇكىنى"
+                ],
+                "Kazakh": [
+                    "бақалшы",
+                    "бақал дүкені"
+                ],
+                "Kyrgyz": [
+                    "базар"
+                ],
+                "Karakalpak": [
+                    "baqalxana"
+                ],
+                "Tatar": [
+                    "бакалея кибете"
+                ],
+                "Bashkir": [
+                    "баҡал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ərzaq mağazası"
+                ],
+                "Turkmen": [
+                    "azyk dükany"
+                ],
+                "Uzbek": [
+                    "oziq-ovqat do'koni"
+                ],
+                "Uyghur": [
+                    "ئاشلىق دۇكىنى"
+                ],
+                "Kazakh": [
+                    "азық-түлік дүкені"
+                ],
+                "Kyrgyz": [
+                    "азык-түлүк дүкөнү"
+                ],
+                "Karakalpak": [
+                    "azıq-túlik dúkanı"
+                ],
+                "Tatar": [
+                    "азык-төлек кибете"
+                ],
+                "Bashkir": [
+                    "аҙыҡ-түлек магазины"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dükan"
+                ],
+                "Kyrgyz": [
+                    "дүкөн"
+                ],
+                "Karakalpak": [
+                    "dúkan"
+                ],
+                "Tatar": [
+                    "төкән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кибет"
+                ],
+                "Bashkir": [
+                    "кибет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "manav"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çarşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ticarətxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېمەك-ئىچمەك دۇكىنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "түлекхана"
+                ]
+            }
+        }
+    ]
+}

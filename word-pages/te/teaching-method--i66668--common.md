@@ -1,0 +1,163 @@
+# Teaching method
+| Field | Detail |
+|---|---|
+| **ID** | i66668 |
+| **English** | teaching method |
+| **Type** | noun |
+| **Definition** | the principles and methods of instruction |
+| **Source** | common |
+| **Ortatil** | metodükä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مېتودىكا | metodika |
+| **Kazakh** | |
+| тәсіл | täsil |
+| әдістеме | ädisteme |
+
+```json
+{
+    "id": "i66668",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "teaching method",
+    "en_definition": "the principles and methods of instruction",
+    "tr_word": "öğretim yöntemi",
+    "tr_definition": "eğitim ve öğretimde izlenen ilke ve yolların bütünü",
+    "ru_word": "методика преподавания",
+    "ru_definition": "совокупность принципов и методов обучения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təlim metodu"
+                ],
+                "Turkmen": [
+                    "bilim usuly",
+                    "tälim usuly"
+                ],
+                "Uzbek": [
+                    "taʼlim usuli",
+                    "taʼlim yoʻsini"
+                ],
+                "Uyghur": [
+                    "تەلىم-تەربىيە ئۇسۇلى"
+                ],
+                "Kazakh": [
+                    "тәлім-тәрбие жолы"
+                ],
+                "Kyrgyz": [
+                    "таалим ыкмасы"
+                ],
+                "Karakalpak": [
+                    "tálim usılı",
+                    "tálim metodikası"
+                ],
+                "Tatar": [
+                    "тәгълим ысулы"
+                ],
+                "Bashkir": [
+                    "тәғлимәт ысулы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okadyş usuly",
+                    "okadyş tärleri"
+                ],
+                "Uzbek": [
+                    "oʻqitish uslubi",
+                    "oʻqitish metodi"
+                ],
+                "Uyghur": [
+                    "ئوقۇتۇش ئۇسۇلى"
+                ],
+                "Kazakh": [
+                    "оқыту әдісі"
+                ],
+                "Kyrgyz": [
+                    "окутуу ыкмасы",
+                    "окутуу жолу"
+                ],
+                "Karakalpak": [
+                    "oqıtıo usılı"
+                ],
+                "Tatar": [
+                    "укыту ысулы",
+                    "укыту алымы"
+                ],
+                "Bashkir": [
+                    "уҡытыу ысулы",
+                    "уҡытыу алымы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tedrisat usulü"
+                ],
+                "Azerbaijani": [
+                    "tədris üsulu",
+                    "tədris qaydası"
+                ],
+                "Tatar": [
+                    "тәрбия ысулы"
+                ],
+                "Bashkir": [
+                    "тәрбиә ысулы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öğretim yöntemi",
+                    "eğitim metodu",
+                    "öğretme tekniği"
+                ],
+                "Azerbaijani": [
+                    "öyrətmə tərzi"
+                ],
+                "Kyrgyz": [
+                    "үйрөтүү жолу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مېتودىكا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тәсіл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әдістеме"
+                ]
+            }
+        }
+    ]
+}
+```
+

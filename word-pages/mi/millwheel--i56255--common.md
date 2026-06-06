@@ -1,0 +1,162 @@
+# Millwheel
+| Field | Detail |
+|---|---|
+| **ID** | i56255 |
+| **English** | millwheel |
+| **Type** | noun |
+| **Definition** | water wheel that is used to drive machinery in a mill |
+| **Source** | common |
+| **Ortatil** | pärräk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **pärräk** | **çarh** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ❌ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ❌ | ❌ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.33 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.40 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **2.03** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| паррак | parrak |
+| чарх | çarx |
+
+```json
+{
+    "id": "i56255",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "millwheel",
+    "en_definition": "water wheel that is used to drive machinery in a mill",
+    "tr_word": "değirmen çarkı",
+    "tr_definition": "Bir değirmendeki makineleri çalıştırmak için kullanılan su çarkı.",
+    "ru_word": "мельничное колесо",
+    "ru_definition": "Водяное колесо, используемое для привода механизмов на мельнице.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "değirmen çarkı"
+                ],
+                "Azerbaijani": [
+                    "dəyirman çarxı"
+                ],
+                "Turkmen": [
+                    "degirmen çarh"
+                ],
+                "Uzbek": [
+                    "tegirmon charxi"
+                ],
+                "Kazakh": [
+                    "диірмен дөңгелегі",
+                    "диірмен тасы"
+                ],
+                "Kyrgyz": [
+                    "тегирмен дөңгөлөгү"
+                ],
+                "Karakalpak": [
+                    "digirmen sharxı"
+                ],
+                "Tatar": [
+                    "тегермән чархы"
+                ],
+                "Bashkir": [
+                    "тирмән чархы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su çarkı"
+                ],
+                "Azerbaijani": [
+                    "su çarxı"
+                ],
+                "Turkmen": [
+                    "suw çarh"
+                ],
+                "Uyghur": [
+                    "سۇ چاقى"
+                ],
+                "Kazakh": [
+                    "су дөңгелегі"
+                ],
+                "Karakalpak": [
+                    "suo sharxı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pər"
+                ],
+                "Uzbek": [
+                    "charx",
+                    "parrak"
+                ],
+                "Kyrgyz": [
+                    "паррак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çarh"
+                ],
+                "Kyrgyz": [
+                    "чарх"
+                ],
+                "Karakalpak": [
+                    "sharx"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈگمەن چاقى"
+                ],
+                "Bashkir": [
+                    "тирмән тәгәрмәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dolap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тегермән тәгәрмәче"
+                ]
+            }
+        }
+    ]
+}
+```
+

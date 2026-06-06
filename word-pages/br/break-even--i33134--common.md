@@ -1,0 +1,195 @@
+# Break even
+| Field | Detail |
+|---|---|
+| **ID** | i33134 |
+| **English** | break even |
+| **Type** | verb |
+| **Definition** | make neither profit nor loss |
+| **Source** | common |
+| **Ortatil** | ḍäñläşmäk |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تەڭلىشىش | täñlişiş |
+
+```json
+{
+    "id": "i33134",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "break even",
+    "en_definition": "make neither profit nor loss",
+    "tr_word": "başabaş gelmek",
+    "tr_definition": "ne kâr ne de zarar etmek",
+    "ru_word": "выйти в ноль",
+    "ru_definition": "не получить ни прибыли, ни убытка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dengelemek"
+                ],
+                "Uzbek": [
+                    "teng chiqmoq"
+                ],
+                "Uyghur": [
+                    "تەڭلىشىش",
+                    "تەڭمۇتەڭ بولۇش"
+                ],
+                "Kazakh": [
+                    "тең түсу"
+                ],
+                "Kyrgyz": [
+                    "тең чыгуу"
+                ],
+                "Karakalpak": [
+                    "teńbe-teń shıǵıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "peýdasyz-zyýansyz çykmak"
+                ],
+                "Uzbek": [
+                    "foydasiz va zararsiz bo'lmoq"
+                ],
+                "Kazakh": [
+                    "пайдасыз-зиянсыз қалу"
+                ],
+                "Kyrgyz": [
+                    "пайда-зыянсыз болуу"
+                ],
+                "Karakalpak": [
+                    "paydasız-zıyansız bolıu"
+                ],
+                "Tatar": [
+                    "фойдасыз-зыянсыз калу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başa baş gelmek"
+                ],
+                "Azerbaijani": [
+                    "başa-baş gəlmək"
+                ],
+                "Turkmen": [
+                    "başabaş çykmak",
+                    "hasaby ýapmak"
+                ],
+                "Bashkir": [
+                    "башҡа-баш сығыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шығынсыз шығу"
+                ],
+                "Kyrgyz": [
+                    "чыгымсыз чыгуу"
+                ],
+                "Karakalpak": [
+                    "shıǵınsız shıǵıu"
+                ],
+                "Tatar": [
+                    "чыгымнарны каплау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zarar etmemek"
+                ],
+                "Azerbaijani": [
+                    "zərərsiz çıxmaq"
+                ],
+                "Uzbek": [
+                    "zararsiz chiqmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'zini qoplamoq"
+                ],
+                "Uyghur": [
+                    "ئۆز-ئۆزىنى قامداش"
+                ],
+                "Kazakh": [
+                    "өзін-өзі ақтау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "زىيانمۇ قىلماسلىق، پايدىمۇ ئالماسلىق"
+                ],
+                "Tatar": [
+                    "зыянсыз калу"
+                ],
+                "Bashkir": [
+                    "зыянһыҙ сығыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karşılamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xərci ödəmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ордуна келүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тигез калу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "килемһеҙ-зыянһыҙ булыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

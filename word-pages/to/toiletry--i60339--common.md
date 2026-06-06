@@ -1,0 +1,204 @@
+# Toiletry
+| Field | Detail |
+|---|---|
+| **ID** | i60339 |
+| **English** | toiletry |
+| **Type** | noun |
+| **Definition** | artifacts used in making your toilet (washing and taking care of your body) |
+| **Source** | common |
+| **Ortatil** | läwazimat |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i60339",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "toiletry",
+    "en_definition": "artifacts used in making your toilet (washing and taking care of your body)",
+    "tr_word": "tuvalet malzemesi",
+    "tr_definition": "Vücut temizliği ve bakımı için kullanılan eşyaların her biri.",
+    "ru_word": "туалетные принадлежности",
+    "ru_definition": "Предметы, используемые для ухода за телом и личной гигиены.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tuvalet malzemesi"
+                ],
+                "Uyghur": [
+                    "تازىلىق بويۇملىرى"
+                ],
+                "Kazakh": [
+                    "тазалық бұйымдары"
+                ],
+                "Kyrgyz": [
+                    "тазалык буюмдары"
+                ],
+                "Karakalpak": [
+                    "tazalıq buyımları"
+                ],
+                "Bashkir": [
+                    "таҙалыҡ кәрәк-ярағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "temizlik malzemesi"
+                ],
+                "Azerbaijani": [
+                    "təmizlik ləvazimatı"
+                ],
+                "Turkmen": [
+                    "timar esbaplary"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bakım ürünü"
+                ],
+                "Uzbek": [
+                    "poklanish vositalari"
+                ],
+                "Tatar": [
+                    "пакьлек әсбаплары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "levazımat"
+                ],
+                "Azerbaijani": [
+                    "ləvazimat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şəxsi qulluq vasitələri"
+                ],
+                "Uzbek": [
+                    "shaxsiy gigiyena vositalari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arassaçylyk serişdeleri"
+                ],
+                "Uzbek": [
+                    "oroyish anjomlari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گىرىم بويۇملىرى"
+                ],
+                "Kazakh": [
+                    "күтім құралдары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жуунуучу каражаттар"
+                ],
+                "Tatar": [
+                    "юыну кирәк-яраклары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тән тәрбиясе әсбаплары"
+                ],
+                "Bashkir": [
+                    "тән тәрбиәһе кәрәк-ярағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tədarük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hajat serişdeleri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pardoz ashyolari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۇيۇنۇش بويۇملىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәрет бұйымдары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күтүнүү каражаттары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "gigienalıq zatlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ásbaplar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йыуыныу кәрәк-ярағы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,170 @@
+{
+    "id": "i32002",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "travel by",
+    "en_definition": "move past",
+    "tr_word": "yanından geçmek",
+    "tr_definition": "bir şeyin veya birinin yanından hareket ederek ilerlemek",
+    "ru_word": "проезжать мимо",
+    "ru_definition": "двигаться мимо чего-либо или кого-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geçmek"
+                ],
+                "Azerbaijani": [
+                    "keçmək"
+                ],
+                "Turkmen": [
+                    "geçmek"
+                ],
+                "Uzbek": [
+                    "kesib o'tmoq"
+                ],
+                "Kyrgyz": [
+                    "кесип өтүү"
+                ],
+                "Tatar": [
+                    "кичү"
+                ],
+                "Bashkir": [
+                    "кисеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşmak"
+                ],
+                "Azerbaijani": [
+                    "ötmək"
+                ],
+                "Turkmen": [
+                    "aşmak"
+                ],
+                "Uzbek": [
+                    "o'tmoq",
+                    "oshmoq"
+                ],
+                "Uyghur": [
+                    "ئۆتمەك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئۆتۈپ كەتمەك"
+                ],
+                "Kazakh": [
+                    "өту"
+                ],
+                "Kyrgyz": [
+                    "өтүү"
+                ],
+                "Karakalpak": [
+                    "ótio"
+                ],
+                "Bashkir": [
+                    "үтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yanından keçmək"
+                ],
+                "Uyghur": [
+                    "يېنىدىن ئۆتمەك"
+                ],
+                "Kazakh": [
+                    "жанынан өту"
+                ],
+                "Karakalpak": [
+                    "janınan ótio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uğramak"
+                ],
+                "Azerbaijani": [
+                    "adlamaq"
+                ],
+                "Turkmen": [
+                    "ugramak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "katetmek"
+                ],
+                "Kyrgyz": [
+                    "кыдыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "басып өту"
+                ],
+                "Karakalpak": [
+                    "basıp ótio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "уздыру",
+                    "узу"
+                ],
+                "Bashkir": [
+                    "уҙыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yurib o'tmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айналып өту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аралоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үтү"
+                ]
+            }
+        }
+    ]
+}

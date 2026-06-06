@@ -1,0 +1,79 @@
+{
+    "id": "i107527",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "economic growth",
+    "en_definition": "steady growth in the productive capacity of the economy (and so a growth of national income)",
+    "tr_word": "ekonomik büyüme",
+    "tr_definition": "ekonominin üretim kapasitesindeki ve dolayısıyla milli gelirdeki sürekli artış",
+    "ru_word": "экономический рост",
+    "ru_definition": "устойчивое увеличение производственных мощностей экономики и, как следствие, рост национального дохода",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekonomik büyüme",
+                    "iktisadi büyüme",
+                    "iktisadi kalkınma"
+                ],
+                "Azerbaijani": [
+                    "iqtisadi artım",
+                    "iqtisadi yüksəliş",
+                    "iqtisadi inkişaf"
+                ],
+                "Turkmen": [
+                    "ykdysady ösüş",
+                    "ykdysady ýokary göteriliş"
+                ],
+                "Uzbek": [
+                    "iqtisodiy o'sish",
+                    "iqtisodiy yuksalish",
+                    "iqtisodiy rivojlanish"
+                ],
+                "Uyghur": [
+                    "ئىقتىسادىي تەرەققىيات",
+                    "ئىقتىسادىي ئۆسۈش",
+                    "ئىقتىسادىي يۈكسىلىش"
+                ],
+                "Tatar": [
+                    "икътисади үсеш",
+                    "икътисади күтәрелеш",
+                    "икътисади алгарыш"
+                ],
+                "Bashkir": [
+                    "иҡтисади үҫеш",
+                    "иҡтисади күтәрелеш",
+                    "иҡтисади алға китеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "экономикалық өрлеу",
+                    "экономикалық өсу",
+                    "экономикалық даму"
+                ],
+                "Kyrgyz": [
+                    "экономикалык өсүш",
+                    "экономикалык өнүгүү",
+                    "экономикалык жогорулоо"
+                ],
+                "Karakalpak": [
+                    "ekonomikalıq ósim",
+                    "ekonomikalıq raoajlanıo",
+                    "ekonomikalıq ilgerileo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "maddi gelişme"
+                ]
+            }
+        }
+    ]
+}

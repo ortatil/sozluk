@@ -1,0 +1,74 @@
+{
+    "id": "i16445",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "intravenous",
+    "en_definition": "within or by means of a vein",
+    "tr_word": "intravenöz",
+    "tr_definition": "damar içi veya damar yoluyla yapılan",
+    "ru_word": "внутривенный",
+    "ru_definition": "находящийся или вводимый внутри вены",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "damar içi",
+                    "damardan"
+                ],
+                "Azerbaijani": [
+                    "damardaxili"
+                ],
+                "Turkmen": [
+                    "damar içindäki",
+                    "damar içi",
+                    "damardan"
+                ],
+                "Uzbek": [
+                    "tomar ichidagi",
+                    "tomar ichi",
+                    "tomardan"
+                ],
+                "Uyghur": [
+                    "تومۇر ئىچى",
+                    "تومۇردىن"
+                ],
+                "Kazakh": [
+                    "тамыр ішілік"
+                ],
+                "Kyrgyz": [
+                    "тамыр ичиндеги",
+                    "тамырдагы",
+                    "тамыр аркылуу"
+                ],
+                "Karakalpak": [
+                    "tamır ishindegi",
+                    "tamır ishi"
+                ],
+                "Tatar": [
+                    "тамыр эчендәге",
+                    "тамыр эче"
+                ],
+                "Bashkir": [
+                    "тамыр эсендәге",
+                    "тамыр эсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "venadaxili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көк тамыр ішіндегі",
+                    "көктамырлық"
+                ]
+            }
+        }
+    ]
+}

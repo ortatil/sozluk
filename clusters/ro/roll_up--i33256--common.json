@@ -1,0 +1,175 @@
+{
+    "id": "i33256",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "hoard",
+    "en_definition": "get or gather together",
+    "tr_word": "biriktirmek",
+    "tr_definition": "ihtiyaç duyulandan fazlasını gizlice veya ileride kullanmak üzere toplamak",
+    "ru_word": "копить",
+    "ru_definition": "собирать и сохранять запасы, часто в тайне или в избыточном количестве",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "toplamak",
+                    "toparlamak"
+                ],
+                "Azerbaijani": [
+                    "toplamaq"
+                ],
+                "Turkmen": [
+                    "toplamak"
+                ],
+                "Uzbek": [
+                    "to'plamoq"
+                ],
+                "Uyghur": [
+                    "توپلىماق"
+                ],
+                "Kazakh": [
+                    "топтастыру"
+                ],
+                "Kyrgyz": [
+                    "топтоо"
+                ],
+                "Karakalpak": [
+                    "toplau"
+                ],
+                "Tatar": [
+                    "туплау"
+                ],
+                "Bashkir": [
+                    "туплау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yığmak"
+                ],
+                "Azerbaijani": [
+                    "yığmaq"
+                ],
+                "Turkmen": [
+                    "ýygnamak"
+                ],
+                "Uzbek": [
+                    "yig'moq"
+                ],
+                "Uyghur": [
+                    "يىغماق",
+                    "يىغىنماق"
+                ],
+                "Kazakh": [
+                    "жинау"
+                ],
+                "Kyrgyz": [
+                    "жыйноо"
+                ],
+                "Karakalpak": [
+                    "jıynau"
+                ],
+                "Tatar": [
+                    "җыю"
+                ],
+                "Bashkir": [
+                    "йыйыу",
+                    "йыйыу-туплау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "biriktirmek"
+                ],
+                "Azerbaijani": [
+                    "bir araya gətirmək"
+                ],
+                "Kazakh": [
+                    "біріктіру"
+                ],
+                "Tatar": [
+                    "берләштерү"
+                ],
+                "Bashkir": [
+                    "берләштереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "derlemek"
+                ],
+                "Turkmen": [
+                    "jemlemek"
+                ],
+                "Uzbek": [
+                    "jamlamoq",
+                    "jam qilmoq"
+                ],
+                "Uyghur": [
+                    "جەم قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "üýşürmek"
+                ],
+                "Kazakh": [
+                    "үйю"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қосу"
+                ],
+                "Karakalpak": [
+                    "orau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "түрүү"
+                ],
+                "Karakalpak": [
+                    "túrúú"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cəm etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чогултуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төйнәү"
+                ]
+            }
+        }
+    ]
+}

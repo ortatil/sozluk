@@ -1,0 +1,82 @@
+{
+    "id": "i17214",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "vertebral",
+    "en_definition": "of or relating to or constituting vertebrae",
+    "tr_word": "vertebral",
+    "tr_definition": "omurlarla ilgili veya omurlardan oluşan",
+    "ru_word": "позвоночный",
+    "ru_definition": "относящийся к позвонкам или составляющий их",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "omurga",
+                    "omurgaya ait"
+                ],
+                "Azerbaijani": [
+                    "onurğa"
+                ],
+                "Turkmen": [
+                    "oňurga",
+                    "oňurgaly"
+                ],
+                "Uzbek": [
+                    "umurtqali"
+                ],
+                "Uyghur": [
+                    "ئومۇرتقا",
+                    "ئومۇرتقا تۈۋرۈكىگە ئائىت",
+                    "ئومۇرتقا شەكىللىك"
+                ],
+                "Kazakh": [
+                    "омыртқалы",
+                    "омыртқалық"
+                ],
+                "Kyrgyz": [
+                    "омурткалуу",
+                    "омуртка"
+                ],
+                "Karakalpak": [
+                    "omırtqalı",
+                    "omırtqa"
+                ],
+                "Tatar": [
+                    "умыртка",
+                    "умырткалык"
+                ],
+                "Bashkir": [
+                    "умыртҡа",
+                    "умыртҡа бағанаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fıkri"
+                ],
+                "Azerbaijani": [
+                    "fəqərə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "umurtqa pogʻonasiga oid",
+                    "umurtqaga tegishli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арқалық"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+# Atlas
+| Field | Detail |
+|---|---|
+| **ID** | i70271 |
+| **English** | atlas |
+| **Type** | noun |
+| **Definition** | a collection of maps in book form |
+| **Source** | common |
+| **Ortatil** | atlas |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **atlas** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاتلاس | atlas |
+| **Kazakh** | |
+| атлас | atlas |
+| **Tatar** | |
+| атлас | atlas |
+
+```json
+{
+    "id": "i70271",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "atlas",
+    "en_definition": "a collection of maps in book form",
+    "tr_word": "atlas",
+    "tr_definition": "kitap hâlinde bir araya getirilmiş haritalar derlemesi",
+    "ru_word": "атлас",
+    "ru_definition": "сборник географических карт, изданный в виде книги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "atlas"
+                ],
+                "Azerbaijani": [
+                    "atlas"
+                ],
+                "Turkmen": [
+                    "atlas"
+                ],
+                "Uzbek": [
+                    "atlas"
+                ],
+                "Uyghur": [
+                    "ئاتلاس"
+                ],
+                "Kazakh": [
+                    "атлас"
+                ],
+                "Karakalpak": [
+                    "atlas"
+                ],
+                "Tatar": [
+                    "атлас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harita kitabı",
+                    "harita mecmuası"
+                ],
+                "Azerbaijani": [
+                    "xəritə toplusu",
+                    "xəritə məcmuəsi"
+                ],
+                "Uzbek": [
+                    "xarita"
+                ],
+                "Uyghur": [
+                    "خەرىتىلەر توپلىمى"
+                ],
+                "Tatar": [
+                    "хариталар җыентыгы"
+                ],
+                "Bashkir": [
+                    "хариталар йыйынтығы",
+                    "хариталар китабы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kartalar ýygyndysy"
+                ],
+                "Kazakh": [
+                    "карталар жинағы",
+                    "карталар кітабы"
+                ],
+                "Kyrgyz": [
+                    "карталар жыйнагы",
+                    "карталар китеби"
+                ],
+                "Karakalpak": [
+                    "kartalar jıynaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "majmua"
+                ]
+            }
+        }
+    ]
+}
+```
+

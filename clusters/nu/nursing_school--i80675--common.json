@@ -1,0 +1,108 @@
+{
+    "id": "i80675",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nursing school",
+    "en_definition": "a school for training nurses",
+    "tr_word": "hemşirelik okulu",
+    "tr_definition": "hemşire yetiştiren eğitim kurumu",
+    "ru_word": "школа медицинских сестёр",
+    "ru_definition": "учебное заведение для подготовки медицинских сестер",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şepagat uýalarynyň mekdebi",
+                    "şepagat mekdebi"
+                ],
+                "Tatar": [
+                    "шәфкать туташлары мәктәбе",
+                    "шәфкать туташлары училищесы"
+                ],
+                "Bashkir": [
+                    "шәфҡәт туташтары мәктәбе",
+                    "шәфҡәт туташтары училищеһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "медициналық училище"
+                ],
+                "Kyrgyz": [
+                    "мээрмандык окуу жайы",
+                    "мээрмандык мектеби",
+                    "медайымдык мектеп"
+                ],
+                "Karakalpak": [
+                    "medicinalıq uchilishche"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hemşirelik okulu",
+                    "hemşirelik yüksekokulu"
+                ],
+                "Uzbek": [
+                    "hamshiralik maktabi",
+                    "hamshiralar bilim yurti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sağlık meslek lisesi"
+                ],
+                "Turkmen": [
+                    "saglyk mekdebi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tibb bacısı məktəbi",
+                    "tibb məktəbi",
+                    "tibb texnikumu"
+                ],
+                "Uzbek": [
+                    "tibbiyot bilim yurti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мейірбикелер мектебі",
+                    "мейірбикелік іс мектебі"
+                ],
+                "Karakalpak": [
+                    "miyirbiykeler mektebi",
+                    "salamatlıq saqlao mektebi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سېستىرالىق مەكتىپى",
+                    "سېستىرالار مەكتىپى",
+                    "سېستىرا تەربىيەلەش مەكتىپى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "медицина туташтары мәктәбе"
+                ]
+            }
+        }
+    ]
+}

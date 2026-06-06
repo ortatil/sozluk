@@ -1,0 +1,185 @@
+# Vermouth
+| Field | Detail |
+|---|---|
+| **ID** | i78763 |
+| **English** | vermouth |
+| **Type** | noun |
+| **Definition** | any of several white wines flavored with aromatic herbs; used as aperitifs or in mixed drinks |
+| **Source** | common |
+| **Ortatil** | wermıt |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i78763",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "vermouth",
+    "en_definition": "any of several white wines flavored with aromatic herbs; used as aperitifs or in mixed drinks",
+    "tr_word": "vermut",
+    "tr_definition": "içine kokulu bitkiler katılmış, genellikle iştah açıcı olarak içilen bir şarap türü",
+    "ru_word": "вермут",
+    "ru_definition": "креплёное вино, ароматизированное полынью и другими пряными травами и кореньями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "xushboʻy may"
+                ],
+                "Uyghur": [
+                    "خۇشبۇي شاراب"
+                ],
+                "Kazakh": [
+                    "хош иісті шарап"
+                ],
+                "Karakalpak": [
+                    "xushboy wino"
+                ],
+                "Tatar": [
+                    "хуш исле шәраб"
+                ],
+                "Bashkir": [
+                    "хуш еҫле шарап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ysly şerap",
+                    "ajy şerap"
+                ],
+                "Kyrgyz": [
+                    "ачуу шарап"
+                ],
+                "Tatar": [
+                    "ачы шәраб"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ıtırlı şarap"
+                ],
+                "Azerbaijani": [
+                    "ətirli şərab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "otlu şərab"
+                ],
+                "Turkmen": [
+                    "otly şerap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шөп шарабы"
+                ],
+                "Karakalpak": [
+                    "shópli wino"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эрмен шарабы"
+                ],
+                "Bashkir": [
+                    "әрем шарабы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дары шарап"
+                ],
+                "Karakalpak": [
+                    "dári-dármekli wino"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үлән шәрабы"
+                ],
+                "Bashkir": [
+                    "үлән шарабы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vermut"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kokteyl şarabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "baharatlı şarap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ədviyyatlı şərab"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shuvoqli may"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "giyohli sharob"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوت-چۆپ تەمى چىقىرىلغان شاراب",
+                    "تەمى تەڭشەلگەن ئاق شاراب"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жусан шарабы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,150 @@
+{
+    "id": "i9969",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "governmental",
+    "en_definition": "relating to or dealing with the affairs or structure of government or politics or the state",
+    "tr_word": "hükümetle ilgili",
+    "tr_definition": "Hükümetin işleri, yapısı veya devlet yönetimi ile ilgili olan.",
+    "ru_word": "правительственный",
+    "ru_definition": "Относящийся к правительству, связанный с деятельностью или структурой государственной власти.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hükümet"
+                ],
+                "Azerbaijani": [
+                    "hökumət"
+                ],
+                "Turkmen": [
+                    "hökümet"
+                ],
+                "Uzbek": [
+                    "hukumat"
+                ],
+                "Uyghur": [
+                    "ھۆكۈمەتكە ئائىت",
+                    "ھۆكۈمەتلىك"
+                ],
+                "Kazakh": [
+                    "үкіметтік"
+                ],
+                "Karakalpak": [
+                    "húkimetlik"
+                ],
+                "Tatar": [
+                    "хөкүмәт"
+                ],
+                "Bashkir": [
+                    "хөкүмәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "devlet"
+                ],
+                "Azerbaijani": [
+                    "dövlət"
+                ],
+                "Turkmen": [
+                    "döwlet"
+                ],
+                "Uzbek": [
+                    "davlat"
+                ],
+                "Uyghur": [
+                    "دۆلەتلىك"
+                ],
+                "Tatar": [
+                    "дәүләт"
+                ],
+                "Bashkir": [
+                    "дәүләт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "siyasi"
+                ],
+                "Uzbek": [
+                    "siyosiy"
+                ],
+                "Uyghur": [
+                    "سىياسىي"
+                ],
+                "Karakalpak": [
+                    "siyasiy"
+                ],
+                "Tatar": [
+                    "сәяси"
+                ],
+                "Bashkir": [
+                    "сәйәси"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "resmi"
+                ],
+                "Azerbaijani": [
+                    "rəsmi"
+                ],
+                "Turkmen": [
+                    "resmi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мемлекеттік"
+                ],
+                "Kyrgyz": [
+                    "мамлекеттик"
+                ],
+                "Karakalpak": [
+                    "mámleketlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kamusal"
+                ],
+                "Kyrgyz": [
+                    "өкмөттүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "биліктік"
+                ],
+                "Kyrgyz": [
+                    "бийлик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "idari"
+                ]
+            }
+        }
+    ]
+}

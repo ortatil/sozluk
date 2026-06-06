@@ -1,0 +1,150 @@
+# Bubble shell
+| Field | Detail |
+|---|---|
+| **ID** | i45599 |
+| **English** | bubble shell |
+| **Type** | noun |
+| **Definition** | marine gastropod mollusk having a very small thin shell |
+| **Source** | common |
+| **Ortatil** | pufakça |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| көбүклүлүк | köbüklülük |
+
+```json
+{
+    "id": "i45599",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bubble shell",
+    "en_definition": "marine gastropod mollusk having a very small thin shell",
+    "tr_word": "kabarcıklı salyangoz",
+    "tr_definition": "Çok küçük ve ince bir kabuğa sahip olan deniz karındanbacaklı yumuşakçası.",
+    "ru_word": "пузырчатая улитка",
+    "ru_definition": "Морской брюхоногий моллюск с очень маленькой тонкой раковиной.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köpürjikli balykgulak"
+                ],
+                "Uyghur": [
+                    "كۆپۈكچە قۇلۇلە"
+                ],
+                "Kazakh": [
+                    "көпіршікті ұлу"
+                ],
+                "Kyrgyz": [
+                    "көбүклүлүк"
+                ],
+                "Karakalpak": [
+                    "kóbіkshe",
+                    "kóbіkshe baqalshaq"
+                ],
+                "Tatar": [
+                    "күбек кабырчыгы"
+                ],
+                "Bashkir": [
+                    "күбек ҡабырсаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýuka gabykly molýusk"
+                ],
+                "Kazakh": [
+                    "жұқа қабыршақты ұлу"
+                ],
+                "Kyrgyz": [
+                    "жука кабырчыктуу үлүш"
+                ],
+                "Karakalpak": [
+                    "juqa baqalshaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qovuqlu ilbiz",
+                    "qovuqcuqlu mollyusk",
+                    "qovuq qabığı"
+                ],
+                "Bashkir": [
+                    "ҡыуыҡлы ҡабырсаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kabarcıklı salyangoz",
+                    "ince kabuklu deniz salyangozu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "balon salyangozu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pufaksimon chigʻanoq",
+                    "pufakcha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nozik chigʻanoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاپچۇقچە قۇلۇلە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۇمشاق تەنلىك قۇلۇلە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "деңиз үлүшү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "куыклы кабырчык"
+                ]
+            }
+        }
+    ]
+}
+```
+

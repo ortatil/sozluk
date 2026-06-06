@@ -1,0 +1,89 @@
+{
+    "id": "i58551",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "scratcher",
+    "en_definition": "a device used for scratching",
+    "tr_word": "kaşağı",
+    "tr_definition": "kaşınmak için kullanılan alet",
+    "ru_word": "чесалка",
+    "ru_definition": "приспособление для чесания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaşağı",
+                    "kaşıyıcı",
+                    "kaşıma aleti"
+                ],
+                "Azerbaijani": [
+                    "qaşıyan",
+                    "qaşov",
+                    "qaşıyıcı"
+                ],
+                "Turkmen": [
+                    "gaşawyç",
+                    "gaşagyn"
+                ],
+                "Uzbek": [
+                    "qashlagich",
+                    "qashlagich-asbob"
+                ],
+                "Uyghur": [
+                    "قاشلىغۇچ",
+                    "قاشلىغۇچ ئەسۋابى"
+                ],
+                "Kazakh": [
+                    "қасығыш"
+                ],
+                "Karakalpak": [
+                    "qasıǵısh"
+                ],
+                "Tatar": [
+                    "кашыгыч"
+                ],
+                "Bashkir": [
+                    "ҡашығыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dyrnaçak"
+                ],
+                "Uzbek": [
+                    "tirnagich"
+                ],
+                "Kazakh": [
+                    "тырнауыш"
+                ],
+                "Kyrgyz": [
+                    "тырмагыч",
+                    "тырмооч"
+                ],
+                "Karakalpak": [
+                    "tırnauısh"
+                ],
+                "Tatar": [
+                    "тырмавык"
+                ],
+                "Bashkir": [
+                    "тырнағыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыргыч"
+                ],
+                "Tatar": [
+                    "кыргыч"
+                ]
+            }
+        }
+    ]
+}

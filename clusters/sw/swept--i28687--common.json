@@ -1,0 +1,130 @@
+{
+    "id": "i28687",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "swept",
+    "en_definition": "clean by sweeping",
+    "tr_word": "süpürülmüş",
+    "tr_definition": "süpürge ile temizlenmiş",
+    "ru_word": "подметенный",
+    "ru_definition": "очищенный с помощью метлы или щетки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "süpürmek"
+                ],
+                "Azerbaijani": [
+                    "süpürmək"
+                ],
+                "Turkmen": [
+                    "süpürmek"
+                ],
+                "Uzbek": [
+                    "supurmoq"
+                ],
+                "Uyghur": [
+                    "سۈپۈرۈلگەن"
+                ],
+                "Kazakh": [
+                    "сыпыру"
+                ],
+                "Karakalpak": [
+                    "sıpırılǵan"
+                ],
+                "Tatar": [
+                    "себерү"
+                ],
+                "Bashkir": [
+                    "һеперелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tozalamoq"
+                ],
+                "Uyghur": [
+                    "تازىلانغان"
+                ],
+                "Kazakh": [
+                    "тазалау"
+                ],
+                "Kyrgyz": [
+                    "тазаланган"
+                ],
+                "Karakalpak": [
+                    "tazalanǵan"
+                ],
+                "Bashkir": [
+                    "таҙартылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arındırmak"
+                ],
+                "Azerbaijani": [
+                    "arılamaq"
+                ],
+                "Turkmen": [
+                    "arassalamak"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "päklemek"
+                ],
+                "Uzbek": [
+                    "poklamoq"
+                ],
+                "Uyghur": [
+                    "پاكىزلانغان"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "шыпырылган"
+                ],
+                "Tatar": [
+                    "себереп чыгару"
+                ],
+                "Bashkir": [
+                    "һепереп сығарылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temizlemek"
+                ],
+                "Azerbaijani": [
+                    "təmizləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жинау"
+                ],
+                "Tatar": [
+                    "җыештыру"
+                ]
+            }
+        }
+    ]
+}

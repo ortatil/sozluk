@@ -1,0 +1,83 @@
+{
+    "id": "i18671",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "slowest",
+    "en_definition": "most slowly",
+    "tr_word": "en yavaş",
+    "tr_definition": "en düşük hızda, en ağır şekilde",
+    "ru_word": "медленнее всего",
+    "ru_definition": "наиболее медленным образом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "en yavaş",
+                    "en ağır",
+                    "en ağır biçimde",
+                    "en yavaş şekilde"
+                ],
+                "Azerbaijani": [
+                    "ən yavaş",
+                    "ən ağır",
+                    "ən ləng"
+                ],
+                "Turkmen": [
+                    "iň haýal",
+                    "iň ýuwaş"
+                ],
+                "Uyghur": [
+                    "ئەڭ ئاستا"
+                ],
+                "Kazakh": [
+                    "ең баяу",
+                    "ең ақырын",
+                    "ең жай"
+                ],
+                "Kyrgyz": [
+                    "эң жай",
+                    "эң акырын",
+                    "эң ыраак"
+                ],
+                "Karakalpak": [
+                    "eń akırın",
+                    "eń báseń"
+                ],
+                "Tatar": [
+                    "иң ашыкмыйча",
+                    "иң салмак"
+                ],
+                "Bashkir": [
+                    "иң аҡрын",
+                    "иң яй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eng sekin",
+                    "eng sust"
+                ],
+                "Uyghur": [
+                    "ئەڭ پەس"
+                ],
+                "Tatar": [
+                    "иң әкрен"
+                ],
+                "Bashkir": [
+                    "иң әкрен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "eng ohista"
+                ]
+            }
+        }
+    ]
+}

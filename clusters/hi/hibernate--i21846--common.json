@@ -1,0 +1,72 @@
+{
+    "id": "i21846",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "hibernate",
+    "en_definition": "sleep during winter",
+    "tr_word": "kış uykusuna yatmak",
+    "tr_definition": "kış mevsimini uykuda veya hareketsiz bir durumda geçirmek",
+    "ru_word": "впадать в спячку",
+    "ru_definition": "проводить зиму в спящем или неактивном состоянии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kış uykusuna yatmak",
+                    "kışlamak"
+                ],
+                "Azerbaijani": [
+                    "qış yuxusuna getmək",
+                    "qışlamaq"
+                ],
+                "Turkmen": [
+                    "gyşky uka gitmek",
+                    "gyşlamak"
+                ],
+                "Uzbek": [
+                    "qishlamoq",
+                    "qishki uyquga ketmoq"
+                ],
+                "Uyghur": [
+                    "قىشلىق ئۇيقۇغا كىرمەك",
+                    "قىشلىق ئۇيقۇدا بولماق",
+                    "قىشلىماق"
+                ],
+                "Kazakh": [
+                    "қыстау",
+                    "қысқы ұйқыға бату"
+                ],
+                "Kyrgyz": [
+                    "кыштоо",
+                    "кышкы уйкуга кетүү",
+                    "кышкы уйкуга жатуу"
+                ],
+                "Karakalpak": [
+                    "qıslau",
+                    "qısqı uyqıǵa ketu"
+                ],
+                "Tatar": [
+                    "кышлау",
+                    "кышкы йокыга талу",
+                    "кышкы йокыга яту"
+                ],
+                "Bashkir": [
+                    "ҡышлау",
+                    "ҡышҡы йоҡоға талыу",
+                    "ҡышҡы йоҡоға ятыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uyquga botmoq"
+                ],
+                "Kazakh": [
+                    "ұйқыға кету"
+                ]
+            }
+        }
+    ]
+}

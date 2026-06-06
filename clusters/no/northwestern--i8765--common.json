@@ -1,0 +1,88 @@
+{
+    "id": "i8765",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "northwestern",
+    "en_definition": "situated in or oriented toward the northwest",
+    "tr_word": "kuzeybatı",
+    "tr_definition": "Kuzeybatıda bulunan veya kuzeybatıya yönelmiş olan",
+    "ru_word": "северо-западный",
+    "ru_definition": "Расположенный на северо-западе или ориентированный в сторону северо-запада",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "түндүк-батыш",
+                    "түндүк-батыштагы"
+                ],
+                "Karakalpak": [
+                    "túndіk-batıs"
+                ],
+                "Tatar": [
+                    "төньяк-көнбатыш",
+                    "төньяк-көнбатыштагы"
+                ],
+                "Bashkir": [
+                    "төньяҡ-көнбайыш",
+                    "төньяҡ-көнбайыштағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şimal-qərb",
+                    "şimal-qərbi"
+                ],
+                "Uzbek": [
+                    "shimoli-g'arbiy",
+                    "shimolu g'arbiy"
+                ],
+                "Uyghur": [
+                    "غەربىي شىمالىي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuzeybatı",
+                    "kuzeybatıdaki",
+                    "kuzeybatı yönündeki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "demirgazyk-günbatar",
+                    "demirgazyk-günbatar tarapdaky"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "غەربىي شىمالدىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "солтүстік-батыс",
+                    "солтүстік-батыстағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "arqa-batıs"
+                ]
+            }
+        }
+    ]
+}

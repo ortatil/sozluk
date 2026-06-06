@@ -1,0 +1,154 @@
+# Carving fork
+| Field | Detail |
+|---|---|
+| **ID** | i51583 |
+| **English** | carving fork |
+| **Type** | noun |
+| **Definition** | a large fork used in carving cooked meat |
+| **Source** | common |
+| **Ortatil** | aşa |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| аша | aşa |
+
+```json
+{
+    "id": "i51583",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "carving fork",
+    "en_definition": "a large fork used in carving cooked meat",
+    "tr_word": "et çatalı",
+    "tr_definition": "Pişmiş eti keserken veya servis ederken tutmak için kullanılan büyük, iki dişli çatal.",
+    "ru_word": "разделочная вилка",
+    "ru_definition": "Большая вилка с двумя длинными зубцами, используемая для удержания мяса во время его нарезки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "et çatalı"
+                ],
+                "Azerbaijani": [
+                    "ət çəngəli"
+                ],
+                "Turkmen": [
+                    "et çarşagy"
+                ],
+                "Kazakh": [
+                    "ет шанышқысы"
+                ],
+                "Kyrgyz": [
+                    "эт айры",
+                    "эт кармагыч"
+                ],
+                "Karakalpak": [
+                    "et shanshqı"
+                ],
+                "Tatar": [
+                    "ит чәнечкесе"
+                ],
+                "Bashkir": [
+                    "ит сәнскеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uly çarşak"
+                ],
+                "Kazakh": [
+                    "үлкен шанышқы"
+                ],
+                "Karakalpak": [
+                    "úlken shanshqı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "servis çatalı"
+                ],
+                "Azerbaijani": [
+                    "servis çəngəli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyük çatal"
+                ],
+                "Azerbaijani": [
+                    "böyük çəngəl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "go'sht sanchqisi"
+                ],
+                "Uyghur": [
+                    "گۆش سانجىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta sanchqi"
+                ],
+                "Uyghur": [
+                    "كەباب سانجىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ سانجاق"
+                ],
+                "Kyrgyz": [
+                    "чоң айры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зур чәнечке"
+                ],
+                "Bashkir": [
+                    "ҙур сәнске"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аша"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shanshqı"
+                ]
+            }
+        }
+    ]
+}
+```
+

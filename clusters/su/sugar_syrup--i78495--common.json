@@ -1,0 +1,109 @@
+{
+    "id": "i78495",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sugar syrup",
+    "en_definition": "sugar and water and sometimes corn syrup boiled together; used as sweetening especially in drinks",
+    "tr_word": "şeker şurubu",
+    "tr_definition": "Şeker ve suyun, bazen mısır şurubu ile birlikte kaynatılmasıyla elde edilen, özellikle içecekleri tatlandırmak için kullanılan sıvı.",
+    "ru_word": "сахарный сироп",
+    "ru_definition": "Раствор сахара в воде, иногда с добавлением кукурузного сиропа, доведенный до кипения; используется как подсластитель, особенно в напитках.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şerbet"
+                ],
+                "Azerbaijani": [
+                    "şərbət",
+                    "şirə"
+                ],
+                "Turkmen": [
+                    "şerbet",
+                    "şire"
+                ],
+                "Uzbek": [
+                    "sharbat",
+                    "shira"
+                ],
+                "Uyghur": [
+                    "شەربەت",
+                    "شىرە"
+                ],
+                "Kazakh": [
+                    "шәрбат",
+                    "шырын",
+                    "сироп"
+                ],
+                "Kyrgyz": [
+                    "шире",
+                    "ширегей",
+                    "шәрбәт"
+                ],
+                "Karakalpak": [
+                    "shárbát",
+                    "sirop"
+                ],
+                "Tatar": [
+                    "шәрбәт",
+                    "сироп"
+                ],
+                "Bashkir": [
+                    "шәрбәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qiyom"
+                ],
+                "Uyghur": [
+                    "قىيام"
+                ],
+                "Kyrgyz": [
+                    "кыям"
+                ],
+                "Karakalpak": [
+                    "qıyam"
+                ],
+                "Bashkir": [
+                    "ҡиям"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qənd şirəsi"
+                ],
+                "Turkmen": [
+                    "gand-şire"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şurup"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "татлы су"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "id": "i8979",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "patched",
+    "en_definition": "mended usually clumsily by covering a hole with a patch",
+    "tr_word": "yamalı",
+    "tr_definition": "Bir delik veya yırtığın üzerine bir parça kumaş veya malzeme dikilerek onarılmış olan.",
+    "ru_word": "заплатанный",
+    "ru_definition": "Отремонтированный путем наложения заплатки на отверстие или прореху.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yamalı",
+                    "yamalanmış"
+                ],
+                "Azerbaijani": [
+                    "yamaqlı",
+                    "yamalanmış"
+                ],
+                "Turkmen": [
+                    "ýamalan",
+                    "ýamaly",
+                    "ýamalanan"
+                ],
+                "Uzbek": [
+                    "yamoqli",
+                    "yamalgan"
+                ],
+                "Uyghur": [
+                    "يامالغان",
+                    "ياماقلىق"
+                ],
+                "Kazakh": [
+                    "жамалған",
+                    "жамаулы"
+                ],
+                "Kyrgyz": [
+                    "жамалган",
+                    "жамакталган",
+                    "жамаачыланган"
+                ],
+                "Karakalpak": [
+                    "jamalǵan",
+                    "jamaulı"
+                ],
+                "Tatar": [
+                    "ямаулы",
+                    "ямалган"
+                ],
+                "Bashkir": [
+                    "ямалған",
+                    "ямаулы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quroqli"
+                ],
+                "Uyghur": [
+                    "قۇراشتۇرۇلغان"
+                ],
+                "Kazakh": [
+                    "құралған"
+                ],
+                "Karakalpak": [
+                    "quraq"
+                ],
+                "Tatar": [
+                    "корамалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "onarılmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "calaq-calaq"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "id": "i70711",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "electric bill",
+    "en_definition": "a bill for money owed for electricity used",
+    "tr_word": "elektrik faturası",
+    "tr_definition": "kullanılan elektrik miktarı karşılığında ödenmesi gereken tutarı gösteren belge",
+    "ru_word": "счёт за электричество",
+    "ru_definition": "документ с указанием суммы, которую необходимо оплатить за потребленную электроэнергию",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrik faturası",
+                    "elektrik borcu",
+                    "elektrik hesabı"
+                ],
+                "Azerbaijani": [
+                    "elektrik borcu",
+                    "elektrik haqqı"
+                ],
+                "Turkmen": [
+                    "elektrik tölegi",
+                    "elektrik hasaby"
+                ],
+                "Uzbek": [
+                    "elektr toʻlovi",
+                    "elektr haqi",
+                    "elektr hisobi"
+                ],
+                "Kazakh": [
+                    "электр қуатының шоты"
+                ],
+                "Kyrgyz": [
+                    "электр акысы",
+                    "электр төлөмү"
+                ],
+                "Karakalpak": [
+                    "elektr tólemi",
+                    "elektr haqı",
+                    "elektr esap-sanaǵı"
+                ],
+                "Bashkir": [
+                    "электр иҫәбе",
+                    "электр өсөн түләү ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tok tölegi"
+                ],
+                "Uyghur": [
+                    "توك پۇلى"
+                ],
+                "Kazakh": [
+                    "тоқ ақысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tok hasaby"
+                ],
+                "Uyghur": [
+                    "توك ھەققى",
+                    "توك چىقىمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жарық ақысы"
+                ],
+                "Kyrgyz": [
+                    "жарык акысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "işıq pulu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ут квитанциясе",
+                    "ут кәгазе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ут өчен түләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ут иҫәбе"
+                ]
+            }
+        }
+    ]
+}

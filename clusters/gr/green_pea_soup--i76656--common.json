@@ -1,0 +1,108 @@
+{
+    "id": "i76656",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "green pea soup",
+    "en_definition": "made of fresh green peas and stock with shredded lettuce onion and celery",
+    "tr_word": "taze bezelye çorbası",
+    "tr_definition": "Taze bezelye, et suyu, marul, soğan ve kereviz ile yapılan bir çorba türü.",
+    "ru_word": "суп из свежего зеленого горошка",
+    "ru_definition": "Суп, приготовленный из свежего зеленого горошка и бульона с добавлением измельченного салата, лука и сельдерея.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پۇرچاق شورپىسى"
+                ],
+                "Kazakh": [
+                    "бұршақ сорпасы",
+                    "бұршақ көже"
+                ],
+                "Kyrgyz": [
+                    "буурчак шорпо"
+                ],
+                "Karakalpak": [
+                    "burshaq sorpa"
+                ],
+                "Tatar": [
+                    "борчак шулпасы"
+                ],
+                "Bashkir": [
+                    "борсаҡ ашы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жасыл бұршақ сорпасы"
+                ],
+                "Kyrgyz": [
+                    "жашыл буурчак шорпосу"
+                ],
+                "Karakalpak": [
+                    "jasıl burshaq sorpası"
+                ],
+                "Tatar": [
+                    "яшел борчак ашы"
+                ],
+                "Bashkir": [
+                    "йәшел борсаҡ ашы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "noxudlu şorba"
+                ],
+                "Turkmen": [
+                    "noýba çorbasy",
+                    "noýba şorbasy"
+                ],
+                "Uzbek": [
+                    "no'xat sho'rva",
+                    "no'xatli taom"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taze bezelye çorbası"
+                ],
+                "Azerbaijani": [
+                    "təzə noxud şorbası",
+                    "yaşıl noxud şorbası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gök noýba çorbasy"
+                ],
+                "Uzbek": [
+                    "ko'k no'xat sho'rvasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bezelye çorbası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆك پۇرچاق شورپىسى"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "id": "i14727",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "archival",
+    "en_definition": "of or relating to or contained in or serving as an archive",
+    "tr_word": "arşivsel",
+    "tr_definition": "arşivle ilgili veya arşive ait olan",
+    "ru_word": "архивный",
+    "ru_definition": "относящийся к архиву или хранящийся в архиве",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arşivsel",
+                    "arşivlik"
+                ],
+                "Azerbaijani": [
+                    "arxiv",
+                    "arxivə aid",
+                    "arxivləşdirilmiş"
+                ],
+                "Turkmen": [
+                    "arhiw",
+                    "arhiwleşdirilen"
+                ],
+                "Uzbek": [
+                    "arxivga oid",
+                    "arxiviy"
+                ],
+                "Uyghur": [
+                    "ئارخىپقا ئائىت",
+                    "ئارخىپ خاراكتېرلىك",
+                    "ئارخىپتىكى"
+                ],
+                "Kazakh": [
+                    "архивтік"
+                ],
+                "Kyrgyz": [
+                    "архивдик",
+                    "архивге таандык"
+                ],
+                "Karakalpak": [
+                    "arxiwlik"
+                ],
+                "Tatar": [
+                    "архив"
+                ],
+                "Bashkir": [
+                    "архив"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "saklanan"
+                ],
+                "Kyrgyz": [
+                    "сакталган"
+                ],
+                "Tatar": [
+                    "саклаулы"
+                ],
+                "Bashkir": [
+                    "хаҡлаулы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hujjatli"
+                ],
+                "Karakalpak": [
+                    "xújjetlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "belgesel",
+                    "belgelik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gadymy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "saqlanuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұрағаттық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "құжаттық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "xatlamalıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тарихи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яҙма"
+                ]
+            }
+        }
+    ]
+}

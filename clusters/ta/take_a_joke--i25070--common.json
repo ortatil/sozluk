@@ -1,0 +1,102 @@
+{
+    "id": "i25070",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "take a joke",
+    "en_definition": "listen to a joke at one's own expense",
+    "tr_word": "şaka kaldırmak",
+    "tr_definition": "kendisiyle ilgili yapılan şakaları hoşgörüyle karşılamak",
+    "ru_word": "понимать шутки",
+    "ru_definition": "адекватно воспринимать шутки в свой адрес, не обижаясь",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "hazilni ko'tarmoq",
+                    "hazilga chidamoq",
+                    "hazilni tushunmoq"
+                ],
+                "Kazakh": [
+                    "әзіл көтеру",
+                    "әзілге түсіністікпен қарау"
+                ],
+                "Karakalpak": [
+                    "hazil kóterio",
+                    "hazilge túsinio",
+                    "hazildi tutıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şaka kaldırmak",
+                    "şakadan anlamak",
+                    "şakaya gelmek",
+                    "şakayı hoş karşılamak"
+                ],
+                "Uyghur": [
+                    "چاقچاق كۆتۈرمەك",
+                    "چاقچاقنى قوبۇل قىلماق",
+                    "چاقچاققا چىدىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шаяртуны күтәрү",
+                    "шаяруны кабул итү"
+                ],
+                "Bashkir": [
+                    "шаян һүҙ күтәреү",
+                    "шаяртыуҙы аңлау",
+                    "шаяртыуҙы ҡабул итеү",
+                    "шаян һүҙгә үпкәләмәү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zarafat götürmək",
+                    "zarafat qəbul etmək",
+                    "zarafatdan inciməmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "degşmäni götermek",
+                    "degşmäni kabul etmek",
+                    "degşmäni düşüniş bilen garşylamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қалжың көтеру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тамаша көтөрүү",
+                    "тамашага түшүнүү",
+                    "тамашаны туура кабыл алуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәзәкне аңлау"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "id": "i77313",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "bread",
+    "en_definition": "food made from dough of flour or meal and usually raised with yeast or baking powder and then baked",
+    "tr_word": "ekmek",
+    "tr_definition": "un, su ve maya karışımının yoğrulup pişirilmesiyle elde edilen temel gıda maddesi",
+    "ru_word": "хлеб",
+    "ru_definition": "пищевой продукт, выпекаемый из муки, замешанной на воде с добавлением дрожжей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nan"
+                ],
+                "Azerbaijani": [
+                    "nan"
+                ],
+                "Turkmen": [
+                    "nan"
+                ],
+                "Uzbek": [
+                    "non"
+                ],
+                "Uyghur": [
+                    "نان"
+                ],
+                "Kazakh": [
+                    "нан"
+                ],
+                "Kyrgyz": [
+                    "нан"
+                ],
+                "Karakalpak": [
+                    "nan"
+                ],
+                "Tatar": [
+                    "нан"
+                ],
+                "Bashkir": [
+                    "нан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ekmek"
+                ],
+                "Uzbek": [
+                    "ekmak"
+                ],
+                "Tatar": [
+                    "икмәк"
+                ],
+                "Bashkir": [
+                    "икмәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çörək"
+                ],
+                "Turkmen": [
+                    "çörek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆتمەك"
+                ],
+                "Karakalpak": [
+                    "ótmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бөлке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "токоч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күмәч"
+                ]
+            }
+        }
+    ]
+}

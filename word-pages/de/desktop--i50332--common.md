@@ -1,0 +1,126 @@
+# Desktop
+| Field | Detail |
+|---|---|
+| **ID** | i50332 |
+| **English** | desktop |
+| **Type** | noun |
+| **Definition** | (computer science) the area of the screen in graphical user interfaces against which icons and windows appear |
+| **Source** | common |
+| **Ortatil** | masaüstü |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| бет | bet |
+
+```json
+{
+    "id": "i50332",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "desktop",
+    "en_definition": "(computer science) the area of the screen in graphical user interfaces against which icons and windows appear",
+    "tr_word": "masaüstü",
+    "tr_definition": "Grafik kullanıcı arayüzlerinde simgelerin ve pencerelerin üzerinde göründüğü ekran alanı.",
+    "ru_word": "рабочий стол",
+    "ru_definition": "Основное окно графической среды пользователя вместе с элементами, добавляемыми в него этой средой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "iş masası"
+                ],
+                "Turkmen": [
+                    "iş meýdançasy"
+                ],
+                "Uzbek": [
+                    "ish stoli",
+                    "ish maydoni"
+                ],
+                "Kyrgyz": [
+                    "иш столу",
+                    "иш бети"
+                ],
+                "Tatar": [
+                    "эш өстәле"
+                ],
+                "Bashkir": [
+                    "эш өҫтәле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "masaüstü"
+                ],
+                "Azerbaijani": [
+                    "masaüstü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмыс үстелі"
+                ],
+                "Karakalpak": [
+                    "jұmıs ústelі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бет"
+                ],
+                "Karakalpak": [
+                    "bet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ekran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iş ýüzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ekran ýüzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۈستەل يۈزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىزمەت يۈزى"
+                ]
+            }
+        }
+    ]
+}
+```
+

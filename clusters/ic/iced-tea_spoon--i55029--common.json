@@ -1,0 +1,91 @@
+{
+    "id": "i55029",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "iced-tea spoon",
+    "en_definition": "a teaspoon with a long handle",
+    "tr_word": "uzun saplı çay kaşığı",
+    "tr_definition": "soğuk çay veya kokteyller için kullanılan uzun saplı bir çay kaşığı türü",
+    "ru_word": "ложка для коктейлей",
+    "ru_definition": "чайная ложка с длинной ручкой, предназначенная для перемешивания напитков в высоких стаканах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzun saplı kaşık"
+                ],
+                "Azerbaijani": [
+                    "uzun saplı qaşıq",
+                    "uzun dəstəkli qaşıq"
+                ],
+                "Turkmen": [
+                    "uzun saply çaý çemçesi",
+                    "uzun saply çemçe"
+                ],
+                "Uzbek": [
+                    "uzun dasta qoshiqcha",
+                    "uzun dasta choy qoshiq"
+                ],
+                "Uyghur": [
+                    "ئۇزۇن ساپلىق قوشۇق",
+                    "ئۇزۇن دەستىلىك چاي قوشۇقى"
+                ],
+                "Kazakh": [
+                    "ұзын сапты қасық"
+                ],
+                "Kyrgyz": [
+                    "узун кашык"
+                ],
+                "Karakalpak": [
+                    "uzın saplı qasıq"
+                ],
+                "Tatar": [
+                    "озын саплы чәй кашыгы",
+                    "озын саплы кашык"
+                ],
+                "Bashkir": [
+                    "оҙон һаплы ҡалаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шай қасық"
+                ],
+                "Kyrgyz": [
+                    "чай кашык"
+                ],
+                "Karakalpak": [
+                    "shay qasıq"
+                ],
+                "Bashkir": [
+                    "сәй ҡалағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kokteyl kaşığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soğuk çay kaşığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şərbət qaşığı"
+                ]
+            }
+        }
+    ]
+}

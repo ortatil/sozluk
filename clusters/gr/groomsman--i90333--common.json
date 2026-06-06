@@ -1,0 +1,136 @@
+{
+    "id": "i90333",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "groomsman",
+    "en_definition": "a male attendant of the bridegroom at a wedding",
+    "tr_word": "sağdıç",
+    "tr_definition": "Düğünde damada eşlik eden ve ona yardım eden erkek arkadaş veya akraba.",
+    "ru_word": "шафер",
+    "ru_definition": "Мужчина, сопровождающий жениха на свадебной церемонии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yoldaş"
+                ],
+                "Turkmen": [
+                    "ýoldaş"
+                ],
+                "Kazakh": [
+                    "жолдас бала"
+                ],
+                "Kyrgyz": [
+                    "жолдош бала"
+                ],
+                "Karakalpak": [
+                    "joldas bala"
+                ],
+                "Tatar": [
+                    "юлдаш"
+                ],
+                "Bashkir": [
+                    "юлдаш егет"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kuyovnavkar"
+                ],
+                "Kazakh": [
+                    "күйеу жолдас"
+                ],
+                "Kyrgyz": [
+                    "күйөө жолдош"
+                ],
+                "Karakalpak": [
+                    "kúyeu joldas"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sağdıç"
+                ],
+                "Azerbaijani": [
+                    "sağdış",
+                    "soldış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýigitbaşy"
+                ],
+                "Uyghur": [
+                    "يىگىت بېشى",
+                    "يىگىت ھەمراھى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hamroh"
+                ],
+                "Uyghur": [
+                    "ھەمراھ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кияү егете"
+                ],
+                "Bashkir": [
+                    "кейәү егете"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шаһит"
+                ],
+                "Bashkir": [
+                    "шаһит"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yanbak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güveyi yoldaşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ataman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jo'ra"
+                ]
+            }
+        }
+    ]
+}

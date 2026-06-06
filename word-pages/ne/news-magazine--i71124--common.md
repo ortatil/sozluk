@@ -1,0 +1,170 @@
+# News magazine
+| Field | Detail |
+|---|---|
+| **ID** | i71124 |
+| **English** | news magazine |
+| **Type** | noun |
+| **Definition** | a magazine devoted to reports of current events; usually published weekly |
+| **Source** | common |
+| **Ortatil** | habarnama |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| хабаршы | xabarşı |
+| **Bashkir** | |
+| атналыҡ | atnalıq |
+
+```json
+{
+    "id": "i71124",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "news magazine",
+    "en_definition": "a magazine devoted to reports of current events; usually published weekly",
+    "tr_word": "haber dergisi",
+    "tr_definition": "güncel olaylarla ilgili raporlara ayrılmış, genellikle haftalık olarak yayımlanan dergi",
+    "ru_word": "новостной журнал",
+    "ru_definition": "журнал, посвященный репортажам о текущих событиях; обычно выходит еженедельно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haber dergisi",
+                    "haftalık haber dergisi"
+                ],
+                "Azerbaijani": [
+                    "xəbər məcmuəsi",
+                    "xəbər jurnalı",
+                    "həftəlik məcmuə"
+                ],
+                "Turkmen": [
+                    "habarlar žurnaly"
+                ],
+                "Uzbek": [
+                    "xabarnoma",
+                    "haftanoma"
+                ],
+                "Uyghur": [
+                    "ھەپتىلىك مەجمۇە"
+                ],
+                "Kazakh": [
+                    "хабаршы"
+                ],
+                "Karakalpak": [
+                    "xabarlar jurnalı"
+                ],
+                "Tatar": [
+                    "хәбәрләр журналы"
+                ],
+                "Bashkir": [
+                    "хәбәр журналы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "axborot jurnali"
+                ],
+                "Uyghur": [
+                    "ئاخبارات ژۇرنىلى"
+                ],
+                "Kazakh": [
+                    "ақпараттық журнал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "маалымат журналы"
+                ],
+                "Karakalpak": [
+                    "málimleme jurnalı"
+                ],
+                "Tatar": [
+                    "мәгълүмат журналы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aktüalite dergisi"
+                ],
+                "Bashkir": [
+                    "атналыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "siyasi məcmuə"
+                ],
+                "Turkmen": [
+                    "syýasy-jemgyýetçilik žurnaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "апталық журнал"
+                ],
+                "Tatar": [
+                    "атналык журнал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жаңылыктар журналы"
+                ],
+                "Bashkir": [
+                    "яңылыҡтар журналы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzelikler žurnaly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەۋەر ژۇرنىلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кабар журналы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dáoir jurnalı"
+                ]
+            }
+        }
+    ]
+}
+```
+

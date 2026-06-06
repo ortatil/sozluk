@@ -1,0 +1,98 @@
+{
+    "id": "i53739",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fire door",
+    "en_definition": "a fire-resistant door that can be closed to stop the spread of a fire",
+    "tr_word": "yangın kapısı",
+    "tr_definition": "bir yangının yayılmasını durdurmak için kapatılabilen, ateşe dayanıklı kapı",
+    "ru_word": "противопожарная дверь",
+    "ru_definition": "огнестойкая дверь, предназначенная для предотвращения распространения огня",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yangın kapısı"
+                ],
+                "Azerbaijani": [
+                    "yanğın qapısı",
+                    "yanğına davamlı qapı"
+                ],
+                "Turkmen": [
+                    "ýangyna garşy gapy"
+                ],
+                "Uzbek": [
+                    "yongʻinga chidamli eshik",
+                    "yongʻindan saqlovchi eshik"
+                ],
+                "Tatar": [
+                    "янгынга чыдам ишек",
+                    "янгыннан саклану ишеге"
+                ],
+                "Bashkir": [
+                    "янғындан һаҡлаусы ишек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "odadavamlı qapı"
+                ],
+                "Turkmen": [
+                    "oda çydamly gapy"
+                ],
+                "Uyghur": [
+                    "ئوتتىن مۇداپىئەلىنىش ئىشىكى",
+                    "ئوتقا چىداملىق ئىشىك"
+                ],
+                "Kazakh": [
+                    "отқа төзімді есік"
+                ],
+                "Tatar": [
+                    "уттан саклау ишеге"
+                ],
+                "Bashkir": [
+                    "утҡа сыҙамлы ишек",
+                    "уттан һаҡлаусы ишек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "өртке төзімді есік",
+                    "өрттен қорғайтын есік"
+                ],
+                "Kyrgyz": [
+                    "өрткө чыдамдуу эшик",
+                    "өрткө каршы эшик"
+                ],
+                "Karakalpak": [
+                    "órtke tózimli esik",
+                    "órtten qorǵaytuǵın esik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻtga chidamli eshik"
+                ],
+                "Uyghur": [
+                    "ئوت توسۇش ئىشىكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ateş kapısı"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": "i40078",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "history lesson",
+    "en_definition": "a lesson in the facts of history",
+    "tr_word": "tarih dersi",
+    "tr_definition": "tarihsel gerçeklerin öğretildiği ders",
+    "ru_word": "урок истории",
+    "ru_definition": "занятие, посвященное изучению исторических фактов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarih dersi",
+                    "tarih eğitimi",
+                    "tarih öğretimi"
+                ],
+                "Azerbaijani": [
+                    "tarix dərsi",
+                    "tarix təlimi",
+                    "tarix məşğələsi"
+                ],
+                "Turkmen": [
+                    "taryh dersi",
+                    "taryh sapagy"
+                ],
+                "Uzbek": [
+                    "tarix darsi",
+                    "tarix sabog'i"
+                ],
+                "Uyghur": [
+                    "تارىخ دەرىس",
+                    "تارىخ ساۋىقى"
+                ],
+                "Kazakh": [
+                    "тарих сабағы",
+                    "тарих дәрісі"
+                ],
+                "Kyrgyz": [
+                    "тарых сабагы",
+                    "тарых дарсы"
+                ],
+                "Karakalpak": [
+                    "tariyx sabaǵı",
+                    "tariyx dárisi"
+                ],
+                "Tatar": [
+                    "тарих дәресе",
+                    "тарих сабагы"
+                ],
+                "Bashkir": [
+                    "тарих дәресе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәжрибә дәресе"
+                ]
+            }
+        }
+    ]
+}

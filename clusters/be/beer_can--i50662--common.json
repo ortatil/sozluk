@@ -1,0 +1,80 @@
+{
+    "id": "i50662",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "beer can",
+    "en_definition": "a can that holds beer",
+    "tr_word": "bira kutusu",
+    "tr_definition": "içinde bira bulunan veya bira koymak için tasarlanmış metal kutu",
+    "ru_word": "пивная банка",
+    "ru_definition": "жестяная или алюминиевая емкость, предназначенная для хранения и употребления пива",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bira kutusu"
+                ],
+                "Azerbaijani": [
+                    "pivə qutusu",
+                    "pivə bankası"
+                ],
+                "Turkmen": [
+                    "piwo gutusy",
+                    "piwo gapy"
+                ],
+                "Uzbek": [
+                    "pivo qutisi",
+                    "pivo idishi"
+                ],
+                "Uyghur": [
+                    "پىۋا قۇتىسى",
+                    "پىۋا قاچىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сыра құтысы",
+                    "сыра банкісі",
+                    "сыра сауыты"
+                ],
+                "Kyrgyz": [
+                    "сыра кутусу",
+                    "сыра идиши"
+                ],
+                "Karakalpak": [
+                    "sıra qalbırı",
+                    "sıra idisi"
+                ],
+                "Tatar": [
+                    "сыра калае",
+                    "сыра савыты"
+                ],
+                "Bashkir": [
+                    "һыра ҡалайы",
+                    "һыра һауыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "teneke bira"
+                ],
+                "Azerbaijani": [
+                    "tənəkə pivə qabı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тимер сыра савыты"
+                ]
+            }
+        }
+    ]
+}

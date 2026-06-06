@@ -1,0 +1,145 @@
+{
+    "id": "i40726",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pickup",
+    "en_definition": "the act or process of picking up or collecting from various places",
+    "tr_word": "toplama",
+    "tr_definition": "çeşitli yerlerden bir şeyleri alma veya bir araya getirme işlemi",
+    "ru_word": "сбор",
+    "ru_definition": "действие или процесс забора или коллекционирования из разных мест",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yığma",
+                    "yığım"
+                ],
+                "Turkmen": [
+                    "ýygnama",
+                    "ýygnanyş"
+                ],
+                "Uzbek": [
+                    "yigʻish"
+                ],
+                "Uyghur": [
+                    "يىغىش",
+                    "يىغىۋېلىش"
+                ],
+                "Kazakh": [
+                    "жинау",
+                    "жинақтау"
+                ],
+                "Kyrgyz": [
+                    "жыйноо"
+                ],
+                "Karakalpak": [
+                    "jıynau",
+                    "jıynap alıu",
+                    "jıynalıs"
+                ],
+                "Tatar": [
+                    "җыю",
+                    "җыйнау"
+                ],
+                "Bashkir": [
+                    "йыйыу",
+                    "йыйып алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "toplama"
+                ],
+                "Azerbaijani": [
+                    "toplama"
+                ],
+                "Turkmen": [
+                    "toplama"
+                ],
+                "Uzbek": [
+                    "toʻplash"
+                ],
+                "Tatar": [
+                    "туплау"
+                ],
+                "Bashkir": [
+                    "туплау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "derleme"
+                ],
+                "Uzbek": [
+                    "terish"
+                ],
+                "Uyghur": [
+                    "تۆرلەش",
+                    "تېرىش"
+                ],
+                "Kazakh": [
+                    "теру"
+                ],
+                "Kyrgyz": [
+                    "терип алуу"
+                ],
+                "Karakalpak": [
+                    "terip alıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "alyp gitme"
+                ],
+                "Uzbek": [
+                    "olib ketish"
+                ],
+                "Kazakh": [
+                    "алу"
+                ],
+                "Tatar": [
+                    "алу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "devşirme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "biriktirme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "götürmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чогултуу"
+                ]
+            }
+        }
+    ]
+}

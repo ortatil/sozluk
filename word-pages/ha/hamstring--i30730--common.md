@@ -1,0 +1,323 @@
+# Hamstring
+| Field | Detail |
+|---|---|
+| **ID** | i30730 |
+| **English** | hamstring |
+| **Type** | verb |
+| **Definition** | make ineffective or powerless |
+| **Source** | common |
+| **Ortatil** | aqsatmaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **aqsatmaq** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.37** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاجىزلاشتۇرماق | ajizlaşturmaq |
+| **Kazakh** | |
+| тұсаулау | tusaulau |
+| ақсату | aqsatu |
+| байлау | baylau |
+| **Kyrgyz** | |
+| байлоо | bayloo |
+| алсыратуу | alsıratuu |
+| **Tatar** | |
+| хәлсезләндерү | xälsezländerü |
+| тоткарлау | totkarlau |
+| **Bashkir** | |
+| хәлһеҙләндереү | xälhezländereü |
+| тотҡарлау | totqarlau |
+| кәртәләү | kärtäläü |
+
+```json
+{
+    "id": "i30730",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "hamstring",
+    "en_definition": "make ineffective or powerless",
+    "tr_word": "etkisiz hale getirmek",
+    "tr_definition": "birini veya bir şeyi etkisiz, güçsüz veya işleyemez duruma getirmek; kısıtlamak",
+    "ru_word": "подрывать",
+    "ru_definition": "делать неэффективным или бессильным; ограничивать возможности или деятельность",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'sqinlik qilmoq"
+                ],
+                "Uyghur": [
+                    "توسقۇنلۇق قىلماق"
+                ],
+                "Kazakh": [
+                    "тұсаулау"
+                ],
+                "Karakalpak": [
+                    "tosqınlıq etio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aksatmak"
+                ],
+                "Azerbaijani": [
+                    "axsatmaq"
+                ],
+                "Kazakh": [
+                    "ақсату"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "felç etmek"
+                ],
+                "Uzbek": [
+                    "falaj qilmoq"
+                ],
+                "Uyghur": [
+                    "پەلەج قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bog'lab qo'ymoq"
+                ],
+                "Kazakh": [
+                    "байлау"
+                ],
+                "Kyrgyz": [
+                    "байлоо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "ayaq-qolın baylao"
+                ],
+                "Tatar": [
+                    "аяк-кулын бәйләү"
+                ],
+                "Bashkir": [
+                    "аяҡ-ҡулды бәйләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "engellemek"
+                ],
+                "Azerbaijani": [
+                    "əngəlləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məhdudlaşdırmaq"
+                ],
+                "Uyghur": [
+                    "مەھرۇم قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "böwet bolmak"
+                ],
+                "Karakalpak": [
+                    "bóget bolıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ojiz qilmoq"
+                ],
+                "Uyghur": [
+                    "ئاجىزلاشتۇرماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кедергі жасау"
+                ],
+                "Kyrgyz": [
+                    "кедерги болуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәлсезләндерү"
+                ],
+                "Bashkir": [
+                    "хәлһеҙләндереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тоткарлау"
+                ],
+                "Bashkir": [
+                    "тотҡарлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kısıtlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kösteklemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mane olmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iflic etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ayagyna duşak urmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çäklendirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mätäç etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "güýçden düşürmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yo'lini to'smoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қол-аяғын байлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "алсыратуу",
+                    "алдан тайдыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тушап коюу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sharasız qaldırıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кодрәтсез калдыру",
+                    "киртә ясау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡанатты ҡайырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "кәртәләү"
+                ]
+            }
+        }
+    ]
+}
+```
+

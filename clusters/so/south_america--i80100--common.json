@@ -1,0 +1,82 @@
+{
+    "id": "i80100",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "south america",
+    "en_definition": "the nations of the South American continent collectively",
+    "tr_word": "Güney Amerika",
+    "tr_definition": "Güney Amerika kıtasındaki ülkelerin tamamı",
+    "ru_word": "Южная Америка",
+    "ru_definition": "совокупность стран южноамериканского континента",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Cənubi Amerika"
+                ],
+                "Uzbek": [
+                    "Janubiy Amerika"
+                ],
+                "Uyghur": [
+                    "جەنۇبىي ئامېرىكا",
+                    "جەنۇبىي ئامېرىكا قىتئەسى"
+                ],
+                "Tatar": [
+                    "Җәнүби Америка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Güney Amerika"
+                ],
+                "Turkmen": [
+                    "Günorta Amerika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Түштүк Америка"
+                ],
+                "Karakalpak": [
+                    "Túshtúk Amerika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Көньяк Америка"
+                ],
+                "Bashkir": [
+                    "Көньяҡ Америка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Latin Amerika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Оңтүстік Америка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Qubla Amerika"
+                ]
+            }
+        }
+    ]
+}

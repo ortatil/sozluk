@@ -1,0 +1,77 @@
+{
+    "id": "i52894",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "digital camera",
+    "en_definition": "a camera that encodes an image digitally and store it for later reproduction",
+    "tr_word": "dijital kamera",
+    "tr_definition": "görüntüleri dijital olarak kodlayan ve daha sonra çoğaltmak üzere saklayan kamera",
+    "ru_word": "цифровой фотоаппарат",
+    "ru_definition": "фотоаппарат, который кодирует изображение в цифровом виде и сохраняет его для последующего воспроизведения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sanly fotoapparat",
+                    "sanly surata düşüriji"
+                ],
+                "Kazakh": [
+                    "сандық бейнекамера",
+                    "сандық фотоаппарат",
+                    "сандық кескіндеуіш"
+                ],
+                "Kyrgyz": [
+                    "санариптик камера",
+                    "санариптик сүрөт аппарат"
+                ],
+                "Karakalpak": [
+                    "sanlı fotokamera",
+                    "sanlı fotoapparat"
+                ],
+                "Tatar": [
+                    "санлы камера",
+                    "санлы фоторәсем аппараты",
+                    "санлы фотоаппарат"
+                ],
+                "Bashkir": [
+                    "һанлы фотаппарат",
+                    "һанлы камера"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dijital fotoğraf makinesi"
+                ],
+                "Azerbaijani": [
+                    "rəqəmsal fotoaparat"
+                ],
+                "Uyghur": [
+                    "رەقەملىك فوتوئاپپارات",
+                    "رەقەملىك كامېرا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rəqəmsal kamera"
+                ],
+                "Uzbek": [
+                    "raqamli fotoapparat",
+                    "raqamli kamera"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sayısal fotoğraf makinesi"
+                ]
+            }
+        }
+    ]
+}

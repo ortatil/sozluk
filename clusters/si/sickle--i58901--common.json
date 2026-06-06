@@ -1,0 +1,86 @@
+{
+    "id": "i58901",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sickle",
+    "en_definition": "an edge tool for cutting grass or crops; has a curved blade and a short handle",
+    "tr_word": "orak",
+    "tr_definition": "Ekin biçmeye yarayan, yarım daire biçiminde, metal bir bıçağı ve kısa bir sapı olan tarım aleti.",
+    "ru_word": "серп",
+    "ru_definition": "Ручное сельскохозяйственное орудие, представляющее собой изогнутый полукругом мелкозазубренный нож на короткой рукоятке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orak"
+                ],
+                "Azerbaijani": [
+                    "oraq"
+                ],
+                "Turkmen": [
+                    "orak"
+                ],
+                "Uzbek": [
+                    "o'roq"
+                ],
+                "Uyghur": [
+                    "ئوراق"
+                ],
+                "Kazakh": [
+                    "орақ"
+                ],
+                "Kyrgyz": [
+                    "орок",
+                    "орок-балка"
+                ],
+                "Karakalpak": [
+                    "oraq"
+                ],
+                "Tatar": [
+                    "урак"
+                ],
+                "Bashkir": [
+                    "ураҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mangal"
+                ],
+                "Turkmen": [
+                    "mangal"
+                ],
+                "Uyghur": [
+                    "مەڭزە"
+                ],
+                "Karakalpak": [
+                    "máńgі"
+                ],
+                "Tatar": [
+                    "мәңгел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəryaz"
+                ],
+                "Uzbek": [
+                    "dastora"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қол орақ"
+                ]
+            }
+        }
+    ]
+}

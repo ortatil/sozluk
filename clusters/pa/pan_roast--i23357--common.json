@@ -1,0 +1,127 @@
+{
+    "id": "i23357",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "pan roast",
+    "en_definition": "roast in a pan",
+    "tr_word": "tavada kızartmak",
+    "tr_definition": "bir tavada az miktarda yağ kullanarak yüksek ateşte pişirmek",
+    "ru_word": "обжаривать на сковороде",
+    "ru_definition": "жарить или запекать продукты в сковороде, часто начиная на плите и заканчивая в духовке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavada kızartmak",
+                    "tavada kavurmak",
+                    "tavada pişirmek"
+                ],
+                "Azerbaijani": [
+                    "dağlamaq"
+                ],
+                "Turkmen": [
+                    "daglamak"
+                ],
+                "Uzbek": [
+                    "tovada qovurmoq",
+                    "dogʻlamoq"
+                ],
+                "Uyghur": [
+                    "تاۋىدا قورۇماق",
+                    "تاۋىدا پىشۇرماق"
+                ],
+                "Kazakh": [
+                    "табада қуыру"
+                ],
+                "Tatar": [
+                    "табада кыздыру",
+                    "табада пешерү"
+                ],
+                "Bashkir": [
+                    "табала ҡыҙҙырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qovurmaq"
+                ],
+                "Turkmen": [
+                    "gowurmak"
+                ],
+                "Uzbek": [
+                    "qovurmoq"
+                ],
+                "Uyghur": [
+                    "قورۇماق"
+                ],
+                "Kyrgyz": [
+                    "кууруу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qızartmaq"
+                ],
+                "Tatar": [
+                    "кыздыру"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырыу",
+                    "ҡыҙҙырып бешереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бұқтырып қуыру"
+                ],
+                "Kyrgyz": [
+                    "бышыруу"
+                ],
+                "Karakalpak": [
+                    "bıqtırıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қуыру"
+                ],
+                "Karakalpak": [
+                    "quırıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pöşlemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "демдөө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sharpıu"
+                ]
+            }
+        }
+    ]
+}

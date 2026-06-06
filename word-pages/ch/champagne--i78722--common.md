@@ -1,0 +1,123 @@
+# Champagne
+| Field | Detail |
+|---|---|
+| **ID** | i78722 |
+| **English** | champagne |
+| **Type** | noun |
+| **Definition** | a white sparkling wine either produced in Champagne or resembling that produced there |
+| **Source** | common |
+| **Ortatil** | şampanya |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| шарап | şarap |
+
+```json
+{
+    "id": "i78722",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "champagne",
+    "en_definition": "a white sparkling wine either produced in Champagne or resembling that produced there",
+    "tr_word": "şampanya",
+    "tr_definition": "Fransa'nın Champagne bölgesinde üretilen veya oradakilere benzeyen beyaz köpüklü şarap",
+    "ru_word": "шампанское",
+    "ru_definition": "белое игристое вино, произведенное в Шампани или напоминающее его",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "köpüklü şarap"
+                ],
+                "Azerbaijani": [
+                    "köpüklü şərab"
+                ],
+                "Turkmen": [
+                    "köpürjikli şerap"
+                ],
+                "Uzbek": [
+                    "koʻpiklanuvchi may",
+                    "koʻpikli sharob"
+                ],
+                "Uyghur": [
+                    "كۆپۈكلىك شاراب",
+                    "كۆپۈكلىك ھاراق"
+                ],
+                "Kazakh": [
+                    "көпіршікті шарап"
+                ],
+                "Kyrgyz": [
+                    "көбүктүү шарап"
+                ],
+                "Karakalpak": [
+                    "kópіrshіme sharap"
+                ],
+                "Tatar": [
+                    "күбекләнгән шәраб",
+                    "күбекләнгән май"
+                ],
+                "Bashkir": [
+                    "күбекле шарап"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şampanya"
+                ],
+                "Azerbaijani": [
+                    "şampan şərabı"
+                ],
+                "Uyghur": [
+                    "شامپان شارابى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gazly şerap"
+                ],
+                "Uzbek": [
+                    "gazlangan sharob"
+                ],
+                "Karakalpak": [
+                    "gazlanǵan sharap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақ шарап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "атылма шарап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "шарап"
+                ]
+            }
+        }
+    ]
+}
+```
+

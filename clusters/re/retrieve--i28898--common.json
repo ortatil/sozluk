@@ -1,0 +1,161 @@
+{
+    "id": "i28898",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "retrieve",
+    "en_definition": "go for and bring back",
+    "tr_word": "geri getirmek",
+    "tr_definition": "gidip bir şeyi yerinden alıp geri getirmek",
+    "ru_word": "извлекать",
+    "ru_definition": "пойти и принести что-либо обратно",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "getirmek"
+                ],
+                "Azerbaijani": [
+                    "gətirmək",
+                    "qaytarmaq"
+                ],
+                "Turkmen": [
+                    "getirmek"
+                ],
+                "Uzbek": [
+                    "qaytarmoq"
+                ],
+                "Kazakh": [
+                    "қайтару",
+                    "қайтарып алу"
+                ],
+                "Kyrgyz": [
+                    "кайтаруу"
+                ],
+                "Karakalpak": [
+                    "qaytarıp alıo"
+                ],
+                "Tatar": [
+                    "кайтару"
+                ],
+                "Bashkir": [
+                    "ҡайтарыу",
+                    "килтереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "almak"
+                ],
+                "Turkmen": [
+                    "alyp gelmek"
+                ],
+                "Uzbek": [
+                    "olib kelmoq"
+                ],
+                "Uyghur": [
+                    "ئېلىپ كېلىش"
+                ],
+                "Kazakh": [
+                    "алып келу"
+                ],
+                "Kyrgyz": [
+                    "алып келүү"
+                ],
+                "Karakalpak": [
+                    "alıp kelio"
+                ],
+                "Tatar": [
+                    "алып кайту",
+                    "алып килү"
+                ],
+                "Bashkir": [
+                    "алып килеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tapıb gətirmək"
+                ],
+                "Turkmen": [
+                    "tapyp getirmek"
+                ],
+                "Uzbek": [
+                    "topib kelmoq"
+                ],
+                "Uyghur": [
+                    "تېپىپ كېلىش"
+                ],
+                "Kazakh": [
+                    "тауып алу"
+                ],
+                "Kyrgyz": [
+                    "таап келүү"
+                ],
+                "Karakalpak": [
+                    "taoıp alıo"
+                ],
+                "Bashkir": [
+                    "табып килтереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geri getirmek"
+                ],
+                "Azerbaijani": [
+                    "geri almaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kurtarmak"
+                ],
+                "Kyrgyz": [
+                    "куткаруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qaytarib olmoq"
+                ],
+                "Uyghur": [
+                    "قايتۇرۇپ كېلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bulup getirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzyna almak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "китереп бирү"
+                ]
+            }
+        }
+    ]
+}

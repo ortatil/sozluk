@@ -1,0 +1,147 @@
+# Purple loosestrife
+| Field | Detail |
+|---|---|
+| **ID** | i101821 |
+| **English** | purple loosestrife |
+| **Type** | noun |
+| **Definition** | marsh herb with a long spike of purple flowers; originally of Europe but now rampant in eastern United States |
+| **Source** | common |
+| **Ortatil** | qizilöt |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| талжапырақ | taljapıraq |
+| **Tatar** | |
+| кырлыбаш | kırlıbaş |
+| **Bashkir** | |
+| ҡыҙылтал | qızıltal |
+
+```json
+{
+    "id": "i101821",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "purple loosestrife",
+    "en_definition": "marsh herb with a long spike of purple flowers; originally of Europe but now rampant in eastern United States",
+    "tr_word": "tıbbi hezeran",
+    "tr_definition": "uzun mor çiçek salkımları olan, aslen Avrupa kökenli ancak Kuzey Amerika'da yayılan bir bataklık bitkisi",
+    "ru_word": "дербенник иволистный",
+    "ru_definition": "травянистое растение с длинными колосьями пурпурных цветков, растущее на болотах; родом из Европы, но широко распространившееся в США",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suw sarymsagy"
+                ],
+                "Uzbek": [
+                    "suv o'ti"
+                ],
+                "Kyrgyz": [
+                    "суу жээк чөбү"
+                ],
+                "Tatar": [
+                    "сукыр кычыткан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qizilo't",
+                    "qizil gul"
+                ],
+                "Kyrgyz": [
+                    "кызыл тал чөбү",
+                    "кызыл талча"
+                ],
+                "Karakalpak": [
+                    "qızıl talgúl"
+                ],
+                "Bashkir": [
+                    "ҡыҙылтал",
+                    "ҡыҙылтал үләне"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kırmızı keneotu"
+                ],
+                "Turkmen": [
+                    "gyrmyzy sarymsak"
+                ],
+                "Tatar": [
+                    "кырлы үлән",
+                    "кырлыбаш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "талжапырақ",
+                    "талжапырақ шөбі",
+                    "талтүстес талжапырақ"
+                ],
+                "Karakalpak": [
+                    "talgúl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tıbbi hevhulma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mor gevşeklikotu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "adi qanotu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qanotu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bənövşəyi qanotu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۆسۈن سۇ گۈلى",
+                    "سۆسۈن رەڭلىك سۇ گۈلى"
+                ]
+            }
+        }
+    ]
+}
+```
+

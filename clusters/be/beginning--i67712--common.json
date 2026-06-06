@@ -1,0 +1,129 @@
+{
+    "id": "i67712",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "beginning",
+    "en_definition": "the first part or section of something",
+    "tr_word": "başlangıç",
+    "tr_definition": "bir şeyin ilk bölümü veya kısmı",
+    "ru_word": "начало",
+    "ru_definition": "первая часть или раздел чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "başlangıç",
+                    "baş"
+                ],
+                "Azerbaijani": [
+                    "başlanğıc",
+                    "baş"
+                ],
+                "Turkmen": [
+                    "başlangyç",
+                    "baş",
+                    "başy"
+                ],
+                "Uzbek": [
+                    "boshlanish",
+                    "bosh"
+                ],
+                "Uyghur": [
+                    "باشلىنىش",
+                    "باش"
+                ],
+                "Kazakh": [
+                    "бас",
+                    "бастау",
+                    "бастама"
+                ],
+                "Kyrgyz": [
+                    "башталыш",
+                    "баш"
+                ],
+                "Karakalpak": [
+                    "bas",
+                    "baslanıs",
+                    "baslama"
+                ],
+                "Tatar": [
+                    "баш",
+                    "башлангыч"
+                ],
+                "Bashkir": [
+                    "баш",
+                    "башланыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "evvel"
+                ],
+                "Azerbaijani": [
+                    "əvvəl"
+                ],
+                "Uzbek": [
+                    "avval"
+                ],
+                "Uyghur": [
+                    "ئەۋۋەل"
+                ],
+                "Kazakh": [
+                    "әуел"
+                ],
+                "Karakalpak": [
+                    "áoel"
+                ],
+                "Tatar": [
+                    "әүвәл"
+                ],
+                "Bashkir": [
+                    "әүәл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iptida"
+                ],
+                "Azerbaijani": [
+                    "ibtida"
+                ],
+                "Turkmen": [
+                    "ibtida"
+                ],
+                "Uzbek": [
+                    "ibtidо"
+                ],
+                "Uyghur": [
+                    "ئىپتىدا"
+                ],
+                "Kyrgyz": [
+                    "ибтида"
+                ],
+                "Tatar": [
+                    "ибтида"
+                ],
+                "Bashkir": [
+                    "ибтида"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "алғаш"
+                ],
+                "Kyrgyz": [
+                    "алгач"
+                ]
+            }
+        }
+    ]
+}

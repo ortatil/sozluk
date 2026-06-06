@@ -1,0 +1,76 @@
+{
+    "id": "i78251",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lamb curry",
+    "en_definition": "curry made with lamb",
+    "tr_word": "kuzu körili",
+    "tr_definition": "Kuzu eti ile hazırlanan bir köri yemeği.",
+    "ru_word": "карри из ягненка",
+    "ru_definition": "Блюдо карри, приготовленное из мяса ягненка.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuzu körisi"
+                ],
+                "Azerbaijani": [
+                    "quzu əti xörəyi",
+                    "quzu qovurması",
+                    "quzu əti yeməyi"
+                ],
+                "Turkmen": [
+                    "guzy eti sousy",
+                    "guzy etli nahar",
+                    "guzy etli gowurma"
+                ],
+                "Uzbek": [
+                    "qo'zi go'shtli qayla",
+                    "qo'zi go'shtli dimlama",
+                    "qo'zi go'shtli xurush"
+                ],
+                "Uyghur": [
+                    "قوزا گۆشى قورۇمىسى",
+                    "قوزا گۆشى كۆرىسى"
+                ],
+                "Kazakh": [
+                    "қозы етінен жасалған бұқтырма",
+                    "қозы етінен жасалған тұздық",
+                    "қозы етінен жасалған сорпа"
+                ],
+                "Kyrgyz": [
+                    "козу этинен жасалган кари",
+                    "козу этинен жасалган ачуу тамак",
+                    "козу этинен жасалган соус"
+                ],
+                "Karakalpak": [
+                    "qozı etіnen jasalǵan taǵam",
+                    "qozı etіnen bұqtırılǵan taǵam",
+                    "qozı etіnen ashchı taǵam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәрән ите каррисы",
+                    "бәрән итеннән карри",
+                    "бәрән ите белән карри"
+                ],
+                "Bashkir": [
+                    "бәрәс ите менән тәмләткесле аш",
+                    "бәрәс ите менән быҡтырылған аш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "körili kuzu eti",
+                    "körili kuzu yemeği"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "id": "i52942",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "diplomatic building",
+    "en_definition": "government building in which diplomats live or work",
+    "tr_word": "diplomatik bina",
+    "tr_definition": "diplomatların yaşadığı veya çalıştığı hükümet binası",
+    "ru_word": "дипломатическое здание",
+    "ru_definition": "правительственное здание, в котором живут или работают дипломаты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elçilik"
+                ],
+                "Azerbaijani": [
+                    "elçilik"
+                ],
+                "Turkmen": [
+                    "ilçihana"
+                ],
+                "Uzbek": [
+                    "elchixona"
+                ],
+                "Uyghur": [
+                    "ئەلچىخانا"
+                ],
+                "Kyrgyz": [
+                    "элчилик"
+                ],
+                "Tatar": [
+                    "илчелек",
+                    "илчеханә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sefarethane"
+                ],
+                "Azerbaijani": [
+                    "səfirlik"
+                ],
+                "Turkmen": [
+                    "sefarethana"
+                ],
+                "Uyghur": [
+                    "سەپارتخانا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "wekilhana"
+                ],
+                "Uzbek": [
+                    "vakolatxona"
+                ],
+                "Tatar": [
+                    "вәкиллек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "konsolosluk"
+                ],
+                "Uzbek": [
+                    "konsulxona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "елшілік"
+                ],
+                "Karakalpak": [
+                    "elshixana",
+                    "elshilik imaratı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өкілдік"
+                ],
+                "Kyrgyz": [
+                    "өкүлчүлүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temsilcilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nümayəndəlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дипломатиялық ғимарат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "илселек",
+                    "илсехана"
+                ]
+            }
+        }
+    ]
+}

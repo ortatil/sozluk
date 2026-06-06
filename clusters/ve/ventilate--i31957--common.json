@@ -1,0 +1,116 @@
+{
+    "id": "i31957",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "ventilate",
+    "en_definition": "circulate through and freshen",
+    "tr_word": "havalandırmak",
+    "tr_definition": "Bir yerin havasını tazelemek amacıyla hava akımı sağlamak",
+    "ru_word": "проветривать",
+    "ru_definition": "Обеспечивать свободную циркуляцию воздуха для его очищения или охлаждения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yelletmek"
+                ],
+                "Azerbaijani": [
+                    "yelçəkmək"
+                ],
+                "Turkmen": [
+                    "ýellendirmek"
+                ],
+                "Uzbek": [
+                    "yelpimoq"
+                ],
+                "Kazakh": [
+                    "желдету"
+                ],
+                "Kyrgyz": [
+                    "желдетүү",
+                    "желдет"
+                ],
+                "Karakalpak": [
+                    "jeldetu"
+                ],
+                "Tatar": [
+                    "җилләтү"
+                ],
+                "Bashkir": [
+                    "елләтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "havalandırmak",
+                    "hava aldırmak"
+                ],
+                "Azerbaijani": [
+                    "havalandırmaq"
+                ],
+                "Turkmen": [
+                    "howalandyrmak",
+                    "howasyny çalyşmak"
+                ],
+                "Uzbek": [
+                    "havosini almashtirmoq",
+                    "havolantirmoq"
+                ],
+                "Uyghur": [
+                    "ھاۋا ئالماشتۇرماق",
+                    "ھاۋا يەڭگىلىمەك"
+                ],
+                "Tatar": [
+                    "һаваландыру",
+                    "һавалау"
+                ],
+                "Bashkir": [
+                    "һауаландырыу",
+                    "һауа алмаштырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shamollatmoq"
+                ],
+                "Uyghur": [
+                    "شاماللاتماق"
+                ],
+                "Karakalpak": [
+                    "samallatıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ауаландыру"
+                ],
+                "Kyrgyz": [
+                    "аба алмаштыруу"
+                ],
+                "Karakalpak": [
+                    "aoalandırıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təzələmək"
+                ],
+                "Kazakh": [
+                    "тазарту"
+                ]
+            }
+        }
+    ]
+}

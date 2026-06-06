@@ -1,0 +1,288 @@
+# Troubleshooter
+| Field | Detail |
+|---|---|
+| **ID** | i93792 |
+| **English** | troubleshooter |
+| **Type** | noun |
+| **Definition** | a worker whose job is to locate and fix sources of trouble (especially in mechanical devices) |
+| **Source** | common |
+| **Ortatil** | usta |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **usta** | **mütahassis** | **tüzätüwçü** | **tämirci** | **şeber** |
+|---|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Turkmen | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Uyghur | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Kazakh | ❌ | ❌ | ✅ | ❌ | ✅ |
+| Kyrgyz | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ✅ | ❌ | ✅ |
+| Tatar | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Bashkir | ✅ | ❌ | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.33 | 0 | 0.67 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 0.50 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0 | 0.80 | 0 | 0.60 |
+| *In All* | ✅ |  |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |  |
+| **O'TQ** | **3.80** | **1.33** | **1.30** | **1.17** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئۇستا | usta |
+| تۈزەتكۈچى | tüzätküçi |
+| مۇتەخەسسىس | mutäxässis |
+| رېمونتچى | remontçi |
+| **Kazakh** | |
+| түзетуші | tüzetuşi |
+| шебер | şeber |
+| жөндеуші | jöndeuşi |
+| баптаушы | baptauşı |
+| **Kyrgyz** | |
+| уста | usta |
+| чебер | çeber |
+| жөндөөчү | jöndööçü |
+| оңдоочу | oñdooçu |
+| **Tatar** | |
+| оста | osta |
+| төзәтүче | tözätüçe |
+| көйләүче | köyläüçe |
+| **Bashkir** | |
+| оҫта | osta |
+| төҙәтеүсе | tözäteüse |
+| көйләүсе | köyläüse |
+| белгес | belges |
+
+```json
+{
+    "id": "i93792",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "troubleshooter",
+    "en_definition": "a worker whose job is to locate and fix sources of trouble (especially in mechanical devices)",
+    "tr_word": "sorun giderici",
+    "tr_definition": "Özellikle mekanik veya teknik sistemlerdeki sorunların kaynağını bulan ve bunları çözen uzman kişi.",
+    "ru_word": "специалист по устранению неполадок",
+    "ru_definition": "Сотрудник, в обязанности которого входит поиск и устранение причин неисправностей, особенно в технических устройствах.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ustabaşı"
+                ],
+                "Azerbaijani": [
+                    "usta"
+                ],
+                "Turkmen": [
+                    "ussat"
+                ],
+                "Uzbek": [
+                    "ustoz"
+                ],
+                "Uyghur": [
+                    "ئۇستا"
+                ],
+                "Kyrgyz": [
+                    "уста"
+                ],
+                "Karakalpak": [
+                    "usta"
+                ],
+                "Tatar": [
+                    "оста"
+                ],
+                "Bashkir": [
+                    "оҫта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۈزەتكۈچى"
+                ],
+                "Kazakh": [
+                    "түзетуші"
+                ],
+                "Karakalpak": [
+                    "túzetuoshi"
+                ],
+                "Tatar": [
+                    "төзәтүче"
+                ],
+                "Bashkir": [
+                    "төҙәтеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tamirci"
+                ],
+                "Azerbaijani": [
+                    "təmirçi"
+                ],
+                "Uzbek": [
+                    "tamirlovchi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mütəxəssis"
+                ],
+                "Uzbek": [
+                    "mutaxassis"
+                ],
+                "Uyghur": [
+                    "مۇتەخەسسىس"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "шебер"
+                ],
+                "Kyrgyz": [
+                    "чебер"
+                ],
+                "Karakalpak": [
+                    "sheber"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nasazlıq aradan qaldıran"
+                ],
+                "Uzbek": [
+                    "nosozliklarni bartaraf etuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەل قىلغۇچى"
+                ],
+                "Tatar": [
+                    "хәл итүче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жөндеуші"
+                ],
+                "Kyrgyz": [
+                    "жөндөөчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оңдоочу"
+                ],
+                "Karakalpak": [
+                    "ońlaoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көйләүче"
+                ],
+                "Bashkir": [
+                    "көйләүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "teknisyen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bakımcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sorun giderici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sazlaýjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bejeriş hünärmeni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kemçilik düzediji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muammo yechuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رېمونتچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "баптаушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "белгес"
+                ]
+            }
+        }
+    ]
+}
+```
+

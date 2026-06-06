@@ -1,0 +1,104 @@
+{
+    "id": "i27552",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "wean",
+    "en_definition": "gradually deprive (infants and young mammals) of mother's milk",
+    "tr_word": "sütten kesmek",
+    "tr_definition": "Bebekleri veya memeli yavrularını anne sütünden yavaş yavaş mahrum bırakmak",
+    "ru_word": "отнимать от груди",
+    "ru_definition": "Постепенно прекращать кормление младенца или детеныша млекопитающего материнским молоком",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sütten kesmek",
+                    "sütten ayırmak"
+                ],
+                "Azerbaijani": [
+                    "süddən kəsmək",
+                    "süddən ayırmaq"
+                ],
+                "Turkmen": [
+                    "süýtden kesmek",
+                    "süýtden aýyrmak"
+                ],
+                "Uzbek": [
+                    "sutdan chiqarmoq",
+                    "sutdan ajratmoq"
+                ],
+                "Uyghur": [
+                    "سۈتتىن ئايرىماق",
+                    "سۈتتىن چىقارماق",
+                    "سۈتتىن كېسىلماق"
+                ],
+                "Kazakh": [
+                    "сүттен шығару",
+                    "сүттен айыру"
+                ],
+                "Kyrgyz": [
+                    "сүттөн чыгаруу",
+                    "сүттөн ажыратуу"
+                ],
+                "Karakalpak": [
+                    "sútten shıǵarıo",
+                    "sútten ayırıo"
+                ],
+                "Tatar": [
+                    "сүттән аеру",
+                    "сүттән кисү"
+                ],
+                "Bashkir": [
+                    "һөттән айырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "емшектен шығару",
+                    "емшектен айыру"
+                ],
+                "Kyrgyz": [
+                    "эмчектен чыгаруу"
+                ],
+                "Karakalpak": [
+                    "emshekten shıǵarıo"
+                ],
+                "Bashkir": [
+                    "имсәктән айырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "memeden kesmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻkrakdan ayirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "имчәктән аеру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "айырыу"
+                ]
+            }
+        }
+    ]
+}

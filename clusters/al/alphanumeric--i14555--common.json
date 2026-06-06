@@ -1,0 +1,92 @@
+{
+    "id": "i14555",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "alphanumeric",
+    "en_definition": "of or pertaining to alphanumeric characters",
+    "tr_word": "alfanümerik",
+    "tr_definition": "hem harf hem de rakamlardan oluşan karakter dizisi",
+    "ru_word": "буквенно-цифровой",
+    "ru_definition": "состоящий из букв и цифр",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harf ve rakamlı"
+                ],
+                "Azerbaijani": [
+                    "hərf-rəqəmli",
+                    "hərfli-rəqəmli"
+                ],
+                "Turkmen": [
+                    "harp-sanly",
+                    "harply-sanly"
+                ],
+                "Uzbek": [
+                    "harf-raqamli"
+                ],
+                "Uyghur": [
+                    "ھەرپ-سانلىق",
+                    "ھەرپ ۋە سانلىق"
+                ],
+                "Karakalpak": [
+                    "hárip-sanlı"
+                ],
+                "Tatar": [
+                    "хәреф-санлы",
+                    "хәреф-сан"
+                ],
+                "Bashkir": [
+                    "хәреф-һанлы",
+                    "хәреф-һан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әріптік-цифрлық"
+                ],
+                "Kyrgyz": [
+                    "арип-сандык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alfasayısal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "raqamli-harfli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңбалық-цифрлық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тамга-сандык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "san-háripli"
+                ]
+            }
+        }
+    ]
+}

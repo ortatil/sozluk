@@ -1,0 +1,199 @@
+# Squatter
+| Field | Detail |
+|---|---|
+| **ID** | i93248 |
+| **English** | squatter |
+| **Type** | noun |
+| **Definition** | someone who settles on land without right or title |
+| **Source** | common |
+| **Ortatil** | ğäsbkär |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| үзбаш | üzbaş |
+
+```json
+{
+    "id": "i93248",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "squatter",
+    "en_definition": "someone who settles on land without right or title",
+    "tr_word": "işgalci",
+    "tr_definition": "başkasına ait bir mülke veya araziye yasal bir hakkı olmaksızın yerleşen kimse",
+    "ru_word": "сквоттер",
+    "ru_definition": "лицо, самовольно вселившееся в чужое незаселённое здание или на незанятый земельный участок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "basyp alyjy"
+                ],
+                "Uzbek": [
+                    "bosqinchi"
+                ],
+                "Kazakh": [
+                    "басып алушы"
+                ],
+                "Kyrgyz": [
+                    "басып алуучу"
+                ],
+                "Karakalpak": [
+                    "basıp alıoshı"
+                ],
+                "Tatar": [
+                    "басып алучы"
+                ],
+                "Bashkir": [
+                    "баҫып алыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "rugsatsyz ýerleşen"
+                ],
+                "Uyghur": [
+                    "رۇخسەتسىز ئولتۇراقلاشقۇچى"
+                ],
+                "Kazakh": [
+                    "рұқсатсыз қоныстанушы"
+                ],
+                "Kyrgyz": [
+                    "уруксатсыз жашоочу"
+                ],
+                "Bashkir": [
+                    "рөхсәтһеҙ килеп урынлашыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻzboshimcha"
+                ],
+                "Uyghur": [
+                    "ئۆز بېشىمچە ئولتۇراقلاشقۇچى"
+                ],
+                "Tatar": [
+                    "үзбаш"
+                ],
+                "Bashkir": [
+                    "үҙбаш килеп ултырыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "işgalci"
+                ],
+                "Azerbaijani": [
+                    "işğalçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəsbkar"
+                ],
+                "Uzbek": [
+                    "gʻasb"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "заңсыз қоныстанушы"
+                ],
+                "Karakalpak": [
+                    "rásmiylestirilmegen qonısıoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gecekonducu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fuzuli şagil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müstövli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çozant"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "erksiz göçüp gelen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "joylashuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يەر ئىگىلىۋالغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өзүм билемдик менен отурукташуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tiykarsız jaylasıoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хокуксыз урнашучы"
+                ]
+            }
+        }
+    ]
+}
+```
+

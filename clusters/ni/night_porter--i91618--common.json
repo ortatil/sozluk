@@ -1,0 +1,87 @@
+{
+    "id": "i91618",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "night porter",
+    "en_definition": "a porter on duty during the night",
+    "tr_word": "gece bekçisi",
+    "tr_definition": "Gece boyunca bir otel veya binada hizmet veren görevli.",
+    "ru_word": "ночной портье",
+    "ru_definition": "Сотрудник гостиницы, дежурящий в ночное время.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tungi qorovul",
+                    "tungi darbon",
+                    "tungi posbon"
+                ],
+                "Kazakh": [
+                    "түнгі күзетші",
+                    "түнгі есікші",
+                    "түнгі қызметші"
+                ],
+                "Kyrgyz": [
+                    "түнкү кароолчу",
+                    "түнкү күзөтчү",
+                    "түнкү эшик агасы"
+                ],
+                "Karakalpak": [
+                    "túngi esikshi"
+                ],
+                "Tatar": [
+                    "төнге сакчы"
+                ],
+                "Bashkir": [
+                    "төнгө ҡарауылсы",
+                    "төнгө һаҡсы",
+                    "төнгө хеҙмәткәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gece bekçisi",
+                    "gece nöbetçisi",
+                    "gece kapıcısı"
+                ],
+                "Azerbaijani": [
+                    "gecə növbətçisi",
+                    "gecə qapıçısı",
+                    "gecə keşikçisi"
+                ],
+                "Turkmen": [
+                    "gije garawuly",
+                    "gije nobatçysy",
+                    "gijeki gapyçy"
+                ],
+                "Uyghur": [
+                    "كېچىلىك قاراۋۇل",
+                    "كېچىلىك دەرۋازىۋان",
+                    "كېچىلىك پاسبان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "túngi kúzetshi",
+                    "túngi xızmetker"
+                ],
+                "Tatar": [
+                    "төнге хезмәткәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төнге каравылчы"
+                ]
+            }
+        }
+    ]
+}

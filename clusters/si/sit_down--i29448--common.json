@@ -1,0 +1,138 @@
+{
+    "id": "i29448",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "sit",
+    "en_definition": "be seated",
+    "tr_word": "oturmak",
+    "tr_definition": "Bir yere yerleşmek, oturma eylemini gerçekleştirmek",
+    "ru_word": "сидеть",
+    "ru_definition": "Находиться в сидячем положении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oturmak"
+                ],
+                "Azerbaijani": [
+                    "oturmaq"
+                ],
+                "Turkmen": [
+                    "oturmak"
+                ],
+                "Uzbek": [
+                    "o'tirmoq",
+                    "o'tirishmoq"
+                ],
+                "Uyghur": [
+                    "ئولتۇرماق",
+                    "ئولتۇرۇشماق"
+                ],
+                "Kazakh": [
+                    "отыру"
+                ],
+                "Kyrgyz": [
+                    "отуруу"
+                ],
+                "Karakalpak": [
+                    "otırıo"
+                ],
+                "Tatar": [
+                    "утырырга",
+                    "утырып торырга"
+                ],
+                "Bashkir": [
+                    "ултырырға",
+                    "ултырып торорға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yerleşmek"
+                ],
+                "Turkmen": [
+                    "jaýlaşmak"
+                ],
+                "Uzbek": [
+                    "joylashmoq"
+                ],
+                "Kazakh": [
+                    "жайғасу"
+                ],
+                "Kyrgyz": [
+                    "жайгашуу"
+                ],
+                "Karakalpak": [
+                    "jaylasıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kurulmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tünemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əyləşmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çökmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قارار تاپماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қону"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "орун алуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "түбән төшәргә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ултырып алырға"
+                ]
+            }
+        }
+    ]
+}

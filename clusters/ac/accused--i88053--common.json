@@ -1,0 +1,142 @@
+{
+    "id": "i88053",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "accused",
+    "en_definition": "a defendant in a criminal proceeding",
+    "tr_word": "sanık",
+    "tr_definition": "Bir suç işlediği iddiasıyla mahkemeye sevk edilen kişi.",
+    "ru_word": "обвиняемый",
+    "ru_definition": "Лицо, в отношении которого вынесено постановление о привлечении в качестве обвиняемого в уголовном процессе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ayblanuvchi"
+                ],
+                "Uyghur": [
+                    "ئەيىبلەنگۈچى"
+                ],
+                "Kazakh": [
+                    "айыпталушы",
+                    "айыпкер"
+                ],
+                "Kyrgyz": [
+                    "айыпталуучу",
+                    "айыпкер"
+                ],
+                "Karakalpak": [
+                    "ayıplanıushı",
+                    "ayıpker"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "جاۋابكار"
+                ],
+                "Kazakh": [
+                    "жауапкер"
+                ],
+                "Karakalpak": [
+                    "juoapker"
+                ],
+                "Tatar": [
+                    "җавапка тартылучы"
+                ],
+                "Bashkir": [
+                    "яуаплы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müttaham"
+                ],
+                "Azerbaijani": [
+                    "müttəhim"
+                ],
+                "Turkmen": [
+                    "müttem"
+                ],
+                "Uyghur": [
+                    "مۇتتەھەم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "maznun"
+                ],
+                "Uzbek": [
+                    "maznun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təqsirləndirilən"
+                ],
+                "Turkmen": [
+                    "taksyrly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "günahlandırılan"
+                ],
+                "Turkmen": [
+                    "günäkärlenýän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гаепләнүче"
+                ],
+                "Bashkir": [
+                    "ғәйепләнеүсе",
+                    "ғәйепләнеүсе яҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sanık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sudlanuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күнөөлөнүүчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәхкәмә ителүче"
+                ]
+            }
+        }
+    ]
+}

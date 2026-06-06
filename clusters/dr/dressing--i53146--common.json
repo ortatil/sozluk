@@ -1,0 +1,126 @@
+{
+    "id": "i53146",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dressing",
+    "en_definition": "a cloth covering for a wound or sore",
+    "tr_word": "pansuman",
+    "tr_definition": "bir yaranın temizlenmesi ve dış etkilerden korunması için üzerine uygulanan bez veya sargı",
+    "ru_word": "повязка",
+    "ru_definition": "кусок ткани или другого материала, накладываемый на рану для защиты или лечения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tənzif"
+                ],
+                "Turkmen": [
+                    "daňy"
+                ],
+                "Uzbek": [
+                    "doka"
+                ],
+                "Uyghur": [
+                    "تېڭىق"
+                ],
+                "Kazakh": [
+                    "таңғыш"
+                ],
+                "Kyrgyz": [
+                    "таңгыч"
+                ],
+                "Karakalpak": [
+                    "tańǵısh"
+                ],
+                "Tatar": [
+                    "таңгыч"
+                ],
+                "Bashkir": [
+                    "таңғыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağ"
+                ],
+                "Azerbaijani": [
+                    "bağlam"
+                ],
+                "Uzbek": [
+                    "bogʻlam"
+                ],
+                "Kazakh": [
+                    "байлам"
+                ],
+                "Kyrgyz": [
+                    "байлам"
+                ],
+                "Karakalpak": [
+                    "baylam"
+                ],
+                "Tatar": [
+                    "бәйләвеч",
+                    "бәйләм"
+                ],
+                "Bashkir": [
+                    "бәйләмес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sargı",
+                    "yakı"
+                ],
+                "Azerbaijani": [
+                    "sarğı"
+                ],
+                "Turkmen": [
+                    "sargyny",
+                    "sargy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pansuman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "latta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېڭىق ماتېرىيالى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "داكا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жамаа"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+# Ticket book
+| Field | Detail |
+|---|---|
+| **ID** | i70197 |
+| **English** | ticket book |
+| **Type** | noun |
+| **Definition** | a book of tickets that can be torn out and used |
+| **Source** | common |
+| **Ortatil** | koçan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i70197",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ticket book",
+    "en_definition": "a book of tickets that can be torn out and used",
+    "tr_word": "bilet koçanı",
+    "tr_definition": "İçinden biletlerin koparılıp kullanılabildiği bilet defteri.",
+    "ru_word": "билетная книжка",
+    "ru_definition": "сброшюрованные в виде книжки билеты, которые можно отрывать и использовать.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilet koçanı",
+                    "bilet defteri"
+                ],
+                "Azerbaijani": [
+                    "bilet dəftərçəsi",
+                    "bilet kitabçası"
+                ],
+                "Uzbek": [
+                    "bilet daftarchasi"
+                ],
+                "Uyghur": [
+                    "بېلەت دەپتىرى",
+                    "بېلەت توپلىمى"
+                ],
+                "Kazakh": [
+                    "билет кітапшасы",
+                    "билет дәптері"
+                ],
+                "Kyrgyz": [
+                    "билет китепчеси",
+                    "билеттик китепче"
+                ],
+                "Karakalpak": [
+                    "bilet kitapshası"
+                ],
+                "Tatar": [
+                    "билет кенәгәсе",
+                    "билет дәфтәре"
+                ],
+                "Bashkir": [
+                    "билет китапсығы",
+                    "билет дәфтәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koçan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "petekçe",
+                    "petek depderçesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "talon depderçesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chipta daftarchasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dáptershe"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,164 @@
+{
+    "id": "i1829",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "porous",
+    "en_definition": "full of pores or vessels or holes",
+    "tr_word": "gözenekli",
+    "tr_definition": "üzerinde çok sayıda küçük delik veya gözenek bulunan",
+    "ru_word": "пористый",
+    "ru_definition": "имеющий большое количество пор или мелких отверстий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "delikli"
+                ],
+                "Azerbaijani": [
+                    "dəlikli"
+                ],
+                "Turkmen": [
+                    "deşikli"
+                ],
+                "Uzbek": [
+                    "teshik-teshik"
+                ],
+                "Kazakh": [
+                    "тесікті"
+                ],
+                "Kyrgyz": [
+                    "тешиктүү"
+                ],
+                "Karakalpak": [
+                    "tesikli"
+                ],
+                "Tatar": [
+                    "тишекле"
+                ],
+                "Bashkir": [
+                    "тишекле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gözenekli"
+                ],
+                "Turkmen": [
+                    "gözenekli"
+                ],
+                "Kyrgyz": [
+                    "көзөнөктүү",
+                    "көз-көз"
+                ],
+                "Tatar": [
+                    "күзәнәкле"
+                ],
+                "Bashkir": [
+                    "күҙәнәкле",
+                    "күҙәүле",
+                    "күҙ-күҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mesameli"
+                ],
+                "Azerbaijani": [
+                    "məsaməli"
+                ],
+                "Uyghur": [
+                    "مەسەملىك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "g'ovak",
+                    "g'ovakdor"
+                ],
+                "Kazakh": [
+                    "кеуекті"
+                ],
+                "Karakalpak": [
+                    "keuek",
+                    "keuekli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geçirgen"
+                ],
+                "Azerbaijani": [
+                    "keçirici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öýjükli"
+                ],
+                "Uyghur": [
+                    "تۆشۈكلۈك",
+                    "تۆشۈك-تۆشۈك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қуысты"
+                ],
+                "Tatar": [
+                    "куышлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "boşluqlu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mayda teshikli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саңылаулы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борпоң"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ǵuj"
+                ]
+            }
+        }
+    ]
+}

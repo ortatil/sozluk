@@ -1,0 +1,129 @@
+# Cauliflower
+| Field | Detail |
+|---|---|
+| **ID** | i99667 |
+| **English** | cauliflower |
+| **Type** | noun |
+| **Definition** | a plant having a large edible head of crowded white flower buds |
+| **Source** | common |
+| **Ortatil** | gülkäpistä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **gülkäpistä** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.13** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| گۈلكاپىستا | gülkapista |
+| **Kazakh** | |
+| гүлқабат | gülqabat |
+| **Tatar** | |
+| гөлкәбестә | gölkäbestä |
+| **Bashkir** | |
+| гөлкәбеҫтә | gölkäbestä |
+
+```json
+{
+    "id": "i99667",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cauliflower",
+    "en_definition": "a plant having a large edible head of crowded white flower buds",
+    "tr_word": "karnabahar",
+    "tr_definition": "Sıkı, beyaz çiçek tomurcuklarından oluşan büyük, yenilebilir bir başı olan bitki.",
+    "ru_word": "цветная капуста",
+    "ru_definition": "Растение с крупной съедобной головкой из плотно прилегающих белых цветочных бутонов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gül kələm",
+                    "gülkələm"
+                ],
+                "Turkmen": [
+                    "gül kelem"
+                ],
+                "Uzbek": [
+                    "gulkaram"
+                ],
+                "Uyghur": [
+                    "گۈلكاپىستا",
+                    "گۈللۈك كاپىستا"
+                ],
+                "Kazakh": [
+                    "гүлқабат"
+                ],
+                "Kyrgyz": [
+                    "гүл капуста",
+                    "гүлдүү капуста"
+                ],
+                "Karakalpak": [
+                    "gúlli qırıqqabat",
+                    "gúlkárám"
+                ],
+                "Tatar": [
+                    "гөлкәбестә"
+                ],
+                "Bashkir": [
+                    "гөлкәбеҫтә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ak kelem"
+                ],
+                "Uzbek": [
+                    "oq karam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чәчәк кәбестә"
+                ],
+                "Bashkir": [
+                    "сәскәле кәбеҫтә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karnabahar",
+                    "karnabit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "гүлді қырыққабат"
+                ]
+            }
+        }
+    ]
+}
+```
+

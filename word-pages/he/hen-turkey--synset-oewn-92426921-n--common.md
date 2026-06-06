@@ -1,0 +1,140 @@
+# Hen turkey
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-92426921-n |
+| **English** | hen turkey |
+| **Type** | noun |
+| **Definition** | meat of a hen tukey |
+| **Source** | common |
+| **Ortatil** | indyık |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kürkä** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| күрп | kürp |
+| индейка | indeyka |
+| **Tatar** | |
+| күркә | kürkä |
+| **Bashkir** | |
+| күркә | kürkä |
+
+```json
+{
+    "id": "synset-oewn-92426921-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hen turkey",
+    "en_definition": "meat of a hen tukey",
+    "tr_word": "dişi hindi eti",
+    "tr_definition": "dişi hindiden elde edilen et",
+    "ru_word": "мясо индейки",
+    "ru_definition": "мясо самки индейки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kurka go'shti"
+                ],
+                "Kazakh": [
+                    "күркетауық еті",
+                    "күрке еті"
+                ],
+                "Kyrgyz": [
+                    "күрп",
+                    "күрп эти"
+                ],
+                "Karakalpak": [
+                    "kúrke tauıq",
+                    "kúrke"
+                ],
+                "Tatar": [
+                    "күркә ите",
+                    "күркә"
+                ],
+                "Bashkir": [
+                    "күркә ите",
+                    "күркә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hindi eti"
+                ],
+                "Azerbaijani": [
+                    "hinduşka əti"
+                ],
+                "Turkmen": [
+                    "indýuk eti",
+                    "indýuşka eti",
+                    "indýuk"
+                ],
+                "Uzbek": [
+                    "induk go'shti"
+                ],
+                "Kyrgyz": [
+                    "индейка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qulut"
+                ],
+                "Uzbek": [
+                    "g'ul-g'ul go'shti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dişi hindi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "fərə hinduşka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مېكىيان غولجا گۆشى",
+                    "مېكىيان كۈركە گۆشى",
+                    "مېكىيان مىسرى گۆشى"
+                ]
+            }
+        }
+    ]
+}
+```
+

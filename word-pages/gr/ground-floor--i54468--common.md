@@ -1,0 +1,179 @@
+# Ground floor
+| Field | Detail |
+|---|---|
+| **ID** | i54468 |
+| **English** | ground floor |
+| **Type** | noun |
+| **Definition** | the floor of a building that is at or nearest to the level of the ground around the building |
+| **Source** | common |
+| **Ortatil** | zämin |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **zämin** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.17** |
+
+```json
+{
+    "id": "i54468",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ground floor",
+    "en_definition": "the floor of a building that is at or nearest to the level of the ground around the building",
+    "tr_word": "zemin kat",
+    "tr_definition": "Bir binanın yer seviyesinde veya yer seviyesine en yakın olan katı.",
+    "ru_word": "первый этаж",
+    "ru_definition": "Этаж здания, находящийся на уровне земли или непосредственно над ним.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "giriş katı"
+                ],
+                "Kazakh": [
+                    "бірінші қабат"
+                ],
+                "Kyrgyz": [
+                    "биринчи кабат"
+                ],
+                "Karakalpak": [
+                    "birinshi qabat"
+                ],
+                "Tatar": [
+                    "беренче кат"
+                ],
+                "Bashkir": [
+                    "беренсе ҡат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zemin kat"
+                ],
+                "Azerbaijani": [
+                    "zəmin"
+                ],
+                "Turkmen": [
+                    "zemin"
+                ],
+                "Uzbek": [
+                    "zamin"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "birinci mərtəbə"
+                ],
+                "Turkmen": [
+                    "birinji gat"
+                ],
+                "Uzbek": [
+                    "birinchi qavat"
+                ],
+                "Uyghur": [
+                    "بىرىنچى قەۋەت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەنكى قەۋەت"
+                ],
+                "Kazakh": [
+                    "төменгі қабат"
+                ],
+                "Kyrgyz": [
+                    "төмөнкү кабат"
+                ],
+                "Karakalpak": [
+                    "tómengi qabat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayakaltı"
+                ],
+                "Turkmen": [
+                    "aşaky gat"
+                ],
+                "Tatar": [
+                    "аскы кат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жер қабаты"
+                ],
+                "Kyrgyz": [
+                    "жер кабат"
+                ],
+                "Karakalpak": [
+                    "jer qabat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "түбән кат"
+                ],
+                "Bashkir": [
+                    "түбәнге ҡат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "alt mərtəbə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pastki qavat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاستىنقى قەۋەت"
+                ]
+            }
+        }
+    ]
+}
+```
+

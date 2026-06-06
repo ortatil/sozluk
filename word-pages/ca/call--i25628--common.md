@@ -1,0 +1,204 @@
+# Call
+| Field | Detail |
+|---|---|
+| **ID** | i25628 |
+| **English** | call |
+| **Type** | verb |
+| **Definition** | get or try to get into communication (with someone) by telephone |
+| **Source** | common |
+| **Ortatil** | häwärläşmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **häwärläşmäk** | **şaltıratmaq** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ❌ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 0.33 | 0.33 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.80 | 0.40 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **2.63** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| خەۋەرلەشمەك | xävärläşmäk |
+| **Kazakh** | |
+| хабарласу | xabarlasu |
+| **Kyrgyz** | |
+| чалуу | çaluu |
+| **Tatar** | |
+| хәбәрләшү | xäbärläşü |
+| шалтырату | şaltıratu |
+| эндәшү | endäşü |
+| **Bashkir** | |
+| хәбәрләшеү | xäbärläşeü |
+| ҡыңғыраулау | qıñğıraulau |
+| шылтыратыу | şıltıratıu |
+
+```json
+{
+    "id": "i25628",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "call",
+    "en_definition": "get or try to get into communication (with someone) by telephone",
+    "tr_word": "aramak",
+    "tr_definition": "birini telefonla arayarak iletişim kurmaya çalışmak",
+    "ru_word": "звонить",
+    "ru_definition": "пытаться связаться с кем-либо по телефону",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telefon etmek"
+                ],
+                "Azerbaijani": [
+                    "telefon açmaq"
+                ],
+                "Turkmen": [
+                    "telefon etmek"
+                ],
+                "Uzbek": [
+                    "tel qilmoq"
+                ],
+                "Uyghur": [
+                    "تېلېفون قىلماق",
+                    "تېلېفون ئۇرماق"
+                ],
+                "Kazakh": [
+                    "телефон соғу"
+                ],
+                "Kyrgyz": [
+                    "телефон чалуу"
+                ],
+                "Karakalpak": [
+                    "telefon etiu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "habarlaşmak"
+                ],
+                "Uyghur": [
+                    "خەۋەرلەشمەك"
+                ],
+                "Kazakh": [
+                    "хабарласу"
+                ],
+                "Karakalpak": [
+                    "xabarlasıu"
+                ],
+                "Tatar": [
+                    "хәбәрләшү"
+                ],
+                "Bashkir": [
+                    "хәбәрләшеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qo'ng'iroq qilmoq"
+                ],
+                "Kazakh": [
+                    "қоңырау шалу"
+                ],
+                "Kyrgyz": [
+                    "коңгуроо кылуу"
+                ],
+                "Karakalpak": [
+                    "qońırau shalıu"
+                ],
+                "Bashkir": [
+                    "ҡыңғыраулау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çağırmak"
+                ],
+                "Tatar": [
+                    "шалтырату"
+                ],
+                "Bashkir": [
+                    "шылтыратыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əlaqə saxlamaq"
+                ],
+                "Uzbek": [
+                    "aloqaga chiqmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aramak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "zəng etmək",
+                    "zəng vurmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jaň etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sim qoqmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чалуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эндәшү"
+                ]
+            }
+        }
+    ]
+}
+```
+

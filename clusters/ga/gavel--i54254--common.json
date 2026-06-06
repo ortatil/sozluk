@@ -1,0 +1,101 @@
+{
+    "id": "i54254",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "gavel",
+    "en_definition": "a small mallet used by a presiding officer or a judge",
+    "tr_word": "tokmak",
+    "tr_definition": "Bir başkanın veya hakimin dikkat çekmek veya oturumu yönetmek için kullandığı küçük çekiç.",
+    "ru_word": "молоток",
+    "ru_definition": "небольшой молоток, используемый председательствующим или судьей для привлечения внимания или открытия/закрытия заседания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tokmak"
+                ],
+                "Azerbaijani": [
+                    "toqmaq"
+                ],
+                "Turkmen": [
+                    "tokmak"
+                ],
+                "Uzbek": [
+                    "to'qmoqcha"
+                ],
+                "Uyghur": [
+                    "توقماق"
+                ],
+                "Kazakh": [
+                    "тоқпақ"
+                ],
+                "Kyrgyz": [
+                    "токмок"
+                ],
+                "Karakalpak": [
+                    "toqpaqsha"
+                ],
+                "Tatar": [
+                    "тукымак"
+                ],
+                "Bashkir": [
+                    "туҡмаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çekiç"
+                ],
+                "Azerbaijani": [
+                    "çəkic"
+                ],
+                "Turkmen": [
+                    "çekiç"
+                ],
+                "Tatar": [
+                    "чүкеч"
+                ],
+                "Bashkir": [
+                    "сүкеш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bolg'acha"
+                ],
+                "Kazakh": [
+                    "балға",
+                    "балғашық"
+                ],
+                "Kyrgyz": [
+                    "балка",
+                    "балкача"
+                ],
+                "Karakalpak": [
+                    "balǵasha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بولقا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سوت بولقىسى"
+                ]
+            }
+        }
+    ]
+}

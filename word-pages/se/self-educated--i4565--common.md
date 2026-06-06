@@ -1,0 +1,120 @@
+# Self-educated
+| Field | Detail |
+|---|---|
+| **ID** | i4565 |
+| **English** | self-educated |
+| **Type** | adjective |
+| **Definition** | educated by your own efforts rather than by formal instruction |
+| **Source** | common |
+| **Ortatil** | özüöyränän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i4565",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "self-educated",
+    "en_definition": "educated by your own efforts rather than by formal instruction",
+    "tr_word": "kendi kendini eğitmiş",
+    "tr_definition": "resmî bir eğitim almadan, kendi çabalarıyla bilgi ve beceri edinmiş olan",
+    "ru_word": "самоучка",
+    "ru_definition": "человек, получивший образование или навыки самостоятельно, без помощи специальных учебных заведений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öz eğitimli"
+                ],
+                "Azerbaijani": [
+                    "özüöyrənən"
+                ],
+                "Turkmen": [
+                    "özbaşdak öwrenen",
+                    "öz-özüni okadan",
+                    "öz-özüni terbiýelän"
+                ],
+                "Uzbek": [
+                    "oʻz ustida ishlagan"
+                ],
+                "Uyghur": [
+                    "ئۆزلۈكىدىن ئۆگەنگەن",
+                    "ئۆز كۈچىگە تايىنىپ ئۆگەنگەن",
+                    "ئۆزلىكىدىن تەربىيەلەنگەن"
+                ],
+                "Kazakh": [
+                    "өздігінен оқыған",
+                    "өз бетімен білім алған",
+                    "өз бетінше үйренген"
+                ],
+                "Kyrgyz": [
+                    "өз алдынча окуган",
+                    "өзү үйрөнгөн",
+                    "өз алдынча билим алган"
+                ],
+                "Karakalpak": [
+                    "óz betіnshe oqıǵan",
+                    "óz betіnshe úyrengen",
+                    "óz betіnshe bilim alǵan"
+                ],
+                "Tatar": [
+                    "үзлегеннән өйрәнгән",
+                    "үзлегеннән белем алган",
+                    "үзлегеннән укыган"
+                ],
+                "Bashkir": [
+                    "үҙлегенән өйрәнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kendi kendini yetiştirmiş"
+                ],
+                "Azerbaijani": [
+                    "özü-özünü yetişdirən"
+                ],
+                "Uzbek": [
+                    "oʻz-oʻzini oʻqitgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alaylı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mütəallim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mustaqil oʻrgangan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "үҙ аллы уҡыған",
+                    "үҙ аллы белем алған"
+                ]
+            }
+        }
+    ]
+}
+```
+

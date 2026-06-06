@@ -1,0 +1,134 @@
+{
+    "id": "i23422",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "chapped",
+    "en_definition": "crack due to dehydration",
+    "tr_word": "çatlamak",
+    "tr_definition": "susuzluk veya soğuk nedeniyle deride yarıklar oluşması",
+    "ru_word": "растрескиваться",
+    "ru_definition": "покрываться мелкими трещинами из-за сухости или холода",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarılmak"
+                ],
+                "Azerbaijani": [
+                    "yarılmaq"
+                ],
+                "Turkmen": [
+                    "jaýrylmak",
+                    "ýarylmak"
+                ],
+                "Uzbek": [
+                    "yorilmoq"
+                ],
+                "Uyghur": [
+                    "يېرىلماق"
+                ],
+                "Kazakh": [
+                    "жарылу"
+                ],
+                "Kyrgyz": [
+                    "жарылуу"
+                ],
+                "Karakalpak": [
+                    "jarılıu"
+                ],
+                "Tatar": [
+                    "ярылу"
+                ],
+                "Bashkir": [
+                    "ярылыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çatlamak"
+                ],
+                "Azerbaijani": [
+                    "çatlamaq"
+                ],
+                "Turkmen": [
+                    "çatlamak"
+                ],
+                "Uyghur": [
+                    "چاتنىماق"
+                ],
+                "Tatar": [
+                    "чатнау"
+                ],
+                "Bashkir": [
+                    "сатнау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تىلىنماق"
+                ],
+                "Kazakh": [
+                    "тіліну"
+                ],
+                "Kyrgyz": [
+                    "тилүү",
+                    "тилмеленүү"
+                ],
+                "Karakalpak": [
+                    "tіlіnu"
+                ],
+                "Tatar": [
+                    "телгәләнү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurumak"
+                ],
+                "Azerbaijani": [
+                    "qurumaq"
+                ],
+                "Uzbek": [
+                    "qurshamoq"
+                ],
+                "Bashkir": [
+                    "ҡороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кеберсу"
+                ],
+                "Kyrgyz": [
+                    "кеберсүү"
+                ],
+                "Karakalpak": [
+                    "kebersu"
+                ],
+                "Bashkir": [
+                    "кителеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "darz ketmoq"
+                ]
+            }
+        }
+    ]
+}

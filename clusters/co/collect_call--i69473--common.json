@@ -1,0 +1,101 @@
+{
+    "id": "i69473",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "collect call",
+    "en_definition": "a telephone call that the receiving party is asked to pay for",
+    "tr_word": "ödemeli arama",
+    "tr_definition": "ücretinin aranan kişi tarafından karşılandığı telefon görüşmesi",
+    "ru_word": "звонок за счёт вызываемого абонента",
+    "ru_definition": "телефонный звонок, оплату которого производит принимающая сторона",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tölegi kabul ediji tarapyndan tölenýän jaň",
+                    "tölegi kabul edijiniň hasabyna jaň"
+                ],
+                "Uzbek": [
+                    "toʻlovi qabul qiluvchi tomonidan toʻlanadigan qoʻngʻiroq"
+                ],
+                "Kazakh": [
+                    "төлемі қабылдаушыдан алынатын қоңырау"
+                ],
+                "Kyrgyz": [
+                    "төлөмү кабыл алуучудан болгон чалуу"
+                ],
+                "Karakalpak": [
+                    "tólemi qabıllaushıdan alınatuǵın qońırao",
+                    "tólemi qabıllaoshı tárepinen tólenetuǵın qońırao"
+                ],
+                "Tatar": [
+                    "түләүле шалтырату"
+                ],
+                "Bashkir": [
+                    "түләүле шылтыратыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ödemeli arama",
+                    "karşı taraf ödemeli arama",
+                    "ödemeli telefon"
+                ],
+                "Azerbaijani": [
+                    "ödeməli zəng"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "haqi qabul qiluvchi tomonidan toʻlanadigan qoʻngʻiroq"
+                ],
+                "Uyghur": [
+                    "ھەققىنى قوبۇل قىلغۇچى تۆلەيدىغان تېلېفون"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақысы қабылдаушыдан алынатын қоңырау"
+                ],
+                "Kyrgyz": [
+                    "акысы кабыл алуучу тарабынан төлөнүүчү чалуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarşı tərəfin ödəyəcəyi zəng"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوبۇل قىلغۇچى تۆلەيدىغان تېلېفون"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "алучы түли торган шалтырату"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "абонент иҫәбенә шылтыратыу"
+                ]
+            }
+        }
+    ]
+}

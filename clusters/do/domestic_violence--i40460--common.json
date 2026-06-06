@@ -1,0 +1,113 @@
+{
+    "id": "i40460",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "domestic violence",
+    "en_definition": "violence or physical abuse directed toward your spouse or domestic partner; usually violence by men against women",
+    "tr_word": "aile içi şiddet",
+    "tr_definition": "Eşler veya aynı evde yaşayan bireyler arasında gerçekleşen fiziksel, psikolojik veya cinsel istismar.",
+    "ru_word": "домашнее насилие",
+    "ru_definition": "Физическое, психологическое или сексуальное насилие, совершаемое в отношении супруга или партнера.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aile içi şiddet"
+                ],
+                "Azerbaijani": [
+                    "ailədaxili zorakılıq"
+                ],
+                "Uzbek": [
+                    "oila zoʻravonligi",
+                    "oilaviy zoʻravonlik",
+                    "oila ichidagi zoʻravonlik",
+                    "oilaviy zulm"
+                ],
+                "Uyghur": [
+                    "ئائىلە زوراۋانلىقى",
+                    "ئائىلە زۇلۇمى",
+                    "ئائىلە ئىچىدىكى زوراۋانلىق"
+                ],
+                "Tatar": [
+                    "гаилә золымы",
+                    "гаилә көчләве",
+                    "гаиләдәге көч куллану"
+                ],
+                "Bashkir": [
+                    "ғаилә көсөргәнеше",
+                    "ғаиләдәге золом",
+                    "ғаилә баҫымы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öýdäki zorluk"
+                ],
+                "Karakalpak": [
+                    "úydegi zorlıq-zombılıq"
+                ],
+                "Tatar": [
+                    "өйдәге золым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məişət zorakılığı"
+                ],
+                "Turkmen": [
+                    "maşgala zorlugy",
+                    "maşgala sütemi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ev zorakılığı"
+                ],
+                "Karakalpak": [
+                    "shańaraqtaǵı zorlıq-zombılıq",
+                    "shańaraq zorlıǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ev içi şiddet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұрмыстық зорлық-зомбылық",
+                    "тұрмыстық жәбірлеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отбасылық зорлық-зомбылық",
+                    "отбасылық қысым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үй-бүлөлүк зомбулук",
+                    "үй-бүлөдөгү кордук",
+                    "үй-бүлөлүк залимдик"
+                ]
+            }
+        }
+    ]
+}

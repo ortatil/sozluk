@@ -1,0 +1,95 @@
+{
+    "id": "i54621",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hand puppet",
+    "en_definition": "a puppet with a cloth body and hollow head; fits over the hand",
+    "tr_word": "el kuklası",
+    "tr_definition": "Elin üzerine geçirilerek parmaklarla hareket ettirilen, kumaş gövdeli ve içi boş kafalı kukla türü.",
+    "ru_word": "ручная кукла",
+    "ru_definition": "Кукла, надеваемая непосредственно на руку кукловода и управляемая его пальцами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qo'l qo'g'irchog'i"
+                ],
+                "Uyghur": [
+                    "قول قورچاق"
+                ],
+                "Kazakh": [
+                    "қол қуыршақ"
+                ],
+                "Kyrgyz": [
+                    "кол куурчак",
+                    "кол кап куурчак"
+                ],
+                "Karakalpak": [
+                    "qol quırshaq",
+                    "qolǵa kiyme quırshaq"
+                ],
+                "Tatar": [
+                    "кул курчагы"
+                ],
+                "Bashkir": [
+                    "ҡул ҡурсағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "el kuklası"
+                ],
+                "Azerbaijani": [
+                    "əl kuklası",
+                    "əlcək kuklası"
+                ],
+                "Turkmen": [
+                    "el gurjagy",
+                    "el oýunjagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پەلەي قورچاق"
+                ],
+                "Tatar": [
+                    "бияләй курчак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "avuç kuklası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qo'lga kiyiladigan qo'g'irchoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саусақ қуыршақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бирсәткә ҡурсағы"
+                ]
+            }
+        }
+    ]
+}

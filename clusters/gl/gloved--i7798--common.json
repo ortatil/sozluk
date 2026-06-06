@@ -1,0 +1,87 @@
+{
+    "id": "i7798",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "gloved",
+    "en_definition": "having the hands covered with gloves",
+    "tr_word": "eldivenli",
+    "tr_definition": "ellerine eldiven giymiş olan",
+    "ru_word": "в перчатках",
+    "ru_definition": "имеющий руки, закрытые перчатками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qo'lqopli",
+                    "qo'liga qo'lqop kiygan"
+                ],
+                "Uyghur": [
+                    "قولقاپلىق",
+                    "قولقاپ كىيگەن"
+                ],
+                "Kazakh": [
+                    "қолғапты",
+                    "қолғап киген"
+                ],
+                "Kyrgyz": [
+                    "кол капчан"
+                ],
+                "Karakalpak": [
+                    "qolǵap kigen",
+                    "qolǵaplı"
+                ],
+                "Bashkir": [
+                    "ҡулсалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eldivenli"
+                ],
+                "Azerbaijani": [
+                    "əlcəkli",
+                    "əlcək geyinmiş"
+                ],
+                "Turkmen": [
+                    "ellikli",
+                    "elligen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "перчаткалы"
+                ],
+                "Bashkir": [
+                    "перчаткалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мээлейчен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бияләйле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бишбармаҡлы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": "i774",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "weaponless",
+    "en_definition": "without a weapon",
+    "tr_word": "silahsız",
+    "tr_definition": "yanında veya üzerinde silah bulunmayan",
+    "ru_word": "безоружный",
+    "ru_definition": "не имеющий при себе оружия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yalınəllə"
+                ],
+                "Turkmen": [
+                    "ýaragsyz"
+                ],
+                "Uyghur": [
+                    "ياراغسىز"
+                ],
+                "Kazakh": [
+                    "жарақсыз"
+                ],
+                "Kyrgyz": [
+                    "жараксыз"
+                ],
+                "Karakalpak": [
+                    "jaraqsız"
+                ],
+                "Tatar": [
+                    "яланкул"
+                ],
+                "Bashkir": [
+                    "яланғас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qurolsiz"
+                ],
+                "Uyghur": [
+                    "قورالسىز"
+                ],
+                "Kazakh": [
+                    "қарусыз"
+                ],
+                "Kyrgyz": [
+                    "куралсыз"
+                ],
+                "Karakalpak": [
+                    "quralsız"
+                ],
+                "Tatar": [
+                    "коралсыз"
+                ],
+                "Bashkir": [
+                    "ҡоралһыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "silahsız"
+                ],
+                "Azerbaijani": [
+                    "silahsız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "biýarag"
+                ],
+                "Uzbek": [
+                    "bequrol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pusatsız"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "id": "i14798",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "autobiographical",
+    "en_definition": "relating to or in the style of an autobiography",
+    "tr_word": "otobiyografik",
+    "tr_definition": "bir kimsenin kendi yaşam öyküsüyle ilgili olan veya bu nitelikte yazılmış olan",
+    "ru_word": "автобиографический",
+    "ru_definition": "относящийся к автобиографии или написанный в стиле автобиографии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tercümeihalli"
+                ],
+                "Azerbaijani": [
+                    "tərcümeyi-hal"
+                ],
+                "Turkmen": [
+                    "terjimehallyk"
+                ],
+                "Uzbek": [
+                    "tarjimai holga oid"
+                ],
+                "Uyghur": [
+                    "تەرجىمىھال خاراكتېرلىك",
+                    "تەرجىمىھال شەكلىدىكى"
+                ],
+                "Karakalpak": [
+                    "tárjіmaixallıq"
+                ],
+                "Tatar": [
+                    "тәрҗемәи хәлгә караган",
+                    "тәрҗемәи хәл рәвешендәге"
+                ],
+                "Bashkir": [
+                    "тәржемәи хәлгә бәйле",
+                    "тәржемәи хәл характерындағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öz yaşam öyküsel"
+                ],
+                "Azerbaijani": [
+                    "özyaşam"
+                ],
+                "Turkmen": [
+                    "özüň hakyndaky",
+                    "öz ömürbeýanyňa degişli"
+                ],
+                "Kazakh": [
+                    "өзіндік баян"
+                ],
+                "Kyrgyz": [
+                    "өз таржымалына тиешелүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otobiyografik"
+                ],
+                "Azerbaijani": [
+                    "avtobioqrafik"
+                ],
+                "Kyrgyz": [
+                    "автобиографиялык"
+                ],
+                "Tatar": [
+                    "автобиографик"
+                ],
+                "Bashkir": [
+                    "автобиографик"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئۆز تەرجىمىھالىغا ئائىت"
+                ],
+                "Kazakh": [
+                    "өмірбаян негізіндегі"
+                ],
+                "Kyrgyz": [
+                    "өмүр баяндык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өмірбаяндық"
+                ],
+                "Karakalpak": [
+                    "ómіrbayanlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "avtobiografik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻz hayotiga doir"
+                ]
+            }
+        }
+    ]
+}

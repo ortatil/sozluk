@@ -1,0 +1,130 @@
+{
+    "id": "i48100",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wild horse",
+    "en_definition": "undomesticated or feral domestic horse",
+    "tr_word": "yaban atı",
+    "tr_definition": "evcilleştirilmemiş veya doğada serbestçe yaşayan at",
+    "ru_word": "дикая лошадь",
+    "ru_definition": "неодомашненная или одичавшая домашняя лошадь",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tarpan"
+                ],
+                "Uzbek": [
+                    "tarpan"
+                ],
+                "Uyghur": [
+                    "تارپان"
+                ],
+                "Kazakh": [
+                    "тарпаң"
+                ],
+                "Kyrgyz": [
+                    "тарпаң"
+                ],
+                "Karakalpak": [
+                    "tarpan"
+                ],
+                "Tatar": [
+                    "тарпан"
+                ],
+                "Bashkir": [
+                    "тарпан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaban atı",
+                    "yabani at"
+                ],
+                "Azerbaijani": [
+                    "yabanı at"
+                ],
+                "Turkmen": [
+                    "ýabany at"
+                ],
+                "Uzbek": [
+                    "yovvoyi ot"
+                ],
+                "Kazakh": [
+                    "жабайы жылқы"
+                ],
+                "Kyrgyz": [
+                    "жапайы жылкы"
+                ],
+                "Karakalpak": [
+                    "jabayı at"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gulan"
+                ],
+                "Uzbek": [
+                    "qulon"
+                ],
+                "Uyghur": [
+                    "قۇلان"
+                ],
+                "Kazakh": [
+                    "құлан"
+                ],
+                "Kyrgyz": [
+                    "кулан"
+                ],
+                "Karakalpak": [
+                    "qұlan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yılkı"
+                ],
+                "Uyghur": [
+                    "ياۋا ئات"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çöl atı"
+                ],
+                "Bashkir": [
+                    "ҡыр аты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыргый ат",
+                    "кыргый елкы"
+                ],
+                "Bashkir": [
+                    "ҡыр йылҡыһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vəhşi at"
+                ]
+            }
+        }
+    ]
+}

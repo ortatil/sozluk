@@ -1,0 +1,116 @@
+# Williams
+| Field | Detail |
+|---|---|
+| **ID** | i97441 |
+| **English** | williams |
+| **Type** | noun |
+| **Definition** | United States country singer and songwriter (1923-1953) |
+| **Source** | common |
+| **Ortatil** | uülyams |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ۋىللىيامىس | villiyamis |
+| **Kazakh** | |
+| әнші | änşi |
+| сазгер | sazger |
+
+```json
+{
+    "id": "i97441",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "williams",
+    "en_definition": "United States country singer and songwriter (1923-1953)",
+    "tr_word": "Williams",
+    "tr_definition": "Amerikalı country şarkıcısı ve söz yazarı (1923-1953)",
+    "ru_word": "Уильямс",
+    "ru_definition": "Американский кантри-певец и автор песен (1923-1953)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Hank Williams"
+                ],
+                "Azerbaijani": [
+                    "Hank Vilyams"
+                ],
+                "Turkmen": [
+                    "Hank Willýams"
+                ],
+                "Uzbek": [
+                    "Xenk Uilyams"
+                ],
+                "Uyghur": [
+                    "خەنك ۋىللىيامىس"
+                ],
+                "Kazakh": [
+                    "Хэнк Уильямс"
+                ],
+                "Kyrgyz": [
+                    "Хэнк Уильямс"
+                ],
+                "Karakalpak": [
+                    "Xenk Uilyams"
+                ],
+                "Tatar": [
+                    "Хэнк Уильямс"
+                ],
+                "Bashkir": [
+                    "Хэнк Уильямс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Amerikalı şarkıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "besteci"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "Uilyams"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ۋىللىيامىس"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әнші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сазгер"
+                ]
+            }
+        }
+    ]
+}
+```
+

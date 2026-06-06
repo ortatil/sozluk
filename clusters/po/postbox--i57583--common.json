@@ -1,0 +1,99 @@
+{
+    "id": "i57583",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "postbox",
+    "en_definition": "public box for deposit of mail",
+    "tr_word": "posta kutusu",
+    "tr_definition": "mektupların gönderilmek üzere içine atıldığı halka açık kutu",
+    "ru_word": "почтовый ящик",
+    "ru_definition": "специальный ящик для сбора писем и почтовых отправлений от населения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "posta kutusu"
+                ],
+                "Azerbaijani": [
+                    "poçt qutusu"
+                ],
+                "Turkmen": [
+                    "poçta gutusy"
+                ],
+                "Uzbek": [
+                    "pochta qutisi"
+                ],
+                "Uyghur": [
+                    "پوچتا ساندۇقى"
+                ],
+                "Kazakh": [
+                    "пошта жәшігі"
+                ],
+                "Kyrgyz": [
+                    "почта кутусу"
+                ],
+                "Karakalpak": [
+                    "poshta qutısı"
+                ],
+                "Tatar": [
+                    "почта савыты"
+                ],
+                "Bashkir": [
+                    "почта йәшниге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hat gutusy"
+                ],
+                "Uzbek": [
+                    "xat qutisi"
+                ],
+                "Uyghur": [
+                    "خەت ساندۇقى"
+                ],
+                "Kazakh": [
+                    "хат жәшігі"
+                ],
+                "Kyrgyz": [
+                    "кат кутусу"
+                ],
+                "Karakalpak": [
+                    "xat qutısı"
+                ],
+                "Tatar": [
+                    "хат савыты",
+                    "хат тартмасы"
+                ],
+                "Bashkir": [
+                    "хат йәшниге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mektup kutusu"
+                ],
+                "Azerbaijani": [
+                    "məktub qutusu"
+                ],
+                "Uzbek": [
+                    "maktub qutisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кат куржуну"
+                ]
+            }
+        }
+    ]
+}

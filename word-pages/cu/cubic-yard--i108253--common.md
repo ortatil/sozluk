@@ -1,0 +1,87 @@
+# Cubic yard
+| Field | Detail |
+|---|---|
+| **ID** | i108253 |
+| **English** | cubic yard |
+| **Type** | noun |
+| **Definition** | a unit of volume (as for sand or gravel) |
+| **Source** | common |
+| **Ortatil** | yardakip |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i108253",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cubic yard",
+    "en_definition": "a unit of volume (as for sand or gravel)",
+    "tr_word": "kübik yarda",
+    "tr_definition": "kum veya çakıl gibi malzemeler için kullanılan, bir yarda uzunluğundaki kenarlara sahip bir küpün hacmine eşit hacim birimi",
+    "ru_word": "кубический ярд",
+    "ru_definition": "единица измерения объема, равная объему куба с ребрами длиной в один ярд",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kübik yarda"
+                ],
+                "Azerbaijani": [
+                    "kub yard",
+                    "kubik yard"
+                ],
+                "Turkmen": [
+                    "kub yard",
+                    "kubik yard"
+                ],
+                "Uzbek": [
+                    "kub yard",
+                    "kubik yard"
+                ],
+                "Uyghur": [
+                    "كۇب يارد",
+                    "كۇب ياردلىق ھەجىم"
+                ],
+                "Kazakh": [
+                    "кубтық ярд"
+                ],
+                "Kyrgyz": [
+                    "куб ярд",
+                    "кубдук ярд"
+                ],
+                "Karakalpak": [
+                    "kub yard",
+                    "kub ólshem"
+                ],
+                "Tatar": [
+                    "кубик ярд",
+                    "куб ярд"
+                ],
+                "Bashkir": [
+                    "куб ярд",
+                    "кубик ярд"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yardaküp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "текше ярд"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,137 @@
+{
+    "id": "i69787",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "writer's name",
+    "en_definition": "the name that appears on the by-line to identify the author of a work",
+    "tr_word": "yazar adı",
+    "tr_definition": "bir eserin yazarını tanımlamak için imza satırında görünen isim",
+    "ru_word": "имя автора",
+    "ru_definition": "имя, которое появляется в строке автора для идентификации создателя произведения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazar adı"
+                ],
+                "Azerbaijani": [
+                    "yazar adı"
+                ],
+                "Kazakh": [
+                    "жазушы есімі"
+                ],
+                "Kyrgyz": [
+                    "жазуучунун аты"
+                ],
+                "Karakalpak": [
+                    "jazıoshı atı"
+                ],
+                "Tatar": [
+                    "язучы исеме"
+                ],
+                "Bashkir": [
+                    "яҙыусы исеме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "awtoryň ady"
+                ],
+                "Uyghur": [
+                    "ئاپتور ئىسمى"
+                ],
+                "Kazakh": [
+                    "автор есімі",
+                    "автордың аты-жөні"
+                ],
+                "Kyrgyz": [
+                    "автордун аты"
+                ],
+                "Karakalpak": [
+                    "awtor atı"
+                ],
+                "Tatar": [
+                    "автор исеме"
+                ],
+                "Bashkir": [
+                    "автор исеме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müellif ismi"
+                ],
+                "Azerbaijani": [
+                    "müəllif adı"
+                ],
+                "Uzbek": [
+                    "muallif ismi"
+                ],
+                "Uyghur": [
+                    "مۇئەللىپ ئىسمى"
+                ],
+                "Tatar": [
+                    "мөаллиф исеме"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təxəllüs"
+                ],
+                "Turkmen": [
+                    "tahallus"
+                ],
+                "Uzbek": [
+                    "taxallus"
+                ],
+                "Uyghur": [
+                    "تەخەللۇس"
+                ],
+                "Bashkir": [
+                    "тәхәллүс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qalam nomi"
+                ],
+                "Kyrgyz": [
+                    "калем аты"
+                ],
+                "Karakalpak": [
+                    "qalem atı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lakam"
+                ],
+                "Karakalpak": [
+                    "laqap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "imza"
+                ]
+            }
+        }
+    ]
+}

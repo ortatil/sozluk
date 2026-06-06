@@ -1,0 +1,140 @@
+{
+    "id": "i35667",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "registration",
+    "en_definition": "the act of enrolling",
+    "tr_word": "kayıt",
+    "tr_definition": "bir yere veya bir şeye adını yazdırarak kaydolma eylemi",
+    "ru_word": "регистрация",
+    "ru_definition": "акт внесения в список или систему для официального учета",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazım"
+                ],
+                "Azerbaijani": [
+                    "yazılma"
+                ],
+                "Turkmen": [
+                    "ýazylyş"
+                ],
+                "Uzbek": [
+                    "yozuv"
+                ],
+                "Karakalpak": [
+                    "jazıu"
+                ],
+                "Tatar": [
+                    "язылу"
+                ],
+                "Bashkir": [
+                    "яҙылыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kayıt"
+                ],
+                "Azerbaijani": [
+                    "qeydiyyat",
+                    "qeyd"
+                ],
+                "Uzbek": [
+                    "qayd"
+                ],
+                "Uyghur": [
+                    "قەيت قىلىش"
+                ],
+                "Tatar": [
+                    "кайд"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tizim"
+                ],
+                "Uyghur": [
+                    "تیزىملىتىش",
+                    "تیزىملىق"
+                ],
+                "Kyrgyz": [
+                    "تیزمەلөө"
+                ],
+                "Karakalpak": [
+                    "dizimge alıu",
+                    "dizimleu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тіркеу",
+                    "тіркелім"
+                ],
+                "Tatar": [
+                    "теркәү",
+                    "теркәлү"
+                ],
+                "Bashkir": [
+                    "теркәү",
+                    "теркәлеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "хаттау"
+                ],
+                "Kyrgyz": [
+                    "каттоо",
+                    "катталуу"
+                ],
+                "Karakalpak": [
+                    "xaتلاپ alıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hasaba alyş",
+                    "hasaba alma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tescil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bellige alyş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "roʻyxat"
+                ]
+            }
+        }
+    ]
+}

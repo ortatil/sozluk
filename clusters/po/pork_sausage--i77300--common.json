@@ -1,0 +1,62 @@
+{
+    "id": "i77300",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pork sausage",
+    "en_definition": "sausage containing pork",
+    "tr_word": "domuz sosisi",
+    "tr_definition": "domuz eti içeren sosis",
+    "ru_word": "свиная колбаса",
+    "ru_definition": "колбаса, содержащая свинину",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "cho'chqa go'shtli kolbasa",
+                    "cho'chqa go'shtli sosiska"
+                ],
+                "Uyghur": [
+                    "چوشقا گۆشى كولباسىسى",
+                    "چوشقا گۆشى سوسىسكىسى"
+                ],
+                "Kazakh": [
+                    "шошқа шұжығы",
+                    "шошқа етінен жасалған шұжық"
+                ],
+                "Kyrgyz": [
+                    "чочко колбасасы",
+                    "чочко шүжүгү"
+                ],
+                "Karakalpak": [
+                    "shoshqa shұjıǵı",
+                    "shoshqa etіnen jasalǵan shұjıq"
+                ],
+                "Bashkir": [
+                    "сусҡа тултырмаһы",
+                    "сусҡа колбасаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "domuz sosisi",
+                    "domuz sucuğu"
+                ],
+                "Azerbaijani": [
+                    "donuz kolbasası",
+                    "donuz sosiski"
+                ],
+                "Turkmen": [
+                    "doňuz şöhlaty",
+                    "doňuz kolbasasy"
+                ],
+                "Tatar": [
+                    "дуңгыз колбасасы"
+                ]
+            }
+        }
+    ]
+}

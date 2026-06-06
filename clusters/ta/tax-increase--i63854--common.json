@@ -1,0 +1,77 @@
+{
+    "id": "i63854",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tax-increase",
+    "en_definition": "the amount by which taxes are increased",
+    "tr_word": "vergi artışı",
+    "tr_definition": "vergilerin artırıldığı miktar veya oran",
+    "ru_word": "повышение налогов",
+    "ru_definition": "сумма или процент, на которые увеличиваются налоги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salgyt artdyrylmasy",
+                    "salgyt köpeldilmesi",
+                    "salgyt ýokarlanmasy"
+                ],
+                "Uzbek": [
+                    "soliq oshishi",
+                    "soliq ko'payishi",
+                    "soliq ortishi"
+                ],
+                "Kazakh": [
+                    "салықтың өсуі",
+                    "салықтың артуы",
+                    "салықтың көбеюі",
+                    "салық өсімі"
+                ],
+                "Kyrgyz": [
+                    "салыктын көбөйүшү",
+                    "салыктын өсүшү",
+                    "салыктын жогорулашы"
+                ],
+                "Karakalpak": [
+                    "salıqtıń ósiui",
+                    "salıqtıń kóbeyiui",
+                    "salıqtıń artıuı"
+                ],
+                "Tatar": [
+                    "салым артуы",
+                    "салым күтәрелүе",
+                    "салым үсеше"
+                ],
+                "Bashkir": [
+                    "һалым артыуы",
+                    "һалым күтәрелеүе",
+                    "һалым үҫеше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vergi artışı",
+                    "vergi zammı",
+                    "vergi artırımı"
+                ],
+                "Azerbaijani": [
+                    "vergi artımı",
+                    "vergi yüksəlişi",
+                    "vergi artırılması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باج ئاشۇرۇش",
+                    "باج كۆپەيتىش",
+                    "باجنىڭ ئۆرلىشى"
+                ]
+            }
+        }
+    ]
+}

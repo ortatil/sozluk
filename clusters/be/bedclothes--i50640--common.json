@@ -1,0 +1,129 @@
+{
+    "id": "i50640",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bedclothes",
+    "en_definition": "coverings that are used on a bed",
+    "tr_word": "yatak takımı",
+    "tr_definition": "Yatakta kullanılan çarşaf, battaniye ve yorgan gibi örtülerin genel adı.",
+    "ru_word": "постельные принадлежности",
+    "ru_definition": "Общее название для покрывал, простыней и одеял, используемых на кровати.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "düşek-ýorgan",
+                    "düşeklik"
+                ],
+                "Uzbek": [
+                    "to'shak-bolish"
+                ],
+                "Uyghur": [
+                    "تۆشەك-سېلىق"
+                ],
+                "Kazakh": [
+                    "төсек-орын",
+                    "төсек-жабдық"
+                ],
+                "Kyrgyz": [
+                    "төшөк-орун",
+                    "төшөнчү",
+                    "төшөк"
+                ],
+                "Karakalpak": [
+                    "tósek-orın",
+                    "tósek-jayma",
+                    "tósek"
+                ],
+                "Tatar": [
+                    "түшәк-ястык",
+                    "түшәк-урын"
+                ],
+                "Bashkir": [
+                    "түшәк-яҫтыҡ",
+                    "түшәк-орун",
+                    "түшәк кәрәк-ярағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yorgan"
+                ],
+                "Azerbaijani": [
+                    "yorğan-döşək"
+                ],
+                "Turkmen": [
+                    "ýorgan-düşek",
+                    "ýorgan-ýassyklary"
+                ],
+                "Uyghur": [
+                    "يوتقان-كۆرپە",
+                    "يوتقان-تۆشەك"
+                ],
+                "Kyrgyz": [
+                    "жууркан-төшөк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "örtü"
+                ],
+                "Uzbek": [
+                    "o'rin-joy"
+                ],
+                "Tatar": [
+                    "урын-җир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yatak takımı"
+                ],
+                "Azerbaijani": [
+                    "yataq dəsti",
+                    "yataq ləvazimatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çarşaf"
+                ],
+                "Uzbek": [
+                    "choyshablar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nevresim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko'rpa-yostiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жамылғы"
+                ]
+            }
+        }
+    ]
+}

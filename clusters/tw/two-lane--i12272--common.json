@@ -1,0 +1,85 @@
+{
+    "id": "i12272",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "two-lane",
+    "en_definition": "having a lane for traffic in each direction",
+    "tr_word": "iki şeritli",
+    "tr_definition": "her iki yönde birer trafik şeridi bulunan",
+    "ru_word": "двухполосный",
+    "ru_definition": "имеющий по одной полосе движения в каждом направлении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki şeritli"
+                ],
+                "Azerbaijani": [
+                    "iki zolaqlı",
+                    "iki gedişli"
+                ],
+                "Turkmen": [
+                    "iki ýolly",
+                    "iki hatarly"
+                ],
+                "Uzbek": [
+                    "ikki yo‘lakli",
+                    "ikki qatorli"
+                ],
+                "Uyghur": [
+                    "ئىككى يۆنىلىشلىك",
+                    "ئىككى يوللۇق"
+                ],
+                "Kazakh": [
+                    "екі жолақты"
+                ],
+                "Kyrgyz": [
+                    "эки тилкелүү",
+                    "эки катарлуу",
+                    "эки жолдуу"
+                ],
+                "Karakalpak": [
+                    "ekі jolaqtı",
+                    "ekі qatarlı"
+                ],
+                "Tatar": [
+                    "ике юллы",
+                    "ике полосалы"
+                ],
+                "Bashkir": [
+                    "ике һыҙатлы",
+                    "ике юллы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift şeritli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gidiş gelişli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوش يۆنىلىشلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қос жолақты"
+                ]
+            }
+        }
+    ]
+}

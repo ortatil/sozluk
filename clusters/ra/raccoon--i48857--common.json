@@ -1,0 +1,87 @@
+{
+    "id": "i48857",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "raccoon",
+    "en_definition": "an omnivorous nocturnal mammal native to North America and Central America",
+    "tr_word": "rakun",
+    "tr_definition": "Kuzey Amerika'ya özgü, gözlerinin çevresindeki siyah halkalar ve halkalı kuyruğuyla tanınan, geceleri aktif olan hepçil bir memeli.",
+    "ru_word": "енот",
+    "ru_definition": "Хищное млекопитающее, обитающее в Северной Америке, с характерной черной маской вокруг глаз и полосатым хвостом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yenot"
+                ],
+                "Turkmen": [
+                    "janawary"
+                ],
+                "Uzbek": [
+                    "yenot"
+                ],
+                "Kazakh": [
+                    "жанат"
+                ],
+                "Kyrgyz": [
+                    "жанат",
+                    "жанат сымал ит"
+                ],
+                "Karakalpak": [
+                    "janat",
+                    "janat ań"
+                ],
+                "Tatar": [
+                    "янут",
+                    "янут-полоскун"
+                ],
+                "Bashkir": [
+                    "янут",
+                    "янут-айыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rakun"
+                ],
+                "Turkmen": [
+                    "rakun"
+                ],
+                "Uzbek": [
+                    "rakun"
+                ],
+                "Uyghur": [
+                    "راكون"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yuyucu yenot"
+                ],
+                "Uyghur": [
+                    "يۇيۇقچى ئېيىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayıbalığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шайғыш жанат"
+                ]
+            }
+        }
+    ]
+}

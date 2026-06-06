@@ -1,0 +1,83 @@
+{
+    "id": "i82060",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "world trade center site",
+    "en_definition": "the site of the World Trade Center before it was destroyed",
+    "tr_word": "Dünya Ticaret Merkezi sahası",
+    "tr_definition": "Dünya Ticaret Merkezi'nin yıkılmadan önce bulunduğu alan",
+    "ru_word": "место Всемирного торгового центра",
+    "ru_definition": "место, где находился Всемирный торговый центр до его разрушения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Dünya Ticaret Merkezi alanı",
+                    "Dünya Ticaret Merkezi mevkii",
+                    "Dünya Ticaret Merkezi yeri"
+                ],
+                "Azerbaijani": [
+                    "Dünya Ticarət Mərkəzinin ərazisi",
+                    "Dünya Ticarət Mərkəzinin yeri"
+                ],
+                "Turkmen": [
+                    "Dünýä söwda merkeziniň ýeri",
+                    "Dünýä söwda merkeziniň meýdançasy"
+                ],
+                "Uzbek": [
+                    "dunyo savdo markazi maydoni"
+                ],
+                "Uyghur": [
+                    "دۇنيا سودا مەركىزى خارابىسى",
+                    "دۇنيا سودا مەركىزى ئورنى"
+                ],
+                "Kazakh": [
+                    "Дүниежүзілік сауда орталығының орны"
+                ],
+                "Karakalpak": [
+                    "Dúnya júzlik saoda orayı ornı"
+                ],
+                "Tatar": [
+                    "Дөньякүләм сәүдә үзәге мәйданы"
+                ],
+                "Bashkir": [
+                    "Донъя сауҙа үҙәге урыны",
+                    "Донъя сауҙа үҙәге майҙаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jahon savdo markazi oʻrni"
+                ],
+                "Karakalpak": [
+                    "Jáhán saoda orayı maydanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Әлемдік сауда орталығының орны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "Дүйнөлүк соода борборунун орду",
+                    "Дүйнөлүк соода борборунун аймагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Бөтендөнья сәүдә үзәге урыны"
+                ]
+            }
+        }
+    ]
+}

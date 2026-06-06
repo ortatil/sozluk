@@ -1,0 +1,97 @@
+{
+    "id": "i94026",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "war criminal",
+    "en_definition": "an offender who violates international law during times of war",
+    "tr_word": "savaş suçlusu",
+    "tr_definition": "savaş sırasında uluslararası hukuku ihlal eden kişi",
+    "ru_word": "военный преступник",
+    "ru_definition": "лицо, совершившее нарушение международных законов и обычаев войны",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harp mücrimi"
+                ],
+                "Azerbaijani": [
+                    "hərb cinayətkarı"
+                ],
+                "Turkmen": [
+                    "harby jenaýatçy"
+                ],
+                "Uzbek": [
+                    "harbiy jinoyatchi"
+                ],
+                "Karakalpak": [
+                    "hárbiy jınayatshı"
+                ],
+                "Tatar": [
+                    "хәрби җинаятьче"
+                ],
+                "Bashkir": [
+                    "хәрби енәйәтсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uruş jenaýatçysy"
+                ],
+                "Uzbek": [
+                    "urush jinoyatchisi"
+                ],
+                "Uyghur": [
+                    "ئۇرۇش جىنايەتچىسى"
+                ],
+                "Karakalpak": [
+                    "urıs jınayatshısı",
+                    "urıs gúnákarı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "savaş suçlusu"
+                ],
+                "Tatar": [
+                    "сугыш җинаятьчесе"
+                ],
+                "Bashkir": [
+                    "һуғыш енәйәтсеһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "соғыс қылмыскері",
+                    "соғыс айыптысы"
+                ],
+                "Kyrgyz": [
+                    "согуш кылмышкери",
+                    "согуш күнөөкөрү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müharibə cinayətkarı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جەڭ جىنايەتچىسى"
+                ]
+            }
+        }
+    ]
+}

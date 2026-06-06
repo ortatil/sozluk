@@ -1,0 +1,242 @@
+# Sit out
+| Field | Detail |
+|---|---|
+| **ID** | i35299 |
+| **English** | sit out |
+| **Type** | verb |
+| **Definition** | not participate in (an activity, such as a dance or a sports event) |
+| **Source** | common |
+| **Ortatil** | qatnaşmasliqmamaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qatnaşmasliqmamaq** | **aralaşmamaq** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 0.60 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **1.10** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قاتناشماسلىق | qatnaşmasliq |
+| ئارىلىشماسلىق | arilişmasliq |
+| **Kazakh** | |
+| қатыспау | qatıspau |
+| араласпау | aralaspau |
+| **Kyrgyz** | |
+| катышпоо | katışpoo |
+| аралашпоо | aralaşpoo |
+| **Tatar** | |
+| катнашмау | katnaşmau |
+| читләшү | çitläşü |
+| калдыру | kaldıru |
+| **Bashkir** | |
+| ҡатнашмау | qatnaşmau |
+| ҡалдырыу | qaldırıu |
+
+```json
+{
+    "id": "i35299",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "sit out",
+    "en_definition": "not participate in (an activity, such as a dance or a sports event)",
+    "tr_word": "kenarda kalmak",
+    "tr_definition": "bir etkinliğe, oyuna veya dansa katılmamak, dışarıda beklemek",
+    "ru_word": "пропустить",
+    "ru_definition": "не участвовать в каком-либо мероприятии, игре или танце",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "katılmamak"
+                ],
+                "Azerbaijani": [
+                    "qatılmamaq"
+                ],
+                "Turkmen": [
+                    "gatnaşmazlyk"
+                ],
+                "Uzbek": [
+                    "qatnashmaslik"
+                ],
+                "Uyghur": [
+                    "قاتناشماسلىق"
+                ],
+                "Kazakh": [
+                    "қатыспау"
+                ],
+                "Kyrgyz": [
+                    "катышпоо"
+                ],
+                "Karakalpak": [
+                    "qatıspau"
+                ],
+                "Tatar": [
+                    "катнашмау"
+                ],
+                "Bashkir": [
+                    "ҡатнашмау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dışarıda kalmak"
+                ],
+                "Turkmen": [
+                    "daşda durmak"
+                ],
+                "Kazakh": [
+                    "тыс қалу"
+                ],
+                "Kyrgyz": [
+                    "тышкары калуу"
+                ],
+                "Karakalpak": [
+                    "tısqarı qalıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "chetda turmoq"
+                ],
+                "Uyghur": [
+                    "چەتتە تۇرۇش"
+                ],
+                "Kazakh": [
+                    "шетте қалу"
+                ],
+                "Kyrgyz": [
+                    "четте калуу"
+                ],
+                "Karakalpak": [
+                    "shette qalıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئارىلىشماسلىق"
+                ],
+                "Kazakh": [
+                    "араласпау"
+                ],
+                "Kyrgyz": [
+                    "аралашпоо"
+                ],
+                "Karakalpak": [
+                    "aralaspau"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çekilmek"
+                ],
+                "Tatar": [
+                    "читләшү",
+                    "читкә чыгу"
+                ],
+                "Bashkir": [
+                    "ситтә тороу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kenarda durmak"
+                ],
+                "Azerbaijani": [
+                    "kənarda qalmaq",
+                    "kənar durmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pas geçmek"
+                ],
+                "Bashkir": [
+                    "баш тартыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "iştirak etməmək"
+                ],
+                "Uzbek": [
+                    "ishtirok etmaslik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "калдыру"
+                ],
+                "Bashkir": [
+                    "ҡалдырыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uzak durmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyrada durmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tark etmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سەرسىرتىدا قېلىش"
+                ]
+            }
+        }
+    ]
+}
+```
+

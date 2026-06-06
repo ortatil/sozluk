@@ -1,0 +1,90 @@
+{
+    "id": "i116897",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "weekday",
+    "en_definition": "any day except Sunday (and sometimes except Saturday)",
+    "tr_word": "hafta içi",
+    "tr_definition": "Pazar (ve bazen Cumartesi) dışındaki herhangi bir gün",
+    "ru_word": "будний день",
+    "ru_definition": "любой день, кроме воскресенья (и иногда субботы)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iş günü"
+                ],
+                "Azerbaijani": [
+                    "iş günü"
+                ],
+                "Turkmen": [
+                    "iş güni"
+                ],
+                "Uzbek": [
+                    "ish kuni"
+                ],
+                "Uyghur": [
+                    "ئىش كۈنى"
+                ],
+                "Kyrgyz": [
+                    "иш күнү"
+                ],
+                "Karakalpak": [
+                    "isles kún"
+                ],
+                "Tatar": [
+                    "эш көне"
+                ],
+                "Bashkir": [
+                    "эш көнө",
+                    "аҙна көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hafta içi"
+                ],
+                "Azerbaijani": [
+                    "həftə içi"
+                ],
+                "Turkmen": [
+                    "hepde içi"
+                ],
+                "Uzbek": [
+                    "hafta kuni"
+                ],
+                "Karakalpak": [
+                    "hápte kúni"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئادەتتىكى كۈن"
+                ],
+                "Kazakh": [
+                    "апта күні"
+                ],
+                "Kyrgyz": [
+                    "апта ичи"
+                ],
+                "Tatar": [
+                    "атна көне"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмыс күні"
+                ]
+            }
+        }
+    ]
+}

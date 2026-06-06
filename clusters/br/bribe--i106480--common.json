@@ -1,0 +1,119 @@
+{
+    "id": "i106480",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bribe",
+    "en_definition": "payment made to a person in a position of trust to corrupt his judgment",
+    "tr_word": "rüşvet",
+    "tr_definition": "bir işi yaptırmak veya kolaylaştırmak amacıyla bir görevliye yasa dışı olarak verilen para veya mal",
+    "ru_word": "взятка",
+    "ru_definition": "деньги или вещи, даваемые должностному лицу как подкуп за совершение каких-либо действий в интересах дающего",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "rüşvet"
+                ],
+                "Azerbaijani": [
+                    "rüşvət"
+                ],
+                "Uzbek": [
+                    "rishvat"
+                ],
+                "Uyghur": [
+                    "رەشىۋەت"
+                ],
+                "Kyrgyz": [
+                    "рашват"
+                ],
+                "Karakalpak": [
+                    "rishuat"
+                ],
+                "Tatar": [
+                    "ришвәт"
+                ],
+                "Bashkir": [
+                    "ришүәт",
+                    "ришүәтселек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haraç"
+                ],
+                "Turkmen": [
+                    "para",
+                    "parahorluk"
+                ],
+                "Uzbek": [
+                    "pora"
+                ],
+                "Uyghur": [
+                    "پارا"
+                ],
+                "Kazakh": [
+                    "пара"
+                ],
+                "Kyrgyz": [
+                    "пара"
+                ],
+                "Karakalpak": [
+                    "para"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşkəş"
+                ],
+                "Turkmen": [
+                    "peşgeş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бүләк"
+                ],
+                "Bashkir": [
+                    "бүләк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bahşiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "haqq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жемқорлық",
+                    "жем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ауызбастырық"
+                ]
+            }
+        }
+    ]
+}

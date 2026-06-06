@@ -1,0 +1,87 @@
+{
+    "id": "i78397",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "powdered milk",
+    "en_definition": "dehydrated milk",
+    "tr_word": "süt tozu",
+    "tr_definition": "suyu uçurularak toz hâline getirilmiş süt",
+    "ru_word": "сухое молоко",
+    "ru_definition": "растворимый порошок, получаемый путём высушивания пастеризованного коровьего молока",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kurutulmuş süt"
+                ],
+                "Azerbaijani": [
+                    "quru süd"
+                ],
+                "Turkmen": [
+                    "gury süýt"
+                ],
+                "Uzbek": [
+                    "quruq sut"
+                ],
+                "Uyghur": [
+                    "قۇرۇق سۈت"
+                ],
+                "Kazakh": [
+                    "құрғақ сүт"
+                ],
+                "Kyrgyz": [
+                    "кургак сүт"
+                ],
+                "Karakalpak": [
+                    "qurǵaq sút"
+                ],
+                "Tatar": [
+                    "коры сөт"
+                ],
+                "Bashkir": [
+                    "ҡоро һөт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "süt tozu"
+                ],
+                "Azerbaijani": [
+                    "süd tozu"
+                ],
+                "Turkmen": [
+                    "süýt tozy"
+                ],
+                "Uzbek": [
+                    "sut kukuni"
+                ],
+                "Uyghur": [
+                    "سۈت پاراشوكى"
+                ],
+                "Kazakh": [
+                    "сүт ұнтағы"
+                ],
+                "Kyrgyz": [
+                    "сүт күкүмү"
+                ],
+                "Karakalpak": [
+                    "sút upası"
+                ],
+                "Tatar": [
+                    "сөт порошогы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "он һөт"
+                ]
+            }
+        }
+    ]
+}

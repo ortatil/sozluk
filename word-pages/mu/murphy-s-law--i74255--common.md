@@ -1,0 +1,202 @@
+# Murphy's law
+| Field | Detail |
+|---|---|
+| **ID** | i74255 |
+| **English** | murphy's law |
+| **Type** | noun |
+| **Definition** | humorous axiom stating that anything that can go wrong will go wrong |
+| **Source** | common |
+| **Ortatil** | cazmış |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| кесир | kesir |
+| жазмыш | jazmış |
+| кырсык | kırsık |
+| **Bashkir** | |
+| тәҡдир | täqdir |
+| яҙмыш | yazmış |
+| бәхетһеҙлек | bäxethezlek |
+
+```json
+{
+    "id": "i74255",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "murphy's law",
+    "en_definition": "humorous axiom stating that anything that can go wrong will go wrong",
+    "tr_word": "Murphy Kanunu",
+    "tr_definition": "Ters gidebilecek her şeyin ters gideceğini öne süren mizahi aksiyom.",
+    "ru_word": "закон Мёрфи",
+    "ru_definition": "шутливый философский принцип, гласящий, что если какая-нибудь неприятность может случиться, она случается.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "terslik yasası"
+                ],
+                "Azerbaijani": [
+                    "tərsliyin qanunu"
+                ],
+                "Turkmen": [
+                    "terslik kanuny"
+                ],
+                "Uzbek": [
+                    "teskarilik qonuni"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "baxtsizlik qonuni"
+                ],
+                "Kazakh": [
+                    "сәтсіздік заңы"
+                ],
+                "Karakalpak": [
+                    "sátsіzdіk zańı"
+                ],
+                "Tatar": [
+                    "бәхетсезлек кануны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Murphy kanunları"
+                ],
+                "Azerbaijani": [
+                    "Mörfi qanunu"
+                ],
+                "Uyghur": [
+                    "مۆرفى قانۇنىيىتى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "тагдырдын тамашасы"
+                ],
+                "Tatar": [
+                    "тәкъдир язмышы"
+                ],
+                "Bashkir": [
+                    "тәҡдир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bədbəxtlik qanunu"
+                ],
+                "Turkmen": [
+                    "betbagtlyk kanuny"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кесір заңы",
+                    "қисық заң"
+                ],
+                "Kyrgyz": [
+                    "кесир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жазмыш"
+                ],
+                "Bashkir": [
+                    "яҙмыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кырсык"
+                ],
+                "Tatar": [
+                    "кирелек кануны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aksilik kanunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şowsuzlyk kanuny"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "omadsizlik qonuni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەتۈر كېلىش قانۇنىيىتى",
+                    "ئىش تەتۈرىدىن كېلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jaman aytpay jaqsı joq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "boljamsızdıq zańı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәхетһеҙлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "насар фал"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,81 @@
+{
+    "id": "i16385",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "feline",
+    "en_definition": "of or relating to cats",
+    "tr_word": "kedigillerden",
+    "tr_definition": "kedilere özgü veya kedilerle ilgili olan",
+    "ru_word": "кошачий",
+    "ru_definition": "относящийся к кошкам или свойственный им",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "pişikvari",
+                    "pişikkimilər",
+                    "pişikcinsli"
+                ],
+                "Turkmen": [
+                    "pişiklere degişli",
+                    "pişigimsi",
+                    "pişik kibi"
+                ],
+                "Bashkir": [
+                    "бесәйҙәр",
+                    "бесәй һымаҡтар",
+                    "бесәй төркөмөндәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mushuksimon",
+                    "mushuknamo",
+                    "mushuklar oilasiga oid"
+                ],
+                "Uyghur": [
+                    "مۈشۈكسىمان",
+                    "مۈشۈككە ئائىت",
+                    "مۈشۈك تىپىدىكى"
+                ],
+                "Kyrgyz": [
+                    "мышык сымал",
+                    "мышык сыяктуу",
+                    "мышыктар тукумундагы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мысық тектес",
+                    "мысық тұқымдас",
+                    "мысықша"
+                ],
+                "Karakalpak": [
+                    "mısıq tárіzdі",
+                    "mısıq sıpatlı",
+                    "mısıq tuqımlas"
+                ],
+                "Tatar": [
+                    "мәчесыман",
+                    "мәчеләр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kedigillerden",
+                    "kediye özgü",
+                    "kedi gibi"
+                ]
+            }
+        }
+    ]
+}

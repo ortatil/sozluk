@@ -1,0 +1,152 @@
+# Valet parking
+| Field | Detail |
+|---|---|
+| **ID** | i35924 |
+| **English** | valet parking |
+| **Type** | noun |
+| **Definition** | a service provided (at a club or restaurant or airport etc.) whereby a patron leaves a car at the entrance and an attendant parks and retrieves it |
+| **Source** | common |
+| **Ortatil** | walı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i35924",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "valet parking",
+    "en_definition": "a service provided (at a club or restaurant or airport etc.) whereby a patron leaves a car at the entrance and an attendant parks and retrieves it",
+    "tr_word": "vale park hizmeti",
+    "tr_definition": "Bir kulüp, restoran veya havaalanı gibi yerlerde, müşterinin aracını girişte bırakıp bir görevlinin park etmesi ve geri getirmesi hizmeti.",
+    "ru_word": "услуга парковщика",
+    "ru_definition": "Услуга (в клубе, ресторане или аэропорту), при которой клиент оставляет автомобиль у входа, а служащий паркует и возвращает его.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtomobil saxlama xidməti"
+                ],
+                "Turkmen": [
+                    "awtoulag goýmak hyzmaty",
+                    "awtoulag saklamak hyzmaty"
+                ],
+                "Uzbek": [
+                    "avtoturargoh xizmati"
+                ],
+                "Kyrgyz": [
+                    "автоунаа токтотуу кызматы"
+                ],
+                "Bashkir": [
+                    "автомобиль ҡуйыу хеҙмәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mashina to'xtatish xizmati",
+                    "mashina qo'yish xizmati"
+                ],
+                "Uyghur": [
+                    "ماشىنا توختىتىش مۇلازىمىتى",
+                    "ماشىنا توختىتىپ بېرىش مۇلازىمىتى",
+                    "ماشىنا توختىتىش ياردىمى"
+                ],
+                "Tatar": [
+                    "машина кую хезмәте"
+                ],
+                "Bashkir": [
+                    "машина ҡуйыу хеҙмәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа токтотуу кызматы",
+                    "кызматтык унаа токтотуу"
+                ],
+                "Karakalpak": [
+                    "xızmetker tárepinen toqtatıo"
+                ],
+                "Tatar": [
+                    "хезмәтле машина кую",
+                    "хезмәткәр аша машина кую"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araç karşılama"
+                ],
+                "Turkmen": [
+                    "garaž hyzmaty"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік қою қызметі",
+                    "көлік күту қызметі",
+                    "көлік тоқтату қызметі"
+                ],
+                "Karakalpak": [
+                    "kútip alıoshı toqtatıo xızmeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vale",
+                    "vale hizmeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otopark görevlisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dayanacaq xidməti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qapıda qarşılama və parketmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "arnaolı toqtatıo xızmeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡаршы алып машина ҡуйыу"
+                ]
+            }
+        }
+    ]
+}
+```
+

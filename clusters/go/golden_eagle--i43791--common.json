@@ -1,0 +1,99 @@
+{
+    "id": "i43791",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "golden eagle",
+    "en_definition": "large eagle of mountainous regions of the northern hemisphere having a golden-brown head and neck",
+    "tr_word": "kaya kartalı",
+    "tr_definition": "Kuzey Yarımküre'nin dağlık bölgelerinde yaşayan, baş ve boyun tüyleri altın kahverengi olan büyük bir kartal türü.",
+    "ru_word": "беркут",
+    "ru_definition": "крупный орел северного полушария, обитающий в горных районах и имеющий золотисто-коричневое оперение на голове и шее.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaya kartalı"
+                ],
+                "Azerbaijani": [
+                    "qara quş",
+                    "qartal"
+                ],
+                "Turkmen": [
+                    "gara guş"
+                ],
+                "Uzbek": [
+                    "qora burgut"
+                ],
+                "Uyghur": [
+                    "قارا بۈركۈت"
+                ],
+                "Kazakh": [
+                    "қара бүркіт"
+                ],
+                "Kyrgyz": [
+                    "кыран"
+                ],
+                "Karakalpak": [
+                    "qara búrkіt"
+                ],
+                "Tatar": [
+                    "каракош"
+                ],
+                "Bashkir": [
+                    "ҡара ҡош"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "berkut"
+                ],
+                "Azerbaijani": [
+                    "berkut"
+                ],
+                "Uzbek": [
+                    "burgut",
+                    "burgut qushi"
+                ],
+                "Uyghur": [
+                    "بۈركۈت"
+                ],
+                "Kazakh": [
+                    "бүркіт"
+                ],
+                "Kyrgyz": [
+                    "бүркүт"
+                ],
+                "Karakalpak": [
+                    "búrkіt"
+                ],
+                "Tatar": [
+                    "бөркет"
+                ],
+                "Bashkir": [
+                    "бөркөт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "altın kartal"
+                ],
+                "Uyghur": [
+                    "ئالتۇن بۈركۈت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bürgüt"
+                ]
+            }
+        }
+    ]
+}

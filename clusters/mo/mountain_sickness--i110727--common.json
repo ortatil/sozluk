@@ -1,0 +1,107 @@
+{
+    "id": "i110727",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mountain sickness",
+    "en_definition": "nausea and shortness of breath experienced by mountain climbers above ten thousand feet",
+    "tr_word": "dağ tutması",
+    "tr_definition": "yüksek irtifalarda oksijen yetersizliğine bağlı olarak görülen bulantı ve nefes darlığı durumu",
+    "ru_word": "высотная болезнь",
+    "ru_definition": "болезненное состояние, возникающее вследствие кислородного голодания при подъеме на значительную высоту",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağ tutması"
+                ],
+                "Turkmen": [
+                    "dag keseli"
+                ],
+                "Uzbek": [
+                    "tog' kasalligi"
+                ],
+                "Uyghur": [
+                    "تاغ كېسىلى",
+                    "تاغ تۇتۇش"
+                ],
+                "Kazakh": [
+                    "тау ауруы"
+                ],
+                "Karakalpak": [
+                    "tau keselligi",
+                    "tau aoırıoı"
+                ],
+                "Tatar": [
+                    "тау чире",
+                    "тау авыруы"
+                ],
+                "Bashkir": [
+                    "тау ауырыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "биіктік ауруы"
+                ],
+                "Kyrgyz": [
+                    "бийиктик оорусу"
+                ],
+                "Bashkir": [
+                    "бейеклек ауырыуы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yükseklik hastalığı"
+                ],
+                "Azerbaijani": [
+                    "yüksəklik xəstəliyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "belentlik keseli"
+                ],
+                "Uzbek": [
+                    "balandlik kasalligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "irtifa hastalığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dağ xəstəliyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېگىزلىك كېسىلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тоо оорусу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "id": "i82454",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "province",
+    "en_definition": "the territory occupied by one of the constituent administrative districts of a nation",
+    "tr_word": "vilayet",
+    "tr_definition": "bir ülkenin idari bölümlerinden her biri, il",
+    "ru_word": "провинция",
+    "ru_definition": "административно-территориальная единица внутри государства",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vilayet"
+                ],
+                "Azerbaijani": [
+                    "vilayət"
+                ],
+                "Turkmen": [
+                    "welaýat"
+                ],
+                "Uzbek": [
+                    "viloyat"
+                ],
+                "Uyghur": [
+                    "ۋىلايەت"
+                ],
+                "Kazakh": [
+                    "уәлаят"
+                ],
+                "Kyrgyz": [
+                    "улаят"
+                ],
+                "Karakalpak": [
+                    "uálayat"
+                ],
+                "Tatar": [
+                    "вилаять"
+                ],
+                "Bashkir": [
+                    "вилайәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ülke",
+                    "ölke"
+                ],
+                "Uzbek": [
+                    "oʻlka"
+                ],
+                "Uyghur": [
+                    "ئۆلكە"
+                ],
+                "Kazakh": [
+                    "өлке"
+                ],
+                "Kyrgyz": [
+                    "өлкө"
+                ],
+                "Karakalpak": [
+                    "ólke"
+                ],
+                "Tatar": [
+                    "өлкә"
+                ],
+                "Bashkir": [
+                    "өлкә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "аймақ"
+                ],
+                "Kyrgyz": [
+                    "аймак"
+                ],
+                "Karakalpak": [
+                    "aymaq"
+                ],
+                "Tatar": [
+                    "аймак"
+                ],
+                "Bashkir": [
+                    "аймаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eyalet"
+                ],
+                "Azerbaijani": [
+                    "əyalət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "облыс"
+                ],
+                "Kyrgyz": [
+                    "облус"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төбәк"
+                ],
+                "Bashkir": [
+                    "төбәк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məntəqə"
+                ],
+                "Uzbek": [
+                    "mintaqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "il"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sancak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "diyar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "toprak"
+                ]
+            }
+        }
+    ]
+}

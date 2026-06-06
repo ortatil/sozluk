@@ -1,0 +1,106 @@
+{
+    "id": "i76739",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bubble gum",
+    "en_definition": "a kind of chewing gum that can be blown into bubbles",
+    "tr_word": "balonlu sakız",
+    "tr_definition": "balon şişirmek için kullanılan bir tür sakız",
+    "ru_word": "жевательная резинка",
+    "ru_definition": "вид жевательной резинки, из которой можно надувать пузыри",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sakız"
+                ],
+                "Azerbaijani": [
+                    "saqqız"
+                ],
+                "Turkmen": [
+                    "sakgyç"
+                ],
+                "Uzbek": [
+                    "saqich"
+                ],
+                "Uyghur": [
+                    "سېغىز"
+                ],
+                "Kazakh": [
+                    "сағыз"
+                ],
+                "Kyrgyz": [
+                    "сагыз"
+                ],
+                "Karakalpak": [
+                    "saǵız"
+                ],
+                "Tatar": [
+                    "сагыз"
+                ],
+                "Bashkir": [
+                    "һағыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çiklet"
+                ],
+                "Azerbaijani": [
+                    "çeynəmə"
+                ],
+                "Kyrgyz": [
+                    "чайнама"
+                ],
+                "Tatar": [
+                    "чәйнәү сагызы"
+                ],
+                "Bashkir": [
+                    "сәйнәү һағыҙы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şişirilýän sakgyç"
+                ],
+                "Uzbek": [
+                    "shishiriladigan saqich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "balonlu sakız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۈۋلەيدىغان سېغىز"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көпіршікті сағыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "káuіsh"
+                ]
+            }
+        }
+    ]
+}

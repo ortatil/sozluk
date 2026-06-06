@@ -1,0 +1,183 @@
+# Professional organization
+| Field | Detail |
+|---|---|
+| **ID** | i80573 |
+| **English** | professional organization |
+| **Type** | noun |
+| **Definition** | an organization of and for professional people |
+| **Source** | common |
+| **Ortatil** | ittifaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ittifaq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.33** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئىتتىپاق | ittipaq |
+| ئويۇشما | oyuşma |
+
+```json
+{
+    "id": "i80573",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "professional organization",
+    "en_definition": "an organization of and for professional people",
+    "tr_word": "meslek kuruluşu",
+    "tr_definition": "belirli bir mesleğe mensup kişilerin haklarını korumak ve standartları belirlemek için oluşturdukları organizasyon",
+    "ru_word": "профессиональная организация",
+    "ru_definition": "объединение специалистов одной или нескольких смежных профессий для защиты своих интересов и установления стандартов деятельности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kasaba uyushmasi"
+                ],
+                "Uyghur": [
+                    "كەسپىي جەمئىيەت",
+                    "كەسپىي تەشكىلات"
+                ],
+                "Kazakh": [
+                    "кәсіби ұйым",
+                    "кәсіби бірлестік",
+                    "кәсіптік одақ"
+                ],
+                "Kyrgyz": [
+                    "кесиптик уюм",
+                    "кесиптик бирлик",
+                    "кесипкөйлөр бирикмеси"
+                ],
+                "Karakalpak": [
+                    "kásіbi shólkem",
+                    "kásіpkerler jámiyeti",
+                    "kásіp iyeleriniń birlespesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ititpak"
+                ],
+                "Uzbek": [
+                    "ittifoq"
+                ],
+                "Uyghur": [
+                    "ئىتتىپاق"
+                ],
+                "Kyrgyz": [
+                    "адистер коому"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hünärmenler birleşigi",
+                    "hünär guramasy",
+                    "hünärmenler jemgyýeti"
+                ],
+                "Tatar": [
+                    "һөнәри берләшмә",
+                    "һөнәри оешма",
+                    "һөнәри җәмгыять",
+                    "һөнәр ияләре берлеге"
+                ],
+                "Bashkir": [
+                    "һөнәри берекмә",
+                    "һөнәри ойошма",
+                    "һөнәрҙәштәр союзы",
+                    "һөнәри йәмғиәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cemiyet"
+                ],
+                "Uzbek": [
+                    "jamiyat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "meslek kuruluşu",
+                    "meslek odası",
+                    "meslek birliği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "teşekkül"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşə birliyi",
+                    "peşəkar birliyi",
+                    "peşəkar təşkilatı",
+                    "peşə cəmiyyəti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "peşə təşkilatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "anjuman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئويۇشما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мамандар қауымдастығы"
+                ]
+            }
+        }
+    ]
+}
+```
+

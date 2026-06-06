@@ -1,0 +1,128 @@
+{
+    "id": "i4400",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "sober",
+    "en_definition": "not affected by a chemical substance (especially alcohol)",
+    "tr_word": "ayık",
+    "tr_definition": "alkol veya uyuşturucu maddenin etkisinde olmayan",
+    "ru_word": "трезвый",
+    "ru_definition": "не находящийся под влиянием алкоголя или наркотиков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayık"
+                ],
+                "Azerbaijani": [
+                    "ayıq"
+                ],
+                "Turkmen": [
+                    "aýyk"
+                ],
+                "Kazakh": [
+                    "айық"
+                ],
+                "Kyrgyz": [
+                    "айык"
+                ],
+                "Karakalpak": [
+                    "aynımaǵan"
+                ],
+                "Tatar": [
+                    "айнык",
+                    "айныган"
+                ],
+                "Bashkir": [
+                    "айыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "huşyar"
+                ],
+                "Turkmen": [
+                    "huşly"
+                ],
+                "Uzbek": [
+                    "hushyor"
+                ],
+                "Uyghur": [
+                    "ھوشيار"
+                ],
+                "Bashkir": [
+                    "хушлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "serhoş däl"
+                ],
+                "Uzbek": [
+                    "sergak"
+                ],
+                "Uyghur": [
+                    "سەگەك"
+                ],
+                "Kazakh": [
+                    "сергек"
+                ],
+                "Kyrgyz": [
+                    "сергек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сау"
+                ],
+                "Kyrgyz": [
+                    "соо"
+                ],
+                "Karakalpak": [
+                    "sao"
+                ],
+                "Tatar": [
+                    "сау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müstakim"
+                ],
+                "Uzbek": [
+                    "mast bo'lmagan"
+                ],
+                "Uyghur": [
+                    "مەست ئەمەس"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ishpegen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәләмәт"
+                ]
+            }
+        }
+    ]
+}

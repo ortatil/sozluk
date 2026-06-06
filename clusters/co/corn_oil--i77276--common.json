@@ -1,0 +1,79 @@
+{
+    "id": "i77276",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "corn oil",
+    "en_definition": "oil from the germs of corn grains",
+    "tr_word": "mısır yağı",
+    "tr_definition": "mısır tanelerinin embriyolarından elde edilen bitkisel yağ",
+    "ru_word": "кукурузное масло",
+    "ru_definition": "растительное масло, получаемое из зародышей семян кукурузы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mekgejöwen ýagy",
+                    "mekge ýagy"
+                ],
+                "Uzbek": [
+                    "makkajoʻxori moyi",
+                    "makkajoʻxori yogʻi"
+                ],
+                "Tatar": [
+                    "мөкәй мае"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жүгері майы"
+                ],
+                "Kyrgyz": [
+                    "жүгөрү майы"
+                ],
+                "Karakalpak": [
+                    "júgerі mayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mısır yağı",
+                    "mısırözü yağı"
+                ],
+                "Bashkir": [
+                    "мөсөр майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күмәй мае"
+                ],
+                "Bashkir": [
+                    "күбәкәй майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarğıdalı yağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوناق مېيى",
+                    "قوناق يېغى"
+                ]
+            }
+        }
+    ]
+}

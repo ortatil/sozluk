@@ -1,0 +1,82 @@
+{
+    "id": "i59800",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sunscreen",
+    "en_definition": "a cream spread on the skin; contains a chemical (as PABA) to filter out ultraviolet light and so protect from sunburn",
+    "tr_word": "güneş kremi",
+    "tr_definition": "Cildi güneşin ultraviyole ışınlarından korumak ve güneş yanığını önlemek için sürülen krem.",
+    "ru_word": "солнцезащитный крем",
+    "ru_definition": "Средство для кожи, содержащее фильтры ультрафиолетового излучения для защиты от солнечных ожогов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quyoshdan himoya qiluvchi malham",
+                    "quyoshdan saqlovchi malham",
+                    "quyoshga qarshi malham"
+                ],
+                "Uyghur": [
+                    "قۇياشتىن قوغداش مەلھىمى"
+                ],
+                "Tatar": [
+                    "кояштан саклагыч",
+                    "кояштан саклаучы май",
+                    "кояштан саклаучы крем"
+                ],
+                "Bashkir": [
+                    "ҡояштан һаҡлаусы крем",
+                    "ҡояш кремы",
+                    "ҡояштан һаҡлағыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güneş kremi",
+                    "güneş yağı",
+                    "güneş koruyucu"
+                ],
+                "Azerbaijani": [
+                    "günəş kremi",
+                    "günəşdən qoruyucu krem",
+                    "günəş yağı"
+                ],
+                "Turkmen": [
+                    "gün kremi",
+                    "günden goraýjy krem",
+                    "gün ýangynyndan goraýjy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "күннен қорғайтын жақпа",
+                    "күннен қорғайтын крем",
+                    "күнге қарсы жақпа"
+                ],
+                "Kyrgyz": [
+                    "күндөн коргоочу май",
+                    "күндөн коргоочу крем"
+                ],
+                "Karakalpak": [
+                    "kúnnen qorǵaytuǵın krem",
+                    "kúnnen saqlaytuǵın krem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاپتاپتىن ساقلىنىش مەلھىمى",
+                    "ئاپتاپتىن ساقلىنىش كىرىمى"
+                ]
+            }
+        }
+    ]
+}

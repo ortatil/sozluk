@@ -1,0 +1,86 @@
+{
+    "id": "i43138",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "blue shark",
+    "en_definition": "slender cosmopolitan, pelagic shark; blue body shades to white belly; dangerous especially during maritime disasters",
+    "tr_word": "pamuk balığı",
+    "tr_definition": "İnce yapılı, pelajik bir köpekbalığı türü; sırtı mavi, karnı beyazdır ve deniz kazalarında tehlikeli olabilir.",
+    "ru_word": "синяя акула",
+    "ru_definition": "стройная пелагическая акула; тело синего цвета с белым брюхом; опасна, особенно во время морских катастроф",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gök köpek balığı"
+                ],
+                "Azerbaijani": [
+                    "göy köpəkbalığı"
+                ],
+                "Turkmen": [
+                    "gök akula"
+                ],
+                "Uzbek": [
+                    "koʻk akula"
+                ],
+                "Uyghur": [
+                    "كۆك لەھەڭ",
+                    "كۆك بېلىق"
+                ],
+                "Kazakh": [
+                    "көк акула",
+                    "көкшіл акула"
+                ],
+                "Kyrgyz": [
+                    "көк акула",
+                    "көк балык"
+                ],
+                "Karakalpak": [
+                    "kók akula",
+                    "kók balıq"
+                ],
+                "Tatar": [
+                    "күк акула"
+                ],
+                "Bashkir": [
+                    "күк акула"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mavi köpek balığı"
+                ],
+                "Azerbaijani": [
+                    "mavi köpəkbalığı"
+                ],
+                "Turkmen": [
+                    "mawy akula"
+                ],
+                "Uzbek": [
+                    "moviy akula"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зәңгәр акула"
+                ],
+                "Bashkir": [
+                    "зәңгәр акула"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pamuk köpek balığı"
+                ]
+            }
+        }
+    ]
+}

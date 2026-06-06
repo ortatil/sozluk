@@ -1,0 +1,109 @@
+# Short-handled
+| Field | Detail |
+|---|---|
+| **ID** | i18017 |
+| **English** | short-handled |
+| **Type** | adjective |
+| **Definition** | having a short handle |
+| **Source** | common |
+| **Ortatil** | qısasaplı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i18017",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "short-handled",
+    "en_definition": "having a short handle",
+    "tr_word": "kısa saplı",
+    "tr_definition": "kısa bir tutma yerine veya sapa sahip olan",
+    "ru_word": "с короткой ручкой",
+    "ru_definition": "имеющий короткую рукоятку или черенок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kısa saplı",
+                    "kısa kabzalı"
+                ],
+                "Azerbaijani": [
+                    "qısasaplı",
+                    "qısadestəkli"
+                ],
+                "Turkmen": [
+                    "gysga saply",
+                    "gysga tutawaçly"
+                ],
+                "Uzbek": [
+                    "qisqa dastali"
+                ],
+                "Uyghur": [
+                    "قىسقا ساپلىق"
+                ],
+                "Kazakh": [
+                    "қысқа сапты"
+                ],
+                "Kyrgyz": [
+                    "кыска саптуу",
+                    "кыска туткалуу"
+                ],
+                "Karakalpak": [
+                    "qısqa saplı"
+                ],
+                "Tatar": [
+                    "кыска саплы",
+                    "кыска тоткычлы"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡа һаплы",
+                    "ҡыҫҡа һаплыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шолақ сапты"
+                ],
+                "Karakalpak": [
+                    "sholaq saplı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gödəksaplı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kalta dastali"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dastasi qisqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ساپى قىسقا"
+                ]
+            }
+        }
+    ]
+}
+```
+

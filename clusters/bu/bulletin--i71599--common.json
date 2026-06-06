@@ -1,0 +1,201 @@
+{
+    "id": "i71599",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bulletin",
+    "en_definition": "a brief report (especially an official statement issued for immediate publication or broadcast)",
+    "tr_word": "bülten",
+    "tr_definition": "Özellikle resmi bir kurum tarafından yayınlanan kısa haber veya duyuru.",
+    "ru_word": "бюллетень",
+    "ru_definition": "Краткое официальное сообщение о событиях, имеющих общественное значение.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məlumat"
+                ],
+                "Turkmen": [
+                    "maglumat"
+                ],
+                "Uzbek": [
+                    "ma'lumotnoma"
+                ],
+                "Uyghur": [
+                    "مەلۇماتنامە"
+                ],
+                "Kazakh": [
+                    "мәлімдеме"
+                ],
+                "Kyrgyz": [
+                    "маалымат"
+                ],
+                "Karakalpak": [
+                    "málimleme"
+                ],
+                "Tatar": [
+                    "мәгълүмат"
+                ],
+                "Bashkir": [
+                    "мәғлүмәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xəbər"
+                ],
+                "Turkmen": [
+                    "habar"
+                ],
+                "Uzbek": [
+                    "xabar"
+                ],
+                "Kazakh": [
+                    "хабарлама",
+                    "хабар"
+                ],
+                "Kyrgyz": [
+                    "кабар"
+                ],
+                "Karakalpak": [
+                    "xabar"
+                ],
+                "Tatar": [
+                    "хәбәр"
+                ],
+                "Bashkir": [
+                    "хәбәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bildiri"
+                ],
+                "Azerbaijani": [
+                    "bildiriş"
+                ],
+                "Turkmen": [
+                    "bildiriş"
+                ],
+                "Uzbek": [
+                    "bildirishnoma"
+                ],
+                "Kyrgyz": [
+                    "билдирүү"
+                ],
+                "Karakalpak": [
+                    "bildirio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bülten"
+                ],
+                "Azerbaijani": [
+                    "bülleten"
+                ],
+                "Tatar": [
+                    "белдерү"
+                ],
+                "Bashkir": [
+                    "белдереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilan"
+                ],
+                "Azerbaijani": [
+                    "elan"
+                ],
+                "Tatar": [
+                    "игълан"
+                ],
+                "Bashkir": [
+                    "иғлан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жарияланым"
+                ],
+                "Kyrgyz": [
+                    "жарыя"
+                ],
+                "Karakalpak": [
+                    "járiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "beýannama"
+                ],
+                "Uyghur": [
+                    "بايانات"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "axborot"
+                ],
+                "Kazakh": [
+                    "ақпарат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duyuru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tebliğ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hisobot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇقتۇرۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەۋەرنامە"
+                ]
+            }
+        }
+    ]
+}

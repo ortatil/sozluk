@@ -1,0 +1,153 @@
+# Cross-stitch
+| Field | Detail |
+|---|---|
+| **ID** | i52542 |
+| **English** | cross-stitch |
+| **Type** | noun |
+| **Definition** | embroidery done with pairs of stitches that cross each other |
+| **Source** | common |
+| **Ortatil** | iräqi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| крестеу | kresteu |
+
+```json
+{
+    "id": "i52542",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cross-stitch",
+    "en_definition": "embroidery done with pairs of stitches that cross each other",
+    "tr_word": "kanaviçe",
+    "tr_definition": "Birbirini kesen çapraz dikişlerle yapılan bir nakış türü.",
+    "ru_word": "вышивка крестиком",
+    "ru_definition": "вид вышивки, выполняемый перекрещивающимися стежками.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كرېست كەشتە",
+                    "كرېستسىمان كەشتە"
+                ],
+                "Kazakh": [
+                    "крестеу"
+                ],
+                "Kyrgyz": [
+                    "кереге сайма"
+                ],
+                "Karakalpak": [
+                    "krest keste"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çarpı işi",
+                    "çapraz dikiş"
+                ],
+                "Azerbaijani": [
+                    "çarpaztikmə"
+                ],
+                "Turkmen": [
+                    "çatryk keşde"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xaçtikmə"
+                ],
+                "Uzbek": [
+                    "xochsimon chok"
+                ],
+                "Tatar": [
+                    "хачлап чигү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айқас кесте",
+                    "айқас тігіс"
+                ],
+                "Karakalpak": [
+                    "ayqısh keste"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кайчылаш сайма",
+                    "кайчы сайма"
+                ],
+                "Bashkir": [
+                    "ҡыйыш сигеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәреләп чигү"
+                ],
+                "Bashkir": [
+                    "тәреле сигеү",
+                    "тәреләп сигеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kanaviçe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "atanak",
+                    "atanak keşde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "iroqi",
+                    "iroqi chok"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۈل كەشتە"
+                ]
+            }
+        }
+    ]
+}
+```
+

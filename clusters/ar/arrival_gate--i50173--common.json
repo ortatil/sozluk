@@ -1,0 +1,110 @@
+{
+    "id": "i50173",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "arrival gate",
+    "en_definition": "gate where passengers disembark",
+    "tr_word": "varış kapısı",
+    "tr_definition": "yolcuların uçaktan indiği kapı",
+    "ru_word": "выход на посадку (прибытие)",
+    "ru_definition": "выход, через который пассажиры выходят из самолета по прибытии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geliş kapısı"
+                ],
+                "Azerbaijani": [
+                    "gəliş qapısı",
+                    "gəlmə qapısı"
+                ],
+                "Turkmen": [
+                    "gelýänleriň gapysy",
+                    "gelýänler derwezesi"
+                ],
+                "Uzbek": [
+                    "kelish darvozasi",
+                    "kelish yo'lagi"
+                ],
+                "Uyghur": [
+                    "كېلىش دەرۋازىسى",
+                    "كېلىش ئېغىزى"
+                ],
+                "Kazakh": [
+                    "келу қақпасы",
+                    "келу есігі"
+                ],
+                "Kyrgyz": [
+                    "келүү дарбазасы",
+                    "келүү эшиги"
+                ],
+                "Karakalpak": [
+                    "kelio esigi",
+                    "kelio dároazası"
+                ],
+                "Tatar": [
+                    "килү капкасы",
+                    "килү ишеге"
+                ],
+                "Bashkir": [
+                    "килеү ҡапҡаһы",
+                    "килеү урыны",
+                    "килеү ишеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "varış kapısı",
+                    "çıkış kapısı"
+                ],
+                "Azerbaijani": [
+                    "çıxış qapısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kirish eshigi"
+                ],
+                "Karakalpak": [
+                    "kirio esigi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұшып келу қақпасы"
+                ],
+                "Kyrgyz": [
+                    "учуп келүү дарбазасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gonuş gapysy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چۈشۈش ئېغىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төшү капкасы"
+                ]
+            }
+        }
+    ]
+}

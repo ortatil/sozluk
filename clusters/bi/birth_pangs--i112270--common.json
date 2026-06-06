@@ -1,0 +1,97 @@
+{
+    "id": "i112270",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "birth pangs",
+    "en_definition": "a regularly recurrent spasm of pain that is characteristic of childbirth",
+    "tr_word": "doğum sancısı",
+    "tr_definition": "Doğum sırasında rahim kasılmalarından kaynaklanan şiddetli ve düzenli ağrı.",
+    "ru_word": "родовые схватки",
+    "ru_definition": "Регулярные непроизвольные сокращения матки, возникающие в процессе родов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tül"
+                ],
+                "Turkmen": [
+                    "tolgak"
+                ],
+                "Uzbek": [
+                    "to'lg'oq"
+                ],
+                "Uyghur": [
+                    "تولغاق",
+                    "تولغاق ئاغرىقى"
+                ],
+                "Kazakh": [
+                    "толғақ",
+                    "толғату",
+                    "толғақ қысу"
+                ],
+                "Kyrgyz": [
+                    "толгоо",
+                    "толгоо тартуу",
+                    "толгоо азабы"
+                ],
+                "Karakalpak": [
+                    "tolǵaq",
+                    "tolǵaq azabı"
+                ],
+                "Tatar": [
+                    "тулгак",
+                    "тулгак тоту",
+                    "тулгак авыртуы"
+                ],
+                "Bashkir": [
+                    "тулғаҡ",
+                    "тулғаҡланыу",
+                    "тулғаҡ ауыртыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doğum sancısı"
+                ],
+                "Azerbaijani": [
+                    "doğuş sancısı",
+                    "doğum sancısı"
+                ],
+                "Turkmen": [
+                    "dogum agyrysy"
+                ],
+                "Uzbek": [
+                    "tug'ruq dardi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sancı"
+                ],
+                "Azerbaijani": [
+                    "sancı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağrı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dard"
+                ]
+            }
+        }
+    ]
+}

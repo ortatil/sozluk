@@ -1,0 +1,78 @@
+{
+    "id": "i5778",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "cedar-scented",
+    "en_definition": "smelling like cedar",
+    "tr_word": "sedir kokulu",
+    "tr_definition": "sedir ağacı gibi kokan",
+    "ru_word": "с ароматом кедра",
+    "ru_definition": "имеющий запах кедрового дерева",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sedir kokulu",
+                    "sedir ıtriyatlı",
+                    "sedir rayihalı"
+                ],
+                "Azerbaijani": [
+                    "sidr qoxulu",
+                    "sidr ətirli",
+                    "sidr iyli"
+                ],
+                "Turkmen": [
+                    "kedr ysly"
+                ],
+                "Uzbek": [
+                    "kedr hidli",
+                    "kedr iforli",
+                    "kedr bo'yli"
+                ],
+                "Uyghur": [
+                    "كېدىر پۇراقلىق",
+                    "كېدىر پۇرىقى كېلىدىغان",
+                    "كېدىر ھىدلىق"
+                ],
+                "Tatar": [
+                    "кедр исле",
+                    "кедр хуш исле",
+                    "кедр агачы исле"
+                ],
+                "Bashkir": [
+                    "кедр еҫле",
+                    "кедр еҫе килгән",
+                    "кедр еҫе аңҡыған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "arça ysly"
+                ],
+                "Kyrgyz": [
+                    "арча жыттуу",
+                    "арча жыттанган",
+                    "арча жыты аңкыган"
+                ],
+                "Karakalpak": [
+                    "arsha iyisli",
+                    "arsha jıslı",
+                    "arsha puraqlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "балқарағай иісті",
+                    "балқарағай жұпарлы",
+                    "балқарағай аңқыған"
+                ]
+            }
+        }
+    ]
+}

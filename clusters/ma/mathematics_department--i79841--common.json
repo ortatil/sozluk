@@ -1,0 +1,70 @@
+{
+    "id": "i79841",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mathematics department",
+    "en_definition": "the academic department responsible for teaching and research in mathematics",
+    "tr_word": "matematik bölümü",
+    "tr_definition": "matematik alanında eğitim ve araştırma yapmaktan sorumlu akademik birim",
+    "ru_word": "кафедра математики",
+    "ru_definition": "академическое подразделение, ответственное за преподавание и исследования в области математики",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "matematik bölümü",
+                    "matematik kürsüsü"
+                ],
+                "Turkmen": [
+                    "matematika bölümi",
+                    "matematika kafedrasy",
+                    "matematika fakulteti"
+                ],
+                "Uzbek": [
+                    "matematika kafedrasi",
+                    "matematika bo'limi",
+                    "matematika fakulteti"
+                ],
+                "Uyghur": [
+                    "ماتېماتىكا فاكۇلتېتى",
+                    "ماتېماتىكا بۆلۈمى",
+                    "ماتېماتىكا كافېدراسى"
+                ],
+                "Kazakh": [
+                    "математика кафедрасы",
+                    "математика факультеті",
+                    "математика бөлімі"
+                ],
+                "Kyrgyz": [
+                    "математика кафедрасы",
+                    "математика бөлүмү"
+                ],
+                "Karakalpak": [
+                    "matematika kafedrası",
+                    "matematika bólimi"
+                ],
+                "Tatar": [
+                    "математика кафедрасы",
+                    "математика бүлеге"
+                ],
+                "Bashkir": [
+                    "математика кафедраһы",
+                    "математика бүлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "riyaziye bölümü"
+                ],
+                "Azerbaijani": [
+                    "riyaziyyat kafedrası",
+                    "riyaziyyat şöbəsi",
+                    "riyaziyyat fakültəsi"
+                ]
+            }
+        }
+    ]
+}

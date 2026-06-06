@@ -1,0 +1,96 @@
+{
+    "id": "i64840",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "front tooth",
+    "en_definition": "a tooth situated at the front of the mouth",
+    "tr_word": "ön diş",
+    "tr_definition": "ağzın ön kısmında bulunan dişlerden her biri",
+    "ru_word": "передний зуб",
+    "ru_definition": "зуб, расположенный в передней части рта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kesici diş"
+                ],
+                "Azerbaijani": [
+                    "kəsici diş"
+                ],
+                "Turkmen": [
+                    "kesiji diş"
+                ],
+                "Uzbek": [
+                    "kesuvchi tish"
+                ],
+                "Uyghur": [
+                    "كېسەر چىش"
+                ],
+                "Kyrgyz": [
+                    "кескич тиш"
+                ],
+                "Tatar": [
+                    "кискеч теш"
+                ],
+                "Bashkir": [
+                    "киҫкес теш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "old tish"
+                ],
+                "Uyghur": [
+                    "ئالدى چىش"
+                ],
+                "Kazakh": [
+                    "алдыңғы тіс"
+                ],
+                "Karakalpak": [
+                    "aldıńǵı tis"
+                ],
+                "Tatar": [
+                    "алгы теш"
+                ],
+                "Bashkir": [
+                    "алғы теш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ön diş"
+                ],
+                "Azerbaijani": [
+                    "ön diş"
+                ],
+                "Turkmen": [
+                    "öňki diş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күрек тіс"
+                ],
+                "Karakalpak": [
+                    "kúrek tis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "маңдай тиш"
+                ]
+            }
+        }
+    ]
+}

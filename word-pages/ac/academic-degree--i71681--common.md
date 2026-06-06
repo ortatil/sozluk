@@ -1,0 +1,147 @@
+# Academic degree
+| Field | Detail |
+|---|---|
+| **ID** | i71681 |
+| **English** | academic degree |
+| **Type** | noun |
+| **Definition** | an award conferred by a college or university signifying that the recipient has satisfactorily completed a course of study |
+| **Source** | common |
+| **Ortatil** | unwan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| дәрәжә | däräjä |
+
+```json
+{
+    "id": "i71681",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "academic degree",
+    "en_definition": "an award conferred by a college or university signifying that the recipient has satisfactorily completed a course of study",
+    "tr_word": "akademik derece",
+    "tr_definition": "bir yükseköğretim kurumu tarafından, bir öğrenim programını başarıyla tamamlayan kişilere verilen unvan",
+    "ru_word": "учёная степень",
+    "ru_definition": "квалификационная ступень в высшем образовании или науке, присуждаемая по результатам завершения программы обучения или защиты диссертации",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilmî derece"
+                ],
+                "Azerbaijani": [
+                    "elmi dərəcə"
+                ],
+                "Turkmen": [
+                    "ylmy dereje"
+                ],
+                "Uzbek": [
+                    "ilmiy daraja"
+                ],
+                "Uyghur": [
+                    "ئىلمىي ئۇنۋان",
+                    "ئىلمىي دەرىجە"
+                ],
+                "Bashkir": [
+                    "ғилми дәрәжә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akademik derece"
+                ],
+                "Kazakh": [
+                    "академиялық дәреже"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahsil derecesi"
+                ],
+                "Azerbaijani": [
+                    "təhsil dərəcəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "unwan"
+                ],
+                "Uzbek": [
+                    "unvon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ғылыми дәреже"
+                ],
+                "Tatar": [
+                    "гыйльми дәрәҗә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илимий даража",
+                    "илимий наам"
+                ],
+                "Karakalpak": [
+                    "ilimiy dáreje",
+                    "ilimiy ataq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "diploma derecesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ixtisas dərəcəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şahadatnama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "фәнни дәрәҗә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дәрәжә"
+                ]
+            }
+        }
+    ]
+}
+```
+

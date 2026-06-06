@@ -1,0 +1,124 @@
+# Turkey-sized
+| Field | Detail |
+|---|---|
+| **ID** | i12299 |
+| **English** | turkey-sized |
+| **Type** | adjective |
+| **Definition** | having the approximate size of a turkey |
+| **Source** | common |
+| **Ortatil** | kürketäıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kürketäıq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| күркетауықтай | kürketauıqtay |
+| **Kyrgyz** | |
+| күрптөй | kürptöy |
+| **Tatar** | |
+| күркәдәй | kürkädäy |
+
+```json
+{
+    "id": "i12299",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "turkey-sized",
+    "en_definition": "having the approximate size of a turkey",
+    "tr_word": "hindi büyüklüğünde",
+    "tr_definition": "yaklaşık bir hindi boyutunda olan",
+    "ru_word": "размером с индейку",
+    "ru_definition": "имеющий примерный размер индейки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kurka kattaligidagi",
+                    "kurka jussasidagi",
+                    "kurka hajmidagi"
+                ],
+                "Uyghur": [
+                    "كۈركە توخۇدەك",
+                    "كۈركە توخۇ چوڭلۇقىدىكى",
+                    "كۈركە توخۇ گەۋدىسىدەك"
+                ],
+                "Kazakh": [
+                    "күркетауықтай",
+                    "күркетауық көлеміндей",
+                    "күркетауық тұрпатты"
+                ],
+                "Karakalpak": [
+                    "kúrketaoıqtay",
+                    "kúrketaoıq úlkenligindegi",
+                    "kúrketaoıq kelbetli"
+                ],
+                "Tatar": [
+                    "күркә кадәр",
+                    "күркә зурлыгындагы",
+                    "күркәдәй"
+                ],
+                "Bashkir": [
+                    "күркә хәтлем",
+                    "күркә ҙурлығындағы",
+                    "күркә кеүек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hindi büyüklüğünde",
+                    "hindi kadar",
+                    "hindi boyunda",
+                    "hindi iriliğinde"
+                ],
+                "Azerbaijani": [
+                    "hinduşka boyda",
+                    "hinduşka iriliyində",
+                    "hinduşka cüssəli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "indiguş ýaly",
+                    "indiguş ululygyndaky",
+                    "indiguş boýly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күрптөй",
+                    "күрптөй чоңдуктагы",
+                    "күрптөй көлөмдөгү"
+                ]
+            }
+        }
+    ]
+}
+```
+

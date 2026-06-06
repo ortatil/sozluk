@@ -1,0 +1,74 @@
+{
+    "id": "i74915",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "v sign",
+    "en_definition": "a sign (for victory); making a V with the index and middle fingers",
+    "tr_word": "zafer işareti",
+    "tr_definition": "İşaret ve orta parmakların V şeklinde açılmasıyla yapılan, zafer veya barış anlamına gelen el hareketi.",
+    "ru_word": "знак V",
+    "ru_definition": "жест, при котором указательный и средний пальцы подняты и разведены в стороны в форме латинской буквы V, означающий победу или мир.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýeňiş nyşany",
+                    "ýeňiş alamaty"
+                ],
+                "Kazakh": [
+                    "жеңіс белгісі",
+                    "жеңіс нышаны"
+                ],
+                "Kyrgyz": [
+                    "жеңиш белгиси",
+                    "жеңиш ишараты"
+                ],
+                "Karakalpak": [
+                    "jeńis belgisi",
+                    "jeńis isharatı"
+                ],
+                "Tatar": [
+                    "җиңү билгесе",
+                    "җиңү ишарәсе"
+                ],
+                "Bashkir": [
+                    "еңеү билдәһе",
+                    "еңеү ишараһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zafer işareti",
+                    "zafer selamı"
+                ],
+                "Azerbaijani": [
+                    "zəfər işarəsi"
+                ],
+                "Uzbek": [
+                    "zafar ishorasi"
+                ],
+                "Uyghur": [
+                    "زەپەر بەلگىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qələbə işarəsi"
+                ],
+                "Uzbek": [
+                    "g'alaba belgisi"
+                ],
+                "Uyghur": [
+                    "غەلىبە بەلگىسى"
+                ]
+            }
+        }
+    ]
+}

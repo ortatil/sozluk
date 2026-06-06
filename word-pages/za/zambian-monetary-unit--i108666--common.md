@@ -1,0 +1,119 @@
+# Zambian monetary unit
+| Field | Detail |
+|---|---|
+| **ID** | i108666 |
+| **English** | zambian monetary unit |
+| **Type** | noun |
+| **Definition** | monetary unit in Zambia |
+| **Source** | common |
+| **Ortatil** | kwaça |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kwaça** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كۋاچا | kvaça |
+| **Kazakh** | |
+| квача | kvaça |
+| **Kyrgyz** | |
+| квача | kvaça |
+| **Tatar** | |
+| квача | kvaça |
+| **Bashkir** | |
+| квача | kvaça |
+
+```json
+{
+    "id": "i108666",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "zambian monetary unit",
+    "en_definition": "monetary unit in Zambia",
+    "tr_word": "Zambiya para birimi",
+    "tr_definition": "Zambiya'da kullanılan resmi para birimi (Kwacha)",
+    "ru_word": "денежная единица Замбии",
+    "ru_definition": "официальная валюта Замбии (квача)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kvaça"
+                ],
+                "Turkmen": [
+                    "kwatça"
+                ],
+                "Uzbek": [
+                    "kvacha"
+                ],
+                "Uyghur": [
+                    "كۋاچا"
+                ],
+                "Kazakh": [
+                    "квача"
+                ],
+                "Kyrgyz": [
+                    "квача"
+                ],
+                "Karakalpak": [
+                    "kwacha"
+                ],
+                "Tatar": [
+                    "квача"
+                ],
+                "Bashkir": [
+                    "квача"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Zambiya kvaçası",
+                    "Zambiya para birimi"
+                ],
+                "Azerbaijani": [
+                    "Zambiya kvaçası"
+                ],
+                "Uzbek": [
+                    "Zambiya kvachasi"
+                ],
+                "Uyghur": [
+                    "زامبىيە كۋاچاسى"
+                ],
+                "Kazakh": [
+                    "Замбия квачасы"
+                ],
+                "Kyrgyz": [
+                    "Замбия квачасы"
+                ],
+                "Bashkir": [
+                    "Замбия квачаһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

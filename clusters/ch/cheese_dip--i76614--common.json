@@ -1,0 +1,84 @@
+{
+    "id": "i76614",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cheese dip",
+    "en_definition": "a dip made of cheeses",
+    "tr_word": "peynir sosu",
+    "tr_definition": "Peynirlerin eritilmesi veya karıştırılmasıyla hazırlanan bir tür daldırma sosu.",
+    "ru_word": "сырный дип",
+    "ru_definition": "соус на основе сыра, предназначенный для обмакивания в него еды.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "сыр чыгы",
+                    "сыр малынмасы"
+                ],
+                "Karakalpak": [
+                    "sırlı sous",
+                    "sırlı qospa",
+                    "sırlı batırma"
+                ],
+                "Tatar": [
+                    "сыр соусы",
+                    "сырлы соус",
+                    "сырлы катнашма"
+                ],
+                "Bashkir": [
+                    "сыр соусы",
+                    "сырлы соус",
+                    "сырлы батырма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "peynir sosu",
+                    "peynirli sos",
+                    "peynir ezmesi"
+                ],
+                "Azerbaijani": [
+                    "pendir sousu",
+                    "pendir əzməsi"
+                ],
+                "Turkmen": [
+                    "peýnirli sous",
+                    "peýnirli garyndy",
+                    "peýnirli batyrma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pishloqli qayla",
+                    "pishloqli sous"
+                ],
+                "Uyghur": [
+                    "پىشلاق قىيامى",
+                    "پىشلاق چىلاتمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ірімшік тұздығы",
+                    "ірімшік соусы",
+                    "ірімшік қоспасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сыр соусу"
+                ]
+            }
+        }
+    ]
+}

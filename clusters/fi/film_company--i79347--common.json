@@ -1,0 +1,87 @@
+{
+    "id": "i79347",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "film company",
+    "en_definition": "a company that makes, advertises, and distributes movies",
+    "tr_word": "film şirketi",
+    "tr_definition": "film yapan, reklamını yapan ve dağıtan şirket",
+    "ru_word": "кинокомпания",
+    "ru_definition": "компания, которая занимается производством, рекламой и прокатом фильмов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kinostudiya"
+                ],
+                "Turkmen": [
+                    "kinostudiýa"
+                ],
+                "Uzbek": [
+                    "kinostudiya",
+                    "kinojamiyat",
+                    "kinoshirkat"
+                ],
+                "Uyghur": [
+                    "كىنو شىركىتى",
+                    "كىنو ستۇدىيىسى"
+                ],
+                "Kazakh": [
+                    "киностудия",
+                    "киносеріктестік",
+                    "кинокомпания"
+                ],
+                "Kyrgyz": [
+                    "киностудия"
+                ],
+                "Karakalpak": [
+                    "kinostudiya",
+                    "kino kárxanası"
+                ],
+                "Tatar": [
+                    "киностудия",
+                    "кино ширкәте",
+                    "кино җәмгыяте"
+                ],
+                "Bashkir": [
+                    "киностудия",
+                    "кино ширҡәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "film şirketi",
+                    "film yapım evi"
+                ],
+                "Azerbaijani": [
+                    "film şirkəti",
+                    "film istehsalçısı"
+                ],
+                "Turkmen": [
+                    "film kärhanasy"
+                ],
+                "Uyghur": [
+                    "فىلىم شىركىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yapım şirketi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тасмакана"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "id": "i52757",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "deep-freeze",
+    "en_definition": "electric refrigerator (trade name Deepfreeze) in which food is frozen and stored for long periods of time",
+    "tr_word": "derin dondurucu",
+    "tr_definition": "Yiyeceklerin uzun süre bozulmadan saklanabilmesi için dondurularak muhafaza edildiği elektrikli cihaz.",
+    "ru_word": "морозильная камера",
+    "ru_definition": "Электрический прибор, предназначенный для быстрого замораживания и длительного хранения продуктов питания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buzluk"
+                ],
+                "Azerbaijani": [
+                    "buzxana"
+                ],
+                "Turkmen": [
+                    "buzhana"
+                ],
+                "Uzbek": [
+                    "muzxona"
+                ],
+                "Uyghur": [
+                    "مۇزلاتقۇ"
+                ],
+                "Kazakh": [
+                    "мұзхана"
+                ],
+                "Kyrgyz": [
+                    "муздаткыч"
+                ],
+                "Karakalpak": [
+                    "mұzdatqısh"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dondurucu"
+                ],
+                "Azerbaijani": [
+                    "dondurucu"
+                ],
+                "Turkmen": [
+                    "doňduryjy"
+                ],
+                "Uyghur": [
+                    "تۇڭلاتقۇ"
+                ],
+                "Kyrgyz": [
+                    "тоңдургуч"
+                ],
+                "Tatar": [
+                    "туңдыргыч"
+                ],
+                "Bashkir": [
+                    "туңдырғыс",
+                    "туңдырыу камераһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "soyuducu"
+                ],
+                "Uyghur": [
+                    "سوغۇقخانا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muzlatgich"
+                ],
+                "Kazakh": [
+                    "мұздатқыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sovutgich"
+                ],
+                "Tatar": [
+                    "суыткыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тоңазытқыш"
+                ],
+                "Karakalpak": [
+                    "tońazıtqısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "derin dondurucu"
+                ]
+            }
+        }
+    ]
+}

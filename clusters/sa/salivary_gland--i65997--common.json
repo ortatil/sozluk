@@ -1,0 +1,83 @@
+{
+    "id": "i65997",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "salivary gland",
+    "en_definition": "any of three pairs of glands in the mouth and digestive system that secrete saliva for digestion",
+    "tr_word": "tükürük bezi",
+    "tr_definition": "Ağızda ve sindirim sisteminde sindirim için tükürük salgılayan üç çift bezden her biri.",
+    "ru_word": "слюнная железа",
+    "ru_definition": "Любая из трех пар желез во рту и пищеварительной системе, которые выделяют слюну для пищеварения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tükürük bezi",
+                    "tükürük guddesi"
+                ],
+                "Azerbaijani": [
+                    "tüpürcək vəzisi"
+                ],
+                "Turkmen": [
+                    "tüýkülik mäzi",
+                    "tüýkülik çykaryjy mäz"
+                ],
+                "Uyghur": [
+                    "تۈكۈرۈك بېزى"
+                ],
+                "Karakalpak": [
+                    "túkіrіk bezi"
+                ],
+                "Tatar": [
+                    "төкерү бизе"
+                ],
+                "Bashkir": [
+                    "төкерөк биҙе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "so'lak bezi"
+                ],
+                "Kazakh": [
+                    "сілекей безі",
+                    "сілекей бездері"
+                ],
+                "Kyrgyz": [
+                    "шилекей бези",
+                    "шилекей чыгаруучу без"
+                ],
+                "Karakalpak": [
+                    "sіlekey bezi"
+                ],
+                "Tatar": [
+                    "селәгәй бизе"
+                ],
+                "Bashkir": [
+                    "һеләгәй биҙе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ağız suyu vəzisi"
+                ],
+                "Uyghur": [
+                    "ئاغۇز سۈيى بېزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tupuk bezi"
+                ]
+            }
+        }
+    ]
+}

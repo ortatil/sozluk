@@ -1,0 +1,104 @@
+{
+    "id": "i42007",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "awakening",
+    "en_definition": "the act of waking",
+    "tr_word": "uyanış",
+    "tr_definition": "uykudan uyanma eylemi veya bir şeyin farkına varma süreci",
+    "ru_word": "пробуждение",
+    "ru_definition": "состояние или процесс перехода от сна к бодрствованию",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uyanış",
+                    "uyanma"
+                ],
+                "Azerbaijani": [
+                    "oyanma",
+                    "oyanısh",
+                    "oyanıq"
+                ],
+                "Turkmen": [
+                    "oýanma",
+                    "oýanyş"
+                ],
+                "Uzbek": [
+                    "uygʻonish",
+                    "uygʻonuv"
+                ],
+                "Uyghur": [
+                    "ئويغىنىش"
+                ],
+                "Kazakh": [
+                    "ояну",
+                    "ояныс"
+                ],
+                "Kyrgyz": [
+                    "ойгонуу",
+                    "ойгонуш"
+                ],
+                "Karakalpak": [
+                    "oyanıo",
+                    "oyanıs"
+                ],
+                "Tatar": [
+                    "уяну",
+                    "уянулык",
+                    "уяныш"
+                ],
+                "Bashkir": [
+                    "уяныу",
+                    "уяныш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bedorlik"
+                ],
+                "Uyghur": [
+                    "بىدارلىق"
+                ],
+                "Bashkir": [
+                    "бидәрлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұру"
+                ],
+                "Kyrgyz": [
+                    "туруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "intibah"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھوشيارلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tirshilik"
+                ]
+            }
+        }
+    ]
+}

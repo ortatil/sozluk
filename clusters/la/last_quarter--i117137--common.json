@@ -1,0 +1,95 @@
+{
+    "id": "i117137",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "last quarter",
+    "en_definition": "the last fourth of the Moon's period of revolution around the Earth",
+    "tr_word": "son dördün",
+    "tr_definition": "Ay'ın evrelerinden biri; Ay'ın Dünya çevresindeki dönüşünün son dördüncü bölümü",
+    "ru_word": "последняя четверть",
+    "ru_definition": "фаза Луны, при которой освещена ровно половина видимой стороны в конце цикла",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "son dördün",
+                    "son çeyrek"
+                ],
+                "Azerbaijani": [
+                    "son rüb"
+                ],
+                "Turkmen": [
+                    "soňky dörtden bir",
+                    "soňky çärjek"
+                ],
+                "Uzbek": [
+                    "soʻnggi chorak"
+                ],
+                "Kazakh": [
+                    "соңғы ширек"
+                ],
+                "Karakalpak": [
+                    "sońǵı shirek"
+                ],
+                "Tatar": [
+                    "соңгы чирек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "айдың соңғы ширегі"
+                ],
+                "Kyrgyz": [
+                    "айдын аягы"
+                ],
+                "Karakalpak": [
+                    "aydıń sońǵı shiregi"
+                ],
+                "Tatar": [
+                    "айның соңгы чиреге"
+                ],
+                "Bashkir": [
+                    "айҙың һуңғы сиреге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "axırıncı rüb"
+                ],
+                "Uzbek": [
+                    "oxirgi chorak"
+                ],
+                "Uyghur": [
+                    "ئاخىرقى چارەك"
+                ],
+                "Kyrgyz": [
+                    "акыркы чейрек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эски ай"
+                ],
+                "Bashkir": [
+                    "иҫке ай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆتىنچى چارەك"
+                ]
+            }
+        }
+    ]
+}

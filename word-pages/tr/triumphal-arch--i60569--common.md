@@ -1,0 +1,157 @@
+# Triumphal arch
+| Field | Detail |
+|---|---|
+| **ID** | i60569 |
+| **English** | triumphal arch |
+| **Type** | noun |
+| **Definition** | a monumental archway; usually they are built to commemorate some notable victory |
+| **Source** | common |
+| **Ortatil** | arka |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| арка | arka |
+| **Kyrgyz** | |
+| арка | arka |
+
+```json
+{
+    "id": "i60569",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "triumphal arch",
+    "en_definition": "a monumental archway; usually they are built to commemorate some notable victory",
+    "tr_word": "zafer takı",
+    "tr_definition": "önemli bir zaferi kutlamak amacıyla inşa edilen anıtsal kemer",
+    "ru_word": "триумфальная арка",
+    "ru_definition": "монументальное сооружение в виде арки, воздвигнутое в честь выдающейся победы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zafer takı",
+                    "zafer kemeri"
+                ],
+                "Azerbaijani": [
+                    "zəfər tağı"
+                ],
+                "Turkmen": [
+                    "zafer derwezesi"
+                ],
+                "Uzbek": [
+                    "zafar darvozasi",
+                    "zafar toqi"
+                ],
+                "Uyghur": [
+                    "زەپەر دەرۋازىسى"
+                ],
+                "Tatar": [
+                    "зәфәр капкасы",
+                    "зәфәр аркасы"
+                ],
+                "Bashkir": [
+                    "зафар ҡапҡаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýeňiş derwezesi"
+                ],
+                "Kazakh": [
+                    "жеңіс қақпасы"
+                ],
+                "Kyrgyz": [
+                    "жеңиш дарбазасы"
+                ],
+                "Karakalpak": [
+                    "jeńis arkası",
+                    "jeńis dároazası"
+                ],
+                "Tatar": [
+                    "җиңү капкасы"
+                ],
+                "Bashkir": [
+                    "еңеү ҡапҡаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qələbə tağı"
+                ],
+                "Uzbek": [
+                    "g'alaba darvozasi"
+                ],
+                "Uyghur": [
+                    "غەلىبە دەرۋازىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "салтанат қақпасы"
+                ],
+                "Kyrgyz": [
+                    "салтанат дарбазасы"
+                ],
+                "Karakalpak": [
+                    "saltanatlı arka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арка"
+                ],
+                "Kyrgyz": [
+                    "арка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muzafferiyet kemeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tag"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەنتەنە دەرۋازىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төнгөлө ҡапҡа"
+                ]
+            }
+        }
+    ]
+}
+```
+

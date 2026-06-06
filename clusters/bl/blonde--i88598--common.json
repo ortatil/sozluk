@@ -1,0 +1,97 @@
+{
+    "id": "i88598",
+    "type": "unknown",
+    "batch": "common",
+    "en_word": "blond person",
+    "en_definition": "a person with fair skin and hair",
+    "tr_word": "sarışın",
+    "tr_definition": "açık renkli teni ve saçları olan kimse",
+    "ru_word": "блондин",
+    "ru_definition": "человек со светлой кожей и светлыми волосами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sarışın",
+                    "sarı"
+                ],
+                "Azerbaijani": [
+                    "sarışın",
+                    "sarışınbəniz"
+                ],
+                "Turkmen": [
+                    "sary",
+                    "saryýagyz"
+                ],
+                "Uzbek": [
+                    "sariq"
+                ],
+                "Uyghur": [
+                    "سېرىق",
+                    "سېرىق چاچ"
+                ],
+                "Kazakh": [
+                    "сары"
+                ],
+                "Kyrgyz": [
+                    "сары",
+                    "сары чийкил"
+                ],
+                "Karakalpak": [
+                    "sarı",
+                    "sarı-ala"
+                ],
+                "Tatar": [
+                    "сары",
+                    "сары чәчле"
+                ],
+                "Bashkir": [
+                    "һары",
+                    "һары сәсле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ağbəniz"
+                ],
+                "Turkmen": [
+                    "akýagyz"
+                ],
+                "Uzbek": [
+                    "oq-sariq"
+                ],
+                "Uyghur": [
+                    "ئاق سېرىق"
+                ],
+                "Kazakh": [
+                    "аққұба",
+                    "ақсары"
+                ],
+                "Kyrgyz": [
+                    "ак сары"
+                ],
+                "Karakalpak": [
+                    "aq-sarı"
+                ],
+                "Tatar": [
+                    "аксыл",
+                    "ак йөзле"
+                ],
+                "Bashkir": [
+                    "аҡһыл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "malla"
+                ]
+            }
+        }
+    ]
+}

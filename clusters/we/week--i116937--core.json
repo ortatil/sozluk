@@ -1,0 +1,76 @@
+{
+    "id": "i116937",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "week",
+    "en_definition": "any period of seven consecutive days",
+    "tr_word": null,
+    "tr_definition": null,
+    "ru_word": null,
+    "ru_definition": null,
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hafta"
+                ],
+                "Azerbaijani": [
+                    "həftə"
+                ],
+                "Turkmen": [
+                    "hepde"
+                ],
+                "Uzbek": [
+                    "hafta"
+                ],
+                "Uyghur": [
+                    "ھەپتە"
+                ],
+                "Kazakh": [
+                    "апта"
+                ],
+                "Kyrgyz": [
+                    "апта"
+                ],
+                "Karakalpak": [
+                    "hápte"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yedi gün"
+                ],
+                "Kazakh": [
+                    "жетікүн"
+                ],
+                "Bashkir": [
+                    "ете көн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "атна"
+                ],
+                "Bashkir": [
+                    "аҙна"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жума"
+                ],
+                "Tatar": [
+                    "җомга"
+                ]
+            }
+        }
+    ]
+}

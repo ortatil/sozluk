@@ -1,0 +1,99 @@
+{
+    "id": "i116453",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "typewriter paper",
+    "en_definition": "writing paper suitable for use in a typewriter",
+    "tr_word": "daktilo kâğıdı",
+    "tr_definition": "Daktiloda kullanılmaya uygun, genellikle ince ve pürüzsüz yazı kâğıdı.",
+    "ru_word": "пишущая бумага",
+    "ru_definition": "Бумага, предназначенная для печатания на пишущей машинке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazı kâğıdı"
+                ],
+                "Azerbaijani": [
+                    "yazı kağızı"
+                ],
+                "Turkmen": [
+                    "ýazuw kagyzy"
+                ],
+                "Uzbek": [
+                    "yozuv qog'ozi"
+                ],
+                "Uyghur": [
+                    "يېزىق قەغىزى"
+                ],
+                "Kazakh": [
+                    "жазу қағазы"
+                ],
+                "Kyrgyz": [
+                    "жазуу кагазы"
+                ],
+                "Karakalpak": [
+                    "jazıu qaǵazı"
+                ],
+                "Tatar": [
+                    "язу кәгазе"
+                ],
+                "Bashkir": [
+                    "яҙыу ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ak kagyz"
+                ],
+                "Uzbek": [
+                    "oq qog'oz"
+                ],
+                "Kyrgyz": [
+                    "ак кагаз"
+                ],
+                "Tatar": [
+                    "ак кәгазь"
+                ],
+                "Bashkir": [
+                    "аҡ ҡағыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "хат қағазы"
+                ],
+                "Karakalpak": [
+                    "xat qaǵazı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "daktilo kâğıdı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "makina kağızı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەت بېسىش قەغىزى"
+                ]
+            }
+        }
+    ]
+}

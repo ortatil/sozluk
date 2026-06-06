@@ -1,0 +1,102 @@
+# Quarterfinal
+| Field | Detail |
+|---|---|
+| **ID** | i75966 |
+| **English** | quarterfinal |
+| **Type** | noun |
+| **Definition** | one of the four competitions in an elimination tournament whose winners go on to play in the semifinals |
+| **Source** | common |
+| **Ortatil** | çirekfinal |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| чирекфинал | çirekfinal |
+| **Bashkir** | |
+| сирекфинал | sirekfinal |
+
+```json
+{
+    "id": "i75966",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "quarterfinal",
+    "en_definition": "one of the four competitions in an elimination tournament whose winners go on to play in the semifinals",
+    "tr_word": "çeyrek final",
+    "tr_definition": "bir eleme turnuvasında kazananların yarı finale yükseldiği dört müsabakadan her biri",
+    "ru_word": "четвертьфинал",
+    "ru_definition": "одно из четырех соревнований в турнире на выбывание, победители которого выходят в полуфинал",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çeyrek final",
+                    "çeyrek devre"
+                ],
+                "Turkmen": [
+                    "çärjek final"
+                ],
+                "Uzbek": [
+                    "chorak final",
+                    "chorak yakun"
+                ],
+                "Uyghur": [
+                    "چارەك ھەل قىلغۇچ مۇسابىقە"
+                ],
+                "Kazakh": [
+                    "ширек финал",
+                    "ширек қорытынды"
+                ],
+                "Kyrgyz": [
+                    "чейрек финал",
+                    "чейрек бөлүк"
+                ],
+                "Karakalpak": [
+                    "shirek final"
+                ],
+                "Tatar": [
+                    "чирекфинал"
+                ],
+                "Bashkir": [
+                    "сирекфинал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dörddəbir final",
+                    "dörddəbir mərhələ"
+                ],
+                "Turkmen": [
+                    "dörtden bir final"
+                ],
+                "Karakalpak": [
+                    "tórtten bir final"
+                ],
+                "Tatar": [
+                    "дүрттән бер финал"
+                ],
+                "Bashkir": [
+                    "дүрттән бер финал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆتتىن بىر ھەل قىلغۇچ مۇسابىقە"
+                ]
+            }
+        }
+    ]
+}
+```
+

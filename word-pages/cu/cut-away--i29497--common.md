@@ -1,0 +1,199 @@
+# Cut away
+| Field | Detail |
+|---|---|
+| **ID** | i29497 |
+| **English** | cut away |
+| **Type** | verb |
+| **Definition** | remove by cutting off or away |
+| **Source** | common |
+| **Ortatil** | kesmäk |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **kesmäk** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| кисү | kisü |
+| **Bashkir** | |
+| киҫеү | kiseü |
+
+```json
+{
+    "id": "i29497",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "cut away",
+    "en_definition": "remove by cutting off or away",
+    "tr_word": "kesip atmak",
+    "tr_definition": "bir şeyi keserek yerinden çıkarmak veya uzaklaştırmak",
+    "ru_word": "отрезать",
+    "ru_definition": "удалять что-либо, отделяя с помощью режущего инструмента",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kesip atmak",
+                    "kesip çıkarmak"
+                ],
+                "Azerbaijani": [
+                    "kəsib atmaq",
+                    "kəsib çıxarmaq",
+                    "kəsib ayırmaq"
+                ],
+                "Turkmen": [
+                    "kesip aýyrmak",
+                    "kesmek"
+                ],
+                "Uzbek": [
+                    "kesib tashlamoq"
+                ],
+                "Uyghur": [
+                    "كېسىپ تاشلىماق",
+                    "كېسىپ ئالماق",
+                    "كېسىپ چىقارماق"
+                ],
+                "Kazakh": [
+                    "кесіп тастау",
+                    "кесіп алу",
+                    "кесіп тазарту"
+                ],
+                "Kyrgyz": [
+                    "кесип салуу",
+                    "кесип таштоо",
+                    "кыйып салуу"
+                ],
+                "Karakalpak": [
+                    "kesip taslau",
+                    "kesip alıu",
+                    "kesip jiberiu"
+                ],
+                "Tatar": [
+                    "кисеп ташлау",
+                    "кисеп алу",
+                    "кисеп чыгару",
+                    "кисү"
+                ],
+                "Bashkir": [
+                    "киҫеп алыу",
+                    "киҫеп ташлау",
+                    "киҫеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qirqib tashlamoq"
+                ],
+                "Uyghur": [
+                    "قىرقىپ تاشلىماق"
+                ],
+                "Kyrgyz": [
+                    "кыркып салуу"
+                ],
+                "Bashkir": [
+                    "ҡырҡып алыу",
+                    "ҡырҡып ташлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "budamak"
+                ],
+                "Azerbaijani": [
+                    "budamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayırmak"
+                ],
+                "Turkmen": [
+                    "gyrkmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çapmak"
+                ],
+                "Uzbek": [
+                    "chopmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отап тастау"
+                ],
+                "Karakalpak": [
+                    "otap taslau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yontmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qoparmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ajratmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қиып тастау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оюп алуу"
+                ]
+            }
+        }
+    ]
+}
+```
+

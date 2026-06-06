@@ -1,0 +1,209 @@
+# Home loan
+| Field | Detail |
+|---|---|
+| **ID** | i107003 |
+| **English** | home loan |
+| **Type** | noun |
+| **Definition** | a loan secured by equity value in the borrower's home |
+| **Source** | common |
+| **Ortatil** | ipoteka |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ipoteka** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.37** |
+
+```json
+{
+    "id": "i107003",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "home loan",
+    "en_definition": "a loan secured by equity value in the borrower's home",
+    "tr_word": "konut kredisi",
+    "tr_definition": "Bir mülkün satın alınması için teminat olarak mülkün kendisinin gösterildiği kredi türü.",
+    "ru_word": "ипотечный кредит",
+    "ru_definition": "Кредит под залог недвижимости, обычно выдаваемый для покупки жилья.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öý karzy"
+                ],
+                "Uzbek": [
+                    "uy krediti",
+                    "uy qarzi"
+                ],
+                "Uyghur": [
+                    "ئۆي قەرزى",
+                    "ئۆي رەنىلىك قەرزى"
+                ],
+                "Kyrgyz": [
+                    "үй карызы"
+                ],
+                "Karakalpak": [
+                    "úy qarızı"
+                ],
+                "Bashkir": [
+                    "өй заемы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۇرالغۇ قەرزى"
+                ],
+                "Kazakh": [
+                    "тұрғын үй несиесі"
+                ],
+                "Kyrgyz": [
+                    "турак жай насыясы"
+                ],
+                "Bashkir": [
+                    "торлаҡ бурысы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ev kredisi"
+                ],
+                "Azerbaijani": [
+                    "ev krediti"
+                ],
+                "Turkmen": [
+                    "jaý karzy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ipoteka"
+                ],
+                "Turkmen": [
+                    "ipoteka"
+                ],
+                "Karakalpak": [
+                    "ipoteka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mesken kredisi"
+                ],
+                "Uzbek": [
+                    "maskan krediti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mənzil krediti"
+                ],
+                "Uzbek": [
+                    "manzil qarzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үй несиесі"
+                ],
+                "Kyrgyz": [
+                    "үй насыясы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "баспана қарызы"
+                ],
+                "Karakalpak": [
+                    "baspana qarızı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йорт бурычы",
+                    "йорт заемы"
+                ],
+                "Bashkir": [
+                    "йорт заемы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "konut kredisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gayrimenkul rehni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "daşınmaz əmlak krediti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öý üçin berilýän karz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tólemli úy krediti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күчемсез милек заемы"
+                ]
+            }
+        }
+    ]
+}
+```
+

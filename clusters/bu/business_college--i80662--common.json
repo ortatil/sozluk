@@ -1,0 +1,118 @@
+{
+    "id": "i80662",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "business college",
+    "en_definition": "a school for teaching the clerical aspects of business and commerce",
+    "tr_word": "ticaret yüksekokulu",
+    "tr_definition": "işletme ve ticaretin büro yönetimi ve idari yönlerini öğreten okul",
+    "ru_word": "бизнес-колледж",
+    "ru_definition": "учебное заведение для обучения канцелярским и административным аспектам бизнеса и коммерции",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söwda mekdebi"
+                ],
+                "Uzbek": [
+                    "savdo bilim yurti"
+                ],
+                "Uyghur": [
+                    "سودا مەكتىپى",
+                    "سودا تېخنىكومى",
+                    "سودا ئىنستىتۇتى"
+                ],
+                "Kazakh": [
+                    "сауда мектебі"
+                ],
+                "Kyrgyz": [
+                    "соода окуу жайы",
+                    "соода-сатык окуу жайы"
+                ],
+                "Karakalpak": [
+                    "sauda mektebi",
+                    "sauda-ekonomikalıq kolledji"
+                ],
+                "Tatar": [
+                    "сәүдә мәктәбе",
+                    "сәүдә укуханәсе"
+                ],
+                "Bashkir": [
+                    "сауҙа мәктәбе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iktisat okulu"
+                ],
+                "Turkmen": [
+                    "ykdysadyýet mekdebi"
+                ],
+                "Uzbek": [
+                    "iqtisodiyot kolleji"
+                ],
+                "Tatar": [
+                    "икътисад укуханәсе"
+                ],
+                "Bashkir": [
+                    "иҡтисад училищеһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ticaret okulu",
+                    "ticaret lisesi",
+                    "ticaret akademisi"
+                ],
+                "Azerbaijani": [
+                    "ticarət məktəbi",
+                    "ticarət kolleci"
+                ],
+                "Turkmen": [
+                    "täjirçilik mekdebi"
+                ],
+                "Uzbek": [
+                    "tijorat kolleji"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "işgüzarlıq məktəbi"
+                ],
+                "Kazakh": [
+                    "іс жүргізу мектебі"
+                ],
+                "Kyrgyz": [
+                    "ишкердик мектеби"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кәсіптік мектеп"
+                ],
+                "Karakalpak": [
+                    "kásip-óner mektebi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сауҙа училищеһы"
+                ]
+            }
+        }
+    ]
+}

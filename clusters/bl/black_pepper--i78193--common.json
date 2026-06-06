@@ -1,0 +1,101 @@
+{
+    "id": "i78193",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "black pepper",
+    "en_definition": "pepper that is ground from whole peppercorns with husks on",
+    "tr_word": "karabiber",
+    "tr_definition": "Kurutulmuş karabiber tanelerinin öğütülmesiyle elde edilen, yemeklere acılık ve koku veren baharat.",
+    "ru_word": "чёрный перец",
+    "ru_definition": "Пряность, получаемая из высушенных недозрелых плодов древовидной лианы, используемая в кулинарии в молотом или целом виде.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karabiber"
+                ],
+                "Azerbaijani": [
+                    "qara istiot",
+                    "qara bibər"
+                ],
+                "Turkmen": [
+                    "gara burç"
+                ],
+                "Uzbek": [
+                    "qora murch"
+                ],
+                "Uyghur": [
+                    "قارا مۇچ"
+                ],
+                "Kazakh": [
+                    "қара бұрыш"
+                ],
+                "Kyrgyz": [
+                    "кара мурч"
+                ],
+                "Karakalpak": [
+                    "qara burısh",
+                    "qara púrsh"
+                ],
+                "Tatar": [
+                    "кара борыч"
+                ],
+                "Bashkir": [
+                    "ҡара борос"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "murch"
+                ],
+                "Uyghur": [
+                    "مۇچ"
+                ],
+                "Kyrgyz": [
+                    "мурч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "biber"
+                ],
+                "Azerbaijani": [
+                    "bibər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istiot"
+                ],
+                "Turkmen": [
+                    "istiot"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұрыш"
+                ],
+                "Tatar": [
+                    "борыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төйөлгән борос"
+                ]
+            }
+        }
+    ]
+}

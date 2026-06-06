@@ -1,0 +1,128 @@
+# Comet
+| Field | Detail |
+|---|---|
+| **ID** | i85245 |
+| **English** | comet |
+| **Type** | noun |
+| **Definition** | (astronomy) a relatively small extraterrestrial body consisting of a frozen mass that travels around the sun in a highly elliptical orbit |
+| **Source** | common |
+| **Ortatil** | kämet |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| сәйяр | säyyar |
+
+```json
+{
+    "id": "i85245",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "comet",
+    "en_definition": "(astronomy) a relatively small extraterrestrial body consisting of a frozen mass that travels around the sun in a highly elliptical orbit",
+    "tr_word": "kuyruklu yıldız",
+    "tr_definition": "Güneş çevresinde çok eliptik yörüngelerde dolanan, donmuş gaz ve tozdan oluşan gök cismi.",
+    "ru_word": "комета",
+    "ru_definition": "небольшое небесное тело, обращающееся вокруг Солнца по весьма вытянутой орбите в виде туманного объекта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuyruklu yıldız",
+                    "kuyruklu ulduz"
+                ],
+                "Azerbaijani": [
+                    "quyruqlu ulduz"
+                ],
+                "Turkmen": [
+                    "guýrukly ýyldyz"
+                ],
+                "Uyghur": [
+                    "قۇيرۇقلۇق يۇلتۇز"
+                ],
+                "Kazakh": [
+                    "құйрықты жұлдыз"
+                ],
+                "Kyrgyz": [
+                    "куйруктуу жылдыз"
+                ],
+                "Karakalpak": [
+                    "qұyrıqlı juldız"
+                ],
+                "Tatar": [
+                    "койрыклы йолдыз"
+                ],
+                "Bashkir": [
+                    "ҡойроҡло йондоҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "dumli yulduz"
+                ],
+                "Uyghur": [
+                    "دۇمدار يۇلتۇز"
+                ],
+                "Karakalpak": [
+                    "dumlı juldız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "komet"
+                ],
+                "Uzbek": [
+                    "komet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýrenýän ýyldyz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сұрқай жұлдыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ак жылдыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сәйяр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сәслы йондоҙ"
+                ]
+            }
+        }
+    ]
+}
+```
+

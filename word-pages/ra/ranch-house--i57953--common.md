@@ -1,0 +1,184 @@
+# Ranch house
+| Field | Detail |
+|---|---|
+| **ID** | i57953 |
+| **English** | ranch house |
+| **Type** | noun |
+| **Definition** | a one story house with a low pitched roof |
+| **Source** | common |
+| **Ortatil** | häwli |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i57953",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ranch house",
+    "en_definition": "a one story house with a low pitched roof",
+    "tr_word": "çiftlik evi",
+    "tr_definition": "genellikle tek katlı, geniş bir alana yayılan ve düşük eğimli çatısı olan ev tipi",
+    "ru_word": "ранчо",
+    "ru_definition": "одноэтажный жилой дом с пологой крышей, обычно имеющий открытую планировку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bir gatly jaý"
+                ],
+                "Uzbek": [
+                    "bir qavatli uy"
+                ],
+                "Kazakh": [
+                    "бір қабатты үй"
+                ],
+                "Kyrgyz": [
+                    "бир кабаттуу үй"
+                ],
+                "Karakalpak": [
+                    "bir qabatlı úy"
+                ],
+                "Tatar": [
+                    "җир йорт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaylak evi"
+                ],
+                "Kazakh": [
+                    "жайпақ үй"
+                ],
+                "Kyrgyz": [
+                    "жайдак үй"
+                ],
+                "Karakalpak": [
+                    "jay"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tek katlı ev"
+                ],
+                "Tatar": [
+                    "бер катлы өй"
+                ],
+                "Bashkir": [
+                    "бер ҡатлы өй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yastı damlı ev"
+                ],
+                "Kyrgyz": [
+                    "пастак үй"
+                ],
+                "Bashkir": [
+                    "яҫы ҡыйыҡлы өй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bir mərtəbəli ev"
+                ],
+                "Uyghur": [
+                    "بىر قەۋەتلىك ئۆي",
+                    "پەس ئۆگزىلىك ئۆي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "alçaq ev"
+                ],
+                "Kazakh": [
+                    "аласа үй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "howly jaý"
+                ],
+                "Uzbek": [
+                    "hovli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yer uy"
+                ],
+                "Karakalpak": [
+                    "jer jay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәбәнәк өй"
+                ],
+                "Bashkir": [
+                    "тәпәш өй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çiftlik evi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağ evi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mellek jaý"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pastqam uy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈز ئۆي"
+                ]
+            }
+        }
+    ]
+}
+```
+

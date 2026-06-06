@@ -1,0 +1,242 @@
+# Witch
+| Field | Detail |
+|---|---|
+| **ID** | i86560 |
+| **English** | witch |
+| **Type** | noun |
+| **Definition** | a being (usually female) imagined to have special powers derived from the devil |
+| **Source** | common |
+| **Ortatil** | cadıgär, siqırşı, alwastı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **cadıgär** | **siqırşı** | **alwastı** | **mıstan** | **äfsuñcu** |
+|---|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Azerbaijani | ✅ | ✅ | ❌ | ❌ | ✅ |
+| Turkmen | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ✅ | ❌ | ✅ |
+| Uyghur | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Kazakh | ❌ | ✅ | ❌ | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ | ✅ | ❌ | ❌ |
+| Karakalpak | ❌ | ✅ | ❌ | ✅ | ❌ |
+| Tatar | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Bashkir | ❌ | ✅ | ✅ | ❌ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.33 | 0.33 | 0.33 | 0.67 |
+| *Qarluq Subtotal* | 1 | 1 | 1 | 0 | 0.50 |
+| *Qipchaq Subtotal* | 0.20 | 0.80 | 0.60 | 0.40 | 0 |
+| *In All* | ✅ | ✅ | ✅ |  |  |
+| *In Oghuz/Qipchaq* |  |  |  | ✅ |  |
+| **O'TQ** | **3.20** | **3.13** | **2.93** | **1.23** | **1.17** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سېھىرگەر | sehirgär |
+| جادوگەر | jadogär |
+| ئالۋاستى | alvasti |
+| **Kazakh** | |
+| сиқыршы | siqırşı |
+| мыстан | mıstan |
+| жалмауыз | jalmauız |
+| дәуіт | däuit |
+| **Kyrgyz** | |
+| албарсты | albarstı |
+| бүбү | bübü |
+| жезкемпир | jezkempir |
+| сыйкырчы | sıykırçı |
+| **Tatar** | |
+| сихерче | sixerçe |
+| җадучы | jaduçı |
+| албасты | albastı |
+| убырлы | ubırlı |
+| **Bashkir** | |
+| сихырсы | sixırsı |
+| албасты | albastı |
+| убыр | ubır |
+
+```json
+{
+    "id": "i86560",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "witch",
+    "en_definition": "a being (usually female) imagined to have special powers derived from the devil",
+    "tr_word": "cadı",
+    "tr_definition": "doğaüstü güçleri olduğuna ve bunları genellikle kötülük yapmak için kullandığına inanılan kadın",
+    "ru_word": "ведьма",
+    "ru_definition": "женщина, обладающая магическими способностями и связанная с потусторонними силами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sehrbaz"
+                ],
+                "Uzbek": [
+                    "sehrgar"
+                ],
+                "Uyghur": [
+                    "سېھىرگەر"
+                ],
+                "Kazakh": [
+                    "сиқыршы"
+                ],
+                "Karakalpak": [
+                    "siqırshı"
+                ],
+                "Tatar": [
+                    "сихерче"
+                ],
+                "Bashkir": [
+                    "сихырсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cadı"
+                ],
+                "Azerbaijani": [
+                    "cadugər"
+                ],
+                "Turkmen": [
+                    "jadygöý"
+                ],
+                "Uzbek": [
+                    "jodugar"
+                ],
+                "Uyghur": [
+                    "جادوگەر"
+                ],
+                "Tatar": [
+                    "җадучы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "albassy"
+                ],
+                "Uzbek": [
+                    "alvasti"
+                ],
+                "Uyghur": [
+                    "ئالۋاستى"
+                ],
+                "Kyrgyz": [
+                    "албарсты"
+                ],
+                "Tatar": [
+                    "албасты"
+                ],
+                "Bashkir": [
+                    "албасты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "efsuncu"
+                ],
+                "Azerbaijani": [
+                    "əfsunçu"
+                ],
+                "Uzbek": [
+                    "afsungar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mistan"
+                ],
+                "Kazakh": [
+                    "мыстан"
+                ],
+                "Karakalpak": [
+                    "mıstan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyücü"
+                ],
+                "Kyrgyz": [
+                    "бүбү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "faldan"
+                ],
+                "Turkmen": [
+                    "palçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалмауыз"
+                ],
+                "Karakalpak": [
+                    "jalmaoız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "убырлы"
+                ],
+                "Bashkir": [
+                    "убырлы ҡарсыҡ",
+                    "убыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәуіт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жезкемпир"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сыйкырчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dáo-peri"
+                ]
+            }
+        }
+    ]
+}
+```
+

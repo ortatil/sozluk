@@ -1,0 +1,195 @@
+# Racing circuit
+| Field | Detail |
+|---|---|
+| **ID** | i57875 |
+| **English** | racing circuit |
+| **Type** | noun |
+| **Definition** | a racetrack for automobile races |
+| **Source** | common |
+| **Ortatil** | mäydan |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **mäydan** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.43** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| мәйдан | mäydan |
+| **Bashkir** | |
+| майҙан | mayzan |
+
+```json
+{
+    "id": "i57875",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "racing circuit",
+    "en_definition": "a racetrack for automobile races",
+    "tr_word": "yarış pisti",
+    "tr_definition": "otomobil yarışları için özel olarak tasarlanmış yol",
+    "ru_word": "гоночная трасса",
+    "ru_definition": "специально оборудованный маршрут для проведения автомобильных гонок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarış pisti"
+                ],
+                "Azerbaijani": [
+                    "yarış meydançası",
+                    "yarış yolu"
+                ],
+                "Turkmen": [
+                    "ýaryş meýdançasy",
+                    "ýaryş ýoly"
+                ],
+                "Kazakh": [
+                    "жарыс жолы"
+                ],
+                "Kyrgyz": [
+                    "жарыш жолу"
+                ],
+                "Karakalpak": [
+                    "jarıs jolı"
+                ],
+                "Tatar": [
+                    "чабыш юлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "meydan"
+                ],
+                "Uzbek": [
+                    "maydon"
+                ],
+                "Karakalpak": [
+                    "maydan"
+                ],
+                "Tatar": [
+                    "мәйдан"
+                ],
+                "Bashkir": [
+                    "майҙан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "poyga yoʻli",
+                    "poygagoh"
+                ],
+                "Kazakh": [
+                    "бәйге жолы"
+                ],
+                "Karakalpak": [
+                    "báyge jolı"
+                ],
+                "Bashkir": [
+                    "бәйге юлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "узыш юлы",
+                    "узыш трассасы"
+                ],
+                "Bashkir": [
+                    "уҙыш юлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otodrom"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "parkur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dövrə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "awtodrom"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۇسابىقە مەيدانى",
+                    "مۇسابىقە يولى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يۈگۈرۈش يولى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік жолы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ат майданы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айланма жол"
+                ]
+            }
+        }
+    ]
+}
+```
+

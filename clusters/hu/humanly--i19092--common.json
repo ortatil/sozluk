@@ -1,0 +1,106 @@
+{
+    "id": "i19092",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "humanly",
+    "en_definition": "in the manner of human beings",
+    "tr_word": "insanca",
+    "tr_definition": "insanlara özgü bir biçimde, insani bir şekilde",
+    "ru_word": "по-человечески",
+    "ru_definition": "таким образом, как это свойственно человеку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "insanca",
+                    "insaniyetle"
+                ],
+                "Azerbaijani": [
+                    "insanca",
+                    "insani"
+                ],
+                "Turkmen": [
+                    "ynsança",
+                    "ynsanperwerlik bilen"
+                ],
+                "Uzbek": [
+                    "insoniy"
+                ],
+                "Uyghur": [
+                    "ئىنسانچە",
+                    "ئىنسانلارچە",
+                    "ئىنسانىي"
+                ],
+                "Kyrgyz": [
+                    "инсанча"
+                ],
+                "Karakalpak": [
+                    "insanıy",
+                    "insanıylıq penen"
+                ],
+                "Tatar": [
+                    "инсани"
+                ],
+                "Bashkir": [
+                    "инсани"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "adamçylykly",
+                    "adamlarça"
+                ],
+                "Uzbek": [
+                    "odamcha",
+                    "odamgarchilik"
+                ],
+                "Kazakh": [
+                    "адамша",
+                    "адамгершілікпен"
+                ],
+                "Kyrgyz": [
+                    "адамча",
+                    "адамгерчилик менен"
+                ],
+                "Karakalpak": [
+                    "adamgershilik penen",
+                    "adamsha"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beşeri"
+                ],
+                "Azerbaijani": [
+                    "bəşəri"
+                ],
+                "Uzbek": [
+                    "bashariy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кісіше"
+                ],
+                "Tatar": [
+                    "кешечә",
+                    "кешелекле"
+                ],
+                "Bashkir": [
+                    "кешесә",
+                    "кешеләрсә"
+                ]
+            }
+        }
+    ]
+}

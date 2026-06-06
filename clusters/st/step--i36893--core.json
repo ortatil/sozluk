@@ -1,0 +1,98 @@
+{
+    "id": "i36893",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "step",
+    "en_definition": "the act of changing location by raising the foot and setting it down",
+    "tr_word": "adım",
+    "tr_definition": "Yürümek için ayağın yerden kaldırılıp başka bir yere basılması eylemi.",
+    "ru_word": "шаг",
+    "ru_definition": "Движение ногой при ходьбе, перемещение опоры тела с одной ноги на другую.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adım"
+                ],
+                "Azerbaijani": [
+                    "addım"
+                ],
+                "Turkmen": [
+                    "ädim"
+                ],
+                "Uzbek": [
+                    "odim"
+                ],
+                "Uyghur": [
+                    "ئادەم"
+                ],
+                "Kazakh": [
+                    "аттам",
+                    "адым"
+                ],
+                "Kyrgyz": [
+                    "аттам"
+                ],
+                "Karakalpak": [
+                    "adım"
+                ],
+                "Tatar": [
+                    "адым"
+                ],
+                "Bashkir": [
+                    "аҙым"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kademe"
+                ],
+                "Azerbaijani": [
+                    "qədəm"
+                ],
+                "Turkmen": [
+                    "gadam"
+                ],
+                "Uzbek": [
+                    "qadam"
+                ],
+                "Uyghur": [
+                    "قەدەم"
+                ],
+                "Kazakh": [
+                    "қадам"
+                ],
+                "Kyrgyz": [
+                    "кадам"
+                ],
+                "Karakalpak": [
+                    "qádem"
+                ],
+                "Tatar": [
+                    "кадам"
+                ],
+                "Bashkir": [
+                    "ҡәҙәм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "merhale"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باسقۇچ"
+                ]
+            }
+        }
+    ]
+}

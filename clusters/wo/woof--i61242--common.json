@@ -1,0 +1,81 @@
+{
+    "id": "i61242",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "woof",
+    "en_definition": "the yarn woven across the warp yarn in weaving",
+    "tr_word": "atkı",
+    "tr_definition": "dokumacılıkta çözgü iplikleri arasından enine geçirilen iplik",
+    "ru_word": "уток",
+    "ru_definition": "совокупность нитей, проходящих поперек ткани от одной кромки до другой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "atkı"
+                ],
+                "Turkmen": [
+                    "arkaç",
+                    "atgy"
+                ],
+                "Uyghur": [
+                    "ئارقاغ",
+                    "ئارقاق"
+                ],
+                "Kazakh": [
+                    "арқау",
+                    "арқау жіп"
+                ],
+                "Kyrgyz": [
+                    "аркак",
+                    "аркаг"
+                ],
+                "Karakalpak": [
+                    "arqau",
+                    "arqaulıq"
+                ],
+                "Tatar": [
+                    "аркау",
+                    "аркылы җеп"
+                ],
+                "Bashkir": [
+                    "арҡау",
+                    "арҡау ебе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aragaç"
+                ],
+                "Azerbaijani": [
+                    "arğac"
+                ],
+                "Uzbek": [
+                    "arqog'i",
+                    "arqoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pud"
+                ],
+                "Uzbek": [
+                    "puda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "toxuma"
+                ]
+            }
+        }
+    ]
+}

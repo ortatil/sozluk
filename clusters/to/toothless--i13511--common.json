@@ -1,0 +1,107 @@
+{
+    "id": "i13511",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "toothless",
+    "en_definition": "lacking teeth",
+    "tr_word": "dişsiz",
+    "tr_definition": "dişleri olmayan veya dökülmüş olan",
+    "ru_word": "беззубый",
+    "ru_definition": "не имеющий зубов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dişsiz"
+                ],
+                "Azerbaijani": [
+                    "dişsiz"
+                ],
+                "Turkmen": [
+                    "dişsiz"
+                ],
+                "Uzbek": [
+                    "tishsiz"
+                ],
+                "Uyghur": [
+                    "چىشسىز"
+                ],
+                "Kazakh": [
+                    "тіссіз"
+                ],
+                "Kyrgyz": [
+                    "тишсиз"
+                ],
+                "Karakalpak": [
+                    "tissiz"
+                ],
+                "Tatar": [
+                    "тешсез",
+                    "тешсез калган"
+                ],
+                "Bashkir": [
+                    "тешһеҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gedik"
+                ],
+                "Turkmen": [
+                    "gedik"
+                ],
+                "Kyrgyz": [
+                    "кемтик"
+                ],
+                "Karakalpak": [
+                    "kemtik"
+                ],
+                "Bashkir": [
+                    "китек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bi-diş"
+                ],
+                "Uzbek": [
+                    "betish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆمۈچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қаусаған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мүжік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "арбайган"
+                ]
+            }
+        }
+    ]
+}

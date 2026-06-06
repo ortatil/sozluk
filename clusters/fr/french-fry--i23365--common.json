@@ -1,0 +1,132 @@
+{
+    "id": "i23365",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "french-fry",
+    "en_definition": "cook by immersing in fat",
+    "tr_word": "bol yağda kızartmak",
+    "tr_definition": "yiyecekleri kızgın ve derin yağın içine daldırarak pişirmek",
+    "ru_word": "жарить во фритюре",
+    "ru_definition": "готовить путем погружения в большое количество горячего жира или масла",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yağda pişirmek"
+                ],
+                "Uyghur": [
+                    "ياغدا قورۇماق"
+                ],
+                "Kazakh": [
+                    "майға қуыру",
+                    "майға пісіру"
+                ],
+                "Kyrgyz": [
+                    "майга кууруу"
+                ],
+                "Karakalpak": [
+                    "mayǵa quırıu"
+                ],
+                "Tatar": [
+                    "майга салып кыздыру"
+                ],
+                "Bashkir": [
+                    "майҙа ҡыҙҙырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dağlamak"
+                ],
+                "Azerbaijani": [
+                    "dağlamaq"
+                ],
+                "Turkmen": [
+                    "daglamak"
+                ],
+                "Uzbek": [
+                    "dogʻlamoq"
+                ],
+                "Uyghur": [
+                    "داغلىماق"
+                ],
+                "Tatar": [
+                    "майлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızartmak"
+                ],
+                "Azerbaijani": [
+                    "qızartmaq"
+                ],
+                "Turkmen": [
+                    "gyzdyrmak"
+                ],
+                "Tatar": [
+                    "кыздыру"
+                ],
+                "Bashkir": [
+                    "ҡыҙҙырыу",
+                    "ҡыҙҙырып алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qovurmaq"
+                ],
+                "Turkmen": [
+                    "gowurmak"
+                ],
+                "Uzbek": [
+                    "qovurmoq"
+                ],
+                "Kyrgyz": [
+                    "кууруу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "pishirmoq"
+                ],
+                "Uyghur": [
+                    "پىشۇرماق"
+                ],
+                "Kyrgyz": [
+                    "бышыруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қуыру"
+                ],
+                "Karakalpak": [
+                    "quırıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sharpıu"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "i41302",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "legislation",
+    "en_definition": "the act of making or enacting laws",
+    "tr_word": "mevzuat",
+    "tr_definition": "Yasa çıkarma veya yasaların bütünü",
+    "ru_word": "законодательство",
+    "ru_definition": "Деятельность по изданию законов, а также совокупность этих законов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kanun yapma"
+                ],
+                "Azerbaijani": [
+                    "qanunvericilik"
+                ],
+                "Turkmen": [
+                    "kanunçylyk",
+                    "kanun çykaryjylyk",
+                    "kanun döredijilik"
+                ],
+                "Uzbek": [
+                    "qonunchilik",
+                    "qonun ijodkorligi"
+                ],
+                "Uyghur": [
+                    "قانۇن چىقىرىش",
+                    "قانۇن تۈزۈش"
+                ],
+                "Tatar": [
+                    "канун чыгару",
+                    "канунчылык"
+                ],
+                "Bashkir": [
+                    "ҡанун сығарыу",
+                    "ҡанун сығарыу эшмәкәрлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teşri"
+                ],
+                "Azerbaijani": [
+                    "təşri"
+                ],
+                "Uzbek": [
+                    "tashri'"
+                ],
+                "Uyghur": [
+                    "تەشرىئ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "заң шығару",
+                    "заңнама",
+                    "заңгерлік",
+                    "заң шығарушылық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "nızamshılıq",
+                    "nızam shıǵarıo",
+                    "nızamshılıq xızmeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мыйзам чыгаруу",
+                    "мыйзамдар",
+                    "мыйзам түзүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yasama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mevzuat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "закон сығарыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәртипنامә"
+                ]
+            }
+        }
+    ]
+}

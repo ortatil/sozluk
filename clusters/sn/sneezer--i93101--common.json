@@ -1,0 +1,85 @@
+{
+    "id": "i93101",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sneezer",
+    "en_definition": "a person who sneezes",
+    "tr_word": "hapşıran kişi",
+    "tr_definition": "hapşırma eylemini gerçekleştiren kimse",
+    "ru_word": "чихающий",
+    "ru_definition": "человек, который чихает",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چۈشكۈرگۈچى",
+                    "چۈشكۈرگەن كىشى"
+                ],
+                "Kazakh": [
+                    "түшкіруші",
+                    "түшкіргіш"
+                ],
+                "Kyrgyz": [
+                    "чүчкүргөн киши"
+                ],
+                "Karakalpak": [
+                    "túshkirioshi",
+                    "túshkirgen adam"
+                ],
+                "Tatar": [
+                    "төчкергән кеше"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aksıran",
+                    "aksırıcı"
+                ],
+                "Azerbaijani": [
+                    "asqıran",
+                    "asqıran adam",
+                    "asqıran kəs"
+                ],
+                "Turkmen": [
+                    "asgyryjy",
+                    "asgyrýan adam"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "чүчкүрүүчү"
+                ],
+                "Tatar": [
+                    "төчкерүче"
+                ],
+                "Bashkir": [
+                    "сөскөрөүсе",
+                    "сөскөрөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hapşıran",
+                    "hapşırıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "aksiruvchi",
+                    "aksirgan kishi"
+                ]
+            }
+        }
+    ]
+}

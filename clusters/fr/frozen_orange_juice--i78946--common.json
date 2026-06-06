@@ -1,0 +1,81 @@
+{
+    "id": "i78946",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "frozen orange juice",
+    "en_definition": "orange juice that has been concentrated and frozen",
+    "tr_word": "dondurulmuş portakal suyu",
+    "tr_definition": "konsantre edilip dondurulmuş portakal suyu",
+    "ru_word": "замороженный апельсиновый сок",
+    "ru_definition": "апельсиновый сок, который был концентрирован и заморожен",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dondurulmuş portakal suyu"
+                ],
+                "Azerbaijani": [
+                    "dondurulmuş portağal şirəsi",
+                    "dondurulmuş portağal suyu"
+                ],
+                "Turkmen": [
+                    "doňdurylan pyrtykal şiresi",
+                    "doňan pyrtykal suwy"
+                ],
+                "Uyghur": [
+                    "تۇڭلىتىلغان ئاپېلسىن شەربىتى",
+                    "تۇڭلىتىلغان ئاپېلسىن سۈيى"
+                ],
+                "Kyrgyz": [
+                    "тоңдурулган апельсин ширеси",
+                    "тоңдурулган апельсин суусу"
+                ],
+                "Karakalpak": [
+                    "tońdırılǵan apelsin shırını"
+                ],
+                "Tatar": [
+                    "туңдырылган әфлисун суты",
+                    "туңдырылган апельсин суты"
+                ],
+                "Bashkir": [
+                    "туңдырылған әфлисун һуты",
+                    "туңдырылған апельсин һуты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "muzlatilgan apelsin sharbati",
+                    "muzlatilgan apelsin suvi"
+                ],
+                "Kazakh": [
+                    "мұздатылған апельсин шырыны"
+                ],
+                "Karakalpak": [
+                    "muzdatılǵan apelsin shırını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "konsantre portakal suyu"
+                ],
+                "Azerbaijani": [
+                    "konsentratlaşdırılmış portağal şirəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қатырылған апельсин шырыны",
+                    "апельсин шырынының концентраты"
+                ]
+            }
+        }
+    ]
+}

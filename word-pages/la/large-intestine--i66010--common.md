@@ -1,0 +1,125 @@
+# Large intestine
+| Field | Detail |
+|---|---|
+| **ID** | i66010 |
+| **English** | large intestine |
+| **Type** | noun |
+| **Definition** | beginning with the cecum and ending with the rectum; includes the cecum and the colon and the rectum; extracts moisture from food residues which are later excreted as feces |
+| **Source** | common |
+| **Ortatil** | mait |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i66010",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "large intestine",
+    "en_definition": "beginning with the cecum and ending with the rectum; includes the cecum and the colon and the rectum; extracts moisture from food residues which are later excreted as feces",
+    "tr_word": "kalın bağırsak",
+    "tr_definition": "Sindirim sisteminin çekum ile başlayıp rektum ile biten, besin artıklarındaki suyu emen ve dışkı oluşumunu sağlayan kısmı.",
+    "ru_word": "толстая кишка",
+    "ru_definition": "Нижняя, оконечная часть пищеварительного тракта, в которой происходит всасывание воды и формирование из пищевой кашицы оформленного кала.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yoğun bağırsaq"
+                ],
+                "Turkmen": [
+                    "ýogyn içege"
+                ],
+                "Uzbek": [
+                    "yo'g'on ichak"
+                ],
+                "Uyghur": [
+                    "يوغان ئۈچەي"
+                ],
+                "Kazakh": [
+                    "жуан ішек"
+                ],
+                "Kyrgyz": [
+                    "жоон ичеги"
+                ],
+                "Karakalpak": [
+                    "juan ishek"
+                ],
+                "Tatar": [
+                    "юан эчәк"
+                ],
+                "Bashkir": [
+                    "йыуан эсәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kalın bağırsak"
+                ],
+                "Azerbaijani": [
+                    "qalın bağırsaq"
+                ],
+                "Bashkir": [
+                    "ҡалын эсәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тоқ ішек"
+                ],
+                "Kyrgyz": [
+                    "тогуз кат"
+                ],
+                "Karakalpak": [
+                    "toq ishek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mait"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uly içege"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katta ichak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توم ئۈچەي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зур эчәк"
+                ]
+            }
+        }
+    ]
+}
+```
+

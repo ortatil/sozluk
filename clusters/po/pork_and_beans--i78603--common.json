@@ -1,0 +1,109 @@
+{
+    "id": "i78603",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pork and beans",
+    "en_definition": "dried beans cooked with pork and tomato sauce",
+    "tr_word": "etli kuru fasulye",
+    "tr_definition": "Domates sosu ve domuz eti ile pişirilmiş kuru fasulye yemeği.",
+    "ru_word": "свинина с бобами",
+    "ru_definition": "Блюдо из сушеной фасоли, приготовленной со свининой и томатным соусом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "etli kuru fasulye",
+                    "domates soslu etli fasulye",
+                    "etli fasulye yemeği"
+                ],
+                "Azerbaijani": [
+                    "ətli lobya",
+                    "ətli paxla",
+                    "ətli lobya yeməyi"
+                ],
+                "Turkmen": [
+                    "etli noýba",
+                    "etli kömeçli noýba"
+                ],
+                "Kazakh": [
+                    "етті бұршақ"
+                ],
+                "Tatar": [
+                    "итле фасоль",
+                    "итле ногыт",
+                    "итле ногыт борчагы"
+                ],
+                "Bashkir": [
+                    "итле фасоль"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "cho'chqa go'shtli loviya"
+                ],
+                "Uyghur": [
+                    "چوشقا گۆشى ۋە پۇرچاق تامىقى",
+                    "چوشقا گۆشلۈك پۇرچاق"
+                ],
+                "Kazakh": [
+                    "шошқа еті қосылған бұршақ"
+                ],
+                "Kyrgyz": [
+                    "чочко эти кошулган буурчак"
+                ],
+                "Karakalpak": [
+                    "shoshqa góshi qosılǵan lobiya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұршақ пен шошқа еті"
+                ],
+                "Kyrgyz": [
+                    "буурчак жана чочко эти"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "noýba nahary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "go'shtli loviya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "lobiyalı gósh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "суслы фасоль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "быҡтырылған фасоль"
+                ]
+            }
+        }
+    ]
+}

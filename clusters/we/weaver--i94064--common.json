@@ -1,0 +1,109 @@
+{
+    "id": "i94064",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "weaver",
+    "en_definition": "a craftsman who weaves cloth",
+    "tr_word": "dokumacı",
+    "tr_definition": "Kumaş dokuyan zanaatkâr",
+    "ru_word": "ткач",
+    "ru_definition": "ремесленник, занимающийся изготовлением тканей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dokumacı"
+                ],
+                "Azerbaijani": [
+                    "toxucu",
+                    "toxuyan",
+                    "toxuculuq ustası"
+                ],
+                "Turkmen": [
+                    "dokmaçy"
+                ],
+                "Uzbek": [
+                    "toʻquvchi"
+                ],
+                "Uyghur": [
+                    "توقۇمىچى",
+                    "توقۇغۇچى"
+                ],
+                "Kazakh": [
+                    "тоқымашы"
+                ],
+                "Kyrgyz": [
+                    "токуучу"
+                ],
+                "Karakalpak": [
+                    "toqımashı"
+                ],
+                "Tatar": [
+                    "тукучы"
+                ],
+                "Bashkir": [
+                    "туҡыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "boʻzchi"
+                ],
+                "Uyghur": [
+                    "بۆزچى"
+                ],
+                "Kyrgyz": [
+                    "бөзчү"
+                ],
+                "Karakalpak": [
+                    "bózshі"
+                ],
+                "Tatar": [
+                    "бөзче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çulha"
+                ],
+                "Turkmen": [
+                    "jülha"
+                ],
+                "Uzbek": [
+                    "julfo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өрмекші"
+                ],
+                "Kyrgyz": [
+                    "өрмөкчү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mensucatçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бөртөксө"
+                ]
+            }
+        }
+    ]
+}

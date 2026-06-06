@@ -1,0 +1,89 @@
+{
+    "id": "i51431",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "candle",
+    "en_definition": "stick of wax with a wick in the middle",
+    "tr_word": "mum",
+    "tr_definition": "ortasında bir fitil bulunan, yakılarak ışık veren balmumu veya parafin çubuk",
+    "ru_word": "свеча",
+    "ru_definition": "палочка из воска или другого жирного вещества с фитилем внутри, служащая для освещения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şam"
+                ],
+                "Azerbaijani": [
+                    "şam"
+                ],
+                "Turkmen": [
+                    "şem"
+                ],
+                "Uzbek": [
+                    "sham"
+                ],
+                "Uyghur": [
+                    "شەم"
+                ],
+                "Kazakh": [
+                    "шам"
+                ],
+                "Kyrgyz": [
+                    "шам"
+                ],
+                "Karakalpak": [
+                    "sham"
+                ],
+                "Tatar": [
+                    "шәм"
+                ],
+                "Bashkir": [
+                    "шәм",
+                    "шәмдәл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çıraq"
+                ],
+                "Turkmen": [
+                    "çyra"
+                ],
+                "Uzbek": [
+                    "chiroq"
+                ],
+                "Uyghur": [
+                    "چىراغ"
+                ],
+                "Kyrgyz": [
+                    "чырак"
+                ],
+                "Karakalpak": [
+                    "shıraq"
+                ],
+                "Tatar": [
+                    "чыра"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "білтешам"
+                ]
+            }
+        }
+    ]
+}

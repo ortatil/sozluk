@@ -1,0 +1,141 @@
+# Breakfast food
+| Field | Detail |
+|---|---|
+| **ID** | i77474 |
+| **English** | breakfast food |
+| **Type** | noun |
+| **Definition** | any food (especially cereal) usually served for breakfast |
+| **Source** | common |
+| **Ortatil** | naharlıq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ناشتىلىق | naştiliq |
+
+```json
+{
+    "id": "i77474",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "breakfast food",
+    "en_definition": "any food (especially cereal) usually served for breakfast",
+    "tr_word": "kahvaltılık",
+    "tr_definition": "Genellikle kahvaltıda servis edilen her türlü yiyecek (özellikle tahıl ürünleri).",
+    "ru_word": "завтрак",
+    "ru_definition": "любая еда (особенно хлопья), которую обычно подают на завтрак.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ertirlik",
+                    "ertirlik nahary",
+                    "ertirlik iýmiti"
+                ],
+                "Uzbek": [
+                    "ertalabki taom"
+                ],
+                "Kyrgyz": [
+                    "эртең мененки тамак",
+                    "эртең мененки оокат",
+                    "эртең мененки аш",
+                    "эртең мененки наар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səhər yeməyi"
+                ],
+                "Uyghur": [
+                    "سەھەرلىك تاماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "naharlıq"
+                ],
+                "Uyghur": [
+                    "ناشتىلىق",
+                    "ناشتىلىق تاماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nonushta",
+                    "nonushtalik"
+                ],
+                "Karakalpak": [
+                    "nanǵısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "иртәнге аш",
+                    "иртәнге ризык",
+                    "иртәнге азык"
+                ],
+                "Bashkir": [
+                    "иртәнге аш",
+                    "иртәнге ризыҡ",
+                    "иртәнге туҡлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kahvaltılık",
+                    "kahvaltı yemeği",
+                    "kahvaltı azığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qəlyanaltı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "choy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңғы ас",
+                    "таңғы тамақ",
+                    "таңғы дәм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "erteńgilik",
+                    "erteńgi as"
+                ]
+            }
+        }
+    ]
+}
+```
+

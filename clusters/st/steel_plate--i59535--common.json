@@ -1,0 +1,74 @@
+{
+    "id": "i59535",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "steel plate",
+    "en_definition": "a plate of steel",
+    "tr_word": "çelik levha",
+    "tr_definition": "Çelikten yapılmış yassı ve geniş metal parça.",
+    "ru_word": "стальной лист",
+    "ru_definition": "Плоское изделие из стали, полученное путем прокатки.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "polad lövhə",
+                    "polad təbəqə",
+                    "polad vərəq"
+                ],
+                "Turkmen": [
+                    "polat tabak",
+                    "polat list",
+                    "polat gatlak"
+                ],
+                "Uzbek": [
+                    "po'lat lavha",
+                    "po'lat tabaqa",
+                    "po'lat varaq"
+                ],
+                "Uyghur": [
+                    "پولات تاختا",
+                    "پولات ۋاراق"
+                ],
+                "Kazakh": [
+                    "болат табақ",
+                    "болат тақта",
+                    "болат бет"
+                ],
+                "Kyrgyz": [
+                    "болот такта",
+                    "болот барак",
+                    "болот табак"
+                ],
+                "Karakalpak": [
+                    "bolat tabaq",
+                    "bolat plastina",
+                    "bolat bet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "корыч табак",
+                    "корыч бит",
+                    "корыч плита"
+                ],
+                "Bashkir": [
+                    "ҡорос табаҡ",
+                    "ҡорос плита"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çelik levha",
+                    "çelik sac",
+                    "çelik plaka"
+                ]
+            }
+        }
+    ]
+}

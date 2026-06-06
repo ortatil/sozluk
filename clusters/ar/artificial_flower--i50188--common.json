@@ -1,0 +1,106 @@
+{
+    "id": "i50188",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "artificial flower",
+    "en_definition": "a handmade imitation of a blossom",
+    "tr_word": "yapay çiçek",
+    "tr_definition": "bir çiçeğin el yapımı taklidi",
+    "ru_word": "искусственный цветок",
+    "ru_definition": "ручная имитация живого цветка",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "jasama gül"
+                ],
+                "Uzbek": [
+                    "yasama gul"
+                ],
+                "Kazakh": [
+                    "жасанды гүл"
+                ],
+                "Kyrgyz": [
+                    "жасалма гүл"
+                ],
+                "Karakalpak": [
+                    "jasama gúl"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қолдан жасалған гүл"
+                ],
+                "Kyrgyz": [
+                    "колдон жасалган гүл"
+                ],
+                "Karakalpak": [
+                    "qoldan jasalǵan gúl"
+                ],
+                "Tatar": [
+                    "кулдан ясалган чәчәк"
+                ],
+                "Bashkir": [
+                    "ҡулдан эшләнгән сәскә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yapma çiçek"
+                ],
+                "Tatar": [
+                    "ясалма чәчәк"
+                ],
+                "Bashkir": [
+                    "яһалма сәскә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "suni çiçek"
+                ],
+                "Azerbaijani": [
+                    "süni çiçək",
+                    "süni gül"
+                ],
+                "Uyghur": [
+                    "سۈنئىي گۈل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yalançı gül"
+                ],
+                "Uyghur": [
+                    "يالغاندىن ياسالغان گۈل"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "emeli gül"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "soxta gul"
+                ]
+            }
+        }
+    ]
+}

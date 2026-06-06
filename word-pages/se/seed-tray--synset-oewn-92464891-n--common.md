@@ -1,0 +1,173 @@
+# Seed tray
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-92464891-n |
+| **English** | seed tray |
+| **Type** | noun |
+| **Definition** | a tray used in horticulture for sowing and taking plant cuttings and growing plugs. |
+| **Source** | common |
+| **Ortatil** | uruğdan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "synset-oewn-92464891-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "seed tray",
+    "en_definition": "a tray used in horticulture for sowing and taking plant cuttings and growing plugs.",
+    "tr_word": "tohum tepsisi",
+    "tr_definition": "Bahçecilikte tohum ekmek, çelik almak ve fide yetiştirmek için kullanılan tepsi.",
+    "ru_word": "лоток для рассады",
+    "ru_definition": "лоток, используемый в садоводстве для посева семян, черенкования и выращивания рассады.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tohum tepsisi"
+                ],
+                "Azerbaijani": [
+                    "toxum qabı",
+                    "toxum tavası"
+                ],
+                "Turkmen": [
+                    "tohum gap",
+                    "tohum gutusy"
+                ],
+                "Kazakh": [
+                    "тұқым науасы"
+                ],
+                "Karakalpak": [
+                    "tұqım salǵısh"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻchat idishi",
+                    "koʻchat qutisi"
+                ],
+                "Uyghur": [
+                    "كۆچەت تەخسىسى"
+                ],
+                "Kazakh": [
+                    "көшет науасы",
+                    "көшет жәшігі"
+                ],
+                "Kyrgyz": [
+                    "көчөт идиш",
+                    "көчөт салгыч"
+                ],
+                "Karakalpak": [
+                    "kóshet ıdısı",
+                    "kóshet jáshіgі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "urugʻdon"
+                ],
+                "Uyghur": [
+                    "ئۇرۇق سېلىش تەخسىسى"
+                ],
+                "Kyrgyz": [
+                    "үрөн идиш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чәчү савыты",
+                    "чәчү табагы"
+                ],
+                "Bashkir": [
+                    "сәсеү ятҡысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үсенте савыты"
+                ],
+                "Bashkir": [
+                    "үҫенте һауыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "орлык савыты"
+                ],
+                "Bashkir": [
+                    "орлоҡ һауыты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fide tepsisi",
+                    "fidelik tepsisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çimlendirme tepsisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "viyol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şitil qabı",
+                    "şitillik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nahal gap",
+                    "nahalhana gaby"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tovoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مايسا تەخسىسى"
+                ]
+            }
+        }
+    ]
+}
+```
+

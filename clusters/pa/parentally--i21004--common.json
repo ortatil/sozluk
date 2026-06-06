@@ -1,0 +1,130 @@
+{
+    "id": "i21004",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "parentally",
+    "en_definition": "in a parental manner",
+    "tr_word": "ebeveynce",
+    "tr_definition": "bir ebeveyne yakışır şekilde, anne veya baba gibi",
+    "ru_word": "по-родительски",
+    "ru_definition": "таким образом, как это свойственно родителю",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ata-ana kimi",
+                    "atayanı"
+                ],
+                "Turkmen": [
+                    "ata-enelik bilen",
+                    "atalyk-enelik bilen",
+                    "atalyk hökmünde"
+                ],
+                "Uzbek": [
+                    "otadek"
+                ],
+                "Uyghur": [
+                    "ئاتا-ئانىلارچە",
+                    "ئاتا-ئانىدەك"
+                ],
+                "Kazakh": [
+                    "ата-анаша",
+                    "ата-ана ретінде"
+                ],
+                "Kyrgyz": [
+                    "ата-энелик менен",
+                    "ата-энече",
+                    "ата-эне катары"
+                ],
+                "Karakalpak": [
+                    "ata-analarsha",
+                    "ata-analarday",
+                    "ata-analıq penen"
+                ],
+                "Tatar": [
+                    "ата-аналарча",
+                    "аталарча"
+                ],
+                "Bashkir": [
+                    "ата-әсәләрсә",
+                    "ата-әсә кеүек",
+                    "аталарса"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ana babaca",
+                    "anne babaca"
+                ],
+                "Azerbaijani": [
+                    "anayanı"
+                ],
+                "Turkmen": [
+                    "enelik hökmünde"
+                ],
+                "Uzbek": [
+                    "onadek"
+                ],
+                "Kazakh": [
+                    "аналықпен"
+                ],
+                "Tatar": [
+                    "аналарча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "valideyn kimi",
+                    "valideyncəsinə"
+                ],
+                "Uzbek": [
+                    "valiyona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mehribonlarcha"
+                ],
+                "Uyghur": [
+                    "مېھرىبانلارچە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ebeveynce"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şefkatle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әкелікпен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "әсәләрсә"
+                ]
+            }
+        }
+    ]
+}

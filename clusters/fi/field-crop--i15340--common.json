@@ -1,0 +1,135 @@
+{
+    "id": "i15340",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "field-crop",
+    "en_definition": "of or relating to field crops",
+    "tr_word": "tarla bitkileriyle ilgili",
+    "tr_definition": "tarla bitkileri veya bunların yetiştirilmesi ile ilgili olan",
+    "ru_word": "полеводческий",
+    "ru_definition": "относящийся к полеводству или полевым культурам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "əkin"
+                ],
+                "Turkmen": [
+                    "ekin",
+                    "ekine degişli"
+                ],
+                "Kyrgyz": [
+                    "эгин"
+                ],
+                "Tatar": [
+                    "иген",
+                    "игенчелек"
+                ],
+                "Bashkir": [
+                    "иген",
+                    "игенселек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tarla",
+                    "tarımsal"
+                ],
+                "Azerbaijani": [
+                    "tarla"
+                ],
+                "Uyghur": [
+                    "تېرىقچىلىق"
+                ],
+                "Kyrgyz": [
+                    "талаа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ziraat"
+                ],
+                "Azerbaijani": [
+                    "ziraət"
+                ],
+                "Uzbek": [
+                    "ziraat"
+                ],
+                "Uyghur": [
+                    "زىرائەت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "dehqonchilik"
+                ],
+                "Uyghur": [
+                    "دېھقانچىلىق"
+                ],
+                "Karakalpak": [
+                    "dixanshılıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dala"
+                ],
+                "Kazakh": [
+                    "далалық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "егістік",
+                    "егіншілік"
+                ],
+                "Karakalpak": [
+                    "eginlik",
+                    "egin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "meýdan ekini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "айдоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "баҫыу"
+                ]
+            }
+        }
+    ]
+}

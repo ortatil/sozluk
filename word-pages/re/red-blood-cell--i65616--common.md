@@ -1,0 +1,144 @@
+# Red blood cell
+| Field | Detail |
+|---|---|
+| **ID** | i65616 |
+| **English** | red blood cell |
+| **Type** | noun |
+| **Definition** | a mature blood cell that contains hemoglobin to carry oxygen to the bodily tissues; a biconcave disc that has no nucleus |
+| **Source** | common |
+| **Ortatil** | eritrotsit |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **eritrotsit** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.50** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| эритроцит | eritrotsit |
+| **Kyrgyz** | |
+| эритроцит | eritrotsit |
+| **Tatar** | |
+| эритроцит | eritrotsit |
+| **Bashkir** | |
+| эритроцит | eritrotsit |
+
+```json
+{
+    "id": "i65616",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "red blood cell",
+    "en_definition": "a mature blood cell that contains hemoglobin to carry oxygen to the bodily tissues; a biconcave disc that has no nucleus",
+    "tr_word": "alyuvar",
+    "tr_definition": "Vücut dokularına oksijen taşımak için hemoglobin içeren, çekirdeksiz ve iki yanı içbükey disk şeklindeki olgun kan hücresi.",
+    "ru_word": "эритроцит",
+    "ru_definition": "Зрелая клетка крови, содержащая гемоглобин для переноса кислорода к тканям организма; представляет собой двояковогнутый диск без ядра.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eritrosit"
+                ],
+                "Azerbaijani": [
+                    "eritrosit"
+                ],
+                "Turkmen": [
+                    "eritrosit"
+                ],
+                "Uzbek": [
+                    "eritrotsit"
+                ],
+                "Kazakh": [
+                    "эритроцит"
+                ],
+                "Kyrgyz": [
+                    "эритроцит"
+                ],
+                "Karakalpak": [
+                    "eritrocit"
+                ],
+                "Tatar": [
+                    "эритроцит"
+                ],
+                "Bashkir": [
+                    "эритроцит"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kırmızı kan hücresi"
+                ],
+                "Azerbaijani": [
+                    "qırmızı qan hüceyrəsi"
+                ],
+                "Kyrgyz": [
+                    "кызыл кан денечеси",
+                    "кызыл кан клеткасы"
+                ],
+                "Tatar": [
+                    "кызыл кан күзәнәге"
+                ],
+                "Bashkir": [
+                    "ҡыҙыл ҡан тәнсәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyzyl gan öýjügi"
+                ],
+                "Uzbek": [
+                    "qizil qon tanchasi",
+                    "qizil qon hujayrasi"
+                ],
+                "Uyghur": [
+                    "قىزىل قان ھۈجەيرىسى",
+                    "قىزىل قان دانىچىسى"
+                ],
+                "Kazakh": [
+                    "қызыл қан түйіршігі",
+                    "қызыл қан жасушасы"
+                ],
+                "Karakalpak": [
+                    "qızıl qan túyіrshegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alyuvar"
+                ],
+                "Azerbaijani": [
+                    "al qan hüceyrəsi"
+                ]
+            }
+        }
+    ]
+}
+```
+

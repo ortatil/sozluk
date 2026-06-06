@@ -1,0 +1,103 @@
+{
+    "id": "i107392",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "carbonation",
+    "en_definition": "saturation with carbon dioxide (as soda water)",
+    "tr_word": "karbonatlaşma",
+    "tr_definition": "Bir sıvının karbondioksit gazı ile doyurulması işlemi.",
+    "ru_word": "карбонизация",
+    "ru_definition": "Насыщение жидкости углекислым газом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gazlanma",
+                    "gazlılık"
+                ],
+                "Azerbaijani": [
+                    "qazlaşdırma",
+                    "qazlanma"
+                ],
+                "Turkmen": [
+                    "gazlandyrma",
+                    "gazlylyk"
+                ],
+                "Uzbek": [
+                    "gazlanish",
+                    "gazlanganlik"
+                ],
+                "Uyghur": [
+                    "گازلاشتۇرۇش",
+                    "گازلىق"
+                ],
+                "Kazakh": [
+                    "газдалу",
+                    "газдандыру"
+                ],
+                "Kyrgyz": [
+                    "газдаштыруу"
+                ],
+                "Karakalpak": [
+                    "gazlandırılıo",
+                    "gazlandırıo"
+                ],
+                "Tatar": [
+                    "газландыру",
+                    "газлылык"
+                ],
+                "Bashkir": [
+                    "газландырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köpürjikleme"
+                ],
+                "Uzbek": [
+                    "ko'piklanish"
+                ],
+                "Uyghur": [
+                    "كۆپۈكلەشتۈرۈش"
+                ],
+                "Kyrgyz": [
+                    "көбүктөнүү"
+                ],
+                "Karakalpak": [
+                    "kóbiklilik"
+                ],
+                "Tatar": [
+                    "күбекләнү"
+                ],
+                "Bashkir": [
+                    "күпертеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "asitlenme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көмірқышқылдану"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ачуу"
+                ]
+            }
+        }
+    ]
+}

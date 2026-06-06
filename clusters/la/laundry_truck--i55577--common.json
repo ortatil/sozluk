@@ -1,0 +1,81 @@
+{
+    "id": "i55577",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "laundry truck",
+    "en_definition": "van that picks up and delivers laundry",
+    "tr_word": "çamaşırhane kamyonu",
+    "tr_definition": "çamaşırları toplayan ve teslim eden kamyonet",
+    "ru_word": "прачечный фургон",
+    "ru_definition": "фургон, который забирает и доставляет белье",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kir ýuwulýan ulag",
+                    "kirhana ulagy"
+                ],
+                "Uzbek": [
+                    "kir yuvish mashinasi",
+                    "kirxona mashinasi",
+                    "kir tashuvchi ulov"
+                ],
+                "Uyghur": [
+                    "كىر يۇيۇش ئاپتوموبىلى",
+                    "كىر يۇيۇش ماشىنىسى",
+                    "كىر توشۇش ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "кір жуатын көлік",
+                    "кір таситын көлік",
+                    "кір жуу машинасы"
+                ],
+                "Kyrgyz": [
+                    "кир жуучу унаа",
+                    "кир ташуучу унаа"
+                ],
+                "Karakalpak": [
+                    "kirimxana mashinası"
+                ],
+                "Tatar": [
+                    "кер ташу машинасы",
+                    "кер ташучы машина",
+                    "кер ташучы йөк машинасы"
+                ],
+                "Bashkir": [
+                    "кер ташыу машинаһы",
+                    "кер ташыусы йөк автомобиле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çamaşır arabası",
+                    "çamaşır kamyoneti",
+                    "çamaşır nakliye aracı"
+                ],
+                "Azerbaijani": [
+                    "çamaşır maşını",
+                    "çamaşırxana maşını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paltaryuyan maşın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kirim juoıoshı mashina",
+                    "kirim tasıoshı kólik"
+                ]
+            }
+        }
+    ]
+}

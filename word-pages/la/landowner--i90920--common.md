@@ -1,0 +1,201 @@
+# Landowner
+| Field | Detail |
+|---|---|
+| **ID** | i90920 |
+| **English** | landowner |
+| **Type** | noun |
+| **Definition** | a holder or proprietor of land |
+| **Source** | common |
+| **Ortatil** | mülkdär |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **mülkdär** | **ağa** |
+|---|---|---|
+| Turkish | ✅ | ✅ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ❌ | ✅ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 1 | 0.67 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.20 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **3.60** | **1.37** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مۈلۈكدار | mülükdar |
+| زىمىندار | zimindar |
+| ساھىبخان | sahibxan |
+| **Kazakh** | |
+| иеленуші | iyelenuşi |
+| қожайын | qojayın |
+| **Kyrgyz** | |
+| кожоюн | kojoyun |
+| бай | bay |
+| **Tatar** | |
+| мөлкәтче | mölkätçe |
+| **Bashkir** | |
+| мөлкәтсе | mölkätse |
+
+```json
+{
+    "id": "i90920",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "landowner",
+    "en_definition": "a holder or proprietor of land",
+    "tr_word": "toprak sahibi",
+    "tr_definition": "arazi sahibi olan kimse, mülk sahibi",
+    "ru_word": "землевладелец",
+    "ru_definition": "человек, владеющий землёй на правах собственности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mülk sahibi",
+                    "malik"
+                ],
+                "Azerbaijani": [
+                    "mülkədar",
+                    "mülk sahibi",
+                    "mülkiyyətçi"
+                ],
+                "Turkmen": [
+                    "mülkdär",
+                    "mülkdar",
+                    "mülk eýesi"
+                ],
+                "Uzbek": [
+                    "mulkdor"
+                ],
+                "Uyghur": [
+                    "مۈلۈكدار"
+                ],
+                "Kazakh": [
+                    "мүлік иесі"
+                ],
+                "Kyrgyz": [
+                    "мүлк ээси"
+                ],
+                "Karakalpak": [
+                    "múlkdar"
+                ],
+                "Tatar": [
+                    "мөлкәтче",
+                    "мөлкәт иясе"
+                ],
+                "Bashkir": [
+                    "мөлкәтсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arazi sahibi"
+                ],
+                "Turkmen": [
+                    "ýer eýesi"
+                ],
+                "Uzbek": [
+                    "yer egasi"
+                ],
+                "Uyghur": [
+                    "يەر ئىگىسى"
+                ],
+                "Kazakh": [
+                    "жер иесі"
+                ],
+                "Kyrgyz": [
+                    "жер ээси"
+                ],
+                "Karakalpak": [
+                    "jer iyesi"
+                ],
+                "Tatar": [
+                    "җир иясе",
+                    "җир биләүче"
+                ],
+                "Bashkir": [
+                    "ер биләүсе",
+                    "ер хужаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağa"
+                ],
+                "Azerbaijani": [
+                    "ağa"
+                ],
+                "Kazakh": [
+                    "иеленуші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toprak sahibi"
+                ],
+                "Azerbaijani": [
+                    "torpaq sahibi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zaminshunos",
+                    "zamindor"
+                ],
+                "Uyghur": [
+                    "زىمىندار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қожайын"
+                ],
+                "Kyrgyz": [
+                    "кожоюн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бай"
+                ],
+                "Karakalpak": [
+                    "bay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ساھىبخان"
+                ]
+            }
+        }
+    ]
+}
+```
+

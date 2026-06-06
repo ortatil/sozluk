@@ -1,0 +1,60 @@
+{
+    "id": "i72478",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "colon",
+    "en_definition": "a punctuation mark (:) used after a word introducing a series or an example or an explanation (or after the salutation of a business letter)",
+    "tr_word": "iki nokta",
+    "tr_definition": "Bir cümleden sonra açıklama yapılacağını veya örnek verileceğini belirten noktalama işareti (:).",
+    "ru_word": "двоеточие",
+    "ru_definition": "Знак препинания в виде двух расположенных одна над другой точек (:), употребляемый перед перечислением, пояснением или прямой речью.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki nokta",
+                    "iki nokta üst üste"
+                ],
+                "Azerbaijani": [
+                    "iki nöqtə"
+                ],
+                "Uzbek": [
+                    "ikki nuqta"
+                ],
+                "Uyghur": [
+                    "ئىككى چېكىت"
+                ],
+                "Tatar": [
+                    "ике нокта"
+                ],
+                "Bashkir": [
+                    "ике нөктә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşa nöqtə"
+                ],
+                "Turkmen": [
+                    "goşa nokat"
+                ],
+                "Uyghur": [
+                    "قوش چېكىت"
+                ],
+                "Kazakh": [
+                    "қос нүкте"
+                ],
+                "Kyrgyz": [
+                    "кош чекит"
+                ],
+                "Karakalpak": [
+                    "qos núkte"
+                ]
+            }
+        }
+    ]
+}

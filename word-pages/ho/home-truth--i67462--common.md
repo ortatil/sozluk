@@ -1,0 +1,166 @@
+# Home truth
+| Field | Detail |
+|---|---|
+| **ID** | i67462 |
+| **English** | home truth |
+| **Type** | noun |
+| **Definition** | an important truth that is unpleasant to acknowledge (as about yourself) |
+| **Source** | common |
+| **Ortatil** | hakikat |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ақиқат | aqiqat |
+
+```json
+{
+    "id": "i67462",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "home truth",
+    "en_definition": "an important truth that is unpleasant to acknowledge (as about yourself)",
+    "tr_word": "acı gerçek",
+    "tr_definition": "kişinin kendisi hakkında kabul etmesi zor olan, nahoş ama önemli gerçek.",
+    "ru_word": "горькая правда",
+    "ru_definition": "важная, но неприятная истина, которую трудно признать (особенно о самом себе).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "acı gerçek",
+                    "acı hakikat"
+                ],
+                "Azerbaijani": [
+                    "acı həqiqət",
+                    "acı gerçək",
+                    "acı söz"
+                ],
+                "Turkmen": [
+                    "ajy hakykat",
+                    "açyk hakykat"
+                ],
+                "Uzbek": [
+                    "achchiq haqiqat"
+                ],
+                "Uyghur": [
+                    "ئېچىغلىق ھەقىقەت"
+                ],
+                "Kazakh": [
+                    "ащы шындық"
+                ],
+                "Kyrgyz": [
+                    "ачуу чындык",
+                    "ачуу чын"
+                ],
+                "Karakalpak": [
+                    "ashchı haqıyqat",
+                    "ashchı shınlıq"
+                ],
+                "Tatar": [
+                    "ачы хакыйкать",
+                    "ачы дөреслек"
+                ],
+                "Bashkir": [
+                    "асы хаҡиҡәт",
+                    "асы дөрөҫлөк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бетке айтылған шындық"
+                ],
+                "Kyrgyz": [
+                    "бетке айтылган чындык"
+                ],
+                "Karakalpak": [
+                    "betke aytılǵan shınlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hakikat"
+                ],
+                "Uzbek": [
+                    "haq gap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yüzleşme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "doğru söz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "göni hakykat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ro'st gap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تولۇق ھەقىقەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رەھىمسىز ھەقىقەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақиқат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ялангач хакыйкать"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "көҫөҙ хаҡиҡәт"
+                ]
+            }
+        }
+    ]
+}
+```
+

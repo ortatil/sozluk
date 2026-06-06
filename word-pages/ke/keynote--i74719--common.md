@@ -1,0 +1,192 @@
+# Keynote
+| Field | Detail |
+|---|---|
+| **ID** | i74719 |
+| **English** | keynote |
+| **Type** | noun |
+| **Definition** | the principal theme in a speech or literary work |
+| **Source** | common |
+| **Ortatil** | özgä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| түйін | tüyin |
+
+```json
+{
+    "id": "i74719",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "keynote",
+    "en_definition": "the principal theme in a speech or literary work",
+    "tr_word": "ana tema",
+    "tr_definition": "bir konuşmanın veya edebi eserin temelini oluşturan asıl konu veya düşünce",
+    "ru_word": "основная идея",
+    "ru_definition": "главная тема или руководящий принцип речи или литературного произведения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "başlıca fikir"
+                ],
+                "Turkmen": [
+                    "baş ýörelge"
+                ],
+                "Uzbek": [
+                    "bosh g'oya"
+                ],
+                "Kazakh": [
+                    "басты тақырып"
+                ],
+                "Kyrgyz": [
+                    "башкы маани"
+                ],
+                "Karakalpak": [
+                    "baslı ideya"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "esas konu"
+                ],
+                "Azerbaijani": [
+                    "əsas mövzu"
+                ],
+                "Turkmen": [
+                    "esasy mowzuk",
+                    "esasy pikir"
+                ],
+                "Uzbek": [
+                    "asosiy mavzu"
+                ],
+                "Uyghur": [
+                    "ئاساسىي تېما",
+                    "ئاساسىي مەقسەت",
+                    "ئاساسىي غايە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "özek"
+                ],
+                "Kazakh": [
+                    "өзекті мәселе"
+                ],
+                "Karakalpak": [
+                    "ózek"
+                ],
+                "Tatar": [
+                    "үзәк фикер"
+                ],
+                "Bashkir": [
+                    "үҙәк фекер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "түпкү максат"
+                ],
+                "Tatar": [
+                    "төп фикер",
+                    "төп тема"
+                ],
+                "Bashkir": [
+                    "төп фекер",
+                    "төп тема",
+                    "төп идея"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ana fikir",
+                    "ana tema"
+                ],
+                "Azerbaijani": [
+                    "ana xətt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temel düşünce"
+                ],
+                "Azerbaijani": [
+                    "təməl prinsip"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "markaziy nuqta"
+                ],
+                "Uyghur": [
+                    "مەركىزىي نۇقتا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "негізгі арқау",
+                    "негізгі ой"
+                ],
+                "Kyrgyz": [
+                    "негизги өзөк",
+                    "негизги багыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mohiyat",
+                    "mag'iz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түйін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tiykarǵı oy",
+                    "tiykarǵı mazmun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп мәгънә"
+                ]
+            }
+        }
+    ]
+}
+```
+

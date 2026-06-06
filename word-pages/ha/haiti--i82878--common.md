@@ -1,0 +1,105 @@
+# Haiti
+| Field | Detail |
+|---|---|
+| **ID** | i82878 |
+| **English** | haiti |
+| **Type** | noun |
+| **Definition** | a republic in the West Indies on the western part of the island of Hispaniola; achieved independence from France in 1804; the poorest and most illiterate nation in the western hemisphere |
+| **Source** | common |
+| **Ortatil** | hayti |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **hayti** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **4** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ھايتى | hayti |
+| **Kazakh** | |
+| Гаити | gaiti |
+| **Kyrgyz** | |
+| Гаити | gaiti |
+| **Tatar** | |
+| Гаити | gaiti |
+| **Bashkir** | |
+| Гаити | gaiti |
+
+```json
+{
+    "id": "i82878",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "haiti",
+    "en_definition": "a republic in the West Indies on the western part of the island of Hispaniola; achieved independence from France in 1804; the poorest and most illiterate nation in the western hemisphere",
+    "tr_word": "Haiti",
+    "tr_definition": "Hispanyola adasının batı kısmında yer alan, 1804'te Fransa'dan bağımsızlığını kazanan bir Batı Hint Adaları cumhuriyeti.",
+    "ru_word": "Гаити",
+    "ru_definition": "республика в Вест-Индии на западной части острова Эспаньола; получила независимость от Франции в 1804 году.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Haiti",
+                    "Haiti Cumhuriyeti"
+                ],
+                "Azerbaijani": [
+                    "Haiti",
+                    "Haiti Respublikası"
+                ],
+                "Turkmen": [
+                    "Gaiti",
+                    "Gaiti Respublikasy"
+                ],
+                "Uzbek": [
+                    "Gaiti",
+                    "Gaiti Respublikasi"
+                ],
+                "Uyghur": [
+                    "ھايتى",
+                    "ھايتى جۇمھۇرىيىتى"
+                ],
+                "Kazakh": [
+                    "Гаити",
+                    "Гаити Республикасы"
+                ],
+                "Kyrgyz": [
+                    "Гаити",
+                    "Гаити Республикасы"
+                ],
+                "Karakalpak": [
+                    "Gaiti",
+                    "Gaiti Respublikası"
+                ],
+                "Tatar": [
+                    "Гаити",
+                    "Гаити Җөмһүрияте"
+                ],
+                "Bashkir": [
+                    "Гаити",
+                    "Гаити Республикаһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

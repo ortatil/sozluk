@@ -1,0 +1,157 @@
+# Car dealer
+| Field | Detail |
+|---|---|
+| **ID** | i79581 |
+| **English** | car dealer |
+| **Type** | noun |
+| **Definition** | a firm that sells and buys cars |
+| **Source** | common |
+| **Ortatil** | awtosalon |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **awtosalon** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.03** |
+
+```json
+{
+    "id": "i79581",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "car dealer",
+    "en_definition": "a firm that sells and buys cars",
+    "tr_word": "araba galerisi",
+    "tr_definition": "otomobil alım satımı yapan işletme",
+    "ru_word": "автодилер",
+    "ru_definition": "компания, занимающаяся покупкой и продажей автомобилей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "avtomobil satıcısı",
+                    "avtosalon"
+                ],
+                "Turkmen": [
+                    "awtoulag dükany",
+                    "awtoulag söwdagäri"
+                ],
+                "Uzbek": [
+                    "avtosavdogar",
+                    "avtosalon"
+                ],
+                "Kazakh": [
+                    "автокөлік саудагері"
+                ],
+                "Karakalpak": [
+                    "awtosaodager"
+                ],
+                "Tatar": [
+                    "автомобиль сатучы"
+                ],
+                "Bashkir": [
+                    "автомобиль һатыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "maşın alverçisi",
+                    "maşın dileri"
+                ],
+                "Turkmen": [
+                    "maşyn dükany",
+                    "maşyn söwdagäri"
+                ],
+                "Uzbek": [
+                    "mashinafurush"
+                ],
+                "Uyghur": [
+                    "ماشىنا سودىگىرى",
+                    "ماشىنا تىجارەتچىسى",
+                    "ماشىنا سېتىش ئورنى"
+                ],
+                "Karakalpak": [
+                    "mashina satıoshı"
+                ],
+                "Tatar": [
+                    "машина сатучы",
+                    "машина сәүдәгәре"
+                ],
+                "Bashkir": [
+                    "машина һатыусы",
+                    "машина һатыу үҙәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік сатушы",
+                    "көлік делдалы"
+                ],
+                "Karakalpak": [
+                    "kólik satıoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "oto galeri",
+                    "otomobil bayii"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araba satıcısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "galerici"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "savdo uyi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа сатуучу",
+                    "унаа борбору",
+                    "унаа сатуучу жай",
+                    "унаа базары"
+                ]
+            }
+        }
+    ]
+}
+```
+

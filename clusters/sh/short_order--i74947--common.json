@@ -1,0 +1,118 @@
+{
+    "id": "i74947",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "short order",
+    "en_definition": "an order for food that can be prepared quickly",
+    "tr_word": "hızlı sipariş",
+    "tr_definition": "çabuk hazırlanabilen yemek siparişi",
+    "ru_word": "быстрый заказ",
+    "ru_definition": "заказ на еду, которую можно приготовить быстро",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tez hazırlanan yemək"
+                ],
+                "Turkmen": [
+                    "tiz nahar"
+                ],
+                "Uzbek": [
+                    "tezpishar taom"
+                ],
+                "Uyghur": [
+                    "تېز تاماق",
+                    "تېز تەييارلىنىدىغان تاماق",
+                    "تېز بۇيرۇتۇلغان تاماق"
+                ],
+                "Kazakh": [
+                    "тез дайындалатын тағам"
+                ],
+                "Kyrgyz": [
+                    "тез тамак"
+                ],
+                "Karakalpak": [
+                    "tez tayarlanatuǵın taǵam",
+                    "tez máziri",
+                    "tez taǵam"
+                ],
+                "Tatar": [
+                    "тиз аш",
+                    "тиз әзерләнүче ризык"
+                ],
+                "Bashkir": [
+                    "тиҙ әҙерләнеүсе аш",
+                    "тиҙ аш",
+                    "тиҙ аҙыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazır yemek"
+                ],
+                "Azerbaijani": [
+                    "hazır yemək"
+                ],
+                "Kyrgyz": [
+                    "даяр тамак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayaküstü yemek"
+                ],
+                "Azerbaijani": [
+                    "ayaqüstü yemək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "taýýar nahar"
+                ],
+                "Uzbek": [
+                    "tayyor taom"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yengil tamaddi"
+                ],
+                "Kazakh": [
+                    "жедел тағам",
+                    "жеңіл-желпі тамақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çabuk yemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çalt nahar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ашыгыч заказ"
+                ]
+            }
+        }
+    ]
+}

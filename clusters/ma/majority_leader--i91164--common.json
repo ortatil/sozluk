@@ -1,0 +1,84 @@
+{
+    "id": "i91164",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "majority leader",
+    "en_definition": "leader of the majority party in a legislature",
+    "tr_word": "çoğunluk lideri",
+    "tr_definition": "bir yasama meclisindeki çoğunluk partisinin lideri",
+    "ru_word": "лидер большинства",
+    "ru_definition": "лидер партии большинства в законодательном органе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "köplük lideri",
+                    "köplük ýolbaşçysy",
+                    "köplük baştutany"
+                ],
+                "Uzbek": [
+                    "koʻpchilik yetakchisi",
+                    "koʻpchilik sardori",
+                    "koʻpchilik rahbari"
+                ],
+                "Uyghur": [
+                    "كۆپ سانلىقلار رەھبىرى",
+                    "كۆپ سانلىق پارتىيە رەھبىرى",
+                    "كۆپچىلىك رەھبىرى"
+                ],
+                "Kazakh": [
+                    "көпшілік жетекшісі",
+                    "көпшілік басшысы"
+                ],
+                "Kyrgyz": [
+                    "көпчүлүктүн лидери",
+                    "көпчүлүк башчысы",
+                    "көпчүлүк жетекчиси"
+                ],
+                "Karakalpak": [
+                    "kópshilik jetekshisi",
+                    "kópshilik basshısı",
+                    "kópshilik lideri"
+                ],
+                "Tatar": [
+                    "күпчелек җитәкчесе",
+                    "күпчелек башлыгы",
+                    "күпчелек рәисе"
+                ],
+                "Bashkir": [
+                    "күпселек етәксеһе",
+                    "күпселек башлығы",
+                    "күпселек юлбашсыһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çoğunluk lideri"
+                ],
+                "Azerbaijani": [
+                    "çoxluq rəhbəri",
+                    "çoxluq başçısı",
+                    "çoxluq lideri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "grup başkanı",
+                    "meclis grup başkanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "басымдық жетекшісі"
+                ]
+            }
+        }
+    ]
+}

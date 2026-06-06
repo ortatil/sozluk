@@ -1,0 +1,78 @@
+{
+    "id": "i60679",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "two-man tent",
+    "en_definition": "a tent designed for occupancy by two persons",
+    "tr_word": "iki kişilik çadır",
+    "tr_definition": "iki kişinin konaklaması için tasarlanmış çadır",
+    "ru_word": "двухместная палатка",
+    "ru_definition": "палатка, предназначенная для проживания двух человек",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iki kişilik çadır",
+                    "iki şahıslık çadır"
+                ],
+                "Azerbaijani": [
+                    "iki nəfərlik çadır",
+                    "iki nəfərlik xeymə",
+                    "iki nəfərlik oba"
+                ],
+                "Turkmen": [
+                    "iki adamlyk çadyr",
+                    "iki kişilik çadyr",
+                    "iki orunlyk çadyr"
+                ],
+                "Uzbek": [
+                    "ikki kishilik chodir",
+                    "ikki kishilik xayma"
+                ],
+                "Uyghur": [
+                    "ئىككى كىشىلىك چېدىر"
+                ],
+                "Kazakh": [
+                    "екі кісілік шатыр"
+                ],
+                "Kyrgyz": [
+                    "эки кишилик чатыр",
+                    "эки орундуу чатыр"
+                ],
+                "Karakalpak": [
+                    "ekі kіsіlіk shatır",
+                    "ekі orınlı shatır",
+                    "ekі adamlıq shatır"
+                ],
+                "Tatar": [
+                    "ике кешелек чатыр",
+                    "ике урынлы чатыр",
+                    "ике кешелек палатка"
+                ],
+                "Bashkir": [
+                    "ике кешелек сатыр",
+                    "ике урынлы сатыр",
+                    "ике кешелек ҡыуыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوش كىشىلىك چېدىر"
+                ],
+                "Kazakh": [
+                    "қос кісілік шатыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "екі орындық шатыр"
+                ]
+            }
+        }
+    ]
+}

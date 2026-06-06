@@ -1,0 +1,105 @@
+{
+    "id": "i44137",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tree lizard",
+    "en_definition": "a climbing lizard of western United States and northern Mexico",
+    "tr_word": "ağaç kertenkelesi",
+    "tr_definition": "Batı Amerika Birleşik Devletleri ve Kuzey Meksika'da yaşayan, tırmanıcı bir kertenkele türü",
+    "ru_word": "древесная ящерица",
+    "ru_definition": "лазающая ящерица, обитающая на западе США и севере Мексики",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağaç kertenkelesi"
+                ],
+                "Azerbaijani": [
+                    "ağac kərtənkələsi"
+                ],
+                "Turkmen": [
+                    "agaç kelpezesi"
+                ],
+                "Kazakh": [
+                    "ағаш кесірткесі"
+                ],
+                "Tatar": [
+                    "агач кәлтәсе"
+                ],
+                "Bashkir": [
+                    "ағас кәлтәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kelpeze"
+                ],
+                "Uyghur": [
+                    "كەسلەنچۈك"
+                ],
+                "Kazakh": [
+                    "кесіртке"
+                ],
+                "Kyrgyz": [
+                    "кескелдирик"
+                ],
+                "Karakalpak": [
+                    "kesіrtke",
+                    "kesel"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kərtənkələ"
+                ],
+                "Uzbek": [
+                    "kaltakesak"
+                ],
+                "Tatar": [
+                    "кәлтә"
+                ],
+                "Bashkir": [
+                    "кәлтә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tırmanıcı kertenkele"
+                ],
+                "Uyghur": [
+                    "دەرەخ كەسلەنچۈكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "echkemar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toshkaltakesak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жыланбаш"
+                ]
+            }
+        }
+    ]
+}

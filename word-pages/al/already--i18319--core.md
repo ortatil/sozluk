@@ -1,0 +1,227 @@
+# Already
+| Field | Detail |
+|---|---|
+| **ID** | i18319 |
+| **English** | already |
+| **Type** | adverb |
+| **Definition** | prior to a specified or implied time |
+| **Source** | core |
+| **Ortatil** | allaqaçän |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **allaqaçän** | **inde** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ✅ |
+| Turkmen | ❌ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ❌ | ✅ |
+| Bashkir | ❌ | ✅ |
+| *Oghuz Subtotal* | 0 | 0.33 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.40 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **1.40** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئاللىقاچان | alliqaçan |
+| بۇرۇنلا | burunla |
+| بۇرۇنراق | burunraq |
+| **Kazakh** | |
+| әлдеқашан | äldeqaşan |
+| бұрыннан | burınnan |
+| **Kyrgyz** | |
+| ээбак | eebak |
+| **Tatar** | |
+| инде | inde |
+| **Bashkir** | |
+| инде | inde |
+| алдараҡ | aldaraq |
+
+```json
+{
+    "id": "i18319",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "already",
+    "en_definition": "prior to a specified or implied time",
+    "tr_word": "zaten",
+    "tr_definition": "belirtilen veya ima edilen bir zamandan önce; çoktan",
+    "ru_word": "уже",
+    "ru_definition": "до указанного или подразумеваемого времени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "allaqachon"
+                ],
+                "Uyghur": [
+                    "ئاللىقاچان"
+                ],
+                "Kazakh": [
+                    "әлдеқашан"
+                ],
+                "Kyrgyz": [
+                    "алда качан"
+                ],
+                "Karakalpak": [
+                    "aldaqashan"
+                ],
+                "Tatar": [
+                    "әллә качан"
+                ],
+                "Bashkir": [
+                    "әллә ҡасан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "indiyədək"
+                ],
+                "Tatar": [
+                    "инде"
+                ],
+                "Bashkir": [
+                    "инде"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hali hazırda"
+                ],
+                "Turkmen": [
+                    "häzirden"
+                ],
+                "Kazakh": [
+                    "қазірдің өзінде"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çoktan"
+                ],
+                "Azerbaijani": [
+                    "çoxdan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۇرۇنلا",
+                    "بۇرۇنراق"
+                ],
+                "Kazakh": [
+                    "бұрыннан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aldın",
+                    "aldın-ala"
+                ],
+                "Bashkir": [
+                    "алдараҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мурун эле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zaten"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şimdiden"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "artıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eýýäm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öňden"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muddatidan oldin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vaqtidan ilgari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ээбак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "erteden"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "элек үк"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,122 @@
+# Working group
+| Field | Detail |
+|---|---|
+| **ID** | i81295 |
+| **English** | working group |
+| **Type** | noun |
+| **Definition** | a group of people working together temporarily until some goal is achieved |
+| **Source** | common |
+| **Ortatil** | häyät |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i81295",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "working group",
+    "en_definition": "a group of people working together temporarily until some goal is achieved",
+    "tr_word": "çalışma grubu",
+    "tr_definition": "belirli bir hedefe ulaşılana kadar geçici olarak birlikte çalışan bir grup insan",
+    "ru_word": "рабочая группа",
+    "ru_definition": "группа людей, временно работающих вместе до достижения определенной цели",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "işçi qrupu",
+                    "iş dəstəsi"
+                ],
+                "Turkmen": [
+                    "iş topary",
+                    "işçi topary"
+                ],
+                "Uzbek": [
+                    "ishchi guruhi",
+                    "ishchi dasta"
+                ],
+                "Kyrgyz": [
+                    "иш тобу",
+                    "ишчи топ"
+                ],
+                "Karakalpak": [
+                    "isshi topar"
+                ],
+                "Tatar": [
+                    "эш төркеме",
+                    "эшче төркем"
+                ],
+                "Bashkir": [
+                    "эш төркөмө",
+                    "эшсе төркөм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жұмыс тобы",
+                    "жұмысшы топ"
+                ],
+                "Kyrgyz": [
+                    "жумушчу топ"
+                ],
+                "Karakalpak": [
+                    "jumısshı topar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "heyət"
+                ],
+                "Uzbek": [
+                    "hay'at"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىزمەت گۇرۇپپىسى",
+                    "خىزمەت ئۆمىكى"
+                ],
+                "Tatar": [
+                    "хезмәт төркеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çalışma grubu",
+                    "çalışma heyeti",
+                    "çalışma ekibi",
+                    "çalışma birimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مەشغۇلات گۇرۇپپىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "арнайы топ"
+                ]
+            }
+        }
+    ]
+}
+```
+

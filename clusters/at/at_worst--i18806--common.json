@@ -1,0 +1,138 @@
+{
+    "id": "i18806",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "at worst",
+    "en_definition": "under the worst of conditions",
+    "tr_word": "en kötü ihtimalle",
+    "tr_definition": "olabilecek en kötü koşullar altında",
+    "ru_word": "в худшем случае",
+    "ru_definition": "при самом неблагоприятном развитии событий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "en kötü ihtimalle",
+                    "en kötüsü"
+                ],
+                "Kazakh": [
+                    "ең жаманы"
+                ],
+                "Kyrgyz": [
+                    "эң жаманы",
+                    "эң начары"
+                ],
+                "Karakalpak": [
+                    "eń jamanı",
+                    "eń jaman jaǵdayda"
+                ],
+                "Tatar": [
+                    "иң начар очракта",
+                    "иң яман очракта"
+                ],
+                "Bashkir": [
+                    "иң насары",
+                    "иң яманы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "en fena halde"
+                ],
+                "Azerbaijani": [
+                    "ən pis halda",
+                    "ən pisi"
+                ],
+                "Turkmen": [
+                    "iň bolmanda",
+                    "iň pesinden"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "нашар болғанда"
+                ],
+                "Tatar": [
+                    "начар булганда"
+                ],
+                "Bashkir": [
+                    "насар булғанда"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iň erbet ýagdaýda"
+                ],
+                "Uyghur": [
+                    "ئەڭ ناچار بولغاندا",
+                    "ئەڭ يامان بولغاندا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yomonida",
+                    "yomon deganda"
+                ],
+                "Bashkir": [
+                    "яман булғанда"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "болбоду дегенде"
+                ],
+                "Karakalpak": [
+                    "bolmaǵanda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "lap pisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "eng yomon holatda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bori-yo'g'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھېچ بولمىغاندا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қиын жағдайда"
+                ]
+            }
+        }
+    ]
+}

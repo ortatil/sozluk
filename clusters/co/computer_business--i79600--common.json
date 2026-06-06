@@ -1,0 +1,100 @@
+{
+    "id": "i79600",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "computer business",
+    "en_definition": "a business that manufactures and sells computers",
+    "tr_word": "bilgisayar işletmesi",
+    "tr_definition": "bilgisayar üreten ve satan ticari kuruluş",
+    "ru_word": "компьютерный бизнес",
+    "ru_definition": "бизнес, занимающийся производством и продажей компьютеров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kompüter müəssisəsi",
+                    "kompüter ticarəti",
+                    "kompüter işi"
+                ],
+                "Turkmen": [
+                    "kompýuter söwdasy",
+                    "kompýuter telekeçiligi"
+                ],
+                "Uzbek": [
+                    "kompyuter korxonasi",
+                    "kompyuter shirkatining faoliyati"
+                ],
+                "Uyghur": [
+                    "كومپيۇتېر سودىسى",
+                    "كومپيۇتېر كارخانىسى"
+                ],
+                "Kazakh": [
+                    "компьютерлік кәсіпкерлік"
+                ],
+                "Kyrgyz": [
+                    "компьютердик ишкердик",
+                    "компьютердик соода"
+                ],
+                "Karakalpak": [
+                    "kompyuter kárxanası",
+                    "kompyuter isi",
+                    "kompyuter saodası"
+                ],
+                "Bashkir": [
+                    "компьютер етештереү һәм һатыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hasaplaýyş tehnikasy söwdasy"
+                ],
+                "Uzbek": [
+                    "hisoblash texnikasi tijorati"
+                ],
+                "Uyghur": [
+                    "ھېسابلاش ماشىنىسى تىجارىتى"
+                ],
+                "Kazakh": [
+                    "есептеуіш техника кәсібі",
+                    "есептеуіш техника саудасы"
+                ],
+                "Tatar": [
+                    "хисаплау техникасы өлкәсе"
+                ],
+                "Bashkir": [
+                    "хисаплау техникаһы эшҡартыу",
+                    "хисаплау машиналары сауҙаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilgisayar işletmesi",
+                    "bilgisayar ticareti",
+                    "bilgisayar firması",
+                    "bilgisayar şirketi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эсептөө техникасы тармагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "санак эше",
+                    "санак бизнесы"
+                ]
+            }
+        }
+    ]
+}

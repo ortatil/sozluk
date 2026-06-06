@@ -1,0 +1,127 @@
+{
+    "id": "i86354",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "turf",
+    "en_definition": "surface layer of ground containing a mat of grass and grass roots",
+    "tr_word": "çim",
+    "tr_definition": "üzerinde ot ve ot kökleri bulunan toprak yüzey tabakası",
+    "ru_word": "дерн",
+    "ru_definition": "поверхностный слой почвы, густо заросший травой и переплетенный ее корнями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çim",
+                    "çimen"
+                ],
+                "Azerbaijani": [
+                    "çəmən",
+                    "çim"
+                ],
+                "Turkmen": [
+                    "çim"
+                ],
+                "Uzbek": [
+                    "chim"
+                ],
+                "Uyghur": [
+                    "چىم",
+                    "چىملىق"
+                ],
+                "Kazakh": [
+                    "шым",
+                    "шымтезек"
+                ],
+                "Kyrgyz": [
+                    "чым"
+                ],
+                "Karakalpak": [
+                    "shım"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "turp"
+                ],
+                "Uzbek": [
+                    "turf"
+                ],
+                "Uyghur": [
+                    "تۇرپان"
+                ],
+                "Tatar": [
+                    "туфраҡ"
+                ],
+                "Bashkir": [
+                    "тупраҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ot"
+                ],
+                "Azerbaijani": [
+                    "otluq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көгал"
+                ],
+                "Karakalpak": [
+                    "kógal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кәс"
+                ],
+                "Bashkir": [
+                    "кәҫ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чирәм"
+                ],
+                "Bashkir": [
+                    "ер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yeşillik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "maysa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыртыш"
+                ]
+            }
+        }
+    ]
+}

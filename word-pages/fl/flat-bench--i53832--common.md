@@ -1,0 +1,185 @@
+# Flat bench
+| Field | Detail |
+|---|---|
+| **ID** | i53832 |
+| **English** | flat bench |
+| **Type** | noun |
+| **Definition** | a bench on which a weightlifter lies to do exercises |
+| **Source** | common |
+| **Ortatil** | oturguç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| отургуч | oturguç |
+| такта | takta |
+
+```json
+{
+    "id": "i53832",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "flat bench",
+    "en_definition": "a bench on which a weightlifter lies to do exercises",
+    "tr_word": "düz sehpa",
+    "tr_definition": "vücut geliştiricilerin üzerine uzanarak egzersiz yaptığı düz ağırlık sehpası",
+    "ru_word": "горизонтальная скамья",
+    "ru_definition": "скамья, на которой тяжелоатлет лежит для выполнения упражнений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düz sehpa"
+                ],
+                "Azerbaijani": [
+                    "düz skamya"
+                ],
+                "Uyghur": [
+                    "تۈز ئورۇندۇق",
+                    "تۈز مەشىق ئورۇندۇقى"
+                ],
+                "Kyrgyz": [
+                    "түз отургуч"
+                ],
+                "Karakalpak": [
+                    "túz orındıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yatay sehpa"
+                ],
+                "Uzbek": [
+                    "yotiq o'rindiq"
+                ],
+                "Uyghur": [
+                    "ياتما ئورۇندۇق"
+                ],
+                "Kazakh": [
+                    "жаттығу орындығы"
+                ],
+                "Bashkir": [
+                    "ятыу эскәмьеһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məşq skamyası"
+                ],
+                "Turkmen": [
+                    "maşk oturgyjy"
+                ],
+                "Uzbek": [
+                    "mashq o'rindig'i"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tekiz oturgyç"
+                ],
+                "Uzbek": [
+                    "tekis o'rindiq"
+                ],
+                "Kazakh": [
+                    "тегіс орындық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "idman skamyası"
+                ],
+                "Tatar": [
+                    "яту эскәмиясе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýasy oturgyç"
+                ],
+                "Tatar": [
+                    "яссы эскәмия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күнегү эскәмиясе"
+                ],
+                "Bashkir": [
+                    "күнегеү эскәмьеһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağırlık sehpası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "antrenman sehpası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "спорттық орындық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "отургуч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "такта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "orındıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sákі"
+                ]
+            }
+        }
+    ]
+}
+```
+

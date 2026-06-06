@@ -1,0 +1,96 @@
+{
+    "id": "i109054",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "one-half",
+    "en_definition": "one of two equal parts of a divisible whole",
+    "tr_word": "yarım",
+    "tr_definition": "bir bütünün iki eşit parçasından her biri",
+    "ru_word": "половина",
+    "ru_definition": "одна из двух равных частей целого",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarım",
+                    "yarı"
+                ],
+                "Azerbaijani": [
+                    "yarım",
+                    "yarı",
+                    "yarısı"
+                ],
+                "Turkmen": [
+                    "ýarym",
+                    "ýary",
+                    "ýarysy"
+                ],
+                "Uzbek": [
+                    "yarim"
+                ],
+                "Uyghur": [
+                    "يېرىم",
+                    "يېرىمى"
+                ],
+                "Kazakh": [
+                    "жарты",
+                    "жартысы"
+                ],
+                "Kyrgyz": [
+                    "жарым",
+                    "жарты"
+                ],
+                "Karakalpak": [
+                    "jartı",
+                    "yarım"
+                ],
+                "Tatar": [
+                    "ярты"
+                ],
+                "Bashkir": [
+                    "ярты",
+                    "яртылаш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nısf"
+                ],
+                "Uyghur": [
+                    "نەپسى"
+                ],
+                "Tatar": [
+                    "нәсфый"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бел орта"
+                ],
+                "Bashkir": [
+                    "биш ундан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nimchorak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "teng yarmi"
+                ]
+            }
+        }
+    ]
+}

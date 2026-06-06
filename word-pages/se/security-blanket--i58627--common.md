@@ -1,0 +1,202 @@
+# Security blanket
+| Field | Detail |
+|---|---|
+| **ID** | i58627 |
+| **English** | security blanket |
+| **Type** | noun |
+| **Definition** | a blanket (or toy) that a child carries around in order to reduce anxiety |
+| **Source** | common |
+| **Ortatil** | yupanç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| эрмек | ermek |
+| **Bashkir** | |
+| йылытҡыс | yılıtqıs |
+
+```json
+{
+    "id": "i58627",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "security blanket",
+    "en_definition": "a blanket (or toy) that a child carries around in order to reduce anxiety",
+    "tr_word": "güven battaniyesi",
+    "tr_definition": "Bir çocuğun kaygısını azaltmak için yanında taşıdığı battaniye veya oyuncak.",
+    "ru_word": "успокоительное одеяло",
+    "ru_definition": "Одеяло или игрушка, которую ребенок носит с собой, чтобы чувствовать себя в безопасности.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teselli battaniyesi"
+                ],
+                "Azerbaijani": [
+                    "təsəlli yorğanı"
+                ],
+                "Turkmen": [
+                    "teselli beriji ýorgan"
+                ],
+                "Uzbek": [
+                    "taskin beruvchi mato"
+                ],
+                "Uyghur": [
+                    "تەسەللىي ئەدىيىلى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тыныштық көрпесі"
+                ],
+                "Kyrgyz": [
+                    "тынчтандыруучу оюнчук"
+                ],
+                "Karakalpak": [
+                    "tınıshlandırǵısh kórpeshe"
+                ],
+                "Tatar": [
+                    "тынычландыргыч юрган",
+                    "тынычлык юрганы"
+                ],
+                "Bashkir": [
+                    "тынысландырғыс юрған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yupanch",
+                    "yupanchiq"
+                ],
+                "Kazakh": [
+                    "жұбаныш көрпесі"
+                ],
+                "Kyrgyz": [
+                    "жубатуучу жууркан"
+                ],
+                "Karakalpak": [
+                    "jұbanısh kórpeshesі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güven battaniyesi"
+                ],
+                "Azerbaijani": [
+                    "güvən yorğanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эрмек"
+                ],
+                "Karakalpak": [
+                    "ermek kórpeshe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "uyku battaniyesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağlanma nesnesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "rahatlıq yorğanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ynanç ýorgany"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arkaýynlyk ýorgany"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ovunchoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خاتىرجەملىك ئەدىيىلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەمراھ ئەدىيال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сенім көрпесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сүйүктүү оюнчук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "юаныч юрганы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "йылытҡыс",
+                    "йылы юрған"
+                ]
+            }
+        }
+    ]
+}
+```
+

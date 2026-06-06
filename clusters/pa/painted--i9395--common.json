@@ -1,0 +1,112 @@
+{
+    "id": "i9395",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "painted",
+    "en_definition": "coated with paint",
+    "tr_word": "boyalı",
+    "tr_definition": "üzerine boya sürülmüş olan",
+    "ru_word": "окрашенный",
+    "ru_definition": "покрытый слоем краски",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boyalı",
+                    "boyanmış"
+                ],
+                "Azerbaijani": [
+                    "boyalı",
+                    "boyanmış"
+                ],
+                "Turkmen": [
+                    "boýalan"
+                ],
+                "Uzbek": [
+                    "bo'yalgan"
+                ],
+                "Uyghur": [
+                    "بويالغان",
+                    "بويالما"
+                ],
+                "Kazakh": [
+                    "боялған"
+                ],
+                "Kyrgyz": [
+                    "боёлгон"
+                ],
+                "Karakalpak": [
+                    "boyalǵan"
+                ],
+                "Tatar": [
+                    "буялган",
+                    "буяулы"
+                ],
+                "Bashkir": [
+                    "буяулы",
+                    "буялған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "rənglənmiş",
+                    "rəngli"
+                ],
+                "Turkmen": [
+                    "reňklenen"
+                ],
+                "Uzbek": [
+                    "ranglangan"
+                ],
+                "Uyghur": [
+                    "رەڭلەنگەن"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "syrçalanan"
+                ],
+                "Kazakh": [
+                    "сырланған"
+                ],
+                "Kyrgyz": [
+                    "сырдалган"
+                ],
+                "Karakalpak": [
+                    "sırlanǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бизәлгән"
+                ],
+                "Bashkir": [
+                    "биҙәлгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mülevven"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "musharraf"
+                ]
+            }
+        }
+    ]
+}

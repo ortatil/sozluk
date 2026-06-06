@@ -1,0 +1,99 @@
+{
+    "id": "i3754",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "home-baked",
+    "en_definition": "baked at home",
+    "tr_word": "ev yapımı",
+    "tr_definition": "evde pişirilmiş veya hazırlanmış",
+    "ru_word": "домашней выпечки",
+    "ru_definition": "испеченный дома, а не купленный в магазине",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "öýde bişirilen",
+                    "öý bişirmesi",
+                    "öýde taýýarlanan"
+                ],
+                "Uzbek": [
+                    "uyda yopilgan",
+                    "uyda pishirilgan"
+                ],
+                "Uyghur": [
+                    "ئۆيدە يېپىلغان",
+                    "ئۆي نېنى",
+                    "ئۆيدە پىشۇرۇلغان"
+                ],
+                "Kazakh": [
+                    "үйдікі",
+                    "үйде піскен",
+                    "үйде дайындалған"
+                ],
+                "Kyrgyz": [
+                    "үйдө бышырылган",
+                    "үйдүк"
+                ],
+                "Karakalpak": [
+                    "úydіkі",
+                    "úyde pіsken",
+                    "úyde dayarlanǵan"
+                ],
+                "Tatar": [
+                    "өйдә пешерелгән",
+                    "өйнеке"
+                ],
+                "Bashkir": [
+                    "өйҙә бешкән",
+                    "өйҙә яһалған",
+                    "өйҙә әҙерләнгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қолдан жасалған"
+                ],
+                "Kyrgyz": [
+                    "колдо жасалган"
+                ],
+                "Tatar": [
+                    "кулдан ясалган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ev yapımı",
+                    "evde pişmiş"
+                ],
+                "Azerbaijani": [
+                    "evdə bişmiş",
+                    "ev bişirməsi",
+                    "evdə hazırlanmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ev işi"
+                ],
+                "Azerbaijani": [
+                    "ev üsulu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xonaki"
+                ]
+            }
+        }
+    ]
+}

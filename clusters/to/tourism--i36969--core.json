@@ -1,0 +1,128 @@
+{
+    "id": "i36969",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "tourism",
+    "en_definition": "the business of providing services to tourists",
+    "tr_word": "turizm",
+    "tr_definition": "turistlere hizmet sağlama işi ve bu amaçla yapılan gezilerin tümü",
+    "ru_word": "туризм",
+    "ru_definition": "деятельность по предоставлению услуг туристам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "seyahat"
+                ],
+                "Uzbek": [
+                    "sayohat"
+                ],
+                "Uyghur": [
+                    "ساياھەت",
+                    "سەياھەت"
+                ],
+                "Kazakh": [
+                    "саяхат"
+                ],
+                "Kyrgyz": [
+                    "саякат"
+                ],
+                "Karakalpak": [
+                    "sayaxat",
+                    "sáyyaxat"
+                ],
+                "Tatar": [
+                    "сәяхәт"
+                ],
+                "Bashkir": [
+                    "сәйәхәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "səyahətçilik"
+                ],
+                "Turkmen": [
+                    "syýahatçylyk"
+                ],
+                "Uyghur": [
+                    "ساياھەتچىلىك"
+                ],
+                "Kazakh": [
+                    "саяхатшылық"
+                ],
+                "Kyrgyz": [
+                    "саякатчылык"
+                ],
+                "Tatar": [
+                    "сәяхәтчелек"
+                ],
+                "Bashkir": [
+                    "сәйәхәтселек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "turizm"
+                ],
+                "Azerbaijani": [
+                    "turizm"
+                ],
+                "Uzbek": [
+                    "turizm"
+                ],
+                "Kazakh": [
+                    "туризм"
+                ],
+                "Kyrgyz": [
+                    "туризм"
+                ],
+                "Bashkir": [
+                    "туризм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sayyohlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gəzinti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gezelenç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jolshılıq"
+                ]
+            }
+        }
+    ]
+}

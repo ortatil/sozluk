@@ -1,0 +1,90 @@
+{
+    "id": "i60371",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "toothbrush",
+    "en_definition": "small brush; has long handle; used to clean teeth",
+    "tr_word": "diş fırçası",
+    "tr_definition": "Dişleri temizlemek için kullanılan, uzun saplı küçük fırça.",
+    "ru_word": "зубная щётка",
+    "ru_definition": "Маленькая щётка с длинной ручкой, предназначенная для чистки зубов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diş fırçası"
+                ],
+                "Azerbaijani": [
+                    "diş fırçası"
+                ],
+                "Turkmen": [
+                    "diş çotgasy"
+                ],
+                "Uzbek": [
+                    "tish choʻtkasi"
+                ],
+                "Uyghur": [
+                    "چىش چوتكىسى",
+                    "چىش چوتكا"
+                ],
+                "Kazakh": [
+                    "тіс щеткасы"
+                ],
+                "Kyrgyz": [
+                    "тиш щёткасы",
+                    "тиш тазалагыч"
+                ],
+                "Karakalpak": [
+                    "tis shchyotkası"
+                ],
+                "Tatar": [
+                    "теш щеткасы",
+                    "теш пумаласы"
+                ],
+                "Bashkir": [
+                    "теш щеткаһы",
+                    "теш таҙартҡыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "misvak"
+                ],
+                "Turkmen": [
+                    "miswak"
+                ],
+                "Uzbek": [
+                    "misvok"
+                ],
+                "Tatar": [
+                    "мисвак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "diş süpürgəsi"
+                ],
+                "Kazakh": [
+                    "тіс тазалағыш"
+                ],
+                "Karakalpak": [
+                    "tis tazalaǵısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тиш жуугуч"
+                ]
+            }
+        }
+    ]
+}

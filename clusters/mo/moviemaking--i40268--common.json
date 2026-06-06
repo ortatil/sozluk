@@ -1,0 +1,88 @@
+{
+    "id": "i40268",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "moviemaking",
+    "en_definition": "the production of movies",
+    "tr_word": "film yapımı",
+    "tr_definition": "film üretme süreci ve sanatı",
+    "ru_word": "кинопроизводство",
+    "ru_definition": "процесс создания кинофильмов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sinemacılık"
+                ],
+                "Azerbaijani": [
+                    "kinematoqrafiya"
+                ],
+                "Turkmen": [
+                    "kinoçylyk"
+                ],
+                "Uzbek": [
+                    "kinematografiya",
+                    "kinochilik",
+                    "kino san'ati"
+                ],
+                "Uyghur": [
+                    "كىنوچىلىق",
+                    "كىنو ئىشلەش"
+                ],
+                "Kazakh": [
+                    "киноөнер",
+                    "киноөндіріс",
+                    "кино түсіру"
+                ],
+                "Kyrgyz": [
+                    "кино өндүрүшү",
+                    "кино тартуу",
+                    "кино жасоо"
+                ],
+                "Karakalpak": [
+                    "kinoóneri",
+                    "kinoshıǵarmashılıǵı",
+                    "kinoóndіrіsі"
+                ],
+                "Tatar": [
+                    "киночыгару",
+                    "киноясау",
+                    "киноиҗат"
+                ],
+                "Bashkir": [
+                    "кинопроизводство",
+                    "кино сәнғәте",
+                    "кино эшләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "filmcilik",
+                    "film yapımcılığı"
+                ],
+                "Azerbaijani": [
+                    "filmçilik"
+                ],
+                "Uyghur": [
+                    "فىلىم ئىشلەش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kinoçuluq",
+                    "kino istehsalı"
+                ],
+                "Turkmen": [
+                    "kinofilmleriň önümçiligi",
+                    "kino sungaty"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+# Reuben
+| Field | Detail |
+|---|---|
+| **ID** | i77442 |
+| **English** | reuben |
+| **Type** | noun |
+| **Definition** | a hot sandwich with corned beef and Swiss cheese and sauerkraut on rye bread |
+| **Source** | common |
+| **Ortatil** | sendwiç |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sendwiç** | **buterbrot** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.60 | 0.80 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **2.77** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| сэндвич | sendviç |
+| бутерброд | buterbrod |
+| тіскебасар | tiskebasar |
+| **Tatar** | |
+| сэндвич | sendviç |
+| бутерброд | buterbrod |
+| **Bashkir** | |
+| бутерброд | buterbrod |
+
+```json
+{
+    "id": "i77442",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "reuben",
+    "en_definition": "a hot sandwich with corned beef and Swiss cheese and sauerkraut on rye bread",
+    "tr_word": "reuben sandviçi",
+    "tr_definition": "çavdar ekmeği üzerinde konserve sığır eti, İsviçre peyniri ve lahana turşusu ile yapılan sıcak bir sandviç",
+    "ru_word": "рубен",
+    "ru_definition": "горячий сэндвич с солониной, швейцарским сыром и квашеной капустой на ржаном хлебе",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sendviç"
+                ],
+                "Turkmen": [
+                    "sandwiç"
+                ],
+                "Uzbek": [
+                    "sendvich"
+                ],
+                "Kazakh": [
+                    "сэндвич"
+                ],
+                "Karakalpak": [
+                    "sendwich"
+                ],
+                "Tatar": [
+                    "сэндвич"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "etli sandviç"
+                ],
+                "Azerbaijani": [
+                    "ətli çörək"
+                ],
+                "Kyrgyz": [
+                    "эттүү нан"
+                ],
+                "Bashkir": [
+                    "итле икмәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бутерброд"
+                ],
+                "Karakalpak": [
+                    "buterbrod"
+                ],
+                "Tatar": [
+                    "бутерброд"
+                ],
+                "Bashkir": [
+                    "бутерброд"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "peynirli sandviç"
+                ],
+                "Uzbek": [
+                    "qovurilgan nonli gazak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "isti buterbrod"
+                ],
+                "Kyrgyz": [
+                    "ысык бутерброд"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıcak sandviç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çörek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "atüstülik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رۇبېن ساندىۋىچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۆشلۈك ساندىۋىچ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тіскебасар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каттама нан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡайнар бутерброд"
+                ]
+            }
+        }
+    ]
+}
+```
+

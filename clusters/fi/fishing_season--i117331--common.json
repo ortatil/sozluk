@@ -1,0 +1,82 @@
+{
+    "id": "i117331",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fishing season",
+    "en_definition": "the season during which it is legal to catch fish",
+    "tr_word": "balık avı sezonu",
+    "tr_definition": "balık tutmanın yasal olduğu dönem",
+    "ru_word": "рыболовный сезон",
+    "ru_definition": "период времени, в течение которого разрешена ловля рыбы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balık sezonu",
+                    "balık avı mevsimi"
+                ],
+                "Azerbaijani": [
+                    "balıq mövsümü",
+                    "balıqçılıq mövsümü",
+                    "balıq ovu mövsümü"
+                ],
+                "Turkmen": [
+                    "balyk möwsümi",
+                    "balyk tutmak möwsümi"
+                ],
+                "Uzbek": [
+                    "baliq ovi mavsumi",
+                    "baliqchilik mavsumi",
+                    "baliq ovi davri"
+                ],
+                "Uyghur": [
+                    "بېلىق تۇتۇش پەسلى",
+                    "بېلىقچىلىق پەسلى",
+                    "بېلىق ئوۋلاش مەزگىلى"
+                ],
+                "Kazakh": [
+                    "балық аулау маусымы",
+                    "балықшылық кезеңі",
+                    "балық маусымы"
+                ],
+                "Kyrgyz": [
+                    "балык уулоо мезгили",
+                    "балык уулоо учуру",
+                    "балыкчылык мезгили"
+                ],
+                "Karakalpak": [
+                    "balıq máosimi",
+                    "balıq aolao máosimi",
+                    "balıq aolao dáoiri"
+                ],
+                "Tatar": [
+                    "балык тоту сезоны",
+                    "балыкчылык сезоны",
+                    "балык тоту вакыты"
+                ],
+                "Bashkir": [
+                    "балыҡ тотоу миҙгеле",
+                    "балыҡсылыҡ миҙгеле",
+                    "балыҡ миҙгеле",
+                    "балыҡ тотоу осоро"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "av sezonu",
+                    "av mevsimi"
+                ],
+                "Turkmen": [
+                    "aw möwsümi"
+                ],
+                "Tatar": [
+                    "ау сезоны"
+                ]
+            }
+        }
+    ]
+}

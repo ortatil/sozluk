@@ -1,0 +1,154 @@
+# Rag doll
+| Field | Detail |
+|---|---|
+| **ID** | i57918 |
+| **English** | rag doll |
+| **Type** | noun |
+| **Definition** | a cloth doll that is stuffed and (usually) painted |
+| **Source** | common |
+| **Ortatil** | kurçak |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| куурчак | kuurçak |
+
+```json
+{
+    "id": "i57918",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rag doll",
+    "en_definition": "a cloth doll that is stuffed and (usually) painted",
+    "tr_word": "bez bebek",
+    "tr_definition": "İçi doldurulmuş ve genellikle boyanmış kumaş bebek",
+    "ru_word": "тряпичная кукла",
+    "ru_definition": "Мягкая кукла, сшитая из лоскутков ткани и набитая каким-либо материалом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "چۆرچەك قورچاق"
+                ],
+                "Kyrgyz": [
+                    "чүпүрөк куурчак"
+                ],
+                "Tatar": [
+                    "чүпрәк курчак"
+                ],
+                "Bashkir": [
+                    "чүпрәк курсак",
+                    "чүпрәк уйынсыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mata gurjak"
+                ],
+                "Kazakh": [
+                    "мата қуыршақ"
+                ],
+                "Karakalpak": [
+                    "laqtı quırshaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bez bebek"
+                ],
+                "Azerbaijani": [
+                    "bez gəlincik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paçavra bebek"
+                ],
+                "Azerbaijani": [
+                    "parça gəlincik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əski gəlincik"
+                ],
+                "Turkmen": [
+                    "esgi gurjak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "latta qo'g'irchoq",
+                    "paxtali qo'g'irchoq"
+                ],
+                "Uyghur": [
+                    "لەختە قورچاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шүберек қуыршақ"
+                ],
+                "Karakalpak": [
+                    "shúberek quırshaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pamyk gurjak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رەخت قورچاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "куурчак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бишек курчагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ямаулы курчак"
+                ]
+            }
+        }
+    ]
+}
+```
+

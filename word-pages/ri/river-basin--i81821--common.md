@@ -1,0 +1,162 @@
+# River basin
+| Field | Detail |
+|---|---|
+| **ID** | i81821 |
+| **English** | river basin |
+| **Type** | noun |
+| **Definition** | the entire geographical area drained by a river and its tributaries; an area characterized by all runoff being conveyed to the same outlet |
+| **Source** | common |
+| **Ortatil** | hawza |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئويمانلىق | oymanliq |
+
+```json
+{
+    "id": "i81821",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "river basin",
+    "en_definition": "the entire geographical area drained by a river and its tributaries; an area characterized by all runoff being conveyed to the same outlet",
+    "tr_word": "nehir havzası",
+    "tr_definition": "Bir nehir ve kollarının sularını topladığı ve tahliye ettiği coğrafi alanın tamamı.",
+    "ru_word": "речной бассейн",
+    "ru_definition": "Вся географическая территория, с которой река и её притоки собирают воду.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "suayrıcı hövzə"
+                ],
+                "Turkmen": [
+                    "suw ýygnaýjy meýdan"
+                ],
+                "Uzbek": [
+                    "suv yigʻish maydoni"
+                ],
+                "Uyghur": [
+                    "سۇ يىغىلىش رايونى"
+                ],
+                "Kazakh": [
+                    "су жинау алабы"
+                ],
+                "Kyrgyz": [
+                    "суу алабы",
+                    "суу жайы"
+                ],
+                "Karakalpak": [
+                    "suo jıynalıo maydanı"
+                ],
+                "Tatar": [
+                    "су җыелу мәйданы",
+                    "су җыелмасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "derýa hanasy",
+                    "derýa basseýni"
+                ],
+                "Uzbek": [
+                    "daryo havzasi"
+                ],
+                "Uyghur": [
+                    "دەريا ۋادىسى"
+                ],
+                "Kyrgyz": [
+                    "дарыя алабы"
+                ],
+                "Karakalpak": [
+                    "dárya alabı",
+                    "dárya basseyni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havza",
+                    "su toplama havzası"
+                ],
+                "Uzbek": [
+                    "havza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "елга бассейны"
+                ],
+                "Bashkir": [
+                    "йылға бассейны",
+                    "йылға ятҡаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nehir havzası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ırmak havzası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çay hövzəsi",
+                    "su hövzəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "akym meýdany"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئويمانلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өзен алабы",
+                    "өзен бассейні"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу йыйылмаһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,86 @@
+{
+    "id": "i77943",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "saltwater fish",
+    "en_definition": "flesh of fish from the sea used as food",
+    "tr_word": "deniz balığı",
+    "tr_definition": "Yiyecek olarak kullanılan denizden gelen balık eti",
+    "ru_word": "морская рыба",
+    "ru_definition": "мясо рыбы из моря, используемое в качестве пищи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz balığı"
+                ],
+                "Azerbaijani": [
+                    "dəniz balığı"
+                ],
+                "Turkmen": [
+                    "deňiz balygy"
+                ],
+                "Uzbek": [
+                    "dengiz balig'i"
+                ],
+                "Uyghur": [
+                    "دېڭىز بېلىقى"
+                ],
+                "Kazakh": [
+                    "теңіз балығы"
+                ],
+                "Kyrgyz": [
+                    "деңиз балыгы"
+                ],
+                "Karakalpak": [
+                    "teńiz balıǵı"
+                ],
+                "Tatar": [
+                    "диңгез балыгы",
+                    "диңгез сыйфатлы балык"
+                ],
+                "Bashkir": [
+                    "диңгеҙ балығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tuzlu su balığı"
+                ],
+                "Azerbaijani": [
+                    "şor su balığı"
+                ],
+                "Uyghur": [
+                    "شورلۇق سۇ بېلىقى"
+                ],
+                "Kazakh": [
+                    "тұзды су балығы"
+                ],
+                "Karakalpak": [
+                    "shor suo balıǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "duzly suw balygy"
+                ],
+                "Kyrgyz": [
+                    "туздуу суу балыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sho'r suv balig'i"
+                ]
+            }
+        }
+    ]
+}

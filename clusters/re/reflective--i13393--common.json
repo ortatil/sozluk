@@ -1,0 +1,180 @@
+{
+    "id": "i13393",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "reflective",
+    "en_definition": "deeply or seriously thoughtful",
+    "tr_word": "düşünceli",
+    "tr_definition": "Derin veya ciddi bir şekilde düşüncelere dalmış olan.",
+    "ru_word": "задумчивый",
+    "ru_definition": "Склонный к глубоким раздумьям или серьезным размышлениям.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "oýlanşykly"
+                ],
+                "Uzbek": [
+                    "o'ychan"
+                ],
+                "Uyghur": [
+                    "ئويلىنىشچان"
+                ],
+                "Kazakh": [
+                    "ойлы",
+                    "ойшыл"
+                ],
+                "Kyrgyz": [
+                    "ойчул",
+                    "ойлуу"
+                ],
+                "Karakalpak": [
+                    "oylı"
+                ],
+                "Tatar": [
+                    "уйчан"
+                ],
+                "Bashkir": [
+                    "уйсан",
+                    "уйға батҡан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "derin"
+                ],
+                "Azerbaijani": [
+                    "dərin"
+                ],
+                "Kazakh": [
+                    "терең"
+                ],
+                "Kyrgyz": [
+                    "терең"
+                ],
+                "Karakalpak": [
+                    "tereń"
+                ],
+                "Tatar": [
+                    "тирән"
+                ],
+                "Bashkir": [
+                    "тәрән уйлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pikirli",
+                    "pähimli"
+                ],
+                "Uzbek": [
+                    "fikrli"
+                ],
+                "Uyghur": [
+                    "پىكىرچان"
+                ],
+                "Kyrgyz": [
+                    "пикирлүү"
+                ],
+                "Karakalpak": [
+                    "pikirli"
+                ],
+                "Tatar": [
+                    "фикерле"
+                ],
+                "Bashkir": [
+                    "фекерле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tefekkürlü"
+                ],
+                "Azerbaijani": [
+                    "təfəkkürlü"
+                ],
+                "Uzbek": [
+                    "tafakkurli"
+                ],
+                "Uyghur": [
+                    "تەپەككۇرچان"
+                ],
+                "Tatar": [
+                    "тәфәккүрле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mülahazalı"
+                ],
+                "Azerbaijani": [
+                    "mülahizəli"
+                ],
+                "Uzbek": [
+                    "mulohazali"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "düşünceli"
+                ],
+                "Azerbaijani": [
+                    "düşüncəli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çuňňur"
+                ],
+                "Uzbek": [
+                    "chuqur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خىيالچان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "байыпты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "парасатты"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "muńlı"
+                ]
+            }
+        }
+    ]
+}

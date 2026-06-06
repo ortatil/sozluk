@@ -1,0 +1,141 @@
+{
+    "id": "i91609",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "newsreader",
+    "en_definition": "someone who reads out broadcast news bulletin",
+    "tr_word": "haber sunucusu",
+    "tr_definition": "televizyon veya radyoda haber bültenlerini okuyan kimse",
+    "ru_word": "диктор",
+    "ru_definition": "лицо, читающее текст перед микрофоном или камерой в эфире",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haber sunucusu"
+                ],
+                "Azerbaijani": [
+                    "xəbər aparıcısı"
+                ],
+                "Turkmen": [
+                    "habarçy"
+                ],
+                "Kazakh": [
+                    "хабар жүргізуші"
+                ],
+                "Kyrgyz": [
+                    "кабарчы"
+                ],
+                "Karakalpak": [
+                    "xabarshı"
+                ],
+                "Tatar": [
+                    "хәбәрче"
+                ],
+                "Bashkir": [
+                    "хәбәрсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "diktor"
+                ],
+                "Turkmen": [
+                    "diktor"
+                ],
+                "Uzbek": [
+                    "diktor"
+                ],
+                "Uyghur": [
+                    "دىكتور"
+                ],
+                "Kazakh": [
+                    "диктор"
+                ],
+                "Karakalpak": [
+                    "diktor"
+                ],
+                "Tatar": [
+                    "диктор"
+                ],
+                "Bashkir": [
+                    "диктор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "beýançy"
+                ],
+                "Kyrgyz": [
+                    "баяндамачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаңалықтар жүргізушісі"
+                ],
+                "Kyrgyz": [
+                    "жаңылык айтуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "spiker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anonsör"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "aparıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suhandon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sharhlovchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەۋەرچى",
+                    "خەۋەر ئوقۇغۇچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "алып баручы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "id": "i9518",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "fatherless",
+    "en_definition": "having no living father",
+    "tr_word": "babasız",
+    "tr_definition": "hayatta olan bir babası bulunmayan",
+    "ru_word": "безотцовский",
+    "ru_definition": "не имеющий живого отца",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yetim"
+                ],
+                "Azerbaijani": [
+                    "yetim"
+                ],
+                "Turkmen": [
+                    "ýetim"
+                ],
+                "Uzbek": [
+                    "yetim"
+                ],
+                "Uyghur": [
+                    "يېتىم"
+                ],
+                "Kazakh": [
+                    "жетім"
+                ],
+                "Kyrgyz": [
+                    "жетим"
+                ],
+                "Karakalpak": [
+                    "jetim"
+                ],
+                "Tatar": [
+                    "ятим"
+                ],
+                "Bashkir": [
+                    "йәтим"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "babasız"
+                ],
+                "Azerbaijani": [
+                    "atasız"
+                ],
+                "Turkmen": [
+                    "atasyz"
+                ],
+                "Uzbek": [
+                    "otasiz"
+                ],
+                "Uyghur": [
+                    "ئاتىسىز"
+                ],
+                "Kyrgyz": [
+                    "атасыз"
+                ],
+                "Tatar": [
+                    "атасыз"
+                ],
+                "Bashkir": [
+                    "атаһыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әкесіз"
+                ],
+                "Karakalpak": [
+                    "ákesiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұлдыр"
+                ]
+            }
+        }
+    ]
+}

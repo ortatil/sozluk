@@ -1,0 +1,109 @@
+{
+    "id": "i86212",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snowfield",
+    "en_definition": "a permanent wide expanse of snow",
+    "tr_word": "kar alanı",
+    "tr_definition": "kalıcı ve geniş bir kar örtüsüyle kaplı bölge",
+    "ru_word": "снежное поле",
+    "ru_definition": "обширное пространство, покрытое слоем вечного снега",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kar alanı",
+                    "kar sahası"
+                ],
+                "Azerbaijani": [
+                    "qar sahəsi",
+                    "qar örtüyü",
+                    "qar meydanı"
+                ],
+                "Turkmen": [
+                    "garlyk",
+                    "gar meýdany"
+                ],
+                "Uzbek": [
+                    "qorloq",
+                    "qorzamin",
+                    "qor maydoni",
+                    "qorli kenglik"
+                ],
+                "Uyghur": [
+                    "قارلىق",
+                    "قارلىق دالا",
+                    "قارلىق مەيدان"
+                ],
+                "Kazakh": [
+                    "қарлы алқап",
+                    "қар айдыны",
+                    "қарлы жазық"
+                ],
+                "Kyrgyz": [
+                    "кар талаасы",
+                    "кар баскан талаа"
+                ],
+                "Karakalpak": [
+                    "qarlı alań",
+                    "qarlı dala",
+                    "qar basqan jer"
+                ],
+                "Tatar": [
+                    "кар кыры",
+                    "карлык",
+                    "кар яланы"
+                ],
+                "Bashkir": [
+                    "ҡар яланы",
+                    "ҡарлыҡ",
+                    "ҡар баҫыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ak meýdan"
+                ],
+                "Kazakh": [
+                    "ақ айдын"
+                ],
+                "Kyrgyz": [
+                    "ак кар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karla kaplı ova",
+                    "kar düzlüğü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "daimi qar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاق قارلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мөңгү"
+                ]
+            }
+        }
+    ]
+}

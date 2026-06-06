@@ -1,0 +1,97 @@
+{
+    "id": "i1015",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "asleep",
+    "en_definition": "in a state of sleep",
+    "tr_word": "uykuda",
+    "tr_definition": "uyku durumunda olan, uyumakta olan",
+    "ru_word": "спящий",
+    "ru_definition": "находящийся в состоянии сна",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uyuyan",
+                    "uykuda",
+                    "uyumuş"
+                ],
+                "Turkmen": [
+                    "ukuda",
+                    "ukuly"
+                ],
+                "Uzbek": [
+                    "uyquda"
+                ],
+                "Uyghur": [
+                    "ئۇيقۇدا"
+                ],
+                "Kazakh": [
+                    "ұйқыда",
+                    "ұйықтап жатқан",
+                    "ұйқылы"
+                ],
+                "Kyrgyz": [
+                    "уйкудагы",
+                    "уйкуга баткан"
+                ],
+                "Karakalpak": [
+                    "uyqıda",
+                    "uyıqlaǵan",
+                    "uyıqlap jatırǵan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uklap ýatan"
+                ],
+                "Uzbek": [
+                    "uxlagan"
+                ],
+                "Uyghur": [
+                    "ئۇخلىغان"
+                ],
+                "Kyrgyz": [
+                    "уктаган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yuxulu",
+                    "yuxuda"
+                ],
+                "Tatar": [
+                    "йоклаган",
+                    "йокыда",
+                    "йокыдагы"
+                ],
+                "Bashkir": [
+                    "йоҡлаған",
+                    "йоҡолағы",
+                    "йоҡоға талған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yatmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'aflatda"
+                ]
+            }
+        }
+    ]
+}

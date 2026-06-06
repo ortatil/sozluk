@@ -1,0 +1,91 @@
+{
+    "id": "i41127",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "free trade",
+    "en_definition": "international trade free of government interference",
+    "tr_word": "serbest ticaret",
+    "tr_definition": "hükümet müdahalesi veya kısıtlaması olmaksızın yapılan uluslararası ticaret",
+    "ru_word": "свободная торговля",
+    "ru_definition": "международная торговля без государственного вмешательства и ограничений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "azad ticarət"
+                ],
+                "Turkmen": [
+                    "azat söwda"
+                ],
+                "Uzbek": [
+                    "ozod savdo"
+                ],
+                "Kazakh": [
+                    "азат сауда"
+                ],
+                "Karakalpak": [
+                    "ashıq saoda"
+                ],
+                "Tatar": [
+                    "азат сәүдә"
+                ],
+                "Bashkir": [
+                    "асыҡ сауҙа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "erkin söwda"
+                ],
+                "Uzbek": [
+                    "erkin savdo"
+                ],
+                "Uyghur": [
+                    "ئەركىن سودا",
+                    "ئەركىن تىجارەت"
+                ],
+                "Kazakh": [
+                    "еркін сауда"
+                ],
+                "Kyrgyz": [
+                    "эркин соода",
+                    "эркин соода-сатык"
+                ],
+                "Karakalpak": [
+                    "erkin saoda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "serbest ticaret"
+                ],
+                "Azerbaijani": [
+                    "sərbəst ticarət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирекле сәүдә"
+                ],
+                "Bashkir": [
+                    "ирекле сауҙа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hür ticaret"
+                ]
+            }
+        }
+    ]
+}

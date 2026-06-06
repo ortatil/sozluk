@@ -1,0 +1,127 @@
+# Toolbox
+| Field | Detail |
+|---|---|
+| **ID** | i60367 |
+| **English** | toolbox |
+| **Type** | noun |
+| **Definition** | a box or chest or cabinet for holding hand tools |
+| **Source** | common |
+| **Ortatil** | äsbäbdän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| савыт | savıt |
+| сандык | sandık |
+
+```json
+{
+    "id": "i60367",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "toolbox",
+    "en_definition": "a box or chest or cabinet for holding hand tools",
+    "tr_word": "alet çantası",
+    "tr_definition": "el aletlerini saklamak ve taşımak için kullanılan kutu veya çanta",
+    "ru_word": "ящик для инструментов",
+    "ru_definition": "коробка или шкаф для хранения ручных инструментов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gurallar gutusy",
+                    "gural sandygy",
+                    "gural gapy"
+                ],
+                "Kazakh": [
+                    "құрал-сайман жәшігі",
+                    "құрал сандығы"
+                ],
+                "Kyrgyz": [
+                    "курал кутусу"
+                ],
+                "Tatar": [
+                    "корал савыты",
+                    "корал сандыгы"
+                ],
+                "Bashkir": [
+                    "ҡорал һандығы",
+                    "ҡорал ҡапсығы",
+                    "ҡорал йәшниге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "asbobdon",
+                    "asboblar qutisi",
+                    "asboblar sandig'i"
+                ],
+                "Uyghur": [
+                    "ئەسۋاب ساندۇقى"
+                ],
+                "Kazakh": [
+                    "аспап сауыты"
+                ],
+                "Kyrgyz": [
+                    "аспап кутусу",
+                    "аспап сандыгы"
+                ],
+                "Karakalpak": [
+                    "asbap-úskene sandıǵı",
+                    "asbap sandıǵı",
+                    "asbap kutısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alet çantası",
+                    "alet kutusu"
+                ],
+                "Azerbaijani": [
+                    "alət qutusu",
+                    "alət sandığı",
+                    "alət çantası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سايمان ساندۇقى",
+                    "سايمان قۇتىسى"
+                ],
+                "Tatar": [
+                    "савыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "takım çantası",
+                    "takım kutusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сандык"
+                ]
+            }
+        }
+    ]
+}
+```
+

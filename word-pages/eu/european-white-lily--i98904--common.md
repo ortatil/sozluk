@@ -1,0 +1,134 @@
+# European white lily
+| Field | Detail |
+|---|---|
+| **ID** | i98904 |
+| **English** | european white lily |
+| **Type** | noun |
+| **Definition** | a water lily with white flowers |
+| **Source** | common |
+| **Ortatil** | suzanbağı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i98904",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "european white lily",
+    "en_definition": "a water lily with white flowers",
+    "tr_word": "beyaz nilüfer",
+    "tr_definition": "beyaz çiçekli bir su nilüferi",
+    "ru_word": "кувшинка белая",
+    "ru_definition": "водяная лилия с белыми цветками",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ak nilüfer"
+                ],
+                "Azerbaijani": [
+                    "ağ nilufər"
+                ],
+                "Turkmen": [
+                    "ak niluwer"
+                ],
+                "Uzbek": [
+                    "oq nilufar",
+                    "oq guli-nilufar"
+                ],
+                "Uyghur": [
+                    "ئاق نېلۇپەر",
+                    "سۇ نېلۇپىرى"
+                ],
+                "Kyrgyz": [
+                    "ак кумара",
+                    "ак лилия"
+                ],
+                "Karakalpak": [
+                    "aq nilupar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su zambağı"
+                ],
+                "Azerbaijani": [
+                    "suzanbağı"
+                ],
+                "Uzbek": [
+                    "suv nilufari"
+                ],
+                "Kazakh": [
+                    "су лаласы"
+                ],
+                "Kyrgyz": [
+                    "суу лилиясы"
+                ],
+                "Karakalpak": [
+                    "su lalagúli"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ağ suzanbağı"
+                ],
+                "Turkmen": [
+                    "ak suw lilesi"
+                ],
+                "Kazakh": [
+                    "ақ тұңғиық",
+                    "ақ сугүл"
+                ],
+                "Karakalpak": [
+                    "aq su gúli"
+                ],
+                "Tatar": [
+                    "ак су ландышы",
+                    "ак су лилиясе",
+                    "ак кувшинка"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "beyaz nilüfer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "niluwer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аҡ томбойоҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу лилиәһе",
+                    "һыу сәсәге"
+                ]
+            }
+        }
+    ]
+}
+```
+

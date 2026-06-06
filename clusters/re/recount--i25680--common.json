@@ -1,0 +1,100 @@
+{
+    "id": "i25680",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "recount",
+    "en_definition": "count again",
+    "tr_word": "yeniden saymak",
+    "tr_definition": "bir şeyi ikinci kez veya tekrar saymak",
+    "ru_word": "пересчитывать",
+    "ru_definition": "считать что-либо еще раз, заново",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan sanamak"
+                ],
+                "Uzbek": [
+                    "qayta sanamoq",
+                    "qaytadan hisoblamoq"
+                ],
+                "Uyghur": [
+                    "قايتا سانىماق"
+                ],
+                "Kazakh": [
+                    "қайта санау",
+                    "қайталап санау"
+                ],
+                "Kyrgyz": [
+                    "кайталап саноо",
+                    "кайрадан эсептөө"
+                ],
+                "Karakalpak": [
+                    "qayta sanau",
+                    "qaytalap sanau"
+                ],
+                "Bashkir": [
+                    "ҡайта һанау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden saymak"
+                ],
+                "Azerbaijani": [
+                    "yenidən saymaq"
+                ],
+                "Turkmen": [
+                    "täzeden sanamak"
+                ],
+                "Tatar": [
+                    "яңадан санау"
+                ],
+                "Bashkir": [
+                    "яңынан һанау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekrar saymak"
+                ],
+                "Azerbaijani": [
+                    "təkrar saymaq"
+                ],
+                "Uzbek": [
+                    "takror sanamoq"
+                ],
+                "Uyghur": [
+                    "تەكرار سانىماق"
+                ],
+                "Kyrgyz": [
+                    "кайра саноо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат санау"
+                ],
+                "Bashkir": [
+                    "ҡабаттан һанау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "санап чыгу"
+                ]
+            }
+        }
+    ]
+}

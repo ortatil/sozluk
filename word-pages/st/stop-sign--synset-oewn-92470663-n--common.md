@@ -1,0 +1,107 @@
+# Stop sign
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-92470663-n |
+| **English** | stop sign |
+| **Type** | noun |
+| **Definition** | a sign telling drivers to stop and wait until they can continue safely. |
+| **Source** | common |
+| **Ortatil** | stop-belgisi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "synset-oewn-92470663-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "stop sign",
+    "en_definition": "a sign telling drivers to stop and wait until they can continue safely.",
+    "tr_word": "dur işareti",
+    "tr_definition": "sürücülerin durmasını ve güvenli bir şekilde devam edene kadar beklemesini bildiren levha.",
+    "ru_word": "знак «стоп»",
+    "ru_definition": "дорожный знак, предписывающий водителям остановиться и подождать, пока они не смогут безопасно продолжить движение.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'xtash belgisi",
+                    "to'xta ishorasi"
+                ],
+                "Uyghur": [
+                    "توختىغىن بەلگىسى",
+                    "توختاش بەلگىسى"
+                ],
+                "Kazakh": [
+                    "тоқта белгісі",
+                    "тоқтау белгісі"
+                ],
+                "Kyrgyz": [
+                    "токто белгиси",
+                    "токтоо белгиси"
+                ],
+                "Karakalpak": [
+                    "toqta belgisi",
+                    "toqtau belgisi"
+                ],
+                "Tatar": [
+                    "туктау билгесе",
+                    "туктау ишарәсе"
+                ],
+                "Bashkir": [
+                    "туҡтау билдәһе",
+                    "туҡталыш билдәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dur levhası",
+                    "dur tabelası"
+                ],
+                "Azerbaijani": [
+                    "dur nişanı"
+                ],
+                "Turkmen": [
+                    "durmak belgisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dur işareti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dayan nişanı",
+                    "dayanma işarəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "saklanmak belgisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "stop-belgisi"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,86 @@
+{
+    "id": "i81004",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "small business administration",
+    "en_definition": "an independent agency of the United States government that protects the interests of small businesses and ensures that they receive a fair share of government contracts",
+    "tr_word": "Küçük İşletme İdaresi",
+    "tr_definition": "Amerika Birleşik Devletleri hükümetinin küçük işletmelerin çıkarlarını koruyan ve devlet ihalelerinden adil pay almalarını sağlayan bağımsız bir kurumu.",
+    "ru_word": "Управление по делам малого бизнеса",
+    "ru_definition": "Независимое агентство правительства США, которое защищает интересы малого бизнеса и обеспечивает получение ими справедливой доли государственных контрактов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük işletmeler idaresi",
+                    "küçük işletmeler yönetimi",
+                    "küçük esnaf idaresi",
+                    "küçük teşebbüsler idaresi"
+                ],
+                "Azerbaijani": [
+                    "kiçik sahibkarlıq idarəsi",
+                    "kiçik biznes idarəsi",
+                    "kiçik sahibkarlıq agentliyi",
+                    "kiçik müəssisələr idarəsi"
+                ],
+                "Turkmen": [
+                    "kiçi telekeçilik edarasy",
+                    "kiçi işewürlik dolandyryşy",
+                    "kiçi telekeçiligi goldaw gullugy"
+                ],
+                "Uzbek": [
+                    "kichik biznes boshqarmasi",
+                    "kichik tadbirkorlik ma'muriyati",
+                    "kichik biznes idorasi"
+                ],
+                "Uyghur": [
+                    "كىچىك كارخانىلارنى باشقۇرۇش مەھكىمىسى",
+                    "كىچىك تىپتىكى كارخانىلارنى باشقۇرۇش ئىدارىسى",
+                    "كىچىك تىجارەت باشقۇرۇش ئورگىنى"
+                ],
+                "Kazakh": [
+                    "кіші кәсіпкерлікті басқару",
+                    "кіші кәсіпкерлікті қолдау басқармасы"
+                ],
+                "Kyrgyz": [
+                    "кичи ишкердикти башкаруу",
+                    "кичи бизнес башкармалыгы"
+                ],
+                "Karakalpak": [
+                    "kishi biznes basqarması",
+                    "kishi isbilermenlikti basqarıu uyımı",
+                    "kishi kárxanalardı qollap-quuatlau mekemesi"
+                ],
+                "Tatar": [
+                    "кече эшмәкәрлек идарәсе",
+                    "кече бизнес идарәсе",
+                    "кече эшмәкәрлекне яклау оешмасы"
+                ],
+                "Bashkir": [
+                    "кесе эшҡыуарлыҡ идаралығы",
+                    "кесе бизнес идаралығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шағын кәсіпкерлікті басқару",
+                    "шағын бизнес әкімшілігі"
+                ],
+                "Kyrgyz": [
+                    "чакан ишкердикти башкаруу",
+                    "чакан ишкердикти колдоо мекемеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бәләкәй эшҡыуарлыҡ идаралығы"
+                ]
+            }
+        }
+    ]
+}

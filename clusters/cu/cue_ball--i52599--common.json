@@ -1,0 +1,128 @@
+{
+    "id": "i52599",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cue ball",
+    "en_definition": "the ball that the billiard player or pool player strikes with his cue",
+    "tr_word": "beyaz top",
+    "tr_definition": "bilardo veya havuz oyuncusunun ıstaka ile vurduğu top",
+    "ru_word": "биток",
+    "ru_definition": "шар, по которому игрок наносит удар кием в бильярде",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ağ kürə",
+                    "ağ şar"
+                ],
+                "Turkmen": [
+                    "ak şar"
+                ],
+                "Uzbek": [
+                    "oq shar"
+                ],
+                "Kazakh": [
+                    "ақ шар"
+                ],
+                "Kyrgyz": [
+                    "ак шар"
+                ],
+                "Karakalpak": [
+                    "aq shar"
+                ],
+                "Tatar": [
+                    "ак шар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beyaz top"
+                ],
+                "Azerbaijani": [
+                    "baş kürə"
+                ],
+                "Turkmen": [
+                    "baş şar"
+                ],
+                "Uyghur": [
+                    "باش توپ"
+                ],
+                "Kyrgyz": [
+                    "башкы шар"
+                ],
+                "Karakalpak": [
+                    "bas shar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "соққы шары"
+                ],
+                "Tatar": [
+                    "сугу шары"
+                ],
+                "Bashkir": [
+                    "һуғыу шары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vuruş topu"
+                ],
+                "Turkmen": [
+                    "urgy şary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "baş topu"
+                ],
+                "Uyghur": [
+                    "ئاق توپ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп шар"
+                ],
+                "Bashkir": [
+                    "төп шар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zarba shari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ona shar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاساسىي توپ"
+                ]
+            }
+        }
+    ]
+}

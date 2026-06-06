@@ -1,0 +1,114 @@
+{
+    "id": "i73878",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "monotone",
+    "en_definition": "an unchanging intonation",
+    "tr_word": "monotonluk",
+    "tr_definition": "değişmeyen, tekdüze ses tonu",
+    "ru_word": "монотонность",
+    "ru_definition": "неизменная интонация или однообразие звука",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "birmeňzeş ses",
+                    "birmeňzeş ähen",
+                    "birmeňzeşlik"
+                ],
+                "Uzbek": [
+                    "bir xillik",
+                    "bir ohanglik"
+                ],
+                "Uyghur": [
+                    "بىر خىل ئاۋاز"
+                ],
+                "Kazakh": [
+                    "біркелкілік",
+                    "бірсарындылық",
+                    "бірқалыптылық",
+                    "бірсарын"
+                ],
+                "Kyrgyz": [
+                    "бир кылка үн",
+                    "бир калыптагы үн"
+                ],
+                "Karakalpak": [
+                    "bir qalıplılıq",
+                    "bir seslilik",
+                    "bir tus"
+                ],
+                "Tatar": [
+                    "бертөрлелек",
+                    "беркөйлелек",
+                    "бертавышлылык"
+                ],
+                "Bashkir": [
+                    "бер төрлө тауыш",
+                    "бер көй",
+                    "бер тауышлылыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekdüzelik"
+                ],
+                "Azerbaijani": [
+                    "təkdənglik"
+                ],
+                "Uyghur": [
+                    "تەكشى ئاۋاز"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeknesaklık"
+                ],
+                "Azerbaijani": [
+                    "yeknəsəqlik"
+                ],
+                "Uzbek": [
+                    "yakranglik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆزگەرمەس ئاۋاز"
+                ],
+                "Kyrgyz": [
+                    "өзгөрүүсүз үн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "monotonluk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "eyniyönlülük"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "üýtgewsiz ses"
+                ]
+            }
+        }
+    ]
+}

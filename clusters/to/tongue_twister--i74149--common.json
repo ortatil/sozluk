@@ -1,0 +1,96 @@
+{
+    "id": "i74149",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tongue twister",
+    "en_definition": "an expression that is difficult to articulate clearly",
+    "tr_word": "tekerleme",
+    "tr_definition": "açıkça telaffuz edilmesi zor olan ifade",
+    "ru_word": "скороговорка",
+    "ru_definition": "фраза, которую трудно произнести четко",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yanıltmaç"
+                ],
+                "Azerbaijani": [
+                    "yanıltmac"
+                ],
+                "Turkmen": [
+                    "ýaltak",
+                    "ýaltaklama"
+                ],
+                "Kazakh": [
+                    "жаңылтпаш",
+                    "жаңылтпаш сөз"
+                ],
+                "Kyrgyz": [
+                    "жаңылмач"
+                ],
+                "Karakalpak": [
+                    "jańıltpash"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tez aytish"
+                ],
+                "Uyghur": [
+                    "تېز ئېيتىش",
+                    "تېز ئېيتىشماق"
+                ],
+                "Kyrgyz": [
+                    "тез айтма"
+                ],
+                "Karakalpak": [
+                    "tez aytıs"
+                ],
+                "Tatar": [
+                    "тизәйткеч"
+                ],
+                "Bashkir": [
+                    "тиҙйткес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekerleme"
+                ],
+                "Azerbaijani": [
+                    "təkerləmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тел бистәсе"
+                ],
+                "Bashkir": [
+                    "телмәр уйыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "diliňi dolandyrýan sözler"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yanglish"
+                ]
+            }
+        }
+    ]
+}

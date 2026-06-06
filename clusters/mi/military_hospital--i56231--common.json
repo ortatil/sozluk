@@ -1,0 +1,105 @@
+{
+    "id": "i56231",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "military hospital",
+    "en_definition": "hospital for soldiers and other military personnel",
+    "tr_word": "askeri hastane",
+    "tr_definition": "Askerler ve diğer askeri personel için hizmet veren hastane",
+    "ru_word": "военный госпиталь",
+    "ru_definition": "больница для солдат и другого военного персонала",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbi hospital",
+                    "hərbi xəstəxana"
+                ],
+                "Turkmen": [
+                    "harby keselhana",
+                    "harby gospital"
+                ],
+                "Uzbek": [
+                    "harbiy shifoxona",
+                    "harbiy kasalxona"
+                ],
+                "Uyghur": [
+                    "ھەربىي دوختۇرخانا"
+                ],
+                "Tatar": [
+                    "хәрби хастаханә",
+                    "хәрби шифаханә"
+                ],
+                "Bashkir": [
+                    "хәрби шифахана",
+                    "хәрби госпиталь"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "askerî hastane"
+                ],
+                "Kazakh": [
+                    "әскери емхана"
+                ],
+                "Kyrgyz": [
+                    "аскердик оорукана",
+                    "аскердик бейтапкана",
+                    "аскердик лазарет"
+                ],
+                "Karakalpak": [
+                    "áskeri emleuxana",
+                    "áskeri gospital"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "lazaret"
+                ],
+                "Kazakh": [
+                    "лазарет"
+                ],
+                "Karakalpak": [
+                    "lazaret"
+                ],
+                "Bashkir": [
+                    "лазарет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşun keselhanasy"
+                ],
+                "Uyghur": [
+                    "قوشۇن شىپاخانىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gospital"
+                ],
+                "Kazakh": [
+                    "госпиталь"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mevki hastanesi"
+                ]
+            }
+        }
+    ]
+}

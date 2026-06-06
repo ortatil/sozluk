@@ -1,0 +1,266 @@
+# Social anxiety
+| Field | Detail |
+|---|---|
+| **ID** | synset-oewn-91001591-n |
+| **English** | social anxiety |
+| **Type** | noun |
+| **Definition** | A discomfort or a fear when a person is in a social interaction that involves a concern of being judged or evaluated by others. |
+| **Source** | common |
+| **Ortatil** | uyatçañlıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **uyatçañlıq** | **tartınçaqlıq** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ❌ | ❌ |
+| Turkmen | ❌ | ❌ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 0 | 0 |
+| *Qarluq Subtotal* | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 0.80 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **1.50** | **1.30** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| ұяңдық | uyañdıq |
+| кісікиіктік | kisikiiktik |
+| жасқаншақтық | jasqanşaqtıq |
+| жатырқаушылық | jatırqauşılıq |
+| қобалжу | qobalju |
+| **Kyrgyz** | |
+| уяңдык | uyañdık |
+| тартынчаактык | tartınçaaktık |
+| **Tatar** | |
+| оялучанлык | oyaluçanlık |
+| тартыну | tartınu |
+| кыенсыну | kıyensınu |
+| **Bashkir** | |
+| ояныусанлыҡ | oyanıusanlıq |
+| тартыныусанлыҡ | tartınıusanlıq |
+
+```json
+{
+    "id": "synset-oewn-91001591-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "social anxiety",
+    "en_definition": "A discomfort or a fear when a person is in a social interaction that involves a concern of being judged or evaluated by others.",
+    "tr_word": "sosyal kaygı",
+    "tr_definition": "Kişinin başkaları tarafından yargılanma veya değerlendirilme endişesi taşıdığı sosyal etkileşimlerde hissettiği rahatsızlık veya korku.",
+    "ru_word": "социальная тревожность",
+    "ru_definition": "Дискомфорт или страх, возникающий у человека во время социального взаимодействия, связанный с опасением быть осужденным или оцененным другими.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "uyatchanlik"
+                ],
+                "Kazakh": [
+                    "ұяңдық"
+                ],
+                "Kyrgyz": [
+                    "уяңдык"
+                ],
+                "Karakalpak": [
+                    "uyalshaqlıq"
+                ],
+                "Tatar": [
+                    "оялучанлык"
+                ],
+                "Bashkir": [
+                    "ояныусанлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tortinchoqlik"
+                ],
+                "Kyrgyz": [
+                    "тартынчаактык"
+                ],
+                "Karakalpak": [
+                    "tartınshaqlıq"
+                ],
+                "Tatar": [
+                    "тартыну"
+                ],
+                "Bashkir": [
+                    "тартыныусанлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ictimai təşviş"
+                ],
+                "Uzbek": [
+                    "ijtimoiy xavotir",
+                    "istihola"
+                ],
+                "Uyghur": [
+                    "ئىجتىمائىي قورقۇنچ",
+                    "ئىجتىمائىي تەشۋىش",
+                    "ئىجتىمائىي ھەيۋەت",
+                    "ئىجتىمائىي ۋەھىمە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "кісікиіктік"
+                ],
+                "Tatar": [
+                    "кешедән курку"
+                ],
+                "Bashkir": [
+                    "кешенән тартыныу",
+                    "кешенән ҡурҡыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sosyal kaygı",
+                    "sosyal fobi"
+                ],
+                "Azerbaijani": [
+                    "sosial qorxu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cəmiyyət qorxusu"
+                ],
+                "Karakalpak": [
+                    "jámiyetten qorqınısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "utanclıq"
+                ],
+                "Turkmen": [
+                    "utançgaçlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çəkingənlik"
+                ],
+                "Turkmen": [
+                    "çekinjeňlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "adamdan çekinmek"
+                ],
+                "Uzbek": [
+                    "odamoviylik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toplum çekincesi",
+                    "toplum ürkekliği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mahcubiyet korkusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "märeke gorkusy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жасқаншақтық",
+                    "жатырқаушылық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қобалжу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "элден тартынуу",
+                    "элден жалтануу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коомдон коркуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jámáátten tartınıo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыенсыну"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аралашудан курку"
+                ]
+            }
+        }
+    ]
+}
+```
+

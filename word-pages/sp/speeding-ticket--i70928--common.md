@@ -1,0 +1,146 @@
+# Speeding ticket
+| Field | Detail |
+|---|---|
+| **ID** | i70928 |
+| **English** | speeding ticket |
+| **Type** | noun |
+| **Definition** | a ticket issued for driving above the speed limit |
+| **Source** | common |
+| **Ortatil** | cärimä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| айыппұл | ayıppul |
+
+```json
+{
+    "id": "i70928",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "speeding ticket",
+    "en_definition": "a ticket issued for driving above the speed limit",
+    "tr_word": "hız cezası",
+    "tr_definition": "Hız sınırını aştığı için sürücüye verilen para cezası makbuzu.",
+    "ru_word": "штраф за превышение скорости",
+    "ru_definition": "Квитанция о штрафе, выданная за вождение автомобиля со скоростью, превышающей установленный лимит.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "trafik cezası"
+                ],
+                "Turkmen": [
+                    "tizlik jerimesi"
+                ],
+                "Uzbek": [
+                    "tezlik jarimasi"
+                ],
+                "Uyghur": [
+                    "تېزلىك جەرىمانە تالونى"
+                ],
+                "Tatar": [
+                    "тизлек өчен җәримә"
+                ],
+                "Bashkir": [
+                    "тиҙлекте арттырған өсөн штраф",
+                    "тиҙлекте арттырыу штрафы",
+                    "тиҙлекте арттырыу ҡағыҙы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cərimə protokolu"
+                ],
+                "Turkmen": [
+                    "jerime"
+                ],
+                "Uzbek": [
+                    "jarima",
+                    "jarima qog'ozi"
+                ],
+                "Tatar": [
+                    "җәримә кәгазе",
+                    "җәримә билеты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürat cezası"
+                ],
+                "Azerbaijani": [
+                    "sürət cəriməsi"
+                ],
+                "Uyghur": [
+                    "سۈرئەت ئاشۇرۇش جەرىمانە تالونى",
+                    "سۈرئەت چەكلىمىسىدىن ئېشىپ كېتىش جەرىمانىسى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "айыппұл",
+                    "айып қағазы"
+                ],
+                "Kyrgyz": [
+                    "айып пул",
+                    "айып кагазы"
+                ],
+                "Karakalpak": [
+                    "ayıppұl qaǵazı",
+                    "ayıppұl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yol cəriməsi"
+                ],
+                "Turkmen": [
+                    "ýol jerimesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жылдамдық айыппұлы"
+                ],
+                "Karakalpak": [
+                    "jıldamdıq ayıppұlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hız cezası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жол айыбы"
+                ]
+            }
+        }
+    ]
+}
+```
+

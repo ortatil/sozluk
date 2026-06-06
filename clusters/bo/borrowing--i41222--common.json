@@ -1,0 +1,145 @@
+{
+    "id": "i41222",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "borrowing",
+    "en_definition": "obtaining funds from a lender",
+    "tr_word": "borçlanma",
+    "tr_definition": "bir borç verenden fon veya kaynak elde etme eylemi",
+    "ru_word": "заимствование",
+    "ru_definition": "получение денежных средств от кредитора",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "karz",
+                    "karz alyş",
+                    "karz-kowam"
+                ],
+                "Uzbek": [
+                    "qarz olish"
+                ],
+                "Uyghur": [
+                    "قەرز ئېلىش"
+                ],
+                "Kazakh": [
+                    "қарыз алу",
+                    "қарыз"
+                ],
+                "Kyrgyz": [
+                    "карыз алуу"
+                ],
+                "Karakalpak": [
+                    "qarız alıo"
+                ],
+                "Bashkir": [
+                    "ҡарыз алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "borçlanma"
+                ],
+                "Azerbaijani": [
+                    "borc",
+                    "borclanma"
+                ],
+                "Turkmen": [
+                    "borç"
+                ],
+                "Karakalpak": [
+                    "bórij alıo"
+                ],
+                "Tatar": [
+                    "бурыч алу"
+                ],
+                "Bashkir": [
+                    "бурыс алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "istikraz"
+                ],
+                "Azerbaijani": [
+                    "istiqraz"
+                ],
+                "Uzbek": [
+                    "istiroz"
+                ],
+                "Tatar": [
+                    "истикара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ödünç alma"
+                ],
+                "Tatar": [
+                    "үтеч алу"
+                ],
+                "Bashkir": [
+                    "үтес алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئارىيەت ئېلىش"
+                ],
+                "Kazakh": [
+                    "несие алу"
+                ],
+                "Kyrgyz": [
+                    "насыя алуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vomi"
+                ],
+                "Uyghur": [
+                    "ۋام ئېلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "берешек"
+                ],
+                "Kyrgyz": [
+                    "берүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kredit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "nesie alıo"
+                ]
+            }
+        }
+    ]
+}

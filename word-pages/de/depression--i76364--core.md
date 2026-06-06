@@ -1,0 +1,365 @@
+# Depression
+| Field | Detail |
+|---|---|
+| **ID** | i76364 |
+| **English** | depression |
+| **Type** | noun |
+| **Definition** | sad feelings of gloom and inadequacy |
+| **Source** | core |
+| **Ortatil** | çöküntü, ğamğinlik |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **çöküntü** | **ğamğinlik** | **häsrät** | **muñ** | **hapiliq** | **qayğı** |
+|---|---|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Turkmen | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Kazakh | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Kyrgyz | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| Karakalpak | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ |
+| Bashkir | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0.33 | 0.33 | 0 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 1 | 0 | 0 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.20 | 0.40 | 1 | 0.40 | 0.80 |
+| *In All* | ✅ | ✅ |  |  |  |  |
+| *In Oghuz/Qipchaq* |  |  | ✅ |  |  |  |
+| **O'TQ** | **3.07** | **2.53** | **1.23** | **1** | **0.90** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چۈشكۈنلۈك | çüşkünlük |
+| غەمكىنلىك | ğämkinlik |
+| خاپىلىق | xapiliq |
+| مەيۈسلۈك | mäyüslük |
+| **Kazakh** | |
+| мұң | muñ |
+| қамығу | qamığu |
+| күйзеліс | küyzelis |
+| түңілу | tüñilu |
+| торығу | torığu |
+| налыш | nalış |
+| **Kyrgyz** | |
+| муң | muñ |
+| кайгы | kaygı |
+| капа | kapa |
+| санаа | sanaa |
+| күйүт | küyüt |
+| ыза | ıza |
+| **Tatar** | |
+| төшенкелек | töşenkelek |
+| моң | moñ |
+| кайгы | kaygı |
+| хәсрәт | xäsrät |
+| күңелсезлек | küñelsezlek |
+| **Bashkir** | |
+| төшөнкөлөк | töşönkölök |
+| моң | moñ |
+| ҡайғы | qayğı |
+| хәсрәт | xäsrät |
+| зар | zar |
+
+```json
+{
+    "id": "i76364",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "depression",
+    "en_definition": "sad feelings of gloom and inadequacy",
+    "tr_word": "depresyon",
+    "tr_definition": "çöküntü, keder ve yetersizlik hissiyle karakterize edilen ruhsal durum",
+    "ru_word": "депрессия",
+    "ru_definition": "состояние подавленности, характеризующееся чувством грусти и неполноценности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çöküntü"
+                ],
+                "Azerbaijani": [
+                    "çöküntü"
+                ],
+                "Uzbek": [
+                    "tushkunlik"
+                ],
+                "Uyghur": [
+                    "چۈشكۈنلۈك"
+                ],
+                "Tatar": [
+                    "төшенкелек"
+                ],
+                "Bashkir": [
+                    "төшөнкөлөк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мұң"
+                ],
+                "Kyrgyz": [
+                    "муң"
+                ],
+                "Karakalpak": [
+                    "mұń"
+                ],
+                "Tatar": [
+                    "моң"
+                ],
+                "Bashkir": [
+                    "моң"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qəm"
+                ],
+                "Uzbek": [
+                    "g'amginlik"
+                ],
+                "Uyghur": [
+                    "غەمكىنلىك"
+                ],
+                "Kazakh": [
+                    "қамығу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "кайгы"
+                ],
+                "Karakalpak": [
+                    "qayǵı"
+                ],
+                "Tatar": [
+                    "кайгы"
+                ],
+                "Bashkir": [
+                    "ҡайғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hasrat"
+                ],
+                "Tatar": [
+                    "хәсрәт"
+                ],
+                "Bashkir": [
+                    "хәсрәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "خاپىلىق"
+                ],
+                "Kyrgyz": [
+                    "капа"
+                ],
+                "Karakalpak": [
+                    "qapalıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "keder"
+                ],
+                "Azerbaijani": [
+                    "kədər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ma'yuslik"
+                ],
+                "Uyghur": [
+                    "مەيۈسلۈك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күйзеліс"
+                ],
+                "Karakalpak": [
+                    "kúyzelіs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түңілу"
+                ],
+                "Karakalpak": [
+                    "túńіlu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sıxıntı"
+                ],
+                "Uzbek": [
+                    "siqilish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ruh düşkünlüyü"
+                ],
+                "Turkmen": [
+                    "ruhçökgünlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bunalım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karamsarlık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "melankoli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yeis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məluliyyət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gussa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gam-gussa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "perişanlyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dilxiralik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "روھىي ئېزىلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "торығу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "налыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "санаа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "күйүт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ыза"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күңелсезлек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "зар"
+                ]
+            }
+        }
+    ]
+}
+```
+

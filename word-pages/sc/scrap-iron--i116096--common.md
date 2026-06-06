@@ -1,0 +1,164 @@
+# Scrap iron
+| Field | Detail |
+|---|---|
+| **ID** | i116096 |
+| **English** | scrap iron |
+| **Type** | noun |
+| **Definition** | iron to be melted again and reworked |
+| **Source** | common |
+| **Ortatil** | ḍemir-dimır |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍemir-dimır** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.83** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تۆمۈر-تەسەك | tömür-täsäk |
+| **Kazakh** | |
+| темір-терсек | temir-tersek |
+| **Kyrgyz** | |
+| темир-тезек | temir-tezek |
+| эски-темир | eski-temir |
+| **Tatar** | |
+| тимер-томыр | timer-tomır |
+| **Bashkir** | |
+| тимер-томор | timer-tomor |
+| ҡаҙанлыҡ | qazanlıq |
+
+```json
+{
+    "id": "i116096",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "scrap iron",
+    "en_definition": "iron to be melted again and reworked",
+    "tr_word": "hurda demir",
+    "tr_definition": "yeniden eritilip işlenmek üzere ayrılmış demir atığı",
+    "ru_word": "железный лом",
+    "ru_definition": "железо, предназначенное для повторной переплавки и переработки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "demir hurdası",
+                    "kırpıntı demir"
+                ],
+                "Azerbaijani": [
+                    "dəmir qırıntısı",
+                    "dəmir tullantısı"
+                ],
+                "Turkmen": [
+                    "demir galyndysy",
+                    "demir-dümür"
+                ],
+                "Uzbek": [
+                    "temir-tersak"
+                ],
+                "Uyghur": [
+                    "تۆمۈر پارچىلىرى",
+                    "تۆمۈر داشقىلى"
+                ],
+                "Kazakh": [
+                    "темір-терсек",
+                    "темір қалдығы",
+                    "темір сынығы"
+                ],
+                "Kyrgyz": [
+                    "темир-тезек",
+                    "темир калдыктары"
+                ],
+                "Karakalpak": [
+                    "temir-tersek",
+                    "temir qaldıqları"
+                ],
+                "Tatar": [
+                    "тимер-томыр",
+                    "тимер калдыклары",
+                    "тимер ватыклары"
+                ],
+                "Bashkir": [
+                    "тимер-томор",
+                    "тимер ҡалдыҡтары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hurda demir"
+                ],
+                "Azerbaijani": [
+                    "hurda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "эски-темир"
+                ],
+                "Karakalpak": [
+                    "eski temir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "metal qırıntısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "köne-küşül demir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qirindi",
+                    "chiqindi temir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆمۈر-تەسەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡаҙанлыҡ"
+                ]
+            }
+        }
+    ]
+}
+```
+

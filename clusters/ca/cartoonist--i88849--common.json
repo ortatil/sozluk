@@ -1,0 +1,107 @@
+{
+    "id": "i88849",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cartoonist",
+    "en_definition": "a person who draws cartoons",
+    "tr_word": "karikatürist",
+    "tr_definition": "karikatür çizen sanatçı",
+    "ru_word": "карикатурист",
+    "ru_definition": "человек, который рисует карикатуры или мультфильмы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karikatürist",
+                    "karikatür sanatçısı"
+                ],
+                "Azerbaijani": [
+                    "karikaturaçı",
+                    "karikaturist"
+                ],
+                "Turkmen": [
+                    "karikaturaçy",
+                    "karikaturaçy suratkeş"
+                ],
+                "Uzbek": [
+                    "karikaturachi"
+                ],
+                "Uyghur": [
+                    "كارىكاتورچى",
+                    "كارىكاتورا رەسسامى"
+                ],
+                "Kazakh": [
+                    "карикатурашы"
+                ],
+                "Kyrgyz": [
+                    "карикатурачы"
+                ],
+                "Karakalpak": [
+                    "karikaturashı"
+                ],
+                "Tatar": [
+                    "кәрикатурачы"
+                ],
+                "Bashkir": [
+                    "карикатурасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "rəssam"
+                ],
+                "Uzbek": [
+                    "rassom"
+                ],
+                "Uyghur": [
+                    "رەسسام"
+                ],
+                "Tatar": [
+                    "рәссам-кәрикатурачы"
+                ],
+                "Bashkir": [
+                    "рәссам-карикатурасы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "суретші"
+                ],
+                "Kyrgyz": [
+                    "сүрөтчү"
+                ],
+                "Karakalpak": [
+                    "súoretshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çizer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hajviyotchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кескіндемеші"
+                ]
+            }
+        }
+    ]
+}

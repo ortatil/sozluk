@@ -1,0 +1,87 @@
+{
+    "id": "i76930",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pumpkin pie",
+    "en_definition": "pie made of mashed pumpkin and milk and eggs and sugar",
+    "tr_word": "kabaklı turta",
+    "tr_definition": "ezilmiş balkabağı, süt, yumurta ve şekerle yapılan bir turta çeşidi",
+    "ru_word": "тыквенный пирог",
+    "ru_definition": "пирог, приготовленный из тыквенного пюре, молока, яиц и сахара",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kabak tatlısı",
+                    "kabaklı çörek",
+                    "kabaklı börek"
+                ],
+                "Uzbek": [
+                    "qovoqli pirog"
+                ],
+                "Tatar": [
+                    "кабак бәлеше",
+                    "кабак пирогы"
+                ],
+                "Bashkir": [
+                    "ҡабаҡ бәлеше",
+                    "ҡабаҡ пирогы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bal kabağı pastası"
+                ],
+                "Azerbaijani": [
+                    "balqabaq piroqu",
+                    "balqabaq şirniyyatı",
+                    "balqabaq börəyi"
+                ],
+                "Kyrgyz": [
+                    "ашкабак пирогу",
+                    "ашкабак наны"
+                ],
+                "Karakalpak": [
+                    "asqabaq bálіsh",
+                    "asqabaq páter",
+                    "asqabaq samsa"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oshqovoqli pirog",
+                    "oshqovoq somsa",
+                    "qovoq somsa"
+                ],
+                "Kazakh": [
+                    "асқабақ бәліші",
+                    "асқабақ пирогы"
+                ],
+                "Kyrgyz": [
+                    "ашкабактан жасалган таттуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kädi böregi",
+                    "kädi gutaby",
+                    "kädi pışşygy"
+                ],
+                "Uyghur": [
+                    "كۆدە پۆرە",
+                    "كۆدە سامسىسى",
+                    "كۆدە نېنى"
+                ]
+            }
+        }
+    ]
+}

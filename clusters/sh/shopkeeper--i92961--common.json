@@ -1,0 +1,160 @@
+{
+    "id": "i92961",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shopkeeper",
+    "en_definition": "a merchant who owns or manages a shop",
+    "tr_word": "esnaf",
+    "tr_definition": "Bir dükkan sahibi olan veya dükkan işleten tüccar.",
+    "ru_word": "лавочник",
+    "ru_definition": "Торговец, владеющий небольшой лавкой или управляющий ею.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dükkancı"
+                ],
+                "Azerbaijani": [
+                    "dükançı"
+                ],
+                "Turkmen": [
+                    "dükançy"
+                ],
+                "Uzbek": [
+                    "do'kondor",
+                    "do'konchi"
+                ],
+                "Uyghur": [
+                    "دۇكانچى"
+                ],
+                "Kazakh": [
+                    "дүкенші"
+                ],
+                "Kyrgyz": [
+                    "дүкөнчү"
+                ],
+                "Karakalpak": [
+                    "dúkánshi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söwdager"
+                ],
+                "Uzbek": [
+                    "savdogar"
+                ],
+                "Uyghur": [
+                    "سودىگەر"
+                ],
+                "Kazakh": [
+                    "саудагер"
+                ],
+                "Kyrgyz": [
+                    "соодагер"
+                ],
+                "Tatar": [
+                    "сәүдәгәр"
+                ],
+                "Bashkir": [
+                    "сауҙагәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "baqqal"
+                ],
+                "Turkmen": [
+                    "bakgal"
+                ],
+                "Uzbek": [
+                    "baqqol"
+                ],
+                "Uyghur": [
+                    "باققال"
+                ],
+                "Karakalpak": [
+                    "baqalshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satıcı"
+                ],
+                "Kyrgyz": [
+                    "сатуучу"
+                ],
+                "Karakalpak": [
+                    "saodager"
+                ],
+                "Tatar": [
+                    "сатучы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "базаршы"
+                ],
+                "Tatar": [
+                    "базарчы"
+                ],
+                "Bashkir": [
+                    "баҙарсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "esnaf"
+                ],
+                "Azerbaijani": [
+                    "əsnaf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mağazacı"
+                ],
+                "Azerbaijani": [
+                    "mağazaçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tüccar"
+                ],
+                "Azerbaijani": [
+                    "tacir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кибетче"
+                ],
+                "Bashkir": [
+                    "кибетсе"
+                ]
+            }
+        }
+    ]
+}

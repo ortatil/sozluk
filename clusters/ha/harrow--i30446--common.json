@@ -1,0 +1,116 @@
+{
+    "id": "i30446",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "harrow",
+    "en_definition": "draw a harrow over (land)",
+    "tr_word": "tırmıklamak",
+    "tr_definition": "Toprağı düzeltmek veya tohumları örtmek için tırmıkla işlemek",
+    "ru_word": "бороновать",
+    "ru_definition": "Обрабатывать почву при помощи бороны для рыхления и выравнивания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tırmıklamak"
+                ],
+                "Kazakh": [
+                    "тырмалау",
+                    "тырмалап өту"
+                ],
+                "Kyrgyz": [
+                    "тырмоо",
+                    "тырмоолоо"
+                ],
+                "Karakalpak": [
+                    "tırmalao"
+                ],
+                "Tatar": [
+                    "тырмалау",
+                    "тырма белән эшкәртү"
+                ],
+                "Bashkir": [
+                    "тырмалау",
+                    "тырма менән эшкәртеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "malamamaq"
+                ],
+                "Turkmen": [
+                    "malamak"
+                ],
+                "Uzbek": [
+                    "mola bosmoq",
+                    "mola qilmoq"
+                ],
+                "Uyghur": [
+                    "مالا سالماق",
+                    "مالىلىماق"
+                ],
+                "Kyrgyz": [
+                    "малалоо"
+                ],
+                "Karakalpak": [
+                    "malalao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yumşaltmaq"
+                ],
+                "Tatar": [
+                    "йомшарту"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "boronalamak"
+                ],
+                "Uzbek": [
+                    "boronalash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tishli mola bilan yumshatmoq"
+                ],
+                "Uyghur": [
+                    "تۈزلىمەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sürgülemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vəlləmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жерді тырмалау"
+                ]
+            }
+        }
+    ]
+}

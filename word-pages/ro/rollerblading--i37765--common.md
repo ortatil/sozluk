@@ -1,0 +1,103 @@
+# Rollerblading
+| Field | Detail |
+|---|---|
+| **ID** | i37765 |
+| **English** | rollerblading |
+| **Type** | noun |
+| **Definition** | skating using Rollerblades |
+| **Source** | common |
+| **Ortatil** | paten |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i37765",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rollerblading",
+    "en_definition": "skating using Rollerblades",
+    "tr_word": "paten kayma",
+    "tr_definition": "tekerlekli paten kullanarak kayma eylemi",
+    "ru_word": "катание на роликах",
+    "ru_definition": "передвижение на роликовых коньках",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekerlekli paten"
+                ],
+                "Azerbaijani": [
+                    "təkərli konkisürmə"
+                ],
+                "Turkmen": [
+                    "tigirçekli konki sürme",
+                    "tigirçekli konki",
+                    "tigirçekli aýakgapda typma"
+                ],
+                "Tatar": [
+                    "тәгәрмәчле тимераякта шуу"
+                ],
+                "Bashkir": [
+                    "тәгәрмәсле конькиҙа шыуыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "роликті коньки тебу",
+                    "ролик тебу",
+                    "роликті сырғанау"
+                ],
+                "Kyrgyz": [
+                    "ролик тебүү",
+                    "ролик менен тебүү"
+                ],
+                "Karakalpak": [
+                    "rolikli konki tebio",
+                    "rolik tebio"
+                ],
+                "Tatar": [
+                    "роликлы тимераякта шуу"
+                ],
+                "Bashkir": [
+                    "роликлы конькиҙа шыуыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "diyircəkli konkisürmə"
+                ],
+                "Uyghur": [
+                    "چاقلىق كانكى تېيىلىش",
+                    "چاقلىق كانكى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "paten kayma",
+                    "paten"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "g'ildirakli konki uchish",
+                    "g'ildirakli konki sporti"
+                ]
+            }
+        }
+    ]
+}
+```
+

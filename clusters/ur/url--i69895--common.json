@@ -1,0 +1,166 @@
+{
+    "id": "i69895",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "url",
+    "en_definition": "the address of a web page on the world wide web",
+    "tr_word": "URL",
+    "tr_definition": "Dünya çapındaki ağ üzerindeki bir web sayfasının adresi",
+    "ru_word": "URL",
+    "ru_definition": "адрес веб-страницы во всемирной паутине",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adres"
+                ],
+                "Uyghur": [
+                    "ئادرېس"
+                ],
+                "Karakalpak": [
+                    "adres"
+                ],
+                "Tatar": [
+                    "адрес"
+                ],
+                "Bashkir": [
+                    "адрес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "salgy"
+                ],
+                "Kazakh": [
+                    "сілтеме"
+                ],
+                "Kyrgyz": [
+                    "шилтеме"
+                ],
+                "Karakalpak": [
+                    "sіlteme"
+                ],
+                "Bashkir": [
+                    "селтәр адресы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağlantı"
+                ],
+                "Azerbaijani": [
+                    "bağlantı"
+                ],
+                "Uzbek": [
+                    "bogʻlama"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "manzil"
+                ],
+                "Kazakh": [
+                    "мекенжай"
+                ],
+                "Karakalpak": [
+                    "mákan-jay"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tarmoq manzili"
+                ],
+                "Kazakh": [
+                    "торап мекені"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تور ئادرېسى",
+                    "تور بېكەت ئادرېسى"
+                ],
+                "Kyrgyz": [
+                    "тор дареги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağ adresi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ilişim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ünvan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "keçid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "web salgysy",
+                    "tor salgysy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дарек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күрһәткеч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "юл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бит адресы"
+                ]
+            }
+        }
+    ]
+}

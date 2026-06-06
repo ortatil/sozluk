@@ -1,0 +1,91 @@
+{
+    "id": "i44781",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pheasant",
+    "en_definition": "large long-tailed gallinaceous bird native to the Old World but introduced elsewhere",
+    "tr_word": "sülün",
+    "tr_definition": "Sülüngiller familyasından, uzun kuyruklu, eti yenilen, güzel tüylü bir kuş.",
+    "ru_word": "фазан",
+    "ru_definition": "Крупная птица отряда куриных с ярким оперением и длинным хвостом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kır sülünü"
+                ],
+                "Azerbaijani": [
+                    "qırqovul"
+                ],
+                "Turkmen": [
+                    "gyrgawul"
+                ],
+                "Uzbek": [
+                    "qirg'ovul"
+                ],
+                "Uyghur": [
+                    "قىرغاۋۇل"
+                ],
+                "Kazakh": [
+                    "қырғауыл"
+                ],
+                "Kyrgyz": [
+                    "кыргоол",
+                    "кыргый"
+                ],
+                "Karakalpak": [
+                    "qırǵauıl"
+                ],
+                "Tatar": [
+                    "кыргый тавык"
+                ],
+                "Bashkir": [
+                    "ҡырғауыл",
+                    "ҡырғауыл ҡошо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sülün"
+                ],
+                "Turkmen": [
+                    "sülün"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tustovuq"
+                ],
+                "Kazakh": [
+                    "түз тауығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təzəv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇرغاي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "фазан"
+                ]
+            }
+        }
+    ]
+}

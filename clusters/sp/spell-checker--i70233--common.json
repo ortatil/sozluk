@@ -1,0 +1,114 @@
+{
+    "id": "i70233",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spell-checker",
+    "en_definition": "an electronic dictionary in a word processor that can be used to catch misspelled words",
+    "tr_word": "yazım denetimi",
+    "tr_definition": "Bir kelime işlemcide yanlış yazılmış sözcükleri yakalamak için kullanılan elektronik sözlük.",
+    "ru_word": "проверка орфографии",
+    "ru_definition": "Электронный словарь в текстовом процессоре, используемый для поиска слов с ошибками.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "imla denetleyicisi",
+                    "imla kılavuzu"
+                ],
+                "Azerbaijani": [
+                    "imlə yoxlayıcısı"
+                ],
+                "Turkmen": [
+                    "imlany barlayjy"
+                ],
+                "Uzbek": [
+                    "imlo tekshirgich",
+                    "imlo tuzatgich",
+                    "imlo lugʻati"
+                ],
+                "Uyghur": [
+                    "ئىملا تەكشۈرگۈچ",
+                    "ئىملا تۈزەتكۈچ"
+                ],
+                "Kazakh": [
+                    "емле тексеруші",
+                    "емле бақылаушы"
+                ],
+                "Kyrgyz": [
+                    "имла текшергич"
+                ],
+                "Karakalpak": [
+                    "imla tekserioshi",
+                    "imlalıq sózlik"
+                ],
+                "Tatar": [
+                    "имля тикшергеч",
+                    "имля программасы"
+                ],
+                "Bashkir": [
+                    "имлә тикшереүсе",
+                    "имлә төҙәтеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazım denetleyicisi",
+                    "yazım düzeltici"
+                ],
+                "Azerbaijani": [
+                    "yazı yoxlayıcısı"
+                ],
+                "Turkmen": [
+                    "ýazuw barlagy"
+                ],
+                "Kazakh": [
+                    "жазуды тексеруші"
+                ],
+                "Kyrgyz": [
+                    "жазуу текшергич"
+                ],
+                "Karakalpak": [
+                    "jazıodı tekserioshi"
+                ],
+                "Bashkir": [
+                    "яҙылышты тикшереүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەت تەكشۈرگۈچ"
+                ],
+                "Kyrgyz": [
+                    "ката текшергич"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "düzgün yazı yoxlayıcısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dogry ýazuw barlagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дөрес язуны тикшерүче"
+                ]
+            }
+        }
+    ]
+}

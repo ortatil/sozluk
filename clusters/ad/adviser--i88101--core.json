@@ -1,0 +1,161 @@
+{
+    "id": "i88101",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "adviser",
+    "en_definition": "an expert who gives advice",
+    "tr_word": "danışman",
+    "tr_definition": "belirli bir konuda uzmanlığı olan ve görüş bildiren kimse",
+    "ru_word": "советник",
+    "ru_definition": "специалист, дающий рекомендации или советы в определенной области",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "geňeşçi"
+                ],
+                "Uyghur": [
+                    "كېڭەشچى"
+                ],
+                "Kazakh": [
+                    "кеңесші"
+                ],
+                "Kyrgyz": [
+                    "кеңешчи"
+                ],
+                "Karakalpak": [
+                    "keńesshi"
+                ],
+                "Tatar": [
+                    "киңәшче"
+                ],
+                "Bashkir": [
+                    "кәңәшсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nəsihətçi"
+                ],
+                "Turkmen": [
+                    "nasyhatçy"
+                ],
+                "Uzbek": [
+                    "nasihatgo'y"
+                ],
+                "Kyrgyz": [
+                    "насаатчы"
+                ],
+                "Karakalpak": [
+                    "nasıyhatshı"
+                ],
+                "Bashkir": [
+                    "нәсихәтсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müşavir"
+                ],
+                "Azerbaijani": [
+                    "müşavir"
+                ],
+                "Uzbek": [
+                    "mushovir"
+                ],
+                "Uyghur": [
+                    "مۇشاۋىر"
+                ],
+                "Bashkir": [
+                    "мөшәүир"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məsləhətçi"
+                ],
+                "Turkmen": [
+                    "maslahatçy"
+                ],
+                "Uzbek": [
+                    "maslahatchi"
+                ],
+                "Uyghur": [
+                    "مەسلىھەتچى"
+                ],
+                "Karakalpak": [
+                    "másláhátshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ақылшы"
+                ],
+                "Kyrgyz": [
+                    "акылчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "danışman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "akıl hocası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "rehber"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нұсқаушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "уәзір"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөстәшәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөгаллим"
+                ]
+            }
+        }
+    ]
+}

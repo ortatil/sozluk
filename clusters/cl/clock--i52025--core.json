@@ -1,0 +1,72 @@
+{
+    "id": "i52025",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "clock",
+    "en_definition": "a timepiece that shows the time of day",
+    "tr_word": "saat",
+    "tr_definition": "Günün vaktini gösteren zaman ölçer",
+    "ru_word": "часы",
+    "ru_definition": "прибор для определения времени суток",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saat"
+                ],
+                "Azerbaijani": [
+                    "saat"
+                ],
+                "Turkmen": [
+                    "sagat"
+                ],
+                "Uzbek": [
+                    "soat"
+                ],
+                "Uyghur": [
+                    "سائەت"
+                ],
+                "Kazakh": [
+                    "сағат"
+                ],
+                "Kyrgyz": [
+                    "саат"
+                ],
+                "Karakalpak": [
+                    "saat"
+                ],
+                "Tatar": [
+                    "сәгать"
+                ],
+                "Bashkir": [
+                    "сәғәт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vaxtölçən"
+                ],
+                "Uzbek": [
+                    "vaqt oʻlchagich"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zamanölçer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ۋاقىت كۆرسەتكۈچ"
+                ]
+            }
+        }
+    ]
+}

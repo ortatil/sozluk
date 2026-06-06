@@ -1,0 +1,73 @@
+{
+    "id": "i77650",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "celery",
+    "en_definition": "stalks eaten raw or cooked or used as seasoning",
+    "tr_word": "kereviz",
+    "tr_definition": "Çiğ veya pişmiş olarak yenen veya çeşni olarak kullanılan saplar",
+    "ru_word": "сельдерей",
+    "ru_definition": "Стебли, употребляемые в пищу в сыром или вареном виде или используемые в качестве приправы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kereviz"
+                ],
+                "Azerbaijani": [
+                    "kərəviz"
+                ],
+                "Turkmen": [
+                    "kerewiz"
+                ],
+                "Uyghur": [
+                    "كەرەپشە",
+                    "كەرەپىز"
+                ],
+                "Karakalpak": [
+                    "kárápiz"
+                ],
+                "Tatar": [
+                    "кәрәвез",
+                    "кәрәвиз"
+                ],
+                "Bashkir": [
+                    "керевиз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "seldereý"
+                ],
+                "Uzbek": [
+                    "selderey"
+                ],
+                "Kazakh": [
+                    "балдыркөк",
+                    "сәлдерей"
+                ],
+                "Kyrgyz": [
+                    "сельдерей",
+                    "балдыркан"
+                ],
+                "Karakalpak": [
+                    "selderey"
+                ],
+                "Bashkir": [
+                    "сельдерей"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kashnich"
+                ]
+            }
+        }
+    ]
+}

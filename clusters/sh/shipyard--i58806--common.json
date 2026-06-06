@@ -1,0 +1,86 @@
+{
+    "id": "i58806",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shipyard",
+    "en_definition": "a workplace where ships are built or repaired",
+    "tr_word": "tersane",
+    "tr_definition": "gemilerin inşa edildiği veya onarıldığı iş yeri",
+    "ru_word": "верфь",
+    "ru_definition": "место, где строят или ремонтируют суда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gemi tezgahı",
+                    "gemi yapım yeri"
+                ],
+                "Azerbaijani": [
+                    "gəmiqayırma zavodu",
+                    "gəmi təmiri zavodu"
+                ],
+                "Turkmen": [
+                    "gämi gurluşyk kärhanasy",
+                    "gämi zawody",
+                    "gämi gurluşyk meýdançasy"
+                ],
+                "Uzbek": [
+                    "kemasozlik korxonasi",
+                    "kemasozlik zavodi",
+                    "kema ta’mirlash joyi",
+                    "kema qurish joyi"
+                ],
+                "Uyghur": [
+                    "كېمىسازلىق زاۋۇتى",
+                    "كېمىسازلىق ئورنى",
+                    "كېمىخانا"
+                ],
+                "Kazakh": [
+                    "кемежай",
+                    "кеме жасау орны",
+                    "кеме жөндеу орны",
+                    "кеме зауыты"
+                ],
+                "Kyrgyz": [
+                    "кеме куруучу жай",
+                    "кемекана",
+                    "кеме оңдоочу жай"
+                ],
+                "Karakalpak": [
+                    "keme sazlao ornı",
+                    "keme jasao ornı",
+                    "kemexana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tersane"
+                ],
+                "Azerbaijani": [
+                    "tərsanə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көймә ясау урыны",
+                    "көймәханә",
+                    "көймә остаханәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "карап эшләү урыны",
+                    "карапхана",
+                    "карап төҙөү урыны"
+                ]
+            }
+        }
+    ]
+}

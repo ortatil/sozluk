@@ -1,0 +1,100 @@
+{
+    "id": "i20378",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "westward",
+    "en_definition": "toward the west",
+    "tr_word": "batıya doğru",
+    "tr_definition": "batı yönüne, batı tarafına",
+    "ru_word": "на запад",
+    "ru_definition": "в западном направлении",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "günbatısına doğru"
+                ],
+                "Azerbaijani": [
+                    "günbatana"
+                ],
+                "Turkmen": [
+                    "günbatara",
+                    "günbatar tarapa",
+                    "günbatar ugruna"
+                ],
+                "Uzbek": [
+                    "kunbotar tomonga"
+                ],
+                "Kazakh": [
+                    "күнбатысқа қарай"
+                ],
+                "Kyrgyz": [
+                    "күн батышты көздөй"
+                ],
+                "Karakalpak": [
+                    "kúnbatısqa qaray",
+                    "kúnbatısqa"
+                ],
+                "Tatar": [
+                    "көнбатышка",
+                    "көнбатышка таба"
+                ],
+                "Bashkir": [
+                    "көнбайышҡа",
+                    "көнбайыш табан",
+                    "көнбайыш яғына"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qərbə",
+                    "qərbə doğru",
+                    "qərb tərəfə"
+                ],
+                "Uzbek": [
+                    "g'arbga",
+                    "g'arbga qarab"
+                ],
+                "Uyghur": [
+                    "غەربكە قاراپ",
+                    "غەرب تەرەپكە",
+                    "غەربكە"
+                ],
+                "Karakalpak": [
+                    "ǵarpqa qaray"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "батысқа қарай",
+                    "батысқа"
+                ],
+                "Kyrgyz": [
+                    "батышка",
+                    "батышты көздөй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "batıya doğru",
+                    "garba doğru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәгърибкә"
+                ]
+            }
+        }
+    ]
+}

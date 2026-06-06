@@ -1,0 +1,54 @@
+{
+    "id": "i12110",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one hundred twenty",
+    "en_definition": "being ten more than one hundred ten",
+    "tr_word": "yüz yirmi",
+    "tr_definition": "yüz on sayısından on fazla olan",
+    "ru_word": "сто двадцать",
+    "ru_definition": "число, на десять большее, чем сто десять",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz yirmi"
+                ],
+                "Azerbaijani": [
+                    "yüz iyirmi"
+                ],
+                "Turkmen": [
+                    "ýüz ýigrimi"
+                ],
+                "Uyghur": [
+                    "يۈز يىگىرمە"
+                ],
+                "Kazakh": [
+                    "жүз жиырма"
+                ],
+                "Kyrgyz": [
+                    "жүз жыйырма"
+                ],
+                "Karakalpak": [
+                    "júz jigirma",
+                    "júz jirma"
+                ],
+                "Tatar": [
+                    "йөз егерме",
+                    "йөз дә егерме"
+                ],
+                "Bashkir": [
+                    "йөҙ егерме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bir yuz yigirma"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "id": "i36985",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "domestic flight",
+    "en_definition": "a flight that begins and ends in the same country",
+    "tr_word": "iç hat uçuşu",
+    "tr_definition": "aynı ülke sınırları içinde başlayıp biten uçuş",
+    "ru_word": "внутренний рейс",
+    "ru_definition": "авиарейс, который начинается и заканчивается в пределах одной страны",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "iç hat uçuşu",
+                    "iç hatlar"
+                ],
+                "Turkmen": [
+                    "içerki gatnaw",
+                    "içerki reýs"
+                ],
+                "Uzbek": [
+                    "ichki parvoz",
+                    "ichki reys"
+                ],
+                "Uyghur": [
+                    "ئىچكى لىنىيە نۆۋەتچى ئايروپىلانى",
+                    "ئىچكى نۆۋەتچى ئايروپىلان"
+                ],
+                "Kazakh": [
+                    "ішкі рейс",
+                    "ішкі ұшу"
+                ],
+                "Kyrgyz": [
+                    "ички каттам",
+                    "ички учуш"
+                ],
+                "Karakalpak": [
+                    "ishki reys",
+                    "ishki ushıs"
+                ],
+                "Tatar": [
+                    "эчке очыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yurt içi uçuş"
+                ],
+                "Turkmen": [
+                    "ýurt içi gatnaw"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ил эчендәге очыш",
+                    "ил эче рейсы"
+                ],
+                "Bashkir": [
+                    "ил эсе рейсы",
+                    "ил эсендәге осош",
+                    "ил эсе осошо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ölkədaxili uçuş",
+                    "ölkədaxili reys"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "daxili uçuş",
+                    "daxili reys"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دۆلەت ئىچى نۆۋەتچى ئايروپىلانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ел ішіндегі ұшу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "id": "i17061",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "national",
+    "en_definition": "of or relating to or belonging to a nation or country",
+    "tr_word": "ulusal",
+    "tr_definition": "bir ulusa veya ülkeye ait olan, milletle ilgili",
+    "ru_word": "национальный",
+    "ru_definition": "относящийся к нации или стране, принадлежащий народу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "milli"
+                ],
+                "Azerbaijani": [
+                    "milli"
+                ],
+                "Turkmen": [
+                    "milli"
+                ],
+                "Uzbek": [
+                    "milliy"
+                ],
+                "Uyghur": [
+                    "مىللىي"
+                ],
+                "Karakalpak": [
+                    "milliy"
+                ],
+                "Tatar": [
+                    "милли"
+                ],
+                "Bashkir": [
+                    "милли"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "döwlet"
+                ],
+                "Uzbek": [
+                    "davlat"
+                ],
+                "Uyghur": [
+                    "دۆلەتلىك"
+                ],
+                "Tatar": [
+                    "дәүләти"
+                ],
+                "Bashkir": [
+                    "дәүләт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "مەملىكەتلىك"
+                ],
+                "Kazakh": [
+                    "мемлекеттік"
+                ],
+                "Kyrgyz": [
+                    "мамлекеттик"
+                ],
+                "Karakalpak": [
+                    "mámleketlik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "xalıqlıq"
+                ],
+                "Tatar": [
+                    "халыкчан"
+                ],
+                "Bashkir": [
+                    "халыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ulusal"
+                ],
+                "Azerbaijani": [
+                    "ulusal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұлттық"
+                ],
+                "Kyrgyz": [
+                    "улуттук"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "елдік"
+                ],
+                "Kyrgyz": [
+                    "элдик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "halk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kamusal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vatan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұрттық"
+                ]
+            }
+        }
+    ]
+}

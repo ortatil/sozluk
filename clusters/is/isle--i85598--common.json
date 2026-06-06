@@ -1,0 +1,87 @@
+{
+    "id": "i85598",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "isle",
+    "en_definition": "a small island",
+    "tr_word": "ada",
+    "tr_definition": "genellikle küçük olan, her tarafı suyla çevrili kara parçası",
+    "ru_word": "островок",
+    "ru_definition": "небольшой остров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ada",
+                    "adacık"
+                ],
+                "Azerbaijani": [
+                    "ada",
+                    "adacıq"
+                ],
+                "Turkmen": [
+                    "ada",
+                    "adajyk"
+                ],
+                "Uyghur": [
+                    "ئارال"
+                ],
+                "Kazakh": [
+                    "арал",
+                    "аралшық"
+                ],
+                "Kyrgyz": [
+                    "арал",
+                    "аралча"
+                ],
+                "Karakalpak": [
+                    "aral",
+                    "aralsha"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cezire"
+                ],
+                "Azerbaijani": [
+                    "cəzirə"
+                ],
+                "Uzbek": [
+                    "jazira"
+                ],
+                "Uyghur": [
+                    "جەزىرە"
+                ],
+                "Tatar": [
+                    "җәзирә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "orolcha"
+                ],
+                "Uyghur": [
+                    "ئارالچە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "утрау",
+                    "утраучык"
+                ],
+                "Bashkir": [
+                    "утрау",
+                    "утраусыҡ"
+                ]
+            }
+        }
+    ]
+}

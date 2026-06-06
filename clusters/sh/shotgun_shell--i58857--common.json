@@ -1,0 +1,128 @@
+{
+    "id": "i58857",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shotgun shell",
+    "en_definition": "a shell containing lead shot; used in shotguns",
+    "tr_word": "av fişeği",
+    "tr_definition": "Av tüfeklerinde kullanılan, içinde saçma veya tek kurşun bulunan mühimmat.",
+    "ru_word": "патрон для дробовика",
+    "ru_definition": "Гильза, снаряженная дробью, предназначенная для стрельбы из гладкоствольного оружия.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "patron"
+                ],
+                "Turkmen": [
+                    "patron"
+                ],
+                "Uyghur": [
+                    "پاتروان"
+                ],
+                "Kazakh": [
+                    "бытыра патрон",
+                    "бытыра оқ",
+                    "бытыралы патрон"
+                ],
+                "Kyrgyz": [
+                    "патрон",
+                    "бытыра"
+                ],
+                "Karakalpak": [
+                    "bıtıra",
+                    "patron"
+                ],
+                "Tatar": [
+                    "патрон"
+                ],
+                "Bashkir": [
+                    "патрон",
+                    "бытыра патроны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ok"
+                ],
+                "Uzbek": [
+                    "oʻq-dori"
+                ],
+                "Uyghur": [
+                    "ئوق"
+                ],
+                "Kyrgyz": [
+                    "ок"
+                ],
+                "Karakalpak": [
+                    "oq"
+                ],
+                "Tatar": [
+                    "ук"
+                ],
+                "Bashkir": [
+                    "уҡ-дары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kartuş"
+                ],
+                "Azerbaijani": [
+                    "qırma"
+                ],
+                "Tatar": [
+                    "корма"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "fişek"
+                ],
+                "Azerbaijani": [
+                    "fişəng"
+                ],
+                "Turkmen": [
+                    "peseňňe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "av fişeği"
+                ],
+                "Uzbek": [
+                    "ov patroni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "saçma fişeği"
+                ],
+                "Uyghur": [
+                    "ساچما ئوق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gilza"
+                ]
+            }
+        }
+    ]
+}

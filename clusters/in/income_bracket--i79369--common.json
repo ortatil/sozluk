@@ -1,0 +1,97 @@
+{
+    "id": "i79369",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "income bracket",
+    "en_definition": "a category of taxpayers based on the amount of their income",
+    "tr_word": "gelir dilimi",
+    "tr_definition": "vergi mükelleflerinin gelir miktarlarına göre ayrıldıkları kategori",
+    "ru_word": "налоговая группа",
+    "ru_definition": "категория налогоплательщиков, определяемая в зависимости от размера их дохода",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "girdeji derejesi",
+                    "girdeji gatlagy",
+                    "girdeji topary"
+                ],
+                "Uyghur": [
+                    "كىرىم دەرىجىسى",
+                    "كىرىم قاتلىمى",
+                    "كىرىم گۇرۇپپىسى"
+                ],
+                "Kazakh": [
+                    "кіріс санаты"
+                ],
+                "Kyrgyz": [
+                    "киреше деңгээли",
+                    "киреше катмары",
+                    "киреше тобу"
+                ],
+                "Tatar": [
+                    "керем төркеме",
+                    "керем дәрәҗәсе",
+                    "керем катламы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gelir dilimi",
+                    "gelir grubu"
+                ],
+                "Azerbaijani": [
+                    "gəlir dərəcəsi",
+                    "gəlir qrupu",
+                    "gəlir təbəqəsi",
+                    "gəlir pilləsi"
+                ],
+                "Bashkir": [
+                    "килем кимәле",
+                    "килем төркөмө",
+                    "килем дәрәжәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "daromad toifasi",
+                    "daromad guruhi",
+                    "daromad darajasi"
+                ],
+                "Karakalpak": [
+                    "dárimet dárejesi",
+                    "dárimet toparı",
+                    "dárimet mólsheri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vergi dilimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kazanç grubu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "табыс деңгейі",
+                    "табыс тобы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "id": "i56749",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "operating room",
+    "en_definition": "a room in a hospital equipped for the performance of surgical operations",
+    "tr_word": "ameliyathane",
+    "tr_definition": "hastanelerde cerrahi operasyonların gerçekleştirilmesi için özel olarak donatılmış oda",
+    "ru_word": "операционная",
+    "ru_definition": "специально оборудованное помещение в больнице для проведения хирургических операций",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "operasyon odası"
+                ],
+                "Turkmen": [
+                    "operasiýa otagy"
+                ],
+                "Uyghur": [
+                    "ئوپېراتسىيەخانا",
+                    "ئوپېراتسىيە ئۆيى"
+                ],
+                "Kyrgyz": [
+                    "операциякана"
+                ],
+                "Karakalpak": [
+                    "operaciyaxana"
+                ],
+                "Bashkir": [
+                    "операция бүлмәһе",
+                    "операция бүлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ameliyathane"
+                ],
+                "Azerbaijani": [
+                    "əməliyyatxana",
+                    "əməliyyat otağı"
+                ],
+                "Turkmen": [
+                    "amalyýethana"
+                ],
+                "Uzbek": [
+                    "amaliyotxona"
+                ],
+                "Tatar": [
+                    "әмәлиятханә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "jarrohlik xonasi"
+                ],
+                "Uyghur": [
+                    "جەرراھلىقخانە"
+                ],
+                "Kyrgyz": [
+                    "жарааткана"
+                ],
+                "Tatar": [
+                    "җәррахлык бүлмәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ота бөлмесі",
+                    "отахана",
+                    "ота жасау бөлмесі"
+                ],
+                "Karakalpak": [
+                    "otaxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кесүү бөлмөсү"
+                ]
+            }
+        }
+    ]
+}

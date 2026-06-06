@@ -1,0 +1,123 @@
+{
+    "id": "i60406",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "touch screen",
+    "en_definition": "a computer display that enables the user to interact with the computer by touching areas on the screen",
+    "tr_word": "dokunmatik ekran",
+    "tr_definition": "kullanıcının ekrandaki alanlara dokunarak bilgisayarla etkileşime girmesini sağlayan bir bilgisayar ekranı",
+    "ru_word": "сенсорный экран",
+    "ru_definition": "компьютерный дисплей, позволяющий пользователю взаимодействовать с компьютером путем прикосновения к областям на экране",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sensorli ekran",
+                    "sezgir ekran"
+                ],
+                "Uyghur": [
+                    "سېزىمچان ئېكران"
+                ],
+                "Kazakh": [
+                    "сезімтал экран"
+                ],
+                "Kyrgyz": [
+                    "сенсордук экран",
+                    "сезимтал экран"
+                ],
+                "Karakalpak": [
+                    "sezimtal ekran"
+                ],
+                "Bashkir": [
+                    "һиҙгер экран"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dokunmatik ekran",
+                    "dokunmalı ekran"
+                ],
+                "Azerbaijani": [
+                    "toxunuşlu ekran",
+                    "toxunma ekran"
+                ],
+                "Turkmen": [
+                    "duýgur ekran",
+                    "dokunma ekrany"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تېگىشچان ئېكران"
+                ],
+                "Kyrgyz": [
+                    "тийме экран"
+                ],
+                "Bashkir": [
+                    "теймәле экран",
+                    "тейеүле экран"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сенсорлы экран"
+                ],
+                "Karakalpak": [
+                    "sensorlı ekran"
+                ],
+                "Tatar": [
+                    "сенсорлы экран"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tizilmali ekran"
+                ],
+                "Karakalpak": [
+                    "tiyip basqarılatuǵın ekran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "həssas ekran"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eldegirme ekrany"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жанаспалы экран"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кагылмалы экран",
+                    "кагылулы экран"
+                ]
+            }
+        }
+    ]
+}

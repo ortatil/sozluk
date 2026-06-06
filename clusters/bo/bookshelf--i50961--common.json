@@ -1,0 +1,106 @@
+{
+    "id": "i50961",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bookshelf",
+    "en_definition": "a shelf on which to keep books",
+    "tr_word": "kitaplık",
+    "tr_definition": "kitapların dizildiği, genellikle duvara monte edilen veya ayaklı raf",
+    "ru_word": "книжная полка",
+    "ru_definition": "полка, предназначенная для хранения книг",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kitaplık",
+                    "kitap rafı"
+                ],
+                "Azerbaijani": [
+                    "kitab rəfi",
+                    "kitab rəfçəsi",
+                    "kitab dolabı"
+                ],
+                "Turkmen": [
+                    "kitap tekjesi"
+                ],
+                "Uzbek": [
+                    "kitob javoni"
+                ],
+                "Uyghur": [
+                    "كىتاب جازىسى",
+                    "كىتاب تەكچىسى",
+                    "كىتاب جازا"
+                ],
+                "Kazakh": [
+                    "кітап сөресі",
+                    "кітап жинағыш"
+                ],
+                "Kyrgyz": [
+                    "китеп текчеси"
+                ],
+                "Karakalpak": [
+                    "kitap tekshesi",
+                    "kitap sóresi"
+                ],
+                "Tatar": [
+                    "китап киштәсе"
+                ],
+                "Bashkir": [
+                    "китап кәштәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tekje"
+                ],
+                "Uzbek": [
+                    "tokcha"
+                ],
+                "Kyrgyz": [
+                    "текче"
+                ],
+                "Karakalpak": [
+                    "tekshe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сөре"
+                ],
+                "Karakalpak": [
+                    "sóre"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "киштә"
+                ],
+                "Bashkir": [
+                    "кәштә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "raf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "javon"
+                ]
+            }
+        }
+    ]
+}

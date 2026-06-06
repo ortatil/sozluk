@@ -1,0 +1,286 @@
+# In no time
+| Field | Detail |
+|---|---|
+| **ID** | i19263 |
+| **English** | in no time |
+| **Type** | adverb |
+| **Definition** | in a relatively short time |
+| **Source** | common |
+| **Ortatil** | tiz, därhäl |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tiz** | **därhäl** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ❌ | ✅ |
+| Kyrgyz | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.67 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 0.60 | 0.60 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **3.27** | **3.27** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تېزلا | tezla |
+| دەرھال | därhal |
+| **Kazakh** | |
+| дереу | dereu |
+| лезде | lezde |
+| сәтте | sätte |
+| жедел | jedel |
+| **Kyrgyz** | |
+| дароо | daroo |
+| **Tatar** | |
+| тиз | tiz |
+| **Bashkir** | |
+| тиҙҙән | tizzän |
+
+```json
+{
+    "id": "i19263",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "in no time",
+    "en_definition": "in a relatively short time",
+    "tr_word": "göz açıp kapayıncaya kadar",
+    "tr_definition": "çok kısa bir süre içinde, hemen",
+    "ru_word": "в мгновение ока",
+    "ru_definition": "очень быстро, моментально",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tezliklə"
+                ],
+                "Turkmen": [
+                    "tiz"
+                ],
+                "Uzbek": [
+                    "tezda",
+                    "tez fursatda"
+                ],
+                "Uyghur": [
+                    "تېزلا"
+                ],
+                "Kazakh": [
+                    "тез арада"
+                ],
+                "Kyrgyz": [
+                    "тез эле",
+                    "тез арада"
+                ],
+                "Karakalpak": [
+                    "tez arada",
+                    "tez"
+                ],
+                "Tatar": [
+                    "тиз арада",
+                    "тиз",
+                    "тиз генә"
+                ],
+                "Bashkir": [
+                    "тиҙ арала",
+                    "тиҙҙән",
+                    "тиҙ генә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dərhal"
+                ],
+                "Turkmen": [
+                    "derrew"
+                ],
+                "Uzbek": [
+                    "darhol"
+                ],
+                "Uyghur": [
+                    "دەرھال"
+                ],
+                "Kazakh": [
+                    "дереу"
+                ],
+                "Kyrgyz": [
+                    "дароо"
+                ],
+                "Karakalpak": [
+                    "dereu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz açıp kapayıncaya kadar"
+                ],
+                "Azerbaijani": [
+                    "göz qırpımında"
+                ],
+                "Kyrgyz": [
+                    "көз ачып жумгуча"
+                ],
+                "Tatar": [
+                    "күз ачып йомганчы"
+                ],
+                "Bashkir": [
+                    "күҙ асып йомғансы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bir anda"
+                ],
+                "Karakalpak": [
+                    "bir pasta"
+                ],
+                "Tatar": [
+                    "бер мәлдә"
+                ],
+                "Bashkir": [
+                    "бер аҙҙан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qısa zamanda"
+                ],
+                "Kazakh": [
+                    "қас қағымда"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىر دەمدىلا"
+                ],
+                "Kyrgyz": [
+                    "бат эле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çabucak",
+                    "çarçabuk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hemen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anında"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vakit kaybetmeden"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "basym",
+                    "göz açyp-ýumasy salymda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "haýal etmän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zudlik bilan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bir zumda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇزۇنغا قالماي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پات يېقىندا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "лезде"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сәтте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жедел"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "zamatta"
+                ]
+            }
+        }
+    ]
+}
+```
+

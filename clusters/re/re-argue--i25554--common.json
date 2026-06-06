@@ -1,0 +1,107 @@
+{
+    "id": "i25554",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "re-argue",
+    "en_definition": "argue again",
+    "tr_word": "yeniden tartışmak",
+    "tr_definition": "bir konuyu veya argümanı tekrar ele alıp tartışmak",
+    "ru_word": "переспорить",
+    "ru_definition": "повторно обсуждать или приводить доводы заново",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan jedelleşmek",
+                    "gaýtadan çekişmek"
+                ],
+                "Uzbek": [
+                    "qayta bahslashmoq",
+                    "qayta tortishmoq",
+                    "qayta munozara qilmoq"
+                ],
+                "Uyghur": [
+                    "قايتا مۇنازىرىلەشمەك",
+                    "قايتا تالاش-تارتىش قىلماق",
+                    "قايتا مۇنازىرە قىلماق"
+                ],
+                "Kazakh": [
+                    "қайта талқылау",
+                    "қайта дауласу",
+                    "қайта пікірталасу"
+                ],
+                "Kyrgyz": [
+                    "кайра талашуу",
+                    "кайра талкуулоо",
+                    "кайра талаш-тартыш кылуу"
+                ],
+                "Karakalpak": [
+                    "qayta talasıu",
+                    "qayta tartısıu",
+                    "qayta básekelesiu"
+                ],
+                "Bashkir": [
+                    "ҡайтанан бәхәсләшеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden tartışmak",
+                    "yeniden ele almak"
+                ],
+                "Azerbaijani": [
+                    "yenidən mübahisə etmək",
+                    "yenidən dartışmaq"
+                ],
+                "Tatar": [
+                    "яңадан бәхәсләшү",
+                    "яңадан тартышу"
+                ],
+                "Bashkir": [
+                    "яңынан бәхәсләшеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekrar görüşmek"
+                ],
+                "Azerbaijani": [
+                    "təkrar mübahisə etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат бәхәсләшү",
+                    "кабат тартышу"
+                ],
+                "Bashkir": [
+                    "ҡабаттан бәхәсләшеү",
+                    "ҡабаттан дәлилләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "münakaşayı tazelemek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzeden jedelleşmek",
+                    "täzeden çekişmek"
+                ]
+            }
+        }
+    ]
+}

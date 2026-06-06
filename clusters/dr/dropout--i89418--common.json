@@ -1,0 +1,95 @@
+{
+    "id": "i89418",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dropout",
+    "en_definition": "someone who quits school before graduation",
+    "tr_word": "okul terki",
+    "tr_definition": "mezun olmadan okulu bırakan kimse",
+    "ru_word": "недоучка",
+    "ru_definition": "человек, бросивший учебу до окончания учебного заведения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "okul terki",
+                    "okulu bırakan"
+                ],
+                "Turkmen": [
+                    "okuwy taşlan",
+                    "okuwdan çykan",
+                    "okuwy goýan"
+                ],
+                "Uyghur": [
+                    "ئوقۇشتىن چېكىنگۈچى",
+                    "ئوقۇشتىن توختىغان",
+                    "ئوقۇشتىن قالغان"
+                ],
+                "Kazakh": [
+                    "оқудан шығып қалған",
+                    "оқуын тастаған",
+                    "оқуын аяқтамаған"
+                ],
+                "Kyrgyz": [
+                    "окуудан чыгып калган",
+                    "окууну таштаган",
+                    "окуудан калган"
+                ],
+                "Karakalpak": [
+                    "oqıudan shıǵıp qalǵan",
+                    "oqıuın taslaǵan"
+                ],
+                "Tatar": [
+                    "укудан калучы",
+                    "укуны ташлаучы",
+                    "укуын калдыручы"
+                ],
+                "Bashkir": [
+                    "уҡыуын ташлаусы",
+                    "уҡыуҙан сығыусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahsili yarım bırakan"
+                ],
+                "Azerbaijani": [
+                    "təhsilini yarımçıq qoyan",
+                    "təhsildən uzaqlaşan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məktəbdən ayrılan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tark etuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻqishni tashlagan",
+                    "oʻqishdan ketgan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "taslap ketken"
+                ]
+            }
+        }
+    ]
+}

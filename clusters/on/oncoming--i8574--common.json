@@ -1,0 +1,152 @@
+{
+    "id": "i8574",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "oncoming",
+    "en_definition": "moving toward one",
+    "tr_word": "karşıdan gelen",
+    "tr_definition": "birine veya bir şeye doğru yaklaşmakta olan",
+    "ru_word": "встречный",
+    "ru_definition": "движущийся навстречу кому-либо или чему-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gelen"
+                ],
+                "Azerbaijani": [
+                    "gələn"
+                ],
+                "Turkmen": [
+                    "gelýän"
+                ],
+                "Uzbek": [
+                    "kelayotgan"
+                ],
+                "Uyghur": [
+                    "كېلىۋاتقان"
+                ],
+                "Kazakh": [
+                    "келе жатқан"
+                ],
+                "Kyrgyz": [
+                    "келе жаткан"
+                ],
+                "Karakalpak": [
+                    "kele jatırǵan"
+                ],
+                "Tatar": [
+                    "килүче"
+                ],
+                "Bashkir": [
+                    "килә ятҡан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karşıdan gelen"
+                ],
+                "Azerbaijani": [
+                    "qarşıdan gələn"
+                ],
+                "Turkmen": [
+                    "garşydan gelýän"
+                ],
+                "Uzbek": [
+                    "qarshisidagi"
+                ],
+                "Kazakh": [
+                    "қарсы"
+                ],
+                "Kyrgyz": [
+                    "каршы"
+                ],
+                "Karakalpak": [
+                    "qarsı kele jatırǵan"
+                ],
+                "Tatar": [
+                    "каршыдагы",
+                    "каршы килүче"
+                ],
+                "Bashkir": [
+                    "ҡаршы килеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yaklaşan"
+                ],
+                "Azerbaijani": [
+                    "yaxınlaşan"
+                ],
+                "Uzbek": [
+                    "yaqinlashayotgan"
+                ],
+                "Uyghur": [
+                    "يېقىنلىشىۋاتقان"
+                ],
+                "Tatar": [
+                    "якынлашучы"
+                ],
+                "Bashkir": [
+                    "яҡынлашыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئالدىدىن كېلىۋاتقان"
+                ],
+                "Kazakh": [
+                    "алдағы"
+                ],
+                "Kyrgyz": [
+                    "алдыдагы"
+                ],
+                "Karakalpak": [
+                    "aldınan shıqqan"
+                ],
+                "Bashkir": [
+                    "алдағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бетпе-бет"
+                ],
+                "Kyrgyz": [
+                    "бетме-бет"
+                ],
+                "Karakalpak": [
+                    "bet alǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "öňden gelýän"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "roʻparadagi"
+                ]
+            }
+        }
+    ]
+}

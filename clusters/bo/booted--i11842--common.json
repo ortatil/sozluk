@@ -1,0 +1,92 @@
+{
+    "id": "i11842",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "booted",
+    "en_definition": "wearing boots",
+    "tr_word": "çizmeli",
+    "tr_definition": "ayağında çizme olan, çizme giymiş",
+    "ru_word": "обутый в сапоги",
+    "ru_definition": "человек, на ногах которого надеты сапоги",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "edikili"
+                ],
+                "Turkmen": [
+                    "ädikli",
+                    "ädik geýen"
+                ],
+                "Uzbek": [
+                    "etikli",
+                    "etik kiygan",
+                    "etik kiygan holda"
+                ],
+                "Kazakh": [
+                    "етікті",
+                    "етік киген"
+                ],
+                "Karakalpak": [
+                    "etіktі",
+                    "etіk kigen"
+                ],
+                "Tatar": [
+                    "итекле"
+                ],
+                "Bashkir": [
+                    "итекле",
+                    "итек кейгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çizmeli"
+                ],
+                "Azerbaijani": [
+                    "çəkməli"
+                ],
+                "Tatar": [
+                    "читекле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۆتۈكلۈك",
+                    "ئۆتۈك كىيگەن"
+                ],
+                "Kyrgyz": [
+                    "өтүктүү",
+                    "өтүкчөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "botlu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uzunboğazlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ayaqqabılı"
+                ]
+            }
+        }
+    ]
+}

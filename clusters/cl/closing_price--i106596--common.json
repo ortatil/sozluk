@@ -1,0 +1,136 @@
+{
+    "id": "i106596",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "closing price",
+    "en_definition": "(stock market) the price of the last transaction completed during a day's trading session",
+    "tr_word": "kapanış fiyatı",
+    "tr_definition": "bir işlem gününün sonunda gerçekleşen son işlemin fiyatı",
+    "ru_word": "цена закрытия",
+    "ru_definition": "цена последней сделки по ценной бумаге на момент завершения торговой сессии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "son fiyat"
+                ],
+                "Azerbaijani": [
+                    "son qiymət"
+                ],
+                "Turkmen": [
+                    "soňky nyrh"
+                ],
+                "Kazakh": [
+                    "соңғы баға"
+                ],
+                "Karakalpak": [
+                    "sońǵı baha"
+                ],
+                "Tatar": [
+                    "соңгы бәя"
+                ],
+                "Bashkir": [
+                    "һуңғы хаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yopilish narxi"
+                ],
+                "Uyghur": [
+                    "يېپىلىش باھاسى"
+                ],
+                "Kazakh": [
+                    "жабылу бағасы"
+                ],
+                "Kyrgyz": [
+                    "жабылуу баасы"
+                ],
+                "Karakalpak": [
+                    "jabılıs bahası"
+                ],
+                "Tatar": [
+                    "ябылу бәясе"
+                ],
+                "Bashkir": [
+                    "ябылыу хаҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kapanış fiyatı",
+                    "kapanış değeri"
+                ],
+                "Azerbaijani": [
+                    "qapanış qiyməti"
+                ],
+                "Turkmen": [
+                    "ýapylyş bahasy"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oxirgi narx"
+                ],
+                "Uyghur": [
+                    "ئاخىرقى باھا"
+                ],
+                "Kyrgyz": [
+                    "акыркы баа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bağlanış qiyməti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jemleýji baha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yakuniy narx"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қорытынды баға"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бүтүм баасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "juomaqlaoshı baha"
+                ]
+            }
+        }
+    ]
+}

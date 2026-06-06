@@ -1,0 +1,110 @@
+# Lifeboat
+| Field | Detail |
+|---|---|
+| **ID** | i55661 |
+| **English** | lifeboat |
+| **Type** | noun |
+| **Definition** | a strong sea boat designed to rescue people from a sinking ship |
+| **Source** | common |
+| **Ortatil** | filikä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i55661",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lifeboat",
+    "en_definition": "a strong sea boat designed to rescue people from a sinking ship",
+    "tr_word": "cankurtaran filikası",
+    "tr_definition": "batmakta olan bir gemideki insanları kurtarmak için tasarlanmış sağlam deniz teknesi",
+    "ru_word": "спасательная шлюпка",
+    "ru_definition": "прочная морская лодка, предназначенная для спасения людей с тонущего судна",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qutqaruv qayig'i",
+                    "qutqaruv kemasi"
+                ],
+                "Uyghur": [
+                    "قۇتقۇزۇش كېمىسى"
+                ],
+                "Kazakh": [
+                    "құтқару қайығы",
+                    "құтқару кемесі"
+                ],
+                "Kyrgyz": [
+                    "куткаруучу кайык",
+                    "куткаруу кайыгы"
+                ],
+                "Karakalpak": [
+                    "qutqarıo qayıǵı",
+                    "qutqarıo kemesi"
+                ],
+                "Tatar": [
+                    "коткару көймәсе",
+                    "коткару каегы"
+                ],
+                "Bashkir": [
+                    "ҡотҡарыу кәмәһе",
+                    "ҡотҡарыу кәмәсеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nežat gämisi"
+                ],
+                "Uzbek": [
+                    "najot qayig'i"
+                ],
+                "Uyghur": [
+                    "نىجاتلىق كېمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xilasedici qayıq",
+                    "xilas qayığı"
+                ],
+                "Turkmen": [
+                    "halas ediş gämisi",
+                    "halas ediş gaýygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cankurtaran filikası",
+                    "cankurtaran botu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "filika"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahlisiye botu"
+                ]
+            }
+        }
+    ]
+}
+```
+

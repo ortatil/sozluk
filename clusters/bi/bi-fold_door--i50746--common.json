@@ -1,0 +1,125 @@
+{
+    "id": "i50746",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bi-fold door",
+    "en_definition": "an interior door",
+    "tr_word": "katlanır kapı",
+    "tr_definition": "İki veya daha fazla panelden oluşan ve açıldığında üst üste katlanan iç mekan kapısı.",
+    "ru_word": "складная дверь",
+    "ru_definition": "Внутренняя дверь, состоящая из двух или более секций, которые складываются при открытии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "katlanır kapı",
+                    "kırmalı kapı"
+                ],
+                "Azerbaijani": [
+                    "qatlanan qapı"
+                ],
+                "Turkmen": [
+                    "gatlanýan gapy"
+                ],
+                "Uzbek": [
+                    "qatma-qat eshik"
+                ],
+                "Uyghur": [
+                    "قاتلىما ئىشىك",
+                    "قاتلىنىدىغان ئىشىك"
+                ],
+                "Kazakh": [
+                    "қатпарлы есік"
+                ],
+                "Kyrgyz": [
+                    "катталма эшик"
+                ],
+                "Karakalpak": [
+                    "qatlamalı esik"
+                ],
+                "Tatar": [
+                    "катламлы ишек"
+                ],
+                "Bashkir": [
+                    "ҡатланмалы ишек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yığılan qapı"
+                ],
+                "Uzbek": [
+                    "yig'ilma eshik"
+                ],
+                "Kazakh": [
+                    "жиналмалы есік"
+                ],
+                "Karakalpak": [
+                    "jıynalmalı esik"
+                ],
+                "Tatar": [
+                    "җыелмалы ишек"
+                ],
+                "Bashkir": [
+                    "йыйылыусан ишек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "buklama eshik"
+                ],
+                "Kazakh": [
+                    "бүктемелі есік"
+                ],
+                "Kyrgyz": [
+                    "бүктөлмө эшик",
+                    "бүктөлүүчү эшик"
+                ],
+                "Karakalpak": [
+                    "búkpeli esik"
+                ],
+                "Tatar": [
+                    "бөгелмәле ишек"
+                ],
+                "Bashkir": [
+                    "бөкләмә ишек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akordiyon kapı"
+                ],
+                "Azerbaijani": [
+                    "akordeon qapı"
+                ],
+                "Turkmen": [
+                    "akordeon gapy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eplenýän gapy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جۈپ قاتلىما ئىشىك"
+                ]
+            }
+        }
+    ]
+}

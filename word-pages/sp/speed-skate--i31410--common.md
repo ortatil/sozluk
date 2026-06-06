@@ -1,0 +1,171 @@
+# Speed skate
+| Field | Detail |
+|---|---|
+| **ID** | i31410 |
+| **English** | speed skate |
+| **Type** | verb |
+| **Definition** | race on skates |
+| **Source** | common |
+| **Ortatil** | zımıramaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| зымырау | zımırau |
+| жүйтку | jüytku |
+| **Kyrgyz** | |
+| жарышуу | jarışuu |
+| чуркоо | çurkoo |
+| **Tatar** | |
+| узышу | uzışu |
+| чабышу | çabışu |
+
+```json
+{
+    "id": "i31410",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "speed skate",
+    "en_definition": "race on skates",
+    "tr_word": "sürat pateni yapmak",
+    "tr_definition": "patenlerle yarışmak",
+    "ru_word": "бегать на коньках",
+    "ru_definition": "соревноваться в беге на коньках",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "konki ilə yarışmaq"
+                ],
+                "Turkmen": [
+                    "konkili ýaryşmak",
+                    "konkili çapmak"
+                ],
+                "Uzbek": [
+                    "konkida chopmoq",
+                    "konkida yugurmoq",
+                    "konkida poyga qilmoq"
+                ],
+                "Kazakh": [
+                    "конькимен жарысу"
+                ],
+                "Kyrgyz": [
+                    "коньки тебүү"
+                ],
+                "Karakalpak": [
+                    "konki tebio"
+                ],
+                "Bashkir": [
+                    "конькиҙа уҙышыу",
+                    "конькиҙа йүгереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "buzda ýaryşmak"
+                ],
+                "Uyghur": [
+                    "مۇزدا تېز يۈگۈرۈش",
+                    "مۇزدا بەيگىگە چۈشۈش"
+                ],
+                "Kazakh": [
+                    "мұзда жарысу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sürat pateni yapmak"
+                ],
+                "Azerbaijani": [
+                    "sürətlə sürüşmək",
+                    "sürətli sürüşmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېز تېيىلىش"
+                ],
+                "Tatar": [
+                    "тизлеккә шуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "зымырау"
+                ],
+                "Karakalpak": [
+                    "sırǵanao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жарышуу"
+                ],
+                "Karakalpak": [
+                    "jarısıp sırǵanao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hızlı paten kaymak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "patenle yarışmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жүйтку"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чуркоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "узышу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чабышу"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,92 @@
+{
+    "id": "i16171",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "floral",
+    "en_definition": "relating to or associated with flowers",
+    "tr_word": "çiçeksi",
+    "tr_definition": "çiçeklerle ilgili veya çiçekleri andıran",
+    "ru_word": "цветочный",
+    "ru_definition": "относящийся к цветам или связанный с ними",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "güllü"
+                ],
+                "Turkmen": [
+                    "gülli",
+                    "gül"
+                ],
+                "Uzbek": [
+                    "gulli"
+                ],
+                "Uyghur": [
+                    "گۈللۈك",
+                    "گۈلگە ئائىت",
+                    "گۈلدار"
+                ],
+                "Kazakh": [
+                    "гүлді",
+                    "гүл-шөпті"
+                ],
+                "Kyrgyz": [
+                    "гүлдүү",
+                    "гүл"
+                ],
+                "Karakalpak": [
+                    "gúlli",
+                    "gúldar"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çiçekli",
+                    "çiçeksi",
+                    "çiçekle ilgili"
+                ],
+                "Azerbaijani": [
+                    "çiçəkli",
+                    "çiçəyə aid"
+                ],
+                "Tatar": [
+                    "чәчәкле",
+                    "чәчәк"
+                ],
+                "Bashkir": [
+                    "сәскәле",
+                    "сәскә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gül-çiçəkli"
+                ],
+                "Kazakh": [
+                    "гүл-бәйшешекті"
+                ],
+                "Karakalpak": [
+                    "gúlge baylanıslı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "guldor",
+                    "gulga oid"
+                ],
+                "Tatar": [
+                    "гөл"
+                ]
+            }
+        }
+    ]
+}

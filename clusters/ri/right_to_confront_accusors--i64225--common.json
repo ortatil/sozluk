@@ -1,0 +1,129 @@
+{
+    "id": "i64225",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "right to confront accusors",
+    "en_definition": "a right guaranteed by the 6th amendment to the US Constitution",
+    "tr_word": "yüzleşme hakkı",
+    "tr_definition": "ABD Anayasası'nın 6. maddesi tarafından garanti edilen, sanığın kendisine karşı ifade veren tanıklarla yüzleşme ve onları sorgulama hakkı.",
+    "ru_word": "право на очную ставку с обвинителем",
+    "ru_definition": "право, гарантированное 6-й поправкой к Конституции США, позволяющее подсудимому лично присутствовать при даче показаний свидетелями обвинения и проводить их перекрестный допрос.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ayblovchi bilan yuzma-yuz kelish huquqi"
+                ],
+                "Uyghur": [
+                    "ئەيىبلىگۈچى بىلەن يۈزلىشىش ھوقۇقى"
+                ],
+                "Kazakh": [
+                    "айыптаушымен бетпе-бет келу құқығы"
+                ],
+                "Kyrgyz": [
+                    "айыптоочу менен бетме-бет келүү укугу"
+                ],
+                "Karakalpak": [
+                    "ayıplaushı menen betlesio huqıqı",
+                    "ayıplaoshıǵa qarsı turıo huqıqı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "беттестіру құқығы",
+                    "беттесу құқығы"
+                ],
+                "Kyrgyz": [
+                    "беттештирүү укугу",
+                    "беттешүү укугу"
+                ],
+                "Karakalpak": [
+                    "betlestirio huqıqı"
+                ],
+                "Tatar": [
+                    "битгә-бит каршы килү хокукы",
+                    "битгә-бит сорау алу хокукы"
+                ],
+                "Bashkir": [
+                    "битләшеү хоҡуғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "üzləşmə hüququ"
+                ],
+                "Uzbek": [
+                    "yuzlashtirish huquqi"
+                ],
+                "Uyghur": [
+                    "يۈزلىشىش ھوقۇقى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qarşı-qarşıya gəlmə hüququ"
+                ],
+                "Turkmen": [
+                    "garşylaşdyrylma hukugy"
+                ],
+                "Uyghur": [
+                    "قارشى تەرەپ بىلەن يۈزلىشىش ھوقۇقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yüzleşme hakkı",
+                    "iddia makamı ile yüzleşme"
+                ],
+                "Turkmen": [
+                    "ýüzbe-ýüz edilmek hukugy",
+                    "şatytlar bilen ýüzbe-ýüzleşmek hukugy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гаепләүче белән йөзгә-йөз очрашу хокукы"
+                ],
+                "Bashkir": [
+                    "ғәйепләүсе менән күҙгә-күҙ ҡарашыу хоҡуғы",
+                    "ғәйепләүсегә ҡаршы һүҙ әйтеү хоҡуғы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "suçlayanla karşı karşıya gelme hakkı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ittiham edənlərlə üzləşmə hüququ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "da'vogar bilan yuzlashish huquqi"
+                ]
+            }
+        }
+    ]
+}

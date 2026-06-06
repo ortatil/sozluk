@@ -1,0 +1,117 @@
+# Clothing store
+| Field | Detail |
+|---|---|
+| **ID** | i52058 |
+| **English** | clothing store |
+| **Type** | noun |
+| **Definition** | a store where men's clothes are sold |
+| **Source** | common |
+| **Ortatil** | konfeksiyon |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i52058",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "clothing store",
+    "en_definition": "a store where men's clothes are sold",
+    "tr_word": "giyim mağazası",
+    "tr_definition": "erkek kıyafetlerinin satıldığı bir dükkan",
+    "ru_word": "магазин одежды",
+    "ru_definition": "магазин, в котором продается мужская одежда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "giyim mağazası",
+                    "giyim evi"
+                ],
+                "Azerbaijani": [
+                    "geyim mağazası"
+                ],
+                "Turkmen": [
+                    "geyim dükany"
+                ],
+                "Uzbek": [
+                    "kiyim-kechak do'koni",
+                    "kiyimlar do'koni"
+                ],
+                "Uyghur": [
+                    "كىيىم-كېچەك دۇكىنى",
+                    "كىيىم دۇكىنى",
+                    "كىيىم-كېچەك ماغازىسى"
+                ],
+                "Kazakh": [
+                    "киім дүкені",
+                    "киім-кешек дүкені"
+                ],
+                "Kyrgyz": [
+                    "кийим дүкөнү",
+                    "кийим-кече дүкөнү"
+                ],
+                "Karakalpak": [
+                    "kiyim dúkáni",
+                    "kiyim-kenshek dúkáni"
+                ],
+                "Tatar": [
+                    "кием кибете",
+                    "кием-салым кибете"
+                ],
+                "Bashkir": [
+                    "кейем магазины",
+                    "кейем-һалым магазины",
+                    "кейем-кесәк магазины"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "libas mağazası"
+                ],
+                "Turkmen": [
+                    "lybas dükany"
+                ],
+                "Uzbek": [
+                    "liboslar do'koni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "elbise mağazası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "konfeksiyon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paltar dükanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "eşik dükany"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,222 @@
+# Weevil
+| Field | Detail |
+|---|---|
+| **ID** | i46921 |
+| **English** | weevil |
+| **Type** | noun |
+| **Definition** | any of several families of mostly small beetles that feed on plants and plant products; especially snout beetles and seed beetles |
+| **Source** | common |
+| **Ortatil** | filböcäyi |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **filböcäyi** | **däñqoñız** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ❌ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ❌ | ✅ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ✅ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 0.33 |
+| *Qarluq Subtotal* | 0.50 | 0 |
+| *Qipchaq Subtotal* | 0.20 | 0.40 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  | ✅ |
+| **O'TQ** | **2.03** | **1.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| дәнқоңыз | dänqoñız |
+| бізтұмсық | biztumsıq |
+| **Kyrgyz** | |
+| битке | bitke |
+| **Tatar** | |
+| филчек | filçek |
+| **Bashkir** | |
+| оҙонморон | ozonmoron |
+| ҡуңыҙ | quñız |
+
+```json
+{
+    "id": "i46921",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "weevil",
+    "en_definition": "any of several families of mostly small beetles that feed on plants and plant products; especially snout beetles and seed beetles",
+    "tr_word": "hortumlu böcek",
+    "tr_definition": "Bitkilerle ve bitkisel ürünlerle beslenen, genellikle küçük ve hortumlu bir yapıya sahip olan kın kanatlı böcek türü.",
+    "ru_word": "долгоносик",
+    "ru_definition": "Жук с вытянутой в трубку головой, питающийся растениями и наносящий вред сельскохозяйственным культурам.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dənbiti"
+                ],
+                "Kazakh": [
+                    "дәнқоңыз"
+                ],
+                "Kyrgyz": [
+                    "дан коңузу"
+                ],
+                "Karakalpak": [
+                    "dánqońız"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "filböcəyi"
+                ],
+                "Uzbek": [
+                    "filcha"
+                ],
+                "Tatar": [
+                    "филчек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hortumlu böcek"
+                ],
+                "Azerbaijani": [
+                    "xortumlu böcək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bit"
+                ],
+                "Kyrgyz": [
+                    "битке"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ekin biti"
+                ],
+                "Uyghur": [
+                    "دان بېغى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "buğday biti"
+                ],
+                "Uyghur": [
+                    "بۇغداي بېغى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mör-möjek"
+                ],
+                "Kyrgyz": [
+                    "мурундуу коңуз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uzunburun"
+                ],
+                "Bashkir": [
+                    "оҙонморон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇمشۇقلۇق قوڭغۇز"
+                ],
+                "Karakalpak": [
+                    "tұmsıqtı qońız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бізтұмсық",
+                    "бізтұмсық қоңыз"
+                ],
+                "Karakalpak": [
+                    "bіztұmsıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "taxılbiti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "göje",
+                    "böjek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şire"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ombor qoʻngʻizi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "борынлы коңгыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "орлык ашаучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡуңыҙ"
+                ]
+            }
+        }
+    ]
+}
+```
+

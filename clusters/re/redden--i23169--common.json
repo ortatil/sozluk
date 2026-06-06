@@ -1,0 +1,86 @@
+{
+    "id": "i23169",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "redden",
+    "en_definition": "turn red or redder",
+    "tr_word": "kızarmak",
+    "tr_definition": "kırmızı veya daha kırmızı bir renk almak",
+    "ru_word": "краснеть",
+    "ru_definition": "становиться красным или более красным",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kızarmak",
+                    "kızılcaşmak"
+                ],
+                "Azerbaijani": [
+                    "qızarmaq"
+                ],
+                "Turkmen": [
+                    "gyzarmak"
+                ],
+                "Uzbek": [
+                    "qizarmoq",
+                    "qizil bo'lmoq",
+                    "qizil tus olmoq"
+                ],
+                "Uyghur": [
+                    "قىزارماق",
+                    "قىزىرىپ كەتمەك",
+                    "قىزىرىپ قالماق"
+                ],
+                "Kazakh": [
+                    "қызару",
+                    "қызыл тарту"
+                ],
+                "Kyrgyz": [
+                    "кызаруу",
+                    "кызыл болуу",
+                    "кызыл түскө кирүү"
+                ],
+                "Karakalpak": [
+                    "qızarıo",
+                    "qızartıo"
+                ],
+                "Tatar": [
+                    "кызару",
+                    "кызыллыкка бару"
+                ],
+                "Bashkir": [
+                    "ҡыҙарыу",
+                    "ҡыҙғылтланыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "allaşmak"
+                ],
+                "Azerbaijani": [
+                    "al-əlvan olmaq",
+                    "allanmaq"
+                ],
+                "Turkmen": [
+                    "alym-gyzyl bolmak"
+                ],
+                "Kazakh": [
+                    "албырау"
+                ],
+                "Karakalpak": [
+                    "allanıo"
+                ],
+                "Tatar": [
+                    "аллану"
+                ],
+                "Bashkir": [
+                    "алланыу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "i41048",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "siege",
+    "en_definition": "the action of an armed force that surrounds a fortified place and isolates it while continuing to attack",
+    "tr_word": "kuşatma",
+    "tr_definition": "Bir yerin çevresini sararak dış dünya ile olan bağlantısını kesme ve orayı ele geçirmeye çalışma eylemi.",
+    "ru_word": "осада",
+    "ru_definition": "Окружение укрепленного места вооруженными силами с целью его захвата или принуждения к сдаче.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "muhasara"
+                ],
+                "Azerbaijani": [
+                    "mühasirə",
+                    "mühasiro"
+                ],
+                "Turkmen": [
+                    "muhasyra"
+                ],
+                "Uzbek": [
+                    "muhosara"
+                ],
+                "Uyghur": [
+                    "مۇھاسىرە"
+                ],
+                "Karakalpak": [
+                    "muxasara"
+                ],
+                "Tatar": [
+                    "мөхәсәрә"
+                ],
+                "Bashkir": [
+                    "мөһәсәрә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qamal"
+                ],
+                "Uyghur": [
+                    "قامال"
+                ],
+                "Kazakh": [
+                    "қамау",
+                    "қамауға алу"
+                ],
+                "Kyrgyz": [
+                    "камоо"
+                ],
+                "Karakalpak": [
+                    "qamau"
+                ],
+                "Tatar": [
+                    "камау",
+                    "камалыш"
+                ],
+                "Bashkir": [
+                    "ҡамау",
+                    "ҡамалыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قورشاۋ"
+                ],
+                "Kazakh": [
+                    "қоршау",
+                    "қоршауға алу"
+                ],
+                "Kyrgyz": [
+                    "курчоо",
+                    "курчоого алуу"
+                ],
+                "Karakalpak": [
+                    "qorshau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kuşatma"
+                ],
+                "Azerbaijani": [
+                    "qost"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ihata"
+                ],
+                "Uzbek": [
+                    "ihota"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gabaw"
+                ]
+            }
+        }
+    ]
+}

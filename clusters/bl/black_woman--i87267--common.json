@@ -1,0 +1,73 @@
+{
+    "id": "i87267",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "black woman",
+    "en_definition": "a woman who is Black",
+    "tr_word": "siyah kadın",
+    "tr_definition": "Siyahi ırka mensup olan kadın.",
+    "ru_word": "чернокожая женщина",
+    "ru_definition": "Женщина, принадлежащая к негроидной расе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara kadın"
+                ],
+                "Azerbaijani": [
+                    "qara dərili qadın"
+                ],
+                "Turkmen": [
+                    "garaýagyz aýal",
+                    "garaýagyz hatyn"
+                ],
+                "Uzbek": [
+                    "qora tanli ayol",
+                    "qora tanli xotin"
+                ],
+                "Uyghur": [
+                    "قارا تەنلىك ئايال",
+                    "قارا تەنلىك خانىم"
+                ],
+                "Kazakh": [
+                    "қара нәсілді әйел",
+                    "қара нәсілді қатын"
+                ],
+                "Kyrgyz": [
+                    "кара тору аял",
+                    "кара аял"
+                ],
+                "Karakalpak": [
+                    "qara násіlli hayal",
+                    "qara tánli hayal"
+                ],
+                "Tatar": [
+                    "кара тәнле хатын",
+                    "кара тәнле хатын-кыз"
+                ],
+                "Bashkir": [
+                    "ҡара тәнле ҡатын",
+                    "ҡара тәнле ҡатын-ҡыҙ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zenci kadın"
+                ],
+                "Azerbaijani": [
+                    "zənci qadın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "siyahi kadın"
+                ]
+            }
+        }
+    ]
+}

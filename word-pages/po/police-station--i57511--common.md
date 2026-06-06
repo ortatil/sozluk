@@ -1,0 +1,149 @@
+# Police station
+| Field | Detail |
+|---|---|
+| **ID** | i57511 |
+| **English** | police station |
+| **Type** | noun |
+| **Definition** | a station that serves as headquarters for police in a particular district; serves as a place from which policemen are dispatched and to which arrested persons are brought |
+| **Source** | common |
+| **Ortatil** | karakol |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ساقچىخانا | saqçixana |
+
+```json
+{
+    "id": "i57511",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "police station",
+    "en_definition": "a station that serves as headquarters for police in a particular district; serves as a place from which policemen are dispatched and to which arrested persons are brought",
+    "tr_word": "karakol",
+    "tr_definition": "Belirli bir bölgedeki polis merkezinin bulunduğu, polislerin görevlendirildiği ve gözaltına alınan kişilerin getirildiği yer.",
+    "ru_word": "полицейский участок",
+    "ru_definition": "Штаб-квартира полиции в определенном районе, откуда направляются сотрудники и куда доставляются задержанные.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "polis merkezi"
+                ],
+                "Azerbaijani": [
+                    "polis idarəsi",
+                    "polis şöbəsi",
+                    "polis məntəqəsi",
+                    "polis bölməsi"
+                ],
+                "Turkmen": [
+                    "polisiýa bölümi",
+                    "polisiýa edarasy"
+                ],
+                "Uzbek": [
+                    "politsiya mahkamasi",
+                    "politsiya boʻlimi"
+                ],
+                "Kazakh": [
+                    "полиция бөлімі",
+                    "полиция мекемесі"
+                ],
+                "Karakalpak": [
+                    "policiya bólimi",
+                    "policiya mekemesi"
+                ],
+                "Tatar": [
+                    "полиция участогы",
+                    "полиция бүлеге"
+                ],
+                "Bashkir": [
+                    "полиция бүлексәһе",
+                    "полиция идаралығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тәртіп сақтау орны"
+                ],
+                "Kyrgyz": [
+                    "тартип сактоо бөлүмү"
+                ],
+                "Karakalpak": [
+                    "tártip saqlao bólimi"
+                ],
+                "Tatar": [
+                    "тәртип саклау идарәсе"
+                ],
+                "Bashkir": [
+                    "тәртип һаҡлау бүлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karakol"
+                ],
+                "Turkmen": [
+                    "karakol"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "emniyet amirliği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "militsiya mahkamasi",
+                    "militsiya boʻlimi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mahkama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ساقچىخانا",
+                    "ساقچى ئىدارىسى",
+                    "ساقچى پونكىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "коопсуздук бөлүмү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ички иштер бөлүмү"
+                ]
+            }
+        }
+    ]
+}
+```
+

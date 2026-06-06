@@ -1,0 +1,157 @@
+# Hip socket
+| Field | Detail |
+|---|---|
+| **ID** | i64734 |
+| **English** | hip socket |
+| **Type** | noun |
+| **Definition** | the socket part of the ball-and-socket joint between the head of the femur and the innominate bone |
+| **Source** | common |
+| **Ortatil** | çoqurçaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چوقۇرچاق | çoqurçaq |
+| **Tatar** | |
+| оя | oya |
+| **Bashkir** | |
+| оя | oya |
+
+```json
+{
+    "id": "i64734",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hip socket",
+    "en_definition": "the socket part of the ball-and-socket joint between the head of the femur and the innominate bone",
+    "tr_word": "kalça soketi",
+    "tr_definition": "femur başı ile kalça kemiği arasındaki topuz ve yuva ekleminin yuva kısmı; asetabulum",
+    "ru_word": "вертлужная впадина",
+    "ru_definition": "чашеобразная впадина тазовой кости, образующая тазобедренный сустав с головкой бедренной кости",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жамбас шұңқыры"
+                ],
+                "Kyrgyz": [
+                    "жамбаш чарасы",
+                    "жамбаш оюгу",
+                    "жамбаш чуңкуру"
+                ],
+                "Karakalpak": [
+                    "jambas shıǵırshıǵı",
+                    "jambas ұyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çanaq çuxuru",
+                    "oynaq yuvası"
+                ],
+                "Uzbek": [
+                    "chanoq kosachasi",
+                    "chanoq chuqurchasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çanaklyk",
+                    "çanaklyk oýy",
+                    "çanaklyk oýtugy"
+                ],
+                "Bashkir": [
+                    "янбаш ояһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boʻgʻim kosasi"
+                ],
+                "Tatar": [
+                    "бөкән оясы",
+                    "бөкән чокыры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұршық ойығы",
+                    "ұршық буыны"
+                ],
+                "Karakalpak": [
+                    "ұrshıq ұyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "оя"
+                ],
+                "Bashkir": [
+                    "оя"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kalça yuvası",
+                    "kalça çukuru"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eklem yuvası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bud-çanaq oynağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوقۇرچاق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇچى چوقۇرچىقى",
+                    "ئۇچى بوغۇمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "быуын ояһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

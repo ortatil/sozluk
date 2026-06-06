@@ -1,0 +1,90 @@
+{
+    "id": "i36738",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "window-washing",
+    "en_definition": "the activity of washing windows",
+    "tr_word": "cam silme",
+    "tr_definition": "pencereleri temizleme ve yıkama işi",
+    "ru_word": "мытьё окон",
+    "ru_definition": "деятельность по очистке и мытью оконных стекол",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "deraza yuvish"
+                ],
+                "Uyghur": [
+                    "دېرىزە يۇيۇش",
+                    "دېرىزە سۈرتۈش",
+                    "دېرىزە تازىلاش"
+                ],
+                "Kazakh": [
+                    "терезе жуу",
+                    "терезе тазалау"
+                ],
+                "Kyrgyz": [
+                    "терезе жуу",
+                    "терезе тазалоо"
+                ],
+                "Karakalpak": [
+                    "tereze juıu",
+                    "tereze tazalao"
+                ],
+                "Tatar": [
+                    "тәрәзә юу",
+                    "тәрәзә чистарту"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pencere temizliği"
+                ],
+                "Azerbaijani": [
+                    "pəncərə yuma",
+                    "pəncərə təmizləmə"
+                ],
+                "Turkmen": [
+                    "penjire ýuwmak",
+                    "penjire arassalamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cam silme",
+                    "cam temizliği"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "äpişge ýuwmak",
+                    "äpişge arassalamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oyna yuvish",
+                    "oyna poklash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәҙрә йыуыу",
+                    "тәҙрә таҙартыу"
+                ]
+            }
+        }
+    ]
+}

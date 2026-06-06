@@ -1,0 +1,97 @@
+{
+    "id": "i12349",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "smoke-filled",
+    "en_definition": "containing smoke",
+    "tr_word": "dumanlı",
+    "tr_definition": "içinde duman bulunan veya dumanla dolmuş olan",
+    "ru_word": "задымленный",
+    "ru_definition": "наполненный дымом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tüstülü",
+                    "tüstü-dumanlı"
+                ],
+                "Turkmen": [
+                    "tüsseli",
+                    "tüsse basan"
+                ],
+                "Uyghur": [
+                    "تۈتۈنلۈك",
+                    "تۈتۈن باسقان",
+                    "تۈتۈن قاپلىغان"
+                ],
+                "Kazakh": [
+                    "түтінді",
+                    "түтіндеген",
+                    "түтін басқан"
+                ],
+                "Kyrgyz": [
+                    "түтүн",
+                    "түтүндүү"
+                ],
+                "Karakalpak": [
+                    "tútinli",
+                    "tútin baspaǵan",
+                    "tútinge tolǵan"
+                ],
+                "Tatar": [
+                    "төтенле",
+                    "төтен баскан",
+                    "төтенле-корымлы"
+                ],
+                "Bashkir": [
+                    "төтөнлө",
+                    "төтөн баҫҡан",
+                    "төтөн менән тулған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dumanlı",
+                    "duman dolu"
+                ],
+                "Azerbaijani": [
+                    "dumanlı"
+                ],
+                "Turkmen": [
+                    "dumanly"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tutunli",
+                    "tutun bosgan",
+                    "dudli"
+                ],
+                "Kazakh": [
+                    "түтінге толған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "isli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ышталган",
+                    "ыштуу"
+                ]
+            }
+        }
+    ]
+}

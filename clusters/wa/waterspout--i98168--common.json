@@ -1,0 +1,96 @@
+{
+    "id": "i98168",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "waterspout",
+    "en_definition": "a tornado passing over water and picking up a column of water and mist",
+    "tr_word": "hortum",
+    "tr_definition": "su üzerinde oluşan ve su ile su buharını sütun şeklinde yukarı çeken kasırga",
+    "ru_word": "водяной смерч",
+    "ru_definition": "торнадо, возникающий над поверхностью воды и втягивающий в себя столб воды и тумана",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su hortumu"
+                ],
+                "Azerbaijani": [
+                    "su hortumu",
+                    "su burulğanı",
+                    "su əjdahası"
+                ],
+                "Turkmen": [
+                    "suw girdaby",
+                    "suw gurbasy",
+                    "suw tupan"
+                ],
+                "Uzbek": [
+                    "suv quyuni",
+                    "suv girdobi",
+                    "suv bo‘roni"
+                ],
+                "Uyghur": [
+                    "سۇ قۇيۇنى"
+                ],
+                "Kazakh": [
+                    "су құйыны",
+                    "су бораны",
+                    "су иірімі"
+                ],
+                "Kyrgyz": [
+                    "суу куюну",
+                    "суу куюн"
+                ],
+                "Karakalpak": [
+                    "suu kuyını",
+                    "suu iyirimi",
+                    "suu boranı"
+                ],
+                "Tatar": [
+                    "су өермәсе",
+                    "су коены",
+                    "су драконы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deniz hortumu"
+                ],
+                "Uyghur": [
+                    "دېڭىز قۇيۇنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "суудагы куюн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу ҡойон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу өйөрмәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу аждаһаһы"
+                ]
+            }
+        }
+    ]
+}

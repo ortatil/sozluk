@@ -1,0 +1,235 @@
+# Marsh plant
+| Field | Detail |
+|---|---|
+| **ID** | i105605 |
+| **English** | marsh plant |
+| **Type** | noun |
+| **Definition** | a semiaquatic plant that grows in soft wet land; most are monocots: sedge, sphagnum, grasses, cattails, etc; possibly heath |
+| **Source** | common |
+| **Ortatil** | qamış |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **qamış** | **qöqa** | **qıyaq** |
+|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ |
+| Uyghur | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ✅ |
+| Kyrgyz | ✅ | ❌ | ✅ |
+| Karakalpak | ✅ | ✅ | ✅ |
+| Tatar | ✅ | ❌ | ✅ |
+| Bashkir | ✅ | ❌ | ✅ |
+| *Oghuz Subtotal* | 1 | 0.33 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.40 | 1 |
+| *In All* | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |
+| **O'TQ** | **4** | **2.23** | **1** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| قومۇش | qomuş |
+| سېغىز | seğiz |
+| **Kazakh** | |
+| қамыс | qamıs |
+| қияқ | qiyaq |
+| қоға | qoğa |
+| **Kyrgyz** | |
+| камыш | kamış |
+| кыяк | kıyak |
+| **Tatar** | |
+| камыш | kamış |
+| кыяк | kıyak |
+| **Bashkir** | |
+| ҡамыш | qamış |
+| ҡыяҡ | qıyaq |
+
+```json
+{
+    "id": "i105605",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "marsh plant",
+    "en_definition": "a semiaquatic plant that grows in soft wet land; most are monocots: sedge, sphagnum, grasses, cattails, etc; possibly heath",
+    "tr_word": "bataklık bitkisi",
+    "tr_definition": "Yumuşak ıslak arazide yetişen yarı sucul bitki; çoğu tek çeneklidir: saz, sfagnum, otlar, hasırotu vb.",
+    "ru_word": "болотное растение",
+    "ru_definition": "Полуводное растение, произрастающее на мягких влажных почвах; большинство из них однодольные: осока, сфагнум, злаки, рогоз и т. д.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kamış"
+                ],
+                "Azerbaijani": [
+                    "qamış"
+                ],
+                "Turkmen": [
+                    "gamyş",
+                    "gary"
+                ],
+                "Uzbek": [
+                    "qamish"
+                ],
+                "Uyghur": [
+                    "قومۇش"
+                ],
+                "Kazakh": [
+                    "қамыс"
+                ],
+                "Kyrgyz": [
+                    "камыш"
+                ],
+                "Karakalpak": [
+                    "qamıs"
+                ],
+                "Tatar": [
+                    "камыш"
+                ],
+                "Bashkir": [
+                    "ҡамыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bataklık bitkisi"
+                ],
+                "Azerbaijani": [
+                    "bataqlıq bitkisi"
+                ],
+                "Turkmen": [
+                    "batga ösümligi"
+                ],
+                "Uzbek": [
+                    "botqoqlik oʻsimligi"
+                ],
+                "Uyghur": [
+                    "پاتقاقلىق ئۆسۈملۈكى"
+                ],
+                "Kazakh": [
+                    "батпақ өсімдігі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saz"
+                ],
+                "Uyghur": [
+                    "سېغىز"
+                ],
+                "Kyrgyz": [
+                    "саз өсүмдүгү"
+                ],
+                "Tatar": [
+                    "сазлык үсемлеге"
+                ],
+                "Bashkir": [
+                    "һаҙлыҡ үҫемлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қияқ"
+                ],
+                "Kyrgyz": [
+                    "кыяк"
+                ],
+                "Karakalpak": [
+                    "qiyaq"
+                ],
+                "Tatar": [
+                    "кыяк"
+                ],
+                "Bashkir": [
+                    "ҡыяҡ",
+                    "ҡыяҡлы үлән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gök"
+                ],
+                "Uzbek": [
+                    "qoʻgʻa"
+                ],
+                "Kazakh": [
+                    "қоға"
+                ],
+                "Karakalpak": [
+                    "qoǵa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bağayarpağı"
+                ],
+                "Tatar": [
+                    "бака яфрагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hasırotu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ajriq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇ ئۆتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ылай өсүмдүгү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sazlıq ósimligi"
+                ]
+            }
+        }
+    ]
+}
+```
+

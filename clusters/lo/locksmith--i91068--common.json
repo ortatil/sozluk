@@ -1,0 +1,105 @@
+{
+    "id": "i91068",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "locksmith",
+    "en_definition": "someone who makes or repairs locks",
+    "tr_word": "çilingir",
+    "tr_definition": "kilit yapan veya onaran kimse",
+    "ru_word": "слесарь",
+    "ru_definition": "мастер по изготовлению и ремонту замков",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qulufsoz",
+                    "qulfsoz"
+                ],
+                "Uyghur": [
+                    "قۇلۇپچى",
+                    "قۇلۇپساز"
+                ],
+                "Kazakh": [
+                    "құлыпшы"
+                ],
+                "Kyrgyz": [
+                    "кулпучу"
+                ],
+                "Karakalpak": [
+                    "qulpıshı",
+                    "qulp ońlaoshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çilingir"
+                ],
+                "Azerbaijani": [
+                    "çilingər"
+                ],
+                "Uzbek": [
+                    "chilangar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kilidçi"
+                ],
+                "Kazakh": [
+                    "кілтші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "açary"
+                ],
+                "Kyrgyz": [
+                    "ачкыччы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йозакчы",
+                    "йозак остасы"
+                ],
+                "Bashkir": [
+                    "йоҙаҡсы",
+                    "йоҙаҡ яһаусы",
+                    "йоҙаҡ төҙәтеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "anahtarcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gülpçü",
+                    "gülp ussasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "temirshi"
+                ]
+            }
+        }
+    ]
+}

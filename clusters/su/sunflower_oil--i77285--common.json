@@ -1,0 +1,96 @@
+{
+    "id": "i77285",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sunflower oil",
+    "en_definition": "oil from sunflower seeds",
+    "tr_word": "ayçiçek yağı",
+    "tr_definition": "ayçiçeği tohumlarından elde edilen bitkisel yağ",
+    "ru_word": "подсолнечное масло",
+    "ru_definition": "растительное масло, получаемое из семян подсолнечника",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kungaboqar yog'i",
+                    "kungaboqar moyi"
+                ],
+                "Uyghur": [
+                    "كۈنپەرەست مېيى"
+                ],
+                "Kazakh": [
+                    "күнбағыс майы",
+                    "күнжарық майы"
+                ],
+                "Kyrgyz": [
+                    "күнкарама майы"
+                ],
+                "Karakalpak": [
+                    "kúnbaǵıs mayı"
+                ],
+                "Tatar": [
+                    "көнбагыш мае"
+                ],
+                "Bashkir": [
+                    "көнбағыш майы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "günebakan yağı"
+                ],
+                "Azerbaijani": [
+                    "günəbaxan yağı",
+                    "günəş yağı"
+                ],
+                "Turkmen": [
+                    "günbakaryş ýagy",
+                    "günäbakar ýagy"
+                ],
+                "Kyrgyz": [
+                    "күн карама майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ayçiçek yağı",
+                    "çiçek yağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pista yog'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاپتاپپەرەس مېيى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "shómishgúl mayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гөлбаш мае"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "id": "i40838",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "baptism",
+    "en_definition": "a Christian sacrament signifying spiritual cleansing and rebirth",
+    "tr_word": "vaftiz",
+    "tr_definition": "Hristiyanlıkta kişinin günahlarından arınmasını ve kiliseye kabulünü simgeleyen kutsal tören",
+    "ru_word": "крещение",
+    "ru_definition": "христианское таинство, символизирующее духовное очищение и возрождение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çokundyrma",
+                    "çokunma"
+                ],
+                "Uzbek": [
+                    "choʻqintirish"
+                ],
+                "Kazakh": [
+                    "шоқыну",
+                    "шоқындыру"
+                ],
+                "Kyrgyz": [
+                    "чокундуруу",
+                    "чокунуу"
+                ],
+                "Karakalpak": [
+                    "shoqındırıo",
+                    "shoqınıo"
+                ],
+                "Tatar": [
+                    "чукыну",
+                    "чукыну йоласы"
+                ],
+                "Bashkir": [
+                    "суҡыныу",
+                    "суҡындырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suwa çümdürme"
+                ],
+                "Kazakh": [
+                    "суға батыру"
+                ],
+                "Kyrgyz": [
+                    "сууга малуу"
+                ],
+                "Bashkir": [
+                    "суға маныу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vaftiz",
+                    "vaftiz etme",
+                    "vaftiz töreni"
+                ],
+                "Azerbaijani": [
+                    "vəftiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gʻusl"
+                ],
+                "Uyghur": [
+                    "غۇسلى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "poklanish"
+                ],
+                "Tatar": [
+                    "пакьләнү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xaç suyuna salma",
+                    "xaçlanma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چۆمۈلدۈرۈش",
+                    "چۆمۈلدۈرۈش مۇراسىمى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "tazalanıo"
+                ]
+            }
+        }
+    ]
+}

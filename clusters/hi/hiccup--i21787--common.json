@@ -1,0 +1,74 @@
+{
+    "id": "i21787",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "hiccup",
+    "en_definition": "breathe spasmodically, and make a sound",
+    "tr_word": "hıçkırmak",
+    "tr_definition": "diyaframın istemsiz kasılmasıyla oluşan sesli ve kesik soluk alma eylemi",
+    "ru_word": "икать",
+    "ru_definition": "производить характерные короткие звуки в результате судорожного сокращения диафрагмы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ықылықтау",
+                    "ықылық ату"
+                ],
+                "Kyrgyz": [
+                    "ыктыт",
+                    "ыктыт-",
+                    "ыктытуу"
+                ],
+                "Karakalpak": [
+                    "ıqılıq atıu",
+                    "ıqılıq tutıu"
+                ],
+                "Tatar": [
+                    "ыкылдау",
+                    "ыкылык тоту"
+                ],
+                "Bashkir": [
+                    "икереү",
+                    "икерек тотоу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hıçkırmak",
+                    "hıçkırık tutmak"
+                ],
+                "Azerbaijani": [
+                    "hıçqırmaq",
+                    "hıçqırıq tutmaq"
+                ],
+                "Turkmen": [
+                    "hyrkyldamak",
+                    "hyrkyldy tutmak",
+                    "hyrkyldatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hiqichoq tutmoq",
+                    "hiqillamoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇتقاق تۇتماق",
+                    "تۇتقاق بولماق",
+                    "تۇتقاق تۇتۇپ قالماق"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "id": "i81796",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "state line",
+    "en_definition": "the boundary between two states",
+    "tr_word": "eyalet sınırı",
+    "tr_definition": "iki eyalet arasındaki sınır çizgisi",
+    "ru_word": "граница штата",
+    "ru_definition": "граница между двумя штатами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çäk"
+                ],
+                "Uzbek": [
+                    "chegara",
+                    "chegara chizig'i"
+                ],
+                "Uyghur": [
+                    "چېگرا سىزىقى",
+                    "چېگرا"
+                ],
+                "Kazakh": [
+                    "шекара"
+                ],
+                "Kyrgyz": [
+                    "чек ара",
+                    "чек",
+                    "чегара"
+                ],
+                "Karakalpak": [
+                    "shegara",
+                    "shek"
+                ],
+                "Tatar": [
+                    "чик",
+                    "чик сызыгы"
+                ],
+                "Bashkir": [
+                    "сиктәр",
+                    "сик"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eyalet sınırı",
+                    "devlet sınırı"
+                ],
+                "Uzbek": [
+                    "davlat chegarasi"
+                ],
+                "Uyghur": [
+                    "دۆلەت چېگرىسى"
+                ],
+                "Tatar": [
+                    "дәүләт чиге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sərhəd xətti"
+                ],
+                "Turkmen": [
+                    "serhet",
+                    "serhet çyzygy"
+                ],
+                "Uzbek": [
+                    "sarhad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hudut"
+                ],
+                "Azerbaijani": [
+                    "hüdud"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мемлекеттік шекара"
+                ],
+                "Karakalpak": [
+                    "mámleketlik shegara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dövlət sərhədi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шеп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "сик һыҙығы"
+                ]
+            }
+        }
+    ]
+}

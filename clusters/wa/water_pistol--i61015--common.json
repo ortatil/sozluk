@@ -1,0 +1,71 @@
+{
+    "id": "i61015",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water pistol",
+    "en_definition": "plaything consisting of a toy pistol that squirts water",
+    "tr_word": "su tabancası",
+    "tr_definition": "su fışkırtan oyuncak tabanca",
+    "ru_word": "водяной пистолет",
+    "ru_definition": "игрушечный пистолет, стреляющий струей воды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su tabancası",
+                    "fışkırtmalı tabanca"
+                ],
+                "Azerbaijani": [
+                    "su tapançası",
+                    "su tüfəngi"
+                ],
+                "Turkmen": [
+                    "su pistoleti",
+                    "su tüpeňi"
+                ],
+                "Uzbek": [
+                    "suv to'pponchasi"
+                ],
+                "Uyghur": [
+                    "سۇ تاپانچىسى",
+                    "سۇ ئاتار تاپانچا"
+                ],
+                "Kazakh": [
+                    "су тапаншасы",
+                    "су атқыш",
+                    "су бүріккіш"
+                ],
+                "Kyrgyz": [
+                    "суу тапанча",
+                    "суу аткыч",
+                    "суу мылтык"
+                ],
+                "Karakalpak": [
+                    "suo tapansha",
+                    "suo atqısh"
+                ],
+                "Tatar": [
+                    "су пистолеты",
+                    "су сиптергеч",
+                    "су мылтыгы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "suvotar to'pponcha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу пистолеты",
+                    "һыу атҡыс"
+                ]
+            }
+        }
+    ]
+}

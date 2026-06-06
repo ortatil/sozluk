@@ -1,0 +1,109 @@
+{
+    "id": "i51357",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cafeteria",
+    "en_definition": "a restaurant where you serve yourself and pay a cashier",
+    "tr_word": "kafeterya",
+    "tr_definition": "Yiyecek ve içeceklerin tezgahtan seçilip alındığı ve kasada ödendiği self servis restoran.",
+    "ru_word": "столовая",
+    "ru_definition": "Предприятие общественного питания с самообслуживанием, где посетители выбирают блюда и оплачивают их на кассе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşevi"
+                ],
+                "Azerbaijani": [
+                    "aşxana"
+                ],
+                "Turkmen": [
+                    "aşhana"
+                ],
+                "Uzbek": [
+                    "oshxona",
+                    "oshjoy"
+                ],
+                "Uyghur": [
+                    "ئاشخانا"
+                ],
+                "Kazakh": [
+                    "асхана"
+                ],
+                "Kyrgyz": [
+                    "ашкана"
+                ],
+                "Karakalpak": [
+                    "asxana"
+                ],
+                "Tatar": [
+                    "ашханә",
+                    "ашханә-чәйханә"
+                ],
+                "Bashkir": [
+                    "ашхана",
+                    "аш-һыу бүлмәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "taomxona"
+                ],
+                "Uyghur": [
+                    "تاماقخانا"
+                ],
+                "Kazakh": [
+                    "тамақтану орны"
+                ],
+                "Kyrgyz": [
+                    "тамаккана"
+                ],
+                "Karakalpak": [
+                    "tamaqxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemekhane"
+                ],
+                "Azerbaijani": [
+                    "yeməkxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "lokanta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kantin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mətbəx"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "naharhana"
+                ]
+            }
+        }
+    ]
+}

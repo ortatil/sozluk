@@ -1,0 +1,153 @@
+{
+    "id": "i515",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "murdered",
+    "en_definition": "killed unlawfully",
+    "tr_word": "katledilmiş",
+    "tr_definition": "hukuka aykırı bir şekilde öldürülmüş",
+    "ru_word": "убитый",
+    "ru_definition": "незаконно лишенный жизни",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "öldürülmüş"
+                ],
+                "Azerbaijani": [
+                    "öldürülmüş"
+                ],
+                "Turkmen": [
+                    "öldürilen"
+                ],
+                "Uzbek": [
+                    "oʻldirilgan"
+                ],
+                "Uyghur": [
+                    "ئۆلتۈرۈلگەن"
+                ],
+                "Kazakh": [
+                    "өлтірілген"
+                ],
+                "Kyrgyz": [
+                    "өлтүрүлгөн"
+                ],
+                "Karakalpak": [
+                    "óltirilgen"
+                ],
+                "Bashkir": [
+                    "үлтерелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "katledilmiş"
+                ],
+                "Azerbaijani": [
+                    "qətlə yetirilmiş"
+                ],
+                "Turkmen": [
+                    "katledilen"
+                ],
+                "Uzbek": [
+                    "qatlgilingan"
+                ],
+                "Uyghur": [
+                    "قەتل قىلىنغان"
+                ],
+                "Karakalpak": [
+                    "qatl etilgen"
+                ],
+                "Tatar": [
+                    "катл ителгән"
+                ],
+                "Bashkir": [
+                    "ҡатл ителгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "maktul"
+                ],
+                "Azerbaijani": [
+                    "məqtul"
+                ],
+                "Uzbek": [
+                    "maqtul"
+                ],
+                "Tatar": [
+                    "мәкътуль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "heläk edilen"
+                ],
+                "Bashkir": [
+                    "һәләк ителгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ناھەق ئۆلتۈرۈلگەن"
+                ],
+                "Karakalpak": [
+                    "naqaqtan óltirilgen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қаза тапқан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мерт болған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жазым болған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "курман болгон"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кырылган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үтерелгән"
+                ]
+            }
+        }
+    ]
+}

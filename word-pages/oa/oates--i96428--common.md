@@ -1,0 +1,110 @@
+# Oates
+| Field | Detail |
+|---|---|
+| **ID** | i96428 |
+| **English** | oates |
+| **Type** | noun |
+| **Definition** | United States writer (born in 1938) |
+| **Source** | common |
+| **Ortatil** | otes |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئوتېس | otes |
+
+```json
+{
+    "id": "i96428",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "oates",
+    "en_definition": "United States writer (born in 1938)",
+    "tr_word": "Oates",
+    "tr_definition": "Joyce Carol Oates; 1938 doğumlu Amerikalı yazar.",
+    "ru_word": "Оутс",
+    "ru_definition": "Джойс Кэрол Оутс; американская писательница (родилась в 1938 году).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Joyce Carol Oates"
+                ],
+                "Azerbaijani": [
+                    "Coys Kerol Outs"
+                ],
+                "Uyghur": [
+                    "جويس كارول ئوتېس"
+                ],
+                "Kazakh": [
+                    "Джойс Кэрол Оутс"
+                ],
+                "Kyrgyz": [
+                    "Жойс Кэрол Оутс"
+                ],
+                "Karakalpak": [
+                    "Djoys Kerol Outs"
+                ],
+                "Tatar": [
+                    "Джойс Кэрол Оутс"
+                ],
+                "Bashkir": [
+                    "Джойс Кэрол Оутс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Oates"
+                ],
+                "Uyghur": [
+                    "ئوتېس"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Amerikalı yazar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kadın yazar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yozuvchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "adiba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muallif"
+                ]
+            }
+        }
+    ]
+}
+```
+

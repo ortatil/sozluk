@@ -1,0 +1,75 @@
+{
+    "id": "i95336",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "greene",
+    "en_definition": "English novelist and Catholic (1904-1991)",
+    "tr_word": "Greene",
+    "tr_definition": "İngiliz romancı ve Katolik yazar (1904-1991)",
+    "ru_word": "Грин",
+    "ru_definition": "Английский писатель и католик (1904-1991)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Graham Greene"
+                ],
+                "Azerbaijani": [
+                    "Qrin",
+                    "Qrem Qrin"
+                ],
+                "Turkmen": [
+                    "Greham Grin"
+                ],
+                "Uzbek": [
+                    "Grin",
+                    "Grem Grin"
+                ],
+                "Uyghur": [
+                    "گراھام گىرىن"
+                ],
+                "Kazakh": [
+                    "Грин",
+                    "Грэм Грин"
+                ],
+                "Kyrgyz": [
+                    "Грин"
+                ],
+                "Karakalpak": [
+                    "Grin",
+                    "Grem Grin"
+                ],
+                "Tatar": [
+                    "Грин",
+                    "Грэм Грин"
+                ],
+                "Bashkir": [
+                    "Грин",
+                    "Грэм Грин"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گىرىن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жазуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "романист"
+                ]
+            }
+        }
+    ]
+}

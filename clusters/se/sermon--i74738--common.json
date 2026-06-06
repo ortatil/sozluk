@@ -1,0 +1,132 @@
+{
+    "id": "i74738",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sermon",
+    "en_definition": "an address of a religious nature (usually delivered during a church service)",
+    "tr_word": "vaaz",
+    "tr_definition": "Camilerde, kiliselerde veya diğer dinî mekanlarda dinî bir konuyu açıklamak, öğüt vermek amacıyla yapılan konuşma.",
+    "ru_word": "проповедь",
+    "ru_definition": "Речь религиозно-назидательного характера, произносимая в храме во время богослужения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hutbe"
+                ],
+                "Azerbaijani": [
+                    "xütbə"
+                ],
+                "Turkmen": [
+                    "hutba"
+                ],
+                "Uzbek": [
+                    "xutba"
+                ],
+                "Uyghur": [
+                    "خۇتبە"
+                ],
+                "Kazakh": [
+                    "хұтба"
+                ],
+                "Kyrgyz": [
+                    "хутба"
+                ],
+                "Karakalpak": [
+                    "xutba"
+                ],
+                "Tatar": [
+                    "хөтбә"
+                ],
+                "Bashkir": [
+                    "хөтбә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vaaz"
+                ],
+                "Azerbaijani": [
+                    "vəz"
+                ],
+                "Uzbek": [
+                    "va'z"
+                ],
+                "Uyghur": [
+                    "ۋەز"
+                ],
+                "Kyrgyz": [
+                    "вааз"
+                ],
+                "Tatar": [
+                    "вәгазь"
+                ],
+                "Bashkir": [
+                    "вәғәз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nasihat"
+                ],
+                "Azerbaijani": [
+                    "nəsihət"
+                ],
+                "Uzbek": [
+                    "nasihat"
+                ],
+                "Kazakh": [
+                    "насихат"
+                ],
+                "Kyrgyz": [
+                    "насаат"
+                ],
+                "Karakalpak": [
+                    "násiyat"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "wagyz"
+                ],
+                "Kazakh": [
+                    "уағыз"
+                ],
+                "Karakalpak": [
+                    "uaǵız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğüt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەبلىغ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "акыл-насаат"
+                ]
+            }
+        }
+    ]
+}

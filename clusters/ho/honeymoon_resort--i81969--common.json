@@ -1,0 +1,121 @@
+{
+    "id": "i81969",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "honeymoon resort",
+    "en_definition": "a resort that caters to newlyweds",
+    "tr_word": "balayı tesisi",
+    "tr_definition": "yeni evli çiftlere hizmet veren tatil yeri",
+    "ru_word": "курорт для молодоженов",
+    "ru_definition": "курорт, ориентированный на обслуживание пар, недавно вступивших в брак",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "balayı oteli",
+                    "balayı tesisi",
+                    "balayı mekanı"
+                ],
+                "Azerbaijani": [
+                    "bal ayı kurortu",
+                    "bal ayı istirahət mərkəzi",
+                    "bal ayı məkanı"
+                ],
+                "Turkmen": [
+                    "bal aýy dynç alyş merkezi"
+                ],
+                "Kazakh": [
+                    "бал айы демалыс орны",
+                    "бал айы шипажайы"
+                ],
+                "Kyrgyz": [
+                    "бал айы өткөрүлүүчү жай",
+                    "бал айы эс алуу жайы"
+                ],
+                "Karakalpak": [
+                    "bal ayı dem alıs ornı",
+                    "bal ayı kurortı"
+                ],
+                "Tatar": [
+                    "бал ае ял йорты",
+                    "бал ае ял итү урыны"
+                ],
+                "Bashkir": [
+                    "бал айы үткәреү урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "täze öýlenenleriň dynç alyş merkezi"
+                ],
+                "Tatar": [
+                    "яңа өйләнешүчеләр өчен ял йорты"
+                ],
+                "Bashkir": [
+                    "яңы өйләнешкәндәр өсөн ял йорто"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жас жұбайлар демалыс орны"
+                ],
+                "Karakalpak": [
+                    "jas jubaylar dem alıs ornı"
+                ],
+                "Bashkir": [
+                    "йәш парҙар өсөн ял йорто"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nikah dynç alyş ýeri"
+                ],
+                "Uyghur": [
+                    "نىكاھ سەپىرى ئارامگاھى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asal oyi maskani",
+                    "asal oyi oromgohi",
+                    "asal oyi dam olish maskani"
+                ],
+                "Uyghur": [
+                    "ھەسەل ئېيى ئارامگاھى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kelin-kuyovlar maskani"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېڭى توي قىلغانلار ئارامگاھى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жаңы үйлөнгөндөр үчүн эс алуу жайы"
+                ]
+            }
+        }
+    ]
+}

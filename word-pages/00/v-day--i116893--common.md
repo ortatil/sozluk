@@ -1,0 +1,135 @@
+# V-day
+| Field | Detail |
+|---|---|
+| **ID** | i116893 |
+| **English** | v-day |
+| **Type** | noun |
+| **Definition** | the day of a victory |
+| **Source** | common |
+| **Ortatil** | bayram |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| мереке | mereke |
+
+```json
+{
+    "id": "i116893",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "v-day",
+    "en_definition": "the day of a victory",
+    "tr_word": "zafer günü",
+    "tr_definition": "bir zaferin kazanıldığı gün",
+    "ru_word": "день победы",
+    "ru_definition": "день, в который была одержана победа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zafer günü"
+                ],
+                "Azerbaijani": [
+                    "zəfər günü"
+                ],
+                "Turkmen": [
+                    "zapar güni"
+                ],
+                "Uzbek": [
+                    "zafar kuni"
+                ],
+                "Uyghur": [
+                    "زەپەر كۈنى"
+                ],
+                "Kyrgyz": [
+                    "зафар күнү"
+                ],
+                "Karakalpak": [
+                    "zápár kúni"
+                ],
+                "Tatar": [
+                    "зафер көне"
+                ],
+                "Bashkir": [
+                    "зәфәр көнө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "galibiyet günü"
+                ],
+                "Azerbaijani": [
+                    "qələbə günü"
+                ],
+                "Turkmen": [
+                    "galaba güni"
+                ],
+                "Uzbek": [
+                    "g'alaba kuni"
+                ],
+                "Uyghur": [
+                    "غەلىبە كۈنى"
+                ],
+                "Tatar": [
+                    "галләбә көне"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýeňiş güni"
+                ],
+                "Kazakh": [
+                    "жеңіс күні"
+                ],
+                "Kyrgyz": [
+                    "жеңиш күнү"
+                ],
+                "Karakalpak": [
+                    "jeńis kúni"
+                ],
+                "Tatar": [
+                    "җиңү көне"
+                ],
+                "Bashkir": [
+                    "еңеү көнө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bayram"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "fath kuni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мереке"
+                ]
+            }
+        }
+    ]
+}
+```
+

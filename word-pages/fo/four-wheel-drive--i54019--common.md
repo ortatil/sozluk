@@ -1,0 +1,134 @@
+# Four-wheel drive
+| Field | Detail |
+|---|---|
+| **ID** | i54019 |
+| **English** | four-wheel drive |
+| **Type** | noun |
+| **Definition** | a motor vehicle with a four-wheel drive transmission system |
+| **Source** | common |
+| **Ortatil** | yöltänlämäz |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i54019",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "four-wheel drive",
+    "en_definition": "a motor vehicle with a four-wheel drive transmission system",
+    "tr_word": "dört çeker",
+    "tr_definition": "gücün dört tekerleğe birden iletildiği bir şanzıman sistemine sahip motorlu araç",
+    "ru_word": "полноприводный автомобиль",
+    "ru_definition": "транспортное средство, у которого крутящий момент двигателя передается на все четыре колеса",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dört çeker"
+                ],
+                "Azerbaijani": [
+                    "dörd çəkərli"
+                ],
+                "Turkmen": [
+                    "dört çarhly",
+                    "dört çekerli"
+                ],
+                "Uzbek": [
+                    "to'rt g'ildirakli"
+                ],
+                "Uyghur": [
+                    "تۆت چاقلىق قوزغاتقۇچ",
+                    "تۆت چاقلىق ماشىنا",
+                    "تۆت چاقلىق تارتىش كۈچى"
+                ],
+                "Kazakh": [
+                    "төрт дөңгелегі де тартатын көлік"
+                ],
+                "Kyrgyz": [
+                    "төрт дөңгөлөгү тең тартуучу унаа"
+                ],
+                "Karakalpak": [
+                    "tórt dóńgelegi de júretuǵın kólik"
+                ],
+                "Tatar": [
+                    "дүрт тәгәрмәче дә тартучы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'la tortuvchi"
+                ],
+                "Karakalpak": [
+                    "tolıq jetekli kólik"
+                ],
+                "Tatar": [
+                    "тулы куәтле машина"
+                ],
+                "Bashkir": [
+                    "тулы приводлы автомобиль"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yolsuzluq avtomobili"
+                ],
+                "Kazakh": [
+                    "жол талғамайтын көлік"
+                ],
+                "Kyrgyz": [
+                    "жол тандабас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yo'ltanlamas"
+                ],
+                "Bashkir": [
+                    "юлһыҙ ерҙән йөрөүсе машина"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arazi aracı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tam ötürücülü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ähli çarhy çekiji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "барлык тәгәрмәчләре тартучы"
+                ]
+            }
+        }
+    ]
+}
+```
+

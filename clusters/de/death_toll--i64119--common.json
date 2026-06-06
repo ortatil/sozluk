@@ -1,0 +1,160 @@
+{
+    "id": "i64119",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "death toll",
+    "en_definition": "the number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster",
+    "tr_word": "ölü sayısı",
+    "tr_definition": "bir kaza, savaş veya doğal afet gibi belirli bir olay sonucunda hayatını kaybedenlerin toplam sayısı",
+    "ru_word": "число жертв",
+    "ru_definition": "общее количество погибших в результате какого-либо происшествия, такого как авария, сражение или стихийное бедствие",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ölü sayısı"
+                ],
+                "Azerbaijani": [
+                    "ölü sayı",
+                    "ölənlərin sayı"
+                ],
+                "Turkmen": [
+                    "ölüm sany"
+                ],
+                "Uzbek": [
+                    "o'limlar soni"
+                ],
+                "Uyghur": [
+                    "ئۆلۈم سانى"
+                ],
+                "Kazakh": [
+                    "өлім-жітім саны"
+                ],
+                "Kyrgyz": [
+                    "өлгөндөрдүн саны"
+                ],
+                "Karakalpak": [
+                    "ólip-jitim sanı",
+                    "ólip-óshkenler sanı"
+                ],
+                "Tatar": [
+                    "үлүчеләр саны"
+                ],
+                "Bashkir": [
+                    "үлгәндәр һаны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qurbonlar soni"
+                ],
+                "Kazakh": [
+                    "құрбандар саны"
+                ],
+                "Kyrgyz": [
+                    "курмандыктардын саны",
+                    "курман болгондордун саны"
+                ],
+                "Karakalpak": [
+                    "qurbanlar sanı"
+                ],
+                "Tatar": [
+                    "корбаннар саны"
+                ],
+                "Bashkir": [
+                    "ҡорбандар һаны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "telefat"
+                ],
+                "Azerbaijani": [
+                    "tələfat"
+                ],
+                "Uzbek": [
+                    "talofat miqdori"
+                ],
+                "Uyghur": [
+                    "تەلەپات سانى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pida bolanlaryň sany"
+                ],
+                "Kazakh": [
+                    "қаза болғандар саны"
+                ],
+                "Kyrgyz": [
+                    "каза болгондордун саны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "halok bo'lganlar soni"
+                ],
+                "Tatar": [
+                    "һәлак булучылар саны"
+                ],
+                "Bashkir": [
+                    "һәләк булғандар һаны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "can kaybı"
+                ],
+                "Turkmen": [
+                    "jan pidalary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vefat sayısı"
+                ],
+                "Turkmen": [
+                    "wepat bolanlaryň sany"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "itki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قازا قىلغانلار سانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шығын мөлшері"
+                ]
+            }
+        }
+    ]
+}

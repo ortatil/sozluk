@@ -1,0 +1,107 @@
+{
+    "id": "i32323",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "air out",
+    "en_definition": "expose to fresh air",
+    "tr_word": "havalandırmak",
+    "tr_definition": "Bir yerin veya bir şeyin temiz hava almasını sağlamak",
+    "ru_word": "проветривать",
+    "ru_definition": "выставлять на свежий воздух для очищения или освежения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yelletmek"
+                ],
+                "Azerbaijani": [
+                    "yelə vermək"
+                ],
+                "Turkmen": [
+                    "ýellendirmek"
+                ],
+                "Kazakh": [
+                    "желдету",
+                    "жел қақтыру"
+                ],
+                "Kyrgyz": [
+                    "желдетүү"
+                ],
+                "Karakalpak": [
+                    "jeldetu"
+                ],
+                "Tatar": [
+                    "җилләтү"
+                ],
+                "Bashkir": [
+                    "елләтеү",
+                    "елгә сығарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "havalandırmak",
+                    "hava aldırmak"
+                ],
+                "Azerbaijani": [
+                    "havalandırmaq",
+                    "havasını dəyişmək"
+                ],
+                "Turkmen": [
+                    "howalandyrmak",
+                    "howasyny çalyşmak"
+                ],
+                "Uzbek": [
+                    "havolantirmoq",
+                    "havosini almashtirmoq"
+                ],
+                "Uyghur": [
+                    "ھاۋا ئالماشتۇرماق",
+                    "ھاۋا يەلدەتمەك"
+                ],
+                "Tatar": [
+                    "һаваландыру"
+                ],
+                "Bashkir": [
+                    "һауаландырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shamollatmoq"
+                ],
+                "Uyghur": [
+                    "شاماللاتماق"
+                ],
+                "Karakalpak": [
+                    "samallatıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ауаландыру"
+                ],
+                "Kyrgyz": [
+                    "абалантуу",
+                    "абага чыгаруу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ashıq haoaǵa shıǵarıo"
+                ]
+            }
+        }
+    ]
+}

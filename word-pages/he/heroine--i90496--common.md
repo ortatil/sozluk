@@ -1,0 +1,162 @@
+# Heroine
+| Field | Detail |
+|---|---|
+| **ID** | i90496 |
+| **English** | heroine |
+| **Type** | noun |
+| **Definition** | a woman possessing heroic qualities or a woman who has performed heroic deeds |
+| **Source** | common |
+| **Ortatil** | alp |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| алпбикә | alpbikä |
+
+```json
+{
+    "id": "i90496",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "heroine",
+    "en_definition": "a woman possessing heroic qualities or a woman who has performed heroic deeds",
+    "tr_word": "kahraman kadın",
+    "tr_definition": "kahramanca niteliklere sahip olan veya kahramanca işler başarmış kadın",
+    "ru_word": "героиня",
+    "ru_definition": "женщина, обладающая героическими качествами или совершившая героический поступок",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kadın kahraman"
+                ],
+                "Azerbaijani": [
+                    "qəhrəman qadın"
+                ],
+                "Turkmen": [
+                    "gahryman aýal"
+                ],
+                "Uzbek": [
+                    "qahramon ayol"
+                ],
+                "Uyghur": [
+                    "قەھرىمان ئايال"
+                ],
+                "Kazakh": [
+                    "қаһарман әйел"
+                ],
+                "Kyrgyz": [
+                    "каарман аял"
+                ],
+                "Karakalpak": [
+                    "qaharman hayal"
+                ],
+                "Tatar": [
+                    "каһарман хатын"
+                ],
+                "Bashkir": [
+                    "ҡаһарман ҡатын",
+                    "ҡаһарман ҡыҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "botir ayol"
+                ],
+                "Uyghur": [
+                    "باتۇر ئايال"
+                ],
+                "Kazakh": [
+                    "батыр қыз"
+                ],
+                "Kyrgyz": [
+                    "баатыр кыз"
+                ],
+                "Karakalpak": [
+                    "batır hayal"
+                ],
+                "Tatar": [
+                    "батыр хатын"
+                ],
+                "Bashkir": [
+                    "батыр ҡатын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alp"
+                ],
+                "Azerbaijani": [
+                    "alp qadın"
+                ],
+                "Turkmen": [
+                    "alp gyz"
+                ],
+                "Tatar": [
+                    "алпбикә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yiğit kadın"
+                ],
+                "Azerbaijani": [
+                    "igid qadın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pälwan"
+                ],
+                "Karakalpak": [
+                    "paluan hayal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pahlavon ayol"
+                ],
+                "Uyghur": [
+                    "پەھلىۋان ئايال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ержүрек әйел"
+                ],
+                "Kyrgyz": [
+                    "эр жүрөк аял"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mücahide"
+                ]
+            }
+        }
+    ]
+}
+```
+

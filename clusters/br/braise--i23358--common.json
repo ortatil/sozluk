@@ -1,0 +1,141 @@
+{
+    "id": "i23358",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "braise",
+    "en_definition": "cook in liquid",
+    "tr_word": "kısık ateşte az suyla pişirmek",
+    "tr_definition": "eti veya sebzeyi önce mühürleyip sonra az miktarda sıvı içinde, kapağı kapalı olarak yavaşça pişirmek",
+    "ru_word": "тушить",
+    "ru_definition": "готовить пищу в небольшом количестве жидкости под крышкой на медленном огне",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buğulamak"
+                ],
+                "Azerbaijani": [
+                    "buğlamaq"
+                ],
+                "Turkmen": [
+                    "buglamak"
+                ],
+                "Uzbek": [
+                    "boʻgʻlamoq"
+                ],
+                "Uyghur": [
+                    "بۇقتۇرماق"
+                ],
+                "Kazakh": [
+                    "бұқтыру"
+                ],
+                "Kyrgyz": [
+                    "буктоо"
+                ],
+                "Karakalpak": [
+                    "bұqtıru"
+                ],
+                "Tatar": [
+                    "бөкерү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "demlemek"
+                ],
+                "Azerbaijani": [
+                    "dəmə qoymaq"
+                ],
+                "Turkmen": [
+                    "demlemek"
+                ],
+                "Uzbek": [
+                    "dimlamoq"
+                ],
+                "Uyghur": [
+                    "دۈملەپ پىشۇرماق",
+                    "دۈملىمەك"
+                ],
+                "Kazakh": [
+                    "демдеу"
+                ],
+                "Kyrgyz": [
+                    "демдөө"
+                ],
+                "Karakalpak": [
+                    "demleu"
+                ],
+                "Tatar": [
+                    "димләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pişirmek"
+                ],
+                "Turkmen": [
+                    "bişirmek"
+                ],
+                "Kyrgyz": [
+                    "бышыруу"
+                ],
+                "Karakalpak": [
+                    "pіsіru"
+                ],
+                "Tatar": [
+                    "пешерү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қайнату"
+                ],
+                "Kyrgyz": [
+                    "кайнатуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "быктыру"
+                ],
+                "Bashkir": [
+                    "быҡтырыу",
+                    "быҡтырып бешереү",
+                    "быҡтырып алыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "haşlamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "pörtlətmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "past olovda pishirmoq"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "id": "i111543",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "heat exhaustion",
+    "en_definition": "a condition marked by dizziness and nausea and weakness caused by depletion of body fluids and electrolytes",
+    "tr_word": "sıcak bitkinliği",
+    "tr_definition": "vücut sıvılarının ve elektrolitlerin kaybı nedeniyle oluşan, baş dönmesi, mide bulantısı ve halsizlik ile karakterize bir durum",
+    "ru_word": "тепловое истощение",
+    "ru_definition": "состояние, характеризующееся головокружением, тошнотой и слабостью, вызванное потерей жидкости и электролитов в организме",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "istivurma"
+                ],
+                "Turkmen": [
+                    "yssy urmasy",
+                    "yssy geçmesi"
+                ],
+                "Uzbek": [
+                    "issiq urishi"
+                ],
+                "Uyghur": [
+                    "ئىسسىق ئۆتۈپ كېتىش",
+                    "ئىسسىق ئۇرۇش",
+                    "ئىسسىق زەخمىسى"
+                ],
+                "Kazakh": [
+                    "ыстық өту",
+                    "ыстық соғу"
+                ],
+                "Kyrgyz": [
+                    "ысык уруу",
+                    "ысыктан алсыроо"
+                ],
+                "Karakalpak": [
+                    "ıstıq ótu",
+                    "ıstıq soǵu"
+                ],
+                "Tatar": [
+                    "эссе сугу"
+                ],
+                "Bashkir": [
+                    "эҫе ҡабыу",
+                    "эҫе һуғыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "günvurma"
+                ],
+                "Turkmen": [
+                    "gün urmasy"
+                ],
+                "Kazakh": [
+                    "күн өту"
+                ],
+                "Kyrgyz": [
+                    "күн өтүү"
+                ],
+                "Karakalpak": [
+                    "kún ótu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hararet basması"
+                ],
+                "Azerbaijani": [
+                    "hərarətdən taqətdən düşmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "holsizlik"
+                ],
+                "Tatar": [
+                    "хәлсезләнү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıcak çarpması",
+                    "sıcak bitkinliği",
+                    "sıcak fenalığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oftob urishi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "behol bo'lish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кояш сугу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡыҙыу ҡабыу"
+                ]
+            }
+        }
+    ]
+}

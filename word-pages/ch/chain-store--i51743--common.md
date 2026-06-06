@@ -1,0 +1,157 @@
+# Chain store
+| Field | Detail |
+|---|---|
+| **ID** | i51743 |
+| **English** | chain store |
+| **Type** | noun |
+| **Definition** | one of a chain of retail stores under the same management and selling the same merchandise |
+| **Source** | common |
+| **Ortatil** | şahabça |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i51743",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chain store",
+    "en_definition": "one of a chain of retail stores under the same management and selling the same merchandise",
+    "tr_word": "zincir mağaza",
+    "tr_definition": "Aynı yönetim altında bulunan ve aynı tür ürünleri satan çok sayıdaki perakende satış mağazasından her biri.",
+    "ru_word": "сетевой магазин",
+    "ru_definition": "Один из группы розничных магазинов, находящихся под общим управлением и торгующих аналогичными товарами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tarmoqli do'kon"
+                ],
+                "Uyghur": [
+                    "تارماق دۇكان"
+                ],
+                "Kyrgyz": [
+                    "тармактуу дүкөн"
+                ],
+                "Karakalpak": [
+                    "tarmaqlı dúkyan",
+                    "tarmaqlanǵan dúkyan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zincir mağaza",
+                    "mağazalar zinciri"
+                ],
+                "Azerbaijani": [
+                    "şəbəkə mağazası",
+                    "mağazalar şəbəkəsi"
+                ],
+                "Bashkir": [
+                    "магазиндар селтәре"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "желілік дүкен"
+                ],
+                "Tatar": [
+                    "челтәрле кибет"
+                ],
+                "Bashkir": [
+                    "селтәрле магазиндар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şahaly dükan"
+                ],
+                "Uzbek": [
+                    "shoxobcha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сауда желісі"
+                ],
+                "Kyrgyz": [
+                    "соода тармагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "дүкөндөр тармагы"
+                ],
+                "Karakalpak": [
+                    "dúkyanlar tarmaǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şube"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "setli dükan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ulgamly dükan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tizimli do'kon"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زەنجىرسىمان دۇكان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىر تۇتاش باشقۇرۇلىدىغان دۇكان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кибетләр челтәре"
+                ]
+            }
+        }
+    ]
+}
+```
+

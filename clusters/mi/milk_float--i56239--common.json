@@ -1,0 +1,79 @@
+{
+    "id": "i56239",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "milk float",
+    "en_definition": "a van (typically powered by electricity) with an open side that is used to deliver milk to houses",
+    "tr_word": "süt kamyoneti",
+    "tr_definition": "evlere süt dağıtmak için kullanılan, genellikle elektrikle çalışan ve yanları açık olan küçük kamyonet.",
+    "ru_word": "молочный фургон",
+    "ru_definition": "небольшой грузовик (обычно электрический) с открытыми бортами, предназначенный для доставки молока на дом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "süt kamyoneti",
+                    "süt dağıtım aracı"
+                ],
+                "Azerbaijani": [
+                    "süd daşıyan maşın",
+                    "süd paylayan maşın",
+                    "süd arabası"
+                ],
+                "Turkmen": [
+                    "süýt ulagy",
+                    "süýt paýlaýan ulag",
+                    "süýt arabasy"
+                ],
+                "Uzbek": [
+                    "sut tashigich"
+                ],
+                "Kazakh": [
+                    "сүт тасушы көлік",
+                    "сүт көлігі"
+                ],
+                "Kyrgyz": [
+                    "сүт ташуучу унаа",
+                    "сүт ташуучу машина",
+                    "сүт ташыгыч"
+                ],
+                "Karakalpak": [
+                    "sút tasıytuǵın mashina",
+                    "sút jetkerip berioshi kólik"
+                ],
+                "Tatar": [
+                    "сөт ташучы машина",
+                    "сөт ташучы йөк машинасы",
+                    "сөт ташучы транспорт"
+                ],
+                "Bashkir": [
+                    "һөт ташыусы машина",
+                    "һөт ташыусы арба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "süt arabası"
+                ],
+                "Uyghur": [
+                    "سۈت يەتكۈزۈش ماشىنىسى",
+                    "سۈت توشۇش ماشىنىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sut tashuvchi mashina",
+                    "sut yetkazuvchi ulov"
+                ],
+                "Kazakh": [
+                    "сүт жеткізуші арба"
+                ]
+            }
+        }
+    ]
+}

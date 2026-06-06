@@ -1,0 +1,141 @@
+{
+    "id": "i7648",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "banned",
+    "en_definition": "forbidden by law",
+    "tr_word": "yasaklı",
+    "tr_definition": "kanun veya yetkili merciler tarafından yapılması engellenmiş olan",
+    "ru_word": "запрещенный",
+    "ru_definition": "недопустимый по закону или правилам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "haram"
+                ],
+                "Uyghur": [
+                    "ھارام"
+                ],
+                "Kazakh": [
+                    "харам"
+                ],
+                "Kyrgyz": [
+                    "арам"
+                ],
+                "Karakalpak": [
+                    "xaram"
+                ],
+                "Tatar": [
+                    "хәрәм"
+                ],
+                "Bashkir": [
+                    "харам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тыйым салынған"
+                ],
+                "Kyrgyz": [
+                    "тыюу салынган",
+                    "тыйылган"
+                ],
+                "Karakalpak": [
+                    "tıyım salınǵan"
+                ],
+                "Tatar": [
+                    "тыелган"
+                ],
+                "Bashkir": [
+                    "тыйылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "memnu"
+                ],
+                "Azerbaijani": [
+                    "məmnun"
+                ],
+                "Uzbek": [
+                    "mamnu"
+                ],
+                "Bashkir": [
+                    "мәмнүғ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "man etilgan"
+                ],
+                "Uyghur": [
+                    "مەنئى قىلىنغان"
+                ],
+                "Karakalpak": [
+                    "máni etilgen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yasak",
+                    "yasaklanmış"
+                ],
+                "Azerbaijani": [
+                    "yasaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qadağan"
+                ],
+                "Turkmen": [
+                    "gadagan",
+                    "gadagan edilen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "taqiqlangan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چەكلەنگەن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "рұқсатсыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мәхрүм"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "id": "i18670",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "quickest",
+    "en_definition": "most quickly",
+    "tr_word": "en çabuk",
+    "tr_definition": "en hızlı şekilde, en kısa sürede",
+    "ru_word": "быстрее всего",
+    "ru_definition": "наиболее быстро, в кратчайшие сроки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "en çabuk",
+                    "en hızlı",
+                    "en süratli",
+                    "en tez"
+                ],
+                "Azerbaijani": [
+                    "ən tez",
+                    "ən cəld",
+                    "ən iti"
+                ],
+                "Turkmen": [
+                    "iň çalt",
+                    "iň tiz"
+                ],
+                "Uzbek": [
+                    "eng tez"
+                ],
+                "Uyghur": [
+                    "ئەڭ تېز",
+                    "ئەڭ ئىتتىك"
+                ],
+                "Kazakh": [
+                    "ең тез",
+                    "ең жылдам",
+                    "ең шапшаң"
+                ],
+                "Kyrgyz": [
+                    "эң тез",
+                    "эң ылдам",
+                    "эң бат"
+                ],
+                "Karakalpak": [
+                    "eń tez",
+                    "eń shapshań",
+                    "eń jedel"
+                ],
+                "Tatar": [
+                    "иң тиз",
+                    "иң кызу"
+                ],
+                "Bashkir": [
+                    "иң тиҙ",
+                    "иң ҡыҙыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ən sürətli"
+                ],
+                "Turkmen": [
+                    "iň ýüwrük"
+                ],
+                "Bashkir": [
+                    "иң йылдам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eng jadal",
+                    "eng chaqqon",
+                    "eng shitob"
+                ],
+                "Uyghur": [
+                    "ئەڭ چاققان"
+                ],
+                "Tatar": [
+                    "иң чапсан"
+                ]
+            }
+        }
+    ]
+}

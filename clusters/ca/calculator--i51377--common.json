@@ -1,0 +1,81 @@
+{
+    "id": "i51377",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "calculator",
+    "en_definition": "a small machine that is used for mathematical calculations",
+    "tr_word": "hesap makinesi",
+    "tr_definition": "matematiksel hesaplamalar yapmak için kullanılan küçük bir cihaz",
+    "ru_word": "калькулятор",
+    "ru_definition": "небольшое электронное устройство для выполнения математических вычислений",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesap makinesi"
+                ],
+                "Azerbaijani": [
+                    "hesablayıcı",
+                    "hesab maşını"
+                ],
+                "Turkmen": [
+                    "hasaplaýjy",
+                    "hasap maşyny"
+                ],
+                "Uzbek": [
+                    "hisoblagich",
+                    "hisoblagich asbob",
+                    "hisob mashinasi"
+                ],
+                "Uyghur": [
+                    "ھېسابلىغۇچ",
+                    "ھېسابلاش ماشىنىسى"
+                ],
+                "Karakalpak": [
+                    "esaplaǵısh"
+                ],
+                "Tatar": [
+                    "хисаплагыч",
+                    "хисап машинасы"
+                ],
+                "Bashkir": [
+                    "хисаплағыс",
+                    "хисаплау ҡоролмаһы",
+                    "хисап машинаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "есептегіш",
+                    "есепшот",
+                    "есептеуіш"
+                ],
+                "Kyrgyz": [
+                    "эсептегич",
+                    "эсептөөчү"
+                ],
+                "Karakalpak": [
+                    "esapshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sayılayıcı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "санагыч"
+                ]
+            }
+        }
+    ]
+}

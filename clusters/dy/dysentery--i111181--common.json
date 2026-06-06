@@ -1,0 +1,130 @@
+{
+    "id": "i111181",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dysentery",
+    "en_definition": "an infection of the intestines marked by severe diarrhea",
+    "tr_word": "dizanteri",
+    "tr_definition": "şiddetli ishal ile karakterize edilen bir bağırsak enfeksiyonu",
+    "ru_word": "дизентерия",
+    "ru_definition": "инфекционное заболевание кишечника, сопровождающееся сильной диареей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kanlı ishal"
+                ],
+                "Azerbaijani": [
+                    "qanlı ishal"
+                ],
+                "Turkmen": [
+                    "ganly içgeçme"
+                ],
+                "Uzbek": [
+                    "qonli ichketar"
+                ],
+                "Kazakh": [
+                    "қантышқақ"
+                ],
+                "Kyrgyz": [
+                    "кан өткөк"
+                ],
+                "Karakalpak": [
+                    "qantısh"
+                ],
+                "Tatar": [
+                    "канлы эч"
+                ],
+                "Bashkir": [
+                    "ҡанлы эч"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "içgetmə"
+                ],
+                "Turkmen": [
+                    "içgeçme",
+                    "içagyry"
+                ],
+                "Uzbek": [
+                    "ichburug'"
+                ],
+                "Uyghur": [
+                    "ئىچ ئۆتۈش",
+                    "ئىچ سۈرۈش",
+                    "ئىچ ئاغرىقى"
+                ],
+                "Kyrgyz": [
+                    "ич өткөк",
+                    "ич оору"
+                ],
+                "Tatar": [
+                    "эч китү"
+                ],
+                "Bashkir": [
+                    "эч китеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ішөту",
+                    "іш ауруы"
+                ],
+                "Karakalpak": [
+                    "ish ótio",
+                    "ish ketio"
+                ],
+                "Tatar": [
+                    "эч авыруы"
+                ],
+                "Bashkir": [
+                    "эч һыҙлау",
+                    "эч ауырыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dizanteri"
+                ],
+                "Azerbaijani": [
+                    "dizenteriya"
+                ],
+                "Uzbek": [
+                    "dizenteriya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "amel-i hılti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qarın ağrısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "زەھەرلىك ئىچ ئۆتۈش"
+                ]
+            }
+        }
+    ]
+}

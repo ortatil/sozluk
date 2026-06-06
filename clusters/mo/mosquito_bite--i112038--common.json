@@ -1,0 +1,95 @@
+{
+    "id": "i112038",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mosquito bite",
+    "en_definition": "a sting inflicted by a mosquito",
+    "tr_word": "sivrisinek ısırığı",
+    "tr_definition": "bir sivrisinek tarafından sokulma sonucu oluşan yara veya kaşıntı",
+    "ru_word": "укус комара",
+    "ru_definition": "укол или укус, нанесенный комаром",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sivrisinek ısırığı",
+                    "sivrisinek sokması"
+                ],
+                "Uzbek": [
+                    "chivin chaqishi",
+                    "chivin nishi",
+                    "chivin jarohati"
+                ],
+                "Kyrgyz": [
+                    "чийркей чаккан жер",
+                    "чийркейдин чагуусу",
+                    "чийркей чагуу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پاشا چېقىۋېلىشى",
+                    "پاشا چېقىشى",
+                    "پاشا زەخمىسى"
+                ],
+                "Kazakh": [
+                    "маса шағуы"
+                ],
+                "Karakalpak": [
+                    "masa shaǵıuı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çybyn çakmasy",
+                    "çybyn dişlemesi"
+                ],
+                "Karakalpak": [
+                    "shıbın shaǵıuı",
+                    "shıbınnıń shaǵıuı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "черки чагу",
+                    "черки тешләве"
+                ],
+                "Bashkir": [
+                    "серәкәй сағыуы",
+                    "серәкәй тешләүе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ağcaqanad sancması",
+                    "ağcaqanad dişləməsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mığmığa sancması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "масаның шағуы",
+                    "масаның тістеуі"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "i12109",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one hundred fifteen",
+    "en_definition": "being five more than one hundred ten",
+    "tr_word": "yüz on beş",
+    "tr_definition": "yüz ondan beş fazla olan sayı",
+    "ru_word": "сто пятнадцать",
+    "ru_definition": "число, на пять большее, чем сто десять",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz on beş"
+                ],
+                "Azerbaijani": [
+                    "yüz on beş"
+                ],
+                "Turkmen": [
+                    "ýüz on bäş"
+                ],
+                "Uzbek": [
+                    "yuz o'n besh"
+                ],
+                "Uyghur": [
+                    "يۈز ئون بەش"
+                ],
+                "Kazakh": [
+                    "жүз он бес"
+                ],
+                "Kyrgyz": [
+                    "жүз он беш"
+                ],
+                "Karakalpak": [
+                    "júz on bes"
+                ],
+                "Tatar": [
+                    "йөз унбиш",
+                    "йөз ун биш"
+                ],
+                "Bashkir": [
+                    "йөҙ ун биш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bir yuz o'n besh"
+                ]
+            }
+        }
+    ]
+}

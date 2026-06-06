@@ -1,0 +1,90 @@
+{
+    "id": "i533",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "alphabetized",
+    "en_definition": "having been put in alphabetical order",
+    "tr_word": "alfabetik",
+    "tr_definition": "alfabe sırasına göre dizilmiş olan",
+    "ru_word": "алфавитный",
+    "ru_definition": "расположенный в алфавитном порядке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alfabetik",
+                    "elifba sırasına göre",
+                    "alfabe sırasına konmuş"
+                ],
+                "Azerbaijani": [
+                    "əlifba sırasına salınmış",
+                    "əlifba üzrə düzülmüş",
+                    "əlifba tərtibli"
+                ],
+                "Turkmen": [
+                    "elipbiý tertibindäki",
+                    "elipbiý boýunça",
+                    "elipbiýleşdirilen"
+                ],
+                "Uzbek": [
+                    "alifbo tartibidagi",
+                    "alifbo boʻyicha tartiblangan",
+                    "alifbolangan"
+                ],
+                "Uyghur": [
+                    "ئېلىپبە تەرتىپىدىكى",
+                    "ئېلىپبە بويىچە تىزىلغان",
+                    "ئېلىپبەلىك"
+                ],
+                "Kazakh": [
+                    "әліпбиленген",
+                    "әліпбилік",
+                    "әліпби ретімен",
+                    "әліпби бойынша"
+                ],
+                "Kyrgyz": [
+                    "алиппе ирети менен тизилген",
+                    "алфавит тартибиндеги"
+                ],
+                "Karakalpak": [
+                    "álipbe boyınsha tizilgen",
+                    "álipbelik tártiptegi",
+                    "álipbelengen"
+                ],
+                "Tatar": [
+                    "әлифбалы",
+                    "әлифба тәртибендәге"
+                ],
+                "Bashkir": [
+                    "әлифба тәртибендәге",
+                    "әлифбалы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәреф тәртибендәге"
+                ],
+                "Bashkir": [
+                    "хәреф тәртибендәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıralanmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "иреттелген"
+                ]
+            }
+        }
+    ]
+}

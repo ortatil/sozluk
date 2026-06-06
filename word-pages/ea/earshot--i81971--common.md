@@ -1,0 +1,165 @@
+# Earshot
+| Field | Detail |
+|---|---|
+| **ID** | i81971 |
+| **English** | earshot |
+| **Type** | noun |
+| **Definition** | the range within which a voice can be heard |
+| **Source** | common |
+| **Ortatil** | işetim |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| угум | ugum |
+| **Tatar** | |
+| ишетем | işetem |
+
+```json
+{
+    "id": "i81971",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "earshot",
+    "en_definition": "the range within which a voice can be heard",
+    "tr_word": "duyum mesafesi",
+    "tr_definition": "bir sesin duyulabileceği uzaklık alanı",
+    "ru_word": "предел слышимости",
+    "ru_definition": "расстояние, на котором можно услышать голос",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tovush yetadigan joy"
+                ],
+                "Uyghur": [
+                    "ئاۋاز يېتىدىغان يەر"
+                ],
+                "Kazakh": [
+                    "дауыс жетер жер"
+                ],
+                "Karakalpak": [
+                    "dauıs esitiler jer"
+                ],
+                "Tatar": [
+                    "тавыш җитәрлек җир"
+                ],
+                "Bashkir": [
+                    "тауыш етерлек ер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ses mesafesi",
+                    "ses erimi"
+                ],
+                "Azerbaijani": [
+                    "səs məsafəsi",
+                    "səs mənzili"
+                ],
+                "Turkmen": [
+                    "ses ýeter",
+                    "ses ýetim",
+                    "ses ýetjek ýer"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kulak erimi"
+                ],
+                "Kazakh": [
+                    "құлақ естір жер"
+                ],
+                "Kyrgyz": [
+                    "угулар жер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eshitish masofasi",
+                    "eshitish oralig'i"
+                ],
+                "Tatar": [
+                    "ишетелерлек җир",
+                    "ишетем"
+                ],
+                "Bashkir": [
+                    "ишетелерлек ер",
+                    "ишетелерлек алыҫлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duyum mesafesi"
+                ],
+                "Kyrgyz": [
+                    "угум жер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səs yetən yer",
+                    "səs eşidilən yer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاۋاز يەتكۈدەك يەر",
+                    "ئاۋاز يېتىدىغان ئارىلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "естілер жер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "угум"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үн жетер жер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dauıs jeter jer",
+                    "dauıs jetim"
+                ]
+            }
+        }
+    ]
+}
+```
+

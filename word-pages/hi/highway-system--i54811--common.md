@@ -1,0 +1,191 @@
+# Highway system
+| Field | Detail |
+|---|---|
+| **ID** | i54811 |
+| **English** | highway system |
+| **Type** | noun |
+| **Definition** | a transportation system consisting of roads for motor transport |
+| **Source** | common |
+| **Ortatil** | karayolları |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i54811",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "highway system",
+    "en_definition": "a transportation system consisting of roads for motor transport",
+    "tr_word": "karayolu sistemi",
+    "tr_definition": "motorlu taşıt ulaşımı için yollardan oluşan bir ulaşım sistemi",
+    "ru_word": "система автомобильных дорог",
+    "ru_definition": "транспортная система, состоящая из дорог для автомобильного транспорта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yol şebekesi"
+                ],
+                "Azerbaijani": [
+                    "yol şəbəkəsi",
+                    "yol sistemi"
+                ],
+                "Turkmen": [
+                    "ýollar ulgamy"
+                ],
+                "Uzbek": [
+                    "yo'l tizimi",
+                    "yo'l xo'jaligi"
+                ],
+                "Uyghur": [
+                    "يول تورى"
+                ],
+                "Kazakh": [
+                    "жол жүйесі"
+                ],
+                "Kyrgyz": [
+                    "жол тармагы",
+                    "жол системасы"
+                ],
+                "Karakalpak": [
+                    "jol tarmaǵı",
+                    "jol sisteması"
+                ],
+                "Tatar": [
+                    "юллар челтәре",
+                    "юллар системасы"
+                ],
+                "Bashkir": [
+                    "юлдар селтәре",
+                    "юл системаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "magistral yollar"
+                ],
+                "Uzbek": [
+                    "katta yo'llar tarmog'i"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "awtomobil ýollary"
+                ],
+                "Karakalpak": [
+                    "awtomobil jolları"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قاتناش تورى"
+                ],
+                "Kyrgyz": [
+                    "каттам тармагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ يوللار سىستېمىسى"
+                ],
+                "Kyrgyz": [
+                    "чоң жолдор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karayolları",
+                    "ana yol ağı",
+                    "karayolu sistemi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şose yolları"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýol ulgamy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şatutlar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shohko'chalar majmuasi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاشيول سىستېمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік жолдары",
+                    "күре жолдар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "даңғыл жолдар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "транспорт челтәре"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зур юллар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төп юлдар"
+                ]
+            }
+        }
+    ]
+}
+```
+

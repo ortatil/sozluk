@@ -1,0 +1,137 @@
+{
+    "id": "i89076",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "college student",
+    "en_definition": "a student enrolled in a college or university",
+    "tr_word": "üniversite öğrencisi",
+    "tr_definition": "Bir yükseköğretim kurumuna veya üniversiteye kayıtlı olan öğrenci",
+    "ru_word": "студент",
+    "ru_definition": "Учащийся высшего или среднего специального учебного заведения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "talebe"
+                ],
+                "Azerbaijani": [
+                    "tələbə"
+                ],
+                "Turkmen": [
+                    "talyp"
+                ],
+                "Uzbek": [
+                    "talaba"
+                ],
+                "Uyghur": [
+                    "تالىپ"
+                ],
+                "Karakalpak": [
+                    "tálim alıoshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "okuwçy"
+                ],
+                "Kyrgyz": [
+                    "окуучу"
+                ],
+                "Karakalpak": [
+                    "oqıoshı"
+                ],
+                "Tatar": [
+                    "укучы"
+                ],
+                "Bashkir": [
+                    "уҡыусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "студент"
+                ],
+                "Kyrgyz": [
+                    "студент"
+                ],
+                "Karakalpak": [
+                    "student"
+                ],
+                "Tatar": [
+                    "студент"
+                ],
+                "Bashkir": [
+                    "студент"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shogird"
+                ],
+                "Kazakh": [
+                    "шәкірт"
+                ],
+                "Tatar": [
+                    "шәкерт"
+                ],
+                "Bashkir": [
+                    "шәкерт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "üniversite öğrencisi"
+                ],
+                "Azerbaijani": [
+                    "universitet tələbəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ali məktəb tələbəsi"
+                ],
+                "Uyghur": [
+                    "ئالىي مەكتەپ ئوقۇغۇچىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "білімгер"
+                ],
+                "Kyrgyz": [
+                    "билим алуучу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yükseköğrenim öğrencisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гыйлем алучы"
+                ]
+            }
+        }
+    ]
+}

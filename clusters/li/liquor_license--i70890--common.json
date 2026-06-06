@@ -1,0 +1,115 @@
+{
+    "id": "i70890",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "liquor license",
+    "en_definition": "a license authorizing the holder to sell alcoholic beverages",
+    "tr_word": "içki ruhsatı",
+    "tr_definition": "sahibine alkollü içecek satma yetkisi veren resmi izin belgesi",
+    "ru_word": "лицензия на продажу алкоголя",
+    "ru_definition": "официальное разрешение, дающее право владельцу продавать алкогольные напитки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "içki ruhsatı",
+                    "içki izni"
+                ],
+                "Azerbaijani": [
+                    "içki lisenziyası"
+                ],
+                "Turkmen": [
+                    "içgi ygtyýarnamasy"
+                ],
+                "Uzbek": [
+                    "ichimlik ruxsatnomasi",
+                    "ichkilik ruxsati"
+                ],
+                "Kyrgyz": [
+                    "ичимдик сатууга уруксат",
+                    "ичимдик сатууга уруксат кагазы",
+                    "ичимдик сатууга лицензия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ھاراق سېتىش رۇخسەتنامىسى",
+                    "ھاراق ئىجازەتنامىسى"
+                ],
+                "Karakalpak": [
+                    "ishimlik satıo ijazatı"
+                ],
+                "Bashkir": [
+                    "эсемлек һатыу рөхсәтнамәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ішімдік сатуға рұқсат",
+                    "ішімдік куәлігі",
+                    "ішімдік рұқсаттамасы"
+                ],
+                "Karakalpak": [
+                    "ishimlik satıo ruxsatnaması",
+                    "ishimlik satıo huqıqı"
+                ],
+                "Tatar": [
+                    "исерткеч эчемлекләр сату хокукы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alkol satış belgesi"
+                ],
+                "Turkmen": [
+                    "alkogol rugsatnamasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "meý rugsatnamasy"
+                ],
+                "Uzbek": [
+                    "may sotish ijozati"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәмер сату рөхсәте",
+                    "хәмер иҗазәсе"
+                ],
+                "Bashkir": [
+                    "хәмер һатыу рөхсәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "spirtli içki icazəsi",
+                    "spirtli içki satışı icazəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "шәрәп һатыу таныҡлығы"
+                ]
+            }
+        }
+    ]
+}

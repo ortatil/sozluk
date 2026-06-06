@@ -1,0 +1,138 @@
+# Australian magpie
+| Field | Detail |
+|---|---|
+| **ID** | i43608 |
+| **English** | australian magpie |
+| **Type** | noun |
+| **Definition** | black-and-white oscine birds that resemble magpies |
+| **Source** | common |
+| **Ortatil** | sağsaqan |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sağsaqan** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* | ✅ |
+| **O'TQ** | **1.37** |
+
+```json
+{
+    "id": "i43608",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "australian magpie",
+    "en_definition": "black-and-white oscine birds that resemble magpies",
+    "tr_word": "Avustralya saksağanı",
+    "tr_definition": "Saksağana benzeyen, siyah-beyaz tüylere sahip Avustralya'ya özgü bir ötücü kuş türü",
+    "ru_word": "ворона-свистун",
+    "ru_definition": "черно-белая певчая птица, обитающая в Австралии и внешне напоминающая сороку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Avustralya saksağanı"
+                ],
+                "Azerbaijani": [
+                    "Avstraliya sağsağanı"
+                ],
+                "Uzbek": [
+                    "avstraliya zag'chasi",
+                    "avstraliya hakka-qarg'asi"
+                ],
+                "Uyghur": [
+                    "ئاۋسترالىيە ساغىزغىنى"
+                ],
+                "Kazakh": [
+                    "австралиялық сауысқан"
+                ],
+                "Tatar": [
+                    "Австралия саесканы"
+                ],
+                "Bashkir": [
+                    "австралия һайыҫҡаны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ala garga"
+                ],
+                "Uzbek": [
+                    "ola qarg'a"
+                ],
+                "Kazakh": [
+                    "ала сауысқан"
+                ],
+                "Kyrgyz": [
+                    "ала сагызган"
+                ],
+                "Karakalpak": [
+                    "ala sauısqan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sağsağan"
+                ],
+                "Turkmen": [
+                    "saksağan"
+                ],
+                "Karakalpak": [
+                    "sauısqan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاق-قارا ساغىزغان"
+                ],
+                "Bashkir": [
+                    "аҡлы-ҡаралы һайыҫҡан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kara beyaz saksağan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "сагызган сымал куш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чуар саескан"
+                ]
+            }
+        }
+    ]
+}
+```
+

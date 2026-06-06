@@ -1,0 +1,139 @@
+# Pajama
+| Field | Detail |
+|---|---|
+| **ID** | i56914 |
+| **English** | pajama |
+| **Type** | noun |
+| **Definition** | (usually plural) loose-fitting nightclothes worn for sleeping or lounging; have a jacket top and trousers |
+| **Source** | common |
+| **Ortatil** | picama |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| پىژاما | pijama |
+
+```json
+{
+    "id": "i56914",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pajama",
+    "en_definition": "(usually plural) loose-fitting nightclothes worn for sleeping or lounging; have a jacket top and trousers",
+    "tr_word": "pijama",
+    "tr_definition": "Genellikle iki parçadan oluşan, yatakta veya ev içinde giyilen rahat giysi.",
+    "ru_word": "пижама",
+    "ru_definition": "Легкий костюм для сна, состоящий из куртки и брюк.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۈنلۈك كىيىم"
+                ],
+                "Kazakh": [
+                    "түнгі киім"
+                ],
+                "Kyrgyz": [
+                    "түнкү кийим"
+                ],
+                "Karakalpak": [
+                    "túngi kiyim"
+                ],
+                "Tatar": [
+                    "төнге кием"
+                ],
+                "Bashkir": [
+                    "төнгө кейем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uyku giysisi"
+                ],
+                "Uzbek": [
+                    "tungi kiyim"
+                ],
+                "Uyghur": [
+                    "ئۇيقۇ كىيىمى"
+                ],
+                "Kazakh": [
+                    "ұйықтау киімі"
+                ],
+                "Karakalpak": [
+                    "uyqı kiyim"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gecelik"
+                ],
+                "Azerbaijani": [
+                    "gecəlik",
+                    "gecə geyimi"
+                ],
+                "Turkmen": [
+                    "gije eşigi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yataq paltarı"
+                ],
+                "Turkmen": [
+                    "ýatylýan eşik"
+                ],
+                "Uzbek": [
+                    "yotoq kiyimi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "уктоочу кийим"
+                ],
+                "Tatar": [
+                    "йокы киеме"
+                ],
+                "Bashkir": [
+                    "йоҡо кейеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pijama"
+                ],
+                "Uyghur": [
+                    "پىژاما"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shabparda"
+                ]
+            }
+        }
+    ]
+}
+```
+

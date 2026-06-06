@@ -1,0 +1,226 @@
+# Rub-a-dub
+| Field | Detail |
+|---|---|
+| **ID** | i75543 |
+| **English** | rub-a-dub |
+| **Type** | noun |
+| **Definition** | the sound made by beating a drum |
+| **Source** | common |
+| **Ortatil** | taqqıltı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **taqqıltı** | **dübür** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ❌ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ❌ |
+| Kazakh | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ❌ | ✅ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0 |
+| *Qarluq Subtotal* | 1 | 0 |
+| *Qipchaq Subtotal* | 0.40 | 0.60 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **3.07** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تاراس-تۇرۇس | taras-turus |
+| دۇم-دۇم | dum-dum |
+| **Kazakh** | |
+| тарсыл | tarsıl |
+| дүбір | dübir |
+| қағыс | qağıs |
+| дүрсіл | dürsil |
+| **Kyrgyz** | |
+| тарсылдак | tarsıldak |
+| дүбүрт | dübürt |
+| дүңгүр | düñgür |
+| кагыш | kagış |
+| **Tatar** | |
+| дөбер-дөбер | döber-döber |
+| дөбердәү | döberdäü |
+| **Bashkir** | |
+| дөбөр-дөбөр | döbör-döbör |
+| дөбөрҙәү | döbörzäü |
+| дөбөр | döbör |
+| туҡылдау | tuqıldau |
+
+```json
+{
+    "id": "i75543",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rub-a-dub",
+    "en_definition": "the sound made by beating a drum",
+    "tr_word": "güm güm",
+    "tr_definition": "davul çalınırken çıkan ses",
+    "ru_word": "барабанная дробь",
+    "ru_definition": "звук, издаваемый при ударе в барабан",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "taqqıltı"
+                ],
+                "Turkmen": [
+                    "tarkyldy"
+                ],
+                "Uzbek": [
+                    "taraqlash"
+                ],
+                "Uyghur": [
+                    "تاراس-تۇرۇس"
+                ],
+                "Kazakh": [
+                    "тарсыл"
+                ],
+                "Kyrgyz": [
+                    "тарсылдак"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "дүбір"
+                ],
+                "Kyrgyz": [
+                    "дүбүрт",
+                    "дүңгүр"
+                ],
+                "Karakalpak": [
+                    "dúbіr",
+                    "dúńgіr",
+                    "dúńgіrlek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қағыс"
+                ],
+                "Kyrgyz": [
+                    "кагыш"
+                ],
+                "Tatar": [
+                    "кагу тавышы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güm güm",
+                    "gümbürtü"
+                ],
+                "Turkmen": [
+                    "gümme",
+                    "gümürdi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tumbultu"
+                ],
+                "Uzbek": [
+                    "gumbur-gumbur"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gurultu"
+                ],
+                "Uzbek": [
+                    "gurs-gurs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "döyəcləmə"
+                ],
+                "Uzbek": [
+                    "duv-duv"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dümme"
+                ],
+                "Uyghur": [
+                    "دۇم-دۇم",
+                    "دۇمباق ئاۋازى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дөбер-дөбер",
+                    "дөбердәү"
+                ],
+                "Bashkir": [
+                    "дөбөр-дөбөр",
+                    "дөбөрҙәү",
+                    "дөбөр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "davul sesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vuruş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дүрсіл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "dabıl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "туҡылдау"
+                ]
+            }
+        }
+    ]
+}
+```
+

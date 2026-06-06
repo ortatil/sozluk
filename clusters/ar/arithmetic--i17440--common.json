@@ -1,0 +1,119 @@
+{
+    "id": "i17440",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "arithmetic",
+    "en_definition": "relating to or involving arithmetic",
+    "tr_word": "aritmetik",
+    "tr_definition": "aritmetik ile ilgili veya aritmetik içeren",
+    "ru_word": "арифметический",
+    "ru_definition": "относящийся к арифметике или связанный с ней",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesabi"
+                ],
+                "Azerbaijani": [
+                    "hesabi"
+                ],
+                "Turkmen": [
+                    "hasaplaýyş",
+                    "hasap"
+                ],
+                "Uzbek": [
+                    "hisobiy"
+                ],
+                "Uyghur": [
+                    "ھېساباتقا ئائىت",
+                    "ھېسابلاشقا مۇناسىۋەتلىك"
+                ],
+                "Karakalpak": [
+                    "esaplao"
+                ],
+                "Tatar": [
+                    "хисап",
+                    "хисаплау"
+                ],
+                "Bashkir": [
+                    "хисап",
+                    "хисаплау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aritmetik"
+                ],
+                "Turkmen": [
+                    "arifmetiki"
+                ],
+                "Uzbek": [
+                    "arifmetik"
+                ],
+                "Kazakh": [
+                    "арифметикалық"
+                ],
+                "Kyrgyz": [
+                    "арифметикалык"
+                ],
+                "Karakalpak": [
+                    "arifmetikalıq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sonli"
+                ],
+                "Kazakh": [
+                    "сандық"
+                ],
+                "Kyrgyz": [
+                    "сандык"
+                ],
+                "Karakalpak": [
+                    "sanlı"
+                ],
+                "Tatar": [
+                    "санлы"
+                ],
+                "Bashkir": [
+                    "һан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "riyazi"
+                ],
+                "Uyghur": [
+                    "رەقەملىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есептік"
+                ],
+                "Kyrgyz": [
+                    "эсептик"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sayısal"
+                ]
+            }
+        }
+    ]
+}

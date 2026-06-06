@@ -1,0 +1,96 @@
+{
+    "id": "i54636",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hanger",
+    "en_definition": "anything from which something can be hung",
+    "tr_word": "askı",
+    "tr_definition": "bir şeyin asılmasına yarayan araç",
+    "ru_word": "вешалка",
+    "ru_definition": "приспособление для подвешивания чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "askı",
+                    "askılık"
+                ],
+                "Azerbaijani": [
+                    "asılqan",
+                    "asqı"
+                ],
+                "Turkmen": [
+                    "asgyç",
+                    "asylgyç"
+                ],
+                "Uzbek": [
+                    "osqich",
+                    "osma"
+                ],
+                "Uyghur": [
+                    "ئاسقۇچ",
+                    "ئاسقۇ"
+                ],
+                "Kazakh": [
+                    "аспа",
+                    "асылғыш"
+                ],
+                "Kyrgyz": [
+                    "аскыч"
+                ],
+                "Karakalpak": [
+                    "askısh"
+                ],
+                "Tatar": [
+                    "аскыч"
+                ],
+                "Bashkir": [
+                    "аҫҡыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ilgich"
+                ],
+                "Uyghur": [
+                    "ئىلغۇچ"
+                ],
+                "Kazakh": [
+                    "ілгіш",
+                    "ілгек"
+                ],
+                "Kyrgyz": [
+                    "илгич"
+                ],
+                "Karakalpak": [
+                    "ilgish",
+                    "ilgek"
+                ],
+                "Tatar": [
+                    "элгеч"
+                ],
+                "Bashkir": [
+                    "элгес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çengel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "эленгеч"
+                ]
+            }
+        }
+    ]
+}

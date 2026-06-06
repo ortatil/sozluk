@@ -1,0 +1,102 @@
+# Limeade
+| Field | Detail |
+|---|---|
+| **ID** | i78958 |
+| **English** | limeade |
+| **Type** | noun |
+| **Definition** | sweetened beverage of lime juice and water |
+| **Source** | common |
+| **Ortatil** | limonatä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i78958",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "limeade",
+    "en_definition": "sweetened beverage of lime juice and water",
+    "tr_word": "misket limonu şerbeti",
+    "tr_definition": "misket limonu suyu, su ve şekerle yapılan tatlı içecek",
+    "ru_word": "лаймонад",
+    "ru_definition": "сладкий напиток из сока лайма и воды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "laym şerbeti"
+                ],
+                "Azerbaijani": [
+                    "laym şərbəti",
+                    "laym şirəsi"
+                ],
+                "Turkmen": [
+                    "laým şerbeti",
+                    "laým suwy"
+                ],
+                "Uzbek": [
+                    "laymunli sharbat",
+                    "laymunli ichimlik",
+                    "laymunli suv"
+                ],
+                "Uyghur": [
+                    "لايم شەربىتى",
+                    "لايم سۈيى"
+                ],
+                "Kazakh": [
+                    "лайм сусыны",
+                    "лайм шырыны",
+                    "лайм шәрбаты"
+                ],
+                "Kyrgyz": [
+                    "лайм ширеси",
+                    "лайм суусундугу",
+                    "лайм шербети"
+                ],
+                "Karakalpak": [
+                    "laym shárbáti",
+                    "laym susını"
+                ],
+                "Tatar": [
+                    "лайм шәрбәте",
+                    "лайм суы"
+                ],
+                "Bashkir": [
+                    "лайм шәрбәте",
+                    "лайм һуты",
+                    "лайм эсемлеге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "limonata"
+                ],
+                "Azerbaijani": [
+                    "limonad"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "misket limonu şerbeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاتلىق لايم شەربىتى"
+                ]
+            }
+        }
+    ]
+}
+```
+

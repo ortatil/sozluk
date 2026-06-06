@@ -1,0 +1,131 @@
+{
+    "id": "i91877",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "part-timer",
+    "en_definition": "someone who works less than the customary or standard time",
+    "tr_word": "yarı zamanlı çalışan",
+    "tr_definition": "Geleneksel veya standart çalışma süresinden daha az çalışan kimse",
+    "ru_word": "совместитель",
+    "ru_definition": "лицо, работающее неполный рабочий день или по совместительству",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarı zamanlı çalışan"
+                ],
+                "Azerbaijani": [
+                    "yarımştat",
+                    "yarımgünlük"
+                ],
+                "Turkmen": [
+                    "ýarym işçi",
+                    "ýarym günlikçi"
+                ],
+                "Uzbek": [
+                    "yarim stavkali ishchi"
+                ],
+                "Uyghur": [
+                    "يېرىم كۈنلۈك ئىشچى"
+                ],
+                "Kazakh": [
+                    "жартылай жұмысшы"
+                ],
+                "Kyrgyz": [
+                    "жарым ставкачы",
+                    "жарым күндүк кызматкер"
+                ],
+                "Karakalpak": [
+                    "jartı stawkalı xızmetker",
+                    "jartı jumıs kúni"
+                ],
+                "Tatar": [
+                    "ярым ставкалы хезмәткәр"
+                ],
+                "Bashkir": [
+                    "ярым ставкалы эшсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "wagtlaýyn işçi"
+                ],
+                "Uzbek": [
+                    "vaqtinchalik ishchi"
+                ],
+                "Uyghur": [
+                    "ۋاقىتلىق ئىشچى"
+                ],
+                "Kazakh": [
+                    "уақытша жұмысшы"
+                ],
+                "Bashkir": [
+                    "ваҡытлыса эшләүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "tolıq emes jumısshı"
+                ],
+                "Tatar": [
+                    "тулы булмаган эш көнендә эшләүче"
+                ],
+                "Bashkir": [
+                    "тулы булмаған эш көнлө хеҙмәткәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوشۇمچە ئىشلىگۈچى"
+                ],
+                "Kazakh": [
+                    "қосымша жұмысшы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "part-time çalışan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eksik süreli çalışan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "natamam iş günü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nomatlub ishchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "убактылуу жумушчу"
+                ]
+            }
+        }
+    ]
+}

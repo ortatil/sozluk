@@ -1,0 +1,111 @@
+{
+    "id": "i766",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "armed",
+    "en_definition": "(used of persons or the military) characterized by having or bearing arms",
+    "tr_word": "silahlı",
+    "tr_definition": "silah taşıyan veya silahla donatılmış olan (kişi veya askeri birlik)",
+    "ru_word": "вооруженный",
+    "ru_definition": "снабженный оружием, имеющий при себе оружие",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qurollangan",
+                    "qurolli"
+                ],
+                "Uyghur": [
+                    "قوراللانغان",
+                    "قوراللىق"
+                ],
+                "Kazakh": [
+                    "қарулы"
+                ],
+                "Kyrgyz": [
+                    "куралдуу",
+                    "курал-жарактуу"
+                ],
+                "Karakalpak": [
+                    "qurallanǵan",
+                    "qural-jaraqlı"
+                ],
+                "Tatar": [
+                    "кораллы",
+                    "коралланган"
+                ],
+                "Bashkir": [
+                    "ҡораллы",
+                    "ҡоралланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "silahlı"
+                ],
+                "Azerbaijani": [
+                    "silahlı"
+                ],
+                "Uzbek": [
+                    "aslahali"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müsellah"
+                ],
+                "Azerbaijani": [
+                    "müsəlləh"
+                ],
+                "Turkmen": [
+                    "müsellah"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýaragly"
+                ],
+                "Kazakh": [
+                    "жарақтанған"
+                ],
+                "Kyrgyz": [
+                    "жарактуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сауытты"
+                ],
+                "Karakalpak": [
+                    "sauıtlanǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "enjamlaşdyrylan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جابدۇقلانغان"
+                ]
+            }
+        }
+    ]
+}

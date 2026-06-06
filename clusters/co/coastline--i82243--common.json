@@ -1,0 +1,130 @@
+{
+    "id": "i82243",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "coastline",
+    "en_definition": "the outline of a coast",
+    "tr_word": "kıyı şeridi",
+    "tr_definition": "deniz ile karanın birleştiği sınır hattı",
+    "ru_word": "береговая линия",
+    "ru_definition": "линия пересечения поверхности суши с поверхностью водного бассейна",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deniz kıyısı"
+                ],
+                "Turkmen": [
+                    "kenar çyzygy"
+                ],
+                "Uyghur": [
+                    "دېڭىز قىرغىقى"
+                ],
+                "Tatar": [
+                    "диңгез буе"
+                ],
+                "Bashkir": [
+                    "диңгеҙ буйы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sahil şeridi"
+                ],
+                "Azerbaijani": [
+                    "sahil xətti"
+                ],
+                "Uzbek": [
+                    "sohil",
+                    "sohil chizig'i"
+                ],
+                "Uyghur": [
+                    "ساھىل سىزىقى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qıraq"
+                ],
+                "Uzbek": [
+                    "qirg'oq",
+                    "qirg'oq bo'yi"
+                ],
+                "Uyghur": [
+                    "قىرغاق سىزىقى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жағалау сызығы",
+                    "жағалау",
+                    "жаға"
+                ],
+                "Kyrgyz": [
+                    "жээк",
+                    "жээк сызыгы"
+                ],
+                "Karakalpak": [
+                    "jaǵalau",
+                    "jaǵa",
+                    "jaǵa sızıǵı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kənar"
+                ],
+                "Turkmen": [
+                    "kenar",
+                    "kenarýaka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "яр сызыгы",
+                    "яр буе"
+                ],
+                "Bashkir": [
+                    "яр һыҙығы",
+                    "яр буйы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kıyı şeridi",
+                    "kıyı çizgisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кылаат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жээк тилкеси"
+                ]
+            }
+        }
+    ]
+}

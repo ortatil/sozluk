@@ -1,0 +1,127 @@
+{
+    "id": "i91805",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "overnighter",
+    "en_definition": "a guest who stays overnight",
+    "tr_word": "yatılı misafir",
+    "tr_definition": "Bir yerde geceyi geçiren, konaklayan konuk",
+    "ru_word": "ночующий гость",
+    "ru_definition": "гость, который остается на ночь",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "konaklayan"
+                ],
+                "Azerbaijani": [
+                    "qonaq"
+                ],
+                "Turkmen": [
+                    "gonak"
+                ],
+                "Uyghur": [
+                    "قونالغۇچى",
+                    "قوناق"
+                ],
+                "Kazakh": [
+                    "қонақ",
+                    "қонушы"
+                ],
+                "Kyrgyz": [
+                    "конок"
+                ],
+                "Karakalpak": [
+                    "qonaq"
+                ],
+                "Tatar": [
+                    "кунак"
+                ],
+                "Bashkir": [
+                    "ҡунаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tunovchi"
+                ],
+                "Kazakh": [
+                    "түнеуші",
+                    "түнемел қонақ"
+                ],
+                "Kyrgyz": [
+                    "түнөөчү",
+                    "түнөгөн конок"
+                ],
+                "Karakalpak": [
+                    "túnemel qonaq",
+                    "túnep qalıushı"
+                ],
+                "Tatar": [
+                    "төнге кунак"
+                ],
+                "Bashkir": [
+                    "төнлөк ҡунаҡ",
+                    "төнәүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "myhman"
+                ],
+                "Uzbek": [
+                    "mehmon"
+                ],
+                "Uyghur": [
+                    "مېھمان"
+                ],
+                "Kyrgyz": [
+                    "мейман"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geceleyen konuk"
+                ],
+                "Azerbaijani": [
+                    "gecələyən",
+                    "gecə qonağı"
+                ],
+                "Turkmen": [
+                    "gijeleýin myhman"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yatılı misafir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "musofir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кунып калучы"
+                ]
+            }
+        }
+    ]
+}

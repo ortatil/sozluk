@@ -1,0 +1,151 @@
+{
+    "id": "i31374",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "drive",
+    "en_definition": "operate or control a vehicle",
+    "tr_word": "sürmek",
+    "tr_definition": "bir taşıtı veya iş makinesini yönetmek, kullanmak",
+    "ru_word": "водить",
+    "ru_definition": "управлять транспортным средством",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yürütmək"
+                ],
+                "Uzbek": [
+                    "yuritmoq"
+                ],
+                "Kazakh": [
+                    "жүргізу"
+                ],
+                "Kyrgyz": [
+                    "жүргүзүү"
+                ],
+                "Karakalpak": [
+                    "júrgіzu"
+                ],
+                "Tatar": [
+                    "йөрөтү"
+                ],
+                "Bashkir": [
+                    "йөрөтөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "haydamoq"
+                ],
+                "Uyghur": [
+                    "ھەيدىمەك"
+                ],
+                "Kazakh": [
+                    "айдау"
+                ],
+                "Kyrgyz": [
+                    "айдоо"
+                ],
+                "Karakalpak": [
+                    "aydau"
+                ],
+                "Bashkir": [
+                    "айҙау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "boshqarmoq"
+                ],
+                "Uyghur": [
+                    "باشقارماق"
+                ],
+                "Kazakh": [
+                    "басқару"
+                ],
+                "Kyrgyz": [
+                    "башкаруу"
+                ],
+                "Karakalpak": [
+                    "basqaru"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sürmek"
+                ],
+                "Azerbaijani": [
+                    "sürmək"
+                ],
+                "Turkmen": [
+                    "sürmek"
+                ],
+                "Uyghur": [
+                    "سۈرمەك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "idare etmek"
+                ],
+                "Azerbaijani": [
+                    "idarə etmək"
+                ],
+                "Tatar": [
+                    "идарә итү"
+                ],
+                "Bashkir": [
+                    "идара итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kullanmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sevk etmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "dolandyrmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "idatmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "куу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,255 @@
+# Atonement
+| Field | Detail |
+|---|---|
+| **ID** | i106525 |
+| **English** | atonement |
+| **Type** | noun |
+| **Definition** | compensation for a wrong |
+| **Source** | common |
+| **Ortatil** | käffarät, fidyä, töläm |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **käffarät** | **fidyä** | **töläm** | **täwbä** |
+|---|---|---|---|---|
+| Turkish | ✅ | ✅ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ | ❌ |
+| Turkmen | ✅ | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ✅ | ❌ | ✅ |
+| Uyghur | ✅ | ❌ | ✅ | ✅ |
+| Kazakh | ✅ | ❌ | ❌ | ❌ |
+| Kyrgyz | ✅ | ❌ | ✅ | ❌ |
+| Karakalpak | ✅ | ✅ | ✅ | ❌ |
+| Tatar | ✅ | ❌ | ✅ | ✅ |
+| Bashkir | ✅ | ❌ | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 1 | 0.33 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 0.50 | 1 |
+| *Qipchaq Subtotal* | 1 | 0.20 | 0.80 | 0.40 |
+| *In All* | ✅ | ✅ | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |
+| **O'TQ** | **4** | **2.70** | **2.63** | **1.40** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كاپارەت | kaparät |
+| تۆلەم | töläm |
+| تەۋبە | tävbä |
+| تەلاپىي | tälapiy |
+| **Kazakh** | |
+| кәффарат | käffarat |
+| өтеу | öteu |
+| өтем | ötem |
+| айыппұл | ayıppul |
+| **Kyrgyz** | |
+| кечирим | keçirim |
+| төлөм | tölöm |
+| толуктоо | toluktoo |
+| кун | kun |
+| **Tatar** | |
+| кәффарәт | käffarät |
+| түләү | tüläü |
+| тәүбә | täübä |
+| йолым | yolım |
+| **Bashkir** | |
+| кәфәрәт | käfärät |
+| түләү | tüläü |
+| тәүбә | täübä |
+| йолом | yolom |
+
+```json
+{
+    "id": "i106525",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "atonement",
+    "en_definition": "compensation for a wrong",
+    "tr_word": "kefaret",
+    "tr_definition": "işlenen bir günahın veya yapılan bir hatanın bağışlanması için yerine getirilen bedel veya telafi edici davranış.",
+    "ru_word": "искупление",
+    "ru_definition": "возмещение или заглаживание вины, греха или ошибки через наказание или доброе дело.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kefaret"
+                ],
+                "Azerbaijani": [
+                    "kəffarə"
+                ],
+                "Turkmen": [
+                    "kepparat"
+                ],
+                "Uzbek": [
+                    "kafforat"
+                ],
+                "Uyghur": [
+                    "كاپارەت"
+                ],
+                "Kazakh": [
+                    "кәффарат"
+                ],
+                "Kyrgyz": [
+                    "кечирим"
+                ],
+                "Karakalpak": [
+                    "káffarat"
+                ],
+                "Tatar": [
+                    "кәффарәт"
+                ],
+                "Bashkir": [
+                    "кәфәрәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "töleg"
+                ],
+                "Uyghur": [
+                    "تۆلەم"
+                ],
+                "Kyrgyz": [
+                    "төлөм",
+                    "толуктоо"
+                ],
+                "Karakalpak": [
+                    "tólem"
+                ],
+                "Tatar": [
+                    "түләү"
+                ],
+                "Bashkir": [
+                    "түләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bedel"
+                ],
+                "Azerbaijani": [
+                    "fidyə"
+                ],
+                "Turkmen": [
+                    "fidýe"
+                ],
+                "Uzbek": [
+                    "badal"
+                ],
+                "Karakalpak": [
+                    "fidya"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tovba",
+                    "tovon"
+                ],
+                "Uyghur": [
+                    "تەۋبە"
+                ],
+                "Tatar": [
+                    "тәүбә"
+                ],
+                "Bashkir": [
+                    "тәүбә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tazminat"
+                ],
+                "Azerbaijani": [
+                    "təzminat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əvəz"
+                ],
+                "Turkmen": [
+                    "öwez"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өтеу",
+                    "өтем"
+                ],
+                "Karakalpak": [
+                    "ótem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "йолым"
+                ],
+                "Bashkir": [
+                    "йолом"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karşılık"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uzr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەلاپىي"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жазасын өтеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айыппұл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кун"
+                ]
+            }
+        }
+    ]
+}
+```
+

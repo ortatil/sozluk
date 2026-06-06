@@ -1,0 +1,141 @@
+# Wasp's nest
+| Field | Detail |
+|---|---|
+| **ID** | i86412 |
+| **English** | wasp's nest |
+| **Type** | noun |
+| **Definition** | habitation for wasps or hornets |
+| **Source** | common |
+| **Ortatil** | uya |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| уя | uya |
+
+```json
+{
+    "id": "i86412",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wasp's nest",
+    "en_definition": "habitation for wasps or hornets",
+    "tr_word": "eşek arısı yuvası",
+    "tr_definition": "eşek arılarının veya yaban arılarının barındığı yer",
+    "ru_word": "осиное гнездо",
+    "ru_definition": "жилище для ос или шершней",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "arı yuvası",
+                    "arı kovanı"
+                ],
+                "Azerbaijani": [
+                    "arı yuvası",
+                    "arı pətəyi"
+                ],
+                "Turkmen": [
+                    "ary höwürtgesi",
+                    "ary ketegi"
+                ],
+                "Uzbek": [
+                    "ari uyasi",
+                    "ari in",
+                    "ari ini"
+                ],
+                "Kazakh": [
+                    "ара ұясы",
+                    "араның ұясы"
+                ],
+                "Kyrgyz": [
+                    "аарынын уясы"
+                ],
+                "Karakalpak": [
+                    "aranıń uyası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eşek arısı yuvası"
+                ],
+                "Azerbaijani": [
+                    "eşşəkarısı yuvası"
+                ],
+                "Turkmen": [
+                    "eşekary höwürtgesi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سېرىق ھەرە ئۇۋىسى"
+                ],
+                "Kyrgyz": [
+                    "сары аарынын уясы"
+                ],
+                "Karakalpak": [
+                    "sarı aranıń uyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кырмыска оясы"
+                ],
+                "Bashkir": [
+                    "ҡартла уяһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھەرە ئۇۋىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шөпшә оясы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "корт оясы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "уя"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "кигәүен уяһы"
+                ]
+            }
+        }
+    ]
+}
+```
+

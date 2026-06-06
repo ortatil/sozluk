@@ -1,0 +1,101 @@
+{
+    "id": "i72648",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wink",
+    "en_definition": "closing one eye quickly as a signal",
+    "tr_word": "göz kırpma",
+    "tr_definition": "birine işaret vermek amacıyla bir gözü çabucak kapatıp açma eylemi",
+    "ru_word": "подмигивание",
+    "ru_definition": "быстрое закрытие одного глаза в качестве сигнала",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz kırpma",
+                    "göz işareti",
+                    "göz kırpış"
+                ],
+                "Azerbaijani": [
+                    "gözqırpımı",
+                    "gözvurma",
+                    "göz işarəsi"
+                ],
+                "Turkmen": [
+                    "göz gypma",
+                    "göz gypyş"
+                ],
+                "Uzbek": [
+                    "ko'z qisish"
+                ],
+                "Uyghur": [
+                    "كۆز قىسىش",
+                    "كۆز ئىشارىتى"
+                ],
+                "Kazakh": [
+                    "көз қысу"
+                ],
+                "Kyrgyz": [
+                    "көз кысуу"
+                ],
+                "Karakalpak": [
+                    "kóz qısu"
+                ],
+                "Tatar": [
+                    "күз кысу"
+                ],
+                "Bashkir": [
+                    "көҙ ҡыҫыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ishora"
+                ],
+                "Kazakh": [
+                    "ишарат"
+                ],
+                "Kyrgyz": [
+                    "ишарат"
+                ],
+                "Karakalpak": [
+                    "isharat"
+                ],
+                "Tatar": [
+                    "ишарә"
+                ],
+                "Bashkir": [
+                    "ишара"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "imo"
+                ],
+                "Uyghur": [
+                    "ئىم-ئىشارەت"
+                ],
+                "Kazakh": [
+                    "ым"
+                ],
+                "Karakalpak": [
+                    "ım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gypma"
+                ]
+            }
+        }
+    ]
+}

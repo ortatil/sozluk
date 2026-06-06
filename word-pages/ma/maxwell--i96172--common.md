@@ -1,0 +1,119 @@
+# Maxwell
+| Field | Detail |
+|---|---|
+| **ID** | i96172 |
+| **English** | maxwell |
+| **Type** | noun |
+| **Definition** | Scottish physicist whose equations unified electricity and magnetism and who recognized the electromagnetic nature of light (1831-1879) |
+| **Source** | common |
+| **Ortatil** | makswell |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **makswell** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 1 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ماكسۋېل | maksvel |
+| **Kazakh** | |
+| Максвелл | maksvell |
+| **Kyrgyz** | |
+| Максвелл | maksvell |
+| **Tatar** | |
+| Максвелл | maksvell |
+| **Bashkir** | |
+| Максвелл | maksvell |
+
+```json
+{
+    "id": "i96172",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "maxwell",
+    "en_definition": "Scottish physicist whose equations unified electricity and magnetism and who recognized the electromagnetic nature of light (1831-1879)",
+    "tr_word": "Maxwell",
+    "tr_definition": "Elektrik ve manyetizmayı birleştiren denklemleri kuran ve ışığın elektromanyetik doğasını keşfeden İskoç fizikçi (1831-1879).",
+    "ru_word": "Максвелл",
+    "ru_definition": "Шотландский физик, чьи уравнения объединили электричество и магнетизм и который признал электромагнитную природу света (1831-1879).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Maksvel"
+                ],
+                "Turkmen": [
+                    "Makswell"
+                ],
+                "Uzbek": [
+                    "Maksvell"
+                ],
+                "Uyghur": [
+                    "ماكسۋېل"
+                ],
+                "Kazakh": [
+                    "Максвелл"
+                ],
+                "Kyrgyz": [
+                    "Максвелл"
+                ],
+                "Karakalpak": [
+                    "Makswell"
+                ],
+                "Tatar": [
+                    "Максвелл"
+                ],
+                "Bashkir": [
+                    "Максвелл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "James Clerk Maxwell"
+                ],
+                "Uzbek": [
+                    "Jeyms Klerk Maksvell"
+                ],
+                "Uyghur": [
+                    "جېيمىس كېلېرك ماكسۋېل"
+                ],
+                "Kazakh": [
+                    "Джеймс Клерк Максвелл"
+                ],
+                "Karakalpak": [
+                    "Djeyms Klerk Makswell"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Ceyms Klerk Maksvel"
+                ]
+            }
+        }
+    ]
+}
+```
+

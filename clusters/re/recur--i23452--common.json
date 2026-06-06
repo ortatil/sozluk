@@ -1,0 +1,133 @@
+{
+    "id": "i23452",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "recur",
+    "en_definition": "happen or occur again",
+    "tr_word": "tekrarlamak",
+    "tr_definition": "yeniden meydana gelmek veya tekrar etmek",
+    "ru_word": "повторяться",
+    "ru_definition": "происходить или случаться снова",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yinelemek",
+                    "yeniden vuku bulmak"
+                ],
+                "Azerbaijani": [
+                    "yenidən baş vermək"
+                ],
+                "Turkmen": [
+                    "ýene bolmak"
+                ],
+                "Uzbek": [
+                    "yangilanmoq"
+                ],
+                "Uyghur": [
+                    "يەنە يۈز بەرمەك"
+                ],
+                "Kazakh": [
+                    "жаңғыру"
+                ],
+                "Kyrgyz": [
+                    "жаңылануу"
+                ],
+                "Karakalpak": [
+                    "jańadan payda bolıu"
+                ],
+                "Tatar": [
+                    "яңару"
+                ],
+                "Bashkir": [
+                    "яңынан тыуыу",
+                    "яңынан килеп сығыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qayıtmaq"
+                ],
+                "Turkmen": [
+                    "gaýtalanmak",
+                    "gaýtalanyp durmak"
+                ],
+                "Uzbek": [
+                    "qaytarilmoq",
+                    "qayta sodir bo'lmoq"
+                ],
+                "Uyghur": [
+                    "قايتىلانماق"
+                ],
+                "Kazakh": [
+                    "қайталану",
+                    "қайта келу",
+                    "қайта оралу"
+                ],
+                "Kyrgyz": [
+                    "кайталануу",
+                    "кайра болуу"
+                ],
+                "Karakalpak": [
+                    "qaytalanu"
+                ],
+                "Tatar": [
+                    "кайту"
+                ],
+                "Bashkir": [
+                    "ҡабатланыу",
+                    "ҡайталаныу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekrarlanmak",
+                    "tekerrür etmek"
+                ],
+                "Azerbaijani": [
+                    "təkrarlanmaq"
+                ],
+                "Uzbek": [
+                    "takrorlanmoq"
+                ],
+                "Uyghur": [
+                    "تەكرارلانماق"
+                ],
+                "Karakalpak": [
+                    "tákirarlanıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təzahür etmək"
+                ],
+                "Turkmen": [
+                    "täzeden bolmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "nüksetmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабатлану"
+                ]
+            }
+        }
+    ]
+}

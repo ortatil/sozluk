@@ -1,0 +1,168 @@
+# Steaming
+| Field | Detail |
+|---|---|
+| **ID** | i14149 |
+| **English** | steaming |
+| **Type** | adjective |
+| **Definition** | filled with steam or emitting moisture in the form of vapor or mist |
+| **Source** | common |
+| **Ortatil** | buğlu |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **buğlu** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| بۇغلىنىۋاتقان | buğlinivatqan |
+| بۇغلىق | buğliq |
+| **Kazakh** | |
+| буланған | bulanğan |
+| булы | bulı |
+| **Kyrgyz** | |
+| бууланган | buulangan |
+| буулуу | buuluu |
+| **Tatar** | |
+| парлы | parlı |
+| парланучы | parlanuçı |
+| парланган | parlangan |
+| **Bashkir** | |
+| быулы | bıulı |
+| парлы | parlı |
+
+```json
+{
+    "id": "i14149",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "steaming",
+    "en_definition": "filled with steam or emitting moisture in the form of vapor or mist",
+    "tr_word": "tüten",
+    "tr_definition": "üzerinden buhar çıkan veya dumanı üstünde olan",
+    "ru_word": "дымящийся",
+    "ru_definition": "испускающий пар или влагу в виде тумана",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buğulu",
+                    "buharlı"
+                ],
+                "Azerbaijani": [
+                    "buxarlı",
+                    "buğlu"
+                ],
+                "Turkmen": [
+                    "bugly",
+                    "bugaryp duran",
+                    "buglanýan"
+                ],
+                "Uzbek": [
+                    "bug'li",
+                    "bug'lanayotgan",
+                    "bug'lanuvchi"
+                ],
+                "Uyghur": [
+                    "بۇغلىنىۋاتقان",
+                    "بۇغلىق",
+                    "بۇغ چىقىۋاتقان"
+                ],
+                "Kazakh": [
+                    "буланған",
+                    "булы"
+                ],
+                "Kyrgyz": [
+                    "бууланган",
+                    "буулуу"
+                ],
+                "Karakalpak": [
+                    "bulı",
+                    "bulanıp turǵan"
+                ],
+                "Bashkir": [
+                    "быулы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бу шыққан",
+                    "бу атып тұрған"
+                ],
+                "Kyrgyz": [
+                    "буусу чыккан"
+                ],
+                "Karakalpak": [
+                    "bu shıǵıp turǵan"
+                ],
+                "Bashkir": [
+                    "быу сығып торған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "парлы",
+                    "парланучы",
+                    "пар чыгаручы",
+                    "парланган"
+                ],
+                "Bashkir": [
+                    "парлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dumanlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tüten"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tüstülənən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "damlangan"
+                ]
+            }
+        }
+    ]
+}
+```
+

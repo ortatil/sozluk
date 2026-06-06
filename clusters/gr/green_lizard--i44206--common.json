@@ -1,0 +1,79 @@
+{
+    "id": "i44206",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "green lizard",
+    "en_definition": "a common Eurasian lizard about a foot long",
+    "tr_word": "yeşil kertenkele",
+    "tr_definition": "Avrasya'da yaygın olarak bulunan, yaklaşık 30 cm boyunda, parlak yeşil renkli bir kertenkele türü",
+    "ru_word": "зелёная ящерица",
+    "ru_definition": "обыкновенная евразийская ящерица длиной около тридцати сантиметров",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeşil kertenkele"
+                ],
+                "Azerbaijani": [
+                    "yaşıl kərtənkələ",
+                    "yaşıl kərtənkələsi"
+                ],
+                "Turkmen": [
+                    "ýaşyl kelpeze",
+                    "ýaşyl hažžyk"
+                ],
+                "Uzbek": [
+                    "yashil kaltakesak"
+                ],
+                "Uyghur": [
+                    "يېشىل كېسەرتكە",
+                    "يېشىل كەسەنچۈك"
+                ],
+                "Kazakh": [
+                    "жасыл кесіртке"
+                ],
+                "Kyrgyz": [
+                    "жашыл кескелдирик"
+                ],
+                "Karakalpak": [
+                    "jasıl kesіrtke"
+                ],
+                "Tatar": [
+                    "яшел кәлтә",
+                    "яшел кәлтә елан"
+                ],
+                "Bashkir": [
+                    "йәшел кеҫәрткә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kertenkele"
+                ],
+                "Kazakh": [
+                    "кесіртке"
+                ],
+                "Kyrgyz": [
+                    "кескелдирик"
+                ],
+                "Karakalpak": [
+                    "kesіrtke"
+                ],
+                "Bashkir": [
+                    "кеҫәрткә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zangori kaltakesak"
+                ]
+            }
+        }
+    ]
+}

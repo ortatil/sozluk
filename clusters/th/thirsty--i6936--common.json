@@ -1,0 +1,107 @@
+{
+    "id": "i6936",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "thirsty",
+    "en_definition": "feeling a need or desire to drink",
+    "tr_word": "susuz",
+    "tr_definition": "içme ihtiyacı veya arzusu hisseden",
+    "ru_word": "жаждущий",
+    "ru_definition": "испытывающий потребность или желание пить",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teşne"
+                ],
+                "Azerbaijani": [
+                    "təşnə"
+                ],
+                "Turkmen": [
+                    "teşne"
+                ],
+                "Uzbek": [
+                    "tashna",
+                    "tashnalab"
+                ],
+                "Uyghur": [
+                    "تەشنە"
+                ],
+                "Karakalpak": [
+                    "táshna"
+                ],
+                "Tatar": [
+                    "тәшнә"
+                ],
+                "Bashkir": [
+                    "тәшнә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "susuz"
+                ],
+                "Azerbaijani": [
+                    "susuz"
+                ],
+                "Uyghur": [
+                    "سۇساش"
+                ],
+                "Kazakh": [
+                    "сусаған"
+                ],
+                "Kyrgyz": [
+                    "суусаган",
+                    "суусап турган",
+                    "суусоо"
+                ],
+                "Karakalpak": [
+                    "suusaǵan"
+                ],
+                "Tatar": [
+                    "сусаган",
+                    "сусаулы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "suwsan"
+                ],
+                "Uzbek": [
+                    "suvsagan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шөлдеген",
+                    "шөл"
+                ],
+                "Karakalpak": [
+                    "shóldegen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇسسىغان"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыуһаған"
+                ]
+            }
+        }
+    ]
+}

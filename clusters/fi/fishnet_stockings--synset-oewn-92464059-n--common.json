@@ -1,0 +1,82 @@
+{
+    "id": "synset-oewn-92464059-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fishnet stockings",
+    "en_definition": "leg coverings for women, made from an open mesh fabric resembling netting.",
+    "tr_word": "file çorap",
+    "tr_definition": "Ağ görünümünde, geniş gözenekli örgüden yapılmış kadın çorabı.",
+    "ru_word": "чулки в сеточку",
+    "ru_definition": "Женские чулки, изготовленные из сетчатой ткани, напоминающей рыболовную сеть.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tor corab",
+                    "torlu corab"
+                ],
+                "Turkmen": [
+                    "tor jorap"
+                ],
+                "Uzbek": [
+                    "to'r paypoq",
+                    "to'rli paypoq"
+                ],
+                "Uyghur": [
+                    "تور پايپاق",
+                    "تورلۇق پايپاق"
+                ],
+                "Kazakh": [
+                    "тор шұлық",
+                    "торлы шұлық"
+                ],
+                "Kyrgyz": [
+                    "тор байпак",
+                    "тор колготки",
+                    "торчо байпак"
+                ],
+                "Karakalpak": [
+                    "torlı shulqı",
+                    "torlı náski"
+                ],
+                "Bashkir": [
+                    "торлы ойоҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "челтәрле оек",
+                    "челтәр оек"
+                ],
+                "Bashkir": [
+                    "селтәр ойоҡ",
+                    "селтәрле ойоҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "file çorap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağ çorap"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gözli jorap"
+                ]
+            }
+        }
+    ]
+}

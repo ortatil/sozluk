@@ -1,0 +1,225 @@
+# Recreational facility
+| Field | Detail |
+|---|---|
+| **ID** | i58025 |
+| **English** | recreational facility |
+| **Type** | noun |
+| **Definition** | a public facility for recreation |
+| **Source** | common |
+| **Ortatil** | sayilgah |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sayilgah** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **1.40** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ساياھەتگاھ | sayahätgah |
+| ئارامگاھ | aramgah |
+| **Kazakh** | |
+| сауықжай | sauıqjay |
+
+```json
+{
+    "id": "i58025",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "recreational facility",
+    "en_definition": "a public facility for recreation",
+    "tr_word": "eğlence ve dinlenme tesisi",
+    "tr_definition": "Halkın eğlenmesi, dinlenmesi veya spor yapması için ayrılmış kamuya açık tesis.",
+    "ru_word": "объект для отдыха и развлечений",
+    "ru_definition": "Общественное сооружение или место, предназначенное для отдыха, спорта и досуга.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sagaldyş merkezi"
+                ],
+                "Uzbek": [
+                    "sayilgoh"
+                ],
+                "Uyghur": [
+                    "ساياھەتگاھ"
+                ],
+                "Kazakh": [
+                    "сауықжай",
+                    "сауық орталығы"
+                ],
+                "Karakalpak": [
+                    "sayatxana"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "كۆڭۈل ئېچىش ئورنى",
+                    "كۆڭۈل ئېچىش مەيدانى"
+                ],
+                "Kyrgyz": [
+                    "көңүл ачуучу жай"
+                ],
+                "Tatar": [
+                    "күңел ачу урыны"
+                ],
+                "Bashkir": [
+                    "күңел асыу урыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "istirahət mərkəzi",
+                    "istirahət ocağı"
+                ],
+                "Uzbek": [
+                    "istirohatgoh"
+                ],
+                "Kyrgyz": [
+                    "эс алуу жайы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "dam olish maskani"
+                ],
+                "Kazakh": [
+                    "демалыс орны",
+                    "демалыс үйі"
+                ],
+                "Karakalpak": [
+                    "dem alıs ornı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dinlenme tesisi"
+                ],
+                "Turkmen": [
+                    "dynç alyş merkezi",
+                    "dynç alyş ýeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eğlence merkezi"
+                ],
+                "Azerbaijani": [
+                    "əyləncə yeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gəzinti yeri"
+                ],
+                "Turkmen": [
+                    "gezelenç merkezi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ял итү урыны",
+                    "ял йорты"
+                ],
+                "Bashkir": [
+                    "ял итеү урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ял үзәге"
+                ],
+                "Bashkir": [
+                    "ял үҙәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sosyal tesis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mesire yeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hordiqgoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئارامگاھ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оюн-зоок жайы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mádeniy dem alıs ornı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ял йорто"
+                ]
+            }
+        }
+    ]
+}
+```
+

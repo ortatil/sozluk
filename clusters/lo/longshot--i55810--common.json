@@ -1,0 +1,123 @@
+{
+    "id": "i55810",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "longshot",
+    "en_definition": "a photograph taken from a distance",
+    "tr_word": "uzak çekim",
+    "tr_definition": "uzaktan çekilen bir fotoğraf veya film karesi",
+    "ru_word": "общий план",
+    "ru_definition": "фотография или кадр, снятые с большого расстояния",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uzak çekim"
+                ],
+                "Azerbaijani": [
+                    "uzaq çəkiliş",
+                    "uzaq plan"
+                ],
+                "Turkmen": [
+                    "uzakdan düşürilen surat"
+                ],
+                "Uzbek": [
+                    "uzoqdan olingan tasvir",
+                    "uzoq koʻrinish"
+                ],
+                "Kyrgyz": [
+                    "узак көрүнүш"
+                ],
+                "Karakalpak": [
+                    "uzaqtan túsirio",
+                    "uzaq kórinis"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "алыс жоспар",
+                    "алыстан түсіру"
+                ],
+                "Kyrgyz": [
+                    "алыскы план",
+                    "алыстан тартуу"
+                ],
+                "Karakalpak": [
+                    "alıstan túsirio"
+                ],
+                "Bashkir": [
+                    "алыҫ күренеш",
+                    "алыҫтан төшөрөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "umumy görnüş"
+                ],
+                "Uzbek": [
+                    "umumiy koʻrinish"
+                ],
+                "Tatar": [
+                    "гомуми план"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geniş açı"
+                ],
+                "Azerbaijani": [
+                    "geniş plan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يىراق كۆرۈنۈش",
+                    "يىراقتىن تارتىلغان سۈرەت"
+                ],
+                "Tatar": [
+                    "ерак күренеш",
+                    "ерактан төшерү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boy çekim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "daşdan düşürilen surat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жалпы көрініс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "дөйөм план"
+                ]
+            }
+        }
+    ]
+}

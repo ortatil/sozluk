@@ -1,0 +1,104 @@
+{
+    "id": "i78596",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pizza",
+    "en_definition": "Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese",
+    "tr_word": "pizza",
+    "tr_definition": "Üzerine domates sosu, peynir ve çeşitli malzemeler konularak fırında pişirilen, İtalyan kökenli hamur işi.",
+    "ru_word": "пицца",
+    "ru_definition": "Итальянское национальное блюдо в виде круглой открытой лепешки, покрытой томатами, сыром и другими ингредиентами.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pide"
+                ],
+                "Azerbaijani": [
+                    "pitsa"
+                ],
+                "Turkmen": [
+                    "pitssa"
+                ],
+                "Uzbek": [
+                    "pitsa"
+                ],
+                "Uyghur": [
+                    "پىتسا"
+                ],
+                "Kazakh": [
+                    "пицца"
+                ],
+                "Kyrgyz": [
+                    "пицца",
+                    "нан"
+                ],
+                "Karakalpak": [
+                    "picca"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açık börek"
+                ],
+                "Kazakh": [
+                    "ашық бәліш"
+                ],
+                "Kyrgyz": [
+                    "ачык токоч"
+                ],
+                "Karakalpak": [
+                    "ashıq bálish"
+                ],
+                "Tatar": [
+                    "ачык бәлеш"
+                ],
+                "Bashkir": [
+                    "асыҡ бәлеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "peynirli ekmek"
+                ],
+                "Turkmen": [
+                    "peýnirli çörek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "nonli taom"
+                ],
+                "Uyghur": [
+                    "نان پىتسا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "итле күмәч"
+                ],
+                "Bashkir": [
+                    "итле бәлеш",
+                    "ҡатлы бәлеш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "камыр ашы"
+                ]
+            }
+        }
+    ]
+}

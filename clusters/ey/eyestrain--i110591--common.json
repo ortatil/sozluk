@@ -1,0 +1,87 @@
+{
+    "id": "i110591",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eyestrain",
+    "en_definition": "a tiredness of the eyes caused by prolonged close work by a person with an uncorrected vision problem",
+    "tr_word": "göz yorgunluğu",
+    "tr_definition": "Gözlerin uzun süre odaklanması veya düzeltilmemiş görme sorunları nedeniyle oluşan yorgunluk hissi.",
+    "ru_word": "утомление глаз",
+    "ru_definition": "Усталость глаз, вызванная длительной работой на близком расстоянии или некорректированными проблемами со зрением.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz yorgunluğu"
+                ],
+                "Azerbaijani": [
+                    "göz yorğunluğu"
+                ],
+                "Turkmen": [
+                    "göz ýadawlygy",
+                    "gözüň talmagy"
+                ],
+                "Uzbek": [
+                    "ko'z toliqishi",
+                    "ko'z charchog'i",
+                    "ko'z horg'inligi"
+                ],
+                "Uyghur": [
+                    "كۆز چارچاش",
+                    "كۆز ھېرىش"
+                ],
+                "Kazakh": [
+                    "көз талуы",
+                    "көз шаршауы",
+                    "көздің шаршауы"
+                ],
+                "Kyrgyz": [
+                    "көз чарчоо",
+                    "көз талуу",
+                    "көз талышы"
+                ],
+                "Karakalpak": [
+                    "kóz talıoı",
+                    "kóz sharshaoı",
+                    "kóz qarıǵıoı"
+                ],
+                "Tatar": [
+                    "күз талу",
+                    "күз ару",
+                    "күз арганлыгы"
+                ],
+                "Bashkir": [
+                    "күҙ талыу",
+                    "күҙ арыу",
+                    "күҙ талыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz zahmeti",
+                    "göz ağrısı"
+                ],
+                "Azerbaijani": [
+                    "göz ağrısı"
+                ],
+                "Turkmen": [
+                    "göz agyrysy"
+                ],
+                "Uyghur": [
+                    "كۆز تېلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "göz zəifliyi"
+                ]
+            }
+        }
+    ]
+}

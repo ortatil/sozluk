@@ -1,0 +1,152 @@
+{
+    "id": "i70276",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "copy editing",
+    "en_definition": "putting something into a form suitable for a printer",
+    "tr_word": "metin düzenleme",
+    "tr_definition": "bir metni basıma hazır hale getirmek için yapılan düzeltme ve biçimlendirme işlemi",
+    "ru_word": "литературное редактирование",
+    "ru_definition": "подготовка текста к печати, включающая проверку стиля, грамматики и оформления",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düzelti"
+                ],
+                "Azerbaijani": [
+                    "düzəliş"
+                ],
+                "Turkmen": [
+                    "düzetme"
+                ],
+                "Uzbek": [
+                    "tuzatish"
+                ],
+                "Uyghur": [
+                    "تۈزىتىش"
+                ],
+                "Kazakh": [
+                    "түзету"
+                ],
+                "Kyrgyz": [
+                    "түзөтүү"
+                ],
+                "Karakalpak": [
+                    "túzetu"
+                ],
+                "Tatar": [
+                    "төзәтү"
+                ],
+                "Bashkir": [
+                    "төҙәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tashih"
+                ],
+                "Azerbaijani": [
+                    "təshih"
+                ],
+                "Turkmen": [
+                    "tahrir"
+                ],
+                "Uzbek": [
+                    "tahrir",
+                    "tahrirlash"
+                ],
+                "Uyghur": [
+                    "تەھرىرلەش",
+                    "تەھرىر"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "redaksiyon"
+                ],
+                "Azerbaijani": [
+                    "redaktə"
+                ],
+                "Kazakh": [
+                    "редакциялау"
+                ],
+                "Kyrgyz": [
+                    "редакциялоо"
+                ],
+                "Karakalpak": [
+                    "redakciyalau"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "баспаға дайындау"
+                ],
+                "Kyrgyz": [
+                    "басмага даярдоо"
+                ],
+                "Karakalpak": [
+                    "baspaǵa dayarlau"
+                ],
+                "Bashkir": [
+                    "баҫмаға әҙерләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "musahhihlik"
+                ],
+                "Tatar": [
+                    "мөхәррирләү"
+                ],
+                "Bashkir": [
+                    "мөхәррирләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өңдеу"
+                ],
+                "Kyrgyz": [
+                    "оңдоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yayına hazırlama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "tahrirleme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ислах"
+                ]
+            }
+        }
+    ]
+}

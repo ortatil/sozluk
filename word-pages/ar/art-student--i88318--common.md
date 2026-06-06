@@ -1,0 +1,143 @@
+# Art student
+| Field | Detail |
+|---|---|
+| **ID** | i88318 |
+| **English** | art student |
+| **Type** | noun |
+| **Definition** | someone studying to be an artist |
+| **Source** | common |
+| **Ortatil** | talaba-sioretşi |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i88318",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "art student",
+    "en_definition": "someone studying to be an artist",
+    "tr_word": "sanat öğrencisi",
+    "tr_definition": "sanatçı olmak için eğitim alan kişi",
+    "ru_word": "студент художественного факультета",
+    "ru_definition": "человек, обучающийся на художника",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sanat öğrencisi",
+                    "sanat talebesi"
+                ],
+                "Azerbaijani": [
+                    "sənət tələbəsi"
+                ],
+                "Turkmen": [
+                    "sungat talyby",
+                    "sungat öwreniji"
+                ],
+                "Uzbek": [
+                    "san'at talabasi",
+                    "san'at o'quvchisi"
+                ],
+                "Uyghur": [
+                    "سەنئەت ئوقۇغۇچىسى",
+                    "سەنئەت تەلىبە"
+                ],
+                "Tatar": [
+                    "сәнгать студенты",
+                    "сәнгать шәкерте"
+                ],
+                "Bashkir": [
+                    "сәнғәт студенты",
+                    "сәнғәт шәкерте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "rəssamlıq tələbəsi"
+                ],
+                "Uzbek": [
+                    "rassomlik talabasi"
+                ],
+                "Uyghur": [
+                    "رەسساملىق ئوقۇغۇچىسى"
+                ],
+                "Tatar": [
+                    "рәссамлыкка укучы"
+                ],
+                "Bashkir": [
+                    "рәссамлыҡҡа өйрәнеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "суретшілікке оқушы"
+                ],
+                "Kyrgyz": [
+                    "сүрөтчүлүк окуучусу",
+                    "сүрөткерликке үйрөнүүчү"
+                ],
+                "Karakalpak": [
+                    "súoretshilik studenti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өнер студенті",
+                    "өнер шәкірті"
+                ],
+                "Kyrgyz": [
+                    "өнөр окуучусу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güzel sanatlar öğrencisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "incəsənət tələbəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nakgaşlyk talyby"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kórkem óner studenti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "talaba-súoretshi"
+                ]
+            }
+        }
+    ]
+}
+```
+

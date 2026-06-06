@@ -1,0 +1,147 @@
+{
+    "id": "i31004",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "cut to",
+    "en_definition": "move to another scene when filming",
+    "tr_word": "geçiş yapmak",
+    "tr_definition": "film çekiminde bir sahneden diğerine atlamak",
+    "ru_word": "перейти к",
+    "ru_definition": "перейти к другой сцене при съемке фильма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "almashmoq"
+                ],
+                "Uyghur": [
+                    "ئالماشتۇرۇش"
+                ],
+                "Kazakh": [
+                    "алмасу"
+                ],
+                "Kyrgyz": [
+                    "алмаштыруу"
+                ],
+                "Karakalpak": [
+                    "almastırıo"
+                ],
+                "Tatar": [
+                    "алмаштыру"
+                ],
+                "Bashkir": [
+                    "алмаштырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "geçmek",
+                    "kesmek"
+                ],
+                "Azerbaijani": [
+                    "keçmək"
+                ],
+                "Turkmen": [
+                    "geçmek"
+                ],
+                "Uzbek": [
+                    "koʻchmoq"
+                ],
+                "Uyghur": [
+                    "كېسىپ ئۇلاش"
+                ],
+                "Kyrgyz": [
+                    "кесүү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көшу"
+                ],
+                "Karakalpak": [
+                    "kóshio"
+                ],
+                "Tatar": [
+                    "күчү",
+                    "күчеш ясау"
+                ],
+                "Bashkir": [
+                    "күсеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "atlamak",
+                    "bağlamak"
+                ],
+                "Azerbaijani": [
+                    "adlamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "başga görnüşe geçmek"
+                ],
+                "Uyghur": [
+                    "باشقا كۆرۈنۈشكە ئۆتۈش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oʻtmoq"
+                ],
+                "Kyrgyz": [
+                    "өтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dəyişmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "üýtgetmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ауысу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ótio"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яңы күренешкә күсеү"
+                ]
+            }
+        }
+    ]
+}

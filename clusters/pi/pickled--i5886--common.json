@@ -1,0 +1,125 @@
+{
+    "id": "i5886",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "pickled",
+    "en_definition": "(used of foods) preserved in a pickling liquid",
+    "tr_word": "turşulanmış",
+    "tr_definition": "Salamura veya sirke içinde bekletilerek korunmuş (yiyecekler için)",
+    "ru_word": "маринованный",
+    "ru_definition": "Сохраненный в маринаде или рассоле (о продуктах питания)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "duzlanan"
+                ],
+                "Uzbek": [
+                    "tuzlangan"
+                ],
+                "Uyghur": [
+                    "تۇزلانغان",
+                    "تۇزلىمە"
+                ],
+                "Kazakh": [
+                    "тұздалған"
+                ],
+                "Kyrgyz": [
+                    "туздалган"
+                ],
+                "Karakalpak": [
+                    "tұzdalǵan"
+                ],
+                "Tatar": [
+                    "тозланган",
+                    "тозлы"
+                ],
+                "Bashkir": [
+                    "тоҙланған",
+                    "тоҙло"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "achitilgan"
+                ],
+                "Kazakh": [
+                    "ашытылған"
+                ],
+                "Kyrgyz": [
+                    "ачытылган"
+                ],
+                "Karakalpak": [
+                    "ashıtılǵan"
+                ],
+                "Tatar": [
+                    "ачытылган"
+                ],
+                "Bashkir": [
+                    "әсетелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sirkəyə qoyulmuş"
+                ],
+                "Turkmen": [
+                    "sirke goýlan"
+                ],
+                "Uyghur": [
+                    "سىركىگە چىلانغان"
+                ],
+                "Kazakh": [
+                    "сіркеленген"
+                ],
+                "Karakalpak": [
+                    "sіrkelengen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "turşu",
+                    "turşulanmış"
+                ],
+                "Azerbaijani": [
+                    "turşu",
+                    "turşuya qoyulmuş"
+                ],
+                "Turkmen": [
+                    "turşadylan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "salamura"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sho'r"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "маринаддалган"
+                ]
+            }
+        }
+    ]
+}

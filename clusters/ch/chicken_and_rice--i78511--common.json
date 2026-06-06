@@ -1,0 +1,75 @@
+{
+    "id": "i78511",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chicken and rice",
+    "en_definition": "rice and chicken cooked together with or without other ingredients and variously seasoned",
+    "tr_word": "tavuklu pilav",
+    "tr_definition": "Tavuk eti ve pirincin birlikte pişirilmesiyle hazırlanan, bazen çeşitli baharatlar veya ek malzemeler içeren yemek.",
+    "ru_word": "курица с рисом",
+    "ru_definition": "Блюдо из риса и курицы, приготовленных вместе, иногда с добавлением других ингредиентов и приправ.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavuklu pilav",
+                    "tavuklu pirinç pilavı"
+                ],
+                "Azerbaijani": [
+                    "toyuqlu plov",
+                    "toyuq aş",
+                    "toyuqlu aş"
+                ],
+                "Turkmen": [
+                    "towukly palow",
+                    "towukly tüwi"
+                ],
+                "Uzbek": [
+                    "tovuqli palov",
+                    "tovuq palov",
+                    "tovuqli osh"
+                ],
+                "Uyghur": [
+                    "توخۇ پولو",
+                    "توخۇ گۆشلۈك پولو"
+                ],
+                "Kazakh": [
+                    "тауық палау",
+                    "тауық күріш"
+                ],
+                "Karakalpak": [
+                    "taoıq palaw",
+                    "taoıqlı palaw"
+                ],
+                "Tatar": [
+                    "тавыклы пылау",
+                    "тавыклы дөге"
+                ],
+                "Bashkir": [
+                    "тауыҡлы былау",
+                    "тауыҡлы дөгө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "toyuq plovu"
+                ],
+                "Kyrgyz": [
+                    "тоок палоо",
+                    "тоок эти менен палоо",
+                    "тоок эти кошулган күрүч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тауық еті қосылған палау"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+# License number
+| Field | Detail |
+|---|---|
+| **ID** | i70264 |
+| **English** | license number |
+| **Type** | noun |
+| **Definition** | the number on the license plate that identifies the car that bears it |
+| **Source** | common |
+| **Ortatil** | ḅlakqa |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i70264",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "license number",
+    "en_definition": "the number on the license plate that identifies the car that bears it",
+    "tr_word": "plaka numarası",
+    "tr_definition": "bir aracı tanımlayan ve plaka üzerinde bulunan numara",
+    "ru_word": "номерной знак",
+    "ru_definition": "номер на номерном знаке, идентифицирующий автомобиль, на котором он установлен",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nömrə nişanı"
+                ],
+                "Turkmen": [
+                    "nomer"
+                ],
+                "Uyghur": [
+                    "نومۇر تاختىسى"
+                ],
+                "Karakalpak": [
+                    "nomer belgisi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dövlət nömrə nişanı"
+                ],
+                "Uzbek": [
+                    "davlat raqami"
+                ],
+                "Tatar": [
+                    "дәүләт номеры"
+                ],
+                "Bashkir": [
+                    "дәүләт номеры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "maşın nömrəsi"
+                ],
+                "Uyghur": [
+                    "ماشىنا نومۇرى"
+                ],
+                "Tatar": [
+                    "машина номеры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "awtoulag belgisi"
+                ],
+                "Karakalpak": [
+                    "awtomobil nomeri"
+                ],
+                "Bashkir": [
+                    "автомобиль номеры"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "мемлекеттік нөмір"
+                ],
+                "Kyrgyz": [
+                    "мамлекеттик номер"
+                ],
+                "Karakalpak": [
+                    "mámleketlik belgi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тіркеу нөмірі"
+                ],
+                "Tatar": [
+                    "теркәү номеры"
+                ],
+                "Bashkir": [
+                    "теркәү номеры"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "plaka"
+                ],
+                "Turkmen": [
+                    "belgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "plaka numarası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "araç plakası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qeydiyyat nişanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hasaba alyş belgisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "roʻyxat raqami"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "avtomobil raqami"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېگىشلىك نومۇر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлік нөмірі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "каттоо номери"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "унаа номери"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,128 @@
+{
+    "id": "i77449",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "egg noodle",
+    "en_definition": "narrow strip of pasta dough made with eggs",
+    "tr_word": "yumurtalı erişte",
+    "tr_definition": "yumurta ile yapılan dar şeritler halindeki makarna hamuru",
+    "ru_word": "яичная лапша",
+    "ru_definition": "узкие полоски теста для макаронных изделий, приготовленные с добавлением яиц",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kesme"
+                ],
+                "Azerbaijani": [
+                    "kəsmə"
+                ],
+                "Turkmen": [
+                    "kesme"
+                ],
+                "Uzbek": [
+                    "kesma"
+                ],
+                "Kazakh": [
+                    "кеспе"
+                ],
+                "Kyrgyz": [
+                    "кесме"
+                ],
+                "Karakalpak": [
+                    "kespe"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "erişte"
+                ],
+                "Azerbaijani": [
+                    "əriştə"
+                ],
+                "Turkmen": [
+                    "erişte"
+                ],
+                "Kyrgyz": [
+                    "эриште"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tuxumli ugra",
+                    "tuxumli kesma"
+                ],
+                "Uyghur": [
+                    "تۇخۇم ئاش",
+                    "تۇخۇملۇق ئاش",
+                    "تۇخۇملۇق چۆپ"
+                ],
+                "Tatar": [
+                    "токмач"
+                ],
+                "Bashkir": [
+                    "туҡмас"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "salma"
+                ],
+                "Tatar": [
+                    "салма"
+                ],
+                "Bashkir": [
+                    "салма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жайпақ кеспе"
+                ],
+                "Karakalpak": [
+                    "jaypa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ev makarnası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ugra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жұмыртқа кеспесі"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ылаҡсын"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "id": "i19356",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "week after week",
+    "en_definition": "for an indefinite number of successive weeks",
+    "tr_word": "haftalarca",
+    "tr_definition": "birbirini izleyen belirsiz sayıda hafta boyunca",
+    "ru_word": "неделя за неделей",
+    "ru_definition": "в течение неопределенного количества последовательных недель",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "haftalarca",
+                    "hafta hafta",
+                    "haftalar boyu"
+                ],
+                "Azerbaijani": [
+                    "həftələrlə",
+                    "həftəbəhəftə"
+                ],
+                "Turkmen": [
+                    "hepdem-hepde",
+                    "hepdeläp"
+                ],
+                "Uzbek": [
+                    "haftama-hafta",
+                    "haftalab"
+                ],
+                "Uyghur": [
+                    "ھەپتىدىن ھەپتىگە",
+                    "ھەپتە ئارا"
+                ],
+                "Karakalpak": [
+                    "hápte sayın",
+                    "hápteden háptege"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "her hafta"
+                ],
+                "Azerbaijani": [
+                    "hər həftə"
+                ],
+                "Turkmen": [
+                    "her hepde"
+                ],
+                "Uzbek": [
+                    "har hafta"
+                ],
+                "Uyghur": [
+                    "ھەر ھەپتە"
+                ],
+                "Karakalpak": [
+                    "hár hápte"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "апта сайын",
+                    "аптадан аптаға",
+                    "апталап"
+                ],
+                "Kyrgyz": [
+                    "апта сайын",
+                    "апталап"
+                ],
+                "Tatar": [
+                    "атна саен",
+                    "атналар буе",
+                    "атнадан-атна"
+                ],
+                "Bashkir": [
+                    "аҙналар буйы",
+                    "аҙна артынан аҙна"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "yzygiderli hepde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әр апта сайын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жума сайын",
+                    "жумалап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аҙна һайын"
+                ]
+            }
+        }
+    ]
+}

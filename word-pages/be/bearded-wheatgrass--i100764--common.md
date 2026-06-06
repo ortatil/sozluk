@@ -1,0 +1,164 @@
+# Bearded wheatgrass
+| Field | Detail |
+|---|---|
+| **ID** | i100764 |
+| **English** | bearded wheatgrass |
+| **Type** | noun |
+| **Definition** | a wheatgrass with straight terminal awns on the flowering glumes |
+| **Source** | common |
+| **Ortatil** | buğdayıq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **buğdayıq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.20 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.03** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| кыяк | kıyak |
+| **Tatar** | |
+| кыяк | kıyak |
+| **Bashkir** | |
+| эттәнәге | ettänäge |
+
+```json
+{
+    "id": "i100764",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bearded wheatgrass",
+    "en_definition": "a wheatgrass with straight terminal awns on the flowering glumes",
+    "tr_word": "kılçıklı ot",
+    "tr_definition": "çiçek kavuzlarında düz uç kılçıkları bulunan bir buğdaygiller türü",
+    "ru_word": "житняк гребневидный",
+    "ru_definition": "вид пырея с прямыми остями на цветковых чешуях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kılçıklı ayrık",
+                    "kılçıklı ayrık otu",
+                    "kılçıklı buğday çimi"
+                ],
+                "Azerbaijani": [
+                    "qılçıqlı ayrıqotu"
+                ],
+                "Uzbek": [
+                    "qiltiqli bugʻdoyiq",
+                    "qiltiqli oʻt"
+                ],
+                "Uyghur": [
+                    "قىلچىقلىق بۇغداي ئوتى"
+                ],
+                "Kazakh": [
+                    "қылтықты бидайық"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bugdaýyk"
+                ],
+                "Uzbek": [
+                    "bugʻdoyiq"
+                ],
+                "Kyrgyz": [
+                    "буудай чөп"
+                ],
+                "Karakalpak": [
+                    "biydayıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "saqqallı ayrıqotu"
+                ],
+                "Uyghur": [
+                    "ساقاللىق بۇغداي ئوتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "itbugdaý"
+                ],
+                "Bashkir": [
+                    "эт биҙгәләге",
+                    "эт биҙгәләк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыяк",
+                    "кыяк чөп"
+                ],
+                "Tatar": [
+                    "кыяк үлән",
+                    "кыяк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ayrıqotu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyrtyç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "итқонақ бидайық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "erkek shóp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "эттәнәге"
+                ]
+            }
+        }
+    ]
+}
+```
+

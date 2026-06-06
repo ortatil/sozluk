@@ -1,0 +1,146 @@
+{
+    "id": "i106741",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "room rate",
+    "en_definition": "the rate charged daily for a hotel room",
+    "tr_word": "oda fiyatı",
+    "tr_definition": "bir otel odası için günlük olarak alınan ücret",
+    "ru_word": "стоимость номера",
+    "ru_definition": "ежедневная плата за гостиничный номер",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бөлме бағасы",
+                    "бөлме құны"
+                ],
+                "Kyrgyz": [
+                    "бөлмө акысы",
+                    "бөлмө баасы"
+                ],
+                "Karakalpak": [
+                    "bólme bahası",
+                    "bólme haqısı"
+                ],
+                "Tatar": [
+                    "бүлмә бәясе",
+                    "бүлмә хакы"
+                ],
+                "Bashkir": [
+                    "бүлмә хаҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "орун акысы"
+                ],
+                "Karakalpak": [
+                    "orın bahası"
+                ],
+                "Tatar": [
+                    "урын бәясе"
+                ],
+                "Bashkir": [
+                    "урын хаҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oda fiyatı",
+                    "oda ücreti"
+                ],
+                "Azerbaijani": [
+                    "otaq qiyməti",
+                    "otaq haqqı"
+                ],
+                "Turkmen": [
+                    "otag nyrhy",
+                    "otag bahasy",
+                    "otag tölegi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "konaklama bedeli"
+                ],
+                "Kyrgyz": [
+                    "конок үй акысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gecelik ücret"
+                ],
+                "Azerbaijani": [
+                    "gecələmə qiyməti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәүлеклек бәя"
+                ],
+                "Bashkir": [
+                    "тәүлеклек хаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məskən haqqı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xona narxi",
+                    "xona haqi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "turar joy narxi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ياتاق ھەققى",
+                    "ياتاق باھاسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ھۇجرە ھەققى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "төлем мөлшері"
+                ]
+            }
+        }
+    ]
+}

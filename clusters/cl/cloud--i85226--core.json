@@ -1,0 +1,86 @@
+{
+    "id": "i85226",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "cloud",
+    "en_definition": "a visible mass of water or ice particles suspended at a considerable altitude",
+    "tr_word": "bulut",
+    "tr_definition": "atmosferdeki su buharının yoğunlaşmasıyla oluşan, gökyüzünde asılı duran beyaz veya gri yığın",
+    "ru_word": "облако",
+    "ru_definition": "скопление взвешенных в атмосфере капель воды или кристаллов льда",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bulut"
+                ],
+                "Azerbaijani": [
+                    "bulud"
+                ],
+                "Turkmen": [
+                    "bulut"
+                ],
+                "Uzbek": [
+                    "bulut"
+                ],
+                "Uyghur": [
+                    "بۇلۇت"
+                ],
+                "Kazakh": [
+                    "бұлт"
+                ],
+                "Kyrgyz": [
+                    "булут"
+                ],
+                "Karakalpak": [
+                    "bұlt"
+                ],
+                "Tatar": [
+                    "болыт"
+                ],
+                "Bashkir": [
+                    "болот"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ebr"
+                ],
+                "Azerbaijani": [
+                    "əbr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gumry"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұлттар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сәхәб"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аҡ болот"
+                ]
+            }
+        }
+    ]
+}

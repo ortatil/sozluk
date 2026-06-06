@@ -1,0 +1,106 @@
+{
+    "id": "i57632",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "power station",
+    "en_definition": "an electrical generating station",
+    "tr_word": "elektrik santrali",
+    "tr_definition": "elektrik enerjisinin üretildiği tesis",
+    "ru_word": "электростанция",
+    "ru_definition": "промышленное предприятие для выработки электроэнергии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektrik santrali",
+                    "enerji santrali"
+                ],
+                "Azerbaijani": [
+                    "elektrik stansiyası",
+                    "elektrik mərkəzi"
+                ],
+                "Turkmen": [
+                    "elektrik bekedi",
+                    "elektrik stansiýasy",
+                    "elektrik ojagy"
+                ],
+                "Uzbek": [
+                    "elektr stansiyasi"
+                ],
+                "Uyghur": [
+                    "ئېلېكتر ئىستانسىسى"
+                ],
+                "Kazakh": [
+                    "электр станциясы",
+                    "электр орталығы"
+                ],
+                "Kyrgyz": [
+                    "электр станциясы",
+                    "электр чордону"
+                ],
+                "Karakalpak": [
+                    "elektr stanciyası"
+                ],
+                "Tatar": [
+                    "электр станциясе"
+                ],
+                "Bashkir": [
+                    "электр станцияһы",
+                    "электр үҙәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kuch stansiyasi"
+                ],
+                "Kazakh": [
+                    "қуат станциясы"
+                ],
+                "Kyrgyz": [
+                    "кубат станциясы"
+                ],
+                "Karakalpak": [
+                    "quat stanciyası"
+                ],
+                "Tatar": [
+                    "куәт станциясе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güç santrali"
+                ],
+                "Azerbaijani": [
+                    "güc mərkəzi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quvvatgoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توك چىقىرىش ئورنى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بەرقىگاھ"
+                ]
+            }
+        }
+    ]
+}

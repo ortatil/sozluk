@@ -1,0 +1,95 @@
+{
+    "id": "i58279",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rose garden",
+    "en_definition": "a garden for growing roses",
+    "tr_word": "gül bahçesi",
+    "tr_definition": "güllerin yetiştirildiği bir bahçe",
+    "ru_word": "розарий",
+    "ru_definition": "сад или участок, предназначенный для выращивания роз",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gül bahçesi",
+                    "güllük"
+                ],
+                "Azerbaijani": [
+                    "gülüstən",
+                    "gülzar",
+                    "güllük"
+                ],
+                "Turkmen": [
+                    "gülzar",
+                    "gülzarlyk",
+                    "gülbag"
+                ],
+                "Uyghur": [
+                    "گۈلزار",
+                    "گۈلۈستان",
+                    "گۈللۈك"
+                ],
+                "Kazakh": [
+                    "гүлзар",
+                    "гүлбақ",
+                    "гүлстан"
+                ],
+                "Kyrgyz": [
+                    "гүлзар",
+                    "гүлбак",
+                    "гүл бакча"
+                ],
+                "Karakalpak": [
+                    "gúlzar",
+                    "gúlstan",
+                    "gúl baǵı"
+                ],
+                "Tatar": [
+                    "гөлбакча",
+                    "гөлстан",
+                    "гөлзар"
+                ],
+                "Bashkir": [
+                    "гөлбәксә",
+                    "гөлстан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gülistan"
+                ],
+                "Uzbek": [
+                    "guliston"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "gulzor"
+                ],
+                "Bashkir": [
+                    "гөл баҡсаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qızılgül bağı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boʻston"
+                ]
+            }
+        }
+    ]
+}

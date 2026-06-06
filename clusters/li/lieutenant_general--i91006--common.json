@@ -1,0 +1,117 @@
+{
+    "id": "i91006",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lieutenant general",
+    "en_definition": "a general officer ranking above a major general and below a full general",
+    "tr_word": "korgeneral",
+    "tr_definition": "Tümgeneral ile orgeneral arasındaki rütbede bulunan general.",
+    "ru_word": "генерал-лейтенант",
+    "ru_definition": "воинское звание высшего офицерского состава, стоящее выше генерал-майора и ниже генерал-полковника.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "general-leytenant"
+                ],
+                "Turkmen": [
+                    "general-leýtenant"
+                ],
+                "Uzbek": [
+                    "general-leytenant"
+                ],
+                "Uyghur": [
+                    "گېنېرال-لېيتېنانت"
+                ],
+                "Kazakh": [
+                    "генерал-лейтенант"
+                ],
+                "Karakalpak": [
+                    "general-leytenant"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "leytenant-general"
+                ],
+                "Kazakh": [
+                    "лейтенант-генерал"
+                ],
+                "Kyrgyz": [
+                    "лейтенант-генерал"
+                ],
+                "Bashkir": [
+                    "лейтенант-генерал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "түмөн башы"
+                ],
+                "Tatar": [
+                    "төмәнабашы",
+                    "төмәнбашы"
+                ],
+                "Bashkir": [
+                    "төмәндәш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "korgeneral"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ferik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goşunbaşy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "serkerde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرا گېنېرال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "аскер башчы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "наиб-генерал"
+                ]
+            }
+        }
+    ]
+}

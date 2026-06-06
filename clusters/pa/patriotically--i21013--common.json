@@ -1,0 +1,104 @@
+{
+    "id": "i21013",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "patriotically",
+    "en_definition": "in a patriotic manner",
+    "tr_word": "vatanseverce",
+    "tr_definition": "vatansever bir şekilde, yurtseverlikle",
+    "ru_word": "патриотично",
+    "ru_definition": "в патриотической манере, с чувством любви к родине",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vatanseverlikle",
+                    "vatanperverane",
+                    "vatanperverce"
+                ],
+                "Azerbaijani": [
+                    "vətənpərvərliklə",
+                    "vətənpərvəranə",
+                    "vətənsevərliklə"
+                ],
+                "Turkmen": [
+                    "watanperwerlik bilen",
+                    "watansöýüjilik bilen",
+                    "watançylykly"
+                ],
+                "Uzbek": [
+                    "vatanparvarona",
+                    "vatanparvarlik bilan",
+                    "vatansevarlik bilan",
+                    "vatansevarona"
+                ],
+                "Uyghur": [
+                    "ۋەتەنپەرۋەرلىك بىلەن",
+                    "ۋەتەنپەرۋەرانە",
+                    "ۋەتەننى سۆيۈش بىلەن"
+                ],
+                "Karakalpak": [
+                    "oatansúyioshilik penen",
+                    "oatansúyioshilershe",
+                    "oatandı súyip",
+                    "oatanparwarlarsha"
+                ],
+                "Tatar": [
+                    "ватанпәрвәрләрчә",
+                    "ватанпәрвәрлек белән",
+                    "ватансөярлек белән"
+                ],
+                "Bashkir": [
+                    "ватансыларса",
+                    "ватансыллыҡ менән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yurtseverlikle"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отансүйгіштікпен",
+                    "отаншылдықпен",
+                    "отан үшін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "елжандылықпен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "мекенчилдик менен",
+                    "мекенчилче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ата-мекендик сезим менен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "илһөйәрлек менән"
+                ]
+            }
+        }
+    ]
+}

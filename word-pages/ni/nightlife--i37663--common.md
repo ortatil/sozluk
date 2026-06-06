@@ -1,0 +1,109 @@
+# Nightlife
+| Field | Detail |
+|---|---|
+| **ID** | i37663 |
+| **English** | nightlife |
+| **Type** | noun |
+| **Definition** | the activity of people seeking nighttime diversion (as at the theater, a nightclub, etc.) |
+| **Source** | common |
+| **Ortatil** | şäbgärdä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i37663",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "nightlife",
+    "en_definition": "the activity of people seeking nighttime diversion (as at the theater, a nightclub, etc.)",
+    "tr_word": "gece hayatı",
+    "tr_definition": "İnsanların gece vakti tiyatro, gece kulübü ve benzeri yerlerde eğlenmek için gerçekleştirdiği etkinliklerin bütünü.",
+    "ru_word": "ночная жизнь",
+    "ru_definition": "Развлечения и общественная деятельность, доступные в ночное время (в клубах, барах, театрах и т. д.).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "tungi hayot",
+                    "tungi o'yin-kulgi"
+                ],
+                "Kazakh": [
+                    "түнгі өмір",
+                    "түнгі сауық",
+                    "түнгі ойын-сауық"
+                ],
+                "Kyrgyz": [
+                    "түнкү жашоо",
+                    "түнкү оюн-зоок",
+                    "түнкү көңүл ачуу"
+                ],
+                "Karakalpak": [
+                    "túngі ómіr",
+                    "túngі sauıq",
+                    "túngі dem alıs"
+                ],
+                "Tatar": [
+                    "төнге тормыш",
+                    "төнге мәҗлес"
+                ],
+                "Bashkir": [
+                    "төнгө тормош",
+                    "төнгө күңел асыу",
+                    "төнгө мәжлес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gece hayatı",
+                    "gece alemi"
+                ],
+                "Azerbaijani": [
+                    "gecə həyatı",
+                    "gecə əyləncəsi",
+                    "gecə məclisi"
+                ],
+                "Turkmen": [
+                    "gije durmuşy",
+                    "gijeki dynç alyş",
+                    "gijeki hezil",
+                    "gijeki şagalaň"
+                ],
+                "Uyghur": [
+                    "كېچىلىك تۇرمۇش",
+                    "كېچىلىك كۆڭۈل ئېچىش",
+                    "كېچىلىك پائالىيەت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gece eğlencesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shabgarda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төнге күңел ачу"
+                ]
+            }
+        }
+    ]
+}
+```
+

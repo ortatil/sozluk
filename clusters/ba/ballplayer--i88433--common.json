@@ -1,0 +1,89 @@
+{
+    "id": "i88433",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ballplayer",
+    "en_definition": "an athlete who plays baseball",
+    "tr_word": "beyzbolcu",
+    "tr_definition": "beyzbol oynayan sporcu",
+    "ru_word": "бейсболист",
+    "ru_definition": "спортсмен, играющий в бейсбол",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beyzbolcu",
+                    "beyzbol oyuncusu"
+                ],
+                "Azerbaijani": [
+                    "beysbolçu",
+                    "beysbol oyunçusu"
+                ],
+                "Turkmen": [
+                    "beýsbolçy"
+                ],
+                "Uzbek": [
+                    "beysbolchi",
+                    "beysbol o'yinchisi"
+                ],
+                "Uyghur": [
+                    "بەيسىبولچى"
+                ],
+                "Kazakh": [
+                    "бейсболшы"
+                ],
+                "Kyrgyz": [
+                    "бейсболчу"
+                ],
+                "Karakalpak": [
+                    "beysbolshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "oýunçy"
+                ],
+                "Kazakh": [
+                    "ойыншы"
+                ],
+                "Kyrgyz": [
+                    "оюнчу"
+                ],
+                "Karakalpak": [
+                    "oyınshı"
+                ],
+                "Tatar": [
+                    "уенчы"
+                ],
+                "Bashkir": [
+                    "уйынсы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "topçy"
+                ],
+                "Uyghur": [
+                    "توپچى",
+                    "توپ ئوينىغۇچى"
+                ],
+                "Kyrgyz": [
+                    "топчу"
+                ],
+                "Tatar": [
+                    "тупчы"
+                ],
+                "Bashkir": [
+                    "тупсы"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "id": "i24925",
+    "type": "verb",
+    "batch": "core",
+    "en_word": "calculate",
+    "en_definition": "make a mathematical calculation or computation",
+    "tr_word": "hesaplamak",
+    "tr_definition": "matematiksel bir işlem veya hesaplama yapmak",
+    "ru_word": "вычислять",
+    "ru_definition": "производить математические расчеты или вычисления",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sanamoq"
+                ],
+                "Uyghur": [
+                    "سانىماق"
+                ],
+                "Kazakh": [
+                    "санау"
+                ],
+                "Kyrgyz": [
+                    "саноо"
+                ],
+                "Karakalpak": [
+                    "sanau"
+                ],
+                "Tatar": [
+                    "санау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesaplamak",
+                    "hesap etmek"
+                ],
+                "Azerbaijani": [
+                    "hesablamaq"
+                ],
+                "Turkmen": [
+                    "hasaplamak",
+                    "hasap etmek",
+                    "hasaba almak"
+                ],
+                "Uzbek": [
+                    "hisoblamoq",
+                    "hisob-kitob qilmoq"
+                ],
+                "Uyghur": [
+                    "ھېسابلىماق",
+                    "ھېسابات قىلماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "есептеу"
+                ],
+                "Kyrgyz": [
+                    "эсептөө",
+                    "эсеп кылуу"
+                ],
+                "Karakalpak": [
+                    "esaplau",
+                    "esap-sanaq qılıu"
+                ],
+                "Tatar": [
+                    "исәпләү"
+                ],
+                "Bashkir": [
+                    "иҫәпләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хисаплау"
+                ],
+                "Bashkir": [
+                    "хисаплау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "saymak"
+                ],
+                "Azerbaijani": [
+                    "saymaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һанау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təxmin etmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "айыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мөлшерлеу"
+                ]
+            }
+        }
+    ]
+}

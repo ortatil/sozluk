@@ -1,0 +1,93 @@
+{
+    "id": "i76736",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "peanut brittle",
+    "en_definition": "brittle containing peanuts",
+    "tr_word": "yer fıstıklı krokan",
+    "tr_definition": "Sertleşmiş karamelize şeker ve yer fıstığından yapılan gevrek bir şekerleme türü.",
+    "ru_word": "арахисовый грильяж",
+    "ru_definition": "Кондитерское изделие из обжаренного арахиса, залитого карамелизованным сахаром.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yer fıstıklı şekerleme"
+                ],
+                "Azerbaijani": [
+                    "yerfındıqlı krokan",
+                    "yerfındıqlı qoz-halva"
+                ],
+                "Uzbek": [
+                    "yer yong'oqli holva"
+                ],
+                "Uyghur": [
+                    "يەر ياڭاقلىق ناۋات",
+                    "يەر ياڭاقلىق تاتلىق-تۈرۈم",
+                    "يەر ياڭاقلىق قەنت"
+                ],
+                "Kazakh": [
+                    "жер жаңғақ кәмпиті",
+                    "жер жаңғақ козинагы",
+                    "жер жаңғақ тәттісі"
+                ],
+                "Kyrgyz": [
+                    "жер жаңгактуу момпосуй",
+                    "жер жаңгактуу таттуу",
+                    "жер жаңгактуу кант"
+                ],
+                "Karakalpak": [
+                    "jer jańǵaqlı qant",
+                    "jer jańǵaqlı kámpit",
+                    "jer jańǵaqlı krokant"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "arahisli gozanak",
+                    "arahisli krokan",
+                    "arahisli şekerli"
+                ],
+                "Tatar": [
+                    "арахислы корт",
+                    "арахислы кәнфит",
+                    "арахислы татлы"
+                ],
+                "Bashkir": [
+                    "арахислы корт",
+                    "арахислы кәнфит",
+                    "арахислы татлы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fıstıklı krokan",
+                    "fıstıklı akide"
+                ],
+                "Azerbaijani": [
+                    "fıstıqlı krokan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yong'oqli qand"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shakarli yong'oq"
+                ]
+            }
+        }
+    ]
+}

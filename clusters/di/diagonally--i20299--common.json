@@ -1,0 +1,131 @@
+{
+    "id": "i20299",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "diagonally",
+    "en_definition": "in a diagonal manner",
+    "tr_word": "çaprazlamasına",
+    "tr_definition": "bir köşeden karşı köşeye doğru, çapraz bir biçimde",
+    "ru_word": "по диагонали",
+    "ru_definition": "в косом или наклонном направлении, соединяющем противоположные углы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyýak",
+                    "gyýaklaýyn"
+                ],
+                "Uzbek": [
+                    "qiyshiq"
+                ],
+                "Uyghur": [
+                    "قىيپاش",
+                    "قىيپاشچە",
+                    "قىيسايغان"
+                ],
+                "Kazakh": [
+                    "қиғаш",
+                    "қиғашынан"
+                ],
+                "Kyrgyz": [
+                    "кыйгач",
+                    "кыйтар",
+                    "кыйгачтап",
+                    "кыйгачтык"
+                ],
+                "Karakalpak": [
+                    "qiyalay",
+                    "qiya"
+                ],
+                "Tatar": [
+                    "кыекча",
+                    "кыеклатып",
+                    "кыеклай"
+                ],
+                "Bashkir": [
+                    "ҡыйыш",
+                    "ҡыйыштан",
+                    "ҡыялай",
+                    "ҡыя"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "diyagonal"
+                ],
+                "Azerbaijani": [
+                    "diaqonal"
+                ],
+                "Uzbek": [
+                    "diagonaliga"
+                ],
+                "Tatar": [
+                    "диагональ буенча"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻndalangiga"
+                ],
+                "Uyghur": [
+                    "كۆندىلىڭىگە"
+                ],
+                "Kazakh": [
+                    "көлденең"
+                ],
+                "Karakalpak": [
+                    "kóldeneńіnen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çaprazlama",
+                    "çapraz"
+                ],
+                "Azerbaijani": [
+                    "çəpəki",
+                    "çəp",
+                    "çəpinə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "vereve"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çakyşlaýyn",
+                    "çakyşlygyna"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "burchakdan burchakka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "көлбеу"
+                ]
+            }
+        }
+    ]
+}

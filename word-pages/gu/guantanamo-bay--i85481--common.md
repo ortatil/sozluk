@@ -1,0 +1,76 @@
+# Guantanamo bay
+| Field | Detail |
+|---|---|
+| **ID** | i85481 |
+| **English** | guantanamo bay |
+| **Type** | noun |
+| **Definition** | an inlet of the Caribbean Sea; a United States naval station was established on the bay in 1903 |
+| **Source** | common |
+| **Ortatil** | gwäntänämä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i85481",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "guantanamo bay",
+    "en_definition": "an inlet of the Caribbean Sea; a United States naval station was established on the bay in 1903",
+    "tr_word": "Guantanamo Körfezi",
+    "tr_definition": "Karayip Denizi'nde bir körfez; 1903 yılında körfezde bir Amerika Birleşik Devletleri deniz üssü kurulmuştur",
+    "ru_word": "Гуантанамо",
+    "ru_definition": "залив в Карибском море; в 1903 году на берегу залива была создана военно-морская база США",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Guantanamo Körfezi"
+                ],
+                "Azerbaijani": [
+                    "Quantanamo körfəzi",
+                    "Quantanamo buxtası"
+                ],
+                "Turkmen": [
+                    "Guantanamo aýlagy",
+                    "Guantanamo körfezi"
+                ],
+                "Uyghur": [
+                    "گۇانتانامو قولتۇقى",
+                    "گۇانتانامو بوغۇزى"
+                ],
+                "Kazakh": [
+                    "Гуантанамо шығанағы",
+                    "Гуантанамо айлағы"
+                ],
+                "Kyrgyz": [
+                    "Гуантанамо булуңу",
+                    "Гуантанамо куймасы"
+                ],
+                "Karakalpak": [
+                    "Guantanamo shıǵanaǵı",
+                    "Guantanamo bólteńі"
+                ],
+                "Tatar": [
+                    "Гуантанамо култыгы"
+                ],
+                "Bashkir": [
+                    "Гуантанамо ҡултығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "Gvantanamo koʻrfazi",
+                    "Gvantanamo"
+                ]
+            }
+        }
+    ]
+}
+```
+

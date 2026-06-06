@@ -1,0 +1,93 @@
+{
+    "id": "i64964",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "digestive system",
+    "en_definition": "the system that makes food absorbable into the body",
+    "tr_word": "sindirim sistemi",
+    "tr_definition": "yiyeceklerin vücut tarafından emilebilir hale getirilmesini sağlayan sistem",
+    "ru_word": "пищеварительная система",
+    "ru_definition": "система органов, обеспечивающая переработку и усвоение пищи организмом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hazım cihazı"
+                ],
+                "Azerbaijani": [
+                    "həzm sistemi",
+                    "həzm cihazı"
+                ],
+                "Turkmen": [
+                    "hazm ediş ulgamy",
+                    "hazm ediş sistemasy"
+                ],
+                "Uzbek": [
+                    "hazm qilish tizimi",
+                    "hazm a'zolari"
+                ],
+                "Uyghur": [
+                    "ھەزىم قىلىش سىستېمىسى",
+                    "ھەزىم ئەزالىرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sindirim sistemi"
+                ],
+                "Uyghur": [
+                    "ھەزىم سىستېمىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iýmit siňdiriş ulgamy"
+                ],
+                "Uzbek": [
+                    "ovqat hazm qilish a'zolari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "as sińirio sisteması",
+                    "as sińirio aǵzaları"
+                ],
+                "Bashkir": [
+                    "аш һеңдереү системаһы",
+                    "аш һеңдереү ағзалары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ас қорыту жүйесі",
+                    "ас қорыту мүшелері"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тамак сиңирүү системасы",
+                    "тамак сиңирүү органдары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аш кайнату системасы",
+                    "аш кайнату әгъзалары"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+# Natural order
+| Field | Detail |
+|---|---|
+| **ID** | i85847 |
+| **English** | natural order |
+| **Type** | noun |
+| **Definition** | the physical universe considered as an orderly system subject to natural (not human or supernatural) laws |
+| **Source** | common |
+| **Ortatil** | nizami-äläm |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i85847",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "natural order",
+    "en_definition": "the physical universe considered as an orderly system subject to natural (not human or supernatural) laws",
+    "tr_word": "doğal düzen",
+    "tr_definition": "fiziksel evrenin, insan yapımı veya doğaüstü olmayan, doğal yasalara tabi düzenli bir sistem olarak kabul edilmesi",
+    "ru_word": "естественный порядок",
+    "ru_definition": "физическая вселенная, рассматриваемая как упорядоченная система, подчиняющаяся естественным (а не человеческим или сверхъестественным) законам",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tabiat nizamı"
+                ],
+                "Azerbaijani": [
+                    "təbiət nizamı",
+                    "təbii nizam",
+                    "təbiət qanunu"
+                ],
+                "Turkmen": [
+                    "tebigy tertip",
+                    "tebigat düzgüni"
+                ],
+                "Uzbek": [
+                    "tabiat nizomi",
+                    "tabiiy tartib"
+                ],
+                "Uyghur": [
+                    "تەبىئەت قانۇنىيىتى",
+                    "تەبىئىي تەرتىپ",
+                    "تەبىئەت نىزامى"
+                ],
+                "Kazakh": [
+                    "табиғат заңы",
+                    "табиғи тәртіп"
+                ],
+                "Kyrgyz": [
+                    "табият тартиби",
+                    "табигый тартип"
+                ],
+                "Karakalpak": [
+                    "tábiyat nızamı",
+                    "tábiyat tártibi",
+                    "tábiyat dúzilisi"
+                ],
+                "Tatar": [
+                    "табигать низамы",
+                    "табигый тәртип"
+                ],
+                "Bashkir": [
+                    "тәбиғәт низамы",
+                    "тәбиғәт ҡануны",
+                    "тәбиғәт тәртибе",
+                    "тәбиғәт ҡоролошо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nizami-aləm"
+                ],
+                "Turkmen": [
+                    "nizam"
+                ],
+                "Uzbek": [
+                    "nizomi olam"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "olam tartibi"
+                ],
+                "Kyrgyz": [
+                    "аалам тартиби"
+                ],
+                "Tatar": [
+                    "галәм низамы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жаратылыс заңы"
+                ],
+                "Kyrgyz": [
+                    "жаратылыш тартиби"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğa düzeni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kozmos"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "evren düzeni"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әлемдік тәртіп"
+                ]
+            }
+        }
+    ]
+}
+```
+

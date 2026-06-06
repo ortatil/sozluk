@@ -1,0 +1,78 @@
+{
+    "id": "i101308",
+    "type": "unknown",
+    "batch": "common",
+    "en_word": "macadamia",
+    "en_definition": "Copac din Australia, cultivat pentru nucile sale aromatice",
+    "tr_word": "makadamya",
+    "tr_definition": "Lezzetli ve yağlı fındıkları için yetiştirilen, Avustralya kökenli bir ağaç türü.",
+    "ru_word": "макадамия",
+    "ru_definition": "Австралийское дерево, культивируемое ради его ароматных и ценных орехов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "makadamya fındığı"
+                ],
+                "Azerbaijani": [
+                    "makadamiya",
+                    "makadamiya qozu"
+                ],
+                "Turkmen": [
+                    "makadamiýa hozy"
+                ],
+                "Uzbek": [
+                    "makadamiya"
+                ],
+                "Uyghur": [
+                    "ماكادامىيە ياڭىقى"
+                ],
+                "Kazakh": [
+                    "макадамия",
+                    "макадамия жаңғағы"
+                ],
+                "Kyrgyz": [
+                    "макадамия жаңгагы",
+                    "макадамия"
+                ],
+                "Karakalpak": [
+                    "makadamiya",
+                    "makadamiya jańǵaǵı"
+                ],
+                "Tatar": [
+                    "макадамия",
+                    "макадамия чикләвеге"
+                ],
+                "Bashkir": [
+                    "макадамия",
+                    "макадамия сәтләүеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "avustralya fındığı"
+                ],
+                "Turkmen": [
+                    "awstraliýa hozy"
+                ],
+                "Uzbek": [
+                    "avstraliya yong'og'i"
+                ],
+                "Uyghur": [
+                    "ئاۋسترالىيە ياڭىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "cadı fındığı"
+                ]
+            }
+        }
+    ]
+}

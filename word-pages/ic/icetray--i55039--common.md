@@ -1,0 +1,85 @@
+# Icetray
+| Field | Detail |
+|---|---|
+| **ID** | i55039 |
+| **English** | icetray |
+| **Type** | noun |
+| **Definition** | a tray for making cubes of ice in a refrigerator |
+| **Source** | common |
+| **Ortatil** | muzdan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i55039",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "icetray",
+    "en_definition": "a tray for making cubes of ice in a refrigerator",
+    "tr_word": "buzluk",
+    "tr_definition": "Buzdolabında buz küpleri yapmak için kullanılan kap.",
+    "ru_word": "форма для льда",
+    "ru_definition": "Лоток для замораживания воды в виде кубиков в холодильнике.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buzluk",
+                    "buz kabı",
+                    "buz tepsisi"
+                ],
+                "Azerbaijani": [
+                    "buz qabı",
+                    "buz qəlibi"
+                ],
+                "Turkmen": [
+                    "buz gaby",
+                    "buz galyby"
+                ],
+                "Uzbek": [
+                    "muz qolipi"
+                ],
+                "Uyghur": [
+                    "مۇز قېلىپى",
+                    "مۇز سالغۇچ",
+                    "مۇز تەخسىسى"
+                ],
+                "Kazakh": [
+                    "мұз қалыбы",
+                    "мұз салғыш",
+                    "мұз ыдысы"
+                ],
+                "Kyrgyz": [
+                    "муз калып",
+                    "муз идиш",
+                    "муз салгыч"
+                ],
+                "Karakalpak": [
+                    "muz qalıbı",
+                    "muz idisi"
+                ],
+                "Tatar": [
+                    "боз савыты",
+                    "боз калыбы"
+                ],
+                "Bashkir": [
+                    "боҙ һауыты",
+                    "боҙ ҡалыбы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "muzdon"
+                ]
+            }
+        }
+    ]
+}
+```
+

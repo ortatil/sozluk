@@ -1,0 +1,93 @@
+{
+    "id": "i116996",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "new year",
+    "en_definition": "the calendar year just begun",
+    "tr_word": "yeni yıl",
+    "tr_definition": "yeni başlayan takvim yılı",
+    "ru_word": "новый год",
+    "ru_definition": "только что начавшийся календарный год",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeni yıl"
+                ],
+                "Azerbaijani": [
+                    "yeni il"
+                ],
+                "Uzbek": [
+                    "yangi yil"
+                ],
+                "Uyghur": [
+                    "يېڭى يىل",
+                    "يېڭى يىل بېشى"
+                ],
+                "Kazakh": [
+                    "жаңа жыл"
+                ],
+                "Kyrgyz": [
+                    "жаңы жыл"
+                ],
+                "Karakalpak": [
+                    "jańa jıl"
+                ],
+                "Tatar": [
+                    "яңа ел"
+                ],
+                "Bashkir": [
+                    "яңы йыл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "novruz"
+                ],
+                "Turkmen": [
+                    "nowruz"
+                ],
+                "Uzbek": [
+                    "navro'z"
+                ],
+                "Kazakh": [
+                    "наурыз"
+                ],
+                "Kyrgyz": [
+                    "навруз",
+                    "нооруз"
+                ],
+                "Karakalpak": [
+                    "naurız"
+                ],
+                "Tatar": [
+                    "нәүрүз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yılbaşı"
+                ],
+                "Bashkir": [
+                    "йыл башы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təzə il"
+                ],
+                "Turkmen": [
+                    "täze ýyl"
+                ]
+            }
+        }
+    ]
+}

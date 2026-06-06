@@ -1,0 +1,92 @@
+{
+    "id": "i56215",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "microphone",
+    "en_definition": "device for converting sound waves into electrical energy",
+    "tr_word": "mikrofon",
+    "tr_definition": "ses dalgalarını elektrik enerjisine dönüştüren cihaz",
+    "ru_word": "микрофон",
+    "ru_definition": "устройство для преобразования звуковых волн в электрическую энергию",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ovoz kuchaytirgich",
+                    "tovush uzatkich"
+                ],
+                "Uyghur": [
+                    "ئاۋاز كۈچەيتكۈچ"
+                ],
+                "Karakalpak": [
+                    "dauıs kúsheytkish",
+                    "dauıs jazǵısh"
+                ],
+                "Tatar": [
+                    "тавышөчәйткеч"
+                ],
+                "Bashkir": [
+                    "тауышөҙөрткөс",
+                    "тауыш яҙғыс"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mikrofon"
+                ],
+                "Azerbaijani": [
+                    "mikrofon"
+                ],
+                "Uyghur": [
+                    "مىكروفون"
+                ],
+                "Tatar": [
+                    "микрофон"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sesalıcı",
+                    "sesyayar"
+                ],
+                "Azerbaijani": [
+                    "səsucaldan"
+                ],
+                "Turkmen": [
+                    "sesberiji",
+                    "sesýaýradyjy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дыбысқабылдағыш",
+                    "дауысқабылдағыш",
+                    "дыбысұзартқыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үн күчөткүч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үн алгыч"
+                ]
+            }
+        }
+    ]
+}

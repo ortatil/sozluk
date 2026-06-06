@@ -1,0 +1,106 @@
+{
+    "id": "i55444",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "knot",
+    "en_definition": "any of various fastenings formed by looping and tying a rope (or cord) upon itself or to another rope or to another object",
+    "tr_word": "düğüm",
+    "tr_definition": "Bir ip, sicim veya halatın kendi üzerine ya da başka bir nesneye dolanıp sıkıştırılmasıyla oluşturulan bağ.",
+    "ru_word": "узел",
+    "ru_definition": "Место, где связаны или переплетены концы верёвки, нити или каната для скрепления чего-либо.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düğüm"
+                ],
+                "Azerbaijani": [
+                    "düyün",
+                    "düyünçək"
+                ],
+                "Turkmen": [
+                    "düwün"
+                ],
+                "Uzbek": [
+                    "tugun"
+                ],
+                "Uyghur": [
+                    "تۈگۈن",
+                    "تۈگۈچ"
+                ],
+                "Kazakh": [
+                    "түйін",
+                    "түйіс"
+                ],
+                "Kyrgyz": [
+                    "түйүн",
+                    "түймө"
+                ],
+                "Karakalpak": [
+                    "túyіn",
+                    "túyіnіs"
+                ],
+                "Tatar": [
+                    "төен",
+                    "төенчек"
+                ],
+                "Bashkir": [
+                    "төйөн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bağ"
+                ],
+                "Azerbaijani": [
+                    "bağ"
+                ],
+                "Uzbek": [
+                    "bogʻlam"
+                ],
+                "Kazakh": [
+                    "байлам"
+                ],
+                "Kyrgyz": [
+                    "байлам"
+                ],
+                "Karakalpak": [
+                    "baylam"
+                ],
+                "Tatar": [
+                    "бәйләм"
+                ],
+                "Bashkir": [
+                    "быуын",
+                    "бәйләм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boğum"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çit",
+                    "çitim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "chigal"
+                ]
+            }
+        }
+    ]
+}

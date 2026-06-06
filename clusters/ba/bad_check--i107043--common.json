@@ -1,0 +1,169 @@
+{
+    "id": "i107043",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bad check",
+    "en_definition": "a check that is dishonored on presentation because of insufficient funds",
+    "tr_word": "karşılıksız çek",
+    "tr_definition": "bankada karşılığı bulunmadığı için ödenmeyen çek",
+    "ru_word": "необеспеченный чек",
+    "ru_definition": "чек, который не может быть оплачен банком из-за отсутствия средств на счету",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tölegsiz çek"
+                ],
+                "Uzbek": [
+                    "to'lovsiz chek"
+                ],
+                "Kyrgyz": [
+                    "төлөмсүз чек"
+                ],
+                "Karakalpak": [
+                    "tólemsiz chek"
+                ],
+                "Tatar": [
+                    "түләүсез чек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yaroqsiz chek"
+                ],
+                "Kazakh": [
+                    "жарамсыз чек"
+                ],
+                "Kyrgyz": [
+                    "жараксыз чек"
+                ],
+                "Karakalpak": [
+                    "jaramsız chek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karşılıksız çek"
+                ],
+                "Azerbaijani": [
+                    "qarşılıqsız çek"
+                ],
+                "Karakalpak": [
+                    "qarjısız chek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boş çek"
+                ],
+                "Azerbaijani": [
+                    "boş çek"
+                ],
+                "Tatar": [
+                    "буш чек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "жалған чек"
+                ],
+                "Tatar": [
+                    "ялган чек"
+                ],
+                "Bashkir": [
+                    "ялган чек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "galp çek"
+                ],
+                "Uzbek": [
+                    "qalbaki chek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قۇرۇق چەك"
+                ],
+                "Kyrgyz": [
+                    "куру чек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "geçersiz çek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "etibarsız çek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hasapsyz çek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "asossiz chek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئىناۋەتسىز چەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇلسىز چەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қамтамасыз етілмеген чек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төшөмһөҙ чек",
+                    "төшөмө булмаған чек"
+                ]
+            }
+        }
+    ]
+}

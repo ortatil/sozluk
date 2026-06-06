@@ -1,0 +1,61 @@
+{
+    "id": "i82569",
+    "type": "unknown",
+    "batch": "common",
+    "en_word": "western hemisphere",
+    "en_definition": "the hemisphere that includes North America and South America",
+    "tr_word": "Batı Yarımküre",
+    "tr_definition": "Kuzey ve Güney Amerika kıtalarını kapsayan yarımküre.",
+    "ru_word": "Западное полушарие",
+    "ru_definition": "Полушарие Земли, включающее Северную и Южную Америку.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Yeni Dünya",
+                    "Yeni Kıta"
+                ],
+                "Azerbaijani": [
+                    "Yeni Dünya",
+                    "Yeni Aləm"
+                ],
+                "Uzbek": [
+                    "yangi dunyo",
+                    "yangi olam"
+                ],
+                "Uyghur": [
+                    "يېڭى دۇنيا"
+                ],
+                "Kazakh": [
+                    "жаңа дүние",
+                    "жаңа әлем"
+                ],
+                "Kyrgyz": [
+                    "Жаңы дүйнө",
+                    "Жаңы аалам"
+                ],
+                "Karakalpak": [
+                    "jańa dúnya",
+                    "jańa álem"
+                ],
+                "Tatar": [
+                    "Яңа дөнья",
+                    "Яңа галәм"
+                ],
+                "Bashkir": [
+                    "Яңы донъя",
+                    "Яңы йыһан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Täze dünýä",
+                    "Täze älem"
+                ]
+            }
+        }
+    ]
+}

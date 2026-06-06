@@ -1,0 +1,198 @@
+{
+    "id": "i32999",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "pay up",
+    "en_definition": "cancel or discharge a debt",
+    "tr_word": "borcunu ödemek",
+    "tr_definition": "bir borcu tamamen kapatmak veya ödemeyi gerçekleştirmek",
+    "ru_word": "выплачивать",
+    "ru_definition": "полностью погасить долг или произвести требуемую выплату",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "to'lamoq"
+                ],
+                "Uyghur": [
+                    "تۆلەش"
+                ],
+                "Kazakh": [
+                    "төлеу"
+                ],
+                "Kyrgyz": [
+                    "төлөө"
+                ],
+                "Karakalpak": [
+                    "tóleu"
+                ],
+                "Tatar": [
+                    "түләп бетерү",
+                    "түләү"
+                ],
+                "Bashkir": [
+                    "түләү",
+                    "түләп бөтөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ödemek"
+                ],
+                "Azerbaijani": [
+                    "ödəmək"
+                ],
+                "Turkmen": [
+                    "tölemek"
+                ],
+                "Kazakh": [
+                    "өтеу"
+                ],
+                "Karakalpak": [
+                    "óteu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hesaplaşmak"
+                ],
+                "Azerbaijani": [
+                    "hesablaşmaq"
+                ],
+                "Turkmen": [
+                    "hasaplaşmak"
+                ],
+                "Karakalpak": [
+                    "esaplasıo"
+                ],
+                "Tatar": [
+                    "хисаплашу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "üzmek"
+                ],
+                "Uzbek": [
+                    "uzmoq"
+                ],
+                "Uyghur": [
+                    "ئۈزۈش"
+                ],
+                "Tatar": [
+                    "өзмәү"
+                ],
+                "Bashkir": [
+                    "өҙөү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qaytarmoq"
+                ],
+                "Uyghur": [
+                    "قايتۇرۇش"
+                ],
+                "Kazakh": [
+                    "қайтару"
+                ],
+                "Kyrgyz": [
+                    "кайтаруу"
+                ],
+                "Karakalpak": [
+                    "qaytarıp berio"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kapatmak"
+                ],
+                "Tatar": [
+                    "кайтару"
+                ],
+                "Bashkir": [
+                    "ҡайтарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eda etmek"
+                ],
+                "Uzbek": [
+                    "ado etmoq"
+                ],
+                "Uyghur": [
+                    "ئادا قىلىش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "borç ödemek"
+                ],
+                "Azerbaijani": [
+                    "borcu qaytarmaq",
+                    "borcdan çıxmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bergi üzmek"
+                ],
+                "Kyrgyz": [
+                    "берүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bağlamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есептесу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кутулуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "актоо"
+                ]
+            }
+        }
+    ]
+}

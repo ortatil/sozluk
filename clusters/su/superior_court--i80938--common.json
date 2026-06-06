@@ -1,0 +1,123 @@
+{
+    "id": "i80938",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "superior court",
+    "en_definition": "any court that has jurisdiction above an inferior court",
+    "tr_word": "üst mahkeme",
+    "tr_definition": "alt mahkemelerin kararlarını denetleyen veya daha geniş yetkiye sahip olan yüksek dereceli mahkeme",
+    "ru_word": "суд высшей инстанции",
+    "ru_definition": "суд, обладающий юрисдикцией над нижестоящими судами и рассматривающий апелляции или дела особой важности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüksek mahkeme"
+                ],
+                "Azerbaijani": [
+                    "yuxarı məhkəmə"
+                ],
+                "Turkmen": [
+                    "ýokary kazyýet"
+                ],
+                "Uzbek": [
+                    "yuqori sud"
+                ],
+                "Uyghur": [
+                    "يۇقىرى دەرىجىلىك سوت مەھكىمىسى",
+                    "يۇقىرى سوت"
+                ],
+                "Kyrgyz": [
+                    "жогорку сот"
+                ],
+                "Karakalpak": [
+                    "joqarı sud",
+                    "joqarǵı sud"
+                ],
+                "Tatar": [
+                    "югары мәхкәмә"
+                ],
+                "Bashkir": [
+                    "юғары суд"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ali məhkəmə"
+                ],
+                "Uzbek": [
+                    "oliy sud"
+                ],
+                "Uyghur": [
+                    "ئالىي مەھكىمە"
+                ],
+                "Tatar": [
+                    "али мәхкәмә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "улук сот"
+                ],
+                "Bashkir": [
+                    "өлкә суды"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "üst mahkeme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "temyiz mahkemesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "beýik kazyýet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "baş kazyýet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жоғарғы сот"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аға сот"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төп суд"
+                ]
+            }
+        }
+    ]
+}

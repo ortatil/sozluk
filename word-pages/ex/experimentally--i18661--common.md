@@ -1,0 +1,122 @@
+# Experimentally
+| Field | Detail |
+|---|---|
+| **ID** | i18661 |
+| **English** | experimentally |
+| **Type** | adverb |
+| **Definition** | in an experimental fashion |
+| **Source** | common |
+| **Ortatil** | tecribelä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i18661",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "experimentally",
+    "en_definition": "in an experimental fashion",
+    "tr_word": "deneysel olarak",
+    "tr_definition": "deney yoluyla veya deneylere dayanarak",
+    "ru_word": "экспериментально",
+    "ru_definition": "путем проведения опытов или на основе экспериментов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tecrübeyle",
+                    "tecrübi olarak"
+                ],
+                "Azerbaijani": [
+                    "təcrübi olaraq",
+                    "təcrübə yolu ilə"
+                ],
+                "Turkmen": [
+                    "tejribe arkaly",
+                    "tejribe ýoly bilen"
+                ],
+                "Uzbek": [
+                    "tajriba tariqasida",
+                    "tajribaviy ravishda"
+                ],
+                "Uyghur": [
+                    "تەجرىبە يوسۇندا",
+                    "تەجرىبە ئارقىلىق"
+                ],
+                "Kazakh": [
+                    "тәжірибе жүзінде",
+                    "тәжірибелік жолмен"
+                ],
+                "Kyrgyz": [
+                    "тажрыйба иретинде",
+                    "тажрыйба жүзүндө"
+                ],
+                "Karakalpak": [
+                    "tájiriybe júzinde"
+                ],
+                "Tatar": [
+                    "тәҗрибә аша",
+                    "тәҗрибәви рәвештә"
+                ],
+                "Bashkir": [
+                    "тәжрибә аша",
+                    "тәжрибә менән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sınaq yolu ilə"
+                ],
+                "Turkmen": [
+                    "synag esasynda"
+                ],
+                "Uzbek": [
+                    "sinov tariqasida"
+                ],
+                "Uyghur": [
+                    "سىناق تەرىقىسىدە"
+                ],
+                "Kazakh": [
+                    "сынақ ретінде"
+                ],
+                "Kyrgyz": [
+                    "сынамык катары"
+                ],
+                "Karakalpak": [
+                    "sınaq túrinde",
+                    "sınap kórip"
+                ],
+                "Tatar": [
+                    "сынау рәвешендә"
+                ],
+                "Bashkir": [
+                    "һынау юлы менән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "deneyle",
+                    "deneme yoluyla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "amaliy ravishda"
+                ]
+            }
+        }
+    ]
+}
+```
+

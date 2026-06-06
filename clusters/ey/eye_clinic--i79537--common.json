@@ -1,0 +1,84 @@
+{
+    "id": "i79537",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eye clinic",
+    "en_definition": "a clinic where specialist care for a patient's eyes",
+    "tr_word": "göz kliniği",
+    "tr_definition": "hastaların gözleri için uzman bakımının sağlandığı klinik",
+    "ru_word": "глазная клиника",
+    "ru_definition": "клиника, где оказывается специализированная помощь глазам пациента",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz kliniği",
+                    "göz merkezi"
+                ],
+                "Azerbaijani": [
+                    "göz klinikası",
+                    "göz müalicəxanası"
+                ],
+                "Turkmen": [
+                    "göz emhanasy",
+                    "göz klinikasyny"
+                ],
+                "Uzbek": [
+                    "ko'z shifoxonasi",
+                    "ko'z klinikasi"
+                ],
+                "Uyghur": [
+                    "كۆز دوختۇرخانىسى",
+                    "كۆز شىپاخانىسى",
+                    "كۆز كېسەللىكلىرى دوختۇرخانىسى"
+                ],
+                "Kazakh": [
+                    "көз емханасы",
+                    "көз ауруханасы",
+                    "көз шипажайы"
+                ],
+                "Kyrgyz": [
+                    "көз бейтапканасы",
+                    "көз эмканасы",
+                    "көз клиникасы"
+                ],
+                "Karakalpak": [
+                    "kóz emleoxanası",
+                    "kóz klinikası",
+                    "kóz shipaxanası"
+                ],
+                "Tatar": [
+                    "күз дәваханәсе",
+                    "күз шифаханәсе",
+                    "күз клиникасы"
+                ],
+                "Bashkir": [
+                    "күҙ дауаханаһы",
+                    "күҙ шифаханаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz hastanesi"
+                ],
+                "Azerbaijani": [
+                    "göz xəstəxanası"
+                ],
+                "Turkmen": [
+                    "göz hassahanasy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko'z davolash maskani"
+                ]
+            }
+        }
+    ]
+}

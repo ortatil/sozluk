@@ -1,0 +1,75 @@
+{
+    "id": "i111189",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "liver cancer",
+    "en_definition": "malignant neoplastic disease of the liver usually occurring as a metastasis from another cancer; symptoms include loss of appetite and weakness and bloating and jaundice and upper abdominal discomfort",
+    "tr_word": "karaciğer kanseri",
+    "tr_definition": "karaciğerde gelişen veya başka bir organdan karaciğere sıçrayan, iştah kaybı, halsizlik ve sarılık gibi belirtilerle seyreden kötü huylu tümör oluşumu",
+    "ru_word": "рак печени",
+    "ru_definition": "злокачественное новообразование в печени, часто возникающее как метастаз из другого органа; симптомы включают потерю аппетита, слабость, вздутие живота и желтуху",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "bagyr ragy",
+                    "bagyr seretany"
+                ],
+                "Kazakh": [
+                    "бауыр қатерлі ісігі",
+                    "бауыр рагы",
+                    "бауыр сарп"
+                ],
+                "Karakalpak": [
+                    "baoır ragı",
+                    "baoır qattı isigi"
+                ],
+                "Tatar": [
+                    "бавыр рагы",
+                    "бавыр яман шеше"
+                ],
+                "Bashkir": [
+                    "бауыр рагы",
+                    "бауыр шеше",
+                    "бауыр яман шеше"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "karaciğer kanseri",
+                    "karaciğer tümörü",
+                    "karaciğer habis uru"
+                ],
+                "Azerbaijani": [
+                    "qaraciyər xərçəngi",
+                    "qaraciyər sərtanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "jigar saratoni",
+                    "jigar rakki",
+                    "jigar xastaligi"
+                ],
+                "Uyghur": [
+                    "جىگەر راكى",
+                    "جىگەر سارتانى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "боор рагы",
+                    "боор шишиги",
+                    "боордун катуу оорусу"
+                ]
+            }
+        }
+    ]
+}

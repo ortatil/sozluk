@@ -1,0 +1,179 @@
+# Bird dog
+| Field | Detail |
+|---|---|
+| **ID** | i46452 |
+| **English** | bird dog |
+| **Type** | noun |
+| **Definition** | a gun dog trained to locate or retrieve birds |
+| **Source** | common |
+| **Ortatil** | tazı |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **tazı** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.67 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.57** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| تولار | tolar |
+| **Kazakh** | |
+| тазы | tazı |
+| **Kyrgyz** | |
+| тайган | taygan |
+
+```json
+{
+    "id": "i46452",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bird dog",
+    "en_definition": "a gun dog trained to locate or retrieve birds",
+    "tr_word": "av köpeği",
+    "tr_definition": "Kuşların yerini tespit etmek veya vurulan kuşları geri getirmek için eğitilmiş av köpeği.",
+    "ru_word": "легавая",
+    "ru_definition": "Охотничья собака, обученная находить или приносить подстреленную птицу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuşçu köpeği"
+                ],
+                "Turkmen": [
+                    "guşçy it"
+                ],
+                "Uzbek": [
+                    "qush iti"
+                ],
+                "Uyghur": [
+                    "قۇش ئىتى"
+                ],
+                "Kazakh": [
+                    "құсбегі иті"
+                ],
+                "Kyrgyz": [
+                    "кушчу ит"
+                ],
+                "Tatar": [
+                    "кош эте"
+                ],
+                "Bashkir": [
+                    "ҡош эте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "av köpeği"
+                ],
+                "Uzbek": [
+                    "ov iti"
+                ],
+                "Uyghur": [
+                    "ئوۋ ئىتى"
+                ],
+                "Tatar": [
+                    "ау эте",
+                    "аучы эт"
+                ],
+                "Bashkir": [
+                    "ау эте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tula"
+                ],
+                "Turkmen": [
+                    "tazy"
+                ],
+                "Uyghur": [
+                    "تولار"
+                ],
+                "Kazakh": [
+                    "тазы"
+                ],
+                "Karakalpak": [
+                    "tazı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aw iti"
+                ],
+                "Kazakh": [
+                    "аңшы иті"
+                ],
+                "Kyrgyz": [
+                    "аңчы ит"
+                ],
+                "Karakalpak": [
+                    "ańshı iyt"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "fermalı köpek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ov iti",
+                    "ovçu iti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tustovuq iti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тайган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qumay"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,124 @@
+{
+    "id": "i31058",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "skid",
+    "en_definition": "slide without control",
+    "tr_word": "patinaj yapmak",
+    "tr_definition": "kontrolsüz bir şekilde kaymak",
+    "ru_word": "заносить",
+    "ru_definition": "скользить без контроля, теряя управление",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "toyib ketmoq"
+                ],
+                "Uyghur": [
+                    "تېيىلىش",
+                    "تېيىلىپ كېتىش"
+                ],
+                "Kazakh": [
+                    "тайғанау",
+                    "тайқу",
+                    "тайып кету"
+                ],
+                "Kyrgyz": [
+                    "тайгалануу",
+                    "тайуу"
+                ],
+                "Karakalpak": [
+                    "tayıu",
+                    "tayǵanau"
+                ],
+                "Tatar": [
+                    "тайгалану",
+                    "тайпылу"
+                ],
+                "Bashkir": [
+                    "тайыу",
+                    "тайғанау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "savrulmak"
+                ],
+                "Uyghur": [
+                    "سېيرىلىش"
+                ],
+                "Kyrgyz": [
+                    "сыйгалануу"
+                ],
+                "Bashkir": [
+                    "шыуыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaymak"
+                ],
+                "Azerbaijani": [
+                    "kaymaq"
+                ],
+                "Turkmen": [
+                    "taýmak"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sirpanmoq",
+                    "sirgʻanmoq"
+                ],
+                "Kazakh": [
+                    "сырғанау"
+                ],
+                "Karakalpak": [
+                    "sırǵanau"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "patinaj yapmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sürüşmək",
+                    "sürüşüb getmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sypyrylmak",
+                    "sypmak",
+                    "typylmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "шуып китү",
+                    "шуышу"
+                ]
+            }
+        }
+    ]
+}

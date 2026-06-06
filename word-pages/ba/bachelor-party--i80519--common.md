@@ -1,0 +1,166 @@
+# Bachelor party
+| Field | Detail |
+|---|---|
+| **ID** | i80519 |
+| **English** | bachelor party |
+| **Type** | noun |
+| **Definition** | stag party held for a bachelor (usually on the night before he is married) |
+| **Source** | common |
+| **Ortatil** | äş |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i80519",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bachelor party",
+    "en_definition": "stag party held for a bachelor (usually on the night before he is married)",
+    "tr_word": "bekarlığa veda partisi",
+    "tr_definition": "Evlenmeden hemen önce damat adayı ve erkek arkadaşları arasında düzenlenen eğlence.",
+    "ru_word": "мальчишник",
+    "ru_definition": "Вечеринка для жениха и его друзей мужского пола перед свадьбой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýigit agşamy",
+                    "ýigitler üýşmeleňi"
+                ],
+                "Uzbek": [
+                    "yigit oshi",
+                    "yigitlar yigʻini"
+                ],
+                "Uyghur": [
+                    "يىگىت بېشى",
+                    "يىگىت ئولتۇرۇشى",
+                    "يىگىت چاي"
+                ],
+                "Kazakh": [
+                    "жігіттер кеші"
+                ],
+                "Karakalpak": [
+                    "jigitler keshesi",
+                    "jigitlik keshesi",
+                    "jigitler otırıspası"
+                ],
+                "Tatar": [
+                    "егетләр кичәсе"
+                ],
+                "Bashkir": [
+                    "егеттәр кисәһе",
+                    "егеттәр мәжлесе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kına gecesi"
+                ],
+                "Tatar": [
+                    "кияү кичәсе",
+                    "кияү мәҗлесе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "oğlan toyu"
+                ],
+                "Turkmen": [
+                    "oglan toýy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бойдақ кеші"
+                ],
+                "Kyrgyz": [
+                    "бойдок кечеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bekarlığa veda partisi",
+                    "bekarlığa veda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güvey hamamı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bəy gecəsi",
+                    "bəy məclisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "subaylıqla xudahafizləşmə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "osh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "vidolashuv oqshomi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қоштасу кеші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "достор кечеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кыз узатуу алдындагы кече"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "туй алды кисәһе"
+                ]
+            }
+        }
+    ]
+}
+```
+

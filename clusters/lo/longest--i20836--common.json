@@ -1,0 +1,82 @@
+{
+    "id": "i20836",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "longest",
+    "en_definition": "for the most time",
+    "tr_word": "en uzun süre",
+    "tr_definition": "en fazla zaman boyunca",
+    "ru_word": "дольше всего",
+    "ru_definition": "в течение самого длительного времени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "en uzun süre"
+                ],
+                "Azerbaijani": [
+                    "ən uzun müddət",
+                    "ən uzun"
+                ],
+                "Turkmen": [
+                    "iň uzak"
+                ],
+                "Uzbek": [
+                    "eng uzoq",
+                    "eng uzoq vaqt"
+                ],
+                "Uyghur": [
+                    "ئەڭ ئۇزۇن",
+                    "ئەڭ ئۇزاق"
+                ],
+                "Kazakh": [
+                    "ең ұзақ",
+                    "ең көп"
+                ],
+                "Kyrgyz": [
+                    "эң узак",
+                    "эң көп",
+                    "эң созулган"
+                ],
+                "Karakalpak": [
+                    "eń uzaq",
+                    "eń kóp"
+                ],
+                "Tatar": [
+                    "иң озак",
+                    "иң күп"
+                ],
+                "Bashkir": [
+                    "иң оҙаҡ",
+                    "иң күп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "en çok",
+                    "en fazla"
+                ],
+                "Azerbaijani": [
+                    "ən çox"
+                ],
+                "Turkmen": [
+                    "iň köp"
+                ],
+                "Uzbek": [
+                    "eng koʻp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iň dowamly"
+                ]
+            }
+        }
+    ]
+}

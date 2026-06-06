@@ -1,0 +1,86 @@
+{
+    "id": "i78996",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eggnog",
+    "en_definition": "a punch made of sweetened milk or cream mixed with eggs and usually alcoholic liquor",
+    "tr_word": "yumurta likörü",
+    "tr_definition": "şekerli süt veya kremanın çırpılmış yumurta ve genellikle alkollü bir içkiyle karıştırılmasıyla yapılan bir içecek",
+    "ru_word": "эгг-ног",
+    "ru_definition": "сладкий напиток на основе сырых куриных яиц и молока, часто с добавлением алкоголя и пряностей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yumurtalı süt",
+                    "yumurtalı kokteyl",
+                    "yumurtalı içecek"
+                ],
+                "Azerbaijani": [
+                    "yumurta şərbəti",
+                    "yumurtalı süd",
+                    "yumurta içkisi"
+                ],
+                "Turkmen": [
+                    "ýumurtgaly süýt",
+                    "ýumurtgaly içgi"
+                ],
+                "Kazakh": [
+                    "жұмыртқа сусыны"
+                ],
+                "Kyrgyz": [
+                    "жумуртка суусундугу"
+                ],
+                "Karakalpak": [
+                    "jұmırtqalı susın"
+                ],
+                "Tatar": [
+                    "йомыркалы эчемлек"
+                ],
+                "Bashkir": [
+                    "йомортҡа эсемлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shirin tuxumli sut"
+                ],
+                "Kazakh": [
+                    "сүт-жұмыртқа қоспасы"
+                ],
+                "Kyrgyz": [
+                    "сүт-жумуртка ичимдиги"
+                ],
+                "Karakalpak": [
+                    "sút-jұmırtqa susını"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tuxumli ichimlik",
+                    "tuxumli sharbat"
+                ],
+                "Uyghur": [
+                    "تۇخۇم سۈت ئىچىملىكى",
+                    "تۇخۇملۇق سۈت"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сөтле-йомыркалы катнашма"
+                ],
+                "Bashkir": [
+                    "һөтлө-йомортҡалы эсемлек"
+                ]
+            }
+        }
+    ]
+}

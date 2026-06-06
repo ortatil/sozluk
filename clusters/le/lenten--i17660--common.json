@@ -1,0 +1,106 @@
+{
+    "id": "i17660",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "lenten",
+    "en_definition": "of or relating to or suitable for Lent",
+    "tr_word": "oruç dönemi ile ilgili",
+    "tr_definition": "Hristiyanlıktaki Büyük Perhiz (Lent) dönemiyle ilgili veya bu döneme uygun olan",
+    "ru_word": "постный",
+    "ru_definition": "относящийся к Великому посту или подходящий для него",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oruçla ilgili",
+                    "oruç dönemi"
+                ],
+                "Azerbaijani": [
+                    "orucluq"
+                ],
+                "Turkmen": [
+                    "oraza degişli"
+                ],
+                "Kazakh": [
+                    "оразалық",
+                    "оразадағы",
+                    "оразаға тән"
+                ],
+                "Kyrgyz": [
+                    "орозолук",
+                    "орозого таандык",
+                    "орозо учурундагы"
+                ],
+                "Karakalpak": [
+                    "orazalıq",
+                    "orazaǵa tán",
+                    "oraza"
+                ],
+                "Tatar": [
+                    "ураза",
+                    "уразага бәйле",
+                    "уразадагы"
+                ],
+                "Bashkir": [
+                    "ураҙа",
+                    "ураҙаға бәйле",
+                    "ураҙа ваҡытындағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "perhizle ilgili",
+                    "perhiz dönemi"
+                ],
+                "Azerbaijani": [
+                    "pəhriz"
+                ],
+                "Turkmen": [
+                    "perhizli"
+                ],
+                "Uzbek": [
+                    "parhezbop"
+                ],
+                "Uyghur": [
+                    "پەرھىزدارلىق"
+                ],
+                "Tatar": [
+                    "пәһриз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "riyazət"
+                ],
+                "Uzbek": [
+                    "riyozatli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "roʻzadorlik",
+                    "roʻzaga oid"
+                ],
+                "Uyghur": [
+                    "روزا مەزگىلىگە ئائىت",
+                    "روزا تۇتۇشقا مۇناسىۋەتلىك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "päkize"
+                ]
+            }
+        }
+    ]
+}

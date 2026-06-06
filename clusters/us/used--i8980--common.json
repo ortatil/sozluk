@@ -1,0 +1,156 @@
+{
+    "id": "i8980",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "secondhand",
+    "en_definition": "previously used or owned by another",
+    "tr_word": "ikinci el",
+    "tr_definition": "başka biri tarafından daha önce kullanılmış veya sahip olunmuş",
+    "ru_word": "подержанный",
+    "ru_definition": "ранее использованный или принадлежавший другому лицу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kullanılmış"
+                ],
+                "Uzbek": [
+                    "qoʻllanilgan"
+                ],
+                "Uyghur": [
+                    "قولدىن قولغا ئۆتكەن"
+                ],
+                "Kazakh": [
+                    "қолданылған"
+                ],
+                "Kyrgyz": [
+                    "колдонулган"
+                ],
+                "Tatar": [
+                    "кулланылган"
+                ],
+                "Bashkir": [
+                    "ҡулланылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ikinci el"
+                ],
+                "Uyghur": [
+                    "ئىشلىتىلگەن"
+                ],
+                "Kyrgyz": [
+                    "иштетилген"
+                ],
+                "Tatar": [
+                    "иске"
+                ],
+                "Bashkir": [
+                    "иҫке"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eskimiş"
+                ],
+                "Azerbaijani": [
+                    "işlənmiş"
+                ],
+                "Turkmen": [
+                    "işledilen"
+                ],
+                "Uzbek": [
+                    "ishlatilgan",
+                    "eskirgan"
+                ],
+                "Kyrgyz": [
+                    "эски"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "köhnə"
+                ],
+                "Turkmen": [
+                    "köne"
+                ],
+                "Uyghur": [
+                    "كونا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "tutınılǵan"
+                ],
+                "Tatar": [
+                    "тотылган"
+                ],
+                "Bashkir": [
+                    "тотонолған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ескі"
+                ],
+                "Karakalpak": [
+                    "eski"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "пайдаланылған"
+                ],
+                "Karakalpak": [
+                    "paydalanılǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "istifadə olunmuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ulanylan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mustamal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "mingilgen"
+                ]
+            }
+        }
+    ]
+}

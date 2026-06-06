@@ -1,0 +1,105 @@
+# Japanese honeysuckle
+| Field | Detail |
+|---|---|
+| **ID** | i103478 |
+| **English** | japanese honeysuckle |
+| **Type** | noun |
+| **Definition** | an Asiatic trailing evergreen honeysuckle with half-evergreen leaves and fragrant white flowers turning yellow with age; has become a weed in some areas |
+| **Source** | common |
+| **Ortatil** | cinmingil |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| جىنمىنگۈل | jinmingül |
+
+```json
+{
+    "id": "i103478",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "japanese honeysuckle",
+    "en_definition": "an Asiatic trailing evergreen honeysuckle with half-evergreen leaves and fragrant white flowers turning yellow with age; has become a weed in some areas",
+    "tr_word": "Japon hanımelisi",
+    "tr_definition": "Asya kökenli, yarı herdem yeşil yapraklı, yaşlandıkça sarıya dönen kokulu beyaz çiçekli ve bazı bölgelerde istilacı bir tür haline gelmiş sarılıcı bitki.",
+    "ru_word": "Жимолость японская",
+    "ru_definition": "Азиатская вечнозеленая или полувечнозеленая лиана с ароматными белыми цветками, которые со временем желтеют; в некоторых регионах считается сорняком.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Japon hanımelisi"
+                ],
+                "Azerbaijani": [
+                    "yapon hanıməli",
+                    "yapon yasəməni",
+                    "yapon lonicerası"
+                ],
+                "Turkmen": [
+                    "ýapon hanymelisi",
+                    "ýapon çyrmaşygy"
+                ],
+                "Uzbek": [
+                    "yapon pechagi",
+                    "yapon chirmashig'i",
+                    "yapon kiyiko'ti"
+                ],
+                "Uyghur": [
+                    "ياپونىيە سېرىق بېلىقئوتى",
+                    "ياپونىيە جىنمىنگۇلى"
+                ],
+                "Kazakh": [
+                    "жапон бөріжидегі",
+                    "жапон шырмауығы",
+                    "жапон ұшқаты"
+                ],
+                "Kyrgyz": [
+                    "жапон шилбиси",
+                    "жапон чырмалгычы",
+                    "жыпар жыттуу шилби"
+                ],
+                "Karakalpak": [
+                    "japon shırmauıǵı",
+                    "japon bórіjidegi"
+                ],
+                "Tatar": [
+                    "япон баллы үләне",
+                    "япон лоницерасы"
+                ],
+                "Bashkir": [
+                    "япон бүре еләге",
+                    "япон лоницераһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "hanımeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sarmaşık hanımeli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "جىنمىنگۈل"
+                ]
+            }
+        }
+    ]
+}
+```
+

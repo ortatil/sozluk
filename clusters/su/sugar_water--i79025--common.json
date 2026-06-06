@@ -1,0 +1,119 @@
+{
+    "id": "i79025",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sugar water",
+    "en_definition": "water sweetened with sugar",
+    "tr_word": "şekerli su",
+    "tr_definition": "içine şeker katılarak tatlandırılmış su",
+    "ru_word": "сахарная вода",
+    "ru_definition": "вода, подслащенная сахаром",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şerbet"
+                ],
+                "Azerbaijani": [
+                    "şərbət"
+                ],
+                "Turkmen": [
+                    "şerbet"
+                ],
+                "Uyghur": [
+                    "شەربەت"
+                ],
+                "Kazakh": [
+                    "шәрбат"
+                ],
+                "Kyrgyz": [
+                    "шерт"
+                ],
+                "Karakalpak": [
+                    "shárbát"
+                ],
+                "Tatar": [
+                    "шәрбәт"
+                ],
+                "Bashkir": [
+                    "шәрбәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "şekerli su"
+                ],
+                "Azerbaijani": [
+                    "şəkərli su"
+                ],
+                "Turkmen": [
+                    "şekerli suw"
+                ],
+                "Uzbek": [
+                    "shakarob"
+                ],
+                "Uyghur": [
+                    "شېكەر سۈيى"
+                ],
+                "Tatar": [
+                    "шикәрле су"
+                ],
+                "Bashkir": [
+                    "шәкәрле һыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qandli suv"
+                ],
+                "Kazakh": [
+                    "қантты су"
+                ],
+                "Kyrgyz": [
+                    "кант суу"
+                ],
+                "Karakalpak": [
+                    "qantlı suo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тәтті су"
+                ],
+                "Tatar": [
+                    "татлы су"
+                ],
+                "Bashkir": [
+                    "татлы һыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shirin suv"
+                ],
+                "Kyrgyz": [
+                    "ширин суу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýji suw"
+                ]
+            }
+        }
+    ]
+}

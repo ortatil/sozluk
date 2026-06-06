@@ -1,0 +1,62 @@
+{
+    "id": "i72378",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "asterisk",
+    "en_definition": "a star-shaped character * used in printing",
+    "tr_word": "yıldız işareti",
+    "tr_definition": "yazıda veya basımda kullanılan yıldız şeklindeki karakter (*)",
+    "ru_word": "звёздочка",
+    "ru_definition": "типографский знак в виде маленькой звёздочки (*), используемый для сносок или выделения",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yıldız",
+                    "yıldız işareti"
+                ],
+                "Turkmen": [
+                    "ýyldyzjygy",
+                    "ýyldyz"
+                ],
+                "Uzbek": [
+                    "yulduzcha",
+                    "yulduz"
+                ],
+                "Uyghur": [
+                    "يۇلتۇزچە",
+                    "يۇلتۇز بەلگىسى"
+                ],
+                "Kazakh": [
+                    "жұлдызша",
+                    "жұлдыз белгісі"
+                ],
+                "Kyrgyz": [
+                    "жылдызча",
+                    "жылдыз белгиси"
+                ],
+                "Karakalpak": [
+                    "jұldızsha",
+                    "jұldız"
+                ],
+                "Tatar": [
+                    "йолдызчык",
+                    "йолдыз"
+                ],
+                "Bashkir": [
+                    "йондоҙсоҡ",
+                    "йондоҙ билдәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ulduz",
+                    "ulduz işarəsi"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+# Starches
+| Field | Detail |
+|---|---|
+| **ID** | i76516 |
+| **English** | starches |
+| **Type** | noun |
+| **Definition** | foodstuff rich in natural starch (especially potatoes, rice, bread) |
+| **Source** | common |
+| **Ortatil** | krahmal |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **krahmal** | **nişastalar** |
+|---|---|---|
+| Turkish | ❌ | ✅ |
+| Azerbaijani | ❌ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ❌ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ❌ |
+| Karakalpak | ❌ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.33 | 1 |
+| *Qarluq Subtotal* | 0.50 | 1 |
+| *Qipchaq Subtotal* | 0.60 | 0 |
+| *In All* | ✅ |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **2.43** | **2** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كراخمال | kraxmal |
+| نىشاستا | nişasta |
+| **Kazakh** | |
+| крахмал | kraxmal |
+| дәнді-дақылдар | dändi-daqıldar |
+| **Kyrgyz** | |
+| крахмал | kraxmal |
+| даам | daam |
+| азык | azık |
+| **Bashkir** | |
+| крахмал | kraxmal |
+
+```json
+{
+    "id": "i76516",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "starches",
+    "en_definition": "foodstuff rich in natural starch (especially potatoes, rice, bread)",
+    "tr_word": "nişastalı gıdalar",
+    "tr_definition": "doğal nişasta bakımından zengin olan yiyecekler (özellikle patates, pirinç, ekmek)",
+    "ru_word": "крахмалистые продукты",
+    "ru_definition": "пищевые продукты, богатые натуральным крахмалом (особенно картофель, рис, хлеб)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "krahmal"
+                ],
+                "Uyghur": [
+                    "كراخمال"
+                ],
+                "Kazakh": [
+                    "крахмал"
+                ],
+                "Kyrgyz": [
+                    "крахмал"
+                ],
+                "Karakalpak": [
+                    "kraxmallı azıq-túlikler",
+                    "kraxmallı zatlar"
+                ],
+                "Tatar": [
+                    "крахмаллы ризыклар"
+                ],
+                "Bashkir": [
+                    "крахмал",
+                    "крахмаллы аҙыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nişastalar",
+                    "nişastalı gıdalar"
+                ],
+                "Azerbaijani": [
+                    "nişastalı qidalar",
+                    "nişastalar"
+                ],
+                "Turkmen": [
+                    "nişasta"
+                ],
+                "Uzbek": [
+                    "nişasta",
+                    "nişastali mahsulotlar"
+                ],
+                "Uyghur": [
+                    "نىشاستىلىق يېمەكلىكلەر",
+                    "نىشاستا"
+                ],
+                "Tatar": [
+                    "нишасталы азыклар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "unlu mamuller"
+                ],
+                "Uzbek": [
+                    "unli taomlar"
+                ],
+                "Kazakh": [
+                    "ұнды тағамдар"
+                ],
+                "Bashkir": [
+                    "онло аҙыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дәнді-дақылдар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "даам"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "азык"
+                ]
+            }
+        }
+    ]
+}
+```
+

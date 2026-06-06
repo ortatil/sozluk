@@ -1,0 +1,70 @@
+{
+    "id": "i78650",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chicken taco",
+    "en_definition": "a taco with a chicken filling",
+    "tr_word": "tavuklu taco",
+    "tr_definition": "tavuk dolgulu bir taco",
+    "ru_word": "тако с курицей",
+    "ru_definition": "тако с начинкой из курицы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tavuklu tako",
+                    "tavuklu dürüm"
+                ],
+                "Azerbaijani": [
+                    "toyuqlu tako"
+                ],
+                "Turkmen": [
+                    "towukly tako",
+                    "towukly dürüm"
+                ],
+                "Uzbek": [
+                    "tovuqli tako",
+                    "tovuq go'shtli tako"
+                ],
+                "Uyghur": [
+                    "تۇخۇ گۆشى تاكوسى",
+                    "تۇخۇ گۆشلۈك تاكو"
+                ],
+                "Kazakh": [
+                    "тауық такосы"
+                ],
+                "Karakalpak": [
+                    "tauıq etli tako",
+                    "tauıqlı tako"
+                ],
+                "Tatar": [
+                    "тавыклы тако",
+                    "тавык ите белән тако"
+                ],
+                "Bashkir": [
+                    "тауыҡ ите менән тако",
+                    "тауыҡлы тако"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "toyuq əti ilə tako"
+                ],
+                "Kyrgyz": [
+                    "тоок эти кошулган тако",
+                    "тоок такосу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тауық еті қосылған тако"
+                ]
+            }
+        }
+    ]
+}

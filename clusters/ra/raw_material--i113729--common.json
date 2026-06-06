@@ -1,0 +1,135 @@
+{
+    "id": "i113729",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "raw material",
+    "en_definition": "material suitable for manufacture or use or finishing",
+    "tr_word": "hammadde",
+    "tr_definition": "İşlenmemiş, doğal durumdaki madde; üretimde kullanılan temel bileşen.",
+    "ru_word": "сырьё",
+    "ru_definition": "Материал, предназначенный для дальнейшей промышленной переработки и превращения в готовый продукт.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çig mal",
+                    "çig madda"
+                ],
+                "Kazakh": [
+                    "шикізат"
+                ],
+                "Kyrgyz": [
+                    "чийки зат",
+                    "чийки материал"
+                ],
+                "Karakalpak": [
+                    "shiyki zat",
+                    "shiyki mal"
+                ],
+                "Bashkir": [
+                    "сеймал",
+                    "сеймал-ер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hammadde"
+                ],
+                "Azerbaijani": [
+                    "xammal"
+                ],
+                "Uzbek": [
+                    "xomashyo",
+                    "xom ashyo"
+                ],
+                "Uyghur": [
+                    "خام ئەشيا",
+                    "خام ماتېرىيال"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "material"
+                ],
+                "Uzbek": [
+                    "modda"
+                ],
+                "Tatar": [
+                    "материал"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ana madde",
+                    "asıl madde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mənbə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "serişde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەسلى ماتېرىيال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "негіз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "баштапкы зат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чимал",
+                    "асбап"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төп материал"
+                ]
+            }
+        }
+    ]
+}

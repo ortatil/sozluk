@@ -1,0 +1,78 @@
+{
+    "id": "i109556",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "relative humidity",
+    "en_definition": "the ratio of the amount of water in the air at a give temperature to the maximum amount it could hold at that temperature; expressed as a percentage",
+    "tr_word": "bağıl nem",
+    "tr_definition": "havadaki su buharı miktarının, o sıcaklıkta havanın taşıyabileceği en yüksek su buharı miktarına oranı; yüzde olarak ifade edilir",
+    "ru_word": "относительная влажность",
+    "ru_definition": "отношение количества водяного пара в воздухе при данной температуре к максимально возможному количеству при той же температуре; выражается в процентах",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nispi rutubet"
+                ],
+                "Azerbaijani": [
+                    "nisbi rütubət",
+                    "nisbi rütubətlilik",
+                    "nisbi nəmlik"
+                ],
+                "Turkmen": [
+                    "nisbi çyglylyk",
+                    "nisbi nemlilik"
+                ],
+                "Uzbek": [
+                    "nisbiy namlik"
+                ],
+                "Uyghur": [
+                    "نىسپىي نەملىك",
+                    "نىسپىي رۇتۇبەت"
+                ],
+                "Tatar": [
+                    "нисби дымлылык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "салыстырмалы ылғалдылық",
+                    "салыстырмалы ылғалдық"
+                ],
+                "Kyrgyz": [
+                    "салыштырмалуу нымдуулук",
+                    "салыштырма нымдуулук"
+                ],
+                "Karakalpak": [
+                    "salıstırmalı nımlılıq",
+                    "salıstırmalı ıǵallıq"
+                ],
+                "Tatar": [
+                    "чагыштырма дымлылык"
+                ],
+                "Bashkir": [
+                    "сағыштырма дымлылыҡ",
+                    "сағыштырма нәмлелек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağıl nem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "havoning nisbiy namligi"
+                ]
+            }
+        }
+    ]
+}

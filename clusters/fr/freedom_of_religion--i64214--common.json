@@ -1,0 +1,143 @@
+{
+    "id": "i64214",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "freedom of religion",
+    "en_definition": "a civil right guaranteed by the First Amendment to the US Constitution",
+    "tr_word": "din özgürlüğü",
+    "tr_definition": "Bireylerin herhangi bir dini inancı benimseme, uygulama veya hiçbir dine inanmama hakkı.",
+    "ru_word": "свобода вероисповедания",
+    "ru_definition": "Право исповедовать любую религию или не исповедовать никакой, гарантированное законом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "din hürriyeti",
+                    "din özgürlüğü"
+                ],
+                "Azerbaijani": [
+                    "din azadlığı"
+                ],
+                "Turkmen": [
+                    "din azatlygy",
+                    "din we wyždan erkinligi"
+                ],
+                "Uyghur": [
+                    "دىنىي ئەركىنلىك",
+                    "دىن ۋە ئېتىقاد ئەركىنلىكى"
+                ],
+                "Kazakh": [
+                    "діни еркіндік"
+                ],
+                "Kyrgyz": [
+                    "дин тутуу эркиндиги",
+                    "дин эркиндиги"
+                ],
+                "Karakalpak": [
+                    "diniy erkinlik"
+                ],
+                "Tatar": [
+                    "дин иреге",
+                    "дин иреклеге"
+                ],
+                "Bashkir": [
+                    "дин иреге",
+                    "дин азатлығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vicdan hürriyeti"
+                ],
+                "Azerbaijani": [
+                    "vicdan azadlığı"
+                ],
+                "Turkmen": [
+                    "wyždan azatlygy"
+                ],
+                "Uzbek": [
+                    "vijdon erkinligi"
+                ],
+                "Karakalpak": [
+                    "wijdan erkinligi"
+                ],
+                "Tatar": [
+                    "вөҗдан иреге",
+                    "вөҗдан хөррияте"
+                ],
+                "Bashkir": [
+                    "вөждан азатлығы",
+                    "вөждан иреге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "etiqad azadlığı"
+                ],
+                "Uzbek": [
+                    "e'tiqod erkinligi"
+                ],
+                "Uyghur": [
+                    "ئېتىقاد ئەركىنلىكى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сенім бостандығы"
+                ],
+                "Kyrgyz": [
+                    "ишеним эркиндиги"
+                ],
+                "Karakalpak": [
+                    "isenim erkinligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "inanç hürriyeti",
+                    "itikat hürriyeti"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ynanç azatlygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "din erkinligi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дін бостандығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ар-ождан бостандығы"
+                ]
+            }
+        }
+    ]
+}

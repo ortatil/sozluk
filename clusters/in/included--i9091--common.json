@@ -1,0 +1,161 @@
+{
+    "id": "i9091",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "included",
+    "en_definition": "enclosed in the same envelope or package",
+    "tr_word": "ilişik",
+    "tr_definition": "aynı zarf veya paket içine konulmuş, eklenmiş",
+    "ru_word": "вложенный",
+    "ru_definition": "помещенный в тот же конверт или упаковку",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "içində"
+                ],
+                "Turkmen": [
+                    "içinde"
+                ],
+                "Uzbek": [
+                    "ichida",
+                    "ichidagi"
+                ],
+                "Uyghur": [
+                    "ئىچىگە سېلىنغان"
+                ],
+                "Kazakh": [
+                    "ішіндегі",
+                    "ішіне салынған"
+                ],
+                "Kyrgyz": [
+                    "ичиндеги"
+                ],
+                "Karakalpak": [
+                    "іshіndegі",
+                    "іshіne salınǵan"
+                ],
+                "Tatar": [
+                    "эчендәге"
+                ],
+                "Bashkir": [
+                    "эсендәге",
+                    "эсендә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "goşulan",
+                    "goşmaça"
+                ],
+                "Uzbek": [
+                    "qo'shilgan"
+                ],
+                "Uyghur": [
+                    "قوشۇمچە قىلىنغان"
+                ],
+                "Kazakh": [
+                    "қоса берілген"
+                ],
+                "Kyrgyz": [
+                    "кошо салынган"
+                ],
+                "Karakalpak": [
+                    "qosa tіrkelgen"
+                ],
+                "Tatar": [
+                    "кушылган"
+                ],
+                "Bashkir": [
+                    "ҡушылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "birlikdə"
+                ],
+                "Uzbek": [
+                    "biriktirilgan"
+                ],
+                "Uyghur": [
+                    "بىرگە قىلىنغان"
+                ],
+                "Tatar": [
+                    "бергә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қамтылған"
+                ],
+                "Kyrgyz": [
+                    "камтылган"
+                ],
+                "Tatar": [
+                    "кертелгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ilişik"
+                ],
+                "Turkmen": [
+                    "bilelikde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dahil"
+                ],
+                "Azerbaijani": [
+                    "daxil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əlavə edilmiş"
+                ],
+                "Uzbek": [
+                    "ilovadagi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ekli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "melfuf"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тиркелген"
+                ]
+            }
+        }
+    ]
+}

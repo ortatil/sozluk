@@ -1,0 +1,105 @@
+{
+    "id": "synset-oewn-92470635-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cardinal number",
+    "en_definition": "(grammar) A word that expresses a countable quantity.",
+    "tr_word": "asıl sayı",
+    "tr_definition": "Varlıkların miktarını gösteren, saymaya yarayan sayı.",
+    "ru_word": "количественное числительное",
+    "ru_definition": "Числительное, обозначающее количество предметов при их счёте.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sayı",
+                    "sayma sayısı"
+                ],
+                "Azerbaijani": [
+                    "say"
+                ],
+                "Uyghur": [
+                    "سان"
+                ],
+                "Kazakh": [
+                    "сан"
+                ],
+                "Kyrgyz": [
+                    "сан"
+                ],
+                "Karakalpak": [
+                    "sanaq san"
+                ],
+                "Bashkir": [
+                    "һан"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "miqdar sayı"
+                ],
+                "Turkmen": [
+                    "mukdar san"
+                ],
+                "Uzbek": [
+                    "miqdor son"
+                ],
+                "Uyghur": [
+                    "مىقدار سان"
+                ],
+                "Karakalpak": [
+                    "miqdar san"
+                ],
+                "Tatar": [
+                    "микъдар саны"
+                ],
+                "Bashkir": [
+                    "миҡдар һаны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "asıl sayı"
+                ],
+                "Turkmen": [
+                    "asyl san"
+                ],
+                "Uyghur": [
+                    "ئاساس سان"
+                ],
+                "Kyrgyz": [
+                    "эсептик сан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sanoq son"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есептік сан есім",
+                    "есептік сан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төп сан"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "id": "i5220",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "out",
+    "en_definition": "outside or external",
+    "tr_word": "dış",
+    "tr_definition": "dışarıda olan veya dış tarafa ait olan",
+    "ru_word": "внешний",
+    "ru_definition": "находящийся снаружи или относящийся к внешней стороне",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dış"
+                ],
+                "Turkmen": [
+                    "daşky",
+                    "daş"
+                ],
+                "Uzbek": [
+                    "tashqi"
+                ],
+                "Uyghur": [
+                    "تاشقى"
+                ],
+                "Kyrgyz": [
+                    "тышкы"
+                ],
+                "Karakalpak": [
+                    "tısqı"
+                ],
+                "Tatar": [
+                    "тышкы"
+                ],
+                "Bashkir": [
+                    "тышҡы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dışarıdaki"
+                ],
+                "Turkmen": [
+                    "daşary"
+                ],
+                "Uzbek": [
+                    "tashqaridagi"
+                ],
+                "Uyghur": [
+                    "تاشقىرى"
+                ],
+                "Kazakh": [
+                    "тысқары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "harici"
+                ],
+                "Azerbaijani": [
+                    "xarici"
+                ],
+                "Uyghur": [
+                    "خارىجى"
+                ],
+                "Tatar": [
+                    "хариҗи"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сыртқы"
+                ],
+                "Kyrgyz": [
+                    "сырткы"
+                ],
+                "Karakalpak": [
+                    "sırtqı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шеткі"
+                ],
+                "Bashkir": [
+                    "ситтәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тыштагы"
+                ],
+                "Bashkir": [
+                    "тыштағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çöl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "bayır"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "beruniy"
+                ]
+            }
+        }
+    ]
+}

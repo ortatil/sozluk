@@ -1,0 +1,83 @@
+{
+    "id": "i23596",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "preheat",
+    "en_definition": "heat beforehand",
+    "tr_word": "önceden ısıtmak",
+    "tr_definition": "bir şeyi, özellikle bir fırını, kullanmadan önce belirli bir sıcaklığa getirmek",
+    "ru_word": "предварительно разогревать",
+    "ru_definition": "нагревать что-либо заранее до нужной температуры перед использованием",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oldindan qizdirmoq",
+                    "oldindan isitmoq"
+                ],
+                "Uyghur": [
+                    "ئالدىن قىزىتماق",
+                    "ئالدىن ئىسسىتماق"
+                ],
+                "Kazakh": [
+                    "алдын ала қыздыру",
+                    "алдын ала жылыту"
+                ],
+                "Kyrgyz": [
+                    "алдын ала ысытуу",
+                    "алдын ала кыздыруу"
+                ],
+                "Karakalpak": [
+                    "aldın ala qızdırıo",
+                    "aldın ala ısıtıo"
+                ],
+                "Tatar": [
+                    "алдан җылыту",
+                    "алдан кыздыру"
+                ],
+                "Bashkir": [
+                    "алдан йылытыу",
+                    "алдан ҡыҙҙырыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "önceden ısıtmak",
+                    "ön ısıtma yapmak"
+                ],
+                "Azerbaijani": [
+                    "öncədən qızdırmaq"
+                ],
+                "Turkmen": [
+                    "öňünden gyzdyrmak",
+                    "öňünden gyzdyryp goýmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əvvəlcədən qızdırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabaqcadan qızdırmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qizdirib olmoq"
+                ]
+            }
+        }
+    ]
+}

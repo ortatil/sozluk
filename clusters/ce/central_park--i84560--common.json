@@ -1,0 +1,89 @@
+{
+    "id": "i84560",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "central park",
+    "en_definition": "a large park in Manhattan",
+    "tr_word": "Central Park",
+    "tr_definition": "Manhattan'da bulunan büyük bir park",
+    "ru_word": "Центральный парк",
+    "ru_definition": "большой парк на Манхэттене",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "merkez parkı"
+                ],
+                "Azerbaijani": [
+                    "mərkəzi park",
+                    "mərkəzi bağ"
+                ],
+                "Turkmen": [
+                    "merkezi seýilgäh",
+                    "merkezi bag"
+                ],
+                "Uzbek": [
+                    "markaziy bog'",
+                    "markaziy sayilgoh"
+                ],
+                "Uyghur": [
+                    "مەركىزىي باغچا",
+                    "مەركىزىي باغ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "орталық саябақ",
+                    "орталық бақ"
+                ],
+                "Karakalpak": [
+                    "ortalıq baǵ",
+                    "ortalıq seyilgax"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үзәк бакча",
+                    "үзәк паркы"
+                ],
+                "Bashkir": [
+                    "үҙәк парк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şehir parkı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "büyük park"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "борбордук сейил бак",
+                    "борбордук бакча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "төп баҡса"
+                ]
+            }
+        }
+    ]
+}

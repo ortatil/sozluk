@@ -1,0 +1,148 @@
+{
+    "id": "i5864",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "day-old",
+    "en_definition": "not fresh today",
+    "tr_word": "bayat",
+    "tr_definition": "tazeliğini yitirmiş, dünden kalmış",
+    "ru_word": "несвежий",
+    "ru_definition": "не первой свежести, вчерашний",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "geçenki"
+                ],
+                "Uzbek": [
+                    "kechagi"
+                ],
+                "Kazakh": [
+                    "кешегі"
+                ],
+                "Kyrgyz": [
+                    "кечээки"
+                ],
+                "Karakalpak": [
+                    "keshegi"
+                ],
+                "Tatar": [
+                    "кичәге"
+                ],
+                "Bashkir": [
+                    "кисәге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "eskirgan"
+                ],
+                "Kazakh": [
+                    "ескі"
+                ],
+                "Kyrgyz": [
+                    "эски"
+                ],
+                "Karakalpak": [
+                    "eski"
+                ],
+                "Tatar": [
+                    "иске"
+                ],
+                "Bashkir": [
+                    "иҫке"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bayat"
+                ],
+                "Azerbaijani": [
+                    "bayat"
+                ],
+                "Uzbek": [
+                    "bayot"
+                ],
+                "Karakalpak": [
+                    "bayırǵı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dünkü"
+                ],
+                "Azerbaijani": [
+                    "dünənki"
+                ],
+                "Turkmen": [
+                    "dünýäki"
+                ],
+                "Uyghur": [
+                    "تۈنۈگۈنكى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "köhnə"
+                ],
+                "Turkmen": [
+                    "köne"
+                ],
+                "Uyghur": [
+                    "كونا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taze olmayan"
+                ],
+                "Turkmen": [
+                    "täze däl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۇرۇنقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұрып қалған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өткөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "яңы түгел"
+                ]
+            }
+        }
+    ]
+}

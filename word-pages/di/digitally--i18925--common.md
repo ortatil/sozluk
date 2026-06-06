@@ -1,0 +1,101 @@
+# Digitally
+| Field | Detail |
+|---|---|
+| **ID** | i18925 |
+| **English** | digitally |
+| **Type** | adverb |
+| **Definition** | by means of the fingers |
+| **Source** | common |
+| **Ortatil** | ḅarmakla |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| саусақпен | sausaqpen |
+
+```json
+{
+    "id": "i18925",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "digitally",
+    "en_definition": "by means of the fingers",
+    "tr_word": "parmakla",
+    "tr_definition": "parmaklar aracılığıyla veya parmakları kullanarak",
+    "ru_word": "пальцами",
+    "ru_definition": "с помощью пальцев рук",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "parmakla",
+                    "parmak yoluyla",
+                    "parmak aracılığıyla"
+                ],
+                "Azerbaijani": [
+                    "barmaqla",
+                    "barmaq vasitəsilə"
+                ],
+                "Turkmen": [
+                    "barmak arkaly",
+                    "barmaklar bilen"
+                ],
+                "Uzbek": [
+                    "barmoq bilan"
+                ],
+                "Uyghur": [
+                    "بارماق بىلەن",
+                    "بارماق ئارقىلىق"
+                ],
+                "Tatar": [
+                    "бармак белән"
+                ],
+                "Bashkir": [
+                    "бармаҡ менән",
+                    "бармаҡ ярҙамында"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻl bilan"
+                ],
+                "Kyrgyz": [
+                    "кол менен"
+                ],
+                "Tatar": [
+                    "кул белән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саусақпен",
+                    "саусақ арқылы"
+                ],
+                "Karakalpak": [
+                    "sausaq penen",
+                    "sausaq arqalı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "манжа менен"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,170 @@
+# Cicada killer
+| Field | Detail |
+|---|---|
+| **ID** | i47143 |
+| **English** | cicada killer |
+| **Type** | noun |
+| **Definition** | large black or rust-colored wasp that preys on cicadas |
+| **Source** | common |
+| **Ortatil** | äri |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i47143",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cicada killer",
+    "en_definition": "large black or rust-colored wasp that preys on cicadas",
+    "tr_word": "ağustos böceği avcısı yaban arısı",
+    "tr_definition": "Ağustos böceklerini avlayan, siyah veya pas renginde, büyük bir yaban arısı türü.",
+    "ru_word": "оса-убийца цикад",
+    "ru_definition": "Крупная черная или рыжеватая оса, охотящаяся на цикад.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "cırcırama qatili",
+                    "cırcırama ovçusu"
+                ],
+                "Uzbek": [
+                    "ari",
+                    "yirik ari"
+                ],
+                "Karakalpak": [
+                    "ara",
+                    "jırtqısh ara"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "uly ary"
+                ],
+                "Kazakh": [
+                    "дәу ара",
+                    "шыжылдақ аулаушы ара"
+                ],
+                "Karakalpak": [
+                    "dáu ara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "awçy ary"
+                ],
+                "Kyrgyz": [
+                    "сары аары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوڭ سېرىق ھەرە",
+                    "چوڭ زەرەپشە",
+                    "چوڭ زەرەپشە ھەرە"
+                ],
+                "Kyrgyz": [
+                    "чоң аары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ağustos böceği avcısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yaban arısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eşek arısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "böyük eşşəarısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýer arysy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qovoqari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zaharli ari"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шыжылдақ жегіш ара"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "көк аары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зур шөпшә",
+                    "цикада аулаучы шөпшә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "цикада һағыҙағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҙур һағыҙаҡ",
+                    "ер һағыҙағы"
+                ]
+            }
+        }
+    ]
+}
+```
+

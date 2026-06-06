@@ -1,0 +1,92 @@
+{
+    "id": "i44036",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "turtle",
+    "en_definition": "any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming",
+    "tr_word": "kaplumbağa",
+    "tr_definition": "Kemikli bir kabuğu olan, hem karada hem suda yaşayabilen, yavaş hareket eden sürüngen.",
+    "ru_word": "черепаха",
+    "ru_definition": "Пресмыкающееся с костным панцирем, в который оно может прятать голову, хвост и конечности.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tosbağa"
+                ],
+                "Azerbaijani": [
+                    "tısbağa"
+                ],
+                "Turkmen": [
+                    "tasybaga"
+                ],
+                "Uzbek": [
+                    "toshbaqa"
+                ],
+                "Uyghur": [
+                    "تاشپاقا"
+                ],
+                "Kazakh": [
+                    "тасбақа"
+                ],
+                "Kyrgyz": [
+                    "таш бака"
+                ],
+                "Karakalpak": [
+                    "tasbaqa"
+                ],
+                "Tatar": [
+                    "ташбака"
+                ],
+                "Bashkir": [
+                    "ташбаҡа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bağa"
+                ],
+                "Uzbek": [
+                    "baqa"
+                ],
+                "Uyghur": [
+                    "پاقا"
+                ],
+                "Kazakh": [
+                    "бақа"
+                ],
+                "Kyrgyz": [
+                    "бака"
+                ],
+                "Karakalpak": [
+                    "baqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kaplumbağa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pyşbaga"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "гөберле ташбака"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "synset-oewn-92412100-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "carrot soup",
+    "en_definition": "soup made from carrots and other ingredients.",
+    "tr_word": "havuç çorbası",
+    "tr_definition": "Havuç ve diğer malzemelerle yapılan bir çorba türü.",
+    "ru_word": "морковный суп",
+    "ru_definition": "Суп, приготовленный из моркови и других ингредиентов.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "sabzili sho'rva",
+                    "sabzi sho'rvasi"
+                ],
+                "Kazakh": [
+                    "сәбіз сорпасы",
+                    "сәбіз шорпасы"
+                ],
+                "Kyrgyz": [
+                    "сабиз шорпо",
+                    "сабиз шорпосу"
+                ],
+                "Karakalpak": [
+                    "sábiz sorpa",
+                    "sábiz shorpa"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "käşirli çorba",
+                    "käşir çorbasy"
+                ],
+                "Tatar": [
+                    "кишер ашы",
+                    "кишер шулпасы"
+                ],
+                "Bashkir": [
+                    "кишер ашы",
+                    "кишер шүрпәһе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "havuç çorbası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pürenli çorba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yerkökü şorbası",
+                    "yerkökü supu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "kök şorbası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سەۋزە شورپىسى",
+                    "سەۋزە سۇيۇقئېشى"
+                ]
+            }
+        }
+    ]
+}

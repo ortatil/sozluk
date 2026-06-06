@@ -1,0 +1,130 @@
+# Mailbag
+| Field | Detail |
+|---|---|
+| **ID** | i55939 |
+| **English** | mailbag |
+| **Type** | noun |
+| **Definition** | pouch used in the shipment of mail |
+| **Source** | common |
+| **Ortatil** | heybe |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i55939",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mailbag",
+    "en_definition": "pouch used in the shipment of mail",
+    "tr_word": "posta çantası",
+    "tr_definition": "Posta gönderilerinin taşınmasında kullanılan torba veya çanta.",
+    "ru_word": "почтовая сумка",
+    "ru_definition": "Сумка, используемая для перевозки и доставки почтовых отправлений.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "posta çantası",
+                    "posta torbası"
+                ],
+                "Azerbaijani": [
+                    "poçt çantası",
+                    "poçt torbası"
+                ],
+                "Turkmen": [
+                    "poçta haltasy"
+                ],
+                "Uzbek": [
+                    "pochta qopi",
+                    "pochta xaltasi"
+                ],
+                "Uyghur": [
+                    "پوچتا خالتىسى",
+                    "پوچتا قاپچۇقى"
+                ],
+                "Kazakh": [
+                    "пошта қабы"
+                ],
+                "Kyrgyz": [
+                    "почта баштыгы"
+                ],
+                "Karakalpak": [
+                    "poshta qabı",
+                    "poshta qaltası"
+                ],
+                "Tatar": [
+                    "почта капчыгы"
+                ],
+                "Bashkir": [
+                    "почта ҡапсығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hat haltasy"
+                ],
+                "Uzbek": [
+                    "xat xaltasi"
+                ],
+                "Uyghur": [
+                    "خەت خالتىسى"
+                ],
+                "Kazakh": [
+                    "хат қоржын",
+                    "хат сауыт"
+                ],
+                "Kyrgyz": [
+                    "кат баштык",
+                    "кат кап"
+                ],
+                "Karakalpak": [
+                    "xat qabı"
+                ],
+                "Tatar": [
+                    "хат капчыгы"
+                ],
+                "Bashkir": [
+                    "хат ҡапсығы",
+                    "хат сумкаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "heybe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məktub çantası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "torba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәбәр капчыгы"
+                ]
+            }
+        }
+    ]
+}
+```
+

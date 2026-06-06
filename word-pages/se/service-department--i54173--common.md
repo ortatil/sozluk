@@ -1,0 +1,193 @@
+# Service department
+| Field | Detail |
+|---|---|
+| **ID** | i54173 |
+| **English** | service department |
+| **Type** | noun |
+| **Definition** | a repair shop where cars and trucks are serviced and repaired |
+| **Source** | common |
+| **Ortatil** | tamirhana |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| رېمونتخانا | remontxana |
+| **Tatar** | |
+| төзәтүханә | tözätüxanä |
+
+```json
+{
+    "id": "i54173",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "service department",
+    "en_definition": "a repair shop where cars and trucks are serviced and repaired",
+    "tr_word": "servis bölümü",
+    "tr_definition": "otomobil ve kamyonların bakım ve onarımının yapıldığı tamirhane",
+    "ru_word": "сервисный отдел",
+    "ru_definition": "ремонтная мастерская, где обслуживаются и ремонтируются легковые и грузовые автомобили",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "xidmət mərkəzi"
+                ],
+                "Turkmen": [
+                    "hyzmat merkezi"
+                ],
+                "Uzbek": [
+                    "xizmat ko'rsatish bo'limi"
+                ],
+                "Karakalpak": [
+                    "xızmet kórsetio ornı"
+                ],
+                "Tatar": [
+                    "хезмәт күрсәтү пункты"
+                ],
+                "Bashkir": [
+                    "хеҙмәтләндереү бүлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tamirhane"
+                ],
+                "Azerbaijani": [
+                    "təmirxana",
+                    "təmir sexi",
+                    "təmir şöbəsi"
+                ],
+                "Uzbek": [
+                    "ta'mirlash ustaxonasi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "onarım merkezi"
+                ],
+                "Kyrgyz": [
+                    "унаа оңдоочу жай"
+                ],
+                "Karakalpak": [
+                    "ońlao ornı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماشىنا رېمونتخانىسى"
+                ],
+                "Tatar": [
+                    "машина төзәтү урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төзәтүханә"
+                ],
+                "Bashkir": [
+                    "төҙәтеү оҫтаханаһы",
+                    "төҙәтеү урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "servis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bakım servisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "abatlaýyş ussahanasy",
+                    "awtoulag ussahanasy",
+                    "abatlaýyş bölümi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ustaxona"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "رېمونتخانا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تېخنىكىلىق مۇلازىمەت مەركىزى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жөндеу шеберханасы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қызмет көрсету орталығы",
+                    "көлік жөндеу орны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тейлөө борбору",
+                    "тейлөө бөлүмү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оңдоочу жай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "sheberxana"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,89 @@
+{
+    "id": "i53733",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fireboat",
+    "en_definition": "a boat equipped to fight fires on ships or along a waterfront",
+    "tr_word": "itfaiye teknesi",
+    "tr_definition": "gemilerdeki veya kıyı şeridindeki yangınlarla mücadele etmek için donatılmış tekne",
+    "ru_word": "пожарный катер",
+    "ru_definition": "судно, оборудованное для тушения пожаров на кораблях или вдоль береговой линии",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yangın söndürme gemisi",
+                    "yangın söndürme teknesi"
+                ],
+                "Azerbaijani": [
+                    "yanğınsöndürən gəmi",
+                    "yanğın gəmisi",
+                    "yanğınsöndürən qayıq"
+                ],
+                "Turkmen": [
+                    "ýangyn söndüriji gämi",
+                    "ýangyn gämisi"
+                ],
+                "Uzbek": [
+                    "yongʻin oʻchiruvchi kema"
+                ],
+                "Tatar": [
+                    "янгын көймәсе",
+                    "янгын судносы",
+                    "янгын корабы"
+                ],
+                "Bashkir": [
+                    "янғын һүндергес карап",
+                    "янғын һүндергес кәмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oʻt oʻchiruvchi kema",
+                    "oʻt oʻchiruvchi qayiq"
+                ],
+                "Uyghur": [
+                    "ئوت ئۆچۈرۈش كېمىسى",
+                    "ئوت ئۆچۈرگۈچى كېمە"
+                ],
+                "Kazakh": [
+                    "өрт сөндіру кемесі",
+                    "өрт сөндіру қайығы"
+                ],
+                "Kyrgyz": [
+                    "өрт өчүрүүчү кеме",
+                    "өрт өчүрүүчү кайык"
+                ],
+                "Karakalpak": [
+                    "órt óshirioshi keme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "itfaiye gemisi",
+                    "itfaiye teknesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "órtke qarsı keme"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ут һүндергес карап"
+                ]
+            }
+        }
+    ]
+}

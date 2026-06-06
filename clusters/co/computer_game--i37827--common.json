@@ -1,0 +1,102 @@
+{
+    "id": "i37827",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "computer game",
+    "en_definition": "a game played against a computer",
+    "tr_word": "bilgisayar oyunu",
+    "tr_definition": "Bilgisayar üzerinde oynanan oyun.",
+    "ru_word": "компьютерная игра",
+    "ru_definition": "Игра, в которую играют на компьютере.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kompüter oyunu"
+                ],
+                "Turkmen": [
+                    "kompýuter oýny"
+                ],
+                "Uzbek": [
+                    "kompyuter oʻyini"
+                ],
+                "Uyghur": [
+                    "كومپيۇتېر ئويۇنى"
+                ],
+                "Kazakh": [
+                    "компьютерлік ойын"
+                ],
+                "Kyrgyz": [
+                    "компьютердик оюн"
+                ],
+                "Karakalpak": [
+                    "kompyuter oyını"
+                ],
+                "Tatar": [
+                    "компьютер уены"
+                ],
+                "Bashkir": [
+                    "компьютер уйыны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "elektronik oyun"
+                ],
+                "Azerbaijani": [
+                    "elektron oyun"
+                ],
+                "Turkmen": [
+                    "elektron oýun"
+                ],
+                "Uzbek": [
+                    "elektron oʻyin"
+                ],
+                "Uyghur": [
+                    "ئېلېكترونلۇق ئويۇن"
+                ],
+                "Kyrgyz": [
+                    "электрондук оюн"
+                ],
+                "Karakalpak": [
+                    "elektronlıq oyın"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sanal oyun"
+                ],
+                "Tatar": [
+                    "санак уены"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilgisayar oyunu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "есептеуіш ойыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хисаплағыс уйыны"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "id": "i61014",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "water mill",
+    "en_definition": "a mill powered by a water wheel",
+    "tr_word": "su değirmeni",
+    "tr_definition": "su çarkı ile çalışan değirmen",
+    "ru_word": "водяная мельница",
+    "ru_definition": "мельница, приводимая в движение силой воды",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "su değirmeni"
+                ],
+                "Azerbaijani": [
+                    "su dəyirmanı"
+                ],
+                "Turkmen": [
+                    "suw degirmeni"
+                ],
+                "Uzbek": [
+                    "suv tegirmoni"
+                ],
+                "Uyghur": [
+                    "سۇ تۈگمىنى"
+                ],
+                "Kazakh": [
+                    "су диірмен",
+                    "су диірмені"
+                ],
+                "Kyrgyz": [
+                    "суу тегирмен"
+                ],
+                "Karakalpak": [
+                    "suo tiyirmen"
+                ],
+                "Tatar": [
+                    "су тегермәне",
+                    "сулы тегермән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dəyirman"
+                ],
+                "Turkmen": [
+                    "degirmen"
+                ],
+                "Uzbek": [
+                    "tegirmon"
+                ],
+                "Uyghur": [
+                    "تۈگىمەن"
+                ],
+                "Kyrgyz": [
+                    "тегирмен"
+                ],
+                "Karakalpak": [
+                    "tiyirmen"
+                ],
+                "Bashkir": [
+                    "тирмән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dolaplı değirmen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "arklı değirmen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "charxpalak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "һыу тирмәне"
+                ]
+            }
+        }
+    ]
+}

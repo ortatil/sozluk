@@ -1,0 +1,100 @@
+{
+    "id": "i8221",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "measurable",
+    "en_definition": "capable of being measured",
+    "tr_word": "ölçülebilir",
+    "tr_definition": "ölçülmesi mümkün olan, miktarı belirlenebilir",
+    "ru_word": "измеримый",
+    "ru_definition": "поддающийся измерению, имеющий определенную меру",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ölçülebilir",
+                    "ölçülür"
+                ],
+                "Azerbaijani": [
+                    "ölçülə bilən",
+                    "ölçülən",
+                    "ölçüləsi"
+                ],
+                "Turkmen": [
+                    "ölçegli",
+                    "ölçäp bolýan",
+                    "ölçenip bilinýän"
+                ],
+                "Uzbek": [
+                    "oʻlchovli",
+                    "oʻlchasa boʻladigan",
+                    "oʻlchanadigan"
+                ],
+                "Uyghur": [
+                    "ئۆلچىگىلى بولىدىغان",
+                    "ئۆلچەملىك"
+                ],
+                "Kazakh": [
+                    "өлшеулі",
+                    "өлшенетін",
+                    "өлшеуге келетін"
+                ],
+                "Kyrgyz": [
+                    "өлчөнө турган",
+                    "өлчөмдүү",
+                    "өлчөнүүчү"
+                ],
+                "Karakalpak": [
+                    "ólshemli",
+                    "ólshep bolatuǵın",
+                    "ólsheuge keletuǵın"
+                ],
+                "Tatar": [
+                    "үлчәнмәле",
+                    "үлчәп була торган",
+                    "үлчәүле"
+                ],
+                "Bashkir": [
+                    "үлсәнмәле",
+                    "үлсәп була торған",
+                    "үлсәүле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "muayyen"
+                ],
+                "Azerbaijani": [
+                    "müəyyən edilə bilən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "miqdoriy"
+                ],
+                "Uyghur": [
+                    "مىقدارلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kıyaslanabilir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мөлшерлі"
+                ]
+            }
+        }
+    ]
+}

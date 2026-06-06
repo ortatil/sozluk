@@ -1,0 +1,149 @@
+# Fluorescent lamp
+| Field | Detail |
+|---|---|
+| **ID** | i53899 |
+| **English** | fluorescent lamp |
+| **Type** | noun |
+| **Definition** | lamp consisting of a tube coated on the inside with a fluorescent material; mercury vapor in the tube emits ultraviolet radiation that is converted to visible radiation by the fluorescent material |
+| **Source** | common |
+| **Ortatil** | floresan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i53899",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "fluorescent lamp",
+    "en_definition": "lamp consisting of a tube coated on the inside with a fluorescent material; mercury vapor in the tube emits ultraviolet radiation that is converted to visible radiation by the fluorescent material",
+    "tr_word": "floresan lamba",
+    "tr_definition": "İç yüzeyi floresan bir maddeyle kaplı, içindeki cıva buharının ultraviyole ışınlarını görünür ışığa dönüştürdüğü tüp şeklindeki lamba.",
+    "ru_word": "люминесцентная лампа",
+    "ru_definition": "Газоразрядный источник света, в котором видимый свет излучается люминофором, светящимся под воздействием ультрафиолетового излучения разряда.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gün işığı lampası"
+                ],
+                "Turkmen": [
+                    "gündizki ýagtylyk çyrasy"
+                ],
+                "Uyghur": [
+                    "كۈندۈز چىرىغى"
+                ],
+                "Kazakh": [
+                    "күндізгі жарық шамы"
+                ],
+                "Kyrgyz": [
+                    "күндүзгү жарык лампасы"
+                ],
+                "Karakalpak": [
+                    "kún nurı lampası"
+                ],
+                "Tatar": [
+                    "көндезге яктылык лампасы"
+                ],
+                "Bashkir": [
+                    "көндөҙгө яҡтылыҡ лампаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "lüminessent lampa"
+                ],
+                "Turkmen": [
+                    "lyuminissent çyrasy"
+                ],
+                "Uyghur": [
+                    "ليۇمىنېسسېنسىيە چىرىغى"
+                ],
+                "Kazakh": [
+                    "люминесцентті шам"
+                ],
+                "Karakalpak": [
+                    "lyuminescent lampası"
+                ],
+                "Tatar": [
+                    "люминесцент лампа"
+                ],
+                "Bashkir": [
+                    "люминесцент лампа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "түтікшелі шам"
+                ],
+                "Kyrgyz": [
+                    "түтүк лампа"
+                ],
+                "Karakalpak": [
+                    "tútikshe lampa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "borulu lampa"
+                ],
+                "Uyghur": [
+                    "نور تۇرۇبىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yorugʻlik naychasi"
+                ],
+                "Kyrgyz": [
+                    "жарык берүүчү түтүк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "floresan lamba",
+                    "floresan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ışıl lamba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "turba çyra"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "naychali chiroq",
+                    "nayli chiroq"
+                ]
+            }
+        }
+    ]
+}
+```
+

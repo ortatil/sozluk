@@ -1,0 +1,173 @@
+# Castor sugar
+| Field | Detail |
+|---|---|
+| **ID** | i76709 |
+| **English** | castor sugar |
+| **Type** | noun |
+| **Definition** | very finely granulated sugar that was formerly sprinkled from a castor |
+| **Source** | common |
+| **Ortatil** | kumşeker |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| кумшекер | kumşeker |
+
+```json
+{
+    "id": "i76709",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "castor sugar",
+    "en_definition": "very finely granulated sugar that was formerly sprinkled from a castor",
+    "tr_word": "pudra şekeri",
+    "tr_definition": "eskiden bir serpiştiriciden dökülen, çok ince taneli toz şeker",
+    "ru_word": "сахарная пудра",
+    "ru_definition": "очень мелкозернистый сахар, который раньше посыпали из специальной сеялки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "mayda shakar"
+                ],
+                "Kazakh": [
+                    "майда қант"
+                ],
+                "Kyrgyz": [
+                    "майда кант",
+                    "майдаланган кант"
+                ],
+                "Karakalpak": [
+                    "mayda qant",
+                    "maydalanǵan qant"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "şeker tozy"
+                ],
+                "Uzbek": [
+                    "shakar upasi"
+                ],
+                "Tatar": [
+                    "шикәр комы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pudra şekeri"
+                ],
+                "Turkmen": [
+                    "pudra şekeri"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ince toz şeker",
+                    "ince şeker"
+                ],
+                "Azerbaijani": [
+                    "incə şəkər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئۇششاق شېكەر"
+                ],
+                "Kazakh": [
+                    "ұнтақ қант"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кумшекер"
+                ],
+                "Bashkir": [
+                    "ҡом шәкәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "вак шикәр"
+                ],
+                "Bashkir": [
+                    "ваҡ шәкәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "төйелгән шикәр"
+                ],
+                "Bashkir": [
+                    "төйөлгән шәкәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "narın şəkər",
+                    "narın şəkər tozu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ownuk şeker"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "elangan shakar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تالقان شېكەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئېزىلگەن شېكەر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қант ұнтағы"
+                ]
+            }
+        }
+    ]
+}
+```
+

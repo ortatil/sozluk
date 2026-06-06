@@ -1,0 +1,91 @@
+{
+    "id": "i35713",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "exit",
+    "en_definition": "the act of going out",
+    "tr_word": "çıkış",
+    "tr_definition": "bir yerden dışarı çıkma eylemi veya çıkılan yer",
+    "ru_word": "выход",
+    "ru_definition": "действие по значению глагола выходить; место, где выходят",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıkış"
+                ],
+                "Azerbaijani": [
+                    "çıxış"
+                ],
+                "Turkmen": [
+                    "çykyş",
+                    "çykalga"
+                ],
+                "Uzbek": [
+                    "chiqish",
+                    "chiqish yo'li"
+                ],
+                "Uyghur": [
+                    "چىقىش",
+                    "چىقىش ئېغىزى"
+                ],
+                "Kazakh": [
+                    "шығыс",
+                    "шығу"
+                ],
+                "Kyrgyz": [
+                    "чыгуу",
+                    "чыгыш"
+                ],
+                "Karakalpak": [
+                    "shıǵıs",
+                    "shıǵu"
+                ],
+                "Tatar": [
+                    "чыгу",
+                    "чыгыш"
+                ],
+                "Bashkir": [
+                    "сығыу",
+                    "сығыш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mefrez"
+                ],
+                "Azerbaijani": [
+                    "məxrəc"
+                ],
+                "Uyghur": [
+                    "مەخرەج"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "huruç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "darvoza"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "eshik"
+                ]
+            }
+        }
+    ]
+}

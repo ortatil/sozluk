@@ -1,0 +1,91 @@
+{
+    "id": "i57626",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "power loom",
+    "en_definition": "a loom operated mechanically",
+    "tr_word": "mekanik dokuma tezgahı",
+    "tr_definition": "mekanik olarak işletilen dokuma tezgahı",
+    "ru_word": "механический ткацкий станок",
+    "ru_definition": "ткацкий станок, приводимый в движение механическим способом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dokuma tezgahı"
+                ],
+                "Azerbaijani": [
+                    "toxucu dəzgahı",
+                    "toxuma dəzgahı"
+                ],
+                "Turkmen": [
+                    "dokma stanogy",
+                    "dokma enjamy"
+                ],
+                "Uzbek": [
+                    "toʻquv dastgohi"
+                ],
+                "Uyghur": [
+                    "توقۇمىچىلىق ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "тоқыма станогы",
+                    "тоқыма машинасы",
+                    "тоқыма дүкені"
+                ],
+                "Kyrgyz": [
+                    "токуучу станок",
+                    "токуучу машина",
+                    "токуучу жабдык"
+                ],
+                "Karakalpak": [
+                    "toqıma stanogı",
+                    "toqıma mashinası"
+                ],
+                "Tatar": [
+                    "туку станогы",
+                    "туку машинасы"
+                ],
+                "Bashkir": [
+                    "туҡыу станогы",
+                    "туҡыу машинаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mekanik tezgah"
+                ],
+                "Azerbaijani": [
+                    "mexaniki toxucu dəzgahı"
+                ],
+                "Turkmen": [
+                    "mehaniki dokma guraly"
+                ],
+                "Uzbek": [
+                    "mexanik toʻquv dastgohi"
+                ],
+                "Uyghur": [
+                    "مېخانىكىلىق توقۇش دەستىگاھى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "motorlu tezgah"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاپتوماتىك توقۇش ماشىنىسى"
+                ]
+            }
+        }
+    ]
+}

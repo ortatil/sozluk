@@ -1,0 +1,112 @@
+{
+    "id": "i55303",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "jukebox",
+    "en_definition": "a cabinet containing an automatic record player; records are played by inserting a coin",
+    "tr_word": "müzik kutusu",
+    "tr_definition": "İçine madenî para atılarak çalıştırılan ve içinde bulunan plaklardan seçileni otomatik olarak çalan büyük kutu.",
+    "ru_word": "музыкальный автомат",
+    "ru_definition": "аппарат для автоматического воспроизведения музыкальных записей, приводимый в действие жетоном или монетой.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "müzik kutusu"
+                ],
+                "Azerbaijani": [
+                    "musiqi qutusu",
+                    "musiqi aparatı"
+                ],
+                "Uzbek": [
+                    "musiqa qutisi"
+                ],
+                "Kyrgyz": [
+                    "музыкалык автомат"
+                ],
+                "Karakalpak": [
+                    "muzıkalıq awtomat"
+                ],
+                "Tatar": [
+                    "музыка автоматы"
+                ],
+                "Bashkir": [
+                    "музыкаль автомат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "otomatlı plakçalar"
+                ],
+                "Azerbaijani": [
+                    "avtomat fonoqraf"
+                ],
+                "Turkmen": [
+                    "awtomat saz guraly"
+                ],
+                "Uzbek": [
+                    "avtomat fonograf"
+                ],
+                "Uyghur": [
+                    "ئاپتوماتىك گراموفون",
+                    "ئاپتوماتىك مۇزىكا ساندۇقى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "күү сандык"
+                ],
+                "Tatar": [
+                    "көй сандыгы"
+                ],
+                "Bashkir": [
+                    "көй һандығы",
+                    "көй автоматы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "saz guraly",
+                    "saz sandygy"
+                ],
+                "Karakalpak": [
+                    "saz awtomatı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күйсандық",
+                    "үнсандық"
+                ],
+                "Kyrgyz": [
+                    "үн салгыч"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "navo qutisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әуен жәшігі"
+                ]
+            }
+        }
+    ]
+}

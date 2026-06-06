@@ -1,0 +1,92 @@
+{
+    "id": "i50298",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "aviary",
+    "en_definition": "a building where birds are kept",
+    "tr_word": "kuşluk",
+    "tr_definition": "kuşların içinde barındığı büyük kafes veya kapalı bina",
+    "ru_word": "вольер для птиц",
+    "ru_definition": "большое помещение или огороженное место для содержания птиц",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kuşluk",
+                    "kuşhane"
+                ],
+                "Azerbaijani": [
+                    "quşxana",
+                    "quş damı",
+                    "quş qəfəsi"
+                ],
+                "Turkmen": [
+                    "guşhana",
+                    "guş ketegi"
+                ],
+                "Uzbek": [
+                    "qushxona"
+                ],
+                "Uyghur": [
+                    "قۇشخانا",
+                    "قۇش كاتىكى",
+                    "قۇش قەپىسى"
+                ],
+                "Kazakh": [
+                    "құсхана",
+                    "құс қора",
+                    "құс ұясы"
+                ],
+                "Kyrgyz": [
+                    "кушкана"
+                ],
+                "Karakalpak": [
+                    "qusxana",
+                    "quslarxana"
+                ],
+                "Tatar": [
+                    "кошханә",
+                    "кош оясы",
+                    "кош бакчасы"
+                ],
+                "Bashkir": [
+                    "ҡошхана",
+                    "ҡош ояһы",
+                    "ҡош кетәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qafas"
+                ],
+                "Kyrgyz": [
+                    "капаскана"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "salma"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "katak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чымчыккана"
+                ]
+            }
+        }
+    ]
+}

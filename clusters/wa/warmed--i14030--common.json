@@ -1,0 +1,105 @@
+{
+    "id": "i14030",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "warmed",
+    "en_definition": "having been warmed up",
+    "tr_word": "ısınmış",
+    "tr_definition": "ısıtılmış veya sıcaklığı artmış olan",
+    "ru_word": "подогретый",
+    "ru_definition": "ставший более теплым в результате нагревания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ılık",
+                    "ılıtılmış"
+                ],
+                "Turkmen": [
+                    "ýyly"
+                ],
+                "Uzbek": [
+                    "iliq"
+                ],
+                "Uyghur": [
+                    "ئىللىتىلغان"
+                ],
+                "Kazakh": [
+                    "жылытылған",
+                    "жылыған",
+                    "жылы"
+                ],
+                "Kyrgyz": [
+                    "жылытылган",
+                    "жылыган"
+                ],
+                "Karakalpak": [
+                    "jılıtılǵan",
+                    "jılıǵan"
+                ],
+                "Tatar": [
+                    "җылытылган",
+                    "җылы"
+                ],
+                "Bashkir": [
+                    "йылытылған",
+                    "йылыған",
+                    "йылы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ısınmış",
+                    "ısıtılmış"
+                ],
+                "Azerbaijani": [
+                    "isinmiş",
+                    "isidilmiş",
+                    "isti"
+                ],
+                "Uzbek": [
+                    "isigan",
+                    "isitiqlgan"
+                ],
+                "Uyghur": [
+                    "ئىسسىتىلغان"
+                ],
+                "Kyrgyz": [
+                    "ысытылган"
+                ],
+                "Karakalpak": [
+                    "ısıtılǵan"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qızmış",
+                    "qızdırılmış"
+                ],
+                "Turkmen": [
+                    "gyzdyrylan"
+                ],
+                "Uyghur": [
+                    "قىزىتىلغان"
+                ],
+                "Tatar": [
+                    "кыздырылган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýyladylan"
+                ]
+            }
+        }
+    ]
+}

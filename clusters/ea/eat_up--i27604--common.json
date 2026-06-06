@@ -1,0 +1,146 @@
+{
+    "id": "i27604",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "eat up",
+    "en_definition": "finish eating all the food on one's plate or on the table",
+    "tr_word": "silip süpürmek",
+    "tr_definition": "tabaktaki veya sofradaki yemeğin tamamını bitirmek",
+    "ru_word": "съедать",
+    "ru_definition": "съесть всё до конца, не оставляя ничего на тарелке",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tüketmek"
+                ],
+                "Azerbaijani": [
+                    "tükətmək"
+                ],
+                "Uyghur": [
+                    "تۈگىتىش"
+                ],
+                "Kyrgyz": [
+                    "түгөтүү"
+                ],
+                "Tatar": [
+                    "төгәлләү"
+                ],
+                "Bashkir": [
+                    "төкәтеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yeb qo'ymoq",
+                    "yeb tugatmoq"
+                ],
+                "Uyghur": [
+                    "يەپ تۈگىتىش",
+                    "يەپ بولۇش"
+                ],
+                "Kazakh": [
+                    "жеп қою"
+                ],
+                "Kyrgyz": [
+                    "жеп салуу",
+                    "жеп бүтүрүү"
+                ],
+                "Karakalpak": [
+                    "jep qoyıu",
+                    "jep tauısıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "silip süpürmek",
+                    "yiyip bitirmek"
+                ],
+                "Azerbaijani": [
+                    "yeyib qurtarmaq",
+                    "yeyib bitirmək"
+                ],
+                "Turkmen": [
+                    "iýip gutarmak",
+                    "iýip tüketmek",
+                    "iýip bitirmek"
+                ],
+                "Uzbek": [
+                    "yeb bitirmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тауысып жеу",
+                    "тауысу"
+                ],
+                "Karakalpak": [
+                    "tauısıp jeu"
+                ],
+                "Tatar": [
+                    "тавып ашау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "ашап салуу"
+                ],
+                "Tatar": [
+                    "ашап бетерү",
+                    "ашап ташлау"
+                ],
+                "Bashkir": [
+                    "ашап бөтөү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bitirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "silib-süpürmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "paqqos tushirmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сарқып жеу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тамамлау"
+                ]
+            }
+        }
+    ]
+}

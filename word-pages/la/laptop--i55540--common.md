@@ -1,0 +1,186 @@
+# Laptop
+| Field | Detail |
+|---|---|
+| **ID** | i55540 |
+| **English** | laptop |
+| **Type** | noun |
+| **Definition** | a portable computer small enough to use in your lap |
+| **Source** | common |
+| **Ortatil** | ḍizkempyuter |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḍizkempyuter** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ❌ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| نوتەبۇك | notäbuk |
+| **Kazakh** | |
+| тізекомпьютер | tizekompyuter |
+| тізебасар | tizebasar |
+| ықшамкомпьютер | ıqşamkompyuter |
+| **Tatar** | |
+| дизельсанак | dizelsanak |
+
+```json
+{
+    "id": "i55540",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "laptop",
+    "en_definition": "a portable computer small enough to use in your lap",
+    "tr_word": "dizüstü bilgisayar",
+    "tr_definition": "Kucağa sığacak kadar küçük, taşınabilir bilgisayar.",
+    "ru_word": "ноутбук",
+    "ru_definition": "Портативный персональный компьютер, который можно использовать на коленях.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dizüstü bilgisayar",
+                    "taşınabilir bilgisayar"
+                ],
+                "Azerbaijani": [
+                    "dizüstü kompüter",
+                    "daşınan kompüter",
+                    "dizüstü"
+                ],
+                "Turkmen": [
+                    "dyzüstü kompýuter"
+                ],
+                "Uzbek": [
+                    "tizkompyuter"
+                ],
+                "Kazakh": [
+                    "тізекомпьютер"
+                ],
+                "Kyrgyz": [
+                    "тизе компьютер"
+                ],
+                "Karakalpak": [
+                    "tize kompyuter"
+                ],
+                "Tatar": [
+                    "дизельсанак"
+                ],
+                "Bashkir": [
+                    "теҙ компьютер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "koʻchma kompyuter"
+                ],
+                "Karakalpak": [
+                    "kóshpeli kompyuter"
+                ],
+                "Tatar": [
+                    "күчмә санак"
+                ],
+                "Bashkir": [
+                    "күсмә компьютер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "el kompýuteri"
+                ],
+                "Uyghur": [
+                    "ئېلىپ يۈرۈلمە كومپيۇتېر"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نوتەبۇك"
+                ],
+                "Karakalpak": [
+                    "noutbuk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "portatiw kompýuter"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ixcham kompyuter"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قوينى كومپيۇتېرى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тізебасар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ықшамкомпьютер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чөнтөк компьютер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кол компьютер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кесә санак"
+                ]
+            }
+        }
+    ]
+}
+```
+

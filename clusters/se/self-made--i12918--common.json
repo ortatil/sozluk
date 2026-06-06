@@ -1,0 +1,126 @@
+{
+    "id": "i12918",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "self-made",
+    "en_definition": "having achieved success or recognition by your own efforts",
+    "tr_word": "kendi çabasıyla bir yere gelmiş",
+    "tr_definition": "başkalarından yardım almadan, kendi emeği ve çalışmasıyla başarıya ulaşmış olan",
+    "ru_word": "сделавший себя сам",
+    "ru_definition": "добившийся успеха или признания исключительно собственными усилиями",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "özü yetişmiş",
+                    "öz zəhməti ilə ucalan",
+                    "öz gücünə nail olan",
+                    "özü qazanan"
+                ],
+                "Turkmen": [
+                    "öz güýji bilen",
+                    "öz zähmeti bilen",
+                    "özbaşyna"
+                ],
+                "Uzbek": [
+                    "o'zi yetishgan",
+                    "o'z mehnati bilan ko'tarilgan"
+                ],
+                "Uyghur": [
+                    "ئۆز كۈچىگە تايانغان",
+                    "ئۆز تىرىشچانلىقى بىلەن قۇرۇلغان"
+                ],
+                "Kazakh": [
+                    "өз күшімен жеткен",
+                    "өз еңбегімен көтерілген",
+                    "өз бетінше жетілген",
+                    "өздігінен жеткен"
+                ],
+                "Kyrgyz": [
+                    "өз күчү менен жеткен",
+                    "өз мээнети менен жеткен",
+                    "өзү жетишкен"
+                ],
+                "Karakalpak": [
+                    "óz kúshi menen erisken",
+                    "óz miyneti menen kóterilgen"
+                ],
+                "Bashkir": [
+                    "үҙ-үҙен яһаған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "özbaşdak"
+                ],
+                "Kyrgyz": [
+                    "өз алдынча"
+                ],
+                "Karakalpak": [
+                    "óz aldına jetisken"
+                ],
+                "Bashkir": [
+                    "үҙаллы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "o'z kuchi bilan erishgan"
+                ],
+                "Uyghur": [
+                    "ئۆز تىرىشچانلىقى بىلەن مۇۋەپپەقىيەت قازانغان"
+                ],
+                "Tatar": [
+                    "үз тырышлыгы белән ирешкән"
+                ],
+                "Bashkir": [
+                    "үҙ тырышлығы менән күтәрелгән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mustaqil"
+                ],
+                "Tatar": [
+                    "мөстәкыйль"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үз көче белән күтәрелгән",
+                    "үз-үзен ясаган"
+                ],
+                "Bashkir": [
+                    "үҙ көсө менән өлгәшкән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendi tırnaklarıyla kazımış",
+                    "kendi emeğiyle gelmiş",
+                    "kendi kendini yetiştirmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendi çabasıyla yükselmiş"
+                ]
+            }
+        }
+    ]
+}

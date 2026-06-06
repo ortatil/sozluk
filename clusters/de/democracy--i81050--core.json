@@ -1,0 +1,91 @@
+{
+    "id": "i81050",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "democracy",
+    "en_definition": "a political system in which the supreme power lies in a body of citizens who can elect people to represent them",
+    "tr_word": "demokrasi",
+    "tr_definition": "Halkın egemenliğine dayanan, vatandaşların kendilerini temsil edecek kişileri seçebildiği yönetim biçimi.",
+    "ru_word": "демократия",
+    "ru_definition": "Политическая система, при которой верховная власть принадлежит народу, осуществляющему её через своих представителей.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "cumhuriyet"
+                ],
+                "Azerbaijani": [
+                    "cümhuriyyət"
+                ],
+                "Turkmen": [
+                    "jumhuryýet"
+                ],
+                "Uzbek": [
+                    "jumhuriyat"
+                ],
+                "Uyghur": [
+                    "جۇمھۇرىيەت"
+                ],
+                "Kazakh": [
+                    "жұмхұрият"
+                ],
+                "Kyrgyz": [
+                    "жумурият"
+                ],
+                "Karakalpak": [
+                    "júmxuriyat"
+                ],
+                "Tatar": [
+                    "җөмһүрият"
+                ],
+                "Bashkir": [
+                    "жөмһүриәт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "respublika"
+                ],
+                "Turkmen": [
+                    "respublika"
+                ],
+                "Uzbek": [
+                    "respublika"
+                ],
+                "Kazakh": [
+                    "республика"
+                ],
+                "Kyrgyz": [
+                    "республика"
+                ],
+                "Karakalpak": [
+                    "respublika"
+                ],
+                "Tatar": [
+                    "республика"
+                ],
+                "Bashkir": [
+                    "республика"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kamu erki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەلئارا"
+                ]
+            }
+        }
+    ]
+}

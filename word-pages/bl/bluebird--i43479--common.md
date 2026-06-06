@@ -1,0 +1,92 @@
+# Bluebird
+| Field | Detail |
+|---|---|
+| **ID** | i43479 |
+| **English** | bluebird |
+| **Type** | noun |
+| **Definition** | blue North American songbird |
+| **Source** | common |
+| **Ortatil** | kökqäş |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i43479",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "bluebird",
+    "en_definition": "blue North American songbird",
+    "tr_word": "mavi kuş",
+    "tr_definition": "Kuzey Amerika'ya özgü, mavi tüyleriyle bilinen bir ötücü kuş türü.",
+    "ru_word": "сиалия",
+    "ru_definition": "певчая птица семейства дроздовых, обитающая в Северной Америке и имеющая синее оперение.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "göy quş"
+                ],
+                "Turkmen": [
+                    "gök guş"
+                ],
+                "Uzbek": [
+                    "koʻkqosh",
+                    "koʻk qush"
+                ],
+                "Uyghur": [
+                    "كۆك قۇش",
+                    "كۆك رەڭلىك قۇش"
+                ],
+                "Kazakh": [
+                    "көк құс",
+                    "көгілдір құс"
+                ],
+                "Kyrgyz": [
+                    "көк чымчык",
+                    "көк куш"
+                ],
+                "Karakalpak": [
+                    "kók qusı",
+                    "kók sayraqı"
+                ],
+                "Tatar": [
+                    "күк кош"
+                ],
+                "Bashkir": [
+                    "күк ҡош"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mavi kuş",
+                    "mavi ardıç kuşu"
+                ],
+                "Azerbaijani": [
+                    "mavi quş"
+                ],
+                "Turkmen": [
+                    "mawy guş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "зәңгәр кош"
+                ],
+                "Bashkir": [
+                    "зәңгәр ҡош"
+                ]
+            }
+        }
+    ]
+}
+```
+

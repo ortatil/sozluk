@@ -1,0 +1,170 @@
+# Ultimate frisbee
+| Field | Detail |
+|---|---|
+| **ID** | i37903 |
+| **English** | ultimate frisbee |
+| **Type** | noun |
+| **Definition** | a game between two teams whose players try to toss a Frisbee to one another until they cross the opponents goal; possession changes hands when the Frisbee is intercepted or touches the ground or goes out of bounds |
+| **Source** | common |
+| **Ortatil** | frizbi |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **altimat** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ❌ |
+| Turkmen | ❌ |
+| Uzbek | ❌ |
+| Uyghur | ❌ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 0 |
+| *Qarluq Subtotal* | 0 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* |  |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **0.80** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| алтимат | altimat |
+| **Kyrgyz** | |
+| алтимат | altimat |
+| **Tatar** | |
+| алтимат | altimat |
+
+```json
+{
+    "id": "i37903",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ultimate frisbee",
+    "en_definition": "a game between two teams whose players try to toss a Frisbee to one another until they cross the opponents goal; possession changes hands when the Frisbee is intercepted or touches the ground or goes out of bounds",
+    "tr_word": "ultimate frisbee",
+    "tr_definition": "İki takım arasında oynanan, oyuncuların frizbiyi birbirlerine atarak rakip takımın sayı alanına ulaştırmaya çalıştığı, temas içermeyen bir takım oyunu.",
+    "ru_word": "алтимат фрисби",
+    "ru_definition": "Командный неконтактный вид спорта с использованием летающего диска, целью которого является передача диска игроку своей команды, находящемуся в очковой зоне соперника.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "frizbi"
+                ],
+                "Azerbaijani": [
+                    "frizbi oyunu"
+                ],
+                "Turkmen": [
+                    "frizbi oýny"
+                ],
+                "Uzbek": [
+                    "frizbi"
+                ],
+                "Kazakh": [
+                    "фрисби ойыны"
+                ],
+                "Kyrgyz": [
+                    "фрисби оюну"
+                ],
+                "Karakalpak": [
+                    "frisbi oyını"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "uçan daire oyunu"
+                ],
+                "Azerbaijani": [
+                    "uçan boşqab oyunu"
+                ],
+                "Turkmen": [
+                    "uçýan tabak oýny"
+                ],
+                "Uyghur": [
+                    "ئۇچار تەخسە تەنھەرىكىتى",
+                    "ئۇچار تەخسە مۇسابىقىسى"
+                ],
+                "Kyrgyz": [
+                    "учуучу табак оюну"
+                ],
+                "Karakalpak": [
+                    "ushar tárelke oyını"
+                ],
+                "Tatar": [
+                    "очучы тәлинкә уены"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "altimet frizbi"
+                ],
+                "Uyghur": [
+                    "ئولتىمېت فرىزبى"
+                ],
+                "Kazakh": [
+                    "алтимат"
+                ],
+                "Kyrgyz": [
+                    "алтимат"
+                ],
+                "Karakalpak": [
+                    "altimat"
+                ],
+                "Tatar": [
+                    "алтимат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ұшатын табақша ойыны"
+                ],
+                "Bashkir": [
+                    "осоусы диск уйыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uchuvchi likopcha o'yini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "likopcha o'yini"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "диск уены"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "тәрилкә уйыны"
+                ]
+            }
+        }
+    ]
+}
+```
+

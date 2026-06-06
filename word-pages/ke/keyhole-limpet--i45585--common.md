@@ -1,0 +1,116 @@
+# Keyhole limpet
+| Field | Detail |
+|---|---|
+| **ID** | i45585 |
+| **English** | keyhole limpet |
+| **Type** | noun |
+| **Definition** | marine limpet having a conical shell with an opening at the apex |
+| **Source** | common |
+| **Ortatil** | qabırsaq |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| ҡабырсаҡ | qabırsaq |
+
+```json
+{
+    "id": "i45585",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "keyhole limpet",
+    "en_definition": "marine limpet having a conical shell with an opening at the apex",
+    "tr_word": "anahtar deliği deniz minaresi",
+    "tr_definition": "tepesinde bir açıklık bulunan konik kabuklu bir deniz yumuşakçası",
+    "ru_word": "морское блюдечко-фиссурелла",
+    "ru_definition": "морской моллюск с конической раковиной, имеющей отверстие на вершине",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "delikli deniz minaresi",
+                    "delikli deniz salyangozu",
+                    "delikli limpet"
+                ],
+                "Azerbaijani": [
+                    "dəlikli dəniz ilbizi",
+                    "dəlikli qapaqlı ilbiz"
+                ],
+                "Turkmen": [
+                    "deşikli balykgulak",
+                    "deşikli mollýusk"
+                ],
+                "Uzbek": [
+                    "teshikli chig'anoq",
+                    "teshikli mollyuska"
+                ],
+                "Uyghur": [
+                    "تۆشۈكلۈك قۇلۇلە",
+                    "تۆشۈكلۈك دېڭىز قۇلۇلىسى"
+                ],
+                "Kazakh": [
+                    "тесікті бақалшақ",
+                    "тесікті ұлу"
+                ],
+                "Kyrgyz": [
+                    "тешиктүү үлүл"
+                ],
+                "Karakalpak": [
+                    "tesіktі baqalshaq",
+                    "tesіkshelі ұlu"
+                ],
+                "Tatar": [
+                    "тишекле диңгез кабырчыгы",
+                    "тишекле кабырчык",
+                    "тишекле моллюск"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "konus şekilli balykgulak"
+                ],
+                "Kyrgyz": [
+                    "конус сымал үлүл"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "uchli chig'anoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "саңылаулы бақалшақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "диңгеҙ ҡусҡары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡабырсаҡ"
+                ]
+            }
+        }
+    ]
+}
+```
+

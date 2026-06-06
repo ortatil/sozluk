@@ -1,0 +1,88 @@
+{
+    "id": "i64221",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "freedom from self-incrimination",
+    "en_definition": "the civil right (guaranteed by the Fifth Amendment to the United States Constitution) to refuse to answer questions or otherwise give testimony against yourself",
+    "tr_word": "kendi aleyhine tanıklık etmeme hakkı",
+    "tr_definition": "bir kişinin kendisini suçlu duruma düşürecek soruları yanıtlamayı veya aleyhine ifade vermeyi reddetme hakkı",
+    "ru_word": "право не свидетельствовать против себя",
+    "ru_definition": "гражданское право отказываться отвечать на вопросы или давать показания, которые могут изобличить самого свидетеля в совершении преступления",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "öz əleyhinə ifadə verməmək hüququ",
+                    "özünə qarşı şahidlik etməmək hüququ"
+                ],
+                "Turkmen": [
+                    "özüňe garşy şaýatlyk etmekden ýüz öwürmek hukugy",
+                    "özüňe garşy görkezme bermezlik hukugy",
+                    "özüňe garşy şaýatlyk etmezlik"
+                ],
+                "Uzbek": [
+                    "oʻziga qarshi koʻrsatma bermaslik huquqi",
+                    "oʻzini ayblamaslik huquqi"
+                ],
+                "Uyghur": [
+                    "ئۆزىگە قارشى گۇۋاھلىق بەرمەسلىك ھوقۇقى",
+                    "ئۆزىنى ئەيىبلىمەسلىك ھوقۇقى"
+                ],
+                "Kazakh": [
+                    "өзіне қарсы куәлік бермеу құқығы",
+                    "өзіне қарсы айғақ бермеу еркіндігі",
+                    "өзін-өзі айыптамау құқығы"
+                ],
+                "Kyrgyz": [
+                    "өзүнө каршы көрсөтмө бербөө укугу",
+                    "өзүнө каршы күбөлүк бербөө",
+                    "өзүн айыптоодон баш тартуу укугу"
+                ],
+                "Karakalpak": [
+                    "ózine qarsı kórsetpe beriuden bas tartıu huqıqı",
+                    "ózine qarsı gúwolıq bermeu huqıqı",
+                    "ózin ayıplamau erkinligi"
+                ],
+                "Tatar": [
+                    "үзеңә каршы шаһитлык бирмәү хокукы",
+                    "үзеңә каршы күрсәтмә бирмәү",
+                    "үзеңне гаепләүдән баш тарту хокукы"
+                ],
+                "Bashkir": [
+                    "үҙеңә ҡаршы шаһитлыҡ биреүҙән баш тартыу хоҡуғы",
+                    "үҙ-үҙеңә ҡаршы күрһәтмә бирмәү хоҡуғы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "sükut hüququ"
+                ],
+                "Uzbek": [
+                    "sukut saqlash huquqi"
+                ],
+                "Uyghur": [
+                    "سۈكۈت قىلىش ھوقۇقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kendi aleyhine tanıklık etmeme hakkı",
+                    "kendini suçlamama hakkı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "susma hakkı"
+                ]
+            }
+        }
+    ]
+}

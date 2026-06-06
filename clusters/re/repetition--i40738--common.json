@@ -1,0 +1,98 @@
+{
+    "id": "i40738",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "repetition",
+    "en_definition": "the act of doing or performing again",
+    "tr_word": "tekrar",
+    "tr_definition": "Bir şeyi yeniden yapma veya gerçekleştirme eylemi",
+    "ru_word": "повторение",
+    "ru_definition": "Акт повторного совершения или выполнения чего-либо",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tekrar",
+                    "tekrarlama",
+                    "tekerrür"
+                ],
+                "Azerbaijani": [
+                    "təkrar",
+                    "təkrarlama"
+                ],
+                "Turkmen": [
+                    "tekrar"
+                ],
+                "Uzbek": [
+                    "takror",
+                    "takrorlash"
+                ],
+                "Uyghur": [
+                    "تەكرار",
+                    "تەكرارلاش"
+                ],
+                "Kazakh": [
+                    "тәкрар"
+                ],
+                "Karakalpak": [
+                    "tákirarlau",
+                    "tákirar"
+                ],
+                "Tatar": [
+                    "тәкрарлау",
+                    "тәкрар"
+                ],
+                "Bashkir": [
+                    "тәҡрарлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtalama",
+                    "gaýtalanma"
+                ],
+                "Uzbek": [
+                    "qaytarish",
+                    "qayta"
+                ],
+                "Uyghur": [
+                    "قايتىلاش"
+                ],
+                "Kazakh": [
+                    "қайталау",
+                    "қайталану"
+                ],
+                "Kyrgyz": [
+                    "кайталоо",
+                    "кайталоочулук",
+                    "кайралоо"
+                ],
+                "Karakalpak": [
+                    "qaytalau"
+                ],
+                "Tatar": [
+                    "кабатлау"
+                ],
+                "Bashkir": [
+                    "ҡабатлау",
+                    "ҡабатланыш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yineleme"
+                ],
+                "Azerbaijani": [
+                    "yenidən",
+                    "yeni"
+                ]
+            }
+        }
+    ]
+}

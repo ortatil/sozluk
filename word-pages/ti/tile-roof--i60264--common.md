@@ -1,0 +1,131 @@
+# Tile roof
+| Field | Detail |
+|---|---|
+| **ID** | i60264 |
+| **English** | tile roof |
+| **Type** | noun |
+| **Definition** | a roof made of fired clay tiles |
+| **Source** | common |
+| **Ortatil** | çerepisä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i60264",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tile roof",
+    "en_definition": "a roof made of fired clay tiles",
+    "tr_word": "kiremit çatı",
+    "tr_definition": "pişmiş kilden yapılmış kiremitlerle kaplanmış çatı türü",
+    "ru_word": "черепичная крыша",
+    "ru_definition": "крыша, покрытая обожженной глиняной черепицей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çerepisa"
+                ],
+                "Uzbek": [
+                    "cherepitsa tom"
+                ],
+                "Kyrgyz": [
+                    "черепицалуу чатыр"
+                ],
+                "Tatar": [
+                    "черепицалы түбә"
+                ],
+                "Bashkir": [
+                    "черепицалы ҡыйыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қыш шатыр",
+                    "қыш жабын"
+                ],
+                "Kyrgyz": [
+                    "кыш чатыр"
+                ],
+                "Karakalpak": [
+                    "qısh shatır",
+                    "qısh tam"
+                ],
+                "Tatar": [
+                    "кызыл балчык түбә"
+                ],
+                "Bashkir": [
+                    "кисеп ябылған ҡыйыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kiremit çatı",
+                    "kiremitli çatı"
+                ],
+                "Azerbaijani": [
+                    "kirəmit dam",
+                    "kirəmit örtük"
+                ],
+                "Turkmen": [
+                    "kerpiçli üçek",
+                    "kerpiçli tam"
+                ],
+                "Tatar": [
+                    "кирпеч түбә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koshinli tom"
+                ],
+                "Uyghur": [
+                    "كاھىشلىق ئۆگزە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pishgan g'ishtli tom"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ساپال ئۆگزە",
+                    "ساپاللىق ئۆگزە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қыш төбе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чопо чатыр"
+                ]
+            }
+        }
+    ]
+}
+```
+

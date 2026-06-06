@@ -1,0 +1,207 @@
+# Spokeswoman
+| Field | Detail |
+|---|---|
+| **ID** | i93219 |
+| **English** | spokeswoman |
+| **Type** | noun |
+| **Definition** | a female spokesperson |
+| **Source** | common |
+| **Ortatil** | sözçü |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sözçü** | **wäkilägä** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ❌ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ❌ | ❌ |
+| Kazakh | ❌ | ❌ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ❌ | ❌ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ❌ | ✅ |
+| *Oghuz Subtotal* | 0.67 | 0.33 |
+| *Qarluq Subtotal* | 0.50 | 0.50 |
+| *Qipchaq Subtotal* | 0.20 | 0.40 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **2.37** | **2.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Tatar** | |
+| вәкилә | väkilä |
+| сөйләүче | söyläüçe |
+| хәбәрче | xäbärçe |
+| **Bashkir** | |
+| вәкилә | väkilä |
+| һөйләүсе | höyläüse |
+| телмән | telmän |
+
+```json
+{
+    "id": "i93219",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spokeswoman",
+    "en_definition": "a female spokesperson",
+    "tr_word": "sözcü",
+    "tr_definition": "Bir kuruluş veya topluluk adına açıklama yapmakla görevli kadın temsilci.",
+    "ru_word": "представительница",
+    "ru_definition": "Женщина, уполномоченная выступать от имени организации или группы лиц.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "wekile"
+                ],
+                "Uzbek": [
+                    "vakila"
+                ],
+                "Uyghur": [
+                    "ۋەكىل ئايال"
+                ],
+                "Karakalpak": [
+                    "oákil áyel"
+                ],
+                "Tatar": [
+                    "вәкилә"
+                ],
+                "Bashkir": [
+                    "вәкилә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sözcü"
+                ],
+                "Azerbaijani": [
+                    "sözçü"
+                ],
+                "Uzbek": [
+                    "soʻzlovchi"
+                ],
+                "Uyghur": [
+                    "سۆزلىگۈچى ئايال"
+                ],
+                "Tatar": [
+                    "сөйләүче"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "beyanatçı"
+                ],
+                "Uzbek": [
+                    "bayonotchi"
+                ],
+                "Uyghur": [
+                    "باياناتچى ئايال"
+                ],
+                "Kyrgyz": [
+                    "баяндамачы айым"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сөйлеуші әйел"
+                ],
+                "Kyrgyz": [
+                    "сүйлөөчү айым"
+                ],
+                "Karakalpak": [
+                    "sóyleushі áyel"
+                ],
+                "Bashkir": [
+                    "һөйләүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mətbuat katibi"
+                ],
+                "Turkmen": [
+                    "metbugat wekili"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өкіл әйел"
+                ],
+                "Kyrgyz": [
+                    "өкүл айым"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мәлімдемеші әйел"
+                ],
+                "Karakalpak": [
+                    "málimlemeshi áyel"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kadın sözcü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nümayəndə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gepleýji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "notiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хәбәрче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "телмән"
+                ]
+            }
+        }
+    ]
+}
+```
+

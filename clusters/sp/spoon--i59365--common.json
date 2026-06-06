@@ -1,0 +1,75 @@
+{
+    "id": "i59365",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "spoon",
+    "en_definition": "a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food",
+    "tr_word": "kaşık",
+    "tr_definition": "Yemek yemek, karıştırmak veya servis yapmak için kullanılan, saplı ve çukur uçlu mutfak gereci.",
+    "ru_word": "ложка",
+    "ru_definition": "Предмет столового прибора, состоящий из небольшого мелкого сосуда и длинной ручки, используемый для еды или перемешивания.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaşık"
+                ],
+                "Azerbaijani": [
+                    "qaşıq"
+                ],
+                "Turkmen": [
+                    "kaşyk"
+                ],
+                "Uzbek": [
+                    "qoshiq"
+                ],
+                "Uyghur": [
+                    "قوشۇق"
+                ],
+                "Kazakh": [
+                    "қасық"
+                ],
+                "Kyrgyz": [
+                    "кашык"
+                ],
+                "Karakalpak": [
+                    "qasıq"
+                ],
+                "Tatar": [
+                    "кашык"
+                ],
+                "Bashkir": [
+                    "ҡалаҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "çömçə"
+                ],
+                "Uzbek": [
+                    "cho'mich"
+                ],
+                "Kazakh": [
+                    "шөміш"
+                ],
+                "Bashkir": [
+                    "сүмес"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kepçe"
+                ],
+                "Turkmen": [
+                    "çemçe"
+                ]
+            }
+        }
+    ]
+}

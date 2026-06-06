@@ -1,0 +1,89 @@
+{
+    "id": "i13472",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "footsore",
+    "en_definition": "having sore or tired feet",
+    "tr_word": "ayakları şişmiş",
+    "tr_definition": "çok yürümekten ayakları ağrımış veya yorulmuş olan",
+    "ru_word": "сбивший ноги",
+    "ru_definition": "испытывающий боль или усталость в ногах от долгой ходьбы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayağı yorgun",
+                    "ayağı şişmiş",
+                    "ayağı vurmuş"
+                ],
+                "Azerbaijani": [
+                    "ayağıyorğun",
+                    "ayağıincimiş",
+                    "ayağıağrıyan"
+                ],
+                "Turkmen": [
+                    "ayagy ýadan",
+                    "ayagy agyran",
+                    "ayagy gabaran",
+                    "ayagy çişen"
+                ],
+                "Uzbek": [
+                    "oyog'i tolgan",
+                    "oyog'i charchagan",
+                    "oyog'i og'rigan"
+                ],
+                "Kazakh": [
+                    "аяғы талған",
+                    "аяғы шаршаған",
+                    "аяғы қажалған",
+                    "аяғы іскен"
+                ],
+                "Karakalpak": [
+                    "ayaǵı talǵan",
+                    "ayaǵı sharshaǵan",
+                    "ayaǵı joldan qalǵan"
+                ],
+                "Tatar": [
+                    "аяк талган",
+                    "аяк арыган",
+                    "аяк сызлаган"
+                ],
+                "Bashkir": [
+                    "аяғы талған",
+                    "аяғы арыған",
+                    "аяғы һыҙлаған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇتى تالغان",
+                    "پۇتى چارچىغان",
+                    "پۇتى ئاغرىغان"
+                ],
+                "Kyrgyz": [
+                    "буту талыган",
+                    "буту чарчаган",
+                    "буту жооруган",
+                    "буту талып калган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yorgun ayaklı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yolyorğunu"
+                ]
+            }
+        }
+    ]
+}

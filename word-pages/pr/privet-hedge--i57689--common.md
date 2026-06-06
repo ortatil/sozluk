@@ -1,0 +1,183 @@
+# Privet hedge
+| Field | Detail |
+|---|---|
+| **ID** | i57689 |
+| **English** | privet hedge |
+| **Type** | noun |
+| **Definition** | hedge of privet plants |
+| **Source** | common |
+| **Ortatil** | qurtbağrı |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i57689",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "privet hedge",
+    "en_definition": "hedge of privet plants",
+    "tr_word": "kurtbağrı çiti",
+    "tr_definition": "Kurtbağrı bitkilerinden oluşan canlı çit.",
+    "ru_word": "живая изгородь из бирючины",
+    "ru_definition": "Живая изгородь, состоящая из кустов бирючины.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "canlı çit"
+                ],
+                "Azerbaijani": [
+                    "canlı çəpər"
+                ],
+                "Turkmen": [
+                    "janly haýat"
+                ],
+                "Uzbek": [
+                    "jonli devor"
+                ],
+                "Uyghur": [
+                    "جانلىق توسۇق"
+                ],
+                "Karakalpak": [
+                    "janlı diyoal"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yaşıl hasar"
+                ],
+                "Turkmen": [
+                    "ýaşyl haýat"
+                ],
+                "Kazakh": [
+                    "жасыл қоршау"
+                ],
+                "Kyrgyz": [
+                    "жашыл тосмо",
+                    "бадал тосмо"
+                ],
+                "Bashkir": [
+                    "йәшел кәртә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тірі қоршау"
+                ],
+                "Kyrgyz": [
+                    "тирүү тосмо"
+                ],
+                "Tatar": [
+                    "тере киртә",
+                    "тере койма"
+                ],
+                "Bashkir": [
+                    "тере ҡойма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kurtbağrı çiti",
+                    "kurtbağrı"
+                ],
+                "Karakalpak": [
+                    "qorshao"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "hasar"
+                ],
+                "Turkmen": [
+                    "haýat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "devor"
+                ],
+                "Karakalpak": [
+                    "tikenek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toʻsiq"
+                ],
+                "Uyghur": [
+                    "توسۇق دەرەخ",
+                    "توسۇق چاتقال"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "çəpər"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "koʻkalamzor toʻsiq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұталы қоршау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "bógeo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бирючина киртәсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡыуаҡ кәртә"
+                ]
+            }
+        }
+    ]
+}
+```
+

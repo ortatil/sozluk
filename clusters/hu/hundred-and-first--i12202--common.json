@@ -1,0 +1,59 @@
+{
+    "id": "i12202",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "hundred-and-first",
+    "en_definition": "the ordinal number of one hundred one in counting order",
+    "tr_word": "yüz birinci",
+    "tr_definition": "sayma düzeninde yüz birden sonra gelen sıra sayısı",
+    "ru_word": "сто первый",
+    "ru_definition": "порядковое числительное, соответствующее числу сто один",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz birinci",
+                    "yüz birincisi"
+                ],
+                "Azerbaijani": [
+                    "yüz birinci"
+                ],
+                "Turkmen": [
+                    "ýüz birinji"
+                ],
+                "Uzbek": [
+                    "yuz birinchi",
+                    "yuz birinchi navbatdagi"
+                ],
+                "Uyghur": [
+                    "يۈز بىرىنچى"
+                ],
+                "Kazakh": [
+                    "жүз бірінші"
+                ],
+                "Kyrgyz": [
+                    "жүз биринчи"
+                ],
+                "Karakalpak": [
+                    "júz birinshi"
+                ],
+                "Tatar": [
+                    "йөз беренче",
+                    "йөз дә беренче"
+                ],
+                "Bashkir": [
+                    "йөҙ беренсе",
+                    "йөҙ ҙә беренсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىر يۈز بىرىنچى"
+                ]
+            }
+        }
+    ]
+}

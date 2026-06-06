@@ -1,0 +1,113 @@
+{
+    "id": "i7231",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "co-ed",
+    "en_definition": "attended by members of both sexes",
+    "tr_word": "karma",
+    "tr_definition": "her iki cinsiyetten üyelerin bir arada bulunduğu (eğitim sistemi veya kurum)",
+    "ru_word": "совместный",
+    "ru_definition": "предназначенный для совместного обучения лиц обоего пола",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "aralash"
+                ],
+                "Uyghur": [
+                    "ئارىلاش"
+                ],
+                "Kazakh": [
+                    "аралас"
+                ],
+                "Kyrgyz": [
+                    "аралаш"
+                ],
+                "Karakalpak": [
+                    "aralas"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karma",
+                    "karışık"
+                ],
+                "Azerbaijani": [
+                    "qarışıq"
+                ],
+                "Turkmen": [
+                    "garyşyk"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ортақ"
+                ],
+                "Tatar": [
+                    "уртак"
+                ],
+                "Bashkir": [
+                    "уртаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müştərək"
+                ],
+                "Uzbek": [
+                    "mushtarak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "биргелешкен"
+                ],
+                "Karakalpak": [
+                    "birgelesken"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "катнаш"
+                ],
+                "Bashkir": [
+                    "ҡатнаш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "bilelikdäki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەر-ئايال ئارىلاش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوغۇل-قىز ئارىلاش"
+                ]
+            }
+        }
+    ]
+}

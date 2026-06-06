@@ -1,0 +1,82 @@
+{
+    "id": "i19358",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "month by month",
+    "en_definition": "for an indefinite number of months",
+    "tr_word": "aydan aya",
+    "tr_definition": "belirsiz sayıda ay boyunca, her ay düzenli olarak",
+    "ru_word": "месяц за месяцем",
+    "ru_definition": "в течение неопределенного количества месяцев, каждый месяц",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aydan aya",
+                    "ay be ay",
+                    "aylık olarak"
+                ],
+                "Azerbaijani": [
+                    "aybaay",
+                    "aylarla"
+                ],
+                "Turkmen": [
+                    "aýba-aý",
+                    "aýma-aý"
+                ],
+                "Uzbek": [
+                    "oyma-oy",
+                    "oyma-oyiga"
+                ],
+                "Uyghur": [
+                    "ئايمۇئاي",
+                    "ئايلاپ"
+                ],
+                "Kazakh": [
+                    "ай сайын",
+                    "айдан айға",
+                    "айма-ай"
+                ],
+                "Kyrgyz": [
+                    "ай сайын",
+                    "айма-ай"
+                ],
+                "Karakalpak": [
+                    "ay sayın",
+                    "ayma-ay"
+                ],
+                "Tatar": [
+                    "ай саен",
+                    "айдан-айга",
+                    "ай саен саен"
+                ],
+                "Bashkir": [
+                    "ай һайын",
+                    "айлап",
+                    "айҙан-айға"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "her ay"
+                ],
+                "Azerbaijani": [
+                    "hər ay"
+                ],
+                "Turkmen": [
+                    "her aý"
+                ],
+                "Uzbek": [
+                    "har oy"
+                ],
+                "Uyghur": [
+                    "ھەر ئاي"
+                ]
+            }
+        }
+    ]
+}

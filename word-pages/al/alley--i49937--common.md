@@ -1,0 +1,207 @@
+# Alley
+| Field | Detail |
+|---|---|
+| **ID** | i49937 |
+| **English** | alley |
+| **Type** | noun |
+| **Definition** | a narrow street with walls on both sides |
+| **Source** | common |
+| **Ortatil** | ḳöçä |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ḳöçä** | **dalan** |
+|---|---|---|
+| Turkish | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ✅ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ❌ | ❌ |
+| Kyrgyz | ❌ | ❌ |
+| Karakalpak | ❌ | ❌ |
+| Tatar | ❌ | ❌ |
+| Bashkir | ❌ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.67 |
+| *Qarluq Subtotal* | 1 | 1 |
+| *Qipchaq Subtotal* | 0 | 0 |
+| *In All* |  |  |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **1.67** | **1.67** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كوچا | koça |
+| دالان | dalan |
+| **Kazakh** | |
+| бұрылыс | burılıs |
+| **Kyrgyz** | |
+| кысак | kısak |
+| **Tatar** | |
+| тыкрык | tıkrık |
+| **Bashkir** | |
+| тыҡрыҡ | tıqrıq |
+| аралыҡ | aralıq |
+
+```json
+{
+    "id": "i49937",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "alley",
+    "en_definition": "a narrow street with walls on both sides",
+    "tr_word": "dar sokak",
+    "tr_definition": "iki yanında duvarlar bulunan dar yol veya geçit",
+    "ru_word": "переулок",
+    "ru_definition": "узкая улица, обычно проходящая между зданиями или стенами",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dar sokak",
+                    "ara sokak"
+                ],
+                "Uyghur": [
+                    "تار كوچا",
+                    "تار يول"
+                ],
+                "Kazakh": [
+                    "тар көше",
+                    "тар жол"
+                ],
+                "Kyrgyz": [
+                    "тар көчө"
+                ],
+                "Karakalpak": [
+                    "tar kóshe",
+                    "tarmaq"
+                ],
+                "Tatar": [
+                    "тар тыкрык",
+                    "тар юл"
+                ],
+                "Bashkir": [
+                    "тар урам"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "küçə",
+                    "keçid"
+                ],
+                "Turkmen": [
+                    "geçelge"
+                ],
+                "Uzbek": [
+                    "ko'cha"
+                ],
+                "Uyghur": [
+                    "كوچا"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dalan"
+                ],
+                "Turkmen": [
+                    "dalbar"
+                ],
+                "Uzbek": [
+                    "dalon"
+                ],
+                "Uyghur": [
+                    "دالان"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "тұйық көше"
+                ],
+                "Kyrgyz": [
+                    "туюк көчө"
+                ],
+                "Karakalpak": [
+                    "tuyıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dar geçit"
+                ],
+                "Uzbek": [
+                    "tor ko'cha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dar küçə"
+                ],
+                "Turkmen": [
+                    "dar köçe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тыкрык"
+                ],
+                "Bashkir": [
+                    "тыҡрыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çıkmaz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yo'lak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бұрылыс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кысак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "аралыҡ"
+                ]
+            }
+        }
+    ]
+}
+```
+

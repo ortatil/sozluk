@@ -1,0 +1,98 @@
+{
+    "id": "i21984",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "pedicure",
+    "en_definition": "care for one's feet by cutting and shaping the nails, etc.",
+    "tr_word": "pedikür yapmak",
+    "tr_definition": "ayak tırnaklarını keserek ve şekillendirerek ayak bakımı yapmak.",
+    "ru_word": "делать педикюр",
+    "ru_definition": "ухаживать за ногами, подстригая и придавая форму ногтям и т. д.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayak bakımı yapmak",
+                    "ayak tırnağı kesmek",
+                    "ayak tırnağı düzeltmek"
+                ],
+                "Azerbaijani": [
+                    "ayağa qulluq etmək",
+                    "ayaq dırnaqlarını tutmaq",
+                    "ayaq dırnaqlarını təmizləmək"
+                ],
+                "Turkmen": [
+                    "aýak bejermek",
+                    "aýak idegini etmek"
+                ],
+                "Uzbek": [
+                    "oyoq tirnoqlarini olmoq",
+                    "oyoq parvarish qilmoq",
+                    "oyoq tirnoqlarini tozalamoq"
+                ],
+                "Kazakh": [
+                    "аяқ күту"
+                ],
+                "Karakalpak": [
+                    "ayaq kútimi"
+                ],
+                "Tatar": [
+                    "аяк карау",
+                    "аяк тырнакларын кисү"
+                ],
+                "Bashkir": [
+                    "аяҡ ҡарау",
+                    "аяҡ тырнаҡтарын тәрбиәләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dyrnak bejermek"
+                ],
+                "Kazakh": [
+                    "тырнақ алу",
+                    "тырнақ күту"
+                ],
+                "Kyrgyz": [
+                    "тырмак алуу"
+                ],
+                "Karakalpak": [
+                    "tırnaq alıu",
+                    "tırnaq tazalao"
+                ],
+                "Tatar": [
+                    "тырнакларны карау"
+                ],
+                "Bashkir": [
+                    "тырнаҡ ҡарау",
+                    "тырнаҡ киҫеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت پەرۋىش قىلماق"
+                ],
+                "Kyrgyz": [
+                    "бут күтүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پۇت تىرنىقىنى ئالماق",
+                    "پۇت تىرنىقىنى تۈزەتمەك"
+                ],
+                "Kyrgyz": [
+                    "бут тазалоо"
+                ]
+            }
+        }
+    ]
+}

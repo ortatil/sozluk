@@ -1,0 +1,132 @@
+# Waiting list
+| Field | Detail |
+|---|---|
+| **ID** | i70603 |
+| **English** | waiting list |
+| **Type** | noun |
+| **Definition** | a roster of those waiting to obtain something |
+| **Source** | common |
+| **Ortatil** | näwbätnämä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i70603",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "waiting list",
+    "en_definition": "a roster of those waiting to obtain something",
+    "tr_word": "bekleme listesi",
+    "tr_definition": "bir şeyi elde etmek veya bir yere girmek için bekleyenlerin isimlerinin bulunduğu liste",
+    "ru_word": "список ожидания",
+    "ru_definition": "перечень лиц, ожидающих получения чего-либо или возможности воспользоваться услугой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "kutish roʻyxati"
+                ],
+                "Uyghur": [
+                    "كۈتۈش تىزىملىكى",
+                    "كۈتۈش تىزىمى"
+                ],
+                "Kazakh": [
+                    "күту тізімі"
+                ],
+                "Kyrgyz": [
+                    "күтүү тизмеси"
+                ],
+                "Karakalpak": [
+                    "kútio dizimi"
+                ],
+                "Tatar": [
+                    "көтү исемлеге"
+                ],
+                "Bashkir": [
+                    "көтөү исемлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "növbə siyahısı"
+                ],
+                "Uzbek": [
+                    "navbat roʻyxati",
+                    "navbatnoma"
+                ],
+                "Uyghur": [
+                    "نۆۋەت تىزىملىكى"
+                ],
+                "Karakalpak": [
+                    "nóbet dizimi"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sıra listesi"
+                ],
+                "Tatar": [
+                    "чират исемлеге"
+                ],
+                "Bashkir": [
+                    "сират исемлеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yedek listesi"
+                ],
+                "Kazakh": [
+                    "кезек тізімі"
+                ],
+                "Kyrgyz": [
+                    "кезек тизмеси"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bekleme listesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "gözləmə siyahısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nobat sanawy",
+                    "nobat hatary"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "garaşylýanlaryň sanawy"
+                ]
+            }
+        }
+    ]
+}
+```
+

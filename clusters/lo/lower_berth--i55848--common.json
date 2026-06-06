@@ -1,0 +1,90 @@
+{
+    "id": "i55848",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "lower berth",
+    "en_definition": "the lower of two berths",
+    "tr_word": "alt yatak",
+    "tr_definition": "İki ranzadan altta olanı",
+    "ru_word": "нижняя полка",
+    "ru_definition": "нижнее спальное место в вагоне или каюте",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەنكى كارىۋات",
+                    "تۆۋەنكى ئورۇن"
+                ],
+                "Kazakh": [
+                    "төменгі орын",
+                    "төменгі жай"
+                ],
+                "Kyrgyz": [
+                    "төмөнкү орун",
+                    "төмөнкү жай"
+                ],
+                "Karakalpak": [
+                    "tómengi jay",
+                    "tómengi orın"
+                ],
+                "Tatar": [
+                    "түбәнге урын",
+                    "түбәнге сәке"
+                ],
+                "Bashkir": [
+                    "түбәнге урын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "aşağı yer"
+                ],
+                "Turkmen": [
+                    "aşaky orun",
+                    "aşaky ýer"
+                ],
+                "Kyrgyz": [
+                    "астыңкы орун"
+                ],
+                "Tatar": [
+                    "аскы урын"
+                ],
+                "Bashkir": [
+                    "аҫҡы урын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alt yatak",
+                    "alt ranza",
+                    "alt kuşet"
+                ],
+                "Azerbaijani": [
+                    "alt yer",
+                    "alt yataq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pastki joy",
+                    "pastki oʻrin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاستىنقى كارىۋات"
+                ]
+            }
+        }
+    ]
+}

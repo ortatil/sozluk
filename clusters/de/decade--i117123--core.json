@@ -1,0 +1,96 @@
+{
+    "id": "i117123",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "decade",
+    "en_definition": "a period of 10 years",
+    "tr_word": "on yıl",
+    "tr_definition": "on yıllık bir zaman dilimi",
+    "ru_word": "десятилетие",
+    "ru_definition": "период времени продолжительностью в десять лет",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "on yıllık dönem"
+                ],
+                "Azerbaijani": [
+                    "onillik"
+                ],
+                "Turkmen": [
+                    "onýyllyk"
+                ],
+                "Uzbek": [
+                    "oʻn yillik"
+                ],
+                "Uyghur": [
+                    "ئون يىللىق"
+                ],
+                "Kazakh": [
+                    "онжылдық"
+                ],
+                "Kyrgyz": [
+                    "он жылдык"
+                ],
+                "Karakalpak": [
+                    "onjıllıq"
+                ],
+                "Tatar": [
+                    "ун еллык",
+                    "унъеллык"
+                ],
+                "Bashkir": [
+                    "ун йыллыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "on yıl"
+                ],
+                "Azerbaijani": [
+                    "onil"
+                ],
+                "Uyghur": [
+                    "ئون يىل"
+                ],
+                "Kyrgyz": [
+                    "он жыл"
+                ],
+                "Karakalpak": [
+                    "on jıl"
+                ],
+                "Tatar": [
+                    "ун ел"
+                ],
+                "Bashkir": [
+                    "ун йыл"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "onluk"
+                ],
+                "Turkmen": [
+                    "onluk"
+                ],
+                "Kazakh": [
+                    "ондық"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "daha"
+                ]
+            }
+        }
+    ]
+}

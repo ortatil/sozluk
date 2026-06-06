@@ -1,0 +1,105 @@
+{
+    "id": "i75625",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "rockslide",
+    "en_definition": "a landslide of rocks",
+    "tr_word": "kaya düşmesi",
+    "tr_definition": "kayaların bir yamaçtan aşağıya doğru hızla kayması veya düşmesi",
+    "ru_word": "камнепад",
+    "ru_definition": "обвал или осыпание горных пород со склонов гор",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "taş düşmesi"
+                ],
+                "Azerbaijani": [
+                    "daş uçqunu"
+                ],
+                "Turkmen": [
+                    "daş süýşmesi",
+                    "daş gaçmasy"
+                ],
+                "Uzbek": [
+                    "tosh koʻchkisi",
+                    "tosh surilishi",
+                    "toshqin"
+                ],
+                "Uyghur": [
+                    "تاش چۈشۈش",
+                    "تاش كۆچۈش",
+                    "تاش سۈرۈلۈش"
+                ],
+                "Kazakh": [
+                    "тасқын",
+                    "тас құлау",
+                    "тас көшкіні"
+                ],
+                "Kyrgyz": [
+                    "таш кулоо",
+                    "таш көчкү",
+                    "таш кулашы"
+                ],
+                "Karakalpak": [
+                    "tas kóshkіnі",
+                    "tas qұlau"
+                ],
+                "Tatar": [
+                    "таш ишелү",
+                    "таш ишелеше",
+                    "таш төшү"
+                ],
+                "Bashkir": [
+                    "таш ишелеүе",
+                    "таш ҡолауы",
+                    "таш шыуыуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaya düşmesi",
+                    "kaya heyelanı"
+                ],
+                "Azerbaijani": [
+                    "qaya uçqunu"
+                ],
+                "Turkmen": [
+                    "gaýa süýşmesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "taş yuvarlanması"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uçqun"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үйінді"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "kóshkіn"
+                ]
+            }
+        }
+    ]
+}

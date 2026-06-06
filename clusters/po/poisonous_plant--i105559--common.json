@@ -1,0 +1,84 @@
+{
+    "id": "i105559",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "poisonous plant",
+    "en_definition": "a plant that when touched or ingested in sufficient quantity can be harmful or fatal to an organism",
+    "tr_word": "zehirli bitki",
+    "tr_definition": "dokunulduğunda veya yeterli miktarda yendiğinde bir organizma için zararlı veya ölümcül olabilen bitki",
+    "ru_word": "ядовитое растение",
+    "ru_definition": "растение, которое при контакте или употреблении в пищу в достаточном количестве может быть вредным или смертельным для организма",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zehirli bitki"
+                ],
+                "Azerbaijani": [
+                    "zəhərli bitki"
+                ],
+                "Turkmen": [
+                    "zäherli ösümlik"
+                ],
+                "Uzbek": [
+                    "zaharli o'simlik",
+                    "zaharli giyoh"
+                ],
+                "Uyghur": [
+                    "زەھەرلىك ئۆسۈملۈك"
+                ],
+                "Karakalpak": [
+                    "záhárli ósimlik"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ağılı ot"
+                ],
+                "Azerbaijani": [
+                    "ağılı ot"
+                ],
+                "Turkmen": [
+                    "agu ösümlik"
+                ],
+                "Uyghur": [
+                    "ئاغۇلىق ئۆسۈملۈك"
+                ],
+                "Tatar": [
+                    "агулы үсемлек",
+                    "агулы үлән"
+                ],
+                "Bashkir": [
+                    "ағыулы үҫемлек",
+                    "ағыулы үлән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "улы өсімдік",
+                    "улы шөп"
+                ],
+                "Kyrgyz": [
+                    "уулуу өсүмдүк"
+                ],
+                "Karakalpak": [
+                    "ulı ósimlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "уу чөп"
+                ]
+            }
+        }
+    ]
+}

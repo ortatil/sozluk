@@ -1,0 +1,130 @@
+{
+    "id": "i31821",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "go into",
+    "en_definition": "to come or go into",
+    "tr_word": "girmek",
+    "tr_definition": "Dışarıdan içeriye geçmek, bir şeyin içine dahil olmak.",
+    "ru_word": "входить",
+    "ru_definition": "Идти, двигаться, направляясь внутрь чего-либо.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "girmek",
+                    "binmek"
+                ],
+                "Azerbaijani": [
+                    "girmək"
+                ],
+                "Turkmen": [
+                    "girmek"
+                ],
+                "Uzbek": [
+                    "kirmoq"
+                ],
+                "Uyghur": [
+                    "كىرمەك",
+                    "كىرىپ كەلمەك",
+                    "كىرىپ بارماق"
+                ],
+                "Kazakh": [
+                    "кіру"
+                ],
+                "Kyrgyz": [
+                    "кирүү",
+                    "кирип баруу",
+                    "кирип келүү"
+                ],
+                "Karakalpak": [
+                    "kirio"
+                ],
+                "Tatar": [
+                    "керергә"
+                ],
+                "Bashkir": [
+                    "кереү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "içeri girmek"
+                ],
+                "Azerbaijani": [
+                    "içəri keçmək"
+                ],
+                "Turkmen": [
+                    "içeri girmek"
+                ],
+                "Uzbek": [
+                    "ichkariga kirmoq"
+                ],
+                "Uyghur": [
+                    "ئىچىگە كىرمەك"
+                ],
+                "Kazakh": [
+                    "ішке кіру"
+                ],
+                "Kyrgyz": [
+                    "ичине кирүү"
+                ],
+                "Karakalpak": [
+                    "ishine kirio"
+                ],
+                "Tatar": [
+                    "эчкә керергә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dahil olmak"
+                ],
+                "Azerbaijani": [
+                    "daxil olmaq"
+                ],
+                "Turkmen": [
+                    "daxyl bolmak"
+                ],
+                "Uzbek": [
+                    "daxil bo'lmoq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ену"
+                ],
+                "Karakalpak": [
+                    "enu"
+                ],
+                "Bashkir": [
+                    "инеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үтәргә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "килеп инеү"
+                ]
+            }
+        }
+    ]
+}

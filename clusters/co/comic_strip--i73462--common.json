@@ -1,0 +1,129 @@
+{
+    "id": "i73462",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "comic strip",
+    "en_definition": "a sequence of drawings telling a story in a newspaper or comic book",
+    "tr_word": "çizgi roman",
+    "tr_definition": "gazete veya dergilerde yayınlanan, birbirini izleyen karelerden oluşan hikaye",
+    "ru_word": "комикс",
+    "ru_definition": "серия рисунков с текстом, образующая связное повествование",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "suratly hekaya",
+                    "suratly žurnal"
+                ],
+                "Kazakh": [
+                    "суретті хикая",
+                    "суретті әңгіме"
+                ],
+                "Kyrgyz": [
+                    "сүрөт-баяндама",
+                    "сүрөт-окуя",
+                    "сүрөт-жомок"
+                ],
+                "Karakalpak": [
+                    "súoretli gúrriń",
+                    "súoretli hikaya",
+                    "súoretli kitapsha"
+                ],
+                "Tatar": [
+                    "сурәтле хикәя"
+                ],
+                "Bashkir": [
+                    "һүрәт-хикәйә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "resimli roman"
+                ],
+                "Uzbek": [
+                    "rasmli hikoya"
+                ],
+                "Uyghur": [
+                    "رەسىملىك ھېكايە",
+                    "رەسىملىك ژۇرنال"
+                ],
+                "Tatar": [
+                    "рәсем-хикәя",
+                    "рәсемле хикәят"
+                ],
+                "Bashkir": [
+                    "рәсем-хикәйә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çizgi roman"
+                ],
+                "Turkmen": [
+                    "çyzgyly hekaya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "karikatura"
+                ],
+                "Uyghur": [
+                    "كارتون ھېكايە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şəkilli hekayə"
+                ],
+                "Bashkir": [
+                    "һүрәтле хикәйә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bant karikatür"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "məzhəkəli şəkil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tasviriy hikoya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hikoya-tasvir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күлдіргі хикая"
+                ]
+            }
+        }
+    ]
+}

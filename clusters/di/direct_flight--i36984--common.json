@@ -1,0 +1,135 @@
+{
+    "id": "i36984",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "direct flight",
+    "en_definition": "a flight with one or more intermediate stops but no change of aircraft",
+    "tr_word": "direkt uçuş",
+    "tr_definition": "Uçak değiştirmeden, bir veya daha fazla ara durakla gerçekleştirilen uçuş.",
+    "ru_word": "прямой рейс",
+    "ru_definition": "Рейс, выполняемый без пересадки на другой самолет, но, возможно, с промежуточными остановками.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Karakalpak": [
+                    "turı reys",
+                    "turı ushıs"
+                ],
+                "Tatar": [
+                    "туры очыш",
+                    "туры рейс"
+                ],
+                "Bashkir": [
+                    "тура осош",
+                    "тура рейс"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doğrudan uçuş"
+                ],
+                "Uzbek": [
+                    "to'g'ridan-to'g'ri parvoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "birbaşa uçuş"
+                ],
+                "Uyghur": [
+                    "بىۋاسىتە ئۇچۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "vasitəsiz uçuş"
+                ],
+                "Uzbek": [
+                    "bevosita parvoz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "to'xtovsiz parvoz"
+                ],
+                "Uyghur": [
+                    "تۇتاش ئۇچۇش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "توسالغۇسىز ئۇچۇش"
+                ],
+                "Kyrgyz": [
+                    "түз каттам",
+                    "түз учуш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тікелей рейс",
+                    "тіке ұшу"
+                ],
+                "Karakalpak": [
+                    "tikkeley reys"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "direkt uçuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "aktarmasız uçuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dayanacaqsız uçuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "göni gatnaw",
+                    "göni uçuş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arasy üzülmeýän gatnaw"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аралықсыз рейс"
+                ]
+            }
+        }
+    ]
+}

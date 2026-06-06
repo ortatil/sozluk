@@ -1,0 +1,83 @@
+{
+    "id": "i91467",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mother-in-law",
+    "en_definition": "the mother of your spouse",
+    "tr_word": "kayınvalide",
+    "tr_definition": "eşin annesi",
+    "ru_word": "свекровь / тёща",
+    "ru_definition": "мать мужа (свекровь) или мать жены (тёща)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kaynana",
+                    "kayınvalide"
+                ],
+                "Azerbaijani": [
+                    "qaynana",
+                    "qaynata"
+                ],
+                "Turkmen": [
+                    "gaýynene"
+                ],
+                "Uzbek": [
+                    "qaynona",
+                    "qayni-ona"
+                ],
+                "Uyghur": [
+                    "قېيىنانا"
+                ],
+                "Kazakh": [
+                    "қайын ене"
+                ],
+                "Kyrgyz": [
+                    "кайнене",
+                    "кайнана"
+                ],
+                "Karakalpak": [
+                    "qayın ene"
+                ],
+                "Tatar": [
+                    "кайнана"
+                ],
+                "Bashkir": [
+                    "ҡәйнә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ene"
+                ],
+                "Kazakh": [
+                    "ене"
+                ],
+                "Karakalpak": [
+                    "ene"
+                ],
+                "Bashkir": [
+                    "инәй"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خۇشۇن"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бикәч"
+                ]
+            }
+        }
+    ]
+}

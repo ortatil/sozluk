@@ -1,0 +1,132 @@
+{
+    "id": "i110016",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "notch",
+    "en_definition": "a V-shaped indentation",
+    "tr_word": "çentik",
+    "tr_definition": "V şeklinde bir oyuk veya kesik",
+    "ru_word": "выемка",
+    "ru_definition": "V-образное углубление или надрез",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kertik",
+                    "çentik",
+                    "gedik"
+                ],
+                "Azerbaijani": [
+                    "kertik",
+                    "çərtik",
+                    "kəsik"
+                ],
+                "Turkmen": [
+                    "kertik",
+                    "çentik"
+                ],
+                "Uzbek": [
+                    "kertik"
+                ],
+                "Uyghur": [
+                    "كېرتىك",
+                    "كېسىك"
+                ],
+                "Kazakh": [
+                    "кертік",
+                    "кесік"
+                ],
+                "Kyrgyz": [
+                    "кертик",
+                    "кесик"
+                ],
+                "Karakalpak": [
+                    "kertik",
+                    "kesіk"
+                ],
+                "Tatar": [
+                    "китек",
+                    "китеклек",
+                    "керт"
+                ],
+                "Bashkir": [
+                    "китек",
+                    "кәртә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "oyuk"
+                ],
+                "Azerbaijani": [
+                    "oyuq"
+                ],
+                "Turkmen": [
+                    "oyuk"
+                ],
+                "Uzbek": [
+                    "o'yiq"
+                ],
+                "Uyghur": [
+                    "ئويۇق"
+                ],
+                "Kazakh": [
+                    "ойық"
+                ],
+                "Kyrgyz": [
+                    "оюк"
+                ],
+                "Karakalpak": [
+                    "oyıq"
+                ],
+                "Tatar": [
+                    "уем",
+                    "уемтык"
+                ],
+                "Bashkir": [
+                    "уйым",
+                    "уйыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چەرتما"
+                ],
+                "Bashkir": [
+                    "йырыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңба"
+                ],
+                "Karakalpak": [
+                    "tańba"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tish",
+                    "darz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тилик"
+                ]
+            }
+        }
+    ]
+}

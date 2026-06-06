@@ -1,0 +1,114 @@
+{
+    "id": "i69459",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "new edition",
+    "en_definition": "a publication (such as a book) that has been modified or updated and offered again for sale",
+    "tr_word": "yeni baskı",
+    "tr_definition": "Bir kitabın veya yayının gözden geçirilmiş, güncellenmiş veya yeniden düzenlenmiş hali.",
+    "ru_word": "новое издание",
+    "ru_definition": "Публикация (например, книга), которая была изменена или обновлена и снова предложена к продаже.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeni baskı",
+                    "yeni tabı"
+                ],
+                "Azerbaijani": [
+                    "yeni nəşr",
+                    "yeni çap"
+                ],
+                "Uzbek": [
+                    "yangi nashr"
+                ],
+                "Uyghur": [
+                    "يېڭى نەشرى",
+                    "يېڭى بېسىلمىسى"
+                ],
+                "Kazakh": [
+                    "жаңа басылым"
+                ],
+                "Kyrgyz": [
+                    "жаңы басылышы",
+                    "жаңыланган басылыш"
+                ],
+                "Karakalpak": [
+                    "jańa baspa",
+                    "jańa basılım"
+                ],
+                "Tatar": [
+                    "яңа басма",
+                    "яңартылган басма"
+                ],
+                "Bashkir": [
+                    "яңы баҫма",
+                    "яңы нәшер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan neşir"
+                ],
+                "Uzbek": [
+                    "qayta nashr"
+                ],
+                "Kazakh": [
+                    "қайта басылым"
+                ],
+                "Kyrgyz": [
+                    "кайра басылышы"
+                ],
+                "Karakalpak": [
+                    "qayta basılım"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təzə nəşr"
+                ],
+                "Turkmen": [
+                    "täze neşir",
+                    "täzelenen neşir"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈزىتىلگەن نەشرى"
+                ],
+                "Tatar": [
+                    "төзәтелгән басма"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "güncellenmiş baskı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "toʻldirilgan nashr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "өңделген басылым"
+                ]
+            }
+        }
+    ]
+}

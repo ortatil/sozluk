@@ -1,0 +1,103 @@
+# Seychelles
+| Field | Detail |
+|---|---|
+| **ID** | i83958 |
+| **English** | seychelles |
+| **Type** | noun |
+| **Definition** | a group of about 90 islands in the western Indian Ocean to the north of Madagascar |
+| **Source** | common |
+| **Ortatil** | seyşellärgi |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **seyşellärgi** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.60 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سېيشېل | seyşel |
+| **Kazakh** | |
+| Сейшелдер | seyşelder |
+| **Kyrgyz** | |
+| Сейшелдер | seyşelder |
+| **Tatar** | |
+| Сейшеллар | seyşellar |
+
+```json
+{
+    "id": "i83958",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "seychelles",
+    "en_definition": "a group of about 90 islands in the western Indian Ocean to the north of Madagascar",
+    "tr_word": "Seyşeller",
+    "tr_definition": "Hint Okyanusu'nun batısında, Madagaskar'ın kuzeyinde yer alan yaklaşık 90 adadan oluşan bir grup",
+    "ru_word": "Сейшельские Острова",
+    "ru_definition": "группа из примерно 90 островов в западной части Индийского океана к северу от Мадагаскара",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Seyşeller",
+                    "Seyşel Adaları"
+                ],
+                "Azerbaijani": [
+                    "Seyşel adaları",
+                    "Seyşellər"
+                ],
+                "Turkmen": [
+                    "Seýşel Adalary",
+                    "Seýşeller"
+                ],
+                "Uzbek": [
+                    "Seyshel orollari",
+                    "Seyshel"
+                ],
+                "Uyghur": [
+                    "سېيشېل تاقىم ئاراللىرى",
+                    "سېيشېل"
+                ],
+                "Kazakh": [
+                    "Сейшель аралдары",
+                    "Сейшелдер"
+                ],
+                "Kyrgyz": [
+                    "Сейшел аралдары",
+                    "Сейшелдер"
+                ],
+                "Karakalpak": [
+                    "Seyshel atauları",
+                    "Seyshel Otrauları"
+                ],
+                "Tatar": [
+                    "Сейшел утраулары",
+                    "Сейшеллар"
+                ],
+                "Bashkir": [
+                    "Сейшель Утрауҙары",
+                    "Сейшел Утрауҙары"
+                ]
+            }
+        }
+    ]
+}
+```
+

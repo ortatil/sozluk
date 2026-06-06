@@ -1,0 +1,131 @@
+{
+    "id": "i107389",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "calving",
+    "en_definition": "giving birth to a calf",
+    "tr_word": "buzağılama",
+    "tr_definition": "bir ineğin veya benzeri bir hayvanın yavru doğurması eylemi",
+    "ru_word": "отел",
+    "ru_definition": "рождение теленка коровой или другим крупным рогатым скотом",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "doğurma"
+                ],
+                "Azerbaijani": [
+                    "doğum",
+                    "doğma"
+                ],
+                "Turkmen": [
+                    "dogurmak"
+                ],
+                "Uzbek": [
+                    "tug‘ish"
+                ],
+                "Uyghur": [
+                    "تۇغۇت",
+                    "تۇغۇش"
+                ],
+                "Kyrgyz": [
+                    "туу"
+                ],
+                "Karakalpak": [
+                    "tuoıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "buzağılama"
+                ],
+                "Kazakh": [
+                    "бұзаулау"
+                ],
+                "Karakalpak": [
+                    "buzaolao"
+                ],
+                "Tatar": [
+                    "бозаулау"
+                ],
+                "Bashkir": [
+                    "быҙаулау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "төлдеу"
+                ],
+                "Kyrgyz": [
+                    "төлдөө"
+                ],
+                "Karakalpak": [
+                    "tólletpe"
+                ],
+                "Bashkir": [
+                    "төлләү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "balalama"
+                ],
+                "Uzbek": [
+                    "bolalash"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "موزايلىتىش",
+                    "موزايلاش"
+                ],
+                "Kyrgyz": [
+                    "музоолоо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "туут"
+                ],
+                "Tatar": [
+                    "тудыру"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yavrulama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gölelemek",
+                    "göleli bolmak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ko‘payish"
+                ]
+            }
+        }
+    ]
+}

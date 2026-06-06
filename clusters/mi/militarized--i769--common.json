@@ -1,0 +1,128 @@
+{
+    "id": "i769",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "militarized",
+    "en_definition": "issued military arms",
+    "tr_word": "askerileştirilmiş",
+    "tr_definition": "askeri silahlarla donatılmış veya askeri bir yapıya büründürülmüş",
+    "ru_word": "милитаризованный",
+    "ru_definition": "оснащенный военным вооружением или переведенный на военный лад",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qurollantirilgan"
+                ],
+                "Uyghur": [
+                    "قوراللانغان",
+                    "قوراللىق"
+                ],
+                "Kazakh": [
+                    "қаруланған"
+                ],
+                "Kyrgyz": [
+                    "куралданган",
+                    "куралдуу"
+                ],
+                "Karakalpak": [
+                    "qurallandırılǵan"
+                ],
+                "Tatar": [
+                    "коралланган"
+                ],
+                "Bashkir": [
+                    "ҡоралланған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbiləşdirilmiş"
+                ],
+                "Turkmen": [
+                    "harbylaşdyrylan"
+                ],
+                "Uzbek": [
+                    "harbiylashtirilgan"
+                ],
+                "Uyghur": [
+                    "ھەربىيلەشكەن"
+                ],
+                "Tatar": [
+                    "хәрбиләштерелгән",
+                    "хәрби"
+                ],
+                "Bashkir": [
+                    "хәрбиләштерелгән",
+                    "хәрби"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "askerileştirilmiş"
+                ],
+                "Kazakh": [
+                    "әскериленген"
+                ],
+                "Kyrgyz": [
+                    "аскерлештирилген"
+                ],
+                "Karakalpak": [
+                    "áskerlestirilgen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýaraglandyrylan",
+                    "ýaragly"
+                ],
+                "Kazakh": [
+                    "жарақтанған"
+                ],
+                "Karakalpak": [
+                    "jaraqlandırılǵan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "silahlandırılmış"
+                ],
+                "Azerbaijani": [
+                    "silahlandırılmış"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mücehhez"
+                ],
+                "Uzbek": [
+                    "musallah"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "teçhiz edilmiş"
+                ],
+                "Azerbaijani": [
+                    "təchiz edilmiş"
+                ]
+            }
+        }
+    ]
+}

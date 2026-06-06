@@ -1,0 +1,95 @@
+# Military police
+| Field | Detail |
+|---|---|
+| **ID** | i80249 |
+| **English** | military police |
+| **Type** | noun |
+| **Definition** | a military corps that enforces discipline and guards prisoners |
+| **Source** | common |
+| **Ortatil** | inzibät |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i80249",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "military police",
+    "en_definition": "a military corps that enforces discipline and guards prisoners",
+    "tr_word": "askeri inzibat",
+    "tr_definition": "orduda disiplini sağlayan ve tutukluları koruyan askeri birlik",
+    "ru_word": "военная полиция",
+    "ru_definition": "военный корпус, обеспечивающий дисциплину и охраняющий заключенных",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "hərbi polis",
+                    "hərbi inzibat",
+                    "hərbi asayiş"
+                ],
+                "Turkmen": [
+                    "harby polisiýa",
+                    "harby tertip-düzgün saklaýjy",
+                    "harby gözegçilik"
+                ],
+                "Uzbek": [
+                    "harbiy politsiya",
+                    "harbiy intizom xizmati",
+                    "harbiy posbon"
+                ],
+                "Uyghur": [
+                    "ھەربىي ساقچى",
+                    "ھەربىي ئىنتىزام ساقچىسى"
+                ],
+                "Tatar": [
+                    "хәрби полиция",
+                    "хәрби сак",
+                    "хәрби интизам сакчылары"
+                ],
+                "Bashkir": [
+                    "хәрби полиция",
+                    "хәрби һаҡ",
+                    "хәрби интизам һаҡсылары"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "askeri inzibat",
+                    "askeri polis"
+                ],
+                "Kazakh": [
+                    "әскери полиция",
+                    "әскери күзет",
+                    "әскери тәртіп сақшысы"
+                ],
+                "Kyrgyz": [
+                    "аскердик тартип сакчылары",
+                    "аскердик күзөт",
+                    "аскердик тартип кызматы"
+                ],
+                "Karakalpak": [
+                    "áskeri policiya",
+                    "áskeri tártip saqshıları",
+                    "áskeri kúzet"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "inzibat"
+                ]
+            }
+        }
+    ]
+}
+```
+

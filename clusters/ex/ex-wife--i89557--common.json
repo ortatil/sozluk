@@ -1,0 +1,114 @@
+{
+    "id": "i89557",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "ex-wife",
+    "en_definition": "a woman who was formerly a particular man's wife",
+    "tr_word": "eski eş",
+    "tr_definition": "bir erkeğin geçmişte evli olduğu kadın",
+    "ru_word": "бывшая жена",
+    "ru_definition": "женщина, которая ранее была замужем за определённым мужчиной",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boşandığı eşi"
+                ],
+                "Azerbaijani": [
+                    "boşanmış arvad"
+                ],
+                "Kazakh": [
+                    "бұрынғы әйелі",
+                    "бұрынғы жары",
+                    "бұрынғы зайыбы"
+                ],
+                "Karakalpak": [
+                    "burınǵı hayalı",
+                    "burınǵı zayıbı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "talak edilen aýaly"
+                ],
+                "Uzbek": [
+                    "taloq qilingan xotin"
+                ],
+                "Uyghur": [
+                    "تالاق قىلىنغان ئايال"
+                ],
+                "Tatar": [
+                    "талак ителгән хатын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "ئىلگىرىكى ئايالى"
+                ],
+                "Tatar": [
+                    "элеккеге хатын"
+                ],
+                "Bashkir": [
+                    "элекке ҡатын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "eski eş",
+                    "eski karı"
+                ],
+                "Turkmen": [
+                    "öňki aýaly",
+                    "öňki hatyny"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بۇرۇنقى ئايالى"
+                ],
+                "Kyrgyz": [
+                    "мурунку аялы",
+                    "мурунку жубайы",
+                    "мурунку зайыбы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "аерылган хатын"
+                ],
+                "Bashkir": [
+                    "айырылған ҡатын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "keçmiş arvad",
+                    "keçmiş həyat yoldaşı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "sobiq xotin",
+                    "sobiq rafiqa"
+                ]
+            }
+        }
+    ]
+}

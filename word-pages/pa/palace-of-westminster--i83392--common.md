@@ -1,0 +1,159 @@
+# Palace of westminster
+| Field | Detail |
+|---|---|
+| **ID** | i83392 |
+| **English** | palace of westminster |
+| **Type** | noun |
+| **Definition** | the building in which the House of Commons and the House of Lords meet |
+| **Source** | common |
+| **Ortatil** | mäclisgäh |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kyrgyz** | |
+| ордо | ordo |
+
+```json
+{
+    "id": "i83392",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "palace of westminster",
+    "en_definition": "the building in which the House of Commons and the House of Lords meet",
+    "tr_word": "Westminster Sarayı",
+    "tr_definition": "Avam Kamarası ve Lordlar Kamarası'nın toplandığı bina",
+    "ru_word": "Вестминстерский дворец",
+    "ru_definition": "здание, в котором проходят заседания Палаты общин и Палаты лордов",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İngiliz Parlamento Binası"
+                ],
+                "Azerbaijani": [
+                    "Parlament binası"
+                ],
+                "Turkmen": [
+                    "parlament binasy",
+                    "parlament köşgi"
+                ],
+                "Uzbek": [
+                    "parlament binosi"
+                ],
+                "Uyghur": [
+                    "پارلامېنت سارىيى"
+                ],
+                "Kazakh": [
+                    "Парламент үйі",
+                    "Парламент ғимараты"
+                ],
+                "Kyrgyz": [
+                    "парламент имараты"
+                ],
+                "Karakalpak": [
+                    "parlament imaratı"
+                ],
+                "Tatar": [
+                    "парламент бинасы"
+                ],
+                "Bashkir": [
+                    "парламент бинаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "mejlis köşgi"
+                ],
+                "Uzbek": [
+                    "majlisgoh"
+                ],
+                "Karakalpak": [
+                    "májilis sarayı"
+                ],
+                "Tatar": [
+                    "мәҗлес сарае"
+                ],
+                "Bashkir": [
+                    "мәжлес йорто"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Westminster Sarayı"
+                ],
+                "Azerbaijani": [
+                    "Vestminster sarayı"
+                ],
+                "Uyghur": [
+                    "ۋېست مىنستېر سارىيى"
+                ],
+                "Kazakh": [
+                    "Вестминстер сарайы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Parlamento Sarayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shurogoh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өкмөт сарайы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ордо"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "keńes sarayı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дәүләт сарае"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "хөкүмәт һарайы"
+                ]
+            }
+        }
+    ]
+}
+```
+

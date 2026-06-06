@@ -1,0 +1,174 @@
+{
+    "id": "i76515",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "foodstuff",
+    "en_definition": "a substance that can be used or prepared for use as food",
+    "tr_word": "gıda maddesi",
+    "tr_definition": "Yiyecek olarak kullanılabilen veya yiyecek hazırlamak için kullanılan her türlü madde.",
+    "ru_word": "продовольствие",
+    "ru_definition": "Продукты питания, вещества, пригодные для употребления в пищу.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "azık"
+                ],
+                "Azerbaijani": [
+                    "ərzaq"
+                ],
+                "Turkmen": [
+                    "azyk"
+                ],
+                "Kazakh": [
+                    "азық",
+                    "ас",
+                    "азық-түлік"
+                ],
+                "Kyrgyz": [
+                    "азык",
+                    "азык-түлүк"
+                ],
+                "Karakalpak": [
+                    "azıq-túlik",
+                    "azıq"
+                ],
+                "Tatar": [
+                    "азык",
+                    "ризык",
+                    "аш"
+                ],
+                "Bashkir": [
+                    "аҙыҡ",
+                    "ризыҡ",
+                    "аш-һыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təam"
+                ],
+                "Uzbek": [
+                    "taom"
+                ],
+                "Uyghur": [
+                    "تائام"
+                ],
+                "Kazakh": [
+                    "тағам"
+                ],
+                "Kyrgyz": [
+                    "тамак-аш"
+                ],
+                "Karakalpak": [
+                    "taǵam"
+                ],
+                "Tatar": [
+                    "тәгам"
+                ],
+                "Bashkir": [
+                    "тәғәм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yiyecek"
+                ],
+                "Azerbaijani": [
+                    "yemək"
+                ],
+                "Uzbek": [
+                    "yegulik"
+                ],
+                "Uyghur": [
+                    "يېمەكلىك",
+                    "يېمەك-ئىچمەك"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "nemət"
+                ],
+                "Turkmen": [
+                    "nemat"
+                ],
+                "Uzbek": [
+                    "ne'mat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gıda"
+                ],
+                "Azerbaijani": [
+                    "qida"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "rizq"
+                ],
+                "Karakalpak": [
+                    "ırısqı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "besin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iýmit",
+                    "iýgi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oziq-ovqat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوزۇقلۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "нәр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оокат"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "id": "i117153",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mid-january",
+    "en_definition": "the middle part of January",
+    "tr_word": "ocak ortası",
+    "tr_definition": "Ocak ayının orta kısmı",
+    "ru_word": "середина января",
+    "ru_definition": "средняя часть января",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yanvarın ortası",
+                    "yanvarın tən ortası",
+                    "yanvar ayının ortası"
+                ],
+                "Turkmen": [
+                    "ýanwar aýynyň ortasy",
+                    "ýanwaryň ortasy"
+                ],
+                "Uzbek": [
+                    "yanvar o'rtasi",
+                    "yanvarning o'rtasi"
+                ],
+                "Uyghur": [
+                    "يانۋار ئوتتۇرىلىرى"
+                ],
+                "Kyrgyz": [
+                    "январдын ортосу"
+                ],
+                "Karakalpak": [
+                    "yanwar ortası"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "қаңтардың ортасы",
+                    "қаңтар ортасы"
+                ],
+                "Karakalpak": [
+                    "qańtar ortası"
+                ],
+                "Tatar": [
+                    "гыйнвар уртасы",
+                    "гыйнварның уртасы"
+                ],
+                "Bashkir": [
+                    "ғинуар уртаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Ocak ortası",
+                    "Ocak ayı ortası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "قەھرىتان ئوتتۇرىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үчтүн айынын ортосу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡыш уртаһы"
+                ]
+            }
+        }
+    ]
+}

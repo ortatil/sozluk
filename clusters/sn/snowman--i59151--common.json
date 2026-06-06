@@ -1,0 +1,65 @@
+{
+    "id": "i59151",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "snowman",
+    "en_definition": "a figure of a person made of packed snow",
+    "tr_word": "kardan adam",
+    "tr_definition": "sıkıştırılmış kardan yapılan insan figürü",
+    "ru_word": "снеговик",
+    "ru_definition": "фигура человека, сделанная из плотно утрамбованного снега",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kardan adam"
+                ],
+                "Azerbaijani": [
+                    "qardan adam",
+                    "qar adamı"
+                ],
+                "Turkmen": [
+                    "gar adam",
+                    "garbaba"
+                ],
+                "Uzbek": [
+                    "qorbobo",
+                    "qor odam"
+                ],
+                "Uyghur": [
+                    "قار ئادەم",
+                    "قاربوۋاي"
+                ],
+                "Kazakh": [
+                    "қар адам"
+                ],
+                "Kyrgyz": [
+                    "кар киши",
+                    "кар ашык"
+                ],
+                "Karakalpak": [
+                    "qardan jasalǵan adam"
+                ],
+                "Tatar": [
+                    "кар бабай",
+                    "кар кешесе"
+                ],
+                "Bashkir": [
+                    "ҡар бабай",
+                    "ҡар һыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аққала"
+                ],
+                "Karakalpak": [
+                    "aqqala"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+# Cappuccino
+| Field | Detail |
+|---|---|
+| **ID** | i78912 |
+| **English** | cappuccino |
+| **Type** | noun |
+| **Definition** | equal parts of espresso and hot milk topped with cinnamon and nutmeg and usually whipped cream |
+| **Source** | common |
+| **Ortatil** | kapıçino |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| كاپۇچىنو | kapuçino |
+| **Bashkir** | |
+| ҡәһүә | qähüä |
+
+```json
+{
+    "id": "i78912",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "cappuccino",
+    "en_definition": "equal parts of espresso and hot milk topped with cinnamon and nutmeg and usually whipped cream",
+    "tr_word": "kapuçino",
+    "tr_definition": "espresso, sıcak süt ve süt köpüğünden oluşan, genellikle üzerine tarçın veya kakao serpilerek servis edilen bir kahve türü",
+    "ru_word": "капучино",
+    "ru_definition": "кофейный напиток итальянской кухни на основе эспрессо с добавлением в него подогретого вспененного молока",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sütlü kahve"
+                ],
+                "Azerbaijani": [
+                    "südlü qəhvə"
+                ],
+                "Turkmen": [
+                    "süýtli kofe"
+                ],
+                "Uzbek": [
+                    "sutli qahva"
+                ],
+                "Uyghur": [
+                    "سۈتلۈك قەھۋە"
+                ],
+                "Kazakh": [
+                    "сүтті кофе"
+                ],
+                "Kyrgyz": [
+                    "сүттүү кофе"
+                ],
+                "Karakalpak": [
+                    "sútli kofe"
+                ],
+                "Tatar": [
+                    "сөтле кәһвә"
+                ],
+                "Bashkir": [
+                    "һөтлө ҡәһүә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "köpüklü kahve"
+                ],
+                "Azerbaijani": [
+                    "köpüklü qəhvə"
+                ],
+                "Turkmen": [
+                    "köpürjikli kofe"
+                ],
+                "Uzbek": [
+                    "koʻpikli qahva"
+                ],
+                "Kazakh": [
+                    "көбікті кофе"
+                ],
+                "Kyrgyz": [
+                    "көбүктүү кофе"
+                ],
+                "Karakalpak": [
+                    "kóbikli kofe"
+                ],
+                "Tatar": [
+                    "күбекләнгән кәһвә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كاپۇچىنو"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡәһүә"
+                ]
+            }
+        }
+    ]
+}
+```
+

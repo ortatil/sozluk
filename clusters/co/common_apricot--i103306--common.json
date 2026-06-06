@@ -1,0 +1,114 @@
+{
+    "id": "i103306",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "common apricot",
+    "en_definition": "temperate zone tree bearing downy yellow to rosy fruits",
+    "tr_word": "kayısı",
+    "tr_definition": "Ilıman bölgelerde yetişen, tüylü, sarıdan pembeye çalan meyveler veren bir ağaç türü",
+    "ru_word": "абрикос обыкновенный",
+    "ru_definition": "Дерево умеренного пояса, приносящее опушенные плоды от желтого до розового цвета",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ərik"
+                ],
+                "Turkmen": [
+                    "erik"
+                ],
+                "Uzbek": [
+                    "o'rik"
+                ],
+                "Uyghur": [
+                    "ئۆرۈك"
+                ],
+                "Kazakh": [
+                    "өрік"
+                ],
+                "Kyrgyz": [
+                    "өрүк",
+                    "өрук"
+                ],
+                "Karakalpak": [
+                    "órik"
+                ],
+                "Tatar": [
+                    "өрек"
+                ],
+                "Bashkir": [
+                    "өрүк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "zerdali"
+                ],
+                "Turkmen": [
+                    "şetdaly"
+                ],
+                "Uzbek": [
+                    "zardoli"
+                ],
+                "Kazakh": [
+                    "шабдалы"
+                ],
+                "Karakalpak": [
+                    "shabdalı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سېرىق ئۆرۈك"
+                ],
+                "Kazakh": [
+                    "сары өрік"
+                ],
+                "Tatar": [
+                    "сары өрек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kayısı"
+                ],
+                "Azerbaijani": [
+                    "qaysı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыргый өрек"
+                ],
+                "Bashkir": [
+                    "курай"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "mişmiş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gury erik"
+                ]
+            }
+        }
+    ]
+}

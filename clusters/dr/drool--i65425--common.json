@@ -1,0 +1,111 @@
+{
+    "id": "i65425",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "drool",
+    "en_definition": "saliva spilling from the mouth",
+    "tr_word": "salya",
+    "tr_definition": "ağızdan akan tükürük",
+    "ru_word": "слюна",
+    "ru_definition": "слюна, вытекающая изо рта",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "akıntı"
+                ],
+                "Azerbaijani": [
+                    "ağız suyu"
+                ],
+                "Turkmen": [
+                    "agyz suwy"
+                ],
+                "Uzbek": [
+                    "og'iz suvi"
+                ],
+                "Uyghur": [
+                    "ئاغىز سۈيى"
+                ],
+                "Kazakh": [
+                    "ауыз суы"
+                ],
+                "Kyrgyz": [
+                    "аккан ширекей",
+                    "аккан суу"
+                ],
+                "Karakalpak": [
+                    "auız suı"
+                ],
+                "Tatar": [
+                    "авыз суы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "salyangoz",
+                    "salya"
+                ],
+                "Turkmen": [
+                    "salýa"
+                ],
+                "Uzbek": [
+                    "so'lak"
+                ],
+                "Kazakh": [
+                    "сілекей"
+                ],
+                "Karakalpak": [
+                    "sіlekey"
+                ],
+                "Tatar": [
+                    "селәгәй"
+                ],
+                "Bashkir": [
+                    "һеләгәй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şirə"
+                ],
+                "Uzbek": [
+                    "shira"
+                ],
+                "Kyrgyz": [
+                    "ширекей"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "tüpürcək"
+                ],
+                "Bashkir": [
+                    "төкерөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýgeşik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شۆلگەي"
+                ]
+            }
+        }
+    ]
+}

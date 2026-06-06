@@ -1,0 +1,129 @@
+# Aardvark
+| Field | Detail |
+|---|---|
+| **ID** | i46354 |
+| **English** | aardvark |
+| **Type** | noun |
+| **Definition** | nocturnal burrowing mammal of the grasslands of Africa that feeds on termites; sole extant representative of the order Tubulidentata |
+| **Source** | common |
+| **Ortatil** | jerqäzan |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| چۈمۈلەخور | çümüläxor |
+| **Tatar** | |
+| трубкатеш | trubkateş |
+
+```json
+{
+    "id": "i46354",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "aardvark",
+    "en_definition": "nocturnal burrowing mammal of the grasslands of Africa that feeds on termites; sole extant representative of the order Tubulidentata",
+    "tr_word": "yerdomuzu",
+    "tr_definition": "Afrika'nın otlaklarında yaşayan, termitlerle beslenen ve Tubulidentata takımının yaşayan tek temsilci olan gececil, kazıcı bir memeli.",
+    "ru_word": "трубкозуб",
+    "ru_definition": "ночное роющее млекопитающее африканских саванн, питающееся термитами; единственный современный представитель отряда трубкозубых.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yer domuzu"
+                ],
+                "Azerbaijani": [
+                    "yerqazan"
+                ],
+                "Uzbek": [
+                    "yer cho'chqasi"
+                ],
+                "Uyghur": [
+                    "يەر چوشقىسى"
+                ],
+                "Kyrgyz": [
+                    "жер чочкосу"
+                ],
+                "Karakalpak": [
+                    "jershoshqa"
+                ],
+                "Bashkir": [
+                    "ер сусҡаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "karınca yiyen"
+                ],
+                "Azerbaijani": [
+                    "qarışqayeyən"
+                ],
+                "Turkmen": [
+                    "garynja iýiji"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "turba dişli"
+                ],
+                "Tatar": [
+                    "трубкатеш"
+                ],
+                "Bashkir": [
+                    "төрөпшә тешле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "naycha tishli"
+                ],
+                "Karakalpak": [
+                    "nayzatis"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "түтік тісті"
+                ],
+                "Kyrgyz": [
+                    "түтүк тиштүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "африкалық құмырсқажегіш"
+                ],
+                "Tatar": [
+                    "африка кырмыска ашаучысы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چۈمۈلەخور"
+                ]
+            }
+        }
+    ]
+}
+```
+

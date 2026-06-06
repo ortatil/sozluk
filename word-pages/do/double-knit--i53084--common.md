@@ -1,0 +1,137 @@
+# Double knit
+| Field | Detail |
+|---|---|
+| **ID** | i53084 |
+| **English** | double knit |
+| **Type** | noun |
+| **Definition** | a knit fabric similar to jersey that is made with two sets of needles producing a double thickness joined by interlocking stitches |
+| **Source** | common |
+| **Ortatil** | interlok |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i53084",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "double knit",
+    "en_definition": "a knit fabric similar to jersey that is made with two sets of needles producing a double thickness joined by interlocking stitches",
+    "tr_word": "çift katlı örgü",
+    "tr_definition": "İki iğne yatağı kullanılarak örülen, her iki tarafı da düz örgü görünümünde olan ve birbirine kenetlenmiş ilmeklerle çift kalınlık oluşturan kumaş türü.",
+    "ru_word": "двойной трикотаж",
+    "ru_definition": "Плотное трикотажное полотно, изготовленное на двухфонтурных машинах путем переплетения двух слоев петель, что делает ткань одинаковой с обеих сторон.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşa toxuma"
+                ],
+                "Turkmen": [
+                    "goşa örüm",
+                    "goşa dokama"
+                ],
+                "Uzbek": [
+                    "qo'sh to'qima"
+                ],
+                "Uyghur": [
+                    "قوش توقۇلما",
+                    "قوش قەۋەتلىك توقۇلما",
+                    "قوش يۈزلۈك توقۇلما"
+                ],
+                "Kazakh": [
+                    "қос қабатты тоқыма",
+                    "қос бетті мата"
+                ],
+                "Kyrgyz": [
+                    "кош катмарлуу токулган кездеме",
+                    "кош токуу"
+                ],
+                "Karakalpak": [
+                    "qos qabatlı toqıma",
+                    "qos betli toqıma"
+                ],
+                "Tatar": [
+                    "куш бәйләм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ikiqat toxuma",
+                    "ikiüzlü toxuma"
+                ],
+                "Uzbek": [
+                    "ikki qavatli mato"
+                ],
+                "Kazakh": [
+                    "екі бетті тоқыма"
+                ],
+                "Tatar": [
+                    "ике катлы бәйләм",
+                    "ике йөзле тукыма"
+                ],
+                "Bashkir": [
+                    "ике ҡатлы бәйләм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dykyz trikotaž"
+                ],
+                "Karakalpak": [
+                    "tıǵız toqıma"
+                ],
+                "Bashkir": [
+                    "тығыҙ бәйләм"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift katlı örgü",
+                    "çift yüzlü örgü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "interlok"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qalin trikotaj"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "кош токулган кездеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡатмарлы бәйләм"
+                ]
+            }
+        }
+    ]
+}
+```
+

@@ -1,0 +1,128 @@
+{
+    "id": "i29495",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "crop",
+    "en_definition": "cut short",
+    "tr_word": "kırpmak",
+    "tr_definition": "bir şeyin uçlarını keserek kısaltmak",
+    "ru_word": "подрезать",
+    "ru_definition": "укорачивать, срезая концы или края",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kırpmak",
+                    "kesmek",
+                    "kısaltmak"
+                ],
+                "Azerbaijani": [
+                    "kəsilmiş",
+                    "qısaldılmış",
+                    "kəsmək",
+                    "qısaltmaq"
+                ],
+                "Turkmen": [
+                    "kesilip gysgaldylan",
+                    "gysgaldylan",
+                    "kesilen"
+                ],
+                "Uzbek": [
+                    "kesmoq",
+                    "qisqartirmoq"
+                ],
+                "Uyghur": [
+                    "قىسقارتماق",
+                    "كەسمەك"
+                ],
+                "Kazakh": [
+                    "кесу",
+                    "қысқарту"
+                ],
+                "Kyrgyz": [
+                    "кыскартылган",
+                    "кесилген",
+                    "кыскартылды"
+                ],
+                "Karakalpak": [
+                    "kesilgen",
+                    "qısqartılǵan"
+                ],
+                "Tatar": [
+                    "киселгән",
+                    "кыскартылган",
+                    "кисеп алынган"
+                ],
+                "Bashkir": [
+                    "ҡыҫҡартылған",
+                    "киҫелгән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qırxılmış"
+                ],
+                "Turkmen": [
+                    "gyrkylan"
+                ],
+                "Uzbek": [
+                    "qirqmoq"
+                ],
+                "Uyghur": [
+                    "قىرقىماق"
+                ],
+                "Kyrgyz": [
+                    "кыркылган"
+                ],
+                "Karakalpak": [
+                    "qırqılǵan"
+                ],
+                "Bashkir": [
+                    "ҡырҡылған"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kaltalatmoq"
+                ],
+                "Uyghur": [
+                    "كەلتە قىلماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "budamak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қию"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "отау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күзеу"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": "i12596",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "carbonated",
+    "en_definition": "having carbonation (especially artificially carbonated)",
+    "tr_word": "gazlı",
+    "tr_definition": "İçinde karbondioksit gazı bulunan (özellikle içecekler için).",
+    "ru_word": "газированный",
+    "ru_definition": "Содержащий растворенный углекислый газ (обычно о напитках).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gazlı"
+                ],
+                "Azerbaijani": [
+                    "qazlı",
+                    "qazlaşdırılmış"
+                ],
+                "Turkmen": [
+                    "gazly"
+                ],
+                "Uzbek": [
+                    "gazli",
+                    "gazlangan"
+                ],
+                "Uyghur": [
+                    "گازلىق"
+                ],
+                "Kazakh": [
+                    "газдалған"
+                ],
+                "Kyrgyz": [
+                    "газдалган"
+                ],
+                "Karakalpak": [
+                    "gazlı"
+                ],
+                "Tatar": [
+                    "газлы"
+                ],
+                "Bashkir": [
+                    "газлы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kabarcıklı"
+                ],
+                "Turkmen": [
+                    "köpürjikli"
+                ],
+                "Kyrgyz": [
+                    "көбүктүү"
+                ],
+                "Karakalpak": [
+                    "kópirshikli"
+                ],
+                "Tatar": [
+                    "күбекләнгән",
+                    "күбекле"
+                ],
+                "Bashkir": [
+                    "күбекле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "köpüklü"
+                ],
+                "Uzbek": [
+                    "ko'pikli"
+                ],
+                "Uyghur": [
+                    "كۆپۈكلۈك"
+                ],
+                "Kazakh": [
+                    "көпіршікті"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "asitli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ачуу"
+                ]
+            }
+        }
+    ]
+}

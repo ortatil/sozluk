@@ -1,0 +1,83 @@
+# Jong
+| Field | Detail |
+|---|---|
+| **ID** | i95750 |
+| **English** | jong |
+| **Type** | noun |
+| **Definition** | United States writer (born in 1942) |
+| **Source** | common |
+| **Ortatil** | cazıoşu |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i95750",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "jong",
+    "en_definition": "United States writer (born in 1942)",
+    "tr_word": "Jong",
+    "tr_definition": "Amerikalı yazar (1942 doğumlu)",
+    "ru_word": "Джонг",
+    "ru_definition": "Американская писательница (родилась в 1942 году)",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Erica Jong"
+                ],
+                "Azerbaijani": [
+                    "Erika Jonq"
+                ],
+                "Turkmen": [
+                    "Erika Jong"
+                ],
+                "Uzbek": [
+                    "Erika Jong"
+                ],
+                "Uyghur": [
+                    "ئېرىكا جوڭ"
+                ],
+                "Kazakh": [
+                    "Эрика Джонг"
+                ],
+                "Kyrgyz": [
+                    "Эрика Жонг"
+                ],
+                "Tatar": [
+                    "Эрика Джонг"
+                ],
+                "Bashkir": [
+                    "Эрика Джонг"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Amerikalı yazar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "jazıoshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ádip"
+                ]
+            }
+        }
+    ]
+}
+```
+

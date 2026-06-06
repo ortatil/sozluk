@@ -1,0 +1,123 @@
+{
+    "id": "i92294",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "proofreader",
+    "en_definition": "someone who reads proof in order to find errors and mark corrections",
+    "tr_word": "musahhih",
+    "tr_definition": "bir metindeki hataları bulmak ve düzeltmeleri işaretlemek için taslakları okuyan kimse",
+    "ru_word": "корректор",
+    "ru_definition": "лицо, занимающееся исправлением ошибок в тексте перед его публикацией",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düzeltmen"
+                ],
+                "Azerbaijani": [
+                    "düzəlişçi"
+                ],
+                "Turkmen": [
+                    "düzediji"
+                ],
+                "Uzbek": [
+                    "tuzatuvchi"
+                ],
+                "Uyghur": [
+                    "تۈزەتكۈچى"
+                ],
+                "Kazakh": [
+                    "түзетуші"
+                ],
+                "Kyrgyz": [
+                    "түзөтүүчү"
+                ],
+                "Karakalpak": [
+                    "túzetushі"
+                ],
+                "Tatar": [
+                    "төзәтүче"
+                ],
+                "Bashkir": [
+                    "төҙәтеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "musahhih"
+                ],
+                "Azerbaijani": [
+                    "müsəhhih"
+                ],
+                "Turkmen": [
+                    "musahhyh"
+                ],
+                "Uzbek": [
+                    "musahhih"
+                ],
+                "Uyghur": [
+                    "مۇسەھھىھ"
+                ],
+                "Karakalpak": [
+                    "músáxxix"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "корректор"
+                ],
+                "Kyrgyz": [
+                    "корректор"
+                ],
+                "Bashkir": [
+                    "корректор"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ката оңдоочу"
+                ],
+                "Tatar": [
+                    "карап чыгучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tashihçi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەھرىرلىگۈچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "оқушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөхәррир"
+                ]
+            }
+        }
+    ]
+}

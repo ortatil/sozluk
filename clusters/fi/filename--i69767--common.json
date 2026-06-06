@@ -1,0 +1,74 @@
+{
+    "id": "i69767",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "filename",
+    "en_definition": "(computer science) the name given to a computer file in order to distinguish it from other files; may contain an extension that indicates the type of file",
+    "tr_word": "dosya adı",
+    "tr_definition": "bir bilgisayar dosyasını diğerlerinden ayırt etmek için verilen isim; genellikle dosya türünü belirten bir uzantı içerir",
+    "ru_word": "имя файла",
+    "ru_definition": "название, присвоенное компьютерному файлу для его идентификации; может включать расширение, указывающее на тип файла",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "fayl adı"
+                ],
+                "Turkmen": [
+                    "faýl ady",
+                    "faýlyň ady"
+                ],
+                "Uzbek": [
+                    "fayl nomi"
+                ],
+                "Kazakh": [
+                    "файл атауы",
+                    "файл есімі"
+                ],
+                "Kyrgyz": [
+                    "файлдын аты",
+                    "файл аталышы"
+                ],
+                "Karakalpak": [
+                    "fayl ataması",
+                    "fayl atı"
+                ],
+                "Tatar": [
+                    "файл исеме",
+                    "файл атамасы"
+                ],
+                "Bashkir": [
+                    "файл исеме",
+                    "файл атамаһы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "hujjat nomi"
+                ],
+                "Uyghur": [
+                    "ھۆججەت ئىسمى",
+                    "ھۆججەت نامى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dosya adı",
+                    "dosya ismi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sənəd adı"
+                ]
+            }
+        }
+    ]
+}

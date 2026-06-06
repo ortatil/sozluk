@@ -1,0 +1,199 @@
+# Butcher knife
+| Field | Detail |
+|---|---|
+| **ID** | i51303 |
+| **English** | butcher knife |
+| **Type** | noun |
+| **Definition** | a large sharp knife for cutting or trimming meat |
+| **Source** | common |
+| **Ortatil** | satırılsan |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **satırılsan** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ✅ |
+| Uyghur | ✅ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ✅ |
+| Bashkir | ❌ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 1 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.40** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ساتىر | satir |
+| **Tatar** | |
+| саткы | satkı |
+| чапкы | çapkı |
+
+```json
+{
+    "id": "i51303",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "butcher knife",
+    "en_definition": "a large sharp knife for cutting or trimming meat",
+    "tr_word": "kasap bıçağı",
+    "tr_definition": "Et kesmek veya parçalamak için kullanılan büyük ve keskin bıçak.",
+    "ru_word": "мясницкий нож",
+    "ru_definition": "Большой острый нож, предназначенный для разделки и нарезки мяса.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kasap bıçağı"
+                ],
+                "Azerbaijani": [
+                    "qəssab bıçağı"
+                ],
+                "Uzbek": [
+                    "qassob pichog'i"
+                ],
+                "Uyghur": [
+                    "قاسساپ پىچىقى"
+                ],
+                "Kazakh": [
+                    "қасапшы пышағы"
+                ],
+                "Kyrgyz": [
+                    "касап бычак"
+                ],
+                "Karakalpak": [
+                    "qasapshaq",
+                    "qasap pıshaq"
+                ],
+                "Bashkir": [
+                    "ҡасап бысағы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "satır"
+                ],
+                "Azerbaijani": [
+                    "satıl"
+                ],
+                "Turkmen": [
+                    "satyl"
+                ],
+                "Uzbek": [
+                    "sotir"
+                ],
+                "Uyghur": [
+                    "ساتىر"
+                ],
+                "Kazakh": [
+                    "сапты пышақ"
+                ],
+                "Karakalpak": [
+                    "satpa"
+                ],
+                "Tatar": [
+                    "саткы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "et bıçağı"
+                ],
+                "Turkmen": [
+                    "et pyçagy"
+                ],
+                "Kazakh": [
+                    "ет пышақ"
+                ],
+                "Kyrgyz": [
+                    "эт бычак"
+                ],
+                "Tatar": [
+                    "ит пычагы"
+                ],
+                "Bashkir": [
+                    "ит бысағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pyçak"
+                ],
+                "Tatar": [
+                    "зур пычак"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чоң бычак"
+                ],
+                "Bashkir": [
+                    "ҙур бысаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "nəhəng bıçaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gylyçpyçak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oshpichoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "گۆش پىچىقى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үлкен пышақ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чапкы"
+                ]
+            }
+        }
+    ]
+}
+```
+

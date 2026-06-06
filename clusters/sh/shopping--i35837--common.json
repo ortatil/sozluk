@@ -1,0 +1,142 @@
+{
+    "id": "i35837",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shopping",
+    "en_definition": "searching for or buying goods or services",
+    "tr_word": "alışveriş",
+    "tr_definition": "mal veya hizmet satın alma eylemi",
+    "ru_word": "покупки",
+    "ru_definition": "поиск или приобретение товаров или услуг",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "pazar"
+                ],
+                "Azerbaijani": [
+                    "bazarlıq"
+                ],
+                "Turkmen": [
+                    "bazarlyk"
+                ],
+                "Uzbek": [
+                    "bozor-ochar"
+                ],
+                "Uyghur": [
+                    "بازار قىلىش"
+                ],
+                "Kazakh": [
+                    "базарлық"
+                ],
+                "Kyrgyz": [
+                    "базарлык"
+                ],
+                "Karakalpak": [
+                    "bazarlıq"
+                ],
+                "Bashkir": [
+                    "баҙарлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söwda"
+                ],
+                "Uzbek": [
+                    "savdo",
+                    "savdo-sotiq"
+                ],
+                "Kazakh": [
+                    "сауда",
+                    "сауда-саттық"
+                ],
+                "Kyrgyz": [
+                    "соода",
+                    "соода-сатык"
+                ],
+                "Karakalpak": [
+                    "saoda"
+                ],
+                "Tatar": [
+                    "сәүдә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "alışveriş"
+                ],
+                "Azerbaijani": [
+                    "alış-veriş"
+                ],
+                "Turkmen": [
+                    "alyş-çalyş"
+                ],
+                "Tatar": [
+                    "алыш-биреш"
+                ],
+                "Bashkir": [
+                    "алыш-биреш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "сатып алуу"
+                ],
+                "Karakalpak": [
+                    "satıp alıo"
+                ],
+                "Tatar": [
+                    "сатып алу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çarşı"
+                ],
+                "Bashkir": [
+                    "сауҙа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tedarik"
+                ],
+                "Azerbaijani": [
+                    "ticarət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "xarid"
+                ],
+                "Uyghur": [
+                    "خېرىدارلىق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سودا-سېتىق"
+                ]
+            }
+        }
+    ]
+}

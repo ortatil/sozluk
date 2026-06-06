@@ -1,0 +1,161 @@
+# Wiener
+| Field | Detail |
+|---|---|
+| **ID** | i77293 |
+| **English** | wiener |
+| **Type** | noun |
+| **Definition** | a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll |
+| **Source** | common |
+| **Ortatil** | sosiska, kolbasa |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sosiska** | **kolbasa** |
+|---|---|---|
+| Turkish | ✅ | ❌ |
+| Azerbaijani | ✅ | ❌ |
+| Turkmen | ✅ | ✅ |
+| Uzbek | ✅ | ❌ |
+| Uyghur | ✅ | ✅ |
+| Kazakh | ✅ | ❌ |
+| Kyrgyz | ✅ | ✅ |
+| Karakalpak | ✅ | ❌ |
+| Tatar | ✅ | ✅ |
+| Bashkir | ✅ | ✅ |
+| *Oghuz Subtotal* | 1 | 0.33 |
+| *Qarluq Subtotal* | 1 | 0.50 |
+| *Qipchaq Subtotal* | 1 | 0.60 |
+| *In All* | ✅ | ✅ |
+| *In Oghuz/Qipchaq* |  |  |
+| **O'TQ** | **4** | **2.43** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سوسىسكا | sosiska |
+| كولباسا | kolbasa |
+| **Kazakh** | |
+| шұжық | şujıq |
+| сосиска | sosiska |
+| **Kyrgyz** | |
+| сосиска | sosiska |
+| чучук | çuçuk |
+| колбаса | kolbasa |
+| **Tatar** | |
+| сосиска | sosiska |
+| колбаса | kolbasa |
+| **Bashkir** | |
+| сосиска | sosiska |
+| колбаса | kolbasa |
+
+```json
+{
+    "id": "i77293",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wiener",
+    "en_definition": "a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll",
+    "tr_word": "sosis",
+    "tr_definition": "Genellikle tütsülenmiş, ince kıyılmış sığır veya domuz etinden yapılan, pürüzsüz dokulu bir sosis türü; genellikle sandviç ekmeği içinde servis edilir.",
+    "ru_word": "сосиска",
+    "ru_definition": "Гладкая по текстуре колбаса из измельченной говядины или свинины, обычно копченая; часто подается в булочке.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sosis",
+                    "sucuk"
+                ],
+                "Azerbaijani": [
+                    "sosis",
+                    "sosiska"
+                ],
+                "Turkmen": [
+                    "sosiska"
+                ],
+                "Uzbek": [
+                    "sosiska"
+                ],
+                "Uyghur": [
+                    "سوسىسكا"
+                ],
+                "Kazakh": [
+                    "шұжық",
+                    "сосиска"
+                ],
+                "Kyrgyz": [
+                    "сосиска",
+                    "чучук"
+                ],
+                "Karakalpak": [
+                    "shұjıq",
+                    "sosiska"
+                ],
+                "Tatar": [
+                    "сосиска"
+                ],
+                "Bashkir": [
+                    "сосиска"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "kolbasa"
+                ],
+                "Uyghur": [
+                    "كولباسا"
+                ],
+                "Kyrgyz": [
+                    "колбаса"
+                ],
+                "Tatar": [
+                    "колбаса"
+                ],
+                "Bashkir": [
+                    "колбаса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "işdäçar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qaynatma kolbasa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "پىشقان گۆش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сүрленген ет"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "итле ризык"
+                ]
+            }
+        }
+    ]
+}
+```
+

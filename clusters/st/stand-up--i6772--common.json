@@ -1,0 +1,99 @@
+{
+    "id": "i6772",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "stand-up",
+    "en_definition": "requiring a standing position",
+    "tr_word": "ayakta yapılan",
+    "tr_definition": "ayakta durmayı gerektiren veya ayakta gerçekleştirilen",
+    "ru_word": "стоячий",
+    "ru_definition": "требующий положения стоя или выполняемый стоя",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dik",
+                    "dikey"
+                ],
+                "Azerbaijani": [
+                    "dik"
+                ],
+                "Turkmen": [
+                    "dik",
+                    "dik duran",
+                    "dik durulýan"
+                ],
+                "Uzbek": [
+                    "tik",
+                    "tikka",
+                    "tik turadigan"
+                ],
+                "Uyghur": [
+                    "تىك تۇرىدىغان"
+                ],
+                "Kazakh": [
+                    "тік",
+                    "тік тұратын"
+                ],
+                "Kyrgyz": [
+                    "тик",
+                    "тик турган",
+                    "тик турма"
+                ],
+                "Karakalpak": [
+                    "tik",
+                    "tik turıoshı",
+                    "tiklengen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ayakta"
+                ],
+                "Azerbaijani": [
+                    "ayaqüstü",
+                    "ayaqda"
+                ],
+                "Tatar": [
+                    "аякүрә"
+                ],
+                "Bashkir": [
+                    "аяҡүрә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۇرۇپ قىلىنىدىغان"
+                ],
+                "Kazakh": [
+                    "тұрып істейтін"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "басып торган",
+                    "басып торучы"
+                ],
+                "Bashkir": [
+                    "баҫып тороусы",
+                    "баҫып"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "qad"
+                ]
+            }
+        }
+    ]
+}

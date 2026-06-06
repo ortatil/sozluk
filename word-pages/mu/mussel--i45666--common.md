@@ -1,0 +1,207 @@
+# Mussel
+| Field | Detail |
+|---|---|
+| **ID** | i45666 |
+| **English** | mussel |
+| **Type** | noun |
+| **Definition** | marine or freshwater bivalve mollusk that lives attached to rocks etc. |
+| **Source** | common |
+| **Ortatil** | midiya |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **midiya** |
+|---|---|
+| Turkish | ✅ |
+| Azerbaijani | ✅ |
+| Turkmen | ✅ |
+| Uzbek | ❌ |
+| Uyghur | ✅ |
+| Kazakh | ✅ |
+| Kyrgyz | ✅ |
+| Karakalpak | ❌ |
+| Tatar | ✅ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 1 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.80 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **3.30** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| مىدىيە | midiyä |
+| **Kazakh** | |
+| мидия | midiya |
+| бақалшақ | baqalşaq |
+| **Kyrgyz** | |
+| мидия | midiya |
+| үлүш | ülüş |
+| **Tatar** | |
+| мидия | midiya |
+| кабырчык | kabırçık |
+| **Bashkir** | |
+| мидия | midiya |
+| ҡабырсаҡ | qabırsaq |
+
+```json
+{
+    "id": "i45666",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "mussel",
+    "en_definition": "marine or freshwater bivalve mollusk that lives attached to rocks etc.",
+    "tr_word": "midye",
+    "tr_definition": "Kayalara yapışık yaşayan, denizlerde veya tatlı sularda bulunan iki kabuklu yumuşakça.",
+    "ru_word": "мидия",
+    "ru_definition": "Морской или пресноводный двустворчатый моллюск, живущий прикрепленным к скалам и другим поверхностям.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "midye"
+                ],
+                "Azerbaijani": [
+                    "midiya"
+                ],
+                "Turkmen": [
+                    "midiya"
+                ],
+                "Uyghur": [
+                    "مىدىيە"
+                ],
+                "Kazakh": [
+                    "мидия"
+                ],
+                "Kyrgyz": [
+                    "мидия"
+                ],
+                "Tatar": [
+                    "мидия"
+                ],
+                "Bashkir": [
+                    "мидия"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قوش قاپلىق قۇلۇلە"
+                ],
+                "Kazakh": [
+                    "қосжақтаулы ұлу"
+                ],
+                "Kyrgyz": [
+                    "кош капкалуу үлүш"
+                ],
+                "Karakalpak": [
+                    "qosjapqıshlı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ikki pallali chigʻanoq"
+                ],
+                "Tatar": [
+                    "ике кабырчыклы моллюск"
+                ],
+                "Bashkir": [
+                    "ике ҡапҡаслы моллюск"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çigildem"
+                ],
+                "Uzbek": [
+                    "chigʻanoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "molluska"
+                ],
+                "Karakalpak": [
+                    "mollyuska"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бақалшақ"
+                ],
+                "Karakalpak": [
+                    "baqalshaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабырчык"
+                ],
+                "Bashkir": [
+                    "ҡабырсаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çift kabuklu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "istiridye"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabıqlı",
+                    "çanaqlı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "balykgulak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "سۇ قۇلۇلىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "үлүш"
+                ]
+            }
+        }
+    ]
+}
+```
+

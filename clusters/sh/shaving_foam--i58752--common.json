@@ -1,0 +1,86 @@
+{
+    "id": "i58752",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "shaving foam",
+    "en_definition": "toiletry consisting of a liquid preparation containing many small bubbles that soften the beard before shaving",
+    "tr_word": "tıraş köpüğü",
+    "tr_definition": "tıraş öncesinde sakalları yumuşatmak için kullanılan, küçük kabarcıklardan oluşan sıvı preparat",
+    "ru_word": "пена для бритья",
+    "ru_definition": "косметическое средство в виде пены, используемое для смягчения волос на лице перед бритьем",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sakgal köpürjigi"
+                ],
+                "Uzbek": [
+                    "soqol koʻpigi"
+                ],
+                "Uyghur": [
+                    "ساقال كۆپۈكى",
+                    "ساقال ئېلىش كۆپۈكى"
+                ],
+                "Kazakh": [
+                    "сақал алу көбігі"
+                ],
+                "Kyrgyz": [
+                    "сакал алуу көбүгү"
+                ],
+                "Karakalpak": [
+                    "saqal kóbigi"
+                ],
+                "Tatar": [
+                    "сакал алу күбеге"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyrylmak köpürjigi"
+                ],
+                "Kazakh": [
+                    "қырыну көбігі"
+                ],
+                "Kyrgyz": [
+                    "кырынуу көбүгү"
+                ],
+                "Karakalpak": [
+                    "qırınıo kóbigi"
+                ],
+                "Tatar": [
+                    "кырыну күбеге"
+                ],
+                "Bashkir": [
+                    "ҡырыныу күбеге",
+                    "ҡырыныу өсөн күбек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tıraş köpüğü",
+                    "tıraş sabunu"
+                ],
+                "Azerbaijani": [
+                    "təraş köpüyü"
+                ],
+                "Uzbek": [
+                    "taraş koʻpigi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "üzqırxma köpüyü"
+                ]
+            }
+        }
+    ]
+}

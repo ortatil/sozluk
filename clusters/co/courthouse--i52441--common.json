@@ -1,0 +1,129 @@
+{
+    "id": "i52441",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "courthouse",
+    "en_definition": "a building that houses judicial courts",
+    "tr_word": "adliye sarayı",
+    "tr_definition": "adli mahkemelerin bulunduğu bina",
+    "ru_word": "здание суда",
+    "ru_definition": "здание, в котором располагаются судебные органы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "mahkeme"
+                ],
+                "Azerbaijani": [
+                    "məhkəmə",
+                    "məhkəmə binası"
+                ],
+                "Uzbek": [
+                    "mahkama"
+                ],
+                "Uyghur": [
+                    "مەھكىمە"
+                ],
+                "Kazakh": [
+                    "мәхкәмә"
+                ],
+                "Karakalpak": [
+                    "máhkeme"
+                ],
+                "Tatar": [
+                    "мәхкәмә",
+                    "мәхкәмә бинасы"
+                ],
+                "Bashkir": [
+                    "мәхкәмә"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sud binasy"
+                ],
+                "Uyghur": [
+                    "سوت مەھكىمىسى"
+                ],
+                "Kazakh": [
+                    "сот ғимараты",
+                    "сот үйі"
+                ],
+                "Kyrgyz": [
+                    "сот имараты",
+                    "сот мекемеси"
+                ],
+                "Karakalpak": [
+                    "sud imaratı"
+                ],
+                "Bashkir": [
+                    "суд бинаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "adliye",
+                    "adalet sarayı"
+                ],
+                "Azerbaijani": [
+                    "ədalət sarayı"
+                ],
+                "Uzbek": [
+                    "adliya saroyi"
+                ],
+                "Uyghur": [
+                    "ئادالەت سارىيى"
+                ],
+                "Kyrgyz": [
+                    "адилет үйү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "divanxana"
+                ],
+                "Turkmen": [
+                    "diwan"
+                ],
+                "Karakalpak": [
+                    "diwanxana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dorulqazo"
+                ],
+                "Uyghur": [
+                    "دارۇلھۆكۈم"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kazyýet",
+                    "kazyýethana"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "хөкем йорты"
+                ]
+            }
+        }
+    ]
+}

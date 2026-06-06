@@ -1,0 +1,72 @@
+{
+    "id": "i108506",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "dollar",
+    "en_definition": "the basic monetary unit in many countries; equal to 100 cents",
+    "tr_word": "dolar",
+    "tr_definition": "Birçok ülkede kullanılan, 100 sente eşit olan temel para birimi.",
+    "ru_word": "доллар",
+    "ru_definition": "Основная денежная единица во многих странах, равная 100 центам.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dolar"
+                ],
+                "Azerbaijani": [
+                    "dollar"
+                ],
+                "Turkmen": [
+                    "dollar"
+                ],
+                "Uzbek": [
+                    "dollar"
+                ],
+                "Uyghur": [
+                    "دوللار"
+                ],
+                "Kazakh": [
+                    "доллар"
+                ],
+                "Kyrgyz": [
+                    "доллар"
+                ],
+                "Karakalpak": [
+                    "dollar"
+                ],
+                "Tatar": [
+                    "доллар"
+                ],
+                "Bashkir": [
+                    "доллар"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "aqsha"
+                ],
+                "Bashkir": [
+                    "аҡса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pul"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "valyuta"
+                ]
+            }
+        }
+    ]
+}

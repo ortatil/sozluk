@@ -1,0 +1,126 @@
+{
+    "id": "i78313",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "italian dressing",
+    "en_definition": "a vinaigrette with garlic and herbs: oregano and basil and dill",
+    "tr_word": "İtalyan sosu",
+    "tr_definition": "Sarımsak ve kekik, fesleğen, dereotu gibi otlar içeren bir tür sirkeli salata sosu.",
+    "ru_word": "итальянская заправка",
+    "ru_definition": "вид винегретной заправки с добавлением чеснока и трав: орегано, базилика и укропа.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İtalyan sosu"
+                ],
+                "Azerbaijani": [
+                    "italyan sousu"
+                ],
+                "Turkmen": [
+                    "italýan sousy",
+                    "italýan durlamasy"
+                ],
+                "Uzbek": [
+                    "italyancha qayla",
+                    "italyancha sous"
+                ],
+                "Uyghur": [
+                    "ئىتالىيەچە سالات قىيامى",
+                    "ئىتالىيانچە قىيام",
+                    "ئىتالىيەچە تېتىتقۇ"
+                ],
+                "Kazakh": [
+                    "итальян тұздығы",
+                    "итальян соусы"
+                ],
+                "Kyrgyz": [
+                    "итальян соусу",
+                    "итальян татымалы"
+                ],
+                "Karakalpak": [
+                    "italyan sousı",
+                    "italyan zaprawkası"
+                ],
+                "Tatar": [
+                    "итальян соусы"
+                ],
+                "Bashkir": [
+                    "итальян соусы",
+                    "итальян заправкаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sarymsakly we otly sous"
+                ],
+                "Uzbek": [
+                    "ziravorli qayla",
+                    "sirka va moyli qayla"
+                ],
+                "Bashkir": [
+                    "һарымһаҡлы соус"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "салат татымалы"
+                ],
+                "Karakalpak": [
+                    "salat sousı"
+                ],
+                "Tatar": [
+                    "салат соусы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "baharatlı sirke sosu"
+                ],
+                "Azerbaijani": [
+                    "sirkəli-otlu sous"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "үләнле соус"
+                ],
+                "Bashkir": [
+                    "үләнле соус"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "otlu sirke sosu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ədviyyatlı salat sousu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шөпті тұздық"
+                ]
+            }
+        }
+    ]
+}

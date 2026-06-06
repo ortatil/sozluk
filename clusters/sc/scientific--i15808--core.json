@@ -1,0 +1,85 @@
+{
+    "id": "i15808",
+    "type": "adjective",
+    "batch": "core",
+    "en_word": "scientific",
+    "en_definition": "of or relating to the practice of science",
+    "tr_word": "bilimsel",
+    "tr_definition": "bilimle ilgili veya bilime dayanan",
+    "ru_word": "научный",
+    "ru_definition": "относящийся к науке или основанный на принципах науки",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ilmi"
+                ],
+                "Azerbaijani": [
+                    "elmi"
+                ],
+                "Turkmen": [
+                    "ylmy"
+                ],
+                "Uzbek": [
+                    "ilmiy"
+                ],
+                "Uyghur": [
+                    "ئىلمىي"
+                ],
+                "Kazakh": [
+                    "ғылыми",
+                    "іліми"
+                ],
+                "Kyrgyz": [
+                    "илимий"
+                ],
+                "Karakalpak": [
+                    "ilmiy",
+                    "ilimiy"
+                ],
+                "Tatar": [
+                    "гыйльми"
+                ],
+                "Bashkir": [
+                    "ғильми",
+                    "ғилем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "pennî"
+                ],
+                "Uzbek": [
+                    "fanniy"
+                ],
+                "Uyghur": [
+                    "پەننىي"
+                ],
+                "Tatar": [
+                    "фәнни"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bilimsel"
+                ],
+                "Azerbaijani": [
+                    "bilmsəl"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "илий"
+                ]
+            }
+        }
+    ]
+}

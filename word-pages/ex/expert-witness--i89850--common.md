@@ -1,0 +1,204 @@
+# Expert witness
+| Field | Detail |
+|---|---|
+| **ID** | i89850 |
+| **English** | expert witness |
+| **Type** | noun |
+| **Definition** | a witness who has knowledge not normally possessed by the average person concerning the topic that he is to testify about |
+| **Source** | common |
+| **Ortatil** | ekspert |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **ekspert** | **belgeç** | **mütahassis** |
+|---|---|---|---|
+| Turkish | ❌ | ✅ | ❌ |
+| Azerbaijani | ✅ | ✅ | ✅ |
+| Turkmen | ✅ | ✅ | ❌ |
+| Uzbek | ✅ | ❌ | ✅ |
+| Uyghur | ❌ | ❌ | ❌ |
+| Kazakh | ❌ | ✅ | ❌ |
+| Kyrgyz | ❌ | ❌ | ❌ |
+| Karakalpak | ✅ | ❌ | ❌ |
+| Tatar | ✅ | ✅ | ✅ |
+| Bashkir | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 1 | 0.33 |
+| *Qarluq Subtotal* | 0.50 | 0 | 0.50 |
+| *Qipchaq Subtotal* | 0.60 | 0.60 | 0.20 |
+| *In All* | ✅ |  | ✅ |
+| *In Oghuz/Qipchaq* |  | ✅ |  |
+| **O'TQ** | **2.77** | **2.10** | **2.03** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| білгір | bilgir |
+| сарапшы | sarapşı |
+| маман | maman |
+| **Tatar** | |
+| белгеч | belgeç |
+| белгеч-шаһит | belgeç-şahit |
+| эксперт | ekspert |
+| мөтахассис | mötaxassis |
+| **Bashkir** | |
+| белгес | belges |
+| белеүсе | beleüse |
+| эксперт | ekspert |
+| оҫта | osta |
+
+```json
+{
+    "id": "i89850",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "expert witness",
+    "en_definition": "a witness who has knowledge not normally possessed by the average person concerning the topic that he is to testify about",
+    "tr_word": "bilirkişi",
+    "tr_definition": "çözümü özel veya teknik bilgiyi gerektiren hâllerde oy ve görüşüne başvurulan uzman kişi",
+    "ru_word": "эксперт-свидетель",
+    "ru_definition": "лицо, обладающее специальными знаниями и привлекаемое для дачи показаний или заключения по делу",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bilirkişi"
+                ],
+                "Azerbaijani": [
+                    "bilici"
+                ],
+                "Turkmen": [
+                    "bilermen"
+                ],
+                "Uzbek": [
+                    "bilimdon guvoh"
+                ],
+                "Uyghur": [
+                    "بىلىمدان گۇۋاھچى"
+                ],
+                "Kazakh": [
+                    "білгір"
+                ],
+                "Kyrgyz": [
+                    "билгич күбө"
+                ],
+                "Karakalpak": [
+                    "bilimdan gúwo"
+                ],
+                "Tatar": [
+                    "белгеч",
+                    "белгеч-шаһит"
+                ],
+                "Bashkir": [
+                    "белгес",
+                    "белеүсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "ekspert"
+                ],
+                "Turkmen": [
+                    "ekspert"
+                ],
+                "Uzbek": [
+                    "ekspert"
+                ],
+                "Kyrgyz": [
+                    "эксперт күбө"
+                ],
+                "Karakalpak": [
+                    "ekspert"
+                ],
+                "Tatar": [
+                    "эксперт"
+                ],
+                "Bashkir": [
+                    "эксперт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ehlihibre",
+                    "ehl-i vukuf"
+                ],
+                "Azerbaijani": [
+                    "əhli-vifaq"
+                ],
+                "Uzbek": [
+                    "ahl-i xibra"
+                ],
+                "Uyghur": [
+                    "ئەھلى خەۋەر گۇۋاھچى"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "mütəxəssis"
+                ],
+                "Uzbek": [
+                    "mutaxassis"
+                ],
+                "Uyghur": [
+                    "مۇتەخەسسىس گۇۋاھچى"
+                ],
+                "Tatar": [
+                    "мөтахассис"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "hünärmen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "сарапшы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "маман"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "адис күбө"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "qánige gúwo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "оҫта"
+                ]
+            }
+        }
+    ]
+}
+```
+

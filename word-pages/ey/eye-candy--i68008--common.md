@@ -1,0 +1,139 @@
+# Eye candy
+| Field | Detail |
+|---|---|
+| **ID** | i68008 |
+| **English** | eye candy |
+| **Type** | noun |
+| **Definition** | visual images that are pleasing to see but are intellectually undemanding |
+| **Source** | common |
+| **Ortatil** | dilräbä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i68008",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "eye candy",
+    "en_definition": "visual images that are pleasing to see but are intellectually undemanding",
+    "tr_word": "göz banyosu",
+    "tr_definition": "entelektüel derinliği olmayan ancak bakması keyif veren, görsel olarak çekici şey",
+    "ru_word": "услада для глаз",
+    "ru_definition": "визуально приятные образы, не требующие интеллектуальных усилий для восприятия",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz banyosu",
+                    "göz alıcı"
+                ],
+                "Azerbaijani": [
+                    "göz oxşayan",
+                    "gözəllik"
+                ],
+                "Turkmen": [
+                    "göz guwanjy",
+                    "göz şatlygy",
+                    "gözüň nury",
+                    "gözüň dynjy"
+                ],
+                "Uzbek": [
+                    "koʻz quvonchi",
+                    "koʻzga yoqimli"
+                ],
+                "Uyghur": [
+                    "كۆز خۇشاللىقى",
+                    "كۆز زوقى",
+                    "كۆز ئايدىڭى"
+                ],
+                "Kazakh": [
+                    "көз қуанышы",
+                    "көз айымы",
+                    "көздің жауын алатын",
+                    "көз тартарлық"
+                ],
+                "Kyrgyz": [
+                    "көз кубанычы",
+                    "көз майы",
+                    "көз суктанткан нерсе",
+                    "көз жоосун алган"
+                ],
+                "Karakalpak": [
+                    "kóz quanıshı",
+                    "kóz aydını",
+                    "kóz tartarlıq"
+                ],
+                "Tatar": [
+                    "күз явы",
+                    "күз нуры",
+                    "күз сөенече",
+                    "күзгә ямь"
+                ],
+                "Bashkir": [
+                    "күҙ ҡыуанысы",
+                    "күҙ нуры",
+                    "күҙ ялтырауығы",
+                    "күҙгә күркәмлек"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz nuru"
+                ],
+                "Azerbaijani": [
+                    "göz nuru"
+                ],
+                "Karakalpak": [
+                    "kóz súysinterlik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "göz ziyafeti"
+                ],
+                "Azerbaijani": [
+                    "göz zövqü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gönül çelen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "dilrabo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "zebo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oroyish"
+                ]
+            }
+        }
+    ]
+}
+```
+

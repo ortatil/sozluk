@@ -1,0 +1,95 @@
+{
+    "id": "i61057",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "wedding picture",
+    "en_definition": "photographs of bride and groom and their friends taken at their wedding",
+    "tr_word": "düğün fotoğrafı",
+    "tr_definition": "düğünde çekilen, gelin, damat ve davetlileri içeren fotoğraflar",
+    "ru_word": "свадебная фотография",
+    "ru_definition": "фотографии жениха, невесты и их гостей, сделанные во время свадьбы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "düğün fotoğrafı",
+                    "düğün resmi"
+                ],
+                "Azerbaijani": [
+                    "toy şəkli",
+                    "toy fotosu"
+                ],
+                "Turkmen": [
+                    "toý suraty"
+                ],
+                "Uzbek": [
+                    "toʻy surati",
+                    "toʻy rasmi"
+                ],
+                "Uyghur": [
+                    "توي سۈرىتى",
+                    "توي خاتىرە سۈرىتى",
+                    "توي فوتوگرافى"
+                ],
+                "Kazakh": [
+                    "той суреті"
+                ],
+                "Kyrgyz": [
+                    "той сүрөтү"
+                ],
+                "Karakalpak": [
+                    "toy súoreti"
+                ],
+                "Tatar": [
+                    "туй рәсеме",
+                    "туй сурәте"
+                ],
+                "Bashkir": [
+                    "туй фотоһы",
+                    "туй һүрәте"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "nikah suraty"
+                ],
+                "Uzbek": [
+                    "nikoh surati"
+                ],
+                "Kazakh": [
+                    "неке суреті"
+                ],
+                "Kyrgyz": [
+                    "нике сүрөтү"
+                ],
+                "Karakalpak": [
+                    "neke súoreti"
+                ],
+                "Tatar": [
+                    "никах рәсеме"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gelin damat fotoğrafı"
+                ],
+                "Azerbaijani": [
+                    "gəlin-bəy şəkli"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "үйлену суреті"
+                ]
+            }
+        }
+    ]
+}

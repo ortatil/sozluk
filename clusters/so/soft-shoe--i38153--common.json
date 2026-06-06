@@ -1,0 +1,90 @@
+{
+    "id": "i38153",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "soft-shoe",
+    "en_definition": "tap dancing wearing shoes that have soft soles",
+    "tr_word": "yumuşak tabanlı step dansı",
+    "tr_definition": "Yumuşak tabanlı ayakkabılarla yapılan, metal uçlar içermeyen bir step dansı türü.",
+    "ru_word": "софт-шу",
+    "ru_definition": "Разновидность чечетки, исполняемая в обуви с мягкой подошвой без металлических набоек.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yumuşak pabuç dansı"
+                ],
+                "Azerbaijani": [
+                    "yumşaq ayaqqabı rəqsi"
+                ],
+                "Turkmen": [
+                    "ýumşak aýakgaply tans"
+                ],
+                "Uzbek": [
+                    "yumshoq poyabzalli raqs"
+                ],
+                "Uyghur": [
+                    "يۇمشاق چەكمە ئۇسسۇل",
+                    "يۇمشاق تاپانلىق ئاياغ ئۇسسۇلى"
+                ],
+                "Kazakh": [
+                    "жұмсақ би",
+                    "жұмсақ табанды би",
+                    "жұмсақ аяқ киіммен билеу"
+                ],
+                "Kyrgyz": [
+                    "жумшак бий"
+                ],
+                "Karakalpak": [
+                    "jumsaq tabanlı ayaq kiyimdegi biy",
+                    "jumsaq biy"
+                ],
+                "Tatar": [
+                    "йомшак аяк киеме биюе",
+                    "йомшак табанлы бию"
+                ],
+                "Bashkir": [
+                    "йомшаҡ табанлы бейеү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tap-tansy"
+                ],
+                "Kyrgyz": [
+                    "тапичке бийи"
+                ],
+                "Bashkir": [
+                    "тапау",
+                    "тыпырлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yumuşak tabanlı step dansı",
+                    "sessiz step"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "səssiz tap rəqsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mayin qadamli raqs"
+                ]
+            }
+        }
+    ]
+}

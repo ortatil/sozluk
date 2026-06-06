@@ -1,0 +1,124 @@
+# Clingfish
+| Field | Detail |
+|---|---|
+| **ID** | i49577 |
+| **English** | clingfish |
+| **Type** | noun |
+| **Definition** | very small (to 3 inches) flattened marine fish with a sucking disc on the abdomen for clinging to rocks etc. |
+| **Source** | common |
+| **Ortatil** | jabışqaq |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **jabışqaq** |
+|---|---|
+| Turkish | ❌ |
+| Azerbaijani | ✅ |
+| Turkmen | ❌ |
+| Uzbek | ✅ |
+| Uyghur | ❌ |
+| Kazakh | ❌ |
+| Kyrgyz | ❌ |
+| Karakalpak | ✅ |
+| Tatar | ❌ |
+| Bashkir | ✅ |
+| *Oghuz Subtotal* | 0.33 |
+| *Qarluq Subtotal* | 0.50 |
+| *Qipchaq Subtotal* | 0.40 |
+| *In All* | ✅ |
+| *In Oghuz/Qipchaq* |  |
+| **O'TQ** | **2.23** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Bashkir** | |
+| йәбешкәк | yäbeşkäk |
+
+```json
+{
+    "id": "i49577",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "clingfish",
+    "en_definition": "very small (to 3 inches) flattened marine fish with a sucking disc on the abdomen for clinging to rocks etc.",
+    "tr_word": "yapışkan balığı",
+    "tr_definition": "Kayalara ve diğer yüzeylere tutunmak için karın bölgesinde vantuz benzeri bir emme diski bulunan, genellikle 7-8 santimetreyi geçmeyen küçük ve yassı bir deniz balığı.",
+    "ru_word": "присосковая рыба",
+    "ru_definition": "Очень маленькая (до 7-8 см) уплощенная морская рыба, имеющая на брюхе присасывательный диск для прикрепления к камням и другим поверхностям.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yapışkan balığı"
+                ],
+                "Azerbaijani": [
+                    "yapışqanbalıq",
+                    "yapışqan balıq"
+                ],
+                "Uzbek": [
+                    "yopishqoq baliq",
+                    "yopishqoqbaliqlar"
+                ],
+                "Uyghur": [
+                    "يېپىشقاق بېلىق"
+                ],
+                "Kazakh": [
+                    "жабысқақ балық"
+                ],
+                "Kyrgyz": [
+                    "жабышкак балык",
+                    "жабышкыч балык"
+                ],
+                "Karakalpak": [
+                    "jabısqaq balıq",
+                    "jabısqaq"
+                ],
+                "Tatar": [
+                    "ябышкак балык"
+                ],
+                "Bashkir": [
+                    "йәбешкәк балыҡ",
+                    "йәбешкәк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "sorujy balyk"
+                ],
+                "Kazakh": [
+                    "сорғыш балық"
+                ],
+                "Tatar": [
+                    "суыргыч балык"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ördek balığı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýelmeşek balyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تاشقا يېپىشقۇچى بېلىق"
+                ]
+            }
+        }
+    ]
+}
+```
+

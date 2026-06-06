@@ -1,0 +1,74 @@
+{
+    "id": "i48422",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "black-tailed deer",
+    "en_definition": "mule deer of western Rocky Mountains",
+    "tr_word": "kara kuyruklu geyik",
+    "tr_definition": "Batı Kayalık Dağları'na özgü, katır geyiğinin bir alt türü olan geyik.",
+    "ru_word": "чернохвостый олень",
+    "ru_definition": "вид оленей, обитающий в западной части Скалистых гор, подвид чернохвостого оленя.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kara kuyruklu geyik",
+                    "katır geyiği"
+                ],
+                "Turkmen": [
+                    "gara guýrukly sugun"
+                ],
+                "Uzbek": [
+                    "qora quyruqli kiyik",
+                    "qora quyruqli bug'u"
+                ],
+                "Uyghur": [
+                    "قارا قۇيرۇقلۇق كېيىك",
+                    "قارا قۇيرۇقلۇق بۇغا"
+                ],
+                "Kazakh": [
+                    "қара құйрықты бұғы",
+                    "қара құйрықты марал"
+                ],
+                "Kyrgyz": [
+                    "кара куйруктуу бугу",
+                    "кара куйруктуу марал"
+                ],
+                "Karakalpak": [
+                    "qara quyrıqlı kiyik",
+                    "qara quyrıqlı buǵı"
+                ],
+                "Tatar": [
+                    "кара койрыклы болан"
+                ],
+                "Bashkir": [
+                    "ҡара ҡойроҡло болан",
+                    "ҡара ҡойроҡло илек"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qaraquyruq maral",
+                    "qaraquyruqlu maral"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "mula suguny"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "көнбатыш боланы"
+                ]
+            }
+        }
+    ]
+}

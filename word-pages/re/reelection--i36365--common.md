@@ -1,0 +1,102 @@
+# Reelection
+| Field | Detail |
+|---|---|
+| **ID** | i36365 |
+| **English** | reelection |
+| **Type** | noun |
+| **Definition** | election again |
+| **Source** | common |
+| **Ortatil** | yenidänseçilmä |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i36365",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "reelection",
+    "en_definition": "election again",
+    "tr_word": "yeniden seçilme",
+    "tr_definition": "bir kişinin aynı göreve tekrar seçilmesi durumu",
+    "ru_word": "переизбрание",
+    "ru_definition": "повторное избрание того же лица на ту же должность",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan saýlaw"
+                ],
+                "Uzbek": [
+                    "qayta saylov",
+                    "qayta saylanish"
+                ],
+                "Uyghur": [
+                    "قايتا سايلام",
+                    "قايتا سايلىنىش"
+                ],
+                "Kazakh": [
+                    "қайта сайлану",
+                    "қайта сайлау"
+                ],
+                "Kyrgyz": [
+                    "кайра шайлоо",
+                    "кайрадан шайлануу"
+                ],
+                "Karakalpak": [
+                    "qayta saylao",
+                    "qayta saylanıo"
+                ],
+                "Bashkir": [
+                    "ҡабаттан һайлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yeniden seçim"
+                ],
+                "Azerbaijani": [
+                    "yenidənseçilmə"
+                ],
+                "Tatar": [
+                    "яңадан сайлау"
+                ],
+                "Bashkir": [
+                    "яңынан һайлау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tekrar seçim"
+                ],
+                "Azerbaijani": [
+                    "təkrar seçki"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "täzeden saýlaw"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кабат сайлау"
+                ]
+            }
+        }
+    ]
+}
+```
+

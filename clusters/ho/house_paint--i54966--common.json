@@ -1,0 +1,102 @@
+{
+    "id": "i54966",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "house paint",
+    "en_definition": "paint used to cover the exterior woodwork of a house",
+    "tr_word": "ev boyası",
+    "tr_definition": "Bir evin dış cephesindeki ahşap veya diğer yüzeyleri kaplamak için kullanılan boya.",
+    "ru_word": "краска для дома",
+    "ru_definition": "краска, используемая для покрытия наружных деревянных или иных поверхностей дома.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "boya"
+                ],
+                "Azerbaijani": [
+                    "boya"
+                ],
+                "Turkmen": [
+                    "boýag"
+                ],
+                "Uzbek": [
+                    "bo'yoq"
+                ],
+                "Uyghur": [
+                    "بويىق"
+                ],
+                "Kazakh": [
+                    "бояу"
+                ],
+                "Kyrgyz": [
+                    "боёк"
+                ],
+                "Karakalpak": [
+                    "boyaq"
+                ],
+                "Tatar": [
+                    "буяу",
+                    "буягыч"
+                ],
+                "Bashkir": [
+                    "буяу",
+                    "буяу материалы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "rəng"
+                ],
+                "Turkmen": [
+                    "reňk"
+                ],
+                "Uzbek": [
+                    "rang"
+                ],
+                "Uyghur": [
+                    "رەڭ"
+                ],
+                "Kyrgyz": [
+                    "ыраң"
+                ],
+                "Karakalpak": [
+                    "reń"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "سىر"
+                ],
+                "Kazakh": [
+                    "сыр",
+                    "сыр-бояу"
+                ],
+                "Kyrgyz": [
+                    "сыр"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dış cephe boyası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "duvar boyası"
+                ]
+            }
+        }
+    ]
+}

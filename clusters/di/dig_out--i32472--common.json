@@ -1,0 +1,137 @@
+{
+    "id": "i32472",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "dig out",
+    "en_definition": "remove, harvest, or recover by digging",
+    "tr_word": "kazıp çıkarmak",
+    "tr_definition": "kazarak bir şeyi yerinden çıkarmak, hasat etmek veya geri kazanmak",
+    "ru_word": "откапывать",
+    "ru_definition": "извлекать, собирать урожай или восстанавливать что-либо путем копания",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kazıp çıkarmak",
+                    "kazmak"
+                ],
+                "Azerbaijani": [
+                    "qazıb çıxarmaq",
+                    "qazımaq"
+                ],
+                "Turkmen": [
+                    "gazyp çykarmak",
+                    "gazyp almak",
+                    "gazmak"
+                ],
+                "Uzbek": [
+                    "qazib olmoq",
+                    "qazimoq"
+                ],
+                "Uyghur": [
+                    "قېزىپ چىقارماق",
+                    "قازماق",
+                    "قېزىۋالماق"
+                ],
+                "Kazakh": [
+                    "қазу",
+                    "қазып алу"
+                ],
+                "Kyrgyz": [
+                    "казуу",
+                    "казып алуу",
+                    "казып чыгаруу"
+                ],
+                "Karakalpak": [
+                    "qazıp alıu",
+                    "qazıp shıǵarıu",
+                    "qazıu"
+                ],
+                "Tatar": [
+                    "казып чыгару",
+                    "казып алу",
+                    "казу"
+                ],
+                "Bashkir": [
+                    "ҡаҙып сығарыу",
+                    "ҡаҙып алыу",
+                    "ҡаҙыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "eşelemek"
+                ],
+                "Azerbaijani": [
+                    "eşib çıxarmaq"
+                ],
+                "Karakalpak": [
+                    "ashıu"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çıkarmak"
+                ],
+                "Azerbaijani": [
+                    "çıxarmaq"
+                ],
+                "Uzbek": [
+                    "chiqarmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arçamak"
+                ],
+                "Kazakh": [
+                    "аршу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kovlab olmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كولىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қопару"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "оюу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "актарып чыгару"
+                ]
+            }
+        }
+    ]
+}

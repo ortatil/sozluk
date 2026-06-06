@@ -1,0 +1,94 @@
+{
+    "id": "i37613",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "child neglect",
+    "en_definition": "failure of caretakers to provide adequate emotional and physical care for a child",
+    "tr_word": "çocuk ihmali",
+    "tr_definition": "Bakıcıların bir çocuğa yeterli duygusal ve fiziksel bakımı sağlamaması durumu.",
+    "ru_word": "пренебрежение нуждами ребенка",
+    "ru_definition": "неспособность опекунов обеспечить адекватный эмоциональный и физический уход за ребенком",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "bolaga e'tiborsizlik",
+                    "bolani qarovsiz qoldirish",
+                    "bolaga beparvolik",
+                    "bolani parvarishsiz qoldirish"
+                ],
+                "Uyghur": [
+                    "بالىلارغا سەل قاراش",
+                    "بالىلارنى خارلاش",
+                    "بالىلارغا كۆڭۈل بۆلمەسلىك",
+                    "بالىلارنى تاشلاپ قويۇش"
+                ],
+                "Kazakh": [
+                    "бала күтімінің жетіспеушілігі",
+                    "балаға қарамау",
+                    "баланы қараусыз қалдыру",
+                    "балаға көңіл бөлмеу"
+                ],
+                "Kyrgyz": [
+                    "баланы кароосуз калтыруу",
+                    "балага кайдыгерлик",
+                    "баланы бакпоо",
+                    "балага көңүл бурбоо"
+                ],
+                "Karakalpak": [
+                    "balaǵa qaramaushılıq",
+                    "bala kútimine nemquraylılıq",
+                    "bala tárbiyasına itibarsızlıq"
+                ],
+                "Tatar": [
+                    "бала караусызлыгы",
+                    "баланы ташлап калдыру",
+                    "балага игътибарсызлык",
+                    "баланы караудан баш тарту"
+                ],
+                "Bashkir": [
+                    "бала ҡарауһыҙлығы",
+                    "баланы иғтибарһыҙ ҡалдырыу",
+                    "балаға битарафлыҡ",
+                    "баланы тәрбиәләүҙән баш тартыу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çocuk ihmali",
+                    "çocuğun ihmal edilmesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bakım ihmali"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "uşaq baxımsızlığı",
+                    "uşağa laqeydlik",
+                    "uşaq diqqətsizliyi",
+                    "uşağa etinasızlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaga serimsizligi",
+                    "çaga idegsizligi",
+                    "çaga biperwaýlygy",
+                    "çaga üns berilmezligi"
+                ]
+            }
+        }
+    ]
+}

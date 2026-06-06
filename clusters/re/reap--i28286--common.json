@@ -1,0 +1,159 @@
+{
+    "id": "i28286",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "reap",
+    "en_definition": "gather, as of natural products",
+    "tr_word": "hasat etmek",
+    "tr_definition": "ekinleri veya doğal ürünleri toplamak",
+    "ru_word": "пожинать",
+    "ru_definition": "собирать урожай или природные продукты",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yığmaq"
+                ],
+                "Turkmen": [
+                    "ýygnamak"
+                ],
+                "Uzbek": [
+                    "yig'moq",
+                    "yig'ishtirmoq"
+                ],
+                "Uyghur": [
+                    "يىغماق",
+                    "يىغىۋالماق"
+                ],
+                "Kazakh": [
+                    "жинау"
+                ],
+                "Kyrgyz": [
+                    "жыйноо"
+                ],
+                "Karakalpak": [
+                    "jıynau"
+                ],
+                "Tatar": [
+                    "җыю"
+                ],
+                "Bashkir": [
+                    "йыйыу",
+                    "йыйып алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ormak"
+                ],
+                "Uzbek": [
+                    "o'rmoq"
+                ],
+                "Uyghur": [
+                    "ئورماق"
+                ],
+                "Kazakh": [
+                    "ору",
+                    "ору-жинау"
+                ],
+                "Kyrgyz": [
+                    "орок",
+                    "оро"
+                ],
+                "Karakalpak": [
+                    "oru"
+                ],
+                "Tatar": [
+                    "уру",
+                    "урып-җыю"
+                ],
+                "Bashkir": [
+                    "урыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hasat etmek"
+                ],
+                "Turkmen": [
+                    "hasyl ýygnamak"
+                ],
+                "Uyghur": [
+                    "ھوسۇل ئالماق"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dərmək"
+                ],
+                "Uzbek": [
+                    "termoq"
+                ],
+                "Karakalpak": [
+                    "terip alıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "biçmek"
+                ],
+                "Azerbaijani": [
+                    "biçmək"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "toplamak"
+                ],
+                "Azerbaijani": [
+                    "toplamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кесу"
+                ],
+                "Kyrgyz": [
+                    "кесүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "devşirmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чабуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "orıp-jıynau"
+                ]
+            }
+        }
+    ]
+}

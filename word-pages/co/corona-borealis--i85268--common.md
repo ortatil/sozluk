@@ -1,0 +1,153 @@
+# Corona borealis
+| Field | Detail |
+|---|---|
+| **ID** | i85268 |
+| **English** | corona borealis |
+| **Type** | noun |
+| **Definition** | a small constellation in the northern hemisphere between Bootes and Hercules |
+| **Source** | common |
+| **Ortatil** | täç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| ئىكلىل | iklil |
+| **Kyrgyz** | |
+| Таажы | taajı |
+
+```json
+{
+    "id": "i85268",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "corona borealis",
+    "en_definition": "a small constellation in the northern hemisphere between Bootes and Hercules",
+    "tr_word": "Kuzey Tacı",
+    "tr_definition": "Kuzey yarımkürede, Çoban ve Herkül takımyıldızları arasında yer alan küçük bir takımyıldız.",
+    "ru_word": "Северная Корона",
+    "ru_definition": "небольшое созвездие северного полушария, расположенное между Волопасом и Геркулесом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "Tac-i Şimali"
+                ],
+                "Uyghur": [
+                    "تاجدار يۇلتۇز تۈركۈمى",
+                    "تاجى يۇلتۇز تۈركۈمى"
+                ],
+                "Kazakh": [
+                    "Тәж жұлдызы"
+                ],
+                "Kyrgyz": [
+                    "Таажы"
+                ],
+                "Tatar": [
+                    "Таҗ йолдызлыгы"
+                ],
+                "Bashkir": [
+                    "Таж йондоҙлоғо"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "İklil-i Şimali"
+                ],
+                "Uzbek": [
+                    "Iklil",
+                    "Iklili shimoliy"
+                ],
+                "Uyghur": [
+                    "ئىكلىل"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kyrgyz": [
+                    "Түндүк Таажысы"
+                ],
+                "Tatar": [
+                    "Төньяк Таҗ"
+                ],
+                "Bashkir": [
+                    "Төньяҡ Таж"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "Şimal Tacı"
+                ],
+                "Uzbek": [
+                    "Shimoliy Toj"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Täç"
+                ],
+                "Karakalpak": [
+                    "Táj"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "Kuzey Tacı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "Demirgazyk Täji"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "Солтүстік Тәж"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "Sınǵan tabaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "Кырык кыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "Кәләш Тажы"
+                ]
+            }
+        }
+    ]
+}
+```
+

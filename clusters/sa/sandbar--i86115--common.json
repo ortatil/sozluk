@@ -1,0 +1,125 @@
+{
+    "id": "i86115",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "sandbar",
+    "en_definition": "a bar of sand",
+    "tr_word": "kum bankı",
+    "tr_definition": "Deniz veya nehir sularının sığ olduğu yerlerde biriken kum yığını.",
+    "ru_word": "песчаная коса",
+    "ru_definition": "Длинная узкая намывная полоса суши из песка, соединяющаяся одним концом с берегом.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kumul",
+                    "kumsal",
+                    "kum sığlığı",
+                    "kum seti"
+                ],
+                "Azerbaijani": [
+                    "qum dili",
+                    "qum təpəsi",
+                    "qum bəndi"
+                ],
+                "Turkmen": [
+                    "gumak",
+                    "gum depesi"
+                ],
+                "Uzbek": [
+                    "qumloq",
+                    "qum til"
+                ],
+                "Uyghur": [
+                    "قۇم بارخانى",
+                    "قۇم ساھىلى",
+                    "قۇم تىلى",
+                    "قۇم دۆۋىسى"
+                ],
+                "Kazakh": [
+                    "құм қайраң",
+                    "құм бел",
+                    "құмдауыт"
+                ],
+                "Kyrgyz": [
+                    "кумдук",
+                    "кумдуу жээк",
+                    "кумдуу тайыздык"
+                ],
+                "Karakalpak": [
+                    "qum qayrań",
+                    "qumlıq",
+                    "qum bel"
+                ],
+                "Tatar": [
+                    "комлык",
+                    "ком сае"
+                ],
+                "Bashkir": [
+                    "ҡомлоҡ",
+                    "ҡом һайлығы",
+                    "ҡом утрауы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sığlık"
+                ],
+                "Uzbek": [
+                    "sayozlik"
+                ],
+                "Kyrgyz": [
+                    "сай"
+                ],
+                "Tatar": [
+                    "сайлык"
+                ],
+                "Bashkir": [
+                    "һайлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қайраң"
+                ],
+                "Karakalpak": [
+                    "qayrań"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dayazlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çäge depesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çäge barmagy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "orolcha"
+                ]
+            }
+        }
+    ]
+}

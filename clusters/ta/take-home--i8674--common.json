@@ -1,0 +1,144 @@
+{
+    "id": "i8674",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "take-home",
+    "en_definition": "(of salary or wages) remaining after all deductions including taxes",
+    "tr_word": "net",
+    "tr_definition": "Vergi ve diğer kesintiler yapıldıktan sonra elden ele geçen (maaş veya ücret).",
+    "ru_word": "чистый",
+    "ru_definition": "Оставшийся после вычета всех налогов и обязательных платежей (о заработной плате).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "saf"
+                ],
+                "Uzbek": [
+                    "sof"
+                ],
+                "Uyghur": [
+                    "ساپ"
+                ],
+                "Karakalpak": [
+                    "sap"
+                ],
+                "Tatar": [
+                    "саф"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "toza"
+                ],
+                "Kazakh": [
+                    "таза"
+                ],
+                "Kyrgyz": [
+                    "таза"
+                ],
+                "Karakalpak": [
+                    "taza"
+                ],
+                "Bashkir": [
+                    "таҙа"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "قولغا تېگىدىغان"
+                ],
+                "Kazakh": [
+                    "қолға тиетін",
+                    "қолма-қол"
+                ],
+                "Kyrgyz": [
+                    "колдо калуучу",
+                    "колго тийүүчү"
+                ],
+                "Karakalpak": [
+                    "qolǵa tietіn"
+                ],
+                "Tatar": [
+                    "кулга тия торган"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "qalıq"
+                ],
+                "Turkmen": [
+                    "galan"
+                ],
+                "Uzbek": [
+                    "qolgan"
+                ],
+                "Bashkir": [
+                    "ҡалдыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "xalis"
+                ],
+                "Uyghur": [
+                    "خالاس"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "net"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ele geçen"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "təmiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "arassa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "päk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "чиста"
+                ]
+            }
+        }
+    ]
+}

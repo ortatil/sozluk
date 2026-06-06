@@ -1,0 +1,173 @@
+{
+    "id": "i91608",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "newspaper critic",
+    "en_definition": "a critic who writes a column for the newspapers",
+    "tr_word": "gazete eleştirmeni",
+    "tr_definition": "Gazeteler için köşe yazısı yazan ve çeşitli eserleri veya durumları değerlendiren eleştirmen.",
+    "ru_word": "газетный критик",
+    "ru_definition": "Критик, ведущий колонку в газетах и занимающийся анализом произведений искусства или общественных событий.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tənqidçi"
+                ],
+                "Turkmen": [
+                    "tankytçy"
+                ],
+                "Uzbek": [
+                    "taqrizchi",
+                    "tanqidchi"
+                ],
+                "Uyghur": [
+                    "تەنقىدچى"
+                ],
+                "Tatar": [
+                    "тәнкыйтьче"
+                ],
+                "Bashkir": [
+                    "тәнҡитсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "makalaçy"
+                ],
+                "Uyghur": [
+                    "ماقالە يازغۇچى"
+                ],
+                "Kyrgyz": [
+                    "макалачы"
+                ],
+                "Karakalpak": [
+                    "maqalashı"
+                ],
+                "Tatar": [
+                    "мәкаләче"
+                ],
+                "Bashkir": [
+                    "мәҡәләсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "synçy"
+                ],
+                "Kazakh": [
+                    "сыншы"
+                ],
+                "Kyrgyz": [
+                    "сынчы"
+                ],
+                "Karakalpak": [
+                    "sınshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "әдебиетші"
+                ],
+                "Kyrgyz": [
+                    "адабиятчы"
+                ],
+                "Karakalpak": [
+                    "ádebiyatshı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "gazete eleştirmeni"
+                ],
+                "Azerbaijani": [
+                    "qəzet tənqidçisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "köşe yazarı"
+                ],
+                "Bashkir": [
+                    "күҙәтеүсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "münekkit"
+                ],
+                "Uzbek": [
+                    "munaqqid"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "yazar"
+                ],
+                "Tatar": [
+                    "язучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "icmalçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوبزورچى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шолушы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қаламгер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "серепчи"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "мөхбир"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "id": "i57187",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pharmaceutical",
+    "en_definition": "drug or medicine that is prepared or dispensed in pharmacies and used in medical treatment",
+    "tr_word": "farmasötik",
+    "tr_definition": "eczanelerde hazırlanan veya dağıtılan, tıbbi tedavide kullanılan ilaç veya tıbbi madde",
+    "ru_word": "фармацевтический препарат",
+    "ru_definition": "лекарственное средство или медикамент, приготовленный или отпускаемый в аптеках и используемый в медицинских целях",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "deva",
+                    "derman"
+                ],
+                "Azerbaijani": [
+                    "dərman"
+                ],
+                "Turkmen": [
+                    "derman"
+                ],
+                "Uzbek": [
+                    "dori",
+                    "darmon"
+                ],
+                "Uyghur": [
+                    "دورا"
+                ],
+                "Kazakh": [
+                    "дәрі",
+                    "дәрі-дәрмек"
+                ],
+                "Kyrgyz": [
+                    "дары",
+                    "дармек",
+                    "дары-дармек"
+                ],
+                "Karakalpak": [
+                    "dári",
+                    "dári-dárman"
+                ],
+                "Tatar": [
+                    "дару"
+                ],
+                "Bashkir": [
+                    "дарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "em"
+                ],
+                "Kazakh": [
+                    "ем"
+                ],
+                "Kyrgyz": [
+                    "эм"
+                ],
+                "Tatar": [
+                    "им"
+                ],
+                "Bashkir": [
+                    "им"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "shifo"
+                ],
+                "Kazakh": [
+                    "шипа"
+                ],
+                "Karakalpak": [
+                    "shipa"
+                ],
+                "Tatar": [
+                    "шифа"
+                ],
+                "Bashkir": [
+                    "шифа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ilaç"
+                ],
+                "Uyghur": [
+                    "ئىلاج"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əczə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dava"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müalicə vasitəsi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "serişde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "malham"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دورا-دەرمان"
+                ]
+            }
+        }
+    ]
+}

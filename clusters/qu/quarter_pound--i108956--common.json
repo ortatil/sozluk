@@ -1,0 +1,88 @@
+{
+    "id": "i108956",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "quarter pound",
+    "en_definition": "4 ounces avoirdupois",
+    "tr_word": "çeyrek libre",
+    "tr_definition": "Yaklaşık 113 grama tekabül eden, bir librenin dörtte biri ağırlığındaki ölçü birimi.",
+    "ru_word": "четверть фунта",
+    "ru_definition": "Единица веса, равная одной четвертой части фунта (приблизительно 113 граммов).",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çeyrek libre"
+                ],
+                "Turkmen": [
+                    "çärýek funt"
+                ],
+                "Uzbek": [
+                    "chorak funt"
+                ],
+                "Uyghur": [
+                    "چارەك قاداق"
+                ],
+                "Kazakh": [
+                    "ширек фунт",
+                    "ширек қадақ"
+                ],
+                "Kyrgyz": [
+                    "чейрек фунт"
+                ],
+                "Karakalpak": [
+                    "shirek qadaq",
+                    "shirek funt"
+                ],
+                "Tatar": [
+                    "чирек кадак"
+                ],
+                "Bashkir": [
+                    "сирек фунт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz on üç gram"
+                ],
+                "Azerbaijani": [
+                    "yüz on üç qram"
+                ],
+                "Turkmen": [
+                    "ýüz gram"
+                ],
+                "Uzbek": [
+                    "yuz yigirma besh gramm"
+                ],
+                "Tatar": [
+                    "йөз грамм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "dörddə bir funt"
+                ],
+                "Kyrgyz": [
+                    "төрттөн бир фунт"
+                ],
+                "Bashkir": [
+                    "дүрттән бер фунт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆتتىن بىر قاداق"
+                ]
+            }
+        }
+    ]
+}

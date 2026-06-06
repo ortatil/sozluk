@@ -1,0 +1,143 @@
+{
+    "id": "i26337",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "reset",
+    "en_definition": "set anew",
+    "tr_word": "sıfırlamak",
+    "tr_definition": "bir şeyi başlangıç ayarlarına geri döndürmek veya yeniden ayarlamak",
+    "ru_word": "сбрасывать",
+    "ru_definition": "возвращать устройство или систему в исходное состояние",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yenilemek"
+                ],
+                "Azerbaijani": [
+                    "yenidən qurmaq",
+                    "yeniləmək"
+                ],
+                "Uzbek": [
+                    "yangilamoq"
+                ],
+                "Uyghur": [
+                    "يېڭىباشتىن تەڭشەش"
+                ],
+                "Kazakh": [
+                    "жаңарту"
+                ],
+                "Kyrgyz": [
+                    "жаңылоо"
+                ],
+                "Karakalpak": [
+                    "jańadan qoyıo"
+                ],
+                "Tatar": [
+                    "яңарту",
+                    "яңадан кую",
+                    "яңабаштан башлау"
+                ],
+                "Bashkir": [
+                    "яңынан ҡороу",
+                    "яңынан урынлаштырыу",
+                    "яңынан билдәләү"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gaýtadan gurmak"
+                ],
+                "Uzbek": [
+                    "qayta o'rnatmoq",
+                    "qayta sozlamoq"
+                ],
+                "Uyghur": [
+                    "قايتا تەڭشەش"
+                ],
+                "Kazakh": [
+                    "қайта орнату",
+                    "қайта қою"
+                ],
+                "Kyrgyz": [
+                    "кайра орнотуу",
+                    "кайра коюу"
+                ],
+                "Karakalpak": [
+                    "qayta ornatıo",
+                    "qayta tikleo"
+                ],
+                "Tatar": [
+                    "кайтару"
+                ],
+                "Bashkir": [
+                    "ҡайтанан ҡороу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "baştan kurmak"
+                ],
+                "Kyrgyz": [
+                    "баштапкы абалга келтирүү"
+                ],
+                "Karakalpak": [
+                    "basqıshqa qaytarıo"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tazelemek"
+                ],
+                "Azerbaijani": [
+                    "təzələmək"
+                ],
+                "Turkmen": [
+                    "täzelemek",
+                    "täzeden düzmek"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "aslyna getirmek"
+                ],
+                "Uzbek": [
+                    "asliga qaytarmoq"
+                ],
+                "Uyghur": [
+                    "ئەسلىگە كەلتۈرۈش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sıfırlamak"
+                ],
+                "Azerbaijani": [
+                    "sıfırlamaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қалпына келтіру"
+                ]
+            }
+        }
+    ]
+}

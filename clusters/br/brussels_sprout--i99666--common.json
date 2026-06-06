@@ -1,0 +1,110 @@
+{
+    "id": "i99666",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "brussels sprout",
+    "en_definition": "plant grown for its stout stalks of edible small green heads resembling diminutive cabbages",
+    "tr_word": "Brüksel lahanası",
+    "tr_definition": "Küçük lahanalara benzeyen, gövde üzerindeki tomurcukları yenen bir sebze türü.",
+    "ru_word": "брюссельская капуста",
+    "ru_definition": "Овощная культура, представляющая собой маленькие кочанчики, растущие на стебле растения.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "Brüksel lahanası"
+                ],
+                "Azerbaijani": [
+                    "Brüssel kələmi"
+                ],
+                "Turkmen": [
+                    "Brýussel kelemi"
+                ],
+                "Uzbek": [
+                    "bryussel karami"
+                ],
+                "Uyghur": [
+                    "بىريۇسسېل يېسىۋىلىىكى"
+                ],
+                "Kazakh": [
+                    "брюссель қырыққабаты"
+                ],
+                "Kyrgyz": [
+                    "брюссель капустасы"
+                ],
+                "Karakalpak": [
+                    "bryussel qırıqqabatı"
+                ],
+                "Tatar": [
+                    "Брюссель кәбестәсе"
+                ],
+                "Bashkir": [
+                    "Брюссель кәбеҫтәһе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küçük lahana"
+                ],
+                "Uzbek": [
+                    "kichik karam"
+                ],
+                "Uyghur": [
+                    "كىچىك يېسىۋىلەك"
+                ],
+                "Kyrgyz": [
+                    "кичинекей капуста"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "кішкене қырыққабат"
+                ],
+                "Karakalpak": [
+                    "kіshkene qırıqqabat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "frenk lahanası"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "cücə kələm"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kiçi kelem"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈگمە يېسىۋىلەك"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "башлы кәбестә"
+                ]
+            }
+        }
+    ]
+}

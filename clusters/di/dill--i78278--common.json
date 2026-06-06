@@ -1,0 +1,97 @@
+{
+    "id": "i78278",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dill",
+    "en_definition": "aromatic threadlike foliage of the dill plant used as seasoning",
+    "tr_word": "dereotu",
+    "tr_definition": "maydanozgillerden, ince yapraklı, güzel kokulu bir bitki ve bu bitkinin baharat olarak kullanılan yaprakları",
+    "ru_word": "укроп",
+    "ru_definition": "пряное травянистое растение с тонкими перистыми листьями, используемое как приправа",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şüyüd"
+                ],
+                "Uzbek": [
+                    "shivit"
+                ],
+                "Uyghur": [
+                    "شۈيۈت"
+                ],
+                "Kazakh": [
+                    "шүйгін"
+                ],
+                "Karakalpak": [
+                    "shúyit"
+                ],
+                "Tatar": [
+                    "шөет"
+                ],
+                "Bashkir": [
+                    "шөбөт"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ukrop"
+                ],
+                "Uzbek": [
+                    "ukrop"
+                ],
+                "Kyrgyz": [
+                    "укроп"
+                ],
+                "Karakalpak": [
+                    "ukrop"
+                ],
+                "Tatar": [
+                    "укроп"
+                ],
+                "Bashkir": [
+                    "укроп"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dereotu",
+                    "teretaze"
+                ],
+                "Azerbaijani": [
+                    "tərə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аскөк"
+                ],
+                "Kyrgyz": [
+                    "ашкөк"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "şibit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كەرەپشە"
+                ]
+            }
+        }
+    ]
+}

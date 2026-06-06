@@ -1,0 +1,83 @@
+{
+    "id": "i56240",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "milking machine",
+    "en_definition": "machine consisting of a suction apparatus for milking cows mechanically",
+    "tr_word": "sağım makinesi",
+    "tr_definition": "İnekleri mekanik olarak sağmak için kullanılan, vakum sistemiyle çalışan düzenek.",
+    "ru_word": "доильный аппарат",
+    "ru_definition": "Устройство, предназначенное для механического доения коров с помощью вакуума.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sağım makinesi",
+                    "sağım düzeneği"
+                ],
+                "Azerbaijani": [
+                    "sağım aparatı",
+                    "sağım maşını"
+                ],
+                "Turkmen": [
+                    "sagyş apparaty",
+                    "sagyş guraly"
+                ],
+                "Uzbek": [
+                    "sogʻish apparati",
+                    "sogʻish mashinasi"
+                ],
+                "Uyghur": [
+                    "سېغىش ئۈسكۈنىسى"
+                ],
+                "Kazakh": [
+                    "сауын аппараты",
+                    "сауын машинасы",
+                    "сауу құрылғысы"
+                ],
+                "Karakalpak": [
+                    "saoın apparatı",
+                    "saoın mashinası"
+                ],
+                "Tatar": [
+                    "саву аппараты",
+                    "саву машинасы"
+                ],
+                "Bashkir": [
+                    "һауын аппараты",
+                    "һауын ҡоролмаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "süt sağma makinesi"
+                ],
+                "Azerbaijani": [
+                    "südsağan aparat"
+                ],
+                "Uyghur": [
+                    "سۈت سېغىش ماشىنىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "süýt sagyjy enjam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "саан аппараты",
+                    "саан машинасы"
+                ]
+            }
+        }
+    ]
+}

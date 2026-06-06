@@ -1,0 +1,104 @@
+{
+    "id": "i12351",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "smoke-free",
+    "en_definition": "free of smoke",
+    "tr_word": "sigara içilmeyen",
+    "tr_definition": "dumanın bulunmadığı veya tütün ürünlerinin kullanımının yasak olduğu yer",
+    "ru_word": "бездымный",
+    "ru_definition": "свободный от дыма или место, где запрещено курение",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tüstüsüz"
+                ],
+                "Turkmen": [
+                    "tüssesiz",
+                    "tüsseden arassa"
+                ],
+                "Uyghur": [
+                    "تۈتۈنسىز",
+                    "تۈتۈن يوق"
+                ],
+                "Kazakh": [
+                    "түтінсіз",
+                    "түтін жоқ"
+                ],
+                "Kyrgyz": [
+                    "түтүнсүз"
+                ],
+                "Karakalpak": [
+                    "tútinsiz",
+                    "tútin joq"
+                ],
+                "Tatar": [
+                    "төтенсез",
+                    "төтеннән азат"
+                ],
+                "Bashkir": [
+                    "төтөнһөҙ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "таза"
+                ],
+                "Kyrgyz": [
+                    "таза"
+                ],
+                "Karakalpak": [
+                    "taza"
+                ],
+                "Bashkir": [
+                    "таҙа"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dumansız",
+                    "duman barındırmayan"
+                ],
+                "Azerbaijani": [
+                    "dumansız"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "tutunsiz",
+                    "tutsiz"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "musaffo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ышсыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "саф"
+                ]
+            }
+        }
+    ]
+}

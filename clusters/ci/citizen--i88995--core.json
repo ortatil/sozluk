@@ -1,0 +1,130 @@
+{
+    "id": "i88995",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "citizen",
+    "en_definition": "a native or naturalized member of a state or other political community",
+    "tr_word": "vatandaş",
+    "tr_definition": "bir devletin veya siyasi topluluğun yerli veya vatandaşlığa kabul edilmiş üyesi",
+    "ru_word": "гражданин",
+    "ru_definition": "лицо, принадлежащее к постоянному населению данного государства, пользующееся его защитой и наделенное совокупностью прав и обязанностей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vatandaş"
+                ],
+                "Azerbaijani": [
+                    "vətəndaş"
+                ],
+                "Uzbek": [
+                    "vatandosh"
+                ],
+                "Uyghur": [
+                    "ۋەتەنداش"
+                ],
+                "Karakalpak": [
+                    "watanlas"
+                ],
+                "Tatar": [
+                    "ватандаш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "fuqaro"
+                ],
+                "Uyghur": [
+                    "پۇقرا"
+                ],
+                "Karakalpak": [
+                    "puqara"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tebaa"
+                ],
+                "Azerbaijani": [
+                    "təbəə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "граждан"
+                ],
+                "Bashkir": [
+                    "граждан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "il"
+                ],
+                "Bashkir": [
+                    "ил кешеһе",
+                    "илдәш"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yurttaş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "raýat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "азамат"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұрғын"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "жаран"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "атуул"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "вәкил"
+                ]
+            }
+        }
+    ]
+}

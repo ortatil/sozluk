@@ -1,0 +1,58 @@
+{
+    "id": "i12106",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "hundred and one",
+    "en_definition": "being one more than one hundred",
+    "tr_word": "yüz bir",
+    "tr_definition": "yüzden sonra gelen sayı, yüz artı bir",
+    "ru_word": "сто один",
+    "ru_definition": "число, следующее за числом сто; сто плюс один",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yüz bir"
+                ],
+                "Azerbaijani": [
+                    "yüz bir"
+                ],
+                "Turkmen": [
+                    "ýüz bir"
+                ],
+                "Uzbek": [
+                    "yuz bir",
+                    "yuz bitta"
+                ],
+                "Uyghur": [
+                    "يۈز بىر"
+                ],
+                "Kazakh": [
+                    "жүз бір"
+                ],
+                "Kyrgyz": [
+                    "жүз бир"
+                ],
+                "Karakalpak": [
+                    "júz bir"
+                ],
+                "Tatar": [
+                    "йөз дә бер",
+                    "йөз бер"
+                ],
+                "Bashkir": [
+                    "йөҙ ҙә бер",
+                    "йөҙ бер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "بىر يۈز بىر"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": "i76527",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pea flour",
+    "en_definition": "meal made from dried peas",
+    "tr_word": "bezelye unu",
+    "tr_definition": "kurutulmuş bezelyelerden elde edilen un",
+    "ru_word": "гороховая мука",
+    "ru_definition": "мука, полученная из сушеного гороха",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پۇرچاق ئۇنى"
+                ],
+                "Kazakh": [
+                    "бұршақ ұны"
+                ],
+                "Kyrgyz": [
+                    "буурчак уну"
+                ],
+                "Karakalpak": [
+                    "búrshaq unı"
+                ],
+                "Tatar": [
+                    "борчак оны"
+                ],
+                "Bashkir": [
+                    "борсак оно",
+                    "борсак талҡаны"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "noxud unu"
+                ],
+                "Turkmen": [
+                    "nohut uny"
+                ],
+                "Uzbek": [
+                    "no'xat uni",
+                    "no'xat talqoni"
+                ],
+                "Karakalpak": [
+                    "noqat unı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bezelye unu",
+                    "bezelye tozu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "كۆك پۇرچاق ئۇنى"
+                ]
+            }
+        }
+    ]
+}

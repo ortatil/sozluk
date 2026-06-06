@@ -1,0 +1,105 @@
+{
+    "id": "i18727",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "downstairs",
+    "en_definition": "on a floor below",
+    "tr_word": "alt katta",
+    "tr_definition": "bulunulan katın altındaki katta",
+    "ru_word": "внизу",
+    "ru_definition": "на нижнем этаже",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "aşağıda",
+                    "aşağı katta"
+                ],
+                "Azerbaijani": [
+                    "aşağıda",
+                    "aşağı mərtəbədə"
+                ],
+                "Turkmen": [
+                    "aşakda",
+                    "aşaky gatda"
+                ],
+                "Kazakh": [
+                    "астында"
+                ],
+                "Tatar": [
+                    "аста"
+                ],
+                "Bashkir": [
+                    "аҫта"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۆۋەندە",
+                    "تۆۋەن قەۋەتتە"
+                ],
+                "Kazakh": [
+                    "төменде",
+                    "төменгі қабатта"
+                ],
+                "Kyrgyz": [
+                    "төмөндө",
+                    "төмөн"
+                ],
+                "Karakalpak": [
+                    "tómende",
+                    "tómengi qabatta"
+                ],
+                "Tatar": [
+                    "түбәндә"
+                ],
+                "Bashkir": [
+                    "түбәндә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "alt katta"
+                ],
+                "Azerbaijani": [
+                    "altda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "pastda",
+                    "pastki qavatda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quyida"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاستىنقى قەۋەتتە"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ылдыйда"
+                ]
+            }
+        }
+    ]
+}

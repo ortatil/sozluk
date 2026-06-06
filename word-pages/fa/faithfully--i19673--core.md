@@ -1,0 +1,238 @@
+# Faithfully
+| Field | Detail |
+|---|---|
+| **ID** | i19673 |
+| **English** | faithfully |
+| **Type** | adverb |
+| **Definition** | in a faithful manner |
+| **Source** | core |
+| **Ortatil** | ḍoğruluqla |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| сеніммен | senimmen |
+| адалдықпен | adaldıqpen |
+| адал | adal |
+| беріле | berile |
+| шыншылдықпен | şınşıldıqpen |
+| **Kyrgyz** | |
+| ишенимдүү | işenimdüü |
+| **Bashkir** | |
+| ихлас | ixlas |
+| тоғро | toğro |
+
+```json
+{
+    "id": "i19673",
+    "type": "adverb",
+    "batch": "core",
+    "en_word": "faithfully",
+    "en_definition": "in a faithful manner",
+    "tr_word": "sadakatle",
+    "tr_definition": "sadık bir şekilde, bağlılıkla",
+    "ru_word": "верно",
+    "ru_definition": "преданным образом, с соблюдением верности",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sadakatle",
+                    "sadıkane"
+                ],
+                "Azerbaijani": [
+                    "sədaqətlə"
+                ],
+                "Turkmen": [
+                    "sadakat bilen"
+                ],
+                "Uzbek": [
+                    "sadoqat bilan"
+                ],
+                "Uyghur": [
+                    "ساداقەت بىلەن",
+                    "سادىقلىق بىلەن"
+                ],
+                "Karakalpak": [
+                    "sadıqlıq penen",
+                    "sadıqlıq pen"
+                ],
+                "Bashkir": [
+                    "саҙаҡәт менән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "vefayla"
+                ],
+                "Azerbaijani": [
+                    "vəfayla"
+                ],
+                "Turkmen": [
+                    "wepalylyk bilen"
+                ],
+                "Uzbek": [
+                    "vafodorlik bilan"
+                ],
+                "Uyghur": [
+                    "ۋاپادارلىق بىلەن"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "ixlos bilan"
+                ],
+                "Uyghur": [
+                    "إىخلاس بىلەن"
+                ],
+                "Karakalpak": [
+                    "ıqlas penen"
+                ],
+                "Tatar": [
+                    "ихласлык белән"
+                ],
+                "Bashkir": [
+                    "ихлас",
+                    "ихласлыҡ менән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "doğruluqla"
+                ],
+                "Turkmen": [
+                    "dogruçyllyk bilen"
+                ],
+                "Tatar": [
+                    "тугрылык белән",
+                    "вәгъдәгә тугры"
+                ],
+                "Bashkir": [
+                    "тоғро",
+                    "тоғролоҡ менән"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сеніммен"
+                ],
+                "Kyrgyz": [
+                    "ишенимдүү"
+                ],
+                "Karakalpak": [
+                    "isenimli túrde"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "sidq-ürəklə"
+                ],
+                "Uzbek": [
+                    "sidqidildan"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "адалдықпен",
+                    "адал"
+                ],
+                "Kyrgyz": [
+                    "адалдык менен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "беріле"
+                ],
+                "Kyrgyz": [
+                    "берилгендик менен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "шыншылдықпен"
+                ],
+                "Kyrgyz": [
+                    "чын дилден"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "bağlılıkla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dürüstçe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "imanla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ynanyp"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "ак ниеттүүлүк менен"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "саф күңел белән"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "pak keoilden"
+                ]
+            }
+        }
+    ]
+}
+```
+

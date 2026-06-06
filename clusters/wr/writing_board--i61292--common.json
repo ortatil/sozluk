@@ -1,0 +1,107 @@
+{
+    "id": "i61292",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "writing board",
+    "en_definition": "work surface consisting of a wide lightweight board that can be placed across the lap and used for writing",
+    "tr_word": "yazı tahtası",
+    "tr_definition": "Dizlerin üzerine yerleştirilebilen ve yazı yazmak için kullanılan geniş, hafif bir çalışma yüzeyi.",
+    "ru_word": "планшет для письма",
+    "ru_definition": "Широкая легкая доска, которую можно положить на колени и использовать в качестве поверхности для письма.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yazı tahtası",
+                    "yazı levhası"
+                ],
+                "Azerbaijani": [
+                    "yazı lövhəsi",
+                    "yazı altlığı"
+                ],
+                "Turkmen": [
+                    "ýazuw tagtasy"
+                ],
+                "Uzbek": [
+                    "yozuv taxtasi"
+                ],
+                "Uyghur": [
+                    "يېزىق تاختىسى",
+                    "يېزىقچىلىق تاختىسى"
+                ],
+                "Kazakh": [
+                    "жазу тақтасы"
+                ],
+                "Kyrgyz": [
+                    "жазуу тактасы"
+                ],
+                "Karakalpak": [
+                    "jazıo taxtayshası"
+                ],
+                "Tatar": [
+                    "язу тактасы"
+                ],
+                "Bashkir": [
+                    "яҙыу таҡтаһы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tagta"
+                ],
+                "Uzbek": [
+                    "taxtacha"
+                ],
+                "Uyghur": [
+                    "تاختا"
+                ],
+                "Kazakh": [
+                    "тақташа"
+                ],
+                "Kyrgyz": [
+                    "тактача"
+                ],
+                "Karakalpak": [
+                    "taxtaysha"
+                ],
+                "Tatar": [
+                    "такта"
+                ],
+                "Bashkir": [
+                    "таҡта"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "altlık"
+                ],
+                "Azerbaijani": [
+                    "altlıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "lewha"
+                ],
+                "Uzbek": [
+                    "lavh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тіреуіш"
+                ]
+            }
+        }
+    ]
+}

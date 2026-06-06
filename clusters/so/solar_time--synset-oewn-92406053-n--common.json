@@ -1,0 +1,90 @@
+{
+    "id": "synset-oewn-92406053-n",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "solar time",
+    "en_definition": "a reckoning of the passage of time based on the Sun's position in the sky.",
+    "tr_word": "güneş zamanı",
+    "tr_definition": "Güneş'in gökyüzündeki konumuna göre hesaplanan zaman ölçümü.",
+    "ru_word": "солнечное время",
+    "ru_definition": "система отсчёта времени, основанная на положении Солнца на небе.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "güneş zamanı",
+                    "güneş vakti"
+                ],
+                "Azerbaijani": [
+                    "günəş vaxtı",
+                    "günəş zamanı"
+                ],
+                "Turkmen": [
+                    "gün wagty",
+                    "gün sagady"
+                ],
+                "Kazakh": [
+                    "күн уақыты",
+                    "күн сағаты"
+                ],
+                "Kyrgyz": [
+                    "күн убактысы",
+                    "күн сааты"
+                ],
+                "Karakalpak": [
+                    "kún uaqtı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "quyosh vaqti"
+                ],
+                "Uyghur": [
+                    "قۇياش ۋاقتى"
+                ],
+                "Karakalpak": [
+                    "quyash uaqtı"
+                ],
+                "Tatar": [
+                    "кояш вакыты",
+                    "кояш сәгате"
+                ],
+                "Bashkir": [
+                    "ҡояш ваҡыты",
+                    "ҡояш сәғәте"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "şemsi vakit"
+                ],
+                "Uyghur": [
+                    "شەمسىيە ۋاقتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күн мезгілі"
+                ],
+                "Kyrgyz": [
+                    "күн мезгили"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "haqiqiy quyosh vaqti"
+                ]
+            }
+        }
+    ]
+}

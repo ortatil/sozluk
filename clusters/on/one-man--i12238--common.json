@@ -1,0 +1,123 @@
+{
+    "id": "i12238",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "one-man",
+    "en_definition": "designed for or restricted to a single person",
+    "tr_word": "tek kişilik",
+    "tr_definition": "Sadece bir kişi için tasarlanmış veya bir kişiyle sınırlı olan",
+    "ru_word": "одноместный",
+    "ru_definition": "Предназначенный для одного человека или рассчитанный на одного",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "bir nəfərlik"
+                ],
+                "Turkmen": [
+                    "biradamlyk"
+                ],
+                "Uzbek": [
+                    "bir kishilik"
+                ],
+                "Uyghur": [
+                    "بىر كىشىلىك"
+                ],
+                "Kazakh": [
+                    "бір кісілік"
+                ],
+                "Kyrgyz": [
+                    "бир кишилик",
+                    "бир адамдык"
+                ],
+                "Karakalpak": [
+                    "bir adamlıq",
+                    "bir kisilik"
+                ],
+                "Tatar": [
+                    "бер кешелек",
+                    "бер кешегә",
+                    "бер кешелекле"
+                ],
+                "Bashkir": [
+                    "бер кешелек",
+                    "бер кешегә",
+                    "бер кешелекле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "yolg'iz"
+                ],
+                "Uyghur": [
+                    "يالغۇز كىشىلىك"
+                ],
+                "Kazakh": [
+                    "жалғыз"
+                ],
+                "Kyrgyz": [
+                    "жалгыз кишилик"
+                ],
+                "Karakalpak": [
+                    "jalǵız"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "ýeke",
+                    "ýekelik",
+                    "ýekebara"
+                ],
+                "Uzbek": [
+                    "yakka"
+                ],
+                "Kazakh": [
+                    "жеке"
+                ],
+                "Karakalpak": [
+                    "jeke"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tek kişilik",
+                    "tekil"
+                ],
+                "Azerbaijani": [
+                    "tək nəfərlik",
+                    "təkkişilik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "münferit"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەنھا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "дара"
+                ]
+            }
+        }
+    ]
+}

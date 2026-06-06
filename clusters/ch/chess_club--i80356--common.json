@@ -1,0 +1,79 @@
+{
+    "id": "i80356",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chess club",
+    "en_definition": "a club of people to play chess",
+    "tr_word": "satranç kulübü",
+    "tr_definition": "satranç oynamak için bir araya gelen kişilerin oluşturduğu topluluk",
+    "ru_word": "шахматный клуб",
+    "ru_definition": "клуб любителей игры в шахматы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şahmat klubu",
+                    "şahmat dərnəyi",
+                    "şahmat məclisi"
+                ],
+                "Uzbek": [
+                    "shaxmat klubi",
+                    "shaxmat to'garagi",
+                    "shaxmat uyushmasi",
+                    "shaxmat anjumani"
+                ],
+                "Uyghur": [
+                    "شاھمات كۇلۇبى"
+                ],
+                "Kazakh": [
+                    "шахмат клубы",
+                    "шахмат үйірмесі",
+                    "шахматшылар одағы"
+                ],
+                "Kyrgyz": [
+                    "шахмат клубу",
+                    "шахмат ийрими",
+                    "шахмат коому"
+                ],
+                "Karakalpak": [
+                    "shaxmat klubı",
+                    "shaxmat úyúrmesi",
+                    "shaxmat jámááti"
+                ],
+                "Tatar": [
+                    "шахмат клубы",
+                    "шахматчылар берлеге",
+                    "шахмат җәмгыяте"
+                ],
+                "Bashkir": [
+                    "шахмат клубы",
+                    "шахматсылар йәмғиәте",
+                    "шахмат түңәрәге"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "satranç kulübü",
+                    "satranç derneği",
+                    "satranç cemiyeti"
+                ],
+                "Uyghur": [
+                    "شاتىراش كۇلۇبى",
+                    "شاتىراش جەمئىيىتى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "küşt kluby",
+                    "küştçüler gurnagy",
+                    "küşt jemgyýeti"
+                ]
+            }
+        }
+    ]
+}

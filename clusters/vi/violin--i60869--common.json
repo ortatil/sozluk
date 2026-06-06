@@ -1,0 +1,98 @@
+{
+    "id": "i60869",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "violin",
+    "en_definition": "bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow",
+    "tr_word": "keman",
+    "tr_definition": "Dört telli, yayla çalınan, orkestranın en önemli yaylı çalgısı.",
+    "ru_word": "скрипка",
+    "ru_definition": "Смычковый четырехструнный музыкальный инструмент с высоким регистром.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "skripka"
+                ],
+                "Turkmen": [
+                    "skripka"
+                ],
+                "Uzbek": [
+                    "skripka"
+                ],
+                "Kazakh": [
+                    "скрипка"
+                ],
+                "Kyrgyz": [
+                    "скрипка"
+                ],
+                "Karakalpak": [
+                    "skripka"
+                ],
+                "Tatar": [
+                    "скрипка"
+                ],
+                "Bashkir": [
+                    "скрипка"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "gyjak"
+                ],
+                "Uzbek": [
+                    "g'ijjak"
+                ],
+                "Uyghur": [
+                    "غىجەك"
+                ],
+                "Kyrgyz": [
+                    "кыяк"
+                ],
+                "Karakalpak": [
+                    "qıyaq"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "keman",
+                    "kemane"
+                ],
+                "Azerbaijani": [
+                    "kamança"
+                ],
+                "Uyghur": [
+                    "كامانچا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қобыз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кыяклы саз"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "ҡылҡубыҙ"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "id": "i79649",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "steel industry",
+    "en_definition": "the industry that makes steel and steel products",
+    "tr_word": "çelik endüstrisi",
+    "tr_definition": "çelik ve çelik ürünleri üreten sanayi dalı",
+    "ru_word": "сталелитейная промышленность",
+    "ru_definition": "отрасль промышленности, занимающаяся производством стали и стальных изделий",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "polad sənayesi",
+                    "polad istehsalı"
+                ],
+                "Turkmen": [
+                    "polat senagaty",
+                    "polat önümçiligi"
+                ],
+                "Uzbek": [
+                    "po'lat sanoati",
+                    "po'lat ishlab chiqarish"
+                ],
+                "Uyghur": [
+                    "پولات-تۆمۈر سانائىتى",
+                    "پولاتچىلىق سانائىتى"
+                ],
+                "Kazakh": [
+                    "болат өнеркәсібі",
+                    "болат өндірісі"
+                ],
+                "Kyrgyz": [
+                    "болот өнөр жайы",
+                    "болот өндүрүшү",
+                    "болот куюу өнөр жайы"
+                ],
+                "Karakalpak": [
+                    "bolat óndirisi",
+                    "bolat sanaatı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "metallurgiya sənayesi"
+                ],
+                "Turkmen": [
+                    "metally işläp taýýarlaýyş"
+                ],
+                "Uzbek": [
+                    "metallurgiya sanoati"
+                ],
+                "Karakalpak": [
+                    "metallurgiya"
+                ],
+                "Tatar": [
+                    "металлургия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қара металлургия"
+                ],
+                "Bashkir": [
+                    "ҡорос ҡойоу сәнәғәте",
+                    "ҡара металлургия"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "корыч сәнгате",
+                    "корыч җитештерү"
+                ],
+                "Bashkir": [
+                    "ҡорос етештереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "demir çelik sanayisi",
+                    "demir çelik endüstrisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "çelik sanayisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۆمۈر-پولات سانائىتى"
+                ]
+            }
+        }
+    ]
+}

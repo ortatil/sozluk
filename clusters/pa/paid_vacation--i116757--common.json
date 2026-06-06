@@ -1,0 +1,109 @@
+{
+    "id": "i116757",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "paid vacation",
+    "en_definition": "a vacation from work by an employee with pay granted",
+    "tr_word": "ücretli izin",
+    "tr_definition": "Çalışanın işinden uzak kaldığı süre boyunca maaşını almaya devam ettiği tatil dönemi.",
+    "ru_word": "оплачиваемый отпуск",
+    "ru_definition": "Период отдыха, во время которого за работником сохраняется его заработная плата.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "tölegli rugsat"
+                ],
+                "Kyrgyz": [
+                    "төлөмдүү өргүү"
+                ],
+                "Karakalpak": [
+                    "tólenetіn demalıs"
+                ],
+                "Tatar": [
+                    "түләнмәле ял",
+                    "түләнә торган ял"
+                ],
+                "Bashkir": [
+                    "түләүле ял",
+                    "түләүле отпуск"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "hakly dynç alyş"
+                ],
+                "Uzbek": [
+                    "haqli ta'til"
+                ],
+                "Uyghur": [
+                    "ھەقلىق دەم ئېلىش",
+                    "ھەقلىق رۇخسەت"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ақылы демалыс"
+                ],
+                "Kyrgyz": [
+                    "акы төлөнүүчү өргүү",
+                    "акылуу өргүү"
+                ],
+                "Karakalpak": [
+                    "aqılı demalıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "ücretli izin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "maaşlı izin",
+                    "paralı tatil"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ödənişli məzuniyyət",
+                    "haqqı ödənilən məzuniyyət"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ish haqi saqlanadigan ta'til"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "haq to'lanadigan ta'til"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "еңбек демалысы"
+                ]
+            }
+        }
+    ]
+}

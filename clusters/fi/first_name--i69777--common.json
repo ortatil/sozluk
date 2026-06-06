@@ -1,0 +1,127 @@
+{
+    "id": "i69777",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "first name",
+    "en_definition": "the name that precedes the surname",
+    "tr_word": "ad",
+    "tr_definition": "Soyadından önce gelen, kişiye özel isim",
+    "ru_word": "имя",
+    "ru_definition": "Личное имя человека, стоящее перед фамилией",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ad"
+                ],
+                "Azerbaijani": [
+                    "ad"
+                ],
+                "Turkmen": [
+                    "at",
+                    "ady"
+                ],
+                "Uzbek": [
+                    "ot"
+                ],
+                "Kazakh": [
+                    "ат"
+                ],
+                "Kyrgyz": [
+                    "ат"
+                ],
+                "Karakalpak": [
+                    "at"
+                ],
+                "Tatar": [
+                    "ат"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "isim"
+                ],
+                "Uzbek": [
+                    "ism"
+                ],
+                "Uyghur": [
+                    "ئىسىم"
+                ],
+                "Kazakh": [
+                    "есім"
+                ],
+                "Kyrgyz": [
+                    "ысым"
+                ],
+                "Karakalpak": [
+                    "esim"
+                ],
+                "Tatar": [
+                    "исем"
+                ],
+                "Bashkir": [
+                    "исем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "ön ad"
+                ],
+                "Azerbaijani": [
+                    "öz adı"
+                ],
+                "Turkmen": [
+                    "öz ady"
+                ],
+                "Kyrgyz": [
+                    "өз аты"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəxsi ad"
+                ],
+                "Uyghur": [
+                    "شەخسىي ئىسىم"
+                ],
+                "Tatar": [
+                    "шәхси исем"
+                ],
+                "Bashkir": [
+                    "шәхси исем"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "نام"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ныспы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "atı-jóni"
+                ]
+            }
+        }
+    ]
+}

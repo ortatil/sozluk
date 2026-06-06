@@ -1,0 +1,81 @@
+{
+    "id": "i8773",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "southernmost",
+    "en_definition": "situated farthest south",
+    "tr_word": "en güneydeki",
+    "tr_definition": "en güney uçta bulunan, güneyin en ilerisindeki",
+    "ru_word": "самый южный",
+    "ru_definition": "расположенный дальше всего на юг",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "en güneydeki",
+                    "en güney",
+                    "en cenup"
+                ],
+                "Azerbaijani": [
+                    "ən cənub",
+                    "ən cənubdakı",
+                    "ən cənubda yerləşən"
+                ],
+                "Uzbek": [
+                    "eng janubiy",
+                    "eng janubdagi",
+                    "eng janubda joylashgan"
+                ],
+                "Uyghur": [
+                    "ئەڭ جەنۇبىي",
+                    "ئەڭ جەنۇبتىكى"
+                ],
+                "Kazakh": [
+                    "ең оңтүстік"
+                ],
+                "Karakalpak": [
+                    "eń qubla",
+                    "eń qubla shettegi",
+                    "eń qubla shet"
+                ],
+                "Tatar": [
+                    "иң көньяктагы",
+                    "иң көньяк"
+                ],
+                "Bashkir": [
+                    "иң көньяҡ",
+                    "иң көньяҡтағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەڭ قىبلە تەرەپتىكى"
+                ],
+                "Kyrgyz": [
+                    "эң түштүк",
+                    "эң түштүктөгү",
+                    "эң түштүк четиндеги"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "iň günorta",
+                    "iň günortadaky",
+                    "iň çetki günorta"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қиыр оңтүстік"
+                ]
+            }
+        }
+    ]
+}

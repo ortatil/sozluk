@@ -1,0 +1,67 @@
+{
+    "id": "i77237",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pork",
+    "en_definition": "meat from a domestic hog or pig",
+    "tr_word": "domuz eti",
+    "tr_definition": "evcil domuzdan elde edilen et",
+    "ru_word": "свинина",
+    "ru_definition": "мясо домашней свиньи",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "domuz eti"
+                ],
+                "Azerbaijani": [
+                    "donuz əti"
+                ],
+                "Turkmen": [
+                    "doňuz eti"
+                ],
+                "Kazakh": [
+                    "доңыз еті"
+                ],
+                "Kyrgyz": [
+                    "доңуз эти"
+                ],
+                "Tatar": [
+                    "дуңгыз ите"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "cho'chqa go'shti"
+                ],
+                "Uyghur": [
+                    "چوشقا گۆشى"
+                ],
+                "Kazakh": [
+                    "шошқа еті"
+                ],
+                "Kyrgyz": [
+                    "чочко эти"
+                ],
+                "Karakalpak": [
+                    "shoshqa góshi"
+                ],
+                "Bashkir": [
+                    "сусҡа ите",
+                    "сусҡа ите-майы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "to'ng'iz go'shti"
+                ]
+            }
+        }
+    ]
+}

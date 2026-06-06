@@ -1,0 +1,141 @@
+{
+    "id": "i27964",
+    "type": "verb",
+    "batch": "common",
+    "en_word": "peel",
+    "en_definition": "strip the skin off",
+    "tr_word": "soymak",
+    "tr_definition": "bir meyve veya sebzenin kabuğunu çıkarmak",
+    "ru_word": "чистить",
+    "ru_definition": "снимать кожуру или кожицу с фруктов или овощей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "derisini yüzmek"
+                ],
+                "Azerbaijani": [
+                    "dərisini soymaq"
+                ],
+                "Turkmen": [
+                    "derisini sypyrmak",
+                    "derisini soýmak"
+                ],
+                "Uzbek": [
+                    "terisini shilmoq"
+                ],
+                "Uyghur": [
+                    "تېرىسىنى سويماق"
+                ],
+                "Kazakh": [
+                    "терісін алу"
+                ],
+                "Kyrgyz": [
+                    "терисин сыйруу"
+                ],
+                "Tatar": [
+                    "тиресен тунау",
+                    "тиресен сыдыру"
+                ],
+                "Bashkir": [
+                    "тиреһен һыҙырыу",
+                    "тиреһен тунау",
+                    "тиреһен алыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "soymak"
+                ],
+                "Azerbaijani": [
+                    "soymaq"
+                ],
+                "Turkmen": [
+                    "soýmak"
+                ],
+                "Uzbek": [
+                    "shilmoq",
+                    "so'ymoq"
+                ],
+                "Uyghur": [
+                    "سويماق"
+                ],
+                "Kazakh": [
+                    "сою"
+                ],
+                "Kyrgyz": [
+                    "союу"
+                ],
+                "Karakalpak": [
+                    "soyıu"
+                ],
+                "Tatar": [
+                    "сую"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "сыпыру"
+                ],
+                "Kyrgyz": [
+                    "сыйыруу"
+                ],
+                "Karakalpak": [
+                    "sıpırıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "аршу"
+                ],
+                "Karakalpak": [
+                    "arshıu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yüzmek"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qabığını çıxarmaq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "po'stini shilmoq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "شىلىماق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тунау"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,286 @@
+# Hunch
+| Field | Detail |
+|---|---|
+| **ID** | i67940 |
+| **English** | hunch |
+| **Type** | noun |
+| **Definition** | an impression that something might be the case |
+| **Source** | common |
+| **Ortatil** | sezim, ḍuyğu, güman |
+
+## Comprehensibility Evaluation Matrix
+| Metric / Language | **sezim** | **ḍuyğu** | **güman** | **paraz** | **köñil** | **bolcam** |
+|---|---|---|---|---|---|---|
+| Turkish | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Azerbaijani | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Turkmen | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Uzbek | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| Uyghur | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Kazakh | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ |
+| Kyrgyz | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ |
+| Karakalpak | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Tatar | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| Bashkir | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| *Oghuz Subtotal* | 0.67 | 0.67 | 0.33 | 0 | 0 | 0 |
+| *Qarluq Subtotal* | 1 | 0.50 | 1 | 0.50 | 0 | 0 |
+| *Qipchaq Subtotal* | 1 | 0.40 | 0.20 | 0.40 | 0.80 | 0.60 |
+| *In All* | ✅ | ✅ | ✅ |  |  |  |
+| *In Oghuz/Qipchaq* |  |  |  |  |  |  |
+| **O'TQ** | **3.67** | **2.57** | **2.53** | **0.90** | **0.80** | **0.60** |
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Uyghur** | |
+| سېزىم | sezim |
+| تۇيغۇ | tuyğu |
+| گۇمان | guman |
+| پەرەز | päräz |
+| **Kazakh** | |
+| сезім | sezim |
+| түйсік | tüysik |
+| көңіл | köñil |
+| болжам | boljam |
+| күдік | küdik |
+| **Kyrgyz** | |
+| сезим | sezim |
+| туюм | tuyum |
+| күмөн | kümön |
+| болжол | boljol |
+| шектенүү | şektenüü |
+| **Tatar** | |
+| сизү | sizü |
+| сизем | sizem |
+| сиземләү | sizemläü |
+| күңел | küñel |
+| фараз | faraz |
+| **Bashkir** | |
+| һиҙем | hizem |
+| күңел | küñel |
+| фараз | faraz |
+| шөбһә | şöbhä |
+
+```json
+{
+    "id": "i67940",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hunch",
+    "en_definition": "an impression that something might be the case",
+    "tr_word": "sezgi",
+    "tr_definition": "bir şeyin olabileceğine dair içe doğan his veya tahmin",
+    "ru_word": "предчувствие",
+    "ru_definition": "интуитивное ощущение того, что что-то может произойти или оказаться правдой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "sezgi"
+                ],
+                "Azerbaijani": [
+                    "sezgi"
+                ],
+                "Uzbek": [
+                    "sezgi"
+                ],
+                "Uyghur": [
+                    "سېزىم"
+                ],
+                "Kazakh": [
+                    "сезім"
+                ],
+                "Kyrgyz": [
+                    "сезим"
+                ],
+                "Karakalpak": [
+                    "sezim"
+                ],
+                "Tatar": [
+                    "сизү",
+                    "сизем",
+                    "сиземләү"
+                ],
+                "Bashkir": [
+                    "һиҙем"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "duyğu"
+                ],
+                "Turkmen": [
+                    "duýgy"
+                ],
+                "Uyghur": [
+                    "تۇيغۇ"
+                ],
+                "Kazakh": [
+                    "түйсік"
+                ],
+                "Kyrgyz": [
+                    "туюм"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "güman"
+                ],
+                "Uzbek": [
+                    "gumon"
+                ],
+                "Uyghur": [
+                    "گۇمان"
+                ],
+                "Kyrgyz": [
+                    "күмөн"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "көңіл"
+                ],
+                "Karakalpak": [
+                    "kóńil"
+                ],
+                "Tatar": [
+                    "күңел"
+                ],
+                "Bashkir": [
+                    "күңел"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "پەرەز"
+                ],
+                "Tatar": [
+                    "фараз"
+                ],
+                "Bashkir": [
+                    "фараз"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "болжам"
+                ],
+                "Kyrgyz": [
+                    "болжол"
+                ],
+                "Karakalpak": [
+                    "boljam"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "his"
+                ],
+                "Azerbaijani": [
+                    "hiss"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "tahmin"
+                ],
+                "Uzbek": [
+                    "taxmin"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "zan"
+                ],
+                "Azerbaijani": [
+                    "zənn"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "çaklama"
+                ],
+                "Kyrgyz": [
+                    "шектенүү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shubha"
+                ],
+                "Bashkir": [
+                    "шөбһә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "içgüdü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ehtimal"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pähim"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "bashorat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "күдік"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "túsinik"
+                ]
+            }
+        }
+    ]
+}
+```
+

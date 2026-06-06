@@ -1,0 +1,109 @@
+{
+    "id": "i112047",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "black eye",
+    "en_definition": "a swollen bruise caused by a blow to the eye",
+    "tr_word": "göz morarması",
+    "tr_definition": "göze alınan bir darbe sonucu oluşan şişlik ve morluk",
+    "ru_word": "синяк под глазом",
+    "ru_definition": "опухший кровоподтек, вызванный ударом в область глаза",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "göyərmə"
+                ],
+                "Turkmen": [
+                    "gök",
+                    "gökdürtme",
+                    "gögeren ýer"
+                ],
+                "Uzbek": [
+                    "koʻkargan",
+                    "koʻkarish"
+                ],
+                "Uyghur": [
+                    "كۆكەرگەن كۆز",
+                    "كۆكەرگەن جاي",
+                    "كۆكۈش"
+                ],
+                "Kazakh": [
+                    "көгерген",
+                    "көгерік"
+                ],
+                "Kyrgyz": [
+                    "көгала",
+                    "көгала так",
+                    "көгөргөн жер"
+                ],
+                "Karakalpak": [
+                    "kógergen",
+                    "kók ala",
+                    "kók"
+                ],
+                "Tatar": [
+                    "күгәргән урын",
+                    "күгәрек"
+                ],
+                "Bashkir": [
+                    "күгәргән урын",
+                    "күгәреү",
+                    "күк"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "göz morarması",
+                    "göz kararması"
+                ],
+                "Azerbaijani": [
+                    "gözaltı qaralma",
+                    "gözaltı göyərmə"
+                ],
+                "Uzbek": [
+                    "koʻz koʻkarishi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "morluk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "ləkə"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "shish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "таңба"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "күз төбе күгәрү"
+                ]
+            }
+        }
+    ]
+}

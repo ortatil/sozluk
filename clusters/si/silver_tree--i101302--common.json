@@ -1,0 +1,71 @@
+{
+    "id": "i101302",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "silver tree",
+    "en_definition": "small South African tree with long silvery silky foliage",
+    "tr_word": "gümüş ağacı",
+    "tr_definition": "Güney Afrika'ya özgü, uzun gümüşi ve ipeksi yaprakları olan küçük bir ağaç türü",
+    "ru_word": "серебряное дерево",
+    "ru_definition": "небольшое южноафриканское дерево с длинной серебристой шелковистой листвой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "gümüş ağacı",
+                    "gümüşi ağaç"
+                ],
+                "Azerbaijani": [
+                    "gümüşü ağac",
+                    "gümüşü yarpaqlı ağac"
+                ],
+                "Turkmen": [
+                    "kümüşi agaç",
+                    "kümüşsow agaç"
+                ],
+                "Uyghur": [
+                    "كۈمۈش دەرەخ",
+                    "كۈمۈش يوپۇرماقلىق دەرەخ"
+                ],
+                "Kazakh": [
+                    "күміс ағаш",
+                    "күміс түсті ағаш"
+                ],
+                "Kyrgyz": [
+                    "күмүш дарак",
+                    "күмүш сымал дарак"
+                ],
+                "Karakalpak": [
+                    "gúmis terek"
+                ],
+                "Tatar": [
+                    "көмеш агач"
+                ],
+                "Bashkir": [
+                    "көмөш ағас"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kumushsimon daraxt"
+                ],
+                "Tatar": [
+                    "көмешсыман агач"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "oq daraxt"
+                ],
+                "Karakalpak": [
+                    "aq terek"
+                ]
+            }
+        }
+    ]
+}

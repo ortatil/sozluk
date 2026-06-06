@@ -1,0 +1,91 @@
+{
+    "id": "i58666",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "semitrailer",
+    "en_definition": "a trailer having wheels only in the rear; the front is supported by the towing vehicle",
+    "tr_word": "yarı römork",
+    "tr_definition": "Sadece arka kısmında tekerlekleri olan ve ön kısmı çekici araç tarafından desteklenen bir römork türü.",
+    "ru_word": "полуприцеп",
+    "ru_definition": "Транспортное средство, которое опирается передней частью на тягач и не имеет передней оси.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yarı römork"
+                ],
+                "Azerbaijani": [
+                    "yarımqoşqu"
+                ],
+                "Turkmen": [
+                    "ýarymtirkeg"
+                ],
+                "Uzbek": [
+                    "yarim tirkama"
+                ],
+                "Uyghur": [
+                    "يېرىم تىركەم",
+                    "يېرىم يۈك ھارۋىسى"
+                ],
+                "Kazakh": [
+                    "жартылай тіркеме"
+                ],
+                "Kyrgyz": [
+                    "чиркеме",
+                    "жарым чиркеме"
+                ],
+                "Karakalpak": [
+                    "jartı tirkeme"
+                ],
+                "Tatar": [
+                    "ярымтіркемә"
+                ],
+                "Bashkir": [
+                    "ярым тағылма",
+                    "ярым прицеп"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "treyler"
+                ],
+                "Turkmen": [
+                    "tirkeg"
+                ],
+                "Uzbek": [
+                    "tirkama"
+                ],
+                "Uyghur": [
+                    "تىركەم"
+                ],
+                "Kazakh": [
+                    "тіркеме"
+                ],
+                "Karakalpak": [
+                    "tirkeme"
+                ],
+                "Tatar": [
+                    "тіркемә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "doris"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qoşqu"
+                ]
+            }
+        }
+    ]
+}

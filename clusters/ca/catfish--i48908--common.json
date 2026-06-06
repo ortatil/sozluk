@@ -1,0 +1,99 @@
+{
+    "id": "i48908",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "catfish",
+    "en_definition": "any of numerous mostly freshwater bottom-living fishes of Eurasia and North America with barbels like whiskers around the mouth",
+    "tr_word": "yayın balığı",
+    "tr_definition": "Ağız çevresinde kedi bıyığına benzeyen duyargaları olan, genellikle tatlı su diplerinde yaşayan bir balık türü.",
+    "ru_word": "сом",
+    "ru_definition": "Крупная пресноводная бесчешуйчатая рыба с несколькими парами усов вокруг рта.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "naqqa",
+                    "naqqa balığı",
+                    "ləqqa"
+                ],
+                "Turkmen": [
+                    "lakga",
+                    "lakga balyk"
+                ],
+                "Uzbek": [
+                    "laqqa",
+                    "laqqa baliq"
+                ],
+                "Uyghur": [
+                    "لەقە"
+                ],
+                "Kazakh": [
+                    "лақа"
+                ],
+                "Kyrgyz": [
+                    "лака"
+                ],
+                "Karakalpak": [
+                    "laqa"
+                ],
+                "Tatar": [
+                    "лака"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yayın balığı",
+                    "yayın"
+                ],
+                "Kazakh": [
+                    "жайын"
+                ],
+                "Kyrgyz": [
+                    "жайын"
+                ],
+                "Tatar": [
+                    "җәен"
+                ],
+                "Bashkir": [
+                    "йәйен",
+                    "йәйен балығы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kedi balığı"
+                ],
+                "Uyghur": [
+                    "لەقە بېلىق"
+                ],
+                "Kyrgyz": [
+                    "лака балык"
+                ],
+                "Karakalpak": [
+                    "laqa balıq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "mayda laqqa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "مۈشۈك بېلىق"
+                ]
+            }
+        }
+    ]
+}

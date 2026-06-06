@@ -1,0 +1,147 @@
+{
+    "id": "i39490",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "identity theft",
+    "en_definition": "the co-option of another person's personal information (e.g., name, Social Security number, credit card number, passport) without that person's knowledge and the fraudulent use of such knowledge",
+    "tr_word": "kimlik hırsızlığı",
+    "tr_definition": "Bir kişinin adı, kimlik numarası veya kredi kartı bilgileri gibi kişisel verilerinin, bilgisi dışında ele geçirilerek dolandırıcılık amacıyla kullanılması.",
+    "ru_word": "кража личности",
+    "ru_definition": "Незаконное получение и использование персональных данных другого человека (имя, номер паспорта, данные кредитных карт) в корыстных целях или для совершения мошенничества.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "şəxsiyyət oğurluğu",
+                    "şəxsi məlumatların oğurlanması"
+                ],
+                "Turkmen": [
+                    "şahsyýet ogurlygy"
+                ],
+                "Uzbek": [
+                    "shaxsiyat oʻgʻriligi",
+                    "shaxsiy maʼlumotlarni oʻgʻirlash",
+                    "shaxsni oʻzlashtirish"
+                ],
+                "Uyghur": [
+                    "شەخسىي ئۇچۇر ئوغرىلىقى"
+                ],
+                "Karakalpak": [
+                    "shaxs maǵlıumatların urlao",
+                    "shaxstı jalǵanlao"
+                ],
+                "Tatar": [
+                    "шәхес урлау",
+                    "шәхси мәгълүматны урлау"
+                ],
+                "Bashkir": [
+                    "шәхес урлау"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kimlik hırsızlığı",
+                    "kimlik dolandırıcılığı",
+                    "kimlik sahtekarlığı"
+                ],
+                "Azerbaijani": [
+                    "kimlik oğurluğu"
+                ],
+                "Uyghur": [
+                    "كىملىك ئوغرىلىقى",
+                    "كىملىك ئوغرىلاش"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "at ogurlygy"
+                ],
+                "Bashkir": [
+                    "ят исем менән эш итеү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кеше исемен үзләштерү"
+                ],
+                "Bashkir": [
+                    "кеше исемен үҙләштереү"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "maglumat ogurlygy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "birovning nomidan foydalanish"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жеке бас деректерін ұрлау",
+                    "жеке мәліметтерді заңсыз пайдалану"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "тұлғалық деректерді иемдену"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "бөтен есімді иемдену"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өздүктү уурдоо",
+                    "өздүк маалыматты уурдоо",
+                    "өздүк маалыматты мыйзамсыз колдонуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "башканын атын жамынуу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "ózgenіń atın iyeleo"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ят исем белән алдау"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "id": "i51899",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "chopstick",
+    "en_definition": "one of a pair of slender sticks used as oriental tableware to eat food with",
+    "tr_word": "yemek çubuğu",
+    "tr_definition": "Uzak Doğu mutfağında yemek yemek için kullanılan, genellikle ahşap veya plastikten yapılan bir çift ince çubuk.",
+    "ru_word": "палочка для еды",
+    "ru_definition": "пара тонких палочек, используемых в качестве столовых приборов в странах Восточной Азии.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "çubuk"
+                ],
+                "Azerbaijani": [
+                    "çubuq"
+                ],
+                "Turkmen": [
+                    "çöp"
+                ],
+                "Uzbek": [
+                    "cho'p",
+                    "cho'pcha"
+                ],
+                "Karakalpak": [
+                    "shóp"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تاياقچە"
+                ],
+                "Kazakh": [
+                    "таяқша"
+                ],
+                "Kyrgyz": [
+                    "таякча"
+                ],
+                "Karakalpak": [
+                    "tayaqsha"
+                ],
+                "Tatar": [
+                    "таякчалар"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "ас таяқшасы"
+                ],
+                "Tatar": [
+                    "ашау таяклары"
+                ],
+                "Bashkir": [
+                    "ашау таяҡсалары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "yemek çubuğu"
+                ],
+                "Azerbaijani": [
+                    "yemək çubuğu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қытай таяқшасы"
+                ],
+                "Bashkir": [
+                    "ҡытай таяҡсалары"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "nahar çöpi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "ovqat cho'pi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "چوكا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "тамак таякчалары"
+                ]
+            }
+        }
+    ]
+}

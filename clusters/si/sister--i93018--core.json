@@ -1,0 +1,171 @@
+{
+    "id": "i93018",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "sister",
+    "en_definition": "a female person who has the same parents as another person",
+    "tr_word": "kız kardeş",
+    "tr_definition": "aynı anne babaya sahip olan kız çocuklarından her biri",
+    "ru_word": "сестра",
+    "ru_definition": "дочь тех же родителей по отношению к другим их детям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "singil"
+                ],
+                "Uyghur": [
+                    "سىڭىل"
+                ],
+                "Kazakh": [
+                    "сіңлі"
+                ],
+                "Kyrgyz": [
+                    "сиңди"
+                ],
+                "Karakalpak": [
+                    "sińli"
+                ],
+                "Tatar": [
+                    "сеңел"
+                ],
+                "Bashkir": [
+                    "һеңле"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "opa"
+                ],
+                "Kazakh": [
+                    "апа"
+                ],
+                "Karakalpak": [
+                    "apa"
+                ],
+                "Tatar": [
+                    "апа"
+                ],
+                "Bashkir": [
+                    "апай"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qarindosh"
+                ],
+                "Kazakh": [
+                    "қарындас"
+                ],
+                "Kyrgyz": [
+                    "карындаш"
+                ],
+                "Karakalpak": [
+                    "qarındas"
+                ],
+                "Bashkir": [
+                    "ҡәрендәш"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hemşire"
+                ],
+                "Azerbaijani": [
+                    "həmşirə"
+                ],
+                "Uzbek": [
+                    "hamshira"
+                ],
+                "Uyghur": [
+                    "ھەمشىرە"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bacı"
+                ],
+                "Azerbaijani": [
+                    "bacı"
+                ],
+                "Turkmen": [
+                    "bacylar"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gyz dogan"
+                ],
+                "Tatar": [
+                    "кыз туган"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "әпке"
+                ],
+                "Karakalpak": [
+                    "ápke"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاچا"
+                ],
+                "Kyrgyz": [
+                    "эже"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئاچا-سىڭىل"
+                ],
+                "Kyrgyz": [
+                    "эже-сиңди"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "kız kardeş"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "abla"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "uýa"
+                ]
+            }
+        }
+    ]
+}

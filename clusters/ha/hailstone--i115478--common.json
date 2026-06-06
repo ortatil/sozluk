@@ -1,0 +1,107 @@
+{
+    "id": "i115478",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "hailstone",
+    "en_definition": "small pellet of ice that falls during a hailstorm",
+    "tr_word": "dolu tanesi",
+    "tr_definition": "dolu fırtınası sırasında düşen küçük buz parçası",
+    "ru_word": "градина",
+    "ru_definition": "отдельная частица града, выпадающая во время грозы",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dolu"
+                ],
+                "Azerbaijani": [
+                    "dolu",
+                    "doludənəsi"
+                ],
+                "Turkmen": [
+                    "dolu"
+                ],
+                "Uzbek": [
+                    "do'l"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "مۆلدۈر",
+                    "مۆلدۈر دانىسى"
+                ],
+                "Kyrgyz": [
+                    "мөндүр",
+                    "мөндүр таш"
+                ],
+                "Karakalpak": [
+                    "móndúr"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "бұршақ"
+                ],
+                "Karakalpak": [
+                    "burshaq"
+                ],
+                "Bashkir": [
+                    "борсаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "jale"
+                ],
+                "Uzbek": [
+                    "jola"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "мұз бұршақ"
+                ],
+                "Tatar": [
+                    "боз борчагы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "боз",
+                    "боз яуды"
+                ],
+                "Bashkir": [
+                    "боҙ",
+                    "боҙборсаҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "dolu tanesi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "jöwenek"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+# Glove compartment
+| Field | Detail |
+|---|---|
+| **ID** | i54320 |
+| **English** | glove compartment |
+| **Type** | noun |
+| **Definition** | compartment on the dashboard of a car |
+| **Source** | common |
+| **Ortatil** | qolqapdän |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жәшікше | jäşikşe |
+| **Kyrgyz** | |
+| кутуча | kutuça |
+| текче | tekçe |
+| **Tatar** | |
+| кулсавыт | kulsavıt |
+
+```json
+{
+    "id": "i54320",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "glove compartment",
+    "en_definition": "compartment on the dashboard of a car",
+    "tr_word": "torpido gözü",
+    "tr_definition": "otomobillerin ön panelinde bulunan küçük eşya bölmesi",
+    "ru_word": "бардачок",
+    "ru_definition": "небольшой ящик в приборной панели автомобиля для хранения мелких вещей",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qoʻlqopdon"
+                ],
+                "Uyghur": [
+                    "قولقاپ ساندۇقچىسى"
+                ],
+                "Kazakh": [
+                    "қолғап салғыш",
+                    "қолғап қорапшасы"
+                ],
+                "Kyrgyz": [
+                    "кол кап салгыч"
+                ],
+                "Karakalpak": [
+                    "qolǵap salǵısh"
+                ],
+                "Tatar": [
+                    "кулсавыт"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "quticha"
+                ],
+                "Kyrgyz": [
+                    "кутуча"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жәшікше"
+                ],
+                "Karakalpak": [
+                    "jáshіkshe"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бияләй савыты",
+                    "бияләй бүлеге"
+                ],
+                "Bashkir": [
+                    "бирсәткә урыны"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "torpido gözü",
+                    "torpido"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "əlcək yeri",
+                    "əlcək qutusu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "dolabça"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gapjyk"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goş-golam goýulýan ýer"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "sandykça"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "javoncha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئەسۋاب تاختىسى ساندۇقچىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ماشىنا ساندۇقچىسى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "текче"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Karakalpak": [
+                    "júk salǵısh"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "бирсәткә һандығы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "алғы һандыҡса"
+                ]
+            }
+        }
+    ]
+}
+```
+

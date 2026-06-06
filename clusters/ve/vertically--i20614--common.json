@@ -1,0 +1,115 @@
+{
+    "id": "i20614",
+    "type": "adverb",
+    "batch": "common",
+    "en_word": "vertically",
+    "en_definition": "in a vertical direction",
+    "tr_word": "dikey olarak",
+    "tr_definition": "dikey bir doğrultuda, yukarıdan aşağıya veya aşağıdan yukarıya doğru",
+    "ru_word": "вертикально",
+    "ru_definition": "в вертикальном направлении, перпендикулярно горизонту",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dikey olarak",
+                    "diklemesine",
+                    "dikeyine"
+                ],
+                "Azerbaijani": [
+                    "dik",
+                    "dik şəkildə"
+                ],
+                "Turkmen": [
+                    "dikligine",
+                    "dik",
+                    "dikleýin"
+                ],
+                "Uzbek": [
+                    "tikka",
+                    "tik",
+                    "tikiga"
+                ],
+                "Uyghur": [
+                    "تىك",
+                    "تىكلىنىپ",
+                    "تىكچە"
+                ],
+                "Kazakh": [
+                    "тік",
+                    "тігінен",
+                    "тіктей",
+                    "тік бағытта"
+                ],
+                "Kyrgyz": [
+                    "тигинен",
+                    "тик"
+                ],
+                "Karakalpak": [
+                    "tik",
+                    "tikke",
+                    "tikleyin",
+                    "tiginen"
+                ],
+                "Tatar": [
+                    "тек"
+                ],
+                "Bashkir": [
+                    "тигенән",
+                    "тигеләй"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "vertikal"
+                ],
+                "Tatar": [
+                    "вертикаль рәвештә"
+                ],
+                "Bashkir": [
+                    "вертикаль рәүештә"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "amudi olarak"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "şaquli",
+                    "şaquli olaraq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "өйдө-төмөн"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "турыдан"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өстән аска"
+                ]
+            }
+        }
+    ]
+}

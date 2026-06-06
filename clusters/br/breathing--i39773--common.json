@@ -1,0 +1,108 @@
+{
+    "id": "i39773",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "breathing",
+    "en_definition": "the bodily process of inhalation and exhalation; the process of taking in oxygen from inhaled air and releasing carbon dioxide by exhalation",
+    "tr_word": "solunum",
+    "tr_definition": "Havadaki oksijeni alıp vücuttaki karbondioksiti dışarı verme işlemi; nefes alıp verme süreci.",
+    "ru_word": "дыхание",
+    "ru_definition": "Процесс поглощения кислорода и выделения углекислого газа живыми организмами; совокупность процессов вдоха и выдоха.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "teneffüs"
+                ],
+                "Azerbaijani": [
+                    "tənəffüs"
+                ],
+                "Turkmen": [
+                    "tenepüs"
+                ],
+                "Uzbek": [
+                    "tanaffus"
+                ],
+                "Uyghur": [
+                    "تەنەپپۇس"
+                ],
+                "Kazakh": [
+                    "тыныс алу",
+                    "тыныс"
+                ],
+                "Kyrgyz": [
+                    "тын алуу"
+                ],
+                "Karakalpak": [
+                    "tın alıs"
+                ],
+                "Tatar": [
+                    "тәнәфес"
+                ],
+                "Bashkir": [
+                    "тын алыу",
+                    "тын"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "nefes"
+                ],
+                "Azerbaijani": [
+                    "nəfəsalma",
+                    "nəfəs"
+                ],
+                "Uzbek": [
+                    "nafas",
+                    "nafas olish"
+                ],
+                "Uyghur": [
+                    "نەپەس",
+                    "نەپەسلىنىش"
+                ],
+                "Karakalpak": [
+                    "nápás"
+                ],
+                "Bashkir": [
+                    "нәфес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "dem alyş",
+                    "dem"
+                ],
+                "Kazakh": [
+                    "дем алу",
+                    "дем"
+                ],
+                "Kyrgyz": [
+                    "дем алуу",
+                    "дем"
+                ],
+                "Karakalpak": [
+                    "dem alıs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "soluk",
+                    "solunum"
+                ],
+                "Tatar": [
+                    "сулыш",
+                    "сулыш алу"
+                ]
+            }
+        }
+    ]
+}

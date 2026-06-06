@@ -1,0 +1,185 @@
+# Earth color
+| Field | Detail |
+|---|---|
+| **ID** | i114089 |
+| **English** | earth color |
+| **Type** | noun |
+| **Definition** | a colored mineral used as a pigment |
+| **Source** | common |
+| **Ortatil** | pigment |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+## Transliterated Words
+| Original Word | Transliterated Latin Word |
+|---|---|
+| **Kazakh** | |
+| жоса | josa |
+| **Kyrgyz** | |
+| охра | oxra |
+
+```json
+{
+    "id": "i114089",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "earth color",
+    "en_definition": "a colored mineral used as a pigment",
+    "tr_word": "toprak boya",
+    "tr_definition": "Pigment olarak kullanılan renkli bir mineral",
+    "ru_word": "земляная краска",
+    "ru_definition": "Цветной минерал, используемый в качестве пигмента",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "toprak boya",
+                    "toprak rengi"
+                ],
+                "Azerbaijani": [
+                    "torpaq boyası"
+                ],
+                "Turkmen": [
+                    "toprak reňki",
+                    "toprak boýagy"
+                ],
+                "Uzbek": [
+                    "tuproq rang"
+                ],
+                "Uyghur": [
+                    "تۇپراق رەڭگى",
+                    "تۇپراق پىگمېنتى"
+                ],
+                "Kazakh": [
+                    "топырақ бояу"
+                ],
+                "Kyrgyz": [
+                    "топурак боёк"
+                ],
+                "Karakalpak": [
+                    "topıraq boyau"
+                ],
+                "Tatar": [
+                    "туфрак буявы"
+                ],
+                "Bashkir": [
+                    "тупраҡ буяуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "gil boyası"
+                ],
+                "Kazakh": [
+                    "жер бояуы"
+                ],
+                "Kyrgyz": [
+                    "жер боёк"
+                ],
+                "Karakalpak": [
+                    "jer boyau"
+                ],
+                "Tatar": [
+                    "җир буявы"
+                ],
+                "Bashkir": [
+                    "ер буяуы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "təbii piqment"
+                ],
+                "Kazakh": [
+                    "табиғи пигмент"
+                ],
+                "Karakalpak": [
+                    "tabiǵıy boyau"
+                ],
+                "Tatar": [
+                    "табигый пигмент"
+                ],
+                "Bashkir": [
+                    "тәбиғи буяу"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "pigment"
+                ],
+                "Uzbek": [
+                    "pigment"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "madeni boya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "mineral boya"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "lojuvard"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "boʻyoqdor tuproq"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يەر رەڭگى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жоса"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "охра"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чопо боёк"
+                ]
+            }
+        }
+    ]
+}
+```
+

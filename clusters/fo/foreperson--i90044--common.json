@@ -1,0 +1,147 @@
+{
+    "id": "i90044",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "foreperson",
+    "en_definition": "the presiding member of the jury and the one who speaks on their behalf",
+    "tr_word": "jüri başkanı",
+    "tr_definition": "jürinin başkanı olan ve jüri adına konuşan kişi",
+    "ru_word": "старшина присяжных",
+    "ru_definition": "председательствующий член жюри, который выступает от их имени",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "başlyk"
+                ],
+                "Uzbek": [
+                    "bosh hakam"
+                ],
+                "Uyghur": [
+                    "باشلىق",
+                    "باشقۇرغۇچى"
+                ],
+                "Kazakh": [
+                    "басшы"
+                ],
+                "Kyrgyz": [
+                    "башчы"
+                ],
+                "Karakalpak": [
+                    "basshı",
+                    "basqarıoshı"
+                ],
+                "Tatar": [
+                    "башлык"
+                ],
+                "Bashkir": [
+                    "башлыҡ"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "oqsoqol"
+                ],
+                "Kyrgyz": [
+                    "аксакал"
+                ],
+                "Bashkir": [
+                    "аҡһаҡал"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "رەئىس"
+                ],
+                "Tatar": [
+                    "рәис"
+                ],
+                "Bashkir": [
+                    "рәйес"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Kazakh": [
+                    "төраға"
+                ],
+                "Kyrgyz": [
+                    "төрага"
+                ],
+                "Karakalpak": [
+                    "tóraǵa"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "heyet başkanı"
+                ],
+                "Uzbek": [
+                    "hay'at raisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "jüri başkanı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "sözcü"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "andlılar heyətinin sədri",
+                    "andlılar rəhbəri",
+                    "andlılar başçısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ýolbaşçy"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "kethuda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "жетекші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "өлкән"
+                ]
+            }
+        }
+    ]
+}

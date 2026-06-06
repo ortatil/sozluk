@@ -1,0 +1,152 @@
+# Running shoe
+| Field | Detail |
+|---|---|
+| **ID** | i58351 |
+| **English** | running shoe |
+| **Type** | noun |
+| **Definition** | a light comfortable shoe designed for running |
+| **Source** | common |
+| **Ortatil** | pabıç |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i58351",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "running shoe",
+    "en_definition": "a light comfortable shoe designed for running",
+    "tr_word": "koşu ayakkabısı",
+    "tr_definition": "koşu yapmak için tasarlanmış hafif ve rahat ayakkabı",
+    "ru_word": "кроссовки",
+    "ru_definition": "легкая и удобная обувь, предназначенная для бега",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "spor ayakkabı"
+                ],
+                "Turkmen": [
+                    "sport aýakgaby"
+                ],
+                "Uzbek": [
+                    "sport poyabzali"
+                ],
+                "Kazakh": [
+                    "спорттық аяқ киім"
+                ],
+                "Kyrgyz": [
+                    "спорттук бут кийим"
+                ],
+                "Karakalpak": [
+                    "sport ayaq kiіmі"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "yüngül ayaqqabı"
+                ],
+                "Uyghur": [
+                    "يۈگۈرۈش ئايىغى"
+                ],
+                "Kazakh": [
+                    "жүгіру аяқ киімі"
+                ],
+                "Karakalpak": [
+                    "júgіrіs ayaq kiіmі"
+                ],
+                "Tatar": [
+                    "йөгерү аяк киеме",
+                    "йөгерү башмагы"
+                ],
+                "Bashkir": [
+                    "йүгереү аяҡ кейеме",
+                    "йүгереү башмағы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "يېنىك ئاياغ"
+                ],
+                "Kyrgyz": [
+                    "жеңил бут кийим"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "koşu ayakkabısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "pabuç"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qaçış ayaqqabısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "idman ayaqqabısı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "ylgaw aýakgaby"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "krossowka"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "yugurish poyabzali",
+                    "yugurish kavushi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تەنھەرىكەت ئايىغى"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чуркоо бут кийими"
+                ]
+            }
+        }
+    ]
+}
+```
+

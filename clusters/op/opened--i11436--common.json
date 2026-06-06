@@ -1,0 +1,85 @@
+{
+    "id": "i11436",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "opened",
+    "en_definition": "not sealed or having been unsealed",
+    "tr_word": "açık",
+    "tr_definition": "mühürlenmemiş veya mührü açılmış olan",
+    "ru_word": "открытый",
+    "ru_definition": "не запечатанный или тот, с которого сняли печать",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "açık",
+                    "açılmış"
+                ],
+                "Azerbaijani": [
+                    "açıq",
+                    "açılmış"
+                ],
+                "Turkmen": [
+                    "açyk",
+                    "açylan"
+                ],
+                "Uzbek": [
+                    "ochiq",
+                    "ochilgan"
+                ],
+                "Uyghur": [
+                    "ئېچىلغان"
+                ],
+                "Kazakh": [
+                    "ашық",
+                    "ашылған"
+                ],
+                "Kyrgyz": [
+                    "ачык",
+                    "ачылган"
+                ],
+                "Karakalpak": [
+                    "ashıq",
+                    "ashılǵan"
+                ],
+                "Tatar": [
+                    "ачык",
+                    "ачылган"
+                ],
+                "Bashkir": [
+                    "асыҡ",
+                    "асылған"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "küşade"
+                ],
+                "Azerbaijani": [
+                    "küşadə"
+                ],
+                "Uzbek": [
+                    "kushoda"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوچۇق"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ۋاز"
+                ]
+            }
+        }
+    ]
+}

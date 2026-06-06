@@ -1,0 +1,120 @@
+{
+    "id": "i93526",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "tailor",
+    "en_definition": "a person whose occupation is making and altering garments",
+    "tr_word": "terzi",
+    "tr_definition": "Giysi dikmek veya onarmakla uğraşan kimse.",
+    "ru_word": "портной",
+    "ru_definition": "Человек, профессионально занимающийся шитьем и починкой одежды.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "dikici"
+                ],
+                "Turkmen": [
+                    "tikiniçi"
+                ],
+                "Uzbek": [
+                    "tikuvchi"
+                ],
+                "Uyghur": [
+                    "تىككۈچى"
+                ],
+                "Kazakh": [
+                    "тігінші"
+                ],
+                "Kyrgyz": [
+                    "тикмечи"
+                ],
+                "Karakalpak": [
+                    "tiginshi"
+                ],
+                "Tatar": [
+                    "тегүче"
+                ],
+                "Bashkir": [
+                    "тегенсе"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "terzi"
+                ],
+                "Azerbaijani": [
+                    "dərzi"
+                ],
+                "Turkmen": [
+                    "derzi"
+                ],
+                "Uzbek": [
+                    "darzduz"
+                ],
+                "Karakalpak": [
+                    "tirmeshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "kiyimsoz"
+                ],
+                "Bashkir": [
+                    "кейемсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "خەييات"
+                ],
+                "Tatar": [
+                    "хәят"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "paltartikən"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "ісмер"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "пішуші"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "бычмачы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kyrgyz": [
+                    "чебер"
+                ]
+            }
+        }
+    ]
+}

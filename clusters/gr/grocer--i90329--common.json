@@ -1,0 +1,140 @@
+{
+    "id": "i90329",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "grocer",
+    "en_definition": "a retail merchant who sells foodstuffs (and some household supplies)",
+    "tr_word": "bakkal",
+    "tr_definition": "Yiyecek ve bazı ev ihtiyaçlarını perakende olarak satan esnaf.",
+    "ru_word": "бакалейщик",
+    "ru_definition": "Торговец, занимающийся розничной продажей продуктов питания и некоторых хозяйственных товаров.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bakkal"
+                ],
+                "Azerbaijani": [
+                    "baqqal"
+                ],
+                "Turkmen": [
+                    "bakal",
+                    "bakaleýaçy"
+                ],
+                "Uzbek": [
+                    "baqqol"
+                ],
+                "Uyghur": [
+                    "باققال"
+                ],
+                "Kazakh": [
+                    "бақалшы"
+                ],
+                "Kyrgyz": [
+                    "бакалы"
+                ],
+                "Karakalpak": [
+                    "baqalshı"
+                ],
+                "Tatar": [
+                    "бакалеячы"
+                ],
+                "Bashkir": [
+                    "бакалейщик"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "söwdagär"
+                ],
+                "Uzbek": [
+                    "savdogar"
+                ],
+                "Uyghur": [
+                    "سودىگەر"
+                ],
+                "Kazakh": [
+                    "саудагер"
+                ],
+                "Kyrgyz": [
+                    "соодагер"
+                ],
+                "Karakalpak": [
+                    "saodager"
+                ],
+                "Bashkir": [
+                    "сауҙагәр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "tükançı"
+                ],
+                "Turkmen": [
+                    "dükançy"
+                ],
+                "Uzbek": [
+                    "do'kondor"
+                ],
+                "Kazakh": [
+                    "дүкенші"
+                ],
+                "Kyrgyz": [
+                    "дүкөнчү"
+                ],
+                "Karakalpak": [
+                    "dúkánshi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "erzakçı",
+                    "azıkçı"
+                ],
+                "Azerbaijani": [
+                    "ərzaqçı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "кибетче"
+                ],
+                "Bashkir": [
+                    "кибетсе"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "تۈججار"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "сатучы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "тәэминче"
+                ]
+            }
+        }
+    ]
+}

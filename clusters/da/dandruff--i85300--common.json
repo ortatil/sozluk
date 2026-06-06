@@ -1,0 +1,82 @@
+{
+    "id": "i85300",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "dandruff",
+    "en_definition": "loose scales shed from the scalp",
+    "tr_word": "kepek",
+    "tr_definition": "Saç derisinden dökülen küçük deri parçaları.",
+    "ru_word": "перхоть",
+    "ru_definition": "Мелкие роговые чешуйки, отделяющиеся от кожи волосистой части головы.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kepek",
+                    "kabuk"
+                ],
+                "Azerbaijani": [
+                    "kəpək",
+                    "qabıq"
+                ],
+                "Uzbek": [
+                    "kepak"
+                ],
+                "Kazakh": [
+                    "кебек"
+                ],
+                "Kyrgyz": [
+                    "кабырчык"
+                ],
+                "Karakalpak": [
+                    "qabırshaq"
+                ],
+                "Tatar": [
+                    "кавык",
+                    "кабырчык"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "qazgʻoq"
+                ],
+                "Uyghur": [
+                    "قاقاچ",
+                    "قاقاچ چاچ"
+                ],
+                "Kazakh": [
+                    "қайызғақ"
+                ],
+                "Kyrgyz": [
+                    "какач"
+                ],
+                "Karakalpak": [
+                    "qaqach"
+                ],
+                "Bashkir": [
+                    "ҡауаҡ",
+                    "ҡау"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "goňak",
+                    "goňaklama"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "باش قاقىچى"
+                ]
+            }
+        }
+    ]
+}

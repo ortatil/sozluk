@@ -1,0 +1,87 @@
+{
+    "id": "i58521",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "school bus",
+    "en_definition": "a bus used to transport children to or from school",
+    "tr_word": "okul servisi",
+    "tr_definition": "öğrencileri okula götürüp getiren özel taşıt",
+    "ru_word": "школьный автобус",
+    "ru_definition": "автобус, предназначенный для организованной перевозки детей к учебным заведениям",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "məktəb avtobusu",
+                    "məktəbli avtobusu",
+                    "məktəb nəqliyyatı"
+                ],
+                "Turkmen": [
+                    "mekdep awtobusy"
+                ],
+                "Uzbek": [
+                    "maktab avtobusi"
+                ],
+                "Uyghur": [
+                    "مەكتەپ ئاپتوبۇسى",
+                    "مەكتەپ ماشىنىسى"
+                ],
+                "Kazakh": [
+                    "мектеп автобусы"
+                ],
+                "Kyrgyz": [
+                    "мектеп автобусу"
+                ],
+                "Karakalpak": [
+                    "mektep awtobusı"
+                ],
+                "Tatar": [
+                    "мәктәп автобусы",
+                    "мәктәп олавы"
+                ],
+                "Bashkir": [
+                    "мәктәп автобусы"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "okul servisi",
+                    "okul taşıtı"
+                ],
+                "Turkmen": [
+                    "okuwçy awtobusy"
+                ],
+                "Uzbek": [
+                    "oʻquvchilar avtobusi"
+                ],
+                "Kazakh": [
+                    "оқушылар автобусы"
+                ],
+                "Kyrgyz": [
+                    "окуучулар автобусу"
+                ],
+                "Karakalpak": [
+                    "oqıushılar awtobusı"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "öğrenci servisi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Bashkir": [
+                    "балалар автобусы"
+                ]
+            }
+        }
+    ]
+}

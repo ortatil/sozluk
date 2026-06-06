@@ -1,0 +1,119 @@
+{
+    "id": "i90081",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "free agent",
+    "en_definition": "(sports) a professional athlete who is free to sign a contract to play for any team",
+    "tr_word": "serbest oyuncu",
+    "tr_definition": "herhangi bir takımla sözleşme imzalama hakkına sahip olan profesyonel sporcu",
+    "ru_word": "свободный агент",
+    "ru_definition": "профессиональный спортсмен, имеющий право подписать контракт с любой командой",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "bonservisi elinde olan oyuncu"
+                ],
+                "Turkmen": [
+                    "erkin oýunçy"
+                ],
+                "Kazakh": [
+                    "еркін ойыншы"
+                ],
+                "Kyrgyz": [
+                    "эркин оюнчу",
+                    "эркин агент"
+                ],
+                "Karakalpak": [
+                    "erkin agent",
+                    "erkin oyınshı"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "serbest oyuncu"
+                ],
+                "Azerbaijani": [
+                    "sərbəst oyunçu"
+                ],
+                "Turkmen": [
+                    "şertnamasyz türgen"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uzbek": [
+                    "erkin agent",
+                    "erkin sportchi"
+                ],
+                "Uyghur": [
+                    "ئەركىن توپچى",
+                    "ئەركىن تەنھەرىكەتچى",
+                    "ئەركىن ماھىر"
+                ],
+                "Kazakh": [
+                    "еркін агент"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "müstəqil oyunçu"
+                ],
+                "Uzbek": [
+                    "mustaqil o'yinchi"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "garaşsyz oýunçy"
+                ],
+                "Kazakh": [
+                    "келісімшартсыз ойыншы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "ирекле уенчы",
+                    "ирекле спортчы"
+                ],
+                "Bashkir": [
+                    "ирекле агент",
+                    "ирекле уйынсы"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "boşta olan oyuncu"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "azad agent"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "бәйсез уенчы"
+                ]
+            }
+        }
+    ]
+}

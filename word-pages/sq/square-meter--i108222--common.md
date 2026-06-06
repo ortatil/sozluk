@@ -1,0 +1,114 @@
+# Square meter
+| Field | Detail |
+|---|---|
+| **ID** | i108222 |
+| **English** | square meter |
+| **Type** | noun |
+| **Definition** | a centare is 1/100th of an are |
+| **Source** | common |
+| **Ortatil** | metrekäre |
+
+## Comprehensibility Evaluation Matrix
+
+*Note: No variations found that met the minimum 3-language evaluation threshold criteria.*
+
+```json
+{
+    "id": "i108222",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "square meter",
+    "en_definition": "a centare is 1/100th of an are",
+    "tr_word": "metrekare",
+    "tr_definition": "Kenarı bir metre olan bir karenin alanına eşit olan yüzey ölçü birimi.",
+    "ru_word": "квадратный метр",
+    "ru_definition": "Единица измерения площади, равная площади квадрата со стороной в один метр.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "kare metre"
+                ],
+                "Uyghur": [
+                    "كۋادرات مېتىر"
+                ],
+                "Kazakh": [
+                    "квадрат метр"
+                ],
+                "Kyrgyz": [
+                    "квадрат метр"
+                ],
+                "Karakalpak": [
+                    "kwadrat metr"
+                ],
+                "Tatar": [
+                    "квадрат метр"
+                ],
+                "Bashkir": [
+                    "квадрат метр"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkmen": [
+                    "çarçuwaly metr"
+                ],
+                "Uyghur": [
+                    "چار مېتىر"
+                ],
+                "Kazakh": [
+                    "шаршы метр"
+                ],
+                "Kyrgyz": [
+                    "чарчы метр"
+                ],
+                "Karakalpak": [
+                    "sharshı metr"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Azerbaijani": [
+                    "kvadrat metr"
+                ],
+                "Turkmen": [
+                    "kwadrat metr"
+                ],
+                "Uzbek": [
+                    "kvadrat metr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkish": [
+                    "metrekare"
+                ],
+                "Azerbaijani": [
+                    "metr kvadrat"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uzbek": [
+                    "murabba metr"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "дүрткел метр"
+                ]
+            }
+        }
+    ]
+}
+```
+

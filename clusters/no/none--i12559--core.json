@@ -1,0 +1,97 @@
+{
+    "id": "i12559",
+    "type": "noun",
+    "batch": "core",
+    "en_word": "none",
+    "en_definition": "not any",
+    "tr_word": "hiçbiri",
+    "tr_definition": "hiçbir kimse veya hiçbir şey; yokluk durumu",
+    "ru_word": "ничто",
+    "ru_definition": "отсутствие чего-либо; ни один предмет или человек",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hiçbiri",
+                    "hiç"
+                ],
+                "Azerbaijani": [
+                    "heç biri",
+                    "heç kəs",
+                    "heç nə"
+                ],
+                "Turkmen": [
+                    "hiç biri",
+                    "hiç zat",
+                    "hiç kimse"
+                ],
+                "Uzbek": [
+                    "hech biri",
+                    "hech qaysi"
+                ],
+                "Uyghur": [
+                    "ھېچقايسىسى",
+                    "ھېچبىرى",
+                    "ھېچنېمە"
+                ],
+                "Kazakh": [
+                    "ешқайсысы",
+                    "ешбірі",
+                    "ешнәрсе"
+                ],
+                "Kyrgyz": [
+                    "эч ким",
+                    "эч нерсе",
+                    "эч"
+                ],
+                "Karakalpak": [
+                    "eshqaysısı",
+                    "eshbіrі",
+                    "eshnárse"
+                ],
+                "Tatar": [
+                    "һичбер"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "yok"
+                ],
+                "Uzbek": [
+                    "yo'qlik"
+                ],
+                "Kazakh": [
+                    "жоқ"
+                ],
+                "Kyrgyz": [
+                    "жок"
+                ],
+                "Karakalpak": [
+                    "joq"
+                ],
+                "Tatar": [
+                    "юклык"
+                ],
+                "Bashkir": [
+                    "юҡлыҡ"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Tatar": [
+                    "берсе дә"
+                ],
+                "Bashkir": [
+                    "берәү ҙә түгел",
+                    "бер ни ҙә",
+                    "бер нәмە ҙә"
+                ]
+            }
+        }
+    ]
+}

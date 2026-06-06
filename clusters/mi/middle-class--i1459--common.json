@@ -1,0 +1,75 @@
+{
+    "id": "i1459",
+    "type": "adjective",
+    "batch": "common",
+    "en_word": "middle-class",
+    "en_definition": "occupying a socioeconomic position intermediate between those of the lower classes and the wealthy",
+    "tr_word": "orta sınıf",
+    "tr_definition": "alt sınıf ile zenginler arasındaki sosyoekonomik konumu işgal eden",
+    "ru_word": "средний класс",
+    "ru_definition": "занимающий социально-экономическое положение между низшими слоями населения и богатыми",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "orta sınıf",
+                    "orta halli",
+                    "orta tabaka"
+                ],
+                "Azerbaijani": [
+                    "orta təbəqə",
+                    "orta zümrə",
+                    "orta sinif"
+                ],
+                "Turkmen": [
+                    "orta gatlak",
+                    "orta synp",
+                    "ortaça"
+                ],
+                "Uzbek": [
+                    "oʻrta hol",
+                    "oʻrtahol",
+                    "oʻrta tabaqa",
+                    "oʻrta qatlam"
+                ],
+                "Kazakh": [
+                    "орташа",
+                    "орта",
+                    "орта дәулетті",
+                    "орташа ауқатты"
+                ],
+                "Kyrgyz": [
+                    "орто катмар",
+                    "орто абалдагы",
+                    "орточо",
+                    "орто жашаган"
+                ],
+                "Karakalpak": [
+                    "ortasha",
+                    "ortasha dárejeli",
+                    "ortasha hallı",
+                    "ortasha qatlamlı"
+                ],
+                "Tatar": [
+                    "урта катлам",
+                    "урта сыйныф",
+                    "урта хәлле"
+                ],
+                "Bashkir": [
+                    "урта хәлле",
+                    "урта ҡатлам",
+                    "уртаса хәлле"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "ئوتتۇرا تەبىقە",
+                    "ئوتتۇرا قاتلام"
+                ]
+            }
+        }
+    ]
+}

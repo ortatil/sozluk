@@ -1,0 +1,139 @@
+{
+    "id": "i57275",
+    "type": "noun",
+    "batch": "common",
+    "en_word": "pill",
+    "en_definition": "a dose of medicine in the form of a small pellet",
+    "tr_word": "hap",
+    "tr_definition": "Küçük bir top veya tablet biçiminde, yutulmaya hazır ilaç dozu.",
+    "ru_word": "таблетка",
+    "ru_definition": "Доза лекарства в виде маленького твердого шарика или диска для приема внутрь.",
+    "clusters": [
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "draje"
+                ],
+                "Azerbaijani": [
+                    "dərman"
+                ],
+                "Turkmen": [
+                    "derman"
+                ],
+                "Uzbek": [
+                    "dori"
+                ],
+                "Kazakh": [
+                    "дәрі"
+                ],
+                "Kyrgyz": [
+                    "дары"
+                ],
+                "Karakalpak": [
+                    "dári"
+                ],
+                "Tatar": [
+                    "дару"
+                ],
+                "Bashkir": [
+                    "дарыу"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "hap"
+                ],
+                "Azerbaijani": [
+                    "həb"
+                ],
+                "Turkmen": [
+                    "hab"
+                ],
+                "Uzbek": [
+                    "hap",
+                    "hab"
+                ],
+                "Uyghur": [
+                    "ھەب"
+                ],
+                "Tatar": [
+                    "хәб"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Uyghur": [
+                    "تۈگمە دورا"
+                ],
+                "Kazakh": [
+                    "түйіршік",
+                    "түймедақ"
+                ],
+                "Kyrgyz": [
+                    "түймө",
+                    "түймө дары"
+                ],
+                "Karakalpak": [
+                    "túymeshe"
+                ],
+                "Tatar": [
+                    "төймә"
+                ],
+                "Bashkir": [
+                    "төймө"
+                ]
+            }
+        },
+        {
+            "ortatil": "",
+            "cluster": {
+                "Turkish": [
+                    "tablet"
+                ],
+                "Uzbek": [
+                    "tabletka"
+                ],
+                "Uyghur": [
+                    "تابلېتکا"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Kazakh": [
+                    "қапшық"
+                ],
+                "Karakalpak": [
+                    "qapshıqsha"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Azerbaijani": [
+                    "qurs"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Turkmen": [
+                    "gerdejik"
+                ]
+            }
+        },
+        {
+            "cluster": {
+                "Uyghur": [
+                    "دورىگەرچەك"
+                ]
+            }
+        }
+    ]
+}
